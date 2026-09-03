@@ -95,7 +95,7 @@ It is tempting to let the Map's commitments do the work: dualism makes conscious
 
 The parent article applies the same discipline to its own value-blind horn: a fork resolved by what feels congenial rather than by argument violates the Map's standards. Here the congenial error runs the other way—toward generous attribution—and the guardrail holds equally.
 
-The ladder's statuses are also positions beneath a ceiling. The horn they grade is held, per [P-VS1](/positions/value-in-selection/), on prior commitments at low credence, citable as a framework-internal coherence result only; "live hypothesis" for the rat means live *relative to that ceiling*, and no rung sits higher than the horn it presupposes.
+The ladder's statuses are also positions beneath a ceiling. The horn they grade is held, per [P-VS1](/positions/value-in-selection/#p-vs1), on prior commitments at low credence, citable as a framework-internal coherence result only; "live hypothesis" for the rat means live *relative to that ceiling*, and no rung sits higher than the horn it presupposes.
 
 ## Evidence That Would Shift the Assessment
 

@@ -138,7 +138,7 @@ The knowledge argument shares deep structure with other anti-physicalist argumen
 
 **[The Empirical Wedge](/concepts/phenomenology-vs-function-axis/)**: Mary's Room is the most stringent thought-experiment version of a wedge empirical work has driven elsewhere. The phenomenology-vs-function axis catalogues clinical and experimental cases—aphantasic mental rotation strategies, synaesthetic extra qualia, Strawson's foreign-language understanding, Wegner's I-Spy authorship dissociation—where phenomenology and function come apart in actual subjects. Together with Mary, the cross-domain pattern constrains functionalism without refuting it and resists single-rejoinder dispatch: the multi-realizability move that absorbs imagery must absorb the others by the same logic.
 
-**Convergence**: The knowledge argument is one of several [arguments for dualism](/concepts/dualism/)—explanatory gap, conceivability, inverted qualia, modal arguments—that press the same gap between physical description and phenomenal character. They corroborate one another's formulation rather than multiply independent evidence; their joint force is bounded by the shared premise ([P-D1](/positions/arguments-for-dualism/); [P-M2](/positions/methodology-and-calibration/)).
+**Convergence**: The knowledge argument is one of several [arguments for dualism](/concepts/dualism/)—explanatory gap, conceivability, inverted qualia, modal arguments—that press the same gap between physical description and phenomenal character. They corroborate one another's formulation rather than multiply independent evidence; their joint force is bounded by the shared premise ([P-D1](/positions/arguments-for-dualism/#p-d1); [P-M2](/positions/methodology-and-calibration/#p-m2)).
 
 ## The Introspection Question
 

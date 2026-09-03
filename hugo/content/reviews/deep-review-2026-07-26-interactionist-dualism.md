@@ -27,7 +27,7 @@ topics: []
 Drift-focused pass on a deeply converged article. The one substantive change since the 07-07 review is commit `cc8d5b682` (2026-07-16 `refine-draft`), the product of a **convergent 3-reviewer outer review** (ChatGPT + Claude + Gemini) that:
 
 1. **De-duplicated the "cumulative case"** — Arguments 1–3 (explanatory gap, conceivability, knowledge argument) are now explicitly labelled three presentations of a *single* anti-physicalist intuition (structural/functional facts do not entail phenomenal facts), counting as one line, not three. The lead no longer says "seven arguments converge."
-2. **Inherited the P-Q3 mechanism debt into Argument 7** — added `[[positions/quantum-interface#^mechanism-debt|mechanism debt]]` (graded contested) so the quantum-indeterminacy argument no longer reads more confident than the positions register upstream.
+2. **Inherited the [P-Q3](/positions/quantum-interface/#p-q3) mechanism debt into Argument 7** — added `[[positions/quantum-interface#^mechanism-debt|mechanism debt]]` (graded contested) so the quantum-indeterminacy argument no longer reads more confident than the positions register upstream.
 3. **Softened the delegation claim** — "quantum selection *the* physical mechanism" → "*a candidate* physical mechanism of a single event." A calibration improvement.
 4. **Expanded the pairing-problem treatment** — added the Bailey/Rasmussen/Van Horn 2011 inline cite and a property-leaning vs substance-leaning split marking the pairing residue "unsettled, not resolved."
 5. Minor prose tightening (lucid-dreaming, coupling-mechanisms, empirical-compatibility sentences).

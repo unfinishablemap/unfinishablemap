@@ -329,7 +329,7 @@ The guidelines say the former numerical cap has been superseded by a qualitative
 
 ### 6.3 The applied-index metadata is stale
 
-The A1 entry still says methodology position clusters are to be determined. The same page’s A7 entry already cites P-M1, P-M2, P-M4 and P-M5 as live methodology positions. [apex-articles](/apex/apex-articles/)
+The A1 entry still says methodology position clusters are to be determined. The same page’s A7 entry already cites [P-M1](/positions/methodology-and-calibration/#p-m1), [P-M2](/positions/methodology-and-calibration/#p-m2), [P-M4](/positions/methodology-and-calibration/#p-m4) and [P-M5](/positions/methodology-and-calibration/#p-m5) as live methodology positions. [apex-articles](/apex/apex-articles/)
 
 ### 6.4 Entries 6 and 35 require an organism-scope reconciliation
 
@@ -433,7 +433,7 @@ Processed 2026-08-20. All slugs the review targets resolve to live articles — 
 - ✓ **Stiller–Dunbar misattribution confirmed.** The quoted sentence "the limits of recursive thinking may lie in maximum recursive depth rather than in the total number of recursive relations entertained" appears verbatim (followed by "per se") in Redshaw, J. (2024), "The recursive grammar of mental time travel," *Phil. Trans. R. Soc. B* 379:20230412 (PMC11606512), inside Redshaw's own worked example; the Redshaw article contains zero mentions of Stiller, which resolves the direction of borrowing. [recursion-void](/voids/recursion-void/) attributes the sentence to Stiller and Dunbar (2007) — a paper about perspective-taking and memory capacity predicting social-network size — and does not cite Redshaw at all.
 - ✓ Entry 23's status describes `concepts/alexithymia` as an integrated "fifth divergence class" while the entry's Source articles list omits it.
 - ✓ Superseded cap language: "informal 20-article cap" / "informal cap" survives in **six** entry statuses (lines 550, 570, 591, 612, 632, 654) — broader than the reviewer's two.
-- ✓ A1 applied-index metadata stale: line 827 still reads "position clusters on consciousness-scope (TBD) and methodology (TBD) once seeded" while A7 (line 876) already cites P-M1, P-M2, P-M4, P-M5 as live.
+- ✓ A1 applied-index metadata stale: line 827 still reads "position clusters on consciousness-scope (TBD) and methodology (TBD) once seeded" while A7 (line 876) already cites [P-M1](/positions/methodology-and-calibration/#p-m1), [P-M2](/positions/methodology-and-calibration/#p-m2), [P-M4](/positions/methodology-and-calibration/#p-m4), [P-M5](/positions/methodology-and-calibration/#p-m5) as live.
 - ✓ Entry 35's status says entry 6 "runs the *opposite* thesis … so it neither subsumes nor conflicts," matching the reviewer's characterisation.
 - ✓ Hu et al. 2023 species scoping: entry 26's status describes the "KCC2 active-reboot pathway as mechanism-shared reopening" with no species qualifier; "mouse"/"mice" appears nowhere in the catalogue.
 

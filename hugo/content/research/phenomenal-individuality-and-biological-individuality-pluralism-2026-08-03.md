@@ -104,7 +104,7 @@ So: the *list* has no phenomenal entry; the *literature* does discuss subjectivi
 
 ## The Finding the Map Should Actually Take: the Boundary Problem
 
-[subject-census](/positions/subject-census/) P-SC2 books, as a debt, that the Map has "no worked account of *subject pairing*". That debt has a name outside the Map, and a literature.
+[subject-census](/positions/subject-census/) [P-SC2](/positions/subject-census/#p-sc2) books, as a debt, that the Map has "no worked account of *subject pairing*". That debt has a name outside the Map, and a literature.
 
 **Gómez-Emilsson & Percy (2023)**, *Frontiers in Human Neuroscience* 17: 1233119:
 
@@ -114,13 +114,13 @@ and:
 
 > To a first approximation, the boundary problem asks why we experience hard boundaries around those unified 1PPs and why the boundaries operate at their apparent spatiotemporal scale.
 
-They report setting out "five specific boundary problems to aid precision in future efforts" — i.e. the decomposition work P-SC2 says the Map owes has been partly done by someone else, under a name the Map does not currently use anywhere.
+They report setting out "five specific boundary problems to aid precision in future efforts" — i.e. the decomposition work [P-SC2](/positions/subject-census/#p-sc2) says the Map owes has been partly done by someone else, under a name the Map does not currently use anywhere.
 
 **Fekete, van Leeuwen & Edelman (2016)**, *Frontiers in Psychology* 7: 1041, states the census problem as a formal constraint on any quantitative measure of consciousness:
 
 > an MoC that labels a system as conscious will do so for some-perhaps most-of its subsystems, as well as for irrelevantly extended systems (e.g., the original system augmented with physical appendages that contribute nothing to the properties supposedly supporting consciousness), and for aggregates of individually conscious systems (e.g., groups of people). This problem suggests that the properties that are being measured are epiphenomenal to consciousness, or else it implies a bizarre proliferation of minds.
 
-This bears directly on the Map's dialectical position. IIT is the one live physicalist theory that *does* discharge P-SC2 — its exclusion postulate picks out maxima of integrated information and thereby yields a determinate count and pairing. Fekete et al. argue the price is subsystem and aggregate proliferation unless the measure is shown to be intrinsic or systemic. The Map can therefore say something stronger than "we owe a pairing law": *the only extant theory that pays this debt pays it in a currency that generates a proliferation problem, and the Map's own indistinguishability result (P-SC1, resting on exact Born preservation) means the Map cannot buy its way out empirically either.* That is a symmetric cost statement of exactly the kind Tenet 5 licenses.
+This bears directly on the Map's dialectical position. IIT is the one live physicalist theory that *does* discharge [P-SC2](/positions/subject-census/#p-sc2) — its exclusion postulate picks out maxima of integrated information and thereby yields a determinate count and pairing. Fekete et al. argue the price is subsystem and aggregate proliferation unless the measure is shown to be intrinsic or systemic. The Map can therefore say something stronger than "we owe a pairing law": *the only extant theory that pays this debt pays it in a currency that generates a proliferation problem, and the Map's own indistinguishability result ([P-SC1](/positions/subject-census/#p-sc1), resting on exact Born preservation) means the Map cannot buy its way out empirically either.* That is a symmetric cost statement of exactly the kind Tenet 5 licenses.
 
 **Michael Levin (2019)**, *Frontiers in Psychology* 10: 2688, supplies the closest thing in the biology literature to a non-coinciding individuality criterion of the right shape:
 
@@ -139,7 +139,7 @@ Separately from the pluralism papers, there is an edited volume dedicated to joi
 | 13 | 233–250 | The nature of persons and the nature of animals | Paul F. Snowdon |
 | 14 | 251–278 | Processual animalism | Anne Sophie Meincke |
 
-Olson and Snowdon are animalists: on their view the subject of experience *is* a biological individual of a specific kind (an organism), which is a direct, developed answer to the commissioning question and one that runs against the Map. Kingma's pregnancy chapter is a census case the Map does not treat at all — during gestation, how many subjects does one organism-shaped region contain, and does the answer track any of the biological criteria? Given P-SC3's explicit refusal to date channel onset, this is the sharpest available test case for the Map's own position, and it is currently absent from the corpus.
+Olson and Snowdon are animalists: on their view the subject of experience *is* a biological individual of a specific kind (an organism), which is a direct, developed answer to the commissioning question and one that runs against the Map. Kingma's pregnancy chapter is a census case the Map does not treat at all — during gestation, how many subjects does one organism-shaped region contain, and does the answer track any of the biological criteria? Given [P-SC3](/positions/subject-census/#p-sc3)'s explicit refusal to date channel onset, this is the sharpest available test case for the Map's own position, and it is currently absent from the corpus.
 
 The Map's individuation cluster cites none of this volume.
 
@@ -147,8 +147,8 @@ The Map's individuation cluster cites none of this volume.
 
 - **Tenet 1 (Dualism)** is what makes a phenomenal individuality criterion possible at all. If subject boundaries were organizational, the criterion would reduce to one of the existing four and the pluralism would already be complete.
 - **Tenet 5 (Occam's Razor Has Limits)** is where the real argument lives, and Godfrey-Smith's bracketing clause is the exhibit. The organizational answer is not simpler-because-truer; it is simpler because the alternative was set aside in a subordinate clause before the analysis began. This is the same move the host article already makes against Michod's fitness criterion, applied to a target that states its own exclusion in writing.
-- **Tenet 3 (Bidirectional Interaction)** supplies the reason the Map cannot treat this as decoration. P-SC1 makes the census part of the state description; a phenomenal individuality criterion would be the boundary condition the selection law needs.
-- **Conflict, stated honestly**: animalism (Olson, Snowdon) holds the subject to be a biological individual outright, and Godfrey-Smith's gradualism is compatible with there being no determinate count — which contradicts P-I1's determinate-boundaries commitment. Neither is refuted by anything the Map holds; both are framework-boundary disagreements and should be registered as such rather than dispatched.
+- **Tenet 3 (Bidirectional Interaction)** supplies the reason the Map cannot treat this as decoration. [P-SC1](/positions/subject-census/#p-sc1) makes the census part of the state description; a phenomenal individuality criterion would be the boundary condition the selection law needs.
+- **Conflict, stated honestly**: animalism (Olson, Snowdon) holds the subject to be a biological individual outright, and Godfrey-Smith's gradualism is compatible with there being no determinate count — which contradicts [P-I1](/positions/individuation-and-subjecthood/#p-i1)'s determinate-boundaries commitment. Neither is refuted by anything the Map holds; both are framework-boundary disagreements and should be registered as such rather than dispatched.
 
 ## Recommendation
 
@@ -168,7 +168,7 @@ The last `topics/` slot should not go to this subject, for three reasons. The hi
 Proposed follow-on tasks, in priority order:
 
 1. **P1 `refine-draft` on `obsidian/topics/consciousness-and-the-major-evolutionary-transitions.md`.** Replace "a question the framework does not ask" with the accurate and stronger claim: the question *is* asked, by Godfrey-Smith 2016 in the same special issue, and answered organizationally after dualist and panpsychist views are set aside by stipulation. Add the citation. This is a correctness fix, not an enhancement — the current sentence is refutable from a source the article already cites two lines above.
-2. **P2 `positions-evolve` on `obsidian/positions/subject-census.md`.** Add the *boundary problem* as the external name for P-SC2's debt, cite Gómez-Emilsson & Percy 2023 and Fekete et al. 2016, and record the IIT-exclusion comparison as the symmetric cost noted above. P-SC2's "Would shift if" clause should acknowledge that partial decomposition work exists outside the Map.
+2. **P2 `positions-evolve` on `obsidian/positions/subject-census.md`.** Add the *boundary problem* as the external name for [P-SC2](/positions/subject-census/#p-sc2)'s debt, cite Gómez-Emilsson & Percy 2023 and Fekete et al. 2016, and record the IIT-exclusion comparison as the symmetric cost noted above. [P-SC2](/positions/subject-census/#p-sc2)'s "Would shift if" clause should acknowledge that partial decomposition work exists outside the Map.
 3. **P2 `refine-draft` on `obsidian/topics/consciousness-and-the-metaphysics-of-individuation.md`.** Add the Meincke & Dupré volume, chiefly Olson and Snowdon on persons/animals, as the bridging literature between biological individuality and the Map's individuation question. The article currently jumps from Kant to Nida-Rümelin with no biological bridge.
 4. **P3, optional.** Kingma's pregnancy case as a census test — genuinely uncovered, and a better use of a scarce slot than this subject if a slot is ever spent here. Worth logging as a distinct harvest subject rather than folding.
 

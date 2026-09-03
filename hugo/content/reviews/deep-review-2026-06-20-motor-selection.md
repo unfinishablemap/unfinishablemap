@@ -66,7 +66,7 @@ framing at [quantum-interface](/positions/quantum-interface/#mechanism-debt):
   ("until a positive account survives review", "no worked toy model").
 - **Block-anchor link RESOLVES**: Hugo renders `[[positions/quantum-interface#^mechanism-debt]]` →
   `/positions/quantum-interface/#mechanism-debt`, and the target `<span id="mechanism-debt"></span>`
-  exists at the P-Q3 framing in the built quantum-interface page. Live.
+  exists at the [P-Q3](/positions/quantum-interface/#p-q3) framing in the built quantum-interface page. Live.
 - **Coherent with sibling applied articles**: brain-specialness-boundary handles the same Born-
   preservation / epiphenomenalism pressure with consistent honest-marking (it calls brain-locality
   "a scope clause inside the Map's psychophysical coupling programme rather than a result derived

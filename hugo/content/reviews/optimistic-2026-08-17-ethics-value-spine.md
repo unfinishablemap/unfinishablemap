@@ -42,7 +42,7 @@ The apex's four-textures argument for normativity (demand character, resistance 
 
 ### The Quantum Mind Theorist (Stapp)
 
-The wing does not hide behind the interface — it prices it. The apex's "Open Frontier: Value in the Mechanism" section puts the register's verdict *before* the arguments ("The register's verdict belongs before the arguments"), states that value-sensitivity "requires a second mental-to-physical coupling — valence to physics — beyond the attentional one, and neither coupling has a worked implementation," and inherits rather than discharges the debt. `positions/value-in-selection` P-VS1 goes further, naming Stapp's observation-rate model as the *rival* horn's worked specification. Engaging the physics-consciousness interface while conceding which horn has the worked model is the honest version of this programme.
+The wing does not hide behind the interface — it prices it. The apex's "Open Frontier: Value in the Mechanism" section puts the register's verdict *before* the arguments ("The register's verdict belongs before the arguments"), states that value-sensitivity "requires a second mental-to-physical coupling — valence to physics — beyond the attentional one, and neither coupling has a worked implementation," and inherits rather than discharges the debt. `positions/value-in-selection` [P-VS1](/positions/value-in-selection/#p-vs1) goes further, naming Stapp's observation-rate model as the *rival* horn's worked specification. Engaging the physics-consciousness interface while conceding which horn has the worked model is the honest version of this programme.
 
 ### The Phenomenologist (Nagel)
 
@@ -66,7 +66,7 @@ The wing's falsifiability sections are unusually honest about *what kind* of con
 
 This wing touches animal-consciousness boundary cases, so this persona's verdict carries. **It passes, in both directions, and the restraint is explicit rather than incidental.**
 
-**Tenet-as-evidence-upgrade is praise-worthily *not* done.** The apex, at the exact sentence where the Process Philosopher's praise would cash out as a tier-upgrade, runs the P-M1 discipline instead: "Tenet 1 removes a defeater (animals have no metaphysical disqualification) but does not by itself raise evidential status." And it holds the line downward: "for cephalopods, decapods, and insects it is a 'realistic possibility, contested' rather than established consciousness; boundary organisms (nematodes, Hydra, slime molds) sit weaker still." Nematodes, *Hydra* and slime molds are named and held *below* realistic possibility — the precise case where tenet-load would most easily have been used as an engine.
+**Tenet-as-evidence-upgrade is praise-worthily *not* done.** The apex, at the exact sentence where the Process Philosopher's praise would cash out as a tier-upgrade, runs the [P-M1](/positions/methodology-and-calibration/#p-m1) discipline instead: "Tenet 1 removes a defeater (animals have no metaphysical disqualification) but does not by itself raise evidential status." And it holds the line downward: "for cephalopods, decapods, and insects it is a 'realistic possibility, contested' rather than established consciousness; boundary organisms (nematodes, Hydra, slime molds) sit weaker still." Nematodes, *Hydra* and slime molds are named and held *below* realistic possibility — the precise case where tenet-load would most easily have been used as an engine.
 
 **The strongest single line in the wing on this axis is the hub's refusal to claim an ally.** `topics/ethics-under-dualism` adopts Birch's decision procedure and declines to convert the borrowing into support: "That framework is deliberately metaphysics-neutral, and Birch himself assigns non-materialist views low credence, so the Map borrows his decision procedure without claiming him as an ally on the grounding question." Borrowing an action layer from someone who assigns your metaphysics low credence, and *saying so in the same sentence*, is the cleanest instance of "tenet-coherent, not evidence-elevating" in the wing.
 
@@ -93,7 +93,7 @@ Measured three ways. **Broadly yes, with normativity as the one weak seam.**
 
 None is a stub. The unification is not four labels on one developed domain.
 
-**2. Agency carries more weight than the others, and the wing says so.** Agency has four further supporting articles (`concepts/moral-responsibility` 3437, `topics/reactive-attitudes-and-strawsonian-responsibility` 2792, `topics/ai-moral-agency-and-the-responsibility-gap-under-dualism` 2935, `topics/responsibility-gradient-from-attentional-capacity` 2953) plus five register entries (P-A1–P-A5). Value has `concepts/evaluative-phenomenal-character` (3471), `the-sublime-and-negative-aesthetics`, `consciousness-value-connection`, and three register entries (P-VS3, P-VS4, P-MS1). Normativity and moral epistemology have neither a comparable support cluster nor any register entry.
+**2. Agency carries more weight than the others, and the wing says so.** Agency has four further supporting articles (`concepts/moral-responsibility` 3437, `topics/reactive-attitudes-and-strawsonian-responsibility` 2792, `topics/ai-moral-agency-and-the-responsibility-gap-under-dualism` 2935, `topics/responsibility-gradient-from-attentional-capacity` 2953) plus five register entries ([P-A1](/positions/agency-and-will/#p-a1)–[P-A5](/positions/agency-and-will/#p-a5)). Value has `concepts/evaluative-phenomenal-character` (3471), `the-sublime-and-negative-aesthetics`, `consciousness-value-connection`, and three register entries ([P-VS3](/positions/value-in-selection/#p-vs3), [P-VS4](/positions/value-in-selection/#p-vs4), [P-MS1](/positions/moral-status/#p-ms1)). Normativity and moral epistemology have neither a comparable support cluster nor any register entry.
 
 This asymmetry is **not concealed**. The apex's "Load-Bearing but Uneven" section states it: value "has the strongest independent case," moral perception "rests on phenomenological evidence that does not require agent causation," and "Normativity loses much of its force without genuine agency." The wing knows which pillar leans on which.
 
@@ -165,14 +165,14 @@ The positions register points at the wing; the wing does not point back. Seven "
 
 | Register entry | Names | Links back |
 |---|---|---|
-| `agency-and-will` P-A5 | `moral-implications-of-genuine-agency` | 0 |
-| `moral-status` P-MS1 | `ethics-under-dualism`, `phenomenal-value-realism` | 0, 0 |
-| `value-in-selection` P-VS1/2 | `apex/moral-architecture-of-consciousness` | 0 |
-| `value-in-selection` P-VS3 | `apex/…`, `phenomenal-value-realism` | 0, 0 |
-| `value-in-selection` P-VS4 | `apex/…`, `phenomenal-value-realism`, `evaluative-phenomenal-character` | 0, 0, 0 |
-| `arguments-for-dualism` P-D3 | `evaluative-phenomenal-character` | **1** ✓ |
+| `agency-and-will` [P-A5](/positions/agency-and-will/#p-a5) | `moral-implications-of-genuine-agency` | 0 |
+| `moral-status` [P-MS1](/positions/moral-status/#p-ms1) | `ethics-under-dualism`, `phenomenal-value-realism` | 0, 0 |
+| `value-in-selection` [P-VS1](/positions/value-in-selection/#p-vs1)/2 | `apex/moral-architecture-of-consciousness` | 0 |
+| `value-in-selection` [P-VS3](/positions/value-in-selection/#p-vs3) | `apex/…`, `phenomenal-value-realism` | 0, 0 |
+| `value-in-selection` [P-VS4](/positions/value-in-selection/#p-vs4) | `apex/…`, `phenomenal-value-realism`, `evaluative-phenomenal-character` | 0, 0, 0 |
+| `arguments-for-dualism` [P-D3](/positions/arguments-for-dualism/#p-d3) | `evaluative-phenomenal-character` | **1** ✓ |
 
-**This is the shape the driver asked about, running in the opposite direction to tonight's voids finding** — there the leaves ran a discipline the register failed to cite; here the register runs the discipline (P-A5's over-claiming brake, P-VS3's "arguments it runs, not results it has won," P-VS4's uneven-support concession) and the leaves do not cite it.
+**This is the shape the driver asked about, running in the opposite direction to tonight's voids finding** — there the leaves ran a discipline the register failed to cite; here the register runs the discipline ([P-A5](/positions/agency-and-will/#p-a5)'s over-claiming brake, [P-VS3](/positions/value-in-selection/#p-vs3)'s "arguments it runs, not results it has won," [P-VS4](/positions/value-in-selection/#p-vs4)'s uneven-support concession) and the leaves do not cite it.
 
 **But context matters, and it exonerates the wing.** Corpus base rate for wikilinks into the `positions/` register: **65 of 683** topics/concepts/apex articles (9.5%); topics alone 28/321 (8.7%); apex 17/42 (40%). The spine's 1-of-11 sits *at* the topics base rate, and its apex cites the register (twice, to `positions/quantum-interface`) as apex articles typically do. **The wing is not behind the corpus norm — the seam is corpus-wide.** I am not proposing a wing-level fix for a corpus-level pattern.
 

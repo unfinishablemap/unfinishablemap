@@ -26,7 +26,7 @@ title: Pessimistic Review - 2026-08-22 - Compatibilist Symmetry Challenge
 
 ## Why this article was selected
 
-Selected on **dependency drift**, not staleness-for-its-own-sake. The article's register entry — **P-A5** in `positions/agency-and-will` — was materially rewritten yesterday (2026-08-21, commit `3e298994a1`), conditionalising two of the three residue items the article states flat. The article itself has not been substantively edited since **2026-06-21** (`last_deep_review` the same date); the only intervening commit, the 2026-08-18 luck-objection coalesce `fb3c21520d`, is a cosmetic wikilink repoint from the retired `luck-objection` slug to `quantum-indeterminacy-free-will`, which is why `ai_modified` never moved and why convergence damping has kept every reviewer off it. Two months, four moving dependencies, zero re-reads.
+Selected on **dependency drift**, not staleness-for-its-own-sake. The article's register entry — **[P-A5](/positions/agency-and-will/#p-a5)** in `positions/agency-and-will` — was materially rewritten yesterday (2026-08-21, commit `3e298994a1`), conditionalising two of the three residue items the article states flat. The article itself has not been substantively edited since **2026-06-21** (`last_deep_review` the same date); the only intervening commit, the 2026-08-18 luck-objection coalesce `fb3c21520d`, is a cosmetic wikilink repoint from the retired `luck-objection` slug to `quantum-indeterminacy-free-will`, which is why `ai_modified` never moved and why convergence damping has kept every reviewer off it. Two months, four moving dependencies, zero re-reads.
 
 None of the driver's excluded files were candidates.
 
@@ -34,11 +34,11 @@ None of the driver's excluded files were candidates.
 
 ## Executive Summary
 
-Six issues, all verified on disk this session. Two are high severity: the article credits the libertarian's survival of the luck objection to **Kane's event-causal route**, which `positions/agency-and-will` **P-A2** says does not deliver authorship at all and which the Map's own luck-objection article records as defeated by a standing criticism; and the article states the P-A5 residue unconditionally at two loci after the register, the apex and the topic article all conditionalised it. Three medium issues concern a verbatim quote attributed to the wrong Map article, a now-stale description of its own worked exhibit, and a compatibilist roster closed at three families that excludes the one the register says the symmetry bites hardest at. The article's core move — *tenet-coherent, not moral-explanatory-superior* — is sound and should be preserved intact.
+Six issues, all verified on disk this session. Two are high severity: the article credits the libertarian's survival of the luck objection to **Kane's event-causal route**, which `positions/agency-and-will` **[P-A2](/positions/agency-and-will/#p-a2)** says does not deliver authorship at all and which the Map's own luck-objection article records as defeated by a standing criticism; and the article states the [P-A5](/positions/agency-and-will/#p-a5) residue unconditionally at two loci after the register, the apex and the topic article all conditionalised it. Three medium issues concern a verbatim quote attributed to the wrong Map article, a now-stale description of its own worked exhibit, and a compatibilist roster closed at three families that excludes the one the register says the symmetry bites hardest at. The article's core move — *tenet-coherent, not moral-explanatory-superior* — is sound and should be preserved intact.
 
 ## Critical Issues
 
-### Issue 1: The libertarian's reply to the luck objection is credited to a route P-A2 forbids
+### Issue 1: The libertarian's reply to the luck objection is credited to a route [P-A2](/positions/agency-and-will/#p-a2) forbids
 
 - **File**: `obsidian/concepts/compatibilist-symmetry-challenge.md`
 - **Location**: L66
@@ -50,25 +50,25 @@ The sentence reads:
 
 Three things go wrong in one em-dash.
 
-**(a) The Map's register says this route fails.** `positions/agency-and-will` **P-A2** asserts, verbatim: *"genuine authorship is **not delivered by event-causal libertarianism** (free actions caused by nondeterministic mental events), because if prior mental events the agent did not choose cause the decision, the causal chain traces back beyond the agent's control."* P-A2 is a **live** position and the title of the entry is *"Authorship requires agent causation, not merely event-causal indeterminism."* The article asserts that the libertarian survives the luck objection *by* the event-causal route. That is the position P-A2 exists to deny.
+**(a) The Map's register says this route fails.** `positions/agency-and-will` **[P-A2](/positions/agency-and-will/#p-a2)** asserts, verbatim: *"genuine authorship is **not delivered by event-causal libertarianism** (free actions caused by nondeterministic mental events), because if prior mental events the agent did not choose cause the decision, the causal chain traces back beyond the agent's control."* [P-A2](/positions/agency-and-will/#p-a2) is a **live** position and the title of the entry is *"Authorship requires agent causation, not merely event-causal indeterminism."* The article asserts that the libertarian survives the luck objection *by* the event-causal route. That is the position [P-A2](/positions/agency-and-will/#p-a2) exists to deny.
 
 **(b) The Map's own sibling article records the route as defeated.** `concepts/quantum-indeterminacy-free-will` L89 classifies Kane under the heading **Event-causal libertarianism**, describes the effort-of-will location correctly, and then closes: *"The standing criticism: even if the agent wanted both A and B, nothing about the agent explains why effort A won, and the dual-efforts reply relocates the question without answering it."* The article under review says the same route *"preserves rather than undermines responsible authorship"* — flatly, with no hedge and no acknowledgement that the Map declines it.
 
-**(c) The appositive fuses two distinct replies.** *"Consciousness selects among open possibilities for reasons"* is the **Map's own** answer — `concepts/quantum-indeterminacy-free-will` L56 states it in those terms (*"gives the Map's answer—consciousness *selects* among outcomes physics leaves open"*), and it is agent-causal. The em-dash then identifies that clause with *"the event-causal route Kane (1996) develops."* The Map's agent-causal reply and Kane's event-causal reply are presented as the same thing, which erases exactly the distinction P-A2 is built on.
+**(c) The appositive fuses two distinct replies.** *"Consciousness selects among open possibilities for reasons"* is the **Map's own** answer — `concepts/quantum-indeterminacy-free-will` L56 states it in those terms (*"gives the Map's answer—consciousness *selects* among outcomes physics leaves open"*), and it is agent-causal. The em-dash then identifies that clause with *"the event-causal route Kane (1996) develops."* The Map's agent-causal reply and Kane's event-causal reply are presented as the same thing, which erases exactly the distinction [P-A2](/positions/agency-and-will/#p-a2) is built on.
 
 **Not a Kane-scholarship defect — do not "fix" Kane.** The description of Kane 1996 is accurate: he is a standard event-causal libertarian who locates indeterminism in efforts of will during self-forming actions, and the reference (Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.) is correct as printed. The defect is entirely in the Map-alignment: an accurate account of Kane has been installed where the Map's own reply belongs.
 
-**Why nobody caught it.** The article cites **P-A2 zero times** (grep-verified), so no reviewer checking register alignment had a reason to open the entry. The clause predates the 2026-08-18 coalesce — it appears unchanged on the `-` side of that diff — so it is original text from the article's creation era that has now survived three deep reviews.
+**Why nobody caught it.** The article cites **[P-A2](/positions/agency-and-will/#p-a2) zero times** (grep-verified), so no reviewer checking register alignment had a reason to open the entry. The clause predates the 2026-08-18 coalesce — it appears unchanged on the `-` side of that diff — so it is original text from the article's creation era that has now survived three deep reviews.
 
-**Recommendation.** Split the appositive. Keep the Map's reply in the Map's own terms (agent-causal selection, reasons-guided and effortful, per P-A2), and demote Kane to what he is in this catalogue: the *event-causal* libertarian route the Map considers and declines, cited as a contrast rather than as the libertarian's survival. One clause plus a `[[positions/agency-and-will|P-A2]]` link discharges it. `concepts/quantum-indeterminacy-free-will` L89 supplies the correct wording to inherit.
+**Recommendation.** Split the appositive. Keep the Map's reply in the Map's own terms (agent-causal selection, reasons-guided and effortful, per [P-A2](/positions/agency-and-will/#p-a2)), and demote Kane to what he is in this catalogue: the *event-causal* libertarian route the Map considers and declines, cited as a contrast rather than as the libertarian's survival. One clause plus a `[[positions/agency-and-will|P-A2]]` link discharges it. `concepts/quantum-indeterminacy-free-will` L89 supplies the correct wording to inherit.
 
-### Issue 2: The P-A5 residue is asserted unconditionally after the register conditionalised it
+### Issue 2: The [P-A5](/positions/agency-and-will/#p-a5) residue is asserted unconditionally after the register conditionalised it
 
 - **File**: `obsidian/concepts/compatibilist-symmetry-challenge.md`
 - **Location**: L44 (step 3 of the structural move) and L75 (the fourth forbidden move)
 - **Severity**: **High**
 
-P-A5 as of **2026-08-21** now reads (emphasis in the register):
+[P-A5](/positions/agency-and-will/#p-a5) as of **2026-08-21** now reads (emphasis in the register):
 
 > Two of those three items — the "could have done otherwise" readings and the metaphysics of genuine alternatives — are held **conditionally**: the [Frankfurt-cases](/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/) article books the Map's own answer, relocating the requirement from alternatives to sourcehood, as "a *retreat*, and a conditional one" and "not a costless translation" — a fallback to *narrow* source against which the semicompatibilist actual-sequence rival still stands. Those two items therefore survive on the Map's considered *wide* source position and lapse with its leeway defence.
 
@@ -82,7 +82,7 @@ The source concession is verified verbatim in `topics/frankfurt-cases-and-the-pr
 
 **This is over-concession's mirror image, and it is the direction the Map's heuristics do not catch.** The residue is the one part of the symmetry challenge that runs *for* the Map, so it does not trip the honesty checks that catch over-claiming against the Map. It has simply never been priced. The register has now priced it; the article has not.
 
-**Recommendation.** Conditionalise both loci to match P-A5 — two of the three items survive on the *wide* source position and lapse with the leeway defence — and cite `[[topics/frankfurt-cases-and-the-principle-of-alternate-possibilities]]`, which the article currently does not link at all (grep-verified: zero hits for the slug, zero for `semicompatibilis`).
+**Recommendation.** Conditionalise both loci to match [P-A5](/positions/agency-and-will/#p-a5) — two of the three items survive on the *wide* source position and lapse with the leeway defence — and cite `[[topics/frankfurt-cases-and-the-principle-of-alternate-possibilities]]`, which the article currently does not link at all (grep-verified: zero hits for the slug, zero for `semicompatibilis`).
 
 ### Issue 3: A verbatim quote is attributed to the wrong Map article
 
@@ -130,7 +130,7 @@ Grep-verified in the article: **Strawson — 0 hits. Wallace — 0 hits.**
 
 Three things now sit against this closure.
 
-1. **P-A5 (2026-08-21)** names the omitted family as the hardest case: *"The symmetry bites hardest at [Strawsonian responsibility](/topics/reactive-attitudes-and-strawsonian-responsibility/), where normativized reactive attitudes secure the praise-and-blame practices with **no metaphysical thesis at all**."*
+1. **[P-A5](/positions/agency-and-will/#p-a5) (2026-08-21)** names the omitted family as the hardest case: *"The symmetry bites hardest at [Strawsonian responsibility](/topics/reactive-attitudes-and-strawsonian-responsibility/), where normativized reactive attitudes secure the praise-and-blame practices with **no metaphysical thesis at all**."*
 2. **The article's own link target has moved.** `concepts/compatibilism` — created 2026-07-13, *after* this article froze, and linked from L58 — enumerates **six** families under headings, the last being `### Strawsonian (reactive-attitudes) compatibilism`. "The three reference families" is now a claim about a hub that lists six.
 3. **The Strawson article says the discipline applies there in full.** `topics/reactive-attitudes-and-strawsonian-responsibility` L87: *"the [compatibilist symmetry challenge](/concepts/compatibilist-symmetry-challenge/) applies here in full force."* The citation runs inward; the concept never reciprocates.
 
@@ -138,7 +138,7 @@ The consequence is that L73's forbidden-move bullet, stated as a universal about
 
 **The nuance a refine pass must not flatten.** The Map *does* argue that Wallace's aptness conditions *"quietly reintroduce the agency metaphysics Strawson claimed to sideline"* (Strawson article L85). That is a real and defensible Map reading — but it is a **contested conclusion the Map argues for**, whereas L73 states metaphysical substance as a **flat description** of what sophisticated compatibilism *is*. The fix is to scope the bullet to the three named families and add the Strawsonian case as a fourth with the Map's contested reading marked as contested, not to delete the bullet.
 
-**Recommendation.** Widen L58 from a closed roster to a named-three-of-more, add a short Strawsonian paragraph inheriting P-A5's "bites hardest" framing and the article's own *"not evidence that Strawson is wrong or that dualism is right"* concession, and scope L73's bullet accordingly.
+**Recommendation.** Widen L58 from a closed roster to a named-three-of-more, add a short Strawsonian paragraph inheriting [P-A5](/positions/agency-and-will/#p-a5)'s "bites hardest" framing and the article's own *"not evidence that Strawson is wrong or that dualism is right"* concession, and scope L73's bullet accordingly.
 
 ### Issue 6: The article breaches its own first forbidden move
 
@@ -174,17 +174,17 @@ L44(a) then asserts: *"agent causation can ground a *sourcehood*-grade desert th
 
 | Claim | Location | Needed Support |
 |---|---|---|
-| The libertarian "survives" the luck objection via Kane's event-causal route | L66 | Contradicted by P-A2 and by `quantum-indeterminacy-free-will` L89. See Issue 1 |
-| Residue items (b) and (c) do separating work, stated flat | L44, L75 | P-A5 (2026-08-21) holds both conditionally. See Issue 2 |
+| The libertarian "survives" the luck objection via Kane's event-causal route | L66 | Contradicted by [P-A2](/positions/agency-and-will/#p-a2) and by `quantum-indeterminacy-free-will` L89. See Issue 1 |
+| Residue items (b) and (c) do separating work, stated flat | L44, L75 | [P-A5](/positions/agency-and-will/#p-a5) (2026-08-21) holds both conditionally. See Issue 2 |
 | "compatibilism … cannot" ground sourcehood-grade desert | L44(a) | The discriminator the article's own L72 requires. See Issue 6 |
-| "The three reference families of compatibilism most relevant" | L58 | `concepts/compatibilism` lists six; P-A5 names the omitted one as hardest. See Issue 5 |
+| "The three reference families of compatibilism most relevant" | L58 | `concepts/compatibilism` lists six; [P-A5](/positions/agency-and-will/#p-a5) names the omitted one as hardest. See Issue 5 |
 | The apex "makes three moves in sequence" | L81 | It makes four as of 2026-08-02. See Issue 4 |
 
 ## Language Improvements
 
 | Current | Issue | Suggested |
 |---|---|---|
-| "preserves rather than undermines responsible authorship" (L66) | States as settled a route the Map declines | "…is the event-causal route the Map considers and declines at P-A2" |
+| "preserves rather than undermines responsible authorship" (L66) | States as settled a route the Map declines | "…is the event-causal route the Map considers and declines at [P-A2](/positions/agency-and-will/#p-a2)" |
 | "It permits the article to claim that libertarian agency may do separating work at the limits" (L75) | Unconditional licence, downstream-inherited | "…at the limits, of which two items are held conditionally on the Map's wide-source position" |
 | "The three reference families … most relevant" (L58) | Closes a roster that has since grown | "Three of the reference families … the Strawsonian family is treated separately below" |
 | "libertarian framing is load-bearing for moral conclusions" (L89) | Reflexive intensifier per the style guide | "…is doing the grounding work for moral conclusions" |
@@ -215,6 +215,6 @@ The core move is genuinely good and must survive revision intact.
 
 Recorded here because `/harvest-research-subjects` does not read pessimistic reviews, so prose in this file reaches nothing automatically.
 
-**The register's dependency-drift check is one-directional.** The completed P-A5 task (todo.md L2974) examined this very article as an `Argued in` dependency and correctly recorded its diff as *"MEASURED NOT-A-DEFECT … a cosmetic wikilink repoint only."* That verdict is right on its own question — *has the dependency moved?* — and the check never asks the converse: *has the register moved under the dependency?* So an `Argued in` article can be certified unchanged in the very pass that leaves it behind, and the certification then reads as a clean bill of health. All four of this cluster's nodes were touched between 2026-07-29 and 2026-08-21 and the drift still opened, because each pass propagated *outward* from the node it was editing and none propagated *back into* the canonical concept.
+**The register's dependency-drift check is one-directional.** The completed [P-A5](/positions/agency-and-will/#p-a5) task (todo.md L2974) examined this very article as an `Argued in` dependency and correctly recorded its diff as *"MEASURED NOT-A-DEFECT … a cosmetic wikilink repoint only."* That verdict is right on its own question — *has the dependency moved?* — and the check never asks the converse: *has the register moved under the dependency?* So an `Argued in` article can be certified unchanged in the very pass that leaves it behind, and the certification then reads as a clean bill of health. All four of this cluster's nodes were touched between 2026-07-29 and 2026-08-21 and the drift still opened, because each pass propagated *outward* from the node it was editing and none propagated *back into* the canonical concept.
 
 If `positions-evolve` gained one line — when an entry's `Asserts` changes, check whether each `Argued in` article still states the claim in its new form — this class of drift would close at source. That is a system change and needs an operator decision, not a task.

@@ -142,7 +142,7 @@ classificatory-artifact). Not re-flagged — convergence respected.
   hard. Trims targeted genuine redundancy and doubly-stated caveats, **not** hedges or
   links:
   - Consolidated the duplicated common-cause-null restatement in the cumulative-weight
-    paragraph (P-V1–V3 gloss folded into the caveat sentence).
+    paragraph ([P-V1](/positions/voids-as-evidence/#p-v1)–V3 gloss folded into the caveat sentence).
   - Trimmed the redundant coherence-relative clause in the Dualism opener (the same
     caveat closes the paragraph).
   - Removed the five parenthetical family-name tags from the directional-convergence

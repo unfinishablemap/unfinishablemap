@@ -642,7 +642,7 @@ The issue is not merely that newer citations are available. The omitted literatu
 ## Changes to site methodology
 
 1. **Introduce a premise-to-norm audit gate.** Any sentence moving from a metaphysical tenet to an “ought” should identify the bridge principle and whether it is metaphysically neutral.
-2. **Enforce downstream calibration inheritance.** Articles depending on P-Q1, P-Q3, P-Q10, P-I1 or P-SC2 should automatically display their evidence grade and unresolved debts.
+2. **Enforce downstream calibration inheritance.** Articles depending on [P-Q1](/positions/quantum-interface/#p-q1), [P-Q3](/positions/quantum-interface/#p-q3), [P-Q10](/positions/quantum-interface/#p-q10), [P-I1](/positions/individuation-and-subjecthood/#p-i1) or [P-SC2](/positions/subject-census/#p-sc2) should automatically display their evidence grade and unresolved debts.
 3. **Split reference lists into “External evidence” and “Map integration.”** This would enforce the site’s own rule that internal coherence is not independent corroboration.
 4. **Add a literature-freshness gate.** Broad applied-ethics articles should require a recent review of the preceding five years and representation of the main rival traditions.
 5. **Require an intervention-modality matrix.** Reviews should flag articles that move among drugs, implants, stimulation, selection and genetic modification without separating reversibility, timing, subject identity and risk.
@@ -669,12 +669,12 @@ The bibliography claim also checks out exactly: the References block holds six e
 
 The review's register citations are accurate, and the target article cites **zero** positions-register entries (grep count 0), so none of these calibrations are inherited:
 
-- ✓ `positions/quantum-interface` — P-Q1 grade D / framework-internal-only; P-Q3 bias-without-deviation unresolved; P-Q10 no worked toy model. The domain's **mechanism-debt convention** states that downstream applied articles claiming consciousness "does causal work" inherit the debt and "should not read more confident than the register does upstream," and that the causal-selection thesis is citable "as a *framework-internal coherence result only*, never as established mental causation."
-- ✓ `positions/agency-and-will` P-A5 — the libertarian framing "does *not* do unique explanatory work over sophisticated compatibilism … at the level of moral practice," residue confined to ultimate desert and the metaphysics of genuine alternatives. The review quotes this correctly.
-- ✓ `positions/individuation-and-subjecthood` P-I1 — closed individualism, framework-internal, Grade D.
-- ✓ `positions/subject-census` P-SC2 — "The Map owes a subject-pairing law and does not have one."
-- ✓ `positions/methodology-and-calibration` P-M1 — "A tenet removes a defeater but never upgrades the evidence level."
-- ✓ `positions/value-in-selection` P-VS1 — credence low, grade D, aspirational, mechanism-sufficiency rival explicitly undefeated.
+- ✓ `positions/quantum-interface` — [P-Q1](/positions/quantum-interface/#p-q1) grade D / framework-internal-only; [P-Q3](/positions/quantum-interface/#p-q3) bias-without-deviation unresolved; [P-Q10](/positions/quantum-interface/#p-q10) no worked toy model. The domain's **mechanism-debt convention** states that downstream applied articles claiming consciousness "does causal work" inherit the debt and "should not read more confident than the register does upstream," and that the causal-selection thesis is citable "as a *framework-internal coherence result only*, never as established mental causation."
+- ✓ `positions/agency-and-will` [P-A5](/positions/agency-and-will/#p-a5) — the libertarian framing "does *not* do unique explanatory work over sophisticated compatibilism … at the level of moral practice," residue confined to ultimate desert and the metaphysics of genuine alternatives. The review quotes this correctly.
+- ✓ `positions/individuation-and-subjecthood` [P-I1](/positions/individuation-and-subjecthood/#p-i1) — closed individualism, framework-internal, Grade D.
+- ✓ `positions/subject-census` [P-SC2](/positions/subject-census/#p-sc2) — "The Map owes a subject-pairing law and does not have one."
+- ✓ `positions/methodology-and-calibration` [P-M1](/positions/methodology-and-calibration/#p-m1) — "A tenet removes a defeater but never upgrades the evidence level."
+- ✓ `positions/value-in-selection` [P-VS1](/positions/value-in-selection/#p-vs1) — credence low, grade D, aspirational, mechanism-sufficiency rival explicitly undefeated.
 
 Note the timing: the mechanism-debt convention's citation-grade tightening is dated **2026-08-13**, the same day as the article's last revision, and its enumeration of affected downstream articles ("agency, motor selection, value-sensitive selection, placebo, functional neurological disorder") does **not** include enhancement ethics. The article's `last_deep_review` is 2026-08-12. So the register moved under a converged article and the convention's own list did not reach it — this is dependency drift, not author error.
 

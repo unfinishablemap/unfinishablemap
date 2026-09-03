@@ -131,7 +131,7 @@ The representational theory of measurement (RTM) formalises what measuring *is*:
 
 ### Practical unmeasurability (Trendler)
 - **Core claim**: The Millean quantity objection is unanswerable in practice: psychological attributes cannot be experimentally controlled well enough to test conjoint axioms; the "revolution" conjoint measurement promised cannot happen.
-- **Relation to site tenets**: Aligns with the Map's structural-not-technological framing of the measurement limit, though on methodological rather than metaphysical grounds — a convergence the article should mark as *distinct routes*, per the Map's P-M2 convergence discipline.
+- **Relation to site tenets**: Aligns with the Map's structural-not-technological framing of the measurement limit, though on methodological rather than metaphysical grounds — a convergence the article should mark as *distinct routes*, per the Map's [P-M2](/positions/methodology-and-calibration/#p-m2) convergence discipline.
 
 ### Multidimensionalism / theory-relativity about consciousness's own scale structure (Bayne–Hohwy–Owen, Lee)
 - **Core claim**: The global "level of consciousness" is not a single ordered dimension; whether consciousness itself comes in degrees depends on the true theory of consciousness.

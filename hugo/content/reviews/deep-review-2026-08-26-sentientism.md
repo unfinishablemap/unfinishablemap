@@ -88,17 +88,17 @@ Scope: every entry added or changed since the 2026-08-01 ledger, plus the two it
 - The **two-directions-of-attack** structure, and the 2026-08-04 correction that being squeezed from both sides "settles nothing on its own". Untouched.
 - The **exposure paragraph** — "Illusionism costs the functionalist a rationale; it would cost phenomenal sentientism its subject matter" — which is the article's best single move and the fix for the 2026-08-04 headline finding. Only its final sentence changed, and in the direction of more accuracy, not less exposure.
 - The **marginal-cases collision** paragraph: the article deploys the argument from marginal cases against anthropocentrism and then meets, rather than deflects, the fact that its own value pluralism ranks those same humans lower. Trimmed by one redundant clause; the argument is intact.
-- The **status/stakes separation**, now load-bearing outside this article — [moral-status](/positions/moral-status/) cites it for P-MS2's threshold reading.
+- The **status/stakes separation**, now load-bearing outside this article — [moral-status](/positions/moral-status/) cites it for [P-MS2](/positions/moral-status/#p-ms2)'s threshold reading.
 - The **two-Feinbergs disambiguation** and the **Korsgaard datum/explanation split**. Both retained.
 
 ### Enhancements Made
 
-- **Backlink to the positions register.** [P-MS1](/positions/moral-status/) *is* this article's thesis and says "argued in [sentientism](/concepts/sentientism/)", and the article never pointed back — the `analysis-doc-cites-the-article-article-never-cites-back` pattern. Added in the lead, where the Map's own commitment is first stated.
+- **Backlink to the positions register.** [P-MS1](/positions/moral-status/#p-ms1) *is* this article's thesis and says "argued in [sentientism](/concepts/sentientism/)", and the article never pointed back — the `analysis-doc-cites-the-article-article-never-cites-back` pattern. Added in the lead, where the Map's own commitment is first stated.
 - **Birch link.** The body cited *The Edge of Sentience* while the Map's own article on it sat unlinked. Converted the existing title mention to a piped wikilink — zero added words.
 
 ### Cross-links Added
 
-- [moral-status](/positions/moral-status/) (as P-MS1)
+- [moral-status](/positions/moral-status/) (as [P-MS1](/positions/moral-status/#p-ms1))
 - [birch-edge-of-sentience-and-the-five-tier-scale](/topics/birch-edge-of-sentience-and-the-five-tier-scale/)
 
 All 16 wikilink targets and all 5 section anchors resolve in `obsidian/` **and** in the `hugo/content/` mirror (sync run and grep-verified this pass). 8 live inbound links; not orphan-adjacent.

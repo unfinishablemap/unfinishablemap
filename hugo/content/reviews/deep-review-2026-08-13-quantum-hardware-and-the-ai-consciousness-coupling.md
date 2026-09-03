@@ -26,7 +26,7 @@ topics: []
 Second deep review. Since the 2026-07-07 review (which fixed two citation-hygiene
 issues and validated the full analytical spine), the only substantive change is one
 paragraph added by refine-draft on 2026-08-12: the interface-eligibility disclosure
-routing to the positions register (P-AC1). This review therefore focused on the new
+routing to the positions register ([P-AC1](/positions/ai-consciousness-scope/#p-ac1)). This review therefore focused on the new
 paragraph, its attribution fidelity to the register, and corpus-hygiene sweeps; the
 previously-validated spine (channel-table application, tenet routing, defeater-vs-
 evidence calibration) was checked for drift, not re-litigated.
@@ -41,15 +41,15 @@ None.
 
 - **Attribution over-generalisation in the new paragraph (fixed).** The paragraph
   said the positions register identifies interface eligibility "as the least-secured
-  link on which the Map's *whole AI verdict* rests." P-AC1's five-layer analysis
+  link on which the Map's *whole AI verdict* rests." [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s five-layer analysis
   identifies layer (iv) as the least-secured link of the *substrate* verdict; the
-  register's P-AC3 (copy-counting, inherits only closed individualism) and P-AC4
+  register's [P-AC3](/positions/ai-consciousness-scope/#p-ac3) (copy-counting, inherits only closed individualism) and [P-AC4](/positions/ai-consciousness-scope/#p-ac4)
   (workspace signatures, "explicitly does not inherit the quantum-interface
   register") do not rest on interface eligibility. Corrected to "the Map's
   AI-substrate verdicts rest" — plural, matching the per-class verdicts this article
   issues and the register's own scope.
 
-### Attribution accuracy check (new paragraph vs positions register P-AC1)
+### Attribution accuracy check (new paragraph vs positions register [P-AC1](/positions/ai-consciousness-scope/#p-ac1))
 
 All other attributions verified faithful against `obsidian/positions/ai-consciousness-scope.md`:
 
@@ -59,7 +59,7 @@ All other attributions verified faithful against `obsidian/positions/ai-consciou
 - "best current approximation to such a law, not the law itself … read off the
   biological interface and generalised" — matches the register's 2026-08-12
   "nearest approximation, not a discharge" annotation ✓
-- Reciprocal link confirmed: the register's P-AC1 *Argued in* lists this article ✓
+- Reciprocal link confirmed: the register's [P-AC1](/positions/ai-consciousness-scope/#p-ac1) *Argued in* lists this article ✓
 
 ### Counterarguments Considered
 
@@ -134,6 +134,6 @@ Carried forward from 2026-07-07 and still holding:
   additionally discloses the *internal* status of the apparatus (conditional on an
   unarticulated interface-eligibility law), which is the honest form of that
   acknowledgement — do not escalate the disclosure into a demand that the article
-  derive the law; that debt is registered in P-AC1 and owned there.
+  derive the law; that debt is registered in [P-AC1](/positions/ai-consciousness-scope/#p-ac1) and owned there.
 - Article is converged after two reviews (one attribution-phrase fix this pass).
   Absent substantive modification, the next pass should expect a no-op.

@@ -103,12 +103,12 @@ Wheeler wrote the opposite. Today's calibrated [topics/wheelers-participatory-un
 **B2. `obsidian/concepts/prebiotic-collapse.md` L150** — precedent as licence, with "proof".
 > "Avian magnetoreception maintains spin coherence for microseconds in warm biological tissue—proof that evolution can optimise systems to exploit quantum effects despite thermal noise. If birds can do it for navigation, neural systems might do it for consciousness."
 
-`tenets.md` L78: "This establishes a biological *precedent* rather than a licence for neural coherence." [positions/quantum-interface.md](/positions/quantum-interface/) P-Q8 (L124) names this exact drift class: "Warm-quantum-biology results are a precedent for the interface, not a licence for it."
+`tenets.md` L78: "This establishes a biological *precedent* rather than a licence for neural coherence." [positions/quantum-interface.md](/positions/quantum-interface/) [P-Q8](/positions/quantum-interface/#p-q8) (L124) names this exact drift class: "Warm-quantum-biology results are a precedent for the interface, not a licence for it."
 
 **B3. `obsidian/concepts/entanglement-binding-hypothesis.md` L78** — precedent upgraded to a probability claim.
 > "making neural quantum effects probable rather than merely possible"
 
-The immediately preceding paragraph (L76) is *exemplary* — "the Tegmark/Hagan dispute is therefore live rather than settled either way, and the Map's microtubule-scale interest is tenet-driven (Minimal Quantum Interaction) rather than empirically forced" — and L78 then undoes it. Fix: attribute the conclusion to the sibling article as its argument and append the P-Q8 formula.
+The immediately preceding paragraph (L76) is *exemplary* — "the Tegmark/Hagan dispute is therefore live rather than settled either way, and the Map's microtubule-scale interest is tenet-driven (Minimal Quantum Interaction) rather than empirically forced" — and L78 then undoes it. Fix: attribute the conclusion to the sibling article as its argument and append the [P-Q8](/positions/quantum-interface/#p-q8) formula.
 
 **B4. `obsidian/concepts/quantum-interpretations.md` L104** — admits a reading two siblings rule out.
 > "**Site compatibility:** Moderate to High. The Map is compatible with either \"consciousness causes collapse\" or \"consciousness modulates collapse.\""

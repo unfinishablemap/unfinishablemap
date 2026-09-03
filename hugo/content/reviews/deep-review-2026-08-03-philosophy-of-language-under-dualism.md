@@ -41,7 +41,7 @@ Body 2560w at entry (85% of the 3000 topics soft threshold), so improvements wer
 
 ### Medium Issues Found
 
-- **The functional half of the two-layer claim was unregistered (FIXED).** The refine-draft cited `positions/ai-consciousness-scope` **P-AC1** for the *phenomenal* verdict but left *"an LLM can handle the functional layer of language with extraordinary facility"* asserted bare — even though **P-AC4** is the Map's registered, framework-independent (Grade B) position on exactly that, and states its complement explicitly: the workspace signatures are demonstrated, and they indicate nothing either way about phenomenal experience. Citing only the phenomenal-side register left the article's central two-layer move half-sourced. Added a compact P-AC4 clause, scoped narrowly to *workspace-like signatures of access consciousness* rather than to general linguistic facility, so the article does not over-map P-AC4's deliberately narrow claim.
+- **The functional half of the two-layer claim was unregistered (FIXED).** The refine-draft cited `positions/ai-consciousness-scope` **[P-AC1](/positions/ai-consciousness-scope/#p-ac1)** for the *phenomenal* verdict but left *"an LLM can handle the functional layer of language with extraordinary facility"* asserted bare — even though **[P-AC4](/positions/ai-consciousness-scope/#p-ac4)** is the Map's registered, framework-independent (Grade B) position on exactly that, and states its complement explicitly: the workspace signatures are demonstrated, and they indicate nothing either way about phenomenal experience. Citing only the phenomenal-side register left the article's central two-layer move half-sourced. Added a compact [P-AC4](/positions/ai-consciousness-scope/#p-ac4) clause, scoped narrowly to *workspace-like signatures of access consciousness* rather than to general linguistic facility, so the article does not over-map [P-AC4](/positions/ai-consciousness-scope/#p-ac4)'s deliberately narrow claim.
 
 - **References ordering artifact from the 06-24 partial fix (FIXED).** The 06-24 review corrected "Jakab, Z." → "Musacchio, J.M." but left the entry in Jakab's alphabetical slot (#5, ahead of Levine). Re-sorted; Jackson's issue number (127) also restored.
 
@@ -97,12 +97,12 @@ Re-run because the sibling was modified in the same commit as the article.
 
 ### Enhancements Made
 
-- P-AC4 clause completing the two-layer registration (see Medium).
+- [P-AC4](/positions/ai-consciousness-scope/#p-ac4) clause completing the two-layer registration (see Medium).
 - The anendophasia passage now *reports a live scientific dispute accurately* rather than flattening it — which, per the research note, is a genuine differentiator, since popular coverage of anendophasia has not caught up with the 2025–2026 exchange.
 
 ### Cross-links Added
 
-- [P-AC4](/positions/ai-consciousness-scope/) (second register citation in the cluster; the first landed minutes earlier via refine-draft).
+- [P-AC4](/positions/ai-consciousness-scope/#p-ac4) (second register citation in the cluster; the first landed minutes earlier via refine-draft).
 
 ## Word Count
 

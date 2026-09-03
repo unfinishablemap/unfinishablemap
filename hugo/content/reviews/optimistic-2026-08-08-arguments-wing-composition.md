@@ -41,7 +41,7 @@ The wing is in much better shape than the compositional question usually finds. 
 
 The verdict is nonetheless split, and the split is the finding. **Inside articles, the accounting is excellent. Across articles it stops.** `materialism-argument.md` L62 and `functionalism-argument.md` L51 run the identical conceivability-to-possibility bridge, each defends it against the same two objections in the same order, and **neither mentions the other**. The section index then asserts at L106 that "The arguments form a cumulative case. Each strengthens the others" — with no discount at all.
 
-That undiscounted claim is not merely unsupported; it is **contradicted by a live, high-credence entry in the Map's own register**. [positions/arguments-for-dualism.md](/positions/arguments-for-dualism/) P-D1 (L47) holds that the anti-physicalist arguments are premise-sharing, that "the modal ones share the inference from conceivability to possibility", and that this is "a standing calibration on **every article that cites the convergence**". The index cites the convergence and does not apply it.
+That undiscounted claim is not merely unsupported; it is **contradicted by a live, high-credence entry in the Map's own register**. [positions/arguments-for-dualism.md](/positions/arguments-for-dualism/) [P-D1](/positions/arguments-for-dualism/#p-d1) (L47) holds that the anti-physicalist arguments are premise-sharing, that "the modal ones share the inference from conceivability to possibility", and that this is "a standing calibration on **every article that cites the convergence**". The index cites the convergence and does not apply it.
 
 The optimistic reading — and it is the honest one — is that **the fix is an extension, not an invention**. The wing already contains one worked instance of cross-article discount discipline (`materialism-argument.md` L86, below). The pattern is proven inside the wing; it has simply never been generalised to the modal bridge or propagated to the index.
 
@@ -51,7 +51,7 @@ The driver proposed this subject on the claim that no prior review has taken the
 
 - **Reviews naming 3+ of the five argument articles**: four exist. Two are `deep-review-2026-02-24-epiphenomenalism-argument.md` and `deep-review-2026-03-14-epiphenomenalism-argument.md` (single-article reviews that cite siblings in passing).
 - **The two that name all five** are `deep-review-2026-05-17-arguments.md` and `deep-review-2026-06-18-arguments.md`. Both target [arguments/arguments.md](/arguments/) — the 725-word index — and I read their task structure. The 06-18 pass ran four tasks: a surviving-overclaim scan of the summaries (L42–51), a summary-tracks-child fidelity check (L53–58), a link check (L60–62), and a date check (L64–66). Both are **per-summary fidelity audits**. Neither asks whether the arguments share premises. The compositional question is genuinely unasked.
-- **The qualification**: `optimistic-2026-08-03-physicalist-rivals-cluster.md` covered `functionalism-argument` and `materialism-argument` (with three `concepts/` files) and **already praised** the functionalism dependency table (its L77, L90). It also surfaced P-D1. Credit is due there and I do not re-claim that strength as a discovery below. That review's frame was **citation and link topology across a five-file cluster**; it did not include the index, `many-worlds-argument`, `epiphenomenalism-argument`, or the Occam article, and it did not compare the two articles' *premises*. The shared-bridge finding and the index/P-D1 contradiction are new here.
+- **The qualification**: `optimistic-2026-08-03-physicalist-rivals-cluster.md` covered `functionalism-argument` and `materialism-argument` (with three `concepts/` files) and **already praised** the functionalism dependency table (its L77, L90). It also surfaced [P-D1](/positions/arguments-for-dualism/#p-d1). Credit is due there and I do not re-claim that strength as a discovery below. That review's frame was **citation and link topology across a five-file cluster**; it did not include the index, `many-worlds-argument`, `epiphenomenalism-argument`, or the Occam article, and it did not compare the two articles' *premises*. The shared-bridge finding and the index/[P-D1](/positions/arguments-for-dualism/#p-d1) contradiction are new here.
 
 This review also does not re-tread today's 10:06 `optimistic-2026-08-08-framework-boundary-discipline`.
 
@@ -144,7 +144,7 @@ The bridge is verbatim-equivalent in both articles:
 - `materialism-argument.md` L62: "2. If zombies are conceivable, zombies are metaphysically possible"
 - `functionalism-argument.md` L51: "**Premise 3**: If zombies are conceivable, they are metaphysically possible."
 
-Both then defend it against the **same two objections in the same order** — the water analogy (`materialism-argument` L66 / `functionalism-argument` L157) and the phenomenal-concepts strategy answered by Chalmers' dilemma (`materialism-argument` L72 / `functionalism-argument` L165–167). If the bridge fails, both fall together. That is precisely the condition P-D1 L47 describes: "they fail together rather than confirming one another."
+Both then defend it against the **same two objections in the same order** — the water analogy (`materialism-argument` L66 / `functionalism-argument` L157) and the phenomenal-concepts strategy answered by Chalmers' dilemma (`materialism-argument` L72 / `functionalism-argument` L165–167). If the bridge fails, both fall together. That is precisely the condition [P-D1](/positions/arguments-for-dualism/#p-d1) L47 describes: "they fail together rather than confirming one another."
 
 **Neither article registers the overlap.** Verified by count, not by eye:
 - "materialis" in `functionalism-argument.md`: **1** hit, and it is the frontmatter wikilink `[[concepts/materialism]]` at L29 — zero body occurrences.
@@ -157,33 +157,33 @@ Both then defend it against the **same two objections in the same order** — th
 
 Two problems, and they are separable:
 
-1. **The undiscounted convergence claim.** "Each strengthens the others" asserts mutual reinforcement with no discount, in a wing where two of the five demonstrably share a premise. P-D1 L47 holds its concession as "a standing calibration on every article that cites the convergence". This article cites the convergence.
+1. **The undiscounted convergence claim.** "Each strengthens the others" asserts mutual reinforcement with no discount, in a wing where two of the five demonstrably share a premise. [P-D1](/positions/arguments-for-dualism/#p-d1) L47 holds its concession as "a standing calibration on every article that cites the convergence". This article cites the convergence.
 2. **The chain does not cover the wing.** The colon-list is a *directional* chain (materialism → dualism → interaction → collapse), which is a different structure from mutual reinforcement — and it omits **functionalism and Occam entirely**, i.e. 2 of the 5 articles the index is summarising. So the sentence's two halves describe two different structures, neither of which is the wing.
 
 The final clause is fine, and worth noting in fairness: "Together they defend a coherent framework" is a **coherence** claim, which is exactly what `project/evidential-status-discipline` permits. The defect is upstream of it.
 
 ### Register disconnection (measured)
 
-- [positions/arguments-for-dualism.md](/positions/arguments-for-dualism/) P-D1 `Argued in` (L49) lists `topics/the-convergence-argument-for-dualism`, `concepts/philosophical-zombies`, `concepts/qualia`, `concepts/dualism` — **not one `arguments/` article**, though the position is about the anti-physicalist arguments.
+- [positions/arguments-for-dualism.md](/positions/arguments-for-dualism/) [P-D1](/positions/arguments-for-dualism/#p-d1) `Argued in` (L49) lists `topics/the-convergence-argument-for-dualism`, `concepts/philosophical-zombies`, `concepts/qualia`, `concepts/dualism` — **not one `arguments/` article**, though the position is about the anti-physicalist arguments.
 - The wing cites the register **zero** times: `grep -c "positions/"` returns **0** for all six files.
 - Only one wing file references the discount machinery at all — `many-worlds-argument.md`, via `evidential-status-discipline` in frontmatter (L28) and `the-convergence-argument-for-dualism` in body (L168).
 
-This is a fresh, independently-verified instance of the strongest open convergent finding on the site — the 2026-08-03 synthesis cluster C1, "failure to propagate self-criticism from authoritative registers into all downstream prose". Here the authoritative register (P-D1, live, credence high) and the downstream prose (the index) say opposite things about the same five articles.
+This is a fresh, independently-verified instance of the strongest open convergent finding on the site — the 2026-08-03 synthesis cluster C1, "failure to propagate self-criticism from authoritative registers into all downstream prose". Here the authoritative register ([P-D1](/positions/arguments-for-dualism/#p-d1), live, credence high) and the downstream prose (the index) say opposite things about the same five articles.
 
 ## Calibration Concern (not an expansion opportunity)
 
 Per this skill's rule, the Process Philosopher and the Hardline Empiricist conflict at exactly one locus — [arguments/arguments.md](/arguments/) L106 — so it is recorded as a calibration concern with a `refine-draft` task, not as an opportunity.
 
-**Scope discipline for whoever takes it**: the fix is a *sentence*, not a campaign. The five articles are well-calibrated; do not soften them. Do not neuter the index's partisan framing, which is by design (L20) and which the 06-18 deep review explicitly warned against neutering. The minimal correct change is to make L106 state the discount P-D1 already holds — that the case is cumulative but premise-sharing, with the modal bridge shared between the materialism and functionalism arguments — and to make the chain either cover the wing or stop presenting itself as covering it.
+**Scope discipline for whoever takes it**: the fix is a *sentence*, not a campaign. The five articles are well-calibrated; do not soften them. Do not neuter the index's partisan framing, which is by design (L20) and which the 06-18 deep review explicitly warned against neutering. The minimal correct change is to make L106 state the discount [P-D1](/positions/arguments-for-dualism/#p-d1) already holds — that the case is cumulative but premise-sharing, with the modal bridge shared between the materialism and functionalism arguments — and to make the chain either cover the wing or stop presenting itself as covering it.
 
 ## Cross-Linking Suggestions
 
 | From | To | Reason |
 |------|-----|--------|
-| [arguments/arguments.md](/arguments/) L106 | `positions/arguments-for-dualism` (P-D1) | The index makes the exact claim P-D1 calibrates; no wing file cites the register |
+| [arguments/arguments.md](/arguments/) L106 | `positions/arguments-for-dualism` ([P-D1](/positions/arguments-for-dualism/#p-d1)) | The index makes the exact claim [P-D1](/positions/arguments-for-dualism/#p-d1) calibrates; no wing file cites the register |
 | [arguments/materialism-argument.md](/arguments/materialism-argument/) L62 | `conceivability-possibility-inference` | The bridge is asserted as a bare premise; functionalism L167 already routes to this page for its critics |
 | [arguments/materialism-argument.md](/arguments/materialism-argument/) L57 | `arguments/functionalism-argument` §Conclusion | The dependency ledger that already covers this shared premise, one article over |
-| `positions/arguments-for-dualism` P-D1 `Argued in` | `arguments/functionalism-argument` | Noted by the 2026-08-03 review and owned by its open P3 — recorded here only as the wing-level counterpart, not re-minted |
+| `positions/arguments-for-dualism` [P-D1](/positions/arguments-for-dualism/#p-d1) `Argued in` | `arguments/functionalism-argument` | Noted by the 2026-08-03 review and owned by its open P3 — recorded here only as the wing-level counterpart, not re-minted |
 
 ## New Concept Pages Needed
 
@@ -193,6 +193,6 @@ None. `concepts/conceivability-possibility-inference` and `project/per-cluster-i
 
 One, in-contract (a `refine-draft` on an article actually reviewed), targeting a file no open task owns:
 
-- **P2** — [arguments/arguments.md](/arguments/) L106 asserts the cumulative claim that position P-D1 forbids. Type `refine-draft`, File `obsidian/arguments/arguments.md`.
+- **P2** — [arguments/arguments.md](/arguments/) L106 asserts the cumulative claim that position [P-D1](/positions/arguments-for-dualism/#p-d1) forbids. Type `refine-draft`, File `obsidian/arguments/arguments.md`.
 
 Pre-mint pileup check performed: four open tasks target `arguments/` files (`functionalism-argument` ×2, `materialism-argument`, `epiphenomenalism-argument`); **none targets [arguments/arguments.md](/arguments/)**. The 2026-08-03 P3 multi-file task already owns the functionalism/materialism register-citation gap and is deliberately not duplicated.

@@ -43,7 +43,7 @@ The dependency check, not the article's own history, drove this pass. The 08-03 
 
 ### Counterarguments Considered
 
-- Carried forward unchanged from prior reviews — physicalist / MWI / hidden-variables rejection from outside the tenets (bedrock, framework-boundary); van-Inwagen stochastic-relabelling (deferred to [selection-only-mind-influence](/topics/selection-only-mind-influence/) and [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)); ensemble-level type-idleness (held open as P-Q3 mechanism debt). None re-flagged.
+- Carried forward unchanged from prior reviews — physicalist / MWI / hidden-variables rejection from outside the tenets (bedrock, framework-boundary); van-Inwagen stochastic-relabelling (deferred to [selection-only-mind-influence](/topics/selection-only-mind-influence/) and [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)); ensemble-level type-idleness (held open as [P-Q3](/positions/quantum-interface/#p-q3) mechanism debt). None re-flagged.
 - The Empiricist's new point — that "unconstrained" conditionals are not evidence of a live channel — was accepted and addressed above rather than absorbed as bedrock.
 
 ## §2.4 Publisher-of-Record Citation Ledger
@@ -72,7 +72,7 @@ Kim: Mode One (premise 1 locally false on physics-internal terms; now stated con
 - The three-paragraph lead: dissolution vs answer, the "two operations, two domains, one outcome" formulation, and the outset framing that the result is conditional on the framework and empirically equivalent to physicalism on the overdetermination question alone.
 - "What the Dissolution Does Not Claim" — still the corpus's cleanest statement that defeater-removal is not evidence-upgrade; calibration sentences preserved verbatim.
 - The trumping/delegatory contrast ("reassigning authority over what would otherwise be redundancy" vs "denying that the redundancy exists").
-- The 07-15 token/ensemble paragraph anchoring to P-Q3.
+- The 07-15 token/ensemble paragraph anchoring to [P-Q3](/positions/quantum-interface/#p-q3).
 
 ### Enhancements Made
 
@@ -100,4 +100,4 @@ Kim: Mode One (premise 1 locally false on physics-internal terms; now stated con
 
 ## Stability Notes
 
-Core structural argument converged across six reviews; this pass changed no thesis. The premise-1/premise-3 sentence was a genuine slip, now aligned with the rest of the article — do not re-flag. Future reviews should treat the Costs paragraph as coherent with the post-08-03 sibling framing (unconditioned marginal, log₂(N) ceiling, coarse-grain conditional null already booked) and re-engage only if `born-preserving-causal-efficacy` or `selection-only-channel` move again. Bedrock standoffs (physicalist / MWI / hidden-variables from outside the tenets) and the P-Q3 ensemble residue remain non-critical and held open.
+Core structural argument converged across six reviews; this pass changed no thesis. The premise-1/premise-3 sentence was a genuine slip, now aligned with the rest of the article — do not re-flag. Future reviews should treat the Costs paragraph as coherent with the post-08-03 sibling framing (unconditioned marginal, log₂(N) ceiling, coarse-grain conditional null already booked) and re-engage only if `born-preserving-causal-efficacy` or `selection-only-channel` move again. Bedrock standoffs (physicalist / MWI / hidden-variables from outside the tenets) and the [P-Q3](/positions/quantum-interface/#p-q3) ensemble residue remain non-critical and held open.

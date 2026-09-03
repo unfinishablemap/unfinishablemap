@@ -55,7 +55,7 @@ Two convergent findings on a shared target: (1) the **epothilone B / microtubule
 
 Findings flagged by only one reviewer. Not upgraded beyond their original priority; listed for the record.
 
-- **ChatGPT 5.5 Pro**: TI/TSVF "High" rating conflicts with the Map's own positions register (P-A3 subordinate to P-Q1) → `todo.md` task "Reconcile TI/TSVF 'High' rating…" (already P1; review-verified internal-consistency issue).
+- **ChatGPT 5.5 Pro**: TI/TSVF "High" rating conflicts with the Map's own positions register ([P-A3](/positions/agency-and-will/#p-a3) subordinate to [P-Q1](/positions/quantum-interface/#p-q1)) → `todo.md` task "Reconcile TI/TSVF 'High' rating…" (already P1; review-verified internal-consistency issue).
 - **ChatGPT 5.5 Pro**: stale Hugo duplicate serving un-calibrated `quantum-measurement-interpretations-beyond-mwi` content at the live URL → `todo.md` task "Remove stale Hugo duplicate…" (P1; verified coalesce-stale-hugo-duplicate-urls sync-delete gap).
 - **ChatGPT 5.5 Pro**: stale survey citation (Schlosshauer/Kofler/Zeilinger 2013 only), Bohmian over-statement, QBism "anti-realist" label, RQM "most-cited" superlative, Adlam 2026 RQM+CPL update, GRW/CSL + Quantum Darwinism table recalibration → bundled in the P1 consolidated recalibration task (items a–f) and the P2 sibling-propagation cross-review task.
 - **ChatGPT 5.5 Pro**: three site-methodology proposals (live-literature freshness checklist; interpretation-audit template; physics co-optation firewall) → `todo.md` task "Methodology proposals from quantum-foundations outer review" (P2).

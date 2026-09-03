@@ -104,7 +104,7 @@ toy-model desiderata was checked against `apex/born-preserving-causal-efficacy` 
   Coupling Result now attributes the notion to its originators and records the paper's
   NP-hardness result, which turned out to be load-bearing for the article's own
   argument rather than decorative. The article proposes a worked minimum-entropy
-  coupling as a candidate for the P-Q10 toy model; that proposal now carries the
+  coupling as a candidate for the [P-Q10](/positions/quantum-interface/#p-q10) toy model; that proposal now carries the
   qualification that the ceiling is set by an optimum nobody can compute efficiently,
   together with the countervailing fact — verified in the 2023 paper — that the standard
   fast approximations retain *exact* marginalisation and lose at most one bit of joint

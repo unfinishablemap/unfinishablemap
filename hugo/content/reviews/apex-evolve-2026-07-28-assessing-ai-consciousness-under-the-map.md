@@ -47,7 +47,7 @@ matrix rewrite, describing a document that no longer exists. A reader following 
 **Redundancy Hunter.** Three defects found and fixed:
 - The Butlin/Long 2023 citation appeared twice (L99 and L149) carrying the *same* two quoted
   phrases. The second occurrence is now a back-reference.
-- Four separate restatements of P-Q1's moderate-confidence contingency (L71, L83, the
+- Four separate restatements of [P-Q1](/positions/quantum-interface/#p-q1)'s moderate-confidence contingency (L71, L83, the
   divergence paragraph, the cascade flag). Two trimmed.
 - A duplicated pointer to the "Honest verdict scope" section from two adjacent sections.
 - Recommendation 2's aside restated the "honest accounting" paragraph almost verbatim.
@@ -90,12 +90,12 @@ matrix records and why.
    prose states that row "legitimately inherits the quantum-interface debt" via "the
    interface-threshold argument (classical computation suppresses the quantum indeterminacies
    the coupling requires)" — which is verbatim the argument this piece runs. The matrix even
-   names the old conflation as "the error the split corrects." Making P-Q1 load-bearing is
+   names the old conflation as "the error the split corrects." Making [P-Q1](/positions/quantum-interface/#p-q1) load-bearing is
    this row's registered dependency profile, not a departure from it.
 
 3. **Calibration preserved, re-grounded.** The downstream conditionality (the "conditional
    exhibit" language at the Honest verdict scope section) was *not* deleted. It remains true
-   for a different reason: entitlement to invoke a mechanism does not discharge P-Q1's
+   for a different reason: entitlement to invoke a mechanism does not discharge [P-Q1](/positions/quantum-interface/#p-q1)'s
    moderate confidence band. The reason changed from "this article breaks the Map's rule" to
    "this row legitimately carries a debt that is still outstanding."
 

@@ -29,7 +29,7 @@ topics: []
 
 This is the third deep review of a converged article. The only change since the thorough 2026-06-08 review was a single commit, `0ca57ccb6` ("integrate-orphan — back-cite new positions"), which appended one sentence to the opening paragraph:
 
-> The Map registers this challenge in its [positions register](/positions/agency-and-will/) as P-A5: the agency case is distinguished from compatibilism by tenet-coherence, not unique moral explanatory power.
+> The Map registers this challenge in its [positions register](/positions/agency-and-will/) as [P-A5](/positions/agency-and-will/#p-a5): the agency case is distinguished from compatibilism by tenet-coherence, not unique moral explanatory power.
 
 That sentence (a) restates the article's existing thesis verbatim in its own established phrasing, (b) adds an outbound cross-link to the positions register, and (c) makes no new evidential, attribution, or empirical claim. It is a cosmetic cross-link install — exactly the corpus-wide pattern the SKILL's convergence-damping guards against: the `ai_modified` bump re-qualified an already-converged article for review, producing a near no-op pass. The candidate scored only 15 (heavily damped by two priors).
 
@@ -56,14 +56,14 @@ None requiring action. The article remains calibrated to a high standard.
 - Empiricist: presses on what evidence distinguishes irreducible-vs-derivative; the article concedes *in moral theory alone, none* — which is the discipline's own point. Honest.
 
 ### Reasoning-Mode Classification (editor-internal)
-- The three compatibilist engagements (Frankfurt, Fischer & Ravizza, Wolf) remain **Mode Three** (honest framework-boundary marking) — correct and load-bearing; refusing boundary-substitution is the article's thesis. The new P-A5 sentence is exposition (a register back-cite), not an opponent reply. No editor-vocabulary label leakage in prose.
+- The three compatibilist engagements (Frankfurt, Fischer & Ravizza, Wolf) remain **Mode Three** (honest framework-boundary marking) — correct and load-bearing; refusing boundary-substitution is the article's thesis. The new [P-A5](/positions/agency-and-will/#p-a5) sentence is exposition (a register back-cite), not an opponent reply. No editor-vocabulary label leakage in prose.
 
 ## Optimistic Analysis Summary
 
 ### Strengths Preserved
 - Three-part structural move (acknowledge parity → locate differentiator outside moral theory → name residue) intact.
 - "irreducible-vs-derivative, not metaphysical-vs-pragmatic" framing intact.
-- Hardline Empiricist praise pattern: the article remains an exemplar of *tenet-as-evidence-upgrade declined*, now also wired into the positions register so dependents can cite P-A5 compactly.
+- Hardline Empiricist praise pattern: the article remains an exemplar of *tenet-as-evidence-upgrade declined*, now also wired into the positions register so dependents can cite [P-A5](/positions/agency-and-will/#p-a5) compactly.
 
 ### Enhancements Made
 None. The article is at 95% of soft threshold (length-neutral mode); no expansion warranted, and the convergence discipline counsels against re-touching a stable article.

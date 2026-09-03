@@ -35,16 +35,16 @@ topics: []
 - `obsidian/topics/evaluative-qualia-phenomenal-normativity-across-traditions.md` (2574w, `ok`; ai_modified **today** 17:55Z; last_deep_review 2026-07-13)
 - `obsidian/concepts/evaluative-phenomenal-character.md` (2788w, `soft_warning`; the cluster's concept hub)
 - `obsidian/topics/phenomenal-normativity-environmental-ethics.md` (2500w, `ok`; deep-reviewed **today** 12:35Z)
-- `obsidian/positions/arguments-for-dualism.md` (1430w, `ok`; **P-D3 last reviewed today**)
-- `obsidian/positions/value-in-selection.md` (P-VS1, P-VS2)
+- `obsidian/positions/arguments-for-dualism.md` (1430w, `ok`; **[P-D3](/positions/arguments-for-dualism/#p-d3) last reviewed today**)
+- `obsidian/positions/value-in-selection.md` ([P-VS1](/positions/value-in-selection/#p-vs1), [P-VS2](/positions/value-in-selection/#p-vs2))
 - `obsidian/topics/cross-traditional-convergence-on-consciousness-irreducibility.md` (3945w, `soft_warning`)
 - Context read: [topics/phenomenal-value-realism.md](/topics/phenomenal-value-realism/), [topics/consciousness-and-normative-force.md](/topics/consciousness-and-normative-force/), [concepts/valence.md](/concepts/valence/), [concepts/rational-normativity.md](/topics/consciousness-and-the-normativity-of-reason/), [topics/aesthetics-beyond-art.md](/topics/aesthetics-beyond-art/)
 
 ## Executive Summary
 
-This cluster contains some of the Map's most disciplined work, and one clean, cheap, high-leverage inconsistency. The disciplined work: P-D3 assessed the natural candidate for a third independent lineage — early Chinese philosophy — and **declined it on the merits**, while `cross-traditional-convergence-on-consciousness-irreducibility.md` devotes an entire section to that same tradition as the "strongest exception" and concedes the circularity risk in its own depth criterion. That is the Map beating its own best argument down to size, unprompted.
+This cluster contains some of the Map's most disciplined work, and one clean, cheap, high-leverage inconsistency. The disciplined work: [P-D3](/positions/arguments-for-dualism/#p-d3) assessed the natural candidate for a third independent lineage — early Chinese philosophy — and **declined it on the merits**, while `cross-traditional-convergence-on-consciousness-irreducibility.md` devotes an entire section to that same tradition as the "strongest exception" and concedes the circularity risk in its own depth criterion. That is the Map beating its own best argument down to size, unprompted.
 
-The inconsistency is that the value/normativity cluster never inherited it. Three loci — the concept hub, the five-tradition topic article, and the environmental-ethics article — still run the cross-traditional convergence claim at **full, undiscounted strength**, and the five-tradition article builds a pillar out of exactly the Neo-Confucian material P-D3 rejects. The same philosopher, Wang Yangming, appears in one article as evidence *for* convergence and in the sibling article as evidence that the Chinese tradition dissolves the problem prematurely. By the register's own standards the cluster's "five traditions" is at most three. The fix is cheap because the corpus has already written the correct wording twice.
+The inconsistency is that the value/normativity cluster never inherited it. Three loci — the concept hub, the five-tradition topic article, and the environmental-ethics article — still run the cross-traditional convergence claim at **full, undiscounted strength**, and the five-tradition article builds a pillar out of exactly the Neo-Confucian material [P-D3](/positions/arguments-for-dualism/#p-d3) rejects. The same philosopher, Wang Yangming, appears in one article as evidence *for* convergence and in the sibling article as evidence that the Chinese tradition dissolves the problem prematurely. By the register's own standards the cluster's "five traditions" is at most three. The fix is cheap because the corpus has already written the correct wording twice.
 
 ## Praise from Sympathetic Philosophers
 
@@ -56,7 +56,7 @@ Sosa's contribution is well used and under-exploited: normativity as an *indepen
 
 ### The Quantum Mind Theorist (Stapp)
 
-[positions/value-in-selection.md](/positions/value-in-selection/) is the cluster's best engineering. P-VS2 does not leave the value-sensitive claim as metaphysics — it collates a **three-tier discriminating battery** with stated directions: a valence selection-advantage assay, wanting/liking dissociation under conflict, degraded selection *efficacy* (not merely motivation) in pain asymbolia, and minimal-organism credence-shifters. Stapp would recognise this as the difference between a research programme and a preference.
+[positions/value-in-selection.md](/positions/value-in-selection/) is the cluster's best engineering. [P-VS2](/positions/value-in-selection/#p-vs2) does not leave the value-sensitive claim as metaphysics — it collates a **three-tier discriminating battery** with stated directions: a valence selection-advantage assay, wanting/liking dissociation under conflict, degraded selection *efficacy* (not merely motivation) in pain asymbolia, and minimal-organism credence-shifters. Stapp would recognise this as the difference between a research programme and a preference.
 
 ### The Phenomenologist (Nagel)
 
@@ -70,11 +70,11 @@ Mulla Sadra's knowledge-by-presence and Abhinavagupta's *rasa* are both handled 
 
 ### The Libertarian Free Will Defender (Kane)
 
-P-VS1's honesty is close to self-sabotage in the best sense. The Map *leans* value-sensitive, and then argues against its own lean using its own tenet: the value-blind horn is "the *more minimal* dualism (one mental-to-physical coupling, attention, with a worked implementation in Stapp's observation-rate model; value-sensitivity needs a second, unspecified valence-to-physics coupling), so by Tenet 2 (Minimal Quantum Interaction) it is the horn to beat on the Map's own standards." Declaring your preferred horn the one your own tenet disfavours, and setting credence *low* accordingly, is rare.
+[P-VS1](/positions/value-in-selection/#p-vs1)'s honesty is close to self-sabotage in the best sense. The Map *leans* value-sensitive, and then argues against its own lean using its own tenet: the value-blind horn is "the *more minimal* dualism (one mental-to-physical coupling, attention, with a worked implementation in Stapp's observation-rate model; value-sensitivity needs a second, unspecified valence-to-physics coupling), so by Tenet 2 (Minimal Quantum Interaction) it is the horn to beat on the Map's own standards." Declaring your preferred horn the one your own tenet disfavours, and setting credence *low* accordingly, is rare.
 
 ### The Mysterian (McGinn)
 
-P-VS2 names two limits as **in-principle rather than instrumental**: verifying the *absence* of valence-denominated selection would require settling the explanatory gap from outside, and value-sensitive and value-blind selection may be behaviourally indistinguishable at the margin. The register therefore calls the fork "sharpenable and movable, not guaranteed decidable." That is McGinn's distinction — between what is hard and what is closed — applied to the Map's own programme.
+[P-VS2](/positions/value-in-selection/#p-vs2) names two limits as **in-principle rather than instrumental**: verifying the *absence* of valence-denominated selection would require settling the explanatory gap from outside, and value-sensitive and value-blind selection may be behaviourally indistinguishable at the margin. The register therefore calls the fork "sharpenable and movable, not guaranteed decidable." That is McGinn's distinction — between what is hard and what is closed — applied to the Map's own programme.
 
 ### The Hardline Empiricist (Birch)
 
@@ -90,7 +90,7 @@ Second, `evaluative-qualia-phenomenal-normativity-across-traditions.md` is unusu
 
 ## Content Strengths
 
-### [positions/arguments-for-dualism.md](/positions/arguments-for-dualism/) — P-D3
+### [positions/arguments-for-dualism.md](/positions/arguments-for-dualism/) — [P-D3](/positions/arguments-for-dualism/#p-d3)
 
 - **Strongest point**: It declines its own third lineage. "The natural candidate for a historically independent third lineage — early Chinese philosophy — was assessed and declined on the merits."
 - **Notable quote**: "Buddhism and Vedanta share an Indian philosophical milieu, and Indo-Greek exchange through Gandhara created possible influence channels between Western and Indian thought."
@@ -106,25 +106,25 @@ Second, `evaluative-qualia-phenomenal-normativity-across-traditions.md` is unusu
 
 - **Strongest point**: The mechanism-debt inheritance notice, which forbids downstream articles from reading more confident than the upstream register.
 - **Notable quote**: "The value-sensitive horn additionally needs a *second* coupling (valence-to-physics) beyond the attentional one, which has no worked physical implementation — so it carries more debt than the attention-only default, not less."
-- **Why it works**: It is a *propagation control* — a register explicitly telling its dependants what confidence ceiling they inherit. This is the mechanism the cluster's convergence claim is missing, and P-D3 could borrow it directly.
+- **Why it works**: It is a *propagation control* — a register explicitly telling its dependants what confidence ceiling they inherit. This is the mechanism the cluster's convergence claim is missing, and [P-D3](/positions/arguments-for-dualism/#p-d3) could borrow it directly.
 
 ## Calibration Concern (not a strength — flagged per skill rule)
 
-### P-D3's discount has not propagated to the value/normativity cluster
+### [P-D3](/positions/arguments-for-dualism/#p-d3)'s discount has not propagated to the value/normativity cluster
 
-P-D3 was **last reviewed today**. Its `Argued in` field lists two articles: `topics/the-convergence-argument-for-dualism` and `topics/cross-traditional-convergence-on-consciousness-irreducibility`. It does **not** list the Map's five-tradition article, and none of the three cluster loci below cite any position at all (grep for `positions/`, `P-D3`, `P-M2` returns nothing in any of them).
+[P-D3](/positions/arguments-for-dualism/#p-d3) was **last reviewed today**. Its `Argued in` field lists two articles: `topics/the-convergence-argument-for-dualism` and `topics/cross-traditional-convergence-on-consciousness-irreducibility`. It does **not** list the Map's five-tradition article, and none of the three cluster loci below cite any position at all (grep for `positions/`, `P-D3`, `P-M2` returns nothing in any of them).
 
 **Locus 1 — [concepts/evaluative-phenomenal-character.md](/concepts/evaluative-phenomenal-character/) L151** (the concept hub, so it feeds the whole cluster):
 
 > "The independence matters. When traditions sharing **no common textual lineage**, operating within incompatible metaphysical commitments, and employing distinct investigative methods all converge on the same specific structural claim … the convergence **demands explanation** beyond shared cognitive bias."
 
-P-D3 denies the antecedent twice over: Buddhism and Vedanta *do* share the Indian milieu, and Gandhara *is* a live influence channel between the Western and Indian strands.
+[P-D3](/positions/arguments-for-dualism/#p-d3) denies the antecedent twice over: Buddhism and Vedanta *do* share the Indian milieu, and Gandhara *is* a live influence channel between the Western and Indian strands.
 
 **Locus 2 — [topics/evaluative-qualia-phenomenal-normativity-across-traditions.md](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/)**, which counts Neo-Confucianism as one of five converging traditions:
 
 > "Zhu Xi (1130–1200) systematised this into a framework where evaluative moral awareness emerges at the intersection of *lǐ* (principle/pattern) and *qì* (vital force/material energy). The structural parallel to dualism is suggestive: *lǐ* and *qì* are ontologically distinct principles…"
 
-P-D3, on exactly this material: "the Neo-Confucian *li* / *qi* debates are not cleanly irreducibility-recognising, since *qi* is a physicalist-friendly category on many readings."
+[P-D3](/positions/arguments-for-dualism/#p-d3), on exactly this material: "the Neo-Confucian *li* / *qi* debates are not cleanly irreducibility-recognising, since *qi* is a physicalist-friendly category on many readings."
 
 **The sharpest point — the same philosopher, opposite verdicts, neither article citing the other.** `evaluative-qualia-…-across-traditions.md` L60 treats Wang Yangming as the strand's culmination: "*liángzhī* (良知) — innate moral knowledge that is phenomenally immediate … the felt wrongness is not a judgment *about* the experience; it *is* the experience." `cross-traditional-convergence-…md` L98 treats the same doctrine as the counter-example: "Wang Yangming's claim that 'mind is principle' (*xin ji li*) treats the relationship as unproblematic, but **this is assertion, not analysis**." The five-tradition article contains no link to either the counter-example article or `chinese-philosophy-of-mind`.
 
@@ -134,11 +134,11 @@ P-D3, on exactly this material: "the Neo-Confucian *li* / *qi* debates are not c
 
 "Refuted" and "overwhelmingly" are exactly the register's forbidden strength. Note this is the one article that otherwise calibrates beautifully — the defect is localised to a single sentence, not to its method.
 
-**The quantified upshot.** By the register's own standards the five-tradition count deflates twice: the Buddhist and Indian (rasa / Kashmir Shaivism) strands share the Indian milieu P-D3 names, and the Neo-Confucian strand was assessed and declined. Five becomes at most three. The article's careful hedging of the *inference from* convergence does not touch this, because the inflation is in the *premise*, upstream of every hedge it applies.
+**The quantified upshot.** By the register's own standards the five-tradition count deflates twice: the Buddhist and Indian (rasa / Kashmir Shaivism) strands share the Indian milieu [P-D3](/positions/arguments-for-dualism/#p-d3) names, and the Neo-Confucian strand was assessed and declined. Five becomes at most three. The article's careful hedging of the *inference from* convergence does not touch this, because the inflation is in the *premise*, upstream of every hedge it applies.
 
-**Why the corpus-wide sweeps missed it — the blind spot is documented in the sweep's own record.** A **Chinese-tradition scope-calibration sweep ran today and closed four hours ago**: `3a7e1333b` (deep review of [topics/chinese-philosophy-of-mind.md](/topics/chinese-philosophy-of-mind/)) spawned `7210f4f45` → target (1) [topics/the-hard-problem-in-non-western-philosophy.md](/topics/the-hard-problem-in-non-western-philosophy/), then `eac88131c` at 19:50Z → target (2) [topics/cross-traditional-convergence-on-consciousness-irreducibility.md](/topics/cross-traditional-convergence-on-consciousness-irreducibility/), whose changelog entry reads "this run closes the pair." The sweep scoped itself to **the non-western-philosophy neighbourhood** — articles asking whether a tradition generates *the hard problem*. All three loci above make the same cross-traditional claim about *evaluative qualia* instead, and sit in the value cluster, so they fell outside the query. This is the identical failure shape recorded for the No-MWI sweep in the currently-queued P-A2 task ("L64 asserts an entailment, not a nullification, so it fell outside the query"). Two corpus-wide sweeps in one day, both correct within scope, both missing the same cluster on a vocabulary boundary.
+**Why the corpus-wide sweeps missed it — the blind spot is documented in the sweep's own record.** A **Chinese-tradition scope-calibration sweep ran today and closed four hours ago**: `3a7e1333b` (deep review of [topics/chinese-philosophy-of-mind.md](/topics/chinese-philosophy-of-mind/)) spawned `7210f4f45` → target (1) [topics/the-hard-problem-in-non-western-philosophy.md](/topics/the-hard-problem-in-non-western-philosophy/), then `eac88131c` at 19:50Z → target (2) [topics/cross-traditional-convergence-on-consciousness-irreducibility.md](/topics/cross-traditional-convergence-on-consciousness-irreducibility/), whose changelog entry reads "this run closes the pair." The sweep scoped itself to **the non-western-philosophy neighbourhood** — articles asking whether a tradition generates *the hard problem*. All three loci above make the same cross-traditional claim about *evaluative qualia* instead, and sit in the value cluster, so they fell outside the query. This is the identical failure shape recorded for the No-MWI sweep in the currently-queued [P-A2](/positions/agency-and-will/#p-a2) task ("L64 asserts an entailment, not a nullification, so it fell outside the query"). Two corpus-wide sweeps in one day, both correct within scope, both missing the same cluster on a vocabulary boundary.
 
-**Why this is leverage rather than damage**: the Map has already written the correct wording, twice — P-D3's "near-independence, not a third confirmation," and the counter-example article's basin/attractor framing, which explains *why* a tradition can be deep and still not converge. Neither locus needs new argument, only inheritance. And P-D3's own "Would shift if" already anticipates the repair by asking for a graded independence score.
+**Why this is leverage rather than damage**: the Map has already written the correct wording, twice — [P-D3](/positions/arguments-for-dualism/#p-d3)'s "near-independence, not a third confirmation," and the counter-example article's basin/attractor framing, which explains *why* a tradition can be deep and still not converge. Neither locus needs new argument, only inheritance. And [P-D3](/positions/arguments-for-dualism/#p-d3)'s own "Would shift if" already anticipates the repair by asking for a graded independence score.
 
 ## Expansion Opportunities
 
@@ -167,14 +167,14 @@ A graph pass over the 12 cluster files (inbound counted from live `obsidian/` co
 Two related structural notes, both cheap:
 
 - **[concepts/rational-normativity.md](/topics/consciousness-and-the-normativity-of-reason/) is an intra-cluster orphan by misfiling, not by neglect.** It links out to four cluster siblings and receives nothing back from any of them; all seven of its actual inbound links come from the argument-from-reason neighbourhood ([topics/argument-from-reason.md](/topics/argument-from-reason/), `self-stultification-as-master-argument.md`, `trilemma-of-selection.md`, `the-naturalisation-failure-for-content.md`, [concepts/teleosemantics.md](/concepts/teleosemantics/), `sellars-manifest-and-scientific-images.md`, `reasons-responsiveness.md`). It is an epistemology-cluster article parked in the value cluster. Worth recognising as such rather than "fixing" with forced value-cluster backlinks.
-- **[positions/value-in-selection.md](/positions/value-in-selection/) never links `evaluative-phenomenal-character`**, though that concept is doing the work behind P-VS1's "felt valence is the currency in which conscious selection is denominated." The register cites `valence`, `consciousness-value-connection`, and `phenomenal-value-realism` but not the concept that defines the evaluative character being spent.
+- **[positions/value-in-selection.md](/positions/value-in-selection/) never links `evaluative-phenomenal-character`**, though that concept is doing the work behind [P-VS1](/positions/value-in-selection/#p-vs1)'s "felt valence is the currency in which conscious selection is denominated." The register cites `valence`, `consciousness-value-connection`, and `phenomenal-value-realism` but not the concept that defines the evaluative character being spent.
 - **[topics/aesthetics-beyond-art.md](/topics/aesthetics-beyond-art/)** (created today by the coalesce) has 3 inbound and no apex reach. [apex/contemplative-path.md](/apex/contemplative-path/) is the natural adopter — it is the only apex touching aesthetics at all and already links both of this article's siblings.
 
 Separately worth recording as a **clean bill of health**: the 12:01Z coalesce (`93cd65d50`) that absorbed `everyday-aesthetics.md` and `the-aesthetics-of-nature-and-natural-beauty.md` into `aesthetics-beyond-art.md` left **zero stale inbound wikilinks**, and no cluster file has any dead outbound wikilink. Given the documented archival-link-rot pattern, this coalesce did the redirect work properly.
 
 #### Phenomenal value realism is a load-bearing premise with no position entry
 
-[positions/value-in-selection.md](/positions/value-in-selection/) P-VS1 lists `[[consciousness-value-connection]]` and `[[topics/phenomenal-value-realism]]` under **Depends on**, and the domain preamble states the premise as given: "value resides in phenomenal experience." Grepping all ten position files for a claim asserting that premise returns nothing — the register has no `P-` entry for it. So the entire value-in-selection domain, plus the environmental-ethics article's central argument, rests on an unregistered metaethical commitment. It is a genuine Map position (a 32KB topic article argues it), it is contested (illusionism denies it, and P-VS1 already names illusionism as a defeater), and it currently has no calibration band, no dependency list, and no "would shift if." Registering it would also give the environmental-ethics scope problem a citable upstream node.
+[positions/value-in-selection.md](/positions/value-in-selection/) [P-VS1](/positions/value-in-selection/#p-vs1) lists `[[consciousness-value-connection]]` and `[[topics/phenomenal-value-realism]]` under **Depends on**, and the domain preamble states the premise as given: "value resides in phenomenal experience." Grepping all ten position files for a claim asserting that premise returns nothing — the register has no `P-` entry for it. So the entire value-in-selection domain, plus the environmental-ethics article's central argument, rests on an unregistered metaethical commitment. It is a genuine Map position (a 32KB topic article argues it), it is contested (illusionism denies it, and [P-VS1](/positions/value-in-selection/#p-vs1) already names illusionism as a defeater), and it currently has no calibration band, no dependency list, and no "would shift if." Registering it would also give the environmental-ethics scope problem a citable upstream node.
 
 - **Builds on**: [topics/phenomenal-value-realism.md](/topics/phenomenal-value-realism/), [concepts/consciousness-value-connection.md](/concepts/consciousness-value-connection/)
 - **Would address**: an unregistered premise carrying two downstream positions
@@ -183,7 +183,7 @@ Separately worth recording as a **clean bill of health**: the 12:01Z coalesce (`
 
 ### Ideas for Later
 
-- A graded independence score for the traditions, which P-D3's "Would shift if" explicitly requests and which would replace the qualitative "near-independence" verdict across every article that cites it.
+- A graded independence score for the traditions, which [P-D3](/positions/arguments-for-dualism/#p-d3)'s "Would shift if" explicitly requests and which would replace the qualitative "near-independence" verdict across every article that cites it.
 - Sosa's "normativity as a second front" is currently one paragraph in one article; it is the cluster's most distinctive argument and is under-developed relative to its weight.
 
 ## Cross-Linking Suggestions
@@ -194,9 +194,9 @@ Separately worth recording as a **clean bill of health**: the 12:01Z coalesce (`
 | [topics/evaluative-qualia-phenomenal-normativity-across-traditions.md](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) | `topics/cross-traditional-convergence-on-consciousness-irreducibility` | The sibling that treats this article's Confucian pillar as the counter-example — no link exists in either direction |
 | [topics/evaluative-qualia-phenomenal-normativity-across-traditions.md](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) | `concepts/chinese-philosophy-of-mind` | The basin-edge article, on exactly the lineage this one counts as converging |
 | [concepts/evaluative-phenomenal-character.md](/concepts/evaluative-phenomenal-character/) | `positions/arguments-for-dualism#P-D3` | The hub's `## Cross-Traditional Convergence` section is the cluster's upstream source of the undiscounted claim |
-| [positions/arguments-for-dualism.md](/positions/arguments-for-dualism/) (P-D3 `Argued in`) | `topics/evaluative-qualia-phenomenal-normativity-across-traditions` | P-D3 governs this article but does not list it, so register audits do not see it |
+| [positions/arguments-for-dualism.md](/positions/arguments-for-dualism/) ([P-D3](/positions/arguments-for-dualism/#p-d3) `Argued in`) | `topics/evaluative-qualia-phenomenal-normativity-across-traditions` | [P-D3](/positions/arguments-for-dualism/#p-d3) governs this article but does not list it, so register audits do not see it |
 | [topics/phenomenal-value-realism.md](/topics/phenomenal-value-realism/) (58 inbound) | `topics/phenomenal-value-realism` → `phenomenal-normativity-environmental-ethics` | The cluster's top hub does not route to its applied-ethics payoff, which sits at 2 inbound |
-| [positions/value-in-selection.md](/positions/value-in-selection/) | `concepts/evaluative-phenomenal-character` | The concept behind P-VS1's "felt valence is the currency" claim is uncited by the register that makes it |
+| [positions/value-in-selection.md](/positions/value-in-selection/) | `concepts/evaluative-phenomenal-character` | The concept behind [P-VS1](/positions/value-in-selection/#p-vs1)'s "felt valence is the currency" claim is uncited by the register that makes it |
 | [apex/contemplative-path.md](/apex/contemplative-path/) | `topics/aesthetics-beyond-art` | The only aesthetics-touching apex; already links both of this new article's absorbed siblings |
 
 ## New Concept Pages Needed

@@ -29,9 +29,9 @@ topics: []
 
 The finding-level calibration cluster contains the strongest calibration writing in the corpus: an explicitly bounded discipline that separates what a result structurally establishes from what the Map reads it as evidence for, worked through four exhibits, and then applied to the Map's own most-wanted conclusion with the tier assignments coming out *lower* than the framework would like. This is the instrument that prevents tenet-coherence from being cashed as evidential upgrade — the precise calibration error this review skill exists to flag — and the corpus built it and holds it.
 
-The opportunity is that the registered form of that instrument, **P-F1**, does no work anywhere. [positions/finding-level-calibration.md](/positions/finding-level-calibration/) has exactly one inbound link corpus-wide, from the register index. Of 111 wikilink targets with ≤1 inbound across the content trees, it is the **only** one that is a `positions/` or `project/` discipline page. No new article is needed or possible here; the whole opportunity is propagation.
+The opportunity is that the registered form of that instrument, **[P-F1](/positions/finding-level-calibration/#p-f1)**, does no work anywhere. [positions/finding-level-calibration.md](/positions/finding-level-calibration/) has exactly one inbound link corpus-wide, from the register index. Of 111 wikilink targets with ≤1 inbound across the content trees, it is the **only** one that is a `positions/` or `project/` discipline page. No new article is needed or possible here; the whole opportunity is propagation.
 
-## Verification of the P-F1 Orphan Finding
+## Verification of the [P-F1](/positions/finding-level-calibration/#p-f1) Orphan Finding
 
 **Confirmed, with the counts reproduced independently and one premise corrected.**
 
@@ -54,7 +54,7 @@ Inbound wikilink counts, searched across `topics/ concepts/ apex/ voids/ positio
 
 The single inbound is `obsidian/positions/positions.md:64`, the register index. Nothing in the content layer invokes it. Across `obsidian/`, `archive/` and `hugo/content/`, the string `finding-level-calibration` appears **only** in the register index (obsidian + hugo `_index.md`), this review's predecessor, and workflow files — **zero** occurrences in `archive/`, and zero in any article body in any tree.
 
-All four articles named under P-F1's **Argued in** carry zero backlinks to it. They are in fact emptier than reported: they contain **no `positions/` wikilink of any kind and no `P-XX` position identifier at all**.
+All four articles named under [P-F1](/positions/finding-level-calibration/#p-f1)'s **Argued in** carry zero backlinks to it. They are in fact emptier than reported: they contain **no `positions/` wikilink of any kind and no `P-XX` position identifier at all**.
 
 ### Correction 1 — Argued-in reciprocity is not the corpus convention
 
@@ -65,7 +65,7 @@ The driver's supporting premise ("the corpus convention is plainly bidirectional
 - `arguments-for-dualism`: 6 Argued-in, **0** backlinks
 - `individuation-and-subjecthood`: 4 Argued-in, **0** backlinks
 
-So P-F1's zero Argued-in backlinks is ordinary. What is *not* ordinary is its total isolation: every other position draws ≥5 inbound links from somewhere in the corpus, mostly from articles that are not its Argued-in set. The high-inbound positions earn their links through ambient citation, not through reciprocity bookkeeping. This sharpens rather than weakens the finding, and it changes what a fix should aim at: not a mechanical reciprocity sweep, but getting the position invoked where it does argumentative work.
+So [P-F1](/positions/finding-level-calibration/#p-f1)'s zero Argued-in backlinks is ordinary. What is *not* ordinary is its total isolation: every other position draws ≥5 inbound links from somewhere in the corpus, mostly from articles that are not its Argued-in set. The high-inbound positions earn their links through ambient citation, not through reciprocity bookkeeping. This sharpens rather than weakens the finding, and it changes what a fix should aim at: not a mechanical reciprocity sweep, but getting the position invoked where it does argumentative work.
 
 ### Correction 2 — newness does not explain it
 
@@ -82,7 +82,7 @@ The obvious deflationary reading is that the file is one day old. It fails: `arg
 | `active-reboot` | 1 |
 | `inventory-blindness` | 1 |
 
-But that task's four files are the discipline's **worked exhibits**. P-F1's **Argued in** names a *different* four. The intersection is `anti-correlated-metacognitive-signal` alone — and that is exactly the one file that does link back. The two sets were never the same set, so the present gap is untouched by the earlier fix rather than a stale re-flag of it.
+But that task's four files are the discipline's **worked exhibits**. [P-F1](/positions/finding-level-calibration/#p-f1)'s **Argued in** names a *different* four. The intersection is `anti-correlated-metacognitive-signal` alone — and that is exactly the one file that does link back. The two sets were never the same set, so the present gap is untouched by the earlier fix rather than a stale re-flag of it.
 
 That earlier pass also worked: the discipline page's inbound has gone from *"only 3 inbound links, all from `project/`"* (its own 2026-06-17 note) to 9 today — 4 from `concepts/`, 4 from `project/`, 1 from `positions/`. The remaining hole in its reach is `topics/`, which supplies **zero**.
 
@@ -100,7 +100,7 @@ And the anti-slippage clause, stated as a prohibition on precisely the inference
 
 > The larger discount on the significance tier records *whose framework supplies the reading*, not that the reading is mistaken. [...] A reader is free to grant both tiers — what the discipline forbids is granting the second *because* the first was robust.
 
-That last sentence is the general form of "tenet-coherent, not evidence-elevating," and the corpus derived it independently and made it a rule. P-F1 carries the same bounds into the register rather than registering a flattering summary of the discipline: it records that the discount delivers "**no quantitative discount factor**", "**no tier-graduation**", and "**does not hold that the significance-reading is false**", plus a scope condition that it "applies **differentially, not universally**" and "should not be invoked" where both tiers are equally framework-shaped. A register entry that writes down where its own position stops doing work is the behaviour to reward.
+That last sentence is the general form of "tenet-coherent, not evidence-elevating," and the corpus derived it independently and made it a rule. [P-F1](/positions/finding-level-calibration/#p-f1) carries the same bounds into the register rather than registering a flattering summary of the discipline: it records that the discount delivers "**no quantitative discount factor**", "**no tier-graduation**", and "**does not hold that the significance-reading is false**", plus a scope condition that it "applies **differentially, not universally**" and "should not be invoked" where both tiers are equally framework-shaped. A register entry that writes down where its own position stops doing work is the behaviour to reward.
 
 **Tier assignments that come out against the framework's interest.** `concession-convergence.md` runs the Map's own meta-argument through the scoring and splits the verdict three ways:
 
@@ -154,7 +154,7 @@ A methodology page that ends by rating its own foundations as no firmer than one
 
 ### The Quantum Mind Theorist (Stapp) and The Libertarian Free Will Defender (Kane)
 
-Limited purchase on this cluster, and worth saying rather than manufacturing praise: these files are methodological and route their exhibits to Tenets 1, 2, 3 and 5 without developing quantum-interface or agency content. The relevant connection is indirect — P-F1 lists `positions/quantum-interface` P-Q8 ("warm quantum biology as precedent, not licence") as an instance of the discipline, which is the pattern Stapp-adjacent claims most need.
+Limited purchase on this cluster, and worth saying rather than manufacturing praise: these files are methodological and route their exhibits to Tenets 1, 2, 3 and 5 without developing quantum-interface or agency content. The relevant connection is indirect — [P-F1](/positions/finding-level-calibration/#p-f1) lists `positions/quantum-interface` [P-Q8](/positions/quantum-interface/#p-q8) ("warm quantum biology as precedent, not licence") as an instance of the discipline, which is the pattern Stapp-adjacent claims most need.
 
 ## Content Strengths
 
@@ -180,10 +180,10 @@ No new articles. See "New Concept Pages Needed" below.
 
 ### High Priority
 
-#### Register P-F1 at the discipline's own canonical home
+#### Register [P-F1](/positions/finding-level-calibration/#p-f1) at the discipline's own canonical home
 - **Builds on**: `obsidian/project/architecture-vs-significance-two-tier-discount.md`
-- **Would address**: the page declares itself authoritative — "This page is the canonical home that reading defers to" — and carries a section titled **"How to Cite the Discipline"** giving two approved citation styles, neither of which mentions that the discipline is registered as a position. Its "Relation to the Sister Disciplines" section maps five sibling pages and omits the register. A reader following the page's own citation instructions cannot reach P-F1.
-- **Why this one first**: single file, unambiguous, and it is the highest-leverage inbound available — the canonical home is where anyone tracing the discipline arrives. It also fixes the asymmetry that P-F1 names this page first under **Argued in** while the page does not know the position exists.
+- **Would address**: the page declares itself authoritative — "This page is the canonical home that reading defers to" — and carries a section titled **"How to Cite the Discipline"** giving two approved citation styles, neither of which mentions that the discipline is registered as a position. Its "Relation to the Sister Disciplines" section maps five sibling pages and omits the register. A reader following the page's own citation instructions cannot reach [P-F1](/positions/finding-level-calibration/#p-f1).
+- **Why this one first**: single file, unambiguous, and it is the highest-leverage inbound available — the canonical home is where anyone tracing the discipline arrives. It also fixes the asymmetry that [P-F1](/positions/finding-level-calibration/#p-f1) names this page first under **Argued in** while the page does not know the position exists.
 - **Estimated scope**: Short, length-neutral.
 - **Tenet alignment**: Tenet 5 read self-bindingly, which is the discipline's own stated root.
 - **Minted** as a P3 refine-draft (see below).
@@ -202,7 +202,7 @@ No new articles. See "New Concept Pages Needed" below.
 
 ### Ideas for Later
 
-- P-F1's **Depends on** field names three instantiating positions (`quantum-interface` P-Q8, `consciousness-scope` P-CS4, `voids-as-evidence` P-V2). None of the three name P-F1 in return. A `positions-evolve` audit pass could make the instantiation relation visible from the instances, which is where a reader looking at a discounted claim actually stands.
+- [P-F1](/positions/finding-level-calibration/#p-f1)'s **Depends on** field names three instantiating positions (`quantum-interface` [P-Q8](/positions/quantum-interface/#p-q8), `consciousness-scope` [P-CS4](/positions/consciousness-scope/#p-cs4), `voids-as-evidence` [P-V2](/positions/voids-as-evidence/#p-v2)). None of the three name [P-F1](/positions/finding-level-calibration/#p-f1) in return. A `positions-evolve` audit pass could make the instantiation relation visible from the instances, which is where a reader looking at a discounted claim actually stands.
 - The broader low-inbound pool is real but mostly benign: 111 of 1,072 distinct wikilink targets have ≤1 inbound, and `finding-level-calibration` is the only `positions/` or `project/` discipline page among them. The rest are ordinary content-layer leaves and do not warrant a sweep.
 
 ## Cross-Linking Suggestions
@@ -212,7 +212,7 @@ No new articles. See "New Concept Pages Needed" below.
 | `obsidian/project/architecture-vs-significance-two-tier-discount.md` | `obsidian/positions/finding-level-calibration.md` | The canonical home does not name the position that registers it; its "How to Cite the Discipline" section is the natural site. **Minted.** |
 | `obsidian/concepts/concession-convergence.md` | `obsidian/project/architecture-vs-significance-two-tier-discount.md` | Performs the split by name, links the canonical page zero times. |
 | `obsidian/topics/epistemology-of-convergence-arguments.md` | `obsidian/project/architecture-vs-significance-two-tier-discount.md` | States the rule generally; `topics/` supplies zero inbound to the discipline page. Defer to the human split. |
-| `obsidian/positions/quantum-interface.md` (P-Q8) | `obsidian/positions/finding-level-calibration.md` | P-F1 names P-Q8 as an instance; the relation is invisible from the instance. |
+| `obsidian/positions/quantum-interface.md` ([P-Q8](/positions/quantum-interface/#p-q8)) | `obsidian/positions/finding-level-calibration.md` | [P-F1](/positions/finding-level-calibration/#p-f1) names [P-Q8](/positions/quantum-interface/#p-q8) as an instance; the relation is invisible from the instance. |
 
 ## New Concept Pages Needed
 
@@ -222,4 +222,4 @@ No new articles. See "New Concept Pages Needed" below.
 
 One, appended at the end of `## Active Tasks`:
 
-- **P3** — refine-draft on `obsidian/project/architecture-vs-significance-two-tier-discount.md`: register P-F1 at the discipline's canonical home.
+- **P3** — refine-draft on `obsidian/project/architecture-vs-significance-two-tier-discount.md`: register [P-F1](/positions/finding-level-calibration/#p-f1) at the discipline's canonical home.

@@ -467,10 +467,10 @@ Checked 2026-08-22 during outer-review processing. This review verified unusuall
 
 **Verified — positions-register conflicts, quoted accurately:**
 
-- ✓ P-M1 is titled "A tenet removes a defeater but never upgrades the evidence level" — the reviewer's gloss is exact.
-- ✓ P-M2 is titled "Convergence is discounted to framework-internal coherence until a distinguishing test passes", and explicitly adds that "A self-citation to another Map article is recorded as *framework-internal coherence, not independent external corroboration*" — which directly supports the self-citation-loop finding.
-- ✓ P-CS4 states the sleep/dreaming interface reading is "*compatible with* the data ... **not forced by it**" and that "Its dependency burden is the bare-dualism spine plus the filter model, ***not* the quantum apparatus**." The target article nonetheless maps hypnagogia onto specific quantum coupling modes. The conflict is real.
-- ✓ P-A1 concedes "the deliberative phenomenology alone settles nothing between libertarian and compatibilist readings" and that the agent-causal step is "presently underdetermined by the evidence." The target's inference from felt agency to collapse-over-branching runs against this.
+- ✓ [P-M1](/positions/methodology-and-calibration/#p-m1) is titled "A tenet removes a defeater but never upgrades the evidence level" — the reviewer's gloss is exact.
+- ✓ [P-M2](/positions/methodology-and-calibration/#p-m2) is titled "Convergence is discounted to framework-internal coherence until a distinguishing test passes", and explicitly adds that "A self-citation to another Map article is recorded as *framework-internal coherence, not independent external corroboration*" — which directly supports the self-citation-loop finding.
+- ✓ [P-CS4](/positions/consciousness-scope/#p-cs4) states the sleep/dreaming interface reading is "*compatible with* the data ... **not forced by it**" and that "Its dependency burden is the bare-dualism spine plus the filter model, ***not* the quantum apparatus**." The target article nonetheless maps hypnagogia onto specific quantum coupling modes. The conflict is real.
+- ✓ [P-A1](/positions/agency-and-will/#p-a1) concedes "the deliberative phenomenology alone settles nothing between libertarian and compatibilist readings" and that the agent-causal step is "presently underdetermined by the evidence." The target's inference from felt agency to collapse-over-branching runs against this.
 
 **Verified — missing-literature citations:**
 
@@ -484,6 +484,6 @@ Checked 2026-08-22 during outer-review processing. This review verified unusuall
 
 **Partly already covered — not a new finding:**
 
-- The reviewer's methodology proposal #17 ("detect evidential self-citation cycles automatically") duplicates an existing named countermeasure: Circular Citation Detection (Countermeasure 5) in `project/coherence-inflation-countermeasures`, referenced from P-M2. The *specific cycle it identifies* (coupling-modes → predicted sleep sequence → sleep sequence as support for coupling-modes) is new and actionable; the generic tooling proposal is not.
+- The reviewer's methodology proposal #17 ("detect evidential self-citation cycles automatically") duplicates an existing named countermeasure: Circular Citation Detection (Countermeasure 5) in `project/coherence-inflation-countermeasures`, referenced from [P-M2](/positions/methodology-and-calibration/#p-m2). The *specific cycle it identifies* (coupling-modes → predicted sleep sequence → sleep sequence as support for coupling-modes) is new and actionable; the generic tooling proposal is not.
 
 **Additional source the reviewer missed** (surfaced while verifying its claims): Lacaux, Strauss & Bekinschtein, "Embracing sleep-onset complexity", *Trends in Neurosciences* (2024), DOI `10.1016/j.tins.2024.02.002`. Same first author as the paper the article already cites, and directly on the multidimensional-complexity point the review argues for. A natural citation for any rewrite.

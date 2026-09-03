@@ -234,13 +234,13 @@ harvester does not re-mine them as uncovered subjects:
 
 1. ✗ **Radiation constraints on macroscopic neural superposition.** The charge
    requires the Map to hold macroscopic neural patterns in *sustained spatial
-   superposition*. It does not. `positions/quantum-interface` P-Q1 makes
+   superposition*. It does not. `positions/quantum-interface` [P-Q1](/positions/quantum-interface/#p-q1) makes
    post-decoherence selection the preferred candidate precisely because
    "selection acts on already-decohered branch-outcomes rather than on coherent
    neural superpositions," explicitly to sidestep the warm-wet decoherence
    objection. Gemini's own report notes this pivot and then attacks the
    superseded reading anyway. Bremsstrahlung bounds are already carried
-   correctly against Diósi-Penrose at P-Q6 — including the Majorana 2023
+   correctly against Diósi-Penrose at [P-Q6](/positions/quantum-interface/#p-q6) — including the Majorana 2023
    erratum and Figurato et al. (2024), neither of which Gemini knows about.
 2. ✗ **"Entirely omits Georgiev."** Georgiev is cited in at least seven live
    files. `research/psychophysical-coupling-law-mechanisms-2026-01-23` cites the
@@ -270,7 +270,7 @@ harvester does not re-mine them as uncovered subjects:
 5. ✗ **"Epistemic gerrymandering."** Out of remit — the prompt explicitly
    excluded the changelog, review pipeline and governance infrastructure from
    audit, and this finding is built entirely on changelog entries. On the merits
-   it is also answered: `positions/quantum-interface` P-Q9 states that
+   it is also answered: `positions/quantum-interface` [P-Q9](/positions/quantum-interface/#p-q9) states that
    self-concealment "is local to the *aggregate-statistics channel* ... and is
    not a global unfalsifiability shield," then names the surviving falsifiers on
    two channels.

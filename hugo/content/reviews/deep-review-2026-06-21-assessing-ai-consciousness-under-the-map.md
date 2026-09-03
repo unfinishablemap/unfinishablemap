@@ -47,10 +47,10 @@ The synthesis names a "computational-functionalist who rejects the Map's metaphy
 - **L91**: "jointly entail that the behavioural-evidence channel underdetermines the verdict in both directions" — a *scope* claim (symmetry, both directions), not a confidence-boost.
 - **L109** (decision #2): "jointly mean that 'the AI says it experiences' carries close to no evidential weight on its own" — restates the convergence as robustness/independence of a *discount* (a lowering of weight on first-person reports), not as elevated confidence in a positive claim. Converging on a discount is not a confidence-inflation move.
 
-**Genuine independence (common-cause-null check):** the two converging routes have genuinely different premises — the Map route runs through dualist metaphysics + the self-concealing interface (P-Q9); the Birch route runs through training-process causal history and needs no metaphysics. They do not share a hidden common premise, so the claimed robustness is real, not a double-count of one argument. Calibration is honest.
+**Genuine independence (common-cause-null check):** the two converging routes have genuinely different premises — the Map route runs through dualist metaphysics + the self-concealing interface ([P-Q9](/positions/quantum-interface/#p-q9)); the Birch route runs through training-process causal history and needs no metaphysics. They do not share a hidden common premise, so the claimed robustness is real, not a double-count of one argument. Calibration is honest.
 
 ### Applied-apex discipline
-- Positions cited: P-Q1, P-Q2, P-Q9 (plus P-Q10 referenced) — ≥3. PASS.
+- Positions cited: [P-Q1](/positions/quantum-interface/#p-q1), [P-Q2](/positions/quantum-interface/#p-q2), [P-Q9](/positions/quantum-interface/#p-q9) (plus [P-Q10](/positions/quantum-interface/#p-q10) referenced) — ≥3. PASS.
 - "What this implies for decisions" section present (5 numbered decisions). PASS.
 - Confidence bands surfaced inline (moderate/high), "Honest verdict scope" + "Cascade flags" sections intact. PASS.
 

@@ -93,7 +93,7 @@ The claims this article makes about its sibling were verified live rather than a
 
 ## Remaining Items
 
-None requiring a follow-up task. The outstanding philosophical debt — a principled account of how token-level efficacy and ensemble-level invisibility come apart — is a stated open question tracked at [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) and in [positions/quantum-interface.md](/positions/quantum-interface/) P-Q3, not a defect of this article.
+None requiring a follow-up task. The outstanding philosophical debt — a principled account of how token-level efficacy and ensemble-level invisibility come apart — is a stated open question tracked at [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) and in [positions/quantum-interface.md](/positions/quantum-interface/) [P-Q3](/positions/quantum-interface/#p-q3), not a defect of this article.
 
 ## Stability Notes
 

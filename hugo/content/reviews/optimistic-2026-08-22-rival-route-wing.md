@@ -26,7 +26,7 @@ title: Optimistic Review - 2026-08-22 - The Rival-Route Wing
 
 **Why this wing, and why these five.** The selection was made by differencing every live article slug against every slug named in any prior `optimistic-*.md` review: 61 of 800 articles have never appeared in an optimistic review, and five of them form a single structural family. Each of these articles exists to state, at full strength and in its own terms, a route the Map does **not** take — and then to locate the Map by contrast rather than by dismissal. They span three different axes of rivalry, which is what makes them one wing rather than five unrelated pages:
 
-- **Within libertarianism** — `event-causal-libertarianism` (the rival species P-A2 rejects)
+- **Within libertarianism** — `event-causal-libertarianism` (the rival species [P-A2](/positions/agency-and-will/#p-a2) rejects)
 - **Against libertarianism** — `compatibilism` (the discipline's majority view)
 - **Against the Map's mental-causation structure** — `interventionist-and-counterfactual-dualism` (co-causation vs trumping)
 - **Against Tenet 1 itself** — `neutral-monism` (the third-stuff rival)
@@ -170,12 +170,12 @@ It also fails the discrimination test the corpus states explicitly elsewhere. `o
 
 Two of the five are unambiguous omissions, because the position names the rival in its own title:
 
-1. **P-A2** — "Authorship requires agent causation, **not merely event-causal indeterminism**". Its `Argued in` lists `concepts/agent-causation`, `concepts/four-category-ontology`, `concepts/quantum-indeterminacy-free-will`, `topics/free-will`. It does not list `topics/event-causal-libertarianism`, which is the corpus's only sustained treatment of the rejected rival (created 2026-07-09, six inbound corpus links, deep-reviewed 2026-08-19).
-2. **P-A5** — "The agency case is **distinguished from compatibilism** by tenet-coherence, not unique moral explanatory power". Its `Argued in` lists six articles. It does not list `concepts/compatibilism`, the corpus's only survey of the rival it distinguishes itself from (created 2026-07-13).
+1. **[P-A2](/positions/agency-and-will/#p-a2)** — "Authorship requires agent causation, **not merely event-causal indeterminism**". Its `Argued in` lists `concepts/agent-causation`, `concepts/four-category-ontology`, `concepts/quantum-indeterminacy-free-will`, `topics/free-will`. It does not list `topics/event-causal-libertarianism`, which is the corpus's only sustained treatment of the rejected rival (created 2026-07-09, six inbound corpus links, deep-reviewed 2026-08-19).
+2. **[P-A5](/positions/agency-and-will/#p-a5)** — "The agency case is **distinguished from compatibilism** by tenet-coherence, not unique moral explanatory power". Its `Argued in` lists six articles. It does not list `concepts/compatibilism`, the corpus's only survey of the rival it distinguishes itself from (created 2026-07-13).
 
-**There is a direct same-register precedent for exactly this repair.** P-A5's own `Updated 2026-08-21` note reads: "**Argued in** extended to the Frankfurt-cases and Strawsonian-responsibility articles — since 2026-07-29 the canonical loci for two of the three residue items, neither previously cited." The same audit that caught those two did not sweep the July survey articles.
+**There is a direct same-register precedent for exactly this repair.** [P-A5](/positions/agency-and-will/#p-a5)'s own `Updated 2026-08-21` note reads: "**Argued in** extended to the Frankfurt-cases and Strawsonian-responsibility articles — since 2026-07-29 the canonical loci for two of the three residue items, neither previously cited." The same audit that caught those two did not sweep the July survey articles.
 
-**One secondary item to reconcile in the same pass, flagged rather than asserted.** P-A2's `Would shift if` trigger is "an event-causal account is shown to secure sourcehood without **the regress** the Map presses" — but the canonical article presses the **luck / disappearing-agent** objection (Pereboom 2014), and treats it as the pivot of the whole taxonomy. These are related but not identical grounds. Worth a look when the citation is added; not asserted here as a defect, since the register may be deliberately naming the more general form.
+**One secondary item to reconcile in the same pass, flagged rather than asserted.** [P-A2](/positions/agency-and-will/#p-a2)'s `Would shift if` trigger is "an event-causal account is shown to secure sourcehood without **the regress** the Map presses" — but the canonical article presses the **luck / disappearing-agent** objection (Pereboom 2014), and treats it as the pivot of the whole taxonomy. These are related but not identical grounds. Worth a look when the citation is added; not asserted here as a defect, since the register may be deliberately naming the more general form.
 
 The other three wing articles (`neutral-monism`, `pairing-problem`, `interventionist-and-counterfactual-dualism`) are also uncited by the register, but none of them maps onto a single position by name, so no specific repair is recommended for them. Recorded as an observation for whoever next audits the register's `Argued in` coverage.
 
@@ -208,9 +208,9 @@ So the article's self-assessment is accurate: two paragraphs, no dedicated treat
 |---|---|---|
 | `concepts/pairing-problem` | `concepts/mysterianism` | `mysterianism` states the discrimination test for falsifiers ("physicalism plus hard work predicts their non-occurrence equally well") that this article's closing sentence violates. The corpus's own antidote, currently unlinked from the article that needs it. |
 | `topics/interventionist-and-counterfactual-dualism` | `positions/quantum-interface` | The article's entire Tenet-2 diagnostic turns on the strict channel's statistical profile. The register is where that profile is calibrated, and the article cites it nowhere. |
-| `concepts/compatibilism` | `positions/agency-and-will` | P-A5 is the register entry this article's whole Site-Perspective section argues for. No link in either direction. |
-| `concepts/neutral-monism` | `positions/arguments-for-dualism` | P-D1 ("the anti-physicalist arguments are premise-sharing, not evidentially independent") is the discipline under which the dualism-suspicion instability argument should be read — it is a structural result, not a fourth independent argument. |
-| `topics/event-causal-libertarianism` | `positions/agency-and-will` | The article is the canonical statement of the rival P-A2 rejects; a link back to the register would make the framework-relative framing traceable to the position that holds it. |
+| `concepts/compatibilism` | `positions/agency-and-will` | [P-A5](/positions/agency-and-will/#p-a5) is the register entry this article's whole Site-Perspective section argues for. No link in either direction. |
+| `concepts/neutral-monism` | `positions/arguments-for-dualism` | [P-D1](/positions/arguments-for-dualism/#p-d1) ("the anti-physicalist arguments are premise-sharing, not evidentially independent") is the discipline under which the dualism-suspicion instability argument should be read — it is a structural result, not a fourth independent argument. |
+| `topics/event-causal-libertarianism` | `positions/agency-and-will` | The article is the canonical statement of the rival [P-A2](/positions/agency-and-will/#p-a2) rejects; a link back to the register would make the framework-relative framing traceable to the position that holds it. |
 
 ## New Concept Pages Needed
 
@@ -222,14 +222,14 @@ Three, all within the reports-only-plus-narrow-exception scope (`refine-draft` a
 
 1. **P2 `refine-draft`** — `obsidian/topics/interventionist-and-counterfactual-dualism.md` (Concern 1, three loci)
 2. **P2 `refine-draft`** — `obsidian/concepts/pairing-problem.md` (Concern 2, one sentence)
-3. **P3 `positions-evolve`** — `obsidian/positions/agency-and-will.md` (P-A2 and P-A5 `Argued in`)
+3. **P3 `positions-evolve`** — `obsidian/positions/agency-and-will.md` ([P-A2](/positions/agency-and-will/#p-a2) and [P-A5](/positions/agency-and-will/#p-a5) `Argued in`)
 
 **Deliberately not minted:**
 
 - **No `expand-topic`** — out of contract for this skill, and both candidate sections are at or near cap.
 - **No `research-topic` on Vihvelin's dispositionalism** — the subject is genuinely uncovered and the article says so itself, but `topics/` is closed at 320/320 and `concepts/` has two slots against a heavily oversubscribed research queue. Minting one would produce a task that cannot be built. The measurement and the in-place alternative are recorded above instead.
 - **No task on the `neutral-monism` "joints of the problem" line** — it is hedged, it is a different argument from the parsimony claim the same article self-binds against, and flagging a correctly-hedged sentence risks a hedge-padding pass on an article that is already well calibrated. Recorded as a watch item only.
-- **No task on the P-A5 / `concepts/compatibilism` "hardest challenge" divergence** — P-A5 (updated 2026-08-21) says the compatibilist symmetry "bites hardest at Strawsonian responsibility"; `concepts/compatibilism` (2026-08-02) calls Fischer's semicompatibilism "the hardest challenge." These are claims on different axes (which rival most fully secures moral practice without metaphysics, versus which most threatens the Map's machinery) and are not in contradiction. Noted for the record; no action.
+- **No task on the [P-A5](/positions/agency-and-will/#p-a5) / `concepts/compatibilism` "hardest challenge" divergence** — [P-A5](/positions/agency-and-will/#p-a5) (updated 2026-08-21) says the compatibilist symmetry "bites hardest at Strawsonian responsibility"; `concepts/compatibilism` (2026-08-02) calls Fischer's semicompatibilism "the hardest challenge." These are claims on different axes (which rival most fully secures moral practice without metaphysics, versus which most threatens the Map's machinery) and are not in contradiction. Noted for the record; no action.
 
 ---
 

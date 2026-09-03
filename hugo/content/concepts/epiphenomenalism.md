@@ -170,7 +170,7 @@ The case against epiphenomenalism does not rest on any single argument. Four ind
 
 Each succeeds or fails independently, but together they close escape routes that any single argument leaves open. An epiphenomenalist might respond to each with a targeted defence, but the defences must be independently plausible and mutually consistent. The cumulative burden escalates even when individual defences succeed.
 
-Further, the Indian, African, and Western traditions each concluded that consciousness is causally efficacious, reaching that conclusion on at least near-independent footing—near-independence on the Indian/Western axis, a candidate rather than an established lineage on the West African one (see [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/), graded at [P-D3](/positions/arguments-for-dualism/)). The epiphenomenalist must explain not only why four independent argument types fail but why traditions reasoning by different methods arrived at the same error.
+Further, the Indian, African, and Western traditions each concluded that consciousness is causally efficacious, reaching that conclusion on at least near-independent footing—near-independence on the Indian/Western axis, a candidate rather than an established lineage on the West African one (see [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/), graded at [P-D3](/positions/arguments-for-dualism/#p-d3)). The epiphenomenalist must explain not only why four independent argument types fail but why traditions reasoning by different methods arrived at the same error.
 
 ## Relation to the Map's Perspective
 

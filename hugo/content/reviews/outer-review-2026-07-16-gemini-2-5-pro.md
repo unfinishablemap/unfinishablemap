@@ -189,7 +189,7 @@ This is a hostile Gemini Deep Research referee report. Hostile Deep Research rev
 
 **Convergent with sibling reviews — already have tasks (no duplicate created; `/combine-outer-reviews` will merge/upgrade):**
 - ✓ **Classical predictive processing / active inference not engaged as a framework-level rival** (Gemini Dimension D) — matches Claude Opus 4.8 task (todo line ~121) and ChatGPT reply. Real gap.
-- ✓ **Born-rule "selection without aggregate deviation — is it even selection?"** (Gemini Dimension C) — matches Claude task (quantum-interface P-Q1, "selection indistinguishable from chance") and ChatGPT born-preserving-causal-efficacy task.
+- ✓ **Born-rule "selection without aggregate deviation — is it even selection?"** (Gemini Dimension C) — matches Claude task (quantum-interface [P-Q1](/positions/quantum-interface/#p-q1), "selection indistinguishable from chance") and ChatGPT born-preserving-causal-efficacy task.
 - ✓ **Decoherence / Tegmark-timescale objection and MWI best replies** (Gemini Dimension D) — matches ChatGPT No-Many-Worlds task and Claude Sebens–Carroll/Zurek task. The Map already engages Tegmark vs Hagan vs Reimers/McKemmish honestly ("contested counter-calculation, not a settled rebuttal").
 - ✓ **Kim causal-exclusion / pairing problem answered too cheaply** (Gemini Dimension C, "Delegatory Dualism") — matches Claude interactionist-dualism pairing-problem task.
 

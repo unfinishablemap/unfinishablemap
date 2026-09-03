@@ -246,12 +246,12 @@ not apply here.
   self-representation rather than access to anything phenomenal, so this is
   evidential pressure rather than proof". The article does count it. Declined.
 - ✗ **The two headline metaphysical charges are already held positions, not
-  discoveries.** `positions/individuation-and-subjecthood` **P-I1** grades
+  discoveries.** `positions/individuation-and-subjecthood` **[P-I1](/positions/individuation-and-subjecthood/#p-i1)** grades
   primitive thisness external-evidence **D**, empirical discriminability **none**,
   framework-internal-only **yes**, and records that felt this-ness is compatible
   with both the primitive-thisness and the perspectival-illusion readings — which
-  is the review's "no truth conditions" charge, conceded. **P-I2** goes further
-  and registers that Tenet 4's indexical objection is *conditional* on P-I1,
+  is the review's "no truth conditions" charge, conceded. **[P-I2](/positions/individuation-and-subjecthood/#p-i2)** goes further
+  and registers that Tenet 4's indexical objection is *conditional* on [P-I1](/positions/individuation-and-subjecthood/#p-i1),
   naming the Madhyamaka reading the tenets page already concedes — which is the
   review's "cannot have indexicality robust enough to kill MWI but soft enough
   for *anattā*" headline, also conceded. Declined as pre-conceded; this is the

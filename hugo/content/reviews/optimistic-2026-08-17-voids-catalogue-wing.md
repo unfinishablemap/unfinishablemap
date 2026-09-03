@@ -43,7 +43,7 @@ The voids wing has just done something a philosophical catalogue almost never do
 
 The measurable picture: **40 of the 99 live articles carry an explicit falsification-condition section**, several of them naming populations, paradigms and effect directions rather than boilerplate. The index refuses to let its own 100-article cap read as growing evidence. Six surveyed voids sit in a research-stage register with explicit *Absorbed* / *Folded* status labels and commit hashes rather than becoming articles.
 
-The weakness is connective, not calibrational. Of the nine voids articles that engage the evidential question at all, **only two cite the positions register**, where P-V1–P-V3 state the settlement precisely. Twenty-three apex articles link into `voids/`; only seven voids articles link back out. And three articles still carry the pre-settlement move in live prose.
+The weakness is connective, not calibrational. Of the nine voids articles that engage the evidential question at all, **only two cite the positions register**, where [P-V1](/positions/voids-as-evidence/#p-v1)–[P-V3](/positions/voids-as-evidence/#p-v3) state the settlement precisely. Twenty-three apex articles link into `voids/`; only seven voids articles link back out. And three articles still carry the pre-settlement move in live prose.
 
 ## Praise from Sympathetic Philosophers
 
@@ -103,7 +103,7 @@ This is the persona with the most to praise, and the verdict is load-bearing.
 
 ### `obsidian/voids/voids.md` — the index earns its keep
 
-- **Strongest point**: L82–110 partition the catalogue into voids any consciousness framework recognises (twelve bullets covering roughly fifteen voids, matching the count P-V3 relies on) and voids that are dualism-specific (four bullets), then L108 turns the partition on itself: "the partition above is itself drawn under the tenets: deciding which voids a physicalist would grant is a judgement made from inside the framework whose support is at issue, so even the framework-independent column is a Map-made carving rather than a neutral arbitration between rivals."
+- **Strongest point**: L82–110 partition the catalogue into voids any consciousness framework recognises (twelve bullets covering roughly fifteen voids, matching the count [P-V3](/positions/voids-as-evidence/#p-v3) relies on) and voids that are dualism-specific (four bullets), then L108 turns the partition on itself: "the partition above is itself drawn under the tenets: deciding which voids a physicalist would grant is a judgement made from inside the framework whose support is at issue, so even the framework-independent column is a Map-made carving rather than a neutral arbitration between rivals."
 - **Why it works**: The mitigation is offered and then bounded in the same breath. L108 calls the residue "narrow ... not a strengthening."
 - **Second strength**: L236–248, the Research-Stage Voids register — six surveyed voids carrying explicit *Absorbed* / *Folded* status labels with commit hashes (`bb4bd3923`, `7801c0184`) and named host articles. This is the institutional form of cap-pressure converted into discipline: "newly surveyed voids fold into existing articles as additional faces, not fresh entries."
 
@@ -150,7 +150,7 @@ Per this skill's contract, where the Process Philosopher's praise would cash out
 
 3. **`obsidian/voids/meta-epistemology-of-limits.md` L142** — "Their convergence across different assumptions is stronger evidence than any one alone," of Fitch, Rescher, Dunning-Kruger and Nagel. No independence check is applied, in an article that four lines later concedes the catalogue cannot estimate its own scope. The in-wing precedent for the fix is `death-void.md` L90 and `self-maintained-cognitive-limits.md` L61, both of which discount a same-lineage convergence to roughly one observation.
 
-**Softer, assess-first, not asserted as defects.** `apophatic-cartography.md` L154 describes the method as "treating persistent explanatory failure as evidence for irreducibility," which is stronger than `what-voids-reveal.md` L114's own graded version of the same consideration ("inductive and defeasible, establishing unusual difficulty rather than impossibility"). `confabulation-void.md` L104 says "The middle case is what dualism predicts," and `perceptual-reality-monitoring-void.md` L112 says the opacity "is the kind of result the Map expects on **dualism**." Both are prediction-fit statements rather than evidential claims, and P-V2 covers them; they may well be fine as written. They should be read before being edited, not swept.
+**Softer, assess-first, not asserted as defects.** `apophatic-cartography.md` L154 describes the method as "treating persistent explanatory failure as evidence for irreducibility," which is stronger than `what-voids-reveal.md` L114's own graded version of the same consideration ("inductive and defeasible, establishing unusual difficulty rather than impossibility"). `confabulation-void.md` L104 says "The middle case is what dualism predicts," and `perceptual-reality-monitoring-void.md` L112 says the opacity "is the kind of result the Map expects on **dualism**." Both are prediction-fit statements rather than evidential claims, and [P-V2](/positions/voids-as-evidence/#p-v2) covers them; they may well be fine as written. They should be read before being edited, not swept.
 
 ## Cross-Linking Suggestions
 
@@ -167,11 +167,11 @@ The connective gap is the wing's clearest improvable surface, and it is asymmetr
 
 | From | To | Reason |
 |---|---|---|
-| [voids/the-surplus-void.md](/voids/the-surplus-void/) | `positions/voids-as-evidence` (P-V2) | L107 states the defeater-removal rule in prose; P-V2 is the register entry for exactly that rule. The article already cites `common-cause-null` twice, so the register is the missing third leg. |
-| [voids/smoothness-and-continuity.md](/voids/smoothness-and-continuity/) | `positions/voids-as-evidence` (P-V1) | L46 already runs the origin-class split and cites the null; P-V1 is where the resulting calibration is held. |
-| [voids/self-maintained-cognitive-limits.md](/voids/self-maintained-cognitive-limits/) | `positions/voids-as-evidence` (P-V1) | L61's five-traditions-count-as-one discount is a worked instance of P-V1's common-cause reasoning. |
-| [voids/source-attribution-void.md](/voids/source-attribution-void/) | `positions/voids-as-evidence` (P-V2) | L118/L122 are arguably the cleanest statement of P-V2 anywhere in the corpus, and the article links to neither the register nor the null. |
-| [voids/tenet-generated-voids.md](/voids/tenet-generated-voids/) | `positions/voids-as-evidence` (P-V2) | L133 names the tenet-generated class as the paradigm case; P-V2 names the same class in its `Asserts`. |
+| [voids/the-surplus-void.md](/voids/the-surplus-void/) | `positions/voids-as-evidence` ([P-V2](/positions/voids-as-evidence/#p-v2)) | L107 states the defeater-removal rule in prose; [P-V2](/positions/voids-as-evidence/#p-v2) is the register entry for exactly that rule. The article already cites `common-cause-null` twice, so the register is the missing third leg. |
+| [voids/smoothness-and-continuity.md](/voids/smoothness-and-continuity/) | `positions/voids-as-evidence` ([P-V1](/positions/voids-as-evidence/#p-v1)) | L46 already runs the origin-class split and cites the null; [P-V1](/positions/voids-as-evidence/#p-v1) is where the resulting calibration is held. |
+| [voids/self-maintained-cognitive-limits.md](/voids/self-maintained-cognitive-limits/) | `positions/voids-as-evidence` ([P-V1](/positions/voids-as-evidence/#p-v1)) | L61's five-traditions-count-as-one discount is a worked instance of [P-V1](/positions/voids-as-evidence/#p-v1)'s common-cause reasoning. |
+| [voids/source-attribution-void.md](/voids/source-attribution-void/) | `positions/voids-as-evidence` ([P-V2](/positions/voids-as-evidence/#p-v2)) | L118/L122 are arguably the cleanest statement of [P-V2](/positions/voids-as-evidence/#p-v2) anywhere in the corpus, and the article links to neither the register nor the null. |
+| [voids/tenet-generated-voids.md](/voids/tenet-generated-voids/) | `positions/voids-as-evidence` ([P-V2](/positions/voids-as-evidence/#p-v2)) | L133 names the tenet-generated class as the paradigm case; [P-V2](/positions/voids-as-evidence/#p-v2) names the same class in its `Asserts`. |
 
 [positions/voids-as-evidence.md](/positions/voids-as-evidence/) L43/L53/L63 lists `Argued in:` as `apex/taxonomy-of-voids`, `voids/what-voids-reveal` and `project/common-cause-null` — a `positions-evolve` pass could add the worked exhibits above, which would make the register's evidential trail traceable in both directions.
 

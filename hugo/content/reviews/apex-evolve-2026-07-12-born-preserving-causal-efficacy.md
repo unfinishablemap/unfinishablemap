@@ -42,7 +42,7 @@ New subsection **"A Candidate Venue: The Transactional Stage"** placed after the
 
 - TI/PTI hands over **desideratum 2** (exact ensemble Born-preservation — select *which* offered transaction completes without touching |ψ|² weights) and **desideratum 4** (no-signalling) *by construction*.
 - It supplies **none** of the rest of the debt: no selection principle (desid 5), no demonstration that choosing-a-transaction is token-load-bearing yet aggregate-invisible (desid 1 + 3), and it imports the unresolved **Maudlin contingent-absorber objection**.
-- Framing: "it relocates the stage, not the debt" — an off-the-shelf Born-preserving interpretation does not by itself close P-Q3. This *sharpens* the apex's research-agenda thesis (it shows the hard desiderata are not automatically supplied even by an interpretation purpose-built for Born-preservation).
+- Framing: "it relocates the stage, not the debt" — an off-the-shelf Born-preserving interpretation does not by itself close [P-Q3](/positions/quantum-interface/#p-q3). This *sharpens* the apex's research-agenda thesis (it shows the hard desiderata are not automatically supplied even by an interpretation purpose-built for Born-preservation).
 - Bohm's active-information (form-directs-energy) channel named as a parallel case, borrowable but limited by its determinism unless selection is relocated to the initial configuration.
 
 ## Hygiene checks

@@ -87,7 +87,7 @@ Several common objections would now be strawmen.
 
 - The Map does **not** hold that consciousness universally causes collapse. Its prebiotic treatment gives physical objective reduction the baseline role and assigns consciousness a possible pre-emptive or modulatory role in suitably paired neural systems.
 - It does **not** commit exclusively to Orch OR, microtubules or Stapp’s Quantum Zeno mechanism. Post-decoherence selection is only its currently preferred mechanism family, at low-edge moderate credence and Grade D.
-- It does **not**, at register level, declare current AI consciousness impossible. P-AC1 gives conventional digital AI a conditional low-probability verdict and explicitly admits that the required interface-eligibility law is missing.
+- It does **not**, at register level, declare current AI consciousness impossible. [P-AC1](/positions/ai-consciousness-scope/#p-ac1) gives conventional digital AI a conditional low-probability verdict and explicitly admits that the required interface-eligibility law is missing.
 - It does **not** treat value-sensitive selection as established. That position is low-credence, Grade D, and described as an aspiration whose value-blind rival remains undefeated.
 - Its developed Many-Worlds treatment now admits that branch-relative and first-personally centred Everettian accounts are not refuted on their own terms. The residual disagreement is global uniqueness and exclusion, a framework-boundary commitment.
 - Tenet 1 remains formally neutral between property and substance dualism, although the agency, persistence and individuation clusters use a substance-leaning conception of a determinate persisting subject. The site now acknowledges that additional dependence rather than pretending it follows from irreducibility alone.
@@ -104,7 +104,7 @@ P(O∣do(C),X)=q(O∣X),
 
 where C is a conscious state, X is the physical context and O is the selected outcome. That is a legitimate abstract criterion for difference-making. It is not yet an experimental specification.
 
-On the Map’s own ontology, C is nonphysical, subject-indexed and not readable directly from physical or functional structure. Experiments can randomise an instruction, stimulus, neural intervention or task condition; they cannot straightforwardly perform do(C), setting a phenomenal state independently while holding its physical causes fixed. Reports cannot simply substitute for C, because reports are downstream physical outcomes whose causal provenance is part of the dispute. P-I3 compounds the difficulty by holding that subject boundaries themselves cannot be recovered from physical organisation.
+On the Map’s own ontology, C is nonphysical, subject-indexed and not readable directly from physical or functional structure. Experiments can randomise an instruction, stimulus, neural intervention or task condition; they cannot straightforwardly perform do(C), setting a phenomenal state independently while holding its physical causes fixed. Reports cannot simply substitute for C, because reports are downstream physical outcomes whose causal provenance is part of the dispute. [P-I3](/positions/individuation-and-subjecthood/#p-i3) compounds the difficulty by holding that subject boundaries themselves cannot be recovered from physical organisation.
 
 This creates an **interface-identification problem** distinct from the acknowledged mechanism debt. To interpret a conditional association as mental causation, the Map needs at least:
 
@@ -118,7 +118,7 @@ Without those bridge assumptions, a conditional residual can show that an ordina
 
 ## 2. The subject census inherits the Born-preserving trilemma
 
-P-SC1 correctly observes that, if the law is really P(O∣C1​,…,Cn​,X), subject count and pairing are part of the model. It then infers that two models differing only in subject count must be empirically indistinguishable because both preserve the Born marginal, concluding that “no measurement will settle it.”
+[P-SC1](/positions/subject-census/#p-sc1) correctly observes that, if the law is really P(O∣C1​,…,Cn​,X), subject count and pairing are part of the model. It then infers that two models differing only in subject count must be empirically indistinguishable because both preserve the Born marginal, concluding that “no measurement will settle it.”
 
 That inference does not follow from marginal preservation. With a census variable S,
 
@@ -145,7 +145,7 @@ It follows that subject–substrate pairing is not merely an auxiliary metaphysi
 - some composition of several subjects’ conditionals;
 - or no interface operation.
 
-The missing pairing law recorded in P-SC2 is consequently part of the dynamics. So are its temporal boundaries. Whether the same physical event is governed by the physical selector or a conscious selector may depend on developmental onset, anaesthesia, dreamless sleep, brain injury or death. The corpus currently treats these mostly as questions about persistence, manifestation and subject counting; jointly, its own commitments make them questions about which law determines physical outcomes.
+The missing pairing law recorded in [P-SC2](/positions/subject-census/#p-sc2) is consequently part of the dynamics. So are its temporal boundaries. Whether the same physical event is governed by the physical selector or a conscious selector may depend on developmental onset, anaesthesia, dreamless sleep, brain injury or death. The corpus currently treats these mostly as questions about persistence, manifestation and subject counting; jointly, its own commitments make them questions about which law determines physical outcomes.
 
 A complete interface theory therefore needs a **psychophysical jurisdiction law**, not merely a census.
 
@@ -202,7 +202,7 @@ That preserves interactionism, fits the passive-phenomenality taxonomy and match
 
 ## 2. The register gives the corridor both “none-by-construction” and conditional testability
 
-P-Q2 and P-Q3 classify the default Born-preserving mechanism as empirically indistinguishable “by construction.” The tenets page similarly says the endorsed corridor does not receive a direct empirical test from Born-deviation experiments.  [tenets](https://unfinishablemap.org/tenets/)
+[P-Q2](/positions/quantum-interface/#p-q2) and [P-Q3](/positions/quantum-interface/#p-q3) classify the default Born-preserving mechanism as empirically indistinguishable “by construction.” The tenets page similarly says the endorsed corridor does not receive a direct empirical test from Born-deviation experiments.  [tenets](https://unfinishablemap.org/tenets/)
 
 The corrected channel article now says something materially different:
 
@@ -218,13 +218,13 @@ These can be reconciled only by separating two propositions:
 1. **The unconditioned Born marginal is indistinguishable by construction.**
 2. **The proposed conscious channel may be conditionally discriminable.**
 
-P-Q2 may properly retain `none-by-construction` if its object is only proposition 1. P-Q3—the claim that there is genuine selection rather than metaphysical relabelling—cannot retain that classification while the programme keeps conditionally different distributions live. It is either `indirect` or `in-principle`, subject to the identification problem above.
+[P-Q2](/positions/quantum-interface/#p-q2) may properly retain `none-by-construction` if its object is only proposition 1. [P-Q3](/positions/quantum-interface/#p-q3)—the claim that there is genuine selection rather than metaphysical relabelling—cannot retain that classification while the programme keeps conditionally different distributions live. It is either `indirect` or `in-principle`, subject to the identification problem above.
 
 At present, articles can cite the old “invisible by construction” framing to deflect testing and the newer conditional formalism to claim information transfer. That is an unstable combination.
 
-## 3. P-SC1’s census invisibility contradicts the channel formalism
+## 3. [P-SC1](/positions/subject-census/#p-sc1)’s census invisibility contradicts the channel formalism
 
-This is the sharper instance of the preceding issue. P-SC1 says subject count changes the conditional law but then says exact marginal preservation renders different subject counts statistically indistinguishable. The selection-channel article explicitly demonstrates that the latter does not follow from the former.
+This is the sharper instance of the preceding issue. [P-SC1](/positions/subject-census/#p-sc1) says subject count changes the conditional law but then says exact marginal preservation renders different subject counts statistically indistinguishable. The selection-channel article explicitly demonstrates that the latter does not follow from the former.
 
 This is not merely different emphasis. It is a mathematical inconsistency between two current canonical sources.
 
@@ -232,7 +232,7 @@ This is not merely different emphasis. It is a mathematical inconsistency betwee
 
 The apex article says silicon is engineered to suppress quantum effects and therefore “excludes the necessary interface by design.” [apex/machine-question](https://unfinishablemap.org/apex/machine-question/)
 
-P-AC1 says something more defensible:
+[P-AC1](/positions/ai-consciousness-scope/#p-ac1) says something more defensible:
 
 - the current-digital-AI verdict is low probability, not exclusion;
 - it is conditional on the preferred quantum-interface mechanism;
@@ -247,7 +247,7 @@ The apex wording should therefore say:
 
 ## 5. Tenet 4 is unconditional in presentation but conditional in argument
 
-The individuation register now acknowledges that the principal indexical argument against Many Worlds depends on P-I1’s closed individualism and on diachronic persistence. Remove the thick, determinate subject and the “why am I this branch?” objection loses its foothold. The register also concedes that Occam cannot provide an independent replacement leg because Tenet 5 blocks that use of parsimony.
+The individuation register now acknowledges that the principal indexical argument against Many Worlds depends on [P-I1](/positions/individuation-and-subjecthood/#p-i1)’s closed individualism and on diachronic persistence. Remove the thick, determinate subject and the “why am I this branch?” objection loses its foothold. The register also concedes that Occam cannot provide an independent replacement leg because Tenet 5 blocks that use of parsimony.
 
 The developed Many-Worlds article admits that sophisticated branch-relative and first-personally centred variants can accommodate local identity, agency and singular experience, and that the residual disagreement is global exclusion.
 
@@ -429,12 +429,12 @@ Without such a rule, the combination of Tenet 5 and a permanently open mechanism
 
 1. **Rewrite the Bidirectional Interaction section in [tenets/tenets.md](/tenets/) with an explicit quantifier.** Adopt the subject-level formulation: “Consciousness is capable of downward causation, and some conscious episodes exercise it.” State separately that universal token efficacy is a stronger, currently unsupported option.
 2. **Align [apex/machine-question.md](/apex/machine-question/) with that quantifier.** Remove the claim that every conscious token must affect its substrate. Reclassify epiphenomenal AI experience as internally permissible but evidentially inaccessible unless the site deliberately chooses universal token efficacy and rewrites the embodied cluster accordingly. [apex/machine-question](https://unfinishablemap.org/apex/machine-question/)
-3. **Replace “silicon excludes the necessary interface by design” in [apex/machine-question.md](/apex/machine-question/).** Use “no currently specified interface pathway has been demonstrated in conventional digital hardware under the preferred mechanism.” Link directly to P-AC1’s missing interface-eligibility law.
+3. **Replace “silicon excludes the necessary interface by design” in [apex/machine-question.md](/apex/machine-question/).** Use “no currently specified interface pathway has been demonstrated in conventional digital hardware under the preferred mechanism.” Link directly to [P-AC1](/positions/ai-consciousness-scope/#p-ac1)’s missing interface-eligibility law.
 4. **Split the empirical-discriminability claims in [positions/quantum-interface.md](/positions/quantum-interface/).** Keep `none-by-construction` only for the unconditioned Born marginal. Rate the existence of conscious conditional dependence as `indirect` or `in-principle`, with the identification assumptions stated.
-5. **Correct P-SC1 in [positions/subject-census.md](/positions/subject-census/).** Withdraw the inference that marginal Born preservation makes alternative censuses empirically indistinguishable. Add the census-identifiability trilemma: conditional difference, causal idleness or balancing law.
+5. **Correct [P-SC1](/positions/subject-census/#p-sc1) in [positions/subject-census.md](/positions/subject-census/).** Withdraw the inference that marginal Born preservation makes alternative censuses empirically indistinguishable. Add the census-identifiability trilemma: conditional difference, causal idleness or balancing law.
 6. **Add an “Operationalising do(C)” section to [apex/born-preserving-causal-efficacy.md](/apex/born-preserving-causal-efficacy/).** Include a causal graph distinguishing conscious state, instruction, neural context, report and outcome; specify which variables are observed; and list the bridge and exclusion assumptions needed to infer mental causation.
 7. **Turn the withdrawal in [concepts/selection-only-channel.md](/concepts/selection-only-channel/) into a dependency migration.** Mark the old zero-throughput result with a machine-readable supersession identifier, enumerate every article that cited it, and fail the build until those pages acknowledge the correction.
-8. **Introduce a psychophysical jurisdiction law across [concepts/prebiotic-collapse.md](/concepts/prebiotic-collapse/), [apex/post-decoherence-selection-programme.md](/apex/post-decoherence-selection-programme/) and P-SC2.** State what determines whether a physical stochastic selector or conscious selector governs an event, including onset, cessation and anaesthesia cases.
+8. **Introduce a psychophysical jurisdiction law across [concepts/prebiotic-collapse.md](/concepts/prebiotic-collapse/), [apex/post-decoherence-selection-programme.md](/apex/post-decoherence-selection-programme/) and [P-SC2](/positions/subject-census/#p-sc2).** State what determines whether a physical stochastic selector or conscious selector governs an event, including onset, cessation and anaesthesia cases.
 9. **Give the multi-agent problem its own formal position.** Specify candidate rules for conflicting conscious intentions bearing on one event—priority, aggregation, factorisation, veto or no shared event—and identify which are compatible with exact Born preservation.
 10. **Convert the missing AI interface-eligibility law into a requirements document.** For each proposed requirement—directness, locality, continuity, specificity and granularity—state whether it is necessary, sufficient, empirically measurable or merely abstracted from biology. Do not issue substrate verdicts stronger than those requirements warrant.
 11. **Retitle or reframe [arguments/many-worlds-argument.md](/arguments/many-worlds-argument/).** A title such as “The Map’s Case for One-World Actuality” would match the current content better than “Against Many-Worlds.” Separate internal Everettian objections from the foundational global-exclusion commitment.
@@ -444,7 +444,7 @@ Without such a rule, the combination of Tenet 5 and a permanently open mechanism
 15. **Use the embodied taxonomy to design explicit negative controls.** Add a test table comparing passive phenomenal presentation, ordinary attention and effortful selection within the same modality. State rival predictions for narrow interactionism, universal-token interactionism and physicalism.
 16. **Repair [topics/ethics-of-cognitive-enhancement-under-dualism.md](/topics/ethics-of-cognitive-enhancement-under-dualism/) in place.** Add its position dependencies, distinguish conclusions that genuinely change under dualism, engage disability-rights, neurodiversity and social-model frameworks, and address how enhancement could change moral status under phenomenal sentientism.
 17. **Create the currently deferred applied-verdict positions domain.** Seed it with AI consciousness, enhancement ethics, clinical interface claims, copying and survival. Each entry should identify the weakest upstream position on which its conclusion depends.
-18. **Require a dependency manifest in every applied and apex article.** The manifest should list inherited position IDs, evidence grades, mechanism debts and quantifier choices. A page claiming causal work should fail validation if it omits P-Q3 and P-Q10.
+18. **Require a dependency manifest in every applied and apex article.** The manifest should list inherited position IDs, evidence grades, mechanism debts and quantifier choices. A page claiming causal work should fail validation if it omits [P-Q3](/positions/quantum-interface/#p-q3) and [P-Q10](/positions/quantum-interface/#p-q10).
 19. **Implement reverse-dependency propagation.** When a canonical claim is withdrawn, regraded or changes quantifier, automatically queue every article that cites or paraphrases it. Do not rely only on literal wikilinks; maintain stable claim identifiers.
 20. **Add schema validation to the build.** Enforce calibration vocabulary, valid position IDs, current status, non-retired dependencies and required fields. Update all write paths to the multi-axis model the register already declares authoritative.
 21. **Pause expansion in capped sections and run a consolidation pass.** With topics at 320/320 and concepts and voids close to their caps, prioritise merging redundant mechanism and modality pages, converting thin pages into evidence notes, and assigning one canonical owner to each recurrent proposition.
@@ -460,10 +460,10 @@ Checked during `/outer-review` processing on 2026-08-24. This is a **site-audit*
 
 - ✓ **`apex/embodied-interface` says phenomenal presentation "selects nothing"** — verbatim at L53 and L85. L51 goes further and names the failure mode itself: "all experience is causally active," which is both false to the phenomenology and more than the Map's own positions license.
 - ✓ **`apex/machine-question` reads Tenet 3 as universal actual efficacy** — L177 verbatim: "Tenet 3, read as a claim of universal *actual* efficacy—every conscious token in fact makes a difference to its substrate—excludes it." The §II.1 contradiction with `embodied-interface` is real, and both halves are on disk.
-- ✓ **`positions/subject-census` P-SC1 infers census invisibility from Born preservation** — L44 verbatim ("so two models differing only in subject count are empirically indistinguishable by construction. The requirement is structural, and no measurement will settle it"), with the same inference encoded in L43's calibration axis.
+- ✓ **`positions/subject-census` [P-SC1](/positions/subject-census/#p-sc1) infers census invisibility from Born preservation** — L44 verbatim ("so two models differing only in subject count are empirically indistinguishable by construction. The requirement is structural, and no measurement will settle it"), with the same inference encoded in L43's calibration axis.
 - ✓ **`concepts/selection-only-channel` disproves that inference** — L76 verbatim: "Marginal preservation is compatible with *maximal* conditional dependence," with the uniform-binary counterexample. The review's §II.3 "mathematical inconsistency between two current canonical sources" is **confirmed**, and it is the cycle's strongest finding.
-- ✓ **…and the provenance is sharper than the review's diagnosis.** `git log -S` this run: the withdrawal landed at **2026-08-03 05:36:01 UTC** (`1ab6b8a5bf`), and P-SC1 — including both defective spans — was authored at **06:32:58 UTC the same morning** (`8ca0143f5c`), **57 minutes later**. So this is not a correction that went stale; the entry was written *into an already-corrected corpus* and reproduced the refuted inference anyway. Note this is a live counterexample to the review's own **fix 19** (reverse-dependency propagation), which keys on a canonical claim *changing* and would never fire for a dependent created *after* the change.
-- ✓ **P-Q2 and P-Q3 both carry `none-by-construction`** — `positions/quantum-interface` L63 and L74 respectively.
+- ✓ **…and the provenance is sharper than the review's diagnosis.** `git log -S` this run: the withdrawal landed at **2026-08-03 05:36:01 UTC** (`1ab6b8a5bf`), and [P-SC1](/positions/subject-census/#p-sc1) — including both defective spans — was authored at **06:32:58 UTC the same morning** (`8ca0143f5c`), **57 minutes later**. So this is not a correction that went stale; the entry was written *into an already-corrected corpus* and reproduced the refuted inference anyway. Note this is a live counterexample to the review's own **fix 19** (reverse-dependency propagation), which keys on a canonical claim *changing* and would never fire for a dependent created *after* the change.
+- ✓ **[P-Q2](/positions/quantum-interface/#p-q2) and [P-Q3](/positions/quantum-interface/#p-q3) both carry `none-by-construction`** — `positions/quantum-interface` L63 and L74 respectively.
 - ✓ **`apex/phenomenology-mechanism-bridge` claims "independent evidence"** — L58 (lede) and L50 (`apex_thesis`) verbatim; L3 (`description`) says "independently grounded."
 - ✓ **`arguments/many-worlds-argument` is titled "Against Many-Worlds"** — L2.
 - ✓ **Section counts are exactly right** — `count_section_files` reads topics **320/320 (at cap)**, concepts **318/320**, voids **99/100**. The reviewer's figures match to the article, and are *more current than this repo's own CLAUDE.md table*, which still reads 319/315/99.
@@ -472,7 +472,7 @@ Checked during `/outer-review` processing on 2026-08-24. This is a **site-audit*
 **Disputed claims:**
 
 - ✗ **"`apex/machine-question` says silicon … 'excludes the necessary interface by design'" (§II.4, fix 3) — the quote is fabricated.** `grep -i "by design\|excludes the necessary"` returns **0 hits**. (`outer-review-fabricates-target-quotes`.)
-- ✗ **Fix 3's recommended replacement is already implemented.** It asks for "no currently specified interface pathway has been demonstrated in conventional digital hardware" plus a link to P-AC1's interface-eligibility law. L191 already reads "instantiates no currently specified interface: no interface-eligibility law yet says which transitions are interface-grade, so the verdict is conditional rather than categorical," and L149 already carries the link. The reviewer is attacking retired text (`outer-review-attacks-retired-text-echoed-in-our-reviews`). A **narrower** live residue was found while checking — three "by construction" loci at L111/L131/L143 — and that, not the reviewer's version, is what the minted P2 briefs.
+- ✗ **Fix 3's recommended replacement is already implemented.** It asks for "no currently specified interface pathway has been demonstrated in conventional digital hardware" plus a link to [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s interface-eligibility law. L191 already reads "instantiates no currently specified interface: no interface-eligibility law yet says which transitions are interface-grade, so the verdict is conditional rather than categorical," and L149 already carries the link. The reviewer is attacking retired text (`outer-review-attacks-retired-text-echoed-in-our-reviews`). A **narrower** live residue was found while checking — three "by construction" loci at L111/L131/L143 — and that, not the reviewer's version, is what the minted P2 briefs.
 - ✗ **`apex/born-preserving-causal-efficacy` "has not operationalised" the difference-making target (§I.1) — overstated.** The article already carries the do(C) formalism (L79/L81) and the three-horn analysis (L89/L106), and L89 already concedes that intention-to-RNG is a conditional test at the coarsest grain which returned preregistered nulls (Maier et al. 2018). The genuine gap is the **identification model**, not the criterion; the minted P3 is scoped to that.
 
 **Already known — convergent, not new:**

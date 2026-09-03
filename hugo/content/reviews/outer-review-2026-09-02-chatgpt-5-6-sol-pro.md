@@ -926,10 +926,10 @@ A failed toy model would be more scientifically informative than dozens of addit
 
 **Verified claims (on disk, 2026-09-02):**
 
-- VERIFIED §4.1: `voids/self-opacity` L157 reads "Dualism receives support from both formal and phenomenological routes ... points beyond engineering limitation" and cites neither P-V1 nor P-V2 — the contradiction with `positions/voids-as-evidence` is real.
+- VERIFIED §4.1: `voids/self-opacity` L157 reads "Dualism receives support from both formal and phenomenological routes ... points beyond engineering limitation" and cites neither [P-V1](/positions/voids-as-evidence/#p-v1) nor [P-V2](/positions/voids-as-evidence/#p-v2) — the contradiction with `positions/voids-as-evidence` is real.
 - VERIFIED §4.2: `concepts/physics-as-disclosure` L70 reads "its partial success *strengthens* the disclosure reading"; grep finds zero references to the methodology register anywhere in the page.
-- VERIFIED §4.3: `concepts/substrate-independence` L46 ("consciousness requires something digital computation cannot provide") and L176 ("purely computational systems ... cannot be conscious") carry the categorical verdict; the page does not import the machine-question/P-AC1 four-way scope split.
-- VERIFIED §4.4: `apex/phenomenology-mechanism-bridge` cites P-Q3/P-Q10 nowhere; L131 "The choking phenomenon shows consciousness doing causal work" is verbatim; L78 says cognitive motor dissociation "sits harder on epiphenomenalist than on interactionist readings"; L155 carries the underived 5-15% drift-rate figure.
+- VERIFIED §4.3: `concepts/substrate-independence` L46 ("consciousness requires something digital computation cannot provide") and L176 ("purely computational systems ... cannot be conscious") carry the categorical verdict; the page does not import the machine-question/[P-AC1](/positions/ai-consciousness-scope/#p-ac1) four-way scope split.
+- VERIFIED §4.4: `apex/phenomenology-mechanism-bridge` cites [P-Q3](/positions/quantum-interface/#p-q3)/[P-Q10](/positions/quantum-interface/#p-q10) nowhere; L131 "The choking phenomenon shows consciousness doing causal work" is verbatim; L78 says cognitive motor dissociation "sits harder on epiphenomenalist than on interactionist readings"; L155 carries the underived 5-15% drift-rate figure.
 - VERIFIED §4.5: seven uses of "menu" in `apex/post-decoherence-selection-programme`.
 - VERIFIED §2.5/2.7: `concepts/motor-selection` runs quantum-Zeno stabilization end to end (description field, L46, L62, L147, L153) and L82 calls competing representations "a classical analog of quantum superposition".
 - VERIFIED §5.6 (external fetch): Maier et al. 2018, Frontiers in Psychology — 12,571 participants, final BF01 = 10.07 favouring the null. The reviewer's description is accurate.

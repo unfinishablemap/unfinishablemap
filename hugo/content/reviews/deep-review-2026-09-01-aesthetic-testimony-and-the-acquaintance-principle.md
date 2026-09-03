@@ -102,7 +102,7 @@ Scope: the four References entries and six quotations added on 2026-08-16, plus 
 
 ### Cross-links Added
 
-- [P-D1](/positions/arguments-for-dualism/) — on the partial-independence sentence, naming the premise-sharing discount it already applies (the comic article did the same on 2026-09-01 with P-D2; P-D1 is the closer fit here because the claim is about two arguments sharing a premise, not about the framework commitment being counted as a route). Path-qualified because `arguments-for-dualism` collides with `archive/concepts/`.
+- [P-D1](/positions/arguments-for-dualism/#p-d1) — on the partial-independence sentence, naming the premise-sharing discount it already applies (the comic article did the same on 2026-09-01 with [P-D2](/positions/arguments-for-dualism/#p-d2); [P-D1](/positions/arguments-for-dualism/#p-d1) is the closer fit here because the claim is about two arguments sharing a premise, not about the framework commitment being counted as a route). Path-qualified because `arguments-for-dualism` collides with `archive/concepts/`.
 - [knowledge-argument](/concepts/knowledge-argument/) — second inline link, at the Conee sentence, pointing the reader to the "contested ground" filing.
 
 ## Remaining Items
@@ -115,7 +115,7 @@ None requiring a task. Two watch-items for future passes, not defects:
 ## Stability Notes
 
 - **Bedrock, do not re-flag** (carried forward): physicalist, eliminativist and Many-Worlds readings will always find the sibling-to-Mary argument unsatisfying; the article says "corroborating pressure, not a demonstration" and now lists five named defeaters it does not answer.
-- **Do not re-flag the partial-independence concession** — four reviews have confirmed it; it now carries its register pointer (P-D1).
+- **Do not re-flag the partial-independence concession** — four reviews have confirmed it; it now carries its register pointer ([P-D1](/positions/arguments-for-dualism/#p-d1)).
 - **Conee is Mode Three by design.** The article does not attempt to refute the acquaintance reply; it marks the boundary and defers to `knowledge-argument`. A future pass should not "upgrade" this to an in-framework argument unless `knowledge-argument` itself does so first — the two articles must move together.
 - **Calibration direction.** Five of six changes this pass ran *against* the Map (crediting the deflationist with a datum, adding a defeater, softening two absence claims, quoting Andow's "no great conflict"). The line from 2026-08-02 holds: *defeasible and unfavoured*, not *refuted*. The article's closing sentence and the Tenet 5 paragraph carry the positive case and were not weakened.
 - **Lesson for the corpus.** The 2026-08-16 refine imported an experiments section from a research note that had itself been corrected mid-fold; every quotation survived intact, but two *framing* moves (a "prediction" that was a known datum; a "reversal" the author calls no conflict) and two *absence* claims did not. As on 2026-08-02, none of these was catchable from metadata — the natural-beauty datum sat in a section of the SEP entry the Map had fetched twice before and never read past §4.

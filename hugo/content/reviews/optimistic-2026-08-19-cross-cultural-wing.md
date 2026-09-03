@@ -33,8 +33,8 @@ title: Optimistic Review - 2026-08-19 - The Cross-Cultural Wing
 - `obsidian/concepts/islamic-sufi-philosophy-of-consciousness.md`
 - `obsidian/concepts/african-philosophy-of-consciousness.md`
 
-Read for context: `obsidian/positions/methodology-and-calibration.md` (P-M2),
-`obsidian/positions/arguments-for-dualism.md` (P-D1, P-D3),
+Read for context: `obsidian/positions/methodology-and-calibration.md` ([P-M2](/positions/methodology-and-calibration/#p-m2)),
+`obsidian/positions/arguments-for-dualism.md` ([P-D1](/positions/arguments-for-dualism/#p-d1), [P-D3](/positions/arguments-for-dualism/#p-d3)),
 `obsidian/topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels.md`,
 `obsidian/voids/question-formation-void.md`.
 
@@ -43,7 +43,7 @@ Read for context: `obsidian/positions/methodology-and-calibration.md` (P-M2),
 The wing's strength is not that it argues for cross-traditional convergence; it is
 that it argues **against its own convergence claim, repeatedly, in the articles that
 would benefit most from not doing so**. The common-cause discount registered as
-[P-M2](/positions/methodology-and-calibration/) is applied at least **seven** times
+[P-M2](/positions/methodology-and-calibration/#p-m2) is applied at least **seven** times
 across this wing — not the four identified going in — and in three of those cases
 the article discounts *the very strand it exists to present*. The Islamic article
 links the audit that grades its own tradition worst; the African article turns
@@ -51,11 +51,11 @@ Hountondji's ethnophilosophy critique against the Map's own counting; the Indian
 article concedes that its schools lacked the reducing science that would have made
 a reduction verdict available at all.
 
-The proposed opportunity — adding these demonstrations to P-M2's `Argued in` — was
+The proposed opportunity — adding these demonstrations to [P-M2](/positions/methodology-and-calibration/#p-m2)'s `Argued in` — was
 checked and **does not hold**. Its premise is literally true and its conclusion is
 wrong; the register's parent/instance architecture already routes content citations
-to P-D3, which carries two of them. A **narrower, genuine** gap sits one level down
-at P-D3 and is recorded below.
+to [P-D3](/positions/arguments-for-dualism/#p-d3), which carries two of them. A **narrower, genuine** gap sits one level down
+at [P-D3](/positions/arguments-for-dualism/#p-d3) and is recorded below.
 
 ## Praise from Sympathetic Philosophers
 
@@ -144,7 +144,7 @@ mechanism named:
   that would have made a reduction verdict a live option to begin with." That is a
   **selection-effect** discount layered on top of the common-cause discount. The
   traditions could not have found reduction, so their failure to find it is worth
-  less. This is a stronger self-limitation than P-M2 requires.
+  less. This is a stronger self-limitation than [P-M2](/positions/methodology-and-calibration/#p-m2) requires.
 - **`african-philosophy-of-consciousness`** — L73 turns the field's own foundational
   critique inward: counting "Bantu, Akan, Yoruba and Zulu as separate votes for
   irreducibility, as [[cross-traditional-convergence-on-consciousness-irreducibility|the
@@ -200,25 +200,25 @@ as the finding — "Neither of the Map's ready categories fits, and that mismatc
 itself the datum." Process-friendliness is treated as tenet-coherent and
 **not** evidence-elevating, exactly as the discipline requires.
 
-## Verdict on the P-M2 Citation Gap
+## Verdict on the [P-M2](/positions/methodology-and-calibration/#p-m2) Citation Gap
 
 **The premise is true. The recommendation does not follow. Declining it.**
 
-Verified: P-M2's `Argued in` ([positions/methodology-and-calibration.md](/positions/methodology-and-calibration/) L74) reads
+Verified: [P-M2](/positions/methodology-and-calibration/#p-m2)'s `Argued in` ([positions/methodology-and-calibration.md](/positions/methodology-and-calibration/) L74) reads
 `[common-cause-null](/project/common-cause-null/), [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/),
 [taxonomy-of-voids](/apex/taxonomy-of-voids/)` — methodology and apex documents, no `topics/` or
 `concepts/` article. That much is exactly as suspected.
 
 But the register **routes content citations to the instance positions by design**,
-and says so twice in P-M2 itself:
+and says so twice in [P-M2](/positions/methodology-and-calibration/#p-m2) itself:
 
-- `Asserts` (L72): P-M2 "is the methodological parent of which
-  [P-V1](/positions/voids-as-evidence/) is the void-catalogue instance and
+- `Asserts` (L72): [P-M2](/positions/methodology-and-calibration/#p-m2) "is the methodological parent of which
+  [P-V1](/positions/voids-as-evidence/#p-v1) is the void-catalogue instance and
   [P-D1–P-D3](/positions/arguments-for-dualism/) the argument-catalogue instance."
 - `Depends on` (L73): "governs [P-V1–P-V3](/positions/voids-as-evidence/) and
   [P-D1–P-D3](/positions/arguments-for-dualism/)".
 
-And the routing is live. **P-D3 already cites two of this wing's articles**
+And the routing is live. **[P-D3](/positions/arguments-for-dualism/#p-d3) already cites two of this wing's articles**
 (`arguments-for-dualism.md` L70): `[the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/),
 [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/),
 [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/),
@@ -227,29 +227,29 @@ deliberately on 2026-08-02 with an update note stating the reason (L73): "the
 five-tradition article now applies this position's accounting explicitly."
 
 So the demonstrated applications are cited from the register — one level down from
-where they were looked for. Adding them to P-M2 as well would duplicate P-D3 and
+where they were looked for. Adding them to [P-M2](/positions/methodology-and-calibration/#p-m2) as well would duplicate [P-D3](/positions/arguments-for-dualism/#p-d3) and
 blur the parent/instance separation the domain preamble (L33) defends on purpose.
-**No task minted against P-M2.**
+**No task minted against [P-M2](/positions/methodology-and-calibration/#p-m2).**
 
-## The Real Gap — P-D3's Two Dangling References
+## The Real Gap — [P-D3](/positions/arguments-for-dualism/#p-d3)'s Two Dangling References
 
-One level down, a genuine and narrower gap **does** hold. P-D3's `Asserts` leans on
+One level down, a genuine and narrower gap **does** hold. [P-D3](/positions/arguments-for-dualism/#p-d3)'s `Asserts` leans on
 two bodies of material the Map has dedicated articles for, and cites neither. Both
 articles are cited by **zero** files in `obsidian/positions/` (verified by grep).
 
-**(1) The Neoplatonist audit is relied on but uncited.** P-D3 asserts "the
+**(1) The Neoplatonist audit is relied on but uncited.** [P-D3](/positions/arguments-for-dualism/#p-d3) asserts "the
 Neoplatonist common-cause audit assigns moderate-to-substantial shared-source weight
 to the Ibn Sīnā strand" — the finding that downgrades the Islamic strand. That audit
 is a full article,
 `obsidian/topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels.md`.
-P-D3's `Depends on` (L69) lists "the historical record of Indo-Greek transmission;
+[P-D3](/positions/arguments-for-dualism/#p-d3)'s `Depends on` (L69) lists "the historical record of Indo-Greek transmission;
 the textual assessment of the early-Chinese candidate" — both *unlinked prose
 referents* — and omits the audit entirely. The position depends on a worked result
 whose home article the register never points at, so a reader cannot reach the
-evidence for P-D3's own Islamic verdict from the register.
+evidence for [P-D3](/positions/arguments-for-dualism/#p-d3)'s own Islamic verdict from the register.
 
 **(2) West African ontologies are named as an open candidate the Map has already
-assessed.** P-D3 says "Indigenous American or West African ontologies are
+assessed.** [P-D3](/positions/arguments-for-dualism/#p-d3) says "Indigenous American or West African ontologies are
 candidates" for the missing independent third lineage, and calls establishing one
 "open work rather than a completed step." Meanwhile
 `obsidian/concepts/african-philosophy-of-consciousness.md` has assessed the West
@@ -260,7 +260,7 @@ holds the question open while the corpus holds a partial, negative answer to it.
 
 Secondary, same task: the **basin-edge** apparatus (Kyoto / Chinese / Jain) is the
 Map's worked machinery for testing candidate lineages, and no positions file cites
-any of the three. P-D3's `Would shift if` turns on whether "a genuinely independent
+any of the three. [P-D3](/positions/arguments-for-dualism/#p-d3)'s `Would shift if` turns on whether "a genuinely independent
 third lineage were established" — the basin-edge cases are precisely the instrument
 that would adjudicate that, and the register does not know they exist.
 
@@ -274,10 +274,10 @@ room — but no new slot is consumed.
 One task, in-contract (`positions-evolve` on the register entry that governs the
 reviewed wing and already cites two of its articles):
 
-- **P3 — Close P-D3's two dangling references** ·
+- **P3 — Close [P-D3](/positions/arguments-for-dualism/#p-d3)'s two dangling references** ·
   `File: obsidian/positions/arguments-for-dualism.md`
 
-Explicitly **not** minted: any task against P-M2 (declined above); any task against
+Explicitly **not** minted: any task against [P-M2](/positions/methodology-and-calibration/#p-m2) (declined above); any task against
 `obsidian/concepts/islamic-sufi-philosophy-of-consciousness.md`, whose L37-asserts-
 independence / L43-carries-the-discount contradiction is **still live on disk** but
 is already covered by the open P3 refine-draft task from `optimistic-2026-08-06`
@@ -295,14 +295,14 @@ The following are genuine uncovered subjects. They are recorded for the record o
 `research-topic` here chains to an `expand-topic` that cannot be placed.
 
 - **An independently-graded independence score for the traditions.** Three separate
-  loci name this as the missing instrument: P-D3's `Would shift if` ("an
+  loci name this as the missing instrument: [P-D3](/positions/arguments-for-dualism/#p-d3)'s `Would shift if` ("an
   independently-graded independence score... replacing the current qualitative
-  'near-independence' verdict"), P-M2's shift conditions, and
+  'near-independence' verdict"), [P-M2](/positions/methodology-and-calibration/#p-m2)'s shift conditions, and
   `evaluative-qualia-...` L40's "at most three." Every article currently returns a
   *qualitative* verdict. **Capacity-blocked as an article**; note that if this is
   ever built it is plausibly a `project/` methodology document rather than a
   `topics/` article, which would sidestep the cap.
-- **Indigenous American ontologies as the candidate third lineage.** Named in P-D3
+- **Indigenous American ontologies as the candidate third lineage.** Named in [P-D3](/positions/arguments-for-dualism/#p-d3)
   alongside West African; the Map has an article on the African candidate and none
   on this one. **Capacity-blocked.**
 - **The patient-population distinguishing test.** `cross-traditional-convergence`
@@ -323,9 +323,9 @@ standalone work.
 
 | From | To | Reason |
 |------|-----|--------|
-| `obsidian/topics/indian-philosophy-of-mind.md` | `positions/arguments-for-dualism` (P-D3) | The article's L129/L155 discounts restate P-D3's accounting without citing it; its three siblings in the wing already link the register. |
-| `obsidian/concepts/african-philosophy-of-consciousness.md` | `positions/arguments-for-dualism` (P-D3) | P-D3 names West African ontologies as a candidate third lineage; the article answers the question and does not know it was asked. |
-| `obsidian/topics/japanese-philosophy-of-mind-kyoto-school.md` | `positions/methodology-and-calibration` (P-M2) | L82's common-cause caveat is a textbook P-M2 application and cites only `common-cause-null`. |
+| `obsidian/topics/indian-philosophy-of-mind.md` | `positions/arguments-for-dualism` ([P-D3](/positions/arguments-for-dualism/#p-d3)) | The article's L129/L155 discounts restate [P-D3](/positions/arguments-for-dualism/#p-d3)'s accounting without citing it; its three siblings in the wing already link the register. |
+| `obsidian/concepts/african-philosophy-of-consciousness.md` | `positions/arguments-for-dualism` ([P-D3](/positions/arguments-for-dualism/#p-d3)) | [P-D3](/positions/arguments-for-dualism/#p-d3) names West African ontologies as a candidate third lineage; the article answers the question and does not know it was asked. |
+| `obsidian/topics/japanese-philosophy-of-mind-kyoto-school.md` | `positions/methodology-and-calibration` ([P-M2](/positions/methodology-and-calibration/#p-m2)) | L82's common-cause caveat is a textbook [P-M2](/positions/methodology-and-calibration/#p-m2) application and cites only `common-cause-null`. |
 
 ## New Concept Pages Needed
 

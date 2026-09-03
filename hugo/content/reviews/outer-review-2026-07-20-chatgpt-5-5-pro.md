@@ -137,7 +137,7 @@ physical sufficiency,rich nonphysical semantics,or residual luck.\text{physical 
 \text{rich nonphysical semantics},\quad
 \text{or residual luck}.physical sufficiency,rich nonphysical semantics,or residual luck.
 
-The existing mechanism-debt admission and value-sensitive/value-blind fork approach this issue but do not yet state the sourcehood trilemma. P-A2 requires the persisting subject to be the source of the decision, while the value register concedes that the additional valence-to-physics mapping is unworked and that attention-only selection is the more minimal model.
+The existing mechanism-debt admission and value-sensitive/value-blind fork approach this issue but do not yet state the sourcehood trilemma. [P-A2](/positions/agency-and-will/#p-a2) requires the persisting subject to be the source of the decision, while the value register concedes that the additional valence-to-physics mapping is unworked and that attention-only selection is the more minimal model.
 
 This is arguably the central philosophical issue left after the technical Born-rule questions: **what internal structure makes the selector an agent rather than an unexplained chooser?**
 
@@ -230,7 +230,7 @@ The site’s central pages are being corrected faster than their conclusions pro
 Examples include:
 
 - The current Machine Question explicitly says the negative verdict concerns **bidirectionally coupled consciousness**, while bare phenomenality remains open. The older apex index still summarizes its thesis as “Current AI systems lack consciousness.”
-- P-AC4 has been narrowed from “access consciousness instantiated” to “workspace-like functional signatures.” The positions index still describes functional access consciousness as empirically instantiated in LLMs.
+- [P-AC4](/positions/ai-consciousness-scope/#p-ac4) has been narrowed from “access consciousness instantiated” to “workspace-like functional signatures.” The positions index still describes functional access consciousness as empirically instantiated in LLMs.
 - The canonical tenet now concedes that the phenomenal-concept strategy survives the simple self-stultification argument. The Bidirectional Interaction concept article still describes epiphenomenalism as devastatingly self-undermining and impossible to hold rationally.
 - The background-commitments page says the measurement problem cannot itself be evidence for conscious selection once objective actualisation is admitted. The post-decoherence article still presents the residual outcome gap as the physical grounding or “central opportunity” for consciousness.
 
@@ -348,7 +348,7 @@ It will detect “this article endorses materialism.” It will not reliably det
 - process identity supporting No-MWI in one place and weakening it in another;
 - or objective collapse being both outcome-complete and merely basis-complete.
 
-This explains how the site can pass its tenet check while retaining the contradictions catalogued below. P-M5 already acknowledges the broader enforcement gap: a documented discipline is not a control unless it is wired into an effective gate.
+This explains how the site can pass its tenet check while retaining the contradictions catalogued below. [P-M5](/positions/methodology-and-calibration/#p-m5) already acknowledges the broader enforcement gap: a documented discipline is not a control unless it is wired into an effective gate.
 
 ## 2.8 Rival comparison remains episodic rather than systematic
 
@@ -538,11 +538,11 @@ The general article states that Bidirectional Interaction applies wherever consc
 
 **Classification: incompatible operative ontologies**
 
-P-A2 says authorship requires immanent causation by a persisting agent-as-substance.  The process apex says process philosophy strongly supports agent causation and describes action as emerging from succession, durée and subjective aim without requiring an unchanging soul.
+[P-A2](/positions/agency-and-will/#p-a2) says authorship requires immanent causation by a persisting agent-as-substance.  The process apex says process philosophy strongly supports agent causation and describes action as emerging from succession, durée and subjective aim without requiring an unchanging soul.
 
 The latter may be a valuable rival theory or analogy. It cannot simultaneously be the implementation of a position that defines authorship as substance causation.
 
-**Resolution:** Mark process agency as a rival or fallback model, or revise P-A2 so temporally extended process causation can satisfy sourcehood.
+**Resolution:** Mark process agency as a rival or fallback model, or revise [P-A2](/positions/agency-and-will/#p-a2) so temporally extended process causation can satisfy sourcehood.
 
 ## 4.5 Process haecceitism both supports and weakens No-MWI
 
@@ -594,7 +594,7 @@ The current Machine Question carefully limits its negative conclusion to bidirec
 
 **Classification: register-summary contradiction**
 
-P-AC4 now says the empirical result establishes workspace/global-availability signatures and deliberately avoids the stronger Block-style claim. The positions index retains the stronger formulation.
+[P-AC4](/positions/ai-consciousness-scope/#p-ac4) now says the empirical result establishes workspace/global-availability signatures and deliberately avoids the stronger Block-style claim. The positions index retains the stronger formulation.
 
 **Resolution:** Generate domain summaries automatically from canonical position titles and assertion fields rather than maintaining separate prose.
 
@@ -633,16 +633,16 @@ The latest entry is timestamped **00:30:22 UTC**. None of these displayed 20 Jul
 2. **Reorder the tenet dependency.** State the logical sequence as: irreducibility or dualism → commitment to mental efficacy → search for a minimally disruptive implementation. Avoid using Tenet 2’s candidate interface as part of the rationale for accepting Tenet 3 while also deriving Tenet 2 from Tenet 3.
 3. **Split `selection-only-mind-influence` into two models.** Give context-selection and outcome-selection separate state spaces, information bounds, Born-rule obligations and agency implications.
 4. **Add an “option-set-relative responsibility” section to `free-will`, `moral-responsibility` and the manipulation article.** Distinguish absent options, failed selection, impaired control and diachronic responsibility for cultivating future option sets.
-5. **Add the thin-controller trilemma to `control-theoretic-will` and P-A2.** Require an explicit answer to where reasons and values reside, what compares them, and how semantic fit reaches the physical candidate set.
+5. **Add the thin-controller trilemma to `control-theoretic-will` and [P-A2](/positions/agency-and-will/#p-a2).** Require an explicit answer to where reasons and values reside, what compares them, and how semantic fit reaches the physical candidate set.
 6. **Create one canonical hybrid-collapse specification shared by `prebiotic-collapse`, `post-decoherence-selection` and `background-commitments`.** Use a table assigning occurrence, timing, basis, probability measure, token outcome and amplification to physical or conscious processes.
 7. **Name and formalise the selector-jurisdiction law.** Define the interface predicate that determines when physical noise selects a token and when conscious selection pre-empts it. Include partial, intermittent and developmental cases.
 8. **Correct the mixture terminology in the tenets.** Replace “classical mixture” with “improper reduced-state mixture” or “decohered branch structure,” and distinguish approximate pointer structure from already definite alternatives.
-9. **Resolve the substance/process fork.** Either mark `process-and-consciousness` as conceptual analogy rather than operative ontology, or revise P-A2 and P-I1 to permit temporally extended process agency.
+9. **Resolve the substance/process fork.** Either mark `process-and-consciousness` as conceptual analogy rather than operative ontology, or revise [P-A2](/positions/agency-and-will/#p-a2) and [P-I1](/positions/individuation-and-subjecthood/#p-i1) to permit temporally extended process agency.
 10. **Add the fission-symmetry objection to the process apex and the No-MWI cluster.** Explain why causal-history individuation alone does not select one unique branch continuer.
 11. **Resolve the scope of Bidirectional Interaction in `ai-epiphenomenalism`, `epiphenomenalism` and the tenets.** Choose universal actual efficacy, universal dispositional capacity or merely existential human efficacy, and propagate that choice consistently.
 12. **Update `bidirectional-interaction` to match the canonical self-stultification calibration.** Present the phenomenal-concept strategy and causal-theory-of-knowledge premise before describing the argument’s force; remove language implying a settled refutation.
 13. **Introduce a canonical four-axis consciousness article.** Define subjecthood, phenomenality, access and causal coupling separately and require scope articles to state conclusions on all four axes.
-14. **Rewrite P-CS4 and the altered-state summaries using those four axes.** Do not use “consciousness persists” where only persistence of the subject is intended.
+14. **Rewrite [P-CS4](/positions/consciousness-scope/#p-cs4) and the altered-state summaries using those four axes.** Do not use “consciousness persists” where only persistence of the subject is intended.
 15. **Synchronise the AI cluster immediately.** Change the Apex Articles Index thesis to the scoped bidirectional-coupling verdict, and replace “access consciousness instantiated” in the Positions index with “workspace-like global-availability signatures observed.”
 16. **Generate indexes and descriptions from canonical position data.** Titles, summaries, meta-descriptions, route annotations and apex theses should be derived or linted against current position assertions rather than maintained independently.
 17. **Create explicit model identifiers.** For example: `M-OS` outcome selection, `M-CS` context selection, `M-HC` hybrid collapse, `S-SUB` substance subject and `S-PROC` process subject. Each article should declare which model it assumes.
@@ -656,7 +656,7 @@ The latest entry is timestamped **00:30:22 UTC**. None of these displayed 20 Jul
 25. **Maintain a symmetric theoretical-cost ledger.** Record primitive entities, primitive laws, semantic complexity, fine-tuning, empirical gain and unresolved explanatory debts for the Map and its rivals. Tenet 5 should prevent simplicity from deciding the contest, not prevent complexity from being counted.
 26. **Give every apex a source-snapshot manifest.** Store the versions or hashes of positions and source articles used in its last synthesis. Any upstream substantive change should mark the apex and its index thesis stale.
 27. **Extend the changelog from file-level to claim-level provenance.** Each substantive correction should identify affected claim IDs, dependent pages, cascade depth, whether propagation is complete and whether the same error class has recurred elsewhere.
-28. **Turn P-M5 into a hard pre-publication gate.** The strongest current methodology already says disclosure is not enforcement. Require citation verification, conditionality checks, scope consistency and dependency propagation before a load-bearing claim first reaches the public corpus, rather than relying chiefly on later deep review.
+28. **Turn [P-M5](/positions/methodology-and-calibration/#p-m5) into a hard pre-publication gate.** The strongest current methodology already says disclosure is not enforcement. Require citation verification, conditionality checks, scope consistency and dependency propagation before a load-bearing claim first reaches the public corpus, rather than relying chiefly on later deep review.
 
 ## Verification Notes
 

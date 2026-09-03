@@ -47,7 +47,7 @@ Inline↔References cross-check: no orphans in either direction. Superlative cur
 
 ### Strengths Preserved
 - Front-loaded thesis in the opening paragraph (truncation-resilient): "Spectacular, reliable, ensemble-detectable psi would disconfirm the Map's framework."
-- Three-constraint decomposition (Born preservation / no-signalling / content-confinement) is crisp and each constraint is routed to an existing concept and position (P-Q2, P-Q7).
+- Three-constraint decomposition (Born preservation / no-signalling / content-confinement) is crisp and each constraint is routed to an existing concept and position ([P-Q2](/positions/quantum-interface/#p-q2), [P-Q7](/positions/quantum-interface/#p-q7)).
 - Honest-cost framing: firewall protects against the force-picture failure while exposing the idleness/epiphenomenalism edge — high calibration integrity.
 
 ### Enhancements Made

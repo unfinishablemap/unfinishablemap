@@ -637,7 +637,7 @@ not a changelog sentence.
 - ✗ §2.3 — "It is not entitled to present the experienced-utility literature
   as independently establishing that total experienced utility constitutes
   all relevant value": the article grounds value-constitution in
-  [consciousness-value-connection](/concepts/consciousness-value-connection/) (a registered Map commitment, P-VS3),
+  [consciousness-value-connection](/concepts/consciousness-value-connection/) (a registered Map commitment, [P-VS3](/positions/value-in-selection/#p-vs3)),
   not in Kahneman. The normative-bridge point stands; the attribution does
   not.
 - ✗ §3.5 / items 23, 40 — the behavioural-to-quantum bridge: the article

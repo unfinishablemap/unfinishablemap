@@ -23,7 +23,7 @@ topics: []
 
 ## Context
 
-Seventh deep review, and the first in this series that is **not** a no-op. Unlike the 6th pass (byte-identical body, metadata-only), the article has changed twice since 2026-06-27: `55328b3b0` (the 6th review) and `bd871680f` (2026-07-30, the P-D1/P-D2 recalibration of the premise-sharing cluster). More importantly, the *corpus around it* moved: [concepts/illusionism.md](/concepts/illusionism/) was substantially rewritten on 2026-07-29/30 to retire the strong-illusionism-only reading, and [concepts/explanatory-gap.md](/concepts/explanatory-gap/) was brought into line by `ae66ac590`. **That sweep missed this file** — the corpus's #2 hub (274 inbound references) was still serving the retired reading.
+Seventh deep review, and the first in this series that is **not** a no-op. Unlike the 6th pass (byte-identical body, metadata-only), the article has changed twice since 2026-06-27: `55328b3b0` (the 6th review) and `bd871680f` (2026-07-30, the [P-D1](/positions/arguments-for-dualism/#p-d1)/[P-D2](/positions/arguments-for-dualism/#p-d2) recalibration of the premise-sharing cluster). More importantly, the *corpus around it* moved: [concepts/illusionism.md](/concepts/illusionism/) was substantially rewritten on 2026-07-29/30 to retire the strong-illusionism-only reading, and [concepts/explanatory-gap.md](/concepts/explanatory-gap/) was brought into line by `ae66ac590`. **That sweep missed this file** — the corpus's #2 hub (274 inbound references) was still serving the retired reading.
 
 Word count 2364 → 2498 (`ok`, 100% of the 2500 concepts soft threshold). Argument prose is 2077 words; the remaining 421 are the 22-item Further Reading list and the 10-entry References block. Additions were offset by four genuine redundancy trims (see Enhancements).
 
@@ -76,7 +76,7 @@ Triggered: the References block was itself the review target. **All ten entries 
 
 ### Evidential-Status Discipline
 
-Diagnostic test re-applied (would a tenet-accepting reviewer still flag the claim as overstated?). **No possibility/probability slippage found.** The 2026-07-30 P-D1/P-D2 recalibration holds: the convergence earns *irreducibility*, not dualism, and the article says so. `description:` field checked — "the primary reason for rejecting materialism" is a claim about rejecting materialism, not about establishing dualism, and the body asserts it in those same words, so it is earned in the calibrated form the positions register now holds. Left unchanged.
+Diagnostic test re-applied (would a tenet-accepting reviewer still flag the claim as overstated?). **No possibility/probability slippage found.** The 2026-07-30 [P-D1](/positions/arguments-for-dualism/#p-d1)/[P-D2](/positions/arguments-for-dualism/#p-d2) recalibration holds: the convergence earns *irreducibility*, not dualism, and the article says so. `description:` field checked — "the primary reason for rejecting materialism" is a claim about rejecting materialism, not about establishing dualism, and the body asserts it in those same words, so it is earned in the calibrated form the positions register now holds. Left unchanged.
 
 ### Reasoning-Mode Classification (editor-internal)
 

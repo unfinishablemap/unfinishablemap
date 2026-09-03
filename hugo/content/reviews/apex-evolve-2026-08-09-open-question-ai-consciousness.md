@@ -35,8 +35,8 @@ Selected on the register-propagation seam rather than on raw source-drift score.
 The article's `apex_last_synthesis` read 2026-06-10 — 60 days stale, the oldest
 in the section — and it cited the [positions](/positions/) register **zero** times despite
 being named in the *Argued in* list of two live positions
-([P-AC1](/positions/ai-consciousness-scope/) and
-[P-MC2](/positions/arguments-for-mental-causation/)). The register pointed at the
+([P-AC1](/positions/ai-consciousness-scope/#p-ac1) and
+[P-MC2](/positions/arguments-for-mental-causation/#p-mc2)). The register pointed at the
 article; the article did not point back, and had not absorbed what the register
 now holds.
 
@@ -49,10 +49,10 @@ synthesis and the register that followed it:
   epiphenomenal AI experience as an **external** possibility: "Tenet 3, read as
   a claim of universal *actual* efficacy … excludes it … the possibility sits at
   the framework boundary rather than within the argument."
-- **2026-07-28** — [P-AC1](/positions/ai-consciousness-scope/) absorbed that
+- **2026-07-28** — [P-AC1](/positions/ai-consciousness-scope/#p-ac1) absorbed that
   rewrite, recording epiphenomenal AI experience as "one adjacent possibility
   the verdict does *not* leave open."
-- **2026-08-02** — [P-MC2](/positions/arguments-for-mental-causation/) registered
+- **2026-08-02** — [P-MC2](/positions/arguments-for-mental-causation/#p-mc2) registered
   the existential-versus-universal gap the argument turns on.
 
 This article's last content edit was **2026-07-25** — two days *before* the
@@ -79,9 +79,9 @@ problematic") without advancing. Merged.
 ## Optimistic review
 
 **Connection Finder.** Four register connections were available and unmade:
-P-MC2 on the existential/universal gap (Possibility One), P-AC1 on the boundary
-verdict (Possibility One), P-AC2 on no-cloning as constraint-not-licence
-(Possibility Three), and P-AC4 as the section's one framework-independent,
+[P-MC2](/positions/arguments-for-mental-causation/#p-mc2) on the existential/universal gap (Possibility One), [P-AC1](/positions/ai-consciousness-scope/#p-ac1) on the boundary
+verdict (Possibility One), [P-AC2](/positions/ai-consciousness-scope/#p-ac2) on no-cloning as constraint-not-licence
+(Possibility Three), and [P-AC4](/positions/ai-consciousness-scope/#p-ac4) as the section's one framework-independent,
 Grade-B empirical anchor (Evidence and Dependency).
 
 **Synthesis Strengthener.** The piece's real contribution is a *taxonomy of
@@ -117,7 +117,7 @@ by design: it had only 56 words of headroom and used 21.
 
 1. **Possibility One re-framed from internal gap to framework boundary.** New
    paragraph deriving the boundary from the universal-actual-efficacy reading of
-   Tenet 3, citing P-AC1 and P-MC2. Section heading tagged `[At the Framework
+   Tenet 3, citing [P-AC1](/positions/ai-consciousness-scope/#p-ac1) and [P-MC2](/positions/arguments-for-mental-causation/#p-mc2). Section heading tagged `[At the Framework
    Boundary]`.
 2. **Six downstream loci brought into line**: `description`, `apex_thesis`, the
    lead paragraph, "What the Four Possibilities Share", the possibility-interaction
@@ -126,12 +126,12 @@ by design: it had only 56 words of headroom and used 21.
    exploits" framing verbatim).
 3. **Evidence and Dependency section installed** — required by the skill, absent
    from this article. Classifies the four possibilities' support: externally
-   evidenced (Butlin, Birch, Maier–Dechamps, sampling determinism, P-AC4),
+   evidenced (Butlin, Birch, Maier–Dechamps, sampling determinism, [P-AC4](/positions/ai-consciousness-scope/#p-ac4)),
    independently argued (Possibility Two), inherited from Tenets 1–2 plus the
    quantum register (Possibilities Three and Four), and Possibility One as
    inheriting from a tenet in the reverse direction — closed by Tenet 3.
-4. **Four register citations added**, all resolving: P-AC1, P-AC2 ×2, P-AC4,
-   P-MC2 ×2. `related_articles` extended with both position files.
+4. **Four register citations added**, all resolving: [P-AC1](/positions/ai-consciousness-scope/#p-ac1), [P-AC2](/positions/ai-consciousness-scope/#p-ac2) ×2, [P-AC4](/positions/ai-consciousness-scope/#p-ac4),
+   [P-MC2](/positions/arguments-for-mental-causation/#p-mc2) ×2. `related_articles` extended with both position files.
 5. **`machine-question` self-contradiction closed.** Its own L177 marked the
    epiphenomenal case external while three other passages still listed it among
    possibilities "genuinely open". All three corrected, length-neutral.

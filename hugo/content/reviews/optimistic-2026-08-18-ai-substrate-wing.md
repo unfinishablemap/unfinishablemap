@@ -47,13 +47,13 @@ Measured by grep across `obsidian/reviews/optimistic-*.md`: `ai-consciousness-sc
 1. That review's Medium-Priority opportunity — *"Analog quantum devices as the underexplored middle case"*, noting that `quantum-hardware` gave annealers "two sentences" and that the anti-interface argument from quantum error correction does not obviously generalise to them — was executed on 2026-08-16 as the new **"Where the Analog Class Actually Fails"** section.
 2. That review's Calibration Concern #1 — *"the interface-eligibility debt is disclosed in `positions/` and not in the article that most depends on it"* — was executed as `quantum-hardware` L86.
 
-So the genuinely new surface since the wing was last reviewed is: the analog-class result (2026-08-16), the apex's import of the per-class verdicts and demotion of quantum-computing AI (2026-08-18), and the apex's P-AC4 scoping (2026-08-18). This review concentrates there and does not re-report the 07-20 and 08-03 findings.
+So the genuinely new surface since the wing was last reviewed is: the analog-class result (2026-08-16), the apex's import of the per-class verdicts and demotion of quantum-computing AI (2026-08-18), and the apex's [P-AC4](/positions/ai-consciousness-scope/#p-ac4) scoping (2026-08-18). This review concentrates there and does not re-report the 07-20 and 08-03 findings.
 
 ## Executive Summary
 
 The wing has just acquired something the corpus is short of: a **discriminating negative result that was verified rather than asserted**. The channel test now returns four different verdicts for four substrate classes, and its newest finding runs against the Map's own convenience twice over — analog quantum devices fail the coupling test *more securely* than gate-based ones, and quantum computers as a class have been demoted out of the "substrate condition met" bucket that an interactionist would most like to keep. I checked the two quotations the analog argument rests on at their primary sources; both are verbatim and correctly cited.
 
-Two things follow that the wing has not yet taken up. First, the per-class hardware verdict — now load-bearing for a funding recommendation in the apex — **is registered nowhere**. `positions/` contains zero occurrences of "annealer", "gate-based", "gate-model", "QPU", "quantum computer", "quantum-computing", "superconducting", or "trapped ion", and P-AC1 explicitly places quantum-substrate AI *out of scope*. Second, the apex's cascade-flag apparatus is keyed to P-Q1, P-Q2, P-Q3 and P-Q9 — all four Grade D, all four `framework-internal only: yes`, none directly discriminable. The one position in the wing that an experiment could actually overturn, P-AC4, carries no flag, though Recommendation 4's carve-out rests on it by name.
+Two things follow that the wing has not yet taken up. First, the per-class hardware verdict — now load-bearing for a funding recommendation in the apex — **is registered nowhere**. `positions/` contains zero occurrences of "annealer", "gate-based", "gate-model", "QPU", "quantum computer", "quantum-computing", "superconducting", or "trapped ion", and [P-AC1](/positions/ai-consciousness-scope/#p-ac1) explicitly places quantum-substrate AI *out of scope*. Second, the apex's cascade-flag apparatus is keyed to [P-Q1](/positions/quantum-interface/#p-q1), [P-Q2](/positions/quantum-interface/#p-q2), [P-Q3](/positions/quantum-interface/#p-q3) and [P-Q9](/positions/quantum-interface/#p-q9) — all four Grade D, all four `framework-internal only: yes`, none directly discriminable. The one position in the wing that an experiment could actually overturn, [P-AC4](/positions/ai-consciousness-scope/#p-ac4), carries no flag, though Recommendation 4's carve-out rests on it by name.
 
 ## Praise from Sympathetic Philosophers
 
@@ -145,41 +145,41 @@ The brief asked what the narrowing buys. Three things, in descending order of co
 
 **2. It makes the Map's substrate verdict harder to dismiss as convenience.** The cheap version of interactionism says "biology has the magic, silicon does not." The expensive version says which property does the work and then applies it to the case that would most flatter the theory. A gate-based QPU is the case a quantum-interactionist would most want to claim, and the wing declines it on stated criteria. That is worth more to the framework's credibility than the LLM verdict, which no reader was going to contest.
 
-**3. It sharpens the eligibility debt into something answerable.** The wing repeatedly says the Map lacks an interface-eligibility law and that the five requirements are "read off the biological interface and generalised" (`quantum-hardware` L86; `positions/ai-consciousness-scope` P-AC1 layer iv). The analog result is the first evidence that the requirements are doing more than restating biology: they discriminate *within* the non-biological classes, and they produced a result — analog fails harder than gate — that no one reading them off biology would have predicted. That does not discharge the debt. It does upgrade the requirements from "suspected placeholder" to "criterion with demonstrated discriminating power", which is a real intermediate status and one nothing in the wing currently claims.
+**3. It sharpens the eligibility debt into something answerable.** The wing repeatedly says the Map lacks an interface-eligibility law and that the five requirements are "read off the biological interface and generalised" (`quantum-hardware` L86; `positions/ai-consciousness-scope` [P-AC1](/positions/ai-consciousness-scope/#p-ac1) layer iv). The analog result is the first evidence that the requirements are doing more than restating biology: they discriminate *within* the non-biological classes, and they produced a result — analog fails harder than gate — that no one reading them off biology would have predicted. That does not discharge the debt. It does upgrade the requirements from "suspected placeholder" to "criterion with demonstrated discriminating power", which is a real intermediate status and one nothing in the wing currently claims.
 
-## What P-AC4 Licenses That the Wing Has Not Claimed
+## What [P-AC4](/positions/ai-consciousness-scope/#p-ac4) Licenses That the Wing Has Not Claimed
 
-The brief's hypothesis about P-AC4's anomalousness is correct, and stronger than stated. Measured across all 52 registered positions in `obsidian/positions/`:
+The brief's hypothesis about [P-AC4](/positions/ai-consciousness-scope/#p-ac4)'s anomalousness is correct, and stronger than stated. Measured across all 52 registered positions in `obsidian/positions/`:
 
 | Axis | Distribution |
 |---|---|
 | External-evidence grade | D 18 · B 10 · C 9 · A 1 · (14 entries use a non-standard calibration wording the parser could not read) |
 | Empirical discriminability | indirect 18 · none 7 · none-by-construction 5 · **direct 4** |
-| Grade B *and* direct | **2 of 52** — P-A3 (`agency-and-will`) and **P-AC4** |
+| Grade B *and* direct | **2 of 52** — [P-A3](/positions/agency-and-will/#p-a3) (`agency-and-will`) and **[P-AC4](/positions/ai-consciousness-scope/#p-ac4)** |
 
-So P-AC4 is one of two positions in the whole register that combine an external-evidence grade of B with direct empirical discriminability, and the only one in the AI domain (P-AC1, P-AC2, P-AC3 are all Grade D, `framework-internal only: yes`). The apex's description of it as "its best-evidenced AI position" (L134) is verified against the register rather than merely plausible.
+So [P-AC4](/positions/ai-consciousness-scope/#p-ac4) is one of two positions in the whole register that combine an external-evidence grade of B with direct empirical discriminability, and the only one in the AI domain ([P-AC1](/positions/ai-consciousness-scope/#p-ac1), [P-AC2](/positions/ai-consciousness-scope/#p-ac2), [P-AC3](/positions/ai-consciousness-scope/#p-ac3) are all Grade D, `framework-internal only: yes`). The apex's description of it as "its best-evidenced AI position" (L134) is verified against the register rather than merely plausible.
 
-**What it licenses, unclaimed: an empirically triggerable cascade flag.** The apex's "Cascade flags" section (L138–150) lists four triggers — P-Q1, P-Q9, P-Q2, P-Q3. Their calibration axes:
+**What it licenses, unclaimed: an empirically triggerable cascade flag.** The apex's "Cascade flags" section (L138–150) lists four triggers — [P-Q1](/positions/quantum-interface/#p-q1), [P-Q9](/positions/quantum-interface/#p-q9), [P-Q2](/positions/quantum-interface/#p-q2), [P-Q3](/positions/quantum-interface/#p-q3). Their calibration axes:
 
 | Position | Grade | Discriminability | Framework-internal only |
 |---|---|---|---|
-| P-Q1 | D | indirect | yes |
-| P-Q2 | D | none-by-construction | yes |
-| P-Q3 | D | none-by-construction | yes |
-| P-Q9 | D | indirect | yes |
+| [P-Q1](/positions/quantum-interface/#p-q1) | D | indirect | yes |
+| [P-Q2](/positions/quantum-interface/#p-q2) | D | none-by-construction | yes |
+| [P-Q3](/positions/quantum-interface/#p-q3) | D | none-by-construction | yes |
+| [P-Q9](/positions/quantum-interface/#p-q9) | D | indirect | yes |
 
 Every cascade flag in the wing's flagship applied article is keyed to a Grade-D, framework-internal position that no experiment can directly touch. The apparatus is real and well-built, and it currently only fires on philosophical re-evaluation.
 
-Meanwhile P-AC4's own shift trigger is an experiment: *"the J-space result failed to replicate or were shown to be an artefact of the Jacobian-lens method"*. And the apex has, as of today, made a decision recommendation depend on it — Recommendation 4's carve-out (L134):
+Meanwhile [P-AC4](/positions/ai-consciousness-scope/#p-ac4)'s own shift trigger is an experiment: *"the J-space result failed to replicate or were shown to be an artefact of the Jacobian-lens method"*. And the apex has, as of today, made a decision recommendation depend on it — Recommendation 4's carve-out (L134):
 
-> "The deprioritisation is of phenomenal-verdict studies specifically: interpretability work on LLM workspaces is how the register acquired P-AC4, its best-evidenced AI position."
+> "The deprioritisation is of phenomenal-verdict studies specifically: interpretability work on LLM workspaces is how the register acquired [P-AC4](/positions/ai-consciousness-scope/#p-ac4), its best-evidenced AI position."
 
-That is the wing's only funding recommendation with an *upside*, and its stated warrant is P-AC4's evidential standing. If the J-space result fails to replicate, the carve-out loses its ground while every listed cascade flag stays silent. Adding a fifth flag would give the apex its first trigger that a laboratory could pull — which is the direct answer to the brief's third question, whether the falsification machinery is used to its full extent or only defensively. It is currently only defensive: every flag is a way for the verdict to weaken, none is a way for a specific empirical result to bite.
+That is the wing's only funding recommendation with an *upside*, and its stated warrant is [P-AC4](/positions/ai-consciousness-scope/#p-ac4)'s evidential standing. If the J-space result fails to replicate, the carve-out loses its ground while every listed cascade flag stays silent. Adding a fifth flag would give the apex its first trigger that a laboratory could pull — which is the direct answer to the brief's third question, whether the falsification machinery is used to its full extent or only defensively. It is currently only defensive: every flag is a way for the verdict to weaken, none is a way for a specific empirical result to bite.
 
-Two smaller things P-AC4 licenses, noted without minting:
+Two smaller things [P-AC4](/positions/ai-consciousness-scope/#p-ac4) licenses, noted without minting:
 
-- **A framework-independent foothold the wing does not advertise.** P-AC4 is `framework-internal only: no`, which means the Map holds one AI-domain claim a reader who rejects every tenet must still engage. The apex mentions P-AC4 three times (L97, L134, L166) and never says this. The register does say it (P-AC4 calibration line, and the About-this-domain bullet at L44).
-- **A cleaner statement of the access/phenomenal division of labour.** P-AC4 and P-AC1 are explicitly complementary — the register says P-AC4 "localizes P-AC1's 'low-probability' verdict to the *phenomenal* side". The apex uses this at L166 but only in the closing "Relation to Site Perspective", after the decision recommendations have been made.
+- **A framework-independent foothold the wing does not advertise.** [P-AC4](/positions/ai-consciousness-scope/#p-ac4) is `framework-internal only: no`, which means the Map holds one AI-domain claim a reader who rejects every tenet must still engage. The apex mentions [P-AC4](/positions/ai-consciousness-scope/#p-ac4) three times (L97, L134, L166) and never says this. The register does say it ([P-AC4](/positions/ai-consciousness-scope/#p-ac4) calibration line, and the About-this-domain bullet at L44).
+- **A cleaner statement of the access/phenomenal division of labour.** [P-AC4](/positions/ai-consciousness-scope/#p-ac4) and [P-AC1](/positions/ai-consciousness-scope/#p-ac1) are explicitly complementary — the register says [P-AC4](/positions/ai-consciousness-scope/#p-ac4) "localizes [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s 'low-probability' verdict to the *phenomenal* side". The apex uses this at L166 but only in the closing "Relation to Site Perspective", after the decision recommendations have been made.
 
 ## Expansion Opportunities, Ranked by Whether They Have Anywhere to Land
 
@@ -200,11 +200,11 @@ Counts from `tools.evolution.state.count_section_files`, against `section_caps` 
 
 #### 1. Register the per-class quantum-hardware substrate verdict (HIGH)
 
-- **The gap, measured**: `grep -ric` over `obsidian/positions/*.md` returns **zero** for each of `annealer`, `gate-based`, `gate-model`, `QPU`, `quantum computer`, `quantum-computing`, `error correction`, `superconducting`, `trapped ion`. The only hits for any channel-test vocabulary are `channel test` (2 lines) and `directness` (2 lines), both inside P-AC1's 2026-08-12 pointer annotation.
-- **And P-AC1 disclaims it**: its *Would shift if* closes with "Quantum-substrate, biological-substrate, and hybrid AI sit in a *different* bucket and are explicitly out of scope of this verdict." So the exclusion is deliberate and the bucket is empty.
+- **The gap, measured**: `grep -ric` over `obsidian/positions/*.md` returns **zero** for each of `annealer`, `gate-based`, `gate-model`, `QPU`, `quantum computer`, `quantum-computing`, `error correction`, `superconducting`, `trapped ion`. The only hits for any channel-test vocabulary are `channel test` (2 lines) and `directness` (2 lines), both inside [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s 2026-08-12 pointer annotation.
+- **And [P-AC1](/positions/ai-consciousness-scope/#p-ac1) disclaims it**: its *Would shift if* closes with "Quantum-substrate, biological-substrate, and hybrid AI sit in a *different* bucket and are explicitly out of scope of this verdict." So the exclusion is deliberate and the bucket is empty.
 - **What now depends on the unregistered claim**: the apex's Recommendation 4 — "Research programmes that take AI consciousness as plausible should target substrate-relevant systems — **and quantum computers are not among them**" (L134) — is a funding recommendation whose warrant lives only in article prose. The apex's own closing discipline (L150) is that "when the positions move, applied verdicts that depend on them are re-flagged by the same discipline." A verdict with no position cannot be re-flagged by it.
-- **Why this is not the thing that was declined on 08-12**: the 2026-08-03 review proposed registering *the channel test as a candidate interface-eligibility law*. That was answered on 2026-08-12 and deliberately answered *narrowly* — P-AC1's update note says "Pointer and status label only; the debt remains a debt, and no calibration change." Registering a **first-order verdict about a substrate class** is a different object from registering a *methodological standard*, and the 08-12 decision does not cover it. I would not re-litigate the methodological one.
-- **Shape**: mixed grade, like P-AC4 — the engineering half (QEC isolates the logical state; adiabatic evolution is insensitive to the relevant perturbation class; annealer freeze-out is thermal) is externally evidenced and checkable, while the consciousness half inherits the quantum register at Grade D. A clean *Would shift if*: an architecture built to host open selection at decision-relevant points; or a paradigm whose collapse events are not thermal relaxations; or the channel test itself being superseded by an articulated eligibility law.
+- **Why this is not the thing that was declined on 08-12**: the 2026-08-03 review proposed registering *the channel test as a candidate interface-eligibility law*. That was answered on 2026-08-12 and deliberately answered *narrowly* — [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s update note says "Pointer and status label only; the debt remains a debt, and no calibration change." Registering a **first-order verdict about a substrate class** is a different object from registering a *methodological standard*, and the 08-12 decision does not cover it. I would not re-litigate the methodological one.
+- **Shape**: mixed grade, like [P-AC4](/positions/ai-consciousness-scope/#p-ac4) — the engineering half (QEC isolates the logical state; adiabatic evolution is insensitive to the relevant perturbation class; annealer freeze-out is thermal) is externally evidenced and checkable, while the consciousness half inherits the quantum register at Grade D. A clean *Would shift if*: an architecture built to host open selection at decision-relevant points; or a paradigm whose collapse events are not thermal relaxations; or the channel test itself being superseded by an articulated eligibility law.
 - **Placement caution**: [positions/ai-consciousness-scope.md](/positions/ai-consciousness-scope/) is at 3005w `hard_warning` and [positions/quantum-interface.md](/positions/quantum-interface/) is at 4414w `critical`. Neither should absorb a new entry. This is a case for a **new file** in `positions/` — the lane with 65 free slots.
 
 ### Has somewhere to land — `refine-draft` on reviewed articles
@@ -237,7 +237,7 @@ The wing's stated goal makes this the right place to fix: `quantum-hardware` L86
 ### Capacity-blocked — recorded, not actionable
 
 - **A concept page for *interface eligibility***. Proposed by the 08-03 review and still unbuilt. `concepts/` has exactly 1 free slot corpus-wide; spending it here is a judgement the human should make, not automation. **Capacity-constrained.**
-- **The Saad Organizational Invariance decline.** P-AC1 discloses that the Map *declines* rather than refutes Chalmers's Organizational Invariance constraint (*Philosophical Studies* 182:939–967, 2025) — a substantial admission that appears only inside a register entry. The 08-03 review suggested argued treatment "somewhere in the topics tree". `topics/` is **AT CAP (320/320)**. **Capacity-blocked. Do not chain this to an `expand-topic`.**
+- **The Saad Organizational Invariance decline.** [P-AC1](/positions/ai-consciousness-scope/#p-ac1) discloses that the Map *declines* rather than refutes Chalmers's Organizational Invariance constraint (*Philosophical Studies* 182:939–967, 2025) — a substantial admission that appears only inside a register entry. The 08-03 review suggested argued treatment "somewhere in the topics tree". `topics/` is **AT CAP (320/320)**. **Capacity-blocked. Do not chain this to an `expand-topic`.**
 - **What evidence of interface *occupancy* would look like**, as distinct from eligibility — the pairing-problem question `quantum-hardware` L82 raises and leaves. Would be a new `topics/` or `concepts/` article. **Capacity-blocked / 1 slot respectively.**
 
 ## Cross-Linking Suggestions
@@ -246,8 +246,8 @@ The wing's stated goal makes this the right place to fix: `quantum-hardware` L86
 |---|---|---|
 | `concepts/ai-hardware-substrate-taxonomy` | `topics/quantum-hardware-and-the-ai-consciousness-coupling` | The taxonomy's gate-model row poses a question that article now answers. Zero links in either direction today. |
 | `topics/quantum-hardware-and-the-ai-consciousness-coupling` | `concepts/ai-hardware-substrate-taxonomy` | Reciprocal; the channel test is applied to three of the taxonomy's six substrate families without naming the taxonomy. |
-| `topics/quantum-randomness-channel-llm-consciousness` | `positions/ai-consciousness-scope` (P-AC1, layer iv) | The article states the five requirements; the register states the debt they stand in for. The origin article links to neither. |
-| `apex/assessing-ai-consciousness-under-the-map` (Cascade flags) | `positions/ai-consciousness-scope` (P-AC4 shift trigger) | The apex's only empirically triggerable dependency, currently unflagged. |
+| `topics/quantum-randomness-channel-llm-consciousness` | `positions/ai-consciousness-scope` ([P-AC1](/positions/ai-consciousness-scope/#p-ac1), layer iv) | The article states the five requirements; the register states the debt they stand in for. The origin article links to neither. |
+| `apex/assessing-ai-consciousness-under-the-map` (Cascade flags) | `positions/ai-consciousness-scope` ([P-AC4](/positions/ai-consciousness-scope/#p-ac4) shift trigger) | The apex's only empirically triggerable dependency, currently unflagged. |
 
 ## Calibration Concerns (not praise)
 

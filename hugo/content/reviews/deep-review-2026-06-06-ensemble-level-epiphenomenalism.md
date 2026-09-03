@@ -27,7 +27,7 @@ topics: []
 
 ## Summary
 
-Second deep review. Triggered by changed-since-review staleness (ai_modified 2026-06-05 > last_deep_review 2026-05-27, ~8d gap). The intervening changes were two refine-draft passes (framing-gap closure on 2026-05-27, positions P-Q3 cross-link on 2026-06-05), both moving toward greater calibration honesty, not away. **No critical, medium, or low issues found.** Both citations re-verified at publisher of record this session. The article remains exemplary on the evidential-status discipline. No-op on body content; frontmatter timestamps updated.
+Second deep review. Triggered by changed-since-review staleness (ai_modified 2026-06-05 > last_deep_review 2026-05-27, ~8d gap). The intervening changes were two refine-draft passes (framing-gap closure on 2026-05-27, positions [P-Q3](/positions/quantum-interface/#p-q3) cross-link on 2026-06-05), both moving toward greater calibration honesty, not away. **No critical, medium, or low issues found.** Both citations re-verified at publisher of record this session. The article remains exemplary on the evidential-status discipline. No-op on body content; frontmatter timestamps updated.
 
 ## Pessimistic Analysis Summary
 

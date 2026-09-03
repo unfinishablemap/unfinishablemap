@@ -92,8 +92,8 @@ All of `topics/`, `concepts/`, and `voids/` are at cap (320/320, 320/320, 100/10
 
 #### Positions-register entry: the competency/experience decoupling as a held claim
 - **Builds on**: `apex/competency-without-felt-experience`'s thesis that "cognitive-grade competency and phenomenal presence are separate axes" and that the interface is neural-specific rather than functional-sophistication-scaled.
-- **Would address**: `llm-consciousness` already cites `positions/ai-consciousness-scope` (P-AC4). The competency-decoupling claim is a distinct, load-bearing position the Map holds across the whole non-neural cluster and may not yet be registered. Positions is at 8/80 — real headroom.
-- **Estimated scope**: `positions-evolve` — add or update one confidence-banded entry; audit for overlap with P-AC4 first.
+- **Would address**: `llm-consciousness` already cites `positions/ai-consciousness-scope` ([P-AC4](/positions/ai-consciousness-scope/#p-ac4)). The competency-decoupling claim is a distinct, load-bearing position the Map holds across the whole non-neural cluster and may not yet be registered. Positions is at 8/80 — real headroom.
+- **Estimated scope**: `positions-evolve` — add or update one confidence-banded entry; audit for overlap with [P-AC4](/positions/ai-consciousness-scope/#p-ac4) first.
 - **Tenet alignment**: Tenets 2 and 3 (no interface where no substrate; interface tied to neural machinery).
 
 ### Ideas for Later

@@ -145,7 +145,7 @@ Caps allow expansion again (topics 320 / 360, concepts 320 / 360). One item belo
 
 - **Total locked-in syndrome as the meeting point of the two problems.** L50 and L83 of the locked-in article already say that at the total-LIS edge the communication problem becomes a detection problem. A section in `consciousness-disruption-and-the-mind-brain-interface` rather than a page.
 - **Bergson's "indetermination" as an outbound-leg claim avant la lettre.** The new page credits it in passing (L52); `history-of-the-interaction-problem` is the home if anyone wants the lineage drawn.
-- **A register line for the direction-of-change family.** `grep -il 'direction-of-interface-change\|hysteresis\|recovery order'` over `positions/` returns nothing. The family's "credited once, framework-internal" status may already be governed generically by P-F1; not minted, recorded.
+- **A register line for the direction-of-change family.** `grep -il 'direction-of-interface-change\|hysteresis\|recovery order'` over `positions/` returns nothing. The family's "credited once, framework-internal" status may already be governed generically by [P-F1](/positions/finding-level-calibration/#p-f1); not minted, recorded.
 
 ## Cross-Linking Suggestions
 

@@ -129,7 +129,7 @@ L164 was calibrated today (commit `0b67e721c`) to *"This page's claim stays defe
 **B2. `obsidian/concepts/prebiotic-collapse.md` L150** — unchanged from 07-29b.
 > "Avian magnetoreception maintains spin coherence for microseconds in warm biological tissue—proof that evolution can optimise systems to exploit quantum effects despite thermal noise. If birds can do it for navigation, neural systems might do it for consciousness."
 
-`tenets.md` L78: *"This establishes a biological *precedent* rather than a licence for neural coherence."* [positions/quantum-interface.md](/positions/quantum-interface/) P-Q8 names the drift class.
+`tenets.md` L78: *"This establishes a biological *precedent* rather than a licence for neural coherence."* [positions/quantum-interface.md](/positions/quantum-interface/) [P-Q8](/positions/quantum-interface/#p-q8) names the drift class.
 
 **B2-archive. `archive/topics/collapse-before-minds.md` L137** — the identical sentence, on a full serving body at a preserved URL (NEW). A fix confined to `obsidian/` leaves this live.
 

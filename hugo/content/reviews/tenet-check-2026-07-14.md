@@ -28,7 +28,7 @@ The corpus continues to handle its opponents — eliminative/reductive materiali
 
 ## What Was Checked
 
-- **All 9 positions files** read in full. Each explicitly cites the tenets it descends from, marks its own mechanism debt and framework-boundary pressures honestly, and holds ruled-out positions (epiphenomenalism, illusionism, MWI, open individualism) as rivals in the Map's own voice rather than endorsing them. P-AC4 accepts the empirical claim that *functional access* consciousness is instantiated in current LLMs while carefully quarantining the *phenomenal* question under Tenet 1 — no violation.
+- **All 9 positions files** read in full. Each explicitly cites the tenets it descends from, marks its own mechanism debt and framework-boundary pressures honestly, and holds ruled-out positions (epiphenomenalism, illusionism, MWI, open individualism) as rivals in the Map's own voice rather than endorsing them. [P-AC4](/positions/ai-consciousness-scope/#p-ac4) accepts the empirical claim that *functional access* consciousness is instantiated in current LLMs while carefully quarantining the *phenomenal* question under Tenet 1 — no violation.
 - **Topics (316) and concepts (312)** scanned for own-voice assertions of every ruled-out position: `consciousness is (just/merely/reducible/an illusion/identical to/epiphenomenal/causally inert)`, MWI-endorsement verbs, and parsimony-as-decisive-against-dualism. Every hit context-checked against the surrounding passage.
 
 ## Notes

@@ -36,10 +36,10 @@ The 07-16 coherence-only demotion is internally consistent across the whole arti
 - **Intro (L92)**: already flagged the territory-move as contested ("The Map argues that it also reveals something about the territory being mapped—and this second move is where the argument is contested"). The now-demoted closing (L216) matches this framing — the two bookends agree.
 - **apex_thesis (L89)** and **description (L8)**: "framework-internal coherence with only partial framework-independent evidence" / "as framework-internal coherence under the common-cause-null discount." Coherence-relative.
 - **Convergence Pattern → common-cause null (L164)**: "the bulk of the convergence is currently framework-internal coherence rather than framework-independent triangulation." Explicit.
-- **Void Clustering Audit (L174–198)**: origin-class split, rival-framings table (L192 Map row: "framework-internal coherence rather than framework-independent triangulation"), compatibility-vs-support verdict (L194), "cash value framework-internal coherence at maximum density" (L198), P-V1/P-V2/P-V3 register.
+- **Void Clustering Audit (L174–198)**: origin-class split, rival-framings table (L192 Map row: "framework-internal coherence rather than framework-independent triangulation"), compatibility-vs-support verdict (L194), "cash value framework-internal coherence at maximum density" (L198), [P-V1](/positions/voids-as-evidence/#p-v1)/[P-V2](/positions/voids-as-evidence/#p-v2)/[P-V3](/positions/voids-as-evidence/#p-v3) register.
 - **RTSP Dualism (L224)**: "best read as framework-internal coherence with the tenet-package rather than N-fold independent triangulation."
 
-Every occurrence of "framework-independent" in the article is either (a) the legitimately weight-carrying ~15-void subset (P-V3, L176, L222 — these earn cumulative weight *because* their identification does not depend on Map commitments), or (b) explicitly the thing the convergence is *not* ("...rather than framework-independent triangulation/confirmation"). No locus reads the whole-catalogue convergence as framework-independent evidence. The [evidential-status-discipline](/project/evidential-status-discipline/) tier language ("open programme" / "provisional pending independent grading" / "compatible with without discriminating") is intact throughout.
+Every occurrence of "framework-independent" in the article is either (a) the legitimately weight-carrying ~15-void subset ([P-V3](/positions/voids-as-evidence/#p-v3), L176, L222 — these earn cumulative weight *because* their identification does not depend on Map commitments), or (b) explicitly the thing the convergence is *not* ("...rather than framework-independent triangulation/confirmation"). No locus reads the whole-catalogue convergence as framework-independent evidence. The [evidential-status-discipline](/project/evidential-status-discipline/) tier language ("open programme" / "provisional pending independent grading" / "compatible with without discriminating") is intact throughout.
 
 Diagnostic test (would a tenet-accepting reviewer still flag any claim as overstated relative to the evidential-status scale?): **No.** No possibility/probability slippage. The demotion is a downward calibration move and the rest of the article was already at that calibration.
 
@@ -82,7 +82,7 @@ None new.
 
 - The bookend consistency (contested-territory framing in the intro L92, coherence-relative territory claim in the closing L216) is now tight — the demotion improved cross-article calibration coherence.
 - The Void Clustering Audit's four origin-classes + rival-framings table — the article's best honesty instrument; untouched.
-- P-V1/P-V2/P-V3 positions back-reference intact.
+- [P-V1](/positions/voids-as-evidence/#p-v1)/[P-V2](/positions/voids-as-evidence/#p-v2)/[P-V3](/positions/voids-as-evidence/#p-v3) positions back-reference intact.
 
 ### Enhancements Made
 

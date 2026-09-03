@@ -28,7 +28,7 @@ topics: []
 
 **Date**: 2026-07-30
 
-**Content reviewed** (the anti-epiphenomenalism cluster — the articles that carry the argument P-D2 names as its selector, none of them covered by the 07-26 / 07-27 / 07-28 / 07-29 optimistic passes, none of them session-touched):
+**Content reviewed** (the anti-epiphenomenalism cluster — the articles that carry the argument [P-D2](/positions/arguments-for-dualism/#p-d2) names as its selector, none of them covered by the 07-26 / 07-27 / 07-28 / 07-29 optimistic passes, none of them session-touched):
 
 - `obsidian/concepts/epiphenomenalism.md` (ai_modified 2026-06-16; 3107w `soft_warning`; no open task)
 - `obsidian/arguments/epiphenomenalism-argument.md` (ai_modified 2026-06-22; 2883w `soft_warning`; no open task)
@@ -52,7 +52,7 @@ Chalmers is handled with unusual fairness here — and quoted *against* the Map'
 
 Stapp gets the thing he most wants: a *specific* location for the causal contribution, plus an honest account of what it costs. `the-epiphenomenalist-threat.md` L133–135 states the escape precisely — physics is incomplete at quantum indeterminacies "not merely epistemically (we don't know the cause) but ontologically (there is no sufficient physical cause)" — and then explains why that defeats Kim rather than merely resisting him: "Kim's exclusion argument does not apply where physics is incomplete — there is no physical cause to exclude the mental one." That is the structural point, not a hand-wave.
 
-He would be more impressed by L139, where the article generates its own sharpest objection unprompted: if selection preserves Born statistics over any ensemble, "its influence leaves no statistical trace at the aggregate level — raising the question of whether single-event efficacy that washes out in aggregate is genuine causal work." The article names this `ensemble-level-epiphenomenalism`, calls it "arguably the sharpest open question the corridor reading faces," and routes it to the register as the Map's mechanism debt (P-Q3), "held open rather than resolved." A framework that invents the best objection to its own escape route and then logs it as a debt is doing physics-adjacent philosophy properly.
+He would be more impressed by L139, where the article generates its own sharpest objection unprompted: if selection preserves Born statistics over any ensemble, "its influence leaves no statistical trace at the aggregate level — raising the question of whether single-event efficacy that washes out in aggregate is genuine causal work." The article names this `ensemble-level-epiphenomenalism`, calls it "arguably the sharpest open question the corridor reading faces," and routes it to the register as the Map's mechanism debt ([P-Q3](/positions/quantum-interface/#p-q3)), "held open rather than resolved." A framework that invents the best objection to its own escape route and then logs it as a debt is doing physics-adjacent philosophy properly.
 
 ### The Phenomenologist (Nagel)
 
@@ -82,7 +82,7 @@ This persona's verdict is load-bearing here, and the cluster earns it in three s
 
 **2. Tenet-as-evidence-upgrade is praise-worthily *not* done — twice, explicitly.** The structural opportunity was wide open: self-stultification proves *some* consciousness is efficacious, Tenet 3 asserts *all* consciousness is coupled, and the cheap move is to let the tenet's coherence quietly upgrade the existential result to a universal one. The cluster declines it in writing. `epiphenomenalism.md` L128 and L130: "The self-stultification argument alone cannot establish universal causal efficacy ... Bidirectional Interaction asserts that all consciousness is causally coupled; self-stultification establishes only that some consciousness is report-grounded. The first is a metaphysical commitment about the nature of consciousness; the second is what we can prove case by case." [apex/machine-question.md](/apex/machine-question/) L175 repeats it: the universal assertion rests "on the quantum-interaction mechanism and the evolutionary evidence, not something self-stultification alone delivers." This is *tenet-coherent, not evidence-elevating*, named at the level of the tenet itself.
 
-**3. Precedent is refused as licence, locally and correctly.** `epiphenomenalism-argument.md` L179 declines to convert a rebuttal-of-a-rebuttal into a result: Reimers and McKemmish "disputed Hagan's parameter choices, so this exchange remains live rather than settled; the Map's case here is that the original Tegmark figure cannot be cited as a closed rebuttal, **not that Hagan closes the question in the other direction**." L181 does the same for quantum biology: avian magnetoreception leaves "the door open ... though cryptochrome's specific molecular architecture does not by itself license neural-scale coherence." That is P-Q8's precedent-not-licence discipline applied by an article that never cites P-Q8 — arrived at independently, which is evidence the discipline is genuinely held rather than pasted.
+**3. Precedent is refused as licence, locally and correctly.** `epiphenomenalism-argument.md` L179 declines to convert a rebuttal-of-a-rebuttal into a result: Reimers and McKemmish "disputed Hagan's parameter choices, so this exchange remains live rather than settled; the Map's case here is that the original Tegmark figure cannot be cited as a closed rebuttal, **not that Hagan closes the question in the other direction**." L181 does the same for quantum biology: avian magnetoreception leaves "the door open ... though cryptochrome's specific molecular architecture does not by itself license neural-scale coherence." That is [P-Q8](/positions/quantum-interface/#p-q8)'s precedent-not-licence discipline applied by an article that never cites [P-Q8](/positions/quantum-interface/#p-q8) — arrived at independently, which is evidence the discipline is genuinely held rather than pasted.
 
 Birch's one reservation is not a calibration failure but a *bookkeeping* one, and it is the finding below: every one of these restraints is currently invisible to a register audit.
 
@@ -108,9 +108,9 @@ Birch's one reservation is not a calibration failure but a *bookkeeping* one, an
 
 ### [concepts/ensemble-level-epiphenomenalism.md](/concepts/ensemble-level-epiphenomenalism/)
 
-- **Strongest point**: It is the one article in the cluster that is *correctly wired to the register in both directions* — it cites P-Q3 by ID (L28), and P-Q3's `Argued in` cites it back as giving "the sharpest route-by-route statement." It is the working model for what the other four articles are missing.
+- **Strongest point**: It is the one article in the cluster that is *correctly wired to the register in both directions* — it cites [P-Q3](/positions/quantum-interface/#p-q3) by ID (L28), and [P-Q3](/positions/quantum-interface/#p-q3)'s `Argued in` cites it back as giving "the sharpest route-by-route statement." It is the working model for what the other four articles are missing.
 
-## The Finding: the argument P-D2 leans on is registered nowhere
+## The Finding: the argument [P-D2](/positions/arguments-for-dualism/#p-d2) leans on is registered nowhere
 
 ### What is stated, and where
 
@@ -128,7 +128,7 @@ Nothing first-order. `grep -rn 'stultif' obsidian/positions/` returns exactly **
 - **`P-D2`** ([positions/arguments-for-dualism.md](/positions/arguments-for-dualism/) L55) makes the self-stultification argument the load-bearer for its entire selection step: Bidirectional Interaction "selects dualism from within that set, **on the strength of a separately-supported argument (the self-stultification objection to epiphenomenalism and the evidence for mental causation)** rather than a bare appeal to commitment." The register never assesses that argument, states its scope, or bands its confidence.
 - **`P-AC1`** ([positions/ai-consciousness-scope.md](/positions/ai-consciousness-scope/) L56) imports clause 2 as a parenthetical dependency — "That exclusion is conditional on the strong reading, **which is more than the self-stultification argument delivers**" — and then keys a formal shift condition to it: "or Tenet 3 were weakened from universal actual efficacy to a dispositional or existential reading, re-opening epiphenomenal AI experience internally."
 
-So the register has a position whose shift condition depends on which reading of Tenet 3 the Map holds, and no position anywhere states which reading the Map holds or how confidently. An audit of P-AC1 cannot check its own dependency.
+So the register has a position whose shift condition depends on which reading of Tenet 3 the Map holds, and no position anywhere states which reading the Map holds or how confidently. An audit of [P-AC1](/positions/ai-consciousness-scope/#p-ac1) cannot check its own dependency.
 
 ### The structural confirmation
 
@@ -142,16 +142,16 @@ Register references per cluster file:
 | [topics/self-stultification-as-master-argument.md](/topics/self-stultification-as-master-argument/) | 0 |
 | [topics/the-epiphenomenalist-threat.md](/topics/the-epiphenomenalist-threat/) | 1 |
 
-The single reference is `the-epiphenomenalist-threat.md` L139 pointing at P-Q3 — the *one* claim in this cluster that is registered. The cluster is already wired for register citation; the wiring stops exactly where the register stops. That is what a genuine gap looks like, as opposed to a stylistic omission.
+The single reference is `the-epiphenomenalist-threat.md` L139 pointing at [P-Q3](/positions/quantum-interface/#p-q3) — the *one* claim in this cluster that is registered. The cluster is already wired for register citation; the wiring stops exactly where the register stops. That is what a genuine gap looks like, as opposed to a stylistic omission.
 
-### The judgement call this raises for P-D2
+### The judgement call this raises for [P-D2](/positions/arguments-for-dualism/#p-d2)
 
-State the reasoning either way rather than asserting a defect. P-D2's grounding clause cites "the self-stultification objection to epiphenomenalism and the evidence for mental causation" without distinguishing what each delivers. Two readings:
+State the reasoning either way rather than asserting a defect. [P-D2](/positions/arguments-for-dualism/#p-d2)'s grounding clause cites "the self-stultification objection to epiphenomenalism and the evidence for mental causation" without distinguishing what each delivers. Two readings:
 
-- **P-D2 is fine as written.** It needs Tenet 3 only as a *selector* among irreducibility-respecting rivals, and for that a separately-motivated commitment suffices; the clause names the sources of motivation, and the second conjunct ("the evidence for mental causation") is doing the work the first cannot. On this reading nothing moves and the new entries simply supply the detail P-D2 gestures at.
-- **P-D2's clause is imprecise.** As phrased it lets a reader take the self-stultification objection to support the universal reading Tenet 3 asserts, which the corpus has explicitly denied in four places. A one-clause fix — naming the argument as supporting the existential claim, with the mechanism and evolutionary evidence carrying the universal one — would align P-D2 with `epiphenomenalism.md` L128 at no cost to its conclusion.
+- **[P-D2](/positions/arguments-for-dualism/#p-d2) is fine as written.** It needs Tenet 3 only as a *selector* among irreducibility-respecting rivals, and for that a separately-motivated commitment suffices; the clause names the sources of motivation, and the second conjunct ("the evidence for mental causation") is doing the work the first cannot. On this reading nothing moves and the new entries simply supply the detail [P-D2](/positions/arguments-for-dualism/#p-d2) gestures at.
+- **[P-D2](/positions/arguments-for-dualism/#p-d2)'s clause is imprecise.** As phrased it lets a reader take the self-stultification objection to support the universal reading Tenet 3 asserts, which the corpus has explicitly denied in four places. A one-clause fix — naming the argument as supporting the existential claim, with the mechanism and evolutionary evidence carrying the universal one — would align [P-D2](/positions/arguments-for-dualism/#p-d2) with `epiphenomenalism.md` L128 at no cost to its conclusion.
 
-My reading is the second, but it is a precision fix inside a grounding clause, **not** a retraction and **not** a band move: P-D2's conclusion (the two earnings do not compound) is untouched either way, and its `credence high` is about a counting rule, not about epiphenomenalism. Whoever executes should say explicitly if they leave the calibration unchanged.
+My reading is the second, but it is a precision fix inside a grounding clause, **not** a retraction and **not** a band move: [P-D2](/positions/arguments-for-dualism/#p-d2)'s conclusion (the two earnings do not compound) is untouched either way, and its `credence high` is about a counting rule, not about epiphenomenalism. Whoever executes should say explicitly if they leave the calibration unchanged.
 
 ### Where the entries should go — and why not an existing host
 
@@ -173,7 +173,7 @@ My reading is the second, but it is a precision fix inside a grounding clause, *
 
 Every natural host is over the 2500-word hard ceiling. `agency-and-will.md` is the closest topical fit and cannot absorb three entries. `ai-consciousness-scope.md` is where clause 2 is currently consumed and is also over hard. `arguments-for-dualism.md` has ~1070w of headroom and is the right *genre* (what an argument catalogue supports) — but it already carries the queue's only open `positions-evolve` task, and the driver's same-file-pileup rule applies to the register as much as to articles.
 
-Recommendation: a **new domain file**, `obsidian/positions/mental-causation.md`, holding the two scope entries plus (optionally) the gravity-well diagnostic, with `Depends on` links to P-M1 and P-D2 and reciprocal pointers added from P-D2 and P-AC1 — matching the P-M2 → P-V1 parent/instance pattern the register already uses. Section cap is not a constraint: `positions/` is at 11 files of 80.
+Recommendation: a **new domain file**, `obsidian/positions/mental-causation.md`, holding the two scope entries plus (optionally) the gravity-well diagnostic, with `Depends on` links to [P-M1](/positions/methodology-and-calibration/#p-m1) and [P-D2](/positions/arguments-for-dualism/#p-d2) and reciprocal pointers added from [P-D2](/positions/arguments-for-dualism/#p-d2) and [P-AC1](/positions/ai-consciousness-scope/#p-ac1) — matching the [P-M2](/positions/methodology-and-calibration/#p-m2) → [P-V1](/positions/voids-as-evidence/#p-v1) parent/instance pattern the register already uses. Section cap is not a constraint: `positions/` is at 11 files of 80.
 
 **Secondary observation, flagged not minted.** [positions/quantum-interface.md](/positions/quantum-interface/) is now **3841w — 54% over the 2500 hard ceiling**. A 2026-06-08 `positions-evolve` task assessed a split and *declined* it, recording a durable rationale in the file; but that decline rested explicitly on the file being "over soft (1911w) but under hard," and the file has since doubled. The decline rationale (splitting would sever the intra-file `P-QN` dependency graph) is still substantive and may well still win, so this is not a defect — but the premise it was decided on no longer holds, and the register's own splitting discipline says over-hard files split rather than condense. Worth an operator decision rather than an autonomous re-litigation, so no task minted.
 
@@ -197,8 +197,8 @@ I am **not** nominating any new article. With `topics/` at 319/320 and `concepts
 |------|-----|--------|
 | `obsidian/concepts/epiphenomenalism.md` | new [positions/mental-causation.md](/concepts/mental-causation-and-downward-causation/) | L128–130 and L201 state the scope verdict the entry would register; currently 0 register refs |
 | `obsidian/arguments/epiphenomenalism-argument.md` | new [positions/mental-causation.md](/concepts/mental-causation-and-downward-causation/) | L75/L137/L142 carry the bare-correlation scoping; currently 0 register refs |
-| `obsidian/positions/arguments-for-dualism.md` (P-D2) | new [positions/mental-causation.md](/concepts/mental-causation-and-downward-causation/) | P-D2's selector clause outsources to this argument; reciprocal pointer per the P-M2 → P-V1 pattern |
-| `obsidian/positions/ai-consciousness-scope.md` (P-AC1) | new [positions/mental-causation.md](/concepts/mental-causation-and-downward-causation/) | P-AC1's shift condition is keyed to the strength-of-reading question the entry would settle |
+| `obsidian/positions/arguments-for-dualism.md` ([P-D2](/positions/arguments-for-dualism/#p-d2)) | new [positions/mental-causation.md](/concepts/mental-causation-and-downward-causation/) | [P-D2](/positions/arguments-for-dualism/#p-d2)'s selector clause outsources to this argument; reciprocal pointer per the [P-M2](/positions/methodology-and-calibration/#p-m2) → [P-V1](/positions/voids-as-evidence/#p-v1) pattern |
+| `obsidian/positions/ai-consciousness-scope.md` ([P-AC1](/positions/ai-consciousness-scope/#p-ac1)) | new [positions/mental-causation.md](/concepts/mental-causation-and-downward-causation/) | [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s shift condition is keyed to the strength-of-reading question the entry would settle |
 
 ## New Concept Pages Needed
 

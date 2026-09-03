@@ -33,7 +33,7 @@ Selected as a genuinely unverified target: **0 prior deep-review files** despite
 
 - **Orphan inline cite** `Babcock-Hameroff (2025)` (Direction 2) — cited inline, no References entry. **Also a misattribution**: there is no joint "Babcock-Hameroff 2025" paper. The genuine contestant of Tegmark's microtubule-decoherence calculation is **Hagan, Hameroff & Tuszynski (2002)** (*Phys. Rev. E* 65:061901); the real Babcock lead paper is the **2024** tryptophan-superradiance work (*J. Phys. Chem. B* 128(17):4035-4046). The corpus changelog already documents "Babcock-Hameroff (2025)" as a famous-name-substitution defect (elsewhere resolved to Wiest 2025 in the born-rule context). **Fix**: removed the misleading bare author-year and routed the citation through the [falsification roadmap](/topics/falsification-roadmap-for-the-interface-model/) link (an apex properly defers detailed cites to its source articles).
 - **Four orphan References** (in the References list, never cited inline):
-  - **Torres Alegre (2025)**, arXiv:2512.12636 — real-correct, and sharply relevant. It underwrites the no-signalling↔Born-preservation constraint that is load-bearing for the toy-model direction (this is the same result P-Q7 of the quantum-interface register cites). **Fix**: wired inline in Direction 1, grounded exactly as the register uses it.
+  - **Torres Alegre (2025)**, arXiv:2512.12636 — real-correct, and sharply relevant. It underwrites the no-signalling↔Born-preservation constraint that is load-bearing for the toy-model direction (this is the same result [P-Q7](/positions/quantum-interface/#p-q7) of the quantum-interface register cites). **Fix**: wired inline in Direction 1, grounded exactly as the register uses it.
   - **Chalmers & McQueen (2022)**, Gao (Ed.) *Consciousness and Quantum Mechanics*, OUP — real, but tangential to this applied prioritisation piece and its page range (11-63) could not be confirmed at publisher of record this pass. **Fix**: removed (still cited in sibling articles; no corpus loss).
   - **Zheng & Meister (2025)**, *Neuron* 113(2):192-204 — real-correct, but off-topic residue (10-bits/s cognitive throughput has no home in a research-prioritisation piece). **Fix**: removed.
   - **Schurger, Sitt & Dehaene (2012)**, *PNAS* 109(42):E2904-E2913 — real-correct, but off-topic residue (readiness-potential accumulator model, no inline home). **Fix**: removed.
@@ -65,8 +65,8 @@ The `Babcock-Hameroff (2025)` phantom cite was propagated across three live file
 
 Apex quoting the positions register — verified every quoted band and shift-condition against [positions/quantum-interface.md](/positions/quantum-interface/):
 
-- P-Q1 **moderate**, P-Q3 **moderate**, P-Q6 **high**, P-Q9 **moderate**, P-Q10 **high** — all match the register exactly.
-- Quoted shift-conditions (P-Q10 "were a worked toy model to appear… tighten by one band"; P-Q3 mechanism-debt/bias-without-deviation wording; P-Q4/P-Q5 coherence-time shift-conditions; P-Q9 aggregate-channel self-concealment scoping) — all faithful.
+- [P-Q1](/positions/quantum-interface/#p-q1) **moderate**, [P-Q3](/positions/quantum-interface/#p-q3) **moderate**, [P-Q6](/positions/quantum-interface/#p-q6) **high**, [P-Q9](/positions/quantum-interface/#p-q9) **moderate**, [P-Q10](/positions/quantum-interface/#p-q10) **high** — all match the register exactly.
+- Quoted shift-conditions ([P-Q10](/positions/quantum-interface/#p-q10) "were a worked toy model to appear… tighten by one band"; [P-Q3](/positions/quantum-interface/#p-q3) mechanism-debt/bias-without-deviation wording; [P-Q4](/positions/quantum-interface/#p-q4)/[P-Q5](/positions/quantum-interface/#p-q5) coherence-time shift-conditions; [P-Q9](/positions/quantum-interface/#p-q9) aggregate-channel self-concealment scoping) — all faithful.
 - No stale internal-quote drift (apex-stale-internal-quote channel clean).
 - No source/Map conflation; no overstated positions; the piece is scrupulously scoped ("internal to the Map," "licenses a *prioritisation*, not a guarantee").
 
@@ -94,11 +94,11 @@ Body 2961 → 2921 words (73% of the 4000-word apex soft threshold). Length-neut
 
 ## Remaining Items
 
-None. The applied-apex structure is intact (5 positions cited: P-Q1/Q3/Q6/Q9/Q10; "What this implies for decisions" section present). Required "Relation to Site Perspective" section present and substantive.
+None. The applied-apex structure is intact (5 positions cited: [P-Q1](/positions/quantum-interface/#p-q1)/Q3/Q6/Q9/Q10; "What this implies for decisions" section present). Required "Relation to Site Perspective" section present and substantive.
 
 ## Stability Notes
 
 - This was the first genuine deep-review; the citation cross-reference orphans were the expected fresh-create defect tail. The surviving citation set is now fully web-verified and inline↔References-consistent, so future reviews should not re-verify absent a new flag.
 - The `Babcock-Hameroff (2025)` phantom author-year is a **famous-name-substitution defect** the corpus is prone to. It has now been swept from all three live-content files. Future edits should not reintroduce it: the Tegmark decoherence rebuttal is **Hagan, Hameroff & Tuszynski (2002)**; the microtubule superradiance evidence is **Babcock et al. (2024)**; the born-rule entanglement-witness quote is **Wiest (2025)** — three distinct real works, none a joint "Babcock-Hameroff 2025."
-- The register-band quotes (P-Q1/Q3/Q6/Q9/Q10) are faithful as of the register's current state; if the register re-bands (especially P-Q10 on a toy-model appearance), this apex must re-read — the article flags this itself in "Cascade flags."
+- The register-band quotes ([P-Q1](/positions/quantum-interface/#p-q1)/Q3/Q6/Q9/Q10) are faithful as of the register's current state; if the register re-bands (especially [P-Q10](/positions/quantum-interface/#p-q10) on a toy-model appearance), this apex must re-read — the article flags this itself in "Cascade flags."
 - Bedrock disagreement (a physicalist/decoherence-only researcher rejecting the whole prioritisation) is expected and honestly declared by the article; not a defect.

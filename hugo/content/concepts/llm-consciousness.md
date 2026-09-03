@@ -181,7 +181,7 @@ None of these has occurred decisively. The Map's skepticism remains well-founded
 - [ai-consciousness-typology](/concepts/ai-consciousness-typology/) — Six categories of AI phenomenal experience crossed with Tulving's anoetic-noetic-autonoetic hierarchy
 - [access-consciousness](/concepts/access-consciousness/) — Block's access/phenomenal distinction and the 2026 J-space instance in a working language model
 - [global-workspace-theory](/concepts/global-workspace-theory/) — The functional global workspace, including its workspace-like functional signatures observed in LLMs
-- [ai-consciousness-scope](/positions/ai-consciousness-scope/) — The Map's register on AI consciousness, including P-AC4 (workspace signatures observed, phenomenal open)
+- [ai-consciousness-scope](/positions/ai-consciousness-scope/) — The Map's register on AI consciousness, including [P-AC4](/positions/ai-consciousness-scope/#p-ac4) (workspace signatures observed, phenomenal open)
 - [ai-consciousness](/topics/ai-consciousness/) — The broader question of machine consciousness
 - [biological-computationalism](/concepts/biological-computationalism/) — Why biological computation differs fundamentally from digital computation
 - [functionalism](/concepts/functionalism/) — The view LLM consciousness skepticism challenges

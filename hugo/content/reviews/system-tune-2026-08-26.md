@@ -74,7 +74,7 @@ Execution quality is unchanged and excellent: 331 iterations, 3 failures (0.9%),
 
 ### Review Finding Patterns
 
-**D1 — "A correction lands in one place and never binds elsewhere": 4 reviews, no owner (threshold met).** outer-review-synthesis 08-21 (1 mention), 08-22 (1), 08-24 C1 at 3-of-3 convergence (`Task action: Recorded only — no open task owns this finding`), and tenet-check 08-26 W1 ([tenets/tenets.md](/tenets/) L75/L81 still says the corridor is "indistinguishable from chance" after P-Q3 was re-rated `indirect` on 08-24) and W2 (`concepts/epiphenomenalism` L96/L100 says self-stultification "proves" what `arguments/epiphenomenalism-argument` and P-MC1/P-MC2 concede, 9 live loci). Two concrete instances now exist; one is on the tenets page (Tier 3), one is an ordinary hub article (Tier 2).
+**D1 — "A correction lands in one place and never binds elsewhere": 4 reviews, no owner (threshold met).** outer-review-synthesis 08-21 (1 mention), 08-22 (1), 08-24 C1 at 3-of-3 convergence (`Task action: Recorded only — no open task owns this finding`), and tenet-check 08-26 W1 ([tenets/tenets.md](/tenets/) L75/L81 still says the corridor is "indistinguishable from chance" after [P-Q3](/positions/quantum-interface/#p-q3) was re-rated `indirect` on 08-24) and W2 (`concepts/epiphenomenalism` L96/L100 says self-stultification "proves" what `arguments/epiphenomenalism-argument` and [P-MC1](/positions/arguments-for-mental-causation/#p-mc1)/[P-MC2](/positions/arguments-for-mental-causation/#p-mc2) concede, 9 live loci). Two concrete instances now exist; one is on the tenets page (Tier 3), one is an ordinary hub article (Tier 2).
 
 **D2 — Tenet 4 "MWI cannot accommodate / destroys the subject" family: 2 reports, unqueued.** tenet-check 08-22 (W2 + N1, 10 mentions) and 08-26 (W3, 14 loci, 9 mentions); 08-18 and 08-20 had 0. "Carried, unqueued" both times; only one locus was ever minted. One more flag reaches the 3-review threshold.
 
@@ -93,8 +93,8 @@ Original targets remain saturated (320 topics vs min 10; 5 arguments vs min 5) a
 ## Recommendations (Tier 2)
 
 ### Mint a P3 task for the `concepts/epiphenomenalism` hub over-claim (D1 instance 2)
-- **Proposed change**: add a `refine-draft` P3 against `concepts/epiphenomenalism` L96/L100: bind the self-stultification claim to bare-correlation epiphenomenalism and name the phenomenal-concept escape, matching `arguments/epiphenomenalism-argument` and P-MC1/P-MC2; sweep the 9 loci listed in tenet-check 08-26 W2.
-- **Rationale**: fourth review to surface the shape, first with a non-tenets-page instance; the 08-24 synthesis recorded it as unowned. Tenets' Rules-out link target and P-MC1's first "Argued in" surface currently over-claim.
+- **Proposed change**: add a `refine-draft` P3 against `concepts/epiphenomenalism` L96/L100: bind the self-stultification claim to bare-correlation epiphenomenalism and name the phenomenal-concept escape, matching `arguments/epiphenomenalism-argument` and [P-MC1](/positions/arguments-for-mental-causation/#p-mc1)/[P-MC2](/positions/arguments-for-mental-causation/#p-mc2); sweep the 9 loci listed in tenet-check 08-26 W2.
+- **Rationale**: fourth review to surface the shape, first with a non-tenets-page instance; the 08-24 synthesis recorded it as unowned. Tenets' Rules-out link target and [P-MC1](/positions/arguments-for-mental-causation/#p-mc1)'s first "Argued in" surface currently over-claim.
 - **Risk**: Low (calibration edit on one hub + link sweep).
 - **To approve**: append a `### P3:` block to `obsidian/workflow/todo.md` with `- **Type**: refine-draft` and `- **File**: obsidian/concepts/epiphenomenalism.md`, citing `[[reviews/tenet-check-2026-08-26]]` W2.
 
@@ -112,7 +112,7 @@ Original targets remain saturated (320 topics vs min 10; 5 arguments vs min 5) a
 - **Suggested action**: a lightweight external liveness check (e.g. alert if `evolve_loop.log` mtime > 2 h during the automation window), and decide whether a missed commission day should be allowed to commission late (e.g. before 07:00 buffer) rather than skipped.
 
 ### [tenets/tenets.md](/tenets/) L75 / L81(c) are stale against the register (D1 instance 1)
-- **Issue observed**: P-Q3 was re-rated `none-by-construction` → `indirect` on 08-24 (`selection-only-channel`, `positions.md` L61); the tenets page still says "indistinguishable from chance" / "no presently conceivable instrument" / a Born-deviation test "does not test the endorsed corridor path at all". Also tenet-check 08-26 Note 5: the Tenet 3 Rules-out clause is never scoped to suprathreshold systems, so every article citing `interface-threshold` reads as contradicting it.
+- **Issue observed**: [P-Q3](/positions/quantum-interface/#p-q3) was re-rated `none-by-construction` → `indirect` on 08-24 (`selection-only-channel`, `positions.md` L61); the tenets page still says "indistinguishable from chance" / "no presently conceivable instrument" / a Born-deviation test "does not test the endorsed corridor path at all". Also tenet-check 08-26 Note 5: the Tenet 3 Rules-out clause is never scoped to suprathreshold systems, so every article citing `interface-threshold` reads as contradicting it.
 - **Why human needed**: tenets-page edits are excluded from automation by standing rule.
 - **Suggested action**: two one-paragraph edits on the tenets page; the calibration reference every article is checked against currently over-concedes.
 

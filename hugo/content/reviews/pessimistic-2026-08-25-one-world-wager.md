@@ -34,7 +34,7 @@ topics: []
 |---|---|---|---|
 | `obsidian/apex/one-world-wager.md` | 3450 | `ok` (soft 4000, hard 5000) | 2026-08-24 |
 
-Supporting reads: `obsidian/arguments/many-worlds-argument.md` (the source article, §"The Cumulative Case"), `obsidian/positions/individuation-and-subjecthood.md` (P-I2, P-I5), `obsidian/topics/vertiginous-question.md`, `obsidian/tenets/tenets.md`.
+Supporting reads: `obsidian/arguments/many-worlds-argument.md` (the source article, §"The Cumulative Case"), `obsidian/positions/individuation-and-subjecthood.md` ([P-I2](/positions/individuation-and-subjecthood/#p-i2), [P-I5](/positions/individuation-and-subjecthood/#p-i5)), `obsidian/topics/vertiginous-question.md`, `obsidian/tenets/tenets.md`.
 
 **Selection note.** No drafts exist. The never-pessimistically-reviewed pool is currently *entirely* `apex/` and `positions/` — two of the three sections the `deep-review` candidate pool excludes by default (`apex/`, `voids/`, `positions/`). This apex is the most recently touched member of that pool and has never had an adversarial pass.
 
@@ -42,13 +42,13 @@ Supporting reads: `obsidian/arguments/many-worlds-argument.md` (the source artic
 
 ## Executive Summary
 
-The article's headline scope claim — that **three** arguments are "only supplementary against first-personally centred variants" — is a generalisation the source article does not make and List's own text does not support. `arguments/many-worlds-argument` attaches that qualifier to the **indexical argument alone**, in both its table row and its prose; the apex widened it to all three, in the frontmatter thesis, the lead paragraph and the Synthesis. Worse, per List's own abstract the probability and consciousness arguments are not *weakened* against his view — they are *inapplicable*, because List's centred worlds are "first-personal realizers of a shared third-personal world" and neither argument targets anything but multiplicity of physical outcomes. The overclaim has already been banked outward as **P-I5** in the positions register, where the justification clause names only the indexical argument while the conclusion covers three. Two further defects compound it: the article states Tenet 4's demand two inequivalent ways and uses each where it helps, and its Evidence-and-Dependency audit — the section built to prevent exactly this — omits one of the three arguments it is auditing and mislabels another as tenet-independent.
+The article's headline scope claim — that **three** arguments are "only supplementary against first-personally centred variants" — is a generalisation the source article does not make and List's own text does not support. `arguments/many-worlds-argument` attaches that qualifier to the **indexical argument alone**, in both its table row and its prose; the apex widened it to all three, in the frontmatter thesis, the lead paragraph and the Synthesis. Worse, per List's own abstract the probability and consciousness arguments are not *weakened* against his view — they are *inapplicable*, because List's centred worlds are "first-personal realizers of a shared third-personal world" and neither argument targets anything but multiplicity of physical outcomes. The overclaim has already been banked outward as **[P-I5](/positions/individuation-and-subjecthood/#p-i5)** in the positions register, where the justification clause names only the indexical argument while the conclusion covers three. Two further defects compound it: the article states Tenet 4's demand two inequivalent ways and uses each where it helps, and its Evidence-and-Dependency audit — the section built to prevent exactly this — omits one of the three arguments it is auditing and mislabels another as tenet-independent.
 
 ## Critical Issues
 
 ### Issue 1: A per-argument qualifier generalised to three arguments, then banked in the register
 
-- **File**: `obsidian/apex/one-world-wager.md` (frontmatter `apex_thesis`; lead paragraph; §Synthesis) and `obsidian/positions/individuation-and-subjecthood.md` (P-I5)
+- **File**: `obsidian/apex/one-world-wager.md` (frontmatter `apex_thesis`; lead paragraph; §Synthesis) and `obsidian/positions/individuation-and-subjecthood.md` ([P-I5](/positions/individuation-and-subjecthood/#p-i5))
 - **Severity**: **High**
 
 The apex asserts, three times, that all three arguments are variant-relative:
@@ -69,13 +69,13 @@ and its prose sentence explicitly *separates* the treatments:
 
 No variant qualifier attaches to the probability or consciousness rows anywhere in the source. The article's own §"The Hardest Target" likewise argues the point for the indexical argument only — "**The indexical argument** was built against branch-egalitarian Everettianism... The argument does not reach List as it reaches Everett" — and then the Synthesis restates the conclusion in the aggregate. The demonstration covers one conjunct; the claim covers three.
 
-This is a synthesis-introduced overclaim of the kind apex articles exist to avoid, and it is not contained: **P-I5** (added 2026-08-21, "drawn whole from [one-world-wager](/apex/one-world-wager/)") carries the aggregate form as a live position, and its own text shows the seam:
+This is a synthesis-introduced overclaim of the kind apex articles exist to avoid, and it is not contained: **[P-I5](/positions/individuation-and-subjecthood/#p-i5)** (added 2026-08-21, "drawn whole from [one-world-wager](/apex/one-world-wager/)") carries the aggregate form as a live position, and its own text shows the seam:
 
 > "the three arguments are supplementary only, **because the first-person privilege the indexical argument demands is built into the ontology**"
 
-The stated ground licenses the demotion of one argument and is applied to three. Confirming the diagnosis: all three of P-I5's "Would shift if" triggers are indexical-keyed (the indexical argument extended; the centred-worlds ontology shown incoherent; the branch-relative identity programme answering the centred-subject charge). None mentions probability or consciousness. P-I5 is a position about the indexical argument's reach wearing an aggregate title.
+The stated ground licenses the demotion of one argument and is applied to three. Confirming the diagnosis: all three of [P-I5](/positions/individuation-and-subjecthood/#p-i5)'s "Would shift if" triggers are indexical-keyed (the indexical argument extended; the centred-worlds ontology shown incoherent; the branch-relative identity programme answering the centred-subject charge). None mentions probability or consciousness. [P-I5](/positions/individuation-and-subjecthood/#p-i5) is a position about the indexical argument's reach wearing an aggregate title.
 
-- **Recommendation**: Restore the source's per-argument scoping in all four loci (thesis, lead, Synthesis, P-I5). Do **not** edit [arguments/many-worlds-argument.md](/arguments/many-worlds-argument/) — it is already correct, and it is over its hard ceiling and blocked on an open human length decision.
+- **Recommendation**: Restore the source's per-argument scoping in all four loci (thesis, lead, Synthesis, [P-I5](/positions/individuation-and-subjecthood/#p-i5)). Do **not** edit [arguments/many-worlds-argument.md](/arguments/many-worlds-argument/) — it is already correct, and it is over its hard ceiling and blocked on an open human length decision.
 
 ### Issue 2: Against List the two other arguments are not "supplementary" — they are inapplicable, and that is worse
 
@@ -94,7 +94,7 @@ So "supplementary" is the wrong word in the charitable direction. Against List t
 
 ### Issue 3: Tenet 4's demand is stated two inequivalent ways, and each is used where it helps
 
-- **File**: `obsidian/apex/one-world-wager.md` §"What the Tenet Actually Demands" vs §"The Hardest Target"; mirrored in P-I5
+- **File**: `obsidian/apex/one-world-wager.md` §"What the Tenet Actually Demands" vs §"The Hardest Target"; mirrored in [P-I5](/positions/individuation-and-subjecthood/#p-i5)
 - **Severity**: **High**
 
 Two statements, one tenet name:
@@ -104,7 +104,7 @@ Two statements, one tenet name:
 
 These come apart precisely at the article's hardest target. List satisfies (a): one shared third-personal world, no alternative outcomes. List violates (b): many centred worlds, all real. And the article relies on each reading in a different place — (a) is what licenses Griffiths's consistent histories as a Tenet-4-satisfying ally and what fixes "what the tenet actually demands"; (b) is what makes List a target at all and what the modal-realism rejection is said to protect. The switch is never noticed, and it is doing the load-bearing work.
 
-The same equivocation is already in the register: P-I5's corollary says "Tenet 4 requires *global single-outcome actuality*", while its **Depends on** line says the case against centred variants rests on "the source of the **global-uniqueness** insistence". Both in one entry.
+The same equivocation is already in the register: [P-I5](/positions/individuation-and-subjecthood/#p-i5)'s corollary says "Tenet 4 requires *global single-outcome actuality*", while its **Depends on** line says the case against centred variants rests on "the source of the **global-uniqueness** insistence". Both in one entry.
 
 Note also that §"A Tenet Partly Generated by a Question" identifies Tenet 4 with List's quadrilemma horn 4, whose wording (confirmed in `topics/vertiginous-question` L104 and List's abstract) is "reality consists of one world, not many" — a claim about *worlds*, not outcomes. So the quadrilemma placement commits the Map to (b), the strictly stronger reading, while §"What the Tenet Actually Demands" advertises (a) as the careful statement.
 
@@ -125,9 +125,9 @@ Against three other passages in the same article:
 
 (3) is right; the Evidence section widened "not from within Tenet 4" to "does not presuppose the tenets", which (1) and (2) refute. The indexical argument needs the vertiginous question to be a datum; Tenet 1 supplies that; so the argument presupposes a tenet.
 
-This matters more than a wording slip because of where it sits. The Evidence-and-Dependency section closes with "Coherence among tenet-derived clauses contributes no independent weight, and this synthesis claims none for it." Mislabelling the Map's *central* objection as tenet-independent is exactly the double-count that sentence promises to prevent. The register is more honest than the apex here: P-I2's discussion calls this an "architectural inversion" and records that Tenet 4's principal argument is supplied by the register rather than the other way round.
+This matters more than a wording slip because of where it sits. The Evidence-and-Dependency section closes with "Coherence among tenet-derived clauses contributes no independent weight, and this synthesis claims none for it." Mislabelling the Map's *central* objection as tenet-independent is exactly the double-count that sentence promises to prevent. The register is more honest than the apex here: [P-I2](/positions/individuation-and-subjecthood/#p-i2)'s discussion calls this an "architectural inversion" and records that Tenet 4's principal argument is supplied by the register rather than the other way round.
 
-- **Recommendation**: Replace with the accurate scoping — "argued without presupposing Tenet 4, but resting on the first-person realism Tenet 1 supplies and on a non-deflationary subject defended in the agency cluster; it therefore contributes no weight independent of Tenet 1." Cross-reference P-I2, which already says this.
+- **Recommendation**: Replace with the accurate scoping — "argued without presupposing Tenet 4, but resting on the first-person realism Tenet 1 supplies and on a non-deflationary subject defended in the agency cluster; it therefore contributes no weight independent of Tenet 1." Cross-reference [P-I2](/positions/individuation-and-subjecthood/#p-i2), which already says this.
 
 ### Issue 5: The dependency audit silently omits one of the three arguments it is auditing
 
@@ -172,7 +172,7 @@ The indexical argument's datum is "you find yourself in exactly one" — a *repo
 
 ### The Quantum Skeptic (Tegmark)
 
-Unusually careful — no decoherence-timescale argument is run against Everett, correctly, since einselection is conceded to both sides. But the concession bites harder than admitted. If einselection is granted, the Map's post-decoherence selection programme needs that same machinery to deliver a definite outcome, and the register's P-Q10 records that no worked toy model exists. So the "symmetric debt" is not symmetric in *maturity*: Everett has derivations that are contested (Mandolesi, Dawid–Friederich), the Map has none to contest. The article's own structural asymmetry argument — "collapse readings postulate the Born rule honestly, while Everett must earn it" — cuts back, because postulating is cheaper than deriving and the Map has not shown its postulate is compatible with a selecting consciousness.
+Unusually careful — no decoherence-timescale argument is run against Everett, correctly, since einselection is conceded to both sides. But the concession bites harder than admitted. If einselection is granted, the Map's post-decoherence selection programme needs that same machinery to deliver a definite outcome, and the register's [P-Q10](/positions/quantum-interface/#p-q10) records that no worked toy model exists. So the "symmetric debt" is not symmetric in *maturity*: Everett has derivations that are contested (Mandolesi, Dawid–Friederich), the Map has none to contest. The article's own structural asymmetry argument — "collapse readings postulate the Born rule honestly, while Everett must earn it" — cuts back, because postulating is cheaper than deriving and the Map has not shown its postulate is compatible with a selecting consciousness.
 
 ### The Many-Worlds Defender (Deutsch)
 
@@ -180,7 +180,7 @@ Issue 3 is my opening. If Tenet 4's demand is single-outcome actuality, then Eve
 
 ### The Empiricist (Popper's Ghost)
 
-Check the shift conditions. P-I5's three "Would shift if" triggers are all internal: an argument extended, an ontology shown incoherent, a charge answered from inside. Not one is empirical. The article's "wager" language promises a comparative bet; a bet with no state of the world that settles it is a preference. And the section that grades evidential standing rates only one item as "externally evidenced" — the Everettian probability disputes — which is to say the only external evidence in the registration is a controversy inside the *opponent's* literature about whether the opponent's derivation works.
+Check the shift conditions. [P-I5](/positions/individuation-and-subjecthood/#p-i5)'s three "Would shift if" triggers are all internal: an argument extended, an ontology shown incoherent, a charge answered from inside. Not one is empirical. The article's "wager" language promises a comparative bet; a bet with no state of the world that settles it is a preference. And the section that grades evidential standing rates only one item as "externally evidenced" — the Everettian probability disputes — which is to say the only external evidence in the registration is a controversy inside the *opponent's* literature about whether the opponent's derivation works.
 
 ### The Buddhist Philosopher (Nagarjuna)
 

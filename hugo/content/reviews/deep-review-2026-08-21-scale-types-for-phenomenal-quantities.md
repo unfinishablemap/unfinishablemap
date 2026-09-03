@@ -33,7 +33,7 @@ the physicalist denial of that premise is named and costed, and the Site Perspec
 section declines the convergence upgrade outright: "the formal impossibility is
 consistent with irreducibility without upgrading it." The article also states in its
 own voice that the scale-type analysis "formalises the calibration argument rather
-than independently proving it," which is the P-M2 convergence discount applied
+than independently proving it," which is the [P-M2](/positions/methodology-and-calibration/#p-m2) convergence discount applied
 unprompted. A tenet-accepting reviewer would not flag any claim as overstated.
 
 ### Publisher-of-Record Citation Ledger (§2.4)

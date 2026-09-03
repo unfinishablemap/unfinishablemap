@@ -415,7 +415,7 @@ none of this review's criticism is aimed at superseded text served at a preserve
 
 **Already disclaimed — do not mint.** The review's Horn-Two attack, that primitive
 thisness is an ungrounded further fact, is already conceded by
-[P-I1](/positions/individuation-and-subjecthood/), which calls closed individualism
+[P-I1](/positions/individuation-and-subjecthood/#p-i1), which calls closed individualism
 "tenet-driven rather than empirically compelled", grades the external evidence D, and
 routes the ground of subject boundaries to the individuation void as "a problem dualism
 must acknowledge rather than solve" (the recurring shape in which a reviewer attacks a mechanism the positions register already declines).

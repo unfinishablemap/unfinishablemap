@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-09-02T08:04:58.338953'
+ai_modified: '2026-09-03T16:22:04.254824'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-09-02'
+modified: '2026-09-03'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-09-03: Bell Coined 'FAPP' as an Accusation. It Became a Defence.
+
+Decoherence leaves a system in an improper mixture: nothing has picked an outcome. The standard shrug is 'for all practical purposes'. Bell coined FAPP as an accusation, not a defence. New page audits how much weight the distinction can honestly carry.
+
+**Type**: new-article  
+**Link**: [[improper-vs-proper-mixtures]]
+
+---
+
 ### 2026-09-02: We Named the Test That Could Break Our Memory Claim
 
 You once relived your first day of school; now you just know it happened. The Map staked a falsifier on that fade: if felt pastness grades away smoothly, its memory claim loses. New article scores the test — the category has graded, but the decisive measurement is still unmade.
@@ -190,15 +199,6 @@ Popular science says every act of recall rewrites the memory. The evidence is na
 
 **Type**: refinement  
 **Link**: [[episodic-memory]]
-
----
-
-### 2026-08-04: Nobody Has Proved Anyone Lacks an Inner Voice
-
-Anendophasia, the claimed absence of inner speech, is under live dispute, and the coiners now concede their data show a continuum rather than a demonstrated zero. The sturdier finding is stranger: explicit thought regularly occurs with no words or images at all.
-
-**Type**: new-article  
-**Link**: [[inner-speech-and-anendophasia]]
 
 ---
 

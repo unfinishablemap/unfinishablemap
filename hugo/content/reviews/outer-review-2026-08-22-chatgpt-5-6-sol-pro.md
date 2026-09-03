@@ -385,7 +385,7 @@ Neural recovery preceding behavioural recovery is redescribed as the brain prepa
 
 The article concedes that anaesthesia alone does not discriminate, then appeals to convergence with contemplative pathology, lesions, psychogenic dissociation, near-death reports and terminal lucidity. But those cases share report, interpretation and framework dependencies. Unless their evidential independence is demonstrated, adding them yields framework coherence rather than a cumulative likelihood advantage.
 
-The Map’s own P-M2 says precisely that convergence must remain compatibility-and-cumulative-fit until a distinguishing test is passed.
+The Map’s own [P-M2](/positions/methodology-and-calibration/#p-m2) says precisely that convergence must remain compatibility-and-cumulative-fit until a distinguishing test is passed.
 
 # 8. Relation to the five tenets
 
@@ -417,7 +417,7 @@ The finding that emergence is complex defeats only the simple claim that recover
 
 ## The positions register is better calibrated than the subject article
 
-P-CS4 says that the interface reading is:
+[P-CS4](/positions/consciousness-scope/#p-cs4) says that the interface reading is:
 
 - compatible with, but not forced by, anaesthesia and related evidence;
 - held against a live production-model rival;
@@ -429,7 +429,7 @@ The subject article conflicts with this in two ways:
 1. its lead presents interface architecture as something pharmacology has revealed and the Map predicted exactly;
 2. its tenet section connects the result to microtubule quantum processes, stochastic quantum emergence and bidirectional interaction.
 
-The article’s late underdetermination paragraph aligns with P-CS4. Its opening and tenet synthesis do not.
+The article’s late underdetermination paragraph aligns with [P-CS4](/positions/consciousness-scope/#p-cs4). Its opening and tenet synthesis do not.
 
 ## *The Interface Problem* is more epistemically disciplined
 
@@ -453,12 +453,12 @@ The article therefore contains the right methodological conclusion and a recurri
 
 The article violates four explicit positions:
 
-- **P-M1:** tenets may remove a defeater but may not raise the empirical evidence level;
-- **P-M2:** convergence remains coherence until a distinguishing test is passed;
-- **P-M3:** load-bearing sources must be verified at publisher of record and assigned their proper evidential weight;
-- **P-M4:** article title, description and lead must be calibrated down to the conditional actually defended in the body.
+- **[P-M1](/positions/methodology-and-calibration/#p-m1):** tenets may remove a defeater but may not raise the empirical evidence level;
+- **[P-M2](/positions/methodology-and-calibration/#p-m2):** convergence remains coherence until a distinguishing test is passed;
+- **[P-M3](/positions/methodology-and-calibration/#p-m3):** load-bearing sources must be verified at publisher of record and assigned their proper evidential weight;
+- **[P-M4](/positions/methodology-and-calibration/#p-m4):** article title, description and lead must be calibrated down to the conditional actually defended in the body.
 
-P-M5 openly recognises the site-wide problem this article exemplifies: documenting a discipline is not the same as enforcing it.
+[P-M5](/positions/methodology-and-calibration/#p-m5) openly recognises the site-wide problem this article exemplifies: documenting a discipline is not the same as enforcing it.
 
 # 10. Overall assessment
 
@@ -518,7 +518,7 @@ The appropriate evidential classification is:
 20. **Replace “production theory” with named rivals.** Do not attribute a scalar generator model to physicalism generally. State separately what GNW, IIT, DIT, predictive processing and dynamical-systems theories predict.
 21. **Remove the Many Worlds paragraph.** Anaesthetic phenomenology offers no apparent discrimination among interpretations of quantum mechanics.
 22. **Quarantine the quantum-interface discussion.** Place it under a visibly speculative heading and state that none of the anaesthetic studies detects consciousness-dependent quantum outcome selection.
-23. **Align the article explicitly with P-CS4.** Say that the interface reading is Grade-C-compatible, not forced, and that the anaesthesia case does not depend on the quantum apparatus.
+23. **Align the article explicitly with [P-CS4](/positions/consciousness-scope/#p-cs4).** Say that the interface reading is Grade-C-compatible, not forced, and that the anaesthesia case does not depend on the quantum apparatus.
 24. **Cascade the factual corrections into *Filter Theory of Consciousness*.** In particular, remove the unsupported temporal-binding claim and replace phenomenal-extinction language with report-sensitive wording.
 25. **Cascade the same corrections into *Consciousness Disruption and the Mind–Brain Interface*.** Its global caveat is appropriate, but the local propofol and materialist-prediction claims remain overstated.
 26. **Use *The Interface Problem* as the controlling neighbouring article.** The anaesthesia article should inherit its admission that prior Map commitments, not a rival-discriminating measurement, select the interface interpretation.
@@ -526,12 +526,12 @@ The appropriate evidential classification is:
 28. **Require ex-ante interface predictions.** Before a new drug or perturbation is interpreted, specify which proposed channel should be affected, which capacities should remain, the expected dose-response and what result would count against the model.
 29. **Create a source-role ledger for every load-bearing reference:** source’s own thesis, Map’s use, whether the authors would accept the Map’s conclusion, and which dualist premise carries the inferential gap.
 30. **Distinguish evidence classes in the bibliography:** primary human experiment, animal experiment, modelling study, narrative review, theory article and historical source.
-31. **Automate P-M3 checks** for author, title, venue, year, volume, pages/article number and DOI. The Masi/Moncrieff error should be mechanically catchable.
-32. **Automate P-M4 frame checks** that flag categorical words such as “reveals,” “maps,” “predicts exactly,” and “discriminating evidence” when the same article later concedes empirical underdetermination.
+31. **Automate [P-M3](/positions/methodology-and-calibration/#p-m3) checks** for author, title, venue, year, volume, pages/article number and DOI. The Masi/Moncrieff error should be mechanically catchable.
+32. **Automate [P-M4](/positions/methodology-and-calibration/#p-m4) frame checks** that flag categorical words such as “reveals,” “maps,” “predicts exactly,” and “discriminating evidence” when the same article later concedes empirical underdetermination.
 33. **Add a no-report audit gate** for anaesthesia, sleep, disorders-of-consciousness and cessation articles: every inference from absent report to absent experience must separately address encoding, consolidation, retrieval and communication.
 34. **Distinguish substantive modification dates from integration-only timestamp bumps.** Backlinks and Further Reading edits should not make an article appear scientifically re-reviewed.
 35. **Treat the 13 August change as integration-only in the article history**, and schedule a genuine deep review incorporating the report-latency finding already identified in the 16 August changelog.
-36. **Enforce P-M5 rather than merely citing it.** Publication validation should fail when a current article contains a nonexistent reference, a false experimental attribution, a denominator error in a headline result, or a categorical lead contradicted by its own limitations section.
+36. **Enforce [P-M5](/positions/methodology-and-calibration/#p-m5) rather than merely citing it.** Publication validation should fail when a current article contains a nonexistent reference, a false experimental attribution, a denominator error in a headline result, or a categorical lead contradicted by its own limitations section.
 
 ## Verification Notes
 
@@ -551,9 +551,9 @@ Every span the review attributes to `topics/anaesthesia-and-the-consciousness-in
 
 The review's improvement #24 asks that the Parnia correction be cascaded into `concepts/filter-theory`. It should not be: **filter-theory L102 already states the statistic correctly** — "among the small subset who completed interviews (28 of 567 cardiac arrest patients), 39% reported some form of conscious awareness during arrest—a self-selected sample that cannot be generalized to all survivors." That article is the model, not a propagation target. Its L88 likewise already uses the report-sensitive wording ("abolished *reported* experience") the review asks for. Its genuine share of the finding is narrower: L90 repeats the four-component taxonomy including the uncited temporal-binding channel. Corpus sweep across `obsidian/`, `hugo/` and `archive/` put the bad Parnia phrasing in the subject article and its hugo mirror only.
 
-### P-CS4 checked verbatim and the review is correct
+### [P-CS4](/positions/consciousness-scope/#p-cs4) checked verbatim and the review is correct
 
-All four of the review's sub-claims about P-CS4 hold word-for-word at [positions/consciousness-scope.md](/positions/consciousness-scope/) L79: grade C, "compatible with — not forced by", "held against a live production-model rival", and "Its dependency burden is the bare-dualism spine plus the filter model, *not* the quantum apparatus". P-CS4's **Argued in** field names this article. The register is better calibrated than the article's navigation surfaces, exactly as reported.
+All four of the review's sub-claims about [P-CS4](/positions/consciousness-scope/#p-cs4) hold word-for-word at [positions/consciousness-scope.md](/positions/consciousness-scope/) L79: grade C, "compatible with — not forced by", "held against a live production-model rival", and "Its dependency burden is the bare-dualism spine plus the filter model, *not* the quantum apparatus". [P-CS4](/positions/consciousness-scope/#p-cs4)'s **Argued in** field names this article. The register is better calibrated than the article's navigation surfaces, exactly as reported.
 
 ### Omission findings checked against wikilink-blindness
 
@@ -565,4 +565,4 @@ The review's readings of Sarasso 2015, Casali 2013, Mashour 2021, Liem 2004, Red
 
 ### Tasks minted: two, deliberately
 
-One P1 (the three verified citation defects, with the research-note origin and the wrong cascade target corrected) and one P2 (lead/`description:`/Many Worlds calibration against P-CS4). The review's largest recommendation — a substantive strongest-rivals section — was **not** minted: the article stands at **3999 words against a 4000-word hard threshold**, so that expansion is blocked until the length-relieving edits land, and the Claude and Gemini legs are auditing this same subject today. Left for `/combine-outer-reviews` to raise on convergence. Restraint here is also a response to the live same-file pileup (`outer-review-same-file-task-pileup`).
+One P1 (the three verified citation defects, with the research-note origin and the wrong cascade target corrected) and one P2 (lead/`description:`/Many Worlds calibration against [P-CS4](/positions/consciousness-scope/#p-cs4)). The review's largest recommendation — a substantive strongest-rivals section — was **not** minted: the article stands at **3999 words against a 4000-word hard threshold**, so that expansion is blocked until the length-relieving edits land, and the Claude and Gemini legs are auditing this same subject today. Left for `/combine-outer-reviews` to raise on convergence. Restraint here is also a response to the live same-file pileup (`outer-review-same-file-task-pileup`).

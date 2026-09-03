@@ -60,11 +60,11 @@ None at critical severity in the body. One navigation-surface calibration seam (
 
 ### Counterarguments Considered
 - Empiricist (Popper): the discriminating test needed its nearest-evidence honesty — addressed via the De Martino addition
-- Physicalist / Eliminativist / value-blind mechanism-sufficiency: the article already concedes the steelman's parsimony advantage as genuine, holds the reply as prior-commitments (matching P-VS1's low-credence register entry) — bedrock, per prior reviews, not re-flagged
+- Physicalist / Eliminativist / value-blind mechanism-sufficiency: the article already concedes the steelman's parsimony advantage as genuine, holds the reply as prior-commitments (matching [P-VS1](/positions/value-in-selection/#p-vs1)'s low-credence register entry) — bedrock, per prior reviews, not re-flagged
 - MWI defender: the decision-theoretic branch-weight reconstruction is already conceded in the No-MWI paragraph — bedrock, not re-flagged
 
 ### Registry-vs-body calibration diff (new standing check)
-Checked against [value-in-selection](/positions/value-in-selection/). The article's stance matches P-VS1 (value-sensitive held on prior commitments at low credence, mechanism-sufficiency the rival to beat) and the 2026-08-18 Tenet-2 rewrite matches the register's 2026-08-17 correction (minimality as empirical corridor, not truth-tracking test; parsimony adjudication routed to Tenet 5). The only seam found was the frontmatter description (fixed, above). Thesis and body are aligned.
+Checked against [value-in-selection](/positions/value-in-selection/). The article's stance matches [P-VS1](/positions/value-in-selection/#p-vs1) (value-sensitive held on prior commitments at low credence, mechanism-sufficiency the rival to beat) and the 2026-08-18 Tenet-2 rewrite matches the register's 2026-08-17 correction (minimality as empirical corridor, not truth-tracking test; parsimony adjudication routed to Tenet 5). The only seam found was the frontmatter description (fixed, above). Thesis and body are aligned.
 
 ## Optimistic Analysis Summary
 

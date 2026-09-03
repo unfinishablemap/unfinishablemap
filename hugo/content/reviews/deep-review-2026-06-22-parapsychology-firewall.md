@@ -36,7 +36,7 @@ All five References entries web-verified at the publisher of record. The article
 
 Empirical-record currency sweep: no superlative claims detected (`find_superlative_claims` returned empty) — sub-step skipped correctly.
 
-Inline ↔ References cross-reference: all inline cites have References entries; no orphan References entries. All nine `[[wikilinks]]` and the `positions/quantum-interface` deep-links resolve to existing files. Corpus-position references (P-Q2 Born-statistics preservation, P-Q3 bias-without-deviation / strongest-live-challenge, P-Q7 no-signalling) all exist in [positions/quantum-interface.md](/positions/quantum-interface/) and are characterized faithfully. The two Tenet 2 quotes ("Not to be confused with..." and "Rules out: Uncontrolled psychokinesis, energy injection by mind...") are quoted accurately from [tenets/tenets.md](/tenets/).
+Inline ↔ References cross-reference: all inline cites have References entries; no orphan References entries. All nine `[[wikilinks]]` and the `positions/quantum-interface` deep-links resolve to existing files. Corpus-position references ([P-Q2](/positions/quantum-interface/#p-q2) Born-statistics preservation, [P-Q3](/positions/quantum-interface/#p-q3) bias-without-deviation / strongest-live-challenge, [P-Q7](/positions/quantum-interface/#p-q7) no-signalling) all exist in [positions/quantum-interface.md](/positions/quantum-interface/) and are characterized faithfully. The two Tenet 2 quotes ("Not to be confused with..." and "Rules out: Uncontrolled psychokinesis, energy injection by mind...") are quoted accurately from [tenets/tenets.md](/tenets/).
 
 ### Critical Issues Found
 - None. No factual error, no misattribution, no dropped qualifier, no internal contradiction, no missing section, no broken link, no citation defect. The article carries the required "Relation to Site Perspective" section.
@@ -58,7 +58,7 @@ The article is, if anything, a **model of slippage discipline**: it explicitly r
 
 ### Strengths Preserved
 - The central inversion ("the Map sits on the *unfavourable* side of any sensational parapsychological result") is a genuinely novel, well-argued framing that does real demarcation work for Tenet 2.
-- The three-constraint decomposition (Born-statistics preservation / no-signalling / content-confinement) is crisp and each constraint is correctly tied to an independent corpus commitment (P-Q2, P-Q7, the selection-only content-confinement limit).
+- The three-constraint decomposition (Born-statistics preservation / no-signalling / content-confinement) is crisp and each constraint is correctly tied to an independent corpus commitment ([P-Q2](/positions/quantum-interface/#p-q2), [P-Q7](/positions/quantum-interface/#p-q7), the selection-only content-confinement limit).
 - The honest-cost paragraph ("The Map owns both edges" — firewall protects against the force-picture failure but exposes the idleness/ensemble-epiphenomenalism failure) is exactly the calibration honesty the corpus prizes.
 - Front-loaded summary with named-anchor forward reference; substantive "Relation to Site Perspective." Style-guide compliant. Length 1654 words (55% of 3000 target) — healthy headroom, no condensation pressure.
 

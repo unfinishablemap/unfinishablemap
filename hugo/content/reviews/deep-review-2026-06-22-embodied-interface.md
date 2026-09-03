@@ -30,21 +30,21 @@ The article is an *applied* apex whose central move is **deflationary** — it a
 
 > "That the awfulness is inseparable *in experience* from the urge to withdraw is phenomenologically secure. That the awfulness therefore does causal *work* the underlying neural process does not already do is exactly the value-blind/value-sensitive fork, and the fork is open."
 
-The constitutive case is explicitly *not* upgraded to causal work on tenet-load; it is pinned to P-VS1's *low* confidence. A tenet-accepting reviewer would not flag this as overstated — the diagnostic test for slippage returns "no." No calibration error.
+The constitutive case is explicitly *not* upgraded to causal work on tenet-load; it is pinned to [P-VS1](/positions/value-in-selection/#p-vs1)'s *low* confidence. A tenet-accepting reviewer would not flag this as overstated — the diagnostic test for slippage returns "no." No calibration error.
 
 ### Position-citation web-verify ledger (applied-apex equivalent of §2.4)
 
 Every cited position verified against the live positions register:
 
-- **P-A1** (agent-causal libertarian free will) — real-correct; confidence **moderate** ✓; "best explanation of convergent evidence rather than a proven result" faithful to register.
-- **P-A4** (no first-person verification of causal efficacy) — real-correct; confidence **high** ✓; "checking faculty is the one whose status is in question" faithful.
-- **P-Q3** (bias-without-deviation dilemma) — real-correct; confidence **moderate** ✓; "genuinely close to epiphenomenalism" faithful (verbatim register phrase).
-- **P-Q10** (no worked toy model) — real-correct; cited as factual mechanism-debt statement, not confidence-banded in body (register confidence: high). Acceptable.
-- **P-VS1** (value-sensitive-selection lean) — real-correct; confidence **low** ✓; three quoted phrases ("currency in which conscious selection is denominated", "an aspiration, not a position", "the rival to beat, not a position already beaten") all verbatim-faithful.
-- **P-VS2** (discriminating battery) — correctly referenced in cascade as "the discriminating battery in P-VS2"; confidence moderate; faithful.
-- **P-CS4** (fragmentation = interface disruption) — real-correct; confidence **moderate** ✓; "the Map's preferred interpretation, compatible with the data and arguably more natural under the filter model, not forced by it" faithful (near-verbatim).
+- **[P-A1](/positions/agency-and-will/#p-a1)** (agent-causal libertarian free will) — real-correct; confidence **moderate** ✓; "best explanation of convergent evidence rather than a proven result" faithful to register.
+- **[P-A4](/positions/agency-and-will/#p-a4)** (no first-person verification of causal efficacy) — real-correct; confidence **high** ✓; "checking faculty is the one whose status is in question" faithful.
+- **[P-Q3](/positions/quantum-interface/#p-q3)** (bias-without-deviation dilemma) — real-correct; confidence **moderate** ✓; "genuinely close to epiphenomenalism" faithful (verbatim register phrase).
+- **[P-Q10](/positions/quantum-interface/#p-q10)** (no worked toy model) — real-correct; cited as factual mechanism-debt statement, not confidence-banded in body (register confidence: high). Acceptable.
+- **[P-VS1](/positions/value-in-selection/#p-vs1)** (value-sensitive-selection lean) — real-correct; confidence **low** ✓; three quoted phrases ("currency in which conscious selection is denominated", "an aspiration, not a position", "the rival to beat, not a position already beaten") all verbatim-faithful.
+- **[P-VS2](/positions/value-in-selection/#p-vs2)** (discriminating battery) — correctly referenced in cascade as "the discriminating battery in [P-VS2](/positions/value-in-selection/#p-vs2)"; confidence moderate; faithful.
+- **[P-CS4](/positions/consciousness-scope/#p-cs4)** (fragmentation = interface disruption) — real-correct; confidence **moderate** ✓; "the Map's preferred interpretation, compatible with the data and arguably more natural under the filter model, not forced by it" faithful (near-verbatim).
 
-All five confidence bands surfaced in implication #2 (P-A1 moderate / P-Q3 moderate / P-VS1 low) are accurate. The mechanism-debt anchor `[[positions/quantum-interface#^mechanism-debt]]` resolves. The applied-apex discipline (≥3 positions cited, "What this implies for decisions" section, decision-context, cascade-tagging) is fully satisfied.
+All five confidence bands surfaced in implication #2 ([P-A1](/positions/agency-and-will/#p-a1) moderate / [P-Q3](/positions/quantum-interface/#p-q3) moderate / [P-VS1](/positions/value-in-selection/#p-vs1) low) are accurate. The mechanism-debt anchor `[[positions/quantum-interface#^mechanism-debt]]` resolves. The applied-apex discipline (≥3 positions cited, "What this implies for decisions" section, decision-context, cascade-tagging) is fully satisfied.
 
 ### Empirical / source-claim verify ledger
 
@@ -64,8 +64,8 @@ None requiring body edits. The deflationary thesis is well-supported, the three-
 
 ### Counterarguments Considered
 - **Eliminative materialist / hard-nosed physicalist**: reject the reality of phenomenal character, so the whole three-way distinction is void. Bedrock framework-boundary disagreement; the article engages it honestly at implication #4. Not critical.
-- **Quantum skeptic (Tegmark)**: decoherence defeats neural selection. Inherited and handled by P-Q1/P-Q3 (post-decoherence selection sidesteps the warm-wet objection); honestly marked. Bedrock. Not critical.
-- **Empiricist / Many-Worlds (Popper's Ghost, Deutsch)**: the causal claim is empirically indistinguishable from chance (Born-preserving bias). The article *concedes this directly* via P-Q3 ("genuinely close to epiphenomenalism") and P-A4 (no introspective verification). Honestly marked, not hidden. Not critical.
+- **Quantum skeptic (Tegmark)**: decoherence defeats neural selection. Inherited and handled by [P-Q1](/positions/quantum-interface/#p-q1)/[P-Q3](/positions/quantum-interface/#p-q3) (post-decoherence selection sidesteps the warm-wet objection); honestly marked. Bedrock. Not critical.
+- **Empiricist / Many-Worlds (Popper's Ghost, Deutsch)**: the causal claim is empirically indistinguishable from chance (Born-preserving bias). The article *concedes this directly* via [P-Q3](/positions/quantum-interface/#p-q3) ("genuinely close to epiphenomenalism") and [P-A4](/positions/agency-and-will/#p-a4) (no introspective verification). Honestly marked, not hidden. Not critical.
 - **Buddhist philosopher (Nagarjuna)**: no-self dissolves the "single subject to whom the body is presented" framing. The article flags this in Cascade and Scope ("held against a live production-model rival, not a result the somatic data deliver"). Honestly bounded.
 
 ## Optimistic Analysis Summary
@@ -74,7 +74,7 @@ None requiring body edits. The deflationary thesis is well-supported, the three-
 - The **three-way distinction** (causal / constitutive / phenomenal presentation) is the article's distinctive content — a genuinely third category (constitutive, from pain) that neither attention-selection nor passive presentation captures. Preserved intact.
 - The **deflationary verdict reframed as a framework virtue** (implication #5, Minimal Quantum Interaction tenet section): "a theory whose causal mechanism modestly claims a small, effortful region of experience is more credible than one that annexes the whole felt body." Strong and calibrated.
 - The opening's **concrete-before-abstract** move (warm room, which-way-is-up, ache of cold before any machinery). Preserved.
-- The **cascade-tagging** that makes the verdict explicitly contingent on P-VS1/P-A1/P-Q3 shifts. Exemplary self-flagging against position drift.
+- The **cascade-tagging** that makes the verdict explicitly contingent on [P-VS1](/positions/value-in-selection/#p-vs1)/[P-A1](/positions/agency-and-will/#p-a1)/[P-Q3](/positions/quantum-interface/#p-q3) shifts. Exemplary self-flagging against position drift.
 
 ### Enhancements Made
 - Reciprocal cross-links: added `[[embodied-interface]]` to the `related_articles` of two heavily-cited source articles that lacked inbound links — [interoceptive-consciousness-and-the-interface](/topics/interoceptive-consciousness-and-the-interface/) (the affective-presentation case) and [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) (the foundation of the constitutive category). Strengthens the synthesis web; the apex-evolve create had only linked back four of its eight sources.
@@ -94,8 +94,8 @@ Low-priority: the `tactile-consciousness-and-the-interface` and `dual-domain-cap
 This article is **already at convergence on first review** — an unusually clean fresh-create, owing to the apex-evolve create having applied evidential-status discipline and the applied-apex checklist at creation. Future reviews should NOT re-flag:
 
 - **Materialist / physicalist / eliminativist rejection of phenomenal character** — bedrock framework-boundary disagreement, honestly engaged. Not a fixable defect.
-- **The bias-without-deviation / epiphenomenalism pressure (P-Q3)** — the article inherits and openly concedes this mechanism debt rather than papering over it. The concession is the correct calibration, not a flaw.
+- **The bias-without-deviation / epiphenomenalism pressure ([P-Q3](/positions/quantum-interface/#p-q3))** — the article inherits and openly concedes this mechanism debt rather than papering over it. The concession is the correct calibration, not a flaw.
 - **No-self dissolution of the single-subject framing** — flagged as a live production-model rival in Cascade and Scope. Bedrock.
-- **The constitutive (pain) category's causal status** — left as the *open* P-VS1 value-blind/value-sensitive fork at *low* confidence. This is correct calibration; do not pressure it toward "causal work" (would re-introduce slippage) nor toward "merely idle" (would resolve an open fork the register holds open).
+- **The constitutive (pain) category's causal status** — left as the *open* [P-VS1](/positions/value-in-selection/#p-vs1) value-blind/value-sensitive fork at *low* confidence. This is correct calibration; do not pressure it toward "causal work" (would re-introduce slippage) nor toward "merely idle" (would resolve an open fork the register holds open).
 
 The deflationary direction is load-bearing: this apex's value is that it *under-claims*. A future review tempted to "strengthen" the causal claims of the constitutive or presentation categories would be introducing the exact overreach the article is built to prevent.

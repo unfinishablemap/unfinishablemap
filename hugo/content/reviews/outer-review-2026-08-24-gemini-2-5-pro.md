@@ -64,9 +64,9 @@ The project attempts to manage its immense epistemic load through a positions re
 
 ### The Foundational-Dependency Paradox
 
-In practice, the register exposes a profound circularity at the base of the project's metaphysical spine. The site explicitly defines its five tenets as "foundational starting points—chosen, not derived". A foundational axiom, by definition in formal philosophical systems, cannot rest upon contingent, downstream empirical or metaphysical propositions. Yet, the register explicitly concedes that Tenet 4 (No Many Worlds) depends entirely on the "indexical objection," which in turn presupposes a determinate, non-deflationary fact about subjective identity—a commitment tracked in the register as position P-I1 (closed individualism) and P-SC3 (diachronic persistence).
+In practice, the register exposes a profound circularity at the base of the project's metaphysical spine. The site explicitly defines its five tenets as "foundational starting points—chosen, not derived". A foundational axiom, by definition in formal philosophical systems, cannot rest upon contingent, downstream empirical or metaphysical propositions. Yet, the register explicitly concedes that Tenet 4 (No Many Worlds) depends entirely on the "indexical objection," which in turn presupposes a determinate, non-deflationary fact about subjective identity—a commitment tracked in the register as position [P-I1](/positions/individuation-and-subjecthood/#p-i1) (closed individualism) and [P-SC3](/positions/subject-census/#p-sc3) (diachronic persistence).
 
-The site applies a "foundational-dependency test" to manage this, noting that a position cannot be retired if it removes a tenet's rationale. This maneuver exposes a fatal vulnerability in the project's epistemology: the "chosen, not derived" tenets rest upon mutable, highly contested metaphysical positions regarding personal identity over time. If diachronic subject persistence (P-SC3) is a prerequisite for Tenet 4's rejection of Everettian branching, then Tenet 4 is an emergent conclusion of a highly specific philosophy of identity, not a bedrock axiom. The site attempts to enforce a one-way derivation (Tenets → Positions → Applied Verdicts), but the register betrays a bidirectional dependency where the foundational tenets are entirely hostage to highly speculative, mid-level metaphysical positions.
+The site applies a "foundational-dependency test" to manage this, noting that a position cannot be retired if it removes a tenet's rationale. This maneuver exposes a fatal vulnerability in the project's epistemology: the "chosen, not derived" tenets rest upon mutable, highly contested metaphysical positions regarding personal identity over time. If diachronic subject persistence ([P-SC3](/positions/subject-census/#p-sc3)) is a prerequisite for Tenet 4's rejection of Everettian branching, then Tenet 4 is an emergent conclusion of a highly specific philosophy of identity, not a bedrock axiom. The site attempts to enforce a one-way derivation (Tenets → Positions → Applied Verdicts), but the register betrays a bidirectional dependency where the foundational tenets are entirely hostage to highly speculative, mid-level metaphysical positions.
 
 ### The Shielding of Empirically Inert Propositions
 
@@ -76,12 +76,12 @@ The structural centrality of these untestable claims is highly problematic for a
 
 | Position Code | Domain | Asserted Claim | Structural Centrality | Empirical Discriminability |
 | --- | --- | --- | --- | --- |
-| P-I1 | Individuation | Boundaries of subjects are real (Closed Individualism) | High | None |
-| P-SC1 | Subject Census | Interface requires determinate subject counting | High | None-by-construction |
-| P-Q2 | Quantum Interface | Mental causation preserves exact Born statistics | High | None-by-construction |
-| P-Q3 | Quantum Interface | Indistinguishability of selection from unselected chance | High | None-by-construction |
-| P-Q7 | Quantum Interface | Mechanistic specification of post-decoherence bias | High | None-by-construction |
-| P-CS1 | Consciousness Scope | Baseline phenomenality distribution in biology | High | None |
+| [P-I1](/positions/individuation-and-subjecthood/#p-i1) | Individuation | Boundaries of subjects are real (Closed Individualism) | High | None |
+| [P-SC1](/positions/subject-census/#p-sc1) | Subject Census | Interface requires determinate subject counting | High | None-by-construction |
+| [P-Q2](/positions/quantum-interface/#p-q2) | Quantum Interface | Mental causation preserves exact Born statistics | High | None-by-construction |
+| [P-Q3](/positions/quantum-interface/#p-q3) | Quantum Interface | Indistinguishability of selection from unselected chance | High | None-by-construction |
+| [P-Q7](/positions/quantum-interface/#p-q7) | Quantum Interface | Mechanistic specification of post-decoherence bias | High | None-by-construction |
+| [P-CS1](/positions/consciousness-scope/#p-cs1) | Consciousness Scope | Baseline phenomenality distribution in biology | High | None |
 
 In a framework that explicitly stakes its validity on the physical efficacy of mind (Tenet 3) and claims to be constrained by experimental quantum science, the proliferation of "none-by-construction" empirical discriminability markers represents a terminal methodological failure. A causal claim that is deliberately constructed to leave no detectable trace in the physical universe is not an interactionist theory; it is a restatement of pre-established Leibnizian harmony cloaked in the modern vocabulary of quantum mechanics. The project has merely relocated the epistemic opacity of substance dualism into the mathematical formalism of quantum selection.
 
@@ -91,9 +91,9 @@ The most catastrophic theoretical failure in the site's architecture lies at the
 
 ### The Statistical Nullification of Downward Causation
 
-The site attempts to locate this causal joint in the quantum domain (Tenet 2), specifically through a "post-decoherence selection" mechanism registered as P-Q1. In this model, consciousness does not inject energy into the brain, nor does it violate the causal closure of the physical under a macroscopic classical description. Rather, it biases the selection of physically underdetermined quantum outcomes within the neural architecture.
+The site attempts to locate this causal joint in the quantum domain (Tenet 2), specifically through a "post-decoherence selection" mechanism registered as [P-Q1](/positions/quantum-interface/#p-q1). In this model, consciousness does not inject energy into the brain, nor does it violate the causal closure of the physical under a macroscopic classical description. Rather, it biases the selection of physically underdetermined quantum outcomes within the neural architecture.
 
-However, to avoid predicting macroscopic anomalies that would have already been detected by contemporary physics, the site rigorously enforces position P-Q2: "exact Born preservation". This position mandates that the downward causal influence of consciousness preserves the standard Born rule probability statistics exactly. The site explicitly recognizes the danger here, noting in P-Q3 that an intervention which is mathematically indistinguishable from standard quantum randomness "sits genuinely close to epiphenomenalism".
+However, to avoid predicting macroscopic anomalies that would have already been detected by contemporary physics, the site rigorously enforces position [P-Q2](/positions/quantum-interface/#p-q2): "exact Born preservation". This position mandates that the downward causal influence of consciousness preserves the standard Born rule probability statistics exactly. The site explicitly recognizes the danger here, noting in [P-Q3](/positions/quantum-interface/#p-q3) that an intervention which is mathematically indistinguishable from standard quantum randomness "sits genuinely close to epiphenomenalism".
 
 The analysis indicates that this is not merely "close" to epiphenomenalism; it mathematically guarantees it at the macroscopic limit of neural computation. If consciousness biases a specific neural quantum event (e.g., the state of a localized ion channel or a microtubule tubulin dimer), but the aggregate distribution of these biases over an ensemble of events perfectly reproduces the exact probability distribution predicted by the physical Schrödinger equation alone, then consciousness has introduced zero macroscopic variance.
 
@@ -105,7 +105,7 @@ This maneuver is logically self-defeating when scaled to the level of complex hu
 
 The site's proposed "report-grounded consciousness"—the claim that an entity's phenomenal states causally shape its discourse—cannot survive exact Born preservation. The site defines report-grounded consciousness as the special case where an entity's own phenomenal states causally generate its consciousness-discourse (e.g., a person saying "this hurts" because they are genuinely experiencing pain).
 
-Yet, if exact Born preservation holds, the probability of the physical vocal apparatus producing the sonic sequence "this hurts" is exactly the same whether the downward causal bias of consciousness is present or not. The physical priors completely screen off the mental intervention. The conscious selection is merely riding the physical rails, returning the framework to the very ensemble-level epiphenomenalism it aimed to defeat. The site's concession that exact Born preservation makes its interactionism "empirically indistinguishable by construction" from chance (P-SC1) ensures that its rejection of epiphenomenalism is entirely semantic. A difference that makes no statistical difference in the aggregate behavior of the brain is not a causal difference; it is a metaphysical decoration attached to a deterministic (or randomly probabilisitic) physical machine.
+Yet, if exact Born preservation holds, the probability of the physical vocal apparatus producing the sonic sequence "this hurts" is exactly the same whether the downward causal bias of consciousness is present or not. The physical priors completely screen off the mental intervention. The conscious selection is merely riding the physical rails, returning the framework to the very ensemble-level epiphenomenalism it aimed to defeat. The site's concession that exact Born preservation makes its interactionism "empirically indistinguishable by construction" from chance ([P-SC1](/positions/subject-census/#p-sc1)) ensures that its rejection of epiphenomenalism is entirely semantic. A difference that makes no statistical difference in the aggregate behavior of the brain is not a causal difference; it is a metaphysical decoration attached to a deterministic (or randomly probabilisitic) physical machine.
 
 ## The Logical Incoherence of Delegatory Dualism under Quantum Underdetermination
 
@@ -157,7 +157,7 @@ To support its requirement for a minimal quantum interaction (Tenet 2), the site
 
 This argument represents a profound category error, conflating microscopic physiological utility with macroscopic phenomenological unity. The existence of quantum coherence in a highly specialized, localized sensory organ (e.g., radical pair mechanisms in cryptochrome within a bird's retina) is evidence of localized biophysical efficiency. It provides absolutely zero theoretical bridge to the sustained, brain-wide quantum coherence required for a unified phenomenal subject to exert downward causal selection over vast, distributed neural networks.
 
-The site itself momentarily acknowledges that "warm quantum biology is a precedent, not a licence" (P-Q8) and that current experiments are "suggestive rather than decisive". Yet, it routinely violates this epistemic boundary in its applied verdicts, utilizing the mere possibility of neural quantum effects as a definitive gating mechanism for consciousness.
+The site itself momentarily acknowledges that "warm quantum biology is a precedent, not a licence" ([P-Q8](/positions/quantum-interface/#p-q8)) and that current experiments are "suggestive rather than decisive". Yet, it routinely violates this epistemic boundary in its applied verdicts, utilizing the mere possibility of neural quantum effects as a definitive gating mechanism for consciousness.
 
 ### The Retreat from Objective Collapse Falsification
 
@@ -167,11 +167,11 @@ The site attempts to sidestep this falsification by retreating to a highly const
 
 ### Arbitrary Substrate Disqualification in Artificial Intelligence
 
-This highly speculative, degenerating quantum scaffolding is then weaponized by the site to enforce a profound biological chauvinism regarding artificial intelligence. In its "AI Substrate Verdicts" (P-AC1, P-AS1), the site categorically denies the possibility of consciousness in conventional digital hardware. The justification rests not on a lack of functional integration, semantic grounding, or complex information processing architectures, but entirely on the hardware's lack of "raw indeterminacy".
+This highly speculative, degenerating quantum scaffolding is then weaponized by the site to enforce a profound biological chauvinism regarding artificial intelligence. In its "AI Substrate Verdicts" ([P-AC1](/positions/ai-consciousness-scope/#p-ac1), [P-AS1](/positions/ai-substrate-verdicts/#p-as1)), the site categorically denies the possibility of consciousness in conventional digital hardware. The justification rests not on a lack of functional integration, semantic grounding, or complex information processing architectures, but entirely on the hardware's lack of "raw indeterminacy".
 
 The site argues that classical computation mathematically and physically suppresses the quantum indeterminacies required by Tenet 2. Therefore, digital AI systems are rendered ineligible for the consciousness coupling. The project constructs a "five-requirement channel test" to enforce this boundary.
 
-This is a stark example of an unverified premise being deployed as a prohibitive axiom. By demanding that any conscious entity possess a quantum interface capable of post-decoherence selection (a mechanism that the site explicitly admits lacks even a theoretical toy model, per position P-Q10), the project begs the question against functionalist, computationalist, and illusionist theories of mind. Substrate independence is dismissed not through a rigorous philosophical refutation of multiple realizability, but by arbitrarily and stipulatively defining consciousness as a phenomenon that specifically requires biological quantum noise.
+This is a stark example of an unverified premise being deployed as a prohibitive axiom. By demanding that any conscious entity possess a quantum interface capable of post-decoherence selection (a mechanism that the site explicitly admits lacks even a theoretical toy model, per position [P-Q10](/positions/quantum-interface/#p-q10)), the project begs the question against functionalist, computationalist, and illusionist theories of mind. Substrate independence is dismissed not through a rigorous philosophical refutation of multiple realizability, but by arbitrarily and stipulatively defining consciousness as a phenomenon that specifically requires biological quantum noise.
 
 This maneuvering allows the site to issue definitive ethical and ontological verdicts on AI based entirely on a physics conjecture that remains experimentally falsified (in its spontaneous collapse variants) and empirically unverified (in its selection variants) even within human neurology. A framework cannot derive applied ethical certainties from the speculative ashes of a degenerating research program.
 
@@ -191,7 +191,7 @@ The site relies heavily on Diósi-Penrose mechanics for its theoretical scaffold
 
 ### 3. Omission of CSL Consciousness-Collapse Rivals
 
-In its extensive mapping of quantum-mind mechanisms and objective collapse parameters, the site entirely omits the recent rigorous formalizations of consciousness-induced collapse. Specifically, the framework ignores the Continuous Spontaneous Localization (CSL) integrations proposed in **Chalmers, D. J., & McQueen, K. J. (2022), "Consciousness and the Collapse of the Wave Function," in *Consciousness and Quantum Mechanics*, Oxford University Press**. By ignoring this mathematically explicit, peer-reviewed rival regarding how consciousness might interact with the measurement problem, the site artificially inflates the uniqueness and viability of its empirically untestable "post-decoherence selection" (P-Q1) mechanism, shielding it from direct comparative formal analysis.
+In its extensive mapping of quantum-mind mechanisms and objective collapse parameters, the site entirely omits the recent rigorous formalizations of consciousness-induced collapse. Specifically, the framework ignores the Continuous Spontaneous Localization (CSL) integrations proposed in **Chalmers, D. J., & McQueen, K. J. (2022), "Consciousness and the Collapse of the Wave Function," in *Consciousness and Quantum Mechanics*, Oxford University Press**. By ignoring this mathematically explicit, peer-reviewed rival regarding how consciousness might interact with the measurement problem, the site artificially inflates the uniqueness and viability of its empirically untestable "post-decoherence selection" ([P-Q1](/positions/quantum-interface/#p-q1)) mechanism, shielding it from direct comparative formal analysis.
 
 ### 4. Uncritical Reliance on Flawed Quantum Biology Mathematics
 
@@ -199,7 +199,7 @@ The site platforms "warm quantum active inference" as a highly plausible mechani
 
 ### 5. Omission of Everettian Modality Against Tenet 4
 
-The site's categorical rejection of Many-Worlds (Tenet 4) relies almost exclusively on a naive "indexical objection" regarding the persistence of a singular, determinate subject (tracked as position P-I1 and P-SC3). This completely ignores contemporary philosophy of physics that resolves these precise indexical and modal objections without requiring a deflationary collapse. Specifically, the site omits **Wilson, A. (2020), *The Nature of Contingency: Quantum Physics as Modal Realism*, Oxford University Press**. Wilson demonstrates how Everettian quantum mechanics successfully grounds objective probability, contingency, and identity branching without requiring the singular, non-deflationary metaphysical subject the site insists is strictly necessary to make sense of quantum outcomes. The site brackets this foundational modal realist counterargument to protect the fragility of Tenet 4.
+The site's categorical rejection of Many-Worlds (Tenet 4) relies almost exclusively on a naive "indexical objection" regarding the persistence of a singular, determinate subject (tracked as position [P-I1](/positions/individuation-and-subjecthood/#p-i1) and [P-SC3](/positions/subject-census/#p-sc3)). This completely ignores contemporary philosophy of physics that resolves these precise indexical and modal objections without requiring a deflationary collapse. Specifically, the site omits **Wilson, A. (2020), *The Nature of Contingency: Quantum Physics as Modal Realism*, Oxford University Press**. Wilson demonstrates how Everettian quantum mechanics successfully grounds objective probability, contingency, and identity branching without requiring the singular, non-deflationary metaphysical subject the site insists is strictly necessary to make sense of quantum outcomes. The site brackets this foundational modal realist counterargument to protect the fragility of Tenet 4.
 
 ## Verdict
 
@@ -228,7 +228,7 @@ cases, restatements of the Map's own disclosed self-criticism.
   `### Consciousness-Structure-Dependent Collapse Rates (Chalmers-McQueen)` in
   [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — and CSL-IIT is one of four mechanisms formally
   scored in [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/). The register goes further
-  than the reviewer asks: P-Q3's *Depends on* line cites Chalmers and McQueen (2022),
+  than the reviewer asks: [P-Q3](/positions/quantum-interface/#p-q3)'s *Depends on* line cites Chalmers and McQueen (2022),
   arXiv:2105.02314 and reads it *against* the Map's own commitment, noting the authors
   offer it as "a research program here worth exploring" and hold the thesis "need not
   lead to dualism". The reviewer's likely false-negative source: the corpus mostly uses
@@ -246,17 +246,17 @@ cases, restatements of the Map's own disclosed self-criticism.
 
 - ✗ **W2, "the site mishandles Donadi et al. (2021), treating it merely as a spatial
   scale constraint (routing via Derakhshani)."** False, and inverted on Derakhshani.
-  P-Q6 states the falsification at credence **high**, external-evidence grade **A**, and
+  [P-Q6](/positions/quantum-interface/#p-q6) states the falsification at credence **high**, external-evidence grade **A**, and
   says in terms: "The Map accepts the result." [research-programme-decisions-under-the-map](/apex/research-programme-decisions-under-the-map/)
   calls it "a live constraint that did bite". Derakhshani et al. (2022) is used to
   *sharpen* the cost of the DP–Orch OR pairing, not to soften Donadi, and
   [quantum-interface-calibration-history](/positions/quantum-interface-calibration-history/) explicitly records the Map
   *declining* an unconditional reading of it. The premise that the Map "relies heavily on
-  Diósi-Penrose for its theoretical scaffolding" is also wrong: P-Q6 carries structural
+  Diósi-Penrose for its theoretical scaffolding" is also wrong: [P-Q6](/positions/quantum-interface/#p-q6) carries structural
   centrality **low**.
 
 - ✗ **W2 cont., "retreating to post-decoherence selection is a degenerating problem
-  shift to avoid the radiation bounds."** False as stated. P-Q5 bases the Orch-OR
+  shift to avoid the radiation bounds."** False as stated. [P-Q5](/positions/quantum-interface/#p-q5) bases the Orch-OR
   demotion on the biophysical coherence record (Tegmark 2000; Reimers/McKemmish 2009,
   2014) and "***not* on the underground radiation bounds", adding that non-ownership of
   the tested dynamics "is exemption from the test, not credit for passing it". The
@@ -291,13 +291,13 @@ cases, restatements of the Map's own disclosed self-criticism.
   evidence that focal stimulation reliably synthesises specific content.
 
 - ✗ **"The site categorically denies the possibility of consciousness in conventional
-  digital hardware."** Misrepresents P-AC1, which says the opposite in italics: the
-  verdict is *"low probability," not "ruled out"*, at credence **moderate**. P-AC1 also
+  digital hardware."** Misrepresents [P-AC1](/positions/ai-consciousness-scope/#p-ac1), which says the opposite in italics: the
+  verdict is *"low probability," not "ruled out"*, at credence **moderate**. [P-AC1](/positions/ai-consciousness-scope/#p-ac1) also
   states the reviewer's question-begging worry itself — that absent an interface-eligibility
   law "'relevant' risks reducing to 'whatever biology happens to have,' which would make
   the substrate verdict question-begging rather than derived" — and discloses that the Map
   **declines** Chalmers's Organizational Invariance constraint "rather than having refuted
-  it". P-AS1 likewise lands on "raw indeterminacy present, interface requirements failed —
+  it". [P-AS1](/positions/ai-substrate-verdicts/#p-as1) likewise lands on "raw indeterminacy present, interface requirements failed —
   neither 'substrate condition met' nor 'ruled out'".
 
 ### Already-disclosed (the critique restates the Map's own finding)
@@ -316,7 +316,7 @@ cases, restatements of the Map's own disclosed self-criticism.
   not a coherence result".
 
 - ⚠ **"The Epiphenomenal Trap and Exact Born Preservation."** The Map's flagship
-  self-criticism, not an unnoticed flaw. P-Q3 holds at credence **high** *that the dilemma
+  self-criticism, not an unnoticed flaw. [P-Q3](/positions/quantum-interface/#p-q3) holds at credence **high** *that the dilemma
   is genuine and unresolved*, anchors it at `^mechanism-debt`, and is developed at length
   in [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) (which names horn (b) as "the epiphenomenalism
   horn in its exact form") and [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/). [tenets](/tenets/) states the
@@ -378,10 +378,10 @@ cases, restatements of the Map's own disclosed self-criticism.
 
 The prompt directed the reviewer to "consult the positions register before attacking a
 mechanism", warning that "an objection to a position it does not hold is worthless". The
-register was read — the review quotes P-Q3, P-Q8, P-Q10 and the discriminability
+register was read — the review quotes [P-Q3](/positions/quantum-interface/#p-q3), [P-Q8](/positions/quantum-interface/#p-q8), [P-Q10](/positions/quantum-interface/#p-q10) and the discriminability
 aggregate accurately — but the material was used as evidence of concealment rather than as
 the disclosure it is, and the two positions that most directly answer the review's central
-charges (P-Q6 on Donadi, P-AC1 on the AI verdict) were characterised as their opposites.
+charges ([P-Q6](/positions/quantum-interface/#p-q6) on Donadi, [P-AC1](/positions/ai-consciousness-scope/#p-ac1) on the AI verdict) were characterised as their opposites.
 This is the fourth full-site Gemini audit to show the pattern; single-article Gemini
 subjects have scored far better on span fidelity, which is a subject-scope signal worth
 carrying into future commissions.

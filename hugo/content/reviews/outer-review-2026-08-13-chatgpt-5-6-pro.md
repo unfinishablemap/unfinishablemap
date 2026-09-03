@@ -86,7 +86,7 @@ Consequently, subject identity becomes a **boundary condition of physics** withi
 This has three consequences the site has not squarely drawn:
 
 - A physically or functionally indiscernible difference in subject assignment can make a physical causal difference.
-- The subject variable is causally active but, under P-I3, unreadable from physical structure.
+- The subject variable is causally active but, under [P-I3](/positions/individuation-and-subjecthood/#p-i3), unreadable from physical structure.
 - The theory therefore posits a hidden psychophysical variable that is stronger than ordinary substance dualism: it determines which nonphysical cause is paired with which physical trajectory.
 
 This should be treated as a first-class theoretical commitment, not left distributed across articles on pairing, closed individualism, copying, and agency.
@@ -127,7 +127,7 @@ A plausible theory would need something analogous to a conserved total bias meas
 
 ## 1.4 Universal bidirectional interaction makes interface eligibility a sixth foundational law
 
-The consciousness-scope register carefully distinguishes basic phenomenality from causal eligibility. P-CS1 holds that artefacts are not excluded in principle, but explicitly concedes that substrate neutrality is an adopted premise rather than an entailment of dualism. P-AC1 then says the site still lacks an interface-eligibility law specifying what makes quantum indeterminacy relevant to consciousness. [positions/consciousness-scope](https://unfinishablemap.org/positions/consciousness-scope/)
+The consciousness-scope register carefully distinguishes basic phenomenality from causal eligibility. [P-CS1](/positions/consciousness-scope/#p-cs1) holds that artefacts are not excluded in principle, but explicitly concedes that substrate neutrality is an adopted premise rather than an entailment of dualism. [P-AC1](/positions/ai-consciousness-scope/#p-ac1) then says the site still lacks an interface-eligibility law specifying what makes quantum indeterminacy relevant to consciousness. [positions/consciousness-scope](https://unfinishablemap.org/positions/consciousness-scope/)
 
 At the same time, Tenet 3 is interpreted as **universal actual efficacy**: every conscious token must make some difference to its substrate. The mental-causation register acknowledges that the self-stultification argument establishes only an existential conclusion—some consciousness is causally efficacious—whereas the tenet asserts the universal conclusion. [apex/machine-question](https://unfinishablemap.org/apex/machine-question/)
 
@@ -237,7 +237,7 @@ The correction is not merely to add more cross-links. The foundation itself need
 
 ## 2.2 The dependency graph is partly inverted
 
-The positions methodology says that positions are downstream commitments that derive from the tenets and should in principle be retireable without removing a tenet’s rationale. Yet the register’s own foundational-dependency tests find that this is not uniformly true. P-MC1 supplies a principal rationale for Tenet 3, and P-I1 supplies subjecthood needed by the indexical rationale for Tenet 4. [positions](https://unfinishablemap.org/positions/)
+The positions methodology says that positions are downstream commitments that derive from the tenets and should in principle be retireable without removing a tenet’s rationale. Yet the register’s own foundational-dependency tests find that this is not uniformly true. [P-MC1](/positions/arguments-for-mental-causation/#p-mc1) supplies a principal rationale for Tenet 3, and [P-I1](/positions/individuation-and-subjecthood/#p-i1) supplies subjecthood needed by the indexical rationale for Tenet 4. [positions](https://unfinishablemap.org/positions/)
 
 The architecture is therefore not:
 
@@ -382,7 +382,7 @@ At present, self-concealment, Tenet 5, and the absence of an interface law can c
 
 The current tenets page is admirably clear that dualism is a chosen commitment, not a demonstrated result. It distinguishes bare irreducibility from the substance-leaning ontology used in the agency cluster. [tenets](https://unfinishablemap.org/tenets/)
 
-P-CS1 is also appropriately calibrated. It says artefact and animal phenomenality are permitted rather than established, and concedes that substrate neutrality is an additional premise rather than an entailment of irreducibility. [positions/consciousness-scope](https://unfinishablemap.org/positions/consciousness-scope/)
+[P-CS1](/positions/consciousness-scope/#p-cs1) is also appropriately calibrated. It says artefact and animal phenomenality are permitted rather than established, and concedes that substrate neutrality is an additional premise rather than an entailment of irreducibility. [positions/consciousness-scope](https://unfinishablemap.org/positions/consciousness-scope/)
 
 ### Where the corpus drifts
 
@@ -527,7 +527,7 @@ These cannot both be live framework positions. The difference determines whether
 
 ## 4.2 Subject ontology: foundations/positions versus concept article — **direct and critical**
 
-**Background Commitments / P-I1:** agency requires a determinate persisting bearer of causal powers.  
+**Background Commitments / [P-I1](/positions/individuation-and-subjecthood/#p-i1):** agency requires a determinate persisting bearer of causal powers.  
 
 **Collapse and the Arrow of Time:** identity is constituted through selections and the agent is the activity, not an enduring substance.
 
@@ -543,7 +543,7 @@ At most, objective collapse leaves a logically available location at which an ad
 
 ## 4.4 Current AI: maintained position versus apex article — **direct calibration contradiction**
 
-**P-AC1:** the current digital-AI verdict is “low probability,” explicitly “not ruled out,” because the interface-eligibility law is missing.  
+**[P-AC1](/positions/ai-consciousness-scope/#p-ac1):** the current digital-AI verdict is “low probability,” explicitly “not ruled out,” because the interface-eligibility law is missing.  
 
 **The Open Question of AI Consciousness:** “This rules out current classical AI.”
 
@@ -555,7 +555,7 @@ The apex sentence turns a Grade-D, framework-internal conditional into an exclus
 
 **The Machine Question:** the Map’s closed individualism “reverses that inference”; exact conscious duplicates would be distinct subjects.
 
-The latter is the coherent position given P-I1 and P-AC3. The former preserves an obsolete argument that should be removed rather than balanced as another possibility. [apex/open-question-ai-consciousness](https://unfinishablemap.org/apex/open-question-ai-consciousness/)
+The latter is the coherent position given [P-I1](/positions/individuation-and-subjecthood/#p-i1) and [P-AC3](/positions/ai-consciousness-scope/#p-ac3). The former preserves an obsolete argument that should be removed rather than balanced as another possibility. [apex/open-question-ai-consciousness](https://unfinishablemap.org/apex/open-question-ai-consciousness/)
 
 ## 4.6 Many-Worlds: background audit versus interface synthesis — **high-severity overstatement**
 
@@ -595,7 +595,7 @@ This makes endorsement impossible to infer reliably from section type. [voids](h
 
 ## 4.11 Substrate permission versus computational barrier — **resolvable but currently blurred**
 
-P-CS1 says no in-principle metaphysical barrier excludes artefacts, while *The Machine Question* says purely computational systems face a principled barrier under dualism. [positions/consciousness-scope](https://unfinishablemap.org/positions/consciousness-scope/)
+[P-CS1](/positions/consciousness-scope/#p-cs1) says no in-principle metaphysical barrier excludes artefacts, while *The Machine Question* says purely computational systems face a principled barrier under dualism. [positions/consciousness-scope](https://unfinishablemap.org/positions/consciousness-scope/)
 
 A coherent distinction is available:
 
@@ -651,7 +651,7 @@ Fourth, the changelog is unusually candid about review failures, source-provenan
 - objective collapse addresses definiteness;
 - post-decoherence openness supplies logical compatibility with bias;
 - agency arguments, not measurement, supply the proposed warrant for adding consciousness. [tenets/background-commitments](https://unfinishablemap.org/tenets/background-commitments/)
-5. **Synchronise the AI apex articles with P-AC1.** Replace “rules out current classical AI” and unqualified “excludes the necessary interface” with the registered conditional verdict: low probability under the current interface picture, not ruled out, pending an interface-eligibility law. [apex/open-question-ai-consciousness](https://unfinishablemap.org/apex/open-question-ai-consciousness/)
+5. **Synchronise the AI apex articles with [P-AC1](/positions/ai-consciousness-scope/#p-ac1).** Replace “rules out current classical AI” and unqualified “excludes the necessary interface” with the registered conditional verdict: low probability under the current interface picture, not ruled out, pending an interface-eligibility law. [apex/open-question-ai-consciousness](https://unfinishablemap.org/apex/open-question-ai-consciousness/)
 6. **Delete the multiple-instantiation identity objection from *The Open Question of AI Consciousness*.** *The Machine Question* now supplies the coherent closed-individualist answer: exact copies would be distinct subjects, and copying does not erase haecceity. [apex/open-question-ai-consciousness](https://unfinishablemap.org/apex/open-question-ai-consciousness/)
 7. **Revise *The Interface Programme*.** Replace “nothing for a control law to govern” with the narrower claim that Everettianism removes exclusive single-outcome selection. Add the branch-local agency concession and identify global exclusion as an independent starting commitment. [apex/interface-specification-programme](https://unfinishablemap.org/apex/interface-specification-programme/)
 8. **Revise *Neurological Dissociations and Dualism* and the split-brain article.** Separate evidence for:
@@ -667,7 +667,7 @@ The current evidence supports the first two much more strongly than the latter t
 
 ## Mechanism and formalisation work
 
-1. **Build the P-Q10 toy model before adding more interface applications.** At minimum it should specify:
+1. **Build the [P-Q10](/positions/quantum-interface/#p-q10) toy model before adding more interface applications.** At minimum it should specify:
 
 - the physical state space and candidate outcomes;
 - the collapse or actualisation dynamics;
@@ -702,8 +702,8 @@ Cycles should be displayed rather than prohibited.
 
 - T2 forbids conservation violation;
 - objective collapse means measurement is not evidence for conscious selection;
-- P-I1 requires a persisting subject;
-- P-AC1 is low probability, not exclusion;
+- [P-I1](/positions/individuation-and-subjecthood/#p-i1) requires a persisting subject;
+- [P-AC1](/positions/ai-consciousness-scope/#p-ac1) is low probability, not exclusion;
 - exact copies are distinct subjects if conscious;
 - branch-local agency remains available under Everett;
 - neurological dependence does not establish downward nonphysical causation.
@@ -773,7 +773,7 @@ Extraction: page-side Blob download, SHA-256 match against disk (`42bd95eb…13c
 
 - ✓ "simply breaks the relevant time-translation symmetry" — [apex/consciousness-and-agency.md](/apex/consciousness-and-agency/) L147, context as described (Noether fallback, Cucu & Pitts 2019); genuinely contradicts Tenet 2's "without injecting energy or violating conservation laws" ([tenets/tenets.md](/tenets/) L65) and its "no conservation-law violation" rules-out clause (L69). **Contradiction 4.1 confirmed.** Sibling loci carrying the same symmetry-breaking move: [concepts/mental-causation-and-downward-causation.md](/concepts/mental-causation-and-downward-causation/), [topics/mechanism-costs-dualism-thickness-quadrants.md](/topics/mechanism-costs-dualism-thickness-quadrants/).
 - ✓ "The agent is the selecting activity itself" — [concepts/collapse-and-time.md](/concepts/collapse-and-time/), plus a second live locus the reviewer did not name: [apex/time-consciousness-growing-block.md](/apex/time-consciousness-growing-block/). **Contradiction 4.2 confirmed** against the persisting-subject foundation; converges with the open NEEDS-HUMAN (foundations) 2026-08-03 queue entry.
-- ✓ "This rules out current classical AI." — [apex/open-question-ai-consciousness.md](/apex/open-question-ai-consciousness/) L119, vs P-AC1's verbatim *"low probability," not "ruled out"* ([positions/ai-consciousness-scope.md](/positions/ai-consciousness-scope/) L56). **Contradiction 4.4 confirmed.**
+- ✓ "This rules out current classical AI." — [apex/open-question-ai-consciousness.md](/apex/open-question-ai-consciousness/) L119, vs [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s verbatim *"low probability," not "ruled out"* ([positions/ai-consciousness-scope.md](/positions/ai-consciousness-scope/) L56). **Contradiction 4.4 confirmed.**
 - ✓ "seemingly precluding the indexical identity" (reviewer: "apparently precluding") — same apex, L175, vs [apex/machine-question.md](/apex/machine-question/) L195 "reverses that inference" / distinct-subjects treatment. **Contradiction 4.5 confirmed** — the obsolete objection and its correction are both live.
 - ✓ "confirm bidirectional causation" — [topics/neurological-dissociations-as-interface-architecture.md](/topics/neurological-dissociations-as-interface-architecture/) L195; the body's non-adjudication concession the reviewer quotes is at L179. **Internal contradiction 4.7 confirmed.**
 - ✓ Split-brain causal-direction claim — [topics/split-brain-consciousness.md](/topics/split-brain-consciousness/) L182 asserts "If consciousness were epiphenomenal, fragmenting the brain should not affect experience at all," which mistakes epiphenomenalism's commitments exactly as the reviewer says (4.8).

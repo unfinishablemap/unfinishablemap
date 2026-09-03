@@ -28,7 +28,7 @@ title: Optimistic Review - 2026-08-03 - The Physicalist-Rivals Cluster
 
 This is the most consistently well-calibrated cluster reviewed to date. All five articles independently implement the same discipline — **stating precisely what an argument earns, and refusing to bank more than that** — and they do it against their own interest, repeatedly: the functionalism article grades its five arguments down to "two legs" in a table; the materialism article grades its own reply to Dennett as the weakest of three; the self-representation article declines to recruit two sympathetic authors because their primitivism is a naturalistic monism rather than a dualism; the PCT article announces in its second paragraph that "PCT" is the Map's own coinage that no major figure uses.
 
-The structural finding is that **this discipline has no shared home and no register anchor**. The five articles form a **zero-edge graph** — not one links to any other — and **none cites a single `positions/` entry or `project/` discipline page**, against a corpus baseline of **199 of 799 live articles (24.9%)** that do. The omission runs both ways: **no position in the 14-file register cites `arguments/functionalism-argument` or `arguments/materialism-argument`**, though [positions/arguments-for-mental-causation.md](/positions/arguments-for-mental-causation/) cites their sibling `arguments/epiphenomenalism-argument` twice — so this is a selective gap, not a section-wide convention. The register entry **P-D1** ("The anti-physicalist arguments are premise-sharing, not evidentially independent") is argued in prose more explicitly by `functionalism-argument` than by any of the four articles its `Argued in` field actually lists.
+The structural finding is that **this discipline has no shared home and no register anchor**. The five articles form a **zero-edge graph** — not one links to any other — and **none cites a single `positions/` entry or `project/` discipline page**, against a corpus baseline of **199 of 799 live articles (24.9%)** that do. The omission runs both ways: **no position in the 14-file register cites `arguments/functionalism-argument` or `arguments/materialism-argument`**, though [positions/arguments-for-mental-causation.md](/positions/arguments-for-mental-causation/) cites their sibling `arguments/epiphenomenalism-argument` twice — so this is a selective gap, not a section-wide convention. The register entry **[P-D1](/positions/arguments-for-dualism/#p-d1)** ("The anti-physicalist arguments are premise-sharing, not evidentially independent") is argued in prose more explicitly by `functionalism-argument` than by any of the four articles its `Argued in` field actually lists.
 
 Nothing here needs rewriting. The cluster needs wiring.
 
@@ -141,8 +141,8 @@ None of the five contains a wikilink to any `positions/` entry, to `project/evid
 
 The mismatch is substantive, not clerical:
 
-- **P-D1** ("The anti-physicalist arguments are premise-sharing, not evidentially independent") asserts that "Arguments within a single cluster therefore contribute little more than one strong argument from that cluster," and cites `project/per-cluster-independence-scoring` under *Depends on*. `functionalism-argument`'s L221–229 table **is** a per-cluster independence analysis, executed and published. P-D1's `Argued in` lists `topics/the-convergence-argument-for-dualism`, `concepts/philosophical-zombies`, `concepts/qualia`, `concepts/dualism` — and not the article that does the arithmetic.
-- **P-D2** ("Convergence earns irreducibility; Bidirectional Interaction selects dualism, and the two do not compound") is stated in prose at `materialism-argument` L132 and L142, which separates what materialism's failure earns from what selects dualism, in P-D2's own terms. P-D2's `Argued in` lists three files, none of them this one.
+- **[P-D1](/positions/arguments-for-dualism/#p-d1)** ("The anti-physicalist arguments are premise-sharing, not evidentially independent") asserts that "Arguments within a single cluster therefore contribute little more than one strong argument from that cluster," and cites `project/per-cluster-independence-scoring` under *Depends on*. `functionalism-argument`'s L221–229 table **is** a per-cluster independence analysis, executed and published. [P-D1](/positions/arguments-for-dualism/#p-d1)'s `Argued in` lists `topics/the-convergence-argument-for-dualism`, `concepts/philosophical-zombies`, `concepts/qualia`, `concepts/dualism` — and not the article that does the arithmetic.
+- **[P-D2](/positions/arguments-for-dualism/#p-d2)** ("Convergence earns irreducibility; Bidirectional Interaction selects dualism, and the two do not compound") is stated in prose at `materialism-argument` L132 and L142, which separates what materialism's failure earns from what selects dualism, in [P-D2](/positions/arguments-for-dualism/#p-d2)'s own terms. [P-D2](/positions/arguments-for-dualism/#p-d2)'s `Argued in` lists three files, none of them this one.
 
 ### Verified benign — do not "fix"
 
@@ -185,9 +185,9 @@ None. The cluster's content is in better shape than its wiring, and every high-v
 |------|-----|--------|
 | `concepts/phenomenal-constitution-thesis` L81 | `arguments/functionalism-argument` | PCT names "the Chinese Room verdict" as conditional on itself; the verdict lives there |
 | `arguments/functionalism-argument` L107 | `concepts/phenomenal-constitution-thesis` | PCT is the named bridge premise whose absence makes the semantics→phenomenality step "a conjecture" |
-| `arguments/functionalism-argument` L43, L229 | `positions/arguments-for-dualism` (P-D1) | The article executes the per-cluster independence analysis P-D1 asserts |
-| `arguments/materialism-argument` L132, L142 | `positions/arguments-for-dualism` (P-D2) | The article states P-D2's counting rule in prose without naming the position |
-| `arguments/materialism-argument` L86 | `positions/arguments-for-mental-causation` (P-MC1–P-MC3) | The epiphenomenalism concession is exactly what P-MC1–P-MC3 register |
+| `arguments/functionalism-argument` L43, L229 | `positions/arguments-for-dualism` ([P-D1](/positions/arguments-for-dualism/#p-d1)) | The article executes the per-cluster independence analysis [P-D1](/positions/arguments-for-dualism/#p-d1) asserts |
+| `arguments/materialism-argument` L132, L142 | `positions/arguments-for-dualism` ([P-D2](/positions/arguments-for-dualism/#p-d2)) | The article states [P-D2](/positions/arguments-for-dualism/#p-d2)'s counting rule in prose without naming the position |
+| `arguments/materialism-argument` L86 | `positions/arguments-for-mental-causation` ([P-MC1](/positions/arguments-for-mental-causation/#p-mc1)–[P-MC3](/positions/arguments-for-mental-causation/#p-mc3)) | The epiphenomenalism concession is exactly what [P-MC1](/positions/arguments-for-mental-causation/#p-mc1)–[P-MC3](/positions/arguments-for-mental-causation/#p-mc3) register |
 | `arguments/materialism-argument` L114 | `project/evidential-status-discipline` | The corpus's cleanest statement of the coherence-vs-evidential-status rule, uncited to the rule |
 | `concepts/logical-behaviourism` L66 | `arguments/functionalism-argument` | The lineage article's successor-term has a dedicated argument article it never points to |
 | `concepts/self-representational-theory-of-consciousness` L85 | `concepts/possibility-probability-slippage` | The refusal-to-recruit passage is a worked instance of the named discipline |
@@ -195,11 +195,11 @@ None. The cluster's content is in better shape than its wiring, and every high-v
 
 ## New Concept Pages Needed
 
-None. The relevant discipline pages already exist (`project/evidential-status-discipline`, `concepts/possibility-probability-slippage`, `concepts/concession-convergence`) and the register already holds the positions (P-D1, P-D2, P-MC1–P-MC3). The deficit is citation, not vocabulary.
+None. The relevant discipline pages already exist (`project/evidential-status-discipline`, `concepts/possibility-probability-slippage`, `concepts/concession-convergence`) and the register already holds the positions ([P-D1](/positions/arguments-for-dualism/#p-d1), [P-D2](/positions/arguments-for-dualism/#p-d2), [P-MC1](/positions/arguments-for-mental-causation/#p-mc1)–[P-MC3](/positions/arguments-for-mental-causation/#p-mc3)). The deficit is citation, not vocabulary.
 
 ## Tasks Generated
 
 Two P3 tasks, both link-and-citation work, no content rewriting:
 
 1. **refine-draft** on the article side — wire the zero-edge graph and add the missing position/discipline citations. `File: obsidian/arguments/functionalism-argument.md` (multi-file).
-2. **positions-evolve** on the register side — add the two `arguments/` articles to the `Argued in` fields of P-D1 and P-D2. `File: obsidian/positions/arguments-for-dualism.md`.
+2. **positions-evolve** on the register side — add the two `arguments/` articles to the `Argued in` fields of [P-D1](/positions/arguments-for-dualism/#p-d1) and [P-D2](/positions/arguments-for-dualism/#p-d2). `File: obsidian/positions/arguments-for-dualism.md`.

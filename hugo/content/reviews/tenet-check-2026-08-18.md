@@ -182,7 +182,7 @@ Tenet 5's rules-out clause binds "**internally**—any Map argument that leans o
 
 ### Non-tenet observation — a currency conflict between two files edited in the same window
 
-`concepts/quantum-indeterminacy-free-will` cites "photosynthesis exploits quantum coherence" as live support, while `apex/research-programme-decisions-under-the-map` records in the same window that P-Q8 was narrowed on 2026-07-30 to cryptochrome radical pairs, "photosynthesis having been returned to an incoherent-transport account by Duan et al. (2017)." Not a tenet matter; flagged for whoever owns the quantum-biology citation currency. Consistent with `tenets.md`, which itself leans only on cryptochrome.
+`concepts/quantum-indeterminacy-free-will` cites "photosynthesis exploits quantum coherence" as live support, while `apex/research-programme-decisions-under-the-map` records in the same window that [P-Q8](/positions/quantum-interface/#p-q8) was narrowed on 2026-07-30 to cryptochrome radical pairs, "photosynthesis having been returned to an incoherent-transport account by Duan et al. (2017)." Not a tenet matter; flagged for whoever owns the quantum-biology citation currency. Consistent with `tenets.md`, which itself leans only on cryptochrome.
 
 ## The pattern worth naming
 

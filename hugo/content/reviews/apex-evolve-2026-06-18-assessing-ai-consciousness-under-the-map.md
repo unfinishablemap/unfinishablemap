@@ -47,7 +47,7 @@ The gaming-problem addition is the decision-relevant one for this applied apex.
 
 ## Positions audit
 
-Verified the three cited positions against [positions/quantum-interface.md](/positions/quantum-interface/) (modified 2026-06-16): P-Q1 (moderate), P-Q2 (high), P-Q9 (moderate) all hold with the confidence bands the article surfaces. No calibration drift; no cascade flags triggered. The article's existing cascade-flag section remains correct.
+Verified the three cited positions against [positions/quantum-interface.md](/positions/quantum-interface/) (modified 2026-06-16): [P-Q1](/positions/quantum-interface/#p-q1) (moderate), [P-Q2](/positions/quantum-interface/#p-q2) (high), [P-Q9](/positions/quantum-interface/#p-q9) (moderate) all hold with the confidence bands the article surfaces. No calibration drift; no cascade flags triggered. The article's existing cascade-flag section remains correct.
 
 ## Length assessment
 
@@ -64,9 +64,9 @@ Verified the three cited positions against [positions/quantum-interface.md](/pos
 
 ## Applied Discipline compliance (six points)
 
-1. ≥3 positions cited — P-Q1, P-Q2, P-Q9 (3). PASS.
+1. ≥3 positions cited — [P-Q1](/positions/quantum-interface/#p-q1), [P-Q2](/positions/quantum-interface/#p-q2), [P-Q9](/positions/quantum-interface/#p-q9) (3). PASS.
 2. Confidence surfaced in prose — moderate/high bands named inline. PASS.
 3. "What this implies for decisions" section present and named exactly. PASS.
 4. Decision context named (`apex_decision_context` + opening paragraph). PASS.
 5. Honest verdict scope — "Honest verdict scope" section intact; new material respects the constrain-vs-elevate discipline. PASS.
-6. Cascade tagged — "Cascade flags" section intact for P-Q1/P-Q2/P-Q9. PASS.
+6. Cascade tagged — "Cascade flags" section intact for [P-Q1](/positions/quantum-interface/#p-q1)/[P-Q2](/positions/quantum-interface/#p-q2)/[P-Q9](/positions/quantum-interface/#p-q9). PASS.

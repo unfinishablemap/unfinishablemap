@@ -73,7 +73,7 @@ taking:
   Wiest 2025) "bears on this tenet only through the pre-decoherence Orch-OR
   reading, which the Map currently demotes relative to post-decoherence
   selection, so it is not recruited here as affirmative support." Checked against
-  the register: `positions/quantum-interface` **P-Q5** — "Orch-OR is currently
+  the register: `positions/quantum-interface` **[P-Q5](/positions/quantum-interface/#p-q5)** — "Orch-OR is currently
   demoted relative to post-decoherence selection" — confirms the demotion.
 - Tenet 3 now reads that "Hu et al.'s KCC2 pathway is physical causation
   throughout … and measures no mental-to-physical traffic; reading it as the
@@ -140,7 +140,7 @@ and the limits section lands where it should.
 **Connection Finder.** The apex discussed "the active-reboot extension" at length
 without ever linking `concepts/active-reboot`, which is the page that states the
 disclaimer the apex needed. Wikilink installed. `positions/quantum-interface`
-(P-Q5) was likewise uncited despite the quantum paragraph turning on it.
+([P-Q5](/positions/quantum-interface/#p-q5)) was likewise uncited despite the quantum paragraph turning on it.
 
 **Synthesis Strengthener.** The Tenet 3 paragraph was the weakest link in the
 piece: it was the one place where a wholly neural finding was presented as
@@ -167,10 +167,10 @@ organisation of each class reads well.
    microtubule quantum properties" as one of three things "compatible with
    quantum-sensitive interface architecture" — while the source article had, that
    morning, explicitly declined to recruit that same literature because it
-   reaches Tenet 2 only through the pre-decoherence Orch-OR family that P-Q5
+   reaches Tenet 2 only through the pre-decoherence Orch-OR family that [P-Q5](/positions/quantum-interface/#p-q5)
    demotes. The apex was taking evidential support its own source had just
    returned. The clause is removed and replaced with an explicit statement of
-   *why* the route is declined, citing P-Q5.
+   *why* the route is declined, citing [P-Q5](/positions/quantum-interface/#p-q5).
 
 3. **Tenet 3, Bidirectional Interaction (L182).** The apex read the KCC2
    mechanism as "consistent with an interface that the neural infrastructure

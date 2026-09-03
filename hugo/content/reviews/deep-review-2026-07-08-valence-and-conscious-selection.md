@@ -66,7 +66,7 @@ Unchanged from prior reviews; re-confirmed. No editor-vocabulary label leakage i
 ## Optimistic Analysis Summary
 
 ### Strengths Preserved (unchanged)
-- Fork structure as organizing principle; the value-blind steelman; pain-asymbolia pivot in both horns; three operationalizable discriminating-evidence cases anchored to the P-VS2 register battery; bandwidth-inversion insight.
+- Fork structure as organizing principle; the value-blind steelman; pain-asymbolia pivot in both horns; three operationalizable discriminating-evidence cases anchored to the [P-VS2](/positions/value-in-selection/#p-vs2) register battery; bandwidth-inversion insight.
 - **New integration gain**: the middle-path paragraph now points the reader to the sibling article where the graduated stance is worked as its own position with a specified clamp test — a real cross-cluster integration, correctly and honestly calibrated to the weaker reading.
 
 ### Enhancements Made

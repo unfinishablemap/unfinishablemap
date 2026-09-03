@@ -84,7 +84,7 @@ would still flag it):
    the Born distribution" is true-but-loose (a min is bounded by either argument)
    and loses the conscious-source term that does half the work.
 2. **Inverted direction of derivation.** The zero statistical signature is *the
-   corridor's own stipulation* (P-Q2 asserts Born-exactness as the default
+   corridor's own stipulation* ([P-Q2](/positions/quantum-interface/#p-q2) asserts Born-exactness as the default
    reading), not something the arithmetic derives. `agency-budget` says so
    directly: the construction "secures compatibility by making the observable
    consequences exactly nil — which is the constraint the corridor imposed in the
@@ -123,7 +123,7 @@ rather than hedging it: Born-preservation is stipulated by the corridor anyway,
 so the no-signalling result was never load-bearing here. It is now correctly
 framed as a bound on the escape routes — a variant seeking its minimum outside
 the corridor must show its deviation is signalling-safe — which is exactly how
-P-Q7 frames it.
+[P-Q7](/positions/quantum-interface/#p-q7) frames it.
 
 ### Pagination finding — Stapp 2006 page range was unverifiable and internally contested
 

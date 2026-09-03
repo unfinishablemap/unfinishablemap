@@ -27,7 +27,7 @@ Eighth deep review, cycle-slot staleness selection (score 40, 56 days unreviewed
 
 Body delta since the 06-25 review commit (`git diff f56bb87328 HEAD`) is exactly two additions:
 
-1. **`d7c34303e0` (refine-draft, 2026-08-19)** — the interface-eligibility disclosure paragraph after the comparison table, citing [ai-consciousness-scope](/positions/ai-consciousness-scope/) (P-AC1).
+1. **`d7c34303e0` (refine-draft, 2026-08-19)** — the interface-eligibility disclosure paragraph after the comparison table, citing [ai-consciousness-scope](/positions/ai-consciousness-scope/) ([P-AC1](/positions/ai-consciousness-scope/#p-ac1)).
 2. **`1432428fd4` (expand-topic, 2026-08-14)** — a one-sentence cross-link installed *into this article from outside* by the expand-topic run that created [quantum-hardware-and-the-ai-consciousness-coupling](/topics/quantum-hardware-and-the-ai-consciousness-coupling/).
 
 Both were verified independently this pass. Entered at 2839 words (95% of the 3000 topics soft threshold) — near-soft, so improvements were made length-aware.
@@ -46,16 +46,16 @@ Both were verified independently this pass. Entered at 2839 words (95% of the 30
 
 The apex holds the superposition argument under an explicit `*If*` and then narrows its reach twice (computation-not-hardware; conditionally-not-categorically). The article promoted that hedged conditional into the apex's settled "deeper structural obstacle." This is the `apex-stale-internal-quote-channel` defect shape operating on *framing* rather than on a quoted span: the apex moved and the downstream article did not. **Fixed** — the sentence now reads: *"The apex places the superposition-absence argument inside the same conditional frame used above: it disqualifies the computation rather than the hardware, and leaves open whether an engineered quantum substrate could supply a live interface."* Corpus swept for sibling loci carrying the same wording (`grep -rn "deeper structural obstacle" obsidian archive hugo/content`) — zero hits, defect confined to this file.
 
-**C2. The non-retrocausal section contradicted P-Q1 and stated the verdict categorically.** Two linked faults:
+**C2. The non-retrocausal section contradicted [P-Q1](/positions/quantum-interface/#p-q1) and stated the verdict categorically.** Two linked faults:
 
-- *Mechanism omission.* The section offered "three major frameworks support this forward-in-time mechanism" — Orch-OR, Stapp-Zeno, Chalmers-McQueen — and named no others. All three are **pre-decoherence** proposals requiring coherent superposition to survive in warm neural tissue. The Map's *registered preferred mechanism* is [P-Q1](/positions/quantum-interface/), **post-decoherence selection**, which is preferred precisely because "it sidesteps the warm-wet decoherence-timescale objection that Tegmark and others have pressed against pre-decoherence proposals (Stapp-Zeno, Orch-OR): selection acts on already-decohered branch-outcomes rather than on coherent neural superpositions." The article mentioned post-decoherence selection **zero** times (`grep -c` = 0) while resting its central biological claim on the family P-Q1 ranks below.
-- *Categorical verdict.* The article concluded the LLM channel "is *off* [the axis] at the point of selection—there is no superposition to collapse, so nothing crosses." P-AC1 holds the substrate verdict as "an honestly-labelled conditional," and the apex says "conditionally on that criterion, not categorically." A tenet-accepting reviewer would flag this — it is a **calibration error inside the framework**, not bedrock disagreement, and therefore critical under the §2 diagnostic test.
+- *Mechanism omission.* The section offered "three major frameworks support this forward-in-time mechanism" — Orch-OR, Stapp-Zeno, Chalmers-McQueen — and named no others. All three are **pre-decoherence** proposals requiring coherent superposition to survive in warm neural tissue. The Map's *registered preferred mechanism* is [P-Q1](/positions/quantum-interface/#p-q1), **post-decoherence selection**, which is preferred precisely because "it sidesteps the warm-wet decoherence-timescale objection that Tegmark and others have pressed against pre-decoherence proposals (Stapp-Zeno, Orch-OR): selection acts on already-decohered branch-outcomes rather than on coherent neural superpositions." The article mentioned post-decoherence selection **zero** times (`grep -c` = 0) while resting its central biological claim on the family [P-Q1](/positions/quantum-interface/#p-q1) ranks below.
+- *Categorical verdict.* The article concluded the LLM channel "is *off* [the axis] at the point of selection—there is no superposition to collapse, so nothing crosses." [P-AC1](/positions/ai-consciousness-scope/#p-ac1) holds the substrate verdict as "an honestly-labelled conditional," and the apex says "conditionally on that criterion, not categorically." A tenet-accepting reviewer would flag this — it is a **calibration error inside the framework**, not bedrock disagreement, and therefore critical under the §2 diagnostic test.
 
-**Fixed** by three edits: (a) the pre-decoherence character of the three named frameworks is now stated and P-Q1 / [post-decoherence-selection](/concepts/post-decoherence-selection/) named as the Map's actual preference; (b) the "deeper problem" paragraph rescoped to "measured against that pre-decoherence family" and tightened; (c) a new paragraph states what follows under the preferred route — *"what an interface would need is an improper-mixture-to-outcome transition, and decohered silicon undergoes those regardless. On that route the absence of macroscopic superposition disqualifies the LLM's* computation *without yet settling its hardware… The channel verdict stated here is conditional on the five-requirement standard, not categorical."*
+**Fixed** by three edits: (a) the pre-decoherence character of the three named frameworks is now stated and [P-Q1](/positions/quantum-interface/#p-q1) / [post-decoherence-selection](/concepts/post-decoherence-selection/) named as the Map's actual preference; (b) the "deeper problem" paragraph rescoped to "measured against that pre-decoherence family" and tightened; (c) a new paragraph states what follows under the preferred route — *"what an interface would need is an improper-mixture-to-outcome transition, and decohered silicon undergoes those regardless. On that route the absence of macroscopic superposition disqualifies the LLM's* computation *without yet settling its hardware… The channel verdict stated here is conditional on the five-requirement standard, not categorical."*
 
 ### New-Content Verification (the two post-06-25 additions)
 
-- **Interface-eligibility disclosure paragraph — verified faithful to P-AC1.** Article: *"the [positions register](/positions/ai-consciousness-scope/) (P-AC1) records that the five are its best current approximation to such a law, read off the biological interface and generalised, with the attendant risk that 'relevant' quietly reduces to 'whatever biology happens to have.'"* Register line 59: *"the corpus's nearest existing approximation is the **five-requirement channel test**… the requirements are read off the biological interface and generalised, not derived from a law."* Register line 58: *"Absent that law, 'relevant' risks reducing to 'whatever biology happens to have.'"* Both quoted spans grep-verifiable at source. **real-correct.**
+- **Interface-eligibility disclosure paragraph — verified faithful to [P-AC1](/positions/ai-consciousness-scope/#p-ac1).** Article: *"the [positions register](/positions/ai-consciousness-scope/) ([P-AC1](/positions/ai-consciousness-scope/#p-ac1)) records that the five are its best current approximation to such a law, read off the biological interface and generalised, with the attendant risk that 'relevant' quietly reduces to 'whatever biology happens to have.'"* Register line 59: *"the corpus's nearest existing approximation is the **five-requirement channel test**… the requirements are read off the biological interface and generalised, not derived from a law."* Register line 58: *"Absent that law, 'relevant' risks reducing to 'whatever biology happens to have.'"* Both quoted spans grep-verifiable at source. **real-correct.**
 - **Cross-link sentence to [quantum-hardware-and-the-ai-consciousness-coupling](/topics/quantum-hardware-and-the-ai-consciousness-coupling/) — verified faithful.** Article claims a "parallel verdict: live quantum states clear the bar classical hardware cannot, yet a computer engineered to protect coherence supplies no open selection site." Target article: *"Maintained superposition clears the bar that classical hardware cannot—it removes the 'no live indeterminacy at all' defeater. But a gate-based QPU then fails the *interface* requirements… leaving no open collapse for consciousness to bias"*; its Site Perspective adds *"live superposition is necessary but not sufficient."* **real-correct.** Note this is the `outbound-crosslink-sentences-are-never-reviewed-by-anyone` shape — installed into this article by another article's expand-topic run, bumping `ai_modified` without any reviewer reading it. It happens to be accurate; C1/C2 above, sitting adjacent to it, were not.
 
 ### Citation Verification (§2.4)
@@ -102,7 +102,7 @@ One named-opponent engagement, unchanged from prior passes:
 
 ### Strengths Preserved
 - The seven-step technical chain from Johnson-Nyquist noise to `torch.multinomial` — still the article's spine and untouched.
-- The five-dimension comparison table, and its two honest status labels (requirements-not-confirmations; requirements-not-derived-from-a-law). The register itself now cites this table as the corpus's nearest approximation to an interface-eligibility law, which makes this article load-bearing for P-AC1 rather than merely downstream of it.
+- The five-dimension comparison table, and its two honest status labels (requirements-not-confirmations; requirements-not-derived-from-a-law). The register itself now cites this table as the corpus's nearest approximation to an interface-eligibility law, which makes this article load-bearing for [P-AC1](/positions/ai-consciousness-scope/#p-ac1) rather than merely downstream of it.
 - The "quantum fossil" / "quantum echo" metaphor — preserved intact.
 - The RNG section's falsifiability concession.
 - Mode One engagement with Eisenstein.
@@ -113,7 +113,7 @@ One named-opponent engagement, unchanged from prior passes:
 - The "deeper problem" paragraph was tightened while being rescoped (redundant restatement of the channel-width partition removed), offsetting most of the added length.
 
 ### Cross-links Added
-- [quantum-interface](/positions/quantum-interface/) (P-Q1) — first link from this article to the mechanism register it depends on.
+- [quantum-interface](/positions/quantum-interface/) ([P-Q1](/positions/quantum-interface/#p-q1)) — first link from this article to the mechanism register it depends on.
 - [post-decoherence-selection](/concepts/post-decoherence-selection/) — the concept the article's central argument needed and lacked.
 
 ## Length Accounting
@@ -122,7 +122,7 @@ Before: 2839 words (95% of 3000). After: **2942 words (98%)**. Net **+103**. Nea
 
 ## Remaining Items
 
-None requiring a task. The article is now aligned with P-AC1, P-Q1, and the apex.
+None requiring a task. The article is now aligned with [P-AC1](/positions/ai-consciousness-scope/#p-ac1), [P-Q1](/positions/quantum-interface/#p-q1), and the apex.
 
 ## Stability Notes
 

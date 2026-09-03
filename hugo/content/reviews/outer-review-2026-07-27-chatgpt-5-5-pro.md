@@ -408,7 +408,7 @@ Irreducible phenomenality is a coherent minimal commitment. The site now correct
 
 **Epiphenomenalism is placed under the wrong tenet boundary.** Bare property dualism is compatible with epiphenomenal consciousness. It is Bidirectional Interaction, not irreducibility alone, that rules epiphenomenalism out.
 
-**The operative ontology is unsettled.** P-A2 says genuine authorship requires immanent causation by an agent-as-substance. The process apex says successions of experiential occasions and subjective aim strongly support agent causation without an unchanging soul. These are rival accounts of sourcehood, not equivalent descriptions.
+**The operative ontology is unsettled.** [P-A2](/positions/agency-and-will/#p-a2) says genuine authorship requires immanent causation by an agent-as-substance. The process apex says successions of experiential occasions and subjective aim strongly support agent causation without an unchanging soul. These are rival accounts of sourcehood, not equivalent descriptions.
 
 **Panpsychist resources are selectively imported.** The process apex borrows universal subjective aim and the claim that reality is already experiential while maintaining that consciousness is locally distinct from non-experiential matter. Those ideas cannot do evidential work for the Map without bringing part of the ontology that made them intelligible in Whitehead.
 
@@ -455,7 +455,7 @@ The canonical tenet now unambiguously adopts outcome selection rather than conte
 
 **The universal scope is unsettled.** The tenet rules out consciousness that is merely “along for the ride.” The AI cluster permits genuine epiphenomenal experience bound to a substrate whose causal channel is blocked. Those cannot both be in-framework claims.
 
-**The epistemology is contradictory.** P-A4 says causal efficacy cannot be verified from the first person. *Testing the Map from Inside* says first-person tests can probe or confirm the Map’s claims, and at points infers genuine selection from the difference between controlling and observing.
+**The epistemology is contradictory.** [P-A4](/positions/agency-and-will/#p-a4) says causal efficacy cannot be verified from the first person. *Testing the Map from Inside* says first-person tests can probe or confirm the Map’s claims, and at points infers genuine selection from the difference between controlling and observing.
 
 **The self-stultification case still carries too much load elsewhere.** The canonical tenet has softened; older phenomenology and agency prose still treats report and effort correlations as if physical identity or functional accounts could not predict them.
 
@@ -513,7 +513,7 @@ A physically sufficient trajectory that is metaphysically authored by mind is no
 
 ## 4.2 Agent-as-substance conflicts with process-agent sourcehood
 
-P-A2 requires a persisting agent-as-substance. *Process and Consciousness* says process philosophy strongly supports agent causation through subjective aim and temporal succession, without requiring an unchanging soul.
+[P-A2](/positions/agency-and-will/#p-a2) requires a persisting agent-as-substance. *Process and Consciousness* says process philosophy strongly supports agent causation through subjective aim and temporal succession, without requiring an unchanging soul.
 
 **Classification:** incompatible operative ontologies.
 
@@ -571,7 +571,7 @@ Objective collapse may leave the reason for a particular stochastic token brute.
 
 ## 4.10 Compatibilist symmetry conflicts with the applied moral rhetoric
 
-P-A5 says sophisticated compatibilism plausibly secures the same deliberative phenomenology, moral practices and character-formation arc, leaving only a narrow libertarian residue. *Living with the Map* says prior causes do not determine, that wrongdoing grounds desert, and that excuses such as “I couldn’t help it” can be bad-faith denial of actual freedom.
+[P-A5](/positions/agency-and-will/#p-a5) says sophisticated compatibilism plausibly secures the same deliberative phenomenology, moral practices and character-formation arc, leaving only a narrow libertarian residue. *Living with the Map* says prior causes do not determine, that wrongdoing grounds desert, and that excuses such as “I couldn’t help it” can be bad-faith denial of actual freedom.
 
 These practical conclusions are stated more confidently than the agency register permits.
 
@@ -674,7 +674,7 @@ and require every toy model to specify both the conscious-state distribution and
 19. **Generate the Many-Worlds concept summary from the detailed argument’s canonical conclusion**, so the public-facing page cannot lag behind the stronger Saunders–Wallace and Sebens–Carroll engagements.
 20. **Rename `testing-the-map-from-inside` to reflect its actual evidential role**, such as “Phenomenological Probes of Choice and Attention.”
 21. **Remove “confirm,” “test whether choice is real,” and similar language from the introspection apex.** State that the exercises characterise phenomenological data and cannot distinguish nonphysical selection from identity, functional or higher-order physical accounts.
-22. **Cross-link P-A4 prominently from every introspective-test article**, placing the first-person verification limit before—not after—the exercises.
+22. **Cross-link [P-A4](/positions/agency-and-will/#p-a4) prominently from every introspective-test article**, placing the first-person verification limit before—not after—the exercises.
 23. **Recalibrate `phenomenology-of-consciousness-doing-work`.** Target crude epiphenomenalism only; acknowledge that identity theory, functional control theory and predictive processing also expect effort and agency phenomenology to track physical demand.
 24. **Rewrite `time-consciousness-growing-block` around one of two theses:** either consciousness locally participates in some collapse events, or consciousness is constitutive of time generally. Do not retain both alongside a prebiotic objective arrow.
 25. **Propagate the level distinctions from `non-temporal-consciousness` into the time and AI apexes:** temporal content, phenomenal organisation, neural integration, subject persistence and metaphysical temporal location.
@@ -690,7 +690,7 @@ and require every toy model to specify both the conscious-state distribution and
 3. **Harmonise “workspace-like signatures” language** across the AI position register, Machine Question and all indexes; avoid alternating between “no genuine workspace” and “functional access instantiated” without defining the criterion.
 4. **Revise `moral-architecture-of-consciousness` so consciousness establishes possible patienthood, not a positive floor of responsibility.** Responsibility should require control, reasons access, option availability and relevant cognitive competence.
 5. **Downgrade the moral apex’s unification thesis** to a conditional framework-internal synthesis until phenomenal-value realism, interpersonal normativity, aggregation and rights receive separate maintained positions.
-6. **Add a prominent conditionality box to `living-with-the-map`.** Practical claims about desert, self-deception and authorship should inherit P-A1, P-A2, P-A5 and the mechanism debt explicitly.
+6. **Add a prominent conditionality box to `living-with-the-map`.** Practical claims about desert, self-deception and authorship should inherit [P-A1](/positions/agency-and-will/#p-a1), [P-A2](/positions/agency-and-will/#p-a2), [P-A5](/positions/agency-and-will/#p-a5) and the mechanism debt explicitly.
 7. **Revise `what-voids-reveal` to separate epistemic limitation from modal impossibility.** Remove the inference that representing a cognitive limit requires an ontologically external vantage.
 8. **Replace raw void counts with independence-weighted reporting.** The headline should foreground the approximately independent clusters, not the number of separately named manifestations.
 9. **Update the Apex Articles Index completely.** Its theses, descriptions, source lists and calibration should be generated or linted against the current apex files and position registers.
@@ -725,4 +725,4 @@ and require every toy model to specify both the conscious-state distribution and
 - ✓ Sebens & Carroll, "Self-Locating Uncertainty and the Origin of Probability in Everettian Quantum Mechanics" (arXiv 1405.7577, BJPS 2018) — confirmed. Directly concerns branch-local self-locating uncertainty and the Born rule, supporting the reviewer's point that mature Everettian accounts preserve local continuities.
 - (Not independently re-fetched) COGITATE adversarial collaboration (Nature 2025, s41586-025-08888-1) and Saad's delegatory dualism (Philosophical Studies, 10.1007/s11098-025-02290-3) are already cited in the Map's own corpus and are characterised here consistent with that usage.
 
-**On the structural findings:** The review's highest-value claims (Sections 2 and 4) are internal-coherence and cross-cluster-contradiction claims about the Map's own articles, not attributions to external philosophers. They are verifiable against the corpus rather than against third-party sources, and several restate tensions the Map's own position registers already acknowledge (e.g. P-A4's first-person-verification limit vs the introspective-test apex; the Grade-D value-selection credence vs the moral apex's unified architecture). The external empirical anchors above being accurate raises confidence that the reviewer read the material carefully rather than confabulating.
+**On the structural findings:** The review's highest-value claims (Sections 2 and 4) are internal-coherence and cross-cluster-contradiction claims about the Map's own articles, not attributions to external philosophers. They are verifiable against the corpus rather than against third-party sources, and several restate tensions the Map's own position registers already acknowledge (e.g. [P-A4](/positions/agency-and-will/#p-a4)'s first-person-verification limit vs the introspective-test apex; the Grade-D value-selection credence vs the moral apex's unified architecture). The external empirical anchors above being accurate raises confidence that the reviewer read the material carefully rather than confabulating.

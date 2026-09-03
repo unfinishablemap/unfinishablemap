@@ -59,7 +59,7 @@ while denying physicalism and Everettianism the same one.
 was applied to the parent [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) on 2026-08-06 (commit
 `178f33dc0b`), and to [the register](/positions/value-in-selection/) and
 [embodied-interface](/apex/embodied-interface/) on 2026-08-17 (commit `ff50e14dda`, whose message names the defect:
-"minimality is doing truth-ranking work … which Tenet 2 disclaims and Tenet 5 forbids"). P-VS1's
+"minimality is doing truth-ranking work … which Tenet 2 disclaims and Tenet 5 forbids"). [P-VS1](/positions/value-in-selection/#p-vs1)'s
 own update note records the fix and says the parent "already held the corrected framing." A
 corpus-wide grep of `obsidian/` and `hugo/content/` for the phrase "horn to beat" returned
 **this file and only this file** (plus its Hugo mirror) outside `reviews/` and `workflow/`.
@@ -124,7 +124,7 @@ body and once in the gloss).
 
 **3. MEDIUM — no routing to the positions register that cites this article.** (fixed)
 
-[P-VS1](/positions/value-in-selection/) names this article in its `Argued in` line and carries the
+[P-VS1](/positions/value-in-selection/#p-vs1) names this article in its `Argued in` line and carries the
 calibration the article's decline should be read at (*low* credence, external-evidence grade D,
 "leaning value-sensitive without a mechanism is an aspiration, not a position"), together with an
 inherited-and-undischarged mechanism debt. The article routed to none of it. Corpus convention is
@@ -136,7 +136,7 @@ both ways," with the register's own wording quoted verbatim (grep-verified again
 **4. MEDIUM — illusionism rejection stated flatter than the register holds it.** (fixed)
 
 The article said the Map's [phenomenal-value-realism](/topics/phenomenal-value-realism/) and [consciousness-value-connection](/concepts/consciousness-value-connection/)
-"reject illusionism at the framework's foundations." P-VS3 grades that rejection more carefully:
+"reject illusionism at the framework's foundations." [P-VS3](/positions/value-in-selection/#p-vs3) grades that rejection more carefully:
 credence *moderate*, "the rival is live … the Map's three replies (regress, practical,
 contemplative) are arguments it runs, not results it has won — the contemplative one mixed on its
 own account." [consciousness-value-connection](/concepts/consciousness-value-connection/) took four corrective refine passes on
@@ -225,7 +225,7 @@ returned nothing).
 
 - [graduated-middle-path-valence-modulated-attention](/topics/graduated-middle-path-valence-modulated-attention/) — now linked from the body, not only from
   Further Reading; reciprocates the sibling's existing inbound link.
-- [P-VS1](/positions/value-in-selection/) — register routing.
+- [P-VS1](/positions/value-in-selection/#p-vs1) — register routing.
 - [psychophysical-laws](/concepts/psychophysical-laws/) — cited for the unspecified second coupling, matching the parent's own
   reference.
 

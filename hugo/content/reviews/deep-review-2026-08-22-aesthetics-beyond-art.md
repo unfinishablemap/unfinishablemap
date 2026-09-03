@@ -29,7 +29,7 @@ The hub [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) mo
 - Hub quote "suffuses ordinary consciousness far beyond art galleries" — still verbatim at hub L92.
 - Hub section "The Pervasiveness of Aesthetic Quality" named in Further Reading — still exists (hub L90).
 - The Irvin dual-use claim now reads *stronger*, not stale: post-audit, constitutive holism is one of only three premises, so Irvin's denial of unity/closure bites harder than the article claims. Left as written — upgrading it would resolve a tension the stability notes require to stay open.
-- Register check: [P-MC4](/positions/arguments-for-mental-causation/) and [P-D2](/positions/arguments-for-dualism/) register the aesthetic-case audit and forbid count inflation. This article makes no tally claim, so no conflict. [P-VS3/P-VS4](/positions/value-in-selection/) ground the phenomenal-value-realism cross-reference; the article's characterisation of it is accurate.
+- Register check: [P-MC4](/positions/arguments-for-mental-causation/#p-mc4) and [P-D2](/positions/arguments-for-dualism/#p-d2) register the aesthetic-case audit and forbid count inflation. This article makes no tally claim, so no conflict. [P-VS3/P-VS4](/positions/value-in-selection/) ground the phenomenal-value-realism cross-reference; the article's characterisation of it is accurate.
 
 ## Pessimistic Analysis Summary
 

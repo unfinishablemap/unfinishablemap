@@ -37,7 +37,7 @@ The brief required checking [apex/cross-modal-capability-division.md](/apex/cros
 - [topics/thermal-consciousness-and-the-interface.md](/topics/thermal-consciousness-and-the-interface/) — ambient state-indexed comfort as constitutively evaluative presentation
 - [topics/tactile-consciousness-and-the-interface.md](/topics/tactile-consciousness-and-the-interface/) — active/passive split within one modality
 - [concepts/evaluative-phenomenal-character.md](/concepts/evaluative-phenomenal-character/) — experience arriving already valued
-- Positions: `value-in-selection` (P-VS1), `quantum-interface` (P-Q3, P-Q9, P-Q10), `consciousness-scope` (P-CS4), `agency-and-will` (P-A1, P-A4)
+- Positions: `value-in-selection` ([P-VS1](/positions/value-in-selection/#p-vs1)), `quantum-interface` ([P-Q3](/positions/quantum-interface/#p-q3), [P-Q9](/positions/quantum-interface/#p-q9), [P-Q10](/positions/quantum-interface/#p-q10)), `consciousness-scope` ([P-CS4](/positions/consciousness-scope/#p-cs4)), `agency-and-will` ([P-A1](/positions/agency-and-will/#p-a1), [P-A4](/positions/agency-and-will/#p-a4))
 
 ## Pessimistic Review (3 personas)
 
@@ -53,16 +53,16 @@ The brief required checking [apex/cross-modal-capability-division.md](/apex/cros
 
 ## §2.G Tension — Honest Framing (per evidential-status-discipline)
 
-The attention-selection mechanism is held to its actual scope: it claims only the narrow causal category, inherits the P-Q3 bias-without-deviation mechanism debt and the P-A4 verification limit, and does NOT annex constitutive or presentation experience. Whether pain's constitutive structure is causally load-bearing is left as the open P-VS1 value-blind/value-sensitive fork (low confidence). The verdict is cascade-tagged against P-VS1 / P-A1 / P-Q3 shifts. The materialist account is engaged as the rival to out-accommodate, not as an ally; no somatic datum is claimed to confirm the interface.
+The attention-selection mechanism is held to its actual scope: it claims only the narrow causal category, inherits the [P-Q3](/positions/quantum-interface/#p-q3) bias-without-deviation mechanism debt and the [P-A4](/positions/agency-and-will/#p-a4) verification limit, and does NOT annex constitutive or presentation experience. Whether pain's constitutive structure is causally load-bearing is left as the open [P-VS1](/positions/value-in-selection/#p-vs1) value-blind/value-sensitive fork (low confidence). The verdict is cascade-tagged against [P-VS1](/positions/value-in-selection/#p-vs1) / [P-A1](/positions/agency-and-will/#p-a1) / [P-Q3](/positions/quantum-interface/#p-q3) shifts. The materialist account is engaged as the rival to out-accommodate, not as an ally; no somatic datum is claimed to confirm the interface.
 
 ## Applied Discipline Checklist (6 points)
 
-1. ✅ Cites ≥3 positions (P-A1, P-Q3, P-VS1, P-CS4, + P-A4, P-Q10) in `apex_positions_cited` and in-body.
+1. ✅ Cites ≥3 positions ([P-A1](/positions/agency-and-will/#p-a1), [P-Q3](/positions/quantum-interface/#p-q3), [P-VS1](/positions/value-in-selection/#p-vs1), [P-CS4](/positions/consciousness-scope/#p-cs4), + [P-A4](/positions/agency-and-will/#p-a4), [P-Q10](/positions/quantum-interface/#p-q10)) in `apex_positions_cited` and in-body.
 2. ✅ Confidence bands surfaced in prose (moderate / moderate / low / moderate / high / high).
 3. ✅ "What this implies for decisions" section present, named exactly, five concrete implications.
 4. ✅ `apex_decision_context` set; opening paragraph names the decision context.
 5. ✅ Honest verdict scope — distinguishes what the positions license (under-claim) from over-extension; names the open fork.
-6. ✅ Cascade-tagged — verdict re-evaluation triggers stated for P-VS1 raised, P-A1 retired, P-Q3 resolved.
+6. ✅ Cascade-tagged — verdict re-evaluation triggers stated for [P-VS1](/positions/value-in-selection/#p-vs1) raised, [P-A1](/positions/agency-and-will/#p-a1) retired, [P-Q3](/positions/quantum-interface/#p-q3) resolved.
 
 ## Length Assessment
 

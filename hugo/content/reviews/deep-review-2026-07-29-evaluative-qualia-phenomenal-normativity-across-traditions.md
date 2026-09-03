@@ -28,7 +28,7 @@ topics: []
 
 ## Summary
 
-The 2026-07-28 refine (prompted by [the 07-28 optimistic review](/reviews/optimistic-2026-07-28-evaluative-normativity-cluster/)) was the right repair: it inherited P-D3's discount, deflated five traditions to at most three near-independent lineages, and demoted the Confucian strand to illustration. That work is sound and is preserved.
+The 2026-07-28 refine (prompted by [the 07-28 optimistic review](/reviews/optimistic-2026-07-28-evaluative-normativity-cluster/)) was the right repair: it inherited [P-D3](/positions/arguments-for-dualism/#p-d3)'s discount, deflated five traditions to at most three near-independent lineages, and demoted the Confucian strand to illustration. That work is sound and is preserved.
 
 It introduced one **critical attribution defect** in doing so: at two loci it reported the sibling article [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) as holding a verdict that article **explicitly declines to settle**. Both loci are corrected. Three citation-framing fixes and one stale self-cite pair were also resolved.
 
@@ -99,7 +99,7 @@ No new wikilinks added. The 07-28 rework already installed the two links the opt
 
 ## Remaining Items
 
-- **P-D3's `Argued in` still does not list this article.** Flagged by the 07-28 optimistic review; it is register work, out of scope for `deep-review`. No task minted here — check whether the optimistic review's own `positions-evolve` mint already covers it before adding a duplicate.
+- **[P-D3](/positions/arguments-for-dualism/#p-d3)'s `Argued in` still does not list this article.** Flagged by the 07-28 optimistic review; it is register work, out of scope for `deep-review`. No task minted here — check whether the optimistic review's own `positions-evolve` mint already covers it before adding a duplicate.
 - The concept hub [concepts/evaluative-phenomenal-character.md](/concepts/evaluative-phenomenal-character/) L151 still runs the undiscounted "no common textual lineage" claim. **Already queued as a P3 task** in `todo.md`; not re-minted.
 
 ## Stability Notes

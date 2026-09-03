@@ -30,12 +30,12 @@ defer to a timestamp-only outcome unless a related article restructuring creates
 ## Changes Since Seventh Review (all cross-link installs to newly-created articles)
 
 1. **positions register back-cite** (Agent vs. Event Causation §): "The Map registers this in its
-   [positions register](/positions/agency-and-will/) as P-A2 (authorship requires agent causation,
-   not merely event-causal indeterminism), downstream of P-A1 (the agent-causal libertarian
-   commitment)." — **VERIFIED FAITHFUL.** positions/agency-and-will.md defines P-A1 = "The Map holds
-   agent-causal libertarian free will" and P-A2 = "Authorship requires agent causation, not merely
-   event-causal indeterminism," with P-A2 listing "Depends on: P-A1" — exactly matching the
-   article's "downstream of P-A1." No overstatement.
+   [positions register](/positions/agency-and-will/) as [P-A2](/positions/agency-and-will/#p-a2) (authorship requires agent causation,
+   not merely event-causal indeterminism), downstream of [P-A1](/positions/agency-and-will/#p-a1) (the agent-causal libertarian
+   commitment)." — **VERIFIED FAITHFUL.** positions/agency-and-will.md defines [P-A1](/positions/agency-and-will/#p-a1) = "The Map holds
+   agent-causal libertarian free will" and [P-A2](/positions/agency-and-will/#p-a2) = "Authorship requires agent causation, not merely
+   event-causal indeterminism," with [P-A2](/positions/agency-and-will/#p-a2) listing "Depends on: [P-A1](/positions/agency-and-will/#p-a1)" — exactly matching the
+   article's "downstream of [P-A1](/positions/agency-and-will/#p-a1)." No overstatement.
 2. **philosophy-of-action cross-link** (Lowe's Framework §): the new article "applies this Lowe
    framework directly to action theory, casting the agent's basic act as a *volition* (a trying)
    that biases quantum outcome-selection—the point at which the disappearing-agent objection to

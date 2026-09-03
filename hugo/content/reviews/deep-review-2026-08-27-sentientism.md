@@ -42,8 +42,8 @@ Cross-references, does not restate: the objection, its two sources, Metzinger's 
 
 Consistency checks on the new paragraph:
 
-- **Status/stakes separation** (§Disputed Implications; P-MS1/P-MS2 in [moral-status](/positions/moral-status/)): the momentary locus is assigned to *standing* and the persisting subject to *stakes* — the same cut. The marginal-cases paragraph's "trajectory, history, and standing relationships" is the diachronic layer now named.
-- **Cascade isolation**: the paragraph does not cite P-I1/P-SC3; the persisting subject is described as asserted "on agency grounds rather than on value", as the concept does. `positions/moral-status` not edited — the separate P2 positions-evolve for P-MS1 owns that and can take this paragraph's wording.
+- **Status/stakes separation** (§Disputed Implications; [P-MS1](/positions/moral-status/#p-ms1)/[P-MS2](/positions/moral-status/#p-ms2) in [moral-status](/positions/moral-status/)): the momentary locus is assigned to *standing* and the persisting subject to *stakes* — the same cut. The marginal-cases paragraph's "trajectory, history, and standing relationships" is the diachronic layer now named.
+- **Cascade isolation**: the paragraph does not cite [P-I1](/positions/individuation-and-subjecthood/#p-i1)/[P-SC3](/positions/subject-census/#p-sc3); the persisting subject is described as asserted "on agency grounds rather than on value", as the concept does. `positions/moral-status` not edited — the separate P2 positions-evolve for [P-MS1](/positions/moral-status/#p-ms1) owns that and can take this paragraph's wording.
 
 ## Length handling (binding: net ≤ 0)
 
@@ -109,7 +109,7 @@ Both anchors confirmed on disk in the concept (`{#maps-reply}`, `{#implications}
 ## Remaining Items
 
 - Williams 1992 promotion (carried from 08-26); 74 words of headroom is still not enough to spend on a non-defect.
-- P-MS1 in `positions/moral-status` should say the experiencer its derivation needs is a momentary locus — the queued P2 positions-evolve owns that and can cite this paragraph.
+- [P-MS1](/positions/moral-status/#p-ms1) in `positions/moral-status` should say the experiencer its derivation needs is a momentary locus — the queued P2 positions-evolve owns that and can cite this paragraph.
 
 ## Stability Notes
 

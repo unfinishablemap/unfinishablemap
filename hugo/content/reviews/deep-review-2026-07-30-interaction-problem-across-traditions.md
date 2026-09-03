@@ -28,7 +28,7 @@ topics: []
 
 **1. Independence over-claim at "What the Typology Reveals" (was L115).** The article asserted that "Sāṃkhya, Nyāya, Avicenna, Descartes, and Buddhist Abhidharma **independently** identify the same difficulty." Three of those five — Sāṃkhya, Nyāya, Abhidharma — share a single Indian philosophical milieu, and Avicenna inherits Greek philosophy directly, as does Descartes. The claim therefore triple-counted one lineage and double-counted another, presenting roughly two near-independent lineages as five.
 
-This contradicts the Map's own register. [P-D3](/positions/arguments-for-dualism/) holds that cross-traditional convergence is *near-independence, not a third confirmation*, citing the shared Indian milieu and Indo-Greek exchange through Gandhara as possible influence channels. Per the driver's instruction the article was fixed, not the register.
+This contradicts the Map's own register. [P-D3](/positions/arguments-for-dualism/#p-d3) holds that cross-traditional convergence is *near-independence, not a third confirmation*, citing the shared Indian milieu and Indo-Greek exchange through Gandhara as possible influence channels. Per the driver's instruction the article was fixed, not the register.
 
 The direction matters: this over-claim ran **in the Map's favour**, inflating a convergence count that supports its argument. That is the class of error a sympathetic reviewer waves through, and six prior reviews did.
 
@@ -152,7 +152,7 @@ None. All existing wikilinks verified to resolve (checked against `obsidian/` an
 
 ## Stability Notes
 
-- **The independence-count defect is now fixed and should not oscillate.** A future review that finds the paragraph "over-hedged" should not restore the bare "independently" claim — the hedge is required by [P-D3](/positions/arguments-for-dualism/), and removing it would recreate a register conflict. Equally, the fix is deliberately confined: L117 and L133 already carry the problem/answer calibration and need no reinforcement.
+- **The independence-count defect is now fixed and should not oscillate.** A future review that finds the paragraph "over-hedged" should not restore the bare "independently" claim — the hedge is required by [P-D3](/positions/arguments-for-dualism/#p-d3), and removing it would recreate a register conflict. Equally, the fix is deliberately confined: L117 and L133 already carry the problem/answer calibration and need no reinforcement.
 - **Physicalist, eliminativist, and process-monist disagreement with the typology's premises is bedrock**, at the framework boundary, and must not be re-flagged as critical.
 - **The citation surface is now genuinely checked**, which it was not before this pass despite four prior reviews carrying verification sections. The ledger above is per-entry and names the three entries *not* checked. Future reviews should carry it forward rather than re-running all 20, and should treat "a ledger exists" as distinct from "these specific entries were verified" — that conflation is how 20 references accumulated unchecked across six reviews.
 - **Lesson worth generalising**: this article's over-claim ran *in the Map's favour*. Six reviews, several with explicit citation sections, passed over an independence count that the Map's own positions register already forbade. Over-claims that flatter the argument need to be hunted deliberately; they do not surface from adversarial reading alone.

@@ -65,7 +65,7 @@ Three citations were **newly added** today and had never been verified. Those ar
 
 Two new deep-links into the Map's own register, both re-grepped against the **current** sibling rather than assumed:
 
-- `[[positions/quantum-interface#^mechanism-debt|P-Q3]]` — anchor `^mechanism-debt` present (quantum-interface.md L75); the quoted span "sits genuinely close to epiphenomenalism" greps **verbatim** in the raw source. The framing ("the strongest live challenge to the mechanism rather than a settled matter") matches P-Q3's own heading and Asserts block. Citation-framing accurate — the register is not being cited for a verdict it never reached.
+- `[[positions/quantum-interface#^mechanism-debt|P-Q3]]` — anchor `^mechanism-debt` present (quantum-interface.md L75); the quoted span "sits genuinely close to epiphenomenalism" greps **verbatim** in the raw source. The framing ("the strongest live challenge to the mechanism rather than a settled matter") matches [P-Q3](/positions/quantum-interface/#p-q3)'s own heading and Asserts block. Citation-framing accurate — the register is not being cited for a verdict it never reached.
 - `[[tenets#^tenet-3-standing|Tenet 3]]` — anchor present (tenets.md L95); the paragraph there does register the mechanism shortfall the article leans on. Accurate.
 
 ### Medium Issues Found

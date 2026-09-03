@@ -223,7 +223,7 @@ Chalmers proposes that consciousness requires new *fundamental laws*—psychophy
 
 The Map's interactionist framework addresses its row through quantum mechanics—consciousness selects among outcomes physics leaves undetermined. See [combination-problem](/concepts/combination-problem/) for detailed treatment.
 
-The move from irreducibility to dualism is a further step, taken openly: convergence earns irreducibility across the rivals that respect it, and [Bidirectional Interaction](/tenets/#bidirectional-interaction) selects dualism among them. The two earnings do not compound — see [why dualism rather than idealism or Russellian monism](/concepts/dualism/#why-dualism-not-idealism-or-russellian-monism) and [P-D2](/positions/arguments-for-dualism/).
+The move from irreducibility to dualism is a further step, taken openly: convergence earns irreducibility across the rivals that respect it, and [Bidirectional Interaction](/tenets/#bidirectional-interaction) selects dualism among them. The two earnings do not compound — see [why dualism rather than idealism or Russellian monism](/concepts/dualism/#why-dualism-not-idealism-or-russellian-monism) and [P-D2](/positions/arguments-for-dualism/#p-d2).
 
 ### Mysterianism
 

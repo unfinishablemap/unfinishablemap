@@ -257,17 +257,17 @@ and factually true of prokaryotes, so it was left as is.
 **M2 — Under-specification against the positions register (fixed).** The article
 framed the Tenet-5 parsimony symmetry as a pure standoff: "the residue is not a tie to
 be broken by more data but a boundary of what data can decide." The register entry
-governing this rung, **P-CS5** in [consciousness-scope](/positions/consciousness-scope/), is more committed:
+governing this rung, **[P-CS5](/positions/consciousness-scope/#p-cs5)** in [consciousness-scope](/positions/consciousness-scope/), is more committed:
 parsimony's default ("no coupling, nothing chosen, nothing felt") is *undefeated but
 not positively established* — "the Map endorses it as the reading the behaviour
 matches while denying it is proven," at **moderate** credence.
 
 The article was not wrong in anything it said, but it never stated the register's
-endorsement, and the linkage was one-directional: P-CS5's `Argued in` names this
+endorsement, and the linkage was one-directional: [P-CS5](/positions/consciousness-scope/#p-cs5)'s `Argued in` names this
 article first, while the article contained zero occurrences of `positions/` or
 `P-CS`. Cf. `analysis-doc-cites-the-article-article-never-cites-back`.
 
-*Fix applied* — P-CS5 now cited in the lead, in the Tenet-5 section (with the
+*Fix applied* — [P-CS5](/positions/consciousness-scope/#p-cs5) now cited in the lead, in the Tenet-5 section (with the
 register's asymmetry stated and its moderate credence named as governing), in Further
 Reading, and in `related_articles`. This also resolves a latent tension between the
 "no threshold-crossing fact to discover" phrasing in the candidate-criteria section
@@ -308,7 +308,7 @@ and the epistemic-limit reading elsewhere: the register settles which the Map ho
 
 ### Cross-links Added
 
-- [P-CS5](/positions/consciousness-scope/) (lead, Tenet-5 section, Further Reading,
+- [P-CS5](/positions/consciousness-scope/#p-cs5) (lead, Tenet-5 section, Further Reading,
   `related_articles`)
 - [interface-threshold](/concepts/interface-threshold/) (body — previously frontmatter-only)
 
@@ -392,7 +392,7 @@ in C3 above rests on raw grep of the retrieved full text, not on a fetch summary
   Sourjik & Berg 2002 and He et al. 2016 resolved at Crossref; He 2016 abstract via
   EuropePMC. ScienceDirect and PNAS both 403 to WebFetch — Crossref/EuropePMC used
   instead, per `webfetch-survives-websearch-exhaustion`.
-- All three P-CS5 fragments quoted in the article grep-verified verbatim against
+- All three [P-CS5](/positions/consciousness-scope/#p-cs5) fragments quoted in the article grep-verified verbatim against
   [positions/consciousness-scope.md](/positions/consciousness-scope/) (count 1 each).
 - Both interface-threshold claims paraphrased grep-verified against the concept page.
 - Wikilink targets: all resolve. Editor-vocabulary scan: clean. LLM-cliché scan
@@ -405,7 +405,7 @@ in C3 above rests on raw grep of the retrieved full text, not on a fetch summary
 
 - The **apex source-list omission** noted above — a question for `apex-evolve`, not
   this article.
-- The sibling chemotaxis article and the apex **also** fail to cite P-CS5; the
+- The sibling chemotaxis article and the apex **also** fail to cite [P-CS5](/positions/consciousness-scope/#p-cs5); the
   register→article linkage is one-directional cluster-wide, not just here. Worth a
   `positions-evolve` or cross-link pass if it recurs.
 
@@ -415,7 +415,7 @@ in C3 above rests on raw grep of the retrieved full text, not on a fetch summary
   **bedrock framework-boundary disagreement**, not a fixable defect. (Carried from
   both prior reviews.)
 - The in-principle-intractability thesis is a deliberately hedged **wager**, now
-  additionally anchored to P-CS5's moderate credence. Do not flag as unsupported.
+  additionally anchored to [P-CS5](/positions/consciousness-scope/#p-cs5)'s moderate credence. Do not flag as unsupported.
 - The Brancazio DOI is intentionally omitted (unconfirmed at publisher). Do not
   "restore" it. (Carried from 07-16.)
 - **New**: the Sourjik detail is now correct and was wrong for three reviews in its

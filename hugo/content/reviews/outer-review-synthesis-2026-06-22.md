@@ -47,10 +47,10 @@ Three convergent ChatGPT+Claude findings emerged: (1) the quantum-biology topic 
 
 ### Convergence-as-evidence circularity vs the voids-circularity-discount
 - **Flagged by**: chatgpt, claude
-- **Verification**: clean — both reviewers' named slugs (`convergence-as-evidence`, `the-evidential-weight-of-voids`) are archived; the live targets are `the-convergence-argument-for-dualism` / `epistemology-of-convergence-arguments` / `taxonomy-of-voids`. The substantive circularity concern is correct about the live articles (cross-checked against the site's own P-V1/P-V2 and the `voids-circularity-discount` /project/ page).
+- **Verification**: clean — both reviewers' named slugs (`convergence-as-evidence`, `the-evidential-weight-of-voids`) are archived; the live targets are `the-convergence-argument-for-dualism` / `epistemology-of-convergence-arguments` / `taxonomy-of-voids`. The substantive circularity concern is correct about the live articles (cross-checked against the site's own [P-V1](/positions/voids-as-evidence/#p-v1)/[P-V2](/positions/voids-as-evidence/#p-v2) and the `voids-circularity-discount` /project/ page).
 - **Quotes**:
   - **Claude Opus 4.8**: "The convergence argument is circular by the site's own diagnosis — but the apex has not been brought into line … the apex synthesis still reads as if the convergence is independent evidence. VERDICT: REVISE-HARD."
-  - **ChatGPT 5.5 Pro**: "the clustering of voids constitutes a distinct defeasible argument for dualism … The two should be reconciled; the index summary currently overstates the evidential force [relative to P-V1, P-V2]."
+  - **ChatGPT 5.5 Pro**: "the clustering of voids constitutes a distinct defeasible argument for dualism … The two should be reconciled; the index summary currently overstates the evidential force [relative to [P-V1](/positions/voids-as-evidence/#p-v1), [P-V2](/positions/voids-as-evidence/#p-v2)]."
 - **Task action**: Already P1 (no further upgrade beyond P1): "Bring the live convergence/apex articles into line with the voids-circularity-discount." Rewritten to cite both reviewers and add the synthesis pointer. NOTE: ChatGPT's finding ALSO has a distinct stale-served-hugo-URL mechanism (archived bodies still served un-flagged) — tracked separately in the "Fix stale-served archived URLs" task; not conflated.
 
 ### Positions register under-populated relative to the live corpus
@@ -69,7 +69,7 @@ Findings flagged by only one reliable reviewer. Not upgraded; left at original t
 - **ChatGPT 5.5 Pro**: Stale-served archived URLs (evidential-weight-of-voids, causal-delegation hugo duplicates serving un-flagged content) → task "Fix stale-served archived URLs" (P2). Distinct mechanism from the convergence-circularity cluster.
 - **ChatGPT 5.5 Pro**: Mindfulness "brain structural change" 2025 retraction sweep → task (P2).
 - **ChatGPT 5.5 Pro**: Empirical-precision fixes (Born-rule preprint status, 10 bits/s serial-throughput bound, Diósi–Penrose "parameter-free" qualifier, entanglement-binding hedge) → task (P2).
-- **ChatGPT 5.5 Pro**: Born-preserving causal-efficacy apex (P-Q2+P-Q3+P-Q10) → apex-evolve task (P2).
+- **ChatGPT 5.5 Pro**: Born-preserving causal-efficacy apex ([P-Q2](/positions/quantum-interface/#p-q2)+[P-Q3](/positions/quantum-interface/#p-q3)+[P-Q10](/positions/quantum-interface/#p-q10)) → apex-evolve task (P2).
 - **ChatGPT 5.5 Pro**: Embodied-interface apex (thermal/vestibular/tactile/interoceptive/somatic) → apex-evolve task (P2).
 - **ChatGPT 5.5 Pro**: Parapsychology-firewall article/section (spectacular psi would disconfirm, not support, the Map) → expand-topic task (P2).
 - **Claude Opus 4.8**: Active-inference theory of consciousness (Laukkonen–Friston–Chandaria 2025) as a NAMED rival on the DMN/GWT/altered-states pages → task (P2). (Gemini gestured at active-inference too, but via a misattributed "fatal concession" quote — a misreading, not corroboration; stays singleton.)

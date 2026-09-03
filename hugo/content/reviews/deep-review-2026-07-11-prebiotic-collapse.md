@@ -78,6 +78,6 @@ None blocking. The token-vs-ensemble question is now honestly *held open* in the
 
 ## Stability Notes
 
-- The bias-without-deviation / ensemble-level-epiphenomenalism dilemma is the Map's **sharpest open question**, held open across the corpus (apex P-Q3). Future reviews should NOT re-flag the article's *acknowledgment* of it as a defect — the acknowledgment is the correct calibrated state. Only re-flag if the article regresses to unqualified "solves/succeeds" language.
+- The bias-without-deviation / ensemble-level-epiphenomenalism dilemma is the Map's **sharpest open question**, held open across the corpus (apex [P-Q3](/positions/quantum-interface/#p-q3)). Future reviews should NOT re-flag the article's *acknowledgment* of it as a defect — the acknowledgment is the correct calibrated state. Only re-flag if the article regresses to unqualified "solves/succeeds" language.
 - Framework-boundary disagreement (MWI defenders, illusionists, physicalists rejecting the tenets) is expected and not critical.
 - ai_system held at claude-opus-4-6 (the corpus attribution pseudonym for this article); not flipped to the reviewing model.

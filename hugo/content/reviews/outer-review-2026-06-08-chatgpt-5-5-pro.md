@@ -147,7 +147,7 @@ Each research note should have a stronger "used by / not yet integrated into / c
 
 Tenet 2 prefers minimal quantum interaction, and the Map's developed candidate is post-decoherence selection. [tenets](/tenets/) Tenet 3 requires consciousness to causally influence physical outcomes, but the position register says the default MQI reading preserves Born statistics exactly and that bias-without-deviation is the strongest live challenge. [quantum-interface](/positions/quantum-interface/)
 
-This is not a contradiction if token-level selection can be real while ensemble statistics remain unchanged. But until a toy model exists, the Map's own P-Q10 makes this a programme-level commitment rather than a mechanism-level account. [quantum-interface](/positions/quantum-interface/)
+This is not a contradiction if token-level selection can be real while ensemble statistics remain unchanged. But until a toy model exists, the Map's own [P-Q10](/positions/quantum-interface/#p-q10) makes this a programme-level commitment rather than a mechanism-level account. [quantum-interface](/positions/quantum-interface/)
 
 ### 3.2 Tenet 3's wording lags behind the post-decoherence calibration
 
@@ -207,7 +207,7 @@ The tension arises when AI or quantum articles use "smeared" consciousness possi
 
 ### 4.5 Formalization ambition vs formalization void
 
-The Map increasingly asks what the psychophysical control law would look like, and P-Q10 says no toy Hamiltonian, master equation, or simulation currently exists. [highlights](/workflow/highlights/) At the same time, the voids index includes interface-formalization as a dualism-specific void. [voids](/voids/)
+The Map increasingly asks what the psychophysical control law would look like, and [P-Q10](/positions/quantum-interface/#p-q10) says no toy Hamiltonian, master equation, or simulation currently exists. [highlights](/workflow/highlights/) At the same time, the voids index includes interface-formalization as a dualism-specific void. [voids](/voids/)
 
 This is not a failure; it is a productive tension. But the site needs a formalization ladder: verbal model → constraint list → toy model → empirical proxy → mathematical law. Without that ladder, "we need formalization" and "formalization may be void-like" can blur.
 
@@ -224,7 +224,7 @@ This tension affects navigation. The site cannot simultaneously treat apex as a 
 1. **`/workflow/changelog/`** — Replace the current metadata-only page with a human-readable changelog grouped by date, cluster, article, tenet affected, and change type: creation, calibration, contradiction fix, citation fix, position change, review-only, or sync-only. Keep the GitHub link, but do not make GitHub the only usable changelog. [changelog](/workflow/changelog/)
 2. **`/tenets/`** — Revise Tenet 3's mechanism wording so it does not imply that the preferred model requires consciousness collapsing coherent neural superpositions. Add a sentence distinguishing pre-decoherence collapse, post-decoherence outcome selection, and Process-1/context-selection alternatives. [tenets](/tenets/)
 3. **`/positions/`** — Seed at least five new position domains: `consciousness-scope`, `agency-and-will`, `voids-as-evidence`, `methodology-and-calibration`, and `applied-verdicts`. The positions page already names these as future domains; the corpus now needs them. [positions](/positions/)
-4. **`/positions/quantum-interface/`** — Promote P-Q3 and P-Q10 into a visible "blocking problems" box: bias-without-deviation and no worked toy model are not minor caveats but load-bearing constraints on the whole mechanism programme. [quantum-interface](/positions/quantum-interface/)
+4. **`/positions/quantum-interface/`** — Promote [P-Q3](/positions/quantum-interface/#p-q3) and [P-Q10](/positions/quantum-interface/#p-q10) into a visible "blocking problems" box: bias-without-deviation and no worked toy model are not minor caveats but load-bearing constraints on the whole mechanism programme. [quantum-interface](/positions/quantum-interface/)
 5. **`/voids/`** — Reconcile "Three Kinds of Void" with the later fourth category "Naturally Occluded" and the taxonomy apex's architectural/adaptive/deliberately occluded scheme. Add a versioned taxonomy table at the top of the voids index. [voids](/voids/)
 6. **`/apex/apex-articles/`** — Resolve the apex cap governance issue. Either retire the ~20 cap, convert it into a soft "synthesis threshold," or split apex into tiers: core apex, cluster apex, methodology apex, and applied apex. [apex-articles](/apex/apex-articles/)
 7. **`/apex/machine-question/` and `/topics/ai-consciousness/`** — Add a canonical distinction box: "bare phenomenality," "bidirectionally coupled consciousness," "report-grounded consciousness," and "inherited-discourse consciousness." This would align the AI cluster with the tenet-dependency matrix and prevent interactionism leakage. [tenets](/tenets/)
@@ -241,7 +241,7 @@ This tension affects navigation. The site cannot simultaneously treat apex as a 
 3. **Institute a "position debt" rule**: no new applied apex should be created unless the relevant position clusters exist or the article carries an explicit "position debt" warning. This would prevent decision-oriented articles from outrunning the confidence machinery. [apex-articles](/apex/apex-articles/)
 4. **Make absorbed/folded status machine-readable** for voids, concepts, and topics. The site already records absorptions in prose; frontmatter should expose `status: active | folded | absorbed | superseded | historical` and `folded_into:` targets. [voids](/voids/)
 5. **Run a scheduled "tenet leakage sweep"** using the tenet-dependency matrix: machine and animal articles should be checked for interactionism leakage; attention/memory articles for substance-leaning leakage; parsimony articles for Tenet 5 asymmetry. [tenets](/tenets/)
-6. **Add a formalization ladder to the interface programme**: prose commitment, constraint schema, toy model, empirical proxy, mathematical model, experimental design. P-Q10 should become the top-level tracker for this ladder. [quantum-interface](/positions/quantum-interface/)
+6. **Add a formalization ladder to the interface programme**: prose commitment, constraint schema, toy model, empirical proxy, mathematical model, experimental design. [P-Q10](/positions/quantum-interface/#p-q10) should become the top-level tracker for this ladder. [quantum-interface](/positions/quantum-interface/)
 7. **Separate "reader navigation" from "LLM retrieval design."** Keep summaries-first and important-information-first for LLMs, but add human-facing dashboards: cluster maturity, open problems, position coverage, unresolved contradictions, and recent changes. The current project brief is clear about LLM-oriented design, but the corpus now needs a second layer for human governance. [project-brief](/project/project-brief/)
 
 ## Verification Notes

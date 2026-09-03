@@ -27,14 +27,14 @@ topics: []
 
 ## Summary
 
-Fifth review. Damped score 38 (four prior reviews; 42 days since 07-15). The trigger this time was not a cosmetic cross-link bump but two dependencies that moved *under* the article after its last review: the conditional-signature formalism in [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) ("Where a Selection Could Show, If Anywhere", added 2026-07-16 — one day after the 07-15 review) and the positions register's 2026-08-24 re-rating of P-Q3's empirical discriminability from `none-by-construction` to `indirect` on the strength of that formalism. P-Q3 names this article as "the sharpest route-by-route statement" of the question, and the route the register now relies on was absent from it. The 2026-08-22 refine pass carried the unconditioned-marginal narrowing into §The Trumping Route (L52) but not into the lead, which still said "No statistical signature appears in any long run."
+Fifth review. Damped score 38 (four prior reviews; 42 days since 07-15). The trigger this time was not a cosmetic cross-link bump but two dependencies that moved *under* the article after its last review: the conditional-signature formalism in [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) ("Where a Selection Could Show, If Anywhere", added 2026-07-16 — one day after the 07-15 review) and the positions register's 2026-08-24 re-rating of [P-Q3](/positions/quantum-interface/#p-q3)'s empirical discriminability from `none-by-construction` to `indirect` on the strength of that formalism. [P-Q3](/positions/quantum-interface/#p-q3) names this article as "the sharpest route-by-route statement" of the question, and the route the register now relies on was absent from it. The 2026-08-22 refine pass carried the unconditioned-marginal narrowing into §The Trumping Route (L52) but not into the lead, which still said "No statistical signature appears in any long run."
 
 **Verdict: converged on the bedrock axis; one dependency-freshness gap closed; one citation-metadata correction with a corpus-wide family.** Word count 2127 → 2413 (+286; 97% of the 2500 soft target, status ok).
 
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Lead overstated the corridor's invisibility** ("No statistical signature appears in any long run"). Since the 2026-08-03 narrowing of [selection-only-channel](/concepts/selection-only-channel/), Born-preservation binds the *unconditioned* marginal only; the mind-conditioned distributions are free, which is exactly why P-Q3 is now `indirect`. A tenet-accepting reviewer reading the register would flag the lead as over-stating invisibility — a calibration issue inside the framework, not bedrock. **Resolved**: lead now reads "in the unconditioned long run — the constraint binds the marginal over all conscious states, not the distributions conditioned on them".
+- **Lead overstated the corridor's invisibility** ("No statistical signature appears in any long run"). Since the 2026-08-03 narrowing of [selection-only-channel](/concepts/selection-only-channel/), Born-preservation binds the *unconditioned* marginal only; the mind-conditioned distributions are free, which is exactly why [P-Q3](/positions/quantum-interface/#p-q3) is now `indirect`. A tenet-accepting reviewer reading the register would flag the lead as over-stating invisibility — a calibration issue inside the framework, not bedrock. **Resolved**: lead now reads "in the unconditioned long run — the constraint binds the marginal over all conscious states, not the distributions conditioned on them".
 - **Saad (2025) issue number**: real-wrong-metadata. Publisher of record (Springer `citation_issue`, Crossref, PMC) all give the combined issue **182(3-4)**; the article had 182(3). **Resolved** locally; the corpus family (69 live loci) is minted as a P3 task rather than propagated here — see Remaining Items.
 
 ### Medium Issues Found
@@ -64,7 +64,7 @@ Fifth review. Damped score 38 (four prior reviews; 42 days since 07-15). The tri
 - Hardline Empiricist (Birch): the article's refusal to let the agency-budget theorem or the conditional formalism upgrade trumping's evidential tier is exactly the "tenet-coherent, not evidence-elevating" pattern; the new paragraph closes on a cost, not a gain.
 
 ### Enhancements Made
-- New paragraph in §Why the Worry Has No Free Resolution (conditional-signature trilemma; P-Q3 `indirect`; balancing-law price).
+- New paragraph in §Why the Worry Has No Free Resolution (conditional-signature trilemma; [P-Q3](/positions/quantum-interface/#p-q3) `indirect`; balancing-law price).
 - Lead and dilemma narrowed to the unconditioned marginal; Relation section's MQI paragraph says "marginal-level invisibility".
 
 ### Cross-links Added

@@ -38,7 +38,7 @@ Paper titles quoted inline ("Consciousness in Artificial Intelligence: Insights 
 
 ## Critical Issues Found
 
-- **Unmarked ellipsis inside an internal direct quote (L73)** — the article presented the Tenet-Dependency Matrix instruction as a single continuous quote: `"should not import any mechanism-specific commitment as background; they earn their conclusions from irreducibility alone."` The tenets page ([tenets](/tenets/) L161) actually reads: *"Articles in that cluster should not import interactionism, agent-causal subject, or **any mechanism-specific commitment as background; they earn their conclusions from irreducibility alone**"* — the article silently dropped "interactionism, agent-causal subject, or" from between "should not import" and "any mechanism-specific commitment," fusing two non-adjacent spans inside one pair of quotation marks. This is a quote-fidelity defect (the quote-fidelity lens's own target class), not a meaning distortion — the elided items were a list of which the article kept the general item relevant to its P-Q1 argument.
+- **Unmarked ellipsis inside an internal direct quote (L73)** — the article presented the Tenet-Dependency Matrix instruction as a single continuous quote: `"should not import any mechanism-specific commitment as background; they earn their conclusions from irreducibility alone."` The tenets page ([tenets](/tenets/) L161) actually reads: *"Articles in that cluster should not import interactionism, agent-causal subject, or **any mechanism-specific commitment as background; they earn their conclusions from irreducibility alone**"* — the article silently dropped "interactionism, agent-causal subject, or" from between "should not import" and "any mechanism-specific commitment," fusing two non-adjacent spans inside one pair of quotation marks. This is a quote-fidelity defect (the quote-fidelity lens's own target class), not a meaning distortion — the elided items were a list of which the article kept the general item relevant to its [P-Q1](/positions/quantum-interface/#p-q1) argument.
   - **Fix applied** (minimal, both quoted spans now genuinely contiguous in source):
     - Before: `articles "should not import any mechanism-specific commitment as background; they earn their conclusions from irreducibility alone."`
     - After: `its articles should not import "any mechanism-specific commitment as background" and should "earn their conclusions from irreducibility alone."`
@@ -46,11 +46,11 @@ Paper titles quoted inline ("Consciousness in Artificial Intelligence: Insights 
 
 ## Medium / Low Issues
 
-- None new. The article is extensively and honestly hedged (matrix-divergence declaration L73–L76, unfalsifiability concession L95, Birch-convergence-limits L97–L101, Honest-verdict-scope §, cascade flags including P-Q3 discount). No possibility/probability slippage: the substrate verdict is explicitly pegged to positive substrate analysis (engineered suppression of indeterminacy), not tenet-coherence, and L145 passes the tenet-accepting-reviewer diagnostic by construction.
+- None new. The article is extensively and honestly hedged (matrix-divergence declaration L73–L76, unfalsifiability concession L95, Birch-convergence-limits L97–L101, Honest-verdict-scope §, cascade flags including [P-Q3](/positions/quantum-interface/#p-q3) discount). No possibility/probability slippage: the substrate verdict is explicitly pegged to positive substrate analysis (engineered suppression of indeterminacy), not tenet-coherence, and L145 passes the tenet-accepting-reviewer diagnostic by construction.
 
 ## Position / Cross-Reference Checks
 
-- P-Q1, P-Q2, P-Q3, P-Q9 present in [quantum-interface](/positions/quantum-interface/); P-AC1 present in [ai-consciousness-scope](/positions/ai-consciousness-scope/). `apex_positions_cited` frontmatter consistent with body.
+- [P-Q1](/positions/quantum-interface/#p-q1), [P-Q2](/positions/quantum-interface/#p-q2), [P-Q3](/positions/quantum-interface/#p-q3), [P-Q9](/positions/quantum-interface/#p-q9) present in [quantum-interface](/positions/quantum-interface/); [P-AC1](/positions/ai-consciousness-scope/#p-ac1) present in [ai-consciousness-scope](/positions/ai-consciousness-scope/). `apex_positions_cited` frontmatter consistent with body.
 
 ## Reasoning-Mode Classification (editor-internal)
 
@@ -61,7 +61,7 @@ Paper titles quoted inline ("Consciousness in Artificial Intelligence: Insights 
 ## Strengths Preserved
 
 - The matrix-divergence self-declaration and the "Honest verdict scope" section are model calibration discipline; left untouched.
-- The P-Q3 cascade flag (bias-without-deviation dilemma discounting the verdict) is a genuine self-critical move; preserved.
+- The [P-Q3](/positions/quantum-interface/#p-q3) cascade flag (bias-without-deviation dilemma discounting the verdict) is a genuine self-critical move; preserved.
 
 ## Remaining Items
 

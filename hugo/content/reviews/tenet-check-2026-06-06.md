@@ -46,7 +46,7 @@ None.
 - [concepts/epiphenomenalism.md](/concepts/epiphenomenalism/), [concepts/baseline-cognition.md](/concepts/baseline-cognition/), [concepts/consciousness-as-amplifier.md](/concepts/consciousness-as-amplifier/) — "consciousness is epiphenomenal / causally inert" appears only as the antecedent of arguments *against* epiphenomenalism (the evolutionary objection). Tenet 3-aligned.
 - `concepts/parsimony-epistemology.md:161`, `concepts/objections-to-interactionism.md:85`, `concepts/coupling-modes.md:82` — parsimony-against-dualism appears only as the objection being answered, consistent with Tenet 5's symmetric self-binding.
 - `topics/epistemic-advantages-of-dualism.md:54` — "qualia become eliminable, reducible, or illusory" describes what physicalism does, as a critique. Aligned.
-- [positions/quantum-interface.md](/positions/quantum-interface/) (P-Q1–P-Q10) — every position cites its tenet dependency; corridor/Born-statistics-preserving reading respects Tenet 2's empirical-constraint minimality; no detectable-signal or energy-injection commitments.
+- [positions/quantum-interface.md](/positions/quantum-interface/) ([P-Q1](/positions/quantum-interface/#p-q1)–[P-Q10](/positions/quantum-interface/#p-q10)) — every position cites its tenet dependency; corridor/Born-statistics-preserving reading respects Tenet 2's empirical-constraint minimality; no detectable-signal or energy-injection commitments.
 
 ## Files Passing All Checks
 

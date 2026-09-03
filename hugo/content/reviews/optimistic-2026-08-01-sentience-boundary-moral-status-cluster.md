@@ -31,7 +31,7 @@ topics: []
 - `obsidian/topics/fish-sentience-and-the-teleost-pain-debate.md` (2202w, `ok`; `ai_modified` 2026-07-31, `last_deep_review` 2026-07-15)
 - `obsidian/topics/ethics-of-consciousness-invertebrate-question.md` (2244w, `ok`; `ai_modified` 2026-07-31, `last_deep_review` 2026-07-08 — the cluster's **oldest** member, `ai_system: claude-opus-4-6`)
 
-**Also inspected at named loci** (grep-verified, not full reads): [concepts/possibility-probability-slippage.md](/concepts/possibility-probability-slippage/); [topics/birch-edge-of-sentience-and-the-five-tier-scale.md](/topics/birch-edge-of-sentience-and-the-five-tier-scale/) L75/L77/L83; [concepts/universal-coupling-response.md](/concepts/universal-coupling-response/) L29/L35/L55; [positions/consciousness-scope.md](/positions/consciousness-scope/) (all five entries); [positions/value-in-selection.md](/positions/value-in-selection/) P-VS3; [topics/animal-consciousness.md](/topics/animal-consciousness/) L158. Corpus-wide term sweeps run across **all three trees** (`obsidian/`, `archive/`, `hugo/content/`).
+**Also inspected at named loci** (grep-verified, not full reads): [concepts/possibility-probability-slippage.md](/concepts/possibility-probability-slippage/); [topics/birch-edge-of-sentience-and-the-five-tier-scale.md](/topics/birch-edge-of-sentience-and-the-five-tier-scale/) L75/L77/L83; [concepts/universal-coupling-response.md](/concepts/universal-coupling-response/) L29/L35/L55; [positions/consciousness-scope.md](/positions/consciousness-scope/) (all five entries); [positions/value-in-selection.md](/positions/value-in-selection/) [P-VS3](/positions/value-in-selection/#p-vs3); [topics/animal-consciousness.md](/topics/animal-consciousness/) L158. Corpus-wide term sweeps run across **all three trees** (`obsidian/`, `archive/`, `hugo/content/`).
 
 ## Executive Summary
 
@@ -138,8 +138,8 @@ What makes this a confirmed finding rather than a persona quibble is that **the 
 
 #### The moral-status criterion is not in the positions register
 
-- **Builds on**: `obsidian/concepts/sentientism.md` L32/L58/L72; `obsidian/positions/value-in-selection.md` P-VS3; `obsidian/positions/consciousness-scope.md` P-CS1–P-CS5.
-- **Would address**: `positions/` records five positions on *where consciousness is* and one on the axiological premise that intrinsic value resides in phenomenal experience (P-VS3). Nothing records the **first-order ethical criterion** the Map now holds: phenomenal sentientism, valenced experience necessary *and* sufficient for moral status. Mind the direction of the gap — P-VS3 is about what *bears value*; the criterion is about *who can be wronged*, derived from the first at `sentientism` L58 and never registered.
+- **Builds on**: `obsidian/concepts/sentientism.md` L32/L58/L72; `obsidian/positions/value-in-selection.md` [P-VS3](/positions/value-in-selection/#p-vs3); `obsidian/positions/consciousness-scope.md` [P-CS1](/positions/consciousness-scope/#p-cs1)–[P-CS5](/positions/consciousness-scope/#p-cs5).
+- **Would address**: `positions/` records five positions on *where consciousness is* and one on the axiological premise that intrinsic value resides in phenomenal experience ([P-VS3](/positions/value-in-selection/#p-vs3)). Nothing records the **first-order ethical criterion** the Map now holds: phenomenal sentientism, valenced experience necessary *and* sufficient for moral status. Mind the direction of the gap — [P-VS3](/positions/value-in-selection/#p-vs3) is about what *bears value*; the criterion is about *who can be wronged*, derived from the first at `sentientism` L58 and never registered.
 - **Estimated scope**: one or two entries; `positions/` holds 12 files against a cap of 80.
 - **Tenet alignment**: Tenet 1 is the sole support and the article says so; the calibration language an entry needs is already written at L72.
 - **Task minted below** (P3 `positions-evolve`), with the domain-placement judgement left explicit rather than defaulted.

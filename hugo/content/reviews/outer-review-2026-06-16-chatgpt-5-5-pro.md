@@ -104,7 +104,7 @@ That ratio is a structural weakness. The site has many articles that behave as t
 
 The Map’s most important causal move is post-decoherence selection: consciousness allegedly selects among outcomes without changing Born statistics. The positions register acknowledges that this has no worked toy model and that bias-without-deviation is an active unresolved challenge. [positions/quantum-interface](https://unfinishablemap.org/positions/quantum-interface/)
 
-This should constrain the entire site. Articles about agency, value-sensitive selection, motor selection, placebo, FND, and consciousness doing causal work should carry an explicit “mechanism debt” box pointing back to P-Q3 and P-Q10. Otherwise the corpus can appear more confident downstream than it is upstream.
+This should constrain the entire site. Articles about agency, value-sensitive selection, motor selection, placebo, FND, and consciousness doing causal work should carry an explicit “mechanism debt” box pointing back to [P-Q3](/positions/quantum-interface/#p-q3) and [P-Q10](/positions/quantum-interface/#p-q10). Otherwise the corpus can appear more confident downstream than it is upstream.
 
 ### 3. Cross-linking is improving, but it is still reactive rather than architectural
 
@@ -202,7 +202,7 @@ The testability ledger presents the elusive engram as filter-theory-relevant. Bu
 
 The defensible claim is not “the engram remains elusive.” It is: **neuroscience has strong evidence for engram-like neuronal ensembles, but no complete account of memory storage, identity, persistence, transformation, and retrieval that removes all filter-theory interpretive space.** The current wording risks sounding behind the field.
 
-### 6. Quantum biology language is better in P-Q8 than in some topic pages
+### 6. Quantum biology language is better in [P-Q8](/positions/quantum-interface/#p-q8) than in some topic pages
 
 The quantum positions register correctly says warm quantum biology is a precedent, not a license, and that over-reading this evidence is actively tracked. [positions/quantum-interface](https://unfinishablemap.org/positions/quantum-interface/)
 
@@ -236,14 +236,14 @@ The weakness is not lack of self-criticism. The weakness is that the site’s se
 
 1. **Tenets page** — Add a dependency note under **No Many Worlds**: the indexical objection depends on a non-deflationary subject theory. Cross-link it to agent causation, mine-ness, no-self/Madhyamaka material, and the agency positions register.
 2. **Minimal Quantum Interaction / Quantum Interface Positions / Post-Decoherence Selection** — Add a visible “central mechanism debt” box: no worked toy model; bias-without-deviation unresolved; downstream claims about mental causation inherit this debt.
-3. **P-Q3 and P-Q10** — Promote them from register caveats into a standalone article: **“The Bias-Without-Deviation Problem.”** It should formalize what token-level selection means, why it is not merely epiphenomenal labeling, and what would count as a toy model.
+3. **[P-Q3](/positions/quantum-interface/#p-q3) and [P-Q10](/positions/quantum-interface/#p-q10)** — Promote them from register caveats into a standalone article: **“The Bias-Without-Deviation Problem.”** It should formalize what token-level selection means, why it is not merely epiphenomenal labeling, and what would count as a toy model.
 4. **Agency, Free Will, Consciousness and Motor Selection, Moral Responsibility articles** — Add the content-confinement theorem: consciousness selects among brain-prepared options; it does not generate arbitrary content outside the physical candidate set.
 5. **Testability Ledger** — Decide whether **Filter Theory** is a tenet, a position, or a local interpretive model. If it remains central enough to have disconfirmers, create a formal **Filter Theory Positions** page with confidence levels and update triggers.
 6. **Filter Theory of Consciousness** — Replace “engram remains elusive” style phrasing with a current formulation acknowledging engram-cell and ensemble evidence while preserving the narrower claim that memory identity, persistence, and retrieval are not fully solved.
 7. **Psychedelics / NDE / Filter Theory pages** — Replace “less brain activity, more consciousness” with “network reconfiguration, desynchronization, altered DMN/hippocampal connectivity, and mixed increases/decreases across systems.”
 8. **Conversion Disorder as Consciousness-Side-Fault Paradigm** — Keep the excellent two-tier discount from the full article, but push it into the title/summary and all topic snippets: FND supports substrate-intact functional decoupling; it does not force a dualist interface reading.
 9. **Clinical Dissociation as Systematic Evidence** — Add a cross-cluster warning: “architectural separability” is the evidence; “consciousness-side interface” is the Map’s interpretation. Link to functionalist and predictive-processing alternatives.
-10. **Quantum Biology and Neural Consciousness / Experimental Turn in Quantum Consciousness** — Make the headline match P-Q8: quantum biology is precedent and live opening, not license. Add a top-level evidence table separating in vitro, indirect in vivo, theoretical, and technological claims.
+10. **Quantum Biology and Neural Consciousness / Experimental Turn in Quantum Consciousness** — Make the headline match [P-Q8](/positions/quantum-interface/#p-q8): quantum biology is precedent and live opening, not license. Add a top-level evidence table separating in vitro, indirect in vivo, theoretical, and technological claims.
 11. **Claude Constitution / AI Moral Status pages** — Downgrade “first major AI lab” unless supported by a comparative survey. Use “a prominent explicit public instance” and define the criteria for future “first” claims.
 12. **Wanting, Liking, and the Value-in-Mechanism Fork** — Replace “settled affective neuroscience” with “well-supported affective-neuroscience distinction.” The article’s own caveats are better calibrated than that phrase.
 13. **COGITATE-related pages** — Create a single canonical empirical data card with DOI, design, registered predictions, actual result pattern, IIT interpretation, GNWT interpretation, and Map-level relevance. Ban local COGITATE paraphrases outside that card.
@@ -264,6 +264,6 @@ This review is overwhelmingly *calibration and structural* in character: most fi
 
 **Not independently re-verified (recommendation-shaped, low refutation risk):**
 - The psychedelics network-reconfiguration framing, the ~25% covert-consciousness figure scoping, the engram-literature-maturity point, and the "first major AI lab" downgrade are all *softening recommendations* against the Map's current wording. They do not allege source misrepresentation, so each is best handled as a calibration edit at refine time (verify the live wording of the target page before editing, per [evidential-status-discipline](/project/evidential-status-discipline/)).
-- Several findings cite the Map's *own* register/ledger pages (P-Q3, P-Q10, causal-budget ledger, testability ledger) for what the Map says about itself; these are internally checkable at refine time and were not externally fetched.
+- Several findings cite the Map's *own* register/ledger pages ([P-Q3](/positions/quantum-interface/#p-q3), [P-Q10](/positions/quantum-interface/#p-q10), causal-budget ledger, testability ledger) for what the Map says about itself; these are internally checkable at refine time and were not externally fetched.
 
 **No fabricated-target-quote risk detected:** unlike hostile Deep Research reviews that invent verbatim article quotes, this review paraphrases the Map's positions accurately at the level checked (it correctly notes the quantum positions register already flags bias-without-deviation as the strongest, under-confronted challenge with no worked toy model). Refine tasks should still grep-verify any specific phrasing the reviewer attributes to a page (e.g. "cleanest consciousness-side-fault exhibit", "settled affective neuroscience", "engram remains elusive") against the live file before acting.

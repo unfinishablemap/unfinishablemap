@@ -25,7 +25,7 @@ synthesis baseline `max(apex_last_synthesis 2026-06-16, last_deep_review
 `apex/interface-specification-programme` (modified 2026-07-15).
 
 The article body had also been refreshed earlier the same day (07-16) by a
-positions-evolve pass that propagated a convergent-outer-review P-Q1 confidence
+positions-evolve pass that propagated a convergent-outer-review [P-Q1](/positions/quantum-interface/#p-q1) confidence
 downgrade — but that pass added only the "Calibration inheritance" cascade
 paragraph and did not touch `apex_last_synthesis`, so the source change from
 07-15 remained unintegrated. This session integrates it and re-baselines.
@@ -75,7 +75,7 @@ not an automatic fit.
 
 ## Applied-discipline checks (still satisfied)
 
-- ≥3 positions cited: yes (P-Q1, P-Q3, P-Q6, P-Q9, P-Q10).
+- ≥3 positions cited: yes ([P-Q1](/positions/quantum-interface/#p-q1), [P-Q3](/positions/quantum-interface/#p-q3), [P-Q6](/positions/quantum-interface/#p-q6), [P-Q9](/positions/quantum-interface/#p-q9), [P-Q10](/positions/quantum-interface/#p-q10)).
 - Confidence bands surfaced in prose: yes (unchanged).
 - "What this implies for decisions" section: present.
 - `apex_decision_context` set: yes.

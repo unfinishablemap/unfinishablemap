@@ -38,7 +38,7 @@ Replaced with the paper's actual reported structure: the median-split result tha
 
 Access-versus-truth is a *veridicality* axis, orthogonal to the division. The division is in fact agnostic about veridicality: blindsight delivers veridical content without consciousness, and dream rendering delivers non-veridical content with it. The article then contradicted itself twelve lines later, locating the Map's disagreement with the physicalist rival at the *ownership* term (matching the apex) rather than at access-versus-truth.
 
-Re-derived from what the apex's current text does license: the finding that the mind-side term is a *family* of contributions rather than one thing, which the apex reaches by cross-modal comparison while noting that only a clinical case ([pain asymbolia](/concepts/pain-asymbolia/)) supplies within-modality isolation. Garfinkel supplies a second such isolation, psychophysical rather than clinical. Stated at the architecture tier per [P-F1](/positions/finding-level-calibration/) — a structural fact about what is measurable, carrying no significance-tier upgrade.
+Re-derived from what the apex's current text does license: the finding that the mind-side term is a *family* of contributions rather than one thing, which the apex reaches by cross-modal comparison while noting that only a clinical case ([pain asymbolia](/concepts/pain-asymbolia/)) supplies within-modality isolation. Garfinkel supplies a second such isolation, psychophysical rather than clinical. Stated at the architecture tier per [P-F1](/positions/finding-level-calibration/#p-f1) — a structural fact about what is measurable, carrying no significance-tier upgrade.
 
 ### Medium Issues Found
 
@@ -58,7 +58,7 @@ All seven external citations verified at Crossref (full tuple: authors, year, ve
 - Garfinkel, Seth, Barrett, Suzuki & Critchley 2015 (*Knowing your own heart*) — **metadata real-correct** (Biol Psychol 104, 65–74, DOI 10.1016/j.biopsycho.2014.11.004), but **claim-fidelity defect**: the anxiety claim the article drew from it is absent from the paper and contrary in direction to the background it summarises. Corrected in body (Critical Issue 1). This is the metadata-correct / content-wrong case that intra-corpus cross-checking cannot catch.
 - Loescher, Haggard & Tallon-Baudry 2025 (*Interoception vs. Exteroception*) — **real-correct**. PNAS 122(49), e2516229122, published 2025-12-02, DOI 10.1073/pnas.2516229122. Rendering sharpened (Medium Issue 4).
 
-Inline ↔ References cross-check: clean in both directions, no orphans. Superlative-currency sweep via `find_superlative_claims`: zero hits, no empirical-record currency risk. The two Map self-citations (entries 8–9) are framework-internal coherence, not external corroboration, per [P-M3](/positions/methodology-and-calibration/).
+Inline ↔ References cross-check: clean in both directions, no orphans. Superlative-currency sweep via `find_superlative_claims`: zero hits, no empirical-record currency risk. The two Map self-citations (entries 8–9) are framework-internal coherence, not external corroboration, per [P-M3](/positions/methodology-and-calibration/#p-m3).
 
 ### Counterarguments Considered
 
@@ -74,9 +74,9 @@ None remaining after the Garfinkel correction. The structural claims (insular co
 
 The article cites no `P-` entry and no positions file names it, so it has never been reachable by a register-driven audit from either direction. Checked by content against the register's calibration lines rather than by slug. The binding constraints are:
 
-- **P-M1** (a tenet removes a defeater but never upgrades the evidence level) — **aligned**. The article never uses tenet-coherence to lift an empirical claim; the brain-side convergence is explicitly held "neutral between the readings."
-- **P-M2** (convergence discounted to framework-internal coherence until a distinguishing test passes) — **aligned**. "Where the Inward Inversion Is Constrained" applies the common-cause null directly and notes the single insular hub is *maximally* a common cause.
-- **P-F1** (architecture tier and significance tier cited at their own discounts) — **aligned**, and unusually well: "The convergence is a *structural disanalogy with exteroception*, genuinely sharpening the apex's claim; it is not, by itself, evidence for an interface." That is the two-tier split executed correctly. The Lens 2 rewrite was kept at the architecture tier to preserve this.
+- **[P-M1](/positions/methodology-and-calibration/#p-m1)** (a tenet removes a defeater but never upgrades the evidence level) — **aligned**. The article never uses tenet-coherence to lift an empirical claim; the brain-side convergence is explicitly held "neutral between the readings."
+- **[P-M2](/positions/methodology-and-calibration/#p-m2)** (convergence discounted to framework-internal coherence until a distinguishing test passes) — **aligned**. "Where the Inward Inversion Is Constrained" applies the common-cause null directly and notes the single insular hub is *maximally* a common cause.
+- **[P-F1](/positions/finding-level-calibration/#p-f1)** (architecture tier and significance tier cited at their own discounts) — **aligned**, and unusually well: "The convergence is a *structural disanalogy with exteroception*, genuinely sharpening the apex's claim; it is not, by itself, evidence for an interface." That is the two-tier split executed correctly. The Lens 2 rewrite was kept at the architecture tier to preserve this.
 
 No calibration band is exceeded by the prose. Lens 2 returns clean — the article is register-invisible but not register-violating.
 

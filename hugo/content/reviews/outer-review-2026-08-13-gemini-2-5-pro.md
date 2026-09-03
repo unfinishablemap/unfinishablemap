@@ -225,7 +225,7 @@ Extraction: js-dom via page-side Blob download, SHA-256-verified against disk (`
 - ✓ "empirically equivalent to production models" / "better accommodates anomalous findings (NDEs, psychedelics, covert consciousness)" — [concepts/filter-theory.md](/concepts/filter-theory/) L179
 - ✓ "reducing valve opens" — [concepts/filter-theory.md](/concepts/filter-theory/)
 - ✓ "satisfies conservation laws (no energy is injected)" — [concepts/stapp-quantum-mind.md](/concepts/stapp-quantum-mind/) L46
-- ✓ "does not reach Orch-OR" — [positions/quantum-interface.md](/positions/quantum-interface/) P-Q6 (the reviewer says "changelog"; it is the positions register)
+- ✓ "does not reach Orch-OR" — [positions/quantum-interface.md](/positions/quantum-interface/) [P-Q6](/positions/quantum-interface/#p-q6) (the reviewer says "changelog"; it is the positions register)
 - ✓ "bias-without-deviation", "corridor reading", "empirical silence" — positions register / tenets, as the review says
 - ✓ Schwartz concessions ("outside Schwartz's group", exposure-response comparison, Kral 2022 replication failures) — real self-audit text in the clinical-neuroplasticity cluster
 
@@ -238,11 +238,11 @@ Extraction: js-dom via page-side Blob download, SHA-256-verified against disk (`
 
 **Disputed / false claims (checked against corpus):**
 
-- ✗ Central framing — "the architectural pillar of the manuscript's mind-matter interaction model is Stapp's QZE": [positions/quantum-interface.md](/positions/quantum-interface/) P-Q1 prefers **post-decoherence selection** explicitly *because* it sidesteps the decoherence-timescale objection to Stapp-Zeno and Orch-OR. The review's strongest section attacks a mechanism the Map audits but does not primarily hold.
+- ✗ Central framing — "the architectural pillar of the manuscript's mind-matter interaction model is Stapp's QZE": [positions/quantum-interface.md](/positions/quantum-interface/) [P-Q1](/positions/quantum-interface/#p-q1) prefers **post-decoherence selection** explicitly *because* it sidesteps the decoherence-timescale objection to Stapp-Zeno and Orch-OR. The review's strongest section attacks a mechanism the Map audits but does not primarily hold.
 - ✗ "entirely fails to engage" IIT / GNWT / Cogitate adversarial collaboration / illusionism / Zurek-Schlosshauer decoherence — corpus file counts: GNW 124, IIT 122, illusionism/Frankish 248, Cogitate/adversarial 39, Zurek/Schlosshauer 36, Tegmark 117
 - ✗ "fundamentally misunderstands [Georgiev 2015]" — [concepts/stapp-quantum-mind.md](/concepts/stapp-quantum-mind/) L115 states Georgiev's breakdown conclusion, the decoherence-free-subspace qualifier, and that neural protection is unconfirmed — exactly what the reviewer says we omit
 - ✗ 613 THz "framed as empirical proof" — [concepts/quantum-consciousness.md](/concepts/quantum-consciousness/) L71 explicitly labels it "a *computational prediction*, not a direct measurement" and notes Wiest (2025) reports no new data
-- ✗ Donadi/DP "evasion" — P-Q6 accepts the falsification at evidence grade A, cites the Majorana 2023 erratum (which the reviewer also cites) and Figurato et al. (2024), and already tracks the radiation-floor / classicality-ceiling pincer the reviewer gestures at
+- ✗ Donadi/DP "evasion" — [P-Q6](/positions/quantum-interface/#p-q6) accepts the falsification at evidence grade A, cites the Majorana 2023 erratum (which the reviewer also cites) and Figurato et al. (2024), and already tracks the radiation-floor / classicality-ceiling pincer the reviewer gestures at
 - ✗ REBUS "category error" — [topics/psychedelics-and-the-filter-model.md](/topics/psychedelics-and-the-filter-model/) states REBUS is a physicalist programme whose authors do not endorse the filter reading and that the evidence "does not discriminate in its favour"; [topics/predictive-processing-and-dualism.md](/topics/predictive-processing-and-dualism/) is the dedicated treatment
 - ✗ Schwartz 1996 as "foundational empirical proof" — the cluster frames it as "suggestive", "weaker than sometimes claimed", admitting materialist reinterpretation; the reviewer quotes these concessions and then argues against a stronger claim
 - The unfalsifiability / Duhem-Quine charge is substantially priced in: [concepts/filter-theory.md](/concepts/filter-theory/) L62 concedes the prediction is "partly post hoc" and L183 weighs the seven supportive cases as "one pattern, not seven". The residual disagreement is a framework-boundary verdict, not an unnoticed gap.

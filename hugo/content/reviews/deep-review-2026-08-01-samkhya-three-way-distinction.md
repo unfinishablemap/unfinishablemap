@@ -41,11 +41,11 @@ The second was a *partial* application: the sweep fixed the body alias but not t
 
 > `- [[the-convergence-argument-for-dualism]] — Independent paths to the same conclusion`
 
-The target article explicitly disclaims flat independence. Its own `description` reads "*though Bayesian cluster analysis shows they are not all independent*"; its body grades the arguments as "significant — though ... not complete — independence," notes "Cluster 3's independence is thus well-supported for unity and contested for intentionality," and settles on "*substantially stronger than any single argument,' not 'overwhelming*." The register is equally explicit: [P-D2](/positions/arguments-for-dualism/) holds that the routes "do not compound," and P-D3 holds "cross-traditional convergence is near-independence, not a third confirmation."
+The target article explicitly disclaims flat independence. Its own `description` reads "*though Bayesian cluster analysis shows they are not all independent*"; its body grades the arguments as "significant — though ... not complete — independence," notes "Cluster 3's independence is thus well-supported for unity and contested for intentionality," and settles on "*substantially stronger than any single argument,' not 'overwhelming*." The register is equally explicit: [P-D2](/positions/arguments-for-dualism/#p-d2) holds that the routes "do not compound," and [P-D3](/positions/arguments-for-dualism/#p-d3) holds "cross-traditional convergence is near-independence, not a third confirmation."
 
 Diagnostic test: a reviewer who fully accepts the Map's tenets would still flag "Independent paths" as overstated against the Map's own graded position → calibration error, not bedrock disagreement. This is exactly the defect class named in `9ee559377` ("its Further Reading gloss calls the convergence 'independent'") and swept across five sibling loci in `52126351b`; a corpus grep confirms this article held the **only remaining instance** of the string.
 
-**Resolution**: rewritten to "*Different starting points reaching the same conclusion, with the independence between them honestly discounted*" — matching the target's own description and the P-D2/P-D3 grading.
+**Resolution**: rewritten to "*Different starting points reaching the same conclusion, with the independence between them honestly discounted*" — matching the target's own description and the [P-D2](/positions/arguments-for-dualism/#p-d2)/[P-D3](/positions/arguments-for-dualism/#p-d3) grading.
 
 ## Assessed and deliberately NOT changed
 

@@ -47,7 +47,7 @@ topics: []
 
 - Agency-budget elided quote "would need ... argued rather than assumed" — verbatim at concepts/agency-budget.md L82, with the "no notion of measurement context" characterisation exact
 - Multi-mind "brain-to-brain entanglement scenario the multi-mind article itself flags as a falsifier" — confirmed (multi-mind-collapse-problem L88, L139)
-- Apex "P-Q10 records" missing-toy-model claim — confirmed (born-preserving-causal-efficacy L61, L137)
+- Apex "[P-Q10](/positions/quantum-interface/#p-q10) records" missing-toy-model claim — confirmed (born-preserving-causal-efficacy L61, L137)
 - Tenets block anchors (^minimal-quantum-interaction, ^bidirectional-interaction, ^no-many-worlds, ^occams-limits) and positions ^mechanism-debt — all resolve
 - All 19 wikilink targets resolve; CHSH 2√2 / GHZ physics correct
 

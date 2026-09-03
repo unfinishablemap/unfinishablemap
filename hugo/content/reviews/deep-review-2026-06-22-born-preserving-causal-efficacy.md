@@ -55,7 +55,7 @@ Inline↔References cross-check: every inline cite has a References entry and vi
 - The "Why It Is Not Already Classical Epiphenomenalism" section's token-vs-type distinction is the load-bearing move and is stated crisply.
 - The route-non-combination argument (L90) — that the three routes trade the same liability rather than summing — is a genuine synthesis contribution.
 - The toy-model desiderata (1)–(6) and the progress/failure-mode pairing convert an open worry into an actionable research agenda; this is the apex's non-redundant value over the concept page.
-- Confidence bands cited in-prose (P-Q2 high, P-Q3 moderate, P-Q10 high) match the register exactly.
+- Confidence bands cited in-prose ([P-Q2](/positions/quantum-interface/#p-q2) high, [P-Q3](/positions/quantum-interface/#p-q3) moderate, [P-Q10](/positions/quantum-interface/#p-q10) high) match the register exactly.
 
 ### Enhancements Made
 - None to body. Frontmatter only: stamped `last_deep_review`, bumped `ai_modified`, and synced `apex_last_synthesis` (the last to forestall the known apex-evolve drift-scorer stale-field re-nomination).
@@ -70,5 +70,5 @@ None. The article is content-stable on its first deep-review and required no bod
 ## Stability Notes
 
 - The physicalist's rejection of the trumping route's "efficacy = causal structure, not statistical signature" move is a **bedrock framework-boundary disagreement**, not a fixable flaw. Future reviews should not re-flag "the trumping route is empirically silent" as a critical issue — the article states this cost openly and adopts it knowingly. The disagreement is at the tenet boundary (the physicalist's "efficacy = statistical signature" premise), which the dualist need not grant.
-- The Born-preserving efficacy problem (P-Q3) is logged as the Map's *strongest live challenge*, held open by design. An article that states an open problem precisely, without claiming resolution, is at its correct evidential tier. Do not treat "the problem is unresolved" as an article defect — that is the article's honest subject.
+- The Born-preserving efficacy problem ([P-Q3](/positions/quantum-interface/#p-q3)) is logged as the Map's *strongest live challenge*, held open by design. An article that states an open problem precisely, without claiming resolution, is at its correct evidential tier. Do not treat "the problem is unresolved" as an article defect — that is the article's honest subject.
 - Citation baseline established 2026-06-22: all six refs publisher-verified real-correct. A future deep-review may skip re-verification unless the References block or body citations are modified.

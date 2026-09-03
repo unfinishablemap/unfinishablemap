@@ -44,7 +44,7 @@ topics:
 - `obsidian/topics/moral-implications-of-genuine-agency.md` (3678w, `soft_warning`)
 - `obsidian/apex/moral-architecture-of-consciousness.md` (4499w, `soft_warning`)
 
-Context read: `obsidian/positions/agency-and-will.md` (P-A1, P-A2), `obsidian/concepts/compatibilist-symmetry-challenge.md` (via its citation sites).
+Context read: `obsidian/positions/agency-and-will.md` ([P-A1](/positions/agency-and-will/#p-a1), [P-A2](/positions/agency-and-will/#p-a2)), `obsidian/concepts/compatibilist-symmetry-challenge.md` (via its citation sites).
 
 ## Executive Summary
 

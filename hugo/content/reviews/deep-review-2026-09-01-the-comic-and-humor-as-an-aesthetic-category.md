@@ -50,8 +50,8 @@ Checked every article the body cites or the frontmatter declares, for commits si
 - `topics/the-sublime-and-negative-aesthetics` — deep-review 2026-08-24. Still frames the comic as "the structural sibling" (L109); tragedy and disgust still carried (14 and 16 mentions). The comic article's description of it holds.
 - `topics/aesthetic-testimony-and-the-acquaintance-principle` — refines 2026-08-03 and 2026-08-16 added Meskin's deflation and the Vessel et al. shared-taste mechanism. Its Further Reading still describes the comic article accurately ("being told a joke is funny is not amusement"). The comic article's own use of the acquaintance principle is now scoped consistently with that article's deflationary content.
 - `concepts/evaluative-phenomenal-character` — refines 2026-08-08. Lead still defines the category as evaluation constitutive of felt character rather than judgment ("not because we judge it bad"); the comic gloss "a felt, non-propositional evaluation" is consistent.
-- `topics/phenomenal-value-realism`, `topics/aesthetics-and-consciousness`, `topics/emotion-and-dualism` — moved, but on loci this article does not lean on (Byrne & Hilbert / Revonsuo attribution; PP rival to constitutive valence; P-MC1 scoping). No claim here depends on them.
-- **Positions register**: no position covers humor or mirth. P-D2 (count-inflation) and P-MC4 (aesthetic creation) are the aesthetics-adjacent entries; the comic article's partial-corroboration paragraph applies P-D2's rule and now says so.
+- `topics/phenomenal-value-realism`, `topics/aesthetics-and-consciousness`, `topics/emotion-and-dualism` — moved, but on loci this article does not lean on (Byrne & Hilbert / Revonsuo attribution; PP rival to constitutive valence; [P-MC1](/positions/arguments-for-mental-causation/#p-mc1) scoping). No claim here depends on them.
+- **Positions register**: no position covers humor or mirth. [P-D2](/positions/arguments-for-dualism/#p-d2) (count-inflation) and [P-MC4](/positions/arguments-for-mental-causation/#p-mc4) (aesthetic creation) are the aesthetics-adjacent entries; the comic article's partial-corroboration paragraph applies [P-D2](/positions/arguments-for-dualism/#p-d2)'s rule and now says so.
 
 ## Citation ledger — publisher-of-record web-verify (§2.4)
 
@@ -76,12 +76,12 @@ The References block was unchanged since the 2026-08-02 ledger closed the channe
 ### Enhancements Made
 
 - Acquaintance-dissociation sentence scoped (what it separates, what it does not), with an in-page anchor to the rival section (Hugo id `the-naturalizing-rival-at-full-strength` confirmed in the built page).
-- Partial-corroboration paragraph linked to [P-D2](/positions/arguments-for-dualism/), the count-inflation rule it instantiates.
+- Partial-corroboration paragraph linked to [P-D2](/positions/arguments-for-dualism/#p-d2), the count-inflation rule it instantiates.
 - Two References entries now name the translation the quoted words come from (Kant: Bernard 1914; Aristotle: Jebb/Sandys 1909, with the Roberts and Freese variants recorded).
 
 ### Cross-links Added
 
-- [P-D2](/positions/arguments-for-dualism/) (first register link in this article)
+- [P-D2](/positions/arguments-for-dualism/#p-d2) (first register link in this article)
 
 ## Length
 
@@ -99,6 +99,6 @@ None.
 
 - **Calibration is converged; this pass did not reopen it.** The sentences verified on 2026-08-02 were left alone. The one sentence corrected here was never on that list, and the correction concedes ground to the rival rather than taking any. Do not read this pass as evidence the article oscillates.
 - **The Dennett/Hurley/Adams standoff is bedrock** (unchanged verdict). A future reviewer wanting the article to refute *Inside Jokes* inside its own framework is asking for boundary-substitution.
-- **The mirth/knowledge-argument corroboration is deliberately partial** and now carries the P-D2 link. Any pass tempted to describe the two as independent routes is regressing a correction the article carries twice over.
+- **The mirth/knowledge-argument corroboration is deliberately partial** and now carries the [P-D2](/positions/arguments-for-dualism/#p-d2) link. Any pass tempted to describe the two as independent routes is regressing a correction the article carries twice over.
 - **Citation channel closed, including the translation axis.** Every quotation is now byte-checked against a named primary translation, and every References entry names the translation the quoted words come from. The 2026-08-02 note said "the remaining verification surface is the Kant translator only"; that surface is gone. The Aristotle finding shows the translation axis is distinct from the wording axis — a quote can be verbatim *in some translation* while the cited edition reads differently — and the raw-text check that catches it is cheap (one archive.org djvu grep). Future passes should not spend budget re-verifying this article's citations.
 - **Lesson for the corpus**: when the only commit since the last review is `embed-videos`, the article's own text is not where the yield is. Two of this pass's three fixes came from reading what moved *under* the article (`knowledge-argument` L128) and from the previous review's own open item. A no-op verdict on the body would have been accurate and would have missed both.

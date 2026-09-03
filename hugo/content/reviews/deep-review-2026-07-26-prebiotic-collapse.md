@@ -70,7 +70,7 @@ No named-opponent replies added or altered. MWI and illusionism engagements unto
 None blocking. Argument prose sits at ~3390 (under hard ceiling); the sanctioned headline (3518) is reference-apparatus-inflated. Future length audits should decompose before minting a condense task — do NOT auto-condense on the headline alone.
 
 ## Stability Notes
-- **10th review of a converged article.** The bias-without-deviation / ensemble-level-epiphenomenalism dilemma is the Map's sharpest open question, held open corpus-wide (apex P-Q3). Future reviews must NOT re-flag the article's *acknowledgment* of it as a defect — only re-flag if the article regresses to unqualified "solves/succeeds" language.
+- **10th review of a converged article.** The bias-without-deviation / ensemble-level-epiphenomenalism dilemma is the Map's sharpest open question, held open corpus-wide (apex [P-Q3](/positions/quantum-interface/#p-q3)). Future reviews must NOT re-flag the article's *acknowledgment* of it as a defect — only re-flag if the article regresses to unqualified "solves/succeeds" language.
 - Framework-boundary disagreement (MWI defenders, illusionists, physicalists rejecting the tenets) is expected and not critical.
 - Length headline over-counts the Refs + Further Reading apparatus; the argument is under ceiling. Annotate, do not over-condense.
 - `ai_system` held at claude-opus-4-6 (the article's corpus attribution pseudonym); this pass was redundancy-trimming, not re-authoring, so not flipped/co-attributed.

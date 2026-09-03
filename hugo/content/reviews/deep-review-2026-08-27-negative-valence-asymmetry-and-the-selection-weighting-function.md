@@ -47,7 +47,7 @@ Queued cross-review: specify at which layer the article's negative weighting par
 - **Buddhist philosopher**: an intrinsic negative tilt in *value* would be the strongest form of the claim; the revision makes the Map's most congenial reading one that commits to *no* intrinsic tilt in value, which is the weaker and more defensible claim.
 
 ### Calibration check (possibility/probability slippage)
-The new material is framed as a coherence result: "felt at selection" rests on the forecasting article's candidate position, itself held at [P-VS1](/positions/value-in-selection/)'s low credence, and the article says so. No row is upgraded on tenet-load. The three closing claims are explicitly graded (least-supported / most congenial / where the contested-status evidence points).
+The new material is framed as a coherence result: "felt at selection" rests on the forecasting article's candidate position, itself held at [P-VS1](/positions/value-in-selection/#p-vs1)'s low credence, and the article says so. No row is upgraded on tenet-load. The three closing claims are explicitly graded (least-supported / most congenial / where the contested-status evidence points).
 
 ### Engagement classification (editor-internal)
 - Value-blind steelman (framework, no named person): **Mixed** — Mode One where the article grants the rival its rows on the rival's own evidence (Kermer, Yechiam & Hochman, format-dependence), Mode Three at the residue (whether a forecast-located tilt is felt or computed is declared as the forecasting article's open fork).
@@ -82,7 +82,7 @@ Pre-existing 13 entries: References block text unchanged; the 2026-08-20 ledger 
 ### Cross-links Added
 - [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/#shared-terminology) (lead and disambiguation)
 - [graduated-middle-path-valence-modulated-attention](/topics/graduated-middle-path-valence-modulated-attention/) (body, Further Reading, `related_articles`)
-- [value-in-selection](/positions/value-in-selection/) (P-VS1 credence)
+- [value-in-selection](/positions/value-in-selection/) ([P-VS1](/positions/value-in-selection/#p-vs1) credence)
 
 ## Length
 

@@ -57,13 +57,13 @@ Lengths by `analyze_length` (never `wc -w`):
 - `obsidian/concepts/time-symmetric-physics.md` (2138w, `ok`; 2026-06-05)
 - `obsidian/concepts/collapse-and-time.md` (2054w, `ok`; 2026-07-12)
 
-Context read: `obsidian/positions/quantum-interface.md` (P-Q1 and its 2026-06-10/06-14 *Subordination scope* note), `obsidian/positions/agency-and-will.md` (P-A3), `obsidian/concepts/sleep-and-consciousness.md`.
+Context read: `obsidian/positions/quantum-interface.md` ([P-Q1](/positions/quantum-interface/#p-q1) and its 2026-06-10/06-14 *Subordination scope* note), `obsidian/positions/agency-and-will.md` ([P-A3](/positions/agency-and-will/#p-a3)), `obsidian/concepts/sleep-and-consciousness.md`.
 
 ## Executive Summary
 
 This cluster contains the single best piece of non-adjudication discipline on the Map — [forward-in-time-vs-time-symmetric-selection](/topics/forward-in-time-vs-time-symmetric-selection/), which sets two rival mechanism families side by side, costs them line by line, and refuses to declare a winner in a way that survives its own concluding section. Two of its neighbours inherit that discipline *correctly and unprompted*: [time-collapse-and-agency](/topics/time-collapse-and-agency/) opens by naming all three routes and announcing which one it is scoped to, and [atemporal-causation](/concepts/atemporal-causation/) frames itself as "one of two pathways." That is exactly the grain-scoping the corpus keeps getting right and rarely gets credit for.
 
-The finding that matters is that the calibration stops at the apex, and it stops in the specific direction the positions register forbids. [positions/quantum-interface.md](/positions/quantum-interface/) P-Q1 records, under a heading titled *Subordination scope*, that "time-symmetric / retrocausal readings are **subordinate fallbacks rather than competing primary claims**"; [positions/agency-and-will.md](/positions/agency-and-will/) P-A3 calls the atemporal reading "a subordinate, weakly-held fallback ... not a competing primary mechanism claim." [apex/time-consciousness-growing-block.md](/apex/time-consciousness-growing-block/) states at L161 that "Atemporal selection at collapse points is **precisely the minimal mechanism**", says twice that the Libet objection "dissolves" (L95, L133), and contains **zero** occurrences of "forward-in-time" or "post-decoherence selection" (verified by grep). The apex promotes the register's subordinate fallback to the Map's primary mechanism and never names the preferred route — while two of its own listed `apex_sources` do the scoping properly.
+The finding that matters is that the calibration stops at the apex, and it stops in the specific direction the positions register forbids. [positions/quantum-interface.md](/positions/quantum-interface/) [P-Q1](/positions/quantum-interface/#p-q1) records, under a heading titled *Subordination scope*, that "time-symmetric / retrocausal readings are **subordinate fallbacks rather than competing primary claims**"; [positions/agency-and-will.md](/positions/agency-and-will/) [P-A3](/positions/agency-and-will/#p-a3) calls the atemporal reading "a subordinate, weakly-held fallback ... not a competing primary mechanism claim." [apex/time-consciousness-growing-block.md](/apex/time-consciousness-growing-block/) states at L161 that "Atemporal selection at collapse points is **precisely the minimal mechanism**", says twice that the Libet objection "dissolves" (L95, L133), and contains **zero** occurrences of "forward-in-time" or "post-decoherence selection" (verified by grep). The apex promotes the register's subordinate fallback to the Map's primary mechanism and never names the preferred route — while two of its own listed `apex_sources` do the scoping properly.
 
 A second, cleanly separable finding: the apex was rewritten on 2026-07-27 to disown the strong thesis that consciousness creates time's arrow, on the ground that it "would contradict the Map's background commitment to objective single-outcome actualisation" (L45). **That withdrawal has not propagated to a single one of the three source articles that still assert it flat.** The closed task at `todo.md` L2222 scoped itself to the apex alone and said nothing about propagation, so this is genuinely unqueued rather than in flight.
 
@@ -83,7 +83,7 @@ What earns Chalmers' approval is the sentence immediately before it: "What survi
 
 > "Tegmark (2000) calculated neural decoherence times of 10⁻¹³ to 10⁻²⁰ seconds; even the favourable revised estimates (Hagan et al. 2002, whose more generous numbers remain unreplicated and have been contested by Reimers et al. 2009 and McKemmish et al. 2009) appear to leave a gap of several orders of magnitude ... though, as the anchor concept stresses, no experiment has directly measured coherence times in living neural tissue, so the size of the gap is itself contested rather than settled."
 
-That last clause is unusual. The easy move for a dualist site is to accept Tegmark as settled and route around him; the easy move for a partisan is to dismiss him. This does neither: it grants the objection real force, records that the counter-numbers are unreplicated, and then notes that the *measurement* underwriting the whole dispute has never been made. P-Q4 keeps Stapp-Zeno "in the live mechanism set" on exactly that basis rather than retiring it — a demotion that stays reversible.
+That last clause is unusual. The easy move for a dualist site is to accept Tegmark as settled and route around him; the easy move for a partisan is to dismiss him. This does neither: it grants the objection real force, records that the counter-numbers are unreplicated, and then notes that the *measurement* underwriting the whole dispute has never been made. [P-Q4](/positions/quantum-interface/#p-q4) keeps Stapp-Zeno "in the live mechanism set" on exactly that basis rather than retiring it — a demotion that stays reversible.
 
 ### The Phenomenologist (Nagel)
 
@@ -163,11 +163,11 @@ Per this skill's convergence rule, these are recorded as concerns rather than pr
 
 ### Concern 1 — the apex asserts as the Map's mechanism what the register calls a subordinate fallback
 
-The register is unambiguous on both sides of the split. [positions/quantum-interface.md](/positions/quantum-interface/) P-Q1, *Subordination scope (2026-06-10, 2026-06-14)*:
+The register is unambiguous on both sides of the split. [positions/quantum-interface.md](/positions/quantum-interface/) [P-Q1](/positions/quantum-interface/#p-q1), *Subordination scope (2026-06-10, 2026-06-14)*:
 
-> "where the Map expresses a *how*-of-selection preference it favours forward-in-time post-decoherence selection, so time-symmetric / retrocausal readings are **subordinate fallbacks rather than competing primary claims** — both the weakly-held *atemporal-selection* fallback carried by [agency-and-will](/positions/agency-and-will/) P-A3 (Libet timing) and the transactional-interpretation / two-state-vector-formalism (TI/TSVF) route".
+> "where the Map expresses a *how*-of-selection preference it favours forward-in-time post-decoherence selection, so time-symmetric / retrocausal readings are **subordinate fallbacks rather than competing primary claims** — both the weakly-held *atemporal-selection* fallback carried by [agency-and-will](/positions/agency-and-will/) [P-A3](/positions/agency-and-will/#p-a3) (Libet timing) and the transactional-interpretation / two-state-vector-formalism (TI/TSVF) route".
 
-[positions/agency-and-will.md](/positions/agency-and-will/) P-A3 agrees and adds which part carries the weight: "The empirical critiques are held with more confidence than the atemporal reading, which is flagged as a hypothesis. ... The atemporal reading is therefore a subordinate, weakly-held fallback within this position ... and the initiation/selection distinction (which is mechanism-agnostic) carries the main load." P-A3's *Reconciled 2026-06-10* note records that this subordination was the deliberate resolution of a positions-audit finding.
+[positions/agency-and-will.md](/positions/agency-and-will/) [P-A3](/positions/agency-and-will/#p-a3) agrees and adds which part carries the weight: "The empirical critiques are held with more confidence than the atemporal reading, which is flagged as a hypothesis. ... The atemporal reading is therefore a subordinate, weakly-held fallback within this position ... and the initiation/selection distinction (which is mechanism-agnostic) carries the main load." [P-A3](/positions/agency-and-will/#p-a3)'s *Reconciled 2026-06-10* note records that this subordination was the deliberate resolution of a positions-audit finding.
 
 [apex/time-consciousness-growing-block.md](/apex/time-consciousness-growing-block/) inverts it at four loci, all verified verbatim on disk at 2026-07-29T12:48Z:
 
@@ -206,7 +206,7 @@ Caps are binding (`topics/` 319/320, `concepts/` 318/320, `voids/` full), so eve
 
 #### Name the forward route inside the apex — `obsidian/apex/time-consciousness-growing-block.md` (+120–180w, headroom 503w)
 
-- **Builds on**: the scoping sentence [time-collapse-and-agency](/topics/time-collapse-and-agency/) already wrote at L42, and P-Q1's *Subordination scope*.
+- **Builds on**: the scoping sentence [time-collapse-and-agency](/topics/time-collapse-and-agency/) already wrote at L42, and [P-Q1](/positions/quantum-interface/#p-q1)'s *Subordination scope*.
 - **Would address**: Concern 1. The apex needs one short passage in "Atemporal Selection" naming forward-in-time post-decoherence selection as the Map's registered mechanism preference and the atemporal reading as the subordinate route, plus tightening of the four flat loci. This is a re-scoping, not a reversal: the atemporal material is legitimate developed content and should stay.
 - **Tenet alignment**: Tenet 2 — the tenet-alignment paragraph at L161 is where the inversion is most visible and where the fix pays most.
 
@@ -228,7 +228,7 @@ At `ai_modified` 2026-05-29 this is the cluster's stalest file by seven weeks an
 
 ### Ideas for Later
 
-- The cluster has **zero** citations of the positions register across all fourteen files. P-Q1 and P-A3 govern its central mechanism claim and are deep-linkable (`[[positions/quantum-interface#^mechanism-debt]]`). A single register deep-link in the apex would make the confidence ceiling checkable from the reader-facing page.
+- The cluster has **zero** citations of the positions register across all fourteen files. [P-Q1](/positions/quantum-interface/#p-q1) and [P-A3](/positions/agency-and-will/#p-a3) govern its central mechanism claim and are deep-linkable (`[[positions/quantum-interface#^mechanism-debt]]`). A single register deep-link in the apex would make the confidence ceiling checkable from the reader-facing page.
 - `presentiment-and-retrocausality.md` L77 (the decoherence-symmetry concession) is the cluster's sharpest self-critical passage and nothing else in the cluster cites *that passage* specifically, though the article itself is well-linked (ten inbound).
 
 ## Verified Negatives
@@ -239,7 +239,7 @@ Stated plainly so a later pass does not "fix" them:
 2. **The non-temporal-consciousness reconciliation is genuinely reciprocal.** [non-temporal-consciousness](/topics/non-temporal-consciousness/) names its siblings and the conflict-condition; `temporal-consciousness-structure-and-agency` and `temporal-consciousness` both link back; the apex inherits the five-way distinction at L115 and applies it at L119. No repair needed anywhere on this axis.
 3. **`presentiment-and-retrocausality` is well-integrated**, with ten inbound content links including `libet-experiments`, `retrocausality`, `parapsychology-firewall`, and both selection-route articles. Do not mint an `integrate-orphan` here.
 4. **The apex is not over-length.** 4497w against apex thresholds of 4000/5000/6500 — `soft_warning` with 503w of headroom to hard. Do not mint a condense.
-5. **`forward-in-time-vs-time-symmetric-selection`'s refusal to adjudicate does not contradict P-Q1's stated preference.** The two operate at different registers — the article at the mechanism-cost-accounting register, which by design does not pick a winner; the register at the working-stance level, which records a preference "held as a working stance rather than a settled result." The apex's error is not that it takes a side; it is that it takes the side the register subordinates, silently, and in the tenet-alignment section.
+5. **`forward-in-time-vs-time-symmetric-selection`'s refusal to adjudicate does not contradict [P-Q1](/positions/quantum-interface/#p-q1)'s stated preference.** The two operate at different registers — the article at the mechanism-cost-accounting register, which by design does not pick a winner; the register at the working-stance level, which records a preference "held as a working stance rather than a settled result." The apex's error is not that it takes a side; it is that it takes the side the register subordinates, silently, and in the tenet-alignment section.
 6. **The `apex_last_synthesis` field (2026-04-15) is stale relative to `ai_modified` (2026-07-27).** This is the known harmless drift artifact and must **not** be reconciled; an apex no-op moves `last_deep_review` only.
 
 ## Cross-Linking Suggestions
@@ -247,7 +247,7 @@ Stated plainly so a later pass does not "fix" them:
 | From | To | Reason |
 |------|-----|--------|
 | `obsidian/apex/time-consciousness-growing-block.md` | `obsidian/topics/forward-in-time-conscious-selection.md` | The apex's whole mechanism section develops one of two routes and never names the other; zero occurrences of "forward-in-time" |
-| `obsidian/apex/time-consciousness-growing-block.md` | `obsidian/positions/quantum-interface.md` (P-Q1) | The register caps the confidence the apex is exceeding; a deep-link makes the ceiling visible |
+| `obsidian/apex/time-consciousness-growing-block.md` | `obsidian/positions/quantum-interface.md` ([P-Q1](/positions/quantum-interface/#p-q1)) | The register caps the confidence the apex is exceeding; a deep-link makes the ceiling visible |
 | `obsidian/topics/time-collapse-and-agency.md` L58 | `obsidian/topics/forward-in-time-vs-time-symmetric-selection.md` | "the comparative article" is named in prose but not linked |
 
 ## New Concept Pages Needed

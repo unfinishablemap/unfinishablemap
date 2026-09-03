@@ -120,9 +120,9 @@ That sentence performs exactly the inference its sibling declares illegitimate. 
 
 `language-recursion-and-consciousness` sits at a third strength: "If LLMs lack phenomenal consciousness—which the Map holds they do—".
 
-Meanwhile `positions/ai-consciousness-scope` P-AC1 fixes the register precisely: current digital systems sit on the *"low probability," not "ruled out"* side, contingent on P-Q1 and on an empirical premise held "well-supported, not settled." P-AC1 further warns that behavioural evidence "underdetermine[s] the verdict in *both* directions."
+Meanwhile `positions/ai-consciousness-scope` [P-AC1](/positions/ai-consciousness-scope/#p-ac1) fixes the register precisely: current digital systems sit on the *"low probability," not "ruled out"* side, contingent on [P-Q1](/positions/quantum-interface/#p-q1) and on an empirical premise held "well-supported, not settled." [P-AC1](/positions/ai-consciousness-scope/#p-ac1) further warns that behavioural evidence "underdetermine[s] the verdict in *both* directions."
 
-**No article in this cluster links to the positions register at all** (verified: zero `positions/` references across all six prose articles). Three articles are therefore asserting an AI-consciousness verdict without reference to the entry that governs it, and they disagree with each other and with it. The fix is re-framing rather than deletion — P-AC1's register is available and is stronger than the weakest of the three formulations, so the cluster loses nothing by adopting it.
+**No article in this cluster links to the positions register at all** (verified: zero `positions/` references across all six prose articles). Three articles are therefore asserting an AI-consciousness verdict without reference to the entry that governs it, and they disagree with each other and with it. The fix is re-framing rather than deletion — [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s register is available and is stronger than the weakest of the three formulations, so the cluster loses nothing by adopting it.
 
 ## Content Strengths
 
@@ -210,9 +210,9 @@ Aphasia is called "the strongest empirical evidence for consciousness-language s
 
 | From | To | Reason |
 |------|-----|--------|
-| `topics/philosophy-of-language-under-dualism` | `positions/ai-consciousness-scope` | P-AC1 fixes the LLM register the article currently overshoots |
-| `topics/language-recursion-and-consciousness` | `positions/ai-consciousness-scope` | Same; L120's "the Map holds they do" is flatter than P-AC1's "low probability, not ruled out" |
-| `topics/consciousness-and-language-interface` | `positions/ai-consciousness-scope` | The article's disciplined statement matches P-AC1 and should cite it as support |
+| `topics/philosophy-of-language-under-dualism` | `positions/ai-consciousness-scope` | [P-AC1](/positions/ai-consciousness-scope/#p-ac1) fixes the LLM register the article currently overshoots |
+| `topics/language-recursion-and-consciousness` | `positions/ai-consciousness-scope` | Same; L120's "the Map holds they do" is flatter than [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s "low probability, not ruled out" |
+| `topics/consciousness-and-language-interface` | `positions/ai-consciousness-scope` | The article's disciplined statement matches [P-AC1](/positions/ai-consciousness-scope/#p-ac1) and should cite it as support |
 | `voids/language-thought-boundary` | `topics/phenomenology-of-linguistic-failure` | Already linked one way; the Ji et al. dimensionality floor is the structural counterpart to the five failure modes |
 | `topics/language-recursion-and-consciousness` | `apex/minds-without-words` | Minds-without-words cites the ape 2±1 WM figure with a source (Read, Manrique & Walker 2022); the recursion article states it uncited at L59 (open P3 task already exists) |
 | `voids/recursion-void` | `topics/phenomenology-of-linguistic-failure` | Both describe content dissolution at a cognitive limit, from different limits; the phenomenological signatures should be compared |

@@ -59,11 +59,11 @@ Each target was opened and read; verdicts below drive the generated tasks.
 
 **✓ CONFIRMED — the internal contradiction is real and sharp.** `obsidian/apex/born-preserving-causal-efficacy.md:85` says the opposite, correctly: "Born-preservation constrains the left-hand marginal; it says nothing about whether the conditionals on the right depart from it." The apex is right and the concept page is wrong; they are not two readings of one claim.
 
-**✓ CONFIRMED — §2.2 / §4.4, stipulated physical consistency.** `obsidian/apex/interface-specification-programme.md:171`: Minimal Quantum Interaction "is not merely stated but *derived* from the programme's constraints." Line 120: attention findings "bear out this prediction." Both exceed what the quantum register (P-Q10, no worked equation or simulation) supports.
+**✓ CONFIRMED — §2.2 / §4.4, stipulated physical consistency.** `obsidian/apex/interface-specification-programme.md:171`: Minimal Quantum Interaction "is not merely stated but *derived* from the programme's constraints." Line 120: attention findings "bear out this prediction." Both exceed what the quantum register ([P-Q10](/positions/quantum-interface/#p-q10), no worked equation or simulation) supports.
 
-**✓ CONFIRMED — §3 Tenet 1 / improvement 8.** `obsidian/positions/consciousness-scope.md:48` grades P-CS1 as "a direct entailment of bare Tenet 1." Irreducibility removes a physicalist route to substrate restriction; it does not by itself establish substrate neutrality.
+**✓ CONFIRMED — §3 Tenet 1 / improvement 8.** `obsidian/positions/consciousness-scope.md:48` grades [P-CS1](/positions/consciousness-scope/#p-cs1) as "a direct entailment of bare Tenet 1." Irreducibility removes a physicalist route to substrate restriction; it does not by itself establish substrate neutrality.
 
-**✓ CONFIRMED — §1.2 / §1.3, individuation is thin and load-bearing.** `obsidian/positions/individuation-and-subjecthood.md` carries a single principal position of its own (P-I1), citing P-A2 and P-AC3 from elsewhere, while the No-Many-Worlds indexical argument depends on a non-deflationary subject.
+**✓ CONFIRMED — §1.2 / §1.3, individuation is thin and load-bearing.** `obsidian/positions/individuation-and-subjecthood.md` carries a single principal position of its own ([P-I1](/positions/individuation-and-subjecthood/#p-i1)), citing [P-A2](/positions/agency-and-will/#p-a2) and [P-AC3](/positions/ai-consciousness-scope/#p-ac3) from elsewhere, while the No-Many-Worlds indexical argument depends on a non-deflationary subject.
 
 **◐ PARTIALLY STALE — §1.1, the "unstated" compensation principle.** The reviewer presents this as a conclusion the Map has not drawn, but `obsidian/apex/born-preserving-causal-efficacy.md:101` already states it under the heading "The compensation consequence," and horn (c) at line 91 already requires "a *cancellation or balancing law* the framework would owe." The finding survives only in its weaker, still-useful form: the principle exists in the apex and has **not been propagated** to the value and agency clusters. Do not mint this as a novel discovery.
 
@@ -398,7 +398,7 @@ The current agency register acknowledges that its trilemma is not exhaustive and
 The Tenets page treats the argument from knowledge as contested and concedes a correlation reply. The interface synthesis calls epiphenomenalism internally incoherent. These are different assessments of the same objection. [tenets](/tenets/)
 4. **Mechanism-debt register versus accomplished physical claims.**  
 
-P-Q10 says there is no worked equation or simulation. The interface synthesis nevertheless says energy conservation and no-signalling are preserved and describes the architecture as derived. Physical consistency has been specified as a goal, not established by construction. [quantum-interface](/positions/quantum-interface/)
+[P-Q10](/positions/quantum-interface/#p-q10) says there is no worked equation or simulation. The interface synthesis nevertheless says energy conservation and no-signalling are preserved and describes the architecture as derived. Physical consistency has been specified as a goal, not established by construction. [quantum-interface](/positions/quantum-interface/)
 5. **Corrected causal taxonomy versus delegatory sibling pages.**  
 
 Recent apex work distinguishes quantum difference-making from delegatory trumping as incompatible routes. Older concept and topic pages still call delegation the preferred integrated mechanism or say the two routes mutually complete one another. [changelog](/workflow/changelog/)
@@ -440,7 +440,7 @@ The project should therefore present itself as an **open conditional research pr
 
 1. **P0 — Correct the entire information-theory chain.**  
 
-Revise `selection-only-channel`, `selection-only-mind-influence`, the associated research note, `causal-budget-ledger`, the channel-class taxonomy and P-Q10. Remove the claim that marginal Born preservation entails zero mutual information; remove “signed mutual information”; suspend all ε2/(2ln⁡2)\varepsilon^2/(2\ln2)ε2/(2ln2) throughput estimates until a specific channel is defined and independently checked.
+Revise `selection-only-channel`, `selection-only-mind-influence`, the associated research note, `causal-budget-ledger`, the channel-class taxonomy and [P-Q10](/positions/quantum-interface/#p-q10). Remove the claim that marginal Born preservation entails zero mutual information; remove “signed mutual information”; suspend all ε2/(2ln⁡2)\varepsilon^2/(2\ln2)ε2/(2ln2) throughput estimates until a specific channel is defined and independently checked.
 2. **P0 — Add a formal appendix to `born-preserving-causal-efficacy`.**  
 
 State the marginal/conditional distinction as a lemma; give at least three explicit finite examples, including a maximally informative Born-preserving channel; define the conditioning set XXX; and prove the compensation identity. Add a section titled “Where the compensating departures occur.”
@@ -459,7 +459,7 @@ Add positions on subject pairing, split brains, fission, fusion, copies, tempora
 7. **P1 — Reclassify the No-Many-Worlds argument.**  
 
 In the Tenets, Many-Worlds concept, probability article and argument index, distinguish the stipulated rejection from arguments offered in its support. Replace “Born rule unexplained” with “several derivations exist, with disputed assumptions.” Surface the selector’s mirrored explanatory debt wherever the Everettian probability debt is discussed.
-8. **P1 — Correct P-CS1 in the consciousness-scope register.**  
+8. **P1 — Correct [P-CS1](/positions/consciousness-scope/#p-cs1) in the consciousness-scope register.**  
 
 Replace “direct entailment” with “additional substrate-neutrality hypothesis” or “permission absent a restrictive psychophysical law.” Distinguish ontological possibility, empirical likelihood, causal eligibility and moral precaution.
 9. **P1 — Rebuild the artificial-consciousness assessment around an eligibility matrix.**  

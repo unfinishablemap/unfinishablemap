@@ -108,7 +108,7 @@ Two consequences follow, both deflationary and both required. First, the test is
 - [the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/) — The external case that mechanism suffices and valence only informs the channel
 - [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/) — The value-in-mechanism question one register down
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The position that wants value efficacious *as value*, which the middle path only partly serves
-- [value-in-selection](/positions/value-in-selection/) — The register entry (P-VS1/P-VS2) collating what the Map holds and the discriminating battery
+- [value-in-selection](/positions/value-in-selection/) — The register entry ([P-VS1](/positions/value-in-selection/#p-vs1)/[P-VS2](/positions/value-in-selection/#p-vs2)) collating what the Map holds and the discriminating battery
 - [negative-valence-asymmetry-and-the-selection-weighting-function](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/) — The sign asymmetry the coupling inherits unresolved
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Why the second, valence-to-physics coupling remains unspecified
 

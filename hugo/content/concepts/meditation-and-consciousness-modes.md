@@ -141,7 +141,7 @@ This would explain several features of witness states:
 
 Awareness persists in the witness; but awareness without selection is *reported* as a qualitatively different state, and whether the report marks a different interaction regime is what the hypothesis asserts and the phenomenology cannot confirm.
 
-Two caveats bound the hypothesis. It is stated in Stapp's vocabulary, and the Map's [positions register](/positions/quantum-interface/) ranks the Stapp-Zeno family below [post-decoherence selection](/concepts/post-decoherence-selection/) on decoherence-timing grounds (P-Q4 against P-Q1); post-decoherence selection has no "observation rate" to lower, no analogue has been worked out, and if rapid probing already fails to outrun decoherence, reduced probing is not a distinct physical regime. And "observation" carries two senses, awareness and probing: in Stapp's model each Process 1 event is both, so awareness without probing is unavailable inside his framework and fewer events would mean sparser experience, the opposite of what meditators report. The hypothesis needs the two to come apart—a further Map commitment the Zeno model does not supply.
+Two caveats bound the hypothesis. It is stated in Stapp's vocabulary, and the Map's [positions register](/positions/quantum-interface/) ranks the Stapp-Zeno family below [post-decoherence selection](/concepts/post-decoherence-selection/) on decoherence-timing grounds ([P-Q4](/positions/quantum-interface/#p-q4) against [P-Q1](/positions/quantum-interface/#p-q1)); post-decoherence selection has no "observation rate" to lower, no analogue has been worked out, and if rapid probing already fails to outrun decoherence, reduced probing is not a distinct physical regime. And "observation" carries two senses, awareness and probing: in Stapp's model each Process 1 event is both, so awareness without probing is unavailable inside his framework and fewer events would mean sparser experience, the opposite of what meditators report. The hypothesis needs the two to come apart—a further Map commitment the Zeno model does not supply.
 
 ## The Illusionist Challenge
 
@@ -216,7 +216,7 @@ FA meditation strengthens selection. OM meditation cultivates witnessing. Both a
 - [attention-as-interface](/concepts/attention-as-interface/) — How consciousness influences matter through attention
 - [mental-effort](/concepts/mental-effort/) — The phenomenology and mechanism of effortful attention
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The quantum Zeno mechanism for selection
-- [quantum-interface](/positions/quantum-interface/) — P-Q1 and P-Q4, which rank post-decoherence selection above Stapp-Zeno
+- [quantum-interface](/positions/quantum-interface/) — [P-Q1](/positions/quantum-interface/#p-q1) and [P-Q4](/positions/quantum-interface/#p-q4), which rank post-decoherence selection above Stapp-Zeno
 - [phenomenology](/concepts/phenomenology/) — First-person methods
 - [Voluntary attention research](/research/voluntary-attention-control-mechanisms-2026-01-17/) — Research on willed vs. automatic attention
 - [meditation-observer-witness-phenomenon-2026-01-18](/research/meditation-observer-witness-phenomenon-2026-01-18/) — Research notes for this article

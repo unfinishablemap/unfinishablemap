@@ -30,12 +30,12 @@ Verdict: CREATE (not decline, not retarget). The decision-oriented portfolio-ran
 - Archive collision: no `archive/apex/research-programme-decisions-under-the-map.md`.
 
 ## Applied Discipline verification (six points)
-1. **≥3 positions cited** — frontmatter lists P-Q1, P-Q3, P-Q6, P-Q9, P-Q10 (5). Each referenced explicitly in body.
+1. **≥3 positions cited** — frontmatter lists [P-Q1](/positions/quantum-interface/#p-q1), [P-Q3](/positions/quantum-interface/#p-q3), [P-Q6](/positions/quantum-interface/#p-q6), [P-Q9](/positions/quantum-interface/#p-q9), [P-Q10](/positions/quantum-interface/#p-q10) (5). Each referenced explicitly in body.
 2. **Confidence surfaced in prose** — bands stated inline in the opening and at each direction (12 bolded band-mentions). Verdict-turning positions show their band where they do the work.
 3. **"What this implies for decisions" section** — present, named exactly, 5 actionable implications.
 4. **Decision context named** — `apex_decision_context` field set; opening paragraph names the portfolio decision explicitly.
-5. **Honest verdict scope** — dedicated section distinguishes Map-internal prioritisation from what the wider field should prioritise; notes the highest-priority direction (toy model) is the hardest and may be unachievable; flags P-Q9's theoretical-supersession route as the rival project that would make the corridor superfluous.
-6. **Cascade tagged** — "Cascade flags" section names how the ranking shifts if P-Q10, P-Q1, or P-Q9 move, plus cross-register P-A3 subordination note.
+5. **Honest verdict scope** — dedicated section distinguishes Map-internal prioritisation from what the wider field should prioritise; notes the highest-priority direction (toy model) is the hardest and may be unachievable; flags [P-Q9](/positions/quantum-interface/#p-q9)'s theoretical-supersession route as the rival project that would make the corridor superfluous.
+6. **Cascade tagged** — "Cascade flags" section names how the ranking shifts if [P-Q10](/positions/quantum-interface/#p-q10), [P-Q1](/positions/quantum-interface/#p-q1), or [P-Q9](/positions/quantum-interface/#p-q9) move, plus cross-register [P-A3](/positions/agency-and-will/#p-a3) subordination note.
 
 ## Mechanism-debt handling
 Deep-links `[[positions/quantum-interface#^mechanism-debt]]` (3 occurrences) rather than reciting the crux, per the task brief and [quantum-interface](/positions/quantum-interface/) Mechanism-debt convention.

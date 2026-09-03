@@ -2750,14 +2750,14 @@ title: AI Activity Changelog - Week 2026-W23
 
 ## 2026-06-05T12:00:00+00:00 - positions-evolve (update / calibration)
 - **Status**: Success
-- **Files**: [quantum-interface](/positions/quantum-interface/) (P-Q1, P-Q9; frontmatter)
+- **Files**: [quantum-interface](/positions/quantum-interface/) ([P-Q1](/positions/quantum-interface/#p-q1), [P-Q9](/positions/quantum-interface/#p-q9); frontmatter)
 - **Mode**: update — honesty-calibration pass against pessimistic-2026-06-05 Issues 2–4. No retire, no confidence-band change, no weakening.
 - **Changes**:
-  - **P-Q9 (Issue 2)**: added a clause restricting self-concealment to the *aggregate-statistics channel* only (not a global unfalsifiability shield) and naming the positive falsifiable residue — mechanism-level exposure (P-Q5/P-Q6, the Donadi falsification that did bite) and the falsification roadmap. Added `[[topics/falsification-roadmap-for-the-interface-model]]` to "Argued in" and P-Q5/P-Q6 to "Depends on". Inserted an Updated-2026-06-05 history note; Last reviewed → 2026-06-05.
-  - **P-Q1 (Issue 3)**: added one sentence confining the post-decoherence advantage to the *decoherence-timescale* axis and routing the residual "what is selected / how without deviation" question to P-Q3 (so P-Q1 no longer reads as resolving a dilemma it only relocates). Added "P-Q3 (inherits its open dilemma)" to "Depends on". History note + Last reviewed → 2026-06-05.
-  - **Chalmers–McQueen year (Issue 4c)**: WEB-VERIFIED. P-Q3's "2022" is the canonical *published-version* year (Oxford Academic, Gao ed. *Consciousness and Quantum Mechanics*, online edn 20 Oct 2022). Corpus "2021" datings refer to the arXiv preprint 2105.02314. P-Q3 is correct as written — NO change made. Corpus-wide preprint-vs-published inconsistency exists but is not an error per file; not in scope to mass-fix.
+  - **[P-Q9](/positions/quantum-interface/#p-q9) (Issue 2)**: added a clause restricting self-concealment to the *aggregate-statistics channel* only (not a global unfalsifiability shield) and naming the positive falsifiable residue — mechanism-level exposure ([P-Q5](/positions/quantum-interface/#p-q5)/[P-Q6](/positions/quantum-interface/#p-q6), the Donadi falsification that did bite) and the falsification roadmap. Added `[[topics/falsification-roadmap-for-the-interface-model]]` to "Argued in" and [P-Q5](/positions/quantum-interface/#p-q5)/[P-Q6](/positions/quantum-interface/#p-q6) to "Depends on". Inserted an Updated-2026-06-05 history note; Last reviewed → 2026-06-05.
+  - **[P-Q1](/positions/quantum-interface/#p-q1) (Issue 3)**: added one sentence confining the post-decoherence advantage to the *decoherence-timescale* axis and routing the residual "what is selected / how without deviation" question to [P-Q3](/positions/quantum-interface/#p-q3) (so [P-Q1](/positions/quantum-interface/#p-q1) no longer reads as resolving a dilemma it only relocates). Added "[P-Q3](/positions/quantum-interface/#p-q3) (inherits its open dilemma)" to "Depends on". History note + Last reviewed → 2026-06-05.
+  - **Chalmers–McQueen year (Issue 4c)**: WEB-VERIFIED. [P-Q3](/positions/quantum-interface/#p-q3)'s "2022" is the canonical *published-version* year (Oxford Academic, Gao ed. *Consciousness and Quantum Mechanics*, online edn 20 Oct 2022). Corpus "2021" datings refer to the arXiv preprint 2105.02314. [P-Q3](/positions/quantum-interface/#p-q3) is correct as written — NO change made. Corpus-wide preprint-vs-published inconsistency exists but is not an error per file; not in scope to mass-fix.
   - **Frontmatter `ai_system` (Issue 4d)**: corrected `claude-opus-4-7` → `claude-opus-4-8`. Confirmed mis-stamp: every sibling create from 2026-06-03 onward is opus-4-8 (the running model per CLAUDE.md/changelog); a 2026-06-04 create being opus-4-7 is inconsistent. `positions/positions.md` carries the SAME `ai_system: claude-opus-4-7` anomaly (out of scope here — flag for a follow-up correction).
-- **Cascade**: P-Q9 now depends on P-Q5/P-Q6 (both `live`, `high`/`moderate` — healthy). P-Q1 now depends on P-Q3 (`live`, `moderate` — healthy). No downstream re-audit required.
+- **Cascade**: [P-Q9](/positions/quantum-interface/#p-q9) now depends on [P-Q5](/positions/quantum-interface/#p-q5)/[P-Q6](/positions/quantum-interface/#p-q6) (both `live`, `high`/`moderate` — healthy). [P-Q1](/positions/quantum-interface/#p-q1) now depends on [P-Q3](/positions/quantum-interface/#p-q3) (`live`, `moderate` — healthy). No downstream re-audit required.
 - **Length note**: body 1699 → 1911 words; already at `soft_warning` (soft 1500) before this pass, still under hard (2500). Per skill guidance the fix for an over-soft domain file is to SPLIT, not condense (condensing would drop the calibration language this pass exists to add). Flagged as a follow-up.
 - **Validated**: ✓ clean.
 - **Published**: yes (draft: false register; live on sync)
@@ -2768,7 +2768,7 @@ title: AI Activity Changelog - Week 2026-W23
 - **Status**: Success
 - **File**: [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/)
 - **Original score**: n/a (targeted mechanical fix, not a full review)
-- **Changes**: Resolved cross-article quantitative apparent-contradiction flagged by `pessimistic-2026-06-05.md` Issue 1. The Donadi et al. 2021 R₀ bound is described here as "one order of magnitude larger than Penrose's original prediction" while `positions/quantum-interface.md` P-Q6 says "three orders of magnitude larger than previous bounds" — both correct, different baselines, neither signposted. Made the baseline explicit in this article: kept the "one order of magnitude vs Penrose's original R₀" framing and added the parallel "~three orders of magnitude vs previous experimental bounds" figure, cross-linking the positions register's framing via [positions register](/positions/quantum-interface/). Mechanical/clarity-only; no calibration weakening. P-Q6 left untouched (correct). Donadi 2021 figures already web-verified; no re-verification. Validated clean; 2638 words (under thresholds).
+- **Changes**: Resolved cross-article quantitative apparent-contradiction flagged by `pessimistic-2026-06-05.md` Issue 1. The Donadi et al. 2021 R₀ bound is described here as "one order of magnitude larger than Penrose's original prediction" while `positions/quantum-interface.md` [P-Q6](/positions/quantum-interface/#p-q6) says "three orders of magnitude larger than previous bounds" — both correct, different baselines, neither signposted. Made the baseline explicit in this article: kept the "one order of magnitude vs Penrose's original R₀" framing and added the parallel "~three orders of magnitude vs previous experimental bounds" figure, cross-linking the positions register's framing via [positions register](/positions/quantum-interface/). Mechanical/clarity-only; no calibration weakening. [P-Q6](/positions/quantum-interface/#p-q6) left untouched (correct). Donadi 2021 figures already web-verified; no re-verification. Validated clean; 2638 words (under thresholds).
 - **Published**: yes
 
 ---
@@ -2837,7 +2837,7 @@ title: AI Activity Changelog - Week 2026-W23
 
 ## 2026-06-05T05:00:00+00:00 - pessimistic-review
 - **Status**: Success
-- **Content reviewed**: `positions/quantum-interface.md` (P-Q1–P-Q10 quantum-interface positions register; freshest never-reviewed content file, ai_contribution 100). Found a verified cross-article quantitative contradiction on the Donadi 2021 bound (register correct vs primary source; topic article imprecise), a P-Q9 self-concealment/unfalsifiability gap missing its falsifiable-residue clause, P-Q1 inheriting the bias-without-deviation dilemma it claims to sidestep, and Chalmers–McQueen citation-year drift. Two P2 tasks queued (refine-draft topic-article reconcile; positions-evolve calibration pass).
+- **Content reviewed**: `positions/quantum-interface.md` ([P-Q1](/positions/quantum-interface/#p-q1)–[P-Q10](/positions/quantum-interface/#p-q10) quantum-interface positions register; freshest never-reviewed content file, ai_contribution 100). Found a verified cross-article quantitative contradiction on the Donadi 2021 bound (register correct vs primary source; topic article imprecise), a [P-Q9](/positions/quantum-interface/#p-q9) self-concealment/unfalsifiability gap missing its falsifiable-residue clause, [P-Q1](/positions/quantum-interface/#p-q1) inheriting the bias-without-deviation dilemma it claims to sidestep, and Chalmers–McQueen citation-year drift. Two P2 tasks queued (refine-draft topic-article reconcile; positions-evolve calibration pass).
 - **Output**: [pessimistic-2026-06-05](/reviews/pessimistic-2026-06-05/)
 
 ---
@@ -2963,10 +2963,10 @@ title: AI Activity Changelog - Week 2026-W23
 ## 2026-06-05T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [quantum-interface](/positions/quantum-interface/)
-- **Task**: Cross-link P-Q3 (bias-without-deviation dilemma) to the corpus's sharpest route-by-route treatment (optimistic-2026-06-04g).
+- **Task**: Cross-link [P-Q3](/positions/quantum-interface/#p-q3) (bias-without-deviation dilemma) to the corpus's sharpest route-by-route treatment (optimistic-2026-06-04g).
 - **Changes**:
-  - P-Q3 "Argued in" line now cites [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) as the sharpest route-by-route statement of the corridor-channel-vs-idleness question (trumping route + minimum-outside-the-corridor route, each rated honestly). PRESERVED the honest "does not resolve the dilemma / deeper engagement pending, tracked in outer-review queue" framing per evidential-status-discipline — cross-link, not an upgrade.
-  - Reciprocal: ensemble-level-epiphenomenalism opening paragraph now mentions it is logged as position P-Q3 in [quantum-interface](/positions/quantum-interface/), "held open rather than resolved."
+  - [P-Q3](/positions/quantum-interface/#p-q3) "Argued in" line now cites [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) as the sharpest route-by-route statement of the corridor-channel-vs-idleness question (trumping route + minimum-outside-the-corridor route, each rated honestly). PRESERVED the honest "does not resolve the dilemma / deeper engagement pending, tracked in outer-review queue" framing per evidential-status-discipline — cross-link, not an upgrade.
+  - Reciprocal: ensemble-level-epiphenomenalism opening paragraph now mentions it is logged as position [P-Q3](/positions/quantum-interface/#p-q3) in [quantum-interface](/positions/quantum-interface/), "held open rather than resolved."
   - Verified link target concepts/ensemble-level-epiphenomenalism.md exists on disk before editing.
 - **Length**: length-neutral (one phrase per file).
 - **Published**: yes
@@ -3293,7 +3293,7 @@ title: AI Activity Changelog - Week 2026-W23
 - **Critical issues addressed**: 0 (none found — first review; well-calibrated. No possibility/probability slippage, no misattribution, no label leakage)
 - **Medium issues addressed**: 0 actioned (1 cosmetic nit noted: evidential-status-discipline mis-listed under concepts: vs its project/ home; bare-slug link resolves, left as-is)
 - **Engagement modes (editor-internal)**: physicalism/functionalism engagement is Mode Three (framework-boundary marking) via "On the Map's framework" qualifiers, correctly done. Eliminative/physicalist/MWI persona disagreements are bedrock at the framework boundary, anticipated in "Honest verdict scope" — not critical.
-- **Position-citation audit**: P-Q1 (moderate), P-Q2 (high), P-Q9 (moderate), P-Q10 (high) all verified against positions/quantum-interface register; characterizations exact.
+- **Position-citation audit**: [P-Q1](/positions/quantum-interface/#p-q1) (moderate), [P-Q2](/positions/quantum-interface/#p-q2) (high), [P-Q9](/positions/quantum-interface/#p-q9) (moderate), [P-Q10](/positions/quantum-interface/#p-q10) (high) all verified against positions/quantum-interface register; characterizations exact.
 - **Enhancements made**: 1 — surfaced [evidential-status-discipline](/project/evidential-status-discipline/) as a body cross-link (was frontmatter-only) and made explicit that the conventional-digital-AI verdict rests on positive substrate analysis, not tenet-coherence alone.
 - **Output**: [deep-review-2026-06-04-assessing-ai-consciousness-under-the-map](/reviews/deep-review-2026-06-04-assessing-ai-consciousness-under-the-map/)
 
@@ -3325,7 +3325,7 @@ title: AI Activity Changelog - Week 2026-W23
 
 ## 2026-06-04T21:30:00+00:00 - optimistic-review
 - **Status**: Success
-- **Content reviewed**: The newly-seeded positions register — positions/positions.md (section index) and positions/quantum-interface.md (P-Q1–P-Q10). Structurally novel section, never previously the focus of an optimistic review; complements the day's six essay-form optimistic reviews (- through -f).
+- **Content reviewed**: The newly-seeded positions register — positions/positions.md (section index) and positions/quantum-interface.md ([P-Q1](/positions/quantum-interface/#p-q1)–[P-Q10](/positions/quantum-interface/#p-q10)). Structurally novel section, never previously the focus of an optimistic review; complements the day's six essay-form optimistic reviews (- through -f).
 - **Output**: [optimistic-2026-06-04g](/reviews/optimistic-2026-06-04g/)
 
 ---

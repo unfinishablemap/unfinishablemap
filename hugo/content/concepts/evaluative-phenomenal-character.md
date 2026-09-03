@@ -154,7 +154,7 @@ The recognition that experience carries intrinsic evaluative character is not a 
 
 **Islamic philosophy.** Mulla Sadra's "knowledge by presence" holds that evaluative qualia are not representations *of* value but participations *in* value.
 
-Two of the four cases are one lineage: *vedanā* analysis and *rasa* theory both develop inside the Indian philosophical world, in mutual contact and criticism, and traditions that argue with each other count once. The register position [P-D3](/positions/arguments-for-dualism/) grades the cross-traditional evidence as *near-independence, not a third confirmation*; the same accounting applies here. What survives counts against a parochially Western explanation of evaluative character, not as four independent confirmations that it is basic. For detailed treatment, see [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/).
+Two of the four cases are one lineage: *vedanā* analysis and *rasa* theory both develop inside the Indian philosophical world, in mutual contact and criticism, and traditions that argue with each other count once. The register position [P-D3](/positions/arguments-for-dualism/#p-d3) grades the cross-traditional evidence as *near-independence, not a third confirmation*; the same accounting applies here. What survives counts against a parochially Western explanation of evaluative character, not as four independent confirmations that it is basic. For detailed treatment, see [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/).
 
 ## Contemplative Evidence
 

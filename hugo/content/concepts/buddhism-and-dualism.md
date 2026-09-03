@@ -162,7 +162,7 @@ The comparison clarifies what the Map's tenets actually require.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: This tenet requires mental causation; Buddhism's karma doctrine requires the same. Compatible, with the debt marked above.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Not compatible—and the Map marks the disagreement as bedrock rather than repairing it. The tenet's principal argument is indexical (*why am I this perspective?*), and [P-I1](/positions/individuation-and-subjecthood/) commits the Map to closed individualism explicitly over the empty individualism the Madhyamaka analysis supports. [P-I2](/positions/individuation-and-subjecthood/) books the consequence: where the "I" is an aggregate of conditions that already includes the branch, the question is ill-formed rather than unanswered. The tenets page concedes it by name—"a genuine bedrock disagreement, not an in-framework defect the Map can refute." Buddhist urgency about *this* life is soteriological, not metaphysical indexicality.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Not compatible—and the Map marks the disagreement as bedrock rather than repairing it. The tenet's principal argument is indexical (*why am I this perspective?*), and [P-I1](/positions/individuation-and-subjecthood/#p-i1) commits the Map to closed individualism explicitly over the empty individualism the Madhyamaka analysis supports. [P-I2](/positions/individuation-and-subjecthood/#p-i2) books the consequence: where the "I" is an aggregate of conditions that already includes the branch, the question is ill-formed rather than unanswered. The tenets page concedes it by name—"a genuine bedrock disagreement, not an in-framework defect the Map can refute." Buddhist urgency about *this* life is soteriological, not metaphysical indexicality.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Buddhist metaphysics (dependent origination, emptiness, rebirth, karma) is not simpler than materialism. Buddhism agrees that apparent simplicity doesn't determine truth. Compatible.
 
@@ -177,7 +177,7 @@ The comparison also reveals what Buddhism challenges: the assumption that taking
 - [panpsychism](/concepts/panpsychism/) — Another non-physicalist view with different tensions
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The central puzzle
 - [agent-causation](/concepts/agent-causation/) — Why the Map's version needs a persisting subject Buddhism denies
-- [Individuation and Subjecthood](/positions/individuation-and-subjecthood/) — P-I1 and P-I2, the register entries the Tenet 4 disagreement turns on
+- [Individuation and Subjecthood](/positions/individuation-and-subjecthood/) — [P-I1](/positions/individuation-and-subjecthood/#p-i1) and [P-I2](/positions/individuation-and-subjecthood/#p-i2), the register entries the Tenet 4 disagreement turns on
 - [Convergent Phenomenological Evidence](/concepts/phenomenological-evidence/#convergence) — When independent traditions converge
 - [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) — Buddhist vedanā in cross-traditional convergence on evaluative qualia
 - [filter-theory](/concepts/filter-theory/) — Why brain correlation doesn't entail brain production

@@ -39,10 +39,10 @@ None.
 
 ### New-Content Verification (the only change since review 7)
 
-The added sentence reads: *"The Map registers its reading of the timing data in its [positions register](/positions/agency-and-will/) as P-A3: Libet-style findings do not refute conscious causation."*
+The added sentence reads: *"The Map registers its reading of the timing data in its [positions register](/positions/agency-and-will/) as [P-A3](/positions/agency-and-will/#p-a3): Libet-style findings do not refute conscious causation."*
 
 - **Cross-link target** resolves to a live file (`obsidian/positions/agency-and-will.md`); no archival link-rot.
-- **Position fidelity verified**: P-A3 in the register is titled "Libet-style timing data does not refute conscious causation" — the in-article paraphrase ("Libet-style findings do not refute conscious causation") is faithful. No misattribution, no overstatement, no source/Map conflation. The register entry was itself reconciled 2026-06-10 (P-A3 atemporal reading subordinated to P-Q1's forward-in-time preference); the article's claim is unaffected because it cites only the headline position, not the subordinated atemporal mechanism.
+- **Position fidelity verified**: [P-A3](/positions/agency-and-will/#p-a3) in the register is titled "Libet-style timing data does not refute conscious causation" — the in-article paraphrase ("Libet-style findings do not refute conscious causation") is faithful. No misattribution, no overstatement, no source/Map conflation. The register entry was itself reconciled 2026-06-10 ([P-A3](/positions/agency-and-will/#p-a3) atemporal reading subordinated to [P-Q1](/positions/quantum-interface/#p-q1)'s forward-in-time preference); the article's claim is unaffected because it cites only the headline position, not the subordinated atemporal mechanism.
 
 ### Citation Web-Verification (live literature)
 
@@ -58,7 +58,7 @@ Per the §2.4 ledger discipline, the per-cite states established in review 7 sta
 
 ### Calibration Check (possibility/probability slippage)
 
-No drift. The article does not use the five-tier evidential-status scale and does not upgrade any empirical claim via tenet-coherence. Retrocausal and Zeno mechanisms remain framed as "coherent mechanisms" the framework permits; the falsifiability section labels the position "empirical territory." A tenet-accepting reviewer would not flag the prose as overstated. The new P-A3 back-citation is a register pointer, not an evidential upgrade.
+No drift. The article does not use the five-tier evidential-status scale and does not upgrade any empirical claim via tenet-coherence. Retrocausal and Zeno mechanisms remain framed as "coherent mechanisms" the framework permits; the falsifiability section labels the position "empirical territory." A tenet-accepting reviewer would not flag the prose as overstated. The new [P-A3](/positions/agency-and-will/#p-a3) back-citation is a register pointer, not an evidential upgrade.
 
 ### Reasoning-Mode Classification (editor-internal)
 
@@ -85,7 +85,7 @@ None.
 
 ## Stability Notes
 
-**Eighth review; fully stable across ~5 months.** The article continues to require no content changes. The one change since review 7 was a cosmetic positions-register back-citation, now verified faithful to P-A3.
+**Eighth review; fully stable across ~5 months.** The article continues to require no content changes. The one change since review 7 was a cosmetic positions-register back-citation, now verified faithful to [P-A3](/positions/agency-and-will/#p-a3).
 
 **Philosophical disagreements (NOT critical — do not re-flag):**
 - MWI proponents will find the retrocausal framework question-begging — bedrock per No Many Worlds.
@@ -101,6 +101,6 @@ None.
 - Critical issues addressed: 0 (none found)
 - Medium issues addressed: 0 (none found)
 - Enhancements made: 0
-- New content verified: 1 (P-A3 positions back-citation — faithful)
+- New content verified: 1 ([P-A3](/positions/agency-and-will/#p-a3) positions back-citation — faithful)
 - Citations web-verified: 0 new (8 verified in prior reviews, unchanged; no citation edits since review 7)
 - Length status: soft_warning (124% of 2500 concepts target); length-neutral mode — no expansion warranted

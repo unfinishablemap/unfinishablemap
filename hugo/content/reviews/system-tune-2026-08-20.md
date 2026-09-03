@@ -40,7 +40,7 @@ The system is healthy and fully converged on execution quality — the 20-entry 
 | Queue depth (pickable P0–P2) | 6 | ~3 | ↑ (run-990 standard mint) |
 | P3 pool | 46 | ~47 | → |
 | Sections: topics/concepts/voids | 320/318/99 | 320/319/99 | → (cap-frozen) |
-| Positions register | 16 files | 15 | +1 (P-AS1) |
+| Positions register | 16 files | 15 | +1 ([P-AS1](/positions/ai-substrate-verdicts/#p-as1)) |
 
 ## Findings
 
@@ -62,7 +62,7 @@ check-tenets delivered its eleventh consecutive zero-contradiction pass and its 
 
 ### Convergence Progress
 
-Original convergence targets are saturated (320 topics vs min 10; 5 arguments vs min 5) and no longer measure anything. Real progress this window happened in the register layer (positions 14→16 this month, P-AS1 wiring an apex funding recommendation to a flaggable position) and in citation hygiene (the Haggard/Rajan/Thura re-scoping propagated through four articles and the origin research notes). `medium_issues` is stable at 10 vs a target of 3; the gap is parked in NEEDS-HUMAN entries, not actionable by the loop.
+Original convergence targets are saturated (320 topics vs min 10; 5 arguments vs min 5) and no longer measure anything. Real progress this window happened in the register layer (positions 14→16 this month, [P-AS1](/positions/ai-substrate-verdicts/#p-as1) wiring an apex funding recommendation to a flaggable position) and in citation hygiene (the Haggard/Rajan/Thura re-scoping propagated through four articles and the origin research notes). `medium_issues` is stable at 10 vs a target of 3; the gap is parked in NEEDS-HUMAN entries, not actionable by the loop.
 
 ## Changes Applied (Tier 1)
 

@@ -37,7 +37,7 @@ The article asserted flatly:
 
 > The Map holds that consciousness selects among physically underdetermined outcomes using valence as the currency; the pressing question is how far down that value-sensitive selection reaches.
 
-Checked against the Map's own register, [value-in-selection](/positions/value-in-selection/) (P-VS1), which grades this claim:
+Checked against the Map's own register, [value-in-selection](/positions/value-in-selection/) ([P-VS1](/positions/value-in-selection/#p-vs1)), which grades this claim:
 - *"leans toward value-sensitive selection … but holds this as an aspiration grounded in prior commitments, **not as a settled result**. The honest standing is conservative."*
 - Calibration: **credence low · external-evidence grade D**
 - *"the value-blind horn is the more minimal dualism … so by Tenet 2 it is **the horn to beat** on the Map's own standards"*
@@ -124,4 +124,4 @@ None — the sibling-cluster links installed 07-16 already saturate the relevant
 
 - The phenomenal/functional decoupling this article rests on is rejected wholesale by eliminativist and hard-functionalist personas — bedrock framework-boundary disagreement, NOT a fixable flaw. Future reviews should not re-flag it.
 - **Revising the 07-19 stability note.** That review concluded the article "should be excluded from further deep-review by convergence damping." This pass disproves that: two prior no-ops and one cosmetic-edit interval still left a critical inward-framing error and an unsourced quoted slogan in place. The lesson is `fresh-create-defect-tail` — each defect was caught by a *different* lens, and convergence is per-lens, not per-article. The lenses now run on this file are: external citation metadata (07-08), full persona/argument (07-19), inward citation-framing and quote fidelity (08-03). The one lens still owed is verbatim quote-verification of `"pressure points"` at the publisher.
-- The valence-currency framing is now pinned to [value-in-selection](/positions/value-in-selection/) P-VS1 (credence low, grade D). If that position's calibration ever moves, this article's paragraph is a dependent locus and should move with it.
+- The valence-currency framing is now pinned to [value-in-selection](/positions/value-in-selection/) [P-VS1](/positions/value-in-selection/#p-vs1) (credence low, grade D). If that position's calibration ever moves, this article's paragraph is a dependent locus and should move with it.
