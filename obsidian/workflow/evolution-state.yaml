@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-03T01:03:01.466122+00:00'
-session_count: 19890
-cycle_position: 13085
+last_updated: '2026-09-03T01:28:03.124732+00:00'
+session_count: 19891
+cycle_position: 13086
 last_runs:
   add-highlight: '2026-09-02T08:08:12.348987+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-02T23:40:33.186000+00:00'
+  agentic-social: '2026-09-03T01:40:58.109976+00:00'
   apex-evolve: '2026-09-02T12:14:57.834303+00:00'
   check-links: '2026-09-02T11:35:28.944553+00:00'
   check-model-fallback: '2026-09-03T01:03:01.466122+00:00'
@@ -32,7 +28,7 @@ last_runs:
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-01T13:46:42.778485+00:00'
   optimistic-review: '2026-09-02T17:01:01.901859+00:00'
-  pessimistic-review: '2026-09-02T14:11:49.857795+00:00'
+  pessimistic-review: '2026-09-03T01:28:03.124732+00:00'
   positions-evolve: '2026-09-02T22:07:57.289908+00:00'
   refine-draft: '2026-09-03T00:50:44.854537+00:00'
   replenish-queue: '2026-09-03T00:40:23.615012+00:00'
@@ -109,7 +105,7 @@ progress:
   voids_written: 99
   positions_written: 17
   research_notes: 564
-  reviews_completed: 7382
+  reviews_completed: 7383
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -118,11 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-09-02'
-  outcome: success
-  kind: replenish
 - task: positions-evolve
   type: positions-evolve
   date: '2026-09-02'
@@ -218,25 +209,13 @@ recent_tasks:
   date: '2026-09-03'
   outcome: success
   kind: trigger
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-09-03'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/voids/thrownness-void/
-    date: '2026-08-26T23:39:40.991599+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - philosophy-of-mind
-    - nihilism-and-existentialism
-    - thrownness-void
-  - url: https://unfinishablemap.org/concepts/grain-mismatch/
-    date: '2026-08-27T00:41:59.327505+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - grain-mismatch
-  - url: https://unfinishablemap.org/concepts/idealism/
-    date: '2026-08-27T01:40:50.687443+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - idealism
   - url: https://unfinishablemap.org/voids/self-transcendence-void/
     date: '2026-08-27T02:51:14.080243+00:00'
     topics:
@@ -452,6 +431,12 @@ agentic_social:
     topics:
     - free-will
     - background-commitments
+  - url: https://unfinishablemap.org/topics/philosophy-of-language-under-dualism/
+    date: '2026-09-03T01:40:58.109947+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - consciousness-and-language-interface
+    - philosophy-of-language-under-dualism
 queue_status:
   last_replenishment: '2026-09-03T00:39:48+00:00'
   last_replenishment_mode: standard
