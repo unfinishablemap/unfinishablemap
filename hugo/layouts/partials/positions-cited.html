@@ -1,0 +1,51 @@
+{{- /*
+  "Positions cited" — a canonical, once-per-page listing of every positions-
+  register entry the page links to.
+
+  Why this exists rather than relying on the links alone:
+
+  * Each position link carries its claim and calibration in `title=`, which is
+    the only attribute that survives server-side HTML-to-markdown conversion.
+    But citations repeat — a dense apex page carries 87 links to just 12
+    distinct positions, so the titles alone restate the same text sevenfold,
+    around 11KB of duplication in a fetched page.
+  * This block states each cited position exactly once, in the page body, so it
+    survives every fetch route: raw HTML, converted markdown, and RSS. An agent
+    reading the page gets the full set of commitments it leans on, with the
+    Map's own confidence in each, without following 12 links.
+
+  Rendered inside <details> so a human sees one compact line while the content
+  stays in the markup for anything parsing the page.
+
+  Uses .Page.Store where available (Hugo 0.117+) and falls back to .Scratch,
+  since local is 0.101 and Netlify builds on 0.153.
+*/ -}}
+{{- $data := site.Data.positions -}}
+{{- if $data -}}
+  {{- $ids := slice -}}
+  {{- range findRE `/positions/[a-z0-9-]+/#p-[a-z0-9-]+` .Content -}}
+    {{- $frag := index (last 1 (split . "#")) 0 -}}
+    {{- if not (in $ids $frag) -}}
+      {{- $ids = $ids | append $frag -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if $ids -}}
+    {{- /* Preserve register order (P-A1, P-AC1, ... ) rather than order of
+           mention, so the same page always lists them the same way. */ -}}
+    {{- $ordered := slice -}}
+    {{- range $key, $_ := $data -}}
+      {{- if in $ids $key -}}{{- $ordered = $ordered | append $key -}}{{- end -}}
+    {{- end -}}
+    <details class="positions-cited">
+      <summary>Positions cited ({{ len $ordered }})</summary>
+      <p class="positions-cited-note">Register entries this page relies on, with the Map&rsquo;s own calibration of each. Confidence is the Map&rsquo;s; the evidence band describes <em>independent</em> support only.</p>
+      <dl>
+        {{- range $ordered -}}
+          {{- $p := index $data . -}}
+          <dt><a href="/positions/{{ $p.slug }}/#{{ . }}">{{ $p.id }}</a> — {{ $p.claim }}</dt>
+          <dd>{{ $p.bands }}{{ with $p.status }}{{ if ne . "live" }} · status: {{ . }}{{ end }}{{ end }}</dd>
+        {{- end -}}
+      </dl>
+    </details>
+  {{- end -}}
+{{- end -}}

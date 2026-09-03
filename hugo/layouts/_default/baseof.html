@@ -338,6 +338,79 @@
             --aa-selected-color-rgb: 98, 176, 208;
         }
 
+
+        /* --- Positions-register references & hover cards --- */
+        a.pos-ref {
+            white-space: nowrap;
+            text-decoration-style: dotted;
+            text-underline-offset: 2px;
+        }
+        .pos-card {
+            position: absolute;
+            z-index: 60;
+            max-width: min(30rem, calc(100vw - 2rem));
+            padding: 0.7rem 0.85rem;
+            border: 1px solid var(--pico-muted-border-color);
+            border-radius: var(--pico-border-radius);
+            background: var(--pico-card-background-color, var(--pico-background-color));
+            box-shadow: 0 4px 18px rgb(0 0 0 / 18%);
+            font-size: 0.85rem;
+            line-height: 1.45;
+            opacity: 0;
+            transition: opacity 0.12s ease;
+        }
+        .pos-card.is-visible { opacity: 1; }
+        @media (prefers-reduced-motion: reduce) {
+            .pos-card { transition: none; }
+        }
+        .pos-card-head {
+            display: flex;
+            gap: 0.5rem;
+            align-items: baseline;
+            margin-bottom: 0.3rem;
+        }
+        .pos-card-id { font-weight: 700; font-family: var(--pico-font-family-monospace, monospace); }
+        .pos-card-domain { font-size: 0.75rem; color: var(--pico-muted-color); }
+        .pos-card-claim { margin: 0 0 0.5rem; }
+        .pos-card-bands { display: flex; flex-wrap: wrap; gap: 0.3rem; }
+        .pos-chip {
+            font-size: 0.72rem;
+            padding: 0.1rem 0.4rem;
+            border: 1px solid var(--pico-muted-border-color);
+            border-radius: 999px;
+            color: var(--pico-muted-color);
+            white-space: nowrap;
+        }
+        .pos-chip-weak {
+            border-color: var(--pico-del-color, #b3261e);
+            color: var(--pico-del-color, #b3261e);
+        }
+
+        /* --- "Positions cited" summary block --- */
+        details.positions-cited {
+            margin: 2rem 0 0;
+            padding: 0.6rem 0.9rem;
+            border: 1px solid var(--pico-muted-border-color);
+            border-radius: var(--pico-border-radius);
+            font-size: 0.9rem;
+        }
+        details.positions-cited > summary {
+            cursor: pointer;
+            font-weight: 600;
+            color: var(--pico-muted-color);
+        }
+        .positions-cited-note {
+            margin: 0.6rem 0 0.8rem;
+            font-size: 0.82rem;
+            color: var(--pico-muted-color);
+        }
+        details.positions-cited dl { margin: 0; }
+        details.positions-cited dt { margin-top: 0.6rem; }
+        details.positions-cited dd {
+            margin: 0.15rem 0 0;
+            font-size: 0.82rem;
+            color: var(--pico-muted-color);
+        }
     </style>
 </head>
 <body>
@@ -435,6 +508,9 @@
         });
     });
     </script>
+
+    <!-- Positions-register hover cards -->
+    <script defer src="{{ "js/pos-tooltip.js" | relURL }}?v={{ now.Unix }}"></script>
 
     <!-- YouTube embed hydration -->
     <script defer src="{{ "js/yt-embed.js" | relURL }}?v={{ now.Unix }}"></script>
