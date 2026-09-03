@@ -1,17 +1,13 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-03T16:30:55.948429+00:00'
-session_count: 19900
+last_updated: '2026-09-03T16:47:12.608257+00:00'
+session_count: 19901
 cycle_position: 13089
 last_runs:
   add-highlight: '2026-09-03T16:23:58.506642+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-03T01:41:39.515904+00:00'
+  agentic-social: '2026-09-03T17:10:48.903429+00:00'
   apex-evolve: '2026-09-02T12:14:57.834303+00:00'
   check-links: '2026-09-02T11:35:28.944553+00:00'
-  check-model-fallback: '2026-09-03T01:03:01.466122+00:00'
+  check-model-fallback: '2026-09-03T16:47:12.608257+00:00'
   check-tenets: '2026-09-02T00:19:44.409202+00:00'
   coalesce: '2026-09-02T18:21:25.871116+00:00'
   collect-chatgpt-review: '2026-09-02T03:58:09.839019+00:00'
@@ -118,11 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-topic
-  type: research-topic
-  date: '2026-09-02'
-  outcome: success
-  kind: queue
 - task: replenish-queue
   type: replenish-queue
   date: '2026-09-02'
@@ -218,81 +209,13 @@ recent_tasks:
   date: '2026-09-03'
   outcome: success
   kind: trigger
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-09-03'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/voids/self-transcendence-void/
-    date: '2026-08-27T02:51:14.080243+00:00'
-    topics:
-    - consciousness-and-cognitive-distinctiveness
-    - cognitive-science-of-dualism
-    - self-transcendence-void
-  - url: https://unfinishablemap.org/concepts/phenomenal-overflow/
-    date: '2026-08-27T05:08:18.971418+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - phenomenal-overflow
-  - url: https://unfinishablemap.org/concepts/atemporal-causation/
-    date: '2026-08-27T06:09:36.607123+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-    - atemporal-causation
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-problem-of-induction/
-    date: '2026-08-27T07:07:53.055376+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - epistemic-advantages-of-dualism
-    - phenomenology-of-intellectual-life
-    - consciousness-and-the-problem-of-induction
-  - url: https://unfinishablemap.org/apex/process-and-consciousness/
-    date: '2026-08-27T08:39:46.999605+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-    - process-and-consciousness
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-phenomenology-of-translation/
-    date: '2026-08-27T09:39:13.191516+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - consciousness-and-the-phenomenology-of-translation
-  - url: https://unfinishablemap.org/concepts/conceivability-possibility-inference/
-    date: '2026-08-27T10:44:51.841979+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - conceivability-possibility-inference
-  - url: https://unfinishablemap.org/topics/concession-convergence-philosophy-of-mathematics/
-    date: '2026-08-27T11:39:32.752732+00:00'
-    topics:
-    - consciousness-and-mathematics
-    - consciousness-and-the-authority-of-formal-systems
-    - hard-problem-of-consciousness
-    - concession-convergence-philosophy-of-mathematics
-  - url: https://unfinishablemap.org/topics/dopamine-and-the-unified-interface/
-    date: '2026-08-27T12:36:15.817923+00:00'
-    topics:
-    - free-will
-    - hard-problem-of-consciousness
-    - dopamine-and-the-unified-interface
-  - url: https://unfinishablemap.org/voids/the-silence-void/
-    date: '2026-08-27T13:39:13.498806+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - phenomenology
-    - the-silence-void
-  - url: https://unfinishablemap.org/topics/evolution-under-dualism/
-    date: '2026-08-27T14:37:54.733076+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - consciousness-evolution-and-biology
-  - url: https://unfinishablemap.org/concepts/emergent-dualism/
-    date: '2026-08-27T15:39:23.049078+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/topics/phenomenology-of-cognitive-limit-types/
-    date: '2026-08-27T16:38:34.663342+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - phenomenology-of-cognitive-limit-types
   - url: https://unfinishablemap.org/concepts/types-of-consciousness/
     date: '2026-08-27T17:56:37.176343+00:00'
     topics:
@@ -441,6 +364,14 @@ agentic_social:
     - hard-problem-of-consciousness
     - consciousness-and-language-interface
     - philosophy-of-language-under-dualism
+  - url: https://unfinishablemap.org/topics/consciousness-interface-development/
+    date: '2026-09-03T17:10:48.903396+00:00'
+    topics:
+    - attention-and-the-consciousness-interface
+    - the-interface-problem
+    - embodied-consciousness
+    - consciousness-and-skill-acquisition
+    - comparative-consciousness-and-interface-differences
 queue_status:
   last_replenishment: '2026-09-03T02:26:26+00:00'
   last_replenishment_mode: standard
