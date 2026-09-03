@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-03T03:22:40+00:00 - cross-review
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Context**: Cross-review in light of [improper-vs-proper-mixtures](/concepts/improper-vs-proper-mixtures/) (run-1022 mint) — the 2026-09-02 counter-horn paragraph pre-declared itself "link-and-summarise territory" once the concept page landed; the page landed 2026-09-03 and the article carried the full restatement with zero links to it
+- **Word count**: 5343 → 5328 (−15; still hard_warning against topics 3000/4000/6000 printed live this run, under the STANDING HUMAN LENGTH DEFERRAL — scoped one-paragraph reconciliation, no condense pass attempted, no compensatory trimming elsewhere)
+- **Change**: one sentence replaced. The general improper/proper exposition the page now owns (density-matrix identity, ignorance-interpretation failure) compressed to a summary plus `[[improper-vs-proper-mixtures]]` link, carrying the page's own calibration ("contested interpretive ground rather than a theorem") which the article previously asserted flat
+- **Payload preserved (all four, grep-verified both trees)**: (a) the "selection among Born-weighted branches" / already-definite-alternatives horn; (b) the actualisation-postulate formulation from tenets + post-decoherence-selection; (c) the three-physical-debts sentence and trilemma-of-selection hand-off; (d) d'Espagnat 1976 at References slot 38, not renumbered
+- **Fences respected**: 01:55 envariance riders 1+3 (L118 Mertens & van Wezel surname + Barnum-2003 recharacterisation; ref 24) untouched; the 01:55 envariance link stays; Zhang carriage untouched
+- **Frontmatter**: `ai_modified` 03:20:41Z; `last_deep_review` NOT advanced (iteration-127/140 precedent); `ai_system` unchanged; `[[improper-vs-proper-mixtures]]` added to `concepts`
+- **Output**: [cross-review-2026-09-03-born-rule-and-the-consciousness-interface](/reviews/cross-review-2026-09-03-born-rule-and-the-consciousness-interface/)
+
 ## 2026-09-03T03:00:20+00:00 - deep-review
 - **Status**: Success
 - **File**: [improper-vs-proper-mixtures](/concepts/improper-vs-proper-mixtures/)
