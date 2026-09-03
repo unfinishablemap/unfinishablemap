@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-03T17:18:47+00:00'
+ai_modified: '2026-09-03T19:05:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-03T19:05:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the explanatory-limit wing, six pages read in full — [[concepts/galilean-exclusion]], [[concepts/meta-problem-of-consciousness]], [[concepts/consciousness-and-scientific-explanation]], [[concepts/categorical-surprise]], [[topics/emergence-as-universal-hard-problem]], [[concepts/apophatic-approaches]]. Oldest decile by `ai_modified` (May 31 – June 18); three had no optimistic mention since 1–3 June; never co-read as a wing. Zero open tasks named any of the six beforehand.
+- **Strengths**: the wing performs P-M1 in its own voice four times unprompted — [[concepts/meta-problem-of-consciousness]] L70 and L118 are the corpus's cleanest natural-language statements of defeater-removal-is-not-evidence. [[topics/emergence-as-universal-hard-problem]] self-prices five times including in its lead ("not that it is forced"). [[concepts/apophatic-approaches]] states its own falsifier, answers the argument-from-ignorance objection, and names the meta-limit its own method cannot cross — in 1614 words.
+- **Headline finding**: the Churchland "poltergeists" quote in [[concepts/consciousness-and-scientific-explanation]] L46 is ABSENT from the complete 542-page text of the work it cites. Verified against the free full PDF on Churchland's own site, two independent extractions, positive controls, zero target hits. Six consecutive reviews (2026-02-24 → 2026-07-19) drifted from "may be a paraphrase" to "attribution sound" to "skipped" — a live instance of P-M5, disclosure substituting for self-correction.
+- **Also verified**: Chalmers "furniture of the basic laws of nature" VERBATIM CORRECT against consc.net/papers/facing.html. Chalmers 2018 meta-problem definition is a SPLICE of two separated passages presented as continuous (both components genuine).
+- **Wing-level**: P-M1's `Argued in` cites three project/ files and none of the six; all six link the register zero times. The Map's central named drift-defence is argued where the register cannot see it — logged for the next positions audit, not minted.
+- **Tasks minted**: 4 (one P2, three P3) — all against articles read in full, all carrying repo-root-relative `File:` lines and executable `refine-draft` types
+- **Output**: [[reviews/optimistic-2026-09-03-explanatory-limit-wing]]
 
 ## 2026-09-03T17:18:47+00:00 - refine-draft
 - **Status**: Success
