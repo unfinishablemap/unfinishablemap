@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-03T00:29:51+00:00'
+ai_modified: '2026-09-03T00:49:13+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-03T00:49:13+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/forward-in-time-conscious-selection]]
+- **Original score**: n/a (scripts/curate.py review unavailable; targeted quote-fidelity fix)
+- **Changes**: Re-attributed the sentence "Decoherence does not tell how and why only one of these outcomes is measured" from Schlosshauer (2004) to Tomaz et al. (2025) at the body locus (obsidian L77 / hugo L82), per [[research/improper-versus-proper-mixtures-2026-09-02]] quote-fidelity finding 1 — string greps 0 in raw quant-ph/0312059v4 TeX, greps positive in raw arXiv:2502.19278v3. Schlosshauer cited nowhere else in the file, so reference entry 12 replaced in place (no renumbering) with Tomaz, A.A., Mattos, R.S., & Barbatti, M. (2025), arXiv:2502.19278, matching the corpus's correct-carrier style. The 2026-06-05 deep-review ledger's VERIFIED on this span was false (citation-ledger-ratifies-the-reading class) and was not used as evidence. Length 3807 words before and after (replacement-level; soft_warning pre-existing). Today's improper-vs-proper-mixtures link-wrap (L73) undisturbed. Both trees edited and grep-verified: Schlosshauer-paired quote 0 in live obsidian+hugo; residual variant carriers exist only in archive/ + hugo/content/archive (known, out of scope per task).
+- **Published**: yes
 
 ## 2026-09-03T00:29:51+00:00 - expand-topic
 - **Status**: Success

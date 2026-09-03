@@ -4,7 +4,7 @@ description: "How consciousness might select among quantum possibilities without
 created: 2026-03-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-09-03T00:22:50+00:00
+ai_modified: 2026-09-03T00:49:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -74,7 +74,7 @@ The Map's framework—a form of [[interactionist-dualism]]—requires that consc
 
 ## The Improper Mixture Opening
 
-After decoherence, the system's reduced density matrix is diagonal in the pointer basis—it *looks* like a classical probability distribution. But it is an *improper* mixture, derived by tracing out the environment from a larger entangled state. A proper mixture represents genuine ignorance; an improper mixture carries no such implication. As d'Espagnat (1976) argued, mathematical identity between the two does not license treating them as physically equivalent. Schlosshauer (2004) points to the same gap: "Decoherence does not tell how and why only one of these outcomes is measured." [[quantum-darwinism-and-consciousness|Quantum Darwinism]] sharpens what the pointer basis is and why environmental redundancy ensures intersubjective agreement, while leaving this outcome question open.
+After decoherence, the system's reduced density matrix is diagonal in the pointer basis—it *looks* like a classical probability distribution. But it is an *improper* mixture, derived by tracing out the environment from a larger entangled state. A proper mixture represents genuine ignorance; an improper mixture carries no such implication. As d'Espagnat (1976) argued, mathematical identity between the two does not license treating them as physically equivalent. Tomaz et al. (2025) point to the same gap: "Decoherence does not tell how and why only one of these outcomes is measured." [[quantum-darwinism-and-consciousness|Quantum Darwinism]] sharpens what the pointer basis is and why environmental redundancy ensures intersubjective agreement, while leaving this outcome question open.
 
 If the post-decoherence state were a proper mixture, the outcome would already be settled. An improper mixture, on the reading the Map adopts, is not: it has lost interference terms but has not yet yielded a single definite outcome. The Map places consciousness as the converter; alternative frameworks (MWI, relational QM, modal interpretations) handle the same formal feature without invoking consciousness. The formal residue is thus compatible with either interpretation—the improper mixture neither forces nor forbids a converting role for consciousness. [[post-decoherence-selection|Post-decoherence selection]] names the Map's commitment, not a consequence the formal feature forces on its own.
 
@@ -211,7 +211,7 @@ The Map's position: forward-in-time conscious selection is the more conservative
 9. Kastner, R.E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
 10. Colanero, K. (2012). Decoherence and definite outcomes. arXiv:1208.0904.
 11. McQueen, K.J. (2023). Have underground radiation measurements refuted the Orch OR theory? *PhilArchive*.
-12. Schlosshauer, M. (2004). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76(4), 1267. arXiv:quant-ph/0312059.
+12. Tomaz, A.A., Mattos, R.S., & Barbatti, M. (2025). The Quantum Measurement Problem: A Review of Recent Trends. arXiv:2502.19278 [quant-ph].
 13. Stapp, H.P. (1993). *Mind, Matter, and Quantum Mechanics*. Springer.
 14. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 15. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
