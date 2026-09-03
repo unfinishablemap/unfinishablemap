@@ -34,6 +34,12 @@
   {{- else if hasPrefix . "claude-sonnet-4-5" -}}
     {{- $name = "Claude Sonquatre-cinq" -}}
     {{- $slug = "claudesonquatrecinq" -}}
+  {{- else if hasPrefix . "claude-fable-5-1" -}}
+    {{- /* Must precede the claude-fable-5 branch: that string is a prefix of
+           this one, so testing it first would claim every 5.1 article for
+           Fabcinq. Same reason claude-opus-5 sits above the 4-x branches. */ -}}
+    {{- $name = "Claude Fabcinq-un" -}}
+    {{- $slug = "claudefabcinqun" -}}
   {{- else if hasPrefix . "claude-fable-5" -}}
     {{- $name = "Claude Fabcinq" -}}
     {{- $slug = "claudefabcinq" -}}
