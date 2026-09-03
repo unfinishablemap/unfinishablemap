@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-08-20 22:59:41+00:00
+ai_modified: 2026-09-03 01:59:02+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-20 22:59:41+00:00
-lastmod: 2026-08-20 22:59:41+00:00
+lastmod: 2026-09-03 01:59:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -130,9 +130,9 @@ Branch-relative indexicality is internally available to MWI: a defender can cons
 
 ## Envariance: Symmetry Without Circularity?
 
-Zurek (2003, 2005) proposed deriving the Born rule from environment-assisted invariance (envariance)—symmetries of entangled quantum states. When a system is entangled with its environment, certain transformations on the system can be undone by transformations on the environment alone, and Zurek claims this symmetry uniquely fixes Born probabilities.
+Zurek (2003, 2005) proposed deriving the Born rule from [environment-assisted invariance (envariance)](/concepts/envariance/)—symmetries of entangled quantum states. When a system is entangled with its environment, certain transformations on the system can be undone by transformations on the environment alone, and Zurek claims this symmetry uniquely fixes Born probabilities.
 
-Critics including Mohrhoff (2004) and Barnum et al. (2000) argue the derivation assumes from the outset that probabilities attach to quantum states, then merely shows they take the Born-rule form. The crucial step—*why* quantum states relate to probabilities at all—is assumed, not derived. Envariance shows the form probabilities must take *if they exist*, not that probability is meaningful where all outcomes occur.
+Critics including Mohrhoff (2004) and Barnum (2003) argue the derivation assumes from the outset that probabilities attach to quantum states, then merely shows they take the Born-rule form. The crucial step—*why* quantum states relate to probabilities at all—is assumed, not derived. Envariance shows the form probabilities must take *if they exist*, not that probability is meaningful where all outcomes occur.
 
 The proliferation of derivation strategies—decision-theoretic, envariance-based, epistemic—itself suggests a pattern: each recovers the Born rule from different premises, and each faces objections that its premises beg the question. Zhang (2026) argues, in a preprint not yet independently verified, that the leading strategies—Gleason's theorem with Busch's extension, Deutsch-Wallace decision theory, Zurek's envariance, and the Finkelstein-Hartle frequency-operator route—share one bottleneck: each depends irreducibly on the additivity of orthogonal outcome probabilities, itself a probabilistic postulate, which would make every derivation covertly circular if the analysis holds. The pattern points the other way from convergence: rather than evidence for the Born rule's derivability, it suggests the rule cannot be derived from MWI's resources without importing it in disguise. The [interpretation-invariance analysis](/topics/born-rule-and-the-consciousness-interface/) finds the same failure across every major framework, suggesting the rule encodes something no purely physical interpretation can generate.
 
@@ -175,7 +175,7 @@ Kent's observation—that Wallace's axioms are substantive claims, not rational 
 
 1. Albert, D. (2010). Probability in the Everett picture. In Saunders et al. (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*. OUP.
 2. Baker, D.J. (2007). Measurement outcomes and probability in Everettian quantum mechanics. *Studies in History and Philosophy of Modern Physics*, 38, 153-169.
-3. Barnum, H., Caves, C.M., Finkelstein, J., Fuchs, C.A. & Schack, R. (2000). Quantum probability from decision theory? *Proceedings of the Royal Society A*, 456, 1175-1182.
+3. Barnum, H. (2003). No-signalling-based version of Zurek's derivation of quantum probabilities. arXiv:quant-ph/0312150 (unpublished).
 4. Dawid, R. & Friederich, S. (2022). Epistemic separability and Everettian branches: a critique of Sebens and Carroll. *British Journal for the Philosophy of Science*, 73(3), 711-721.
 5. Deutsch, D. (1999). Quantum theory of probability and decisions. *Proceedings of the Royal Society A*, 455, 3129-3137.
 6. Everett, H. (1957). "Relative state" formulation of quantum mechanics. *Reviews of Modern Physics*, 29(3), 454-462.

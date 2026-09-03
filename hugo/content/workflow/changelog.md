@@ -1,14 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-03T00:29:51+00:00'
+ai_modified: '2026-09-03T01:27:04+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-03'
-lastmod: 2026-09-03 00:29:51+00:00
+lastmod: 2026-09-03 01:27:04+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-03T01:59:02+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Envariance and the symmetry derivation of the Born rule
+- **Output**: [envariance](/concepts/envariance/)
+- **Word count**: 2491 (concepts thresholds printed live 2500/3500/5000; status ok)
+- **Based on research**: yes — [envariance-born-rule-derivation-2026-09-02](/research/envariance-born-rule-derivation-2026-09-02/) (consumption verdict standalone concepts page; quote discipline followed — [grep-verified] spans only, Vaidman/Drezet cite-only, Caves flagged unpublished, Zhang preprint-caveated; additivity dispute carried two-sided per note §Key Debates 2)
+- **Cap**: concepts re-measured live at expand time via count_section_files = 322/360 before creation; check_slug + archive-redirect collision check both clean for `envariance`
+- **Integration**: inbound [envariance](/concepts/envariance/) link-wraps installed in quantum-darwinism-and-consciousness (Zurek's-commitments section), probability-problem-in-many-worlds (envariance section), post-decoherence-selection-programme (Born-weights sentence), born-rule-and-the-consciousness-interface (L117), concepts/many-worlds (probability-problem section); QD-article fenced Zurek quote spans untouched. Sibling improper-vs-proper-mixtures linked from the new page only (scopes disjoint: this page the measure derivation, that page the mixture distinction; reverse link deferred — that page sits at 2498/2500).
+- **Riders 1–3 landed with this expand's integration pass** (recording the task block's option choice; not deferred to a separate refine): (1) Máttyus→Mertens, L. & van Wezel, J. fixed by string in born-rule-interface (L117 + ref 24), research/born-rule-derivation-attempts-2026-03-14 (sources/circularity/refs), archive/topics/born-rule-derivation-failures-consciousness-collapse (L60 + ref 7); hugo mirrors via sync. (2) "Barnum et al. (2000)"→"Barnum (2003)" in probability-problem L130 with ref 3 replaced in place (the 2000 Proc. R. Soc. paper was cited nowhere else in that file) and in archive/topics/decision-theory-cannot-save-many-worlds L102 + ref 3. (3) Auxiliary-assumption claim re-attributed to Barnum (2003) with S&F recharacterised (four-assumption ledger / assumed state-probability link) at all three loci; Barnum 2003 reference entries appended without renumbering (interface ref 39, archive ref 13, research-note bullet). Rider 4: the new page states the calibrated adjudication ("contested, not refuted") and the reconciled form-fixing borrow that both apex/post-decoherence-selection-programme "grounding" and apex/one-world-wager "contested, not refuted" can cite; the three flat-phrasing loci (indexical-identity L99, quantum-interpretations L108, many-worlds L102) deliberately left for the follow-on integration pass per the block.
+- **Length discipline at parked deployers**: probability-problem net −14 words (3983 against its 4000 hard threshold); born-rule-interface +29 words (5343; the L117 correction plus the required Barnum reference entry — the minimum consistent with the re-attribution; no other prose touched, standing human length deferral respected)
+
+## 2026-09-03T01:27:04+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/cognitive-integration-and-the-self (oldest live topic by ai_modified 2026-05-27; last deep review 2026-06-25; last dedicated pessimistic attention 2026-03-05)
+- **Output**: [pessimistic-2026-09-03-cognitive-integration-and-the-self](/reviews/pessimistic-2026-09-03-cognitive-integration-and-the-self/)
+- **Tasks**: 1 refine-draft P3 minted — Tenet 4 integration-fracture family (loci to be added to the open fourteen-locus sweep), integration-constitutes-identity contradiction, mechanism-debt overshoot, REM-consolidation claim, DID for-me-ness, dead tenets anchors
+
+## 2026-09-03T00:49:13+00:00 - refine-draft
+- **Status**: Success
+- **File**: [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)
+- **Original score**: n/a (scripts/curate.py review unavailable; targeted quote-fidelity fix)
+- **Changes**: Re-attributed the sentence "Decoherence does not tell how and why only one of these outcomes is measured" from Schlosshauer (2004) to Tomaz et al. (2025) at the body locus (obsidian L77 / hugo L82), per [improper-versus-proper-mixtures-2026-09-02](/research/improper-versus-proper-mixtures-2026-09-02/) quote-fidelity finding 1 — string greps 0 in raw quant-ph/0312059v4 TeX, greps positive in raw arXiv:2502.19278v3. Schlosshauer cited nowhere else in the file, so reference entry 12 replaced in place (no renumbering) with Tomaz, A.A., Mattos, R.S., & Barbatti, M. (2025), arXiv:2502.19278, matching the corpus's correct-carrier style. The 2026-06-05 deep-review ledger's VERIFIED on this span was false (citation-ledger-ratifies-the-reading class) and was not used as evidence. Length 3807 words before and after (replacement-level; soft_warning pre-existing). Today's improper-vs-proper-mixtures link-wrap (L73) undisturbed. Both trees edited and grep-verified: Schlosshauer-paired quote 0 in live obsidian+hugo; residual variant carriers exist only in archive/ + hugo/content/archive (known, out of scope per task).
+- **Published**: yes
 
 ## 2026-09-03T00:29:51+00:00 - expand-topic
 - **Status**: Success

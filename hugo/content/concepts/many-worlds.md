@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-24 09:21:07+00:00
+ai_modified: 2026-09-03 01:59:02+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-20 21:12:00+00:00
-lastmod: 2026-08-24 09:21:07+00:00
+lastmod: 2026-09-03 01:59:02+00:00
 modified: *id001
 related_articles:
 - '[[one-world-wager]]'
@@ -103,7 +103,7 @@ MWI defenders argue this is *simpler* because it has fewer laws—just the Schr�
 
 Quantum mechanics predicts that outcomes occur with specific probabilities given by the Born rule. On MWI, all outcomes occur. This generates two distinct challenges (Wallace 2003): the **incoherence problem**—whether probability is even meaningful when nothing fails to happen—and the **quantitative problem**—why probabilities should follow the Born rule rather than simple branch-counting, which generically contradicts it (Graham 1973).
 
-Three strategies attempt to recover probability: decision-theoretic derivations (Deutsch-Wallace), self-locating uncertainty (Sebens-Carroll), and environment-assisted invariance (Zurek). None has succeeded without contested assumptions. Decision-theoretic axioms are contested as encoding optional metaphysical attitudes rather than requirements of rationality (Kent 2010), and even granting the axioms, the derivation tells agents how to bet without explaining why laboratory records show Born-rule frequencies (Albert 2010). Self-locating uncertainty struggles because the uncertainty is either spurious or wrongly placed (Lewis 2007). Envariance derivations assume the connection between quantum states and probabilities that they claim to establish.
+Three strategies attempt to recover probability: decision-theoretic derivations (Deutsch-Wallace), self-locating uncertainty (Sebens-Carroll), and [environment-assisted invariance](/concepts/envariance/) (Zurek). None has succeeded without contested assumptions. Decision-theoretic axioms are contested as encoding optional metaphysical attitudes rather than requirements of rationality (Kent 2010), and even granting the axioms, the derivation tells agents how to bet without explaining why laboratory records show Born-rule frequencies (Albert 2010). Self-locating uncertainty struggles because the uncertainty is either spurious or wrongly placed (Lewis 2007). Envariance derivations assume the connection between quantum states and probabilities that they claim to establish.
 
 A deeper structural problem cuts across all three strategies: well-defined branches require [decoherence](/concepts/decoherence/), but decoherence is described using the Born-rule norm, so the branch structure presupposes the probability rule it claims to ground (Baker 2007, Price 2010). Zhang (2026) identifies a unifying bottleneck: all five leading derivation strategies depend irreducibly on the assumption that probabilities of orthogonal outcomes are additive—itself a probabilistic postulate, making every derivation covertly circular. This problem has persisted from Everett's original 1957 thesis through Short's 2023 contribution to *Quantum*—nearly seven decades without resolution.
 

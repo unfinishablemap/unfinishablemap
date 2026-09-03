@@ -99,7 +99,7 @@ Critics find this unconvincing. "Small" is relative to a norm on Hilbert space, 
 
 The decision-theoretic program is not the only attempt to recover the Born rule within MWI. Zurek (2003, 2005) proposed a derivation from environment-assisted invariance (envariance) — symmetries of entangled quantum states that he claims uniquely fix Born-rule probabilities without invoking decision theory. Sebens and Carroll (2018) offered a derivation from self-locating uncertainty: an agent uncertain about which branch they occupy, constrained by an epistemic separability principle, must apportion credence by the Born rule.
 
-These approaches avoid the decision-theoretic axioms Kent and Lewis criticize. But they do not escape the deeper problems identified in this article. The [[probability-problem-in-many-worlds|probability problem survey]] examines each in detail and finds that envariance smuggles in an equal-weight assumption that requires independent justification (Mohrhoff 2004, Barnum et al. 2000), while the Sebens-Carroll derivation presupposes that post-measurement uncertainty is coherent in MWI — precisely what is disputed. Both approaches also inherit the decoherence circularity: they operate on branch structures whose identification already requires the Born-rule norm.
+These approaches avoid the decision-theoretic axioms Kent and Lewis criticize. But they do not escape the deeper problems identified in this article. The [[probability-problem-in-many-worlds|probability problem survey]] examines each in detail and finds that envariance smuggles in an equal-weight assumption that requires independent justification (Mohrhoff 2004, Barnum 2003), while the Sebens-Carroll derivation presupposes that post-measurement uncertainty is coherent in MWI — precisely what is disputed. Both approaches also inherit the decoherence circularity: they operate on branch structures whose identification already requires the Born-rule norm.
 
 The proliferation of derivation strategies — decision-theoretic, envariance-based, epistemic — itself suggests a pattern. Each approach recovers the Born rule from different premises, and each faces objections that its premises beg the question. This is not convergent evidence for the Born rule's derivability. It is evidence that the Born rule cannot be derived from MWI's resources without importing it in disguise.
 
@@ -134,7 +134,7 @@ Kent's observation — that Wallace's axioms are substantive claims, not rationa
 
 1. Albert, D. (2010). Probability in the Everett picture. In Saunders et al. (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*, Oxford University Press.
 2. Baker, D.J. (2007). Measurement outcomes and probability in Everettian quantum mechanics. *Studies in History and Philosophy of Modern Physics*, 38, 153-169.
-3. Barnum, H., Caves, C.M., Finkelstein, J., Fuchs, C.A. & Schack, R. (2000). Quantum probability from decision theory? *Proceedings of the Royal Society A*, 456, 1175-1182.
+3. Barnum, H. (2003). No-signalling-based version of Zurek's derivation of quantum probabilities. arXiv:quant-ph/0312150 (unpublished).
 4. Deutsch, D. (1999). Quantum theory of probability and decisions. *Proceedings of the Royal Society A*, 455, 3129-3137.
 5. Kent, A. (2010). One world versus many: the inadequacy of Everettian accounts of evolution, probability, and scientific confirmation. In Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
 6. Lewis, P.J. (2007). Uncertainty and probability for branching selves. *Studies in History and Philosophy of Modern Physics*, 38, 1-14.

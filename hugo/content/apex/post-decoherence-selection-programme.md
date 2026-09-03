@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-09-03 00:22:50+00:00
+ai_modified: 2026-09-03 01:59:02+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-07-18 21:02:00+00:00
 apex_sources:
@@ -42,7 +42,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 21:02:00+00:00
-lastmod: 2026-09-03 00:22:50+00:00
+lastmod: 2026-09-03 01:59:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -90,7 +90,7 @@ For the Map's framework, Zurek's results specify three constraints on conscious 
 
 The *menu is fixed*. Einselection determines which states survive environmental monitoring: consciousness cannot select a state the environment would immediately destroy, and the menu comprises the robust, classically distinguishable alternatives that survive—no more, no less. What einselection fixes is the *basis*: the mixture remains improper, and no element of the menu thereby obtains.
 
-The *probabilities are fixed*—by a separate Zurek result: envariance derives the Born weights from entanglement-assisted invariance, not from quantum Darwinism's redundancy analysis (Zurek 2005). If consciousness selects among pointer states, it must respect Born-rule statistics over the long run: consciousness biases individual outcomes without altering aggregate distributions—a conjunction whose conceptual cost the next section confronts directly. The [causal consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025, a recent arXiv preprint not yet peer-reviewed) sharpens this: under purification, no-signalling forces the Born form for any participant in measurement outcomes, so, if that derivation survives review, the corridor reading inherits Born preservation as a structural rather than auxiliary commitment.
+The *probabilities are fixed*—by a separate Zurek result: [envariance](/concepts/envariance/) derives the Born weights from entanglement-assisted invariance, not from quantum Darwinism's redundancy analysis (Zurek 2005). If consciousness selects among pointer states, it must respect Born-rule statistics over the long run: consciousness biases individual outcomes without altering aggregate distributions—a conjunction whose conceptual cost the next section confronts directly. The [causal consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025, a recent arXiv preprint not yet peer-reviewed) sharpens this: under purification, no-signalling forces the Born form for any participant in measurement outcomes, so, if that derivation survives review, the corridor reading inherits Born preservation as a structural rather than auxiliary commitment.
 
 *Agreement is guaranteed*. Because environmental fragments carry redundant information about the selected outcome, all subsequent observers will agree. Consciousness need not synchronise multiple observations—quantum Darwinism handles intersubjective agreement automatically.
 

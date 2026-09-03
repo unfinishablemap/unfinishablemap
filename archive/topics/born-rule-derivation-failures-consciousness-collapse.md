@@ -57,7 +57,7 @@ Beyond the additivity bottleneck, each derivation strategy presupposes an observ
 
 **The Deutsch-Wallace decision-theoretic derivation** (1999, 2010) shows that rational agents in a branching Everettian universe must assign Born-rule credences. But rationality axioms — measurement neutrality, branching indifference, diachronic consistency — are substantive philosophical claims about how agents *should* bet, not consequences of physics. As Araújo asks: "Should the statistics of an experiment really be constrained by rationality axioms?" The derivation also conflates betting behaviour with physical frequencies, as Albert (2010) argues — it tells agents how to wager without explaining why laboratory records display Born-rule statistics on any single branch.
 
-**Zurek's envariance** (2003, 2005) appeals to symmetries of entangled system-environment states to fix probabilities. Schlosshauer and Fine (2005) showed that the auxiliary assumption used to extend from equal probabilities to unequal amplitudes is itself strong enough to yield the Born rule directly — the derivation assumes its conclusion. Máttyus (2023) demonstrated more specifically that envariance conditions do not necessitate Born's rule for all measurements: they show only that a measurement device *can be constructed* that yields Born-rule statistics, not that all measurements do. And the entire framework treats decoherence as resolving the measurement problem, but decoherence selects a preferred basis without explaining why one outcome from the resulting mixture becomes actual. Someone — or something — must still select.
+**Zurek's envariance** (2003, 2005) appeals to symmetries of entangled system-environment states to fix probabilities. Barnum (2003) showed that a natural generalisation of the auxiliary assumption used to extend from equal probabilities to unequal amplitudes is itself strong enough to yield the Born rule directly — the derivation assumes its conclusion; Schlosshauer and Fine (2005) locate the circularity in an assumed link between quantum states and probabilities. Mertens and van Wezel (2023) demonstrated more specifically that envariance conditions do not necessitate Born's rule for all measurements: they show only that a measurement device *can be constructed* that yields Born-rule statistics, not that all measurements do. And the entire framework treats decoherence as resolving the measurement problem, but decoherence selects a preferred basis without explaining why one outcome from the resulting mixture becomes actual. Someone — or something — must still select.
 
 **QBism** (Caves, Fuchs, Schack) reframes the Born rule as a normative constraint on an agent's degrees of belief — a rule of "quantum Bayesian coherence." This makes the observer central by design: quantum states are credences held by agents, not features of reality. But QBism does not explain why agents who violate the Born rule get wrong predictions. The agent is presupposed rather than accounted for.
 
@@ -136,7 +136,7 @@ The persistent failure to derive the Born rule connects to all five of the Map's
 
 6. Masanes, L., Galley, T. D. & Müller, M. P. (2019). "The measurement postulates of quantum mechanics are operationally redundant." *Nature Physics*, 15, 1174–1177.
 
-7. Máttyus, E. (2023). "Environment-Assisted Invariance Does Not Necessitate Born's Rule for Quantum Measurement." *Entropy*, 25(3), 435.
+7. Mertens, L. & van Wezel, J. (2023). "Environment-Assisted Invariance Does Not Necessitate Born's Rule for Quantum Measurement." *Entropy*, 25(3), 435.
 
 8. Schlosshauer, M. & Fine, A. (2005). "On Zurek's Derivation of the Born Rule." *Foundations of Physics*, 35, 197–213.
 
@@ -147,6 +147,8 @@ The persistent failure to derive the Born rule connects to all five of the Map's
 11. Zurek, W. H. (2005). "Probabilities from Entanglement, Born's Rule from Envariance." *Physical Review A*, 71, 052105.
 
 12. Tonetto, B. "What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry." PhilArchive. https://philarchive.org/rec/TONWPA
+
+13. Barnum, H. (2003). "No-signalling-based version of Zurek's derivation of quantum probabilities." arXiv:quant-ph/0312150 (unpublished).
 
 13. Southgate, A. & Oquatre-cinq, C. (2026-01-27). Quantum Probability and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/quantum-probability-consciousness/
 

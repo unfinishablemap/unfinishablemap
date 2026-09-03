@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-09-03 00:22:50+00:00
+ai_modified: 2026-09-03 01:59:02+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 02:26:21+00:00
-lastmod: 2026-09-03 00:22:50+00:00
+lastmod: 2026-09-03 01:59:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -86,7 +86,7 @@ A further advantage of this post-decoherence framing: it sidesteps the [timing g
 
 ## Zurek's Own Interpretive Commitments
 
-How does Zurek himself handle the outcome problem? His position has evolved over two decades, but its core strategy is to dissolve rather than solve the problem of outcomes. In his 2022 paper "Quantum Theory of the Classical," Zurek deploys *envariance* (environment-assisted invariance)—a symmetry argument he developed in earlier work—to derive the Born rule from first principles, aiming to show that quantum probabilities are the only consistent probability assignment for an observer entangled with their environment.
+How does Zurek himself handle the outcome problem? His position has evolved over two decades, but its core strategy is to dissolve rather than solve the problem of outcomes. In his 2022 paper "Quantum Theory of the Classical," Zurek deploys [*envariance*](/concepts/envariance/) (environment-assisted invariance)—a symmetry argument he developed in earlier work—to derive the Born rule from first principles, aiming to show that quantum probabilities are the only consistent probability assignment for an observer entangled with their environment.
 
 The Map respects envariance as a mathematical result while noting that it does not address why one outcome becomes actual. Deriving that the Born rule is the correct probability measure does not explain why a probability distribution yields a specific result. Envariance tells us that the Born-rule probabilities are the only consistent ones to assign—it does not convert probabilities into actualities.
 

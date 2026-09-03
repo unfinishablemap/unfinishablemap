@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-14
-ai_modified: 2026-07-27 21:03:00+00:00
+ai_modified: 2026-09-03 01:59:02+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-07-27 21:03:00+00:00
+lastmod: 2026-09-03 01:59:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -65,10 +65,10 @@ The Born rule — the postulate that measurement probabilities equal the squared
 
 ### 3. Zurek's Envariance (Decoherence-Based, 2003–2005)
 
-- **Sources**: Zurek (2005, [Phys Rev A](https://link.aps.org/doi/10.1103/PhysRevA.71.052105)); critiqued by Schlosshauer & Fine (2005, [Found Phys](https://link.springer.com/article/10.1007/s10701-004-1941-6)); Máttyus (2023, [Entropy](https://www.mdpi.com/1099-4300/25/3/435))
+- **Sources**: Zurek (2005, [Phys Rev A](https://link.aps.org/doi/10.1103/PhysRevA.71.052105)); critiqued by Barnum (2003, [arXiv](https://arxiv.org/abs/quant-ph/0312150)); Schlosshauer & Fine (2005, [Found Phys](https://link.springer.com/article/10.1007/s10701-004-1941-6)); Mertens & van Wezel (2023, [Entropy](https://www.mdpi.com/1099-4300/25/3/435))
 - **Core claim**: Environment-assisted invariance (envariance) determines probabilities without the Born rule as input.
 - **Assumes**: Quantum state as complete description; symmetry under swaps implies equal probability; auxiliary assumption connecting probability to state structure.
-- **Circularity**: Schlosshauer & Fine showed the auxiliary assumption is itself strong enough to yield the Born rule directly. Máttyus demonstrated envariance does not necessitate Born's rule for all measurements — linear collapse models satisfying envariance never give rise to it.
+- **Circularity**: Barnum showed a natural generalisation of the auxiliary assumption is itself strong enough to yield the Born rule directly; Schlosshauer & Fine identify four implicit assumptions and locate the circularity in the assumed state-probability link. Mertens & van Wezel demonstrated envariance does not necessitate Born's rule for all measurements — linear collapse models satisfying envariance never give rise to it.
 - **Tenet alignment**: Treats decoherence as solving the measurement problem, which the Map rejects. Decoherence selects a basis but doesn't explain why one outcome occurs.
 
 ### 4. QBism / Caves-Fuchs-Schack (Subjective Bayesian, 2010)
@@ -152,6 +152,7 @@ Follow `obsidian/project/writing-style.md` for named-anchor summaries, backgroun
 
 - Araújo, M. (2021). "Why I am unhappy about all derivations of the Born rule (including mine)." Blog post, More Quantum. https://mateusaraujo.info/2021/03/12/why-i-am-unhappy-about-all-derivations-of-the-born-rule-including-mine/
 - Auffèves, A. & Grangier, P. (2021). "Deriving Born's Rule from an Inference to the Best Explanation." https://hal.science/hal-03001936v1/document
+- Barnum, H. (2003). "No-signalling-based version of Zurek's derivation of quantum probabilities." arXiv:quant-ph/0312150 (unpublished).
 - Born, M. (1926). "Zur Quantenmechanik der Stoßvorgänge." Zeitschrift für Physik 37, 863–867.
 - Carroll, S. M. & Sebens, C. T. (2014). "Many Worlds, the Born Rule, and Self-Locating Uncertainty." arXiv:1405.7907.
 - Dawid, R. & Friederich, S. (2022). "Epistemic Separability and Everettian Branches: A Critique of Sebens and Carroll." British Journal for the Philosophy of Science 73(3), 711–721. DOI:10.1093/bjps/axaa002. **[Peer-reviewed paper — Dawid first.]** Cite this for the critique proper; the companion post below is Friederich-first. Both byline orders are correct as published.
@@ -160,7 +161,7 @@ Follow `obsidian/project/writing-style.md` for named-anchor summaries, backgroun
 - Gleason, A. M. (1957). "Measures on the Closed Subspaces of a Hilbert Space." Journal of Mathematics and Mechanics 6, 885–893.
 - Neumaier, A. (2025). "The Born Rule — 100 Years Ago and Today." Entropy 27(4): 415. arXiv:2502.08545.
 - Masanes, L., Galley, T. D. & Müller, M. P. (2019). "The measurement postulates of quantum mechanics are operationally redundant." Nature Physics 15, 1174–1177. arXiv:1811.11060.
-- Máttyus, E. (2023). "Environment-Assisted Invariance Does Not Necessitate Born's Rule for Quantum Measurement." Entropy 25(3), 435.
+- Mertens, L. & van Wezel, J. (2023). "Environment-Assisted Invariance Does Not Necessitate Born's Rule for Quantum Measurement." Entropy 25(3), 435.
 - Saunders, S. (2004). "Derivation of the Born Rule from Operational Assumptions." Proceedings of the Royal Society A 460, 1771–1788.
 - Schlosshauer, M. & Fine, A. (2005). "On Zurek's Derivation of the Born Rule." Foundations of Physics 35, 197–213.
 - Wallace, D. (2010). "A Formal Proof of the Born Rule from Decision-Theoretic Assumptions." In S. Saunders et al. (eds.), Many Worlds? Oxford University Press.

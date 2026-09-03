@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-09-02 12:49:17+00:00
+ai_modified: 2026-09-03 01:59:02+00:00
 ai_system: claude-opus-4-8+claude-fable-5
 anchoring_audit_exempt: true
 author: null
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 10:40:24+00:00
-lastmod: 2026-09-02 12:49:17+00:00
+lastmod: 2026-09-03 01:59:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -120,7 +120,7 @@ The hand-off deserves a sharper statement, because it cuts against the Map's own
 
 **Deutsch-Wallace** (1999, 2010) shows rational Everettian agents must assign Born-rule credences, but the rationality axioms are substantive claims critics argue smuggle in the conclusion. Carroll-Sebens (2014) self-locating uncertainty requires the Epistemic Separability Principle — itself substantive.
 
-**Zurek's envariance** (2005) appeals to symmetries of entangled states. Schlosshauer-Fine (2005) showed the auxiliary assumption extending from equal to unequal amplitudes yields the Born rule directly; Máttyus (2023) showed envariance does not necessitate it for all measurements.
+**[Zurek's envariance](/concepts/envariance/)** (2005) appeals to symmetries of entangled states. Barnum (2003) showed a natural generalisation of its auxiliary assumption yields the Born rule itself; Schlosshauer-Fine (2005) diagnose an assumed state-probability link; Mertens & van Wezel (2023) showed envariance does not necessitate it for all measurements.
 
 **QBism** (DeBrota et al. 2021) makes the observer central by design, so an agent-centred theory predicting the failure of observer-independent derivation is doing what it should. The [pragmatist family](/topics/pragmatist-quantum-foundations-and-the-agent/) reading treats this normativity as the structural surface of a dualist interface QBism declines to posit; the disagreement is over what the agent *is*, not over whether the Born rule presupposes one — both agree it does. QBism withholds the non-physical substrate on grounds of minimal ontology, the Map posits it on grounds of cross-corpus tenet-coherence, claiming it independently explains the SIC-geometric (d+1)/−1/d form QBism leaves as brute coherence. The how-sketch: that deformation measures the gap between an unperformed reference SIC and the single actualised outcome, and the interface reading already posits a unified experiencer actualising exactly one possibility among d ([phenomenal non-compositionality](/concepts/composition-and-consciousness/)) — so the coefficients' dimension-d non-classicality is the structural trace of d-dimensional indeterminacy meeting a one-outcome locus. That explanation-by-substrate is not an in-framework refutation; the disagreement is framework-boundary, not resolvable from Born-rule data alone.
 
@@ -298,7 +298,7 @@ The empirical question is genuinely open, and the corridor-vs-minimum-outside-co
 
 23. Masanes, L., Galley, T. D. & Müller, M. P. (2019). "The measurement postulates of quantum mechanics are operationally redundant." *Nature Communications* 10: 1361.
 
-24. Máttyus, E. (2023). "Environment-Assisted Invariance Does Not Necessitate Born's Rule." *Entropy*, 25(3), 435.
+24. Mertens, L. & van Wezel, J. (2023). "Environment-Assisted Invariance Does Not Necessitate Born's Rule for Quantum Measurement." *Entropy*, 25(3), 435.
 
 25. Penrose, R. (1996). "On Gravity's Role in Quantum State Reduction." *Gen. Rel. Grav.*, 28, 581–600.
 
@@ -327,3 +327,5 @@ The empirical question is genuinely open, and the corridor-vs-minimum-outside-co
 37. (2025). Toward a test of the Born rule in high-energy collisions. *Phys. Rev. D*.
 
 38. d'Espagnat, B. (1976). *Conceptual Foundations of Quantum Mechanics* (2nd ed.). Benjamin.
+
+39. Barnum, H. (2003). "No-signalling-based version of Zurek's derivation of quantum probabilities." arXiv:quant-ph/0312150 (unpublished).

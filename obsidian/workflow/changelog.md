@@ -5,6 +5,17 @@ ai_modified: '2026-09-03T01:27:04+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-09-03T01:59:02+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Envariance and the symmetry derivation of the Born rule
+- **Output**: [[concepts/envariance]]
+- **Word count**: 2491 (concepts thresholds printed live 2500/3500/5000; status ok)
+- **Based on research**: yes — [[research/envariance-born-rule-derivation-2026-09-02]] (consumption verdict standalone concepts page; quote discipline followed — [grep-verified] spans only, Vaidman/Drezet cite-only, Caves flagged unpublished, Zhang preprint-caveated; additivity dispute carried two-sided per note §Key Debates 2)
+- **Cap**: concepts re-measured live at expand time via count_section_files = 322/360 before creation; check_slug + archive-redirect collision check both clean for `envariance`
+- **Integration**: inbound [[envariance]] link-wraps installed in quantum-darwinism-and-consciousness (Zurek's-commitments section), probability-problem-in-many-worlds (envariance section), post-decoherence-selection-programme (Born-weights sentence), born-rule-and-the-consciousness-interface (L117), concepts/many-worlds (probability-problem section); QD-article fenced Zurek quote spans untouched. Sibling improper-vs-proper-mixtures linked from the new page only (scopes disjoint: this page the measure derivation, that page the mixture distinction; reverse link deferred — that page sits at 2498/2500).
+- **Riders 1–3 landed with this expand's integration pass** (recording the task block's option choice; not deferred to a separate refine): (1) Máttyus→Mertens, L. & van Wezel, J. fixed by string in born-rule-interface (L117 + ref 24), research/born-rule-derivation-attempts-2026-03-14 (sources/circularity/refs), archive/topics/born-rule-derivation-failures-consciousness-collapse (L60 + ref 7); hugo mirrors via sync. (2) "Barnum et al. (2000)"→"Barnum (2003)" in probability-problem L130 with ref 3 replaced in place (the 2000 Proc. R. Soc. paper was cited nowhere else in that file) and in archive/topics/decision-theory-cannot-save-many-worlds L102 + ref 3. (3) Auxiliary-assumption claim re-attributed to Barnum (2003) with S&F recharacterised (four-assumption ledger / assumed state-probability link) at all three loci; Barnum 2003 reference entries appended without renumbering (interface ref 39, archive ref 13, research-note bullet). Rider 4: the new page states the calibrated adjudication ("contested, not refuted") and the reconciled form-fixing borrow that both apex/post-decoherence-selection-programme "grounding" and apex/one-world-wager "contested, not refuted" can cite; the three flat-phrasing loci (indexical-identity L99, quantum-interpretations L108, many-worlds L102) deliberately left for the follow-on integration pass per the block.
+- **Length discipline at parked deployers**: probability-problem net −14 words (3983 against its 4000 hard threshold); born-rule-interface +29 words (5343; the L117 correction plus the required Barnum reference entry — the minimum consistent with the re-attribution; no other prose touched, standing human length deferral respected)
+
 ## 2026-09-03T01:27:04+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/cognitive-integration-and-the-self (oldest live topic by ai_modified 2026-05-27; last deep review 2026-06-25; last dedicated pessimistic attention 2026-03-05)
