@@ -113,3 +113,31 @@
   subject_articles:
   - voids/conceptual-metabolism-void.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/6f4f034a-72c6-4f0a-9c79-7fc28433d1d4
+  commissioned_at: '2026-09-03T03:06:02.609611+00:00'
+  prompt_summary: 'Audit voids/conceptual-metabolism-void: claims, citations, integration'
+  target_filename: outer-review-2026-09-03-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please act as a rigorous external referee for The Unfinishable Map\
+    \ (https://unfinishablemap.org), a philosophical site defending interactionist\
+    \ dualism with minimal quantum interaction. This cycle\u2019s subject is the void\
+    \ article at https://unfinishablemap.org/voids/conceptual-metabolism-void/ \u2014\
+    \ audit it thoroughly: (1) verify its empirical and scholarly claims and citations\
+    \ against primary sources, flagging misattributed, outdated, or fabricated references;\
+    \ (2) test whether its central claims are coherent and whether the \"void\" framing\
+    \ is earned rather than decorative; (3) assess integration with the site\u2019\
+    s tenets, positions register, and neighbouring articles \u2014 does it overclaim\
+    \ or underclaim relative to what the site elsewhere disclaims? (4) identify significant\
+    \ recent literature it misses. Recent site changes are logged at https://unfinishablemap.org/workflow/changelog/\
+    \ \u2014 consult the live pages directly, since search indexes may lag 24-48 hours\
+    \ behind. End your report with a list of concrete potential improvements to specific\
+    \ articles and to the site\u2019s methodology."
+  subject_type: recent
+  subject_title: Audit conceptual-metabolism-void
+  subject_articles:
+  - voids/conceptual-metabolism-void.md
+  subject_source: reuse:pending-reviews:outer-review-2026-09-03-chatgpt-5-6-sol-pro.md
