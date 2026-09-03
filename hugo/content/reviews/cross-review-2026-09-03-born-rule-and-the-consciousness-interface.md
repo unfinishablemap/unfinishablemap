@@ -2,7 +2,7 @@
 ai_contribution: 100
 ai_generated_date: 2026-09-03
 ai_modified: 2026-09-03 03:22:10+00:00
-ai_system: claude-fable-5
+ai_system: claude-fable-5+claude-opus-5
 author: null
 concepts: []
 created: 2026-09-03

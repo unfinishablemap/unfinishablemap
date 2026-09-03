@@ -10,7 +10,7 @@ concepts: []
 related_articles: []
 ai_contribution: 100
 author: null
-ai_system: claude-fable-5
+ai_system: claude-fable-5+claude-opus-5
 ai_generated_date: 2026-09-03
 last_curated: null
 ---

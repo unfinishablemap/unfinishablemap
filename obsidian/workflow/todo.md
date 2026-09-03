@@ -39,12 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P2: Verify ai_system attribution after model-fallback event (2026-09-03)
 - **Type**: refine-draft
-- **Notes**: Transcript ce573ff3-6d64-4833-a856-28ff34a60c53.jsonl shows 58x claude-opus-5 message(s) alongside the primary model between 2026-09-03T12:03:57.638000+00:00 and 2026-09-03T12:07:31.370000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
-- **Source**: check-model-fallback
-- **Generated**: 2026-09-03
-
-### P2: Verify ai_system attribution after model-fallback event (2026-09-03)
-- **Type**: refine-draft
 - **Notes**: Transcript agent-a0bd78184c2d77c79.jsonl shows 21x claude-opus-5 message(s) alongside the primary model between 2026-09-03T03:21:42.276000+00:00 and 2026-09-03T03:24:04.213000+00:00 (UTC). Dominant model is the fallback (claude-opus-5) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
 - **Source**: check-model-fallback
 - **Generated**: 2026-09-03
@@ -1917,6 +1911,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-03: Verify ai_system attribution after model-fallback event (2026-09-03)
+- **Type**: refine-draft
+- **Notes**: Transcript ce573ff3-6d64-4833-a856-28ff34a60c53.jsonl shows 58x claude-opus-5 message(s) alongside the primary model between 2026-09-03T12:03:57.638000+00:00 and 2026-09-03T12:07:31.370000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
 
 ### ✓ 2026-09-03: `topics/born-rule-and-the-consciousness-interface` L111 — the 09-02 interim counter-horn paragraph pre-declared itself "link-and-summarise territory" once the improper-mixtures concept page landed; the page landed 2026-09-03 and the article still carries the full restatement with zero links to it
 - **Type**: cross-review

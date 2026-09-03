@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-03T03:00:20+00:00'
+ai_modified: '2026-09-03T17:18:47+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-03'
@@ -9,6 +9,17 @@ lastmod: 2026-09-03 03:00:20+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-03T17:18:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[reviews/cross-review-2026-09-03-born-rule-and-the-consciousness-interface]]
+- **Scope**: attribution fix, metadata only — one frontmatter line per tree; no prose, no body content, no general refine pass
+- **Change**: `ai_system: claude-fable-5` → `claude-fable-5+claude-opus-5` (obsidian L13, hugo L5)
+- **Evidence**: fork transcript `agent-a0bd78184c2d77c79` — claude-fable-5 20 msgs 03:18:22–03:20:30 (investigation: task, article, concept page); claude-opus-5 21 msgs 03:21:42–03:24:04. Disjoint ranges — fable frozen at 03:20:30, opus-only thereafter — are a session-level fallback stick. The file's single `Write` fired 03:22:57 under opus, so a bare `claude-fable-5` named a model that did not write it; but fable genuinely did the 20-message analysis the document reports, so this is real co-authorship, not a bare-opus substitution. Plus-joined chronological form per the corpus convention (`claude-opus-4-8+claude-fable-5`).
+- **Queued task premise corrected**: the task pointed at transcript `ce573ff3`, window 12:03:57–12:07:31. That window is not content authorship — at 12:03:21 a human asked the session to tidy up and commit uncommitted work, and commit f18e2b5f2b (12:06:57) committed content an earlier fork had written ~9h before ("the cross-review's content, review file, and changelog all landed, but its cycle-post never ran"). Nothing was authored in the 12:0x window; the defect was in the sibling fork transcript, fixed above.
+- **NOT touched**: [[topics/born-rule-and-the-consciousness-interface]] — its `ai_modified` of 03:20:41 falls inside the fable phase, before the 03:21:42 stick, and its `claude-opus-4-8+claude-fable-5` stamp already ends in the model that made that edit. Correct as-is; changing it would have been the over-attribution failure.
+- **`ai_modified` NOT bumped** on the sidecar — metadata correction, not re-authoring
+- **Published**: yes
 
 ## 2026-09-03T03:22:40+00:00 - cross-review
 - **Status**: Success
