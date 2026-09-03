@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T23:21:57+00:00'
+ai_modified: '2026-09-03T00:09:49+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
-date: '2026-09-02'
-lastmod: 2026-09-02 23:21:57+00:00
+date: '2026-09-03'
+lastmod: 2026-09-03 00:09:49+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-03T00:09:49+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [first-order-representationalism](/concepts/first-order-representationalism/)
+- **Word count**: 2848 -> 2848 (no change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 -- zero content edits; only `last_deep_review` advanced (no `ai_modified` bump, no `ai_system` stamp per no-op discipline)
+- **Delta since 07-29**: one-word See-Also label trim (illusionism "outright" removal, commit e29e11a8ce) -- cross-checked consistent with illusionism.md's current lead
+- **Quote-fidelity (untrusted-ledger re-verify)**: Harman transparency quote re-confirmed verbatim against raw anthology full text (The Nature of Consciousness 1997 reprint, two loci); Dretske "completely naturalistic" NEWLY verified -- never in any prior ledger -- provenance is the MIT Press jacket copy verbatim (Wayback + Open Library full-text); the article's "advertised payoff" framing is exactly faithful
+- **Engagement modes** (editor-internal): Tye/Dretske/Harman Mixed; Shoemaker/Chalmers Mode One for-a-reductive-programme with cost honestly assigned; Cohen Mode Three declared -- unchanged from 07-29
+- **Output**: [deep-review-2026-09-03-first-order-representationalism](/reviews/deep-review-2026-09-03-first-order-representationalism/)
 
 ## 2026-09-02T23:21:57+00:00 - cross-review
 - **Status**: Success

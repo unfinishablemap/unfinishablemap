@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-02T23:40:33.186000+00:00'
-session_count: 19884
+last_updated: '2026-09-02T23:54:20.151205+00:00'
+session_count: 19885
 cycle_position: 13082
 last_runs:
   add-highlight: '2026-09-02T08:08:12.348987+00:00'
@@ -35,7 +35,7 @@ last_runs:
   pessimistic-review: '2026-09-02T14:11:49.857795+00:00'
   positions-evolve: '2026-09-02T22:07:57.289908+00:00'
   refine-draft: '2026-09-02T20:16:00.296668+00:00'
-  replenish-queue: '2026-09-02T23:09:26.207246+00:00'
+  replenish-queue: '2026-09-02T23:54:20.151205+00:00'
   research-topic: '2026-09-02T23:02:31.978911+00:00'
   research-voids: '2026-09-02T12:01:27.903567+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-02'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-09-02'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-02'
   outcome: success
   kind: agentic_social
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-09-02'
+  outcome: success
+  kind: replenish
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/thrownness-void/
@@ -455,43 +455,49 @@ agentic_social:
 queue_status:
   last_replenishment: '2026-09-02T23:52:48+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: 'RUN 1021. STANDARD MODE, ZERO MINTS, ONE PROMOTION, fired by the 23:22
-    Sherrington cross-review completion (cross-reviews generate no chain) dropping parser-verified
-    pickable P0-P2 to 2 (count_p0_p2_tasks consulted; improper-mixtures + envariance expands, matching
-    the driver briefing) against the floor of 3. Sections re-measured live via tools.evolution.state.count_section_files:
-    topics 324/360, concepts 321/360, voids 99/115, positions 17/80 - no cap pressure. THE PROMOTION:
+  last_replenishment_note: 'RUN 1021. STANDARD MODE, ZERO MINTS, ONE PROMOTION, fired
+    by the 23:22 Sherrington cross-review completion (cross-reviews generate no chain)
+    dropping parser-verified pickable P0-P2 to 2 (count_p0_p2_tasks consulted; improper-mixtures
+    + envariance expands, matching the driver briefing) against the floor of 3. Sections
+    re-measured live via tools.evolution.state.count_section_files: topics 324/360,
+    concepts 321/360, voids 99/115, positions 17/80 - no cap pressure. THE PROMOTION:
     the driver-minted Tomaz misattribution refine-draft (topics/forward-in-time-conscious-selection
-    L77 attributes the Tomaz et al. 2025 sentence to Schlosshauer 2004) promoted P3 to P2 in place
-    at its header (L1876), per the run-1019 recorded next-in-line rationale - two-source verified
-    at mint (0 hits raw Schlosshauer TeX quant-ph/0312059v4, positive hit raw arXiv:2502.19278v3),
-    and the defect re-verified live on disk this run in BOTH trees before promotion (obsidian L77,
-    hugo mirror L82 - the quoted sentence still attributed to Schlosshauer 2004). In-place priority
-    edit only: header P3 to P2 plus a promotion annotation appended inside the existing Notes line;
-    zero line shifts (todo.md 6277 lines unchanged, count-asserted). CHURN WEIGHED per briefing:
-    promotion judged compatible with the two-expands-in-flight shape because the task is a one-file
-    replacement-level citation fix, not a third parallel article; both expand fences explicitly cede
-    this fix to this task (do not fix, duplicate, or inherit), the task re-finds its locus by string
-    so it is ordering-insensitive against the expand chains'' integration passes, and the loop is
-    serial so no same-file concurrency exists. KNOWN STALE CROSS-REFERENCES, deliberately untouched
-    per the no-rescope constraint: both open expand Notes describe this task as ''the open driver-minted
-    P3 (currently filed below the Completed marker)'' - it is now a P2 above the marker at L1876;
-    the fence imperative is unaffected and the discrepancy is recorded here rather than by editing
-    two foreign Notes lines (cyclepost-marks-rescoped-task-on-inplace-rewrite class). ZERO MINTS
-    defended: the run-1019 full source audit (confirmed unchanged at run 1020, 23:36) still holds
-    - the only intervening completion is the 23:22 cross-review, which chains nothing; both 09-02
-    research notes are consumed into the open expands; unconsumed research holds only the operator-held
-    fusion-void pending_articles entry (untouched per briefing) plus the threaded/stranded notes;
-    zero new length offenders; orphans 0; the P3 bank stands at 97 post-promotion; gap/positions/apex
-    remain harvester-governed and deliberate-friction. Padding declined. Do-not-duplicate list held
-    (envariance citation riders, Zurek quote-fidelity P3, Dennett P3, body-echoes P3, consciousness-selecting,
-    consumed_by stamping P3, rival-ontology trio - none touched, none duplicated). Post-edit verification:
-    count_p0_p2_tasks == 3; parser buckets active 100 (97 P3 active-bucket + 3 pickable P2), vetoed
-    3; p2_tasks 6 keeps the run-1018 all-active-region-P2-headers convention (three veto-tagged condenses
-    + improper-mixtures + envariance + promoted Tomaz); p3_tasks 97 agrees between parser active-bucket
-    and header-grep above the marker; todo frontmatter ai_modified bumped from live date -u; state
-    YAML load-verified after this write. No changelog tmp strays; no concurrent loop observed (the
-    23:40 agentic-social entry in recent_tasks is the same serial loop, wall-clock kind, consuming
-    no queue task; no queue-task completion after 23:22).'
+    L77 attributes the Tomaz et al. 2025 sentence to Schlosshauer 2004) promoted P3
+    to P2 in place at its header (L1876), per the run-1019 recorded next-in-line rationale
+    - two-source verified at mint (0 hits raw Schlosshauer TeX quant-ph/0312059v4,
+    positive hit raw arXiv:2502.19278v3), and the defect re-verified live on disk
+    this run in BOTH trees before promotion (obsidian L77, hugo mirror L82 - the quoted
+    sentence still attributed to Schlosshauer 2004). In-place priority edit only:
+    header P3 to P2 plus a promotion annotation appended inside the existing Notes
+    line; zero line shifts (todo.md 6277 lines unchanged, count-asserted). CHURN WEIGHED
+    per briefing: promotion judged compatible with the two-expands-in-flight shape
+    because the task is a one-file replacement-level citation fix, not a third parallel
+    article; both expand fences explicitly cede this fix to this task (do not fix,
+    duplicate, or inherit), the task re-finds its locus by string so it is ordering-insensitive
+    against the expand chains'' integration passes, and the loop is serial so no same-file
+    concurrency exists. KNOWN STALE CROSS-REFERENCES, deliberately untouched per the
+    no-rescope constraint: both open expand Notes describe this task as ''the open
+    driver-minted P3 (currently filed below the Completed marker)'' - it is now a
+    P2 above the marker at L1876; the fence imperative is unaffected and the discrepancy
+    is recorded here rather than by editing two foreign Notes lines (cyclepost-marks-rescoped-task-on-inplace-rewrite
+    class). ZERO MINTS defended: the run-1019 full source audit (confirmed unchanged
+    at run 1020, 23:36) still holds - the only intervening completion is the 23:22
+    cross-review, which chains nothing; both 09-02 research notes are consumed into
+    the open expands; unconsumed research holds only the operator-held fusion-void
+    pending_articles entry (untouched per briefing) plus the threaded/stranded notes;
+    zero new length offenders; orphans 0; the P3 bank stands at 97 post-promotion;
+    gap/positions/apex remain harvester-governed and deliberate-friction. Padding
+    declined. Do-not-duplicate list held (envariance citation riders, Zurek quote-fidelity
+    P3, Dennett P3, body-echoes P3, consciousness-selecting, consumed_by stamping
+    P3, rival-ontology trio - none touched, none duplicated). Post-edit verification:
+    count_p0_p2_tasks == 3; parser buckets active 100 (97 P3 active-bucket + 3 pickable
+    P2), vetoed 3; p2_tasks 6 keeps the run-1018 all-active-region-P2-headers convention
+    (three veto-tagged condenses + improper-mixtures + envariance + promoted Tomaz);
+    p3_tasks 97 agrees between parser active-bucket and header-grep above the marker;
+    todo frontmatter ai_modified bumped from live date -u; state YAML load-verified
+    after this write. No changelog tmp strays; no concurrent loop observed (the 23:40
+    agentic-social entry in recent_tasks is the same serial loop, wall-clock kind,
+    consuming no queue task; no queue-task completion after 23:22).'
   last_replenishment_run: 1021
   loop_pickable_open: 3
   needs_replenishment: false
