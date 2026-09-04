@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-08-20 00:31:00+00:00
+ai_modified: 2026-09-04 19:42:13+00:00
 ai_system: claude-sonnet-4-6+claude-opus-5+claude-fable-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 08:44:03+00:00
-lastmod: 2026-08-20 00:31:00+00:00
+lastmod: 2026-09-04 19:42:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -45,7 +45,7 @@ Einstein's 1935 EPR challenge targeted bijective completeness: if a particle has
 
 ## What the No-Go Theorems Close Off {#no-go-theorems}
 
-A sequence of mathematical results from the 1960s through the 2010s progressively constrained what "completing" quantum mechanics could mean. Together they establish that QM is not an approximation awaiting deeper physics. Any deeper physics would face the same problems.
+A sequence of mathematical results from the 1960s through the 2010s progressively constrained what "completing" quantum mechanics could mean. Their reach is specific: they close off *local* hidden variables, *non-contextual* value assignments, and ψ-epistemic models under an independence assumption. A nonlocal, contextual, ψ-ontic completion survives all four — de Broglie–Bohm is exactly that. Quantum mechanics is therefore not an approximation awaiting deeper physics of the familiar kind; any deeper physics must be strange in each of these ways.
 
 **Bell's theorem (1964)** showed that no local hidden-variable theory can reproduce all quantum predictions. If a particle had pre-existing definite values for all observables, and if those values were governed by a local mechanism, the resulting statistics would satisfy Bell's inequalities. Experiments—culminating in loophole-free tests from 2015 onward—violate those inequalities. Local hidden variables are not available.
 
@@ -55,11 +55,11 @@ A sequence of mathematical results from the 1960s through the 2010s progressivel
 
 **The PBR theorem (2012)** of Pusey, Barrett, and Rudolph closed the epistemic escape. Perhaps the wavefunction is not a description of physical reality but merely a bookkeeping device for an observer's knowledge—and the real ontic states lie elsewhere. PBR established that, given a natural independence assumption for separately prepared systems, distinct quantum states must correspond to non-overlapping probability distributions over underlying ontic states. Under that assumption, the wavefunction is not a summary of ignorance about a deeper reality; it is part of the ontic furniture of the world. (The independence assumption itself remains debated—notably by Emerson, Serbin, Sutherland, and Veitch (2013)—but no convincing ψ-epistemic model has survived it.)
 
-After Bell, Hardy, Kochen-Specker, and PBR: quantum mechanics is not an incomplete sketch of a deeper local, deterministic, or epistemic physics. It is a genuine and exhaustive description of physical structure. Nothing is missing from the physics.
+After Bell, Hardy, Kochen-Specker, and PBR: quantum mechanics is not an incomplete sketch of a deeper *local* or *epistemic* physics. Determinism is the exception the theorems leave standing — de Broglie–Bohm restores it nonlocally and contextually, and the Map declines that route on tenet grounds, not on no-go grounds: pilot-wave determinism removes the very indeterminacy the tenets require ([the non-equilibrium extension](/topics/quantum-non-equilibrium-and-the-contingency-of-the-born-rule/) of that programme is registered at [P-Q11](/positions/quantum-interface/#p-q11)). What the theorems settle is that nothing of the local, non-contextual or ψ-epistemic kind is missing: the structural description is exhaustive unless one buys a completion strange in all the ways just named.
 
 ## Where the Gap Lives: Process 1 {#process-1}
 
-Yet something is missing from quantum mechanics. Von Neumann's three-process decomposition identifies exactly where. (For the full treatment of why this gap is philosophically significant, see [the measurement problem](/concepts/measurement-problem/).)
+Yet something is missing from quantum mechanics, and a three-way decomposition of the formalism identifies exactly where. Von Neumann himself distinguished two processes: Process 1, the discontinuous change at measurement, and Process 2, the continuous unitary evolution between measurements. Splitting off the statistical rule governing outcomes as a third process is Stapp's refinement rather than von Neumann's (Stapp 2005); the numbering below follows the three-way version. (For the full treatment of why this gap is philosophically significant, see [the measurement problem](/concepts/measurement-problem/).)
 
 **Process 2** is unitary evolution—the Schrödinger equation governing how quantum states evolve between measurements. Physics determines this completely.
 
@@ -77,9 +77,9 @@ Zurek's *quantum Darwinism* extends the argument. When a quantum system interact
 
 Decoherence and quantum Darwinism are genuine achievements. They explain *which observable* becomes definite (the pointer basis) and *why different observers agree* (redundant environmental encoding). What they do not explain is *which specific outcome* obtains from among the pointer-basis alternatives. After decoherence, the density matrix is diagonal—but diagonal in a basis with multiple entries, each carrying a Born-rule probability. The mathematics describes a classical probability distribution over outcomes. Something must still select one.
 
-This is not a controversial claim within quantum foundations. Zurek himself acknowledges that decoherence does not, by itself, solve the measurement problem (Zurek 2003). Schlosshauer's comprehensive review draws the same line: decoherence achieves the transition from a quantum superposition to a classical *mixture* but not the further transition from mixture to definite outcome (Schlosshauer 2007). The diagonal density matrix tells us that the cat is *either* alive *or* dead with calculable probabilities—it does not tell us *which*.
+That the gap survives is not a controversial reading of the formalism, though whether it counts as a shortfall is contested. Schlosshauer's comprehensive review draws the line: decoherence achieves the transition from a quantum superposition to a classical *mixture* but not the further transition from mixture to definite outcome (Schlosshauer 2007). Zurek does not concede a shortfall here — his 2003 review treats einselection, together with his existential interpretation, as accounting for the perception of a unique outcome, and locates the one major remaining gap in the derivation of the Born rule (Zurek 2003). The Map and Zurek agree about the formalism and part company over whether anything is left to explain. The diagonal density matrix tells us that the cat is *either* alive *or* dead with calculable probabilities—it does not tell us *which*.
 
-The remaining interpretive options at this point are limited. Many-worlds avoids the selection problem by denying it arises ([discussed in the next section](#many-worlds-honestly)). Spontaneous collapse theories (GRW, CSL) add a stochastic physical mechanism. Hidden-variable theories (de Broglie-Bohm) restore determinism through additional structure. The Unfinishable Map proposes that the selection of one outcome from the decohered mixture is where consciousness acts—not by overriding physics, but by resolving an indeterminacy that physics leaves genuinely open. This proposal is empirically unfalsifiable: consciousness-selection within Born probabilities produces the same statistics as random collapse. The Map treats this as a philosophical framework compatible with physics, not a competing physical hypothesis.
+The remaining interpretive options at this point are limited. Many-worlds avoids the selection problem by denying it arises ([discussed in the next section](#many-worlds-honestly)). Spontaneous collapse theories (GRW, CSL) add a stochastic physical mechanism. Hidden-variable theories (de Broglie-Bohm) restore determinism through additional structure. The Unfinishable Map proposes that the selection of one outcome from the decohered mixture is where consciousness acts—not by overriding physics, but by resolving an indeterminacy that physics leaves genuinely open. The proposal is *empirically indistinguishable from chance* under any *unconditioned aggregate* test current or foreseeable instruments could run — consciousness-selection within Born probabilities reproduces the statistics of random collapse — though a deviation *conditioned* on intention, task or subject remains live ([P-Q3](/positions/quantum-interface/#mechanism-debt)). That silence is local to the aggregate-statistics channel and is not a global unfalsifiability shield: positive residue remains on the mechanism and psychophysical channels ([P-Q9](/positions/quantum-interface/#p-q9)).
 
 ## Many-Worlds, Honestly {#many-worlds-honestly}
 
@@ -103,7 +103,7 @@ QBism correctly identifies that quantum mechanics cannot be understood without r
 
 The "partial but complete" framing integrates directly with all five of the Map's tenets.
 
-The **Dualism** tenet holds that consciousness is not reducible to physical processes. Quantum completeness supports this: if physics is genuinely exhaustive within its domain and yet the selection of actual outcomes exceeds that domain, then something non-physical is required. Barrett's (2006) argument that the measurement problem structurally favours dualism provides independent philosophical support.
+The **Dualism** tenet holds that consciousness is not reducible to physical processes. Quantum completeness leaves room for this rather than compelling it: if physics is genuinely exhaustive within its domain and yet the selection of actual outcomes exceeds that domain, a non-physical selector is consistent with the gap — but the physical fillings canvassed [above](#decoherence-objection), GRW/CSL collapse and de Broglie–Bohm hidden variables, remain live, so what the argument delivers is room, not requirement. Barrett's (2006) argument that the measurement problem structurally favours dualism is likewise a favouring argument rather than a proof.
 
 The **Minimal Quantum Interaction** tenet holds that consciousness acts at the quantum level, biasing indeterminate outcomes [without injecting energy or violating conservation laws](/concepts/conservation-laws-and-mental-causation/). Quantum completeness specifies where this interaction occurs: at Process 1, and specifically at its outcome-selection element—which answer obtains, not merely which question is posed. Physics determines Processes 2 and 3. Stapp's quantum interactive dualism (2005) formalises the narrower reading using orthodox von Neumann quantum mechanics, locating conscious choice in the question-selection step and leaving the answer to nature; the Map acknowledges that placement but does not adopt it, since selecting only the question would weaken outcome-selection to context-setting ([Bidirectional Interaction](/tenets/#bidirectional-interaction)).
 
