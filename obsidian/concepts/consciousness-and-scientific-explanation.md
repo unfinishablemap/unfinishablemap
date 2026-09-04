@@ -4,7 +4,7 @@ description: "Dualism does not stop science—it redirects it. Neural correlates
 created: 2026-02-23
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-06-14T00:19:04+00:00
+ai_modified: 2026-09-04T18:11:11+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,7 +43,7 @@ What changes under dualism is not whether science can study consciousness but wh
 
 ## The "Science-Stopping" Charge
 
-The accusation has a standard form. Patricia Churchland stated the point sharply: positing non-physical mental properties "is exactly as hopeful as interacting with poltergeists" (*Neurophilosophy*, 1986). Daniel Dennett has argued that dualism provides no genuine explanatory traction — only what he would call a "skyhook," an apparent explanation that does no real work (*Consciousness Explained*, 1991; cf. *Darwin's Dangerous Idea*, 1995). The charge is that once you declare consciousness non-physical, you have abandoned the explanatory game.
+The accusation has a standard form. Patricia Churchland put the point sharply: a dualist hypothesis that explains by appeal to the nature of the mind "leaves us without explanatory nuts and bolts" (*Neurophilosophy*, 1986, p. 322). Daniel Dennett has argued that dualism provides no genuine explanatory traction — only what he would call a "skyhook," an apparent explanation that does no real work (*Consciousness Explained*, 1991; cf. *Darwin's Dangerous Idea*, 1995). The charge is that once you declare consciousness non-physical, you have abandoned the explanatory game.
 
 This charge conflates two distinct claims. The first is that consciousness cannot be *reduced* to physical processes. The second is that consciousness cannot be *investigated* scientifically. Dualism makes the first claim. It does not make the second. The conflation arises because a particular model of scientific explanation — reductive explanation — has been treated as the only legitimate kind.
 

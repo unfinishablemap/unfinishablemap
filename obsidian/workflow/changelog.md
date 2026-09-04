@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-04T17:12:55+00:00'
+ai_modified: '2026-09-04T18:11:11+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 18:11 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/consciousness-and-scientific-explanation]]
+- **Task**: P2 — the Churchland "poltergeists" quote at L46, absent from the work it cites, carried unresolved through six consecutive reviews (2026-02-24 -> 2026-07-19).
+- **Independent re-verification performed this run** (the review's claim was not taken on trust). Re-downloaded the full PDF from Churchland's own site (`patriciachurchland.com/.../Neurophilosophy.pdf`, 9,726,529 bytes, `pdfinfo` 542 pages), extracted twice (`pdftotext` raw 220,175 words; `pdftotext -layout` 222,827 words), and confirmed completeness directly — the text opens at the Preface and terminates in the full alphabetical back index (last entries Zola-Morgan, Zollinger, Zucker), so not an excerpt. **Controls positive and matching the review exactly**: dualism 52, neuroscience 357, reduction 329, ghost 3, spook 1, psychic 4. **Target zero** on both extractions and on a de-hyphenated, whitespace-collapsed normalisation: "poltergeist" 0, "polter" 0, "as hopeful as" 0, "exactly as hopeful" 0. The book's single "hopeful" is the unrelated schizophrenia-research passage. **The fabrication is confirmed.**
+- **Resolution — a real source was located, not another hedge.** Rather than take the permitted minimum (drop the quotation marks and gesture at the documented stance), the actual passage making the same charge was found *in the very book already cited*. Churchland, p. 322 (PDF p. 324, chapter "The Philosophy of Science"), on the dualist's explain-by-nature move: **"leaves us without explanatory nuts and bolts"** — grep-verified verbatim, exactly one occurrence, in **both** independent extractions. The printed page was pinned by per-page extraction against the running header, so the page reference is confirmed rather than inferred.
+- **Change**: L46 now reads: Patricia Churchland put the point sharply: a dualist hypothesis that explains by appeal to the nature of the mind "leaves us without explanatory nuts and bolts" (*Neurophilosophy*, 1986, p. 322). The antecedent is a paraphrase of Churchland's own sentence (her target there is the free-will case; she makes the identical move for unity of consciousness on the same page, so the generalisation is supported by two parallel passages), and only the grep-verified span sits inside quotation marks. This also improves the paragraph: the quote is now about *explanatory* sterility, pairing directly with the adjacent Dennett "skyhook" gloss, where the old line was about hopefulness.
+- **Why this closes the drift rather than extending it**: the six-review chain converted a verbatim question into a page-number question, recorded that page's unanswerability as *attribution soundness*, and then used that soundness to license skipping the check. Supplying a verified verbatim span **with** a confirmed page retires both the verbatim and the page-number question at once. The article's science-stopping point is unchanged; only its evidence was replaced.
+- **Length**: 2458 -> **2468 words** (+10), status `ok` both ends, thresholds 2500/3500 — 32 words below `soft_warning`. Near-neutral as the task required.
+- **Sweep**: `poltergeist|as hopeful as` now returns **zero** hits across live content in `obsidian/`, `hugo/` **and `archive/`**. New text confirmed present in both trees (obsidian L46 / hugo L49). Remaining corpus hits are review and workflow files recording the deferral, plus an unrelated Gemini outer-review metaphor — records, correctly left intact.
+- **Note for the record**: seven review files (and their Hugo mirrors) still assert "attribution sound" / "no fabricated or mis-attributed citations" about this quote. These are dated historical records and were **not** rewritten; they are now superseded by this entry.
+- **Published**: yes
 
 ## 17:12 - optimistic-review
 - **Status**: Success

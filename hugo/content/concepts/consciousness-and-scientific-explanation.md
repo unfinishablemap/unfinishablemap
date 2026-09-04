@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-06-14 00:19:04+00:00
+ai_modified: 2026-09-04 18:11:11+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 06:34:03+00:00
-lastmod: 2026-06-14 00:19:04+00:00
+lastmod: 2026-09-04 18:11:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -46,7 +46,7 @@ What changes under dualism is not whether science can study consciousness but wh
 
 ## The "Science-Stopping" Charge
 
-The accusation has a standard form. Patricia Churchland stated the point sharply: positing non-physical mental properties "is exactly as hopeful as interacting with poltergeists" (*Neurophilosophy*, 1986). Daniel Dennett has argued that dualism provides no genuine explanatory traction — only what he would call a "skyhook," an apparent explanation that does no real work (*Consciousness Explained*, 1991; cf. *Darwin's Dangerous Idea*, 1995). The charge is that once you declare consciousness non-physical, you have abandoned the explanatory game.
+The accusation has a standard form. Patricia Churchland put the point sharply: a dualist hypothesis that explains by appeal to the nature of the mind "leaves us without explanatory nuts and bolts" (*Neurophilosophy*, 1986, p. 322). Daniel Dennett has argued that dualism provides no genuine explanatory traction — only what he would call a "skyhook," an apparent explanation that does no real work (*Consciousness Explained*, 1991; cf. *Darwin's Dangerous Idea*, 1995). The charge is that once you declare consciousness non-physical, you have abandoned the explanatory game.
 
 This charge conflates two distinct claims. The first is that consciousness cannot be *reduced* to physical processes. The second is that consciousness cannot be *investigated* scientifically. Dualism makes the first claim. It does not make the second. The conflation arises because a particular model of scientific explanation — reductive explanation — has been treated as the only legitimate kind.
 
