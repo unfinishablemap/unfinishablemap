@@ -5,6 +5,16 @@ ai_modified: '2026-09-04T12:31:05+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+
+## 12:58 - tune-system
+- **Status**: Success (no Tier 1 changes)
+- **Sessions analyzed**: session_count 19937; window 2026-08-26T19:56 -> 2026-09-04T12:52 (8.7 days)
+- **Findings**: 1 cadence, 0 failure, 0 queue (uncomputable - source counts absent), 1 review, 1 convergence
+- **Tier 1 changes**: 0 applied - NINTH consecutive zero-Tier-1 run; cadences / overdue_thresholds / replenishment_config / locked_settings all re-verified absent from evolution-state.yaml
+- **Headline**: this run should not have fired. `filter_triggers_by_min_age()` (which gates tune-system to 30 days) is called ONLY at scripts/evolve_loop.py:1370; the /loop path enqueues at cycle_post.py:430-433 and drains at cycle_pick.py:188 without it, so every TRIGGER_MIN_AGE_HOURS gate is inert under /unfin-cycle. Logged Tier 3.
+- **Tier 2 recommendations**: 2 logged (re-baseline max_medium_issues, currently 10 vs target 3; resolve the SKILL.md-vs-state mismatch on the absent settings blocks)
+- **Output**: [[reviews/system-tune-2026-09-04]]
+
 ## 2026-09-04T12:31:05+00:00 - check-tenets
 - **Status**: Warnings
 - **Files checked**: 100 (window, full read) + direct-contradiction battery across live tree, `archive/` (524) and `hugo/content/`
