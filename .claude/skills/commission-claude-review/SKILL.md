@@ -93,13 +93,25 @@ If logged out, **emit literal line** `LOGIN_REQUIRED: claude session expired` an
 
 ## Step 3: Enable Research mode
 
-The composer area has a `+` icon button with `aria-label="Add files, connectors, and more"`. Click it (use the `find` tool with query `"Add files, connectors, and more button (the + icon under the prompt composer)"`). A menu opens.
+The composer area has a `+` icon button with `aria-label="Add files, connectors, and more"`.
+Click it. **Prefer a coordinate click over the `find` tool here** — observed 2026-09-04, a
+`find`-driven click surfaced only the tooltip and did not open the menu; a coordinate click
+on the `+` did.
 
-Inside the menu:
-- `[role="menuitemcheckbox"]` text "Research" — `aria-checked="false"` by default. **Click to enable.**
-- `[role="menuitemcheckbox"]` text "Web search" — `aria-checked="true"` by default. **Leave alone.**
+Inside the menu, the entries read "Research" (off by default — **click to enable**) and
+"Web search" (on by default — **leave alone**).
 
-Verify after clicking: the menu closes and a new button with `aria-label="Research mode"` (or similar) appears in the composer area. If the verification fails, **bail before submitting** — take a screenshot and dump the menu DOM to `tmp/commission-claude-failure-<timestamp>.txt`.
+> **Do NOT verify the menu through the DOM.** Observed 2026-09-04: the current composer menu
+> exposes **no `role="menuitemcheckbox"` nodes at all**, and `document.querySelectorAll('[role="menu"]').length`
+> reads `0` while the menu is plainly open on screen. A DOM query for menu roles returns `[]`,
+> so the old check produces a false "menu didn't open" bail on a perfectly healthy run.
+> Confirm the menu is open **by screenshot**, and confirm the *result* by the composer
+> button's `aria-label="Research mode"` / `aria-pressed="true"` — that pair is the reliable
+> post-click signal and is what Step 3 should gate on.
+
+Verify after clicking: a button with `aria-label="Research mode"` appears in the composer area
+with `aria-pressed="true"`. If **that** verification fails, **bail before submitting** — take a
+screenshot and dump the composer DOM to `tmp/commission-claude-failure-<timestamp>.txt`.
 
 Verify the model selector still names an acceptable reviewer model — check `model_text` (the selector text captured in Step 2):
 
@@ -234,7 +246,7 @@ Total runtime budget: 5 minutes.
 | Failure cooldown | `find_recent_failed("claude", now, 1)` returns entry | Silent skip. |
 | Chrome MCP unavailable | tool call raises / "extension is not connected" | Emit `CHROME_UNAVAILABLE: claude commission` and skip; no crash, no pending entry. |
 | Login expired | composer absent OR URL redirected | Emit `LOGIN_REQUIRED: claude session expired` and stop. |
-| Research checkbox missing | menu doesn't contain it | Bail before submitting; screenshot + DOM dump. |
+| Research mode won't enable | after clicking Research, the composer has no `aria-label="Research mode"` button with `aria-pressed="true"` | Bail before submitting; screenshot + composer DOM dump. Do NOT bail on an empty `[role=menu]` / missing `menuitemcheckbox` query — those read empty on a healthy open menu (2026-09-04). |
 | No acceptable model | selector names neither "Fable" nor "Opus" (e.g. Sonnet/Haiku only) | Bail; too light for an outer review. A Fable→Opus fallback is acceptable and proceeds. |
 | Submission silent failure | no `/chat/<uuid>` URL after 10s | Bail; do not write pending entry. |
 | Ambiguous post-submit state | no stopBtn AND no artifact AND no research panel after 30s | Bail; operator inspects. |
