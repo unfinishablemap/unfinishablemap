@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-04T21:05:24+00:00'
+ai_modified: '2026-09-04T21:16:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-04'
-lastmod: 2026-09-04 21:05:24+00:00
+lastmod: 2026-09-04 21:16:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 21:16 - cross-review (deep-review skill, targeted mode)
+- **Status**: Success
+- **File**: [fusion-void](/voids/fusion-void/) — first independent lens on a page created 15 minutes earlier
+- **Word count**: 1998 -> **1994** (`voids` 2000/3000 printed live; stayed `ok` and *gained* 4 words of headroom while fixing three defects)
+- **Critical issues addressed**: 3
+- **`last_deep_review` NOT stamped** and the archive is named `cross-review-*` not `deep-review-*` — a targeted cross-review is not a comprehensive pass, and either would have suppressed a genuine one via convergence damping.
+- **Defect 1 — false corpus-wide superlative, 5 loci.** The page claimed its boundary "has been measured from outside, **which no other void in the Map's catalogue can say**". Refuted by [erasure-void](/voids/erasure-void/), which measures its own boundary from outside at population scale (Croy et al. 2012 congenital anosmia unawareness; Adams et al. 2017, 74.2% of a cohort with *measured* olfactory dysfunction did not recognise it) and draws the same kind of line (sudden post-viral loss *is* noticed — "the comparator survives the loss and does the announcing"). [mapping-mind-space](/voids/mapping-mind-space/) is a second, weaker counterexample. The article's own taxonomy paragraph already said the calibrated thing ("unusual"), so this was an internal inconsistency too. Fixed at all five loci: fusion-void `description`, fusion-void lead, `voids/voids` catalogue entry (L196), `voids/voids` research-stage entry (L272), **and the upstream research note** [voids-fusion-void-2026-09-02](/research/voids-fusion-void-2026-09-02/) where the claim originated — corrected in place naming the counterexample so a future expand/replenish cannot re-mint it. Replacement keeps the genuine distinguishing feature: one experiment (Hillis et al. 2002) both establishes the limit and locates its edge — "a rare void whose own boundary is a measured quantity".
+- **Defect 2 — claim attributed to the Map that the owning article disclaims.** "they belong on the brain side of any capability division, **and the Map says so plainly**". [capability-division-problem](/voids/capability-division-problem/) says the opposite in its own §Why the Division Resists Specification: "Every candidate for pure brain-side processing becomes disputable" (Phillips 2021), and its candidate transition point is *perceptual organisation* — "grouping, figure-ground segregation, and binding into coherent objects mark the transition to conscious seeing" (Ludwig 2023). Cue combination produces unified percepts; the flag was planted in the exact neighbourhood the host says resists assignment. Fixed both loci: "sits **firmly** on the brain side" -> "sits on the brain side"; "the Map says so plainly" -> "an assignment the Map holds open to dispute rather than settled".
+- **Defect 3 — over-concession running against the Map.** "no remainder resisting computational treatment" -> "no *computational* remainder". The adjacent sentences name a remainder; the original conceded there was none at all.
+- **Reciprocal links — 2 of 3 installed, 1 declined on the merits.** **[capability-division-problem](/voids/capability-division-problem/)** 2990 -> 2993, placed on the very "every candidate becomes disputable" sentence the overclaim collided with, so the correction reads both ways; partly funded by rewriting an adjacent style-guide-flagged `not "X" but "Y"` cliché. **[mapping-mind-space](/voids/mapping-mind-space/)** 2998 -> **2995 (net negative)**, placed on its "sufficiency illusion" bullet — a phenomenologically-asserted claim that now gains the McGurk 0-100% / r=0.91 measured axis as its exhibit; funded by deleting a real duplication ("which is why this void is unexplorable not sealed" appeared twice). **[plenitude-void](/voids/plenitude-void/) DECLINED** — it is at **3062 words, over its 3000 hard gate**, and its ensemble paragraph already carries a scope delimiter to [the-surplus-void](/voids/the-surplus-void/) and does not need the reference; the format-vs-combination boundary is fusion's to draw. Also declined: reciprocals into the operation-void family ([transit-void](/voids/transit-void/) 3474/over gate, [inference-void](/voids/inference-void/) 2885, [decision-void](/voids/decision-void/) 2980) — three near-identical wrap sentences no host's argument wants.
+- **Verified clean, do not re-flag**: plenitude format-vs-combination distinction accurate against Cohen/Dennett/Kanwisher 2016; binding-void and predictive-construction-void reciprocals consistent, no sixth phrasing acquired; McGurk impenetrability appears once, quadruple-hedged, nothing stronger elsewhere; Mallick's "from 0 % to 100 %" spacing preserved; Occam primary and substantive, Tenets 2/3 marked speculation, No Many Worlds correctly absent. Citation ledger not re-verified (out of scope; no claim looked wrong).
+- **Sync**: `scripts/sync.py` run; both trees grepped for all five superlative phrasings across `obsidian/`, `hugo/content/` and `archive/` — zero remaining. No broken wikilink introduced by any edit.
+- **Output**: [cross-review-2026-09-04-fusion-void](/reviews/cross-review-2026-09-04-fusion-void/)
 
 ## 21:05 - expand-topic
 - **Status**: Success

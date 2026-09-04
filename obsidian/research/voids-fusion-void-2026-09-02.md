@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Fusion Void"
 created: 2026-09-02
 modified: 2026-09-02
 human_modified: null
-ai_modified: 2026-09-04T21:04:11+00:00
+ai_modified: 2026-09-04T21:16:00+00:00
 draft: false
 target_section: voids
 topics:
@@ -181,7 +181,7 @@ Two cautions carried over from the similarity void survey: agreement at the verd
 
 ## Potential Article Angles
 
-1. **The three-face structural article** (common-cause / weighting / component), led by the measured-boundary theme: the catalogue's first void whose edge has psychophysical coordinates, with the McGurk trait spread as the mind-space exhibit.
+1. **The three-face structural article** (common-cause / weighting / component), led by the measured-boundary theme: a rare void whose own edge has psychophysical coordinates (the 2026-09-04 cross-review found the "first" framing refuted by [[erasure-void]], whose unawareness rate is also measured from outside), with the McGurk trait spread as the mind-space exhibit.
 2. **The Occam-in-perception treatment** — a section for [[epistemological-limits-occams-razor]]: causal inference in multisensory perception as the razor running sub-personally, its verdicts impenetrable and its parameters invisible.
 3. **The binding-void sharpening** — a shorter piece or fold distinguishing content-combination (charted, computational) from phenomenal unity (the residue), using Deroy et al.'s discrepancy sentence as the seam.
 

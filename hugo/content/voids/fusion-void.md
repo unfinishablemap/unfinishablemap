@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-04
-ai_modified: 2026-09-04 21:01:30+00:00
+ai_modified: 2026-09-04 21:16:00+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
@@ -11,11 +11,11 @@ concepts:
 created: 2026-09-04
 date: &id001 2026-09-04
 description: Perception combines its estimates by hidden weights and a hidden common-cause
-  verdict. The catalogue's first void whose boundary has been psychophysically measured.
+  verdict. The rare void whose own boundary has psychophysical coordinates.
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-04 21:01:30+00:00
+lastmod: 2026-09-04 21:16:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -40,7 +40,7 @@ topics:
 
 Every percept of a single world is the output of a combination step consciousness never witnesses. When the eye and the hand both estimate an object's size, the nervous system weights each estimate by its reliability and delivers only the weighted result. The Unfinishable Map calls the resulting structural opacity the **fusion void**: the component estimates, the weights applied to them, and the prior verdict that the signals shared a cause at all are consumed in producing the percept, and none is recoverable from inside it. The claim concerns an *operation* whose workings are not introspectable, not an absence or thinness in experience — the fused percept is fully present; its manufacture is what does not appear.
 
-Two qualifications belong with that claim rather than after it. First, the void's boundary has been measured from outside, which no other void in the Map's catalogue can say: fusion is mandatory within a single sense and negotiable between senses, and the line between them has psychophysical coordinates (Hillis, Ernst, Banks & Landy, 2002). Second, the combination machinery sits firmly on the brain side of the Map's [capability division problem](/voids/capability-division-problem/) — cue weighting and perceptual causal inference are among the best-modelled operations in perception science. The void *locates* an explanatory residue; it supplies no evidence for any account of one.
+Two qualifications belong with that claim rather than after it. First, the void's boundary is itself a measured quantity, which is rare: fusion is mandatory within a single sense and negotiable between senses, and the line between them has psychophysical coordinates (Hillis, Ernst, Banks & Landy, 2002). Second, the combination machinery sits on the brain side of the Map's [capability division problem](/voids/capability-division-problem/) — cue weighting and perceptual causal inference are among the best-modelled operations in perception science. The void *locates* an explanatory residue; it supplies no evidence for any account of one.
 
 ## The Common-Cause Gate
 
@@ -92,7 +92,7 @@ The [plenitude void](/voids/plenitude-void/)'s ensemble-statistics position conc
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is the tenet this void bears on most directly. The common-cause gate is parsimony implemented: perception continually chooses between a one-cause and a two-cause model of its inputs, and consciousness receives only the world the winning model implies. Where the Map's [parsimony void](/voids/epistemological-limits-occams-razor/) treats the razor as a cognitive bias in theory choice, the fusion void shows the same economy running below theory, inside perception, where its verdicts arrive as finished percepts and its parameters cannot be audited. When the felt singleness of a scene is offered as evidence of anything, the offer should be discounted by the fact that singleness is what the fusion machinery manufactures.
 
-**[Dualism](/tenets/#dualism)** takes a two-sided bearing, and both sides matter. Cue weighting and perceptual causal inference are quantitatively modelled with no remainder resisting computational treatment; they belong on the brain side of any capability division, and the Map says so plainly. Precisely because the combination machinery is so fully charted, the residue stands out. Deroy and colleagues note "the discrepancy between phenomenal experience and multisensory integration as measured at the neural level." Fusion explains how contents get combined; it does not touch why the combined content is *experienced* as one. The fusion void thereby sharpens the binding void by subtraction, removing the computational combination story from the binding question and showing what remains. Calibrated per the Map's [common-cause null](/project/common-cause-null/): this locates the explanatory residue rather than evidencing any account of it, and a physicalist reading of that residue is untouched by anything argued here.
+**[Dualism](/tenets/#dualism)** takes a two-sided bearing, and both sides matter. Cue weighting and perceptual causal inference are quantitatively modelled with no computational remainder, and belong on the brain side of any capability division — an assignment the Map holds open to dispute rather than settled. Precisely because the combination machinery is so fully charted, the residue stands out. Deroy and colleagues note "the discrepancy between phenomenal experience and multisensory integration as measured at the neural level." Fusion explains how contents get combined; it does not touch why the combined content is *experienced* as one. The fusion void thereby sharpens the binding void by subtraction, removing the computational combination story from the binding question and showing what remains. Calibrated per the Map's [common-cause null](/project/common-cause-null/): this locates the explanatory residue rather than evidencing any account of it, and a physicalist reading of that residue is untouched by anything argued here.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** and **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** attract one remark, offered as speculation. If a non-physical influence operates anywhere in the perception-action loop, precision weights are the kind of small, high-leverage parameter the minimality requirement points toward, since a slight shift in weighting propagates into a different perceived world. That is an observation about where leverage would be cheap. No claim is made that any interface operates at this site, and the void supplies no evidence that one does.
 

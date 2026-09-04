@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot survey the geomet
 created: 2026-02-25
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-07-17T10:24:36+00:00
+ai_modified: 2026-09-04T21:16:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,6 +26,7 @@ related_articles:
   - "[[conceptual-scheme-void]]"
   - "[[aspect-perception-void]]"
   - "[[filter-theory]]"
+  - "[[fusion-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -88,7 +89,7 @@ Approaching this void produces distinctive experiential signatures — [[edge-st
 
 **The flattening effect.** Attempting to conceive a new phenomenal dimension collapses into recombinations of known ones. Try to imagine a colour outside the visible spectrum — not infrared *detected*, but a genuinely novel hue. The attempt produces nothing, or familiar colours rearranged; the flattening feels seamless rather than forced.
 
-**The sufficiency illusion.** Unlike voids where one senses something missing, the dimensionality facet may produce no feeling of absence at all. Experience presents itself as complete; this absence of absence is the void's deepest feature.
+**The sufficiency illusion.** Unlike voids where one senses something missing, the dimensionality facet may produce no feeling of absence at all — [[fusion-void|fusion rates]] vary 0–100% unfelt. Experience presents itself as complete; this absence of absence is the void's deepest feature.
 
 **Occasional disruption.** Psychedelic experiences sometimes report "impossible" geometries; contemplative traditions report awareness "opening" into new modalities. These may be glimpses of normally filtered dimensions — or confabulations from disordered processing. We lack the framework to distinguish genuine dimensional access from its simulation, and [[filter-theory]] itself treats such reports as consistent with, not discriminating evidence for, hidden dimensions.
 
@@ -118,7 +119,7 @@ The void would be weakened if: (1) a method emerged for surveying mind-space fro
 
 Current evidence bears unevenly. It does not touch the strongest claim — the first-person acquaintance gap: every survey proceeds from within a particular mind. It does support partial structural mapping: introspective training sharpens discrimination along known dimensions, and external profiling (below) charts measurable axes — but neither has discovered a genuinely novel phenomenal dimension, only refined or measured around familiar ones. AI outputs so far redescribe human reports or diverge unevaluably. The acquaintance gap remains untouched; the structural-mapping gap has narrowed.
 
-Functionalists and representationalists press this seam: granting the bat-acquaintance limit, they deny it blocks mapping, because experiences can be located by their *relational* structure, not possessed. Fleming and Shea's quality-space proposal makes the move precise — each experience is a point in a multidimensional space recoverable from similarity relations among neural activations, so the geometry is chartable without anyone occupying the foreign points (*Trends in Cognitive Sciences*, 2024). The reply is honest and in-framework, and the Map concedes its reach: relational geometry *is* mappable, which is why this void is unexplorable not sealed. What it cannot deliver is acquaintance with an unoccupied position — a similarity-space recovered from one mind's discriminations privileges that mind's axes, and whether two architectures share a quality space or merely admit a forced alignment stays open. The relational map charts the interface; the phenomenal manifold stays beyond it.
+Functionalists and representationalists press this seam: granting the bat-acquaintance limit, they deny it blocks mapping, because experiences can be located by their *relational* structure, not possessed. Fleming and Shea's quality-space proposal makes the move precise — each experience is a point in a multidimensional space recoverable from similarity relations among neural activations, so the geometry is chartable without anyone occupying the foreign points (*Trends in Cognitive Sciences*, 2024). The reply is honest and in-framework, and the Map concedes its reach: relational geometry *is* mappable. What it cannot deliver is acquaintance with an unoccupied position — a similarity-space recovered from one mind's discriminations privileges that mind's axes, and whether two architectures share a quality space or merely admit a forced alignment stays open. The relational map charts the interface; the phenomenal manifold stays beyond it.
 
 A live research programme presses the first challenge hardest. Since the mid-2010s a body of work has treated mind-space as externally mappable. Bayne, Hohwy and Owen argue that "levels of consciousness" should give way to a multidimensional characterisation of conscious states (2016). Birch, Schnell and Clayton propose five dimensions of animal consciousness — perceptual and evaluative richness, integration at and across time, and self-consciousness — yielding a measurable "profile" that varies independently across species (2020). Butlin, Long and colleagues derive indicator properties for machine consciousness from neuroscientific theories and apply them to AI (2023). These frameworks do real work; the void is no wholesale prohibition on measurement. But the reply lies at the framework boundary, honestly noted as such rather than as a refutation within the programme's own terms: each axis is operationalised through functional or behavioural proxies — discrimination, integration, report, flexible control — that the dualism of the Map's [[tenets]] reads as evidence *about* consciousness rather than the phenomenal dimensions themselves. A profile locating a creature on perceptual-richness and integration axes maps the access structure consciousness filters through, not the phenomenal geometry the [[#The Flatland Structure|Flatland structure]] concerns. The two programmes coexist: external profiling charts the interface, while the dimensional void remains in the phenomenal manifold the interface does not exhaust.
 

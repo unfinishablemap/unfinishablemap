@@ -4,7 +4,7 @@ description: "Interactionist dualism must specify which capabilities belong to t
 created: 2026-03-09
 modified: 2026-05-22
 human_modified:
-ai_modified: 2026-08-07T16:05:00+00:00
+ai_modified: 2026-09-04T21:16:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,6 +27,7 @@ related_articles:
   - "[[interface-formalization-void]]"
   - "[[causal-interface]]"
   - "[[cross-modal-capability-division]]"
+  - "[[fusion-void]]"
   - "[[evidential-status-discipline]]"
 ai_contribution: 100
 author:
@@ -52,7 +53,7 @@ A candidate transition point emerges: perceptual organisation. Feature extractio
 
 The empirical evidence sketches a rough boundary. The brain handles computational vision — feature extraction, spatial mapping, action guidance. Consciousness contributes phenomenal unification, ownership, flexible deployment of visual information in novel contexts. But attempts to draw this line precisely encounter several obstacles.
 
-**The boundary shifts under examination.** Phillips (2021) argues that blindsight involves qualitatively degraded conscious vision rather than truly unconscious processing. If correct, capabilities attributed to the brain alone may retain a residual conscious component. The clean division becomes messier: not "brain does X, mind does Y" but "brain does X with varying degrees of mind involvement." Every candidate for pure brain-side processing becomes disputable.
+**The boundary shifts under examination.** Phillips (2021) argues that blindsight involves qualitatively degraded conscious vision rather than truly unconscious processing. If correct, capabilities attributed to the brain alone may retain a residual conscious component. The clean division becomes messier — brain does X with varying degrees of mind involvement, never X alone. Every candidate for pure brain-side processing becomes disputable, the [[fusion-void|fusion void]]'s well-modelled cue combination included.
 
 **Consciousness may not add discrete capabilities.** Rather than contributing specific functions — binding, ownership, flexibility — consciousness may transform the character of all visual processing it touches. A conscious percept of a red apple is not feature-detection plus something extra; it is a qualitatively different kind of state. Trying to list what consciousness "adds" may misframe the contribution, like trying to specify what wetness adds to individual water molecules.
 
