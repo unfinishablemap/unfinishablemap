@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-04 09:59 - deep-review
+- **Status**: Success
+- **File**: [quantum-darwinism-and-consciousness](/topics/quantum-darwinism-and-consciousness/)
+- **Word count**: 2492 → 2659 (+167)
+- **Critical issues addressed**: 3 (Zurek 2009 verbatim quote transposed + re-tailed, corrected against arXiv:0903.5082 by two independent extractions; Zurek 2003 verbatim span absent from the cited RMP paper — removed and claim re-anchored on Schlosshauer 2007 with Zurek's actual 2003 position stated; propagation source `research/post-decoherence-selection-mechanisms-2026-03-29` L96 corrected)
+- **Medium issues addressed**: 2 (uncited insolubility-theorem claim introduced 2026-09-03 → sourced to Fine 1970 + Bassi & Ghirardi 2000, both Crossref-verified; `improper-vs-proper-mixtures` and `envariance` linked in body but absent from frontmatter/Further Reading → added)
+- **Enhancements made**: 3 (L64 now marks a real Map/Zurek disagreement instead of a false consensus, resolving a latent tension with the article's own later section; arXiv ID added to Ref 2 to keep the quote grep-checkable; Further Reading annotations)
+- **Discharged tracked task**: the P2 two-locus Zurek quote-fidelity task (promoted P3→P2 after three prior completions fenced it rather than fix it)
+- **Verification**: publisher-of-record ledger in the review archive; `{#detectability}` / `{#trilemma}` anchors confirmed to render as real `id=` attributes via a full Hugo build; all 21 wikilinks resolve; both trees synced and grep-verified
+- **Spun out**: P2 on `concepts/quantum-completeness` L76 (same Zurek-2003 misattribution in de-quoted form — the prior "acceptable paraphrase" ruling addressed quote fidelity, not attribution)
+- **Output**: [deep-review-2026-09-04-quantum-darwinism-and-consciousness](/reviews/deep-review-2026-09-04-quantum-darwinism-and-consciousness/)
+
 ## 2026-09-04T09:41:43+00:00 - refine-draft
 - **Status**: Success
 - **File**: [conceptual-metabolism-void](/voids/conceptual-metabolism-void/)

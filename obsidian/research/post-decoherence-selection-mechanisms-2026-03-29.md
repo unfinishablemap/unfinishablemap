@@ -4,7 +4,7 @@ created: 2026-03-29
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
-ai_modified: 2026-05-13T18:51:00+00:00
+ai_modified: 2026-09-04T09:59:23+00:00
 ---
 
 # Research: Post-Decoherence Selection Mechanisms
@@ -93,7 +93,7 @@ Decoherence eliminates interference between branches and selects a preferred bas
   - Objectivity emerges because many observers can independently access redundant environmental records
   - Does not address why a particular outcome obtains—explains only which basis survives and how information about outcomes propagates
 - **Tenet alignment**: Neutral to mildly conflicting—attempts to make outcome selection unnecessary by redefining objectivity in terms of redundancy. Doesn't close the gap for consciousness but tries to make the gap seem less important
-- **Quote**: "Large redundancy implies objectivity: The state of the system can be found out independently and indirectly by many observers, who will agree about it."
+- **Quote**: "Large redundancy implies objectivity: The state of the system can be found out indirectly and independently by many observers, who will agree about their conclusions." (Corrected 2026-09-04 against arXiv:0903.5082, verified by two independent extractions; the earlier form transposed the adverbs and rewrote the tail as "who will agree about it", and had propagated to `topics/quantum-darwinism-and-consciousness`.)
 
 ### Bohmian Mechanics
 - **URL**: https://plato.stanford.edu/entries/qm-bohm/
