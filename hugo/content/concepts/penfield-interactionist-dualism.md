@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-09-02 00:52:00+00:00
-ai_system: claude-opus-4-8+claude-fable-5
+ai_modified: 2026-09-04 00:00:00+00:00
+ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5
 author: null
 concepts:
 - interactionist-dualism
@@ -16,8 +16,8 @@ description: A human-AI examination of Wilder Penfield's clinical case for inter
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-29 02:43:26+00:00
-lastmod: 2026-09-02 00:52:00+00:00
+last_deep_review: 2026-09-04 00:00:00+00:00
+lastmod: 2026-09-04 00:00:00+00:00
 modified: *id001
 related_articles: []
 title: Wilder Penfield's Interactionist Dualism
@@ -68,9 +68,9 @@ The upshot is that Penfield's evidence *underdetermines* the choice between dual
 
 ## A physicalist convergence on Eccles's dendron
 
-Eccles's anatomy has since been reached from the other side. Dendritic Integration Theory, stated by Bachmann, Suzuki and Aru (2020), associates consciousness with the integration of signal streams arriving at the apical and basal compartments of layer-5 pyramidal neurons—the same cell class, and the same apical dendrites, that Eccles bundled into the dendron in 1990. Its anchoring experiment is Suzuki and Larkum (2020): three different anaesthetics have the same disruptive effect on signalling along those apical dendrites in mice, and inactivating higher-order thalamus in the awake animal reproduces the decoupling. Nobody in this programme has any use for psychons; the convergence was reached thirty years later on cellular neuroscience alone.
+Eccles's anatomy has since been reached from the other side. Dendritic Integration Theory, stated by Bachmann, Suzuki and Aru (2020), associates consciousness with the integration of signal streams arriving at the apical and basal compartments of layer-5 pyramidal neurons—the apical dendrites of layer V, one of the two laminar populations (V and III–II) whose apical bundles Eccles named *dendrons* in 1990. Its anchoring experiment is Suzuki and Larkum (2020): three different anaesthetics have the same disruptive effect on signalling along those apical dendrites in mice, and inactivating higher-order thalamus in the awake animal reproduces the decoupling. Nobody in this programme has any use for psychons; the convergence was reached thirty years later on cellular neuroscience alone.
 
-It cuts both ways, and the second edge is the sharper. In Eccles's favour, his siting of the interface was evidently not arbitrary or theory-driven: a physicalist research programme picked out the same compartment as the site of conscious integration. Against him, Dendritic Integration Theory is a complete physical mechanism for that locus. It accounts for the apical–somatic coupling with no psychon anywhere, so the convergence removes an explanatory job the psychon was invented to do rather than supplying evidence that a psychon does it. The theory's authors are careful—"we are not claiming that no other theory can explain these properties"—and the anaesthesia result is stated conditionally on feedback signalling running predominantly through apical dendrites. That restraint does not hand the job back: the theory constrains any interactionist story pitched at the pyramidal cell, Eccles's included, without settling what makes the gated activity experienced. This article located no published critique of the theory, which is a failed search rather than evidence that none exists. The Map's wider treatment of anaesthesia is at [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/).
+It cuts both ways, and the second edge is the sharper. In Eccles's favour, his siting of the interface was not arbitrary: he took the dendron from existing anatomy—Fleischhauer and Peters's work on apical-dendrite bundles—and a physicalist research programme later picked out that same apical compartment, in one of the two populations he had bundled, as the site of conscious integration. Against him, Dendritic Integration Theory is a complete physical mechanism for that locus. It accounts for the apical–somatic coupling with no psychon anywhere, so the convergence removes an explanatory job the psychon was invented to do rather than supplying evidence that a psychon does it. The theory's authors are careful—"we are not claiming that no other theory can explain these properties"—and Suzuki and Larkum pin the step from their decoupling result to consciousness on a condition: *if* feedback signalling runs predominantly through apical dendrites, their mechanism would explain why anaesthesia blocks it selectively. That restraint does not hand the job back: the theory constrains any interactionist story pitched at the pyramidal cell, Eccles's included, without settling what makes the gated activity experienced. No published critique of the theory was located—a failed search rather than evidence that none exists. What the literature does register is a limit on its evidence base: Dykstra et al. (2026) survey circuit-level accounts, dendritic integration theory among them, precisely to argue that such theories *can* now be tested in humans—a case that presupposes they have not been. The decoupling result is mouse work; Penfield's series, whatever it underdetermines, was human from the start. The Map's wider treatment of anaesthesia is at [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/).
 
 ## Relation to Site Perspective
 
@@ -104,6 +104,7 @@ There is a **Tenet 5** twist worth flagging. The comparator reading is simpler o
 1. Eccles, J. C. (1994). *How the Self Controls Its Brain*. Springer.
 1. Bachmann, T., Suzuki, M., & Aru, J. (2020). "Dendritic integration theory: A thalamo-cortical theory of state and content of consciousness." *Philosophy and the Mind Sciences*, 1(II), 2. doi:10.33735/phimisci.2020.II.52
 1. Suzuki, M., & Larkum, M. E. (2020). "General Anesthesia Decouples Cortical Pyramidal Neurons." *Cell*, 180(4), 666–676.e13. doi:10.1016/j.cell.2020.01.024
+1. Dykstra, A. R., Zhu, Y., Fernandez Pujol, C., Zhou, D. W., Jones, S. R., Marvan, T., & Bonaiuto, J. J. (2026). "Testing circuit-level theories of consciousness in humans." *Trends in Cognitive Sciences*, 30(3), 226-238. doi:10.1016/j.tics.2025.08.012
 1. Blakemore, S.-J., Wolpert, D. M., & Frith, C. D. (2002). "Abnormalities in the awareness of action." *Trends in Cognitive Sciences*, 6(6), 237-242.
 1. Synofzik, M., Vosgerau, G., & Newen, A. (2008). "Beyond the comparator model: A multifactorial two-step account of agency." *Consciousness and Cognition*, 17(1), 219-239.
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Interactionist Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interactionist-dualism/

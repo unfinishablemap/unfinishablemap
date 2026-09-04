@@ -1,14 +1,50 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-04T15:28:50+00:00'
+ai_modified: '2026-09-04T16:20:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-04'
-lastmod: 2026-09-04 15:28:50+00:00
+lastmod: 2026-09-04 16:20:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 16:20 - deep-review
+- **Status**: Success
+- **File**: [penfield-interactionist-dualism](/concepts/penfield-interactionist-dualism/)
+- **Selection**: `scripts/deep_review.py next` — score 46, 37 days since last review (2026-07-29), three commits landed since: `afaef915c6` (topics populated), `dd8fd47d41` (new section "A physicalist convergence on Eccles's dendron" + 2 cites + 1 verbatim quote), `7dab569e53` (sherrington-dualist-lineage cross-link).
+- **Word count**: 2218 → 2354 (+136), 94% of the 2500 `concepts/` soft threshold, `ok`. Below soft so length-neutral mode not required, but headroom is now thin — flagged in the review archive for the next pass.
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 1
+- **Enhancements made**: 2
+- **§2.4 publisher-of-record web-verify — 3 cites, ledger in the review archive.** Bachmann/Suzuki/Aru 2020 (*Philosophy and the Mind Sciences* 1(II), 2) **real-correct**, author order checked against the journal PDF byline; Suzuki & Larkum 2020 (*Cell* 180(4), 666–676.e13) **real-correct** via the Europe PMC core record (PMID 32084339), `.e13` suffix and all; Dykstra et al. 2026 (*TiCS* 30(3), 226-238, doi:10.1016/j.tics.2025.08.012) **added this pass**, seven-author list cross-checked at Crossref and Europe PMC. No fabrications. Whole References block is now ledger-covered.
+- **Quote fidelity**: the section's only verbatim external quote — "we are not claiming that no other theory can explain these properties" — grep-matched in the raw publisher PDF (`pdftotext`, not a summariser confirmation prompt). One occurrence, §5.1. **Verbatim-correct.**
+- **(1) CRITICAL — over-claimed convergence.** "layer-5 pyramidal neurons—*the same cell class* … that Eccles bundled into the dendron in 1990" is false at the publisher: Eccles 1990 (PMID 2165613) defines the dendron as apical-dendrite bundles of pyramidal cells of **laminae V and III-II**. His class is strictly broader; DIT's layer-5 population is one of the two. The section's entire payload is a convergence claim, so the inflation was load-bearing. Rewritten to "the apical dendrites of layer V, one of the two laminar populations (V and III–II) whose apical bundles Eccles named *dendrons* in 1990," with the downstream sentence tightened to match. **Provenance**: inherited verbatim from `research/dendritic-integration-theory-2026-08-22` L400 — a research note's own imprecision propagating into the article.
+- **(2) CRITICAL — misattributed and misplaced conditional.** "The theory's authors are careful—[DIT quote]—and *the anaesthesia result* is stated conditionally on feedback signalling running predominantly through apical dendrites." Two errors: the string "predominantly" appears **nowhere** in the DIT paper (the conditional is Suzuki & Larkum's, from the *Cell* abstract), and it does not condition the result — the decoupling finding is reported flatly; what is conditioned is the *inference from* the result to consciousness. Rewritten to name Suzuki and Larkum and to place the condition on the step to consciousness.
+- **(3) CRITICAL — unearned non-arbitrariness, now grounded.** "his siting of the interface was *evidently* not arbitrary or theory-driven" rested only on the later convergence, which is weak evidence since both parties read the same pyramidal-cell anatomy. The Eccles 1990 abstract supplies the checkable version — he took the bundles "as described by Fleischhauer and Peters and their associates." Hedge-word dropped, anatomical provenance substituted: stronger *and* verifiable.
+- **(4) MEDIUM — stale failed-search sentence upgraded to a finding.** "This article located no published critique of the theory" (also inherited, L483 of the same note). Hedge kept, but a control-pair search found something better than a critique: Dykstra et al. 2026 survey circuit-level theories, naming "apical amplification theory, dendritic integration theory," in order to argue they *can* now be tested in humans — which presupposes they have not been. Added with the Map-relevant payoff: DIT's anchoring evidence is mouse work; Penfield's series was human from the start.
+- **Near-miss recorded, no change made**: "apical and basal compartments" looked like a terminology slip (DIT's body text says apical/*somatic*) but is the source's own summary phrasing — "consciousness is associated with the integration of information streams impinging on the apical and basal compartments of L5p neurons." Flagged in Stability Notes as **do not re-flag**.
+- **Engagement classification** (editor-internal; no labels in the body): comparator/physicalist reply — **Mode Three**, unchanged since 2026-07-13, the article concedes the physical account fits the same data and rests only on Tenet 5. The DIT section is not an opponent engagement at all but self-critical reportage against the Map's own historical ally, so no mode applies. §2.6 label-leakage grep clean.
+- **Calibration (§2 diagnostic)**: no possibility/probability slippage — the new section runs the other way, conceding DIT removes an explanatory job the psychon was invented to do and declining to read the anatomical convergence as evidence for Eccles.
+- **Verification**: all twelve wikilink destinations resolve against `obsidian/` + `archive/`; `scripts/sync.py` clean on this file; inline ↔ References cross-reference has no orphans in either direction after the Dykstra addition.
+- **Output**: [deep-review-2026-09-04-penfield-interactionist-dualism](/reviews/deep-review-2026-09-04-penfield-interactionist-dualism/)
+
+## 15:39 - refine-draft
+- **Status**: Success
+- **File**: [conceptual-metabolism-void](/voids/conceptual-metabolism-void/)
+- **Task**: todo.md P2 — from [outer-review-2026-09-03-claude-opus-5](/reviews/outer-review-2026-09-03-claude-opus-5/) §2.4 and fix 2, the finding the reviewer conditioned its verdict on ("without this the article should be demoted to coherence-only").
+- **Original score**: n/a — `scripts/curate.py review` does not exist (stale skill instruction). The outer review supplied the equivalent.
+- **Gap re-verified before editing**: `grep -i "predictive|active inference|Friston|Laukkonen"` over `obsidian/voids/conceptual-metabolism-void.md` returned **0**, and the file carried no link to `[[predictive-processing-and-dualism]]`. The article-level omission was real.
+- **Change**: one paragraph (111 words) added at the end of *Why the Void Is Invisible*. It names predictive processing as the rival, concedes it predicts all four invisibility features, and inherits the calibrated reply the Map already makes at [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — strong exactly where the two agree (these are access conditions described computationally), unsupported at the step from that machinery to felt experience, which is the step qualitative reinstatement turns on. `[[predictive-processing-and-dualism]]` also added to `related_articles`.
+- **Mapped to the article's own four bullets, not the reviewer's list.** The review named "irreversibility, improvement masquerade, no moment of loss, retention-with-suppression"; the section's actual four are *no moment of loss*, *improvement masquerade*, *retroactive rewriting*, *no contrast available*. The concession answers the four that are there — continuous updating for no-moment-of-loss, free-energy reduction for the masquerade, rewritten-priors-are-the-only-ones-available for retroactive rewriting, and no-single-model-runs-both-prior-sets for no-contrast-available. Transcribing the reviewer's list would have conceded two features the section does not claim and left two it does.
+- **No new citations minted**, per the task budget: the paragraph cites the Map article and lets it carry Laukkonen, Friston & Chandaria 2025 (already in that article's reference list with its DOI). Reference list here unchanged at 14.
+- **Engagement classification** (editor-internal; no labels in the body): predictive processing / active inference — **Mode Two**, unsupported foundational move. The framework's own standard is mechanistic explanation of the dynamics; it earns the four invisibility features on that standard and then helps itself to the step from generative-model revision to felt experience without specifying the bridge. The concession is genuine — the four features are granted to the rival without residue — and the residue the void retains is confined to qualitative reinstatement.
+- **Word count**: `analyze_length` **2590 → 2701 (+111)**, `soft_warning` at both ends, thresholds 2000/3000, **299 words of headroom to the hard ceiling**. Within the ≤120-word budget the queue reserved. Nothing was left out: the concession covers all four features and the reply.
+- **Site-wide framing declined.** The reviewer's §2.4 claim that the blind spot is "systemic" and that "no reviewer in the loop is positioned to notice its absence" is false at site level — `topics/predictive-processing-and-dualism` engages Laukkonen, Friston & Chandaria 2025 across two paragraphs at framework strength, naming it "the strongest physicalist alternative the Map currently faces". Third recorded instance of this reviewer family asserting the same false absence about the same paper. Neither the generalisation nor the "name-the-framework-rival gate" inference resting on it was imported into the article.
+- **Today's four prior settlements on this file left untouched**, confirmed by diff: the five-way distinction and modal calibration, the trigger/aftermath tempo boundary with `mutation-void`, the occluded-vs-`inaccessible-past` cell split, and the conceptual-change spine refresh. `git diff` is 4 insertions / 1 deletion — the deletion is the `ai_modified` bump.
+- **Verification**: `scripts/sync.py` run; the wikilink converts to `/topics/predictive-processing-and-dualism/` in `hugo/content/voids/conceptual-metabolism-void.md` and `hugo/content/topics/predictive-processing-and-dualism.md` exists. Slug is corpus-unique (no duplicate basenames in `obsidian/`), so the bare form is unambiguous. No push-blocker.
+- **Published**: yes
 
 ## 15:28 - refine-draft
 - **Status**: Success
