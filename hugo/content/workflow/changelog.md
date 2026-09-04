@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-04T14:15:47+00:00'
+ai_modified: '2026-09-04T14:25:34+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-04'
-lastmod: 2026-09-04 14:15:47+00:00
+lastmod: 2026-09-04 14:25:34+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 14:25 - refine-draft
+- **Status**: Success
+- **File**: [personal-identity](/topics/personal-identity/)
+- **Task**: todo.md — retire the invalid conditional at L100, argument 4 of "Arguing for Haecceity". **Third and origin locus** of the defect: `reviews/deep-review-2026-01-30-personal-identity.md` L44 records it being minted here in January ("if experience were merely information, memory could preserve it completely. Added this as fourth argument for haecceity"). The two descendants were fixed earlier today — `voids/inaccessible-past` L56 (99f8f7fe) and `apex/identity-across-transformations` L87 (d172048e) — and the apex *synthesises its fourth argument from this article and cites it directly*, so until now the apex withdrew a premise its own cited ground still asserted. That inconsistency is closed.
+- **Word count**: 4067 → 4045 (**−22**, net shorter as required). `analyze_length` before and after: both `hard_warning`, thresholds 3000/4000. The standing operator entry at `todo.md` L1270 ("NEEDS-HUMAN (length decision): ~96w over hard ceiling") is **not** touched, commented on, or closed — it remains the operator's call. The breach it describes was narrowed, not widened: 67 words over the hard ceiling → 45.
+- **The defect**: "If experience were merely information, memory could preserve it completely; that it cannot suggests experience involves the haecceity of *undergoing* rather than *representing*." The conditional is invalid — physical information is routinely compressed, partially encoded, corrupted, overwritten or lost, so "merely information" delivers no guarantee of complete preservation, and lossy memory is precisely what an informational account predicts. As written it handed the physicalist a free reply and rested a haecceity argument on a premise carrying no weight.
+- **The transplant** (mirrors the two descendants; no third wording invented): the entailment is **retired, not softened**. An informational account promises nothing about preservation; what it owes is an explanation of *which* information goes missing and why the loss is total for phenomenal character while the propositional record of the same episode degrades only partially. The force is relocated to **indexical non-recurrence** — no stored fidelity delivers *numerical recurrence*, because yesterday's experience was undergone from an indexical position that does not come round twice. Vocabulary is now consistent across the chain: `voids/conceptual-metabolism-void` hands *numerical recurrence* to `inaccessible-past`, which hands it here and to the apex. **Argument 4 still does its work** — it remains the fourth of four considerations and still lands "the haecceity claim in temporal form"; no hole where the fallacy was.
+- **Sibling instance removed (not in the task brief, found by sweep)**: L72 closed with "The 'pastness quale' that marks memories as genuinely yours points to something information storage cannot capture" — the *same* invalid inference in miniature, a second locus inside this file (cf. `fix-by-file-leaves-string-siblings-live`). Cut; the pastness-quale point is now made properly, once, inside the repaired argument 4.
+- **Length offsets** (the transplant costs +54 words; paid for by de-duplication, following the apex precedent of merging sentences that make the same point twice):
+  - L72 sibling sentence (above) — −20
+  - "Relation to Site Perspective" → No Many Worlds paragraph restated "which branch am I in? has no answer, yet it seems meaningful" near-verbatim from the earlier "The No Many Worlds Connection" section; reduced to a back-reference plus the one non-duplicated clause — −22
+  - "What Personal Identity Requires" closing sentence ("A replica with your memories but no consciousness (a zombie) wouldn't be you...") was the *third* statement of the replica/zombie point, already made at the quantum-selection paragraph and again in both the Teletransportation bullet and the Dualism tenet paragraph — −22
+  - Quantum-selection forward-pointer and error-theory forward-pointer compressed, anchors preserved — −17
+- **Engagement classification** (editor-internal, per [direct-refutation-discipline](/project/direct-refutation-discipline/); not written into the article): reply to the physicalist / informational account about memory — **Mode Two**, unsupported foundational move. The old text attempted Mode One and failed, purporting to derive a contradiction from the informational account's own commitments when the account entails no such thing. The repair invokes a standard the opponent's framework actually endorses — an informational theory owes an account of *which* information is lost and why the loss is selective — and then marks the residual disagreement (indexical non-recurrence) honestly rather than dressing it as in-framework refutation. No mode labels or editor vocabulary appear in the article body.
+- **Verification**: `uv run python scripts/sync.py` run; new paragraph and `ai_modified: 2026-09-04T14:25:34+00:00` confirmed in `hugo/content/topics/personal-identity.md` (L103). Repo-wide sweep of `obsidian/`, `hugo/content/` and `archive/` for "preserve it completely" now returns **zero live-content hits** — remaining matches are `workflow/` and `reviews/` records, not live claims. New anchor `[[#the-no-many-worlds-connection|...]]` verified to resolve (heading at hugo L85). `validate.py`: ✓ Valid. `git status` confirms only the two `personal-identity` files changed — the two already-fixed descendants are untouched.
+- **Residual finding, out of scope, no action taken**: `archive/voids/past-self-void.md` L44 (and its hugo mirror) still carries the ancestor form, "If qualia were merely information, memory could preserve them completely." That file is archived — it was coalesced into `voids/inaccessible-past`, which lists it in `coalesced_from` — so it is a frozen historical record behind an archive notice rather than a live claim, and repairing it was not this dispatch's contract. Flagged because archived pages remain reachable at their preserved URLs and outer reviewers have critiqued archived text as live before. Operator's call whether the archive tree should be swept.
+- **Published**: yes
+
 
 ## 14:15 - deep-review
 - **Status**: Success

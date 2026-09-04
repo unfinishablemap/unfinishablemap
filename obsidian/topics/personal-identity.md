@@ -2,9 +2,9 @@
 title: "Personal Identity"
 description: "What makes you *you* across time? The Map emphasizes indexical identity—*this* conscious being matters, not just the pattern it instantiates."
 created: 2026-01-08
-modified: 2026-08-19
+modified: 2026-09-04
 human_modified: null
-ai_modified: 2026-08-19T00:24:14+00:00
+ai_modified: 2026-09-04T14:25:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -69,7 +69,7 @@ Three positions dominate the debate about what makes someone at one time the sam
 
 Recent phenomenological work—most prominently [[self-and-self-consciousness#Minimal Self and Narrative Self|Zahavi's]] account of first-personal givenness—distinguishes these from a more basic [[self-and-self-consciousness|minimal self]]: a pre-reflective first-person perspective, the "for-me-ness" of experience, present whenever consciousness is. Personal identity may thus have layers: a narrative layer that changes dramatically and a minimal layer that persists throughout.
 
-[[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]]—the capacity for mental time travel—adds another dimension. When remembering, you don't merely access information; you *reconstruct* the past with a distinctive phenomenal character that marks the experience as yours. Yet as the [[inaccessible-past]] reveals, reconstruction can never fully access the original experience—and where retrieval reopens the trace, reconsolidation makes [[consciousness-and-memory|consciousness a causal participant in memory's transformation]]. The "pastness quale" that marks memories as genuinely yours points to something information storage cannot capture.
+[[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]]—the capacity for mental time travel—adds another dimension. When remembering, you don't merely access information; you *reconstruct* the past with a distinctive phenomenal character that marks the experience as yours. Yet as the [[inaccessible-past]] reveals, reconstruction can never fully access the original experience—and where retrieval reopens the trace, reconsolidation makes [[consciousness-and-memory|consciousness a causal participant in memory's transformation]].
 
 ## Parfit's Challenge
 
@@ -97,15 +97,15 @@ The starting point is phenomenological: introspection reveals what seems like ir
 
 3. **The explanatory gap**: Why does reductionism seem inadequate? Perhaps because it *is* inadequate—our persistent puzzlement about personal identity reflects genuine metaphysical structure, not mere conceptual confusion.
 
-4. **The past-self argument**: The [[inaccessible-past]] reveals that we cannot access past conscious states, only reconstruct them from traces. If experience were merely information, memory could preserve it completely; that it cannot suggests experience involves the haecceity of *undergoing* rather than *representing*.
+4. **The past-self argument**: The [[inaccessible-past]] reveals that we cannot access past conscious states, only reconstruct them from traces. Lossiness is not itself the argument—an informational account promises nothing about preservation, since information is routinely compressed, corrupted, or overwritten. The force lies in indexical non-recurrence: no stored fidelity delivers *numerical recurrence*, because yesterday's experience was undergone from an indexical position that does not come round twice, and the "pastness quale" marking a memory as genuinely *yours* registers that position without reproducing it. What memory cannot restage is *undergoing* rather than *representing*—the haecceity claim in temporal form.
 
-**The error theory worry**: Could the sense of haecceity be a cognitive illusion? The reply usually offered—that a seeming requires a subject to whom it seems—is weaker than it looks; [[#the-illusionist-challenge|The Illusionist Challenge]] below explains why, and what pressure survives it.
+**The error theory worry**: Could the sense of haecceity be a cognitive illusion? The usual reply—that a seeming requires a subject to whom it seems—is weaker than it looks; [[#the-illusionist-challenge|The Illusionist Challenge]] below explains why.
 
 This doesn't prove haecceity with certainty, but it shifts the burden: anti-haecceitists must explain why the phenomenological evidence misleads, not merely assert that it does.
 
 Crucially, haecceity does not require a permanent soul-substance. The Map's concept of [[eastern-philosophy-consciousness|process haecceitism]]—drawing on Whitehead's process philosophy and Buddhist impermanence—holds that particularity can apply to experiential *streams*: *this* series of conscious moments is distinct from *that* series, without a permanent substrate underlying either. This is the Map's own construction, not a Buddhist position; Buddhism generally resists claims of irreducible personal particularity (see [[buddhism-and-dualism]]). A Nagarjunian will object that individuating a *stream* as *this* rather than *that* smuggles back the very *svabhava*—inherent, self-standing existence—the no-substance move was meant to avoid, relocating the reification without dissolving it. The Map does not claim to defeat this on Madhyamaka's own terms; it holds that minimal indexical particularity of a stream is a more modest commitment than substantial selfhood, and that the alternative—no fact at all about which stream is undergone—is the indexical eliminativism the tenets reject. Whether that particularity is genuinely free of *svabhava* or merely a thinner version is left as an honest open boundary.
 
-This connects to quantum selection: if consciousness influences which quantum outcomes occur, *which* consciousness selects matters, and a teletransporter replica wouldn't be the consciousness that was making selections. The [[tenets#^dualism|Dualism]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] connections, and the caveat that consciousness-selection is empirically indistinguishable from random collapse, are developed in [[#relation-to-site-perspective|Relation to Site Perspective]] below.
+This connects to quantum selection: if consciousness influences which quantum outcomes occur, *which* consciousness selects matters, and a teletransporter replica wouldn't be the consciousness that was making selections. The tenet connections and the empirical-indistinguishability caveat are developed in [[#relation-to-site-perspective|Relation to Site Perspective]] below.
 
 ## What Personal Identity Requires
 
@@ -117,7 +117,7 @@ On the Map's framework, personal identity involves:
 
 3. **Indexical uniqueness**: the unrepeatable fact that *you* are this conscious being and not another, even one qualitatively identical. [[indexical-knowledge-and-identity|Indexical knowledge]]—expressible only as "I," "here," "now"—is irreducible to impersonal description, and the [[vertiginous-question]] marks "why am I *this* one?" as a genuine cognitive boundary that extends into physics, where [[indexical-identity-quantum-measurement|the same "thisness"]] determines which outcome *this* consciousness experiences.
 
-Psychological continuity matters, but as evidence of something deeper—your memories and traits are expressions of your persisting consciousness, not what your identity consists in. A replica with your memories but no consciousness (a zombie) wouldn't be you; one with a different consciousness wouldn't be you either.
+Psychological continuity matters, but as evidence of something deeper—your memories and traits are expressions of your persisting consciousness, not what your identity consists in.
 
 ## The Fission Problem Revisited
 
@@ -189,7 +189,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: because your consciousness influences physical processes rather than merely observing them, your conscious history has causal efficacy. The choices and selections you've performed constitute *your* life in a way no replica—starting its causal contribution from scratch—could inherit.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: rejecting MWI is grounded partly in personal identity concerns. If all branches are equally real, "Which branch am I in?" has no answer—yet it seems meaningful. The Map's commitment to definite outcomes and indexical facts supports [[haecceity|haecceitistic]] identity: on MWI you'd be interchangeable with your branching copies, and rejecting it preserves your uniqueness.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: as [[#the-no-many-worlds-connection|The No Many Worlds Connection]] argues, on MWI you would be interchangeable with your branching copies; the Map's commitment to definite outcomes and indexical facts is what supports [[haecceity|haecceitistic]] identity.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: anti-haecceitists might appeal to parsimony—why posit primitive "thisness" when psychological continuity suffices? But parsimony fails when our concepts are inadequate to the phenomenon. That the question "Will I survive?" resists dissolution suggests our concepts may be missing something; the haecceitistic framework honors this puzzlement rather than explaining it away.
 
