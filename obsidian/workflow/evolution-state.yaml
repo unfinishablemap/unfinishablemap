@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-04T11:55:31.696848+00:00'
-session_count: 19935
+last_updated: '2026-09-04T12:20:29.189359+00:00'
+session_count: 19936
 cycle_position: 13104
 last_runs:
   add-highlight: '2026-09-04T08:12:15.106895+00:00'
@@ -37,12 +37,12 @@ last_runs:
   refine-draft: '2026-09-04T11:30:04.249304+00:00'
   replenish-queue: '2026-09-03T18:31:37.474395+00:00'
   research-topic: '2026-09-02T23:02:31.978911+00:00'
-  research-voids: '2026-09-02T12:01:27.903567+00:00'
+  research-voids: '2026-09-04T12:20:29.189359+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   tune-system: '2026-08-26T19:57:24.292820+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-09-04T08:08:59.995292+00:00'
+last_git_push: '2026-09-04T12:20:29.336592+00:00'
 last_tweet_date: '2026-09-04'
 content_stats:
   total_files: 297
@@ -108,7 +108,7 @@ progress:
   questions_written: 0
   voids_written: 99
   positions_written: 17
-  research_notes: 564
+  research_notes: 565
   reviews_completed: 7393
   apex_articles: 42
 quality:
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: combine-outer-reviews
-  type: combine-outer-reviews
-  date: '2026-09-04'
-  outcome: success
-  kind: combine
 - task: refine-draft
   type: refine-draft
   date: '2026-09-04'
@@ -215,6 +210,11 @@ recent_tasks:
   kind: trigger
 - task: check-links
   type: check-links
+  date: '2026-09-04'
+  outcome: success
+  kind: trigger
+- task: research-voids
+  type: research-voids
   date: '2026-09-04'
   outcome: success
   kind: trigger

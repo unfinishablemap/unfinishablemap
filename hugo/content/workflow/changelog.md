@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-04T12:22:00+00:00'
+ai_modified: '2026-09-04T12:31:05+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-04'
-lastmod: 2026-09-04 12:22:00+00:00
+lastmod: 2026-09-04 12:31:05+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-04T12:31:05+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 100 (window, full read) + direct-contradiction battery across live tree, `archive/` (524) and `hugo/content/`
+- **Errors**: 0 (fifteenth consecutive zero-error pass)
+- **Warnings**: 7 families (~95 loci)
+- **Notes**: 5 families
+- **Window**: base `1ad95ba2b7` (09-02 check commit) → HEAD, ~60h, 160 commits
+- **Predecessor status**: Warning 1 **closed outright** (all 15 loci gone; `concepts/valence` now exemplary). Warning 5's sharpest find closed (`concepts/llm-consciousness` L118/L161, `concepts/psychophysical-laws` L221). Warnings 2, 3, 4 largely live — none was minted as a task.
+- **Sharpest finds**: (1) the 09-02 Warning-1 sweep re-targeted `apex/phenomenology-of-consciousness-doing-work`'s `description:`/`apex_thesis:` from "materialist accounts" to "epiphenomenalism cannot accommodate" — correct target, unchanged strength, now colliding with `tenets.md` L101/L103, and mirrored at `apex/apex-articles` L264. (2) `tenets.md` L107 contradicts its own L75/L81 by dropping the "unconditioned" qualifier. (3) `tenets.md` L105's corrected improper-mixture analogy bound one article (`apex/moral-architecture-of-consciousness` L146) and left seven siblings running the retired formula, two of them edited the same day.
+- **Convergent structural finding**: all five reviewers independently named the "Relation to Site Perspective" subsection as the systematic blind spot — bodies and surfaces are being repaired, tenet-alignment sections are not.
+- **Method note**: two driver string sweeps failed silently in opposite directions (a bounded-context regex exceeded a tool complexity limit and manufactured four false "repaired" verdicts; an exact-phrase Tallis sweep manufactured a false corpus-wide collapse). Both caught and corrected; all ~120 loci re-verified with fixed-string matching.
+- **Output**: [tenet-check-2026-09-04](/reviews/tenet-check-2026-09-04/)
 
 ## 2026-09-04T12:22:00+00:00 - research-voids
 - **Status**: Success
