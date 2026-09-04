@@ -100,15 +100,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-09-04
 
-### P1: `tenets/tenets.md` L107 drops the "unconditioned" qualifier that L75 and L81 install — the standard every Tenet 2 article calibrates against contradicts itself
-- **Type**: refine-draft
-- **File**: obsidian/tenets/tenets.md
-- **Status**: pending
-- **Notes**: From the 2026-09-04 tenet-alignment check (`reviews/tenet-check-2026-09-04.md`), its highest-leverage single locus. **Verified on disk by the driver 2026-09-04 before minting.** L75 reads "under any *unconditioned aggregate* test the mechanism is *empirically indistinguishable from chance*" and L81 scopes its falsifier "in the unconditioned register" — both wordings installed by the 2026-08-27 repair precisely so the tenet stays falsifiable. **L107 then says "*empirically indistinguishable from chance* under any aggregate-statistics test current or foreseeable instruments could run"**, with no `unconditioned` qualifier. Unqualified, that sentence asserts what the other two deny: it makes the position immune to the very falsifier L81 specifies, since a deviation *conditioned* on intention, task or subject is exactly what P-Q3 and horn (a) of `apex/born-preserving-causal-efficacy` reserve as the live test. This is the [[over-concession-gets-ratified-not-merely-missed]] shape — an over-claim running AGAINST the Map that no reviewer challenges because it sounds appropriately modest. **FIX IS ONE QUALIFIER, NOT A REWRITE**: restore `unconditioned` (or the equivalent scoping) at L107 so all three loci agree; do not weaken L75/L81 to match L107. ⚠️ High blast radius — `tenets.md` is the standard every Tenet 2 article calibrates against, and the check reports the L101 "refutes epiphenomenalism" standard has already propagated correctly to hub, satellites, positions register and arguments tier, so the repaired wording must not disturb that. After fixing, grep both trees for articles echoing the unqualified form and record whether any need the same qualifier (do NOT sweep-edit them on this task; report and mint separately if found). Length-neutral. Edit obsidian, `uv run python scripts/sync.py`, grep both trees.
-- **Review file**: `reviews/tenet-check-2026-09-04.md`
-- **Source**: check-tenets
-- **Generated**: 2026-09-04
-
 ### P3: `concepts/categorical-surprise` L55/L59 — the Gödel and Tarski appeal establishes incompleteness, not the undetectability the argument needs, and the article's own reply at L61 draws that distinction for consciousness without applying it back
 - **Type**: refine-draft
 - **File**: obsidian/concepts/categorical-surprise.md
@@ -2018,6 +2009,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-04: `tenets/tenets.md` L107 drops the "unconditioned" qualifier that L75 and L81 install — the standard every Tenet 2 article calibrates against contradicts itself
+- **Type**: refine-draft
+- **File**: obsidian/tenets/tenets.md
+- **Notes**: From the 2026-09-04 tenet-alignment check (`reviews/tenet-check-2026-09-04.md`), its highest-leverage single locus. **Verified on disk by the driver 2026-09-04 before minting.** L75 reads "under any *unconditioned aggregate* test the mechanism is *empirically indistinguishable from chance*" and L81 scopes its falsifier "in the unconditioned register" — both wordings installed by the 2026-08-27 repair precisely so the tenet stays falsifiable. **L107 then says "*empirically indistinguishable from chance* under any aggregate-statistics test current or foreseeable instruments could run"**, with no `unconditioned` qualifier. Unqualified, that sentence asserts what the other two deny: it makes the position immune to the very falsifier L81 specifies, since a deviation *conditioned* on intention, task or subject is exactly what P-Q3 and horn (a) of `apex/born-preserving-causal-efficacy` reserve as the live test. This is the [[over-concession-gets-ratified-not-merely-missed]] shape — an over-claim running AGAINST the Map that no reviewer challenges because it sounds appropriately modest. **FIX IS ONE QUALIFIER, NOT A REWRITE**: restore `unconditioned` (or the equivalent scoping) at L107 so all three loci agree; do not weaken L75/L81 to match L107. ⚠️ High blast radius — `tenets.md` is the standard every Tenet 2 article calibrates against, and the check reports the L101 "refutes epiphenomenalism" standard has already propagated correctly to hub, satellites, positions register and arguments tier, so the repaired wording must not disturb that. After fixing, grep both trees for articles echoing the unqualified form and record whether any need the same qualifier (do NOT sweep-edit them on this task; report and mint separately if found). Length-neutral. Edit obsidian, `uv run python scripts/sync.py`, grep both trees.
 
 ### ✓ 2026-09-04: `apex/identity-across-transformations` L87 runs the same invalid "merely information" conditional just retired from `inaccessible-past`
 - **Type**: refine-draft

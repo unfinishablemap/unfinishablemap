@@ -6,6 +6,17 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
 
+## 13:24 - refine-draft
+- **Status**: Success
+- **File**: [[tenets/tenets]]
+- **Original score**: not scored — targeted single-locus calibration repair from `reviews/tenet-check-2026-09-04.md` Warning 3, not a general refinement pass
+- **Defect**: L107 (Tenet 3, "Outcome-selection, not context-selection") asserted the position was "*empirically indistinguishable from chance* under any aggregate-statistics test current or foreseeable instruments could run" — with no `unconditioned` qualifier — and then claimed this was "the same indistinguishability registered under Minimal Quantum Interaction above". L75 and L81 (repaired 2026-08-27) scope indistinguishability to the *unconditioned* register precisely so Tenet 2 stays falsifiable: a deviation *conditioned* on intention, task or subject is the live test P-Q3 and horn (a) of `apex/born-preserving-causal-efficacy` reserve. A conditioned test *is* an aggregate-statistics test, so L107 restored the exact over-concession L75 was written to remove, while the "the same indistinguishability" cross-reference made the miscalibration read as inherited rather than asserted — which is why review had ratified it.
+- **Changes**: (1) L107 "under any aggregate-statistics test" → "under any *unconditioned aggregate* test", matching L75's wording; (2) added the conditioned-deviation carve-out with its P-Q3 citation, as L75 does; (3) "the same indistinguishability" → "the same *scoped* indistinguishability", so the inheritance is stated rather than merely asserted; (4) dropped the trailing "and so leaves no statistical trace" — a redundant restatement that carried the same unqualified over-claim.
+- **Not changed**: L75 and L81 left untouched (they carry the correct, deliberately-installed calibration). The L101 "refutes epiphenomenalism" standard and the Tenet 3 `^tenet-3-standing` anchor were not touched — the diff is one body line plus `ai_modified`.
+- **Length**: 6789 → 6797 words (+8, +0.1%); `critical` band is the steady state for this file, not licence to grow it.
+- **Downstream echoes found, NOT swept** (reported for separate minting; a sweep here would strand dependents): `concepts/von-neumann-wigner-interpretation` L102 (near-verbatim clone of the pre-fix sentence, universal quantifier inside the italic span); `topics/reconsolidation-as-selection-window` L63 (unqualified form, attributed to "the apex ledger states exactly"); `apex/born-preserving-causal-efficacy` L75 (unqualified, and this is the apex whose horn (a) *is* the conditioned test); `concepts/causal-consistency-constraint` L73 (weaker — "not on any measurement that could distinguish…"); `apex/self-concealing-interface` L77 (presents `"with current and foreseeable instruments the mechanism is *empirically indistinguishable from chance*"` as a direct quotation of the tenets page — that string is absent from tenets.md and was absent before this edit; the same file's L89 states the correctly scoped version). `topics/born-rule-and-the-consciousness-interface` L207 ("no signature at any sensitivity") is already listed in the same review.
+- **Published**: yes
+
 ## 12:58 - tune-system
 - **Status**: Success (no Tier 1 changes)
 - **Sessions analyzed**: session_count 19937; window 2026-08-26T19:56 -> 2026-09-04T12:52 (8.7 days)
