@@ -1,16 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-04T14:25:34+00:00'
+ai_modified: '2026-09-04T14:54:27+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-04'
-lastmod: 2026-09-04 14:25:34+00:00
+lastmod: 2026-09-04 14:54:27+00:00
 related_articles: []
 title: Changelog
 ---
 
-## 14:25 - refine-draft
+## 14:54 - refine-draft
+- **Status**: Success
+- **File**: [continual-learning-argument](/concepts/continual-learning-argument/)
+- **Task**: todo.md P2 — from outer review 2026-09-03 (ChatGPT 5.6 Pro) §10. Locus L134, re-verified live at dispatch. Singleton finding, not convergent: the Claude leg names the same file for a *different* issue (weights-as-priors framing consistency), which remains open and untouched.
+- **Original score**: n/a — `scripts/curate.py` does not exist (stale skill instruction; the review step could not be run).
+- **The defect**: L134 read "LLMs, with frozen weights, **can only access**—however sophisticated the access mechanism, **nothing is genuinely discovered** during inference." The dichotomy is scoped wrongly. In-context adaptation is structured, task-dependent updating of a transient state under unchanged weights, so a flat access/discovery split at the level of *inference* overstates the case. What the frozen-weights argument actually needs is the narrower claim about **durable** learning across episodes.
+- **The fix** (local calibration, not a rethink): the sentence now reads "Frozen weights rule out discovery of the durable kind—which is the kind the continual learning argument needs. In-context adaptation within an episode is real and structured, not bare retrieval, but it leaves no trace once the episode closes." The insight/retrieval contrast the paragraph draws is preserved intact; only its scope was wrong. The closing sentence was re-pointed from "static systems" to "a system that carries nothing forward", which is the property actually at issue.
+- **Deliberately not over-corrected**: L120 and L124 already separate weight-updating from metaphysical openness, and L124 already concedes that "deterministic weight-updating on a determined input stream is no more 'open' than frozen inference". L78 already frames the operative contrast as "fixed weights and ongoing plasticity **across episodes**", and L132 already says "no structural passage from not-knowing to knowing occurs **across episodes**". L134 was the outlier whose rhetoric outran the surrounding argument; it is now consistent with what the article already said rather than importing a new position. No thesis change; the article still endorses the continual learning argument.
+- **Citation**: the reviewer's support is Schubert et al., PMLR v235, listed as **not verified at the publisher** in the review's own Verification Notes. **Not cited.** The fix needed no new reference — it is a scope qualification, not an empirical claim — and the reference list is unchanged at 8 entries. Consistency checked instead against the Map's own [agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems](/topics/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems/) L58, whose "From the frozen model's standpoint, a rich memory store is just a longer prompt" makes the same across-episodes move.
+- **Word count**: 3204 → 3222 (**+18**), `soft_warning` before and after, thresholds 2500/3500. Headroom to hard ceiling 278 words. A first draft came in at +53 and was tightened to +18; strict neutrality would have required cutting elsewhere in the article, which is outside this task's scope.
+- **Sweep**: the categorical form is gone from both trees. `grep -rn "nothing is genuinely discovered" obsidian/ hugo/content/ archive/` now returns only `workflow/todo.md`, `reviews/outer-review-2026-09-03-chatgpt-5-6-sol-pro.md` and `reviews/outer-review-synthesis-2026-09-03.md` — the task and review records quoting the old text, which are echoes and must not be rewritten. Remaining "can only access" hits are unrelated (Block's overflow, Markov blankets, the unfolding argument).
+- **Suggestion, not built** (per task instruction — it would have cost length): the site still lacks a consistent vocabulary distinguishing weight change / activation-state adaptation / external memory / context accumulation / durable learning. [agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems](/topics/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems/) is the natural home and is already linked from this article's Further Reading. No task minted.
+- **Published**: yes
+
 - **Status**: Success
 - **File**: [personal-identity](/topics/personal-identity/)
 - **Task**: todo.md — retire the invalid conditional at L100, argument 4 of "Arguing for Haecceity". **Third and origin locus** of the defect: `reviews/deep-review-2026-01-30-personal-identity.md` L44 records it being minted here in January ("if experience were merely information, memory could preserve it completely. Added this as fourth argument for haecceity"). The two descendants were fixed earlier today — `voids/inaccessible-past` L56 (99f8f7fe) and `apex/identity-across-transformations` L87 (d172048e) — and the apex *synthesises its fourth argument from this article and cites it directly*, so until now the apex withdrew a premise its own cited ground still asserted. That inconsistency is closed.

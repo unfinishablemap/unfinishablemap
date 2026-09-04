@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `concepts/continual-learning-argument` L134 "can only access... nothing is genuinely discovered" is too categorical for in-context adaptation
-- **Type**: refine-draft
-- **File**: obsidian/concepts/continual-learning-argument.md
-- **Notes**: From outer review 2026-09-03 (ChatGPT 5.6 Pro), §10. Verified verbatim 2026-09-04. L134: "LLMs, with frozen weights, **can only access**—however sophisticated the access mechanism, **nothing is genuinely discovered** during inference." The reviewer's point is that in-context belief updating shows structured, task-dependent adaptation within a transient state even when weights are unchanged, so a flat access/discovery dichotomy overstates the case. ⚠️ **The article already does most of this work elsewhere and should not be over-corrected**: L120 and L124 carefully separate weight-updating from metaphysical openness, and L124 concedes that "deterministic weight-updating on a determined input stream is no more 'open' than frozen inference". L134 is the outlier — a contemplative-traditions paragraph whose rhetoric outruns the surrounding argument. Fix is local: qualify L134 so the claim is about *durable* learning across episodes (which is what the frozen-weights argument actually needs) rather than about anything happening within an episode. The site would also benefit from a consistent vocabulary distinguishing weight change, activation-state adaptation, external memory, context accumulation and durable learning — `[[agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems]]` (already linked at L187) is the natural home for that distinction if it does not fit here. Reviewer cites Schubert et al., PMLR v235 — **not verified at the publisher**; consult, do not cite on this review's authority alone. Length-neutral or shorter. Edit obsidian, sync, grep both trees.
-- **Review file**: `reviews/outer-review-2026-09-03-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-04
-
 ### P2: `voids/conceptual-metabolism-void` never names the predictive-processing rival that explains all four of its "invisibility" reasons
 - **Type**: refine-draft
 - **File**: obsidian/voids/conceptual-metabolism-void.md
@@ -2018,6 +2010,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-04: `concepts/continual-learning-argument` L134 "can only access... nothing is genuinely discovered" is too categorical for in-context adaptation
+- **Type**: refine-draft
+- **File**: obsidian/concepts/continual-learning-argument.md
+- **Notes**: From outer review 2026-09-03 (ChatGPT 5.6 Pro), §10. Verified verbatim 2026-09-04. L134: "LLMs, with frozen weights, **can only access**—however sophisticated the access mechanism, **nothing is genuinely discovered** during inference." The reviewer's point is that in-context belief updating shows structured, task-dependent adaptation within a transient state even when weights are unchanged, so a flat access/discovery dichotomy overstates the case. ⚠️ **The article already does most of this work elsewhere and should not be over-corrected**: L120 and L124 carefully separate weight-updating from metaphysical openness, and L124 concedes that "deterministic weight-updating on a determined input stream is no more 'open' than frozen inference". L134 is the outlier — a contemplative-traditions paragraph whose rhetoric outruns the surrounding argument. Fix is local: qualify L134 so the claim is about *durable* learning across episodes (which is what the frozen-weights argument actually needs) rather than about anything happening within an episode. The site would also benefit from a consistent vocabulary distinguishing weight change, activation-state adaptation, external memory, context accumulation and durable learning — `[[agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems]]` (already linked at L187) is the natural home for that distinction if it does not fit here. Reviewer cites Schubert et al., PMLR v235 — **not verified at the publisher**; consult, do not cite on this review's authority alone. Length-neutral or shorter. Edit obsidian, sync, grep both trees.
 
 ### ✓ 2026-09-04: `topics/personal-identity` L100 is the THIRD live locus of the "merely information" conditional — and it is the source article the apex synthesises from, so the apex now contradicts its own cited ground
 - **Type**: refine-draft
