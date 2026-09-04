@@ -4,7 +4,7 @@ description: "Human+AI exploration of why understanding makes the naive standpoi
 created: 2026-04-06
 modified: 2026-09-04
 human_modified:
-ai_modified: 2026-09-04T10:30:09+00:00
+ai_modified: 2026-09-04T15:39:45+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -26,6 +26,7 @@ related_articles:
   - "[[inaccessible-past]]"
   - "[[counterfactual-void]]"
   - "[[continual-learning-argument]]"
+  - "[[predictive-processing-and-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5
@@ -73,6 +74,8 @@ Nothing announces the change of standpoint, and four features of the transition 
 **No contrast available.** Noticing the change would require occupying both standpoints at once, which nobody has managed to do.
 
 The closest we come to perceiving the void is the frustration of teaching: the effort of reconstructing a naive perspective for someone who still occupies it is the trace of the change.
+
+All four have a physicalist explanation that owes nothing to a void. [[predictive-processing-and-dualism|Predictive processing]] reads comprehension as revision of a hierarchical generative model: updating is continuous, so there is no moment to feel; free-energy reduction *is* the coherence gain; the rewritten priors are the only ones available for reconstructing what one would have predicted; and no single model can run both prior sets at once. The Map concedes the prediction and adopts the reply it makes to that framework elsewhere: strong exactly where the two agree, these being access conditions described computationally, and unsupported at the step from that machinery to felt experience — the step on which qualitative reinstatement turns.
 
 ## Distinguishing the Void
 

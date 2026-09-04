@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-04T15:28:50+00:00'
+ai_modified: '2026-09-04T15:39:45+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 15:39 - refine-draft
+- **Status**: Success
+- **File**: [[voids/conceptual-metabolism-void]]
+- **Task**: todo.md P2 — from [[reviews/outer-review-2026-09-03-claude-opus-5]] §2.4 and fix 2, the finding the reviewer conditioned its verdict on ("without this the article should be demoted to coherence-only").
+- **Original score**: n/a — `scripts/curate.py review` does not exist (stale skill instruction). The outer review supplied the equivalent.
+- **Gap re-verified before editing**: `grep -i "predictive|active inference|Friston|Laukkonen"` over `obsidian/voids/conceptual-metabolism-void.md` returned **0**, and the file carried no link to `[[predictive-processing-and-dualism]]`. The article-level omission was real.
+- **Change**: one paragraph (111 words) added at the end of *Why the Void Is Invisible*. It names predictive processing as the rival, concedes it predicts all four invisibility features, and inherits the calibrated reply the Map already makes at [[predictive-processing-and-dualism]] — strong exactly where the two agree (these are access conditions described computationally), unsupported at the step from that machinery to felt experience, which is the step qualitative reinstatement turns on. `[[predictive-processing-and-dualism]]` also added to `related_articles`.
+- **Mapped to the article's own four bullets, not the reviewer's list.** The review named "irreversibility, improvement masquerade, no moment of loss, retention-with-suppression"; the section's actual four are *no moment of loss*, *improvement masquerade*, *retroactive rewriting*, *no contrast available*. The concession answers the four that are there — continuous updating for no-moment-of-loss, free-energy reduction for the masquerade, rewritten-priors-are-the-only-ones-available for retroactive rewriting, and no-single-model-runs-both-prior-sets for no-contrast-available. Transcribing the reviewer's list would have conceded two features the section does not claim and left two it does.
+- **No new citations minted**, per the task budget: the paragraph cites the Map article and lets it carry Laukkonen, Friston & Chandaria 2025 (already in that article's reference list with its DOI). Reference list here unchanged at 14.
+- **Engagement classification** (editor-internal; no labels in the body): predictive processing / active inference — **Mode Two**, unsupported foundational move. The framework's own standard is mechanistic explanation of the dynamics; it earns the four invisibility features on that standard and then helps itself to the step from generative-model revision to felt experience without specifying the bridge. The concession is genuine — the four features are granted to the rival without residue — and the residue the void retains is confined to qualitative reinstatement.
+- **Word count**: `analyze_length` **2590 → 2701 (+111)**, `soft_warning` at both ends, thresholds 2000/3000, **299 words of headroom to the hard ceiling**. Within the ≤120-word budget the queue reserved. Nothing was left out: the concession covers all four features and the reply.
+- **Site-wide framing declined.** The reviewer's §2.4 claim that the blind spot is "systemic" and that "no reviewer in the loop is positioned to notice its absence" is false at site level — `topics/predictive-processing-and-dualism` engages Laukkonen, Friston & Chandaria 2025 across two paragraphs at framework strength, naming it "the strongest physicalist alternative the Map currently faces". Third recorded instance of this reviewer family asserting the same false absence about the same paper. Neither the generalisation nor the "name-the-framework-rival gate" inference resting on it was imported into the article.
+- **Today's four prior settlements on this file left untouched**, confirmed by diff: the five-way distinction and modal calibration, the trigger/aftermath tempo boundary with `mutation-void`, the occluded-vs-`inaccessible-past` cell split, and the conceptual-change spine refresh. `git diff` is 4 insertions / 1 deletion — the deletion is the `ai_modified` bump.
+- **Verification**: `scripts/sync.py` run; the wikilink converts to `/topics/predictive-processing-and-dualism/` in `hugo/content/voids/conceptual-metabolism-void.md` and `hugo/content/topics/predictive-processing-and-dualism.md` exists. Slug is corpus-unique (no duplicate basenames in `obsidian/`), so the bare form is unambiguous. No push-blocker.
+- **Published**: yes
 
 ## 15:28 - refine-draft
 - **Status**: Success

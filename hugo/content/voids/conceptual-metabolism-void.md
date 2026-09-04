@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-09-04 10:30:09+00:00
+ai_modified: 2026-09-04 15:39:45+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 14:00:37+00:00
-lastmod: 2026-09-04 10:30:09+00:00
+lastmod: 2026-09-04 15:39:45+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -31,6 +31,7 @@ related_articles:
 - '[[inaccessible-past]]'
 - '[[counterfactual-void]]'
 - '[[continual-learning-argument]]'
+- '[[predictive-processing-and-dualism]]'
 title: The Conceptual Metabolism Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -76,6 +77,8 @@ Nothing announces the change of standpoint, and four features of the transition 
 **No contrast available.** Noticing the change would require occupying both standpoints at once, which nobody has managed to do.
 
 The closest we come to perceiving the void is the frustration of teaching: the effort of reconstructing a naive perspective for someone who still occupies it is the trace of the change.
+
+All four have a physicalist explanation that owes nothing to a void. [Predictive processing](/topics/predictive-processing-and-dualism/) reads comprehension as revision of a hierarchical generative model: updating is continuous, so there is no moment to feel; free-energy reduction *is* the coherence gain; the rewritten priors are the only ones available for reconstructing what one would have predicted; and no single model can run both prior sets at once. The Map concedes the prediction and adopts the reply it makes to that framework elsewhere: strong exactly where the two agree, these being access conditions described computationally, and unsupported at the step from that machinery to felt experience — the step on which qualitative reinstatement turns.
 
 ## Distinguishing the Void
 
