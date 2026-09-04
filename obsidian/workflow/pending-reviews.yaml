@@ -176,3 +176,35 @@
   subject_articles:
   - positions/value-in-selection.md
   subject_source: fallback:recent-aged
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a9a59d7-bb20-83eb-b663-6958b75dd230
+  commissioned_at: '2026-09-04T05:40:54.743494+00:00'
+  prompt_summary: Referee audit of positions/value-in-selection
+  target_filename: outer-review-2026-09-04-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please act as a rigorous external referee for The Unfinishable Map
+    (https://unfinishablemap.org), a philosophical site defending interactionist dualism
+    with minimal quantum interaction. This cycle''s subject is the positions-register
+    entry at https://unfinishablemap.org/positions/value-in-selection/, which records
+    the Map''s stance on the value-blind / value-sensitive fork: whether felt valence
+    does selective work or merely accompanies selection. Audit it: (1) verify its
+    empirical claims and citations against primary sources - reward prediction error,
+    wanting/liking dissociation, affective forecasting, pain asymbolia, interoception
+    - flagging misattributed, outdated or fabricated references; (2) test whether
+    each position''s stated confidence band is earned by the evidence cited, and whether
+    the entry''s own inherited "mechanism debt" disclaimer is honoured consistently
+    or quietly relaxed elsewhere in the text; (3) name competing frameworks and counterarguments
+    it never engages; (4) identify significant 2020s literature it misses. Assess
+    the philosophical content, not the site''s automation or governance. Recent site
+    changes are logged at https://unfinishablemap.org/workflow/changelog/ - consult
+    live pages directly, since search indexes lag 24-48 hours. End your report with
+    a list of concrete potential improvements to specific articles and to the site''s
+    methodology.'
+  subject_type: recent
+  subject_title: Audit value-in-selection
+  subject_articles:
+  - positions/value-in-selection.md
+  subject_source: reuse:pending-reviews:outer-review-2026-09-04-gemini-2-5-pro.md
