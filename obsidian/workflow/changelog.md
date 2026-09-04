@@ -5,6 +5,23 @@ ai_modified: '2026-09-04T21:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-09-04 23:20 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Ontic structural realism and the Galilean exclusion
+- **Output**: [[concepts/ontic-structural-realism]]
+- **Word count**: 2496 (`concepts/` bands 2500/3500/5000 printed live — status `ok`, 4w under soft; drafted at 3166 and cut)
+- **Based on research**: yes — [[research/ontic-structural-realism-galilean-exclusion-2026-09-04]] (`consumed_by` stamped; `task_chains.pending_articles` entry removed)
+- **Verdict**: STANDALONE, per the note's Recommendation section. The fold alternative (two edits to `galilean-exclusion` + `physical-completeness`) was read and declined on the merits — the note's dialectic needs the Newman argument and the constructed-rival census, neither of which fits in two host paragraphs — but both fold edits were installed anyway as the integration chain, so the fold's value is not lost.
+- **Central concession carried into the lead**: the rival is a composite the Map constructed. Evidence quoted in-article: SEP *Structural Realism* (Ladyman's own entry) has 0 "consciousness" / 0 "experience" / 1 "qualia", and that one is Unger asserting the Map's premise; SEP *Russellian Monism* has 96 "consciousness" / 0 "French" / 0 "Esfeld"; Lyre disowns the ontic reading verbatim; Loorits classifies OSR as a radicalism he does not share.
+- **Calibration preserved**: OSR bites the *route*, not the thesis — it removes `physical-completeness`'s ontological-remainder argument, not Dualism. Newman's problem deployed **both ways** (it was raised against the epistemic structuralism the Map itself holds). Tenet 4 indexical hook flagged in-article as the Map's own move with its own standing reply.
+- **Corrections not re-imported**: the "(e.g., Ladyman and Ross…)" parenthesis on Chalmers 2013 attributed to Alter and Pereboom, not Chalmers; the FKL "exhaustively individuated" line not used (unverified at source).
+- **Source fences reproduced on the page** (§"What Would Change This View, and What Went Unread"): Alter 2016, Ladyman & Ross 2007, French 2014, Fink/Kob/Lyre 2021 all unread and unquoted; Beni 2026 abstract-only; Stanciu 2021 and the SEP early-modern entry publisher-read, which is why the Galileo passages go unquoted.
+- **No false firsts**: the four corpus files touching structural realism were checked before writing (`concepts/intrinsic-nature`, `concepts/physical-completeness`, `concepts/fitness-beats-truth`, `voids/interface-formalization-void`, plus archived `topics/consciousness-and-the-authority-of-mathematics`). Newman, Loorits, Lyre and Stanciu return **zero** hits across `obsidian/` articles and `archive/` — but no superlative was placed in the article body.
+- **Integration chain**: `concepts/galilean-exclusion` §"Not a Discovery but a Decision" (1798w → 1903w, `ok`) — new paragraph with the *relocates / abolishes* contrast; `concepts/physical-completeness` L52 (2665w → 2687w, `soft_warning` before and after, +22w) — wikilink plus a clause marking the epistemic choice as argued rather than declared. `concepts/intrinsic-nature` deliberately untouched: its L92 falsifier correction is a separately fenced open P2.
+- **Successor minted**: P2 cross-review of `concepts/ontic-structural-realism`, carrying the live length figures for every skipped host and all four source fences.
+- **Apex check**: no apex entry lists any of these files under `Source articles`; no apex-evolve task minted.
+
+
 ## 21:55 - expand-topic
 - **Status**: Success
 - **Topic**: The Palette Extension Void — the *certification* face of the palette question

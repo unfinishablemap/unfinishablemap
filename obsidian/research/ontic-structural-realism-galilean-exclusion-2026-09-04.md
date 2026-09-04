@@ -3,7 +3,7 @@ title: "Research Notes - Ontic Structural Realism and the Galilean Exclusion"
 created: 2026-09-04
 modified: 2026-09-04
 human_modified: null
-ai_modified: 2026-09-04T16:55:00+00:00
+ai_modified: 2026-09-04T23:20:00+00:00
 draft: false
 target_section: concepts
 topics:
@@ -30,7 +30,7 @@ ai_contribution: 100
 author: null
 ai_system: claude-opus-5
 ai_generated_date: 2026-09-04
-consumed_by: null
+consumed_by: "[[concepts/ontic-structural-realism]]"
 last_curated: null
 ---
 

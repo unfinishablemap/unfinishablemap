@@ -4,7 +4,7 @@ description: "Physics is structurally complete—it captures every relation and 
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-08-04T00:56:48+00:00
+ai_modified: 2026-09-04T23:12:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -49,7 +49,7 @@ These three may turn out to be coextensive, but that they coincide is a substant
 
 ### The Relational Character and Its Contested Reading
 
-Russell's insight has been developed by structural realists into a general thesis about the limits of physical knowledge. Ontic structural realism (Ladyman, French) holds that structure is all there is — relations without relata. Epistemic structural realism (Worrall) holds that structure is all we can *know*, while something more exists beneath it. The Map sides with the epistemic camp but goes further: the "something more" is not hidden physical substance but consciousness — the [[intrinsic-nature-void|intrinsic nature]] that structure alone cannot capture. [[russellian-monism|Russellian monism]] draws a different conclusion from the same premise — that consciousness *is* the intrinsic nature of physical entities — but the Map holds that consciousness is ontologically distinct from structure and interacts with it at quantum indeterminacies.
+Russell's insight has been developed by structural realists into a general thesis about the limits of physical knowledge. [[ontic-structural-realism|Ontic structural realism]] (Ladyman, French) holds that structure is all there is — relations without relata, which if true would dissolve the ontological remainder this article argues for. Epistemic structural realism (Worrall) holds that structure is all we can *know*, while something more exists beneath it. The Map sides with the epistemic camp — a choice argued rather than declared on the [[ontic-structural-realism|ontic structural realism]] page — but goes further: the "something more" is not hidden physical substance but consciousness — the [[intrinsic-nature-void|intrinsic nature]] that structure alone cannot capture. [[russellian-monism|Russellian monism]] draws a different conclusion from the same premise — that consciousness *is* the intrinsic nature of physical entities — but the Map holds that consciousness is ontologically distinct from structure and interacts with it at quantum indeterminacies.
 
 Physical theories are constructed from measurement outcomes, symmetry principles, and mathematical constraints. Every term in a physical equation refers to a quantity by its relations to other quantities: mass by its gravitational and inertial behaviour, charge by its electromagnetic interactions. The Map's reading is that no physical quantity is *defined* by what it intrinsically is — only by what it does relationally.
 

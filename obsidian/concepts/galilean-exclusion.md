@@ -4,7 +4,7 @@ description: "Galileo's founding methodological move excluded subjective experie
 created: 2026-02-16
 modified: 2026-02-16
 human_modified:
-ai_modified: 2026-06-01T09:58:19+00:00
+ai_modified: 2026-09-04T23:12:31+00:00
 last_deep_review: 2026-07-06T23:20:50+00:00
 draft: false
 topics:
@@ -68,6 +68,8 @@ Whitehead identified the same structural problem from a different angle, naming 
 A crucial distinction: Galileo did not *discover* that secondary qualities are unreal. He *decided* to exclude them from physics and found that physics worked magnificently without them. This tells us that mathematical physics can describe physical structure while ignoring consciousness. It does not tell us that consciousness is nothing beyond physical structure.
 
 The confusion between methodological exclusion and metaphysical absence underlies much of the consciousness debate. When materialists argue that everything real is physical, they often implicitly rely on the Galilean exclusion: if physics has never needed subjective qualities to explain anything, then subjective qualities must not be fundamental features of reality. But this reasoning is circular. Physics never needed subjective qualities because it was *designed* not to need them. The absence of consciousness from physical description reflects a methodological choice, not an empirical finding.
+
+A third position accepts the exclusion and denies there was ever a residue to exclude. [[ontic-structural-realism|Ontic structural realism]] holds that relational structure is what fundamentally exists, so the mathematical skeleton is reality itself rather than a filtered view of it. The contrast with Galileo is sharper than it first appears: on the reading that places secondary qualities inside sentient bodies rather than in the objects causing them, Galileo *relocates* the residue where structural realism *abolishes* it. The circularity charge above does not reach a position that denies the remainder was ever a datum, so the argument against it has to be made on other ground.
 
 This point cuts against both extreme positions. It tells the materialist that the absence of consciousness from physics does not prove consciousness is physical. It tells the mysterian that the difficulty of explaining consciousness scientifically may reflect the method's structure rather than any intrinsic ineffability of the phenomenon.
 

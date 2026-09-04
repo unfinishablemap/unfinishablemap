@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-06-01 09:58:19+00:00
+ai_modified: 2026-09-04 23:12:31+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 23:20:50+00:00
-lastmod: 2026-06-01 09:58:19+00:00
+lastmod: 2026-09-04 23:12:31+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
@@ -72,6 +72,8 @@ Whitehead identified the same structural problem from a different angle, naming 
 A crucial distinction: Galileo did not *discover* that secondary qualities are unreal. He *decided* to exclude them from physics and found that physics worked magnificently without them. This tells us that mathematical physics can describe physical structure while ignoring consciousness. It does not tell us that consciousness is nothing beyond physical structure.
 
 The confusion between methodological exclusion and metaphysical absence underlies much of the consciousness debate. When materialists argue that everything real is physical, they often implicitly rely on the Galilean exclusion: if physics has never needed subjective qualities to explain anything, then subjective qualities must not be fundamental features of reality. But this reasoning is circular. Physics never needed subjective qualities because it was *designed* not to need them. The absence of consciousness from physical description reflects a methodological choice, not an empirical finding.
+
+A third position accepts the exclusion and denies there was ever a residue to exclude. [Ontic structural realism](/concepts/ontic-structural-realism/) holds that relational structure is what fundamentally exists, so the mathematical skeleton is reality itself rather than a filtered view of it. The contrast with Galileo is sharper than it first appears: on the reading that places secondary qualities inside sentient bodies rather than in the objects causing them, Galileo *relocates* the residue where structural realism *abolishes* it. The circularity charge above does not reach a position that denies the remainder was ever a datum, so the argument against it has to be made on other ground.
 
 This point cuts against both extreme positions. It tells the materialist that the absence of consciousness from physics does not prove consciousness is physical. It tells the mysterian that the difficulty of explaining consciousness scientifically may reflect the method's structure rather than any intrinsic ineffability of the phenomenon.
 

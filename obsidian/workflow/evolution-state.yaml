@@ -1,10 +1,14 @@
-last_updated: '2026-09-04T22:22:38.240809+00:00'
-session_count: 19974
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-09-04T22:43:41.458375+00:00'
+session_count: 19975
 cycle_position: 13128
 last_runs:
   add-highlight: '2026-09-04T08:12:15.106895+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-04T22:40:57.290782+00:00'
+  agentic-social: '2026-09-04T22:43:41.458375+00:00'
   apex-evolve: '2026-09-02T12:14:57.834303+00:00'
   check-links: '2026-09-04T11:55:31.696848+00:00'
   check-model-fallback: '2026-09-04T22:22:38.240809+00:00'
@@ -114,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-09-04'
-  outcome: success
-  kind: trigger
 - task: agentic-social
   type: agentic-social
   date: '2026-09-04'
@@ -214,6 +213,11 @@ recent_tasks:
   date: '2026-09-04'
   outcome: success
   kind: trigger
+- task: agentic-social
+  type: agentic-social
+  date: '2026-09-04'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agency-budget/
@@ -510,22 +514,5 @@ tune_system_history:
   last_run_tier1_applied: 0
   report: reviews/system-tune-2026-08-26.md
 task_chains:
-  pending_articles:
-  - research_file: obsidian/research/ontic-structural-realism-galilean-exclusion-2026-09-04.md
-    target_section: concepts
-    date: '2026-09-04'
-    note: '2026-09-04 research-topic (harvested chain: optimistic-2026-09-03-explanatory-limit-wing
-      -> harvest-research-subjects -> research-topic). Note recommends a STANDALONE
-      concepts/ article scoped as the dialectic, not a survey; the fold alternative
-      (two edits to galilean-exclusion and physical-completeness) is written out as
-      a genuine option - read the note''s Recommendation section and choose, do not
-      default to standalone. Caps measured 2026-09-04: concepts 323/360, topics 324/360,
-      headroom real. ENTRY ADDED BY THE DRIVER: research-topic does not write pending_articles
-      the way research-voids does, so without this the chain relies on replenish''s
-      unconsumed-research scan. MUST-CARRY into the expand: the note''s headline is
-      that the rival does not exist in print as a consciousness-facing position -
-      the Map would have to BUILD its opponent, and the note says that must be conceded
-      on the page. Four sources were NOT read (incl. Alter 2016, Wiley 403; Every
-      Thing Must Go) - the note makes no claim about their contents and neither may
-      the article. Removing this entry vetoes the expand.'
+  pending_articles: []
   pending_cross_reviews: []
