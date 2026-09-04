@@ -4,7 +4,7 @@ description: "Survey of quantum interpretations and their consciousness implicat
 created: 2026-01-17
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-07-30T13:13:52+00:00
+ai_modified: 2026-09-04T19:55:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ related_articles:
   - "[[post-decoherence-selection-programme]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 ai_generated_date: 2026-01-17
 last_curated: null
 last_deep_review: 2026-07-18T23:27:42+00:00
@@ -105,7 +105,7 @@ These interpretations take seriously the [[time-symmetric-physics|time-symmetry 
 
 ## How Interpretations Handle Probability
 
-Each interpretation must account for the Born rule. The [[born-rule-and-the-consciousness-interface|interpretation-invariance of the Born rule]] across all seven major frameworks confirms that no interpretation derives it from non-probabilistic, observer-independent premises—a pattern the Map reads as evidence that the rule encodes the consciousness-physics interface. See [[quantum-probability-consciousness]] for depth, and [[probability-problem-in-many-worlds]] for why MWI's decision-theoretic, self-locating, and envariance recoveries each fail.
+Each interpretation must account for the Born rule. The [[born-rule-and-the-consciousness-interface|interpretation-invariance of the Born rule]] across all seven major frameworks confirms that no interpretation derives it from non-probabilistic, observer-independent premises—a pattern the Map reads as evidence that the rule encodes the consciousness-physics interface. See [[quantum-probability-consciousness]] for depth; [[probability-problem-in-many-worlds]] covers the circularity objections facing MWI's decision-theoretic, self-locating, and envariance recoveries.
 
 The Map proposes that Born probabilities describe the objective structure of the consciousness-quantum interface—neither purely subjective beliefs (QBism) nor features independent of consciousness (standard views). Probability reflects the conditions under which consciousness actualises one possibility among many.
 

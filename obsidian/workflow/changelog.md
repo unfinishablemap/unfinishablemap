@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-04T19:45:02+00:00'
+ai_modified: '2026-09-04T19:55:44+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 19:55 - refine-draft
+- **Status**: Success
+- **Task**: Envariance chain rider 4 — three flat circularity-verdict loci recast to the corpus's calibrated "contested, not refuted" register. **Three files, not two**; all three worked this pass.
+- **Register source**: `concepts/envariance` calibrated-adjudication paragraph — the critiques leave the derivation "contested rather than refuted", and flat verdicts *in either direction* ("proves circular" no less than "manifestly noncircular") overstate the state of play. The recasts keep the objections fully live; they only stop declaring them victorious.
+- **File**: [[topics/indexical-identity-quantum-measurement]] (L99) — "every major recovery strategy (decision-theoretic, self-locating uncertainty, envariance) **proves circular**" → "**where circularity objections leave every major recovery strategy** (decision-theoretic, self-locating uncertainty, `[[envariance]]`) **contested rather than refuted**". The objections are now the grammatical subject, so the critics carry the sentence rather than being demoted; `[[envariance]]` link added (the term was bare here) alongside the already-present `[[probability-problem-in-many-worlds]]`. The indexical-gap argument that follows survives unchanged — it explicitly proceeds "even setting the probability crisis aside". `analyze_length` **3296w → 3301w `soft_warning`** (+5; topics 3000/4000, 699w of hard-ceiling headroom).
+- **Second file**: [[concepts/quantum-interpretations]] (L108) — "for why MWI's decision-theoretic, self-locating, and envariance recoveries **each fail**" → "See … for depth**;** `[[probability-problem-in-many-worlds]]` **covers the circularity objections facing** MWI's decision-theoretic, self-locating, and envariance recoveries." Comma-and split into a semicolon to pay for the longer clause. `analyze_length` **2686w → 2686w `soft_warning`** (net **0**, meeting the net-non-positive constraint; concepts 2500/3500). The interpretation-invariance sentence before it untouched. **FENCE HELD**: L153's "MWI and Bohmian mechanics each fail" is the mental-pole/definiteness criterion — a different claim, verified present in both trees after the edit.
+- **Third file**: [[concepts/many-worlds]] (L102) — "Envariance derivations **assume** the connection between quantum states and probabilities that they claim to establish" (critics' charge stated as settled fact) → "**Critics charge that** envariance derivations assume the **state-probability connection** they claim to establish." Attributed, matching the paragraph's own calibrated lead ("None has succeeded without contested assumptions"). No links added — `[[envariance|environment-assisted invariance]]` already sits two sentences earlier in the same run. `analyze_length` **3501w → 3499w** (−2): this file was **exactly one word over** the 3500 hard threshold, so the recast moves it **`hard_warning` → `soft_warning`**, clearing the ceiling as a side effect. **FENCE HELD**: the open fourteen-locus Tenet 4 task owns L63/L82/L134 ("MWI cannot accommodate") — disjoint loci, untouched, and that task is **not** closed by this pass.
+- **Not touched (adjudicated NOT-loci)**: `apex/post-decoherence-selection-programme` L83/L87/L167 — reportage of Zurek's programme with the `[[envariance]]` link already correctly installed.
+- **Verification**: `scripts/sync.py` run; all three new strings present in **both** obsidian and hugo trees; all three old strings absent from both. The only surviving "proves circular" hits corpus-wide are `concepts/envariance` and its research note, where the phrase is *quoted in order to be rejected* — correct, left alone.
+- **Published**: yes
 
 ## 19:42 - refine-draft
 - **Status**: Success

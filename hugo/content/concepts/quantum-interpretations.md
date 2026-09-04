@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-07-30 13:13:52+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-09-04 19:55:44+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
 - '[[concepts/many-worlds]]'
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 23:27:42+00:00
-lastmod: 2026-07-30 13:13:52+00:00
+lastmod: 2026-09-04 19:55:44+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -108,7 +108,7 @@ These interpretations take seriously the [time-symmetry of fundamental physics](
 
 ## How Interpretations Handle Probability
 
-Each interpretation must account for the Born rule. The [interpretation-invariance of the Born rule](/topics/born-rule-and-the-consciousness-interface/) across all seven major frameworks confirms that no interpretation derives it from non-probabilistic, observer-independent premises—a pattern the Map reads as evidence that the rule encodes the consciousness-physics interface. See [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) for depth, and [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) for why MWI's decision-theoretic, self-locating, and envariance recoveries each fail.
+Each interpretation must account for the Born rule. The [interpretation-invariance of the Born rule](/topics/born-rule-and-the-consciousness-interface/) across all seven major frameworks confirms that no interpretation derives it from non-probabilistic, observer-independent premises—a pattern the Map reads as evidence that the rule encodes the consciousness-physics interface. See [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) for depth; [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) covers the circularity objections facing MWI's decision-theoretic, self-locating, and envariance recoveries.
 
 The Map proposes that Born probabilities describe the objective structure of the consciousness-quantum interface—neither purely subjective beliefs (QBism) nor features independent of consciousness (standard views). Probability reflects the conditions under which consciousness actualises one possibility among many.
 

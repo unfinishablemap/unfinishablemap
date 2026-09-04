@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-08-20 10:41:00+00:00
+ai_modified: 2026-09-04 19:55:44+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 17:12:22+00:00
-lastmod: 2026-08-20 10:41:00+00:00
+lastmod: 2026-09-04 19:55:44+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -99,7 +99,7 @@ Rovelli (1996) explicitly rejects reading his interpretation as consciousness-de
 
 Many-Worlds holds that every quantum measurement causes the universe to split into branches for each possible outcome. All branches are equally real. There is no collapse—the wave function evolves unitarily forever.
 
-**The indexical gap**: If all outcomes occur, probability seems meaningless—a crisis examined in detail in [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/), where every major recovery strategy (decision-theoretic, self-locating uncertainty, envariance) proves circular. But even setting the probability crisis aside, a separate problem remains. The response from many-worlds theorists involves self-locating uncertainty (Vaidman 1998): *before* the split, you don't know which branch you'll find yourself on *after*. Born probabilities describe the measure of branches where you observe spin-up versus spin-down.
+**The indexical gap**: If all outcomes occur, probability seems meaningless—a crisis examined in detail in [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/), where circularity objections leave every major recovery strategy (decision-theoretic, self-locating uncertainty, [envariance](/concepts/envariance/)) contested rather than refuted. But even setting the probability crisis aside, a separate problem remains. The response from many-worlds theorists involves self-locating uncertainty (Vaidman 1998): *before* the split, you don't know which branch you'll find yourself on *after*. Born probabilities describe the measure of branches where you observe spin-up versus spin-down.
 
 But as Albert argues, self-location claims are "irreducibly indexical." The fact that *I* find myself in this branch cannot be reduced to third-person facts about which observer-copies have which properties. From the first-person perspective, it is inherently clear who "I" refers to—there is no need to find any objective difference between "me" and "the other copy" because "I" is primitively identified by the perspective centre. The indexical is given, not derived.
 
