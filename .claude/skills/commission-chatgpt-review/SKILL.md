@@ -107,39 +107,63 @@ that is *not* `[data-testid="composer-plus-btn"]`. Its text is the current effor
 page coords by `S`. Clicking unscaled page coords lands on the chat list underneath and
 navigates into an old conversation.
 
-Click the pill, then confirm via JS that `document.querySelectorAll('[role=menu]').length > 0`.
-The popover contains an effort **slider** and an **"Advanced"** row.
+Click the pill **with a real pointer event** (`computer` `left_click`), then confirm via JS
+that `document.querySelectorAll('[role=menu]').length > 0`. A JS `.click()` on the pill does
+**not** open the menu — Radix requires a genuine pointer event.
+
+The popover is now a **single flat menu** (see Step 4); the "Advanced" row is gone.
 
 ## Step 4: Configure model + Pro effort
 
-1. **Expand "Advanced"** — it is a `div[role="menuitem"]` with
-   `aria-label="Show advanced options"` and `aria-expanded="false"`. It is a view
-   toggle, **not** a Radix submenu: hover and ArrowRight do nothing. A plain
-   `adv.focus(); adv.click()` via `javascript_tool` works. Confirm `aria-expanded`
-   flips to `"true"` and the menu grows. Until it is expanded, the Model/Effort rows
-   exist in the DOM with plausible rects but are **not visible** — clicking their
-   coordinates hits the page behind the popover.
+> **UI redesign, observed 2026-09-04 — supersedes the 2026-08-24 flow below.** There is
+> **no "Advanced" row and no Model/Effort submenu rows** any more. Clicking the pill opens
+> one flat menu containing an effort slider plus the model options inline. Following the
+> old flow literally hits the "Advanced won't expand" bail-out and silently skips the
+> commission, so read this block first and treat the collapsed flow below as history.
 
-2. **Verify the model** — after expanding, a row reads `Model<name>` (e.g.
-   `ModelGPT-5.6 Sol`). Click it to open its submenu; options are the plain model
-   family (currently `GPT-5.6 Sol` ✓, `GPT-5.5`, `o3`). **There is no "Pro" model
-   here** — leave the newest (top, already `aria-checked="true"`) selected.
+**Current flow (2026-09-04).** The flat menu contains:
 
-3. **Set effort to Pro** — click the `Effort<level>` row. Its submenu lists
-   `Instant`, `Medium`, `High`, `Extra High`, `Pro`. Click **`Pro`** — this is what
-   the old "Pro model + Extended thinking" now means. Confirm the composer pill text
-   becomes `Pro`.
+- a `[role=slider]` with `aria-valuenow` / `aria-valuemin="0"` / `aria-valuemax="4"`,
+  announced as "Use Left and Right arrow keys to adjust power". Level `3` is
+  `Extra High`, level `4` is `Pro`.
+- two inline `[role=menuitemradio]` model options — currently `GPT-5.6 Sol` and
+  `GPT-5.5`. `o3` is gone. Leave the newest (already `aria-checked="true"`) selected.
 
-4. **Record the model slug** — combine model + effort:
-   `GPT-5.6 Sol` + `Pro` → `gpt-5-6-sol-pro`, giving
-   `outer-review-<date>-chatgpt-5-6-sol-pro.md`. Re-open the pill menu once and read
-   the `Model…` / `Effort…` row labels to confirm **both** stuck before submitting.
+Working sequence to reach Pro:
 
-5. **Close the popover** — press Escape (may need 2–3 presses for the nested menus),
-   then click the composer to focus it.
+1. Real click on the pill (`computer` `left_click`) to open the menu.
+2. `slider.focus()` via `javascript_tool`.
+3. One **`Right`** keypress via `computer`. The menu text becomes `Pro, 5 of 5`.
+   (From a different starting level, press `Right` until `aria-valuenow="4"`.)
+4. `Escape`, then confirm **the pill text reads `Pro`**.
 
-If the pill menu will not open at all, or the Effort submenu has no `Pro` option,
-**bail before submitting** per the failure table below.
+**Check the pill text, not `menusOpen`.** A detached `[role=menu]` node lingers in the
+DOM after Escape even though the popover is visually closed, so a "menu count is zero"
+check will read false-open forever. The pill text is the reliable signal.
+
+**Record the model slug** — combine model + effort: `GPT-5.6 Sol` + `Pro` →
+`gpt-5-6-sol-pro`, giving `outer-review-<date>-chatgpt-5-6-sol-pro.md`.
+
+Then click the composer to focus it.
+
+<details>
+<summary>Superseded 2026-08-24 flow (Advanced row + Model/Effort submenus) — kept for
+archaeology; do not follow unless the UI reverts</summary>
+
+1. **Expand "Advanced"** — a `div[role="menuitem"]` with
+   `aria-label="Show advanced options"` and `aria-expanded="false"`. A plain
+   `adv.focus(); adv.click()` via `javascript_tool` works.
+2. **Verify the model** — a row reads `Model<name>`; its submenu lists the model family.
+3. **Set effort to Pro** — click the `Effort<level>` row; its submenu lists `Instant`,
+   `Medium`, `High`, `Extra High`, `Pro`.
+4. **Record the model slug**, re-opening the pill menu to confirm both stuck.
+5. **Close the popover** with Escape (2–3 presses for the nested menus).
+
+</details>
+
+If the pill menu will not open at all, or the slider cannot be driven to
+`aria-valuenow="4"` / the pill will not read `Pro`, **bail before submitting** per the
+failure table below.
 
 If any of these steps fails (selector not found, expected text mismatch), **bail before submitting**. Take a screenshot and write a snapshot of the dialog's textContent to `tmp/commission-chatgpt-failure-<timestamp>.txt` so the operator can investigate. Never submit a half-configured review.
 
@@ -230,7 +254,7 @@ Exit. Total runtime budget: 5 minutes. If a step takes longer than expected, bai
 | Chrome MCP unavailable | tool call raises / "extension is not connected" | Emit `CHROME_UNAVAILABLE: chatgpt commission` and skip; no crash, no pending entry. |
 | Login expired | composer absent OR URL redirected to /auth/login | Emit `LOGIN_REQUIRED: chatgpt session expired` and stop. |
 | Composer pill menu won't open | no `[role=menu]` after clicking the pill | Dump DOM; bail; do not write pending entry. |
-| Effort submenu mismatch | "Advanced" won't expand OR Effort submenu has no `Pro` option | Dump DOM; bail; do not write pending entry. |
+| Effort control mismatch | pill menu won't open, OR the slider won't reach `aria-valuenow="4"` / the pill won't read `Pro` | Dump DOM; bail; do not write pending entry. Do NOT bail merely because there is no "Advanced" row — it was removed 2026-09-04. |
 | Submission silent failure | no `/c/<id>` URL after 5 s | Bail; do not write pending entry. |
 
 **Critical invariant**: a pending-reviews entry is written ONLY after a conversation URL has been captured. A dangling entry pointing at a half-configured chat is worse than no entry.
