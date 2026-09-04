@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-04T14:54:27+00:00'
+ai_modified: '2026-09-04T15:10:56+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-04'
-lastmod: 2026-09-04 14:54:27+00:00
+lastmod: 2026-09-04 15:10:56+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 15:10 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `voids/tenet-generated-voids.md` (2069 words; oldest live article never given a dedicated pessimistic review, 685 candidates screened). Nine prior deep reviews, most recent 2026-06-25, found zero issues and declared it converged.
+- **Headline**: the article is a **stranded dependent**. Its body is unchanged since 2026-05-26 while `tenets/tenets.md` moved 18+ times, `tenets/background-commitments.md` was created, and [P-Q3](/positions/quantum-interface/#p-q3) was re-rated on 2026-08-24. Three High-severity findings, all grep-verified in both trees: (1) the Detection Void concedes flat, unqualified undetectability ("real and undetectable", "empirically silent") that `tenets.md` was explicitly repaired to remove in commit `cb47816154` — that commit touched `tenets.md` only, stranding this file; the register now rates [P-Q3](/positions/quantum-interface/#p-q3)'s discriminability `indirect`, and `apex/judging-the-map-as-science` L143 says the effects are "in principle detectable on minimum-outside-corridor readings". An **over-concession running against the Map**, ratified nine times. (2) The Mechanism Void names only Orch OR and Stapp-Zeno — both demoted per [P-Q4](/positions/quantum-interface/#p-q4) — while `post-decoherence` appears zero times, though `tenets.md` calls post-decoherence selection "the strongest path the Map currently endorses". (3) The one-void-per-tenet spine counts five where `tenets/background-commitments.md` L36 says "'Five *stated* commitments' is precise; 'five *independent* commitments' is not", and where `apex/taxonomy-of-voids` L171 — the sentence citing this article — already carries the calibrated form. Both citing pages calibrated; the cited article did not.
+- **Also found**: Medium — the Selection Void omits the Tenet 4 presupposition concession `tenets.md` L121 now makes (non-deflationary personal identity as a posit; Madhyamaka as bedrock disagreement); the Completeness Void's "the framework cannot specify its own boundaries" is now partly falsified by `background-commitments.md`; the "Inoculation against criticism" heading advertises the immunising function the article's own Epistemic Privilege Void worries about. Low — four "not X but Y" constructions against CLAUDE.md's cliché rule.
+- **Checks passed**: altered-state symmetry audit not applicable (supportive-cluster gate fails); no reasoning-mode label leakage; no epistemic/metaphysical equivocation; all five `[[tenets#^…]]` anchors, both heading anchors and all twelve Further Reading targets resolve; citations unchanged since the 2026-06-25 publisher verification.
+- **Record correction**: `deep-review-2026-06-25-tenet-generated-voids.md` asserts `[[apophatic-approaches]]` resolves to the archive copy and calls it archival link rot. It does not — `obsidian/concepts/apophatic-approaches.md` is live and Hugo renders `/concepts/apophatic-approaches/`. The slug is ambiguous but the link is correct; do not "fix" it.
+- **Method note**: the 2026-06-25 no-issues verdict was correct against dependencies as they then stood. Convergence damping on this article should key on upstream mtimes (`tenets/`, `positions/quantum-interface.md`, `apex/taxonomy-of-voids.md`), not on the article's own stability.
+- **Tasks minted**: 1 (P2 refine-draft covering all six items). A sibling P3 on the same file for the empty `topics: []` defect was already open and is noted for co-execution, not duplicated.
+- **Output**: [pessimistic-2026-09-04-tenet-generated-voids](/reviews/pessimistic-2026-09-04-tenet-generated-voids/)
+- **Content modified**: no (reports-only skill; report + todo.md + changelog only)
 
 ## 14:54 - refine-draft
 - **Status**: Success
