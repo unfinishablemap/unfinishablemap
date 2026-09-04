@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-05
-ai_modified: 2026-05-31 00:00:00+00:00
+ai_modified: 2026-09-04 16:42:00+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -14,7 +14,7 @@ concepts:
 - '[[introspection]]'
 - '[[dualism]]'
 created: 2026-02-24
-date: &id001 2026-04-23
+date: &id001 2026-09-04
 description: Consciousness stamps all experience—whether of present objects or absent
   ones—with immediacy, realness, and felt character. The mechanism producing this
   phenomenal quality operates identically whether there is a stimulus or not, and
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 10:37:04+00:00
-lastmod: 2026-05-31 00:00:00+00:00
+lastmod: 2026-09-04 16:42:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -74,7 +74,7 @@ Presence and absence reveal a single underlying process. Consciousness generates
 
 Metzinger's account of phenomenal transparency explains the concealment: a transparent representation "cannot be experienced as a representation"—the subject looks right through it (*Being No One*, 2003). Phenomenal quality is transparency's most fundamental instance. We do not experience our experience-of-realness as an experience—we experience realness directly.
 
-This generates a deeper problem than ordinary [introspective opacity](/voids/self-opacity/). With introspective opacity, we access mental contents but not the processes producing them. With phenomenal quality, the process *constitutes the condition for accessing anything at all*. The [conceptual-metabolism-void](/voids/conceptual-metabolism-void/) identifies a parallel: understanding irreversibly transforms concepts through comprehension. Phenomenal quality performs an analogous metabolism on raw experience — stamping it with immediacy and realness while consuming whatever was there before.
+This generates a deeper problem than ordinary [introspective opacity](/voids/self-opacity/). With introspective opacity, we access mental contents but not the processes producing them. With phenomenal quality, the process *constitutes the condition for accessing anything at all*. The [conceptual-metabolism-void](/voids/conceptual-metabolism-void/) identifies a parallel: understanding changes the knower's access conditions rather than destroying what was known. Phenomenal quality performs an analogous metabolism on raw experience — stamping it with immediacy and realness while barring access to whatever was there before.
 
 ### Neural Evidence
 
@@ -156,7 +156,7 @@ The phenomenal quality void thesis would require revision if: (1) techniques eme
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics cannot reach what matter is in itself
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What only consciousness can access
 - [constitutive-exclusion](/topics/constitutive-exclusion/) — Why consciousness cannot access reality independent of its own contribution
-- [conceptual-metabolism-void](/voids/conceptual-metabolism-void/) — How understanding irreversibly transforms concepts, paralleling phenomenal quality's transformation of raw experience
+- [conceptual-metabolism-void](/voids/conceptual-metabolism-void/) — How understanding changes the knower's access conditions, paralleling phenomenal quality's transformation of raw experience
 - [plenitude-void](/voids/plenitude-void/) — Whether experience overflows cognitive access, sharing the self-concealing architecture from the richness-vs.-report direction
 
 ## References

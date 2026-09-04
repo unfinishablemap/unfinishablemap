@@ -5,6 +5,20 @@ ai_modified: '2026-09-04T16:20:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 16:42 - refine-draft
+- **Status**: Success
+- **File**: [[voids/voids]]
+- **Also modified**: [[voids/phenomenal-quality-void]], [[project/coherence-inflation-countermeasures]]
+- **Task**: P2 — the 2026-08-27 consumption withdrawal never reached `voids/voids.md` or `phenomenal-quality-void`. Review file: `reviews/outer-review-2026-09-03-chatgpt-5-6-sol-pro.md`.
+- **Changes**: Three live loci propagated to the corrected access-change framing, transplanted from `conceptual-metabolism-void`'s own settled wording rather than newly invented.
+  - `voids/voids.md` L212 — **navigation surface**, the one-line section-index gloss a reader of `/voids/` meets before opening the article. It asserted the retracted consumption thesis on the article's behalf. Now: "How understanding occludes the naive standpoint, leaving the earlier representation suppressed rather than consumed" — carries the taxonomy cell (*occluded*) and the article's own section title ("Suppressed, Not Consumed").
+  - `voids/phenomenal-quality-void.md` L72 — body clause. "understanding irreversibly transforms concepts through comprehension … consuming whatever was there before" → "understanding changes the knower's access conditions rather than destroying what was known … barring access to whatever was there before". **The analogy is preserved, not weakened**: the parallel between conceptual metabolism and phenomenal quality is the paragraph's point and survives the correction intact; what changed is that the transformation is one of access conditions, matching the move the source article itself made.
+  - `voids/phenomenal-quality-void.md` L154 — Further Reading gloss, same substitution.
+- **Word count**: `voids.md` 5597 → 5602 (+5, `critical` unchanged — pre-existing, not touched by this pass); `phenomenal-quality-void.md` 2143 → 2153 (+10, `soft_warning` unchanged). Both length-neutral as required.
+- **⚠️ Correction to the record — and the task's own premise was wrong.** The task (and the changelog entries that minted it) asserted that `voids.md` "carries the claim in a one-line index gloss **with no backlink to enumerate**", so the 2026-09-04 remediation's link walk "could not reach it". Independently checked: that is false. The gloss *is* a wikilink, and enumerating every non-workflow file containing `[[conceptual-metabolism-void]]` returns exactly eight files — the same eight the remediation walked — and **both** residual files are among them. So the enumeration reached both; what failed was the per-file inspection, which cleared two files that were still carrying the thesis. `project/coherence-inflation-countermeasures.md` L612 was corrected to say that instead of the weaker and less useful "enumeration could not reach it": *reaching a file is not clearing it; a file is cleared when every sentence asserting the proposition has been read, glosses and Further Reading lines included*. Both missed loci were single lines — a gloss and a clause — which is where a reader scanning for paragraphs of argument stops looking. This is a strictly better lesson than the one the task proposed, and it leaves Countermeasure 12's link-enumeration method intact rather than wrongly impugning it.
+- **Verification**: `scripts/sync.py` clean; all four defect strings (`consumes concepts irreversibly`, `destroying their pre-understood`, `irreversibly transforms concepts`, `consuming whatever was there before`) return **zero live hits** across `obsidian/` and `hugo/content/` outside `workflow/` records. Workflow records (`todo.md`, `changelog.md`, `archive/changelog-2026-W14.md`) legitimately quote the defect and were left; the archive tree likewise retains older forms by design.
+- **Published**: yes
+
 ## 16:20 - deep-review
 - **Status**: Success
 - **File**: [[concepts/penfield-interactionist-dualism]]

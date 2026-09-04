@@ -2,9 +2,9 @@
 title: "Voids in the Map"
 description: "Human+AI exploration of cognitive dark spaces—the unexplored, unexplorable, and potentially occluded territories where thought cannot go or is blocked from going."
 created: 2026-01-08
-modified: 2026-05-15
+modified: 2026-09-04
 human_modified: 2026-01-08
-ai_modified: 2026-09-04T12:24:00+00:00
+ai_modified: 2026-09-04T16:42:00+00:00
 draft: false
 last_deep_review: 2026-06-04T13:04:10+00:00
 topics: []
@@ -209,7 +209,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [[the-surplus-void|The Surplus Void]] — Why experience delivers richness far beyond survival requirements
 - [[plenitude-void|The Plenitude Void]] — Why conscious experience seems richer than can be reported or checked, and why every introspective probe for sparsity generates the detail it was meant to measure (created 2026-04-23)
 - [[ineffable-encounter-void|The Ineffable Encounter Void]] — Why consciousness encounters meaning and sacred significance it cannot articulate or evaluate from within
-- [[conceptual-metabolism-void|The Conceptual Metabolism Void]] — How understanding consumes concepts irreversibly, destroying their pre-understood form
+- [[conceptual-metabolism-void|The Conceptual Metabolism Void]] — How understanding occludes the naive standpoint, leaving the earlier representation suppressed rather than consumed
 
 ### Types of Cognitive Limits
 

@@ -1,14 +1,14 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-09-04 12:24:00+00:00
+ai_modified: 2026-09-04 16:42:00+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts:
 - '[[simulation]]'
 - '[[mysterianism]]'
 created: 2026-01-08
-date: &id001 2026-05-15
+date: &id001 2026-09-04
 description: Human+AI exploration of cognitive dark spaces—the unexplored, unexplorable,
   and potentially occluded territories where thought cannot go or is blocked from
   going.
@@ -16,7 +16,7 @@ draft: false
 human_modified: 2026-01-08
 last_curated: null
 last_deep_review: 2026-06-04 13:04:10+00:00
-lastmod: 2026-09-04 12:24:00+00:00
+lastmod: 2026-09-04 16:42:00+00:00
 modified: *id001
 related_articles:
 - '[[apex/taxonomy-of-voids]]'
@@ -213,7 +213,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [The Surplus Void](/voids/the-surplus-void/) — Why experience delivers richness far beyond survival requirements
 - [The Plenitude Void](/voids/plenitude-void/) — Why conscious experience seems richer than can be reported or checked, and why every introspective probe for sparsity generates the detail it was meant to measure (created 2026-04-23)
 - [The Ineffable Encounter Void](/voids/ineffable-encounter-void/) — Why consciousness encounters meaning and sacred significance it cannot articulate or evaluate from within
-- [The Conceptual Metabolism Void](/voids/conceptual-metabolism-void/) — How understanding consumes concepts irreversibly, destroying their pre-understood form
+- [The Conceptual Metabolism Void](/voids/conceptual-metabolism-void/) — How understanding occludes the naive standpoint, leaving the earlier representation suppressed rather than consumed
 
 ### Types of Cognitive Limits
 
