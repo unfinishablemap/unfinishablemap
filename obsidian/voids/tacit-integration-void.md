@@ -4,7 +4,7 @@ description: "Subsidiary cues bear on a focal meaning only by not being focal th
 created: 2026-04-27
 modified: 2026-05-02
 human_modified:
-ai_modified: 2026-07-07T02:35:09+00:00
+ai_modified: 2026-09-04T07:11:10+00:00
 last_deep_review: 2026-07-07T02:35:09+00:00
 draft: false
 topics:
@@ -40,7 +40,7 @@ last_curated:
 
 When consciousness integrates subsidiary cues into a focal meaning — feeling the hammer through the hand, hearing words through their sounds, sensing the shape of a problem before articulating it — the *integration itself* cannot be made focal. Michael Polanyi formalised this as the *from-to* structure of tacit knowing: we attend *from* subsidiaries *to* a focal whole, and converting the subsidiaries into focal objects collapses the whole they were bearing. The Unfinishable Map names this the *tacit integration void*: a candidate structural impossibility of simultaneously thematising the cues we attend *from* and the meaning we attend *to*. The claim is conditional — presupposing that phenomenological identification of the from-to relation is non-redundant with third-person specification — and the [Honest Limitation](#honest-limitation) section states the falsifier. Granted the antecedent, the void's *interior* is unexplorable in principle while its *boundary* admits indirect mapping.
 
-The void is distinct from siblings: the [[expertise-and-its-occlusion|expertise void]] (skill's *irreversible transformation* of perception), the [[attention-and-consciousness|attention void]] (*figure–ground organisation*), and the [[binding-void]] (*qualia unification*). Two narrower applications of the from-to structure should be distinguished from siblings: the [[inference-void]] applies it to logical transitions, where premises function as subsidiaries borne on a focal conclusion; the constitution face of the [[aspect-perception-void]] applies it to seeing-as, where context, expectation, and internal relations function as subsidiaries borne on a focal aspect. This article isolates the bearing relation itself — how subsidiaries function as carriers, and why that function is destroyed by being looked at directly.
+The void is distinct from siblings: the [[expertise-and-its-occlusion|expertise void]] (skill's *transformation of perception and closure of the route back*), the [[attention-and-consciousness|attention void]] (*figure–ground organisation*), and the [[binding-void]] (*qualia unification*). Two narrower applications of the from-to structure should be distinguished from siblings: the [[inference-void]] applies it to logical transitions, where premises function as subsidiaries borne on a focal conclusion; the constitution face of the [[aspect-perception-void]] applies it to seeing-as, where context, expectation, and internal relations function as subsidiaries borne on a focal aspect. This article isolates the bearing relation itself — how subsidiaries function as carriers, and why that function is destroyed by being looked at directly.
 
 ## The From-To Structure
 
@@ -118,7 +118,7 @@ A third limitation: described from inside human integration. Minds with differen
 
 - [[voids|Voids in the Map]] — The broader framework for cognitive limits
 - [[three-kinds-of-void]] — The core taxonomy: unexplored, unexplorable, occluded
-- [[expertise-and-its-occlusion]] — Sibling void: the irreversible transformation skill imposes
+- [[expertise-and-its-occlusion]] — Sibling void: the transformation skill imposes, and the route back it closes
 - [[attention-and-consciousness]] — Gurwitsch-style figure–ground organisation, distinct from the bearing relation
 - [[binding-void]] — Integration of qualia across modalities; a different level
 - [[inference-void]] — A narrower case: the from-to structure applied to logical transitions

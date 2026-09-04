@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-04T06:58:00+00:00'
+ai_modified: '2026-09-04T07:11:10+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-04'
-lastmod: 2026-09-04 06:58:00+00:00
+lastmod: 2026-09-04 07:11:10+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-04T07:11:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [expertise-and-its-occlusion](/voids/expertise-and-its-occlusion/)
+- **Task**: Propagate the 2026-08-27 suppression correction from `voids/conceptual-metabolism-void` to its sibling (outer review 2026-09-03, ChatGPT 5.6 Sol Pro §10; convergent 2/2 with Claude Opus 5 fix 7)
+- **Original score**: not run — the skill's `scripts/curate.py review` command does not exist in this repo (known stale skill reference); review context taken from the outer-review file instead
+- **Changes**:
+  - **All four flagged loci corrected, both trees.** L3 `description` (navigation surface: search snippet, card, machine-meta) rewritten from "irreversibly transforms conscious experience... creating a one-way door" to the access framing, 158 chars. L51 lead: "closes a door that cannot be reopened" / "permanently occludes the phenomenology it replaces" → closes the first-person route back; occludes first-person access. L53: "novice perception is overwritten by expert perception" → "the earlier way of seeing cannot be re-inhabited". L129 (No Many Worlds): "a single path that overwrites what came before" / "history of overwritten capacities" → the standpoint left behind is one this expert can no longer occupy; "earlier way of seeing is closed rather than merely elsewhere", which sharpens rather than weakens the MWI contrast.
+  - **Transplant, not invention.** New paragraph after L53 modelled on `conceptual-metabolism-void` L38: keeps the epistemic/metaphysical split explicit, concedes the suppression literature by name (Shtulman & Valcarcel, 2012; Kelemen, Rottman & Seston, 2013; Leroux et al., 2009 — the first two are expertise cases in their own right: science-educated adults and professional physical scientists), and locates the void at *phenomenal access* with the novice regime persisting sub-personally. Named-anchor forward reference to `#probing-the-edge` per the style guide.
+  - **Lock face preserved intact.** Reinvestment/choking (Masters 1992), Polanyi's spectacles, expertise-induced amnesia and the expert blind spot are untouched — separately evidenced and unaffected by this correction, as the task specified.
+  - **Fifth locus found beyond the four flagged.** Further Reading gloss "Understanding consumes its objects irreversibly" asserted the withdrawn consumption thesis *about the sibling that had already retracted it*; rewritten to "closes the route back to not-yet-understanding".
+  - **Internal contradiction the correction exposed.** The materialist-objection paragraph rested on synaptic pruning explaining "why old patterns become inaccessible" — which the article's own new evidence contradicts (representations are inhibited, not removed). Rewritten so the suppression findings cut *against* the pruning story, which strengthens the Map's reply rather than weakening it.
+  - **Two style-guide violations removed** while trimming: "not merely unexpressed but in principle inexpressible" and "not a passive accumulator of information but an active system" (the "This is not X. It is Y." construct CLAUDE.md flags).
+  - **Length held.** 2816 → 2897 words, both `soft_warning`; the +81 is entirely the three added reference entries. Body prose is net shorter — recouped by compressing the two tenet codas, the Montero and Dreyfus-absorption paragraphs, the AI-control-condition bullet and the taxonomy section. Also fixed an overclaim surfaced by that pass: Minimal Quantum Interaction said consciousness "withdraws entirely once the skill is established", which contradicts the lock's own retained-override phase.
+- **Downstream propagation (the failure mode that created this task, checked one hop out)**: grepped all 8 non-workflow files linking to the article. `conceptual-metabolism-void` L84's "Distinguishing the Void" contrast — expertise = loss of access to *how* one performs a skill vs. metabolism = loss of access to *what a concept was before* — **still holds, and is now more accurate than before** (it already said "loss of access", which the pre-fix "overwritten" text understated); no edit needed. Two dependents did quote the withdrawn text and were fixed: `topics/hoel-llm-consciousness-continual-learning` L62 asserted "creating a one-way door through which the expert's former phenomenology is permanently occluded" (verbatim from the pre-correction lead) plus its L121 gloss; `voids/tacit-integration-void` L43 and L121 glossed the sibling as "skill's *irreversible transformation* of perception". Both re-synced, `ai_modified` bumped. The other five (`biological-cognitive-closure`, `boundary-and-projection`, `necessary-opacity`, `source-attribution-void`, `voids.md`) describe only the lock face and are unaffected.
+- **Deliberate residue**: "*one-way door*" survives at L53 as the article's named label for that face, immediately glossed as "the closed route back", and "overwritten" survives at L55 only inside the explicitly disowned *metaphysical* reading — mirroring how the sibling kept "the digestion image" while disowning what it suggests.
+- **Not addressed (out of scope; already queued, no duplicate minted)**: the same outer review's §10 finding that `voids/inaccessible-past` L56 runs an invalid conditional ("if qualia were information, memory could preserve them completely" — physical information can be compressed, corrupted or lost) already has an open P2 in `todo.md`. Grepped before considering a mint, per the same-file-pileup rule. Also relevant: the open P1 on `conceptual-metabolism-void`'s taxonomic cell instructs whoever runs it to "re-verify those contrasts survive rather than restating them" for both siblings — this pass supplies that verification for the expertise contrast, which holds.
+- **Verification**: `validate.py` ✓ on all three files; `sync.py` clean (no wikilink stripping on any of them); withdrawn-thesis grep returns CLEAN across both `obsidian/` and `hugo/content/` for all three.
+- **Published**: yes
 
 ## 2026-09-04T06:58:00+00:00 - combine-outer-reviews
 - **Status**: Success

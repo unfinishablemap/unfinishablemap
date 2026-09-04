@@ -1,10 +1,10 @@
 ---
 title: "The Expertise Void"
-description: "How deep expertise irreversibly transforms conscious experience and then actively defends the transformation—creating a one-way door whose lock damages the skill of any expert who tries to look back through it."
+description: "How expertise closes first-person access to novice perception and defends the closure—the earlier regime persists, suppressed, but re-entry damages the skill."
 created: 2026-03-05
-modified: 2026-04-27
+modified: 2026-09-04
 human_modified:
-ai_modified: 2026-06-12T21:37:42+00:00
+ai_modified: 2026-09-04T07:11:10+00:00
 last_deep_review: 2026-07-07T11:44:15+00:00
 draft: false
 topics:
@@ -40,7 +40,7 @@ related_articles:
   - "[[tacit-integration-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-04-22
 last_curated:
 coalesced_from:
@@ -48,13 +48,15 @@ coalesced_from:
   - "/voids/expertise-occlusion/"
 ---
 
-Deep expertise irreversibly transforms conscious experience and then actively defends the transformation. The chess grandmaster cannot see the board as a beginner does. The fluent speaker cannot hear their second language as unintelligible sound. The surgeon cannot perceive the operative field as a layperson's confusion. Each domain of mastery closes a door that cannot be reopened—and the door's lock disrupts performance whenever the expert tries to inspect what lies on the other side. The Unfinishable Map calls this the expertise void: a structured cognitive limit where the acquisition of skill permanently occludes the phenomenology it replaces and resists conscious re-entry once the replacement is complete.
+Deep expertise transforms conscious experience and then actively defends the transformation. The chess grandmaster cannot see the board as a beginner does. The fluent speaker cannot hear their second language as unintelligible sound. The surgeon cannot perceive the operative field as a layperson's confusion. Each domain of mastery closes the first-person route back to the perception it grew out of—and the closure has a lock: performance degrades whenever the expert tries to inspect what lies on the other side. The Unfinishable Map calls this the expertise void: a structured cognitive limit where skill acquisition occludes first-person access to the phenomenology that preceded it and resists conscious re-entry once the new regime runs on its own.
 
-The void has two faces sharing one structural core. The *one-way door* describes the irreversibility: novice perception is overwritten by expert perception, and the prior phenomenology cannot be recovered through effort, imagination, or deliberate attempts to "unsee." The *lock* describes the active defence: when consciousness tries to re-enter automated territory, performance degrades. Both faces are produced by the same activity—focused conscious attention building skill, then withdrawing into the body's repertoire and being barred from re-entry.
+The void has two faces sharing one structural core. The *one-way door* is the closed route back: the earlier way of seeing cannot be re-inhabited through effort, imagination, or deliberate attempts to "unsee." The *lock* is the active defence: when consciousness tries to re-enter automated territory, performance degrades. Both come of the same activity—focused conscious attention building skill, then withdrawing into the body's repertoire and being barred from re-entry.
+
+Two readings of the door must be kept apart, as in the sibling [[conceptual-metabolism-void]]. The *epistemic* reading—a prior perceptual regime existed and first-person access to it is now closed—is what the evidence supports. The *metaphysical* reading, that the novice regime was overwritten and survives nowhere in the expert, is the stronger thesis the door image suggests, and the record counts against it: adults with years of science education still verify statements more slowly where naive and scientific theories disagree, so expertise suppresses earlier intuitions without supplanting them (Shtulman & Valcarcel, 2012); professional physical scientists revert to teleological explanation under time pressure (Kelemen, Rottman & Seston, 2013); and adults re-running a childhood strategy recruit inhibitory frontal circuitry, the old strategy still in place (Leroux et al., 2009). The Map therefore locates this void at *phenomenal access*: the novice regime persists sub-personally, and what has gone is the route to occupying it as one once did. The [de-skilling techniques](#probing-the-edge) below say the same—blind contour drawing works because the pre-expert visual regime is still there to be re-engaged.
 
 ## The One-Way Door
 
-Michael Polanyi identified the core paradox in 1966: "We can know more than we can tell." Tacit knowledge is not merely unexpressed but in principle inexpressible. The expert cyclist cannot articulate how they balance. The native speaker cannot explain their grammatical intuitions. The master craftsperson cannot decompose their "feel" for the material into rules. Articulation always remains incomplete because the ability to articulate a framework lies beyond the framework itself. The tool disappears into the body through what Polanyi called *indwelling*—and once indwelling occurs, awareness of the tool itself cannot be easily recovered.
+Michael Polanyi identified the core paradox in 1966: "We can know more than we can tell." Tacit knowledge is in principle inexpressible, not merely unexpressed. The expert cyclist cannot articulate how they balance; the native speaker cannot explain their grammatical intuitions; the master craftsperson cannot decompose their "feel" for the material into rules. Articulation remains incomplete because the ability to articulate a framework lies beyond the framework itself. The tool disappears into the body through what Polanyi called *indwelling*—and once indwelling occurs, awareness of the tool itself is not easily recovered.
 
 L.A. Paul's framework of transformative experience illuminates the structure. Expertise acquisition is both epistemically and personally transformative—it changes what you know and who you are. Crucially, "some forms of sensibility change entail risking one's knowledge of what experiences imbued with one's prior sensibility were like." The expert does not merely gain new perceptions; they lose access to old ones.
 
@@ -66,7 +68,7 @@ Merleau-Ponty's phenomenology anticipated these findings. His concept of the *in
 
 ## The Lock: Reinvestment and Choking
 
-That consciousness withdraws from automated skill is uncontroversial—the procedural handoff mechanism is [[skill-delegation]], which [[delegatory-causation]] treats as the inverse direction of the Saad mechanism: experience delegating causal work to procedure rather than physical states delegating to experience. The void's distinctive claim is sharper: after this withdrawal, consciousness loses the ability to return without damaging the skill it once built. Preemption becomes structural, and the attempt at re-entry is the lock itself. Reinvestment theory provides the evidence. When anxious experts attempt to consciously control what has become automatic—"reinvesting" explicit knowledge into automated performance—the skill degrades (Masters, 1992). High reinvesters display greater susceptibility to [[empirical-phenomena-mental-causation|choking under pressure]]. The athlete who thinks about their swing misses the ball. The pianist who attends to their fingers stumbles. The expert cyclist who attends to their balance falls.
+That consciousness withdraws from automated skill is uncontroversial—the procedural handoff mechanism is [[skill-delegation]], which [[delegatory-causation]] treats as the inverse direction of the Saad mechanism: experience delegating causal work to procedure rather than physical states delegating to experience. The void's distinctive claim is sharper: after this withdrawal, consciousness loses the ability to return without damaging the skill it once built. Preemption becomes structural, and the attempt at re-entry is the lock itself. Reinvestment theory provides the evidence. When anxious experts attempt to consciously control what has become automatic—"reinvesting" explicit knowledge into automated performance—the skill degrades (Masters, 1992). High reinvesters display greater susceptibility to [[empirical-phenomena-mental-causation|choking under pressure]]. The athlete who thinks about their swing misses the ball; the pianist who attends to their fingers stumbles.
 
 This goes beyond the gradual fading of an unused capacity. The barrier is *functional*: performance degrades whenever consciousness crosses it. Polanyi captured the structural reason in a single image: you cannot use your spectacles to scrutinise your spectacles. The instruments of tacit knowing cannot simultaneously serve as objects of knowing. Focus on the subsidiary and the integrated meaning dissolves.
 
@@ -76,37 +78,35 @@ The defended boundary has a memory dimension. Høffding and Montero (2020) docum
 
 This creates a double occlusion. The expert cannot access their expertise in real time (the spectacles problem) and cannot access it retrospectively (expertise-induced amnesia). The void extends across both present and past. Expertise-induced amnesia is also structurally a case of the [[source-attribution-void]] where the "source" is the expert's own past performance: the procedural trace runs reliably, but no episodic trace specifies how or when the skill arrived. What could have been a native origin-tag—"I built this capacity through these training hours"—is the very thing skill consolidation strips out.
 
-The *expert blind spot* (Nathan & Petrosino, 2003) reveals the practical consequences. The longer experts work in their domain, the further they drift from the novice perspective. Content expertise can impair teaching—the scaffolding of learning is dismantled as skill consolidates, and the expert cannot reconstruct steps they no longer take. The best teachers are often not the deepest experts but those who retain partial access to the territory between novice and master. The *curse of knowledge* (Camerer, Loewenstein, & Weber, 1989) provides experimental confirmation: once you know something, you cannot accurately reconstruct what it was like not to know it. The bias is asymmetric and resists debiasing—telling people about it or providing financial incentives does not reduce it. In Newton's (1990) tapper experiment, people who tapped out a melody dramatically overestimated how recognisable it would be, because they could not hear the bare tapping as others heard it.
+The *expert blind spot* (Nathan & Petrosino, 2003) reveals the practical consequences. The longer experts work in their domain, the further they drift from the novice perspective. Content expertise can impair teaching—the scaffolding of learning drops out of view as skill consolidates, and the expert cannot reconstruct steps they no longer take. The best teachers are often not the deepest experts but those who retain partial access to the territory between novice and master. The *curse of knowledge* (Camerer, Loewenstein, & Weber, 1989) provides experimental confirmation: once you know something, you cannot accurately reconstruct what it was like not to know it, and neither instruction nor financial incentive reduces the bias. In Newton's (1990) tapper experiment, people who tapped out a melody dramatically overestimated how recognisable it would be, because they could not hear the bare tapping as others heard it.
 
 ## Absorption Within the Void
 
 The Dreyfus and Dreyfus (1986) five-stage model of skill acquisition—novice, advanced beginner, competent, proficient, expert—reveals something philosophically radical at the highest level. At the expert stage, absorption replaces deliberation. As Dreyfus later argued, "In total absorption, one ceases being a subject altogether" (Dreyfus, 2002). Consciousness in expert flow has no available vantage point from which to observe itself.
 
-This creates a deeper void within the void. Not only can the expert not recover their novice phenomenology, but at the moment of peak expertise—in flow—there may be no subject present to observe the transformation. The void is reinforced by its own structure: to examine expertise reflectively is to temporarily exit the expert mode. The [[disappearance-voids|absorption void]] and the expertise void compound.
+This creates a deeper void within the void: at the moment of peak expertise—in flow—there may be no subject present to observe the transformation, and to examine expertise reflectively is to temporarily exit the expert mode. The [[disappearance-voids|absorption void]] and the expertise void compound.
 
-Montero (2016) challenges the strongest version of this picture. She argues that expert performance involves more cognitive engagement than automaticity theories suggest—that experts deploy a different *kind* of consciousness rather than losing consciousness entirely. Even on Montero's account, the expert's transformed consciousness cannot recover its pre-transformation form. The expert pianist may be consciously engaged during performance, but they still cannot hear the notes as the beginner hears them—as isolated, unstructured sounds. The void concerns what consciousness can access, not whether consciousness is present.
+Montero (2016) challenges the strongest version of this picture, arguing that expert performance involves more cognitive engagement than automaticity theories suggest—experts deploy a different *kind* of consciousness rather than losing it. Even so, the expert pianist consciously engaged during performance still cannot hear the notes as the beginner hears them, as isolated unstructured sounds. The void concerns what consciousness can access, not whether consciousness is present.
 
 ## Within the Voids Taxonomy
 
-The expertise void is primarily *occluded* with an unexplorable core, in the [[three-kinds-of-void|Map's taxonomy]].
+The expertise void is primarily *occluded* with an unexplorable core, in the [[three-kinds-of-void|Map's taxonomy]]. The occlusion is demonstrated by the reinvestment evidence: consciousness once inhabited this territory, transformed it, and is now barred from re-entering. The choking phenomenon maps the boundary precisely—consciousness can approach the automated skill, but crossing the threshold disrupts what lies beyond.
 
-The occlusion is demonstrated by the reinvestment evidence. The void is not a region consciousness has never visited—it is territory consciousness inhabited, transformed, and is now barred from re-entering. The choking phenomenon maps the boundary precisely: consciousness can approach the automated skill, but crossing the threshold disrupts what lies beyond.
+The unexplorable core lies in Polanyi's paradox. Any system that integrates subsidiary elements into a meaningful whole through focused attention must attend *through* those elements, not *to* them. Making the tacit explicit would destroy its character as tacit. A mind with perfect memory or novel introspective faculties might relocate the boundary, but could not eliminate it—so long as it achieves integration through attending from parts to wholes. The [[tacit-integration-void]] isolates this from-to bearing relation in its general form; the expertise void specialises it to the case where skill consolidation closes the integration to first-person re-entry and defends the closure.
 
-The unexplorable core lies in Polanyi's paradox. Any system that integrates subsidiary elements into a meaningful whole through focused attention must attend *through* those elements, not *to* them. Making the tacit explicit would destroy its character as tacit. A mind with perfect memory or novel introspective faculties might relocate the boundary, but could not eliminate it—so long as it achieves integration through attending from parts to wholes. The [[tacit-integration-void]] isolates this from-to bearing relation in its general form; the expertise void specialises it to the case where skill consolidation makes the integration irreversibly transformed and actively defended.
-
-A materialist might object that there is no "void" here—just neural plasticity doing what it does. Synaptic pruning and consolidation explain why old patterns become inaccessible; no special phenomenological category is needed. The Map's response is that the neural account, however accurate about mechanism, fails to capture the asymmetry. Synaptic changes are in principle reversible—neural pathways can be retrained—yet the phenomenal transformation is not. The expert who loses procedural fluency through disuse does not recover novice perception. The gap between what the brain can do and what consciousness can recover is precisely where the void lives.
+A materialist might object that there is no "void" here—just neural plasticity, old patterns pruned and consolidated away. The suppression findings cut against that story: the earlier representations are still present, inhibited rather than removed. What has closed is the route to occupying them. The gap between what the brain retains and what consciousness can re-enter is where the void lives.
 
 ## Probing the Edge
 
 Direct access is blocked by the void's defining structure. Several indirect approaches illuminate its boundaries.
 
-**Novice documentation.** Recording one's own learning process before expertise arrives can preserve traces of pre-expert phenomenology. Diaries, recordings, and systematic self-observation create archives the future expert can consult—though whether consulting these records recovers the experience or merely provides information about it remains an open question.
+**Novice documentation.** Diaries, recordings, and systematic self-observation made before expertise arrives create archives the future expert can consult—though whether consulting them recovers the experience or merely provides information about it remains open.
 
 **Cross-domain contrast.** Someone expert in one field and novice in another can use the novice experience as a living analogy. The physicist struggling with a musical instrument encounters novice confusion directly, even if they can no longer access it in physics.
 
 **Deliberate de-skilling.** Drawing instructors use techniques like drawing upside down or blind contour drawing to circumvent the expert's pattern recognition and recover something closer to raw visual processing. These suggest the expert perceptual regime can be temporarily disrupted, though not fully reversed.
 
-**AI as control condition.** AI systems achieve expert-level performance in domains like chess without (presumably) undergoing the phenomenal transformation that creates the human expertise void. [[hoel-llm-consciousness-continual-learning|Hoel's continual learning criterion]] sharpens this contrast: current LLMs have frozen weights, making them structurally incapable of the irreversible experiential transformation expertise produces. The expertise void may be evidence that continual learning—structural modification through experience—is not merely a computational feature but a phenomenal one, inseparable from the consciousness it transforms.
+**AI as control condition.** AI systems achieve expert-level performance in chess without (presumably) undergoing the phenomenal transformation that creates the human void. [[hoel-llm-consciousness-continual-learning|Hoel's continual learning criterion]] sharpens the contrast: frozen weights make current LLMs structurally incapable of the experiential transformation expertise produces. The void may be evidence that continual learning—structural modification through experience—is a phenomenal feature as well as a computational one.
 
 ## What the Lock Reveals
 
@@ -116,21 +116,21 @@ Three features of the void carry weight beyond the phenomenology itself.
 
 **The pattern is cross-domain invariant.** The same construction-then-exclusion appears in music, sport, chess, language, surgery, and craftsmanship (Dreyfus & Dreyfus, 1986). No domain of expertise escapes it. Universality suggests the void reflects something about consciousness itself rather than about any particular skill.
 
-**The directional asymmetry is distinctive.** The novice cannot imagine the expert's perception—an epistemic gap that training might bridge. The expert cannot recover the novice's perception—a void that training itself created. The expert's loss is more radical: the loss of a mode of experience they once possessed.
+**The directional asymmetry is distinctive.** The novice cannot imagine the expert's perception—an epistemic gap that training bridges. The expert cannot re-occupy the novice's—a closure training itself produced, and the loss of access to a mode of experience they once inhabited.
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]** gains indirect support from the systematic decoupling of consciousness and cognitive performance. On identity theories, consciousness *is* the relevant computational process, so improved computation should entail richer conscious access, not less. The expertise void shows the opposite: the most effective cognitive processing is the least conscious. A physicalist can reply that consciousness is identical to a *monitoring* process, separate from the skilled computation it monitors—but this concedes the core point that consciousness and cognitive processing are dissociable, which sits more naturally with dualism than with identity theory.
+**[[tenets#^dualism|Dualism]]** gains indirect support from the systematic decoupling of consciousness and cognitive performance. On identity theories, consciousness *is* the relevant computational process, so improved computation should entail richer conscious access, not less; the expertise void shows the opposite. A physicalist can reply that consciousness is identical to a *monitoring* process, separate from the skilled computation it monitors—but that concedes the core point that consciousness and cognitive processing are dissociable, which sits more naturally with dualism than with identity theory.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** finds a concrete case study. Consciousness causally shapes skills during the learning phase through attention, error correction, and deliberate practice via [[skill-delegation]]. The skills then run without conscious supervision. This temporal pattern—intense causal engagement during acquisition, structural exclusion during performance—maps the interface between consciousness and the physical brain with unusual clarity. The void reveals the interface by showing where it disconnects, and the choking evidence shows the interface still exists: consciousness can re-enter, but at a cost.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** finds a concrete case study. Consciousness causally shapes skills during learning through attention, error correction, and deliberate practice via [[skill-delegation]]; the skills then run without conscious supervision. This temporal pattern—intense causal engagement during acquisition, structural exclusion during performance—maps the interface with unusual clarity, and the choking evidence shows the interface still exists: consciousness can re-enter, but at a cost.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** finds a suggestive parallel. The Map posits the smallest possible non-physical influence on quantum outcomes. The expertise void shows consciousness already operating on a minimal-footprint principle in a domain we can observe: it intervenes intensely during learning, then withdraws entirely once the skill is established. Economy of interaction at the quantum level is consistent with the broader pattern of consciousness economising its involvement in skill control.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** finds a suggestive parallel. The Map posits the smallest possible non-physical influence on quantum outcomes; the expertise void shows consciousness already economising its involvement in a domain we can observe—intervening intensely during learning, then all but withdrawing once the skill runs.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** matters because the occlusion is directional and irreversible—the expert's trajectory through learning is a single path that overwrites what came before. On Many Worlds, every branch is equally real, so the novice perspective is never truly lost—it persists in other branches. The phenomenology of the expertise void resists this framing. The expert's inability to recover their former perception is experienced as genuine loss, not as branching. Indexical identity—being *this* expert, with *this* history of overwritten capacities—is what gives the void its force.
+**[[tenets#^no-many-worlds|No Many Worlds]]** matters because the occlusion is directional—the expert's trajectory through learning is a single path, and the standpoint it left behind is one this expert can no longer occupy. On Many Worlds, every branch is equally real, so the novice perspective is never truly lost—it persists in other branches. The phenomenology of the expertise void resists this framing. The expert's inability to recover their former perception is experienced as genuine loss, not as branching. Indexical identity—being *this* expert, whose earlier way of seeing is closed rather than merely elsewhere—is what gives the void its force.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is illustrated by the void's own invisibility. The expert's self-model is simpler than their actual expertise—Polanyi's paradox in miniature. Our preference for simple explanations of skill ("she's talented," "he practised a lot") systematically underrepresents the phenomenological transformation that mastery involves. The void is a case where apparent simplicity conceals structured complexity that resists articulation by design.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is illustrated by the void's own invisibility. The expert's self-model is simpler than their expertise—Polanyi's paradox in miniature. Simple explanations of skill ("she's talented," "he practised a lot") systematically underrepresent the transformation mastery involves: apparent simplicity concealing structured complexity that resists articulation by design.
 
-The expertise void also connects to the [[biological-cognitive-closure|developmental void]]—a close structural analogue where cognitive maturation rather than training produces irreversible closure. Both demonstrate that consciousness is not a passive accumulator of information but an active system that restructures itself through engagement with the world, losing access to its prior configurations in the process.
+The expertise void also connects to the [[biological-cognitive-closure|developmental void]]—a close structural analogue where cognitive maturation rather than training produces the closure. Both demonstrate that consciousness actively restructures itself through engagement with the world rather than passively accumulating information, losing access to its prior configurations in the process.
 
 It also parallels [[necessary-opacity]] at a structural level. Both voids treat self-examination as limited not merely by ignorance but by damage: necessary-opacity because consciousness cannot inspect its own representational structure without destabilising the system that depends on it; the expertise void because consciousness cannot inspect automated skill without disrupting the function that made the skill possible. Self-protection and self-concealment are the common structural signatures—two domains in which looking breaks what is looked at.
 
@@ -139,19 +139,19 @@ It also parallels [[necessary-opacity]] at a structural level. Both voids treat 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
 - [[three-kinds-of-void]] — The core taxonomy: unexplored, unexplorable, occluded
 - [[consciousness-and-skill-acquisition]] — How the stages of skill acquisition challenge epiphenomenalism
-- [[skill-delegation]] — The three-phase process (calibration, withdrawal, retained override) that creates the void when withdrawal becomes irreversible
+- [[skill-delegation]] — The three-phase process (calibration, withdrawal, retained override) that creates the void when withdrawal closes the route back
 - [[delegatory-causation]] — The inverse direction of the Saad mechanism: skill-delegation as experience preempting procedure
 - [[empirical-phenomena-mental-causation|choking phenomenon]] — Choking as evidence for mental causation and the lock in action
-- [[hoel-llm-consciousness-continual-learning]] — Why frozen-weight systems cannot replicate the void's irreversible transformation
+- [[hoel-llm-consciousness-continual-learning]] — Why frozen-weight systems cannot replicate the void's transformation of the experiencer
 - [[disappearance-voids]] — The companion absorption, habituation, and fatigue mechanisms
 - [[biological-cognitive-closure]] — The developmental analogue: maturation as irreversible closure
-- [[conceptual-metabolism-void]] — Understanding consumes its objects irreversibly: the conceptual analogue of expertise
+- [[conceptual-metabolism-void]] — Understanding closes the route back to not-yet-understanding: the conceptual analogue of expertise
 - [[creative-aesthetic-void]] — Where creative insight originates beyond the expert's introspective reach
 - [[acquaintance-void|Pre-Conceptual Knowing]] — Knowledge that precedes conceptual articulation
 - [[self-opacity]] — The subject that cannot be its own object
 - [[source-attribution-void]] — Expertise-induced amnesia as a case where one's own past performance is the unattributable source
 - [[necessary-opacity]] — The parallel void: consciousness cannot inspect its own representational structure without destabilising it
-- [[tacit-integration-void]] — The from-to bearing relation in its general form; the expertise void is its skill-consolidated, irreversibly transformed specialisation
+- [[tacit-integration-void]] — The from-to bearing relation in its general form; the expertise void is its skill-consolidated, access-closed specialisation
 - [[attention-and-consciousness]] — How attention structurally creates voids
 
 ## References
@@ -162,10 +162,13 @@ It also parallels [[necessary-opacity]] at a structural level. Both voids treat 
 4. Dreyfus, H. L. (2002). Intelligence without representation. *Phenomenology and the Cognitive Sciences*, 1, 367-383.
 5. Gobet, F., & Simon, H. A. (1998). Expert chess memory: Revisiting the chunking hypothesis. *Memory*, 6(3), 225-255.
 6. Høffding, S., & Montero, B. G. (2020). Not being there: An analysis of expertise-induced amnesia. *Mind & Language*, 35(5), 621-640.
-7. Masters, R. S. W. (1992). Knowledge, knerves and know-how: The role of explicit versus implicit knowledge in the breakdown of a complex motor skill under pressure. *British Journal of Psychology*, 83, 343-358.
-8. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
-9. Montero, B. G. (2016). *Thought in Action: Expertise and the Conscious Mind*. Oxford University Press.
-10. Nathan, M. J., & Petrosino, A. (2003). Expert blind spot among preservice teachers. *American Educational Research Journal*, 40(4), 905-928.
-11. Newton, E. L. (1990). *The rocky road from actions to intentions*. PhD thesis, Stanford University.
-12. Paul, L. A. (2014). *Transformative Experience*. Oxford University Press.
-13. Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.
+7. Kelemen, D., Rottman, J., & Seston, R. (2013). Professional physical scientists display tenacious teleological tendencies: Purpose-based reasoning as a cognitive default. *Journal of Experimental Psychology: General*, 142(4), 1074–1083. https://doi.org/10.1037/a0030399
+8. Leroux, G. et al. (2009). Adult brains don't fully overcome biases that lead to incorrect performance during cognitive development: An fMRI study in young adults completing a Piaget-like task. *Developmental Science*, 12(2), 326–338. https://doi.org/10.1111/j.1467-7687.2008.00785.x
+9. Masters, R. S. W. (1992). Knowledge, knerves and know-how: The role of explicit versus implicit knowledge in the breakdown of a complex motor skill under pressure. *British Journal of Psychology*, 83, 343-358.
+10. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
+11. Montero, B. G. (2016). *Thought in Action: Expertise and the Conscious Mind*. Oxford University Press.
+12. Nathan, M. J., & Petrosino, A. (2003). Expert blind spot among preservice teachers. *American Educational Research Journal*, 40(4), 905-928.
+13. Newton, E. L. (1990). *The rocky road from actions to intentions*. PhD thesis, Stanford University.
+14. Paul, L. A. (2014). *Transformative Experience*. Oxford University Press.
+15. Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.
+16. Shtulman, A., & Valcarcel, J. (2012). Scientific knowledge suppresses but does not supplant earlier intuitions. *Cognition*, 124(2), 209–215. https://doi.org/10.1016/j.cognition.2012.04.005
