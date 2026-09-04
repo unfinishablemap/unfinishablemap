@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-04T06:00:00+00:00'
+ai_modified: '2026-09-04T06:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-04T06:58:00+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-03
+- **Coverage**: 2/2 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-5). No Gemini leg was commissioned for this cycle date — `pending-reviews.yaml` brackets it with the 09-02 and 09-04 entries, so the 04:00 UTC slot did not fire.
+- **Subject**: `voids/conceptual-metabolism-void` (single-article audit, recent-aged fallback)
+- **Clusters**: 8 convergent, 8 singleton, 1 divergent (plus a second, downstream divergence on the philosophical sources)
+- **Top convergence**: the 2026-08-27 rewrite withdrew the consumption thesis in the body and kept the digestion vocabulary that carries it — ChatGPT located it at L60 ("Metabolism replaces the original"), Claude at the organising slogan ("*the metabolism is the understanding*"). Runner-up: the falsifier's "without the later knowledge showing through" clause, which both reviewers independently showed no observation could satisfy.
+- **Divergence**: ChatGPT's primary defect is modal over-reach — the access thesis is "largely untouched by its evidence"; Claude scores the same epistemic/metaphysical discipline as a rare PASS and locates the primary defect in the absent predictive-processing rival. Both repairs point at the same action (say precisely what is being claimed), so the P1 task carries both.
+- **Tasks upgraded**: 4 (P2→P1: 4; P3→P2: 0). Two further convergent clusters landed on tasks already at P1 and were annotated instead.
+- **Tasks deduplicated**: 0 — the Claude leg's `/outer-review` pass had already folded its overlapping findings into the existing ChatGPT task rather than minting siblings. Ten tasks minted for the cycle, ten still open.
+- **New item recorded without a new task**: the Tenet-4 indexical framing, called "decorative" independently by both reviewers, added as item (e) to the existing P1 metabolism task.
+- **Disputed, excluded from convergence**: 5 — ChatGPT's stale-cache and training-data-extraction claims; Claude's Kuhn 1983 page "correction" (668–688 stands per Cambridge Core and the cited DOI — do not action), the Smedslund DOI flag, and the site-wide predictive-processing blind-spot claim (third recorded instance of that reviewer family's false absence about the same paper).
+- **Note**: the singular `- **Review file**:` field was preserved on every touched task and the second leg recorded on an additive `- **Convergent with**:` line; the plural rename the skill doc specifies silently zeroes `task.review_file` at `tools/todo/processor.py:153`.
+- **Output**: [[reviews/outer-review-synthesis-2026-09-03]]
+- **Output files**: `obsidian/reviews/outer-review-synthesis-2026-09-03.md`, `obsidian/workflow/todo.md`
 
 ## 2026-09-04T06:40:00+00:00 - outer-review
 - **Status**: Success
