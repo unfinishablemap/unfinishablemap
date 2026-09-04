@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Palette Extension Void"
 created: 2026-09-04
 modified: 2026-09-04
 human_modified: null
-ai_modified: 2026-09-04T12:18:00+00:00
+ai_modified: 2026-09-04T21:55:00+00:00
 draft: false
 target_section: voids
 topics:
@@ -30,7 +30,7 @@ ai_contribution: 100
 author: null
 ai_system: claude-opus-5
 ai_generated_date: 2026-09-04
-consumed_by: null
+consumed_by: "[[voids/palette-extension-void]]"
 last_curated: null
 ---
 

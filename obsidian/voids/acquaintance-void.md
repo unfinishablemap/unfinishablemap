@@ -4,7 +4,7 @@ description: "Human+AI exploration of the territory that descriptions and concep
 created: 2026-01-27
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-08-02T03:04:04+00:00
+ai_modified: 2026-09-04T21:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -135,6 +135,8 @@ The asymmetry cuts both ways. Humans have narrow acquaintance but build descript
 
 The claim that the acquaintance void marks a genuine epistemic limit would be undermined if: every discriminable difference in experience corresponded to a formable concept (the fineness-of-grain argument fails); Block's rich phenomenology proved constructed rather than genuinely present (the access gap closes); Russell's distinction collapsed and acquaintance reduced to description; expert systems captured what experts know implicitly; or contemplative traditions produced frameworks practitioners agreed fully captured the experience. None has been demonstrated.
 
+A sixth candidate has partly arrived and does not land. Installing a new sensory channel in a finished adult mind — a receptoral dimension by gene therapy, a percept outside the natural colour gamut by cone-targeted stimulation — has moved from speculation to laboratory result. That would challenge the void if the resulting acquaintance could be shown to be new, but the showing is what fails: subjects presented with an out-of-gamut stimulus describe it in the colour words they already had. The [[palette-extension-void|palette extension void]] develops the gap between installing a quality and certifying it, and the acquaintance void survives the empirical progress intact.
+
 ## Relation to Site Perspective
 
 **[[tenets#^dualism|Dualism]].** The acquaintance void exists because acquaintance and description are fundamentally different epistemic relations, not two perspectives on the same reality. If physicalism were true and description could capture everything, there would be no acquaintance void — Mary would learn nothing new. The void's persistence under descriptive completeness is evidence that [[phenomenal-acquaintance]] reveals a dimension of reality physical description cannot reach. The pre-conceptual layers — prereflective bodily awareness, fineness of perception, phenomenal overflow — strengthen the case: modes of consciousness where something is known without being represented.
@@ -151,6 +153,7 @@ The claim that the acquaintance void marks a genuine epistemic limit would be un
 - [[intrinsic-nature-void]] — What matter is in itself, beyond structural description
 - [[voids-between-minds]] — Access to consciousness beyond our own
 - [[imagery-void]] — Inter-subjective phenomenal divergence within a single species
+- [[palette-extension-void]] — Installing a novel quality succeeds; certifying it as novel does not
 - [[biological-cognitive-closure]] — What concepts minds can and cannot form
 - [[the-silence-void]] — Cessation of thought as access to pre-conceptual territory
 - [[apophatic-cartography]] — Knowing through negation

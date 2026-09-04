@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-09-04 21:16:00+00:00
+ai_modified: 2026-09-04 21:55:00+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: 2026-01-08
 last_curated: null
 last_deep_review: 2026-06-04 13:04:10+00:00
-lastmod: 2026-09-04 21:16:00+00:00
+lastmod: 2026-09-04 21:55:00+00:00
 modified: *id001
 related_articles:
 - '[[apex/taxonomy-of-voids]]'
@@ -274,7 +274,7 @@ Eighteen voids surveyed since 2026-02 have research notes but no standalone arti
 - **[The Impairment Void](/research/voids-impairment-void-2026-08-26/)** — *Absorbed* (2026-08-27) into [disappearance-voids](/voids/disappearance-voids/) ("The Gauge That Comes Loose"), correcting its uncited claim that self-assessment fails before performance under sleep deprivation; the acute-state limb for [anti-correlated-metacognitive-signal](/concepts/anti-correlated-metacognitive-signal/) is pending. Coarse impairment detection mostly works; the residue is a gauge that plateaus, inverts, or is deleted by training.
 - **[The Similarity Void](/research/voids-similarity-void-2026-08-27/)** — *Absorbed* (2026-09-01) into [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) (Goodman, grue, Quine) and [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) (Hebart et al. 2020); folds into [conceptual-scheme-void](/voids/conceptual-scheme-void/) and, light-touch, [noetic-feelings-void](/voids/noetic-feelings-void/) pending. Resemblance arrives as given while the respects and weights that produced it stay sub-personal — recoverable third-personally, not generatable first-personally.
 - **[The Fusion Void](/research/voids-fusion-void-2026-09-02/)** — *Published* (2026-09-04) as [fusion-void](/voids/fusion-void/). Consciousness receives precision-weighted fused percepts — never the component estimates, the reliability weights, or the prior common-cause verdict that licensed fusing at all. Within-modality fusion is mandatory and discards the components (Hillis et al. 2002); the McGurk verdict varies 0–100% across stable individuals (Mallick et al. 2015). A rare void whose own boundary is psychophysically *measured*.
-- **[The Palette Extension Void](/research/voids-palette-extension-void-2026-09-04/)** — *Surveyed — standalone recommended.* The catalogue's existing palette material ([acquaintance-void](/voids/acquaintance-void/), [synesthetic-void](/voids/synesthetic-void/)) asks whether a novel phenomenal quality is *conceivable*; this asks whether an *installed* one could be certified as new. The capacity face is deflating fast — Mancuso et al. 2009 added a cone dimension to adult primates against the critical-period prediction, and Fong et al. 2025 produced a percept ("olo") with unequivocally out-of-gamut coordinates. The verification face is untouched: every route from an installed channel back to a novelty claim runs through discrimination or report, both rendered in the prior palette, and Fong's five subjects volunteered "teal" and "green, a little blue" for the out-of-gamut stimulus. Barbur's deflationary reading is the simpler hypothesis *and* unfalsifiable by any available instrument — an unusually clean instance of [parsimony selecting rather than tracking](/voids/epistemological-limits-occams-razor/). The catalogue's first case of one face of a void deflating while its sibling holds, which argues that voids can require *splitting* rather than retiring — the methodological mirror of [the olfactory void](/research/voids-olfactory-void-2026-08-13/).
+- **[The Palette Extension Void](/research/voids-palette-extension-void-2026-09-04/)** — *Published* (2026-09-04) as [palette-extension-void](/voids/palette-extension-void/). The catalogue's existing palette material ([acquaintance-void](/voids/acquaintance-void/), [synesthetic-void](/voids/synesthetic-void/)) asks whether a novel phenomenal quality is *conceivable*; this asks whether an *installed* one could be certified as new. The capacity face is deflating fast — Mancuso et al. 2009 added a cone dimension to adult primates against the critical-period prediction, and Fong et al. 2025 produced a percept ("olo") with unequivocally out-of-gamut coordinates. The verification face is untouched: every route from an installed channel back to a novelty claim runs through discrimination or report, both rendered in the prior palette, and Fong's five subjects volunteered "teal" and "green, a little blue" for the out-of-gamut stimulus. Barbur's deflationary reading is the simpler hypothesis *and* unfalsifiable by any available instrument — an unusually clean instance of [parsimony selecting rather than tracking](/voids/epistemological-limits-occams-razor/). Deflation itself is not new here (olfactory absence, and the [fatigue void](/voids/disappearance-voids/)'s narrowed unexplorable face, precede it); the unfamiliar part is the shape — a limit separating into two questions with opposite fates, which argues that voids can sometimes require *splitting* rather than retiring.
 
 ---
 

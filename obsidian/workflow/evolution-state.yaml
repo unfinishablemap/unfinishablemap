@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-04T21:20:25.563308+00:00'
-session_count: 19970
+last_updated: '2026-09-04T21:31:53.122181+00:00'
+session_count: 19971
 cycle_position: 13127
 last_runs:
   add-highlight: '2026-09-04T08:12:15.106895+00:00'
@@ -35,7 +35,7 @@ last_runs:
   pessimistic-review: '2026-09-04T15:16:42.863462+00:00'
   positions-evolve: '2026-09-02T22:07:57.289908+00:00'
   refine-draft: '2026-09-04T19:58:28.910595+00:00'
-  replenish-queue: '2026-09-03T18:31:37.474395+00:00'
+  replenish-queue: '2026-09-04T21:31:53.122181+00:00'
   research-topic: '2026-09-04T16:58:12.968342+00:00'
   research-voids: '2026-09-04T12:20:29.189359+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-09-04'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-09-04'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-04'
   outcome: success
   kind: queue
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-09-04'
+  outcome: success
+  kind: replenish
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agency-budget/
@@ -413,50 +413,55 @@ agentic_social:
 queue_status:
   last_replenishment: '2026-09-04T21:30:06+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: 'RUN 1024. STANDARD MODE, FOUR MINTS (three pickable), fired by
-    the driver''s live pre-flight: parser-verified pickable P0-P2 == 2 against the floor of
-    3. Caps re-measured this run with tools.evolution.state.count_section_files, NOT the CLAUDE.md
-    table: topics 324/360, concepts 323/360, voids 100/115 (99 -> 100 today when voids/fusion-void
-    landed), positions 17/80 - no cap pressure, expand targets open. CHURN CONSTRAINT HONOURED:
-    40 live articles carry ai_modified 2026-09-04; the staleness source was checked and DECLINED
-    as inverted for this run - none of the four mints targets an article edited today (intrinsic-nature
-    ai_modified 2026-06-25, positions index untouched since 09-02). MINT 1+2 (P2 expand-topic,
-    chain/unconsumed_research): both task_chains.pending_articles entries verified live as
-    genuinely unconsumed - consumed_by null on each note, no live and no archive/ article
-    for either slug. voids-palette-extension-void-2026-09-04 -> voids/palette-extension-void
+  last_replenishment_note: 'RUN 1024. STANDARD MODE, FOUR MINTS (three pickable),
+    fired by the driver''s live pre-flight: parser-verified pickable P0-P2 == 2 against
+    the floor of 3. Caps re-measured this run with tools.evolution.state.count_section_files,
+    NOT the CLAUDE.md table: topics 324/360, concepts 323/360, voids 100/115 (99 ->
+    100 today when voids/fusion-void landed), positions 17/80 - no cap pressure, expand
+    targets open. CHURN CONSTRAINT HONOURED: 40 live articles carry ai_modified 2026-09-04;
+    the staleness source was checked and DECLINED as inverted for this run - none
+    of the four mints targets an article edited today (intrinsic-nature ai_modified
+    2026-06-25, positions index untouched since 09-02). MINT 1+2 (P2 expand-topic,
+    chain/unconsumed_research): both task_chains.pending_articles entries verified
+    live as genuinely unconsumed - consumed_by null on each note, no live and no archive/
+    article for either slug. voids-palette-extension-void-2026-09-04 -> voids/palette-extension-void
     (voids index L273 already lists it as Surveyed - standalone recommended); ontic-structural-realism-galilean-exclusion-2026-09-04
-    -> concepts/ontic-structural-realism. Both tasks carry the notes'' own source fences verbatim
-    (Ward and Meijer 2010 unread, Barbur press-only, feelSpace via secondary summary; Alter
-    2016 / Ladyman and Ross / French 2014 / Fink-Kob-Lyre 2021 all unread) so the expands
-    cannot quote what the research never opened. MINT 3 (P2 refine-draft, gap_analysis): concepts/intrinsic-nature
-    L92 discharges its own structural-realism falsifier with the bare words ''structural realism
-    without relata remains contested''; L54 asserts a world of pure structure ''looks incoherent''.
-    BOTH LOCI GREP-VERIFIED VERBATIM THIS RUN. The Chalmers ''respectable'' premise is raw-verified
-    in the research note but was NOT independently re-grepped this run, and the task says
-    so and names the URL to re-verify. Length measured live: 2082 words, status ok. MINT 4
-    (P3 positions-evolve audit, cadence): minted only after running all three checks from
-    the documented false-overdue failure mode, all of which pass - last FULL-register audit
-    is 200b4d3735 of 2026-07-12 (54d; the three later ''audit'' commits are single-entry or
-    single-domain), last_runs positions-evolve 09-02 was an update not an audit, and the register
-    HAS grown from the 34 entries / 8 domain files that commit cites to 56 unique P-IDs across
+    -> concepts/ontic-structural-realism. Both tasks carry the notes'' own source
+    fences verbatim (Ward and Meijer 2010 unread, Barbur press-only, feelSpace via
+    secondary summary; Alter 2016 / Ladyman and Ross / French 2014 / Fink-Kob-Lyre
+    2021 all unread) so the expands cannot quote what the research never opened. MINT
+    3 (P2 refine-draft, gap_analysis): concepts/intrinsic-nature L92 discharges its
+    own structural-realism falsifier with the bare words ''structural realism without
+    relata remains contested''; L54 asserts a world of pure structure ''looks incoherent''.
+    BOTH LOCI GREP-VERIFIED VERBATIM THIS RUN. The Chalmers ''respectable'' premise
+    is raw-verified in the research note but was NOT independently re-grepped this
+    run, and the task says so and names the URL to re-verify. Length measured live:
+    2082 words, status ok. MINT 4 (P3 positions-evolve audit, cadence): minted only
+    after running all three checks from the documented false-overdue failure mode,
+    all of which pass - last FULL-register audit is 200b4d3735 of 2026-07-12 (54d;
+    the three later ''audit'' commits are single-entry or single-domain), last_runs
+    positions-evolve 09-02 was an update not an audit, and the register HAS grown
+    from the 34 entries / 8 domain files that commit cites to 56 unique P-IDs across
     14 domain files measured live. Left at P3 per the SKILL''s own rule; not a floor-restorer.
-    SOURCES CHECKED AND EMPTY, not assumed: unconsumed_research beyond the two chain entries
-    (25 most recent research notes inspected for consumed_by - every other one is stamped);
-    length_analysis (162 warnings, but the only non-index critical live-content candidate,
-    apex/phenomenal-output-causal-machinery-dissociation at 6903 total / 5702 prose, is ALREADY
-    #veto at todo L1282 and BLOCKED at L3358 - source is blocked, not exhausted); orphan_integration
-    (quality.orphaned_files 0); positions_dependency_changed (17 Argued-in loci across 8 register
-    files cite articles edited today, but the two candidate defects were grep-verified ABSENT
-    from the register - ''merely information'' greps 0 in positions/, and the flat circularity
-    verdict retired from indexical-identity/quantum-interpretations/many-worlds today greps
-    0 there too - so no mint was warranted). NOT CHECKED, declared rather than claimed empty:
-    applied_apex_gap (the position-cluster analysis was not run this dispatch; 4 apex_type
-    applied articles exist). All four appends anchored above the Completed Tasks marker line
-    so no existing task line shifted; every mint carries a valid Type line and task_to_skill
-    maps all four (expand-topic x2, refine-draft, positions-evolve). Post-edit verification:
-    count_p0_p2_tasks == 5; parser buckets active 107 (102 P3 + 5 pickable P2), vetoed 3;
-    todo frontmatter ai_modified bumped to 2026-09-04T21:30:06+00:00; state YAML load-verified
-    after this write.'
+    SOURCES CHECKED AND EMPTY, not assumed: unconsumed_research beyond the two chain
+    entries (25 most recent research notes inspected for consumed_by - every other
+    one is stamped); length_analysis (162 warnings, but the only non-index critical
+    live-content candidate, apex/phenomenal-output-causal-machinery-dissociation at
+    6903 total / 5702 prose, is ALREADY #veto at todo L1282 and BLOCKED at L3358 -
+    source is blocked, not exhausted); orphan_integration (quality.orphaned_files
+    0); positions_dependency_changed (17 Argued-in loci across 8 register files cite
+    articles edited today, but the two candidate defects were grep-verified ABSENT
+    from the register - ''merely information'' greps 0 in positions/, and the flat
+    circularity verdict retired from indexical-identity/quantum-interpretations/many-worlds
+    today greps 0 there too - so no mint was warranted). NOT CHECKED, declared rather
+    than claimed empty: applied_apex_gap (the position-cluster analysis was not run
+    this dispatch; 4 apex_type applied articles exist). All four appends anchored
+    above the Completed Tasks marker line so no existing task line shifted; every
+    mint carries a valid Type line and task_to_skill maps all four (expand-topic x2,
+    refine-draft, positions-evolve). Post-edit verification: count_p0_p2_tasks ==
+    5; parser buckets active 107 (102 P3 + 5 pickable P2), vetoed 3; todo frontmatter
+    ai_modified bumped to 2026-09-04T21:30:06+00:00; state YAML load-verified after
+    this write.'
   last_replenishment_run: 1024
   loop_pickable_open: 5
   needs_replenishment: false
@@ -503,17 +508,6 @@ tune_system_history:
   report: reviews/system-tune-2026-08-26.md
 task_chains:
   pending_articles:
-  - research_file: obsidian/research/voids-palette-extension-void-2026-09-04.md
-    target_section: voids
-    date: '2026-09-04'
-    note: '2026-09-04 research-voids: standalone recommended (99/115 by gate, headroom
-      exists) - the verification face is the article, olo as the lead case; existing
-      acquaintance-void and synesthetic-void own the conceivability question, this
-      owns the certification question. Fold fallbacks named in the note (synesthetic-void
-      for induction, commensurability-void or observation-and-measurement-void for
-      verification); removing this entry vetoes the expand. Two open gaps the expand
-      must close first: Ward and Meijer 2010 was not read, and the Barbur objection
-      rests on press quotation only'
   - research_file: obsidian/research/ontic-structural-realism-galilean-exclusion-2026-09-04.md
     target_section: concepts
     date: '2026-09-04'

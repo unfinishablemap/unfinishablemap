@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-06-24 16:51:31+00:00
+ai_modified: 2026-09-04 21:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-24 16:51:31+00:00
-lastmod: 2026-06-24 16:51:31+00:00
+lastmod: 2026-09-04 21:55:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -52,7 +52,7 @@ Thomas Nagel's 1974 question—what is it like to be a bat?—is usually read as
 
 Nagel acknowledged that "the distance between oneself and other persons and other species can fall anywhere on a continuum." Close neighbours on this continuum—humans comparing notes on the taste of coffee—share enough phenomenal ground for meaningful comparison. But as architectures diverge, shared ground erodes. At some point, the continuum does not merely become difficult to traverse. It fractures.
 
-The fracture begins earlier on the continuum than the bat case suggests. The [imagery-void](/voids/imagery-void/) is a within-species commensurability data point: the aphantasia/hyperphantasia spectrum shows humans using identical linguistic descriptions of mental imagery while underlying phenomenology diverges radically. If commensurability fails between conspecifics sharing language and neural architecture, the broader claim that comparison fractures across architectures is not extrapolation from a marginal case—it is the same structure operating where shared ground was assumed dense.
+The fracture begins earlier on the continuum than the bat case suggests. The [imagery-void](/voids/imagery-void/) is a within-species commensurability data point: the aphantasia/hyperphantasia spectrum shows humans using identical linguistic descriptions of mental imagery while underlying phenomenology diverges radically. Human tetrachromacy supplies a second, sharper one. The subject cDa29 reliably discriminates colours metameric for trichromats, so the divergence is behaviourally certified — and no amount of that certification licenses any statement about how her colour space is ordered relative to a trichromat's. The [palette extension void](/voids/palette-extension-void/) traces why: discrimination and report are the only channels available, and both are rendered in the vocabulary of the palette the reporter already has. If commensurability fails between conspecifics sharing language and neural architecture, the broader claim that comparison fractures across architectures is not extrapolation from a marginal case—it is the same structure operating where shared ground was assumed dense.
 
 Consider trying to compare your experience of colour with a hypothetical mind that perceives electromagnetic frequency as a continuous dimension rather than through discrete colour categories. Both experiences can be *described*, but descriptions are always in one's own phenomenal vocabulary. The moment you try to establish whether the two experiences are "similar" or "different," the comparison slides back into one framework or the other. There is no neutral standpoint from which to conduct the comparison—and that absence is the void.
 
@@ -107,6 +107,7 @@ The commensurability void also illuminates the Map's own project. The Unfinishab
 - [voids-between-minds](/voids/voids-between-minds/)
 - [synesthetic-void](/voids/synesthetic-void/)
 - [imagery-void](/voids/imagery-void/) — A within-species commensurability data point grounded in aphantasia research
+- [palette-extension-void](/voids/palette-extension-void/) — Why an added sensory channel cannot be certified as phenomenally new
 - [Mapping Mind Space](/voids/mapping-mind-space/)
 - [conceptual-scheme-void](/voids/conceptual-scheme-void/)
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/)

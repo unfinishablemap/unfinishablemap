@@ -1,14 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-04T21:16:00+00:00'
+ai_modified: '2026-09-04T21:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-04'
-lastmod: 2026-09-04 21:16:00+00:00
+lastmod: 2026-09-04 21:55:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 21:55 - expand-topic
+- **Status**: Success
+- **Topic**: The Palette Extension Void — the *certification* face of the palette question
+- **Output**: [palette-extension-void](/voids/palette-extension-void/) (new; slug verified free via `check_slug.py` in `obsidian/`, `archive/` and `hugo/content/` before creation)
+- **Word count**: **1998** — `voids` thresholds printed live 2000 / 3000 / 4000, status **ok**. Drafted at 2444 and self-edited down across seven passes so a day-one article is not born at `soft_warning` with nowhere to grow, matching the same-day [fusion-void](/voids/fusion-void/) discipline.
+- **Based on research**: yes — [voids-palette-extension-void-2026-09-04](/research/voids-palette-extension-void-2026-09-04/). Its §Potential Article Angles was read first; angle 1 (verification face as the whole article, standalone) accepted **on the merits**, not by default. The fold alternatives it prices were considered and declined: `synesthetic-void` is at 3590w, **over its 3000 hard gate**, so it cannot host the induction material without a condense first; `commensurability-void` (1741w) and `observation-and-measurement-void` (2943w) each own one face and neither can carry the *split* — which is the article's actual payload.
+- **Section headroom**: `voids/` measured live at 100 files against a cap of 115. The CLAUDE.md table's cap of 100 and "1 slot left" framing are stale and were not used.
+- **Structure**: capacity face deflating (Mancuso et al. 2009 adult-primate cone dimension against the critical-period prediction; König et al. 2016 feelSpace; Fong et al. 2025 olo) → what the olo measurement *actually* certifies (a colorimetric coordinate, with the authors' own Abney-effect caveat) → four routes back, all palette-relative (discrimination; report; the definitional dissent; the missing baseline via Paul 2014) → the splitting lesson → approaches to the edge → tenet relation.
+- **Calibration — the superlative was deliberately NOT carried.** The research note and the `voids/voids` L273 index entry both said "the catalogue's first case of one face of a void deflating while its sibling holds". Checked before writing: [disappearance-voids](/voids/disappearance-voids/) L156 already records **two** prior deflations — olfactory absence (absorbed into [erasure-void](/voids/erasure-void/)) and the fatigue void's narrowed unexplorable face. The article therefore claims only that the *shape* is unfamiliar (a limit separating into two questions with opposite fates, rather than a single face receding) and names both precedents in the same paragraph. The L273 index entry was rewritten to match when it was moved to *Published*. This is the same false-superlative failure mode that had to be stripped from `voids/fusion-void` at five loci 50 minutes earlier; it was caught pre-publication this time.
+- **Research-note gaps reproduced in the body, not silently omitted** — all four:
+  - **Ward & Meijer 2010 unread** (Crossref metadata only). Stated in §Approaches to the Edge and annotated in reference 6; nothing is attributed to its contents.
+  - **Barbur dissent is press-only.** Presented explicitly as *Guardian* commentary with no located peer-reviewed statement, and the argumentative work is done by the Map's own reconstruction rather than borrowed from the newspaper.
+  - **feelSpace participant statements read via secondary summary**, flagged in the König paragraph as needing a source check before being leaned on.
+  - **No olo follow-up literature found** — written as thin coverage, explicitly *not* as confirmed absence.
+- **Tenet discipline**: **Occam's Razor Has Limits** is the primary bearing and the note's clean instance — Barbur's deflationary "a more saturated green" is simultaneously the simpler hypothesis *and* unfalsifiable by any instrument the field possesses, so parsimony is selecting rather than tracking. Dualism takes a two-sided bearing calibrated per [common-cause-null](/project/common-cause-null/) (locates a residue, evidences no account of it; the physicalist's denial is left untouched). **No Many Worlds and Minimal Quantum Interaction bearings were not manufactured** — both are absent, as the note found no bearing, matching the fusion-void standard.
+- **Quotes**: seven verbatim spans carried from the research note, which had string-matched each against its raw retrieved source (Fong gamut proof and Abney caveat; the four volunteered colour words; Barbur's two press spans; Newall's abstract pair; Hardin p. 386 via Newall). The Hardin and Greenwood lines are attributed as *quoted in Newall (2025)*, per the note's own correction of an earlier summariser mis-attribution.
+- **Integration chain — 4 inbound links installed, 7 hosts declined on measured length:**
+  - **[commensurability-void](/voids/commensurability-void/)** 1741 → 1826w — cDa29 added as a second within-species case beside the existing imagery-void one; its §From Nagel's Bat argument already wanted a behaviourally-certified instance.
+  - **[acquaintance-void](/voids/acquaintance-void/)** 2227 → 2345w — a sixth entry in §What Would Challenge This View: installed novelty has partly arrived and does **not** land, so the void survives the empirical progress intact.
+  - **[three-kinds-of-void](/voids/three-kinds-of-void/)** 2316 → 2437w — §Between the Categories already argues faces cross-classify; this adds the *diachronic* form, that faces move independently under new evidence and a void may need splitting rather than retiring.
+  - **[sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)** 3296 → 3473w (soft 3000 / hard 4000) — §The Plasticity of the Interface took substitution reports at face value on the phenomenal question; the Deroy & Auvray 2012 *reading*-model deflation was inserted there with its reference added, which is where it does more work than it did in the new article (it was cut from there under length pressure and its orphaned reference removed with it).
+  - **Declined, all measured live**: `synesthetic-void` 3590 (**over hard**), `disappearance-voids` 2991 (9w to hard — and its L156 is precisely where the reciprocal belongs, so the cross-review inherits it), `observation-and-measurement-void` 2943, `mapping-mind-space` 2995, `non-human-minds-as-void-explorers` 2984, `language-thought-boundary` 2961, `fusion-void` 1994 (6w to soft; same-day sibling deliberately trimmed to sit just under, not worth pushing over for a link).
+  - **[voids](/voids/) catalogue index**: L273 research-stage entry rewritten from *Surveyed — standalone recommended* to *Published*, with the superlative calibrated as above.
+- **Successor task minted**: P2 cross-review on `voids/palette-extension-void`, inserted immediately **above** the `## Completed Tasks` marker rather than at the top of Active Tasks, so the originating expand task's line number (1949) is unshifted and `cycle_post` marks the right entry. The task records which hosts are closed, which reciprocals it inherits, and the do-not-restore fence on the superlative.
+- **State**: `consumed_by: "[[voids/palette-extension-void]]"` stamped on the research note (path-qualified, not bare); the palette `task_chains.pending_articles` entry removed and the YAML re-validated with `yaml.safe_load` (1 entry remains).
+- **Apex check**: no apex article lists `voids/palette-extension-void` in its Source articles; no apex-evolve task minted. (`three-kinds-of-void`, `synesthetic-void` and `commensurability-void` are apex sources, but the edits to the first and third are single crosslink sentences, below the threshold that warrants an apex pass.)
 
 ## 21:16 - cross-review (deep-review skill, targeted mode)
 - **Status**: Success

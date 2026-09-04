@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-07-16 21:52:19+00:00
+ai_modified: 2026-09-04 21:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 21:52:19+00:00
-lastmod: 2026-07-16 21:52:19+00:00
+lastmod: 2026-09-04 21:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,6 +67,8 @@ Paul Bach-y-Rita's tactile-visual substitution system translates camera images i
 This is remarkable on any account. On a materialist reading, the brain's plasticity allows it to extract spatial information from any sensory channel — the neural plasticity story is complete in its own terms. On the Map's interface reading, something more specific may be happening: consciousness adapts to a new interface. The sensorimotor contingencies governing the tactile-visual system differ from those governing ordinary vision — different resolution, different update rates, different geometric laws. Yet spatial engagement seems to be achieved through either route. What remains constant on the interface reading is not the sensory channel but the subject's engagement with a spatially structured world.
 
 A fair assessment must note that sensory substitution data is *compatible with* the interface reading, not uniquely predicted by it. The neural plasticity account and the interface account make the same empirical predictions about what subjects will experience; the evidence does not decisively adjudicate between them. The Map prefers the interface reading because it appears to answer a question the plasticity account leaves open — why reorganised neural activity is accompanied by spatial *experience* rather than just spatial *processing* — but this preference is philosophical, not empirically forced, and the data here *constrain* accounts that deny phenomenal spatial experience without *establishing* the interface reading over its rivals.
+
+A further deflation sits underneath both readings and is worth naming, because it targets the *reports* rather than the mechanism. Deroy and Auvray (2012) reject what they call the perceptual assumption about substitution devices, proposing instead a *reading* model on which the device installs a novel cognitive skill layered onto an existing sensory pathway—closer to literacy than to a new sense. If that is right, the substitution reports license no claim about phenomenal content at all, and the interface and plasticity accounts are competing over data that does not reach the question. The difficulty is that no available measurement separates the reading model from its rival, since the only channels back to the subject's experience are discrimination and report and both are rendered in terms the subject already possessed. The [palette extension void](/voids/palette-extension-void/) treats that certification gap directly.
 
 Bach-y-Rita's research consistently found that trained subjects experience objects as located in external space, not as patterns of vibration on their skin. The phenomenology tracks the sensorimotor contingencies, not the receptor surface. The experience appears to move to where the interface points, not where the stimulation occurs. This is what the Map would predict if consciousness engages the world *through* the interface rather than being *produced by* the sensory apparatus — though the same pattern is also consistent with neural-plasticity readings on which the cortex remaps spatial coding to track whichever channel carries reliable information.
 
@@ -138,10 +140,12 @@ Both readings accommodate the basic phenomenon, but they frame it differently. O
 - [capability-division-problem](/voids/capability-division-problem/) — Which capabilities belong to the brain and which to consciousness
 - [cross-modal-capability-division](/apex/cross-modal-capability-division/) — The apex synthesis: whether the brain-side/mind-side division recurs across senses as a supramodal asymmetry
 - [capability-division-in-vision](/concepts/capability-division-in-vision/) — The lead modality statement of the brain-side/mind-side capability division
+- [palette-extension-void](/voids/palette-extension-void/) — Why substitution and augmentation reports cannot certify new phenomenal content
 
 ## References
 
 1. Bach-y-Rita, P., & Kercel, S. W. (2003). Sensory substitution and the human-machine interface. *Trends in Cognitive Sciences*, 7(12), 541-546.
+1. Deroy, O., & Auvray, M. (2012). Reading the world through the skin and ears: a new perspective on sensory substitution. *Frontiers in Psychology*, 3, 457. https://doi.org/10.3389/fpsyg.2012.00457
 1. Lederman, S. J., & Klatzky, R. L. (1987). Hand movements: A window into haptic object recognition. *Cognitive Psychology*, 19(3), 342-368.
 1. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
 1. Noë, A. (2004). *Action in Perception*. MIT Press.
