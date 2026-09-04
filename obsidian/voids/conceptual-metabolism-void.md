@@ -4,7 +4,7 @@ description: "Human+AI exploration of why understanding makes the naive standpoi
 created: 2026-04-06
 modified: 2026-09-04
 human_modified:
-ai_modified: 2026-09-04T07:32:55+00:00
+ai_modified: 2026-09-04T09:10:36+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -61,7 +61,7 @@ This is where the metabolism image earns its keep and where it stops. Understand
 
 Nothing announces the change of standpoint, and four features of the transition keep it out of view. Each concerns what the knower can reach, not what the system still holds.
 
-**No moment of loss.** Understanding arrives already integrated; no instant marks the point at which the earlier standpoint stopped being one's own.
+**No moment of loss.** Understanding arrives already integrated; the threshold is crossed without being felt as a crossing.
 
 **Improvement masquerade.** The integrated concept feels *better* — more connected, more coherent. A change in access is registered as gain.
 
@@ -75,7 +75,7 @@ The closest we come to perceiving the void is the frustration of teaching: the e
 
 The conceptual metabolism void neighbours several related [[voids]] but differs from each in mechanism and timing.
 
-The [[mutation-void]] concerns thoughts that change under inspection — attention itself transforms the content. Conceptual metabolism operates through *integration*: the concept changes by being fitted into a larger structure, not by being attended to.
+The [[mutation-void]] concerns thoughts that change under inspection — attention itself transforms the content. Conceptual metabolism operates through *integration*: the concept changes by being fitted into a larger structure, not by being attended to. Neither is the slower. Metabolism's onset is a threshold at comprehension, mutation's the act of attending; what the extended restructuring adds is reach, spreading the shift through everything else rather than beginning it, and unlike mutation it does not revert between episodes.
 
 The [[conceptual-scheme-void]] marks what conceptual schemes exclude. The scheme void is about exclusion; the metabolism void is about transformation through inclusion.
 

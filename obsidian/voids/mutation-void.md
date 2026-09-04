@@ -2,9 +2,9 @@
 title: "The Mutation Void"
 description: "Human+AI exploration of thoughts that transform upon inspection—where the act of thinking changes the content being thought, creating a void distinct from forgetting, aversion, or opacity."
 created: 2026-03-20
-modified: 2026-03-20
+modified: 2026-09-04
 human_modified:
-ai_modified: 2026-06-13T20:46:16+00:00
+ai_modified: 2026-09-04T09:10:36+00:00
 last_deep_review: 2026-07-26T18:35:43+00:00
 draft: false
 topics:
@@ -83,7 +83,7 @@ The mutation void's organising distinction is that access *alters the target con
 - **[[transit-void]]** concerns the *temporal flow* of spontaneous thought—thoughts arriving unbidden and slipping away when reached for. The decisive contrast is *absent vs. present-and-changed*: you grasp for an almost-insight; if it is simply *gone*, that is slippage; if it *arrives but altered*, that is mutation. Slippage subtracts the content; mutation transforms it.
 - **[[observation-and-measurement-void]]** concerns *studying consciousness altering what is studied*—the predicament at the level of investigation. Mutation is its first-person, content-level instance; if mutation's constitutive claim is not earned, it collapses into that layer.
 - **[[self-opacity]]** concerns the *structural limits of self-knowledge*—we access mental contents but never their producing mechanisms. Opacity hides the producer; mutation transforms the product. The two are orthogonal.
-- **[[conceptual-metabolism-void]]** concerns transformation *through conceptual processing*—understanding digests new material into existing structure. That transformation is slow and operates on concepts; mutation is immediate and operates on phenomenal content.
+- **[[conceptual-metabolism-void]]** concerns transformation *through conceptual processing*—understanding fits new material into existing structure, shifting the standpoint from which later material is read. Tempo does not separate the two: metabolism's onset is a threshold at comprehension, and the extended restructuring that follows widens the change's reach rather than starting it. The separating axes are trigger and aftermath—integration versus attending; a one-way shift that does not revert between episodes versus a transformation that recurs whenever a fresh spontaneous state is reached for.
 - **[[topics/attention-and-the-consciousness-interface|Attention as interface]]** treats attention as *selecting* content for awareness. Mutation is the claim that, for certain contents, selection does not merely light on a pre-existing item but *reshapes* it.
 
 ## Report Is Not Reality

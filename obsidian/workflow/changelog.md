@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-04T08:56:29+00:00'
+ai_modified: '2026-09-04T09:10:36+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-04T09:10:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/mutation-void]] (with reciprocal edit to [[voids/conceptual-metabolism-void]])
+- **Task**: outer review 2026-09-03 (ChatGPT 5.6 Pro) §10 — the mutation/metabolism taxonomic boundary rested on a tempo contrast the sibling article did not respect.
+- **⚠️ The task's stale-premise warning was itself half-wrong, and checking it was the whole job.** The dispatch note warned that the quoted premise (`conceptual-metabolism-void` L36 "cannot be re-entered") had been rewritten that morning by commit `3fa7a8fd`, and instructed me to re-derive the tempo question from current text and to say plainly if the conflict had already dissolved. It had **not**. `3fa7a8fd` was a *modal* correction (settled impossibility → open question) plus the five-way distinction; it touched no tempo claim. The sibling's tempo statements all survive verbatim: L82 "comprehension is where the standpoint shifts", L84 "operates on first encounter: the pre-understood standpoint recedes as soon as the concept lands". So `mutation-void` L86's "That transformation is **slow**" was still false to the article it was distinguishing itself from. Verified by reading `git show 3fa7a8fd` rather than by re-reading the sibling alone — the diff is what shows which sentences were *not* in scope.
+- **Decision (the review's option 3, multi-stage with the relation specified)**: metabolism's **onset is a threshold at comprehension**; the extended restructuring that follows (Gadamer's fusion, Hanson's trained observer, Shtulman's "years of science education") **widens the change's reach rather than starting it**. Both stages were already implicit in the sibling's own evidence; neither article had stated their relation.
+- **Consequence for the taxonomy — tempo was never the real axis.** Both voids' onsets are punctate and act-coincident (metabolism at comprehending, mutation at attending), so "slow vs. immediate" could not have separated them whatever tempo metabolism had. The boundary now rests on the two axes both articles independently already asserted: **trigger** (integration vs. attending — exactly `conceptual-metabolism-void` L78's own contrast) and **aftermath** (one-way, non-reverting vs. recurring on each fresh spontaneous state — the "one-way movement" the sibling states twice).
+- **Changes**:
+  - `mutation-void` L86 — replaced the tempo contrast with the trigger/aftermath axes; also "digests new material" → "fits new material", the digestion verb being the consumption image the same review asked the corpus to stop leaning on.
+  - `conceptual-metabolism-void` L78 — reciprocal statement of the same decision, so both articles now say the same thing rather than one deferring to the other.
+  - `conceptual-metabolism-void` L64 — "no instant marks the point at which the earlier standpoint stopped being one's own" → "the threshold is crossed without being felt as a crossing". Required by the decision: the old wording denied a threshold exists, which would have contradicted the threshold account three sections later. The section's point (the change is unnoticed) is preserved; only the claim that there is no crossing is withdrawn.
+- **Sweep**: the tempo claim was a single article-body locus. `grep` for "transformation is slow" / "slow and operates" / "is immediate and operates" across `obsidian/`, `hugo/content/` and `archive/` now returns nothing outside `todo.md` and the review file (both correct as historical record).
+- **Scope held**: `mutation-void` L124 ("a coherence claim, not added support") untouched — cited elsewhere in the queue as a corpus exemplar. `conceptual-metabolism-void` L38's "occluded void in the [[voids]] taxonomy" untouched — reserved for the third task in this converging trio.
+- **⚠️ Residue found, NOT fixed (out of scope, no task open):** the 2026-08-27 consumption withdrawal still has two unpropagated dependents, both asserting the retracted thesis. `voids/voids.md:211` glosses the article as "How understanding **consumes concepts irreversibly, destroying their pre-understood form**" — a section-index entry, so it is the first thing a reader of `/voids/` sees. `voids/phenomenal-quality-void.md:72` and `:154` say metabolism works by "**consuming whatever was there before**" and "irreversibly transforms concepts". Note this against `project/coherence-inflation-countermeasures.md:612`, which records the 2026-09-04 remediation as having "walked all eight non-workflow files that link the corrected article, repairing two and clearing the rest" — that walk enumerated `related_articles` and Further Reading backlinks, and **`voids.md` carries the claim in a one-line index gloss with no backlink to enumerate**, so the sweep's own method could not reach it. Worth a P2.
+- **Length**: near-neutral as required — `mutation-void` 2994→3045 body words (+1.7%), `conceptual-metabolism-void` 2199→2237 (+1.7%).
+- **Verified**: `scripts/sync.py` clean; `scripts/validate.py hugo/content/voids/` reports 0 invalid; new text confirmed present in both obsidian and hugo trees.
+- **Published**: yes
 
 ## 2026-09-04T08:56:29+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline — no merge; the steady-state SUCCESS outcome per the coalesce candidate-pool memory)
