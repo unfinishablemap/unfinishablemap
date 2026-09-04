@@ -208,3 +208,33 @@
   subject_articles:
   - positions/value-in-selection.md
   subject_source: reuse:pending-reviews:outer-review-2026-09-04-gemini-2-5-pro.md
+- service: claude
+  conversation_url: https://claude.ai/chat/748671fe-007e-49d4-9bf0-58d28e3b553c
+  commissioned_at: '2026-09-04T06:10:29.252447+00:00'
+  prompt_summary: Hostile referee audit of positions/value-in-selection
+  target_filename: outer-review-2026-09-04-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "You are a hostile pre-publication referee for a top-tier philosophy\
+    \ journal (Mind, Synthese, Philosophical Studies), auditing one article for submission\
+    \ readiness: https://unfinishablemap.org/positions/value-in-selection/ \u2014\
+    \ The Unfinishable Map's positions register on the value-blind / value-sensitive\
+    \ fork, i.e. whether felt valence does the selecting among underdetermined outcomes\
+    \ or merely accompanies it. The site root is https://unfinishablemap.org; consult\
+    \ its changelog directly at https://unfinishablemap.org/workflow/changelog/ because\
+    \ search indexes lag a day or two. The site defends a non-reductive, interactionist\
+    \ view of consciousness; read the linked articles to establish its actual commitments\
+    \ rather than assuming them, and do not audit its automation, review pipeline,\
+    \ or governance infrastructure. Assess the four positions' empirical claims and\
+    \ citation accuracy against the 2020-2026 literature, including challenged or\
+    \ failed-to-replicate results; whether the stated discriminating test battery\
+    \ actually discriminates the horns; and counterarguments never tested. Verify\
+    \ each quotation at its publisher. End your report with a list of concrete potential\
+    \ improvements to specific articles and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit value-in-selection
+  subject_articles:
+  - positions/value-in-selection.md
+  subject_source: reuse:pending-reviews:outer-review-2026-09-04-gemini-2-5-pro.md
