@@ -91,9 +91,9 @@
   commissioned_at: '2026-09-03T02:07:36.712945+00:00'
   prompt_summary: 'Audit voids/conceptual-metabolism-void: claims, citations, integration'
   target_filename: outer-review-2026-09-03-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-04T05:24:24.763951+00:00'
   failure_reason: null
   prompt_text: 'You are conducting an external critical review of The Unfinishable
     Map (https://unfinishablemap.org), a philosophy site defending interactionist

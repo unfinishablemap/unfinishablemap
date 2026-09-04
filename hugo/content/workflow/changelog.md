@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-03T19:05:00+00:00'
+ai_modified: '2026-09-04T05:35:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
-date: '2026-09-03'
-lastmod: 2026-09-03 19:05:00+00:00
+date: '2026-09-04'
+lastmod: 2026-09-04 05:35:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-04T05:35:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (gpt-5-6-pro)
+- **File**: [outer-review-2026-09-03-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-09-03-chatgpt-5-6-sol-pro/)
+- **Subject**: `voids/conceptual-metabolism-void` (recent-aged fallback; same subject as the 2026-09-03 Claude leg)
+- **Verdict**: major revision. The 2026-08-27 rewrite's *negative* correction (naive representations are suppressed, not consumed; the phenomenon does not discriminate physicalism from dualism) was judged sound; its remaining positive modal claim — permanent phenomenal closure — was judged unestablished by the cited evidence, which measures response times, errors, inhibition and reversion rather than the identity of first-person experience.
+- **Claims verified**: 7 verified, 3 disputed/discounted, 2 left unchecked — every quoted attribution to a Map article was grepped on disk before any task was minted
+- **Headline finding**: the 2026-08-27 correction never propagated. `voids/expertise-and-its-occlusion` still asserts the withdrawn consumption thesis in four places — L53 "novice perception is **overwritten** by expert perception, and the prior phenomenology cannot be recovered through effort, imagination", L51 "permanently occludes the phenomenology it replaces", L129 "overwrites what came before", and the L3 `description` frontmatter, a navigation surface asserting on the article's behalf what its sibling now disclaims. No link-grep would have found it: the sibling never quotes the corrected sentence, it independently asserts the same proposition in different words.
+- **Second finding**: `conceptual-metabolism-void` contradicts itself internally — L42 "the original persists sub-personally" against L60 "Metabolism **replaces the original** so seamlessly that no gap is perceived". The rewrite fixed the thesis and left the section framing behind.
+- **Citations checked at source**: Xu et al. 2025 confirmed at Crossref as PNAS 122(44) e2512514122, DOI 10.1073/pnas.2512514122 (reference 13 omits both); Europe PMC abstract confirms the study investigated representations "during an in-context concept inference task" — no pretraining trajectories, no checkpoints — while L96 places it where it reads as support for exactly those. Wittgenstein locator "1953/2009, Part II, §xi" is edition-mismatched: the 2009 fourth edition the reference names renamed Part II to *Philosophy of Psychology — A Fragment* and renumbered its remarks.
+- **Reviewer errors caught**: named the target "The Expertise Void" (no such file; resolved to `expertise-and-its-occlusion`); called the live copy stale at 26 May when the Hugo tree carries the 08-27 revision — a search-index cache, not a deploy defect; offered training-data extraction as a complication the article already concedes verbatim at L96 ("except where memorised").
+- **Tasks generated**: 6 (P1: 2, P2: 4) — expertise propagation, conceptual-metabolism calibration + citations, inaccessible-past invalid conditional, continual-learning categorical claim, mutation-void taxonomy reconciliation, correction-propagation discipline
+- **Convergence note**: the methodology finding — claim-match review is independent of metadata review, and this article passed a converged-stable metadata pass before anyone tested whether its central claim matched its cited findings — echoes the 2026-09-03 optimistic review's [P-M5](/positions/methodology-and-calibration/#p-m5) finding on the Churchland quote. Two independent lenses, same week, same structural gap.
 
 ## 2026-09-03T19:05:00+00:00 - optimistic-review
 - **Status**: Success
