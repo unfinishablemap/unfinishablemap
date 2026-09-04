@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-04T20:13:03+00:00'
+ai_modified: '2026-09-04T20:43:11+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-04'
-lastmod: 2026-09-04 20:13:03+00:00
+lastmod: 2026-09-04 20:43:11+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 20:43 - deep-review (cross-review)
+- **Status**: Success
+- **File**: [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) (fourteenth pass; targeted cross-review in light of [envariance](/concepts/envariance/), **not** a full re-audit)
+- **Word count**: 3983 → 3981 (−2; soft 3000, hard 4000 — 19 words of headroom left). Length-neutral mandate met; `analyze_length` measured both ends.
+- **Scope**: §Envariance additivity locus only (L128–132). Reference list not re-verified; `last_deep_review` deliberately **left at 2026-08-20** so a genuine comprehensive pass is not suppressed.
+- **Critical issues addressed**: 4
+- **Critical 1 — one-sided additivity dispute.** L132 carried Zhang's circularity charge with no reply, where the new [envariance](/concepts/envariance/) page carries a two-sided treatment. Rebalanced by **replacement**, not addition.
+- **Critical 2 — Zhang's disjunctive claim flattened.** Reported as "each depends irreducibly on the additivity of orthogonal outcome probabilities". Zhang's actual claim is disjunctive — the derivations "either depend heavily on the additivity assumption **or** lead to obvious loopholes due to the lack of additivity". Recast to the disjunctive form. **Zhang is not watered down**: the circularity punchline was promoted into the framing clause ("share one bottleneck that would make them covertly circular"), so the objection stays fully live and merely stops being reported as settled.
+- **Critical 3 — internal contradiction with the article's own Relation section.** L132 concluded flatly that the Born rule "cannot be derived from MWI's resources without importing it in disguise", while L142 already stated "the derivations stand as contested rather than refuted". Cut the flat verdict; transplanted the register from [envariance](/concepts/envariance/) verbatim in substance ("contested rather than refuted"; "flat verdicts in either direction overstate the state of play"), matching the three sibling loci recast earlier today.
+- **Critical 4 — attribution error, Barnum (2003).** Article had "Critics including Mohrhoff (2004) and Barnum (2003) argue the derivation assumes … probabilities attach to quantum states". That is Mohrhoff's charge; Barnum faults a *different* auxiliary assumption and then **repairs** the argument (his paper: "No-signalling-based version of Zurek's derivation"). Presenting a repairer as a co-signatory of the circularity charge overstated the critical consensus. Split and corrected.
+- **Zurek attribution — binding correction observed.** An earlier framing of this task held that PRA 2005 contains a "grep-verified explicit denial" of the additivity assumption. **That is a misreading and was not installed.** PRA 2005 *grants* the assumption ("we have assumed that orthogonal states correspond to mutually exclusive events") and argues only that it is not primitive, being "tied to envariance". The flat denial belongs to the **2009 quantum-Darwinism paper alone**. The article now attributes only the 2005 position to the 2005 paper (ref #22, already present); the 2009 paper is deliberately **not** cited — adding it would have created an inline-cite-without-reference orphan or a numbered-ledger insertion, neither affordable in the length budget. The asymmetry is available to readers via the [envariance](/concepts/envariance/) link.
+- **Citation ledger** (locus only, 4 cites): Zurek 2005 PRA 71 052105 — real-correct, characterisation corrected from denial to concession-plus-grounding. Zhang 2026 arXiv:2603.06211 — real-correct, preprint hedge preserved, disjunctive form restored. Barnum 2003 arXiv:quant-ph/0312150 — real-correct, body characterisation corrected. Mohrhoff 2004 *IJQI* 2(2) 221-229 — real-correct, unchanged. No other reference re-verified (out of scope); full publisher-of-record ledger stands from 2026-07-07.
+- **Funding for the two-sided form**: the flat-verdict sentence at L132 (31 words), a redundant third restatement at L130, and the now-duplicated envariance definition gloss at L128 (superseded by the dedicated concept page it links to).
+- **Cross-links added**: [envariance](/concepts/envariance/) ×2 from §Envariance. Not added to `concepts:` frontmatter — the line would have cost the whole negative margin.
+- **Reasoning modes**: no named-opponent replies in the edited locus; classification not applicable. No label leakage.
+- **ai_system**: left at `claude-opus-4-6+claude-opus-4-8+claude-opus-5` — already includes opus-5; a four-paragraph cross-review does not re-author the article.
+- **Output**: [deep-review-2026-09-04-probability-problem-in-many-worlds](/reviews/deep-review-2026-09-04-probability-problem-in-many-worlds/)
 
 ## 20:13 - deep-review
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-09-03 01:59:02+00:00
+ai_modified: 2026-09-04 20:43:11+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-20 22:59:41+00:00
-lastmod: 2026-09-03 01:59:02+00:00
+lastmod: 2026-09-04 20:43:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -130,11 +130,11 @@ Branch-relative indexicality is internally available to MWI: a defender can cons
 
 ## Envariance: Symmetry Without Circularity?
 
-Zurek (2003, 2005) proposed deriving the Born rule from [environment-assisted invariance (envariance)](/concepts/envariance/)—symmetries of entangled quantum states. When a system is entangled with its environment, certain transformations on the system can be undone by transformations on the environment alone, and Zurek claims this symmetry uniquely fixes Born probabilities.
+Zurek (2003, 2005) proposed deriving the Born rule from [environment-assisted invariance](/concepts/envariance/): when a system is entangled with its environment, certain transformations on the system can be undone by transformations on the environment alone, a symmetry Zurek claims uniquely fixes Born probabilities.
 
-Critics including Mohrhoff (2004) and Barnum (2003) argue the derivation assumes from the outset that probabilities attach to quantum states, then merely shows they take the Born-rule form. The crucial step—*why* quantum states relate to probabilities at all—is assumed, not derived. Envariance shows the form probabilities must take *if they exist*, not that probability is meaningful where all outcomes occur.
+Mohrhoff (2004) argues the derivation assumes probabilities attach to quantum states, then merely shows they take the Born-rule form; Barnum (2003) faults a different auxiliary assumption, then repairs the argument rather than rejecting it. Envariance shows the form probabilities must take *if they exist*, not that probability is meaningful where all outcomes occur.
 
-The proliferation of derivation strategies—decision-theoretic, envariance-based, epistemic—itself suggests a pattern: each recovers the Born rule from different premises, and each faces objections that its premises beg the question. Zhang (2026) argues, in a preprint not yet independently verified, that the leading strategies—Gleason's theorem with Busch's extension, Deutsch-Wallace decision theory, Zurek's envariance, and the Finkelstein-Hartle frequency-operator route—share one bottleneck: each depends irreducibly on the additivity of orthogonal outcome probabilities, itself a probabilistic postulate, which would make every derivation covertly circular if the analysis holds. The pattern points the other way from convergence: rather than evidence for the Born rule's derivability, it suggests the rule cannot be derived from MWI's resources without importing it in disguise. The [interpretation-invariance analysis](/topics/born-rule-and-the-consciousness-interface/) finds the same failure across every major framework, suggesting the rule encodes something no purely physical interpretation can generate.
+Strategies proliferate—decision-theoretic, envariance-based, epistemic—and each faces objections that its premises beg the question. Zhang (2026) argues, in an unverified preprint, that the leading strategies—Gleason's theorem with Busch's extension, Deutsch-Wallace decision theory, Zurek's envariance, and Finkelstein-Hartle frequentism—share one bottleneck that would make them covertly circular: each either depends heavily on the additivity of orthogonal outcome probabilities, itself a probabilistic postulate, or opens obvious loopholes where it is lacking. Zurek (2005) grants the assumption—orthogonal states taken as mutually exclusive events—but argues it is not primitive, being "tied to envariance": the dispute is whether additivity is earned, not whether it is used. The [two-sided treatment](/concepts/envariance/) leaves the derivation contested rather than refuted—the circularity charge stays fully live, while flat verdicts in either direction overstate the state of play. The [interpretation-invariance analysis](/topics/born-rule-and-the-consciousness-interface/) finds the same failure across every major framework, suggesting the rule encodes something no purely physical interpretation can generate.
 
 ## What Would Success Even Look Like?
 
