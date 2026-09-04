@@ -53,15 +53,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-09-04
 
-### P2: `apex/self-concealing-interface` L77 presents a paraphrase as a direct quotation of `tenets.md` — and the paraphrase is the unqualified over-claim
-- **Type**: refine-draft
-- **File**: obsidian/apex/self-concealing-interface.md
-- **Status**: pending
-- **Notes**: Found during the 2026-09-04 tenets.md scoping fix; **driver-verified before minting, and confirmed PRE-EXISTING rather than collateral**. L77 quotes, in quotation marks, as the tenets page: "with current and foreseeable instruments the mechanism is *empirically indistinguishable from chance*". `grep -c` for that string in `obsidian/tenets/tenets.md` returns **0**, and `git show HEAD:obsidian/tenets/tenets.md` confirms it returned 0 **before** commit 71a78a57 too — so the fix did not create this, the quote was never accurate. The adjacent quoted fragment in the same passage ("leaves no statistical signature in long runs") DOES verify against tenets.md, which is exactly why the defect survived: one half of the pair checks out. This is [[quote-must-be-grep-verifiable-in-raw-source]] plus [[coalesce-wraps-paraphrase-as-fabricated-verbatim-quote]]. ⚠️ **The article also contradicts itself twelve lines later**: L89 states the correctly scoped version — "undetectable by *aggregate Born-statistics tests* specifically; it is not undetectable in every register". So the fix is not merely to unquote L77 but to bring it into line with L89, which the article already gets right. **FIX**: either drop the quotation marks and paraphrase accurately with the `unconditioned` scoping now live at tenets.md L107, or quote the real sentence. Do not delete the passage — the point it makes is sound, only its attribution and its scope are wrong. Length-neutral. Edit obsidian, sync, grep both trees.
-- **Review file**: `reviews/tenet-check-2026-09-04.md`
-- **Source**: refine-draft-sweep
-- **Generated**: 2026-09-04
-
 ### P3: `concepts/categorical-surprise` L55/L59 — the Gödel and Tarski appeal establishes incompleteness, not the undetectability the argument needs, and the article's own reply at L61 draws that distinction for consciousness without applying it back
 - **Type**: refine-draft
 - **File**: obsidian/concepts/categorical-surprise.md
@@ -1990,6 +1981,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-04: `apex/self-concealing-interface` L77 presents a paraphrase as a direct quotation of `tenets.md` — and the paraphrase is the unqualified over-claim
+- **Type**: refine-draft
+- **File**: obsidian/apex/self-concealing-interface.md
+- **Notes**: Found during the 2026-09-04 tenets.md scoping fix; **driver-verified before minting, and confirmed PRE-EXISTING rather than collateral**. L77 quotes, in quotation marks, as the tenets page: "with current and foreseeable instruments the mechanism is *empirically indistinguishable from chance*". `grep -c` for that string in `obsidian/tenets/tenets.md` returns **0**, and `git show HEAD:obsidian/tenets/tenets.md` confirms it returned 0 **before** commit 71a78a57 too — so the fix did not create this, the quote was never accurate. The adjacent quoted fragment in the same passage ("leaves no statistical signature in long runs") DOES verify against tenets.md, which is exactly why the defect survived: one half of the pair checks out. This is [[quote-must-be-grep-verifiable-in-raw-source]] plus [[coalesce-wraps-paraphrase-as-fabricated-verbatim-quote]]. ⚠️ **The article also contradicts itself twelve lines later**: L89 states the correctly scoped version — "undetectable by *aggregate Born-statistics tests* specifically; it is not undetectable in every register". So the fix is not merely to unquote L77 but to bring it into line with L89, which the article already gets right. **FIX**: either drop the quotation marks and paraphrase accurately with the `unconditioned` scoping now live at tenets.md L107, or quote the real sentence. Do not delete the passage — the point it makes is sound, only its attribution and its scope are wrong. Length-neutral. Edit obsidian, sync, grep both trees.
 
 ### ✓ 2026-09-04: The "no signature at any sensitivity" over-concession family — five verified loci in four files, unblocked now that tenets.md L107 is scoped
 - **Type**: refine-draft

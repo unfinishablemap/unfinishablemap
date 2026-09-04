@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-04T18:49:00+00:00'
+ai_modified: '2026-09-04T18:54:43+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-04'
-lastmod: 2026-09-04 18:49:00+00:00
+lastmod: 2026-09-04 18:54:43+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 18:54 - refine-draft
+- **Status**: Success
+- **File**: [self-concealing-interface](/apex/self-concealing-interface/)
+- **Task**: Fabricated verbatim quotation of the tenets page at L77 (minted during the 2026-09-04 `tenets.md` scoping fix; see [tenet-check-2026-09-04](/reviews/tenet-check-2026-09-04/)).
+- **Word count**: 5118 -> 5116 (**-2**; `hard_warning` both ends, thresholds 4000/5000 — the brief required length-neutral-or-shorter and the pass delivered shorter)
+- **The defect.** L77 presented, inside quotation marks and attributed to the tenets page, the string `"with current and foreseeable instruments the mechanism is *empirically indistinguishable from chance*"`. That string returns **0** in `obsidian/tenets/tenets.md` and returned 0 there before commit `71a78a57` as well — it was never a quotation, and the scoping fix did not create it. It first entered on 2026-06-22, when a deep-review re-synced a *previously* stale quotation and recorded the replacement as "confirmed character-for-character against `tenets.md` line 72"; the confirmation was wrong, and the fabrication has been carried in quotation marks ever since. This is quote-must-be-grep-verifiable-in-raw-source compounded by coalesce-wraps-paraphrase-as-fabricated-verbatim-quote — and a clean instance of a repair pass introducing the defect it was fixing.
+- **Why it survived three months of review passes.** The *adjacent* quoted fragment in the same sentence — "leaves no statistical signature in long runs" — **does** verify against `tenets.md` (1 hit). One half of the quoted pair checks out, so every spot-check of the passage passed. The tell for this class is a quoted *pair*: verifying one fragment licenses no inference about its neighbour.
+- **The second, worse half: the paraphrase was the unqualified over-claim.** "With current and foreseeable instruments" reads as an *instrument-sensitivity* limit — exactly the reading the 2026-09-04 tenets rewrite scoped away across fourteen loci in eleven files. The live tenets text says the opposite: indistinguishability holds "by construction, not by any sensitivity limit", and only under an *unconditioned aggregate* test. So the fabricated quote did not merely misattribute; it asserted a strictly stronger and differently-grounded claim than the source.
+- **The article already contained its own fix.** L89 states the correct scoping — "undetectable by *aggregate Born-statistics tests* specifically; it is not undetectable in every register". The article had been contradicting itself across twelve lines. The correction brings L77 into line with what L89 already had right; **L89 was left untouched** as the model.
+- **Fix applied** (option (b), quote the real sentence — costed the same as paraphrasing and buys verbatim fidelity): the fabricated fragment is replaced with the current tenets sentence quoted verbatim — "under any *unconditioned aggregate* test the mechanism is *empirically indistinguishable from chance*—by construction, not by any sensitivity limit." The trailing clause now carries the positive half of the scoping the tenets page states: the aggregate-statistics routes cannot probe it, "a deviation *conditioned* on intention, task or subject still could" ([P-Q3](/positions/quantum-interface/#mechanism-debt)). The argument the passage makes is unchanged — only its attribution and its scope were wrong, and the brief forbade deleting it.
+- **Length paid for in the same paragraph.** The corrected quotation is longer than the fabricated one, so the offset was taken locally: a redundant restatement of "selecting between Born-equiprobable alternatives while the ensemble average is left intact" (the preceding sentence had just said it) collapsed to "this"; "buys the framework its escape from the timing objection" -> "escapes the timing objection"; "because ... it is bound to honour" -> "since ... it honours". Net -2 words with the scoping installed.
+- **Verification.** Both quoted fragments grep 1-for-1 against the raw `obsidian/tenets/tenets.md` (not via a summariser). Post-sync, `with current and foreseeable instruments` returns **zero hits in live article text across `obsidian/`, `hugo/content/` and `archive/`**; the 14 surviving hits are all in `workflow/` ledgers and `reviews/` — historical records of the defect, correctly left alone rather than swept.
+- **Published**: yes
 
 ## 18:49 - deep-review
 - **Status**: Success
