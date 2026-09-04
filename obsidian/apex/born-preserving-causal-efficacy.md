@@ -3,7 +3,7 @@ title: "The Born-Preserving Causal-Efficacy Problem"
 created: 2026-06-22
 modified: 2026-06-22
 human_modified: null
-ai_modified: 2026-08-16T10:45:00+00:00
+ai_modified: 2026-09-04T13:55:39+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -72,7 +72,7 @@ Two preconditions bound the problem. That there is a single fact of *which* outc
 
 ## Where a Selection Could Show, If Anywhere: The Conditional Signature
 
-The three positions sharpen into a single formal question, one the mechanism debt turns on. A per-trial bias that provably averages to the Born measure is, under any *aggregate*-statistics test, indistinguishable from chance — which threatens to leave the word *selection* with no content at all. The formalism below guards against settling that by fiat, by pinning down where, if anywhere, a selection could leave a trace.
+The three positions sharpen into a single formal question, one the mechanism debt turns on. A per-trial bias that provably averages to the Born measure is, under any *unconditioned aggregate* test, indistinguishable from chance — which threatens to leave the word *selection* with no content. The formalism below guards against settling that by fiat, by pinning down where, if anywhere, a selection could leave a trace.
 
 **The precise statement.** Write q(O | X) for the physical probability of outcome O in context X — the Born measure. If conscious selection has interventionist efficacy, then for some context X and intention C,
 

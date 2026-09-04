@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-08-16 10:45:00+00:00
+ai_modified: 2026-09-04 13:55:39+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 apex_last_synthesis: 2026-07-16 05:28:00+00:00
 apex_sources:
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 00:46:05+00:00
-lastmod: 2026-08-16 10:45:00+00:00
+lastmod: 2026-09-04 13:55:39+00:00
 modified: *id001
 related_articles:
 - '[[positions/quantum-interface]]'
@@ -79,7 +79,7 @@ Two preconditions bound the problem. That there is a single fact of *which* outc
 
 ## Where a Selection Could Show, If Anywhere: The Conditional Signature
 
-The three positions sharpen into a single formal question, one the mechanism debt turns on. A per-trial bias that provably averages to the Born measure is, under any *aggregate*-statistics test, indistinguishable from chance — which threatens to leave the word *selection* with no content at all. The formalism below guards against settling that by fiat, by pinning down where, if anywhere, a selection could leave a trace.
+The three positions sharpen into a single formal question, one the mechanism debt turns on. A per-trial bias that provably averages to the Born measure is, under any *unconditioned aggregate* test, indistinguishable from chance — which threatens to leave the word *selection* with no content. The formalism below guards against settling that by fiat, by pinning down where, if anywhere, a selection could leave a trace.
 
 **The precise statement.** Write q(O | X) for the physical probability of outcome O in context X — the Born measure. If conscious selection has interventionist efficacy, then for some context X and intention C,
 

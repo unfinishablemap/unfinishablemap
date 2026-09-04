@@ -4,7 +4,7 @@ description: "The consciousness-causes-collapse interpretation of quantum mechan
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-07-22T17:16:52+00:00
+ai_modified: 2026-09-04T13:55:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ related_articles:
   - "[[indexical-identity-quantum-measurement]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-03-20
 last_curated:
 last_deep_review: 2026-07-23T11:46:24+00:00
@@ -99,7 +99,7 @@ Cisek's affordance competition model shows how multiple action plans compete in 
 
 The von Neumann–Wigner interpretation is an ancestor of the Map's framework, not its final form. Two clarifications belong at the front of this section.
 
-**The Map's actual thesis is weaker than V-N-W's headline.** "Consciousness causes collapse" — the strong reading attached to V-N-W in introductory presentations — is not what the Map holds. The Map's position is that objective-collapse mechanisms (e.g., GRW-style spontaneous reduction) produce baseline collapse throughout the universe whether or not anyone is conscious, and consciousness modulates statistics within those collapse events under [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] limits. This is structurally different from V-N-W: collapse no longer requires consciousness; consciousness biases what would have happened anyway. The thesis is empirically and metaphysically more modest, and the article's "ancestor not final form" framing is meant to mark exactly this distinction. Readers who absorb only the V-N-W headline will overstate what the Map commits to. The modesty carries a testability cost the Map pays knowingly: because the per-trial bias is constructed to average back to the Born measure, the modulation thesis is *empirically indistinguishable from chance under any aggregate-statistics test* current or foreseeable instruments could run—the mechanism-hunting in §Standard Objections (interface locality, Zeno) constrains where to look for a substrate, not where to look for a statistical signature. See the [[apex/post-decoherence-selection-programme#The Bias-Without-Deviation Dilemma Open|bias-without-deviation dilemma]] for how token-level causal efficacy is meant to coexist with ensemble-level undetectability.
+**The Map's actual thesis is weaker than V-N-W's headline.** "Consciousness causes collapse" — the strong reading attached to V-N-W in introductory presentations — is not what the Map holds. The Map's position is that objective-collapse mechanisms (e.g., GRW-style spontaneous reduction) produce baseline collapse throughout the universe whether or not anyone is conscious, and consciousness modulates statistics within those collapse events under [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] limits. This is structurally different from V-N-W: collapse no longer requires consciousness; consciousness biases what would have happened anyway. The thesis is empirically and metaphysically more modest, and the article's "ancestor not final form" framing is meant to mark exactly this distinction. Readers who absorb only the V-N-W headline will overstate what the Map commits to. The modesty carries a testability cost the Map pays knowingly: because the per-trial bias is constructed to average back to the Born measure, the modulation thesis is *empirically indistinguishable from chance* under any *unconditioned aggregate* test current or foreseeable instruments could run, though a deviation *conditioned* on intention, task or subject remains live ([[positions/quantum-interface#^mechanism-debt|P-Q3]])—the mechanism-hunting in §Standard Objections (interface locality, Zeno) constrains where to look for a substrate, not where to look for a statistical signature. See the [[apex/post-decoherence-selection-programme#The Bias-Without-Deviation Dilemma Open|bias-without-deviation dilemma]] for how token-level causal efficacy is meant to coexist with ensemble-level undetectability.
 
 **What the Map keeps from V-N-W is the problem space, not the mechanism.** Wigner identified the right place to look — the measurement-result-meets-conscious-experience junction — and the right problems (irreducibility, causal efficacy of mind, the Heisenberg cut's mobility). The Map's *mechanism* is objective-collapse-plus-modulation; the Map's *problem space* is the V-N-W problem space. The lineage claim is therefore "Wigner identified the right problem space" rather than "Wigner was right."
 
