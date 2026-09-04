@@ -4,7 +4,7 @@ description: "Human+AI iterative exploration of the choice-blindness paradigm as
 created: 2026-05-22
 modified: 2026-05-22
 human_modified:
-ai_modified: 2026-07-27T19:46:15+00:00
+ai_modified: 2026-09-04T20:13:03+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-22
 last_curated:
-last_deep_review: 2026-07-16T19:05:00+00:00
+last_deep_review: 2026-09-04T20:13:03+00:00
 ---
 
 Authorship-of-action divergence is the within-species fact that healthy adults vary in their ability to detect when an outcome attributed to their own choice was not the outcome they selected. The choice-blindness paradigm developed by Petter Johansson, Lars Hall, and colleagues is its cleanest laboratory exhibit. Two adults presented with identical manipulations of their own recent choices produce demonstrably different verdicts about authorship—some catch the mismatch concurrently, some catch it retrospectively, and some produce confident, detailed justifications for choices that were never theirs. The spread marks the *outcome-recognition* layer of authorship-tracking—the introspective register at which a mismatch between intended and reported outcome can fail to be flagged—and it is the fourth sub-type catalogued at [[source-attribution-divergence#the-typology|source-attribution divergence]], the sub-type with the highest empirical resolution and the most methodologically loaded scope discipline. The cause-attribution layer (did *I* cause this?) is treated separately under [[agency-void|the agency void]] via Wegner's I-Spy paradigm; the two layers diverge in characteristic ways and are best disentangled from the outset.
@@ -52,7 +52,7 @@ Johansson et al. hedge their theoretical interpretation. The result is consisten
 
 The decade-and-a-half following 2005 produced a substantial replication and extension literature whose findings refine the original result in specific ways. Three threads are worth marking explicitly.
 
-**Concurrent vs. retrospective detection.** Detection rates depend sensitively on when the subject is given the opportunity to flag a mismatch. Concurrent detection—catching the swap at the moment of being handed the substituted card—is lower than retrospective detection, where subjects given more time, or asked targeted questions, recover the mismatch at higher rates (Hall et al. 2010; Hall, Johansson, and Strandberg 2012). The timing-sensitivity is methodologically load-bearing: the original non-detection rate is not a fixed feature of the introspective architecture but a property of the specific online-detection window the paradigm constructs. Authorship-monitoring may have access that goes unused under default conditions.
+**Concurrent vs. retrospective detection.** Detection rates depend sensitively on when and how the subject is given the opportunity to flag a mismatch. In the original study, concurrent detection—catching the swap at the moment of being handed the substituted card—accounted for 13% of the 354 manipulated trials, and targeted post-experimental questioning brought the tally across all detection channels to no more than 26%; allowing free rather than fixed deliberation time raised the concurrent rate significantly, though still to no more than 27% (Johansson et al. 2005). Retrospective probing is the smaller channel in absolute terms while roughly doubling what the online window alone exposes, and the same asymmetry recurs in the self-transforming-survey variant, where about a third of manipulated trials were caught concurrently against a further 8% recovered only in debriefing (Hall, Johansson, and Strandberg 2012). The effect generalises past faces: no more than a third of manipulated trials were detected when the choices were between jams and teas (Hall et al. 2010). The timing-sensitivity matters methodologically: the original non-detection rate is not a fixed feature of the introspective architecture but a property of the specific online-detection window the paradigm constructs. Authorship-monitoring may have access that goes unused under default conditions.
 
 **Within-condition spread.** Detection rates vary across subjects within a single condition. What drives the spread is unsettled: the Maastricht choice-blindness group has shown that memory impairment is not sufficient to produce choice blindness, so differences in memory capacity do not by themselves account for who detects the swap, leaving attention and metacognition among the candidates the data do not yet adjudicate (Sagana, Sauerland, and Merckelbach 2014). The [[introspection-architecture-independence-scoring|cluster's independence-scoring page]] treats the spread itself as one of its despite-commitments anchors: standard rationality-and-choice models did not predict that detection would vary at all, and the bare existence of the spread has reached *strongly supported* tier through cross-laboratory replication, even though the predictors of an individual's position within it remain contested.
 
@@ -76,7 +76,7 @@ A clarification at the Wegner side: Wegner treats the experience of conscious wi
 
 ## Integration with the Introspection-Architecture Cluster
 
-The introspection-architecture sub-cluster comprises four voids—[[confabulation-void]], [[source-attribution-void]], [[narrative-void]], [[agency-void]]—and associated discipline pages, organised around the claim that introspective architecture varies across healthy adults along multiple axes whose population spreads can be measured at the third-person layer. The [[introspection-architecture-independence-scoring|cluster's independence-scoring page]] catalogues authorship-of-action divergence as a despite-commitments anchor at the healthy-adult experimental channel: the Johansson-Hall result was not predicted by standard rationality-and-choice models and was treated as anomalous through the late 2000s before the replication programme settled it.
+The introspection-architecture sub-cluster comprises four voids—[[confabulation-void]], [[source-attribution-void]], [[narrative-void]], [[agency-void]]—and associated discipline pages, organised around the claim that introspective architecture varies across healthy adults along multiple axes whose population spreads can be measured at the third-person layer. Authorship-of-action divergence enters the [[introspection-architecture-independence-scoring|independence-scoring page]] at the healthy-adult experimental channel, its anchor status resting on the anomaly the Johansson-Hall result posed through the late 2000s before the replication programme settled it.
 
 The sub-cluster's apex synthesis at [[phenomenal-output-causal-machinery-dissociation|phenomenal-output / causal-machinery dissociation]] argues that the catalogue's introspection-architecture findings collectively constrain the relationship between what consciousness reports about itself and what the system actually does. The cluster-level move reaches *strongly supported* tier only conditional on the [[project/common-cause-null|common-cause null]] surviving the discrimination tests the apex catalogues; absent that survival, it sits at *live hypothesis*. The same conditionality applies to the present sub-type's contribution.
 
@@ -94,7 +94,7 @@ Third, the third-person measurement layer—detection rate, post-hoc justificati
 
 ## What Authorship-of-Action Divergence Cannot Deliver
 
-Honest scope demands explicit statement of what the case does not deliver. Three boundaries are load-bearing.
+Honest scope demands explicit statement of what the case does not deliver. Three boundaries are worth stating outright.
 
 **The data do not discriminate between interface-failure and brain-on-its-own confabulation.** Two readings remain live. On the interface-failure reading, the introspective architecture is reporting on a real authorship-tracking process whose interface to verbal report is fallible in specific architectural ways. On the brain-on-its-own confabulation reading, there is no authorship-tracking process distinct from the report-production machinery; the brain produces reports by inference from available cues, and choice-blindness shows the inference machinery operating on impoverished cues. The discriminating-test design space is active—the [[introspection-architecture-independence-scoring|independence-scoring page]] catalogues candidate discriminators—but the case does not by itself decide between them. The Map's interface reading earns its place from cluster-level convergence rather than from authorship-of-action divergence in isolation.
 
@@ -112,7 +112,7 @@ Honest scope demands explicit statement of what the case does not deliver. Three
 
 ## Further Reading
 
-- [[source-attribution-divergence]] — The parent topic article catalogues authorship-of-action divergence as its fifth sub-type
+- [[source-attribution-divergence]] — The parent topic article catalogues authorship-of-action divergence as its fourth sub-type
 - [[source-attribution-void]] — The abstract apophatic treatment of source-tagging as inferential rather than directly readable
 - [[agency-void]] — The verification-side companion, including Wegner's I-Spy paradigm at the cause-attribution layer
 - [[confabulation-void]] — The dedicated treatment of confabulatory completion, which the post-hoc justification finding exhibits
@@ -123,18 +123,18 @@ Honest scope demands explicit statement of what the case does not deliver. Three
 - [[pupillometry-behavioural-channel]] — The channel-level corroboration via pupillometric signature
 - [[microphenomenological-interview-method]] — The method article that distinguishes justification production from authorship verification
 - [[anti-correlated-metacognitive-signal]] — The Rebouillat-style finding whose confidence-inversion bears on naive readings of justification richness
-- [[libet-experiments]] — The sibling timing-layer dataset the post-2008 Schurger reanalysis treats with parallel scope discipline
+- [[libet-experiments]] — The sibling timing-layer dataset the Schurger, Sitt, and Dehaene (2012) reanalysis treats with parallel scope discipline
 - [[evidential-status-discipline]] — The calibration norm applied throughout: detection-rate variability at *strongly supported*; interface-failure interpretation at *live hypothesis*
 - [[project/common-cause-null]] — The cluster-level conditional discharge the present case inherits
 
 ## References
 
+1. Grassi, P. R., Hoeppe, L., Baytimur, E., & Bartels, A. (2025). Restoring sight in choice blindness: pupillometry and behavioral evidence of covert detection. *Frontiers in Psychology*, 16, 1598254.
 1. Hall, L., Johansson, P., & Strandberg, T. (2012). Lifting the veil of morality: Choice blindness and attitude reversals on a self-transforming survey. *PLOS ONE*, 7(9), e45457.
 1. Hall, L., Johansson, P., Tärning, B., Sikström, S., & Deutgen, T. (2010). Magic at the marketplace: Choice blindness for the taste of jam and the smell of tea. *Cognition*, 117(1), 54–61.
 1. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science*, 310(5745), 116–119.
 1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
 1. Kane, R. (2024). *The Complex Tapestry of Free Will*. Oxford University Press.
-1. Grassi, P. R., Hoeppe, L., Baytimur, E., & Bartels, A. (2025). Restoring sight in choice blindness: pupillometry and behavioral evidence of covert detection. *Frontiers in Psychology*, 16, 1598254.
 1. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004.
 1. Sagana, A., Sauerland, M., & Merckelbach, H. (2014). Memory impairment is not sufficient for choice blindness to occur. *Frontiers in Psychology*, 5, 449.
 1. Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences*, 109(42), E2904–E2913.

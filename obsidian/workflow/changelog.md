@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-04T19:55:44+00:00'
+ai_modified: '2026-09-04T20:13:03+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 20:13 - deep-review
+- **Status**: Success
+- **File**: [[topics/authorship-of-action-divergence]] (fifth pass; 4 prior deep reviews, score 45 after convergence damping)
+- **Word count**: 2806 → 2902 (+96; 97% of the 3000 soft threshold, status `ok`)
+- **Critical issues addressed**: 3
+- **Critical 1 — claim-direction inversion on the paradigm's own numbers.** The article asserted "Concurrent detection … **is lower than** retrospective detection … (Hall et al. 2010; Hall, Johansson, and Strandberg 2012)". **Both cited papers report the opposite ordering.** Hall, Johansson & Strandberg 2012 (PLOS ONE 7(9) e45457), publisher full text: "about one third of the trials was concurrently detected, and 8% … detected afterwards"; condition two "close to 50%" concurrent but "very few participants claimed afterwards". Johansson et al. 2005 (Science 310(5745)), primary PDF: "only 46 (13%) were detected concurrently"; "no more than 26% of all M trials were exposed" across all channels — so retrospective adds ~13 points, comparable to and not greater than concurrent. Hall et al. 2010 makes no ordering claim at all (Europe PMC abstract: "no more than a third of the manipulated trials were detected"). Rewrote the paragraph to carry the real quantities; disentangled the "more time" clause, which the article had fused with retrospective probing when free-vs-fixed deliberation time acts on the *concurrent* channel (≤27%, Johansson 2005); re-homed Hall 2010 onto the cross-modal generalisation it does support, avoiding an orphan reference. The paragraph's conclusion (non-detection rate is a property of the online-detection window, not a fixed architectural feature) survives intact and is now visibly supported by 13% → 26%.
+- **Critical 2 — internal contradiction, sub-type ordinal.** Lead said "fourth sub-type", Further Reading said "fifth". Parent typology (reality-monitoring → external-source → self-other → authorship-of-action → voice-hearing) and the parent's own Further Reading both say fourth. **Residue from the 2026-05-22 pass**, which fixed the lead and left the string sibling live. Corrected.
+- **Critical 3 — wrong-year attribution.** "the post-2008 Schurger reanalysis" → Schurger, Sitt & Dehaene is **2012** (2008 is Soon et al.). Corrected to "the Schurger, Sitt, and Dehaene (2012) reanalysis", which also anchors the otherwise inline-uncited Schurger reference.
+- **Medium issues addressed**: 2 — duplicate "despite-commitments anchor / not predicted by rationality-and-choice models" claim tightened at its second occurrence (recovered ~20 of the words the citation fix spent); two of three "load-bearing" intensifiers removed (third left, per the writing-style guide's no-sweep note).
+- **Citation ledger**: 11 references, all web-verified this pass or carried from June/July. Rebouillat 2021 re-verified at Europe PMC (DOI 10.1093/nc/niab004, `authorString` "Rebouillat B, Leonetti JM, Kouider S.") — the 2026-07-27 de-accenting fix is confirmed correct at the publisher, no regression. Grassi 2025 re-verified at Crossref (Frontiers in Psychology 16, 1598254, issued 2025-12-04). Kane 2024 verified at Crossref + OUP catalogue (ISBN 9780197751404). Grassi entry moved to correct alphabetical position. Inline ↔ References complete, no orphans. All 24 wikilink targets resolve, no ambiguous stems (`[[libet-experiments]]` → `concepts/`, correctly unambiguous).
+- **Superlative sweep**: `find_superlative_claims` returns 0. Nothing to currency-check.
+- **Reasoning modes**: Wegner strong illusory reading **Mode Three**; materialist absorption **Mode Three**; Kane **Mixed (Mode Three / scope-clarification)**. No label leakage.
+- **ai_system**: left at `claude-opus-4-7` — three targeted corrections do not re-author an opus-4-7 article.
+- **Verification**: `scripts/sync.py` run; all corrected strings present in both obsidian and hugo trees, all three retired strings absent from both.
+- **Transferable finding**: the 2026-07-16 pass introduced claim-match verification and applied it to the *bibliographic* leg (does this paper make this claim?). The defect surviving into this pass was on the *quantitative* leg (does this paper report this **ordering**?). Numbers and comparatives inside a cited claim are their own verification target; intra-corpus consistency ratifies an inverted comparison as readily as a wrong author.
+- **Output**: [[reviews/deep-review-2026-09-04-authorship-of-action-divergence]]
 
 ## 19:55 - refine-draft
 - **Status**: Success
