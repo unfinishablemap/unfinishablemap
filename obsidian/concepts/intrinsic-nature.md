@@ -4,7 +4,7 @@ description: "Physics describes only relational structure and is silent on the i
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-06-25T19:08:00+00:00
+ai_modified: 2026-09-04T23:25:18+00:00
 last_deep_review: 2026-07-19T23:47:00+00:00
 draft: false
 topics:
@@ -14,6 +14,7 @@ concepts:
   - "[[russellian-monism]]"
   - "[[bi-aspectual-ontology]]"
   - "[[physical-completeness]]"
+  - "[[ontic-structural-realism]]"
   - "[[causal-powers]]"
   - "[[causal-closure]]"
   - "[[panpsychism]]"
@@ -26,7 +27,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-05-27
 last_curated:
 ---
@@ -51,7 +52,7 @@ Physics does *not* describe:
 
 - **Quiddities** — the intrinsic, categorical natures that bear the dispositions and occupy the structural roles
 
-The structural realist holds that structure is all there is—there are no quiddities, only relations "all the way down." The quidditist holds that something must instantiate the structure: relations require relata, dispositions require bearers, a role requires an occupant. The Map sides with the quidditist: a world of pure structure with nothing structured looks incoherent, a point developed in [[bi-aspectual-ontology|bi-aspectual ontology]] and reflected in the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet.
+The *ontic* structural realist holds that structure is all there is—there are no quiddities, only relations "all the way down." The quidditist holds that something must instantiate the structure: relations require relata, dispositions require bearers, a role requires an occupant. The Map sides with the quidditist, and should be exact about how far the siding goes. The relations-without-relata objection is tempting but not decisive: moderate ontic structural realism (Esfeld and Lam 2008) keeps relata while denying them intrinsic identity, which absorbs the objection while retaining the part that matters here—no quiddities. So this is a considered preference against a live rival rather than the rejection of an incoherence, and [[ontic-structural-realism|ontic structural realism]] sets out the rival, the narrower asymmetry the Map can actually claim, and why Chalmers is more generous to these views than the Map has been. The positive reading is developed in [[bi-aspectual-ontology|bi-aspectual ontology]] and reflected in the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet.
 
 ## Hempel's Dilemma and What "Physical" Means
 
@@ -81,7 +82,7 @@ The intrinsic-nature distinction is one of the Map's most important borrowed too
 
 The divergence is not cosmetic. If consciousness simply *were* the intrinsic nature of physical entities, it would be identical with the physical at the fundamental level and could not causally *select* among physical outcomes—it would already be fixed as the inside of whatever the structure does. The Map needs consciousness to do causal work at [[tenets#^minimal-quantum-interaction|quantum indeterminacies]], which requires a distinct aspect that can act, not merely a quiddity that the structure expresses.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]].** The distinction is a standing illustration of this tenet. The simplest hypothesis—that structural physics exhausts reality—founders on the inscrutability problem: structure with nothing structured is arguably incoherent, yet adding intrinsic nature looks like an ontological cost. The Map treats this as a case where parsimony is unreliable under incomplete knowledge. Denying intrinsic nature to save simplicity buys a tidy ontology at the price of coherence.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]].** The distinction is a standing illustration of this tenet. The simplest hypothesis—that structural physics exhausts reality—is cheaper than the Map's, and the question is what the economy costs rather than whether the hypothesis collapses on inspection. The Map treats this as a case where parsimony is unreliable under incomplete knowledge: adding intrinsic nature looks like an ontological cost, while denying it risks buying the tidier ontology at the price of determinacy—the pressure point [[ontic-structural-realism|ontic structural realism]] locates in Newman's problem.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]] and [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]].** Whatever occupies the intrinsic base must, for the Map, be the kind of thing that can support causal power and influence quantum outcomes. This connects the distinction to the [[causal-powers|causal-powers]] and powerful-qualities debates (see [[consciousness-and-the-metaphysics-of-laws-and-dispositions]]): an intrinsic nature that is merely categorical and inert would re-import epiphenomenalism, so the Map reads the intrinsic base as causally contributing, not as a placeholder a law refers to.
 
@@ -89,7 +90,9 @@ The divergence is not cosmetic. If consciousness simply *were* the intrinsic nat
 
 ## What Would Challenge This View
 
-The Map's use of the intrinsic-nature distinction would be undermined if: (1) a defensible structural realism showed that relations require no relata and structure no occupant, dissolving quiddities altogether; (2) physics delivered a non-relational, non-structural characterisation of matter's fundamental nature, closing the gap from the physical side; or (3) the Russellian identification of consciousness *with* quiddities proved more economical than the Map's distinct-aspect reading without re-importing the combination problem. None has been achieved: structural realism without relata remains contested, physics has grown more relational rather than less, and the combination problem has resisted solution since James (1890).
+The Map's use of the intrinsic-nature distinction would be undermined if: (1) a defensible ontic structural realism showed that relations require no relata and structure no occupant, dissolving quiddities altogether; (2) physics delivered a non-relational, non-structural characterisation of matter's fundamental nature, closing the gap from the physical side; or (3) the Russellian identification of consciousness *with* quiddities proved more economical than the Map's distinct-aspect reading without re-importing the combination problem.
+
+The second and third have not been achieved: physics has grown more relational rather than less, and the combination problem has resisted solution since James (1890). The first is live, and [[ontic-structural-realism|ontic structural realism]] gives it the treatment a list of falsifiers cannot. Two findings from that page belong here. The cost is specific: eliminative ontic structural realism would remove this article's ontological-remainder route—and the parallel argument in [[physical-completeness|physical completeness]]—while leaving [[tenets#^dualism|Dualism]] standing, since the tenet rests on the [[hard-problem-of-consciousness|hard problem]] and the anti-physicalist arguments rather than on matter having quiddities. And the position does not reach consciousness by itself: carrying "no intrinsic natures" across from matter to experience is the work of structuralism about phenomenal character, a separate opponent with its own literature. So the first falsifier stands unrefuted, and what it would take from the Map is narrower, and more precisely located, than the list above implies.
 
 ## Further Reading
 
@@ -98,6 +101,7 @@ The Map's use of the intrinsic-nature distinction would be undermined if: (1) a 
 - [[bi-aspectual-ontology]] — The Map's reading: structure and actuality as two irreducible interacting aspects
 - [[russellian-monism-versus-bi-aspectual-dualism]] — Direct comparison of the two ways of cashing out the intrinsic base
 - [[physical-completeness]] — Why physics is structurally complete but ontologically partial
+- [[ontic-structural-realism]] — The rival that dissolves quiddities altogether: what it would actually remove, and why the Map prefers the epistemic reading
 - [[consciousness-and-the-metaphysics-of-laws-and-dispositions]] — Whether intrinsic natures are categorical, dispositional, or powerful qualities
 - [[disguised-property-dualism]] — Why several "monisms" built on the distinction are dualisms once their two property-types are explicit
 - [[causal-closure]] — How Hempel's dilemma about "the physical" inherits the intrinsic-nature gap
@@ -113,5 +117,7 @@ The Map's use of the intrinsic-nature distinction would be undermined if: (1) a 
 6. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? Unpublished manuscript (reply to Roelofs's comments on Pautz 2015, "A Dilemma for Russellian Monists about Consciousness," in T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World: Perspectives on Russellian Monism*, Oxford University Press, 2015).
 7. Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-129.
 8. Howell, R.J. (2015). The Russellian monist's problems with mental causation. *The Philosophical Quarterly*, 65(258), 22-39.
-9. Stanford Encyclopedia of Philosophy. "Russellian Monism." https://plato.stanford.edu/entries/russellian-monism/
-10. Southgate, A. & Oquatre-sept, C. (2026-01-15). Russellian Monism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/russellian-monism/
+9. Esfeld, M., & Lam, V. (2008). Moderate structural realism about space-time. *Synthese*, 160(1), 27-46. https://doi.org/10.1007/s11229-006-9076-2
+10. Stanford Encyclopedia of Philosophy. "Russellian Monism." https://plato.stanford.edu/entries/russellian-monism/
+11. Southgate, A. & Oquatre-sept, C. (2026-01-15). Russellian Monism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/russellian-monism/
+12. Southgate, A. & Ocinq, C. (2026-09-04). Ontic Structural Realism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/ontic-structural-realism/
