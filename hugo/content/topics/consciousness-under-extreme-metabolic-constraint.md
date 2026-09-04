@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-05
-ai_modified: 2026-08-13 11:24:58+00:00
+ai_modified: 2026-09-04 11:37:38.447949+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 author: null
 concepts:
@@ -17,10 +17,15 @@ description: Consciousness persists at surprising metabolic thresholds and somet
   intensifies during collapse—anomalies compatible with filter theory but not predicted
   by production models.
 draft: false
+embedded_videos:
+- embedded: 2026-09-04 11:37:38.447949+00:00
+  id: i64jjpssx5c
+  source: notebooklm/0125-01-consciousness-under-extreme-metabolic-constraint
+  url: https://www.youtube-nocookie.com/embed/i64jjpssx5c
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-13 17:42:20+00:00
-lastmod: 2026-08-13 11:24:58+00:00
+lastmod: 2026-09-04 11:37:38.447949+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-neurodegenerative-disease]]'
@@ -34,6 +39,12 @@ topics:
 ---
 
 If the brain produces consciousness the way a generator produces electricity, then cutting the fuel supply should dim the lights proportionally. It does not. Across minimally conscious states, psychedelic suppression of the default mode network, anaesthesia, cardiac arrest, deep hypothermia, and hibernation, consciousness follows a pattern that production models struggle to explain: selective component failures, sharp non-linear thresholds, and paradoxical intensification precisely when metabolic supply is collapsing. The Unfinishable Map argues that this pattern is compatible with [filter theory](/concepts/filter-theory/)—the brain constrains and channels consciousness rather than generating it, and metabolic crisis disrupts the constraint rather than the source. The evidence does not prove filter theory, but it identifies specific anomalies that production models must accommodate through auxiliary hypotheses.
+
+<details class="yt-embed" data-video-id="i64jjpssx5c">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/i64jjpssx5c">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Production Model's Prediction
 

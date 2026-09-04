@@ -2,15 +2,15 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-04T11:38:16.739358+00:00'
-session_count: 19934
+last_updated: '2026-09-04T11:55:31.696848+00:00'
+session_count: 19935
 cycle_position: 13104
 last_runs:
   add-highlight: '2026-09-04T08:12:15.106895+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
   agentic-social: '2026-09-04T10:09:26.994005+00:00'
   apex-evolve: '2026-09-02T12:14:57.834303+00:00'
-  check-links: '2026-09-02T11:35:28.944553+00:00'
+  check-links: '2026-09-04T11:55:31.696848+00:00'
   check-model-fallback: '2026-09-04T09:22:38.181489+00:00'
   check-tenets: '2026-09-02T00:19:44.409202+00:00'
   coalesce: '2026-09-04T08:58:06.438321+00:00'
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-09-04'
-  outcome: success
-  kind: agentic_social
 - task: combine-outer-reviews
   type: combine-outer-reviews
   date: '2026-09-04'
@@ -215,6 +210,11 @@ recent_tasks:
   kind: queue
 - task: embed-videos
   type: embed-videos
+  date: '2026-09-04'
+  outcome: success
+  kind: trigger
+- task: check-links
+  type: check-links
   date: '2026-09-04'
   outcome: success
   kind: trigger
@@ -487,4 +487,15 @@ task_chains:
       the 2026-09-01 cap raise (99/115 by gate); fold fallbacks named in the note
       (predictive-construction-void, epistemological-limits-occams-razor, binding-void
       cross-ref); removing this entry vetoes the expand'
+  - research_file: obsidian/research/voids-palette-extension-void-2026-09-04.md
+    target_section: voids
+    date: '2026-09-04'
+    note: '2026-09-04 research-voids: standalone recommended (99/115 by gate, headroom
+      exists) - the verification face is the article, olo as the lead case; existing
+      acquaintance-void and synesthetic-void own the conceivability question, this
+      owns the certification question. Fold fallbacks named in the note (synesthetic-void
+      for induction, commensurability-void or observation-and-measurement-void for
+      verification); removing this entry vetoes the expand. Two open gaps the expand
+      must close first: Ward and Meijer 2010 was not read, and the Barbur objection
+      rests on press quotation only'
   pending_cross_reviews: []
