@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-04T09:41:43+00:00'
+ai_modified: '2026-09-04T10:40:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-04'
-lastmod: 2026-09-04 09:41:43+00:00
+lastmod: 2026-09-04 10:40:19+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-04T10:40:19+00:00 - refine-draft
+- **Status**: Success
+- **File**: [calibration-audit-triple](/project/calibration-audit-triple/)
+- **Task**: convergent outer reviews 2026-09-03 (2/2, upgraded P2 → P1) — Claude Opus 5 methodology 5 (extend literature-drift enforcement to voids) vs ChatGPT 5.6 Sol Pro methodology 8 (per-article "last literature search" convention). Deliverable was the write-up only; the scope decision is the operator's.
+- **Gap verified before writing** (task instruction, and the reviewer's premise turned out to be wrong): `.claude/skills/literature-drift-review/SKILL.md` L50 globs `Path('obsidian/topics')` and nothing else; L170 forbids concept and apex articles; L18/L165 carry the `active_research_sections` refusal. So voids are uncovered as the task states — but so are **concepts**, which contradicts the Claude reviewer's "the site already runs literature-drift audits on topics/concepts". Also verified: `active_research_sections` is not a section list despite the name — the eighteen entries are slug substrings tested `p in path.stem` — and voids sit outside the deep-review pool too (`tools/curate/deep_review.py` L210 defaults `content_types` to `["topics", "concepts", "tenets", "arguments"]`, no caller overrides).
+- **The measurement that decided the middle option**: running the skill's own matcher over `obsidian/voids/`, **zero of 100 files** match any of the eighteen patterns. Extending the glob alone is therefore a null change and would not have reached `conceptual-metabolism-void`. (For scale: extending it to `concepts/` on today's patterns adds exactly two candidates, `predictive-processing` and `quantum-biology-and-neural-mechanisms`.) The middle option is only non-empty if a pattern is added as well, at which point it is option A with extra steps.
+- **Changes**: one new italic-headed passage at the end of Audit One's Implementation subsection (extending an existing section rather than opening a tenth, per Countermeasure 14's prior-art rule which this document explicitly binds itself to). Costs all three options; records that option B (the per-article convention) is **prior art** — a recorded verification date is `last_citation_verification` from the 2026-07-28 field set, and the 2026-07-31 section already proposes re-keying Audit One's selector to it — so ratifying B is a decision already reserved twice rather than a new convention. B's hidden cost named: a field with no writer records nothing, and an unread "last searched: never" is the same silence differently spelled. Disposition: B first, A as fallback, C declined as a no-op. Ends with a RECOMMENDATION block naming file, line, current and proposed values for each path.
+- **Not applied, deliberately**: `.claude/skills/literature-drift-review/SKILL.md` and `evolution-state.yaml` are untouched (`git status` confirms). The write-up says so in its own text.
+- **Length**: 20,731 → 21,464 words (`analyze_length`, section `project`: soft 2500 / hard 3500 / critical 5000; status `critical` before and after). +733 words, ~3.5% growth on a document already at 5.9× hard.
+- **Published**: yes
 
 ## 2026-09-04T10:30:09+00:00 - refine-draft
 - **Status**: Success
