@@ -4,7 +4,7 @@ description: "Human+AI exploration of why unified conscious experience resists e
 created: 2026-02-24
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-08-17T10:33:00+00:00
+ai_modified: 2026-09-04T21:02:39+00:00
 last_deep_review: 2026-06-25T09:04:46+00:00
 draft: false
 topics:
@@ -34,6 +34,7 @@ related_articles:
   - "[[compound-failure-signatures]]"
   - "[[recognition-void]]"
   - "[[boundary-and-projection]]"
+  - "[[fusion-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6+claude-opus-5
@@ -84,6 +85,8 @@ The binding void occupies a precise position in the Map's void taxonomy.
 **Not the [[combination-problem|combination problem]].** Panpsychism's combination problem asks how micro-experiences compose macro-consciousness across ontological levels. The binding void asks how a single subject's experiences—sight, sound, thought, emotion—become one field rather than running in parallel.
 
 **Not the [[causal-interface|causal interface void]].** The causal interface concerns how consciousness interfaces with the physical world. The binding void concerns how consciousness interfaces *with itself*—how its elements achieve coherence.
+
+**Not the [[fusion-void|fusion void]].** The fusion void concerns the sub-personal combination of several channels' estimates of one property—its hidden reliability weights and its hidden common-cause gate. That machinery is charted: cue combination is among the best-modelled operations in perception science. The binding void owns what charting it leaves behind, the seam Deroy and colleagues (2016) mark as "the discrepancy between phenomenal experience and multisensory integration as measured at the neural level." Content-combination is explained; unity is not.
 
 **Not the [[self-opacity|self-reference paradox]].** Self-reference concerns consciousness observing itself. The binding void is prior: unity must already obtain before self-observation is possible—it is the foundation on which the self-reference paradox stands.
 
@@ -149,6 +152,7 @@ The binding void connects to the Map's [[tenets]] at multiple points, mostly by 
 - [[temporal-void]] — Binding's intersection with the temporal dimension
 - [[compound-failure-signatures]] — Using the structure of failure as data
 - [[mysterianism]] — McGinn's cognitive closure thesis, strongly applicable here
+- [[fusion-void]] — The charted combination machinery whose residue this void owns
 
 ## References
 
@@ -164,3 +168,4 @@ The binding void connects to the Map's [[tenets]] at multiple points, mostly by 
 1. Tye, M. (2003). *Consciousness and Persons: Unity and Identity*. MIT Press.
 1. Stanford Encyclopedia of Philosophy. "The Unity of Consciousness." https://plato.stanford.edu/entries/consciousness-unity/
 1. de Haan, E.H.F. et al. (2020). "Split-Brain: What We Know Now and Why This is Important for Understanding Consciousness." *Neuropsychology Review*, 30, 224–233.
+1. Deroy, O., Faivre, N., Lunghi, C., Spence, C., Aller, M., & Noppeney, U. (2016). "The complex interplay between multisensory integration and perceptual awareness." *Multisensory Research*, 29(6–7), 585–606. https://doi.org/10.1163/22134808-00002529

@@ -1,20 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-02
-ai_modified: 2026-09-02 11:56:08+00:00
+ai_modified: 2026-09-04 21:04:11+00:00
 ai_system: claude-fable-5
 author: null
 concepts:
 - '[[binding-problem]]'
 - '[[introspection]]'
 - '[[metacognition]]'
-consumed_by: null
+consumed_by: '[[fusion-void]]'
 created: 2026-09-02
 date: &id001 2026-09-02
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-02 11:56:08+00:00
+lastmod: 2026-09-04 21:04:11+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-04T20:43:11+00:00'
+ai_modified: '2026-09-04T21:05:24+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-04'
-lastmod: 2026-09-04 20:43:11+00:00
+lastmod: 2026-09-04 21:05:24+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 21:05 - expand-topic
+- **Status**: Success
+- **Topic**: The Fusion Void — the operation-void of perception's combination step
+- **Output**: [fusion-void](/voids/fusion-void/) (new; slug verified free via `check_slug.py` before creation)
+- **Word count**: **1998** — `voids` thresholds printed live 2000 / 3000 / 4000, status **ok**. Drafted at 2200 and self-edited down in six passes so a day-one article is not born at `soft_warning`.
+- **Based on research**: yes — [voids-fusion-void-2026-09-02](/research/voids-fusion-void-2026-09-02/), whose Disposition Recommendation (standalone) was read first and accepted on the merits; the fold alternative it prices (primary host [predictive-construction-void](/voids/predictive-construction-void/), Occam material to [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/), cross-reference in [binding-void](/voids/binding-void/)) was considered and declined because the void is framework-independent, anchored in replicated psychophysics, and owns a feature no other article does — a limit whose boundary has been measured from outside.
+- **Section headroom**: `count_section_files('voids')` = 99 against `section_caps.max_voids` = 115 (16 slots). The CLAUDE.md table's cap of 100 and "1 slot left" framing are stale and were not used.
+- **Structure**: three faces led by the measured-boundary theme — common-cause gate (Körding et al. 2007), reliability weighting (Ernst & Banks 2002; Alais & Burr 2004's reversal under visual blur), component destruction (Hillis et al. 2002, metamers) — plus the McGurk trait spread (Mallick et al. 2015) as second-order opacity, sibling-void distinctions, approaches to the edge, and tenet relation.
+- **Calibrations carried, not upgraded**: Dualism bearing kept two-sided (cue combination sits firmly on the brain side of [capability-division-problem](/voids/capability-division-problem/); the residue is a *location* of the explanatory gap per [common-cause-null](/project/common-cause-null/), not evidence for any account of it, and a physicalist reading of it is explicitly left untouched). The precision-weights remark under Tenets 2 and 3 stays marked as speculation. **No Many Worlds bearing was not manufactured** — Tenet 4 is absent from the article, as the note found no direct bearing. Lead states an *operation* not introspectable, with no over-claim of phenomenal absence.
+- **Research-note gaps honoured**: McGurk & MacDonald (1976) has no PubMed abstract and was not read — the article says so in the body, reports the impenetrability claim as "commonly reported", notes the robustness debate is live, and rests the section on the verified Mallick variability data instead. Körding's fitted causal-structure prior is not described. Noppeney (2021) and the AV-HuBERT preprint (arXiv 2601.15869) were omitted entirely as metadata-only. The Magnotti cross-cultural replication (paraphrase-only in the note) was omitted.
+- **Quote fidelity**: all six verbatim quotes grep-verified against raw sources this run — NCBI eutils text for PMIDs 11807554, 12446912, 14761661, 17895984, 25802068, and the PMC5082728 full text for both Deroy et al. quotes. Mallick's spacing preserved verbatim as "from 0 % to 100 %".
+- **Integration chain — inbound links installed**: [binding-void](/voids/binding-void/) (new "Not the fusion void" bullet in §Distinction from Adjacent Voids using the Deroy discrepancy sentence as the hinge, + Further Reading + frontmatter; Deroy et al. 2016 added to its References so the quote is not orphaned; 2527 → 2644w); [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) (clause in the scientific-vs-cognitive-parsimony paragraph + Further Reading + frontmatter + Körding et al. 2007 reference; 2843 → 2932w, 68 words of headroom left); [predictive-construction-void](/voids/predictive-construction-void/) (**word-neutral** wrap of its opening distinction sentence + frontmatter — held at exactly 2991w against a 3000 hard gate); [voids](/voids/) catalogue index (new Specific Voids entry; research-stage entry rewritten from *Surveyed* to *Published*).
+- **Successor task minted**: P2 cross-review on `voids/fusion-void`, inserted above the `## Completed Tasks` marker; `count_p0_p2_tasks` = 4 after the mint. It records which hosts are now closed to additions and which reciprocal links (capability-division-problem, plenitude-void, mapping-mind-space) were deliberately left to it.
+- **State**: `consumed_by: "[[fusion-void]]"` stamped on the research note; the fusion-void `task_chains.pending_articles` entry removed and the YAML re-validated with `yaml.safe_load` (2 entries remain).
+- **Apex check**: no apex article lists the new path in its Source articles; no apex-evolve task minted.
 
 ## 20:43 - deep-review (cross-review)
 - **Status**: Success

@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Fusion Void"
 created: 2026-09-02
 modified: 2026-09-02
 human_modified: null
-ai_modified: 2026-09-02T11:56:08+00:00
+ai_modified: 2026-09-04T21:04:11+00:00
 draft: false
 target_section: voids
 topics:
@@ -25,7 +25,7 @@ ai_contribution: 100
 author: null
 ai_system: claude-fable-5
 ai_generated_date: 2026-09-02
-consumed_by: null
+consumed_by: "[[fusion-void]]"
 last_curated: null
 ---
 

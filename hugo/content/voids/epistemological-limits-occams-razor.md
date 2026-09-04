@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-09-01 14:48:53+00:00
+ai_modified: 2026-09-04 21:02:39+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 14:33:13+00:00
-lastmod: 2026-09-01 14:48:53+00:00
+lastmod: 2026-09-04 21:02:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -24,6 +24,7 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[parsimony-epistemology]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
+- '[[fusion-void]]'
 title: The Parsimony Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -67,7 +68,7 @@ This is where the Mach example must not be over-read. The natural temptation is 
 
 Francis Crick warned that "Occam's razor... can be a very dangerous implement in biology" (1988). Giacomo Zanotti (2021) argues that physicalism carries a hidden "burden of parsimony" — the obligation to explain consciousness within an ontologically simpler framework generates explanatory costs (eliminativism, epiphenomenalism, panpsychism as escape routes) that offset the supposed simplicity gain. The danger runs deeper than parsimony occasionally pointing the wrong way: in domains of sufficient complexity, simplicity preferences may constitute a systematic bias rather than a defeasible heuristic — filtering out correct-but-complex theories before they can be properly evaluated.
 
-A distinction matters here. Scientific parsimony — preferring theories with fewer ad hoc hypotheses — is a methodological tool with a track record. Cognitive parsimony — the compression preference that makes simpler theories *feel more plausible* — is an architectural feature of minds. The former can be applied self-consciously; the latter operates beneath conscious deliberation. The void concerns primarily the latter, though the two are difficult to disentangle in practice.
+A distinction matters here. Scientific parsimony — preferring theories with fewer ad hoc hypotheses — is a methodological tool with a track record. Cognitive parsimony — the compression preference that makes simpler theories *feel more plausible* — is an architectural feature of minds. The former can be applied self-consciously; the latter operates beneath conscious deliberation. The void concerns primarily the latter, though the two are difficult to disentangle in practice. It runs deeper still: the [fusion void](/voids/fusion-void/) finds the same economy below theory altogether, inside perception, where the nervous system continually chooses between one-cause and two-cause models of its inputs (Körding et al., 2007). There parsimony arrives as a finished percept, on a criterion no one set and no one can audit.
 
 Consciousness may be such a domain. If the [hard problem](/topics/hard-problem-of-consciousness/) is hard because the true ontology of consciousness exceeds what simplicity-biased minds can comfortably entertain, then the parsimony void becomes more than an interesting philosophical puzzle — it functions as an active obstacle to understanding.
 
@@ -115,12 +116,14 @@ The connection to [Tenet 2 (Minimal Quantum Interaction)](/tenets/#minimal-quant
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — The general problem of assessing cognitive limits from within
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The unexplored, unexplorable, and occluded
 - [mysterianism](/concepts/mysterianism/) — McGinn's analysis of cognitive closure
+- [fusion-void](/voids/fusion-void/) — The same economy running sub-personally inside perception
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why phenomenal consciousness resists physical explanation
 - [materialism](/concepts/materialism/) — The position parsimony is invoked to defend
 
 ## References
 
 1. Crick, F. (1988). *What Mad Pursuit*. Basic Books.
+1. Körding, K. P., Beierholm, U., Ma, W. J., Quartz, S., Tenenbaum, J. B., & Shams, L. (2007). "Causal inference in multisensory perception." *PLoS ONE*, 2(9), e943. https://doi.org/10.1371/journal.pone.0000943
 1. Goodman, N. (1972). "Seven Strictures on Similarity." In *Problems and Projects*. Bobbs-Merrill, pp. 437-446.
 1. Huemer, M. (2009). "When Is Parsimony a Virtue?" *The Philosophical Quarterly* 59(235): 216-236.
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind* 98: 349-366.

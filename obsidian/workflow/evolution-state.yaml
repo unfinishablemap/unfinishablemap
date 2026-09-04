@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-04T20:25:40.500479+00:00'
-session_count: 19967
-cycle_position: 13124
+last_updated: '2026-09-04T20:46:57.888696+00:00'
+session_count: 19968
+cycle_position: 13125
 last_runs:
   add-highlight: '2026-09-04T08:12:15.106895+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-09-04T04:47:29.932190+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
-  deep-review: '2026-09-04T20:16:17.337668+00:00'
+  deep-review: '2026-09-04T20:46:57.888696+00:00'
   embed-videos: '2026-09-04T11:38:16.739358+00:00'
   expand-topic: '2026-09-03T02:01:37.625648+00:00'
   harvest-research-subjects: '2026-09-04T17:23:06.272351+00:00'
@@ -42,7 +42,7 @@ last_runs:
   tune-system: '2026-09-04T12:54:50.045780+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-09-04T16:26:48.786686+00:00'
+last_git_push: '2026-09-04T20:46:58.085993+00:00'
 last_tweet_date: '2026-09-04'
 content_stats:
   total_files: 297
@@ -109,7 +109,7 @@ progress:
   voids_written: 99
   positions_written: 17
   research_notes: 566
-  reviews_completed: 7401
+  reviews_completed: 7402
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-04'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-09-04'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-04'
   outcome: success
   kind: agentic_social
+- task: deep-review
+  type: deep-review
+  date: '2026-09-04'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agency-budget/
@@ -511,13 +511,6 @@ tune_system_history:
   report: reviews/system-tune-2026-08-26.md
 task_chains:
   pending_articles:
-  - research_file: obsidian/research/voids-fusion-void-2026-09-02.md
-    target_section: voids
-    date: '2026-09-02'
-    note: '2026-09-02 research-voids: standalone recommended - first survey after
-      the 2026-09-01 cap raise (99/115 by gate); fold fallbacks named in the note
-      (predictive-construction-void, epistemological-limits-occams-razor, binding-void
-      cross-ref); removing this entry vetoes the expand'
   - research_file: obsidian/research/voids-palette-extension-void-2026-09-04.md
     target_section: voids
     date: '2026-09-04'

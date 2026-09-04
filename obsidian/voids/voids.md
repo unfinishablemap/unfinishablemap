@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-09-04
 human_modified: 2026-01-08
-ai_modified: 2026-09-04T16:42:00+00:00
+ai_modified: 2026-09-04T21:03:55+00:00
 draft: false
 last_deep_review: 2026-06-04T13:04:10+00:00
 topics: []
@@ -41,6 +41,7 @@ related_articles:
   - "[[research/voids-distributional-void-2026-08-24]]"
   - "[[research/voids-impairment-void-2026-08-26]]"
   - "[[research/voids-similarity-void-2026-08-27]]"
+  - "[[fusion-void]]"
   - "[[research/voids-fusion-void-2026-09-02]]"
   - "[[research/voids-palette-extension-void-2026-09-04]]"
   - "[[perceptual-reality-monitoring-void]]"
@@ -192,6 +193,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [[self-maintained-cognitive-limits|Self-Maintained Cognitive Limits]] — Whether consciousness actively participates in maintaining its own limits, through defence mechanisms, motivated avoidance, and structural complicity
 - [[interested-party-void|The Interested Party Void]] — Why consciousness cannot neutrally investigate its own nature—it has existential stakes in every answer
 - [[predictive-construction-void|The Predictive Construction Void]] — Why consciousness cannot determine the boundary between what it constructs and what it receives
+- [[fusion-void|The Fusion Void]] — Why the combination step behind every unified percept is closed to the mind that receives its output: the component estimates, the reliability weights, and the prior common-cause verdict are all consumed in producing the percept. The catalogue's first void whose boundary has been psychophysically measured — mandatory fusion within a sense, component access preserved between senses (created 2026-09-04)
 - [[perceptual-reality-monitoring-void|The Perceptual Reality-Monitoring Void]] — Why the real-time operation assigning sensory content to *real* or *imagined* is inspectable only by its verdict; three faces (Perky crossover / confidence-decoupling / pathological equivalence) converge on a felt-real signal that is a separable constructed layer rather than a read of reality. The moment-by-moment operational face of [[predictive-construction-void|predictive construction]] and the online sister of [[source-attribution-void|source-attribution]], with further relations to [[imagery-void|the imagery void]] (Perky-threshold extension of the fidelity face), [[noetic-feelings-void|the noetic feelings void]] (felt-real as a family member), and [[simulation-detection-void|simulation detection]] (the same operation at macro timescale) (created 2026-05-18)
 
 ### Phenomenology of Limits
@@ -267,7 +269,7 @@ Eighteen voids surveyed since 2026-02 have research notes but no standalone arti
 - **[[research/voids-distributional-void-2026-08-24|The Distributional Void]]** — *Absorbed* (2026-08-24) into [[non-human-minds-as-void-explorers]] ("The Generation Problem"), [[collective-cognitive-limits]] and [[apex/taxonomy-of-voids]]'s method-generated class. Model-mediated inquiry narrows what gets thought — outputs concentrate, assisted writers converge, errors correlate across models — a void whose boundary moves inward with use, consisting of what was never generated.
 - **[[research/voids-impairment-void-2026-08-26|The Impairment Void]]** — *Absorbed* (2026-08-27) into [[disappearance-voids]] ("The Gauge That Comes Loose"), correcting its uncited claim that self-assessment fails before performance under sleep deprivation; the acute-state limb for [[anti-correlated-metacognitive-signal]] is pending. Coarse impairment detection mostly works; the residue is a gauge that plateaus, inverts, or is deleted by training.
 - **[[research/voids-similarity-void-2026-08-27|The Similarity Void]]** — *Absorbed* (2026-09-01) into [[epistemological-limits-occams-razor]] (Goodman, grue, Quine) and [[non-human-minds-as-void-explorers]] (Hebart et al. 2020); folds into [[conceptual-scheme-void]] and, light-touch, [[noetic-feelings-void]] pending. Resemblance arrives as given while the respects and weights that produced it stay sub-personal — recoverable third-personally, not generatable first-personally.
-- **[[research/voids-fusion-void-2026-09-02|The Fusion Void]]** — *Surveyed — standalone recommended.* Consciousness receives precision-weighted fused percepts — never the component estimates, the reliability weights, or the prior common-cause verdict that licensed fusing at all. Within-modality fusion is mandatory and discards the components (Hillis et al. 2002); the McGurk verdict is impenetrable to knowledge yet varies 0–100% across stable individuals. The catalogue's first void with a psychophysically *measured* boundary (mandatory within a sense, negotiable between senses). First survey since the 2026-09-01 cap raise reopened standalone headroom; `pending_articles` carries the expand entry, operator veto removes it.
+- **[[research/voids-fusion-void-2026-09-02|The Fusion Void]]** — *Published* (2026-09-04) as [[fusion-void]]. Consciousness receives precision-weighted fused percepts — never the component estimates, the reliability weights, or the prior common-cause verdict that licensed fusing at all. Within-modality fusion is mandatory and discards the components (Hillis et al. 2002); the McGurk verdict varies 0–100% across stable individuals (Mallick et al. 2015). The catalogue's first void with a psychophysically *measured* boundary.
 - **[[research/voids-palette-extension-void-2026-09-04|The Palette Extension Void]]** — *Surveyed — standalone recommended.* The catalogue's existing palette material ([[acquaintance-void]], [[synesthetic-void]]) asks whether a novel phenomenal quality is *conceivable*; this asks whether an *installed* one could be certified as new. The capacity face is deflating fast — Mancuso et al. 2009 added a cone dimension to adult primates against the critical-period prediction, and Fong et al. 2025 produced a percept ("olo") with unequivocally out-of-gamut coordinates. The verification face is untouched: every route from an installed channel back to a novelty claim runs through discrimination or report, both rendered in the prior palette, and Fong's five subjects volunteered "teal" and "green, a little blue" for the out-of-gamut stimulus. Barbur's deflationary reading is the simpler hypothesis *and* unfalsifiable by any available instrument — an unusually clean instance of [[epistemological-limits-occams-razor|parsimony selecting rather than tracking]]. The catalogue's first case of one face of a void deflating while its sibling holds, which argues that voids can require *splitting* rather than retiring — the methodological mirror of [[research/voids-olfactory-void-2026-08-13|the olfactory void]].
 
 ---
