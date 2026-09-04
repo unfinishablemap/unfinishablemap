@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-04T04:47:29.932190+00:00'
-session_count: 19907
+last_updated: '2026-09-04T04:53:07.814285+00:00'
+session_count: 19908
 cycle_position: 13092
 last_runs:
   add-highlight: '2026-09-03T16:23:58.506642+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-09-03T03:01:44.390750+00:00'
   embed-videos: '2026-09-02T22:18:15.354416+00:00'
   expand-topic: '2026-09-03T02:01:37.625648+00:00'
-  harvest-research-subjects: '2026-09-03T16:30:55.948429+00:00'
+  harvest-research-subjects: '2026-09-04T04:53:07.814285+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-01T13:46:42.778485+00:00'
   optimistic-review: '2026-09-03T19:16:15.802339+00:00'
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-09-03'
-  outcome: success
-  kind: replenish
 - task: refine-draft
   type: refine-draft
   date: '2026-09-03'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-04'
   outcome: success
   kind: commission
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-09-04'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/types-of-consciousness/
