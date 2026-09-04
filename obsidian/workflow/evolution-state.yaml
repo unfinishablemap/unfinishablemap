@@ -1,10 +1,10 @@
-last_updated: '2026-09-04T12:40:38.419419+00:00'
-session_count: 19937
+last_updated: '2026-09-04T12:54:50.045780+00:00'
+session_count: 19938
 cycle_position: 13104
 last_runs:
   add-highlight: '2026-09-04T08:12:15.106895+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-04T10:09:26.994005+00:00'
+  agentic-social: '2026-09-04T13:09:10.420396+00:00'
   apex-evolve: '2026-09-02T12:14:57.834303+00:00'
   check-links: '2026-09-04T11:55:31.696848+00:00'
   check-model-fallback: '2026-09-04T09:22:38.181489+00:00'
@@ -35,7 +35,7 @@ last_runs:
   research-topic: '2026-09-02T23:02:31.978911+00:00'
   research-voids: '2026-09-04T12:20:29.189359+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
-  tune-system: '2026-08-26T19:57:24.292820+00:00'
+  tune-system: '2026-09-04T12:54:50.045780+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
 last_git_push: '2026-09-04T12:20:29.336592+00:00'
@@ -105,7 +105,7 @@ progress:
   voids_written: 99
   positions_written: 17
   research_notes: 565
-  reviews_completed: 7394
+  reviews_completed: 7395
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -114,11 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-04'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-09-04'
@@ -211,6 +206,11 @@ recent_tasks:
   kind: trigger
 - task: check-tenets
   type: check-tenets
+  date: '2026-09-04'
+  outcome: success
+  kind: trigger
+- task: tune-system
+  type: tune-system
   date: '2026-09-04'
   outcome: success
   kind: trigger
@@ -370,51 +370,68 @@ agentic_social:
     - basal-and-bioelectric-cognition
     - plant-cognition-and-the-plant-neurobiology-debate
     - interoceptive-consciousness-and-the-interface
+  - url: https://unfinishablemap.org/topics/argument-from-reason/
+    date: '2026-09-04T13:09:10.420354+00:00'
+    topics:
+    - dualism
+    - materialism
+    - argument-from-reason
 queue_status:
   last_replenishment: '2026-09-03T02:26:26+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: 'RUN 1023. STANDARD MODE, TWO CHAIN MINTS, fired by the 01:59 envariance expand
-    completion (concepts/envariance live, 2491w ok-band by analyze_length against concepts thresholds
-    2500/3500/5000 printed live; concepts 323/360 by count_section_files, topics 324/360, voids 99/115,
-    positions 17/80 - no cap pressure) dropping parser-verified pickable P0-P2 to 2 (the two run-1022
-    improper-mixtures cross-reviews, matching the driver briefing) against the floor of 3. The expand-to-cross-review
-    chain is the live source; the expand itself installed five inbound link-wraps and executed riders
-    1-3 four-tree, leaving rider 4 explicitly for the follow-on per its changelog entry. MINT 1 (P2 refine-draft,
-    rider 4): the three flat circularity-verdict loci re-verified live this run in BOTH trees (indexical-identity-quantum-measurement
-    obsidian L99 / hugo L102 proves-circular; quantum-interpretations L108/L111 each-fail; many-worlds
-    L102/L106 assumption-charge-as-settled) vs the calibrated register the new page states at its L71;
-    promoted to P2 for floor restoration per the run-1019 precedent (loop-executable chain work over padding;
-    the research note graded the repair not-urgent and the task records that honestly); length fences
-    carried (many-worlds 3501/3500 word-swaps-only shared with the open fourteen-locus task, whose L63/L82/L134
-    loci are disjoint and fenced; quantum-interpretations L153 second each-fail is a different claim,
-    fenced). MINT 2 (P2 cross-review, probability-problem-in-many-worlds): the one remaining one-sided
-    carrier of the additivity dispute - L132 carries Zhang only with an endorsing points-the-other-way
-    close, where the new page carries Zurek''s explicit denial two-sided; loci verified both trees (obsidian
-    L128/L130/L132, hugo L133/L135/L137); binding net-non-positive at 3983/4000 by analyze_length this
-    run; rider 2 verified landed on disk (L130 Barnum 2003, ref 3 replaced) and fenced. REASONED DECLINES
-    on the other deployers, verified on disk this run: quantum-darwinism-and-consciousness L86-L88 already
-    states the page''s exact measure/actuality thesis with the link-wrap installed - the page was built
-    from this article''s verdict, no envariance-driven reconciliation needed, so nothing was added to
-    the open run-1022 cross-review''s scope (checked per driver question); apex/post-decoherence-selection-programme
-    L83/L87/L167 grounding/the-weights phrasings adjudicated not-loci (reportage of Zurek''s programme,
-    link installed at the exact sentence, 4996/5000 leaves 4 words headroom, and rider 4''s own loci list
-    excluded them); born-rule-and-the-consciousness-interface fenced (standing HUMAN LENGTH DEFERRAL,
-    open run-1022 cross-review on L111, riders 1+3 verified landed at L117); concepts/many-worlds gets
-    no second task - its locus is inside MINT 1; a condense mint for many-worlds'' one-word hard overage
-    (3501/3500, crossed by today''s link-wrap) declined as churn - MINT 1''s net-negative-or-neutral constraint
-    on the same file is the fix. Other sources audited: unconsumed research holds only the operator-held
-    fusion-void pending_articles entry, untouched per briefing; orphans 0 (state figure, and the new page
-    has five inbound links); zero other new length entrants; gap/positions/apex remain harvester-governed;
-    staleness excluded ai_modified=today (the link-wrapped deployers plus the new page) per briefing;
-    padding declined. Do-not-duplicate list held (Zurek quote-fidelity P3, Dennett, body-echoes, consciousness-selecting,
-    consumed_by stamping, rival-ontology trio, cognitive-integration P3 - none touched or duplicated;
-    vetoed bucket is the three condense vetoes, no collision). Both appends anchored on the Completed
-    Tasks marker line, above it, per briefing; every mint carries a real Type line (refine-draft, cross-review
-    - valid mapped types). Post-edit verification: count_p0_p2_tasks == 4; parser buckets active 102 (98
-    P3 + 4 pickable P2), vetoed 3; p2_tasks 7 by the all-active-region-P2-headers convention (three veto-tagged
-    condenses + the two run-1022 cross-reviews + two new); p3_tasks 98 (the 01:28 pessimistic mint added
-    one); todo frontmatter ai_modified bumped from live date -u; state YAML load-verified after this write.
-    No changelog tmp strays; no concurrent Python loop per briefing.'
+  last_replenishment_note: 'RUN 1023. STANDARD MODE, TWO CHAIN MINTS, fired by the
+    01:59 envariance expand completion (concepts/envariance live, 2491w ok-band by
+    analyze_length against concepts thresholds 2500/3500/5000 printed live; concepts
+    323/360 by count_section_files, topics 324/360, voids 99/115, positions 17/80
+    - no cap pressure) dropping parser-verified pickable P0-P2 to 2 (the two run-1022
+    improper-mixtures cross-reviews, matching the driver briefing) against the floor
+    of 3. The expand-to-cross-review chain is the live source; the expand itself installed
+    five inbound link-wraps and executed riders 1-3 four-tree, leaving rider 4 explicitly
+    for the follow-on per its changelog entry. MINT 1 (P2 refine-draft, rider 4):
+    the three flat circularity-verdict loci re-verified live this run in BOTH trees
+    (indexical-identity-quantum-measurement obsidian L99 / hugo L102 proves-circular;
+    quantum-interpretations L108/L111 each-fail; many-worlds L102/L106 assumption-charge-as-settled)
+    vs the calibrated register the new page states at its L71; promoted to P2 for
+    floor restoration per the run-1019 precedent (loop-executable chain work over
+    padding; the research note graded the repair not-urgent and the task records that
+    honestly); length fences carried (many-worlds 3501/3500 word-swaps-only shared
+    with the open fourteen-locus task, whose L63/L82/L134 loci are disjoint and fenced;
+    quantum-interpretations L153 second each-fail is a different claim, fenced). MINT
+    2 (P2 cross-review, probability-problem-in-many-worlds): the one remaining one-sided
+    carrier of the additivity dispute - L132 carries Zhang only with an endorsing
+    points-the-other-way close, where the new page carries Zurek''s explicit denial
+    two-sided; loci verified both trees (obsidian L128/L130/L132, hugo L133/L135/L137);
+    binding net-non-positive at 3983/4000 by analyze_length this run; rider 2 verified
+    landed on disk (L130 Barnum 2003, ref 3 replaced) and fenced. REASONED DECLINES
+    on the other deployers, verified on disk this run: quantum-darwinism-and-consciousness
+    L86-L88 already states the page''s exact measure/actuality thesis with the link-wrap
+    installed - the page was built from this article''s verdict, no envariance-driven
+    reconciliation needed, so nothing was added to the open run-1022 cross-review''s
+    scope (checked per driver question); apex/post-decoherence-selection-programme
+    L83/L87/L167 grounding/the-weights phrasings adjudicated not-loci (reportage of
+    Zurek''s programme, link installed at the exact sentence, 4996/5000 leaves 4 words
+    headroom, and rider 4''s own loci list excluded them); born-rule-and-the-consciousness-interface
+    fenced (standing HUMAN LENGTH DEFERRAL, open run-1022 cross-review on L111, riders
+    1+3 verified landed at L117); concepts/many-worlds gets no second task - its locus
+    is inside MINT 1; a condense mint for many-worlds'' one-word hard overage (3501/3500,
+    crossed by today''s link-wrap) declined as churn - MINT 1''s net-negative-or-neutral
+    constraint on the same file is the fix. Other sources audited: unconsumed research
+    holds only the operator-held fusion-void pending_articles entry, untouched per
+    briefing; orphans 0 (state figure, and the new page has five inbound links); zero
+    other new length entrants; gap/positions/apex remain harvester-governed; staleness
+    excluded ai_modified=today (the link-wrapped deployers plus the new page) per
+    briefing; padding declined. Do-not-duplicate list held (Zurek quote-fidelity P3,
+    Dennett, body-echoes, consciousness-selecting, consumed_by stamping, rival-ontology
+    trio, cognitive-integration P3 - none touched or duplicated; vetoed bucket is
+    the three condense vetoes, no collision). Both appends anchored on the Completed
+    Tasks marker line, above it, per briefing; every mint carries a real Type line
+    (refine-draft, cross-review - valid mapped types). Post-edit verification: count_p0_p2_tasks
+    == 4; parser buckets active 102 (98 P3 + 4 pickable P2), vetoed 3; p2_tasks 7
+    by the all-active-region-P2-headers convention (three veto-tagged condenses +
+    the two run-1022 cross-reviews + two new); p3_tasks 98 (the 01:28 pessimistic
+    mint added one); todo frontmatter ai_modified bumped from live date -u; state
+    YAML load-verified after this write. No changelog tmp strays; no concurrent Python
+    loop per briefing.'
   last_replenishment_run: 1023
   loop_pickable_open: 4
   needs_replenishment: false
@@ -441,18 +458,20 @@ tune_system_history:
   - date: '2026-07-15'
     new_value: 3 keys (399KB)
     old_value: 93 keys (602KB)
-    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified); unbounded
-      per-replenish growth bloated every YAML parse.
+    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified);
+      unbounded per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
   last_run: '2026-09-04T12:54:45.481547+00:00'
-  last_run_note: 'run 2026-09-04 - NINTH consecutive zero-Tier-1 run, same structural reason: cadences
-    / overdue_thresholds / locked_settings / replenishment_config still absent from state (re-verified
-    None). NEW AND LOCATED: this run should not have fired at all. It came 8.7d after the 08-26 run against
-    a 30-day SKILL.md cadence, because filter_triggers_by_min_age() is called ONLY at scripts/evolve_loop.py:1370
-    - the /loop path (cycle_post.py:430-433 enqueue, cycle_pick.py:188 drain) never calls it, so every
-    TRIGGER_MIN_AGE_HOURS gate is inert under /unfin-cycle. The gate''s own comment records the pathology
-    it was built to stop (''9 reports in 9 days''). Logged Tier 3, not applied. Health: critical 0, medium
-    10 (vs target 3), 0 failures in last 12 recent_tasks, 0 orphans, no cap pressure (topics 324/360,
+  last_run_note: 'run 2026-09-04 - NINTH consecutive zero-Tier-1 run, same structural
+    reason: cadences / overdue_thresholds / locked_settings / replenishment_config
+    still absent from state (re-verified None). NEW AND LOCATED: this run should not
+    have fired at all. It came 8.7d after the 08-26 run against a 30-day SKILL.md
+    cadence, because filter_triggers_by_min_age() is called ONLY at scripts/evolve_loop.py:1370
+    - the /loop path (cycle_post.py:430-433 enqueue, cycle_pick.py:188 drain) never
+    calls it, so every TRIGGER_MIN_AGE_HOURS gate is inert under /unfin-cycle. The
+    gate''s own comment records the pathology it was built to stop (''9 reports in
+    9 days''). Logged Tier 3, not applied. Health: critical 0, medium 10 (vs target
+    3), 0 failures in last 12 recent_tasks, 0 orphans, no cap pressure (topics 324/360,
     concepts 323/360, voids 99/115, positions 17/80).'
   last_run_tier1_applied: 0
   report: reviews/system-tune-2026-08-26.md
@@ -461,16 +480,19 @@ task_chains:
   - research_file: obsidian/research/voids-fusion-void-2026-09-02.md
     target_section: voids
     date: '2026-09-02'
-    note: '2026-09-02 research-voids: standalone recommended - first survey after the 2026-09-01 cap raise
-      (99/115 by gate); fold fallbacks named in the note (predictive-construction-void, epistemological-limits-occams-razor,
-      binding-void cross-ref); removing this entry vetoes the expand'
+    note: '2026-09-02 research-voids: standalone recommended - first survey after
+      the 2026-09-01 cap raise (99/115 by gate); fold fallbacks named in the note
+      (predictive-construction-void, epistemological-limits-occams-razor, binding-void
+      cross-ref); removing this entry vetoes the expand'
   - research_file: obsidian/research/voids-palette-extension-void-2026-09-04.md
     target_section: voids
     date: '2026-09-04'
-    note: '2026-09-04 research-voids: standalone recommended (99/115 by gate, headroom exists) - the verification
-      face is the article, olo as the lead case; existing acquaintance-void and synesthetic-void own the
-      conceivability question, this owns the certification question. Fold fallbacks named in the note
-      (synesthetic-void for induction, commensurability-void or observation-and-measurement-void for verification);
-      removing this entry vetoes the expand. Two open gaps the expand must close first: Ward and Meijer
-      2010 was not read, and the Barbur objection rests on press quotation only'
+    note: '2026-09-04 research-voids: standalone recommended (99/115 by gate, headroom
+      exists) - the verification face is the article, olo as the lead case; existing
+      acquaintance-void and synesthetic-void own the conceivability question, this
+      owns the certification question. Fold fallbacks named in the note (synesthetic-void
+      for induction, commensurability-void or observation-and-measurement-void for
+      verification); removing this entry vetoes the expand. Two open gaps the expand
+      must close first: Ward and Meijer 2010 was not read, and the Barbur objection
+      rests on press quotation only'
   pending_cross_reviews: []
