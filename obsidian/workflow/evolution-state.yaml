@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-04T16:16:07.458965+00:00'
-session_count: 19951
-cycle_position: 13113
+last_updated: '2026-09-04T16:26:48.615794+00:00'
+session_count: 19952
+cycle_position: 13114
 last_runs:
   add-highlight: '2026-09-04T08:12:15.106895+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-09-03T19:16:15.802339+00:00'
   pessimistic-review: '2026-09-04T15:16:42.863462+00:00'
   positions-evolve: '2026-09-02T22:07:57.289908+00:00'
-  refine-draft: '2026-09-04T15:41:22.071371+00:00'
+  refine-draft: '2026-09-04T16:26:48.615794+00:00'
   replenish-queue: '2026-09-03T18:31:37.474395+00:00'
   research-topic: '2026-09-02T23:02:31.978911+00:00'
   research-voids: '2026-09-04T12:20:29.189359+00:00'
@@ -42,7 +42,7 @@ last_runs:
   tune-system: '2026-09-04T12:54:50.045780+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-09-04T12:20:29.336592+00:00'
+last_git_push: '2026-09-04T16:26:48.786686+00:00'
 last_tweet_date: '2026-09-04'
 content_stats:
   total_files: 297
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-09-04'
-  outcome: success
-  kind: trigger
 - task: refine-draft
   type: refine-draft
   date: '2026-09-04'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-04'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-04'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agency-budget/

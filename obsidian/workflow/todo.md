@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research Ontic structural realism and the Galilean exclusion
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-09-03-explanatory-limit-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-03-explanatory-limit-wing names this as the wings one unmet rival and explicitly defers it to this skill: ontic structural realism agrees with Galileos exclusion that reality is the mathematical skeleton, then denies anything was ever excluded. The corpus has 4 files touching structural realism and 1 mentioning Ladyman, with no dedicated treatment. Reviewer marked it Medium Priority, Not minted - needs a research pass first, recorded here for /harvest-research-subjects to pick up. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/ontic-structural-realism-and-the-galilean-exclusion-2026-09-04.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'ontic-structural-realism-and-the-galilean-exclusion' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-09-04
-
 ### P2: `concepts/consciousness-and-scientific-explanation` L46 — the Churchland "poltergeists" quote is absent from the complete 542-page text of the work it cites, and six consecutive reviews drifted from "may be a paraphrase" to "attribution sound" to "skipped"
 - **Type**: refine-draft
 - **File**: obsidian/concepts/consciousness-and-scientific-explanation.md
@@ -1994,6 +1988,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-04: Research Ontic structural realism and the Galilean exclusion
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-03-explanatory-limit-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-03-explanatory-limit-wing names this as the wings one unmet rival and explicitly defers it to this skill: ontic structural realism agrees with Galileos exclusion that reality is the mathematical skeleton, then denies anything was ever excluded. The corpus has 4 files touching structural realism and 1 mentioning Ladyman, with no dedicated treatment. Reviewer marked it Medium Priority, Not minted - needs a research pass first, recorded here for /harvest-research-subjects to pick up. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/ontic-structural-realism-and-the-galilean-exclusion-2026-09-04.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'ontic-structural-realism-and-the-galilean-exclusion' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-09-04: the 2026-08-27 consumption withdrawal never reached `voids/voids.md` or `phenomenal-quality-void` — the section index still advertises the retracted thesis
 - **Type**: refine-draft

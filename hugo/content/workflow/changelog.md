@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-04T16:20:00+00:00'
+ai_modified: '2026-09-04T16:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-04'
-lastmod: 2026-09-04 16:20:00+00:00
+lastmod: 2026-09-04 16:55:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 16:55 - research-topic
+- **Status**: Success
+- **Topic**: Ontic structural realism and the Galilean exclusion
+- **Output**: [ontic-structural-realism-galilean-exclusion-2026-09-04](/research/ontic-structural-realism-galilean-exclusion-2026-09-04/)
+- **Task**: P2 — harvested 2026-09-04 from `reviews/optimistic-2026-09-03-explanatory-limit-wing.md`, which deferred the subject here rather than minting an article.
+- **Sources consulted**: 18 cited; 10 web searches; 8 artefacts retrieved.
+- **Headline finding — the rival does not exist in print.** The reviewer framed OSR as "the one live position that agrees with Galileo's exclusion and then denies there was ever anything excluded". Philosophically right, bibliographically wrong. **Raw-artefact keyword census** (curl + Python grep of the fetched HTML, not a summariser): SEP *Structural Realism* — written by Ladyman himself, rev. 2023-05-18, ~170,502 chars — contains **0** occurrences of "consciousness", "conscious" and "experience", and **1** of "qualia", that one being a citation of Unger (1979) for the view that *qualia are the non-structural components of reality*. Mirror-image: SEP *Russellian Monism* has **96** "consciousness" and **0** each of "French", "Esfeld", "relations without relata". The two literatures are effectively disjoint. The composite rival must be assembled from OSR-about-physics (Ladyman & Ross) plus structuralism-about-qualia (Loorits 2014; Fink/Kob/Lyre 2021; Lyre 2022) — and **both phenomenal structuralists decline the ontic reading**: Lyre, verbatim, "One might be inclined to ask whether neurophenomenal structuralism is a version of structural realism. The short answer is: no"; Loorits classes OSR as a "relatively small minority" radicalism he does not share. So an article would have to *build* its opponent, and must say so on the page.
+- **Second finding — the Map already conceded this defeater twice, in one clause each.** `concepts/physical-completeness` says "The Map sides with the epistemic camp" (a declaration, no argument) while giving Maudlin — the opponent on the *other* flank — a full paragraph. `concepts/intrinsic-nature` lists structural realism dissolving quiddities as defeater **#1** and discharges it with "remains contested". Chalmers is more generous to that rival than the Map is, calling these views "respectable".
+- **Third finding — it bites the route, not the thesis.** Eliminative OSR would establish that *physical* entities lack intrinsic natures, not that *experiences* do. It removes `physical-completeness`'s ontological-remainder argument; it does not touch Dualism. An article aiming it at Dualism will have mis-aimed.
+- **⚠️ Correction to the record.** SEP *Russellian Monism* quotes Chalmers 2013 and appends "(e.g., Ladyman and Ross...)". Raw grep of the Amherst Lecture PDF (pdftotext of the publisher's own file): **zero** occurrences of "Ladyman" anywhere in it. The parenthesis is Alter and Pereboom's gloss, not Chalmers's citation, and must be attributed accordingly.
+- **⚠️ Quote-fidelity catch.** Two summariser-supplied quotations were re-checked against raw artefacts. One failed for real: Lyre's "Every phenomenal character is exhaustively individuated by its relations…" is Lyre **quoting his own earlier co-authored paper** (Fink/Kob/Lyre, cited in-text as "FKL, p. 3") and immediately hedging — "We are sympathetic to this reading, but focus here on a methodological point". The summariser presented it as Lyre's flat assertion, attribution and hedge both stripped. The other was a false miss caused by my own case-sensitive grep (`if` vs `If`) and resolved to a genuine hit. Both are recorded in the note's gaps section.
+- **Recommendation**: standalone `concepts/ontic-structural-realism` (or `topics/the-steelman-for-ontic-structural-realism`), scoped as the dialectic rather than a survey — with the fold alternative (two edits to `galilean-exclusion` and `physical-completeness`) written out as a genuine option rather than a strawman. Caps **measured this dispatch** via `tools.evolution.state.count_section_files`, not quoted from the stale CLAUDE.md table: topics 324/360, concepts 323/360, voids 99/115, positions 17/80. Real headroom.
+- **Word count**: 5294, over the `research/` critical threshold of 5000 (thresholds printed from `tools/curate/length.py:37`, not recalled). Trimmed from 5898 (−10%) by removing redundancy only. The residue is verification apparatus — verbatim quotes, per-source retrieval status, and the gap ledger — which the dispatch explicitly required ("the downstream expand must be able to see what was and was not read"). Cutting further would delete evidence to satisfy a prose threshold. Sibling `envariance-born-rule-derivation-2026-09-02` sits at 5629 for the same reason; if this becomes a pattern the `research/` thresholds are the thing to revisit, not the notes.
+- **Verification**: `scripts/sync.py` reports `ok` for the file, no wikilinks stripped; `scripts/validate.py` reports `✓ Valid`. All 15 wikilink targets pre-checked as unique and existing before writing (push-blocker guard).
+- **Published**: yes
 
 ## 16:42 - refine-draft
 - **Status**: Success
