@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-08-27 18:10:03+00:00
+ai_modified: 2026-09-04 11:26:04+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-06-02 18:30:00+00:00
 apex_sources:
@@ -35,7 +35,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 09:10:00+00:00
-lastmod: 2026-08-27 18:10:03+00:00
+lastmod: 2026-09-04 11:26:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,6 +44,7 @@ related_articles:
 - '[[altered-states-of-consciousness]]'
 - '[[vertiginous-question]]'
 - '[[voids/anesthesia-void]]'
+- '[[inaccessible-past]]'
 title: Identity Across Transformations
 topics:
 - '[[personal-identity]]'
@@ -87,7 +88,7 @@ Second, causal history individuates. The Map's [Bidirectional Interaction](/tene
 
 Third, the regress problem for error theories. If your sense of being a particular subject is an illusion, what is having that illusion? The seeming itself requires a subject for whom things seem a certain way. The error theorist cannot escape the particularity they deny by relocating it to appearances. Eliminativists contest this move: they argue that seemings *are* patterns of neural activity, requiring no additional subject beyond the physical processes that constitute them. The Map finds this reply inadequate—a seeming that no one undergoes is incoherent—but acknowledges that the regress argument presupposes that experiences require experiencers, which is precisely what eliminativism denies.
 
-Fourth, the past-self argument. [Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)—the capacity for mental time travel—reveals that we cannot access past conscious states, only reconstruct them from traces. The "pastness quale" that marks memories as genuinely *yours* points to something information storage cannot capture: the haecceity of *undergoing* rather than *representing*. If experience were merely information, memory could preserve it completely. That it cannot suggests identity involves something beyond pattern.
+Fourth, the past-self argument. [Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)—the capacity for mental time travel—reveals that we reconstruct past conscious states from traces rather than re-entering them. Lossiness is not itself the argument: an informational account promises nothing about preservation, since information is routinely compressed, corrupted, or overwritten. The force lies instead in [indexical non-recurrence](/voids/inaccessible-past/). No stored fidelity delivers *numerical recurrence*: yesterday's experience was undergone from an indexical position that does not come round twice, and the "pastness quale" marking a memory as genuinely *yours* registers that position without reproducing it. What memory cannot restage is *undergoing*—the haecceity claim in temporal form.
 
 ## Consciousness Divided: The Split-Brain Challenge
 
@@ -113,7 +114,7 @@ The materialist says: nowhere. The neural processes generating experience cease,
 
 The Map's [filter-theory](/concepts/filter-theory/) offers an interpretation. The brain doesn't *produce* consciousness but *interfaces* with it. Anesthesia disrupts the interface, making consciousness unable to manifest through neural patterns. Upon recovery, the interface restores—and crucially, the *same* consciousness reconnects. This preserves indexical identity through the gap by denying that consciousness ceased; it merely became unable to express itself.
 
-If consciousness is *generated* by neural activity, why should the *same* consciousness resume rather than a new one indistinguishable from the original? Production gives us Theseus's paradox: gradually resumed consciousness, with no clear answer about identity. Interface gives us persistence through temporary disconnection.
+Production accounts here inherit Theseus's paradox: consciousness resumes gradually, with no clear answer about identity.
 
 The [anaesthesia time-gap section of the consciousness-disruption article](/topics/consciousness-disruption-and-the-mind-brain-interface/#memory-sleep-and-the-vanishing-of-time) poses the question in its sharpest form: *where does the experiencing subject go when time stops?* The subject who returns is recognisably *this* subject. Production accounts accommodate that recognition by appeal to brain-state-continuity—the same neural substrate resumes the same patterns—but this is the wrong grain. It predicts the qualitative similarity we observe behaviourally; it does not predict why the returning subject is *this* one rather than a qualitatively identical replacement. The teletransporter replica has full brain-state-continuity with the original, yet intuition resists the identification, and the anaesthesia case is structurally identical. Interface theories predict indexical identity directly from continuity of the interface-bearing substrate—the same consciousness reconnects because it never went anywhere. This is suggestive rather than definitive: the anaesthesia evidence is compatible with production accounts that postulate brain-state-continuity as sufficient for indexical identity, though such accounts then owe an explanation of why the teletransporter intuition is mistaken. The anaesthesia time-gap is a haecceity exhibit, not a haecceity proof.
 
@@ -169,7 +170,7 @@ The six source articles for this synthesis converge on a single claim: identity 
 
 This is a metaphysical thesis, not an empirical hypothesis. No experiment could demonstrate haecceity, because haecceity by definition has no qualitative signature that observation could detect. The Map advances it as the most coherent account of what personal identity involves—one that takes phenomenological evidence seriously, makes sense of puzzle cases, and integrates with the dualist framework the Map defends. Whether metaphysical frameworks should be evaluated by coherence and explanatory fit (as the Map holds) or only by empirical testability (as critics demand) is itself a philosophical question the Map addresses through its [fifth tenet](/tenets/#occams-limits).
 
-This indexical identity proves remarkably resilient. Split-brain patients maintain first-person unity despite perceptual division. Anesthetized subjects return as themselves despite temporal gaps with no connecting experience. Meditators preserve witnessing awareness through dramatic content transformations. Altered states reconfigure consciousness radically while something persists to undergo the reconfiguration.
+This indexical identity proves remarkably resilient. Split-brain patients maintain first-person unity despite perceptual division. Anesthetized subjects return as themselves despite temporal gaps with no connecting experience. Meditators preserve witnessing awareness through the radical content reconfigurations of altered states.
 
 The resilience suggests that indexical identity is fundamental—not derived from psychological or biological continuity but presupposed by them. Continuity matters as *evidence* of the same consciousness persisting, not as what identity *consists in*. A replica with perfect psychological continuity would be a new consciousness; the same consciousness with fragmented continuity (as in amnesia or split-brain) remains the same subject.
 
