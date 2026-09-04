@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-16
-ai_modified: 2026-09-02 01:43:14+00:00
+ai_modified: 2026-09-04 18:28:40+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-16 20:02:00+00:00
-lastmod: 2026-09-02 01:43:14+00:00
+lastmod: 2026-09-04 18:28:40+00:00
 modified: *id001
 related_articles:
 - '[[apex/born-preserving-causal-efficacy]]'
@@ -78,7 +78,7 @@ The Map's interest in the budget is specific: the 2026-08-13 external review cha
 
 The same review anticipated the obvious reply, and it lands: a worked model must show the desiderata compatible "without achieving compatibility merely by defining all observable consequences away." The coupling construction is uncomfortably close to that. It secures compatibility by making the observable consequences exactly nil — which is the constraint the corridor imposed in the first place, so the move is not circular, but it does mean the result buys consistency with the very coin the objection said was suspect. The honest verdict is that the budget converts a suspicion of incoherence into a priced concession, and does not convert either into a demonstration of efficacy.
 
-That is progress on exactly one axis. It answers the *impossibility* form of the ensemble-level worry and leaves the *idleness* form standing. Perfect security and zero third-person evidence are the same condition under two descriptions, so a proof that the interface can be perfectly secure is simultaneously a proof that it can never be witnessed from outside. The budget therefore gives [the self-concealing interface](/apex/self-concealing-interface/) a theorem where it had a posture, and gives the [parapsychology firewall](/topics/parapsychology-firewall/) a formal reason to expect null results — the empirical ceilings on detectable micro-psychokinesis are treated in the Map's information-limits research rather than repeated here.
+That is progress on exactly one axis. It answers the *impossibility* form of the ensemble-level worry and leaves the *idleness* form standing. Perfect security and zero third-person evidence are the same condition under two descriptions, so a proof that the interface can be perfectly secure is simultaneously a proof that no publicly conditioned test can witness it, as the dependency below makes explicit. The budget therefore gives [the self-concealing interface](/apex/self-concealing-interface/) a theorem where it had a posture, and the [parapsychology firewall](/topics/parapsychology-firewall/) a formal reason to expect null results — the empirical ceilings on detectable micro-psychokinesis are treated in the Map's information-limits research, not here.
 
 Three tenet connections follow. [Tenet 2](/tenets/#minimal-quantum-interaction) gets its exactness requirement priced: exact preservation costs less than assumed, because a nonzero budget survives it. [Tenet 3](/tenets/#bidirectional-interaction) gets a channel formalism — a joint distribution with nonzero mutual information between mental and physical variables — while inheriting the standing caveat that the interface argument shows downward causation to be *available*, not actual. And [Tenet 5](/tenets/#occams-limits) is what licenses treating a formal possibility-proof as worth having at all, given how little is known about the mechanism.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-13
-ai_modified: 2026-08-19 15:24:39+00:00
+ai_modified: 2026-09-04 18:28:40+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-31 04:20:24+00:00
-lastmod: 2026-08-19 15:24:39+00:00
+lastmod: 2026-09-04 18:28:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -111,7 +111,7 @@ The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) te
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet affirms that consciousness causally influences the physical world. Together, these two tenets commit the Map to exactly the position observational closure makes coherent: genuine mental causation that respects every empirical finding while denying the metaphysical extrapolation to universal closure.
 
-The distinction also bears on testability. Observational closure sets a floor, not a ceiling: mental causation must be observationally invisible in aggregate, while specific theories of *how* it works remain open to empirical challenge. The asymmetry should be owned, though. The mechanisms that generate falsifiable predictions — quantum Zeno effects in neural tissue, coherence timescales, [Born-rule](/topics/born-rule-and-the-consciousness-interface/) compliance — belong to the bending sub-readings rather than to the corridor reading the Map prefers, which by construction predicts no signature at any sensitivity.
+The distinction also bears on testability. Observational closure sets a floor, not a ceiling: mental causation must be observationally invisible in aggregate, while specific theories of *how* it works remain open to empirical challenge. The asymmetry should be owned, though: the mechanisms that generate falsifiable predictions — quantum Zeno effects in neural tissue, coherence timescales, [Born-rule](/topics/born-rule-and-the-consciousness-interface/) compliance — belong to the bending sub-readings rather than to the corridor reading the Map prefers, which by construction predicts no *unconditioned-aggregate* signature at any sensitivity, though a deviation *conditioned* on intention, task or subject remains live ([P-Q3](/positions/quantum-interface/#mechanism-debt)).
 
 ## Further Reading
 
