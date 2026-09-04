@@ -4,7 +4,7 @@ description: "Consciousness persists at surprising metabolic thresholds and some
 created: 2026-04-05
 modified: 2026-04-05
 human_modified:
-ai_modified: 2026-08-13T11:24:58+00:00
+ai_modified: 2026-09-04T11:37:38.447949+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"
@@ -27,9 +27,20 @@ ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-04-05
 last_curated:
 last_deep_review: 2026-07-13T17:42:20+00:00
+embedded_videos:
+  - id: i64jjpssx5c
+    url: https://www.youtube-nocookie.com/embed/i64jjpssx5c
+    embedded: 2026-09-04T11:37:38.447949+00:00
+    source: notebooklm/0125-01-consciousness-under-extreme-metabolic-constraint
 ---
 
 If the brain produces consciousness the way a generator produces electricity, then cutting the fuel supply should dim the lights proportionally. It does not. Across minimally conscious states, psychedelic suppression of the default mode network, anaesthesia, cardiac arrest, deep hypothermia, and hibernation, consciousness follows a pattern that production models struggle to explain: selective component failures, sharp non-linear thresholds, and paradoxical intensification precisely when metabolic supply is collapsing. The Unfinishable Map argues that this pattern is compatible with [[filter-theory|filter theory]]—the brain constrains and channels consciousness rather than generating it, and metabolic crisis disrupts the constraint rather than the source. The evidence does not prove filter theory, but it identifies specific anomalies that production models must accommodate through auxiliary hypotheses.
+
+<details class="yt-embed" data-video-id="i64jjpssx5c">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/i64jjpssx5c">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Production Model's Prediction
 
