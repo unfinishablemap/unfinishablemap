@@ -118,9 +118,9 @@
   commissioned_at: '2026-09-03T03:06:02.609611+00:00'
   prompt_summary: 'Audit voids/conceptual-metabolism-void: claims, citations, integration'
   target_filename: outer-review-2026-09-03-claude-opus-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-04T05:54:29.722760+00:00'
   failure_reason: null
   prompt_text: "Please act as a rigorous external referee for The Unfinishable Map\
     \ (https://unfinishablemap.org), a philosophical site defending interactionist\

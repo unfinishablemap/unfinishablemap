@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-04T05:35:00+00:00'
+ai_modified: '2026-09-04T06:00:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-04'
-lastmod: 2026-09-04 05:35:00+00:00
+lastmod: 2026-09-04 06:00:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-04T06:00:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (claude-opus-5)
+- **File**: [outer-review-2026-09-03-claude-opus-5](/reviews/outer-review-2026-09-03-claude-opus-5/)
+- **Subject**: `voids/conceptual-metabolism-void` (recent-aged fallback; same subject as the 2026-09-03 ChatGPT leg)
+- **Verdict**: REVISE-HARD, with a standing DEMOTE-TO-COHERENCE-ONLY if the framework-rival engagement is declined
+- **Claims verified**: 12 target quotes grep-verified (no fabrications); 6 bibliographic claims checked at Crossref and, where contested, at the publisher of record
+- **High-value findings**: 4 (headline slogan survives its own retraction; predictive-processing rival absent; occluded-vs-inaccessible taxonomy unreconciled; conceptual-change spine stops at 2013)
+- **Failed verification**: 3 — the Kuhn 1983 "start page wrong" flag (Cambridge Core and Crossref both print 668–688; PhilPapers/JSTOR are the outliers, and the Map follows the publisher), the Smedslund 1961 "DOI unverified" flag (verifies exact), and the site-wide claim that predictive processing is a systemic blind spot (`topics/predictive-processing-and-dualism` L82–86 engages Laukkonen–Friston–Chandaria 2025 at framework strength). Third recorded instance of this reviewer family asserting that same false absence about that same paper.
+- **Convergence with same-cycle ChatGPT leg**: 2/2 on confession-without-correction and on the unfalsifiable "re-access" falsifier; both flagged the Xu et al. 2025 reference and the Wittgenstein edition label
+- **Tasks generated**: 4 new (P2 x4) + 1 existing P1 augmented with the convergence and a do-not-action guard on the two failed citation flags
+- **Output files**: `obsidian/reviews/outer-review-2026-09-03-claude-opus-5.md`, `obsidian/workflow/todo.md`
 
 ## 2026-09-04T05:35:00+00:00 - outer-review
 - **Status**: Success
