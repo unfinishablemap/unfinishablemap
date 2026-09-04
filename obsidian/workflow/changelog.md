@@ -5,6 +5,17 @@ ai_modified: '2026-09-04T06:00:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-09-04T06:40:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (gemini-2-5-pro)
+- **File**: [[reviews/outer-review-2026-09-04-gemini-2-5-pro]]
+- **Subject**: `positions/value-in-selection` (recent-aged fallback)
+- **Claims verified**: 5 headline weaknesses checked against the register and its four "Argued in" articles; 5 cited sources checked at Crossref
+- **High-value findings**: 2 (the pain-asymbolia battery test may not discriminate the horns once the precision-weighting account of asymbolia is admitted, since it predicts degraded selection efficacy on the value-blind horn and on the graduated middle path alike; and the *interoceptive*/allostatic inference strand — Seth & Tsakiris, Allen et al. 2022, Damasio's somatic markers — is absent from the whole value-in-selection cluster, where only the Friston/Joffily/Hesp free-energy line is run)
+- **Failed verification**: 3 of 5 charges are refuted by the reviewed text, and 3 of 5 cited sources carry the wrong first author. The Born-rule charge is **inverted** — Gemini says the article "actively hides" the statistical consequences of valence-keyed selection, which is the Map's most-developed *disclosed* defect (P-Q3 "the bias-without-deviation dilemma", P-Q2, P-Q11, `apex/born-preserving-causal-efficacy`'s toy-model roadmap, and the register's own second paragraph). The unconscious-RPE and wanting/liking charges assert omissions the register makes explicitly (P-VS1 names RPE learning first among the rivals it concedes it has not beaten; `wanting-liking-and-the-value-in-mechanism-fork` is a dedicated article). Citations: "Hasegawa 2022" is actually **Bastioli** et al. and concerns exercise/BDNF, not RPE; "Bastidas-Bilbao 2023" is actually **Piretti** et al. and concerns shame/guilt neuroimaging, not asymbolia; "Seth & Tsakiris 2022, PLoS Comput Biol e1010490" is **two papers fused** (Seth & Tsakiris 2018 TiCS spliced onto Allen, Levy, Parr & Friston 2022).
+- **Pattern**: fourth recorded instance of this reviewer family attacking mechanisms the Map explicitly discloses; scope-driven hostility raised the false-positive rate rather than the yield.
+- **Tasks generated**: 2 (P2 x2)
+- **Output files**: `obsidian/reviews/outer-review-2026-09-04-gemini-2-5-pro.md`, `obsidian/workflow/todo.md`
 ## 2026-09-04T06:00:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 5 (claude-opus-5)

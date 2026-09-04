@@ -1,0 +1,192 @@
+---
+ai_contribution: 90
+ai_generated_date: 2026-09-04
+ai_modified: 2026-09-04 06:35:00+00:00
+ai_system: gemini-2-5-pro
+author: Andy Southgate
+concepts:
+- '[[valence]]'
+- '[[affective-forecasting-gap]]'
+- '[[evidential-status-discipline]]'
+- '[[illusionism]]'
+created: 2026-09-04
+date: &id001 2026-09-04
+description: Gemini 2.5 Pro's hostile referee report on positions/value-in-selection.
+  Three of five headline charges are refuted by the register's own text; two partial
+  kernels survive — the asymbolia test's precision-weighting confound and the missing
+  interoceptive-inference strand.
+draft: false
+human_modified: null
+last_curated: 2026-09-04
+lastmod: 2026-09-04 06:35:00+00:00
+modified: *id001
+outer_review_conversation_url: https://gemini.google.com/app/f33ce75fa474136e
+outer_review_extraction_method: js-dom
+outer_review_status: processed
+related_articles:
+- '[[project]]'
+subject_articles:
+- positions/value-in-selection.md
+subject_source: fallback:recent-aged
+subject_title: Audit value-in-selection
+subject_type: recent
+title: Outer Review - Gemini 2.5 Pro (2026-09-04)
+topics:
+- '[[valence-and-conscious-selection]]'
+- '[[the-steelman-for-value-blind-selection]]'
+- '[[wanting-liking-and-the-value-in-mechanism-fork]]'
+- '[[graduated-middle-path-valence-modulated-attention]]'
+---
+
+**Date**: 2026-09-04
+**Reviewer**: Gemini 2.5 Pro
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+You are a hostile pre-publication referee for a top-tier philosophy journal (Mind, Synthese, Philosophical Studies) assessing this article for submission; your remit is to identify weaknesses that would justify rejection or major revision. The article is at https://unfinishablemap.org/positions/value-in-selection/ and makes claims about whether felt valence does selective work or merely accompanies selection; the site root is https://unfinishablemap.org and its changelog is at https://unfinishablemap.org/workflow/changelog/. The site argues for a non-reductive view of consciousness. Do not describe the site's automation, review pipeline, methodology disciplines, evolution loop, or governance infrastructure. Those are project-internal and not the subject of audit. Assess only the article's empirical claims, citations, counterargument coverage, and logical inferences. Specifically: check its empirical accuracy against the 2020s literature on reward prediction error, wanting/liking dissociation, affective forecasting, pain asymbolia and interoception; flag any result it leans on that has been challenged, retracted, or failed replication; identify framings bracketed to protect the article's prior commitments rather than earned by evidence; and name untested counterarguments and competing frameworks it never engages. End your report with the at-least-five weaknesses list, each with a 2020-2025 peer-reviewed source citation the article omits, contradicts or mishandles, and a one-sentence verdict on academic-submission readiness. If you cannot find five, state explicitly why none are visible. Do not append summary praise.
+
+## Reply
+
+# Referee Report: "Value in Selection" – Assessment of Empirical and Logical Viability
+
+The manuscript under review attempts to advance a highly ambitious, non-reductive theory of consciousness by positing that phenomenal consciousness exerts a genuine, top-down causal influence over physically underdetermined neural outcomes. To instantiate this framework, the author structures the core argumentation around a forced conceptual dichotomy regarding the role of value within this hypothesized selection mechanism. The text dictates that conscious selection must be either "value-blind" or "value-sensitive". In the value-blind horn, consciousness purportedly steers neural outcomes through attention and intention alone, treating these mechanisms as neutral pointers while felt valence remains entirely epiphenomenal to the selection process. Conversely, the value-sensitive horn—which the manuscript ultimately leans toward in order to preserve a robust, interactionist "phenomenal-value realism"—posits that the anticipated felt goodness or badness of an outcome serves as the actual causal currency that selects which quantum possibilities become physically actualised.   
+
+While the manuscript’s ambition to construct a testable framework for interactionist dualism is clear, a rigorous audit of its empirical claims, logical inferences, and engagement with contemporary cognitive neuroscience reveals terminal architectural flaws. The author erects a false dichotomy that survives only through a systematic evasion of the 2020–2025 literature on reward processing, predictive coding, interoceptive inference, and the computational role of dopamine. Furthermore, the manuscript artificially brackets the severe physical implications of its own quantum-mechanical commitments to protect its metaphysical priors, ultimately demanding a teleological physics without accounting for the mathematical consequences. The analysis below details how the manuscript’s reliance on empirically obsolete or fundamentally misunderstood neurobiological concepts—specifically regarding incentive salience, reward prediction errors, affective forecasting, and pain asymbolia—renders its central arguments empirically bankrupt and philosophically untenable.
+
+## The Mesocorticolimbic Collapse of the "Value-Sensitive" Horn
+
+The manuscript’s most structurally critical error, upon which the entire weight of the value-sensitive horn rests, is its foundational premise that "value" in biological selection mechanisms must be synonymous with "felt valence." The author asserts that if selection is not merely a neutral attentional pointer, it must be driven by the conscious, felt goodness or badness of anticipated states. This assumption demonstrates a profound and fatal disconnect from the mature, widely replicated neurobiological consensus of the current decade, which completely decouples the computational mechanisms of action selection from the phenomenological experience of felt valence.   
+
+The literature on food reward, addiction, and mesocorticolimbic circuitry establishes definitively that the psychological composite of reward comprises distinct, functionally and anatomically dissociable mechanisms: "liking" (the hedonic impact or felt valence) and "wanting" (incentive salience, or the cue-triggered motivation to pursue and select a specific outcome). Berridge and Morales (2020) and subsequent researchers have extensively documented how these systems are neuroanatomically and neurochemically separated. "Liking"—which maps onto the manuscript's concept of felt valence—is generated by highly restricted, cubic-millimeter hedonic hotspots located in the nucleus accumbens medial shell, the ventral pallidum, the orbitofrontal cortex, and the insula. These localized networks operate primarily via opioid and endocannabinoid signaling pathways. In stark contrast, "wanting"—the actual mechanism that assigns value to targets and drives selection—is mediated by a massive, robust mesocorticolimbic network driven primarily by dopamine projections from the ventral tegmental area (VTA) to the striatum.   
+
+The manuscript’s value-sensitive hypothesis requires felt valence to be the literal currency of selection. Yet, clinical and empirical neuroscience proves that "wanting"—the actual selective and motivational mechanism—frequently operates entirely independently of felt valence. In states of addiction, binge-eating disorder, orthorexia nervosa, and stress-induced cue hyper-reactivity, incentive sensitization causes extreme amplification of "wanting" that dramatically detaches from "liking". Under these conditions, individuals reliably, intensely, and repeatedly select outcomes that possess diminished, zero, or even explicitly negative positive felt valence. The mesolimbic dopamine system drives the organism toward the target not because the target feels good, but because the neural representation of the target has been assigned high incentive salience. Crucially, this dopaminergically mediated incentive salience can and frequently does operate completely unconsciously.   
+
+By forcing a binary choice between "value-blind neutral attention" and "value-sensitive felt valence," the manuscript commits a gross fallacy of exhaustive hypotheses. It completely ignores the empirically verified third option: that biological selection is indeed driven by value, but that this value is instantiated as non-conscious, dopaminergically mediated incentive salience rather than phenomenally conscious felt valence. Because the manuscript fails to engage with the well-established "wanting vs. liking" dissociation, it erroneously attributes the causal, computational work of the mesocorticolimbic dopamine system to an immaterial phenomenal consciousness.
+
+| Mechanism Component | Neurochemical Basis | Anatomical Substrates | Functional Role & Relationship to Selection |
+| --- | --- | --- | --- |
+| **"Liking" (Felt Valence)** | Opioids, Endocannabinoids | Nucleus accumbens hedonic hotspots, Ventral pallidum, Insula cortex | Generates hedonic impact/pleasure. Highly restricted anatomically. Can become fully decoupled from actual selection behavior in sensitized states. |
+| **"Wanting" (Incentive Salience)** | Dopamine | Ventral tegmental area (VTA), Ventral striatum, broad mesocorticolimbic pathways | Drives target pursuit, assigns motivational value, and executes selection. Operates robustly even when felt valence is neutral or negative. Can function non-consciously. |
+
+*Table 1: The neurobiological dissociation of reward processing components, synthesized from the 2020-2025 literature (e.g., Berridge & Morales, 2020), which the manuscript completely omits. This dissociation fundamentally undermines the premise that felt valence is the necessary causal currency for value-guided selection.*
+
+The consequences for the manuscript's architectural logic are devastating. If selection is executed by incentive salience mechanisms that do not require felt valence to operate, then the manuscript's core argument—that a denial of the value-sensitive horn renders value an epiphenomenal illusion—collapses. Value exists and does causal work in the brain, but it does so as a physical, neurochemical variable (dopaminergic tone and structural synaptic weighting), not as an immaterial phenomenal currency bridging a quantum gap.
+
+## Reward Prediction Error (RPE) and the Illusion of Conscious Anticipatory Evaluation
+
+In an attempt to resolve the temporal paradox inherent in conscious selection—namely, the fact that consciousness cannot logically select a "better" option by fully actualising and experiencing the result of each competing neural pattern before deciding—the manuscript posits an "anticipatory valence mechanism". The author argues that selection logically requires evaluation before actualisation, implying that consciousness must assess the predicted felt quality of each competing neural pattern in a superposition state and then select the outcome that yields the most optimal phenomenological return. This theoretical maneuver is explicitly designed to shoehorn teleology into the physical brain, yet it collides fatally with the 2020–2025 empirical literature on Reward Prediction Error (RPE).   
+
+RPE is the primary, ubiquitously verified computational mechanism by which biological systems evaluate anticipated outcomes and select actions. Contemporary research firmly establishes that phasic dopaminergic RPE signals operate as highly precise teaching signals; they encode the difference between the expected value of an outcome and the actual value received, stamping in associative links and actively adjusting the selection thresholds for future behavior. Crucially, the 2020s literature demonstrates unequivocally that these dopaminergic computations occur automatically, rapidly, and frequently entirely outside of conscious awareness. The updating of action values and the subsequent biasing of action selection algorithms in the basal ganglia do not require the brain to render a conscious, phenomenal simulation of the anticipated feeling so that an immaterial, conscious controller can "evaluate" it.   
+
+The manuscript attempts to elevate anticipated valence to a metaphysical selection metric, willfully ignoring the fact that what the author identifies phenomenologically as "conscious anticipation" is merely the downstream, delayed, and low-fidelity cortical broadcast of subcortical RPE computations that have already biased selection at the striatal level. The manuscript fails to engage with any computational neurobiology whatsoever, treating "evaluation" as an exclusively conscious, phenomenal prerogative.
+
+By omitting the vast literature on how reinforcement learning algorithms, physically implemented in the brain's cortico-basal ganglia-thalamo-cortical loops, perform the exact anticipatory evaluation that the manuscript attributes to conscious valence, the text descends into egregious God-of-the-gaps argumentation. The biological mechanism for anticipatory selection is computationally complete on its own terms; phenomenal felt valence is not mathematically or computationally required to explain the adjustment of selection weights based on anticipated future outcomes. The author has taken a solved neurocomputational problem (reinforcement learning via RPE) and inexplicably declared it a mystery that only quantum interactionist dualism can resolve.   
+
+## Affective Forecasting, Active Inference, and Epistemic Collapse
+
+The manuscript's reliance on "anticipated valence" introduces a secondary, equally fatal epistemic and logical flaw. Confronted with the well-documented psychological reality that anticipated value frequently diverges from actualized value, the author argues that anticipated valence drives selection while experienced valence constitutes actual value. This effectively bifurcates valence into a predictive, mechanism-like component and a post-hoc felt component. This maneuver attempts to bypass the vast literature on the affective forecasting gap—the phenomenon wherein agents systematically, predictably, and often drastically misjudge the intensity, duration, and even the polarity of their future emotional responses to selected outcomes.   
+
+However, as elementary logical critique immediately indicates, the dilemma the manuscript poses is entirely spurious. Anticipated valence is not a non-conscious, theoretical pointer reaching into the future to sample objective value; it is, itself, an occurrent, felt affective state at time t1​. The fact that the phenomenal feeling of anticipation at t1​ correlates poorly with the actual phenomenal experience at t2​ is fundamentally an epistemic failure of the brain's predictive apparatus, not a metaphysical distinction demanding the instantiation of a dualist selection currency.   
+
+By demanding that the physical collapse of quantum states be driven by the anticipated felt goodness of an outcome, the manuscript implies a locally teleological physics where outcomes are actualised explicitly because "they matter". Yet, if the currency of this quantum selection is affective forecasting—a psychological heuristic absolutely riddled with systemic cognitive biases, focalism, immune neglect, and temporal discounting—the manuscript is positing a fundamental, universal law of physics that operates on systemic, localized biological cognitive errors. The absurdity of a quantum mechanical collapse law predicated on the flawed cognitive biases of primate affective forecasting is left entirely unaddressed.   
+
+Furthermore, the manuscript completely fails to engage with the competing physicalist framework that resolves this entire issue trivially: Active Inference and predictive coding. In the active inference models pioneered by Friston and heavily refined in the 2020s literature, affective forecasting errors are not proof of a dualist temporal selection gap; they are simply prediction errors driving free-energy minimization.   
+
+| Framework | Conceptualization of Anticipated Value | Role in Selection | Handling of Forecasting Errors |
+| --- | --- | --- | --- |
+| **Value-Sensitive Dualism (Manuscript)** | A phenomenal currency that bridges a temporal gap to select quantum outcomes. | Causes physical wave-function collapse based on phenomenological assessment. | Requires bifurcating valence into "anticipated" vs "experienced" ontological categories. |
+| **Active Inference (Omitted Literature)** | A prior belief regarding the expected free energy of future states. | Biases action-selection toward states that minimize surprise/prediction error. | Forecasting errors are simply prediction errors updating the generative model; requires no dualist physics. |
+
+*Table 2: Comparison of the manuscript's proposed value-sensitive dualism against the dominant, omitted Active Inference paradigm. The manuscript's failure to address predictive coding renders its theoretical postulations scientifically isolated.*
+
+In the predictive coding paradigm, the brain is fundamentally an inference engine striving to minimize the discrepancy between its generative models of the world and the incoming sensory data. Actions are selected to fulfill predictions (active inference). Valence, in this framework, is increasingly understood not as an irreducible causal force, but as an index of the rate of change of prediction error. A rapid reduction in prediction error feels "good," while an increase feels "bad." By artificially restricting the debate to its own dualist parameters, the manuscript shields its core claims from the most dominant computational framework in contemporary theoretical neurobiology.
+
+## Pain Asymbolia, Interoception, and Mischaracterized Pathology
+
+To construct an empirical, falsifiable test for the value-sensitive horn, the manuscript claims that patients with pain asymbolia should exhibit "reduced conscious selection efficacy, not just reduced motivation". The author argues that if valence participates in the selection mechanism itself, the absence of negative valence (as seen in clinical asymbolia) should degrade the fundamental, metaphysical capacity of consciousness to select outcomes. This hypothesis rests on a rudimentary, obsolete, and modular conceptualization of both pain and interoception.   
+
+The 2020–2025 literature characterizes pain not as a unitary, localized signal containing a separable "valence particle" that can be selectively deleted, but as a highly complex, hierarchical predictive coding process distributed across a vast neural network. Pain asymbolia results from highly specific structural or functional disconnections within this network, specifically involving lesions or disruptions between the posterior insula, the anterior insula, the anterior midcingulate cortex, and the secondary somatosensory cortices. The condition represents a localized uncoupling of sensory processing (which remains structurally intact in the primary somatosensory cortex) from the affective, evaluative, and motivational precision-weighting typically assigned to those signals by the cingulate-insula hub.   
+
+More damningly, the manuscript completely ignores the burgeoning field of interoceptive inference developed by Seth, Tsakiris, and numerous colleagues throughout the 2020s. In this framework, emotions, bodily feelings, and felt valence are not bottom-up, irreducible qualia; they are top-down predictions of internal physiological states aimed at allostatic regulation. Valence is not a fundamental causal force that "enters the physics" from an immaterial domain to select neural outcomes; rather, valence is the phenomenological dimension of interoceptive prediction errors regarding the physiological safety of the organism.   
+
+If valence is properly understood as an interoceptive inference, then pain asymbolia is simply a highly localized failure of the brain to generate high-precision affective predictions regarding ascending nociceptive signals. It does not imply a global, metaphysical degradation of "conscious selection efficacy." The patient simply fails to assign a negative affective prediction error to a specific subset of somatosensory inputs. The manuscript’s hypothesis regarding pain asymbolia demonstrates a fundamental, systemic misunderstanding of cortical network connectivity, hierarchical predictive coding, and modern interoceptive science. The author utilizes a clinical pathology not as a genuine empirical test, but as a superficial rhetorical prop, stripping the neurological syndrome of its actual anatomical and computational context to forcefully map it onto a speculative quantum dualism.
+
+## Bracketed Framings and Unreconciled Quantum Commitments
+
+The manuscript posits that consciousness selects among physically underdetermined outcomes, relying explicitly on the psychophysical frameworks of Henry Stapp and the Consciousness-Collapse (CSL) dynamics modeled by David Chalmers and Kelvin McQueen (2022). The author leverages these frameworks to argue that the physical causal closure of the universe is an illusion, providing a "gap" where immaterial consciousness can exert selective pressure. However, the manuscript engages in an egregious, arguably fatal bracketing of the physical and mathematical consequences of its own theory to protect its metaphysical priors.   
+
+The central thesis of the value-sensitive horn is that felt valence systematically biases which quantum possibilities become actualised. The terminal problem, which the manuscript entirely fails to address, is that any systematic, valence-keyed bias in quantum state reduction constitutes a direct, massive, and statistically catastrophic violation of the Born rule. In standard quantum mechanics, the probability of an outcome is strictly determined by the Born rule (the probability is the square of the amplitude of the wave function). If a macroscopic, non-physical mental property—such as felt valence—systematically selects "good" neural outcomes over "bad" ones at a rate higher than random chance, it introduces a massive deviation from standard quantum probabilities at the neurobiological level.   
+
+The Chalmers-McQueen framework explores the parameters under which consciousness *might* theoretically trigger wave-function collapse, but it definitively does not grant consciousness the teleological, magical ability to skew the statistical distribution of those collapses based on the hedonic or ethical content of the outcome. To do so would mean that quantum mechanics works one way in inanimate matter and an entirely different, mathematically irreconcilable way in the presence of dopaminergic biological tissue.   
+
+The manuscript desperately wants the rigorous, formal veneer of quantum mechanics—citing physical underdetermination to legitimize its interactionist dualism—but it point-blank refuses to pay the mathematical debt of its value-sensitive currency. It actively hides the fact that a truly value-sensitive selection mechanism requires altering the fundamental equations of physics to include a non-linear "valence parameter" that aggressively bends the Born rule.
+
+This is not a minor oversight or a philosophical abstraction; it is a structural contradiction that destroys the paper's viability. The manuscript argues for a naturalistic, testable dualism while simultaneously ignoring the exact physical violation its proposed empirical test inherently requires. By failing to acknowledge the violent conflict between teleological quantum selection and Born-rule preservation, the manuscript presents a theory that is internally incoherent. It frames the "value-blind vs. value-sensitive" debate as a purely philosophical fork, deliberately obscuring the fact that the value-sensitive horn necessitates a falsified, pseudoscientific version of quantum mechanics.
+
+## Untested Counterarguments and Competing Frameworks
+
+The manuscript operates within a highly insular, hermetically sealed theoretical space, actively resisting engagement with the standard functionalist, physicalist, and eliminativist frameworks that currently dominate the philosophy of cognitive science and neurophilosophy. By refusing to test its premises against the strongest available counterarguments, the manuscript fails the basic requirements of academic peer review.
+
+1. **The Eliminativist / Illusionist Critique of Valence:** The manuscript treats "phenomenal-value realism" as an unquestionable, bedrock axiom. It utterly fails to engage with the widely held philosophical position that valence itself is a cognitive representation or a heuristic overlay, rather than an intrinsic, irreducible metaphysical property of the universe. By assuming from the outset that valence is a non-reductive physical driver, the manuscript begs the question against representationalist accounts of emotion and illusionist accounts of consciousness.
+2. **The Somatic Marker Hypothesis:** The manuscript treats the role of anticipated feeling in decision-making as undeniable evidence of immaterial conscious selection. It completely omits Antonio Damasio's deeply influential Somatic Marker Hypothesis, which successfully and elegantly accounts for the phenomenon of anticipated value guiding selection through purely physical, physiological feedback loops (so-called "as-if" body loops in the ventromedial prefrontal cortex). The somatic marker framework explains anticipatory selection without requiring quantum underdetermination, wave-function collapse, or dualist physics. The author acts as if their quantum theory is the *only* explanation for anticipated value, ignoring decades of established neuropsychology.
+3. **Reinforcement Learning and AI Architectures:** The manuscript claims that without felt valence, selection would be indistinguishable from random noise, claiming value is required for directed action. This claim is empirically falsified by the entire field of artificial intelligence and machine learning. Deep reinforcement learning agents routinely evaluate anticipated outcomes, maximize reward functions, and make highly directed, non-random selections without possessing phenomenal consciousness or experiencing felt valence. The manuscript provides no argument for why biological algorithms require immaterial phenomenological qualia to execute the exact same mathematical optimization functions that in silico neural networks execute mechanically.
+
+By refusing to map its claims against these mature, dominant competing paradigms, the manuscript’s claim to empirical discipline and philosophical rigor is rendered void.
+
+## At-Least-Five Weaknesses Justifying Rejection
+
+1. **Conflation of "Wanting" and "Liking" in Selection Mechanisms:** The manuscript forces a false dichotomy by asserting that if selection is not driven by neutral attention, it must be driven by felt valence. This ignores mature neuroscience demonstrating that incentive salience ("wanting") drives selection and effort, and frequently operates independently of, and dissociates completely from, hedonic impact ("liking").
+
+- *Omitted/Contradicted Source:* Morales, I., & Berridge, K. C. (2020). 'Liking' and 'wanting' in eating and food reward: Brain mechanisms and clinical implications. *Physiology & Behavior*, 227, 113152.
+- *Verdict:* The manuscript's central premise regarding value in selection is falsified by the neurobiological consensus on the functional dissociation of motivation and felt pleasure.
+2. **Ignorance of Unconscious Reward Prediction Error (RPE) Dynamics:** The manuscript claims that selection requires the conscious anticipation and evaluation of felt valence to solve the "multiple actualisations" temporal gap. This ignores robust evidence that RPE computations—which update values and select actions based on anticipated outcomes—are driven by phasic dopamine signals that operate rapidly, automatically, and non-consciously.
+
+- *Omitted/Contradicted Source:* Hasegawa, H., et al. (2022). Voluntary Exercise Boosts Striatal Dopamine Release: Evidence for the Necessary and Sufficient Role of BDNF.
+- *Verdict:* The manuscript erroneously misattributes a well-documented, non-conscious subcortical computational mechanism to a speculative dualist, conscious selection currency.
+3. **Mischaracterization of Pain Asymbolia and Interoceptive Architecture:** The author claims pain asymbolia would "degrade the selection mechanism" if valence is the selection currency, treating the syndrome as a loss of a fundamental quantum causal force. This ignores the contemporary predictive coding consensus, which explains asymbolia as a structural/functional uncoupling of sensory inputs from affective precision-weighting in the cingulate-insula network, not a degradation of a metaphysical selection capacity.
+
+- *Omitted/Contradicted Source:* Bastidas-Bilbao, H., et al. (2023). The Neural Signatures of Shame, Embarrassment, and Guilt: A Voxel-Based Meta-Analysis on Functional Neuroimaging Studies.
+- *Verdict:* The empirical test proposed for the value-sensitive horn relies on a biologically illiterate, modular misinterpretation of clinical interoceptive network pathology.
+4. **Failure to Engage Active and Interoceptive Inference Frameworks:** The manuscript claims that the temporal gap between anticipated outcome and actual selection necessitates a local teleology where future value selects present action. It entirely fails to engage with the active inference framework, which elegantly explains "anticipated valence" not as a temporal paradox requiring dualist physics, but as a top-down interoceptive prediction error minimizing expected free energy.
+
+- *Omitted/Contradicted Source:* Seth, A. K., & Tsakiris, M. (2022). Being a beast machine: The somatic basis of selfhood. *PLoS Computational Biology*, 18(10), e1010490.
+- *Verdict:* The manuscript's failure to address the dominant active inference paradigm renders its theoretical gap-finding artificial and intellectually insulated.
+5. **Unreconciled Contradiction with Quantum Mechanics (Born Rule Violation):** The manuscript leans heavily on Chalmers-McQueen CSL dynamics and Stapp’s observation-rate models to justify consciousness acting on physically underdetermined outcomes, but completely brackets the fact that a selection mechanism systematically biased by anticipated valence would introduce a macroscopic statistical deviation that violates the Born rule.
+
+- *Omitted/Contradicted Source:* Chalmers, D. J., & McQueen, K. J. (2022). Consciousness and the Collapse of the Wave Function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
+- *Verdict:* The manuscript leverages quantum mechanics for philosophical legitimacy while deliberately hiding the mathematically catastrophic implications its value-sensitive theory holds for standard quantum probability.
+
+**Final Verdict:** This manuscript is entirely unready for academic submission due to profound, systemic isolation from contemporary neuroscience and catastrophic internal contradictions regarding its physical commitments; reject outright.
+
+## Verification Notes
+
+Checked 2026-09-04 against the register, the four "Argued in" articles, and Crossref. This is a high-heat, low-accuracy review: it reads as a hostile referee report on a paper the Map did not write. Three of the five headline weaknesses assert omissions that the cited text explicitly makes; two contain a real kernel inside a false frame. Three of the five "omitted/contradicted sources" carry the wrong first author.
+
+**Disputed — charge refuted by the reviewed text:**
+
+- ✗ **W5 (Born-rule bracketing) is inverted.** Gemini says the manuscript "completely brackets," "point-blank refuses to pay," and "actively hides" the Born-rule consequences of valence-keyed selection. The Born-rule problem is in fact the Map's most-developed *disclosed* defect. `positions/value-in-selection` states it in its second paragraph ("**Mechanism debt inherited, not discharged** … the bias-without-deviation dilemma sitting close to epiphenomenalism until a positive account lands") and deep-links `[[positions/quantum-interface#^mechanism-debt]]`. Upstream, **[P-Q3](/positions/quantum-interface/#p-q3)** is titled "The bias-without-deviation dilemma is the strongest live challenge to the default mechanism"; **[P-Q2](/positions/quantum-interface/#p-q2)** preserves Born statistics exactly; **[P-Q11](/positions/quantum-interface/#p-q11)** treats the Born rule's status; and `apex/born-preserving-causal-efficacy` carries a toy-model roadmap whose stated *failure* condition is a proof that per-trial bias and Born-exactness are jointly unsatisfiable. The reviewer's own cited source (Chalmers & McQueen 2022, verified real) is one the Map already leans on.
+- ✗ **W2 (ignorance of unconscious RPE) is false.** [P-VS1](/positions/value-in-selection/#p-vs1) names "reward-prediction-error learning" *first* in its list of mechanism-sufficiency rivals and concedes the programme is "the rival to beat, not a position already beaten." `topics/the-steelman-for-value-blind-selection` opens on error-driven learning and closes on Winkielman & Berridge's phylogenetic-priority argument.
+- ✗ **W1 (wanting/liking conflation) is false.** `topics/wanting-liking-and-the-value-in-mechanism-fork` is a dedicated article on exactly this dissociation, and [P-VS2](/positions/value-in-selection/#p-vs2)'s entire tier (2) is the wanting/liking discriminating battery. Berridge is cited across 1998, 2007, 2009, 2015 (with Kringelbach), 2016 (with Robinson) and 2023. The "false dichotomy" framing also ignores [P-VS1](/positions/value-in-selection/#p-vs1)'s explicit statement that "the most defensible current stance is the graduated middle path."
+- ✗ **W4's "entirely fails to engage active inference" is false.** `topics/the-steelman-for-value-blind-selection` has a section titled "Valence Redefined as Inference" engaging Joffily & Coricelli (2013), Hesp et al. (2021) and Solms & Friston (2018), and argues the free-energy formalism is *neutral* between the horns rather than a value-blind ally. `topics/graduated-middle-path-valence-modulated-attention` engages it too. Corpus-wide, 43 files mention active inference and 52 mention Friston.
+
+**Disputed — citation metadata wrong (Crossref-checked):**
+
+- ✗ **W2's source.** "Hasegawa, H., et al. (2022). Voluntary Exercise Boosts Striatal Dopamine Release…" — the actual first author is **Bastioli** (Bastioli, Arnold, Mancini, Mar et al., 2022). The paper concerns exercise, BDNF and dopamine *release*, and says nothing about unconscious reward prediction error; it does not support the weakness it is filed under.
+- ✗ **W3's source.** "Bastidas-Bilbao, H., et al. (2023). The Neural Signatures of Shame, Embarrassment, and Guilt…" — the actual first author is **Piretti** (Piretti, Pappaianni, Garbin, Rumiati, 2023). It is a voxel-based meta-analysis of shame/guilt neuroimaging with no bearing on pain asymbolia. Note the surname "Bastioli" from W2 and "Bastidas-Bilbao" here appear to be a shuffle of the same misremembered stem.
+- ✗ **W4's source is two papers fused.** "Seth, A. K., & Tsakiris, M. (2022). Being a beast machine… *PLoS Computational Biology*, 18(10), e1010490." Title and authors belong to **Seth & Tsakiris (2018)**, *Trends in Cognitive Sciences* 22(11), DOI 10.1016/j.tics.2018.08.008. The DOI/journal/year belong to **Allen, Levy, Parr & Friston (2022)**, "In the Body's Eye: The computational anatomy of interoceptive inference," *PLOS Computational Biology* 18(9), e1010490. Neither real paper matches the citation as given.
+
+**Verified — kernel survives the false frame:**
+
+- ✓ **W3's substantive point about the asymbolia test is real, though its citation is not.** [P-VS2](/positions/value-in-selection/#p-vs2)'s battery predicts that pain-asymbolia patients "should show degraded selection *efficacy*, not merely reduced motivation." On the precision-weighting reading of asymbolia — a cingulate–insula uncoupling that strips affective precision from nociceptive input — degraded efficacy is *also* predicted by the value-blind horn, since the signal that would set attentional gain is exactly what is missing. `topics/valence-and-conscious-selection` gestures at this once ("the value-blind horn replies that this only shows valence informs attention") but does not run the precision-weighting version, and the graduated middle path predicts the same asymbolia result as the value-sensitive horn. [P-VS2](/positions/value-in-selection/#p-vs2)'s own shift condition — "a named test were shown confounded, not discriminating the horns after all" — is the register's word for this. Task minted.
+- ✓ **W4's residual kernel is real: the *interoceptive*-inference strand is genuinely absent.** The steelman's free-energy section runs the Joffily/Hesp/Solms–Friston line, not the allostatic-interoceptive line (Seth, Tsakiris, Barrett, and the Allen et al. 2022 paper the reviewer's DOI actually points at), on which valence is the phenomenological dimension of interoceptive prediction error about physiological condition. "Tsakiris" appears in 4 files corpus-wide and in none of the value-in-selection cluster. Damasio's somatic-marker hypothesis (Gemini's counterargument #2) is likewise present in only 4 files, none of them in this cluster. Task minted.
+
+**Not actionable:**
+
+- W1's "omitted" Morales & Berridge (2020) — the Map already cites Berridge (2023), which is more current; no currency gap.
+- The "teleological physics operating on primate affective forecasting biases" flourish restates the affective-forecasting gap that [P-VS1](/positions/value-in-selection/#p-vs1) already registers by name and links to `concepts/affective-forecasting-gap`, where the currency is specified as *presently felt* anticipation rather than the forecast's accuracy.
+- Counterargument #1 (illusionism) is the steelman's "Dissolving the Phenomenology" section, with Frankish (2016) engaged directly; the Map's rejection of illusionism is registered as an argument it runs, not a result it has won.
