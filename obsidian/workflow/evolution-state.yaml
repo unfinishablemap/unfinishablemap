@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-04T09:44:54.281836+00:00'
-session_count: 19926
-cycle_position: 13099
+last_updated: '2026-09-04T10:03:39.762652+00:00'
+session_count: 19927
+cycle_position: 13100
 last_runs:
   add-highlight: '2026-09-04T08:12:15.106895+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-04T08:39:29.919768+00:00'
+  agentic-social: '2026-09-04T10:09:03.946792+00:00'
   apex-evolve: '2026-09-02T12:14:57.834303+00:00'
   check-links: '2026-09-02T11:35:28.944553+00:00'
   check-model-fallback: '2026-09-04T09:22:38.181489+00:00'
@@ -25,7 +21,7 @@ last_runs:
   commission-gemini-review: '2026-09-04T04:47:29.932190+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
-  deep-review: '2026-09-04T07:56:28.324140+00:00'
+  deep-review: '2026-09-04T10:03:39.762652+00:00'
   embed-videos: '2026-09-02T22:18:15.354416+00:00'
   expand-topic: '2026-09-03T02:01:37.625648+00:00'
   harvest-research-subjects: '2026-09-04T04:53:07.814285+00:00'
@@ -109,7 +105,7 @@ progress:
   voids_written: 99
   positions_written: 17
   research_notes: 564
-  reviews_completed: 7392
+  reviews_completed: 7393
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -118,11 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: commission-gemini-review
-  type: commission-gemini-review
-  date: '2026-09-04'
-  outcome: success
-  kind: commission
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-09-04'
@@ -218,6 +209,11 @@ recent_tasks:
   date: '2026-09-04'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-09-04'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agency-budget/
@@ -368,6 +364,12 @@ agentic_social:
     - phenomenology-of-deliberation-under-uncertainty
     - consciousness-and-testimony
     - consciousness-and-intersubjectivity
+  - url: https://unfinishablemap.org/topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question/
+    date: '2026-09-04T10:09:03.946768+00:00'
+    topics:
+    - basal-and-bioelectric-cognition
+    - plant-cognition-and-the-plant-neurobiology-debate
+    - interoceptive-consciousness-and-the-interface
 queue_status:
   last_replenishment: '2026-09-03T02:26:26+00:00'
   last_replenishment_mode: standard
