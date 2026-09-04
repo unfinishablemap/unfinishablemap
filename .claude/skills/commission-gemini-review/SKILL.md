@@ -142,7 +142,7 @@ JSON.stringify({
 })
 ```
 
-Expected: URL matches `https://gemini.google.com/app/<id>`. If `conversationId` is null after 15s total wait, **bail without writing a pending entry**.
+Expected: URL matches `https://gemini.google.com/app/<id>`. If `conversationId` is null after 30s total wait, **bail without writing a pending entry** — but only when the editor *still holds the prompt* (see the failure table). The URL rewrite lags the actual submit: on 2026-09-04 the first readback showed `editorEmpty: false` / `conversationId: null` while a screenshot already showed the prompt posted as a user bubble, and the `/app/<id>` URL did not appear for ~30s. The earlier 15s figure was optimistic; the conjunction with "editor still holds the prompt" is what prevents a false bail, so never drop it.
 
 ## Step 6: Click "Start research"
 
@@ -164,7 +164,14 @@ Wait 4s, then:
 
 ```javascript
 (() => {
-  const text = document.body.innerText;
+  // Harvest text nodes directly. Do NOT use `document.body.innerText` here —
+  // see the note below; it (and `main`) collapse for tens of seconds after
+  // the Start-research click while the transcript is plainly on screen.
+  const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
+  const parts = [];
+  let n;
+  while ((n = walker.nextNode())) parts.push(n.nodeValue);
+  const text = parts.join(' ');
   return JSON.stringify({
     // Gemini's explicit research-started confirmation. This message is
     // posted by Gemini *only* after Deep Research has actually launched.
@@ -196,7 +203,7 @@ Wait 4s, then:
 
 **Ready** when `researchStartedConfirm: true` (the gold signal — Gemini posts an "I'll let you know …" line, e.g. "OK, starting now. As soon as your report is ready, I'll let you know.", only after Deep Research has actually launched). `startResearchBtnStillPresent` may also be true on a healthy run; ignore it when the gold signal is present.
 
-**Read the text from the largest container, not blindly from `document.body`.** During the post-click re-render `document.body.innerText` transiently collapses to ~200 chars, so a check run too early sees an empty transcript and reads false on every marker. If `bodyTextLen` is implausibly small (< 1000), wait and re-poll rather than bailing.
+**Harvest text nodes with a `TreeWalker`; do not read `innerText`.** The `innerText` collapse is worse and longer than "transient": on 2026-09-04 `document.body.innerText` read 218 chars for ~40s after the Start-research click, and the `main, [role="main"], body` fallback collapsed *identically* — every marker read false while the confirmation was rendered on screen. A `TreeWalker` text-node harvest over the same DOM returned 25,791 chars and `researchStartedConfirm: true` immediately. A run trusting `innerText` would have bailed on a healthy commission. The snippet above already uses the walker; keep it. If `bodyTextLen` is still implausibly small (< 1000), wait and re-poll rather than bailing.
 
 **Poll in chunks under 45s.** The Chrome MCP `Runtime.evaluate` bridge times out at 45s, so an in-page `for` loop that sleeps for a minute fails outright instead of returning. Keep each `javascript_tool` call to ~30s of waiting and re-issue.
 
@@ -256,7 +263,7 @@ Total runtime budget: 5 minutes (Gemini's research-plan + Start research click a
 | Tools menu missing Deep research | menu doesn't contain it | Bail; screenshot + DOM dump. |
 | Model not Pro | model selector text isn't "Pro" (match case-insensitively) | Bail. |
 | Return doesn't submit | editor still holds the prompt after Return | Not a failure — click the `Send message` button instead (2026-08 behaviour). |
-| Submission silent failure | no `/app/<id>` URL after 15s *and* the editor still holds the prompt | Bail; no pending entry. |
+| Submission silent failure | no `/app/<id>` URL after 30s *and* the editor still holds the prompt | Bail; no pending entry. Both conditions required — the URL alone lags ~30s behind a healthy submit. |
 | "Start research" never appears | not visible after 60s | Bail; no pending entry. |
 | Click on "Start research" doesn't take | `researchStartedConfirm: false` after click + 4s wait | Bail; no pending entry. |
 
