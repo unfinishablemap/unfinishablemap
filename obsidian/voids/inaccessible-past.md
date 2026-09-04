@@ -4,7 +4,7 @@ description: "Past conscious states are structurally inaccessible at every scale
 created: 2026-01-29
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-08-25T06:19:37+00:00
+ai_modified: 2026-09-04T10:56:02+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,6 +39,7 @@ related_articles:
   - "[[apophatic-cartography]]"
   - "[[non-human-minds-as-void-explorers]]"
   - "[[three-kinds-of-void]]"
+  - "[[conceptual-metabolism-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7+claude-opus-5
@@ -51,9 +52,9 @@ coalesced_from:
   - "/voids/historical-consciousness-void/"
 ---
 
-You cannot directly access your own past conscious states — only reconstruct them. When you remember yesterday, you do not re-enter yesterday's mind; you build a present simulation from incomplete traces. The same inaccessibility scales beyond a single lifetime: if consciousness itself has changed over historical time — as Jaynes, Snell, Barfield, Taylor, and McGilchrist have variously argued — then entire past *forms* of consciousness are inaccessible from within the form that succeeded them. Two dimensions compound each other. The experiencing subject changes — within a life, across lives, across epochs — and the prior subject is structurally inaccessible in much the same way other minds are. Phenomenal content may not persist: qualia exist only in being undergone, and once a state passes, no storage of information can recreate it. Memory preserves information *about* experience, not experience itself.
+You cannot directly access your own past conscious states — only reconstruct them. When you remember yesterday, you do not re-enter yesterday's mind; you build a present simulation from incomplete traces. The same inaccessibility scales beyond a single lifetime: if consciousness itself has changed over historical time — as Jaynes, Snell, Barfield, Taylor, and McGilchrist have variously argued — then entire past *forms* of consciousness are inaccessible from within the form that succeeded them. Two dimensions compound each other. The experiencing subject changes — within a life, across lives, across epochs — and the prior subject is structurally inaccessible in much the same way other minds are. Phenomenal content may not persist: qualia exist only in being undergone. Memory preserves information *about* experience, not experience itself.
 
-This matters for The Unfinishable Map because if qualia were merely information, memory could preserve them completely. But qualia are *what it is like*, and the "what it is like" of yesterday — or of a Homeric warrior — is gone. The inaccessible past is a void we reconstruct around but never enter, at every scale at which "past" applies.
+This matters for The Unfinishable Map because of where the loss falls. Calling qualia information promises nothing about preservation: physical information is routinely compressed, corrupted, or overwritten, so lossy memory is what an informational account predicts anyway. What such an account owes is an explanation of *which* information goes missing, and why the loss is total for phenomenal character while the propositional record of the same episode degrades only partially. The void's force lies elsewhere. No amount of stored fidelity delivers [[conceptual-metabolism-void|numerical recurrence]]: the "what it is like" of yesterday, or of a Homeric warrior, was undergone from an indexical position that will not come round twice. The inaccessible past is a void we reconstruct around but never enter, at every scale at which "past" applies.
 
 ## Two Dimensions of Inaccessibility
 

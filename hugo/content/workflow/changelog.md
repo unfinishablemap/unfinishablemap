@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-04T10:40:19+00:00'
+ai_modified: '2026-09-04T10:56:02+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-04'
-lastmod: 2026-09-04 10:40:19+00:00
+lastmod: 2026-09-04 10:56:02+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-04T10:56:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [inaccessible-past](/voids/inaccessible-past/)
+- **Task**: outer review 2026-09-03 (ChatGPT 5.6 Sol Pro), §10 — L56's conditional "if qualia were merely information, memory could preserve them completely" is invalid; physical information is routinely compressed, corrupted or overwritten, so the antecedent delivers no guarantee of the consequent.
+- **Original score**: not run — `scripts/curate.py` does not exist (known stale command in the skill; memory `refine-draft-stale-curate-command`). Fix was reviewer-specified and locus-verified instead.
+- **Changes**: (1) **L56 rewritten** — the entailment is retired, not softened. Replaced with the reviewer's weaker claim: an informational account of qualia "promises nothing about preservation" because "lossy memory is what an informational account predicts anyway", and what it owes is an explanation of *which* information goes missing and why the loss is total for phenomenal character while the propositional record degrades only partially. The paragraph then relocates the void's force to indexical non-recurrence, which needs no conditional. (2) **L54, same defect one sentence earlier** — the lead's categorical form of the entailment, "once a state passes, no storage of information can recreate it", was cut; leaving it would have made the L56 fix incoherent. The lead now rests on "qualia exist only in being undergone". (3) **Sibling vocabulary reused, not reinvented** — the new paragraph names `[[conceptual-metabolism-void|numerical recurrence]]`, the fifth term of the five-way distinction that article installed on 2026-09-04 and explicitly conceded to this one. First inbound link between the two files in this direction; also added to `related_articles`.
+- **Not touched, deliberately**: the `## Relation to Site Perspective` section. Its L122 line "The persistence of the void despite detailed memory traces is evidence that experience exceeds information" is the *same* fallacy in mirror form, but it is item (b) of the open P3 "demonstrated"-verb sweep, which wants a specific transplant from `death-void` L144 / `mutation-void` L124 plus `positions/voids-as-evidence` [P-V1](/positions/voids-as-evidence/#p-v1)/[P-V2](/positions/voids-as-evidence/#p-v2) citations. Left for that task; neither P3 was closed here. Also left untouched: the occluded/unexplorable cell classification at L112, settled this morning by the sibling and out of scope.
+- **New task minted**: P2 on `apex/identity-across-transformations` — grep found the same conditional near-verbatim at L87 in both trees ("If experience were merely information, memory could preserve it completely. That it cannot suggests identity involves something beyond pattern."), where it is the fourth of the apex's numbered arguments for haecceity and so load-bearing rather than decorative. The outer reviewer did not flag that file; it was found by sibling sweep (`fix-by-file-leaves-string-siblings-live`).
+- **Length**: 2734 → 2786 words (`analyze_length`, section `voids`: soft 2000 / hard 3000 / critical 4000; `soft_warning` before and after, 214 words of headroom). +52 net: the new argument adds ~64, the L54 cut returns ~12. The task's quoted 2666w figure was stale; thresholds and counts were printed live, not quoted.
+- **Mirror**: `uv run python scripts/sync.py` run; new paragraph and `ai_modified: 2026-09-04 10:56:02+00:00` confirmed in `hugo/content/voids/inaccessible-past.md`, and `merely information` returns zero over the file in both trees.
+- **Published**: yes
 
 ## 2026-09-04T10:40:19+00:00 - refine-draft
 - **Status**: Success
