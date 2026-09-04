@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-08-26 14:54:35+00:00
+ai_modified: 2026-09-04 08:26:29+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
 author: null
 concepts:
 - '[[bedrock-clash-vs-absorption]]'
 - '[[concepts/cross-mechanism-convergence]]'
 created: 2026-01-16
-date: &id001 2026-08-26
+date: &id001 2026-09-04
 description: Safeguards against systematic overcommitment when an AI system both generates
   and reviews content optimised for internal consistency. Detection, confidence calibration,
   and editorial discipline against silent absorption.
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-29 14:27:00+00:00
-lastmod: 2026-08-26 14:54:35+00:00
+lastmod: 2026-09-04 08:26:29+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -44,8 +44,12 @@ related_articles:
 - '[[reviews/outer-review-2026-08-04-claude-opus-5]]'
 - '[[reviews/outer-review-synthesis-2026-08-20]]'
 - '[[reviews/outer-review-2026-08-25-claude-opus-5]]'
-- '[[reviews/outer-review-synthesis-2026-08-25]]'
+- '[[reviews/outer-review-2026-09-03-chatgpt-5-6-sol-pro]]'
+- '[[reviews/outer-review-2026-09-03-claude-opus-5]]'
+- '[[reviews/outer-review-synthesis-2026-09-03]]'
 - '[[voids/edge-states-and-void-probes]]'
+- '[[voids/conceptual-metabolism-void]]'
+- '[[voids/expertise-and-its-occlusion]]'
 title: Coherence Inflation Countermeasures
 topics: []
 ---
@@ -415,7 +419,7 @@ The worked example is [quantum-state-inheritance-in-ai](/topics/quantum-state-in
 
 - **Strength-of-claim linter**: `/validate-all` (or a dedicated check) scans leads and "Relation to Site Perspective" sections for the strong-verb set ("demonstrates," "establishes," "proves," "supports dualism") and flags any article whose body uses the discipline-compliant weaker set ("compatible with," "constrains," "raises the explanatory cost," "made more live"). The fix is to align the lead down to the body, never the body up to the lead.
 - **Constrain-vs-establish frame lint**: `/deep-review` and `/refine-draft` (and `/expand-topic` at creation) compare an article's *frame* — title, H2/H3 headers, abstract/opening summary, and `description` frontmatter — against its body's calibration. If the body's conclusion is conditional-on-tenets or constrain-not-establish while any frame element asserts it categorically, the mismatch is a calibration defect, not a stylistic one; relax the frame down to the body. This is written review guidance, not an automated check — the reviewer reads both surfaces and judges the gap.
-- **Propagation**: when a `/refine-draft` or `/deep-review` pass adds a caveat to a source article, it generates a `cross-review` ticket in `todo.md` for every apex that links that source. The apex's owning synthesis receives an automatic review prompt rather than waiting for the next scheduled deep-review to notice the drift. This is the per-apex companion to the corpus-split propagation the changelog already performs for citation fixes.
+- **Propagation**: when a `/refine-draft` or `/deep-review` pass adds a caveat to a source article, it generates a `cross-review` ticket in `todo.md` for every apex that links that source. The harder case — a thesis *withdrawn* rather than caveated, whose dependents are same-tier siblings rather than apexes — is Countermeasure 18's withdrawal sweep. The apex's owning synthesis receives an automatic review prompt rather than waiting for the next scheduled deep-review to notice the drift. This is the per-apex companion to the corpus-split propagation the changelog already performs for citation fixes.
 - **Registry-grain sibling**: the same discipline lifted across files — apex-registry entry theses, position statements, `apex_thesis` frontmatter, and `description:` fields tested against the bodies they certify, in both directions — is the [registry-vs-body calibration diff](/project/evidential-status-discipline/#the-registry-vs-body-calibration-diff), installed 2026-08-20 from two-reviewer convergence after the apex registry was found selling claims its remediated bodies had withdrawn.
 
 ## Countermeasure 13: Hard-Problem-Restatement and Missing-Engagement Audits
@@ -513,6 +517,8 @@ Track these metrics across evolution sessions:
 | Citation clusters counted as convergent lines despite shared authorship/mutual citation, or mutually inconsistent theories bundled as convergent (Countermeasure 15, two-tells check) | 0 | >0 |
 | Congenial empirical paraphrases supporting a load-bearing claim that have been verified only at the citation record, never reconstructed from the source's own abstract and results (Countermeasure 17) | 0 | >0 |
 | Registry surfaces (apex-registry entry theses, position statements, `apex_thesis`/`description:` frontmatter) whose calibration mismatches the pointed-to body in either direction ([registry-vs-body calibration diff](/project/evidential-status-discipline/#the-registry-vs-body-calibration-diff)) | 0 | >0 |
+| Withdrawn or materially weakened theses applied without a recorded sweep of one-hop dependents' bodies *and* navigation surfaces (Countermeasure 18) | 0 | >0 |
+| Review verdicts recorded as converged or stable without naming the lens they scope to, or construct-bearing articles recorded as converged without the construct-earns-keep question having been put (Countermeasure 18) | 0 | >0 |
 
 ### Reporting
 
@@ -588,12 +594,36 @@ What makes this the canonical case is what the reference had already survived. A
 - `/refine-draft`, `/deep-review`, and `/expand-topic` apply the five-point check to any empirical paraphrase supporting a claim the framework favours, reconstructing from the source before comparing.
 - **Assume overstatement in the congenial direction only.** The hostile direction gets adversarial reading for free; the instruction is needed exactly where the reading is comfortable.
 - **Spend limited verification budget on congenial paraphrases first.**
-- **A clean metadata audit is not evidence of a faithful paraphrase**, and must not be logged as though it were. The Tippett entry passed a DOI-level Crossref check hours before its gloss was found reversed, and that audit entry could easily have been read as clearing the sentence.
+- **A clean metadata audit is not evidence of a faithful paraphrase**, and must not be logged as though it were. The Tippett entry passed a DOI-level Crossref check hours before its gloss was found reversed, and that audit entry could easily have been read as clearing the sentence. Countermeasure 18 states the general form of this rule and applies it one grain up, at the article's central construct.
 - **Remediation is re-framing, not deletion.** A reversed paraphrase attached to a real, correctly attributed source is repaired by rewriting the sentence to what the study reports; the citation stays. The Tippett repair strengthened the article's downstream inference rather than costing it one.
 
 ### Prior Art
 
 Countermeasure 14's prior-art rule binds this document as much as any article, so: empirical-claim fidelity is not a new axis for the Map. It is the lens the anendophasia catch above already used, and the changelog has recorded congenial-direction errors under that description since at least 2026-05. What Countermeasure 17 adds is the *direction* of scrutiny, the reconstruct-before-comparing protocol, and a named home for both, so the lens fires by default rather than when a reviewer happens to aim at it. It completes a trio: Countermeasure 3 establishes that the source exists and Countermeasure 11's resolve-and-diff gate that the object retrieved is the object cited, the same countermeasure's weight-class flag calibrates what that source weighs, and Countermeasure 17 calibrates what the article says the source *found*. It also pairs with Countermeasure 12's strength-of-claim linter, which catches drift between an article's lead and its own body, where this catches drift between the source and the article.
+
+## Countermeasure 18: Lens Independence and the Withdrawal Sweep
+
+### Policy
+
+A review pipeline accumulates lenses faster than coverage, and its verdicts travel further than the lens that produced them. Both rules below follow from one diagnosis: a clean pass under one lens gets read — in the changelog, and by the next reviewer deciding where to aim — as a clean pass on the article.
+
+**Lens independence.** Countermeasure 17 states the rule at the paraphrase grain: a clean metadata audit is not evidence of a faithful paraphrase. The 2026-09-03 outer-review pair on [conceptual-metabolism-void](/voids/conceptual-metabolism-void/) found the same dissociation one grain up, at the article's central construct, each reviewer supplying half the demonstration. Claude Opus 5 audited all thirteen references on three layers — metadata, verbatim quotation, author stance — and found no fabrications, no misattributions and no stance inversions, calling it "the cleanest citation layer this referee has audited on the corpus." In that same article a section opened "Metabolism **replaces the original** so seamlessly that no gap is perceived," against the suppression result the article itself names twelve lines earlier as "the mainstream finding on conceptual change and the void's principal rival" (Shtulman & Valcarcel 2012, *Scientific knowledge suppresses but does not supplant earlier intuitions*). ChatGPT 5.6 Pro supplied the other half from the review history: the article's 2026-06-25 deep review was logged as a "converged no-op" whose recorded work is entirely citation metadata and link integrity — one citation web-verified at the publisher of record, wikilinks and tenet anchors resolving, word count, clean EOF. Nothing there tested whether the headline claim survived the article's own cited evidence, and nothing in the verdict said so.
+
+The construct-grain question is short — **does the headline thesis survive the article's own principal rival citation?** — and no check on whether a citation is real, correctly attributed, or verbatim answers it. What the rule governs is what a verdict may claim: a review records the lens it applied, and *converged* scopes to that lens rather than to the article. The lenses catch disjoint defect classes, which is what makes a clean citation layer beside a defective construct an ordinary result rather than a paradox.
+
+**The withdrawal sweep.** When a pass withdraws or materially weakens a central thesis, it owes a sweep of the articles asserting the same proposition. Countermeasure 12's caveat-propagation rule is the nearest prior art and fires on neither the right trigger nor the right scope: it fires when a caveat is *added*, and enumerates the *apexes that link* the source. A withdrawal is not a caveat, and the dependents most likely to be carrying the withdrawn claim are siblings at the same tier.
+
+The 2026-08-27 rewrite of [conceptual-metabolism-void](/voids/conceptual-metabolism-void/) withdrew the consumption thesis. Eight days later [expertise-and-its-occlusion](/voids/expertise-and-its-occlusion/) still asserted it — "novice perception is overwritten by expert perception," "permanently occludes the phenomenology it replaces," "a door that cannot be reopened," and the same claim again on its `description` frontmatter. Both reviewers found it, and the task minted from them recorded that no link-based sweep would have caught it. That part is wrong, and the correction is the useful residue: the expertise article named `conceptual-metabolism-void` in its `related_articles` and again in its Further Reading, so a one-hop link enumeration would have surfaced it at once — which is what the 2026-09-04 remediation then did, walking all eight non-workflow files that link the corrected article, repairing two and clearing the rest. The enumeration method did not fail; no sweep of any kind ran when the thesis was withdrawn. A proposition-level sweep is the second move rather than the first, earning its place where vocabulary diverges: the sibling carried the claim in words the corrected article never used, so a grep for that article's own phrasing found one incidental hit in a Further Reading gloss and nothing in the body.
+
+**Navigation surfaces are swept alongside prose.** The expertise article's `description` asserted the withdrawn claim on the surface a search snippet shows on the article's behalf. Countermeasure 12's constrain-vs-establish frame lint and the [registry-vs-body calibration diff](/project/evidential-status-discipline/#the-registry-vs-body-calibration-diff) already treat `description`, title, headers and registry entries as claim-bearing, and neither would have caught this instance, because both test a frame against *its own body*. Here the description agreed with its body exactly, and the two agreed on a proposition the corpus had withdrawn.
+
+### Implementation
+
+Written review guidance, not a scanner. The corpus already has more scheduled scanners than reviewer attention, and all three rules are additions to a pass that is running anyway.
+
+- A pass that withdraws or materially weakens a central thesis enumerates the one-hop inbound-link neighbourhood, checks each dependent's body *and* navigation surfaces (`description`, title, H1, aliases), then greps the proposition's synonyms — *overwritten*, *destroyed*, *one-way door*, *consumed*, *replaces* — for dependents that assert the claim without citing its source. The changelog entry names the dependents checked, including those found clean, so a later reader can tell a sweep that ran from one that never did.
+- A review verdict names the lens it applied. *Converged*, *converged no-op* and *stable* scope to that lens, readable as such from the changelog summary without opening the review file. A metadata pass does not retire an article from claim-match review, and must not be logged as though it had.
+- Before a construct-bearing article is recorded as converged, one pass puts the construct-earns-keep question to it against its own principal rival citation. Where the article names that rival — as this one did, in its own prose — the check costs a re-read of two paragraphs.
 
 ## Relation to Site Perspective
 
