@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-09-02 22:58:40+00:00
-ai_system: claude-fable-5
+ai_modified: 2026-09-04 07:49:47+00:00
+ai_system: claude-fable-5+claude-opus-5
 concepts: []
 created: 2026-09-02
-date: '2026-09-02'
+date: '2026-09-04'
 draft: false
-lastmod: 2026-09-02 22:58:40+00:00
+lastmod: 2026-09-04 07:49:47+00:00
 related_articles: []
 title: 'Research Notes: Envariance and the Symmetry Derivation of the Born Rule'
 ---
@@ -84,9 +84,9 @@ Note Fact 2 already speaks of "measurement outcomes, including their probabiliti
 - On the fine-graining step: the counterweight construction means "the notion of outcomes for system A requires us to think in terms of two other systems correlated in a particular way," which "wrecks the nice-looking symmetry" and "really should have been stated at the outset" **[grep-verified]**; verdict: "In the end one is left wondering what makes the envariance argument any more compelling than just asserting that a swap symmetry means that a state with equal amplitudes has equal probabilities and then moving on ..." **[grep-verified]**
 - **Status caution**: an unpublished web note — citable as such, not as peer-reviewed literature.
 
-### Mohrhoff, "Probabilities from envariance?" (arXiv:quant-ph/0401180; *Int. J. Quantum Inf.* 3(1), 221, 2005)
+### Mohrhoff, "Probabilities from envariance?" (arXiv:quant-ph/0401180; *Int. J. Quantum Inf.* 2(2), 221–229, 2004)
 - Abstract: Zurek's noncircularity claim "is exaggerated if not wholly unjustified"; "it is not sufficient to assume that quantum states are somehow associated with probabilities and then prove that these probabilities are given by Born's rule. One has to show how irreducible probabilities can arise in the context of an ontological no-collapse interpretation of quantum states." **[grep-verified]**
-- Presses the existence/form gap in the same shape the Map does — from a different metaphysics (states as correlation algorithms). The corpus's date "(2004)" matches the arXiv year; the journal printing is 2005 — either citation form is defensible if consistent.
+- Presses the existence/form gap in the same shape the Map does — from a different metaphysics (states as correlation algorithms). **Metadata corrected 2026-09-04** (Crossref, DOI 10.1142/S0219749904000195, publisher of record World Scientific): the journal printing is *IJQI* **2(2), 221–229, June 2004** — not 3(1)/2005 as first recorded here. The arXiv year and the journal year are both 2004, so "(2004)" is the only correct inline form; `topics/probability-problem-in-many-worlds` ref 10 already carried the canonical entry.
 
 ### Mertens & van Wezel, "Environment-Assisted Invariance Does Not Necessitate Born's Rule for Quantum Measurement" (*Entropy* 25(3), 435, 2023)
 - **Authorship Crossref-verified**: Lotte Mertens; Jasper van Wezel. The corpus's "Máttyus, E." is a wrong surname (finding 1).
@@ -99,16 +99,16 @@ Note Fact 2 already speaks of "measurement outcomes, including their probabiliti
 - **Stoica 2022–25** (arXiv:2209.08621; *Int. J. Theor. Phys.*, 2025): catalogues envariance among derivations "accused of circularity in Schlosshauer and Fine (2003)" **[grep-verified in HTML]** — evidence the circularity charge is now the standard literature framing, not a partisan reading.
 - **Lela 2026** (arXiv:2603.24619): a fresh derivation attempt that advertises itself as using "no appeal to Gleason's theorem, no decision-theoretic axiom, and no envariance argument" **[grep-verified in HTML]** — envariance now sits on the list of routes new proposals must claim independence from.
 - **Vaidman 2020**, "Derivations of the Born Rule," in Hemmo & Shenker (eds.), *Quantum, Probability, Logic* (Springer) **[catalogue-copy — PDF not obtainable raw this run]**: standard survey; cite as a pointer only.
-- **Zhang 2026** (arXiv:2603.06211, preprint): the additivity-bottleneck claim already carried, with caveats, at [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) L105. Set against Zurek's explicit no-additivity claim (§The Derivation, Worked) this is a live, unresolved dispute — the new page should present it as such rather than adjudicate.
+- **Zhang 2026** (arXiv:2603.06211, preprint): the additivity-bottleneck claim already carried, with caveats, at [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) L105. Set against the 2009 QD paper's no-additivity claim (§The Derivation, Worked) this is a live dispute — but see Key Debates 2 (corrected 2026-09-04): PRA 2005 concedes the assumption, so Zhang contradicts the 2009 formulation specifically.
 
 ## Major Positions
 
 ### Zurek: noncircular objective probabilities from symmetry
-- **Core claim**: envariance justifies ignorance of outcomes from perfect knowledge of the entangled whole; swap symmetry plus fine-graining forces p_k = |ψ_k|², with additivity earned, not assumed.
+- **Core claim**: envariance justifies ignorance of outcomes from perfect knowledge of the entangled whole; swap symmetry plus fine-graining forces p_k = |ψ_k|², with additivity assumed in PRA 2005 and then argued to be earned from the symmetry (Key Debates 2).
 - **Relation to tenets**: the result the Map wants (a rigid Born measure) inside a no-collapse reading the Map rejects (Tenet 4). Zurek's derivation *presupposes* events/outcomes via the repeatability postulate and Fact 2 — it never claims to produce actuality, which is why the corpus's verdict survives contact with the primary texts.
 
 ### The circularity critics: probability in, probability out
-- **Proponents**: Barnum 2003; Caves 2004/05; Mohrhoff 2004/05; Schlosshauer & Fine 2005.
+- **Proponents**: Barnum 2003; Caves 2004/05; Mohrhoff 2004; Schlosshauer & Fine 2005.
 - **Core claim**: some assumption linking states to probabilities (S&F's (3), Caves's EN, Barnum's auxiliary assumption) does the real work; the symmetry then fixes the form. The critics differ on *which* assumption and on repairability (Barnum repairs with no-signalling; Caves finds the repair unattractive; Mohrhoff thinks no repair can produce irreducible probabilities from deterministic states).
 - **Relation to tenets**: congenial to the Map's existence/form distinction — but the same knife cuts the Map's own borrow (see Key Debates).
 
@@ -128,7 +128,7 @@ Note Fact 2 already speaks of "measurement outcomes, including their probabiliti
 Zurek: no — certainty-as-probability-1 plus symmetry; "manifestly noncircular" (2022). Critics: yes at the state-probability link (S&F (3), EN, auxiliary assumption). Current state: contested, not refuted — the corpus's one-world-wager calibration is the accurate one, and flat "proves circular" phrasings overstate (finding 4).
 
 ### 2. Is additivity assumed?
-Zurek explicitly claims envariance *avoids* assuming additivity (grep-verified in both PRA 2005 and the QD paper); Zhang 2026 (preprint) claims every leading derivation including envariance "helps itself to additivity." The corpus currently carries only Zhang's side. Unresolved; both sides should be presented.
+**Corrected 2026-09-04** (ar5iv re-extraction of quant-ph/0405161): the two Zurek papers do not say the same thing, and "Zurek denies assuming additivity in PRA 2005" is a misreading. PRA 2005 *grants* the assumption — "Above, we have assumed that orthogonal states correspond to mutually exclusive events. We shall motivate also this (very natural) assumption of the additivity of probabilities further in discussion of quantum measurements in Section V" **[grep-verified]** — and then argues it is not primitive because it is "tied to envariance." The flat denial ("does not assume probabilities are additive") appears only in the 2009 QD paper. Zhang 2026 (preprint) argues five leading derivations, envariance among them, "either depend heavily on the additivity assumption or lead to obvious loopholes due to the lack of additivity" — a disjunctive claim, not the mirror-image assertion. So the dispute is real but asymmetric: Zhang contradicts the 2009 formulation, not the 2005 one. Present it that way, not as a stand-off.
 
 ### 3. What does the theorem actually quantify over?
 Mertens & van Wezel: existence of a per-state Born-weighted machine, not universality over measurements. This is the sharpest modern support for the Map's measure/actuality line — and it also means envariance cannot serve as the *sole* ground for "any selector must respect Born statistics." The Map's Born-preservation constraint is safer resting on Gleason and the causal-consistency result, with envariance as one member of the reconstruction sequence — which is how [causal-consistency-constraint](/concepts/causal-consistency-constraint/) L53 already lists it.
@@ -145,7 +145,8 @@ The corpus already does borrow it ([post-decoherence-selection-programme](/apex/
 | 2003 | PRL 90, 120404; RMP 75, 715 | Published debut; RMP's resolution section already leans on envariance |
 | 2003 | Barnum, quant-ph/0312150; S&F preprint quant-ph/0312058 (Dec) | First critical wave: auxiliary assumption; four assumptions |
 | 2004 | Caves's notes; Mohrhoff preprint | EN noncontextuality named; "exaggerated if not wholly unjustified" |
-| 2005 | PRA 71, 052105; *Found. Phys.* 35, 197; IJQI printing of Mohrhoff | Full derivation and the canonical critique in print the same year |
+| 2004 | IJQI 2(2), 221 | Mohrhoff's critique in print |
+| 2005 | PRA 71, 052105; *Found. Phys.* 35, 197 | Full derivation and the canonical critique in print the same year |
 | 2009 | Nature Physics QD paper | Division of labour: QD the framework, envariance the weights; no-additivity claim |
 | 2010–12 | Wallace's decision theory (per Drezet 2021) | Everettian programme absorbs envariance-style symmetry |
 | 2022 | *Entropy* 24, 1520 | "Manifestly noncircular" — Zurek's position unchanged by two decades of critique |
@@ -161,7 +162,7 @@ The corpus already does borrow it ([post-decoherence-selection-programme](/apex/
 
 ## Potential Article Angles
 
-1. **Own the derivation and its audit** (the recommended shape): definition and the three steps; Zurek's three facts verbatim; the four-critic map (S&F's ledger, Caves's EN, Barnum's repair-and-relativity, Mohrhoff's existence demand); Mertens & van Wezel as the modern scope theorem; the additivity dispute presented two-sided (Zurek's explicit denial vs Zhang's preprint). Close with the Map's reconciled borrow: envariance fixes the form of the measure *given* single-case openness the actualisation postulate supplies; Born-preservation for the corridor rests on the Gleason/causal-consistency family, of which envariance is one contested member. Tenets: 4 (the Everettian absorption and Barnum's relative-state point), 2 (why the selector's Born constraint does not stand on envariance alone), 5 (a symmetry so elegant it keeps being adopted by rivals is still not a substitute for the thing it presupposes).
+1. **Own the derivation and its audit** (the recommended shape): definition and the three steps; Zurek's three facts verbatim; the four-critic map (S&F's ledger, Caves's EN, Barnum's repair-and-relativity, Mohrhoff's existence demand); Mertens & van Wezel as the modern scope theorem; the additivity dispute presented two-sided (the 2009 QD paper's denial, and PRA 2005's concession-plus-grounding, vs Zhang's preprint — see Key Debates 2, corrected 2026-09-04). Close with the Map's reconciled borrow: envariance fixes the form of the measure *given* single-case openness the actualisation postulate supplies; Born-preservation for the corridor rests on the Gleason/causal-consistency family, of which envariance is one contested member. Tenets: 4 (the Everettian absorption and Barnum's relative-state point), 2 (why the selector's Born constraint does not stand on envariance alone), 5 (a symmetry so elegant it keeps being adopted by rivals is still not a substitute for the thing it presupposes).
 2. **Sharpen, not soften**: the QD article's three sentences are correct and should become the page's thesis statement, now with primary-source anchoring (Fact 2; the repeatability postulate; Mertens & van Wezel's machine-dependence).
 3. **Ride the fix tasks**: findings 1–3 are one-to-three-line repairs in five files (plus mirrors); they belong with the integration pass that links the new page into its deployers, or in a dedicated quote-fidelity refine task if the driver prefers.
 
@@ -195,9 +196,9 @@ When writing the article, follow `obsidian/project/writing-style.md` (LLM-first 
 - Drezet, A. (2021). Making sense of Born's rule p_α = ||Ψ_α||² with the many-minds interpretation. *Quantum Studies: Mathematics and Foundations*, 8, 315. arXiv:2011.11501. [Metadata from Zurek 2022 bibliography; not pulled raw.]
 - Lela, M. (2026). The Born Rule as the Unique Refinement-Stable Induced Weight on Robust Record Sectors. arXiv:2603.24619.
 - Mertens, L. & van Wezel, J. (2023). Environment-Assisted Invariance Does Not Necessitate Born's Rule for Quantum Measurement. *Entropy*, 25(3), 435. doi:10.3390/e25030435. PMC10047787.
-- Mohrhoff, U. (2005). Probabilities from envariance? *International Journal of Quantum Information*, 3(1), 221–229. arXiv:quant-ph/0401180 (2004).
+- Mohrhoff, U. (2004). Probabilities from envariance? *International Journal of Quantum Information*, 2(2), 221–229. doi:10.1142/S0219749904000195. arXiv:quant-ph/0401180.
 - Schlosshauer, M. & Fine, A. (2005). On Zurek's Derivation of the Born Rule. *Foundations of Physics*, 35(2), 197–213. arXiv:quant-ph/0312058 (2003).
-- Stoica, O. C. (2025). Born Rule: Quantum Probability as Classical Probability. *International Journal of Theoretical Physics* (2025). arXiv:2209.08621.
+- Stoica, O. C. (2025). Born rule: quantum probability as classical probability. *International Journal of Theoretical Physics*, 64, 117. doi:10.1007/s10773-025-05979-7. arXiv:2209.08621.
 - Vaidman, L. (2020). Derivations of the Born Rule. In M. Hemmo & O. Shenker (eds.), *Quantum, Probability, Logic* (Ch. 26). Springer. doi:10.1007/978-3-030-34316-3_26. [Catalogue-copy.]
 - Zhang, J. (2026). Summing to Uncertainty: On the Necessity of Additivity in Deriving the Born Rule. arXiv:2603.06211 (preprint).
 - Zurek, W. H. (2003). Decoherence, einselection, and the quantum origins of the classical. *Reviews of Modern Physics*, 75(3), 715–775. arXiv:quant-ph/0105127.

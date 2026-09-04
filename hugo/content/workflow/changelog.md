@@ -1,14 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-04T07:32:55+00:00'
+ai_modified: '2026-09-04T07:49:47+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-04'
-lastmod: 2026-09-04 07:32:55+00:00
+lastmod: 2026-09-04 07:49:47+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-04T07:49:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [envariance](/concepts/envariance/)
+- **Selection**: `deep_review.py next` — score 101, never reviewed (created 2026-09-03)
+- **Word count**: 2491 → 2574 (+83; body prose 2225, reference apparatus 349; concepts thresholds printed live 2500/3500/5000)
+- **Critical issues addressed**: 5
+- **Medium issues addressed**: 5
+- **Enhancements made**: 3
+- **Governing lens**: the §2.4 publisher-of-record web-verify pass on a one-day-old, 16-reference page. Raw artefacts (arXiv API, Crossref, ar5iv full text, the live Caves PDF) were downloaded and grepped rather than summarised. All 33 verbatim quotes check out; four apparent misses were PDF-hyphenation and LaTeX-interleaving false negatives. **Three of the five criticals were misreadings of primary sources, not metadata errors** — the class intra-corpus consistency ratifies rather than catches.
+- **Criticals**:
+  1. *Additivity section misreported Zurek.* The page said he "explicitly claims his derivation *avoids* assuming that probabilities add" (PRA 2005). The 2005 paper grants it — "Above, we have assumed that orthogonal states correspond to mutually exclusive events. We shall motivate also this (very natural) assumption of the additivity of probabilities further in discussion of quantum measurements in Section V" — and only then argues it is "tied to envariance". The flat denial is the 2009 QD paper alone. The declared stalemate ("the two claims cannot both be right as stated") dissolved with it.
+  2. *Barnum's repair misdescribed and the relative-state lever inverted.* Barnum **drops** the auxiliary assumption in favour of two-directional envariance of probability and offers no-signalling as a motivation for envariance itself; the page had him motivating the assumption from no-signalling. He also says his formal version "does not depend crucially on whether measurement is interpreted in this way", and names **Zurek's original** as "best justified within the relative-state interpretation" — the page said the *repaired* derivation was the Everettian-leaning one. The Tenet 4 argument rests on this, so the inversion mattered; the corrected claim is stronger for the Map.
+  3. *Dropped qualifier.* Barnum's "but still have some appeal from other points of view" was omitted in three places, turning a hedged comparative into a dichotomy. Restored.
+  4. *Internal contradiction.* Tenet 2 claimed the Map borrows "the form-fixing theorem, which no critic disputes" two sections after §Scope reports Mertens & van Wezel bounding exactly that. Reworded to the form-fixing conditional the critics attack as under-motivated rather than false.
+  5. *Source/date conflation.* "Repeatability" occurs zero times in Zurek 2005, whose starting point is axioms (o)–(iii); the "only uncontroversial measurement postulate" framing is the 2022 paper's. Separated, and 2022's own sequencing quoted ("Events at hand, one can now enquire about their probability"), which anchors the article's thesis better than the assertion it replaced.
+- **Citation ledger**: Mohrhoff **real-wrong-metadata** — *IJQI* 3(1)/2005 → **2(2), 221–229, 2004** (Crossref doi:10.1142/S0219749904000195; `topics/probability-problem-in-many-worlds` ref 10 already held the canonical form). Stoica **incomplete** → vol 64, 117, doi:10.1007/s10773-025-05979-7, and "survey" re-described. Vaidman 2020 **orphan reference** → cited inline. Barnum, Caves, Drezet, Lela, Mertens & van Wezel, Schlosshauer & Fine, Zhang, Zurek 2003/2005/2009/2022 all **real-correct** (Zurek 2003 looks wrong but is right: the arXiv v1 title says "Causality", the published PRL says "Entanglement"). No fabrications. `find_superlative_claims` returned nothing.
+- **Family resolution**: `research/envariance-born-rule-derivation-2026-09-02` was the propagation source for both the Mohrhoff metadata and the additivity misreading — corrected in seven loci there. A binding **CORRECTION** rider was appended to the queued `born-rule-and-the-consciousness-interface` cross-review task in `todo.md`, which instructs a future run to install "Zurek's grep-verified explicit denial in PRA 2005" into a live article. Appended, not rescoped, and below the current queue marker.
+- **Length**: nine passages tightened as offsets; two Further Reading entries whose targets are wikilinked in body prose were removed. Residual +83 is corrected substance.
+- **Engagement classification (editor-internal)**: no named-opponent reply present or added — the page reports third-party critics of a third-party theorem. No label leakage found.
+- **Output**: [deep-review-2026-09-04-envariance](/reviews/deep-review-2026-09-04-envariance/)
 
 ## 2026-09-04T07:32:55+00:00 - refine-draft
 - **Status**: Success
