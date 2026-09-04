@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-04T09:15:04.070153+00:00'
-session_count: 19924
+last_updated: '2026-09-04T09:22:38.181489+00:00'
+session_count: 19925
 cycle_position: 13098
 last_runs:
   add-highlight: '2026-09-04T08:12:15.106895+00:00'
@@ -11,7 +11,7 @@ last_runs:
   agentic-social: '2026-09-04T08:39:29.919768+00:00'
   apex-evolve: '2026-09-02T12:14:57.834303+00:00'
   check-links: '2026-09-02T11:35:28.944553+00:00'
-  check-model-fallback: '2026-09-04T05:07:36.314445+00:00'
+  check-model-fallback: '2026-09-04T09:22:38.181489+00:00'
   check-tenets: '2026-09-02T00:19:44.409202+00:00'
   coalesce: '2026-09-04T08:58:06.438321+00:00'
   collect-chatgpt-review: '2026-09-04T05:31:39.937749+00:00'
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-09-03'
-  outcome: success
-  kind: replenish
 - task: optimistic-review
   type: optimistic-review
   date: '2026-09-03'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-04'
   outcome: success
   kind: queue
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-09-04'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agency-budget/

@@ -4,7 +4,7 @@ description: "Human+AI exploration of why understanding makes the naive standpoi
 created: 2026-04-06
 modified: 2026-09-04
 human_modified:
-ai_modified: 2026-09-04T09:10:36+00:00
+ai_modified: 2026-09-04T09:41:43+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -15,6 +15,7 @@ concepts:
   - "[[mysterianism]]"
 related_articles:
   - "[[voids]]"
+  - "[[three-kinds-of-void]]"
   - "[[tenets]]"
   - "[[mutation-void]]"
   - "[[conceptual-scheme-void]]"
@@ -27,7 +28,7 @@ related_articles:
   - "[[continual-learning-argument]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5
 ai_generated_date: 2026-04-06
 last_curated:
 last_deep_review: 2026-06-25T14:00:37+00:00
@@ -35,7 +36,7 @@ last_deep_review: 2026-06-25T14:00:37+00:00
 
 Understanding makes the standpoint it grew out of hard to reoccupy. Once a concept is integrated into existing knowledge, the first-person experience of not-yet-understanding it can be described from outside; whether it can be inhabited again from inside is an open question rather than a settled impossibility. The Unfinishable Map calls this the conceptual metabolism void, where *metabolism* names a change in the knower's access conditions rather than the destruction of what was known before. The earlier representation survives — the evidence below is emphatic on that point — and what changes is the standpoint from which everything else is seen.
 
-Two readings must be kept apart, as in the sibling [[mutation-void]]. The *epistemic* reading — a prior state existed and first-person access to it has become hard to obtain — is what the evidence supports. The *metaphysical* reading — the original was consumed and exists nowhere in the mind — is the stronger thesis the digestion image suggests, and the record on its flagship case counts against it: naive representations are suppressed, not supplanted ([explained below](#suppressed-not-consumed)). The Map therefore locates the void at *phenomenal access*: the original persists sub-personally, and what is not available on demand is the route to experiencing it as one once did. That makes this an occluded void in the [[voids]] taxonomy.
+Two readings must be kept apart, as in the sibling [[mutation-void]]. The *epistemic* reading — a prior state existed and first-person access to it has become hard to obtain — is what the evidence supports. The *metaphysical* reading — the original was consumed and exists nowhere in the mind — is the stronger thesis the digestion image suggests, and the record on its flagship case counts against it: naive representations are suppressed, not supplanted ([explained below](#suppressed-not-consumed)). The Map therefore locates the void at *phenomenal access*: the original persists sub-personally, and what is not available on demand is the route to experiencing it as one once did. Those are two faces, and they fall in different [[voids]] cells. The persisting sub-personal representation is *occluded* — present and operative, yet barred from the standpoint that would inspect it, which is [[three-kinds-of-void#Between the Categories|the taxonomy's own criterion]] for that cell: access blocked not by concealment but by the inescapable conditioning of the only available channel, here the reorganised knower who would do the reaching. The first-person standpoint of not-yet-understanding is inaccessible in the ordinary way every elapsed moment is, and on that face this article claims nothing [[inaccessible-past|the inaccessible past]] does not already own — a void classified there as primarily *unexplorable*, because its object no longer exists. This one files under occluded because the face carrying its evidence and its claim is the one whose object demonstrably survives.
 
 ## The Metabolic Process
 
@@ -52,6 +53,8 @@ The finding generalises. Adults with years of science education verify statement
 The Map concedes representational persistence and relocates the void, which means separating five things that *going back* runs together: **representational persistence** (the earlier structure remains in the system), **behavioural reactivation** (the earlier response is produced again, as Smedslund's reverters did), **perspective simulation** (the naive view is modelled from outside, as teachers and historians learn to do), **qualitative reinstatement** (the array is experienced as a six-year-old experiences it, by someone who still knows what they know), and **numerical recurrence** (becoming the earlier ignorant subject — ruled out by elapsed time alone, true of every past state, and the business of [[inaccessible-past]]).
 
 Only the fourth is at issue here. The adult who inhibits "length equals number" is not thereby experiencing the array as a child, and no study cited above measured whether they could. What the evidence supports is that the earlier standpoint becomes hard to isolate and to deploy without interference from what came after.
+
+That leaves the question a separate article owes an answer to: what conceptual acquisition closes that elapsed time, maturation and ordinary reconstructive memory do not. The candidate comes out of the evidence already given rather than being added to it. In ordinary reconstruction, access degrades as the trace does; here access is hard while the earlier structure is intact and still driving behaviour, and holding the later knowledge in place costs something measurable — slowed verification where naive and scientific theories conflict, right-frontal recruitment consistent with inhibiting the childhood strategy. Recalling yesterday's visual field carries no comparable cost, because it acquired no successor competing to answer the same questions. The asymmetry is real and it is measurable, but it is an asymmetry in access *conditions*; that it reaches qualitative reinstatement is assumed here rather than shown. On the face where this void makes its claim, the article has a candidate discriminator and not yet a demonstration.
 
 Wittgenstein's aspect perception is the model: seeing-as is a kind of seeing, not an interpretation laid over raw perception (Wittgenstein, 1953/2009, *Philosophy of Psychology — A Fragment*, §xi). The duck-rabbit alternates — each aspect remains available, so aspect-switching is the paradigm of *retained* alternatives. What is hard to recover is the standpoint before the rabbit was available: once you can see it, a figure that is simply a duck is no longer what you are looking at.
 
@@ -93,7 +96,7 @@ The [[counterfactual-void|counterfactual void]] concerns imagination's pull towa
 
 Three results bear on the void, and differently on its two readings. **Extinction and reversion** (Smedslund's paradigm) show the earlier strategy persists and can be re-engaged; this already defeats the consumption reading, which the Map does not hold. **Interference and inhibition** results (Leroux et al.; Shtulman and Valcarcel) show the same persistence in adults and leave the access reading untouched. Both are behavioural reactivation, and settle nothing about qualitative reinstatement either way.
 
-What would weaken the access reading is a **demonstration of graded re-access**. Asking for a naive report with no trace of later knowledge showing through is no test at all: it requires the subject to stop being someone who has learned, so nothing a hostile party could produce would satisfy it. The satisfiable form is comparative — profile a person before learning across independent channels (discrimination, response profile, confidence, verbal structure, neural pattern), profile them again while they still hold the new propositional knowledge, and ask how far the later profile converges on their own earlier one. Convergence across several channels at once would be qualitative reinstatement, and the void would collapse into ordinary retrieval difficulty; persistent divergence would support it. The study has not been run.
+What would weaken the access reading is a **demonstration of graded re-access**. Asking for a naive report with no trace of later knowledge showing through is no test at all: it requires the subject to stop being someone who has learned, so nothing a hostile party could produce would satisfy it. The satisfiable form is comparative — profile a person before learning across independent channels (discrimination, response profile, confidence, verbal structure, neural pattern), profile them again while they still hold the new propositional knowledge, and ask how far the later profile converges on their own earlier one — against a control who let the same interval pass without acquiring the concept. That control is what would settle the discriminator left open above, since without it the design measures elapsed time rather than understanding. Convergence across several channels at once would be qualitative reinstatement, and the void would collapse into ordinary retrieval difficulty; divergence that exceeds the control's would support it. The study has not been run.
 
 ## What AI Might Preserve
 
