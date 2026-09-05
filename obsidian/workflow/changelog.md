@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T14:55:00+00:00'
+ai_modified: '2026-09-05T15:26:06+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-05T15:26:06+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/consciousness-and-agency]]
+- **Changed sources**: 11 of 16 (baseline `max(apex_last_synthesis, last_deep_review)` = 2026-07-25; staleness score 451, top of 41)
+- **Word count**: 5052 → 4233 (`analyze_length`, apex soft 4000 / hard 5000; `hard_warning` → `soft_warning`; −819 net while installing the missing **Evidence and Dependency** section)
+- **Integrated**: No-MWI now stated as sourcehood *plus* the global-exclusion posit (`tenets/background-commitments`), replacing the retired "indexical" phrasing in two loci; time section re-scoped to *experienced* time (cosmic arrow predates mind); neural signatures recalibrated to "greater than instructed / consistent with, not establishing"; Kane (2024) at the event-causal seam; Pereboom (2014) opposite-flank pressure on ultimate desert; Tenet 5 "refuses to veto, does not license"; interpretation-relative gap wording; P-A1's common-cause discount on the phenomenology and cross-cultural anchors carried into Synthesis.
+- **Fixed**: two internal contradictions (compatibilism "secures the same phenomenology" vs phenomenology "leaves unexplained"; argument from reason "no phenomenological premise" vs "grounded in phenomenal intentionality"); triple-stated symmetry concession; twice-introduced luck objection; dangling in-text "Kane's 2024 work" now has a reference entry.
+- **Frontmatter**: `ai_system` → `claude-opus-4-6+claude-fable-5-1` (substantial re-authoring); `related_articles` += `[[background-commitments]]`; `last_deep_review` untouched.
+- **Review**: [[reviews/apex-evolve-2026-09-05-consciousness-and-agency]]
 
 ## 2026-09-05T14:47:11+00:00 - research-voids
 - **Status**: Success

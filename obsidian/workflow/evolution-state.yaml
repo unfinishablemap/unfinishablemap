@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-05T14:24:31.860111+00:00'
-session_count: 20026
+last_updated: '2026-09-05T14:53:12.713636+00:00'
+session_count: 20027
 cycle_position: 13152
 last_runs:
   add-highlight: '2026-09-05T08:10:58.764073+00:00'
@@ -37,7 +37,7 @@ last_runs:
   refine-draft: '2026-09-05T13:55:21.406769+00:00'
   replenish-queue: '2026-09-04T21:31:53.122181+00:00'
   research-topic: '2026-09-05T13:40:30.136484+00:00'
-  research-voids: '2026-09-04T12:20:29.189359+00:00'
+  research-voids: '2026-09-05T14:53:12.713636+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   tune-system: '2026-09-04T12:54:50.045780+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
@@ -108,7 +108,7 @@ progress:
   questions_written: 0
   voids_written: 101
   positions_written: 18
-  research_notes: 570
+  research_notes: 571
   reviews_completed: 7416
   apex_articles: 42
 quality:
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-09-05'
-  outcome: success
-  kind: agentic_social
 - task: add-highlight
   type: add-highlight
   date: '2026-09-05'
@@ -215,6 +210,11 @@ recent_tasks:
   kind: trigger
 - task: check-links
   type: check-links
+  date: '2026-09-05'
+  outcome: success
+  kind: trigger
+- task: research-voids
+  type: research-voids
   date: '2026-09-05'
   outcome: success
   kind: trigger
@@ -545,13 +545,13 @@ task_chains:
   - research_file: obsidian/research/voids-modality-void-2026-09-05.md
     target_section: voids
     date: '2026-09-05'
-    note: '2026-09-05 research-voids: standalone recommended - three-face cognate (counting
-      / attribution / boundary) conjoined by the format claim (modality is delivered as
-      the format of an experience, never as a checkable datum); voids 101/115 by gate;
-      fold fallbacks named in the note (conceptual-scheme-void, fusion-void label-loss
-      section, palette-extension-void). Source fences the expand must honour: Nudds 2004
-      and Keeley 2002 NOT read directly (quotes via Macpherson 2011 / Frechette 2023 /
-      O''Callaghan 2012), Merzenich 2000 quote via Hurley-Noe only, Keeley four-criteria
-      summary is unverified paraphrase, Fardo "Beyond labeled lines" preprint-only;
-      removing this entry vetoes the expand'
+    note: '2026-09-05 research-voids: standalone recommended - three-face cognate
+      (counting / attribution / boundary) conjoined by the format claim (modality
+      is delivered as the format of an experience, never as a checkable datum); voids
+      101/115 by gate; fold fallbacks named in the note (conceptual-scheme-void, fusion-void
+      label-loss section, palette-extension-void). Source fences the expand must honour:
+      Nudds 2004 and Keeley 2002 NOT read directly (quotes via Macpherson 2011 / Frechette
+      2023 / O''Callaghan 2012), Merzenich 2000 quote via Hurley-Noe only, Keeley
+      four-criteria summary is unverified paraphrase, Fardo "Beyond labeled lines"
+      preprint-only; removing this entry vetoes the expand'
   pending_cross_reviews: []
