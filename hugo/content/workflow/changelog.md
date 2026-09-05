@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-05 21:55 UTC - deep-review
+- **Status**: Success
+- **File**: [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/)
+- **Word count**: 2679 → 2689 (+10; 108% of the 2500 concept soft threshold — length-neutral, thresholds printed first via `tools.curate.length`)
+- **Critical issues addressed**: 2 — (1) "absolutely inaccessible … *in principle* disconnected from any possible evidence" contradicted the article's own next section (behavioural-test scoping + the anti-correlation architectural signature) and the Schwitzgebel "more traction" claim; scoped to reports/behavioural tests with indirect inference and a same-page anchor to The P-Zombie Reversal retained as the live routes (L79 probe paragraph untouched — the open llm-consciousness P2 transplants from it). (2) Hoel (2025) position-strength: "must track continual learning" hardened a *proposal* — the arXiv full text says lenient dependency "must be a continually-existing criterion" and "I propose that learning is a form of lenient dependency in humans"; now "must rest on a property continually present … with continual learning his candidate in humans".
+- **Medium issues addressed**: 5 — body echoes of the retired unscoped self-stultification verdict at four loci ("decisive:", "proves *some*", "We have proof … no such proof", "shows experience must do causal work") scoped to bare-correlation per the hub's 08-27 register, with the phenomenal-concept escape conceded in one sentence (closes locus (2) of the open P3 "two body echoes…"; its Notes line updated, apex locus (1) still owed); Relation-section flat "exposes quantum indeterminacies" → "on the Map's account … is held to expose"; "Error correction ensures transistors…" → noise margins / signal restoration / error-correcting memory; Metzinger §2 duplicate of Architectural Contingency collapsed to a clause + anchor; description 209 → 155 chars.
+- **Enhancements made**: 4 — cross-links to `phenomenal-concepts-strategy` (body) and `llm-consciousness` (Further Reading); Block (2025) DOI 10.1016/j.tics.2025.08.009 added; Faraday parenthetical and typology blurb tightened to pay for the additions.
+- **Citation ledger**: all real-correct. Schwitzgebel quote re-extracted two ways (pdftotext v1 + v4, arXiv abstract meta): the quoted sentence is verbatim in the **arXiv abstract**, not the manuscript body — a body-only grep is a false fabrication verdict, recorded in the review's stability notes. Wiest niaf011, Metzinger 8(1):43-66, Block 30(4):298-308/online-2025 all Crossref-confirmed.
+- **Engagement classification** (editor-internal): Schwitzgebel Mode Two; Metzinger Mode Three/mixed; framework rivals Mode Three, bedrock — unchanged across six reviews. No label leakage.
+- **Frontmatter**: `ai_modified` + `last_deep_review` bumped; `ai_system` unchanged (clause-level edits).
+- **Output**: [deep-review-2026-09-05-ai-epiphenomenalism](/reviews/deep-review-2026-09-05-ai-epiphenomenalism/)
+
 ## 2026-09-05 21:45 UTC - refine-draft
 - **Status**: Success
 - **File**: [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/)
