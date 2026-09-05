@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T21:47:00+00:00'
+ai_modified: '2026-09-05T22:52:03+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-05T22:52:03+00:00 - coalesce
+- **Status**: Abandoned (reasoned decline — no merge; the steady-state SUCCESS outcome per the coalesce candidate-pool memory)
+- **Cap state** (live, `tools.evolution.state.count_section_files`; state keys are `max_topics` etc.): topics 324/360 (90.0%), concepts 324/360 (90.0%), voids 101/115 (87.8%), positions 18/80. Identical to the 10:12 measurement; no cap pressure.
+- **Pool movement since the 10:12 run (commit c4f45261): none.** `git diff --name-status c4f45261..HEAD` over topics/concepts/voids/apex/positions shows 24 modifications and zero additions; nothing archived; the working tree carries only `evolution-state.yaml`. Today's creations remain research-only (`voids/modality-void` notes), so no new article exists to screen.
+- **Age floor unchanged**: the floor date is still 2026-08-29 (same UTC day as the 10:12 run). The corpus has no article with `created` on 08-28 or 08-29 — the created-date ladder runs 08-27 (`filter-vs-interface-distinction`, `no-self-objection-to-phenomenal-value`, both read and declined at 10:12) and then jumps to 09-01. Zero articles crossed the floor between 10:12 and now; the ten age-blocked newcomers (09-01 → 09-04) are exactly the ten the 10:12 hand-off pre-screened, and the earliest crosses on 09-08.
+- **Second route to a genuinely new candidate checked — a review or task flagging inter-article redundancy since 10:12**: seven review files landed (4 deep-review, 1 optimistic, 1 pessimistic, 1 apex-evolve). Every redundancy hit is *intra*-article — a duplicated clause or paragraph inside one article, already trimmed by the review that found it (`ai-epiphenomenalism` Metzinger paragraph; `type-specificity` portable-framework clause; `apex/consciousness-and-agency` No-MWI duplication across two sections) — and none names a partner article. The open todo section carries no live `Type: coalesce` task (L1395 is already struck ✅; the L858 and L1562 hits are a length decision and a falsifier-section task that merely mention past coalesces).
+- **Closed screens not re-run** (TF-IDF-first 08-24, length-first 08-24, ancestry 09-01, verbatim-shingle 09-04 AM, co-citation + navigational isolation 09-04 PM). With no floor-crosser and no new external flag there is no input for the one informative signal, so no merits read was warranted this slot; running one would be re-litigation of the 10:12 reads.
+- **Hand-off carried forward unchanged from 10:12**: 09-08 `concepts/semanticisation` vs the memory cluster (0.30–0.36; read ↔ `semantic-memory` first), plus `topics/synthetic-minimal-agents-and-the-engineered-decoupling` ↔ `basal-and-bioelectric-cognition` 0.277 and `topics/multi-agent-born-preservation-problem` ↔ `topics/born-rule-and-the-consciousness-interface` 0.277; 09-09 `topics/sherrington-dualist-lineage` ↔ `concepts/penfield-interactionist-dualism` 0.279; 09-10 `concepts/improper-vs-proper-mixtures` ↔ `topics/quantum-darwinism-and-consciousness` 0.371; 09-11 `concepts/ontic-structural-realism` ↔ `concepts/intrinsic-nature` 0.371. Calibration band: ≥0.44 is real duplication (the two parked human-reserved pairs score 0.440 / 0.536); nothing queued reaches it.
+- **Human-reserved candidates not preempted**: self-stultification pair, quantum-biology pair, and free-will ↔ volitional-control (2026-06-21 editorial decision) all untouched.
+- **Sources**: none merged. **Archived**: none. **Tasks minted**: none. **Sync**: not run (no content changed). **References to review**: none.
 
 ## 2026-09-05 22:08 UTC - refine-draft
 - **Status**: Success
