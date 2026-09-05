@@ -5,6 +5,16 @@ ai_modified: '2026-09-05T02:56:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-09-05 00:00 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/intrinsic-nature]]
+- **Word count**: 2354 → 2422 (+68)
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1
+- **Notes**: Not a no-op. §2.4 re-triggered (References block edited by the 2026-09-04 refine-draft). (1) Attribution error in lead: *quiddities* was credited to Russell (1927) and Eddington (1928) — SEP's *Russellian Monism* credits the term to Lewis 2009/Chalmers 2012; the distinction is Russell's and Eddington's, the word is not. Split and re-credited. (2) The refine-draft imported Newman's problem from [[concepts/ontic-structural-realism]] one-sidedly against the rival, though that page states the objection "cuts both ways" and was raised against Russell's epistemic structuralism — the Map's own position. Gloss + cuts-both-ways qualifier added; refutation downgraded to asymmetry-in-available-replies. (3) James (1890) cited inline since creation with no References entry — added in corpus-canonical form. Citation ledger: Esfeld & Lam 2008 real-correct (Crossref: *Synthese* 160(1), 27-46, published-print Jan 2008); ontic-structural-realism self-cite target confirmed live in both trees; no superlative claims. Engagement with the ontic structural realist: Mode Three (framework-boundary marking), honestly executed — fix 2 repaired the one spot where it had slipped toward refutation.
+- **Output**: [[reviews/deep-review-2026-09-05-intrinsic-nature]]
+
 ## 2026-09-05 02:56 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/the-steelman-for-value-blind-selection]]

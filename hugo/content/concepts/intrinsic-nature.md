@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-09-04 23:25:18+00:00
+ai_modified: 2026-09-05 00:00:00+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
@@ -22,8 +22,8 @@ description: Physics describes only relational structure and is silent on the in
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-19 23:47:00+00:00
-lastmod: 2026-09-04 23:25:18+00:00
+last_deep_review: 2026-09-05 00:00:00+00:00
+lastmod: 2026-09-05 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[intrinsic-nature-void]]'
@@ -37,7 +37,7 @@ topics:
 - '[[dualism]]'
 ---
 
-The *intrinsic nature* of the physical is what matter is in itself, as opposed to what it does. Physics describes matter relationally and structurally—mass by its gravitational and inertial behaviour, charge by its electromagnetic interactions, a particle by its dispositions to affect other particles. None of this says what *bears* these dispositions. The intrinsic nature is the categorical base that instantiates the relational structure physics maps. Following Bertrand Russell (1927) and Arthur Eddington (1928), the technical terms for these intrinsic properties are *quiddities*—the "whatness" of fundamental entities, the qualities in virtue of which they enter into the relations physics describes.
+The *intrinsic nature* of the physical is what matter is in itself, as opposed to what it does. Physics describes matter relationally and structurally—mass by its gravitational and inertial behaviour, charge by its electromagnetic interactions, a particle by its dispositions to affect other particles. None of this says what *bears* these dispositions. The intrinsic nature is the categorical base that instantiates the relational structure physics maps. The distinction is Bertrand Russell's (1927) and Arthur Eddington's (1928). The term for the intrinsic properties themselves—*quiddities*, the "whatness" of fundamental entities, the qualities in virtue of which they enter into the relations physics describes—is a later import into the debate, standardly credited to Lewis (2009).
 
 The distinction matters because physics appears constitutively unable to reach it. Structural description is the method of physics, and structure all it can express. This generates three downstream problems that recur across the Map: the **inscrutability problem** (we cannot, even in principle, read off intrinsic natures from physical theory), the **Russellian opening** (if consciousness is the one intrinsic nature we know directly, perhaps intrinsic nature and consciousness coincide), and the **placement question** (where, in an ontology, does the non-physical aspect of reality live). The Map's answer to the third is that the intrinsic base is the natural home for the non-physical aspect—though, as the [Relation to Site Perspective](#relation-to-site-perspective) section explains, the Map places consciousness there as a *distinct interacting aspect* rather than identifying it with quiddities as Russellian monism does.
 
@@ -87,7 +87,7 @@ The intrinsic-nature distinction is one of the Map's most important borrowed too
 
 The divergence is not cosmetic. If consciousness simply *were* the intrinsic nature of physical entities, it would be identical with the physical at the fundamental level and could not causally *select* among physical outcomes—it would already be fixed as the inside of whatever the structure does. The Map needs consciousness to do causal work at [quantum indeterminacies](/tenets/#minimal-quantum-interaction), which requires a distinct aspect that can act, not merely a quiddity that the structure expresses.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits).** The distinction is a standing illustration of this tenet. The simplest hypothesis—that structural physics exhausts reality—is cheaper than the Map's, and the question is what the economy costs rather than whether the hypothesis collapses on inspection. The Map treats this as a case where parsimony is unreliable under incomplete knowledge: adding intrinsic nature looks like an ontological cost, while denying it risks buying the tidier ontology at the price of determinacy—the pressure point [ontic structural realism](/concepts/ontic-structural-realism/) locates in Newman's problem.
+**[Occam's Razor Has Limits](/tenets/#occams-limits).** The distinction is a standing illustration of this tenet. The simplest hypothesis—that structural physics exhausts reality—is cheaper than the Map's, and the question is what the economy costs rather than whether the hypothesis collapses on inspection. The Map treats this as a case where parsimony is unreliable under incomplete knowledge: adding intrinsic nature looks like an ontological cost, while denying it risks buying the tidier ontology at the price of determinacy—the pressure point [ontic structural realism](/concepts/ontic-structural-realism/) locates in Newman's problem, that structure alone fixes little more than cardinality and cannot say which relations are real. Newman raised that objection against Russell's *epistemic* structuralism, which is the Map's own position, so what it yields is an asymmetry in available replies rather than a refutation of the rival.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction).** Whatever occupies the intrinsic base must, for the Map, be the kind of thing that can support causal power and influence quantum outcomes. This connects the distinction to the [causal-powers](/concepts/causal-powers/) and powerful-qualities debates (see [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/)): an intrinsic nature that is merely categorical and inert would re-import epiphenomenalism, so the Map reads the intrinsic base as causally contributing, not as a placeholder a law refers to.
 
@@ -123,6 +123,7 @@ The second and third have not been achieved: physics has grown more relational r
 7. Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-129.
 8. Howell, R.J. (2015). The Russellian monist's problems with mental causation. *The Philosophical Quarterly*, 65(258), 22-39.
 9. Esfeld, M., & Lam, V. (2008). Moderate structural realism about space-time. *Synthese*, 160(1), 27-46. https://doi.org/10.1007/s11229-006-9076-2
-10. Stanford Encyclopedia of Philosophy. "Russellian Monism." https://plato.stanford.edu/entries/russellian-monism/
-11. Southgate, A. & Oquatre-sept, C. (2026-01-15). Russellian Monism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/russellian-monism/
-12. Southgate, A. & Ocinq, C. (2026-09-04). Ontic Structural Realism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/ontic-structural-realism/
+10. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+11. Stanford Encyclopedia of Philosophy. "Russellian Monism." https://plato.stanford.edu/entries/russellian-monism/
+12. Southgate, A. & Oquatre-sept, C. (2026-01-15). Russellian Monism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/russellian-monism/
+13. Southgate, A. & Ocinq, C. (2026-09-04). Ontic Structural Realism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/ontic-structural-realism/
