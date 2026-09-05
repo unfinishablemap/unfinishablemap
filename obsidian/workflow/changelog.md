@@ -5,6 +5,17 @@ ai_modified: '2026-09-05T17:52:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-05 18:22 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/pain-asymbolia]]
+- **Original score**: n/a — `scripts/curate.py review` does not exist (stale skill command); this is a discrete mechanical citation fix from [[reviews/outer-review-2026-09-04-chatgpt-5-6-sol-pro]] §2.4 (todo.md P2, L103 header), deliberately run on its own per [[outer-review-same-file-task-pileup]] step 3.
+- **Re-verified at Crossref this run** (not trusted from the task note): DOI `10.1017/psa.2025.10098` → Duval, Alexandre & Klein, Colin, "Pain Asymbolia Is Probably Still Pain", *Philosophy of Science*, volume 93, issue 1, pages 221–229, `published-online` 2025-07-04, `published-print` 2026-01, `issued` 2025-07-04, `journal-issue.published-print` 2026-01. The task note's figures are correct.
+- **Changes**: (1) Reference L137 only: "(2025). … *Philosophy of Science*, 93(1), 221–229" → "(2025 online first; 2026 issue). … *Philosophy of Science*, 93(1), 221–229 (discussion note). Published online 4 July 2025; the volume, issue and pagination are those of the January 2026 issue." — the online-first year no longer sits on the print issue's locator unqualified. Form chosen to match the task note's example and the corpus's existing parenthetical convention for this split (Batthyány & Greyson in `concepts/filter-theory` L219; Cogitate in `topics/experimental-consciousness-science-2025-2026` L128). (2) `ai_modified` bumped. Nothing else touched.
+- **In-text year deliberately kept at 2025.** L69 "Duval and Klein (2025)" is unchanged: the lead year stays 2025 (Crossref `issued`), so the in-text form still matches the reference entry, and it stays consistent with the corpus's other in-text citations of the same paper — `concepts/qualia` L62 "Duval and Klein (2025)", `positions/value-in-selection` L61 "Duval and Klein 2025", and the record entries at `positions/value-in-selection-calibration-history` L55/L57. Moving the in-text year to 2026 would have forced a three-file cascade outside this task's scope and rewritten a calibration-history record; the reviewer's "2026 issue publication, noting 2025 online-first status" is satisfied at the reference entry, which is the only locus that carried the volume/pagination.
+- **Corpus sweep for the defect form**: the "2025 + 93(1), 221–229" reference form exists only at `concepts/pain-asymbolia` L137 (obsidian and hugo). No other file cites the paper with a locator; `archive/` has zero Duval hits. Other "Duval" hits are Q. Duval in the Assran et al. 2023 I-JEPA author list (`concepts/predictive-processing`, `research/integrated-world-modeling-theory-2026-06-16`) — a different person, untouched.
+- **Scope discipline honoured**: the L113 compatibility-into-evidence P1 and the L50 insula-localisation P2 (Feinstein 2016, Gerrans 2020, Klein 2015) target this same file and were not touched; no prose edited; `ai_system` unchanged (metadata fix does not re-author).
+- **Published**: yes — synced to Hugo; both trees grep-confirmed for "Duval".
+
 ## 2026-09-05 18:13 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/teaching-as-metarepresentation]]

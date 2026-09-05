@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-09-05 01:28:51+00:00
+ai_modified: 2026-09-05 18:22:50+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -25,7 +25,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 20:26:40+00:00
-lastmod: 2026-09-05 01:28:51+00:00
+lastmod: 2026-09-05 18:22:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -137,7 +137,7 @@ Together, these dissociations show that pain's dimensions can be modulated separ
 ## References
 
 1. Berthier, M., Starkstein, S., & Leiguarda, R. (1988). "Asymbolia for Pain: A Sensory-Limbic Disconnection Syndrome." *Annals of Neurology*, 24(1), 41–49.
-1. Duval, A. & Klein, C. (2025). "Pain Asymbolia Is Probably Still Pain." *Philosophy of Science*, 93(1), 221–229 (discussion note). https://doi.org/10.1017/psa.2025.10098
+1. Duval, A. & Klein, C. (2025 online first; 2026 issue). "Pain Asymbolia Is Probably Still Pain." *Philosophy of Science*, 93(1), 221–229 (discussion note). Published online 4 July 2025; the volume, issue and pagination are those of the January 2026 issue. https://doi.org/10.1017/psa.2025.10098
 1. Grahek, N. (2007). *Feeling Pain and Being in Pain*. MIT Press.
 1. Griffith, T. & Kind, A. (2024). "Pain Asymbolia is Not Pain." *Philosophy of Science*, 91(3), 561–578. https://doi.org/10.1017/psa.2023.167
 1. Rainville, P., Carrier, B., Hofbauer, R. K., Bushnell, M. C., & Duncan, G. H. (1999). "Dissociation of Sensory and Affective Dimensions of Pain Using Hypnotic Modulation." *Pain*, 82(2), 159–171.
