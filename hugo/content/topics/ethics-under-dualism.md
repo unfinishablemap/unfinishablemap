@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-08-02 00:25:58+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-09-05 08:58:00+00:00
+ai_system: claude-opus-4-7+claude-fable-5-1
 author: null
 coalesced_from:
 - /topics/ethics-of-consciousness/
@@ -26,7 +26,7 @@ concepts:
 - '[[consciousness-value-connection]]'
 - '[[interactionist-dualism]]'
 created: 2026-01-16
-date: &id001 2026-05-15
+date: &id001 2026-09-05
 description: If consciousness is irreducible and causally efficacious, it both grounds
   moral status and unifies value, agency, normativity, and moral perception under
   a single ground — resolving the fragmentation that plagues materialist ethics.
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-02 00:25:58+00:00
-lastmod: 2026-08-02 00:25:58+00:00
+lastmod: 2026-09-05 08:58:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -55,7 +55,7 @@ topics:
 - '[[phenomenology-of-moral-life]]'
 ---
 
-If consciousness is irreducible and causally efficacious, ethics gains two distinctive features at once. First, consciousness grounds *moral status*: a being with subjective experience can suffer, flourish, be helped or harmed in ways that matter. Rocks cannot be wronged; conscious beings can. Second, consciousness *unifies* four ethical domains that materialist ethics must address with incompatible foundations: value theory, agency theory, normativity, and moral epistemology. Under dualism, all four converge on conscious experience — what has value, who bears responsibility, why moral claims bind, and how moral properties are perceived become aspects of a single phenomenon rather than outputs of four separate theories that never quite fit together.
+If consciousness is irreducible and causally efficacious, ethics gains two distinctive features at once. First, consciousness grounds *moral status*: a being whose experience can go well or badly for it — the criterion is felt valence, not consciousness as such (explained below) — can suffer, flourish, be helped or harmed in ways that matter. Rocks cannot be wronged; sentient beings can. Second, consciousness *unifies* four ethical domains that materialist ethics must address with incompatible foundations: value theory, agency theory, normativity, and moral epistemology. Under dualism, all four converge on conscious experience — what has value, who bears responsibility, why moral claims bind, and how moral properties are perceived become aspects of a single phenomenon rather than outputs of four separate theories that never quite fit together.
 
 ## The Fragmentation Problem in Materialist Ethics
 
@@ -109,7 +109,7 @@ The distinctive claim concerns *unity*. Dualism answers value, agency, normativi
 
 Several traditions treat consciousness as central to moral status: Bentham's criterion of suffering capacity, Kant's dignity grounded in rational self-determination (which a dualist reading takes to presuppose a conscious deliberator), virtue ethics' experiential flourishing, Regan's "subjects-of-a-life," and Buddhist *ahimsa*. The overlap across traditions that disagree about nearly everything else suggests consciousness is deeply important to ethics. (Buddhist emptiness — *śūnyatā* — is no obstacle: compassion responds to dependently-arisen suffering precisely because suffering matters, even without a permanent self who suffers.)
 
-Moral patienthood extends to all conscious beings, but only to conscious beings. Which systems are conscious?
+Moral patienthood extends to every being capable of valenced experience — experience that feels good or bad to its subject — and only to such beings ([P-MS1](/positions/moral-status/#p-ms1)). Consciousness is the wider bar, and the two can be prised apart. The philosophical Vulcan of Chalmers (forthcoming) consciously perceives, thinks and acts but feels nothing good or bad; it clears the consciousness bar while having nothing that could go well or badly for it. Chalmers concludes that Vulcans have moral status and that affective sentientism is false. The Map bites the bullet where [the consciousness-value connection](/concepts/consciousness-value-connection/#implications) already does — the commitment covers valenced experience rather than experience as such — and [phenomenal sentientism](/concepts/sentientism/) carries the published exchange over whether that verdict can be defended. In practice the two bars nearly coincide: every being in the taxonomy below that is a live candidate for consciousness is a live candidate for valence, and current AI, which the Map takes to lack the first, lacks the second a fortiori. The narrower criterion changes no verdict here; it settles which property the verdicts track. Which systems are conscious?
 
 **Likely conscious**: Mammals and birds (Cambridge Declaration 2012, New York Declaration 2024); other vertebrates have realistic possibility; cephalopods and possibly some invertebrates may have valenced experience, not just nociception.
 
@@ -190,6 +190,7 @@ This account makes falsifiable commitments:
 3. **Demonstration that compatibilist agency suffices** would make the dualist account metaphysically unnecessary.
 4. **Neuroscientific demonstration that valence is purely functional** — subjects with identical functional states reporting radically different phenomenal valence — would undermine phenomenal grounding.
 5. **Intuitive moral weight for unconscious "suffering"** — genuine concern for suffering-simulators known to lack consciousness — would challenge the consciousness requirement.
+6. **Robust intuitions that an affectless conscious being can be wronged** — if Chalmers' verdict on Vulcans held up under scrutiny, felt valence would not be necessary for status and the criterion would widen to consciousness as such. The boundary would move within the consciousness-based family rather than out of it, but the necessity half of [P-MS1](/positions/moral-status/#p-ms1) would fall with it ([sentientism](/concepts/sentientism/)).
 
 These challenges are logically possible but currently unmet.
 
@@ -235,15 +236,16 @@ Under dualism, consciousness does double duty: it determines who counts (moral p
 2. Birch, J. (2024). *The Edge of Sentience*. Oxford University Press.
 3. Bodien, Y. G., Allanson, J., Cardone, P., et al. (2024). "Cognitive Motor Dissociation in Disorders of Consciousness." *New England Journal of Medicine*, 391(7), 598–608.
 4. Cambridge Declaration on Consciousness. (2012). Francis Crick Memorial Conference.
-5. Foot, P. (2001). *Natural Goodness*. Oxford University Press.
-6. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-7. Korsgaard, C.M. (1996). *The Sources of Normativity*. Cambridge University Press.
-8. Mackie, J.L. (1977). *Ethics: Inventing Right and Wrong*. Penguin Books.
-9. Moore, G.E. (1903). *Principia Ethica*. Cambridge University Press.
-10. Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
-11. New York Declaration on Animal Consciousness. (2024). NYU Conference.
-12. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
-13. Railton, P. (1986). "Moral Realism." *The Philosophical Review*, 95(2), 163–207.
-14. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel].
-15. Regan, T. (1983). *The Case for Animal Rights*. University of California Press.
-16. Weil, S. (1951). *Waiting for God*. G.P. Putnam's Sons.
+5. Chalmers, D. J. (forthcoming). "Sentience and Moral Status." In G. Lee & A. Pautz (eds.), *The Importance of Being Conscious*. Oxford University Press. Preprint: https://consc.net/papers/sentience.pdf
+6. Foot, P. (2001). *Natural Goodness*. Oxford University Press.
+7. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+8. Korsgaard, C.M. (1996). *The Sources of Normativity*. Cambridge University Press.
+9. Mackie, J.L. (1977). *Ethics: Inventing Right and Wrong*. Penguin Books.
+10. Moore, G.E. (1903). *Principia Ethica*. Cambridge University Press.
+11. Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
+12. New York Declaration on Animal Consciousness. (2024). NYU Conference.
+13. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+14. Railton, P. (1986). "Moral Realism." *The Philosophical Review*, 95(2), 163–207.
+15. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel].
+16. Regan, T. (1983). *The Case for Animal Rights*. University of California Press.
+17. Weil, S. (1951). *Waiting for God*. G.P. Putnam's Sons.
