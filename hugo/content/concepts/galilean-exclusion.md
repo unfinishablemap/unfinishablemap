@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-09-04 23:12:31+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-05 09:10:46+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 concepts:
 - '[[qualia]]'
@@ -19,8 +19,8 @@ description: Galileo's founding methodological move excluded subjective experien
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-06 23:20:50+00:00
-lastmod: 2026-09-04 23:12:31+00:00
+last_deep_review: 2026-09-05 09:10:46+00:00
+lastmod: 2026-09-05 09:10:46+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
@@ -61,9 +61,9 @@ The Galilean exclusion generates a distinctive difficulty when science turns to 
 
 A natural objection: modern cognitive science has moved beyond Galileo. Neuroscientists routinely incorporate subjective reports as data, and [functionalism](/concepts/functionalism/) maps mental states to functional roles rather than ignoring them. But this accommodation operates within the Galilean framework rather than transcending it. Subjective reports enter as third-person data *about* experience — verbal behaviour, button presses, ratings on scales — not as experience itself. The structural issue remains: the tools of description are observer-independent, even when the target of description is not.
 
-This is not a claim about the limits of scientific effort or intelligence. It is a claim about the relationship between a method and its founding assumptions. A sieve that filters out sand cannot then be used to study sand — not because sieves are poorly made, but because filtering out sand is what the sieve *does*. The Galilean exclusion filters out phenomenal quality. A science built on that exclusion faces a structural obstacle when phenomenal quality becomes the target.
+The claim concerns the relationship between a method and its founding assumptions, not the limits of scientific effort or intelligence. A sieve that filters out sand cannot then be used to study sand — not because sieves are poorly made, but because filtering out sand is what the sieve *does*. The Galilean exclusion filters out phenomenal quality. A science built on that exclusion faces a structural obstacle when phenomenal quality becomes the target.
 
-The [explanatory-gap](/concepts/explanatory-gap/) between neural description and felt experience gains sharper diagnosis in this light. The gap is not merely a hard empirical problem awaiting further research. It reflects the fact that the very framework of scientific explanation was constructed by removing from its domain the phenomenon now under investigation. Husserl made this argument in *The Crisis of European Sciences* (1936), identifying what he called the "mathematization of nature" — the substitution of mathematical idealisations for the concrete world of lived experience. Thompson builds on Husserl's critique across his work, arguing that modern science inherited from Galileo the assumption that mathematical-physical description exhausts what is objectively real (Thompson, 2007; Frank, Gleiser, & Thompson, 2024). Everything excluded from that description — including experience — becomes either reducible to physics or scientifically invisible.
+The [explanatory-gap](/concepts/explanatory-gap/) between neural description and felt experience gains sharper diagnosis in this light. More than a hard empirical problem awaiting further research, the gap reflects the fact that the very framework of scientific explanation was constructed by removing from its domain the phenomenon now under investigation. Husserl made this argument in *The Crisis of European Sciences* (1936), identifying what he called the "mathematization of nature" — the substitution of mathematical idealisations for the concrete world of lived experience. Thompson builds on Husserl's critique across his work, arguing that modern science inherited from Galileo the assumption that mathematical-physical description exhausts what is objectively real (Thompson, 2007; Frank, Gleiser, & Thompson, 2024). Everything excluded from that description — including experience — becomes either reducible to physics or scientifically invisible.
 
 Whitehead identified the same structural problem from a different angle, naming it the "bifurcation of nature" in *The Concept of Nature* (1920) and developing it further in *Science and the Modern World* (1925) — the splitting of reality into the scientifically respectable (mathematical structure) and the scientifically dismissed (experienced quality). For Whitehead, this bifurcation was not a discovery about nature but an artefact of the Galilean method, one that [process-philosophy](/concepts/process-philosophy/) was designed to overcome.
 
@@ -73,9 +73,9 @@ A crucial distinction: Galileo did not *discover* that secondary qualities are u
 
 The confusion between methodological exclusion and metaphysical absence underlies much of the consciousness debate. When materialists argue that everything real is physical, they often implicitly rely on the Galilean exclusion: if physics has never needed subjective qualities to explain anything, then subjective qualities must not be fundamental features of reality. But this reasoning is circular. Physics never needed subjective qualities because it was *designed* not to need them. The absence of consciousness from physical description reflects a methodological choice, not an empirical finding.
 
-A third position accepts the exclusion and denies there was ever a residue to exclude. [Ontic structural realism](/concepts/ontic-structural-realism/) holds that relational structure is what fundamentally exists, so the mathematical skeleton is reality itself rather than a filtered view of it. The contrast with Galileo is sharper than it first appears: on the reading that places secondary qualities inside sentient bodies rather than in the objects causing them, Galileo *relocates* the residue where structural realism *abolishes* it. The circularity charge above does not reach a position that denies the remainder was ever a datum, so the argument against it has to be made on other ground.
-
 This point cuts against both extreme positions. It tells the materialist that the absence of consciousness from physics does not prove consciousness is physical. It tells the mysterian that the difficulty of explaining consciousness scientifically may reflect the method's structure rather than any intrinsic ineffability of the phenomenon.
+
+A third position accepts the exclusion and denies there was ever a residue to exclude. [Ontic structural realism](/concepts/ontic-structural-realism/) holds that relational structure is what fundamentally exists, so the mathematical skeleton is reality itself rather than a filtered view of it. The contrast with Galileo is sharper than it first appears. Galileo's own account places secondary qualities inside the sentient body rather than in the objects causing them: he *relocates* the residue. Structural realism, on its strongest reading, *abolishes* it — but that reading extends a thesis about the ontology of physics to experience itself, and the extension is a separate commitment (phenomenal structuralism) rather than part of structural realism about physics. The circularity charge above does not reach a position that denies the remainder was ever a datum, so the argument against it has to be made on other ground; the Map's grounds, chiefly Newman's problem and the standing of phenomenal structuralism, are set out in [the structural-realism article](/concepts/ontic-structural-realism/#the-choice).
 
 ## The Exclusion in Contemporary Debates
 

@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T08:55:00+00:00'
+ai_modified: '2026-09-05T09:12:01+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-05'
-lastmod: 2026-09-05 08:55:00+00:00
+lastmod: 2026-09-05 09:12:01+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-05 09:11 UTC - deep-review
+- **Status**: Success
+- **File**: [galilean-exclusion](/concepts/galilean-exclusion/)
+- **Word count**: 1903 → 1948 (+45)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-09-05-galilean-exclusion](/reviews/deep-review-2026-09-05-galilean-exclusion/)
+- **Context**: 6th review; converged over five prior passes. Only body change since 2026-07-06 was the ontic-structural-realism cross-link paragraph inserted 2026-09-04 by that article's `expand-topic` run (dad04f04ee) — the pass targeted that paragraph.
+- **Critical**: dropped qualifier — "structural realism *abolishes* [the residue]" stated flat, where the source article says OSR is "nearly silent on consciousness" and abolishes the residue in mind only "on the strongest reading", via a composite (phenomenal structuralism) "not a position anyone defends in print". Qualifier restored so both sides of the link describe the same position.
+- **Medium**: (1) insertion point broke "This point cuts against both extreme positions" (anaphor now pointed at the OSR paragraph) and put "a third position" before the two it was third to — paragraph moved after that sentence; (2) "has to be made on other ground" named no ground — now points to Newman's problem and phenomenal structuralism via `[[ontic-structural-realism#the-choice]]`.
+- **Low**: two "This is not X. It is Y." constructs (style guide *Overused Words and Constructions*) reworded into single sentences; sieve metaphor untouched; no prior review had touched either, so not oscillation.
+- **Citations**: References unchanged since the 2026-06-01 full web-verify + 2026-07-06 spot re-verify; seven entries carried as real-correct, ledger in the review file. The one new sourced claim (Galileo relocates secondary qualities into the sentient body) verified at SEP Bolton 2022 §2.2, raw HTML grepped: "SQs are not in bodies that cause them but internal to sentient bodies"; Assayer via Finocchiaro 2008: 185 "inhere only in the sensitive body". No superlative claims (`find_superlative_claims` empty).
+- **Engagement classification (editor-internal, per direct-refutation discipline)**: materialist: Mode Two (helps itself to a methodological omission as an empirical finding) — unchanged; mysterian: Mode Three — unchanged; ontic structural realist (new): Mode Three, honestly marked — the circularity charge is conceded not to reach it and the argument is handed to the article that owns it, rather than run here.
+- **Frontmatter**: `ai_modified`, `last_deep_review` stamped; `ai_system` appended with the executing model. Hugo tree synced.
 
 ## 2026-09-05 08:58 UTC - refine-draft
 - **Status**: Success
