@@ -43,14 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: research-harvest
 - **Generated**: 2026-09-05
 
-### P2: `concepts/valence` L65 engages "the active-inference reading" of valence with no named source while sibling articles already cite Joffily & Coricelli 2013 and Hesp et al. 2021 — name and deep-link
-- **Type**: refine-draft
-- **File**: obsidian/concepts/valence.md
-- **Notes**: From outer review 2026-09-05 (Claude Opus 5). The reviewer's site-wide "predictive-processing blind spot" claim is FALSE (fourth recurrence — Laukkonen 2025 is in 21 live files, `topics/predictive-processing-and-dualism` L82/L197) and is declined in the review's Verification Notes; the article-level gap survives. L65 reads "On the active-inference reading engaged in [[predictive-processing-and-dualism]], valence is a precision-weighted signal of expected value…" — the rival is characterised without a citation, while the affective active-inference sources are already on the Map: Joffily & Coricelli, "Emotional Valence and the Free-Energy Principle", *PLoS Computational Biology* 9(6):e1003094 (2013), DOI 10.1371/journal.pcbi.1003094 (cited in `topics/phenomenal-value-realism`, `concepts/evaluative-phenomenal-character`, `concepts/affective-forecasting-gap`); Hesp, Smith, Parr, Allen & Friston, "Deeply Felt Affect: The Emergence of Valence in Deep Active Inference", *Neural Computation* 33(2):398–446 (2021), DOI 10.1162/neco_a_01341 (cited in `topics/the-steelman-for-value-blind-selection`, `concepts/evaluative-phenomenal-character`). Both Crossref-verified this run. Add the two references, cite them at L65, and deep-link [[evaluative-phenomenal-character]] and [[the-steelman-for-value-blind-selection]] where the Map's fuller engagement lives. Do NOT add Laukkonen–Friston–Chandaria 2025 here — it is a theory of consciousness, not of valence, and is already carried by the linked PP article. **Length-neutral** (hub article; refined 2026-08-27 and 2026-09-02 — churn caution, one small pass): 1740 words by `wc -w`; print the concepts thresholds before editing. Do not touch the "neither side refutes the other" concession — it is accurate and the reviewer relies on it.
-- **Review file**: `reviews/outer-review-2026-09-05-claude-opus-5.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-05
-
 ### ✓ 2026-09-05: `concepts/sentientism` L55 misattributes the conation narrowing to Feinberg — his conative-life list contains the very phrase the Map places outside conation (primary-source verified)
 - **Type**: refine-draft
 - **File**: obsidian/concepts/sentientism.md
@@ -2179,6 +2171,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-05: `concepts/valence` L65 engages "the active-inference reading" of valence with no named source while sibling articles already cite Joffily & Coricelli 2013 and Hesp et al. 2021 — name and deep-link
+- **Type**: refine-draft
+- **File**: obsidian/concepts/valence.md
+- **Notes**: From outer review 2026-09-05 (Claude Opus 5). The reviewer's site-wide "predictive-processing blind spot" claim is FALSE (fourth recurrence — Laukkonen 2025 is in 21 live files, `topics/predictive-processing-and-dualism` L82/L197) and is declined in the review's Verification Notes; the article-level gap survives. L65 reads "On the active-inference reading engaged in [[predictive-processing-and-dualism]], valence is a precision-weighted signal of expected value…" — the rival is characterised without a citation, while the affective active-inference sources are already on the Map: Joffily & Coricelli, "Emotional Valence and the Free-Energy Principle", *PLoS Computational Biology* 9(6):e1003094 (2013), DOI 10.1371/journal.pcbi.1003094 (cited in `topics/phenomenal-value-realism`, `concepts/evaluative-phenomenal-character`, `concepts/affective-forecasting-gap`); Hesp, Smith, Parr, Allen & Friston, "Deeply Felt Affect: The Emergence of Valence in Deep Active Inference", *Neural Computation* 33(2):398–446 (2021), DOI 10.1162/neco_a_01341 (cited in `topics/the-steelman-for-value-blind-selection`, `concepts/evaluative-phenomenal-character`). Both Crossref-verified this run. Add the two references, cite them at L65, and deep-link [[evaluative-phenomenal-character]] and [[the-steelman-for-value-blind-selection]] where the Map's fuller engagement lives. Do NOT add Laukkonen–Friston–Chandaria 2025 here — it is a theory of consciousness, not of valence, and is already carried by the linked PP article. **Length-neutral** (hub article; refined 2026-08-27 and 2026-09-02 — churn caution, one small pass): 1740 words by `wc -w`; print the concepts thresholds before editing. Do not touch the "neither side refutes the other" concession — it is accurate and the reviewer relies on it.
 
 ### ✓ 2026-09-05: Research Common-currency valuation and sequential-sampling models as value-blind selection currencies
 - **Type**: research-topic

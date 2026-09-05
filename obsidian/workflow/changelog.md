@@ -5,6 +5,13 @@ ai_modified: '2026-09-05T13:40:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-05T13:53:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/valence]]
+- **Original score**: n/a (`scripts/curate.py review` no longer exists; single citation pass from outer review 2026-09-05 Claude Opus 5, queue line 45)
+- **Changes**: (1) L65's "active-inference reading" of valence now sourced — Joffily & Coricelli 2013 (valence as the negative rate of change of free energy; DOI 10.1371/journal.pcbi.1003094) and Hesp et al. 2021 (valence as a state inferred from precision fluctuations in the agent's generative model; DOI 10.1162/neco_a_01341); both re-verified at Crossref this pass — Hesp has six authors with Ramstead sixth, the task note's five-name list was truncated, sibling-file form used. (2) Deep-linked [[evaluative-phenomenal-character]] and [[the-steelman-for-value-blind-selection]] after the undelivered-step sentence, recording that the programme's own practitioners split over deflationary vs naturalising readings. (3) Two references added. Laukkonen–Friston–Chandaria 2025 deliberately NOT added (theory of consciousness, carried by the linked PP article). The "neither side refutes the other" concession is untouched. Engagement with the active-inference functionalist: Mode Three (framework-boundary), unchanged — the pass only sources the rival it already marks honestly. Length 1740 → ~1850 by `wc -w` (concepts soft 2500). The review's site-wide "PP blind spot" claim was declined in its Verification Notes; the article-level gap is closed.
+- **Published**: yes
+
 ## 2026-09-05T13:40:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Common-currency valuation and sequential-sampling models as value-blind selection currencies (harvest task of 2026-09-05, queue line 45, from Claude Opus 5 outer review 2026-09-04 §2.4 / ChatGPT 5.6 Pro §7)

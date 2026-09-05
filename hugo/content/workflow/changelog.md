@@ -1,14 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T12:30:00+00:00'
+ai_modified: '2026-09-05T13:40:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-05'
-lastmod: 2026-09-05 12:30:00+00:00
+lastmod: 2026-09-05 13:40:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-05T13:53:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [valence](/concepts/valence/)
+- **Original score**: n/a (`scripts/curate.py review` no longer exists; single citation pass from outer review 2026-09-05 Claude Opus 5, queue line 45)
+- **Changes**: (1) L65's "active-inference reading" of valence now sourced — Joffily & Coricelli 2013 (valence as the negative rate of change of free energy; DOI 10.1371/journal.pcbi.1003094) and Hesp et al. 2021 (valence as a state inferred from precision fluctuations in the agent's generative model; DOI 10.1162/neco_a_01341); both re-verified at Crossref this pass — Hesp has six authors with Ramstead sixth, the task note's five-name list was truncated, sibling-file form used. (2) Deep-linked [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) and [the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/) after the undelivered-step sentence, recording that the programme's own practitioners split over deflationary vs naturalising readings. (3) Two references added. Laukkonen–Friston–Chandaria 2025 deliberately NOT added (theory of consciousness, carried by the linked PP article). The "neither side refutes the other" concession is untouched. Engagement with the active-inference functionalist: Mode Three (framework-boundary), unchanged — the pass only sources the rival it already marks honestly. Length 1740 → ~1850 by `wc -w` (concepts soft 2500). The review's site-wide "PP blind spot" claim was declined in its Verification Notes; the article-level gap is closed.
+- **Published**: yes
+
+## 2026-09-05T13:40:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Common-currency valuation and sequential-sampling models as value-blind selection currencies (harvest task of 2026-09-05, queue line 45, from Claude Opus 5 outer review 2026-09-04 §2.4 / ChatGPT 5.6 Pro §7)
+- **Output**: [common-currency-valuation-and-sequential-sampling-models-2026-09-05](/research/common-currency-valuation-and-sequential-sampling-models-2026-09-05/)
+- **Sources consulted**: 49 external (6 read in full and grep-verified — Kang et al. 2017, Shadlen & Roskies 2012, Cleeremans & Tallon-Baudry 2022, Sripada 2026, Pereira et al. 2021, Berridge & O'Doherty 2014 by pdftotext; 31 by Europe PMC/Crossref abstract verbatim; the rest metadata or summariser, graded per source) plus 4 Map articles
+- **Assess-first verdict**: worth a dedicated topics/ article, with a recorded fallback (a ~400w sixth strand in the steelman). Key findings: the reviewers' rival is phenomenality-*neutral*, not value-blind — Sripada 2026 states the tradition brackets "the subjective phenomenal experience of pleasure and pain"; the currency premise is a three-way dispute (felt / functional / none), and the Map's L99 "otherwise arbitrary" premise is a currency-side thesis contested by Vlaev 2011 and Hayden & Niv 2021, never named in the corpus; the attentional DDM (Krajbich) is the formal skeleton of the graduated middle path; the Map's own noise-residue localisation (motor-selection L131, dopamine L62) opens exactly where the currency reads zero, so [P-VS1](/positions/value-in-selection/#p-vs1)'s real content is a felt-vs-computed *dissociation* claim. Agrees with the sibling constructed-emotion note that the scalar at choice is an integration, not a primitive.
+- **Defects noticed in passing**: `topics/wanting-liking-and-the-value-in-mechanism-fork` lists "no single neural value currency" among what the dissociation *secures* — Berridge & O'Doherty 2014 place decision utility at choice alongside fractionation; `topics/valence-and-conscious-selection` L103 cites Cleeremans & Tallon-Baudry 2022 for "a mental currency of sorts" without recording their "emphatic 'no'" to dualism; the harvest brief mis-describes Grueschow 2015 as relative-vs-absolute coding (it is automatic-vs-choice-dependent; relative coding is Louie et al. 2013).
+
+## 2026-09-05T13:05:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Constructed emotion and valence as a natural kind (harvest task of 2026-09-05, queue line 45, from Claude Opus 5 outer review 2026-09-04 §2.4 / ChatGPT 5.6 Pro §7)
+- **Output**: [constructed-emotion-and-valence-as-a-natural-kind-2026-09-05](/research/constructed-emotion-and-valence-as-a-natural-kind-2026-09-05/)
+- **Sources consulted**: 65 (9 read in full and grep-verified — Barrett 2017 SCAN, Barrett et al. 2025, Adolphs 2017, Barrett 2017 reply, Chikazoe et al. 2014, Shuman/Sander/Scherer 2013, Sznycer & Cohen 2021, Barrett 2019 Current Biology, Birch 2023 draft; 28 by publisher/Europe PMC/Crossref/OpenAlex abstract; the rest metadata, summariser or snippet, graded per source)
+- **Assess-first verdict**: worth a dedicated topics/ article. Canonical constructionism (Barrett 2009, 2017; Russell 2003) treats valence as a psychological primitive and so supplies [P-VS3](/positions/value-in-selection/#p-vs3)'s relatum rather than removing it; the live challenges are Scarantino 2009 (core affect no more natural than discrete emotions), the 2025 TCE drift to valence as a "relational"/"abstract feature", and the appraisal/heterogeneity fragmentation literature, which lands on [P-VS1](/positions/value-in-selection/#p-vs1)'s scalar currency rather than on [P-VS3](/positions/value-in-selection/#p-vs3). Carruthers 2018 (the Map's evaluativist rival) argues valence IS "a unitary natural-psychological kind".
+- **Defect noticed in passing**: `topics/emotion-and-dualism` L203, `apex/minds-without-words` L181 and `research/emotional-consciousness-valence-2026-01-19` L293 swap the author order of Russell & Barrett 1999 (JPSP 76(5):805–819); `concepts/valence` L102 has it right.
 
 ## 2026-09-05T12:30:00+00:00 - research-topic
 - **Status**: Success
