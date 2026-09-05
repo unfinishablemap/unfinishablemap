@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-08-07 22:38:06+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-05 19:27:00+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 coalesced_from:
 - /topics/suffering-versus-pain/
@@ -39,7 +39,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 13:10:09+00:00
-lastmod: 2026-08-07 22:38:06+00:00
+lastmod: 2026-09-05 19:27:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -98,7 +98,7 @@ These cases pose a sharp challenge to physicalist accounts. If suffering were id
 
 ### Pain Without Suffering
 
-The reverse dissociation is equally instructive. [Pain asymbolia](/concepts/pain-asymbolia/) — damage to the insular cortex or connections to the anterior cingulate — produces patients who detect pain but do not suffer from it. They report that a pinprick is "painful" in the descriptive sense yet show no distress, no voluntary avoidance, no urgency to make it stop. The sensory event continues; the evaluative amplification ceases. On the [compound-property reading](/concepts/pain-asymbolia/) developed in the concept page, ordinary "pain" may be best modelled as a composite of a sensory-discriminative dimension (preserved in asymbolia) and an affective-motivational dimension (the felt awfulness, lost), with the second perhaps supplying what physicalist accounts cannot derive from the first.
+The reverse dissociation is equally instructive. [Pain asymbolia](/concepts/pain-asymbolia/) — classically attributed to insular and anterior-cingulate damage, a [localisation less secure](/concepts/pain-asymbolia/#clinical-presentation) than that summary suggests — produces patients who detect pain but do not suffer from it. They report that a pinprick is "painful" in the descriptive sense yet show no distress, no voluntary avoidance, no urgency to make it stop. The sensory event continues; the evaluative amplification ceases. On the [compound-property reading](/concepts/pain-asymbolia/) developed in the concept page, ordinary "pain" may be best modelled as a composite of a sensory-discriminative dimension (preserved in asymbolia) and an affective-motivational dimension (the felt awfulness, lost), with the second perhaps supplying what physicalist accounts cannot derive from the first.
 
 Contemplative traditions report a related dissociation through practice rather than pathology. Advanced meditators describe learning to observe pain sensations without the overlay of suffering, experiencing the raw nociceptive quality without the aversive reaction (Grant & Rainville, 2009; Gard et al., 2012). Buddhist philosophy interprets this differently from the Map: where the Map sees the removal of an evaluative layer that consciousness adds, Buddhist analysis sees the dissolution of craving (*tanha*) and self-identification. The phenomenological observation — that the dissociation can be achieved through practice — is compatible with both interpretations; the data do not adjudicate between the Map's layered reading and the Buddhist one, and the observation is coherent with rather than evidenced by the Map's framing in particular.
 
