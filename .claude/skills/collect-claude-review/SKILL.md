@@ -69,11 +69,19 @@ A previous version of this check required `stopBtn === false` AND `artifactTiles
 ```javascript
 JSON.stringify({
   msgCount: document.querySelectorAll('[data-testid="user-message"]').length,
-  artifactTiles: Array.from(document.querySelectorAll('button[aria-label^="View "]')).map(b => b.getAttribute('aria-label'))
+  artifactTiles: Array.from(document.querySelectorAll('button[aria-label^="View "]'))
+    .map(b => b.getAttribute('aria-label'))
+    .filter(l => l !== 'View all'),
+  elapsedBanner: (document.body.innerText.match(/\b\d+h ?\d+m\b/) || [null])[0],
+  biggestBody: Math.max(0, ...Array.from(document.querySelectorAll('.standard-markdown')).map(e => (e.innerText || '').length))
 })
 ```
 
 **Ready** when: `artifactTiles.length >= 1`. (No stopBtn check. Body completeness is verified in Step 4 via the stability sentinel.)
+
+⚠️ **The `View all` filter is required, not cosmetic (defect found 2026-09-05).** `button[aria-label^="View "]` also matches claude.ai's **"View all"** artifacts-nav button, which is persistent page chrome present whether or not any artifact exists. Without the filter this check returns `artifactTiles: ["View all"]` — length 1 — and reports **READY on a conversation that is still researching and has no artifact at all**. On 2026-09-05 the 03:09 commission was still at `Lead Researcher — Searching for sources... • 1h 31m` with a 212-character body, and the unfiltered check called it ready. Step 4's body-stability sentinel does catch it (`bodySize < 1000` → bail), so the net outcome was right, but only on the second line of defence and at the cost of an artifact-panel click plus ~20s of stability sampling on every attempt.
+
+`elapsedBanner` and `biggestBody` are diagnostic, not gates: a live-incrementing `1h 29m → 1h 30m` across polls is positive proof the tab is rendering current DOM, which distinguishes *genuinely still working* from a backgrounded-render false negative. Note `document.visibilityState` reports `hidden` under subprocess Chrome — that is benign and is **not** evidence of a stale tab; use the incrementing counter instead.
 
 Call this **CHECK**.
 
@@ -110,7 +118,7 @@ then exit. Next loop iteration retries from scratch (fresh tab, fresh navigate).
 
 ## Step 4: Open the artifact panel and verify body-stability
 
-Click the LAST `button[aria-label^="View "]` (most recent artifact). Use the `find` tool with the artifact's title text from Step 3 to get a ref, then `computer` action `left_click` with the ref.
+Click the LAST `button[aria-label^="View "]` (most recent artifact). Use the `find` tool with the artifact's title text from Step 3 to get a ref, then `computer` action `left_click` with the ref. **Exclude `aria-label="View all"`** — that is the artifacts-nav button, not an artifact, and it can sit last in DOM order (see the Step 3 warning). Match on the artifact title Step 3 reported, never on position alone.
 
 Wait 2s for the side panel to render. **MEASURE** the body:
 
