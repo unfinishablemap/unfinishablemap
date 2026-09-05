@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T13:40:00+00:00'
+ai_modified: '2026-09-05T14:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-05T14:47:11+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Modality Void — whether consciousness can determine how many senses it has, where they divide, or which sense is delivering a given content
+- **Category**: Mixed — counting face a candidate Unexplorable (first-person indeterminacy that third-person science can recover), attribution face naturally occluded by perceptual architecture, boundary face Unexplored
+- **Cap check**: `voids` at **101/115** by the gate function (`tools.evolution.state.count_section_files`); headroom exists, skill did not skip.
+- **Gap rationale**: zero corpus hits (obsidian/ + archive/, non-workflow) for "individuation of the senses", Nudds 2004, Keeley 2002, Macpherson 2011, "oral referral", and Hurley & Noë's dominance/deference. The sensory-modality wing (six "…and the Interface" topics plus [[apex/cross-modal-capability-division]]) runs the capability division "across five senses one modality at a time" — the void names that presupposition. Nearest neighbours checked and distinguished: [[fusion-void]] (hidden weights vs hidden label), [[palette-extension-void]] ("is it new?" vs "which one?"), [[vestibular-consciousness-and-the-interface]] (silent sense — cross-referenced, not re-run), [[chemosensory-consciousness-and-the-interface]] (carries flavour binding but not the referral error).
+- **Output**: [[research/voids-modality-void-2026-09-05]]
+- **Key finding**: the modality of an experience is delivered as its *format*, never as a checkable datum — the wrong channel tag carries the same evidence as the right one (Fréchette 2023 on McGurk: "appears to me as evident as"), oral referral is universal and uncorrected by knowledge (Spence 2016: "the only example of such modality confusion that has been reported in the literature to date"), and the rerouting question is settled "not by inward scrutiny" (Hurley & Noë 2003). Disposition recommendation: standalone three-face cognate; fold fallbacks named.
+- **Citations verified at source, not summariser**: Macpherson 2011 (Glasgow eprints PDF text), Hurley & Noë 2003 (author-hosted PDF), Spence 2016 (ORA PDF, re-extracted without column layout to un-garble the Rozin p.400 quote), Fréchette 2023 (Europe PMC full-text XML), O'Callaghan 2012 (author PDF), Craig & Bushnell 1994 (PubMed), von Melchner 2000 / Auvray & Spence 2008 / Mitchell et al. 2024 (Europe PMC), Liang 2022 (arXiv); Crossref metadata for every DOI. **Not read directly and flagged in the note**: Nudds 2004 and Keeley 2002 (Wiley/OUP/JSTOR/PDCnet all 403) — quotes are via Macpherson and Fréchette with page numbers; Merzenich 2000 quote via Hurley & Noë only (who print "Mezernich"); the Keeley four-criteria summary is summariser paraphrase, marked unverified.
+- **Index**: [[voids]] Research-Stage list gained a *Surveyed* entry (now 19), count clause corrected 99→101 (gate, 2026-09-05), frontmatter `related_articles` gained the note.
+- **State**: `task_chains.pending_articles` gained the entry with `target_section: voids` and the source fences in its note; YAML re-parsed after a targeted single-line replacement (other agents' uncommitted `last_runs` edits untouched) — 1 entry, valid.
+- **Mirror**: `uv run python scripts/sync.py` run; `hugo/content/research/voids-modality-void-2026-09-05.md` present, body wikilinks all converted, no broken-wikilink strip on the note or on `voids/_index.md`.
+- **Published**: yes (research note, not an article)
+- **Calls**: 8 WebSearch, 8 WebFetch (3 returned 403), ~14 curl (Crossref / eutils / Europe PMC / arXiv / author PDFs); no Chrome.
 
 ## 2026-09-05T13:53:24+00:00 - refine-draft
 - **Status**: Success

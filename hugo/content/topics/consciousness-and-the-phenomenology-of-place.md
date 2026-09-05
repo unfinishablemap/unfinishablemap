@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-07-17 06:24:30+00:00
+ai_modified: 2026-09-05 14:06:53.687792+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,10 +17,15 @@ date: &id001 2026-02-22
 description: How the felt character of being in a place—atmosphere, familiarity, belonging—reveals
   consciousness as an irreducible binding force beyond information processing.
 draft: false
+embedded_videos:
+- embedded: 2026-09-05 14:06:53.687792+00:00
+  id: cnJ-h1dtNVc
+  source: notebooklm/0127-01-consciousness-and-the-phenomenology-of-place
+  url: https://www.youtube-nocookie.com/embed/cnJ-h1dtNVc
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 06:24:30+00:00
-lastmod: 2026-07-17 06:24:30+00:00
+lastmod: 2026-09-05 14:06:53.687792+00:00
 modified: *id001
 related_articles:
 - '[[embodiment-cognitive-limits]]'
@@ -37,6 +42,12 @@ topics:
 ---
 
 The experience of being *in a place* is among the most integrative feats consciousness performs. Walking into a childhood home, entering a cathedral, or stepping onto an unfamiliar street at dusk — each generates a unified felt character that binds sensory perception, bodily orientation, emotional tone, and biographical memory into something no list of physical properties captures. The Unfinishable Map argues that this binding — what phenomenologists call the *atmosphere* or *genius loci* of a place — provides evidence that consciousness is irreducible to information processing. A complete physical description of a room's dimensions, lighting, temperature, and acoustic properties leaves out everything that matters about what it is like to be there.
+
+<details class="yt-embed" data-video-id="cnJ-h1dtNVc">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/cnJ-h1dtNVc">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Structure of Place-Experience
 
