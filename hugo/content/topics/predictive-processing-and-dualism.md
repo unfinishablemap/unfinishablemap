@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-08-13 13:25:45+00:00
+ai_modified: 2026-09-05 02:56:53+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 02:52:08+00:00
-lastmod: 2026-08-13 13:25:45+00:00
+lastmod: 2026-09-05 02:56:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -182,6 +182,7 @@ The Unfinishable Map adopts predictive processing as the best available account 
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — REBUS and Letheby's predictive-self-binding account: PP under dualism applied to altered states
 - [entropic-brain-hypothesis](/concepts/entropic-brain-hypothesis/) — The dynamical signature (neural entropy, brain criticality) that REBUS folds into the predictive-processing frame
 - [brain-specialness-boundary](/topics/brain-specialness-boundary/) — The locality face of the same selection-only interface: why conscious selection reaches only its own brain, not external quantum systems
+- [the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/) — The value fork routes its Bayesian-binding engagement here: inferential competition as a value-blind *selection* mechanism
 
 ## References
 

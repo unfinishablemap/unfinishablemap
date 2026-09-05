@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-08-22 16:00:20+00:00
+ai_modified: 2026-09-05 02:56:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[functionalism]]'
 - '[[motor-selection]]'
 created: 2026-06-18
-date: &id001 2026-08-22
+date: &id001 2026-09-05
 description: 'Built through human-AI refinement: the strongest external scientific
   case that selection runs on mechanism, not felt value—reinforcement learning, unconscious
   liking, affordance competition, valence-as-inference, illusionism—and the Map''s
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-22 16:00:20+00:00
-lastmod: 2026-08-22 16:00:20+00:00
+lastmod: 2026-09-05 02:56:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -55,7 +55,7 @@ The thesis is not one finding but a convergence. Learning theory, affective neur
 
 The foundational strand is reinforcement learning. Schultz, Dayan & Montague (1997) identified the firing of midbrain dopamine neurons with a **reward-prediction error**—the discrepancy between received and predicted reward—and formally mapped it onto the temporal-difference error of reinforcement-learning theory. The crucial point for the rival is what kind of quantity this is: a *teaching signal* that updates predictions, not a felt goodness. Behaviour is shaped because the error term adjusts learned action-values, with no step at which the organism's *enjoyment* enters the computation.
 
-Dayan & Niv (2008) survey how cleanly this framework maps onto neural reward processing and—just as usefully for a fair steelman—where it strains: the division between model-free and model-based control, the limits of the dopamine-as-RPE hypothesis. Citing the rival programme's own self-criticism matters here. It shows the value-blind camp is a live, self-correcting research tradition rather than a monolith to be knocked down, and it keeps the article from the very strawmanning it set out to repair. Either way the dissociation between teaching signal and feeling holds: whatever dopamine computes, it is not a hedonic quale.
+Dayan & Niv (2008) survey how cleanly this framework maps onto neural reward processing and—just as usefully for a fair steelman—where it strains: the division between model-free and model-based control, the limits of the dopamine-as-RPE hypothesis. Citing the rival programme's own self-criticism shows the value-blind camp is a live, self-correcting research tradition rather than a monolith to be knocked down. Either way the dissociation between teaching signal and feeling holds: whatever dopamine computes, it is not a hedonic quale.
 
 This already pressures the Map's "selection needs a criterion" argument. If a temporal-difference error can shape goal-directed behaviour without any experiential value, then the demand that selection be *denominated* in felt value is not forced by the behaviour itself.
 
@@ -82,6 +82,8 @@ The fourth strand re-defines the contested quantity itself. In the free-energy /
 Joffily & Coricelli (2013) define emotional valence operationally as the negative rate of change of free energy over time: positive valence is decreasing free energy (decreasing prediction error or uncertainty), negative valence is increasing free energy. On this account, "value" is an information-theoretic property of an inference machine regulating its own learning rate—something a sufficiently elaborate thermostat-like system computes, with no experiential primitive required. Hesp et al. (2021) push the construction further into hierarchical ("deep") active inference, modelling valence as "a state of self that is inferred on the basis of fluctuations in the estimated confidence (or precision) an agent has in her generative model"—an affective charge that is a higher-order metacognitive estimate of model fitness.
 
 This strand is **double-edged, and a fair steelman must say so.** The active-inference camp is split on whether this formalism *explains away* felt value or *naturalises* it. Hesp's title—"Deeply *Felt* Affect"—and its framing of valence as a genuinely inferred felt state read naturally as value-*sensitive*. More pointedly, Solms & Friston (2018) take the *same* free-energy mathematics to identify affect with felt experience, treating felt affects as constitutive of consciousness itself—a position closer to the Map's own. The free-energy programme therefore underdetermines the metaphysics: it is read deflationarily (valence = a formal bookkeeping quantity) by some and realistically (valence = a naturalised feeling) by others. The strand belongs in the steelman as the *deflationary reading*, with the honest flag that the reading is contested within its own camp. Citing active inference as a clean value-blind ally would be the same evidential over-reach the Map forbids in the other direction.
+
+Two stronger strands of the same programme are absent above. Laukkonen, Friston and Chandaria's "beautiful loop" (2025) makes inferential competition the selector — "Bayesian binding," where the inferences that most reduce long-term uncertainty win entry to the world model, no valence term denominating the contest; [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) already calls it the strongest physicalist alternative the Map faces. The interoceptive-allostatic line, similarly split, grounds valence in bodily regulation rather than model fitness ([interoceptive-consciousness-and-the-interface](/topics/interoceptive-consciousness-and-the-interface/); [somatic-interface](/concepts/somatic-interface/)). The first must show its competition *is* the selection at issue; the second, that nothing felt remains doing selective work.
 
 ## Dissolving the Phenomenology
 
