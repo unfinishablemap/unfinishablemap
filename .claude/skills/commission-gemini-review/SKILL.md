@@ -94,9 +94,13 @@ If `modelText` is not "PRO", bail — the default model has changed and we shoul
 
 Click the tools control to the left of the prompt textarea. As of 2026-08 this is a bare **"+" icon** with `aria-label="Upload & tools"` — there is no longer a button whose text reads "Tools", so match on the aria-label, not on visible text. Clicking it opens a menu.
 
-Confirm the menu actually opened before trying to click inside it — enumerate `[role="menuitemcheckbox"],[role="menuitem"]` and expect entries like Upload files / Add from Drive / Create image / Canvas / **Deep research** / Guided learning. An empty list means the click missed; re-click and re-poll rather than proceeding.
+Confirm the menu actually opened before trying to click inside it — enumerate `[role="menuitemcheckbox"],[role="menuitem"]` and expect a non-empty list. An empty list means the click missed; re-click and re-poll rather than proceeding.
 
-Inside the menu, click `[role="menuitemcheckbox"]` text "Deep research" — `aria-checked="false"` by default. **Click to enable.** The menu auto-closes. Click it by scaled coordinates (see Step 4) — the menu sits low in the viewport and its rect often lands below the screenshot's visible height if the scale factor is not applied.
+⚠️ **Deep research is NOT in this first menu (drift observed 2026-09-05).** The top level now reads: Upload files / Add from Drive / More uploads › / Create image / Create video / Create music / Canvas / **More tools ›**. Deep research (with Guided learning) sits one level down under **"More tools"**. Do not treat its absence from the top level as a bail condition — a run that enumerates six or eight items without finding "Deep research" is a healthy session on the current UI, not a broken one. Open "More tools", then click Deep research in the submenu.
+
+The menu is also **taller than the viewport**, so "More tools" typically needs a scroll before its rect is reachable. Scroll the menu, re-read the rect, then click.
+
+Click by scaled coordinates (see Step 4) at every level — these menus sit low in the viewport and their rects often land below the screenshot's visible height if the scale factor is not applied. **Re-read rects after every click**: opening a submenu re-lays-out the popover, so a rect measured before the click is stale.
 
 Verify:
 
@@ -155,6 +159,8 @@ JSON.stringify({
 ```
 
 When `startResearchBtn: true`, use the `find` tool with query `"Start research button"` and click it via `computer` action `left_click` with the ref.
+
+⚠️ **A zero rect here is not absence (observed 2026-09-05).** While the plan card animates in, "Start research" reports a zero-size rect with `offsetParent === null` — present in the DOM but not yet laid out. Treating that first reading as "button missing" is a false bail on a healthy run. `scrollIntoView` it, re-read the rect, and click once it has non-zero dimensions.
 
 If the button never appears after 60s post-submission, **bail without writing a pending entry** — Deep Research may have failed to start.
 
@@ -260,11 +266,13 @@ Total runtime budget: 5 minutes (Gemini's research-plan + Start research click a
 | Failure cooldown | `find_recent_failed("gemini", now, 1)` returns entry | Silent skip. |
 | Chrome MCP unavailable | tool call raises / "extension is not connected" | Emit `CHROME_UNAVAILABLE: gemini commission` and skip; no crash, no pending entry. |
 | Login expired | composer absent OR URL redirected to accounts.google.com | Emit `LOGIN_REQUIRED: gemini session expired` and stop. |
-| Tools menu missing Deep research | menu doesn't contain it | Bail; screenshot + DOM dump. |
+| Deep research absent from the **top-level** tools menu | menu lists Upload files / … / More tools › | **NOT a bail** — expected since 2026-09-05. Open "More tools" (scroll to reach it) and click Deep research in the submenu. |
+| Deep research absent from the **"More tools" submenu too** | neither level contains it | Bail; screenshot + DOM dump of both levels. |
 | Model not Pro | model selector text isn't "Pro" (match case-insensitively) | Bail. |
 | Return doesn't submit | editor still holds the prompt after Return | Not a failure — click the `Send message` button instead (2026-08 behaviour). |
 | Submission silent failure | no `/app/<id>` URL after 30s *and* the editor still holds the prompt | Bail; no pending entry. Both conditions required — the URL alone lags ~30s behind a healthy submit. |
-| "Start research" never appears | not visible after 60s | Bail; no pending entry. |
+| "Start research" reports a zero rect / `offsetParent: null` | read once while the plan card is still animating | **NOT a bail** — `scrollIntoView`, re-read the rect, click when non-zero. |
+| "Start research" never appears | still absent after 60s **of re-reads**, not one reading | Bail; no pending entry. |
 | Click on "Start research" doesn't take | `researchStartedConfirm: false` after click + 4s wait | Bail; no pending entry. |
 
 **Critical invariant**: a pending-reviews entry is written ONLY after research is verifiably underway — i.e., Gemini has posted its "I'll let you know …" launch confirmation (match the bare `I[’']?ll let you know` stem; the exact wording drifts across UI versions and the trailing clause has moved ahead of the stem, so do not require it). The earlier `stopBtn` check produced a false positive on 2026-05-10; do not regress to it.
