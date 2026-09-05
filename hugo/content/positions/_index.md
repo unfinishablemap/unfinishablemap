@@ -1,20 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-09-02 20:38:40+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+ai_modified: 2026-09-05 07:30:00+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 author: Andy Southgate
 concepts:
 - '[[evidential-status-discipline]]'
 created: 2026-06-04
-date: &id001 2026-08-25
+date: &id001 2026-09-05
 description: The Map's explicit, maintained register of positions it currently holds
   — claims with status, confidence, dependencies, and conditions that would shift
   them.
 draft: false
 human_modified: 2026-06-04
 last_curated: 2026-06-04
-lastmod: 2026-09-02 20:38:40+00:00
+lastmod: 2026-09-05 07:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -56,11 +56,11 @@ The *machinery* migration is not. As of 2026-08-03 no validator anywhere in the 
 
 ## What the discriminability axis reads back
 
-Every entry carries an **empirical discriminability** band, but until this section existed nothing read the column: each entry disclosed its testability correctly and nothing downstream consumed it — no validator, no article, no aggregate. A column written but never read is disclosure, not a control — [P-M5](/positions/methodology-and-calibration/#p-m5) landing on the register's own instrument, and this section is the read. As of 2026-09-02, the 56 live positions score **direct** 4 · **indirect** 21 · **in-principle** 1 ([P-SC1](/positions/subject-census/#p-sc1)) · **none** 8 ([P-A2](/positions/agency-and-will/#p-a2), [P-AC3](/positions/ai-consciousness-scope/#p-ac3), [P-CS1](/positions/consciousness-scope/#p-cs1), [P-I1](/positions/individuation-and-subjecthood/#p-i1), [P-I3](/positions/individuation-and-subjecthood/#p-i3), [P-I4](/positions/individuation-and-subjecthood/#p-i4), [P-MS2](/positions/moral-status/#p-ms2), [P-SC3](/positions/subject-census/#p-sc3)) · **none-by-construction** 3 ([P-CS5](/positions/consciousness-scope/#p-cs5), [P-Q2](/positions/quantum-interface/#p-q2), [P-Q7](/positions/quantum-interface/#p-q7)) · **n/a** 19.
+Every entry carries an **empirical discriminability** band, but until this section existed nothing read the column: each entry disclosed its testability correctly and nothing downstream consumed it — no validator, no article, no aggregate. A column written but never read is disclosure, not a control — [P-M5](/positions/methodology-and-calibration/#p-m5) landing on the register's own instrument, and this section is the read. As of 2026-09-05, the 56 live positions score **direct** 3 · **indirect** 22 · **in-principle** 1 ([P-SC1](/positions/subject-census/#p-sc1)) · **none** 7 ([P-A2](/positions/agency-and-will/#p-a2), [P-AC3](/positions/ai-consciousness-scope/#p-ac3), [P-CS1](/positions/consciousness-scope/#p-cs1), [P-I1](/positions/individuation-and-subjecthood/#p-i1), [P-I3](/positions/individuation-and-subjecthood/#p-i3), [P-I4](/positions/individuation-and-subjecthood/#p-i4), [P-SC3](/positions/subject-census/#p-sc3)) · **none-by-construction** 3 ([P-CS5](/positions/consciousness-scope/#p-cs5), [P-Q2](/positions/quantum-interface/#p-q2), [P-Q7](/positions/quantum-interface/#p-q7)) · **n/a** 20.
 
 Re-derive before quoting: figures move as positions are added *and* as bands are re-rated. Parse only lines beginning `- **Calibration**` — since 2026-08-24 the domain files' dated `Updated` notes record band changes in transition form, so a match over whole files counts superseded ratings as live and returns a phantom band plus an inflated total.
 
-The *n/a* entries are normative or meta commitments where testability does not apply. The *none* and *none-by-construction* bands are different: first-order claims about the world that no measurement reaches — eight because rival readings of the same data are empirically equivalent, three because the framework's own construction forecloses the measurement (exact Born preservation for the two mechanism entries, a claimed in-principle intractability at the prokaryotic floor for the third). Eleven of the fifty-six are empirically inert — just under a fifth — five of them carrying *high* structural centrality ([P-CS1](/positions/consciousness-scope/#p-cs1), [P-I1](/positions/individuation-and-subjecthood/#p-i1), [P-I3](/positions/individuation-and-subjecthood/#p-i3), [P-Q2](/positions/quantum-interface/#p-q2), [P-Q7](/positions/quantum-interface/#p-q7)), and ten of the eleven the framework-internal flag. Following the discipline [taxonomy-of-voids](/apex/taxonomy-of-voids/) applies to tenet-generated voids, this aggregate names the price the framework pays, not evidence for the tenets: Tenet 5's refusal of the parsimony dismissal is what lets these commitments stand, and a fifth of the register untestable is what that refusal costs. The verdict does not turn on where the fraction falls: earlier readings of a quarter, a little over a fifth, and just under one concluded the same. The count is a disclosed liability, not a coherence result. The read changes no schema — the seventh `enforcement:` flag proposed on 2026-08-03 remains deliberately not adopted ([vocabulary decisions](/positions/methodology-and-calibration/)).
+The *n/a* entries are normative or meta commitments where testability does not apply. The *none* and *none-by-construction* bands are different: first-order claims about the world that no measurement reaches — seven because rival readings of the same data are empirically equivalent, three because the framework's own construction forecloses the measurement (exact Born preservation for the two mechanism entries, a claimed in-principle intractability at the prokaryotic floor for the third). Ten of the fifty-six are empirically inert — a little under a fifth — five of them carrying *high* structural centrality ([P-CS1](/positions/consciousness-scope/#p-cs1), [P-I1](/positions/individuation-and-subjecthood/#p-i1), [P-I3](/positions/individuation-and-subjecthood/#p-i3), [P-Q2](/positions/quantum-interface/#p-q2), [P-Q7](/positions/quantum-interface/#p-q7)), and nine of the ten the framework-internal flag. Following the discipline [taxonomy-of-voids](/apex/taxonomy-of-voids/) applies to tenet-generated voids, this aggregate names the price the framework pays, not evidence for the tenets: Tenet 5's refusal of the parsimony dismissal is what lets these commitments stand, and a fifth of the register untestable is what that refusal costs. The verdict does not turn on where the fraction falls: earlier readings of a quarter, a little over a fifth, and just under one concluded the same. The count is a disclosed liability, not a coherence result. The read changes no schema — the seventh `enforcement:` flag proposed on 2026-08-03 remains deliberately not adopted ([vocabulary decisions](/positions/methodology-and-calibration/)).
 
 **The aggregate is not monotone, and a correction to it broke this section (2026-08-24).** The inert count fell from twelve to ten with no position added or retired: commit `e346d3cb` re-rated [P-Q3](/positions/quantum-interface/#p-q3) and [P-SC1](/positions/subject-census/#p-sc1) off the by-construction band, both having inferred untestability from exact Born preservation — an inference [selection-only-channel](/concepts/selection-only-channel/) had already withdrawn, since preservation binds the *unconditioned* marginal and leaves the conditionals free. The count can fall because the register stops over-claiming its inertness; until now it had only risen. That direction wants watching: an over-claim of untestability runs *against* the Map, so review tends to ratify it rather than challenge it.
 
@@ -68,6 +68,7 @@ That same commit did not update the paragraph above, which reads the column it h
 
 - **Updated 2026-08-24**: figures re-derived after commit `e346d3cb` moved two bands — inert twelve → ten, high-centrality inert seven → five, framework-internal inert eleven → nine, *a little over a fifth* corrected to *just under*, and the by-construction gloss narrowed, having credited exact Born preservation for a band one of whose members never rested on it. Re-derived again on adding [P-MS2](/positions/moral-status/#p-ms2) (`none`, framework-internal): live 55, inert eleven, framework-internal inert ten.
 - **Updated 2026-09-02**: re-derived on adding [P-Q11](/positions/quantum-interface/#p-q11) (`indirect` · framework-internal: no): live 56, **indirect** 20 → 21; inert count unchanged at eleven, now just under a fifth. No other figure moved.
+- **Updated 2026-09-05**: re-derived twice over. The 02:06 UTC pass that moved [P-VS2](/positions/value-in-selection/#p-vs2) direct → indirect had not touched this paragraph — the dependent-goes-stale shape the 2026-08-24 note records, a third time, caught the same way — so **direct** 4 → 3 and **indirect** 21 → 22 land here now. Then [P-MS2](/positions/moral-status/#p-ms2) moved none → n/a: a category correction, not a testability gain, a normative threshold-versus-magnitude claim having been filed among first-order claims with empirically equivalent rival readings. **none** 8 → 7, **n/a** 19 → 20, inert eleven → ten, framework-internal inert ten → nine; high-centrality inert unchanged at five.
 
 ## Domains
 
@@ -89,7 +90,7 @@ The register is grouped by domain so it stays scannable as it grows. Each domain
 - [Finding-level calibration](/positions/finding-level-calibration/) — the same conduct question at the grain of a *single finding*: the architecture-vs-significance two-tier discount, which separates the structural fact a result reports (cross-vocabulary-robust, smaller discount) from what the Map reads it as evidence for (framework-shaped, larger discount), with the discipline's own bounds and its differential scope condition registered alongside the rule
 - *Future domains, to be seeded as the register grows:* applied verdicts (clinical, AI, personal philosophy)
 
-**Companion files (not domains, containing no positions).** [Quantum interface](/positions/quantum-interface-calibration-history/), [methodology and calibration](/positions/methodology-and-calibration-history/) and [value in selection](/positions/value-in-selection-calibration-history/) each have a calibration-history file holding their relocated dated update notes. Provenance lives there; every claim, calibration and shift condition stays in the domain file, which carries a `Calibration history` line per entry pointing back.
+**Companion files (not domains, containing no positions).** [Quantum interface](/positions/quantum-interface-calibration-history/), [methodology and calibration](/positions/methodology-and-calibration-history/), [value in selection](/positions/value-in-selection-calibration-history/) and [moral status](/positions/moral-status-calibration-history/) each have a calibration-history file holding their relocated dated update notes. Provenance lives there; every claim, calibration and shift condition stays in the domain file, which carries a `Calibration history` line per entry pointing back.
 
 ## How positions are maintained
 

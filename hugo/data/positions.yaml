@@ -432,17 +432,18 @@ p-ms1:
     (phenomenal sentientism) — confidence: moderate · no independent evidence · moderately central'
   weak: 'yes'
 p-ms2:
-  bands: 'confidence: low · no independent evidence · peripheral to the framework'
+  bands: 'confidence: low · normative, not an empirical claim · peripheral to the framework'
   claim: Moral status is threshold, not scalar — enhancement raises what is at stake in a life without
     raising its status
   credence: low
-  grade: D
+  grade: n/a
   id: P-MS2
   slug: moral-status
   status: live
   structural_centrality: low
   summary: 'P-MS2: Moral status is threshold, not scalar — enhancement raises what is at stake in a life
-    without raising its status — confidence: low · no independent evidence · peripheral to the framework'
+    without raising its status — confidence: low · normative, not an empirical claim · peripheral to the
+    framework'
   weak: 'yes'
 p-q1:
   bands: 'confidence: moderate · no independent evidence · moderately central'
