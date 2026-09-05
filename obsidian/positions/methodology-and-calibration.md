@@ -2,9 +2,9 @@
 title: "Methodology and Calibration Positions"
 description: "The Map's positions on its own method: the tenet-register / evidence-register separation, the common-cause null on convergence, the citation-verification and weight-class standard, the framework-stage / open-programme self-calibration, and the honest gap between disclosure and enforcement."
 created: 2026-06-22
-modified: 2026-08-27
+modified: 2026-09-05
 human_modified:
-ai_modified: 2026-09-02T22:06:01+00:00
+ai_modified: 2026-09-05T17:25:54+00:00
 draft: false
 topics: []
 concepts:
@@ -21,7 +21,7 @@ related_articles:
 
 ai_contribution: 100
 author: Andy Southgate
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ai_generated_date: 2026-06-22
 last_curated: 2026-06-22
 ---
@@ -34,7 +34,7 @@ The domain is distinct from the first-order substantive registers (quantum-inter
 
 **Calibration history.** Dated update notes for this domain live in [[positions/methodology-and-calibration-history|Methodology and calibration — calibration history]], following the convention set by [[positions/quantum-interface-calibration-history|the quantum-interface history file]] on 2026-07-29. Entries carrying such notes index them from a **Calibration history** line; the schema below, its anchor, and every band, dependency and shift condition stay here.
 
-**Review-discipline conventions.** Four rules the positions below already imply, stated so a review can apply them without re-deriving them from P-M1, P-M2 and P-M5. They bind the review of any article the Map publishes, not this register alone; the stable target `[[positions/methodology-and-calibration#^review-discipline]]` resolves here. ^review-discipline
+**Review-discipline conventions.** Five rules the positions below already imply, stated so a review can apply them without re-deriving them from P-M1, P-M2, P-M3 and P-M5. They bind the review of any article the Map publishes, not this register alone; the stable target `[[positions/methodology-and-calibration#^review-discipline]]` resolves here. ^review-discipline
 
 *A stability note protects a named objection on unchanged text, and nothing more.* It records that one objection was weighed against the text as it then stood, and it lapses when an article the claim depends on changes, when a later review raises a distinct objection, or when the claim is reused in a new inferential role — a clean review streak measures whether the article moved, not whether what it rests on did. A claim labelled interpretive or speculative still owes a check for category mistakes and misleading analogies: a caveat can reduce the strength of a claim; it cannot confer immunity from renewed scrutiny. Nor does a reviewer's finding that a claim sits well with the tenets raise its evidential grade — P-M1 at the reviewer's desk rather than the author's.
 
@@ -44,7 +44,10 @@ The domain is distinct from the first-order substantive registers (quantum-inter
 
 *The strongest physicalist rival is named.* A review names the strongest physicalist framework that explains the article's central datum without the tenets and checks that the article engages it or links the Map page that does. The pipeline reliably surfaces disagreements internal to a literature; what it has missed is the framework-level rival reading the same data with no dualist remainder, and P-M2's discount cannot be applied to a convergence whose strongest rival was never on the table.
 
-- **Updated 2026-08-27**: the four conventions above; no band moved, no position added. Provenance: an outer-review convergence (ChatGPT 5.6 Pro §1 and recommendations 35–38; Claude Opus 5 Part 5, items 1–3) on [[concepts/affective-forecasting-gap]]. Its 2026-08-20 deep review had placed three claims under "do not re-flag" stability notes; the reviews' objections to two of them — an over-drawn inference, a category conflation — were different objections the notes' wording nonetheless discouraged. Reviewed seven days after the 2026-08-13 tightening in [[positions/quantum-interface]] that names value-sensitive selection among the domains where the debt has bitten, the article still deep-linked no mechanism-debt anchor and read more confidently than [[positions/value-in-selection|P-VS1]] (credence low): the second recorded instance of the pattern the 2026-08-24 quantum-interface note describes for [[topics/ethics-of-cognitive-enhancement-under-dualism]], and the worse case, since there the article predated the tightening and here the review postdated it. That review surfaced the internal Levine / Wilson–Gilbert exchange but not the active-inference account of the forecast gap already carried in [[concepts/evaluative-phenomenal-character]] and [[topics/the-steelman-for-value-blind-selection]]. The article's anaesthesia paragraph, which owned its report-channel reading as the Map's framing and then generalised it into a discount on the Map's other felt-state evidence, was scoped the same morning to what its sources establish; its mechanism-debt booking is queued separately. The review checklists these conventions describe live in the pipeline, which this register does not edit; whether they are wired there is P-M5's question, and until they are, the conventions are a stated intention in exactly that position's sense.
+*The rival of record for a normative position is a named, published author, current to the live debate.* A review of any normative or applied-ethics entry, or of an article arguing one, checks that the rival its Asserts paragraph sets out to beat is a published position, engaged or linked, and that the roster reaches the debate as it now stands rather than stopping at its canonical statements — a necessity claim engages a current defender of what it excludes. The Map's own outer reviews may seed an entry and appear in its dated notes as provenance; they never stand as the opposition. An outer review is a Map document, so citing one as the field is self-citation in P-M3's sense, and the fourth convention does not reach the case, since a normative rival need not explain any datum without the tenets.
+
+- **Updated 2026-08-27**: the first four conventions; no band moved, no position added. Provenance, and the [[concepts/affective-forecasting-gap]] instance, in [[positions/methodology-and-calibration-history#review-discipline-conventions|calibration history]].
+- **Updated 2026-09-05**: the fifth convention; no band moved, no position added. Provenance: an outer-review convergence on [[positions/moral-status]] ([[reviews/outer-review-synthesis-2026-09-05|synthesis C11]]; Claude Opus 5 §5; ChatGPT 5.6 Pro, methodological changes 6), where P-MS2 had named two of the Map's own outer reviews as its opposition and no published gradualist — since repaired. Why the fourth convention was not read to cover it, and the landed instances, in [[positions/methodology-and-calibration-history#review-discipline-conventions|calibration history]].
 
 ## The multi-axis calibration schema
 
