@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T00:35:00+00:00'
+ai_modified: '2026-09-05T00:50:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-05'
-lastmod: 2026-09-05 00:35:00+00:00
+lastmod: 2026-09-05 00:50:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-05 00:50 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-04
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.6 Pro, Claude Opus 5, Gemini 2.5 Pro) — first full 3/3 cycle since 2026-08-27; all three audited `positions/value-in-selection` via the subject-reuse path
+- **Clusters**: 3 convergent, 9 singleton, 3 divergent, 1 declined as correlated error
+- **Tasks upgraded**: 2 (P2 -> P1: the register/source calibration seam; the merged Laukkonen + interoceptive-inference strand task). A third convergent cluster (C1, 3/3) was already at P1 — the Claude leg upgraded it during per-review processing.
+- **Tasks deduplicated**: 2 (both Gemini siblings folded verbatim into the surviving task: the asymbolia battery leg into the P1 [P-VS2](/positions/value-in-selection/#p-vs2) calibration task; the interoceptive-inference strand into the Laukkonen task). Cycle task count 14 -> 12.
+- **Notes**: The cycle's dominant finding is **C1 — [P-VS2](/positions/value-in-selection/#p-vs2)'s "discriminating battery" does not discriminate the live horns, flagged independently by all three reviewers from three different directions**: ChatGPT by walking all nine items and finding none that assigns materially different likelihoods to the horns, Gemini by the asymbolia leg's precision-weighting confound, Claude by an internal contradiction (L60 rates discriminability "direct" while `the-steelman-for-value-blind-selection` L101 concedes the flagship clamp leaves the Map's own held stance and the strongest rival co-extensive). **The most instructive result is a convergence that was declined.** Claude and Gemini both charged that `concepts/pain-asymbolia` presents the sensory/affective dissociation as a settled clean separation; both are refuted by L69, which says the opposite. Two reviewers making the same wrong charge is correlated error, not corroboration, and it does not clear the convergence bar — the synthesis records it explicitly so the pattern stays legible. The real defects on that file were found by the reviewers who read further and are carried as singletons. Also recorded: Claude's Zheng & Meister year change is excluded from C2 even though Claude supplied C2's strongest instance (reviewer quality is a per-claim, not a per-review, property); Gemini's two surviving kernels arrived attached to citations with the wrong first author in three of five cases; and ChatGPT vs Claude disagree about whether [P-VS4](/positions/value-in-selection/#p-vs4)'s "developed" maturity is earned given the same disclosed fact — logged as the cycle's best candidate for a human call. One adjacency (ChatGPT's interoceptive-architecture task vs Gemini's interoceptive-strand finding) was cross-referenced but deliberately left at P2 to avoid double-counting one cluster, as was the methodology sibling of C2.
+- **Output**: [outer-review-synthesis-2026-09-04](/reviews/outer-review-synthesis-2026-09-04/)
+
 
 ## 2026-09-05 00:35 UTC - outer-review
 - **Status**: Success
