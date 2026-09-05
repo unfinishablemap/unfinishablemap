@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T11:30:31+00:00'
+ai_modified: '2026-09-05T12:30:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-05T12:30:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The experience requirement on well-being (harvest task of 2026-09-05, from Claude Opus 5 outer review §2.2)
+- **Output**: [[research/the-experience-requirement-on-well-being-2026-09-05]]
+- **Sources consulted**: 50 (4 read in full and grep-verified — van der Deijl 2019, van der Deijl 2021, Mogensen GPI WP 24-2024, Lee 2025; Lin 2021 abstract verbatim, body via summariser only; the rest abstract/secondary/snippet, graded per source)
+- **Verdict**: assess-first passed — recommend a topics/ article. Key finding: the literature splits a *global* experience requirement (Lin's supervenience thesis, held by the Map at P-VS3) from a *local* one (every welfare good partly constituted by experience, which Lin himself holds — his own view is objectivist pluralism, not the desire theory the sentientism refine names); P-MS1's necessity direction needs only the local form, so Lin threatens P-VS3 and allies with P-MS1. Also: van der Deijl 2019 is an uncited published counterpart of the Map's phenomenal value pluralism; Lee 2025's subjects/goods decoupling is the unused reply to Bradford/Kagan/Mogensen; the experience machine is unanswered anywhere on the Map; agency pluralism (Kagan, Mogensen 2025 PPR) is an unregistered second rival to necessity. Caps re-measured: topics 324/360.
 
 ## 2026-09-05T11:30:31+00:00 - deep-review
 - **Status**: Success
