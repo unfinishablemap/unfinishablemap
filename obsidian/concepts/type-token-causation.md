@@ -4,7 +4,7 @@ description: "Type-token causation distinguishes statistical type-level effects 
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-08-19T21:07:00+00:00
+ai_modified: 2026-09-05T10:28:06+00:00
 last_deep_review: 2026-08-03T09:51:20+00:00
 draft: false
 topics:
@@ -97,7 +97,7 @@ The distinction does several distinct pieces of philosophical work.
 
 ## The Phenomenal-Concept Alternative
 
-The type-token route is not the only physicalist-respectable answer to the epiphenomenalism worry. The most-discussed alternative — the phenomenal-concept strategy (Loar 1990; Papineau 2002; Frankish 2016) — argues that reports about phenomenal states are reliable because phenomenal concepts are themselves physically-realised representational states that refer to the very physical states the reports are about. The causal chain runs entirely through the physical substrate: qualia do not need to cause beliefs about qualia, because the physical states producing the reports just *are* the states the reports are about. This is a *type-level* defence of mental-causation talk. It secures the reliability of phenomenal reports across the population without invoking any token-level mental-to-physical causation, and so does not require quantum indeterminacy, downward selection, or the type-token machinery developed above.
+The type-token route is not the only physicalist-respectable answer to the epiphenomenalism worry. The most-discussed alternative — the phenomenal-concept strategy (Loar 1990; Papineau 2002; Balog 2012) — argues that reports about phenomenal states are reliable because phenomenal concepts are themselves physically-realised representational states that refer to the very physical states the reports are about. The causal chain runs entirely through the physical substrate: qualia do not need to cause beliefs about qualia, because the physical states producing the reports just *are* the states the reports are about. This is a *type-level* defence of mental-causation talk. It secures the reliability of phenomenal reports across the population without invoking any token-level mental-to-physical causation, and so does not require quantum indeterminacy, downward selection, or the type-token machinery developed above. Illusionism (Frankish 2016) is a separate reply rather than a version of this strategy — it denies that there is any phenomenal referent for a phenomenal concept to present — and the Map meets it at a framework boundary instead of on the strategy's terms; see [[self-stultification-as-master-argument]] and [[illusionism#Structural Convergence with Epiphenomenalism|illusionism]].
 
 The Map prefers the type-token route for two reasons. First, the phenomenal-concept strategy delivers reliability for *reports* but not mental causation of *behaviour*: it explains why I correctly say "I am in pain" without explaining why pain *makes* me withdraw my hand. The type-token framework delivers both. Second, the strategy purchases its reliability by holding that introspective access to phenomenal character runs through purely physical representational vehicles — which makes the apparent causal role of consciousness in deliberation and action a user-illusion of the kind eliminativists endorse. The Map takes the deliverances of introspection more seriously than that permits, and reads that apparent causal role as evidence to be vindicated rather than explained away. The type-token machinery is the structure vindication requires.
 
@@ -161,6 +161,7 @@ The combination is what would make the Map's framework *minimal in the technical
 
 ## References
 
+1. Balog, K. (2012). In defense of the phenomenal concept strategy. *Philosophy and Phenomenological Research*, 84(1), 1–23.
 1. Davidson, D. (1970). Mental events. In L. Foster & J. W. Swanson (Eds.), *Experience and Theory*. University of Massachusetts Press.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
 1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-02
-ai_modified: 2026-08-07 21:44:00+00:00
+ai_modified: 2026-09-05 10:28:06+00:00
 ai_system: claude-opus-5
 author: Andy Southgate
 concepts:
@@ -19,7 +19,7 @@ description: 'The Map''s positions on what its case against epiphenomenalism act
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-07 21:44:00+00:00
+lastmod: 2026-09-05 10:28:06+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -57,12 +57,13 @@ Calibration follows the [multi-axis schema](/positions/methodology-and-calibrati
 
 - **Status**: live <span id="p-mc1"></span>
 - **Calibration** ([multi-axis](/positions/methodology-and-calibration/#calibration-schema)): credence high · external-evidence grade B (establishable by inspection of the published literature, and the phenomenal concept strategy is the mainstream physicalist statement of exactly the move that blunts the argument) · structural centrality low · model maturity developed (worked dialectical assessment, no independence metric) · empirical discriminability n/a (a claim about argument scope, not about the world) · framework-internal only: no
-- **Asserts**: The Map holds that its strongest anti-epiphenomenalism argument binds the *bare-correlation* version of the view and does not reach the sophisticated phenomenal-concept version. Against bare correlation the pressure is severe: if reports about consciousness carry no causal traffic from consciousness, the grounds for believing those reports grow thin, and anyone holding the view on introspective evidence owes an account of how the evidence reached the belief. The phenomenal-concept strategy (Loar 1990, Papineau 2002, Frankish 2016, late Dennett) has a recognised answer, and the Map concedes it: phenomenal concepts are themselves physically realised representational states referring to physical states of the same brain, so the states *producing* reports are the states the reports *describe*, and the self-undermining charge dissolves without phenomenal causation. The disagreement relocates rather than ends — it moves to whether the first-person mode of presentation under which phenomenal concepts refer can be exhaustively physically characterised, which the Map denies and phenomenal-concept theorists affirm. The Map's commitment to interaction is held on that calibrated basis, not on a claim that the argument refutes epiphenomenalism in every form.
+- **Asserts**: The Map holds that its strongest anti-epiphenomenalism argument binds the *bare-correlation* version of the view and does not reach the sophisticated phenomenal-concept version. Against bare correlation the pressure is severe: if reports about consciousness carry no causal traffic from consciousness, the grounds for believing those reports grow thin, and anyone holding the view on introspective evidence owes an account of how the evidence reached the belief. The phenomenal-concept strategy (Loar 1990, Papineau 2002, Balog 2012) has a recognised answer, and the Map concedes it: phenomenal concepts are themselves physically realised representational states referring to physical states of the same brain, so the states *producing* reports are the states the reports *describe*, and the self-undermining charge dissolves without phenomenal causation. The disagreement relocates rather than ends — it moves to whether the first-person mode of presentation under which phenomenal concepts refer can be exhaustively physically characterised, which the Map denies and phenomenal-concept theorists affirm. The Map's commitment to interaction is held on that calibrated basis, not on a claim that the argument refutes epiphenomenalism in every form. Illusionism (Frankish 2016) is a separate reply that this concession does not absorb — it denies that there is any phenomenal referent for a phenomenal concept to present — and the Map meets it at a framework boundary rather than inside the phenomenal-concept strategy's terms, as [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) and [illusionism](/concepts/illusionism/) record.
 - **Depends on**: [P-M1](/positions/methodology-and-calibration/#p-m1) (Tenet 3 does not close the opening the strategy makes); [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) as the mainstream statement of the escape; the mode-of-presentation dispute treated under [Bidirectional Interaction](/tenets/#bidirectional-interaction); supplies half the scope of the argument [P-D2](/positions/arguments-for-dualism/#p-d2) names as its selector
 - **Argued in**: [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/), [epiphenomenalism](/concepts/epiphenomenalism/), [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
 - **Would shift if**: the phenomenal-concept strategy were shown to fail in all its variants (restoring the argument's reach and removing this scope limit); or the first-person mode of presentation were given an exhaustive physical characterisation (settling the relocated dispute against the Map); or a version of the argument were constructed that binds phenomenal-concept epiphenomenalism directly.
 - **Updated 2026-08-03**: reclassified as **not freely retireable on its first conjunct** under the foundational-dependency test — retiring the decisive-burden claim would leave [Tenet 3](/tenets/#bidirectional-interaction) holding a commitment with corroborating evidence but no principal argument. The scope-limiting second conjunct stays freely retireable. Claim, calibration and dependencies are unchanged; what changes is that the entry now records which half a retirement could take.
-- **Last reviewed**: 2026-08-03
+- **Updated 2026-09-05**: the phenomenal-concept roster corrected — Frankish 2016 and Dennett removed, Balog 2012 restored alongside Loar 1990 and Papineau 2002 — matching [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) and [P-D1](/positions/arguments-for-dualism/#p-d1); Frankish and Dennett are illusionists, and the reply the entry concedes presupposes a phenomenal referent that illusionism denies. The illusionist reply is now marked as a separate move met at a framework boundary rather than absorbed into the concession. Claim, calibration bands and dependencies are unchanged.
+- **Last reviewed**: 2026-09-05
 
 ## P-MC2: Self-stultification establishes an existential claim where Tenet 3 asserts a universal one, and the gap is closed by commitment rather than by the argument
 

@@ -4,7 +4,7 @@ description: "Consciousness as causally inert byproduct. Self-stultification bur
 created: 2026-01-09
 modified: 2026-05-15
 human_modified: null
-ai_modified: 2026-09-02T20:08:52+00:00
+ai_modified: 2026-09-05T10:28:06+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -95,7 +95,7 @@ The problem generalizes. If epiphenomenalism is true, your reasoning about consc
 
 This makes epiphenomenalism epistemically self-undermining—not logically contradictory, since it could still be true, but hard to hold consistently in its bare-correlation form. Any evidence you might have for it can only reach your beliefs through causally inert consciousness, which (if epiphenomenalism is true) means it doesn't reach them at all. The [[metaproblem-of-consciousness-under-dualism|metaproblem of consciousness]] provides another angle: the zombie philosopher writes the same papers about the hard problem, making the accuracy of our problem intuitions coincidental—a fatal weakness that interactionism avoids.
 
-The pressure has a recognised escape, and the Map concedes it. The bare-correlation reply—that a tight phenomenal-to-neural correlation can underwrite report accuracy without phenomenal causation—leaves report-reliability hanging on a contested premise: whether knowing one's experience requires causal traffic from it. The [[phenomenal-concepts-strategy|phenomenal-concept strategy]] (Loar 1990, Papineau 2002, Frankish 2016) does better. Phenomenal concepts are themselves physically realised states referring to physical states of the same brain, so the states *producing* reports are the states the reports *describe*, and the self-undermining charge dissolves. The dispute relocates rather than ends: it moves to whether the first-person mode of presentation can be exhaustively physically characterised, which the Map denies. The argument therefore decisively burdens bare-correlation epiphenomenalism while the phenomenal-concept version survives by moving the dispute; the [[arguments/epiphenomenalism-argument|cumulative case]] and the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet state the concession in full.
+The pressure has a recognised escape, and the Map concedes it. The bare-correlation reply—that a tight phenomenal-to-neural correlation can underwrite report accuracy without phenomenal causation—leaves report-reliability hanging on a contested premise: whether knowing one's experience requires causal traffic from it. The [[phenomenal-concepts-strategy|phenomenal-concept strategy]] (Loar 1990, Papineau 2002, Balog 2012) does better. Phenomenal concepts are themselves physically realised states referring to physical states of the same brain, so the states *producing* reports are the states the reports *describe*, and the self-undermining charge dissolves. The dispute relocates rather than ends: it moves to whether the first-person mode of presentation can be exhaustively physically characterised, which the Map denies. The argument therefore decisively burdens bare-correlation epiphenomenalism while the phenomenal-concept version survives by moving the dispute; the [[arguments/epiphenomenalism-argument|cumulative case]] and the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet state the concession in full. Illusionism (Frankish 2016) is a separate reply that the concession does not absorb—it denies that there is any phenomenal referent for a phenomenal concept to present—and the Map meets it at a framework boundary rather than inside the phenomenal-concept strategy's terms; [[self-stultification-as-master-argument]] and [[illusionism#Structural Convergence with Epiphenomenalism|illusionism]] mark that boundary.
 
 ### The AI Exception: Some vs. All
 
@@ -235,3 +235,7 @@ The self-stultification problem remains the strongest objection: bare-correlatio
 1. Inoue, S. & Matsuzawa, T. (2007). "Working memory of numerals in chimpanzees." *Current Biology*, 17(23), R1004-R1005.
 1. Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
 1. Goyal, M., Singh, S., Sibinga, E. M. S., et al. (2014). Meditation Programs for Psychological Stress and Well-Being. *JAMA Internal Medicine*, 174(3), 357-368.
+1. Loar, B. (1990). "Phenomenal States." *Philosophical Perspectives*, 4, 81-108.
+1. Papineau, D. (2002). *Thinking About Consciousness*. Oxford University Press.
+1. Balog, K. (2012). "In Defense of the Phenomenal Concept Strategy." *Philosophy and Phenomenological Research*, 84(1), 1-23.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.

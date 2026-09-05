@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-06-22 07:32:46+00:00
+ai_modified: 2026-09-05 10:28:06+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 13:26:31+00:00
-lastmod: 2026-06-22 07:32:46+00:00
+lastmod: 2026-09-05 10:28:06+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,7 +76,7 @@ The problem generalizes:
 
 This puts the *bare-correlation* version of epiphenomenalism under severe pressure. It is not logically contradictory—it could still be true—but it is hard to hold consistently: if your reports about consciousness carry no causal traffic from consciousness, the grounds on which you believe them grow thin. The conditional force holds for that version: anyone who believes bare-correlation epiphenomenalism on the basis of introspective evidence owes an account of how the evidence reached the belief.
 
-The pressure has a recognised escape, and the Map concedes it. The [phenomenal-concept strategy](/concepts/phenomenal-concepts-strategy/) (Frankish 2016, Papineau 2002, Loar 1990, late Dennett) handles the objection more directly: phenomenal concepts are themselves physically realised representational states referring to physical states of the same brain, so the states *producing* the reports are the states the reports *describe*. Reports are causally connected to their referents without phenomenal causation, and the self-undermining charge dissolves. The disagreement then *relocates rather than ends*: it moves to whether the first-person mode of presentation under which phenomenal concepts refer can be exhaustively physically characterised—the Map holds it cannot; phenomenal-concept theorists hold it can. That is a live question, treated in the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. So the self-stultification argument decisively burdens bare-correlation epiphenomenalism while the sophisticated phenomenal-concept version survives by moving the dispute, not by escaping it.
+The pressure has a recognised escape, and the Map concedes it. The [phenomenal-concept strategy](/concepts/phenomenal-concepts-strategy/) (Loar 1990, Papineau 2002, Balog 2012) handles the objection more directly: phenomenal concepts are themselves physically realised representational states referring to physical states of the same brain, so the states *producing* the reports are the states the reports *describe*. Reports are causally connected to their referents without phenomenal causation, and the self-undermining charge dissolves. The disagreement then *relocates rather than ends*: it moves to whether the first-person mode of presentation under which phenomenal concepts refer can be exhaustively physically characterised—the Map holds it cannot; phenomenal-concept theorists hold it can. That is a live question, treated in the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. So the self-stultification argument decisively burdens bare-correlation epiphenomenalism while the sophisticated phenomenal-concept version survives by moving the dispute, not by escaping it. Illusionism (Frankish 2016) is a different reply again, and the concession does not extend to it: it denies that there is any phenomenal referent for a phenomenal concept to present, so the Map meets it at a framework boundary rather than inside the phenomenal-concept strategy's terms—see [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) and [illusionism](/concepts/illusionism/#structural-convergence-with-epiphenomenalism).
 
 ## Argument 2: The Evolutionary Objection
 
@@ -237,6 +237,7 @@ The arguments against epiphenomenalism directly support the Map's framework:
 
 ## References
 
+- Balog, K. (2012). "In Defense of the Phenomenal Concept Strategy." *Philosophy and Phenomenological Research*, 84(1), 1-23.
 - Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65(6), 061901.

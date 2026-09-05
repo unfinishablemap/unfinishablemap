@@ -3,7 +3,7 @@ title: "Against Materialism"
 created: 2026-01-06
 modified: 2026-07-29
 human_modified: 2026-01-06
-ai_modified: 2026-08-18T14:08:56+00:00
+ai_modified: 2026-09-05T10:28:06+00:00
 draft: false
 description: "Why materialism cannot in principle explain consciousness, not merely hasn't yet — hard problem, zombie argument, epiphenomenalism, quantum indeterminacy."
 topics:
@@ -83,7 +83,7 @@ If consciousness is not entailed by physical facts, one might think it is epiphe
 
 This puts the *bare-correlation* version of epiphenomenalism—on which experience merely accompanies the brain states that produce our talk—under severe pressure. You are, right now, thinking about consciousness. If consciousness were epiphenomenal in that way, your utterances about it would be caused entirely by brain states that are not themselves caused by experience. The brain state causing your utterance exists in the zombie too, and the zombie makes the same utterance about nothing. If your utterance has the same causal history as the zombie's, what makes yours meaningful?
 
-The pressure has a recognised escape, and the Map concedes it. The [[concepts/phenomenal-concepts-strategy|phenomenal-concept strategy]] (Frankish 2016, Papineau 2002, Loar 1990, late Dennett) makes phenomenal concepts physically realised representational states that refer to the very brain states producing the reports, so report-reliability holds without phenomenal causation and the self-undermining charge dissolves—a different job from the one Chalmers's dilemma presses the strategy on above. The disagreement then relocates rather than ending: it moves to whether the first-person mode of presentation under which such concepts refer can be exhaustively physically characterised. The Map holds it cannot, and holds [[bidirectional-interaction|Bidirectional Interaction]] on that calibrated basis rather than on a claim that the argument refutes epiphenomenalism from inside the epiphenomenalist's framework. See [[arguments/epiphenomenalism-argument|Against Epiphenomenalism]] for the full treatment.
+The pressure has a recognised escape, and the Map concedes it. The [[concepts/phenomenal-concepts-strategy|phenomenal-concept strategy]] (Loar 1990, Papineau 2002, Balog 2012) makes phenomenal concepts physically realised representational states that refer to the very brain states producing the reports, so report-reliability holds without phenomenal causation and the self-undermining charge dissolves—a different job from the one Chalmers's dilemma presses the strategy on above. The disagreement then relocates rather than ending: it moves to whether the first-person mode of presentation under which such concepts refer can be exhaustively physically characterised. The Map holds it cannot, and holds [[bidirectional-interaction|Bidirectional Interaction]] on that calibrated basis rather than on a claim that the argument refutes epiphenomenalism from inside the epiphenomenalist's framework. Illusionism (Frankish 2016) is a separate reply that the concession does not absorb—it denies that there is any phenomenal referent for a phenomenal concept to present—and the Map meets it at a framework boundary rather than inside the phenomenal-concept strategy's terms, as [[topics/self-stultification-as-master-argument|self-stultification as master argument]] and [[illusionism#Structural Convergence with Epiphenomenalism|illusionism]] set out. See [[arguments/epiphenomenalism-argument|Against Epiphenomenalism]] for the full treatment.
 
 Elitzur (1989) argued that the very fact that we discuss consciousness is evidence it is not epiphenomenal, and reasoned from there to [[interactionist-dualism|interactionist dualism]]. An epiphenomenon could not, on its face, influence the neurons that move our mouths or type our words; the conversation suggests downward causation. Chalmers, who reports the argument, is its notable dissenter: he holds epiphenomenalism counterintuitive but not obviously false, and judges that few arguments do it serious damage.
 
@@ -161,13 +161,17 @@ None of this proves dualism. But materialism—in all its forms—does not work,
 
 ## References
 
+- Balog, K. (2012). "In Defense of the Phenomenal Concept Strategy." *Philosophy and Phenomenological Research*, 84(1), 1-23.
 - Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 - Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
 - Dennett, D. (1991). *Consciousness Explained*. Little, Brown and Company.
 - Elitzur, A. C. (1989). "Consciousness and the Incompleteness of the Physical Explanation of Behavior." *The Journal of Mind and Behavior*, 10(1), 1-19.
+- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Hagan, S., Hameroff, S., & Tuszyński, J. (2002). "Quantum Computation in Brain Microtubules: Decoherence and Biological Feasibility." *Physical Review E*, 65(6), 061901.
 - Hameroff, S. & Penrose, R. (2014). "Consciousness in the Universe: A Review of the 'Orch OR' Theory." *Physics of Life Reviews*, 11(1), 39-78.
 - Luo, J., Hungerland, J., Solov'yov, I.A., Subotnik, J.E., & Hammes-Schiffer, S. (2025). "Protein and Solvent Reorganization Drives Radical Pair Stability in Avian Cryptochrome 4a." *Journal of the American Chemical Society*, 147, 43934-43945.
+- Loar, B. (1990). "Phenomenal States." *Philosophical Perspectives*, 4, 81-108.
+- Papineau, D. (2002). *Thinking About Consciousness*. Oxford University Press.
 - Stapp, H. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Tegmark, M. (2000). "Importance of Quantum Decoherence in Brain Processes." *Physical Review E*, 61(4), 4194-4206.
 - von Neumann, J. (1932/1955). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
