@@ -92,14 +92,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-09-05
 
-### P2: `positions/moral-status` P-MS2 — re-grade maturity and fill `Argued in` now that the enhancement article carries the upward argument and the discriminator case
-- **Type**: positions-evolve
-- **File**: obsidian/positions/moral-status.md
-- **Status**: pending
-- **Notes**: Queued by the 2026-09-05 refine of `topics/ethics-of-cognitive-enhancement-under-dualism` (the C6 task), as that task's notes instructed. The article now carries, under "Enhancement and Moral Status": the upward direction argued through three enhancement cases; the affirmative equality ground (equal consideration of equal interests) separated from the consistency ground; the discriminator case (two persons, the same pain fixed by construction, one enhanced — sliding-scale status permits shifting the pain onto the unenhanced patient, threshold status forbids it, and no stakes reassignment reproduces the divergence); and the argument against the roster (Kagan 2019 in-framework via practical realism, the superior-beings reply and the argument from distribution; DeGrazia 2008's own test case at p. 188 adopted; Sebo 2025 read as credence-weighting over a threshold rather than a rival). Actions: (1) `Argued in` — replace "argued in no article yet … currently silent" with the enhancement article and drop the "orphan by audit check 3" line if check 3 now passes; (2) model maturity programme → developed, credence unchanged (still capped by P-MS1 and P-VS4); (3) the `Would shift if` limb on a gradualist reason surviving translation — note that the article's case is the standing test and that Kagan's acceptance of superior beings counting for more is the live pressure on it; (4) the utility-monster sentence in *Asserts* — the article now says the relocation is "not verdict-inert, not that it is costless"; align the wording; (5) a dated calibration-history note. Do NOT re-run the coma / derivative-duties paragraph — landed 2026-09-05. Check whether the invertebrate-question P2 task has run before listing that article under `Argued in`; if not, list the enhancement article only.
-- **Source**: refine-draft (task chain)
-- **Generated**: 2026-09-05
-
 ### P2: `positions/methodology-and-calibration` review-discipline conventions — weigh a fifth: the rival to beat for a normative position is a named, published, current author, never the Map's own reviewers
 - **Type**: positions-evolve
 - **File**: obsidian/positions/methodology-and-calibration.md
@@ -2150,6 +2142,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-05: `positions/moral-status` P-MS2 — re-grade maturity and fill `Argued in` now that the enhancement article carries the upward argument and the discriminator case
+- **Type**: positions-evolve
+- **File**: obsidian/positions/moral-status.md
+- **Notes**: Queued by the 2026-09-05 refine of `topics/ethics-of-cognitive-enhancement-under-dualism` (the C6 task), as that task's notes instructed. The article now carries, under "Enhancement and Moral Status": the upward direction argued through three enhancement cases; the affirmative equality ground (equal consideration of equal interests) separated from the consistency ground; the discriminator case (two persons, the same pain fixed by construction, one enhanced — sliding-scale status permits shifting the pain onto the unenhanced patient, threshold status forbids it, and no stakes reassignment reproduces the divergence); and the argument against the roster (Kagan 2019 in-framework via practical realism, the superior-beings reply and the argument from distribution; DeGrazia 2008's own test case at p. 188 adopted; Sebo 2025 read as credence-weighting over a threshold rather than a rival). Actions: (1) `Argued in` — replace "argued in no article yet … currently silent" with the enhancement article and drop the "orphan by audit check 3" line if check 3 now passes; (2) model maturity programme → developed, credence unchanged (still capped by P-MS1 and P-VS4); (3) the `Would shift if` limb on a gradualist reason surviving translation — note that the article's case is the standing test and that Kagan's acceptance of superior beings counting for more is the live pressure on it; (4) the utility-monster sentence in *Asserts* — the article now says the relocation is "not verdict-inert, not that it is costless"; align the wording; (5) a dated calibration-history note. Do NOT re-run the coma / derivative-duties paragraph — landed 2026-09-05. Check whether the invertebrate-question P2 task has run before listing that article under `Argued in`; if not, list the enhancement article only.
 
 ### ✓ 2026-09-05: `topics/ethics-of-consciousness-invertebrate-question` L91 answers aggregation with an agent-side gradient and never says patient status is untouched — the passage reads as scalar status by the back door, which P-MS2 rejects
 - **Type**: refine-draft
