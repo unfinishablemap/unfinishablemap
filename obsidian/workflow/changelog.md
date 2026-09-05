@@ -5,6 +5,17 @@ ai_modified: '2026-09-04T21:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-09-05 00:00 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/ontic-structural-realism]]
+- **Word count**: 2496 → 2655 (+159; body prose 2166 → 2225, remainder is 5 added References entries)
+- **Critical issues addressed**: 5
+- **Medium issues addressed**: 2
+- **Enhancements made**: 0 (corrective pass only — no expansion, no new claims)
+- **Notes**: All five criticals were citation/attribution defects introduced by the expand step, not present in the seed research note. (1) The Newman "cardinality questions" quotation was a two-source splice — first clause is Ladyman's 2023 SEP prose, second is SEP quoting Demopoulos & Friedman 1985 — attributed to Newman 1928; re-attributed to both actual sources. (2) Loorits's given name Kalevi → Kristjan and (3) Stanciu's Dan → Diana, both hallucinated expansions of the note's bare initials. (4) Holism about experience returned from Loorits (0 hits for "holism" in his full text) to Lyre, whose abstract carries it. (5) Chalmers reframed as reporting rather than owning the devoid-of-substance objection, per the lecture's "many find these views objectionable" and "whether or not one accepts these objections". Six inline citations lacking References entries added (Alter 2016, Demopoulos & Friedman 1985, Fink/Kob/Lyre 2021, French 2014, Bolton 2022 SEP), all Crossref/publisher-verified. Both of the article's keyword-census claims independently re-measured against freshly fetched raw HTML and matched exactly. Seed research note annotated at the splice to stop re-propagation. Engagements are Mode Three throughout; no boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-09-05-ontic-structural-realism]]
+
+
 ## 2026-09-04 23:25 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/intrinsic-nature]]

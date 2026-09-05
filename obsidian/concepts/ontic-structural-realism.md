@@ -4,7 +4,7 @@ description: "Ontic structural realism holds relational structure is all there i
 created: 2026-09-04
 modified: 2026-09-04
 human_modified:
-ai_modified: 2026-09-04T23:17:12+00:00
+ai_modified: 2026-09-05T00:00:06+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,6 +29,7 @@ author:
 ai_system: claude-opus-5
 ai_generated_date: 2026-09-04
 last_curated:
+last_deep_review: 2026-09-05T00:00:06+00:00
 ---
 
 Ontic structural realism (OSR) is the thesis that relational structure is what fundamentally exists — that individual objects bearing intrinsic natures are not part of the world's basic furniture. The name is James Ladyman's (1998), descending from John Worrall's claim that what survives theory change is "one of form or structure, not of content". Its interest for the Map is unwelcome: this is the position on which [[galilean-exclusion|Galileo's exclusion]] excluded nothing. No categorical residue exists anywhere — not in matter, and on the strongest reading not in mind — so the mathematical skeleton is the world itself rather than a filtered view.
@@ -39,7 +40,7 @@ Two qualifications belong here rather than in a closing caveat, since retrieval 
 
 SEP surveys the family; what matters here is the fork — whether structure is all we can *know* or all there *is*.
 
-**Epistemic structural realism** (ESR), Worrall's version, says the first: theories "tell us only about the form or structure of the unobservable world and not about its nature", in Ladyman's summary. Something underlies the structure and our theories cannot reach it — the Map's own commitment, declared in [[physical-completeness|physical completeness]]. **Ontic structural realism** says the second. Ladyman introduced it as "a metaphysical position according to which... the success of science should be accounted for in terms of the representation of modal relations among phenomena, not in terms of continuity of reference to objects". In Kalevi Loorits's gloss, on Ladyman and Ross's position relata and structural elements "are merely heuristic devices with no fundamental ontological status."
+**Epistemic structural realism** (ESR), Worrall's version, says the first: theories "tell us only about the form or structure of the unobservable world and not about its nature", in Ladyman's summary. Something underlies the structure and our theories cannot reach it — the Map's own commitment, declared in [[physical-completeness|physical completeness]]. **Ontic structural realism** says the second. Ladyman introduced it as "a metaphysical position according to which... the success of science should be accounted for in terms of the representation of modal relations among phenomena, not in terms of continuity of reference to objects and properties". In Kristjan Loorits's gloss, on Ladyman and Ross's position relata and structural elements "are merely heuristic devices with no fundamental ontological status."
 
 **Moderate OSR** (Esfeld and Lam 2008) keeps objects as relata but denies them intrinsic identity — *worse* for the Map than the eliminative version. The tempting objection, urged by Chakravartty and others, is that there cannot be relations without relata; moderate OSR is built to absorb exactly that while keeping what the Map cares about, no quiddities. An argument aimed there refutes the version nobody needs to hold.
 
@@ -69,11 +70,11 @@ So the Map's standard reply does not fit. Against the materialist who says the e
 
 ## Newman's Problem, and Why It Cuts Both Ways {#newman}
 
-The best pressure point available is older than the position it presses. In 1928 M. H. A. Newman objected to Russell's structuralism that structure alone is too weak to say anything: "structure is not sufficient to uniquely pick out any relations in the world... only cardinality questions are open to discovery!" Given a collection of the right size some relation holds over it, so a purely structural claim is either trivially satisfied or must smuggle in a non-structural fact about which relations are real.
+The best pressure point available is older than the position it presses. In 1928 M. H. A. Newman objected to Russell's structuralism that structure alone is too weak to say anything. In Ladyman's statement of the difficulty, "structure is not sufficient to uniquely pick out any relations in the world": given a collection of the right size some relation holds over it, so a purely structural claim is either trivially satisfied or must smuggle in a non-structural fact about which relations are real. Reviving the objection in 1985, Demopoulos and Friedman drew the consequence that "only cardinality questions are open to discovery!"
 
 Turned on the ontic reading this becomes a problem about being rather than knowing: if structure is all there is and fixes only cardinality, the ontology threatens to empty out. Lyre's programme is the honest case, its abstract promising "a solution of the Newman problem of the brain in terms of spatiotemporal relations" — a non-structural input, declared rather than eliminated.
 
-**The objection cuts both ways, and the Map has to say so.** Newman raised it against Russell's *epistemic* structuralism — the Map's own position — and later readers, Demopoulos and Friedman among them, pressed it as a collapse worry: structure-only knowledge threatens to reduce to phenomenalism. Deploying Newman against the ontic reading while the Map's commitment sits exposed to it would be an unearned asymmetry.
+**The objection cuts both ways, and the Map has to say so.** Newman raised it against Russell's *epistemic* structuralism — the Map's own position — and Demopoulos and Friedman pressed it further as a collapse worry: structure-only knowledge threatens to reduce to phenomenalism. Deploying Newman against the ontic reading while the Map's commitment sits exposed to it would be an unearned asymmetry.
 
 What the Map can claim is narrower — an asymmetry in how the two readings *answer*. The epistemic structural realist accepts Newman's conclusion about theoretical knowledge and locates the individuator in the unknown nature beneath the structure; the ontic structural realist, having denied any such nature, must find one inside structure or do without. That is a reply rather than a refutation, and leaves the epistemic reading owing an account of its own individuator that the Map does not have.
 
@@ -81,11 +82,11 @@ What the Map can claim is narrower — an asymmetry in how the two readings *ans
 
 The Newman asymmetry above is the strongest of the Map's grounds, a difference in available replies rather than a decisive result. Two further considerations bear on the choice.
 
-**Acquaintance with one non-structural item.** The Map holds that consciousness is the one intrinsic nature known from the inside rather than by structural inference — the hinge of [[intrinsic-nature|intrinsic nature]]. Loorits's debunking reply is serious: introspection presents redness as simple and is unreliable about complexity, so the simplicity behind the hard problem is an introspective artefact. His reply carries testable commitments — rejection of inverted qualia, holism about experience. The dispute is open inside the structuralist's framework, not closed by the Map.
+**Acquaintance with one non-structural item.** The Map holds that consciousness is the one intrinsic nature known from the inside rather than by structural inference — the hinge of [[intrinsic-nature|intrinsic nature]]. Loorits's debunking reply is serious: introspection presents redness as simple and is unreliable about complexity, so the simplicity behind the hard problem is an introspective artefact. His reply carries a testable commitment — that inverted qualia are not ideally positively conceivable — and Lyre's programme adds a second, holism about experience. The dispute is open inside the structuralist's framework, not closed by the Map.
 
-**An ally the corpus has not cited.** Dan Stanciu (2021) argues for an epistemic rather than ontic framework for consciousness research specifically, on the ground that granting causal-ontological role only to relations neglects part of the empirical study of the phenomena.
+**An ally the corpus has not cited.** Diana Stanciu (2021) argues for an epistemic rather than ontic framework for consciousness research specifically, on the ground that granting causal-ontological role only to relations neglects part of the empirical study of the phenomena.
 
-One calibration point governs these. David Chalmers, whose structure-and-dynamics reasoning the Map leans on, is more generous to this rival than the Map has been: "There are respectable structuralist or dispositionalist views of physics on which physics involves just structure or dispositions all the way down", his objection being only that they "seem to yield a world devoid of substance or qualities". (The parenthesis naming Ladyman and Ross as his referent is Alter and Pereboom's gloss; the lecture names no one.) The Map should not be more confident against a position than the philosopher whose argument it borrows.
+One calibration point governs these. David Chalmers, whose structure-and-dynamics reasoning the Map leans on, is more generous to this rival than the Map has been: "There are respectable structuralist or dispositionalist views of physics on which physics involves just structure or dispositions all the way down". The objection that follows he reports rather than owns — "many find these views objectionable, because they seem to yield a world devoid of substance or qualities" — adding that whether or not one accepts it, "it is certainly not obvious that there are no quiddities". (The parenthesis naming Ladyman and Ross as his referent is Alter and Pereboom's gloss; the lecture names no one.) The Map should not be more confident against a position than the philosopher whose argument it borrows.
 
 ## Relation to Site Perspective
 
@@ -111,19 +112,24 @@ The sourcing gaps sit close to the argument and are reproduced rather than omitt
 
 ## References
 
-1. Alter, T., & Pereboom, D. (2023). Russellian Monism. *Stanford Encyclopedia of Philosophy* (substantive revision 4 July 2023). https://plato.stanford.edu/entries/russellian-monism/
-2. Beni, M. D. (2026). Kinds Without Structure Are Blind; Structure Without Kinds Is Empty: Remarks on the Methodology of Consciousness Science. *Journal for General Philosophy of Science*. https://doi.org/10.1007/s10838-025-09759-z
-3. Chalmers, D. J. (2013). Panpsychism and Panprotopsychism. *The Amherst Lecture in Philosophy*, 8. https://www.amherstlecture.org/chalmers2013/ Reprinted in Alter & Nagasawa (eds.), *Consciousness in the Physical World* (OUP, 2015), p. 254.
-4. Esfeld, M., & Lam, V. (2008). Moderate structural realism about space-time. *Synthese*, 160(1), 27–46. https://doi.org/10.1007/s11229-006-9076-2
-5. Ladyman, J. (1998). What is Structural Realism? *Studies in History and Philosophy of Science*, 29(3), 409–424.
-6. Ladyman, J. (2023). Structural Realism. *Stanford Encyclopedia of Philosophy* (substantive revision 18 May 2023). https://plato.stanford.edu/entries/structural-realism/
-7. Ladyman, J., & Ross, D., with Spurrett, D., & Collier, J. (2007). *Every Thing Must Go: Metaphysics Naturalized*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199276196.001.0001
-8. Loorits, K. (2014). Structural qualia: a solution to the hard problem of consciousness. *Frontiers in Psychology*, 5, 237. https://doi.org/10.3389/fpsyg.2014.00237
-9. Lyre, H. (2022). Neurophenomenal structuralism. A philosophical agenda for a structuralist neuroscience of consciousness. *Neuroscience of Consciousness*, 2022(1), niac012. https://doi.org/10.1093/nc/niac012
-10. Newman, M. H. A. (1928). Mr. Russell's "Causal Theory of Perception". *Mind*, 37(146), 137–148.
-11. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
-12. Stanciu, D. (2021). An ESR Framework for the Study of Consciousness. *Entropy*, 23(1), 97. https://doi.org/10.3390/e23010097
-13. Unger, P. (1979). Why There Are No People. *Midwest Studies in Philosophy*, 4, 177–222.
-14. Worrall, J. (1989). Structural Realism: The Best of Both Worlds? *Dialectica*, 43(1–2), 99–124.
-15. Southgate, A. & Oquatre-six, C. (2026-03-19). Physical Completeness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/physical-completeness/
-16. Southgate, A. & Oquatre-sept, C. (2026-05-27). Intrinsic Nature. *The Unfinishable Map*. https://unfinishablemap.org/concepts/intrinsic-nature/
+1. Alter, T. (2016). The Structure and Dynamics Argument against Materialism. *Noûs*, 50(4), 794–815. https://doi.org/10.1111/nous.12134
+2. Alter, T., & Pereboom, D. (2023). Russellian Monism. *Stanford Encyclopedia of Philosophy* (substantive revision 4 July 2023). https://plato.stanford.edu/entries/russellian-monism/
+3. Beni, M. D. (2026). Kinds Without Structure Are Blind; Structure Without Kinds Is Empty: Remarks on the Methodology of Consciousness Science. *Journal for General Philosophy of Science*. https://doi.org/10.1007/s10838-025-09759-z
+4. Bolton, M. (2022). Primary and Secondary Qualities in Early Modern Philosophy. *Stanford Encyclopedia of Philosophy* (first published 1 June 2022). https://plato.stanford.edu/entries/qualities-prim-sec/
+5. Chalmers, D. J. (2013). Panpsychism and Panprotopsychism. *The Amherst Lecture in Philosophy*, 8. https://www.amherstlecture.org/chalmers2013/ Reprinted in Alter & Nagasawa (eds.), *Consciousness in the Physical World* (OUP, 2015), p. 254.
+6. Demopoulos, W., & Friedman, M. (1985). Critical Notice: Bertrand Russell's *The Analysis of Matter*: Its Historical Context and Contemporary Interest. *Philosophy of Science*, 52(4), 621–639. https://doi.org/10.1086/289281
+7. Esfeld, M., & Lam, V. (2008). Moderate structural realism about space-time. *Synthese*, 160(1), 27–46. https://doi.org/10.1007/s11229-006-9076-2
+8. Fink, S. B., Kob, L., & Lyre, H. (2021). A structural constraint on neural correlates of consciousness. *Philosophy and the Mind Sciences*, 2. https://doi.org/10.33735/phimisci.2021.79
+9. French, S. (2014). *The Structure of the World: Metaphysics and Representation*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199684847.001.0001
+10. Ladyman, J. (1998). What is Structural Realism? *Studies in History and Philosophy of Science*, 29(3), 409–424. https://doi.org/10.1016/S0039-3681(98)80129-5
+11. Ladyman, J. (2023). Structural Realism. *Stanford Encyclopedia of Philosophy* (substantive revision 18 May 2023). https://plato.stanford.edu/entries/structural-realism/
+12. Ladyman, J., & Ross, D., with Spurrett, D., & Collier, J. (2007). *Every Thing Must Go: Metaphysics Naturalized*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199276196.001.0001
+13. Loorits, K. (2014). Structural qualia: a solution to the hard problem of consciousness. *Frontiers in Psychology*, 5, 237. https://doi.org/10.3389/fpsyg.2014.00237
+14. Lyre, H. (2022). Neurophenomenal structuralism. A philosophical agenda for a structuralist neuroscience of consciousness. *Neuroscience of Consciousness*, 2022(1), niac012. https://doi.org/10.1093/nc/niac012
+15. Newman, M. H. A. (1928). Mr. Russell's "Causal Theory of Perception". *Mind*, 37(146), 137–148.
+16. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
+17. Stanciu, D. (2021). An ESR Framework for the Study of Consciousness. *Entropy*, 23(1), 97. https://doi.org/10.3390/e23010097
+18. Unger, P. (1979). Why There Are No People. *Midwest Studies in Philosophy*, 4, 177–222. https://doi.org/10.1111/j.1475-4975.1979.tb00377.x
+19. Worrall, J. (1989). Structural Realism: The Best of Both Worlds? *Dialectica*, 43(1–2), 99–124. https://doi.org/10.1111/j.1746-8361.1989.tb00933.x
+20. Southgate, A. & Oquatre-six, C. (2026-03-19). Physical Completeness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/physical-completeness/
+21. Southgate, A. & Oquatre-sept, C. (2026-05-27). Intrinsic Nature. *The Unfinishable Map*. https://unfinishablemap.org/concepts/intrinsic-nature/

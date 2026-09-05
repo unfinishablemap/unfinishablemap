@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-04
-ai_modified: 2026-09-04 23:20:00+00:00
+ai_modified: 2026-09-05 00:00:53+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
@@ -15,7 +15,7 @@ date: &id001 2026-09-04
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-04 23:20:00+00:00
+lastmod: 2026-09-05 00:00:53+00:00
 modified: *id001
 related_articles:
 - '[[primary-secondary-quality-boundary]]'
@@ -64,7 +64,7 @@ Sources are marked **[raw-verified]** where I retrieved the artefact and grepped
   - ESR is "the view that scientific theories tell us only about the form or structure of the unobservable world and not about its nature."
   - OSR was introduced by Ladyman (1998) as "a metaphysical position according to which, since the continuity in scientific change is of 'form or structure', the success of science should be accounted for in terms of the representation of modal relations among phenomena, not in terms of continuity of reference to objects." Worrall (1989) is its ancestor: "the continuity is one of form or structure, not of content."
   - The relations-without-relata objection: "there cannot be relations without relata. This objection has been made by various philosophers including Cao (2003b), Dorato (2000), Psillos (2001, 2006a), Busch (2003), Morganti (2004) and Chakravartty (1998, 2003) who says: 'one cannot intelligibly subscribe to the reality of relations unless one is also committed to the fact that some things are related.'"
-  - Newman's problem: "The basic problem is that structure is not sufficient to uniquely pick out any relations in the world... only cardinality questions are open to discovery!"
+  - Newman's problem: "The basic problem is that structure is not sufficient to uniquely pick out any relations in the world... only cardinality questions are open to discovery!" ⚠️ **Both halves are SEP's text, not Newman's**: the first clause is Ladyman's own 2023 prose stating the difficulty, and the second is SEP quoting Demopoulos and Friedman (1985: 627 [1989: 188]). Neither may be presented as a quotation from Newman 1928.
   - The single qualia mention: "Peter Unger (1979) also argues that our knowledge of the world is purely structural and that qualia are the non-structural components of reality."
 - **Keyword census (raw grep of the fetched HTML, ~170,502 chars of extracted text)**: consciousness 0 · conscious 0 · experience 0 · qualia 1 · phenomenal 2 · Galile 2 · relations-without-relata 4 · Esfeld 18 · French 46. Both "Galile" hits are Galilean *transformations* and Castellani's "Galilean Particles" — nothing about Galileo's exclusion.
 - **Tenet alignment**: Conflicts with Dualism if eliminative OSR is true and generalises to the mental. Neutral as stated, because it never addresses the mental.
