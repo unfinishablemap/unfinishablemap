@@ -267,3 +267,34 @@
   subject_articles:
   - positions/moral-status.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/adab4069-8f8a-48ea-a889-36bbeba824bb
+  commissioned_at: '2026-09-05T03:09:57.880218+00:00'
+  prompt_summary: Hostile-referee audit of positions/moral-status (P-MS1, P-MS2)
+  target_filename: outer-review-2026-09-05-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "You are a hostile referee. Audit one page on The Unfinishable Map\
+    \ (https://unfinishablemap.org), a dualist philosophy site whose articles are\
+    \ largely AI-generated under human editorial direction: https://unfinishablemap.org/positions/moral-status/\
+    \ \u2014 the register entries P-MS1 (phenomenal sentientism: valenced experience\
+    \ is necessary and sufficient for moral status, read phenomenally rather than\
+    \ functionally) and P-MS2 (moral status is threshold, not scalar; enhancement\
+    \ raises what is at stake in a life without raising its status). Assess: (1) whether\
+    \ deriving the status criterion from the Map's phenomenal value premise licenses\
+    \ the phenomenal qualification or smuggles it in; (2) whether the biocentrism\
+    \ reply via Feinberg's conation requirement engages the strongest current form\
+    \ of that objection; (3) whether the threshold verdict survives the moral-status\
+    \ gradualism literature (Kagan, DeGrazia, Sebo) and the marginal-cases pressure;\
+    \ (4) citation fidelity \u2014 verify quotes and attributions against sources;\
+    \ (5) calibration honesty \u2014 are the stated credences and evidence grades\
+    \ defensible? Recent site activity is at https://unfinishablemap.org/workflow/changelog/\
+    \ (note search indexes lag 24-48h). End your report with a list of concrete potential\
+    \ improvements to specific articles and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit moral-status
+  subject_articles:
+  - positions/moral-status.md
+  subject_source: reuse:pending-reviews:outer-review-2026-09-05-chatgpt-5-6-sol-pro.md
