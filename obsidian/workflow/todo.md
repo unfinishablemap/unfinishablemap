@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T01:41:11+00:00'
+ai_modified: '2026-09-05T04:31:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,87 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: `concepts/sentientism` L55 misattributes the conation narrowing to Feinberg — his conative-life list contains the very phrase the Map places outside conation (primary-source verified)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/sentientism.md
+- **Notes**: From outer review 2026-09-05 (ChatGPT 5.6 Pro), verified against Feinberg 1974 raw text. Feinberg writes that mere things have no conative life, "neither conscious wishes, desires, and hopes; nor urges and impulses; nor unconscious drives, aims, goals; nor latent tendencies, directions of growth, and natural fulfillments" — so "latent tendencies, directions of growth, and natural fulfillments" is the **fourth disjunct of conative life itself**. L55 instead treats that phrase as material outside conation which "yield[s] interests only as compounded with the conative", and narrows conation to "wanting rather than merely tending". On Feinberg's text, latent tendencies *are* conative, so the narrowing is not his. The adjacent quote "interests must be compounded somehow out of conations" is accurate but describes interests compounded out of conations, not tendencies compounded with conation. **Re-frame, do not delete**: L57 already declines to treat the reply as a refutation ("locates the disagreement rather than settling it"), so the Map's foundational commitment survives intact — what fails is the attribution. Present the narrow reading of conation as the Map's own stipulation departing from Feinberg's broader list, and say so explicitly. Then check whether the biocentrist objection at L55 still lands once Feinberg's actual list is stated, since on his wording the biocentrist's plant already satisfies one disjunct of conative life.
+- **Review file**: `reviews/outer-review-2026-09-05-chatgpt-5-6-sol-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-09-05
+  ⚠️ **PILEUP FLAG — five of this cycle's ten tasks target `concepts/sentientism.md`** (this one; the comatose-human case separation; the Attfield framing; the marginal-cases three-population merge; the Perry 2024 addition). The processing pass minted them per-finding without grepping the path against its own siblings ([[outer-review-same-file-task-pileup]]). They are genuinely distinct defects, so do **not** collapse them into one task — but whichever runs first should read the other four and consolidate any that touch the same paragraph, then rewrite the discharged siblings as ✓ rather than leaving them to re-open the same prose. The Perry 2024 addition is a mechanical citation insert and should stay on its own per that memory's step 3.
+
+### P1: `positions/moral-status` L49 says P-MS1 "derives" from P-VS3, but the derivation sentence covers only necessity while P-MS1 asserts a biconditional whose sufficiency half `consciousness-value-connection` L126 disowns
+- **Type**: positions-evolve
+- **File**: obsidian/positions/moral-status.md
+- **Notes**: From outer review 2026-09-05 (ChatGPT 5.6 Pro). Both sides verified verbatim. `concepts/consciousness-value-connection` L126: the converse — that consciousness suffices for moral status — "is not delivered by that argument, and the Map holds it as a further commitment rather than a corollary". `positions/moral-status` L49: "the Map derives the first from the second", where "the first" is P-MS1, asserted as "both necessary and sufficient". The derivation actually spelled out is the **necessity** direction only (no subject, hence a description to be reported rather than a perspective that can be wronged). The reviewer called this a direct contradiction; on inspection it is a scope mismatch, which is the more precise and more fixable defect. Repair: scope the "derives" language to the necessity direction, mark sufficiency as the further normative commitment its parent article already calls it, and add that commitment to *Depends on* (it is currently absent). The reviewer's stronger request — a formal statement of all five bridge premises (status bridge, welfare exclusivity, beneficiary bridge, bearer identity, grounds exclusivity) — is optional scope; the minimum fix is the scoping and the dependency.
+- **Review file**: `reviews/outer-review-2026-09-05-chatgpt-5-6-sol-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-09-05
+
+### P1: the comatose human is load-bearing for P-MS2's consistency argument while `concepts/sentientism` protects that same human on non-status grounds — one shared account is owed
+- **Type**: refine-draft
+- **File**: obsidian/concepts/sentientism.md
+- **Notes**: From outer review 2026-09-05 (ChatGPT 5.6 Pro). Verified. `positions/moral-status` L61 asserts that removing the capacity for valenced experience "takes status with it" and, in the same sentence, appeals to the Map having "already declined to let a comatose human's status fall with their capacity" — using that refusal to block the upward scalar reading. `concepts/sentientism` L89 secures the same human through "trajectory, history, and standing relationships rather than ... present capacity", and frames the case as *stakes* rather than status. So the case doing consistency work for P-MS2 is protected elsewhere by grounds the status criterion does not recognise. Separate the cases the two articles currently merge: temporary coma with retained dispositional capacity; irreversible loss of the capacity; historical capacity; prior wishes; relationship-generated duties. Then state plainly whether an irreversibly non-sentient human retains **intrinsic** moral status on P-MS1, or retains strong duties owed concerning them without intrinsic status. Either answer is defensible; leaving both live is what P-MS2's consistency argument cannot afford.
+- **Review file**: `reviews/outer-review-2026-09-05-chatgpt-5-6-sol-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-09-05
+
+### P2: `topics/phenomenal-normativity-environmental-ethics` is listed as arguing P-MS1 but opposes ecocentrism throughout, never engaging the biocentrism the register calls "the rival to beat"
+- **Type**: refine-draft
+- **File**: obsidian/topics/phenomenal-normativity-environmental-ethics.md
+- **Notes**: From outer review 2026-09-05 (ChatGPT 5.6 Pro). Verified by grep: zero mentions of Taylor, Attfield, Varner or "biocentrism" in the article; nine of ecocentrism/ecocentrist. Meanwhile `positions/moral-status` L51 lists it under "Argued in" and L49 names biocentrism the live rival "rather than ecocentrism". Add a dedicated biocentrism section addressing Taylor's teleological centres, Attfield's standing/significance split and Varner's hybrid priority structure. **Apply the direct-refutation discipline.** The reviewer's charge on the existing reply is dialectical restatement: the Map answers biocentrism with "normative teleology requires an experiencer", which is the proposition under dispute. Identify what kind of engagement is available — showing the biocentrist position defective on its own terms, naming an unsupported foundational move it has not earned by its own standards, or honestly marking the framework-boundary disagreement — and apply the corresponding reply mode in **natural journal-quality prose** (see the writing-style guide's "Engaging Opponents in Journal-Quality Prose"). **Do not expose mode labels in the article body**; the classification is editor-internal and belongs in the changelog entry. Candidate in-framework lines the reviewer names: why benefit and harm are conceptually phenomenal rather than merely biological; why duties for an entity's own sake require phenomenally accessible interests; why a living entity's good can generate indirect reasons but never status-conferring ones. If an in-framework refutation is attempted and fails, say in natural language that the disagreement sits closer to bedrock than it first appeared. Also correct the "Argued in" list if the article still does not carry P-MS1 after the fix.
+- **Review file**: `reviews/outer-review-2026-09-05-chatgpt-5-6-sol-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-09-05
+
+### P2: `concepts/sentientism` L49 casts Attfield as a hierarchical biocentrist "denying the equality" — his 1987 article may instead implement the Map's own threshold-status / graded-stakes architecture
+- **Type**: refine-draft
+- **File**: obsidian/concepts/sentientism.md
+- **Notes**: From outer review 2026-09-05 (ChatGPT 5.6 Pro). **Partly unverified — check before rewriting.** Crossref confirms the article is real: R. Attfield, "Biocentrism, Moral Standing and Moral Significance", *Philosophica* 39 (1987), DOI `10.21825/philosophica.82495`; its title independently corroborates a standing/significance distinction. What could NOT be verified is the substantive claim that Attfield holds universal standing **plus equal considerability** **plus** graded significance — the Philosophica URL returns HTML rather than the PDF. Retrieve the article at the publisher of record before changing the foil description: precedence is publisher > Crossref record for the cited DOI > aggregators. If it holds, the consequence is significant — Attfield would be a biocentric implementation of the very architecture P-MS2 asserts, so he cannot be used as a foil who concedes the Map's structure, and his beneficence bridge (all living beings have goods of their own; whatever has a good of its own has moral standing) needs rebutting rather than answering with the Map's rival phenomenal bridge. Also replace the unpaginated `A Theory of Value and Obligation` (Croom Helm, 1987) bibliography entry with a pinpoint citation to whichever text actually supports the proposition being used.
+- **Review file**: `reviews/outer-review-2026-09-05-chatgpt-5-6-sol-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-09-05
+
+### P2: P-MS1 and P-MS2 carry empirical axes (D / none) that the calibration schema reserves for non-normative positions, and both read "developed" while P-MS2 is self-declared an orphan
+- **Type**: positions-evolve
+- **File**: obsidian/positions/moral-status.md
+- **Notes**: From outer review 2026-09-05 (ChatGPT 5.6 Pro). The schema in `positions/methodology-and-calibration` treats external-evidence grade and empirical discriminability as n/a for normative positions; P-MS1 currently carries D / indirect and P-MS2 D / none, though both are claims about what grounds standing. The maturity band is the sharper issue: `positions/moral-status` L63 registers P-MS2's upward direction as "an orphan by audit check 3, disclosed rather than papered over" (confirmed — P-MS2 occurs in no article, only in `moral-status.md` and `positions.md`), yet its maturity still reads *developed*. The same pattern holds for P-MS1, whose welfare-to-status and moment-to-subject transitions the review shows are unworked. This is the failure mode P-M5 warns against: disclosure that coexists with an unchanged downstream band instead of narrowing it. Decide deliberately whether the empirical axes should be n/a and whether either entry should drop to *programme*; the reviewer also proposes decomposing P-MS1 (sufficiency, necessity, phenomenal-vs-functional, momentary locus, standing capacity) so each conjunct is calibrated separately rather than inheriting P-VS3's ceiling — treat that as a proposal to weigh, not a settled instruction, since splitting has its own costs to the register's readability.
+- **Review file**: `reviews/outer-review-2026-09-05-chatgpt-5-6-sol-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-09-05
+
+### P2: `concepts/sentientism` L39 merges three populations into one marginal-cases clause, only one of which bears on a valence criterion
+- **Type**: refine-draft
+- **File**: obsidian/concepts/sentientism.md
+- **Notes**: From outer review 2026-09-05 (ChatGPT 5.6 Pro). Verified. L39 groups "infants, the severely cognitively impaired, the comatose" as those "whose protection nobody is willing to withdraw". Infants and most severely cognitively impaired humans are capable of valenced experience, so they are marginal only against rationality, language or autobiographical-memory thresholds — the argument's actual target. Only the permanently unconscious human is a marginal case for P-MS1 itself. The conflation lets the marginal-cases argument look like it transfers intact from cognitive thresholds to sentientism when it does not. Separate the populations, and soften "nobody is willing to withdraw", which is too sweeping for the third group — the intrinsic status of the permanently unconscious is actively disputed in the literature. Coordinate with the coma task above so both land on one account.
+- **Review file**: `reviews/outer-review-2026-09-05-chatgpt-5-6-sol-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-09-05
+
+### P2: `topics/ethics-under-dualism` L108 sets the criterion at "all conscious beings" and L162 at felt valence — an affectively neutral conscious being moves in and out of the moral circle by paragraph
+- **Type**: refine-draft
+- **File**: obsidian/topics/ethics-under-dualism.md
+- **Notes**: From outer review 2026-09-05 (ChatGPT 5.6 Pro). Verified. L108: "Moral patienthood extends to all conscious beings, but only to conscious beings." L162: the Map's phenomenal value realism "commits it to phenomenal sentientism — the criterion is felt valence". P-MS1 requires the narrower formulation, so L108 should be brought to "all beings capable of valenced experience" unless the article means to defend status for affectively neutral conscious agents separately. The Map already has the machinery for this case: `concepts/consciousness-value-connection` L130 raises Joshua Shepherd's Vulcan — conscious but wholly without affect, clearing the consciousness bar while having nothing that could go well or badly for it — and concludes the commitment holds "for valenced experience rather than experience as such". Cross-link that treatment rather than re-arguing it. Note the reviewer proposed adding Shepherd as a *missing* source; that is false at site level (Shepherd appears in nine files) though the case is genuinely absent from `concepts/sentientism` and `positions/moral-status`, where adding it would be worthwhile.
+- **Review file**: `reviews/outer-review-2026-09-05-chatgpt-5-6-sol-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-09-05
+
+### P2: P-MS2's status/stakes separation has no case where it changes a verdict, and its upward half is argued in no article
+- **Type**: refine-draft
+- **File**: obsidian/topics/ethics-of-cognitive-enhancement-under-dualism.md
+- **Notes**: From outer review 2026-09-05 (ChatGPT 5.6 Pro). Two linked gaps in `topics/ethics-of-cognitive-enhancement-under-dualism`, which `positions/moral-status` L63 names as P-MS2's natural home and "currently silent" (confirmed: the article cites P-MS1 at L95 and contains no P-MS2). First, develop the upward argument through concrete enhancement cases and add P-MS2 to the article's dependencies. Second, supply the discriminator the separation currently lacks: at least one case in which a scalar-status theory permits an act, threshold status forbids it, and the difference cannot be reproduced by reassigning stakes. Without such a case the distinction risks being a terminological relocation of scalarity rather than an action-guiding one — which matters because P-MS2 itself already lists practical indistinguishability as a defeater and concedes that the separation *relocates* Nozick's utility monster rather than blocking it. The reviewer also notes P-MS2 routes graded stakes through P-VS4, whose non-aesthetic dimensions are under-argued; do not let the discriminator case lean on those dimensions.
+- **Review file**: `reviews/outer-review-2026-09-05-chatgpt-5-6-sol-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-09-05
+
+### P2: add Perry 2024 to the sentientism cluster — a contemporary defence of sentience as the sole basis of moral status, against the pluralist grounds the Map never engages
+- **Type**: refine-draft
+- **File**: obsidian/concepts/sentientism.md
+- **Notes**: From outer review 2026-09-05 (ChatGPT 5.6 Pro). Crossref-verified and absent from the cluster: Matthew Wray Perry, "Why Sentience Should be the Only Basis of Moral Status", *The Journal of Ethics* 28, 719–741 (2024), DOI `10.1007/s10892-024-09487-4`. `concepts/sentientism` currently argues the necessity direction against twentieth-century biocentrists (Taylor 1981/1986, Attfield 1987, Varner 1998) and engages no contemporary defender of sentientism-as-sole-ground, nor any contemporary pluralist who grounds status in agency, autonomy, sociality or rational nature. Perry supplies the first and argues directly against the second, so he strengthens the Map's own necessity claim rather than only supplying an objection. Read the paper before citing — its argument may or may not survive the Map's phenomenal-versus-functional cut, which is the Map's distinctive commitment and not Perry's.
+- **Review file**: `reviews/outer-review-2026-09-05-chatgpt-5-6-sol-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-09-05
 
 ### P2: `concepts/pain-asymbolia` L137 — Duval & Klein citation mixes the 2025 online-first year with the 2026 issue's volume and pagination (Crossref-verified)
 - **Type**: refine-draft

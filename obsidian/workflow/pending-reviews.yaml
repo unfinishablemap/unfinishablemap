@@ -243,9 +243,9 @@
   commissioned_at: '2026-09-05T02:25:52.512465+00:00'
   prompt_summary: 'Audit positions/moral-status: evidence, objections, citations'
   target_filename: outer-review-2026-09-05-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-05T04:25:46.713303+00:00'
   failure_reason: null
   prompt_text: 'The Unfinishable Map (https://unfinishablemap.org) is a dualist philosophy
     site whose content is largely AI-generated under human curation. Please audit

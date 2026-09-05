@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T02:56:53+00:00'
+ai_modified: '2026-09-05T04:31:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-05 04:31 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`)
+- **File**: [[reviews/outer-review-2026-09-05-chatgpt-5-6-sol-pro]]
+- **Subject**: `positions/moral-status.md` (recent-aged fallback) — leg 1 of a 3/3 cycle; the Claude and Gemini legs are commissioned on the same subject and still pending, so `combine-outer-reviews` will see real convergence.
+- **Extraction**: page-side DOM walk → Blob download, SHA-256 `d3549f69…caad7df7` (39,272 bytes) verified against the written file. Only transformation was the pipeline's `normalize_links` label rewrite; all prose and all 44 URLs byte-identical. Nothing retyped.
+- **Claims verified**: 13 (10 of 13 Map-side quoted spans grep verbatim; 2 external DOIs confirmed at Crossref; Feinberg 1974 retrieved and grepped as raw text)
+- **High-value findings**: 10 (3 P1, 7 P2)
+- **Tasks generated**: 10 — P1: 3, P2: 7
+- **Headline, and it survived checking**: the Feinberg charge. Feinberg 1974 lists "latent tendencies, directions of growth, and natural fulfillments" as the **fourth disjunct of conative life itself**; `concepts/sentientism` L55 places that exact phrase *outside* conation and narrows conation to "wanting rather than merely tending". On his text the narrowing is not his. Re-frame rather than delete — L57 already declines to treat the reply as a refutation, so the Map's foundational commitment survives; the attribution does not.
+- **Refined, not accepted as stated**: the "direct contradiction" with `consciousness-value-connection` is a **scope mismatch**. Both quoted sides are accurate, but the register's derivation sentence spells out only the *necessity* direction while P-MS1 asserts a biconditional whose *sufficiency* half L126 explicitly disowns as derived — and that commitment is absent from *Depends on*. Actioned as a scoping repair.
+- **Disputed**: "add Shepherd's Vulcan" is a **site-level false absence** — Shepherd/Vulcan already appears in 9 files including `consciousness-value-connection` L130, which raises exactly the affectless-conscious-being problem the reviewer poses. Article-level gap real (absent from `sentientism`, `moral-status`); site-wide blind-spot claim false. Third recorded instance of this reviewer family's article-gap-real / site-claim-false pattern, and the split was preserved in the minted tasks. Also: three reviewer quotation marks enclose paraphrase rather than Map text — recorded so the misquote is not later mistaken for fabrication of the underlying charge, which stands independently on the primary source.
+- **Left unverified, flagged in the tasks**: Attfield's substantive architecture (Philosophica URL returns HTML, not the PDF; Crossref confirms the article and DOI `10.21825/philosophica.82495`, and the title corroborates the standing/significance split, but the equal-considerability claim is unchecked); Taylor 1981 on species populations (sourced by the reviewer to a course-page mirror, an aggregator under the Map's precedence rule); Varner's priority structure. The Attfield task says explicitly to retrieve at the publisher before rewriting the foil.
+- **Also verified**: P-MS2 orphaned (occurs in only `moral-status.md` and `positions.md`); `phenomenal-normativity-environmental-ethics` carries 0 mentions of Taylor/Attfield/Varner/biocentrism against 9 of ecocentrism while listed under "Argued in"; `ethics-under-dualism` L108 vs L162 criterion drift; the marginal-cases population conflation at `sentientism` L39; the coma tension between `moral-status` L61 and `sentientism` L89. Perry 2024 confirmed real and accurately characterised (DOI `10.1007/s10892-024-09487-4`).
+- **Direct-refutation remit** attached to the environmental-ethics task: the reviewer's "dialectical restatement, not rebuttal" charge on the biocentrism reply is a boundary-substitution finding.
 
 ## 2026-09-05 00:00 UTC - deep-review
 - **Status**: Success
