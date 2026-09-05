@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-08-01 14:08:33+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-05 16:20:00+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 concepts:
 - '[[evaluative-phenomenal-character]]'
@@ -10,6 +10,7 @@ concepts:
 - '[[topics/phenomenal-value-realism|phenomenal value realism]]'
 - '[[qualia]]'
 - '[[valence]]'
+- '[[sentientism]]'
 created: 2026-02-21
 date: &id001 2026-02-21
 description: If value requires consciousness, what grounds environmental obligations?
@@ -19,9 +20,10 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-28 12:35:29+00:00
-lastmod: 2026-08-01 14:08:33+00:00
+lastmod: 2026-09-05 16:20:00+00:00
 modified: *id001
 related_articles:
+- '[[positions/moral-status]]'
 - '[[tenets]]'
 - '[[meaning-of-life]]'
 - '[[consciousness-and-normative-force]]'
@@ -42,11 +44,13 @@ If intrinsic value exists only in conscious experience—if pain's badness and p
 
 The [consciousness-value-connection](/concepts/consciousness-value-connection/) holds that nothing has intrinsic value unless experienced. This creates what the Map's research on [phenomenal value realism](/topics/phenomenal-value-realism/) identifies as the scope problem: if only conscious experience has value, what about forests, rivers, endangered species, and ecosystems?
 
-Three positions dominate environmental philosophy:
+Four positions dominate environmental philosophy:
 
 **Anthropocentrism** restricts moral consideration to humans. Nature matters only as a resource for human welfare. This is too narrow even for mainstream ethics—few philosophers defend it without qualification.
 
 **[Sentientism](/concepts/sentientism/)** extends moral consideration to all beings capable of phenomenal experience. [Conscious animals](/topics/animal-consciousness/) matter morally because they suffer and flourish. Ecosystems matter instrumentally—as habitats sustaining conscious lives.
+
+**Biocentrism** (Paul Taylor's ethics of respect for nature; Robin Attfield; Gary Varner's early work) attributes a good of its own, and with it moral standing, to every living organism—a tree as much as a fox—and in Taylor's version to species populations and biotic communities as well. It concedes what the argument against ecocentrism demands, an individual bearer of value, and disputes only whether that bearer must be a subject. It is the harder rival, addressed in [Against Biocentrism](#against-biocentrism).
 
 **Ecocentrism** (including Aldo Leopold's land ethic and Arne Næss's deep ecology) attributes intrinsic value to ecosystems, species, and natural processes independent of any conscious being's experience. A wilderness has value even if no sentient creature ever enters it.
 
@@ -65,6 +69,18 @@ The deep ecology tradition responds that this reflects Western philosophical nar
 The Map's reply: the charge of Western narrowness gets the situation backwards. The claim that value resides in conscious experience rather than in ecological wholes is not a Western parochial view—it is a cross-culturally convergent finding. Buddhist philosophy treats *vedanā* (feeling tone) as the fundamental locus of evaluative significance, more basic than any ecological or cosmological category. Confucian moral phenomenology grounds ethical life in *qíng* (moral feeling) and *liángzhī* (innate evaluative awareness)—value arises where consciousness meets cosmic pattern, not in pattern alone. Indian *rasa* theory (Abhinavagupta, c. 1000 CE) locates aesthetic value exclusively in evaluative consciousness, not in the artistic object. Islamic philosophy from Avicenna through Mulla Sadra treats self-awareness as irreducible and knowledge as a mode of existence constituted by the knowing subject. These traditions—operating within incompatible metaphysical frameworks and sharing no common textual lineage—all converge on the same structural claim: evaluative properties are features of phenomenal experience, not of the experienced world independent of experiencers. (For the full convergence argument, see [evaluative qualia](/concepts/evaluative-phenomenal-character/).)
 
 This does not dismiss what Eastern and indigenous traditions recognise—that human welfare is not the only value at stake in environmental decisions. Phenomenal normativity agrees, and goes further: the welfare of all conscious beings, not just humans, carries intrinsic moral weight. When indigenous traditions treat rivers as sacred, the sacredness reflects the river's role in sustaining conscious life, its place in the aesthetic and spiritual experience of communities, and the recognition that other beings depend on it. The phenomenal experience of encountering the river—its beauty, its sustaining power, the felt connection to place—is where the value resides. Some indigenous ontologies genuinely attribute agency and personhood to rivers and mountains in ways that resist this reinterpretation—the Map acknowledges this tension rather than claiming universal compatibility. But the deep ecology charge that consciousness-centred value theory is parochially Western is put under real pressure by the cross-cultural evidence: the world's major philosophical traditions predominantly locate value in experience, not in unexperienced nature. The Map reads such convergence as near-independence rather than a tally of fully independent confirmations (see [P-D3](/positions/arguments-for-dualism/#p-d3)).
+
+## Against Biocentrism
+
+Biocentrism is the harder rival, and the one the Map's register names as the live opposition to phenomenal sentientism ([P-MS1](/positions/moral-status/#p-ms1)). The case against ecocentrism turned on the absence of any locus: integrity and stability belong to a system containing no individual for whom they are good. The biocentrist grants the point and supplies the individual. In "The Ethics of Respect for Nature" (1981), Paul Taylor holds that "every organism, species population, and community of life has a good of its own", where to have such a good "is simply to say that, without reference to any other entity, it can be benefited or harmed". Each organism is a "teleological center of life", "conscious or not"; trees "have no knowledge or desires or feelings", yet a bulldozer crushing their roots harms them, and the good so damaged "is not coextensive with sentience or the capacity for feeling pain". The old-growth forest that phenomenal normativity emptied of intrinsic value is, for Taylor, full of it.
+
+The sentientist's first reply—a good with no one to whom it matters is a description of a system, not a claim on anyone—cannot settle this on its own, because it is the proposition Taylor denies in the same passage: a being's good "does not entail that the being must have interests or take an interest in what affects its life". The roster of biocentrisms and the exchanges the Map has run against them—Attfield's beneficence bridge against Basl's artefact dilemma, Lin's challenge to the experience requirement on welfare—are worked in [the sentientism article](/concepts/sentientism/#biocentrism). What this article owes is the environmental question: what biocentrism adds to sentientism in the field, and whether the addition is earned.
+
+Two features of Taylor's structure fix where the disagreement sits. First, he does not infer standing from biology. The attitude of respect for nature is "an ultimate commitment because it is not derived from any higher norm"; the biocentric outlook—humans as members of the community of life, its interdependence, each organism a teleological centre, the denial of human superiority—makes the attitude appropriate without entailing it, and its justification "cannot consist in referring to a more general attitude or a more basic normative principle". The charge that biocentrism slides from self-maintenance to obligation without noticing the step misses him: he sees the step and places an attitude across it, deliberately, in parallel with respect for persons. The Map's sentientism does the same at a different place, locating its foundational attitude at felt experience and holding that placement on [Dualism](/tenets/#dualism). One ultimate attitude cannot be refuted from another, and the Map does not claim to have refuted Taylor's; that part of the disagreement stands at the framework boundary and is noted as such.
+
+Second—and here an argument is available—the bridge from "a good of its own" to duties owed "for the sake of the entity whose good it is" runs through benefit. Taylor's teleological centre is "an entity whose 'world' can be viewed from the perspective of its life", but the viewing is ours: it is "a being whose standpoint we can take", and the entity "need not have any (conscious) interest in what is happening to it" for judgments made from that standpoint to be true. Attfield states the bridge frankly—whatever can be benefited or harmed must count—and concedes it cannot be demonstrated. Both assume that whatever instantiates a good is thereby something better or worse off, and recent work on well-being separates the two. Andrew Lee (2025) argues that the theory of welfare subjects—which entities can be better or worse off—is logically independent of the theory of welfare goods—which states are good for one: a plant, a corporation, or a thermostat under a permissive theory of desire can instantiate a good without being anything that benefits from it, as a body outside any gravitational field has mass but no weight. Lee's own conclusion, reached without a dualist premise, is that the capacity for consciousness is what makes an entity a welfare subject. If the distinction holds, the biocentrist's "benefit" runs together the claim that the tree's good is realised—which sentientism grants—with the claim that the tree is better off, which is the point at issue, and the second does not follow from the first. That is the argument to press, in the vocabulary Taylor and Attfield use: the account helps itself to a beneficiary from a good without saying what makes a good *someone's*. The biocentrist can decline the cut: Taylor's "good of its own" is built so that "better off" means nothing beyond "its good realised", and holding to that is coherent. But on that reading the standpoint no organism occupies is one the moral agent constructs, and what is owed *for its own sake* comes from the agent's attitude of respect—which is what Taylor says. The dispute closes on what benefit is, each side holding its answer as a commitment, and it sits closer to bedrock than the description-versus-norm reply suggested.
+
+For practice the result is more definite. On sentientism a non-sentient organism's good generates reasons, often weighty ones, all of the indirect kind catalogued under [sentientism's environmental demands](#indirect-obligations-and-instrumental-value): the tree is habitat, food, climate regulation, and an object of aesthetic encounter for beings that are subjects. What it does not generate is a claim of its own, so the frameworks diverge only where no sentient stake is present at all—the lifeless forest of the opening section. Inside biocentrism the divergence narrows further. Taylor's egalitarianism, every teleological centre of equal inherent worth, is the only version whose environmental verdicts differ in kind from sentientism's, and it needs his priority principles (1986, ch. 6) to avoid absurdity in actual conflicts. Attfield gives every living thing equal standing but grades significance by capacity, sentience and self-consciousness foremost (1987, pp. 53–56); Gary Varner's *In Nature's Interests?* (1998) grants interests to every organism but ranks those of beings with conscious desires above them, and certain human interests above those, and by 2012 Varner had left biocentrism for a sentience-entry utilitarianism. On the graded versions, wherever a sentient interest is at stake the ordering returns sentientism's verdict; biocentrism's distinctive contribution is confined to the cases in which nothing that feels is affected, where sentientism's indirect and aesthetic reasons already do most of the protective work. That convergence refutes nothing, and Taylor does not accept it. It does locate the environmental dispute: not whether the forest should be protected, on which the frameworks agree across nearly every actual case, but whether the protection is owed to the forest or to the beings who live in it and encounter it.
 
 ## Sentientism's Environmental Demands
 
@@ -96,7 +112,7 @@ These instrumental obligations can be more demanding than ecocentrist obligation
 
 The Map's [phenomenal value pluralism](/topics/phenomenal-value-realism/#beyond-hedonism) recognises aesthetic quality as intrinsically valuable alongside hedonic valence, meaning, agency, and understanding. Environmental destruction eliminates not only habitat for conscious animals but also the conditions for profound aesthetic experience in conscious beings who encounter nature.
 
-This is not ecocentrism—the aesthetic value exists in the experience of the perceiver, not in the landscape itself. Nor is it anthropocentrism in disguise: any conscious being capable of aesthetic experience (and there is reason to think many animals experience something akin to environmental preference, habitat attachment, or sensory satisfaction) has a stake in the preservation of conditions for such experience. The obligations here extend beyond human aesthetic enjoyment to encompass the experiential richness available to all conscious perceivers. Destroying what makes such experiences possible diminishes the field of available value. A world stripped of wilderness contains fewer opportunities for the kind of deep aesthetic experience that carries intrinsic normative weight.
+The aesthetic value exists in the experience of the perceiver, not in the landscape itself, which keeps this distinct from ecocentrism; nor is it anthropocentrism in disguise: any conscious being capable of aesthetic experience (and there is reason to think many animals experience something akin to environmental preference, habitat attachment, or sensory satisfaction) has a stake in the preservation of conditions for such experience. The obligations here extend beyond human aesthetic enjoyment to encompass the experiential richness available to all conscious perceivers. Destroying what makes such experiences possible diminishes the field of available value. A world stripped of wilderness contains fewer opportunities for the kind of deep aesthetic experience that carries intrinsic normative weight.
 
 The aesthetic argument also extends to future generations. Even if no currently existing person will ever visit a particular wilderness, its preservation maintains the possibility of aesthetic experience for future conscious beings. Obligations to preserve are partly obligations to keep the sources of value available.
 
@@ -140,6 +156,8 @@ The Map's tenets shape environmental ethics distinctively:
 
 - [phenomenal normativity / evaluative qualia](/concepts/evaluative-phenomenal-character/) — The view that experience carries intrinsic normative force; also the locus of moral phenomenology and direct moral perception
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why value requires consciousness
+- [sentientism](/concepts/sentientism/) — The criterion, the phenomenal/functional distinction, and the full biocentrism exchange (Feinberg, Attfield and Basl, Lin)
+- [moral-status](/positions/moral-status/) — The register entry ([P-MS1](/positions/moral-status/#p-ms1)) whose necessity direction the biocentrism section argues
 - [ethics-under-dualism](/topics/ethics-under-dualism/) — Moral implications of consciousness across beings
 - [animal-consciousness](/topics/animal-consciousness/) — Evidence for and scope of animal experience
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical foundation
@@ -160,3 +178,9 @@ The Map's tenets shape environmental ethics distinctively:
 1. Cambridge Declaration on Consciousness. (2012). Francis Crick Memorial Conference.
 1. New York Declaration on Animal Consciousness. (2024). NYU Conference.
 1. Rolston, H. (1988). *Environmental Ethics: Duties to and Values in the Natural World*. Temple University Press.
+1. Taylor, P. W. (1981). "The Ethics of Respect for Nature." *Environmental Ethics*, 3(3), 197-218.
+1. Taylor, P. W. (1986). *Respect for Nature: A Theory of Environmental Ethics*. Princeton University Press. Priority principles, ch. 6.
+1. Attfield, R. (1987). "Biocentrism, Moral Standing and Moral Significance." *Philosophica*, 39(1), 47–58. DOI: 10.21825/philosophica.82495
+1. Varner, G. E. (1998). *In Nature's Interests? Interests, Animal Rights, and Environmental Ethics*. Oxford University Press. DOI: 10.1093/oso/9780195108651.001.0001
+1. Varner, G. E. (2012). *Personhood, Ethics, and Animal Cognition: Situating Animals in Hare's Two-Level Utilitarianism*. Oxford University Press. DOI: 10.1093/acprof:oso/9780199758784.001.0001
+1. Lee, A. Y. (2025). "Consciousness Makes Things Matter." *Philosophers' Imprint*, 25. DOI: 10.3998/phimp.1956
