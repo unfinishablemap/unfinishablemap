@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T10:30:41+00:00'
+ai_modified: '2026-09-05T11:05:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-05T11:05:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Moral-status gradualism and the threshold view (P-MS2's argued-in venue; harvest task of 2026-09-05)
+- **Output**: [[research/moral-status-gradualism-and-the-threshold-view-2026-09-05]]
+- **Sources consulted**: 54 cited; 7 read in primary text (SEP grounds-of-moral-status, DeGrazia 2008, McMahan 2008, Buchanan 2009, Regan 1985, Sebo's Mind review of Kagan, Rethink Priorities Schukraft 2020), 11 by publisher/Crossref/PubMed abstract, all metadata Crossref-verified
+- **Assess-first verdict**: PROCEED — topics 324/360 measured via tools.evolution.state; zero live-file hits for the enhancement-status debate (Buchanan/Douglas/Agar/Wilson), Wendler 2023, Floris & Timmer 2025, McMahan 2008, Carter/range property, Jaworska & Tannenbaum, Rossi 2010, Rethink Priorities, Sebo's review; brief excludes re-running the enhancement article's discriminator case and re-arguing P-MS1
+- **Flagged for downstream tasks (not actioned)**: `topics/ethics-of-consciousness-invertebrate-question` L51 "Under physicalism, moral status increases continuously with neural complexity" is false as stated (Singer, Sebo, Wendler, Rethink Priorities are physicalist unitarians); seam between `concepts/degrees-of-consciousness` L36 ("Consciousness is not binary") and the invertebrate article's "presence of a subject is binary"; "DeGrazia 2022" in the harvest brief unresolvable; Sebo 2025 "one-in-a-thousand" unverified
 
 ## 2026-09-05T10:30:41+00:00 - refine-draft
 - **Status**: Success
