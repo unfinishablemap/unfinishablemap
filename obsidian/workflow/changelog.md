@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T05:49:00+00:00'
+ai_modified: '2026-09-05T06:39:55+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-05 06:39 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-05
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.6 Pro, Claude Opus 5, Gemini 2.5 Pro) — second consecutive full 3/3 cycle; all three audited `positions/moral-status` via the subject-reuse path
+- **Clusters**: 11 convergent, 11 singleton, 3 divergent, 1 declined as correlated error
+- **Tasks upgraded**: 5 (P3→P2: 0, P2→P1: 5 — the calibration / maturity / decomposition register pass; the gradualist-roster / Carruthers-link register pass; the status/stakes discriminator on the enhancement article; the merged `sentientism` literature roster; the `ethics-under-dualism` criterion drift). Three further convergent clusters (Feinberg, comatose, derivation) were already P1 from per-review processing and are annotated only.
+- **Tasks deduplicated**: 1 (the ChatGPT-leg "add Perry 2024" task folded verbatim into the Claude-leg `sentientism` roster task, retitled). One task **minted**: P2 positions-evolve on `positions/methodology-and-calibration` to weigh a fifth review-discipline convention (the rival to beat for a normative position is a named, published, current author, never the Map's own reviewers) — the Claude-leg pass deferred it here because the register adds conventions on cross-reviewer convergence, and ChatGPT's methodology §6 supplied the second voice. Cycle task count 14 → 14; P1 count 3 → 8.
+- **Notes**: The cycle's dominant finding is structural rather than local: **the register discloses its defeaters precisely and then leaves every band unchanged** (ChatGPT §8.6 and Claude §2.5, the P-M5 case), and **the opposition it names for P-MS2 is the Map's own 2026-08-23 outer reviews, with Kagan, DeGrazia and Sebo at zero occurrences** (Claude §2.3, Gemini §IV). The three per-review P1s — Feinberg's conative-life list (primary-source verified), the comatose human protected on non-status grounds, and "derives" applied to a biconditional whose sufficiency half the parent article disowns — were each independently reached by a second reviewer. `positions/moral-status` now carries three P1 positions-evolve tasks to run as one pass; `concepts/sentientism` carries three P1 refine-drafts plus two P2 siblings (five open tasks, pileup-flagged). Gemini's rejection verdict was excluded from the calibration cluster because it rests on off-target §II/§III material, so the 3/3 operator-decision trigger the Claude leg named did not fire. **Declined as correlated error**: Claude and Gemini both asserted a site-wide predictive-processing blind spot (Laukkonen 2025 in 21 live files; PP in 82) — the fourth and fifth recorded instances in this reviewer family; the article-level kernels survive as singletons. Divergences logged: whether the marginal-cases argument is engaged (Gemini alone says no; verification sides with the other two), whether P-MS2's logical point has merit, and whether Taylor is cleanly an individualist foil (ChatGPT vs Claude; ChatGPT's claim unverified — a human-check candidate). Task-file mechanics: two per-review annotations had been appended after `Generated:` where the parser drops them; both folded into Notes. `Review file:` kept singular per the open NEEDS-HUMAN on the SKILL.md rename.
+- **Output**: [[reviews/outer-review-synthesis-2026-09-05]]
 
 ## 2026-09-05 05:49 UTC - outer-review
 - **Status**: Success
