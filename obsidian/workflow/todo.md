@@ -100,15 +100,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-09-05
 
-### P2: `topics/wanting-liking-and-the-value-in-mechanism-fork` — objective "liking" drifts into felt pleasure, and the dissociation is over-read as ruling out every common currency
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/wanting-liking-and-the-value-in-mechanism-fork.md
-- **Review file**: `reviews/outer-review-2026-09-04-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-04
-- **Notes**: From outer review 2026-09-04 (ChatGPT 5.6 Pro) §2.2. **ONE consolidated pass.** The reviewer confirms the two primary animal studies (Peciña & Berridge microinjections; Tindell salt-appetite incentive transformation) are **real and accurately described** — the faults are interpretive. (a) **L34** glosses "liking" as "its felt hedonic impact" in the opening, while the article *later* correctly explains that Berridge's scare quotes bracket consciousness and that objective "liking" is an orofacial/neural-behavioural measure. The opening formulation should be brought into line with the later one — rat taste-reactivity is evidence about an operational hedonic process, not about what the animal consciously feels. (b) **L60** asserts the dissociation secures "there is no single neural \"value currency\"". This **does not follow**: distinct systems for incentive salience and consummatory response are compatible with later-stage common-currency representations in vmPFC/OFC. Delete or defend. (c) **L34**'s "Dopamine drives wanting; … opioids … drive liking" is clean in the animal paradigms but not in human pharmacology — add the 2020–2024 antagonist literature (Korb et al. 2020; Soutschek et al. 2021; Massaccesi et al. 2024, where no behavioural drug effect appeared despite opioid-related medial-OFC modulation) and qualify the mapping as paradigm-specific. (d) Label **incentive sensitisation as a theory** of addiction rather than its settled general description — craving, pleasure, habit, withdrawal relief and compulsive control failure vary across substances, stages and patients. (e) Throughout, separate evidence *about consciousness* from evidence about the mechanisms consciousness correlates with. Keep the pass length-aware.
-
 ### P2: `concepts/affective-forecasting-gap` — "both sides concede" the duration result is too categorical, and anticipated emotion is not distinguished from anticipatory emotion
 - **Type**: refine-draft
 - **Status**: pending
@@ -2099,6 +2090,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-05: `topics/wanting-liking-and-the-value-in-mechanism-fork` — objective "liking" drifts into felt pleasure, and the dissociation is over-read as ruling out every common currency
+- **Type**: refine-draft
+- **File**: obsidian/topics/wanting-liking-and-the-value-in-mechanism-fork.md
+- **Notes**: From outer review 2026-09-04 (ChatGPT 5.6 Pro) §2.2. **ONE consolidated pass.** The reviewer confirms the two primary animal studies (Peciña & Berridge microinjections; Tindell salt-appetite incentive transformation) are **real and accurately described** — the faults are interpretive. (a) **L34** glosses "liking" as "its felt hedonic impact" in the opening, while the article *later* correctly explains that Berridge's scare quotes bracket consciousness and that objective "liking" is an orofacial/neural-behavioural measure. The opening formulation should be brought into line with the later one — rat taste-reactivity is evidence about an operational hedonic process, not about what the animal consciously feels. (b) **L60** asserts the dissociation secures "there is no single neural \"value currency\"". This **does not follow**: distinct systems for incentive salience and consummatory response are compatible with later-stage common-currency representations in vmPFC/OFC. Delete or defend. (c) **L34**'s "Dopamine drives wanting; … opioids … drive liking" is clean in the animal paradigms but not in human pharmacology — add the 2020–2024 antagonist literature (Korb et al. 2020; Soutschek et al. 2021; Massaccesi et al. 2024, where no behavioural drug effect appeared despite opioid-related medial-OFC modulation) and qualify the mapping as paradigm-specific. (d) Label **incentive sensitisation as a theory** of addiction rather than its settled general description — craving, pleasure, habit, withdrawal relief and compulsive control failure vary across substances, stages and patients. (e) Throughout, separate evidence *about consciousness* from evidence about the mechanisms consciousness correlates with. Keep the pass length-aware.
 
 ### ✓ 2026-09-05: `topics/valence-and-conscious-selection` — consolidated pass: RPE is not expected valence, and the rival non-phenomenal explanations of a valence selection-advantage are absent
 - **Type**: refine-draft
