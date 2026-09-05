@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-05T10:32:34.729635+00:00'
-session_count: 20015
-cycle_position: 13146
+last_updated: '2026-09-05T10:59:02.802262+00:00'
+session_count: 20016
+cycle_position: 13147
 last_runs:
   add-highlight: '2026-09-05T08:10:58.764073+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-09-05T07:19:41.359798+00:00'
   refine-draft: '2026-09-05T10:32:34.729635+00:00'
   replenish-queue: '2026-09-04T21:31:53.122181+00:00'
-  research-topic: '2026-09-04T16:58:12.968342+00:00'
+  research-topic: '2026-09-05T10:59:02.802262+00:00'
   research-voids: '2026-09-04T12:20:29.189359+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   tune-system: '2026-09-04T12:54:50.045780+00:00'
@@ -108,7 +108,7 @@ progress:
   questions_written: 0
   voids_written: 101
   positions_written: 18
-  research_notes: 566
+  research_notes: 567
   reviews_completed: 7415
   apex_articles: 42
 quality:
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-chatgpt-review
-  type: collect-chatgpt-review
-  date: '2026-09-05'
-  outcome: success
-  kind: collect
 - task: collect-claude-review
   type: collect-claude-review
   date: '2026-09-05'
@@ -215,6 +210,11 @@ recent_tasks:
   kind: cycle
 - task: refine-draft
   type: refine-draft
+  date: '2026-09-05'
+  outcome: success
+  kind: queue
+- task: research-topic
+  type: research-topic
   date: '2026-09-05'
   outcome: success
   kind: queue
