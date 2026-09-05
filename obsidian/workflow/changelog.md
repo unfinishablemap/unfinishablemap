@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T05:27:00+00:00'
+ai_modified: '2026-09-05T05:49:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-05 05:49 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (`gemini-2-5-pro`)
+- **File**: [[reviews/outer-review-2026-09-05-gemini-2-5-pro]]
+- **Subject**: `positions/moral-status.md` (reuse — leg 3 of 3; all three legs now `processed`, so `combine-outer-reviews` is eligible for 2026-09-05)
+- **Extraction**: page-side DOM walk → Blob download, SHA-256 `ed5a7018…59ed` matched page↔disk (31,781 bytes); collected on the first attempt ~82 min after commission; closes on an explicit Verdict paragraph (complete render)
+- **Claims verified**: 17 Map-side spans by grep with the matching file recorded (1 in the target; 8 verbatim in other files, two with the attribution inverted; 4 exist only in retired text or the Map's own review files; 1 asserted claim refuted by the live text) · 6 external citations at Crossref / Europe PMC (Feinstein, Gerrans, Stone real and exact; Smithies real but year wrong and thesis inverted; "Sebo & Long, *Artificial Persons*" wrong title; "Kammerer & Frankish" two authors fused)
+- **High-value findings**: 3 kernels, each rescued from a false frame — Frankish 2024 as the published trigger of P-MS1's functional-reading limb; Gerrans 2020 absent from `concepts/pain-asymbolia`; the invertebrate article's agent-side gradient never stating that patient status is untouched
+- **Declined**: §II (insula) already tasked from the 2026-09-04 cycle and repeats Gemini's own W3; §III wholly out of remit — attacks retired sedation wording (fix live at `conversion-disorder` L67), review-file vocabulary, and a Zeno mechanism the register disclaims (fifth instance); the marginal-cases, Birch, predictive-processing and illusionism absence claims are false at site level (details in the file's Verification Notes)
+- **Tasks generated**: 1 (P2 refine-draft, `topics/ethics-of-consciousness-invertebrate-question` L91) + 3 existing tasks annotated (Claude-leg P-MS1 limb → Frankish 2024; ChatGPT-leg Perry roster → Smithies / Chalmers / Frankish; asymbolia-insula → Gerrans 2020). Zero new tasks on the target itself: every target-level finding was already tasked by a sibling leg
+- **Convergence**: gradualist roster (Claude ↔ Gemini, 2/3); affectless-conscious-being marginal case (ChatGPT ↔ Gemini, 2/3)
 
 ## 2026-09-05 05:27 UTC - outer-review
 - **Status**: Success
