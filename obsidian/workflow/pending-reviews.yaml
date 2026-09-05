@@ -213,9 +213,9 @@
   commissioned_at: '2026-09-04T06:10:29.252447+00:00'
   prompt_summary: Hostile referee audit of positions/value-in-selection
   target_filename: outer-review-2026-09-04-claude-opus-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-05T00:24:31.683391+00:00'
   failure_reason: null
   prompt_text: "You are a hostile pre-publication referee for a top-tier philosophy\
     \ journal (Mind, Synthese, Philosophical Studies), auditing one article for submission\

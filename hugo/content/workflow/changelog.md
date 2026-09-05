@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-04T21:55:00+00:00'
+ai_modified: '2026-09-05T00:35:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-05'
-lastmod: 2026-09-05 00:00:00+00:00
+lastmod: 2026-09-05 00:35:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-05 00:35 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (`claude-opus-5`)
+- **Subject**: `positions/value-in-selection` (reuse of the 2026-09-04 Gemini leg's subject — third and final leg of the cycle)
+- **File**: [outer-review-2026-09-04-claude-opus-5](/reviews/outer-review-2026-09-04-claude-opus-5/)
+- **Extraction**: page-side Blob download (28,895 chars / 29,037 bytes), body-stability sentinel stable across two 10s samples; collected ~18h after commission
+- **Claims verified**: 11 (5 on-disk loci + 6 external: Crossref x3, Europe PMC x2, PMC full text x1)
+- **High-value findings**: 5
+- **Tasks generated**: 4 new (all P2) + 1 upgrade (P2 -> P1)
+- **Notes**: Verdict "REVISE-HARD", and the strongest of the three 2026-09-04 reviews. Its central finding is an **internal contradiction the other two reviewers missed and it quotes both sides exactly**: `positions/value-in-selection` L60 rates [P-VS2](/positions/value-in-selection/#p-vs2) "empirical discriminability direct" (the only one of four positions so rated) while `topics/the-steelman-for-value-blind-selection` L101 concedes verbatim that the graduated middle path and the moderate value-blind rival "are co-extensive over everything that article's attention-clamp design can measure ... What separates them is conceptual." The register asserts what its own `Argued in` source denies. Editor refinement added: the clamp *does* separate the middle path from a naive value-blind horn; what it cannot separate is the middle path from the **steelmanned** strand, which is the rival the register elsewhere calls the one to beat. **All three reviewers of this cycle independently concluded the battery does not discriminate** (ChatGPT by walking all nine items in its section 5, Gemini by weakness 3, Claude by the contradiction), so the existing [P-VS2](/positions/value-in-selection/#p-vs2) calibration task was upgraded P2 -> P1 rather than duplicated. Also verified: the ~10-bit bandwidth leg is deployed in the register unqualified while `topics/grain-mismatch-as-independent-evidence` L54 and `topics/bandwidth-of-consciousness` L193 both record it as *behavioural* throughput (convergent with ChatGPT section 5 item 2); Laukkonen, Friston & Chandaria 2025 returns **0 hits** across all three fork articles; and its abstract quotation ("Only the inferences that coherently reduce long-term uncertainty win, evincing a selection for consciousness that we call Bayesian binding") is verbatim at Europe PMC. **Two reviewer claims declined.** (1) The instruction to "fix the 2025 -> 2024 year slip" on Zheng & Meister is **wrong and would revert a prior correct fix**: Crossref on the Map's own DOI gives `published-print 2025-01`, vol 113(2), pp 192-204 (the 2024 in the DOI suffix is Elsevier's acceptance-year convention), Europe PMC and PubMed agree, and `workflow/archive/changelog-2026-W22.md` L2531 records an earlier review correcting the corpus *from* 2024 *to* 2025. A guard was written into the task so a later fork cannot re-break it. (2) The charge that `concepts/pain-asymbolia` presents the dissociation as a "clean separation" flagged nowhere is **false** — L69 says the opposite and L97 already carries the Klein capacity point — and it is a **correlated error with Gemini's weakness 3, not corroboration**; both reviewers appear to have read L67 and stopped before L69. What survived verification from that charge is narrower and new: Feinstein et al. 2016 (PMC4734900) states verbatim "No studies have replicated the original finding of pain asymbolia following insula damage", which bites on the **anatomical localisation** claims at `concepts/pain-asymbolia` L50 and `topics/pain-consciousness-and-causal-power` L96, and Klein 2015 (*Mind* 124(494):493-516) is cited nowhere in the corpus. Tasks were scoped against the existing 13-task pileup on this cluster and routed to fold into the open consolidated passes rather than opening new editor passes on the same files.
+- **Output**: [outer-review-2026-09-04-claude-opus-5](/reviews/outer-review-2026-09-04-claude-opus-5/)
+
 
 ## 2026-09-05 00:15 UTC - outer-review
 - **Status**: Success
