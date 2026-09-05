@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T13:05:00+00:00'
+ai_modified: '2026-09-05T13:40:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-05T13:40:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Common-currency valuation and sequential-sampling models as value-blind selection currencies (harvest task of 2026-09-05, queue line 45, from Claude Opus 5 outer review 2026-09-04 §2.4 / ChatGPT 5.6 Pro §7)
+- **Output**: [[research/common-currency-valuation-and-sequential-sampling-models-2026-09-05]]
+- **Sources consulted**: 49 external (6 read in full and grep-verified — Kang et al. 2017, Shadlen & Roskies 2012, Cleeremans & Tallon-Baudry 2022, Sripada 2026, Pereira et al. 2021, Berridge & O'Doherty 2014 by pdftotext; 31 by Europe PMC/Crossref abstract verbatim; the rest metadata or summariser, graded per source) plus 4 Map articles
+- **Assess-first verdict**: worth a dedicated topics/ article, with a recorded fallback (a ~400w sixth strand in the steelman). Key findings: the reviewers' rival is phenomenality-*neutral*, not value-blind — Sripada 2026 states the tradition brackets "the subjective phenomenal experience of pleasure and pain"; the currency premise is a three-way dispute (felt / functional / none), and the Map's L99 "otherwise arbitrary" premise is a currency-side thesis contested by Vlaev 2011 and Hayden & Niv 2021, never named in the corpus; the attentional DDM (Krajbich) is the formal skeleton of the graduated middle path; the Map's own noise-residue localisation (motor-selection L131, dopamine L62) opens exactly where the currency reads zero, so P-VS1's real content is a felt-vs-computed *dissociation* claim. Agrees with the sibling constructed-emotion note that the scalar at choice is an integration, not a primitive.
+- **Defects noticed in passing**: `topics/wanting-liking-and-the-value-in-mechanism-fork` lists "no single neural value currency" among what the dissociation *secures* — Berridge & O'Doherty 2014 place decision utility at choice alongside fractionation; `topics/valence-and-conscious-selection` L103 cites Cleeremans & Tallon-Baudry 2022 for "a mental currency of sorts" without recording their "emphatic 'no'" to dualism; the harvest brief mis-describes Grueschow 2015 as relative-vs-absolute coding (it is automatic-vs-choice-dependent; relative coding is Louie et al. 2013).
 
 ## 2026-09-05T13:05:00+00:00 - research-topic
 - **Status**: Success

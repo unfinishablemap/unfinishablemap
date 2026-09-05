@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: research-harvest
 - **Generated**: 2026-09-05
 
-### P2: Research Common-currency valuation and sequential-sampling models as value-blind selection currencies
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (outer-review-2026-09-04-claude-opus-5.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. Claude Opus 5 (2026-09-04 §2.4): vmPFC/OFC common-currency valuation and drift-diffusion / evidence-accumulation models 'supply exactly the commensurating currency for selection among qualitatively different outcomes that P-VS1 claims valence is needed to provide — as value-blind, computationally specified quantities. The article's selection-needs-a-felt-currency premise is never made to out-argue them.' ChatGPT 5.6 Pro (2026-09-04 §7) independently names common-currency neuroeconomics and sequential-sampling (drift-diffusion, race, urgency-gating, attentional-DDM) models as the strongest omitted computational rivals. 'Common currency' occurs in two live files and drift-diffusion only in motor-Zeno contexts; the open refine on topics/valence-and-conscious-selection adds a paragraph, but no article works the neuroeconomic common-currency programme as the value-blind currency the fork must beat. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/common-currency-valuation-and-sequential-sampling-models-2026-09-05.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'common-currency-valuation-and-sequential-sampling-models' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-09-05
-
 ### P2: `concepts/valence` L65 engages "the active-inference reading" of valence with no named source while sibling articles already cite Joffily & Coricelli 2013 and Hesp et al. 2021 — name and deep-link
 - **Type**: refine-draft
 - **File**: obsidian/concepts/valence.md
@@ -2185,6 +2179,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-05: Research Common-currency valuation and sequential-sampling models as value-blind selection currencies
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-2026-09-04-claude-opus-5.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. Claude Opus 5 (2026-09-04 §2.4): vmPFC/OFC common-currency valuation and drift-diffusion / evidence-accumulation models 'supply exactly the commensurating currency for selection among qualitatively different outcomes that P-VS1 claims valence is needed to provide — as value-blind, computationally specified quantities. The article's selection-needs-a-felt-currency premise is never made to out-argue them.' ChatGPT 5.6 Pro (2026-09-04 §7) independently names common-currency neuroeconomics and sequential-sampling (drift-diffusion, race, urgency-gating, attentional-DDM) models as the strongest omitted computational rivals. 'Common currency' occurs in two live files and drift-diffusion only in motor-Zeno contexts; the open refine on topics/valence-and-conscious-selection adds a paragraph, but no article works the neuroeconomic common-currency programme as the value-blind currency the fork must beat. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/common-currency-valuation-and-sequential-sampling-models-2026-09-05.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'common-currency-valuation-and-sequential-sampling-models' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-09-05: Research Constructed emotion and valence as a natural kind
 - **Type**: research-topic
