@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T04:31:00+00:00'
+ai_modified: '2026-09-05T05:27:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts: []
@@ -10,7 +10,7 @@ date: &id001 2026-05-21
 draft: false
 human_modified: 2026-01-23 15:29:26+00:00
 last_curated: null
-lastmod: 2026-09-05 04:31:00+00:00
+lastmod: 2026-09-05 05:27:00+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -39,6 +39,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: `positions/moral-status` [P-MS2](/positions/moral-status/#p-ms2) names the Map's own outer-review AIs as its opposition and no published gradualist; [P-MS1](/positions/moral-status/#p-ms1)'s functional-reading limb does not link the page that concedes the draw
+- **Type**: positions-evolve
+- **File**: obsidian/positions/moral-status.md
+- **Notes**: From outer review 2026-09-05 (Claude Opus 5), grep- and Crossref-verified. Four register-side repairs, ONE pass. (1) **[P-MS2](/positions/moral-status/#p-ms2) L61/L65** — the only interlocutors named are the two 2026-08-23 outer reviews; Kagan, DeGrazia and Sebo occur zero times in the file. Name the published rivals-of-record for the threshold-vs-scalar claim: Kagan, *How to Count Animals, more or less* (OUP 2019; Crossref 10.1093/oso/9780198829676.001.0001) — "limited hierarchy": people above animals, some animals above others, all people equal; DeGrazia, "Moral Status As a Matter of Degree?", *Southern Journal of Philosophy* 46(2):181–198 (2008), DOI 10.1111/j.2041-6962.2008.tb00075.x; Sebo, *The Moral Circle* (W. W. Norton 2025, ISBN 9781324064800). Keep the 2026-08-23 paragraph as provenance, not as the opposition. Link [moral-census-opacity](/concepts/moral-census-opacity/) (L104), the one live article that already engages Kagan 2019 on weighting vs counting. The *argument* against them belongs in the enhancement topic — the open ChatGPT P2 on `topics/ethics-of-cognitive-enhancement-under-dualism` — so here name and locate, do not re-argue. (2) **[P-MS1](/positions/moral-status/#p-ms1) L50/L52** — the "functional reading of sentience" shift-limb names no rival, and neither *Depends on* nor *Argued in* lists [valence](/concepts/valence/), the page that engages Carruthers 2018 ("Valence and Value", *PPR* 97(3):658–680, DOI 10.1111/phpr.12395) and the active-inference reading and concedes at L65 that "neither side refutes the other from inside its own commitments". Add the link and name Carruthers as the evaluativist rival — the register's own review convention ("the strongest physicalist rival is named", methodology L45) requires the entry to engage or link. (3) **L49 Varner** — cited as a clean biocentric rival; *In Nature's Interests?* (1998) is hierarchical (biological interests least weighty) and Varner abandoned biocentrism for sentientism in *Personhood, Ethics, and Animal Cognition* (OUP 2012; Crossref 10.1093/acprof:oso/9780199758784.001.0001). One clause. (4) **L61 Nozick** — the utility monster's canonical target is aggregation across persons; the intensity-ceiling application is the Map's extension. Flag it as such in one clause. ⚠️ **PILEUP — two ChatGPT positions-evolve tasks are already open on this file** (derivation-scoping P1 at L49; calibration-axes P2). Run all three as ONE register pass and mark the siblings resolved-by-consolidation. The reviewer's verdicts (demote [P-MS1](/positions/moral-status/#p-ms1) to coherence-only; revise [P-MS2](/positions/moral-status/#p-ms2) hard) are assessed in the review's Verification Notes as a schema question, not a text fix — do not relabel status from this task.
+- **Review file**: `reviews/outer-review-2026-09-05-claude-opus-5.md`
+- **Source**: outer-review
+- **Generated**: 2026-09-05
+
+### P2: `concepts/sentientism` defends the necessity direction against a biocentrism roster frozen at 1998 — the live non-sentientist welfare-subject rivals (Lin 2021, Basl 2019) are absent and Varner is mis-described
+- **Type**: refine-draft
+- **File**: obsidian/concepts/sentientism.md
+- **Notes**: From outer review 2026-09-05 (Claude Opus 5). Grep in this file: Basl 0, Lin 0, Bradford 0, Calvo 0, Kagan 0; corpus-wide Basl 0 and Eden Lin 0 live files. Two loci. (a) **§Biocentrism L49** — Varner's "biocentric individualism" stands alongside Taylor and Attfield as a live rival. Add the stance facts: *In Nature's Interests?* (1998) carries a hierarchy of interests with biological interests least weighty, and Varner later abandoned biocentrism for sentientism (*Personhood, Ethics, and Animal Cognition*, OUP 2012, Crossref 10.1093/acprof:oso/9780199758784.001.0001) — the named opponent ends on the Map's side. (b) **§The Sentientist Reply (L53–) or §Disputed Implications** — the Feinberg reply answers the objection only in its 1974 form. Engage its current form: Eden Lin, "The Experience Requirement on Well-Being", *Philosophical Studies* 178(3):867–886 (2021), DOI 10.1007/s11098-020-01463-6, argues that no compelling case exists for an experience requirement on well-being — the direct threat to [P-MS1](/positions/moral-status/#p-ms1)'s necessity direction, since the conation reply presupposes the requirement Lin denies; John Basl, *The Death of the Ethic of Life* (OUP 2019, Crossref 10.1093/oso/9780190923877.001.0001), grounds welfare in selection etiology yet concludes that non-sentient welfare-bearers lack direct moral status (NDPR review, verified). Keep the reviewer's tactical point: Basl reaches the Map's conclusion by a non-phenomenal route, so engaging him strengthens the necessity direction rather than only threatening it — but Lin is still owed an answer. Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [the writing-style guide](/project/writing-style/)'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft / deep-review changelog entry, not in the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared. Do NOT carry Basl's "morally significant only to the extent that it matters to sentient beings" as a verbatim quote (wording unverified) nor Lin's forthcoming *On the Plurality of Goods*. Plant-cognition uptake (Calvo) is optional and unverified here. ⚠️ **PILEUP — this is the SIXTH open task on this file** (five from the ChatGPT leg: Feinberg L55 P1, comatose P1, Attfield L49 P2, marginal-cases L39 P2, Perry 2024 P2). Do not run one-per-cycle: ONE consolidated editor pass, length-neutral or negative — the file is 3503 words by `wc -w` (frontmatter included); print the concepts thresholds with the length tool before editing and trim to fit. The Attfield L49 and Perry roster tasks are the natural same-pass partners for (a) and (b).
+- **Review file**: `reviews/outer-review-2026-09-05-claude-opus-5.md`
+- **Source**: outer-review
+- **Generated**: 2026-09-05
+
+### P2: `concepts/valence` L65 engages "the active-inference reading" of valence with no named source while sibling articles already cite Joffily & Coricelli 2013 and Hesp et al. 2021 — name and deep-link
+- **Type**: refine-draft
+- **File**: obsidian/concepts/valence.md
+- **Notes**: From outer review 2026-09-05 (Claude Opus 5). The reviewer's site-wide "predictive-processing blind spot" claim is FALSE (fourth recurrence — Laukkonen 2025 is in 21 live files, `topics/predictive-processing-and-dualism` L82/L197) and is declined in the review's Verification Notes; the article-level gap survives. L65 reads "On the active-inference reading engaged in [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/), valence is a precision-weighted signal of expected value…" — the rival is characterised without a citation, while the affective active-inference sources are already on the Map: Joffily & Coricelli, "Emotional Valence and the Free-Energy Principle", *PLoS Computational Biology* 9(6):e1003094 (2013), DOI 10.1371/journal.pcbi.1003094 (cited in `topics/phenomenal-value-realism`, `concepts/evaluative-phenomenal-character`, `concepts/affective-forecasting-gap`); Hesp, Smith, Parr, Allen & Friston, "Deeply Felt Affect: The Emergence of Valence in Deep Active Inference", *Neural Computation* 33(2):398–446 (2021), DOI 10.1162/neco_a_01341 (cited in `topics/the-steelman-for-value-blind-selection`, `concepts/evaluative-phenomenal-character`). Both Crossref-verified this run. Add the two references, cite them at L65, and deep-link [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) and [the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/) where the Map's fuller engagement lives. Do NOT add Laukkonen–Friston–Chandaria 2025 here — it is a theory of consciousness, not of valence, and is already carried by the linked PP article. **Length-neutral** (hub article; refined 2026-08-27 and 2026-09-02 — churn caution, one small pass): 1740 words by `wc -w`; print the concepts thresholds before editing. Do not touch the "neither side refutes the other" concession — it is accurate and the reviewer relies on it.
+- **Review file**: `reviews/outer-review-2026-09-05-claude-opus-5.md`
+- **Source**: outer-review
+- **Generated**: 2026-09-05
+
 ### P1: `concepts/sentientism` L55 misattributes the conation narrowing to Feinberg — his conative-life list contains the very phrase the Map places outside conation (primary-source verified)
 - **Type**: refine-draft
 - **File**: obsidian/concepts/sentientism.md
@@ -46,6 +70,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Review file**: `reviews/outer-review-2026-09-05-chatgpt-5-6-sol-pro.md`
 - **Source**: outer-review
 - **Generated**: 2026-09-05
+  - **Convergent (Claude Opus 5, same cycle, 2026-09-05)**: independently flagged the same locus (§2.2 — the reply "leans on p. 52 while suppressing pp. 49–50"). No second task minted: one fix, two reviewers. See `reviews/outer-review-2026-09-05-claude-opus-5.md` Verification Notes.
   ⚠️ **PILEUP FLAG — five of this cycle's ten tasks target `concepts/sentientism.md`** (this one; the comatose-human case separation; the Attfield framing; the marginal-cases three-population merge; the Perry 2024 addition). The processing pass minted them per-finding without grepping the path against its own siblings (outer-review-same-file-task-pileup). They are genuinely distinct defects, so do **not** collapse them into one task — but whichever runs first should read the other four and consolidate any that touch the same paragraph, then rewrite the discharged siblings as ✓ rather than leaving them to re-open the same prose. The Perry 2024 addition is a mechanical citation insert and should stay on its own per that memory's step 3.
 
 ### P1: `positions/moral-status` L49 says [P-MS1](/positions/moral-status/#p-ms1) "derives" from [P-VS3](/positions/value-in-selection/#p-vs3), but the derivation sentence covers only necessity while [P-MS1](/positions/moral-status/#p-ms1) asserts a biconditional whose sufficiency half `consciousness-value-connection` L126 disowns
@@ -63,6 +88,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Review file**: `reviews/outer-review-2026-09-05-chatgpt-5-6-sol-pro.md`
 - **Source**: outer-review
 - **Generated**: 2026-09-05
+  - **Convergent (Claude Opus 5, same cycle, 2026-09-05)**: §2.3 reaches the same contradiction from the register side ("strict phenomenal sentientism plus the downward-crossing rule entails they lose status"). No second task minted.
 
 ### P2: `topics/phenomenal-normativity-environmental-ethics` is listed as arguing [P-MS1](/positions/moral-status/#p-ms1) but opposes ecocentrism throughout, never engaging the biocentrism the register calls "the rival to beat"
 - **Type**: refine-draft
@@ -87,6 +113,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Review file**: `reviews/outer-review-2026-09-05-chatgpt-5-6-sol-pro.md`
 - **Source**: outer-review
 - **Generated**: 2026-09-05
+  - **Addendum (Claude Opus 5, same cycle, 2026-09-05)**: that leg's headline verdict is DEMOTE-TO-COHERENCE-ONLY for [P-MS1](/positions/moral-status/#p-ms1) — framework-internal + grade D + verdict-inert should not sit at credence moderate. Assessed in `reviews/outer-review-2026-09-05-claude-opus-5.md` Verification Notes as a schema question the register does not currently hold ([P-VS3](/positions/value-in-selection/#p-vs3), the parent, carries the identical calibration; methodology L60 keeps the flag distinct from credence by design). Weigh it in this same calibration pass and record the decision either way; do not relabel status on one reviewer's verdict.
 
 ### P2: `concepts/sentientism` L39 merges three populations into one marginal-cases clause, only one of which bears on a valence criterion
 - **Type**: refine-draft

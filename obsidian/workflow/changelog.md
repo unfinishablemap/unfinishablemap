@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T04:31:00+00:00'
+ai_modified: '2026-09-05T05:27:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-05 05:27 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (`claude-opus-5`)
+- **File**: [[reviews/outer-review-2026-09-05-claude-opus-5]]
+- **Subject**: `positions/moral-status.md` (reuse of the ChatGPT leg's subject — leg 2 of the 3/3 cycle; the Gemini leg is still pending)
+- **Extraction**: page-side DOM walk → Blob download (26,777 chars / 26,897 bytes), body-stability sentinel stable across two 10s samples (25,317 → 25,317); collected on the 4th attempt, ~2h03m after commission
+- **Claims verified**: 14 (8 Map-side loci by grep; Crossref ×6 including three OUP book DOIs; Open Library ×1; Wikipedia ×1 for the Varner stance; NDPR ×1 for Basl; two live-URL HTTP checks)
+- **High-value findings**: 5 new (Varner hostile witness; gradualism rivals-of-record absent from P-MS2; Lin 2021 / Basl 2019 welfare-subject rivals absent from `sentientism`; `valence` L65 active-inference source unnamed; P-MS1 shift-limb unlinked to the page that concedes the draw) + 2 convergent with the ChatGPT leg (Feinberg pp. 49–50; comatose downward crossing)
+- **Declined**: 6 (site-wide predictive-processing blind spot — 4th false recurrence, Laukkonen 2025 in 21 live files; apex URLs "unreachable" — both HTTP 200; AI-verdict question-begging; P-MS2 coherence inflation; three P-M5-enforcement methodology rules gated on the operator's open `enforcement` decision; literature-currency gate — exists as `/literature-drift-review`). The P-MS1 demote-to-coherence-only verdict is routed as an addendum to the open ChatGPT calibration P2, not minted.
+- **Tasks generated**: 3 new (P2 ×3) + 3 addenda on open ChatGPT-leg tasks (2 convergence notes, 1 calibration addendum)
+- **Pileup**: `concepts/sentientism.md` now carries SIX open tasks and `positions/moral-status.md` three; each new task instructs one consolidated pass
 
 ## 2026-09-05 04:31 UTC - outer-review
 - **Status**: Success
