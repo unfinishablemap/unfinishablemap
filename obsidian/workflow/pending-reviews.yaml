@@ -273,8 +273,8 @@
   prompt_summary: Hostile-referee audit of positions/moral-status (P-MS1, P-MS2)
   target_filename: outer-review-2026-09-05-claude-opus-5.md
   status: pending
-  collect_attempts: 1
-  last_attempt_at: '2026-09-05T04:41:48.480076+00:00'
+  collect_attempts: 2
+  last_attempt_at: '2026-09-05T04:54:56.079026+00:00'
   failure_reason: null
   prompt_text: "You are a hostile referee. Audit one page on The Unfinishable Map\
     \ (https://unfinishablemap.org), a dualist philosophy site whose articles are\

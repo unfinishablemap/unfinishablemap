@@ -1039,6 +1039,21 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **AND THE SECOND-ORDER INSTANCE IS WORSE.** The same P-SC1 wording did not merely sit uncorrected — it **propagated outward**. Gemini's audit quotes it approvingly as a premise (*"The site's concession that exact Born preservation makes its interactionism 'empirically indistinguishable by construction' from chance (P-SC1)…"*) and builds its central epiphenomenalism charge on it. A hostile external reviewer, explicitly instructed to consult the register before attacking, was misled by the uncorrected node into an argument the corpus had already refuted three weeks earlier. That is this entry's thesis with an external witness: an unpropagated correction does not stay a local defect, it becomes a claim about the Map made by third parties. See `reviews/outer-review-synthesis-2026-08-24.md`.
 
+### NEEDS-HUMAN (loop tooling) 2026-09-05: the ready-collect loop has no backoff or round-robin, so a slow service starves every service behind it
+
+- **Type**: refine-draft
+- **File**: obsidian/workflow/changelog.md
+- **Code path** (not the `File` above, which is set to a content path so a refine fork cannot mangle the dispatcher): `tools/evolution/cycle_pick.py` step 4, and the ordering of `SERVICES` in `tools/reviews/services.py`
+- **Status**: pending
+- **Source**: loop-observation
+- **Generated**: 2026-09-05
+- **Notes**: **Observed live on 2026-09-05, with the arithmetic that makes it costly.** `cycle_pick.py` step 4 is `for svc in SERVICES: if find_ready(...) -> dispatch; return`. `SERVICES` is ordered chatgpt, claude, gemini. There is no backoff on a failed collect and no rotation, so **the first ready service wins every iteration until it resolves**, regardless of how many attempts it has already burned or how long the services behind it have been waiting.
+  **Today's instance.** The claude leg (commissioned 03:09:57Z) returned not-ready on attempts 1 and 2 — genuinely still researching, `Lead Researcher — Searching for sources... • 1h 44m` with a 212-byte body and no artifact. The gemini leg has been collectible since **04:34Z** (commissioned 04:14:35Z, 20-minute floor) and cannot be reached while claude stays ready-but-unfinished. At a 15-minute loop interval that is roughly eight more claude attempts before the Chrome window closes at **07:00Z**.
+  **Why the cutoff does not save it.** Claude's 4h abandon cutoff falls at **07:09:57Z**, which is *after* the window shuts. So `mark_abandoned` cannot fire inside the window, gemini is never dispatched, and `/combine-outer-reviews` does not fire for the 2026-09-05 cycle — losing the synthesis for a 3/3 aligned cycle whose other two legs are fine. The failure only materialises if claude runs past ~06:45Z; if it finishes sooner the loop self-heals, which is exactly why this has stayed invisible.
+  **Candidate fixes, all operator calls — do NOT let an auto-loop pick one.** (a) Rotate: remember the last-dispatched service in state and start the scan after it. (b) Per-entry backoff: skip a service whose `last_attempt_at` is under N minutes old, which also fixes the 11-minute pointless retry observed today. (c) Order `SERVICES` by `min_collect_age_minutes` descending, or by commission time, so the leg that has been ready longest goes first. (d) Bring the abandon cutoff inside the window, or run one `find_abandoned` sweep at window close. Note (b) and (d) are independently useful: **the /loop port never calls `find_abandoned`/`mark_abandoned` at all** — those are only wired into `scripts/evolve_loop.py:980`, which is a separate known gap.
+  **Prior art**: recorded as a memory (`collect-review-no-backoff-monopolizes`) but never minted as a task, which is why it has recurred. **ATTRIBUTION**: no content file is touched by this entry; nothing to stamp.
+
+
 ### NEEDS-HUMAN (loop tooling) 2026-08-03: the multi-axis calibration schema is enforced nowhere, and `positions-evolve` — the register's sole write path — was never migrated off the retired single band
 - **Type**: refine-draft
 - **File**: obsidian/workflow/changelog.md
