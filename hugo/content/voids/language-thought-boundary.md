@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-08-20 16:26:44+00:00
-ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5
+ai_modified: 2026-09-05 23:23:12+00:00
+ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
 - '[[mysterianism]]'
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 19:51:37+00:00
-lastmod: 2026-08-20 16:26:44+00:00
+lastmod: 2026-09-05 23:23:12+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -76,11 +76,11 @@ We keep talking about what cannot be said. This creates a puzzle that the [apoph
 
 Negative theology developed sophisticated methods: Pseudo-Dionysius called God "hypertheos"—beyond God—to avoid making claims while still pointing. Cusanus's *docta ignorantia* (learned ignorance) held that knowing what we cannot know is itself knowledge. Yet Jean-Luc Marion warned: even calling something "unthinkable" makes it a thinkable object under that label. How to escape?
 
-**The ladder strategy**: Wittgenstein instructed readers to throw away the ladder after climbing it. Use language to approach limits, then recognise the language as tool rather than truth. The words serve as scaffolding—necessary for construction but not part of the building.
+**The ladder strategy**: Wittgenstein instructed readers to throw away the ladder after climbing it. Use language to approach limits, then recognise the language as tool rather than truth.
 
-**Negative space**: We can trace boundaries without claiming to map content. Where words fail—and *how* they fail—becomes data. The shape of expressibility's edge reveals the shape of expressibility itself.
+**Negative space**: We can trace boundaries without claiming to map content. Where words fail—and *how* they fail—becomes data.
 
-**Contrast mapping**: Compare what can and cannot be said. The colour "red" is expressible; the *experience* of red is not. "Pain" is a word; the quality of being-in-pain resists transmission. By noting where capture succeeds and fails, the boundary gains definition.
+**Contrast mapping**: Compare what can and cannot be said. The colour "red" is expressible; the *experience* of red is not. "Pain" is a word; the quality of being-in-pain resists transmission. By noting where capture succeeds and fails, the boundary gains definition. The [palette extension void](/voids/palette-extension-void/) has an instrumented case: a certified out-of-gamut stimulus drew only familiar colour words from those who saw it.
 
 **The deflationary challenge**: Perhaps ineffable "content" is no content at all—a metacognitive illusion of having something to say. Yet the contrast between qualia (resistant to transmission) and structural descriptions (readily transmissible) suggests genuine asymmetry: we can teach colour vocabulary but not colour experience. If ineffability were mere confusion, the asymmetry would be puzzling.
 

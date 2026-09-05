@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-09-04 21:16:00+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-09-05 23:23:12+00:00
+ai_system: claude-opus-4-7+claude-fable-5-1
 author: null
 coalesced_from:
 - /voids/mind-space-void/
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 10:24:36+00:00
-lastmod: 2026-09-04 21:16:00+00:00
+lastmod: 2026-09-05 23:23:12+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -65,7 +65,7 @@ Observer selection effects compound the difficulty. Bostrom's anthropic reasonin
 
 The dimensionality facet operates one level deeper than location. Most cognitive limits are first-order: there is a fact, and we cannot access it. The dimensionality limit is recursive. If phenomenal experience has dimensions beyond those we can introspect, we cannot know what experiences along them feel like and cannot even formulate from the inside the question of what we are missing — because formulating it as *experience* would require the very concepts those dimensions would provide. The limit is on acquaintance, not inference: hidden dimensions can still be probed indirectly through psychophysics, neural decoding, and comparative ethology, which is why the void is unexplorable rather than wholly sealed.
 
-Edwin Abbott's *Flatland* illustrates the structure. A Flatlander confined to two dimensions does not merely fail to see three-dimensional objects; it cannot formulate the concept of depth, and "what lies above?" is unaskable. It can be *told* about depth and manipulate formal descriptions of cubes, yet cannot *conceive* depth as a dimension of its experience. Mathematical understanding does not close the phenomenal gap.
+Edwin Abbott's *Flatland* illustrates the structure. A Flatlander confined to two dimensions does not merely fail to see three-dimensional objects; it cannot formulate the concept of depth, and "what lies above?" is unaskable. It can be *told* about depth and manipulate formal descriptions of cubes, yet cannot *conceive* depth as a dimension of its experience.
 
 Colin McGinn's [cognitive closure](/concepts/mysterianism/) argument formalises the predicament: a mind is closed with respect to a property if its concept-forming procedures cannot extend to grasping it. The mind-body solution may lie in dimensions of reality our cognitive architecture cannot access. McGinn's own position is "naturalistic but not constructive" — he holds the mind-brain link is fully natural and explicitly rejects dualism, taking the closure to be a limit on human concept-formation rather than evidence for a non-physical domain. The Map cites his closure thesis for the epistemic predicament it names, not as endorsement of its dualist destination. Peter Sjöstedt-Hughes extends the dimensional reading: perceptual space is a slice of a higher-dimensional manifold, and the brain acts as "an inhibiting filtering interface rather than as a producer of mind" — making our experience a cross-section, faithful within its plane, missing everything orthogonal.
 
@@ -91,7 +91,7 @@ Approaching this void produces distinctive experiential signatures — [edge-sta
 
 **The illusion of centrality.** We assume our form of consciousness is the default. This cognitive geocentrism resists correction through argument alone: one can accept intellectually that human consciousness might be peripheral, but cannot *feel* one's way to that understanding.
 
-**The flattening effect.** Attempting to conceive a new phenomenal dimension collapses into recombinations of known ones. Try to imagine a colour outside the visible spectrum — not infrared *detected*, but a genuinely novel hue. The attempt produces nothing, or familiar colours rearranged; the flattening feels seamless rather than forced.
+**The flattening effect.** Attempting to conceive a new phenomenal dimension collapses into recombinations of known ones. Try to imagine a genuinely novel hue outside the visible spectrum: the attempt produces nothing, or familiar colours rearranged, and the flattening feels seamless. It survives a real input — subjects shown an out-of-gamut stimulus called it "teal" and "green" ([palette extension void](/voids/palette-extension-void/)).
 
 **The sufficiency illusion.** Unlike voids where one senses something missing, the dimensionality facet may produce no feeling of absence at all — [fusion rates](/voids/fusion-void/) vary 0–100% unfelt. Experience presents itself as complete; this absence of absence is the void's deepest feature.
 
@@ -130,7 +130,7 @@ A live research programme presses the first challenge hardest. Since the mid-201
 ## Further Reading
 
 - [voids](/voids/) — Framework for investigating cognitive limits
-- [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — What AI and radically different alien minds might reveal about territories closed to human cognition
+- [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — What AI and alien minds might reveal about territories closed to human cognition
 - [vertiginous-question](/topics/vertiginous-question/) — Why you cannot determine why you are *this* consciousness
 - [synesthetic-void](/voids/synesthetic-void/) — Phenomenal dimensions closed to most minds within our species
 - [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — The characteristic experience of approaching cognitive limits

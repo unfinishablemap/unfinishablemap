@@ -4,7 +4,7 @@ description: "Every route to investigating consciousness fails: observation tran
 created: 2026-02-24
 modified: 2026-04-25
 human_modified: null
-ai_modified: 2026-08-25T02:34:03+00:00
+ai_modified: 2026-09-05T23:23:12+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,7 +46,7 @@ related_articles:
   - "[[research/voids-distributional-void-2026-08-24]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-03-28
 last_curated: null
 last_deep_review: 2026-06-26T15:16:51+00:00
@@ -109,7 +109,7 @@ That correlation is measurable, which is rare here. Kim, Garg, Peng and Garg (20
 
 Every proposed metric of consciousness measures a correlate rather than consciousness itself. The gap between proxy and phenomenon is categorical, not technical.
 
-[[integrated-information-theory|Integrated Information Theory]] proposes phi as a consciousness metric, but Aaronson demonstrated that simple networks of logic gates arranged as expander graphs would score far higher on phi than human brains—despite lacking any intuitive claim to consciousness. Cerullo (2015) presses the structural point: phi's reliance on an unjustified information-exclusion principle lets a trivial theory match IIT's explanatory power, so the metric tracks a formal property rather than the phenomenon it claims to measure. The Perturbational Complexity Index reliably detects consciousness in [[consciousness-disruption-and-the-mind-brain-interface|minimally conscious patients]] but measures algorithmic complexity of cortical responses, not consciousness itself. [[neural-correlates-of-consciousness|Neural correlates of consciousness]] face the same gap: correlations between conscious states and neural activity are compatible with parallelism, causation, identity, or epiphenomenalism. The correlates are real; whether they constitute, cause, or merely accompany consciousness is not a question measurement can settle.
+[[integrated-information-theory|Integrated Information Theory]] proposes phi as a consciousness metric, but Aaronson demonstrated that simple networks of logic gates arranged as expander graphs would score far higher on phi than human brains—despite lacking any intuitive claim to consciousness. Cerullo (2015) presses the structural point: phi's reliance on an unjustified information-exclusion principle lets a trivial theory match IIT's explanatory power, so the metric tracks a formal property rather than the phenomenon it claims to measure. The Perturbational Complexity Index reliably detects consciousness in [[consciousness-disruption-and-the-mind-brain-interface|minimally conscious patients]] but measures algorithmic complexity of cortical responses, not consciousness itself. [[neural-correlates-of-consciousness|Neural correlates of consciousness]] face the same gap: correlations between conscious states and neural activity are compatible with parallelism, causation, identity, or epiphenomenalism. The [[palette-extension-void|palette extension void]] supplies a sharpened instance: cone-level stimulation returned an out-of-gamut coordinate and familiar colour words, the instrument substituting for the quality sought.
 
 ## Convergent Structure
 

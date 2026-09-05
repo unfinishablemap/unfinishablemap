@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T23:12:30+00:00'
+ai_modified: '2026-09-05T23:41:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-05'
-lastmod: 2026-09-05 23:12:30+00:00
+lastmod: 2026-09-05 23:41:19+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-05T23:41:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [palette-extension-void](/voids/palette-extension-void/) (target); reciprocal insertions in [disappearance-voids](/voids/disappearance-voids/), [observation-and-measurement-void](/voids/observation-and-measurement-void/), [mapping-mind-space](/voids/mapping-mind-space/), [language-thought-boundary](/voids/language-thought-boundary/)
+- **Source**: queue task "Cross-review `voids/palette-extension-void` — integrate the new certification-face article into the palette and substitution clusters" (P2, cross-review, executed as a deep-review pass), batched with the same-file P3 refine-draft from [optimistic-2026-09-05-perceptual-manufacture-wing](/reviews/optimistic-2026-09-05-perceptual-manufacture-wing/) (marked ✓ completed by consolidation)
+- **Thresholds printed before editing**: voids (2000, 3000, 4000)
+- **Word count**: 1998 → 1997 (−1; `ok`), after absorbing a new reference entry, `last_deep_review`, and three new claim-bearing clauses
+- **Critical issues addressed**: 2 — (a) description/lead asserted "a worn magnetic sense" / "magnetic channel" where König 2016 says training "did not lead to a perception of the magnetic field"; description was also unconditional ("cannot be done") against the body's "cannot be audited by available instruments" — description rewritten (23w, 151 chars), lead → "direction channel"; (b) the L47 self-flag discharged at source: König 2016 fetched as Europe PMC XML (PMC5154504) and grepped raw — "all waking hours", the BWP 4 week-4 quotation, "Eight out of nine … new sense of spatial perception", the magnetic-field denial, Table 3 vibration items (0.91/0.87), "clearly changing over time" all verbatim; fMRI paraphrase (premotor/SMA date effect, right PPC) holds. Kaspar, König, Schwandt & König 2014, *Consciousness and Cognition* 28, 47–63, Crossref-verified, added as ref 12 and cited inline
+- **Medium issues addressed**: 3 — the feelSpace case now belongs to the certification face (L64 clause; L80 credits König 2016 with the design's first run: "change certified, novelty not"); "not for want of technique but…" construct rewritten; an in-body editorial to-do and a restating clause moved/cut with every source fence preserved (Ward & Meijer unread; Barbur press-only; olo follow-up unlocated)
+- **Enhancements made**: 5 — four reciprocal inbound links installed where each host's own argument wants them, each funded by a genuine restatement removed from the same host (disappearance 2991→2988, observation 2943→2949, mapping 2995→2995, language-thought 2961→2959); the `[[synesthetic-void]]` descriptor names the Martian-colours case
+- **Reciprocals deliberately not installed**: synesthetic-void (human length decision 2026-06-17); fusion-void (1994w, 6 to soft, same-day sibling); non-human-minds-as-void-explorers (2984w, 16 to hard — shortest useful insertion +20 vs −6 funding; deferred pending condense)
+- **Calibration**: the research note's "catalogue's first case" superlative NOT restored; disappearance-voids now records the palette case explicitly as a third revision of a different shape. Nothing above live hypothesis; verification face still a *candidate* unexplorable
+- **Reasoning-mode record**: Barbur — Mode Three (boundary marked, "competent specialist … not by a strawman"); physicalist accommodation — Mode Three ("a denial rather than a measurement", declared untouched). No boundary substitution; forbidden-label grep empty
+- **Citation ledger**: only König 2016 and Kaspar 2014 re-derived; the rest relies on the morning optimistic review's at-source ledger (Fong, Newall, Hardin, Barbur, Mancuso, Jordan). `find_superlative_claims`: empty. 12 references, all cited inline; self-cites 10–11 retained
+- **Hugo**: synced (`scripts/sync.py`); both trees grep clean for "magnetic sense" in live content, both carry "Kaspar" at the same two loci; all eight reciprocal hosts resolve to `/voids/palette-extension-void/`; `validate.py hugo/content/voids/` clean for the five files
+- **Frontmatter**: `ai_modified` and `last_deep_review` stamped on the target; `ai_modified` bumped and `ai_system` appended on the four hosts
+- **Output**: [deep-review-2026-09-05-palette-extension-void](/reviews/deep-review-2026-09-05-palette-extension-void/)
+- **Published**: yes
+- **ai_system**: claude-fable-5-1
 
 ## 2026-09-05T23:12:30+00:00 - refine-draft
 - **Status**: Success

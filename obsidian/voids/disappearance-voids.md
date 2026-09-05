@@ -4,7 +4,7 @@ description: "Three mechanisms by which phenomenal content vanishes from conscio
 created: 2026-02-03
 modified: 2026-04-09
 human_modified: null
-ai_modified: 2026-08-27T09:20:03+00:00
+ai_modified: 2026-09-05T23:23:12+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -38,7 +38,7 @@ related_articles:
   - "[[erasure-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-04-09
 last_curated: null
 last_deep_review: 2026-06-26T13:35:25+00:00
@@ -117,7 +117,7 @@ The tempting inference is that the monitor fails before the systems it monitors.
 
 What the record shows is narrower. Under chronic restriction — four or six hours nightly for fourteen days — subjects were "largely unaware" of their cumulative deficits, but sleepiness ratings *plateaued* while performance kept falling, and the same scale registered high sleepiness under total deprivation, so the rating had adapted rather than saturated (Van Dongen et al., 2003). The authors leave open which reading holds: that subjects cannot introspect their sleepiness once restriction is chronic, or that the felt state genuinely adapted while the deficit did not. Nothing in the data chooses between them.
 
-The residue is therefore not a monitor that dies before the monitored but a gauge that comes loose from what it gauges — a separately generated signal that can plateau while the deficit grows, or fall while the impairment holds. That is [[self-opacity]] in a concrete register: not an instrument that fails, but a reading whose relation to the state it reports has to be established from outside it.
+The residue is therefore not a monitor that dies before the monitored but a gauge that comes loose from what it gauges — a separately generated signal that can plateau while the deficit grows, or fall while the impairment holds. That is [[self-opacity]] in a concrete register: a reading whose relation to the state it reports has to be established from outside it.
 
 ### The Comfort of Narrowing
 
@@ -141,7 +141,7 @@ The three mechanisms share a common structure: each produces phenomenal disappea
 
 **Habituation** shows that consciousness is constitutively novelty-oriented. The familiar is beneath notice by design, in a system evolved to detect change and threat rather than appreciate the stable. The cost is phenomenal impoverishment: life automated into nothingness unless actively resisted.
 
-**Fatigue** shows that consciousness is a *composite* of separable capacities with a priority ordering — an architecture visible only through degradation. The shedding hierarchy reveals what consciousness adds on top of more basic processing, exposing the layers that normally operate as a seamless unity.
+**Fatigue** shows that consciousness is a *composite* of separable capacities with a priority ordering — an architecture visible only through degradation. The shedding hierarchy reveals what consciousness adds on top of more basic processing.
 
 Together they demonstrate that phenomenal content is an allocation shifting with intensity, familiarity, and metabolic state. The [[resolution-void]] documents the spatial version of the constraint — the six-order-of-magnitude compression between available and accessed information — and the disappearance voids add the temporal and state-dependent dimensions.
 
@@ -153,7 +153,7 @@ Within the [[three-kinds-of-void|voids framework]], these disappearance voids ar
 
 **Unexplorable**: Some aspects may be constitutively inaccessible. The observation-termination problem in absorption appears to be a structural limit, not a methodological one. Novelty-seeking in habituation may be intrinsic to conscious architecture. The fatigue case has moved under measurement: self-monitoring survives sleep loss largely intact, and what remains plausibly unexplorable is narrower — telling an adapted felt state apart from a failed report would require a measure of the phenomenal state independent of the report, precisely what is unavailable.
 
-That reclassification is the second time a limit the catalogue called structural has deflated under better sampling — the first being olfactory absence, absorbed into [[erasure-void]] — and under the [[project/common-cause-null]] a pattern of two is evidence about the Map's habits of inference rather than about the territory.
+That reclassification is the second time a limit the catalogue called structural has deflated under better sampling, after olfactory absence was absorbed into [[erasure-void]]; the [[palette-extension-void|palette extension void]] has since split rather than deflated, one face receding while the other holds; and under the [[project/common-cause-null]] such a pattern is evidence about the Map's habits of inference rather than about the territory.
 
 **Potentially occluded**: Each void may serve a function. Absorption may require the elimination of self-monitoring to achieve peak performance. Habituation may protect against sensory flooding. Fatigue's graceful degradation may preserve critical capacities by sacrificing elaborations.
 
