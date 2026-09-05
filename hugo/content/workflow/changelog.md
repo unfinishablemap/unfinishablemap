@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T00:50:00+00:00'
+ai_modified: '2026-09-05T00:56:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-05'
-lastmod: 2026-09-05 00:50:00+00:00
+lastmod: 2026-09-05 00:56:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-05 00:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) and [value-in-selection](/positions/value-in-selection/)
+- **Source**: outer review 2026-09-04 (ChatGPT 5.6 Pro) §4.1, two loci
+- **Changes**: (1) `topics/valence-and-conscious-selection` L83 — retired the stranded "the attentional channel has a worked physical implementation" label, which contradicted `positions/quantum-interface` [P-Q10](/positions/quantum-interface/#p-q10) (no worked formal model of the coupling) and [P-Q4](/positions/quantum-interface/#p-q4) (Stapp-Zeno demoted on decoherence-timescale grounds). Replaced with the register's own terms: attention has *named candidate mechanisms*, valence has none, neither candidate is worked, so the asymmetry is "a named candidate against nothing rather than a specified coupling against a promissory note—thinner, but not nothing." The mechanism-availability argument survives in the weaker form the register licenses rather than being deleted. Two same-claim dependents brought into line at the same time: L87 "the only coupling with a mechanism" -> "with a candidate mechanism"; L197 "develops only attention and intention as mechanisms with physical implementations" -> "develops even attention and intention only as far as candidate mechanisms", which also folded a restatement of L63. (2) `positions/value-in-selection` L40 — relative clause "a *second* coupling (valence-to-physics) beyond the attentional one, **which** has no worked physical implementation" attached to the nearest noun (the attentional coupling), contradicting the same file's L50 ("attention, worked out in Stapp's observation-rate model"). Reordered to "needs, beyond the attentional coupling, a *second* one (valence-to-physics) with no worked physical implementation" — antecedent fixed, argument and wording otherwise preserved.
+- **Length (binding constraint; file under a standing human no-auto-condense decision, untouched)**: `topics/valence-and-conscious-selection` 4346 -> **4342** words (-4; hard ceiling 4000, so still over but improved). `positions/value-in-selection` 2478 -> **2477** (-1; hard 2500). The longer replacement wording was funded inside the same section by compressing the parsimony paragraph's closing sentence (-6) and folding the duplicated L197 restatement (-4).
+- **Verification**: `worked physical implementation` now has zero hits in `topics/valence-and-conscious-selection` in both `obsidian/` and `hugo/content/`; the one surviving live-article hit is the corrected `positions/value-in-selection` L40, where it correctly describes the *valence* coupling. `(P-Q10)` / `(P-Q4)` auto-link on sync to `/positions/quantum-interface/#p-q10` and `#p-q4`, both of which resolve to real `<span id>` anchors.
+- **Published**: yes
+
 
 ## 2026-09-05 00:50 UTC - combine-outer-reviews
 - **Status**: Success

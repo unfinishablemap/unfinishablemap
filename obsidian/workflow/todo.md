@@ -37,16 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: The "worked physical implementation" label for Stapp/Eccles contradicts the quantum-interface register's own P-Q10/P-Q4 — two loci, verified
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/valence-and-conscious-selection.md
-- **Also touches**: obsidian/positions/value-in-selection.md
-- **Review file**: `reviews/outer-review-2026-09-04-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-04
-- **Notes**: From outer review 2026-09-04 (ChatGPT 5.6 Pro) §4.1. **Verified on disk this session — both loci confirmed, do not re-derive.** (1) `topics/valence-and-conscious-selection` **L83** asserts "The attentional channel has a worked physical implementation (Stapp's observation-rate model; Eccles's synaptic exocytosis bias); valence has none." But `positions/quantum-interface` **P-Q10 (L156)** states the Map "does not currently possess a worked formal model — toy Hamiltonian, master equation, computational simulation", and **P-Q4 (L87–91)** demotes the Stapp-Zeno family below post-decoherence selection on decoherence-timing grounds. L83 is a **stranded dependent** of a disclaimer that was strengthened upstream — the classic [[sweep-fixes-the-disclaimer-and-strands-its-dependents]] shape. The whole "mechanism availability" argument at L83 (that the attention-only horn is in better evidential standing because its coupling "is already specified") rests on the label, so this is not cosmetic. (2) **Separately**, `positions/value-in-selection` **L40** reads "…a *second* coupling (valence-to-physics) beyond the attentional one, which has no worked physical implementation" — the relative clause has an **ambiguous antecedent** (it can attach to either coupling), and **L50** of the same file then calls attention "worked out in Stapp's observation-rate model". The reviewer read the nearest antecedent and reported a self-contradiction. Whichever reading was intended, disambiguate the sentence. **Suggested wording** (reviewer's, adapt): Stapp provides a conceptual mapping from attentional observation rate to Zeno stabilisation, but the Map has no validated neural target, coherence calculation, master equation or simulation realising it. ⚠️ **Both files must change** — see [[multifile_task_dropped_file]]. Keep the comparative-standing argument intact but restate it in terms of *specification level* rather than a "worked implementation" the register denies exists.
-
 ### P1: `concepts/pain-asymbolia` — consolidated pass: the article grants the dissociation is not a clean one-variable experiment, then upgrades it back into evidence for bidirectional interaction
 - **Type**: refine-draft
 - **Status**: pending
@@ -2103,6 +2093,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-05: The "worked physical implementation" label for Stapp/Eccles contradicts the quantum-interface register's own P-Q10/P-Q4 — two loci, verified
+- **Type**: refine-draft
+- **File**: obsidian/topics/valence-and-conscious-selection.md
+- **Notes**: From outer review 2026-09-04 (ChatGPT 5.6 Pro) §4.1. **Verified on disk this session — both loci confirmed, do not re-derive.** (1) `topics/valence-and-conscious-selection` **L83** asserts "The attentional channel has a worked physical implementation (Stapp's observation-rate model; Eccles's synaptic exocytosis bias); valence has none." But `positions/quantum-interface` **P-Q10 (L156)** states the Map "does not currently possess a worked formal model — toy Hamiltonian, master equation, computational simulation", and **P-Q4 (L87–91)** demotes the Stapp-Zeno family below post-decoherence selection on decoherence-timing grounds. L83 is a **stranded dependent** of a disclaimer that was strengthened upstream — the classic [[sweep-fixes-the-disclaimer-and-strands-its-dependents]] shape. The whole "mechanism availability" argument at L83 (that the attention-only horn is in better evidential standing because its coupling "is already specified") rests on the label, so this is not cosmetic. (2) **Separately**, `positions/value-in-selection` **L40** reads "…a *second* coupling (valence-to-physics) beyond the attentional one, which has no worked physical implementation" — the relative clause has an **ambiguous antecedent** (it can attach to either coupling), and **L50** of the same file then calls attention "worked out in Stapp's observation-rate model". The reviewer read the nearest antecedent and reported a self-contradiction. Whichever reading was intended, disambiguate the sentence. **Suggested wording** (reviewer's, adapt): Stapp provides a conceptual mapping from attentional observation rate to Zeno stabilisation, but the Map has no validated neural target, coherence calculation, master equation or simulation realising it. ⚠️ **Both files must change** — see [[multifile_task_dropped_file]]. Keep the comparative-standing argument intact but restate it in terms of *specification level* rather than a "worked implementation" the register denies exists.
 
 ### ✓ 2026-09-04: `concepts/intrinsic-nature` L92 discharges its own structural-realism falsifier with a bare "remains contested" — leaving the Map more confident against the rival than the philosopher whose argument it borrows
 - **Type**: refine-draft

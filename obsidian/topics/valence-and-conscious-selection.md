@@ -3,7 +3,7 @@ title: "Valence and the Mechanism of Conscious Selection"
 created: 2026-02-19
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-09-02T13:38:08+00:00
+ai_modified: 2026-09-05T00:56:30+00:00
 draft: false
 description: "Does consciousness select outcomes guided by valence, or is value epiphenomenal to the selection mechanism? A fork forced by the Map's own commitments."
 topics:
@@ -78,13 +78,13 @@ Stapp's quantum Zeno model illustrates the point. Attention increases the observ
 
 The horn deserves its strongest statement, not merely its weakest objection: a fork resolved by attrition rather than argument would violate the Map's [[evidential-status-discipline]], and on several independent counts this is the horn the Map's own discipline most favours. Three considerations push toward it.
 
-First, **parsimony and minimal interaction**. Value-blind selection needs exactly one mental-to-physical coupling: attention (with intention and effort as its modes) maps to observation rate. Value-sensitive selection needs a *second* coupling—some law by which felt valence enters the physics—that the [[psychophysical-laws]] framework admits it cannot yet specify. [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] does not itself adjudicate between them: its minimality is an empirical corridor ruling out interactions the physical record excludes, not a likelihood ranking over the accounts that clear it, and [[tenets#^occams-limits|Occam's Razor Has Limits]] disarms the parsimony-as-truth inference besides. The pull toward value-blindness is methodological rather than tenet-derived—an account carrying an unspecified second coupling owes a specification—and a fork that dressed it as tenet-derived would let the Map's preferences outrun its tenets.
+First, **parsimony and minimal interaction**. Value-blind selection needs exactly one mental-to-physical coupling: attention (with intention and effort as its modes) maps to observation rate. Value-sensitive selection needs a *second* coupling—some law by which felt valence enters the physics—that the [[psychophysical-laws]] framework admits it cannot yet specify. [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] does not itself adjudicate between them: its minimality is an empirical corridor ruling out interactions the physical record excludes, not a likelihood ranking over the accounts that clear it, and [[tenets#^occams-limits|Occam's Razor Has Limits]] disarms the parsimony-as-truth inference besides. The pull toward value-blindness is methodological rather than tenet-derived—an unspecified second coupling owes a specification—and dressing it as tenet-derived would let the Map's preferences outrun its tenets.
 
-Second, **mechanism availability**. The attentional channel has a worked physical implementation (Stapp's observation-rate model; Eccles's synaptic exocytosis bias); valence has none. An account whose single coupling is already specified is, on the Map's own standards, in better evidential standing than one whose extra coupling is a promissory note—regardless of which feels more congenial to the value-realist intuition.
+Second, **mechanism availability**. The attentional channel has named candidate mechanisms (Stapp's observation-rate model; Eccles's synaptic exocytosis bias); valence has none. Neither is *worked*, though: the register records no formal model of the coupling (P-Q10) and demotes Stapp-Zeno on decoherence-timescale grounds (P-Q4). So the asymmetry is a named candidate against nothing rather than a specified coupling against a promissory note—thinner, but not nothing.
 
 Third, **explanatory sufficiency**. Nothing in the phenomenology of choice *requires* valence to be a selector rather than a sensor. Anticipated valence can be a vivid input to attention—a felt salience that draws observation—without itself entering the selection law. On this reading the felt goodness of an option is real and even action-guiding, yet it guides by *informing* a value-neutral steering channel rather than by *being* the steering. The value-realist keeps felt value as genuinely mattering; what they give up is only the further claim that mattering must be wired directly into the physics of collapse.
 
-So stated, the value-blind horn is a disciplined position rather than a deflationary concession: it honours dualism, satisfies minimal interaction, rests on the only coupling with a mechanism, and leaves valence fully real as content. The Map does not hold it—but it is the horn the Map would be *forced* to hold if mechanism-availability and parsimony were the only arbiters, which is exactly why the case against it must be argued, not assumed.
+So stated, the value-blind horn is a disciplined position rather than a deflationary concession: it honours dualism, satisfies minimal interaction, rests on the only coupling with a candidate mechanism, and leaves valence fully real as content. The Map does not hold it—but it is the horn the Map would be *forced* to hold if mechanism-availability and parsimony were the only arbiters, which is exactly why the case against it must be argued, not assumed.
 
 ### The Problem: Value Becomes Epiphenomenal to Selection
 
@@ -194,7 +194,7 @@ This addresses a puzzle that epiphenomenalism cannot. If valence were causally i
 
 The Map's existing content leans value-sensitive without having committed. The [[valence]] article states that "if consciousness biases neural outcomes, valence may provide the criterion for selection"; [[agent-teleology]] affirms that conscious beings act *for reasons*; [[control-theoretic-will]] lists "values" in the controller's setpoint.
 
-But the [[psychophysical-laws]] article develops only attention and intention as mechanisms with physical implementations (Stapp, Eccles). Valence is listed as a candidate but acknowledged as undeveloped. The mechanism gap is real: leaning value-sensitive without a mechanism is an aspiration, not a position.
+But the [[psychophysical-laws]] article develops even attention and intention only as far as candidate mechanisms (Stapp, Eccles), and valence not at all. The mechanism gap is real: leaning value-sensitive without a mechanism is an aspiration, not a position.
 
 The [[graduated-middle-path-valence-modulated-attention|graduated middle path]]—valence modulating attention, attention driving selection—is the most defensible current stance, but even this requires specifying how valence-attention coupling works and whether indirect causal relevance suffices for value's non-epiphenomenality.
 

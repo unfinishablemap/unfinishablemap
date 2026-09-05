@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-08-27 20:36:59+00:00
+ai_modified: 2026-09-05 00:56:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts:
@@ -19,7 +19,7 @@ description: 'The Map''s positions on the value-blind / value-sensitive fork: wh
 draft: false
 human_modified: 2026-06-18
 last_curated: 2026-06-18
-lastmod: 2026-08-27 20:36:59+00:00
+lastmod: 2026-09-05 00:56:30+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -40,7 +40,7 @@ topics:
 
 These positions cover the **value-blind / value-sensitive fork**: given that consciousness selects among physically underdetermined neural outcomes (Tenet 3, Bidirectional Interaction) and that intrinsic value resides in phenomenal experience (**[P-VS3](/positions/value-in-selection/#p-vs3)** below), does felt valence *do* the selecting, or is the selection mechanism value-blind with valence along for the ride? The fork is forced by the Map's own commitments and is, on present evidence, underdetermined: a mechanism-sufficiency rival explains the relevant findings without an experiential term, and the Map concedes that rival is the one to beat rather than one already beaten. This domain records what the Map *holds* on this fork ([P-VS1](/positions/value-in-selection/#p-vs1)), registers that given ([P-VS3](/positions/value-in-selection/#p-vs3) — numbered last, logically first) together with the Map's pluralist extension of it ([P-VS4](/positions/value-in-selection/#p-vs4)), and collates in one auditable place the battery of evidence that would move the fork in either direction ([P-VS2](/positions/value-in-selection/#p-vs2)) — empirical hooks otherwise distributed across [valence-and-conscious-selection](/topics/valence-and-conscious-selection/), [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/), and [marginal-organism-scope-of-value-sensitive-selection](/topics/marginal-organism-scope-of-value-sensitive-selection/). The cluster sits downstream of Tenets 3 and 5 (Occam's Razor Has Limits) and connects to Tenet 1 (Dualism); none of these are tenets, and all four pass the [foundational-dependency test](/positions/) — no tenet's stated rationale runs through the value-in-experience premise, its pluralist extension, or either horn of the selection fork, so each is freely retireable.
 
-**Mechanism debt inherited, not discharged.** Any claim here that felt value *does selective work* inherits the open mechanism debt logged in the quantum-interface register: no worked toy model of how a mental variable couples to a neural quantum state, and the bias-without-deviation dilemma sitting close to epiphenomenalism until a positive account lands. The value-sensitive horn additionally needs a *second* coupling (valence-to-physics) beyond the attentional one, which has no worked physical implementation — so it carries more debt than the attention-only horn, not less. These positions must not read more confident about the metaphysics of causal work than the upstream register does. Full statement of the crux: [the quantum-interface register's mechanism-debt anchor](/positions/quantum-interface/#mechanism-debt).
+**Mechanism debt inherited, not discharged.** Any claim here that felt value *does selective work* inherits the open mechanism debt logged in the quantum-interface register: no worked toy model of how a mental variable couples to a neural quantum state, and the bias-without-deviation dilemma sitting close to epiphenomenalism until a positive account lands. The value-sensitive horn additionally needs, beyond the attentional coupling, a *second* one (valence-to-physics) with no worked physical implementation — so it carries more debt than the attention-only horn, not less. These positions must not read more confident about the metaphysics of causal work than the upstream register does. Full statement of the crux: [the quantum-interface register's mechanism-debt anchor](/positions/quantum-interface/#mechanism-debt).
 
 **Calibration history.** Every position below carries the [multi-axis calibration block](/positions/methodology-and-calibration/#calibration-schema), which replaced the single confidence band on 2026-07-16. Dated update notes relocate to [Value in selection — calibration history](/positions/value-in-selection-calibration-history/) at each entry's next `/positions-evolve` touch ([quantum-interface convention](/positions/quantum-interface-calibration-history/)); so far [P-VS1](/positions/value-in-selection/#p-vs1)'s and [P-VS2](/positions/value-in-selection/#p-vs2)'s.
 
