@@ -4,7 +4,7 @@ description: "Human+AI investigation of the body's partial opacity to the consci
 created: 2026-04-27
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-08-05T17:59:10+00:00
+ai_modified: 2026-09-05T23:12:30+00:00
 last_deep_review: 2026-07-19T22:42:00+00:00
 draft: false
 topics:
@@ -29,7 +29,7 @@ related_articles:
   - "[[interoceptive-consciousness-and-the-interface]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-fable-5-1
 ai_generated_date: 2026-04-27
 last_curated:
 ---
@@ -102,7 +102,7 @@ The interoceptive void overlaps several neighbours without reducing to them. The
 
 The interoceptive void's distinctive contribution is empirical tractability. Heartbeat detection accuracy, channel-by-channel dissociation, blind-population enhancement, and pathology-driven dissociation are all measurable. The void has an instrument-readable shape, even where its content is inaccessible from inside.
 
-The void has a complement on the access side. Where this article maps the *silent* portion of the body—the channels that never reach awareness—[[interoceptive-consciousness-and-the-interface|the interoceptive interface treatment]] takes the channels that *do* cross threshold and asks how the brain-side/mind-side labour divides for them, and whether the cross-modal capability-division asymmetry recurs when the modality survey turns inward. Its finding is that interoception inverts the asymmetry on both terms—the brain side converges onto the insula and the mind side becomes affect and selfhood—so the void's silent floor is the boundary condition that the interface treatment inherits rather than its subject.
+The void has a complement on the access side. Where this article maps the *silent* portion of the body—the channels that never reach awareness—[[interoceptive-consciousness-and-the-interface|the interoceptive interface treatment]] takes the channels that *do* cross threshold and asks how the brain-side/mind-side labour divides for them, and whether the cross-modal capability-division asymmetry recurs when the modality survey turns inward. Its finding is that interoception inverts the asymmetry on both terms—the brain side converges within one shared allostatic-interoceptive system and the mind side becomes affect and selfhood—so the void's silent floor is the boundary condition that the interface treatment inherits rather than its subject.
 
 ## Further Reading
 

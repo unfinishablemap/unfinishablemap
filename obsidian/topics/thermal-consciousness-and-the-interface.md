@@ -4,7 +4,7 @@ description: "Thermal valence flips with body state—Cabanac's alliesthesia—m
 created: 2026-06-22
 modified: 2026-06-22
 human_modified:
-ai_modified: 2026-08-20T16:16:00+00:00
+ai_modified: 2026-09-05T23:12:30+00:00
 last_deep_review: 2026-08-20T16:16:00+00:00
 draft: false
 topics:
@@ -29,7 +29,7 @@ related_articles:
   - "[[embodied-interface]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-fable-5
+ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1
 ai_generated_date: 2026-06-22
 last_curated:
 ---
@@ -66,7 +66,7 @@ Thermoception's second distinctive is structural rather than affective. Skin the
 
 Their premise is that "the skin, given its very nature, is a sensory organ extensively and directly exposed not only to the inside of the body but also to the external environment" (Crucianelli & Ehrsson, 2023). Thermoception is precisely where the two roles fuse: "interoceptive responses to thermal stimuli can refer both to internally generated stimuli but also in response to the application of thermosensory stimuli on the skin" (Crucianelli & Ehrsson, 2023). The dual character is part of why the skin's interoceptive contribution has been overlooked: "one of the reasons why skin signals might have been overlooked so far is the fact that they provide both interoceptive and exteroceptive sensory information, making it difficult to disentangle the two" (Crucianelli & Ehrsson, 2023). For them the difficulty is not inseparability—the passage continues: "Nevertheless, carefully designed and controlled experiments can allow us to manipulate only one component (i.e., the interoceptive one of interest) while keeping the other constant or absent (i.e., the exteroceptive one)". Their thesis is a *reclassification*, proposing "thermosensation as a particularly attractive model of skin-mediated interoception", while recording that "there is no consensus on whether certain skin signals should be defined as interoceptive".
 
-This makes thermoception a test of the [[cross-modal-capability-division|cross-modal synthesis]]. That synthesis contends that the capability division's headline asymmetry—modality-specific brain machinery, supramodal mind-side access boundary—holds for the distance and proprioceptive senses but is *inverted* by [[interoceptive-consciousness-and-the-interface|interoception]], whose channels converge on a shared insular integrator and whose mind-side contribution becomes affect-and-ownership. The synthesis frames the asymmetry as an *exteroceptive regularity* with an inward exception—and its unstated assumption is that each modality falls cleanly on one side: outward-facing or inward-facing.
+This makes thermoception a test of the [[cross-modal-capability-division|cross-modal synthesis]]. That synthesis contends that the capability division's headline asymmetry—modality-specific brain machinery, supramodal mind-side access boundary—holds for the distance and proprioceptive senses but is *inverted* by [[interoceptive-consciousness-and-the-interface|interoception]], whose channels converge, partially, within a shared allostatic-interoceptive system and whose mind-side contribution becomes affect-and-ownership. The synthesis frames the asymmetry as an *exteroceptive regularity* with an inward exception—and its unstated assumption is that each modality falls cleanly on one side: outward-facing or inward-facing.
 
 Thermoception strains the assumption: one receptor sheet, one lamina I pathway, one insular destination serve both reports. The article's two authorities resolve the strain by reclassification, differently drawn. Craig moves the whole modality inward: temperature is not exteroceptive at all but an interoceptive feeling. Crucianelli and Ehrsson keep two components, hold them experimentally separable, and propose studying the neglected interoceptive one as such. The gradient reading—exteroception and interoception as ends of a spectrum, thermoception on the line—is the *Map's* inference, asserted by neither source. The Map prefers it because each reclassification saves the dichotomy by assigning a dual-role signal wholly to one side, while the duality is the datum: separability under controlled design shows the components are distinguishable, not which side the modality lives on, and in ordinary experience the two reports arrive fused. Cabanac's criterion gives the placement a principled basis—thermoception reports an external magnitude that is simultaneously a perturbation of a tightly regulated internal variable, sitting mid-axis by construction.
 

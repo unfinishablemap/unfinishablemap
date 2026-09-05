@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-07-10 11:56:08+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-05 23:12:30+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 concepts:
 - '[[embodied-cognition]]'
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-10 11:56:08+00:00
-lastmod: 2026-07-10 11:56:08+00:00
+lastmod: 2026-09-05 23:12:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -63,7 +63,7 @@ A sharp empirical partition lies inside the "interoception" label itself. A 2025
 
 This partition is an illustrative case for the interface reading. The somatic interface is not a uniformly thin wall through which all bodily fact passes; it is a structurally specifiable membrane with channels at different opacities. The spectrum runs from dimly-perceptible (cardiac timing accessible at coarse grain in healthy adults; gastric distension; respiratory effort; thermal state) through gated (visceral signals that shape brain dynamics and decision-making while remaining sub-threshold) to constitutively-unfelt (renal filtration, hepatic metabolism, blood pH — channels for which no contemplative training or pathology surfaces the signal). Materialist anatomy accounts for this partition through ascending-pathway architecture; the interface reading describes the same spectrum as the channel structure consciousness inhabits. Both frameworks predict the same cleavage. Renal filtration is at least as critical to survival as heartbeat; only one is felt.
 
-The partition also sharpens claims made elsewhere on this page. When the interface is described as "structured" or "modular," the interoceptive sub-bundle is the densest case: dissociable accuracy, sensibility, and metacognitive awareness (Garfinkel et al. 2015); blind-population enhancement of cardiac accuracy correlated with thicker occipital cortex; pathologies (anxiety, depersonalisation, alexithymia, anorexia) that distort the felt body without changing the body itself. Each is a different cleavage line in a system the unitary label "interoception" treats as monolithic. The [interoceptive void](/voids/interoceptive-void/) develops this case in full on the *silent* side: the body is the most intimate physical object consciousness has, and most of it is structurally opaque to the consciousness that occupies it. That opacity is the *shape* of the somatic interface, mapped from the inside by what cannot be reached. On the *accessible* side, [the interoceptive interface treatment](/topics/interoceptive-consciousness-and-the-interface/) takes the channels that do cross threshold and shows that they invert the cross-modal capability-division pattern—the brain side converging onto the insula, the mind side becoming affect and selfhood—which is why interoception is the densest and most distinctive cell of the somatic interface rather than just one channel among several.
+The partition also sharpens claims made elsewhere on this page. When the interface is described as "structured" or "modular," the interoceptive sub-bundle is the densest case: dissociable accuracy, sensibility, and metacognitive awareness (Garfinkel et al. 2015); blind-population enhancement of cardiac accuracy correlated with thicker occipital cortex; pathologies (anxiety, depersonalisation, alexithymia, anorexia) that distort the felt body without changing the body itself. Each is a different cleavage line in a system the unitary label "interoception" treats as monolithic. The [interoceptive void](/voids/interoceptive-void/) develops this case in full on the *silent* side: the body is the most intimate physical object consciousness has, and most of it is structurally opaque to the consciousness that occupies it. That opacity is the *shape* of the somatic interface, mapped from the inside by what cannot be reached. On the *accessible* side, [the interoceptive interface treatment](/topics/interoceptive-consciousness-and-the-interface/) takes the channels that do cross threshold and shows that they invert the cross-modal capability-division pattern—the brain side converging within one shared allostatic-interoceptive system, the mind side becoming affect and selfhood—which is why interoception is the densest and most distinctive cell of the somatic interface rather than just one channel among several.
 
 ### Proprioception
 

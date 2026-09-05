@@ -102,15 +102,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-09-05
 
-### P2: `concepts/affective-forecasting-gap` — "both sides concede" the duration result is too categorical, and anticipated emotion is not distinguished from anticipatory emotion
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/affective-forecasting-gap.md
-- **Review file**: `reviews/outer-review-2026-09-04-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-04
-- **Notes**: From outer review 2026-09-04 (ChatGPT 5.6 Pro) §2.3. **ONE consolidated pass.** The reviewer gives this article credit twice — for recognising that selection needs correct *ordering* more than correct magnitude, and for already acknowledging the literature is mixed — so this is calibration, not rewrite. (a) **L38** (verified this session) reads "The Map therefore leans only on the *duration* result, which **both sides concede**". Too categorical: recent work shows considerable contextual and within-person relative accuracy. Replace with a context-sensitive statement across duration, intensity, frequency and relative accuracy. Integrate **Carlson et al. 2023** (component- and context-sensitive accuracy) and let the already-cited **Moeck et al. 2026** and **Stavrova et al. 2026** constrain the *headline* claim rather than appearing only as trailing qualifications. (b) **Draw the anticipated / anticipatory distinction explicitly**: anticipated emotion is a belief or judgement about how one will later feel; anticipatory emotion is the dread, excitement or relief felt *now*. The article's move that anticipation "is itself felt" slides from the first to the second — people can make semantic, inferential or socially learned predictions without vividly simulating the predicted feeling. This matters directly to [P-VS2](/positions/value-in-selection/#p-vs2), because the register's forecasting tests assume the felt reading. (c) Focus the selection argument on **demonstrated rank reversals and behaviour-changing errors**, not absolute forecast inaccuracy — an intensity error preserving preference order need not change choice. (d) State plainly that forecast manipulations (mood, imagery, framing) also change attention, episodic retrieval, perceived risk and learned value, so they **do not independently manipulate phenomenal valence**.
-
 ### P3: `positions/value-in-selection` [P-VS1](/positions/value-in-selection/#p-vs1) L50 says felt anticipation "forecasts poorly" — the cited article now calibrates this as conditional
 - **Type**: positions-evolve
 - **Status**: pending
@@ -2100,6 +2091,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-05: `concepts/affective-forecasting-gap` — "both sides concede" the duration result is too categorical, and anticipated emotion is not distinguished from anticipatory emotion
+- **Type**: refine-draft
+- **File**: obsidian/concepts/affective-forecasting-gap.md
+- **Notes**: From outer review 2026-09-04 (ChatGPT 5.6 Pro) §2.3. **ONE consolidated pass.** The reviewer gives this article credit twice — for recognising that selection needs correct *ordering* more than correct magnitude, and for already acknowledging the literature is mixed — so this is calibration, not rewrite. (a) **L38** (verified this session) reads "The Map therefore leans only on the *duration* result, which **both sides concede**". Too categorical: recent work shows considerable contextual and within-person relative accuracy. Replace with a context-sensitive statement across duration, intensity, frequency and relative accuracy. Integrate **Carlson et al. 2023** (component- and context-sensitive accuracy) and let the already-cited **Moeck et al. 2026** and **Stavrova et al. 2026** constrain the *headline* claim rather than appearing only as trailing qualifications. (b) **Draw the anticipated / anticipatory distinction explicitly**: anticipated emotion is a belief or judgement about how one will later feel; anticipatory emotion is the dread, excitement or relief felt *now*. The article's move that anticipation "is itself felt" slides from the first to the second — people can make semantic, inferential or socially learned predictions without vividly simulating the predicted feeling. This matters directly to [P-VS2](/positions/value-in-selection/#p-vs2), because the register's forecasting tests assume the felt reading. (c) Focus the selection argument on **demonstrated rank reversals and behaviour-changing errors**, not absolute forecast inaccuracy — an intensity error preserving preference order need not change choice. (d) State plainly that forecast manipulations (mood, imagery, framing) also change attention, episodic retrieval, perceived risk and learned value, so they **do not independently manipulate phenomenal valence**.
 
 ### ✓ 2026-09-05: `topics/wanting-liking-and-the-value-in-mechanism-fork` — objective "liking" drifts into felt pleasure, and the dissociation is over-read as ruling out every common currency
 - **Type**: refine-draft
