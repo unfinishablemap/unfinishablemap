@@ -100,20 +100,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-09-05
 
-### P2: register the *register* variant of the caveat-propagation rule — Countermeasure 12 enumerates apexes, but positions registers inherit conclusions without hedges too
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/project/coherence-inflation-countermeasures.md
-- **Review file**: `reviews/outer-review-2026-09-04-claude-opus-5.md`
-- **Also see**: `reviews/outer-review-2026-09-04-chatgpt-5-6-sol-pro.md` §4.2 and site-methodology items 3 and 5 — same convergent cluster, other reviewer ("Impose a discriminating-test rule"; "Propagate dependency calibration").
-- **Synthesis**: reviews/outer-review-synthesis-2026-09-04.md — cluster C2 (convergent, 2/3). **Deliberately NOT upgraded to P1**: the content instance of this cluster (the sibling register-seam task) carries the upgrade, and the confession-gate family of proposals is curator-reserved per L527 of the target file. Upgrading both would double-count one cluster.
-- **Source**: outer-review
-- **Generated**: 2026-09-05
-- **Notes**: From outer review 2026-09-04 (Claude Opus 5) §5, the methodology half. **A genuinely new variant of an existing countermeasure, not a fifth re-proposal of the confession gate** — check that distinction before executing, since `coherence-inflation-countermeasures` L527 records that the confession-marker proposal has already been re-invented four times and is reserved to the human curator.
-  **The gap.** Countermeasure 12's caveat-propagation rule (L408, L418) fires when a source article *gains* a caveat and enumerates "every **apex** that links that source." Positions-register entries are not apexes and are not enumerated, yet they consume source articles exactly the way apexes do — and this cycle produced a clean worked instance: `positions/value-in-selection` P-VS2 inherited three battery legs from `topics/valence-and-conscious-selection`, `concepts/pain-asymbolia` and `topics/graduated-middle-path-valence-modulated-attention` while leaving each source's hedge behind (see the sibling P2 register-seam task for the verified loci). The reviewer's phrasing is worth keeping: *registers inherit conclusions faster than they inherit the hedges that license them.* Extend the rule's dependent-enumeration to `positions/` entries via their `Argued in` field, which already names the dependency edges.
-  **Second, cheaper proposal in the same finding — the discriminability contradiction grep.** P-VS2 rated itself "empirical discriminability direct" while a sibling article contained the verbatim concession that defeats it. A corpus grep for `co-extensive`, `no empirical daylight`, `conceptual not empirical` and `cannot distinguish` in any article named in a position's `Argued in`, run against any position claiming `discriminability direct`, would have caught it in one pass. **Verified as a real detector, not a hypothetical:** the string "co-extensive" appears at `topics/the-steelman-for-value-blind-selection` **L101** and "direct" at `positions/value-in-selection` **L60**, and no existing check connects them. Scope this as a *documented discipline* in the countermeasures page; **do not autonomously build or wire a new automated gate** — the same reservation that governs the confession marker applies, and calibration instruments are operator territory ([[anchoring-false-high-is-the-base-rate-lexical-vs-structural]] and the two open NEEDS-HUMAN calibration entries).
-
 ### P2: `topics/valence-and-conscious-selection` — consolidated pass: RPE is not expected valence, and the rival non-phenomenal explanations of a valence selection-advantage are absent
 - **Type**: refine-draft
 - **Status**: pending
@@ -2114,6 +2100,13 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-05: register the *register* variant of the caveat-propagation rule — Countermeasure 12 enumerates apexes, but positions registers inherit conclusions without hedges too
+- **Type**: refine-draft
+- **File**: obsidian/project/coherence-inflation-countermeasures.md
+- **Notes**: From outer review 2026-09-04 (Claude Opus 5) §5, the methodology half. **A genuinely new variant of an existing countermeasure, not a fifth re-proposal of the confession gate** — check that distinction before executing, since `coherence-inflation-countermeasures` L527 records that the confession-marker proposal has already been re-invented four times and is reserved to the human curator.
+  **The gap.** Countermeasure 12's caveat-propagation rule (L408, L418) fires when a source article *gains* a caveat and enumerates "every **apex** that links that source." Positions-register entries are not apexes and are not enumerated, yet they consume source articles exactly the way apexes do — and this cycle produced a clean worked instance: `positions/value-in-selection` P-VS2 inherited three battery legs from `topics/valence-and-conscious-selection`, `concepts/pain-asymbolia` and `topics/graduated-middle-path-valence-modulated-attention` while leaving each source's hedge behind (see the sibling P2 register-seam task for the verified loci). The reviewer's phrasing is worth keeping: *registers inherit conclusions faster than they inherit the hedges that license them.* Extend the rule's dependent-enumeration to `positions/` entries via their `Argued in` field, which already names the dependency edges.
+  **Second, cheaper proposal in the same finding — the discriminability contradiction grep.** P-VS2 rated itself "empirical discriminability direct" while a sibling article contained the verbatim concession that defeats it. A corpus grep for `co-extensive`, `no empirical daylight`, `conceptual not empirical` and `cannot distinguish` in any article named in a position's `Argued in`, run against any position claiming `discriminability direct`, would have caught it in one pass. **Verified as a real detector, not a hypothetical:** the string "co-extensive" appears at `topics/the-steelman-for-value-blind-selection` **L101** and "direct" at `positions/value-in-selection` **L60**, and no existing check connects them. Scope this as a *documented discipline* in the countermeasures page; **do not autonomously build or wire a new automated gate** — the same reservation that governs the confession marker applies, and calibration instruments are operator territory ([[anchoring-false-high-is-the-base-rate-lexical-vs-structural]] and the two open NEEDS-HUMAN calibration entries).
 
 ### ✓ 2026-09-05: two live loci state pain asymbolia's *insula* localisation more confidently than the primary literature supports — the original finding has never been replicated after insula damage (source-verified)
 - **Type**: refine-draft

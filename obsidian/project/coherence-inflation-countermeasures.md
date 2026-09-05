@@ -2,9 +2,9 @@
 title: "Coherence Inflation Countermeasures"
 description: "Safeguards against systematic overcommitment when an AI system both generates and reviews content optimised for internal consistency. Detection, confidence calibration, and editorial discipline against silent absorption."
 created: 2026-01-16
-modified: 2026-09-04
+modified: 2026-09-05
 human_modified: null
-ai_modified: 2026-09-04T16:42:00+00:00
+ai_modified: 2026-09-05T19:39:24+00:00
 draft: false
 topics: []
 concepts:
@@ -39,12 +39,16 @@ related_articles:
   - "[[reviews/outer-review-2026-09-03-chatgpt-5-6-sol-pro]]"
   - "[[reviews/outer-review-2026-09-03-claude-opus-5]]"
   - "[[reviews/outer-review-synthesis-2026-09-03]]"
+  - "[[reviews/outer-review-2026-09-04-claude-opus-5]]"
+  - "[[reviews/outer-review-synthesis-2026-09-04]]"
+  - "[[positions/value-in-selection]]"
+  - "[[positions/methodology-and-calibration]]"
   - "[[voids/edge-states-and-void-probes]]"
   - "[[voids/conceptual-metabolism-void]]"
   - "[[voids/expertise-and-its-occlusion]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-fable-5-1
 ai_generated_date: 2026-01-16
 last_curated: null
 last_deep_review: 2026-04-29T14:27:00+00:00
@@ -401,11 +405,13 @@ The remainder of the finding is about enforcement rather than design. Check (a) 
 
 ### Policy
 
-Two convergent failure modes share a fix: claims that drift *up* in a lead relative to the article's own body, and caveats that land in a source article but never propagate up to the apex that depends on it.
+Two convergent failure modes share a fix: claims that drift *up* in a lead relative to the article's own body, and caveats that land in a source article but never propagate up to the apex or register entry that depends on it.
 
 **Strength-of-claim linter.** A lead that says a phenomenon "demonstrates," "establishes," or "supports dualism" while the body later concedes the same phenomenon is "compatible with," "constrains," or "raises the explanatory cost on" the rival is internally calibration-inconsistent. The 2026-05-26 cycle found exactly this in [[mental-effort]] ("among the strongest evidence that consciousness does something") and [[empirical-phenomena-mental-causation]] ("placebo demonstrates consciousness directing physical processes"), whose bodies retreat to "raises the explanatory cost." The lead, being the truncation-resilient part an LLM reads first (see [[writing-style]]), is the most damaging place for the strong verb to sit.
 
 **Caveat-propagation rule.** When a source article receives a caveat *after* an apex was last reviewed — a continuous-signal-detection caveat in [[memory-anomalies]], a perceptual-reality-monitoring caveat in a higher-order-theories article, a calibrated-evidential-rung caveat in a bridge article — the owning apex is now silently overstated. The source-level honesty does not reach the synthesis that leans on it.
+
+**The register variant.** The rule as first written enumerated apexes, but a positions-register entry consumes source articles the same way, and the 2026-09-04 cycle supplied the worked instance ([[reviews/outer-review-synthesis-2026-09-04|synthesis]] cluster C2, two of three reviewers). [[positions/value-in-selection#^p-vs2|P-VS2]] carried three battery legs in their bare direction-bearing form — the attention clamp, the pain-asymbolia dissociation, the ~10-bit bandwidth figure — while each leg's own source already held the hedge the register lacked: [[topics/graduated-middle-path-valence-modulated-attention]] states that the clamp signature "does not separate" the middle path from the steelmanned rival, [[concepts/pain-asymbolia]] holds its claim "narrower than a surgical dissociation", and [[topics/grain-mismatch-as-independent-evidence]] says the step from the bandwidth figure to phenomenal content "is an interpretation, not a direct measurement". Claude Opus 5's phrasing is the rule's general form and is worth keeping: *registers inherit conclusions faster than they inherit the hedges that license them.* The transcription landed on 2026-09-05 ([[positions/value-in-selection-calibration-history#p-vs2|calibration history]]). The same day gave two more instances of a register lagging what it consumes: [[positions/moral-status]] P-MS2 had its `Argued in` filled once the article carrying its upward argument was found cited nowhere in the entry, and the fifth review-discipline convention in [[positions/methodology-and-calibration#^review-discipline|the methodology register]] — the rival of record for a normative position is a named, published author, never the Map's own reviewers — was adopted after an entry was found holding a verdict without the published opposition that licenses it.
 
 **Constrain-vs-establish frame lint (the body-vs-frame variant).** The strength-of-claim linter above catches drift *within the prose* (a strong-verb lead contradicted by a hedged body). A distinct body-vs-frame mismatch escapes it: an article whose **body** scrupulously hedges its conclusion as conditional-on-tenets — "if the tenets hold," "compatibility, not support," "constrains rather than establishes," "an open programme rather than evidence" (the calibrated phrasing the [[evidential-status-discipline|evidential-status discipline]] installs at the claim level) — while its **title, section headers, abstract, or meta-description** assert the same conclusion *categorically*. The frame inherits the strong reading the body has explicitly declined; an LLM that fetches only the title, headers, and meta-description (the truncation-resilient surface — see [[writing-style]]) reads a disqualification the body never licensed. This is the constrain-vs-establish slippage of the [[evidential-status-discipline]] migrated from the sentence to the article's framing furniture, and it is exactly the coherence-inflation pattern where calibrated body prose is undercut by an over-claiming frame.
 
@@ -415,7 +421,8 @@ The worked example is [[quantum-state-inheritance-in-ai]] (2026-06-18 Claude Opu
 
 - **Strength-of-claim linter**: `/validate-all` (or a dedicated check) scans leads and "Relation to Site Perspective" sections for the strong-verb set ("demonstrates," "establishes," "proves," "supports dualism") and flags any article whose body uses the discipline-compliant weaker set ("compatible with," "constrains," "raises the explanatory cost," "made more live"). The fix is to align the lead down to the body, never the body up to the lead.
 - **Constrain-vs-establish frame lint**: `/deep-review` and `/refine-draft` (and `/expand-topic` at creation) compare an article's *frame* — title, H2/H3 headers, abstract/opening summary, and `description` frontmatter — against its body's calibration. If the body's conclusion is conditional-on-tenets or constrain-not-establish while any frame element asserts it categorically, the mismatch is a calibration defect, not a stylistic one; relax the frame down to the body. This is written review guidance, not an automated check — the reviewer reads both surfaces and judges the gap.
-- **Propagation**: when a `/refine-draft` or `/deep-review` pass adds a caveat to a source article, it generates a `cross-review` ticket in `todo.md` for every apex that links that source. The harder case — a thesis *withdrawn* rather than caveated, whose dependents are same-tier siblings rather than apexes — is Countermeasure 18's withdrawal sweep. The apex's owning synthesis receives an automatic review prompt rather than waiting for the next scheduled deep-review to notice the drift. This is the per-apex companion to the corpus-split propagation the changelog already performs for citation fixes.
+- **Propagation**: when a `/refine-draft` or `/deep-review` pass adds a caveat to a source article, it generates a `cross-review` ticket in `todo.md` for every apex that links that source, and a `positions-evolve` ticket for every `positions/` entry whose `Argued in` or `Depends on` names it. `Argued in` is the field built to carry these edges; where an entry cites the source only inline in its Asserts paragraph — as P-VS2 did for all three of its hedge-bearing sources, none of which its `Argued in` named — a slug grep across `positions/` is the fallback enumeration, and the missing edge is itself a defect for the queued pass to repair. The `positions-evolve` skill already carries the matching hook (re-verify an entry after a substantial revision of an `Argued in` source); the worked instance is one where it did not fire, which is [[positions/methodology-and-calibration#P-M5: Disclosure is not self-correction — a discipline binds only as far as the pipeline enforces it|P-M5]]'s point and no reason to write a second hook. The harder case — a thesis *withdrawn* rather than caveated, whose dependents are same-tier siblings rather than apexes — is Countermeasure 18's withdrawal sweep. The apex's owning synthesis receives an automatic review prompt rather than waiting for the next scheduled deep-review to notice the drift. This is the per-apex companion to the corpus-split propagation the changelog already performs for citation fixes.
+- **Discriminability-contradiction grep** (review-time discipline, not a scanner): before a `/positions-evolve` pass records or keeps *empirical discriminability direct* on an entry, it greps the articles that entry's `Argued in` and `Depends on` name — and, per the fallback above, any source cited inline — for the concession vocabulary *co-extensive*, *no empirical daylight*, *conceptual, not empirical*, *cannot distinguish*, *does not separate*, and reads each hit against the rated test. This is the strength-of-claim linter at register grain: the calibration line is the lead, the source article is the body, and the fix runs the same way — align the rating down to the source, never the source up to the rating. It is a verified detector rather than a proposal: "co-extensive" stood in [[topics/the-steelman-for-value-blind-selection]] while P-VS2 read *direct*, and nothing connected them until three outer reviewers did; ChatGPT 5.6 Pro's same-cycle methodology items — a discriminating-test rule, propagate dependency calibration — converge on it. Three entries carry *direct* at the time of writing, so the discipline costs one grep per touch. No gate is built or scheduled for it: calibration instruments are curator territory, under the same reservation that holds Countermeasure 16 at proposed.
 - **Registry-grain sibling**: the same discipline lifted across files — apex-registry entry theses, position statements, `apex_thesis` frontmatter, and `description:` fields tested against the bodies they certify, in both directions — is the [[evidential-status-discipline#The Registry-vs-Body Calibration Diff|registry-vs-body calibration diff]], installed 2026-08-20 from two-reviewer convergence after the apex registry was found selling claims its remediated bodies had withdrawn.
 
 ## Countermeasure 13: Hard-Problem-Restatement and Missing-Engagement Audits
@@ -507,6 +514,7 @@ Track these metrics across evolution sessions:
 | Citations removed or downgraded on a failed fetch alone, with no second retrieval route attempted and no record of which route failed (Countermeasure 11, failed-fetch rule) | 0 | >0 |
 | Leads with strong-verb claims contradicted by their own bodies (Countermeasure 12) | 0 | >0 |
 | Articles whose title/headers/meta-description assert categorically what the body hedges as conditional-on-tenets (Countermeasure 12, constrain-vs-establish frame lint) | 0 | >0 |
+| Positions entries whose `Argued in`/`Depends on` sources gained a caveat after the entry's last review with no re-verify queued, or rated *direct* on empirical discriminability against a source carrying a co-extensiveness or cannot-distinguish concession (Countermeasure 12, register variant) | 0 | >0 |
 | Apex articles failing the missing-engagement audit on a top-N opponent (Countermeasure 13) | 0 | >1 |
 | Novelty claims unchecked against occupied conceptual space, or substantial extensions of a named view without a credit paragraph (Countermeasure 14) | 0 | >0 |
 | Synthesis-article convergence claims asserting evidential support without an independence check or named common-cause null (Countermeasure 15) | 0 | >0 |

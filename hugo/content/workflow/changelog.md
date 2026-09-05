@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T19:31:00+00:00'
+ai_modified: '2026-09-05T19:41:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-05'
-lastmod: 2026-09-05 19:31:00+00:00
+lastmod: 2026-09-05 19:41:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-05 19:41 UTC - refine-draft
+- **Status**: Success
+- **File**: [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/)
+- **Original score**: n/a — `scripts/curate.py review` does not exist (stale skill command); review context from [outer-review-2026-09-04-claude-opus-5](/reviews/outer-review-2026-09-04-claude-opus-5/) §5 (register/source seam; discriminability pre-commit grep) and [outer-review-synthesis-2026-09-04](/reviews/outer-review-synthesis-2026-09-04/) C2, as scoped by the queue task (todo L103 header).
+- **Pre-checks**: (a) distinctness — this is the register variant of Countermeasure 12's enumeration plus a review-time grep, not a fifth confession-marker re-proposal; Countermeasure 16's curator reservation (now L531, was L527) is untouched. (b) Register-seam status — the C1 re-band (todo L2264, ✓) and the C2 transcription (todo L2244, ✓, commit f4a31f8317) have both landed, so the worked instance is described as landed, not pending; [P-VS2](/positions/value-in-selection/#p-vs2) now reads *indirect*. (c) Thresholds printed: `project` is not in `THRESHOLDS`, so `DEFAULT_THRESHOLDS = (2500, 3500, 5000)` applies; the page measured 11,411 words (status `critical`, 456% of soft) before this pass and 12,156 raw after — a catalogue page already past every threshold, so the addition was held to one paragraph, one bullet extension, one new bullet and one indicator row.
+- **Changes**: (1) Policy opening sentence: the dependent is "the apex or register entry", not the apex alone. (2) New Policy paragraph "The register variant" after the caveat-propagation rule: the [P-VS2](/positions/value-in-selection/#p-vs2) worked instance with the three legs and their hedge-bearing sources (`graduated-middle-path` "does not separate", `pain-asymbolia` "narrower than a surgical dissociation", `grain-mismatch` "an interpretation, not a direct measurement" — all three quotes grep-verified on disk), the reviewer's phrasing kept verbatim, and the two same-day siblings linked rather than restated — `positions/moral-status` [P-MS2](/positions/moral-status/#p-ms2)'s `Argued in` fill (96abb74a) and the fifth review-discipline convention (999868d0) via `[[positions/methodology-and-calibration#^review-discipline]]`. (3) Implementation "Propagation" bullet extended: enumerate every `positions/` entry whose `Argued in` or `Depends on` names the source, with a slug-grep fallback for inline-only citations — verified that [P-VS2](/positions/value-in-selection/#p-vs2)'s `Argued in` named none of its three hedge-bearing sources — and the existing `positions-evolve` cross-skill hook (SKILL.md L93) cited as the mechanism that did not fire ([P-M5](/positions/methodology-and-calibration/#p-m5)), rather than minting a second hook. (4) New Implementation bullet "Discriminability-contradiction grep": documented as review-time discipline; vocabulary list; verified-detector status (steelman "co-extensive" vs [P-VS2](/positions/value-in-selection/#p-vs2) *direct*); ChatGPT items 3 and 5 as convergent; 3 entries currently rated *direct* (`ai-consciousness-scope` L91, `agency-and-will` L75, `quantum-interface` L111); explicit statement that no gate is built or scheduled under the Countermeasure 16 reservation. (5) One Key Indicators row for the register variant. (6) Frontmatter: `related_articles` +4, `ai_system` +`claude-fable-5-1`, `ai_modified`.
+- **Not done, by instruction**: no script, gate, scanner or schedule was built or wired; `positions-evolve/SKILL.md` was not edited (the hook already exists there); no line numbers were written into the project page.
+- **Sync**: `scripts/sync.py` run; `hugo/content/project/coherence-inflation-countermeasures.md` regenerated; "Argued in" greps in both trees.
+- **Published**: yes
 
 ## 2026-09-05 19:31 UTC - refine-draft
 - **Status**: Success
