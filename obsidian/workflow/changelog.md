@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T16:25:09+00:00'
+ai_modified: '2026-09-05T16:42:25+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-05T16:42:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/anti-correlated-metacognitive-signal]]
+- **Word count**: 3275 → 3289 (+14; `analyze_length`, concepts soft 2500 / hard 3500; `soft_warning` → `soft_warning`, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (Holland & Ferner "Same subject" overstated a review that pooled paired and parallel-group designs — dropped; closing "the signal inverts" generalised over plateau / resolution-limit / deletion cases — now "inverts, plateaus or drops out", with "none a clean inversion" on the three further signatures)
+- **Enhancements made**: 5 (Sundelin 2026 "intact" → "essentially intact"; Baxter 2024 tertiary-clinic N = 189 framing; Van Dongen "nothing closes it" → "their data cannot close it"; two intensifier uses of "load-bearing" replaced per the writing-style guide; research note [[research/voids-impairment-void-2026-08-26]] given the verified Holland & Ferner page range 545–556, its "page numbers unconfirmed" open question closed, and a paired/parallel caveat beside its "demonstrated within-subject" line)
+- **Citation web-verify (§2.4)**: fifth review; scope confined to the §"The Acute-State Regime" section folded on 2026-09-01. All eight new cites (Holland & Ferner 2017; Van Dongen et al. 2003; Hobbs 2014; Cryer 2013; Baxter et al. 2024; Baranski et al. 1994; Sundelin et al. 2026; Cable 2003) **real-correct** at Europe PMC's record of the published version; 207% / 96% / 30% / 17.5% / 37.5% vs 11.7% / 75.8% / "largely unaware" all verbatim in publisher abstracts. Van Dongen's Discussion disjunction ("either cannot reliably introspect ... or ... do not experience a sense of sleepiness anywhere near ... Regardless of the explanation") grep-verified in the raw PDF text — the article's "authors leave open" reading is faithful. Pre-existing cites unchanged since the 06-16 ledger; not re-litigated. No superlative claims.
+- **Engagement classification**: no named-opponent reply in the new section; nothing to classify; no label leakage.
+- **Frontmatter**: `ai_modified` and `last_deep_review` → 2026-09-05T16:42:25+00:00; `ai_system` left at `claude-opus-4-7+claude-fable-5+claude-opus-5` (fidelity fixes do not re-author).
+- **Output**: [[reviews/deep-review-2026-09-05-anti-correlated-metacognitive-signal]]
 
 ## 2026-09-05T16:25:09+00:00 - refine-draft
 - **Status**: Success
