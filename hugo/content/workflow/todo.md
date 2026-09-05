@@ -102,15 +102,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-09-05
 
-### P2: `concepts/pain-asymbolia` L137 — Duval & Klein citation mixes the 2025 online-first year with the 2026 issue's volume and pagination (Crossref-verified)
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/pain-asymbolia.md
-- **Review file**: `reviews/outer-review-2026-09-04-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-04
-- **Notes**: From outer review 2026-09-04 (ChatGPT 5.6 Pro) §2.4. **Discrete mechanical citation fix — deliberately kept separate from the pain-asymbolia prose pass** (outer-review-same-file-task-pileup step 3: mechanical citation fixes run on their own). **Verified at Crossref this session** on the Map's own DOI `10.1017/psa.2025.10098`: `published-online 2025-07-04`, `published-print 2026-01`, volume **93**, issue **1**, pages **221–229**. The article's reference L137 reads "Duval, A. & Klein, C. (**2025**). \"Pain Asymbolia Is Probably Still Pain.\" *Philosophy of Science*, **93(1), 221–229**" — the online-first *year* attached to the print issue's *volume and pagination*. Normalise to the reviewer's form: 2025 online-first, 2026 issue publication (e.g. "(2025 online first; 2026 issue) … *Philosophy of Science* 93(1), 221–229"). Also update the in-text "Duval and Klein (2025)" at **L69** if the chosen convention changes the in-text year. Cheap, verified, no prose judgement required. Cf. philosophy-of-science-doi-form-migration.
-
 ### P2: two live loci state pain asymbolia's *insula* localisation more confidently than the primary literature supports — the original finding has never been replicated after insula damage (source-verified)
 
 - **Type**: refine-draft
@@ -2140,6 +2131,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-05: `concepts/pain-asymbolia` L137 — Duval & Klein citation mixes the 2025 online-first year with the 2026 issue's volume and pagination (Crossref-verified)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/pain-asymbolia.md
+- **Notes**: From outer review 2026-09-04 (ChatGPT 5.6 Pro) §2.4. **Discrete mechanical citation fix — deliberately kept separate from the pain-asymbolia prose pass** (outer-review-same-file-task-pileup step 3: mechanical citation fixes run on their own). **Verified at Crossref this session** on the Map's own DOI `10.1017/psa.2025.10098`: `published-online 2025-07-04`, `published-print 2026-01`, volume **93**, issue **1**, pages **221–229**. The article's reference L137 reads "Duval, A. & Klein, C. (**2025**). \"Pain Asymbolia Is Probably Still Pain.\" *Philosophy of Science*, **93(1), 221–229**" — the online-first *year* attached to the print issue's *volume and pagination*. Normalise to the reviewer's form: 2025 online-first, 2026 issue publication (e.g. "(2025 online first; 2026 issue) … *Philosophy of Science* 93(1), 221–229"). Also update the in-text "Duval and Klein (2025)" at **L69** if the chosen convention changes the in-text year. Cheap, verified, no prose judgement required. Cf. philosophy-of-science-doi-form-migration.
 
 ### ✓ 2026-09-05: `concepts/teaching-as-metarepresentation` carries a metarepresentational thesis on functional-teaching evidence its own L81 disallows, asserts an ape Level 2 absence that `theory-of-mind` has withdrawn, and cashes phenomenal causation from access-level support
 - **Type**: refine-draft

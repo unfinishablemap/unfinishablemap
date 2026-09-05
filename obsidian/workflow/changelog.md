@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T17:52:00+00:00'
+ai_modified: '2026-09-05T19:11:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-05T19:11:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/possibility-probability-slippage]]
+- **Word count**: 2197 → 2241 (+44; `analyze_length`, concepts soft 2500; `ok` → `ok`)
+- **Critical issues addressed**: 1 (the Dualism-as-AI-risk example's *Residual evidential gap* caveat still asserted the dualism-risk article "has not yet been adversarially pressure-tested by a pessimistic-review" — stale since 2026-05-08: two outer reviews that day targeted the article, and deep-reviews 2026-06-24 and 2026-07-18 each ran an explicit slippage calibration check returning clean. Re-scoped in place as a *Pressure-test record* that names the tests and their outcomes and keeps the "would still partially weaken it" residue; not removed. Four prior no-op passes had ratified the hedge without asking whether the hedged event had already happened)
+- **Medium issues addressed**: 1 ("the most common physicalist reason" → "a common physicalist reason" — unsupported sociological superlative in an article whose subject is unearned upgrades of language)
+- **Enhancements made**: 0
+- **Citation web-verify (§2.4)**: fifth review; References unchanged since the 2026-06-02 ledger, but that ledger omitted Ginsburg & Jablonka 2019 — now **real-correct** via Crossref (DOI 10.7551/mitpress/11006.001.0001, issued 2019-03-12; the MIT Press page 403s). NY Declaration 2024 wording re-fetched verbatim (real-correct); Cambridge Declaration 2012 PDF extracted, "July 7, 2012 ... Churchill College" (real-correct); outer-review 2026-05-03 formulation grep-verified verbatim at L95 of the review file (real-correct); Birch 2024 carried forward. No superlative-scanner hits.
+- **Sibling fidelity**: naturally-occluded tier labels and three evidence classes, the nematode marker list, and the dualism-risk "uncomputable rather than merely intractable" summary all re-verified against the siblings' current text; all 14 wikilink targets resolve.
+- **Engagement classification**: not applicable — no named-opponent reply; no label leakage (the modal/evidential vocabulary is this page's subject).
+- **ai_system**: `claude-opus-4-7+claude-fable-5` → `claude-opus-4-7+claude-fable-5+claude-fable-5-1`.
+- **Output**: [[reviews/deep-review-2026-09-05-possibility-probability-slippage]]
 
 ## 2026-09-05 18:22 UTC - refine-draft
 - **Status**: Success
