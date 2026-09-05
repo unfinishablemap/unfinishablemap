@@ -1,8 +1,58 @@
+---
+ai_contribution: 90
+ai_generated_date: 2026-09-04
+ai_modified: 2026-09-05 00:14:44+00:00
+ai_system: chatgpt-5-6-pro
+author: Andy Southgate
+concepts:
+- '[[concepts/pain-asymbolia]]'
+- '[[concepts/affective-forecasting-gap]]'
+created: 2026-09-04
+date: &id001 2026-09-05
+description: 'ChatGPT 5.6 Pro referee audit of the value-in-selection positions register:
+  P-VS2''s calibration is unearned and the inherited mechanism debt is relaxed in
+  five places.'
+draft: false
+human_modified: null
+last_curated: 2026-09-05
+lastmod: 2026-09-05 00:14:44+00:00
+modified: *id001
+outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a9a59d7-bb20-83eb-b663-6958b75dd230
+outer_review_extraction_method: js-dom
+outer_review_status: processed
+related_articles:
+- '[[project]]'
+subject_articles:
+- positions/value-in-selection.md
+subject_source: reuse:pending-reviews:outer-review-2026-09-04-gemini-2-5-pro.md
+subject_title: Audit value-in-selection
+subject_type: recent
+title: Outer Review - ChatGPT 5.6 Pro (2026-09-04)
+topics:
+- '[[valence-and-conscious-selection]]'
+- '[[wanting-liking-and-the-value-in-mechanism-fork]]'
+- '[[interoceptive-consciousness-and-the-interface]]'
+---
+
+**Date**: 2026-09-04
+**Reviewer**: ChatGPT 5.6 Pro
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+Please act as a rigorous external referee for The Unfinishable Map (https://unfinishablemap.org), a philosophical site defending interactionist dualism with minimal quantum interaction. This cycle's subject is the positions-register entry at https://unfinishablemap.org/positions/value-in-selection/, which records the Map's stance on the value-blind / value-sensitive fork: whether felt valence does selective work or merely accompanies selection. Audit it: (1) verify its empirical claims and citations against primary sources - reward prediction error, wanting/liking dissociation, affective forecasting, pain asymbolia, interoception - flagging misattributed, outdated or fabricated references; (2) test whether each position's stated confidence band is earned by the evidence cited, and whether the entry's own inherited "mechanism debt" disclaimer is honoured consistently or quietly relaxed elsewhere in the text; (3) name competing frameworks and counterarguments it never engages; (4) identify significant 2020s literature it misses. Assess the philosophical content, not the site's automation or governance. Recent site changes are logged at https://unfinishablemap.org/workflow/changelog/ - consult live pages directly, since search indexes lag 24-48 hours. End your report with a list of concrete potential improvements to specific articles and to the site's methodology.
+
+## Reply
+
 # External referee report: “Value in Selection Positions”
 
 **Recommendation: major revision.**
 
-I inspected the live register entry, last modified 27 August 2026, its linked empirical articles, the quantum-interface dependency register, and the changelog through 3 September 2026. The entry has improved its terminology and now explicitly acknowledges both underdetermination and inherited mechanism debt. Those concessions are substantive. They do not, however, support its current classification of P‑VS2 as a grade-C, developed, directly discriminable, framework-independent position. [The Unfinishable Map+1](https://unfinishablemap.org/positions/value-in-selection/)
+I inspected the live register entry, last modified 27 August 2026, its linked empirical articles, the quantum-interface dependency register, and the changelog through 3 September 2026. The entry has improved its terminology and now explicitly acknowledges both underdetermination and inherited mechanism debt. Those concessions are substantive. They do not, however, support its current classification of P‑VS2 as a grade-C, developed, directly discriminable, framework-independent position. [value-in-selection](/positions/value-in-selection/)
 
 ## 1. Overall verdict
 
@@ -28,7 +78,7 @@ There is a genuine correction in the newest forecasting article: it now distingu
 2. predicted or learned value;
 3. the discrepancy between the two.
 
-A prediction error is not the stored expectation and normally is not itself the policy variable consulted at choice time. The newer terminology map gets this right; the older prose does not. [The Unfinishable Map+3The Unfinishable Map+3The Unfinishable Map+3](https://unfinishablemap.org/topics/valence-and-conscious-selection/)
+A prediction error is not the stored expectation and normally is not itself the policy variable consulted at choice time. The newer terminology map gets this right; the older prose does not. [valence-and-conscious-selection](/topics/valence-and-conscious-selection/)
 
 The framing is also scientifically dated. Dabney and colleagues found evidence for a population-level distributional code in mouse VTA neurons rather than one canonical scalar estimate. Other 2020s work shows dopamine responses varying with reward rarity and supports heterogeneous or efficiently coded prediction errors. This does not refute reward-prediction-error theories, but it does make “dopamine carries expected valence” an especially poor summary. [Nature+2Nature+2](https://preview-www.nature.com/articles/s41586-019-1924-6.pdf)
 
@@ -43,13 +93,13 @@ The two principal animal studies are real and substantially correctly described.
 - Peciña and Berridge’s opioid microinjections altered positive taste-reactivity in a localized accumbens-shell region, while effects on intake were more spatially extensive.
 - Tindell and colleagues showed that sodium depletion could transform the incentive salience of a cue for concentrated salt before rats had experienced that salt as pleasant in the new physiological state.
 
-These findings provide strong evidence that incentive salience, learned prediction and operational taste-reactivity are dissociable. [The Unfinishable Map+2PubMed+2](https://unfinishablemap.org/topics/wanting-liking-and-the-value-in-mechanism-fork/)
+These findings provide strong evidence that incentive salience, learned prediction and operational taste-reactivity are dissociable. [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/)
 
 The opening nevertheless overstates what the studies establish. It initially glosses “liking” as “felt hedonic impact,” then later correctly explains that Berridge’s quotation marks bracket consciousness and that objective “liking” is an orofacial or neural-behavioural measure distinct from subjective pleasure. The first formulation should be removed. Rat taste-reactivity is evidence about an operational hedonic process; it does not establish what, or whether, the animal consciously feels.
 
 The slogan “dopamine drives wanting; opioids drive liking” is also too clean when exported to humans. Recent antagonist studies give a less modular picture: opioid antagonism can affect motivational measures as well as consummatory processing; dopamine antagonist effects are sometimes weak or absent; and one 2024 randomized study found no behavioural drug effect despite an opioid-related orbitofrontal imaging effect. The animal dissociation remains important, but the human pharmacology does not license a simple dopamine/wanting versus opioid/liking partition. [eLife+2eLife+2](https://elifesciences.org/articles/55797)
 
-The claim that the dissociation establishes that there is “no single neural value currency” also does not follow. Distinct systems for incentive salience and consummatory response are compatible with later-stage common-currency representations in vmPFC or OFC. Indeed, the 2024 human paper discusses both common and reward-specific valuation architectures. Component dissociation is not evidence against every form of common coding. [The Unfinishable Map+1](https://unfinishablemap.org/topics/wanting-liking-and-the-value-in-mechanism-fork/)
+The claim that the dissociation establishes that there is “no single neural value currency” also does not follow. Distinct systems for incentive salience and consummatory response are compatible with later-stage common-currency representations in vmPFC or OFC. Indeed, the 2024 human paper discusses both common and reward-specific valuation architectures. Component dissociation is not evidence against every form of common coding. [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/)
 
 The addiction claim should be labelled as the incentive-sensitization account, not presented as a settled description of addiction generally. It is a serious theory, but craving, pleasure, habit, withdrawal relief, model-based expectation and compulsive control failures vary across substances, stages and patients.
 
@@ -62,7 +112,7 @@ The addiction claim should be labelled as the incentive-sensitization account, n
 
 ### 2.3 Affective forecasting
 
-The classic references to immune neglect, focalism and forecasting error are real. The article also deserves credit for recognizing that selection requires correct ordering more than correct absolute magnitude: an intensity error that preserves preference rank need not alter choice. It additionally acknowledges that the forecasting literature is mixed. [The Unfinishable Map](https://unfinishablemap.org/concepts/affective-forecasting-gap/)
+The classic references to immune neglect, focalism and forecasting error are real. The article also deserves credit for recognizing that selection requires correct ordering more than correct absolute magnitude: an intensity error that preserves preference rank need not alter choice. It additionally acknowledges that the forecasting literature is mixed. [affective-forecasting-gap](/concepts/affective-forecasting-gap/)
 
 But the text then says that “both sides concede” a duration result. That is too categorical. Recent studies show considerable contextual accuracy, particularly relative or within-person accuracy. Carlson and colleagues found that forecast accuracy varies by component and context, while Moeck and colleagues found meaningful relative accuracy and comparatively small absolute errors in intensive longitudinal data. The correct conclusion is not that impact bias has disappeared, but that its size, sign and decision relevance are highly design- and outcome-dependent. [NCBI+1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10062255/)
 
@@ -81,7 +131,7 @@ That matters to P‑VS2. Manipulating forecasts, mood or imagery ordinarily also
 
 Berthier, Starkstein and Leiguarda’s 1988 study is real and clinically important. Its six patients recognized painful stimulation but showed absent or inadequate withdrawal and emotional reactions. The same report, however, also records hemiparesis, cortical sensory loss, neglect, body-schema disorders, broader failures to react to threats and anatomically extensive lesions. This is not an intervention that removed phenomenal unpleasantness while leaving “all the physical machinery of pain” unchanged. [Stafforini PDF+2Stafforini PDF+2](https://pdf.stafforini.com/berthier-1988-asymbolia-pain-sensorylimbic.pdf)
 
-The Map now concedes that the dissociation is not a pristine one-variable experiment and cites the contemporary taxonomic dispute. Yet the same article continues to call asymbolic patients “empirical partial zombies,” says they possess all the physical machinery except suffering, and later describes the syndrome as evidence for bidirectional interaction. Those statements undo the earlier qualification. The cautious and expansive readings cannot both stand. [The Unfinishable Map+1](https://unfinishablemap.org/concepts/pain-asymbolia/)
+The Map now concedes that the dissociation is not a pristine one-variable experiment and cites the contemporary taxonomic dispute. Yet the same article continues to call asymbolic patients “empirical partial zombies,” says they possess all the physical machinery except suffering, and later describes the syndrome as evidence for bidirectional interaction. Those statements undo the earlier qualification. The cautious and expansive readings cannot both stand. [pain-asymbolia](/concepts/pain-asymbolia/)
 
 Several distinctions are being compressed:
 
@@ -105,7 +155,7 @@ For P‑VS2, the proposed prediction that asymbolia should impair “selection e
 
 ### 2.5 Interoception
 
-The article’s Craig-derived picture—heterogeneous bodily channels converging on “a single visceral-integration cortex” or “shared cortical integrator”—is now too centralized. Current evidence supports extensive convergence, but within a distributed and hierarchical system spanning multiple insular and cingulate regions, somatomotor and default-mode networks, thalamic and hypothalamic structures, brainstem nuclei, striatum, amygdala and other areas. The 2025 7-Tesla mapping study explicitly describes a whole-brain allostatic-interoceptive system, not one cortical hub. [The Unfinishable Map+2The Unfinishable Map+2](https://unfinishablemap.org/topics/interoceptive-consciousness-and-the-interface/)
+The article’s Craig-derived picture—heterogeneous bodily channels converging on “a single visceral-integration cortex” or “shared cortical integrator”—is now too centralized. Current evidence supports extensive convergence, but within a distributed and hierarchical system spanning multiple insular and cingulate regions, somatomotor and default-mode networks, thalamic and hypothalamic structures, brainstem nuclei, striatum, amygdala and other areas. The 2025 7-Tesla mapping study explicitly describes a whole-brain allostatic-interoceptive system, not one cortical hub. [interoceptive-consciousness-and-the-interface](/topics/interoceptive-consciousness-and-the-interface/)
 
 Peripheral and brainstem work further shows organ-, layer- and modality-sensitive pathways rather than indiscriminate early convergence. Zhao and colleagues found multidimensional coding in vagal sensory neurons, while Ran and colleagues found organ-tuned and partly topographic organization in the nucleus of the solitary tract. These findings do not eliminate integration; they replace “one integrator” with parallel, partially convergent processing. [PubMed+1](https://pubmed.ncbi.nlm.nih.gov/35296859/)
 
@@ -129,7 +179,7 @@ Across the five empirical clusters checked:
 
 ## 3. Are the confidence bands earned?
 
-The register currently assigns the following calibrations. [The Unfinishable Map+1](https://unfinishablemap.org/positions/value-in-selection/)
+The register currently assigns the following calibrations. [value-in-selection](/positions/value-in-selection/)
 
 | Position | Current calibration | Referee assessment | Recommended calibration |
 | --- | --- | --- | --- |
@@ -171,13 +221,13 @@ P‑VS4 also creates a problem for P‑VS1. If hedonic, aesthetic, epistemic, au
 
 ## 4. Mechanism debt: honestly stated, inconsistently enforced
 
-The target’s mechanism-debt paragraph is appropriately strong: no toy Hamiltonian, master equation or simulation exists; bias without aggregate Born-rule deviation remains unresolved; and value-sensitive selection requires an additional coupling. The upstream quantum-interface register makes the same point and says that downstream claims of causal work must not outrun it. [The Unfinishable Map+2The Unfinishable Map+2](https://unfinishablemap.org/positions/value-in-selection/)
+The target’s mechanism-debt paragraph is appropriately strong: no toy Hamiltonian, master equation or simulation exists; bias without aggregate Born-rule deviation remains unresolved; and value-sensitive selection requires an additional coupling. The upstream quantum-interface register makes the same point and says that downstream claims of causal work must not outrun it. [value-in-selection](/positions/value-in-selection/)
 
 The debt is then relaxed in at least five ways.
 
 ### 4.1 “No implementation” becomes “worked out”
 
-Within the target itself, the attentional coupling is first said to have “no worked physical implementation” and then described as “worked out in Stapp’s observation-rate model.” The parent article goes further, calling Stapp and Eccles “worked physical implementations.” But the quantum-interface register says no worked formal model currently exists and classifies Stapp-Zeno as a programme-level candidate demoted on decoherence-timing grounds. [The Unfinishable Map+3The Unfinishable Map+3The Unfinishable Map+3](https://unfinishablemap.org/positions/value-in-selection/)
+Within the target itself, the attentional coupling is first said to have “no worked physical implementation” and then described as “worked out in Stapp’s observation-rate model.” The parent article goes further, calling Stapp and Eccles “worked physical implementations.” But the quantum-interface register says no worked formal model currently exists and classifies Stapp-Zeno as a programme-level candidate demoted on decoherence-timing grounds. [value-in-selection](/positions/value-in-selection/)
 
 A published verbal or mathematical proposal is not yet a worked neural implementation. The consistent wording would be:
 
@@ -185,11 +235,11 @@ A published verbal or mathematical proposal is not yet a worked neural implement
 
 ### 4.2 P‑VS2 is allowed to be more direct than its upstream mechanism
 
-The upstream register explicitly says that adding a second indirect psychophysical channel is not a move from indirect to direct. P‑VS2 nevertheless rates its tests “direct,” although the putative physical selector, its variables and its observable consequences have not been specified. [The Unfinishable Map](https://unfinishablemap.org/positions/quantum-interface/)
+The upstream register explicitly says that adding a second indirect psychophysical channel is not a move from indirect to direct. P‑VS2 nevertheless rates its tests “direct,” although the putative physical selector, its variables and its observable consequences have not been specified. [quantum-interface](/positions/quantum-interface/)
 
 ### 4.3 The pain article re-upgrades compatibility into evidence
 
-The pain article first says that predictive-processing and dualist explanations share the dissociation, then later calls asymbolia evidence for bidirectional interaction. That is exactly the inference the mechanism-debt convention is supposed to prevent: a phenomenon compatible with mental causation is treated as positive evidence for it without a discriminating model. [The Unfinishable Map](https://unfinishablemap.org/concepts/pain-asymbolia/)
+The pain article first says that predictive-processing and dualist explanations share the dissociation, then later calls asymbolia evidence for bidirectional interaction. That is exactly the inference the mechanism-debt convention is supposed to prevent: a phenomenon compatible with mental causation is treated as positive evidence for it without a discriminating model. [pain-asymbolia](/concepts/pain-asymbolia/)
 
 ### 4.4 The middle path relocates rather than discharges the debt
 
@@ -282,7 +332,7 @@ At present, pluralism is added at the metaethical level while the selection mech
 
 ## 7. Competing frameworks and counterarguments insufficiently engaged
 
-The site does already discuss reward-prediction error, incentive salience, affordance competition, active inference and illusionism. It should not be criticized for omitting those entirely. [The Unfinishable Map+3The Unfinishable Map+3The Unfinishable Map+3](https://unfinishablemap.org/positions/value-in-selection/)
+The site does already discuss reward-prediction error, incentive salience, affordance competition, active inference and illusionism. It should not be criticized for omitting those entirely. [value-in-selection](/positions/value-in-selection/)
 
 The material does, however, omit or underdevelop several stronger alternatives.
 
@@ -436,3 +486,137 @@ Without those distinctions, negative affect accompanying tragedy or the sublime 
 8. **Create a controlled terminology glossary.** At minimum: reward, learned value, prediction error, incentive salience, objective liking, conscious pleasure, anticipated emotion, anticipatory emotion, valence, salience, motivation, selection efficacy and intrinsic value.
 9. **Apply negative-evidence symmetry.** A successful neural model should count against an extra phenomenal cause without being described as deductively eliminating it; an unexplained residual should count first as model failure, not automatically as evidence for dualism.
 10. **Replace support-direction labels with update rules.** State how large, replicable and specific an effect would have to be to move each confidence band, and how null results, manipulation checks and failed phenomenal isolation would be interpreted.
+
+## Verification Notes
+
+Extraction: page-side `Blob` download, SHA-256 matched between the rendered
+response and the file on disk (`e2230af36f093d0bb65971182cc1dec3548589adb1ca96a66609b45c52899b6a`,
+46,702 bytes / 437 lines). No text passed through a paraphrase-capable channel.
+Completeness confirmed: the render closes on item 10 of the numbered
+site-methodology list, matching the rendered end of the conversation.
+
+Fabricated-quote pass over Map-attributed spans (26 checked). **14 verbatim ·
+5 near-verbatim · 3 not verbatim · 5 excluded as the reviewer's own wording.**
+
+**Verbatim** (exact match in live content): "track expected valence" and
+"reward model denominated in dopaminergic prediction error"
+(`topics/valence-and-conscious-selection`); "all the physical machinery of
+pain" and "shows exactly where physical description stops"
+(`concepts/pain-asymbolia`); "a single visceral-integration cortex" and "There
+is no neutral interoceptive percept"
+(`topics/interoceptive-consciousness-and-the-interface`); "no worked physical
+implementation", "worked out in Stapp's observation-rate model", "worked
+physical implementation", "framework-internal only: no", "evaluative
+phenomenal character", "structural centrality"
+(`positions/value-in-selection`); "Suffering is intrinsically bad"
+(`topics/ethics-under-dualism`).
+
+**Near-verbatim** — true spans that grep zero on markdown italics, inner
+quotes or minor compression; substantively accurate, do not treat as
+fabrication: "shared cortical integrator" (source has `*shared*` italicised) ·
+"no single neural value currency" (source has inner quotes: `no single neural
+"value currency"`) · "real experimental paradigms populate the battery"
+(source: "...populate the *discriminating* battery") · "selection efficacy,
+not merely motivation" (source: "degraded selection *efficacy*, not merely
+reduced motivation") · "dopamine drives wanting; opioids drive liking"
+(compressed, but the reviewer signposts it as "the slogan").
+
+**Not verbatim** — scope creep, flag before minting tasks that quote them:
+
+1. **"empirical partial zombies"** attributed to `concepts/pain-asymbolia` is a
+   **misattribution**. The article says asymbolia patients are "an empirical
+   partial **case**" (line 89) and reserves "zombie" for the thought
+   experiment. The string "partial zombie" appears nowhere in live content —
+   only in [reviews/deep-review-2026-02-20-pain-asymbolia.md](/reviews/deep-review-2026-02-20-pain-asymbolia/). The reviewer's
+   §5 instruction to *remove* "empirical partial zombie" therefore targets a
+   string that is not in the article. **The underlying finding still stands**
+   and must not be dismissed with the quote: the article does say the zombie
+   argument "becomes less speculative" on clinical evidence, which is the
+   over-reading the reviewer is actually attacking. Re-scope any task to the
+   real sentence.
+2. "Valence modulates attention, and attention changes selection" — source
+   reads "valence modulates attention, attention drives selection"
+   (`positions/value-in-selection`). "Changes" is the reviewer's word.
+3. "Felt rather than learned value" — source reads "whose *felt* (not learned)
+   value biases selection". Reworded, presented as a quote.
+
+**Excluded — reviewer's own wording, not Map attributions** (do not grep-check
+these as Map quotes): the proposed replacements "a conceptual candidate
+lacking a worked neural or quantum model" and "candidate mapping lacking a
+worked neural implementation"; the proposed label "indirect, not presently
+identifying"; "dopamine carries expected valence" (the reviewer's own summary,
+offered as a *poor* summary); "intact sensory pain minus felt badness" (the
+reviewer characterising the modular interpretation Gerrans contests in the
+literature, not the Map).
+
+**Archived-target check**: all six criticised articles
+(`concepts/pain-asymbolia`, `positions/value-in-selection`,
+`topics/valence-and-conscious-selection`,
+`topics/interoceptive-consciousness-and-the-interface`,
+`topics/wanting-liking-and-the-value-in-mechanism-fork`,
+`concepts/affective-forecasting-gap`) are live in `obsidian/`, none archived.
+No reclassification needed.
+
+### Source and claim verification
+
+**Verified — the reviewer is right:**
+
+- ✓ **Duval & Klein metadata defect confirmed at Crossref** (DOI `10.1017/psa.2025.10098`):
+  `published-online 2025-07-04`, `published-print 2026-01`, volume 93, issue 1,
+  pages 221–229. `concepts/pain-asymbolia` line 137 cites "(2025) … 93(1),
+  221–229", i.e. the online-first *year* attached to the print issue's
+  *volume and pagination*. The reviewer's proposed form — 2025 online-first,
+  2026 issue publication — is exactly correct. Concrete and actionable.
+- ✓ **The "worked physical implementation" contradiction is real and
+  cross-register.** `topics/valence-and-conscious-selection` line 83 asserts
+  "The attentional channel has a worked physical implementation (Stapp's
+  observation-rate model; Eccles's synaptic exocytosis bias)". But
+  `positions/quantum-interface` [P-Q10](/positions/quantum-interface/#p-q10) (line 156) states the Map "does not
+  currently possess a worked formal model — toy Hamiltonian, master equation,
+  computational simulation", and [P-Q4](/positions/quantum-interface/#p-q4) (line 87) demotes Stapp-Zeno on
+  decoherence-timing grounds. The topic article is a **stranded dependent** of
+  a disclaimer that was later strengthened upstream.
+- ✓ **Ambiguous antecedent inside the target.** `positions/value-in-selection`
+  line 40 reads "…a *second* coupling (valence-to-physics) beyond the
+  attentional one, which has no worked physical implementation". The relative
+  clause can attach to either coupling; line 50 of the same file then calls
+  attention "worked out in Stapp's observation-rate model". The reviewer read
+  the nearest antecedent and found a self-contradiction. Whichever reading was
+  intended, the sentence needs disambiguating.
+- ✓ **`concepts/pain-asymbolia` line 113 does say** the behavioural
+  consequences "constitute evidence for [bidirectional interaction](/tenets/)",
+  after the article has already granted (line 69) that the dissociation is not
+  a pristine one-variable experiment. The compatibility-into-evidence upgrade
+  the reviewer flags in §4.3 is present as described.
+- ✓ **`concepts/affective-forecasting-gap` line 38 does say** the Map "leans
+  only on the *duration* result, which both sides concede". The span is real;
+  whether "both sides concede" is too categorical is a substantive judgment,
+  but the sentence is correctly quoted.
+
+**Citations proposed for addition — checked at Crossref:**
+
+- ✓ Dabney et al. 2020, *Nature*, "A distributional code for value in
+  dopamine-based reinforcement learning" (`10.1038/s41586-019-1924-6`) — real.
+- ✓ Gerrans 2024, *Neuroscience of Consciousness*, "Pain suffering and the
+  self. An active allostatic inference…" — real, and does contest the modular
+  reading as the reviewer says.
+- ✓ Desmedt et al. 2020, "What If the Heartbeat Counting Task Required No
+  Measure of…" — real.
+- ⚠ **Legon**: the reviewer cites "Legon et al. 2024: targeted insular
+  ultrasound". Crossref's nearest match is **Legon 2025, *The Journal of
+  Pain***, "Exploration of Sub-Regions of the Insula Contributions to
+  Sens[ory]…". The reviewer's inline link for this item actually resolves to
+  the *Gerrans* article (`nc/article/2024/1/niae002`), so the year/venue may
+  be crossed. **Verify at the publisher before citing** — do not copy "Legon
+  et al. 2024" through unchecked.
+- ? Cardenas et al. 2025 (macaque peripheral autonomic manipulation) — did not
+  resolve on a bibliographic query; the reviewer supplies a PMC id. Unverified,
+  check before use.
+
+**Note on §5 / §2.4 quote hygiene**: see the misattribution logged above —
+the reviewer's instruction to delete "empirical partial zombie" from
+`concepts/pain-asymbolia` targets a string that is not in the article (it says
+"an empirical partial **case**"). The *substantive* objection behind it — the
+article's claim that the zombie argument "becomes less speculative" on clinical
+evidence — is untouched by the quoting error and should be actioned on the real
+sentence.

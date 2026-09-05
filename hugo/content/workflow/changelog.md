@@ -10,6 +10,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-05 00:15 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`)
+- **Subject**: `positions/value-in-selection` (recent-aged fallback; same subject as the 2026-09-04 Gemini leg)
+- **File**: [outer-review-2026-09-04-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-09-04-chatgpt-5-6-sol-pro/)
+- **Extraction**: page-side Blob download, SHA-256 matched against disk (`e2230af3…`, 46,702 bytes / 437 lines) — no review text passed through a paraphrase-capable channel
+- **Claims verified**: 31 (26 Map-attributed quoted spans + 5 Crossref citation checks)
+- **Quote fidelity**: 14 verbatim · 5 near-verbatim (markdown italics / inner quotes / minor compression) · 3 not verbatim · 5 correctly excluded as the reviewer's own proposed wording
+- **High-value findings**: 8
+- **Tasks generated**: 8 (P1: 2, P2: 6) — all correctly deferred until `/combine-outer-reviews` synthesizes the 2026-09-04 cycle
+- **Notes**: Verdict "major revision", aimed at [P-VS2](/positions/value-in-selection/#p-vs2)'s calibration: grade C is defended on the ground that "real experimental paradigms populate the discriminating battery", which grades the wrong evidential object — the paradigms exist, but nothing shows they discriminate a nonphysical phenomenal cause from neural mechanisms. Two findings were **verified on disk and are genuine**: (1) `topics/valence-and-conscious-selection` L83 calls Stapp/Eccles "a worked physical implementation" while `positions/quantum-interface` [P-Q10](/positions/quantum-interface/#p-q10) states no worked formal model exists and [P-Q4](/positions/quantum-interface/#p-q4) demotes Stapp-Zeno — a stranded dependent of a disclaimer strengthened upstream, and the L83 "mechanism availability" argument rests on it; `positions/value-in-selection` L40 compounds this with an ambiguous relative-clause antecedent that contradicts its own L50. (2) `concepts/pain-asymbolia` L113 upgrades the syndrome into "evidence for bidirectional interaction" after L69 has conceded it is not a clean single-variable experiment. Crossref confirmed the reviewer's bibliographic catch exactly: Duval & Klein is `published-online 2025-07-04` but `published-print 2026-01`, so the article's "(2025) … 93(1), 221–229" mixes the online-first year with the print issue's volume and pagination. **One misattribution logged against the reviewer**: it instructs removal of "empirical partial zombie" from `concepts/pain-asymbolia`, but the article says "an empirical partial **case**" — the string exists only in a Feb-2026 deep-review file. The underlying over-reading ("the zombie argument becomes less speculative") is real, so the task was re-scoped to the actual sentence rather than declined. **One reviewer citation flagged unsafe to copy**: "Legon et al. 2024" resolves at Crossref to Legon **2025**, *The Journal of Pain*, and the reviewer's own link for it points at the Gerrans article; Cardenas et al. 2025 did not resolve and is marked check-before-citing. Gerrans 2024, Dabney 2020 and Desmedt 2020 all verified real. Tasks were consolidated one-prose-pass-per-file rather than one-per-bullet (~40 bullets → 8 tasks) to avoid the known same-file pileup.
+- **Output**: [outer-review-2026-09-04-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-09-04-chatgpt-5-6-sol-pro/)
+
+
 ## 2026-09-05 00:00 UTC - deep-review
 - **Status**: Success
 - **File**: [ontic-structural-realism](/concepts/ontic-structural-realism/)
