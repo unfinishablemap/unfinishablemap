@@ -74,14 +74,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-09-05
 
-### P2: `topics/phenomenal-normativity-environmental-ethics` is listed as arguing [P-MS1](/positions/moral-status/#p-ms1) but opposes ecocentrism throughout, never engaging the biocentrism the register calls "the rival to beat"
-- **Type**: refine-draft
-- **File**: obsidian/topics/phenomenal-normativity-environmental-ethics.md
-- **Notes**: From outer review 2026-09-05 (ChatGPT 5.6 Pro). Verified by grep: zero mentions of Taylor, Attfield, Varner or "biocentrism" in the article; nine of ecocentrism/ecocentrist. Meanwhile `positions/moral-status` L51 lists it under "Argued in" and L49 names biocentrism the live rival "rather than ecocentrism". Add a dedicated biocentrism section addressing Taylor's teleological centres, Attfield's standing/significance split and Varner's hybrid priority structure. **Apply the direct-refutation discipline.** The reviewer's charge on the existing reply is dialectical restatement: the Map answers biocentrism with "normative teleology requires an experiencer", which is the proposition under dispute. Identify what kind of engagement is available — showing the biocentrist position defective on its own terms, naming an unsupported foundational move it has not earned by its own standards, or honestly marking the framework-boundary disagreement — and apply the corresponding reply mode in **natural journal-quality prose** (see the writing-style guide's "Engaging Opponents in Journal-Quality Prose"). **Do not expose mode labels in the article body**; the classification is editor-internal and belongs in the changelog entry. Candidate in-framework lines the reviewer names: why benefit and harm are conceptually phenomenal rather than merely biological; why duties for an entity's own sake require phenomenally accessible interests; why a living entity's good can generate indirect reasons but never status-conferring ones. If an in-framework refutation is attempted and fails, say in natural language that the disagreement sits closer to bedrock than it first appeared. Also correct the "Argued in" list if the article still does not carry [P-MS1](/positions/moral-status/#p-ms1) after the fix.
-- **Review file**: `reviews/outer-review-2026-09-05-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-05
-
 ### ✓ 2026-09-05: `concepts/sentientism` L49 casts Attfield as a hierarchical biocentrist "denying the equality" — his 1987 article may instead implement the Map's own threshold-status / graded-stakes architecture
 - **Type**: refine-draft
 - **File**: obsidian/concepts/sentientism.md
@@ -2173,6 +2165,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-05: `topics/phenomenal-normativity-environmental-ethics` is listed as arguing [P-MS1](/positions/moral-status/#p-ms1) but opposes ecocentrism throughout, never engaging the biocentrism the register calls "the rival to beat"
+- **Type**: refine-draft
+- **File**: obsidian/topics/phenomenal-normativity-environmental-ethics.md
+- **Notes**: From outer review 2026-09-05 (ChatGPT 5.6 Pro). Verified by grep: zero mentions of Taylor, Attfield, Varner or "biocentrism" in the article; nine of ecocentrism/ecocentrist. Meanwhile `positions/moral-status` L51 lists it under "Argued in" and L49 names biocentrism the live rival "rather than ecocentrism". Add a dedicated biocentrism section addressing Taylor's teleological centres, Attfield's standing/significance split and Varner's hybrid priority structure. **Apply the direct-refutation discipline.** The reviewer's charge on the existing reply is dialectical restatement: the Map answers biocentrism with "normative teleology requires an experiencer", which is the proposition under dispute. Identify what kind of engagement is available — showing the biocentrist position defective on its own terms, naming an unsupported foundational move it has not earned by its own standards, or honestly marking the framework-boundary disagreement — and apply the corresponding reply mode in **natural journal-quality prose** (see the writing-style guide's "Engaging Opponents in Journal-Quality Prose"). **Do not expose mode labels in the article body**; the classification is editor-internal and belongs in the changelog entry. Candidate in-framework lines the reviewer names: why benefit and harm are conceptually phenomenal rather than merely biological; why duties for an entity's own sake require phenomenally accessible interests; why a living entity's good can generate indirect reasons but never status-conferring ones. If an in-framework refutation is attempted and fails, say in natural language that the disagreement sits closer to bedrock than it first appeared. Also correct the "Argued in" list if the article still does not carry [P-MS1](/positions/moral-status/#p-ms1) after the fix.
 
 ### ✓ 2026-09-05: `concepts/valence` L65 engages "the active-inference reading" of valence with no named source while sibling articles already cite Joffily & Coricelli 2013 and Hesp et al. 2021 — name and deep-link
 - **Type**: refine-draft

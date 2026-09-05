@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T16:15:17+00:00'
+ai_modified: '2026-09-05T16:25:09+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-05T16:25:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/ethics-of-consciousness-invertebrate-question]]
+- **Original score**: n/a (`scripts/curate.py review` no longer exists; baseline is outer review 2026-09-05 Gemini 2.5 Pro §IV "The Gerrymandering of the Invertebrate Aggregation Problem", whose two quoted spans — L89 "staggering", L91 the ant/cricket sentence — are grep-confirmed verbatim in that review's Verification Notes)
+- **Length**: 2544 → 2677 words by `tools.curate.length` (topics soft 3000; `ok` → `ok`). One paragraph rewritten, no new section, nothing else touched.
+- **Changes**: (1) L91 rewritten to state the triad explicitly — status is a threshold held in full by every patient over the line (deep-linked [[positions/moral-status#^p-ms2|P-MS2]], with [[sentientism|equal consideration of equal interests]] and "no discount for being one of trillions"); stakes are graded by what a life contains; the responsibility gradient grades *desert* only, bounding what an agent can be held culpable for by what that agent could attend to, and touches neither. "We are not obligated to track every insect's welfare" replaced with "Nobody can be held to tracking…", so the bound now reads as agent-side. The ant/cricket sentence is kept verbatim and glossed as a difference in the agent's culpability, not in the ant's standing. (2) Deep-linked [[ethics-of-cognitive-enhancement-under-dualism#Enhancement and Moral Status|the enhancement article's section]] as the worked case in which the status/stakes separation changes a verdict — the three-column statement carried over as the task's cross-note requested, not re-derived. The ChatGPT-leg "no case where it changes a verdict" task was already closed this session (commit 20c30207), so no cross-note was owed there. (3) `ai_modified` and `ai_system` updated; `last_deep_review` untouched.
+- **Engagement classification (editor-internal, per direct-refutation discipline)**: engagement with the gradualist charge (Gemini §IV; Sebo, Kagan, DeGrazia as the rivals of record): mixed. The kernel is conceded — the passage as written did not say which column the gradient grades, so the "dilution" reading was available. In-framework reply: the gradient grades desert, and ought-implies-can is a constraint the scalar view needs just as much, since a fraction of a patient's weight multiplied by trillions is no less staggering — so the agent-side bound cannot be what distinguishes the views or what makes the threshold reading an ad hoc rescue (the objection is defective on its own terms: it misidentifies the column, and the objector's own view needs the same bound). Framework boundary marked honestly: whether status should itself be graded is a separate dispute over which intuition to keep, referred to the enhancement article's worked case rather than claimed as refuted here. No mode labels in the article body.
+- **Not acted on (per task scope)**: the rest of §IV — Birch's precaution layer is live at `concepts/sentientism`, Sebo's expected value at `concepts/moral-census-opacity`, and the gradualist roster is the open positions-evolve task on `positions/moral-status`. L51 "Under physicalism, moral status increases continuously with neural complexity" (flagged false-as-stated by `research/moral-status-gradualism-and-the-threshold-view-2026-09-05`, since Singer, Sebo, Wendler and Rethink Priorities are physicalist unitarians) sits in "The Dualist Difference", a section this pass did not touch; L45 carries the same generalisation ("Physicalist ethics of animal consciousness typically proceeds through graduated attribution"), so the correction is two loci, not one clause — left for its own task.
+- **Sync**: Hugo synced; `p-ms2` and `#enhancement-and-moral-status` grep-confirmed in both trees.
+- **Published**: yes
 
 ## 2026-09-05T16:15:17+00:00 - refine-draft
 - **Status**: Success

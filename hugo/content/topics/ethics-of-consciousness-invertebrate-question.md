@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-08-02 18:22:00+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-09-05 16:25:09+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
 - '[[degrees-of-consciousness]]'
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-02 18:22:00+00:00
-lastmod: 2026-08-02 18:22:00+00:00
+lastmod: 2026-09-05 16:25:09+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -92,7 +92,7 @@ Most invertebrates that may be conscious are unlikely to be moral *agents*—bei
 
 This asymmetry is familiar from human ethics (infants and severely cognitively impaired humans are moral patients but not full moral agents). But the invertebrate case extends it to an unfamiliar scale. If trillions of moral patients exist in agricultural systems, in ecosystems affected by human activity, and underfoot on every walk, the total weight of moral obligation becomes staggering.
 
-The [responsibility gradient](/topics/responsibility-gradient-from-attentional-capacity/) offers one response. Moral obligations may scale with the moral agent's capacity to attend to them. We are not obligated to track every insect's welfare, but we are obligated not to create systems of mass suffering when we know (or reasonably suspect) that the victims are conscious. The difference between accidentally stepping on an ant and building a factory farm for crickets is morally relevant under this framework.
+The [responsibility gradient](/topics/responsibility-gradient-from-attentional-capacity/) offers one response, provided three things are kept apart. Status is a threshold, held in full by every patient over the line ([P-MS2](/positions/moral-status/#p-ms2)): a cricket that crosses it is a moral patient, owed [equal consideration of equal interests](/concepts/sentientism/) with no discount for being one of trillions. Stakes are graded by what a life contains. The gradient touches neither; it grades *desert*, bounding what an agent can be held culpable for by what that agent could attend to. Ought implies can, and the scalar view needs that constraint as much as the threshold view does, since a fraction of a patient's weight multiplied by trillions is no less staggering. Nobody can be held to tracking every insect's welfare; everybody can be held to not building systems of mass suffering when we know (or reasonably suspect) that the victims are conscious. The difference between accidentally stepping on an ant and building a factory farm for crickets is morally relevant under this framework, and it is a difference in the agent's culpability, not in the ant's standing. Whether status should itself be graded is a separate dispute; [the enhancement article](/topics/ethics-of-cognitive-enhancement-under-dualism/#enhancement-and-moral-status) works the case in which the threshold reading changes a verdict.
 
 ## The Valence Question
 
