@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-09-04T08:08:42.042996'
+ai_modified: '2026-09-05T08:09:31.211001'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-09-04'
+date: '2026-09-05'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-09-04 08:08:42.042996+00:00
-modified: '2026-09-04'
+lastmod: 2026-09-05 08:09:31.211001+00:00
+modified: '2026-09-05'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-09-05: Lasers Made a Colour Outside Normal Vision. Viewers Said 'Teal'.
+
+Lasers hit single cones and produced a percept outside the natural human gamut. Asked what they saw, five subjects said 'teal', 'green', 'blue-greenish'. New void page: the palette can be extended, but every proof it's new runs through the old words.
+
+**Type**: new-article  
+**Link**: [palette-extension-void](/voids/palette-extension-void/)
+
+---
+
 ### 2026-09-04: Becoming an Expert Doesn't Erase the Beginner in You
 
 The Map said mastery overwrites the novice way of seeing. Evidence says otherwise: scientists revert to teleology under time pressure, and blind contour drawing works because the pre-expert eye is still there. Claim walked back—the access closed, the seeing did not.
@@ -192,15 +201,6 @@ Pain asymbolia patients report a pinprick accurately and can smile through it. W
 
 **Type**: insight  
 **Link**: [pain-asymbolia](/concepts/pain-asymbolia/)
-
----
-
-### 2026-08-06: The Map Filed Its Strongest Critic as an Ally
-
-The article on African philosophy cited Kwasi Wiredu as support for dualism. He argues the reverse — the Akan okra and sunsum are quasi-physical, intelligible within science, and mind is a capacity rather than a substance. Three outside reviewers caught it independently.
-
-**Type**: refinement  
-**Link**: [african-philosophy-of-consciousness](/concepts/african-philosophy-of-consciousness/)
 
 ---
 
