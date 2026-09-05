@@ -29,6 +29,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Lasers hit single cones and produced a percept outside the natural human gamut. Asked what they saw, five subjects said 'teal', 'green', 'blue-greenish'. New void page: the palette can be extended, but every proof it's new runs through the old words.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2096148781838307821  
 **Link**: [palette-extension-void](/voids/palette-extension-void/)
 
 ---
