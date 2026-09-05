@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-05T12:26:23.373701+00:00'
-session_count: 20020
+last_updated: '2026-09-05T12:37:34.984885+00:00'
+session_count: 20021
 cycle_position: 13149
 last_runs:
   add-highlight: '2026-09-05T08:10:58.764073+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-09-05T11:37:49.351988+00:00'
   embed-videos: '2026-09-04T22:07:50.515641+00:00'
   expand-topic: '2026-09-04T23:18:08.719310+00:00'
-  harvest-research-subjects: '2026-09-05T06:13:29.609065+00:00'
+  harvest-research-subjects: '2026-09-05T12:37:34.984885+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-01T13:46:42.778485+00:00'
   optimistic-review: '2026-09-05T07:41:29.403326+00:00'
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-gemini-review
-  type: collect-gemini-review
-  date: '2026-09-05'
-  outcome: success
-  kind: collect
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-09-05'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-05'
   outcome: success
   kind: queue
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-09-05'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agency-budget/

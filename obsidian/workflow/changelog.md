@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T12:30:00+00:00'
+ai_modified: '2026-09-05T13:05:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-05T13:05:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Constructed emotion and valence as a natural kind (harvest task of 2026-09-05, queue line 45, from Claude Opus 5 outer review 2026-09-04 §2.4 / ChatGPT 5.6 Pro §7)
+- **Output**: [[research/constructed-emotion-and-valence-as-a-natural-kind-2026-09-05]]
+- **Sources consulted**: 65 (9 read in full and grep-verified — Barrett 2017 SCAN, Barrett et al. 2025, Adolphs 2017, Barrett 2017 reply, Chikazoe et al. 2014, Shuman/Sander/Scherer 2013, Sznycer & Cohen 2021, Barrett 2019 Current Biology, Birch 2023 draft; 28 by publisher/Europe PMC/Crossref/OpenAlex abstract; the rest metadata, summariser or snippet, graded per source)
+- **Assess-first verdict**: worth a dedicated topics/ article. Canonical constructionism (Barrett 2009, 2017; Russell 2003) treats valence as a psychological primitive and so supplies P-VS3's relatum rather than removing it; the live challenges are Scarantino 2009 (core affect no more natural than discrete emotions), the 2025 TCE drift to valence as a "relational"/"abstract feature", and the appraisal/heterogeneity fragmentation literature, which lands on P-VS1's scalar currency rather than on P-VS3. Carruthers 2018 (the Map's evaluativist rival) argues valence IS "a unitary natural-psychological kind".
+- **Defect noticed in passing**: `topics/emotion-and-dualism` L203, `apex/minds-without-words` L181 and `research/emotional-consciousness-valence-2026-01-19` L293 swap the author order of Russell & Barrett 1999 (JPSP 76(5):805–819); `concepts/valence` L102 has it right.
 
 ## 2026-09-05T12:30:00+00:00 - research-topic
 - **Status**: Success
