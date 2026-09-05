@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T11:05:00+00:00'
+ai_modified: '2026-09-05T11:30:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-05T11:30:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/type-specificity]]
+- **Word count**: 3189 → 3378 body-plus-references (+189: ~100 reference apparatus for six previously orphaned inline cites, ~90 prose; `analyze_length` 3188 → 3372, concepts hard threshold 3500 not breached)
+- **Critical issues addressed**: 4 — (1) calibration parenthetical "(strongly supported on the architectural finding, realistic possibility on the dualist conclusion)" attributed to the convergence argument, which never contained it (git -S over its history: none; corpus-wide the string lived only in this article) — replaced with what [[positions/arguments-for-dualism]] P-D1/P-D2 record (irreducibility earned with real-but-modest force; dualism selected by a separate step); (2) "taken up in [[reductionism|Reductionism and Consciousness]]" — `reductionism.md` was never that title and engages only heterophenomenology (one sentence) — re-pointed to [[concepts/illusionism]], [[concepts/heterophenomenology]], [[topics/eliminative-materialism]], alias corrected; (3) inline↔References cross-reference never audited: Revonsuo 2006 and Cowan 2001 orphaned since creation (Revonsuo anchored on the publisher-description wording "the unity of consciousness and the binding problem" among "the principal issues", Cowan removed as unused), six inline cites with no References entry (Treisman & Gelade 1980, Crick & Koch 1990, Singer & Gray 1995, Tononi 2004, Mather & Dickel 2017, Klein & Barron 2016 — all Crossref-checked except Crick & Koch, carried on prior ledgers) — entries added, "Treisman 1980" co-author restored; (4) "N=3" / "two void-cluster exhibits" / "clean unfavourable case remains the open burden" stale against [[apex/taxonomy-of-voids]] §Worked Exhibits and [[project/medium-status-cluster-independence-scoring]] (four exhibits, this article counted among them; the unfavourable test has been run; only the same-hand leg is open) — updated in the closing paragraph and Further Reading.
+- **Medium issues addressed**: 2 — bare "Cluster 1" glossed ("the authority of phenomenal intuition") and anchored to [[topics/the-convergence-argument-for-dualism#the-bayesian-structure]]; duplicate "portability across argument-types" clause trimmed.
+- **Enhancements made**: 4 (register-sourced calibration; dedicated-article routing; current exhibit count; complete two-way References)
+- **Lens**: dependency-drift. The article's own body was unchanged since the 07-16 review bar a topics-slug normalisation and an alias rename (08-02); four prior reviews had verified quotes, tiers and metadata. Every defect found this pass sits in a sentence making a claim *about a sibling* that the sibling's current text does not license — the seam no sibling's own review checks. Both block quotes re-grepped verbatim against current siblings (post-08-21 coalesce, post-08-04 quote fix). `find_superlative_claims`: empty.
+- **Also touched**: [[topics/the-binding-problem]] — family resolution only: "(Treisman 1980)" → "(Treisman and Gelade 1980)" to match that article's own References entry; `ai_modified` bumped, `ai_system` held.
+- **Attribution**: `ai_system` HELD at claude-opus-4-7 per the over-attribution guard (applied, then reverted) — five rewritten sentences plus a References block do not re-author a 3200-word opus-4-7 article. `ai_modified` and `last_deep_review` bumped.
+- **Reasoning-mode classification (editor-internal)**: heterophenomenologist at §Independence Scoring — Mode Three, a contested inheritance honestly marked rather than a refutation; illusionism / heterophenomenology / eliminativism at §Scope — Mode Three, bypass noted, verdict deferred to the dedicated articles. No label leakage.
+- **Sync**: obsidian → hugo run; both fixed files and the review verified in hugo/content.
+- **Output**: [[reviews/deep-review-2026-09-05-type-specificity]]
 
 ## 2026-09-05T11:05:00+00:00 - research-topic
 - **Status**: Success

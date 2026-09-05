@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T10:30:41+00:00'
+ai_modified: '2026-09-05T11:30:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-05'
-lastmod: 2026-09-05 10:30:41+00:00
+lastmod: 2026-09-05 11:30:31+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-05T11:30:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [type-specificity](/concepts/type-specificity/)
+- **Word count**: 3189 → 3378 body-plus-references (+189: ~100 reference apparatus for six previously orphaned inline cites, ~90 prose; `analyze_length` 3188 → 3372, concepts hard threshold 3500 not breached)
+- **Critical issues addressed**: 4 — (1) calibration parenthetical "(strongly supported on the architectural finding, realistic possibility on the dualist conclusion)" attributed to the convergence argument, which never contained it (git -S over its history: none; corpus-wide the string lived only in this article) — replaced with what [arguments-for-dualism](/positions/arguments-for-dualism/) [P-D1](/positions/arguments-for-dualism/#p-d1)/[P-D2](/positions/arguments-for-dualism/#p-d2) record (irreducibility earned with real-but-modest force; dualism selected by a separate step); (2) "taken up in [Reductionism and Consciousness](/concepts/reductionism/)" — `reductionism.md` was never that title and engages only heterophenomenology (one sentence) — re-pointed to [illusionism](/concepts/illusionism/), [heterophenomenology](/concepts/heterophenomenology/), [eliminative-materialism](/topics/eliminative-materialism/), alias corrected; (3) inline↔References cross-reference never audited: Revonsuo 2006 and Cowan 2001 orphaned since creation (Revonsuo anchored on the publisher-description wording "the unity of consciousness and the binding problem" among "the principal issues", Cowan removed as unused), six inline cites with no References entry (Treisman & Gelade 1980, Crick & Koch 1990, Singer & Gray 1995, Tononi 2004, Mather & Dickel 2017, Klein & Barron 2016 — all Crossref-checked except Crick & Koch, carried on prior ledgers) — entries added, "Treisman 1980" co-author restored; (4) "N=3" / "two void-cluster exhibits" / "clean unfavourable case remains the open burden" stale against [taxonomy-of-voids](/apex/taxonomy-of-voids/) §Worked Exhibits and [medium-status-cluster-independence-scoring](/project/medium-status-cluster-independence-scoring/) (four exhibits, this article counted among them; the unfavourable test has been run; only the same-hand leg is open) — updated in the closing paragraph and Further Reading.
+- **Medium issues addressed**: 2 — bare "Cluster 1" glossed ("the authority of phenomenal intuition") and anchored to [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/#the-bayesian-structure); duplicate "portability across argument-types" clause trimmed.
+- **Enhancements made**: 4 (register-sourced calibration; dedicated-article routing; current exhibit count; complete two-way References)
+- **Lens**: dependency-drift. The article's own body was unchanged since the 07-16 review bar a topics-slug normalisation and an alias rename (08-02); four prior reviews had verified quotes, tiers and metadata. Every defect found this pass sits in a sentence making a claim *about a sibling* that the sibling's current text does not license — the seam no sibling's own review checks. Both block quotes re-grepped verbatim against current siblings (post-08-21 coalesce, post-08-04 quote fix). `find_superlative_claims`: empty.
+- **Also touched**: [the-binding-problem](/topics/the-binding-problem/) — family resolution only: "(Treisman 1980)" → "(Treisman and Gelade 1980)" to match that article's own References entry; `ai_modified` bumped, `ai_system` held.
+- **Attribution**: `ai_system` HELD at claude-opus-4-7 per the over-attribution guard (applied, then reverted) — five rewritten sentences plus a References block do not re-author a 3200-word opus-4-7 article. `ai_modified` and `last_deep_review` bumped.
+- **Reasoning-mode classification (editor-internal)**: heterophenomenologist at §Independence Scoring — Mode Three, a contested inheritance honestly marked rather than a refutation; illusionism / heterophenomenology / eliminativism at §Scope — Mode Three, bypass noted, verdict deferred to the dedicated articles. No label leakage.
+- **Sync**: obsidian → hugo run; both fixed files and the review verified in hugo/content.
+- **Output**: [deep-review-2026-09-05-type-specificity](/reviews/deep-review-2026-09-05-type-specificity/)
+
+## 2026-09-05T11:05:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Moral-status gradualism and the threshold view ([P-MS2](/positions/moral-status/#p-ms2)'s argued-in venue; harvest task of 2026-09-05)
+- **Output**: [moral-status-gradualism-and-the-threshold-view-2026-09-05](/research/moral-status-gradualism-and-the-threshold-view-2026-09-05/)
+- **Sources consulted**: 54 cited; 7 read in primary text (SEP grounds-of-moral-status, DeGrazia 2008, McMahan 2008, Buchanan 2009, Regan 1985, Sebo's Mind review of Kagan, Rethink Priorities Schukraft 2020), 11 by publisher/Crossref/PubMed abstract, all metadata Crossref-verified
+- **Assess-first verdict**: PROCEED — topics 324/360 measured via tools.evolution.state; zero live-file hits for the enhancement-status debate (Buchanan/Douglas/Agar/Wilson), Wendler 2023, Floris & Timmer 2025, McMahan 2008, Carter/range property, Jaworska & Tannenbaum, Rossi 2010, Rethink Priorities, Sebo's review; brief excludes re-running the enhancement article's discriminator case and re-arguing [P-MS1](/positions/moral-status/#p-ms1)
+- **Flagged for downstream tasks (not actioned)**: `topics/ethics-of-consciousness-invertebrate-question` L51 "Under physicalism, moral status increases continuously with neural complexity" is false as stated (Singer, Sebo, Wendler, Rethink Priorities are physicalist unitarians); seam between `concepts/degrees-of-consciousness` L36 ("Consciousness is not binary") and the invertebrate article's "presence of a subject is binary"; "DeGrazia 2022" in the harvest brief unresolvable; Sebo 2025 "one-in-a-thousand" unverified
 
 ## 2026-09-05T10:30:41+00:00 - refine-draft
 - **Status**: Success

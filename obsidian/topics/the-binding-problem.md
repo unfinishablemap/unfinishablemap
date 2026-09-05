@@ -4,7 +4,7 @@ description: "Five varieties of binding—intra-modal, cross-modal, temporal, co
 created: 2026-02-14
 modified: 2026-05-10
 human_modified:
-ai_modified: 2026-08-04T02:24:11+00:00
+ai_modified: 2026-09-05T11:30:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -82,7 +82,7 @@ The distinction matters because BP1 solutions are routinely mistaken for BP2 sol
 
 The textbook case. Within a single modality, features processed in separate cortical regions must combine into unified percepts. When you see a red ball bouncing, redness (V4), roundness (inferotemporal cortex), and motion (MT/V5) are processed by different neural populations. Yet your experience presents one moving red ball.
 
-**BP1 progress**: Feature Integration Theory (Treisman 1980) proposes that attention is the "glue" — spatial attention integrates features at a location into a unified object representation. Gamma-band synchrony (30-100 Hz) tags same-object features through temporal coincidence. Illusory conjunctions under divided attention — seeing a blue circle when presented with a blue square and a yellow circle — confirm that binding requires attentional resources and can fail predictably.
+**BP1 progress**: Feature Integration Theory (Treisman and Gelade 1980) proposes that attention is the "glue" — spatial attention integrates features at a location into a unified object representation. Gamma-band synchrony (30-100 Hz) tags same-object features through temporal coincidence. Illusory conjunctions under divided attention — seeing a blue circle when presented with a blue square and a yellow circle — confirm that binding requires attentional resources and can fail predictably.
 
 **BP2 gap**: Synchronized firing is still firing in separate neurons. Even perfect temporal coincidence does not produce ontological unity. The identity reply — "synchronised activity just *is* phenomenal unity, the way water *is* H₂O" — links two third-person descriptions of one substance; the proposed binding identity links a third-person mechanism to a first-person reality. That category shift is what standard scientific identities do not require, and accepting it as brute identity seems to concede no explanatory work is being done.
 
