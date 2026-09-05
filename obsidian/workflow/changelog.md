@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T17:27:25+00:00'
+ai_modified: '2026-09-05T17:52:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-05 17:52 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/teaching-as-metarepresentation.md` (3,280 body words; `ai_modified` 2026-08-04; `last_deep_review` 2026-07-08). Selected as the only article in the oldest never-reviewed tier with zero mentions across all 551 prior pessimistic reviews — the cluster's "behavioural exhibit" that the 2026-01-21 circularity critique of its Jourdain / cumulative-culture siblings never reached. No drafts exist in any live section; a review already landed today on `positions/arguments-for-mental-causation`, so this is the day's second, on a different file.
+- **Findings**: four HIGH — (1) functional/representational equivocation: the ape evidence is Caro-Hauser functional-definition evidence, L81 concedes functional teaching does not evidence representation, yet L120/L195 infer representational absence from functional rarity, while the ant/meerkat functional-teaching literature the article's own uncited ledger entries (Thornton & Raihani 2008; Kline 2015) review goes unmentioned; (2) access-level support (WM→GWT, ToM, an undischarged L110 conditional) cashed as phenomenal causation at L199; (3) L97-99 asserts an ape Level 2 absence that the cluster's source page `theory-of-mind.md` L55-79 has withdrawn (Krupenye 2016) and pins metarepresentation one level below where that page puts it; (4) the Illusionist Challenge is boundary marking dressed as refutation, with Csibra & Gergely's natural pedagogy — in the ledger, uncited — the functional rival the Occam section says does not exist. MED-HIGH: L203 No Many Worlds non-sequitur (within-branch indexical facts are Everettian-determinate). MED: teaching→cumulative-culture necessity claim against Zwirner & Thornton 2015; falsifiers test only the uncontested premise and report no state; description asserts what the lead hedges. Seven unsupported claims tabled, including the "comparable to early hominins who taught extensively" sentence (string sibling at `cumulative-culture.md` L154, noted not minted).
+- **Verification**: four counter-citations checked at the publisher this run — Zwirner & Thornton 2015 *Sci Rep* 5:16781 and Franks & Richardson 2006 *Nature* 439:153 and Morgan et al. 2015 *Nat Commun* 6:6029 at nature.com; Strauss, Ziv & Stein 2002 *Cog Dev* 17:1473 via citing works only (flagged CONFIRM AT PUBLISHER in the task). Article's own inline citations resolve to real works. Forbidden-label grep clean. Altered-state symmetry not applicable. Hugo copy carries the same strings (grep-confirmed), so defects are live.
+- **Tasks generated**: 1 — P2 refine-draft on the reviewed file, consolidated (one editor pass; no pileup — no other open task targets it). Length-neutral: 220 words of hard headroom, so the rival engagement trades against the Process Philosophy and Contemplative sections; no condense minted.
+- **Output**: [[reviews/pessimistic-2026-09-05-teaching-as-metarepresentation]]
 
 ## 2026-09-05 17:27 UTC - positions-evolve
 - **Status**: Success
