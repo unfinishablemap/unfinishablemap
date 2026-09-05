@@ -101,11 +101,13 @@ Locate the pill: the only `button[aria-haspopup="menu"]` inside the composer `fo
 that is *not* `[data-testid="composer-plus-btn"]`. Its text is the current effort
 ("High", "Pro", …); its tooltip reads "Thinking effort  Ctrl+Shift+M".
 
-**Coordinate mapping matters.** `computer` clicks use *screenshot* coordinates, while
-`getBoundingClientRect()` returns *page* coordinates. Compute
-`S = <screenshot width> / window.innerWidth` (typically 1246/1873 ≈ 0.665) and multiply
-page coords by `S`. Clicking unscaled page coords lands on the chat list underneath and
-navigates into an old conversation.
+**Coordinate mapping matters — but MEASURE it, do not assume it.** `computer` clicks use
+*screenshot* coordinates while `getBoundingClientRect()` returns *page* coordinates, so compute
+`S = <screenshot width> / window.innerWidth` and multiply page coords by `S`. On some windows
+`S ≈ 0.665`; on others it is exactly **1.0** (observed 2026-09-05 at 1304×621, screenshot
+dimensions matching `innerWidth`/`innerHeight` exactly). Applying a hard-coded 0.665 when the true
+scale is 1.0 lands the click on the chat list underneath and navigates into an old conversation —
+the same failure the scaling was meant to prevent.
 
 Click the pill **with a real pointer event** (`computer` `left_click`), then confirm via JS
 that `document.querySelectorAll('[role=menu]').length > 0`. A JS `.click()` on the pill does
@@ -126,8 +128,19 @@ The popover is now a **single flat menu** (see Step 4); the "Advanced" row is go
 - a `[role=slider]` with `aria-valuenow` / `aria-valuemin="0"` / `aria-valuemax="4"`,
   announced as "Use Left and Right arrow keys to adjust power". Level `3` is
   `Extra High`, level `4` is `Pro`.
-- two inline `[role=menuitemradio]` model options — currently `GPT-5.6 Sol` and
-  `GPT-5.5`. `o3` is gone. Leave the newest (already `aria-checked="true"`) selected.
+- inline `[role=menuitemradio]` model options. ⚠️ **Observed 2026-09-05: a third option
+  `Latest` now exists and is the DEFAULT (`aria-checked="true"`), sitting above `GPT-5.6 Sol`
+  and `GPT-5.5`.** **Do NOT accept `Latest`** — the old rule "leave the newest already-checked
+  one selected" would leave it, and then the recorded model slug is a *guess* (the pill shows
+  only a bare `6` badge). **Explicitly click the concrete model** (`GPT-5.6 Sol`); the pill
+  changes from `6Pro` to `5.6Pro`, which is how you know attribution is deterministic.
+
+⚠️ **The popover has TWO states and rects go stale between them.** It opens with the model list
+expanded, then collapses to a slider-only view showing a `6 Pro >` summary row; clicking that row
+re-expands the list. **A click aimed at a model rect captured in the expanded state can land in the
+collapsed state and silently do nothing** (observed 2026-09-05 — `Latest` stayed checked and the
+click reported no error). **Re-read the rects after every click** rather than reusing them, and
+confirm the selection by the pill text.
 
 Working sequence to reach Pro:
 
