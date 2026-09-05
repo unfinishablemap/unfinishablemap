@@ -662,19 +662,17 @@ p-vs1:
     is the rival to beat — confidence: low · no independent evidence · peripheral to the framework'
   weak: 'yes'
 p-vs2:
-  bands: 'confidence: moderate · limited or indirect evidence · moderately central'
-  claim: The value-blind / value-sensitive fork is empirically falsifiable, and its discriminating battery
-    points in specified directions
-  credence: moderate
+  bands: 'confidence: low · limited or indirect evidence · moderately central'
+  claim: The fork's battery is real, but no test yet separates the Map's stance from the steelmanned rival
+  credence: low
   grade: C
   id: P-VS2
   slug: value-in-selection
   status: live
   structural_centrality: moderate
-  summary: 'P-VS2: The value-blind / value-sensitive fork is empirically falsifiable, and its discriminating
-    battery points in specified directions — confidence: moderate · limited or indirect evidence · moderately
-    central'
-  weak: 'no'
+  summary: 'P-VS2: The fork''s battery is real, but no test yet separates the Map''s stance from the steelmanned
+    rival — confidence: low · limited or indirect evidence · moderately central'
+  weak: 'yes'
 p-vs3:
   bands: 'confidence: moderate · no independent evidence · framework-critical'
   claim: Intrinsic value resides in phenomenal experience

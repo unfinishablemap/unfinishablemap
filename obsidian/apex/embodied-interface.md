@@ -2,9 +2,9 @@
 title: "The Embodied Interface"
 description: "If consciousness acts on matter only through attention-like selection, what is the causal status of passive felt embodiment—thermal comfort, vestibular self-location, interoceptive mood, the ache of cold? An applied synthesis distinguishing causal, constitutive, and merely-presented consciousness so the selection mechanism does not overclaim across the body's modalities."
 created: 2026-06-22
-modified: 2026-08-17
+modified: 2026-09-05
 human_modified:
-ai_modified: 2026-08-17T09:12:00+00:00
+ai_modified: 2026-09-05T02:04:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -78,7 +78,7 @@ The second category is the one [[pain-consciousness-and-causal-power|pain]] forc
 
 This is not the same as causal consciousness, and conflating them would itself be an overclaim. Causal consciousness is *selection*: a subject directing influence among options. Constitutive consciousness is a felt quality whose very presence carries motivational force—closer to a standing pressure than to an act of choosing. The relevant Map position is P-VS1, the value-sensitive-selection lean, held at *low* credence: the Map leans toward felt valence being "the currency in which conscious selection among underdetermined outcomes is denominated" but concedes this is "an aspiration, not a position," and that the value-blind rival—where the mechanism runs and valence merely accompanies it—is "the rival to beat, not a position already beaten." The register also names its own best current stance: "the graduated middle path (valence modulates attention, attention drives selection)." Read into this taxonomy, that routes whatever influence the constitutive category has *through* the causal one rather than granting it a channel of its own, and even so it "leaves the fundamental selection law value-blind unless a direct valence coupling is specified."
 
-So the honest reading of pain is layered. That the awfulness is inseparable *in experience* from the urge to withdraw is phenomenologically secure. That the awfulness therefore does causal *work* the underlying neural process does not already do is exactly the value-blind/value-sensitive fork, and the fork is open. By P-VS2 (*moderate* credence) it is at least an empirical fork rather than a purely metaphysical one, and asymbolia sits on its discriminating battery with a direction fixed in advance: asymbolic patients should show degraded selection *efficacy*, not merely reduced motivation. The case this synthesis leans on as its constitutive exhibit is thus also the case that could settle the exhibit's causal status. Constitutive consciousness names a real phenomenal structure; whether that structure is causally efficacious or causally idle is undecided, and the low credence on P-VS1 is the calibrated mark of that.
+So the honest reading of pain is layered. That the awfulness is inseparable *in experience* from the urge to withdraw is phenomenologically secure. That the awfulness therefore does causal *work* the underlying neural process does not already do is exactly the value-blind/value-sensitive fork, and the fork is open. By P-VS2 (*low* credence) it is at least an empirical fork rather than a purely metaphysical one, and asymbolia sits on its battery with a direction fixed in advance: asymbolic patients should show degraded selection *efficacy*, not merely reduced motivation — though only a loss surviving an attentional-salience clamp discriminates, since lost affective gain degrades efficacy on the value-blind horn too. The case this synthesis leans on as its constitutive exhibit is thus also the case that could settle the exhibit's causal status. Constitutive consciousness names a real phenomenal structure; whether that structure is causally efficacious or causally idle is undecided, and the low credence on P-VS1 is the calibrated mark of that.
 
 ### Phenomenal presentation: the vast, owned, passive background
 
