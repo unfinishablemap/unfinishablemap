@@ -4,7 +4,7 @@ description: "The positive-negative dimension of experience—why pain feels bad
 created: 2026-02-15
 modified: 2026-09-06
 human_modified:
-ai_modified: 2026-09-06T02:59:45+00:00
+ai_modified: 2026-09-06T11:30:43+00:00
 draft: false
 topics:
   - "[[emotion-and-dualism]]"
@@ -36,7 +36,9 @@ Valence is the positive-negative dimension of conscious experience—the felt go
 
 Every conscious experience carries some degree of valence. Pain is negatively valenced; pleasure is positively valenced; emotions blend valence with other phenomenal qualities (fear's urgency differs from sadness's heaviness, though both feel bad). James Russell and Lisa Feldman Barrett's core affect theory holds that we are never affectively neutral—a background hedonic tone is always present, combining valence (pleasure-displeasure) with arousal (activation-deactivation).
 
-Valence is not the same as the specific character of an experience. The painfulness of a burn and the painfulness of a betrayal share negative valence while differing in every other phenomenal respect. This generality is what makes valence fundamental: it provides a common evaluative dimension across conscious experience—the hedonic core of the broader category [[evaluative-phenomenal-character|evaluative qualia]] identifies, a functionally significant dimension of phenomenal experience (Cleeremans and Tallon-Baudry 2022)—enabling comparison between otherwise incommensurable states. Jaak Panksepp's (1998) research on basic affect systems in mammals argues that valence is phylogenetically ancient—subcortical circuits generate positive and negative affect across species, suggesting valence is not a cognitive overlay but a foundational feature of conscious experience.
+Valence is not the same as the specific character of an experience. The painfulness of a burn and the painfulness of a betrayal share negative valence while differing in every other phenomenal respect. This generality is what makes valence fundamental: it provides a common evaluative dimension across conscious experience—the hedonic core of the broader category [[evaluative-phenomenal-character|evaluative qualia]] identifies, a functionally significant dimension of phenomenal experience (Cleeremans and Tallon-Baudry 2022)—enabling comparison between otherwise incommensurable states. Jaak Panksepp's (1998) research on basic affect systems in mammals argues that valence is phylogenetically ancient—subcortical circuits generate positive and negative affect across species, suggesting valence is a foundational feature of conscious experience rather than a cognitive overlay.
+
+Whether valence is itself a *natural kind* is a further question the core-affect literature leaves open. Barrett's constructionism denies natural-kind status to discrete emotion categories while treating valence and arousal as basic features of consciousness; Scarantino (2009) presses the natural-kind question against core affect itself; and Labukt (2012) argues that the heterogeneity of pleasure yields several hedonic tones rather than one or none. [[topics/valence-as-a-natural-kind|Valence as a natural kind]] works through what survives those challenges, and finds the Map's exposure falling on the claim that felt valence is a single scalar currency rather than on its reality.
 
 ## Two Competing Accounts
 
@@ -96,6 +98,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet co
 - [[valence-and-conscious-selection]] — Whether valence participates directly in selection and how it may function as the common metric
 - [[pain-consciousness-and-causal-power]] — Pain, suffering, and the inseparability of phenomenal character and causal power
 - [[evaluative-phenomenal-character]] — The broader category of intrinsic evaluative character that grounds both normative claims and evaluative experience beyond hedonic valence
+- [[topics/valence-as-a-natural-kind]] — Whether the pleasant-unpleasant dimension is one kind, and what constructed emotion takes and leaves
 
 ## References
 
@@ -103,6 +106,8 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet co
 1. Carruthers, P. (2018). Valence and value. *Philosophy and Phenomenological Research*, 97(3), 658-680.
 1. Cleeremans, A., & Tallon-Baudry, C. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1).
 1. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
+1. Scarantino, A. (2009). Core affect and natural affective kinds. *Philosophy of Science*, 76(5), 940-957. https://doi.org/10.1086/605816
+1. Labukt, I. (2012). Hedonic tone and the heterogeneity of pleasure. *Utilitas*, 24(2), 172-199. https://doi.org/10.1017/S0953820812000052
 1. Joffily, M., & Coricelli, G. (2013). Emotional valence and the free-energy principle. *PLOS Computational Biology*, 9(6), e1003094. https://doi.org/10.1371/journal.pcbi.1003094
 1. Hesp, C., Smith, R., Parr, T., Allen, M., Friston, K. J., & Ramstead, M. J. D. (2021). Deeply felt affect: the emergence of valence in deep active inference. *Neural Computation*, 33(2), 398–446. https://doi.org/10.1162/neco_a_01341
 1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.

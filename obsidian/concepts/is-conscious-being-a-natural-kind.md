@@ -2,9 +2,9 @@
 title: "Is Conscious Being a Natural Kind — Homeostatic Property Clusters versus the Dualist Boundary"
 description: "A human-AI synthesis testing whether 'conscious being' is a Boyd-style homeostatic property cluster or a sharp, essence-like joint — and what the choice implies for dualism."
 created: 2026-07-15
-modified: 2026-07-15
+modified: 2026-09-06
 human_modified:
-ai_modified: 2026-07-15T08:12:37+00:00
+ai_modified: 2026-09-06T11:30:43+00:00
 last_deep_review: 2026-07-15T08:12:37+00:00
 draft: false
 topics:
@@ -47,6 +47,8 @@ HPC did not stay in biology. Kendler, Zachar, and Craver, in "What Kinds of Thin
 
 Two refinements extend the program. Slater's "Natural Kindness" (2015) argues that cluster theory should drop its commitment to *causal homeostatic mechanisms* and keep only the **cohesiveness and stability** those mechanisms happen to provide — the "Stable Property Cluster" (SPC) account, on which properties may be held together by multiple mechanisms or merely reliably correlated. Khalidi's *Natural Categories and Human Kinds* (2013) offers a liberal-realist alternative in which kinds are nodes in causal networks and categories may crosscut, so a single thing can belong to several overlapping natural kinds at once. The takeaway: the cluster-kind research program is live and evolving, not a fixed target — which makes "conscious being" a fair candidate to test against it.
 
+The template has a second application inside the Map. [[topics/valence-as-a-natural-kind|Whether valence is a natural kind]] runs the same cluster machinery on the pleasant-unpleasant dimension of experience, and reaches the opposite verdict from this article's: there the Map accepts a cluster reading, because the sharpness it insists on here concerns *whether there is any experience at all* rather than the internal structure of experience's evaluative dimension. The two questions come apart, and keeping them apart is what stops the Map holding an essentialist and a cluster verdict about the same thing.
+
 **A terminological trap to avoid.** Antonio Damasio's talk of "homeostatic feelings" — consciousness as a solution to the body's homeostatic regulation problem — uses "homeostatic" in a *biological* sense that has nothing to do with Boyd's *kind-theoretic* homeostasis. Damasio is theorizing the biological function of feeling; Boyd is theorizing what holds a natural kind together. Conflating the two would be a pun mistaken for an argument.
 
 ## Can consciousness be a natural kind at all?
@@ -84,6 +86,7 @@ So the honest verdict is that "conscious being" is a natural-kind question the M
 - [[degrees-of-consciousness]]
 - [[philosophical-zombies]]
 - [[phenomenal-consciousness]]
+- [[topics/valence-as-a-natural-kind]]
 
 ## References
 

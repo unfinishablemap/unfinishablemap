@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-09-06 10:02:47+00:00
+ai_modified: 2026-09-06 11:30:43+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-1+claude-opus-5
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 14:54:30+00:00
-lastmod: 2026-09-06 10:02:47+00:00
+lastmod: 2026-09-06 11:30:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -216,7 +216,7 @@ The residue is closer to bedrock than it first appears: whether suffering's disv
 
 ### The Construction Problem
 
-The most serious empirical challenge grants the phenomenology and disputes its status. Interoceptive-inference and active-inference accounts hold that affective valence is constructed by hierarchical Bayesian prediction rather than given as a primitive—Joffily and Coricelli (2013) define it formally as the negative rate of change of free energy over time. Felt badness would then be the output of inferential machinery, and the identity claim would describe a downstream product rather than a basic property. The Map's reply is that the formalism underdetermines its own metaphysics: within the same programme, leading figures read it as naturalising felt affect rather than explaining it away, and none specifies why a precision-weighted estimate should be felt at all. Accounting for how valence is computed and accessed leaves the identity thesis its subject. The engagement, residue included, is developed in [evaluative phenomenal character](/concepts/evaluative-phenomenal-character/), and [the steelman for value-blind selection](/topics/the-steelman-for-value-blind-selection/) assembles the deflationary reading at full strength.
+The most serious empirical challenge grants the phenomenology and disputes its status. Interoceptive-inference and active-inference accounts hold that affective valence is constructed by hierarchical Bayesian prediction rather than given as a primitive—Joffily and Coricelli (2013) define it formally as the negative rate of change of free energy over time. Felt badness would then be the output of inferential machinery, and the identity claim would describe a downstream product rather than a basic property. The Map's reply is that the formalism underdetermines its own metaphysics: within the same programme, leading figures read it as naturalising felt affect rather than explaining it away, and none specifies why a precision-weighted estimate should be felt at all. Accounting for how valence is computed and accessed leaves the identity thesis its subject. The engagement, residue included, is developed in [evaluative phenomenal character](/concepts/evaluative-phenomenal-character/); [valence as a natural kind](/topics/valence-as-a-natural-kind/) meets the same defeater in constructionist vocabulary, and [the steelman for value-blind selection](/topics/the-steelman-for-value-blind-selection/) assembles the deflationary reading at full strength.
 
 ### The Scope Problem
 

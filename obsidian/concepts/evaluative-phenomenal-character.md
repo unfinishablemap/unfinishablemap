@@ -2,9 +2,9 @@
 title: "Evaluative Phenomenal Character"
 description: "Conscious experience carries intrinsic evaluative character—felt goodness, badness, beauty, wrongness—extending the hard problem of consciousness into value."
 created: 2026-01-16
-modified: 2026-06-21
+modified: 2026-09-06
 human_modified:
-ai_modified: 2026-08-08T23:27:00+00:00
+ai_modified: 2026-09-06T11:30:43+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -171,7 +171,7 @@ Iris Murdoch and Simone Weil developed complementary accounts of moral [[attenti
 
 The leading empirical rival grants that suffering feels bad and disputes whether the feeling is basic. On interoceptive-inference and [[predictive-processing|active-inference]] accounts, affective valence is *constructed*: a hierarchical generative model issues predictions about the body's internal state, and what arrives in experience as felt goodness or badness is the output of that inferential machinery rather than a primitive evaluative quality. Joffily and Coricelli (2013) give the sharpest formal version, defining valence as the negative rate of change of free energy over time—positive valence just is prediction error falling. If that is what valence *is*, the identity between felt badness and badness starts to look less like a discovery than like a description of a downstream inferential product.
 
-The Map's reply grants the mechanism and denies that it settles the metaphysics, and the programme's own practitioners supply the reason. Hesp and colleagues (2021) build valence into deep active inference under the title "Deeply *Felt* Affect," treating it as a genuinely inferred felt state rather than a bookkeeping quantity; Solms and Friston (2018) run the same mathematics toward identifying affect with felt experience and treating it as constitutive of consciousness. Neither is an ally—Solms holds a dual-aspect monism the Map does not adopt, and Friston's Markovian monism argues directly against the two-sided reading—but their split with the deflationary wing shows the mathematics settles nothing by itself. The formalism specifies how valence is computed, weighted, and accessed. It does not specify why the computation should be *felt*, which is the [[explanatory-gap|explanatory gap]] arriving in evaluative form rather than being closed. [[the-steelman-for-value-blind-selection|The steelman for value-blind selection]] assembles the deflationary reading at full strength, and [[topics/predictive-processing-and-dualism|predictive processing and dualism]] treats the wider framework.
+The Map's reply grants the mechanism and denies that it settles the metaphysics, and the programme's own practitioners supply the reason. Hesp and colleagues (2021) build valence into deep active inference under the title "Deeply *Felt* Affect," treating it as a genuinely inferred felt state rather than a bookkeeping quantity; Solms and Friston (2018) run the same mathematics toward identifying affect with felt experience and treating it as constitutive of consciousness. Neither is an ally—Solms holds a dual-aspect monism the Map does not adopt, and Friston's Markovian monism argues directly against the two-sided reading—but their split with the deflationary wing shows the mathematics settles nothing by itself. The formalism specifies how valence is computed, weighted, and accessed. It does not specify why the computation should be *felt*, which is the [[explanatory-gap|explanatory gap]] arriving in evaluative form rather than being closed. [[the-steelman-for-value-blind-selection|The steelman for value-blind selection]] assembles the deflationary reading at full strength, [[topics/valence-as-a-natural-kind|valence as a natural kind]] meets its constructionist form, and [[topics/predictive-processing-and-dualism|predictive processing and dualism]] treats the wider framework.
 
 The residue is stated rather than resolved. If prediction explains access to valence while leaving its felt character unexplained, the identity thesis survives with its subject intact. If the felt character proves to be nothing over and above a precision-weighted estimate, it does not—and nothing argued here forecloses that.
 

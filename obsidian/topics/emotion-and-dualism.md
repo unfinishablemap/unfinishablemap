@@ -2,9 +2,9 @@
 title: "Emotion and Dualism"
 description: "Emotional consciousness provides the strongest empirical case for dualism. Valence—the felt quality of good and bad—is irreducible and presses on epiphenomenalism, though it binds bare correlation, not the phenomenal-concept version."
 created: 2026-01-19
-modified: 2026-03-17
+modified: 2026-09-06
 human_modified:
-ai_modified: 2026-08-08T16:24:00+00:00
+ai_modified: 2026-09-06T11:30:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -110,7 +110,7 @@ If emotions are irreducible conscious acts with genuine causal power, emotional 
 
 Lisa Feldman Barrett and James Russell introduced "core affect"—a neurophysiological state blending valence (pleasure-displeasure) and arousal (activation-deactivation). Core affect is always present; we are never affectively neutral. Discrete emotions are conceptual categories applied to core affect—fear when arousal is high and valence negative in a threatening context, anger in contexts suggesting offense.
 
-This constructionist view preserves phenomenal realism about affect even while treating discrete emotions as conceptually constructed. The Map's framework aligns: consciousness may select among options based on how they feel (core affect's valence), while higher cognition interprets these selections as fear, anger, or joy.
+This constructionist view preserves phenomenal realism about affect even while treating discrete emotions as conceptually constructed. Whether the affect that survives is itself a natural kind is the question [[valence-as-a-natural-kind|valence as a natural kind]] takes up, finding canonical constructionism supplying the Map's value premise with its relatum while the theory's 2025 restatement withdraws it. The Map's framework aligns: consciousness may select among options based on how they feel (core affect's valence), while higher cognition interprets these selections as fear, anger, or joy.
 
 Some emotions feel trivially shallow—mild annoyance—while others feel bottomlessly deep—grief at a loss, awe before a night sky. Emotional depth tracks how fully consciousness engages with its objects: not physiological intensity (quiet grief can be profound) but the degree of caring and attention. This depth compounds the valence mystery: the grief of bereavement differs qualitatively from a stubbed toe, and that difference itself resists functional analysis.
 

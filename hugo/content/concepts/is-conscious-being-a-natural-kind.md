@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-15
-ai_modified: 2026-07-15 08:12:37+00:00
+ai_modified: 2026-09-06 11:30:43+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[degrees-of-consciousness]]'
 - '[[phenomenal-consciousness]]'
 created: 2026-07-15
-date: &id001 2026-07-15
+date: &id001 2026-09-06
 description: A human-AI synthesis testing whether 'conscious being' is a Boyd-style
   homeostatic property cluster or a sharp, essence-like joint — and what the choice
   implies for dualism.
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 08:12:37+00:00
-lastmod: 2026-07-15 08:12:37+00:00
+lastmod: 2026-09-06 11:30:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -51,6 +51,8 @@ Boyd's paradigm case is biological species, developed in "Homeostasis, Species, 
 HPC did not stay in biology. Kendler, Zachar, and Craver, in "What Kinds of Things Are Psychiatric Disorders?" (2011), applied the framework to mental disorders — and in doing so introduced a terminological nuance worth flagging. They **rename HPC the "mechanistic property cluster" (MPC)**, dropping "homeostatic" because it wrongly implied physiological equilibrium; psychiatric kinds, they argue, are held together by heterogeneous and variable causal mechanisms rather than by anything equilibrium-like. MPC, they conclude, "offers the most promising answer to the question of what kinds of things psychiatric disorders are," while cautioning that it may be too early to force psychiatric categories into the mold. Their move is the direct precedent for asking the same of "conscious being": here is the cluster-kind template applied to a mental domain, treating its members as vague, marginal-case-admitting, and mechanism-sustained.
 
 Two refinements extend the program. Slater's "Natural Kindness" (2015) argues that cluster theory should drop its commitment to *causal homeostatic mechanisms* and keep only the **cohesiveness and stability** those mechanisms happen to provide — the "Stable Property Cluster" (SPC) account, on which properties may be held together by multiple mechanisms or merely reliably correlated. Khalidi's *Natural Categories and Human Kinds* (2013) offers a liberal-realist alternative in which kinds are nodes in causal networks and categories may crosscut, so a single thing can belong to several overlapping natural kinds at once. The takeaway: the cluster-kind research program is live and evolving, not a fixed target — which makes "conscious being" a fair candidate to test against it.
+
+The template has a second application inside the Map. [Whether valence is a natural kind](/topics/valence-as-a-natural-kind/) runs the same cluster machinery on the pleasant-unpleasant dimension of experience, and reaches the opposite verdict from this article's: there the Map accepts a cluster reading, because the sharpness it insists on here concerns *whether there is any experience at all* rather than the internal structure of experience's evaluative dimension. The two questions come apart, and keeping them apart is what stops the Map holding an essentialist and a cluster verdict about the same thing.
 
 **A terminological trap to avoid.** Antonio Damasio's talk of "homeostatic feelings" — consciousness as a solution to the body's homeostatic regulation problem — uses "homeostatic" in a *biological* sense that has nothing to do with Boyd's *kind-theoretic* homeostasis. Damasio is theorizing the biological function of feeling; Boyd is theorizing what holds a natural kind together. Conflating the two would be a pun mistaken for an argument.
 
@@ -89,6 +91,7 @@ So the honest verdict is that "conscious being" is a natural-kind question the M
 - [degrees-of-consciousness](/concepts/degrees-of-consciousness/)
 - [philosophical-zombies](/concepts/philosophical-zombies/)
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/)
+- [valence-as-a-natural-kind](/topics/valence-as-a-natural-kind/)
 
 ## References
 

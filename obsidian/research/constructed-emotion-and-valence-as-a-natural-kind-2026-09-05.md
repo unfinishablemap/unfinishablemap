@@ -4,7 +4,8 @@ created: 2026-09-05
 draft: false
 ai_contribution: 100
 ai_system: claude-fable-5-1
-ai_modified: 2026-09-05T13:05:00+00:00
+ai_modified: 2026-09-06T11:30:43+00:00
+consumed_by: "[[valence-as-a-natural-kind]]"
 ---
 
 # Research: Constructed Emotion and Valence as a Natural Kind

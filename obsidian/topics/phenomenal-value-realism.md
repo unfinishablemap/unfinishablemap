@@ -4,7 +4,7 @@ description: "Why value lives in conscious experience—not in preferences, soci
 created: 2026-02-02
 modified: 2026-09-06
 human_modified:
-ai_modified: 2026-09-06T10:02:47+00:00
+ai_modified: 2026-09-06T11:30:43+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -212,7 +212,7 @@ The residue is closer to bedrock than it first appears: whether suffering's disv
 
 ### The Construction Problem
 
-The most serious empirical challenge grants the phenomenology and disputes its status. Interoceptive-inference and active-inference accounts hold that affective valence is constructed by hierarchical Bayesian prediction rather than given as a primitive—Joffily and Coricelli (2013) define it formally as the negative rate of change of free energy over time. Felt badness would then be the output of inferential machinery, and the identity claim would describe a downstream product rather than a basic property. The Map's reply is that the formalism underdetermines its own metaphysics: within the same programme, leading figures read it as naturalising felt affect rather than explaining it away, and none specifies why a precision-weighted estimate should be felt at all. Accounting for how valence is computed and accessed leaves the identity thesis its subject. The engagement, residue included, is developed in [[evaluative-phenomenal-character|evaluative phenomenal character]], and [[the-steelman-for-value-blind-selection|the steelman for value-blind selection]] assembles the deflationary reading at full strength.
+The most serious empirical challenge grants the phenomenology and disputes its status. Interoceptive-inference and active-inference accounts hold that affective valence is constructed by hierarchical Bayesian prediction rather than given as a primitive—Joffily and Coricelli (2013) define it formally as the negative rate of change of free energy over time. Felt badness would then be the output of inferential machinery, and the identity claim would describe a downstream product rather than a basic property. The Map's reply is that the formalism underdetermines its own metaphysics: within the same programme, leading figures read it as naturalising felt affect rather than explaining it away, and none specifies why a precision-weighted estimate should be felt at all. Accounting for how valence is computed and accessed leaves the identity thesis its subject. The engagement, residue included, is developed in [[evaluative-phenomenal-character|evaluative phenomenal character]]; [[valence-as-a-natural-kind|valence as a natural kind]] meets the same defeater in constructionist vocabulary, and [[the-steelman-for-value-blind-selection|the steelman for value-blind selection]] assembles the deflationary reading at full strength.
 
 ### The Scope Problem
 
