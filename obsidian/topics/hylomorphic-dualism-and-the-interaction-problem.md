@@ -4,8 +4,8 @@ description: "A human-AI examination of hylomorphism as a serious rival to the M
 created: 2026-07-06
 modified: 2026-07-06
 human_modified:
-ai_modified: 2026-08-04T09:15:00+00:00
-last_deep_review: 2026-07-25T19:15:40+00:00
+ai_modified: 2026-09-06T00:49:31+00:00
+last_deep_review: 2026-09-06T00:49:31+00:00
 draft: false
 topics:
   - "[[the-interface-problem]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[history-of-the-interaction-problem]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-fable-5-1
 ai_generated_date: 2026-07-06
 last_curated:
 ---
@@ -44,9 +44,9 @@ The word covers a spectrum wide enough that "hylomorphism solves the mind-body p
 
 ### Structure hylomorphism (near-physicalist)
 
-William Jaworski's *Structure and the Metaphysics of Mind* (2016) treats "structure" (hylomorphic form) as "a basic ontological and explanatory principle": living things are materials organized so as to confer developmental, metabolic, perceptive, and cognitive powers. Jaworski addresses mental causation through a *dual-explananda* strategy. Actions have mental causes; actions have physical causes; these look like competing sufficient causes, threatening overdetermination. His resolution is telling. Jaworski *accepts* that the effects of hylomorphic substances are fully necessitated by prior physical causes—in a sense of "physical" that excludes emergent structure—and denies only that necessitation is *sufficient for explanation*. Reasons-explanations and mechanistic explanations, he argues, pick out causal factors of different sorts and so cannot overdetermine an action. Structure earns its keep explanatorily, not by adding a competing causal push.
+William Jaworski's *Structure and the Metaphysics of Mind* (2016) treats "structure" (hylomorphic form) as a basic ontological and explanatory principle—one that, in the book's words, "operates as an irreducible ontological principle": living things are materials organized so as to confer developmental, metabolic, perceptive, and cognitive powers. Jaworski addresses mental causation through a *dual-explananda* strategy. Actions have mental causes; actions have physical causes; these look like competing sufficient causes, threatening overdetermination. His resolution is telling. On William Seager's reading of the book, Jaworski accepts that structure supervenes on, and is necessitated by, the fundamental physical state of the world, and that higher-level behaviour never violates lower-level physical law; what he denies is that the physical base *determines* everything else, where the difference between necessitation and determination is whether the base also *explains* the structure. Explanations that appeal to reasons and explanations that appeal to physiological mechanisms, Jaworski holds, "pick out causal factors of different sorts" (p. 281) and so do not overdetermine an action. Structure earns its keep explanatorily, not by adding a competing causal push.
 
-This makes structure hylomorphism the weakest fit for the Map, and worth flagging as such. Critics note that the dual-explanandum move is equally available to a physicalist, and that granting full physical necessitation is close to conceding causal closure. A framework that concedes closure does not deliver the irreducible, causally efficacious mind the Map's tenets require. Jaworski's structure is not obviously more than organization realized in matter—which is why his own view sits near the physicalist end of the spectrum, and why some readers class it as neither dualism nor physicalism but a third, naturalistic thing.
+This makes structure hylomorphism the weakest fit for the Map, and worth flagging as such. Seager presses both worries: the physicalist can simply identify the hylomorphist's structured individuals with their necessitating base, and non-violation plus necessitation looks close to conceding that the world is physically causally closed. A framework that concedes closure does not deliver the irreducible, causally efficacious mind the Map's tenets require. Jaworski's structure is not obviously more than organization realized in matter—which is why his own view sits near the physicalist end of the spectrum, and why some readers class it as neither dualism nor physicalism but a third, naturalistic thing.
 
 ### Thomistic (hylemorphic) dualism
 
@@ -72,7 +72,7 @@ One further feature of the whole hylomorphic program is worth naming, because it
 
 The Map and hylomorphic dualism agree on more than either shares with reductive physicalism. Both reject the reduction of consciousness to physical process; both reject the Cartesian picture of two complete substances piloting each other. The disagreement is about what follows from that shared rejection.
 
-Hylomorphism's move is *dissolution*: deny that mind and matter are two relata, and the interaction problem lapses. The Map's move is *location*: accept that mind and matter are distinct and causally connected—[[interactionist-dualism|interactionist dualism]], the joint consequence of the Dualism and Bidirectional Interaction tenets—and then specify *where* the influence acts. The Map's answer is [[apex/post-decoherence-selection-programme|post-decoherence selection]]: consciousness biasing which outcome becomes actual from the improper reduced-state mixture left after decoherence completes, the smallest deviation from standard physics that could permit mind-matter causation (Tenet 2, [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]). Where the hylomorphist says the "how" question is malformed, the Map takes the question seriously and pays its price—an interface that is, on the corridor reading, empirically indistinguishable from chance.
+Hylomorphism's move is *dissolution*: deny that mind and matter are two relata, and the interaction problem lapses. The Map's move is *location*: accept that mind and matter are distinct and causally connected—[[interactionist-dualism|interactionist dualism]], the joint consequence of the Dualism and Bidirectional Interaction tenets—and then specify *where* the influence acts. The Map's answer is [[apex/post-decoherence-selection-programme|post-decoherence selection]]: consciousness biasing which outcome becomes actual from the improper reduced-state mixture left after decoherence completes, the smallest deviation from standard physics that could permit mind-matter causation (Tenet 2, [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]). Where the hylomorphist says the "how" question is malformed, the Map takes the question seriously and pays its price—an interface that is, on the corridor reading, empirically indistinguishable from chance under any *unconditioned aggregate* test, though a deviation *conditioned* on intention, task or subject remains a live way of testing it ([[positions/quantum-interface#^mechanism-debt|P-Q3]]).
 
 It is important to state the dialectical situation honestly. Dissolution is the *rival's* move, and if it succeeds it is a cost to the Map, not a win. The Map's reason for preferring location over dissolution is not that hylomorphism has been refuted—it has not been. The reason is that the Map judges the appeal to non-mechanistic formal causation to relabel the problem rather than resolve it: when what must be configured is a physical brain state with a physical causal history, "the form configures the matter" does not yet say what makes *this* neural outcome actual rather than another. The Map's post-decoherence interface is an attempt to answer exactly that residual question. Whether the residual question is real or an artifact of a mechanistic prejudice is the genuine point of disagreement, and by the Map's own [[tenets#^occams-limits|fifth tenet]] the Map cannot claim its framework is simply *simpler* and therefore true. Neither framing is forced by the arguments currently on the table: the dispute is not framework-neutral, and the choice between dissolution and location is a bet about which unanswered question is the load-bearing one. The Map holds that its bet is the better one; it does not hold that hylomorphism has been shown to have lost.
 
@@ -88,14 +88,14 @@ This selective borrowing sits alongside the Map's other engagements with non-Car
 - [[agent-causation]] — the persisting subject hylomorphic subsistence independently supplies
 - [[where-the-substance-commitment-enters]] — where and why the Map leans substance
 - [[interaction-problem-across-traditions]] — how other traditions handle the same problem
-- [[history-of-the-interaction-problem]] — how the modern problem arose when Descartes displaced hylomorphism
+- [[history-of-the-interaction-problem]] — how the modern problem arose with Descartes and Elisabeth's 1643 challenge, and the four centuries of response that followed
 - [[russellian-monism-versus-bi-aspectual-dualism]] — a different non-Cartesian rival
 - [[four-category-ontology]] — the closest non-Cartesian cousin: Lowe's four-category NCSD grounds mental causation in substance-based fact-causation rather than dissolving the interaction demand
 
 ## References
 
 1. Aquinas, Thomas. *Summa Theologiae*, Prima Pars, Q. 75, a. 2 ("Whether the human soul is something subsistent?"). Trans. Fathers of the English Dominican Province. https://www.newadvent.org/summa/1075.htm
-2. Jaworski, William. (2016). *Structure and the Metaphysics of Mind: How Hylomorphism Solves the Mind-Body Problem*. Oxford University Press. Review: https://ndpr.nd.edu/reviews/structure-and-the-metaphysics-of-mind-how-hylomorphism-solves-the-mind-body-problem/
+2. Jaworski, William. (2016). *Structure and the Metaphysics of Mind: How Hylomorphism Solves the Mind-Body Problem*. Oxford University Press. Reviewed by William Seager, *Notre Dame Philosophical Reviews*, 4 September 2016: https://ndpr.nd.edu/reviews/structure-and-the-metaphysics-of-mind-how-hylomorphism-solves-the-mind-body-problem/
 3. Feser, Edward. (2011). "Vallicella on hylemorphic dualism." http://edwardfeser.blogspot.com/2011/08/vallicella-on-hylemorphic-dualism.html
 4. Koons, Robert C. (2018). "Against Emergent Individualism," in *The Blackwell Companion to Substance Dualism*, eds. Jonathan J. Loose, Angus J. L. Menuge & J. P. Moreland. Wiley-Blackwell, pp. 377–393. https://www.newdualism.org/papers-Jul2020/Koons-AgainstEmergentIndividualism.pdf
 5. Marmodoro, Anna. (2013). "Aristotle's hylomorphism without reconditioning." *Philosophical Inquiry* 37(1-2): 5–22. https://philpapers.org/rec/MARAHW
