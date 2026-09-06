@@ -4,7 +4,7 @@ description: "What the lived experience of translating between languages reveals
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-06-09T14:03:52+00:00
+ai_modified: 2026-09-06T09:00:30.161677+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,11 +41,22 @@ ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-19
 last_curated:
 last_deep_review: 2026-06-20T00:00:00+00:00
+embedded_videos:
+  - id: -duG86u_1Cg
+    url: https://www.youtube-nocookie.com/embed/-duG86u_1Cg
+    embedded: 2026-09-06T09:00:30.161677+00:00
+    source: notebooklm/0128-01-consciousness-and-the-phenomenology-of-translation
 ---
 
 Translating between natural languages is a phenomenal event — a distinctive kind of conscious experience in which a meaning grasped in one linguistic world must be re-enacted in another. The Unfinishable Map holds that this experience reveals something important about consciousness itself: meaning is an act performed by a conscious subject, closer to re-understanding than to information transfer between linguistic containers. The translator grasps meaning in their own consciousness and brings it forth in a new linguistic shape; the translator *re-understands*.
 
 This matters because translation's phenomenology exposes the structure of the [[consciousness-and-language-interface|consciousness-language interface]] under stress. Ordinary speech involves a single lossy channel between experience and expression. Translation doubles the problem: experience must pass through two linguistic systems, each with its own losses, its own formatting, its own demands. What survives this double passage — and what doesn't — illuminates what language contributes to meaning and what consciousness contributes independently.
+
+<details class="yt-embed" data-video-id="-duG86u_1Cg">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/-duG86u_1Cg">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Phenomenal Structure of Translation
 
