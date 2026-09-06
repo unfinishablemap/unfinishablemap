@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-09-05 04:01:07+00:00
+ai_modified: 2026-09-06 20:14:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts:
@@ -12,14 +12,14 @@ concepts:
 - '[[illusionism]]'
 - '[[evidential-status-discipline]]'
 created: 2026-06-18
-date: &id001 2026-09-05
+date: &id001 2026-09-06
 description: 'The Map''s positions on the value-blind / value-sensitive fork: whether
   felt valence does the selecting or merely watches, and the collated battery of evidence
   that would move the fork in either direction.'
 draft: false
 human_modified: 2026-06-18
 last_curated: 2026-06-18
-lastmod: 2026-09-05 04:01:07+00:00
+lastmod: 2026-09-06 20:14:00+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -34,6 +34,7 @@ topics:
 - '[[the-steelman-for-value-blind-selection]]'
 - '[[phenomenal-value-realism]]'
 - '[[the-sublime-and-negative-aesthetics]]'
+- '[[the-experience-requirement-on-well-being]]'
 ---
 
 ## About this domain
@@ -74,10 +75,10 @@ These positions cover the **value-blind / value-sensitive fork**: given that con
 - **Calibration** ([multi-axis](/positions/methodology-and-calibration/#calibration-schema)): credence moderate · external-evidence grade D (metaethical identity claim, argued phenomenologically; no independent empirical support) · structural centrality high · model maturity developed · empirical discriminability indirect · framework-internal only: no
 - **Asserts**: The Map holds that intrinsic value is a feature of conscious experience itself: the felt badness of suffering *is* badness, the felt goodness of joy *is* goodness — one property under two descriptions. Where there is no experiencer, nothing bears intrinsic value. Three arguments carry the identity: coherence, transparency, explanatory economy (Rawlette, *The Feeling of Value*, 2016). The hedonic pair is the clearest *instance* of the identity, not its extent: what the identity holds between is intrinsic value and [evaluative phenomenal character](/concepts/evaluative-phenomenal-character/), and the Map departs from Rawlette in denying that the hedonic dimension exhausts that character — an extension registered separately as **[P-VS4](/positions/value-in-selection/#p-vs4)** and *not* presupposed here. This entry is the bare realism claim, and Rawlette's own combination of holding it while rejecting pluralism is what shows the two to be separable positions rather than one. [P-VS1](/positions/value-in-selection/#p-vs1), [P-VS2](/positions/value-in-selection/#p-vs2), [P-AC3](/positions/ai-consciousness-scope/#p-ac3) and [P-MS1](/positions/moral-status/#p-ms1) depend on this entry alone; none of them inherits [P-VS4](/positions/value-in-selection/#p-vs4). Credence is *moderate*, not high, because the rival is live: illusionism holds that without a genuine "what it's like" the position has no referent, and the Map's three replies (regress, practical, contemplative) are arguments it runs, not results it has won — the contemplative one mixed on its own account. Credence sits *above* [P-VS1](/positions/value-in-selection/#p-vs1)'s *low* of necessity: [P-VS1](/positions/value-in-selection/#p-vs1) assumes this premise plus an undefended valence-to-physics coupling. High centrality on grade-D support is the shape [P-M1](/positions/methodology-and-calibration/#p-m1) and [P-M4](/positions/methodology-and-calibration/#p-m4) keep visible — Tenet 1 removes the physicalist defeater against phenomenal properties, but defeater-removal is not evidence.
 - **Depends on**: Tenet 1 ([Dualism](/tenets/#dualism)) as defeater-removal only, per [P-M1](/positions/methodology-and-calibration/#p-m1); [consciousness-value-connection](/concepts/consciousness-value-connection/); [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/); the falsity of [illusionism](/concepts/illusionism/). *Depended on by* [P-VS1](/positions/value-in-selection/#p-vs1), [P-VS2](/positions/value-in-selection/#p-vs2), [P-AC3](/positions/ai-consciousness-scope/#p-ac3), [P-MS1](/positions/moral-status/#p-ms1)
-- **Argued in**: [phenomenal-value-realism](/topics/phenomenal-value-realism/), [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/), [consciousness-value-connection](/concepts/consciousness-value-connection/)
+- **Argued in**: [phenomenal-value-realism](/topics/phenomenal-value-realism/), [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/), [consciousness-value-connection](/concepts/consciousness-value-connection/), [the-experience-requirement-on-well-being](/topics/the-experience-requirement-on-well-being/)
 - **Would shift if**: illusionism succeeded — "if phenomenal consciousness were shown to be thoroughly illusory … then grounding value in phenomenal properties would ground it in nothing" — retiring this position and the domain resting on it; or a robust value-experience dissociation were found (pleasure genuinely experienced as not good, beyond anhedonia and depersonalisation); or careful phenomenology showed value separable from evaluative phenomenal character *altogether* — a felt goodness that is not good, or a good that shows up in no one's experience.
 - **Calibration history**: [notes of 2026-08-07 and 2026-08-12](/positions/value-in-selection-calibration-history/#p-vs3) — defeater reassigned to evaluative phenomenal character; [P-MS1](/positions/moral-status/#p-ms1) added as a dependent. No band changed.
-- **Last reviewed**: 2026-08-12
+- **Last reviewed**: 2026-09-06
 
 ## P-VS4: Intrinsic value is plural — several dimensions of evaluative phenomenal character, not hedonic valence alone
 
