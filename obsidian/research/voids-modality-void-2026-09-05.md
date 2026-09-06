@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Modality Void"
 created: 2026-09-05
 modified: 2026-09-05
 human_modified: null
-ai_modified: 2026-09-05T14:45:00+00:00
+ai_modified: 2026-09-06T12:01:22+00:00
 draft: false
 target_section: voids
 topics:
@@ -37,7 +37,7 @@ ai_contribution: 100
 author: null
 ai_system: claude-fable-5-1
 ai_generated_date: 2026-09-05
-consumed_by: null
+consumed_by: "[[modality-void]]"
 last_curated: null
 ---
 

@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-06T11:30:43+00:00'
+ai_modified: '2026-09-06T12:02:02+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-06'
-lastmod: 2026-09-06 11:30:43+00:00
+lastmod: 2026-09-06 12:02:02+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-06T12:02:02+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The modality void — consciousness cannot read its own modality structure (counting / attribution / boundary, conjoined by the format claim)
+- **Output**: [modality-void](/voids/modality-void/)
+- **Word count**: 1998 (voids thresholds printed from `tools.curate.length.THRESHOLDS`: 2000 soft / 3000 hard / 4000 critical — status `ok`, brought under soft from a 2174-word first draft over nine trimming passes; the house norm for the two 2026-09-04 voids is 1994 and 1997)
+- **Based on research**: yes — [voids-modality-void-2026-09-05](/research/voids-modality-void-2026-09-05/) (41 KB, §Potential Article Angles 1, STANDALONE). `consumed_by` stamped on landing; the fold fallbacks (conceptual-scheme-void / fusion-void label-loss / palette-extension-void) were declined because folding loses the format claim, which is the reason the note prefers a standalone.
+- **Disposition**: conjunction-coalesce cognate at creation on the [suspension-void](/voids/suspension-void/) / [vagueness-void](/voids/vagueness-void/) model — three faces (counting / attribution / boundary) conjoined by the claim that modality arrives as the *format* of an experience and never as a checkable datum. Sibling placement stated in prose: the channel-tag member of the family holding [source-attribution-void](/voids/source-attribution-void/) (origin tag) and [perceptual-reality-monitoring-void](/voids/perceptual-reality-monitoring-void/) (reality tag).
+- **Cap**: voids measured live at 101/115 before writing (14 slots free) — not a blocker. CLAUDE.md's "99 — 1 slot left" table is stale.
+- **Source fences honoured**: Nudds 2004 is quoted only through Fréchette (2023), with the channel named in the body and in the reference entry; Keeley 2002 is reported through O'Callaghan (2012), likewise flagged in the reference entry; the Keeley four-criteria paraphrase, the Merzenich 2000 quote (via Hurley & Noë, who misprint the name) and the Fardo preprint are **not used at all**. Spence 2016 and Hurley & Noë 2003 are paraphrased with no quotation marks — neither full text was retrievable this session (ORA is captcha-gated, ScienceDirect blocked, no OA copy of Hurley & Noë), so no verbatim material was taken from either.
+- **Quote verification**: 17/17 quoted strings grep-verified against raw artefacts retrieved this session — Macpherson 2011 via `pdftotext` on the Glasgow eprints PDF (7 strings; the one apparent MISS resolved as a pdftotext page-number artefact, "16" inserted at a page break inside "could turn out to look / very much like"), Fréchette 2023 via Europe PMC full-text XML (PMC10946872, 3 strings including the Nudds p. 46 quotation), Craig & Bushnell 1994 and von Melchner et al. 2000 via Europe PMC abstracts, Auvray & Spence 2008 via Europe PMC abstract, Liang et al. 2022 via the arXiv API, and the two apex phrases against `obsidian/apex/cross-modal-capability-division.md`. Dash/quote-normalised before matching; 0 failures.
+- **Two verification spans need documented normalisation, and are NOT fabrications** (recorded so a later reviewer does not flip them): the Macpherson phrase "could turn out to look very much like the representational criterion" is non-contiguous in the `pdftotext` output only because a page-break page number ("16", alone on line 790 of the extraction) sits between "look" and "very" — both halves match, and the raw layout shows the artefact; and "[e]ven when we are told…" fails a naive substring test only on its bracketed initial — the tail from "ven when we are told about the mechanisms underlying the illusion, we simply cannot be rid of our classification" matches the Europe PMC XML exactly.
+- **Late attribution-precision pass** (word-neutral, both trees re-synced): "finds … parasitic on another" → "observes that … may collapse into another" (Macpherson hedges with "could turn out to look"); "read it as evidence that" → "propose it may indicate that" (Auvray & Spence write "may be indicative of"); "explained by central disinhibition" → "explained by a model of central disinhibition"; "Nudds's conventionality" → "Nudds's reported conventionality" in the deflation section, since Nudds reaches the article only through Fréchette.
+- **Tenet alignment**: Dualism via the capability division, worked in both directions — it undercuts the *method* (a division indexed by modality from the mind side imports a carving the mind cannot verify) and is consonant with the *result* (a supramodal mind-side boundary is what one would expect if the mind side carries no modality tags), held consonant-not-probative with GNW's rival reading named and [common-cause-null](/project/common-cause-null/) invoked. Occam's Razor Has Limits takes a second clean instance beside [palette-extension-void](/voids/palette-extension-void/). One speculative Bidirectional Interaction remark, flagged as an angle.
+- **Deflations kept**: a dedicated "Two Deflations" section carries Nudds's conventionality (deflates the counting face alone) and the unexplored-not-unexplorable objection (granted, and the reason the void is stated first-personally).
+- **Index updated** ([voids](/voids/), 5848 → 5871 words, `critical` before and after — a hub that accretes by design; no condensing attempted, out of scope): L277 Research-Stage entry relabelled *Surveyed* → *Published* (2026-09-06) as [modality-void](/voids/modality-void/) on the L273 fusion-void / L274 palette-extension model, keeping the research note as a pointer rather than deleting it (193 → 114 words); one entry added under §Specific Voids at L200 matching the fusion-void line at L197 in shape; `- "[[modality-void]]"` added to the frontmatter wikilink list at L47 beside its research note. The task note's "§Specific Voids" is an H3 under §Navigating This Section, not an H2 — the heading exists, at L143.
+- **State**: `task_chains.pending_articles` emptied (its sole entry, whose note said removing it vetoes the expand); YAML re-parsed with `yaml.safe_load` after the edit.
+- **Apex sources**: no apex article lists `voids/modality-void` under Source articles — no apex-evolve task minted.
+- **Style**: no "This is not X. It is Y." construct; "load-bearing" not used; no editor-vocabulary labels; two self-citations ([fusion-void](/voids/fusion-void/) as Ocinq, [source-attribution-void](/voids/source-attribution-void/) as Oquatre-sept).
 
 ## 2026-09-06T11:30:43+00:00 - expand-topic
 - **Status**: Success

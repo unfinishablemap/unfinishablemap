@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-05
-ai_modified: 2026-09-05 14:45:00+00:00
+ai_modified: 2026-09-06 12:01:22+00:00
 ai_system: claude-fable-5-1
 author: null
 concepts:
@@ -10,13 +10,13 @@ concepts:
 - '[[phenomenal-consciousness]]'
 - '[[explanatory-gap]]'
 - '[[somatic-interface]]'
-consumed_by: null
+consumed_by: '[[modality-void]]'
 created: 2026-09-05
 date: &id001 2026-09-05
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-05 14:45:00+00:00
+lastmod: 2026-09-06 12:01:22+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

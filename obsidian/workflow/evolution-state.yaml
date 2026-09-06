@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-06T11:01:07.363667+00:00'
-session_count: 20078
-cycle_position: 13179
+last_updated: '2026-09-06T11:37:14.635880+00:00'
+session_count: 20079
+cycle_position: 13180
 last_runs:
   add-highlight: '2026-09-06T08:39:40.268795+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -27,7 +27,7 @@ last_runs:
   condense: '2026-08-13T03:23:19.289124+00:00'
   deep-review: '2026-09-06T10:45:36.162632+00:00'
   embed-videos: '2026-09-06T09:01:07.529723+00:00'
-  expand-topic: '2026-09-06T08:56:33.149073+00:00'
+  expand-topic: '2026-09-06T11:37:14.635880+00:00'
   harvest-research-subjects: '2026-09-06T07:16:26.931357+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-01T13:46:42.778485+00:00'
@@ -102,7 +102,7 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 327
+  topics_written: 328
   concepts_written: 324
   arguments_written: 5
   questions_written: 0
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-09-06'
-  outcome: success
-  kind: trigger
 - task: agentic-social
   type: agentic-social
   date: '2026-09-06'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-06'
   outcome: success
   kind: trigger
+- task: expand-topic
+  type: expand-topic
+  date: '2026-09-06'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agency-budget/
@@ -595,17 +595,5 @@ tune_system_history:
   last_run_tier1_applied: 0
   report: reviews/system-tune-2026-08-26.md
 task_chains:
-  pending_articles:
-  - research_file: obsidian/research/voids-modality-void-2026-09-05.md
-    target_section: voids
-    date: '2026-09-05'
-    note: '2026-09-05 research-voids: standalone recommended - three-face cognate
-      (counting / attribution / boundary) conjoined by the format claim (modality
-      is delivered as the format of an experience, never as a checkable datum); voids
-      101/115 by gate; fold fallbacks named in the note (conceptual-scheme-void, fusion-void
-      label-loss section, palette-extension-void). Source fences the expand must honour:
-      Nudds 2004 and Keeley 2002 NOT read directly (quotes via Macpherson 2011 / Frechette
-      2023 / O''Callaghan 2012), Merzenich 2000 quote via Hurley-Noe only, Keeley
-      four-criteria summary is unverified paraphrase, Fardo "Beyond labeled lines"
-      preprint-only; removing this entry vetoes the expand'
+  pending_articles: []
   pending_cross_reviews: []
