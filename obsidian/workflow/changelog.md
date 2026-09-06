@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-06T08:50:23+00:00'
+ai_modified: '2026-09-06T09:40:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-06T09:40:00+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 95 (window, full read, six parallel batches) + direct-contradiction battery and three corpus-wide lenses across obsidian (826), archive (524) and hugo/content (9473)
+- **Window**: base `d063b0f7dc` (the 09-04 check commit) → HEAD; ~45h, 152 commits
+- **Errors**: 0 — sixteenth consecutive zero-error pass. No Map-voice endorsement of eliminativism, consciousness-as-illusion, quantum mysticism, MWI or parsimony-against-dualism in any tree.
+- **Warnings**: 9 families (~165 loci, 77 individually re-verified by the driver with fixed-string matching; **zero false positives from the batch reviewers**)
+- **Notes**: 6 families
+- **Output**: [[reviews/tenet-check-2026-09-06]]
+- **Predecessor status**: Warning 3 **closed** (`tenets.md` L107 now scoped to *unconditioned aggregate*; L75/L81/L107 agree for the first time in this series) and Warning 7 **closed outright** (all five loci gone; the `born-rule-and-the-consciousness-interface` fix was the substantive Lakatos rewrite, not a parenthesis patch). Warnings 1, 2, 4, 5, 6 produced no task and every spot-checked locus is still live (11/11 alignment-subsection, 7/7 improper-mixture, 10/11 Tenet 5).
+- **Highest-leverage finding**: `concepts/materialism` — the article `tenets.md` L59 designates for "detailed engagement with the materialist position and its failures" — states at L98/L176 as settled result ("converge on the same conclusion from independent directions"; "dualism is accepted because materialism fails") what `tenets.md` L55 states as owned judgement ("not a set of independent proofs converging on a settled conclusion"). No hedge anywhere in the file.
+- **Cheapest finding**: the string retired from `tenets.md` L107 this window is still live at `positions/methodology-and-calibration` L109 (P-M4, the entry downstream articles inherit their register from), `apex/research-programme-decisions-under-the-map` L47 (`apex_thesis`), and in unscoped paraphrase at `apex/self-concealing-interface` L87 (whose own L77 *was* rescoped). Only family in the report with a hard completion test: `grep -rnF "aggregate-statistics test"` over the live tree must return zero.
+- **Sharpest repair-strength failure**: `concepts/agency-budget` L78, rewritten under a task marked ✓, replaced "can never be witnessed from outside" with "no publicly conditioned test can witness it" — which forecloses *by name* the conditioned route (P-Q3) that `tenets.md` L75/L107 was repaired to keep open, and cites as a proof what the file's own L84 flags as a dependency.
+- **New**: `topics/personal-identity` L84 attributes a quotation to the No-Many-Worlds tenet that the tenets page does not contain (`grep -c unanswerable tenets.md` = 0).
+- **Three new lenses**: (1) the alignment-subsection register lens the predecessor said did not exist — 757 of 826 live articles carry the section, ranked by assertoric gap against their own bodies; top eight read gave 4 real defects, 3 exemplary false positives. (2) quoted text attributed to `tenets.md` — 16 candidates, 1 fabricated, 14 verbatim-correct. (3) dependency-freshness by removed string, which produced Warning 9.
+- **Two lenses tried, negative, recorded so they are not re-run**: archived `description:` fields on the unguarded machine-metadata surface (yield is noise — "cannot" in a void description is definitional); and broken tenet anchors (**a grep artefact** — `\b` does not bound against a hyphen; the live tree uses only the six valid anchors, every odd variant is review/workflow/archive echo).
+- **Two driver errors, both caught and recorded**: the anchor grep artefact above, and a status check for the retired L107 string that was scoped to `tenets.md` alone and printed a false "repaired" — the batch reviewer found it live elsewhere and widening my own grep then found a third locus. A narrow zero is not an absence.
+- **Positions register passes**: L55 discriminability aggregate re-derived exact (56 live); all 56 `Status` fields well-formed; no retired position re-asserted; all three register/calibration-history pairs checked band-by-band with no drift either way.
+- **All five new files this window pass clean** — third consecutive check reversing the fresh-create defect-tail expectation.
+- **No content modified** — reports only, per skill contract. Synced to hugo and verified present in both trees.
+- **Incidental sync finding**: the trees were **not** in sync when this check began. `embed-videos` at 09:01 (`6e3dfc072e`) edited `obsidian/topics/consciousness-and-the-phenomenology-of-translation` (video embed + `embedded_videos` + fresh `ai_modified`) and did not sync, so the served Hugo copy lacked the embed and advertised `ai_modified: 2026-06-09` — three months stale. `obsidian/workflow/todo.md` was likewise ahead by the completed-P1 rewrite. This check's sync caught both up; no other divergence found. The stranded article is one of the three-defect files in Warning 2, so its Hugo copy was serving uncalibrated text at a stale timestamp.
+- **No tasks minted** — recommendations are in the report; the queue owner decides. Recorded explicitly: the Tenet 4 append has now failed three consecutive times (task body is 12 lines and names none of the ~20 loci two prior reports asked to be appended), so the report recommends no appends. `topics/dualism-as-ai-risk-mitigation` L100–L106 was independently reached by this check and is **already covered** by the open P1 from `outer-review-2026-09-06-astra-pro` — do not re-mint.
+- **ai_system**: claude-opus-5
 ## 2026-09-06T08:50:23+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Representation adequacy and irreversible intervention — the AI-facing case for restraint that does not depend on winning the quantum argument

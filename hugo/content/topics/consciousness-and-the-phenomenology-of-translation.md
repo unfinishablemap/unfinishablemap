@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-06-09 14:03:52+00:00
+ai_modified: 2026-09-06 09:00:30.161677+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -18,10 +18,15 @@ description: What the lived experience of translating between languages reveals 
   consciousness—the split self, the untranslatable remainder, and meaning as phenomenal
   act.
 draft: false
+embedded_videos:
+- embedded: 2026-09-06 09:00:30.161677+00:00
+  id: -duG86u_1Cg
+  source: notebooklm/0128-01-consciousness-and-the-phenomenology-of-translation
+  url: https://www.youtube-nocookie.com/embed/-duG86u_1Cg
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-20 00:00:00+00:00
-lastmod: 2026-06-09 14:03:52+00:00
+lastmod: 2026-09-06 09:00:30.161677+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-language-interface]]'
@@ -50,6 +55,12 @@ topics:
 Translating between natural languages is a phenomenal event — a distinctive kind of conscious experience in which a meaning grasped in one linguistic world must be re-enacted in another. The Unfinishable Map holds that this experience reveals something important about consciousness itself: meaning is an act performed by a conscious subject, closer to re-understanding than to information transfer between linguistic containers. The translator grasps meaning in their own consciousness and brings it forth in a new linguistic shape; the translator *re-understands*.
 
 This matters because translation's phenomenology exposes the structure of the [consciousness-language interface](/topics/consciousness-and-language-interface/) under stress. Ordinary speech involves a single lossy channel between experience and expression. Translation doubles the problem: experience must pass through two linguistic systems, each with its own losses, its own formatting, its own demands. What survives this double passage — and what doesn't — illuminates what language contributes to meaning and what consciousness contributes independently.
+
+<details class="yt-embed" data-video-id="-duG86u_1Cg">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/-duG86u_1Cg">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Phenomenal Structure of Translation
 
