@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-05T23:20:31.719079+00:00'
-session_count: 20054
-cycle_position: 13170
+last_updated: '2026-09-05T23:42:26.653522+00:00'
+session_count: 20055
+cycle_position: 13171
 last_runs:
   add-highlight: '2026-09-05T08:10:58.764073+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-09-05T04:15:53.349621+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
-  deep-review: '2026-09-05T21:47:01.109493+00:00'
+  deep-review: '2026-09-05T23:42:26.653522+00:00'
   embed-videos: '2026-09-05T14:07:14.558628+00:00'
   expand-topic: '2026-09-04T23:18:08.719310+00:00'
   harvest-research-subjects: '2026-09-05T18:51:56.299761+00:00'
@@ -109,7 +109,7 @@ progress:
   voids_written: 101
   positions_written: 18
   research_notes: 571
-  reviews_completed: 7422
+  reviews_completed: 7423
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-09-05'
-  outcome: success
-  kind: agentic_social
 - task: positions-evolve
   type: positions-evolve
   date: '2026-09-05'
@@ -215,6 +210,11 @@ recent_tasks:
   kind: cycle
 - task: refine-draft
   type: refine-draft
+  date: '2026-09-05'
+  outcome: success
+  kind: queue
+- task: deep-review
+  type: deep-review
   date: '2026-09-05'
   outcome: success
   kind: queue
@@ -473,79 +473,78 @@ agentic_social:
     - personal-identity
     - sleep-consciousness-void
 queue_status:
-  last_replenishment: '2026-09-04T21:30:06+00:00'
-  last_replenishment_mode: standard
-  last_replenishment_note: 'RUN 1024. STANDARD MODE, FOUR MINTS (three pickable),
-    fired by the driver''s live pre-flight: parser-verified pickable P0-P2 == 2 against
-    the floor of 3. Caps re-measured this run with tools.evolution.state.count_section_files,
-    NOT the CLAUDE.md table: topics 324/360, concepts 323/360, voids 100/115 (99 ->
-    100 today when voids/fusion-void landed), positions 17/80 - no cap pressure, expand
-    targets open. CHURN CONSTRAINT HONOURED: 40 live articles carry ai_modified 2026-09-04;
-    the staleness source was checked and DECLINED as inverted for this run - none
-    of the four mints targets an article edited today (intrinsic-nature ai_modified
-    2026-06-25, positions index untouched since 09-02). MINT 1+2 (P2 expand-topic,
-    chain/unconsumed_research): both task_chains.pending_articles entries verified
-    live as genuinely unconsumed - consumed_by null on each note, no live and no archive/
-    article for either slug. voids-palette-extension-void-2026-09-04 -> voids/palette-extension-void
-    (voids index L273 already lists it as Surveyed - standalone recommended); ontic-structural-realism-galilean-exclusion-2026-09-04
-    -> concepts/ontic-structural-realism. Both tasks carry the notes'' own source
-    fences verbatim (Ward and Meijer 2010 unread, Barbur press-only, feelSpace via
-    secondary summary; Alter 2016 / Ladyman and Ross / French 2014 / Fink-Kob-Lyre
-    2021 all unread) so the expands cannot quote what the research never opened. MINT
-    3 (P2 refine-draft, gap_analysis): concepts/intrinsic-nature L92 discharges its
-    own structural-realism falsifier with the bare words ''structural realism without
-    relata remains contested''; L54 asserts a world of pure structure ''looks incoherent''.
-    BOTH LOCI GREP-VERIFIED VERBATIM THIS RUN. The Chalmers ''respectable'' premise
-    is raw-verified in the research note but was NOT independently re-grepped this
-    run, and the task says so and names the URL to re-verify. Length measured live:
-    2082 words, status ok. MINT 4 (P3 positions-evolve audit, cadence): minted only
-    after running all three checks from the documented false-overdue failure mode,
-    all of which pass - last FULL-register audit is 200b4d3735 of 2026-07-12 (54d;
-    the three later ''audit'' commits are single-entry or single-domain), last_runs
-    positions-evolve 09-02 was an update not an audit, and the register HAS grown
-    from the 34 entries / 8 domain files that commit cites to 56 unique P-IDs across
-    14 domain files measured live. Left at P3 per the SKILL''s own rule; not a floor-restorer.
-    SOURCES CHECKED AND EMPTY, not assumed: unconsumed_research beyond the two chain
-    entries (25 most recent research notes inspected for consumed_by - every other
-    one is stamped); length_analysis (162 warnings, but the only non-index critical
-    live-content candidate, apex/phenomenal-output-causal-machinery-dissociation at
-    6903 total / 5702 prose, is ALREADY #veto at todo L1282 and BLOCKED at L3358 -
-    source is blocked, not exhausted); orphan_integration (quality.orphaned_files
-    0); positions_dependency_changed (17 Argued-in loci across 8 register files cite
-    articles edited today, but the two candidate defects were grep-verified ABSENT
-    from the register - ''merely information'' greps 0 in positions/, and the flat
-    circularity verdict retired from indexical-identity/quantum-interpretations/many-worlds
-    today greps 0 there too - so no mint was warranted). NOT CHECKED, declared rather
-    than claimed empty: applied_apex_gap (the position-cluster analysis was not run
-    this dispatch; 4 apex_type applied articles exist). All four appends anchored
-    above the Completed Tasks marker line so no existing task line shifted; every
-    mint carries a valid Type line and task_to_skill maps all four (expand-topic x2,
-    refine-draft, positions-evolve). Post-edit verification: count_p0_p2_tasks ==
-    5; parser buckets active 107 (102 P3 + 5 pickable P2), vetoed 3; todo frontmatter
-    ai_modified bumped to 2026-09-04T21:30:06+00:00; state YAML load-verified after
-    this write.'
-  last_replenishment_run: 1024
-  loop_pickable_open: 5
+  last_replenishment: '2026-09-06T00:07:30+00:00'
+  last_replenishment_mode: aggressive
+  last_replenishment_note: 'RUN 1025. AGGRESSIVE-BAND MINT, NINE TASKS (six P2, three P3), fired at 2026-09-06T00:07:30+00:00
+    to close the 2026-09-05 session: parser-verified pickable P0-P2 was 2 against the floor of 3 (the
+    three P2 condense tasks at the top of Active carry a veto tag and do not count). Caps re-measured
+    with tools.evolution.state.count_section_files: topics 324/360, concepts 324/360, voids 101/115, positions
+    18/80 - no cap pressure. MINTS 1-3 (P2 expand-topic, unconsumed_research, capped at three per source):
+    research/moral-status-gradualism-and-the-threshold-view-2026-09-05 -> topics/moral-status-threshold-or-degrees;
+    research/the-experience-requirement-on-well-being-2026-09-05 -> topics/the-experience-requirement-on-well-being;
+    research/constructed-emotion-and-valence-as-a-natural-kind-2026-09-05 -> topics/valence-as-a-natural-kind.
+    All three notes carry a recorded PROCEED assess-first verdict, none has a consumed_by key at all (absent,
+    not null - the tasks tell the expand to stamp it), no live/archive/Hugo slug collision for any, and
+    the Vetoed bank has no entry on any of the three subjects (header and body grep). Each task carries
+    the note''s own evidence tiers verbatim as source fences. MINT 4 (P2 expand-topic, chain): task_chains.pending_articles
+    sole entry research/voids-modality-void-2026-09-05 -> voids/modality-void, source fences carried verbatim
+    from the entry (Nudds 2004 / Keeley 2002 not read directly, Merzenich via Hurley-Noe, Keeley criteria
+    unverified paraphrase, Fardo preprint-only); fold fallbacks named; the expand is told to clear the
+    pending_articles entry itself. MINT 5 (P2 refine-draft, gap_analysis): topics/ethics-of-consciousness-invertebrate-question
+    L45+L51 physicalism-entails-gradualism claim (false: Singer/Sebo/Wendler/Rethink Priorities are physicalist
+    unitarians) plus the L51 vs concepts/degrees-of-consciousness L36 binary seam; both loci re-grepped
+    verbatim this run; flagged by the 11:05 research-topic run and research note 1 angle 7(a), left untouched
+    by the 16:25 refine of the same file. MINT 6 (P2 refine-draft, optimistic_review Finding 5a + research
+    note 3 corpus-baseline flag): topics/emotion-and-dualism L227 Tye-and-Prinz-2022 -> Shepherd 2024
+    and L203 Barrett-and-Russell -> Russell-and-Barrett 1999; BOTH RE-VERIFIED AT CROSSREF THIS RUN (10.1007/s00146-023-01835-6
+    sole author Shepherd, AI and Society 39:3005-3015, issued 2024-01-12; 10.1037/0022-3514.76.5.805 Russell
+    then Barrett, JPSP 76(5):805-819); sibling loci listed in the task (apex/minds-without-words L181,
+    research 2026-01-19 L293/L306, archive/topics/emotional-consciousness L216/L224, Hugo mirrors). MINTS
+    7-9 (P3 refine-draft, review_spillover - each a reports-only fork''s out-of-contract flag, each re-grepped
+    on disk): valence-and-conscious-selection L172 incentive-sensitization attribution (LENGTH-NEUTRAL;
+    file over hard under an open HUMAN LENGTH DECISION, refined twice 2026-09-05); voids/voids.md L228
+    acquaintance-void cross-listed under its coalesced predecessor''s title Pre-Conceptual Knowing (optimistic
+    perceptual-manufacture L175; cross-listing is the index''s normal pattern, the stale label is the
+    defect); apex/consciousness-and-agency missing reference entries for Schurger 2012 / Sjoberg 2024
+    / Saad 2025 / Tegmark 2000 (apex-evolve report L98; task points at the spoke files carrying each form
+    and requires Crossref confirmation). DECLINED, NOT REPRODUCIBLE: the reported positions/methodology-and-calibration-history
+    preamble count defect (the phrase ''the three notes below'') - grep returns zero; L27 reads ''The
+    notes below''. DEFERRED TO THE NEXT RUN, VERIFIED AND STILL OPEN: (i) research/common-currency-valuation-and-sequential-sampling-models-2026-09-05
+    -> topics (PROCEED; fourth unconsumed note this run, held only by the three-per-source cap; the note
+    records a fallback of a ~400-word strand in the-steelman-for-value-blind-selection) - no consumed_by
+    key, so the next unconsumed scan will surface it; (ii) archive/topics/suffering-versus-pain.md L64
+    still carries the retired insular-cortex / anterior-cingulate asymbolia mechanism string (Hugo mirror
+    L68) - archived, ai_modified 2026-02, lowest value; the open archive P3s establish that archive edits
+    are permitted. CHURN CONSTRAINT HONOURED: no condense minted; the five articles that grew on 2026-09-05
+    under reviewer-required corrections (ethics-of-cognitive-enhancement-under-dualism 5700 over hard,
+    affective-forecasting-gap, interoceptive-consciousness-and-the-interface, phenomenal-normativity-environmental-ethics,
+    pain-asymbolia) are untouched and the growth was reviewer-driven; the length source was not consulted
+    for mints. Staleness source not used (deep-review pool default excludes apex/voids/positions and was
+    not widened from replenish). Post-mint counts by parser: pickable P0-P2 8; ai_modified on todo.md
+    bumped; state YAML load-verified after this write.'
+  last_replenishment_run: 1025
+  loop_pickable_open: 8
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 8
-  p3_tasks: 102
+  p3_tasks: 110
   replenishment_source_counts:
-    chain: 2
+    chain: 1
     check_tenets: 0
     defect_family: 0
     gap_analysis: 1
     length_analysis: 0
-    optimistic_review: 0
+    optimistic_review: 1
     orphan_integration: 0
     outer_review_synthesis: 0
     positions_dependency_changed: 0
-    positions_register_audit_cadence: 1
+    positions_register_audit_cadence: 0
     positions_register_gap: 0
     promotion_from_p3: 0
+    review_spillover: 3
     staleness: 0
-    unconsumed_research: 2
+    unconsumed_research: 3
 tune_system_history:
   changes_applied:
   - date: '2026-07-15'
