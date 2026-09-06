@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-09-06 15:32:44+00:00
+ai_modified: 2026-09-06 17:22:22+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 09:58:42+00:00
-lastmod: 2026-09-06 15:32:44+00:00
+lastmod: 2026-09-06 17:22:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -127,7 +127,7 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 ## Further Reading
 
 - [phenomenal-sorites-problem](/concepts/phenomenal-sorites-problem/) — The prior on/off question that gradation presupposes: whether it can be indeterminate that a system is conscious at all
-- [is-conscious-being-a-natural-kind](/concepts/is-conscious-being-a-natural-kind/) — The same distinction tested against Boyd's homeostatic property clusters and answered in the essentialist direction: the on/off subject-fact is sharp, fixed by non-graded coupling-engagement, while a cluster reading of experience's evaluative structure stays permissible
+- [is-conscious-being-a-natural-kind](/concepts/is-conscious-being-a-natural-kind/) — The same distinction tested against Boyd's homeostatic property clusters and answered in the essentialist direction: the on/off subject-fact is sharp, fixed by [non-graded coupling-engagement](/concepts/coupling-engagement-condition/), while a cluster reading of experience's evaluative structure stays permissible
 - [minimal-consciousness](/concepts/minimal-consciousness/) — The question of consciousness at its simplest
 - [types-of-consciousness](/concepts/types-of-consciousness/) — Structural varieties of consciousness (distinct from degrees)
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The qualitative aspect that admits of degrees

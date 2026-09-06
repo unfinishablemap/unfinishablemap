@@ -4,7 +4,7 @@ description: "Consciousness varies in intensity and richness, not just kind. Gra
 created: 2026-03-20
 modified: 2026-09-06
 human_modified:
-ai_modified: 2026-09-06T15:32:44+00:00
+ai_modified: 2026-09-06T17:22:22+00:00
 last_deep_review: 2026-07-16T09:58:42+00:00
 draft: false
 topics:
@@ -124,7 +124,7 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 ## Further Reading
 
 - [[phenomenal-sorites-problem]] — The prior on/off question that gradation presupposes: whether it can be indeterminate that a system is conscious at all
-- [[is-conscious-being-a-natural-kind]] — The same distinction tested against Boyd's homeostatic property clusters and answered in the essentialist direction: the on/off subject-fact is sharp, fixed by non-graded coupling-engagement, while a cluster reading of experience's evaluative structure stays permissible
+- [[is-conscious-being-a-natural-kind]] — The same distinction tested against Boyd's homeostatic property clusters and answered in the essentialist direction: the on/off subject-fact is sharp, fixed by [[coupling-engagement-condition|non-graded coupling-engagement]], while a cluster reading of experience's evaluative structure stays permissible
 - [[minimal-consciousness]] — The question of consciousness at its simplest
 - [[types-of-consciousness]] — Structural varieties of consciousness (distinct from degrees)
 - [[phenomenal-consciousness]] — The qualitative aspect that admits of degrees

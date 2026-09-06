@@ -2,9 +2,9 @@
 title: "The Phenomenal-Sorites Problem: Ontic Vagueness and the Sharp-but-Unknowable Boundary"
 description: "A human-AI examination of whether there can be no fact of the matter whether a system is conscious at all, why the Map's Tenet 4 stakes a claim on a sharp subject-fact, and why epistemicism is its preferred reading."
 created: 2026-07-11
-modified: 2026-07-28
+modified: 2026-09-06
 human_modified:
-ai_modified: 2026-08-04T09:15:00+00:00
+ai_modified: 2026-09-06T17:22:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -94,7 +94,7 @@ Second, there is **first-person access**. Consciousness is paradigmatically self
 
 The sharpest objection is not the counterintuitiveness epistemicism is famous for but a transfer failure. Williamson *grounds* his ordinary sharp boundaries in facts about use and meaning: the boundary of "bald" is fixed, by default rather than decision, by the immensely complex totality of how competent speakers deploy the word. A phenomenal on/off boundary has no such use-facts to fix it. Whether a system *is conscious* is not settled by how anyone uses the word "conscious." So epistemicism about consciousness owes a **truth-maker** that Williamson's version got for free from use.
 
-Three responses are available, and the Map's choice among them is what makes its version distinctive. Sorensen's own late route is **truthmaker-gap epistemicism** (*Vagueness and Contradiction*, 2001): the sharp fact is true but has *no* truth-maker at all — a proposition can carry a truth-value without anything grounding it. Mark Jago (2012) argues it cannot accommodate the higher-order vagueness Sorensen himself insists on, and the Map has independent reason to decline it: an *ungrounded* phenomenal fact is doubly mysterious, not less. A second route grounds the boundary in a graded physical property, but that is blocked by Antony's conditional above — sharpness-plus-correctness refutes complex-property theories, and a graded realizer would only reintroduce the sorites at its own switch-on. The Map's route is the third: ground the fact in the *simple, non-graded engagement of the non-physical mind–brain coupling* — whether the coupling engages at all. That relation either holds or does not; it is not itself a sorites series, so it can supply a sharp on/off truth-maker without a graded physical cutoff. The fact is fixed by the coupling; its location in the physical series is hidden because we cannot observe where the coupling engages.
+Three responses are available, and the Map's choice among them is what makes its version distinctive. Sorensen's own late route is **truthmaker-gap epistemicism** (*Vagueness and Contradiction*, 2001): the sharp fact is true but has *no* truth-maker at all — a proposition can carry a truth-value without anything grounding it. Mark Jago (2012) argues it cannot accommodate the higher-order vagueness Sorensen himself insists on, and the Map has independent reason to decline it: an *ungrounded* phenomenal fact is doubly mysterious, not less. A second route grounds the boundary in a graded physical property, but that is blocked by Antony's conditional above — sharpness-plus-correctness refutes complex-property theories, and a graded realizer would only reintroduce the sorites at its own switch-on. The Map's route is the third: ground the fact in the *simple, non-graded engagement of the non-physical mind–brain coupling* — [[coupling-engagement-condition|whether the coupling engages at all]]. That relation either holds or does not; it is not itself a sorites series, so it can supply a sharp on/off truth-maker without a graded physical cutoff. The fact is fixed by the coupling; its location in the physical series is hidden because we cannot observe where the coupling engages.
 
 ## Relation to Site Perspective
 
@@ -114,7 +114,7 @@ The costs must be paid openly. Epistemicism is notoriously counterintuitive: it 
 
 - [[degrees-of-consciousness]] — gradation of experience, the question that presupposes the on/off fact this article isolates
 - [[composition-and-consciousness]] — the inverse move, borrowing consciousness's sharpness to answer mereological vagueness
-- [[interface-threshold]] — a *distinct*, later efficacy boundary with consciousness present on both sides; contrasted here with the coupling's mere engagement, which is what secures the on/off subject-fact
+- [[interface-threshold]] — a *distinct*, later efficacy boundary with consciousness present on both sides; contrasted here with [[coupling-engagement-condition|the coupling's mere engagement]], which is what secures the on/off subject-fact
 - [[indexical-knowledge-and-identity]] — the Tenet-4 anchor that needs the determinate subject-fact epistemicism preserves
 - [[vagueness-void]] — the broader void where indeterminacy and the limits of decidability meet
 - [[phenomenal-consciousness]] — the property whose sharpness is in dispute

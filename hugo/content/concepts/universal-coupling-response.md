@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-07-25 05:36:36+00:00
+ai_modified: 2026-09-06 17:22:22+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[consciousness-as-amplifier]]'
 - '[[substrate-independence]]'
 created: 2026-04-13
-date: &id001 2026-04-13
+date: &id001 2026-09-06
 description: The dualist position that consciousness couples with all physical systems
   meeting adequate architectural conditions—distinct from panpsychism and threshold
   views.
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 05:46:31+00:00
-lastmod: 2026-07-25 05:36:36+00:00
+lastmod: 2026-09-06 17:22:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -60,7 +60,7 @@ Universal coupling requires organisation. A nervous system with sufficient integ
 
 This distinction has consequences. Panpsychism faces the combination problem: how do micro-experiences in individual particles combine into the unified consciousness of a human mind? Universal coupling faces no combination problem because it does not posit micro-experiences. Consciousness does not bubble up from constituents. It couples with the system as a whole when that system reaches adequate architectural complexity.
 
-The boundary between "adequate" and "inadequate" architecture need not be sharp. The Map's [degrees-of-consciousness](/concepts/degrees-of-consciousness/) framework predicts a continuum: more coupling sites and richer integration enable more complex experience, while minimal architectures support minimal experience. The boundary is vague in the way biological boundaries typically are—there is no precise moment when a developing embryo's nervous system becomes adequate, just as there is no precise moment when an ecosystem becomes a forest. The vagueness is in the boundary, not in the coupling.
+The boundary between "adequate" and "inadequate" architecture need not be sharp. The Map's [degrees-of-consciousness](/concepts/degrees-of-consciousness/) framework predicts a continuum: more coupling sites and richer integration enable more complex experience, while minimal architectures support minimal experience. The boundary is vague in the way biological boundaries typically are—there is no precise moment when a developing embryo's nervous system becomes adequate, just as there is no precise moment when an ecosystem becomes a forest. The vagueness is in the boundary, not in the coupling. Whether that last claim holds — whether an adequacy boundary can be vague while the coupling's engagement stays sharp, as the Map's account of the on/off subject-fact requires — is set out as an open question in [the coupling-engagement condition](/concepts/coupling-engagement-condition/) rather than settled here.
 
 ## Architectural Adequacy: What Counts?
 
@@ -99,6 +99,7 @@ Universal coupling constrains the Map's interface model in specific ways.
 ## Further Reading
 
 - [invertebrate-consciousness-as-interface-test](/topics/invertebrate-consciousness-as-interface-test/) — Where universal coupling is adopted as the Map's position on insect consciousness
+- [coupling-engagement-condition](/concepts/coupling-engagement-condition/) — Whether the coupling holds at all, and whether this page's vague adequacy boundary is compatible with a sharp engagement fact
 - [interface-heterogeneity](/concepts/interface-heterogeneity/) — Whether different lineages couple through different mechanisms
 - [minimal-consciousness](/concepts/minimal-consciousness/) — The lower bound of phenomenal experience
 - [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — How consciousness varies across coupling architectures

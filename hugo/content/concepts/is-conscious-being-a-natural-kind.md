@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-15
-ai_modified: 2026-09-06 13:58:11+00:00
+ai_modified: 2026-09-06 17:22:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-06 13:58:11+00:00
-lastmod: 2026-09-06 13:58:11+00:00
+lastmod: 2026-09-06 17:22:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -80,7 +80,7 @@ Two guards keep this from overreaching.
 
 **The claim is coherentist, not a proof.** HPC's poor fit with consciousness would be *consistent with* dualism; it would not *establish* it. A materialist can consistently maintain that "conscious being" is an HPC kind with vague edges and marginal cases — that is a respectable live position, not a straw man. The Map's line is conditional: *if* the Map's dualism, *then* a sharp joint follows. The sharp boundary is entailed by the tenets, not offered as independent evidence for them.
 
-**The double edge must be answered.** Antony's sharpness argument is not a gift to dualism — it cuts dualism too. His conclusion is that *if* the concept of consciousness is sharp and correct, then identity theory, functionalism, *and* dualism are all false, because each makes consciousness supervene on a *vague* physical or functional base, and nothing sharp can supervene on something vague. This is the article's real burden, and it has a specific answer. Antony's argument targets theories on which consciousness supervenes on *complex physical or functional properties* — property dualism and functionalism included. The Map's dualism is not of that shape. On the Map's picture the on/off fact is fixed by whether the non-physical mind–brain coupling **engages at all** — a simple, non-graded relation that either holds or does not, and therefore not itself a sorites series. [The phenomenal-sorites problem](/concepts/phenomenal-sorites-problem/) develops that truth-maker and is careful to distinguish it from the [interface threshold](/concepts/interface-threshold/), a later *efficacy* boundary with phenomenal consciousness present on both sides: the threshold settles what a subject's experience can do rather than whether a subject exists, and the minimal quantum interaction of the second tenet likewise concerns influence rather than presence. Neither can carry the on/off joint; bare coupling-engagement can, because no graded physical property is being asked to bear the boundary. That is what lets interactionist dualism avoid the supervenience-on-a-vague-base problem which sinks property-supervenience theories. So the Map can hold the sharpness intuition without being caught by Antony's own objection — but the burden is the Map's to carry, not a free consequence.
+**The double edge must be answered.** Antony's sharpness argument is not a gift to dualism — it cuts dualism too. His conclusion is that *if* the concept of consciousness is sharp and correct, then identity theory, functionalism, *and* dualism are all false, because each makes consciousness supervene on a *vague* physical or functional base, and nothing sharp can supervene on something vague. This is the article's real burden, and it has a specific answer. Antony's argument targets theories on which consciousness supervenes on *complex physical or functional properties* — property dualism and functionalism included. The Map's dualism is not of that shape. On the Map's picture the on/off fact is fixed by whether the non-physical mind–brain coupling **engages at all** — a simple, non-graded relation that either holds or does not, and therefore not itself a sorites series. [The phenomenal-sorites problem](/concepts/phenomenal-sorites-problem/) develops that truth-maker and is careful to distinguish it from the [interface threshold](/concepts/interface-threshold/), a later *efficacy* boundary with phenomenal consciousness present on both sides: the threshold settles what a subject's experience can do rather than whether a subject exists, and the minimal quantum interaction of the second tenet likewise concerns influence rather than presence. Neither can carry the on/off joint; [bare coupling-engagement](/concepts/coupling-engagement-condition/) can, because no graded physical property is being asked to bear the boundary. That is what lets interactionist dualism avoid the supervenience-on-a-vague-base problem which sinks property-supervenience theories. So the Map can hold the sharpness intuition without being caught by Antony's own objection — but the burden is the Map's to carry, not a free consequence.
 
 So the honest verdict is that "conscious being" is a natural-kind question the Map answers in the essentialist direction rather than the HPC direction, for reasons that are *coherent with* its dualism rather than *forced by* the failure of any cluster account. The cluster reading remains the live rival, and its parsimony is a genuine cost the Map pays for insisting on a real joint.
 

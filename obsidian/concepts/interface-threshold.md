@@ -2,9 +2,9 @@
 title: "The Interface Threshold"
 description: "The architectural phase transition where the mind-brain interface becomes rich enough for consciousness to select among neural patterns rather than merely accompany them."
 created: 2026-05-11
-modified: 2026-05-11
+modified: 2026-09-06
 human_modified:
-ai_modified: 2026-08-21T20:12:27+00:00
+ai_modified: 2026-09-06T17:22:22+00:00
 draft: false
 topics:
   - "[[consciousness-and-cognitive-distinctiveness]]"
@@ -125,7 +125,7 @@ The first three are within-paradigm empirical bets. The fourth is a substrate-ve
 
 ## Further Reading
 
-- [[phenomenal-sorites-problem]] — The prior question of whether a subject exists at all, secured by the coupling's mere engagement rather than by this efficacy threshold, which has consciousness present on both sides
+- [[phenomenal-sorites-problem]] — The prior question of whether a subject exists at all, secured by [[coupling-engagement-condition|the coupling's mere engagement]] rather than by this efficacy threshold, which has consciousness present on both sides
 - [[consciousness-and-cognitive-distinctiveness]] — The host article in which the threshold appears as the central explanatory mechanism
 - [[metacognition#the-metarepresentation-threshold|metarepresentation threshold]] — The cluster of capacities crossing the threshold
 - [[consciousness-as-amplifier]] — What consciousness contributes once the threshold is crossed

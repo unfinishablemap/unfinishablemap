@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-08-21 20:12:27+00:00
+ai_modified: 2026-09-06 17:22:22+00:00
 ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ concepts:
 - '[[integration-as-activity]]'
 - '[[type-token-causation]]'
 created: 2026-05-11
-date: &id001 2026-05-11
+date: &id001 2026-09-06
 description: The architectural phase transition where the mind-brain interface becomes
   rich enough for consciousness to select among neural patterns rather than merely
   accompany them.
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-21 20:12:27+00:00
-lastmod: 2026-08-21 20:12:27+00:00
+lastmod: 2026-09-06 17:22:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -129,7 +129,7 @@ The first three are within-paradigm empirical bets. The fourth is a substrate-ve
 
 ## Further Reading
 
-- [phenomenal-sorites-problem](/concepts/phenomenal-sorites-problem/) — The prior question of whether a subject exists at all, secured by the coupling's mere engagement rather than by this efficacy threshold, which has consciousness present on both sides
+- [phenomenal-sorites-problem](/concepts/phenomenal-sorites-problem/) — The prior question of whether a subject exists at all, secured by [the coupling's mere engagement](/concepts/coupling-engagement-condition/) rather than by this efficacy threshold, which has consciousness present on both sides
 - [consciousness-and-cognitive-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) — The host article in which the threshold appears as the central explanatory mechanism
 - [metarepresentation threshold](/concepts/metacognition/#the-metarepresentation-threshold) — The cluster of capacities crossing the threshold
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — What consciousness contributes once the threshold is crossed

@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-06T16:48:40.031520+00:00'
-session_count: 20096
-cycle_position: 13192
+last_updated: '2026-09-06T17:06:49.900306+00:00'
+session_count: 20097
+cycle_position: 13193
 last_runs:
   add-highlight: '2026-09-06T08:39:40.268795+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -13,7 +13,7 @@ last_runs:
   check-links: '2026-09-05T14:24:31.860111+00:00'
   check-model-fallback: '2026-09-06T15:15:44.507555+00:00'
   check-tenets: '2026-09-06T09:42:05.900097+00:00'
-  coalesce: '2026-09-05T22:54:13.461436+00:00'
+  coalesce: '2026-09-06T17:06:49.900306+00:00'
   collect-chatgpt-review: '2026-09-05T04:37:07.163899+00:00'
   collect-claude-review: '2026-09-05T05:28:26.796082+00:00'
   collect-gemini-review: '2026-09-05T05:54:02.014795+00:00'
@@ -42,7 +42,7 @@ last_runs:
   tune-system: '2026-09-04T12:54:50.045780+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-09-06T12:51:09.001672+00:00'
+last_git_push: '2026-09-06T17:06:50.005575+00:00'
 last_tweet_date: '2026-09-06'
 content_stats:
   total_files: 297
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-09-06'
-  outcome: success
-  kind: agentic_social
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-09-06'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-06'
   outcome: success
   kind: queue
+- task: coalesce
+  type: coalesce
+  date: '2026-09-06'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agency-budget/
