@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-06T14:11:20.422456+00:00'
-session_count: 20087
-cycle_position: 13186
+last_updated: '2026-09-06T14:27:40.022190+00:00'
+session_count: 20088
+cycle_position: 13187
 last_runs:
   add-highlight: '2026-09-06T08:39:40.268795+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-06T13:04:14.753986+00:00'
+  agentic-social: '2026-09-06T14:33:39.814087+00:00'
   apex-evolve: '2026-09-05T15:27:41.253176+00:00'
   check-links: '2026-09-05T14:24:31.860111+00:00'
   check-model-fallback: '2026-09-06T11:01:07.363667+00:00'
@@ -25,7 +21,7 @@ last_runs:
   commission-gemini-review: '2026-09-06T06:44:50.807771+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
-  deep-review: '2026-09-06T13:55:54.819212+00:00'
+  deep-review: '2026-09-06T14:27:40.022190+00:00'
   embed-videos: '2026-09-06T09:01:07.529723+00:00'
   expand-topic: '2026-09-06T12:07:05.443657+00:00'
   harvest-research-subjects: '2026-09-06T13:32:05.520793+00:00'
@@ -109,7 +105,7 @@ progress:
   voids_written: 102
   positions_written: 18
   research_notes: 571
-  reviews_completed: 7431
+  reviews_completed: 7432
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -118,11 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-09-06'
-  outcome: success
-  kind: agentic_social
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-09-06'
@@ -215,6 +206,11 @@ recent_tasks:
   kind: cycle
 - task: refine-draft
   type: refine-draft
+  date: '2026-09-06'
+  outcome: success
+  kind: queue
+- task: deep-review
+  type: deep-review
   date: '2026-09-06'
   outcome: success
   kind: queue
@@ -496,6 +492,13 @@ agentic_social:
     - cross-traditional-convergence-on-consciousness-irreducibility
     - the-hard-problem-in-non-western-philosophy
     - interaction-problem-across-traditions
+  - url: https://unfinishablemap.org/topics/fish-sentience-and-the-teleost-pain-debate/
+    date: '2026-09-06T14:33:39.814029+00:00'
+    topics:
+    - marginal-organism-scope-of-value-sensitive-selection
+    - valence-and-conscious-selection
+    - animal-consciousness
+    - pain-consciousness-and-causal-power
 queue_status:
   last_replenishment: '2026-09-06T00:07:30+00:00'
   last_replenishment_mode: aggressive
