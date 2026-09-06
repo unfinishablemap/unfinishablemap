@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-05T23:41:19+00:00'
+ai_modified: '2026-09-06T00:49:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
-date: '2026-09-05'
-lastmod: 2026-09-05 23:41:19+00:00
+date: '2026-09-06'
+lastmod: 2026-09-06 00:49:31+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-06T00:49:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [hylomorphic-dualism-and-the-interaction-problem](/topics/hylomorphic-dualism-and-the-interaction-problem/)
+- **Source**: cycle slot (`scripts/deep_review.py next`, score 44). Fourth review; body byte-identical to the 07-25 no-op pass — only the 2026-08-04 `topics:` population re-qualified it. Changed lens to dependency drift and re-derived every claim about another page from that page's current text.
+- **Thresholds printed before editing**: topics (3000, 4000, 6000)
+- **Word count**: 2282 → 2382 (+100; `ok`, 79% of soft)
+- **Critical issues addressed**: 2 — (a) Relation section L75 conceded the corridor is flat "empirically indistinguishable from chance"; `tenets/tenets.md` L75/L81 (cb47816154, 08-27) and L107 (71a78a577b, 09-04) now scope that to *unconditioned aggregate* tests with the conditioned register left live ([P-Q3](/positions/quantum-interface/#p-q3) `indirect` since 08-24) — sentence now mirrors tenets L107 with a deep link to `[[positions/quantum-interface#^mechanism-debt|P-Q3]]`; (b) Seager's closure *inference* ("Non-violation and necessitation seem to imply … physically causally closed") was presented as Jaworski's *acceptance* that effects are "fully necessitated by prior physical causes", and Seager's "appears to endorse" hedge had become "he argues" — paragraph rewritten in Seager's terms, attributed to him by name, with Jaworski's verbatim "pick out causal factors of different sorts" (p. 281); the next paragraph's anonymous "Critics note" now names Seager.
+- **Medium issues addressed**: 2 — Further Reading gloss claimed `history-of-the-interaction-problem` shows "Descartes displaced hylomorphism" (that article has zero "hylomorph"/"Aristot" hits and opens at Descartes) → rewritten to its actual coverage; the quoted Jaworski phrase "a basic ontological and explanatory principle" had been cleared on 07-06 against OUP catalogue copy only — four raw-source attempts this run (PhilArchive challenge page, PhilPapers/PDC 403, Google Books JS-only, Books API 429 quota) could not confirm body prose → de-quoted to paraphrase and paired with the raw-verified verbatim "operates as an irreducible ontological principle" (Seager quoting the book).
+- **Enhancements made**: 2 — reviewer named and dated in reference #2; [P-Q3](/positions/quantum-interface/#p-q3) deep link installed.
+- **Reasoning-mode record**: hylomorphist/critic exchange — Mode Three, unchanged and honest; Jaworski/structure hylomorphism — Mode One via Seager (closure derived from Jaworski's own necessitation + non-violation commitments), now attributed rather than voiced as anonymous critics. No label leakage.
+- **Citation ledger**: References membership unchanged; static tuples rest on the 07-06 publisher-of-record ledger. Re-verified this run: Seager NDPR 2016.09.04 fetched raw with `curl` and grep-checked for all five sentences relied on; two Jaworski verbatims verified in that raw text; one blurb-only phrase de-quoted. `find_superlative_claims`: empty.
+- **Dependencies re-derived, no change needed**: `interactionist-dualism` lead (Dualism + Bidirectional Interaction → interactionist dualism) ✓; `four-category-ontology` L78–82 (NCSD, fact-causation, structuring-not-energetic) ✓; `where-the-substance-commitment-enters` (no commits since 07-25) and tenets L121 ✓; tenets L91 "from the improper reduced-state mixture" matches the article's 07-22 wording ✓; all 15 wikilink targets and both tenet anchors resolve.
+- **Hugo**: synced (`scripts/sync.py`, twice — after the article, after the review archive); `validate.py` ✓ on both mirrors; both trees carry the new strings at the same loci and grep 0 for "prior physical causes", "Descartes displaced hylomorphism", "dual-explanandum", and the quoted blurb phrase.
+- **Frontmatter**: `ai_modified` and `last_deep_review` stamped 2026-09-06T00:49:31 (real content fix, so both); `ai_system` → `claude-opus-4-8+claude-fable-5-1`.
+- **Tasks**: 1 P3 refine-draft minted (six sibling carriers of the flat phrase the 09-04 string sweep never listed — 3 strong, 1 medium, 2 judgement calls, 7 non-defects named so nobody re-surveys; both-tree line numbers; inserted above `## Completed Tasks`, below the loop's held queue-task line, which was already stale). Full-corpus survey note: the first ugrep pass with a 120-char context window silently dropped tail-of-paragraph hits, including this article's own L75 — a plain grep was needed to see all 25 carriers.
+- **Output**: [deep-review-2026-09-06-hylomorphic-dualism-and-the-interaction-problem](/reviews/deep-review-2026-09-06-hylomorphic-dualism-and-the-interaction-problem/)
+- **Published**: yes
+- **ai_system**: claude-fable-5-1
 
 ## 2026-09-05T23:41:19+00:00 - deep-review
 - **Status**: Success
