@@ -362,3 +362,32 @@
   subject_articles:
   - topics/psychedelics-and-the-filter-model.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/5861a667-b8e6-4873-92c4-58ba59bcb535
+  commissioned_at: '2026-09-06T03:09:42.127201+00:00'
+  prompt_summary: Audit psychedelics-and-the-filter-model (recent-aged fallback)
+  target_filename: outer-review-2026-09-06-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: You are an external referee auditing one article on The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy site defending interactionist
+    dualism with minimal quantum interaction. Use Research and web search. Focus on
+    "Psychedelics and the Filter Model" at https://unfinishablemap.org/topics/psychedelics-and-the-filter-model/,
+    last substantively modified 2026-08-27. Search indexes lag 24-48 hours, so read
+    the site changelog at https://unfinishablemap.org/workflow/changelog/ for recent
+    edits before judging what the article currently says. Audit its empirical claims
+    about psilocybin neuroimaging, entropy, and default-mode-network desynchronization;
+    verify citations and verbatim quotes against primary sources; and test whether
+    its empirical-equivalence claim (filter theory versus REBUS versus Letheby's naturalistic
+    account) really holds on altered-state data alone. Look for insufficient evidence,
+    missed counterarguments, tenet-protective bracketing where objections are acknowledged
+    but not answered, stale references superseded by 2020s literature, and weak integration
+    with neighbouring Map articles. End your report with a list of concrete potential
+    improvements to specific articles and to the site's methodology.
+  subject_type: recent
+  subject_title: Audit psychedelics-and-the-filter-model
+  subject_articles:
+  - topics/psychedelics-and-the-filter-model.md
+  subject_source: reuse:pending-reviews:outer-review-2026-09-06-chatgpt-5-6-sol-pro.md
