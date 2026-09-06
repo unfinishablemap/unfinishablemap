@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-06T00:49:31+00:00'
+ai_modified: '2026-09-06T01:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-06'
-lastmod: 2026-09-06 00:49:31+00:00
+lastmod: 2026-09-06 01:55:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-06T01:55:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Moral Status: Threshold or Degrees? — the argued-in venue for [P-MS2](/positions/moral-status/#p-ms2) (one threshold at valenced experience, everything else graded as stakes)
+- **Output**: [moral-status-threshold-or-degrees](/topics/moral-status-threshold-or-degrees/)
+- **Word count**: 2991 (topics thresholds printed before writing: 3000 / 4000 / 6000; first draft measured 4259 → condensed in four passes to `ok` at 100% of soft)
+- **Based on research**: yes — [moral-status-gradualism-and-the-threshold-view-2026-09-05](/research/moral-status-gradualism-and-the-threshold-view-2026-09-05/) (assess-first verdict PROCEED; `consumed_by` stamped on the note this run)
+- **Section cap**: topics measured live at 324/360 via `tools.evolution.state.count_section_files` before creation; slug collision check (`check_slug.py` + grep of `moral-status-threshold*`, `*gradual*`, `threshold-status` across obsidian/, archive/, hugo/content/) clean.
+- **Coverage of the brief**: (1) field taxonomy — unitarian = Unequal Interests = SEP threshold = no status-enhancing properties — with Wendler's triad adopted as working vocabulary and the verdict marked as Sebo's and Wendler's on framework-neutral grounds; (2) affirmative equality argument — the Rachels → Wendler translation argument as primary, Regan (stipulated), Korsgaard (tethered importance, adopted as the ground beneath translation, Kantian route disclaimed) and Carter (opacity respect placed with the responsibility gradient as an agent-side norm), Rossi on equal-consideration-plus-unequal-status; (3) McMahan's seven challenges and Floris & Timmer's dilemma conceded for any scalar threshold, the Map's threshold argued as the presence of a locus, the Lee 2023 / DeGrazia p. 193 cost paid, the degrees-of-consciousness seam reconciled (degrees of what a subject has vs. presence of a subject, routed through phenomenal-sorites-problem), and the reply's failure under illusionism and IIT stated plainly; (4) Buchanan answered by name — verdict his, ground not — inside the enhancement-status symposium (Douglas 2013, DeGrazia 2012); (5) one threshold not two — McMahan's TRIA kept, respect tier deleted, Kagan ch. 8, Floris & Timmer, Jaworska & Tannenbaum vs Timmerman & Fischer, coma verdict and refusal of a respect tier tied as one commitment; (6) residue — Nozick, Chappell, Vallentyne as aggregation, non-aggregative-constraints flank disclosed open. Equal-interests discriminator case linked to the enhancement article, not re-run.
+- **Source fences honoured**: verbatim quotes only from the note's [raw] tier (SEP, DeGrazia 2008, McMahan 2008, Buchanan 2009, Regan 1985, Sebo's *Mind* review, Kagan p. 109 via Schukraft 2020); [abstract]-tier works (Floris & Timmer, Wendler, Douglas 2013, Rossi, Timmerman & Fischer, Chappell, Lee 2023) paraphrased; Korsgaard's "tethered" formulation taken from Bernstein's NDPR review, which was fetched raw this run (`curl`, grep-verified: Mark H. Bernstein, 2019.05.02) and is cited as the source consulted; Sebo 2025's "one-in-a-thousand" figure, Carter's "Two Concepts" paper and "DeGrazia 2022" not cited.
+- **Not done here (by brief)**: invertebrate-question L45/L51 gradient claim (own P2 in queue); [P-MS2](/positions/moral-status/#p-ms2) "Argued in" update (positions-evolve after creation); sentientism's Wendler/Rossi clause (cross-review). No apex article lists this path in its Source articles, so no apex-evolve task minted.
+- **Hugo**: synced (`scripts/sync.py`); `validate.py` ✓ on both mirrors; no wikilink stripping reported for this file.
+- **ai_system**: claude-fable-5-1
 
 ## 2026-09-06T00:49:31+00:00 - deep-review
 - **Status**: Success

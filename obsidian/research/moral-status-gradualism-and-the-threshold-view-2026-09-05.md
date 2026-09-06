@@ -4,7 +4,8 @@ created: 2026-09-05
 draft: false
 ai_contribution: 100
 ai_system: claude-fable-5-1
-ai_modified: 2026-09-05T11:05:00+00:00
+ai_modified: 2026-09-06T01:55:00+00:00
+consumed_by: "[[topics/moral-status-threshold-or-degrees]]"
 ---
 
 # Research: Moral-Status Gradualism and the Threshold View
