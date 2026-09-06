@@ -4,7 +4,7 @@ description: "Bostrom's orthogonality and instrumental convergence theses, Omohu
 created: 2026-06-24
 modified: 2026-08-20
 human_modified:
-ai_modified: 2026-08-20T07:27:00+00:00
+ai_modified: 2026-09-06T08:50:23+00:00
 draft: false
 topics:
   - "[[dualism-as-ai-risk-mitigation]]"
@@ -95,6 +95,7 @@ A terminology discipline keeps the claim precise. *Intractability* (hard but in-
 - [[alignment-in-objective-experiential-terms]] — alignment targeting experiential quality rather than revealed preference.
 - [[ai-consciousness]] — the Map's typology of possibilities for AI consciousness.
 - [[possibility-probability-slippage]] — the discipline that keeps the central claim conditional.
+- [[representation-adequacy-and-irreversible-intervention]] — the restraint argument that survives an agent rejecting the Map's metaphysics, running on representational error and irreversibility rather than on consequence-uncomputability.
 
 ## References
 

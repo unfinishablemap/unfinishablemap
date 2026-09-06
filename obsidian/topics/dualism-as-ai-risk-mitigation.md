@@ -4,7 +4,7 @@ description: "If interactionist dualism is true, the standard expected-utility a
 created: 2026-05-06
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-07-18T03:01:30+00:00
+ai_modified: 2026-09-06T08:50:23+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -161,6 +161,7 @@ The convergence with [[the-convergence-argument-for-dualism]] is structural: mul
 - [[possibility-probability-slippage]] — the discipline keeping the central claim conditional.
 - [[claude-constitution-consciousness-uncertainty]] — precaution under machine-consciousness uncertainty operationalised by a leading lab; the complementary risk that getting the metaphysics wrong is itself a cost.
 - [[ai-ensoulment-hypothesis]] — Cutter's argument and Békefi's rebuttal developed in full, with the substance-vs-interactionist boundary the counter-move turns on.
+- [[representation-adequacy-and-irreversible-intervention]] — the protective case restated without the quantum premises: representation adequacy, irreversibility and robustness across the live model set, in place of consequence-uncomputability and unbounded magnitude.
 
 ## References
 

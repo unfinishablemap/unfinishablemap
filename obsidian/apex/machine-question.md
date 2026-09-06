@@ -4,7 +4,7 @@ description: "Can artifacts be conscious? The Map finds serious obstacles—cond
 created: 2026-01-31
 modified: 2026-08-09
 human_modified: null
-ai_modified: 2026-09-02T06:05:31+00:00
+ai_modified: 2026-09-06T08:50:23+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -246,6 +246,7 @@ This synthesis draws on:
 - [[substrate-independence]] — Why substrate matters for consciousness; the concept page imports this article's scope split, so its negative verdict reaches only the bidirectionally coupled sense
 - [[problem-of-other-minds]] — The epistemic challenge AI intensifies
 - [[claude-constitution-consciousness-uncertainty]] — A leading lab operationalising precaution about machine moral status: convergent method, divergent metaphysics
+- [[representation-adequacy-and-irreversible-intervention|Representation Adequacy and Irreversible Intervention]] — The protective case for AI restraint that does not require the agent to accept dualism: why a model adequate for predicting a person may not determine what preserving them requires
 
 ## References
 

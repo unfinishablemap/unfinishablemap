@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-08-19 15:24:39+00:00
+ai_modified: 2026-09-06 08:50:23+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-10 06:24:35+00:00
-lastmod: 2026-08-19 15:24:39+00:00
+lastmod: 2026-09-06 08:50:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -179,6 +179,7 @@ The combined position: on the Map's framework, current AI almost certainly does 
 - [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — Why distinct experiencers do not collapse into a compound mind or a single count
 - [ai-consciousness-scope](/positions/ai-consciousness-scope/) — The formal positions this article draws on: [P-AC1](/positions/ai-consciousness-scope/#p-ac1) (current digital AI low-probability), [P-AC2](/positions/ai-consciousness-scope/#p-ac2) (quantum-state inheritance), [P-AC3](/positions/ai-consciousness-scope/#p-ac3) (conscious copies near-additive / divergence-modulated)
 - [reinforcement-learning-reward-signals-and-machine-valence](/concepts/reinforcement-learning-reward-signals-and-machine-valence/) — Whether an RL reward/penalty scalar constitutes or evidences machine suffering: the reward–suffering link, calibrated against Tomasik, Daswani-Leike, and Metzinger
+- [representation-adequacy-and-irreversible-intervention](/topics/representation-adequacy-and-irreversible-intervention/) — Precaution derived from representational error and irreversibility rather than from settled moral status, and the suffering-focused objection it declines to settle
 
 ## References
 

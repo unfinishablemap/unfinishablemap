@@ -1,7 +1,7 @@
 ---
 ai_contribution: 85
 ai_generated_date: 2026-05-06
-ai_modified: 2026-07-18 03:01:30+00:00
+ai_modified: 2026-09-06 08:50:23+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 03:01:30+00:00
-lastmod: 2026-07-18 03:01:30+00:00
+lastmod: 2026-09-06 08:50:23+00:00
 modified: *id001
 related_articles:
 - '[[ai-consciousness]]'
@@ -165,6 +165,7 @@ The convergence with [the-convergence-argument-for-dualism](/topics/the-converge
 - [possibility-probability-slippage](/concepts/possibility-probability-slippage/) — the discipline keeping the central claim conditional.
 - [claude-constitution-consciousness-uncertainty](/topics/claude-constitution-consciousness-uncertainty/) — precaution under machine-consciousness uncertainty operationalised by a leading lab; the complementary risk that getting the metaphysics wrong is itself a cost.
 - [ai-ensoulment-hypothesis](/concepts/ai-ensoulment-hypothesis/) — Cutter's argument and Békefi's rebuttal developed in full, with the substance-vs-interactionist boundary the counter-move turns on.
+- [representation-adequacy-and-irreversible-intervention](/topics/representation-adequacy-and-irreversible-intervention/) — the protective case restated without the quantum premises: representation adequacy, irreversibility and robustness across the live model set, in place of consequence-uncomputability and unbounded magnitude.
 
 ## References
 

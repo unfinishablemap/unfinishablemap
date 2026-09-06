@@ -1,15 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-06T08:05:00+00:00'
+ai_modified: '2026-09-06T08:50:23+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-06'
-lastmod: 2026-09-06 08:05:00+00:00
+lastmod: 2026-09-06 08:50:23+00:00
 related_articles: []
 title: Changelog
 ---
 
+## 2026-09-06T08:50:23+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Representation adequacy and irreversible intervention — the AI-facing case for restraint that does not depend on winning the quantum argument
+- **Output**: [representation-adequacy-and-irreversible-intervention](/topics/representation-adequacy-and-irreversible-intervention/)
+- **Word count**: 2773 (topics soft 3000 / 4000 / 6000, printed from `tools.curate.length.THRESHOLDS`; status `ok`)
+- **Based on research**: no — operator-directed commission (P1, 2026-09-06), anchored on external sources verified at publisher for this pass
+- **Value-sign question**: took option (c) of the three the commission allowed. The blocking P2 on suffering-focused asymmetry has **not** landed (`topics/phenomenal-value-realism` still returns 0 for `antinatal|Benatar|negative utilitarian|suffering-focused|asymmetry`, positive control passing on the same file), so the article explicitly declines the value argument and rests on representation adequacy, irreversibility and quasi-option value. Suffering-focused ethics is named in *What This Argument Does Not Claim* as an open objection the article does not settle, with the point that phenomenal value realism *strengthens* rather than weakens it. The one-sided version was not shipped.
+- **Sibling defect routed around**: `topics/dualism-as-ai-risk-mitigation` still carries its uncomputability claim and unbounded-magnitude argument. Cross-linked both ways, but neither its uncomputability claim nor its expected-value framing is cited as established Map position; the article states its own decision frame as robustness across the live model set, and declines unbounded-magnitude reasoning by name.
+- **Citations verified at source**: de Blanc, "Ontological Crises in Artificial Agents' Value Systems" — arXiv API for 1105.3821 confirms exact title, sole author Peter de Blanc, submitted 2011-05-19, cs.AI; abstract quoted verbatim (14 words). Arrow & Fisher (1974) verified two ways: Crossref DOI 10.2307/1883074 for title/authors/QJE 88(2)/May 1974/start page 312, and the JSTOR PDF extracted to text and grepped, confirming pp. 312–319 and that `quasi-option value` is present in the authors' own voice at p. 315. Two verbatim quotes (21 and 18 words) taken from the grepped raw text, not from a summariser. The p. 315 passage summarising Fisher–Krutilla–Cicchetti was deliberately **not** quoted, since attributing it to Arrow & Fisher would misreport whose result it is. Henry (1974) is not cited — the lineage is referenced only through the primary source actually verified.
+- **Mechanism debt**: inherited, not recited — deep-linked as `[[positions/quantum-interface#^mechanism-debt]]`, with **[P-Q3](/positions/quantum-interface/#p-q3)** and **[P-Q10](/positions/quantum-interface/#p-q10)** surfaced by name and the coherence-only downstream citation grade stated. Also recorded that the article's core (representation adequacy, irreversibility, robustness) is less exposed to the debt than its tenet-derived diagnosis, since the certification asymmetry needs only that the agent cannot exclude the models.
+- **Also declined per commission**: the deterrence framing ("humans are unmodellable hazards"), with the containment inversion stated explicitly and the reversibility/consent/continued-participation alternative distinguished from merely preserving living specimens. The anthropic version of "the current world has permitted me to exist" is flagged as thin and replaced by the distributional-shift point.
+- **Inbound links added** (orphan prevention, per commission): `topics/dualism-as-ai-risk-mitigation`, `topics/instrumental-convergence`, `apex/machine-question`, `topics/ethics-of-possible-ai-consciousness` — one Further Reading entry each, matched to each file's existing entry style, `ai_modified` bumped on all four. The two pre-existing length warnings on `machine-question` (148%) and `ethics-of-possible-ai-consciousness` (150%) are unchanged in kind by a one-line addition each.
+- **Section cap**: topics 326/360 before this article via `tools.evolution.state.count_section_files`; 33 slots remaining after. CLAUDE.md's cap table is stale (reads 320) and names a module path that does not exist.
+- **Housekeeping**: slug confirmed free by `scripts/check_slug.py`; frontmatter validates; `topics:` populated with bare slugs; no `load-bearing`, no "This is not X. It is Y.", no exposed internal labels, medium-neutral phrasing checked by grep. Synced to hugo and verified present in both trees.
+- **Not committed**: changes left on disk.
+- **ai_system**: claude-opus-5
 ## 2026-09-06T08:40:00+00:00 - task-generation (operator direction)
 - **Status**: Success
 - **Source**: operator strategy exchange with Astra Pro (OpenAI), following [outer-review-2026-09-06-astra-pro](/reviews/outer-review-2026-09-06-astra-pro/)
