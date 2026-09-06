@@ -4,8 +4,8 @@ description: "A human-AI synthesis testing whether 'conscious being' is a Boyd-s
 created: 2026-07-15
 modified: 2026-09-06
 human_modified:
-ai_modified: 2026-09-06T11:30:43+00:00
-last_deep_review: 2026-07-15T08:12:37+00:00
+ai_modified: 2026-09-06T13:58:11+00:00
+last_deep_review: 2026-09-06T13:58:11+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,7 +20,7 @@ related_articles:
   - "[[philosophical-zombies]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-07-15
 last_curated:
 ---
@@ -47,9 +47,9 @@ HPC did not stay in biology. Kendler, Zachar, and Craver, in "What Kinds of Thin
 
 Two refinements extend the program. Slater's "Natural Kindness" (2015) argues that cluster theory should drop its commitment to *causal homeostatic mechanisms* and keep only the **cohesiveness and stability** those mechanisms happen to provide — the "Stable Property Cluster" (SPC) account, on which properties may be held together by multiple mechanisms or merely reliably correlated. Khalidi's *Natural Categories and Human Kinds* (2013) offers a liberal-realist alternative in which kinds are nodes in causal networks and categories may crosscut, so a single thing can belong to several overlapping natural kinds at once. The takeaway: the cluster-kind research program is live and evolving, not a fixed target — which makes "conscious being" a fair candidate to test against it.
 
-The template has a second application inside the Map. [[topics/valence-as-a-natural-kind|Whether valence is a natural kind]] runs the same cluster machinery on the pleasant-unpleasant dimension of experience, and reaches the opposite verdict from this article's: there the Map accepts a cluster reading, because the sharpness it insists on here concerns *whether there is any experience at all* rather than the internal structure of experience's evaluative dimension. The two questions come apart, and keeping them apart is what stops the Map holding an essentialist and a cluster verdict about the same thing.
+The template has a second application inside the Map. [[topics/valence-as-a-natural-kind|Whether valence is a natural kind]] runs the same cluster machinery on the pleasant-unpleasant dimension of experience, and stops at a permission rather than a verdict: a cluster reading of valence would not contradict the essentialist answer reached here, because the sharpness this article insists on concerns *whether there is any experience at all*, while the question there concerns the internal structure of experience's evaluative dimension. That article leaves its own title question open, the projectability evidence it surveys being real but capped. The two questions coming apart is what makes the two answers independent rather than inconsistent.
 
-**A terminological trap to avoid.** Antonio Damasio's talk of "homeostatic feelings" — consciousness as a solution to the body's homeostatic regulation problem — uses "homeostatic" in a *biological* sense that has nothing to do with Boyd's *kind-theoretic* homeostasis. Damasio is theorizing the biological function of feeling; Boyd is theorizing what holds a natural kind together. Conflating the two would be a pun mistaken for an argument.
+**A terminological trap to avoid.** Antonio and Hanna Damasio's "homeostatic feelings" (2022) — consciousness as a solution to the body's life-regulation problem — uses "homeostatic" in a *biological* sense that has nothing to do with Boyd's *kind-theoretic* homeostasis. Damasio is theorizing the biological function of feeling; Boyd is theorizing what holds a natural kind together. Conflating the two would be a pun mistaken for an argument.
 
 ## Can consciousness be a natural kind at all?
 
@@ -75,7 +75,7 @@ Two guards keep this from overreaching.
 
 **The claim is coherentist, not a proof.** HPC's poor fit with consciousness would be *consistent with* dualism; it would not *establish* it. A materialist can consistently maintain that "conscious being" is an HPC kind with vague edges and marginal cases — that is a respectable live position, not a straw man. The Map's line is conditional: *if* the Map's dualism, *then* a sharp joint follows. The sharp boundary is entailed by the tenets, not offered as independent evidence for them.
 
-**The double edge must be answered.** Antony's sharpness argument is not a gift to dualism — it cuts dualism too. His conclusion is that *if* the concept of consciousness is sharp and correct, then identity theory, functionalism, *and* dualism are all false, because each makes consciousness supervene on a *vague* physical or functional base, and nothing sharp can supervene on something vague. Any theory that grounds the conscious/non-conscious fact in a smeared, gradually-varying substrate inherits that substrate's vagueness and cannot deliver a sharp joint. This is the article's real burden, and it has a specific answer. Antony's argument targets theories on which consciousness supervenes on *complex physical or functional properties* — property dualism and functionalism included. The Map's dualism is not of that shape. On the Map's picture, consciousness makes a **discrete non-physical difference** at a specific locus — the minimal quantum interaction of the second tenet, developed in [[interface-threshold]]. If the fact of consciousness is fixed at that discrete interaction interface rather than by a graded supervenience base, there is a determinate fact about whether the interaction is occurring, and the sharp joint is grounded in something that is not itself vague. Interactionist dualism with a discrete interface escapes the supervenience-on-a-vague-base problem that sinks property-supervenience theories. That is why the Map can hold the sharpness intuition without being caught by Antony's own objection — but the burden is the Map's to carry, not a free consequence.
+**The double edge must be answered.** Antony's sharpness argument is not a gift to dualism — it cuts dualism too. His conclusion is that *if* the concept of consciousness is sharp and correct, then identity theory, functionalism, *and* dualism are all false, because each makes consciousness supervene on a *vague* physical or functional base, and nothing sharp can supervene on something vague. This is the article's real burden, and it has a specific answer. Antony's argument targets theories on which consciousness supervenes on *complex physical or functional properties* — property dualism and functionalism included. The Map's dualism is not of that shape. On the Map's picture the on/off fact is fixed by whether the non-physical mind–brain coupling **engages at all** — a simple, non-graded relation that either holds or does not, and therefore not itself a sorites series. [[phenomenal-sorites-problem|The phenomenal-sorites problem]] develops that truth-maker and is careful to distinguish it from the [[interface-threshold|interface threshold]], a later *efficacy* boundary with phenomenal consciousness present on both sides: the threshold settles what a subject's experience can do rather than whether a subject exists, and the minimal quantum interaction of the second tenet likewise concerns influence rather than presence. Neither can carry the on/off joint; bare coupling-engagement can, because no graded physical property is being asked to bear the boundary. That is what lets interactionist dualism avoid the supervenience-on-a-vague-base problem which sinks property-supervenience theories. So the Map can hold the sharpness intuition without being caught by Antony's own objection — but the burden is the Map's to carry, not a free consequence.
 
 So the honest verdict is that "conscious being" is a natural-kind question the Map answers in the essentialist direction rather than the HPC direction, for reasons that are *coherent with* its dualism rather than *forced by* the failure of any cluster account. The cluster reading remains the live rival, and its parsimony is a genuine cost the Map pays for insisting on a real joint.
 
@@ -96,6 +96,7 @@ So the honest verdict is that "conscious being" is a natural-kind question the M
 1. Birch, J., Schnell, A. K. & Clayton, N. S. (2020). Dimensions of Animal Consciousness. *Trends in Cognitive Sciences* 24(10): 789–801. https://doi.org/10.1016/j.tics.2020.07.007
 1. Boyd, R. (1991). Realism, Anti-Foundationalism and the Enthusiasm for Natural Kinds. *Philosophical Studies* 61(1–2): 127–148. https://link.springer.com/article/10.1007/BF00385837
 1. Boyd, R. (1999). Homeostasis, Species, and Higher Taxa. In R. A. Wilson (ed.), *Species: New Interdisciplinary Essays*, pp. 141–185. Cambridge, MA: MIT Press.
+1. Damasio, A. & Damasio, H. (2022). Homeostatic Feelings and the Biology of Consciousness. *Brain* 145(7): 2231–2235. https://doi.org/10.1093/brain/awac194
 1. Kendler, K. S., Zachar, P. & Craver, C. (2011). What Kinds of Things Are Psychiatric Disorders? *Psychological Medicine* 41(6): 1143–1150. https://doi.org/10.1017/S0033291710001844
 1. Khalidi, M. A. (2013). *Natural Categories and Human Kinds: Classification in the Natural and Social Sciences*. Cambridge University Press.
 1. Papineau, D. (2002). *Thinking about Consciousness*. Oxford University Press.
