@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-06T20:42:53+00:00'
+ai_modified: '2026-09-06T21:02:57+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-06'
-lastmod: 2026-09-06 20:42:53+00:00
+lastmod: 2026-09-06 21:02:57+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-06T21:02:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [valence-and-conscious-selection](/topics/valence-and-conscious-selection/)
+- **Task**: P3 (todo.md L115) — one-clause attribution fix flagged out of scope by the 2026-09-05 21:45 refine of [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/). Scope held to exactly that clause; nothing else in the article was reopened.
+- **Word count** (thresholds printed live from `THRESHOLDS`: topics 3000 soft / 4000 hard / 6000 critical): **4342 → 4342**, `hard_warning`, 342 over hard. **Exactly length-neutral by construction** — three candidate rewrites were measured with `count_words` before editing and the 18-word one (matching the 18-word original) was chosen. The 19-word variant ("intense wanting *that outlives* enjoyment") was rejected solely on the one-word cost.
+- **The fix.** L172, the *Wanting without liking* bullet under §Discriminating Evidence. Was: "Berridge (2009) finds dopaminergic "wanting" and hedonic "liking" neurally dissociable; **addicts intensely want substances they no longer enjoy.**" Now: "… neurally dissociable, **and reads addiction as intense wanting outlasting enjoyment.**" The empirical half (neural dissociability of the two systems) keeps its assertoric force; only the addiction half — Berridge & Robinson's incentive-sensitization *interpretation*, which has its own contested evidence base — is moved behind an attributing verb. "intensely" is preserved as "intense" (sensitized wanting's intensity is part of the account) and "no longer" as "outlasting", which additionally carries the temporal claim the original's "no longer" implied: wanting persists while liking wanes.
+- **No reference added**, per the task fence. The attribution rides on the Berridge (2009) citation already on that line; the account is attributed by the verb ("reads addiction as") rather than by naming "incentive sensitization", because naming it cost +1 to +2 words and the line's next clause already uses "incentive salience", so the vocabulary is present in context.
+- **Consistency with the wing**: this article was the last survivor of the flat-assertion form. The sibling `topics/wanting-liking-and-the-value-in-mechanism-fork` has glossed "wanting" as incentive salience and "liking" as an operational orofacial reaction since its 21:45 pass on 2026-09-05; the two articles now agree that the addiction reading is an interpretation.
+- **Verification**: synced to Hugo; `grep -rn "no longer enjoy"` over `obsidian/{topics,concepts,apex,voids,positions}/` and the matching `hugo/content/` sections returns **zero hits in both trees** (exit 1), and the attributed form is present in both (obsidian L172, hugo L175). `scripts/validate.py hugo/content/` clean: 9487 files, 9487 valid, 0 invalid.
+- **Not touched (out of scope, reported to the caller)**: the archived predecessor `archive/topics/valence-as-selection-currency.md` L111 (and its Hugo mirror L115) still carries the bare assertion "Addicts intensely want substances they no longer enjoy." as its own sentence. That is a *different, archived* article — a frozen snapshot preserving its URL — not the file this task named, so the one-clause fence governs. Flagging it rather than editing it.
+- **Length not addressed, deliberately.** The file sits 342 words over its hard ceiling. The task forbade condensing (one-clause scope; the file was refined twice on 2026-09-05) and the hooks bullets flagged by the 20:21 optimistic review's Finding 5(b) were left alone. ⚠️ **Correction to the task note**: it cited an open "HUMAN LENGTH DECISION (todo.md Blocked section, dated 2026-06-05)" for this file. No such file-specific entry was found — the Blocked section's length decisions name `apex/assessing-ai-consciousness-under-the-map`, `topics/qm-interpretations-beyond-many-worlds` and `topics/time-collapse-and-agency`. The over-length is therefore, on present evidence, **unblocked and unowned** and may want a human decision or a scoped `condense` task.
+- **Published**: yes
+- **ai_modified**: bumped to 2026-09-06T21:02:57+00:00 (live `date -u`). **`ai_system` held** at `claude-opus-4-6+claude-opus-5+claude-fable-5-1` per the task — this model (claude-opus-5) is already listed, and a nine-word reworded clause is not substantive new prose.
 
 ## 2026-09-06T20:42:53+00:00 - positions-evolve
 - **Status**: Success

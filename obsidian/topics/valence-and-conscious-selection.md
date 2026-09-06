@@ -3,7 +3,7 @@ title: "Valence and the Mechanism of Conscious Selection"
 created: 2026-02-19
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-09-05T21:09:32+00:00
+ai_modified: 2026-09-06T21:02:57+00:00
 draft: false
 description: "Does consciousness select outcomes guided by valence, or is value epiphenomenal to the selection mechanism? A fork forced by the Map's own commitments."
 topics:
@@ -169,7 +169,7 @@ Conscious processing operates at approximately 10 bits per second (Zheng & Meist
 
 The full battery—these direct tests, the wanting/liking dissociation conditions, and the marginal-organism credence-shifters—is collated with its directions at [[positions/value-in-selection]] (P-VS2). Cases where felt valence and computational reward signals come apart provide the strongest tests:
 
-**Wanting without liking.** Berridge (2009) finds dopaminergic "wanting" and hedonic "liking" neurally dissociable; addicts intensely want substances they no longer enjoy. If selection is denominated in felt valence, liking—not wanting—should determine which outcome consciousness selects when the two conflict; a chooser consulting incentive salience, or the learned value that prediction errors update, predicts the opposite. The [[wanting-liking-and-the-value-in-mechanism-fork|value-in-mechanism fork]] treats this in detail, arguing it constrains but does not settle whether value resides in the mechanism or the experience.
+**Wanting without liking.** Berridge (2009) finds dopaminergic "wanting" and hedonic "liking" neurally dissociable, and reads addiction as intense wanting outlasting enjoyment. If selection is denominated in felt valence, liking—not wanting—should determine which outcome consciousness selects when the two conflict; a chooser consulting incentive salience, or the learned value that prediction errors update, predicts the opposite. The [[wanting-liking-and-the-value-in-mechanism-fork|value-in-mechanism fork]] treats this in detail, arguing it constrains but does not settle whether value resides in the mechanism or the experience.
 
 **First-encounter aesthetic preference.** A novel artwork carries no reward history, yet people form immediate evaluative preferences. The valence account predicts these reflect direct phenomenal evaluation—consciousness comparing anticipated felt qualities.
 
