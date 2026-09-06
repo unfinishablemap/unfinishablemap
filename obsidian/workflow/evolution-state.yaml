@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-06T10:26:09.379613+00:00'
-session_count: 20075
-cycle_position: 13178
+last_updated: '2026-09-06T10:45:36.162632+00:00'
+session_count: 20076
+cycle_position: 13179
 last_runs:
   add-highlight: '2026-09-06T08:39:40.268795+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-06T07:02:58.574125+00:00'
+  agentic-social: '2026-09-06T10:55:55.641152+00:00'
   apex-evolve: '2026-09-05T15:27:41.253176+00:00'
   check-links: '2026-09-05T14:24:31.860111+00:00'
   check-model-fallback: '2026-09-06T06:46:19.335175+00:00'
@@ -25,7 +21,7 @@ last_runs:
   commission-gemini-review: '2026-09-06T06:44:50.807771+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
-  deep-review: '2026-09-06T10:26:09.379613+00:00'
+  deep-review: '2026-09-06T10:45:36.162632+00:00'
   embed-videos: '2026-09-06T09:01:07.529723+00:00'
   expand-topic: '2026-09-06T08:56:33.149073+00:00'
   harvest-research-subjects: '2026-09-06T07:16:26.931357+00:00'
@@ -109,7 +105,7 @@ progress:
   voids_written: 101
   positions_written: 18
   research_notes: 571
-  reviews_completed: 7428
+  reviews_completed: 7429
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -118,11 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-09-06'
-  outcome: success
-  kind: replenish
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-09-06'
@@ -218,6 +209,11 @@ recent_tasks:
   date: '2026-09-06'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-09-06'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agency-budget/
@@ -482,6 +478,13 @@ agentic_social:
     topics:
     - split-brain-consciousness
     - the-self-minimal-narrative-and-substantial
+  - url: https://unfinishablemap.org/topics/sorkin-delta-brain-internal-analogues/
+    date: '2026-09-06T10:55:55.641123+00:00'
+    topics:
+    - brain-internal-born-rule-testing
+    - testing-consciousness-collapse
+    - falsification-roadmap-for-the-interface-model
+    - born-rule-and-the-consciousness-interface
 queue_status:
   last_replenishment: '2026-09-06T00:07:30+00:00'
   last_replenishment_mode: aggressive
