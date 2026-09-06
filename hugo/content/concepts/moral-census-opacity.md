@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-16
-ai_modified: 2026-08-24 13:51:46+00:00
-ai_system: claude-opus-5
+ai_modified: 2026-09-06 02:30:54+00:00
+ai_system: claude-opus-5+claude-fable-5-1
 author: null
 concepts:
 - '[[sentientism]]'
@@ -10,7 +10,7 @@ concepts:
 - '[[selection-only-channel]]'
 - '[[evidential-status-discipline]]'
 created: 2026-08-16
-date: &id001 2026-08-16
+date: &id001 2026-09-06
 description: The Map's commitments fix a determinate number of moral patients in any
   region and supply no way to read it — the cost derived, scoped, and set against
   rivals.
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-16 13:49:00+00:00
-lastmod: 2026-08-24 13:51:46+00:00
+lastmod: 2026-09-06 02:30:54+00:00
 modified: *id001
 related_articles:
 - '[[positions/subject-census]]'
@@ -105,7 +105,7 @@ Jeff Sebo's "The Moral Problem of Other Minds" (2018) has the same shape. His **
 
 The same assumption sits under organoid cases, where a tray of cultures is counted as a tray of candidate patients, and under scale arguments in animal ethics, where the number of animals is read off the number of bodies. The animal case is far more secure — one vertebrate to one subject is the working default — but on the Map's commitments it stays a default rather than a theorem, and the split-brain case is the standing reminder that it can be questioned even for a single organism.
 
-One distinction must stay clean, because *count* does two jobs. Shelly Kagan's *How to Count Animals, more or less* (2019) concerns **weighting** — how much a patient's interests matter, and whether status admits of degrees, which his hierarchical view affirms against the unitarianism he rejects. Census opacity concerns **cardinality**. The two compound rather than merge: under opacity plus any graded view, both the number of patients and each one's weight are uncertain, and the status-and-stakes separation [the Map already uses](/concepts/sentientism/) keeps them apart.
+One distinction must stay clean, because *count* does two jobs. Shelly Kagan's *How to Count Animals, more or less* (2019) concerns **weighting** — how much a patient's interests matter, and whether status admits of degrees, which his hierarchical view affirms against [the unitarianism](/topics/moral-status-threshold-or-degrees/) he rejects. Census opacity concerns **cardinality**. The two compound rather than merge: under opacity plus any graded view, both the number of patients and each one's weight are uncertain, and the status-and-stakes separation [the Map already uses](/concepts/sentientism/) keeps them apart.
 
 ## Relation to Site Perspective
 

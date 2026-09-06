@@ -2,9 +2,9 @@
 title: "Animal Consciousness"
 description: "Do animals have conscious experience? Evidence supports mammals and birds; invertebrate verdicts stay contested. Dualism sets no anthropocentric barrier."
 created: 2026-01-14
-modified: 2026-01-14
+modified: 2026-09-06
 human_modified: null
-ai_modified: 2026-08-21T18:32:44+00:00
+ai_modified: 2026-09-06T02:30:54+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,7 +52,7 @@ related_articles:
   - "[[standing-agnostic-challenge]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-fable-5-1
 ai_generated_date: 2026-01-14
 last_curated: 2026-05-25T11:43:34+00:00
 last_deep_review: 2026-07-11T04:03:00+00:00
@@ -157,7 +157,7 @@ The case for subcortical valenced experience is realistic possibility, contested
 
 ## Moral Status
 
-Birch (2024) distinguishes **valence sentientism** (moral status requires capacity for suffering/enjoyment) from **broad sentientism** (any phenomenal consciousness creates moral significance); see [[birch-edge-of-sentience-and-the-five-tier-scale]]. [[topics/phenomenal-value-realism|Phenomenal value realism]] strengthens valence sentientism: if the felt badness of suffering *constitutes* intrinsic badness, animal suffering instantiates the same value property as ours.
+Birch (2024) distinguishes **valence sentientism** (moral status requires capacity for suffering/enjoyment) from **broad sentientism** (any phenomenal consciousness creates moral significance) ([[birch-edge-of-sentience-and-the-five-tier-scale]]). [[topics/phenomenal-value-realism|Phenomenal value realism]] strengthens valence sentientism: if the felt badness of suffering *constitutes* intrinsic badness, animal suffering instantiates the same value property as ours and [[moral-status-threshold-or-degrees|the same moral status]].
 
 If animal suffering is real suffering, it matters morally regardless of scientific verification. The [[ethics-of-consciousness-invertebrate-question|invertebrate ethics question]] extends this to its hardest frontier: with insects, cephalopods, and crustaceans at **realistic possibility, contested**, the precautionary scale of moral obligation becomes staggering—trillions of potentially conscious beings in agricultural systems alone.
 

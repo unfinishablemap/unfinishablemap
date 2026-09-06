@@ -2,9 +2,9 @@
 title: "Phenomenal Value Realism"
 description: "Why value lives in conscious experience—not in preferences, social contracts, or abstract principles. A comprehensive treatment of the metaethical position grounding the Map."
 created: 2026-02-02
-modified: 2026-02-09
+modified: 2026-09-06
 human_modified:
-ai_modified: 2026-08-27T14:54:30+00:00
+ai_modified: 2026-09-06T02:30:54+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -35,7 +35,7 @@ related_articles:
   - "[[no-self-objection-to-phenomenal-value]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-1
 ai_generated_date: 2026-02-09
 last_curated:
 last_deep_review: 2026-08-27T14:54:30+00:00
@@ -193,7 +193,7 @@ Three responses bear weight.
 
 **The contemplative response.** [[contemplative-practice-as-philosophical-evidence|Contemplative traditions]] offer mixed evidence here. Some practitioners (particularly Hindu and Christian) report that sustained attention to experience reveals valence as intrinsic to it, not attributed by judgement. If illusionism were correct, deeper investigation should reveal the construction mechanism—instead, the value becomes more apparent. However, Buddhist *vipassana* practitioners often report the opposite: that valence arises from craving and aversion, and dissolves through equanimity practice. The phenomenal value realist can respond that equanimity does not eliminate felt valence but transforms the *reactive* relationship to it—the badness of pain is still apprehended, but the secondary suffering of resistance falls away.
 
-A neighbouring objection grants the phenomenology and denies the *someone*. Buddhist *anātman* with momentariness, and Parfit's reductionism, hold that no self persists beneath the stream of experience; if felt badness must be bad *for* a subject, the recipient looks like a fiction. The Map's reply, made at [[no-self-objection-to-phenomenal-value#maps-reply|the no-self objection to phenomenal value]], is that the value chain needs a momentary experiential locus—the for-me-ness of this pain, now—not a persisting self: momentariness multiplies that locus rather than removing it. The reply is unrefuted and contested, and persistence-dependent goods rest on the subject the Map asserts on other grounds.
+A neighbouring objection grants the phenomenology and denies the *someone*. Buddhist *anātman* with momentariness, and Parfit's reductionism, hold that no self persists beneath the stream of experience; if felt badness must be bad *for* a subject, the recipient looks like a fiction. The Map's reply, made at [[no-self-objection-to-phenomenal-value#maps-reply|the no-self objection to phenomenal value]], is that the value chain needs [[moral-status-threshold-or-degrees#presence|a momentary experiential locus]]—the for-me-ness of this pain, now—not a persisting self: momentariness multiplies that locus rather than removing it. The reply is unrefuted and contested, and persistence-dependent goods rest on the subject the Map asserts on other grounds.
 
 ## Challenges Requiring Development
 

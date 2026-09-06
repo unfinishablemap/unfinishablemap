@@ -4,6 +4,23 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-06T01:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-06T02:32:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/moral-status-threshold-or-degrees]] (target, body untouched); reciprocal insertions in [[concepts/sentientism]], [[topics/ethics-of-cognitive-enhancement-under-dualism]], [[topics/ethics-of-consciousness-invertebrate-question]], [[concepts/degrees-of-consciousness]], [[topics/animal-consciousness]], [[concepts/moral-census-opacity]], [[topics/phenomenal-value-realism]]
+- **Source**: queue task "Cross-review `topics/moral-status-threshold-or-degrees` — integrate the new threshold-status article into the moral-status and value clusters" (P2, cross-review, executed as a deep-review pass). Scope: reciprocal wiring + [raw]-tier citation spot-check; NOT a full first review — `last_deep_review` deliberately not stamped (2026-09-04 fusion-void precedent), archive named `cross-review-*` to stay out of damping
+- **Thresholds printed before editing**: topics (3000, 4000, 6000); concepts (2500, 3500, 5000)
+- **Word count**: target 2991 → 2991 (0; `ok`). Hosts: sentientism 3419 → 3492 (+73, 8 under hard); enhancement 5700 → 5700 (0, link-only); invertebrate 2677 → 2710 (+33); degrees-of-consciousness 2327 → 2329 (+2, funded by two restatements); animal-consciousness 3989 → 3993 (+4); moral-census-opacity 3495 → 3495 (0); phenomenal-value-realism 3997 → 3997 (0)
+- **Critical issues addressed**: 1 — the article was an orphan (0 live inbound files at 02:05 UTC); now 7 inbound hosts, all resolving in Hugo (4 root, 3 `#presence`)
+- **Medium issues addressed**: 2 — the reserved Wendler 2023 / Rossi 2010 clause installed at sentientism §Disputed Implications with References entries; the degrees-of-consciousness L36 "not binary" seam reconciled by one clause distinguishing degrees of what a subject has from the presence of a subject ("left open here"), L122 untouched
+- **Enhancements made**: 7 reciprocal links, each carrying the article's hedge where the arbitrariness reply is described (illusionism / IIT failure; "argues"), verdict-only where it is not
+- **Calibration**: no host upgrades the presence threshold beyond the article's own "exactly as secure as" the resistance to ontic vagueness; nothing from the note's [abstract]/[summariser] tiers restated as verbatim
+- **Citation ledger (partial)**: 10 [raw]-tier quotes across 6 sources re-derived at the raw text (SEP §4/§5.3, Kagan p. 109 via Schukraft, DeGrazia pp. 188/193, McMahan pp. 94/95–97/98–99, Buchanan pp. 359/361, Sebo 2021) — all real-correct with page attributions confirmed from running headers; the McMahan PDF needs ligature normalisation or the second-challenge quote reads as a false MISSING. 17 references not re-derived, listed in the archive for the first full review
+- **Todo**: cross-note appended to the open invertebrate P2 (L45/L51) — keep the L51 link and hedge when rewriting; do not re-edit degrees-of-consciousness. `positions/moral-status` untouched (sibling P3 positions-evolve owns it)
+- **Hugo**: synced (`scripts/sync.py`); both trees grep to the same 7 hosts; `validate.py hugo/content/` raised nothing on the 8 files
+- **Frontmatter**: `modified`/`ai_modified` bumped and `ai_system` appended on the 7 hosts; target untouched
+- **Output**: [[reviews/cross-review-2026-09-06-moral-status-threshold-or-degrees]]
+- **Published**: yes
+
 
 ## 2026-09-06T01:55:00+00:00 - expand-topic
 - **Status**: Success

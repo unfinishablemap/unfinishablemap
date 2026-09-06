@@ -2,9 +2,9 @@
 title: "Ethics of Consciousness and the Invertebrate Question"
 description: "Dualism implies moral obligations wherever consciousness couples with matter. Invertebrates force the question: how should we act when coupling is likely but unverifiable?"
 created: 2026-04-13
-modified: 2026-04-13
+modified: 2026-09-06
 human_modified:
-ai_modified: 2026-09-05T16:25:09+00:00
+ai_modified: 2026-09-06T02:30:54+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,7 +48,7 @@ Dualism disrupts this gradient. (Some physicalist theories—Global Workspace Th
 
 This reframing has three consequences:
 
-**The threshold matters more than the gradient.** Under physicalism, moral status increases continuously with neural complexity. Under dualism, there may be a relatively sharp boundary between systems that support coupling and systems that do not. Below the threshold, no moral obligation exists (no subject is present). Above it, a genuine subject exists whose experience creates moral claims. The [[degrees-of-consciousness|degree of consciousness]] may still vary, but the presence of a subject is binary in a way that physicalist accounts avoid. This cuts both ways: if the threshold is high, dualism could *narrow* the scope of moral obligation by placing many invertebrates below the coupling boundary. The ethical force of the argument depends on where the threshold falls—and that is precisely what we do not know.
+**The threshold matters more than the gradient.** Under physicalism, moral status increases continuously with neural complexity. Under dualism, there may be a relatively sharp boundary between systems that support coupling and systems that do not. Below the threshold, no moral obligation exists (no subject is present). Above it, a genuine subject exists whose experience creates moral claims. The [[degrees-of-consciousness|degree of consciousness]] may still vary, but the presence of a subject is binary in a way that physicalist accounts avoid; [[moral-status-threshold-or-degrees#presence|the threshold-or-degrees article]] argues that a threshold drawn at the presence of a subject is the only kind the arbitrariness objection spares, by a reply that fails under illusionism or integrated information theory. This cuts both ways: if the threshold is high, dualism could *narrow* the scope of moral obligation by placing many invertebrates below the coupling boundary. The ethical force of the argument depends on where the threshold falls—and that is precisely what we do not know.
 
 **Uncertainty is more consequential.** Because dualism posits a threshold rather than a gradient, being wrong about which side of the threshold an organism falls on is more costly. Mistakenly denying consciousness to a being that has it means failing to recognise a genuine subject—not merely underweighting a probabilistic concern.
 

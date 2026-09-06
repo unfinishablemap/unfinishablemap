@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-09-02 20:08:52+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-06 02:30:54+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 concepts:
 - '[[phenomenal-consciousness]]'
@@ -15,14 +15,14 @@ concepts:
 - '[[neural-correlates-of-consciousness]]'
 - '[[phenomenology-vs-function-axis]]'
 created: 2026-03-20
-date: &id001 2026-03-20
+date: &id001 2026-09-06
 description: Consciousness varies in intensity and richness, not just kind. Gradation
   from anaesthesia, sleep, and animal cognition constrains theories of consciousness.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 09:58:42+00:00
-lastmod: 2026-09-02 20:08:52+00:00
+lastmod: 2026-09-06 02:30:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -36,7 +36,7 @@ topics:
 - '[[consciousness-disruption-and-the-mind-brain-interface]]'
 ---
 
-Consciousness is not binary. Between full waking awareness and total unconsciousness lies a spectrum of intermediate states — graded variations in the intensity, richness, and complexity of phenomenal experience. Anaesthesia research reveals at least three distinct levels between awareness and unconsciousness. Sleep stages modulate experiential depth continuously. Animal cognition suggests consciousness at intensities far below human norms. The concept of degrees of consciousness captures this gradation and distinguishes it from the separate question of [types](/concepts/types-of-consciousness/) (structural varieties of consciousness) and [minimal consciousness](/concepts/minimal-consciousness/) (whether there is a lower bound at all).
+Consciousness is not binary. Between full waking awareness and total unconsciousness lies a spectrum of intermediate states — graded variations in the intensity, richness, and complexity of phenomenal experience. Anaesthesia research reveals at least three distinct levels between awareness and unconsciousness. Sleep stages modulate experiential depth continuously. Animal cognition suggests consciousness at intensities far below human norms. The concept of degrees of consciousness captures this gradation and distinguishes it from [types](/concepts/types-of-consciousness/) (structural varieties of consciousness) and [minimal consciousness](/concepts/minimal-consciousness/) (whether there is a lower bound at all); what is graded throughout is what a subject *has*, while whether a subject is present at all is a further question, left open here, on which [the moral-status threshold](/topics/moral-status-threshold-or-degrees/#presence) rests.
 
 For The Unfinishable Map, degrees of consciousness are consequential rather than merely taxonomic. If consciousness interfaces with the physical world through a configurable connection — as [filter theory](/concepts/filter-theory/) and [interactionist dualism](/concepts/interactionist-dualism/) propose — then gradation reflects variation in the interface, not variation in the production of consciousness by neural activity. The dimmer switch is in the interface, not in the generator, because there is no generator.
 
@@ -48,11 +48,11 @@ When consciousness comes in degrees, what exactly is it that admits of more or l
 
 **Richness.** The number and diversity of phenomenal qualities present simultaneously. Full waking consciousness integrates visual, auditory, tactile, proprioceptive, emotional, and cognitive content into a unified field. Dreaming preserves some modalities (visual, emotional) while attenuating others (proprioceptive, tactile). Minimally conscious states may involve experience along a single modality — pain without context, sound without meaning.
 
-**Complexity.** The degree of internal structure within experience. A moment of pure awareness in deep meditation is phenomenally simple — [minimal phenomenal experience](/concepts/minimal-consciousness/#minimal-phenomenal-experience-metzinger) stripped of elaboration. A moment of philosophical reasoning involves layered, self-referential, temporally extended phenomenal structure. Complexity can decrease while intensity remains constant, as in certain psychedelic states where experience is vivid but structurally simple.
+**Complexity.** The degree of internal structure within experience. A moment of pure awareness in deep meditation is phenomenally simple — [minimal phenomenal experience](/concepts/minimal-consciousness/#minimal-phenomenal-experience-metzinger) stripped of elaboration. A moment of philosophical reasoning involves layered, self-referential, temporally extended phenomenal structure.
 
 **Access.** The availability of conscious content for reasoning, memory, and report. [Access consciousness](/concepts/access-consciousness/) can dissociate from phenomenal intensity. [blindsight](/concepts/blindsight/) patients process visual information without phenomenal access. Conversely, anaesthetic states can produce vivid phenomenal experience (ketamine hallucinations) that remains disconnected from cognitive control. The [function-phenomenology axis](/concepts/phenomenology-vs-function-axis/) generalises this dissociation: where degrees leans on the access/phenomenal split in particular cases, the axis formalises the broader divergence between what consciousness is like and what cognition does.
 
-These dimensions can vary independently. Ketamine dissociation involves high phenomenal intensity with reduced access and reduced complexity. NREM sleep involves reduced intensity and richness but may preserve minimal phenomenal states. This independence is itself evidence that consciousness is not a single quantity but a multidimensional phenomenon that can be dialled up or down along separate axes.
+Ketamine dissociation involves high phenomenal intensity with reduced access and reduced complexity. NREM sleep involves reduced intensity and richness but may preserve minimal phenomenal states. This independence is itself evidence that consciousness is not a single quantity but a multidimensional phenomenon that can be dialled up or down along separate axes.
 
 The phrase "degrees of consciousness" can therefore mislead. Bayne, Hohwy, and Owen (2016) argue that the familiar talk of *levels* of consciousness — a single ladder from coma through sedation to full wakefulness — is theoretically untenable, and propose replacing it with a multidimensional account in which global states differ along several partly independent dimensions rather than along one scalar of "amount." The gradation question is, in this respect, genuinely contested: the present article uses "degrees" as shorthand for graded *and multidimensional* variation, not for a single quantity. This matters for The Unfinishable Map's reading, set out below — the interface that can be opened, narrowed, or reconfigured along several axes fits the multidimensional picture more naturally than a one-dimensional dimmer, even though the dimmer metaphor remains a useful first approximation.
 
