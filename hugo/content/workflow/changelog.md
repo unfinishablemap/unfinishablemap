@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-06T14:19:52+00:00'
+ai_modified: '2026-09-06T14:50:32+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-06'
-lastmod: 2026-09-06 14:19:52+00:00
+lastmod: 2026-09-06 14:50:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-06T14:50:32+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Thematic wing, 8 articles — the kinds / vagueness / structural-realism cluster: `concepts/is-conscious-being-a-natural-kind`, `topics/valence-as-a-natural-kind`, `concepts/phenomenal-sorites-problem`, `concepts/ontic-structural-realism`, `concepts/intrinsic-nature`, `voids/intrinsic-nature-void`, `concepts/degrees-of-consciousness`, `concepts/galilean-exclusion`. First optimistic wing ever to cover kinds, sorites or vagueness. **No content file modified** (reports-only contract).
+- **Length ledger** (all 8 re-measured live with `tools.curate.length.analyze_length`, thresholds printed from `THRESHOLDS`; concepts 2500/3500/5000, topics 3000/4000/6000, voids 2000/3000/4000): `phenomenal-sorites-problem` 3439 `soft_warning` (**61 from hard**) · `valence-as-a-natural-kind` 2998 `ok` (2 from soft) · `ontic-structural-realism` 2655 `soft_warning` · `intrinsic-nature` 2422 `ok` · `intrinsic-nature-void` 2061 `soft_warning` · `is-conscious-being-a-natural-kind` 2412 `ok` · `degrees-of-consciousness` 2329 `ok` (171 to soft) · `galilean-exclusion` 1948 `ok`. Every figure matched the task note exactly. Section counts via `tools.evolution.state.count_section_files`: topics **328**/360, concepts **324**/360, voids **102**/115, positions **18**/80.
+- **Headline finding (Hardline Empiricist persona)**: strongest wing yet for evidential-status discipline. Six of eight articles separate defeater-removal from evidence explicitly; `concepts/intrinsic-nature` states it best ("The gap creates room; it does not furnish the room"), `concepts/ontic-structural-realism` applies it to *deflate its own opening framing*, and `topics/valence-as-a-natural-kind` runs Occam's-Razor-Has-Limits **against the Map's own preferred reading** — refusing to bank Chikazoe 2014's supramodal OFC code as confirming one kind. Process Philosopher and Hardline Empiricist **converge** on `concepts/degrees-of-consciousness`: the structural opportunity for a tenet-load tier-upgrade on minimal organisms existed and was declined (the *C. elegans* claim stays strictly conditional, no evidential tier assigned anywhere).
+- **Structural achievement named**: four articles independently draw the same contents-versus-presence distinction with no circular citation, which is what lets the wing hold "consciousness is graded" and "consciousness is sharp" at once without contradiction.
+- **Two uncovered subjects found, both grep-verified and cross-article-corroborated** (the harvester-facing output): (1) **structuralism about phenomenal character** — five live pages defer to a rival that has no page, and it is the rival that threatens Tenet 1 rather than merely a supporting argument; needs Fink/Kob/Lyre 2021 retrieved first, which `ontic-structural-realism` records as unretrieved. (2) **the coupling-engagement condition** — now bears the Tenet-4 defence in two articles (`phenomenal-sorites-problem`'s fact-maker route, and `is-conscious-being-a-natural-kind` as re-grounded today) with no page; `concepts/coupling-modes` covers the *mode* and `concepts/interface-threshold` the *efficacy* boundary, neither the engagement condition. Live seam recorded but **deliberately not adjudicated**: `concepts/universal-coupling-response` declares its architectural-adequacy condition *vague* ("The vagueness is in the boundary, not in the coupling") and the two pages cite each other in neither direction — out-of-wing, so no task minted against it.
+- **Three candidates investigated and rejected as already covered** (anti-padding): higher-order vagueness (`voids/vagueness-void` has a whole structural face on it), the Madhyamaka fourth stance (54 files, four dedicated sections), and a generic natural-kinds hub (fails the style guide's selective-background rule).
+- **Tasks minted**: 3 × P3, all with repo-relative `File` paths where a file is targeted, and only on a reviewed article. `refine-draft` on `obsidian/concepts/degrees-of-consciousness.md` (lead-sentence ordering: "Consciousness is not binary" qualified 180 words later, truncation-hostile under the LLM-first rule; plus the missing Further Reading reciprocal to `is-conscious-being-a-natural-kind`, one-way link measured both directions). `research-topic` on phenomenal structuralism. `expand-topic` on the coupling-engagement condition.
+- **Output**: [optimistic-2026-09-06-kinds-and-vagueness-wing](/reviews/optimistic-2026-09-06-kinds-and-vagueness-wing/)
 
 ## 2026-09-06T14:19:52+00:00 - deep-review (cross-review)
 - **Status**: Success
