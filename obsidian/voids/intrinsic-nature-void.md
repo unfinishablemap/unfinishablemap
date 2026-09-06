@@ -4,7 +4,7 @@ description: "Physics describes what matter does but not what it is. Consciousne
 created: 2026-01-27
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-06-02T07:24:27+00:00
+ai_modified: 2026-09-06T14:19:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -136,6 +136,7 @@ The void would be undermined if: (1) physics reveals non-relational, non-structu
 - [[self-opacity|self-reference paradox]] — Why consciousness cannot fully examine itself
 - [[constitutive-exclusion]] — Why consciousness cannot access reality independent of its own contribution
 - [[binding-void]] — Why phenomenal unity resists explanation
+- [[ontic-structural-realism]] — The ontology on which matter has no hidden intrinsic nature, so the matter-facing half of this void has nothing to conceal
 - [[conceptual-scheme-void|The Conceptual Scheme Void]] — A complementary axis of ignorance: the intrinsic nature void concerns unknown *content* behind known structure, while the conceptual scheme void concerns a missing *shape* any concept of that content would have to take. The two voids compound if matter's intrinsic nature requires a categorial schema our apparatus cannot produce.
 
 ## References

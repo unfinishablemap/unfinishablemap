@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-08-04 00:28:49+00:00
+ai_modified: 2026-09-06 14:19:52+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 13:22:00+00:00
-lastmod: 2026-08-04 00:28:49+00:00
+lastmod: 2026-09-06 14:19:52+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -58,7 +58,9 @@ The argument has a simple logical form:
 2. The consciousness-physics interface involves something non-structural (actuality, phenomenal experience).
 3. Therefore, mathematics cannot fully describe the interface.
 
-The conclusion follows unless one of the premises is false—either mathematics describes more than structure, or consciousness is structural after all. The Map's tenets commit to the second premise. The first premise—that mathematics is essentially structural—is itself a philosophical position (associated with Russell's structural realism and later formalised in mathematical structuralism). Not all philosophers of mathematics accept it; some argue that mathematical objects have intrinsic natures beyond their relational properties. But no existing mathematical framework demonstrates non-structural content, and physics' exclusive reliance on structural description supports the premise empirically even if it remains debatable metaphysically.
+The conclusion follows unless one of the premises is false—either mathematics describes more than structure, or consciousness is structural after all. The Map's tenets commit to premise 2. The first premise—that mathematics is essentially structural—is itself a philosophical position (associated with Russell's structural realism and later formalised in mathematical structuralism). Not all philosophers of mathematics accept it; some argue that mathematical objects have intrinsic natures beyond their relational properties. But no existing mathematical framework demonstrates non-structural content, and physics' exclusive reliance on structural description supports the premise empirically even if it remains debatable metaphysically.
+
+Which escape a structuralist takes matters. [Ontic structural realism](/concepts/ontic-structural-realism/) — the thesis that relational structure is all there fundamentally is — denies matter any intrinsic nature and still leaves premise 2 standing, since an ontology without quiddities does not yet make *experience* structural. The consciousness-is-structural escape needs phenomenal structuralism instead, a separate commitment whose proponents decline the ontic reading. Why the Map prefers the epistemic reading of structural realism, and why Newman's problem presses that reading too, sits on [the structural-realism page](/concepts/ontic-structural-realism/#the-choice).
 
 ## The Born Rule as Structural Ceiling
 
@@ -133,6 +135,7 @@ The interface formalization void is generated directly by the Map's tenets, spec
 - [The Quantitative Comprehension Void — abstract mathematical ceiling](/voids/the-quantitative-comprehension-void/#the-abstract-mathematical-ceiling) — Where formal manipulation succeeds but understanding fails
 - [nomic-void](/voids/nomic-void/) — Cognitive limits imposed by the laws of physics
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter is in itself, beyond relational description
+- [ontic-structural-realism](/concepts/ontic-structural-realism/) — The ontology on which there is no non-structural remainder to formalise, and why the Map declines it
 - [formal-cognitive-limits](/voids/formal-cognitive-limits/) — Gödel's shadow on self-knowledge
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — How each tenet generates its characteristic void
 - [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) — The mathematical corridor consciousness must pass through

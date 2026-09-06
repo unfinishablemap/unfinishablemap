@@ -4,7 +4,7 @@ description: "Russellian monism claims quiddities ground consciousness, but face
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-08-01T13:30:19+00:00
+ai_modified: 2026-09-06T14:19:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -149,6 +149,7 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 - [[bi-aspectual-ontology]] — The Map's foundational ontology: structure and actuality as irreducible interacting aspects
 - [[consciousness-and-the-metaphysics-of-laws-and-dispositions]] — How the powerful qualities framework offers an alternative to quiddities
 - [[intrinsic-nature-void]] — Why physics cannot capture intrinsic nature
+- [[ontic-structural-realism]] — The reading of the structuralist premise that dissolves the quiddities this view identifies consciousness with
 - [[interactionist-dualism]] — the Map's preferred alternative
 - [[russellian-monism-versus-bi-aspectual-dualism]] — Direct comparison with the Map's bi-aspectual dualism
 - [[four-quadrant-dualism-taxonomy]] — Why Russellian monism's variants span opposing quadrants on the thickness axis

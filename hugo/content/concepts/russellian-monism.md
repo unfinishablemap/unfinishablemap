@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-08-01 13:30:19+00:00
+ai_modified: 2026-09-06 14:19:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 01:47:17+00:00
-lastmod: 2026-08-01 13:30:19+00:00
+lastmod: 2026-09-06 14:19:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -153,6 +153,7 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 - [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/) — The Map's foundational ontology: structure and actuality as irreducible interacting aspects
 - [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) — How the powerful qualities framework offers an alternative to quiddities
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics cannot capture intrinsic nature
+- [ontic-structural-realism](/concepts/ontic-structural-realism/) — The reading of the structuralist premise that dissolves the quiddities this view identifies consciousness with
 - [interactionist-dualism](/concepts/interactionist-dualism/) — the Map's preferred alternative
 - [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) — Direct comparison with the Map's bi-aspectual dualism
 - [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) — Why Russellian monism's variants span opposing quadrants on the thickness axis

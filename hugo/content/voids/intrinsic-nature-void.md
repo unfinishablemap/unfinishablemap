@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-06-02 07:24:27+00:00
+ai_modified: 2026-09-06 14:19:52+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 18:02:54+00:00
-lastmod: 2026-06-02 07:24:27+00:00
+lastmod: 2026-09-06 14:19:52+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -140,6 +140,7 @@ The void would be undermined if: (1) physics reveals non-relational, non-structu
 - [self-reference paradox](/voids/self-opacity/) — Why consciousness cannot fully examine itself
 - [constitutive-exclusion](/topics/constitutive-exclusion/) — Why consciousness cannot access reality independent of its own contribution
 - [binding-void](/voids/binding-void/) — Why phenomenal unity resists explanation
+- [ontic-structural-realism](/concepts/ontic-structural-realism/) — The ontology on which matter has no hidden intrinsic nature, so the matter-facing half of this void has nothing to conceal
 - [The Conceptual Scheme Void](/voids/conceptual-scheme-void/) — A complementary axis of ignorance: the intrinsic nature void concerns unknown *content* behind known structure, while the conceptual scheme void concerns a missing *shape* any concept of that content would have to take. The two voids compound if matter's intrinsic nature requires a categorial schema our apparatus cannot produce.
 
 ## References

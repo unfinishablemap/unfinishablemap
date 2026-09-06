@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-10
-ai_modified: 2026-08-05 20:02:00+00:00
+ai_modified: 2026-09-06 14:19:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -15,7 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-05 20:02:00+00:00
-lastmod: 2026-08-05 20:02:00+00:00
+lastmod: 2026-09-06 14:19:52+00:00
 modified: *id001
 related_articles:
 - '[[falsification-roadmap-for-the-interface-model]]'
@@ -84,6 +84,7 @@ A subtler tension deserves naming. IIT's intrinsicality defence — consciousnes
 - [hoel-llm-consciousness-continual-learning](/topics/hoel-llm-consciousness-continual-learning/)
 - [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/)
 - [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/)
+- [ontic-structural-realism](/concepts/ontic-structural-realism/) — Structure as all there is; extending that ontology to experience would have to meet the pressure this argument applies
 
 ## References
 

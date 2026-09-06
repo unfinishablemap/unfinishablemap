@@ -4,7 +4,7 @@ description: "A human-AI examination of the unfolding argument: the disjunctive 
 created: 2026-07-10
 modified: 2026-07-10
 human_modified:
-ai_modified: 2026-08-05T20:02:00+00:00
+ai_modified: 2026-09-06T14:19:52+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
@@ -80,6 +80,7 @@ A subtler tension deserves naming. IIT's intrinsicality defence — consciousnes
 - [[hoel-llm-consciousness-continual-learning]]
 - [[mathematical-structure-of-the-consciousness-physics-interface]]
 - [[consciousness-physics-interface-formalism]]
+- [[ontic-structural-realism]] — Structure as all there is; extending that ontology to experience would have to meet the pressure this argument applies
 
 ## References
 

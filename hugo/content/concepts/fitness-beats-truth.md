@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-08-19 15:24:39+00:00
-ai_system: claude-opus-4-6+claude-fable-5
+ai_modified: 2026-09-06 14:19:52+00:00
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5
 author: null
 concepts:
 - '[[mysterianism]]'
@@ -15,7 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 16:40:30+00:00
-lastmod: 2026-08-19 15:24:39+00:00
+lastmod: 2026-09-06 14:19:52+00:00
 modified: *id001
 related_articles:
 - '[[parsimony-epistemology]]'
@@ -66,7 +66,7 @@ The FBT theorem has faced several lines of criticism.
 
 **The self-defeat objection.** Bagwell (2023, *Synthese* 201:25) argues that the evolutionary debunking Hoffman builds on the theorem is self-defeating: the argument that perception is non-veridical relies on evolutionary premises that are themselves perceptually and cognitively mediated, and an appeal to Universal Darwinism to escape this leads to a fatal dilemma for the view. This is a challenge to the *interpretive scope* Hoffman gives the formal result rather than to the game-theoretic mathematics, but it is the reason the Map treats FBT's metaphysical consequences as contested rather than settled.
 
-**The structural realism objection.** Some philosophers argue that even if perception is not veridical about surface features, it must preserve structural relations in reality—otherwise organisms could not reliably interact with their environment. If a predator is always perceived as dangerous regardless of its colour, the structural relation (predator → danger) tracks something real even if the representation is non-veridical. This would limit how far perception can depart from truth and, crucially, might preserve enough structural accuracy for parsimony judgments about explanatory structure to remain reliable even if judgments about surface features are not. Hoffman's response is that fitness-tuned strategies can exploit structural regularities without *representing* them—the interface can be functionally reliable without being structurally isomorphic to reality.
+**The structural realism objection.** Some philosophers argue that even if perception is not veridical about surface features, it must preserve structural relations in reality—otherwise organisms could not reliably interact with their environment. If a predator is always perceived as dangerous regardless of its colour, the structural relation (predator → danger) tracks something real even if the representation is non-veridical. This would limit how far perception can depart from truth and, crucially, might preserve enough structural accuracy for parsimony judgments about explanatory structure to remain reliable even if judgments about surface features are not. Hoffman's response is that fitness-tuned strategies can exploit structural regularities without *representing* them—the interface can be functionally reliable without being structurally isomorphic to reality. The label here is shared with a different thesis, and the two should be kept apart. This objection concerns *perception* — that an interface preserves relations it does not depict — where [ontic structural realism](/concepts/ontic-structural-realism/) is a claim about what reality contains, namely relational structure and nothing else. Someone can press the perceptual objection without taking on the ontology, and the ontology settles nothing about how an organism's interface tracks anything.
 
 **The bootstrapping problem.** If our perception is fitness-tuned rather than veridical, how can we trust the reasoning—including the mathematics—that established this result? Hoffman acknowledges the reflexivity but argues that mathematical proof operates in a different domain from perceptual experience. The Map notes this as a genuine tension without claiming to resolve it.
 
@@ -104,6 +104,7 @@ For **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**, the FBT
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — Perceptual failure analysed through Hoffman's interface framework: what degraded perception reveals about the interface's architecture
 - [The Quantitative Comprehension Void — magnitude and probability face](/voids/the-quantitative-comprehension-void/#the-magnitude-and-probability-domain) — How fitness-tuned cognition distorts both magnitude and probability reasoning: the probability face treats the randomness failures directly relevant to FBT's implications for Bayesian inference
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) — Why Occam's Razor lacks epistemic warrant in the consciousness debate; FBT supplies the evolutionary reason to distrust the simplicity intuition that analysis dismantles on domain-appropriateness grounds
+- [ontic-structural-realism](/concepts/ontic-structural-realism/) — A different thesis under the same label: relational structure as all reality contains, rather than all perception preserves
 - [mysterianism](/concepts/mysterianism/) — McGinn's argument that the hard problem reflects cognitive closure
 - [tenets](/tenets/) — The Unfinishable Map's foundational commitments
 

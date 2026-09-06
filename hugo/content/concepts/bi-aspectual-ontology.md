@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-06-25 19:08:00+00:00
+ai_modified: 2026-09-06 14:19:52+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 19:33:00+00:00
-lastmod: 2026-06-25 19:08:00+00:00
+lastmod: 2026-09-06 14:19:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -158,6 +158,7 @@ Bi-aspectual ontology is the Map's foundational metaphysical picture, connecting
 - [substance-property-dualism](/concepts/substance-property-dualism/) — The traditional dualist options the Map navigates between
 - [integrated-information-theory](/concepts/integrated-information-theory/) — Consciousness as integrated information; ally on irreducibility, rival on causal role
 - [qbism](/concepts/qbism/) — Agent-centred quantum mechanics that dissolves the measurement problem without ontological selection
+- [ontic-structural-realism](/concepts/ontic-structural-realism/) — The position on which there is no non-structural aspect for matter to have; whether the denial extends to experience is a separate commitment
 
 ## References
 

@@ -4,7 +4,7 @@ description: "Reality has two irreducible aspects — structure (physics) and ac
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-06-25T19:08:00+00:00
+ai_modified: 2026-09-06T14:19:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -154,6 +154,7 @@ Bi-aspectual ontology is the Map's foundational metaphysical picture, connecting
 - [[substance-property-dualism]] — The traditional dualist options the Map navigates between
 - [[integrated-information-theory]] — Consciousness as integrated information; ally on irreducibility, rival on causal role
 - [[qbism]] — Agent-centred quantum mechanics that dissolves the measurement problem without ontological selection
+- [[ontic-structural-realism]] — The position on which there is no non-structural aspect for matter to have; whether the denial extends to experience is a separate commitment
 
 ## References
 

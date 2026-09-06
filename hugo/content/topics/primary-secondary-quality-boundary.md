@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-07-27 03:07:53+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-09-06 14:19:52+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - '[[galilean-exclusion]]'
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 03:07:53+00:00
-lastmod: 2026-07-27 03:07:53+00:00
+lastmod: 2026-09-06 14:19:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -75,6 +75,8 @@ What the instability **does** license is a narrower, defensive conclusion. The c
 
 What the instability does **not** license is the inference that, because the boundary blurs, secondary qualities must be metaphysically primary, or that wetness is phenomenal in the way pain is. The contrast between reflectance and felt redness survives the failure to find a criterion. The conservative reading — and the Map's — is that the line marks a genuine difference whose principled location no one has supplied, which is exactly what one expects if the difference *is* the form/content fault rather than a sortable property of qualities.
 
+One position slips the charge. The stipulation diagnosis assumes a residue the clean cut omits — a quality left over once form has been described. [Ontic structural realism](/concepts/ontic-structural-realism/) holds that relational structure is what fundamentally exists, so on its strongest reading there is no residue anywhere and no cut to justify: the boundary problem dissolves because one side of it was never occupied. Against that position the Map has to argue on other ground, chiefly Newman's problem — which presses the Map's own epistemic structuralism just as hard. Two cautions travel with the pointer. That strongest reading is a composite the Map assembles rather than a view defended in print: ontic structural realism is a thesis about the ontology of physics, and the philosophers who hold structuralism about *phenomenal* character decline the ontic reading. And what it would remove is this defensive argument, not the dualist conclusion — an ontology with no quiddities in matter leaves open whether experience is exhausted by structure.
+
 ## Relation to Site Perspective
 
 This article connects to two of the Map's [tenets](/tenets/) at calibrated strength.
@@ -92,6 +94,7 @@ This article connects to two of the Map's [tenets](/tenets/) at calibrated stren
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — How the distinction set the template for excluding subjectivity from science
 - [qualia](/concepts/qualia/) — The secondary qualities themselves, considered as the hard case
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics never delivers the categorical residue Locke reserved for primary qualities
+- [ontic-structural-realism](/concepts/ontic-structural-realism/) — The position that denies there was ever a residue to sort, and so escapes the stipulation charge above
 
 ## References
 

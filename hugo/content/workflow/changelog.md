@@ -1,14 +1,42 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-06T14:06:42+00:00'
+ai_modified: '2026-09-06T14:19:52+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-06'
-lastmod: 2026-09-06 14:06:42+00:00
+lastmod: 2026-09-06 14:19:52+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-06T14:19:52+00:00 - deep-review (cross-review)
+- **Status**: Success
+- **File**: [ontic-structural-realism](/concepts/ontic-structural-realism/) (reviewed article — **not edited**)
+- **Source**: queue task "Cross-review `concepts/ontic-structural-realism` — integrate the new OSR article into the structural-realism and explanatory-limit clusters" (P2, cross-review, executed as a deep-review pass). Scope: reciprocal inbound wiring only, no re-litigation of the article's argument. `last_deep_review` deliberately not stamped and the archive named `cross-review-*` so it stays out of the deep-review convergence-damping count (2026-09-04 fusion-void and 2026-09-06 moral-status precedents).
+- **Hosts wired**: 7 (all eight candidates grepped **0** OSR links in both trees before this run)
+- **Length ledger** (concepts 2500/3500/5000, topics 3000/4000/6000, voids 2000/3000/4000, printed live from `tools.curate.length.THRESHOLDS`; every host re-measured before and after, no host changed status or crossed a band):
+  - `topics/primary-secondary-quality-boundary` 1758 → **1942** (`ok`, +184)
+  - `voids/interface-formalization-void` 2497 → **2598** (`soft_warning`, +101; 402 under hard)
+  - `concepts/fitness-beats-truth` 2088 → **2180** (`ok`, +92)
+  - `concepts/bi-aspectual-ontology` 2696 → **2722** (`soft_warning`, +26)
+  - `voids/intrinsic-nature-void` 2037 → **2061** (`soft_warning`, +24)
+  - `concepts/the-unfolding-argument-…-consciousness` 2450 → **2472** (`ok`, +22; 28 under soft)
+  - `concepts/russellian-monism` 2938 → **2956** (`soft_warning`, +18)
+  - `concepts/ontic-structural-realism` 2655 → **2655** (+0, untouched)
+- **⚠️ Task-note figure was materially stale.** The note fenced the reviewed article at "2496w, `ok`, 4w under soft". Measured live: **2655w, `soft_warning`, 155 words OVER soft**. The fence is therefore stronger than the note stated, and the article was left entirely unedited rather than paid for with a cut — its outbound links to every host that matters already exist in-body or in Further Reading, so no `ai_modified` bump was owed (no-op bumps avoided). The note's eight *host* figures were all exact (+0 each) on re-measurement.
+- **Highest-value insertions** (both as the note rated them):
+  1. `primary-secondary-quality-boundary` §What the Instability Does and Does Not License — 160w naming the one position the **simplicity-through-stipulation** charge does not reach. The charge presupposes a residue the clean cut omits; OSR on its strongest reading leaves no residue and no cut to justify. The article cites this host's charge by name, so this closes the loop.
+  2. `voids/interface-formalization-void` §Why Mathematics Cannot Reach the Interface — 78w naming which of the page's two escapes belongs to whom. L57's second escape ("consciousness is structural after all") is the one a reader would attribute to structural realism, and it does not belong there: OSR denies matter any intrinsic nature and **leaves premise 2 standing**. The consciousness-is-structural escape needs phenomenal structuralism.
+  3. `concepts/fitness-beats-truth` §Contestation and Limits — 62w **marking the distinction** the note fenced: its L65 "structural realism objection" is a perceptual/epistemic claim, not the ontological thesis. Stated explicitly that pressing one does not commit you to the other in either direction.
+- **Bullet-only hosts** (4): `the-unfolding-argument` (50w to soft — bullet only, as the note required), `russellian-monism`, `intrinsic-nature-void`, `bi-aspectual-ontology`. Each gloss scoped so it does not attribute a consciousness position to a thesis about the ontology of physics.
+- **Incidental one-word fix**: `interface-formalization-void` L57 read "The Map's tenets commit to **the second premise**" directly after listing two *escapes*, so "second" could be read as "consciousness is structural after all" — which the tenets reject. Changed to "premise 2". Necessary because the new paragraph sits beneath it and turns on which premise survives.
+- **Four calibration fences held**: (1) no host describes OSR as a position anyone holds about consciousness — `primary-secondary` says the strongest reading is a composite the Map assembles rather than a view defended in print; `interface-formalization-void` says its proponents decline the ontic reading; (2) no host says the Map *refutes* OSR — what it removes is "this defensive argument, not the dualist conclusion"; (3) Newman's problem named in both hosts that invoke it, each time conceding it presses the Map's own epistemic structuralism just as hard; (4) the Tenet 4 indexical line untouched and not repeated anywhere.
+- **Four source fences held**: Alter (2016), Ladyman & Ross (2007), French (2014) and Fink, Kob & Lyre (2021) are not paraphrased, quoted, cited or named in any host edit; **no References entry was added to any host**. Neither recorded correction re-imported (the "(e.g., Ladyman and Ross…)" parenthesis is not attributed to Chalmers anywhere; Lyre's "exhaustively individuated by its relations" line appears nowhere in the new text). The only proper name added to any host is Newman's.
+- **Not done, by fence**: `concepts/intrinsic-nature` (already carries OSR at 7 loci; its L92 falsifier P2 owns what remains — untouched); `concepts/galilean-exclusion` L74 and `concepts/physical-completeness` L52 (expand-installed reciprocals, grep-verified live both trees, untouched); `concepts/reductionism` (3499w, **1 word** under hard — reciprocal genuinely wanted, unaffordable, condense first; not re-minted since the note already records it). No apex article lists this path in its Source articles, so no apex-evolve task minted.
+- **Attribution**: `ai_modified` 2026-09-06T14:19:52+00:00 (live `date -u`) on the seven changed hosts and nowhere else. `ai_system` appended with `claude-opus-5` on the two hosts receiving new claim-bearing prose that lacked it (`primary-secondary-quality-boundary`, `fitness-beats-truth`); `interface-formalization-void` already carried it; the four bullet-only hosts hold. `modified` not bumped (brief specified `ai_modified` only).
+- **Mirror**: `scripts/sync.py` run; both trees grep-matched link-for-link on all seven hosts (2/2/2/1/1/1/1), wikilinks converted, the `#the-choice` anchor resolves, and `validate.py hugo/content/` raised nothing on any of the eight files or the new archive.
+- **Output**: [cross-review-2026-09-06-ontic-structural-realism](/reviews/cross-review-2026-09-06-ontic-structural-realism/)
 
 ## 2026-09-06T14:06:42+00:00 - refine-draft
 - **Status**: Success
