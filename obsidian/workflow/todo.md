@@ -112,12 +112,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-09-06
 
-### P3: Research Diachronic harm and the deprivation account of death for momentary experiential loci
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (outer-review-synthesis-2026-09-05.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. Re-raised by outer-review-synthesis-2026-09-05 S4 (ChatGPT 5.6 Pro): the no-self reply 'secures token phenomenal badness but not status, wronging or diachronic welfare' and 'the target page uses the momentary-locus answer to preserve the full moral-status derivation without lowering its credence or maturity. That is overreach.' The synthesis folded it into the calibration task as rationale only; no article owns the step. The Map's own no-self article calls the construction of diachronic welfare from momentary loci its least-developed part, and 'deprivation account' occurs in 0 live files. A dedicated treatment (Epicurean and deprivation accounts of death's badness, Parfitian reductionism about prudential concern, which continuing entity is the beneficiary of harm and the bearer of rights) would supply the step P-MS1's momentary-locus bearership currently borrows without argument. Deferred over the mint cap on the 2026-09-05 morning run; now re-raised. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/diachronic-harm-and-momentary-experiential-loci-2026-09-05.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'diachronic-harm-and-momentary-experiential-loci' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-09-05
-
 ### P3: `concepts/cumulative-culture` L154 and L198-202 carry the two moves withdrawn from `teaching-as-metarepresentation` on 2026-09-05 — the "neural resources comparable to early hominins" claim and the No Many Worlds indexical-identity argument
 - **Type**: refine-draft
 - **File**: obsidian/concepts/cumulative-culture.md
@@ -2147,6 +2141,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-06: Research Diachronic harm and the deprivation account of death for momentary experiential loci
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-synthesis-2026-09-05.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. Re-raised by outer-review-synthesis-2026-09-05 S4 (ChatGPT 5.6 Pro): the no-self reply 'secures token phenomenal badness but not status, wronging or diachronic welfare' and 'the target page uses the momentary-locus answer to preserve the full moral-status derivation without lowering its credence or maturity. That is overreach.' The synthesis folded it into the calibration task as rationale only; no article owns the step. The Map's own no-self article calls the construction of diachronic welfare from momentary loci its least-developed part, and 'deprivation account' occurs in 0 live files. A dedicated treatment (Epicurean and deprivation accounts of death's badness, Parfitian reductionism about prudential concern, which continuing entity is the beneficiary of harm and the bearer of rights) would supply the step P-MS1's momentary-locus bearership currently borrows without argument. Deferred over the mint cap on the 2026-09-05 morning run; now re-raised. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/diachronic-harm-and-momentary-experiential-loci-2026-09-05.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'diachronic-harm-and-momentary-experiential-loci' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-09-06: `apex/consciousness-and-agency` cites Schurger et al. 2012, Sjöberg 2024, Saad 2025 and Tegmark 2000 in the body (L90, L130, L138) and lists none of them in §References — citation pass, length-neutral apart from the four entries
 - **Type**: refine-draft
