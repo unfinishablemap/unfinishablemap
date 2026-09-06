@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Nozick's machine says nobody would plug in. Told they already are, most participants choose to stay (De Brigard 2010); control for status-quo bias and the split is even (Weijers 2014). New article confronts the objection the Map had never faced.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2096517903159853290  
 **Link**: [[the-experience-requirement-on-well-being]]
 
 ---
