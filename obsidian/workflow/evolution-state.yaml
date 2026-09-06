@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-06T22:37:33.695614+00:00'
-session_count: 20113
-cycle_position: 13202
+last_updated: '2026-09-06T23:01:12.534218+00:00'
+session_count: 20114
+cycle_position: 13203
 last_runs:
   add-highlight: '2026-09-06T08:39:40.268795+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-06T20:51:19.084078+00:00'
+  agentic-social: '2026-09-06T23:04:44.552274+00:00'
   apex-evolve: '2026-09-05T15:27:41.253176+00:00'
   check-links: '2026-09-06T21:33:59.400572+00:00'
   check-model-fallback: '2026-09-06T19:30:38.759607+00:00'
@@ -25,7 +21,7 @@ last_runs:
   commission-gemini-review: '2026-09-06T06:44:50.807771+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
-  deep-review: '2026-09-06T18:50:46.570197+00:00'
+  deep-review: '2026-09-06T23:01:12.534218+00:00'
   embed-videos: '2026-09-06T21:15:47.935047+00:00'
   expand-topic: '2026-09-06T17:25:55.292321+00:00'
   harvest-research-subjects: '2026-09-06T19:46:27.199123+00:00'
@@ -109,7 +105,7 @@ progress:
   voids_written: 102
   positions_written: 18
   research_notes: 574
-  reviews_completed: 7435
+  reviews_completed: 7436
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -118,11 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-09-06'
-  outcome: success
-  kind: cycle
 - task: agentic-social
   type: agentic-social
   date: '2026-09-06'
@@ -218,6 +209,11 @@ recent_tasks:
   date: '2026-09-06'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-09-06'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agency-budget/
@@ -523,6 +519,12 @@ agentic_social:
     - basal-and-bioelectric-cognition
     - plant-cognition-and-the-plant-neurobiology-debate
     - the-cognitive-immune-system-and-immunological-selfhood
+  - url: https://unfinishablemap.org/concepts/locality/
+    date: '2026-09-06T23:04:44.552242+00:00'
+    topics:
+    - the-interface-problem
+    - quantum-consciousness
+    - dualism
 queue_status:
   last_replenishment: '2026-09-06T00:07:30+00:00'
   last_replenishment_mode: aggressive
