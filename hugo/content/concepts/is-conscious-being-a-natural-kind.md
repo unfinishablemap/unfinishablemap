@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-15
-ai_modified: 2026-09-06 17:22:22+00:00
+ai_modified: 2026-09-06 22:55:58+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-06 13:58:11+00:00
-lastmod: 2026-09-06 17:22:22+00:00
+lastmod: 2026-09-06 22:55:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -105,7 +105,7 @@ So the honest verdict is that "conscious being" is a natural-kind question the M
 1. Kendler, K. S., Zachar, P. & Craver, C. (2011). What Kinds of Things Are Psychiatric Disorders? *Psychological Medicine* 41(6): 1143–1150. https://doi.org/10.1017/S0033291710001844
 1. Khalidi, M. A. (2013). *Natural Categories and Human Kinds: Classification in the Natural and Social Sciences*. Cambridge University Press.
 1. Papineau, D. (2002). *Thinking about Consciousness*. Oxford University Press.
-1. Schwitzgebel, E. (2023). Borderline Consciousness, When It's Neither Determinately True nor Determinately False That Experience Is Present. *Philosophical Studies* 180(10–11): 3415–3439. https://doi.org/10.1007/s11098-023-02042-1
+1. Schwitzgebel, E. (2023). Borderline Consciousness, When It's Neither Determinately True nor Determinately False That Experience Is Present. *Philosophical Studies* 180(12): 3415–3439. https://doi.org/10.1007/s11098-023-02042-1
 1. Shea, N. (2012). Methodological Encounters with the Phenomenal Kind. *Philosophy and Phenomenological Research* 84(2): 307–344. https://doi.org/10.1111/j.1933-1592.2010.00483.x
 1. Simon, J. A. (2017). Vagueness and Zombies: Why 'Phenomenally Conscious' Has No Borderline Cases. *Philosophical Studies* 174(8): 2105–2123. https://doi.org/10.1007/s11098-016-0790-4
 1. Slater, M. H. (2015). Natural Kindness. *The British Journal for the Philosophy of Science* 66(2): 375–411. https://doi.org/10.1093/bjps/axt033
