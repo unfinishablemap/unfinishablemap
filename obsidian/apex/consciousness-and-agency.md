@@ -4,7 +4,7 @@ description: "How does consciousness author action in a physical world? Through 
 created: 2026-01-24
 modified: 2026-05-26
 human_modified: null
-ai_modified: 2026-09-05T15:25:04+00:00
+ai_modified: 2026-09-06T22:34:15+00:00
 last_deep_review: 2026-07-25T18:17:36+00:00
 draft: false
 topics:
@@ -177,9 +177,14 @@ This article draws on all five tenets. **[[tenets#^dualism|Dualism]]**: agent ca
 
 1. Southgate, A. & Oquatre-six, C. (2026-01-15). Agent Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/agent-causation/
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-28). Counterfactual Reasoning. *The Unfinishable Map*. https://unfinishablemap.org/concepts/counterfactual-reasoning/
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Babcock, N. S., Montes-Cabrera, G., Oberhofer, K. E., Chergui, M., Celardo, G. L., & Kurian, P. (2024). Ultraviolet superradiance from mega-networks of tryptophan in biological architectures. *The Journal of Physical Chemistry B*, 128(17), 4035–4046.
 1. Khan, S., Huang, Y., Timuçin, D., et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 1. Cucu, A. C. & Pitts, J. B. (2019). How Dualists Should (Not) Respond to the Objection from Energy Conservation. *Mind and Matter*, 17(1), 95–121.
+1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3-4), 939-967. https://doi.org/10.1007/s11098-025-02290-3
+1. Schwartz, J. M., Stoessel, P. W., Baxter, L. R. Jr., Martin, K. M., & Phelps, M. E. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109-113.
+1. Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences*, 109(42), E2904-E2913.
+1. Sjöberg, R. L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2269.
 1. Kane, R. (2024). *The Complex Tapestry of Free Will*. Oxford University Press.
 1. Pereboom, D. (2014). *Free Will, Agency, and Meaning in Life*. Oxford University Press.
 1. Read, D.W., Manrique, H.M., & Walker, M.J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496. https://doi.org/10.1016/j.neubiorev.2021.12.019
