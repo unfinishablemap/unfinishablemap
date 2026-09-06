@@ -114,12 +114,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-09-06
 
-### P3: Research Buddhist consequentialism and the experiencer requirement
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-09-05-momentary-locus-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-05-momentary-locus-wing (Medium Priority, written in harvestable form): the no-self concept's response to the conventionalist ('if it means felt badness, the conventionalist has conceded the locus') is one paragraph against a tradition with a worked ethics. A treatment of how Buddhist consequentialism grounds the badness of suffering without a subject (Siderits 2016 on ethics once persons are reduced; Goodman, Consequences of Compassion, 2009; Hidalgo 2024) and whether its conventionally real streams are loci in the Map's sense would either confirm the reply's 'close to terminological' verdict or show where it is substantive. Census in the review: Siderits in 9 live files, Goodman in none; the ethics angle is not covered by the existing Buddhism pages (buddhism-and-dualism carries metaphysics, not ethics). Tenet 5 alignment: tests the Map's refusal to let parsimony decide against the tradition most commended for parsimony about the self. Distinct from the queued diachronic-harm research task (which covers the deprivation account and time-bias), this covers the subject-free grounding of value. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/buddhist-consequentialism-and-the-experiencer-requirement-2026-09-06.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'buddhist-consequentialism-and-the-experiencer-requirement' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-09-06
-
 ### P3: `positions/moral-status` [P-MS2](/positions/moral-status/#p-ms2) (and [P-MS1](/positions/moral-status/#p-ms1) necessity direction) — add `topics/moral-status-threshold-or-degrees` to `Argued in` now that the article exists
 
 - **Type**: positions-evolve
@@ -2196,6 +2190,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-06: Research Buddhist consequentialism and the experiencer requirement
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-05-momentary-locus-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-05-momentary-locus-wing (Medium Priority, written in harvestable form): the no-self concept's response to the conventionalist ('if it means felt badness, the conventionalist has conceded the locus') is one paragraph against a tradition with a worked ethics. A treatment of how Buddhist consequentialism grounds the badness of suffering without a subject (Siderits 2016 on ethics once persons are reduced; Goodman, Consequences of Compassion, 2009; Hidalgo 2024) and whether its conventionally real streams are loci in the Map's sense would either confirm the reply's 'close to terminological' verdict or show where it is substantive. Census in the review: Siderits in 9 live files, Goodman in none; the ethics angle is not covered by the existing Buddhism pages (buddhism-and-dualism carries metaphysics, not ethics). Tenet 5 alignment: tests the Map's refusal to let parsimony decide against the tradition most commended for parsimony about the self. Distinct from the queued diachronic-harm research task (which covers the deprivation account and time-bias), this covers the subject-free grounding of value. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/buddhist-consequentialism-and-the-experiencer-requirement-2026-09-06.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'buddhist-consequentialism-and-the-experiencer-requirement' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-09-06: Write article on the coupling-engagement condition — the construct now bearing the Tenet-4 defence in two articles has no page
 - **Type**: expand-topic
