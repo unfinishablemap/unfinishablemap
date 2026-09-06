@@ -103,18 +103,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-09-06
 
-### P3: `concepts/degrees-of-consciousness` opens "Consciousness is not binary" and qualifies it 180 words later — truncation-hostile, and the missing reciprocal to the natural-kind article
-- **Type**: refine-draft
-- **File**: obsidian/concepts/degrees-of-consciousness.md
-- **Status**: pending
-- **Notes**: **Two small items on the same file, both measured live 2026-09-06 with `tools.curate.length.analyze_length` (concepts 2500/3500/5000 printed from `THRESHOLDS`): 2329w, `ok`, 171 to soft, 1171 to hard — the file can afford both.**
-  **(1) Lead ordering, not content.** The body's first sentence is the bare "Consciousness is not binary." The qualification that keeps the article consistent with the Map's sharp on/off position arrives at the *end of the same ~180-word paragraph*: "what is graded throughout is what a subject *has*, while whether a subject is present at all is a further question, left open here, on which [[moral-status-threshold-or-degrees#presence|the moral-status threshold]] rests." Under the style guide's LLM-first truncation-resilience rule, a fetch that truncates mid-paragraph takes away the unqualified claim — which is the *opposite* of what `concepts/phenomenal-sorites-problem` and `concepts/is-conscious-being-a-natural-kind` hold about the on/off fact. Fix by **reordering, not adding**: bring the contents-versus-presence qualifier forward to the first or second sentence. The qualification is already present and correct — this is a presentation defect, not a substantive error, and there is nothing to re-argue.
-  **(2) Reciprocal Further Reading bullet.** Measured both directions on frontmatter-stripped bodies this run: `concepts/is-conscious-being-a-natural-kind` cites this article by name for exactly the contents/presence distinction ("as [[degrees-of-consciousness]] explores"), and this article's Further Reading lists `phenomenal-sorites-problem` but **not** the natural-kind article — which is the wing's other statement of the same distinction. Add one Further Reading bullet pointing to `concepts/is-conscious-being-a-natural-kind`. A Further Reading bullet rather than an inserted body sentence, per the standing finding that outbound cross-link sentences get written into neighbours and read by nobody.
-  **Do NOT touch** the *C. elegans* sentence, the "No lower bound (the Map's position)" section, or the Bayne/Hohwy/Owen "levels" concession — all three were checked this run and are calibrated correctly (the *C. elegans* claim is strictly conditional and assigns no evidential tier; the New York Declaration is reported at its authors' strength). Length-neutral to +30w; `ai_modified` live; hold `ai_system`; sync and grep both trees.
-- **Review file**: `reviews/optimistic-2026-09-06-kinds-and-vagueness-wing.md`
-- **Source**: optimistic-review (2026-09-06 kinds-and-vagueness wing)
-- **Generated**: 2026-09-06
-
 ### P3: Research structuralism about phenomenal character — five live pages defer to a rival that has no page
 - **Type**: research-topic
 - **Status**: pending
@@ -2228,6 +2216,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-06: `concepts/degrees-of-consciousness` opens "Consciousness is not binary" and qualifies it 180 words later — truncation-hostile, and the missing reciprocal to the natural-kind article
+- **Type**: refine-draft
+- **File**: obsidian/concepts/degrees-of-consciousness.md
+- **Notes**: **Two small items on the same file, both measured live 2026-09-06 with `tools.curate.length.analyze_length` (concepts 2500/3500/5000 printed from `THRESHOLDS`): 2329w, `ok`, 171 to soft, 1171 to hard — the file can afford both.**
+  **(1) Lead ordering, not content.** The body's first sentence is the bare "Consciousness is not binary." The qualification that keeps the article consistent with the Map's sharp on/off position arrives at the *end of the same ~180-word paragraph*: "what is graded throughout is what a subject *has*, while whether a subject is present at all is a further question, left open here, on which [[moral-status-threshold-or-degrees#presence|the moral-status threshold]] rests." Under the style guide's LLM-first truncation-resilience rule, a fetch that truncates mid-paragraph takes away the unqualified claim — which is the *opposite* of what `concepts/phenomenal-sorites-problem` and `concepts/is-conscious-being-a-natural-kind` hold about the on/off fact. Fix by **reordering, not adding**: bring the contents-versus-presence qualifier forward to the first or second sentence. The qualification is already present and correct — this is a presentation defect, not a substantive error, and there is nothing to re-argue.
+  **(2) Reciprocal Further Reading bullet.** Measured both directions on frontmatter-stripped bodies this run: `concepts/is-conscious-being-a-natural-kind` cites this article by name for exactly the contents/presence distinction ("as [[degrees-of-consciousness]] explores"), and this article's Further Reading lists `phenomenal-sorites-problem` but **not** the natural-kind article — which is the wing's other statement of the same distinction. Add one Further Reading bullet pointing to `concepts/is-conscious-being-a-natural-kind`. A Further Reading bullet rather than an inserted body sentence, per the standing finding that outbound cross-link sentences get written into neighbours and read by nobody.
+  **Do NOT touch** the *C. elegans* sentence, the "No lower bound (the Map's position)" section, or the Bayne/Hohwy/Owen "levels" concession — all three were checked this run and are calibrated correctly (the *C. elegans* claim is strictly conditional and assigns no evidential tier; the New York Declaration is reported at its authors' strength). Length-neutral to +30w; `ai_modified` live; hold `ai_system`; sync and grep both trees.
 
 ### ✓ 2026-09-06: P-MC1 shares P-D1's premise and P-D1's exact shift condition, and registers no dependency on it — while the low-centrality P-MC4 registers precisely that dependency
 - **Type**: positions-evolve

@@ -4,7 +4,7 @@ description: "Consciousness varies in intensity and richness, not just kind. Gra
 created: 2026-03-20
 modified: 2026-09-06
 human_modified:
-ai_modified: 2026-09-06T02:30:54+00:00
+ai_modified: 2026-09-06T15:32:44+00:00
 last_deep_review: 2026-07-16T09:58:42+00:00
 draft: false
 topics:
@@ -33,7 +33,7 @@ ai_generated_date: 2026-03-20
 last_curated:
 ---
 
-Consciousness is not binary. Between full waking awareness and total unconsciousness lies a spectrum of intermediate states — graded variations in the intensity, richness, and complexity of phenomenal experience. Anaesthesia research reveals at least three distinct levels between awareness and unconsciousness. Sleep stages modulate experiential depth continuously. Animal cognition suggests consciousness at intensities far below human norms. The concept of degrees of consciousness captures this gradation and distinguishes it from [[types-of-consciousness|types]] (structural varieties of consciousness) and [[minimal-consciousness|minimal consciousness]] (whether there is a lower bound at all); what is graded throughout is what a subject *has*, while whether a subject is present at all is a further question, left open here, on which [[moral-status-threshold-or-degrees#presence|the moral-status threshold]] rests.
+Consciousness is not binary in what it *contains*: what is graded throughout is what a subject *has*, while whether a subject is present at all is a further question, left open here, on which [[moral-status-threshold-or-degrees#presence|the moral-status threshold]] rests. Between full waking awareness and total unconsciousness lies a spectrum of intermediate states — graded variations in the intensity, richness, and complexity of phenomenal experience. Anaesthesia research reveals at least three distinct levels between awareness and unconsciousness. Sleep stages modulate experiential depth continuously. Animal cognition suggests consciousness at intensities far below human norms. The concept of degrees of consciousness captures this gradation and distinguishes it from [[types-of-consciousness|types]] (structural varieties of consciousness) and [[minimal-consciousness|minimal consciousness]] (whether there is a lower bound at all).
 
 For The Unfinishable Map, degrees of consciousness are consequential rather than merely taxonomic. If consciousness interfaces with the physical world through a configurable connection — as [[filter-theory|filter theory]] and [[interactionist-dualism|interactionist dualism]] propose — then gradation reflects variation in the interface, not variation in the production of consciousness by neural activity. The dimmer switch is in the interface, not in the generator, because there is no generator.
 
@@ -124,6 +124,7 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 ## Further Reading
 
 - [[phenomenal-sorites-problem]] — The prior on/off question that gradation presupposes: whether it can be indeterminate that a system is conscious at all
+- [[is-conscious-being-a-natural-kind]] — The same distinction tested against Boyd's homeostatic property clusters and answered in the essentialist direction: the on/off subject-fact is sharp, fixed by non-graded coupling-engagement, while a cluster reading of experience's evaluative structure stays permissible
 - [[minimal-consciousness]] — The question of consciousness at its simplest
 - [[types-of-consciousness]] — Structural varieties of consciousness (distinct from degrees)
 - [[phenomenal-consciousness]] — The qualitative aspect that admits of degrees
