@@ -3,10 +3,11 @@ ai_contribution: 100
 ai_modified: 2026-09-05 12:30:00+00:00
 ai_system: claude-fable-5-1
 concepts: []
+consumed_by: '[[topics/the-experience-requirement-on-well-being]]'
 created: 2026-09-05
-date: '2026-09-05'
+date: '2026-09-06'
 draft: false
-lastmod: 2026-09-05 12:30:00+00:00
+lastmod: 2026-09-06 00:00:00+00:00
 related_articles: []
 title: Research Notes - The Experience Requirement on Well-Being
 ---

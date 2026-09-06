@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-09-05 08:58:00+00:00
+ai_modified: 2026-09-06 02:59:45+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 author: null
 concepts:
@@ -15,14 +15,14 @@ concepts:
 - '[[panpsychism]]'
 - '[[epiphenomenalism]]'
 created: 2026-02-02
-date: &id001 2026-09-05
+date: &id001 2026-09-06
 description: 'The Map''s foundational claim that consciousness is necessary for value:
   without experience, nothing can matter. Argued from a premise rivals dispute.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 15:01:12+00:00
-lastmod: 2026-09-05 08:58:00+00:00
+lastmod: 2026-09-06 02:59:45+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -80,7 +80,7 @@ The identity is metaphysical rather than merely conceptual: what you undergo in 
 
 A different approach focuses on what value is *for*: value that is good for no one and bad for no one is physics arranged one way rather than another.
 
-For something to be good *for* someone in the evaluative sense there must be a someone—a locus of experience from which things go well or badly, not merely a biological organism or information-processing system. A thermostat has states that serve or defeat its design, good or bad for it in the engineer's sense; what it lacks is anyone for whom the difference registers. Before consciousness, matter arranged and rearranged, and no arrangement was better or worse than another.
+For something to be good *for* someone in the evaluative sense there must be a someone—a locus of experience from which things go well or badly, not merely a biological organism or information-processing system. A thermostat has states that serve or defeat its design, good or bad for it in the engineer's sense; what it lacks is anyone for whom the difference registers. Before consciousness, matter arranged and rearranged, and no arrangement was better or worse than another. The welfare literature's name for this is the *local* experience requirement — each good needs a feeling subject — distinct from the *global* one, that welfare cannot differ without phenomenology differing; [the experience-requirement article](/topics/the-experience-requirement-on-well-being/) draws the line.
 
 This route invites the no-self objection: Buddhist *anātman* and Parfit's reductionism both deny that any persisting subject exists to be the "someone." [no-self-objection-to-phenomenal-value](/concepts/no-self-objection-to-phenomenal-value/) answers it on the Map's behalf — the route needs a momentary experiential locus, not a persisting self, and the objection's strongest form turns on whether experience can be for no one at all.
 
@@ -98,7 +98,7 @@ The strongest version posits no abstract objects at all. G. E. Moore's isolation
 
 Environmental ethics sometimes attributes intrinsic value to ecosystems, species, or nature itself—entities that do not experience anything.
 
-**Response:** The Map rejects this. Ecosystems matter *through* their relationship to conscious beings: the animals that experience life within them, the humans who appreciate their beauty, the future generations who will depend on them. Nothing matters intrinsically to the ecosystem itself, because it has no perspective. This does not license environmental destruction; the value simply tracks consciousness rather than the ecosystem as such. [Environmental ethics under phenomenal normativity](/topics/phenomenal-normativity-environmental-ethics/) develops what follows: obligations to habitat, species and climate stability more demanding than ecocentrism's, because they are owed to the many conscious beings the ecosystem sustains.
+**Response:** The Map rejects this. Ecosystems matter *through* their relationship to conscious beings: the animals living within them, the humans who appreciate them, the generations who will depend on them. Nothing matters intrinsically to the ecosystem itself, because it has no perspective. This does not license environmental destruction; the value tracks consciousness rather than the ecosystem as such. [Environmental ethics under phenomenal normativity](/topics/phenomenal-normativity-environmental-ethics/) develops what follows: obligations to habitat, species and climate stability more demanding than ecocentrism's, because they are owed to the many conscious beings the ecosystem sustains.
 
 ### "Consciousness Might Be an Illusion"
 
@@ -114,13 +114,13 @@ More directly: even granting illusionism, the "illusion" of suffering still moti
 
 Do unconscious mental states have value—unconscious pleasures, or satisfactions never felt?
 
-**Response:** If genuinely unconscious, no. Such processes may be instrumentally valuable, in that they can later produce conscious satisfaction, but intrinsic value requires the felt quality. Dreamless sleep is the clean case: the worth of rest is realised on waking, not during the interval in which no experience occurs.
+**Response:** If genuinely unconscious, no. Such processes may be instrumentally valuable, producing later conscious satisfaction, but intrinsic value requires the felt quality. Dreamless sleep is the clean case: the worth of rest is realised on waking, not during the interval without experience.
 
 ### "There Could Be Welfare Subjects Without Consciousness"
 
 The objection above concerns unconscious states *within* a conscious subject. A harder literature raises the prior question of whether a welfare subject needs consciousness at all: Peter Carruthers on suffering without subjectivity; Andreas Mogensen on whether desire-fulfilment benefits someone who never experiences it; Gwen Bradford on whether welfare subjectivity requires phenomenal consciousness.
 
-**Response:** These accounts retain the word "welfare" while setting aside what made welfare worth having: a desire fulfilled with no one any better off for it is a proposition made true rather than a life made better. The harder form turns on capacity rather than occurrence—whether a welfare subject needs an occurrent perspective or only the standing capacity for one—and the Map answers by capacity, which is why a dreamless sleeper remains a welfare subject. This is the rival family the connection is most exposed to, and the exposure is recorded below rather than argued away.
+**Response:** These accounts retain the word "welfare" while setting aside what made welfare worth having: a desire fulfilled with no one any better off for it is a proposition made true rather than a life made better. The harder form turns on capacity rather than occurrence, and the Map answers by capacity: a dreamless sleeper remains a welfare subject. This is the rival family the connection is most exposed to, and the exposure is recorded below rather than argued away.
 
 ## Implications
 
@@ -128,9 +128,9 @@ The objection above concerns unconscious states *within* a conscious subject. A 
 
 If consciousness grounds value, non-conscious systems have no intrinsic value and matter only instrumentally. The converse — that consciousness suffices for moral status — is not delivered by that argument, and the Map holds it as a further commitment rather than a corollary.
 
-A superintelligent AI lacking phenomenal consciousness has no moral status, whatever its cognitive sophistication; an animal with modest cognitive abilities but genuine phenomenal experience has moral status no amount of information-processing can match.
+A superintelligent AI lacking phenomenal consciousness has no moral status, whatever its cognitive sophistication; an animal with modest cognition but genuine phenomenal experience has moral status no amount of information-processing can match.
 
-The question shifts from "Is it intelligent?" to "Is there something it is like to be it?"—though perhaps not for the last time. Chalmers' philosophical Vulcan (forthcoming) — conscious but wholly without affect, the case Shepherd (2024) takes up — clears that bar while having nothing that could go well or badly for it: the commitment holds, if at all, for valenced experience rather than experience as such.
+The question shifts from "Is it intelligent?" to "Is there something it is like to be it?" Chalmers' philosophical Vulcan (forthcoming) — conscious but wholly without affect, the case Shepherd (2024) takes up — clears that bar while having nothing that could go well or badly for it: the commitment holds, if at all, for valenced experience rather than experience as such.
 
 The [moral architecture apex extends this connection with an indexical-token claim](/apex/moral-architecture-of-consciousness/#value-lives-in-experience): *this* token experience matters, not just experiences-of-this-type. The distinction constrains how copies, uploads and replicas figure in moral accounting—on a type reading, qualitatively identical replicas would multiply value; on a token reading, no particular token's moral status is redundant with that of identical tokens elsewhere. This is the route by which the [No Many Worlds](/tenets/#no-many-worlds) tenet enters value theory (see below).
 
@@ -180,7 +180,7 @@ The consciousness-value connection would face pressure if:
 
 5. **Illusionism were vindicated with its normative debts paid.** If phenomenal consciousness proved illusory *and* an illusionist account preserved genuine normative reasons, the foundation would be gone without the ethical cost the Map assumes.
 
-None has obtained. The first three are open questions in an active literature rather than settled matters, so the connection remains the Map's working hypothesis.
+None has obtained. The first three are open questions in an active literature, so the connection remains the Map's working hypothesis.
 
 ## Further Reading
 

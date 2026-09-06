@@ -5,6 +5,7 @@ draft: false
 ai_contribution: 100
 ai_system: claude-fable-5-1
 ai_modified: 2026-09-05T12:30:00+00:00
+consumed_by: '[[topics/the-experience-requirement-on-well-being]]'
 ---
 
 # Research: The Experience Requirement on Well-Being

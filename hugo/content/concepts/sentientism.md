@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-01
-ai_modified: 2026-09-06 02:32:31+00:00
+ai_modified: 2026-09-06 02:59:45+00:00
 ai_system: claude-opus-5+claude-fable-5+claude-fable-5-1
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 19:10:48+00:00
-lastmod: 2026-09-06 02:32:31+00:00
+lastmod: 2026-09-06 02:59:45+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -39,7 +39,7 @@ The Unfinishable Map holds sentientism in a specific and contestable form: **phe
 
 **Anthropocentrism** restricts moral status to humans. Sentientism's reply is the argument from arbitrariness, which Singer named **speciesism**: privileging *Homo sapiens* as such is a preference for one's own group over relevantly similar outsiders, as racism and sexism do. Any cognitive threshold proposed for the human/non-human boundary — rationality, language, autobiographical memory — excludes some humans, infants and the severely cognitively impaired among them, whose protection almost nobody will withdraw; either the threshold is lowered until it admits many non-human animals, or some humans lose their standing, and species membership cannot save the boundary without conceding that a biological classification does moral work no argument supports. Perry presses the same case against the pluralist grounds now offered alongside sentience: an account resting on sentience alone avoids conceptual redundancy and explains more than its rivals. Infants and the cognitively impaired are sentient, however, so the argument transfers no pressure to a valence criterion; the one human population that criterion itself reaches, the permanently unconscious, is taken up under [disputed implications](#disputed-implications).
 
-**Biocentrism and ecocentrism** press the opposite complaint: sentience is an arbitrarily *narrow* threshold, excluding organisms with goods of their own but no nervous system. The Map's reply to Rolston's ecocentrism — "adaptive value" is either functional description, not yet normative, or a normative property needing the experiential grounding it lacks — is worked out in [the treatment of environmental ethics](/topics/phenomenal-normativity-environmental-ethics/#against-ecocentrism). Both objections turn on whether the experience requirement is principled, which is what the rest of this article is about.
+**Biocentrism and ecocentrism** press the opposite complaint: sentience is an arbitrarily *narrow* threshold, excluding organisms with goods of their own but no nervous system. The Map's reply to Rolston's ecocentrism — "adaptive value" is either functional description, not yet normative, or a normative property needing the experiential grounding it lacks — is worked out in [the treatment of environmental ethics](/topics/phenomenal-normativity-environmental-ethics/#against-ecocentrism). Both objections turn on whether the experience requirement is principled.
 
 ## Biocentrism: The Harder Opponent {#biocentrism}
 
@@ -59,7 +59,7 @@ Attfield states the inference the HIV case probes as a two-premise argument — 
 
 The Map holds that the gap is the structural feature of value that [the consciousness-value connection](/concepts/consciousness-value-connection/) identifies: descriptive teleology is everywhere in biology, and normative teleology requires an experiencer for whom the trajectory is good or bad, because the goodness and badness are features of how the state is felt. Korsgaard's "it is a pain to be in pain. And that is not a trivial fact" states the datum, though on Kantian rather than phenomenal-realist grounds.
 
-That premise is an experience requirement on welfare, and Lin (2021) argues that no compelling case for such a requirement exists: the most promising argument — that without it one cannot explain why only sentient beings are welfare subjects — fails because a desire-satisfaction theory of the right shape excludes non-sentient beings on their incapacity for desire. Lin thus concedes the datum the necessity direction needs and threatens the Map's ground for it rather than the direction. The Map's reply to his alternative is the one it gives desire-satisfaction accounts generally — a desire fulfilled with no one any better off for it is a proposition made true rather than a life made better ([welfare subjects without consciousness](/concepts/consciousness-value-connection/#objections-and-responses)) — and Lin can fairly hear that as the requirement restated rather than argued for, since the Map's support for it is the value premise it holds on Dualism's terms ([P-VS3](/positions/value-in-selection/#p-vs3)). The disagreement sits closer to bedrock than the Feinberg exchange suggested: a contested premise about welfare, not a contested reading of a text.
+That premise is an experience requirement on welfare, and Lin (2021) argues that no compelling case for such a requirement exists: the most promising argument — that without it one cannot explain why only sentient beings are welfare subjects — fails because a theory of goods of the right shape excludes non-sentient beings without it (his worked illustration is a restricted desire theory; his own view is that every good involves sentience by its nature — [the global/local split](/topics/the-experience-requirement-on-well-being/#split)). Lin thus concedes the datum the necessity direction needs and threatens the Map's ground for it rather than the direction. The Map's reply to his illustration is the one it gives desire-satisfaction accounts generally — a desire fulfilled with no one any better off for it is a proposition made true rather than a life made better ([welfare subjects without consciousness](/concepts/consciousness-value-connection/#objections-and-responses)) — and Lin can fairly hear that as the requirement restated rather than argued for, since the Map's support for it is the value premise it holds on Dualism's terms ([P-VS3](/positions/value-in-selection/#p-vs3)). The disagreement sits closer to bedrock than the Feinberg exchange suggested.
 
 The requirement must also say *which* experiencer ([two layers](/concepts/no-self-objection-to-phenomenal-value/#implications)). The Map's answer — unrefuted and contested, not tested — is that a momentary experiential locus, whoever this pain is bad for now, suffices for standing; a persisting subject is a further claim ([a locus, not a career](/concepts/no-self-objection-to-phenomenal-value/#maps-reply)) on which sentientism's diachronic stakes draw, and which the Map makes on agency grounds rather than on value.
 

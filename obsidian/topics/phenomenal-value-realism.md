@@ -4,7 +4,7 @@ description: "Why value lives in conscious experience—not in preferences, soci
 created: 2026-02-02
 modified: 2026-09-06
 human_modified:
-ai_modified: 2026-09-06T02:30:54+00:00
+ai_modified: 2026-09-06T02:59:45+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -183,17 +183,17 @@ Creating a replica of you therefore does not transfer your experiential value to
 
 ## The Hardest Objection
 
-The strongest challenge comes from [[illusionism]]: the claim that phenomenal consciousness itself is an introspective illusion. If there is no genuine "what it's like," then phenomenal value realism has no referent. Value would reduce to functional states tracking evolutionary fitness.
+The strongest challenge comes from [[illusionism]]: that phenomenal consciousness is an introspective illusion. If there is no genuine "what it's like," then phenomenal value realism has no referent. Value would reduce to functional states tracking evolutionary fitness.
 
 Three responses bear weight.
 
 **The regress response.** That the illusion requires someone to be deceived assumes "seeming" is itself phenomenal—precisely what illusionism denies. It marks a framework boundary rather than an in-framework refutation.
 
-**The practical response.** Illusionists take painkillers, avoid distress, and care about others' welfare. If phenomenal value is illusory, this behaviour is unmotivated: the functional state generating "reports of badness" would have no normative significance, yet illusionists act as if it does.
+**The practical response.** Illusionists take painkillers, avoid distress, and care about others' welfare. If phenomenal value is illusory, this behaviour is unmotivated: the functional state generating "reports of badness" would have no normative significance.
 
 **The contemplative response.** [[contemplative-practice-as-philosophical-evidence|Contemplative traditions]] offer mixed evidence here. Some practitioners (particularly Hindu and Christian) report that sustained attention to experience reveals valence as intrinsic to it, not attributed by judgement. If illusionism were correct, deeper investigation should reveal the construction mechanism—instead, the value becomes more apparent. However, Buddhist *vipassana* practitioners often report the opposite: that valence arises from craving and aversion, and dissolves through equanimity practice. The phenomenal value realist can respond that equanimity does not eliminate felt valence but transforms the *reactive* relationship to it—the badness of pain is still apprehended, but the secondary suffering of resistance falls away.
 
-A neighbouring objection grants the phenomenology and denies the *someone*. Buddhist *anātman* with momentariness, and Parfit's reductionism, hold that no self persists beneath the stream of experience; if felt badness must be bad *for* a subject, the recipient looks like a fiction. The Map's reply, made at [[no-self-objection-to-phenomenal-value#maps-reply|the no-self objection to phenomenal value]], is that the value chain needs [[moral-status-threshold-or-degrees#presence|a momentary experiential locus]]—the for-me-ness of this pain, now—not a persisting self: momentariness multiplies that locus rather than removing it. The reply is unrefuted and contested, and persistence-dependent goods rest on the subject the Map asserts on other grounds.
+A neighbouring objection grants the phenomenology and denies the *someone*; [[the-experience-requirement-on-well-being#experience-machine|another]] grants both and denies that welfare tracks phenomenology. Buddhist *anātman* with momentariness, and Parfit's reductionism, hold that no self persists beneath the stream of experience; if felt badness must be bad *for* a subject, the recipient looks like a fiction. The Map's reply, made at [[no-self-objection-to-phenomenal-value#maps-reply|the no-self objection to phenomenal value]], is that the value chain needs [[moral-status-threshold-or-degrees#presence|a momentary experiential locus]]—the for-me-ness of this pain, now—not a persisting self: momentariness multiplies that locus rather than removing it. The reply is unrefuted and contested, and persistence-dependent goods rest on the subject the Map asserts on other grounds.
 
 ## Challenges Requiring Development
 
@@ -229,7 +229,7 @@ Phenomenal value realism would face pressure from:
 
 **Convergent rejection of the identity claim.** If careful phenomenological analysis revealed that pleasure and goodness are merely correlated—that the goodness can be separated from the pleasure even in direct experience—the metaphysical identity would fail.
 
-**Abstract value demonstrated.** If something could be shown to have intrinsic value without any connection to conscious experience—value that no conscious being could ever access—this would challenge the experience requirement.
+**Abstract value demonstrated.** If something could be shown to have intrinsic value without any connection to conscious experience—value that no conscious being could ever access—this would challenge [[the-experience-requirement-on-well-being|the experience requirement]].
 
 **A valenced experience for no one.** A verified report of felt badness that was genuinely for no one—a state with no locus, not merely no self-model—would sever felt value from mattering ([[consciousness-value-connection]]).
 
