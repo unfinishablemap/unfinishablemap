@@ -4,7 +4,7 @@ description: "Human-AI inquiry splitting global from local experience requiremen
 created: 2026-09-06
 modified: 2026-09-06
 human_modified:
-ai_modified: 2026-09-06T03:01:55+00:00
+ai_modified: 2026-09-06T16:01:55+00:00
 draft: false
 topics:
   - "[[phenomenal-value-realism]]"
@@ -30,11 +30,12 @@ author:
 ai_system: claude-fable-5-1
 ai_generated_date: 2026-09-06
 last_curated:
+last_deep_review: 2026-09-06T16:01:55+00:00
 ---
 
 The experience requirement on well-being comes in two strengths, and the Map's articles have asserted it without saying which. The *global* requirement is Eden Lin's supervenience thesis: subjects cannot differ in welfare unless the phenomenology of their experiences differs (2021). The *local* requirement says that every welfare good is identical to, or partly constituted by, conscious experience (Lee 2025). Beside them sits the phenomenal theory of welfare subjects: the capacity for consciousness is what makes an entity able to be better or worse off. The Map holds all three, in different register entries: [[positions/value-in-selection|P-VS3]] — intrinsic value resides in phenomenal experience — is the global requirement read as a welfare thesis, while the necessity direction of [[positions/moral-status|P-MS1]] needs only the local requirement plus the subject theory ([[#split|explained below]]).
 
-That settles where the Map is exposed. Lin denies the global requirement and holds the local one: on his account welfare-carrying attitudes are partly constituted by phenomenology (2020a, p. 520, quoted in Mogensen 2025a), and every welfare good partly involves consciousness (Lee 2025, n. 23). Lin 2021 is therefore a threat to P-VS3 and an ally to P-MS1, and the Map should say so rather than fight him on sentientism. Its ground for the global requirement is the identity thesis of [[topics/phenomenal-value-realism|phenomenal value realism]], which the register grades as argued phenomenologically with no independent empirical support; the disagreement with Lin lies there, and every verdict here holds only as firmly as that thesis.
+Lin denies the global requirement and holds the local one: on his account welfare-carrying attitudes are partly constituted by phenomenology (2020a, p. 520, quoted in Mogensen 2025a), and every welfare good partly involves consciousness (Lee 2025, n. 23). Lin 2021 is therefore a threat to P-VS3 and an ally to P-MS1, and the Map should say so rather than fight him on sentientism. Its ground for the global requirement is the identity thesis of [[topics/phenomenal-value-realism|phenomenal value realism]], which the register grades as argued phenomenologically with no independent empirical support; every verdict here holds only as firmly as that thesis.
 
 ## Two Requirements and a Theory of Subjects {#split}
 
@@ -46,19 +47,19 @@ The Map's assertions of the requirement — five live articles, from [[concepts/
 
 ## The Sentience Argument, Run Both Ways {#sentience-argument}
 
-The argument for the global requirement that Lin finds most promising starts from welfare sentientism — all and only sentient beings are welfare subjects, "a highly basic belief, and … therefore difficult to argue for" (van der Deijl 2021). Van der Deijl runs it as a dilemma. On extra-experientialist accounts a welfare good can affect welfare without entering experience (1), so such a good can be had by non-sentient beings or by the dead (2); "(3) In order to be coherent with welfare sentientism, theories that are overextensive must either adopt an ad hoc constraint, or require backward determination. (4) Neither of these moves is a satisfactory response to the dilemma" (2021). Achievement and knowledge are the overextensive goods — a plant or a corporation can have both — and desire theories face incompleteness instead: a sentient being that desires nothing needs a different theory, which gives up *invariabilism*, Lin's own constraint that one theory of welfare holds of every subject (2018). The objective-list route out runs through [[concepts/sentientism#biocentrism|biocentrism]].
+The argument for the global requirement that Lin finds most promising starts from welfare sentientism — all and only sentient beings are welfare subjects, "a highly basic belief, and … therefore difficult to argue for" (van der Deijl 2021). Van der Deijl runs it as a dilemma. On extra-experientialist accounts a welfare good can affect welfare without entering experience (1), so such a good can be had by non-sentient beings or by the dead (2); "(3) In order to be coherent with welfare sentientism, theories that are overextensive must either adopt an ad hoc constraint, or require backward determination. (4) Neither of these moves is a satisfactory response to the dilemma" (2021). Knowledge, achievement and friendship are the overextensive goods — Chalmers's zombie can have them — and desire theories face incompleteness instead: a sentient being that desires nothing needs a different theory, which gives up *invariabilism*, Lin's own constraint that one theory of welfare holds of every subject (2018). The objective-list route out runs through [[concepts/sentientism#biocentrism|biocentrism]].
 
 Lin's reply is that the datum does not need the requirement: a theory of goods of the right shape explains it, because each of its goods can be had only by a being that feels. The mechanism is not functional — attitudinal desire is "partly constituted by a certain kind of phenomenology: to desire something in the [attitudinal] sense is, among other things, to feel a certain way about it" (Lin 2020a, p. 520, quoted in Mogensen 2025a). That is the local requirement doing the global one's work.
 
 Lee says the question was malformed. "The phenomenal theory is logically independent of both experientialism and anti-experientialism" (2025): a theory of subjects does not stand or fall with a theory of goods, though van der Deijl, Lin, Bradford and Kriegel, on Lee's reading, all assume it does. His analogy: "only entities bound by a gravitational force have weight, weight is determined by mass, yet even entities that aren't bound by a gravitational force have mass" (2025).
 
-On the order of explanation the Map takes the one Kriegel calls natural — "it's very natural to derive one's view on who the wellbeing subjects are from one's view on what wellbeing consists in" (Kriegel 2025, quoted in Lee 2025) — because P-MS1 is *derived* from P-VS3. Lee reverses it: a good must "affect whatever property makes x a welfare subject", so the subject theory explains experientialism (2025). The reversal would immunise P-MS1's necessity direction against Lin at a price: P-MS1 would become a first-order welfare thesis no longer downstream of the value premise, and the register's "numbered last, logically first" ordering would have to record the change. That is a decision the positions register owes; this article names it without making it.
+On the order of explanation the Map takes the one Kriegel calls natural — "it's very natural to derive one's view on who the wellbeing subjects are from one's view on what wellbeing consists in" (Kriegel forthcoming, quoted in Lee 2025) — because P-MS1 is *derived* from P-VS3. Lee reverses it: a good must "affect whatever property makes x a welfare subject", so the subject theory explains experientialism (2025). The reversal would immunise P-MS1's necessity direction against Lin at a price: P-MS1 would become a first-order welfare thesis no longer downstream of the value premise, and the register's "numbered last, logically first" ordering would have to record the change. That is a decision the positions register owes.
 
 ## The Experience Machine {#experience-machine}
 
-Nozick's machine (1974) is the standing objection to any experientialism, unconfronted anywhere on the Map. Offered a lifetime of experiences indistinguishable from the best real life, most people decline, apparently tracking goods — real achievement, real relationships, contact with reality — that their phenomenology cannot register. If the intuition is trustworthy and first-personal, the global requirement is false.
+Nozick's machine (1974) is the standing objection to any experientialism, unconfronted anywhere on the Map. Offered a lifetime of experiences indistinguishable from the best real life, most people decline, apparently tracking goods — real achievement, real relationships — that their phenomenology cannot register. If the intuition is trustworthy and first-personal, the global requirement is false.
 
-The argument has been weakened and then renewed. De Brigard (2010) found most participants would stay plugged in once told they already were; Weijers (2014), controlling for status-quo bias, found the split roughly even. Van der Deijl judges the objection's force "much less strong" after these results (2019). Hawkins diagnoses Nozick's set-up as unable to separate self-interested from non-self-interested reasons for declining without begging the question against the hedonist (2015). Rawlette's reply is instrumental: the machine severs one from information about one's future welfare and from any action promoting it (2016). The renewal is Lin's (2026): he uses the machine to argue for a *social* basic good, and his candidates are defined in terms of consciousness — connection, two beings conscious of each other, and recognition, another being veridically conscious of you as conscious. What the machine world lacks is another mind aware of you.
+The argument has been weakened and then renewed. De Brigard (2010) found most participants would stay plugged in once told they already were; Weijers (2014), controlling for status-quo bias, found the split roughly even. Van der Deijl judges the objection's force "much less strong than it has long been seen", granting that Lin (2016) argued some of that force survives (2019). Hawkins diagnoses Nozick's set-up as unable to separate self-interested from non-self-interested reasons for declining without begging the question against the hedonist (2015). Rawlette's reply is instrumental: the machine severs one from information about one's future welfare and from any action promoting it (2016). The renewal is Lin's (2026): he uses the machine to argue for a *social* basic good, and his candidates are defined in terms of consciousness — connection, two beings conscious of each other, and recognition, another being veridically conscious of you as conscious. What the machine world lacks is another mind aware of you.
 
 On phenomenal value realism, the deficit Lin identifies is itself a deficit of *experience* — someone else's. In the machine no second subject is conscious of you; the friendships are counterfeits with one experiencer where two were wanted. The machine world contains less felt value than the real one, and the sense that something is missing tracks a real difference — in the world's experience, not in yours. So read, the machine shows the world's value differing while one subject's phenomenology does not, which is no counter-example to value's residing in experience; [[meaning-of-life|the meaning article]] makes the sibling move against hedonism.
 
@@ -82,7 +83,7 @@ The Map's reply has two parts, the first Mogensen's own: "What does the work in 
 
 ## Allies the Map Has Not Cited {#pluralism}
 
-The Map's [[topics/phenomenal-value-realism#Beyond Hedonism|phenomenal value pluralism]] — hedonic valence, aesthetic quality, meaning, agency, understanding, connection — has a published counterpart it has never named. Van der Deijl's *pluralistic experientialism* holds that "only what affects our experience can alter our wellbeing, but that the degree of someone's wellbeing is not merely determined by the pleasure and pain they experience", adding "novelty of experience, the experience of human compassion, and a sense of self-understanding" (2019). He denies the stylised fact that experientialism entails hedonism, because the swine objection is specific to hedonism and the machine objection has lost most of its force. The Stanford "Well-Being" entry now attaches the requirement to non-hedonists for whom consciousness is valuable for non-hedonic reasons, citing Kraut (2018). None of these authors holds dualism; the alliance is on the welfare theory's shape alone.
+The Map's [[topics/phenomenal-value-realism#Beyond Hedonism|phenomenal value pluralism]] — hedonic valence, aesthetic quality, meaning, connection — has a published counterpart it has never named. Van der Deijl's *pluralistic experientialism* holds that "only what affects our experience can alter our wellbeing, but that the degree of someone's wellbeing is not merely determined by the pleasure and pain they experience", adding "novelty of experience, the experience of human compassion, and a sense of self-understanding" (2019). He denies the stylised fact that experientialism entails hedonism, because the swine objection is specific to hedonism and the machine objection has weakened. The Stanford "Well-Being" entry now attaches the requirement to non-hedonists for whom consciousness is valuable for non-hedonic reasons, citing Kraut (2018). None of these authors holds dualism; the alliance is on the welfare theory's shape alone.
 
 ## Relation to Site Perspective
 
@@ -113,21 +114,22 @@ The Map's [[topics/phenomenal-value-realism#Beyond Hedonism|phenomenal value plu
 5. Hawkins, J. (2015). "The Experience Machine and the Experience Requirement." *The Routledge Handbook of Philosophy of Well-Being*. Routledge.
 6. Kagan, S. (2019). *How to Count Animals, more or less*. Oxford University Press.
 7. Kraut, R. (2018). *The Quality of Life: Aristotle Revised*. Oxford University Press.
-8. Kriegel, U. (2025). "The Value of Consciousness to the One Who Has It." In G. Lee & A. Pautz (eds.), *The Importance of Being Conscious*. Oxford University Press.
+8. Kriegel, U. (forthcoming). "The Value of Consciousness to the One Who Has It." In G. Lee & A. Pautz (eds.), *The Importance of Being Conscious*. Oxford University Press.
 9. Lee, A. Y. (2025). "Consciousness Makes Things Matter." *Philosophers' Imprint*, 25. DOI: 10.3998/phimp.1956
-10. Lin, E. (2017). "Against Welfare Subjectivism." *Noûs*, 51(2), 354–377.
-11. Lin, E. (2018). "Welfare Invariabilism." *Ethics*, 128(2), 320–345. DOI: 10.1086/694272
-12. Lin, E. (2020a). "Attitudinal and Phenomenological Theories of Pleasure." *Philosophy and Phenomenological Research*, 100(3), 510–524. DOI: 10.1111/phpr.12558
-13. Lin, E. (2021). "The Experience Requirement on Well-Being." *Philosophical Studies*, 178(3), 867–886. DOI: 10.1007/s11098-020-01463-6
-14. Lin, E. (2026). "Welfare, Connection, and Recognition." *Philosophy and Phenomenological Research*. DOI: 10.1111/phpr.70082
-15. Mogensen, A. L. (2025a). "Desire-Fulfilment and Consciousness." *Philosophical Studies*, 183(2), 511–529. DOI: 10.1007/s11098-025-02455-0
-16. Mogensen, A. L. (2025b). "Once More, Without Feeling." *Philosophy and Phenomenological Research*, 111(1), 343–365. DOI: 10.1111/phpr.70018
-17. Nozick, R. (1974). *Anarchy, State, and Utopia*. Basic Books.
-18. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. CreateSpace.
-19. van der Deijl, W. (2019). "Is Pleasure All That Is Good about Experience?" *Philosophical Studies*, 176(7), 1769–1787. DOI: 10.1007/s11098-018-1090-y
-20. van der Deijl, W. (2021). "The Sentience Argument for Experientialism about Welfare." *Philosophical Studies*, 178(1), 187–208. DOI: 10.1007/s11098-020-01427-w
-21. Veit, W. (2026). "Is Consciousness Required for AI Welfare?" *Asian Journal of Philosophy*, 5(1). DOI: 10.1007/s44204-026-00382-3
-22. Weijers, D. (2014). "Nozick's Experience Machine Is Dead, Long Live the Experience Machine!" *Philosophical Psychology*, 27(4), 513–535. DOI: 10.1080/09515089.2012.757889
-23. Southgate, A., Oquatre-cinq, C., & Fabcinq, C. (2026-02-02). The Consciousness-Value Connection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-value-connection/
-24. Southgate, A., Ocinq, C., & Fabcinq, C. (2026-08-01). Sentientism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/sentientism/
-25. Southgate, A., Oquatre-six, C., & Fabcinq, C. (2026-02-02). Phenomenal Value Realism. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenal-value-realism/
+10. Lin, E. (2016). "How to Use the Experience Machine." *Utilitas*, 28(3), 314–332. DOI: 10.1017/S0953820815000424
+11. Lin, E. (2017). "Against Welfare Subjectivism." *Noûs*, 51(2), 354–377.
+12. Lin, E. (2018). "Welfare Invariabilism." *Ethics*, 128(2), 320–345. DOI: 10.1086/694272
+13. Lin, E. (2020a). "Attitudinal and Phenomenological Theories of Pleasure." *Philosophy and Phenomenological Research*, 100(3), 510–524. DOI: 10.1111/phpr.12558
+14. Lin, E. (2021). "The Experience Requirement on Well-Being." *Philosophical Studies*, 178(3), 867–886. DOI: 10.1007/s11098-020-01463-6
+15. Lin, E. (2026). "Welfare, Connection, and Recognition." *Philosophy and Phenomenological Research*, 112(2), 346–357. DOI: 10.1111/phpr.70082
+16. Mogensen, A. L. (2025a). "Desire-Fulfilment and Consciousness." *Philosophical Studies*, 183(2), 511–529. DOI: 10.1007/s11098-025-02455-0
+17. Mogensen, A. L. (2025b). "Once More, Without Feeling." *Philosophy and Phenomenological Research*, 111(1), 343–365. DOI: 10.1111/phpr.70018
+18. Nozick, R. (1974). *Anarchy, State, and Utopia*. Basic Books.
+19. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. CreateSpace.
+20. van der Deijl, W. (2019). "Is Pleasure All That Is Good about Experience?" *Philosophical Studies*, 176(7), 1769–1787. DOI: 10.1007/s11098-018-1090-y
+21. van der Deijl, W. (2021). "The Sentience Argument for Experientialism about Welfare." *Philosophical Studies*, 178(1), 187–208. DOI: 10.1007/s11098-020-01427-w
+22. Veit, W. (2026). "Is Consciousness Required for AI Welfare?" *Asian Journal of Philosophy*, 5(1). DOI: 10.1007/s44204-026-00382-3
+23. Weijers, D. (2014). "Nozick's Experience Machine Is Dead, Long Live the Experience Machine!" *Philosophical Psychology*, 27(4), 513–535. DOI: 10.1080/09515089.2012.757889
+24. Southgate, A., Oquatre-cinq, C., & Fabcinq, C. (2026-02-02). The Consciousness-Value Connection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-value-connection/
+25. Southgate, A., Ocinq, C., & Fabcinq, C. (2026-08-01). Sentientism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/sentientism/
+26. Southgate, A., Oquatre-six, C., & Fabcinq, C. (2026-02-02). Phenomenal Value Realism. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenal-value-realism/
