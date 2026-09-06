@@ -364,7 +364,7 @@ p-m5:
     it — confidence: high · normative, not an empirical claim · moderately central'
   weak: 'no'
 p-mc1:
-  bands: 'confidence: high · some independent evidence · peripheral to the framework'
+  bands: 'confidence: high · some independent evidence · moderately central'
   claim: Self-stultification decisively burdens bare-correlation epiphenomenalism; the phenomenal-concept
     version survives by relocating the dispute
   credence: high
@@ -372,10 +372,10 @@ p-mc1:
   id: P-MC1
   slug: arguments-for-mental-causation
   status: live
-  structural_centrality: low
+  structural_centrality: moderate
   summary: 'P-MC1: Self-stultification decisively burdens bare-correlation epiphenomenalism; the phenomenal-concept
-    version survives by relocating the dispute — confidence: high · some independent evidence · peripheral
-    to the framework'
+    version survives by relocating the dispute — confidence: high · some independent evidence · moderately
+    central'
   weak: 'no'
 p-mc2:
   bands: 'confidence: high · normative, not an empirical claim · moderately central'

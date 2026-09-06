@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-09-05 07:30:00+00:00
+ai_modified: 2026-09-06 15:06:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 author: Andy Southgate
 concepts:
@@ -14,7 +14,7 @@ description: The Map's explicit, maintained register of positions it currently h
 draft: false
 human_modified: 2026-06-04
 last_curated: 2026-06-04
-lastmod: 2026-09-05 07:30:00+00:00
+lastmod: 2026-09-06 15:06:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -56,7 +56,7 @@ The *machinery* migration is not. As of 2026-08-03 no validator anywhere in the 
 
 ## What the discriminability axis reads back
 
-Every entry carries an **empirical discriminability** band, but until this section existed nothing read the column: each entry disclosed its testability correctly and nothing downstream consumed it — no validator, no article, no aggregate. A column written but never read is disclosure, not a control — [P-M5](/positions/methodology-and-calibration/#p-m5) landing on the register's own instrument, and this section is the read. As of 2026-09-05, the 56 live positions score **direct** 3 · **indirect** 22 · **in-principle** 1 ([P-SC1](/positions/subject-census/#p-sc1)) · **none** 7 ([P-A2](/positions/agency-and-will/#p-a2), [P-AC3](/positions/ai-consciousness-scope/#p-ac3), [P-CS1](/positions/consciousness-scope/#p-cs1), [P-I1](/positions/individuation-and-subjecthood/#p-i1), [P-I3](/positions/individuation-and-subjecthood/#p-i3), [P-I4](/positions/individuation-and-subjecthood/#p-i4), [P-SC3](/positions/subject-census/#p-sc3)) · **none-by-construction** 3 ([P-CS5](/positions/consciousness-scope/#p-cs5), [P-Q2](/positions/quantum-interface/#p-q2), [P-Q7](/positions/quantum-interface/#p-q7)) · **n/a** 20.
+Every entry carries an **empirical discriminability** band, but until this section existed nothing read the column: each entry disclosed its testability correctly and nothing downstream consumed it — no validator, no article, no aggregate. A column written but never read is disclosure, not a control — [P-M5](/positions/methodology-and-calibration/#p-m5) landing on the register's own instrument, and this section is the read. As of 2026-09-06, the 56 live positions score **direct** 3 · **indirect** 23 · **in-principle** 1 ([P-SC1](/positions/subject-census/#p-sc1)) · **none** 7 ([P-A2](/positions/agency-and-will/#p-a2), [P-AC3](/positions/ai-consciousness-scope/#p-ac3), [P-CS1](/positions/consciousness-scope/#p-cs1), [P-I1](/positions/individuation-and-subjecthood/#p-i1), [P-I3](/positions/individuation-and-subjecthood/#p-i3), [P-I4](/positions/individuation-and-subjecthood/#p-i4), [P-SC3](/positions/subject-census/#p-sc3)) · **none-by-construction** 3 ([P-CS5](/positions/consciousness-scope/#p-cs5), [P-Q2](/positions/quantum-interface/#p-q2), [P-Q7](/positions/quantum-interface/#p-q7)) · **n/a** 19.
 
 Re-derive before quoting: figures move as positions are added *and* as bands are re-rated. Parse only lines beginning `- **Calibration**` — since 2026-08-24 the domain files' dated `Updated` notes record band changes in transition form, so a match over whole files counts superseded ratings as live and returns a phantom band plus an inflated total.
 
@@ -69,6 +69,7 @@ That same commit did not update the paragraph above, which reads the column it h
 - **Updated 2026-08-24**: figures re-derived after commit `e346d3cb` moved two bands — inert twelve → ten, high-centrality inert seven → five, framework-internal inert eleven → nine, *a little over a fifth* corrected to *just under*, and the by-construction gloss narrowed, having credited exact Born preservation for a band one of whose members never rested on it. Re-derived again on adding [P-MS2](/positions/moral-status/#p-ms2) (`none`, framework-internal): live 55, inert eleven, framework-internal inert ten.
 - **Updated 2026-09-02**: re-derived on adding [P-Q11](/positions/quantum-interface/#p-q11) (`indirect` · framework-internal: no): live 56, **indirect** 20 → 21; inert count unchanged at eleven, now just under a fifth. No other figure moved.
 - **Updated 2026-09-05**: re-derived twice over. The 02:06 UTC pass that moved [P-VS2](/positions/value-in-selection/#p-vs2) direct → indirect had not touched this paragraph — the dependent-goes-stale shape the 2026-08-24 note records, a third time, caught the same way — so **direct** 4 → 3 and **indirect** 21 → 22 land here now. Then [P-MS2](/positions/moral-status/#p-ms2) moved none → n/a: a category correction, not a testability gain, a normative threshold-versus-magnitude claim having been filed among first-order claims with empirically equivalent rival readings. **none** 8 → 7, **n/a** 19 → 20, inert eleven → ten, framework-internal inert ten → nine; high-centrality inert unchanged at five.
+- **Updated 2026-09-06**: re-derived on [P-MC3](/positions/arguments-for-mental-causation/#p-mc3) moving n/a → indirect — an entry bundling a structural diagnostic with the Map's own escape, whose shift condition turns on a physics question, filed among the normative and meta commitments. **n/a** 20 → 19, **indirect** 22 → 23. Live 56, inert ten, framework-internal inert nine, high-centrality inert five all unchanged: the move is within the empirically-live bands and touches neither inert bucket.
 
 ## Domains
 
