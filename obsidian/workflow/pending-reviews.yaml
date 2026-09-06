@@ -333,3 +333,32 @@
   subject_articles:
   - positions/moral-status.md
   subject_source: reuse:pending-reviews:outer-review-2026-09-05-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a9ccb95-850c-83eb-9aef-7ed12ce6742e
+  commissioned_at: '2026-09-06T02:10:51.936359+00:00'
+  prompt_summary: Audit psychedelics-and-the-filter-model (recent-aged fallback)
+  target_filename: outer-review-2026-09-06-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: You are an external referee auditing one article on The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy site defending interactionist
+    dualism with minimal quantum interaction. Focus on "Psychedelics and the Filter
+    Model" at https://unfinishablemap.org/topics/psychedelics-and-the-filter-model/,
+    last substantively modified 2026-08-27. Because search indexes lag by 24-48 hours,
+    consult the site changelog at https://unfinishablemap.org/workflow/changelog/
+    for recent edits before judging what the article currently says. Audit the article's
+    empirical claims (psychedelic neuroimaging, entropy, default-mode-network findings),
+    its citations and any verbatim quotes against primary sources, and its use of
+    the filter or reducing-valve model. Look for insufficient evidence, missed counterarguments
+    such as predictive-processing and REBUS accounts, tenet-protective bracketing
+    where objections are acknowledged but not answered, stale references superseded
+    by 2020s literature, and weak integration with surrounding Map articles. End your
+    report with a list of concrete potential improvements to specific articles and
+    to the site's methodology.
+  subject_type: recent
+  subject_title: Audit psychedelics-and-the-filter-model
+  subject_articles:
+  - topics/psychedelics-and-the-filter-model.md
+  subject_source: fallback:recent-aged
