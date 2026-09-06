@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-06T17:22:22+00:00'
+ai_modified: '2026-09-06T17:39:21+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-06'
-lastmod: 2026-09-06 17:22:22+00:00
+lastmod: 2026-09-06 17:39:21+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-06T17:39:21+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Buddhist consequentialism and the experiencer requirement
+- **Output**: [buddhist-consequentialism-and-the-experiencer-requirement-2026-09-06](/research/buddhist-consequentialism-and-the-experiencer-requirement-2026-09-06/)
+- **Sources consulted**: 20 references graded; 20/20 quotations grep-verified in Python against downloaded raw artefacts
+- **Assess-first verdict**: **PROCEED** — the gap is larger than the harvest note stated (`Śāntideva`, `Bodhicaryāvatāra`, `Prajñākaramati`, `Paul Williams`, `Keown`, `Finnigan` = **0 live files** each; the canonical text for subject-free grounding of suffering's badness is absent from the corpus)
+- **Central finding**: the live article's "close to terminological" verdict **survives metaphysically and fails normatively**. The abhidharma reading leaves a momentary felt event with an intrinsic evaluative character (suffering's *svalakṣaṇa* is "being unbearable"), which supports the Map's momentary-locus reply — but Śāntideva's inference from ownerlessness to impartial benevolence *requires* bearers to be only conventionally real. Granting the Map's momentary locus as an owner destroys the asymmetry the argument runs on. The identity claim the Map treats as harmless is load-bearing for the tradition's normative conclusion.
+- **Three corrections to the task brief**: (1) **Charles Goodman IS in the corpus** — `research/buddhist-philosophy-of-mind-2020s-literature-2026-08-06` cites him at Grade [B] as SEP *Ethics in Indian Buddhism* co-author; the brief's disambiguation checked live articles only. (2) **Siderits 2016 and Hidalgo 2024 are both already in the live article's reference list** (refs 5 and 6, correct DOIs) — the gap is content, not citations. (3) **Second homonym trap**: `Clayton` = 16 live files, all Nicola S. / Philip Clayton; **Barbra R. Clayton** (*Moral Theory in Śāntideva's Śikṣāsamuccaya*, 2006) absent.
+- **⚠️ Citation trap recorded**: the SEP *Śāntideva* entry's prose mislabels the verses as **BCA IX**; they are **chapter 8** (confirmed independently by Priest/Garfield/Jenkins "VIII: 90-103" and by Harris's title "8:101-103"). Also: the two SEP entries by the same author render 8.102 differently ("must be" vs "are to be" warded off) — Crosby & Skilton 1995 not seen, so neither may be presented as *the* C&S text.
+- **Verification ceilings**: Goodman 2009 **[metadata] only** — chapter structure, no content; the article must not cite it for any specific argument. Williams 1998/2000 **unread** — highest-value remaining target.
+- **Sibling task**: diachronic-harm research task **confirmed open** (todo.md L163) and genuinely distinct (diachronic layer vs synchronic grounding); one seam flagged.
+- **Contract**: research notes only — no content article modified.
 
 ## 2026-09-06T17:22:22+00:00 - expand-topic
 - **Status**: Success

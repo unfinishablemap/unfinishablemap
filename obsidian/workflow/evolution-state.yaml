@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-06T17:06:49.900306+00:00'
-session_count: 20097
-cycle_position: 13193
+last_updated: '2026-09-06T17:25:55.292321+00:00'
+session_count: 20098
+cycle_position: 13194
 last_runs:
   add-highlight: '2026-09-06T08:39:40.268795+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -27,7 +27,7 @@ last_runs:
   condense: '2026-08-13T03:23:19.289124+00:00'
   deep-review: '2026-09-06T16:07:06.854094+00:00'
   embed-videos: '2026-09-06T09:01:07.529723+00:00'
-  expand-topic: '2026-09-06T12:07:05.443657+00:00'
+  expand-topic: '2026-09-06T17:25:55.292321+00:00'
   harvest-research-subjects: '2026-09-06T13:32:05.520793+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-01T13:46:42.778485+00:00'
@@ -103,7 +103,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 328
-  concepts_written: 324
+  concepts_written: 325
   arguments_written: 5
   questions_written: 0
   voids_written: 102
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-09-06'
-  outcome: success
-  kind: trigger
 - task: expand-topic
   type: expand-topic
   date: '2026-09-06'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-06'
   outcome: success
   kind: cycle
+- task: expand-topic
+  type: expand-topic
+  date: '2026-09-06'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agency-budget/
