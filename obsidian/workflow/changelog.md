@@ -1,10 +1,57 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-06T13:58:11+00:00'
+ai_modified: '2026-09-06T14:06:42+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-06T14:06:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/emotion-and-dualism]]
+- **Task**: the P2 batching two Crossref-verified citation defects in the target's reference list, plus their sibling loci. Driver supplied a corrected locus list (it fixed the task's in two places) and it held up under independent sweep.
+- **Original score**: not produced — the skill's Section 3 command `scripts/curate.py review` does not exist (no `curate.py` in `scripts/`). The stale-command note is a known one; nothing else in the skill depends on the score.
+- **Length**: `topics/emotion-and-dualism` 3171 → **3244 words** (`soft_warning`; topics 3000 soft / 4000 hard / 6000 critical, printed from `tools.curate.length.analyze_length`). Net **+73**, from the one added Shepherd passage; 756 under hard. `apex/minds-without-words` 4037 → **4040** (`soft_warning`, apex 4000/5000/6500), net **+3** from the DOI and subtitle added to one reference line. The task's inherited figures (3133 / stale) were re-measured before acting, per the standing warning that quoted length figures go stale.
+
+### Defect (a) — author-order swap, Russell & Barrett 1999
+
+**Verified at Crossref before writing** (not taken from the task on trust): DOI `10.1037/0022-3514.76.5.805` → **Russell, James A.; Barrett, Lisa Feldman**, "Core affect, prototypical emotional episodes, and other things called emotion: Dissecting the elephant.", *Journal of Personality and Social Psychology* 76(5), 805–819, 1999. Russell is first author; the corpus entries had the order reversed.
+
+**⚠️ The discriminator is the TITLE, not the author string.** Two different real 1999 papers share these two authors, so a sweep on `Barrett, L. F., & Russell, J. A. (1999)` hits a correct citation as well as the defect:
+
+- `… (1999). Core affect, prototypical emotional episodes …` = **the swap** (correct form is Russell & Barrett, JPSP).
+- `… (1999). The structure of current affect …` = **legitimate and correct as written** (Barrett & Russell, *Current Directions in Psychological Science* 8(1):10–14, DOI `10.1111/1467-8721.00003`), at `research/constructed-emotion-and-valence-as-a-natural-kind-2026-09-05.md:302`. **Left untouched, and confirmed untouched in the post-sweep.**
+
+Fixed at four loci:
+1. `obsidian/topics/emotion-and-dualism.md` — primary target. Author order corrected, the missing subtitle *"Dissecting the elephant"* restored, and DOI added. Form copied from `concepts/valence.md:105` (the task's pointer to L102 was stale — that file gained 142 words earlier the same day), but **not** copying that entry's own omission: L105 carries no DOI, and the task asked for one.
+2. `obsidian/apex/minds-without-words.md` — live apex, reference line only. Subtitle and DOI added alongside the order fix.
+3. `obsidian/research/emotional-consciousness-valence-2026-01-19.md:293` — this resolves an **internal inconsistency**: L53 and L219 of the same file already said "Russell & Barrett", so the citation list was contradicting its own body. DOI added.
+4. `archive/topics/emotional-consciousness.md` — the coalesced predecessor. Handled under the archive convention the open archive P3s assume (see the `emotion-as-evidence-for-dualism` P3): **minimal in-place correction only** — author order swapped, nothing else modernised, no DOI added, no reordering, and `archived` / `archived_date` / `superseded_by` / `original_path` untouched.
+
+**Alphabetical position.** In the target the entry sat at position 2 under "Barrett"; changing the lead author to Russell would have left it mis-sorted between Barrett and Bentham — a new defect introduced by the fix — so it was moved to its correct place after Rawlette. Two pre-existing sort anomalies in that list (Cleeremans after Colombetti; Lee after Solomon) were left alone as out of scope. In `minds-without-words` the entry was corrected **in place at number 2 without renumbering**: that list is explicitly numbered 1–25 and already has later-appended out-of-order entries, so renumbering risks breaking cross-references for no gain.
+
+### Defect (b) — wrong authors, Shepherd 2024
+
+**Verified two independent ways before writing.** Crossref DOI `10.1007/s00146-023-01835-6` → **Shepherd, Joshua** (sole author), "Sentience, Vulcans, and zombies: the value of phenomenal consciousness", *AI & SOCIETY* 39(6), 3005–3015, issued 2024-01-12. Independently confirmed at NCBI (PMC11614978): `Shepherd J`, *AI & society*, 2024, vol 39, pages 3005-3015, same DOI. The corpus entries read "Tye, M., & Prinz, J. (2022)" — wrong authors, wrong year, no volume, pages or DOI.
+
+Fixed at three loci: `obsidian/topics/emotion-and-dualism.md`, `obsidian/research/emotional-consciousness-valence-2026-01-19.md:306` (the origin of the target's entry), `archive/topics/emotional-consciousness.md` (archive convention as above — authors, year, volume and pages corrected since the whole citation was defective metadata; no DOI added). In the research note the existing PMC URL was **checked rather than assumed** and is correct for this paper, so it was kept as a mirror alongside the DOI. In the target the entry was moved from position "Tye" to its alphabetical place after Scheler.
+
+**The orphan was closed rather than left standing.** The target had no prose mention of Shepherd, Tye & Prinz or "Vulcans", so the entry was unused in the list. The task licensed a one-clause in-text use if it read naturally, and it did: `## Valence, Moral Status, and Consciousness Boundaries` asserted a valence-based sentientism (Bentham's "Can they suffer?") with no acknowledgement of the standing objection to the *valence* version, while the corpus handles that objection elsewhere. Two sentences added, keyed to what Shepherd's abstract actually argues:
+
+> The valence version of that criterion is contested at exactly this point: Shepherd (2024) presses it with Vulcans—conscious beings without affect or valence of any sort—reading them as pressure towards keying moral status to phenomenal consciousness as such. The Map holds the valence criterion and accepts the cost: a Vulcan clears the consciousness bar while having nothing that could go well or badly for it ([[sentientism#Disputed Implications|the disputed implications of sentientism]]).
+
+**Attribution care taken here.** The wording "conscious beings without affect or valence of any sort" tracks the abstract's own phrase ("beings who are conscious but without affect or valence of any sort"). Only Shepherd's *first* step is attributed to him — "Vulcans pressure us to accept broad sentientism" — and not his further conclusion (that one should then feel pressure towards non-necessitarianism about consciousness and moral significance), which the passage does not need and which it would have been easy to over-report. The Vulcan case is **not** credited to Shepherd: the corpus attributes it to Chalmers (forthcoming), and since the target's reference list carries no Chalmers entry, the passage names no originator rather than adding a reference outside the task's scope. The anchor target `## Disputed Implications` was checked to exist in `hugo/content/concepts/sentientism.md:76` — the new wikilink resolves to `/concepts/sentientism/#disputed-implications`, so it is not a push-blocker.
+
+- **Reasoning-mode classification (editor-internal, changelog only)**: engagement with **Shepherd** — **Mode Three**, framework-boundary marking, and honestly so. The added passage registers the disagreement and states the cost the Map accepts; it does not claim to refute Shepherd inside his own framework. The in-framework work exists but lives in `concepts/sentientism` (where Smithies 2026 is deployed against Chalmers directly), and the passage points there rather than importing or re-staging the argument. No boundary-substitution: nothing here presents tenet-incompatibility as a refutation. Forbidden-label grep clean; no editor vocabulary in the article prose.
+
+### Post-fix sweep — both trees
+
+- `Tye, M., & Prinz` → **0 hits in any article** in `obsidian/`, `archive/` or `hugo/content/`. Survivors: `workflow/todo.md`, `workflow/changelog.md`, `reviews/optimistic-2026-09-05-momentary-locus-wing.md` and their Hugo mirrors — historical records, correct as records.
+- `Barrett, L. F., & Russell, J. A. (1999). Core affect` → **0 hits in any article** in either tree. Survivors: `workflow/todo.md` and `research/constructed-emotion-and-valence-as-a-natural-kind-2026-09-05.md:41`, which is the research note's own "Defect noticed in passing" **record describing** the swap, not an instance of it.
+- A deliberately broader sweep for any line co-occurring "Tye" and "Prinz" surfaced two live concept articles, both checked and both **legitimate**: `concepts/first-order-representationalism` cites Tye 1995 and Tye 2000 as sole author and links Prinz separately; `concepts/phenomenal-constitution-thesis` L84 lists "(Tye, Dretske, Prinz)" as deflationary theorists in prose. Neither is a fused-authors instance.
+- Synced to Hugo; both new reference lines and the new passage confirmed present in `hugo/content/`. `scripts/validate.py hugo/content/` → **9480 files, 9480 valid, 0 invalid**, nothing raised on any of the four changed files.
+
+- **Files changed**: `obsidian/topics/emotion-and-dualism.md`, `obsidian/apex/minds-without-words.md`, `obsidian/research/emotional-consciousness-valence-2026-01-19.md`, `archive/topics/emotional-consciousness.md`. `ai_modified` stamped from live `date -u` on each; `ai_system` held on all four per the task.
+- **Published**: yes
 ## 2026-09-06T13:58:11+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/is-conscious-being-a-natural-kind]]

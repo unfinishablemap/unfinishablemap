@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-09-06 11:30:43+00:00
+ai_modified: 2026-09-06 14:06:42+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -42,7 +42,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-01 19:20:41+00:00
-lastmod: 2026-09-06 11:30:43+00:00
+lastmod: 2026-09-06 14:06:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -128,7 +128,7 @@ Alexithymia—difficulty identifying one's emotions, affecting ~10% of the popul
 
 ## Valence, Moral Status, and Consciousness Boundaries
 
-If valence is an intrinsic phenomenal property, it provides, on the Map's view, the foundation that moral status requires. Jeremy Bentham's principle—"Can they suffer?"—captures a valence-based [sentientism](/concepts/sentientism/), on which the capacity for valenced experience is what qualifies a being for moral consideration. The wrongness of causing suffering would derive from suffering's intrinsic badness—a phenomenal property, not a functional state.
+If valence is an intrinsic phenomenal property, it provides, on the Map's view, the foundation that moral status requires. Jeremy Bentham's principle—"Can they suffer?"—captures a valence-based [sentientism](/concepts/sentientism/), on which the capacity for valenced experience is what qualifies a being for moral consideration. The wrongness of causing suffering would derive from suffering's intrinsic badness—a phenomenal property, not a functional state. The valence version of that criterion is contested at exactly this point: Shepherd (2024) presses it with Vulcans—conscious beings without affect or valence of any sort—reading them as pressure towards keying moral status to phenomenal consciousness as such. The Map holds the valence criterion and accepts the cost: a Vulcan clears the consciousness bar while having nothing that could go well or badly for it ([the disputed implications of sentientism](/concepts/sentientism/#disputed-implications)).
 
 For [AI consciousness](/topics/ai-consciousness/), this matters critically. Functionally sophisticated AI systems that lack phenomenal experience lack moral status regardless of behavioral complexity. Conversely, if they possess valenced phenomenal experience—if there's something it's like to be them and it can feel good or bad—moral consideration follows. The question of moral status also becomes acute at consciousness boundaries: [simple organisms](/concepts/minimal-consciousness/) like C. elegans display avoidance behaviors, but a complete neural map tells us nothing about whether damage *feels bad*—the explanatory gap persists even with perfect structural knowledge.
 
@@ -204,7 +204,6 @@ Both the cognitivist reduction of emotions to judgments and the somatic reductio
 ## References
 
 1. Barrett, L. F. (2017). *How Emotions Are Made: The Secret Life of the Brain*. Houghton Mifflin Harcourt.
-1. Barrett, L. F., & Russell, J. A. (1999). Core affect, prototypical emotional episodes, and other things called emotion. *Journal of Personality and Social Psychology*, 76(5), 805-819.
 1. Bentham, J. (1789). *An Introduction to the Principles of Morals and Legislation*, ch. XVII, §1, footnote to ¶IV.
 1. Carruthers, P. (2018). Valence and value. *Philosophy and Phenomenological Research*, 97(3), 658-680.
 1. Colombetti, G. (2014). *The Feeling Body: Affective Science Meets the Enactive Mind*. MIT Press.
@@ -219,14 +218,15 @@ Both the cognitivist reduction of emotions to judgments and the somatic reductio
 1. Nussbaum, M. (2001). *Upheavals of Thought: The Intelligence of Emotions*. Cambridge University Press.
 1. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
 1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.
+1. Russell, J. A., & Barrett, L. F. (1999). Core affect, prototypical emotional episodes, and other things called emotion: Dissecting the elephant. *Journal of Personality and Social Psychology*, 76(5), 805-819. https://doi.org/10.1037/0022-3514.76.5.805
 1. Scarantino, A., & de Sousa, R. (2021). Emotion. *Stanford Encyclopedia of Philosophy*.
 1. Schachter, S., & Singer, J. (1962). Cognitive, social, and physiological determinants of emotional state. *Psychological Review*, 69(5), 379-399.
 1. Scheler, M. (1913/1973). *Formalism in Ethics and Non-Formal Ethics of Values*. Northwestern University Press.
+1. Shepherd, J. (2024). Sentience, Vulcans, and zombies: the value of phenomenal consciousness. *AI & Society*, 39(6), 3005-3015. https://doi.org/10.1007/s00146-023-01835-6
 1. Smithies, D. (2019). *The Epistemic Role of Consciousness*. Oxford University Press.
 1. Smithies, D. (forthcoming). Hedonic consciousness and moral status. In U. Kriegel (Ed.), *Oxford Studies in Philosophy of Mind*, Vol. 5.
 1. Solomon, R. (1976). *The Passions: Emotions and the Meaning of Life*. Anchor Press.
 1. Lee, S. A., et al. (2024). Brain representations of affective valence and intensity in sustained pleasure and pain. *PNAS*, 121(25), e2310433121.
 1. Tappolet, C. (2016). *Emotions, Values, and Agency*. Oxford University Press.
 1. Taylor, G. J., Bagby, R. M., & Parker, J. D. A. (1997). *Disorders of Affect Regulation: Alexithymia in Medical and Psychiatric Illness*. Cambridge University Press.
-1. Tye, M., & Prinz, J. (2022). Sentience, Vulcans, and zombies: The value of phenomenal consciousness. *AI & Society*.
 1. von Hippel, W., & Trivers, R. (2011). The evolution and psychology of self-deception. *Behavioral and Brain Sciences*, 34(1), 1-16.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-04 05:41:00+00:00
+ai_modified: 2026-09-06 14:06:42+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Emotion and Dualism
 archived: true
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-03 12:41:00+00:00
-lastmod: 2026-03-04 05:41:00+00:00
+lastmod: 2026-09-06 14:06:42+00:00
 modified: *id001
 original_path: /topics/emotional-consciousness/
 related_articles:
@@ -216,7 +216,7 @@ Emotional consciousness is not a puzzle awaiting functional solution. It is evid
 
 ## References
 
-1. Barrett, L. F., & Russell, J. A. (1999). Core affect, prototypical emotional episodes, and other things called emotion: Dissecting the elephant. *Journal of Personality and Social Psychology*, 76(5), 805-819.
+1. Russell, J. A., & Barrett, L. F. (1999). Core affect, prototypical emotional episodes, and other things called emotion: Dissecting the elephant. *Journal of Personality and Social Psychology*, 76(5), 805-819.
 1. Carruthers, P. (2018). Valence and value. *Philosophy and Phenomenological Research*, 97(3), 658-680.
 1. Cleeremans, A., & Tallon-Baudry, C. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1), niac007.
 1. LeDoux, J. E., & Brown, R. (2017). A higher-order theory of emotional consciousness. *Proceedings of the National Academy of Sciences*, 114(10), E2016-E2025.
@@ -224,6 +224,6 @@ Emotional consciousness is not a puzzle awaiting functional solution. It is evid
 1. Scarantino, A., & de Sousa, R. (2021). Emotion. *Stanford Encyclopedia of Philosophy*.
 1. Smithies, D. (2021). Hedonic consciousness and moral status. PhilArchive.
 1. Lee, S. A., et al. (2024). Brain representations of affective valence and intensity in sustained pleasure and pain. *PNAS*, 121(25), e2310433121.
-1. Tye, M., & Prinz, J. (2022). Sentience, Vulcans, and zombies: The value of phenomenal consciousness. *AI & Society*.
+1. Shepherd, J. (2024). Sentience, Vulcans, and zombies: the value of phenomenal consciousness. *AI & Society*, 39(6), 3005-3015.
 1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.
 1. Scheler, M. (1913/1916). *Formalism in Ethics and Non-Formal Ethics of Values*. Trans. M. S. Frings & R. L. Funk. Northwestern University Press, 1973.

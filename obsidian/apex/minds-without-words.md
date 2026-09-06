@@ -4,7 +4,7 @@ description: "Non-linguistic consciousness from animals to simple organisms. The
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-08-21T18:32:44+00:00
+ai_modified: 2026-09-06T14:06:42+00:00
 last_deep_review: 2026-07-19T12:13:24+00:00
 draft: false
 topics:
@@ -178,7 +178,7 @@ This apex article synthesises:
 ## References
 
 1. Andrews, K., Birch, J., & Sebo, J. (2025). Evaluating animal consciousness. *Science*, 387(6736), 822–824.
-2. Barrett, L. F., & Russell, J. A. (1999). Core affect, prototypical emotional episodes, and other things called emotion. *Journal of Personality and Social Psychology*, 76(5), 805–819.
+2. Russell, J. A., & Barrett, L. F. (1999). Core affect, prototypical emotional episodes, and other things called emotion: Dissecting the elephant. *Journal of Personality and Social Psychology*, 76(5), 805–819. https://doi.org/10.1037/0022-3514.76.5.805
 3. Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
 4. Carruthers, P. (2018). Valence and value. *Philosophy and Phenomenological Research*, 97(3), 658–680.
 5. Chittka, L., Skeels, S., Dyakova, O., & Janbon, M. (2025). The exploration of consciousness in insects. *Philosophical Transactions of the Royal Society B*, 380(1939). DOI: 10.1098/rstb.2024.0302.
