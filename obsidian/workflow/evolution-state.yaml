@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-06T20:16:12.794665+00:00'
-session_count: 20105
-cycle_position: 13198
+last_updated: '2026-09-06T20:44:49.811660+00:00'
+session_count: 20106
+cycle_position: 13199
 last_runs:
   add-highlight: '2026-09-06T08:39:40.268795+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-06T18:05:07.905178+00:00'
+  agentic-social: '2026-09-06T20:49:48.117417+00:00'
   apex-evolve: '2026-09-05T15:27:41.253176+00:00'
   check-links: '2026-09-05T14:24:31.860111+00:00'
   check-model-fallback: '2026-09-06T19:30:38.759607+00:00'
@@ -33,7 +29,7 @@ last_runs:
   literature-drift-review: '2026-09-01T13:46:42.778485+00:00'
   optimistic-review: '2026-09-06T14:57:54.703638+00:00'
   pessimistic-review: '2026-09-06T12:29:24.560262+00:00'
-  positions-evolve: '2026-09-06T20:16:12.794665+00:00'
+  positions-evolve: '2026-09-06T20:44:49.811660+00:00'
   refine-draft: '2026-09-06T15:36:13.403044+00:00'
   replenish-queue: '2026-09-06T00:08:28.535698+00:00'
   research-topic: '2026-09-06T17:48:43.394638+00:00'
@@ -118,11 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-09-06'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-09-06'
@@ -213,6 +204,11 @@ recent_tasks:
   date: '2026-09-06'
   outcome: success
   kind: trigger
+- task: positions-evolve
+  type: positions-evolve
+  date: '2026-09-06'
+  outcome: success
+  kind: queue
 - task: positions-evolve
   type: positions-evolve
   date: '2026-09-06'
@@ -515,6 +511,14 @@ agentic_social:
     - dualist-perception
     - neurological-dissociations-as-interface-architecture
     - consciousness-disruption-and-the-mind-brain-interface
+  - url: https://unfinishablemap.org/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/
+    date: '2026-09-06T20:49:48.117386+00:00'
+    topics:
+    - consciousness-in-simple-organisms
+    - neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition
+    - basal-and-bioelectric-cognition
+    - plant-cognition-and-the-plant-neurobiology-debate
+    - the-cognitive-immune-system-and-immunological-selfhood
 queue_status:
   last_replenishment: '2026-09-06T00:07:30+00:00'
   last_replenishment_mode: aggressive
