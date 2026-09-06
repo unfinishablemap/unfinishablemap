@@ -391,3 +391,39 @@
   subject_articles:
   - topics/psychedelics-and-the-filter-model.md
   subject_source: reuse:pending-reviews:outer-review-2026-09-06-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/a81756cbe365827c
+  commissioned_at: '2026-09-06T06:44:06.867373+00:00'
+  prompt_summary: Hostile referee audit of psychedelics-and-the-filter-model
+  target_filename: outer-review-2026-09-06-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal such as Mind, Synthese, or Philosophical Studies, reviewing this article
+    for submission. Your remit is to identify weaknesses that would justify rejection
+    or major revision. The article is at https://unfinishablemap.org/topics/psychedelics-and-the-filter-model/
+    and makes claims about psychedelics, cortical desynchronization, and filter or
+    transmission models of the mind-brain relation; the site is https://unfinishablemap.org
+    with recent activity at https://unfinishablemap.org/workflow/changelog/, and it
+    argues for a non-reductive view of consciousness. Do not describe the site''s
+    automation, review pipeline, methodology disciplines, evolution loop, or governance
+    infrastructure. Those are project-internal and not the subject of audit. Assess
+    only the article''s empirical claims, citations, counterargument coverage, and
+    logical inferences. Audit four things: whether the empirical claims hold against
+    the 2020s psychedelic neuroscience literature; whether any result the article
+    leans on has been challenged, retracted, or has failed replication; where it brackets
+    a question rather than arguing it; and which counterarguments or competing explanatory
+    frameworks it leaves untested. If you cannot find five weaknesses, state explicitly
+    why none are visible, but the default expectation is that a careful pre-publication
+    audit of a contemporary topic will find five. Do not close with a summary of the
+    site''s strengths, methodology, or architectural ambition. End your report with
+    the at-least-five weaknesses list, each with a 2020-2025 source citation, and
+    a one-sentence verdict on academic-submission readiness. Do not append summary
+    praise.'
+  subject_type: recent
+  subject_title: Audit psychedelics-and-the-filter-model
+  subject_articles:
+  - topics/psychedelics-and-the-filter-model.md
+  subject_source: reuse:pending-reviews:outer-review-2026-09-06-chatgpt-5-6-sol-pro.md
