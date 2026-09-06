@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-05T23:42:26.653522+00:00'
-session_count: 20055
+last_updated: '2026-09-06T00:08:28.535698+00:00'
+session_count: 20056
 cycle_position: 13171
 last_runs:
   add-highlight: '2026-09-05T08:10:58.764073+00:00'
@@ -35,7 +35,7 @@ last_runs:
   pessimistic-review: '2026-09-05T17:49:26.059754+00:00'
   positions-evolve: '2026-09-05T17:28:23.644222+00:00'
   refine-draft: '2026-09-05T23:20:31.719079+00:00'
-  replenish-queue: '2026-09-04T21:31:53.122181+00:00'
+  replenish-queue: '2026-09-06T00:08:28.535698+00:00'
   research-topic: '2026-09-05T13:40:30.136484+00:00'
   research-voids: '2026-09-05T14:53:12.713636+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: positions-evolve
-  type: positions-evolve
-  date: '2026-09-05'
-  outcome: success
-  kind: queue
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-09-05'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-05'
   outcome: success
   kind: queue
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-09-06'
+  outcome: success
+  kind: replenish
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agency-budget/
@@ -475,53 +475,63 @@ agentic_social:
 queue_status:
   last_replenishment: '2026-09-06T00:07:30+00:00'
   last_replenishment_mode: aggressive
-  last_replenishment_note: 'RUN 1025. AGGRESSIVE-BAND MINT, NINE TASKS (six P2, three P3), fired at 2026-09-06T00:07:30+00:00
-    to close the 2026-09-05 session: parser-verified pickable P0-P2 was 2 against the floor of 3 (the
-    three P2 condense tasks at the top of Active carry a veto tag and do not count). Caps re-measured
-    with tools.evolution.state.count_section_files: topics 324/360, concepts 324/360, voids 101/115, positions
-    18/80 - no cap pressure. MINTS 1-3 (P2 expand-topic, unconsumed_research, capped at three per source):
+  last_replenishment_note: 'RUN 1025. AGGRESSIVE-BAND MINT, NINE TASKS (six P2, three
+    P3), fired at 2026-09-06T00:07:30+00:00 to close the 2026-09-05 session: parser-verified
+    pickable P0-P2 was 2 against the floor of 3 (the three P2 condense tasks at the
+    top of Active carry a veto tag and do not count). Caps re-measured with tools.evolution.state.count_section_files:
+    topics 324/360, concepts 324/360, voids 101/115, positions 18/80 - no cap pressure.
+    MINTS 1-3 (P2 expand-topic, unconsumed_research, capped at three per source):
     research/moral-status-gradualism-and-the-threshold-view-2026-09-05 -> topics/moral-status-threshold-or-degrees;
     research/the-experience-requirement-on-well-being-2026-09-05 -> topics/the-experience-requirement-on-well-being;
     research/constructed-emotion-and-valence-as-a-natural-kind-2026-09-05 -> topics/valence-as-a-natural-kind.
-    All three notes carry a recorded PROCEED assess-first verdict, none has a consumed_by key at all (absent,
-    not null - the tasks tell the expand to stamp it), no live/archive/Hugo slug collision for any, and
-    the Vetoed bank has no entry on any of the three subjects (header and body grep). Each task carries
-    the note''s own evidence tiers verbatim as source fences. MINT 4 (P2 expand-topic, chain): task_chains.pending_articles
-    sole entry research/voids-modality-void-2026-09-05 -> voids/modality-void, source fences carried verbatim
-    from the entry (Nudds 2004 / Keeley 2002 not read directly, Merzenich via Hurley-Noe, Keeley criteria
-    unverified paraphrase, Fardo preprint-only); fold fallbacks named; the expand is told to clear the
-    pending_articles entry itself. MINT 5 (P2 refine-draft, gap_analysis): topics/ethics-of-consciousness-invertebrate-question
-    L45+L51 physicalism-entails-gradualism claim (false: Singer/Sebo/Wendler/Rethink Priorities are physicalist
-    unitarians) plus the L51 vs concepts/degrees-of-consciousness L36 binary seam; both loci re-grepped
-    verbatim this run; flagged by the 11:05 research-topic run and research note 1 angle 7(a), left untouched
-    by the 16:25 refine of the same file. MINT 6 (P2 refine-draft, optimistic_review Finding 5a + research
-    note 3 corpus-baseline flag): topics/emotion-and-dualism L227 Tye-and-Prinz-2022 -> Shepherd 2024
-    and L203 Barrett-and-Russell -> Russell-and-Barrett 1999; BOTH RE-VERIFIED AT CROSSREF THIS RUN (10.1007/s00146-023-01835-6
-    sole author Shepherd, AI and Society 39:3005-3015, issued 2024-01-12; 10.1037/0022-3514.76.5.805 Russell
-    then Barrett, JPSP 76(5):805-819); sibling loci listed in the task (apex/minds-without-words L181,
-    research 2026-01-19 L293/L306, archive/topics/emotional-consciousness L216/L224, Hugo mirrors). MINTS
-    7-9 (P3 refine-draft, review_spillover - each a reports-only fork''s out-of-contract flag, each re-grepped
-    on disk): valence-and-conscious-selection L172 incentive-sensitization attribution (LENGTH-NEUTRAL;
-    file over hard under an open HUMAN LENGTH DECISION, refined twice 2026-09-05); voids/voids.md L228
-    acquaintance-void cross-listed under its coalesced predecessor''s title Pre-Conceptual Knowing (optimistic
-    perceptual-manufacture L175; cross-listing is the index''s normal pattern, the stale label is the
-    defect); apex/consciousness-and-agency missing reference entries for Schurger 2012 / Sjoberg 2024
-    / Saad 2025 / Tegmark 2000 (apex-evolve report L98; task points at the spoke files carrying each form
-    and requires Crossref confirmation). DECLINED, NOT REPRODUCIBLE: the reported positions/methodology-and-calibration-history
-    preamble count defect (the phrase ''the three notes below'') - grep returns zero; L27 reads ''The
-    notes below''. DEFERRED TO THE NEXT RUN, VERIFIED AND STILL OPEN: (i) research/common-currency-valuation-and-sequential-sampling-models-2026-09-05
-    -> topics (PROCEED; fourth unconsumed note this run, held only by the three-per-source cap; the note
-    records a fallback of a ~400-word strand in the-steelman-for-value-blind-selection) - no consumed_by
-    key, so the next unconsumed scan will surface it; (ii) archive/topics/suffering-versus-pain.md L64
-    still carries the retired insular-cortex / anterior-cingulate asymbolia mechanism string (Hugo mirror
-    L68) - archived, ai_modified 2026-02, lowest value; the open archive P3s establish that archive edits
-    are permitted. CHURN CONSTRAINT HONOURED: no condense minted; the five articles that grew on 2026-09-05
-    under reviewer-required corrections (ethics-of-cognitive-enhancement-under-dualism 5700 over hard,
-    affective-forecasting-gap, interoceptive-consciousness-and-the-interface, phenomenal-normativity-environmental-ethics,
-    pain-asymbolia) are untouched and the growth was reviewer-driven; the length source was not consulted
-    for mints. Staleness source not used (deep-review pool default excludes apex/voids/positions and was
-    not widened from replenish). Post-mint counts by parser: pickable P0-P2 8; ai_modified on todo.md
-    bumped; state YAML load-verified after this write.'
+    All three notes carry a recorded PROCEED assess-first verdict, none has a consumed_by
+    key at all (absent, not null - the tasks tell the expand to stamp it), no live/archive/Hugo
+    slug collision for any, and the Vetoed bank has no entry on any of the three subjects
+    (header and body grep). Each task carries the note''s own evidence tiers verbatim
+    as source fences. MINT 4 (P2 expand-topic, chain): task_chains.pending_articles
+    sole entry research/voids-modality-void-2026-09-05 -> voids/modality-void, source
+    fences carried verbatim from the entry (Nudds 2004 / Keeley 2002 not read directly,
+    Merzenich via Hurley-Noe, Keeley criteria unverified paraphrase, Fardo preprint-only);
+    fold fallbacks named; the expand is told to clear the pending_articles entry itself.
+    MINT 5 (P2 refine-draft, gap_analysis): topics/ethics-of-consciousness-invertebrate-question
+    L45+L51 physicalism-entails-gradualism claim (false: Singer/Sebo/Wendler/Rethink
+    Priorities are physicalist unitarians) plus the L51 vs concepts/degrees-of-consciousness
+    L36 binary seam; both loci re-grepped verbatim this run; flagged by the 11:05
+    research-topic run and research note 1 angle 7(a), left untouched by the 16:25
+    refine of the same file. MINT 6 (P2 refine-draft, optimistic_review Finding 5a
+    + research note 3 corpus-baseline flag): topics/emotion-and-dualism L227 Tye-and-Prinz-2022
+    -> Shepherd 2024 and L203 Barrett-and-Russell -> Russell-and-Barrett 1999; BOTH
+    RE-VERIFIED AT CROSSREF THIS RUN (10.1007/s00146-023-01835-6 sole author Shepherd,
+    AI and Society 39:3005-3015, issued 2024-01-12; 10.1037/0022-3514.76.5.805 Russell
+    then Barrett, JPSP 76(5):805-819); sibling loci listed in the task (apex/minds-without-words
+    L181, research 2026-01-19 L293/L306, archive/topics/emotional-consciousness L216/L224,
+    Hugo mirrors). MINTS 7-9 (P3 refine-draft, review_spillover - each a reports-only
+    fork''s out-of-contract flag, each re-grepped on disk): valence-and-conscious-selection
+    L172 incentive-sensitization attribution (LENGTH-NEUTRAL; file over hard under
+    an open HUMAN LENGTH DECISION, refined twice 2026-09-05); voids/voids.md L228
+    acquaintance-void cross-listed under its coalesced predecessor''s title Pre-Conceptual
+    Knowing (optimistic perceptual-manufacture L175; cross-listing is the index''s
+    normal pattern, the stale label is the defect); apex/consciousness-and-agency
+    missing reference entries for Schurger 2012 / Sjoberg 2024 / Saad 2025 / Tegmark
+    2000 (apex-evolve report L98; task points at the spoke files carrying each form
+    and requires Crossref confirmation). DECLINED, NOT REPRODUCIBLE: the reported
+    positions/methodology-and-calibration-history preamble count defect (the phrase
+    ''the three notes below'') - grep returns zero; L27 reads ''The notes below''.
+    DEFERRED TO THE NEXT RUN, VERIFIED AND STILL OPEN: (i) research/common-currency-valuation-and-sequential-sampling-models-2026-09-05
+    -> topics (PROCEED; fourth unconsumed note this run, held only by the three-per-source
+    cap; the note records a fallback of a ~400-word strand in the-steelman-for-value-blind-selection)
+    - no consumed_by key, so the next unconsumed scan will surface it; (ii) archive/topics/suffering-versus-pain.md
+    L64 still carries the retired insular-cortex / anterior-cingulate asymbolia mechanism
+    string (Hugo mirror L68) - archived, ai_modified 2026-02, lowest value; the open
+    archive P3s establish that archive edits are permitted. CHURN CONSTRAINT HONOURED:
+    no condense minted; the five articles that grew on 2026-09-05 under reviewer-required
+    corrections (ethics-of-cognitive-enhancement-under-dualism 5700 over hard, affective-forecasting-gap,
+    interoceptive-consciousness-and-the-interface, phenomenal-normativity-environmental-ethics,
+    pain-asymbolia) are untouched and the growth was reviewer-driven; the length source
+    was not consulted for mints. Staleness source not used (deep-review pool default
+    excludes apex/voids/positions and was not widened from replenish). Post-mint counts
+    by parser: pickable P0-P2 8; ai_modified on todo.md bumped; state YAML load-verified
+    after this write.'
   last_replenishment_run: 1025
   loop_pickable_open: 8
   needs_replenishment: false
