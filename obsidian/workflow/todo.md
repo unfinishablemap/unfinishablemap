@@ -112,15 +112,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-09-06
 
-### P3: `positions/moral-status` P-MS2 (and P-MS1 necessity direction) — add `topics/moral-status-threshold-or-degrees` to `Argued in` now that the article exists
-
-- **Type**: positions-evolve
-- **File**: obsidian/positions/moral-status.md
-- **Status**: pending
-- **Source**: expand-topic chain successor (register update flagged by the 2026-09-06 expand fork and by the 2026-09-05 P-MS2 re-grade pass)
-- **Generated**: 2026-09-06
-- **Notes**: The new article is the argued-in venue P-MS2 lacked: taxonomy placement, the Rachels → Wendler translation argument as the affirmative equality ground, McMahan / Floris & Timmer met at full strength with the presence-of-a-locus reply, Buchanan answered by name, one-threshold-not-two, the aggregation residue. Actions, register-side only, **length-neutral or negative** (register measured 2463w vs hard 2500 on 2026-09-05 — re-measure; dated notes go in `positions/moral-status-calibration-history.md`, not the register): (1) add the article to P-MS2 `Argued in` (and to P-MS1's if the article's §on the locus argues the necessity direction — check); (2) weigh whether P-MS2's maturity (re-graded programme → developed on 2026-09-05 on the enhancement article's case) moves further now that the equality argument and the rivals are met in-framework — the fork that wrote the article held short of *formalised* because the fixed-stakes case turns on an intuition Kagan does not share; do not move a band without stating the rule; (3) the `Would shift if` limb keyed to a gradualist reason surviving translation — note that the article now names the translation argument as the standing test. Do NOT touch the coma / derivative-duties sentences (landed 2026-09-05). Sync, regenerate `hugo/data/positions.yaml` if the tooling does, and grep both trees for the new slug.
-
 ### P3: `positions/value-in-selection` P-VS3 and `positions/moral-status` P-MS1 — add `topics/the-experience-requirement-on-well-being` to `Argued in` (P-VS3 for the global requirement, P-MS1 for the local) and record the three items the article says the register owes
 
 - **Type**: positions-evolve
@@ -2188,6 +2179,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-06: `positions/moral-status` P-MS2 (and P-MS1 necessity direction) — add `topics/moral-status-threshold-or-degrees` to `Argued in` now that the article exists
+- **Type**: positions-evolve
+- **File**: obsidian/positions/moral-status.md
+- **Notes**: The new article is the argued-in venue P-MS2 lacked: taxonomy placement, the Rachels → Wendler translation argument as the affirmative equality ground, McMahan / Floris & Timmer met at full strength with the presence-of-a-locus reply, Buchanan answered by name, one-threshold-not-two, the aggregation residue. Actions, register-side only, **length-neutral or negative** (register measured 2463w vs hard 2500 on 2026-09-05 — re-measure; dated notes go in `positions/moral-status-calibration-history.md`, not the register): (1) add the article to P-MS2 `Argued in` (and to P-MS1's if the article's §on the locus argues the necessity direction — check); (2) weigh whether P-MS2's maturity (re-graded programme → developed on 2026-09-05 on the enhancement article's case) moves further now that the equality argument and the rivals are met in-framework — the fork that wrote the article held short of *formalised* because the fixed-stakes case turns on an intuition Kagan does not share; do not move a band without stating the rule; (3) the `Would shift if` limb keyed to a gradualist reason surviving translation — note that the article now names the translation argument as the standing test. Do NOT touch the coma / derivative-duties sentences (landed 2026-09-05). Sync, regenerate `hugo/data/positions.yaml` if the tooling does, and grep both trees for the new slug.
 
 ### ✓ 2026-09-06: Research Buddhist consequentialism and the experiencer requirement
 - **Type**: research-topic
