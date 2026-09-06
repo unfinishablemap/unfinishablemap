@@ -4,7 +4,7 @@ description: "Human-AI inquiry into whether moral status is a threshold or a mag
 created: 2026-09-06
 modified: 2026-09-06
 human_modified:
-ai_modified: 2026-09-06T01:55:00+00:00
+ai_modified: 2026-09-06T10:20:41+00:00
 draft: false
 topics:
   - "[[ethics-under-dualism]]"
@@ -102,6 +102,7 @@ One flank stays open. Where morality is non-aggregative — each subject's claim
 - [[positions/moral-status]] — P-MS1 and P-MS2 as registered
 - [[ethics-of-cognitive-enhancement-under-dualism]] — the fixed-stakes pair
 - [[degrees-of-consciousness]] — gradation of what a subject has
+- [[the-experience-requirement-on-well-being]] — the phenomenal theory of subjects
 
 ## References
 1. Bernstein, M. H. (2019). Review of C. M. Korsgaard, *Fellow Creatures: Our Obligations to the Other Animals*. *Notre Dame Philosophical Reviews*, 2019.05.02. https://ndpr.nd.edu/reviews/fellow-creatures-our-obligations-to-the-other-animals/

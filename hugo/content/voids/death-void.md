@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-08-23 22:49:27+00:00
+ai_modified: 2026-09-06 10:20:41+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 03:16:59+00:00
-lastmod: 2026-08-23 22:49:27+00:00
+lastmod: 2026-09-06 10:20:41+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -58,7 +58,7 @@ The paradox has a logical structure:
 
 The death void recurs across the Western canon with notable consistency.
 
-**Epicurus** argued that "death, the most frightening of bad things, is nothing to us; since when we exist, death is not yet present, and when death is present, then we do not exist." The experience requirement—that something must be experienced to be good or bad—shows death cannot harm the one who dies. There is no subject present to be harmed. Thomas Nagel's "Death" (1970) presses the standard rebuttal to this Epicurean move: death can harm as a *deprivation*—a loss of the goods life would otherwise have contained—even when no subject remains to feel the loss, much as a betrayal one never learns of can harm without being experienced. The death *void*, however, concerns representability rather than the badness of death: even if Nagel is right that death harms, the experiential absence it brings remains unrepresentable from within, so the deprivation debate refines *whether death is bad* without dissolving the void.
+**Epicurus** argued that "death, the most frightening of bad things, is nothing to us; since when we exist, death is not yet present, and when death is present, then we do not exist." [The experience requirement](/topics/the-experience-requirement-on-well-being/#split)—that something must be experienced to be good or bad—shows death cannot harm the one who dies. There is no subject present to be harmed. Thomas Nagel's "Death" (1970) presses the standard rebuttal to this Epicurean move: death can harm as a *deprivation*—a loss of the goods life would otherwise have contained—even when no subject remains to feel the loss, much as a betrayal one never learns of can harm without being experienced. The death *void*, however, concerns representability rather than the badness of death: even if Nagel is right that death harms, the experiential absence it brings remains unrepresentable from within, so the deprivation debate refines *whether death is bad* without dissolving the void.
 
 **Wittgenstein** declared that "death is not an event in life: we do not live to experience death." Death is neither a positive nor negative fact within experience but the limit of all possible experience. "At death the world does not alter, but comes to an end." The transcendental subject does not belong to the world; its death ends the world for that subject.
 
