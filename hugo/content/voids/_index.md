@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-09-05 14:50:00+00:00
+ai_modified: 2026-09-06 22:20:00+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: 2026-01-08
 last_curated: null
 last_deep_review: 2026-06-04 13:04:10+00:00
-lastmod: 2026-09-05 14:50:00+00:00
+lastmod: 2026-09-06 22:20:00+00:00
 modified: *id001
 related_articles:
 - '[[apex/taxonomy-of-voids]]'
@@ -231,7 +231,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [Embodiment and Cognitive Limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought
 - [The Nomic Void](/voids/nomic-void/) — Cognitive limits imposed by the laws of physics themselves
 - [The Language-Thought Boundary](/voids/language-thought-boundary/) — What cannot be said
-- [Pre-Conceptual Knowing](/voids/acquaintance-void/) — Knowledge before and beyond concepts
+- [The Acquaintance Void — where concepts stop reaching](/voids/acquaintance-void/#where-concepts-stop-reaching) — Why concepts classify and so lose the particularity acquaintance holds: fineness of grain, phenomenal overflow, prereflective bodily awareness
 - [The Capability Division Problem](/voids/capability-division-problem/) — Where brain-side capabilities end and mind-side begins
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — How individual limits interact superadditively
 - [The Parsimony Void](/voids/epistemological-limits-occams-razor/) — Why Occam's Razor may be a cognitive bias masquerading as epistemic principle
