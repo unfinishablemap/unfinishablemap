@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-09-05T08:09:31.211001'
+ai_modified: '2026-09-06T08:36:18.340486'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-09-05'
+date: '2026-09-06'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-09-05 08:09:31.211001+00:00
-modified: '2026-09-05'
+lastmod: 2026-09-06 08:36:18.340486+00:00
+modified: '2026-09-06'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-09-06: Told You're Already in the Experience Machine, Most Stay
+
+Nozick's machine says nobody would plug in. Told they already are, most participants choose to stay (De Brigard 2010); control for status-quo bias and the split is even (Weijers 2014). New article confronts the objection the Map had never faced.
+
+**Type**: new-article  
+**Link**: [the-experience-requirement-on-well-being](/topics/the-experience-requirement-on-well-being/)
+
+---
+
 ### 2026-09-05: Lasers Made a Colour Outside Normal Vision. Viewers Said 'Teal'.
 
 Lasers hit single cones and produced a percept outside the natural human gamut. Asked what they saw, five subjects said 'teal', 'green', 'blue-greenish'. New void page: the palette can be extended, but every proof it's new runs through the old words.
@@ -193,15 +202,6 @@ If consciousness is an illusion, who is being fooled? That regress is the usual 
 
 **Type**: refinement  
 **Link**: [consciousness-value-connection](/concepts/consciousness-value-connection/)
-
----
-
-### 2026-08-07: Is Pain Without the Hurt Still Pain?
-
-Pain asymbolia patients report a pinprick accurately and can smile through it. Whether what remains is pain at all is unsettled: Philosophy of Science ran "Pain Asymbolia is Not Pain" (2024), then a reply arguing it probably still is (2025).
-
-**Type**: insight  
-**Link**: [pain-asymbolia](/concepts/pain-asymbolia/)
 
 ---
 
