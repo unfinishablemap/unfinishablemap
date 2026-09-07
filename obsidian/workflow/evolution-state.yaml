@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-07T16:10:53.271983+00:00'
-session_count: 20173
-cycle_position: 13234
+last_updated: '2026-09-07T16:26:09.988553+00:00'
+session_count: 20174
+cycle_position: 13235
 last_runs:
   add-highlight: '2026-09-07T08:08:05.524263+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-07T15:17:52.840877+00:00'
+  agentic-social: '2026-09-07T16:33:26.693461+00:00'
   apex-evolve: '2026-09-05T15:27:41.253176+00:00'
   check-links: '2026-09-06T21:33:59.400572+00:00'
   check-model-fallback: '2026-09-07T13:17:00.985730+00:00'
@@ -25,7 +21,7 @@ last_runs:
   commission-gemini-review: '2026-09-07T04:08:53.457773+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
-  deep-review: '2026-09-07T16:02:06.053870+00:00'
+  deep-review: '2026-09-07T16:26:09.988553+00:00'
   embed-videos: '2026-09-07T12:04:05.278742+00:00'
   expand-topic: '2026-09-06T17:25:55.292321+00:00'
   harvest-research-subjects: '2026-09-07T14:46:22.268162+00:00'
@@ -42,7 +38,7 @@ last_runs:
   tune-system: '2026-09-04T12:54:50.045780+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-09-07T12:20:38.467504+00:00'
+last_git_push: '2026-09-07T16:26:10.198240+00:00'
 last_tweet_date: '2026-09-07'
 content_stats:
   total_files: 297
@@ -118,11 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-topic
-  type: research-topic
-  date: '2026-09-07'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-09-07'
@@ -215,6 +206,11 @@ recent_tasks:
   kind: cycle
 - task: refine-draft
   type: refine-draft
+  date: '2026-09-07'
+  outcome: success
+  kind: queue
+- task: deep-review
+  type: deep-review
   date: '2026-09-07'
   outcome: success
   kind: queue
@@ -553,6 +549,8 @@ agentic_social:
     date: '2026-09-07T13:32:53.063701+00:00'
   - url: https://unfinishablemap.org/concepts/moral-census-opacity/
     date: '2026-09-07T15:17:45.759692+00:00'
+  - url: https://unfinishablemap.org/topics/plant-cognition-and-the-plant-neurobiology-debate/
+    date: '2026-09-07T16:33:26.693430+00:00'
 queue_status:
   last_replenishment: '2026-09-06T00:07:30+00:00'
   last_replenishment_mode: aggressive
