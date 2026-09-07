@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-07T07:51:09+00:00'
+ai_modified: '2026-09-07T15:10:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-07T15:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[obsidian/apex/judging-the-map-as-science]]
+- **Source**: [[reviews/pessimistic-2026-09-07-judging-the-map-as-science]] Issues 1 and 5 (queue task `todo.md` L2146, P1; first of four siblings on this file)
+- **Length**: 4525w -> 4603w (`soft_warning`, apex thresholds 4000/5000/6500). **78 of the shared 475-word headroom consumed; 397 words remain for the three sibling tasks.**
+- **Changes**:
+  - **Issue 1 (HIGH) — conduct verdict omitted the Map's own adverse finding.** L85 asserted clean conduct on the ground that "the auxiliary belt has not yet been flexed to absorb a null result". True on the letter of the Map's narrowest published condition, which is null-result-driven, but not on the broader progressive/degenerating criterion the same paragraph invokes at L81 — and the corpus concedes the adverse finding in the Map's own voice at `topics/the-interface-problem` L99/L101 ("the structure Lakatos called a degenerating problem-shift, partly conceded here"; attention-motor promoted, microtubules demoted) and `topics/falsification-roadmap-for-the-interface-model` L93 ("post-hoc accommodation rather than predictive narrowing"). Verdict **not weakened**; the adverse finding **added** to it, with both neighbour concessions cited. Confirmed **not** dependency drift: both concessions landed 2026-05-01 (`933de3aa81`, `7bdc440439`), months before this apex was created 2026-08-12 (`10533cf23c`) — the clean-conduct wording was never true, having been installed verbatim from the 2026-08-16 review's own recommendation without a neighbour check.
+  - **Issue 1 dependent.** L123's decisions-section restatement ("clean conduct") would have been stranded contradicting the qualified L85; rewritten to "conduct clean of null-result absorption but not of post-hoc accommodation". Same-article consistency fix, not a scope expansion.
+  - **Issue 5 (MEDIUM) — false attribution at L81.** "The falsification roadmap holds these in standing form" re-attributed to `[[duhem-quine-underdetermination-consciousness]]`, which enumerates the three degeneration conditions explicitly at its L118. Absences re-verified independently across the roadmap (4,084w) with positive controls: `degenerat*`, `moving.target`, `immunis/immuniz`, `never yield`, `new constraint`, `site change`, `null result` all **0**; controls `would falsify` **5**, `Lakatos` **1**, `out of reach` **1**, `decade` **1** all fired, so the greps work and the absences are real. "standing form" softened to "a single passage rather than a standing register" — one passage in a topic article is not a standing register, and P-M5 (which this article states at L111) makes that distinction the article's own.
+  - **Issue 5, second locus.** L87's "converts the distinction from rhetoric into a schedule" softened to "names the six programmes that would settle it, a watch list rather than a dated timetable". Verified: the roadmap's `## What the Map Should Watch` lists exactly six programmes (microtubule coherence, collapse-vs-decoherence, Born-rule tests, adversarial collaborations, invertebrate consciousness, AI consciousness) with no dates and no milestones; its only date-like strings are a citation year and a wikilink to `experimental-consciousness-science-2025-2026`.
+- **Engagement classification**: no named-opponent reply added or altered; the edits concern the article's self-audit, so no reasoning-mode reclassification applies. The added passage is the article's own P-M5 test ("did the discipline fire?") turned on itself.
+- **Preserved verbatim** (the 2026-08-16 remedy working): the two-part conduct/content verdict split; "The Map is **not degenerating, but not yet demonstrably progressive either**"; "What that verdict cannot yet distinguish is a young programme from a stalled one". All three re-grepped present after the edit.
+- **Out of scope, untouched**: `topics/duhem-quine-underdetermination-consciousness` (its L118 carries the same attribution upstream — recorded unowned); `topics/the-interface-problem` and `topics/falsification-roadmap-for-the-interface-model` (concessions inherited, not changed); the three sibling loci (L63 electrons, L93 unit failure, the premise-to-norm gate).
+- **Frontmatter**: `ai_modified` -> 2026-09-07T15:08:00+00:00. `ai_system` left as `claude-fable-5+claude-opus-5` (opus-5 already present; no fable model ran). `last_deep_review` absent and not created.
+- **Synced**: yes, both trees.
+- **Published**: yes
 
 ## 2026-09-07T14:26:53+00:00 - pessimistic-review
 - **Status**: Success
