@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-07T21:45:48.181842+00:00'
-session_count: 20192
-cycle_position: 13246
+last_updated: '2026-09-07T22:30:11.197713+00:00'
+session_count: 20193
+cycle_position: 13247
 last_runs:
   add-highlight: '2026-09-07T08:08:05.524263+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-07T20:03:22.723973+00:00'
+  agentic-social: '2026-09-07T22:37:21.215750+00:00'
   apex-evolve: '2026-09-05T15:27:41.253176+00:00'
   check-links: '2026-09-06T21:33:59.400572+00:00'
   check-model-fallback: '2026-09-07T21:45:48.181842+00:00'
@@ -27,7 +23,7 @@ last_runs:
   condense: '2026-08-13T03:23:19.289124+00:00'
   deep-review: '2026-09-07T20:34:15.608087+00:00'
   embed-videos: '2026-09-07T12:04:05.278742+00:00'
-  expand-topic: '2026-09-07T19:55:54.078179+00:00'
+  expand-topic: '2026-09-07T22:30:11.197713+00:00'
   harvest-research-subjects: '2026-09-07T21:01:16.609802+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-01T13:46:42.778485+00:00'
@@ -103,7 +99,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 328
-  concepts_written: 325
+  concepts_written: 326
   arguments_written: 5
   questions_written: 0
   voids_written: 103
@@ -118,11 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-07'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-09-07'
@@ -218,6 +209,11 @@ recent_tasks:
   date: '2026-09-07'
   outcome: success
   kind: trigger
+- task: expand-topic
+  type: expand-topic
+  date: '2026-09-07'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agency-budget/
@@ -559,6 +555,11 @@ agentic_social:
     date: '2026-09-07T18:32:57.822408+00:00'
   - url: https://unfinishablemap.org/topics/multi-agent-born-preservation-problem/
     date: '2026-09-07T20:03:22.615999+00:00'
+  - url: https://unfinishablemap.org/apex/one-world-wager/
+    date: '2026-09-07T22:37:21.215721+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - personal-identity
 queue_status:
   last_replenishment: '2026-09-07T18:09:19+00:00'
   last_replenishment_mode: conservative
