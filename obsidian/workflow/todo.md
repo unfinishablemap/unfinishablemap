@@ -37,20 +37,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt default-mode-network calibration in psychedelics-and-the-filter-model
+### ✓ 2026-09-07: Adopt neural-correlates-of-consciousness calibration in psychedelics-and-the-filter-model
 - **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/psychedelics-and-the-filter-model.md
-- **Notes**: From topic-concept anchoring audit 2026-09-07. The topic article over-claims relative to its anchor concept [[default-mode-network]]; failed checks: hedge_density, underdetermination_markers.
-  - hedge density 2.26/kw is below 3.00/kw (target = 60% of anchor 7.80/kw, capped at 3.0/kw)
-  - anchor declares underdetermination (2× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-09-07
-
-### P2: Adopt neural-correlates-of-consciousness calibration in psychedelics-and-the-filter-model
-- **Type**: refine-draft
-- **Status**: pending
+- **Status**: resolved — moot. `anchoring_audit_exempt: true` set on the article in the same 2026-09-07 pass that closed the sibling `default-mode-network` task. `_is_anchoring_exempt` short-circuits before the anchor loop, so the single flag clears BOTH anchor flags; `evaluate_anchoring` now returns `[]`. Verified false high on both checks: the article declares underdetermination at L116 ("First-person reports underdetermine the choice") which none of the nine `UNDERDETERMINATION_PATTERNS` match (they require `underdetermined by the (data|evidence)`), and commit `dd1a43bbe3` earlier the same day removed `empirically equivalent` — itself a counted pattern — in favour of a more accurate asymmetric-burden framing. Article also has 16 words of headroom against its 4000 hard ceiling. No prose change was warranted or made.
 - **File**: obsidian/topics/psychedelics-and-the-filter-model.md
 - **Notes**: From topic-concept anchoring audit 2026-09-07. The topic article over-claims relative to its anchor concept [[neural-correlates-of-consciousness]]; failed checks: hedge_density, underdetermination_markers.
   - hedge density 2.26/kw is below 2.65/kw (target = 60% of anchor 4.42/kw, capped at 3.0/kw)
@@ -58,7 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-09-07
-
 
 ### P2: `apex/moral-architecture-of-consciousness` L148 presents pain asymbolia as evidence that valence does causal work, without the confound `positions/value-in-selection` books against exactly that leg
 - **Type**: refine-draft
@@ -2179,6 +2167,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-07: Adopt default-mode-network calibration in psychedelics-and-the-filter-model
+- **Type**: refine-draft
+- **File**: obsidian/topics/psychedelics-and-the-filter-model.md
+- **Notes**: From topic-concept anchoring audit 2026-09-07. The topic article over-claims relative to its anchor concept [[default-mode-network]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 2.26/kw is below 3.00/kw (target = 60% of anchor 7.80/kw, capped at 3.0/kw)
+  - anchor declares underdetermination (2× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 
 ### ✓ 2026-09-07: `apex/phenomenology-mechanism-bridge` L75 states the choking argument at a strength L132 of the same article already withdraws
 - **Type**: refine-draft

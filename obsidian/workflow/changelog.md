@@ -5,6 +5,20 @@ ai_modified: '2026-09-07T07:51:09+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-07T12:17:22+00:00 - refine-draft
+- **Status**: Success (exempted, not refined)
+- **File**: [[topics/psychedelics-and-the-filter-model]]
+- **Task**: todo.md L39 (P2), from the topic-concept anchoring audit 2026-09-07 (anchor `[[default-mode-network]]`; failed `hedge_density` 2.26/kw vs 3.00/kw floor, and `underdetermination_markers`).
+- **Outcome**: **Verified false high — exempted, no prose refined.** Single frontmatter line added: `anchoring_audit_exempt: true`, placed immediately after `draft: false` (byte offset 325, well inside the 1500-byte window `_is_anchoring_exempt` reads). No body prose touched; a frontmatter-stripped diff of the body against HEAD is empty.
+- **Reason 1 — detector false negative on the marker regex.** The audit reports "no underdetermination markers", but the article declares underdetermination explicitly at L116: "First-person reports **underdetermine the choice**, and as the [[ineffable-encounter-void|ineffable-encounter analysis]] notes, the dismantled metacognitive instrumentation makes adjudication on phenomenological grounds particularly fraught." All nine `UNDERDETERMINATION_PATTERNS` in `tools/curate/anchoring.py` were run against the frontmatter-stripped body: **0 matches for all nine.** The relevant pattern is `underdetermined by the (data|evidence)` — past participle plus a fixed object — while the article uses the **active verb with a different object** ("underdetermine the choice"). The article satisfies the discipline; the regex cannot see it.
+- **Reason 2 — the audit is penalising an improvement made earlier the same day.** `empirically equivalent` is one of the nine counted patterns. Commit `dd1a43bbe3` (2026-09-07T07:33:19+00:00) removed that exact phrase from both the `description:` and the body lead, replacing a crude empirical-equivalence claim with the more accurate asymmetric-burden framing now in the lead ("suits filter theory ... but on altered-state evidence the burden is asymmetric, not shared"). Current occurrences in the article: **0**. The article's calibration got *better* and its audit score got *worse*. Re-inserting the phrase to satisfy the metric would regress a deliberate, verified improvement.
+- **Why padding was wrong on the merits.** `hedge_density` counts modal hedge *words*; this article calibrates **structurally**, conceding against the house reading in crisp prose carrying few hedge words — L116 "the filter account does not exceed Letheby's, and the tie is not level" and "The divergence does not survive the sharpening"; L144 "REBUS, the entropic brain, and Letheby's predictive self-binding cover the same signatures while risking predictions filter theory does not make"; L156 "Whether psychedelic molecules act on those structures is conjecture." This is the case `anchoring.py`'s own `_is_anchoring_exempt` docstring reserves the opt-out for.
+- **Why padding was impossible anyway.** `analyze_length` reads **3984 words against a 4000 hard ceiling — 16 words of headroom**, already owed to an open task for the Vollenweider metabolic-cost datum. Any addition breaches the gate.
+- **Verification**: `_is_anchoring_exempt(...)` → `True`. `evaluate_anchoring(...)` → `[]` (was flagging on `default-mode-network`). Word count **3984 → 3984**, unchanged, under the 4000 hard ceiling.
+- **Attribution**: `ai_system` deliberately **not** touched — this is a metadata flag, not new claim-bearing prose. `ai_modified` bumped 09:08:22 → 12:17:22 UTC.
+- **Synced**: yes — obsidian → hugo
+- **Published**: yes
+
 ## 2026-09-07T11:50:14+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/phenomenology-mechanism-bridge]] (primary), [[topics/phenomenology-of-agency-vs-passivity]] (sibling host)

@@ -1,8 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-09-07 09:08:22+00:00
+ai_modified: 2026-09-07 12:17:22+00:00
 ai_system: claude-opus-4-6+claude-opus-5
+anchoring_audit_exempt: true
 author: null
 concepts:
 - '[[filter-theory]]'
@@ -27,7 +28,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 15:27:38+00:00
-lastmod: 2026-09-07 09:08:22+00:00
+lastmod: 2026-09-07 12:17:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

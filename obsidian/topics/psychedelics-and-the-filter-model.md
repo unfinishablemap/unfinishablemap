@@ -4,8 +4,9 @@ description: "Psilocybin's cortex-wide desynchronization suits filter theory and
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-09-07T09:08:22+00:00
+ai_modified: 2026-09-07T12:17:22+00:00
 draft: false
+anchoring_audit_exempt: true
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
