@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-08-26 19:25:09+00:00
+ai_modified: 2026-09-07 16:20:57+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
 apex_last_synthesis: 2026-08-26 19:25:09+00:00
 apex_sources:
@@ -49,7 +49,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 10:52:48+00:00
-lastmod: 2026-08-26 19:25:09+00:00
+lastmod: 2026-09-07 16:20:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -92,7 +92,7 @@ What no single-state explanation addresses is the *pattern across states*. When 
 
 ### Psychedelics: The Widened Filter
 
-[Psychedelic states](/topics/psychedelics-and-the-filter-model/) furnish the most dramatic case in which disrupting the brain *expands* rather than diminishes consciousness—dramatic in its phenomenology, not decisive between the competing readings. Psilocybin and LSD decrease activity in the [default-mode-network](/concepts/default-mode-network/) while increasing connectivity between normally segregated networks (Carhart-Harris et al., 2012; Tagliazucchi et al., 2016); precision imaging has since reframed both findings as cortex-wide desynchronization dissolving network identity itself rather than suppressing the DMN specifically (Siegel et al., 2024). Subjects report not confusion but enrichment: expanded perception, heightened emotional depth, ego dissolution, encounters described as "more real than real."
+[Psychedelic states](/topics/psychedelics-and-the-filter-model/) furnish the most dramatic case in which disrupting the brain *expands* rather than diminishes consciousness—dramatic in its phenomenology, not decisive between the competing readings. Psilocybin and LSD decrease activity in the [default-mode-network](/concepts/default-mode-network/) while increasing connectivity between normally segregated networks (Carhart-Harris et al., 2012; Tagliazucchi et al., 2016); precision imaging has since reframed both findings as cortex-wide desynchronization dissolving network identity itself rather than suppressing the DMN specifically (Siegel et al., 2024), and the mechanism literature has moved the constraint [upstream and off any single hub](/topics/psychedelics-and-the-filter-model/#the-neuroimaging-paradox). Subjects report not confusion but enrichment: expanded perception, heightened emotional depth, ego dissolution, encounters described as "more real than real."
 
 The REBUS model (Relaxed Beliefs Under Psychedelics) describes the mechanism in physicalist terms: high-level predictive priors relax, allowing bottom-up information greater influence (Carhart-Harris & Friston, 2019). REBUS and the wider entropic-brain programme were built to explain psychedelic action without any non-physical consciousness. The Map reinterprets the same neuroimaging against the grain of that self-understanding: where REBUS sees a predictive hierarchy reorganising itself, filter theory reads the brain's constraining architecture loosening so that consciousness manifests more broadly. The reinterpretation is the Map's own—compatible with REBUS rather than confirmed by it, undiscriminated by the data, and one the programme's authors would reject. The key observation for the interface map is *what specifically changes*: the narrative self dissolves while phenomenal presence intensifies; agency becomes unreliable while receptivity expands. The channel constraining consciousness to a personal perspective closes while the channel transmitting phenomenal content widens.
 
@@ -236,7 +236,7 @@ This synthesis draws on:
 15. Mavromatis, A. (1987). *Hypnagogia: The Unique State of Consciousness Between Wakefulness and Sleep*. Routledge.
 16. Sarasso, S., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099-3105.
 17. Sepúlveda, P. O., et al. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6), 801-809.
-18. Siegel, J. S., et al. (2024). Psilocybin desynchronizes the human brain. *Nature*, 632, 131-138.
+18. Siegel, J. S., et al. (2024). Psilocybin desynchronizes the human brain. *Nature*, 632(8023), 131-138.
 19. Stone, M. E., Kelz, M. B., Proekt, A., & Wasilczuk, A. Z. (2025). A probabilistic model of behavioural emergence from general anaesthesia in mice. *British Journal of Anaesthesia*, 135(1), 121-133. https://doi.org/10.1016/j.bja.2025.02.036
 20. Tagliazucchi, E., et al. (2016). Increased global functional connectivity correlates with LSD-induced ego dissolution. *Current Biology*, 26(8), 1043-1050.
 21. Tollock, M., Leontovich, N., Gonzalez, A., & Parnia, S. (2025). A multi-site prospective study of paradoxical lucidity in moderate to severe dementia. *Innovation in Aging*, 9(Supplement_2), igaf122.2914. https://doi.org/10.1093/geroni/igaf122.2914

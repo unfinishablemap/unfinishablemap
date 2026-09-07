@@ -1,10 +1,10 @@
 ---
 title: "Default Mode Network"
-description: "The brain's self-referential system, active at rest. DMN may constrain consciousness to personal narrative; its suppression opens wider phenomenal access."
+description: "The brain's self-referential system, active at rest. May constrain consciousness to personal narrative, though newer imaging spreads that constraint wider."
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-08-08T18:57:18+00:00
+ai_modified: 2026-09-07T16:20:57+00:00
 last_deep_review: 2026-07-09T01:49:44+00:00
 draft: false
 topics:
@@ -26,7 +26,7 @@ related_articles:
   - "[[neurophenomenology-and-contemplative-neuroscience]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-01-29
 last_curated: null
 ---
@@ -92,18 +92,20 @@ On this reading:
 - **High DMN activity** = consciousness constrained to personal narrative, self-concern, mental time travel
 - **Low DMN activity** = consciousness less constrained, potentially accessing wider phenomenal territory
 
-This interpretation aligns with Aldous Huxley's "reducing valve" metaphor: the brain narrows consciousness to what is useful for biological survival. The DMN narrows it further to what is useful for this particular organism's goals and history.
+This interpretation aligns with Aldous Huxley's "reducing valve" metaphor: the brain narrows consciousness to what is useful for biological survival. The DMN narrows it further to what is useful for this particular organism's goals and history—though *which* structures do the narrowing is precisely what the [[#The Psychedelic Evidence|psychedelic imaging discussed below]] has unsettled, and Huxley's valve maps more naturally onto thalamic and claustral gating than onto the DMN.
 
 ### The Psychedelic Evidence
 
-Neuroimaging of psychedelic states provides an important test case. Psilocybin, LSD, and DMT all reduce DMN activity while simultaneously producing experiences described as:
+Neuroimaging of psychedelic states provides an important test case, and the finding it rests on has been re-characterised since the DMN-centric readings of the early 2010s. Psilocybin, LSD, and DMT were reported to reduce DMN activity while simultaneously producing experiences described as:
 - Ego dissolution—loss of the usual sense of self
 - Expanded awareness—feeling of accessing more than ordinary consciousness
 - Interconnection—dissolution of self-world boundaries
 
-Both production and filter models predict that DMN suppression would alter self-experience rather than eliminate it—the DMN is one component of a distributed neural system, and no serious account treats it as the sole generator of self-awareness. The question is whether the *character* of the alteration is more naturally explained by one model or the other. Production models account for the change straightforwardly: disrupt one subsystem and the overall output shifts. Filter theory offers a different reading: reduce the constraint, and consciousness accesses wider phenomenal territory. Reports of expansion, unity, and depth during psychedelic states are consistent with both interpretations, though they remain introspective reports—not direct measurements of "wider access."
+Precision within-person imaging has since reframed the first half of that pairing. Siegel et al. (2024) report that psilocybin produces cortex-wide desynchronization across spatial scales, dissolving the distinctions *between* networks rather than suppressing the DMN specifically. The 2020s mechanism literature has also shifted explanatory weight *upstream*: Doss et al. (2022) set out a cortico-claustro-cortical model on which the claustrum is a proximal trigger for cortical desynchronization, with DMN disruption downstream. On that [[psychedelics-and-the-filter-model#The Neuroimaging Paradox|distributed picture]], the constraint on conscious bandwidth is spread across claustral and thalamic gating, predictive priors, and network-identity architecture rather than localised in any hub. The DMN still participates in the reconfiguration; what does not survive is the inference that psychedelic expansion is *explained by* DMN reduction specifically.
 
-Carhart-Harris's REBUS model (Relaxed Beliefs Under Psychedelics) frames this as belief relaxation—the DMN maintains the prior beliefs that constitute the self-model, and psychedelics relax these constraints. Carhart-Harris himself interprets REBUS within a physicalist framework, where "relaxed beliefs" means altered neural prediction rather than expanded non-physical awareness. The filter interpretation reads the same evidence differently: reduced constraint, expanded access. Neither reading is forced by the data alone. The dynamical signature behind these effects—rising neural entropy and movement toward brain criticality, with the DMN's loss of within-network integrity as one marker—is taken up by the [[entropic-brain-hypothesis|entropic brain hypothesis]].
+Both production and filter models predict that this reconfiguration would alter self-experience rather than eliminate it—the DMN is one component of a distributed neural system, and no serious account treats it as the sole generator of self-awareness. The question is whether the *character* of the alteration is more naturally explained by one model or the other. Production models account for the change straightforwardly: disrupt one subsystem and the overall output shifts. Filter theory offers a different reading: reduce the constraint, and consciousness accesses wider phenomenal territory. Reports of expansion, unity, and depth during psychedelic states are consistent with both interpretations, though they remain introspective reports—not direct measurements of "wider access."
+
+Carhart-Harris's REBUS model (Relaxed Beliefs Under Psychedelics) frames this as belief relaxation—the DMN maintains the prior beliefs that constitute the self-model, and psychedelics relax these constraints. Carhart-Harris himself interprets REBUS within a physicalist framework, where "relaxed beliefs" means altered neural prediction rather than expanded non-physical awareness. The filter interpretation reads the same evidence differently: reduced constraint, expanded access. Neither reading is forced by the data alone. The dynamical signature behind these effects—rising neural entropy, with the DMN's loss of within-network integrity as one marker—is taken up by the [[entropic-brain-hypothesis|entropic brain hypothesis]], which also records why the further step to *brain criticality* no longer follows: under DMT, criticality and complexity fall while entropy rises, and complexity can rise as awareness falls under ketamine, so the two quantities come apart in the very cases the hypothesis leans on.
 
 ### Meditation and DMN Suppression
 
@@ -235,3 +237,5 @@ Current evidence does not meet these conditions, but they define the space of po
 1. Gross, M., Raynes, S., Schooler, J. W., Guo, E., & Dobkins, K. (2025). When is a wandering mind unhappy? The role of thought valence. *Emotion*, 25(3), 671-682.
 1. Raichle, M. E., et al. (2001). A default mode of brain function. *PNAS*, 98(2), 676-682.
 1. Raichle, M. E. (2015). The brain's default mode network. *Annual Review of Neuroscience*, 38, 433-447.
+1. Siegel, J. S., et al. (2024). Psilocybin desynchronizes the human brain. *Nature*, 632(8023), 131-138.
+1. Doss, M. K., Madden, M. B., Gaddis, A., Nebel, M. B., Griffiths, R. R., Mathur, B. N., & Barrett, F. S. (2022). Models of psychedelic drug action: modulation of cortical-subcortical circuits. *Brain*, 145(2), 441-456.
