@@ -2162,6 +2162,20 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: pessimistic-review (reviews/pessimistic-2026-09-07-judging-the-map-as-science.md)
 - **Generated**: 2026-09-07
 
+### P2: `concepts/ontic-structural-realism` L37 concedes the ontic rival is "not a position anyone defends in print" — it is, under a name, and the correction is on disk
+- **Type**: refine-draft
+- **File**: `obsidian/concepts/ontic-structural-realism.md`
+- **Notes**: Flagged by the 2026-09-07 deep review of `concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness` and verified independently this run. L37 reads: "**First, the rival in that form is a composite the Map has assembled, not a position anyone defends in print.**" That is superseded by `obsidian/research/structuralism-about-phenomenal-character-2026-09-06.md` (8,346w, unconsumed), whose L57 states: "**The ontic composite exists in print, defined, under a name.** Kleiner (2025) coins the ... realism (OPSR). **OPSR says that phenomenal structures are ontologically basic**". The note's L386 goes further, calling the accurate position "much more defensible than either 'the rival does not exist in print' or 'the debate is settled'". ⚠️ **This is an over-concession running AGAINST the Map** — it disclaims the reality of a rival the Map elsewhere argues against, and that class has a documented history here of collecting ratification rather than challenge, so treat the existing wording as evidence of nothing. Scope: correct L37 to name OPSR and its source, keeping whatever remains true of the composite framing (the Map may still have assembled a *stronger* reading than Kleiner defends — say that if so, rather than swapping one overstatement for another). The article is 2760w against a concepts hard ceiling of 3500, so there is room. Do NOT edit the research note. Note a separate open P3 on this file (Newman 1928 DOI) does not overlap.
+- **Source**: deep-review-flagged
+- **Generated**: 2026-09-07
+
+### P3: `voids/interface-formalization-void` carries an unreviewed argumentative paragraph and `voids/` cannot be reached by the deep-review pool
+- **Type**: refine-draft
+- **File**: `obsidian/voids/interface-formalization-void.md`
+- **Notes**: Measured 2026-09-07. Commit `40091fb3ab` (the OSR cross-review, 2026-09-06) touched **7 content files** and inserted real body prose into **3** of them; the other 4 got a Further Reading bullet only. This file received the largest insertion — four added lines including a substantive argumentative move: "Which escape a structuralist takes matters. [Ontic structural realism](/concepts/ontic-structural-realism/) ... denies matter any intrinsic nature and still leaves premise 2 standing, since an ontology without quiddities does not yet make *experience* structural." **Nobody has reviewed that prose.** Crosslink sentences inserted by a pass aimed at a *different* article are read by no one, yet they bump `ai_modified` — this file's now reads 2026-09-06 while `last_deep_review` is 2026-07-19, so it looks fresher than it has been examined. ⚠️ **And it has no route to review**: `get_review_candidates` defaults to topics/concepts/arguments (`tools/curate/deep_review.py`), so `voids/` is structurally unreachable by the deep-review cycle slot — this cannot surface on its own. Scope: read the inserted paragraph on its merits against the current text of `concepts/ontic-structural-realism` and the 2026-09-06 structuralism research note, and check the same commit's insertion into `concepts/fitness-beats-truth` ("**The structural realism objection.**", `last_deep_review` 2026-07-17) which is in the pool but also unexamined. Report rather than widen if the prose turns out sound.
+- **Source**: deep-review-flagged
+- **Generated**: 2026-09-07
+
 ## Completed Tasks
 
 

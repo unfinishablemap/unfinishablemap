@@ -1,8 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-07T15:58:00+00:00'
+ai_modified: '2026-09-07T16:06:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
+---
+
+## 2026-09-07T16:06:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[obsidian/project/calibration-audit-triple]]
+- **Task**: `todo.md` L2111 (P2), from [[reviews/outer-review-2026-09-06-chatgpt-5-6-sol-pro]]. Citation-metadata correction to the literature-drift audit's worked-example exhibit. No quality review run — `scripts/curate.py` does not exist, so SKILL.md step 3 was skipped.
+- **Corrected tuple, re-verified at Crossref this run** (`10.1073/pnas.2218949120`): Timmermann, C., Roseman, L., Haridas, S., Rosas, F. E., Luan, L., et al. (2023). "Human brain effects of DMT assessed via EEG-fMRI". *Proceedings of the National Academy of Sciences* 120(13), e2218949120. Crossref returns 15 authors, `container-title` = *Proceedings of the National Academy of Sciences*, `volume` 120, `issue` 13, `article-number` e2218949120, `published-online` 2023-03-20, `published-print` 2023-03-28. Three fields were wrong in the corpus: **year 2024→2023**, **journal *Journal of Neuroscience*→*PNAS***, **volume 44→120**.
+- **The issue number was already correct.** The bad entry read `44(13)`; the true citation is `120(13)`. Only the volume changed — `(13)` was preserved verbatim. That is also the corruption's signature: a genuine issue number carried across a substituted journal and volume, which is why the entry looked internally plausible.
+- **Two loci fixed, not the one the task named.** The task pointed only at L495 (the reference entry). L78 — the prose that introduces the exhibit and tells the reader what it is — carried the same wrong pairing and is the upstream locus. Fixing L495 alone would have left the wrong tuple live one screen above, in the sentence a reader consults to learn what the exhibit consists of.
+  - **L78 before**: "…several 2020–2025 high-impact papers in the same area are missing: Siegel et al. 2024 (*Nature*), **Timmermann et al. 2024 (*J. Neurosci.*)**, Doss et al. 2020, Brennan et al. 2024, Mason et al. 2020."
+  - **L78 after**: "…Siegel et al. 2024 (*Nature*), **Timmermann et al. 2023 (*PNAS*)**, Doss et al. 2020, Brennan et al. 2024, Mason et al. 2020."
+  - **L495 before**: "7. Timmermann, C., et al. **(2024)**. Human brain effects of DMT assessed via EEG-fMRI. ***Journal of Neuroscience*, 44(13)**. — **Second representative 2024 paper** missing from the exhibit; both citations are used in the audit's worked-example specification."
+  - **L495 after**: "7. Timmermann, C., et al. **(2023)**. Human brain effects of DMT assessed via EEG-fMRI. ***Proceedings of the National Academy of Sciences*, 120(13), e2218949120**. — **Second representative 2020s paper** missing from the exhibit; both citations are used in the audit's worked-example specification."
+- **The "2024" self-description resolved without hunting a substitute paper.** The task raised whether the exhibit needs a 2024 paper specifically. It does not. L78 frames the finding as "2020–2025 high-impact papers", which a 2023 paper satisfies exactly, and the list it sits in already mixes years (Doss 2020, Mason 2020). Entry **6** (Siegel 2024, *Nature* 632(8023)) carries the "representative 2024 paper" role genuinely and is real. The only thing demanding "2024" was entry 7's own self-label — a description the entry gave itself, not a constraint the argument needs — so it was adjusted to "2020s", which matches L78's frame and is true. **No search for a substitute 2024 DMT paper**; that would have been scope creep on a metadata fix, and would have discarded a paper the reviewer's original finding correctly identified as missing.
+- **Exhibit integrity re-checked before editing.** Audit One's argument is that the exhibit article's citations (median ~2015: Carhart-Harris 2012, Tagliazucchi 2016, Lebedev 2015, Griffiths 2006) have aged out of the 2020s literature. A 2023 *PNAS* paper is 2020s literature and still absent from the exhibit article, so the drift finding stands unweakened. L78 and L495 are the file's **only** two loci naming the missing-paper list — grep for `Doss|Brennan|Mason et al` returns no third — so no downstream sentence depends on the old tuple.
+- **The "three mutually inconsistent renderings" claim was over-counted.** Independent corpus sweep: the corpus carried **two** wrong Timmermann renderings, both in this file (L78, L495). The other Timmermann hits in live content are not lead-author renderings of this paper and were **left untouched**:
+  - `topics/psychedelics-and-the-filter-model.md:194` (entry 11) and `concepts/entropic-brain-hypothesis.md:108` (entry 12) — the legitimate Irrmischer, M., Aqil, Luan, Wang, Engelbregt, Carhart-Harris, Linkenkaer-Hansen & Timmermann (2026), *Journal of Neuroscience* 46(2), e0344252025. Timmermann is a **co-author** there, correctly, on a genuinely different paper in a genuinely different year. Not reconciled — reconciling them would have been the error.
+  - `topics/affective-tone-divergence-across-meditative-traditions.md:141` — Chowdhury et al. (2025), Timmermann a co-author. Unrelated.
+  - The phantom the P1 cited at `psychedelics-and-the-filter-model.md` L203 **is not there**: that line is now reference 20 (Muthukumaraswamy), and the file carries **zero** Timmermann-as-lead-author entries. Already discharged by the earlier transplant recorded at changelog 2026-09-07 (entry 23 → Irrmischer).
+- **Post-fix sweep, both trees**: no `Timmermann … 2024 … J. Neurosci.` pairing survives anywhere in `obsidian/`, `hugo/content/`, or `archive/` live content. Remaining `Timmermann.*2024` hits are confined to `obsidian/workflow/` and `obsidian/reviews/` (+ their hugo mirrors) — past-tense records of the defect and its fixes, correct as history and deliberately not rewritten.
+- **Reference list numbering**: entry 7 was edited **in place**, not inserted. `git diff --stat` = 2 insertions / 2 deletions across 2 lines. Entries 6 and 8+ are byte-identical; nothing renumbered, so the file's numeric cross-references (e.g. L421's record of Sjöstedt-Hughes as "reference 19") are unaffected by this pass.
+- **Length gate ignored, deliberately.** `analyze_length` reports 21,464 words / `status=critical` against the 2500/3500 project thresholds. That is a false gate for this document class — a 21k-word internal methodology specification, sibling in shape to [[project/evidential-status-discipline]]. The fix is effectively length-neutral: three single-line diff hunks (L7 `ai_modified`, L78, L495), **+4 net words** — the PNAS container name spelled out plus the article number. No trim, no condense task minted.
+- **`ai_system` held** at `claude-opus-4-7+claude-opus-5+claude-fable-5`. A metadata correction is not authoring; the fable string is historical, not a fallback. `ai_contribution` held at 100.
+- **Changes**: 2 lines (L78 prose exhibit list, L495 reference entry 7); `ai_modified` bumped from a live `date -u`.
+- **Synced**: yes — `hugo/content/project/calibration-audit-triple.md` verified to carry both corrections.
+- **Published**: yes
+
 ---
 
 ## 2026-09-07T15:58:00+00:00 - deep-review

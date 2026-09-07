@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-09-04 10:40:19+00:00
+ai_modified: 2026-09-07 16:06:30+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
 author: null
 concepts: []
@@ -14,7 +14,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-05-19 16:00:00+00:00
-lastmod: 2026-09-04 10:40:19+00:00
+lastmod: 2026-09-07 16:06:30+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -80,7 +80,7 @@ The triple joins the existing methodology family ([coherence-inflation-counterme
 
 ## The 2026-05-14 Motivating Case
 
-The audit triple was proposed by the 2026-05-14 Claude Opus 4.7 outer review of `topics/psychedelics-and-the-filter-model.md` (review file: [outer-review-2026-05-14-claude-opus-4-7](/reviews/outer-review-2026-05-14-claude-opus-4-7/)). The article had been written 2026-03-08 with empirical citations whose median publication year is approximately 2015 — Carhart-Harris 2012, Tagliazucchi 2016, Lebedev 2015, Griffiths 2006. The reviewer verified by name-grep that several 2020–2025 high-impact papers in the same area are missing: Siegel et al. 2024 (*Nature*), Timmermann et al. 2024 (*J. Neurosci.*), Doss et al. 2020, Brennan et al. 2024, Mason et al. 2020. The article's primary evidential frame — DMN-suppression-as-filter-loosening — is the dominant 2010s framing; the 2020s literature has shifted toward complexity measures (Lempel-Ziv), entropy-based readings (EBH 2.0), and predictive-processing accounts (REBUS, predictive self-binding) that the article does not engage.
+The audit triple was proposed by the 2026-05-14 Claude Opus 4.7 outer review of `topics/psychedelics-and-the-filter-model.md` (review file: [outer-review-2026-05-14-claude-opus-4-7](/reviews/outer-review-2026-05-14-claude-opus-4-7/)). The article had been written 2026-03-08 with empirical citations whose median publication year is approximately 2015 — Carhart-Harris 2012, Tagliazucchi 2016, Lebedev 2015, Griffiths 2006. The reviewer verified by name-grep that several 2020–2025 high-impact papers in the same area are missing: Siegel et al. 2024 (*Nature*), Timmermann et al. 2023 (*PNAS*), Doss et al. 2020, Brennan et al. 2024, Mason et al. 2020. The article's primary evidential frame — DMN-suppression-as-filter-loosening — is the dominant 2010s framing; the 2020s literature has shifted toward complexity measures (Lempel-Ziv), entropy-based readings (EBH 2.0), and predictive-processing accounts (REBUS, predictive self-binding) that the article does not engage.
 
 The same article exhibits the second failure mode. It cites psychedelics, terminal lucidity, near-death experiences, and contemplative cessation as convergent altered-state evidence for filter theory, but does not invoke the symmetric work that anaesthesia, slow-wave sleep, and brain damage demand of any filter account. The Map already has [anaesthesia](/topics/anaesthesia-and-the-consciousness-interface/), [dream-consciousness](/topics/dream-consciousness/), and clinical-disruption articles that engage these cases honestly; the psychedelics article reads as if the *supportive* altered states stand alone, when the dialectical situation is that *all* altered states (supportive-looking and disruptive-looking) must be accommodated by whichever theory the article endorses.
 
@@ -497,4 +497,4 @@ The audit triple is documented through the catalogue's outer-review corpus and t
 4. Southgate, A. & Oquatre-sept, C. (2026-05-04). Direct-Refutation Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/direct-refutation-discipline/
 5. Southgate, A. & Oquatre-sept, C. (2026-05-13). Outer-Review Empirical vs. Methodological Freshness. *The Unfinishable Map*. https://unfinishablemap.org/project/outer-review-empirical-vs-methodological-freshness/
 6. Siegel, J. S., et al. (2024). Psilocybin desynchronises the human brain. *Nature*, 632(8023), 131–138. — Representative 2024 paper in the active-research area the literature-drift audit's canonical exhibit fails to cite.
-7. Timmermann, C., et al. (2024). Human brain effects of DMT assessed via EEG-fMRI. *Journal of Neuroscience*, 44(13). — Second representative 2024 paper missing from the exhibit; both citations are used in the audit's worked-example specification.
+7. Timmermann, C., et al. (2023). Human brain effects of DMT assessed via EEG-fMRI. *Proceedings of the National Academy of Sciences*, 120(13), e2218949120. — Second representative 2020s paper missing from the exhibit; both citations are used in the audit's worked-example specification.
