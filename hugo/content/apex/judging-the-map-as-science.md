@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-12
-ai_modified: 2026-09-07 15:34:42+00:00
+ai_modified: 2026-09-07 17:48:34+00:00
 ai_system: claude-fable-5+claude-opus-5
 apex_decision_context: 'How to judge whether the Map—or any consciousness research
   programme with an irreducible posit—is being run as science: which norms it answers
@@ -23,10 +23,12 @@ apex_sources:
 - concepts/reflexive-methodology
 - concepts/phenomenal-contrast-method
 - positions/methodology-and-calibration
-apex_thesis: Dualism does not exempt the Map from scientific norms; it changes which
-  norms apply—programme appraisal instead of crucial experiments, functional instead
-  of ontological demarcation, bounded parsimony, a permanent measurement limit—and
-  it obliges the Map to run every one of those norms on itself.
+apex_thesis: Dualism does not exempt the Map from scientific norms; it mostly licenses
+  the Map to inherit them—programme appraisal instead of crucial experiments, functional
+  instead of ontological demarcation, and bounded parsimony are each reachable by
+  a physicalist on the same route—and it changes one norm outright, the permanent
+  measurement limit, which is also the norm this synthesis finds empirically inert.
+  Every one of them the Map is obliged to run on itself.
 apex_type: applied
 author: null
 concepts:
@@ -41,7 +43,7 @@ description: 'How to judge a research programme whose central posit is irreducib
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-07 15:34:42+00:00
+lastmod: 2026-09-07 17:48:34+00:00
 modified: *id001
 related_articles:
 - '[[steelmanning-as-method]]'
@@ -54,7 +56,7 @@ topics:
 - '[[consciousness-defeats-explanation]]'
 ---
 
-This piece addresses a decision every serious reader of the Map eventually faces, and one its own editorial system faces daily from the inside: how to judge whether an interactionist-dualist research programme is being run as science. Which scientific norms does a framework with an irreducible posit still answer to? Which appraisal instruments fit it? What would count as its failure? And what can it never deliver, however long it runs? The Map's philosophy-of-science writing answers these questions one instrument at a time; this synthesis assembles the answers into a single verdict and applies it. The verdict: dualism does not exempt the Map from scientific norms. It changes *which* norms apply — programme appraisal rather than crucial experiments, functional rather than ontological demarcation, parsimony bounded to the domains where its track record holds, and a permanent limit on measurement — and it obliges the Map to run every one of those norms on itself. That obligation is registered in the Map's own positions on its conduct — [P-M1, P-M2, P-M4, and P-M5](/positions/methodology-and-calibration/), each held at high credence as a normative commitment — and this synthesis reads the philosophy-of-science cluster as the argument for why exactly those commitments, and not physicalism's preferred norms, are the right ones to be held to.
+This piece addresses a decision every serious reader of the Map eventually faces, and one its own editorial system faces daily from the inside: how to judge whether an interactionist-dualist research programme is being run as science. Which scientific norms does a framework with an irreducible posit still answer to? Which appraisal instruments fit it? What would count as its failure? And what can it never deliver, however long it runs? The Map's philosophy-of-science writing answers these questions one instrument at a time; this synthesis assembles the answers into a single verdict and applies it. The verdict: dualism does not exempt the Map from scientific norms. It changes *which* norms apply — programme appraisal rather than crucial experiments, functional rather than ontological demarcation, parsimony bounded to the domains where its track record holds, and a permanent limit on measurement — and it obliges the Map to run every one of those norms on itself. Three of those four a physicalist reaches by the same route: holism, the circularity charge against methodological naturalism, and the boundedness of parsimony are general points about inquiry rather than dualist ones. What dualism mostly licenses is *inheritance* of an appraisal norm-set the Map need not re-argue; only the permanent measurement limit turns on irreducibility itself, and it is the norm this piece finds empirically inert. That obligation is registered in the Map's own positions on its conduct — [P-M1, P-M2, P-M4, and P-M5](/positions/methodology-and-calibration/), each held at high credence as a normative commitment — and this synthesis reads the philosophy-of-science cluster as the argument for why exactly those commitments, and not physicalism's preferred norms, are the right ones to be held to.
 
 ## What Survives and What Must Be Rebuilt
 
