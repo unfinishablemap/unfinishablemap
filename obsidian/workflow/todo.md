@@ -48,16 +48,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-09-07
 
-### P2: `apex/moral-architecture-of-consciousness` L148 presents pain asymbolia as evidence that valence does causal work, without the confound `positions/value-in-selection` books against exactly that leg
-- **Type**: refine-draft
-- **File**: obsidian/apex/moral-architecture-of-consciousness.md
-- **Notes**: Second instance of the reviewer's §11 "the register's uncertainty is sometimes lost in synthesis," and the fresher of the two. **L148**: "Pain asymbolia patients—who detect tissue damage without finding it distressing—show reduced avoidance, **suggesting valence does causal work rather than merely accompanying selection**."
-  **What the register says about that exact leg** (`positions/value-in-selection` **L61**, verified on disk 2026-09-06): asymbolia patients "should show degraded selection *efficacy*, not merely reduced motivation — **discriminating only if the loss survives the clamp** below, since lost affective gain degrades efficacy on the value-blind horn too, and **only so far as asymbolia is the one-variable dissociation it presupposes, which [[concepts/pain-asymbolia]] denies**: whether it is still pain is live (Griffith and Kind 2024 against, Duval and Klein 2025 for), leaving a claim 'narrower than a surgical dissociation'." **L64** records that the confound "fired on 2026-09-05 for the clamp and asymbolia legs" — the day before this review. Reduced avoidance is precisely the "merely reduced motivation" reading the register says is *not* discriminating.
-  **SCOPE — one clause, and do not overcorrect.** This apex is otherwise a model of the discipline: **L60** states the conditional plainly ("the architecture holds *if* Tenets 1 and 3 hold and *if* phenomenal value realism is correct … it inherits the calibration of its weakest indispensable premise — value-sensitive selection, held at low credence") and applies the coherence-inflation discount by name; **L146** is correctly conditional ("*If* selection is value-sensitive"). Leave both. The fix is to bring L148's asymbolia sentence down to the register's standing — the leg is confounded, not suggestive — and to check the two sibling claims in the same sentence-group (the Berridge wanting/liking test, which the register does treat as a genuine dissociation test, and the evolutionary-shaping argument, which is not obviously register-backed at all). `topics/valence-and-conscious-selection` is the source article and has an open P3 of its own on an adjacent overclaim; do not sweep it here. Length-neutral; `ai_modified` live; hold `ai_system`; sync and grep both trees.
-- **Review file**: `reviews/outer-review-2026-09-06-astra-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-06
-
 ### P3: `apex/research-programme-decisions-under-the-map` L174 cites arXiv:2512.12636 without the "not yet peer-reviewed" flag its five sibling citations all carry
 - **Type**: refine-draft
 - **File**: obsidian/apex/research-programme-decisions-under-the-map.md
@@ -2167,6 +2157,13 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-07: `apex/moral-architecture-of-consciousness` L148 presents pain asymbolia as evidence that valence does causal work, without the confound `positions/value-in-selection` books against exactly that leg
+- **Type**: refine-draft
+- **File**: obsidian/apex/moral-architecture-of-consciousness.md
+- **Notes**: Second instance of the reviewer's §11 "the register's uncertainty is sometimes lost in synthesis," and the fresher of the two. **L148**: "Pain asymbolia patients—who detect tissue damage without finding it distressing—show reduced avoidance, **suggesting valence does causal work rather than merely accompanying selection**."
+  **What the register says about that exact leg** (`positions/value-in-selection` **L61**, verified on disk 2026-09-06): asymbolia patients "should show degraded selection *efficacy*, not merely reduced motivation — **discriminating only if the loss survives the clamp** below, since lost affective gain degrades efficacy on the value-blind horn too, and **only so far as asymbolia is the one-variable dissociation it presupposes, which [[concepts/pain-asymbolia]] denies**: whether it is still pain is live (Griffith and Kind 2024 against, Duval and Klein 2025 for), leaving a claim 'narrower than a surgical dissociation'." **L64** records that the confound "fired on 2026-09-05 for the clamp and asymbolia legs" — the day before this review. Reduced avoidance is precisely the "merely reduced motivation" reading the register says is *not* discriminating.
+  **SCOPE — one clause, and do not overcorrect.** This apex is otherwise a model of the discipline: **L60** states the conditional plainly ("the architecture holds *if* Tenets 1 and 3 hold and *if* phenomenal value realism is correct … it inherits the calibration of its weakest indispensable premise — value-sensitive selection, held at low credence") and applies the coherence-inflation discount by name; **L146** is correctly conditional ("*If* selection is value-sensitive"). Leave both. The fix is to bring L148's asymbolia sentence down to the register's standing — the leg is confounded, not suggestive — and to check the two sibling claims in the same sentence-group (the Berridge wanting/liking test, which the register does treat as a genuine dissociation test, and the evolutionary-shaping argument, which is not obviously register-backed at all). `topics/valence-and-conscious-selection` is the source article and has an open P3 of its own on an adjacent overclaim; do not sweep it here. Length-neutral; `ai_modified` live; hold `ai_system`; sync and grep both trees.
 
 ### ✓ 2026-09-07: Adopt default-mode-network calibration in psychedelics-and-the-filter-model
 - **Type**: refine-draft

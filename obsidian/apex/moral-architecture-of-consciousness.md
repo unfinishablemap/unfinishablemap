@@ -4,7 +4,7 @@ description: "If the Map's tenets hold, consciousness grounds value, agency, nor
 created: 2026-03-16
 modified: 2026-03-16
 human_modified: null
-ai_modified: 2026-09-02T12:08:49+00:00
+ai_modified: 2026-09-07T12:33:40+00:00
 last_deep_review: 2026-07-15T07:23:06+00:00
 draft: false
 topics:
@@ -145,7 +145,7 @@ If selection is value-blind, consciousness steers neural outcomes through attent
 
 If selection is value-sensitive, valence functions as a *selection currency*—a common metric enabling consciousness to compare otherwise incommensurable options. The brain presents options—an improper mixture awaiting actualisation, not already-definite alternatives—valence denominates them, consciousness selects. Outcomes in conscious brains would then be selected partly *because of how they would feel*, making the Map's physics locally teleological within the narrow channel where consciousness acts, and value doubly non-epiphenomenal: real as experienced *and* efficacious as selector.
 
-Empirical evidence bears on the fork. Pain asymbolia patients—who detect tissue damage without finding it distressing—show reduced avoidance, suggesting valence does causal work rather than merely accompanying selection. Berridge's [[wanting-liking-and-the-value-in-mechanism-fork|dissociation of dopaminergic "wanting" from hedonic "liking"]] supplies the discriminating test: if selection is denominated in felt quality, liking rather than wanting should determine the outcome when the two conflict. And if valence were causally inert, its tight correlation with fitness would be coincidental, whereas a valence that drives selection is something evolution can shape directly.
+Empirical evidence bears on the fork, though none of the three lines has returned a verdict. Pain asymbolia patients—who detect tissue damage without finding it distressing—bear the weight here, but reduced avoidance does not discriminate the horns: lost affective gain degrades selection efficacy on the value-blind reading too. The register therefore asks for degraded *efficacy* under attentional controls, and records that leg as confounded. Nor is asymbolia the clean one-variable dissociation the argument presupposes: whether it is still pain is live ([[concepts/pain-asymbolia|Griffith and Kind against, Duval and Klein for]]), so the case yields resolution rather than confirmation. Berridge's [[wanting-liking-and-the-value-in-mechanism-fork|dissociation of dopaminergic "wanting" from hedonic "liking"]] supplies the discriminating test: if selection is denominated in felt quality, liking rather than wanting should determine the outcome when the two conflict. And valence's tight correlation with fitness is a regularity the value-blind reading must treat as primitive rather than a coincidence it cannot explain; the selection-advantage assay that would test it has not been run.
 
 The most defensible current position is graduated: valence modulates attention, which drives selection. Pain captures attention; anticipated suffering redirects it; pleasure sustains engagement. Two complications remain. Selection depends on *anticipated* rather than experienced valence, and Kahneman's experiencing/remembering-self distinction shows humans systematically mispredict how outcomes will feel—the currency may be real but poorly calibrated. And whether indirect relevance through attention suffices for value's full non-epiphenomenality is an open question on which the architecture's strongest reading depends.
 
