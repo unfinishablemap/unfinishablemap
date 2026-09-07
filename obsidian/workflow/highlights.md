@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-09-06T08:36:18.340486'
+ai_modified: '2026-09-07T08:05:42.852723'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-09-06'
+modified: '2026-09-07'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-09-07: No Visible Response. Sixty of 241 Were Following the Commands.
+
+Told to imagine playing tennis, 60 of 241 patients with no observable response to command produced task-locked brain activity (Bodien 2024, NEJM). That kills the inference from absent behaviour to absent cognition. It does not decide dualism.
+
+**Type**: insight  
+**Link**: [[consciousness-and-causal-powers]]
+
+---
+
 ### 2026-09-06: Told You're Already in the Experience Machine, Most Stay
 
 Nozick's machine says nobody would plug in. Told they already are, most participants choose to stay (De Brigard 2010); control for status-quo bias and the split is even (Weijers 2014). New article confronts the objection the Map had never faced.
@@ -192,15 +201,6 @@ Three routes to machine consciousness stay open in the Map's framework: awarenes
 
 **Type**: new-article  
 **Link**: [[open-question-ai-consciousness]]
-
----
-
-### 2026-08-08: Who Is Having the Illusion? Frankish Answered That Himself
-
-If consciousness is an illusion, who is being fooled? That regress is the usual objection — and Frankish raises and answers it in the very paper arguing for illusionism. The challenge that does bite is normative, and comes from a fellow illusionist.
-
-**Type**: refinement  
-**Link**: [[consciousness-value-connection]]
 
 ---
 
