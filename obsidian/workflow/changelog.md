@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-07T03:56:07+00:00'
+ai_modified: '2026-09-07T04:44:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-07T04:44:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (High effort, Research + Web Search, 251 sources, 11m 15s)
+- **File**: [[reviews/outer-review-2026-09-07-claude-opus-5]]
+- **Subject**: `topics/consciousness-and-causal-powers` (subject_type `recent`, source `reuse:pending-reviews:…chatgpt-5-6-sol-pro`) — second of three legs on the same article, so genuine convergence was testable for the first time on this subject.
+- **Extraction**: js-dom DOM walk from the artifact side panel via page-side Blob download; **SHA-256 matched byte-exact on both sides** (`8c04dffe…f29b`, 33,537 bytes / 33,338 chars). Body-stability sentinel held steady across a 10s window before extraction. Artifact tile present on the first poll.
+- **Claims verified**: 15 — 8 held, 7 refuted. Publisher-of-record checks: Yetter-Chappell at Crossref (*Synthese* 200(2), doi 10.1007/s11229-022-03654-6). All named loci resolved to live files; no archived-article-at-live-URL confusion.
+- **High-value findings**: 8, all article-level. The two strongest: (1) **conservation over-assertion** — the page states energy-neutrality flatly at two loci while `concepts/conservation-laws-and-mental-causation`, revised 2026-09-04 *after* it, holds that superposed states "need not share an energy eigenvalue" and that ensemble-mean preservation is insufficient; (2) **CMD over-recruitment** — reached here by a different route than the ChatGPT leg's, via the access/phenomenal conflation rather than the denominator framing.
+- **Refuted** (recorded in the review's Verification Notes so the synthesis excludes them from convergence counting): the **site-wide** half of the exclusion-strawman charge — `concepts/causal-exclusion-argument` carries a five-response-family treatment of Bennett, Shoemaker–Wilson, Yablo, List & Menzies and Woodward, and `concepts/trumping-preemption` carries the Baumgartner counter-reply the review says is missing; its sharpest sub-claim, that `topics/overdetermination-dissolution-under-selection-only-interactionism` names none of them, is false (Yablo appears three times). The **site-wide** closure charge — Papineau in 31 live files, 7× in the survey article (**fifth recurrence** of this pattern, second this cycle). The **`concepts/stapp-quantum-mind` origin-node fix** — already stated there verbatim, "Process 1" in 24 live articles. The **confession-without-correction / demote-to-coherence-only** verdict — already adjudicated against the 2026-08-13 3/3 convergence, and the review's own quoted evidence shows the article deferring to the register's mechanism-debt pricing. The **"physicalist rivals systematically under-engaged"** site-level bullet — illusionism 260 live files, GWT 110, IIT 107. The **preprint-reliance ceiling** — P-Q7 already flags Torres Alegre unrefereed.
+- **⚠ Reviewer error, recorded prominently**: §2.8 reads the decoherence passage the ChatGPT leg correctly flagged, quotes "twelve to sixteen orders of magnitude" **approvingly**, grades it "creditable" and recommends RETAIN. Re-derived independently: $10^{-13}$–$10^{-20}$ s against 10–30 Hz is **twelve to nineteen**. This is the third standing ratification of the error, and its proposed remedy (narrow the $10^{-20}$ bound to Tegmark's $10^{-13}$) would mask the arithmetic rather than fix it.
+- **Corroborations**: independently confirms **Bodien's 25% is correct** (60/241; 43/112 with responses) and **Torres Alegre is correctly dated** (arXiv:2512.12636 v1, 14 Dec 2025) — both reinforcing ChatGPT-leg refutations already on record.
+- **Convergence accounting**: genuine on the conservation over-assertion, CMD over-recruitment and Zeno-vs-P-Q1 sequencing (independent routes each); **correlated reviewer error, not convergence**, on the site-wide closure/exclusion blind-spot charge, where both legs are wrong in the same direction.
+- **Tasks generated**: 1 new (P2), 8 findings folded into 2 existing tasks. With 19 active P0–P2 and three open tasks already on this article from the ChatGPT leg, folding was the priority: items 7–11 went into the existing P1 one-pass refine on `topics/consciousness-and-causal-powers`, and the §2.8 ratification went into the existing P1 figure sweep as a **second** ratifying authority to correct. The single new P2 targets `concepts/self-stultification.md` — a different file with no open task, where the corpus's anti-epiphenomenalist lever (96 live dependents) never engages Yetter-Chappell's published dissolution.
+- **Published**: pending next sync
 
 ## 2026-09-07T03:56:07+00:00 - outer-review
 - **Status**: Success

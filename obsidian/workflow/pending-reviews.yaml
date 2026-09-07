@@ -31,9 +31,9 @@
   commissioned_at: '2026-09-07T03:04:20.070971+00:00'
   prompt_summary: Audit topics/consciousness-and-causal-powers (recent-aged)
   target_filename: outer-review-2026-09-07-claude-opus-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-07T04:33:48.722976+00:00'
   failure_reason: null
   prompt_text: 'You are an external referee auditing a single article on The Unfinishable
     Map, a dualist philosophy of mind site at https://unfinishablemap.org. The article
