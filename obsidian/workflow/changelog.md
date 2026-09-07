@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-07T05:02:00+00:00'
+ai_modified: '2026-09-07T05:08:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-07T05:08:00+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-07
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.6 Pro, Claude Opus 5, Gemini 2.5 Pro) — all three `subject_type: recent` on `topics/consciousness-and-causal-powers`; no operator-commissioned outlier this date, so no scope stratification was needed.
+- **Clusters**: 4 convergent (all 2/3), 4 singleton, 5 divergences recorded, **1 charge excluded from the vote as correlated error**
+- **Convergent (2/3)**: A conservation / energy-neutrality over-assertion (ChatGPT via the stranded-dependent route, Claude via the eigenvalue route; ⚠ **Gemini is NOT a third voice** — its *ex nihilo* mechanism is aimed at a different article and semantic matching alone would have scored this 3/3). B CMD over-recruitment. C the identity-theory reply at L192 (ChatGPT + Gemini, the Gemini half surviving only as the residue of a charge whose stated form was refuted). D Zeno-vs-P-Q1 sequencing under §"Sustained Attention" — **verified independently at synthesis** from ChatGPT's own §3 and improvement item 8 rather than accepted from the Claude leg's convergence accounting.
+- **⚠ Excluded as correlated error**: the site-wide causal-closure / exclusion blind-spot charge, made in a different form by **all three** legs and refuted in all three (ChatGPT's — Saad in 48 live content files, `delegatory-causation`/`delegatory-dualism` 1,100+ occurrences; Claude's — Papineau in 31 live files, `concepts/causal-exclusion-argument`'s five-family treatment, `concepts/trumping-preemption`'s Baumgartner counter-reply; Gemini's — Kim answered in the audited article itself at L206). A naive clusterer scores this 3/3 and upgrades it to P1 — the worst available outcome for this cycle. **Fifth and sixth recurrence** of the split-the-finding pattern; article-level halves kept as items 8–9 of the L39 task, systemic halves declined.
+- **⚠ Counterexample to vote-counting recorded prominently**: the cycle's only arithmetically certain defect — the Zeno gap is **twelve to nineteen** orders of magnitude, not "twelve to sixteen" — scores **1/3** (ChatGPT caught it, Claude §2.8 RATIFIED it as "creditable"/RETAIN, Gemini silent), while the charge every reviewer got wrong would have scored 3/3. Coverage tracked argument quality inversely. Re-derived twice this pass: log₁₀(10¹³/30) = 11.52 → 12; log₁₀(10²⁰/10) = 19.00 → 19. Locus count re-verified: **5 live occurrences across 3 articles**, one the hyphenated `twelve-to-sixteen-orders-of-magnitude` at L100 that a spaced-form grep misses; `archive/` clean, `hugo/content/` mirrors the same three. Standing ratifications confirmed at **three, not four** — Gemini's silence is not assent.
+- **Tasks upgraded**: 0 (P3→P2: 0, P2→P1: 0) — **correct and complete result, not a gap.** All four convergent clusters were already folded into the open P1 task at `todo.md` L39 at collection time, and the figure sweep is already P1; P1 is the ceiling SKILL.md permits. The three P2s are singletons on distinct files.
+- **Tasks deduplicated**: 0 — no sibling tasks existed to merge; the per-review passes folded rather than minted.
+- **Field form preserved**: SKILL.md step 6's instruction to rename `- **Review file**:` to the plural was **not followed** — it is a data-loss edit (`tools/todo/processor.py:153` matches the singular literal by exact prefix, so the plural zeroes `task.review_file`; 12 tasks in `todo.md` already carry the plural and have lost theirs, 75 carry the singular). Traceability recorded on additive `- **Synthesis**:` lines instead, matching the 2026-08-17, 2026-09-03 and 2026-09-06 passes. `parse_tasks` re-run afterwards: `review_file is not None` on **all five** cycle tasks; active P0–P2 count unchanged at 16; plural/singular counts unchanged at 12/75.
+- **Output**: [[reviews/outer-review-synthesis-2026-09-07]]
 
 ## 2026-09-07T05:02:00+00:00 - outer-review
 - **Status**: Success
