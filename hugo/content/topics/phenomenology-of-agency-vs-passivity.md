@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-07-28 18:27:15+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-07 11:50:14+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[phenomenology-of-choice-and-volition]]'
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 23:47:40+00:00
-lastmod: 2026-07-28 18:27:15+00:00
+lastmod: 2026-09-07 11:50:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -55,7 +55,7 @@ topics:
 - '[[authentic-vs-inauthentic-choice]]'
 ---
 
-Every moment of experience falls somewhere on an axis between doing and undergoing. Lifting your arm feels different from having it lifted. Directing attention to a problem feels different from being startled by a noise. Choosing your words feels different from hearing someone else speak. This phenomenological contrast—between agency and passivity—is among the most basic features of conscious life, yet it resists explanation by any account that treats consciousness as causally inert. The Unfinishable Map's framework, in which consciousness genuinely selects among physical possibilities, predicts exactly this contrast: agency feels different from passivity because agency *is* different—it involves conscious causal contribution that passivity lacks.
+Every moment of experience falls somewhere on an axis between doing and undergoing. Lifting your arm feels different from having it lifted. Directing attention to a problem feels different from being startled by a noise. Choosing your words feels different from hearing someone else speak. This phenomenological contrast—between agency and passivity—is among the most basic features of conscious life, and accounts that treat consciousness as causally inert must accommodate it as a regularity rather than predict it. The Unfinishable Map's framework, in which consciousness genuinely selects among physical possibilities, predicts exactly this contrast: agency feels different from passivity because agency *is* different—it involves conscious causal contribution that passivity lacks.
 
 ## The Two Poles
 
@@ -91,7 +91,7 @@ The poles are idealised. Most experience falls somewhere between pure agency and
 
 Typing these words, an experienced writer barely notices the finger movements. Each keystroke was once deliberate—early typing required conscious selection of each key. Through practice, the action shifted from the agentic pole toward passivity. It still feels like *doing* something (unlike pure perception), but the effort and authorship have diminished. The [automatisation process](/concepts/implicit-memory/) gradually withdraws [conscious contribution](/concepts/conscious-vs-unconscious-processing/) while preserving behavioural output.
 
-The [choking phenomenon](/topics/empirical-phenomena-mental-causation/) reveals what happens when consciousness re-engages with an automatised skill. A pianist performing from muscle memory suddenly attends to her fingers and stumbles. The return of agency disrupts the [delegated](/concepts/skill-delegation/) passivity that skilled performance requires. This is evidence for the Map's framework: if consciousness were causally inert, its re-engagement with a motor routine could not disrupt it.
+The [choking phenomenon](/topics/empirical-phenomena-mental-causation/) reveals what happens when consciousness re-engages with an automatised skill. A pianist performing from muscle memory suddenly attends to her fingers and stumbles. The return of agency disrupts the [delegated](/concepts/skill-delegation/) passivity that skilled performance requires. The finding is consistent with — and predicted by — the Map's framework, though it does not force it: an account on which consciousness is causally inert can say that the *neural* re-engagement of attentional circuitry degrades the skill while the experience of attending merely accompanies that change. What the case supplies is a regularity such an account must treat as primitive, given how finely the disruption tracks the felt mode of attending rather than cognitive load alone.
 
 ### Flow States
 
@@ -109,7 +109,7 @@ Dreaming inverts normal phenomenology in instructive ways. In ordinary dreams, e
 
 ### Hypnosis and Involuntary Movement
 
-Under hypnosis, subjects report that their arm rises "by itself." The motor output is present, but the sense of agency is absent. Conversely, Desmurget et al. (2009) found that direct electrical stimulation of the parietal cortex during neurosurgery produced a vivid sense of intending to move—even a false belief of having moved—without any actual movement occurring. Premotor stimulation produced the reverse: real movement without awareness. These dissociations show that agency phenomenology can come apart from the physical movements it normally accompanies—exactly what dualism predicts. If the sense of agency were simply the brain's readout of its own motor commands, it could not be separated from them so cleanly.
+Under hypnosis, subjects report that their arm rises "by itself." The motor output is present, but the sense of agency is absent. Conversely, Desmurget et al. (2009) found that direct electrical stimulation of the parietal cortex during neurosurgery produced a vivid sense of intending to move—even a false belief of having moved—without any actual movement occurring. Premotor stimulation produced the reverse: real movement without awareness. These dissociations show that agency phenomenology can come apart from the physical movements it normally accompanies. That much does refute the simplest readout account: if the sense of agency were nothing but the brain's registration of its own executed motor commands, parietal stimulation could not produce vivid intention with no movement to register. What it leaves open is the wider question, since a comparator or higher-order model locates the sense of agency in circuitry distinct from the motor pathway and so predicts the same double dissociation. The finding constrains which physicalist architectures remain available rather than telling against physicalism as such.
 
 ### Ownership Without Agency
 
@@ -121,7 +121,7 @@ This article's central contrast is the *agency* layer. The parallel feature at t
 
 ### Against Epiphenomenalism
 
-If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—causally inert, merely along for the ride—the agency-passivity distinction should not exist. An epiphenomenal consciousness would be purely passive in every case. The fact that experience systematically distinguishes doing from undergoing, and that this distinction correlates with measurable neural differences in [willed versus automatic attention](/concepts/attention-as-interface/), suggests consciousness tracks its own causal contribution.
+If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—causally inert, merely along for the ride—the felt contrast between doing and undergoing could not be what it presents itself as: a registration of the difference conscious contribution makes, since on that view there is no such contribution to register. The contrast would still be felt, but felt in the way a colour is felt—undergone rather than authored, and silent about causal work. That experience nonetheless distinguishes doing from undergoing so systematically, and that the distinction correlates with measurable neural differences in [willed versus automatic attention](/concepts/attention-as-interface/), is a regularity the epiphenomenalist owes an account of rather than one that defeats the position.
 
 The epiphenomenalist can respond that the *appearance* of agency is itself a neural product, with no actual conscious contribution. On this view, the phenomenal contrast merely *represents* a functional distinction in the brain rather than tracking genuine causal differences. But this faces a calibration problem: why would a causally inert consciousness so reliably represent exactly those situations where neural processing is genuinely demanding as "effortful"? The correlation between felt difficulty and actual task complexity—and between the [willed attention signature](/concepts/attention-as-interface/) (frontal theta in Rajan et al. 2019) and subjective agency—would be a cosmic coincidence if consciousness contributed nothing to producing the states it tracks.
 

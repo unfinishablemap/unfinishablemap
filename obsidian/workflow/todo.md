@@ -37,15 +37,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `apex/phenomenology-mechanism-bridge` L75 states the choking argument at a strength L132 of the same article already withdraws
+### P2: Adopt default-mode-network calibration in psychedelics-and-the-filter-model
 - **Type**: refine-draft
-- **File**: obsidian/apex/phenomenology-mechanism-bridge.md
-- **Notes**: ⚠️ **NARROW SCOPE — the reviewer's charge is broader than the defect, and the rest of this article is correct. Do not over-apply.** Astra's §11 claims the article's self-monitoring arguments are generally "too strong." Verification on disk 2026-09-06 found the opposite for three of the four lines checked: **L79** concedes cognitive motor dissociation "discriminates agency architecture rather than causal direction: comparator, higher-order, and predictive-processing physicalisms accommodate preserved covert cognition equally well"; **L87** concedes "that an action feels self-caused does not show consciousness contributed the cause, which is why the chain leans on third-person findings"; **L136** marks the quantum step "the chain's speculative link rather than an established result"; **L140** raises the Ptolemaic coherence worry *and* the artifact-of-method worry unprompted. **These are the article's best work. Leave them alone.**
-  **THE ONE REAL LOCUS — L75**: "The choking phenomenon: when experts consciously attend to automatised skills, performance degrades — yet **if consciousness were epiphenomenal, re-engaging attention should not disrupt a process that proceeds identically whether or not consciousness is watching**." The epiphenomenalist answer is immediate: the *neural* re-engagement of attentional circuits disrupts the skill, and the experience of attending accompanies that neural change without contributing to it. A neural monitoring process can both degrade skilled performance and generate an experience of monitoring; neither requires a nonphysical contribution.
-  **The corrected formula is already in this file** — **L132**: "The choking phenomenon is **consistent with — and predicted by —** consciousness doing causal work." Align L75 to L132. **Apply the [[direct-refutation-discipline]] remit**: this is a weak in-framework argument against a live opponent, so identify whether the honest move is an in-framework refutation, naming an unsupported foundational move, or marking the framework-boundary disagreement — then write it in **natural journal-quality prose** per [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body**; the classification goes in the changelog entry. If the in-framework refutation fails, say in natural language that the disagreement is closer to bedrock than first appeared. **Also check `topics/empirical-phenomena-mental-causation`** (L75's link target for the choking phenomenon) and `topics/phenomenology-of-agency-vs-passivity` (L183) for the same over-strong form — `project/coherence-inflation-countermeasures` L410 already records `empirical-phenomena-mental-causation` as a prior strength-of-claim offender ("placebo demonstrates consciousness directing physical processes"), so it is a likely second host. Length-neutral; `ai_modified` live; sync and grep both trees.
-- **Review file**: `reviews/outer-review-2026-09-06-astra-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-06
+- **Status**: pending
+- **File**: obsidian/topics/psychedelics-and-the-filter-model.md
+- **Notes**: From topic-concept anchoring audit 2026-09-07. The topic article over-claims relative to its anchor concept [[default-mode-network]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 2.26/kw is below 3.00/kw (target = 60% of anchor 7.80/kw, capped at 3.0/kw)
+  - anchor declares underdetermination (2× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-09-07
+
+### P2: Adopt neural-correlates-of-consciousness calibration in psychedelics-and-the-filter-model
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/psychedelics-and-the-filter-model.md
+- **Notes**: From topic-concept anchoring audit 2026-09-07. The topic article over-claims relative to its anchor concept [[neural-correlates-of-consciousness]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 2.26/kw is below 2.65/kw (target = 60% of anchor 4.42/kw, capped at 3.0/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-09-07
+
 
 ### P2: `apex/moral-architecture-of-consciousness` L148 presents pain asymbolia as evidence that valence does causal work, without the confound `positions/value-in-selection` books against exactly that leg
 - **Type**: refine-draft
@@ -2166,6 +2179,13 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-07: `apex/phenomenology-mechanism-bridge` L75 states the choking argument at a strength L132 of the same article already withdraws
+- **Type**: refine-draft
+- **File**: obsidian/apex/phenomenology-mechanism-bridge.md
+- **Notes**: ⚠️ **NARROW SCOPE — the reviewer's charge is broader than the defect, and the rest of this article is correct. Do not over-apply.** Astra's §11 claims the article's self-monitoring arguments are generally "too strong." Verification on disk 2026-09-06 found the opposite for three of the four lines checked: **L79** concedes cognitive motor dissociation "discriminates agency architecture rather than causal direction: comparator, higher-order, and predictive-processing physicalisms accommodate preserved covert cognition equally well"; **L87** concedes "that an action feels self-caused does not show consciousness contributed the cause, which is why the chain leans on third-person findings"; **L136** marks the quantum step "the chain's speculative link rather than an established result"; **L140** raises the Ptolemaic coherence worry *and* the artifact-of-method worry unprompted. **These are the article's best work. Leave them alone.**
+  **THE ONE REAL LOCUS — L75**: "The choking phenomenon: when experts consciously attend to automatised skills, performance degrades — yet **if consciousness were epiphenomenal, re-engaging attention should not disrupt a process that proceeds identically whether or not consciousness is watching**." The epiphenomenalist answer is immediate: the *neural* re-engagement of attentional circuits disrupts the skill, and the experience of attending accompanies that neural change without contributing to it. A neural monitoring process can both degrade skilled performance and generate an experience of monitoring; neither requires a nonphysical contribution.
+  **The corrected formula is already in this file** — **L132**: "The choking phenomenon is **consistent with — and predicted by —** consciousness doing causal work." Align L75 to L132. **Apply the [[direct-refutation-discipline]] remit**: this is a weak in-framework argument against a live opponent, so identify whether the honest move is an in-framework refutation, naming an unsupported foundational move, or marking the framework-boundary disagreement — then write it in **natural journal-quality prose** per [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body**; the classification goes in the changelog entry. If the in-framework refutation fails, say in natural language that the disagreement is closer to bedrock than first appeared. **Also check `topics/empirical-phenomena-mental-causation`** (L75's link target for the choking phenomenon) and `topics/phenomenology-of-agency-vs-passivity` (L183) for the same over-strong form — `project/coherence-inflation-countermeasures` L410 already records `empirical-phenomena-mental-causation` as a prior strength-of-claim offender ("placebo demonstrates consciousness directing physical processes"), so it is a likely second host. Length-neutral; `ai_modified` live; sync and grep both trees.
 
 ### ✓ 2026-09-07: Research Replication and Blinding in Psychedelic Science
 - **Type**: research-topic

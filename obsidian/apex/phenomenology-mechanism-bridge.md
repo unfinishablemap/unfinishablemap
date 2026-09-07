@@ -4,7 +4,7 @@ description: "A four-level argument from phenomenology through neural architectu
 created: 2026-03-20
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-09-02T06:35:31+00:00
+ai_modified: 2026-09-07T11:50:14+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -35,7 +35,7 @@ related_articles:
 
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-03-20
 last_curated: null
 last_deep_review: 2026-07-20T02:37:50+00:00
@@ -72,7 +72,7 @@ When you decide to speak rather than stay silent, the [[phenomenology-of-agency-
 
 These are not a single undifferentiated sensation but separable components that clinical dissociations pull apart. In schizophrenia, patients experience thoughts without authorship — the content is present but the sense of agency is stripped away (Frith 1992). In anarchic hand syndrome, a limb performs purposeful actions the patient disowns — ownership without agency (Della Sala et al. 1991). In Desmurget's neurosurgical studies, parietal stimulation produces vivid intention without movement while premotor stimulation produces movement without intention (Desmurget et al. 2009). The [[volitional-control|phenomenological structure of willing]] carves at joints neuroscience independently confirms. This rules out the simplest deflationary accounts: a unitary post-hoc narrative could not be selectively disrupted at specific neural sites while other components remained intact. The clinical evidence reveals an architecture, not an illusion.
 
-Two further findings deepen the case. The [[empirical-phenomena-mental-causation|choking phenomenon]]: when experts consciously attend to automatised skills, performance degrades — yet if consciousness were epiphenomenal, re-engaging attention should not disrupt a process that proceeds identically whether or not consciousness is watching. And contemplative training *sharpens* the agency-passivity distinction rather than dissolving it — experienced meditators report finer discrimination between effortful and effortless states (Lutz et al. 2008), the opposite of what one would expect if the distinction were an illusion careful attention would expose.
+Two further findings constrain the deflationary readings without closing them. The [[empirical-phenomena-mental-causation|choking phenomenon]]: when experts consciously attend to automatised skills, performance degrades, and the disruption tracks the felt mode of attending rather than cognitive load alone. The epiphenomenalist reply is available — the *neural* re-engagement of attentional circuitry degrades the skill while the experience of attending merely accompanies it — so the phenomenon supplies a regularity that reply must treat as primitive rather than a refutation of it. Contemplative training runs the same way: it *sharpens* the agency-passivity distinction rather than dissolving it, experienced meditators discriminating effortful from effortless states more finely, not less (Lutz et al. 2008). Refinement under scrutiny is what a real distinction would look like, and what a sufficiently fine-grained representational one would look like too; the disagreement runs closer to bedrock than the finding's rhetorical force suggests.
 
 A third line bypasses introspection altogether. Intentional binding — the temporal compression between a voluntary action and its outcome, discovered by Haggard, Clark, and Kalogeras (2002) — provides an implicit measure of agency that does not depend on self-report. The compression occurs for voluntary but not involuntary movements, is reduced when outcomes are unpredictable, and is altered in schizophrenic patients whose comparator mechanisms malfunction. If agency were mere confabulation, an implicit timing effect should not track the integrity of specific causal circuits. As [[volitional-control]] details, the convergence of explicit phenomenology, clinical dissociation, and implicit timing measures triangulates a common architecture rather than a narrative convenience.
 
