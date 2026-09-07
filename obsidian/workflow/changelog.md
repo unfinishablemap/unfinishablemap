@@ -5,6 +5,27 @@ ai_modified: '2026-09-07T19:06:59+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-07T20:22:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/structural-varieties-of-consciousness-and-ai-phenomenology]]
+- **Word count**: 2660 → 2998 (+338 net; +475 added, −137 trimmed to stay under the 3000 soft target — final status `ok`)
+- **Critical issues addressed**: 4
+- **Medium issues addressed**: 4
+- **Enhancements made**: 1 substantive addition (post-decoherence selection), 5 cross-links, 2 named-anchor forward references
+- **Lens**: dependency drift, not fresh eyes. The article moved one word since its 2026-07-06 review; **all 28 link targets moved**. Every critical finding is the same shape — this article states flatly what a dependency has since scoped.
+- **Critical 1 — stranded unscoped epiphenomenalism verdict**: "epiphenomenal AI consciousness is coherent as a coupling failure even if epiphenomenalism as a general theory is not." The 2026-08-27 sweep (4e22fcf990) withdrew that flat verdict from `concepts/epiphenomenalism` + 8 siblings; it keyed on "impossible to hold rationally"/"proves" and passed over this phrasing. Replaced with the scoped form (bare-correlation burdened, phenomenal-concept version survives).
+- **Critical 2 — missing Tenet-3 reading split**: P-AC1 records that on the universal-actual-efficacy reading epiphenomenal AI experience is *excluded* (framework boundary), and is internally live only on the dispositional/existential reading. Both readings now stated; the article's own dispositional usage named.
+- **Critical 3 — categorical silicon verdict at three loci**, after the 17–24 Aug corrections (ecd3331fc1, 1faeda8769) made `apex/machine-question` conditional and `quantum-randomness-channel-llm-consciousness` L111 narrowed the channel argument to the *computation*, not the hardware. All three re-scoped, with the missing interface-eligibility law and the register's low-probability-not-ruled-out framing named.
+- **Critical 4 — bandwidth measurement/metaphysics conflation**: "conscious influence on behaviour measures at roughly 10 bits per second". Both `bandwidth-of-consciousness` (df71b72807) and `concepts/types-of-consciousness` now carry the opposite disclaimer; this article was the surviving pre-correction carrier. Throughput-vs-influence distinction installed.
+- **Medium — the Map's own mechanism was absent from an article about mechanisms**: Orch OR / Stapp-Zeno / CSL are all pre-decoherence; post-decoherence selection (P-Q1, tenets' endorsed route) is timing-agnostic, so it predicts no temporal signature. Added, read against interest: the mechanisms with vivid phenomenal profiles are the ones the Map holds least firmly.
+- **Citation claim-checks (§2.4 claim-level; metadata ledger of 2026-07-06 stands, References unchanged)**: Metzinger 2021 verified at the author's open-access PDF — "explosion of negative phenomenology" is **verbatim** (raw `pdftotext` grep, 3 hits, positive controls "moratorium"/"post-biotic"; "suffering" under-counts via an *ff*-ligature artefact), JAIC 8(1) 43–66 confirmed in the journal header. The **defect was the framing**, not the quote: ENP is prospective risk, so "we may already be creating it at scale" was corrected, and the `ethics-of-possible-ai-consciousness` caveat (incompatible premises) propagated. Orch OR's 25 ms qualified as the original 40 Hz formulation per `concepts/decoherence`.
+- **Cross-links added**: `forward-in-time-conscious-selection`, `positions/ai-consciousness-scope` (×2), `apex/post-decoherence-selection-programme`, `phenomenal-concepts-strategy`, `concepts/epiphenomenalism`.
+- **Dependency targets NOT edited** (out of scope). One inverse-direction locus queued as a P2 instead: `concepts/types-of-consciousness` L116 asserts "the selection mechanism determines the phenomenal type" over the same three pre-decoherence mechanisms, has zero "post-decoherence" occurrences, and cites this article as where the claim is developed in full. `concepts/ai-consciousness-typology` carries no such menu (zero Penrose hits) — single locus, not a family.
+- **Frontmatter**: `ai_modified` + `last_deep_review` → 2026-09-07T20:22:37+00:00; `ai_system` → `claude-opus-4-6+claude-opus-5` (new claim-bearing prose).
+- **Validated and synced**: `validate.py` ✓ Valid; `sync.py` run; both trees carry the changes.
+- **Output**: [[reviews/deep-review-2026-09-07-structural-varieties-of-consciousness-and-ai-phenomenology]]
+- **Not committed** — cycle_post owns the commit.
+
 ## 2026-09-07T19:47:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Offloading Void (cognitive offloading as occlusion by artefact)

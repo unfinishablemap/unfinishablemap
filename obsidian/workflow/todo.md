@@ -2193,6 +2193,13 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: refine-draft-flagged
 - **Generated**: 2026-09-07
 
+### P2: `concepts/types-of-consciousness` L116 states the mechanism-determines-phenomenal-type claim over three pre-decoherence mechanisms only — and cites the article that has since withdrawn the inference
+- **Type**: refine-draft
+- **File**: `obsidian/concepts/types-of-consciousness.md`
+- **Notes**: Surfaced by the 2026-09-07 deep-review of `topics/structural-varieties-of-consciousness-and-ai-phenomenology` and verified this run. L116 asserts "The Map's framework adds a constraint these models lack: the selection mechanism determines the phenomenal type", then instantiates it three times — Penrose OR → *pulsed*, Stapp Zeno → *effortful*, CSL → *continuous and graded* — and closes by pointing at the structural-varieties article as where the claim "develops these models and their constraints in full". **All three are pre-decoherence mechanisms.** The route the tenets endorse most strongly (P-Q1; `apex/post-decoherence-selection-programme`; `topics/forward-in-time-conscious-selection`) is *post-decoherence* selection, which `topics/quantum-neural-timing-constraints` describes as **timing-agnostic** — "post-decoherence selection cannot be falsified by timing evidence" — so it predicts no temporal signature of its own. Grep-verified: **zero** occurrences of "post-decoherence" in `concepts/types-of-consciousness.md`. As of 2026-09-07 the article it cites now says the opposite about the endorsed route (the mechanisms with vivid phenomenal profiles are the ones the Map holds least firmly; the one it holds most firmly yields a profile only once the still-owed interface-eligibility law fixes which transitions count), so the pointer now runs to a source that no longer supports the unqualified claim. **Scope**: add the fourth route and its timing-agnosticism at L116; do NOT delete the three illustrations, which remain correct as illustrations. `concepts/ai-consciousness-typology` carries **no** such menu (grepped: zero Penrose hits) — single locus, not a family sweep, so do not widen it into one. Concepts ceilings are soft 2500 / hard 3500; measure before adding and prefer a length-neutral insertion.
+- **Source**: deep-review-flagged
+- **Generated**: 2026-09-07
+
 ## Completed Tasks
 
 
