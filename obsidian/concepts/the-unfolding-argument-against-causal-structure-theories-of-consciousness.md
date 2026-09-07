@@ -4,7 +4,7 @@ description: "A human-AI examination of the unfolding argument: the disjunctive 
 created: 2026-07-10
 modified: 2026-07-10
 human_modified:
-ai_modified: 2026-09-06T14:19:52+00:00
+ai_modified: 2026-09-07T15:58:00+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
@@ -20,7 +20,7 @@ author:
 ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-07-10
 last_curated:
-last_deep_review: 2026-08-05T20:02:00+00:00
+last_deep_review: 2026-09-07T15:58:00+00:00
 ---
 
 Within a functionalist framing of what science can measure, the **unfolding argument** (Doerig, Schurger, Hess & Herzog 2019) presses a sharp disjunction on any theory that fixes consciousness by a system's internal causal organisation: such a theory is *either false or unfalsifiable*. It is not a proof that Integrated Information Theory (IIT) is false. Its own conclusion is a disjunction, and each horn is contested. But the argument is among the cleanest formal pressures put on structural physicalism about consciousness, and it repays careful, honest handling.
@@ -37,13 +37,13 @@ The construction exploits a standard fact about computation. A recurrent network
 
 Doerig et al. then observe that science accesses systems through their input-output behaviour. If two systems are input-output identical, no experiment discriminates them. A theory that nonetheless assigns them different consciousness has made a claim no evidence can bear on. Hence their conclusion, quoted directly: the theories are "either false or outside the realm of science" (Doerig et al. 2019).
 
-Crucially, the argument is *narrow-gauge*. It bites only on theories that make consciousness depend on causal structure independent of function. Function or access theories — global workspace, higher-order, predictive coding — attach consciousness to computed functions that many architectures could realise, so behavioural equivalence carries experiential equivalence for them by construction. They escape the argument. This matters for locating the Map: the argument targets *structural physicalism specifically*, not every theory of consciousness.
+Crucially, the argument is *narrow-gauge*. It bites only on theories that make consciousness depend on causal structure independent of function. Function or access theories — global workspace, higher-order, predictive coding — attach consciousness to computed functions that many architectures could realise, so behavioural equivalence carries experiential equivalence for them by construction. They escape the argument. This matters for locating the Map: the argument targets *structural physicalism specifically*, not every theory of consciousness. It also matters for a nearby family it does not target — structuralism about phenomenal character, which keys experience to relations among experiences rather than to causal wiring ([Which structuralism the argument reaches](#which-structuralism) below).
 
 ## The automata-theoretic formalisation
 
 Hanson and Walker (2021) gave the unfolding construction a rigorous footing using automata theory. Their result rests on the **Krohn-Rhodes decomposition**: any deterministic finite-state automaton can be realised by a strictly feedforward architecture — a nested cascade of state partitions preserved through the computation — yielding Φ = 0 for every state. This generalises the original hand-built unfolding to arbitrary finite-state behaviour.
 
-Their striking claim is epistemological rather than empirical: IIT "may already be falsified even in the absence of experimental refutation." The falsification, if it stands, is *formal* — a theorem about what the theory commits to, not a laboratory result. A distinct sibling result, the falsifiability *dilemma* Kleiner and Hoel press on measurement-based theories generally, is treated separately in [[falsification-roadmap-for-the-interface-model]] and [[hoel-llm-consciousness-continual-learning]]; the present concern is the specific unfolding construction, not those broader formal-falsifiability results.
+Their striking claim is epistemological rather than empirical: IIT "may already be falsified even in the absence of experimental refutation." The falsification, if it stands, is *formal* — a theorem about what the theory commits to, not a laboratory result. A distinct sibling result, the falsifiability *dilemma* Kleiner and Hoel (2021) press on measurement-based theories generally, is treated separately in [[falsification-roadmap-for-the-interface-model]] and [[hoel-llm-consciousness-continual-learning]]; the present concern is the specific unfolding construction, not those broader formal-falsifiability results.
 
 ## The intrinsicality reply
 
@@ -63,6 +63,14 @@ The most recent development narrows the argument's scope — and does so partly 
 
 The implication is precise: theories that build consciousness on fast plasticity operating on perception-relevant timescales *restore empirical testability*, because the unfolding twin cannot be constructed for them. This is a principled limit on the argument's reach rather than a refutation of it — and its co-authorship by one of the argument's own architects marks the debate as live and self-correcting, not settled in either direction. Usher (2021) had earlier pressed a related non-equivalence line, arguing the "equivalent" feedforward network diverges from its recurrent source under dynamic perturbation.
 
+## Which structuralism the argument reaches {#which-structuralism}
+
+A neighbouring family of positions is easily mistaken for the argument's target and does not belong to it. **Structuralism about phenomenal character** holds that experiences are individuated by their place in a web of relations to other experiences rather than by intrinsic qualities. Johannes Kleiner — author of the premise-level rebuttal above — supplies the taxonomy: *epistemic* phenomenal structural realism holds that "all we can know about phenomenal character is its structure", while *ontic* phenomenal structural realism holds that "phenomenal structures are ontologically basic: non-structural features of phenomenal character, such as intrinsic qualities, do not in fact exist" (Kleiner 2025).
+
+The ontic version is structure all the way down about experience, so one might expect the unfolding construction to reach it. On its own it does not. The argument bites on theories that fix consciousness by *internal causal wiring* independent of function, whereas phenomenal structuralism is a claim about relations *among experiences* — it says nothing by itself about which physical organisation realises which phenomenal structure, so the unfolded twin has nothing to grip. A phenomenal structuralist enters the target class only by pairing the thesis with a psychophysical theory keyed to internal causal organisation, and IIT is exactly such a pairing. Holger Lyre, who has developed the programme for neuroscience, separately declines the association with structural realism in as many words: "One might be inclined to ask whether neurophenomenal structuralism is a version of structural realism. The short answer is: no" (Lyre 2022). The corresponding thesis in the philosophy of physics, [[ontic-structural-realism|ontic structural realism]], concerns the ontology of the physical world and is nearly silent on experience.
+
+What does press on phenomenal structuralism is a different formal problem, and it converges on IIT from the other side. Kleiner argues that structural claims about experience fall to **Newman's problem** — that structure alone fixes nothing beyond the cardinality of what it relates — unless the phenomenal relations are pinned down in non-structural terms. He applies this to IIT directly: because IIT supplies the mathematics of a Φ-structure without a phenomenal interpretation of it, the theory offers "a perfect example" of a bare structural claim, so if Newman's problem applies then "IIT's structural claim is entirely void, over and above the cardinality of the elements in the structure" (Kleiner 2025). IIT is therefore exposed twice over, once as a causal-structure theory and once as a maker of structural phenomenal claims. The two pressures are independent: Kleiner's Newman argument nowhere invokes the unfolding construction.
+
 ## Relation to Site Perspective {#site-perspective}
 
 The unfolding argument is a formal ceiling on structural physicalism, and that makes its primary resonance with **Tenet 5 (Occam's razor has limits)**. Integrated information Φ is about as simple, elegant, and mathematically ambitious as a physicalist posit about consciousness gets: one scalar, derived from a system's causal structure, proposed to measure experience. The unfolding argument shows that this elegance does not secure either truth or testability — a highly refined structural measure turns out to be either false or unfalsifiable on its own premises. That is a clean case study for the tenet's core claim: the simplicity or formal beauty of a posit is not a reliable guide to whether it tracks reality, and here the mathematics itself demonstrates the gap. The lesson is bounded, and honesty about its scope matters. The argument is narrow-gauge — it spares function and access theories entirely — so what should drop is confidence in *structural* physicalism specifically, not physicalism in general. IIT is the best-developed candidate for a precise, structure-grounded measure of experience, and its formal predicament is real evidence about that particular programme's prospects; but it leaves the functionalist theories the argument cannot reach exactly where they were. That bounded conclusion, not a general one, is the tenet's practical upshot here.
@@ -80,7 +88,7 @@ A subtler tension deserves naming. IIT's intrinsicality defence — consciousnes
 - [[hoel-llm-consciousness-continual-learning]]
 - [[mathematical-structure-of-the-consciousness-physics-interface]]
 - [[consciousness-physics-interface-formalism]]
-- [[ontic-structural-realism]] — Structure as all there is; extending that ontology to experience would have to meet the pressure this argument applies
+- [[ontic-structural-realism]] — Structure as all there is; a thesis about the ontology of physics whose extension to experience meets Newman's problem rather than this argument
 
 ## References
 
@@ -93,3 +101,6 @@ A subtler tension deserves naming. IIT's intrinsicality defence — consciousnes
 7. Usher, M. (2021). Refuting the unfolding-argument on the irrelevance of causal structure to consciousness. *Consciousness and Cognition*, 95, 103212. PMID: 34627098.
 8. Albantakis, L., Barbosa, L., Findlay, G., Grasso, M., Haun, A. M., Marshall, W., et al. (2023). Integrated information theory (IIT) 4.0: Formulating the properties of phenomenal existence in physical terms. *PLoS Computational Biology*, 19(10), e1011465. DOI: 10.1371/journal.pcbi.1011465. PMID: 37847724.
 9. O'Reilly-Shah, V. N., Selvitella, A. M., & Schurger, A. (2026). A caveat regarding the unfolding argument: implications of plasticity. *Neuroscience of Consciousness*, 2026(1), niag027. DOI: 10.1093/nc/niag027.
+10. Kleiner, J., & Hoel, E. (2021). Falsification and consciousness. *Neuroscience of Consciousness*, 2021(1), niab001. DOI: 10.1093/nc/niab001.
+11. Lyre, H. (2022). Neurophenomenal structuralism. A philosophical agenda for a structuralist neuroscience of consciousness. *Neuroscience of Consciousness*, 2022(1), niac012. DOI: 10.1093/nc/niac012.
+12. Kleiner, J. (2025). The Newman problem of consciousness science. *Philosophy and the Mind Sciences*, 6. DOI: 10.33735/phimisci.2025.11827. (Volume 6 is dated 2025 by the publisher; Crossref records the online date as 2026-01-30. The DOI printed in the article PDF's own citation line is a publisher placeholder — use the one given here.)
