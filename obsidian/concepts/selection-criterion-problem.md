@@ -4,7 +4,7 @@ description: "What makes one candidate outcome preferable to consciousness? A hu
 created: 2026-05-25
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-07-06T20:31:16+00:00
+ai_modified: 2026-09-07T02:50:19+00:00
 last_deep_review: 2026-07-06T20:31:16+00:00
 draft: false
 topics:
@@ -40,7 +40,7 @@ The Map's selection framework says consciousness chooses one outcome from a set 
 
 **(iii) Non-reducible preference.** The selection follows a phenomenal preference that admits no further analysis into structure or chance. If so, an unanalysable primitive sits at the framework's centre: consciousness selects *because of how the candidates feel to it*, and that felt valuation is not decomposable into computation or randomness.
 
-The trilemma is exhaustive in the relevant sense: a criterion is either reducible to structure (i), absent (ii), or an irreducible feature of phenomenal character (iii). A mixed criterion — "partly reasons-driven, partly random" — inherits both defects rather than escaping them, the same way the [[trilemma-of-selection|agency-level trilemma]] shows its "no fourth option" mixture inherits the costs of both determinism and randomness. The interesting work is in why the first two horns are unacceptable to the Map, and what accepting the third actually commits the framework to.
+The trilemma is exhaustive in the relevant sense: a criterion is either reducible to structure (i), absent (ii), or an irreducible feature of phenomenal character (iii). A mixed criterion — "partly reasons-driven, partly random" — inherits both defects rather than escaping them, the same way a mixed criterion at the agency level — partly determined, partly random — inherits the costs of both. The parallel is to that structural point, not to any claim of exhaustiveness: the [[trilemma-of-selection|agency-level trilemma]] is a working heuristic rather than a proof that no fourth option exists, whereas the partition here is over a criterion's logical form. The interesting work is in why the first two horns are unacceptable to the Map, and what accepting the third actually commits the framework to.
 
 ## Why the First Two Horns Fail for the Map
 

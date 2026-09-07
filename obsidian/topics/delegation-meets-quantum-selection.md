@@ -4,7 +4,7 @@ description: "Causal delegation provides the logical structure of mental causati
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-08-19T15:24:39+00:00
+ai_modified: 2026-09-07T02:50:19+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -69,7 +69,7 @@ Delegation's core mechanism is [[delegatory-causation|preemption]]: the physical
 
 Consider a neural system approaching the [[post-decoherence-selection|post-decoherence gap]]. Decoherence has selected a preferred basis and suppressed interference, but the system remains in an improper mixture — multiple outcomes are, on the collapse readings the Map's tenets favour, genuinely possible, and physics provides no principle selecting one. Without conscious involvement, some physical process (objective collapse, hidden variables, or whatever baseline mechanism resolves the [[prebiotic-collapse|prebiotic collapse problem]]) would presumably determine the outcome. This baseline process would have a "default causal profile" of its own — the statistical distribution of outcomes it would produce. The framing here is collapse-interpretation-dependent; on Many-Worlds readings the entire scaffolding does not run, which is why the bridge presupposes the Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet rather than deriving it.
 
-Consciousness, on the proposal here, preempts this baseline process. Instead of the physical mechanism determining the outcome, experience selects which possibility becomes actual. The baseline mechanism retains its capacity — it would have produced *some* definite outcome — but does not exercise it. One cause (consciousness) operates; the other (the baseline physical process) is sidelined. The [[trilemma-of-selection]] argues that this selection must be conscious: at any point of genuine indeterminacy, the exhaustive options appear to be determinism, randomness, and mental causation — and only the third preserves authorship. Delegation specifies what the *causal structure* of that third option could be.
+Consciousness, on the proposal here, preempts this baseline process. Instead of the physical mechanism determining the outcome, experience selects which possibility becomes actual. The baseline mechanism retains its capacity — it would have produced *some* definite outcome — but does not exercise it. One cause (consciousness) operates; the other (the baseline physical process) is sidelined. The [[trilemma-of-selection]] argues that this selection must be conscious: at any point of genuine indeterminacy, the options usually posed are determinism, randomness, and mental causation — and only the third preserves authorship. That trilemma is a working heuristic rather than a complete partition, so what follows rests on delegation's causal structure. Delegation specifies what the *causal structure* of that third option could be.
 
 This may map onto Saad's major-and-sergeant analogy. The baseline collapse mechanism would be the sergeant; consciousness the major. Both could in principle determine the outcome. Hierarchy — consciousness preempting baseline collapse in neural systems — would settle which one does.
 

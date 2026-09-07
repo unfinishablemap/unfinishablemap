@@ -4,7 +4,7 @@ description: "How quantum indeterminacy opens space for libertarian free will, a
 created: 2026-01-18
 modified: 2026-08-21
 human_modified: null
-ai_modified: 2026-08-27T03:37:18+00:00
+ai_modified: 2026-09-07T02:50:19+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -74,7 +74,7 @@ But indeterminism appears to buy alternative possibilities at the cost of source
 2. **If indeterminism is true**, outcomes are random—luck, not choice
 3. **Either way**, genuine authorship seems impossible
 
-The [[trilemma-of-selection]] sharpens this into three exhaustive horns—determinism (theatre), randomness (luck), or mental causation (authorship)—showing that indeterminacy alone is not enough. A non-physical selector is required to escape luck.
+The [[trilemma-of-selection]] sharpens this into three horns—determinism (theatre), randomness (luck), or mental causation (authorship)—showing that indeterminacy alone is not enough. A non-physical selector is the Map's answer to luck.
 
 ## The Luck Objection: The Central Challenge
 

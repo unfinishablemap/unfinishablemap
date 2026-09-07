@@ -4,7 +4,7 @@ description: "A comprehensive treatment of attention as consciousness's interfac
 created: 2026-02-01
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-08-19T18:51:54+00:00
+ai_modified: 2026-09-07T02:50:19+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -68,7 +68,7 @@ Traditional philosophy of mind treats perception and action as separate puzzles.
 
 Cisek showed the motor system represents multiple options simultaneously—in premotor cortex, 43% of task-related neurons fired for either of two potential reach targets before selection. Competing representations accumulate support until one reaches threshold; basal ganglia tonically inhibit motor programs, and selection means releasing the brake on one option.
 
-The [[trilemma-of-selection|trilemma of selection]] is exhaustive within its categories: determinism, randomness, or mental causation — only the third appears to preserve authorship. The Map proposes that consciousness biases which option wins at threshold crossing, in a manner consistent with [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]; whether the proposal is forced by the architecture or merely compatible with it is a question the architecture alone does not adjudicate.
+The [[trilemma-of-selection|trilemma of selection]] foregrounds three horns: determinism, randomness, or mental causation — only the third appears to preserve authorship. The Map proposes that consciousness biases which option wins at threshold crossing, in a manner consistent with [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]; whether the proposal is forced by the architecture or merely compatible with it is a question the architecture alone does not adjudicate.
 
 The trilemma's determinism horn is not empty, and the competition architecture is itself what fills it. Competitive lateral inhibition and the non-linear attractor dynamics of cortical-basal-ganglia loops break the symmetry between closely-weighted options without leaving any residual indeterminate state: when two options are balanced, the recurrent dynamics amplify small fluctuations — synaptic noise, the momentary network state — until the system settles into one attractor basin. The 2020–2025 priority-map and brainstem-inhibitory (PLTi) literature models exactly this deterministic winner-take-all resolution. On that reading, selection is fixed by the dynamics together with their seed noise, and the picture of a suspended option-set awaiting a nudge from consciousness begs the question — the nudge is already supplied by the noise term. The interface model does not refute this account; as a physical story of symmetry-breaking it is complete on its own terms. What the interface model does is locate its minimal intervention at the seed rather than in the macroscopic dynamics: the Map's wager, under [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]], is that the fluctuation tipping a balanced attractor contains a quantum-indeterminate component a conscious agent can bias, not that the deterministic dynamics leave the outcome open. If that seed is exhaustively classical and thermal, the interface has no purchase here and the attractor account is not merely compatible with the architecture but exhaustive of it. That the tipping fluctuation contains a biasable quantum degree of freedom is the substantive, currently unproven commitment on which this horn of the interface reading rests — a commitment the architecture motivates but does not establish.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-25
-ai_modified: 2026-07-06 20:31:16+00:00
+ai_modified: 2026-09-07 02:50:19+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 20:31:16+00:00
-lastmod: 2026-07-06 20:31:16+00:00
+lastmod: 2026-09-07 02:50:19+00:00
 modified: *id001
 related_articles:
 - '[[forward-in-time-conscious-selection]]'
@@ -44,7 +44,7 @@ The Map's selection framework says consciousness chooses one outcome from a set 
 
 **(iii) Non-reducible preference.** The selection follows a phenomenal preference that admits no further analysis into structure or chance. If so, an unanalysable primitive sits at the framework's centre: consciousness selects *because of how the candidates feel to it*, and that felt valuation is not decomposable into computation or randomness.
 
-The trilemma is exhaustive in the relevant sense: a criterion is either reducible to structure (i), absent (ii), or an irreducible feature of phenomenal character (iii). A mixed criterion — "partly reasons-driven, partly random" — inherits both defects rather than escaping them, the same way the [agency-level trilemma](/topics/trilemma-of-selection/) shows its "no fourth option" mixture inherits the costs of both determinism and randomness. The interesting work is in why the first two horns are unacceptable to the Map, and what accepting the third actually commits the framework to.
+The trilemma is exhaustive in the relevant sense: a criterion is either reducible to structure (i), absent (ii), or an irreducible feature of phenomenal character (iii). A mixed criterion — "partly reasons-driven, partly random" — inherits both defects rather than escaping them, the same way a mixed criterion at the agency level — partly determined, partly random — inherits the costs of both. The parallel is to that structural point, not to any claim of exhaustiveness: the [agency-level trilemma](/topics/trilemma-of-selection/) is a working heuristic rather than a proof that no fourth option exists, whereas the partition here is over a criterion's logical form. The interesting work is in why the first two horns are unacceptable to the Map, and what accepting the third actually commits the framework to.
 
 ## Why the First Two Horns Fail for the Map
 

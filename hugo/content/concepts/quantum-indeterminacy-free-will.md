@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-27 03:37:18+00:00
+ai_modified: 2026-09-07 02:50:19+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 09:33:15+00:00
-lastmod: 2026-08-27 03:37:18+00:00
+lastmod: 2026-09-07 02:50:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -77,7 +77,7 @@ But indeterminism appears to buy alternative possibilities at the cost of source
 2. **If indeterminism is true**, outcomes are random—luck, not choice
 3. **Either way**, genuine authorship seems impossible
 
-The [trilemma-of-selection](/topics/trilemma-of-selection/) sharpens this into three exhaustive horns—determinism (theatre), randomness (luck), or mental causation (authorship)—showing that indeterminacy alone is not enough. A non-physical selector is required to escape luck.
+The [trilemma-of-selection](/topics/trilemma-of-selection/) sharpens this into three horns—determinism (theatre), randomness (luck), or mental causation (authorship)—showing that indeterminacy alone is not enough. A non-physical selector is the Map's answer to luck.
 
 ## The Luck Objection: The Central Challenge
 
