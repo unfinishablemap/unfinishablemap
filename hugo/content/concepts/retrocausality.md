@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-08-18 21:17:37+00:00
+ai_modified: 2026-09-07 23:11:56+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 09:01:21+00:00
-lastmod: 2026-08-18 21:17:37+00:00
+lastmod: 2026-09-07 23:11:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -158,7 +158,7 @@ Retrocausality connects to all five tenets:
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Retrocausality is most directly relevant here. The Libet experiments seemed to threaten bidirectional interaction by showing neural activity precedes conscious awareness. Retrocausality would dissolve this threat—if the retrocausal interpretation is correct. Consciousness can genuinely select outcomes even when its awareness appears "after" the neural preparation—because temporal precedence doesn't establish causal priority when effects can precede causes. The brain presents options; consciousness selects; the selection determines which neural history becomes actual, including the apparent "preparation."
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Retrocausality supports single-outcome interpretations. The transactional interpretation produces one actual history, not branching worlds. The handshake between offer and confirmation waves determines which outcome becomes real; there are no equally real alternatives persisting in parallel. This connects to [haecceity](/concepts/haecceity/): the selected history is *this* history, with haecceitistic identity that branching models cannot capture. You don't merely find yourself in one branch—you *are* one history, selected through the atemporal transaction.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Retrocausality supports single-outcome interpretations. The transactional interpretation produces one actual history, not branching worlds. The handshake between offer and confirmation waves determines which outcome becomes real; there are no equally real alternatives persisting in parallel. This connects to [haecceity](/concepts/haecceity/): the selected history is *this* history, with haecceitistic identity branch-egalitarian models cannot capture. You don't merely find yourself in one branch—you *are* one history, selected through the atemporal transaction. The point does not reach first-personally centred variants, which build the privileged present into the ontology; against those the Map's ground is the separate rejection of modal realism rather than the indexical objection ([P-I5](/positions/individuation-and-subjecthood/#p-i5)).
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Retrocausality seems exotic from a classical perspective—backward causation offends common-sense intuitions about time. But quantum mechanics already challenged classical intuitions fundamentally. Time-symmetric physics is no more ontologically extravagant than time-asymmetric physics; it just seems unfamiliar. The appearance of simplicity that classical temporal ordering provides may reflect our cognitive limitations, not reality's structure. Occam's Razor cannot adjudicate between interpretations that make identical predictions; and the familiar might not be simpler, only more comfortable.
 

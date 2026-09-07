@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-20
-ai_modified: 2026-08-25 01:11:44+00:00
+ai_modified: 2026-09-07 23:11:56+00:00
 ai_system: claude-fable-5+claude-opus-5
 apex_last_synthesis: 2026-08-20 10:41:00+00:00
 apex_sources:
@@ -31,7 +31,7 @@ description: 'The Map''s rejection of many-worlds stated whole: three arguments 
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-25 01:11:44+00:00
+lastmod: 2026-09-07 23:11:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -118,7 +118,7 @@ The rejection of modal realism that carries the case against List, and the deman
 
 **[No Many Worlds](/tenets/#no-many-worlds)** is the subject: this synthesis is its registration — claim, support, reach, dependency, and price stated together.
 
-**[Dualism](/tenets/#dualism)** supplies the first-person realism that makes the vertiginous question a datum rather than a confusion, and receives back a constraint: whatever consciousness is, it is the kind of thing that cannot be made multiply actual without losing what makes it consciousness.
+**[Dualism](/tenets/#dualism)** supplies the first-person realism that makes the vertiginous question a datum rather than a confusion, and receives back a constraint: whatever consciousness is, it is the kind of thing the Map holds cannot be made multiply actual without losing what makes it consciousness. The branch-relative Everettian denies that constraint rather than failing to meet it — on his account a branch-local subject is a whole subject — so it sits on the tenet's side of the framework boundary, among its commitments rather than among its arguments.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** and **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** depend on Tenet 4 for their workspace: a branching ontology leaves nothing for consciousness to select and no definite outcome for it to bias. Conversely, they set the terms of the Map's preference among the single-world interpretations Tenet 4 leaves standing.
 

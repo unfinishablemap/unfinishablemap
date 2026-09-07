@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-08-24 17:02:39+00:00
+ai_modified: 2026-09-07 23:11:56+00:00
 ai_system: claude-opus-4-8+claude-fable-5
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 00:49:58+00:00
-lastmod: 2026-08-24 17:02:39+00:00
+lastmod: 2026-09-07 23:11:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -125,7 +125,7 @@ The Map's [tenets](/tenets/) align most naturally with frameworks where consciou
 
 **Bidirectional Interaction**: This tenet most clearly separates the frameworks. Stapp and Chalmers-McQueen support bidirectional interaction—consciousness causally shapes which physical state persists, through question-choice and timing for Stapp, through collapse-triggering for Chalmers-McQueen. Penrose reverses the direction, and Koch proposes a third option. The Map holds that the bidirectional models better explain why we can discuss consciousness at all: if experience were merely a product of collapse (Penrose) or of superposition (Koch), it would need a separate account of how experiential content feeds back into physical behaviour. The interaction models have this built in.
 
-**No Many Worlds**: Albert and Loewer's many-minds framework is ruled out, but their core insight—that conscious experience is always definite—reinforces the Map's position. The definiteness of experience is a constraint that, without many-worlds to distribute outcomes across branches, requires consciousness to participate in selecting a single actual outcome.
+**No Many Worlds**: Albert and Loewer's many-minds framework is ruled out, but their core insight—that conscious experience is always definite—reinforces the Map's position. Definiteness does not by itself require consciousness to participate in selection. Once objective reduction secures a single actual outcome—physical collapse doing that work prebiotically as much as now—the measurement problem cannot itself be evidence for conscious selection; ruling out branching removes a rival to collapse without thereby installing an interface. The burden falls instead on the agency evidence collected under Bidirectional Interaction: the self-stultification argument and the indirect case for [downward causation](/concepts/mental-causation-and-downward-causation/). The reach of the anti-branching case is also variant-relative—decisive against branch-egalitarian readings, supplementary only against first-personally centred variants ([P-I5](/positions/individuation-and-subjecthood/#p-i5)).
 
 **Occam's Razor Has Limits**: The history of this debate illustrates the tenet. The simplest position—that consciousness is irrelevant to quantum mechanics—keeps failing. Deeper investigation reveals entanglement between consciousness and indeterminacy that resists simple dissolution.
 

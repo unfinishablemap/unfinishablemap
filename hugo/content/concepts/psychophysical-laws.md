@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-09-02 19:24:13+00:00
+ai_modified: 2026-09-07 23:11:56+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 12:34:29+00:00
-lastmod: 2026-09-02 19:24:13+00:00
+lastmod: 2026-09-07 23:11:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -242,7 +242,7 @@ Psychophysical laws are where the Map's tenets become theoretically precise.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** constrains what kind of psychophysical laws are admissible. Consciousness biases quantum outcomes without violating conservation laws—the smallest intervention physics permits. The bandwidth constraint (~10 bits/second) further minimizes the channel.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** means psychophysical laws govern genuine collapse, not indexical selection among equally real branches. Consciousness selects what becomes *actually* true, not which branch contains "this" observer. The selected outcome is *this* outcome, with [indexical identity](/concepts/haecceity/) that branching models cannot capture.
+**[No Many Worlds](/tenets/#no-many-worlds)** means psychophysical laws govern genuine collapse, not indexical selection among equally real branches. Consciousness selects what becomes *actually* true. The selected outcome is *this* one, with [indexical identity](/concepts/haecceity/) branch-egalitarian models cannot capture—a framework-boundary clash, not a refutation.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** justifies the ontological expansion psychophysical laws require. A parsimonious theory that explains nothing is not genuinely simpler—it just ignores the explanandum. If consciousness exists and isn't physical, psychophysical laws are not optional additions but necessary completions of our picture of nature.
 

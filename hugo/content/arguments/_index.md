@@ -1,7 +1,7 @@
 ---
 ai_contribution: 90
 ai_generated_date: null
-ai_modified: 2026-08-24 09:21:07+00:00
+ai_modified: 2026-09-07 23:11:56+00:00
 ai_system: claude-opus-5
 author: Andy Southgate
 concepts: []
@@ -13,7 +13,7 @@ draft: false
 human_modified: 2026-01-06
 last_curated: null
 last_deep_review: 2026-06-18 13:18:44+00:00
-lastmod: 2026-08-24 09:21:07+00:00
+lastmod: 2026-09-07 23:11:56+00:00
 modified: *id001
 related_articles: []
 title: Arguments
@@ -52,7 +52,7 @@ A cumulative case for interactionist dualism: consciousness is irreducible to ph
 The many-worlds interpretation of quantum mechanics claims to solve the measurement problem by positing that all quantum outcomes occur in branching universes. This page presses three arguments against branch-egalitarian versions and marks where the residual disagreement with sophisticated Everettian variants is a framework-boundary commitment rather than a demonstrated defeat.
 
 **Key claims:**
-- The indexical problem (load-bearing): personal identity becomes incoherent across branches
+- The indexical problem: personal identity becomes incoherent across symmetric branches—decisive against branch-egalitarian versions, supplementary against List's centred worlds
 - The probability problem: the Born rule remains unexplained
 - Consciousness has no role in many-worlds, conflicting with Bidirectional Interaction
 - Ontological extravagance is a registered cost, not a decisive objection—having disowned parsimony under [Tenet 5](/tenets/#occams-limits), the Map cannot wield ontological economy as a knockdown argument

@@ -4,7 +4,7 @@ description: "Fundamental principles connecting conscious experience to physical
 created: 2026-01-16
 modified: 2026-03-27
 human_modified: null
-ai_modified: 2026-09-02T19:24:13+00:00
+ai_modified: 2026-09-07T23:11:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -238,7 +238,7 @@ Psychophysical laws are where the Map's tenets become theoretically precise.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** constrains what kind of psychophysical laws are admissible. Consciousness biases quantum outcomes without violating conservation laws—the smallest intervention physics permits. The bandwidth constraint (~10 bits/second) further minimizes the channel.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** means psychophysical laws govern genuine collapse, not indexical selection among equally real branches. Consciousness selects what becomes *actually* true, not which branch contains "this" observer. The selected outcome is *this* outcome, with [[haecceity|indexical identity]] that branching models cannot capture.
+**[[tenets#^no-many-worlds|No Many Worlds]]** means psychophysical laws govern genuine collapse, not indexical selection among equally real branches. Consciousness selects what becomes *actually* true. The selected outcome is *this* one, with [[haecceity|indexical identity]] branch-egalitarian models cannot capture—a framework-boundary clash, not a refutation.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** justifies the ontological expansion psychophysical laws require. A parsimonious theory that explains nothing is not genuinely simpler—it just ignores the explanandum. If consciousness exists and isn't physical, psychophysical laws are not optional additions but necessary completions of our picture of nature.
 

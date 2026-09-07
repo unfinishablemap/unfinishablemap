@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-09-04 19:55:44+00:00
+ai_modified: 2026-09-07 23:11:56+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-20 21:12:00+00:00
-lastmod: 2026-09-04 19:55:44+00:00
+lastmod: 2026-09-07 23:11:56+00:00
 modified: *id001
 related_articles:
 - '[[one-world-wager]]'
@@ -64,11 +64,11 @@ The question "Why am I in *this* branch rather than that one?" seems meaningful.
 
 MWI says this question is malformed: both post-measurement persons are equally continuous with the pre-measurement you, and there is no further fact about which branch you "really" end up in.
 
-This doesn't match the phenomenology. You anticipate one definite future experience, not multiple incompatible ones—a felt reality of being *this* observer expecting *one* outcome that suggests a [haecceitistic](/concepts/haecceity/) truth about which branch is yours, something MWI cannot accommodate.
+This doesn't match the phenomenology. You anticipate one definite future experience, not multiple incompatible ones—a felt reality of being *this* observer expecting *one* outcome that suggests a [haecceitistic](/concepts/haecceity/) truth about which branch is yours, unavailable to branch-egalitarian MWI.
 
 MWI defenders invoke self-locating uncertainty: you should be uncertain which branch you'll find yourself in. But as [indexical knowledge](/concepts/indexical-knowledge-and-identity/) analysis shows, self-locating uncertainty normally involves a single world with indexically uncertain facts. On MWI, there's no fact to be uncertain about—both outcomes are equally real, and "you" end up in both. The strongest reply, due to Saunders and Wallace, sharpens this further by relativising indexicality to branches; the next subsection treats it directly.
 
-The indexical objection targets *Everettian* branches, which carry no first-personal privilege. It does not generalise to every many-worlds metaphysics: Christian List's first-personally *centred* worlds answer the indexical question by construction, privileging one present per subject, so the Map rejects that distinct view on a separate ground (its modal realism, which makes every subject's centred world equally real). See [the vertiginous question's treatment of List](/topics/vertiginous-question/#connections-to-other-problems).
+The indexical objection targets *Everettian* branches, which carry no first-personal privilege. It does not generalise to every many-worlds metaphysics: Christian List's first-personally *centred* worlds answer the indexical question by construction, privileging one present per subject, so the Map rejects that distinct view on a [separate ground](/positions/individuation-and-subjecthood/) (its modal realism, which makes every subject's centred world equally real). See [the vertiginous question's treatment of List](/topics/vertiginous-question/#connections-to-other-problems).
 
 ### MWI's Branch-Relative Indexicality Reply
 
@@ -135,7 +135,7 @@ Why do branches contain conscious observers rather than philosophical zombies? T
 
 [Illusionists](/concepts/illusionism/) might respond that the indexical objections depend on taking phenomenal consciousness too seriously. If experience is illusory, perhaps the problem dissolves.
 
-But even if phenomenal consciousness is illusory, something generates the *representation* of being this particular observer anticipating this particular outcome. That representational state has its own indexical character—the illusory seeming-self still seems to be in one branch. MWI cannot accommodate the *representation* of single-future anticipation any better than the *reality* of it. The indexical problem persists whether consciousness is "real" or "illusory."
+But even if phenomenal consciousness is illusory, something generates the *representation* of being this particular observer anticipating this particular outcome. That representational state has its own indexical character—the illusory seeming-self still seems to be in one branch. Branch-egalitarian MWI accommodates the *representation* of single-future anticipation no better than the *reality* of it. The indexical problem persists whether consciousness is "real" or "illusory."
 
 ## Process Philosophy Perspective
 

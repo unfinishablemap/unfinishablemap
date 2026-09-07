@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-08-22 18:22:10.597654+00:00
+ai_modified: 2026-09-07 23:11:56+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 20:39:01+00:00
-lastmod: 2026-08-22 18:22:10.597654+00:00
+lastmod: 2026-09-07 23:11:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -143,7 +143,7 @@ The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet finds these accounts u
 
 **The haecceitistic problem**: If personal identity involves [haecceity](/concepts/haecceity/), then "which branch am I in?" asks about a haecceitistic fact. But many-worlds provides no such facts. All branches are equally real, all successors equally continuous with you. Nothing grounds the self-locating belief "I am in this branch."
 
-**The phenomenological mismatch**: You will experience one definite sequence of outcomes, not multiple incompatible ones. The felt reality of anticipating one future suggests an indexical fact that many-worlds cannot accommodate.
+**The phenomenological mismatch**: You will experience one definite sequence of outcomes, not multiple incompatible ones. The felt reality of anticipating one future suggests an indexical fact that branch-egalitarian many-worlds cannot accommodate—readings on which no branch carries first-personal privilege. First-personally centred variants such as List's (2023) build that privilege into the ontology, so the mismatch reaches them only supplementarily, and the Map's ground against them is the separate rejection of modal realism ([P-I5](/positions/individuation-and-subjecthood/#p-i5)).
 
 The starkest test of these accounts is the [quantum-suicide survival argument](/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/). If pre-measurement survival is genuine self-locating uncertainty over branch successors, an observer facing a lethal quantum trigger should expect to find themselves, indefinitely, only in branches where they survived. Contemporary Everettians are in fact divided over this conclusion. O'Brien (2025) splits the field into immortalists (Tegmark) and mortalists (Carroll, Papineau, Wallace), the latter holding that the truth of many-worlds carries no such consequence and that one's situation is that of an observer in a single stochastically evolving universe. O'Brien's own verdict is that rejection is tenable but costly—and the cost lands where an indexical realist would expect it, since declining the immortality inference means declining to anchor anticipation to which successor is *me*.
 
@@ -155,7 +155,7 @@ Indexical knowledge and identity connect to The Unfinishable Map's [tenets](/ten
 
 **[Dualism](/tenets/#dualism)**: If phenomenal indexical knowledge—the strongest grade—is irreducible to third-person physical description, then physical description is incomplete. What *this* subject knows in having *this* experience exceeds what any impersonal account captures. The dualist position makes room for indexical facts as genuinely ontological: consciousness is not just qualitative experience ([qualia](/concepts/qualia/)) but *this* subject having *this* experience.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Indexical knowledge that *I* experience *this* outcome presupposes a fact about which outcome is mine. Many-worlds denies such facts by making all outcomes equally real. The Map rejects many-worlds partly because indexical identity seems meaningful in ways the interpretation cannot accommodate. Consciousness tracking one definite trajectory suggests genuine selection, not branching into all possibilities.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Indexical knowledge that *I* experience *this* outcome presupposes a fact about which outcome is mine. Many-worlds denies such facts by making all outcomes equally real. The Map rejects many-worlds partly because indexical identity seems meaningful in ways branch-egalitarian readings cannot accommodate. Consciousness tracking one definite trajectory suggests genuine selection, not branching into all possibilities.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Reports of indexical knowledge—"I see red," "this hurts," "I am here"—are physical events. If indexical knowledge were epiphenomenal, these reports would be causally disconnected from the knowledge itself. A functionalist might respond that physical states carrying indexical representational content suffice to explain this, but that concedes the point: whatever produces these reports must track the indexical fact, not merely the impersonal state of affairs. The reliability of first-person reports suggests [causal influence](/concepts/agent-causation/) flowing from consciousness to physical outcomes.
 

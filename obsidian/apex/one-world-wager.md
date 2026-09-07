@@ -3,7 +3,7 @@ title: "The One-World Wager"
 created: 2026-08-20
 modified: 2026-08-25
 human_modified: null
-ai_modified: 2026-08-25T01:11:44+00:00
+ai_modified: 2026-09-07T23:11:56+00:00
 draft: false
 description: "The Map's rejection of many-worlds stated whole: three arguments honestly counted, the List double-edge, what one-world actuality demands, and its costs."
 topics:
@@ -109,7 +109,7 @@ The rejection of modal realism that carries the case against List, and the deman
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** is the subject: this synthesis is its registration — claim, support, reach, dependency, and price stated together.
 
-**[[tenets#^dualism|Dualism]]** supplies the first-person realism that makes the vertiginous question a datum rather than a confusion, and receives back a constraint: whatever consciousness is, it is the kind of thing that cannot be made multiply actual without losing what makes it consciousness.
+**[[tenets#^dualism|Dualism]]** supplies the first-person realism that makes the vertiginous question a datum rather than a confusion, and receives back a constraint: whatever consciousness is, it is the kind of thing the Map holds cannot be made multiply actual without losing what makes it consciousness. The branch-relative Everettian denies that constraint rather than failing to meet it — on his account a branch-local subject is a whole subject — so it sits on the tenet's side of the framework boundary, among its commitments rather than among its arguments.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** and **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** depend on Tenet 4 for their workspace: a branching ontology leaves nothing for consciousness to select and no definite outcome for it to bias. Conversely, they set the terms of the Map's preference among the single-world interpretations Tenet 4 leaves standing.
 

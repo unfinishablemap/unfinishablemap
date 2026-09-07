@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-08-27 12:00:29+00:00
+ai_modified: 2026-09-07 23:11:56+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5
 author: null
 concepts:
@@ -29,7 +29,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 03:17:52+00:00
-lastmod: 2026-08-27 12:00:29+00:00
+lastmod: 2026-09-07 23:11:56+00:00
 modified: *id001
 related_articles:
 - '[[filter-vs-interface-distinction]]'
@@ -168,7 +168,7 @@ NDEs align with multiple site tenets:
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness can perceive during cardiac arrest, that would be efficacy independent of normal neural mediation. The antecedent is unmet: AWARE II's hidden-target test, the one endpoint that would have shown it, returned no confirmed hits.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The [many-worlds interpretation](/concepts/many-worlds/) would reduce NDE transformation to observer-selection bias across branches. But NDEs produce [haecceitistic](/concepts/haecceity/) certainty—"I was there. I experienced this. I came back"—that resists reinterpretation as "some me-copy in some branch experienced this." The transformation follows the specific experiencer through their specific life.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Branch-egalitarian [many-worlds](/concepts/many-worlds/) would reduce NDE transformation to observer-selection bias across branches. But NDEs produce [haecceitistic](/concepts/haecceity/) certainty—"I was there. I experienced this. I came back"—that resists reinterpretation as "some me-copy in some branch experienced this." The transformation follows the specific experiencer through their specific life.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If consciousness interfaces with the brain at quantum indeterminacies, dying might in principle alter that interface—but this is frank speculation with no mechanism, and it cuts against the physics. Dying tissue is *more* decoherent (ischemia, ionic chaos), not less, so there is no physical reason to expect a quantum interface to become "more fluid" near death. The gamma surges documented by Borjigin's team remain ambiguous: they could equally represent final neural activity generating the experiences. We flag the MQI connection as a place the tenet might one day make contact, not a prediction the current evidence supports.
 

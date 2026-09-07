@@ -4,7 +4,7 @@ description: "Non-linguistic consciousness from animals to simple organisms. The
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-09-06T14:06:42+00:00
+ai_modified: 2026-09-07T23:11:56+00:00
 last_deep_review: 2026-07-19T12:13:24+00:00
 draft: false
 topics:
@@ -152,7 +152,7 @@ The individual source articles establish components — animal consciousness as 
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If consciousness interfaces with matter through quantum processes, the mechanism could operate in any organism with suitable architecture. The Map treats microtubule-scale interest as tenet-driven rather than empirically forced.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Each animal subject has *this* experience. The [[haecceity]] of animal experience is a genuine fact that MWI cannot accommodate.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Each animal subject has *this* experience, not all possible experiences in branching worlds. The Map treats the [[haecceity]] of animal experience as a brute fact, which runs counter to branch-egalitarian MWI's denial that there is any fact of the matter about which branch a subject occupies. This is a clash of foundational commitments—MWI denies the premise rather than failing to accommodate it—and is honestly noted as such, not a refutation of MWI on its own terms. Against first-personally centred variants, which build the privileged present into the ontology, the point reaches only supplementarily ([[positions/individuation-and-subjecthood|P-I5]]).
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Identification-methodology underdetermination (Wandrey & Halina 2025) and the inconclusive COGITATE outcome are exactly what this tenet predicts when third-person methods are asked to identify a first-person phenomenon.
 

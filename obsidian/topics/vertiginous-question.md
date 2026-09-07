@@ -4,7 +4,7 @@ description: "Why, of all conscious beings, am *I* this one? The vertiginous que
 created: 2026-01-26
 modified: 2026-05-31
 human_modified:
-ai_modified: 2026-08-20T10:41:00+00:00
+ai_modified: 2026-09-07T23:11:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -157,7 +157,7 @@ The vertiginous question intersects several philosophical problems:
 
 **[[moral-responsibility|Moral responsibility]].** If haecceity grounds personal identity, it also grounds responsibility. I am responsible for *my* actions because I am this particular subject who performed them — not merely someone qualitatively similar. Pattern-identity theories that allow for branching or fusing selves face difficulties with desert and punishment.
 
-**Many-worlds branching.** After a quantum measurement in [[concepts/many-worlds]] interpretation, there are multiple branches with multiple observers. Which is you? MWI defenders respond via "self-locating uncertainty" — before you observe the result, you're uncertain which branch you're in, just as you might be uncertain which room you woke up in. The Map's response: self-locating uncertainty normally presupposes a single world with indexically uncertain facts. On MWI, both outcomes are equally real and "you" end up in both. You will experience one definite sequence of outcomes, not all of them. The felt reality of anticipating one future — not multiple incompatible ones — suggests an indexical fact that Everettian MWI cannot accommodate.
+**Many-worlds branching.** After a quantum measurement in [[concepts/many-worlds]] interpretation, there are multiple branches with multiple observers. Which is you? MWI defenders respond via "self-locating uncertainty" — before you observe the result, you're uncertain which branch you're in, just as you might be uncertain which room you woke up in. The Map's response: self-locating uncertainty normally presupposes a single world with indexically uncertain facts. On MWI, both outcomes are equally real and "you" end up in both. You will experience one definite sequence of outcomes, not all of them. The felt reality of anticipating one future — not multiple incompatible ones — suggests an indexical fact that branch-egalitarian MWI cannot accommodate.
 
 The indexical objection bites Everett because his branches carry no first-personal privilege: each branch contains a successor observer, none of them is metaphysically *the* one whose experience is mine, and the theory has no resource to say why this anticipated future rather than that one is lived. But the same objection cuts in an unexpected direction when turned on a different many-worlds proposal. In a separate paper, "The Many-Worlds Theory of Consciousness," List builds a metaphysics of *first-personally centred* worlds directly from Hellie's vertiginous question. On his view, each conscious subject is associated with its own centred world — a distinct first-personal realiser of a shared third-personal world — and a Lewisian modal realism holds these centred worlds all equally real, with exactly one *present* for each subject. List's explicit motivation is that the one-world picture "lacks the resources to address the vertiginous question," because no fact holding at the single world simpliciter settles why *this* subject is mine, whereas his centred-worlds picture answers it by construction: my centred world is the one that is present. The first-person privilege the indexical intuition demands is, on List's view, built into the ontology rather than left dangling across symmetric branches.
 

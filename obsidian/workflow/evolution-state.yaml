@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-07T22:38:33.441636+00:00'
-session_count: 20194
+last_updated: '2026-09-07T23:01:57.061342+00:00'
+session_count: 20195
 cycle_position: 13247
 last_runs:
   add-highlight: '2026-09-07T08:08:05.524263+00:00'
@@ -35,7 +35,7 @@ last_runs:
   pessimistic-review: '2026-09-07T14:32:35.752844+00:00'
   positions-evolve: '2026-09-06T20:44:49.811660+00:00'
   refine-draft: '2026-09-07T21:34:24.936369+00:00'
-  replenish-queue: '2026-09-07T18:11:31.419517+00:00'
+  replenish-queue: '2026-09-07T23:01:57.061342+00:00'
   research-topic: '2026-09-07T11:28:16.172849+00:00'
   research-voids: '2026-09-06T22:00:56.267555+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-09-07'
-  outcome: success
-  kind: agentic_social
 - task: optimistic-review
   type: optimistic-review
   date: '2026-09-07'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-07'
   outcome: success
   kind: agentic_social
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-09-07'
+  outcome: success
+  kind: replenish
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agency-budget/
@@ -567,68 +567,66 @@ agentic_social:
 queue_status:
   last_replenishment: '2026-09-07T22:55:32+00:00'
   last_replenishment_mode: conservative
-  last_replenishment_note: 'RUN 1027. ZERO TASKS MINTED - TWO P3s PROMOTED TO P2
-    INSTEAD. Fired 2026-09-07 22:55Z on a one-task floor breach. Pre-run position
-    via tools.todo.processor.parse_tasks (integer priorities, not strings): 117
-    active, P2 2, P3 115, P0/P1 0, vetoed 3 - pickable P0-P2 was 2 against the floor
-    of 3. This is P3 SATURATION, not an empty queue: 115 executable tasks sat invisible
-    to a priority-first selector. Adding volume to a 117-deep queue is a cost, so
-    the correct move was to raise priority on already-verified work, not mint. Promoted,
-    both refine-draft, both premises re-verified from disk this run, both the same
-    defect family (a tenets-page scoping revision whose dependents were never swept
-    - sweep-fixes-the-disclaimer-and-strands-its-dependents), on different tenets
-    with disjoint loci: (1) the Tenet 2 corridor task, 3 of 3 named loci live in
-    BOTH trees (concepts/pragmatism L44/47, tenets/background-commitments L60/63,
-    topics/epistemology-of-mechanism-at-the-consciousness-matter-interface L123/127)
-    - a tenets-tier page attributes an UNSCOPED concession to the falsifiability
-    status the tenets now scope to unconditioned aggregate tests, and the third
-    locus contradicts its own L109; a full 24-occurrence live-tree sweep is recorded
-    in the task, with 3 apex loci read in full and marked CORRECTLY scoped so nobody
+  last_replenishment_note: 'RUN 1027. ZERO TASKS MINTED - TWO P3s PROMOTED TO P2 INSTEAD.
+    Fired 2026-09-07 22:55Z on a one-task floor breach. Pre-run position via tools.todo.processor.parse_tasks
+    (integer priorities, not strings): 117 active, P2 2, P3 115, P0/P1 0, vetoed 3
+    - pickable P0-P2 was 2 against the floor of 3. This is P3 SATURATION, not an empty
+    queue: 115 executable tasks sat invisible to a priority-first selector. Adding
+    volume to a 117-deep queue is a cost, so the correct move was to raise priority
+    on already-verified work, not mint. Promoted, both refine-draft, both premises
+    re-verified from disk this run, both the same defect family (a tenets-page scoping
+    revision whose dependents were never swept - sweep-fixes-the-disclaimer-and-strands-its-dependents),
+    on different tenets with disjoint loci: (1) the Tenet 2 corridor task, 3 of 3
+    named loci live in BOTH trees (concepts/pragmatism L44/47, tenets/background-commitments
+    L60/63, topics/epistemology-of-mechanism-at-the-consciousness-matter-interface
+    L123/127) - a tenets-tier page attributes an UNSCOPED concession to the falsifiability
+    status the tenets now scope to unconditioned aggregate tests, and the third locus
+    contradicts its own L109; a full 24-occurrence live-tree sweep is recorded in
+    the task, with 3 apex loci read in full and marked CORRECTLY scoped so nobody
     edits them. (2) the Tenet 4 MWI-cannot-accommodate family, 4 of 4 spot-checked
     loci still unscoped (arguments/many-worlds-argument L203, concepts/many-worlds
     L63, concepts/psychophysical-laws L241, topics/consciousness-in-smeared-quantum-states
     L124), carried across two consecutive check-tenets reports with no task at all.
-    Result: active still 117 (no volume added), pickable P0-P2 now 4, floor met
-    with one task of margin. SOURCES CHECKED AND DECLINED, with the measurement:
-    chain - task_chains.pending_articles lists research/voids-offloading-void-2026-09-06
+    Result: active still 117 (no volume added), pickable P0-P2 now 4, floor met with
+    one task of margin. SOURCES CHECKED AND DECLINED, with the measurement: chain
+    - task_chains.pending_articles lists research/voids-offloading-void-2026-09-06
     as pending but voids/offloading-void.md was created today by commit 715dbaa538,
     and both of today new articles already carry inbound links (3 and 2 respectively),
-    so the integration chain is discharged; that pending_articles entry is stale
-    and dischargeable, left alone because the field has no reliable writer. unconsumed_research
+    so the integration chain is discharged; that pending_articles entry is stale and
+    dischargeable, left alone because the field has no reliable writer. unconsumed_research
     - DECLINED as a source and the contamination confirmed: 578 notes, 541 lacking
-    consumed_by, so the stamp carries almost no information; slug-matching found
-    live articles for at least 174 of the 541. orphan_integration - quality.orphaned_files
+    consumed_by, so the stamp carries almost no information; slug-matching found live
+    articles for at least 174 of the 541. orphan_integration - quality.orphaned_files
     is 0 and today two new articles both have inbound links. length_analysis - DECLINED
     ON VETO EVIDENCE, the important finding of this run: all three entries in the
     Vetoed bank are length-driven condense tasks (composition-question-rivals, meaning-of-life,
     and apex/phenomenal-output-causal-machinery-dissociation, which is the single
-    worst real-article offender), so the human has rejected this source 3 for 3.
-    Measured anyway for the record: 88 content files exceed their hard threshold
-    on the analyzer figure, but only 29 do so on prose alone after stripping frontmatter
-    and the reference apparatus, and the top 4 of those 29 are a section index and
-    three positions registers that accrete by design. gap_analysis - checked and
-    genuinely clean, not exhausted: rebuilt the real sync index with build_content_index
-    (9477 slugs, 0 collisions) and swept topics concepts apex voids positions tenets
-    arguments questions for bare body wikilinks missing from it, frontmatter and
-    code spans stripped - 0 files, 0 links, so there is no broken-wikilink push-blocker
-    anywhere in the content tree. Same check killed a dangling recommendation: the
-    2026-08-18 audit asked for a fresh task on 37 research notes with 45 non-resolving
-    wikilinks; the figure verifies EXACTLY 20 days later, but 44 of the 45 sit in
-    related_articles / topics FRONTMATTER which sync copies verbatim, and the single
-    body occurrence is backticked inline code in a sentence that itself says the
-    target does not yet exist - finding written into that task so it is not re-minted.
-    positions_dependency_changed - 47 content articles were touched today but none
-    appears in any positions Argued-in line; the two apparent hits were a substring
-    collision (concepts/self-stultification versus topics/self-stultification-as-master-argument)
-    and a related_articles entry. Caps re-measured with count_section_files, all
-    with headroom, no cap filtering applied: topics 328/360, concepts 326/360, voids
-    103/115, positions 18/80 - the CLAUDE.md table reading 320/320/100/80 is stale.
-    Pileup checked for every candidate against all 117 active blocks; declined promoting
-    the Lyre / neurophenomenal-structuralism P3 because it sits in the same OSR
-    cluster as an existing P2, and declined the apex/one-world-wager P3s because
-    four open tasks already touch that file. Two P3s carrying explicit DO-NOT-PROMOTE
-    audits from earlier replenish runs (the empty-topics 13 and the six-broken-links
-    task) were respected, not overridden.'
+    worst real-article offender), so the human has rejected this source 3 for 3. Measured
+    anyway for the record: 88 content files exceed their hard threshold on the analyzer
+    figure, but only 29 do so on prose alone after stripping frontmatter and the reference
+    apparatus, and the top 4 of those 29 are a section index and three positions registers
+    that accrete by design. gap_analysis - checked and genuinely clean, not exhausted:
+    rebuilt the real sync index with build_content_index (9477 slugs, 0 collisions)
+    and swept topics concepts apex voids positions tenets arguments questions for
+    bare body wikilinks missing from it, frontmatter and code spans stripped - 0 files,
+    0 links, so there is no broken-wikilink push-blocker anywhere in the content tree.
+    Same check killed a dangling recommendation: the 2026-08-18 audit asked for a
+    fresh task on 37 research notes with 45 non-resolving wikilinks; the figure verifies
+    EXACTLY 20 days later, but 44 of the 45 sit in related_articles / topics FRONTMATTER
+    which sync copies verbatim, and the single body occurrence is backticked inline
+    code in a sentence that itself says the target does not yet exist - finding written
+    into that task so it is not re-minted. positions_dependency_changed - 47 content
+    articles were touched today but none appears in any positions Argued-in line;
+    the two apparent hits were a substring collision (concepts/self-stultification
+    versus topics/self-stultification-as-master-argument) and a related_articles entry.
+    Caps re-measured with count_section_files, all with headroom, no cap filtering
+    applied: topics 328/360, concepts 326/360, voids 103/115, positions 18/80 - the
+    CLAUDE.md table reading 320/320/100/80 is stale. Pileup checked for every candidate
+    against all 117 active blocks; declined promoting the Lyre / neurophenomenal-structuralism
+    P3 because it sits in the same OSR cluster as an existing P2, and declined the
+    apex/one-world-wager P3s because four open tasks already touch that file. Two
+    P3s carrying explicit DO-NOT-PROMOTE audits from earlier replenish runs (the empty-topics
+    13 and the six-broken-links task) were respected, not overridden.'
   last_replenishment_run: 1027
   loop_pickable_open: 4
   needs_replenishment: false

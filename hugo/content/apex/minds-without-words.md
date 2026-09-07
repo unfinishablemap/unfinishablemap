@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-09-06 14:06:42+00:00
+ai_modified: 2026-09-07 23:11:56+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-05-19 21:00:00+00:00
 apex_sources:
@@ -36,7 +36,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 12:13:24+00:00
-lastmod: 2026-09-06 14:06:42+00:00
+lastmod: 2026-09-07 23:11:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -156,7 +156,7 @@ The individual source articles establish components — animal consciousness as 
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If consciousness interfaces with matter through quantum processes, the mechanism could operate in any organism with suitable architecture. The Map treats microtubule-scale interest as tenet-driven rather than empirically forced.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Each animal subject has *this* experience. The [haecceity](/concepts/haecceity/) of animal experience is a genuine fact that MWI cannot accommodate.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Each animal subject has *this* experience, not all possible experiences in branching worlds. The Map treats the [haecceity](/concepts/haecceity/) of animal experience as a brute fact, which runs counter to branch-egalitarian MWI's denial that there is any fact of the matter about which branch a subject occupies. This is a clash of foundational commitments—MWI denies the premise rather than failing to accommodate it—and is honestly noted as such, not a refutation of MWI on its own terms. Against first-personally centred variants, which build the privileged present into the ontology, the point reaches only supplementarily ([P-I5](/positions/individuation-and-subjecthood/#p-i5)).
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Identification-methodology underdetermination (Wandrey & Halina 2025) and the inconclusive COGITATE outcome are exactly what this tenet predicts when third-person methods are asked to identify a first-person phenomenon.
 

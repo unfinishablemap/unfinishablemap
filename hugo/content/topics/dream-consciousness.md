@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-08-22 22:08:05+00:00
+ai_modified: 2026-09-07 23:11:56+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -52,7 +52,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 04:39:14+00:00
-lastmod: 2026-08-22 22:08:05+00:00
+lastmod: 2026-09-07 23:11:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -222,7 +222,7 @@ The Map's interpretation of dream consciousness would face difficulty if:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Relaxed executive control during REM could speculatively widen the selection window, allowing consciousness to bias quantum-indeterminate outcomes across a broader neural landscape. The incomplete reliability of dream control fits: consciousness influences outcomes within the margin quantum indeterminacy allows. This connection remains conjectural.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Dream control involves the felt sense of *selecting* one outcome and *foreclosing* others. The lucid dreamer who chooses to fly experiences the non-flying option as genuinely not taken—possibilities genuinely closing rather than continuing elsewhere—supporting collapse interpretations where selection is real.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Dream control involves the felt sense of *selecting* one outcome and *foreclosing* others. The lucid dreamer who chooses to fly experiences the non-flying option as genuinely not taken. That phenomenology does not by itself support collapse: a branching ontology predicts it equally well, since each branch's dreamer lives exactly one course of events with no access to the others, so felt closure of the unchosen option is what branch-local experience would look like anyway. The Map still reads dream selection as genuine foreclosure rather than branch-locality, but that reading rests on the indexical objection argued in [the Map's case for one-world actuality](/arguments/many-worlds-argument/)—decisive against branch-egalitarian readings, supplementary only against first-personally centred variants ([P-I5](/positions/individuation-and-subjecthood/#p-i5))—and is a clash of foundational commitments rather than a result the dream phenomenology delivers.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The "simpler" explanation—brain produces dreams—begs the hard problem. Producing experience from neural activity is not simple; it is unexplained. Filter theory adds one postulate (consciousness exists independently) but resolves why disruption can enhance experience.
 

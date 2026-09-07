@@ -3,7 +3,7 @@ title: "The Map's Case for One-World Actuality"
 created: 2026-01-15
 modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-08-24T09:21:07+00:00
+ai_modified: 2026-09-07T23:11:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -200,11 +200,11 @@ The [[tenets#^no-many-worlds|No Many Worlds]] tenet is not arbitrary. It follows
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Many-worlds eliminates the indeterminacy that consciousness would bias. The Schrödinger equation evolves deterministically; "randomness" is merely perspectival. The mechanism the Map proposes has no work to do.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: The tenet exists because of the indexical identity problem. If consciousness involves genuine unity—a single subject binding many contents—then fragmenting that subject across branches destroys what makes it consciousness.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The tenet exists because of the indexical identity problem, decisive against branch-egalitarian readings and supplementary only against first-personally centred variants ([[positions/individuation-and-subjecthood|P-I5]]).
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Many-worlds claims conceptual simplicity while postulating ontological profligacy. Having committed to distrusting parsimony under incomplete knowledge, the Map cannot wield ontological economy as a knockdown objection—the tenet disciplines the Map's own case as much as it indicts MWI.
 
-The Map requires that quantum measurement is real—that definite outcomes genuinely occur and consciousness plays a role in their occurrence. Many-worlds denies all of this.
+The Map requires that quantum measurement is real—that definite outcomes genuinely occur and consciousness plays a role in their occurrence. Branch-egalitarian MWI denies all this.
 
 ## Further Reading
 
@@ -213,7 +213,7 @@ The Map requires that quantum measurement is real—that definite outcomes genui
 - [[quantum-consciousness]] — Alternative frameworks for mind-matter interaction
 - [[quantum-interpretations]] — Survey of interpretations and their compatibility with the Map
 - [[personal-identity]] — Why identity matters for quantum interpretation
-- [[haecceity]] — The metaphysics of "thisness" that MWI cannot accommodate
+- [[haecceity]] — The metaphysics of "thisness" branch-egalitarian MWI cannot accommodate
 - [[parfit-reductionism]] — Parallel problems with identity reductionism
 - [[binding-problem]] — The unity of consciousness that branching threatens
 - [[probability-problem-in-many-worlds]] — The probability crisis in full: the four objections and three recovery strategies

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-07-13 17:26:00+00:00
+ai_modified: 2026-09-07 23:11:56+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 02:47:52+00:00
-lastmod: 2026-07-13 17:26:00+00:00
+lastmod: 2026-09-07 23:11:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -145,7 +145,7 @@ At advanced levels, practitioners report that self-awareness persists even when 
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** connects through the capacities self-awareness enables. If self-awareness is what makes deliberation, evaluation, and authentic choice possible, then it is the phenomenological precondition for consciousness to exercise its causal influence. The reflexive gap — the space self-awareness opens between impulse and action — is where downward causation becomes experientially available. The practice of meditation — using recursive awareness to modify mental habits — offers a suggestive case: meditators report that phenomenal changes precede and guide behavioural changes, which reads naturally as [downward causation](/concepts/mental-causation-and-downward-causation/) from consciousness to brain. The report is consistent with that reading, but it does not force it — the same sequence is underdetermined by the evidence and remains compatible with both interpretations, since a physicalist re-description can treat the felt phenomenal change as the experiential side of the very neural change that drives the behaviour. The meditation case removes one defeater (that consciousness is causally idle); it does not by itself supply positive evidence that adjudicates between downward causation and its physicalist mirror.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** is illuminated by the asymmetry problem. Self-awareness always involves *this* consciousness encountering *itself* — a particular subject in a particular experiential situation. The doubling does not multiply subjects but intensifies the singular first-person perspective. The indexical unity — *this* consciousness attending to *its own* states — conflicts with interpretations where the self branches across multiple simultaneously-real worlds. The recursive structure presupposes an indexical fact that many-worlds cannot accommodate.
+**[No Many Worlds](/tenets/#no-many-worlds)** is illuminated by the asymmetry problem. Self-awareness always involves *this* consciousness encountering *itself* — a particular subject in a particular experiential situation. The doubling does not multiply subjects but intensifies the singular first-person perspective. The indexical unity — *this* consciousness attending to *its own* states — conflicts with interpretations where the self branches across multiple simultaneously-real worlds. The recursive structure presupposes an indexical fact that branch-egalitarian many-worlds cannot accommodate, no branch there carrying first-personal privilege. The scope matters: first-personally centred variants such as List's (2023) build that privilege into the ontology, so the recursive-unity point reaches them only supplementarily, and the Map's ground against them is a separate rejection of modal realism ([P-I5](/positions/individuation-and-subjecthood/#p-i5)). Even against branch-egalitarian readings this marks a clash of foundational commitments rather than an in-framework refutation — the Everettian can hold that branch-local reflexivity is all reflexivity ever was.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** applies to reductive accounts at both levels. The simplest theory — self-awareness is recursive information processing, nothing more — cannot explain why the recursion transforms phenomenal character. The instability of recursive thought defies simple modelling. One might expect that if consciousness is just information processing, adding a meta-level would be straightforward — like a program monitoring another program. But the collapsing tower, the elusive observer, and the semantic vertigo suggest complexity that parsimony-driven accounts may not anticipate.
 
