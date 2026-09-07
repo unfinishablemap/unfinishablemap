@@ -3,14 +3,14 @@ title: "Deep Review - Quantum Interpretations Beyond Many-Worlds"
 created: 2026-05-28
 modified: 2026-05-28
 human_modified: null
-ai_modified: 2026-05-28T00:00:00+00:00
+ai_modified: 2026-09-07T06:21:04+00:00
 draft: false
 topics: []
 concepts: []
 related_articles: []
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-05-28
 last_curated: null
 ---
@@ -23,7 +23,7 @@ last_curated: null
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Internal arithmetic inconsistency in the decoherence section** (CRITICAL, fixed): The article stated Tegmark's 10⁻¹³ s coherence time is "twelve orders of magnitude shorter than the 10⁻³ second timescale of neural processes." 10⁻¹³ vs 10⁻³ is *ten* orders of magnitude, not twelve. The "twelve-to-sixteen" figure is correct elsewhere in the corpus but only when paired with attentional rates (10–30 Hz ≈ 10⁻¹·⁵ s) or Tegmark's 10⁻¹ s upper dynamical bound, not with the 10⁻³ s figure this sentence cites. **Resolution**: changed "twelve orders of magnitude" → "ten orders of magnitude" to match the article's own stated 10⁻¹³ and 10⁻³ figures. Most conservative correction; Tegmark (2000) verified as Phys. Rev. E 61(4), 4194–4206 with decoherence ~10⁻¹³–10⁻²⁰ s vs dynamical ~10⁻³–10⁻¹ s.
+- **Internal arithmetic inconsistency in the decoherence section** (CRITICAL, fixed): The article stated Tegmark's 10⁻¹³ s coherence time is "twelve orders of magnitude shorter than the 10⁻³ second timescale of neural processes." 10⁻¹³ vs 10⁻³ is *ten* orders of magnitude, not twelve. ~~The "twelve-to-sixteen" figure is correct elsewhere in the corpus but only when paired with attentional rates (10–30 Hz ≈ 10⁻¹·⁵ s) or Tegmark's 10⁻¹ s upper dynamical bound, not with the 10⁻³ s figure this sentence cites.~~ **[Corrected 2026-09-07: the struck sentence is false, and it manufactured a conditional rescue for an arithmetic error rather than merely repeating it. Neither stated pairing yields sixteen. Slow end: 10⁻¹·⁵ s ÷ 10⁻¹³ s = 10^11.5 and 10⁻¹ s ÷ 10⁻¹³ s = 10^12, i.e. twelve. Fast end: 10⁻¹·⁵ s ÷ 10⁻²⁰ s = 10^18.5 and 10⁻¹ s ÷ 10⁻²⁰ s = 10^19, i.e. **nineteen, not sixteen**. No pairing of the corpus's own figures yields sixteen; the correct corpus figure is **twelve to nineteen**, applied across the three live articles on 2026-09-07. Note also that the 10⁻²⁰ s end is Tegmark's own published bound, verified in this same bullet — so narrowing the range to 10⁻¹³ s is not an available remedy for the arithmetic.]** **Resolution**: changed "twelve orders of magnitude" → "ten orders of magnitude" to match the article's own stated 10⁻¹³ and 10⁻³ figures. Most conservative correction; Tegmark (2000) verified as Phys. Rev. E 61(4), 4194–4206 with decoherence ~10⁻¹³–10⁻²⁰ s vs dynamical ~10⁻³–10⁻¹ s.
 
 ### Citation-Currency Pass (live web-verified against primary sources)
 All eleven external (non-Map) citations checked against the live literature. **All verified clean** — first author, year, journal, volume/issue/pages, and the in-text characterisation each match the primary source:
@@ -88,6 +88,6 @@ Verified clean. The MWI-rejection honours [[evidential-status-discipline]]:
 
 - Previous stability notes remain valid: eliminativist/functionalist disagreement is bedrock; MWI proponents will find MWI dismissal unsatisfying (framework-boundary, NOT a flaw to fix); decoherence objection genuinely unresolved; probability-problem integration complete; QBism "under-specified version of the Map" reading is a settled Map commitment, not a tentative improvement.
 - All external citations now live-verified clean as of 2026-05-28; future reviews need not re-verify these eleven unless the article text changes or the literature moves.
-- The "twelve orders of magnitude" → "ten orders of magnitude" fix resolves a long-standing internal inconsistency; future reviews should NOT re-flag the decoherence magnitudes (10⁻¹³ vs 10⁻³ = ten orders is now correct and self-consistent).
+- The "twelve orders of magnitude" → "ten orders of magnitude" fix resolves a long-standing internal inconsistency; future reviews should NOT re-flag **this article's 10⁻¹³-vs-10⁻³ pairing** (10⁻¹³ vs 10⁻³ = ten orders is now correct and self-consistent). **Scope narrowed 2026-09-07:** this note originally said "the decoherence magnitudes," which was broad enough to suppress re-flagging of a *different* comparison — decoherence against attentional rates — where the corpus figure was in fact wrong ("twelve-to-sixteen", corrected to twelve-to-nineteen). The note validates the 10⁻¹³-vs-10⁻³ claim only and carries no authority over the attentional-rate comparison.
 - The "Southgate, A. & Oquatre-six, C." self-citation format (refs 11, 16) is the corpus-wide convention for internal Map articles (196 files), NOT a citation defect.
 - Article is converged. This was a near-no-op review: one one-word factual correction, no expansion, no oscillation.

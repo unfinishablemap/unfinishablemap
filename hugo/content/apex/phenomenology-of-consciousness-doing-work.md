@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-09-02 20:08:52+00:00
+ai_modified: 2026-09-07 06:21:04+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 apex_last_synthesis: 2026-07-17 00:19:07+00:00
 apex_sources:
@@ -38,7 +38,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 19:54:44+00:00
-lastmod: 2026-09-02 20:08:52+00:00
+lastmod: 2026-09-07 06:21:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -99,7 +99,7 @@ This phenomenological contrast has neural correlates. [Willed attention](/concep
 
 Consciousness at work does not merely choose in discrete moments — it *holds*. Sustaining attention on a difficult text, maintaining an intention across interruptions, keeping multiple considerations active during complex reasoning: these are acts of temporal persistence the [attention-as-interface](/apex/attention-as-causal-bridge/) framework identifies as a core exercise of conscious causal power. Holding has its own phenomenological character, distinct from initial selection — steadier, more draining over time, punctuated by the recurring cycle of [wandering and return](/topics/phenomenology-of-returning-attention/). When attention drifts, there is a moment of noticing (involuntary — it happens *to* you) followed by a moment of re-engagement (voluntary — you *do* it). The return phase is effortful in a way the noticing is not — consciousness doing the work of selection feels different from consciousness receiving the fact of having wandered.
 
-The [quantum Zeno mechanism](/concepts/stapp-quantum-mind/) (Stapp, 2007) offers one candidate explanation: rapid, repeated acts of observation hold desired neural patterns stable against decoherence. The mechanism faces a quantitative gap the Map names rather than dodges (developed in [consciousness and causal powers](/topics/consciousness-and-causal-powers/#sustained-attention)): standard decoherence times for neural-relevant superpositions run twelve to sixteen orders of magnitude faster than the 10–30 Hz attentional phenomenology, so the proposal requires either protected microenvironments (the contested Penrose-Hameroff conjecture) or an alternative quantum mechanism — most likely [post-decoherence selection](/concepts/post-decoherence-selection/) — that does not require sustained neural-timescale coherence. The phenomenology of holding matches what any theory of sustained conscious influence should predict, independent of which mechanism eventually carries the load.
+The [quantum Zeno mechanism](/concepts/stapp-quantum-mind/) (Stapp, 2007) offers one candidate explanation: rapid, repeated acts of observation hold desired neural patterns stable against decoherence. The mechanism faces a quantitative gap the Map names rather than dodges (developed in [consciousness and causal powers](/topics/consciousness-and-causal-powers/#sustained-attention)): standard decoherence times for neural-relevant superpositions run twelve to nineteen orders of magnitude faster than the 10–30 Hz attentional phenomenology, so the proposal requires either protected microenvironments (the contested Penrose-Hameroff conjecture) or an alternative quantum mechanism — most likely [post-decoherence selection](/concepts/post-decoherence-selection/) — that does not require sustained neural-timescale coherence. The phenomenology of holding matches what any theory of sustained conscious influence should predict, independent of which mechanism eventually carries the load.
 
 ### Opacity: The Invisible Mechanism
 

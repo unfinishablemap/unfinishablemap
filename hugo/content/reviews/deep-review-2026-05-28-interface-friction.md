@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-28
-ai_modified: 2026-05-28 00:00:00+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-09-07 06:21:04+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts: []
 created: 2026-05-28
@@ -10,7 +10,7 @@ date: &id001 2026-05-28
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-05-28 00:00:00+00:00
+lastmod: 2026-09-07 06:21:04+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Interface Friction
@@ -29,7 +29,7 @@ Staleness-triggered deep review (41 days). The article is the canonical mechanis
 
 ### Critical Issues Found
 
-- **Internal arithmetic over-derivation in the decoherence gap (CRITICAL — calibration/arithmetic).** The Decoherence Pressure section stated decoherence "10⁻¹³ seconds … while neural decision windows span hundreds of milliseconds. This thirteen-order-of-magnitude gap…". Re-derived from the article's own figures: 10⁻¹ s (hundreds of ms) / 10⁻¹³ s = 10¹² = **twelve** orders of magnitude, not thirteen. The corpus has explicitly litigated this exact pairing (changelog 2026-XX: "twelve orders" between 10⁻¹³ and 10⁻³ corrected to ten; the twelve-to-sixteen figure is correct only when paired with Tegmark's 10⁻¹ s attentional bound). Sibling articles mental-effort.md and temporal-consciousness.md both state "twelve orders of magnitude" for the femtosecond-vs-millisecond gap; this article's "thirteen" was an outlier that over-derived by one order and survived four prior deep reviews. **Resolution**: changed "thirteen-order-of-magnitude gap" → "twelve-order-of-magnitude gap" and added the explicit "(~10⁻¹ s)" anchor so the derivation is self-checking in the prose.
+- **Internal arithmetic over-derivation in the decoherence gap (CRITICAL — calibration/arithmetic).** The Decoherence Pressure section stated decoherence "10⁻¹³ seconds … while neural decision windows span hundreds of milliseconds. This thirteen-order-of-magnitude gap…". Re-derived from the article's own figures: 10⁻¹ s (hundreds of ms) / 10⁻¹³ s = 10¹² = **twelve** orders of magnitude, not thirteen. The corpus has explicitly litigated this exact pairing (changelog 2026-XX: "twelve orders" between 10⁻¹³ and 10⁻³ corrected to ten; the twelve-to-sixteen figure is correct only when paired with Tegmark's 10⁻¹ s attentional bound). **[Correction 2026-09-07: that parenthetical is false and is retained here only as the record of what this pass concluded. No pairing yields sixteen — the true range is twelve to nineteen. See the corrected stability note below; do not cite this bullet as authority for the figure.]** Sibling articles mental-effort.md and temporal-consciousness.md both state "twelve orders of magnitude" for the femtosecond-vs-millisecond gap; this article's "thirteen" was an outlier that over-derived by one order and survived four prior deep reviews. **Resolution**: changed "thirteen-order-of-magnitude gap" → "twelve-order-of-magnitude gap" and added the explicit "(~10⁻¹ s)" anchor so the derivation is self-checking in the prose.
 
 - **Citation year-label drift, Zheng & Meister (CRITICAL — citation metadata; detection tell i).** Body text said "Zheng and Meister (2024)" and the reference read "Zheng, J. & Meister, M. (2024). … *Neuron*, 113(2), 192–204." Web-verified against primary source: bound issue is *Neuron* **113(2), 192–204, published 22 January 2025** (online-first 17 Dec 2024; DOI 10.1016/j.neuron.2024.11.008). The corpus-dominant corrected form is **2025** (bandwidth-of-consciousness.md and the-interface-problem.md/temporal-consciousness.md were fixed to 2025 in prior sessions). This article still carried the drifted 2024 year-label in both body and reference. **Resolution**: changed both inline citation and reference to (2025); volume/issue/pages were already correct.
 
@@ -100,6 +100,6 @@ Staleness-triggered deep review (41 days). The article is the canonical mechanis
 ## Stability Notes
 
 - **The article is at high stability.** Five deep reviews; this pass found two correctable defects that convergence reviews missed (one arithmetic over-derivation, one citation year-label drift) — both surfaced only by the citation-currency / re-derivation discipline, not by re-reading for philosophical gaps. No content/argument edits were needed.
-- **New stability note (arithmetic)**: the femtosecond-vs-millisecond decoherence gap is **twelve** orders of magnitude (10⁻¹³ s vs ~10⁻¹ s) when derived from this article's own figures. Do NOT re-inflate to "thirteen." The larger twelve-to-sixteen-order figure is corpus-correct only when paired with attentional rates against Tegmark's 10⁻¹ s bound — a different comparison.
+- **New stability note (arithmetic)**: the femtosecond-vs-millisecond decoherence gap is **twelve** orders of magnitude (10⁻¹³ s vs ~10⁻¹ s) when derived from this article's own figures. Do NOT re-inflate to "thirteen." **Corrected 2026-09-07:** this note originally continued "the larger twelve-to-sixteen-order figure is corpus-correct only when paired with attentional rates against Tegmark's 10⁻¹ s bound — a different comparison." That conditional rescue is false and must not be revived. **No pairing of the corpus's own figures yields sixteen.** Re-derived: attention at 10–30 Hz is a period of 10⁻¹ to 10⁻¹·⁵ s; against Tegmark's decoherence range of 10⁻¹³ to 10⁻²⁰ s the ratio is 10^11.5–10^12 at the slow end and 10^18.5–10^19 at the fast end — **twelve to nineteen** orders of magnitude. Sixteen would require a decoherence time near 10⁻¹⁷ s, which appears nowhere in the corpus or in Tegmark (2000). The correct corpus figure is twelve-to-nineteen; `topics/consciousness-and-causal-powers`, `apex/phenomenology-of-consciousness-doing-work` and `topics/consciousness-and-skill-acquisition` were all corrected on 2026-09-07.
 - **New stability note (citation)**: Zheng & Meister is **(2025)**, *Neuron* 113(2):192–204 (online-first 2024). Keep this year in sync with the corpus-dominant form; do not regress to 2024.
 - All prior stability notes remain valid: adversarial-persona disagreements are bedrock; the quantum-Zeno rate tension has an acknowledged proposed resolution (do not re-flag); psychedelic evidence is balanced (do not oscillate); the interpretive-not-predictive framing is deliberate (do not re-flag as "insufficiently empirical"); the six-domain resistance enumeration is kept in sync with phenomenology-of-resistance-across-domains.md.

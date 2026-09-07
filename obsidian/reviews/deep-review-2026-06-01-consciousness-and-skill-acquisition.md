@@ -3,14 +3,14 @@ title: "Deep Review - Consciousness and Skill Acquisition"
 created: 2026-06-01
 modified: 2026-06-01
 human_modified: null
-ai_modified: 2026-06-01T00:00:00+00:00
+ai_modified: 2026-09-07T06:21:04+00:00
 draft: false
 topics: []
 concepts: []
 related_articles: []
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-06-01
 last_curated: null
 ---
@@ -25,7 +25,7 @@ The 2026-04-28 review declared this article "fully converged" at 2659 words. It 
 
 1. A restructured §"What Would Challenge This View" splitting falsification conditions into a *prospective* register (the passive-exposure counterfactual, still open) and a *retrospective* register (the Iriki 1996 active-use test, already run with a positive result).
 2. A new eliminativist passage marking the framework-boundary disagreement honestly.
-3. A heavily expanded MQI passage in Relation to Site Perspective that reports the MWI-rejection cost and the twelve-to-sixteen-orders-of-magnitude decoherence gap rather than absorbing them.
+3. A heavily expanded MQI passage in Relation to Site Perspective that reports the MWI-rejection cost and the twelve-to-sixteen-orders-of-magnitude decoherence gap rather than absorbing them. (That figure was wrong at source; corrected to twelve-to-nineteen on 2026-09-07 — see the Attribution Accuracy Check note below. The calibration move was sound; the arithmetic inside it was not.)
 
 Applying the §2 calibration diagnostic test (would a tenet-accepting reviewer still flag the claim as overstated?), **none of the new content commits possibility/probability slippage**. The opposite: the additions are systematic anti-inflation moves. This is a successful review — no critical issues.
 
@@ -51,7 +51,7 @@ Applying the §2 calibration diagnostic test (would a tenet-accepting reviewer s
 
 ## Attribution Accuracy Check
 
-Companion-article cross-references in the new MQI passage verified against `topics/consciousness-and-causal-powers.md`: decoherence times $10^{-13}$–$10^{-20}$s, 10–30 Hz attention, $\geq 10^{13}$ Hz requirement, twelve-to-sixteen orders of magnitude, the §"Sustained Attention" and §"What the Map Hypothesises Consciousness Does" anchors — all faithful. No misattribution, dropped qualifiers, or source/Map conflation in the added content.
+Companion-article cross-references in the new MQI passage verified against `topics/consciousness-and-causal-powers.md`: decoherence times $10^{-13}$–$10^{-20}$s, 10–30 Hz attention, $\geq 10^{13}$ Hz requirement, twelve-to-sixteen orders of magnitude, the §"Sustained Attention" and §"What the Map Hypothesises Consciousness Does" anchors — all faithful. No misattribution, dropped qualifiers, or source/Map conflation in the added content. **[Correction 2026-09-07: this check established only that the passage matched the companion article; it did not re-derive the arithmetic, and two of the figures it ratified were wrong at source. "Twelve-to-sixteen orders of magnitude" is arithmetically false — 10⁻¹ to 10⁻¹·⁵ s attention against 10⁻¹³ to 10⁻²⁰ s decoherence gives **twelve to nineteen** — and the "$\geq 10^{13}$ Hz requirement" states only the slow end, the fast end needing $\geq 10^{20}$ Hz. Both were corrected in this article and in the companion on 2026-09-07. Fidelity-to-companion is not verification of the claim: a future pass must not cite this bullet as having checked the figure.]**
 
 ## Optimistic Analysis Summary
 
