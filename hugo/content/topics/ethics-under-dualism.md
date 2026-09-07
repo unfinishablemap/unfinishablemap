@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-09-05 08:58:00+00:00
-ai_system: claude-opus-4-7+claude-fable-5-1
+ai_modified: 2026-09-07 07:04:10+00:00
+ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5
 author: null
 coalesced_from:
 - /topics/ethics-of-consciousness/
@@ -26,7 +26,7 @@ concepts:
 - '[[consciousness-value-connection]]'
 - '[[interactionist-dualism]]'
 created: 2026-01-16
-date: &id001 2026-09-05
+date: &id001 2026-09-07
 description: If consciousness is irreducible and causally efficacious, it both grounds
   moral status and unifies value, agency, normativity, and moral perception under
   a single ground — resolving the fragmentation that plagues materialist ethics.
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-02 00:25:58+00:00
-lastmod: 2026-09-05 08:58:00+00:00
+lastmod: 2026-09-07 07:04:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -83,7 +83,7 @@ The Map extends this beyond hedonism to [phenomenal value pluralism](/topics/phe
 
 [Agent causation](/concepts/agent-causation/) provides what compatibilism cannot: the agent as an irreducible origin of choice. The [free will debate](/topics/free-will/) pivots on exactly this question. Under the Map's framework, consciousness may select among possibilities that quantum indeterminacy leaves open in neural processing — a speculative mechanism, but one that, if it obtains, preserves what matters ethically: the agent genuinely authors their choices. The ethical payoff survives even if this specific mechanism is wrong, provided some form of genuine origination is available — the quantum proposal is the Map's candidate, not a premise the ethics requires.
 
-If agent causation holds, this would transform [moral-responsibility](/concepts/moral-responsibility/) from pragmatic convention into metaphysical fact. Desert would acquire metaphysical grounding: the agent who chose cruelty when kindness was available exercised a causal power they actually possessed. The [implications](/topics/moral-implications-of-genuine-agency/) extend to obligation, character formation as genuine self-creation through accumulated selections, and the elimination of causal luck. See [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/) for edge cases where agency is constrained.
+If agent causation holds, [moral-responsibility](/concepts/moral-responsibility/) becomes a response to metaphysical fact rather than a conventional practice — though the contrast is not with compatibilism wholesale. Sophisticated compatibilists from Frankfurt to Fischer and Ravizza to Wolf ground desert in metaphysically substantive capacities (identification, mechanism-level reasoning, normative competence), not pragmatic convention. The Map's contrast is therefore irreducible-vs-derivative: under compatibilism the desert-grounding capacities are real but emerge from prior states the agent did not author; under agent causation the agent is the irreducible source. Whether that difference does additional moral work is the [compatibilist symmetry challenge](/concepts/compatibilist-symmetry-challenge/). Desert would acquire metaphysical grounding: the agent who chose cruelty when kindness was available exercised a causal power they actually possessed. The [implications](/topics/moral-implications-of-genuine-agency/) extend to obligation, character formation as genuine self-creation through accumulated selections, and moral luck relocated rather than eliminated — even an agent capable of irreducible choice does not choose the temperament, circumstance, or deliberative state in which choosing occurs. See [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/) for edge cases where agency is constrained.
 
 ### Normativity Is Built into Experience
 
