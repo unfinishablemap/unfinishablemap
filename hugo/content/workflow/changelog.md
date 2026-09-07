@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-07T18:23:29+00:00'
+ai_modified: '2026-09-07T18:48:43+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-07'
-lastmod: 2026-09-07 18:23:29+00:00
+lastmod: 2026-09-07 18:48:43+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-07T18:48:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [judging-the-map-as-science](/apex/judging-the-map-as-science/)
+- **Task**: queue `todo.md` L2118 (P2), from `reviews/pessimistic-2026-09-07-judging-the-map-as-science.md` Issues 4 and 6. Last of four sibling tasks on this file.
+- **Original score**: not scored — SKILL.md step 3 prescribes `scripts/curate.py review`, which does not exist in this repo; skipped.
+- **Word count**: `analyze_length` **4699 -> 4799** (apex soft 4000 / hard 5000 / critical 6500; `soft_warning` unchanged). **201 words below the hard gate.** Consumed 100 of the 301 available. Four-sibling total: 79 + 29 + 66 + 100 = **274**; the task note's pre-run "475 words across all four" figure was stale on arrival, as it had been for siblings 2 and 3.
+- **Changes**:
+  - **Issue 4 — the one comparative superlative the honesty ledger never classified (L63).** The realism paragraph asserted that acquaintance-grounded warrant "is if anything stronger than the case for electrons", which flattens two dimensions and picks the Map-favouring one: acquaintance is stronger on certainty-for-the-subject and weaker on public corrigibility, and the electron case's entire strength *is* its error-checkability. Confirmed the ledger omission that makes this a finding rather than a disagreement — the 244-word Evidence and Dependency block classifies demarcation/underdetermination, disunity, the measurement limit, the crisis diagnosis, the register-inherited lines, the reflexive obligation and the seam reading, and contains neither "electron" nor "realis". Rewrote to keep the asymmetry and drop the comparative: "is differently grounded rather than better grounded, certain for the subject and lacking the public error-correction that makes the electron case robust". +14 words.
+  - **Issue 4 (ledger) — classified the realism line.** Added one sentence to Evidence and Dependency: "The realism extension differs in kind rather than degree: acquaintance-grounded warrant is certain for its subject and not publicly checkable, so it does not outrank the electron case." +27 words. The ledger now classifies every main line including this one.
+  - **Issue 6 — [P-M2](/positions/methodology-and-calibration/#p-m2)'s precondition installed at both teaching loci (L109, L127).** `positions/methodology-and-calibration` [P-M2](/positions/methodology-and-calibration/#p-m2) registered a precondition on 2026-09-02: the convergence discount governs only cases where two lines reach the *same* proposition, "independence being the open question", and where it fails the correct register is "*not convergent* rather than convergent-but-discounted — the stronger verdict". Both L109 (reflexive turn) and L127 (decisions section) taught the discount without it. L109 now closes: "The discount governs only where two lines reach the *same* proposition; where they do not, the register is *not convergent* rather than discounted — the stronger verdict." (+27). L127 now opens its closing instruction with "Ask first whether the lines reach the same proposition at all; where they do not, the verdict is *not convergent* and no discount applies." (+23).
+  - **Issue 6 — [P-M2](/positions/methodology-and-calibration/#p-m2)'s calibration axis named at L49 (under-statement running against the Map).** The lead read "[P-M1](/positions/methodology-and-calibration/#p-m1), [P-M2](/positions/methodology-and-calibration/#p-m2), [P-M4](/positions/methodology-and-calibration/#p-m4), and [P-M5](/positions/methodology-and-calibration/#p-m5), each held at high credence as a normative commitment". Checked all four calibration lines in the register: [P-M1](/positions/methodology-and-calibration/#p-m1), [P-M4](/positions/methodology-and-calibration/#p-m4) and [P-M5](/positions/methodology-and-calibration/#p-m5) carry "external-evidence grade n/a (normative)"; [P-M2](/positions/methodology-and-calibration/#p-m2) alone carries "external-evidence grade B (rests on the established Reichenbach–Salmon–Sober common-cause principle)". "Purely normative" therefore under-states the one cited position with external anchoring. Corrected to "each held at high credence, three as normative commitments and [P-M2](/positions/methodology-and-calibration/#p-m2) also on external-evidence grade B". +7 words. The register's multi-axis schema exists so a citing article names the axis it means.
+- **Grep note (false negatives that could have looked like absences)**: the register writes `Reichenbach–Salmon–Sober` with en-dashes, so a hyphenated grep returns zero; and `concepts/philosophy-of-science-under-dualism` L82 italicises `*stronger*`, so a literal "actually stronger than" grep returns zero. Both strings are live.
+- **Out of scope, deliberately untouched**: `concepts/philosophy-of-science-under-dualism` L82 still asserts the unqualified "realist case for phenomenal properties is actually *stronger* than the realist case for electrons" — the same defect at concept tier, unfixed since 2026-08-16 and not caught by that article's 2026-08-21 deep review. Recorded here rather than edited; the queue task owns only the apex file. Also untouched: L83's values-in-science paragraph, which states the justificatory reading correctly and never makes the causal claim the register forbids; sibling 1's L81/L85/L87/L123 qualified conduct verdict and its mutually-consistent decisions restatement; sibling 2's L93 unit failure re-grounded on the field's holism; sibling 3's L40/L49 inheritance framing (L49 edited only in the credence clause). Diff confirms exactly five changed lines: 49, 63, 109, 119, 127.
+- **Credence bands re-checked, not disturbed**: [P-M2](/positions/methodology-and-calibration/#p-m2) high, [P-M4](/positions/methodology-and-calibration/#p-m4) high credence and high centrality, [P-M5](/positions/methodology-and-calibration/#p-m5) high with registered self-criticism — all match the current register.
+- **Published**: yes
 
 ## 2026-09-07T18:23:29+00:00 - deep-review
 - **Status**: Success
