@@ -4,7 +4,7 @@ description: "Psilocybin's cortex-wide desynchronization suits filter theory and
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-09-07T12:17:22+00:00
+ai_modified: 2026-09-07T13:52:34+00:00
 draft: false
 anchoring_audit_exempt: true
 topics:
@@ -62,7 +62,7 @@ Nothing here is evidence about the outbound leg. Psychedelics are the cluster's 
 
 Carhart-Harris et al. (2012) showed *decreased* DMN activity under psilocybin—the network associated with self-referential thinking—while Tagliazucchi et al. (2016) found between-network functional connectivity *increases* under LSD. Siegel et al. (2024), a within-person psilocybin study of seven participants and, like most psychedelic trials, imperfectly blinded (Muthukumaraswamy et al., 2021), reframe both findings: psilocybin produces *cortex-wide desynchronization across spatial scales*, dissolving distinctions *between* networks rather than suppressing the DMN specifically, with reduced anterior-hippocampus–DMN connectivity persisting around three weeks. Irrmischer et al. (2026) add a third drug: under DMT, self-dissolution intensity tracks shifts in oscillatory criticality *away* from the critical point. On this small, cross-drug base the picture is moving from "the DMN goes down" toward "network identity itself dissolves"—a shift of emphasis rather than a settled result.
 
-A materialist can partly accommodate this: dissolving network identity disinhibits cross-network communication, so the brain does *different* things rather than strictly *less*. The deeper puzzle for production models lies in the *structure* of what appears under desynchronization: the mystical-type cluster's cross-cultural reliability, selective access to suppressed content, and the noetic quality of insights subjects act on. Salience-amplification accounts predict intensity; they do not obviously predict why intensity should organise itself into these specific phenomenological structures.
+A materialist can partly accommodate this: dissolving network identity disinhibits cross-network communication, so the brain does *different* things rather than strictly *less*. The metabolic record backs them: the state is *expensive* on FDG-PET, and a valve doing less should cost less ([[filter-theory#The Psychedelic Paradox|the caveat in full]]). The deeper puzzle for production models lies in the *structure* of what appears under desynchronization: the mystical-type cluster's cross-cultural reliability, selective access to suppressed content, and the noetic quality of insights subjects act on. Salience-amplification accounts predict intensity; they do not obviously predict why intensity should organise itself into these specific phenomenological structures.
 
 The 2020–2025 literature has also shifted explanatory weight upstream of the DMN. Doss et al. (2022), reviewing candidate mechanisms, set out a cortico-claustro-cortical model on which the claustrum is *a* proximal trigger for cortical desynchronization, with DMN disruption downstream. Mason et al. (2020) report a regional dissociation: higher medial-prefrontal glutamate was associated with *negatively* experienced ego dissolution, lower hippocampal glutamate with *positively* experienced dissolution. On this picture the constraint of conscious bandwidth looks distributed across claustrum, thalamic gating, predictive priors, and network-identity architecture rather than localised in any hub.
 
@@ -98,7 +98,7 @@ Neither remaining divergence is a knockdown experiment. The accounts make differ
 
 ## Ego Dissolution and the Filtering Self
 
-Ego dissolution—losing one's sense of being a separate self—is among the most philosophically significant psychedelic phenomena. Lebedev et al. (2015) found that it correlates with decreased medial-temporal-lobe-to-cortical connectivity, disintegration of the *salience* network, and reduced interhemispheric communication, the DMN not among them. The 2020s correlates described above—global connectivity under LSD, criticality shifts under DMT, the regional glutamate dissociation under psilocybin—broaden the picture the same way: the narrative self-model is among the structures unwound, but not the unique or always-primary neural signature.
+Ego dissolution—losing one's sense of being a separate self—is among the most philosophically significant psychedelic phenomena. Lebedev et al. (2015) found that it correlates with decreased medial-temporal-lobe-to-cortical connectivity, disintegration of the *salience* network, and reduced interhemispheric communication, the DMN not among them. The 2020s correlates described above broaden the picture the same way: the narrative self-model is among the structures unwound, but not the unique or always-primary neural signature.
 
 The distinction between the [[self-and-self-consciousness|minimal self]]—the pre-reflective "for-me-ness" present whenever consciousness exists—and the *narrative self* constructed through autobiographical interpretation is critical. Psychedelics dismantle the narrative self while, on the Map's reading, the minimal self persists. Metzinger (2003) describes the self-model as "transparent": one does not experience it as a model but as simply being a self. Ego dissolution makes the model visible by dismantling it.
 
@@ -148,7 +148,7 @@ Psychedelics illuminate several of the Map's [[tenets]]:
 
 **Bidirectional Interaction.** The psychedelic evidence gives this tenet nothing, and the reason is worth stating. Set and setting do profoundly influence outcomes—the same molecule produces radically different experiences depending on intention and preparation—but that variance is inbound-leg data. Intention, expectation, and setting are among the priors that shape what a loosened filter admits, and REBUS predicts the sensitivity directly: relax high-level priors and outcomes become *more* dependent on context, not less. Reading the variance as consciousness acting on the brain would infer an outbound claim from inbound evidence, the error the [[filter-vs-interface-distinction|filter-vs-interface distinction]] exists to catch. Tenet 3's support comes from elsewhere—[[agency-void|the agency void]], [[self-stultification]], and the tenets page's own record that downward causation is shown [[tenets#^tenet-3-standing|available rather than actual]]—and from nothing on this page.
 
-**Occam's Razor Has Limits.** The materialist assumption that reduced brain activity must reduce consciousness seems parsimonious—until the data contradicts it. Psychedelics put the "simpler" explanation (less brain means less mind) under pressure, though, as the symmetry section concedes, the data does not by itself force the filter reading.
+**Occam's Razor Has Limits.** The materialist assumption that reduced brain activity must reduce consciousness seems parsimonious—until the data contradicts it. Psychedelics put that "simpler" explanation under pressure, though, as the symmetry section concedes, the data does not by itself force the filter reading.
 
 ## Speculative Appendix: The Quantum Dimension
 

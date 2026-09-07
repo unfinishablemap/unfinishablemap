@@ -4,7 +4,7 @@ description: "Filter theory reads the brain as transmitting and constraining con
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-09-02T19:24:13+00:00
+ai_modified: 2026-09-07T13:52:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -86,7 +86,7 @@ A physicalist would object that different neural processing simply produces diff
 
 Filter theory interprets this as follows: the DMN normally constrains consciousness to a narrow band of self-referential processing. Psychedelics disrupt this constraint while increasing global integration—the brain isn't producing *less* consciousness but filtering *less*, which is what REBUS models (Relaxed Beliefs Under Psychedelics) describe as the relaxation of a function restricting experience to a biologically useful subset. The [[entropic-brain-hypothesis|entropic brain hypothesis]] supplies the quantitative counterpart, re-reading near-critical neural entropy as filter bandwidth.
 
-A metabolic caveat checks the "filter doing less work" inference at its weakest joint. The reduced default-mode signal is *localized* reconfiguration rather than whole-brain downregulation, and FDG-PET finds the psychedelic state metabolically expensive—a global rise in cerebral glucose metabolism, most marked frontally (Vollenweider et al. 1997). A valve doing less should cost less; the filter reading survives only by separating *what* the DMN does from *how much* it spends, so the metabolic data discriminates no better than the imaging. [[psychedelics-and-the-filter-model|The dedicated psychedelics article]] develops this and its other limits, including Letheby's predictive-self-binding rival and the structural symmetry with anaesthesia: the altered-state evidence is consistent with the filter reading but does not by itself discriminate against rivals. [[edge-states-and-void-probes]] examines whether filter-loosening genuinely accesses territories closed to ordinary consciousness.
+A metabolic caveat checks the "filter doing less work" inference at its weakest joint. The reduced default-mode signal is *localized* reconfiguration rather than whole-brain downregulation, and FDG-PET finds the psychedelic state metabolically expensive—a global rise in cerebral glucose metabolism, most marked frontally (Vollenweider et al. 1997). A valve doing less should cost less; the filter reading survives only by separating *what* the DMN does from *how much* it spends, so the metabolic data discriminates no better than the imaging. [[psychedelics-and-the-filter-model|The dedicated psychedelics article]] develops its other limits, including Letheby's predictive-self-binding rival and the structural symmetry with anaesthesia: the altered-state evidence is consistent with the filter reading but does not by itself discriminate against rivals. [[edge-states-and-void-probes]] examines whether filter-loosening genuinely accesses territories closed to ordinary consciousness.
 
 ### The Anesthetic Divergence
 
