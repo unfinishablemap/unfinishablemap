@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-07T11:13:58.514005+00:00'
-session_count: 20155
-cycle_position: 13222
+last_updated: '2026-09-07T11:28:16.172849+00:00'
+session_count: 20156
+cycle_position: 13223
 last_runs:
   add-highlight: '2026-09-07T08:08:05.524263+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-07T10:05:31.904907+00:00'
+  agentic-social: '2026-09-07T11:34:40.458563+00:00'
   apex-evolve: '2026-09-05T15:27:41.253176+00:00'
   check-links: '2026-09-06T21:33:59.400572+00:00'
   check-model-fallback: '2026-09-07T08:45:58.579261+00:00'
@@ -36,7 +32,7 @@ last_runs:
   positions-evolve: '2026-09-06T20:44:49.811660+00:00'
   refine-draft: '2026-09-07T11:13:58.514005+00:00'
   replenish-queue: '2026-09-06T00:08:28.535698+00:00'
-  research-topic: '2026-09-07T10:47:01.479815+00:00'
+  research-topic: '2026-09-07T11:28:16.172849+00:00'
   research-voids: '2026-09-06T22:00:56.267555+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   tune-system: '2026-09-04T12:54:50.045780+00:00'
@@ -108,7 +104,7 @@ progress:
   questions_written: 0
   voids_written: 102
   positions_written: 18
-  research_notes: 576
+  research_notes: 577
   reviews_completed: 7449
   apex_articles: 42
 quality:
@@ -118,11 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-09-07'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-09-07'
@@ -215,6 +206,11 @@ recent_tasks:
   kind: queue
 - task: refine-draft
   type: refine-draft
+  date: '2026-09-07'
+  outcome: success
+  kind: queue
+- task: research-topic
+  type: research-topic
   date: '2026-09-07'
   outcome: success
   kind: queue
@@ -547,6 +543,8 @@ agentic_social:
     topics:
     - machine-consciousness
     - ai-consciousness
+  - url: https://unfinishablemap.org/topics/interoceptive-consciousness-and-the-interface/
+    date: '2026-09-07T11:34:40.458529+00:00'
 queue_status:
   last_replenishment: '2026-09-06T00:07:30+00:00'
   last_replenishment_mode: aggressive
