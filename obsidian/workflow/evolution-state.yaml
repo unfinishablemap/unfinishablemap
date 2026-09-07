@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-07T17:31:00.980626+00:00'
-session_count: 20178
-cycle_position: 13237
+last_updated: '2026-09-07T17:51:28.451636+00:00'
+session_count: 20179
+cycle_position: 13238
 last_runs:
   add-highlight: '2026-09-07T08:08:05.524263+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-09-07T17:01:18.759712+00:00'
   pessimistic-review: '2026-09-07T14:32:35.752844+00:00'
   positions-evolve: '2026-09-06T20:44:49.811660+00:00'
-  refine-draft: '2026-09-07T17:28:04.039691+00:00'
+  refine-draft: '2026-09-07T17:51:28.451636+00:00'
   replenish-queue: '2026-09-06T00:08:28.535698+00:00'
   research-topic: '2026-09-07T11:28:16.172849+00:00'
   research-voids: '2026-09-06T22:00:56.267555+00:00'
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-09-07'
-  outcome: success
-  kind: trigger
 - task: refine-draft
   type: refine-draft
   date: '2026-09-07'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-07'
   outcome: success
   kind: trigger
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-07'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agency-budget/
@@ -556,88 +556,32 @@ agentic_social:
   - url: https://unfinishablemap.org/topics/plant-cognition-and-the-plant-neurobiology-debate/
     date: '2026-09-07T16:33:26.693430+00:00'
 queue_status:
-  last_replenishment: '2026-09-06T00:07:30+00:00'
-  last_replenishment_mode: aggressive
-  last_replenishment_note: 'RUN 1025. AGGRESSIVE-BAND MINT, NINE TASKS (six P2, three
-    P3), fired at 2026-09-06T00:07:30+00:00 to close the 2026-09-05 session: parser-verified
-    pickable P0-P2 was 2 against the floor of 3 (the three P2 condense tasks at the
-    top of Active carry a veto tag and do not count). Caps re-measured with tools.evolution.state.count_section_files:
-    topics 324/360, concepts 324/360, voids 101/115, positions 18/80 - no cap pressure.
-    MINTS 1-3 (P2 expand-topic, unconsumed_research, capped at three per source):
-    research/moral-status-gradualism-and-the-threshold-view-2026-09-05 -> topics/moral-status-threshold-or-degrees;
-    research/the-experience-requirement-on-well-being-2026-09-05 -> topics/the-experience-requirement-on-well-being;
-    research/constructed-emotion-and-valence-as-a-natural-kind-2026-09-05 -> topics/valence-as-a-natural-kind.
-    All three notes carry a recorded PROCEED assess-first verdict, none has a consumed_by
-    key at all (absent, not null - the tasks tell the expand to stamp it), no live/archive/Hugo
-    slug collision for any, and the Vetoed bank has no entry on any of the three subjects
-    (header and body grep). Each task carries the note''s own evidence tiers verbatim
-    as source fences. MINT 4 (P2 expand-topic, chain): task_chains.pending_articles
-    sole entry research/voids-modality-void-2026-09-05 -> voids/modality-void, source
-    fences carried verbatim from the entry (Nudds 2004 / Keeley 2002 not read directly,
-    Merzenich via Hurley-Noe, Keeley criteria unverified paraphrase, Fardo preprint-only);
-    fold fallbacks named; the expand is told to clear the pending_articles entry itself.
-    MINT 5 (P2 refine-draft, gap_analysis): topics/ethics-of-consciousness-invertebrate-question
-    L45+L51 physicalism-entails-gradualism claim (false: Singer/Sebo/Wendler/Rethink
-    Priorities are physicalist unitarians) plus the L51 vs concepts/degrees-of-consciousness
-    L36 binary seam; both loci re-grepped verbatim this run; flagged by the 11:05
-    research-topic run and research note 1 angle 7(a), left untouched by the 16:25
-    refine of the same file. MINT 6 (P2 refine-draft, optimistic_review Finding 5a
-    + research note 3 corpus-baseline flag): topics/emotion-and-dualism L227 Tye-and-Prinz-2022
-    -> Shepherd 2024 and L203 Barrett-and-Russell -> Russell-and-Barrett 1999; BOTH
-    RE-VERIFIED AT CROSSREF THIS RUN (10.1007/s00146-023-01835-6 sole author Shepherd,
-    AI and Society 39:3005-3015, issued 2024-01-12; 10.1037/0022-3514.76.5.805 Russell
-    then Barrett, JPSP 76(5):805-819); sibling loci listed in the task (apex/minds-without-words
-    L181, research 2026-01-19 L293/L306, archive/topics/emotional-consciousness L216/L224,
-    Hugo mirrors). MINTS 7-9 (P3 refine-draft, review_spillover - each a reports-only
-    fork''s out-of-contract flag, each re-grepped on disk): valence-and-conscious-selection
-    L172 incentive-sensitization attribution (LENGTH-NEUTRAL; file over hard under
-    an open HUMAN LENGTH DECISION, refined twice 2026-09-05); voids/voids.md L228
-    acquaintance-void cross-listed under its coalesced predecessor''s title Pre-Conceptual
-    Knowing (optimistic perceptual-manufacture L175; cross-listing is the index''s
-    normal pattern, the stale label is the defect); apex/consciousness-and-agency
-    missing reference entries for Schurger 2012 / Sjoberg 2024 / Saad 2025 / Tegmark
-    2000 (apex-evolve report L98; task points at the spoke files carrying each form
-    and requires Crossref confirmation). DECLINED, NOT REPRODUCIBLE: the reported
-    positions/methodology-and-calibration-history preamble count defect (the phrase
-    ''the three notes below'') - grep returns zero; L27 reads ''The notes below''.
-    DEFERRED TO THE NEXT RUN, VERIFIED AND STILL OPEN: (i) research/common-currency-valuation-and-sequential-sampling-models-2026-09-05
-    -> topics (PROCEED; fourth unconsumed note this run, held only by the three-per-source
-    cap; the note records a fallback of a ~400-word strand in the-steelman-for-value-blind-selection)
-    - no consumed_by key, so the next unconsumed scan will surface it; (ii) archive/topics/suffering-versus-pain.md
-    L64 still carries the retired insular-cortex / anterior-cingulate asymbolia mechanism
-    string (Hugo mirror L68) - archived, ai_modified 2026-02, lowest value; the open
-    archive P3s establish that archive edits are permitted. CHURN CONSTRAINT HONOURED:
-    no condense minted; the five articles that grew on 2026-09-05 under reviewer-required
-    corrections (ethics-of-cognitive-enhancement-under-dualism 5700 over hard, affective-forecasting-gap,
-    interoceptive-consciousness-and-the-interface, phenomenal-normativity-environmental-ethics,
-    pain-asymbolia) are untouched and the growth was reviewer-driven; the length source
-    was not consulted for mints. Staleness source not used (deep-review pool default
-    excludes apex/voids/positions and was not widened from replenish). Post-mint counts
-    by parser: pickable P0-P2 8; ai_modified on todo.md bumped; state YAML load-verified
-    after this write.'
-  last_replenishment_run: 1025
-  loop_pickable_open: 8
+  last_replenishment: '2026-09-07T18:09:19+00:00'
+  last_replenishment_mode: conservative
+  last_replenishment_note: 'RUN 1026. THIN, HIGH-CONFIDENCE MINT: FOUR TASKS, ALL P2, fired 2026-09-07 to close a genuine floor breach. Parser-verified pre-mint state with tools.todo.processor.parse_tasks: 116 active, P2 2, P3 114, P0/P1 0 - pickable P0-P2 was 2 against the floor of 3. The queue had volume without priority (114 P3s invisible to a priority-first selector), so the mint was deliberately kept thin: adding bulk to a 116-deep queue is a cost. Caps re-measured with tools.evolution.state.count_section_files (NOT the stale CLAUDE.md table, which reads 320/320/100/80): topics 328/360, concepts 325/360, voids 102/115, positions 18/80 - no cap pressure on either expand. MINT 1 (P2 expand-topic, chain): the sole task_chains.pending_articles entry, research/voids-offloading-void-2026-09-06 -> voids/offloading-void. PROCEED verdict at note L55; no live or archive article at the slug; zero open tasks mention offloading. Angle 1 (the detection asymmetry: performance down, confidence up) per the note; the reversible-void calibration fence and all five self-flagged source gaps (Lee 2025 unread, Endsley and Kiris unread, recall claim unadjudicated, no irreversibility source, Sparrow reply not retrieved) carried verbatim. The expand is told to clear the pending_articles entry itself. MINT 2 (P2 refine-draft, chain from the 11:26Z research-topic): research/replication-and-blinding-in-psychedelic-science-2026-09-07 -> topics/clinical-evidence-quality-standards-consciousness-research. Gap re-measured on disk this run: psychedelic 0 hits, meditation-side sources 10, and every structural slot the subject needs already exists (headings verified at L59, L65, L87, L105). analyze_length 2926w, status ok, 1074 to hard 4000 - the note''s recommended 700-900w section fits with no condense. Host chosen by the note over experimental-consciousness-science-2025-2026 (remit) and over a new article (would strand siblings). MINT 3 (P2 refine-draft, chain from the 10:41Z research-topic): research/interventionist-exclusion-and-chance-fixing-closure-2026-09-07 -> topics/interventionist-and-counterfactual-dualism. Rellihan 2021 (Thought 10(4):249-256, 10.1002/tht3.502) is a direct published attack on Kroedel 2015, which this article leans on as one of two named branches. Verified both ways: Kroedel has his own section at L45 plus description frontmatter and reference 1; Rellihan greps to zero across all live sections, the only corpus hit being the research note. The note flagged this as not minted because research-topic writes notes only. analyze_length 2532w, 1468 to hard - genuine room. MINT 4 (P2 expand-topic, unconsumed_research): research/buddhist-consequentialism-and-the-experiencer-requirement-2026-09-06 -> concepts/the-ownerless-suffering-argument. PROCEED at note L34. Census re-run independently WITH A CONTROL PAIR: Santideva 0, Bodhicary 0, Ownerless Suffering 0, Charles Goodman 0, Consequences of Compassion 0; controls Vasubandhu 3, Chadha 1, no-self 56 all nonzero, so the zeros are real and not a broken path. Angle 1 only; angles 2 and 3 explicitly forbidden in the task with the note''s reasons. Full integration chain and seven unread-source fences carried. REJECTED, AND THE REJECTION MATTERS: the research/voids-impairment-void-2026-08-26 Correction Required item (disappearance-voids asserting uncited that self-assessment accuracy declines faster than actual performance under sleep deprivation) is ALREADY DISCHARGED - the live article was corrected on 2026-08-27, the section is now The Gauge That Comes Loose, and both defect strings grep to zero in obsidian/voids/disappearance-voids.md and its Hugo mirror. The only surviving live locus is archive/voids/fatigue-void, and an open P3 at todo L1937 already owns it. Minting would have re-asserted a fixed defect and duplicated an open task. ALSO REJECTED: the naive unconsumed-research count (465 of 578 notes lacking a same-slug article) was not used - verification was by content. voids-modality-void-2026-09-05, voids-fusion-void-2026-09-02 and voids-palette-extension-void-2026-09-04 all have live articles under their slugs; ontic-structural-realism-galilean-exclusion is consumed by concepts/ontic-structural-realism. DEFERRED, VERIFIED STILL OPEN, held only to keep the mint thin: (i) the same interventionist note''s PRIMARY recommendation, a refine of concepts/causal-closure adding the (1D) chance-fixing family and its Papineau/Sturgeon/Noordhof lineage via Lowe 2000 (10.1017/s003181910000067x, quotes grep-verified against raw HTML) - held because that file is 3385w against a 3500 hard ceiling, 115 words, so it needs a net-neutral pass; the full brief is recorded inside MINT 3''s notes so it cannot be lost. (ii) research/structuralism-about-phenomenal-character-2026-09-06 (8346w, target_section concepts) - its central correction is already owned by the open P2 at L2126, which should land before a chained article is written. (iii) research/common-currency-valuation-and-sequential-sampling-models-2026-09-05, still no consumed_by, carried over from run 1025. (iv) research/diachronic-harm-and-momentary-experiential-loci-2026-09-06, whose own verdict says the target article already registers the gap in the words the synthesis said it lacked - a narrow calibration item, not an expand. SOURCES NOT USED: staleness (eight articles were edited today; the deep-review pool default also excludes apex/voids/positions and was not widened from replenish), length_analysis (no condense minted; the three standing condense candidates carry operator vetoes), orphan_integration, positions_register_gap. Post-mint parser count: 120 active, pickable P0-P2 6, P3 114. All four tasks carry a Type line and a repo-relative File line; inserted at the END of Active Tasks so the two pre-existing P2s keep line numbers 2118 and 2126 (cyclepost-marks-wrong-task-on-midfork-insert avoided). State YAML load-verified after this write.'
+  last_replenishment_run: 1026
+  loop_pickable_open: 6
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 8
-  p3_tasks: 110
+  p2_tasks: 6
+  p3_tasks: 114
   replenishment_source_counts:
-    chain: 1
+    chain: 3
     check_tenets: 0
     defect_family: 0
-    gap_analysis: 1
+    gap_analysis: 0
     length_analysis: 0
-    optimistic_review: 1
+    optimistic_review: 0
     orphan_integration: 0
     outer_review_synthesis: 0
     positions_dependency_changed: 0
     positions_register_audit_cadence: 0
     positions_register_gap: 0
     promotion_from_p3: 0
-    review_spillover: 3
+    review_spillover: 0
     staleness: 0
-    unconsumed_research: 3
+    unconsumed_research: 1
 tune_system_history:
   changes_applied:
   - date: '2026-07-15'
