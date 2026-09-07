@@ -338,9 +338,9 @@
   commissioned_at: '2026-09-06T02:10:51.936359+00:00'
   prompt_summary: Audit psychedelics-and-the-filter-model (recent-aged fallback)
   target_filename: outer-review-2026-09-06-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-07T00:03:21.517777+00:00'
   failure_reason: null
   prompt_text: You are an external referee auditing one article on The Unfinishable
     Map (https://unfinishablemap.org), a philosophy site defending interactionist

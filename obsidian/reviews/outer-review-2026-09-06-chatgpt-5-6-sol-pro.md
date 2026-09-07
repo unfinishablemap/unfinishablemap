@@ -1,3 +1,199 @@
+---
+title: "Outer Review - ChatGPT 5.6 Pro (2026-09-06)"
+created: 2026-09-06
+modified: 2026-09-07
+human_modified: null
+ai_modified: 2026-09-07T00:12:00+00:00
+draft: false
+description: "ChatGPT 5.6 Pro referee report on Psychedelics and the Filter Model. Three citation defects verified at publisher, including two phantom references."
+topics:
+  - "[[psychedelics-and-the-filter-model]]"
+  - "[[predictive-self-binding-and-the-naturalist-challenge]]"
+  - "[[predictive-processing-and-dualism]]"
+concepts:
+  - "[[filter-theory]]"
+  - "[[filter-vs-interface-distinction]]"
+  - "[[entropic-brain-hypothesis]]"
+  - "[[default-mode-network]]"
+related_articles:
+  - "[[project]]"
+ai_contribution: 90
+author: "Andy Southgate"
+ai_system: "chatgpt-5-6-pro"
+ai_generated_date: 2026-09-06
+last_curated: 2026-09-07
+outer_review_status: processed
+outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a9ccb95-850c-83eb-9aef-7ed12ce6742e
+outer_review_extraction_method: js-dom
+subject_type: recent
+subject_title: "Audit psychedelics-and-the-filter-model"
+subject_articles:
+  - topics/psychedelics-and-the-filter-model.md
+subject_source: fallback:recent-aged
+---
+
+**Date**: 2026-09-06
+**Reviewer**: ChatGPT 5.6 Pro
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+You are an external referee auditing one article on The Unfinishable Map (https://unfinishablemap.org), a philosophy site defending interactionist dualism with minimal quantum interaction. Focus on "Psychedelics and the Filter Model" at https://unfinishablemap.org/topics/psychedelics-and-the-filter-model/, last substantively modified 2026-08-27. Because search indexes lag by 24-48 hours, consult the site changelog at https://unfinishablemap.org/workflow/changelog/ for recent edits before judging what the article currently says. Audit the article's empirical claims (psychedelic neuroimaging, entropy, default-mode-network findings), its citations and any verbatim quotes against primary sources, and its use of the filter or reducing-valve model. Look for insufficient evidence, missed counterarguments such as predictive-processing and REBUS accounts, tenet-protective bracketing where objections are acknowledged but not answered, stale references superseded by 2020s literature, and weak integration with surrounding Map articles. End your report with a list of concrete potential improvements to specific articles and to the site's methodology.
+
+## Verification Notes
+
+The Map's own adjudication of this review, added on processing. Every claim below
+was checked at the publisher of record (Crossref, Europe PMC) or against this
+repository — never against the reviewer's inline citation chips, which are
+aggregator labels (`[Nature+1]`, `[Springer+2Springer+2]`) rather than sources.
+
+### Verified — the three citation charges all hold
+
+**1. Reference 23 is a phantom composite, and the corrected entry already exists in this repo.**
+`topics/psychedelics-and-the-filter-model.md` L203 reads "Timmermann, C. et al.
+(2024). DMT alters cortical travelling waves and alpha-band power; alpha collapse
+tracks ego dissolution intensity. *Journal of Neuroscience*." No such publication
+exists. The real paper is **Irrmischer, Aqil, Luan, Wang, Engelbregt,
+Carhart-Harris, Linkenkaer-Hansen & Timmermann (2026), "DMT-induced shifts in
+criticality correlate with self-dissolution," *J. Neurosci.* 46(2):e0344252025**
+— Timmermann is *last* author, not first. That corrected entry is already carried
+verbatim at `concepts/entropic-brain-hypothesis.md` L108, applied by the
+2026-08-12 pass which verified it at primary text (PMID 41285580, DOI
+`10.1523/JNEUROSCI.0344-25.2025`). The target article was revised **fifteen days
+later** (`ai_modified` 2026-08-27T18:21 vs 2026-08-12T12:13) and never imported
+it. Alamia and Irrmischer appear nowhere in the target (zero matches).
+
+Worse than the reviewer knew: that same 2026-08-12 pass established from the
+abstract that the paper finds DMT shifts dynamics **away** from criticality,
+"toward subcritical regimes" — the *opposite* direction from the loosening /
+widened-aperture reading the target's L62 recruits it to support.
+
+**2. The Lebedev misattribution holds, and it reverses a prior outer review.**
+Europe PMC core record for DOI `10.1002/hbm.22833` (PMID 26010878): the reported
+associations are decreased connectivity between **medial temporal lobe** and
+high-level cortical regions, "disintegration" of the **salience network**, and
+reduced **interhemispheric** communication. The DMN is not among the implicated
+systems. The article's L98 — "Lebedev et al. (2015) found that it correlates with
+reduced DMN integrity" — misattributes salience-network disintegration to the DMN.
+⚠️ The 2026-05-14 outer review judged this same sentence "correct as far as it
+goes" (L79 of that file) and criticised only its specificity. **That adjudication
+was wrong and must not be reused as cover for the sentence.**
+
+**3. The Hameroff reference is phantom on three fields.**
+Article L189: "Hameroff, S. (2024). Psychedelics, microtubules, and quantum
+consciousness. In *Consciousness and Quantum Mechanics*. Cambridge University
+Press." Crossref: *Consciousness and Quantum Mechanics* is **Shan Gao (ed.),
+Oxford University Press, 2022** (DOI `10.1093/oso/9780197501665.001.0001`, ISBN
+9780197501665). Its Hameroff chapter is "**Orch OR and the Quantum Biology of
+Consciousness**" (DOI `10.1093/oso/9780197501665.003.0015`). No chapter of the
+claimed title exists in the volume. Wrong title, wrong publisher, wrong year —
+and the real chapter is not psychedelic-specific, so it cannot bear the article's
+L154 claim that psychedelic molecules bind microtubules to modulate coherence.
+The 2026-05-14 review flagged this reference as "advocacy literature" without ever
+checking its metadata.
+
+**4. Mason is collapsed, exactly as charged.** Europe PMC, DOI
+`10.1038/s41386-020-0718-8`, verbatim: "higher levels of medial prefrontal
+cortical glutamate were associated with negatively experienced ego dissolution,
+lower levels in hippocampal glutamate were associated with positively experienced
+ego dissolution." The article's L66 ("glutamate concentrations track the *valence*
+of ego dissolution") and its L98 shorthand ("glutamate valence") flatten a
+regional double dissociation into a single dial.
+
+**5. A third phantom rendering, in the document that governs the audit itself.**
+Not reached by the reviewer, found while sweeping. `project/calibration-audit-triple.md`
+L495 cites "Timmermann, C., et al. (2024). Human brain effects of DMT assessed via
+EEG-fMRI. *Journal of Neuroscience*, 44(13)" and calls it a worked-example exhibit
+for the citation audit. The real paper is **Timmermann et al. (2023), PNAS 120**,
+DOI `10.1073/pnas.2218949120` (PMID 36940333) — wrong year, wrong journal, wrong
+volume. The corpus therefore carries three mutually inconsistent "Timmermann
+*J. Neurosci.*" renderings, one of them inside the audit specification.
+
+### Verified — the structural charges hold
+
+**6. The Bayesian inconsistency is real and is one sentence.** L44 concedes the
+evidence is "empirically equivalent to production-side accounts on the
+altered-state evidence alone"; L68 then asserts "the *direction* of the evidence
+supports the filter reading." Both cannot stand without a filter-specific
+likelihood.
+
+**7. The cross-article contradiction is real.**
+`topics/predictive-self-binding-and-the-naturalist-challenge.md` L105 still reads
+set and setting as "suggesting consciousness actively conditions its own altered
+experience … coherent with Tenet 3" — precisely the inbound-to-outbound inference
+the target's own L146 names as "the error the filter-vs-interface distinction
+exists to catch." Two live files, direct conflict.
+
+**8. The entropy dependency-drift is real.** `concepts/entropic-brain-hypothesis.md`
+carries the split explicitly (L32: "the strongest recent psychedelic evidence
+pulls the two apart", plus a contested-measure section citing Rankaduwa & Owen
+2023 on complexity rising as awareness falls). The target's empirical body
+mentions entropy, complexity and criticality nowhere, and was revised later.
+
+**9. Article-side wording confirmed verbatim**: "network identity itself
+dissolves" and "empirical centre of gravity" (L62); claustrum as "*the* proximal
+trigger" (L66); "5-HT2A receptor saturation" (L136); "degree of filter
+perturbation" as though measured (L74); "more real than real" as a floating quote
+(L44).
+
+**10. Root cause, and it is documented.** The 2026-08-27 deep review's
+Citation Web-Verify section (L53) records: "The remaining 23 entries are unchanged
+since the 2026-06-03 full publisher-of-record ledger (re-confirmed 2026-06-19 and
+2026-07-07); that ledger stands." That inheritance rule is what let two phantom
+entries survive **four** verification passes. Its L47 shows the deep review did
+touch Timmermann, Mason and Lebedev — but only to trim *recitation redundancy*,
+never to check what they say. The reviewer's improvements #18 and #19 are
+therefore evidenced, not speculative.
+
+### Not verified — do not treat as established
+
+- The reviewer's *stronger* Lebedev claim, that the authors "explicitly reported
+  **no** association between DMN disintegration and ego dissolution" in the full
+  analysis. The paper is not open access (Europe PMC `isOA: N`); the abstract
+  simply does not mention the DMN, and absence from an abstract is not a reported
+  null. The safe correction states what the paper *did* find rather than asserting
+  a null it may not contain.
+- Every 2026 publication the report leans on: the "April 2026 international
+  mega-analysis" of 11 datasets, the 2026 7-T crossover study, the 2026
+  multimetric analysis of 14 entropy measures, the 2026 English–German
+  mystical-scale invariance analysis, and the ayahuasca-tradition comparison. The
+  reviewer supplied aggregator chips, no author/DOI tuples. **Leads to verify, not
+  facts to cite.** No task may present them as settled until a DOI is in hand.
+- That the "third-eye" / "dispelling-the-illusion" contrast is Gładziejewski's
+  framing rather than Letheby's own — **strongly corroborated, not yet read at
+  source.** The reviewer's cited source is `10.1007/s13164-023-00709-6`, a *Review
+  of Philosophy and Psychology* DOI, which is **already reference 7 of the target
+  article**: "Gładziejewski, P. (2023). From altered states to metaphysics: The
+  epistemic status of psychedelic-induced metaphysical beliefs." So the article
+  cites the paper the framing belongs to and credits the framing to Letheby anyway;
+  no new reference is needed to fix it. What remains unchecked is the paper's exact
+  wording, so re-attribute without putting words in quotation marks. The
+  attribution is live in *two* articles — target L112 and
+  `predictive-self-binding-and-the-naturalist-challenge.md` L49 — plus
+  `research/voids-altered-states-as-void-probes-2026-02-03.md`, so any fix must
+  sweep all three.
+- The suggestibility and false-memory literature cited in §3.1.
+
+### Reclassified
+
+- **The "orphaned" Anderson et al. (2024) reference is not an oversight.** The
+  2026-08-27 deep review L54 records it as "the single intentional References-only
+  entry, documented and retained since 2026-06-03." Integrating or removing it is a
+  live editorial choice, but the reviewer's framing of it as a defect is declined.
+
+### Locus resolution
+
+All eight articles named in the report resolve to **live** files; none is archived.
+The recurring "outer reviewer critiques an archived article at a live URL" failure
+does not apply to this review.
+
+
+## Reply
+
 # External referee report: “Psychedelics and the Filter Model”
 
 **Recommendation: major revision before the article is relied upon as an evidence-bearing part of the Map.**
