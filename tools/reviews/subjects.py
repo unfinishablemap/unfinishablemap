@@ -297,8 +297,23 @@ def _reuse_subject_for_cycle(
     return None
 
 
-def _site_stale(now: datetime, days: int, pending: list[PendingReview]) -> bool:
-    """True iff no site-type review has been commissioned in the last `days`."""
+def _site_stale(
+    now: datetime,
+    days: int,
+    pending: list[PendingReview],
+    reviews_dir: Path = REVIEWS_DIR,
+) -> bool:
+    """True iff no site-type review has been commissioned in the last `days`.
+
+    Checks the live pending list *and* the collected review files on disk.
+    The pending list alone is not enough: ``archive_pending_reviews`` rotates
+    resolved entries out to ``obsidian/workflow/archive/`` weekly, so shortly
+    after a rotation the live list is empty and every check would read
+    "stale" — firing a duplicate full-site audit days after the last one and
+    spending all three of that cycle's legs on it. Observed 2026-09-07, when
+    the live list emptied and the check went blind to a site audit
+    commissioned five days earlier.
+    """
     cutoff = now - timedelta(days=days)
     for entry in pending:
         if entry.commissioned_at < cutoff:
@@ -308,6 +323,32 @@ def _site_stale(now: datetime, days: int, pending: list[PendingReview]) -> bool:
         # Legacy site reviews used a `-site-` infix in the filename.
         if "-site-" in entry.target_filename:
             return False
+
+    # Collected reviews on disk outlive the pending rotation. Dates come from
+    # the filename, as in `_articles_recently_outer_reviewed`, since
+    # `commissioned_at` isn't carried in the file frontmatter.
+    if reviews_dir.exists():
+        date_cutoff = cutoff.date()
+        for path in reviews_dir.glob("outer-review-*.md"):
+            if path.name.startswith("outer-review-synthesis-"):
+                continue
+            m = _REVIEW_DATE_RE.match(path.name)
+            if not m:
+                continue
+            try:
+                review_date = datetime.strptime(m.group(1), "%Y-%m-%d").date()
+            except ValueError:
+                continue
+            if review_date < date_cutoff:
+                continue
+            if "-site-" in path.name:
+                return False
+            try:
+                post = frontmatter.load(path)
+            except Exception:
+                continue
+            if post.metadata.get("subject_type") == "site":
+                return False
     return True
 
 
@@ -467,7 +508,7 @@ def select_cycle_subject(
             return _build_queue_subject(top)
 
     # 3. Site fallback.
-    if _site_stale(now, site_stale_days, pending):
+    if _site_stale(now, site_stale_days, pending, reviews_dir):
         return _build_site_subject()
 
     # 4. Recent-aged fallback.

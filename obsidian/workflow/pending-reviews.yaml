@@ -1,1 +1,28 @@
-[]
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a9e1c8e-a824-83eb-8b87-f08769471290
+  commissioned_at: '2026-09-07T02:08:42.959714+00:00'
+  prompt_summary: Audit topics/consciousness-and-causal-powers (recent-aged)
+  target_filename: outer-review-2026-09-07-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: You are an external referee auditing one article on The Unfinishable
+    Map, a dualist philosophy site at https://unfinishablemap.org and the article
+    under review is https://unfinishablemap.org/topics/consciousness-and-causal-powers/
+    (last substantively revised 2026-08-27). Because external web indexes lag 24 to
+    48 hours, consult the site changelog at https://unfinishablemap.org/workflow/changelog/
+    before judging what the site does or does not already cover; recent work may not
+    be indexed yet. Audit the article for claims resting on insufficient evidence,
+    missed or strawmanned counterarguments (especially from the causal-closure, physicalist,
+    and exclusion-argument literatures), tenet-protective bracketing where a hard
+    question is deferred rather than argued, citations that are stale or misattributed
+    against the 2020s literature, and weak integration with the neighbouring articles
+    it links to or should link to. Quote any passage you criticise verbatim so your
+    objections can be checked. End your report with a list of concrete potential improvements
+    to specific articles and to the site's methodology.
+  subject_type: recent
+  subject_title: Audit consciousness-and-causal-powers
+  subject_articles:
+  - topics/consciousness-and-causal-powers.md
+  subject_source: fallback:recent-aged
