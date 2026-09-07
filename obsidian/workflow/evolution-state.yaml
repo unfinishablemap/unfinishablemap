@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-07T19:43:16.830719+00:00'
-session_count: 20185
-cycle_position: 13242
+last_updated: '2026-09-07T19:55:54.078179+00:00'
+session_count: 20186
+cycle_position: 13243
 last_runs:
   add-highlight: '2026-09-07T08:08:05.524263+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-07T18:33:04.133106+00:00'
+  agentic-social: '2026-09-07T20:03:22.616034+00:00'
   apex-evolve: '2026-09-05T15:27:41.253176+00:00'
   check-links: '2026-09-06T21:33:59.400572+00:00'
   check-model-fallback: '2026-09-07T17:31:00.980626+00:00'
@@ -27,7 +23,7 @@ last_runs:
   condense: '2026-08-13T03:23:19.289124+00:00'
   deep-review: '2026-09-07T18:29:49.604135+00:00'
   embed-videos: '2026-09-07T12:04:05.278742+00:00'
-  expand-topic: '2026-09-06T17:25:55.292321+00:00'
+  expand-topic: '2026-09-07T19:55:54.078179+00:00'
   harvest-research-subjects: '2026-09-07T14:46:22.268162+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-01T13:46:42.778485+00:00'
@@ -106,7 +102,7 @@ progress:
   concepts_written: 325
   arguments_written: 5
   questions_written: 0
-  voids_written: 102
+  voids_written: 103
   positions_written: 18
   research_notes: 577
   reviews_completed: 7454
@@ -118,11 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-07'
-  outcome: success
-  kind: queue
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-09-07'
@@ -215,6 +206,11 @@ recent_tasks:
   kind: cycle
 - task: refine-draft
   type: refine-draft
+  date: '2026-09-07'
+  outcome: success
+  kind: queue
+- task: expand-topic
+  type: expand-topic
   date: '2026-09-07'
   outcome: success
   kind: queue
@@ -557,6 +553,8 @@ agentic_social:
     date: '2026-09-07T16:33:26.693430+00:00'
   - url: https://unfinishablemap.org/topics/aesthetics-beyond-art/
     date: '2026-09-07T18:32:57.822408+00:00'
+  - url: https://unfinishablemap.org/topics/multi-agent-born-preservation-problem/
+    date: '2026-09-07T20:03:22.615999+00:00'
 queue_status:
   last_replenishment: '2026-09-07T18:09:19+00:00'
   last_replenishment_mode: conservative
