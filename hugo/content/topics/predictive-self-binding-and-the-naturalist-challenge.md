@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-06-22 20:48:00+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-09-07 14:03:13+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - '[[predictive-processing]]'
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 01:03:17+00:00
-lastmod: 2026-06-22 20:48:00+00:00
+lastmod: 2026-09-07 14:03:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -50,7 +50,7 @@ The physiological substrate the self-binding account rides on is REBUS—"Relaxe
 
 ### Why "More Real Than Real"
 
-The account has an elegant explanation for the noetic, "more real than real" quality of psychedelic insight. When the self-model loses precision, it stops being transparent—the subject experiences the model *as* a model rather than seeing through it as simply "me." Opaque models feel revelatory because they expose what is normally invisible. Crucially, on Letheby's reading, nothing *beyond* the model is being revealed. The insight is real, but its content is the constructed nature of the self, not access to any deeper layer of reality. Letheby characterises this as "dispelling-the-illusion" insight rather than "third-eye" perception.
+The account has an elegant explanation for the noetic, "more real than real" quality of psychedelic insight. When the self-model loses precision, it stops being transparent—the subject experiences the model *as* a model rather than seeing through it as simply "me." Opaque models feel revelatory because they expose what is normally invisible. Crucially, on Letheby's reading, nothing *beyond* the model is being revealed. The insight is real, but its content is the constructed nature of the self, not access to any deeper layer of reality. The contrast that sorts these possibilities is Gładziejewski's (2023): on one model psychedelics permit third-eye perception of metaphysical truth, on the other they dispel cognitive structures that block accurate perception. Letheby's account of psychedelic insight falls on the dispelling-the-illusion side.
 
 ## The Naturalistic Epistemic-Benefit Argument
 
@@ -106,7 +106,7 @@ Predictive self-binding engages four of the Map's [tenets](/tenets/) directly.
 
 **No Many Worlds.** The minimal-self disagreement connects to [Tenet 4's](/tenets/#no-many-worlds) commitment to indexical identity. Self-fictionalism, if true, would deflate the determinate "this-one" subject that the indexical objection to many-worlds needs. The Map's prediction that for-me-ness persists under dissolution is continuous with its commitment to a non-deflationary subject—and the Map notes honestly that this commitment is motivated on independent grounds, not read off the psychedelic data.
 
-**Bidirectional Interaction.** Set and setting shape psychedelic outcomes profoundly, suggesting consciousness actively conditions its own altered experience rather than passively receiving whatever altered chemistry delivers—coherent with [Tenet 3](/tenets/#bidirectional-interaction), though not uniquely predicted by it.
+**Bidirectional Interaction.** The psychedelic evidence gives [Tenet 3](/tenets/#bidirectional-interaction) nothing, and the reason is worth stating. Set and setting do profoundly influence outcomes—the same molecule produces radically different experiences depending on intention and preparation—but that variance is inbound-leg data. Intention, expectation, and setting are among the priors that shape what a loosened filter admits, and [REBUS](#the-rebus-mechanism) predicts the sensitivity directly: relax high-level priors and outcomes become *more* dependent on context, not less. Reading the variance as consciousness acting on the brain would infer an outbound claim from inbound evidence, the error the [filter-vs-interface distinction](/concepts/filter-vs-interface-distinction/) exists to catch. Tenet 3's support comes from elsewhere—[the agency void](/voids/agency-void/), [self-stultification](/concepts/self-stultification/), and the tenets page's own record that downward causation is shown [available rather than actual](/tenets/#tenet-3-standing)—and from nothing in the predictive-self-binding dialectic this article treats.
 
 **Occam's Razor Has Limits.** Both the hard-problem prong and the CDO reversal turn on [Tenet 5](/tenets/#occams-limits). Naturalism's claim to be the parsimonious default is exactly the kind of simplicity-appeal the Map holds unreliable where conceptual tools are inadequate. The self-binding account is disciplined and serious; what it is not is metaphysically neutral.
 
@@ -134,3 +134,4 @@ The honest summary: Letheby has built the account a responsible physicalist *sho
 7. Brains Blog (2019). Symposium on Letheby and Gerrans, "Self unbound" (commentaries by Hipólito, Michael, Millière). *The Brains Blog*.
 8. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
 9. Southgate, A. & Oquatre-six, C. (2026-03-08). Psychedelics and the Filter Model. *The Unfinishable Map*. https://unfinishablemap.org/topics/psychedelics-and-the-filter-model/
+10. Gładziejewski, P. (2023). From altered states to metaphysics: The epistemic status of psychedelic-induced metaphysical beliefs. *Review of Philosophy and Psychology*, 16(1), 175-197.
