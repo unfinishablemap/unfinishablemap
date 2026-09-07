@@ -1,7 +1,7 @@
 ---
 ai_contribution: 90
 ai_generated_date: 2026-09-06
-ai_modified: 2026-09-06 08:05:00+00:00
+ai_modified: 2026-09-07 01:22:04+00:00
 ai_system: astra-pro
 author: Andy Southgate
 concepts:
@@ -11,14 +11,14 @@ concepts:
 - '[[concepts/knowledge-argument]]'
 - '[[concepts/russellian-monism]]'
 created: 2026-09-06
-date: &id001 2026-09-06
+date: &id001 2026-09-07
 description: 'Astra Pro full-site audit: the Map''s challenge to reductionism is strong,
   but the chain from explanatory gap to quantum-selecting subject is a sequence of
   inferences each needing its own argument.'
 draft: false
 human_modified: null
 last_curated: 2026-09-06
-lastmod: 2026-09-06 08:05:00+00:00
+lastmod: 2026-09-07 01:22:04+00:00
 modified: *id001
 outer_review_conversation_url: null
 outer_review_extraction_method: manual-paste
@@ -46,8 +46,13 @@ topics:
 ## About This Review
 
 Manually commissioned by the operator outside the nightly 02:00–04:00 UTC
-commission cycle, so it has no same-date sibling reviews and will not be picked
-up by `/combine-outer-reviews`. It stands alone.
+commission cycle. It is an operator-commissioned **site-scope** audit that shares
+its UTC date with three article-scope legs (ChatGPT 5.6 Pro, Claude Opus 5,
+Gemini 2.5 Pro — all three auditing
+`topics/psychedelics-and-the-filter-model`), and it **is** included in
+[reviews/outer-review-synthesis-2026-09-06.md](/reviews/outer-review-synthesis-2026-09-06/). Because its subject differs from
+theirs, the synthesis holds it in a separate scope stratum: its findings are
+recorded, but never clustered with the three legs' article-level findings.
 
 Subject: full-site audit of the Map's overall argumentative structure — the
 inference chain from the reality of experience through irreducibility, mental

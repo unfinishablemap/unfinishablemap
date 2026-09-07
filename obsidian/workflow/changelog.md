@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-07T01:03:05+00:00'
+ai_modified: '2026-09-07T01:25:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-07T01:25:00+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-06
+- **Coverage**: 3/3 commissioned reviewers processed (sources: chatgpt-5-6-pro, claude-opus-5, gemini-2-5-pro), all three on the same subject `topics/psychedelics-and-the-filter-model`. A **fourth** processed same-date review — `outer-review-2026-09-06-astra-pro.md`, operator-commissioned, `subject_type: site`, no `pending-reviews.yaml` entry — is listed in `synthesizes:` and synthesized in a **separate scope stratum**; none of its findings were eligible to join a cluster. Coverage recorded as **3/3**, not 4/3.
+- **Clusters**: 5 convergent (all 2/3, all article-scope), 9 singleton, 3 divergent
+- **Tasks upgraded**: **0** — and that is the correct result, not a gap. Both convergent content tasks (todo.md L2142 clusters A/B/C, L2151 cluster D) are **already P1** and the skill forbids upgrading past P1; cluster H's matching entry is the `NEEDS-HUMAN (methodology ratification) 2026-09-07` at L3979, `Status: blocked`, which needs operator ratification and was deliberately neither upgraded nor unblocked.
+- **Tasks deduplicated**: **0** — no redundant siblings existed. The Gemini leg minted zero tasks (it folded its three surviving findings into existing passes), and the ChatGPT and Claude tasks address different aspects of the same article.
+- **Tasks annotated**: 2 (additive `- **Convergent with**:` and `- **Synthesis**:` lines on L2142 and L2151)
+- **⚠️ Four reviewer charges EXCLUDED from the vote as refuted, not down-weighted.** Gemini #4 (Markov blanket — its self-described "most conceptually disastrous" and "disqualifying" charge), Gemini #5 (alief / Comforting-Delusion evasion), Gemini #7 ("false dialectical shield" / epistemic bankruptcy), and Claude §5.1 (the *site-wide* predictive-processing "documented blind spot"). **Two of those four attacked the same targets as clusters C and D**, so a naive semantic clusterer would have scored both at 3/3 instead of 2/3. Adjudicating before clustering is what prevented the inflation.
+- **Scope-inflation pattern, instances four and five.** Claude's site-wide predictive-processing false-absence claim is the **fourth recorded recurrence**; Gemini's Markov-blanket variant is a **fifth instance in the same cycle** of the same shape (a real article-level gap inflated into a site-wide blind spot the corpus refutes). Cluster D was **split explicitly**: article-level gap convergent and actioned, site-wide generalisation declined in writing.
+- **⚠️ The SKILL.md field rename was declined again.** Step 6 instructs renaming `- **Review file**:` to the plural. Re-verified this run that `tools/todo/processor.py:153` matches the singular literal by exact prefix, so the plural zeroes `task.review_file` and `tools/evolution/task_selector.py` then stops passing the pointer to the executing fork. **12 line-start plural field lines already sit in `todo.md` with lost provenance.** Followed the 2026-08-17 / 2026-09-03 precedent: singular line kept intact, sibling leg recorded on an additive `- **Convergent with**:` line. `parse_tasks` re-run after the edits: `review_file is not None` on both touched tasks — **PASS**. The `NEEDS-HUMAN (loop tooling) 2026-08-03` entry at L1573 tracking this SKILL.md defect **remains unresolved**.
+- **Two cross-date convergence traps excluded.** The astra-pro leg's own note calling "the site counts accommodation as explanation" convergent across three services is convergence with a **2026-06-22** Claude Opus 4.8 verdict and the existing `P-M5` position; astra-pro task L53's "CROSS-SERVICE CONVERGENCE" caption is with a **2026-07-16** ChatGPT finding. Neither is 2026-09-06 convergence.
+- **One sentence corrected in a source review.** `reviews/outer-review-2026-09-06-astra-pro.md` stated it "will not be picked up by `/combine-outer-reviews`. It stands alone." True at 08:05 on 2026-09-06 (the three legs were commissioned but not yet on disk), false now — the helper counts it. Rewritten to record it as an operator-commissioned site-scope audit included in the synthesis but held in a separate scope stratum; `ai_modified` bumped. Nothing else in that file changed.
+- **Output**: [[reviews/outer-review-synthesis-2026-09-06]]
 
 ## 2026-09-07T01:03:00+00:00 - outer-review
 - **Status**: Success
