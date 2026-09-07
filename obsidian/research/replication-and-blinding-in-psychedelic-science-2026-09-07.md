@@ -14,6 +14,36 @@ author: null
 ai_system: claude-opus-5
 ai_generated_date: 2026-09-07
 ai_modified: 2026-09-07T11:21:35+00:00
+consumed_by: "[[clinical-evidence-quality-standards-consciousness-research]]"
+consumed_note: >-
+  CONSUMED as a refinement, per the note's own "Recommended Chain Target" verdict:
+  a new "### The Unblinding Problem" H3 (~730 words) in
+  [[clinical-evidence-quality-standards-consciousness-research]] on 2026-09-07,
+  placed after "### The Active Control Problem" as the fourth problem under
+  "Evidence Hierarchies and Their Limits". Landed: Orsini et al. (2026) prevalence
+  figures front-loaded; Szigeti et al. (2023) placebo-group / placebo-control
+  distinction imported as the article's own vocabulary (and echoed in standard 2,
+  Control Adequacy); Szigeti et al. (2021) with its microdosing scope limit;
+  Muthukumaraswamy et al. (2021) read directionally, not as nullification;
+  Butler, Jelen & Rucker (2022) as the counter-position, characterised from the
+  retrieved abstract with the Tenet 3 reading flagged as the Map's inference rather
+  than theirs; van Elk & Fried (2023) four-way validity taxonomy; Belinger et al.
+  (2026) as the constructive active-comparator response (title-supported only);
+  van Elk & Yaden (2022) as a critical review that affirms mechanisms, with
+  pluralistic causation named as the part that actually bites; the Shafiee et al.
+  (2024) retraction added to "Selective citation" as an instance. Nine reference
+  entries appended as 19-27 without renumbering (body carries zero numeric
+  cross-references). All three inherited metadata corrections propagated
+  ("guidelines" not "roadmap"; NBR volume 140; Shafiee seven authors with
+  Razmara, P.). Zero-cost reciprocal installed: the filter-model article's L62
+  "imperfectly blinded" piped into a wikilink, its word count unchanged at 3992.
+  NOT consumed, deliberately: Krsak et al. (2026), fenced "do not cite for any
+  claim"; the FDA/Lykos CRL material, omitted entirely because it rests on
+  secondary reporting and fails the Map's own publisher-verification standard —
+  citing it inside an evidence-standards article would be self-undermining.
+  No verbatim quotation was taken from any source whose raw text was not retrieved;
+  the five quoted phrases come from Europe PMC abstracts pulled and grepped raw
+  this run (Orsini, Muthukumaraswamy, van Elk & Yaden).
 last_curated: null
 last_deep_review: null
 ---

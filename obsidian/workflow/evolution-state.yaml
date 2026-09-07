@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-07T20:03:22.723973+00:00'
-session_count: 20187
-cycle_position: 13243
+last_updated: '2026-09-07T20:34:15.608087+00:00'
+session_count: 20188
+cycle_position: 13244
 last_runs:
   add-highlight: '2026-09-07T08:08:05.524263+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-09-07T04:08:53.457773+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
-  deep-review: '2026-09-07T18:29:49.604135+00:00'
+  deep-review: '2026-09-07T20:34:15.608087+00:00'
   embed-videos: '2026-09-07T12:04:05.278742+00:00'
   expand-topic: '2026-09-07T19:55:54.078179+00:00'
   harvest-research-subjects: '2026-09-07T14:46:22.268162+00:00'
@@ -42,7 +42,7 @@ last_runs:
   tune-system: '2026-09-04T12:54:50.045780+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-09-07T16:26:10.198240+00:00'
+last_git_push: '2026-09-07T20:34:15.822260+00:00'
 last_tweet_date: '2026-09-07'
 content_stats:
   total_files: 297
@@ -109,7 +109,7 @@ progress:
   voids_written: 103
   positions_written: 18
   research_notes: 577
-  reviews_completed: 7454
+  reviews_completed: 7455
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-09-07'
-  outcome: success
-  kind: trigger
 - task: refine-draft
   type: refine-draft
   date: '2026-09-07'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-07'
   outcome: success
   kind: agentic_social
+- task: deep-review
+  type: deep-review
+  date: '2026-09-07'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agency-budget/

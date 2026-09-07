@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-09-02 17:29:27+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-07 20:50:07+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[neuroplasticity]]'
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-28 22:54:18+00:00
-lastmod: 2026-09-02 17:29:27+00:00
+lastmod: 2026-09-07 20:50:07+00:00
 modified: *id001
 related_articles:
 - '[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]'
@@ -30,6 +30,7 @@ related_articles:
 - '[[clinical-dissociation-as-systematic-evidence]]'
 - '[[methodology-of-consciousness-research]]'
 - '[[quantum-biology-and-neural-consciousness]]'
+- '[[psychedelics-and-the-filter-model]]'
 title: Clinical Evidence Quality Standards in Consciousness Research
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -57,7 +58,7 @@ The gap has three components:
 
 Standard evidence-based medicine arranges evidence in a hierarchy: systematic reviews and meta-analyses at the top, then RCTs, cohort studies, case reports, expert opinion. This hierarchy is designed for a specific question type — "does intervention X cause outcome Y?" — and works well when both X and Y are operationally defined.
 
-Consciousness research inherits this hierarchy but encounters three problems specific to its subject matter.
+Consciousness research inherits this hierarchy but encounters four problems specific to its subject matter.
 
 ### The Replication Problem
 
@@ -70,6 +71,22 @@ The corrective is straightforward: calibrate philosophical weight to replication
 Many consciousness-relevant studies compare intervention against waitlist or no-treatment controls. Van Dam et al. (2018), applying the NIH stage model, documented that only approximately 9% of mindfulness studies reach the stage of testing efficacy against an active control (and only 1% have been tested outside research settings). Without active controls, observed effects may reflect non-specific factors — social contact, expectation, structured activity — rather than anything specific to the consciousness-relevant intervention.
 
 The JAMA meta-analysis by Goyal et al. (2014) is instructive: meditation shows moderate efficacy for anxiety and depression, but no superiority over exercise, CBT, or other active treatments. This does not mean meditation lacks therapeutic value, but it means the evidence cannot support the stronger claim that meditation works *because consciousness reshapes the brain* — the active controls achieve comparable results through presumably different mechanisms.
+
+### The Unblinding Problem
+
+The most extreme control-adequacy failure documented in the consciousness-relevant clinical literature is functional unblinding in psychedelic trials, where participants and raters identify allocation from the drug's unmistakable subjective effects. Orsini et al. (2026), the first systematic review of blinding integrity in that literature, examined 112 randomised controlled trials: only 29.5% assessed it at all, though 57.1% cited blinding as a limitation. Where it was measured, psilocybin, LSD and ayahuasca trials frequently reported failure above 90% among both participants and raters, and inert-placebo MDMA trials exceeded 85%. Their verdict is that "no control strategy consistently achieved ideal blinding."
+
+That separates two things the phrase "placebo-controlled" runs together. Szigeti et al. (2023) draw the distinction precisely: a trial can have a placebo *group* — an arm formally randomised to placebo — without being a placebo-*controlled* trial, which additionally requires that allocation remain concealed. When unblinding approaches totality the placebo arm becomes a second effectively open-label group carrying a different expectation, and their modelling shows how that inflates effect estimates and can generate false positives. The distinction generalises to any intervention whose subjective effects are unmistakable to the recipient.
+
+What changes when the blind holds is visible in Szigeti et al. (2021), a self-blinding microdosing study completed by 191 participants: psychological outcomes improved from baseline in the microdose group and improved in the placebo group too, with no significant between-group differences. The result concerns microdosing, a literature distinct from high-dose psychedelic therapy; it shows what unblinding can conceal rather than that high-dose effects are placebo.
+
+The critique's own calibration warrants the scrutiny it demands. Muthukumaraswamy, Forsyth and Lumley (2021) argue that effect sizes are "likely over-estimated due to de-blinding of participants and high levels of response expectancy," — a recalibration argument, so reading it as showing the effects to be placebo artefacts commits the strength inflation catalogued below. Butler, Jelen and Rucker (2022) press from the other side: granting that these trials overestimate by design, they argue that imperfect blinding should not automatically disqualify an intervention, and that such results should be neither dismissed nor treated as firm evidence. The Map has a further reason to take that seriously, and it is the Map's inference rather than theirs: if the phenomenal character of an experience does causal work rather than accompanying a pharmacological effect, subtracting expectancy subtracts part of the mechanism — a possibility the [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) (Tenet 3) leaves open and the orthodox framing forecloses by assumption.
+
+The field is also responding. Van Elk and Fried (2023) sort ten problems in psychedelic science by the kind of validity each threatens — internal, external, construct, statistical-conclusion — which locates where a claim is weak instead of hedging uniformly, and Belinger et al. (2026) test methylphenidate as an active comparator. Orsini et al.'s verdict that no strategy has yet consistently succeeded is current rather than closing.
+
+For the Map the exposure is specific. Blinding failure biases *outcome-measure* estimates, so it hits clinical-efficacy premises hardest. The Map's psychedelic material — the [filter-model article](/topics/psychedelics-and-the-filter-model/) above all — leans on the character of ego-dissolution reports and on neuroimaging correlates, which unblinding does not directly touch; those are exposed by small samples instead, a replication-status problem rather than a control-adequacy one. And the premise this critique damages most has already been withdrawn: that article gave up therapeutic durability as a filter-specific signature, on the independent ground that several mechanisms each predict durable single-dose change. The withdrawal was not forced by the blinding literature and should not be presented as a concession to it.
+
+The sharpest challenge from this literature is not about blinding. Van Elk and Yaden's (2022) critical review affirms genuine mechanisms at three levels, and its neural-level description — "reduced efficacy of thalamo-cortical filtering," "the loosening of top-down predictive signaling" — is filter language in the mainstream literature, metaphysically neutral but structurally congenial. What bites is its preference for pluralistic causation over a unifying account: where several mechanisms each suffice to explain a phenomenon, no one of them is uniquely supported by it. That is the third standard below, interpretive range, turned on the Map's own material.
 
 ### The First-Person Data Problem
 
@@ -89,7 +106,7 @@ Has the finding been independently replicated with adequate power? Single-lab fi
 
 ### 2. Control Adequacy
 
-Does the study include active controls that isolate the consciousness-relevant variable? Waitlist-controlled studies cannot distinguish consciousness-specific effects from non-specific therapeutic factors. The absence of a "consciousness placebo" means no clinical design can definitively isolate conscious contribution, but active controls that match on time, attention, and social contact come closer than passive controls.
+Does the study include active controls that isolate the consciousness-relevant variable? Waitlist-controlled studies cannot distinguish consciousness-specific effects from non-specific therapeutic factors. The absence of a "consciousness placebo" means no clinical design can definitively isolate conscious contribution, but active controls that match on time, attention, and social contact come closer than passive controls. The standard also asks whether a nominal control functions as one: participants who can identify their allocation from the subjective effects leave the trial with a placebo group rather than a placebo control.
 
 ### 3. Interpretive Range
 
@@ -109,7 +126,7 @@ A standard worth stating explicitly governs all five: even methodologically high
 
 Several recurring patterns of evidence misuse deserve explicit identification, because they appear across consciousness research from all philosophical perspectives.
 
-**Selective citation.** Citing early positive studies while omitting later replication failures. The meditation structural neuroplasticity literature exemplifies this: Lazar et al. (2005) and Hölzel et al. (2011) continue to be cited without mentioning Kral et al. (2022).
+**Selective citation.** Citing early positive studies while omitting later replication failures. The meditation structural neuroplasticity literature exemplifies this: Lazar et al. (2005) and Hölzel et al. (2011) continue to be cited without mentioning Kral et al. (2022). The meta-analytic layer is not self-cleaning either: Shafiee et al. (2024), a meta-analysis of psychedelic effects on brain-derived neurotrophic factor, was retracted in 2025, and a retracted synthesis keeps circulating through whatever cited it beforehand. The Map cites no retracted work; the obligation is periodic re-checking rather than one-time verification.
 
 **Strength inflation.** Upgrading "explored" to "argued," "suggestive" to "demonstrated," "compatible with" to "evidence for." This is especially tempting when the evidence supports one's preferred framework.
 
@@ -169,3 +186,12 @@ The Map's quantum interaction claims currently rest on convergence across multip
 16. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 17. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences USA*, 114(32), 8493-8498. https://doi.org/10.1073/pnas.1702261114
 18. Nakatani, E., et al. (2003). Effects of behavior therapy on regional cerebral blood flow in obsessive-compulsive disorder. *Psychiatry Research: Neuroimaging*, 124(2), 113-120.
+19. Orsini, D. K., Wong, S., Di Luch, S., et al. (2026). Blinding integrity in psychedelic randomized clinical trials: A systematic review. *JAMA Psychiatry*, 83(7), 755-769. https://doi.org/10.1001/jamapsychiatry.2026.0255
+20. Muthukumaraswamy, S. D., Forsyth, A., & Lumley, T. (2021). Blinding and expectancy confounds in psychedelic randomized controlled trials. *Expert Review of Clinical Pharmacology*, 14(9), 1133-1152. https://doi.org/10.1080/17512433.2021.1933434
+21. Szigeti, B., Kartner, L., Blemings, A., et al. (2021). Self-blinding citizen science to explore psychedelic microdosing. *eLife*, 10, e62878. https://doi.org/10.7554/eLife.62878
+22. Szigeti, B., Nutt, D., Carhart-Harris, R., & Erritzoe, D. (2023). The difference between 'placebo group' and 'placebo control': A case study in psychedelic microdosing. *Scientific Reports*, 13(1), 12107. https://doi.org/10.1038/s41598-023-34938-7
+23. Butler, M., Jelen, L., & Rucker, J. (2022). Expectancy in placebo-controlled trials of psychedelics: If so, so what? *Psychopharmacology*, 239(10), 3047-3055. https://doi.org/10.1007/s00213-022-06221-6
+24. van Elk, M., & Fried, E. I. (2023). History repeating: Guidelines to address common problems in psychedelic science. *Therapeutic Advances in Psychopharmacology*, 13, 20451253231198466. https://doi.org/10.1177/20451253231198466 (Erratum: https://doi.org/10.1177/20451253231223609)
+25. van Elk, M., & Yaden, D. B. (2022). Pharmacological, neural, and psychological mechanisms underlying psychedelics: A critical review. *Neuroscience & Biobehavioral Reviews*, 140, 104793. https://doi.org/10.1016/j.neubiorev.2022.104793
+26. Belinger, L., Rieser, N. M., Engeli, E. J. E., et al. (2026). Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers. *European Neuropsychopharmacology*, 111, 112879. https://doi.org/10.1016/j.euroneuro.2026.112879
+27. Shafiee, A., Arabzadeh Bahri, R., Rafiei, M. A., Esmaeilpur Abianeh, F., Razmara, P., Jafarabady, K., & Amini, M. J. (2024). The effect of psychedelics on the level of brain-derived neurotrophic factor: A systematic review and meta-analysis. *Journal of Psychopharmacology*, 38(5), 425-431. **Retracted**; retraction notice https://doi.org/10.1177/02698811251341228
