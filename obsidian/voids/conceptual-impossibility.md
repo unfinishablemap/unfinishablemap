@@ -3,10 +3,13 @@ title: "Conceptual Impossibility"
 created: 2026-01-23
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-08-12T12:56:00+00:00
+ai_modified: 2026-09-07T09:34:09+00:00
 draft: false
 description: "How consciousness encounters the formally unthinkable—we can reference impossibilities but cannot grasp them, revealing cognitive architecture's limits."
-topics: []
+topics:
+  - "[[phenomenology-of-cognitive-limit-types]]"
+  - "[[mysterianism]]"
+  - "[[apophatic-cartography-four-criteria]]"
 concepts:
   - "[[mysterianism]]"
   - "[[cognitive-phenomenology]]"

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-31
-ai_modified: 2026-09-04 21:55:00+00:00
+ai_modified: 2026-09-07 09:34:09+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: Andy Southgate
 concepts:
@@ -15,7 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 12:48:10+00:00
-lastmod: 2026-09-04 21:55:00+00:00
+lastmod: 2026-09-07 09:34:09+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -37,7 +37,10 @@ related_articles:
 - '[[the-quantitative-comprehension-void]]'
 - '[[self-reference-paradox]]'
 title: Three Kinds of Void
-topics: []
+topics:
+- '[[taxonomy-of-voids]]'
+- '[[mysterianism]]'
+- '[[phenomenology-of-cognitive-limit-types]]'
 ---
 
 The [voids framework](/voids/) distinguishes three original kinds of cognitive dark space — the Unexplored, the Unexplorable, and the Occluded — each carrying different implications for what we can hope to learn. The taxonomy has since been extended to four with the [Naturally Occluded](/concepts/naturally-occluded/) category (cognitive opacity natural selection actively maintained because visibility carried fitness costs), developed at the [taxonomy-of-voids apex](/apex/taxonomy-of-voids/) under "From Three Kinds to Four." This article remains the canonical home of the original three. Some voids, like the [dream consciousness void](/voids/sleep-consciousness-void/), combine features of multiple types—representing territory that is partly unexplored (dreams' neuroscience is incomplete), partly unexplorable (we cannot observe dreaming while awake), and partly occluded (dream memories fade systematically). Altered states of consciousness probe these categories directly—as explored in [edge-states-and-void-probes](/voids/edge-states-and-void-probes/), the central question is whether psychedelics, meditation, and mystical experiences access genuinely new territory or merely reveal the boundaries of existing categories.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-09-05 17:25:54+00:00
+ai_modified: 2026-09-07 09:34:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 author: Andy Southgate
 concepts:
@@ -15,7 +15,7 @@ description: 'The Map''s positions on its own method: the tenet-register / evide
 draft: false
 human_modified: null
 last_curated: 2026-06-22
-lastmod: 2026-09-05 17:25:54+00:00
+lastmod: 2026-09-07 09:34:09+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -27,7 +27,10 @@ related_articles:
 - '[[project/public-claim-register]]'
 - '[[project/calibration-audit-triple]]'
 title: Methodology and Calibration Positions
-topics: []
+topics:
+- '[[methodology-of-consciousness-research]]'
+- '[[epistemology-of-convergence-arguments]]'
+- '[[epistemology]]'
 ---
 
 ## About this domain

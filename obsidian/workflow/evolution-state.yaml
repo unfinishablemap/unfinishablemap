@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-07T09:12:49.817508+00:00'
-session_count: 20148
-cycle_position: 13216
+last_updated: '2026-09-07T09:22:11.639490+00:00'
+session_count: 20149
+cycle_position: 13217
 last_runs:
   add-highlight: '2026-09-07T08:08:05.524263+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -13,7 +13,7 @@ last_runs:
   check-links: '2026-09-06T21:33:59.400572+00:00'
   check-model-fallback: '2026-09-07T08:45:58.579261+00:00'
   check-tenets: '2026-09-06T09:42:05.900097+00:00'
-  coalesce: '2026-09-06T17:06:49.900306+00:00'
+  coalesce: '2026-09-07T09:22:11.639490+00:00'
   collect-chatgpt-review: '2026-09-07T04:00:05.455757+00:00'
   collect-claude-review: '2026-09-07T04:45:53.360857+00:00'
   collect-gemini-review: '2026-09-07T04:58:35.569708+00:00'
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-07'
-  outcome: success
-  kind: queue
 - task: collect-chatgpt-review
   type: collect-chatgpt-review
   date: '2026-09-07'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-07'
   outcome: success
   kind: queue
+- task: coalesce
+  type: coalesce
+  date: '2026-09-07'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agency-budget/

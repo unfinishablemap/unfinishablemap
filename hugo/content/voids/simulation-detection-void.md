@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-06-25 02:59:53+00:00
+ai_modified: 2026-09-07 09:34:09+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 02:59:53+00:00
-lastmod: 2026-06-25 02:59:53+00:00
+lastmod: 2026-09-07 09:34:09+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -30,7 +30,10 @@ related_articles:
 - '[[causal-interface]]'
 - '[[compound-failure-signatures]]'
 title: The Simulation Detection Void
-topics: []
+topics:
+- '[[taxonomy-of-voids]]'
+- '[[meta-epistemology-of-limits]]'
+- '[[epistemology]]'
 ---
 
 An observer embedded in a simulation cannot determine whether their reality is simulated. This is the simulation detection void—a convergence point where all [three kinds of void](/voids/three-kinds-of-void/) meet. Detection methods remain largely untried (unexplored), the inside observer problem may foreclose them in principle (unexplorable), and simulation architects could actively prevent discovery (occluded). The Unfinishable Map treats this not as science fiction but as a paradigmatic case of epistemic closure that illuminates what embedded observers can and cannot know.

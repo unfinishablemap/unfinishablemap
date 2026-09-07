@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-08-24 22:45:41+00:00
+ai_modified: 2026-09-07 09:34:09+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 10:55:54+00:00
-lastmod: 2026-08-24 22:45:41+00:00
+lastmod: 2026-09-07 09:34:09+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -30,7 +30,10 @@ related_articles:
 - '[[consciousness-and-collective-phenomena]]'
 - '[[research/voids-distributional-void-2026-08-24]]'
 title: Collective Cognitive Limits
-topics: []
+topics:
+- '[[consciousness-and-collective-phenomena]]'
+- '[[consciousness-and-social-understanding]]'
+- '[[mysterianism]]'
 ---
 
 The [voids](/voids/) framework explores individual cognitive limits—what a single mind cannot think. But do *groups* have cognitive limits beyond the sum of individual limitations? This article investigates collective cognitive limits: systematic blind spots that emerge at the level of cultures, paradigms, and societies. These limits may be Unexplorable (framework-dependent), Occluded (socially enforced), or both—suggesting that escaping individual limitations by joining collectives introduces new, emergent forms of blindness.

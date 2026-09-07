@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-24
-ai_modified: 2026-06-03 07:34:00+00:00
+ai_modified: 2026-09-07 09:34:09+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 08:20:00+00:00
-lastmod: 2026-06-03 07:34:00+00:00
+lastmod: 2026-09-07 09:34:09+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -37,7 +37,10 @@ related_articles:
 - '[[compound-failure-signatures]]'
 - '[[relevance-void]]'
 title: The Question Formation Void
-topics: []
+topics:
+- '[[meta-epistemology-of-limits]]'
+- '[[phenomenology-of-conceptual-frameworks]]'
+- '[[apophatic-cartography-four-criteria]]'
 ---
 
 The **question formation void** names the structural constraint on *which questions a mind can formulate* — distinct from the constraint on which answers a mind can reach. Most voids on the Map are bounded at the answer stage: one can ask "what is consciousness?" without resolving the [hard problem](/topics/hard-problem-of-consciousness/). The question formation void operates earlier. Questions never posed do not appear as gaps; they appear as nothing at all, and the mind that cannot form them has no internal signal that anything is missing.

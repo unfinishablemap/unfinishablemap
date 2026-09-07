@@ -4,9 +4,12 @@ description: "Human+AI exploration of the second-order void shadowing apophatic 
 created: 2026-04-24
 modified: 2026-04-26
 human_modified:
-ai_modified: 2026-06-03T07:34:00+00:00
+ai_modified: 2026-09-07T09:34:09+00:00
 draft: false
-topics: []
+topics:
+  - "[[meta-epistemology-of-limits]]"
+  - "[[phenomenology-of-conceptual-frameworks]]"
+  - "[[apophatic-cartography-four-criteria]]"
 concepts:
   - "[[mysterianism]]"
   - "[[simulation]]"

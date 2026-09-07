@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-09-05 23:23:12+00:00
+ai_modified: 2026-09-07 09:34:09+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 19:51:37+00:00
-lastmod: 2026-09-05 23:23:12+00:00
+lastmod: 2026-09-07 09:34:09+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -33,7 +33,10 @@ related_articles:
 - '[[vagueness-void]]'
 - '[[research/voids-translation-void-2026-05-09]]'
 title: The Language-Thought Boundary
-topics: []
+topics:
+- '[[consciousness-and-language-interface]]'
+- '[[philosophy-of-language-under-dualism]]'
+- '[[qualia]]'
 ---
 
 "The limits of my language mean the limits of my world." Wittgenstein's famous proposition invites a question: are the limits of language and the limits of thought the same? If they diverge—if thought can exceed language, or language can articulate what cannot be thought—the boundary between them constitutes a [void](/voids/) worth mapping. This article explores that boundary: where speakable and thinkable part ways, and what the divergence reveals about cognitive architecture.

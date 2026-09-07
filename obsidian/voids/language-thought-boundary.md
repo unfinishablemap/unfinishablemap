@@ -3,10 +3,13 @@ title: "The Language-Thought Boundary"
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-09-05T23:23:12+00:00
+ai_modified: 2026-09-07T09:34:09+00:00
 draft: false
 description: "Where thought exceeds language: visual cognition, qualia, and the limits of articulation. What ineffability reveals about consciousness."
-topics: []
+topics:
+  - "[[consciousness-and-language-interface]]"
+  - "[[philosophy-of-language-under-dualism]]"
+  - "[[qualia]]"
 concepts:
   - "[[mysterianism]]"
   - "[[introspection]]"

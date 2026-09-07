@@ -4,10 +4,13 @@ description: "Beyond individual cognitive closure: how paradigms, social silence
 created: 2026-01-26
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-08-24T22:45:41+00:00
+ai_modified: 2026-09-07T09:34:09+00:00
 draft: false
 last_deep_review: 2026-06-25T10:55:54+00:00
-topics: []
+topics:
+  - "[[consciousness-and-collective-phenomena]]"
+  - "[[consciousness-and-social-understanding]]"
+  - "[[mysterianism]]"
 concepts:
   - "[[simulation]]"
   - "[[mysterianism]]"

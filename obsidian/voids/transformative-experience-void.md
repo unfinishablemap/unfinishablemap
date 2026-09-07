@@ -4,10 +4,13 @@ description: "Human+AI exploration of the cognitive void opened by choices whose
 created: 2026-04-17
 modified: 2026-08-27
 human_modified:
-ai_modified: 2026-08-27T09:58:57+00:00
+ai_modified: 2026-09-07T09:34:09+00:00
 last_deep_review: 2026-07-25T07:22:43+00:00
 draft: false
-topics: []
+topics:
+  - "[[phenomenology-of-deliberation-under-uncertainty]]"
+  - "[[diachronic-agency-and-personal-narrative]]"
+  - "[[personal-identity]]"
 concepts:
   - "[[qualia]]"
   - "[[phenomenal-acquaintance]]"

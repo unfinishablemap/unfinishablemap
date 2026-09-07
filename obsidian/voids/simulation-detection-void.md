@@ -4,10 +4,13 @@ description: "Human+AI exploration of why embedded observers cannot determine wh
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-06-25T02:59:53+00:00
+ai_modified: 2026-09-07T09:34:09+00:00
 draft: false
 last_deep_review: 2026-06-25T02:59:53+00:00
-topics: []
+topics:
+  - "[[taxonomy-of-voids]]"
+  - "[[meta-epistemology-of-limits]]"
+  - "[[epistemology]]"
 concepts:
   - "[[simulation]]"
   - "[[mysterianism]]"

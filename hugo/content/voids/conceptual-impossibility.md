@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-08-12 12:56:00+00:00
+ai_modified: 2026-09-07 09:34:09+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5
 author: null
 concepts:
@@ -15,7 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 00:35:00+00:00
-lastmod: 2026-08-12 12:56:00+00:00
+lastmod: 2026-09-07 09:34:09+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -26,7 +26,10 @@ related_articles:
 - '[[interactionist-dualism]]'
 - '[[counterfactual-void]]'
 title: Conceptual Impossibility
-topics: []
+topics:
+- '[[phenomenology-of-cognitive-limit-types]]'
+- '[[mysterianism]]'
+- '[[apophatic-cartography-four-criteria]]'
 ---
 
 Try to imagine a round square. Not a circle drawn on a square. Not a rounded square with gentle corners. A shape that is simultaneously, *in the same respect*, perfectly round and perfectly square. What happens when you try?
