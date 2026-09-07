@@ -4,12 +4,13 @@ description: "Buddhism rejects permanent self while affirming irreducible consci
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-08-17T21:56:24+00:00
+ai_modified: 2026-09-07T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[meaning-of-life]]"
   - "[[eastern-philosophy-consciousness]]"
+  - "[[the-ownerless-suffering-argument]]"
 concepts:
   - "[[self-and-self-consciousness]]"
   - "[[phenomenology]]"
@@ -179,6 +180,7 @@ The comparison also reveals what Buddhism challenges: the assumption that taking
 - [[evaluative-qualia-phenomenal-normativity-across-traditions]] — Buddhist vedanā in cross-traditional convergence on evaluative qualia
 - [[filter-theory]] — Why brain correlation doesn't entail brain production
 - [[eliminative-materialism]] — Buddhist anatta as parallel to classical eliminativism about the self; Madhyamaka extends emptiness further than the Map accepts
+- [[the-ownerless-suffering-argument]] — the ethical half: Śāntideva at *Bodhicaryāvatāra* 8.101–102, where ownerlessness becomes a premise for impartial benevolence
 - [[buddhist-perspectives-meaning-2026-01-06]] — Detailed research notes
 
 ## References

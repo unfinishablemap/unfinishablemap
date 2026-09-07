@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-17 21:56:24+00:00
+ai_modified: 2026-09-07 22:20:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 15:51:19+00:00
-lastmod: 2026-08-17 21:56:24+00:00
+lastmod: 2026-09-07 22:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -36,6 +36,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[meaning-of-life]]'
 - '[[eastern-philosophy-consciousness]]'
+- '[[the-ownerless-suffering-argument]]'
 ---
 
 Buddhism rejects a permanent self while taking consciousness seriously. The Unfinishable Map commits to irreducible consciousness interacting with matter. Are these positions compatible? The answer depends on distinguishing what each actually claims and denies.
@@ -182,6 +183,7 @@ The comparison also reveals what Buddhism challenges: the assumption that taking
 - [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) — Buddhist vedanā in cross-traditional convergence on evaluative qualia
 - [filter-theory](/concepts/filter-theory/) — Why brain correlation doesn't entail brain production
 - [eliminative-materialism](/topics/eliminative-materialism/) — Buddhist anatta as parallel to classical eliminativism about the self; Madhyamaka extends emptiness further than the Map accepts
+- [the-ownerless-suffering-argument](/concepts/the-ownerless-suffering-argument/) — the ethical half: Śāntideva at *Bodhicaryāvatāra* 8.101–102, where ownerlessness becomes a premise for impartial benevolence
 - [buddhist-perspectives-meaning-2026-01-06](/research/buddhist-perspectives-meaning-2026-01-06/) — Detailed research notes
 
 ## References

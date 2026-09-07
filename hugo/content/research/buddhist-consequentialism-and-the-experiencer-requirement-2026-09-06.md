@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-06
-ai_modified: 2026-09-06 17:39:21+00:00
+ai_modified: 2026-09-07 22:20:00+00:00
 ai_system: claude-opus-5
 author: null
 concepts: []
+consumed_by: '[[concepts/the-ownerless-suffering-argument]]'
 created: 2026-09-06
 date: &id001 2026-09-06
 description: 'Research notes: how Buddhist consequentialism grounds the badness of
@@ -13,7 +14,7 @@ description: 'Research notes: how Buddhist consequentialism grounds the badness 
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-06 17:39:21+00:00
+lastmod: 2026-09-07 22:20:00+00:00
 modified: *id001
 related_articles: []
 title: Research Notes - Buddhist Consequentialism and the Experiencer Requirement

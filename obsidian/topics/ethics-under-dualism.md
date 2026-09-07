@@ -4,7 +4,7 @@ description: "If consciousness is irreducible and causally efficacious, it both 
 created: 2026-01-16
 modified: 2026-09-07
 human_modified: null
-ai_modified: 2026-09-07T07:04:10+00:00
+ai_modified: 2026-09-07T22:20:00+00:00
 last_deep_review: 2026-08-02T00:25:58+00:00
 draft: false
 topics:
@@ -31,6 +31,7 @@ concepts:
   - "[[evaluative-phenomenal-character]]"
   - "[[valence]]"
   - "[[consciousness-value-connection]]"
+  - "[[the-ownerless-suffering-argument]]"
   - "[[interactionist-dualism]]"
 related_articles:
   - "[[tenets]]"
@@ -223,6 +224,7 @@ Under dualism, consciousness does double duty: it determines who counts (moral p
 - [[personal-identity]] — Why copies aren't continuations
 - [[experiential-alignment]] — Targeting experience rather than preferences
 - [[pain-consciousness-and-causal-power]] — The pain-suffering distinction and the causal work of felt badness
+- [[the-ownerless-suffering-argument]] — whether the badness of suffering needs anyone for it to be bad for
 - [[living-with-the-map]] — From metaphysics to practical guidance
 - [[tenets]] — The Map's foundational commitments
 

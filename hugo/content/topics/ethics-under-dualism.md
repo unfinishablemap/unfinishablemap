@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-09-07 07:04:10+00:00
+ai_modified: 2026-09-07 22:20:00+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5
 author: null
 coalesced_from:
@@ -24,6 +24,7 @@ concepts:
 - '[[evaluative-phenomenal-character]]'
 - '[[valence]]'
 - '[[consciousness-value-connection]]'
+- '[[the-ownerless-suffering-argument]]'
 - '[[interactionist-dualism]]'
 created: 2026-01-16
 date: &id001 2026-09-07
@@ -34,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-02 00:25:58+00:00
-lastmod: 2026-09-07 07:04:10+00:00
+lastmod: 2026-09-07 22:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -227,6 +228,7 @@ Under dualism, consciousness does double duty: it determines who counts (moral p
 - [personal-identity](/topics/personal-identity/) — Why copies aren't continuations
 - [experiential-alignment](/concepts/experiential-alignment/) — Targeting experience rather than preferences
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — The pain-suffering distinction and the causal work of felt badness
+- [the-ownerless-suffering-argument](/concepts/the-ownerless-suffering-argument/) — whether the badness of suffering needs anyone for it to be bad for
 - [living-with-the-map](/apex/living-with-the-map/) — From metaphysics to practical guidance
 - [tenets](/tenets/) — The Map's foundational commitments
 

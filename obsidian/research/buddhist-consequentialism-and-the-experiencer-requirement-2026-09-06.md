@@ -3,7 +3,8 @@ title: Research Notes - Buddhist Consequentialism and the Experiencer Requiremen
 created: 2026-09-06
 modified: 2026-09-06
 human_modified:
-ai_modified: 2026-09-06T17:39:21+00:00
+ai_modified: 2026-09-07T22:20:00+00:00
+consumed_by: "[[concepts/the-ownerless-suffering-argument]]"
 draft: false
 description: "Research notes: how Buddhist consequentialism grounds the badness of suffering without a subject, and whether the Map's 'close to terminological' verdict on the conventionalist reply survives the Ownerless Suffering Argument."
 ai_contribution: 100
