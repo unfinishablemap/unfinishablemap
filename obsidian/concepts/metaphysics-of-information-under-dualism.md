@@ -4,7 +4,7 @@ description: "What is information's ontological status when mind and matter are 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-07-13T16:30:18+00:00
+ai_modified: 2026-09-07T09:51:31+00:00
 last_deep_review: 2026-07-17T21:19:00+00:00
 draft: false
 topics:
@@ -20,6 +20,7 @@ concepts:
   - "[[panpsychism]]"
   - "[[intentionality]]"
   - "[[symbol-grounding-problem]]"
+  - "[[teleosemantics]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-causal-powers]]"
@@ -27,7 +28,7 @@ related_articles:
   - "[[psychophysical-laws]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-02-23
 last_curated:
 ---
@@ -102,15 +103,23 @@ The case for preferring Option 4 is that it avoids the specific failures of the 
 
 ## The Syntax-Semantics Divide
 
-The deepest challenge for any metaphysics of information under dualism is the gap between syntax and semantics. Physical information is syntactic—it concerns patterns, correlations, and distinguishability without inherent meaning. Phenomenal experience is semantic—it carries meaning, relevance, and qualitative significance.
+The deepest challenge for any metaphysics of information under dualism is the gap between syntax and semantics. On the characterisation this article adopts, physical information is syntactic—it concerns patterns, correlations, and distinguishability without inherent meaning—while phenomenal experience is semantic, carrying meaning, relevance, and qualitative significance. That characterisation is contested at its root by naturalistic theories of content, which derive semantics from an organism's coupling with its environment rather than treating it as supplied from outside; the challenge is taken up [below](#can-semantics-be-derived-rather-than-supplied).
 
 Under physicalism, this gap is supposed to dissolve: meaning emerges from computational complexity, and semantics reduces to sufficiently elaborate syntax. But this is precisely what the [[hard-problem-of-consciousness|hard problem]] shows cannot work. No amount of syntactic complexity explains why a pattern *means* something to the system processing it. A sufficiently complex thermostat processes information with great syntactic sophistication. It does not *understand* temperature. This is the [[symbol-grounding-problem]] in informational terms: physical processing provides syntax without semantics. [[intentionality|Genuine aboutness]]—the directedness of thought toward its object—requires the phenomenal dimension that consciousness alone supplies.
 
 The deflationary response treats "semantics" as a description of computational relevance rather than a metaphysical category—meaning just *is* sufficiently context-sensitive information processing. On this view, a chess engine "understands" positional advantage in the only sense understanding requires: it processes the relevant information and acts accordingly. The dualist reply is that this dissolves the phenomenon rather than explaining it. The chess engine's "understanding" consists entirely of state transitions that could proceed identically without anything being *like* processing positional advantage. Computational theories of meaning explain the *function* of semantics—how systems respond differentially to context—without explaining why any of that functioning is accompanied by experiential content. The point is structural rather than evidential: functional accounts are complete on their own terms and yet leave the experiential dimension unaddressed.
 
-Dualism takes this gap seriously. Physical information is syntactic; consciousness supplies semantics. The brain processes patterns; the mind grasps meanings. This division has a natural consequence: the causal role of consciousness is precisely to bring semantic content to bear on physical processes. When you choose to raise your arm because the situation *means* something to you, consciousness is injecting semantic relevance into a physical causal chain that, left to itself, operates only syntactically.
+Dualism takes this gap seriously, treating the division as a commitment it defends rather than a datum it inherits. Physical information is syntactic; consciousness supplies semantics. The brain processes patterns; the mind grasps meanings. This division has a natural consequence: the causal role of consciousness is precisely to bring semantic content to bear on physical processes. When you choose to raise your arm because the situation *means* something to you, consciousness is injecting semantic relevance into a physical causal chain that, left to itself, operates only syntactically.
 
 This connects to the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. The argument from reportability—that our ability to discuss consciousness proves it causally influences the physical world—gains force when framed informationally. We don't just *process* information about consciousness; we *understand* what consciousness is and report on that understanding. That understanding is semantic. If the physical world is purely syntactic, the semantic content must come from somewhere. Consciousness is the source.
+
+### Can Semantics Be Derived Rather Than Supplied?
+
+The division this section draws is a commitment rather than a datum, and the most serious rival denies it at the root. Naturalistic theories of content hold that semantic content is *derived from* an organism's structural coupling with its environment rather than *added to* it from a non-physical source. Teleosemantics—Millikan's biosemantics, with Dretske's indicator-function ancestor and later versions from Papineau and Neander—grounds content in biological proper function: a state means P because the mechanisms producing or consuming it were selected for their role relative to P, and failure against that role is what makes misrepresentation possible. The active-inference tradition (Friston, Clark, Hohwy, Seth) pursues the same derivation through a different formalism, treating an organism's inferential commerce with its surroundings as enough to fix what its states are about. Both are physicalist programmes whose authors would reject the interface reading, and they are engaged here as rivals rather than recruited. If either succeeds, the asymmetry this section rests on marks a difference in how far content has been derived rather than a difference in kind requiring consciousness to supply the missing half.
+
+How that engagement comes out deserves stating honestly. Against the active-inference wing there is real pressure from inside physicalism: the formalism yields a skull-bounded subject or an environment-involving one according to which variables the modeller admits, and Bruineberg and colleagues (2022) and Raja and colleagues (2021) press that underdetermination without appeal to dualism. This establishes that the formalism does not by itself fix where the subject is—not that content cannot be derived.
+
+Against teleosemantics proper, the Map's objection stops short of refutation. The Map holds that proper function delivers only selection-relative correctness: a malfunctioning mechanism fails a historical standard without thereby being *mistaken about* anything, whereas content requires answerability to evidence. A teleosemanticist can reply, with principle, that "content" simply names the historical kind, and the dispute then concerns what content is rather than anything either side settles by argument. The disagreement is closer to bedrock than the flat contrast between syntax and semantics suggests. This section's framing can claim that the derivation has not been shown to close the gap; it cannot claim the gap has been shown unclosable. [[teleosemantics|The Map's engagement with teleosemantics]] gives that programme its strongest form and locates the dissent in detail; [[the-naturalisation-failure-for-content|the naturalisation failure for content]] develops the negative master argument; [[brain-interface-boundary|the brain-interface boundary]] treats the Markov-blanket formalism.
 
 ## Information, Causation, and the Exclusion Problem
 
@@ -158,11 +167,16 @@ The metaphysics of information connects to each of the Map's tenets.
 - [[decoherence]] — The quantum process that challenges and constrains neural-scale interaction models
 - [[attention-as-causal-bridge]] — How attention serves as the mechanism through which semantic information reaches physical processes
 - [[wheelers-participatory-universe-and-it-from-bit]] — Wheeler's "it from bit" and its descendant programmes on information ontology
+- [[teleosemantics]] — The leading naturalistic rival: content derived from biological proper function rather than supplied by consciousness
 
 ## References
 
+1. Bruineberg, J., Dołęga, K., Dewhurst, J., & Baltieri, M. (2022). The Emperor's New Markov Blankets. *Behavioral and Brain Sciences*, 45, e183.
 1. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 1. Chalmers, D.J. & McQueen, K.J. (2022). Consciousness and the Collapse of the Wave Function. In S. Gao (ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
 1. Landauer, R. (1961). Irreversibility and heat generation in the computing process. *IBM Journal of Research and Development*, 5(3), 183-191.
+1. Millikan, R.G. (1989). "Biosemantics." *Journal of Philosophy*, 86(6), 281-297.
+1. Neander, K. (2017). *A Mark of the Mental: In Defense of Informational Teleosemantics*. MIT Press.
+1. Raja, V., Valluri, D., Baggs, E., Chemero, A., & Anderson, M.L. (2021). The Markov blanket trick: On the scope of the free energy principle and active inference. *Physics of Life Reviews*, 39, 49-72.
 1. Shannon, C.E. (1948). A mathematical theory of communication. *Bell System Technical Journal*, 27(3), 379-423.
 1. Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
