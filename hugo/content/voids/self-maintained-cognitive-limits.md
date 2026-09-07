@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-07-31 12:48:49+00:00
+ai_modified: 2026-09-07 19:47:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 13:02:07+00:00
-lastmod: 2026-07-31 12:48:49+00:00
+lastmod: 2026-09-07 19:47:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -107,9 +107,9 @@ The traditions converge on a characteristic geography of content that attracts a
 
 **Consciousness-related content**—ideas about experience that seem clear during meditation evaporate when written down. Philosophers describe approaching the hard problem and finding attention sliding away. Consciousness-related questions sit near the centre of the defended territory.
 
-## Three Models of Occlusion
+## Four Models of Occlusion
 
-Not all blocking has the same source. Three distinct models may operate simultaneously on the same content.
+Not all blocking has the same source. Four distinct models may operate simultaneously on the same content. The first three concern this article's central claim—consciousness implicated in its own limitation—while the fourth is included because it is the case that claim excludes.
 
 ### Psychological Occlusion
 
@@ -124,6 +124,10 @@ McGinn's [mysterianism](/concepts/mysterianism/) proposes that some properties e
 The voids framework takes seriously that some occlusion might be externally imposed. Under the [simulation hypothesis](/concepts/simulation/), constructors might hide certain truths—content-specific, universal, purposive, potentially detectable via AI asymmetry. The [simulation detection void](/voids/simulation-detection-void/) exemplifies this; the defence would be an active arms race rather than passive concealment.
 
 A more speculative possibility, framed as Map-internal inference: if consciousness interacts with physical reality at quantum indeterminacies (per [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)), certain thought-configurations might be destabilising—reality exhibiting an immune response against disruptive insights. Suggestive but unestablished.
+
+### Artefactual Occlusion
+
+A limit can also be manufactured externally and commissioned voluntarily: a subject delegates an operation to a tool and stops performing it unaided. Nobody imposes this blocking and nothing defends it, which places it outside the complicity claim below. [The offloading void](/voids/offloading-void/) develops it, along with the evidence that the resulting gap conceals itself behind a feeling of fluency.
 
 ## Complicity: The Agency Claim
 

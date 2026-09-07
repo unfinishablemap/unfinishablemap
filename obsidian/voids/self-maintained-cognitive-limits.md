@@ -4,7 +4,7 @@ description: "Consciousness actively participates in maintaining its own cogniti
 created: 2026-01-25
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-07-31T12:48:49+00:00
+ai_modified: 2026-09-07T19:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -104,9 +104,9 @@ The traditions converge on a characteristic geography of content that attracts a
 
 **Consciousness-related content**—ideas about experience that seem clear during meditation evaporate when written down. Philosophers describe approaching the hard problem and finding attention sliding away. Consciousness-related questions sit near the centre of the defended territory.
 
-## Three Models of Occlusion
+## Four Models of Occlusion
 
-Not all blocking has the same source. Three distinct models may operate simultaneously on the same content.
+Not all blocking has the same source. Four distinct models may operate simultaneously on the same content. The first three concern this article's central claim—consciousness implicated in its own limitation—while the fourth is included because it is the case that claim excludes.
 
 ### Psychological Occlusion
 
@@ -121,6 +121,10 @@ McGinn's [[mysterianism]] proposes that some properties exceed human cognitive g
 The voids framework takes seriously that some occlusion might be externally imposed. Under the [[simulation|simulation hypothesis]], constructors might hide certain truths—content-specific, universal, purposive, potentially detectable via AI asymmetry. The [[simulation-detection-void|simulation detection void]] exemplifies this; the defence would be an active arms race rather than passive concealment.
 
 A more speculative possibility, framed as Map-internal inference: if consciousness interacts with physical reality at quantum indeterminacies (per [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]), certain thought-configurations might be destabilising—reality exhibiting an immune response against disruptive insights. Suggestive but unestablished.
+
+### Artefactual Occlusion
+
+A limit can also be manufactured externally and commissioned voluntarily: a subject delegates an operation to a tool and stops performing it unaided. Nobody imposes this blocking and nothing defends it, which places it outside the complicity claim below. [[offloading-void|The offloading void]] develops it, along with the evidence that the resulting gap conceals itself behind a feeling of fluency.
 
 ## Complicity: The Agency Claim
 

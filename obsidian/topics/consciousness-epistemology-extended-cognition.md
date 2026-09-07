@@ -4,7 +4,7 @@ description: "On the Map's reading, cognition extends but phenomenal experience 
 created: 2026-04-11
 modified: 2026-04-11
 human_modified:
-ai_modified: 2026-08-17T16:46:07+00:00
+ai_modified: 2026-09-07T19:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -71,7 +71,7 @@ This has direct implications for extended cognition. External devices can extend
 
 The Unfinishable Map's [[filter-theory|filter theory]] offers a natural framework for integrating the valid insights of extended cognition with dualist commitments. On the filter model, the brain does not produce consciousness but constrains and shapes it—filtering a wider field of experience into the focused awareness needed for embodied action.
 
-Extended cognition enriches the filter. Notebooks, smartphones, and environmental structures extend the *informational resources* available to the filter, expanding what consciousness can attend to and process. The body-plus-tools form the filtering apparatus; consciousness is what passes through it. (This framing is the Map's extension of filter theory to the 4E context; [[filter-theory]] itself acknowledges that filter models currently lack independent criteria for predicting which disruptions enhance versus degrade experience, a limitation that applies here too.) This preserves the Map's core claim—consciousness is not reducible to any physical process, whether internal or external—while acknowledging that the physical substrate through which consciousness operates is genuinely distributed.
+Extended cognition enriches the filter. Notebooks, smartphones, and environmental structures extend the *informational resources* available to the filter, expanding what consciousness can attend to and process. The body-plus-tools form the filtering apparatus; consciousness is what passes through it. (This framing is the Map's extension of filter theory to the 4E context; [[filter-theory]] itself acknowledges that filter models currently lack independent criteria for predicting which disruptions enhance versus degrade experience, a limitation that applies here too.) This preserves the Map's core claim—consciousness is not reducible to any physical process, whether internal or external—while acknowledging that the physical substrate through which consciousness operates is genuinely distributed. Enrichment is only half the story: the same delegation can narrow the range of operations a subject performs unaided, and that contraction conceals itself behind a feeling of competence, as [[offloading-void|the offloading void]] documents.
 
 The distinction maps cleanly onto the P-consciousness/A-consciousness divide. A-consciousness—the accessibility of information for reasoning and report—depends on the filter's bandwidth and structure, which tools can expand. P-consciousness—the qualitative character of experience—depends on consciousness itself, which no physical extension can replicate.
 
