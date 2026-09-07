@@ -1,3 +1,50 @@
+---
+title: "Outer Review - ChatGPT 5.6 Pro (2026-09-07)"
+created: 2026-09-07
+modified: 2026-09-07
+human_modified: null
+ai_modified: 2026-09-07T03:54:57+00:00
+draft: false
+description: "ChatGPT 5.6 Pro audits topics/consciousness-and-causal-powers: a verified Zeno-rate arithmetic error, a thermodynamic-innocence contradiction with its own upstream conservation page, and an inverted ethical grounding — against a refuted site-wide closure charge."
+topics:
+  - "[[consciousness-and-causal-powers]]"
+  - "[[brain-internal-born-rule-testing]]"
+  - "[[phenomenal-value-realism]]"
+concepts:
+  - "[[concepts/causal-closure]]"
+  - "[[concepts/conservation-laws-and-mental-causation]]"
+  - "[[concepts/constitution-vs-causal-work]]"
+related_articles:
+  - "[[project]]"
+ai_contribution: 90
+author: "Andy Southgate"
+ai_system: "chatgpt-5-6-pro"
+ai_generated_date: 2026-09-07
+last_curated: 2026-09-07
+outer_review_status: processed
+outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a9e1c8e-a824-83eb-8b87-f08769471290
+outer_review_extraction_method: js-dom
+subject_type: recent
+subject_title: "Audit consciousness-and-causal-powers"
+subject_articles:
+  - topics/consciousness-and-causal-powers.md
+subject_source: fallback:recent-aged
+---
+
+**Date**: 2026-09-07
+**Reviewer**: ChatGPT 5.6 Pro
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+You are an external referee auditing one article on The Unfinishable Map, a dualist philosophy site at https://unfinishablemap.org and the article under review is https://unfinishablemap.org/topics/consciousness-and-causal-powers/ (last substantively revised 2026-08-27). Because external web indexes lag 24 to 48 hours, consult the site changelog at https://unfinishablemap.org/workflow/changelog/ before judging what the site does or does not already cover; recent work may not be indexed yet. Audit the article for claims resting on insufficient evidence, missed or strawmanned counterarguments (especially from the causal-closure, physicalist, and exclusion-argument literatures), tenet-protective bracketing where a hard question is deferred rather than argued, citations that are stale or misattributed against the 2020s literature, and weak integration with the neighbouring articles it links to or should link to. Quote any passage you criticise verbatim so your objections can be checked. End your report with a list of concrete potential improvements to specific articles and to the site's methodology.Show moreShow less
+
+## Reply
+
 # External referee report
 
 **Recommendation: major revision**
@@ -6,7 +53,7 @@
 
 ## Executive assessment
 
-The article is best understood as a **conditional research programme for interactionist dualism**, not yet as an explanation of mental causation. It gives a reasonably clear picture of what the Map wants consciousness to do: phenomenal properties would influence which physically available neural outcome occurs, without acting as an ordinary force. It also commendably admits that there is no direct evidence for such influence and that physicalist accounts can reproduce the same phenomenology. [The Unfinishable Map+2The Unfinishable Map+2](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
+The article is best understood as a **conditional research programme for interactionist dualism**, not yet as an explanation of mental causation. It gives a reasonably clear picture of what the Map wants consciousness to do: phenomenal properties would influence which physically available neural outcome occurs, without acting as an ordinary force. It also commendably admits that there is no direct evidence for such influence and that physicalist accounts can reproduce the same phenomenology. [topics/consciousness-and-causal-powers](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
 
 Its central argumentative problem is nevertheless serious:
 
@@ -28,13 +75,13 @@ There is also an important currency problem. The changelog records post–27 Aug
 - acknowledged that Born-marginal preservation does not establish thermodynamic innocence;
 - corrected the stronger claim that quantum theory requires nonphysical completion to the weaker claim that it leaves conceptual room for one.
 
-Those corrections have not propagated into the target article. The article has therefore become what the site’s own workflow would call a **stranded dependent**: still carrying claims that its neighbours have subsequently qualified or abandoned. [The Unfinishable Map+5The Unfinishable Map+5The Unfinishable Map+5](https://unfinishablemap.org/positions/quantum-interface/)
+Those corrections have not propagated into the target article. The article has therefore become what the site’s own workflow would call a **stranded dependent**: still carrying claims that its neighbours have subsequently qualified or abandoned. [positions/quantum-interface](https://unfinishablemap.org/positions/quantum-interface/)
 
 ## What the article does well
 
 Several features deserve preservation.
 
-First, it does not pretend that phenomenal causation has been empirically demonstrated. It explicitly concedes that rival identity and predictive-processing accounts fit the same phenomenology, and that the quantum hypothesis is compatible with present evidence rather than required by it. [The Unfinishable Map+1](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
+First, it does not pretend that phenomenal causation has been empirically demonstrated. It explicitly concedes that rival identity and predictive-processing accounts fit the same phenomenology, and that the quantum hypothesis is compatible with present evidence rather than required by it. [topics/consciousness-and-causal-powers](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
 
 Second, it recognises real quantitative and conceptual liabilities: decoherence times, psychophysical mapping, the luck objection, the unity of consciousness, and the absence of a brain-internal Born-rule test. These are the correct kinds of pressure points.
 
@@ -46,7 +93,7 @@ The trouble is that the concessions are not allowed to exert enough pressure on 
 
 ## 1. Stochastic physics is repeatedly confused with incomplete physical causation
 
-The article appeals to quantum mechanics supplying **“probabilities, not certainties”** and treats the absence of a physically necessitated token outcome as an opening through which a mental cause can operate. [The Unfinishable Map](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
+The article appeals to quantum mechanics supplying **“probabilities, not certainties”** and treats the absence of a physically necessitated token outcome as an opening through which a mental cause can operate. [topics/consciousness-and-causal-powers](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
 
 That inference does not follow.
 
@@ -72,11 +119,11 @@ The target article therefore does not dissolve exclusion by pointing to quantum 
 - Can M be intervened on while holding its physical realiser fixed?
 - Is the proposed mental contribution causal, nomological, constitutive or merely explanatory?
 
-The site’s dedicated closure article suffers from the same inference: because stochastic physics does not provide a deterministic sufficient cause of the token event, it treats the physical story as incomplete. That shared premise needs correction in both articles. [The Unfinishable Map+2The Unfinishable Map+2](https://unfinishablemap.org/concepts/causal-closure/)
+The site’s dedicated closure article suffers from the same inference: because stochastic physics does not provide a deterministic sufficient cause of the token event, it treats the physical story as incomplete. That shared premise needs correction in both articles. [concepts/causal-closure](https://unfinishablemap.org/concepts/causal-closure/)
 
 ## 2. The identity-theory objection begs the question against physicalism
 
-The article says that, under identity theory, the neural state **“does all the work”**, leaving phenomenal character epiphenomenal in substance if not in name. [The Unfinishable Map](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
+The article says that, under identity theory, the neural state **“does all the work”**, leaving phenomenal character epiphenomenal in substance if not in name. [topics/consciousness-and-causal-powers](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
 
 This is not an adequate representation of identity theory. Identity theory does not normally posit a neural cause alongside an additional phenomenal item and then allocate all efficacy to the former. It says that the conscious event and neural event are one event identified under different descriptions. On that view, the pain causes withdrawal because it is the relevant neural process; describing the same process neurologically does not remove the causal role of pain.
 
@@ -84,13 +131,13 @@ A property dualist may argue that the phenomenal property is not identical to an
 
 Nor is nonreductive physicalism exhausted by causal competition between two events. Contemporary strategies analyse higher-level causation through realisation, difference-making, proportionality, grounding or interventionist dependence. These strategies are contested, but an external referee cannot regard the article as having answered them merely by restating the Map’s irreducibility commitment. Recent interventionist debates explicitly turn on whether higher-level variables are independently fixable and whether they add causal information rather than extra forces. [Springer+2Springer+2](https://link.springer.com/content/pdf/10.1007/s11229-024-04500-7.pdf)
 
-The Map’s own article on constitution and causal work acknowledges that this is a live disagreement and does not adjudicate it. The target article nevertheless speaks as though the physicalist has already conceded a distinct phenomenal property and then rendered it idle. That is an internal mismatch. [The Unfinishable Map](https://unfinishablemap.org/concepts/constitution-vs-causal-work/)
+The Map’s own article on constitution and causal work acknowledges that this is a live disagreement and does not adjudicate it. The target article nevertheless speaks as though the physicalist has already conceded a distinct phenomenal property and then rendered it idle. That is an internal mismatch. [concepts/constitution-vs-causal-work](https://unfinishablemap.org/concepts/constitution-vs-causal-work/)
 
-The same issue appears in the predictive-processing discussion. A physicalist may hold that affective valence is implemented by an allostatic or precision-weighting process and that the phenomenal state is identical with, realised by, or constituted by that process. The article instead assumes that the computational role stops before phenomenality and that phenomenality must add a further causal contribution. This is the precise bridge under dispute, not an independently established premise. Gerrans, for example, supplies a fully physicalist self-model and allostatic interpretation of the relevant affective phenomena. [The Unfinishable Map+1](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
+The same issue appears in the predictive-processing discussion. A physicalist may hold that affective valence is implemented by an allostatic or precision-weighting process and that the phenomenal state is identical with, realised by, or constituted by that process. The article instead assumes that the computational role stops before phenomenality and that phenomenality must add a further causal contribution. This is the precise bridge under dispute, not an independently established premise. Gerrans, for example, supplies a fully physicalist self-model and allostatic interpretation of the relevant affective phenomena. [topics/consciousness-and-causal-powers](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
 
 ## 3. The architecture–implementation distinction functions as a protective firewall
 
-The article says that if the Zeno mechanism fails, an **“alternative implementation”** can carry the architecture. [The Unfinishable Map](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
+The article says that if the Zeno mechanism fails, an **“alternative implementation”** can carry the architecture. [topics/consciousness-and-causal-powers](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
 
 Separating a functional architecture from its implementation can be legitimate. Here, however, the proposed architecture is essentially:
 
@@ -110,11 +157,11 @@ Without such common structure, the implementation class is unbounded. If collaps
 
 This is tenet-protective bracketing. The Map’s commitment is protected by shifting the burden downward to mechanisms, while the mechanisms are treated as dispensable examples. A scientifically meaningful architecture must imply restrictions which **every admissible implementation must satisfy**, together with observations that would count against the architecture rather than only against one candidate.
 
-The site’s newer interface register makes the problem explicit: post-decoherence selection is currently the preferred route, but it remains only a working stance and lacks a toy model. It also says that absent a consciousness-conditioned signature, selection risks collapsing into an epiphenomenal redescription of chance. The target article should import that warning rather than suggesting that generic architectural coherence survives candidate failure without cost. [The Unfinishable Map+1](https://unfinishablemap.org/positions/quantum-interface/)
+The site’s newer interface register makes the problem explicit: post-decoherence selection is currently the preferred route, but it remains only a working stance and lacks a toy model. It also says that absent a consciousness-conditioned signature, selection risks collapsing into an epiphenomenal redescription of chance. The target article should import that warning rather than suggesting that generic architectural coherence survives candidate failure without cost. [positions/quantum-interface](https://unfinishablemap.org/positions/quantum-interface/)
 
 ## 4. The quantum Zeno discussion is technically inaccurate
 
-The article says repeated quantum observation **“prevents it from decohering”**. [The Unfinishable Map+1](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
+The article says repeated quantum observation **“prevents it from decohering”**. [topics/consciousness-and-causal-powers](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
 
 That is not a sound general characterisation of the quantum Zeno effect. The standard effect concerns suppression of transitions by sufficiently frequent measurements or continuous strong coupling. Decoherence is environmental entanglement which suppresses phase coherence. Measurement-like environmental coupling can itself produce decoherence, while open quantum systems can exhibit either Zeno or anti-Zeno behaviour depending on coupling, spectral density and measurement interval. Attention cannot simply be identified with a sequence of projection measurements. [Nature+2APS Journals+2](https://preview-www.nature.com/articles/s42254-022-00454-2.pdf)
 
@@ -124,9 +171,9 @@ A usable proposal would need at minimum:
 
 where H is the neural-system Hamiltonian, ρ the relevant state, Pi​ the measurement or coupling operators, Δt the intervention interval and E the environmental dynamics. It would then have to show that the proposed operation suppresses the relevant neural transition rather than simply decohering the state or accelerating its decay.
 
-The numerical presentation is also internally inconsistent. The article gives neural coherence times of 10−13 to 10−20 seconds, corresponding to rates of roughly 1013 to 1020s−1, while attention is placed at 10–30 Hz. The resulting ratio is approximately 3×1011 to 1019: about **12 to 19 orders of magnitude**, not the narrower range stated on the page. Moreover, a 10−20-second process would require intervention on approximately a 1020-Hz scale, not merely at or above 1013 Hz. Tegmark’s classic calculations are relevant to the lower coherence estimates, although the bibliography does not directly cite them. [The Unfinishable Map+1](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
+The numerical presentation is also internally inconsistent. The article gives neural coherence times of 10−13 to 10−20 seconds, corresponding to rates of roughly 1013 to 1020s−1, while attention is placed at 10–30 Hz. The resulting ratio is approximately 3×1011 to 1019: about **12 to 19 orders of magnitude**, not the narrower range stated on the page. Moreover, a 10−20-second process would require intervention on approximately a 1020-Hz scale, not merely at or above 1013 Hz. Tegmark’s classic calculations are relevant to the lower coherence estimates, although the bibliography does not directly cite them. [topics/consciousness-and-causal-powers](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
 
-There is a more fundamental incompatibility. A literal Zeno mechanism changes the system’s transition probabilities relative to unmeasured evolution. It is therefore not merely a chooser among otherwise unchanged Born-distributed outcomes. The Map’s own brain-testing article now recognises that a Zeno proposal changes distributions and that no relevant neural experiment has established such an effect. [The Unfinishable Map+1](https://unfinishablemap.org/topics/brain-internal-born-rule-testing/)
+There is a more fundamental incompatibility. A literal Zeno mechanism changes the system’s transition probabilities relative to unmeasured evolution. It is therefore not merely a chooser among otherwise unchanged Born-distributed outcomes. The Map’s own brain-testing article now recognises that a Zeno proposal changes distributions and that no relevant neural experiment has established such an effect. [topics/brain-internal-born-rule-testing](https://unfinishablemap.org/topics/brain-internal-born-rule-testing/)
 
 ## 5. Three different models of phenomenal influence are conflated
 
@@ -146,7 +193,7 @@ m∑​P(O∣do(M=m),X)P(m∣X)=PBorn​(O∣X).
 
 This is a substantive and potentially testable proposal. It predicts conditional structure even if an unconditioned aggregate remains Born-compatible. But exact cancellation across intentions, tasks, subjects and contexts requires a worked psychophysical law. It cannot be inferred from the Born rule itself.
 
-The site’s newer testing work now acknowledges that intention-, task- or subject-conditioned deviations remain possible even when aggregate statistics are preserved, and notes that only a coarse-grained null test has so far been identified. [The Unfinishable Map](https://unfinishablemap.org/workflow/changelog/)
+The site’s newer testing work now acknowledges that intention-, task- or subject-conditioned deviations remain possible even when aggregate statistics are preserved, and notes that only a coarse-grained null test has so far been identified. [workflow/changelog](https://unfinishablemap.org/workflow/changelog/)
 
 ### C. Dynamical intervention such as Zeno stabilisation
 
@@ -156,11 +203,11 @@ These models have different empirical signatures, conservation questions and exc
 
 The article’s appeal to Torres Alegre does not bridge the gap. The cited preprint is real and relevant to deriving Born-form probabilities under a finite-dimensional generalised-probabilistic framework involving purification, steering, no-signalling and a particular functional relation. It does not prove that an arbitrary consciousness-conditioned selection rule preserves Born statistics. Its current public version is also a 2026 revision, although the article retains the original 2025 dating without specifying the version or assumptions. [arXiv+1](https://arxiv.org/abs/2512.12636v3)
 
-The Map’s own Born-preserving causal-efficacy analysis reaches the correct harder conclusion: it currently has no worked route which is simultaneously conservative, statistically efficacious and formally specified. It asks for a toy model demonstrating token-level counterfactual influence, exact marginal preservation, compatibility with neural dynamics and no signalling. The target article should report that result prominently. [The Unfinishable Map+1](https://unfinishablemap.org/apex/born-preserving-causal-efficacy/)
+The Map’s own Born-preserving causal-efficacy analysis reaches the correct harder conclusion: it currently has no worked route which is simultaneously conservative, statistically efficacious and formally specified. It asks for a toy model demonstrating token-level counterfactual influence, exact marginal preservation, compatibility with neural dynamics and no signalling. The target article should report that result prominently. [apex/born-preserving-causal-efficacy](https://unfinishablemap.org/apex/born-preserving-causal-efficacy/)
 
 ## 6. Conservation is asserted more strongly than the argument supports
 
-The article categorically rules out **“thermodynamic violations”**. [The Unfinishable Map](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
+The article categorically rules out **“thermodynamic violations”**. [topics/consciousness-and-causal-powers](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
 
 Its supporting argument considers selection among exactly energy-degenerate alternatives. But no evidence is given that the neural alternatives relevant to spiking, vesicle release, channel gating or network stabilisation are exactly degenerate. Real alternatives can differ in local energy, momentum, currents, entropy production and correlations even where ensemble expectations satisfy a conservation equation.
 
@@ -172,7 +219,7 @@ Three propositions must be distinguished:
 
 The first does not entail the second, and neither entails the third. A context-sensitive selector could correlate choices with macroscopic conditions and thereby act like an information-powered controller or Maxwell-demon-like resource. Preserving an unconditioned Born marginal would not automatically prevent such conditioned correlations.
 
-The Map’s conservation article was revised after the target page and now says substantially this: per-trial alternatives may not be degenerate; ensemble balance is weaker than thermodynamic innocence; and a selector may require an extractable-work audit. It also recognises that a Zeno process in a thermally coupled brain is dynamically and thermodynamically active. That directly contradicts the target article’s categorical exclusion of thermodynamic debt. [The Unfinishable Map+1](https://unfinishablemap.org/concepts/conservation-laws-and-mental-causation/)
+The Map’s conservation article was revised after the target page and now says substantially this: per-trial alternatives may not be degenerate; ensemble balance is weaker than thermodynamic innocence; and a selector may require an extractable-work audit. It also recognises that a Zeno process in a thermally coupled brain is dynamically and thermodynamically active. That directly contradicts the target article’s categorical exclusion of thermodynamic debt. [concepts/conservation-laws-and-mental-causation](https://unfinishablemap.org/concepts/conservation-laws-and-mental-causation/)
 
 This is not a fatal objection to every possible interactionist model. It is a reason to replace the categorical assurance with a constraint:
 
@@ -194,7 +241,7 @@ The proposal still owes answers to:
 
 Recent dualist literature treats pairing and neural discernment as independent problems, and current work on the timing problem shows that escaping exclusion does not by itself explain temporally appropriate mental influence. [Springer+3Compass Hub+3Springer+3](https://compass.onlinelibrary.wiley.com/doi/pdf/10.1111/phc3.70109)
 
-The newer quantum-interface register correctly states that nominating neural quantum events does not provide spatial localisation. Yet the target article continues to infer locality and ownership from the restriction. The target should be conformed to the newer, more cautious position. [The Unfinishable Map](https://unfinishablemap.org/positions/quantum-interface/)
+The newer quantum-interface register correctly states that nominating neural quantum events does not provide spatial localisation. Yet the target article continues to infer locality and ownership from the restriction. The target should be conformed to the newer, more cautious position. [positions/quantum-interface](https://unfinishablemap.org/positions/quantum-interface/)
 
 The unity assumption is also not a minor background commitment. If one subject is supposed to coordinate multiple distributed interventions, the proposal must specify whether that coordination is itself a further causal power, a psychophysical law or an unexplained global constraint. Bayne and Schechter are relevant to the phenomenology and structure of unity, but they do not provide the needed physical or psychophysical implementation.
 
@@ -202,7 +249,7 @@ The unity assumption is also not a minor background commitment. If one subject i
 
 ### 8.1 Introspection
 
-The article attributes to Nisbett and Wilson behaviour which subjects did not **“consciously initiate”**. [The Unfinishable Map+1](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
+The article attributes to Nisbett and Wilson behaviour which subjects did not **“consciously initiate”**. [topics/consciousness-and-causal-powers](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
 
 That is stronger than their result. Nisbett and Wilson argued that people often lack direct introspective access to higher-order cognitive processes and may explain their responses using implicit causal theories. Their experiments did not generally establish that the behaviours themselves lacked conscious initiation. The article has converted an epistemic claim about access to causes into an ontological claim about absence of conscious causation. [Psychology Department](https://www2.psych.ubc.ca/~schaller/528Readings/NisbettWilson1977.pdf)
 
@@ -214,13 +261,13 @@ Recent agency research further distinguishes sensitivity to agency evidence from
 
 ### 8.2 Evolution
 
-The article says consciousness must have **“affected fitness”** if selected. [The Unfinishable Map+1](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
+The article says consciousness must have **“affected fitness”** if selected. [topics/consciousness-and-causal-powers](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
 
 The conditional is unobjectionable; its application is not. What natural selection directly discriminates is heritable variation in reproductive success. If a neural organisation both produces adaptive behaviour and is psychophysically accompanied by consciousness, the neural organisation can be selected while consciousness covaries as a byproduct. The interactionist must show that variation in phenomenal properties, holding the relevant physical organisation suitably fixed, made a difference to fitness.
 
 Otherwise the argument assumes exactly what it is intended to establish: that consciousness, rather than its physical correlate, is the selected causal trait.
 
-The site’s dedicated evolutionary article now adopts a more accurate formulation: the evolutionary argument works only if consciousness itself was selected rather than hitchhiking on selected physical functions, and is therefore suggestive rather than demonstrative. That qualification should replace the stronger target-page inference. [The Unfinishable Map](https://unfinishablemap.org/topics/evolutionary-case-for-mental-causation/)
+The site’s dedicated evolutionary article now adopts a more accurate formulation: the evolutionary argument works only if consciousness itself was selected rather than hitchhiking on selected physical functions, and is therefore suggestive rather than demonstrative. That qualification should replace the stronger target-page inference. [topics/evolutionary-case-for-mental-causation](https://unfinishablemap.org/topics/evolutionary-case-for-mental-causation/)
 
 ### 8.3 Comparative cognition
 
@@ -228,11 +275,11 @@ Humans and great apes are not a useful conscious-versus-unconscious contrast. Bo
 
 The relevant evidence would need to compare cognitive performance across conditions where conscious availability varies while task competence, sensory input, learning and relevant neural resources are controlled. Even then, it would show a functional role for globally available processing, not immediately a nonphysical contribution.
 
-Because the article itself recognises contested dual-process and cognitive-load interpretations, comparative evidence should not be described as part of the load-bearing case. [The Unfinishable Map](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
+Because the article itself recognises contested dual-process and cognitive-load interpretations, comparative evidence should not be described as part of the load-bearing case. [topics/consciousness-and-causal-powers](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
 
 ### 8.4 Cognitive motor dissociation
 
-The article reports CMD in **“approximately 25%”** of behaviourally unresponsive patients. [The Unfinishable Map+1](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
+The article reports CMD in **“approximately 25%”** of behaviourally unresponsive patients. [topics/consciousness-and-causal-powers](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
 
 The number is approximately faithful to Bodien et al., but the denominator and inference need precision. The study examined a convenience sample of 353 patients with disorders of consciousness; among 241 who showed no observable command-following, 60 displayed task-dependent fMRI or EEG responses. The group included several behavioural diagnostic categories rather than a clean sample of unresponsive-wakefulness patients alone. [PubMed+1](https://pubmed.ncbi.nlm.nih.gov/39141852/)
 
@@ -245,11 +292,11 @@ More importantly, CMD is evidence that absence of motor command-following can co
 
 A physicalist predicts that a damaged motor-output channel can coexist with preserved language comprehension, attention and imagery networks. Even a strict epiphenomenalist can say that the neural cognitive processing continues and is accompanied by experience while failing to produce overt movement. CMD is clinically and morally important, but it does not discriminate the competing metaphysics.
 
-The Map’s own consciousness-disruption article recognises that the physicalist interpretation is coherent. Calling CMD the strongest clinical case against epiphenomenalism therefore exceeds what both the study and the neighbouring article support. [The Unfinishable Map](https://unfinishablemap.org/topics/consciousness-disruption-and-the-mind-brain-interface/)
+The Map’s own consciousness-disruption article recognises that the physicalist interpretation is coherent. Calling CMD the strongest clinical case against epiphenomenalism therefore exceeds what both the study and the neighbouring article support. [topics/consciousness-disruption-and-the-mind-brain-interface](https://unfinishablemap.org/topics/consciousness-disruption-and-the-mind-brain-interface/)
 
 ### 8.5 Pain asymbolia
 
-The article treats pain asymbolia as preservation of nociceptive detection without the relevant **“felt awfulness”**, using the dissociation to motivate an additional causal contribution from phenomenal valence. [The Unfinishable Map](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
+The article treats pain asymbolia as preservation of nociceptive detection without the relevant **“felt awfulness”**, using the dissociation to motivate an additional causal contribution from phenomenal valence. [topics/consciousness-and-causal-powers](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
 
 The clinical phenomenon is relevant, but the interpretation is contested. Griffith and Kind argue that the evidence does not straightforwardly establish pain without unpleasantness; some reported cases may involve nociceptive sensation that should not be classified as pain. Duval and Klein defend the opposing conclusion that it probably remains pain. Gerrans offers a physicalist allostatic/self-model account of the apparent separation between sensory registration, affect and behavioural concern. [Cambridge University Press+2Cambridge University Press+2](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/14D42EF12870DC9C6BA506F2C5F5AC5F/S0031824823001678a.pdf/div-class-title-pain-asymbolia-is-not-pain-div.pdf)
 
@@ -257,13 +304,13 @@ Even granting the article’s preferred interpretation, the dissociation establi
 
 ### 8.6 Felt effort and volition
 
-Brass and Haggard’s work on intentional inhibition and the whether component of action is relevant to the neural organisation of voluntary control. It does not constitute evidence that felt effort varies with a nonphysical causal contribution. The article itself admits that phenomenology is equally predicted by noradrenergic gain, attentional control and mesoscopic neural reverberation. Once that underdetermination is admitted, felt effort is not positive evidence for the Map unless an independent prediction distinguishes the accounts. [The Unfinishable Map+1](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
+Brass and Haggard’s work on intentional inhibition and the whether component of action is relevant to the neural organisation of voluntary control. It does not constitute evidence that felt effort varies with a nonphysical causal contribution. The article itself admits that phenomenology is equally predicted by noradrenergic gain, attentional control and mesoscopic neural reverberation. Once that underdetermination is admitted, felt effort is not positive evidence for the Map unless an independent prediction distinguishes the accounts. [topics/consciousness-and-causal-powers](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
 
 Overall, the empirical material supports the reality and functional importance of cognitive control, affective motivation, attention and covert cognition. It does **not** currently support irreducible phenomenal influence over quantum outcomes.
 
 ## 9. The luck problem and psychophysical mapping are deferred at the point where they become decisive
 
-The article anchors selections in desires, values and deliberation but says the further grounding is **“left open”**. [The Unfinishable Map+1](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
+The article anchors selections in desires, values and deliberation but says the further grounding is **“left open”**. [topics/consciousness-and-causal-powers](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
 
 This is not a peripheral problem. It is what distinguishes reason-responsive mental causation from unexplained randomness.
 
@@ -285,11 +332,11 @@ The article says that causal influence by phenomenal character grounds phenomena
 
 An experience can be intrinsically bad even if it has no effects. Conversely, a causally powerful mental property need not possess intrinsic value. Causal efficacy may explain why pain produces avoidance or why valence affects learning, but it does not establish that pain is bad in itself.
 
-The site’s more recent value articles adopt the better argument: value is grounded in phenomenal character or valenced experience, not in the causal power of that experience. The target page should therefore say that causal efficacy may connect phenomenal value to behaviour and selection, not that it grounds intrinsic ethical significance. [The Unfinishable Map+2The Unfinishable Map+2](https://unfinishablemap.org/topics/phenomenal-value-realism/)
+The site’s more recent value articles adopt the better argument: value is grounded in phenomenal character or valenced experience, not in the causal power of that experience. The target page should therefore say that causal efficacy may connect phenomenal value to behaviour and selection, not that it grounds intrinsic ethical significance. [topics/phenomenal-value-realism](https://unfinishablemap.org/topics/phenomenal-value-realism/)
 
 # Citation and literature audit
 
-The reference list contains only eight external works. Six predate 2020: Nisbett and Wilson 1977; Wegner 2002; Brass and Haggard 2007 and 2008; Bayne 2010; and Schechter 2018. The two recent entries are Bodien et al. 2024 and Torres Alegre’s initially 2025 preprint. That is inadequate for an article whose central subjects—probabilistic exclusion, interventionist causation, dualist responses to closure, quantum causal models, pain asymbolia and covert consciousness—have active 2020s literatures. [The Unfinishable Map](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
+The reference list contains only eight external works. Six predate 2020: Nisbett and Wilson 1977; Wegner 2002; Brass and Haggard 2007 and 2008; Bayne 2010; and Schechter 2018. The two recent entries are Bodien et al. 2024 and Torres Alegre’s initially 2025 preprint. That is inadequate for an article whose central subjects—probabilistic exclusion, interventionist causation, dualist responses to closure, quantum causal models, pain asymbolia and covert consciousness—have active 2020s literatures. [topics/consciousness-and-causal-powers](https://unfinishablemap.org/topics/consciousness-and-causal-powers/)
 
 | Citation or literature | Assessment |
 | --- | --- |
@@ -321,39 +368,39 @@ I found no clearly fabricated reference. The principal defects are **mischaracte
 
 ## Quantum-interface register
 
-The current register says the site has not spatially located the interface and that downstream anatomical claims import an unsupported premise. The target article still treats the restriction to one’s neural system as though it supplies localisation. The register should control the wording of the topic article, not coexist with a stronger claim. [The Unfinishable Map](https://unfinishablemap.org/positions/quantum-interface/)
+The current register says the site has not spatially located the interface and that downstream anatomical claims import an unsupported premise. The target article still treats the restriction to one’s neural system as though it supplies localisation. The register should control the wording of the topic article, not coexist with a stronger claim. [positions/quantum-interface](https://unfinishablemap.org/positions/quantum-interface/)
 
 ## Born-preserving causal efficacy
 
-The apex analysis says no available route has yet been shown both conservative and statistically efficacious, and specifies the requirements for a toy law. The target article instead moves rapidly from general probabilistic permission to a workable causal architecture. Its conclusion should inherit the apex’s unresolved status. [The Unfinishable Map+1](https://unfinishablemap.org/apex/born-preserving-causal-efficacy/)
+The apex analysis says no available route has yet been shown both conservative and statistically efficacious, and specifies the requirements for a toy law. The target article instead moves rapidly from general probabilistic permission to a workable causal architecture. Its conclusion should inherit the apex’s unresolved status. [apex/born-preserving-causal-efficacy](https://unfinishablemap.org/apex/born-preserving-causal-efficacy/)
 
 ## Conservation laws
 
-The updated conservation treatment explicitly denies that equal ensemble energy or Born-marginal preservation automatically establishes thermodynamic harmlessness. The target article retains the superseded categorical assurance. [The Unfinishable Map+1](https://unfinishablemap.org/concepts/conservation-laws-and-mental-causation/)
+The updated conservation treatment explicitly denies that equal ensemble energy or Born-marginal preservation automatically establishes thermodynamic harmlessness. The target article retains the superseded categorical assurance. [concepts/conservation-laws-and-mental-causation](https://unfinishablemap.org/concepts/conservation-laws-and-mental-causation/)
 
 ## Quantum completeness
 
-The changelog records a correction from treating incompleteness as requiring an extra selector to treating it as merely leaving room for one; GRW/CSL and de Broglie–Bohm are named as conventional completions. The target’s rhetoric still presents the Map’s selector as one inevitable kind of addition comparable to Everettian branching. That creates a false parity: an interpretation of quantum mechanics and a consciousness-conditioned psychophysical intervention carry different explanatory and empirical commitments. [The Unfinishable Map](https://unfinishablemap.org/workflow/changelog/)
+The changelog records a correction from treating incompleteness as requiring an extra selector to treating it as merely leaving room for one; GRW/CSL and de Broglie–Bohm are named as conventional completions. The target’s rhetoric still presents the Map’s selector as one inevitable kind of addition comparable to Everettian branching. That creates a false parity: an interpretation of quantum mechanics and a consciousness-conditioned psychophysical intervention carry different explanatory and empirical commitments. [workflow/changelog](https://unfinishablemap.org/workflow/changelog/)
 
 ## Overdetermination and closure
 
-The neighbouring overdetermination article says exclusion dissolves because the physical candidate set and probabilities do not suffice for the token outcome. That repeats the stochastic-completeness error rather than resolving it. Both pages need a shared treatment of deterministic, probabilistic, interventionist, observational and influence closure. [The Unfinishable Map+1](https://unfinishablemap.org/topics/overdetermination-dissolution-under-selection-only-interactionism/)
+The neighbouring overdetermination article says exclusion dissolves because the physical candidate set and probabilities do not suffice for the token outcome. That repeats the stochastic-completeness error rather than resolving it. Both pages need a shared treatment of deterministic, probabilistic, interventionist, observational and influence closure. [topics/overdetermination-dissolution-under-selection-only-interactionism](https://unfinishablemap.org/topics/overdetermination-dissolution-under-selection-only-interactionism/)
 
 ## Evolutionary case
 
-The specialist article retains byproduct and hitchhiking objections and grades the result as suggestive. The target article presents the conclusion much more strongly. The specialist article’s qualification should propagate upward. [The Unfinishable Map](https://unfinishablemap.org/topics/evolutionary-case-for-mental-causation/)
+The specialist article retains byproduct and hitchhiking objections and grades the result as suggestive. The target article presents the conclusion much more strongly. The specialist article’s qualification should propagate upward. [topics/evolutionary-case-for-mental-causation](https://unfinishablemap.org/topics/evolutionary-case-for-mental-causation/)
 
 ## Consciousness disruption
 
-The specialist page recognises that preserved functional organisation and covert command-following are compatible with physicalism. The target article presents CMD as differential support for interactionism. That is a direct evidential-calibration mismatch. [The Unfinishable Map](https://unfinishablemap.org/topics/consciousness-disruption-and-the-mind-brain-interface/)
+The specialist page recognises that preserved functional organisation and covert command-following are compatible with physicalism. The target article presents CMD as differential support for interactionism. That is a direct evidential-calibration mismatch. [topics/consciousness-disruption-and-the-mind-brain-interface](https://unfinishablemap.org/topics/consciousness-disruption-and-the-mind-brain-interface/)
 
 ## Phenomenal value
 
-The September value articles ground intrinsic value in phenomenal valence. The target article instead makes causal efficacy the grounding relation. This should be corrected as a substantive contradiction, not merely fixed with an additional link. [The Unfinishable Map+1](https://unfinishablemap.org/topics/phenomenal-value-realism/)
+The September value articles ground intrinsic value in phenomenal valence. The target article instead makes causal efficacy the grounding relation. This should be corrected as a substantive contradiction, not merely fixed with an additional link. [topics/phenomenal-value-realism](https://unfinishablemap.org/topics/phenomenal-value-realism/)
 
 ## Workflow-level integration
 
-The changelog has already identified weak propagation and crosslinking in the formal-constraint wing, including only three realised links among 42 ordered article pairs in one audit. It also records cases where correcting a parent claim left dependent articles carrying the old formulation. The present article is another instance of that failure mode. [The Unfinishable Map+2The Unfinishable Map+2](https://unfinishablemap.org/workflow/changelog/)
+The changelog has already identified weak propagation and crosslinking in the formal-constraint wing, including only three realised links among 42 ordered article pairs in one audit. It also records cases where correcting a parent claim left dependent articles carrying the old formulation. The present article is another instance of that failure mode. [workflow/changelog](https://unfinishablemap.org/workflow/changelog/)
 
 # Final evaluation
 
@@ -413,3 +460,35 @@ The current article instead slides between **logical room, physical permission, 
 7. **Add specialist adversarial roles to review cycles.** At minimum include a probabilistic-closure theorist, an interventionist physicalist, a dualist who accepts physical self-sufficiency, a quantum open-systems physicist, a causal modeller and a thermodynamics reviewer.
 8. **Test conditioned as well as aggregate predictions.** Every Born-preserving proposal should specify intended subject-, task-, intention- and time-conditioned signatures rather than relying only on unconditioned agreement.
 9. **Run scheduled contradiction checks across the site.** The first targets should be spatial localisation, preferred quantum mechanism, thermodynamic innocence, evidential grading of CMD, evolutionary selection and the relation between causal efficacy and intrinsic value.
+
+## Verification Notes
+
+Every finding below was checked against the live corpus and, where an external
+claim was load-bearing, against the publisher of record rather than the
+reviewer's own inline citation chips (which are aggregator labels, not sources).
+All ten named neighbour loci resolved to live files; none was an archived
+article critiqued at a live URL.
+
+**Verified — findings that hold**
+
+- ✓ **The Zeno rate arithmetic is wrong, and the reviewer's figure is right.** Re-derived from the article's own numbers: coherence times $10^{-13}$–$10^{-20}$ s require observation rates of $10^{13}$–$10^{20}$ Hz; against 10–30 Hz attention that is **twelve to nineteen** orders of magnitude, not the "twelve to sixteen" the page states three times. The companion claim "$\geq 10^{13}$ Hz" also understates the fast end, which needs $\geq 10^{20}$ Hz. `git log -S` shows the sentence was born carrying both the $10^{-20}$ bound and the "sixteen" figure in commit `2d53d51aec` (2026-05-18 refine-draft), so this is an original arithmetic error, not a figure stranded by a later widening of the range. The figure has propagated to **five live loci across three articles** (this article ×3, `apex/phenomenology-of-consciousness-doing-work` ×1, `topics/consciousness-and-skill-acquisition` ×1).
+- ✓ **Thermodynamic innocence is asserted here and denied upstream.** This article (`ai_modified` 2026-08-27) states flatly "No new energy, no thermodynamic violations. Causal effects work through selection among energy-conserving alternatives." `concepts/conservation-laws-and-mental-causation` (`ai_modified` **2026-09-04**, i.e. revised after this page) says the opposite on both halves: "The identical-energy case is the simplest illustration, not the general one… outcomes A, B, and C may carry *different* energies", and "What preservation of the ensemble mean does *not* by itself establish is thermodynamic innocence", registering the extractable-work condition as open debt at mechanism-debt grade. A genuine stranded dependent.
+- ✓ **The ethical inference is inverted, and contradicts the article it cites.** This page argues from causal efficacy to value: "This grounds [[topics/phenomenal-value-realism]]—phenomenal properties having intrinsic ethical significance." `topics/phenomenal-value-realism` grounds intrinsic value in phenomenal character *by identity* (Rawlette: "When we feel pleasure, we are feeling intrinsic goodness itself") and, at its tenet section, in phenomenal irreducibility — never in causal power. The reviewer's philosophical point is also sound: an experience can be intrinsically bad with no effects.
+- ✓ **Nisbett and Wilson are over-read — and the over-read runs against the Map.** The page says they documented confabulation "for behaviour subjects did not consciously initiate". Their 1977 result concerns limited introspective *access* to cognitive processes and theory-based causal reporting; absence of conscious initiation is an ontological claim they did not establish. Note the direction: this is an over-concession to the anti-consciousness side, not an over-claim for the Map.
+- ✓ **Bodien denominator imprecise — but the 25% figure is CORRECT and must not be "fixed".** Verified at Europe PMC against the record of NEJM 391(7):598–608, doi 10.1056/nejmoa2400645: "we detected cognitive motor dissociation in 60 of the 241 participants (25%) without an observable response to commands", drawn from "a convenience sample of 353 adults with disorders of consciousness". So ~25% is faithful. What is imprecise is this page's framing of the denominator as patients "meeting behavioural criteria for unresponsive wakefulness": the 241 spanned mixed diagnostic categories defined by absence of observable command-following.
+- ✓ **The CMD evidential grade exceeds its own specialist page.** This page calls CMD "the strongest clinical exhibit against epiphenomenalism"; `topics/consciousness-disruption-and-the-mind-brain-interface` says the disruption evidence "is consistent with both the physicalist reading … and the Map's dualist reading" and favours the interface reading "by coherence rather than compulsion".
+- ✓ **Identity theory is strawmanned.** The "does all the work" framing treats identity theory as positing a neural cause *alongside* a phenomenal item and then allocating efficacy to the former. Identity theory says the conscious and neural event are one event under two descriptions, so the pain causes withdrawal *because* it is that process. The Map needs its separate anti-identity premise here, and `concepts/constitution-vs-causal-work` does not adjudicate the question.
+- ✓ **Genuine literature gap.** Gebharter and Sekatskaya's interventionist exclusion argument and Rellihan's interventionist analysis of higher-level causation appear in **0** content files; no page states closure in chance-fixing form ("does the complete physical state fix the chances?").
+
+**Disputed — findings refuted or split**
+
+- ✗ **The site-wide half of finding 1 is false.** The reviewer charges that "the site's dedicated closure article suffers from the same inference" and that both pages need correction. `concepts/causal-closure` carries a *named, argued* rebuttal of exactly this objection — "**The probabilistic causation response**: Some argue probabilistic causation is still causation… A probability distribution explains why *some atom* decayed, not why *this atom* did" — plus an explicit **observational-vs-universal closure** distinction and the **structural-vs-ontological completeness** distinction via `physical-completeness`. Saad's delegatory preemption, which is the reviewer's own option (3), appears in **45 content files**. The article-level half stands: *this* page compresses the matter to "probabilities, not certainties" without inheriting those distinctions. This is the fourth recurrence of the false-absence pattern in which the article-level gap is real and the corpus-level generalisation is not; the systemic half is declined.
+- ✗ **The localisation charge does not apply to this article.** `positions/quantum-interface` L39 does carry a "no spatial localization" scope limit, but it bites "arguments turning on which *sites* an intervention bypasses or preserves". This page's restriction is a *coupling-domain* claim — "No direct influence outside the neural systems to which consciousness is coupled" — and names no neuroanatomical site. The reviewer conflates a domain restriction with a spatial-localisation claim.
+- ✗ **The "protective firewall" charge is largely answered by the register the page already cites.** Findings 3 and 5 argue the architecture is insulated from its candidates' failures. This page explicitly prices the debt: it cites `positions/quantum-interface#^mechanism-debt` and grades itself "framework-coherence-supported, operationally undiscriminable by unconditioned aggregate test". The mechanism-debt convention is carried, not evaded. Only a narrow residue holds — the mechanism *hierarchy* (post-decoherence preference, P-Q1) is not reflected in §"Sustained Attention", which still leads with Zeno.
+- ✗ **Torres Alegre is not misdated.** Verified against the arXiv record for 2512.12636: "Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories", Enso O. Torres Alegre, **published 2025-12-14**, v3 updated 2026-02-04. The page's "(2025)" is the correct original-posting year, the author initials are right, and the citation is already double-hedged ("not yet independently confirmed"; "arXiv preprint, not yet peer-reviewed"). Pinning the version would be a nicety, not a correction. The reviewer's related worry that the Map overclaims the result is also unfounded — the corpus treats it as an unrefereed compatibility result.
+- ✗ **A prior in-house stability note ratifies the arithmetic error.** `reviews/deep-review-2026-05-28-interface-friction.md` asserts that "the larger twelve-to-sixteen-order figure is corpus-correct only when paired with attentional rates" — which is precisely the pairing under which it is *wrong*. Any fix must correct that note too, or a later review will restore the error on its authority.
+
+**Not verified**
+
+- ? Cucu on consciousness-collapse and the Griffith and Kind / Duval and Klein / Gerrans pain-asymbolia exchange were not fetched; the pain-asymbolia dispute is recorded as a symmetry recommendation rather than an established misattribution.
+- ? The reviewer's own conclusion that it "found no clearly fabricated reference" is consistent with every citation checked here.

@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-07T03:38:52+00:00'
+ai_modified: '2026-09-07T03:56:07+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-07T03:56:07+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`, Pro effort)
+- **File**: [[reviews/outer-review-2026-09-07-chatgpt-5-6-sol-pro]]
+- **Subject**: `topics/consciousness-and-causal-powers` (subject_type `recent`, source `fallback:recent-aged`) — first outer review this article has ever had.
+- **Extraction**: js-dom via page-side Blob; **raw and whitespace-normalised SHA-256 matched on both sides** (`bbe8eb27…`), 49,521 chars transferred losslessly. Output truncation capped inline chunks at ~1000 chars, so the ~50-round-trip chunk path was abandoned for the Blob.
+- **Claims verified**: 12 — 8 held, 4 refuted. Publisher-of-record checks: Bodien et al. 2024 at Europe PMC (NEJM 391(7):598–608, doi 10.1056/nejmoa2400645) and Torres Alegre at the arXiv API (2512.12636v3). All ten named neighbour loci resolved to live files; no archived-article-at-live-URL confusion.
+- **High-value findings**: 8. The three sharpest: (1) a **re-derived arithmetic error** — the Zeno gap is twelve to *nineteen* orders of magnitude on the page's own $10^{-13}$–$10^{-20}$ s range against 10–30 Hz, not "twelve to sixteen", wrong at creation in commit `2d53d51aec` and now at **five live loci across three articles**; (2) a **stranded dependent** — the page's categorical "no thermodynamic violations" is contradicted by `concepts/conservation-laws-and-mental-causation`, revised 2026-09-04 *after* it, which denies that ensemble-mean preservation establishes thermodynamic innocence; (3) an **inverted grounding** — the ethics paragraph derives intrinsic value from causal efficacy while `topics/phenomenal-value-realism` grounds it in phenomenal character by identity.
+- **Refuted** (recorded in the review's Verification Notes so the synthesis pass excludes them from convergence counting): the **site-wide** half of the closure charge — `concepts/causal-closure` already carries a named "probabilistic causation response" plus observational-vs-universal and structural-vs-ontological distinctions, and Saad's delegatory preemption appears in 45 content files (fourth recurrence of the article-level-gap-real / corpus-level-claim-false pattern, systemic half declined); the **spatial-localisation** charge, which conflates this page's coupling-domain restriction with a neuroanatomical-site claim the `positions/quantum-interface` scope limit actually targets; the **"protective firewall"** charge, largely answered by the mechanism debt the page already cites and prices; and the **Torres Alegre misdating** charge — arXiv confirms published 2025-12-14, so "(2025)" is the correct original-posting year and the cite is already double-hedged.
+- **Also surfaced**: `reviews/deep-review-2026-05-28-interface-friction.md` carries a stability note ratifying the wrong figure as "corpus-correct", which would restore the error on its own authority if not corrected alongside.
+- **Tasks generated**: 3 (P1: 2, P2: 1) — consolidated deliberately. Five defects share one file, so they were folded into a single P1 refine-draft pass rather than minted separately; the cross-file figure sweep took its own P1 (different files, plus the stability-note correction), and the one genuine literature gap (Gebharter & Sekatskaya, Rellihan, chance-fixing closure — 0 content files each) took a P2 research-topic. No existing open task targeted this article's defects, so nothing was folded.
+- **Published**: pending next sync
 
 ## 2026-09-07T03:38:48+00:00 - refine-draft
 - **Status**: Success
