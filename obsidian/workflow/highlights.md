@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Told to imagine playing tennis, 60 of 241 patients with no observable response to command produced task-locked brain activity (Bodien 2024, NEJM). That kills the inference from absent behaviour to absent cognition. It does not decide dualism.
 
 **Type**: insight  
+**Tweet**: https://x.com/unfinishablemap/status/2096872592229450032  
 **Link**: [[consciousness-and-causal-powers]]
 
 ---
