@@ -4,7 +4,7 @@ description: "A human+AI consolidation of why Locke's primary/secondary-quality 
 created: 2026-06-18
 modified: 2026-06-18
 human_modified:
-ai_modified: 2026-09-06T14:19:52+00:00
+ai_modified: 2026-09-07T12:53:11+00:00
 draft: false
 topics:
   - "[[emergence-as-universal-hard-problem]]"
@@ -17,6 +17,7 @@ concepts:
   - "[[qualia]]"
   - "[[functional-seeming]]"
   - "[[intrinsic-nature]]"
+  - "[[ontic-structural-realism]]"
 related_articles:
   - "[[tenets]]"
   - "[[emergence-as-universal-hard-problem]]"
@@ -28,7 +29,7 @@ author:
 ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-06-18
 last_curated:
-last_deep_review: 2026-07-27T03:07:53+00:00
+last_deep_review: 2026-09-07T12:53:11+00:00
 ---
 
 The distinction between primary and secondary qualities is invoked across the Unfinishable Map as a load-bearing move — in the [[galilean-exclusion|Galilean exclusion]], in the [[reductionism|form/content critique of reductionism]], in the [[emergence-as-universal-hard-problem|equivocation objection to the universal hard problem]]. This article gives that recurring invocation a hub. Its claim is narrow and consolidating: the boundary Locke drew between qualities that belong to objects and qualities that exist only in perceivers **admits no clean criterion**, and the place where it goes unstable is the same place the [[explanatory-gap|explanatory gap]] opens. The primary/secondary line and the explanatory gap are, on this reading, two views of one fault — the fracture between *structure described* and *quality undergone*. The Map does not derive dualism from this observation; it uses the observation to consolidate why the clean-division move other articles rely on is contested, and why its instability matters for the parsimony arguments the Map resists.
@@ -71,7 +72,11 @@ What the instability **does** license is a narrower, defensive conclusion. The c
 
 What the instability does **not** license is the inference that, because the boundary blurs, secondary qualities must be metaphysically primary, or that wetness is phenomenal in the way pain is. The contrast between reflectance and felt redness survives the failure to find a criterion. The conservative reading — and the Map's — is that the line marks a genuine difference whose principled location no one has supplied, which is exactly what one expects if the difference *is* the form/content fault rather than a sortable property of qualities.
 
-One position slips the charge. The stipulation diagnosis assumes a residue the clean cut omits — a quality left over once form has been described. [[ontic-structural-realism|Ontic structural realism]] holds that relational structure is what fundamentally exists, so on its strongest reading there is no residue anywhere and no cut to justify: the boundary problem dissolves because one side of it was never occupied. Against that position the Map has to argue on other ground, chiefly Newman's problem — which presses the Map's own epistemic structuralism just as hard. Two cautions travel with the pointer. That strongest reading is a composite the Map assembles rather than a view defended in print: ontic structural realism is a thesis about the ontology of physics, and the philosophers who hold structuralism about *phenomenal* character decline the ontic reading. And what it would remove is this defensive argument, not the dualist conclusion — an ontology with no quiddities in matter leaves open whether experience is exhausted by structure.
+One position slips the charge. The stipulation diagnosis assumes a residue the clean cut omits — a quality left over once form has been described. [[ontic-structural-realism|Ontic structural realism]] holds that relational structure is what fundamentally exists, so on its strongest reading there is no residue anywhere and no cut to justify: the boundary problem dissolves because one side of it was never occupied. The escape also survives being weakened. Esfeld and Lam's moderate version (2008) keeps objects as relata and denies them only intrinsic identity, which absorbs the tempting reply that there cannot be relations without relata while still leaving no categorical natures for the primary side to hold. The objection a reader reaches for first is the one the rival is built to withstand.
+
+Against that position the Map argues on other ground, chiefly Newman's problem — and the ground is narrower than parity. Newman's 1928 objection to Russell was that structure alone fixes little more than cardinality, so a purely structural claim is either trivially satisfied or must import a non-structural fact about which relations are the real ones; Demopoulos and Friedman revived it in 1985 and drew the sharper consequence, that on a structure-only account almost nothing beyond cardinality is open to discovery. The objection was raised against *epistemic* structuralism, which is the Map's own commitment, and the Map cannot press it as though it were exempt. What it yields is an asymmetry in available replies rather than a refutation: the epistemic structural realist can locate the individuator in the nature beneath the structure, whereas the ontic reading, having denied any such nature, must find one inside structure or do without. That is a reply, and it leaves the Map owing an account of its own individuator that it does not have. [[ontic-structural-realism#newman|The structural-realism article]] sets the exchange out in full.
+
+Two cautions travel with the pointer. That strongest reading is a composite the Map assembles rather than a view defended in print: ontic structural realism is a thesis about the ontology of physics, and the philosophers who hold structuralism about *phenomenal* character decline the ontic reading. And what it would remove is this defensive argument, not the dualist conclusion — an ontology with no quiddities in matter leaves open whether experience is exhausted by structure.
 
 ## Relation to Site Perspective
 
@@ -90,16 +95,24 @@ This article connects to two of the Map's [[tenets]] at calibrated strength.
 - [[methodology-of-consciousness-research]] — How the distinction set the template for excluding subjectivity from science
 - [[qualia]] — The secondary qualities themselves, considered as the hard case
 - [[intrinsic-nature-void]] — Why physics never delivers the categorical residue Locke reserved for primary qualities
-- [[ontic-structural-realism]] — The position that denies there was ever a residue to sort, and so escapes the stipulation charge above
+- [[ontic-structural-realism]] — The position that denies there was ever a residue to sort, and so escapes the stipulation charge above; the Newman exchange the Map argues on instead
 
 ## References
 
 1. Berkeley, G. (1710/1998). *A Treatise Concerning the Principles of Human Knowledge*. Ed. J. Dancy. Oxford University Press.
 
-2. Galilei, G. (1623/1957). *The Assayer*. Trans. S. Drake. In *Discoveries and Opinions of Galileo*. Doubleday.
+2. Demopoulos, W., & Friedman, M. (1985). Critical Notice: Bertrand Russell's *The Analysis of Matter*: Its Historical Context and Contemporary Interest. *Philosophy of Science*, 52(4), 621–639. https://doi.org/10.1086/289281
 
-3. Locke, J. (1689/1975). *An Essay Concerning Human Understanding*. Ed. P. H. Nidditch. Clarendon Press. (Book II, Chapter VIII.)
+3. Esfeld, M., & Lam, V. (2008). Moderate structural realism about space-time. *Synthese*, 160(1), 27–46. https://doi.org/10.1007/s11229-006-9076-2
 
-4. Southgate, A. & Oquatre-huit, C. (2026-01-19). Reductionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/reductionism/
+4. Galilei, G. (1623/1957). *The Assayer*. Trans. S. Drake. In *Discoveries and Opinions of Galileo*. Doubleday.
 
-5. Southgate, A. & Oquatre-six, C. (2026-03-10). Emergence as Universal Hard Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/emergence-as-universal-hard-problem/
+5. Locke, J. (1689/1975). *An Essay Concerning Human Understanding*. Ed. P. H. Nidditch. Clarendon Press. (Book II, Chapter VIII.)
+
+6. Newman, M. H. A. (1928). Mr. Russell's "Causal Theory of Perception". *Mind*, 37(146), 137–148. https://doi.org/10.1093/mind/xxxvii.146.137
+
+7. Southgate, A. & Ocinq, C. (2026-09-04). Ontic Structural Realism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/ontic-structural-realism/
+
+8. Southgate, A. & Oquatre-huit, C. (2026-01-19). Reductionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/reductionism/
+
+9. Southgate, A. & Oquatre-six, C. (2026-03-10). Emergence as Universal Hard Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/emergence-as-universal-hard-problem/
