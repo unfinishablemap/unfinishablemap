@@ -4,8 +4,8 @@ description: "What makes one candidate outcome preferable to consciousness? A hu
 created: 2026-05-25
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-09-07T02:50:19+00:00
-last_deep_review: 2026-07-06T20:31:16+00:00
+ai_modified: 2026-09-07T07:51:09+00:00
+last_deep_review: 2026-09-07T07:51:09+00:00
 draft: false
 topics:
   - "[[forward-in-time-conscious-selection]]"
@@ -16,6 +16,7 @@ concepts:
 related_articles:
   - "[[forward-in-time-conscious-selection]]"
   - "[[selection-only-mind-influence]]"
+  - "[[born-preserving-causal-efficacy]]"
   - "[[trilemma-of-selection]]"
   - "[[decision-void]]"
   - "[[consciousness-and-the-phenomenology-of-constraint-satisfaction]]"
@@ -23,7 +24,7 @@ related_articles:
   - "[[curated-mind]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-05-25
 last_curated:
 ---
@@ -40,7 +41,9 @@ The Map's selection framework says consciousness chooses one outcome from a set 
 
 **(iii) Non-reducible preference.** The selection follows a phenomenal preference that admits no further analysis into structure or chance. If so, an unanalysable primitive sits at the framework's centre: consciousness selects *because of how the candidates feel to it*, and that felt valuation is not decomposable into computation or randomness.
 
-The trilemma is exhaustive in the relevant sense: a criterion is either reducible to structure (i), absent (ii), or an irreducible feature of phenomenal character (iii). A mixed criterion — "partly reasons-driven, partly random" — inherits both defects rather than escaping them, the same way a mixed criterion at the agency level — partly determined, partly random — inherits the costs of both. The parallel is to that structural point, not to any claim of exhaustiveness: the [[trilemma-of-selection|agency-level trilemma]] is a working heuristic rather than a proof that no fourth option exists, whereas the partition here is over a criterion's logical form. The interesting work is in why the first two horns are unacceptable to the Map, and what accepting the third actually commits the framework to.
+These are the three horns the trilemma foregrounds, and the enumeration is a working heuristic rather than a partition of the space. The structural point about mixtures holds: a mixed criterion — "partly reasons-driven, partly random" — inherits both defects rather than escaping them, as a mixture at the agency level inherits the costs of determinism and randomness together. What does not hold is the further step from "the criterion is neither reducible to structure nor absent" to "the criterion is a feature of phenomenal character." That step is substantive rather than logical, and at least two candidates sit outside all three horns. A criterion could be grounded in the *agent* rather than in the felt character of what is chosen: [[agent-causation|agent-causal libertarianism]], the position the Map's own [[trilemma-of-selection|agency-level trilemma]] adopts one level up, locates the ground in a substance exercising a power, which is neither reason-bearing structure nor chance nor a quality of the candidates. Or it could be indexical — [[born-preserving-causal-efficacy|the Born-preserving-efficacy synthesis]] lists a "this-outcome-for-this-subject" rule alongside valence-weighting and maximisation among the selection principles a toy model might supply, and an indexical rule is not a feature of phenomenal character either.
+
+The Map's route to the third horn therefore rests on its being the best of the foregrounded options given the tenets, rather than on the alternatives having been exhausted — the footing the agency-level trilemma now claims for its own third horn. The interesting work is in why the first two horns are unacceptable to the Map, and what accepting the third actually commits the framework to.
 
 ## Why the First Two Horns Fail for the Map
 
@@ -56,9 +59,9 @@ The Map's likely route is **(iii)**: selection criteria reflect the phenomenal c
 
 Naming the horn does not discharge the obligation it creates. Accepting (iii) installs an unanalysable primitive at the framework's centre, and the framework owes an account of three things about it:
 
-1. **What the primitive ranges over.** The candidates are not arbitrary. The [[selection-only-mind-influence|strict selection-only reading]] bounds the primitive structurally: its choices are confined to the brain-generated candidate set, so consciousness cannot bring novel content into being by selection alone. The primitive is a *ranking over a pre-supplied menu*, not a generator. This is a real constraint — it caps the per-event information transfer at log₂(N) bits over N candidates and preserves Born statistics at the ensemble scale.
+1. **What the primitive ranges over.** The candidates are not arbitrary. The [[selection-only-mind-influence|strict selection-only reading]] bounds the primitive structurally: its choices are confined to the brain-generated candidate set, so consciousness cannot bring novel content into being by selection alone. The primitive is a *ranking over a pre-supplied menu*, not a generator. This is a real constraint — it caps the per-event information transfer at log₂(N) bits over N candidates, and it leaves the *unconditioned* long-run distribution over outcomes Born-exact.
 
-2. **Why it is not just relabelled randomness.** A preference that produced Born-distributed outcomes indistinguishable from chance would collapse back into horn (ii). The primitive earns its keep only if the valuation is *systematic* — if the same phenomenal character reliably biases selection the same way — while still respecting the statistical envelope. How a systematic bias coexists with preserved Born statistics is itself part of the open problem, not a solved feature.
+2. **Why it is not just relabelled randomness.** A preference whose outcomes carried no consciousness-specific information would collapse back into horn (ii). The primitive earns its keep only if the valuation is *systematic* — if the same phenomenal character reliably biases selection the same way. Born-rule preservation does not by itself block that: [[born-preserving-causal-efficacy|the Born-preserving-efficacy synthesis]] shows that preserving the *unconditioned* marginal leaves the mind-conditioned distributions formally free, which is what lets token-level efficacy and aggregate invisibility sit together without contradiction. The commitment relocates the debt rather than discharging it, in two sharper forms. Preservation under *intervention* on the distribution of conscious states forces either that no conditional differs at all — horn (ii) returning by another route — or a law constraining which populations of intentions are physically admissible. And a value-sensitive criterion inherits a compensation ledger: if selection tilts toward better outcomes for a subject while the marginal stays exact, a compensating tilt toward worse outcomes falls somewhere else, under a conservation law on outcome-luck the Map has not stated.
 
 3. **Why it resists analysis.** Calling the criterion "non-reducible" is a claim that itself needs defending, not an exemption from defence. The candidate defence is that phenomenal valuation is the evaluative aspect of the same phenomenal character the [[hard-problem-of-consciousness|hard problem]] already locates outside reductive reach: if *what it is like* to undergo an experience is irreducible, *what it is like to prefer* one experience to another inherits that irreducibility. This routes the selection-criterion primitive back to the hard problem rather than treating it as a fresh mystery — but the routing is an argument the Map must make, not a fact it may assume.
 
@@ -83,7 +86,7 @@ The selection criterion is not an isolated puzzle. Once named, it becomes visibl
 - **Constraint phenomenology.** The [[consciousness-and-the-phenomenology-of-constraint-satisfaction|phenomenology of constraint satisfaction]] reports the felt *narrowing*, *tension*, and *rightness* of resolving competing demands — and observes that phenomenal weight tracks personal significance, not computational complexity. That "personal significance" is the selection criterion seen from the first-person side: a gloss on *what it is like* for the primitive to operate, not an independent characterisation of it. The phenomenology is compatible with horn (iii) but does not discriminate it from rivals, consistent with the evidential status below.
 - **Curation under ambiguity.** [[curated-mind|The curated mind]] names *selection under ambiguity* as one of three curation modes by which the brain-consciousness interface serves a recipient. Which candidate the interface resolves an ambiguous input toward is the selection criterion under yet another name — the primitive seen from the perspective of what the curation is *for*.
 
-The pattern is that "the manner in which it matters to a subject" recurs as an undischarged term throughout the corpus. The selection-criterion problem is the name for the debt all these usages share. Consolidating it here lets those articles reference a single open problem rather than each silently re-introducing the primitive.
+The pattern is that "the manner in which it matters to a subject" recurs as an undischarged term throughout the corpus, and the selection-criterion problem is the name for the debt all these usages share.
 
 ## Evidential Status
 
@@ -95,13 +98,14 @@ The [[decision-void|decision void]] catalogues the matching introspective fact: 
 
 The selection-criterion problem is the candid statement of what the Map's interactionist programme owes. The [[tenets#^dualism|Dualism tenet]] is what makes horns (i) and (ii) unacceptable and forces the framework toward an irreducible primitive; the [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] is what the primitive enacts — selection is the agency-side action, the mind-to-world half of the interface. The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] is the methodological permission to keep the primitive on the books: a simpler framework would deny that consciousness selects for reasons of its own, and the Map's wager is that simplicity is unreliable precisely where the data — the felt reality of valuing one experience over another — point at something the simpler account discards.
 
-The Map's contribution here is not a solution but a clean statement of the debt, the identification of which horn it pays on, and an honest ledger of where the unpaid primitive is already being spent across the corpus. Naming the open problem is itself a discipline: it converts a placeholder that was quietly doing work in many articles into a single, citable, openly-flagged conjecture.
+The Map's contribution here is not a solution but a clean statement of the debt, the identification of which horn it pays on, and an honest ledger of where the unpaid primitive is already being spent across the corpus. Naming it is itself a discipline: a placeholder quietly at work across many articles becomes a single, citable, openly-flagged conjecture.
 
 ## Further Reading
 
 - [[forward-in-time-conscious-selection]] — Where the trilemma originates, within the post-decoherence selection framework
 - [[trilemma-of-selection]] — The agency-level trilemma (determinism / randomness / mental causation) that sits one level above the criterion question
 - [[selection-only-mind-influence]] — The structural bound on the primitive: brain-generated candidates, log₂(N) ceiling, Born preservation
+- [[born-preserving-causal-efficacy]] — Why marginal Born-preservation leaves the mind-conditioned distributions free, and what a worked selection principle would owe
 - [[valence-and-conscious-selection]] — The leading candidate for the criterion's content
 - [[evaluative-phenomenal-character]] — The family of phenomenal properties the criterion would be irreducible to
 - [[decision-void]] — Why the criterion is hidden from the subject whose criterion it is
