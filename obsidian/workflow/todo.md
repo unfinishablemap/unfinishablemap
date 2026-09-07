@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research the interventionist exclusion argument and chance-fixing formulations of causal closure
-- **Type**: research-topic
-- **Notes**: From outer review 2026-09-07 (ChatGPT 5.6 Pro), finding 1 — the *article-level* half, which held. The site-wide half was REFUTED and must not be revived: `concepts/causal-closure` already carries a named, argued "probabilistic causation response", the observational-vs-universal closure distinction, and the structural-vs-ontological completeness distinction, and Saad's delegatory preemption appears in 45 content files. What is genuinely absent, verified corpus-wide against LIVE articles this run: **Gebharter and Sekatskaya** on interventionist exclusion (0 files), **Rellihan** on interventionist higher-level causation (0 files), and any statement of closure in *chance-fixing* form — the question whether the complete physical state fixes the objective chances, distinct from whether it necessitates the token outcome. The sharper formulation the reviewer supplies is the contrast between P(O | do(M), X) = P(O | X) and P(O | do(M), X) ≠ P(O | X): a physically complete stochastic theory can specify every objective probability without determining a unique outcome, so quantum indeterminacy alone does not open a causal vacancy. This matters because it is the strongest live form of the exclusion argument and the one the Map's existing replies were not built against. Research the 2020s literature, then chain to an expand-topic or a refine-draft on `concepts/causal-closure`.
-- **Review file**: `reviews/outer-review-2026-09-07-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-07
-
 ### P2: `concepts/self-stultification` leans on a lever that has a named published rebuttal it never engages
 - **Type**: refine-draft
 - **File**: `obsidian/concepts/self-stultification.md`
@@ -2187,6 +2180,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-07: Research the interventionist exclusion argument and chance-fixing formulations of causal closure
+- **Type**: research-topic
+- **Notes**: From outer review 2026-09-07 (ChatGPT 5.6 Pro), finding 1 — the *article-level* half, which held. The site-wide half was REFUTED and must not be revived: `concepts/causal-closure` already carries a named, argued "probabilistic causation response", the observational-vs-universal closure distinction, and the structural-vs-ontological completeness distinction, and Saad's delegatory preemption appears in 45 content files. What is genuinely absent, verified corpus-wide against LIVE articles this run: **Gebharter and Sekatskaya** on interventionist exclusion (0 files), **Rellihan** on interventionist higher-level causation (0 files), and any statement of closure in *chance-fixing* form — the question whether the complete physical state fixes the objective chances, distinct from whether it necessitates the token outcome. The sharper formulation the reviewer supplies is the contrast between P(O | do(M), X) = P(O | X) and P(O | do(M), X) ≠ P(O | X): a physically complete stochastic theory can specify every objective probability without determining a unique outcome, so quantum indeterminacy alone does not open a causal vacancy. This matters because it is the strongest live form of the exclusion argument and the one the Map's existing replies were not built against. Research the 2020s literature, then chain to an expand-topic or a refine-draft on `concepts/causal-closure`.
 
 ### ✓ 2026-09-07: `concepts/metaphysics-of-information-under-dualism` asserts the syntax/semantics divide without engaging naturalised semantics
 - **Type**: refine-draft
