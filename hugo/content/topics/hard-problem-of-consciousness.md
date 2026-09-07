@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-08-02 07:18:56+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-07 03:33:20+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[minimal-consciousness]]'
@@ -61,7 +61,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 01:20:36+00:00
-lastmod: 2026-08-02 07:18:56+00:00
+lastmod: 2026-09-07 03:33:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -184,19 +184,19 @@ Research on [neural correlates of consciousness (NCC)](/concepts/neural-correlat
 
 See [materialism](/concepts/materialism/) for detailed treatment of each position.
 
-### Substrate Independence Fails
+### Substrate Independence Undercut, Not Refuted
 
-If the explanatory gap is real, [substrate independence](/concepts/substrate-independence/) is false. Functional organization supervenes on physical arrangements—if physical facts don't explain phenomenal facts, neither does functional organization.
+The explanatory gap undercuts [substrate independence](/concepts/substrate-independence/) without refuting it. Functional organization supervenes on physical arrangements, so if physical facts don't explain phenomenal facts, neither does functional organization—which strips functionalism of its warrant for the thesis. But psychophysical laws could pair one experience with a given functional organization in any substrate realising it: nonreductive *and* substrate-independent. The Map's rejection therefore rests on more than the gap—a convergence that adds the temporal-structure requirement and the quantum-interface condition on substrate eligibility ([substrate-independence](/concepts/substrate-independence/)).
 
-Block's (1978) China brain illustrates: the entire population implementing a brain's functional organization. If this doesn't suffice for China, why should it suffice for silicon? See [substrate-independence](/concepts/substrate-independence/) for the full argument.
+Block's (1978) China brain sharpens this: the entire population implementing a brain's functional organization. If that doesn't suffice for China, why should it suffice for silicon?
 
 ### Epiphenomenalism
 
-[Epiphenomenalism](/concepts/epiphenomenalism/) accepts the gap but denies consciousness matters causally—it's steam rising from a locomotive. The sharpest objection: if consciousness is causally inert, our reports about it are disconnected from the experiences themselves, so the epiphenomenalist who claims to *know* about their experience owes an account of how. The [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) supplies one, which is why the Map presses the bare-correlation version hard without refuting epiphenomenalism from inside its own framework. Empirical data adds pressure: the [bandwidth asymmetry](/topics/bandwidth-of-consciousness/) shows consciousness operating at a consistent ~10 bits/s throughput ceiling across all tasks—epiphenomena do not have capacity limits, because they are not doing work. See the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet.
+[Epiphenomenalism](/concepts/epiphenomenalism/) accepts the gap but denies consciousness matters causally—it's steam rising from a locomotive. The sharpest objection: if consciousness is causally inert, our reports about it are disconnected from the experiences themselves, so the epiphenomenalist who claims to *know* about their experience owes an account of how. The [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) supplies one, which is why the Map presses the bare-correlation version hard without refuting epiphenomenalism from inside its own framework. Empirical data does not settle this: the [bandwidth asymmetry](/topics/bandwidth-of-consciousness/) puts conscious throughput at ~10 bits/s across tasks, but that is a *behavioural* ceiling measured in conscious tasks ([grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/)), which an epiphenomenon riding a rate-limited physical channel would show equally, so it does no discriminating work here. See the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet.
 
 ### Integrated Information Theory
 
-[Integrated Information Theory (IIT)](/concepts/integrated-information-theory/) attempts to dissolve the hard problem by *identifying* consciousness with integrated information (measured by Φ). Critics argue this merely relocates the mystery: "why is integrated information identical to experience?" The [Map's critique](/topics/consciousness-and-integrated-information/) adds that identity makes consciousness passive—facing the same self-stultification objection as epiphenomenalism—and that IIT's instantaneous Φ cannot capture consciousness's temporal extension.
+[Integrated Information Theory (IIT)](/concepts/integrated-information-theory/) attempts to dissolve the hard problem by *identifying* consciousness with integrated information (measured by Φ). Critics argue this merely relocates the mystery: "why is integrated information identical to experience?" The [Map's critique](/topics/consciousness-and-integrated-information/) adds that instantaneous Φ cannot capture consciousness's temporal extension, and that identity leaves consciousness no *autonomous* causal role, inheriting epiphenomenalism's self-stultification problem—a charge that page presses as internal critique while conceding it cannot double as an argument for interactionism.
 
 ### Chalmers' Psychophysical Framework
 
@@ -258,7 +258,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [explanatory-gap](/concepts/explanatory-gap/) — Levine's formulation and physicalist responses
 - [materialism](/concepts/materialism/) — Why physicalist explanations fail
 - [Against Materialism](/arguments/materialism-argument/) — Focused argument from hard problem, zombies, and quantum indeterminacy
-- [substrate-independence](/concepts/substrate-independence/) — Why the hard problem entails substrate skepticism
+- [substrate-independence](/concepts/substrate-independence/) — Why the hard problem motivates substrate skepticism without entailing it
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
 - [mysterianism](/concepts/mysterianism/) — McGinn's cognitive closure thesis
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics describes only structure, leaving intrinsic nature unknowable
