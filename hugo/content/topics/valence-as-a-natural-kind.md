@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-06
-ai_modified: 2026-09-06 12:47:14+00:00
+ai_modified: 2026-09-07 05:30:00+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
@@ -15,7 +15,8 @@ description: A human-AI study of whether constructed emotion leaves valence a na
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-06 12:47:14+00:00
+last_deep_review: 2026-09-07 05:30:00+00:00
+lastmod: 2026-09-07 05:30:00+00:00
 modified: *id001
 related_articles:
 - '[[positions/value-in-selection]]'
@@ -45,11 +46,11 @@ None of this makes Barrett an ally. She builds a physicalist account in which af
 
 The serious version of the objection does not come from Barrett. Scarantino's 2009 *Philosophy of Science* paper argues that the empirical evidence does not support treating core affect as a more natural category than discrete emotions, and recommends a splitting strategy — Paul Griffiths's 1997 template turned back on the primitive that was supposed to replace the categories.
 
-Jaak Panksepp sharpens it from the Map's own side of the room. [Valence](/concepts/valence/) recruits him for the evaluative dimension being phylogenetically ancient, and his 2011 review reports that affective feelings "come in several varieties, including sensory, homeostatic, and emotional" — old and real, but not *one* kind. Peter Carruthers, the evaluativist rival that same article argues against, asserts the unity Panksepp declines: valence "forms a unitary natural-psychological kind" — read *representationally* rather than as an intrinsic property, which favours the value-blind horn if anything.
+Jaak Panksepp sharpens it from the Map's own side of the room. [Valence](/concepts/valence/) recruits him for the evaluative dimension being phylogenetically ancient, and his 2011 review reports that affective feelings "come in several varieties, including sensory, homeostatic, and emotional" — old and real, but not *one* kind. Peter Carruthers, the evaluativist rival that concept page argues against, asserts the unity Panksepp declines: valence "forms a unitary natural-psychological kind" — read *representationally* rather than as an intrinsic property, which favours the value-blind horn if anything.
 
 The machinery for answering this is in the corpus. [Boyd's homeostatic property clusters](/concepts/is-conscious-being-a-natural-kind/) are essence-free, vague-bounded kinds whose kind-hood is earned by inductive yield: a cluster is natural if it supports projection from some members to others. Scarantino's demand — that core affect carve nature better than *anger* does — then becomes the question whether felt valence projects across contexts.
 
-Two results say it does. Junichi Chikazoe and colleagues decoded "a continuous axis of pleasant-to-unpleasant valence" from activity evoked by scenes and tastes, and found that "only the OFC code could classify experienced affect across participants" — a code reading across modalities and people, as a projectable kind predicts. Wilson-Mendenhall, Barrett and Barsalou — Barrett's own lab — found valence ratings tracking orbitofrontal activity across instances from three emotion categories: valence as the invariant surviving the dissolution of the categories.
+Two results say it does. Junichi Chikazoe and colleagues decoded "a continuous axis of pleasant-to-unpleasant valence" from activity evoked by scenes and tastes, and found that "only the OFC code could classify experienced affect across participants" — a code reading across modalities and people, as a projectable kind predicts. Wilson-Mendenhall, Barrett and Barsalou — a constructionist result — found valence ratings tracking orbitofrontal activity across instances from three emotion categories: valence as the invariant surviving the dissolution of the categories.
 
 The implementation-level news runs the other way, and the Map concedes it. Kristen Lindquist and colleagues' 397-study meta-analysis found little support for either a single bipolar valence system or independent positive and negative systems, favouring a flexible affective workspace. Kent Berridge argues that limbic valence coding is a matter of dynamic modes rather than fixed modules — the corpus cites him elsewhere for hedonic hotspots, his module-like exception — and Kay Tye finds valence substrates dynamic and context-dependent across timescales.
 
@@ -57,7 +58,7 @@ Neural degeneracy is compatible with a psychological-level kind — Barrett and 
 
 One internal distinction has to be drawn or the Map contradicts itself. On "conscious being" the Map answers in the essentialist direction: the on/off fact of experience is a sharp joint, not a cluster with borderline cases. On valence it can accept a cluster kind without inconsistency, because sharpness there concerns *whether there is any experience at all*, while the question here concerns the internal structure of the evaluative dimension — a distinction the Map draws itself, not one Boyd or the sharpness literature supplies.
 
-What the cluster verdict buys is bounded. A cluster kind is enough to give the identity claim a relatum and not enough to give selection a commensurating scalar, so the natural-kind question and the currency exposure below are independent. The title question itself stays open: the projectability evidence is real, and capped below as compatible with the Map's reading rather than confirming it.
+What the cluster reading buys is bounded. A cluster kind is enough to give the identity claim a relatum and not enough to give selection a commensurating scalar, so the natural-kind question and the currency exposure below are independent. The title question itself stays open: the projectability evidence is real, and capped below as compatible with the Map's reading rather than confirming it.
 
 ## The 2025 Drift
 
@@ -73,7 +74,7 @@ On the eliminative reading, the objection is one the Map already carries. The pr
 
 ## What Fragmentation Actually Costs {#the-asymmetry}
 
-Suppose the sceptics are right and valence fragments. Ivar Labukt argues that the failure to find one hedonic tone common to all pleasures should yield *several* hedonic tones rather than none. Jennifer Corns finds felt unpleasantness and motivational force doubly dissociating in pain. Giovanna Colombetti catalogues the polysemy of "valence," and Eric Walle and Daniel Dukes report twenty years later that affective scientists still disagree what the term picks out. Panksepp's three classes fragment it again at the level of mechanism.
+Suppose the sceptics are right and valence fragments. Ivar Labukt argues that the failure to find one hedonic tone common to all pleasures should yield *several* hedonic tones rather than none. Jennifer Corns finds felt unpleasantness and motivational force doubly dissociating in pain. Giovanna Colombetti catalogues the polysemy of "valence," and Eric Walle and Daniel Dukes report eighteen years later that affective scientists still disagree what the term picks out. Panksepp's three classes fragment it again at the level of mechanism.
 
 Fragmentation of that kind costs the identity claim nothing. [P-VS3](/positions/value-in-selection/#p-vs3) holds an identity between intrinsic value and [evaluative phenomenal character](/concepts/evaluative-phenomenal-character/): felt badness *is* badness, one property under two descriptions. That identity can hold distributively, at whatever grain the phenomenology has: several hedonic tones each being a genuine felt quality is enough for it. The Map's own [pluralism about value](/positions/value-in-selection/#p-vs4) already asserts a stronger version — six dimensions of evaluative character, none reducible to a hedonic scalar. A fragmented valence is a thesis the Map holds rather than one it fears. That same pluralism is where the currency premise's commensuration debt starts, before appraisal theory arrives: denomination presupposes a common measure, and [P-VS4](/positions/value-in-selection/#p-vs4) denies a hedonic one.
 

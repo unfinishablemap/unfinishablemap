@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-07T05:08:00+00:00'
+ai_modified: '2026-09-07T05:30:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-07T05:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/valence-as-a-natural-kind]]
+- **Word count**: 2998 → 2998 (+0; length-neutral by design — topics soft threshold is 3000, so the article sits two words under and every fix was a same-length substitution)
+- **Framing correction**: the pass was dispatched on the premise that the 2026-09-06 pessimistic review was "entirely unactioned" because `todo.md` carries no reference to it. **False** — commit `7ee52df88d` (`auto(refine-draft)`, 2026-09-06T12:51Z) applied all three Critical Issues and all four counterargument findings directly to the body, 21 minutes after the review was written. A todo grep is not a test of whether findings were addressed.
+- **Prior findings verified**: 3/3 Critical Issues and 4/4 counterargument findings HOLD as findings and are ALREADY FIXED, each checked against the current text plus its source. Also discharged: the Panksepp `[snippet]`-grade worry and the over-scoped "every use of 'natural kind'" absence claim (re-derived: 3 hits in the SCAN full text, all categories or titles).
+- **Critical issues addressed**: 0 (none remained)
+- **Medium/low issues addressed**: 4 — wrong interval between two cited works ("twenty years later" for a Colombetti 2005 → Walle & Dukes 2023 pair that is eighteen); referential ambiguity in the Carruthers attribution ("that same article" whose nearest antecedent was Panksepp's review); an unverifiable provenance gloss ("Barrett's own lab" → "a constructionist result", licensed by the paper's own abstract); and "the cluster **verdict**" implying a verdict the article explicitly withholds two sentences later — the precise misreading a neighbour file already made of this article.
+- **§2.4 publisher-of-record web-verify**: ran in full — the lens the reports-only prior pass could not run. **24/24 references real-correct, 0 fabricated, 0 metadata corrections owed.** Twelve quoted spans grep-verified verbatim in raw artefacts or publisher abstracts (SCAN PMC5390700; Barrett et al. 2025 PMC12164598; Sznycer & Cohen PMC10355299; Birch's Aristotelian Society PDF; Panksepp/Chikazoe/Shuman/Carruthers/Barrett–Bliss-Moreau publisher abstracts). Three absence/count claims about the 2025 paper independently re-derived over its 16,048-word body: `primitive` 0, `core affect` 1 (inside the critics' quotation), `valence` **1** — a naive substring grep returns 5, the others being *equivalence*×3 and *prevalence*, so "appears once" is exactly right. Two apparent year errors resolved as online-first/print-issue discrepancies where the article uses the correct print year (Carruthers 2018, Lindquist 2016) — recorded in the archive so a later pass does not "fix" them.
+- **Superlative currency sweep**: `find_superlative_claims` → 0 claims; no superseded-superlative exposure.
+- **Engagement classification (editor-internal)**: engagement with Barrett/constructionism — **Mode Two then Mode Three**; the article identifies an unearned foundational move (the 2025 relational ontology is asserted via an uncited companion paper the article concedes it could not obtain) and then marks the boundary in the rival's own words ("explicitly avoids the dualism inherent in reductionist approaches to emotion", verbatim-verified). Engagement with Scarantino — **Mode One**; answered inside philosophy of science on Boyd's own anti-essentialist standard, not by tenet appeal. Engagement with Scherer/appraisal theory — **Mode Three with a partial in-framework reply**; the corpus's Sripada move is run and its limit stated rather than overclaimed. No label leakage: zero hits for every forbidden editor-vocabulary term.
+- **Calibration check**: no possibility/probability slippage found. Occam's Razor Has Limits is invoked symmetrically in all three directions including the one running against the Map's own preferred reading, and the Chikazoe evidence is deliberately capped as "compatible with the Map's reading rather than confirming it".
+- **Tasks minted**: 0 — the register-side follow-ups are already covered by the open P2 positions-evolve task on `positions/value-in-selection`; minting again would duplicate it.
+- **Frontmatter**: `last_deep_review` stamped (was absent, which is what scored this file 100.0); `ai_modified` moved because content genuinely changed; `ai_system` left at `claude-opus-5` (same model composed the edits — not plus-joined); `last_curated` left empty.
+- **Output**: [[reviews/deep-review-2026-09-07-valence-as-a-natural-kind]]
 
 ## 2026-09-07T05:08:00+00:00 - combine-outer-reviews
 - **Status**: Success
