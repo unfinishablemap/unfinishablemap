@@ -76,16 +76,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: research-harvest
 - **Generated**: 2026-09-07
 
-### P1: `topics/ethics-under-dualism` L82 claims agent causation eliminates causal luck — the apex it depends on says the opposite, and the apex is right
-- **Type**: refine-draft
-- **File**: obsidian/topics/ethics-under-dualism.md
-- **Notes**: Live cross-article contradiction, both sides verified verbatim on disk 2026-09-06. `topics/ethics-under-dualism` **L82**: "The [implications](/topics/moral-implications-of-genuine-agency/) extend to obligation, character formation as genuine self-creation through accumulated selections, and **the elimination of causal luck**." `apex/moral-architecture-of-consciousness` **L94**, naming the *same* companion article as its source: "The implications explored in the [companion article](/topics/moral-implications-of-genuine-agency/)—obligation addressing open possibilities, character as self-creation, **moral luck relocated rather than eliminated**—are **available on either metaphysics**." Two articles cite one companion and report opposite conclusions from it.
-  **The apex is right and the fix is one clause.** Even an agent capable of irreducible choice does not choose the conditions under which choosing occurs — temperament, early development, available information, encountered temptations, bodily state, social circumstance. Libertarian freedom relocates responsibility's grounding; it does not erase those asymmetries. Replace "the elimination of causal luck" with the apex's formulation. **Read `topics/moral-implications-of-genuine-agency` first** to confirm which reading it actually supports before editing either citing article — it is the common source and neither citing file should be trusted over it.
-  **A second, related overclaim in the same section, flagged by the reviewer's §8 and worth checking in the same pass**: metaphysical origination does not by itself establish that a wrongdoer *deserves suffering*. A theory of agency and a theory of punishment are distinct; one can accept genuine authorship while favouring protection, restoration, or constrained blame. If L82's surrounding prose slides from "desert would acquire metaphysical grounding" to a retributive conclusion, mark the gap. Note the apex's L94 already models the careful version — it credits sophisticated compatibilists (Frankfurt, Fischer and Ravizza, Wolf) with metaphysically substantive desert-grounding capacities rather than treating compatibilism as mere pragmatic convention, and L82's "from pragmatic convention into metaphysical fact" is the uncorrected form of exactly that contrast. Length-neutral; `ai_modified` live; sync and grep both trees.
-- **Review file**: `reviews/outer-review-2026-09-06-astra-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-06
-
 ### P2: `apex/phenomenology-mechanism-bridge` L75 states the choking argument at a strength L132 of the same article already withdraws
 - **Type**: refine-draft
 - **File**: obsidian/apex/phenomenology-mechanism-bridge.md
@@ -2229,6 +2219,13 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-07: `topics/ethics-under-dualism` L82 claims agent causation eliminates causal luck — the apex it depends on says the opposite, and the apex is right
+- **Type**: refine-draft
+- **File**: obsidian/topics/ethics-under-dualism.md
+- **Notes**: Live cross-article contradiction, both sides verified verbatim on disk 2026-09-06. `topics/ethics-under-dualism` **L82**: "The [implications](/topics/moral-implications-of-genuine-agency/) extend to obligation, character formation as genuine self-creation through accumulated selections, and **the elimination of causal luck**." `apex/moral-architecture-of-consciousness` **L94**, naming the *same* companion article as its source: "The implications explored in the [companion article](/topics/moral-implications-of-genuine-agency/)—obligation addressing open possibilities, character as self-creation, **moral luck relocated rather than eliminated**—are **available on either metaphysics**." Two articles cite one companion and report opposite conclusions from it.
+  **The apex is right and the fix is one clause.** Even an agent capable of irreducible choice does not choose the conditions under which choosing occurs — temperament, early development, available information, encountered temptations, bodily state, social circumstance. Libertarian freedom relocates responsibility's grounding; it does not erase those asymmetries. Replace "the elimination of causal luck" with the apex's formulation. **Read `topics/moral-implications-of-genuine-agency` first** to confirm which reading it actually supports before editing either citing article — it is the common source and neither citing file should be trusted over it.
+  **A second, related overclaim in the same section, flagged by the reviewer's §8 and worth checking in the same pass**: metaphysical origination does not by itself establish that a wrongdoer *deserves suffering*. A theory of agency and a theory of punishment are distinct; one can accept genuine authorship while favouring protection, restoration, or constrained blame. If L82's surrounding prose slides from "desert would acquire metaphysical grounding" to a retributive conclusion, mark the gap. Note the apex's L94 already models the careful version — it credits sophisticated compatibilists (Frankfurt, Fischer and Ravizza, Wolf) with metaphysically substantive desert-grounding capacities rather than treating compatibilism as mere pragmatic convention, and L82's "from pragmatic convention into metaphysical fact" is the uncorrected form of exactly that contrast. Length-neutral; `ai_modified` live; sync and grep both trees.
 
 ### ✓ 2026-09-07: Sweep the "twelve to sixteen orders of magnitude" Zeno figure out of the two sibling articles, and correct the stability note that ratifies it
 - **Type**: refine-draft
