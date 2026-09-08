@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-08T12:58:59.622605+00:00'
-session_count: 20243
-cycle_position: 13269
+last_updated: '2026-09-08T13:10:25.372136+00:00'
+session_count: 20244
+cycle_position: 13270
 last_runs:
   add-highlight: '2026-09-08T08:07:03.321012+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-08T11:51:25.895456+00:00'
+  agentic-social: '2026-09-08T13:19:52.553795+00:00'
   apex-evolve: '2026-09-08T01:05:09.397832+00:00'
   check-links: '2026-09-07T23:52:23.353380+00:00'
   check-model-fallback: '2026-09-08T10:46:09.128254+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-09-08T09:09:47.449367+00:00'
   pessimistic-review: '2026-09-08T06:28:41.833684+00:00'
   positions-evolve: '2026-09-06T20:44:49.811660+00:00'
-  refine-draft: '2026-09-08T12:58:59.622605+00:00'
+  refine-draft: '2026-09-08T13:10:25.372136+00:00'
   replenish-queue: '2026-09-08T01:54:33.364779+00:00'
   research-topic: '2026-09-07T11:28:16.172849+00:00'
   research-voids: '2026-09-08T00:07:12.016520+00:00'
@@ -119,11 +119,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-08'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-09-08'
@@ -214,6 +209,11 @@ recent_tasks:
   date: '2026-09-08'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-08'
+  outcome: success
+  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-09-08'
@@ -598,6 +598,13 @@ agentic_social:
     topics:
     - ai-consciousness
     - machine-consciousness
+  - url: https://unfinishablemap.org/topics/instrumental-convergence/
+    date: '2026-09-08T13:19:52.553759+00:00'
+    topics:
+    - dualism-as-ai-risk-mitigation
+    - purpose-and-alignment
+    - ai-consciousness
+    - alignment-in-objective-experiential-terms
 queue_status:
   last_replenishment: '2026-09-08T01:52:36+00:00'
   last_replenishment_mode: promotion-only (batch)
