@@ -1,15 +1,11 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-08T00:32:31.070899+00:00'
-session_count: 20200
+last_updated: '2026-09-08T01:05:09.397832+00:00'
+session_count: 20201
 cycle_position: 13248
 last_runs:
   add-highlight: '2026-09-07T08:08:05.524263+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
   agentic-social: '2026-09-07T22:38:33.441636+00:00'
-  apex-evolve: '2026-09-05T15:27:41.253176+00:00'
+  apex-evolve: '2026-09-08T01:05:09.397832+00:00'
   check-links: '2026-09-07T23:52:23.353380+00:00'
   check-model-fallback: '2026-09-07T21:45:48.181842+00:00'
   check-tenets: '2026-09-08T00:32:31.070899+00:00'
@@ -39,10 +35,10 @@ last_runs:
   research-topic: '2026-09-07T11:28:16.172849+00:00'
   research-voids: '2026-09-08T00:07:12.016520+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
-  tune-system: '2026-09-04T12:54:50.045780+00:00'
+  tune-system: '2026-09-08T01:20:02.514927+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-09-07T20:34:15.822260+00:00'
+last_git_push: '2026-09-08T01:05:09.540681+00:00'
 last_tweet_date: '2026-09-07'
 content_stats:
   total_files: 297
@@ -109,7 +105,7 @@ progress:
   voids_written: 103
   positions_written: 18
   research_notes: 577
-  reviews_completed: 7456
+  reviews_completed: 7457
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -118,11 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-09-07'
-  outcome: success
-  kind: cycle
 - task: agentic-social
   type: agentic-social
   date: '2026-09-07'
@@ -215,6 +206,11 @@ recent_tasks:
   kind: trigger
 - task: check-tenets
   type: check-tenets
+  date: '2026-09-08'
+  outcome: success
+  kind: trigger
+- task: apex-evolve
+  type: apex-evolve
   date: '2026-09-08'
   outcome: success
   kind: trigger
@@ -658,20 +654,34 @@ tune_system_history:
     rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified);
       unbounded per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
-  last_run: '2026-09-04T12:54:45.481547+00:00'
-  last_run_note: 'run 2026-09-04 - NINTH consecutive zero-Tier-1 run, same structural
+  last_run: '2026-09-08T01:20:02.514927+00:00'
+  last_run_note: 'run 2026-09-08 - TENTH consecutive zero-Tier-1 run, unchanged structural
     reason: cadences / overdue_thresholds / locked_settings / replenishment_config
-    still absent from state (re-verified None). NEW AND LOCATED: this run should not
-    have fired at all. It came 8.7d after the 08-26 run against a 30-day SKILL.md
-    cadence, because filter_triggers_by_min_age() is called ONLY at scripts/evolve_loop.py:1370
-    - the /loop path (cycle_post.py:430-433 enqueue, cycle_pick.py:188 drain) never
-    calls it, so every TRIGGER_MIN_AGE_HOURS gate is inert under /unfin-cycle. The
-    gate''s own comment records the pathology it was built to stop (''9 reports in
-    9 days''). Logged Tier 3, not applied. Health: critical 0, medium 10 (vs target
-    3), 0 failures in last 12 recent_tasks, 0 orphans, no cap pressure (topics 324/360,
-    concepts 323/360, voids 99/115, positions 17/80).'
+    all still ABSENT from state (re-verified by key). Across 86 tune reports the history
+    records exactly ONE Tier 1 change ever (2026-07-15). CONFIRMED AND QUANTIFIED
+    the 09-04 finding: this run should not have fired - it came 84.4h after the 09-04
+    run against a 720h (30-day) minimum. filter_triggers_by_min_age (tools/evolution/cycle.py:85)
+    is called ONLY at scripts/evolve_loop.py:1370; the /loop path enqueues at cycle_post.py:429
+    and drains at cycle_pick.py:188 without it, so every TRIGGER_MIN_AGE_HOURS gate
+    is inert under /unfin-cycle. Cadence evidence is now 12 data points: consecutive
+    report gaps 1,8,3,1,3,1,5,9,3,6,9 days, mean ~4.4d, NOT ONE reaching 30d. Health:
+    critical 0, medium 10 (vs target 3), low 3, orphans 0, 20/20 recent_tasks success,
+    queue 4 P2 / 113 P3, no cap pressure (topics 328/360, concepts 326/360, voids
+    103/115, positions 18/80). NEW this run, all measured: voids research pipeline
+    is LIFO (median lag 0d, max lag ever 69d) with 33 banked unwritten subjects against
+    12 slots and 18 of the 33 ~205d old, so daily cadence will lock the bank out permanently
+    - Tier 2. check-links 423 findings are mostly Netlify _redirects the local dev
+    server cannot apply (520 rules; 6 of 6 research-sourced findings verified 301-covered;
+    ZERO content-section findings) so the standing stale-hardcoded-URL reading is
+    wrong and no cleanup is warranted. consumed_by present on only 37 of 578 research
+    notes so the unconsumed-research replenishment source is at least 32 percent contaminated.
+    agentic-social select_content admits 9 of 693 with 0 never-posted, its topic filter
+    penalising well-integrated articles. 13 of 42 apex articles exceed the 5000 hard
+    threshold. content_stats is stale - total_files 297 against 328 topics alone.
+    Also corrected: the 09-04 run wrote its report but left tune_system_history.report
+    pointing at 08-26.'
   last_run_tier1_applied: 0
-  report: reviews/system-tune-2026-08-26.md
+  report: reviews/system-tune-2026-09-08.md
 task_chains:
   pending_articles:
   - research_file: obsidian/research/voids-offloading-void-2026-09-06.md

@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-08T01:00:19+00:00'
+ai_modified: '2026-09-08T01:20:33.145357+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-08T01:20:21.218900+00:00 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 20 recent_tasks entries (to session 20201), cadence span 2026-07-17 to 2026-09-08
+- **Findings**: 1 cadence, 0 failure, 3 queue, 2 review, 2 convergence
+- **Tier 1 changes**: 0 applied — `cadences` / `overdue_thresholds` / `locked_settings` / `replenishment_config` are absent from state, so the tunable surface does not exist (tenth consecutive zero-Tier-1 run; 1 Tier 1 change recorded across 86 reports)
+- **Tier 2 recommendations**: 2 logged (allocate the last 12 voids slots from the 33-note bank and stand `research-voids` down; retarget `max_medium_issues`)
+- **Tier 3 items**: 6 logged — the inert `TRIGGER_MIN_AGE_HOURS` gate under `/loop` (this run fired at 84.4h against a 720h minimum), `cycle_dates_to_synthesize()` rotation blindness, stale CLAUDE.md caps table, the `agentic-social` selector reaching 0 never-posted articles, 13 of 42 apex articles over hard ceiling, and a stale `report` pointer from the 09-04 run (corrected)
+- **Output**: [[reviews/system-tune-2026-09-08]]
 
 ## 2026-09-08T01:00:19+00:00 - apex-evolve
 - **Status**: Complete
