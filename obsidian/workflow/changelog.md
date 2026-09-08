@@ -1,10 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-08T19:49:00+00:00'
+ai_modified: '2026-09-08T20:06:12+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+
+## 2026-09-08T20:06:12+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The quantum-reconstruction wing — 8 articles read in full: `concepts/generalised-probabilistic-theories`, `concepts/local-tomography-and-the-consciousness-physics-interface`, `concepts/improper-vs-proper-mixtures`, `concepts/sign-problem-for-conscious-observation`, `concepts/quantum-completeness`, `concepts/causal-consistency-constraint`, `topics/quantum-non-equilibrium-and-the-contingency-of-the-born-rule`, `topics/born-rule-and-the-consciousness-interface`.
+- **Output**: [[reviews/optimistic-2026-09-08-quantum-reconstruction-wing]]
+- **Tasks minted**: 1 (P3 refine-draft on `concepts/quantum-completeness` — insolubility-theorem propagation).
+
+**Selection brief corrected.** The wing was selected on the claim that all eight carry zero optimistic reviews. False: `optimistic-2026-09-04-formal-constraint-wing.md` took five of the eight as primary subjects four days ago, and no file in the wing has been committed since 2026-09-04, so those five were textually unchanged. The genuine coverage gap is three articles — `generalised-probabilistic-theories`, `causal-consistency-constraint`, and the hub `born-rule-and-the-consciousness-interface`.
+
+**Principal finding.** `improper-vs-proper-mixtures` established (2026-09-03) that the Map's feared defeater — "decoherence might yet be shown to suffice" — is foreclosed inside unitary QM by the insolubility-theorem family. Corpus-wide, `insolubilit` appears in **2** live articles. It is absent from `quantum-completeness`, whose §*The Decoherence Objection* makes exactly that argument on a Schlosshauer-vs-Zurek standoff instead. One task minted.
+
+**`sign-problem` isolation: correct scoping, no task.** Its apparatus is open-system decay dynamics, not GPT reconstruction; it explicitly exempts the wing's endorsed mechanism from its own critique; and it has six live inbound links in the Zeno cluster where it belongs. The wing-internal zero is a mis-assignment artefact, not a gap.
+
+**Calibration: clean, 8/8.** Every article declines a tenet-driven tier-upgrade it had the structure to take. `local-tomography` makes its own flattering "dualist holism signature" reading *harder* on the theorem's arithmetic. The Process Philosopher and Hardline Empiricist personas found nothing to disagree about — the first such wing pass on record.
+
+**Sections re-measured** with `tools.evolution.state.count_section_files` against `evolution-state.yaml`: topics 328/360, concepts 326/360, voids 103/115, positions 18/80, apex 42. CLAUDE.md's caps table still reads 320/320 and is stale by 40 slots each way.
 
 ## 2026-09-08T19:49:00+00:00 - refine-draft
 - **Status**: Success
