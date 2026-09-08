@@ -4,7 +4,7 @@ description: "Pragmatism evaluates ideas by their practical consequences—a met
 created: 2026-03-26
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-08-03T13:37:03+00:00
+ai_modified: 2026-09-08T01:35:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ Applied to the mind-body problem, Peirce's maxim asks: what observable differenc
 
 ### The Maxim Turned Inward
 
-A criterion imported to press a rival is owed to the home position too, and Peirce's maxim is uncomfortable when run on the Map's own [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]. That tenet describes an influence *empirically indistinguishable from chance*: the bias acts on which single outcome is realised while the ensemble average stays exactly Born, so it leaves no statistical trace that any presently conceivable instrument could resolve from the chance baseline it is constructed to match. Put the maxim to that, and the difference between a consciousness-biased quantum outcome and an unbiased one threatens to come out merely verbal — which is precisely the verdict the maxim was invoked to deliver against materialism.
+A criterion imported to press a rival is owed to the home position too, and Peirce's maxim is uncomfortable when run on the Map's own [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]. That tenet describes an influence *empirically indistinguishable from chance* under any *unconditioned aggregate* test current or foreseeable instruments could run: the bias acts on which single outcome is realised while the ensemble average stays exactly Born, so in that unconditioned register it leaves no statistical trace to resolve from the chance baseline it is constructed to match. Preservation binds only that unconditioned marginal, however — a deviation *conditioned* on intention, task or subject would test the corridor itself ([[positions/quantum-interface#^mechanism-debt|P-Q3]]) — so the maxim's pressure falls on the aggregate register rather than on the mechanism as such. Put the maxim to that, and the difference between a consciousness-biased quantum outcome and an unbiased one threatens to come out merely verbal — which is precisely the verdict the maxim was invoked to deliver against materialism.
 
 The Map's answer is that the practical difference is per-trial and indexical rather than statistical: *which* outcome this experiencing subject actualises is a difference even where the aggregate distribution records none. Whether that discharges the maxim or merely relocates the problem is open, and the positions register says so — [[positions/quantum-interface#^mechanism-debt|P-Q3]] holds that a selection observer-indistinguishable from an unselected outcome "sits genuinely close to epiphenomenalism", treating this as the strongest live challenge to the mechanism rather than a settled matter. The maxim is retained here with that debt showing rather than applied in one direction only.
 

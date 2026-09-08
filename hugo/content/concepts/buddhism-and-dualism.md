@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-09-07 22:20:00+00:00
+ai_modified: 2026-09-08 01:35:18+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 15:51:19+00:00
-lastmod: 2026-09-07 22:20:00+00:00
+lastmod: 2026-09-08 01:35:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -159,7 +159,7 @@ The comparison clarifies what the Map's tenets actually require.
 
 **[Dualism](/tenets/#dualism)**: This tenet requires irreducibility, not permanence. Buddhism accepts irreducibility (consciousness isn't reducible to the other four aggregates) while denying permanence. Compatible—though the accommodation of Madhyamaka emptiness above holds on the epistemic reading only.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The mechanism offered above comes priced. A bias constructed to leave the aggregate Born measure intact is, on the tenet's own admission, "empirically indistinguishable from chance"—an exposure karma doctrine never takes on. Not incompatible; unequally exposed.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The mechanism offered above comes priced. A bias constructed to leave the aggregate Born measure intact is, on the tenet's own admission, "empirically indistinguishable from chance" under any *unconditioned aggregate* test, though a deviation *conditioned* on intention, task or subject remains live ([P-Q3](/positions/quantum-interface/#mechanism-debt))—an exposure karma doctrine never takes on. Not incompatible; unequally exposed.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: This tenet requires mental causation; Buddhism's karma doctrine requires the same. Compatible, with the debt marked above.
 
