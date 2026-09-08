@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-08T15:01:06.857759+00:00'
-session_count: 20251
+last_updated: '2026-09-08T15:20:42.449758+00:00'
+session_count: 20252
 cycle_position: 13274
 last_runs:
   add-highlight: '2026-09-08T08:07:03.321012+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-08T15:19:34.582689+00:00'
+  agentic-social: '2026-09-08T15:20:42.449758+00:00'
   apex-evolve: '2026-09-08T01:05:09.397832+00:00'
   check-links: '2026-09-07T23:52:23.353380+00:00'
   check-model-fallback: '2026-09-08T15:01:06.857759+00:00'
@@ -119,11 +119,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-09-08'
-  outcome: success
-  kind: trigger
 - task: refine-draft
   type: refine-draft
   date: '2026-09-08'
@@ -219,6 +214,11 @@ recent_tasks:
   date: '2026-09-08'
   outcome: success
   kind: trigger
+- task: agentic-social
+  type: agentic-social
+  date: '2026-09-08'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - date: '2026-09-01T15:41:05.974143+00:00'
@@ -603,72 +603,81 @@ agentic_social:
     - free-will
     - valence-and-conscious-selection
 queue_status:
-  last_replenishment: '2026-09-08T01:52:36+00:00'
+  last_replenishment: '2026-09-08T15:36:00+00:00'
   last_replenishment_mode: promotion-only (batch)
-  last_replenishment_note: 'RUN 1028. ZERO MINTED - TEN P3s PROMOTED TO P2. Fired
-    2026-09-08 ~01:4xZ, 2h45m after run 1027, on the SAME one-task floor breach: run
-    1027 promoted two, both were consumed and sit below the Completed Tasks marker,
-    and pickable P0-P2 was back to 2 against the floor of 3. Measured treadmill: 2
-    promoted bought 2 queue-slot iterations / ~2h45m wall clock, i.e. ~1 task consumed
-    per ~1h20m, so the minimum-clearing promotion re-breaches within one replenish
-    interval. This run therefore promoted a BATCH OF TEN (pre-run 115 active / P2
-    2 / P3 113, post-run 115 active / P2 12 / P3 103, count_p0_p2_tasks 2 -> 12),
-    sized to cover ~13h of consumption rather than the ~3h the minimum buys. Nothing
-    minted and nothing deleted: active total is unchanged at 115, all ten were already-verified
-    P3 work and every premise was RE-VERIFIED FROM DISK this run with the verifying
-    grep recorded in each task note. Sources were not re-derived - run 1027 established
-    them and they are unchanged: unconsumed_research unusable (consumed_by stamped
-    on 37 of 578 notes, contamination >=32%); length_analysis 3-for-3 human-vetoed;
-    chain discharged (the offloading-void entry in task_chains.pending_articles is
-    stale - the article was written 2026-09-07, commit 715dbaa538); gap_analysis clean
-    (0 broken body wikilinks); orphaned_files 0. PROMOTED (all refine-draft, all single-owner
-    files, pileup checked against the Active-section File: lines): apex/research-programme-decisions-under-the-map
-    (L174 arXiv:2512.12636 lacks the not-yet-peer-reviewed flag its 8 sibling lines
-    carry); voids/witnessing-void (L99 receives-support + points-beyond-engineering-limitation,
-    register uncited, 0 hits for voids-as-evidence); concepts/sleep-and-consciousness
-    (description: L3 and body L106 assert proves); concepts/attention-as-interface
-    (L230 Schwartz provides-empirical-grounding + L232 MWI in-framework victory);
-    topics/falsification-roadmap-for-the-interface-model (L51 + L181 over-defend Tenet
-    2 testability); topics/testing-consciousness-collapse (L230 no-presently-conceivable-instrument,
-    string-sibling of the 08-27 tenets over-concession); concepts/filter-vs-interface-distinction
-    (L76 width-has-not-changed against its own L74); topics/consciousness-and-memory
-    (L180/182/184 strongest-evidence / is-supported-by / is-demonstrated-by); voids/phenomenal-quality-void
-    (L128 + L132, primary file exact; binding-void second file re-scoped to verify-then-decide);
-    positions/value-in-selection-calibration-history (L57 provenance pointer lands
-    on the W22 L2531 decoherence entry, sed-confirmed). The dominant promoted family
-    is scoping-revision residue - a tenets-tier or hub page was narrowed and its dependents
-    never swept - which is what run 1027 found and what tonight''s three closed P2s
-    all were. TWO REJECTS ANNOTATED IN PLACE SO THEY STOP BEING REDISCOVERED, both
-    premise-failures caught by re-verification: concepts/direction-of-interface-change
-    L80 - the quoted receive-only conditional greps ZERO in both trees, premise DISCHARGED,
-    only the missing filter-vs-interface back-link survives; and the voids inaccessible-past
-    + conceptual-impossibility pair - grep demonstrat returns zero on the primary
-    file so 3 of its 4 loci are discharged, while the second file is fully live, so
-    it needs its File: line re-pointed before it is picked. Rejected without annotation:
-    concepts/theory-of-mind falsifier section (3472w vs concepts hard 3500 = 28w headroom
-    for a ~290w import the task itself says cannot fit - additive and length-blocked,
-    a probable no-op); concepts/consciousness-selecting-neural-patterns (standing
-    HUMAN LENGTH DECISION park, net-non-positive only); the empty-topics-13 and six-broken-links
-    tasks (explicit DO-NOT-PROMOTE audits from earlier runs, respected); two apex/one-world-wager
-    tasks (4 open tasks already touch that file); the Lyre/neurophenomenal-structuralism,
-    ontic-structural-realism Newman-DOI and reductionism-condense tasks (same OSR
-    cluster as the live L2128 P2); the Saad 182(3) 28-file sweep and the archive Klein
-    2016-vs-2013 quote (both need publisher-of-record verification this run could
-    not do from disk, and both are in classes memory flags as flip-prone). STRUCTURAL
-    FINDING FOR THE OPERATOR, NOT ACTIONED: 103 P3 tasks remain executable but invisible
-    to a priority-first selector, and the system now spends a replenish cycle roughly
-    every 3 hours hand-promoting from that pool. Promotion is symptom management;
-    the defect is the selector never falling through. Three options, all operator
-    calls: let the selector fall through to P3 when P0-P2 is empty; keep batching
-    promotions large; or change what the priority floor means. The selector and the
-    floor were NOT touched by this run.'
-  last_replenishment_run: 1028
-  loop_pickable_open: 12
+  last_replenishment_note: 'RUN 1029. ZERO MINTED - NINE P3s PROMOTED, ONE OF THE NINE WITHDRAWN
+    BY ME ON RE-CHECK, NET EIGHT. Fired 2026-09-08 ~15:3xZ, ~13.7h after run 1028, on a one-task
+    floor breach. MEASURED with tools.todo.processor.parse_tasks at start of run: 107 active,
+    1 P2 pending (executable), 1 P2 blocked, 105 P3, so executable P0-P2 was 1 against the
+    floor of 3. The queue_status figures this note replaces were STALE: they were run 1028''s
+    01:52Z snapshot (p2_tasks 12, loop_pickable_open 12) and 11 of those 12 had been consumed
+    by 15:30Z. Post-run: 107 active (UNCHANGED - nothing minted, nothing deleted), 9 P2 pending,
+    1 P2 blocked, 97 P3. PROMOTED, each premise re-verified from disk this run with byte offsets
+    recorded in the task note rather than a grep exit status: concepts/delegatory-causation
+    (Saad 2025 issue 182(3) -> 182(3-4) across 28 files, count re-verified exactly 28); archive/concepts/autonoetic-consciousness
+    (natural-selection quote attributed to Klein 2016, verbatim from Klein 2013); positions/consciousness-scope
+    (P-CS1 cites substrate-independence on the wrong relation - the only positions-evolve
+    in the batch); concepts/moral-census-opacity (measurement-problem phrase unlinked, zero
+    cross-references either way); research purification + hypnopompia consumed_by stamping;
+    research values-in-science + african-philosophy consumed_by stamping; archive/voids/fatigue-void
+    (refuted sleep-deprivation metacognition claim live in the description and body, served
+    unfiltered by machine-meta.html); concepts/ontic-structural-realism (Newman 1928 reference
+    15 missing its DOI). THE TWO consumed_by STAMPING TASKS WERE PROMOTED DELIBERATELY: they
+    repair the dedup surface that makes this skill''s own unconsumed_research source unusable,
+    so they pay for themselves in later runs. THREE OF THE EIGHT HAD BEEN EXPLICITLY REJECTED
+    BY RUN 1028 AND EACH OBJECTION WAS DISCHARGED WITH NEW EVIDENCE, recorded in the task
+    notes so this does not read as overriding a predecessor on a whim: the Saad sweep and
+    the Klein attribution were rejected as needing publisher-of-record verification run 1028
+    could not do from disk, and both were verified live at Crossref this run with every field
+    printed (10.1007/s11098-025-02290-3 -> Philosophical Studies 182, issue 3-4, 939-967,
+    Bradford Saad; 10.1016/j.jarmac.2013.08.001 -> JARMAC 2(4), 222-234, Stanley B. Klein,
+    ''The temporal orientation of memory''); the Newman-DOI task was rejected on pileup with
+    a then-live OSR-cluster P2, and that cluster now holds three open tasks of which this
+    is the ONLY P2. Klein''s quote-in-source was NOT re-verified (paywalled, no Crossref abstract)
+    and the task note says so; what supports it independently is that the live successor already
+    attributes the quote to Klein 2013, making the archived page the lone holdout. THE WITHDRAWAL,
+    RECORDED IN FULL BECAUSE IT IS MY OWN ERROR AND IT IS THE THIRD TIME THIS ENTRY HAS FOOLED
+    A RUN: I promoted the ''two hugo/content files carry a broken tenet link'' task after
+    re-verifying its premise, then reverted it to P3. My verification reproduced the ORIGINAL
+    defect that run 1001 refuted on 2026-08-22. I searched both obsidian sources for ''occams-razor-has-limits''
+    (-1), then, believing I was ruling out an emphasis- or wikilink-split form, searched case-insensitively
+    for the bare stem ''occams'' (also -1, which read as decisive). It is not: the sources
+    spell it Occam-apostrophe-s, so no search for ''occams'' can match in any case-folding.
+    Searching ''tenets#Occam'' returns byte 22294 of obsidian/concepts/heterophenomenology.md
+    and byte 25390 of obsidian/topics/microphenomenological-interview-method.md, both carrying
+    the heading-form wikilink that sync slugifies. There is no divergence and no broken link.
+    Two lessons annotated in place on that entry: a confirming second search inside the same
+    character class is worth nothing, and I acted after reading only the first 11 of that
+    block''s 19 lines, so I never saw the existing refutation audit - in this queue those
+    audits live at the BOTTOM of a block, after the notes they overturn. Whoever surveys this
+    pool next must read each candidate block to its END before promoting. RESPECTED WITHOUT
+    RE-LITIGATION, three entries carrying explicit prior audits: the empty-topics-13 entry
+    (DO NOT PROMOTE, severity claim refuted 2026-08-19 - all 13 are neutralised by CONTENT_DIRS
+    scope plus two guards); the six-broken-research-links entry (five of six loci false, net
+    worth one link repoint); and the conceptual-role-semantics citation-date entry (NOT RIPE
+    - two systems disagree and the convention is unsettled). RESEARCH LANE LEFT ALONE ON PURPOSE:
+    7 research-topic tasks are open at P3 and none was promoted, because the lane is not the
+    bottleneck and promoting one would add downstream expand-topic and cap pressure while
+    97 P3 defect-fixes sit invisible. Nothing was minted from any source. task_chains.pending_articles
+    CLEARED this run: its single offloading-void entry was consumed (obsidian/voids/offloading-void.md
+    exists, 19377 bytes); run 1028 diagnosed it stale and left it, so it was still misreporting
+    available work. That field has no writer that removes consumed entries and is not a usable
+    work source. THE BLOCKED P2 WAS NOT TOUCHED: the human-decision register-to-article propagation
+    task keeps status blocked and its blocked_by string intact, and was not promoted, unblocked
+    or re-prioritised. STRUCTURAL FINDING, UNCHANGED FROM RUN 1028 AND AGAIN NOT ACTIONED:
+    97 P3 tasks are executable but invisible to a priority-first selector, and the system
+    is now spending a replenish cycle hand-promoting from that pool roughly twice a day. Promotion
+    is symptom management; the defect is that the selector never falls through. The selector
+    and the floor were NOT touched by this run. One small correction to the driver brief:
+    it put the P3 pool at 81 refine-draft; the measured split is 79 refine-draft, 15 positions-evolve,
+    7 research-topic, 3 apex-evolve, 1 condense.'
+  last_replenishment_run: 1029
+  loop_pickable_open: 9
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 12
-  p3_tasks: 103
+  p2_tasks: 10
+  p3_tasks: 97
   replenishment_source_counts:
     chain: 0
     check_tenets: 0
@@ -681,15 +690,12 @@ queue_status:
     positions_dependency_changed: 0
     positions_register_audit_cadence: 0
     positions_register_gap: 0
-    promotion_from_p3: 10
+    promotion_from_p3: 8
     review_spillover: 0
     staleness: 0
     unconsumed_research: 0
 task_chains:
-  pending_articles:
-  - date: '2026-09-06'
-    research_file: obsidian/research/voids-offloading-void-2026-09-06.md
-    target_section: voids
+  pending_articles: []
   pending_cross_reviews: []
 tune_system_history:
   changes_applied:
