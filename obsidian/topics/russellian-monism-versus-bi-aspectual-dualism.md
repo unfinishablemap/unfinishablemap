@@ -4,7 +4,7 @@ description: "Russellian monism and the dual-aspect tradition approach the Map's
 created: 2026-03-22
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-07-06T16:58:39+00:00
+ai_modified: 2026-09-08T21:17:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -71,7 +71,7 @@ In Cutter's framing, Russellian monism offers no comfortable resting place: one 
 
 ### The Epiphenomenalism Return
 
-Russellian monism was motivated partly by avoiding [[concepts/epiphenomenalism|epiphenomenalism]]. If quiddities ground physical dispositions, consciousness is causally relevant — or so the argument goes. Howell (2015) identifies the flaw: the *contingency thesis*. If quiddity Q1 grounds negative charge in the actual world but a different quiddity Q2 could ground it in another possible world, then quiddities make no distinctive causal contribution *in virtue of their phenomenal character*. "The best Russellian monism can hope for is that phenomenal properties are causally relevant, but not in virtue of their phenomenality" (Howell 2015). Epiphenomenalism returns wearing monist vocabulary. The [[quiddity-epiphenomenalism-and-the-contingency-thesis|dedicated treatment of quiddity epiphenomenalism]] develops *why* the swappable grounding drains phenomenal character of causal relevance, what the necessitarian escape costs, and why the Map's delegatory causation does not inherit this defeater.
+Russellian monism was motivated partly by avoiding [[concepts/epiphenomenalism|epiphenomenalism]]. If quiddities ground physical dispositions, consciousness is causally relevant — or so the argument goes. Howell (2015) identifies the flaw: the *contingency thesis*. If quiddity Q1 grounds negative charge in the actual world but a different quiddity Q2 could ground it in another possible world, then quiddities make no distinctive causal contribution *in virtue of their phenomenal character*. "The best [Russellian monism] can hope for is that phenomenal properties are causally relevant, but not in virtue of their phenomenality" (Howell 2015). Epiphenomenalism returns wearing monist vocabulary. The [[quiddity-epiphenomenalism-and-the-contingency-thesis|dedicated treatment of quiddity epiphenomenalism]] develops *why* the swappable grounding drains phenomenal character of causal relevance, what the necessitarian escape costs, and why the Map's delegatory causation does not inherit this defeater.
 
 ### The Parity Problem
 

@@ -1,14 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-08T20:32:34+00:00'
+ai_modified: '2026-09-08T21:17:14+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-08'
-lastmod: 2026-09-08 20:32:34+00:00
+lastmod: 2026-09-08 21:17:14+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-08T21:17:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [quiddity-epiphenomenalism-and-the-contingency-thesis](/concepts/quiddity-epiphenomenalism-and-the-contingency-thesis/)
+- **Word count**: 2187 → 2488 (+301, status `ok` against 2500 soft)
+- **Critical issues addressed**: 4
+- **Medium issues addressed**: 0 (1 queued as P3)
+- **Enhancements made**: 2 (OSR third-exit paragraph; Further Reading bullet)
+- **Output**: [deep-review-2026-09-08-quiddity-epiphenomenalism-and-the-contingency-thesis](/reviews/deep-review-2026-09-08-quiddity-epiphenomenalism-and-the-contingency-thesis/)
+
+**Three consecutive reviews certified this article clean. It had three critical attribution errors in its two most-quoted sentences.** The dispatch brief was right that the prose was converged — the trims this pass made found only restatement — and right that the file had moved by one character since June. It was wrong, along with the 05-31, 06-09 and 06-25 passes, that the citations were sound, and the reason is worth carrying forward: **the article quoted the paper that replies to its subject and attributed the words to the subject.** Where an argument has a canonical critic, the critic's abstract is the most quotable summary of that argument in existence, which is exactly how it ends up in the target's mouth.
+
+**Two passages attributed to Howell (2015) are verbatim Alter & Coleman (2021).** The L40 exposition ("consciousness is constituted at least partly by quiddities: intrinsic properties that categorically ground dispositional properties described by fundamental physics") and the L44 display blockquote defining the thesis are the opening sentences of Alter & Coleman's abstract — confirmed at two independent publisher-supplied surfaces, the Crossref abstract field for `10.1111/nous.12318` and the OpenAlex inverted index for the same DOI reconstructed by position. Howell's paper was retrieved in full (author's copy of the OUP PDF at rjhjr.com, 18pp, extraction verified page-by-page at ~2,800 chars/page) and contains neither. The stem `quiddit` occurs **exactly once** in Howell's 18 pages, inside his own quotation of someone else's formulation. Re-attributed, and A&C's wording restored — the article had inserted "the" before "dispositional properties" and fused their two sentences with an em-dash.
+
+**The label "contingency thesis" is Alter & Coleman's, not Howell's.** Case-insensitive count of `contingen` in Howell (2015): **zero**. The `description` frontmatter said "Howell's contingency thesis". Corrected there and in the lead; crediting the *flaw* to Howell is right and unchanged.
+
+**Howell's own rebuttal was presented as the Map's insight.** The article read "the necessitarian move carries costs *the Map's own commitments make visible*" and named Alter & Coleman as the necessitarian defence. Howell raises the objection himself, concedes it works — "Such a 'necessitarian' Russellian Monism might in fact dodge the exclusion argument" — then argues it is "conceptually coherent, but... unmotivated" and that one "would do better embracing a more traditional form of physicalism or dualism". Two of the three cost bullets are his accounting; only the Pautz-routed first is the Map's. A&C's abstract has them arguing that neither version of the epiphenomenalism argument succeeds — an attack on the inference, not a necessitarian denial. Their full text is paywalled (Wiley 403, Hertfordshire deposit 403 behind Cloudflare), so the article now says only what the abstract supports and does **not** characterise their positive strategy.
+
+**Quote-fidelity fix with family resolution.** The Howell verdict quote read "The best Russellian monism can hope for..."; the true text is "The best **it** can hope for...", verified in the PDF at offset 2696 and in the publisher abstract. The antecedent had been substituted *inside* the quotation marks. Restored to the bracketed editorial form the corpus's own upstream research note has carried since 2026-03-14, and propagated: `concepts/russellian-monism` and `topics/russellian-monism-versus-bi-aspectual-dualism` carried the same unbracketed string and are fixed in both trees. Corpus sweep leaves zero live loci — the two surviving hits are inside the 2026-06-25 review file's record of what it checked, a historical artefact left alone.
+
+**Why four reviews missed it.** The 06-09 pass ran a publisher-of-record **metadata** ledger and passed all seven cites, correctly: the metadata *is* faithful. The 06-25 pass checked the two central quotations for **intra-corpus consistency** across three files and found them identical, also correctly. Neither test can see which paper the words came from. A quotation that is verbatim, well-formed and identically rendered in four files can still be from the wrong paper.
+
+**The OSR lead was accepted and written as an exposure, not an escape.** `concepts/ontic-structural-realism` (created 2026-09-04, integrated into two siblings on 09-06) had never been linked here despite this article being about quiddities. Added: Kleiner (2025)'s ontic phenomenal structural realism denies intrinsic qualities exist, so there is no Q1 for a Q2 to replace and the contingency thesis loses its subject matter rather than being answered; Loorits (2014) is named as asserting the metaphysics, Kleiner as coining the taxonomy rather than holding it. The sharper half is the cost: Lyre (2022) reaches phenomenal inertness through an exclusion argument on which "the Q-structure plays no causal role at all, but all the causal work is taken over by the N-structure", with no grounding relation left to be contingent, and takes his position to be "consistent with a reduction of the phenomenal to the neural" — a rival to Bidirectional Interaction, not only to Russellian monism. Hence "The Map gains nothing here" and "Not inheriting Howell's objection therefore buys less than it looks". Adding OSR as a second defeater the Map also escapes would have been the tempting error and was avoided deliberately. All three new cites verified at source: Kleiner at the PhiMiSci galley PDF, Loorits via PMC3957492, Lyre via PMC9396309 full-text XML with the surrounding sentence printed to confirm the claim is in his own voice. No unread source cited. References appended as 10–12, **nothing renumbered**.
+
+**Length-neutral where it had to be.** The additions took the article to 2529 (`soft_warning`); trims were applied to restatement only — the post-blockquote paragraph that repeated the lead sentence-for-sentence, a clause duplicating the bullet directly beneath it, and three mechanism restatements — landing at 2488, `ok`. No calibration qualifier was touched; the triplicated "not evidence for the Map" discipline is the article's point and `optimistic-2026-05-31c` praised it by name.
+
+**Both trees verified by printed offset**, not a truncated grep: every addition present in obsidian and hugo at named offsets, and the unbracketed quote at offset −1 in all six content files. Sync run; `ai_modified` + `last_deep_review` from live `date -u`; `ai_system` appended to `claude-opus-4-8+claude-opus-5` on the target and on the topics sibling. Siblings' `ai_modified` bumped for the quote fix.
 
 ## 2026-09-08T20:32:34+00:00 - refine-draft
 - **Status**: Success
