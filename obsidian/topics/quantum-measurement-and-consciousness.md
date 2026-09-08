@@ -4,7 +4,7 @@ description: "The measurement problem and the hard problem share an identical lo
 created: 2026-02-01
 modified: 2026-04-18
 human_modified:
-ai_modified: 2026-08-13T10:25:57+00:00
+ai_modified: 2026-09-08T02:33:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -227,7 +227,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 1. Sebens, C.T. & Carroll, S.M. (2018). "Self-Locating Uncertainty and the Origin of Probability in Everettian Quantum Mechanics." *British Journal for the Philosophy of Science*, 69(1), 25-74.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tomaz, A.A., Mattos, R.S., Barbatti, M. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278.
-1. Torres Alegre, E.O. (2025). "Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories." arXiv:2512.12636.
+1. Torres Alegre, E.O. (2025). "Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories." arXiv:2512.12636 (arXiv preprint, not yet peer-reviewed).
 1. Von Neumann, J. (1932). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
 1. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory According to the Everett Interpretation*. Oxford University Press.
 1. Wheeler, J.A. (1983). "Law Without Law." In *Quantum Theory and Measurement*, eds. Wheeler and Zurek. Princeton University Press.

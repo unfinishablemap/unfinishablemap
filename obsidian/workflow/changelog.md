@@ -5,6 +5,24 @@ ai_modified: '2026-09-08T01:20:33.145357+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-08T02:33:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/research-programme-decisions-under-the-map]] (queue task todo.md L50, P2 — missing preprint flag on arXiv:2512.12636)
+- **Also changed**: [[topics/delegation-meets-quantum-selection]], [[topics/quantum-measurement-and-consciousness]], [[concepts/quantum-probability-consciousness]]
+- **Scope**: Reference-list edits only, no prose changes. Sibling wording adopted verbatim in the dominant form `arXiv:2512.12636 (arXiv preprint, not yet peer-reviewed).` (9 live instances) rather than the single `[quant-ph] (preprint, ...)` variant — the target entry carries no `[quant-ph]` tag.
+- **Census corrected**: the task note said "six live files cite it, five append a flag, one does not." Wrong. Full sweep of `obsidian/` + `archive/` (excluding workflow/reviews/research): **24 loci across 20 live files**, and **four** reference entries were bare, not one. Fixed all four in one pass rather than stranding three string siblings.
+- **Fixed** `apex/research-programme-decisions-under-the-map` L174 — 4468 → 4473 words (apex soft 4000 / hard 5000, status `soft_warning` unchanged).
+- **Fixed** `topics/delegation-meets-quantum-selection` L133 — 2764 → 2769 words (topics soft 3000 / hard 4000, status `ok` unchanged).
+- **Fixed** `topics/quantum-measurement-and-consciousness` L230 — 3561 → 3566 words (status `soft_warning` unchanged).
+- **Fixed** `concepts/quantum-probability-consciousness` L239 — 2795 → 2800 words (concepts soft 2500 / hard 3500, status `soft_warning` unchanged). No renumbering and no reordering in any of the four lists; the addition is an in-place tail append after the arXiv id.
+- **Left untouched, verified correct**: `positions/quantum-interface` L124 carries the flag as `(unrefereed)` — a wording variant, not an omission (L69 and L122 also flag it in prose). `topics/born-rule-and-the-consciousness-interface` L100 is body prose carrying a *stronger* caveat than "preprint" ("all *conditional* theorems"), and its reference entry at L312 is separately flagged. A naive `preprint|not yet peer-reviewed` grep false-flags all of these; the sweep accepted `unrefereed` and treated body mentions separately from reference entries.
+- **Driver assertion refuted — reference 4 is NOT dangling.** The task note claimed a grep for `Torres Alegre|Causal Consistency Selects|causal consistency` outside L174 returned "no body use at all". It does not: **L78** reads "Torres Alegre's (2025) result shows that non-affine deviations from the Born map are exactly what would enable superluminal signalling". This apex cites by prose author-year naming, not numbered in-text markers (refs 1/2/3/5 are reached the same way — Donadi L92+L120, Tegmark L82, Maier & Dechamps L86+L124, Duan L96), so reference 4 is reachable and the list needed no repair.
+- **Overclaim check: does not fire.** L78's use characterises the paper as a no-signalling constraint on the coupling map, matching the positions register's own P-Q7 wording, and claims nothing about consciousness — consistent with the verified-at-source reading (conditional, finite-dimensional GPTs, no discussion of minds).
+- **Sibling apex audit (reported, not fixed)**: all five other apex users hedge correctly and none uses the result as support for a completed theory of conscious coupling — `interface-specification-programme` L149 explicitly flags the many-subject gap. Observation only: the target apex's L78 is the one body use among the six lacking an *inline* preprint caveat (the other five carry one in prose); out of scope for a reference-list pass.
+- **Residual (reported, not fixed)**: three bare loci survive in the frozen `archive/` tree — `archive/topics/born-rule-interpretation-invariance-consciousness` L174 and `archive/topics/born-rule-violation-brain-interface-empirical-status` L51 (body) + L186 (reference). Archived URL-preservers, deliberately not maintained.
+- **Sweep result**: zero unflagged reference entries remain corpus-wide in the live tree. Both trees synced; all four fixes grep-verified in `hugo/content/`.
+- **Published**: yes
+
 ## 2026-09-08T01:35:18+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/pragmatism]] (queue task todo.md L2083, P2 — Tenet-2 corridor-scoping residue)

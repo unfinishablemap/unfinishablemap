@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-16
-ai_modified: 2026-08-17 16:53:53+00:00
+ai_modified: 2026-09-08 02:33:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 apex_decision_context: 'For a working scientist or philosopher who accepts the Map''s
   tenets: which research directions are most warranted by the framework''s confidence
@@ -44,7 +44,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 16:44:53+00:00
-lastmod: 2026-08-17 16:53:53+00:00
+lastmod: 2026-09-08 02:33:29+00:00
 modified: *id001
 related_articles:
 - '[[apex/interface-specification-programme]]'
@@ -178,5 +178,5 @@ And the positions register entry [Quantum Interface Positions](/positions/quantu
 1. Donadi, S. et al. (2021). Underground test of gravity-related wave function collapse. *Nature Physics*, 17, 74-78.
 2. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 3. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology*, 9, 379.
-4. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. arXiv:2512.12636.
+4. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. arXiv:2512.12636 (arXiv preprint, not yet peer-reviewed).
 5. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences USA*, 114(32), 8493-8498. https://doi.org/10.1073/pnas.1702261114

@@ -48,16 +48,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-09-07
 
-### P2: `apex/research-programme-decisions-under-the-map` L174 cites arXiv:2512.12636 without the "not yet peer-reviewed" flag its five sibling citations all carry
-- **Promoted**: 2026-09-08 P3 to P2 by /replenish-queue (batch promotion, nothing minted). Premise re-verified on disk: `grep -n '2512.12636' obsidian/apex/research-programme-decisions-under-the-map.md` returns L174 carrying the bare form (hugo L181), while `grep -rn '2512.12636' obsidian/apex/ obsidian/positions/ | grep -ci 'peer-review|unrefereed'` returns 8 sibling lines that all carry the flag. Smallest and lowest-risk item in tonight's batch.
-- **Type**: refine-draft
-- **File**: obsidian/apex/research-programme-decisions-under-the-map.md
-- **Notes**: Citation-hygiene inconsistency found while verifying the reviewer's §3 characterisation of the paper. Six live files cite Torres Alegre, E. O. (2025), "Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories," arXiv:2512.12636. Five append a preprint flag — `apex/born-preserving-causal-efficacy` L223, `apex/interface-specification-programme` L214, `apex/phenomenology-mechanism-bridge` L215, `apex/post-decoherence-selection-programme` L207 ("arXiv preprint, not yet peer-reviewed") and `apex/what-consciousness-tells-us-about-physics` L279 ("[quant-ph] (preprint, not yet peer-reviewed)"). **`apex/research-programme-decisions-under-the-map` L174 ends at the arXiv id.** Add the flag in the sibling form.
-  **While in the file, verify the body does not overclaim the result** — this was the reviewer's actual §3 point and it was **verified correct at source** 2026-09-06: arXiv:2512.12636 derives the Born rule as the unique causally consistent probability assignment *within finite-dimensional generalised probabilistic theories*, assuming purification and no-signalling. It is a conditional result inside an abstract framework, and it contains **no discussion of consciousness, minds, or mind–matter coupling**. If this apex (or any of the five siblings, checked opportunistically and reported rather than fixed here) uses it as support for a completed theory of conscious coupling to brains, that is a separate and larger defect — raise it as its own task rather than folding it in. Reference-list edit only unless that check fires; length-neutral; `ai_modified` live; sync and grep both trees.
-- **Review file**: `reviews/outer-review-2026-09-06-astra-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-06
-
 ### P3: `concepts/cumulative-culture` L154 and L198-202 carry the two moves withdrawn from `teaching-as-metarepresentation` on 2026-09-05 — the "neural resources comparable to early hominins" claim and the No Many Worlds indexical-identity argument
 - **Type**: refine-draft
 - **File**: obsidian/concepts/cumulative-culture.md
@@ -2149,6 +2139,12 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-08: `apex/research-programme-decisions-under-the-map` L174 cites arXiv:2512.12636 without the "not yet peer-reviewed" flag its five sibling citations all carry
+- **Type**: refine-draft
+- **File**: obsidian/apex/research-programme-decisions-under-the-map.md
+- **Notes**: Citation-hygiene inconsistency found while verifying the reviewer's §3 characterisation of the paper. Six live files cite Torres Alegre, E. O. (2025), "Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories," arXiv:2512.12636. Five append a preprint flag — `apex/born-preserving-causal-efficacy` L223, `apex/interface-specification-programme` L214, `apex/phenomenology-mechanism-bridge` L215, `apex/post-decoherence-selection-programme` L207 ("arXiv preprint, not yet peer-reviewed") and `apex/what-consciousness-tells-us-about-physics` L279 ("[quant-ph] (preprint, not yet peer-reviewed)"). **`apex/research-programme-decisions-under-the-map` L174 ends at the arXiv id.** Add the flag in the sibling form.
+  **While in the file, verify the body does not overclaim the result** — this was the reviewer's actual §3 point and it was **verified correct at source** 2026-09-06: arXiv:2512.12636 derives the Born rule as the unique causally consistent probability assignment *within finite-dimensional generalised probabilistic theories*, assuming purification and no-signalling. It is a conditional result inside an abstract framework, and it contains **no discussion of consciousness, minds, or mind–matter coupling**. If this apex (or any of the five siblings, checked opportunistically and reported rather than fixed here) uses it as support for a completed theory of conscious coupling to brains, that is a separate and larger defect — raise it as its own task rather than folding it in. Reference-list edit only unless that check fires; length-neutral; `ai_modified` live; sync and grep both trees.
 
 ### ✓ 2026-09-08: Six live articles still concede the corridor is flat "indistinguishable from chance" after `tenets/tenets.md` L75/L81/L107 scoped it to *unconditioned aggregate* tests — the 2026-09-04 sweep caught the "under any aggregate test" string form only
 - **Type**: refine-draft

@@ -4,7 +4,7 @@ description: "Born probabilities describe the consciousness-quantum interface: n
 created: 2026-01-23
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-07-29T03:51:58+00:00
+ai_modified: 2026-09-08T02:33:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -236,7 +236,7 @@ The question of quantum probability's nature connects to all five tenets:
 
 19. Von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer.
 
-20. Torres Alegre, E. O. (2025). "Causal Consistency Selects the Born Rule." arXiv:2512.12636.
+20. Torres Alegre, E. O. (2025). "Causal Consistency Selects the Born Rule." arXiv:2512.12636 (arXiv preprint, not yet peer-reviewed).
 
 21. Reimers, J. R., McKemmish, L. K., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). "Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness." *PNAS*, 106(11), 4219-4224.
 
