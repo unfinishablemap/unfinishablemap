@@ -4,7 +4,7 @@ description: "Autonoetic consciousness—self-knowing awareness enabling mental 
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-02-24T16:12:00+00:00
+ai_modified: 2026-09-08T17:06:09+00:00
 last_deep_review: 2026-02-24T16:12:00+00:00
 draft: false
 archived: true
@@ -70,7 +70,7 @@ The incompleteness of each framework is philosophically telling. No purely funct
 
 ## Autonoesis and Causal Efficacy
 
-Klein (2016) argued that autonoetic consciousness, rather than episodic memory content, drives future-oriented cognition. His evolutionary analysis reframes the purpose of memory: "Memory has been designed by natural selection not to relive the past, but rather to anticipate and plan for future contingencies." On this view, the felt quality of temporal self-projection is not decorative—it is the mechanism through which past experience shapes future behaviour.
+Klein (2016) argued that autonoetic consciousness, rather than episodic memory content, drives future-oriented cognition. His earlier evolutionary analysis reframes the purpose of memory: "Memory has been designed by natural selection not to relive the past, but rather to anticipate and plan for future contingencies" (Klein, 2013). On this view, the felt quality of temporal self-projection is not decorative—it is the mechanism through which past experience shapes future behaviour.
 
 This has implications for the question of whether [[consciousness]] is epiphenomenal. If autonoetic awareness is what enables counterfactual reasoning, future planning, and deliberate action—capacities that unconscious processing does not replicate—then consciousness is causally efficacious. A physicalist might reply that the *information processing* underlying autonoetic states does the causal work, and the felt quality is along for the ride. But Klein's content/manner distinction pushes back: the same informational content, present in both noetic and autonoetic modes, yields different functional outcomes depending on how it is experienced. The manner of experiencing—not the information alone—determines what the agent can do with the memory.
 
@@ -121,6 +121,7 @@ Several findings would weaken the constitutive position and, with it, the dualis
 
 1. De Brigard, F. (2024). Episodic memory without autonoetic consciousness. *Philosophical Transactions of the Royal Society B*, 379(1913). https://royalsocietypublishing.org/doi/10.1098/rstb.2023.0410
 1. Dokic, J. (2014). Feeling the past: A two-tiered account of episodic memory. *Review of Philosophy and Psychology*, 5(3), 413-426.
+1. Klein, S.B. (2013). The temporal orientation of memory: It's time for a change of direction. *Journal of Applied Research in Memory and Cognition*, 2(4), 222-234.
 1. Klein, S.B. (2016). Autonoetic consciousness: Reconsidering the role of episodic memory in future-oriented self-projection. *Quarterly Journal of Experimental Psychology*, 69(2), 381-401.
 1. Sant'Anna, A., Michaelian, K., & Andonovski, N. (2024). Autonoesis and episodicity: Perspectives from philosophy of memory. *WIREs Cognitive Science*, 15(1), e1665.
 1. Suddendorf, T. & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.

@@ -1,9 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-08T16:50:16+00:00'
+ai_modified: '2026-09-08T17:06:09+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-08T17:06:09+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Misattributed quote, `archive/concepts/autonoetic-consciousness` — queue P2 line 487, promoted from P3 by run 1029
+- **File**: [[archive/concepts/autonoetic-consciousness]]
+- **Changes**: Reattributed the "designed by natural selection" quote from Klein (2016) to Klein (2013) in the body (§Autonoesis and Causal Efficacy); added the Klein, S.B. (2013) reference in alphabetical/chronological position. The pre-existing Klein, S.B. (2016) reference is retained and unchanged — it carries the article's own 2016 content at two loci (body offset 2654, references 14711). No reference renumbered (list is all `1.`, markdown auto-numbers); no `ai_system` extended (metadata-and-attribution repair, not new authoring).
+- **Published**: yes
+
+**Editorial option taken: (a) correct the frozen prose rather than (b) append a dated correction note.** The live successor `concepts/anoetic-noetic-autonoetic-consciousness` was corrected this way on 2026-08-17 and carries both Klein references with the quote at (Klein, 2013); (a) makes the two tiers agree and leaves one locus to revisit if the reading is ever overturned. An archive notice does not stop an LLM fetching the archive URL from reading the body as the page's claim. No in-body correction note was added, because adding one only to the archive tier would create a fresh asymmetry with the live tier, which carries none.
+
+**⚠️ THE OUTSTANDING QUOTE-IN-SOURCE CHECK IS NOW DISCHARGED — the attribution is source-verified, not corpus-alignment.** The task and the dispatch brief both recorded that the 2013 attribution rested only on the 2026-08-17 review's reading, and that the quote's presence in Klein 2013's text had never been re-verified; the brief reported PhilPapers bot-gated (Cloudflare 403) and expected the check to remain open. It is closed. **The quote is present verbatim in Klein 2013's own abstract**, recovered via OpenAlex's `abstract_inverted_index` for DOI `10.1016/j.jarmac.2013.08.001` — a field Crossref does not carry for this record, which is why earlier attempts missed it. Reconstructed abstract, offset **328**:
+
+> As I hope to show, memory has been designed by natural selection not to relive the past, but rather to anticipate and plan for future contingencies -- a decidedly future-oriented mode of subjective temporality.
+
+The article's quoted span matches offsets 328–440 word for word. The only alterations are ordinary quotation practice: an initial capital on "Memory" (the fragment opens a sentence in our prose but sits mid-sentence in the abstract) and a terminal period in place of the abstract's em-dash continuation. Not flagged as a defect.
+
+**Non-contamination established, because an aggregator ratifying a verbatim quote is exactly the trap here.** The OpenAlex record's provenance is `mag: 2126500639` — Microsoft Academic Graph, which shut down in 2021, years before this article existed. The abstract text therefore cannot have been seeded by the Map's own wording. Independently corroborated by web search, which locates the sentence in "The temporal orientation of memory: It's time for a change of direction" by title. Both routes terminate in the paper's own author-written abstract, which is part of the paper — so this is presence in the source, not agreement between two downstream copies.
+
+**Why this was flip-prone, and why it is now settled in the same direction.** The 2026-08-17 finding was that the quote is *absent from Klein 2016's abstract* — evidence against 2016, but not proof of 2013, since absence from an abstract is not absence from a paper. That asymmetry is what left the check open. The present run supplies the missing positive: presence in Klein 2013's abstract. The 2013 reading is confirmed on its own evidence rather than inherited from the live tier.
+
+**Klein 2013 reference verified field-by-field at Crossref, every cited field printed:** DOI `10.1016/j.jarmac.2013.08.001`, title "The temporal orientation of memory: It's time for a change of direction.", `container-title` *Journal of Applied Research in Memory and Cognition*, `volume 2`, `issue 4`, `page 222-234`, sole author `Klein, Stanley B.`, `issued 2013-12`. The reference as written matches. Klein 2016 re-verified likewise: DOI `10.1080/17470218.2015.1007150`, *Quarterly Journal of Experimental Psychology*, 69(2), 381-401, issued 2016-02.
+
+**Residual left deliberately untouched.** A later sentence in the same section reads "Klein also showed that even patients who lack episodic memory can engage in some future-oriented thought…". With two Klein references now present this is looser than before, but it is not a misattribution, and assigning it to a specific paper would assert a fact this run did not verify. It reads back to the Klein (2016) argument that anchors the section. The live successor dropped this sentence in the coalesce, so there is no precedent to mirror.
+
+**Verified no ordinal-citation breakage before touching the reference list:** the body contains no `[N]`, `ref N`, or `see N` citation forms (the parenthesised numbers are years), and no open todo entry cites these references by ordinal. Insertion in alphabetical position required no renumbering.
 
 ## 2026-09-08T16:50:16+00:00 - refine-draft
 - **Status**: Success — 34 files corrected (brief scoped 28; 6 punctuation siblings carried the identical defect)
