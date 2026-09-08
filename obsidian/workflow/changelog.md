@@ -1,10 +1,52 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-08T21:17:14+00:00'
+ai_modified: '2026-09-08T22:36:39+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+
+## 2026-09-08T22:36:39+00:00 - coalesce
+- **Status**: Abandoned (no merge — correct outcome for this slot)
+- **Sources**: none archived
+- **Target**: none created
+- **Archived**: none
+- **References to review**: none
+- **Tasks minted**: none
+
+**Measurement.** TF-IDF cosine over **822 live articles** (topics, concepts, voids, apex, positions, arguments, questions), same-section pairs only, filtered to pairs whose combined length fits under the section's **hard** threshold on a generous 15% merge saving. Thresholds printed live from `tools.curate.length.THRESHOLDS` — concepts is `(soft 2500, hard 3500, critical 5000)`. **5162 pairs fit on length; max cosine among them 0.411.** Two candidates examined and both declined.
+
+⚠️ **The prior "max cosine 0.138" figure was stale — it is 0.411 today.** This run is *not* an empty-pool abandon. There are genuinely similar fitting pairs; the abandon rests on what the similarity *is*.
+
+**Candidate 1 — the Whitehead cluster. Declined: hub destruction, and the only merge that would help does not fit.**
+
+`concepts/process-philosophy` (2210w) is the tradition **hub** with **47 inbound content-section files** (110 occurrences, excluding `reviews/`, `workflow/`, `research/`, `project/`, `templates/`); `prehension` (1779w) has 10, `subjective-aim` (1838w) 6. Both children open by linking to the parent ("In Whitehead's `[[process-philosophy|process philosophy]]`…"), and the parent's Further Reading delegates the full treatment back to each child. This is hub-and-spoke with **documented delegation**, not fragmentation.
+
+- Merging the parent into either child destroys a 47-inbound tradition landing page, and those inbound links point at the *tradition*, not at a technical term.
+- Merging either child into the parent strands the other child's opening move.
+- The **3-way merge does not fit**: 2210+1779+1838 = 5827, ×0.85 = **4953 against hard 3500** — `hard_warning` on arrival, only 47 words below `critical`, and it would immediately mint a condense task.
+- `process-philosophy` is also the anchor for the Map's strongest-rival framing (`[[the-steelman-for-process-monism]]`, "one of five recurring structural types" in `[[interaction-problem-across-traditions]]`). Merging it into a technical-term article buries that.
+
+**Candidate 2 — TI / time-symmetric physics. Declined: explicit canonical-home delegation, and zero duplicated claims.**
+
+`concepts/time-symmetric-physics` (2217w, 10 inbound) is the general background (T-symmetry of Schrödinger/Maxwell/GR, the arrow-of-time question, TSVF, Price); `concepts/transactional-interpretation-of-quantum-mechanics` (1759w, 11 inbound) is one specific interpretation. **TI's own lede declares it "the canonical home for the roughly two dozen corpus files that reference TI in passing,"** and `time-symmetric-physics` explicitly delegates to it in Further Reading ("The canonical treatment of Cramer's handshake and Kastner's possibilism, including the Maudlin objection every TI-based story inherits"). A merge would dissolve a self-declared canonical home.
+
+**Redundancy measured directly, not inferred.** Near-duplicate sentence pairs (Jaccard ≥ 0.45, apparatus excluded):
+
+| pair | cosine | near-dup sentence pairs | verdict |
+|---|---|---|---|
+| `process-philosophy` + `prehension` | 0.380 | **8** of 9328 (0.09%) | delegated summary, ~4% of combined text |
+| `process-philosophy` + `subjective-aim` | 0.304 | 2 | differentiated |
+| `prehension` + `subjective-aim` | 0.323 | 2 (both tenet-section paraphrases) | differentiated |
+| `transactional-interpretation…` + `time-symmetric-physics` | 0.278 | **0** of 6200 | **no duplicated claims at all** |
+
+A coalesce exists to eliminate redundancy. The most-similar fitting pair in the corpus duplicates ~4% of its combined text; the second duplicates none of it. The remaining "saving" a merge would have to find is non-duplicated substance.
+
+**One hypothesis tested and rejected, recorded so it is not re-run:** the shared template (five identical tenet sub-headings under "Relation to Site Perspective", plus Further Reading and References) inflates cosine corpus-wide. Measured — it accounts for only **3–16%** of these pairs' cosine (concepts-corpus median cosine 0.045, p95 0.103, unchanged by stripping the template). The similarity is real substantive vocabulary overlap. It is **role granularity** — a tradition hub plus its technical terms, and a background property plus a specific interpretation that borrows it — which is exactly what high topical similarity between correctly-separated articles looks like.
+
+**Correction to the dispatch brief's reasoning (conclusion unaffected).** The brief held that the 2-way merges would "very likely land over hard". Measured, they probably would *not*: with apparatus unioned (dedup on the smaller list) and 20% prose saving, `process-philosophy`+`prehension` lands ~3250 and TI+`time-symmetric-physics` ~3200, both under hard 3500. Length is **not** the binding objection on the 2-way merges; the structural objection is, and it is sufficient on its own. The length objection stands only against the 3-way Whitehead merge, where it is decisive.
+
+**Fences honoured.** No `*-calibration-history` file was considered (deliberate audit-trail split; all excluded by the length filter anyway). No parallel per-modality siblings considered. No article archived, no article created, no task minted, no commit made.
 
 ## 2026-09-08T21:41:01+00:00 - refine-draft
 - **Status**: Success
