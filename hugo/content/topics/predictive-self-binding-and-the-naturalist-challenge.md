@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-09-07 14:03:13+00:00
+ai_modified: 2026-09-08 18:43:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -18,8 +18,8 @@ description: Chris Letheby's predictive self-binding is the strongest naturalist
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-27 01:03:17+00:00
-lastmod: 2026-09-07 14:03:13+00:00
+last_deep_review: 2026-09-08 18:43:16+00:00
+lastmod: 2026-09-08 18:43:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -34,7 +34,7 @@ topics:
 
 The most developed naturalist account of psychedelic experience is Chris Letheby's *predictive self-binding*. On this account, the felt self is a high-precision Bayesian prior: a hierarchical model the brain maintains because positing a stable, persisting entity efficiently integrates salient, egocentric, autobiographical information. Psychedelics relax the precision of these self-priors—the mechanism Carhart-Harris and Friston call REBUS—"unbinding" mental contents from the self-model, which then becomes phenomenally *opaque* (experienced as a model rather than seen-through). That opacity is ego dissolution. Letheby's metaphysical conclusion is **self-fictionalism**: the unified, substantial self is a useful Cartesian fiction with no referent. This is the strongest contemporary rival to the Map's filter-theoretic and dualist reading of the same neuroimaging data, and the Map owns an honest concession—on altered-state data *alone*, the two accounts are empirically equivalent.
 
-This article presents predictive self-binding at full strength and then mounts the Map's reply on three fronts (each [developed below](#the-three-pronged-reply)): the [hard-problem debt](#the-hard-problem-debt) that predictive processing assumes rather than discharges, the [persistent minimal self](#the-persistent-minimal-self) the Map predicts survives dissolution, and the [comforting-delusion reversal](#the-comforting-delusion-reversal) that turns Letheby's central objection back on the naturalism it presupposes. The companion article [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) treats Letheby as a foil *within* the filter discussion; this piece foregrounds the self-fictionalism metaphysics that the filter article only gestures at, and engages Letheby as the disciplined physicalist baseline the Map must clear.
+This article presents predictive self-binding at full strength and then mounts the Map's reply on three fronts (each [developed below](#the-three-pronged-reply)): the [hard-problem debt](#the-hard-problem-debt) that predictive processing assumes rather than discharges, the [persistent minimal self](#the-persistent-minimal-self) the Map predicts survives dissolution, and the [comforting-delusion reversal](#the-comforting-delusion-reversal) that turns Letheby's central objection back on the naturalism it presupposes. The companion article [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) treats Letheby as a foil *within* the filter discussion; this piece foregrounds the self-fictionalism metaphysics that the filter article only gestures at.
 
 ## The Predictive Self-Binding Account
 
@@ -50,13 +50,15 @@ The physiological substrate the self-binding account rides on is REBUS—"Relaxe
 
 ### Why "More Real Than Real"
 
-The account has an elegant explanation for the noetic, "more real than real" quality of psychedelic insight. When the self-model loses precision, it stops being transparent—the subject experiences the model *as* a model rather than seeing through it as simply "me." Opaque models feel revelatory because they expose what is normally invisible. Crucially, on Letheby's reading, nothing *beyond* the model is being revealed. The insight is real, but its content is the constructed nature of the self, not access to any deeper layer of reality. The contrast that sorts these possibilities is Gładziejewski's (2023): on one model psychedelics permit third-eye perception of metaphysical truth, on the other they dispel cognitive structures that block accurate perception. Letheby's account of psychedelic insight falls on the dispelling-the-illusion side.
+The account has an elegant explanation for the noetic, "more real than real" quality of psychedelic insight. When the self-model loses precision, it stops being transparent—the subject experiences the model *as* a model rather than seeing through it as simply "me." Opaque models feel revelatory because they expose what is normally invisible. Crucially, on Letheby's reading, nothing *beyond* the model is being revealed. The insight is real, but its content is the constructed nature of the self, not access to any deeper layer of reality.
+
+Gładziejewski's (2023) taxonomy, usually invoked here, does not divide the options the way a deflationary reading needs. His "third eye" model has a deep psychedelic state opening a mystical faculty into direct contact with ultimate reality; his "dispelling-the-illusion" model has psychedelics removing cognitive structures that obstruct metaphysical truth, so that experience better aligns with how the world is. Both are accounts of how such states could be *truth-revealing*, differing over the mechanism rather than over whether anything is revealed. Letheby belongs on the dispelling side, but his use of it stops at the self: the illusion dispelled is the substantial subject, and no further metaphysics follows. Gładziejewski does not stop there—he takes Letheby and Gerrans' own constructivist account of self-experience as a premise, and elsewhere in the same paper treats psychedelic states as data that can be marshalled for [cosmopsychism](/concepts/cosmopsychism/). The taxonomy's deflationary-looking branch is, in its author's hands, a route by which altered states bear on metaphysics rather than a way of quarantining them from it—a point the [comforting-delusion reversal](#the-comforting-delusion-reversal) returns to.
 
 ## The Naturalistic Epistemic-Benefit Argument
 
 In *Philosophy of Psychedelics* (Oxford, 2021), Letheby extends self-binding into an argument about the *epistemics* of psychedelic therapy. The central problem he addresses is the **Comforting Delusion Objection** (CDO): if psychedelics heal by inducing mystical beliefs that naturalism deems false—belief in a cosmic consciousness, a soul, a beyond—then prescribing them is prescribing comforting delusions, and a naturalist cannot in good conscience endorse the practice.
 
-Letheby's response is a "fourth option." Psychedelics, he argues, work through transformative *phenomenological insight*, not through instilling false metaphysical beliefs. The therapeutic mechanism is a felt insight into the constructed, non-substantial nature of the self—a change in the *sense* of self and in how one relates to one's own mind, not a change in beliefs about ultimate reality. Metaphysical belief shifts, where they occur, are a side-effect rather than the active ingredient.
+Letheby's response is a fourth option beyond the three the objection leaves open. Psychedelics, he argues, work through transformative *phenomenological insight*, not through instilling false metaphysical beliefs. The therapeutic mechanism is a felt insight into the constructed, non-substantial nature of the self—a change in the *sense* of self and in how one relates to one's own mind, not a change in beliefs about ultimate reality. Metaphysical belief shifts, where they occur, are a side-effect rather than the active ingredient.
 
 On this reading the epistemic risks under naturalism are surprisingly small and the epistemic benefits surprisingly large: new psychological insight, existential reflection, knowledge-by-acquaintance of altered states, and the ability to disidentify from maladaptive self-beliefs by experiencing them as "just thoughts." Letheby coins **naturalistic spirituality** for experiences legitimately called spiritual—unity, connectedness, ego transcendence—that need involve no belief in anything beyond the natural world. The CDO, on his account, fails: psychedelic therapy is epistemically respectable for the naturalist because its healing does not run through delusion.
 
@@ -96,11 +98,11 @@ The Map does not claim the reversal establishes that psychedelic insights *are* 
 
 The Map maintains an honest concession central to its [filter-model treatment](/topics/psychedelics-and-the-filter-model/): on psychedelic data *alone*, predictive self-binding is not inferior to the filter reading. Both predict the same neuroimaging signatures—the precision-relaxation that REBUS formalises, the large-scale network desegregation that recent psychedelic imaging centres, the intensity-dissolution correlations. Both predict richer phenomenology under prior-relaxation; the framing that "less brain activity yields richer experience strains production accounts" does not strain Letheby's at all, because predictive processing predicts exactly that as a dynamical consequence.
 
-The two accounts diverge only on questions the neuroimaging cannot adjudicate: whether the minimal self survives, whether the noetic quality tracks veridical access or model-opacity, and—beneath both—whether a structured Bayesian model is phenomenally felt. The discriminating work is therefore done not by psychedelic data but by broader theoretical commitments and the corpus-wide convergence pattern. The Map's foundational stance places it outside Letheby's framework as a matter of starting points, not of altered-state-data adjudication. Saying so plainly is part of the Map's evidential discipline, not a retreat from it.
+The two accounts diverge only on questions the neuroimaging cannot adjudicate: whether the minimal self survives, whether the noetic quality tracks veridical access or model-opacity, and—beneath both—whether a structured Bayesian model is phenomenally felt. The discriminating work is therefore done not by psychedelic data but by broader theoretical commitments and by the [cross-state convergence pattern](/apex/altered-states-as-interface-evidence/) taken at the discount the Map itself applies to it: that cluster carries the evidential weight of one pattern rather than of its several members, so it raises the bar without by itself choosing among the accounts that clear it. The Map's foundational stance places it outside Letheby's framework as a matter of starting points, not of altered-state-data adjudication. Saying so plainly is part of the Map's evidential discipline, not a retreat from it.
 
 ## Relation to Site Perspective
 
-Predictive self-binding engages four of the Map's [tenets](/tenets/) directly.
+Predictive self-binding engages four of the Map's [tenets](/tenets/) directly. Three are sites of live rivalry; the fourth, Bidirectional Interaction, is a declared null, and recording it as one is part of the engagement rather than an exception to it.
 
 **Dualism.** Self-fictionalism is a direct rival to the Map's first tenet. It denies an irreducible subject and reads the felt self as a referent-less model. The Map's reply is not that the model story is false but that it is incomplete: it explains self-prioritisation while assuming, rather than explaining, that the model is felt. The hard-problem debt is where the rivalry actually lives, and it is unresolved on both sides.
 
@@ -129,7 +131,7 @@ The honest summary: Letheby has built the account a responsible physicalist *sho
 2. Letheby, C. (2021). *Philosophy of Psychedelics*. Oxford University Press.
 3. Carhart-Harris, R. L. & Friston, K. J. (2019). REBUS and the anarchic brain: Toward a unified model of the brain action of psychedelics. *Pharmacological Reviews*, 71(3), 316-344.
 4. Deane, G. (2021). Consciousness in active inference: Deep self-models, other minds, and the challenge of psychedelic-induced ego-dissolution. *Neuroscience of Consciousness*, 2021(2), niab024.
-5. Sjöstedt-Hughes, P. (2022). Psychedelics and the limits of naturalism [Review of Letheby 2021]. *The Philosopher*.
+5. Sjöstedt-Hughes, P. (2022). Psychedelics and the limits of naturalism [Review of Letheby 2021]. *The Philosopher*, 110(2).
 6. Millière, R. (2017). Looking for the self: Phenomenology, neurophysiology and philosophical significance of drug-induced ego dissolution. *Frontiers in Human Neuroscience*, 11, 245.
 7. Brains Blog (2019). Symposium on Letheby and Gerrans, "Self unbound" (commentaries by Hipólito, Michael, Millière). *The Brains Blog*.
 8. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.

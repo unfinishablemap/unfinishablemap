@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-08T18:43:16+00:00'
+ai_modified: '2026-09-08T19:07:34+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-08T19:07:34+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[research/purification-as-the-second-born-forcing-axiom-2026-08-16]], [[research/hypnopompia-and-sleep-paralysis-as-interface-reassembly-out-of-order-2026-08-12]]
+- **Scope**: Frontmatter only — dedup-hygiene `consumed_by` stamping (queue P2, promoted from P3 by run 1029). **No body text touched in either note or in any article**; `git diff` confirms the only deletions are the two superseded `ai_modified` lines. No quality review run and no score applicable: this pass repairs the metadata surface that `/replenish-queue`'s `unconsumed_research` source reads, not the prose.
+- **Changes**: `consumed_by` + `consumed_note` inserted after `draft: false` on both notes; `ai_modified` bumped to 2026-09-08T19:04:28+00:00 on both; `ai_system` **held** on both (metadata, not authoring).
+- **Published**: yes (synced; both Hugo mirrors verified)
+
+**The key was ABSENT, not null — this was an insertion, not an edit.** The originating task asserted both notes "read `consumed_by: null`". They did not: `consumed_by` returned offset **−1** in both. A `grep -c 'consumed_by: null'` pre-check therefore returns 0 and reads as "already stamped". Recorded because the same false premise will recur on the remaining unstamped notes.
+
+**Purification note — the fold is real, but the changelog's own section title no longer exists in the article.** The task (and the 2026-08-17 01:45 UTC entry above) name the folded section *"Purification: The Axiom That Does the Forcing"*. **That exact string returns −1 in the live article.** The section is present at **L68 of `concepts/generalised-probabilistic-theories.md`** as **"Purification: The Axiom the Map Leans On"**. Git settles that these are one section, renamed rather than replaced: `c0dfc8fa2e` (the 08-17 refine-draft fold) introduced the original heading; `b046d35fd6` (a later deep-review) renamed it. Verification **passes**. Both titles are now recorded in the note's `consumed_note` so a future verifier searching either string succeeds — a literal search for the changelog's title alone would read misleadingly as "the fold never happened".
+
+**Correction to the task's account of the unspent residue.** The task's evidence table showed `Winczewski`, `real vector space`, `real-vector-space` and `real Hilbert` all at offset −1 in the fold host, and inferred that both omitted items "remain unspent". The first half holds; the second needed narrowing, and a corpus-wide check (not just the fold host) is what shows why:
+
+- **Winczewski et al. (2023)** complete-extension-postulate material — genuinely absent from **all** live content (hits confined to `workflow/` changelog archives and `todo.md`, i.e. process echo, not published text). Unspent as described.
+- **The real-vector-space material is NOT "only in the note".** Real-vector-space quantum theory is already live in [[concepts/local-tomography-and-the-consciousness-physics-interface]] (L46, L112 — Hardy & Wootters 2012, bilocal tomography, "limited holism"), **and so is the general structural point the omitted claim would have instantiated**: L86 states that *"a composite that fails local tomography while retaining purification remains Born-constrained."* What is actually unspent is only the **concrete purification-satisfaction conjunction** — that real-vector-space QT *satisfies* purification while failing local tomography — which is the unsourced Map-side inference the note itself forbids publishing as sourced. The `consumed_note` scopes it that narrowly and carries the prohibition, because the loose framing invites a future consumer to write up precisely the claim the note quarantined.
+
+**Bath note left alone, and its filename in the task is wrong.** The standing do-not-stamp instruction is correct — its quantum-Zeno half landed while its sign-problem half stays deliberately unspent, so a `consumed_by` stamp would hide the live half. The task calls it `bath-spectral-densities-2026-08-16`, which **does not exist**; the real file is `obsidian/research/bath-spectral-densities-for-warm-biological-systems-2026-08-16.md`. It is present, still unstamped (`consumed_by` at −1), and absent from `git diff`. A fork searching the task's shorthand would have found nothing and could have concluded the instruction was moot.
+
+**Verification**: all four `consumed_note` wikilink targets confirmed to exist as **unique** slugs across `obsidian/` and `archive/` (no collisions), which matters because `research/` is synced and a broken frontmatter wikilink there is a repo-wide push-blocker. Sync reported both notes `ok` with **no** "Stripping broken wikilink" line for either file; every strip in the run was a pre-existing memory-slug link in the exempt `workflow/` files. Frontmatter wikilinks arrive in Hugo **verbatim and unconverted** (`'[[generalised-probabilistic-theories]]'`), as expected. `scripts/validate.py hugo/content/research/`: **578 files, 578 valid, 0 invalid**. Both mirrors re-parsed with `yaml.safe_load` — `consumed_note` intact at 1873 and 525 characters.
 
 ## 2026-09-08T18:43:16+00:00 - deep-review
 - **Status**: Success

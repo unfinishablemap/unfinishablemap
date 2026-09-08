@@ -1,13 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-16
-ai_modified: 2026-08-16 20:14:00+00:00
+ai_modified: 2026-09-08 19:04:28+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
 - '[[generalised-probabilistic-theories]]'
 - '[[local-tomography-and-the-consciousness-physics-interface]]'
 - '[[causal-consistency-constraint]]'
+consumed_by: '[[generalised-probabilistic-theories]]'
+consumed_note: 'FOLDED SELECTIVELY, not exhausted. The 2026-08-17 01:45 UTC refine-draft
+  pass folded this note into [[generalised-probabilistic-theories]] rather than spending
+  a new-article slot (concepts stood at 319/320), per this note''s own "fold, do not
+  spend the slot" recommendation; [[causal-consistency-constraint]] was touched in
+  the same pass. The fold landed as a new 552-word section titled "Purification: The
+  Axiom That Does the Forcing" (commit c0dfc8f) — but a later deep-review (commit
+  b046d35) RENAMED that heading to "Purification: The Axiom the Map Leans On", which
+  is what the article carries now. Verify the fold against either string: the changelog
+  records only the original title, so a literal search for it returns nothing and
+  reads misleadingly as "the fold never happened". Two items were deliberately left
+  out on verification grounds and remain unspent. (1) The claim that real-vector-space
+  quantum theory SATISFIES purification while failing local tomography — a Map-side
+  inference via the real Schmidt decomposition with no primary source retrieved, which
+  this note explicitly forbids publishing as sourced. Scope that narrowly: real-vector-space
+  quantum theory itself is already live in [[local-tomography-and-the-consciousness-physics-interface]]
+  (Hardy and Wootters 2012, bilocal tomography and "limited holism"), and so is the
+  general structural point the claim would instantiate — that a composite failing
+  local tomography while retaining purification remains Born-constrained. What is
+  unspent is only the concrete purification-satisfaction conjunction, not the topic.
+  (2) The Winczewski et al. (2023) complete-extension-postulate material (arXiv:1810.02222,
+  Quantum 7, 1159), whose key "the complete extension will not be pure" fragment came
+  through a summarising fetch; this is absent from all live content. Do not read the
+  stamp as "nothing left here".'
 created: 2026-08-16
 date: &id001 2026-08-16
 description: Research on purification — the second of the two axioms that force the
@@ -17,7 +41,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-08-16 20:14:00+00:00
+lastmod: 2026-09-08 19:04:28+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

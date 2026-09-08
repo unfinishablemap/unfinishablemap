@@ -1,12 +1,20 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-08-18 00:31:31+00:00
+ai_modified: 2026-09-08 19:04:28+00:00
 ai_system: claude-fable-5+claude-opus-5
 concepts: []
+consumed_by: '[[sleep-paralysis-and-interface-reassembly]]'
+consumed_note: 'CONSUMED as the source for [[sleep-paralysis-and-interface-reassembly]],
+  which was created 2026-08-13, one day after this note. The derivation was established
+  2026-09-08 by citation overlap rather than by slug match, since the article slug
+  does not echo the note title: nine citations are shared, including the distinctive
+  Hufford 1982, Newby-Clark 1999, Rueffer 1999, Stevner 2019, Herrero 2025, Hinton
+  2021, Meier 2023, Ramachandran 2014 and Wang 2024. "hypnopomp" appears 39 times
+  in this note and 15 times in the article.'
 created: 2026-08-12
-date: '2026-08-18'
+date: '2026-09-08'
 draft: false
-lastmod: 2026-08-18 00:31:31+00:00
+lastmod: 2026-09-08 19:04:28+00:00
 related_articles: []
 title: Research Notes - Hypnopompia and Sleep Paralysis as Interface Reassembly Out
   of Order
