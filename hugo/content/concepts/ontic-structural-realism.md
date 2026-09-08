@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-04
-ai_modified: 2026-09-07 19:37:41+00:00
+ai_modified: 2026-09-08 20:32:34+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-05 00:00:06+00:00
-lastmod: 2026-09-07 19:37:41+00:00
+lastmod: 2026-09-08 20:32:34+00:00
 modified: *id001
 related_articles:
 - '[[intrinsic-nature-void]]'
@@ -134,7 +134,7 @@ The sourcing gaps sit close to the argument and are reproduced rather than omitt
 12. Ladyman, J., & Ross, D., with Spurrett, D., & Collier, J. (2007). *Every Thing Must Go: Metaphysics Naturalized*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199276196.001.0001
 13. Loorits, K. (2014). Structural qualia: a solution to the hard problem of consciousness. *Frontiers in Psychology*, 5, 237. https://doi.org/10.3389/fpsyg.2014.00237
 14. Lyre, H. (2022). Neurophenomenal structuralism. A philosophical agenda for a structuralist neuroscience of consciousness. *Neuroscience of Consciousness*, 2022(1), niac012. https://doi.org/10.1093/nc/niac012
-15. Newman, M. H. A. (1928). Mr. Russell's "Causal Theory of Perception". *Mind*, 37(146), 137–148.
+15. Newman, M. H. A. (1928). Mr. Russell's "Causal Theory of Perception". *Mind*, 37(146), 137–148. https://doi.org/10.1093/mind/xxxvii.146.137
 16. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
 17. Stanciu, D. (2021). An ESR Framework for the Study of Consciousness. *Entropy*, 23(1), 97. https://doi.org/10.3390/e23010097
 18. Unger, P. (1979). Why There Are No People. *Midwest Studies in Philosophy*, 4, 177–222. https://doi.org/10.1111/j.1475-4975.1979.tb00377.x

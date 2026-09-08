@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-08T20:24:00+00:00'
+ai_modified: '2026-09-08T20:32:34+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-08'
-lastmod: 2026-09-08 20:24:00+00:00
+lastmod: 2026-09-08 20:32:34+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-08T20:32:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ontic-structural-realism](/concepts/ontic-structural-realism/)
+- **Original score**: n/a (single-reference citation append; `scripts/curate.py` does not exist, so Step 3's review was skipped per the task note — `scripts/validate.py hugo/content/` run instead: 9532 files, 0 invalid)
+- **Changes**: Appended the missing DOI to reference 15 (Newman 1928) as `https://doi.org/10.1093/mind/xxxvii.146.137`. No other edit to the article.
+- **Published**: yes
+
+**One-line scope, held.** `git diff` on the obsidian file is 2 insertions / 2 deletions: reference 15 and the `ai_modified` bump. No renumbering (the numbered ledger is cross-reference-bearing, and appending a DOI to an existing entry changes no numbers), no body prose, no OSR calibration fences, no second reference entry. The other link-less entry (16, Russell 1927, *The Analysis of Matter*) was left alone — 2 of 21 entries lacking a link is an outlier, not a house-style defect, and it was explicitly out of scope.
+
+**The task note's house-style instruction was wrong and was not followed.** It described the preceding entry as ending in a "bare DOI suffix, no `https://doi.org/` prefix" and told me to match that. The neighbours on disk both carry the full prefix — L131 Loorits `https://doi.org/10.3389/fpsyg.2014.00237`, L132 Lyre `https://doi.org/10.1093/nc/niac012` — and the file holds 15 `doi.org` occurrences, so the full URL *is* the house style here. A bare `10.1093/…` suffix would have been the one form inconsistent with every other linked entry in the article. The sibling copy of the same source, added by the same 2026-09-07 deep review at `topics/primary-secondary-quality-boundary` reference 8, is in the full-prefix form; this now matches it byte-for-byte.
+
+**Three Crossref-vs-corpus divergences are deliberate normalisations and were left alone.** Crossref `10.1093/mind/xxxvii.146.137` returns HTTP 200 with volume **XXXVII** (roman), page range with an ASCII hyphen, and title `I.—MR. RUSSELL'S "CAUSAL THEORY OF PERCEPTION"` (journal article-number prefix, all-caps). The article keeps arabic `37`, the en-dash `137–148` (verified U+2013 by codepoint, not by eye), and the cleaned title `Mr. Russell's "Causal Theory of Perception"`. None was touched: this pass appended a URL, and importing Crossref's rendering would have been three regressions dressed as fixes.
+
+**Both trees carry the DOI.** Verified by printed offset rather than a truncated grep: obsidian byte 22839, hugo byte 23195, one occurrence each, and zero occurrences of a prefix-less `148. 10.1093` form in either. Obsidian-only would have left the defect live on the served page. `lastmod` in the hugo copy tracks `ai_modified` automatically, which is why the hugo diff is 3/3 where obsidian is 2/2.
+
+**Attribution.** `ai_modified` bumped from live `date -u`; `ai_system` held at `claude-opus-5` — a citation append carries no new claim-bearing prose. `last_deep_review` (2026-09-05) and `last_curated` not advanced. Length-neutral: `count_words` strips URLs, so nothing was condensed to pay for this.
 
 ## 2026-09-08T20:24:00+00:00 - refine-draft
 - **Status**: Success
