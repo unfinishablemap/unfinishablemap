@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-08T00:05:02+00:00'
+ai_modified: '2026-09-08T00:29:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-08'
-lastmod: 2026-09-08 00:05:02+00:00
+lastmod: 2026-09-08 00:29:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-08T00:29:00+00:00 - check-tenets
+- **Status**: Warnings
+- **Trigger**: routine every-3-cycles (cycle 552 complete). Reports only — no article changed, no task minted, nothing committed.
+- **Files in scope**: 831 live content files (`topics/` 329, `concepts/` 327, `voids/` 104, `apex/` 43, `positions/` 19, `arguments/` 6, `tenets/` 2, `questions/` 1). **Lens-based sweep, not a full read** — ~200 candidate paragraphs read in context; declared as such in the report.
+- **Errors**: 0 (series convention: Rules-out contradictions are reported as Warnings). **No Rules-out clause is breached anywhere in the corpus this run.** One sweep proposed an ERROR for Warning 1; the driver downgraded it because it over-claims *in* the tenet's favour.
+- **Warnings**: 13 families · **Notes**: 6 families
+- **Tenet 4 verified fixed — zero findings.** The "MWI cannot accommodate" family flagged by the 08-22 and 08-26 reports is repaired on disk; all Tenet-4-relevant loci re-measured and none unscoped. **Both disclaimer loci checked, read to the end, and cleared rather than flagged**: `concepts/many-worlds` L82 and `voids/tenet-generated-voids` L89 each contain the swept string inside a sentence that refutes it, so a string-keyed check flags the fix as the defect. [P-I5](/positions/individuation-and-subjecthood/#p-i5) at `positions/individuation-and-subjecthood` L92 read as the adjudicating register entry; it holds.
+- **Run spent on Tenets 1/2/3/5, as intended.** Driver took Tenets 2 and 4; two parallel sweeps took Tenets 1/5 and Tenet 3. Both waited on before returning. Every reported locus independently re-read from disk by the driver — which caught one quote attributed to the wrong line (past a 560-char truncation) and two absence claims needing positive confirmation.
+- **Tenet 1** (4 warnings): `concepts/zombie-master-argument` L112/114/116 reports the dispute as won ("refutes physicalism", "physicalism is false") against `tenets.md` L55 — the run's sharpest Tenet 1 finding, and `tenets.md` L171 cites this article approvingly for its *scoping* half, which is likely why the unhedged half survived; `concepts/qualia` L205/L213 (alignment-line inheritance in a row the matrix L163 marks Not invoked, with L211 making the very concession L213 reverses); `topics/enactivism-challenge-to-interactionist-dualism` L108 (**inverse** leakage — disclaims the substance commitment `tenets.md` L183 and [P-A2](/positions/agency-and-will/#p-a2) hold, and the disclaimer is what makes enactivism's objection miss); substance-leaning leakage at `concepts/implicit-memory` L149 + `concepts/mind-brain-separation` L108.
+- **Tenet 2** (4 warnings, 2 carried): open P2 loci `concepts/pragmatism` L44 and `tenets/background-commitments` L60 **still live — status only, do not re-mint**; **09-06 Warning 9's hard completion test FAILS** — `grep -rnF "aggregate-statistics test"` returns 2 (`apex/research-programme-decisions-under-the-map` L47, `positions/methodology-and-calibration` L112, the latter shifted L109→L112 so a line-keyed check reads a false "repaired"), and `apex/self-concealing-interface` L3/L55/L87 remain unscoped with L87 contradicting its own L143. **All ten 09-06 Warning 8 loci still live, unmoved.** NEW: `topics/completeness-in-physics-under-dualism` (4 loci, whole-file over-concession) and `concepts/bi-aspectual-ontology` L51/L53, which runs the definiteness→selection inference `tenets.md` L183 explicitly retires and has never appeared in any prior tenet-check.
+- **Tenet 3** (5 warnings) against `tenets.md` L95 `^tenet-3-standing`: `topics/consciousness-and-integrated-information` L82 ("metaphysically real at the token level" — the exact thesis `positions/quantum-interface` L45 demotes to "framework-internal coherence result only, never as established mental causation"); `topics/language-recursion-and-consciousness` L190; `concepts/ai-epiphenomenalism` L63; `topics/structure-of-attention` L3 (description says "reveals" where body L38 says "might"); `topics/consciousness-and-the-phenomenology-of-constraint-satisfaction` L36. None of the five files cites a debt anchor anywhere.
+- **Tenet 5 came back CLEAN — zero genuine findings, stated rather than padded.** The highest-yield lens ("simpler therefore truer") returned zero; razor-as-decisive returned zero; a `voids/` sweep across all 104 files returned zero. `topics/parsimony-case-for-interactionist-dualism` read end-to-end and decisive. One Note only: `topics/memory-channel-interface-evidence` lacks the Tenet 5 subsection the matrix L165 marks Required (verified structurally — zero `occams-limits` refs in file), though the substance is honoured inline.
+- **Structural finding (Note 1)**: the Tenet 2 rescoping has a **paraphrase tail no string-keyed sweep reaches** — three tasks key on `indistinguishable from chance` (25 occurrences / 24 files today, up from 24/23 on 09-07), `aggregate-statistics test` (2 live) and the deleted "no statistical trace" clause; a paraphrase sweep finds 23 further occurrences across 16 files, and both new Tenet 2 warnings are invisible to all three. ⚠️ But the tail is **mostly correct** — 7 of the 8 `statistically invisible` loci are properly scoped by the type/token distinction, which is the corpus's own working scope-carrier and the transplant model for the rest.
+- **Two greps failed mid-run with a regex complexity error rather than returning no match**, and were re-run in Python; one would otherwise have falsely cleared eight loci. Recorded because an errored grep is not an absence.
+- **Output**: [tenet-check-2026-09-08](/reviews/tenet-check-2026-09-08/)
+- All 22 wikilinks in the report existence-checked (0 broken); body file references backticked rather than linked.
 
 ## 2026-09-08T00:05:02+00:00 - research-voids
 - **Status**: Skipped — no new research subject warranted (assess-first verdict; deliberate no-op, not a failure)
