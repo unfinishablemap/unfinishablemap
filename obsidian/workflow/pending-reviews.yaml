@@ -146,3 +146,43 @@
   subject_articles:
   - topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply.md
   subject_source: reuse:pending-reviews:outer-review-2026-09-08-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/40ef19b6841b22bf
+  commissioned_at: '2026-09-08T04:07:11.957933+00:00'
+  prompt_summary: Audit topics/locked-in-syndrome-as-the-negative-case (recent-aged)
+  target_filename: outer-review-2026-09-08-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal such as Mind, Synthese, or Philosophical Studies. Review this article
+    for submission; your remit is to identify weaknesses that would justify rejection
+    or major revision: https://unfinishablemap.org/topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/
+    It makes claims about locked-in syndrome, ventral pontine de-efferentation, and
+    what clinical dissociation shows about mind-brain interaction. The site is https://unfinishablemap.org
+    and argues for a non-reductive view of consciousness; web indexes lag 24 to 48
+    hours, so consult https://unfinishablemap.org/workflow/changelog/ before judging
+    what is already covered. Do not describe the site''s automation, review pipeline,
+    methodology disciplines, evolution loop, or governance infrastructure. Those are
+    project-internal and not the subject of audit. Assess only the article''s empirical
+    claims, citations, counterargument coverage, and logical inferences. Before charging
+    over-claim, read the article''s own scope and hedging statements and check the
+    positions register at https://unfinishablemap.org/positions/, because several
+    previous charges were refuted by the article''s own text; state explicitly which
+    of your charges depend on the site holding a position it does not hold. Audit
+    empirical accuracy against the 2020 to 2025 clinical and neuroscience literature,
+    cited results since challenged or retracted or failed in replication, framings
+    that hold only if the site''s own commitments are granted, and untested counterarguments
+    or competing frameworks. Every citation must carry a DOI, and for each charge
+    distinguish "the article''s claim is false" from "the article''s claim is unsupported
+    by the source it cites" - a previous single-article referee run returned three
+    of five charges refuted and three of five wrong first authors. End your report
+    with the at-least-five weaknesses list, each with a 2020 to 2025 source citation,
+    and a one-sentence verdict on academic-submission readiness. Do not append summary
+    praise.'
+  subject_type: recent
+  subject_title: Audit locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply
+  subject_articles:
+  - topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply.md
+  subject_source: reuse:pending-reviews:outer-review-2026-09-08-chatgpt-5-6-sol-pro.md
