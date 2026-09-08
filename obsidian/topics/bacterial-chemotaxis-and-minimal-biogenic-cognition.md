@@ -4,7 +4,7 @@ description: "E. coli senses, remembers, and decides with zero neurons—the pro
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-08-07T17:26:00+00:00
+ai_modified: 2026-09-08T14:24:06+00:00
 last_deep_review: 2026-08-01T17:11:44+00:00
 draft: false
 topics:
@@ -29,7 +29,7 @@ A single *Escherichia coli* cell, roughly two micrometres long and carrying no n
 
 The Map's answer to this case begins with a discipline it holds across its whole competency cluster: **the presence of sensing, memory, and adaptive decision-making in a single cell is not evidence of felt experience.** That decoupling is the article's thesis. On the Map's framework there is no neural substrate at the bacterial rung to host a consciousness-physical interface—which is what the Map's neural-interface commitment *licenses*, not a proof that nothing is felt. As across the cluster, these functional competencies are defeasible markers, decisive nowhere on their own, and they leave the hard problem exactly where it stands. What bacteria establish is narrower and firmer: that every classic behavioural marker of mind—sensing, memory, choice—can be realised end to end in a system where a candidate for experience is hardest to locate.
 
-This makes bacterial chemotaxis the sharpest **competency-without-experience** case the Map can point to. The [[#the-mechanism|molecular loop]] is specified below, followed by the two schools that read cognition into it—Pamela Lyon's biogenic cognition and the stronger Cellular Basis of Consciousness—and the [Relation to Site Perspective](#relation-to-site-perspective) that holds the phenomenal line while granting the function.
+This makes bacterial chemotaxis the sharpest **competency-without-experience** case the Map can point to. The [[#the-mechanism|molecular loop]] is specified below, followed by the schools that read cognition into it—Pamela Lyon's biogenic cognition, Gordana Dodig-Crnkovic's graded info-computational spectrum, and the stronger Cellular Basis of Consciousness—and the [Relation to Site Perspective](#relation-to-site-perspective) that holds the phenomenal line while granting the function.
 
 ## The Mechanism: A Sense–Decide–Act–Adapt Loop {#the-mechanism}
 
@@ -65,15 +65,21 @@ Her 2015 review "The cognitive cell" presses the case at the mechanistic level. 
 
 Crucially, Lyon's programme keeps cognition and consciousness *separable*: cognition goes all the way down to bacteria, but that is a claim about function, not about feeling. This is the position the Map most needs to engage carefully, because the Map can grant almost all of it. Read as a claim about *functional* continuity—that the sense–decide–act–adapt structure of cognition is present, in minimal form, in a single cell—biogenic cognition is compatible with the Map's framework. The article's task is to hold one line firmly: **functional cognition does not entail phenomenal experience.** Where Lyon leaves the phenomenal question open, the Map answers it with its neural-interface commitment; where a reader might slide from "the cell cognises" to "the cell experiences," the Map marks the step as an inference the mechanism does not license.
 
+### The Graded Spectrum: Declining the Separability Question {#graded-spectrum}
+
+A third reading declines the separability question rather than answering it. Gordana Dodig-Crnkovic's 2026 info-computational framework (ICON) treats cognition, sentience, intelligence, awareness, and mind as one graded spectrum of organisational properties of living systems—processes "present from the onset of life" that grow more integrated as biological organisation increases—rather than as distinct phenomena appearing at successive levels. Sentience is defined there as the capacity for valenced response, so that "all living organisms possess a degree of sentience"; *E. coli* chemotaxis is entered on the spectrum as "minimal sentience (goal-directed behavior)." The pressure this puts on the Map falls on the shape of the question rather than on any particular verdict: if the whole mind-cluster is graded from first life, asking where experience *begins* is mis-posed, and [[interface-threshold|a threshold]] is a line ruled across a continuum.
+
+Two details cut against reading that spectrum as feeling extended downward, and the Map records them rather than resolving them. The framework's own table of the spectrum marks the bacterial rung "Minimal awareness, environmental sensing, no subjective experience," while its comparison with a rival unification lists experience as "Present from the start (minimally)"—so what the account grants bacteria is not uniform within the paper itself. And the grading is carried by defining sentience as valence rather than as feeling, which leaves ICON nearer the Map's decoupling of competence from phenomenality than its vocabulary suggests. Thresholds are where the distance stays: ICON admits none.
+
 ## The Cellular Basis of Consciousness: The Strongest Rival
 
 A stronger claim removes the separation Lyon preserves. Arthur Reber and František Baluška's **Cellular Basis of Consciousness (CBC)**—set out in their 2020 paper "Cognition in some surprising places" and elaborated at book length in *The Sentient Cell* (2023, with William Miller)—holds that sentience and life are *coterminous*. On CBC, the excitable membrane of a single cell already feels; unicellular organisms, bacteria included, "sense, perceive, and feel," and consciousness reaches back to the first appearance of life. Bacteria are, on this account, minimally conscious.
 
 CBC is the sharpest rival the Map's competency cluster must answer, because it makes exactly the inference the Map denies: from the presence of adaptive, membrane-based sensing to the presence of feeling. It deserves statement at full strength rather than caricature. Its motivating intuition is serious—that the same excitable, self-maintaining membrane biology runs from bacteria to neurons, so drawing a phenomenal line anywhere along that continuum looks arbitrary.
 
-The skeptical counter is equally direct. The 2024 *EMBO Reports* opinion "Cell consciousness: a dissenting opinion" argues that CBC rests on "an elaborate series of speculations for which empirical evidence is lacking," and that the individual bacterial cell does not "make a choice" in any experiential sense: what looks like decision reduces to stochastic differences in protein levels—variation in CheY-P and receptor states, not a chooser. On this deflationary reading the cognitive vocabulary is useful shorthand for feedback dynamics, and nothing more is warranted.
+The skeptical counter is equally direct. The 2024 *EMBO Reports* opinion "Cell consciousness: a dissenting opinion" argues that CBC rests on "an elaborate series of speculations for which empirical evidence is lacking," and that the individual bacterial cell does not "make a choice" in any experiential sense: what looks like decision reduces to stochastic differences in protein levels—variation in CheY-P and receptor states, not a chooser. On this deflationary reading the cognitive vocabulary is useful shorthand for feedback dynamics, and nothing more is warranted. The CBC side has since answered in print: Nesin and Chandrankunnel (2025) take up this exact charge and propose that bacterial flexibility comes from multiple interconnected signalling pathways whose converging and diverging nodes let a cell shift between routes—the architecture they credit with motor and cognitive flexibility in brains—concluding that such pathways "can be considered as the molecular mechanism underlying individualistic decision-making in bacteria as well as in humans."
 
-The Map does not need to settle the empirical dispute between CBC and its critics about whether bacterial "decision" is real proto-choice or protein-level noise. [[single-cell-proto-agency-and-the-evidence-problem|A companion article]] takes up exactly that parked question as a problem about *evidence*—arguing the noise-vs-choice dichotomy is behaviourally underdetermined and plausibly not empirically tractable at the prokaryotic floor. Its answer to CBC is framework-level and is developed next.
+The Map does not need to settle the empirical dispute between CBC and its critics about whether bacterial "decision" is real proto-choice or protein-level noise. [[single-cell-proto-agency-and-the-evidence-problem|A companion article]] takes up exactly that parked question, this reply included, as a problem about *evidence*—arguing the noise-vs-choice dichotomy is behaviourally underdetermined and plausibly not empirically tractable at the prokaryotic floor. Its answer to CBC is framework-level and is developed next.
 
 ## Relation to Site Perspective {#relation-to-site-perspective}
 
@@ -100,11 +106,13 @@ This is where the Map answers the **Cellular Basis of Consciousness** directly, 
 
 1. Berg, H. C. (2004). *E. coli in Motion*. Springer.
 2. Berg, H. C., & Brown, D. A. (1972). "Chemotaxis in *Escherichia coli* analysed by three-dimensional tracking." *Nature* 239(5374):500–504. PubMed 4563019.
-3. Koshland, D. E. Jr. (1977). "A response regulator model in a simple sensory system." *Science* 196(4294):1055–1063. doi:10.1126/science.870969
-4. Lyon, P. (2006). "The biogenic approach to cognition." *Cognitive Processing* 7(1):11–29. doi:10.1007/s10339-005-0016-8
-5. Lyon, P. (2015). "The cognitive cell: bacterial behavior reconsidered." *Frontiers in Microbiology* 6:264. doi:10.3389/fmicb.2015.00264
-6. Macnab, R. M., & Koshland, D. E. Jr. (1972). "The gradient-sensing mechanism in bacterial chemotaxis." *Proceedings of the National Academy of Sciences* 69(9):2509–2512. PMC426976.
-7. Reber, A. S., & Baluška, F. (2020). "Cognition in some surprising places." *Biochemical and Biophysical Research Communications*. PubMed 32950231.
-8. Reber, A. S., Baluška, F., & Miller, W. B. (2023). *The Sentient Cell: The Cellular Foundations of Consciousness*. Oxford University Press.
-9. Robinson, D. G., Mallatt, J., Peer, W. A., Sourjik, V., & Taiz, L. (2024). "Cell consciousness: a dissenting opinion." *EMBO Reports* 25(5):2162–2167. doi:10.1038/s44319-024-00127-4
-10. Southgate, A. & Oquatre-huit, C. (2026-07-08). Neuron-Less Animals: Sponges, Placozoans, and the Lower Bound of Cognition. *The Unfinishable Map*. https://unfinishablemap.org/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/
+3. Dodig-Crnkovic, G. (2026). "De-anthropomorphizing the mind: life as a cognitive spectrum in a unified framework for biological minds." *Frontiers in Systems Neuroscience* 20:1730097. doi:10.3389/fnsys.2026.1730097
+4. Koshland, D. E. Jr. (1977). "A response regulator model in a simple sensory system." *Science* 196(4294):1055–1063. doi:10.1126/science.870969
+5. Lyon, P. (2006). "The biogenic approach to cognition." *Cognitive Processing* 7(1):11–29. doi:10.1007/s10339-005-0016-8
+6. Lyon, P. (2015). "The cognitive cell: bacterial behavior reconsidered." *Frontiers in Microbiology* 6:264. doi:10.3389/fmicb.2015.00264
+7. Macnab, R. M., & Koshland, D. E. Jr. (1972). "The gradient-sensing mechanism in bacterial chemotaxis." *Proceedings of the National Academy of Sciences* 69(9):2509–2512. PMC426976.
+8. Nesin, S. M., & Chandrankunnel, M. (2025). "The need for a new perspective on decision-making in bacteria." *Communicative & Integrative Biology* 18(1):2463926. doi:10.1080/19420889.2025.2463926
+9. Reber, A. S., & Baluška, F. (2020). "Cognition in some surprising places." *Biochemical and Biophysical Research Communications*. PubMed 32950231.
+10. Reber, A. S., Baluška, F., & Miller, W. B. (2023). *The Sentient Cell: The Cellular Foundations of Consciousness*. Oxford University Press.
+11. Robinson, D. G., Mallatt, J., Peer, W. A., Sourjik, V., & Taiz, L. (2024). "Cell consciousness: a dissenting opinion." *EMBO Reports* 25(5):2162–2167. doi:10.1038/s44319-024-00127-4
+12. Southgate, A. & Oquatre-huit, C. (2026-07-08). Neuron-Less Animals: Sponges, Placozoans, and the Lower Bound of Cognition. *The Unfinishable Map*. https://unfinishablemap.org/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/

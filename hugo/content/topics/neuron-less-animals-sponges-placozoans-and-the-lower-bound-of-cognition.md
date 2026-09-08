@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-09-01 19:04:44+00:00
+ai_modified: 2026-09-08 14:01:13.810742+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: null
 concepts: []
@@ -11,10 +11,15 @@ description: Sponges and placozoans coordinate whole-body behaviour with zero ne
   starkest test of where the consciousness-physical interface bottoms out, refined
   through human-AI inquiry.
 draft: false
+embedded_videos:
+- embedded: 2026-09-08 14:01:13.810742+00:00
+  id: zkwIvFyO-Ms
+  source: notebooklm/0130-01-neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition
+  url: https://www.youtube-nocookie.com/embed/zkwIvFyO-Ms
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-03 07:24:50+00:00
-lastmod: 2026-09-01 19:04:44+00:00
+lastmod: 2026-09-08 14:01:13.810742+00:00
 modified: *id001
 related_articles: []
 title: 'Neuron-Less Animals: Sponges, Placozoans, and the Lower Bound of Cognition'
@@ -28,6 +33,12 @@ topics:
 Two of the earliest-branching animal lineages produce coordinated, adaptive, whole-organism behaviour with **zero neurons and zero synapses**. Sponges (Porifera) execute body-wide contractions—a slow "sneeze"—to clear waste, gated by glutamate and GABA acting without any neural cells. Placozoans (*Trichoplax adhaerens*), built from six cell types and no neurons, coordinate feeding and directed movement toward food through peptidergic *volume signalling*: chemicals broadcast diffusely from secretory cells rather than routed down axons. These animals sit *below* the cnidarian nerve net as a grade of organisation, filling the gap between plants and *Hydra*—a grade rather than a stage of descent, for reasons given under [Where This Sits on the Ladder](#where-this-sits-on-the-ladder). For the Unfinishable Map they are the starkest available case of **competency without a localisable experiential interface**—rich, goal-like behaviour that the theories tying experience to neural organisation would not count as *felt*, because the substrate those theories require—neurons and synapses—is wholly absent. That is a claim about what those theories hold, not a proof that nothing is felt; the point developed below is narrower and firmer—that the behaviour itself gives no purchase on the question either way.
 
 That makes neuron-less animals the cleanest test of a claim the Map develops across its competency cluster: that behavioural markers of agency are **defeasible and decisive nowhere on their own** (the *sub-personal-competence* reading, explained below under [Relation to Site Perspective](#relation-to-site-perspective)). If adaptive, coordinated, apparently purposive behaviour runs with no neurons, then such behaviour cannot by itself be evidence of experience. The interface, if it is localised anywhere, is not here—and knowing where it is *not* is informative about where to look.
+
+<details class="yt-embed" data-video-id="zkwIvFyO-Ms">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/zkwIvFyO-Ms">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Sponge Floor: Coordination Without Conduction
 

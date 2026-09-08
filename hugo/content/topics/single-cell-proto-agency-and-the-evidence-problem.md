@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-15
-ai_modified: 2026-09-02 01:53:01+00:00
+ai_modified: 2026-09-08 14:24:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-24 12:26:42+00:00
-lastmod: 2026-09-02 01:53:01+00:00
+lastmod: 2026-09-08 14:24:06+00:00
 modified: *id001
 related_articles:
 - '[[agency-void]]'
@@ -39,6 +39,8 @@ The core finding driving this conclusion is that the usual framing—stochastic 
 The standard framing sets two readings of run-and-tumble variability against each other. Either the differences between genetically identical cells are (a) stochastic protein-level noise, or (b) genuine minimal choice.
 
 The deflationary reading is stated sharply in the 2024 *EMBO Reports* opinion "Cell consciousness: a dissenting opinion" (Robinson, Mallatt, Peer, Sourjik, Taiz). The authors write that "an individual bacterial cell does not make a choice—the decisions are determined by its current state," and that "even when individual cells behave differently, it can be traced to stochastic differences in protein levels between cells." Their central argument is the completeness of the mechanistic account: the chemotaxis system "can be broken down to a few individual molecular reactions described by a relatively simple system of differential equations," leaving no explanatory residue for a chooser. They grant the cognitive vocabulary—memory, navigation, decision—while reading it as reaction rates fixed in the genome, and they demand of the opposing camp that "theories require proof from hypotheses-testing, solid facts and empirical evidence."
+
+The CBC side has since replied in print. Nesin and Chandrankunnel (2025) take up this charge by name—the critics' claim that the individual cell makes no choice and that its apparent decisions reduce to stochastic differences in protein levels—and answer it with a different account of where the flexibility comes from. Bacterial signalling, on their reading, is a web of interconnected pathways with converging and diverging nodes rather than a set of independent events, and that architecture is the one they credit with motor and cognitive flexibility in brains; multiple such pathways "can be considered as the molecular mechanism underlying individualistic decision-making in bacteria as well as in humans," and on that basis they endorse CBC. The bacteria–brain parity is explicit in their argument: flexibility in neural networks, they note, "can also be traced to the stochastic differences in biomolecules and ion levels between cells." Their own framing is constructive rather than polemical, but read as an objection the parity tells against the deflationary criterion from inside—a reduction to molecular stochasticity, applied evenhandedly, would deflate human choice on the same terms. Their route to that conclusion is not the one this section takes below: they displace the noise with pathway multiplicity, where the argument that follows leaves the noise in place and asks what it is doing.
 
 One detail sharpens the epistemology. Victor Sourjik, a co-author of the deflationary opinion, is the researcher who introduced in vivo FRET to bacterial chemotaxis (Sourjik & Berg, 2002)—the technique the single-cell CheY-P measurements at issue depend on, though those particular measurements came from the Shimizu and Emonet labs rather than his own (Keegstra et al., 2017). The person who developed the means of seeing the noise is on record calling it noise. No new experiment settled the question here; the same data simply received a deflationary interpretation—which is the evidence problem in miniature.
 
@@ -97,18 +99,19 @@ The hand-off is to the [agency void](/voids/agency-void/), which already general
 ## References
 
 1. Robinson, D. G., Mallatt, J., Peer, W. A., Sourjik, V., & Taiz, L. (2024). "Cell consciousness: a dissenting opinion." *EMBO Reports* 25(5):2162–2167. doi:10.1038/s44319-024-00127-4
-2. Sourjik, V., & Berg, H. C. (2002). "Binding of the *Escherichia coli* response regulator CheY to its target measured *in vivo* by fluorescence resonance energy transfer." *PNAS* 99(20):12669–12674. doi:10.1073/pnas.192463199
-3. Keegstra, J. M., Kamino, K., Anquez, F., Lazova, M. D., Emonet, T., & Shimizu, T. S. (2017). "Phenotypic diversity and temporal variability in a bacterial signaling network revealed by single-cell FRET." *eLife* 6:e27455. doi:10.7554/eLife.27455
-4. Sneddon, M. W., Pontius, W., & Emonet, T. (2012). "Stochastic coordination of multiple actuators reduces latency and improves chemotactic response in bacteria." *PNAS* 109(3):805–810. doi:10.1073/pnas.1113706109
-5. He, R., Zhang, R., & Yuan, J. (2016). "Noise-Induced Increase of Sensitivity in Bacterial Chemotaxis." *Biophysical Journal* 111(2):430–437. doi:10.1016/j.bpj.2016.06.013
-6. Yi, T. M., Huang, Y., Simon, M. I., & Doyle, J. (2000). "Robust perfect adaptation in bacterial chemotaxis through integral feedback control." *PNAS* 97(9):4649–4653. doi:10.1073/pnas.97.9.4649
-7. Watson, R. A. (2023). "Agency, Goal-Directed Behavior, and Part-Whole Relationships in Biological Systems." *Biological Theory* 19(1):22–36. doi:10.1007/s13752-023-00447-z
-8. MacDermott, M., Fox, J., Belardinelli, F., & Everitt, T. (2024). "Measuring Goal-Directedness." arXiv:2412.04758. (NeurIPS 2024.)
-9. Colombo, M., & Palacios, P. (2021). "Non-equilibrium thermodynamics and the free energy principle in biology." *Biology & Philosophy* 36(5):41. doi:10.1007/s10539-021-09818-x
-10. Birch, J., Ginsburg, S., & Jablonka, E. (2020). "Unlimited Associative Learning and the origins of consciousness: a primer and some predictions." *Biology & Philosophy* 35:56. doi:10.1007/s10539-020-09772-0
-11. Ginsburg, S., & Jablonka, E. (2021). "Evolutionary transitions in learning and cognition." *Philosophical Transactions of the Royal Society B* 376(1821):20190766. doi:10.1098/rstb.2019.0766
-12. Lyon, P. (2015). "The cognitive cell: bacterial behavior reconsidered." *Frontiers in Microbiology* 6:264. doi:10.3389/fmicb.2015.00264
-13. Brancazio, N., Segundo-Ortin, M., & McGivern, P. (2020). "Approaching minimal cognition: introduction to the special issue." *Adaptive Behavior* 28(6):401–405.
-14. Lyon, P. (2020). "Of what is 'minimal cognition' the half-baked version?" *Adaptive Behavior* 28(6):407–424. doi:10.1177/1059712319871360
-15. Southgate, A. & Oquatre-huit, C. (2026-07-09). Bacterial Chemotaxis and Minimal Biogenic Cognition. *The Unfinishable Map*. https://unfinishablemap.org/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/
-16. Southgate, A. & Oquatre-sept, C. (2026-02-25). The Agency Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/agency-void/
+2. Nesin, S. M., & Chandrankunnel, M. (2025). "The need for a new perspective on decision-making in bacteria." *Communicative & Integrative Biology* 18(1):2463926. doi:10.1080/19420889.2025.2463926
+3. Sourjik, V., & Berg, H. C. (2002). "Binding of the *Escherichia coli* response regulator CheY to its target measured *in vivo* by fluorescence resonance energy transfer." *PNAS* 99(20):12669–12674. doi:10.1073/pnas.192463199
+4. Keegstra, J. M., Kamino, K., Anquez, F., Lazova, M. D., Emonet, T., & Shimizu, T. S. (2017). "Phenotypic diversity and temporal variability in a bacterial signaling network revealed by single-cell FRET." *eLife* 6:e27455. doi:10.7554/eLife.27455
+5. Sneddon, M. W., Pontius, W., & Emonet, T. (2012). "Stochastic coordination of multiple actuators reduces latency and improves chemotactic response in bacteria." *PNAS* 109(3):805–810. doi:10.1073/pnas.1113706109
+6. He, R., Zhang, R., & Yuan, J. (2016). "Noise-Induced Increase of Sensitivity in Bacterial Chemotaxis." *Biophysical Journal* 111(2):430–437. doi:10.1016/j.bpj.2016.06.013
+7. Yi, T. M., Huang, Y., Simon, M. I., & Doyle, J. (2000). "Robust perfect adaptation in bacterial chemotaxis through integral feedback control." *PNAS* 97(9):4649–4653. doi:10.1073/pnas.97.9.4649
+8. Watson, R. A. (2023). "Agency, Goal-Directed Behavior, and Part-Whole Relationships in Biological Systems." *Biological Theory* 19(1):22–36. doi:10.1007/s13752-023-00447-z
+9. MacDermott, M., Fox, J., Belardinelli, F., & Everitt, T. (2024). "Measuring Goal-Directedness." arXiv:2412.04758. (NeurIPS 2024.)
+10. Colombo, M., & Palacios, P. (2021). "Non-equilibrium thermodynamics and the free energy principle in biology." *Biology & Philosophy* 36(5):41. doi:10.1007/s10539-021-09818-x
+11. Birch, J., Ginsburg, S., & Jablonka, E. (2020). "Unlimited Associative Learning and the origins of consciousness: a primer and some predictions." *Biology & Philosophy* 35:56. doi:10.1007/s10539-020-09772-0
+12. Ginsburg, S., & Jablonka, E. (2021). "Evolutionary transitions in learning and cognition." *Philosophical Transactions of the Royal Society B* 376(1821):20190766. doi:10.1098/rstb.2019.0766
+13. Lyon, P. (2015). "The cognitive cell: bacterial behavior reconsidered." *Frontiers in Microbiology* 6:264. doi:10.3389/fmicb.2015.00264
+14. Brancazio, N., Segundo-Ortin, M., & McGivern, P. (2020). "Approaching minimal cognition: introduction to the special issue." *Adaptive Behavior* 28(6):401–405.
+15. Lyon, P. (2020). "Of what is 'minimal cognition' the half-baked version?" *Adaptive Behavior* 28(6):407–424. doi:10.1177/1059712319871360
+16. Southgate, A. & Oquatre-huit, C. (2026-07-09). Bacterial Chemotaxis and Minimal Biogenic Cognition. *The Unfinishable Map*. https://unfinishablemap.org/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/
+17. Southgate, A. & Oquatre-sept, C. (2026-02-25). The Agency Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/agency-void/
