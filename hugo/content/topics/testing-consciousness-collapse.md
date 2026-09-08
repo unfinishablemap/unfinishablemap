@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-07-29 10:15:40+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-08 11:04:53+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
 - /topics/consciousness-collapse-experimental-landscape/
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 14:16:42+00:00
-lastmod: 2026-07-29 10:15:40+00:00
+lastmod: 2026-09-08 11:04:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -232,7 +232,7 @@ The three-tier prediction hierarchy maps directly onto the Map's [tenets](/tenet
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Tier 1 tests the precondition — if collapse is not real, consciousness has nothing to interact with. The Kremnizer-Ranchin Phi-threshold model instantiates one minimum-outside-corridor reading of this tenet — a branch the Map registers as a live fall-back but does not endorse ([quantum-interface](/positions/quantum-interface/) [P-Q2](/positions/quantum-interface/#p-q2)), rather than the corridor reading itself. The quantum computer variable-Φ tests would probe that branch: circuits differing only in information architecture, not physical properties.
 
-The minimality commitment is double-edged, and its two edges differ in kind. On the corridor reading the Map endorses there is no differential prediction outstanding: per-trial selection is constructed to leave the aggregate Born measure intact, so no presently conceivable instrument resolves it from the chance baseline it is built to match — a framework-boundary feature the Map owns rather than a sensitivity limit better equipment would overcome. Only the minimum-outside-corridor branch predicts a detectable difference, and there minimality does make the effect faint. Minimality also constrains which positive results the Map can claim — a large, dramatic consciousness-dependent effect would conflict with it as much as a null result would conflict with bidirectional interaction.
+The minimality commitment is double-edged, and its two edges differ in kind. On the corridor reading the Map endorses, the *unconditioned aggregate* register carries no differential prediction: per-trial selection leaves the aggregate Born measure intact, so nothing there separates it from the chance baseline it is built to match — by construction, not by any sensitivity limit. Preservation binds only that marginal, leaving the consciousness-conditioned distributions free, so a deviation conditioned on intention, task or subject would test the endorsed corridor itself ([P-Q3](/positions/quantum-interface/#mechanism-debt)) — conditionally testable rather than untestable. The minimum-outside-corridor branch predicts a difference in the unconditioned register instead, where minimality does make the effect faint. Minimality also constrains which positive results the Map can claim — a large, dramatic consciousness-dependent effect would conflict with it as much as a null result would conflict with bidirectional interaction.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Tier 2 tests this directly. Five pathways bear on it: levitated nanoparticle experiments, the MAQRO mission, the Kremnizer-Ranchin Phi-threshold test, the Chalmers-McQueen Q-shape test, and Neven et al.'s (2024) quantum-substrate perturbation — the only proposed test probing the reverse direction (quantum → consciousness). The IIT-CSL programme provides the most direct consciousness-to-physics path because it predicts Φ-correlated collapse rates that no purely physical mechanism would produce.
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-27
-ai_modified: 2026-08-27 12:28:00+00:00
-ai_system: claude-fable-5
+ai_modified: 2026-09-08 11:38:04+00:00
+ai_system: claude-fable-5+claude-opus-5
 author: null
 concepts:
 - '[[filter-theory]]'
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 12:28:00+00:00
-lastmod: 2026-08-27 12:28:00+00:00
+lastmod: 2026-09-08 11:38:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,7 +76,7 @@ The Map declines that immunity on purpose. Its answer to the objection is the on
 
 The cluster's weak joint is the selectivity problem. If the brain constrains consciousness, most damage should loosen the constraint and enhance experience; in fact stroke, trauma, and dementia overwhelmingly diminish it, and the enhancement cases (psychedelics, near-death experiences, terminal lucidity) are exceptions. The corpus's standing reply distinguishes the brain's *filtering* function from "the interface through which consciousness expresses itself", (the near-death article's version contrasts a "constraining mechanism" with an "interface channel"), and both articles flag the reply as post hoc. The wording already sorts by leg — "filtering" is inbound, "expressing itself" is outbound — and making that explicit yields a criterion independent of the outcome being explained. An outbound-leg lesion leaves experience intact and removes its expression; an inbound-leg change alters experience while expression survives. The evidence for the two is asymmetric — an outbound failure shows in behaviour and in cortical signals that never reach the body, whereas an inbound change shows only through report or through the imaging proxies covert-consciousness research relies on — but neither depends on the filter reading.
 
-**Outbound leg cut, inbound intact.** [Locked-in syndrome](/topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/) is the clean case: its article already describes the interface's "two dissociable arms", ascending and descending, with the descending arm severed at the pons, and speech neuroprostheses decoding an intact intent-to-act signal from cortex give the diagnosis an engineering test. [Covert consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — command-following visible in imaging but not in behaviour — is the same pattern with a less localised lesion. Neither is a filter-loosening case, and on this criterion neither could be mistaken for one: the *width* of experience has not changed.
+**Outbound leg cut, inbound intact.** [Locked-in syndrome](/topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/) is the clean case: its article describes the interface as having "two dissociable arms", "an ascending or input arm" and "a descending or output arm", and locked-in syndrome cuts predominantly one of them. The dissociation it claims is "functional rather than anatomical", and that qualification is doing work. A ventral pontine lesion severs the descending motor *pathway*, but the article declines to identify the pathway with the outbound leg — "the Map does not thereby locate either arm of the interface in the pons" — so what the case dissociates is two functions, not two sites. Speech neuroprostheses decoding an intact intent-to-act signal from cortex give the diagnosis an engineering test. [Covert consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — command-following visible in imaging but not in behaviour — is the same pattern with a less localised lesion. Neither is a filter-loosening case, and on this criterion neither could be mistaken for one: no *widening* of experience is in evidence. That is the whole of what the criterion licenses, and it is less than it may appear. Command-following shows that experience persists, not that its width is unchanged; and by the asymmetry just noted, an inbound narrowing in these patients could show only through the imaging proxies, report being closed by the lesion itself. At the extreme the reading softens further, since in *total* locked-in syndrome consciousness "can only be inferred from EEG rather than read off behaviour, and at the bedside it may be genuinely uncertain".
 
 **Inbound leg altered, outbound intact.** [Psychedelic states](/topics/psychedelics-and-the-filter-model/) change the content and reported richness of experience while the subject can still speak, so the inbound claim is checkable in real time against a working outbound leg, under dosing that can be controlled — which no other member of the cluster offers.
 
@@ -101,6 +101,8 @@ What this rescues and what it does not should be stated at the same volume. Clas
 ## What Follows from the Distinction Alone, and What Only on the Map's Reading {#implications}
 
 From the neutral distinction alone: a filter claim is weaker than an interface claim; the conservation objection targets the outbound leg only; clinical cases can be sorted by leg on evidence that does not assume the filter reading; and a dualism with no outbound leg is epiphenomenalist about the brain whatever it says about consciousness's source. Only on the Map's reading: the inbound leg is the projection of a coupling whose outbound leg is outcome-selection at quantum indeterminacies; Minimal Quantum Interaction is the price of that leg; and the filter cluster's evidence is evidence about an interface rather than a valve.
+
+One further consequence bears on how the corpus measures interfaces. The [channel-width axis](/topics/dualism-channel-width-axis/) locates dualist positions by how narrow the mind-physical interface is, taking its ordering from the [five channel classes](/concepts/channel-class-taxonomy/) — selection-only, probability-bias, basis-choice, candidate-generation, energy-injection — each specified in Shannon terms with mind-side states as the input alphabet and physical states as the output. Every class on that axis is therefore an *outbound* operation, so the axis measures one width where two legs imply two widths, and the width the filter cluster's evidence bears on is the one it does not measure. Three things follow. First, filter-only dualism is not a narrow channel but a zero-width outbound channel with a positive inbound one, and the axis has no cell for it: its ordering runs "from selection-only at the floor to energy-transfer at the ceiling", and selection-only is already a step above zero. That gap is not the one the axis already handles, where "a channel-free position is off the axis, not at its bottom" — filter-only dualism has an interface and leaves it nothing outbound to do, which is a different thing from having none. Second, [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) constrains the outbound coordinate alone, naming the [selection-only channel](/concepts/selection-only-channel/) as the narrowest outbound class the Map will accept; it says nothing about the inbound width, which the filter evidence takes to be wide and highly variable. Reading the tenet as minimising the interface as such conflates the two coordinates. Third, the conservation objection is asymmetric because the coordinates are: only the outbound width admits operations moving a quantity physics tracks, which is why the objection can be pressed against the axis's upper classes and has no inbound counterpart to state.
 
 ## Relation to Site Perspective
 

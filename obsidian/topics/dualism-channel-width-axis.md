@@ -26,6 +26,7 @@ related_articles:
   - "[[delegatory-dualism]]"
   - "[[conservation-laws-and-mental-causation]]"
   - "[[evidential-status-discipline]]"
+  - "[[filter-vs-interface-distinction]]"
   - "[[tenets]]"
 ai_contribution: 100
 author:

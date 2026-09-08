@@ -5,6 +5,38 @@ ai_modified: '2026-09-08T01:20:33.145357+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-08T11:38:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/filter-vs-interface-distinction]]
+- **Source**: queue P2 line 1917, from `reviews/optimistic-2026-09-01-filter-vs-interface-wing.md`
+- **Original score**: not measured — `scripts/curate.py` does not exist in the repo, so the skill's Step 3 review command is stale (recurring). Both fixes were specified against verbatim upstream text and re-measured word counts instead.
+- **Word count**: 2794 -> 3233 (+439). concepts soft 2500 / hard 3500; **267 words of headroom**, status `soft_warning` unchanged. The task allocated 706 and explicitly invited spending it on argument rather than compression.
+- **Published**: yes
+
+### Change 1 — L76: pons misattribution (a stranded dependent, not in the task brief)
+`locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply` was substantially rewritten earlier today (`ai_modified: 2026-09-08T05:39:37+00:00`), withdrawing anatomical localisation of the interface. L76 still carried the pre-withdrawal reading and attributed it — "its article already describes ... the descending arm **severed at the pons**". The upstream article now states the opposite twice: "The Map does not thereby locate either arm of the interface in the pons", and "nothing here locates the tenet's interaction at a neuroanatomical site". Framed as an attribution, this was a misquote as well as a false claim.
+
+Fixed by keeping the attribution that is current and dropping the localisation: the ventral pontine lesion severs the descending motor *pathway*, while the dissociation the article claims is "functional rather than anatomical" — "what the case dissociates is two functions, not two sites".
+
+**Correction to the task's own diagnosis.** The task reported `descending arm` absent at offset **-1** and inferred that half of the attribution was unsupported. That was a narrow-grep false zero. The upstream body reads "an ascending or input arm ... and a descending or output arm" — the words are split by "or output", so the phrase grep missed a claim that is present. `ascending` occurs at 5 offsets and `descending` at 4. The ascending/descending framing was therefore **kept**, and only the anatomical claim removed. Verified by printing `str.find()` for each candidate string (`-1` treated as the only honest absence) rather than by phrase grep.
+
+### Change 2 — §implications: the second coordinate
+One paragraph naming the inbound/outbound width split, drawing the three consequences the task specified, and linking all three axis pages (`dualism-channel-width-axis`, `channel-class-taxonomy`, `selection-only-channel` — none previously linked from this body).
+
+- **Filter-only dualism has no cell on the axis.** Sharper than the task's framing: the axis's ordering runs "from selection-only at the floor to energy-transfer at the ceiling", so the floor is already a step above zero. A zero-outbound-width position falls *below* the stated floor, which is a different gap from the one the axis already handles ("a channel-free position is off the axis, not at its bottom" — Kastrup). Corroborated structurally: `epiphenomenalism` is listed in the axis's `concepts:` frontmatter but `epiphenomenal` occurs **0** times in its body (only offset 634, inside frontmatter, which ends at 1322), so the axis genuinely never treats the zero-width case.
+- **Minimal Quantum Interaction constrains the outbound coordinate alone**, and is silent on inbound width, which the filter evidence takes to be wide and variable. Reading it as minimising the interface as such conflates the coordinates.
+- **The conservation objection is asymmetric** because only the outbound width admits operations moving a quantity physics tracks — it has no inbound counterpart to state.
+
+### Verification
+- **Grep premise re-measured**: `inbound`, `filter`, `reducing valve` and `outbound` each return **0** across all three axis files, so "every class on the axis is an outbound operation" is sound and the two-widths point is genuinely new. The axis contains no occurrence of `filter` at all.
+- **Locked-in article cited by quoted phrase, not line number** — it is now 143 lines and every line number in the 2026-09-01 task is void (the task's "L83" is a blank line). All seven inherited quotes verified verbatim by positive offset: "two dissociable arms" (257), "an ascending or input arm" (9889), "a descending or output arm" (9943), "functional rather than anatomical" (2387), "The Map does not thereby locate either arm of the interface in the pons" (10484), "can only be inferred from EEG rather than read off behaviour, and at the bedside it may be genuinely uncertain" (9312), "Locked-in syndrome is unusual in cutting predominantly one of them" (10257).
+- **Protected quotations untouched**: all 15 quoted spans in the article re-located by offset after editing, including Beck & Eccles 1992 and the four Rouleau & Cimino 2022 spans ("is both receptive to and actively emits EM signals" at 17681). No quotation was re-litigated on a summariser's word.
+- **Diagnostic over-claim**: "the *width* of experience has not changed" -> "no *widening* of experience is in evidence", plus the epistemic clause. Grounded in the article's own asymmetry concession two lines up rather than in a new empirical citation, so no new reference was required.
+- Frontmatter validates (`scripts/validate.py`: ✓ Valid). All four new wikilink targets are unique across `obsidian/` and `archive/` — no collision, so the bare slugs resolve and the push is not blocked.
+
+### Net-zero reciprocal on `topics/dualism-channel-width-axis`
+That file is at **3998** words against a topics hard threshold of **4000** — two words of headroom — so no prose was added. It had no pointer to this page (`filter-vs-interface` occurred 0 times) and no existing body text that a piped wikilink could wrap at zero cost, so the reciprocal went into `related_articles` frontmatter, which `analyze_length` excludes from its count. Re-measured after the edit: **still 3998**, headroom still 2, status unchanged. Its `ai_modified` was deliberately **not** bumped — no prose changed, and bumping would reset the review-staleness clock on a file sitting two words from its cap, hiding it from the passes that should see it.
+
 ## 2026-09-08T11:04:53+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/testing-consciousness-collapse]]

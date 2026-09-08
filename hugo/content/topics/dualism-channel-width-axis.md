@@ -35,6 +35,7 @@ related_articles:
 - '[[delegatory-dualism]]'
 - '[[conservation-laws-and-mental-causation]]'
 - '[[evidential-status-discipline]]'
+- '[[filter-vs-interface-distinction]]'
 - '[[tenets]]'
 title: 'Channel Width: The Third Axis of the Dualism-Thickness Taxonomy'
 topics:
