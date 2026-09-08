@@ -4,7 +4,7 @@ description: "A named cartographic methodology: expose each cell of a thickness/
 created: 2026-05-12
 modified: 2026-05-17
 human_modified: null
-ai_modified: 2026-08-18T21:17:37+00:00
+ai_modified: 2026-09-08T21:41:01+00:00
 last_deep_review: 2026-05-17T01:25:00+00:00
 draft: false
 topics: []
@@ -61,7 +61,7 @@ Three rules constrain a future battery. It must include the questions the cells'
 
 The cell-by-cell exposition will typically produce asymmetric results — some cells are charged on more of the battery than others. When this happens, the methodology requires *explicit concession*: name the asymmetry, acknowledge it as a real feature of the question selection rather than burying it. The inaugural deployment performs the concession at the top of its cell-by-cell section: "The trio over-emphasises physical-side debts deliberately. The conservation-law and interface questions originate in the physicalist's challenge to interactionism, and the literature has weighted them heavily … The asymmetry could be artefactual but on inspection appears real rather than a product of question selection."
 
-The concession does necessary work: without it, a cartography whose preferred cell is charged on fewer questions reads as endorsement of that cell rather than as exposure of relative debts under a stipulated battery. It marks the asymmetry as a feature of the chosen questions and invites the reader to reconfigure the battery.
+The concession does necessary work: without it, a cartography whose preferred cell is charged on fewer questions reads as endorsement of that cell rather than as exposure of relative debts under a stipulated battery — and it invites the reader to reconfigure the battery.
 
 It is not sufficient, and the 2026-08-02 outer review showed why. A concession that names a bias and then defends it with an unargued appeal to inspection leaves the battery exactly where it was; the self-disclosure reads as rigour while functioning as a licence. The two rules below are what the concession alone failed to supply.
 
@@ -75,7 +75,7 @@ One maintenance note. Earlier versions of this section quoted that passage unhed
 
 The repair, applied 2026-08-03, entered two line items against the Map's own cell.
 
-- **Born-rule indistinguishability.** On the difference-making route the Map takes, consciousness biases which permitted outcome actualises while the ensemble average stays |⟨φ|ψ⟩|². A bias built to leave the aggregate Born measure intact is, on the data alone, empirically indistinguishable from chance. It falls on the Map's cell alone — Q2 strict selects nothing, and Q4 pays it only on routes that are structurally Q1-like.
+- **Born-rule indistinguishability.** On the difference-making route the Map takes, consciousness biases which permitted outcome actualises while the ensemble average stays |⟨φ|ψ⟩|². A bias built that way is empirically indistinguishable from chance under any *unconditioned aggregate* test; a deviation *conditioned* on intention, task or subject would still test it ([[positions/quantum-interface#^mechanism-debt|P-Q3]]). It falls on the Map's cell alone — Q2 strict selects nothing, and Q4 pays it only on routes that are structurally Q1-like.
 - **The global-exclusion posit.** Rejecting Many Worlds moves neither thickness coordinate, which is not the same as costing nothing. The parent taxonomy grants that an Everettian *dualist* would be locatable and that the Map's quarrel with branching rests on a chosen starting point the grid does not deliver. A posit the grid cannot deliver, on which the Map's frontier depends, is a charge.
 
 Three features generalise. The parity items are *first-order charges on the existing battery questions*, not an appendix of caveats — Born-indistinguishability lands on the causation question and is entered there. They fall on the house cell *distinctively*; a charge every inhabitant pays equally restores no parity. And the deployment's verdict did not survive: the least-cost conclusion had balanced the books before the house items were entered, and was withdrawn in place with its grounds stated. A parity item that leaves the verdict untouched should be checked for whether it was really charged.

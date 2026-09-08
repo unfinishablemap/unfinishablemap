@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-25
-ai_modified: 2026-07-08 23:07:00+00:00
+ai_modified: 2026-09-08 21:41:01+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-09 17:08:41+00:00
-lastmod: 2026-07-08 23:07:00+00:00
+lastmod: 2026-09-08 21:41:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -105,7 +105,7 @@ The taxonomy is an application of the Map's [tenets](/tenets/) to the engineerin
 
 The **[Dualism](/tenets/#dualism)** tenet—consciousness is irreducible to physical processes—is what makes the functional-organisation level insufficient and forces the question down to physics. If consciousness involves something non-physical, then a description pitched entirely at computational role cannot settle whether a substrate hosts it. The taxonomy operationalises this by refusing to let the engineering vocabulary (which is all at the functional level) stand in for the substrate analysis.
 
-The **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** tenet supplies Axis 2. The interface, if it exists, acts by the smallest possible non-physical influence on otherwise indeterminate quantum outcomes—an influence that, on the Map's preferred reading, leaves aggregate Born statistics intact and is empirically indistinguishable from chance. A substrate engineered to suppress quantum indeterminacy offers no site for such an influence; a substrate that operationally integrates indeterminacy might. The taxonomy's central distinction between suppressed, integrated, and engineered-managed indeterminacy is this tenet made concrete in hardware terms.
+The **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** tenet supplies Axis 2. The interface, if it exists, acts by the smallest possible non-physical influence on otherwise indeterminate quantum outcomes—an influence that, on the Map's preferred reading, leaves aggregate Born statistics intact and is empirically indistinguishable from chance under any unconditioned aggregate test—a scope rather than a blanket, since a deviation *conditioned* on intention, task or subject would test the interface itself ([P-Q3](/positions/quantum-interface/#mechanism-debt)). A substrate engineered to suppress quantum indeterminacy offers no site for such an influence; a substrate that operationally integrates indeterminacy might. The taxonomy's central distinction between suppressed, integrated, and engineered-managed indeterminacy is this tenet made concrete in hardware terms.
 
 The tenet also constrains how this article may treat quantum-biology proposals. The Map's [preference ordering](/topics/comparing-quantum-consciousness-mechanisms/#preference-ordering) ranks post-decoherence selection *ahead of* the coherence-dependent proposals, [Orch OR](/concepts/quantum-consciousness/) among them, because Orch OR requires quantum coherence to survive at neural timescales—the demanding assumption [the decoherence-timescale dispute](/concepts/decoherence/) turns on (Tegmark's 10⁻¹³–10⁻²⁰ s against Hameroff's group's disputed 10⁻⁵–10⁻⁴ s). The taxonomy therefore treats microtubule quantum processing as *one* possible way biology might host operationally integrated indeterminacy, not as the Map's settled mechanism, and keeps gate-model quantum computing—an engineered, decoherence-managed device—rigorously distinct from quantum biology as a substrate. The biological precedent the Map leans on is narrow: warm systems such as avian cryptochrome radical pairs sustain quantum coherence for microseconds, which shows that warm biology does not *categorically* rule out quantum-functional mechanisms—not that neural structures must use them.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-19
-ai_modified: 2026-09-08 12:31:54+00:00
+ai_modified: 2026-09-08 21:41:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -25,7 +25,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-08 12:31:54+00:00
-lastmod: 2026-09-08 12:31:54+00:00
+lastmod: 2026-09-08 21:41:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -118,7 +118,7 @@ The Map declines open individualism and avoids the de-combination problem, and t
 
 **[Illusionism](/concepts/illusionism/) is the strongest rival to this article's framing.** If Frankish (2016) and Dennett (1991) are right that phenomenal consciousness is an introspective artefact—systems representing themselves as having qualia, with no phenomenal subjects—then combination, de-combination *and* the interaction problem dissolve together, none left with anything to be a problem about. The Map cannot reply that illusionism fails to explain the phenomenal facts, because denying there are such facts is the position. What divides them is whether the first-person datum counts as evidence or as a report to be explained away: bedrock again, and recorded as such rather than dressed as a refutation.
 
-In place of the combination and de-combination problems, the Map pays the *interaction problem*: how does a non-physical subject causally influence physical outcomes? That is unresolved at the level of detailed mechanism. The interaction problem is at least *empirically locatable*—it concerns a locus (quantum indeterminacy) where physics leaves outcomes undetermined—whereas combination and de-combination are *conceptual* problems about whether subject-subject parthood is even intelligible. Locatable is weaker than approachable, deliberately: a mechanism preserving the Born statistics may be observationally indistinguishable from chance—the Map's own unsolved problem, not an outside objection (see [mqi-empirical-fragility](/project/mqi-empirical-fragility/), [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)). Whether trading a conceptual mystery for a locatable but possibly undetectable one counts as genuine progress is a question the Map acknowledges rather than presumes to have settled.
+In place of the combination and de-combination problems, the Map pays the *interaction problem*: how does a non-physical subject causally influence physical outcomes? That is unresolved at the level of detailed mechanism. The interaction problem is at least *empirically locatable*—it concerns a locus (quantum indeterminacy) where physics leaves outcomes undetermined—whereas combination and de-combination are *conceptual* problems about whether subject-subject parthood is even intelligible. Locatable is weaker than approachable, deliberately: a mechanism preserving the Born statistics is observationally indistinguishable from chance under any unconditioned aggregate test, and only a deviation *conditioned* on intention, task or subject would test it—the Map's own unsolved problem, not an outside objection (see [mqi-empirical-fragility](/project/mqi-empirical-fragility/), [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/), [P-Q3](/positions/quantum-interface/#mechanism-debt)). Whether trading a conceptual mystery for a locatable but aggregate-undetectable one counts as genuine progress is a question the Map acknowledges rather than presumes to have settled.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** governs the comparison. Cosmopsychism and open individualism both promise a kind of simplicity—one subject rather than billions—and the Map does not reject them on parsimony grounds, because Tenet 5 binds the Map's own use of parsimony as tightly as its critics'. On the Map's reading—the one Shani contests—the de-combination problem shows that the cosmopsychist's apparent simplicity conceals a deep difficulty, exactly as the combination problem shows panpsychism's does; monism about the number of subjects does not buy simplicity about explanation.
 

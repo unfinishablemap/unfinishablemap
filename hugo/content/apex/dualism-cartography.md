@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-09-08 16:50:16+00:00
+ai_modified: 2026-09-08 21:41:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 apex_last_synthesis: 2026-07-25 15:36:04+00:00
 apex_sources:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 01:33:32+00:00
-lastmod: 2026-09-08 16:50:16+00:00
+lastmod: 2026-09-08 21:41:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -104,9 +104,9 @@ The two cannot be fused into a single architecture: at a physically undetermined
 
 **Q4 is charged on all three questions.** With both sides thick, the mind does robust causal work in an ontologically rich physical world, so none of the three is answered by deflation. Cartesian energy-transfer is the classical cost; Stapp's quantum-Zeno account is the contemporary attempt to keep the channel narrow while letting both endpoints stay thick. Specifying non-arbitrarily where two rich realms touch is Q4's signature burden—Princess Elisabeth's challenge to Descartes in its sharpest form. On conservation, Q4 pays either by accepting that conservation is *local and symmetry-conditional* (so interactionist intervention breaks a symmetry at the interface) or by routing influence through a probabilistic channel that is structurally Q1-like even inside a Q4 ontology.
 
-**Two items charge the Map's own cell.** A battery that scores only its author's rivals is not an inventory of what positions owe. Two liabilities the Map carries in Q1 belong on the same list.
+**Two items charge the Map's own cell.** Both are liabilities the Map carries in Q1, and both belong on the same list.
 
-*Born-rule indistinguishability.* On the difference-making route the Map takes, consciousness biases which permitted outcome actualises while the ensemble average stays |⟨φ|ψ⟩|². A bias built to leave the aggregate Born measure intact is, on the data alone, *empirically indistinguishable from chance*—[the tenets page](/tenets/#minimal-quantum-interaction) and [the post-decoherence apex](/apex/post-decoherence-selection-programme/) concede exactly that. It is a first-order charge on the causation question, and it falls on the Map's cell alone: Q2 strict selects nothing, and Q4 pays it only on the routes that are structurally Q1-like.
+*Born-rule indistinguishability.* On the difference-making route the Map takes, consciousness biases which permitted outcome actualises while the ensemble average stays |⟨φ|ψ⟩|². A bias built that way is *empirically indistinguishable from chance* under any *unconditioned aggregate* test—the scope [the tenets page](/tenets/#minimal-quantum-interaction) states and [the post-decoherence apex](/apex/post-decoherence-selection-programme/) works within. A deviation *conditioned* on intention, task or subject would still test the corridor itself ([P-Q3](/positions/quantum-interface/#mechanism-debt)). It is a first-order charge on the causation question, and it falls on the Map's cell alone: Q2 strict selects nothing, and Q4 pays it only on the routes that are structurally Q1-like.
 
 *The global-exclusion posit.* No Many Worlds moves neither thickness coordinate, which is not the same as costing nothing. The companion taxonomy grants that an Everettian *dualist* would be locatable and that the Map's quarrel with branching "rests on the global-exclusion posit… a chosen starting point, not a result this grid delivers." A posit the grid cannot deliver, on which the Map's frontier depends, is a charge, and it is entered here.
 

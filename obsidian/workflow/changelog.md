@@ -6,6 +6,35 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
 
+## 2026-09-08T21:41:01+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[apex/dualism-cartography]], [[project/mechanism-costs-cartography]], [[topics/parapsychology-firewall]], [[concepts/ai-hardware-substrate-taxonomy]], [[topics/open-individualism-and-the-de-combination-problem]]
+- **Original score**: n/a (scoping sweep, not a quality review — `scripts/curate.py` does not exist)
+- **Changes**: Five live articles asserted "empirically indistinguishable from chance" **unscoped**. Canon (`tenets/tenets.md` Tenet 2, §"Empirical risk and indistinguishability from chance") carries two scope elements: (1) the indistinguishability is bounded to *unconditioned aggregate* tests, (2) a deviation *conditioned* on intention, task or subject stays live and would test the corridor. Both installed at every locus, in the canonical register, keyed to `[[positions/quantum-interface#^mechanism-debt|P-Q3]]` (path-qualified — the corpus standard at 143 occurrences, 0 bare).
+- **Published**: yes
+
+**No tenets-tier page was touched.** `tenets/tenets.md` and `tenets/background-commitments.md` both already state the scoped form correctly; the dependents were the defect. Confirmed by `git status` — no `tenets/` file in the modified set.
+
+**Length was the binding constraint on four of five, and two files had no headroom at all.** `analyze_length` is body-only; figures are before → after:
+
+| file | before | after | status |
+|---|---|---|---|
+| `apex/dualism-cartography` | 5185 (**185 over hard 5000**) | 5185 (+0) | `hard_warning`, unchanged |
+| `project/mechanism-costs-cartography` | 3490 (10 short of hard 3500) | 3490 (+0) | `soft_warning`, unchanged |
+| `topics/parapsychology-firewall` | 2056 | 2137 (+81) | `ok` |
+| `concepts/ai-hardware-substrate-taxonomy` | 3026 | 3051 (+25) | `soft_warning` |
+| `topics/open-individualism-and-the-de-combination-problem` | 3781 | 3798 (+17) | `soft_warning` |
+
+`dualism-cartography` was already past its hard threshold, so the addition was **paid for in the same file rather than added to it**: the L103 sentence "A battery that scores only its author's rivals is not an inventory of what positions owe" was dropped as restatement — the same rationale is stated more strongly at L89 ("Left there, the battery would score rivals only, so two further items … charge the cell the Map itself occupies") and again at L117 ("itemised on the same battery as every other"). No calibration qualifier was traded for room. Net exactly zero. `mechanism-costs-cartography` was paid for the same way: the restated second sentence of the concession paragraph was folded into the first, keeping the reader-reconfiguration invitation. Net exactly zero.
+
+**`apex/dualism-cartography` L105 carried a false attribution as well as an unscoped claim**, and both are fixed. The sentence read "is, on the data alone, *empirically indistinguishable from chance*—[[tenets#^minimal-quantum-interaction|the tenets page]] and [[post-decoherence-selection-programme|the post-decoherence apex]] concede exactly that". "On the data alone" is an epistemic hedge, not a test-space bound; and the tenets page does not concede the unscoped form — it states the scoped one and names the conditioned deviation in the very next clause. Checked the second cited page too rather than assuming the attribution was uniformly wrong: `post-decoherence-selection-programme` states the blanket form only in the *objection's* voice (L91) and scopes it in its own reply (L87, L93, "Born-preservation of the unconditioned long-run marginal"), but never names the conditioned deviation. So the two pages do different things and the fix attributes accordingly — the tenets page *states* the scope, the apex *works within* it — rather than crediting both with element 2.
+
+**`topics/parapsychology-firewall` over-shot canon in the opposite direction** and needed both loci. L31 claimed the interface is "per-trial indistinguishable from chance"; canon claims the *unconditioned aggregate* is indistinguishable, not the token — the token is precisely what gets selected. L51's "delivered at exactly zero statistical signature" reinforced it. Both scoped, matching the `[[positions/quantum-interface#^mechanism-debt|mechanism-debt convention]]` form the file already carried twice. Canon's null coarse-grain instance (Maier, Dechamps & Pflitsch 2018) was already reference 2 of this article, so the conditioned-deviation element landed on an existing citation rather than a new one.
+
+**Adjacent loci — read, judged, left alone as instructed.** `topics/epistemology-of-mechanism-at-the-consciousness-matter-interface` L123: **no fix needed.** Read to the end of the sentence, "Detectability follows only on minimum-outside-corridor readings" is not a denial of element 2 — the very next clause makes the corridor's standing obligation "*discriminating structure*—some specifiable grain at which a selected outcome comes apart from an unselected one", which is element 2 in its own vocabulary, and L109 independently names "a specifiable [[born-preserving-causal-efficacy|conditional signature]]". The article is scoped, just not in canon's wording. `topics/the-steelman-for-process-monism` L75: **no fix, and editing it would damage the article.** The blanket form there is inside the steelman's own voice, rendering the objector's charge at full strength; that section is explicitly headed to "press the rival's advantages without flinching" and closes "The Map must out-argue this, not out-assert it." Pre-scoping the objection in the objector's mouth is the steelman anti-pattern. If anything is owed it is a check that the Map's *reply* downstream deploys the scope — a separate question from this sweep.
+
+**Attribution held, not bumped.** `ai_system` unchanged on all five: this is clause-level re-registration of an existing claim to canon, not new claim-bearing prose — the same call made for the 2026-09-07 trilemma-of-selection sweep. `ai_modified` bumped from live `date -u` on all five; `last_deep_review` and `ai_contribution` untouched on all five (verified by grepping the diff for those keys).
+
 ## 2026-09-08T21:17:14+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/quiddity-epiphenomenalism-and-the-contingency-thesis]]
