@@ -29,6 +29,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Śāntideva argues from "no one owns suffering" to relieving all suffering impartially. The Map grants each moment its own subject — and that single concession blocks the step, correcting a verdict the Map itself had filed as merely terminological.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2097234846212903111  
 **Link**: [the-ownerless-suffering-argument](/concepts/the-ownerless-suffering-argument/)
 
 ---
