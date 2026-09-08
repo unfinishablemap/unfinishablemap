@@ -1,14 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-08T19:07:34+00:00'
+ai_modified: '2026-09-08T19:49:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-08'
-lastmod: 2026-09-08 19:07:34+00:00
+lastmod: 2026-09-08 19:49:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-08T19:49:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [fatigue-void](/archive/voids/fatigue-void/)
+- **Scope**: Editorial apparatus only on a frozen archived page (queue P2, promoted from P3 by run 1029). **Both** remedies offered by the task were applied — they fix different surfaces and neither is sufficient alone. **No argument paragraph was touched**; `git diff` on the Obsidian source shows exactly **2 deletions**, both frontmatter (`description`, `ai_modified`), and **0 body deletions**.
+- **Original score**: none — no quality review run. `scripts/curate.py review` grades prose this task forbids rewriting; on a frozen archive page its output would not be actionable.
+- **Changes**: (a) `description:` rewritten to retire the refuted claim and name the supersession; (b) a dated correction note inserted at the top of the body, above the lede, pointing at the successor's corrected section; `ai_modified` bumped to 2026-09-08T19:49:00+00:00; `ai_system` **held** at `claude-opus-4-6` (apparatus, not authoring).
+- **Published**: yes (synced twice, exit 0, 9526 files; both trees verified)
+
+**Why both remedies, not one.** The task framed (a) and (b) as alternatives. They address different surfaces: (a) alone cleans the machine summary but leaves a reader who scrolls past it holding a refuted claim with no signal; (b) alone flags the body but leaves the refuted sentence serving as the page's machine-readable summary, which is the live harm.
+
+**The machine-surface argument is stronger than the task stated — two ungated surfaces, not one.** The task cited `machine-meta.html` L38 (schema.org JSON-LD `description`, no `archived` conditional). Confirmed — **but `baseof.html` L13 emits the same field again** as a plain `<meta name="description">`, also ungated, and only then does L15 fire `noindex, nofollow` on `archived: true`. `noindex` governs crawler indexing; it does not stop an agent that fetches the URL from parsing either surface. The refuted sentence was being served as this page's summary on **both**.
+
+**`description:` before → after** (both valid YAML; 158 chars, inside the 150–160 band):
+- before: `Human+AI exploration of why consciousness cannot observe its own degradation under fatigue—the observer fails alongside the observed, revealing architecture visible only through collapse.`
+- after: `Archived and superseded. Its claim that self-monitoring fails before the performance it monitors is refuted by later measurement; see The Disappearance Voids.`
+
+**⚠️ CORRECTION TO THE DRIVER — its suggested wikilink form is a push-blocker.** The brief said to point the note at `voids/disappearance-voids`. Resolved against the live index (`build_content_index`, 0 collisions): `'disappearance-voids'` → `/voids/disappearance-voids/`, but **`'voids/disappearance-voids'` → ABSENT**. `archive/` is synced by the same converter, and an unresolved wikilink there raises `SyncValidationError` (converter L261-264) — the reviews/workflow strip-to-plain-text exemption does **not** cover `archive/`. Writing the path-qualified form would have failed sync and skipped the push for the whole repo. Used the bare slug, piped for a readable label: `[[disappearance-voids|The Disappearance Voids]]`.
+
+**Where the note actually goes.** The archive notice is layout-generated (`single.html` L13-14 → `partial "archive-notice.html"` on the `archived: true` flag); it does not exist in the markdown. "Under the archive notice" therefore means at the top of the body, above the lede — there is no notice in the file to append to.
+
+**Body preservation, verified by hash rather than by eye.** SHA-256 of the lede and of L50 / L52 / L60 / L96 captured before editing; all five recovered **byte-identical** afterwards, shifted 2 lines by the inserted note. The Hugo mirror's three apparent mismatches are the wikilink→markdown sync transform, not an edit — `git diff` on the Hugo copy shows only `ai_modified`, `lastmod`, `description` and the added note.
+
+**Verification.** `the observer fails alongside the observed` → **−1** in `archive/voids/fatigue-void.md` and **−1** in `hugo/content/archive/voids/fatigue-void.md`. The two surviving corpus-wide hits are in `todo.md` (the task's own notes quoting the string) and are records, not article surfaces — left alone. `voids/disappearance-voids` confirmed **unmodified** (`git status --porcelain` empty on both trees).
+
+**Task-note pileup confirmed 0, with the caveat that the standard filter under-reports.** Two `fatigue-void` task headers exist; one is `### ~~P3: Write article on the fatigue void~~ ✅` at L1355 — a completed task marked with strikethrough-plus-tick instead of the `### ✓` marker, so it evades the usual open-task filter and reads as open. See open-task-grep-counts-resolved-entries-above-the-marker.
 
 ## 2026-09-08T19:07:34+00:00 - refine-draft
 - **Status**: Success

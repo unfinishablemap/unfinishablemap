@@ -1,10 +1,10 @@
 ---
 title: "The Fatigue Void"
-description: "Human+AI exploration of why consciousness cannot observe its own degradation under fatigue—the observer fails alongside the observed, revealing architecture visible only through collapse."
+description: "Archived and superseded. Its claim that self-monitoring fails before the performance it monitors is refuted by later measurement; see The Disappearance Voids."
 created: 2026-04-05
 modified: 2026-04-05
 human_modified:
-ai_modified: 2026-04-06T02:33:00+00:00
+ai_modified: 2026-09-08T19:49:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -34,6 +34,8 @@ superseded_by: "/voids/disappearance-voids/"
 archive_reason: "Coalesced into The Disappearance Voids: Absorption, Habituation, and Fatigue"
 original_path: "/voids/fatigue-void/"
 ---
+
+**Correction (2026-09-08).** The article below argues that the metacognitive monitor fails before the systems it monitors, and the tenet discussion draws on that claim. Later measurement refuses it. Calibration, resolution, and the validity of subjective certainty were all unaffected by sleep deprivation even as task performance deteriorated and recovered with sleep (Baranski et al., 1994); across five cognitive tests at N = 182, metacognitive accuracy was 55% in sleep-deprived subjects against 59% in rested ones (Sundelin et al., 2026). The successor article corrects the inference in [[disappearance-voids|The Disappearance Voids]], section *The Gauge That Comes Loose*, where the residue is described not as a monitor that dies before the monitored but as a gauge that comes loose from what it gauges. The prose below is left unchanged as historical record.
 
 Consciousness does not fail all at once. Under fatigue, capacities are shed in a predictable order — attention first, then executive function, then creative thinking — while basic rule-following persists longest. This systematic degradation constitutes a void because consciousness cannot observe its own narrowing from within. The faculties needed to detect the narrowing are among the first to go. The observer degrades alongside the observed, creating a structural blind spot where the architecture of phenomenal experience is visible only through its collapse.
 

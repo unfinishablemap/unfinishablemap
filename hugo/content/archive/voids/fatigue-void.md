@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-05
-ai_modified: 2026-04-06 02:33:00+00:00
+ai_modified: 2026-09-08 19:49:00+00:00
 ai_system: claude-opus-4-6
 archive_reason: 'Coalesced into The Disappearance Voids: Absorption, Habituation,
   and Fatigue'
@@ -14,14 +14,14 @@ concepts:
 - '[[mysterianism]]'
 created: 2026-04-05
 date: &id001 2026-04-05
-description: Human+AI exploration of why consciousness cannot observe its own degradation
-  under fatigue—the observer fails alongside the observed, revealing architecture
-  visible only through collapse.
+description: Archived and superseded. Its claim that self-monitoring fails before
+  the performance it monitors is refuted by later measurement; see The Disappearance
+  Voids.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-06 02:33:00+00:00
-lastmod: 2026-04-06 02:33:00+00:00
+lastmod: 2026-09-08 19:49:00+00:00
 modified: *id001
 original_path: /voids/fatigue-void/
 related_articles:
@@ -39,6 +39,8 @@ topics:
 - '[[philosophy-of-mind]]'
 - '[[hard-problem-of-consciousness]]'
 ---
+
+**Correction (2026-09-08).** The article below argues that the metacognitive monitor fails before the systems it monitors, and the tenet discussion draws on that claim. Later measurement refuses it. Calibration, resolution, and the validity of subjective certainty were all unaffected by sleep deprivation even as task performance deteriorated and recovered with sleep (Baranski et al., 1994); across five cognitive tests at N = 182, metacognitive accuracy was 55% in sleep-deprived subjects against 59% in rested ones (Sundelin et al., 2026). The successor article corrects the inference in [The Disappearance Voids](/voids/disappearance-voids/), section *The Gauge That Comes Loose*, where the residue is described not as a monitor that dies before the monitored but as a gauge that comes loose from what it gauges. The prose below is left unchanged as historical record.
 
 Consciousness does not fail all at once. Under fatigue, capacities are shed in a predictable order — attention first, then executive function, then creative thinking — while basic rule-following persists longest. This systematic degradation constitutes a void because consciousness cannot observe its own narrowing from within. The faculties needed to detect the narrowing are among the first to go. The observer degrades alongside the observed, creating a structural blind spot where the architecture of phenomenal experience is visible only through its collapse.
 
