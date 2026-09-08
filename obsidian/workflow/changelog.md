@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-08T14:24:06+00:00'
+ai_modified: '2026-09-08T14:56:06+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-08T14:56:06+00:00 - condense
+- **Status**: Success — stopped short of the ~3200 target (deliberate; see Reason)
+- **File**: [[concepts/higher-order-theories]]
+- **Before**: 3496 total / apparatus 479 (13.7%) / body prose 3017
+- **After**: 3342 total / apparatus 479 (unchanged) / body prose 2863
+- **Reduction**: -154 words (4.4% of total, 5.1% of prose). Headroom under the concepts hard threshold (3500) went from **4 words to 158**.
+- **Arithmetic correction**: the task brief computed prose by subtracting an 86-word frontmatter from 3496. `analyze_length` calls `count_words` on `frontmatter.load(...).content`, so frontmatter is already excluded — the brief double-subtracted it. Correct figures: apparatus 479 = 13.7% (not 560 = 16%), prose 3017 = 517 over soft (not 2936 = 436 over).
+- **Technique**: redundancy-only, 15 targeted replacements, each asserted to match exactly once. Cuts: Core Idea pre-statement of the lead's definition; the outer-sense analogy in HOP; the third of three glosses on the apes' lack of metarepresentation; the self-representational theory's restated explanatory clause; the Illusionist section's re-definition of HOT's structure and its closing restatement of the fork it had just built (both horns kept); the third repetition of the section's opening conditional in Blind Insight; Neural Separation's trailing restatement of "not what HOT would predict" (spelled out in The Prefrontal Prediction); the accommodation point pre-announced in the "Can HOT Be Tested?" intro and demonstrated twice below it; the infinite-tower gloss on the regress already stated in the same paragraph; the AI section's restatement of "functional implementation doesn't guarantee phenomenal consciousness"; the functional-role gloss in The Access/Phenomenal Gap; the Unity section's closing restatement of the objection made in the preceding sentence; and the Assessment's second paragraph re-opening with its first paragraph's claim.
+- **Reason for stopping at 3342**: the remaining 142 words to 3200 are only reachable through content the brief protects. `Animal and Infant Consciousness` (313) and `Lau's Perceptual Reality Monitoring` (253) were certified by pessimistic-2026-09-08; the Rosenthal mental-qualities engagement in `The Rock Objection` (~85) was added this morning to discharge a carried finding; `Quantum Considerations` and the empirical subsections are calibration-dense (the external-evidence-D grading, the interface-eligibility debt, "of varying strength", "weaker than usually reported", the Bor non-replication, "it does not on its own establish"); the lead is front-loaded for truncation resilience; all 16 References are cited in the body; and 4 of the 16 Further Reading entries are this article's only outbound link to their target (that surface was also trimmed hours earlier today).
+- **Not touched**: every hedge, scope limit, "on its own terms", and boundary marker. No calibration qualifier removed. `tACS`, `directly contradicts HOT` and `The hard problem remains hard` all remain at offset -1. All 62 wikilinks and both `#`-anchor references present before and after.
+- **Structural finding (not acted on)**: the access/phenomenal thesis is carried in **four** loci, not the five the brief lists nor the three it counts. L156 (functionalism vs Dualism) and L164 (unity) do not carry it, as the brief says; but `### Block's Critique` does — it is the attributed home of the phenomenal/access distinction — and the brief omits it. Consolidation was therefore taken *inside* the Assessment (para 2 restating para 1) rather than by removing any of the four.
+- **Noted, out of scope**: (a) `### The Access/Phenomenal Gap` is a heading whose body is about the functionalism/Dualism conflict — a navigation-surface mismatch needing a rename, not a condense; (b) "Lamme" is named in `What the Evidence Shows` with no corresponding References entry.
 
 ## 2026-09-08T14:24:06+00:00 - refine-draft
 - **Status**: Success

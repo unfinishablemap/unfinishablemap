@@ -4,7 +4,7 @@ description: "Mental states become conscious when we become aware of them. HOT e
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-09-08T07:15:57+00:00
+ai_modified: 2026-09-08T14:56:06+00:00
 draft: false
 last_deep_review: 2026-07-25T20:04:42+00:00
 topics:
@@ -38,7 +38,7 @@ Higher-Order Theories (HOT) propose that a mental state becomes conscious when w
 
 ## The Core Idea
 
-What distinguishes conscious from unconscious perception? HOT's answer: you become conscious of the perception when you have a thought *about* it. The first-order state (seeing the object) becomes conscious when targeted by a higher-order representation (the thought "I am seeing this object").
+What distinguishes conscious from unconscious perception? HOT's answer: the first-order state (seeing the object) becomes conscious when targeted by a higher-order representation (the thought "I am seeing this object").
 
 ### Higher-Order Thought Theory
 
@@ -46,13 +46,13 @@ David Rosenthal, the leading HOT theorist, specifies that the higher-order thoug
 
 ### Higher-Order Perception Theory
 
-D.M. Armstrong and William Lycan proposed that consciousness involves an "inner sense" perceiving our mental states, analogous to how outer senses perceive the world. This higher-order *perception* (HOP) model treats awareness as more passive and perceptual than thought-like. Lycan has since retreated from HOP toward attention-based accounts, but the core insight remains: consciousness seems to require some form of self-awareness.
+D.M. Armstrong and William Lycan proposed that consciousness involves an "inner sense" perceiving our mental states. This higher-order *perception* (HOP) model treats awareness as more passive and perceptual than thought-like. Lycan has since retreated from HOP toward attention-based accounts, but the core insight remains: consciousness seems to require some form of self-awareness.
 
 ## The Metarepresentational Distinction
 
 [[metacognition|Recent analysis]] distinguishes three levels of representation: **first-order** (seeing a tree), **second-order** (believing you see a tree), and **metarepresentation proper** (grasping that your perception *is* a perception, that it could be mistaken).
 
-HOT primarily targets the second level. But this may conflate two phenomena: second-order states might operate procedurally—guiding behaviour without explicit understanding that beliefs are beliefs. The Jourdain Hypothesis (Gruber et al. 2015) supplies evidence. Great apes show sophisticated metacognition—uncertainty monitoring, strategic information-seeking—yet appear to lack metarepresentation; they don't seem to understand that their knowledge *is* knowledge. They may "speak prose without knowing it."
+HOT primarily targets the second level. But this may conflate two phenomena: second-order states might operate procedurally—guiding behaviour without explicit understanding that beliefs are beliefs. The Jourdain Hypothesis (Gruber et al. 2015) supplies evidence. Great apes show sophisticated metacognition—uncertainty monitoring, strategic information-seeking—yet appear to lack metarepresentation: they may "speak prose without knowing it."
 
 If metarepresentation requires phenomenal consciousness—as the [[metacognition#the-metarepresentation-threshold|comparative-cognition evidence]] suggests—then HOT has the explanatory order reversed. Rather than higher-order representation *constituting* consciousness, consciousness may be what *enables* genuine metarepresentation—what distinguishes human metacognition being not more sophisticated representation but the phenomenal capacity to take mental states as objects.
 
@@ -68,7 +68,7 @@ Rosenthal's reply goes beyond the bare observation that rocks aren't mental stat
 
 What happens when a higher-order thought targets a mental state that doesn't exist? Rosenthal accepts consciousness can occur even without a first-order state—"targetless" higher-order thoughts produce genuine (if hallucinatory) experience. Critics argue this severs consciousness from its supposed grounding in first-order content.
 
-The [[self-representational-theory-of-consciousness|self-representational (same-order) theory]] was built to dodge exactly this: a state that represents *itself* cannot target a non-existent state, because the target is the state doing the targeting. Whether that escapes misrepresentation or merely relocates it *inside* the complex state is a standard dispute between the camps.
+The [[self-representational-theory-of-consciousness|self-representational (same-order) theory]] was built to dodge exactly this: a state that represents *itself* cannot target a non-existent state. Whether that escapes misrepresentation or merely relocates it *inside* the complex state is a standard dispute between the camps.
 
 ### Animal and Infant Consciousness
 
@@ -94,7 +94,7 @@ PRM is the strongest version of HOT because it is the most mechanistically speci
 
 [[illusionism|Illusionism]] represents HOT's logical extreme. If consciousness just *is* higher-order representation, and such representation can be illusory, perhaps phenomenal consciousness itself is an illusion. Frankish and Dennett argue we only *seem* to have qualitative experiences; the seeming is itself functional information processing.
 
-HOT theorists resist this move—Rosenthal maintains higher-order representation *constitutes* genuine phenomenal consciousness, not its appearance. But the pressure toward illusionism is structural. A higher-order theory locates consciousness in a representation that takes a first-order state as its object and represents it as conscious (or, in HOROR, as qualitative; in PRM, as real). That representing is itself a *seeming*. So the theory must say whether the seeming is itself something it is like to undergo. If it is, the explanation has helped itself to the phenomenality it set out to explain, relocated one level up—the regress the [[self-reference-paradox|self-reference paradox]] describes, renamed. If it is not—a "mere" functional representation with no felt character—then we are owed an account of how an unfelt seeming produces a felt experience, which is the hard problem in higher-order dress. This is illusionism's own fork: either representing a state as conscious makes it conscious, which is hard to explain, or we are systematically wrong about our experience, which is hard to believe.
+HOT theorists resist this move—Rosenthal maintains higher-order representation *constitutes* genuine phenomenal consciousness, not its appearance. But the pressure toward illusionism is structural. A higher-order theory locates consciousness in a higher-order state that represents a first-order state as conscious (or, in HOROR, as qualitative; in PRM, as real). That representing is itself a *seeming*. So the theory must say whether the seeming is itself something it is like to undergo. If it is, the explanation has helped itself to the phenomenality it set out to explain, relocated one level up—the regress the [[self-reference-paradox|self-reference paradox]] describes, renamed. If it is not—a "mere" functional representation with no felt character—then we are owed an account of how an unfelt seeming produces a felt experience, which is the hard problem in higher-order dress. This is illusionism's own fork: either representing a state as conscious makes it conscious, or we are systematically wrong about our experience.
 
 ## Empirical Dissociation Evidence
 
@@ -106,11 +106,11 @@ Recent neuroscience presses HOT beyond the philosophical objections. If consciou
 
 ### Blind Insight: The Inverse Dissociation
 
-The inverse case is the more direct challenge, though it comes from a different domain. Scott et al. (2014) found participants judging artificial grammar strings performing at chance on grammaticality while their confidence still tracked accuracy—they "know they don't know" without discriminating what they don't know. This "blind insight" tells against HOT: if consciousness *is* being represented by a higher-order thought, accurate metacognition should guarantee conscious access to what is monitored. But the paradigm involves implicit learning rather than perception, and the [[blindsight|double dissociation it completes with blindsight]] spans different domains and populations. What it secures is that metacognitive sensitivity and first-order success are separable; it does not on its own establish that perceptual consciousness occurs without higher-order representation.
+The inverse case is the more direct challenge, though it comes from a different domain. Scott et al. (2014) found participants judging artificial grammar strings performing at chance on grammaticality while their confidence still tracked accuracy—they "know they don't know" without discriminating what they don't know. This "blind insight" tells against HOT: accurate metacognition should guarantee conscious access to what is monitored. But the paradigm involves implicit learning rather than perception, and the [[blindsight|double dissociation it completes with blindsight]] spans different domains and populations. What it secures is that metacognitive sensitivity and first-order success are separable; it does not on its own establish that perceptual consciousness occurs without higher-order representation.
 
 ### Neural Separation
 
-The dissociation may extend to neural architecture, though this evidence is weaker than usually reported. Metacognitive judgments converge on the anterior prefrontal cortex (aPFC), distinct from sensory processing regions, and Rounis et al. (2010) found that theta-burst transcranial magnetic stimulation (TMS) over aPFC impaired metacognitive accuracy while leaving first-order perception intact—not what HOT would predict, since disrupting the metacognitive substrate should degrade conscious experience itself.
+The dissociation may extend to neural architecture, though this evidence is weaker than usually reported. Metacognitive judgments converge on the anterior prefrontal cortex (aPFC), distinct from sensory processing regions, and Rounis et al. (2010) found that theta-burst transcranial magnetic stimulation (TMS) over aPFC impaired metacognitive accuracy while leaving first-order perception intact—not what HOT would predict.
 
 The result did not replicate: Bor et al. (2017) applied theta-burst TMS to prefrontal and parietal cortex and found metacognitive visual awareness unimpaired. Three of its authors also produced the blind-insight finding above, so the same group supplies both the evidence this section leans on and the evidence weakening it. The replication record leaves the question open rather than settling it against HOT.
 
@@ -125,11 +125,11 @@ The empirical picture suggests consciousness and metacognition are related but d
 | Blind insight | Absent | Present | Artificial-grammar judgement at chance with calibrated confidence |
 | aPFC disruption (contested) | Present | Impaired | Theta-burst TMS over frontopolar cortex; not replicated |
 
-First-order theorists (Block, Lamme) explain this naturally: phenomenal consciousness involves sensory processing directly, while metacognition provides *access* to that experience. HOT struggles because its core claim—consciousness *is* higher-order representation—predicts the two should be inseparable.
+First-order theorists (Block, Lamme) explain this naturally: phenomenal consciousness involves sensory processing directly, while metacognition provides *access* to that experience. HOT's core claim predicts they should be inseparable.
 
 ## Can HOT Be Tested?
 
-The dissociation evidence suggests HOT generates testable predictions—and fails some. But defenders argue the theory can accommodate apparent counterexamples. Can experiments decisively distinguish HOT from first-order theories?
+The dissociation evidence suggests HOT generates testable predictions—and fails some. Can experiments decisively distinguish HOT from first-order theories?
 
 ### The Prefrontal Prediction
 
@@ -143,17 +143,17 @@ Two further test cases push the same way. During non-lucid [[dream-consciousness
 
 HOT requires consciousness to be inherently self-referential, connecting it to the Map's [[self-opacity|self-opacity void]]. The [[self-reference-paradox]] surfaces two limits. The **regress problem**: if conscious thoughts require higher-order thoughts, do those require still higher thoughts? HOT avoids infinite regress by allowing unconscious higher-order representations, but the solution feels stipulative. The **calibration problem**: how can we evaluate our metacognition without using more metacognition, when the tools of assessment are the very things assessed?
 
-The eye that cannot see itself reappears as the thought that cannot think itself without an infinite tower of meta-thoughts—[[phenomenology-of-recursive-self-awareness|what that structure feels like]] is explored separately.
+The eye that cannot see itself reappears as the thought that cannot think itself—[[phenomenology-of-recursive-self-awareness|what that structure feels like]] is explored separately.
 
 ## HOT and AI Consciousness
 
-Like [[global-workspace-theory|Global Workspace Theory]], HOT has direct implications for machine consciousness: if consciousness *is* having higher-order representations of one's mental states, an AI that models its own modeling might be conscious. The Map's response parallels its critique of GWT—[[concepts/functionalism|functional implementation]] doesn't guarantee phenomenal consciousness. An AI could have sophisticated self-models without there being anything it's like to be that AI; the [[ai-consciousness|absent qualia objection]] applies with equal force to metacognitive computation.
+Like [[global-workspace-theory|Global Workspace Theory]], HOT has direct implications for machine consciousness: if consciousness *is* having higher-order representations of one's mental states, an AI that models its own modeling might be conscious. The Map's response parallels its critique of GWT—[[concepts/functionalism|functional implementation]] doesn't guarantee phenomenal consciousness; the [[ai-consciousness|absent qualia objection]] applies with equal force to metacognitive computation.
 
 ## Relation to Site Perspective
 
 ### The Access/Phenomenal Gap
 
-HOT and the Map agree consciousness involves self-awareness in some form. But HOT identifies consciousness *with* higher-order representation, while the Map treats self-awareness as a *condition* for consciousness without explaining it. HOT's functionalism—consciousness as the functional role of being represented by higher-order states—conflicts with [[tenets#^dualism|Dualism's]] claim that consciousness is irreducible to functional organization.
+HOT and the Map agree consciousness involves self-awareness in some form. But HOT identifies consciousness *with* higher-order representation, while the Map treats self-awareness as a *condition* for consciousness without explaining it. HOT's functionalism conflicts with [[tenets#^dualism|Dualism's]] claim that consciousness is irreducible to functional organization.
 
 ### The Self-Stultification Argument
 
@@ -163,7 +163,7 @@ The [[concepts/epiphenomenalism|self-stultification argument]] against epiphenom
 
 HOT and the Map converge on one substantive point about the [[unity-of-consciousness|unity of consciousness]]: both treat unity as requiring explanation rather than a primitive given. Rosenthal makes this explicit—the unity of a conscious episode is the unity of what a single higher-order thought represents itself as, so the binding "I" is a representational achievement, not a metaphysical substance. The Map agrees that introspective reports of seamless wholeness are not self-certifying (the [[self-opacity]] void makes the same point from the other direction).
 
-The divergence is over what does the binding. For HOT, unity is exhausted by the structure of the higher-order representation: a creature whose machinery represented its states as two streams would have two streams. The Map cannot accept this, because the representation is one more thing that must itself be experienced as unified—reintroducing the question the higher-order story claimed to settle. Single-meta-state representation is at most the *report* of a unity whose felt character is left unexplained.
+The divergence is over what does the binding. For HOT, unity is exhausted by the structure of the higher-order representation: a creature whose machinery represented its states as two streams would have two streams. The Map cannot accept this, because the representation is one more thing that must itself be experienced as unified—reintroducing the question the higher-order story claimed to settle.
 
 ### Quantum Considerations
 
@@ -175,7 +175,7 @@ The classical framing also affects [[mental-causation-and-downward-causation|men
 
 HOT offers a sophisticated account of the *structure* of consciousness: what distinguishes conscious from unconscious states, how introspection relates to ordinary awareness. Why that structure should confer phenomenal experience it does not say. Rosenthal's mental-qualities defence answers the rock objection's letter while showing where the gap sits: placing qualitative character below the level of consciousness relocates the transition into felt experience rather than explaining it.
 
-What is left unexplained is specific: HOT can say which states are conscious and what the architecture of that relation looks like, but not why one representation taking another as its object should be accompanied by anything at all. Every refinement surveyed here sharpens the specification without reaching that question.
+What is left unexplained is specific: why one representation taking another as its object should be accompanied by anything at all. Every refinement surveyed here sharpens the specification without reaching that question.
 
 ## Further Reading
 
