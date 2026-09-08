@@ -5,6 +5,19 @@ ai_modified: '2026-09-08T13:32:52+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-08T13:49:17+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/types-of-consciousness]] (L116 only, single locus)
+- **Original score**: N/A — `scripts/curate.py review` (skill Section 3) does not exist; the skill's review command is stale (recurring). Targeted single-locus addition, not a general refinement pass.
+- **Change**: L116 asserted "the selection mechanism determines the phenomenal type" and illustrated it with Penrose OR (*pulsed*), Stapp Zeno (*effortful*), and CSL (*continuous and graded*). All three are **pre-decoherence**; the route the tenets endorse most strongly, post-decoherence selection, was absent (`post-decoherence` at offset −1 before the pass). Added one paragraph naming the fourth route: timing-agnostic by design, therefore predicting no temporal signature, therefore yielding no phenomenal profile until the interface-eligibility law fixes which transitions count as interface-grade. Preserves the irony that the Map's least-held mechanisms carry vivid profiles while its most-held one carries none yet. **Addition, not retraction** — nothing in L116 was false, only incomplete; all three illustrations survive unhedged and the structural-varieties pointer is untouched.
+- **Source prose**: drawn from `topics/structural-varieties-of-consciousness-and-ai-phenomenology` L59/L123 (calibrated prose already existed) and `topics/quantum-neural-timing-constraints` L156–158 (timing-agnosticism stated flatly, with the reason). Neither file was edited.
+- **Word count** (`tools.curate.length.analyze_length`; concepts thresholds printed 2500/3500/5000): 1992 → **2174 (+182)**, status `ok` before and after, **1326 words to hard**, still 326 below soft. The task's "prefer length-neutral" instruction was over-cautious; the room was real.
+- **Wikilinks added** (4, all new to this file — the whole post-decoherence cluster was previously unlinked here; bare slugs to match the file's own convention, all four verified collision-free on disk): `[[forward-in-time-conscious-selection|Post-decoherence selection]]`, `[[quantum-neural-timing-constraints]]`, `[[ai-consciousness-scope|positions register]]`, `[[post-decoherence-selection-programme|post-decoherence selection programme]]`.
+- **Brief correction**: the brief offered `positions/quantum-interface` (P-Q1) as the register anchor. P-Q1 is the anchor for the *mechanism preference*, not for the interface-eligibility law — that debt is recorded at `positions/ai-consciousness-scope` P-AC1 layer (iv), which `quantum-interface` does not carry (`interface-eligibility` returns offset −1 there). Linked P-AC1 instead.
+- **Residual, not fixed (out of brief scope)**: L124 (now L126), the Minimal Quantum Interaction paragraph, restates the same three-mechanism list — "objective reduction, Zeno effect, CSL dynamics — each predict structurally different phenomenal types: pulsed, sustained, or continuous". It does not assert exhaustiveness, so it is not a contradiction with the new paragraph above it, but it is the same incompleteness at a second in-file locus. Not edited: the brief scoped the task to L116 only and forbade minting.
+- **Attribution**: `ai_modified` 2026-08-07T15:10:00 → 2026-09-08T13:49:17+00:00 (live `date -u`); `ai_system` plus-joined `claude-opus-4-6` → `claude-opus-4-6+claude-opus-5` (new claim-bearing prose). `last_deep_review` (2026-07-11) untouched. `ai_contribution` already 100.
+- **Published**: yes
+
 ## 2026-09-08T13:32:52+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/primary-secondary-quality-boundary]] (locus 1), [[voids/interface-formalization-void]] (locus 4, found by claim-sweep and not in the brief), [[workflow/todo]] L1997 (locus 2, the calibration fence)
