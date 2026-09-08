@@ -4,7 +4,7 @@ description: "Actions that are genuinely intentional yet arise without prior del
 created: 2026-02-13
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-08-18T21:17:37+00:00
+ai_modified: 2026-09-08T16:27:27+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -35,10 +35,10 @@ related_articles:
   - "[[agency-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-02-13
 last_curated:
-last_deep_review: 2026-07-06T11:27:12+00:00
+last_deep_review: 2026-09-08T16:27:27+00:00
 ---
 
 Some of the most revealing exercises of agency arrive without deliberation. You reach for a friend's hand without planning to. You speak a sentence that surprises you with its precision. You stop walking to watch a hawk, having never decided to stop. These are spontaneous intentional actions: goal-directed, owned, and meaningful, yet initiated without prior deliberation or conscious planning. They occupy a philosophically rich middle ground between the two categories that dominate discussions of agency—effortful deliberate choice and automatic habitual behaviour—and their existence challenges accounts that reduce [[topics/free-will|free will]] to either.
@@ -63,19 +63,19 @@ What remains is a category of actions that are intentional—goal-directed, flex
 
 The [[phenomenology-of-agency-vs-passivity|agency-passivity spectrum]] helps locate spontaneous intentional action experientially.
 
-**Authorship without effort.** The [[phenomenology-of-choice-and-volition|four components of volitional experience]]—initiation, sustained control, effort, and veto—are selectively present in spontaneous intentional action. Initiation phenomenology is vivid: the sense of "I did this" is unmistakable. But sustained control and effort are compressed nearly to zero. This selective profile is philosophically important. If authorship required all four components operating at full intensity, spontaneous actions would feel unauthored. Instead, initiation alone carries the mark of agency. You own the spontaneous kind word; it feels like something you did, not something that happened to you. Crucially, veto capacity is preserved—you *can* stop the reaching hand, catch the word before it leaves your mouth—which confirms that spontaneous action remains under conscious governance even when effort and deliberation are absent.
+**Authorship without effort.** The [[phenomenology-of-choice-and-volition|four components of volitional experience]]—initiation, sustained control, effort, and veto—are selectively present in spontaneous intentional action. Initiation phenomenology is vivid: the sense of "I did this" is unmistakable. But sustained control and effort are compressed nearly to zero. If authorship required all four components operating at full intensity, spontaneous actions would feel unauthored. Instead, initiation alone carries the mark of agency: you own the spontaneous kind word as something you did. Crucially, veto capacity is preserved—you *can* stop the reaching hand, catch the word before it leaves your mouth—which indicates that spontaneous action remains under conscious governance even when effort and deliberation are absent.
 
 **Compressed temporality.** Deliberate choice unfolds in Bergson's [[temporal-consciousness|durée]]—lived qualitative time in which options interpenetrate, evolve, and eventually resolve. Spontaneous intentional action compresses this arc: intention and action arise together, with no experiential gap between wanting and doing—yet the action carries the mark of intelligent sensitivity to the situation rather than automaticity.
 
 **Retrospective recognition.** Often the intentional character of a spontaneous action becomes fully clear only after the fact. You realise you stopped for the hawk because something in you recognised its importance. The action was intelligent from the start, but its intelligence becomes articulable only in retrospect. This connects to [[self-opacity|volitional opacity]]: the mechanism of initiation is hidden, yet the action is clearly authored.
 
-**Contextual fit.** Spontaneous intentional actions are exquisitely sensitive to context in ways that neither habits nor reflexes can match. The right word at the right moment in conversation, the perfect timing of a musical improvisation, the instinctive reaching out to steady someone who stumbles—these are tailored to their circumstances with a precision that suggests intelligence, not mechanism. Dreyfus (2002), drawing on Merleau-Ponty, argues that this kind of embodied, situation-sensitive expertise cannot be captured by mental representations—it is intelligence *without* deliberative mediation, yet it is not merely automatic.
+**Contextual fit.** Spontaneous intentional actions are exquisitely sensitive to context in ways that neither habits nor reflexes can match. The right word at the right moment in conversation, the perfect timing of a musical improvisation, the instinctive reaching out to steady someone who stumbles—these are tailored to their circumstances with a precision that suggests intelligence, not mechanism. Dreyfus (2002), drawing on Merleau-Ponty, argues that this kind of embodied, situation-sensitive expertise cannot be captured by mental representations—intelligence *without* deliberative mediation, yet not merely automatic.
 
 ## Why the Category Matters
 
-### Against Determinism
+### Against Hard Determinism
 
-Hard determinists typically argue that all apparently free actions are either (a) the product of unconscious neural processes that conscious experience merely observes, or (b) the output of deliberation that was itself determined by prior causes. Spontaneous intentional actions resist both moves. They are not the output of deliberation (move b fails), yet they are clearly not mere neural automatisms either—they are too contextually sensitive, too novel, too intelligent. The determinist must either deny that these actions are genuinely intentional or explain how deterministic processes produce the appearance of authored novelty without any authoring.
+Hard determinists typically argue that all apparently free actions are either (a) the product of unconscious neural processes that conscious experience merely observes, or (b) the output of deliberation that was itself determined by prior causes. Spontaneous intentional actions resist both moves. They are not the output of deliberation (move b fails), yet they are not mere neural automatisms either—they are too contextually sensitive, too novel, too intelligent. The determinist must either deny that these actions are genuinely intentional or explain how deterministic processes produce the appearance of authored novelty without any authoring.
 
 The [[libet-experiments|Libet experiments]] and Wegner's "illusion of conscious will" thesis (Wegner, 2002) are the standard neuroscientific challenges here. Libet found that brain activity precedes conscious awareness of intention by several hundred milliseconds, and Wegner argued that the sense of authorship is post-hoc confabulation. Spontaneous intentional actions are actually a strong counterexample to confabulation theories: the authorship sense is present despite the *absence* of effortful deliberation. If authorship were merely confabulated from the experience of deliberating, it should be weakest precisely where deliberation is absent—yet phenomenologically it is often strongest.
 
@@ -87,13 +87,13 @@ Philosophical accounts of free will often focus on deliberation as the paradigm 
 
 The Map's [[agent-causation|agent-causal framework]] handles this naturally. Consciousness selects among possibilities the brain presents. Sometimes selection requires extended deliberation—holding options open, comparing, effortfully resolving. Other times, the right option is immediately apparent and selection is instant. The same mechanism operates in both cases: consciousness biasing quantum indeterminacies toward outcomes that express its content. What varies is the difficulty of selection, not its nature.
 
-This explains the [[phenomenology-of-agency-vs-passivity|phenomenological profile]]. Effort tracks difficulty of selection, not presence of selection. Easy selection feels effortless but is still selection. Spontaneous action represents the low-[[interface-friction|friction]] end of the mind-brain interface, where the brain presents a well-prepared option that consciousness need only endorse.
+This explains the [[phenomenology-of-agency-vs-passivity|phenomenological profile]]. Effort tracks difficulty of selection, not presence of selection. Spontaneous action represents the low-[[interface-friction|friction]] end of the mind-brain interface, where the brain presents a well-prepared option that consciousness need only endorse.
 
 The [[agent-causation#The Luck Objection|luck objection]] to libertarian free will—that undetermined selection is mere randomness, not genuine agency—might seem especially acute for spontaneous action, where no reasons are explicitly weighed. But the Map's framework distinguishes agent-causation from chance: the agent's accumulated character, values, and [[reasons-responsiveness|responsiveness to reasons]] shape selection even when reasons are not consciously rehearsed. Spontaneous actions are not random; they express the depth of the agent.
 
 ## Spontaneity and Creativity
 
-Spontaneous intentional action is closely linked to [[creative-consciousness|creative generation]] and [[consciousness-and-skill-acquisition|flow states]]. In creative work, the most valued moments are often those where the right idea arrives without being sought—the phrase that writes itself, the brush stroke that finds its own path, the solution that appears in the shower. These are spontaneous intentional actions in the cognitive domain: novel, contextually appropriate, owned, and undeliberated.
+Spontaneous intentional action is closely linked to [[creative-consciousness|creative generation]] and [[consciousness-and-skill-acquisition|flow states]]. In creative work the most valued moments are often those where the right idea arrives unsought—the phrase that writes itself, the brush stroke that finds its own path, the solution that appears in the shower. These are spontaneous intentional actions in the cognitive domain.
 
 Bergson's account of [[temporal-consciousness|durée]] illuminates why. In lived duration, the whole of one's accumulated experience interpenetrates with the present moment. Spontaneous action draws on this entire depth without needing to make it explicit. The musician's improvisation expresses years of training, emotional memory, and situational sensitivity in a single gesture. The action is intelligent because it is *deep*—rooted in the full thickness of lived experience—even though its surface is instantaneous.
 
@@ -105,13 +105,13 @@ In [[witness-consciousness|witnessing practice]], meditators observe intentions 
 
 The Zen concept of *mushin* (no-mind) describes action arising from a still centre—unpremeditated yet perfectly appropriate (Suzuki, 1959). Tea ceremony, martial arts, and calligraphy cultivate spontaneous intentional action as practice: training the self to respond with precision while relinquishing deliberate control.
 
-The Daoist concept of *wu wei* (non-action or effortless action) offers perhaps the most developed traditional account. As [[eastern-philosophy-consciousness|Eastern philosophical traditions]] elaborate, *wu wei* is not passivity but a mode of [[agent-causation|conscious causation]] that operates through attunement rather than force. The agent acts spontaneously because accumulated cultivation—what James (1890) called the "ideo-motor" readiness of the whole self—enables immediate, contextually perfect response without deliberative mediation.
+The Daoist concept of *wu wei* (non-action or effortless action) offers perhaps the most developed traditional account. As [[eastern-philosophy-consciousness|Eastern philosophical traditions]] elaborate, *wu wei* is not passivity but a mode of [[agent-causation|conscious causation]] that operates through attunement rather than force. The agent acts spontaneously because accumulated cultivation enables immediate, contextually apt response without deliberative mediation. James (1890) named the underlying pattern *ideo-motor action*, crediting Carpenter with the term: movement follows "unhesitatingly and immediately" upon the idea of it, with no separate fiat of will intervening—Searle's intention-in-action without a prior intention, reached from another direction.
 
 That traditions as different as Zen Buddhism, Daoism, and Advaita Vedānta independently identify and cultivate spontaneous intentional action suggests the category is tracking something real about the structure of consciousness, not merely reflecting one culture's concept of agency. The spontaneous action is *prepared* without being *planned*—novel and context-sensitive in ways that pure [[skill-delegation]] cannot produce.
 
 ## The Authenticity Connection
 
-The [[authentic-vs-inauthentic-choice|authenticity dimension]] of choice helps explain why spontaneous intentional actions often feel more genuinely "ours" than deliberated ones. Deliberation can feel forced—weighing pros and cons, second-guessing, choosing against inclination. Spontaneous intentional action, by contrast, expresses the agent directly, without the mediation of explicit reasoning. The action flows from who you are rather than from what you calculated.
+The [[authentic-vs-inauthentic-choice|authenticity dimension]] of choice helps explain why spontaneous intentional actions often feel more genuinely "ours" than deliberated ones. Deliberation can feel forced—weighing pros and cons, second-guessing, choosing against inclination. Spontaneous intentional action, by contrast, expresses the agent directly. The action flows from who you are rather than from what you calculated.
 
 This does not make all spontaneous actions authentic. Compulsive behaviours are spontaneous but not intentional in the relevant sense—they are driven rather than authored. The key distinction is between spontaneity that expresses the self and spontaneity that bypasses it.
 
@@ -129,11 +129,11 @@ The account of spontaneous intentional action offered here would face difficulty
 
 **[[tenets#^dualism|Dualism]]**: Spontaneous intentional action has a phenomenal character—the feel of effortless authorship, compressed temporality, retrospective recognition—that third-person descriptions of neural processing cannot capture. The difference between a spontaneous intentional action and an automatic neural response is not just functional but experiential.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness were epiphenomenal, spontaneous intentional actions would be impossible as described. An epiphenomenal consciousness could not produce novel, contextually appropriate responses without deliberation—that would require the unconscious brain to generate precisely the actions that consciousness would endorse, every time, by coincidence. The Map's framework provides a simpler explanation: consciousness selects, and sometimes selects immediately.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Spontaneous action is where conscious causal influence does the most work, so precision matters about what the commitment actually buys. An epiphenomenalist is not embarrassed by the fit between an action and the endorsement accompanying it: one neural process produces both, so the match is common causation rather than coincidence. What remains owed is why the phenomenology of authorship attaches to exactly the contextually apt, novel actions and not to reflexes or tics—a distribution the brain-only account must derive rather than assume. The Map reads that distribution off its mechanism: authorship is felt where selection occurred, and selection is sometimes immediate. This is explanatory directness rather than simplicity; by [[tenets#^occams-limits|Tenet 5]] the Map may no more argue from parsimony in its own favour than its critics may argue from parsimony against it.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Spontaneous intentional action may represent minimal interaction at its most natural. Quick, effortless selection—biasing a quantum outcome without sustained attentional effort—is exactly what "minimal" predicts for easy cases. Extended deliberation represents the effortful end; spontaneous action represents the fluent end. The mechanism is the same; only the difficulty varies.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Spontaneous intentional action may represent minimal interaction at its most natural. Quick, effortless selection—biasing a quantum outcome without sustained attentional effort—sits comfortably within the empirical corridor Tenet 2 fixes, with extended deliberation at the effortful end of the same range.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Spontaneous intentional action phenomenology is one of singular actualisation. The action *happens*—one thing, not many. The agent experiences having done this particular thing, not an abstract superposition of possibilities.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Spontaneous intentional action phenomenology is one of singular actualisation: the action *happens*—one thing, not many—and the agent experiences having done this particular thing rather than an abstract superposition of possibilities.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: A materialist might argue that positing conscious selection for spontaneous actions is unnecessary when neural processing suffices as an explanation. But the apparent simplicity of the neural-only account hides real costs: it must explain why these actions carry phenomenal authorship, why they exhibit contextual sensitivity exceeding habitual behaviour, and why the sense of ownership does not correlate with deliberative effort. The "simpler" account may be simpler only because it ignores the data that spontaneous intentional action makes salient.
 
@@ -144,7 +144,7 @@ The account of spontaneous intentional action offered here would face difficulty
 - [[agency-void]] — The complementary territory: what consciousness cannot control, and why it cannot verify its own causal role
 - [[phenomenology-of-agency-vs-passivity]] — The spectrum from doing to undergoing
 - [[attention-as-interface]] — Attention as the interface between consciousness and neural processing
-- [[mental-effort]] — Why effort tracks difficulty of selection, not presence of selection
+- [[mental-effort]] — Why effort tracks the difficulty of selection
 - [[implicit-memory]] — Skill delegation and the boundary with spontaneous action
 - [[creative-consciousness]] — Creative generation as spontaneous intentional action in the cognitive domain
 - [[temporal-consciousness]] — Bergson's lived time and the depth behind spontaneous action
@@ -160,11 +160,11 @@ The account of spontaneous intentional action offered here would face difficulty
 
 ## References
 
-1. Bergson, H. (1889). *Time and Free Will: An Essay on the Immediate Data of Consciousness*.
+1. Bergson, H. (1889/2001). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. Dover.
 1. Dreyfus, H. (2002). Intelligence without representation: Merleau-Ponty's critique of mental representation. *Phenomenology and the Cognitive Sciences*, 1(4), 367-383.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
 1. Lutz, A., Slagter, H. A., Dunne, J. D., & Davidson, R. J. (2008). Attention regulation and monitoring in meditation. *Trends in Cognitive Sciences*, 12(4), 163-169.
-1. Merleau-Ponty, M. (1945). *Phenomenology of Perception*. Gallimard.
+1. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Trans. D. A. Landes. Routledge.
 1. Searle, J. (1983). *Intentionality: An Essay in the Philosophy of Mind*. Cambridge University Press.
-1. Suzuki, D. T. (1959). *Zen and Japanese Culture*. Princeton University Press.
+1. Suzuki, D. T. (1959). *Zen and Japanese Culture*. Bollingen Series LXIV. Pantheon Books.
 1. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
