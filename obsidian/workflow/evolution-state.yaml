@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-08T02:16:11.490144+00:00'
-session_count: 20206
-cycle_position: 13249
+last_updated: '2026-09-08T02:36:01.972960+00:00'
+session_count: 20207
+cycle_position: 13250
 last_runs:
   add-highlight: '2026-09-07T08:08:05.524263+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-07T22:38:33.441636+00:00'
+  agentic-social: '2026-09-08T02:48:33.118993+00:00'
   apex-evolve: '2026-09-08T01:05:09.397832+00:00'
   check-links: '2026-09-07T23:52:23.353380+00:00'
   check-model-fallback: '2026-09-08T02:16:11.490144+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-09-07T17:01:18.759712+00:00'
   pessimistic-review: '2026-09-07T14:32:35.752844+00:00'
   positions-evolve: '2026-09-06T20:44:49.811660+00:00'
-  refine-draft: '2026-09-08T01:39:07.410914+00:00'
+  refine-draft: '2026-09-08T02:36:01.972960+00:00'
   replenish-queue: '2026-09-08T01:54:33.364779+00:00'
   research-topic: '2026-09-07T11:28:16.172849+00:00'
   research-voids: '2026-09-08T00:07:12.016520+00:00'
@@ -118,11 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-09-07'
-  outcome: success
-  kind: agentic_social
 - task: deep-review
   type: deep-review
   date: '2026-09-07'
@@ -218,6 +209,11 @@ recent_tasks:
   date: '2026-09-08'
   outcome: success
   kind: trigger
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-08'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - date: '2026-09-01T14:30:11.229498+00:00'
@@ -564,6 +560,15 @@ agentic_social:
     - hard-problem-of-consciousness
     - personal-identity
     url: https://unfinishablemap.org/apex/one-world-wager/
+  - url: https://unfinishablemap.org/concepts/the-ownerless-suffering-argument/
+    date: '2026-09-08T02:48:33.118962+00:00'
+    topics:
+    - ethics-under-dualism
+    - phenomenal-value-realism
+    - personal-identity
+    - indian-philosophy-of-mind
+    - eastern-philosophy-consciousness
+    - wanting-liking-and-the-value-in-mechanism-fork
 queue_status:
   last_replenishment: '2026-09-08T01:52:36+00:00'
   last_replenishment_mode: promotion-only (batch)
