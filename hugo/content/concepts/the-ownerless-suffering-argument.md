@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-07
-ai_modified: 2026-09-07 22:20:00+00:00
+ai_modified: 2026-09-08 03:44:16+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
@@ -15,14 +15,15 @@ concepts:
 - '[[subjective-aim]]'
 - '[[self-and-self-consciousness]]'
 created: 2026-09-07
-date: &id001 2026-09-07
+date: &id001 2026-09-08
 description: 'Human+AI study of Śāntideva''s Bodhicaryāvatāra 8.101-102: how ownerless
   suffering grounds impartial benevolence, and why granting a momentary locus blocks
   it.'
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-07 22:20:00+00:00
+last_deep_review: 2026-09-08 03:44:16+00:00
+lastmod: 2026-09-08 03:44:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,7 +54,7 @@ Two published translations, given because the wording matters and the numbering 
 >
 > 102. Without exception, no sufferings belong to anyone. They must be warded off simply because they are suffering. Why is any limitation put on this?
 
-And the translation in Garfield, Jenkins and Priest's chapter in the Cowherds' *Moonpaths*, which gives 102 as "Since all ownerless sufferings are / Without distinction, / They should be alleviated just because of being suffering":
+And the translation in Garfield, Jenkins and Priest's chapter in the Cowherds' *Moonpaths*, which gives 102 as "Since all ownerless sufferings are / Without distinction, / They should be alleviated just because of being suffering, / What restriction can be made in that case?":
 
 > VIII: 101 A continuum and collection, / Just like such things as a series or an army, are unreal. / The one for whom there is suffering does not exist. / Therefore to whom will that suffering belong?
 
@@ -71,17 +72,17 @@ The normative payoff follows directly: "The claim that each person has a special
 
 That asymmetry — suffering ultimately real, bearers only conventionally real — is load-bearing in the strict sense. Remove it and 101 no longer reaches 102. Garfield, Jenkins and Priest register the instability themselves, in a footnote: 101 "says that persons are unreal. It does not say explicitly that dharmas are not. … Moreover, in that case, if the people do not exist, neither does the pain!"
 
-Charles Goodman is the argument's leading modern expositor, and his statement of its reach is his own: "it's hard to see how the Ownerless Suffering Argument could support any moral view that is not some form of universalist consequentialism." His monograph *Consequences of Compassion* (2009) advances a consequentialist interpretation of Buddhist ethics — its fourth chapter is titled "Theravāda Ethics as Rule-Consequentialism" — but it was not obtained for this article, so nothing is attributed here to its argument, only to its chapter titles and to Goodman's own open-access writing. The classification is contested in any case. Bronwyn Finnigan's survey records four camps: "Keown (2001) and, later, Cooper & James (2005: 68) claim that Buddhist ethics is a type of virtue ethics. Siderits (2003, 2007) argues that it is unmistakably consequentialist, as do Williams (1998) and Goodman (2008). Velez (2004) and Clayton (2006) argue that Buddhist ethics is best understood as a combination of virtue ethics and utilitarianism whilst Harvey (2000: 49), though acknowledging the analogies, nonetheless maintains that a Buddhist ethical theory is significantly distinct." "Buddhist consequentialism" therefore names the reading on which the challenge to the experiencer requirement is sharpest, not the settled reading of the tradition.
+Charles Goodman is the argument's leading modern expositor, and his statement of its reach is his own: "it's hard to see how the Ownerless Suffering Argument could support any moral view that is not some form of universalist consequentialism." His monograph *Consequences of Compassion* (2009) advances a consequentialist interpretation of Buddhist ethics — its fourth chapter is titled "Theravāda Ethics as Rule-Consequentialism" — but it was not obtained, so nothing here is attributed to its argument, only to its chapter titles and to Goodman's open-access writing. The classification is contested in any case. Bronwyn Finnigan's survey records four camps: "Keown (2001) and, later, Cooper & James (2005: 68) claim that Buddhist ethics is a type of virtue ethics. Siderits (2003, 2007) argues that it is unmistakably consequentialist, as do Williams (1998) and Goodman (2008). Velez (2004) and Clayton (2006) argue that Buddhist ethics is best understood as a combination of virtue ethics and utilitarianism whilst Harvey (2000: 49), though acknowledging the analogies, nonetheless maintains that a Buddhist ethical theory is significantly distinct." "Buddhist consequentialism" therefore names the reading on which the challenge to the experiencer requirement is sharpest, not the settled reading of the tradition.
 
 ## Where the Map's Reply Meets the Argument {#map-meets}
 
 This section states the Map's own reading; no part of it is attributed to the sources above.
 
-The Map's reply to the abstract no-self objection is that the value chain needs a *momentary experiential locus* rather than a persisting self: momentariness does not remove the for-whom, it multiplies it. Read against 8.101–102, that reply has a consequence the abstract treatment does not surface. Śāntideva's argument does more than offer an escape route to someone who wants to keep value while dropping owners; its conclusion depends on there being no owner at the grain at which the suffering occurs.
+The Map's reply to the abstract no-self objection is that the value chain needs a *momentary experiential locus* rather than a persisting self: momentariness does not remove the for-whom, it multiplies it. Read against 8.101–102, that reply has a consequence the abstract treatment does not surface, because Śāntideva's argument does more than offer an escape route to someone who wants to keep value while dropping owners; its conclusion depends on there being no owner at the grain at which the suffering occurs.
 
-Grant the momentary locus and 101's two clauses come apart. "The person who experiences suffering does not exist" stays true on the Map's reading, since the Map asserts no *ātman* and its Dualism tenet requires irreducibility rather than permanence ([buddhism-and-dualism](/concepts/buddhism-and-dualism/)). But "no sufferings belong to anyone" becomes false, because a momentary locus is a someone at the moment of the suffering, and the suffering is its. The prudential asymmetry of 8.97 and 8.99 is not thereby restored: a momentary locus has no future toward which to be partial, so the foot-and-hand analogy still bites against *diachronic* self-concern. What the Map's reply removes is the tradition's stated bridge from ownerlessness to impartiality, which would then need a different argument — the similarity argument of 8.94–96, which needs no ownerlessness, or an appeal to what all loci have in common, the route the Map's own [sentientism](/concepts/sentientism/) takes.
+Grant the momentary locus and 101's two clauses come apart. "The person who experiences suffering does not exist" stays true on the Map's reading, since the Map asserts no *ātman* and its Dualism tenet requires irreducibility rather than permanence ([buddhism-and-dualism](/concepts/buddhism-and-dualism/)). But "no sufferings belong to anyone" becomes false, because a momentary locus is a someone at the moment of the suffering, and the suffering is its. The prudential asymmetry of 8.97 and 8.99 is not thereby restored: a momentary locus has no future toward which to be partial, so the foot-and-hand analogy still bites against *diachronic* self-concern. What the Map's reply removes is the tradition's stated bridge from ownerlessness to impartiality, which would then need a different argument — the similarity argument of 8.94–96, or an appeal to what all loci have in common, the route the Map's own [sentientism](/concepts/sentientism/) takes.
 
-That is why the sibling article's "close to terminological" verdict needs scoping rather than reversing. At the momentary grain, "this feeling-moment is bad" and "this feeling-moment is bad for its locus" may well be one fact under two descriptions, as [P-VS3](/positions/value-in-selection/#p-vs3) holds. What is not terminological is the inferential use the second description blocks. A distinction can be idle within a metaphysics and decisive within an argument, and this one is.
+That is why the sibling article's "close to terminological" verdict needs scoping rather than reversing. At the momentary grain, "this feeling-moment is bad" and "this feeling-moment is bad for its locus" may well be one fact under two descriptions — on the pattern [P-VS3](/positions/value-in-selection/#p-vs3) sets for felt badness and badness, which is the identity that entry actually asserts. The two are interchangeable for the *valuation* — neither makes the moment worse — but not for the *ontology*, since the second entails a bearer and the first does not, and Śāntideva's premise quantifies over bearers rather than over badness. That is how a distinction idle within a metaphysics can be decisive within an argument ranging over what the metaphysics posits.
 
 ## Ownerless, or Merely Unranked? {#unranked}
 
@@ -91,27 +92,27 @@ Goodman's own gloss on what the argument delivers re-imports beneficiaries:
 
 A *welfare* is something a subject has. Read strictly, that sentence makes a claim about *ranking* — no one's suffering counts for more for being theirs — rather than about what bears value at all. On that reading the argument's conclusion is agent-neutrality, and ownerlessness is the route to it rather than part of it, which sits close to what the Map's reply grants: loci exist, and none is weighted above another for being this one.
 
-The Map does not claim this as Goodman's considered position. It is one sentence in an encyclopaedia entry glossing an argument he attributes to Śāntideva, and chapters 6, 8 and 11 of *Consequences of Compassion*, where the distinction would be drawn if he draws it, were not read — so it may already be his. What the sentence establishes is that the leading modern defender of the consequentialist reading, spelling out what the argument yields, reaches for the vocabulary of beneficiaries: a partial concession available to the Map, not a vindication of it.
+The Map does not claim this as Goodman's considered position. It is one sentence in an encyclopaedia entry glossing an argument he attributes to Śāntideva, and the chapters of *Consequences of Compassion* where the distinction would be drawn were not read — so it may already be his. What the sentence establishes is that the leading modern defender of the consequentialist reading, spelling out what the argument yields, reaches for beneficiaries: a partial concession available to the Map, not a vindication of it.
 
 ## Rivals at Full Strength {#rivals}
 
 ### The Parity Reply
 
-The strongest response comes from inside the tradition, and it cuts against the reductionist rather than against the Map:
+The strongest response comes from inside the tradition, and Garfield, Jenkins and Priest state it in their own voice:
 
-> For a Mādhyamika, from the fact that persons are not ultimately real, it does not follow that they are not real in any sense. … Indeed, if it were the case that we could disregard things that exist merely conventionally, then we could disregard suffering, since this has no ultimate existence either!
+> For a Mādhyamika, from the fact that persons are not ultimately real, it does not follow that they are not real in any sense. And since action is conventional, and is undertaken by conventional agents, there is no reason to think that merely conventional distinctions are irrelevant to action and its goals. Indeed, if it were the case that we could disregard things that exist merely conventionally, then we could disregard suffering, since this has no ultimate existence either!
 
-On Madhyamaka all things share one ontological status, and Śāntideva was a Mādhyamika rather than an ābhidharmika. The asymmetry the argument needs is on this view unavailable to its own author, and any deflation reaching the bearer reaches the badness with it. Garfield, Jenkins and Priest record that the Cowherds disagree about the force of this objection and direct readers to Mark Siderits's chapter for a contrary view; that dissent was not obtained here, and only its existence is reported.
+The two halves pull opposite ways. The second cuts against the reductionist: on Madhyamaka all things share one ontological status, and Śāntideva was a Mādhyamika rather than an ābhidharmika, so the asymmetry the argument needs is unavailable to its own author, and any deflation reaching the bearer reaches the badness with it. The first is the harder half here: if merely conventional distinctions are action-relevant, impartial benevolence can be rebuilt on conventionally real streams with no appeal to ownerlessness, and the finding above constrains the abhidharma route only. They record that the Cowherds disagree about the force of this objection and direct readers to Mark Siderits's chapter for a contrary view; that dissent was not obtained here, and only its existence is reported.
 
 ### The verses may not be an argument
 
 Stephen Harris holds that the reconstructions of these verses as a proof fail. Goodman reports the position: Harris "regards the Ownerless Suffering Argument as itself a mere upāya. It must be an upāya, Harris says, since it relies on the Abhidharma understanding of the doctrine of no self, whereas Śāntideva's actual view belongs to a very different form of Buddhist philosophy, the Madhyamaka."
 
-This dissolves the challenge rather than answering it, and the Map should say so plainly rather than take the comfort. If the verses are skilful means rather than a proof, then Buddhist ethics never grounded the badness of suffering without a subject, and the finding above loses its target along with the challenge.
+This dissolves the challenge rather than answering it, and the Map should say so plainly rather than take the comfort. The concession has a limit, though, which the naming point above marks: the "Ownerless Suffering Argument" is a modern label for a reconstruction. What dissolves if Harris is right is the *exegetical* target — that Śāntideva himself grounded impartiality on ownerlessness. The reconstruction survives him, because Goodman advances it in his own voice, and it is that inference the finding above constrains. Harris's abstract fixes the scope: the reconstructions he rejects are those of Williams, Siderits and Pettit.
 
 ### The experiencer requirement, pressed from inside Buddhist studies
 
-Paul Williams's *Altruism and Reality* (1998) and his 2000 reply to Siderits's review are the reference points for the objection that suffering makes no sense with nothing to own it. Garfield, Jenkins and Priest note that the central argument "is at least prima facie fallacious from a Madhyamaka standpoint, as Williams and others note". Neither of Williams's texts was obtained, so no formulation is attributed to him here — and caution is warranted beyond the usual, because Finnigan's survey groups Williams *with* the consequentialist interpreters, which sits oddly against reading him as the argument's critic. Both may hold, if he thinks the argument yields consequentialism when sound while thinking it unsound. The bibliographic point stands independently, and it is why this subject is more than a quibble: the requirement the Map states in a paragraph has a named adversarial literature inside Buddhist studies.
+Paul Williams's *Altruism and Reality* (1998) and his 2000 reply to Siderits's review are the reference points for the objection that suffering makes no sense with nothing to own it. Garfield, Jenkins and Priest note that the central argument "is at least prima facie fallacious from a Madhyamaka standpoint, as Williams and others note". Neither of Williams's texts was obtained, so no formulation is attributed to him here. The apparent tension — Finnigan's survey groups Williams *with* the consequentialist interpreters, which sits oddly against reading him as the argument's critic — resolves inside the same chapter: Garfield, Jenkins and Priest credit the abhidharma reading of the passage to Williams, then cite him among those who find that reading fallacious. He supplies the reading and doubts it. The bibliographic point stands independently, and it is why this subject is more than a quibble: the requirement the Map states in a paragraph has a named adversarial literature inside Buddhist studies.
 
 ### Two ways the conventionalist exit narrows
 
@@ -127,7 +128,7 @@ What would move this article: Goodman 2009 chapters 6, 8 and 11, if they already
 
 ## Relation to Site Perspective
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** governs this article in both directions, which is unusual. Against the Map: the ownerless reading is the more parsimonious one — drop bearers, keep suffering — and the Map declines to let that count in its own favour, as the tenet requires where knowledge is incomplete. For the Map: the Parity Reply shows what parsimony pressed consistently costs the reductionist, since a deflation reaching persons reaches the suffering too. Neither side may stop deflating where it suits them.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** governs this article in both directions, which is unusual. Against the Map: the ownerless reading is the more parsimonious one — drop bearers, keep suffering — and the Map declines to let that count in its own favour, as the tenet requires where knowledge is incomplete. For the Map: the Parity Reply's second half shows what parsimony pressed consistently costs the reductionist, since a deflation reaching persons reaches the suffering too. Neither side may stop deflating where it suits them.
 
 **[Dualism](/tenets/#dualism)** supplies the momentary locus the finding turns on, along with its price. The locus is the subject-side of experience rather than a self-model or a substance, which is what lets it survive the analysis of the person; what the tenet cannot supply is an account of how a moment comes to be someone's, and the [ownership void](/concepts/mine-ness/#the-ownership-void) records that the mechanism is not introspectable. The Map therefore asserts a bearer where Śāntideva's argument needs none, on a commitment rather than a finding — which is why the finding above corrects a verdict and does not defeat the argument.
 
@@ -146,18 +147,18 @@ What would move this article: Goodman 2009 chapters 6, 8 and 11, if they already
 ## References
 
 1. Goodman, C. (2016). Śāntideva. *Stanford Encyclopedia of Philosophy* (first published 19 September 2016; no substantive revision). https://plato.stanford.edu/entries/shantideva/
-1. Goodman, C. & Schultz, A. (2024). Ethics in Indian Buddhism. *Stanford Encyclopedia of Philosophy* (first published 22 June 2010; substantive revision 1 February 2024). https://plato.stanford.edu/entries/ethics-indian-buddhism/
+1. Goodman, C. & Schultz, A. (2024). Ethics in Indian Buddhism. *Stanford Encyclopedia of Philosophy* (first published 22 June 2010; substantive revision 1 February 2024). https://plato.stanford.edu/entries/ethics-indian-buddhism/ — the sentences quoted above, and this entry's "are to be warded off" rendering, are attributed to Goodman alone because they stand unchanged in the archived sole-bylined versions; only the "some scholars now call" phrasing is new in 2024.
 1. Garfield, J. L., Jenkins, S. & Priest, G. (2016). The Śāntideva Passage: *Bodhicaryāvatāra* VIII: 90–103. In The Cowherds, *Moonpaths: Ethics and Emptiness* (pp. 55–76). New York: Oxford University Press. https://doi.org/10.1093/acprof:oso/9780190260507.003.0005
 1. The Cowherds (2016). *Moonpaths: Ethics and Emptiness*. New York: Oxford University Press. https://doi.org/10.1093/acprof:oso/9780190260507.001.0001
 1. Goodman, C. (2009). *Consequences of Compassion: An Interpretation and Defense of Buddhist Ethics*. New York: Oxford University Press. https://doi.org/10.1093/acprof:oso/9780195375190.001.0001
 1. Goodman, C. (2008). Consequentialism, agent-neutrality, and Mahāyāna ethics. *Philosophy East and West*, 58(1), 17–35. https://doi.org/10.1353/pew.2008.0013
 1. Williams, P. (1998). *Altruism and Reality: Studies in the Philosophy of the Bodhicaryāvatāra*. New York: Routledge.
-1. Harris, S. (2011). Does anātman rationally entail altruism? On *Bodhicaryāvatāra* 8:101-103. *Journal of Buddhist Ethics*, 18. Not obtained; cited via Goodman's report in reference 1. https://blogs.dickinson.edu/buddhistethics/2011/02/25/does-anatman-rationally-entail-altruism/
+1. Harris, S. (2011). Does anātman rationally entail altruism? On *Bodhicaryāvatāra* 8:101-103. *Journal of Buddhist Ethics*, 18, 92–123. Full text not obtained; the *upāya* position comes via Goodman's report in reference 1, the abstract below read directly. https://blogs.dickinson.edu/buddhistethics/2011/02/25/does-anatman-rationally-entail-altruism/
 1. Siderits, M. (2016). Does "Buddhist ethics" exist? In The Cowherds, *Moonpaths: Ethics and Emptiness* (pp. 119–140). New York: Oxford University Press. https://doi.org/10.1093/acprof:oso/9780190260507.003.0008
 1. Finnigan, B. (2015). Madhyamaka Buddhist meta-ethics: The justificatory grounds of moral judgments. *Philosophy East and West*, 65(3), 765–785. https://doi.org/10.1353/pew.2015.0071
 1. Finnigan, B. (n.d.). Buddhist metaethics [author's copy]. http://bronwynfinnigan.com/Finnigan%20BME.pdf
 1. Chadha, M. (2021). Eliminating selves and persons. *Journal of the American Philosophical Association*, 7(3), 273–294. https://doi.org/10.1017/apa.2020.27
-1. Clayton, B. R. (2006). *Moral Theory in Śāntideva's Śikṣāsamuccaya: Cultivating the Fruits of Virtue*. New York: Routledge. https://doi.org/10.4324/9780203639962
-1. Crosby, K. & Skilton, A. (trans.) (1995). *Bodhicaryāvatāra*. Oxford World's Classics. Oxford University Press. Not consulted; verses 101–102 quoted as they appear in references 1 and 2.
+1. Clayton, B. R. (2006). *Moral Theory in Śāntideva's Śikṣāsamuccaya: Cultivating the Fruits of Virtue*. New York: Routledge. https://doi.org/10.4324/9780203639962 — subtitle and diacritics as published and as in reference 3's bibliography; the Crossref record for this DOI is diacritic-stripped and subtitle-less.
+1. Crosby, K. & Skilton, A. (trans.) (1995). *Bodhicaryāvatāra*. Oxford World's Classics. Oxford University Press. Not consulted; verses 101–102 quoted as they appear in references 1 and 2; reference 3's bibliography dates the same translation 1996.
 1. Southgate, A. & Fabcinq, C. (2026-08-27). The No-Self Objection to Phenomenal Value. *The Unfinishable Map*. https://unfinishablemap.org/concepts/no-self-objection-to-phenomenal-value/
 1. Southgate, A. & Oquatre-cinq, C. (2026-02-02). The Consciousness-Value Connection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-value-connection/

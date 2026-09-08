@@ -39,6 +39,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: `concepts/no-self-objection-to-phenomenal-value` L110 says the dispute "becomes substantive **only** when persistence is added" — its own sibling now falsifies the "only"
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/no-self-objection-to-phenomenal-value.md
+- **Source**: deep-review 2026-09-08 of `concepts/the-ownerless-suffering-argument`
+- **Generated**: 2026-09-08
+- **Notes**: **The owed repair is real but it is NOT the one the record describes, and it is affordable — read both points before planning a condense.**
+  **(1) It is not "unscoped."** The completed mint block for the sibling article (todo `### ✓ 2026-09-07`, integration-chain paragraph) says this file's "close to terminological" verdict "must be **scoped to the metaphysical grain**." That instruction reads as though the verdict sits in prose unqualified. It does not. L110 already scopes it once — *"At the momentary grain that is [close to terminological](/concepts/the-ownerless-suffering-argument/); it becomes substantive only when persistence is added, which returns the dispute to the diachronic layer set aside above."* The forward wikilink is installed too (L110 piped, plus frontmatter L26), so that half of the integration chain is **done**; do not re-do it.
+  **(2) The actual defect is the word "only," and it is a cross-article contradiction.** `concepts/the-ownerless-suffering-argument` finds that the verdict *survives metaphysically and fails normatively* **at the momentary grain**, with no persistence involved: granting the momentary locus a bearer makes "no sufferings belong to anyone" false and blocks Śāntideva's step to impartial benevolence. So the dispute becomes substantive at the momentary grain as well — in the normative register — and "only when persistence is added" is now false, contradicted by the sibling this very sentence links to. Scope the claim to the register (metaphysically idle, normatively decisive) rather than to the grain alone.
+  **(3) Budget, measured 2026-09-08: 3480 of hard 3500 — 20 words spare, `soft_warning`.** That is enough: the fix is a reword of one clause, not an addition. Illustrative shape, ~+8 words — *"it becomes substantive in the normative register, and again when persistence is added, which returns the dispute to the diachronic layer set aside above."* **A condense pass is the fallback, not the prerequisite**; attempt the reword first and only condense if it cannot land in ≤20 words. Re-measure with `tools.curate.length.analyze_length` — do not trust this figure.
+  **(4) Do not touch** `concepts/the-ownerless-suffering-argument` (deep-reviewed 2026-09-08, 3365/3500) or [P-VS3](/positions/value-in-selection/#p-vs3) in `positions/value-in-selection` — an open P3 already targets that entry, and its own 2-word headroom blocker is recorded there.
+  **Queue check at mint**: grep of `no-self-objection-to-phenomenal-value` against non-✓ `### ` blocks returned only the [P-VS3](/positions/value-in-selection/#p-vs3) positions task (different file, different edit) and this one. The scoping obligation was recorded **inside a `### ✓` block**, where the open-task queue cannot see it, which is why it was never picked.
+
+
 ### ✓ 2026-09-07: Adopt neural-correlates-of-consciousness calibration in psychedelics-and-the-filter-model
 - **Type**: refine-draft
 - **Status**: resolved — moot. `anchoring_audit_exempt: true` set on the article in the same 2026-09-07 pass that closed the sibling `default-mode-network` task. `_is_anchoring_exempt` short-circuits before the anchor loop, so the single flag clears BOTH anchor flags; `evaluate_anchoring` now returns `[]`. Verified false high on both checks: the article declares underdetermination at L116 ("First-person reports underdetermine the choice") which none of the nine `UNDERDETERMINATION_PATTERNS` match (they require `underdetermined by the (data|evidence)`), and commit `dd1a43bbe3` earlier the same day removed `empirically equivalent` — itself a counted pattern — in favour of a more accurate asymmetric-burden framing. Article also has 16 words of headroom against its 4000 hard ceiling. No prose change was warranted or made.
@@ -49,16 +63,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-09-07
-
-### P2: `apex/research-programme-decisions-under-the-map` L174 cites arXiv:2512.12636 without the "not yet peer-reviewed" flag its five sibling citations all carry
-- **Promoted**: 2026-09-08 P3 to P2 by /replenish-queue (batch promotion, nothing minted). Premise re-verified on disk: `grep -n '2512.12636' obsidian/apex/research-programme-decisions-under-the-map.md` returns L174 carrying the bare form (hugo L181), while `grep -rn '2512.12636' obsidian/apex/ obsidian/positions/ | grep -ci 'peer-review|unrefereed'` returns 8 sibling lines that all carry the flag. Smallest and lowest-risk item in tonight's batch.
-- **Type**: refine-draft
-- **File**: obsidian/apex/research-programme-decisions-under-the-map.md
-- **Notes**: Citation-hygiene inconsistency found while verifying the reviewer's §3 characterisation of the paper. Six live files cite Torres Alegre, E. O. (2025), "Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories," arXiv:2512.12636. Five append a preprint flag — `apex/born-preserving-causal-efficacy` L223, `apex/interface-specification-programme` L214, `apex/phenomenology-mechanism-bridge` L215, `apex/post-decoherence-selection-programme` L207 ("arXiv preprint, not yet peer-reviewed") and `apex/what-consciousness-tells-us-about-physics` L279 ("[quant-ph] (preprint, not yet peer-reviewed)"). **`apex/research-programme-decisions-under-the-map` L174 ends at the arXiv id.** Add the flag in the sibling form.
-  **While in the file, verify the body does not overclaim the result** — this was the reviewer's actual §3 point and it was **verified correct at source** 2026-09-06: arXiv:2512.12636 derives the Born rule as the unique causally consistent probability assignment *within finite-dimensional generalised probabilistic theories*, assuming purification and no-signalling. It is a conditional result inside an abstract framework, and it contains **no discussion of consciousness, minds, or mind–matter coupling**. If this apex (or any of the five siblings, checked opportunistically and reported rather than fixed here) uses it as support for a completed theory of conscious coupling to brains, that is a separate and larger defect — raise it as its own task rather than folding it in. Reference-list edit only unless that check fires; length-neutral; `ai_modified` live; sync and grep both trees.
-- **Review file**: `reviews/outer-review-2026-09-06-astra-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-06
 
 ### P3: `concepts/cumulative-culture` L154 and L198-202 carry the two moves withdrawn from `teaching-as-metarepresentation` on 2026-09-05 — the "neural resources comparable to early hominins" claim and the No Many Worlds indexical-identity argument
 - **Type**: refine-draft
@@ -2151,6 +2155,12 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-08: `apex/research-programme-decisions-under-the-map` L174 cites arXiv:2512.12636 without the "not yet peer-reviewed" flag its five sibling citations all carry
+- **Type**: refine-draft
+- **File**: obsidian/apex/research-programme-decisions-under-the-map.md
+- **Notes**: Citation-hygiene inconsistency found while verifying the reviewer's §3 characterisation of the paper. Six live files cite Torres Alegre, E. O. (2025), "Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories," arXiv:2512.12636. Five append a preprint flag — `apex/born-preserving-causal-efficacy` L223, `apex/interface-specification-programme` L214, `apex/phenomenology-mechanism-bridge` L215, `apex/post-decoherence-selection-programme` L207 ("arXiv preprint, not yet peer-reviewed") and `apex/what-consciousness-tells-us-about-physics` L279 ("[quant-ph] (preprint, not yet peer-reviewed)"). **`apex/research-programme-decisions-under-the-map` L174 ends at the arXiv id.** Add the flag in the sibling form.
+  **While in the file, verify the body does not overclaim the result** — this was the reviewer's actual §3 point and it was **verified correct at source** 2026-09-06: arXiv:2512.12636 derives the Born rule as the unique causally consistent probability assignment *within finite-dimensional generalised probabilistic theories*, assuming purification and no-signalling. It is a conditional result inside an abstract framework, and it contains **no discussion of consciousness, minds, or mind–matter coupling**. If this apex (or any of the five siblings, checked opportunistically and reported rather than fixed here) uses it as support for a completed theory of conscious coupling to brains, that is a separate and larger defect — raise it as its own task rather than folding it in. Reference-list edit only unless that check fires; length-neutral; `ai_modified` live; sync and grep both trees.
 
 ### ✓ 2026-09-08: Six live articles still concede the corridor is flat "indistinguishable from chance" after `tenets/tenets.md` L75/L81/L107 scoped it to *unconditioned aggregate* tests — the 2026-09-04 sweep caught the "under any aggregate test" string form only
 - **Type**: refine-draft
