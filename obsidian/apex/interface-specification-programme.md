@@ -3,7 +3,7 @@ title: "The Interface Specification Programme"
 created: 2026-03-15
 modified: 2026-07-15
 human_modified: null
-ai_modified: 2026-09-02T17:29:27+00:00
+ai_modified: 2026-09-08T16:50:16+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -196,7 +196,7 @@ This synthesis draws on:
 
 ## References
 
-1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
+1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3-4), 939-967.
 2. Schaffer, J. (2000). Trumping Preemption. *Journal of Philosophy*, 97(4), 165-181.
 3. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 4. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.

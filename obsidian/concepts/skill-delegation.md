@@ -4,7 +4,7 @@ description: "Skill delegation is how consciousness trains procedural systems, w
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-08-19T15:24:39+00:00
+ai_modified: 2026-09-08T16:50:16+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -160,6 +160,6 @@ These patterns are consistent with delegation as the mechanism underlying automa
 1. Gröpel, P., & Mesagno, C. (2019). Choking interventions in sports: A systematic review. *International Review of Sport and Exercise Psychology*, 12(1), 176–201.
 1. Smoulder, A. L., Marino, P. J., Oby, E. R., et al. (2024). A neural basis of choking under pressure. *Neuron*, 112(20), 3424–3433.e8.
 1. Fitts, P. M. & Posner, M. I. (1967). *Human Performance*. Brooks/Cole.
-1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
+1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3-4), 939-967.
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-17). Implicit Memory and Anoetic Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/implicit-memory/
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Delegatory Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/delegatory-causation/

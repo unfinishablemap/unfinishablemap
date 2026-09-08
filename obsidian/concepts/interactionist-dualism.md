@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-08-02T09:31:43+00:00
+ai_modified: 2026-09-08T16:50:16+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -261,7 +261,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 1. Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32, 127-136.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
-1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
+1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3-4), 939-967.
 1. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). "Quantum physics in neuroscience and psychology: a neurophysical model of mind-brain interaction." *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Stoljar, D. (2006). *Ignorance and Imagination: The Epistemic Origin of the Problem of Consciousness*. Oxford University Press.

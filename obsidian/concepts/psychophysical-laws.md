@@ -4,7 +4,7 @@ description: "Fundamental principles connecting conscious experience to physical
 created: 2026-01-16
 modified: 2026-03-27
 human_modified: null
-ai_modified: 2026-09-07T23:11:56+00:00
+ai_modified: 2026-09-08T16:50:16+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -285,7 +285,7 @@ The Map cannot resolve which coupling law is correct—this remains open. What t
 7. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies* 23(11-12), 11-39.
 8. Georgiev, D.D. (2015). "Monte Carlo simulation of quantum Zeno effect in the brain." *International Journal of Modern Physics B* 29(7), 1550039. arXiv:1412.4741.
 9. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). "Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis." *Frontiers in Psychology* 9, 379. doi:10.3389/fpsyg.2018.00379.
-10. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies* 182(3), 939-967. doi:10.1007/s11098-025-02290-3.
+10. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies* 182(3-4), 939-967. doi:10.1007/s11098-025-02290-3.
 11. Schaffer, J. (2000). "Trumping Preemption." *Journal of Philosophy* 97: 165–181. http://www.jonathanschaffer.org/trumping.pdf
 12. Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf
 13. Schwartz, J.M. et al. (1996). "Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder." *Archives of General Psychiatry* 53(2), 109-113.

@@ -4,7 +4,7 @@ description: "A coherence-test of the empty wide-channel/thin-pole region of the
 created: 2026-06-04
 modified: 2026-06-04
 human_modified:
-ai_modified: 2026-06-09T06:48:29+00:00
+ai_modified: 2026-09-08T16:50:16+00:00
 last_deep_review: 2026-06-04T10:55:51+00:00
 draft: false
 archived: true
@@ -116,7 +116,7 @@ Three questions follow from charting the vacant cell.
 
 ## References
 
-1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies* 182(3): 939–967. https://doi.org/10.1007/s11098-025-02290-3
+1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies* 182(3–4): 939–967. https://doi.org/10.1007/s11098-025-02290-3
 2. Schaffer, J. (2000). "Trumping Preemption." *Journal of Philosophy* 97: 165–181. http://www.jonathanschaffer.org/trumping.pdf
 3. Stapp, H. P. (n.d.). "Quantum Interactive Dualism." https://www-physics.lbl.gov/~stapp/QID.pdf
 4. Cucu, A. C., & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *Mind & Matter* 17(1): 95–121.

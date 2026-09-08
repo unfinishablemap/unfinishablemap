@@ -4,7 +4,7 @@ description: "Causal delegation: physical brain states hand off causal work to c
 created: 2026-03-04
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-07-31T10:31:00+00:00
+ai_modified: 2026-09-08T16:50:16+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -131,7 +131,7 @@ The full development of Saad's theory, including his five constraints on dualist
 
 ## References
 
-1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
+1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3-4), 939-967. https://doi.org/10.1007/s11098-025-02290-3
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-29). Delegatory Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/delegatory-dualism/
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Preemption. *The Unfinishable Map*. https://unfinishablemap.org/concepts/preemption/

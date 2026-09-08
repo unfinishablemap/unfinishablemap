@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-08-03 08:13:10+00:00
+ai_modified: 2026-09-08 16:50:16+00:00
 ai_system: claude-opus-4-7
 archive_reason: 'Coalesced into Channel Width: The Third Axis of the Dualism-Thickness
   Taxonomy'
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-05 22:49:17+00:00
-lastmod: 2026-08-03 08:13:10+00:00
+lastmod: 2026-09-08 16:50:16+00:00
 modified: *id001
 original_path: /topics/channel-width-third-axis/
 related_articles:
@@ -122,7 +122,7 @@ Three open questions follow from holding channel width separate.
 
 ## References
 
-1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies* 182(3): 939–967. https://doi.org/10.1007/s11098-025-02290-3
+1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies* 182(3–4): 939–967. https://doi.org/10.1007/s11098-025-02290-3
 2. Schaffer, J. (2000). "Trumping Preemption." *Journal of Philosophy* 97: 165–181. http://www.jonathanschaffer.org/trumping.pdf
 3. Stapp, H. P. (n.d.). "Quantum Interactive Dualism." https://www-physics.lbl.gov/~stapp/QID.pdf
 4. Stapp, H. P. (1999). "Attention, intention, and will in quantum physics." *Journal of Consciousness Studies* 6(8–9): 143–164.

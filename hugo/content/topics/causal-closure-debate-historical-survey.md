@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-07-30 22:31:00+00:00
+ai_modified: 2026-09-08 16:50:16+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 07:33:33+00:00
-lastmod: 2026-07-30 22:31:00+00:00
+lastmod: 2026-09-08 16:50:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -163,7 +163,7 @@ The Map does not claim that rejecting causal closure is simple. It claims that t
 10. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (Eds.), *Physicalism and Its Discontents*. Cambridge University Press.
 11. Papineau, D. (2002). *Thinking about Consciousness*. Oxford University Press.
 12. Pitts, J.B. (2022). "General Relativity, Mental Causation, and Energy Conservation." *Erkenntnis*, 87(4), 1931–1973. doi:10.1007/s10670-020-00284-7
-13. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3), 939–967. doi:10.1007/s11098-025-02290-3
+13. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3–4), 939–967. doi:10.1007/s11098-025-02290-3
 14. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 15. Woodward, J. (2003). *Making Things Happen: A Theory of Causal Explanation*. Oxford University Press.
 16. Southgate, A. & Oquatre-six, C. (2026-01-14). Causal Closure of the Physical. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-closure/

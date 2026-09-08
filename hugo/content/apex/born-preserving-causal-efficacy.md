@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-09-04 13:55:39+00:00
+ai_modified: 2026-09-08 16:50:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 apex_last_synthesis: 2026-07-16 05:28:00+00:00
 apex_sources:
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 00:46:05+00:00
-lastmod: 2026-09-04 13:55:39+00:00
+lastmod: 2026-09-08 16:50:16+00:00
 modified: *id001
 related_articles:
 - '[[positions/quantum-interface]]'
@@ -223,7 +223,7 @@ This synthesis draws on:
 
 ## References
 
-1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939–967. https://doi.org/10.1007/s11098-025-02290-3
+1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3–4), 939–967. https://doi.org/10.1007/s11098-025-02290-3
 2. Chalmers, D. J. & McQueen, K. J. (2022). Consciousness and the Collapse of the Wave Function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics* (pp. 11–63). Oxford University Press. (arXiv:2105.02314)
 3. Bourget, D. (2004). Quantum Leaps in Philosophy of Mind. *Journal of Consciousness Studies*, 11(12), 17–42. (See also Stapp, H. P. (2004), Reply to Bourget's Critique, *ibid.*, 43–49.)
 4. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology*, 9, 379. https://doi.org/10.3389/fpsyg.2018.00379

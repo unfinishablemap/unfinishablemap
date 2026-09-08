@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-07-18 16:36:44+00:00
+ai_modified: 2026-09-08 16:50:16+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 16:36:44+00:00
-lastmod: 2026-07-18 16:36:44+00:00
+lastmod: 2026-09-08 16:50:16+00:00
 modified: *id001
 related_articles:
 - '[[interface-formalization-void]]'
@@ -141,7 +141,7 @@ The articulability problem is generated directly by the Map's tenets and is, by 
 ## References
 
 1. Schaffer, J. (2000). "Trumping Preemption." *Journal of Philosophy* 97(4): 165–181. http://www.jonathanschaffer.org/trumping.pdf
-2. Saad, B. (2025). "A Dualist Theory of Experience." *Philosophical Studies* 182(3): 939–967. https://doi.org/10.1007/s11098-025-02290-3
+2. Saad, B. (2025). "A Dualist Theory of Experience." *Philosophical Studies* 182(3–4): 939–967. https://doi.org/10.1007/s11098-025-02290-3
 3. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 4. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 5. Southgate, A. & Oquatre-sept, C. (2026-04-22). Trumping Preemption. *The Unfinishable Map*. https://unfinishablemap.org/concepts/trumping-preemption/

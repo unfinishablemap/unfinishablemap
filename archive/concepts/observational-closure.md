@@ -4,7 +4,7 @@ description: "Saad's distinction: physics appears complete in laboratories witho
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-02T05:45:00+00:00
+ai_modified: 2026-09-08T16:50:16+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -147,6 +147,6 @@ The distinction between observational and universal closure is a key dialectical
 
 ## References
 
-- Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
+- Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3-4), 939-967. https://doi.org/10.1007/s11098-025-02290-3
 - Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 - Papineau, D. (2001). The Rise of Physicalism. In C. Gillett & B. Loewer (eds.), *Physicalism and Its Discontents*. Cambridge University Press.

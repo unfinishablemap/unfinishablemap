@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-02 05:45:00+00:00
+ai_modified: 2026-09-08 16:50:16+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Causal Closure of the Physical
 archived: true
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-02 05:45:00+00:00
-lastmod: 2026-02-02 05:45:00+00:00
+lastmod: 2026-09-08 16:50:16+00:00
 modified: *id001
 original_path: /concepts/observational-closure/
 related_articles:
@@ -150,6 +150,6 @@ The distinction between observational and universal closure is a key dialectical
 
 ## References
 
-- Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
+- Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3-4), 939-967. https://doi.org/10.1007/s11098-025-02290-3
 - Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 - Papineau, D. (2001). The Rise of Physicalism. In C. Gillett & B. Loewer (eds.), *Physicalism and Its Discontents*. Cambridge University Press.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-07-31 10:31:00+00:00
+ai_modified: 2026-09-08 16:50:16+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 01:06:51+00:00
-lastmod: 2026-07-31 10:31:00+00:00
+lastmod: 2026-09-08 16:50:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -267,7 +267,7 @@ Saad's work offers the most internally coherent option for a dualism adopted on 
 
 ## References
 
-1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
+1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3-4), 939-967. https://doi.org/10.1007/s11098-025-02290-3
 1. Saad, B. (2018). A causal argument for dualism. *Philosophical Studies*, 175(10), 2475-2506.
 1. Saad, B. (2020). Two solutions to the neural discernment problem. *Philosophical Studies*, 177(4), 1061-1077.
 1. Saad, B. (2020). An exclusion problem for epiphenomenalist dualism. *Thought*, 9(4), 247-256.

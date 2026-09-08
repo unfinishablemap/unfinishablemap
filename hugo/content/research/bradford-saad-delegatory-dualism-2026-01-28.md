@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-01-28 23:30:00+00:00
+ai_modified: 2026-09-08 16:50:16+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,7 +13,7 @@ date: &id001 2026-01-28
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-01-28 23:30:00+00:00
+lastmod: 2026-09-08 16:50:16+00:00
 modified: *id001
 related_articles:
 - '[[interactionist-dualism-2026-01-06]]'
@@ -262,7 +262,7 @@ When writing any article, follow `obsidian/project/writing-style.md` for:
 ## Citations
 
 ### Primary Source
-- Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
+- Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3-4), 939-967. https://doi.org/10.1007/s11098-025-02290-3
 
 ### Related Saad Papers
 - Saad, B. (2018). A causal argument for dualism. *Philosophical Studies*, 175(10), 2475-2506. https://philpapers.org/rec/SAAACA

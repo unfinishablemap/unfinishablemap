@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-16 11:59:00+00:00
+ai_modified: 2026-09-08 16:50:16+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Delegatory Causation
 archived: true
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-06 15:36:00+00:00
-lastmod: 2026-04-16 11:59:00+00:00
+lastmod: 2026-09-08 16:50:16+00:00
 modified: *id001
 original_path: /concepts/preemption/
 related_articles:
@@ -125,5 +125,5 @@ The case for preemption rests entirely on philosophical arguments: that consciou
 1. Lewis, D. (1973). Causation. *Journal of Philosophy*, 70(17), 556-567.
 1. Lewis, D. (2000). Causation as Influence. *Journal of Philosophy*, 97(4), 182-197.
 1. Schaffer, J. (2000). Trumping Preemption. *Journal of Philosophy*, 97(4), 165-181.
-1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
+1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3-4), 939-967.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.

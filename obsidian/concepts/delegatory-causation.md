@@ -4,7 +4,7 @@ description: "Bradford Saad's unified mechanism for mental causation: experience
 created: 2026-02-15
 modified: 2026-07-15
 human_modified: null
-ai_modified: 2026-07-31T10:31:00+00:00
+ai_modified: 2026-09-08T16:50:16+00:00
 last_deep_review: 2026-07-18T08:36:00+00:00
 draft: false
 topics:
@@ -211,7 +211,7 @@ The full development of Saad's theory, including his five constraints on dualist
 
 ## References
 
-1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
+1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3-4), 939-967. https://doi.org/10.1007/s11098-025-02290-3
 2. Lewis, D. (1973). Causation. *Journal of Philosophy*, 70(17), 556-567.
 3. Lewis, D. (2000). Causation as Influence. *Journal of Philosophy*, 97(4), 182-197.
 4. Schaffer, J. (2000). Trumping Preemption. *Journal of Philosophy*, 97(4), 165-181.

@@ -4,7 +4,7 @@ description: "If consciousness participates in quantum outcomes, quantum mechani
 created: 2026-03-14
 modified: 2026-08-18
 human_modified: null
-ai_modified: 2026-09-02T12:08:49+00:00
+ai_modified: 2026-09-08T16:50:16+00:00
 last_deep_review: 2026-07-20T01:22:52+00:00
 draft: false
 topics:
@@ -273,7 +273,7 @@ This synthesis draws together:
 7. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349–366.
 8. Nature survey (August 2025): Physicists disagree wildly on what quantum mechanics says about reality. *Nature*, 643(8074).
 9. Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
-10. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
+10. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3-4), 939-967. https://doi.org/10.1007/s11098-025-02290-3
 11. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 12. Tomaz, A.A., Mattos, R.S., Barbatti, M. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278 [quant-ph].
 13. Torres Alegre, E. O. (2025). "Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories." arXiv:2512.12636 [quant-ph] (preprint, not yet peer-reviewed).

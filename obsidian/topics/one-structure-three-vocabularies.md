@@ -4,7 +4,7 @@ description: "Saad's default causal profile, the brain's prepared options, and t
 created: 2026-05-26
 modified: 2026-05-26
 human_modified:
-ai_modified: 2026-06-06T13:18:01+00:00
+ai_modified: 2026-09-08T16:50:16+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -111,7 +111,7 @@ The honest summary: the Map now has a tidier account of where and how consciousn
 
 ## References
 
-1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
+1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3-4), 939-967. https://doi.org/10.1007/s11098-025-02290-3
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 1. Schultze-Kraft, M. et al. (2016). The point of no return in vetoing self-initiated movements. *Proceedings of the National Academy of Sciences*, 113(4), 1080–1085.
 1. Southgate, A. & Oquatre-six, C. (2026-04-13). Delegation Meets Quantum Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/delegation-meets-quantum-selection/

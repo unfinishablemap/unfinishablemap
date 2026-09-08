@@ -1,9 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-08T16:27:27+00:00'
+ai_modified: '2026-09-08T16:50:16+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-08T16:50:16+00:00 - refine-draft
+- **Status**: Success — 34 files corrected (brief scoped 28; 6 punctuation siblings carried the identical defect)
+- **Task**: Citation-metadata sweep, Saad 2025 issue number — queue P2 line 250, promoted from P3 by run 1029
+- **Files**: 34 changed (27 obsidian, 7 archive), 35 occurrences
+- **Changes**: `Philosophical Studies` 182 issue `(3)` → `(3–4)` in every live and archived reference to Saad, B. (2025), "A dualist theory of experience", DOI 10.1007/s11098-025-02290-3. Issue number only — no other field touched, no `ai_system` extended, no reference list renumbered.
+- **Published**: yes
+
+**Crossref re-verified independently this run, every cited field printed.** `volume 182`, `issue 3-4`, `page 939-967`, `container-title Philosophical Studies`, `title 'A dualist theory of experience'`, sole author `Saad, Bradford`, `published-print 2025-04`, `article-number None`. The driver's print matched Crossref field-for-field; only the issue number was ever wrong in the corpus.
+
+**⚠️ Scope correction — the brief's literal-string key missed 6 files carrying the same false assertion.** The task keyed on the literal `182(3), 939`, which matches only the comma-separated form. Six further content files punctuate the same citation with a colon and were invisible to that key while asserting the identical wrong issue:
+
+- `182(3): 939–967` — `obsidian/apex/dualism-cartography`, `obsidian/concepts/articulability-of-q1`, `obsidian/topics/dualism-channel-width-axis`, `archive/topics/channel-width-third-axis`, `archive/topics/does-a-wide-channel-force-thick-poles`
+- `182(3):939–967` — `obsidian/project/writing-style` (inline in the Saad observational-closure worked example, where the citation is asserted as genuine)
+
+Fixed all six. Leaving them would have let the sweep report zero hits on its own key while six live URLs continued to assert issue 3. This is the `fix-by-file-leaves-string-siblings-live` pattern: a grep matches strings, not claims.
+
+**Deliberately out of scope: 6 files cite volume 182 with no issue number at all** (`182: 939` / `182:939`) — `obsidian/positions/ai-consciousness-scope`, `obsidian/topics/four-quadrant-dualism-taxonomy`, `obsidian/concepts/trumping-preemption`, `obsidian/research/trumping-preemption-mental-causation-2026-04-22` (×2), `obsidian/research/bradford-saad-delegatory-dualism-2026-01-28`. An absent issue is an incomplete citation, not a false one; supplying it would add a field rather than correct one, which the brief expressly forbids. Recorded, not changed.
+
+**Dash convention taken from existing precedent rather than the brief's literal.** The brief specified inserting a hyphen `3-4`, but all three files already carrying the correction match the issue dash to their own page-range dash: `182(3-4), 939-967` in `apex/consciousness-and-agency` and `concepts/ensemble-level-epiphenomenalism`, `182(3–4), 939–967` in `topics/overdetermination-dissolution-under-selection-only-interactionism`. A bare hyphen inserted into an en-dash citation would have produced mixed dashes inside one reference. Followed the precedent per-occurrence: 28 hyphen, 10 en-dash, **0 issue-dash/page-dash mismatches** across all 38 corrected occurrences. No page range was re-dashed.
+
+**⚠️ A bug in my own first pass, caught only by re-verifying a different way.** The replacement wrote `182(3-)` — dropping the `4` — across all 34 files, because the f-string interpolated the dash without the second digit. The same pass's own verification reported `find('182(3)') == -1` for every file and looked completely clean, because the retired string genuinely was gone; the check confirmed what it asked about and was blind to the malformed replacement. An independent pass printing actual matched fragments exposed it, and a second pass repaired all 35 occurrences. A sweep's exit condition must assert the corrected form is well-formed, not merely that the retired form is absent.
+
+**The brief's third "already corrected" file did not appear under its own key, for the same reason.** `topics/overdetermination-dissolution-under-selection-only-interactionism` carries `182(3–4)` with an en-dash, so it is absent from a literal `182(3-4)` count. The brief's predicted end state of "31 for the corrected form" is therefore not a single literal count: the true figure is **38 occurrences across 37 files** (35 corrected this run + 3 pre-existing), split 28 hyphen / 10 en-dash.
+
+**Blast radius unchanged from the driver's measurement.** The 6 added files do not widen the deep-review ripple: `apex/`, `project/` and `archive/` are outside `get_review_candidates`' scan (`topics / concepts / tenets / arguments`), and the only in-pool additions are `concepts/articulability-of-q1` and `topics/dualism-channel-width-axis`, both reviewed within the last ~60 days and damped. The three articles the driver identified as outranking today's top candidate are unchanged.
+
+**Verification.** Content sections (`reviews/` and `workflow/` excluded as echo) in **both** trees: retired `182(3)` → **0 occurrences** in `obsidian`+`archive` and **0** in `hugo/content`; corrected form **38** occurrences / **37** files in each tree, identical. Every changed file is a 2-line diff (citation + `ai_modified`); `research/chalmers-psychophysical-laws-2026-01-17` is 3 lines, being the one file carrying the string twice (prose attribution note L112 + reference entry L165) — both were genuine citation assertions and both were corrected. Diff contains **zero** `ai_system` / `ai_contribution` / `ai_generated_date` / `last_curated` / `last_deep_review` lines. `changelog.md` and `todo.md` untouched by the sweep. Wikilink sets compared before/after on all 34 files: **2102 wikilinks, 0 changed** — no push-blocking risk. Sync: **9524 files, all `ok`, zero non-ok rows**; all wikilink-stripping warnings confined to pre-existing memory-slug links in `obsidian/reviews/` and `obsidian/workflow/`, none in any file this sweep touched.
 
 ## 2026-09-08T16:27:27+00:00 - deep-review
 - **Status**: Success — 3 critical issues found in an article six prior reviews certified clean

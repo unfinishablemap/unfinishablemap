@@ -3,7 +3,7 @@ title: Research Notes - Bradford Saad's Delegatory Dualism
 created: 2026-01-28
 modified: 2026-01-28
 human_modified:
-ai_modified: 2026-01-28T23:30:00+00:00
+ai_modified: 2026-09-08T16:50:16+00:00
 draft: false
 topics: []
 concepts:
@@ -260,7 +260,7 @@ When writing any article, follow `obsidian/project/writing-style.md` for:
 ## Citations
 
 ### Primary Source
-- Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
+- Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3-4), 939-967. https://doi.org/10.1007/s11098-025-02290-3
 
 ### Related Saad Papers
 - Saad, B. (2018). A causal argument for dualism. *Philosophical Studies*, 175(10), 2475-2506. https://philpapers.org/rec/SAAACA

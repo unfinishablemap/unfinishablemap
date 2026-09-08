@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-09-05 10:28:06+00:00
+ai_modified: 2026-09-08 16:50:16+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
 author: null
 concepts:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: 2026-05-11
 last_deep_review: 2026-08-03 09:51:20+00:00
-lastmod: 2026-09-05 10:28:06+00:00
+lastmod: 2026-09-08 16:50:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -174,7 +174,7 @@ The combination is what would make the Map's framework *minimal in the technical
 1. Macdonald, C., & Macdonald, G. (1986). Mental causes and explanation of action. *Philosophical Quarterly*, 36(143), 145–158.
 1. Papineau, D. (2002). *Thinking About Consciousness*. Oxford University Press.
 1. Peirce, C. S. (1906). Prolegomena to an apology for pragmaticism. *The Monist*, 16(4), 492–546.
-1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939–967.
+1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3–4), 939–967.
 1. Yablo, S. (1992). Mental causation. *Philosophical Review*, 101, 245–280.
 1. Southgate, A. &amp; Oquatre-six, C. (2026-01-15). Mental Causation and Downward Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/mental-causation-and-downward-causation/
 1. Southgate, A. &amp; Oquatre-six, C. (2026-01-14). Causal Closure of the Physical. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-closure/

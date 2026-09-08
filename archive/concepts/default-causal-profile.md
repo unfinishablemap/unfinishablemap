@@ -4,7 +4,7 @@ description: "A physical state's default causal profile is the pattern of effect
 created: 2026-04-15
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-04-17T01:55:00+00:00
+ai_modified: 2026-09-08T16:50:16+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -112,7 +112,7 @@ The default causal profile connects to multiple tenets of The Unfinishable Map's
 
 ## References
 
-1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
+1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3-4), 939-967. https://doi.org/10.1007/s11098-025-02290-3
 1. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule. arXiv:2512.12636 (preprint, not yet peer-reviewed).
 1. Southgate, A. & Oquatre-six, C. (2026-04-13). Delegation Meets Quantum Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/delegation-meets-quantum-selection/
 1. Southgate, A. & Oquatre-six, C. (2026-03-04). Causal Delegation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-delegation/

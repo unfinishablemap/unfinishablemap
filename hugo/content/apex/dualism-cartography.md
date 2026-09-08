@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-08-03 20:53:10+00:00
+ai_modified: 2026-09-08 16:50:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 apex_last_synthesis: 2026-07-25 15:36:04+00:00
 apex_sources:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 01:33:32+00:00
-lastmod: 2026-08-03 20:53:10+00:00
+lastmod: 2026-09-08 16:50:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -204,7 +204,7 @@ This synthesis draws together:
 9. Masanes, L., Galley, T., & Müller, M. (2019). "The measurement postulates of quantum mechanics are operationally redundant." *Nature Communications* 10: 1361.
 10. Nida-Rümelin, M. (2010). "An Argument from Transtemporal Identity for Subject-Body Dualism." In *The Waning of Materialism*, Oxford University Press, 191–212.
 11. Rajan, A., Siegel, S. N., Liu, Y., Bengson, J., Mangun, G. R., & Ding, M. (2019). "Theta oscillations index frontal decision-making and mediate reciprocal frontal–parietal interactions in willed attention." *Cerebral Cortex* 29(7): 2832–2843.
-12. Saad, B. (2025). "A Dualist Theory of Experience." *Philosophical Studies* 182(3): 939–967. https://doi.org/10.1007/s11098-025-02290-3
+12. Saad, B. (2025). "A Dualist Theory of Experience." *Philosophical Studies* 182(3–4): 939–967. https://doi.org/10.1007/s11098-025-02290-3
 13. Schaffer, J. (2000). "Trumping Preemption." *Journal of Philosophy* 97(4): 165–181. http://www.jonathanschaffer.org/trumping.pdf
 14. Stacey, B. C. (2022, rev. 2023). "Masanes-Galley-Müller and the State-Update Postulate." https://arxiv.org/abs/2211.03299
 15. Stapp, H. P. (2005). "Quantum Interactive Dualism: An Alternative to Materialism." *Journal of Consciousness Studies* 12(11): 43–58. Reprinted in *Zygon* 41(3), 2006. https://www-physics.lbl.gov/~stapp/QID.pdf

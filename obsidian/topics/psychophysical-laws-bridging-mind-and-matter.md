@@ -4,7 +4,7 @@ description: "If consciousness is distinct, laws must bridge mind and matter. Ch
 created: 2026-01-26
 modified: 2026-02-07
 human_modified:
-ai_modified: 2026-09-02T20:08:52+00:00
+ai_modified: 2026-09-08T16:50:16+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -252,7 +252,7 @@ The framework would face serious difficulty if (see also [[tenet-falsification-c
 1. Chalmers, D.J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies* 2(3), 200-219.
 2. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 3. Chalmers, D.J. & McQueen, K.J. (2022). "Consciousness and the Collapse of the Wave Function." In S. Gao (ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
-4. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies* 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
+4. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies* 182(3-4), 939-967. https://doi.org/10.1007/s11098-025-02290-3
 5. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 6. Eccles, J.C. (1994). *How the Self Controls Its Brain*. Springer.
 7. Georgiev, D.D. (2015). "Monte Carlo simulation of quantum Zeno effect in the brain." *International Journal of Modern Physics B* 29(7), 1550039. arXiv:1412.4741.

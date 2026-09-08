@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-06-04 13:45:00+00:00
+ai_modified: 2026-09-08 16:50:16+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 18:18:37+00:00
-lastmod: 2026-06-04 13:45:00+00:00
+lastmod: 2026-09-08 16:50:16+00:00
 modified: *id001
 related_articles:
 - '[[pain-asymbolia]]'
@@ -102,7 +102,7 @@ The Map's commitment here is honest about its grade. The tenets *motivate* the c
 
 1. Clark, A. (2016). *Surfing Uncertainty: Prediction, Action, and the Embodied Mind*. Oxford University Press.
 1. Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press.
-1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3 (Delegatory dualism; as discussed in [delegatory-causation](/concepts/delegatory-causation/).)
+1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3-4), 939-967. https://doi.org/10.1007/s11098-025-02290-3 (Delegatory dualism; as discussed in [delegatory-causation](/concepts/delegatory-causation/).)
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Pain Asymbolia. *The Unfinishable Map*. https://unfinishablemap.org/concepts/pain-asymbolia/
 1. Southgate, A. & Sonquatre-cinq, C. (2026-02-11). Consciousness and Causal Powers. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-causal-powers/
 1. Southgate, A. & Oquatre-sept, C. (2026-02-15). Delegatory Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/delegatory-causation/
