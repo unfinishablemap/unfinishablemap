@@ -5,6 +5,49 @@ ai_modified: '2026-09-08T01:20:33.145357+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-08T12:31:54+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/open-individualism-and-the-de-combination-problem]]
+- **Word count**: 3709 → 3781 (**+72**). topics soft 3000 / hard 4000 (printed, not quoted); **219 words of headroom**, status `soft_warning` unchanged.
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 4 (+1 house-style)
+- **Enhancements made**: 1 reference added, 1 DOI added, 1 page range corrected
+- **Output**: [[reviews/deep-review-2026-09-08-open-individualism-and-the-de-combination-problem]]
+
+### L117 was fenced and stayed fenced
+Named locus in an open P2 five-locus scoping sweep. Byte-identical pre/post: sha256 `fac05e01f7634083261c1ce242ea853c81aa23470eef84cb99b35b9c00ed574a`, length 965, still line 117, absent from the diff.
+
+### The near-miss worth recording: Chalmers 2017 is right, and the evidence for 2016 is overwhelming and wrong
+Crossref (`10.1093/acprof:oso/9780199359943.003.0008`) gives `issued` **and** `published-print` as 2016-12-29 with no online-first split; the SEP bibliography says 2016; and this article's own ref 7 dates the *same OUP volume* 2016 for Nagasawa & Wager. Three independent signals plus a self-inconsistency — a clean-looking wrong-year find.
+
+It is a trap. The corpus ran a deliberate **2016→2017 reconciliation on 2026-05-31** against Chalmers's own bibliography, and ~30 files carry 2017. Re-verified the basis directly at `consc.net/all-papers/`: *"Oxford University Press, **2017**. … published four years later due to the vagaries of publishing."* Left unchanged. The ref 4 / ref 7 year mismatch for one volume is a real cosmetic blemish, deliberately not fixed and deliberately not tasked — a task would invite a 30-file regression.
+
+### Quote fidelity had never been run here. Five checks, five clean
+Miller 2018 "is equivalent to the combination problem" ✓ (Wiley-deposited abstract) · Shani 2022 "the widespread tendency to view IND as a mirror-image … is mistaken" ✓ (OUP abstract; `IND` is Shani's own) · Chalmers "just as hard as the combination problem" ✓ (consc.net PDF → pdftotext, offset 45751) · SEP "crediting Albahari (2020), calls it *decombination*" + the conceivability mirror ✓ · Mørch 2024's conclusion ✓ (checked against the open-access PDF, not the abstract — the abstract states no conclusion; "the fourth and strongest" and "irrational (as opposed to merely immoral)" both exact).
+
+**Method warning.** The SEP check produced a triple-confirmed **false absence**: in the *main* entry `decombination` appears once, in the bibliography (Miller 2021's title), `conscious universe` and `conscious parts` both return −1, and Albahari is discussed only for the unrelated Inner-Outer Gap Problem. That reads as a certain misattribution. The claim is verbatim in the **supplement** `entries/panpsychism/supplement.html`, which reference 24 names explicitly. Fetch the supplement before flagging this sentence. (`subject-summing.html` 404s.)
+
+### Two critical fixes, both dependents of the 2026-07-30 repair
+1. **L119 asserted what L87 concedes is contested.** L87 was rewritten on 07-30 to say the "cosmopsychism has merely relocated the problem" verdict "is the Map's own and provisional, not a settled finding of the literature—and a central participant rejects it". L119 then said flatly "The de-combination problem **shows** that the cosmopsychist's apparent simplicity conceals a deep difficulty." Classic stranded semantic dependent — the disclaimer landed, its dependent did not. Scoped to "On the Map's reading—the one Shani contests—…".
+2. **A quoted hedge sat outside the quotation marks.** "**judges** it 'just as hard as the combination problem'" — Chalmers wrote "**seems** just as hard". Moved the hedge inside the quote: "which he says 'seems just as hard as the combination problem.'"
+
+### The file's signature defect, found running the other way
+Six 07-30 passes fixed *rivals' costs counted, the Map's treated as free*. The two remaining instances were on the **Map's own** side. L101 said the apex synthesis treats subject-summing and subject-dividing "as one **impossibility**" — but [[apex/mereology-of-mind]] attributes that to *Miller* ("**His diagnosis** is that…"), hedges its own use ("an argued thesis rather than a settled result") and disclaims the very word ("not on **a proof of impossibility**"). This article stated the Map's position more strongly than the Map states it. Fixed to "one difficulty … an argued thesis there too, not a settled result." ("organising hinge" is accurate — the apex's `apex_thesis` and its "## The Hinge" heading both bear it out, and it was kept.)
+
+### Other loci
+- **Orphan verbatim quote sourced.** The Schrödinger line had no work, no year and no References entry — the only named-author quotation in the article lacking one. Verified in the primary text (*What Is Life?* PDF → pdftotext, offset 153406) as the Epilogue, "On Determinism and Free Will". Note casual sources place it in *My View of the World*, which would have been wrong. Reference added.
+- **Unsupported superlative** "the most-quoted open-individualist sentiment from the sciences" → "widely quoted in the view's support". An over-claim running *against* the Map, which is the direction that collects endorsements.
+- **`description` asserted a two-sided verdict the body denies**: "and both **costs** the Map declines" flattened the exact distinction the article exists to draw (a rival rejected vs a cost avoided) and made open individualism a cost nobody pays. → "a rival the Map rejects, a cost it avoids." 193→177 chars; kept "numerically" rather than trimming it for length.
+- **Miller presented as neutral between escapes he ranks.** His abstract: "I find the latter option wanting and propose that the first should be adopted." Added.
+- **Miller 2021 "112 ff." → "112-115"** (SEP + PhilPapers + Imprint TOC). "ff." is not a page range and a real one exists. Zuboff DOI added.
+- **"load-bearing"** intensifier removed per house style.
+
+### Verified correct, left alone
+**Shani 2015 is 389-437**, not the SEP's 389-417 — Crossref/Informa is publisher of record and the article already follows it. Miller 2018 is 2018 (Crossref `issued` 2017-05-02 is Wiley online-first). Albahari's 2019-ebook note is independently corroborated by Mørch's own 2024 reference list ("2019a"). Petersen's Crossref phantom second author is a record artefact; no co-author added. All 20 wikilinks resolve. No editor-vocabulary leakage (8 labels, all −1), no `This is not X` construct, no over-concession tells, `find_superlative_claims` = 0.
+
+### Deferred, deliberately
+Mørch 2024's conclusion notes that "dualism has more resources than both physicalism and Russellian panpsychism to defend an individual self … by positing individual mental substances or **haecceities**". Genuinely on-point and Mørch is already cited, but it is a claim about *resources* not truth, and L109's whole point is that the haecceity posit is "internal coherence rather than independent confirmation" — a friendly citation there would read as the ratification that paragraph disclaims. Recorded in the review for whoever revisits L109 with word budget.
+
 ## 2026-09-08T12:07:40+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-memory]]
