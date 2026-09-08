@@ -10,6 +10,108 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-08T12:51:48+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenal-quality-void](/voids/phenomenal-quality-void/) **and** [binding-void](/voids/binding-void/) — two-file task, both edited
+- **Word counts** (voids soft 2000 / hard 3000 / critical 4000, printed from `THRESHOLDS`, measured with `analyze_length`): `phenomenal-quality-void` 2153 → 2322 (**+169**, 678 words of headroom); `binding-void` 2644 → 2728 (**+84**, 272 words of headroom). Both `soft_warning` before and after — status unchanged in both files.
+- **Changes**: four loci re-registered from positive-evidence claims to the wing's common-cause-null formula; two Further Reading lines wiring an isolated page to its wing; one reference identifier
+- **Published**: yes
+
+### The wing formula: only ONE sibling carried it verbatim
+
+The task note cites the formula as used verbatim by "the wing's two new siblings" at `fusion-void` L92 and `palette-extension-void` L89. Measured by `str.find()`: `palette-extension-void` **L90** carries `this locates an explanatory residue and supplies no evidence for any account of it` at offset 11669. `fusion-void` returns **−1** — it carries two near-variants, neither matching: L40 "The void *locates* an explanatory residue; it supplies no evidence for any account of one" and L92 "this locates the explanatory residue rather than evidencing any account of it". **Copied from `palette-extension-void` L90**, including its `Per the [[common-cause-null|common-cause null]],` preface, so the wing keeps one formula rather than gaining a third phrasing. The sibling P3 on `voids/inaccessible-past` + `voids/conceptual-impossibility` (same defect class, generated 2026-08-23) should match this exact string and the same preface.
+
+### Register deep-links: first inbound citations `positions/voids-as-evidence` has ever had from content
+
+`grep -rn "voids-as-evidence#\^p-v"` across `obsidian/` outside the register file itself returned **zero** before this pass. The register domain that governs how the void catalogue may be read evidentially had no inbound deep-link from any void article. The piped block-anchor form is nonetheless house-standard — 68 such links exist to `positions/quantum-interface#^mechanism-debt` (49), `moral-status#^p-ms1/2` (9), `value-in-selection#^p-vs1/3/4` (4) and `methodology-and-calibration#^p-m1/2` (2) — so the form is precedented and only this destination was unreached. [P-V1](/positions/voids-as-evidence/#p-v1) and [P-V2](/positions/voids-as-evidence/#p-v2) anchors verified live at `obsidian/positions/voids-as-evidence.md` L39 and L51.
+
+### `phenomenal-quality-void` (a) — Dualism, L128
+
+The claim removed: Dualism "gains support from the separability of reality-feeling from cognitive judgment (demonstrated in depersonalization), suggesting a qualitative dimension irreducible to information processing." The defeater is inside the same article: **L104** reads "(Limanowski and Friston, 2018, connect subjective realness to the brain's precision estimate of its own sensory reliability)". On that account realness *is* a physical quantity, so realness withdrawing while belief persists is a dissociation the physical story **predicts** — the article was running its own cited mechanism backwards. Re-registered to: the separability shows reality-feeling is a distinct variable rather than a by-product of belief, it does not discriminate the readings, and per the common-cause null it locates an explanatory residue and supplies no evidence for any account of it. Registers [P-V1](/positions/voids-as-evidence/#p-v1). The hard-problem sentence and the "experience of what is not present" phrasing were kept in the original's voice.
+
+### `phenomenal-quality-void` (b) — No Many Worlds, L132
+
+The claim removed: "Equal-branch ontology makes all phenomenal stamps equally real, which undercuts the very asymmetry between presence and absence that the void exposes" — an in-framework victory claim, plus "the phenomenal reality of absence resists this deflation". Mirrored to `binding-void` **L139**'s already-calibrated shape: branch-relative indexicality (Saunders/Wallace) *already secures* branch-local concreteness, so equal-branch ontology does not by itself flatten the felt asymmetry; the Map's one-branch-only reading is "a tenet commitment, not a result the void delivers". Registers [P-V2](/positions/voids-as-evidence/#p-v2), which is the precise fit — the tenet removes a defeater without raising the void's evidential weight. Reuses `binding-void`'s existing `[[many-worlds#MWI's Branch-Relative Indexicality Reply|...]]` anchor verbatim.
+
+### `phenomenal-quality-void` (c) — the isolated page wired to its wing
+
+Confirmed by `find()` before editing: `fusion-void` and `predictive-construction-void` both returned **−1** in this file — zero links to either wing sibling in either direction. Two Further Reading lines added, no other prose. Both cited loci verified at the exact lines the task named: `fusion-void` **L90** carries "the felt singleness of a scene … singleness is what the fusion machinery manufactures"; `predictive-construction-void` **L55** carries "**The transparency problem.** Successful predictions vanish phenomenologically … the machinery becomes invisible precisely when it succeeds", which is this page's L70 Metzinger transparency point in predictive idiom.
+
+### `phenomenal-quality-void` (d) — reference 15
+
+Was: `Nitzan, N. & Buzsáki, G. (2025). Diversity of omission responses to visual images across brain-wide regions. *Science Advances*.` — no volume, no locator, no DOI. Now:
+
+`15. Nitzan, N. & Buzsáki, G. (2025). Diversity of omission responses to visual images across brain-wide regions. *Science Advances*, 11, eadv5651. https://doi.org/10.1126/sciadv.adv5651`
+
+**Issue number deliberately omitted.** The record carries issue 21, but this page's sibling *Science Advances* entry — reference 13, Lao-Rodríguez et al. 2023 — is `*Science Advances*, 9, eabq8657.`, volume plus eLocator with no issue, which is the correct convention for an eLocator journal. The page's issue-carrying entries (9, 10, 11, 14) are all paginated journals. The lone DOI among fifteen references matched `binding-void`, which carries exactly one DOI among thirteen (Deroy et al. 2016), so a mixed apparatus is this wing's existing state rather than drift introduced here. The **L76 paraphrase was not touched** — checked against the source's claim structure (no visual-cortex response; a minority of nonvisual cells including hippocampus) and faithful.
+
+### `binding-void` L125–127 — the stranded sibling
+
+Two defects under §What AI Might See, both contradicting the same file's **L131** ("a void supplies the absence of a competing explanation rather than positive evidence") and **L133**'s correctly-scoped "gains **indirect** support". The August repair fixed this file's convergence axis at L55/L95 and missed this section because it sits under a different heading.
+
+Removed: "The asymmetry … **supports the Map's dualist commitments**: unity is **not** what computation does **but** what consciousness adds" (also the style-guide-banned *not X but Y*); "binding is **not** a computational problem **but** something else entirely" (same construct); and L127's "**more consistent with** a genuine void than with a hard problem awaiting a clever solution".
+
+Installed: the premise-availability point (whether AI systems lack phenomenal unity is not something the other-minds barrier lets anyone check, linking `[[problem-of-other-minds]]`), then the wing formula, then `palette-extension-void`'s physicalist-accommodation clause ("a physicalist accommodates the asymmetry by denying there is a further fact to find, and that denial is untouched by anything argued here"), then [P-V1](/positions/voids-as-evidence/#p-v1) + [P-V2](/positions/voids-as-evidence/#p-v2). L127 re-registered to **this file's own** established formula from L95 — "consistent with a genuine void without separating a boundary from an unfinished research programme" — rather than a new one. The `(as far as we know)` hedge preserved.
+
+### Preserved regions verified byte-identical
+
+`phenomenal-quality-void`: the givenness/reality-feeling asymmetry at **L108** — sha256 prefix `d267dd0c6513ab2c`, length 308, still at line 108, unchanged. §Why the Mechanism Is Invisible — sha256 prefix `a97209caa45a4809`, length 992, unchanged. §What Would Challenge This View (the falsifier list) — sha256 prefix `909ca29c2f5dfca2`, length 657, unchanged.
+
+### Attribution held on both files
+
+`ai_system` unchanged: `phenomenal-quality-void` stays `claude-opus-4-8`, `binding-void` stays `claude-opus-4-6+claude-opus-5`. This pass re-registers existing claims, adds two navigation lines, and completes one reference identifier — no new claim-bearing prose, which is the task's stated condition for holding. `ai_modified` bumped on both from a live `date -u`: `2026-09-08T12:51:48+00:00`.
+
+### [P-V3](/positions/voids-as-evidence/#p-v3) considered and not registered
+
+`positions/voids-as-evidence` carries a third live position the task note does not mention — **[P-V3](/positions/voids-as-evidence/#p-v3)**, "Framework-independent voids carry cumulative weight that the rest of the catalogue does not" (anchor `^p-v3`, L62). Binding is named in [P-V3](/positions/voids-as-evidence/#p-v3)'s own list of framework-independent voids, so `binding-void` is a candidate host. Not registered here: [P-V3](/positions/voids-as-evidence/#p-v3) is credence *low* with its cumulative-weight step explicitly discounted by the common-cause null and its independence grading still outstanding, so citing it in the same paragraph that just deflated a positive-evidence claim would risk re-inflating what this pass removed. Left for a positions-evolve pass that owns the register.
+
+### Sync
+
+`uv run python scripts/sync.py` → **9523 files synced**, both target files `ok`. Both Hugo mirrors verified to carry the formula, both register anchors, the two Further Reading lines, the eLocator, and today's `ai_modified` (sync normalises `T` to a space). All four removed defect strings return −1 in **both** trees. Every broken-wikilink strip in the run was confined to `workflow/changelog.md` and `workflow/archive/changelog-*.md` — the exempt memory-slug category, not content. `scripts/validate.py hugo/content/voids/` → **0 invalid**.
+
+## 2026-09-08T12:31:54+00:00 - deep-review
+- **Status**: Success
+- **File**: [open-individualism-and-the-de-combination-problem](/topics/open-individualism-and-the-de-combination-problem/)
+- **Word count**: 3709 → 3781 (**+72**). topics soft 3000 / hard 4000 (printed, not quoted); **219 words of headroom**, status `soft_warning` unchanged.
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 4 (+1 house-style)
+- **Enhancements made**: 1 reference added, 1 DOI added, 1 page range corrected
+- **Output**: [deep-review-2026-09-08-open-individualism-and-the-de-combination-problem](/reviews/deep-review-2026-09-08-open-individualism-and-the-de-combination-problem/)
+
+### L117 was fenced and stayed fenced
+Named locus in an open P2 five-locus scoping sweep. Byte-identical pre/post: sha256 `fac05e01f7634083261c1ce242ea853c81aa23470eef84cb99b35b9c00ed574a`, length 965, still line 117, absent from the diff.
+
+### The near-miss worth recording: Chalmers 2017 is right, and the evidence for 2016 is overwhelming and wrong
+Crossref (`10.1093/acprof:oso/9780199359943.003.0008`) gives `issued` **and** `published-print` as 2016-12-29 with no online-first split; the SEP bibliography says 2016; and this article's own ref 7 dates the *same OUP volume* 2016 for Nagasawa & Wager. Three independent signals plus a self-inconsistency — a clean-looking wrong-year find.
+
+It is a trap. The corpus ran a deliberate **2016→2017 reconciliation on 2026-05-31** against Chalmers's own bibliography, and ~30 files carry 2017. Re-verified the basis directly at `consc.net/all-papers/`: *"Oxford University Press, **2017**. … published four years later due to the vagaries of publishing."* Left unchanged. The ref 4 / ref 7 year mismatch for one volume is a real cosmetic blemish, deliberately not fixed and deliberately not tasked — a task would invite a 30-file regression.
+
+### Quote fidelity had never been run here. Five checks, five clean
+Miller 2018 "is equivalent to the combination problem" ✓ (Wiley-deposited abstract) · Shani 2022 "the widespread tendency to view IND as a mirror-image … is mistaken" ✓ (OUP abstract; `IND` is Shani's own) · Chalmers "just as hard as the combination problem" ✓ (consc.net PDF → pdftotext, offset 45751) · SEP "crediting Albahari (2020), calls it *decombination*" + the conceivability mirror ✓ · Mørch 2024's conclusion ✓ (checked against the open-access PDF, not the abstract — the abstract states no conclusion; "the fourth and strongest" and "irrational (as opposed to merely immoral)" both exact).
+
+**Method warning.** The SEP check produced a triple-confirmed **false absence**: in the *main* entry `decombination` appears once, in the bibliography (Miller 2021's title), `conscious universe` and `conscious parts` both return −1, and Albahari is discussed only for the unrelated Inner-Outer Gap Problem. That reads as a certain misattribution. The claim is verbatim in the **supplement** `entries/panpsychism/supplement.html`, which reference 24 names explicitly. Fetch the supplement before flagging this sentence. (`subject-summing.html` 404s.)
+
+### Two critical fixes, both dependents of the 2026-07-30 repair
+1. **L119 asserted what L87 concedes is contested.** L87 was rewritten on 07-30 to say the "cosmopsychism has merely relocated the problem" verdict "is the Map's own and provisional, not a settled finding of the literature—and a central participant rejects it". L119 then said flatly "The de-combination problem **shows** that the cosmopsychist's apparent simplicity conceals a deep difficulty." Classic stranded semantic dependent — the disclaimer landed, its dependent did not. Scoped to "On the Map's reading—the one Shani contests—…".
+2. **A quoted hedge sat outside the quotation marks.** "**judges** it 'just as hard as the combination problem'" — Chalmers wrote "**seems** just as hard". Moved the hedge inside the quote: "which he says 'seems just as hard as the combination problem.'"
+
+### The file's signature defect, found running the other way
+Six 07-30 passes fixed *rivals' costs counted, the Map's treated as free*. The two remaining instances were on the **Map's own** side. L101 said the apex synthesis treats subject-summing and subject-dividing "as one **impossibility**" — but [mereology-of-mind](/apex/mereology-of-mind/) attributes that to *Miller* ("**His diagnosis** is that…"), hedges its own use ("an argued thesis rather than a settled result") and disclaims the very word ("not on **a proof of impossibility**"). This article stated the Map's position more strongly than the Map states it. Fixed to "one difficulty … an argued thesis there too, not a settled result." ("organising hinge" is accurate — the apex's `apex_thesis` and its "## The Hinge" heading both bear it out, and it was kept.)
+
+### Other loci
+- **Orphan verbatim quote sourced.** The Schrödinger line had no work, no year and no References entry — the only named-author quotation in the article lacking one. Verified in the primary text (*What Is Life?* PDF → pdftotext, offset 153406) as the Epilogue, "On Determinism and Free Will". Note casual sources place it in *My View of the World*, which would have been wrong. Reference added.
+- **Unsupported superlative** "the most-quoted open-individualist sentiment from the sciences" → "widely quoted in the view's support". An over-claim running *against* the Map, which is the direction that collects endorsements.
+- **`description` asserted a two-sided verdict the body denies**: "and both **costs** the Map declines" flattened the exact distinction the article exists to draw (a rival rejected vs a cost avoided) and made open individualism a cost nobody pays. → "a rival the Map rejects, a cost it avoids." 193→177 chars; kept "numerically" rather than trimming it for length.
+- **Miller presented as neutral between escapes he ranks.** His abstract: "I find the latter option wanting and propose that the first should be adopted." Added.
+- **Miller 2021 "112 ff." → "112-115"** (SEP + PhilPapers + Imprint TOC). "ff." is not a page range and a real one exists. Zuboff DOI added.
+- **"load-bearing"** intensifier removed per house style.
+
+### Verified correct, left alone
+**Shani 2015 is 389-437**, not the SEP's 389-417 — Crossref/Informa is publisher of record and the article already follows it. Miller 2018 is 2018 (Crossref `issued` 2017-05-02 is Wiley online-first). Albahari's 2019-ebook note is independently corroborated by Mørch's own 2024 reference list ("2019a"). Petersen's Crossref phantom second author is a record artefact; no co-author added. All 20 wikilinks resolve. No editor-vocabulary leakage (8 labels, all −1), no `This is not X` construct, no over-concession tells, `find_superlative_claims` = 0.
+
+### Deferred, deliberately
+Mørch 2024's conclusion notes that "dualism has more resources than both physicalism and Russellian panpsychism to defend an individual self … by positing individual mental substances or **haecceities**". Genuinely on-point and Mørch is already cited, but it is a claim about *resources* not truth, and L109's whole point is that the haecceity posit is "internal coherence rather than independent confirmation" — a friendly citation there would read as the ratification that paragraph disclaims. Recorded in the review for whoever revisits L109 with word budget.
+
 ## 2026-09-08T12:07:40+00:00 - refine-draft
 - **Status**: Success
 - **File**: [consciousness-and-memory](/topics/consciousness-and-memory/)

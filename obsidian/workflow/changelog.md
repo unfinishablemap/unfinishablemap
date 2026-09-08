@@ -5,6 +5,65 @@ ai_modified: '2026-09-08T01:20:33.145357+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-08T12:51:48+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/phenomenal-quality-void]] **and** [[voids/binding-void]] — two-file task, both edited
+- **Word counts** (voids soft 2000 / hard 3000 / critical 4000, printed from `THRESHOLDS`, measured with `analyze_length`): `phenomenal-quality-void` 2153 → 2322 (**+169**, 678 words of headroom); `binding-void` 2644 → 2728 (**+84**, 272 words of headroom). Both `soft_warning` before and after — status unchanged in both files.
+- **Changes**: four loci re-registered from positive-evidence claims to the wing's common-cause-null formula; two Further Reading lines wiring an isolated page to its wing; one reference identifier
+- **Published**: yes
+
+### The wing formula: only ONE sibling carried it verbatim
+
+The task note cites the formula as used verbatim by "the wing's two new siblings" at `fusion-void` L92 and `palette-extension-void` L89. Measured by `str.find()`: `palette-extension-void` **L90** carries `this locates an explanatory residue and supplies no evidence for any account of it` at offset 11669. `fusion-void` returns **−1** — it carries two near-variants, neither matching: L40 "The void *locates* an explanatory residue; it supplies no evidence for any account of one" and L92 "this locates the explanatory residue rather than evidencing any account of it". **Copied from `palette-extension-void` L90**, including its `Per the [[common-cause-null|common-cause null]],` preface, so the wing keeps one formula rather than gaining a third phrasing. The sibling P3 on `voids/inaccessible-past` + `voids/conceptual-impossibility` (same defect class, generated 2026-08-23) should match this exact string and the same preface.
+
+### Register deep-links: first inbound citations `positions/voids-as-evidence` has ever had from content
+
+`grep -rn "voids-as-evidence#\^p-v"` across `obsidian/` outside the register file itself returned **zero** before this pass. The register domain that governs how the void catalogue may be read evidentially had no inbound deep-link from any void article. The piped block-anchor form is nonetheless house-standard — 68 such links exist to `positions/quantum-interface#^mechanism-debt` (49), `moral-status#^p-ms1/2` (9), `value-in-selection#^p-vs1/3/4` (4) and `methodology-and-calibration#^p-m1/2` (2) — so the form is precedented and only this destination was unreached. P-V1 and P-V2 anchors verified live at `obsidian/positions/voids-as-evidence.md` L39 and L51.
+
+### `phenomenal-quality-void` (a) — Dualism, L128
+
+The claim removed: Dualism "gains support from the separability of reality-feeling from cognitive judgment (demonstrated in depersonalization), suggesting a qualitative dimension irreducible to information processing." The defeater is inside the same article: **L104** reads "(Limanowski and Friston, 2018, connect subjective realness to the brain's precision estimate of its own sensory reliability)". On that account realness *is* a physical quantity, so realness withdrawing while belief persists is a dissociation the physical story **predicts** — the article was running its own cited mechanism backwards. Re-registered to: the separability shows reality-feeling is a distinct variable rather than a by-product of belief, it does not discriminate the readings, and per the common-cause null it locates an explanatory residue and supplies no evidence for any account of it. Registers P-V1. The hard-problem sentence and the "experience of what is not present" phrasing were kept in the original's voice.
+
+### `phenomenal-quality-void` (b) — No Many Worlds, L132
+
+The claim removed: "Equal-branch ontology makes all phenomenal stamps equally real, which undercuts the very asymmetry between presence and absence that the void exposes" — an in-framework victory claim, plus "the phenomenal reality of absence resists this deflation". Mirrored to `binding-void` **L139**'s already-calibrated shape: branch-relative indexicality (Saunders/Wallace) *already secures* branch-local concreteness, so equal-branch ontology does not by itself flatten the felt asymmetry; the Map's one-branch-only reading is "a tenet commitment, not a result the void delivers". Registers P-V2, which is the precise fit — the tenet removes a defeater without raising the void's evidential weight. Reuses `binding-void`'s existing `[[many-worlds#MWI's Branch-Relative Indexicality Reply|...]]` anchor verbatim.
+
+### `phenomenal-quality-void` (c) — the isolated page wired to its wing
+
+Confirmed by `find()` before editing: `fusion-void` and `predictive-construction-void` both returned **−1** in this file — zero links to either wing sibling in either direction. Two Further Reading lines added, no other prose. Both cited loci verified at the exact lines the task named: `fusion-void` **L90** carries "the felt singleness of a scene … singleness is what the fusion machinery manufactures"; `predictive-construction-void` **L55** carries "**The transparency problem.** Successful predictions vanish phenomenologically … the machinery becomes invisible precisely when it succeeds", which is this page's L70 Metzinger transparency point in predictive idiom.
+
+### `phenomenal-quality-void` (d) — reference 15
+
+Was: `Nitzan, N. & Buzsáki, G. (2025). Diversity of omission responses to visual images across brain-wide regions. *Science Advances*.` — no volume, no locator, no DOI. Now:
+
+`15. Nitzan, N. & Buzsáki, G. (2025). Diversity of omission responses to visual images across brain-wide regions. *Science Advances*, 11, eadv5651. https://doi.org/10.1126/sciadv.adv5651`
+
+**Issue number deliberately omitted.** The record carries issue 21, but this page's sibling *Science Advances* entry — reference 13, Lao-Rodríguez et al. 2023 — is `*Science Advances*, 9, eabq8657.`, volume plus eLocator with no issue, which is the correct convention for an eLocator journal. The page's issue-carrying entries (9, 10, 11, 14) are all paginated journals. The lone DOI among fifteen references matched `binding-void`, which carries exactly one DOI among thirteen (Deroy et al. 2016), so a mixed apparatus is this wing's existing state rather than drift introduced here. The **L76 paraphrase was not touched** — checked against the source's claim structure (no visual-cortex response; a minority of nonvisual cells including hippocampus) and faithful.
+
+### `binding-void` L125–127 — the stranded sibling
+
+Two defects under §What AI Might See, both contradicting the same file's **L131** ("a void supplies the absence of a competing explanation rather than positive evidence") and **L133**'s correctly-scoped "gains **indirect** support". The August repair fixed this file's convergence axis at L55/L95 and missed this section because it sits under a different heading.
+
+Removed: "The asymmetry … **supports the Map's dualist commitments**: unity is **not** what computation does **but** what consciousness adds" (also the style-guide-banned *not X but Y*); "binding is **not** a computational problem **but** something else entirely" (same construct); and L127's "**more consistent with** a genuine void than with a hard problem awaiting a clever solution".
+
+Installed: the premise-availability point (whether AI systems lack phenomenal unity is not something the other-minds barrier lets anyone check, linking `[[problem-of-other-minds]]`), then the wing formula, then `palette-extension-void`'s physicalist-accommodation clause ("a physicalist accommodates the asymmetry by denying there is a further fact to find, and that denial is untouched by anything argued here"), then P-V1 + P-V2. L127 re-registered to **this file's own** established formula from L95 — "consistent with a genuine void without separating a boundary from an unfinished research programme" — rather than a new one. The `(as far as we know)` hedge preserved.
+
+### Preserved regions verified byte-identical
+
+`phenomenal-quality-void`: the givenness/reality-feeling asymmetry at **L108** — sha256 prefix `d267dd0c6513ab2c`, length 308, still at line 108, unchanged. §Why the Mechanism Is Invisible — sha256 prefix `a97209caa45a4809`, length 992, unchanged. §What Would Challenge This View (the falsifier list) — sha256 prefix `909ca29c2f5dfca2`, length 657, unchanged.
+
+### Attribution held on both files
+
+`ai_system` unchanged: `phenomenal-quality-void` stays `claude-opus-4-8`, `binding-void` stays `claude-opus-4-6+claude-opus-5`. This pass re-registers existing claims, adds two navigation lines, and completes one reference identifier — no new claim-bearing prose, which is the task's stated condition for holding. `ai_modified` bumped on both from a live `date -u`: `2026-09-08T12:51:48+00:00`.
+
+### P-V3 considered and not registered
+
+`positions/voids-as-evidence` carries a third live position the task note does not mention — **P-V3**, "Framework-independent voids carry cumulative weight that the rest of the catalogue does not" (anchor `^p-v3`, L62). Binding is named in P-V3's own list of framework-independent voids, so `binding-void` is a candidate host. Not registered here: P-V3 is credence *low* with its cumulative-weight step explicitly discounted by the common-cause null and its independence grading still outstanding, so citing it in the same paragraph that just deflated a positive-evidence claim would risk re-inflating what this pass removed. Left for a positions-evolve pass that owns the register.
+
+### Sync
+
+`uv run python scripts/sync.py` → **9523 files synced**, both target files `ok`. Both Hugo mirrors verified to carry the formula, both register anchors, the two Further Reading lines, the eLocator, and today's `ai_modified` (sync normalises `T` to a space). All four removed defect strings return −1 in **both** trees. Every broken-wikilink strip in the run was confined to `workflow/changelog.md` and `workflow/archive/changelog-*.md` — the exempt memory-slug category, not content. `scripts/validate.py hugo/content/voids/` → **0 invalid**.
+
 ## 2026-09-08T12:31:54+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/open-individualism-and-the-de-combination-problem]]

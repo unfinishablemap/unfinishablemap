@@ -2122,6 +2122,20 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: optimistic-review 2026-09-08 (sleep/anaesthesia wing post-remediation)
 - **Generated**: 2026-09-08
 
+### P3: one anthology, two publication years — the 2026-05-31 Chalmers reconciliation keyed on the chapter TITLE, so 6 citations of *other* chapters in the same volume still say 2016
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/cosmopsychism.md
+- **Source**: deep-review 2026-09-08 of `topics/open-individualism-and-the-de-combination-problem` (driver-verified extension of a finding that review deliberately left untasked as single-file)
+- **Notes**: **The direction is SETTLED — bring the 2016 stragglers to 2017. Do NOT flatten 2017 to 2016; that would regress commit `cd7cf658f0` across 16 loci.** Basis: commit `cd7cf658f0` "Reconcile Chalmers 'Combination Problem for Panpsychism' year 2016→2017 corpus-wide" (2026-05-31), grounded in Chalmers's own bibliography at `consc.net/all-papers/` — "Oxford University Press, **2017** … published four years later due to the vagaries of publishing". Brüntrup & Jaskolla (eds.), *Panpsychism: Contemporary Perspectives*, OUP, is **one volume with one publication year**.
+  **Measured 2026-09-08 across live content (`reviews/` and `workflow/` excluded as echo): 24 citations of the volume — 16 dated 2017, 6 dated 2016, 2 with the year outside the matched line.** Every 2017 hit cites the *Chalmers* chapter; every 2016 hit cites a *different* chapter, which is exactly why the title-keyed sweep missed them. This is fix-by-file-leaves-string-siblings-live with the key being a chapter title rather than a filename.
+  **The six loci, all "2016" → "2017":** `concepts/cosmopsychism.md:101` and `topics/consciousness-and-the-metaphysics-of-composition.md:165` and `topics/open-individualism-and-the-de-combination-problem.md:142` (Nagasawa & Wager, "Panpsychism and Priority Cosmopsychism", pp. 113-129) · `topics/panpsychisms-combination-problem.md:174` ("Panpsychist Infusion") · `research/cosmopsychism-2026-07-13.md:221` and `research/open-individualism-and-the-de-combination-problem-2026-06-19.md:122` (same Nagasawa & Wager chapter).
+  ⚠️ **`topics/open-individualism-and-the-de-combination-problem.md` is the sharpest case**: its ref 4 dates the volume 2017 (Chalmers) and its ref 7 dates it 2016 (Nagasawa & Wager) — **the same volume, two years, eight lines apart**. Fix that file first; it is self-evidently wrong on its own page.
+  ⚠️ **Research notes are dated records.** `research/*` are historical artefacts, not live articles; correcting a citation year in them is defensible but is the executor's judgement call — say which way you went and why. The four live-article loci are unambiguous.
+  **Length is a non-issue** — a four-character year swap is word-neutral in every host. Check `analyze_length` anyway if you touch surrounding prose. Sync both trees; `ai_modified` bump on any live article touched.
+  **Verify after**: every live-content citation of *Panpsychism: Contemporary Perspectives* reads 2017, and `grep -c` on the two unmatched loci (`research/cosmopsychism-2026-07-13.md:75`, `research/voids-palette-void-2026-03-06.md:173`) to confirm their year — it sits outside the citation line and was not measured.
+
+
 ## Completed Tasks
 
 

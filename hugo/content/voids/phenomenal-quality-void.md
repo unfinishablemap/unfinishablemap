@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-05
-ai_modified: 2026-09-04 16:42:00+00:00
+ai_modified: 2026-09-08 12:51:48+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 10:37:04+00:00
-lastmod: 2026-09-04 16:42:00+00:00
+lastmod: 2026-09-08 12:51:48+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -130,11 +130,11 @@ The Unfinishable Map's [tenets](/tenets/) illuminate the phenomenal quality void
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** receives the most direct challenge. Nothing seems simpler than phenomenal quality — experience is just *there*. Applied to this apparent simplicity, Occam's Razor terminates inquiry. But the simplest account of perception — consciousness mirrors what is there — cannot explain absence perception. The impulse to explain absence-experience as "just prediction error" avoids the deeper puzzle: why does inference about absence *feel like anything at all*?
 
-**[Dualism](/tenets/#dualism)** gains support from the separability of reality-feeling from cognitive judgment (demonstrated in depersonalization), suggesting a qualitative dimension irreducible to information processing. A physical system can detect what is missing, but the felt quality of absence may require something beyond physical computation. The [hard problem](/topics/hard-problem-of-consciousness/) applies equally to the experience of what is not present.
+**[Dualism](/tenets/#dualism)** takes a bearing that needs stating carefully. The separability of reality-feeling from cognitive judgment, demonstrated in depersonalization, shows that reality-feeling is a distinct variable rather than a by-product of belief — but it does not discriminate the readings. On the precision-estimate account cited above (Limanowski and Friston, 2018), realness *is* the brain's estimate of its own sensory reliability, so realness withdrawing while belief persists is a dissociation that account predicts. Per the [common-cause null](/project/common-cause-null/), this locates an explanatory residue and supplies no evidence for any account of it; the [hard problem](/topics/hard-problem-of-consciousness/) applies to the experience of what is not present exactly as it does to presence, and per [P-V1](/positions/voids-as-evidence/#p-v1) the fit with the Map's commitments counts as framework-internal coherence rather than confirmation.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** connects through Ratcliffe's analysis. If consciousness constitutes the sense of reality rather than passively receiving it, it actively creates the phenomenal world. Consciousness shapes which absences are detected through expectation-setting, and these absence-experiences in turn shape behaviour.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** finds unexpected relevance. Phenomenal quality stamps *this* experience as real with singular conviction. Under many-worlds, Pierre is absent from this café but present in another branch — yet the phenomenal reality of absence resists this deflation. The experience carries a quality of genuine non-existence, not mere local non-observation. Equal-branch ontology makes all phenomenal stamps equally real, which undercuts the very asymmetry between presence and absence that the void exposes.
+**[No Many Worlds](/tenets/#no-many-worlds)** connects through the singularity of the stamp. Phenomenal quality presents *this* experience as real with singular conviction, and under many-worlds Pierre is absent from this café while present in another branch; the experience carries a quality of genuine non-existence rather than mere local non-observation. [Branch-relative indexicality (Saunders/Wallace)](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply) already secures branch-local concreteness here, since each branch's observer truly experiences this absence *as* absence, so equal-branch ontology does not by itself flatten the felt asymmetry. The Map's stronger commitment is that the absence is one-branch-only rather than locally-articulated across a branching structure — a tenet commitment, not a result the void delivers. Per [P-V2](/positions/voids-as-evidence/#p-v2), adopting the tenet removes a defeater without raising the void's evidential weight.
 
 ## The Self-Concealing Structure
 
@@ -158,6 +158,8 @@ The phenomenal quality void thesis would require revision if: (1) techniques eme
 - [constitutive-exclusion](/topics/constitutive-exclusion/) — Why consciousness cannot access reality independent of its own contribution
 - [conceptual-metabolism-void](/voids/conceptual-metabolism-void/) — How understanding changes the knower's access conditions, paralleling phenomenal quality's transformation of raw experience
 - [plenitude-void](/voids/plenitude-void/) — Whether experience overflows cognitive access, sharing the self-concealing architecture from the richness-vs.-report direction
+- [fusion-void](/voids/fusion-void/) — The charted combination machinery that manufactures the felt singleness of a scene: the realness stamp arriving at the point where several channels' estimates are merged
+- [predictive-construction-void](/voids/predictive-construction-void/) — The same concealment in predictive idiom: successful predictions vanish from awareness, so the machinery becomes invisible precisely when it works
 
 ## References
 
@@ -175,4 +177,4 @@ The phenomenal quality void thesis would require revision if: (1) techniques eme
 12. Limanowski, J. & Friston, K. (2018). "'Seeing the Dark': Grounding Phenomenal Transparency and Opacity in Precision Estimation for Active Inference." *Frontiers in Psychology*, 9, 643.
 13. Lao-Rodríguez, A. B., Przewrocki, K., Perez-Gonzalez, D., Alishbayli, A., Yilmaz, E., Malmierca, M. S., & Englitz, B. (2023). Neuronal responses to omitted tones in the auditory brain. *Science Advances*, 9, eabq8657.
 14. Billon, A. (2024). "The Psychopathology of Metaphysics: Depersonalization and the Problem of Reality." *Metaphilosophy*, 55(1), 3-30.
-15. Nitzan, N. & Buzsáki, G. (2025). Diversity of omission responses to visual images across brain-wide regions. *Science Advances*.
+15. Nitzan, N. & Buzsáki, G. (2025). Diversity of omission responses to visual images across brain-wide regions. *Science Advances*, 11, eadv5651. https://doi.org/10.1126/sciadv.adv5651
