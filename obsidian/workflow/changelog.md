@@ -5,6 +5,56 @@ ai_modified: '2026-09-08T01:20:33.145357+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-08T12:07:40+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-memory]]
+- **Source**: queue P2 line 1934, from `reviews/optimistic-2026-09-02-semanticisation-wing.md` §Calibration Concerns 2
+- **Original score**: not measured — `scripts/curate.py` does not exist in the repo, so the skill's Step 3 review command is stale (recurring). Word counts re-measured with `tools.curate.length.analyze_length` instead.
+- **Word count**: 3993 -> 3991 (**−2, net-negative**). topics soft 3000 / hard 4000 (printed, not quoted); **9 words of headroom**, status `soft_warning` unchanged.
+- **Published**: yes
+
+### Task brief carried three stale figures — all re-measured before editing
+1. **Headroom was 7 words, not 35.** The task quoted "3965w, 35w under hard"; the file had grown 28 words since. At 3993/4000 the edit had to be net-negative, not merely neutral — which it is (−2).
+2. **Four loci, not three, and the line map was off by one.** `strongest evidence` occurred **twice** — L60 (lead) and L180 — not at L182, which carried `is supported by` instead. Verified by `str.find()` offsets (2836, 25731), not by truncated grep: L60 is 1051 chars, L182 733, L90 822, so the target phrases sit well past terminal width.
+3. **"framework fit" is not a phrase in `positions/methodology-and-calibration`** (`find()` -> −1). The concept is P-M2. Cited the register by its real anchors instead.
+
+### The lever used: the article already contradicted itself
+L90 states the honest register verbatim — "The dualist answer, **offered as interpretation rather than result**". §Relation at L180–184 outran it. The fix was pointed at that internal inconsistency rather than at an externally-imposed calibration rule.
+
+### Alignment target
+Both spokes state a **graded, per-tenet** formula (`concepts/episodic-memory` L170, `concepts/semantic-memory` L173): argues for Bidirectional Interaction and the limits of parsimony, offers a candidate occasion for MQI, *sharpens the explanandum behind Dualism without evidencing it*, merely compatible with No Many Worlds. The hub now says the same thing about the same evidence its own spokes describe. The three remaining tenet paragraphs (MQI "is consistent with", No Many Worlds "is implicitly at stake", Occam's "when applied to") were already correctly hedged and were left alone — so the section is now graded across all five, not blanket-hedged.
+
+### Changes — six edits across four loci
+| locus | before -> after | Δ |
+|---|---|---|
+| L60 lead | "**The strongest evidence** comes from … producing a dissociation that **dualism predicts and materialism struggles to explain**" -> "**The central case** comes from … a dissociation **materialist accounts must explain**" | 31→26 = **−5** |
+| L180 | "Memory provides some of the Map's **strongest evidence** for its foundational commitments." -> "Memory bears **unevenly** on the commitments, and the cases below **share one reading rather than confirming it independently**." | 12→18 = **+6** |
+| L182 open | "**Dualism** **is supported by**" -> "**Dualism**'s explanandum is **sharpened rather than evidenced** by" | 4→8 = **+4** |
+| L182 tail | "a dissociation **dualism explains naturally** as different modes of interface engagement." -> "a dissociation **the interface reading accommodates rather than predicts**." | 11→9 = **−2** |
+| L184 open | "**Bidirectional interaction** **is demonstrated by** …" -> "**Bidirectional interaction** is what … **argue for**" (+ "Consciousness participates selectively" trim) | 38→36 = **−2** |
+| L184 tail | "**Reconsolidation provides especially direct evidence**: when conscious retrieval…" -> "**In reconsolidation**, when conscious retrieval…" | 22→19 = **−3** |
+
+Two-sided over-claim removed at L60: the old clause asserted both a dualist *prediction* and a materialist *failure*. Dualism accommodates the encoding-consolidation dissociation after the fact; it does not uniquely predict it. What survives is the burden statement, which L90 already supports ("The split is puzzling on materialist accounts") and which the GWT paragraph then shows is relocated rather than resolved.
+
+### Positions cited at zero word cost
+Both deep links wrap text already on the page, so they cost **0 words** (verified: `count_words` returns 18 for the L180 sentence with and without the link):
+- `[[positions/methodology-and-calibration#^p-m1|sharpened rather than evidenced]]` — *"A tenet removes a defeater but never upgrades the evidence level."* Attached at the precise locus where the tenet/evidence register separation lands.
+- `[[positions/methodology-and-calibration#^p-m2|share one reading rather than confirming it independently]]` — *"Convergence is discounted to framework-internal coherence until a distinguishing test passes."* Attached where the section previously claimed the cases were multiple independent supports.
+
+House style confirmed before use: `[[positions/<slug>#^<anchor>|descriptive text]]` has 30+ corpus precedents (e.g. `positions/value-in-selection#^p-vs4|pluralism about value`). Both resolved in Hugo to `/positions/methodology-and-calibration/#p-m1` and `#p-m2` — neither was stripped.
+
+### Engagement classification (editor-internal, not in the article)
+Engagement with the materialist at L60/L182: **Mode Three — framework-boundary marking**, downgraded from a substituted refutation. The old lead dressed a boundary disagreement as a dualist prediction plus a materialist failure; the replacement assigns an explanatory burden and marks the interface reading as an *accommodation*, which is what the evidence licenses. The GWT engagement at L90 (Mode One, unchanged) already does the in-framework work honestly.
+
+### Preserved loci — all four byte-identical (sha256 before/after)
+L140 Barry et al. 2018 paragraph (ref L250) · L106 Hu/Cellini TMR sentence (refs L238–239) · L94 Baddeley "assumes" · L84 bits-per-second gloss. None was reworded, trimmed, or used to fund the edit.
+
+### Unaddressed string sibling — reported, deliberately not fixed
+L172 still reads "The opportunity: this is exactly what **dualism predicts**." Left in place: it is outside the task's four enumerated loci, and it is a **materially different and more defensible claim** — qualia non-persistence *is* an entailment of property dualism's non-identity thesis, unlike the consolidation dissociation, which dualism only accommodates. Flagged rather than silently widened or silently hidden. No task minted (task said not to).
+
+### Verification
+`strongest evidence` -> **0 hits in this file in both trees** (`obsidian/` and `hugo/content/`); `is supported by`, `is demonstrated by`, `struggles to explain`, `dualism explains naturally`, `Reconsolidation provides especially direct evidence` all -> `find()` = −1 in both. Sync: **9522 files**, `topics/consciousness-and-memory.md` -> ok, no broken-wikilink strip for this file. `validate.py` -> ✓ Valid. `ai_system` left as `claude-opus-4-6+claude-opus-5+claude-fable-5` — it already contained `claude-opus-5`, so no duplicate appended.
+
 ## 2026-09-08T11:38:04+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/filter-vs-interface-distinction]]

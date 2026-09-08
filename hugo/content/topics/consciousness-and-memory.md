@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-09-02 18:53:45+00:00
+ai_modified: 2026-09-08 12:07:40+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-06 21:46:03+00:00
-lastmod: 2026-09-02 18:53:45+00:00
+lastmod: 2026-09-08 12:07:40+00:00
 modified: *id001
 related_articles:
 - '[[inaccessible-past]]'
@@ -61,7 +61,7 @@ topics:
 - '[[personal-identity]]'
 ---
 
-The Unfinishable Map treats memory not as a filing system but as consciousness operating across time. Endel [Tulving's hierarchy](/concepts/anoetic-noetic-autonoetic-consciousness/) maps three forms of consciousness—anoetic (unreflective), noetic (knowing), and autonoetic (self-knowing)—onto three memory systems: [procedural](/concepts/implicit-memory/), [semantic](/concepts/semantic-memory/), and [episodic](/concepts/episodic-memory/). The Map extends this framework to include [working memory](/concepts/working-memory/) and [prospective memory](/concepts/prospective-memory/), which engage consciousness in structurally distinct ways. The resulting picture reveals that memory cannot be understood without consciousness, that consciousness cannot be understood without memory, and that neither can be reduced to information processing alone. The strongest evidence comes from memory consolidation during sleep, where the brain performs computationally sophisticated binding and integration—yet consciousness disengages, producing a dissociation that dualism predicts and materialism struggles to explain.
+The Unfinishable Map treats memory not as a filing system but as consciousness operating across time. Endel [Tulving's hierarchy](/concepts/anoetic-noetic-autonoetic-consciousness/) maps three forms of consciousness—anoetic (unreflective), noetic (knowing), and autonoetic (self-knowing)—onto three memory systems: [procedural](/concepts/implicit-memory/), [semantic](/concepts/semantic-memory/), and [episodic](/concepts/episodic-memory/). The Map extends this framework to include [working memory](/concepts/working-memory/) and [prospective memory](/concepts/prospective-memory/), which engage consciousness in structurally distinct ways. The resulting picture reveals that memory cannot be understood without consciousness, that consciousness cannot be understood without memory, and that neither can be reduced to information processing alone. The central case comes from memory consolidation during sleep, where the brain performs computationally sophisticated binding and integration—yet consciousness disengages, a dissociation materialist accounts must explain.
 
 ## The Tulving Hierarchy as Consciousness Map
 
@@ -173,7 +173,7 @@ The [memory void](/voids/inaccessible-past/) asks whether past experiences are g
 
 For dualism, this creates both a challenge and an opportunity. The challenge: if qualia cannot persist as stored traces, what is the relationship between present experience and its physical encoding? This is the temporal dimension of the [dual-domain](/concepts/episodic-memory/) pattern: propositional content—the *that* of what happened—persists in neural traces across time, while phenomenal content—*what it was like*—does not seem to persist as such and must be reconstituted at each act of recall.
 
-The opportunity: this is exactly what dualism predicts. If qualia are not identical to physical states, there is no reason to expect them to persist when the physical substrate changes. The information is preserved; the experience is not. Materialists must explain why conscious experience—supposedly physical—fails to persist as other physical states do. Dualists have a ready answer: phenomenal properties are not the kind of thing that gets stored in synapses.
+The opportunity: dualism removes any expectation of persistence. If qualia are not identical to physical states, there is no reason to expect them to persist when the physical substrate changes. The information is preserved; the experience is not. Materialists must explain why conscious experience—supposedly physical—fails to persist as other physical states do. Dualists have a ready answer: phenomenal properties are not the kind of thing that gets stored in synapses.
 
 The [memory anomalies cluster](/topics/memory-anomalies/)—déjà vu, jamais vu, and cryptomnesia—shows a related dissociation along a different axis: not the persistence of past phenomenology but the independence of present phenomenal output from its causal source. Each anomaly produces felt pastness, alienness, or ownership without the corresponding source machinery firing as it normally would, exhibiting at the level of present experience what the consolidation trajectory exhibits across time.
 
@@ -181,11 +181,11 @@ Proustian moments test this boundary. Do they genuinely access past qualia, or d
 
 ## Relation to Site Perspective
 
-Memory provides some of the Map's strongest evidence for its foundational commitments.
+Memory bears unevenly on the commitments, and the cases below [share one reading rather than confirming it independently](/positions/methodology-and-calibration/#p-m2).
 
-**[Dualism](/tenets/#dualism)** is supported by the encoding-consolidation dissociation, the irreducible phenomenology that distinguishes each memory system, and the phenomenological trajectory of consolidation. Both encoding and consolidation involve binding operations—yet consciousness is present during encoding and absent during consolidation. Neuromodulatory differences between the states relocate rather than resolve the question: why should acetylcholine levels determine the presence or absence of experience? The systematic transformation from vivid reliving to bare knowing tracks hippocampal engagement rather than information content—a dissociation dualism explains naturally as different modes of interface engagement.
+**[Dualism](/tenets/#dualism)**'s explanandum is [sharpened rather than evidenced](/positions/methodology-and-calibration/#p-m1) by the encoding-consolidation dissociation, the irreducible phenomenology that distinguishes each memory system, and the phenomenological trajectory of consolidation. Both encoding and consolidation involve binding operations—yet consciousness is present during encoding and absent during consolidation. Neuromodulatory differences between the states relocate rather than resolve the question: why should acetylcholine levels determine the presence or absence of experience? The systematic transformation from vivid reliving to bare knowing tracks hippocampal engagement rather than information content—a dissociation the interface reading accommodates rather than predicts.
 
-**[Bidirectional interaction](/tenets/#bidirectional-interaction)** is demonstrated by the manipulation-maintenance asymmetry, the choking phenomenon, attention's gating role in encoding, and reconsolidation. Consciousness selectively participates in memory operations—required for encoding and manipulation, unnecessary for storage and consolidation, capable of disrupting automatised procedures. Reconsolidation provides especially direct evidence: when conscious retrieval destabilises the trace, it is reshaped according to the subject's present concerns and self-understanding.
+**[Bidirectional interaction](/tenets/#bidirectional-interaction)** is what the manipulation-maintenance asymmetry, the choking phenomenon, attention's gating role in encoding, and reconsolidation argue for. Consciousness participates selectively—required for encoding and manipulation, unnecessary for storage and consolidation, capable of disrupting automatised procedures. In reconsolidation, when conscious retrieval destabilises the trace, it is reshaped according to the subject's present concerns and self-understanding.
 
 **[Minimal quantum interaction](/tenets/#minimal-quantum-interaction)** is consistent with the dissociation observed here. If consciousness influences the brain through a minimal interaction mechanism, NREM consolidation represents a state where that influence is withdrawn—the brain processes memories through endogenous replay without any non-physical contribution. The reconsolidation window offers a complementary site: when the trace is destabilised and multiple restabilisation outcomes are physically possible, consciousness may bias which reconstruction becomes actual.
 
