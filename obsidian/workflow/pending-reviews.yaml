@@ -117,3 +117,32 @@
   subject_articles:
   - topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/34e73f1d-ec85-4b8c-bfca-cee76dcc2877
+  commissioned_at: '2026-09-08T03:04:33.079717+00:00'
+  prompt_summary: Audit topics/locked-in-syndrome-as-the-negative-case (recent-aged)
+  target_filename: outer-review-2026-09-08-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile external referee auditing one article on The Unfinishable
+    Map (https://unfinishablemap.org), a dualist philosophy site. Target: https://unfinishablemap.org/topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/
+    - attack its central argument seriously: does locked-in syndrome genuinely function
+    as a negative case where filter-loosening does not apply, or does the reasoning
+    assume what it needs to prove? Two constraints from past reviews. First, before
+    charging over-claim, read the article''s own scope statements and the Map''s positions
+    register at https://unfinishablemap.org/positions/ - the Map holds explicit calibrated
+    positions, and several previous charges were refuted by the article''s own text.
+    Second, a previous single-article referee run returned three of five charges refuted
+    and three of five wrong first authors, so every citation you offer must be verifiable
+    and carry a DOI, and you must distinguish ''the article''s claim is false'' from
+    ''the article''s claim is unsupported by the source it cites''. Recent site activity
+    is at https://unfinishablemap.org/workflow/changelog/ (web indexes lag 24-48 hours).
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply
+  subject_articles:
+  - topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply.md
+  subject_source: reuse:pending-reviews:outer-review-2026-09-08-chatgpt-5-6-sol-pro.md
