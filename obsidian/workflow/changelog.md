@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-08T00:29:00+00:00'
+ai_modified: '2026-09-08T01:00:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-08T01:00:19+00:00 - apex-evolve
+- **Status**: Complete
+- **Trigger**: routine every-4-cycles (cycle 552 complete). No mode given → `evolve` with auto-select.
+- **Article**: [[apex/conjunction-coalesce]]
+- **Selection**: staleness recomputed independently across all 41 apex articles on the effective baseline `max(apex_last_synthesis, last_deep_review)`. Top score **450** = 50 days x 9 changed sources; baseline 2026-07-19T16:09:07 (`last_deep_review`; the bare `apex_last_synthesis` of 2026-07-07 would have over-reported by 12 days). Not a no-op. My run also surfaced `steelmanning-as-method` at 400 (8/11 sources), absent from the driver's table; it did not change the pick.
+- **Changed sources**: 9 of 10 — `voids/agency-void`, `voids/voids-between-minds`, `voids/erasure-void`, `voids/transit-void`, `voids/thrownness-void`, `voids/temporal-void`, `voids/wholeheartedness-void`, `apex/taxonomy-of-voids`, `voids/apophatic-cartography`.
+- **Dominant movement was a coherence-only demotion** across the voids corpus (agency-void's "the Map reads the void as evidence" → "framework-internal coherence, not evidence"; voids-between-minds' "may constitute evidence for dualism" → "does not read these voids together as evidence"). **On that axis the apex was already ahead of its sources, not behind** — "What the Count Is Worth" already graded the catalogue as framework-internal coherence, matching `positions/voids-as-evidence` P-V1/P-V2. No upward calibration repair was owed.
+- **The one substantive integration** was `apex/taxonomy-of-voids` (2026-08-24): its method-generated origin class was found narrower than its name — all four entries arise from apophatic *method*, none from the *instrument* (the model that writes the catalogue and the models whose agreement outer review treats as convergence share a training distribution and, measurably, their errors). This is a strict strengthening of this apex's own common-cause null, which named only three shared channels, all catchable in principle by an outside reader. Integrated as a fourth channel, citing the taxonomy for the figures rather than re-citing the underlying papers (no reference apparatus spent).
+- **Self-critical consequence written in both directions**: the instrument channel **discounts one of this article's own three falsification tests**. The *template-blind test* turns on a reviewer who does not carry the template; the corpus's actual reviewers are models sharing the author's distribution. The test now states that discharging it needs a human reader or a distinct model lineage.
+- **Quote fidelity** (both quoted sources had changed, so both were grep-checked): `voids/agency-void` — real defect, the apex rendered a semicolon and lowercase "narrow" as a full stop and capital "Narrow" inside quotation marks; restored to the source's exact form. `voids/voids-between-minds` — no defect; the grep miss was permissible mid-sentence lowercasing of "Even". Neither was a fabrication.
+- **Word count**: 5144 → **4979** (delta **−165**). The article was **already 144 over the 5000 apex hard ceiling** at selection, so every addition was funded by a trim in the same edit: ~300 words added against ~465 condensed, and status moved `hard_warning` → `soft_warning`. Calibration hedges deliberately untouched (the "unrefuted because untested" language, the one-exemplar candidate-type qualifications, the editorial-culture cost admission).
+- **Evidence and Dependency section was absent and is now installed** (~115 words, prose, no "apex article" phrase): seam test *independently argued*; eight-case catalogue *mutually coherent only*; informativeness of void structure *inherited from Tenets 1 and 5* and *imported from* the taxonomy; the single *externally evidenced* line tells **against** the catalogue's weight.
+- **Largest redundancy cut**: all six cognates were analysed twice, once in the catalogue and again in the sub-typology. Face-level framing the typology owns was removed from the catalogue entries. Two headings with zero inbound anchor references were merged; the three anchors with inbound references were verified to survive.
+- **Not touched**: `phenomenal-output-causal-machinery-dissociation` (rank 2, 440) — neither condensed nor proposed for condensing, per the standing human veto. `apex_last_synthesis` was **not** mass-reconciled; only this article's timestamps moved.
+- **Review**: [[reviews/apex-evolve-2026-09-08-conjunction-coalesce]]
+- Validated (`scripts/validate.py` ✓), all wikilink targets resolve (no pre-push sync blocker), synced to `hugo/content/apex/`.
 
 ## 2026-09-08T00:29:00+00:00 - check-tenets
 - **Status**: Warnings
