@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-08T21:46:18.312587+00:00'
-session_count: 20272
+last_updated: '2026-09-08T22:10:56.396627+00:00'
+session_count: 20273
 cycle_position: 13288
 last_runs:
   add-highlight: '2026-09-08T08:07:03.321012+00:00'
@@ -35,7 +35,7 @@ last_runs:
   pessimistic-review: '2026-09-08T17:33:33.557342+00:00'
   positions-evolve: '2026-09-08T18:09:05.234667+00:00'
   refine-draft: '2026-09-08T21:46:18.312587+00:00'
-  replenish-queue: '2026-09-08T22:07:44+00:00'
+  replenish-queue: '2026-09-08T22:10:56.396627+00:00'
   research-topic: '2026-09-07T11:28:16.172849+00:00'
   research-voids: '2026-09-08T00:07:12.016520+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -119,11 +119,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-09-08'
-  outcome: success
-  kind: replenish
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-09-08'
@@ -219,6 +214,11 @@ recent_tasks:
   date: '2026-09-08'
   outcome: success
   kind: queue
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-09-08'
+  outcome: success
+  kind: replenish
 agentic_social:
   recently_posted:
   - date: '2026-09-01T21:24:37.830027+00:00'
@@ -605,53 +605,58 @@ agentic_social:
 queue_status:
   last_replenishment: '2026-09-08T22:07:44+00:00'
   last_replenishment_mode: promotion-only
-  last_replenishment_note: 'RUN 1030. ZERO MINTED - TWO P3s PROMOTED. Fired 2026-09-08 ~22:0xZ,
-    ~6.4h after run 1029, on a floor breach the driver had already measured and I re-confirmed
-    independently with tools.todo.processor.parse_tasks: 102 active blocks, 2 P2 (one PENDING
-    at 0-based index 2005 = file line 2006, one BLOCKED human-approval entry at index 47),
-    100 P3 - so executable P0-P2 was 1 against the floor of 3. Minting was declined for the
-    documented reasons: 100 P3s already queued means the queue is short of loop-visible work,
-    not of work; gap analysis is exhausted on this corpus; and unconsumed-research candidates
-    are >=32% contaminated by already-landed articles. Run 1029 made the same call and both
-    its cheapest promotions closed cleanly, which is why the floor broke again. PROMOTED (both
-    premises re-verified from disk this run, with the verification and its corrections appended
-    to each task note rather than a bare grep exit status): (1) index 1992 - the Chalmers
-    anthology year-reconciliation task; all six named 2016 loci read verbatim at the stated
-    line numbers with no drift, plus three findings the note lacked - research/cosmopsychism-2026-07-13
-    holds THREE 2016 loci (L73 heading, L75 type line, L221 reference) not one, its L76 carries
-    a dated CONFIRMED PhilPapers verification asserting 2016 that must be annotated rather
-    than silently contradicted, and archive/voids/boundary-void.md:140 is an archive locus
-    the title-keyed sweep cd7cf658f0 missed (frozen, flag only). (2) index 2021 - the Gladziejewski
-    year-convention task; the note said three loci and it is four files / ten lines - voids/edge-states-and-void-probes
+  last_replenishment_note: 'RUN 1030. ZERO MINTED - TWO P3s PROMOTED. Fired 2026-09-08
+    ~22:0xZ, ~6.4h after run 1029, on a floor breach the driver had already measured
+    and I re-confirmed independently with tools.todo.processor.parse_tasks: 102 active
+    blocks, 2 P2 (one PENDING at 0-based index 2005 = file line 2006, one BLOCKED
+    human-approval entry at index 47), 100 P3 - so executable P0-P2 was 1 against
+    the floor of 3. Minting was declined for the documented reasons: 100 P3s already
+    queued means the queue is short of loop-visible work, not of work; gap analysis
+    is exhausted on this corpus; and unconsumed-research candidates are >=32% contaminated
+    by already-landed articles. Run 1029 made the same call and both its cheapest
+    promotions closed cleanly, which is why the floor broke again. PROMOTED (both
+    premises re-verified from disk this run, with the verification and its corrections
+    appended to each task note rather than a bare grep exit status): (1) index 1992
+    - the Chalmers anthology year-reconciliation task; all six named 2016 loci read
+    verbatim at the stated line numbers with no drift, plus three findings the note
+    lacked - research/cosmopsychism-2026-07-13 holds THREE 2016 loci (L73 heading,
+    L75 type line, L221 reference) not one, its L76 carries a dated CONFIRMED PhilPapers
+    verification asserting 2016 that must be annotated rather than silently contradicted,
+    and archive/voids/boundary-void.md:140 is an archive locus the title-keyed sweep
+    cd7cf658f0 missed (frozen, flag only). (2) index 2021 - the Gladziejewski year-convention
+    task; the note said three loci and it is four files / ten lines - voids/edge-states-and-void-probes
     L123+L174 is an unnamed fourth live file, and L174 already carries the fully disambiguated
-    form set after publisher verification, so the calibrated sibling to copy already exists.
-    Also corrected: the research-note heading is at L48 not L52 and its L239 reference is
-    a second 2024 locus. Length measured with analyze_length on every host: psychedelics-and-the-filter-model
-    is 3992 against a 4000 hard threshold - EIGHT words of headroom - and edge-states-and-void-probes
-    is 664 words past hard, both recorded in the task note as binding constraints. NOT PROMOTED,
-    with reasons recorded here so they are not re-surveyed blind: index 1675 (conceptual-role-semantics
-    citation date) is self-flagged NOT RIPE pending a self-citation-convention decision; index
-    458 (empty topics) was already severity-audited and declined by run 1002 as cosmetic -
-    all 13 files are neutralised by three code-level guards; index 1721 (positions.md self-description)
-    has DECAYED - its F1 leg is now fixed, the Companion files paragraph at positions.md:90
-    names all four calibration-history files, and its F3 file counts are stale (positions/
-    now holds 19 .md files, not 17), so it needs re-scoping by a human before execution; index
-    1771 (heterophenomenology tenet link) HAS A FALSE PREMISE - see the finding below. FINDING
-    FOR THE OPERATOR, no task minted: index 1771 asserts a hugo/obsidian stale-copy divergence
-    on the strength of a zero-hit grep for the lowercase slug occams in the obsidian sources.
+    form set after publisher verification, so the calibrated sibling to copy already
+    exists. Also corrected: the research-note heading is at L48 not L52 and its L239
+    reference is a second 2024 locus. Length measured with analyze_length on every
+    host: psychedelics-and-the-filter-model is 3992 against a 4000 hard threshold
+    - EIGHT words of headroom - and edge-states-and-void-probes is 664 words past
+    hard, both recorded in the task note as binding constraints. NOT PROMOTED, with
+    reasons recorded here so they are not re-surveyed blind: index 1675 (conceptual-role-semantics
+    citation date) is self-flagged NOT RIPE pending a self-citation-convention decision;
+    index 458 (empty topics) was already severity-audited and declined by run 1002
+    as cosmetic - all 13 files are neutralised by three code-level guards; index 1721
+    (positions.md self-description) has DECAYED - its F1 leg is now fixed, the Companion
+    files paragraph at positions.md:90 names all four calibration-history files, and
+    its F3 file counts are stale (positions/ now holds 19 .md files, not 17), so it
+    needs re-scoping by a human before execution; index 1771 (heterophenomenology
+    tenet link) HAS A FALSE PREMISE - see the finding below. FINDING FOR THE OPERATOR,
+    no task minted: index 1771 asserts a hugo/obsidian stale-copy divergence on the
+    strength of a zero-hit grep for the lowercase slug occams in the obsidian sources.
     The sources are not missing the content - obsidian/concepts/heterophenomenology.md:150
-    carries the wikilink [[tenets#Occam''s Razor Has Limits|...]] and the converter turns
-    that heading anchor into /tenets/#occams-razor-has-limits, so the grep missed it on capitalisation
-    and the apostrophe. Its second leg is also probably false: the task concludes the anchor
-    does not exist because grep found no id="occams-razor-has-limits" in hugo/content/tenets/_index.md,
-    but that file only carries explicit span anchors and Hugo generates heading ids at render
-    time, with autoHeadingID defaulting to true and github-style slugs, which for ''## Occam''s
-    Razor Has Limits'' is exactly occams-razor-has-limits. The task should be withdrawn or
-    re-scoped by a human rather than executed; it is the narrow-grep-zero-is-not-proof-of-absence
-    shape. Post-run: 102 active blocks (UNCHANGED - nothing minted, nothing deleted, and every
-    edit line-count-neutral so no task''s line number moved), 3 P2 pending, 1 P2 blocked,
-    98 P3. The BLOCKED human-approval entry at index 47 was not touched, not unblocked and
-    not re-scoped.'
+    carries the wikilink [[tenets#Occam''s Razor Has Limits|...]] and the converter
+    turns that heading anchor into /tenets/#occams-razor-has-limits, so the grep missed
+    it on capitalisation and the apostrophe. Its second leg is also probably false:
+    the task concludes the anchor does not exist because grep found no id="occams-razor-has-limits"
+    in hugo/content/tenets/_index.md, but that file only carries explicit span anchors
+    and Hugo generates heading ids at render time, with autoHeadingID defaulting to
+    true and github-style slugs, which for ''## Occam''s Razor Has Limits'' is exactly
+    occams-razor-has-limits. The task should be withdrawn or re-scoped by a human
+    rather than executed; it is the narrow-grep-zero-is-not-proof-of-absence shape.
+    Post-run: 102 active blocks (UNCHANGED - nothing minted, nothing deleted, and
+    every edit line-count-neutral so no task''s line number moved), 3 P2 pending,
+    1 P2 blocked, 98 P3. The BLOCKED human-approval entry at index 47 was not touched,
+    not unblocked and not re-scoped.'
   last_replenishment_run: 1030
   loop_pickable_open: 3
   needs_replenishment: false
