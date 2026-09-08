@@ -122,9 +122,9 @@
   commissioned_at: '2026-09-08T03:04:33.079717+00:00'
   prompt_summary: Audit topics/locked-in-syndrome-as-the-negative-case (recent-aged)
   target_filename: outer-review-2026-09-08-claude-opus-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-08T04:36:13.902936+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile external referee auditing one article on The Unfinishable
     Map (https://unfinishablemap.org), a dualist philosophy site. Target: https://unfinishablemap.org/topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/
