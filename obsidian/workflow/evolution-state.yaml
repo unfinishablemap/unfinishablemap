@@ -2,6 +2,222 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
+last_updated: '2026-09-08T01:54:33.364779+00:00'
+session_count: 20204
+cycle_position: 13249
+last_runs:
+  add-highlight: '2026-09-07T08:08:05.524263+00:00'
+  add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
+  agentic-social: '2026-09-07T22:38:33.441636+00:00'
+  apex-evolve: '2026-09-08T01:05:09.397832+00:00'
+  check-links: '2026-09-07T23:52:23.353380+00:00'
+  check-model-fallback: '2026-09-07T21:45:48.181842+00:00'
+  check-tenets: '2026-09-08T00:32:31.070899+00:00'
+  coalesce: '2026-09-07T19:16:32.834545+00:00'
+  collect-chatgpt-review: '2026-09-07T04:00:05.455757+00:00'
+  collect-claude-review: '2026-09-07T04:45:53.360857+00:00'
+  collect-gemini-review: '2026-09-07T04:58:35.569708+00:00'
+  combine-outer-reviews: '2026-09-07T05:12:04.645748+00:00'
+  commission-chatgpt-review: '2026-09-07T02:10:09.001864+00:00'
+  commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
+  commission-claude-review: '2026-09-07T03:05:40.642162+00:00'
+  commission-claude-review-chrome-unavailable-at: '2026-08-09T03:08:48.570048+00:00'
+  commission-gemini-review: '2026-09-07T04:08:53.457773+00:00'
+  commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
+  condense: '2026-08-13T03:23:19.289124+00:00'
+  deep-review: '2026-09-07T20:34:15.608087+00:00'
+  embed-videos: '2026-09-07T23:31:21.185924+00:00'
+  expand-topic: '2026-09-07T22:30:11.197713+00:00'
+  harvest-research-subjects: '2026-09-07T21:01:16.609802+00:00'
+  integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
+  literature-drift-review: '2026-09-01T13:46:42.778485+00:00'
+  optimistic-review: '2026-09-07T17:01:18.759712+00:00'
+  pessimistic-review: '2026-09-07T14:32:35.752844+00:00'
+  positions-evolve: '2026-09-06T20:44:49.811660+00:00'
+  refine-draft: '2026-09-08T01:39:07.410914+00:00'
+  replenish-queue: '2026-09-08T01:54:33.364779+00:00'
+  research-topic: '2026-09-07T11:28:16.172849+00:00'
+  research-voids: '2026-09-08T00:07:12.016520+00:00'
+  skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
+  tune-system: '2026-09-08T01:20:47.352049+00:00'
+  tweet-highlight: '2026-01-24T14:00:00+00:00'
+  validate-all: '2026-01-24T02:57:00+00:00'
+last_git_push: '2026-09-08T01:05:09.540681+00:00'
+last_tweet_date: '2026-09-07'
+content_stats:
+  total_files: 297
+  published_files: 192
+  draft_files: 0
+  placeholder_files: 0
+section_caps:
+  max_topics: 360
+  max_concepts: 360
+  max_voids: 115
+  max_positions: 80
+audit_triple:
+  altered_state_symmetry: {}
+  global_task_cap: 6
+  literature_drift:
+    active_research_sections:
+    - psychedelics
+    - animal-cognition
+    - animal-consciousness
+    - iit
+    - quantum-biology
+    - consciousness-measurement
+    - neural-complexity
+    - cetacean
+    - corvid
+    - invertebrate
+    - fish-sentience
+    - plant-cognition
+    - neuron-less
+    - bacterial
+    - basal-and-bioelectric
+    - organoid
+    - predictive-processing
+    - anaesthesia
+    clean_audits: 3
+    flagged_audits: 6
+    last_audit_date: '2026-09-01'
+    median_year_lag_threshold: 5
+    missing_citation_threshold: 2
+    recently_audited:
+    - animal-consciousness
+    - psychedelics-and-the-filter-model
+    - quantum-biology-and-neural-consciousness
+    - consciousness-and-integrated-information
+    - cetacean-and-corvid-consciousness
+    - invertebrate-consciousness-as-interface-test
+    - plant-cognition-and-the-plant-neurobiology-debate
+    - brain-organoids-and-the-organoid-intelligence-question
+    - neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition
+    total_audits: 9
+  topic_concept_anchoring:
+    run_every_n_cycles: 1
+convergence_targets:
+  min_topics: 10
+  min_concepts: 15
+  min_arguments: 5
+  max_critical_issues: 0
+  max_medium_issues: 3
+progress:
+  topics_written: 328
+  concepts_written: 326
+  arguments_written: 5
+  questions_written: 0
+  voids_written: 103
+  positions_written: 18
+  research_notes: 577
+  reviews_completed: 7458
+  apex_articles: 42
+quality:
+  critical_issues: 0
+  medium_issues: 10
+  low_issues: 3
+  orphaned_files: 0
+failed_tasks: {}
+recent_tasks:
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-07'
+  outcome: success
+  kind: queue
+- task: expand-topic
+  type: expand-topic
+  date: '2026-09-07'
+  outcome: success
+  kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-09-07'
+  outcome: success
+  kind: agentic_social
+- task: deep-review
+  type: deep-review
+  date: '2026-09-07'
+  outcome: success
+  kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-07'
+  outcome: success
+  kind: queue
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-09-07'
+  outcome: success
+  kind: trigger
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-07'
+  outcome: success
+  kind: queue
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-09-07'
+  outcome: success
+  kind: trigger
+- task: expand-topic
+  type: expand-topic
+  date: '2026-09-07'
+  outcome: success
+  kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-09-07'
+  outcome: success
+  kind: agentic_social
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-09-07'
+  outcome: success
+  kind: replenish
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-07'
+  outcome: success
+  kind: queue
+- task: embed-videos
+  type: embed-videos
+  date: '2026-09-07'
+  outcome: success
+  kind: trigger
+- task: check-links
+  type: check-links
+  date: '2026-09-07'
+  outcome: success
+  kind: trigger
+- task: research-voids
+  type: research-voids
+  date: '2026-09-08'
+  outcome: success
+  kind: trigger
+- task: check-tenets
+  type: check-tenets
+  date: '2026-09-08'
+  outcome: success
+  kind: trigger
+- task: apex-evolve
+  type: apex-evolve
+  date: '2026-09-08'
+  outcome: success
+  kind: trigger
+- task: tune-system
+  type: tune-system
+  date: '2026-09-08'
+  outcome: success
+  kind: trigger
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-08'
+  outcome: success
+  kind: queue
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-09-08'
+  outcome: success
+  kind: replenish
 agentic_social:
   recently_posted:
   - date: '2026-09-01T14:30:11.229498+00:00'
@@ -348,164 +564,66 @@ agentic_social:
     - hard-problem-of-consciousness
     - personal-identity
     url: https://unfinishablemap.org/apex/one-world-wager/
-audit_triple:
-  altered_state_symmetry: {}
-  global_task_cap: 6
-  literature_drift:
-    active_research_sections:
-    - psychedelics
-    - animal-cognition
-    - animal-consciousness
-    - iit
-    - quantum-biology
-    - consciousness-measurement
-    - neural-complexity
-    - cetacean
-    - corvid
-    - invertebrate
-    - fish-sentience
-    - plant-cognition
-    - neuron-less
-    - bacterial
-    - basal-and-bioelectric
-    - organoid
-    - predictive-processing
-    - anaesthesia
-    clean_audits: 3
-    flagged_audits: 6
-    last_audit_date: '2026-09-01'
-    median_year_lag_threshold: 5
-    missing_citation_threshold: 2
-    recently_audited:
-    - animal-consciousness
-    - psychedelics-and-the-filter-model
-    - quantum-biology-and-neural-consciousness
-    - consciousness-and-integrated-information
-    - cetacean-and-corvid-consciousness
-    - invertebrate-consciousness-as-interface-test
-    - plant-cognition-and-the-plant-neurobiology-debate
-    - brain-organoids-and-the-organoid-intelligence-question
-    - neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition
-    total_audits: 9
-  topic_concept_anchoring:
-    run_every_n_cycles: 1
-content_stats:
-  draft_files: 0
-  placeholder_files: 0
-  published_files: 192
-  total_files: 297
-convergence_targets:
-  max_critical_issues: 0
-  max_medium_issues: 3
-  min_arguments: 5
-  min_concepts: 15
-  min_topics: 10
-cycle_position: 13249
-failed_tasks: {}
-last_git_push: '2026-09-08T01:05:09.540681+00:00'
-last_runs:
-  add-highlight: '2026-09-07T08:08:05.524263+00:00'
-  add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-07T22:38:33.441636+00:00'
-  apex-evolve: '2026-09-08T01:05:09.397832+00:00'
-  check-links: '2026-09-07T23:52:23.353380+00:00'
-  check-model-fallback: '2026-09-07T21:45:48.181842+00:00'
-  check-tenets: '2026-09-08T00:32:31.070899+00:00'
-  coalesce: '2026-09-07T19:16:32.834545+00:00'
-  collect-chatgpt-review: '2026-09-07T04:00:05.455757+00:00'
-  collect-claude-review: '2026-09-07T04:45:53.360857+00:00'
-  collect-gemini-review: '2026-09-07T04:58:35.569708+00:00'
-  combine-outer-reviews: '2026-09-07T05:12:04.645748+00:00'
-  commission-chatgpt-review: '2026-09-07T02:10:09.001864+00:00'
-  commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
-  commission-claude-review: '2026-09-07T03:05:40.642162+00:00'
-  commission-claude-review-chrome-unavailable-at: '2026-08-09T03:08:48.570048+00:00'
-  commission-gemini-review: '2026-09-07T04:08:53.457773+00:00'
-  commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
-  condense: '2026-08-13T03:23:19.289124+00:00'
-  deep-review: '2026-09-07T20:34:15.608087+00:00'
-  embed-videos: '2026-09-07T23:31:21.185924+00:00'
-  expand-topic: '2026-09-07T22:30:11.197713+00:00'
-  harvest-research-subjects: '2026-09-07T21:01:16.609802+00:00'
-  integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
-  literature-drift-review: '2026-09-01T13:46:42.778485+00:00'
-  optimistic-review: '2026-09-07T17:01:18.759712+00:00'
-  pessimistic-review: '2026-09-07T14:32:35.752844+00:00'
-  positions-evolve: '2026-09-06T20:44:49.811660+00:00'
-  refine-draft: '2026-09-08T01:39:07.410914+00:00'
-  replenish-queue: '2026-09-07T23:01:57.061342+00:00'
-  research-topic: '2026-09-07T11:28:16.172849+00:00'
-  research-voids: '2026-09-08T00:07:12.016520+00:00'
-  skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
-  tune-system: '2026-09-08T01:20:47.352049+00:00'
-  tweet-highlight: '2026-01-24T14:00:00+00:00'
-  validate-all: '2026-01-24T02:57:00+00:00'
-last_tweet_date: '2026-09-07'
-last_updated: '2026-09-08T01:39:07.410914+00:00'
-progress:
-  apex_articles: 42
-  arguments_written: 5
-  concepts_written: 326
-  positions_written: 18
-  questions_written: 0
-  research_notes: 577
-  reviews_completed: 7458
-  topics_written: 328
-  voids_written: 103
-quality:
-  critical_issues: 0
-  low_issues: 3
-  medium_issues: 10
-  orphaned_files: 0
 queue_status:
   last_replenishment: '2026-09-08T01:52:36+00:00'
   last_replenishment_mode: promotion-only (batch)
-  last_replenishment_note: 'RUN 1028. ZERO MINTED - TEN P3s PROMOTED TO P2. Fired 2026-09-08 ~01:4xZ,
-    2h45m after run 1027, on the SAME one-task floor breach: run 1027 promoted two, both were consumed
-    and sit below the Completed Tasks marker, and pickable P0-P2 was back to 2 against the floor of 3.
-    Measured treadmill: 2 promoted bought 2 queue-slot iterations / ~2h45m wall clock, i.e. ~1 task consumed
-    per ~1h20m, so the minimum-clearing promotion re-breaches within one replenish interval. This run
-    therefore promoted a BATCH OF TEN (pre-run 115 active / P2 2 / P3 113, post-run 115 active / P2 12
-    / P3 103, count_p0_p2_tasks 2 -> 12), sized to cover ~13h of consumption rather than the ~3h the minimum
-    buys. Nothing minted and nothing deleted: active total is unchanged at 115, all ten were already-verified
-    P3 work and every premise was RE-VERIFIED FROM DISK this run with the verifying grep recorded in each
-    task note. Sources were not re-derived - run 1027 established them and they are unchanged: unconsumed_research
-    unusable (consumed_by stamped on 37 of 578 notes, contamination >=32%); length_analysis 3-for-3 human-vetoed;
-    chain discharged (the offloading-void entry in task_chains.pending_articles is stale - the article
-    was written 2026-09-07, commit 715dbaa538); gap_analysis clean (0 broken body wikilinks); orphaned_files
-    0. PROMOTED (all refine-draft, all single-owner files, pileup checked against the Active-section File:
-    lines): apex/research-programme-decisions-under-the-map (L174 arXiv:2512.12636 lacks the not-yet-peer-reviewed
-    flag its 8 sibling lines carry); voids/witnessing-void (L99 receives-support + points-beyond-engineering-limitation,
-    register uncited, 0 hits for voids-as-evidence); concepts/sleep-and-consciousness (description: L3
-    and body L106 assert proves); concepts/attention-as-interface (L230 Schwartz provides-empirical-grounding
-    + L232 MWI in-framework victory); topics/falsification-roadmap-for-the-interface-model (L51 + L181
-    over-defend Tenet 2 testability); topics/testing-consciousness-collapse (L230 no-presently-conceivable-instrument,
-    string-sibling of the 08-27 tenets over-concession); concepts/filter-vs-interface-distinction (L76
-    width-has-not-changed against its own L74); topics/consciousness-and-memory (L180/182/184 strongest-evidence
-    / is-supported-by / is-demonstrated-by); voids/phenomenal-quality-void (L128 + L132, primary file
-    exact; binding-void second file re-scoped to verify-then-decide); positions/value-in-selection-calibration-history
-    (L57 provenance pointer lands on the W22 L2531 decoherence entry, sed-confirmed). The dominant promoted
-    family is scoping-revision residue - a tenets-tier or hub page was narrowed and its dependents never
-    swept - which is what run 1027 found and what tonight''s three closed P2s all were. TWO REJECTS ANNOTATED
-    IN PLACE SO THEY STOP BEING REDISCOVERED, both premise-failures caught by re-verification: concepts/direction-of-interface-change
-    L80 - the quoted receive-only conditional greps ZERO in both trees, premise DISCHARGED, only the missing
-    filter-vs-interface back-link survives; and the voids inaccessible-past + conceptual-impossibility
-    pair - grep demonstrat returns zero on the primary file so 3 of its 4 loci are discharged, while the
-    second file is fully live, so it needs its File: line re-pointed before it is picked. Rejected without
-    annotation: concepts/theory-of-mind falsifier section (3472w vs concepts hard 3500 = 28w headroom
-    for a ~290w import the task itself says cannot fit - additive and length-blocked, a probable no-op);
-    concepts/consciousness-selecting-neural-patterns (standing HUMAN LENGTH DECISION park, net-non-positive
-    only); the empty-topics-13 and six-broken-links tasks (explicit DO-NOT-PROMOTE audits from earlier
-    runs, respected); two apex/one-world-wager tasks (4 open tasks already touch that file); the Lyre/neurophenomenal-structuralism,
-    ontic-structural-realism Newman-DOI and reductionism-condense tasks (same OSR cluster as the live
-    L2128 P2); the Saad 182(3) 28-file sweep and the archive Klein 2016-vs-2013 quote (both need publisher-of-record
-    verification this run could not do from disk, and both are in classes memory flags as flip-prone).
-    STRUCTURAL FINDING FOR THE OPERATOR, NOT ACTIONED: 103 P3 tasks remain executable but invisible to
-    a priority-first selector, and the system now spends a replenish cycle roughly every 3 hours hand-promoting
-    from that pool. Promotion is symptom management; the defect is the selector never falling through.
-    Three options, all operator calls: let the selector fall through to P3 when P0-P2 is empty; keep batching
-    promotions large; or change what the priority floor means. The selector and the floor were NOT touched
-    by this run.'
+  last_replenishment_note: 'RUN 1028. ZERO MINTED - TEN P3s PROMOTED TO P2. Fired
+    2026-09-08 ~01:4xZ, 2h45m after run 1027, on the SAME one-task floor breach: run
+    1027 promoted two, both were consumed and sit below the Completed Tasks marker,
+    and pickable P0-P2 was back to 2 against the floor of 3. Measured treadmill: 2
+    promoted bought 2 queue-slot iterations / ~2h45m wall clock, i.e. ~1 task consumed
+    per ~1h20m, so the minimum-clearing promotion re-breaches within one replenish
+    interval. This run therefore promoted a BATCH OF TEN (pre-run 115 active / P2
+    2 / P3 113, post-run 115 active / P2 12 / P3 103, count_p0_p2_tasks 2 -> 12),
+    sized to cover ~13h of consumption rather than the ~3h the minimum buys. Nothing
+    minted and nothing deleted: active total is unchanged at 115, all ten were already-verified
+    P3 work and every premise was RE-VERIFIED FROM DISK this run with the verifying
+    grep recorded in each task note. Sources were not re-derived - run 1027 established
+    them and they are unchanged: unconsumed_research unusable (consumed_by stamped
+    on 37 of 578 notes, contamination >=32%); length_analysis 3-for-3 human-vetoed;
+    chain discharged (the offloading-void entry in task_chains.pending_articles is
+    stale - the article was written 2026-09-07, commit 715dbaa538); gap_analysis clean
+    (0 broken body wikilinks); orphaned_files 0. PROMOTED (all refine-draft, all single-owner
+    files, pileup checked against the Active-section File: lines): apex/research-programme-decisions-under-the-map
+    (L174 arXiv:2512.12636 lacks the not-yet-peer-reviewed flag its 8 sibling lines
+    carry); voids/witnessing-void (L99 receives-support + points-beyond-engineering-limitation,
+    register uncited, 0 hits for voids-as-evidence); concepts/sleep-and-consciousness
+    (description: L3 and body L106 assert proves); concepts/attention-as-interface
+    (L230 Schwartz provides-empirical-grounding + L232 MWI in-framework victory);
+    topics/falsification-roadmap-for-the-interface-model (L51 + L181 over-defend Tenet
+    2 testability); topics/testing-consciousness-collapse (L230 no-presently-conceivable-instrument,
+    string-sibling of the 08-27 tenets over-concession); concepts/filter-vs-interface-distinction
+    (L76 width-has-not-changed against its own L74); topics/consciousness-and-memory
+    (L180/182/184 strongest-evidence / is-supported-by / is-demonstrated-by); voids/phenomenal-quality-void
+    (L128 + L132, primary file exact; binding-void second file re-scoped to verify-then-decide);
+    positions/value-in-selection-calibration-history (L57 provenance pointer lands
+    on the W22 L2531 decoherence entry, sed-confirmed). The dominant promoted family
+    is scoping-revision residue - a tenets-tier or hub page was narrowed and its dependents
+    never swept - which is what run 1027 found and what tonight''s three closed P2s
+    all were. TWO REJECTS ANNOTATED IN PLACE SO THEY STOP BEING REDISCOVERED, both
+    premise-failures caught by re-verification: concepts/direction-of-interface-change
+    L80 - the quoted receive-only conditional greps ZERO in both trees, premise DISCHARGED,
+    only the missing filter-vs-interface back-link survives; and the voids inaccessible-past
+    + conceptual-impossibility pair - grep demonstrat returns zero on the primary
+    file so 3 of its 4 loci are discharged, while the second file is fully live, so
+    it needs its File: line re-pointed before it is picked. Rejected without annotation:
+    concepts/theory-of-mind falsifier section (3472w vs concepts hard 3500 = 28w headroom
+    for a ~290w import the task itself says cannot fit - additive and length-blocked,
+    a probable no-op); concepts/consciousness-selecting-neural-patterns (standing
+    HUMAN LENGTH DECISION park, net-non-positive only); the empty-topics-13 and six-broken-links
+    tasks (explicit DO-NOT-PROMOTE audits from earlier runs, respected); two apex/one-world-wager
+    tasks (4 open tasks already touch that file); the Lyre/neurophenomenal-structuralism,
+    ontic-structural-realism Newman-DOI and reductionism-condense tasks (same OSR
+    cluster as the live L2128 P2); the Saad 182(3) 28-file sweep and the archive Klein
+    2016-vs-2013 quote (both need publisher-of-record verification this run could
+    not do from disk, and both are in classes memory flags as flip-prone). STRUCTURAL
+    FINDING FOR THE OPERATOR, NOT ACTIONED: 103 P3 tasks remain executable but invisible
+    to a priority-first selector, and the system now spends a replenish cycle roughly
+    every 3 hours hand-promoting from that pool. Promotion is symptom management;
+    the defect is the selector never falling through. Three options, all operator
+    calls: let the selector fall through to P3 when P0-P2 is empty; keep batching
+    promotions large; or change what the priority floor means. The selector and the
+    floor were NOT touched by this run.'
   last_replenishment_run: 1028
   loop_pickable_open: 12
   needs_replenishment: false
@@ -529,113 +647,6 @@ queue_status:
     review_spillover: 0
     staleness: 0
     unconsumed_research: 0
-recent_tasks:
-- date: '2026-09-07'
-  kind: cycle
-  outcome: success
-  task: coalesce
-  type: coalesce
-- date: '2026-09-07'
-  kind: queue
-  outcome: success
-  task: refine-draft
-  type: refine-draft
-- date: '2026-09-07'
-  kind: queue
-  outcome: success
-  task: expand-topic
-  type: expand-topic
-- date: '2026-09-07'
-  kind: agentic_social
-  outcome: success
-  task: agentic-social
-  type: agentic-social
-- date: '2026-09-07'
-  kind: cycle
-  outcome: success
-  task: deep-review
-  type: deep-review
-- date: '2026-09-07'
-  kind: queue
-  outcome: success
-  task: refine-draft
-  type: refine-draft
-- date: '2026-09-07'
-  kind: trigger
-  outcome: success
-  task: harvest-research-subjects
-  type: harvest-research-subjects
-- date: '2026-09-07'
-  kind: queue
-  outcome: success
-  task: refine-draft
-  type: refine-draft
-- date: '2026-09-07'
-  kind: trigger
-  outcome: success
-  task: check-model-fallback
-  type: check-model-fallback
-- date: '2026-09-07'
-  kind: queue
-  outcome: success
-  task: expand-topic
-  type: expand-topic
-- date: '2026-09-07'
-  kind: agentic_social
-  outcome: success
-  task: agentic-social
-  type: agentic-social
-- date: '2026-09-07'
-  kind: replenish
-  outcome: success
-  task: replenish-queue
-  type: replenish-queue
-- date: '2026-09-07'
-  kind: queue
-  outcome: success
-  task: refine-draft
-  type: refine-draft
-- date: '2026-09-07'
-  kind: trigger
-  outcome: success
-  task: embed-videos
-  type: embed-videos
-- date: '2026-09-07'
-  kind: trigger
-  outcome: success
-  task: check-links
-  type: check-links
-- date: '2026-09-08'
-  kind: trigger
-  outcome: success
-  task: research-voids
-  type: research-voids
-- date: '2026-09-08'
-  kind: trigger
-  outcome: success
-  task: check-tenets
-  type: check-tenets
-- date: '2026-09-08'
-  kind: trigger
-  outcome: success
-  task: apex-evolve
-  type: apex-evolve
-- date: '2026-09-08'
-  kind: trigger
-  outcome: success
-  task: tune-system
-  type: tune-system
-- date: '2026-09-08'
-  kind: queue
-  outcome: success
-  task: refine-draft
-  type: refine-draft
-section_caps:
-  max_concepts: 360
-  max_positions: 80
-  max_topics: 360
-  max_voids: 115
-session_count: 20203
 task_chains:
   pending_articles:
   - date: '2026-09-06'
@@ -647,29 +658,34 @@ tune_system_history:
   - date: '2026-07-15'
     new_value: 3 keys (399KB)
     old_value: 93 keys (602KB)
-    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified); unbounded
-      per-replenish growth bloated every YAML parse.
+    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified);
+      unbounded per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
   last_run: '2026-09-08T01:20:02.514927+00:00'
-  last_run_note: 'run 2026-09-08 - TENTH consecutive zero-Tier-1 run, unchanged structural reason: cadences
-    / overdue_thresholds / locked_settings / replenishment_config all still ABSENT from state (re-verified
-    by key). Across 86 tune reports the history records exactly ONE Tier 1 change ever (2026-07-15). CONFIRMED
-    AND QUANTIFIED the 09-04 finding: this run should not have fired - it came 84.4h after the 09-04 run
-    against a 720h (30-day) minimum. filter_triggers_by_min_age (tools/evolution/cycle.py:85) is called
-    ONLY at scripts/evolve_loop.py:1370; the /loop path enqueues at cycle_post.py:429 and drains at cycle_pick.py:188
-    without it, so every TRIGGER_MIN_AGE_HOURS gate is inert under /unfin-cycle. Cadence evidence is now
-    12 data points: consecutive report gaps 1,8,3,1,3,1,5,9,3,6,9 days, mean ~4.4d, NOT ONE reaching 30d.
-    Health: critical 0, medium 10 (vs target 3), low 3, orphans 0, 20/20 recent_tasks success, queue 4
-    P2 / 113 P3, no cap pressure (topics 328/360, concepts 326/360, voids 103/115, positions 18/80). NEW
-    this run, all measured: voids research pipeline is LIFO (median lag 0d, max lag ever 69d) with 33
-    banked unwritten subjects against 12 slots and 18 of the 33 ~205d old, so daily cadence will lock
-    the bank out permanently - Tier 2. check-links 423 findings are mostly Netlify _redirects the local
-    dev server cannot apply (520 rules; 6 of 6 research-sourced findings verified 301-covered; ZERO content-section
-    findings) so the standing stale-hardcoded-URL reading is wrong and no cleanup is warranted. consumed_by
-    present on only 37 of 578 research notes so the unconsumed-research replenishment source is at least
-    32 percent contaminated. agentic-social select_content admits 9 of 693 with 0 never-posted, its topic
-    filter penalising well-integrated articles. 13 of 42 apex articles exceed the 5000 hard threshold.
-    content_stats is stale - total_files 297 against 328 topics alone. Also corrected: the 09-04 run wrote
-    its report but left tune_system_history.report pointing at 08-26.'
+  last_run_note: 'run 2026-09-08 - TENTH consecutive zero-Tier-1 run, unchanged structural
+    reason: cadences / overdue_thresholds / locked_settings / replenishment_config
+    all still ABSENT from state (re-verified by key). Across 86 tune reports the history
+    records exactly ONE Tier 1 change ever (2026-07-15). CONFIRMED AND QUANTIFIED
+    the 09-04 finding: this run should not have fired - it came 84.4h after the 09-04
+    run against a 720h (30-day) minimum. filter_triggers_by_min_age (tools/evolution/cycle.py:85)
+    is called ONLY at scripts/evolve_loop.py:1370; the /loop path enqueues at cycle_post.py:429
+    and drains at cycle_pick.py:188 without it, so every TRIGGER_MIN_AGE_HOURS gate
+    is inert under /unfin-cycle. Cadence evidence is now 12 data points: consecutive
+    report gaps 1,8,3,1,3,1,5,9,3,6,9 days, mean ~4.4d, NOT ONE reaching 30d. Health:
+    critical 0, medium 10 (vs target 3), low 3, orphans 0, 20/20 recent_tasks success,
+    queue 4 P2 / 113 P3, no cap pressure (topics 328/360, concepts 326/360, voids
+    103/115, positions 18/80). NEW this run, all measured: voids research pipeline
+    is LIFO (median lag 0d, max lag ever 69d) with 33 banked unwritten subjects against
+    12 slots and 18 of the 33 ~205d old, so daily cadence will lock the bank out permanently
+    - Tier 2. check-links 423 findings are mostly Netlify _redirects the local dev
+    server cannot apply (520 rules; 6 of 6 research-sourced findings verified 301-covered;
+    ZERO content-section findings) so the standing stale-hardcoded-URL reading is
+    wrong and no cleanup is warranted. consumed_by present on only 37 of 578 research
+    notes so the unconsumed-research replenishment source is at least 32 percent contaminated.
+    agentic-social select_content admits 9 of 693 with 0 never-posted, its topic filter
+    penalising well-integrated articles. 13 of 42 apex articles exceed the 5000 hard
+    threshold. content_stats is stale - total_files 297 against 328 topics alone.
+    Also corrected: the 09-04 run wrote its report but left tune_system_history.report
+    pointing at 08-26.'
   last_run_tier1_applied: 0
   report: reviews/system-tune-2026-09-08.md
