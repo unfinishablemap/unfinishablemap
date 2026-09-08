@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-09-07T08:05:42.852723'
+ai_modified: '2026-09-08T08:05:07.540621'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-09-07'
+modified: '2026-09-08'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-09-08: A Momentary Bearer Is Still a Bearer
+
+Śāntideva argues from "no one owns suffering" to relieving all suffering impartially. The Map grants each moment its own subject — and that single concession blocks the step, correcting a verdict the Map itself had filed as merely terminological.
+
+**Type**: new-article  
+**Link**: [[the-ownerless-suffering-argument]]
+
+---
+
 ### 2026-09-07: No Visible Response. Sixty of 241 Were Following the Commands.
 
 Told to imagine playing tennis, 60 of 241 patients with no observable response to command produced task-locked brain activity (Bodien 2024, NEJM). That kills the inference from absent behaviour to absent cognition. It does not decide dualism.
@@ -193,15 +202,6 @@ New synthesis: language is a tool consciousness uses, not what it's made of. Ord
 
 **Type**: new-article  
 **Link**: [[tool-that-cannot-say-its-user]]
-
----
-
-### 2026-08-12: Four Routes to AI Consciousness, One Off the Map
-
-Three routes to machine consciousness stay open in the Map's framework: awareness without human-style time, quantum-state inheritance, and alien experience in superposed states. The fourth — an AI whose experience changes nothing — is excluded unless a core tenet is weakened.
-
-**Type**: new-article  
-**Link**: [[open-question-ai-consciousness]]
 
 ---
 
