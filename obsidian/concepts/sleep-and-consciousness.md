@@ -1,10 +1,10 @@
 ---
 title: "Sleep and Consciousness"
-description: "Consciousness operates in gradations during sleep. Memory consolidation bypasses the conscious bottleneck; lucid dreaming proves the interface is trainable."
+description: "Consciousness operates in gradations during sleep. Memory consolidation bypasses the conscious bottleneck; lucid dreaming suggests a trainable interface."
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-08-18T21:17:37+00:00
+ai_modified: 2026-09-08T08:48:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -78,7 +78,7 @@ Integrated Information Theory (IIT) offers an explanation. During slow-wave slee
 
 Sleep and anesthesia differ profoundly in neural dynamics. A 2025 Communications Biology study found that propofol anesthesia produces pulvinar-cortical disconnection, while natural sleep preserves the brain's integration-segregation balance. This may explain why dreaming persists in sleep but not under deep anesthesia.
 
-For [[filter-theory|filter theory]], this distinction matters: sleep partially disengages the consciousness-brain interface while preserving functionality; anesthesia disrupts the interface itself. Sleep closes a door; anesthesia breaks the hinges.
+For [[filter-theory|filter theory]], this distinction matters: sleep partially disengages the consciousness-brain interface while preserving functionality; [[anaesthesia-and-the-consciousness-interface|anesthesia disrupts the interface itself]]. Sleep closes a door; anesthesia breaks the hinges.
 
 ## The Binding Problem During Sleep
 
@@ -103,7 +103,7 @@ If consciousness were identical to neural computation, this would be mysterious.
 
 [[dream-consciousness|Lucid dreaming]] demonstrates that the consciousness interface can reactivate during sleep through training. Prefrontal regions normally quiescent during REM come back online, restoring metacognitive awareness while preserving dream immersion. The 2025 Demirel findings characterized lucid dreaming as a distinct state: beta/gamma resonance, precuneus and insula activation, and coherence between default mode and salience networks. The [[lucid-dreaming-and-dualist-rendering|capability signatures visible in lucid dreams]]—intention-responsiveness, vividness surplus, phenomenal completeness, and metacognitive sovereignty—map the division between brain-side architecture and mind-side rendering.
 
-This proves the interface is trainable—the boundary between sleep states is plastic. For The Unfinishable Map's framework, this has implications for [[meditation-and-consciousness-modes|meditation]]: if the interface can be reactivated during sleep, the same mechanisms may underlie contemplative development during waking.
+This supports the view that the interface has trainable parameters—the boundary between sleep states appears plastic. For The Unfinishable Map's framework, this has implications for [[meditation-and-consciousness-modes|meditation]]: if the interface can be reactivated during sleep, the same mechanisms may underlie contemplative development during waking.
 
 ## Contemplative Evidence: Sleep Yoga
 
@@ -125,7 +125,7 @@ Several features resist this reading:
 
 **The contemplative challenge**: Sleep yoga's "awareness without content" would be incoherent if consciousness were merely self-modelling—the model would have nothing to model.
 
-[[filter-theory|Filter theory]] and illusionism make different predictions: illusionism predicts extended investigation reveals the "illusion" as empty; filter theory predicts reduced filtering reveals consciousness more clearly. Contemplative traditions report the latter.
+[[filter-theory|Filter theory]] and illusionism make different predictions: illusionism predicts extended investigation reveals the "illusion" as empty; filter theory predicts reduced filtering reveals consciousness more clearly. Contemplative reports are consistent with the latter, though—as noted above—they remain difficult to verify independently, so their consistency across traditions falls short of confirmation.
 
 ## Relation to Site Perspective
 
@@ -133,9 +133,9 @@ Sleep illuminates each of the Map's [[tenets]]:
 
 **[[tenets#^dualism|Dualism]]**: Identical brain patterns can correlate with presence or absence of experience depending on slow-wave distribution. Memory consolidation involves complex computation yet proceeds without phenomenal accompaniment. This double dissociation—same EEG with different experience, complex processing with no experience—resists identification of consciousness with brain states.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Lucid dreaming exemplifies consciousness operating causally during an offline state. The trainability of lucidity—developing prefrontal metacognition during REM through sustained effort—provides evidence: you cannot train an epiphenomenon.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Lucid dreaming is the case where consciousness would operate causally during an offline state. The epiphenomenalist reads the trainability of lucidity as neuroplasticity: MILD-style induction regimes reshape prefrontal circuits, and the phenomenal accompaniment shifts along with them. The narrower point the Map presses is what initiates the regime—the practitioner's intention to notice, formed before the neural accommodation exists. That consideration is suggestive rather than decisive.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The Map proposes consciousness operates through attention-mediated [[decoherence#Discrete Observation Mechanisms|quantum Zeno selection]]. During NREM, this mechanism disengages; REM partially reengages it; lucid REM represents fuller engagement. This makes testable predictions: lucid dreams should show neural signatures closer to waking attention (which 2025 research confirms).
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The Map proposes consciousness operates through attention-mediated [[decoherence#Discrete Observation Mechanisms|quantum Zeno selection]]. During NREM, this mechanism disengages; REM partially reengages it; lucid REM represents fuller engagement. This makes a testable prediction: lucid dreams should show neural signatures closer to waking attention, which the 2025 findings bear out. That signature is equally predicted by any theory on which metacognition returns during REM, so it is compatible with both interpretations and does not by itself adjudicate between them.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Where is the indexical "I" when consciousness fully withdraws? If consciousness provides [[haecceity|indexical localization]], dreamless sleep may be a state where no selection occurs. Upon waking, you are *this* person who fell asleep. The felt continuity across the sleep gap presupposes a singular "you," consistent with the Map's rejection of many-worlds.
 
