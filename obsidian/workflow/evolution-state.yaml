@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-08T04:53:45.491703+00:00'
-session_count: 20215
+last_updated: '2026-09-08T05:09:18.391606+00:00'
+session_count: 20216
 cycle_position: 13251
 last_runs:
   add-highlight: '2026-09-07T08:08:05.524263+00:00'
@@ -30,7 +30,7 @@ last_runs:
   expand-topic: '2026-09-07T22:30:11.197713+00:00'
   harvest-research-subjects: '2026-09-08T03:16:10.216273+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
-  literature-drift-review: '2026-09-01T13:46:42.778485+00:00'
+  literature-drift-review: '2026-09-08T05:09:18.391606+00:00'
   optimistic-review: '2026-09-07T17:01:18.759712+00:00'
   pessimistic-review: '2026-09-07T14:32:35.752844+00:00'
   positions-evolve: '2026-09-06T20:44:49.811660+00:00'
@@ -42,7 +42,7 @@ last_runs:
   tune-system: '2026-09-08T01:20:47.352049+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-09-08T01:05:09.540681+00:00'
+last_git_push: '2026-09-08T05:09:18.529506+00:00'
 last_tweet_date: '2026-09-07'
 content_stats:
   total_files: 297
@@ -119,11 +119,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-07'
-  outcome: success
-  kind: queue
 - task: embed-videos
   type: embed-videos
   date: '2026-09-07'
@@ -219,6 +214,11 @@ recent_tasks:
   date: '2026-09-08'
   outcome: success
   kind: collect
+- task: literature-drift-review
+  type: literature-drift-review
+  date: '2026-09-08'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - date: '2026-09-01T14:30:11.229498+00:00'
