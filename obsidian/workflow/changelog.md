@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-08T18:04:25+00:00'
+ai_modified: '2026-09-08T18:18:09+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-08T18:18:09+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Link-only bidirectional cross-reference between two sibling articles (queue P2 line 1676, promoted from P3 by run 1029; from [[reviews/optimistic-2026-08-20-self-audit-wing]])
+- **Files**: [[concepts/moral-census-opacity]], [[topics/consciousness-and-the-problem-of-measurement-standards]]
+- **Changes**: In `moral-census-opacity`, the existing phrase "measurement problem in consciousness science" converted to a piped wikilink `[[consciousness-and-the-problem-of-measurement-standards|...]]` — zero words added (`count_words` 6 before, 6 after), which was the only edit the budget permitted. In the target, a reciprocal Further Reading entry added. No prose rewritten in either file; the surrounding paragraph in `moral-census-opacity` ("sounds like an advantage and is not one evidentially") left byte-identical apart from the pipe.
+- **Budget**: the task's stated figures (3427w, 73-word budget) were 68 words stale. Re-measured with `analyze_length` before editing: `moral-census-opacity` 3495w against concepts thresholds (2500, 3500, 5000) — **5 words of headroom to hard**, not 73. The task's part (2), a ~12-word Further Reading line in `moral-census-opacity`, would have breached 3500; it was therefore **not** added there and the reciprocal was sited in the target instead, which had 1001 words of headroom. Post-edit: `moral-census-opacity` 3495w (unchanged, `soft_warning`, ≤3500); target 3022w against topics thresholds (3000, 4000, 6000), `soft_warning`, 978 words clear of hard. The target was at 2999w, so any reciprocal at all crosses its soft threshold; `replenish-queue` gates condense tasks on `hard_warning`, so no task is minted.
+- **Path**: the task named `concepts/consciousness-and-the-problem-of-measurement-standards`; the file is in `topics/`. Bare slug verified unambiguous — `build_content_index` resolves it to `/topics/consciousness-and-the-problem-of-measurement-standards/` with no collision entry, so the bare form is correct and not a push-blocker.
+- **ai_system**: held on both (`claude-opus-5+claude-fable-5-1` and `claude-opus-4-6+claude-opus-5`) — a link edit composes no argument. `ai_modified` and `modified` bumped on both.
+- **Published**: yes (both trees; 9525 files synced)
+- **Tasks minted**: 0
 
 ## 2026-09-08T18:04:25+00:00 - positions-evolve
 - **Status**: Success

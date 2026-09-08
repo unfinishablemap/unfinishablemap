@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-08-22 16:24:25+00:00
+ai_modified: 2026-09-08 18:18:09+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -14,7 +14,7 @@ concepts:
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[dualism]]'
 created: 2026-02-19
-date: &id001 2026-02-19
+date: &id001 2026-09-08
 description: Science requires measurement standards—units, instruments, calibration—for
   its objects. Phenomenal consciousness resists all three, revealing a principled
   limit.
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-21 17:13:46+00:00
-lastmod: 2026-08-22 16:24:25+00:00
+lastmod: 2026-09-08 18:18:09+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
@@ -136,6 +136,7 @@ As the Map explores in [methodology-of-consciousness-research](/topics/methodolo
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/)
 - [the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)
 - [scale-types-for-phenomenal-quantities](/concepts/scale-types-for-phenomenal-quantities/)
+- [moral-census-opacity](/concepts/moral-census-opacity/) — The same structural unreadability applied to the count rather than the quality: how many phenomenal subjects a physical region contains
 
 ## References
 

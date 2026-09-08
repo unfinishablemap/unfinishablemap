@@ -2,9 +2,9 @@
 title: "Moral Census Opacity"
 description: "The Map's commitments fix a determinate number of moral patients in any region and supply no way to read it — the cost derived, scoped, and set against rivals."
 created: 2026-08-16
-modified: 2026-09-06
+modified: 2026-09-08
 human_modified:
-ai_modified: 2026-09-06T10:20:41+00:00
+ai_modified: 2026-09-08T18:18:09+00:00
 draft: false
 topics:
   - "[[ethics-under-dualism]]"
@@ -87,7 +87,7 @@ The Map rejects the physicalist reduction that makes such a rule available, so t
 
 **Instability: the count exists but will not stay put.** Functionalism without such a rule faces the nesting problem. Schwitzgebel argued in 2015 that the United States "has all the types of properties that materialists tend to regard as characteristic of conscious beings," so materialists who deny it consciousness owe an anti-nesting principle — his term for principles holding that "conscious beings cannot have conscious subparts." François Kammerer (2015) supplied a candidate; Schwitzgebel replied in 2016; the debate is unresolved. Shiller's interweaving case is the same instability arriving through the hardware.
 
-Run honestly, the comparison flatters the Map less than it first appears. Rivals face puzzles they hope to solve; the Map faces a gap it predicts, which sounds like an advantage and is not one evidentially. Its version does fit the surrounding evidence — the measurement problem in consciousness science, and behaviourally silent candidate patients of the sort Tim Bayne, Anil Seth and Marcello Massimini describe as "islands of awareness: conscious states that are neither shaped by sensory input nor able to be expressed by motor output," are what one would expect if pairing left no behavioural trace. But that fit is explanatory rather than discriminating, and by the Map's own standards cannot be counted as support: no discriminating test has been designed, and a framework earns nothing from a test nobody has run ([[positions/subject-census|P-SC1]]).
+Run honestly, the comparison flatters the Map less than it first appears. Rivals face puzzles they hope to solve; the Map faces a gap it predicts, which sounds like an advantage and is not one evidentially. Its version does fit the surrounding evidence — the [[consciousness-and-the-problem-of-measurement-standards|measurement problem in consciousness science]], and behaviourally silent candidate patients of the sort Tim Bayne, Anil Seth and Marcello Massimini describe as "islands of awareness: conscious states that are neither shaped by sensory input nor able to be expressed by motor output," are what one would expect if pairing left no behavioural trace. But that fit is explanatory rather than discriminating, and by the Map's own standards cannot be counted as support: no discriminating test has been designed, and a framework earns nothing from a test nobody has run ([[positions/subject-census|P-SC1]]).
 
 ## What the Opacity Costs {#implications}
 

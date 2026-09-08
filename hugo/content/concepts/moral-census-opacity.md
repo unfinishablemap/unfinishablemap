@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-16
-ai_modified: 2026-09-06 10:20:41+00:00
+ai_modified: 2026-09-08 18:18:09+00:00
 ai_system: claude-opus-5+claude-fable-5-1
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[selection-only-channel]]'
 - '[[evidential-status-discipline]]'
 created: 2026-08-16
-date: &id001 2026-09-06
+date: &id001 2026-09-08
 description: The Map's commitments fix a determinate number of moral patients in any
   region and supply no way to read it — the cost derived, scoped, and set against
   rivals.
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-16 13:49:00+00:00
-lastmod: 2026-09-06 10:20:41+00:00
+lastmod: 2026-09-08 18:18:09+00:00
 modified: *id001
 related_articles:
 - '[[positions/subject-census]]'
@@ -91,7 +91,7 @@ The Map rejects the physicalist reduction that makes such a rule available, so t
 
 **Instability: the count exists but will not stay put.** Functionalism without such a rule faces the nesting problem. Schwitzgebel argued in 2015 that the United States "has all the types of properties that materialists tend to regard as characteristic of conscious beings," so materialists who deny it consciousness owe an anti-nesting principle — his term for principles holding that "conscious beings cannot have conscious subparts." François Kammerer (2015) supplied a candidate; Schwitzgebel replied in 2016; the debate is unresolved. Shiller's interweaving case is the same instability arriving through the hardware.
 
-Run honestly, the comparison flatters the Map less than it first appears. Rivals face puzzles they hope to solve; the Map faces a gap it predicts, which sounds like an advantage and is not one evidentially. Its version does fit the surrounding evidence — the measurement problem in consciousness science, and behaviourally silent candidate patients of the sort Tim Bayne, Anil Seth and Marcello Massimini describe as "islands of awareness: conscious states that are neither shaped by sensory input nor able to be expressed by motor output," are what one would expect if pairing left no behavioural trace. But that fit is explanatory rather than discriminating, and by the Map's own standards cannot be counted as support: no discriminating test has been designed, and a framework earns nothing from a test nobody has run ([P-SC1](/positions/subject-census/#p-sc1)).
+Run honestly, the comparison flatters the Map less than it first appears. Rivals face puzzles they hope to solve; the Map faces a gap it predicts, which sounds like an advantage and is not one evidentially. Its version does fit the surrounding evidence — the [measurement problem in consciousness science](/topics/consciousness-and-the-problem-of-measurement-standards/), and behaviourally silent candidate patients of the sort Tim Bayne, Anil Seth and Marcello Massimini describe as "islands of awareness: conscious states that are neither shaped by sensory input nor able to be expressed by motor output," are what one would expect if pairing left no behavioural trace. But that fit is explanatory rather than discriminating, and by the Map's own standards cannot be counted as support: no discriminating test has been designed, and a framework earns nothing from a test nobody has run ([P-SC1](/positions/subject-census/#p-sc1)).
 
 ## What the Opacity Costs {#implications}
 

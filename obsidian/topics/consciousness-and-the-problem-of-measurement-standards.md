@@ -2,9 +2,9 @@
 title: "Consciousness and the Problem of Measurement Standards"
 description: "Science requires measurement standards—units, instruments, calibration—for its objects. Phenomenal consciousness resists all three, revealing a principled limit."
 created: 2026-02-19
-modified: 2026-02-19
+modified: 2026-09-08
 human_modified:
-ai_modified: 2026-08-22T16:24:25+00:00
+ai_modified: 2026-09-08T18:18:09+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -132,6 +132,7 @@ As the Map explores in [[methodology-of-consciousness-research]], science achiev
 - [[observation-and-measurement-void]]
 - [[the-quantitative-comprehension-void]]
 - [[scale-types-for-phenomenal-quantities]]
+- [[moral-census-opacity]] — The same structural unreadability applied to the count rather than the quality: how many phenomenal subjects a physical region contains
 
 ## References
 
