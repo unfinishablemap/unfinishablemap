@@ -1,10 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-08T22:36:39+00:00'
+ai_modified: '2026-09-08T23:19:47+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-08T23:19:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/arguments-against-materialism]]
+- **Original score**: n/a (`scripts/curate.py` does not exist — SKILL.md Step 3 is stale; validated via `scripts/validate.py` instead)
+- **Changes**: Five in-place requalifications where the survey overstated what its own linked detail articles claim. (1) L57 dropped "independently" from the concession-convergence pointer and added the source's caveat that the narrowing is not independent in the sense the coincidence inference requires. (2) L63 installed the cross-traditional source's own limit — the convergence earns irreducibility, not the Map's reading; Buddhist *anattā* and Madhyamaka emptiness dissolve the substantial subject whose unity the survey counts among its independent arguments. (3) L99 "parsimony actually *favours* interactionist dualism" → "at least as parsimonious as physicalism", plus a self-binding clause (Tenet 5 breach: the same paragraph invokes Occam's-limits against the materialist two sentences earlier) and the source's own "only removes a barrier". (4) §The Self-Undermining Problem — hedged the bare premise "Physical causes are not responsive to logical norms", named non-reductive physicalism as the live opponent (Davidson's anomalous monism; Kim's exclusion argument as the engagement route), and downgraded "materialism cannot be *rationally held*" to the detail article's honest verdict: the argument converts the compatibilist reply into a real dilemma rather than dissolving it. (5) L67 named the disruptive cluster inside the existing terminal-lucidity sentence — anaesthesia, brain damage, persistent vegetative state as the mass of evidence establishing the monotonic relationship, accommodated by filter framing as interface degradation rather than generator failure. Optional swaps taken: L119 "rule out" → "tell heavily against" (L123 four lines later concedes conditions "could in principle be met"); L139 "materialist consensus" → "materialist majority" (the article's own L85 figure is ~52%).
+- **Engagement classification**: engagement with the non-reductive physicalist (Davidson, Yablo, Kim) — Mode One; the reply is earned inside the opponent's framework via Kim's exclusion argument, and the residue is declared rather than dressed as refutation ("not a decisive disproof" → "a real dilemma rather than dissolving it"). No mode labels written into article prose.
+- **Altered-state symmetry**: no symmetry section installed and no padding toward `SYMMETRY_ACKNOWLEDGMENT_PATTERNS`. The audit's prior disruptive-cluster pass was false (`disruptive_clusters: ['dementia']` came entirely from `neurodegenerat*`, both occurrences inside the terminal-lucidity sentence and its own caveat, i.e. on the supportive side). After the one-clause fix the scanner reads `disruptive_clusters: ['anaesthesia', 'brain-damage', 'vegetative-state', 'dementia']`; the residual `missing_symmetry_acknowledgment` check remains because L67 already carries the discipline in non-marker words ("a suggestive pattern" of "modest evidential weight", the evidence grade named, deflationary alternatives volunteered).
+- **Length**: 2936 → 3086 words (`ok` → `soft_warning`; topics thresholds 3000/4000/6000 printed live, 914 words of hard headroom). Not condensed elsewhere to buy room, per task instruction.
+- **Not done**: the counting question (the survey defends independence for ~5 of the 9 arguments it counts at L57 while the "remarkable coincidence" inference leans on the headline count) — real finding, structural rewrite, deliberately untasked. No source article edited; no tasks minted.
+- **Published**: yes
 
 ## 2026-09-08T22:36:39+00:00 - coalesce
 - **Status**: Abandoned (no merge — correct outcome for this slot)
