@@ -1,10 +1,10 @@
 ---
 title: "Attention as Interface"
-description: "Attention serves as the interface where consciousness influences the brain. The phenomenal/computational attention distinction, dissociation evidence, neural signatures, and motor convergence support a unified selection mechanism."
+description: "The hypothesis that consciousness acts on the brain through phenomenal attention: the phenomenal/computational distinction, evidence, and what would falsify it."
 created: 2026-01-14
 modified: 2026-03-29
 human_modified: null
-ai_modified: 2026-08-19T18:51:54+00:00
+ai_modified: 2026-09-08T09:22:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -219,7 +219,7 @@ The hypothesis would fail if:
 
 A further limitation surfaces when the channel is examined from inside. The [[relevance-void|relevance void]] names what the interface cannot see of itself: the selection mechanism that decides which items become candidates for attention is structurally inaccessible to the consciousness whose attention it shapes. We experience the outputs of relevance filtering—*these* options as live, *those* as background—without experiencing the filtering. Inspection is itself a relevance-using act and inherits the opacity it tries to dissolve. The channel-as-interface is operating; the channel's selection criteria are not on the channel.
 
-This bounds what the interface hypothesis can claim. Phenomenal attention biases neural competition through the salience-precision channel, but does not author the shortlist consciousness gets to bias. The interface acts on options; the upstream relevance step that constituted them as options remains a void. That opacity is itself evidence for the structural-non-physical reading the Map prefers: a wholly-physical filter ought, in principle, to be inspectable; one whose operation cannot survive being looked at fits the dualist picture of consciousness as something other than the mechanism it engages.
+This bounds what the interface hypothesis can claim. Phenomenal attention biases neural competition through the salience-precision channel, but does not author the shortlist consciousness gets to bias. The interface acts on options; the upstream relevance step that constituted them as options remains a void. That opacity fits the structural-non-physical reading the Map prefers without favouring it. Physicalism predicts the same blankness: on [[attention-schema-theory|Attention Schema Theory]], the hard problem arises because the brain's model of its own attention systematically omits the neural details, making its own basis incomprehensible to introspection. A filter that cannot survive being looked at is what both readings expect, so the void constrains where the interface acts without settling what it is made of.
 
 ## Relation to Site Perspective
 
@@ -227,9 +227,9 @@ This bounds what the interface hypothesis can claim. Phenomenal attention biases
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Attention-mediated selection satisfies the "minimal" constraint—operating at quantum indeterminacies without injecting energy or violating physical laws. Consciousness does not generate force; it biases which accumulating option wins the threshold race.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The interface hypothesis specifies the downward direction. Schwartz's OCD neuroplasticity provides empirical grounding: patients who voluntarily redirect attention produce measurable brain changes. Whatever the mechanism, voluntary attention has physical consequences.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The interface hypothesis specifies the downward direction. Schwartz's OCD neuroplasticity is suggestive rather than grounding: the original PET study had only 18 participants and its metabolic finding has not been replicated by the same method outside the UCLA group, though Nakatani et al. (2003) found the same right-caudate decrease after behaviour therapy in 22 patients, measured by blood flow (see [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]]). Whether attentional effort specifically or behavioural change more broadly carries the causal role remains open.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: The phenomenology of attention *as selection* presupposes genuine alternatives—choosing *this* over *that*. On MWI, both occur. Self-locating explains the *appearance* of efficacy but not the *differential results* of engaged versus passive attention.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The phenomenology of attention *as selection* presupposes genuine alternatives—choosing *this* over *that*. On MWI, both occur. Self-locating explains the *appearance* of efficacy, and the standard indexical reply adds that phenomenology in *this* branch correlates with Born-rule amplitude weight, so differential results between engaged and passive attention have a within-branch physical story. The disagreement with MWI is a tenet commitment honestly noted, not a victory over MWI on its own terms.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Reducing phenomenal attention to computational attention appears parsimonious, but purchases simplicity by denying the datum. The felt character of attention is arguably the most immediately known datum. The interface hypothesis adds complexity but explains what simpler theories cannot: why attention feels effortful and why effortful attention produces neuroplastic results.
 
@@ -287,3 +287,5 @@ This bounds what the interface hypothesis can claim. Phenomenal attention biases
 25. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 
 26. Prinz, J.J. (2012). *The Conscious Brain: How Attention Engenders Experience*. Oxford University Press.
+
+27. Nakatani, E., et al. (2003). Effects of behavior therapy on regional cerebral blood flow in obsessive-compulsive disorder. *Psychiatry Research: Neuroimaging*, 124(2), 113-120. doi:10.1016/s0925-4927(03)00069-6

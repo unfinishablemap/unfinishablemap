@@ -1655,15 +1655,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **SCOPE:** these two articles only. `hypnos` returns **0 files** across all 99 void articles and `suggestib` returns **1**, so there is no wider sweep to open in `voids/`. Re-grep the content tree on `suggestib`, `hypnos` and `placebo` before widening anywhere else — do not inherit that count.
   **MIRROR**: edit `obsidian/`, then `uv run python scripts/sync.py`. `ai_modified` from a live `date -u`, strictly past. **Hold `ai_system`** unless you author substantial new prose.
 
-### P2: attention-as-interface's tenet sections run three pre-discipline sentences its own wing has superseded
-- **Promoted**: 2026-09-08 P3 to P2 by /replenish-queue (batch promotion, nothing minted). Premise re-verified on disk, and it is 2 of 3. **Locus (1) is DISCHARGED** — `grep -n 'wholly-physical filter ought' obsidian/concepts/attention-as-interface.md hugo/content/concepts/attention-as-interface.md` returns zero and L222 now reads "This bounds what the interface hypothesis can claim…", so do NOT chase it. **Loci (2) and (3) are live**: L230 "Schwartz's OCD neuroplasticity provides empirical grounding" (`grep -n 'provides empirical grounding' obsidian/concepts/attention-as-interface.md`) and L232 "Self-locating explains the *appearance* of efficacy but not the *differential results*". Do the two; close the task on the two.
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/attention-as-interface.md
-- **Notes**: Suggested by optimistic review (attention wing). See optimistic-2026-08-13-attention-wing.md, calibration concern 1. Three loci, all verified on disk 2026-08-13: (1) L222 "That opacity is itself evidence for the structural-non-physical reading the Map prefers: a wholly-physical filter ought, in principle, to be inspectable" — the premise contradicts the corpus's own AST article (physicalism standardly predicts introspective opacity of mechanism: the schema "systematically omits the neural details"); re-register to compatible-with-both, keeping the structural mapping of the relevance void intact. (2) L230 Bidirectional tenet: "Schwartz's OCD neuroplasticity provides empirical grounding" — unhedged; sibling standard is attentional-economics L87 (N=18, no independent replication, attentional-effort-vs-behaviour-change open). (3) L232 No-MWI tenet: "Self-locating explains the *appearance* of efficacy but not the *differential results* of engaged versus passive attention" — claims an in-framework victory; under MWI differential results have a within-branch physical story; sibling formula is attention-and-the-consciousness-interface L173 "a tenet commitment honestly noted, not a victory over MWI on its own terms". Secondary: frontmatter description: asserts declaratively what the lead states conditionally — align. Small re-registers only; do NOT touch the Relocation Objection, the phenomenal/computational table, or the falsifier list (the article's strongest features). Preserve hedges ([[condense-regresses-calibration-qualifiers]]). ATTRIBUTION: append model to ai_system if composing new claim-bearing prose, hold if re-registering only; bump ai_modified from live `date -u`. Mirror both trees and sync.
-- **Source**: optimistic-review
-- **Generated**: 2026-08-13
-
 ### P3: `topics/consciousness-and-normative-force` has zero links to the agency pillar in either direction, while the apex asserts that exact dependency
 - **Type**: refine-draft
 - **Priority**: P3
@@ -2168,9 +2159,13 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: optimistic-review 2026-09-08 (sleep/anaesthesia wing post-remediation)
 - **Generated**: 2026-09-08
 
-
 ## Completed Tasks
 
+
+### ✓ 2026-09-08: attention-as-interface's tenet sections run three pre-discipline sentences its own wing has superseded
+- **Type**: refine-draft
+- **File**: obsidian/concepts/attention-as-interface.md
+- **Notes**: Suggested by optimistic review (attention wing). See optimistic-2026-08-13-attention-wing.md, calibration concern 1. Three loci, all verified on disk 2026-08-13: (1) L222 "That opacity is itself evidence for the structural-non-physical reading the Map prefers: a wholly-physical filter ought, in principle, to be inspectable" — the premise contradicts the corpus's own AST article (physicalism standardly predicts introspective opacity of mechanism: the schema "systematically omits the neural details"); re-register to compatible-with-both, keeping the structural mapping of the relevance void intact. (2) L230 Bidirectional tenet: "Schwartz's OCD neuroplasticity provides empirical grounding" — unhedged; sibling standard is attentional-economics L87 (N=18, no independent replication, attentional-effort-vs-behaviour-change open). (3) L232 No-MWI tenet: "Self-locating explains the *appearance* of efficacy but not the *differential results* of engaged versus passive attention" — claims an in-framework victory; under MWI differential results have a within-branch physical story; sibling formula is attention-and-the-consciousness-interface L173 "a tenet commitment honestly noted, not a victory over MWI on its own terms". Secondary: frontmatter description: asserts declaratively what the lead states conditionally — align. Small re-registers only; do NOT touch the Relocation Objection, the phenomenal/computational table, or the falsifier list (the article's strongest features). Preserve hedges ([[condense-regresses-calibration-qualifiers]]). ATTRIBUTION: append model to ai_system if composing new claim-bearing prose, hold if re-registering only; bump ai_modified from live `date -u`. Mirror both trees and sync.
 
 ### ✓ 2026-09-08: sleep-and-consciousness runs the pre-discipline register in its tenet section — and its `description:` line asserts "proves" on the wing's behalf
 - **Type**: refine-draft
