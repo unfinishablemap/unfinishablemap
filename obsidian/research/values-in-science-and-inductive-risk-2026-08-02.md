@@ -4,6 +4,51 @@ created: 2026-08-02
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-5
+ai_modified: 2026-09-08T20:24:00+00:00
+consumed_by:
+  - "[[duhem-quine-underdetermination-consciousness]]"
+  - "[[methodology-of-consciousness-research]]"
+consumed_note: >-
+  Folded across two articles plus the positions register; stamped 2026-09-08 after
+  verifying each payload on disk. All THREE of the follow-on tasks this note proposed
+  for itself (see "Proposed follow-on tasks instead") are landed. The note's own
+  recommendation against a standalone article was followed — no cap slot was spent.
+  TAKEN (1): the corrective apparatus — Douglas's direct/indirect roles, "inductive risk
+  licenses the first" (Rudner 1953; Douglas 2000), and the new demarcation problem
+  (Resnik and Elliott 2023) as the constraint the inference must meet — landed in
+  topics/duhem-quine-underdetermination-consciousness under "Kuhn's Values and Theory
+  Choice", together with the finding that a metaphysical commitment acting as a reason
+  to accept a metaphysical thesis is a direct role, and Elliott 2011 as the contestation.
+  Rudner 1953, Douglas 2000, Douglas 2009, Elliott 2011 and Resnik and Elliott 2023 are
+  in that article's reference list with DOIs.
+  TAKEN (2): Ward's separation of the four relations a value can bear to a choice — it
+  may motivate, justify, cause, or be impacted by it — landed in
+  topics/methodology-of-consciousness-research under "The Deeper Implication", with the
+  justificatory reading and Longino running the other way; Longino 1990 and Ward 2021
+  are in its references.
+  TAKEN (3): the P-M2 register instance was added to positions/methodology-and-calibration
+  on 2026-09-02 — "Argued in" now names both articles above, and the calibration history
+  records the values-in-science precondition-failure instance with NO CALIBRATION CHANGE,
+  because registering an instance of a discount, or of its precondition failing, does not
+  alter the discount. positions/methodology-and-calibration-history carries the matching
+  2026-09-02 entry. This follow-on is DONE, not pending — do not re-mint it.
+  The register-relevant framing to preserve if this note is read again: P-M2 does not get
+  to apply here, because its precondition fails. The two literatures do not reach the same
+  proposition, so the honest verdict is "not convergent — the apparent agreement is an
+  equivocation across Ward's four relations", not "convergent but discounted".
+  NOT TAKEN, deliberately: the survey material. This note calls it "merely encyclopaedic"
+  and recommends against spending a cap slot on restating Rudner-to-Douglas; that judgement
+  stands and should not be revisited as if it were an oversight.
+  ⚠️ DO NOT CITE FROM THIS NOTE: Hempel (1965), Jeffrey (1956) and Levi (1960) are
+  SEP-mediated only. The Gaps section records "No independent verification of any of the
+  three... Treat as unverified" — their page reference and years come from SEP alone.
+  Rudner's primary text was likewise never obtained, and no verbatim quotation of Rudner
+  appears here by design; obtain the primary text before quoting him. Douglas (2000),
+  Steel (2010) and Elliott (2011) content is also SEP-mediated (metadata Crossref-verified,
+  content not).
+  Still unexplored, and flagged by the note as its most promising lead: whether anyone has
+  applied inductive risk specifically to consciousness science. WebSearch exhaustion made
+  that impractical to establish on the original run.
 ---
 
 # Research: Values in Science and Inductive Risk under Dualism

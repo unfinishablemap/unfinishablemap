@@ -1,20 +1,62 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-06
-ai_modified: 2026-08-06 12:33:00+00:00
+ai_modified: 2026-09-08 20:24:00+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
 - '[[african-philosophy-of-consciousness]]'
 - '[[cross-cultural-convergence-on-mental-causation]]'
 - '[[panpsychism]]'
+consumed_by: '[[african-philosophy-of-consciousness]]'
+consumed_note: 'Folded PARTIALLY into concepts/african-philosophy-of-consciousness;
+  stamped 2026-09-08 after verifying each payload on disk. The note''s own recommendation
+  — refinement rather than a new article — was followed, so no cap slot was spent.
+  Of the five sequenced refinements the note proposed, steps 1 and 2 (the two it called
+  "the ones that matter philosophically") are landed, step 3 is partial, and steps
+  4 and 5 are not done. TAKEN (step 1): the unanimist fallacy is now named. The Hountondji-Wiredu
+  paragraph states that the criticism also reaches the Map, that Unanimism is on the
+  standard reading the founding error of ethnophilosophy, and that counting Bantu,
+  Akan, Yoruba and Zulu as separate votes for irreducibility performs that operation
+  — with the note''s own remedy, that what survives is a count of named philosophers
+  disagreeing with one another. TAKEN (step 2): Agada''s consolationism is recorded
+  as proto-panpsychist neutral monism leaning idealist, a position the dualism tenet
+  excludes. Agada 2020 (Philosophia Africana) and Agada 2021 (Consolationism, Routledge)
+  are in the article''s references. ALSO TAKEN: the Majeed material — Majeed pressing
+  the quasi-physicalist point that the view is a physicalist in disguise, and Majeed
+  2013 defending the spiritual construal against it. Majeed 2013 (African Studies
+  Quarterly 14(1-2), 23-34) is in the references. PARTIAL (step 3): the Ubuntu dissent
+  paragraph now cites Chisale 2018 and Matolino and Kwindingwi''s "The end of ubuntu"
+  (2013) as having opened a twelve-year exchange, but the chain''s intermediate legs
+  (Metz 2014, Matolino 2015, Chimakonam 2016, Koenane and Olatunji 2017) and its terminus
+  are not cited, and the Molefe perfectionist reading is absent. NOT DONE (steps 4
+  and 5): the Yoruba materialist dissent was never added, and the references were
+  never refreshed. Verified two independent ways — six candidate author greps return
+  zero, and, structurally, the article''s reference list stops at 2021 with nothing
+  post-2021 cited at all. Metz is therefore still cited from 2007 alone, which was
+  the specific defect an outer reviewer flagged. GENUINELY UNSPENT, safe to draw on:
+  Wijsen et al. (2022), Beyond Bantu Philosophy (Routledge); Molefe and Muade (2025),
+  Arụmarụka 4(2), 82-105 (grade B, abstract read in full — the agent-centred perfectionist
+  counterweight); the 13 chapters of the 2023 Springer volume Conversations on African
+  Philosophy of Mind, Consciousness and Artificial Intelligence (grade C, metadata
+  verified at Crossref but content unread — this note''s own highest-value remaining
+  target, especially the Agada and Balogun chapters); Molefe (2020), Springer; Adefarakan
+  (2015) (grade E, content unread). ⚠️ NOT a candidate — do not follow it up: Agada
+  (2022) in Religious Studies. This note disqualifies it in its own finding as not
+  a philosophy-of-mind source, so advertising it would send a consumer to a dead end.
+  ⚠️ Two claims must not be asserted from this note: Gade''s substantive thesis that
+  the ubuntu-as-worldview reading is a late construction with the umuntu ngumuntu
+  ngabantu proverb tied to ubuntu only in the mid-1990s was NOT verified (only the
+  existence of the study was), and Balogun''s conclusion in the Yoruba materialism
+  chapter is unknown and must not be guessed from the title''s "A Critique". Cite
+  that chapter only as evidence that a live materialist reading exists.'
 created: 2026-08-06
 date: &id001 2026-08-06
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-08-06 12:33:00+00:00
+lastmod: 2026-09-08 20:24:00+00:00
 modified: *id001
 related_articles:
 - '[[african-philosophy-of-consciousness]]'

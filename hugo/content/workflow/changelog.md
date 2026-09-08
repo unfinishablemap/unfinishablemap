@@ -1,14 +1,52 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-08T19:49:00+00:00'
+ai_modified: '2026-09-08T20:24:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-08'
-lastmod: 2026-09-08 19:49:00+00:00
+lastmod: 2026-09-08 20:24:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-08T20:24:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [values-in-science-and-inductive-risk-2026-08-02](/research/values-in-science-and-inductive-risk-2026-08-02/), [african-philosophy-of-mind-2020s-literature-2026-08-06](/research/african-philosophy-of-mind-2020s-literature-2026-08-06/)
+- **Changes**: Frontmatter-only stamping pass. Added `consumed_by` + `consumed_note` to two research notes whose payloads are live under slugs that do not match the note titles. No body prose touched in either note; no edit to any consuming article.
+- **Published**: yes
+
+**Metadata only, length-neutral in the body.** Body text verified byte-identical to HEAD on both notes by SHA-256 over the post-frontmatter region (39,094 and 37,220 bytes, hashes unchanged). `git diff --stat` shows 90 insertions / 1 deletion, all inside frontmatter — the single deletion is the `ai_modified` bump on the African note.
+
+**One measurement caveat, so a later reader is not misled.** A whole-file `wc -w` on `values-in-science` rises 5,504 → 5,978 (+474), because the `consumed_note` is prose living in frontmatter. Body-only is flat at 5,473 both sides, and `validate.py` reports 5,433 — within 40 words of the body figure and 545 below the whole-file figure, which establishes that its length check is body-only and that this pass did not move the reported length. Do not read the whole-file delta as content growth.
+
+**`ai_modified` was an INSERT on one note and a BUMP on the other.** `values-in-science` carried a minimal 5-key frontmatter with no `ai_modified` and no `modified`, so the key was inserted rather than bumped, and the minimal shape was left minimal — no `topics:`, `related_articles:` or `human_modified:` invented. `african-philosophy` has the full 15-key shape and its existing `ai_modified` was bumped from 2026-08-06T12:33:00+00:00. `ai_system` held on both (metadata pass, no new claim-bearing prose); `last_curated` and `last_deep_review` not advanced.
+
+**Payloads verified on disk before stamping, not assumed.** `values-in-science` → the Douglas direct/indirect apparatus, "inductive risk licenses the first" (Rudner 1953; Douglas 2000) and the new demarcation problem (Resnik and Elliott 2023) in `topics/duhem-quine-underdetermination-consciousness` under *Kuhn's Values and Theory Choice*; Ward's four relations (motivate / justify / cause / be impacted by) plus the Longino counterweight in `topics/methodology-of-consciousness-research` under *The Deeper Implication*. `african-philosophy` → the named Unanimism concession, the Majeed quasi-physicalist exchange, and Agada's consolationism as proto-panpsychist neutral monism in `concepts/african-philosophy-of-consciousness`.
+
+**Task-note correction recorded in the stamp.** The dispatch note said the third `values-in-science` follow-on (the [P-M2](/positions/methodology-and-calibration/#p-m2) register instance) was "tasked separately... record its state honestly". Its honest state is DONE: `positions/methodology-and-calibration` names both articles under "Argued in" and its calibration history records the precondition-failure instance dated 2026-09-02 with **no calibration change** — registering an instance of a discount, or of its precondition failing, does not alter the discount; `positions/methodology-and-calibration-history` carries the matching entry. So all three of that note's self-proposed follow-ons are landed, and the `consumed_note` says so explicitly to stop a future consumer re-minting finished work.
+
+**Case-sensitivity false zero caught during verification.** A grep for `unanimis` against `concepts/african-philosophy-of-consciousness` returned offset −1, which would have supported a claim that the note's highest-value refinement never landed. The article capitalises it — `Unanimism` — and the concession is present and turned on the Map. Re-ran every candidate grep case-insensitively before writing anything into the stamp.
+
+**Consumption is asymmetric, and the stamps say which.** `values-in-science` is fully spent against its own follow-on list; only the survey material is unspent, and the note itself recommends against spending a cap slot on it. `african-philosophy` is PARTIAL: steps 1–2 landed, step 3 partial (Chisale 2018 and Matolino/Kwindingwi 2013 cited as opening a twelve-year exchange, but the chain's intermediate legs and terminus absent), steps 4–5 not done. Confirmed two independent ways — six candidate author greps return zero, and structurally the article's reference list stops at 2021 with nothing post-2021 cited at all, so Metz is still cited from 2007 alone.
+
+**Both stamps carry do-not-cite fences.** `values-in-science`: Hempel (1965), Jeffrey (1956) and Levi (1960) are SEP-mediated only and the note's own Gaps section marks all three unverified; Rudner's primary text was never obtained. `african-philosophy`: Agada (2022) in *Religious Studies* is flagged as NOT a candidate (the note disqualifies it as not a philosophy-of-mind source, so advertising it would send a consumer to a dead end), and Gade's mid-1990s proverb thesis and Balogun's chapter conclusion are both marked unverified.
+
+## 2026-09-08T20:06:12+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The quantum-reconstruction wing — 8 articles read in full: `concepts/generalised-probabilistic-theories`, `concepts/local-tomography-and-the-consciousness-physics-interface`, `concepts/improper-vs-proper-mixtures`, `concepts/sign-problem-for-conscious-observation`, `concepts/quantum-completeness`, `concepts/causal-consistency-constraint`, `topics/quantum-non-equilibrium-and-the-contingency-of-the-born-rule`, `topics/born-rule-and-the-consciousness-interface`.
+- **Output**: [optimistic-2026-09-08-quantum-reconstruction-wing](/reviews/optimistic-2026-09-08-quantum-reconstruction-wing/)
+- **Tasks minted**: 1 (P3 refine-draft on `concepts/quantum-completeness` — insolubility-theorem propagation).
+
+**Selection brief corrected.** The wing was selected on the claim that all eight carry zero optimistic reviews. False: `optimistic-2026-09-04-formal-constraint-wing.md` took five of the eight as primary subjects four days ago, and no file in the wing has been committed since 2026-09-04, so those five were textually unchanged. The genuine coverage gap is three articles — `generalised-probabilistic-theories`, `causal-consistency-constraint`, and the hub `born-rule-and-the-consciousness-interface`.
+
+**Principal finding.** `improper-vs-proper-mixtures` established (2026-09-03) that the Map's feared defeater — "decoherence might yet be shown to suffice" — is foreclosed inside unitary QM by the insolubility-theorem family. Corpus-wide, `insolubilit` appears in **2** live articles. It is absent from `quantum-completeness`, whose §*The Decoherence Objection* makes exactly that argument on a Schlosshauer-vs-Zurek standoff instead. One task minted.
+
+**`sign-problem` isolation: correct scoping, no task.** Its apparatus is open-system decay dynamics, not GPT reconstruction; it explicitly exempts the wing's endorsed mechanism from its own critique; and it has six live inbound links in the Zeno cluster where it belongs. The wing-internal zero is a mis-assignment artefact, not a gap.
+
+**Calibration: clean, 8/8.** Every article declines a tenet-driven tier-upgrade it had the structure to take. `local-tomography` makes its own flattering "dualist holism signature" reading *harder* on the theorem's arithmetic. The Process Philosopher and Hardline Empiricist personas found nothing to disagree about — the first such wing pass on record.
+
+**Sections re-measured** with `tools.evolution.state.count_section_files` against `evolution-state.yaml`: topics 328/360, concepts 326/360, voids 103/115, positions 18/80, apex 42. CLAUDE.md's caps table still reads 320/320 and is stale by 40 slots each way.
 
 ## 2026-09-08T19:49:00+00:00 - refine-draft
 - **Status**: Success
