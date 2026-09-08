@@ -5,6 +5,39 @@ ai_modified: '2026-09-08T01:20:33.145357+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-08T13:06:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[positions/value-in-selection-calibration-history]] — L57 provenance pointer only; no band, no position, no register file touched
+- **Word count** (positions soft 1500 / hard 2500 / critical 4000, printed from `THRESHOLDS`, measured with `analyze_length`): 3345 → **3344 (−1)**. `hard_warning` before and after; **844 words over hard** after the pass. Net-negative, as the length position demanded.
+- **Changes**: the one wrong provenance pointer retargeted from `changelog-2026-W22.md` L2531 to **L2418**, cited by string as well as line so a reflow cannot strand it. Nothing else in the note altered.
+- **Published**: yes
+
+### The pointer was off by two lines *within the correct entry*, not pointing at an unrelated one
+
+The task described the pointer as landing "on a decoherence-arithmetic entry". More precisely: W22 **L2526–2535 is one entry** (`2026-05-28T22:00:00+00:00 - deep-review`, [[concepts/interface-friction]]). L2531 is its *critical-issues* bullet (the decoherence "thirteen orders" → twelve re-derivation); **L2533 of the same entry does record a Zheng & Meister year fix** — "Zheng & Meister 2025 *Neuron* 113(2):192–204 ✓ (year fixed)". So whoever wrote the pointer found the right entry and cited the wrong bullet. The provenance was never invented, which matters because two other live records repeat the L2531 form (below).
+
+### Why L2418 and not the task's suggested L182 / L1551
+
+The task proposed pointing at L182 (the original fabricated-"Meister 2024 PNAS" metadata fix) and L1551 (a live-verify pass). Both exist and are relevant; neither is the adjudication of record. **W22 L2416–2434 is a dedicated multi-file normalization entry** — "MULTI-FILE citation normalization — Zheng & Meister (2025), *Neuron*, 113(2), 192–204", 14 files edited — whose **L2418** states the canonical form *with the same online-first-versus-print reasoning the note makes inline*: "(online-first Dec 2024, print Jan 2025; DOI 10.1016/j.neuron.2024.11.008)". Its L2434 records the post-edit corpus grep ("zero residual 'Zheng & Meister 2024' in-text/ref labels"). One pointer at the entry that settled the form for 14 files at once is both more accurate than two and cheaper in words, which the file's 845-word overhang required. Corroboration that this is the right target: `workflow/archive/completed-tasks-2026-W36.md` **L321** already pairs the two, naming "L2418 recording the canonical form glossed '(online-first Dec 2024, print Jan 2025)'".
+
+### Dropping the pointer was defensible and was declined
+
+Option (b) — drop the pointer, let the inline Crossref facts stand — would have been −3 words rather than −1, and the reasoning is recorded twice outside this file (`completed-tasks-2026-W36.md` L321 carries fuller sourcing, including the `created` 2024-12-17 / `firstPub` / `epubdate` triangulation the changelogs lack). It was declined on the paragraph's own stated purpose: the note exists "so that a future reviewer's identical finding matches **the record** rather than reopening" it, and an external pointer is what makes it match a record rather than merely restate facts. Decisive consideration: **L2531 has propagated to three other live loci** — [[reviews/outer-review-2026-09-04-claude-opus-5]] L165, `workflow/archive/changelog-2026-W36.md` L1444, `workflow/archive/completed-tasks-2026-W36.md` L321 (plus their Hugo mirrors). Dropping the pointer here would have left the corpus with three wrong pointers and no right one. Those three are **deliberately not edited**: reviews/ and workflow/archive/ are records of what was written at the time, and hits confined to those trees are echo, not defect.
+
+### Word-cost mechanics
+
+`count_words` strips inline code, so the retarget was made to pay for itself rather than cost: the line number and the bullet's string anchor sit inside one code span (`changelog-2026-W22.md L2418 — Canonical form applied`) and "Adjudicated at" tightened to "Adjudicated:". Before: *"Adjudicated at `workflow/archive/changelog-2026-W22.md` L2531."* After: *"Adjudicated: `workflow/archive/changelog-2026-W22.md L2418 — Canonical form applied`."* The "off by two within the same entry" diagnosis is recorded here rather than in the note, because at 844 words over hard the article body cannot afford editor-internal commentary.
+
+### Untouched, verified
+
+`ai_system` **held** at `claude-fable-5+claude-opus-5` — a pointer correction is not authoring. No new Crossref lookup was made; the note's inline facts (published-print 2025-01, *Neuron* 113(2) 192–204, `created` 2024-12-17, PMID 39694032, the Elsevier acceptance-year-minting argument, the 2024-with-113(2) internal-inconsistency argument) are **byte-identical** — `git diff --word-diff` shows exactly two changed runs in the file, the `ai_modified` stamp and the pointer sentence. `L2531` now returns **−1** in both trees' copies of the sidecar. Neither [[positions/value-in-selection]] (two open positions-evolve tasks of its own) nor the sidecar's self-declared "a split will be due" (the open NEEDS-HUMAN on `positions/` inheriting article thresholds) was touched.
+
+### Incidental sync propagation
+
+`scripts/sync.py` also carried a **pre-existing** obsidian-only change into `hugo/content/workflow/todo.md` — an earlier pass marked the `phenomenal-quality-void`/`binding-void` task ✓ in `obsidian/workflow/todo.md` and committed without syncing. Not this task's edit; the Hugo mirror was simply stale and is now current.
+
+---
+
 ## 2026-09-08T12:51:48+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/phenomenal-quality-void]] **and** [[voids/binding-void]] — two-file task, both edited
