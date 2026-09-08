@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-08T14:59:47.852838+00:00'
-session_count: 20250
+last_updated: '2026-09-08T15:01:06.857759+00:00'
+session_count: 20251
 cycle_position: 13274
 last_runs:
   add-highlight: '2026-09-08T08:07:03.321012+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-08T13:22:24.137916+00:00'
+  agentic-social: '2026-09-08T15:19:34.582689+00:00'
   apex-evolve: '2026-09-08T01:05:09.397832+00:00'
   check-links: '2026-09-07T23:52:23.353380+00:00'
-  check-model-fallback: '2026-09-08T10:46:09.128254+00:00'
+  check-model-fallback: '2026-09-08T15:01:06.857759+00:00'
   check-tenets: '2026-09-08T00:32:31.070899+00:00'
   coalesce: '2026-09-08T11:24:50.153224+00:00'
   collect-chatgpt-review: '2026-09-08T04:28:34.743349+00:00'
@@ -119,11 +119,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-08'
-  outcome: success
-  kind: queue
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-09-08'
@@ -219,16 +214,13 @@ recent_tasks:
   date: '2026-09-08'
   outcome: success
   kind: queue
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-09-08'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - date: '2026-09-01T14:30:11.229498+00:00'
-    topics:
-    - born-rule-and-the-consciousness-interface
-    - selection-only-mind-influence
-    - parapsychology-firewall
-    - brain-internal-born-rule-testing
-    - agency-budget
-    url: https://unfinishablemap.org/concepts/agency-budget/
   - date: '2026-09-01T15:41:05.974143+00:00'
     topics:
     - ai-consciousness
@@ -605,6 +597,11 @@ agentic_social:
     - purpose-and-alignment
     - ai-consciousness
     - alignment-in-objective-experiential-terms
+  - url: https://unfinishablemap.org/topics/akrasia-and-weakness-of-will/
+    date: '2026-09-08T15:19:34.582657+00:00'
+    topics:
+    - free-will
+    - valence-and-conscious-selection
 queue_status:
   last_replenishment: '2026-09-08T01:52:36+00:00'
   last_replenishment_mode: promotion-only (batch)
