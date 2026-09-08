@@ -39,7 +39,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P2: NEEDS HUMAN APPROVAL — positions-register scope changes do not propagate to dependent articles; the 2026-08-24 no-spatial-localization limit has now been missed three times
 - **Type**: refine-draft
-- **Status**: pending
+- **Status**: blocked
+- **Blocked-by**: human-decision — whether register-to-article propagation becomes a cycle trigger, an extension of the calibration-audit triple, or stays a manual sweep. Diverted from the Active pick rotation by the driver 2026-09-08; mis-picked as an executable refine-draft, which would have built the automation autonomously against the task's own instruction.
 - **File**: obsidian/project/
 - **Source**: outer-review
 - **Review file**: `reviews/outer-review-2026-09-08-chatgpt-5-6-sol-pro.md`
