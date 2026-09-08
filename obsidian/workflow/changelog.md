@@ -5,6 +5,19 @@ ai_modified: '2026-09-08T01:20:33.145357+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-08T04:25:38+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`), commissioned 2026-09-08 02:05 UTC, collected at 131 min
+- **File**: [[reviews/outer-review-2026-09-08-chatgpt-5-6-sol-pro]]
+- **Subject**: `recent` / `fallback:recent-aged` — [[locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply]]. This was the leg that *chose* today's subject; the Claude and Gemini legs reuse it.
+- **Extraction**: page-side Blob download, SHA-256 verified end-to-end (`298d55e2…942b153b`, 31,833 bytes). Nothing retyped.
+- **Claims verified**: 6 quoted spans grep-checked against the target article (all verify, **zero fabricated quotes**) + 9 DOIs checked at Crossref with all fields printed (**all real, zero wrong first authors**). The prior single-article referee run returned 3/5 wrong first authors; the corrective instruction added to the commission prompt appears to have worked.
+- **High-value findings**: 1 (the positions-register conflict) + 3 accepted secondary + 3 reframed + 1 refuted
+- **Headline finding**: the article asserts a neuroanatomical grain for Tenet 3 and runs a speech-neuroprosthesis bypass argument — the exact move `positions/quantum-interface` ruled out with its "no spatial localization" scope limit on **2026-08-24**, three days before the article's 2026-08-27 revision and deep review. Third recorded instance of that premise leaking into an article, and the only one that postdates the limit.
+- **Adjudicated down**: the recommended **retitle** was rejected (the existing title's "where filter-loosening does not apply" already *is* the scope-exclusion reading the reviewer's own fallback remedy asks for, and a retitle would change the slug); the **BCI over-claim** charge was reframed (the article already hedges with "*appears to be* a fully formed intent-to-act signal"); the **locked-in/CMD "opposites"** charge was largely self-refuted by the article's own §Not the Detection Problem. One charge fully **refuted** and not minted — that the article presents the case as confirming dualism, which §The Honest Ledger explicitly denies and the reviewer conceded twice.
+- **Not minted by design**: five site-methodology process proposals (claim–source entailment ledger, anatomy-to-metaphysics gate, universal-term linting, proposition-level citation verification, filter/interface falsification protocol) — recorded in the review's Verification Notes, flagged rather than auto-built.
+- **Tasks generated**: 2 (P1: 1 consolidated refine-draft on the target article; P2: 1 NEEDS-HUMAN methodology note on positions-register dependency propagation)
+
 ## 2026-09-08T03:44:16+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/the-ownerless-suffering-argument]]
