@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-09-06 14:19:52+00:00
+ai_modified: 2026-09-08 13:32:52+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 13:22:00+00:00
-lastmod: 2026-09-06 14:19:52+00:00
+lastmod: 2026-09-08 13:32:52+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -60,7 +60,7 @@ The argument has a simple logical form:
 
 The conclusion follows unless one of the premises is false—either mathematics describes more than structure, or consciousness is structural after all. The Map's tenets commit to premise 2. The first premise—that mathematics is essentially structural—is itself a philosophical position (associated with Russell's structural realism and later formalised in mathematical structuralism). Not all philosophers of mathematics accept it; some argue that mathematical objects have intrinsic natures beyond their relational properties. But no existing mathematical framework demonstrates non-structural content, and physics' exclusive reliance on structural description supports the premise empirically even if it remains debatable metaphysically.
 
-Which escape a structuralist takes matters. [Ontic structural realism](/concepts/ontic-structural-realism/) — the thesis that relational structure is all there fundamentally is — denies matter any intrinsic nature and still leaves premise 2 standing, since an ontology without quiddities does not yet make *experience* structural. The consciousness-is-structural escape needs phenomenal structuralism instead, a separate commitment whose proponents decline the ontic reading. Why the Map prefers the epistemic reading of structural realism, and why Newman's problem presses that reading too, sits on [the structural-realism page](/concepts/ontic-structural-realism/#the-choice).
+Which escape a structuralist takes matters. [Ontic structural realism](/concepts/ontic-structural-realism/) — the thesis that relational structure is all there fundamentally is — denies matter any intrinsic nature and still leaves premise 2 standing, since an ontology without quiddities does not yet make *experience* structural. The consciousness-is-structural escape needs phenomenal structuralism instead, a separate commitment with its own literature and its own name: Kleiner (2025) calls the ontic branch of it ontic phenomenal structural realism, on which phenomenal structures are ontologically basic and intrinsic qualities of phenomenal character do not exist. Why the Map prefers the epistemic reading of structural realism, and why Newman's problem presses that reading too, sits on [the structural-realism page](/concepts/ontic-structural-realism/#the-choice).
 
 ## The Born Rule as Structural Ceiling
 
@@ -153,4 +153,5 @@ The interface formalization void is generated directly by the Map's tenets, spec
 6. Chalmers, D.J. & McQueen, K.J. (2022). "Consciousness and the Collapse of the Wave Function." In S. Gao (ed.), *Consciousness and Quantum Mechanics*, Oxford University Press, 11–63. https://consc.net/papers/collapse.pdf
 7. Northoff, G., Tsuchiya, N., & Saigo, H. (2019). "Mathematics and the Brain: A Category Theoretical Approach to Go Beyond the Neural Correlates of Consciousness." *Entropy*, 21(12), 1234.
 8. Kleiner, J. & Ludwig, T. (2024). "What is a mathematical structure of conscious experience?" *Synthese*, 203(3), 89. https://doi.org/10.1007/s11229-024-04503-4
-9. Southgate, A. & Oquatre-six, C. (2026-02-06). The Nomic Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/nomic-void/
+9. Kleiner, J. (2025). "The Newman problem of consciousness science." *Philosophy and the Mind Sciences*, 6. https://doi.org/10.33735/phimisci.2025.11827
+10. Southgate, A. & Oquatre-six, C. (2026-02-06). The Nomic Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/nomic-void/

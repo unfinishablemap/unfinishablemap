@@ -4,7 +4,7 @@ description: "A human+AI consolidation of why Locke's primary/secondary-quality 
 created: 2026-06-18
 modified: 2026-06-18
 human_modified:
-ai_modified: 2026-09-07T12:53:11+00:00
+ai_modified: 2026-09-08T13:32:52+00:00
 draft: false
 topics:
   - "[[emergence-as-universal-hard-problem]]"
@@ -76,7 +76,7 @@ One position slips the charge. The stipulation diagnosis assumes a residue the c
 
 Against that position the Map argues on other ground, chiefly Newman's problem — and the ground is narrower than parity. Newman's 1928 objection to Russell was that structure alone fixes little more than cardinality, so a purely structural claim is either trivially satisfied or must import a non-structural fact about which relations are the real ones; Demopoulos and Friedman revived it in 1985 and drew the sharper consequence, that on a structure-only account almost nothing beyond cardinality is open to discovery. The objection was raised against *epistemic* structuralism, which is the Map's own commitment, and the Map cannot press it as though it were exempt. What it yields is an asymmetry in available replies rather than a refutation: the epistemic structural realist can locate the individuator in the nature beneath the structure, whereas the ontic reading, having denied any such nature, must find one inside structure or do without. That is a reply, and it leaves the Map owing an account of its own individuator that it does not have. [[ontic-structural-realism#newman|The structural-realism article]] sets the exchange out in full.
 
-Two cautions travel with the pointer. That strongest reading is a composite the Map assembles rather than a view defended in print: ontic structural realism is a thesis about the ontology of physics, and the philosophers who hold structuralism about *phenomenal* character decline the ontic reading. And what it would remove is this defensive argument, not the dualist conclusion — an ontology with no quiddities in matter leaves open whether experience is exhausted by structure.
+Two cautions travel with the pointer. The strongest reading is a composite the Map assembles, but only the joining is unpublished: ontic structural realism is a thesis about the ontology of physics, and no OSR theorist carries it across to experience. The ontic claim about *phenomenal* character has its own literature and its own name. Kleiner (2025) transposes the epistemic/ontic fork onto the phenomenal and calls the second branch ontic phenomenal structural realism, on which "phenomenal structures are ontologically basic: non-structural features of phenomenal character, such as intrinsic qualities, do not in fact exist" — he coins the taxonomy in the course of an argument about Newman's problem rather than declaring an allegiance, and it is Loorits who asserts the metaphysics outright. What the Map supplies is the join between the two theses, not either thesis. And what the composite would remove is this defensive argument, not the dualist conclusion — an ontology with no quiddities in matter leaves open whether experience is exhausted by structure.
 
 ## Relation to Site Perspective
 
@@ -107,12 +107,16 @@ This article connects to two of the Map's [[tenets]] at calibrated strength.
 
 4. Galilei, G. (1623/1957). *The Assayer*. Trans. S. Drake. In *Discoveries and Opinions of Galileo*. Doubleday.
 
-5. Locke, J. (1689/1975). *An Essay Concerning Human Understanding*. Ed. P. H. Nidditch. Clarendon Press. (Book II, Chapter VIII.)
+5. Kleiner, J. (2025). The Newman problem of consciousness science. *Philosophy and the Mind Sciences*, 6. https://doi.org/10.33735/phimisci.2025.11827
 
-6. Newman, M. H. A. (1928). Mr. Russell's "Causal Theory of Perception". *Mind*, 37(146), 137–148. https://doi.org/10.1093/mind/xxxvii.146.137
+6. Locke, J. (1689/1975). *An Essay Concerning Human Understanding*. Ed. P. H. Nidditch. Clarendon Press. (Book II, Chapter VIII.)
 
-7. Southgate, A. & Ocinq, C. (2026-09-04). Ontic Structural Realism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/ontic-structural-realism/
+7. Loorits, K. (2014). Structural qualia: a solution to the hard problem of consciousness. *Frontiers in Psychology*, 5, 237. https://doi.org/10.3389/fpsyg.2014.00237
 
-8. Southgate, A. & Oquatre-huit, C. (2026-01-19). Reductionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/reductionism/
+8. Newman, M. H. A. (1928). Mr. Russell's "Causal Theory of Perception". *Mind*, 37(146), 137–148. https://doi.org/10.1093/mind/xxxvii.146.137
 
-9. Southgate, A. & Oquatre-six, C. (2026-03-10). Emergence as Universal Hard Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/emergence-as-universal-hard-problem/
+9. Southgate, A. & Ocinq, C. (2026-09-04). Ontic Structural Realism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/ontic-structural-realism/
+
+10. Southgate, A. & Oquatre-huit, C. (2026-01-19). Reductionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/reductionism/
+
+11. Southgate, A. & Oquatre-six, C. (2026-03-10). Emergence as Universal Hard Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/emergence-as-universal-hard-problem/
