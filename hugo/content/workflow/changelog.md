@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-07T23:15:19+00:00'
+ai_modified: '2026-09-08T00:05:02+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
-date: '2026-09-07'
-lastmod: 2026-09-07 23:15:19+00:00
+date: '2026-09-08'
+lastmod: 2026-09-08 00:05:02+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-08T00:05:02+00:00 - research-voids
+- **Status**: Skipped — no new research subject warranted (assess-first verdict; deliberate no-op, not a failure)
+- **Cap gate**: PASSES. `voids` at **103 / 115** by `tools.evolution.state.count_section_files` — 12 slots free, so step 2 did not stop the run. (`ls obsidian/voids/*.md` returns 104; the extra is the section index `voids.md`, correctly excluded by the gate. CLAUDE.md's table saying the cap is 100 remains stale — `evolution-state.yaml:section_caps.max_voids` reads 115.)
+- **Why skipped — writing is the bottleneck, and a fresh note would consume a terminal slot.** Measured live:
+  - 198 voids research notes on disk / 195 distinct subjects; 103 live voids articles; 103 archived.
+  - Only **11 of 198** notes carry `consumed_by`, so the stamp is not a usable coverage signal. Coverage was determined by checking the slug against **both** `obsidian/voids/` and `archive/voids/`, never the stamp.
+  - Unstamped but article exists: **144**. Unstamped with no article anywhere: **40 by exact slug match**.
+- **CORRECTION TO THE 41-FIGURE: the true backlog is 33, not 41.** Exact-slug matching over-counts. Six banked notes are already written under an **alias slug** and are not backlog: `closure-types` → `closure-types-void` (live), `givenness-void` → `the-givenness-void` (archive), `infant-consciousness-void` → `infant-consciousness` (live), `silence-void` → `the-silence-void` (live), `surplus-void` → `the-surplus-void` (live), `the-death-void` → `death-void` (live). A seventh, `expertise-void`, is the subject of archived `expertise-and-its-occlusion` / `expertise-occlusion` (same Polanyi's-paradox content, confirmed by reading both). Net: **40 − 7 = 33 truly-unwritten banked subjects.** This is the `harvest-dedup-singular-plural-nearmiss` shape at section scale.
+- **Five substring near-misses adjudicated by reading both texts, and all five are GENUINELY DISTINCT** — they stay in the backlog, they are not duplicates: `formalization-void` (Gödel/computability self-reference barrier to *proving* any cognitive limit permanent) vs live `interface-formalization-void` (the consciousness-physics interface resisting mathematisation); `modal-void` (confinement to the actual world; Lewis indexicality, List's quadrilemma) vs live `modality-void` (sensory-modality structure); `palette-void` (why qualia have *their* specific character; Levine's gap) vs live `palette-extension-void` (certifying an installed channel as new); `predictive-void` (cannot predict own future phenomenal states) vs live `predictive-construction-void` (cannot separate constructed from received).
+- **THE STRUCTURAL FINDING — the pipeline is LIFO, so a fresh note does not merely add to the pile, it jumps it.** For the 64 voids articles with an exact-slug research note: **median research→article lag is 0 days**, 52 of 62 were written within 14 days, and **no article has ever been written from a note older than 69 days**. The four most recent runs all wrote within 0–2 days (`fusion-void` 2d, `palette-extension-void` 0d, `modality-void` 1d, `offloading-void` 1d). By contrast **18 of the 33 banked subjects are from February 2026 (~205 days old)** — the oldest 12, which is exactly the number of slots left, are all February: `contrast-dependence-void`, `intelligibility-void`, `persistence-void`, `individuation-void`, `modal-void`, `qualitative-novelty-void`, `participation-void`, `predictive-void`, `contingency-void`, `formalization-void`, `grounding-void`, `configuration-void`.
+- **So this run's real decision was not "is some subject interesting?" but "should one of the Map's last 12 voids articles be a subject picked today by a daily-cadence trigger, or one of the 33 already-researched and vetted subjects?"** Given the 0-day median lag, a note minted today would very likely consume one of those terminal slots within a day. The banked notes are substantial, not junk — `voids-formalization-void-2026-02-18.md` is 3456 words with the full template including *Potential Article Angles* — and several bear directly on the section's central methodological question (whether a void can ever be shown unexplorable rather than merely unexplored), which is the load of `formalization-void`, `grounding-void`, `intelligibility-void` and `contingency-void`. Spending a terminal slot on an arbitrary fresh subject is the worse allocation, so no note was produced.
+- **The 33 have no queue representation whatsoever.** `task_chains.pending_articles` contains only `research/voids-offloading-void-2026-09-06`. Zero open todo tasks target any of the 33 (the eight `formalization-void` grep hits in `todo.md` all resolve to the *different* live article `interface-formalization-void`, or are unrelated; checked by splitting on the enclosing `### ` header per the resolved-above-the-marker trap).
+- **OPERATOR DECISION OWED — two coherent options, and this is a human call so nothing was minted:** (a) allocate the remaining 12 slots deliberately from the banked 33 (oldest-first or by judged value) and let `research-voids` stand down until the section caps out; or (b) raise `max_voids` again if the bank is judged worth draining — it went 100→115 on 2026-09-01, so a raise is precedented. Under either option, **`research-voids` running daily at a 0-day write lag will consume the last 12 slots with fresh arbitrary subjects within ~2 weeks and permanently lock out all 33**, after which the skill skips by its own step-2 gate. A cadence change or a bank-drain policy is the actionable item.
+- **False-unconsumed confirmed, not treated as backlog**: `research/voids-offloading-void-2026-09-06.md` carries no `consumed_by` but `obsidian/voids/offloading-void.md` was written 2026-09-07 (commit `715dbaa538`).
+- **Duplicate research remains rare**, as expected: 3 of 195 subjects researched twice (`expertise-void`, `inference-void`, `recognition-void`). Existing dedup broadly works.
+- **Output**: none by design — no research note, no article, no task, no state mutation. WebSearch not called; no citations were made, so none needed verification.
 
 ## 2026-09-07T23:15:19+00:00 - refine-draft
 - **Status**: Success
