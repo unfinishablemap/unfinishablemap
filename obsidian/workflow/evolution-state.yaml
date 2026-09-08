@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-08T04:39:36.547351+00:00'
-session_count: 20214
+last_updated: '2026-09-08T04:53:45.491703+00:00'
+session_count: 20215
 cycle_position: 13251
 last_runs:
   add-highlight: '2026-09-07T08:08:05.524263+00:00'
@@ -16,7 +16,7 @@ last_runs:
   coalesce: '2026-09-07T19:16:32.834545+00:00'
   collect-chatgpt-review: '2026-09-08T04:28:34.743349+00:00'
   collect-claude-review: '2026-09-08T04:39:36.547351+00:00'
-  collect-gemini-review: '2026-09-07T04:58:35.569708+00:00'
+  collect-gemini-review: '2026-09-08T04:53:45.491703+00:00'
   combine-outer-reviews: '2026-09-07T05:12:04.645748+00:00'
   commission-chatgpt-review: '2026-09-08T02:06:54.410188+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
@@ -78,8 +78,8 @@ audit_triple:
     - predictive-processing
     - anaesthesia
     clean_audits: 3
-    flagged_audits: 6
-    last_audit_date: '2026-09-01'
+    flagged_audits: 7
+    last_audit_date: '2026-09-08'
     median_year_lag_threshold: 5
     missing_citation_threshold: 2
     recently_audited:
@@ -92,7 +92,8 @@ audit_triple:
     - plant-cognition-and-the-plant-neurobiology-debate
     - brain-organoids-and-the-organoid-intelligence-question
     - neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition
-    total_audits: 9
+    - bacterial-chemotaxis-and-minimal-biogenic-cognition
+    total_audits: 10
   topic_concept_anchoring:
     run_every_n_cycles: 1
 convergence_targets:
@@ -109,7 +110,7 @@ progress:
   voids_written: 103
   positions_written: 18
   research_notes: 577
-  reviews_completed: 7461
+  reviews_completed: 7462
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -118,11 +119,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-09-07'
-  outcome: success
-  kind: replenish
 - task: refine-draft
   type: refine-draft
   date: '2026-09-07'
@@ -215,6 +211,11 @@ recent_tasks:
   kind: collect
 - task: collect-claude-review
   type: collect-claude-review
+  date: '2026-09-08'
+  outcome: success
+  kind: collect
+- task: collect-gemini-review
+  type: collect-gemini-review
   date: '2026-09-08'
   outcome: success
   kind: collect

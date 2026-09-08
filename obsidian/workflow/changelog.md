@@ -5,6 +5,23 @@ ai_modified: '2026-09-08T01:20:33.145357+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-08T05:07:47+00:00 - literature-drift-review
+- **Status**: Success
+- **Article**: [[topics/bacterial-chemotaxis-and-minimal-biogenic-cognition]]
+- **Research area**: `bacterial` (matched pattern), frame: chemotaxis mechanism / biogenic cognition / Cellular Basis of Consciousness
+- **Selection**: 6 eligible candidates (18 active-research patterns, minus 8 pattern-matching entries already in `recently_audited`); oldest `ai_modified` 2026-08-07, 31 days
+- **Median citation year**: 2006 (9 dated external refs; 20 years behind `ai_modified` 2026-08-07, threshold 5)
+- **Arithmetic note**: a naive `\((\d{4}\))` sweep also matches journal issue numbers — `Science 196(4294)` and `Nature 239(5374)` yield a nonsense 1972–5374 range and a contaminated median of 2015. Filtered to 1900–2030; corrected median 2006.
+- **WebSearch calls**: 1 (cost gate respected)
+- **Recent papers found**: 3 inside the 24-month window (4 further results were 2016–2021 and 1 was already cited as ref 9)
+- **Missing topically-appropriate**: 2 — Nesin & Chandrankunnel 2025 (*Commun Integr Biol* 18(1):2463926, doi:10.1080/19420889.2025.2463926) and Dodig-Crnkovic 2026 (*Front Syst Neurosci* 20:1730097, doi:10.3389/fnsys.2026.1730097). Both DOIs resolved at Crossref with full author lists printed; both surname-grepped against the article (0 hits).
+- **Excluded as frame-divergent**: Vitas 2025 (*BioSystems* 254:105526) — emergentist definition-of-consciousness proposal, engages neither the mechanism nor the competency-without-experience frame. Recorded so it is not re-proposed.
+- **Checks fired**: 1 (median lag) and 2 (missing citations, exactly at threshold). Check 3 (empirical-record currency) **clean** — `find_superlative_claims` returned 0, confirmed by hand; the article's superlatives are framework-internal comparatives, not supersedable record claims.
+- **Check 1 caveat recorded in the task**: the median lag is driven by *correct primary sources* (Berg & Brown 1972, Macnab & Koshland 1972, Koshland 1977, Berg 2004, Lyon 2006/2015) which must not be modernised. The actionable signal is independent: `grep "2025"` on the article returns **zero** hits and the newest external citation is Robinson et al. 2024.
+- **Outcome**: drift-flagged
+- **Task generated**: P2 `refine-draft` — "Update `topics/bacterial-chemotaxis-and-minimal-biogenic-cognition` citations — the \"parked\" noise-vs-choice dispute has a published 2025 rejoinder, and a 2026 cognitive-spectrum rival the article's two-school map has no slot for" (no pileup: 0 open tasks target this file; the 3 pre-existing slug mentions in `todo.md` are prose inside unrelated tasks' notes)
+- **State**: `audit_triple.literature_drift` — `total_audits` 9→10, `flagged_audits` 6→7, `last_audit_date` 2026-09-08, slug appended to `recently_audited` (10/30). Targeted edit; 127 YAML keys before and after, 3 header comments preserved.
+
 ## 2026-09-08T04:25:38+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`), commissioned 2026-09-08 02:05 UTC, collected at 131 min
