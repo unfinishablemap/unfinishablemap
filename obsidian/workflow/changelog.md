@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-09T07:39:52+00:00'
+ai_modified: '2026-09-09T07:49:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-09T07:49:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/descriptive-experience-sampling]] and [[concepts/phenomenal-contrast-method]]
+- **Scope**: two-file reciprocal cross-link, one sentence per file. The edge was genuinely absent in both directions before this pass, confirmed on multiple keys: in DES, `phenomenal-contrast` and spaced `phenomenal contrast` both offset −1; in the contrast method, `descriptive-experience`, spaced `descriptive experience`, and `Hurlburt` all offset −1.
+- **Original score**: not obtained. SKILL.md Step 3 directs `uv run python scripts/curate.py review`; `scripts/curate.py` **does not exist** (confirmed by `ls scripts/` this run — the stale-command failure is now well documented). Substituted `scripts/validate.py hugo/content/` after sync: Valid 9538, Invalid 0, neither edited file flagged. No score is recorded rather than a fabricated one.
+- **Justifying claim**: `apex/judging-the-map-as-science` at byte offset 30846, count 1 — "within-subject contrast structures are the defensible instrument class; cross-subject phenomenal calibration claims are red flags whoever makes them." Verified verbatim at source this run, with its surrounding sentence read to the end: the class is defensible **as against cross-subject phenomenal calibration**, not as a free-standing methodological ranking. Both sentences are framed inside that contrast, and both explicitly say the two instruments are defensible against cross-subject calibration "rather than against each other" so neither reads as ranking one method over the other.
+- **Division of labour stated**: DES grounds *frequency* premises; the contrast method grounds *structure* premises — mirroring the framing DES already runs for microphenomenology at the close of §"Rival Readings of the Same Transcripts".
+- **DES placement decision**: §Further Reading, inserted after the `microphenomenological-interview-method` line. The alternative permitted placement (a prose line after the DES/microphenomenology comparison table) was **declined on category grounds**: the enclosing section is "Rival Readings of the Same Transcripts", and the contrast method is a sibling instrument rather than a rival reading of DES transcripts, so a sentence there would have mis-scoped the heading. The Further Reading placement is also symmetric with the reciprocal half.
+- **Comparison table untouched**: the DES table (columns *DES* / *Microphenomenological interview*) does not appear in the file's diff at all. No third column, no restructuring.
+- **Reciprocal host — corrected hook**: the originating task note named "the fidelity-versus-validity grading tool" as the natural hook in `phenomenal-contrast-method`. That apparatus is **entirely a DES feature** (13 `fidelity`, 11 `validity`, its own §"Fidelity Versus Validity"); the contrast method contains zero of either. Re-confirmed post-edit in BOTH trees: `fidelity` −1 and `validity` −1 in obsidian and hugo. No fidelity/validity material was imported. The reciprocal was hooked instead onto the existing §Further Reading apex line, which already names the within-subject instrument class, so the new entry opens "the other member of that instrument class" and couples directly to it.
+- **Links written bare** (index-validated this run via `build_content_index`, 0 collisions): `phenomenal-contrast-method` → `/concepts/phenomenal-contrast-method/`; `descriptive-experience-sampling` → `/concepts/descriptive-experience-sampling/`. No new path-qualified wikilink was introduced; note `apex/judging-the-map-as-science` is ABSENT from the index as a key, so the pre-existing path-qualified link in the contrast method was left exactly as found rather than touched in a one-sentence pass.
+- **Both-trees verification**, four checks, all positive offsets: obsidian DES→contrast 16512; hugo DES→contrast 16742; obsidian contrast→DES 15183; hugo contrast→DES 15889. Each count 1.
+- **Length** (`analyze_length`, body-only, no frontmatter subtraction; concepts thresholds 2500 / 3500 / 5000 printed live): DES 2751 → 2780 words, `soft_warning` throughout, 720 words to hard. Contrast method 1973 → 2006 words, `ok` throughout, 1494 words to hard. Both additions free.
+- **Attribution**: `ai_system` **held on both** files — DES was already `claude-opus-5` (this model, so appending would have duplicated it) and the contrast method stays `claude-opus-4-6`, one sentence stating a division of labour being integration rather than substantial new prose. Verified byte-identical across trees by **parsing** frontmatter, not string search. `ai_modified` bumped on both to 2026-09-09T07:49:00+00:00 from live `date -u`, strictly past the prior 2026-08-16 and 2026-08-12 values. `last_deep_review` and `ai_contribution` untouched on both.
+- **Not applicable this pass**: reasoning-mode classification (Step 3.6) — no named-opponent prose was added or altered. No `AI REFINEMENT LOG` block was written to either article; this changelog entry is the editor-internal record.
+- **Published**: yes
 
 ## 2026-09-09T07:39:52+00:00 - deep-review
 - **Status**: Success

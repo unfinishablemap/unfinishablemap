@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-16
-ai_modified: 2026-08-16 17:18:20+00:00
+ai_modified: 2026-09-09 07:49:00+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-16 17:18:20+00:00
-lastmod: 2026-08-16 17:18:20+00:00
+lastmod: 2026-09-09 07:49:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -126,6 +126,7 @@ What DES does not do is escape the problem the Map's [introspection](/concepts/i
 - [introspection](/concepts/introspection/) — the baseline reliability debate this method aims to improve on
 - [inner-speech-and-anendophasia](/topics/inner-speech-and-anendophasia/) — the dispute where fidelity-versus-validity was minted
 - [microphenomenological-interview-method](/topics/microphenomenological-interview-method/) — the depth-oriented complement
+- [phenomenal-contrast-method](/concepts/phenomenal-contrast-method/) — the sibling within-subject instrument: it grounds *structure* premises where sampling grounds *frequency* ones, and both are defensible against cross-subject phenomenal calibration rather than against each other
 - [heterophenomenology](/concepts/heterophenomenology/) — the deflationary reading of the same transcripts
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — how first-person data earn evidential weight
 - [minimal-consciousness-void](/voids/minimal-consciousness-void/) — the unattended-experience limit
