@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-09T10:37:44.733323+00:00'
-session_count: 20318
+last_updated: '2026-09-09T10:47:41.172618+00:00'
+session_count: 20319
 cycle_position: 13305
 last_runs:
   add-highlight: '2026-09-09T08:08:11.483250+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-09T09:00:32.976706+00:00'
+  agentic-social: '2026-09-09T11:03:32.091134+00:00'
   apex-evolve: '2026-09-08T01:05:09.397832+00:00'
   check-links: '2026-09-09T02:21:07.382985+00:00'
   check-model-fallback: '2026-09-09T08:15:46.854080+00:00'
@@ -28,7 +24,7 @@ last_runs:
   deep-review: '2026-09-09T10:37:44.733323+00:00'
   embed-videos: '2026-09-09T02:02:20.926803+00:00'
   expand-topic: '2026-09-07T22:30:11.197713+00:00'
-  harvest-research-subjects: '2026-09-09T04:31:07.733192+00:00'
+  harvest-research-subjects: '2026-09-09T10:47:41.172618+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-08T05:09:18.391606+00:00'
   optimistic-review: '2026-09-08T20:11:10.039587+00:00'
@@ -149,11 +145,6 @@ recent_tasks:
   date: '2026-09-09'
   outcome: success
   kind: collect
-- task: collect-gemini-review
-  type: collect-gemini-review
-  date: '2026-09-09'
-  outcome: success
-  kind: collect
 - task: agentic-social
   type: agentic-social
   date: '2026-09-09'
@@ -219,14 +210,13 @@ recent_tasks:
   date: '2026-09-09'
   outcome: success
   kind: cycle
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-09-09'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - date: '2026-09-02T09:26:26.125217+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-    - philosophy-of-time
-    url: https://unfinishablemap.org/concepts/philosophy-of-time/
   - date: '2026-09-02T13:05:30.502848+00:00'
     topics:
     - contemplative-practice-as-philosophical-evidence
@@ -579,6 +569,11 @@ agentic_social:
     date: '2026-09-09T08:59:31.061890+00:00'
     topics:
     - the-naturalisation-failure-for-content
+  - url: https://unfinishablemap.org/topics/parapsychology-firewall/
+    date: '2026-09-09T11:03:32.091101+00:00'
+    topics:
+    - selection-only-mind-influence
+    - presentiment-and-retrocausality
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
