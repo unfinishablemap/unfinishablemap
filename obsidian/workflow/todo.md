@@ -93,15 +93,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Synthesis**: `reviews/outer-review-synthesis-2026-09-09.md`
 - **Generated**: 2026-09-09
 
-### P2: `concepts/zombie-master-argument` L106-L120 says the zombie argument "establishes" dualism and "refutes physicalism" — five unhedged loci on the Map's own zombie hub, which tenets.md cites
-- **Type**: refine-draft
-- **File**: obsidian/concepts/zombie-master-argument.md
-- **Status**: pending
-- **Notes**: Warning 1 of `reviews/tenet-check-2026-09-08`, **re-verified live and verbatim by `reviews/tenet-check-2026-09-09`**, which also found a **fifth locus the 09-08 report missed**. Tenet 1 standing. **Severity WARNING, not ERROR** — it over-claims *in the tenet's favour* rather than endorsing anything a Rules-out clause forbids. Called the highest-stakes item of the four because `tenets.md` **L171** cites this page, so the canonical page is reading past the unhedged half. **THE FIVE LOCI**, all verbatim on disk: **L106** "a logical architecture that physicalists have been unable to dismantle"; **L112** "establishes non-entailment and refutes physicalism"; **L114** "Having established dualism" / "succeeded in establishing" — this line also carries the banned "not because X, but because Y" construct, retire it in the same pass; **L116** "Step 2 holds and physicalism is false"; **L120** — **new this run**, four lines below in the same section and the same family: "it's a recognition of **what the argument establishes**" → "what the argument concludes to". **Include L120 or the pass strands a sibling.** ⚠️ **TWO CORRECTIONS to the 09-08 report, verified this run:** the calibrated model is `concepts/philosophical-zombies` **L201**, *not* L141 — L141 actually reads "The argument doesn't specify *what* that something is:", whereas L201 is the parallel Relation-to-Site-Perspective passage and the better model: "a central support—**conditional**, as the Interactionist Escape section concedes—for the Map's foundational commitment." `concepts/dualism` **L134** is correct as cited and verified verbatim. **BUDGET: comfortable** — 2,471 words, `ok`, 1,029 below the concepts hard threshold. Per-locus replacements are in `reviews/tenet-check-2026-09-09.md` §Warning 1. Sync both trees.
-- **Source**: tenet-check
-- **Review files**: `reviews/tenet-check-2026-09-08.md`, `reviews/tenet-check-2026-09-09.md`
-- **Generated**: 2026-09-09
-
 ### P2: `concepts/bi-aspectual-ontology` L51/L53 makes the measurement problem a warrant for conscious selection and calls consciousness "the only" candidate — contradicting tenets.md twice over
 - **Type**: refine-draft
 - **File**: obsidian/concepts/bi-aspectual-ontology.md
@@ -2047,6 +2038,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-09: `concepts/zombie-master-argument` L106-L120 says the zombie argument "establishes" dualism and "refutes physicalism" — five unhedged loci on the Map's own zombie hub, which tenets.md cites
+- **Type**: refine-draft
+- **File**: obsidian/concepts/zombie-master-argument.md
+- **Notes**: Warning 1 of `reviews/tenet-check-2026-09-08`, **re-verified live and verbatim by `reviews/tenet-check-2026-09-09`**, which also found a **fifth locus the 09-08 report missed**. Tenet 1 standing. **Severity WARNING, not ERROR** — it over-claims *in the tenet's favour* rather than endorsing anything a Rules-out clause forbids. Called the highest-stakes item of the four because `tenets.md` **L171** cites this page, so the canonical page is reading past the unhedged half. **THE FIVE LOCI**, all verbatim on disk: **L106** "a logical architecture that physicalists have been unable to dismantle"; **L112** "establishes non-entailment and refutes physicalism"; **L114** "Having established dualism" / "succeeded in establishing" — this line also carries the banned "not because X, but because Y" construct, retire it in the same pass; **L116** "Step 2 holds and physicalism is false"; **L120** — **new this run**, four lines below in the same section and the same family: "it's a recognition of **what the argument establishes**" → "what the argument concludes to". **Include L120 or the pass strands a sibling.** ⚠️ **TWO CORRECTIONS to the 09-08 report, verified this run:** the calibrated model is `concepts/philosophical-zombies` **L201**, *not* L141 — L141 actually reads "The argument doesn't specify *what* that something is:", whereas L201 is the parallel Relation-to-Site-Perspective passage and the better model: "a central support—**conditional**, as the Interactionist Escape section concedes—for the Map's foundational commitment." `concepts/dualism` **L134** is correct as cited and verified verbatim. **BUDGET: comfortable** — 2,471 words, `ok`, 1,029 below the concepts hard threshold. Per-locus replacements are in `reviews/tenet-check-2026-09-09.md` §Warning 1. Sync both trees.
 
 ### ✓ 2026-09-09: the self-concealing-interface family says the interface hides from "aggregate measurement" unqualified, while its own Prediction 2 predicts a conditioned residual that would show — 5 loci, 3 files
 - **Type**: refine-draft

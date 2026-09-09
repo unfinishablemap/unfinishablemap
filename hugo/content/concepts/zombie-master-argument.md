@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-07-28 15:13:54+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-09 19:19:19+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[philosophical-zombies]]'
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 13:16:22+00:00
-lastmod: 2026-07-28 15:13:54+00:00
+lastmod: 2026-09-09 19:19:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -107,21 +107,21 @@ The argument also regenerates against sophisticated responses. The [phenomenal c
 
 The Map treats the zombie master argument as providing the logical backbone for [Tenet 1 (Dualism)](/tenets/#dualism). Where [dualism](/concepts/dualism/) presents converging arguments against materialism, the master argument reveals that these aren't truly independent — they are different manifestations of a single logical structure. The knowledge argument, the explanatory gap, Kripke's modal argument, and the zombie thought experiment all exploit the same non-entailment between physical and phenomenal facts.
 
-This convergence matters for the Map's overall framework. The case for dualism doesn't rest on any single intuition pump but on a logical architecture that physicalists have been unable to dismantle despite sustained effort. Each physicalist response concedes ground; the question is only how much.
+This convergence matters for the Map's overall framework. The case for dualism doesn't rest on any single intuition pump but on a logical architecture the Map judges physicalists have not dismantled — a judgement each opponent disputes at a different point rather than a settled result, as [Tenet 1](/tenets/#dualism)'s rationale records. How much ground each physicalist response concedes is itself contested.
 
 ### The Zombie Argument and Bidirectional Interaction
 
 There is an important tension between the zombie thought experiment and the Map's [Tenet 3 (Bidirectional Interaction)](/tenets/#bidirectional-interaction). The standard zombie argument assumes *complete physical identity* between a conscious being and its zombie twin. But Tenet 3 holds that consciousness causally influences physical outcomes — biasing quantum indeterminacies in neural systems. If consciousness makes a physical difference, a being without consciousness would have *different physical states* (different quantum outcome distributions). Physically identical zombies would be impossible under the Map's full framework.
 
-This is not a contradiction but a logical progression. The zombie argument does its work under *minimal dualism* — Tenet 1 alone — where the only claim is that consciousness is not entailed by physical facts. At that stage, before any commitment to bidirectional interaction, zombie conceivability establishes non-entailment and refutes physicalism. The argument's job is done once it shows that physical description doesn't exhaust reality.
+This is not a contradiction but a logical progression. The zombie argument does its work under *minimal dualism* — Tenet 1 alone — where the only claim is that consciousness is not entailed by physical facts. At that stage, before any commitment to bidirectional interaction, and conditional on the conceivability premise holding, zombie conceivability yields non-entailment and tells against physicalism. The argument's job at that stage is to press the case that physical description doesn't exhaust reality, not to report the dispute as closed.
 
-The Map then goes further. Having established dualism via the conceivability argument, it adds Tenet 3: consciousness is not merely non-physical but causally efficacious. At that point, zombies become impossible *as a consequence of the stronger theory*. A world physically identical to ours would require the same quantum outcome distributions, which under the Map's framework require conscious biasing. The zombie argument is a ladder that, once climbed, the full framework kicks away — not because the argument was wrong, but because it succeeded in establishing the dualism that makes bidirectional interaction possible.
+The Map then goes further. Having *argued for* dualism via the conceivability argument, it adds Tenet 3: consciousness is not merely non-physical but causally efficacious. At that point, zombies become impossible *as a consequence of the stronger theory*. A world physically identical to ours would require the same quantum outcome distributions, which under the Map's framework require conscious biasing. The zombie argument is a ladder that, once climbed, the full framework kicks away: the argument did its work at the minimal-dualism stage, and the stronger theory it licenses then excludes the very case it used.
 
-This ordering invites an objection: if the completed framework makes physically-identical zombies impossible, has the Map not produced a clearly-conceivable-yet-impossible case — the very thing Step 2 denies — rescuable only by the a-posteriori-impossibility move rejected as special pleading above? The bind dissolves once two modalities are kept apart. Tenet 3 introduces a *nomological* impossibility: physically-identical zombies violate the Map's laws of psychophysical coupling, the regularities by which consciousness biases quantum outcomes. The zombie argument trades in *metaphysical* modality: whether a world lacking consciousness is possible in the broadest sense, independent of any world's contingent laws. The two are compatible. Zombies remain metaphysically possible — Step 2 holds and physicalism is false — while being nomologically impossible under the Map's completed framework, just as a world where a dropped object falls upward is metaphysically possible yet nomologically impossible given actual physics. No a-posteriori collapse of the conceivability is needed, because the framework does not claim the zombie world is *metaphysically* impossible; it claims only that the Map's laws exclude it. That is a weaker and different claim than the Type-B physicalist needs, and it carries no commitment to the water/H₂O treatment rejected above.
+This ordering invites an objection: if the completed framework makes physically-identical zombies impossible, has the Map not produced a clearly-conceivable-yet-impossible case — the very thing Step 2 denies — rescuable only by the a-posteriori-impossibility move rejected as special pleading above? The bind dissolves once two modalities are kept apart. Tenet 3 introduces a *nomological* impossibility: physically-identical zombies violate the Map's laws of psychophysical coupling, the regularities by which consciousness biases quantum outcomes. The zombie argument trades in *metaphysical* modality: whether a world lacking consciousness is possible in the broadest sense, independent of any world's contingent laws. The two are compatible. Zombies remain metaphysically possible on the argument's own terms — if Step 2 holds, physicalism is false — while being nomologically impossible under the Map's completed framework, just as a world where a dropped object falls upward is metaphysically possible yet nomologically impossible given actual physics. No a-posteriori collapse of the conceivability is needed, because the framework does not claim the zombie world is *metaphysically* impossible; it claims only that the Map's laws exclude it. That is a weaker and different claim than the Type-B physicalist needs, and it carries no commitment to the water/H₂O treatment rejected above.
 
 ### Occam's Razor
 
-The master argument also supports [Tenet 5 (Occam's Razor Has Limits)](/tenets/#occams-limits). Physicalists often appeal to parsimony: why posit something beyond the physical? The master argument's response is that parsimony cannot override logical non-entailment. If the physical facts don't necessitate the phenomenal facts, adding consciousness to the ontology isn't an optional extravagance — it's a recognition of what the argument establishes.
+The master argument also supports [Tenet 5 (Occam's Razor Has Limits)](/tenets/#occams-limits). Physicalists often appeal to parsimony: why posit something beyond the physical? The master argument's response is that parsimony cannot override logical non-entailment. If the physical facts don't necessitate the phenomenal facts, adding consciousness to the ontology isn't an optional extravagance — it's a recognition of what the argument concludes to.
 
 ## Further Reading
 
