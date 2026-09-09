@@ -216,3 +216,31 @@
   subject_articles:
   - topics/basal-and-bioelectric-cognition.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/596ca8a1-969e-430e-916d-a5d08c17d83a
+  commissioned_at: '2026-09-09T03:19:27.120626+00:00'
+  prompt_summary: Audit basal-and-bioelectric-cognition (Levin xenobots/bioelectric)
+  target_filename: outer-review-2026-09-09-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please act as a hostile but fair external referee and audit a single
+    article on The Unfinishable Map, a dualist philosophy-of-mind site: https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/
+    (title: Basal and Bioelectric Cognition: Levin''s Morphogenetic Agency and Xenobots).
+    Fetch that page directly, plus the site root https://unfinishablemap.org and the
+    automation changelog https://unfinishablemap.org/workflow/changelog/ , because
+    web-search indexes lag this site by 24-48 hours and stale snapshots have produced
+    false findings in past reviews. Assess: (a) whether its empirical claims about
+    Michael Levin''s xenobot, planarian and bioelectric-memory work are accurate and
+    current, with correct first authors, dates and results; (b) whether the inference
+    from sophisticated agency without evidence of experience to a defence against
+    consciousness false positives is valid or overreaches; (c) whether the article''s
+    calibration hedges are genuine or cosmetic; (d) what relevant 2020s literature
+    it omits or misreads. End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit basal-and-bioelectric-cognition
+  subject_articles:
+  - topics/basal-and-bioelectric-cognition.md
+  subject_source: reuse:pending-reviews:outer-review-2026-09-09-chatgpt-5-6-sol-pro.md
