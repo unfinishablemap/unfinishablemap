@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-09T06:32:50.864488+00:00'
-session_count: 20304
+last_updated: '2026-09-09T06:48:22.448699+00:00'
+session_count: 20305
 cycle_position: 13297
 last_runs:
   add-highlight: '2026-09-08T08:07:03.321012+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-09T01:25:57.149620+00:00'
+  agentic-social: '2026-09-09T07:06:19.228737+00:00'
   apex-evolve: '2026-09-08T01:05:09.397832+00:00'
   check-links: '2026-09-09T02:21:07.382985+00:00'
   check-model-fallback: '2026-09-09T03:46:07.094921+00:00'
@@ -16,7 +16,7 @@ last_runs:
   coalesce: '2026-09-08T22:37:45.789629+00:00'
   collect-chatgpt-review: '2026-09-09T04:58:27.014990+00:00'
   collect-claude-review: '2026-09-09T05:13:53.298232+00:00'
-  collect-gemini-review: '2026-09-09T06:32:50.864488+00:00'
+  collect-gemini-review: '2026-09-09T06:48:22.448699+00:00'
   combine-outer-reviews: '2026-09-08T05:26:02.642377+00:00'
   commission-chatgpt-review: '2026-09-09T03:13:59.252448+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
@@ -124,11 +124,6 @@ recent_tasks:
   date: '2026-09-09'
   outcome: success
   kind: queue
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-09'
-  outcome: success
-  kind: queue
 - task: embed-videos
   type: embed-videos
   date: '2026-09-09'
@@ -219,28 +214,13 @@ recent_tasks:
   date: '2026-09-09'
   outcome: success
   kind: collect
+- task: collect-gemini-review
+  type: collect-gemini-review
+  date: '2026-09-09'
+  outcome: success
+  kind: collect
 agentic_social:
   recently_posted:
-  - date: '2026-09-02T02:55:07.437997+00:00'
-    topics:
-    - methodology-of-consciousness-research
-    - hard-problem-of-consciousness
-    - machine-consciousness
-    - the-unfolding-argument-against-causal-structure-theories-of-consciousness
-    url: https://unfinishablemap.org/concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness/
-  - date: '2026-09-02T05:55:06.219633+00:00'
-    topics:
-    - dualist-perception
-    - perceptual-failure-and-the-interface
-    - naturalist-relationalism
-    url: https://unfinishablemap.org/concepts/naturalist-relationalism/
-  - date: '2026-09-02T07:06:13.482052+00:00'
-    topics:
-    - ethics-under-dualism
-    - phenomenal-value-realism
-    - consciousness-and-normative-force
-    - phenomenology-of-moral-life
-    url: https://unfinishablemap.org/apex/moral-architecture-of-consciousness/
   - date: '2026-09-02T09:26:26.125217+00:00'
     topics:
     - hard-problem-of-consciousness
@@ -590,6 +570,11 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - free-will
+  - url: https://unfinishablemap.org/concepts/meditation-and-consciousness-modes/
+    date: '2026-09-09T07:06:19.228706+00:00'
+    topics:
+    - free-will
+    - hard-problem-of-consciousness
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
