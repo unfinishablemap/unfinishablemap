@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-09T05:08:00+00:00'
+ai_modified: '2026-09-09T07:16:54+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-09T07:16:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/witness-consciousness]]
+- **Task**: queue task line 1701 — outer-review finding that the page never engages competing analyses of what "observing one's own thoughts" consists in.
+- **Scope decision**: ONE ~80-word signposting paragraph, deliberately NOT the five-analysis survey section the outer review asked for. Four of the five rivals are already present in substance and their dispersal is by design — each is routed to the article where it does its argumentative work. A survey would have restated several hundred words of already-routed material.
+- **Gap verified before editing** (three independent keys, all -1): `higher-order` case-insensitive, `higher order` spaced, exact-case `HOT`. A case-insensitive `HOT` search matches at offset 11534 but that is a substring false positive inside "the interface runs hot on a beloved object", which is why the exact-case check is the valid one. Higher-order thought theory was genuinely absent.
+- **Explicitly NOT claimed absent**: metacognition, which was already on the page at offset 12140 — §"Decentering and Minimal Phenomenal Experience" reads "decentering as the metacognitive capacity witnessing cultivates". It appears there as a capacity the witness *has*, not as a rival analysis of what witnessing *is*; the gap was specifically the latter.
+- **Changes**: added one paragraph (+76 words) at the end of §"Decentering and Minimal Phenomenal Experience", immediately after the Letheby predictive-self-binding paragraph. It names the competing analyses, routes the four already covered (subjectless awareness → Krishnamurti's choiceless awareness and Sufi *fanā'*; attentional decentring and self-model attenuation → this section, via Metzinger's zero-person perspective and Letheby; reflexive awareness → the self-luminosity/*svayam-prakasha* reply at the Regress Objection, previously present but unlabelled), and adds higher-order thought theory as a live fifth rival with a link to [[higher-order-theories]].
+- **Placement rationale**: three of the four covered rivals (decentring, zero-person, self-model attenuation) already sit inside that one section, so a closing signpost reads as section synthesis. The alternative home, §"Challenges and Responses", has a rigid bold-objection/*Response* format that a plain signposting paragraph would have sat awkwardly inside.
+- **Engagement with higher-order thought theory: Mode Three (framework-boundary marking)** — the closing clause "cognitive architecture where the Map reads phenomenal structure" notes the disagreement honestly and does not dress itself as an in-framework refutation of Rosenthal. It matches the target article's own lead ("HOT describes cognitive architecture rather than phenomenal consciousness"), so no new argument is asserted; this pass is integration, not refutation.
+- **House forms matched**: `svayam-prakasha` (unaccented, as at lines 52 and 162) and `fanā'`, rather than the brief's `svayam-prakāśa`.
+- **Length**: `analyze_length` 3218 → 3294 words, `soft_warning` both before and after, against concepts thresholds 2500 / 3500 / 5000 printed live from `THRESHOLDS`. 206 words of headroom to hard. No frontmatter subtraction applied — `analyze_length` is already body-only.
+- **Link form**: written as the bare slug `[[higher-order-theories|higher-order thought theory]]`. Confirmed against `build_content_index` that bare resolves to `/concepts/higher-order-theories/` while the path-qualified `concepts/higher-order-theories` is ABSENT and would have raised `SyncValidationError` and skipped the push repo-wide. Converted cleanly to `[higher-order thought theory](/concepts/higher-order-theories/)`; zero stray unconverted wikilinks in the Hugo body.
+- **Both trees verified by offset**: paragraph opener at 13560 obsidian / 13902 hugo; "A fifth rival," at 13979 / 14321; the Hugo link target at 14366. `concepts/witness-consciousness.md` reported `ok` by sync.
+- **Attribution**: `ai_system` HELD byte-identical at `claude-opus-4-5-20251101` including the date suffix — not normalised, not appended, verified by YAML parse rather than string search. `ai_contribution` unchanged at 100. `last_deep_review` left alone. `ai_modified` bumped to 2026-09-09T07:16:54+00:00 from live `date -u`.
+- **Validation**: `scripts/curate.py` does not exist (SKILL.md Step 3 is stale — fifteenth recorded failure), so ran `uv run python scripts/validate.py hugo/content/` instead: Invalid 0, no warnings on this file.
+- **Published**: yes
 
 ## 2026-09-09T05:08:00+00:00 - outer-review
 - **Status**: Success

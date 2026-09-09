@@ -4,7 +4,7 @@ description: "Awareness that observes mental contents without identifying with t
 created: 2026-01-18
 modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-09-02T18:11:21+00:00
+ai_modified: 2026-09-09T07:16:54+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -115,6 +115,8 @@ Research identifies *decentering* as the metacognitive capacity witnessing culti
 Thomas Metzinger's research on *minimal phenomenal experience* explores what remains when the phenomenal self-model is stripped away entirely—a "zero-person perspective" where awareness continues without subject-object structure. This extends rather than contradicts the witness concept: if consciousness can operate stripped of all content yet remain vividly aware, awareness itself is more fundamental than any structure it takes. See [[edge-states-and-void-probes|The Phenomenology of the Edge]] for detailed treatment.
 
 The naturalist rival reads the same data the other way. On Chris Letheby's predictive-self-binding account, any "witnessing" still reported in deep dissolution is itself a not-yet-decohered self-model component that fuller relaxation would dissolve—so the residual witness is residue, not bedrock. The Map predicts the opposite: pre-reflective for-me-ness persists because it is a feature of any conscious state rather than a model component that can decohere. [[predictive-self-binding-and-the-naturalist-challenge]] develops this as the discriminating empirical seam between the accounts.
+
+What witnessing *consists in* remains contested, and the rival analyses sit where each does its work. Subjectless awareness runs through Krishnamurti's choiceless awareness and Sufi *fanā'* above; attentional decentring and self-model attenuation are treated here, via Metzinger's zero-person perspective and Letheby; reflexive awareness is the self-luminosity (*svayam-prakasha*) reply to the Regress Objection below. A fifth rival, [[higher-order-theories|higher-order thought theory]], analyses observing a thought as a higher-order representation targeting it—cognitive architecture where the Map reads phenomenal structure.
 
 ## Neural Correlates
 
