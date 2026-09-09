@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-09-09 14:50:12+00:00
+ai_modified: 2026-09-09 15:02:25+00:00
 ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5
 anchoring_audit_exempt: true
 author: null
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-03 10:56:31+00:00
-lastmod: 2026-09-09 14:50:12+00:00
+lastmod: 2026-09-09 15:02:25+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -66,7 +66,7 @@ Half of that framing holds. The competencies TAME defines are measured by third-
 
 The other half does not hold. That restriction is local and methodological—the same sentence promises to "return to this issue at the end"—and when the paper returns to it, it takes a substantive position. Consciousness, on that account, "accompanies specific types of cognitive processes which exert energy toward goals"; there is "no principled way to restrict consciousness to 'human-like, full-blown sophisticated brains'"; and the framework's gradualism "suggests that whatever consciousness is, some variant and degree thereof has to be present very widely across autopoietic systems." TAME "is definitely incompatible with binary views that cut off consciousness at a particular sharp line," leaving open only whether the continuum "contains a true '0' or only infinitesimal levels for very modest agents" (Levin 2022). Levin separates this from panpsychism on the ground that structure matters—"TAME does not claim that mind is inevitably baked in regardless of physical implementation or structure"—but that distinction concerns *which* systems qualify, not whether the phenomenal question is left open. Fields, Glazebrook, and Levin extend the same treatment explicitly, offering a "scale-free characterization of consciousness and cognition" that applies "from the molecular scale upwards" (Fields et al. 2021).
 
-Levin's programme therefore supplies measured competency plus an inference the Map rejects, not a shared silence. Critics who find the vocabulary inflationary—who hold that calling homeostasis a goal and a voltage attractor a memory dresses cybernetic feedback in mentalistic language without earning it—object to the word "cognition" rather than to the phenomenal extension. The Map's quarrel is with the extension, on the marker-convergence grounds ([P-CS2](/positions/consciousness-scope/#p-cs2)) set out next.
+Levin's programme therefore supplies measured competency plus an inference the Map rejects, not a shared silence. Critics who find the vocabulary inflationary—who hold that calling homeostasis a goal and a voltage attractor a memory dresses cybernetic feedback in mentalistic language without earning it—object to the word "cognition" rather than to the phenomenal extension. DiFrisco and Gawne press hardest, judging the agency perspective unsound and unproductive because multiscale feedback evolved by selection explains its phenomena better (DiFrisco & Gawne 2025). Their target is the thesis that agency resists explanation by mechanism or selection, which the Map never asserts—the bioelectric layer above is a physiological mechanism. So the deflation strengthens the decoupling: redundant re-description carries even less about experience. It does cost Levin and Dennett's methodological wager, denied outright; the Map needs that framing's semantics, not its yield. The Map's quarrel is with the extension, on the marker-convergence grounds ([P-CS2](/positions/consciousness-scope/#p-cs2)) set out next.
 
 ## Agency Without Experience: The Decoupling
 
@@ -78,7 +78,7 @@ This gives the Map's [account of valence and conscious selection](/topics/valenc
 
 This complements, without duplicating, the plant rung. The two rungs remove different prerequisites and reach the same conclusion: the gap between demonstrable competency and demonstrable experience does not close as behaviour grows more sophisticated.
 
-Two cautions preserve calibration. First, Levin's "cognition" is a functional and intentional-stance category; nothing here shows xenobots or planaria *lack* experience any more than it shows they have it. The point is narrower than strict neutrality: their agency does not entail consciousness and supplies no verdict on its own, and what evidential weight it does carry depends on substrate, anatomical homology, and convergence with other markers—which in these systems leaves that weight very low rather than exactly zero. Second, the reading that extends *experience* along with competency is not a commentator's gloss on Levin but his own: Rouleau and Levin argue that sentience is multiply realizable and that engineered systems are precisely where to look for it (Rouleau & Levin 2023), and TAME's gradualism already places some degree of consciousness "very widely across autopoietic systems." The Map takes the measured decoupling and rejects that extension, which conflicts with its dualism—but rejects it as a live rival rather than a fringe misreading. The design-side companion [states the rival case in its own voice and answers it](/topics/synthetic-minimal-agents-and-the-engineered-decoupling/#the-multiple-realizability-rival). [Substrate-independence](/concepts/substrate-independence/) of *function* is granted freely; substrate-independence of *experience* is exactly what the Map denies is settled by such evidence.
+Two cautions preserve calibration. First, Levin's "cognition" is a functional and intentional-stance category; nothing here shows xenobots or planaria *lack* experience any more than it shows they have it. The point is narrower than strict neutrality: their agency does not entail consciousness and supplies no verdict on its own, and what evidential weight it does carry depends on substrate, anatomical homology, and convergence with other markers—which in these systems leaves that weight very low rather than exactly zero. Second, the reading that extends *experience* along with competency is not a commentator's gloss on Levin but his own: Rouleau and Levin argue that sentience is multiply realizable and that engineered systems are precisely where to look for it (Rouleau & Levin 2023). The Map takes the measured decoupling and rejects that extension, which conflicts with its dualism—but rejects it as a live rival rather than a fringe misreading. The design-side companion [states the rival case in its own voice and answers it](/topics/synthetic-minimal-agents-and-the-engineered-decoupling/#the-multiple-realizability-rival). [Substrate-independence](/concepts/substrate-independence/) of *function* is granted freely; substrate-independence of *experience* is exactly what the Map denies is settled by such evidence.
 
 ### What the Decoupling Reaches, and What It Does Not
 
@@ -137,3 +137,4 @@ The decoupling also connects to [biological teleology](/topics/biological-teleol
 18. Bischof, J., Day, M. E., Miller, K. A., LaPalme, J. V., & Levin, M. (2020). Nervous system and tissue polarity dynamically adapt to new morphologies in planaria. *Developmental Biology*, 467(1-2), 51–65. https://doi.org/10.1016/j.ydbio.2020.08.009
 19. Grodstein, J., & Levin, M. (2022). A Computational Approach to Explaining Bioelectrically Induced Persistent, Stochastic Changes of Axial Polarity in Planarian Regeneration. *Bioelectricity*, 4(1), 18–30. https://doi.org/10.1089/bioe.2021.0036
 20. Blackiston, D., Lederer, E., Kriegman, S., Garnier, S., Bongard, J., & Levin, M. (2021). A cellular platform for the development of synthetic living machines. *Science Robotics*, 6(52), eabf1571. https://doi.org/10.1126/scirobotics.abf1571
+21. DiFrisco, J., & Gawne, R. (2025). Biological agency: a concept without a research program. *Journal of Evolutionary Biology*, 38(2), 143–156. https://doi.org/10.1093/jeb/voae153
