@@ -55,15 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-09-09 cross-tradition residue wing)
 - **Generated**: 2026-09-09
 
-### P2: `topics/basal-and-bioelectric-cognition` overstates the Durant and Pai results — exclusivity, reversibility and set-point claims the cited sources do not establish
-- **Type**: refine-draft
-- **File**: obsidian/topics/basal-and-bioelectric-cognition.md
-- **Status**: pending
-- **Notes**: From outer review 2026-09-09 (ChatGPT 5.6 Pro), §4 and §5, improvements 4, 5, 7, 8. VERIFIED ON DISK: the article reads "The altered body plan is stored in the bioelectric network, not the genome; it is reversible with ion-channel modulation, behaving like a stable attractor state of the voltage circuit. This is a rewritable, non-genetic, non-neural *memory*" (offsets 4733 / 4893). The reviewer's charges, in its own terminology — it distinguishes **false** (contradicted by the source) from **unsupported by the cited source** from **overstated**, and mostly claims the latter two rather than falsity: (a) "not the genome" and "non-neural" are overstated in their EXCLUSIVE form — Durant et al. support durable non-DNA-sequence bioelectric/epigenetic reprogramming, not a demonstration that no genomic, neural or other cellular mechanism contributes; (b) "reversible" is overstated, "partially resettable" is what is shown; (c) "stable attractor state" is supported as a MODEL, not as a uniquely demonstrated mechanism; (d) for Pai et al., "instructive master signal" should be "instructive upstream signal", and the result should be quantified (the reviewer reports ~20% ectopic eye tissue, ~7.5% complete ectopic eyes — CHECK THESE FIGURES AGAINST THE PAPER before printing them, they are the reviewer's numbers and I did not verify them this run); (e) the sentence treating bioelectric state as "a set-point the tissue works to satisfy" should be relabelled as Levin's cybernetic INTERPRETATION rather than attributed to Pai et al. as a result. Also add a sentence recording that the storage cell types, and the contributions of neural and other epigenetic mechanisms, remain unresolved (reviewer suggests citing Bischof et al. 2020, 10.1016/j.ydbio.2020.08.009, and Grodstein & Levin 2022, 10.1089/bioe.2021.0036 — both resolve, metadata unverified beyond existence). Verify quantitative figures at the publisher of record before adopting. Sync both trees.
-- **Source**: outer-review
-- **Review file**: `reviews/outer-review-2026-09-09-chatgpt-5-6-sol-pro.md`
-- **Generated**: 2026-09-09
-
 ### P2: `topics/basal-and-bioelectric-cognition` transfers capacities across three different xenobot platforms — "push payloads" and "spontaneously cooperate to build" are not the 2020 result
 - **Type**: refine-draft
 - **File**: obsidian/topics/basal-and-bioelectric-cognition.md
@@ -2014,6 +2005,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-09: `topics/basal-and-bioelectric-cognition` overstates the Durant and Pai results — exclusivity, reversibility and set-point claims the cited sources do not establish
+- **Type**: refine-draft
+- **File**: obsidian/topics/basal-and-bioelectric-cognition.md
+- **Notes**: From outer review 2026-09-09 (ChatGPT 5.6 Pro), §4 and §5, improvements 4, 5, 7, 8. VERIFIED ON DISK: the article reads "The altered body plan is stored in the bioelectric network, not the genome; it is reversible with ion-channel modulation, behaving like a stable attractor state of the voltage circuit. This is a rewritable, non-genetic, non-neural *memory*" (offsets 4733 / 4893). The reviewer's charges, in its own terminology — it distinguishes **false** (contradicted by the source) from **unsupported by the cited source** from **overstated**, and mostly claims the latter two rather than falsity: (a) "not the genome" and "non-neural" are overstated in their EXCLUSIVE form — Durant et al. support durable non-DNA-sequence bioelectric/epigenetic reprogramming, not a demonstration that no genomic, neural or other cellular mechanism contributes; (b) "reversible" is overstated, "partially resettable" is what is shown; (c) "stable attractor state" is supported as a MODEL, not as a uniquely demonstrated mechanism; (d) for Pai et al., "instructive master signal" should be "instructive upstream signal", and the result should be quantified (the reviewer reports ~20% ectopic eye tissue, ~7.5% complete ectopic eyes — CHECK THESE FIGURES AGAINST THE PAPER before printing them, they are the reviewer's numbers and I did not verify them this run); (e) the sentence treating bioelectric state as "a set-point the tissue works to satisfy" should be relabelled as Levin's cybernetic INTERPRETATION rather than attributed to Pai et al. as a result. Also add a sentence recording that the storage cell types, and the contributions of neural and other epigenetic mechanisms, remain unresolved (reviewer suggests citing Bischof et al. 2020, 10.1016/j.ydbio.2020.08.009, and Grodstein & Levin 2022, 10.1089/bioe.2021.0036 — both resolve, metadata unverified beyond existence). Verify quantitative figures at the publisher of record before adopting. Sync both trees.
 
 ### ✓ 2026-09-09: `topics/basal-and-bioelectric-cognition` cites the Pai et al. 2012 corrigendum DOI instead of the research article — CONFIRMED at Crossref
 - **Type**: refine-draft

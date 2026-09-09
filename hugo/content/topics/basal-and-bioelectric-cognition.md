@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-09-09 14:08:30+00:00
+ai_modified: 2026-09-09 14:50:12+00:00
 ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5
 anchoring_audit_exempt: true
 author: null
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-03 10:56:31+00:00
-lastmod: 2026-09-09 14:08:30+00:00
+lastmod: 2026-09-09 14:50:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,9 +44,11 @@ Together these establish something narrow and secure: a bioelectric control laye
 
 ## Xenobots: Novel Agency From Ordinary Cells
 
-If planaria show competency in an evolved body, xenobots show it in a body evolution never built. Kriegman, Blackiston, Levin, and Bongard used an evolutionary algorithm to design body plans in simulation, then physically assembled the best designs from *Xenopus laevis* skin and cardiac cells (Kriegman et al. 2020). The resulting "reconfigurable organisms" locomote—driven by the rhythmic contraction of the heart cells—navigate, push payloads, and repair themselves after being cut. None of this is behaviour the source cells exhibit in their native frog anatomy. Freed from the usual embryonic context, the cells spontaneously cooperate to build and run a functional organism, which Levin's group reads as evidence for plastic, context-independent morphogenetic competency.
+If planaria show competency in an evolved body, xenobots show it in a body evolution never built. Kriegman, Blackiston, Levin, and Bongard used an evolutionary algorithm to design body plans in simulation, then physically assembled the best designs from *Xenopus laevis* skin and cardiac cells (Kriegman et al. 2020). The two xenobot platforms differ in just the respect at issue here. On the 2020 platform the pooled tissue was "manually shaped by subtraction" with microsurgery forceps and a cautery electrode; the organisms "self-maintain their externally imposed configuration" rather than arriving at it unaided. The cells supplied the running of the form rather than the form itself: locomotion driven by "emergent spontaneous coordination among the cardiac muscle cells", spontaneous aggregation of scattered debris, and self-repair that automatically closes lacerations. Cardiomyocytes contract rhythmically in native anatomy too; the novelty is inherited capacities coordinating at organism scale in a body plan they never occupy there.
 
-The 2021 follow-up sharpened the case. Xenobots placed in a dish of loose stem cells gather those cells and pile them into new xenobots—**kinematic self-replication**, an assembly-based mode of reproduction distinct from any known animal or plant reproduction (Kriegman et al. 2021). AI-optimized "C"-shaped (Pac-Man-like) morphologies dramatically raise the replication yield. The behaviours themselves—locomotion, self-repair, replication—are not in dispute; only how much theoretical weight the word "agency" can bear absent a nervous system.
+Self-organised construction belongs to the later platform, where dissociated *Xenopus* cells left to self-assemble form ciliated spheroids that "arise by cellular self-organization and do not require scaffolds or microprinting", navigate aqueous environments, heal after damage, and show emergent group behaviour (Blackiston et al. 2021). Levin's group reads both platforms as evidence for plastic, context-independent morphogenetic competency.
+
+The kinematic-replication follow-up sharpened the case. Xenobots placed in a dish of loose stem cells gather those cells and pile them into new xenobots—**kinematic self-replication**, an assembly-based mode of reproduction distinct from any known animal or plant reproduction (Kriegman et al. 2021). AI-optimized "C"-shaped (Pac-Man-like) morphologies dramatically raise the replication yield. The behaviours themselves—locomotion, self-repair, replication—are not in dispute; only how much theoretical weight the word "agency" can bear absent a nervous system.
 
 Xenobots matter to the Map precisely as a limiting case. Here is novel, self-replicating, goal-directed behaviour with essentially no neural apparatus—a system almost designed to test whether behavioural sophistication tracks phenomenal presence.
 
@@ -134,3 +136,4 @@ The decoupling also connects to [biological teleology](/topics/biological-teleol
 17. Seth, A. K. (2021). *Being You: A New Science of Consciousness*. Dutton.
 18. Bischof, J., Day, M. E., Miller, K. A., LaPalme, J. V., & Levin, M. (2020). Nervous system and tissue polarity dynamically adapt to new morphologies in planaria. *Developmental Biology*, 467(1-2), 51–65. https://doi.org/10.1016/j.ydbio.2020.08.009
 19. Grodstein, J., & Levin, M. (2022). A Computational Approach to Explaining Bioelectrically Induced Persistent, Stochastic Changes of Axial Polarity in Planarian Regeneration. *Bioelectricity*, 4(1), 18–30. https://doi.org/10.1089/bioe.2021.0036
+20. Blackiston, D., Lederer, E., Kriegman, S., Garnier, S., Bongard, J., & Levin, M. (2021). A cellular platform for the development of synthetic living machines. *Science Robotics*, 6(52), eabf1571. https://doi.org/10.1126/scirobotics.abf1571

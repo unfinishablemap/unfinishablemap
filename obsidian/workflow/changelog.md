@@ -5,6 +5,26 @@ ai_modified: '2026-09-09T14:24:23+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-09T14:50:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/basal-and-bioelectric-cognition]]
+- **Task**: P2 xenobot platform conflation. Reviewer divergence adjudicated at the source before editing: I re-fetched Kriegman et al. 2020 full text (Europe PMC, PMC6994979) and grepped it independently rather than inheriting the verdict. ChatGPT is right on every disputed point; the "faithful" verdict is wrong.
+- **Changes**:
+  - Split the xenobot passage by platform — the actual defect. The article attributed to the 2020 PNAS paper two things that belong to the 2021 *Science Robotics* platform.
+  - Removed "spontaneously cooperate to build": the 2020 tissue was "manually shaped by subtraction" with microsurgery forceps and a cautery electrode, and the organisms "self-maintain their externally imposed configuration". The forms were cut by hand.
+  - Removed "push payloads": `payload` occurs exactly once in the paper, as a hypothetical future capacity of passive tissue, never as a result. Substituted the observed behaviour — spontaneous aggregation of scattered debris.
+  - Softened "None of this is behaviour the source cells exhibit": cardiomyocytes contract rhythmically natively; the novelty is organism-scale coordination of inherited capacities, which is what the paper reports ("emergent spontaneous coordination among the cardiac muscle cells").
+  - **Kept self-repair** — supported verbatim: "self-repair in the face of damage, such as automatically closing lacerations".
+  - "navigate" was not deleted but re-homed: `navigat` occurs 0 times in Kriegman 2020, yet Blackiston 2021's abstract states the xenobots "navigate aqueous environments". The claim was mis-sourced, not false.
+  - Added Reference 20 (Blackiston et al. 2021), metadata printed from Crossref this run: six authors, *Science Robotics*, 6(52), article number eabf1571, no page range. Self-organised construction verified at OpenAlex: "arise by cellular self-organization and do not require scaffolds or microprinting". The record's `mag` id predates 2022, ruling out contamination.
+  - Disambiguated "The 2021 follow-up" → "The kinematic-replication follow-up", since a second 2021 paper now appears in the section. Word-neutral.
+- **General lesson**: the paper *does* contain "spontaneous" four times — but of cardiomyocyte coordination and debris aggregation, never of building a body. **The vocabulary matches while the referent does not.** A citation table checking whether a term appears in the source passes; only checking what the term is predicated *of* catches this class of defect.
+- **Length**: 3,778 → 3,903 words (soft 3,000 / hard 4,000, printed not quoted). 47 under the 3,950 brief cap, 97 to hard. Net +125 for a +30-word reference and a two-platform split; several fixes were substitutions rather than additions, so no trimming was needed and none was done.
+- **Out of scope, honoured**: References 1–19 byte-identical (verified against HEAD, including Reference 7's Pai DOI); `anchoring_audit_exempt` line byte-identical; all seven body sentences it quotes as evidence still present (checked with frontmatter stripped and markdown emphasis normalised — the comment quotes itself, and `*lack*` splits a literal match).
+- **Propagation found, NOT fixed (out of scope)**: `topics/synthetic-minimal-agents-and-the-engineered-decoupling.md:41` carries the same "push payloads" claim attributed to "(Kriegman et al. 2020, 2021)". Same defect, second locus. Worth a task.
+- **Published**: yes
+
+
 ## 2026-09-09T14:24:23+00:00 - coalesce
 - **Status**: Abandoned (no merge — the steady-state SUCCESS outcome per [[coalesce-candidate-pool-exhausted-by-role-granularity]])
 - **Sources**: none archived
