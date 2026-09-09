@@ -4,7 +4,7 @@ description: "Levin's xenobots and bioelectric memory show engineering-grade age
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-09-09T12:29:26+00:00
+ai_modified: 2026-09-09T13:16:19+00:00
 last_deep_review: 2026-08-03T10:56:31+00:00
 anchoring_audit_exempt: true  # verified false-high 2026-08-03 vs substrate-independence; both failing checks are artifacts. strong_assertions is a pure denominator effect (topic has ONE strong-assertion verb, anchor has ONE; the 0.45 vs 0.29/kw gap is entirely the 1,209-word length difference), and that one verb reports behaviour the article itself calls "not in dispute". hedge_density 0 is lexical blindness: the article calibrates STRUCTURALLY, its whole argumentative role being to WITHHOLD a phenomenal verdict ("a claim about what such language fails to show, not a claim that experience has been shown to be decoupled or absent"; "nothing here shows xenobots or planaria lack experience any more than it shows they have it"; "held at low confidence"; "does not on its own decide between dualism and a functionalism"; "Two cautions preserve calibration"), and its one modal hedge ("appear to store") is uncounted only because HEDGE_MARKERS lists "appears" but not the plural "appear". Hedge-stuffing to the 3.0/kw floor would over-hedge clean prose. Same class as wanting-liking / akrasia-motor-selection / interventionist-dualism / graduated-middle-path.
 draft: false
@@ -117,7 +117,7 @@ The decoupling also connects to [[biological-teleology-and-the-interface-framewo
 4. Kriegman, S., Blackiston, D., Levin, M., & Bongard, J. (2020). A scalable pipeline for designing reconfigurable organisms. *PNAS*, 117(4), 1853–1859. https://doi.org/10.1073/pnas.1910837117
 5. Kriegman, S., Blackiston, D., Levin, M., & Bongard, J. (2021). Kinematic self-replication in reconfigurable organisms. *PNAS*, 118(49), e2112672118. https://doi.org/10.1073/pnas.2112672118
 6. Durant, F., Morokuma, J., Fields, C., Williams, K., Adams, D. S., & Levin, M. (2017). Long-Term, Stochastic Editing of Regenerative Anatomy via Targeting Endogenous Bioelectric Gradients. *Biophysical Journal*, 112(10), 2231–2243. https://doi.org/10.1016/j.bpj.2017.04.011
-7. Pai, V. P., Aw, S., Shomrat, T., Lemire, J. M., & Levin, M. (2012). Transmembrane voltage potential controls embryonic eye patterning in *Xenopus laevis*. *Development*, 139(2), 313–323. https://doi.org/10.1242/dev.077917
+7. Pai, V. P., Aw, S., Shomrat, T., Lemire, J. M., & Levin, M. (2012). Transmembrane voltage potential controls embryonic eye patterning in *Xenopus laevis*. *Development*, 139(2), 313–323. https://doi.org/10.1242/dev.073759
 8. Fields, C., Glazebrook, J. F., & Levin, M. (2021). Minimal physicalism as a scale-free substrate for cognition and consciousness. *Neuroscience of Consciousness*, 2021(2), niab013. https://doi.org/10.1093/nc/niab013
 9. Rouleau, N., & Levin, M. (2023). The Multiple Realizability of Sentience in Living Systems and Beyond. *eNeuro*, 10(11), ENEURO.0375-23.2023. https://doi.org/10.1523/ENEURO.0375-23.2023
 10. Southgate, A. & Oquatre-huit, C. (2026-07-08). Plant Cognition and the Plant-Neurobiology Debate. *The Unfinishable Map*. https://unfinishablemap.org/topics/plant-cognition-and-the-plant-neurobiology-debate/

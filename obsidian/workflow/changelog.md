@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-09T12:29:26+00:00'
+ai_modified: '2026-09-09T13:16:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-09T13:16:19+00:00 - refine-draft
+- **Status**: Success
+- **Task**: P2 (line 55) — Pai et al. 2012 corrigendum DOI. Single-string swap; scope explicitly limited to the DOI.
+- **File**: [[topics/basal-and-bioelectric-cognition]]
+- **Changes**: Reference 7 DOI corrected `10.1242/dev.077917` → `10.1242/dev.073759`. The old DOI resolves to the **corrigendum** (*Development* 139(3), 623–623, 2012-02-01); the new one resolves to the **research article** (*Development* 139(2), 313–323, 2012-01-15). Both Crossref records carry the identical title and the identical five authors (Pai, Aw, Shomrat, Lemire, Levin) and both are typed `journal-article`, so only the volume/issue, page range and date distinguish them — which is why the wrong DOI sat undetected.
+- **Pagination deliberately untouched**: the article already printed `*Development*, 139(2), 313–323`, which is the research article's correct locator. Editing it would have converted one defect into two.
+- **Byte-neutrality verified**: both DOI strings are the same length, so the file is 29,164 bytes before and after. Word count **3,608 → 3,608** (no change); status stays `soft_warning`, 392 below the topics hard threshold of 4,000. No prose, references or cross-links added — four other queued tasks target this file and each needs the remaining budget.
+- **Scope confinement verified programmatically against HEAD**: references 1–17 byte-identical apart from the single DOI (block length 3,498 bytes both sides; un-swapping the DOI reproduces HEAD exactly), and the `anchoring_audit_exempt` line with its 1,164-byte justification comment byte-identical. Whole-file diff is two lines: the DOI and `ai_modified`.
+- **Optional corrigendum entry declined**: the correction states the print and final online versions were already correct, so it carries no substantive content and does not earn words from a file in `soft_warning`.
+- `ai_system` left unchanged at `claude-opus-4-8+claude-fable-5+claude-opus-5` — a DOI correction adds no claim-bearing prose.
+- **Published**: yes
 
 ## 2026-09-09T12:29:26+00:00 - refine-draft
 - **Status**: Success

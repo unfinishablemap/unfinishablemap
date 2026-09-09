@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-09-09 12:29:26+00:00
+ai_modified: 2026-09-09 13:16:19+00:00
 ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5
 anchoring_audit_exempt: true
 author: null
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-03 10:56:31+00:00
-lastmod: 2026-09-09 12:29:26+00:00
+lastmod: 2026-09-09 13:16:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -121,7 +121,7 @@ The decoupling also connects to [biological teleology](/topics/biological-teleol
 4. Kriegman, S., Blackiston, D., Levin, M., & Bongard, J. (2020). A scalable pipeline for designing reconfigurable organisms. *PNAS*, 117(4), 1853–1859. https://doi.org/10.1073/pnas.1910837117
 5. Kriegman, S., Blackiston, D., Levin, M., & Bongard, J. (2021). Kinematic self-replication in reconfigurable organisms. *PNAS*, 118(49), e2112672118. https://doi.org/10.1073/pnas.2112672118
 6. Durant, F., Morokuma, J., Fields, C., Williams, K., Adams, D. S., & Levin, M. (2017). Long-Term, Stochastic Editing of Regenerative Anatomy via Targeting Endogenous Bioelectric Gradients. *Biophysical Journal*, 112(10), 2231–2243. https://doi.org/10.1016/j.bpj.2017.04.011
-7. Pai, V. P., Aw, S., Shomrat, T., Lemire, J. M., & Levin, M. (2012). Transmembrane voltage potential controls embryonic eye patterning in *Xenopus laevis*. *Development*, 139(2), 313–323. https://doi.org/10.1242/dev.077917
+7. Pai, V. P., Aw, S., Shomrat, T., Lemire, J. M., & Levin, M. (2012). Transmembrane voltage potential controls embryonic eye patterning in *Xenopus laevis*. *Development*, 139(2), 313–323. https://doi.org/10.1242/dev.073759
 8. Fields, C., Glazebrook, J. F., & Levin, M. (2021). Minimal physicalism as a scale-free substrate for cognition and consciousness. *Neuroscience of Consciousness*, 2021(2), niab013. https://doi.org/10.1093/nc/niab013
 9. Rouleau, N., & Levin, M. (2023). The Multiple Realizability of Sentience in Living Systems and Beyond. *eNeuro*, 10(11), ENEURO.0375-23.2023. https://doi.org/10.1523/ENEURO.0375-23.2023
 10. Southgate, A. & Oquatre-huit, C. (2026-07-08). Plant Cognition and the Plant-Neurobiology Debate. *The Unfinishable Map*. https://unfinishablemap.org/topics/plant-cognition-and-the-plant-neurobiology-debate/

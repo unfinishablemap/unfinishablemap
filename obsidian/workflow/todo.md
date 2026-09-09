@@ -53,15 +53,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-09-09 cross-tradition residue wing)
 - **Generated**: 2026-09-09
 
-### P2: `topics/basal-and-bioelectric-cognition` cites the Pai et al. 2012 corrigendum DOI instead of the research article — CONFIRMED at Crossref
-- **Type**: refine-draft
-- **File**: obsidian/topics/basal-and-bioelectric-cognition.md
-- **Status**: pending
-- **Notes**: From outer review 2026-09-09 (ChatGPT 5.6 Pro), §5.1 and improvement 6. **This charge is CONFIRMED — I verified it at Crossref this run, independently of the reviewer.** Reference 7 of the article reads "Pai, V. P., Aw, S., Shomrat, T., Lemire, J. M., & Levin, M. (2012). Transmembrane voltage potential controls embryonic eye patterning in *Xenopus laevis*. *Development*, 139(2), 313–323. https://doi.org/10.1242/dev.077917" (DOI at offset 19673). Crossref: `10.1242/dev.077917` resolves to *Development* **139(3), 623–623** — a one-page item in a different issue, i.e. the authorship corrigendum; `10.1242/dev.073759` resolves to *Development* **139(2), 313–323** — the original research article. The page range and volume/issue the article already prints are those of the ORIGINAL, so only the DOI string is wrong; do not change the pagination. MECHANICAL FIX, deliberately kept separate from the sibling prose tasks on this file: replace `10.1242/dev.077917` with `10.1242/dev.073759`. Optionally record the corrigendum as a separate entry, but only if there is a reason to note the equal-contribution authorship correction — the correction itself states the print and final online versions were already correct, so it carries no substantive content. Sync both trees. FOLLOW-UP FOR THE OPERATOR (not minted as a task): the reviewer's methodology improvement 22 proposes a DOI-resolution-and-corrigendum check in the publication pipeline; this defect is the on-disk evidence for it, but it is a pipeline change and needs a human decision.
-- **Source**: outer-review
-- **Review file**: `reviews/outer-review-2026-09-09-chatgpt-5-6-sol-pro.md`
-- **Generated**: 2026-09-09
-
 ### P2: `topics/basal-and-bioelectric-cognition` overstates the Durant and Pai results — exclusivity, reversibility and set-point claims the cited sources do not establish
 - **Type**: refine-draft
 - **File**: obsidian/topics/basal-and-bioelectric-cognition.md
@@ -2014,6 +2005,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-09: `topics/basal-and-bioelectric-cognition` cites the Pai et al. 2012 corrigendum DOI instead of the research article — CONFIRMED at Crossref
+- **Type**: refine-draft
+- **File**: obsidian/topics/basal-and-bioelectric-cognition.md
+- **Notes**: From outer review 2026-09-09 (ChatGPT 5.6 Pro), §5.1 and improvement 6. **This charge is CONFIRMED — I verified it at Crossref this run, independently of the reviewer.** Reference 7 of the article reads "Pai, V. P., Aw, S., Shomrat, T., Lemire, J. M., & Levin, M. (2012). Transmembrane voltage potential controls embryonic eye patterning in *Xenopus laevis*. *Development*, 139(2), 313–323. https://doi.org/10.1242/dev.077917" (DOI at offset 19673). Crossref: `10.1242/dev.077917` resolves to *Development* **139(3), 623–623** — a one-page item in a different issue, i.e. the authorship corrigendum; `10.1242/dev.073759` resolves to *Development* **139(2), 313–323** — the original research article. The page range and volume/issue the article already prints are those of the ORIGINAL, so only the DOI string is wrong; do not change the pagination. MECHANICAL FIX, deliberately kept separate from the sibling prose tasks on this file: replace `10.1242/dev.077917` with `10.1242/dev.073759`. Optionally record the corrigendum as a separate entry, but only if there is a reason to note the equal-contribution authorship correction — the correction itself states the print and final online versions were already correct, so it carries no substantive content. Sync both trees. FOLLOW-UP FOR THE OPERATOR (not minted as a task): the reviewer's methodology improvement 22 proposes a DOI-resolution-and-corrigendum check in the publication pipeline; this defect is the on-disk evidence for it, but it is a pipeline change and needs a human decision.
 
 ### ✓ 2026-09-09: `topics/basal-and-bioelectric-cognition` never engages the functionalist rivals that would contest its decoupling — Laukkonen 2025, Seth, Birch, Butlin, Lyon
 - **Type**: refine-draft
