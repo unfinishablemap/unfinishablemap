@@ -1,14 +1,54 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-09T08:31:34+00:00'
+ai_modified: '2026-09-09T09:48:51+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-09'
-lastmod: 2026-09-09 08:31:34+00:00
+lastmod: 2026-09-09 09:48:51+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-09T09:48:51+00:00 - refine-draft
+- **Status**: Success
+- **File**: [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/)
+- **Original score**: not scored — `scripts/curate.py` does not exist (Step 3 skipped, as instructed; 18 prior failures on this path)
+- **Task**: P1 (todo line 39) — fix the insufficiency→neutrality slide flagged by the outer reviewers. Its Levin-author-stance sibling (todo index 49) was **not** executed and remains open.
+- **Defect**: the article slid from "competency markers are decisive nowhere on their own" (insufficiency, defensible) to "their agency is no evidence either way" (strict neutrality), then used the reweighting conclusion as if neutrality warranted it. Claude's formulation of the charge: genuinely neutral evidence cannot *mandate* reweighting, only fail to move the needle. Confirmed as a live self-contradiction, not merely a reviewer's composite: the article already asserted "stays graded rather than eliminative" and treated the marker class as "*suggestive*" **before** the neutrality sentence, so the two claims could not both stand.
+- **Changes**:
+  - **Rebuilt the conclusion's warrant** on marker convergence read against substrate and anatomical homology, citing [P-CS2](/positions/consciousness-scope/#p-cs2) (first inbound link to [P-CS2](/positions/consciousness-scope/#p-cs2) from any article — its 7 prior corpus occurrences were all self-references inside the register). For planaria and xenobots the goal-pursuit marker stands alone with no nervous system, no anatomical homology and nothing to converge with, so its weight comes out low *directly*. [P-VS1](/positions/value-in-selection/#p-vs1) kept in place as the downstream implication it already was.
+  - **Demoted the reductio** ("marches all the way down to single cells and voltage gradients…") from load-bearing warrant to a named-but-non-supporting consequence: `otherwise it marches` → `An unweighted competency criterion would, by contrast, march`, plus an explicit note that the reweighting does not rest on it. The Levin clause itself was left byte-identical.
+  - **Corrected the neutrality claim** in the "Two cautions" paragraph: "their agency is no evidence either way" → agency "does not entail consciousness and supplies no verdict on its own", with weight depending on substrate, homology and marker convergence, "very low rather than exactly zero".
+  - **Third instance of the same slide**, not named in the task note but the same defect class: "is uninformative about experience" → "is not by itself informative about experience".
+- **Decoupling from the sibling task**: the Claude leg had warned the two P1s must be fixed together, because the reductio's support is the (allegedly false) Levin clause. Accepted the driver's counter-argument and verified it against the text: the warning holds only for fixing the *Levin clause* first, which would strand the reductio. Rebuilding the *warrant* first inverts the dependency — nothing now rests on the reductio, so todo 49 can correct the Levin attribution later without stranding anything.
+- **Out of scope, untouched and verified byte-identical to HEAD**: the "explicitly agnostic about, and not asserting, felt experience" attribution, "which even Levin declines to characterise as felt", and "are not Levin's own careful bracketing…". Offset shift at the first locus is exactly +14, the length of the `+claude-opus-5` frontmatter addition, confirming no body change precedes it.
+- **Reasoning-mode classification**: not applicable — no named-opponent reply was added or altered; Levin and Dennett figure as sources, not as opponents refuted.
+- **Length**: 2,315 → 2,508 words (+193), status `ok`, 492 below the 3,000 soft threshold. `anchoring_audit_exempt` and its verified-false-high justification left exactly as found; no hedge-stuffing. No new citations (scope qualification, not an empirical claim).
+- **Published**: yes
+
+## 2026-09-09T09:36:46+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `obsidian/voids/offloading-void.md` — zero prior review coverage of any kind (2 days old, created 2026-09-07)
+- **Findings**: 12 issues, 4 High. (1) The Tenet 2 paragraph's prediction makes the **external aid's** stochasticity the discriminating variable, while `tenets.md` localises Tenet 2 to "quantum indeterminacy **in the brain**" — the prediction either needs an interface beyond the brain or does not follow from its own mechanism; compounded by a classical/quantum grain error and by post-decoherence selection leaving an improper mixture in the external computer too. (2) L119 needs deliberation to be the *exhaustive* bias site while L121 cites `decision-void` for the hedged "not the uniquely possible one" — the hedge launders the claim needing the unhedged form. (3) "the only one of the four ... removable in principle" is refuted by the host article in its own voice (`self-maintained-cognitive-limits` L162/174/184, where dissolution is one of its own falsification conditions) plus `mysterianism` L158, `inventory-blindness` L75 and `meta-epistemology-of-limits` L92. (4) "The only direct probe of persistence after tool removal is Kosmyna" is **false** — Vicente & Matute (2023), *Scientific Reports* 13:15737, is already in the corpus at `collective-cognitive-limits` §"Narrowing That Has Been Measured", peer-reviewed and three experiments; verified at publisher.
+- **Also found**: the Endsley & Kiris inference "and largely not before" contradicts the source (decreased SA was measured *under automated conditions*), which deletes a non-destructive probe and creates the article's unresolved L101/L105 tension; prediction error measures *concealment* not the void as defined at L89; `concepts/anti-correlated-metacognitive-signal` defines the article's central structure and shares its "Detection Asymmetry" section phrase yet is never linked; "Almost every void announces itself phenomenologically" is false against the named zero-signal family; Sparrow et al.'s "headline result" is the memory effect, not the priming result the article means; the Kosmyna persistence arm is a subgroup of 18, not 18.
+- **Verified clean, recorded so a later pass does not re-tread**: every quote from all seven sources verifies **verbatim** at publisher (Europe PMC, OpenAlex, arXiv, Semantic Scholar) — the defects are in the *inferences*, not the quotations; the epistemic/metaphysical equivocation check is **genuinely pre-empted by the article itself**; reference 6 (Camerer et al. 2018) is not dangling — it is Hesselmann's unnamed "large replicability project"; both reciprocal integration links were wired in both trees; altered-state symmetry is out of scope (`supportive_clusters: []`); label leakage clean at all nine strings.
+- **Tasks created**: 1 (P2 refine-draft on `voids/offloading-void`). Length measured live at 2490 words / `soft_warning` / 510 below the `voids` hard ceiling; full fix set costs ≈ +155 net words, so it clears the budget with ≈ 355 to spare.
+- **Content modified**: none — this skill is read-only for content.
+- **Output**: [pessimistic-2026-09-09-offloading-void](/reviews/pessimistic-2026-09-09-offloading-void/)
+
+## 2026-09-09T09:11:28+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-09
+- **Subject**: `topics/basal-and-bioelectric-cognition` — all three services were commissioned on the same article
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-5). The gemini-2-5-pro leg was commissioned 04:05:40, declined collection seven times, passed its 4h cutoff at 08:05:40 still pending, and was marked abandoned at 09:01 — no review file exists.
+- **Clusters**: 5 convergent, 4 singleton, 1 divergent
+- **Tasks upgraded**: 3 (P3→P2: 0, P2→P1: 3 — the Durant "offspring"/"regenerates" wording defect, the Claude-leg functionalist-rivals engagement, and the propagation of the slide to neighbour articles). Two further convergent clusters mapped to tasks already at P1 and were left there; fields and notes were rewritten without a priority change.
+- **Tasks deduplicated**: 0. No task was deleted. The counterargument cluster is convergent but its two tasks carry disjoint reading lists (ChatGPT: Rouleau & Levin, DiFrisco & Gawne, Fábregas-Tejeda & Sims, Joy; Claude: Laukkonen, Seth, Birch, Butlin, Lyon), so merging would have destroyed one — both survive, the cluster was elevated once via the Claude half, and the ChatGPT half is cross-referenced at P2.
+- **Cross-review products not visible from either review alone**: (1) the two existing P1s are **coupled** — correcting the Levin author stance strands the reductio that is the only thing blocking the insufficiency-to-neutrality non-sequitur, so they must be fixed together; written into both task notes. (2) A convergent cluster missing from the Claude leg's own convergence list — the Durant "offspring" defect, which ChatGPT filed under "supported with wording correction" rather than as a defect; two disjoint methods (biological-semantics reading and Europe PMC full-text grep) on the same one-word fix. (3) A genuine **divergence** on the Kriegman 2020 xenobot description: ChatGPT charges "push payloads" and "cells spontaneously cooperate to build" as unsupported/false, Claude's citation table calls the same description "faithful". Not adjudicated; flagged in the task.
+- **Not convergent despite appearing so**: the Pai corrigendum DOI. ChatGPT confirmed it at Crossref; Claude's table marked it "✅ Consistent" while its own note said "not re-verified at publisher this pass". One confirmation plus one abstention is a singleton — task left at P2, untouched.
+- **Output**: [outer-review-synthesis-2026-09-09](/reviews/outer-review-synthesis-2026-09-09/)
+- **Published**: pending next sync
 
 ## 2026-09-09T08:31:34+00:00 - refine-draft
 - **Status**: Success

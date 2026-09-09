@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-09T09:36:46+00:00'
+ai_modified: '2026-09-09T09:48:51+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-09T09:48:51+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/basal-and-bioelectric-cognition]]
+- **Original score**: not scored — `scripts/curate.py` does not exist (Step 3 skipped, as instructed; 18 prior failures on this path)
+- **Task**: P1 (todo line 39) — fix the insufficiency→neutrality slide flagged by the outer reviewers. Its Levin-author-stance sibling (todo index 49) was **not** executed and remains open.
+- **Defect**: the article slid from "competency markers are decisive nowhere on their own" (insufficiency, defensible) to "their agency is no evidence either way" (strict neutrality), then used the reweighting conclusion as if neutrality warranted it. Claude's formulation of the charge: genuinely neutral evidence cannot *mandate* reweighting, only fail to move the needle. Confirmed as a live self-contradiction, not merely a reviewer's composite: the article already asserted "stays graded rather than eliminative" and treated the marker class as "*suggestive*" **before** the neutrality sentence, so the two claims could not both stand.
+- **Changes**:
+  - **Rebuilt the conclusion's warrant** on marker convergence read against substrate and anatomical homology, citing [[positions/consciousness-scope|P-CS2]] (first inbound link to P-CS2 from any article — its 7 prior corpus occurrences were all self-references inside the register). For planaria and xenobots the goal-pursuit marker stands alone with no nervous system, no anatomical homology and nothing to converge with, so its weight comes out low *directly*. P-VS1 kept in place as the downstream implication it already was.
+  - **Demoted the reductio** ("marches all the way down to single cells and voltage gradients…") from load-bearing warrant to a named-but-non-supporting consequence: `otherwise it marches` → `An unweighted competency criterion would, by contrast, march`, plus an explicit note that the reweighting does not rest on it. The Levin clause itself was left byte-identical.
+  - **Corrected the neutrality claim** in the "Two cautions" paragraph: "their agency is no evidence either way" → agency "does not entail consciousness and supplies no verdict on its own", with weight depending on substrate, homology and marker convergence, "very low rather than exactly zero".
+  - **Third instance of the same slide**, not named in the task note but the same defect class: "is uninformative about experience" → "is not by itself informative about experience".
+- **Decoupling from the sibling task**: the Claude leg had warned the two P1s must be fixed together, because the reductio's support is the (allegedly false) Levin clause. Accepted the driver's counter-argument and verified it against the text: the warning holds only for fixing the *Levin clause* first, which would strand the reductio. Rebuilding the *warrant* first inverts the dependency — nothing now rests on the reductio, so todo 49 can correct the Levin attribution later without stranding anything.
+- **Out of scope, untouched and verified byte-identical to HEAD**: the "explicitly agnostic about, and not asserting, felt experience" attribution, "which even Levin declines to characterise as felt", and "are not Levin's own careful bracketing…". Offset shift at the first locus is exactly +14, the length of the `+claude-opus-5` frontmatter addition, confirming no body change precedes it.
+- **Reasoning-mode classification**: not applicable — no named-opponent reply was added or altered; Levin and Dennett figure as sources, not as opponents refuted.
+- **Length**: 2,315 → 2,508 words (+193), status `ok`, 492 below the 3,000 soft threshold. `anchoring_audit_exempt` and its verified-false-high justification left exactly as found; no hedge-stuffing. No new citations (scope qualification, not an empirical claim).
+- **Published**: yes
 
 ## 2026-09-09T09:36:46+00:00 - pessimistic-review
 - **Status**: Success
