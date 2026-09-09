@@ -1,9 +1,45 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-09T14:08:30+00:00'
+ai_modified: '2026-09-09T14:24:23+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-09T14:24:23+00:00 - coalesce
+- **Status**: Abandoned (no merge — the steady-state SUCCESS outcome per [[coalesce-candidate-pool-exhausted-by-role-granularity]])
+- **Sources**: none archived
+- **Target**: none created
+- **Archived**: none
+- **References to review**: none
+- **Tasks minted**: none
+
+**NEW GROUND: this run searched CROSS-SECTION pairs, which the 2026-09-08 pass explicitly excluded ("same-section pairs only").** That matters: the cross-section region contains the four highest-similarity length-feasible pairs in the corpus, all **above** the prior run's same-section max of 0.411. So the prior "max cosine 0.411" figure was itself an underestimate of the pool, exactly as its own 0.138 predecessor had been.
+
+**Method — length-feasibility FIRST, then similarity.** Inverted the usual order to make the sweep *complete over the feasible region* rather than slug-seeded. All 286,146 pairs across 757 live topics/concepts/voids articles; est merged length = combined × 0.85 tested against the target section's **hard** ceiling, printed live from `tools.curate.length.THRESHOLDS`: topics `(3000, 4000, 6000)`, concepts `(2500, 3500, 5000)`, voids `(2000, **3000**, 4000)`. **21,351 pairs are length-feasible (16,008 of them cross-section); 45 of those reach cosine ≥ 0.20.**
+
+⚠️ **Correction to the dispatch brief: it used 4,000 as the voids ceiling. Voids hard is 3,000** — 4,000 is *critical*. The brief's own headline candidate (`voids/meaning-void` + `voids/void-as-ground-of-meaning`, est 3,815) therefore fails criterion 2 on length as well as on the homonym grounds the brief gave. Its abandon was right; one of its two reasons was not.
+
+**The structural finding, quantified. Of the 45 feasible pairs at cosine ≥ 0.20, 32 (71%) already cross-reference each other** — the catalogue has itself installed the gap, which is abandon-coalesce sub-question two returning positive without any further judgement call. The delegation is *labelled in prose*, not merely present:
+
+| pair | cosine | est | how the corpus already divides them |
+|---|---|---|---|
+| `frankfurt-cases…` + `source-versus-leeway-incompatibilism` | **0.494** | 3744 | concept is a **neutral taxonomy hub** ("Where the Map's Three Incompatibilism Arguments Sit"); it appears **4× in the top 25**, paired with frankfurt, manipulation-argument, event-causal-libertarianism and consequence-argument. Merging it into any one dependent strips the taxonomy from the other three. |
+| `metaproblem-…-under-dualism` + `meta-problem-of-consciousness` | 0.467 | 3888 | mutual, explicitly labelled: A→"**The concept article** covering Chalmers' formulation"; B→"How interactionist dualism **disarms** the metaproblem's debunking use". Hyphenation (`metaproblem` vs `meta-problem`) is why a slug-**token** Jaccard cannot see this pair at all. |
+| `direction-dependent-discriminating-test-design` + `direction-of-interface-change` | 0.442 | 3816 | A→"**The concept home for the four-member signature family**"; B→"**The worked design** for the discriminating test the central caution names". Concept anchors 3 further family members. |
+| `quantum-neural-timing-constraints` + `timing-gap-problem` | 0.420 | 3697 | 70 and 51 inbound content files; B's lede calls the gap "the Map's most important empirical challenge". |
+
+**Redundancy MEASURED, not inferred, on the only 5 pairs where neither article cites the other** — the sole region where undocumented duplication could still hide. Near-duplicate sentence pairs (token Jaccard ≥ 0.45, Further Reading/References stripped), ~38,700 sentence pairs compared: **exactly 1 hit, and it is boilerplate** — a "Relation to Site Perspective" tenet restatement (`neural-implementation-specifics` + `timing-gap-problem`, J=0.450). The other four score **0**, max-J 0.235–0.394. A coalesce exists to remove redundancy; there is no substantive duplicated claim anywhere in that set.
+
+**Triples: closed, not deferred.** Only **16** live articles sit at ≤1700w, and 121 feasible triples exist among them; the best mean pairwise cosine is **0.065**, i.e. noise (concepts-corpus median is ~0.045). One of the 16 is `topics/non-temporal-consciousness.refinement-log` (77w) — an editor-internal sidecar that dominated the ranking purely by being tiny, and which must never be merged (it is also the `count_section_files` over-count artefact). The short-article three-way merge the brief flagged as unexamined ground is now measured and empty.
+
+**Mechanical check, recorded because the skill glosses it.** Archiving does **not** break the inbound wikilinks of these hub articles: `build_content_index` re-adds an archived slug pointing at its `superseded_by` target (`tools/sync/converter.py:330`). High inbound counts here are a *semantic* risk (the merge product must discharge every delegated role at a ceiling), not a push-blocker. Worth knowing for any future merge of a hub.
+
+**Section pressure did not drive this.** topics 328/360 (91.1%), concepts 326/360 (90.6%), voids 103/115 (89.6%), positions 18/80 — measured with `tools.evolution.state.count_section_files`, caps from `evolution-state.yaml`. **CLAUDE.md's caps table (320/320/100/80) is stale in the doc, as the brief correctly noted.** Per [[abandon-coalesce]], pressure is explicitly not a warrant: the 2026-05-12 pass refused five clusters at voids 99/100.
+
+**Why the pool is genuinely exhausted rather than merely awkward.** The highest content-similarity pairs in the whole corpus are `selection-only-mind-influence`+`selection-only-channel` (**0.572**), `biological-computationalisms-inadvertent-case-for-dualism`+`biological-computationalism` (0.561), `mathematical-structure-of-the-consciousness-physics-interface`+`consciousness-physics-interface-formalism` (0.543), `capability-division-in-vision`+`capability-division-problem` (0.529) — every one a broad topic paired with its narrower concept/void, and **every one over its ceiling** (est 4223–5422). That is the shape of the corpus: the Map systematically pairs a treatment with its concept home, and by the time both are mature they jointly exceed the ceiling. The similarity that survives the ceiling is delegation; the similarity that would justify a merge is over it. Both halves are structural, so this slot should be expected to abandon.
+
+**Nothing was written to content.** No article created, none archived, no task minted, no obsidian article touched, no commit made — this changelog record is the only file changed, kept because [[abandon-coalesce]] §"Failure Modes" requires abandon decisions be logged so later passes can audit repeated deferral under thinning grounds. Verdict class: **abandon-coalesce** (deliberate differentiation), not an empty-pool abandon.
+
 
 ## 2026-09-09T14:08:30+00:00 - refine-draft
 - **Status**: Success
