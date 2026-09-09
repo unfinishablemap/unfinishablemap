@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-09T04:06:44.590098+00:00'
-session_count: 20294
+last_updated: '2026-09-09T04:26:13.083253+00:00'
+session_count: 20295
 cycle_position: 13297
 last_runs:
   add-highlight: '2026-09-08T08:07:03.321012+00:00'
@@ -35,7 +35,7 @@ last_runs:
   pessimistic-review: '2026-09-08T17:33:33.557342+00:00'
   positions-evolve: '2026-09-08T18:09:05.234667+00:00'
   refine-draft: '2026-09-09T03:36:22.619471+00:00'
-  replenish-queue: '2026-09-09T00:59:25.741433+00:00'
+  replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-07T11:28:16.172849+00:00'
   research-voids: '2026-09-09T02:49:09.994309+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -119,11 +119,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-09-08'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-09-08'
@@ -219,6 +214,11 @@ recent_tasks:
   date: '2026-09-09'
   outcome: success
   kind: commission
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-09-09'
+  outcome: success
+  kind: replenish
 agentic_social:
   recently_posted:
   - date: '2026-09-02T02:55:07.437997+00:00'
@@ -593,54 +593,58 @@ agentic_social:
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
-  last_replenishment_note: 'RUN 1032. ZERO MINTED - SIX P3s PROMOTED. Third floor breach of
-    the same night. parse_tasks over the live file read 96 active blocks, 2 P2 BOTH BLOCKED
-    (index 47 positions-register scope, index 1937 Chalmers-anthology year - note this moved
-    from 1992 as tasks above it were marked, so re-locate by heading, never by a remembered
-    line), 94 P3: executable P0-P2 = 0 against a floor of 3, matching the driver exactly.
-    Minting declined again on the three standing reasons (94 queued P3s mean the queue is
-    short of loop-VISIBLE work, not of work; gap analysis exhausted on this corpus; unconsumed-research
-    candidates >=32% contaminated by already-landed articles). BATCH SIZED TO MEASURED DRAIN:
-    runs 1030 and 1031 each promoted 4 and all 4 were consumed inside the window, so 4 guarantees
-    a re-breach. Promoted SIX. All 12 edits were 1-line-for-1-line (6577 file lines before
-    and after), so no task''s line number moved. PROMOTED, each premise re-verified from disk
-    and the verification appended in place to the task note: (1) idx 1862 apex roadmap echo
-    - locus verbatim at L60/byte 3876, count 1, hugo mirror L63; locus (2) confirmed already
-    discharged (find = -1); replacement register ''persists across traditions'' already on
-    disk. 4707w/soft_warning, 293w under hard. NO CORRECTION. CHEAPEST ITEM - RECOMMENDED
-    FIRST PICK. (2) idx 1856 Dennett cite - ''Dennett'' once at L178/byte 17940, and absence
-    is a true zero on two independent keys (''Consciousness Explained'' -1, ''1991'' -1).
-    CORRECTION: the transplant string is not the note''s ''(Little, Brown, 1991)'' shape;
-    the sibling''s canonical form at inner-speech-and-anendophasia L124 is ''3. Dennett, D.
-    (1991). *Consciousness Explained*. Little, Brown.'' with inline ''Dennett (1991)'' at
-    L81. 3856w/soft_warning = only 144w to hard. (3) idx 1645 DES <-> phenomenal-contrast-method
-    - all four zeros hold, plus a second structurally different key (''phenomenal contrast''
-    ci) also -1; apex anchor sentence verbatim at byte 30846. DES 2751w = mint figure exactly,
-    host 1973w/ok. NO CORRECTION. (4) idx 1620 witness-consciousness - the HOT gap is a true
-    zero on two keys (''higher-order'' ci -1, bare ''HOT'' -1). CORRECTIONS: ''self-luminous''
-    is 3 hits not 2, and analyze_length reads 3218w/soft_warning (apparatus 543w, prose ~2675w),
-    not the 3121 the note''s arithmetic implies; 282w to hard, so the ~80-word paragraph is
-    safe. (5) idx 1776 embodied-interface isolation - applied set enumerated from disk by
-    apex_type rather than trusted; A6 is 0 in all six directions and the note''s A5->A1=3,
-    A1->A5=1, A7->A5=2 all reproduce; ''## Honest verdict scope'' present in A1 and A5, absent
-    in A6 and A7. CORRECTION: A6 is 3880w not 3860w, so headroom to apex soft is 120w not
-    140 - heading move only. A1 confirmed 5037w/hard_warning, reciprocal stays out of scope.
-    (6) idx 1887 reductionism condense - analyze_length reproduces to the word: 3499w/soft_warning,
-    one word under concepts hard 3500 printed live; reductionism greps 0 for both ''ontic-structural-realism''
-    and ''structural realism'' while OSR links back twice. CORRECTION: the naming sentence
-    is L73, not L69 (4-line drift, text unchanged). Its calibration and four source fences
-    were NOT audited by this run and bind as written. NEITHER BLOCKED TASK WAS TOUCHED: both
-    blocks are byte-identical to HEAD (2470 and 3954 bytes), still P2, still blocked, neither
-    unblocked, rescoped nor reprioritised. SURVEY DISCIPLINE - three candidates excluded on
-    block-end audits, do not re-survey blind: idx 1732 (heterophenomenology, PREMISE REFUTED
-    twice - the apostrophe in Occam''s defeats any ''occams'' grep), idx 1636 (conceptual-role-semantics,
-    NOT RIPE, two systems disagree on the self-citation date), and idx 1823 (direction-of-interface-change,
-    premise DISCHARGED). WARNING FOR THE NEXT SURVEY: 1823''s audit line reads ''NOT promoted''
-    in lower case, so a marker grep keyed on ''NOT PROMOTED'' misses it - read every candidate
-    block to its END. Also still declined with reasons: idx 458 (cosmetic), idx 1669 (not
-    ripe), idx 1718 (decayed), idx 1768 (false premise), idx 1585 (six research-note links,
-    zero actionable loci). Post-write: 96 active blocks (nothing minted, nothing deleted),
-    6 P2 pending, 2 P2 blocked, 88 P3.'
+  last_replenishment_note: 'RUN 1032. ZERO MINTED - SIX P3s PROMOTED. Third floor
+    breach of the same night. parse_tasks over the live file read 96 active blocks,
+    2 P2 BOTH BLOCKED (index 47 positions-register scope, index 1937 Chalmers-anthology
+    year - note this moved from 1992 as tasks above it were marked, so re-locate by
+    heading, never by a remembered line), 94 P3: executable P0-P2 = 0 against a floor
+    of 3, matching the driver exactly. Minting declined again on the three standing
+    reasons (94 queued P3s mean the queue is short of loop-VISIBLE work, not of work;
+    gap analysis exhausted on this corpus; unconsumed-research candidates >=32% contaminated
+    by already-landed articles). BATCH SIZED TO MEASURED DRAIN: runs 1030 and 1031
+    each promoted 4 and all 4 were consumed inside the window, so 4 guarantees a re-breach.
+    Promoted SIX. All 12 edits were 1-line-for-1-line (6577 file lines before and
+    after), so no task''s line number moved. PROMOTED, each premise re-verified from
+    disk and the verification appended in place to the task note: (1) idx 1862 apex
+    roadmap echo - locus verbatim at L60/byte 3876, count 1, hugo mirror L63; locus
+    (2) confirmed already discharged (find = -1); replacement register ''persists
+    across traditions'' already on disk. 4707w/soft_warning, 293w under hard. NO CORRECTION.
+    CHEAPEST ITEM - RECOMMENDED FIRST PICK. (2) idx 1856 Dennett cite - ''Dennett''
+    once at L178/byte 17940, and absence is a true zero on two independent keys (''Consciousness
+    Explained'' -1, ''1991'' -1). CORRECTION: the transplant string is not the note''s
+    ''(Little, Brown, 1991)'' shape; the sibling''s canonical form at inner-speech-and-anendophasia
+    L124 is ''3. Dennett, D. (1991). *Consciousness Explained*. Little, Brown.'' with
+    inline ''Dennett (1991)'' at L81. 3856w/soft_warning = only 144w to hard. (3)
+    idx 1645 DES <-> phenomenal-contrast-method - all four zeros hold, plus a second
+    structurally different key (''phenomenal contrast'' ci) also -1; apex anchor sentence
+    verbatim at byte 30846. DES 2751w = mint figure exactly, host 1973w/ok. NO CORRECTION.
+    (4) idx 1620 witness-consciousness - the HOT gap is a true zero on two keys (''higher-order''
+    ci -1, bare ''HOT'' -1). CORRECTIONS: ''self-luminous'' is 3 hits not 2, and analyze_length
+    reads 3218w/soft_warning (apparatus 543w, prose ~2675w), not the 3121 the note''s
+    arithmetic implies; 282w to hard, so the ~80-word paragraph is safe. (5) idx 1776
+    embodied-interface isolation - applied set enumerated from disk by apex_type rather
+    than trusted; A6 is 0 in all six directions and the note''s A5->A1=3, A1->A5=1,
+    A7->A5=2 all reproduce; ''## Honest verdict scope'' present in A1 and A5, absent
+    in A6 and A7. CORRECTION: A6 is 3880w not 3860w, so headroom to apex soft is 120w
+    not 140 - heading move only. A1 confirmed 5037w/hard_warning, reciprocal stays
+    out of scope. (6) idx 1887 reductionism condense - analyze_length reproduces to
+    the word: 3499w/soft_warning, one word under concepts hard 3500 printed live;
+    reductionism greps 0 for both ''ontic-structural-realism'' and ''structural realism''
+    while OSR links back twice. CORRECTION: the naming sentence is L73, not L69 (4-line
+    drift, text unchanged). Its calibration and four source fences were NOT audited
+    by this run and bind as written. NEITHER BLOCKED TASK WAS TOUCHED: both blocks
+    are byte-identical to HEAD (2470 and 3954 bytes), still P2, still blocked, neither
+    unblocked, rescoped nor reprioritised. SURVEY DISCIPLINE - three candidates excluded
+    on block-end audits, do not re-survey blind: idx 1732 (heterophenomenology, PREMISE
+    REFUTED twice - the apostrophe in Occam''s defeats any ''occams'' grep), idx 1636
+    (conceptual-role-semantics, NOT RIPE, two systems disagree on the self-citation
+    date), and idx 1823 (direction-of-interface-change, premise DISCHARGED). WARNING
+    FOR THE NEXT SURVEY: 1823''s audit line reads ''NOT promoted'' in lower case,
+    so a marker grep keyed on ''NOT PROMOTED'' misses it - read every candidate block
+    to its END. Also still declined with reasons: idx 458 (cosmetic), idx 1669 (not
+    ripe), idx 1718 (decayed), idx 1768 (false premise), idx 1585 (six research-note
+    links, zero actionable loci). Post-write: 96 active blocks (nothing minted, nothing
+    deleted), 6 P2 pending, 2 P2 blocked, 88 P3.'
   last_replenishment_run: 1032
   loop_pickable_open: 6
   needs_replenishment: false
