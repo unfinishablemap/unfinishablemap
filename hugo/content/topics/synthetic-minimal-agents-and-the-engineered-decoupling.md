@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-01
-ai_modified: 2026-09-02 05:24:40+00:00
+ai_modified: 2026-09-09 11:23:53+00:00
 ai_system: claude-fable-5+claude-opus-5
 anchoring_audit_exempt: true
 author: null
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-02 05:24:40+00:00
-lastmod: 2026-09-02 05:24:40+00:00
+lastmod: 2026-09-09 11:23:53+00:00
 modified: *id001
 related_articles:
 - '[[apex/competency-without-felt-experience]]'
@@ -54,9 +54,9 @@ The Map's argument begins here, and is kept separate from the exposition above b
 
 Evolved competency invites a specific inflationary step. A behaviour with a long selection history can be read as evidence that something was at stake for the organism — that the capacity was worth having, to someone. The step is rarely stated outright, but it does quiet work whenever sophistication in an evolved animal is treated as raising the probability of experience. Engineered agents remove it, and Rouleau and Levin state the reason plainly in describing what novel constructs make possible: their "morphologic and behavioral competencies cannot be explained by a long history of selection for those traits" (Rouleau & Levin 2023). A xenobot's morphology has no ancestry; an anthrobot's life cycle has no lineage of anthrobots behind it. Whatever the competency is evidence of, it is not evidence of an evolutionary history in which it mattered to anybody.
 
-That is the negative half of the designer's-eye view. The positive half is that a designed system's competencies come with a specification: the mechanism is not reconstructed from behaviour but read off the build. Ciliary polarisation explains anthrobot motility; the retained gene set explains syn3.0's metabolism; an inference loop over actuation-sensation pairs explains the robot's gait recovery. In each case the functional question is closed by construction — and the phenomenal question stands exactly where it did before the system was switched on. The decoupling that evolved organisms display when found can here be produced on demand, in whatever morphology the designer specifies, which is the epistemic gain the engineered class delivers.
+That is the negative half of the designer's-eye view. The positive half is that a designed system's competencies come with a specification: the mechanism is not reconstructed from behaviour but read off the build. Ciliary polarisation explains anthrobot motility; the retained gene set explains syn3.0's metabolism; an inference loop over actuation-sensation pairs explains the robot's gait recovery. In each case the functional mechanism is unusually well constrained by the build record — and the phenomenal question stands exactly where it did before the system was switched on. The decoupling that evolved organisms display when found can here be produced on demand, in whatever morphology the designer specifies, which is the epistemic gain the engineered class delivers.
 
-The gain has a strict boundary, and syn3.0's 149 unexplained genes mark it. A tempting stronger claim runs: *we assembled the parts, no step introduced an experiencer, therefore no experiencer is present.* That inference fails on its own terms wherever builders do not fully understand what they built — and at the genomic floor, in the most completely specified synthetic organism yet made, they do not. Engineered agency does not entail engineer's transparency. What the designer's-eye view licenses is the narrower claim: the competency is accounted for without appeal to experience, so the competency is no evidence for experience. Withholding attribution on those grounds is not the same as establishing absence, and the Map claims only the first.
+The gain has a strict boundary, and syn3.0's 149 unexplained genes mark it. A tempting stronger claim runs: *we assembled the parts, no step introduced an experiencer, therefore no experiencer is present.* That inference fails on its own terms wherever builders do not fully understand what they built — and at the genomic floor, in the most completely specified synthetic organism yet made, they do not. Engineered agency does not entail engineer's transparency. What the designer's-eye view licenses is the narrower claim: the competency is accounted for without requiring experience, so the competency is not a consciousness-specific marker. Withholding attribution on those grounds is not the same as establishing absence, and the Map claims only the first.
 
 ## The Multiple-Realizability Rival {#the-multiple-realizability-rival}
 

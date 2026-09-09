@@ -4,7 +4,7 @@ description: "From nematodes to slime molds: where does consciousness begin? The
 created: 2026-01-19
 modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-08-19T00:24:14+00:00
+ai_modified: 2026-09-09T11:23:53+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -275,7 +275,7 @@ The Map rejects MWI partly because it undermines the [[haecceity]]—the irreduc
 - [[working-memory]] — The capacity expansion that enables consciousness-dependent cognition
 
 ### The Non-Neural Competency Ladder
-- [[basal-and-bioelectric-cognition]] — Levin's bioelectric agency: engineering-grade competence without asserted experience
+- [[basal-and-bioelectric-cognition]] — Levin's bioelectric agency: engineering-grade competence without independently established experience
 - [[neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition]] — The floor case: coordinated behaviour with zero neurons, where the competence-experience decoupling is starkest
 - [[the-cognitive-immune-system-and-immunological-selfhood]] — Learning, memory, and a functional "self" with zero neurons: the cluster's sharpest test of self-language
 - [[the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question]] — The gut's "second brain" and the open question of where the interface localises

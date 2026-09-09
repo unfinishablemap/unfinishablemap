@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-19 00:24:14+00:00
+ai_modified: 2026-09-09 11:23:53+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -41,7 +41,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 13:33:01+00:00
-lastmod: 2026-08-19 00:24:14+00:00
+lastmod: 2026-09-09 11:23:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -279,7 +279,7 @@ The Map rejects MWI partly because it undermines the [haecceity](/concepts/haecc
 - [working-memory](/concepts/working-memory/) — The capacity expansion that enables consciousness-dependent cognition
 
 ### The Non-Neural Competency Ladder
-- [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) — Levin's bioelectric agency: engineering-grade competence without asserted experience
+- [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) — Levin's bioelectric agency: engineering-grade competence without independently established experience
 - [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/) — The floor case: coordinated behaviour with zero neurons, where the competence-experience decoupling is starkest
 - [the-cognitive-immune-system-and-immunological-selfhood](/topics/the-cognitive-immune-system-and-immunological-selfhood/) — Learning, memory, and a functional "self" with zero neurons: the cluster's sharpest test of self-language
 - [the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question](/topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question/) — The gut's "second brain" and the open question of where the interface localises

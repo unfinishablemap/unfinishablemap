@@ -4,7 +4,7 @@ description: "How the Map's interface framework transforms biological teleology 
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-08-19T15:24:39+00:00
+ai_modified: 2026-09-09T11:23:53+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,11 +39,25 @@ Biology banished purpose from nature. Darwin showed that apparent design arises 
 
 ## The Standard Account: Function Without Purpose
 
-Philosophy of biology distinguishes two senses of teleology. *Aetiological* teleology, developed in the selected-effects tradition of Millikan (1984) and Neander (1991), explains a trait by its evolutionary history: the heart's function is to pump blood because pumping blood is why hearts were selected. *Dispositional* teleology describes what a trait currently does: this heart pumps blood now, regardless of evolutionary history. Neither sense involves genuine purpose. The heart does not pump blood *in order to* achieve a goal it represents. It pumps because the causal history that produced it involved selection for pumping.
+Philosophy of biology distinguishes two senses of teleology. *Aetiological* teleology, developed in the selected-effects tradition of Millikan (1984) and Neander (1991), explains a trait by its evolutionary history: the heart's function is to pump blood because pumping blood is why hearts were selected. *Dispositional* teleology describes what a trait currently does: this heart pumps blood now, regardless of evolutionary history. Neither sense involves genuine purpose. The heart does not pump blood *in order to* achieve a goal it represents or values. It pumps because the causal history that produced it involved selection for pumping.
 
 This framework handles biological complexity without invoking minds, intentions, or goals. It works for hearts, kidneys, immune systems, and neural circuits alike. The functionalist tradition in philosophy of mind extends the same logic to consciousness: mental states are defined by their causal roles, and those roles are explained by the same selected-effects framework. Fear exists because fear-behaviour was adaptive. On this view, biological teleology is entirely retrospective—an explanatory idiom, not an ontological feature of nature.
 
 The Map agrees that this account is correct for most of biology. But it identifies a specific point at which the selected-effects framework becomes insufficient: the moment when conscious selection among competing neural options determines behaviour.
+
+## Four Senses of "Goal"
+
+The word "goal" does at least four different jobs in biology, and the argument below depends on keeping them apart. Three of them are compatible with the standard account just given; only the fourth is where the Map locates genuine purpose.
+
+*Attractor stability.* A system settles reliably into one region of its state space. Gene-regulatory networks fall into cell-type attractors; a regenerating flatworm rebuilds the same head-to-tail pattern after amputation. Nothing in the system encodes the endpoint as a target — the endpoint is a fact about the dynamics, and "goal" here is observer shorthand of exactly the kind the selected-effects account explains away.
+
+*Control-theoretic set-points.* A comparator holds a reference value and corrects error against it. Thermoregulation works this way, as does the exact adaptation of [[bacterial-chemotaxis-and-minimal-biogenic-cognition|bacterial chemotaxis]], where receptor modification returns signalling activity to its pre-stimulus baseline across a wide range of ambient concentrations. This is more than attractor talk grants: there is a real internal quantity the system defends. But the reference value is a parameter of the mechanism rather than something the mechanism is *about*.
+
+*Represented goals.* The system carries a model of an outcome that is not currently the case and can weigh it against alternatives. Model-based planning is the standard case. This is intentional content in the philosophers' sense — genuine aboutness — and it is available to a system in which nothing is felt.
+
+*Phenomenally valued goals.* The outcome matters *to* the system. Valence attaches to it, and there is something it is like to want it.
+
+The Map's claim is accordingly narrow: genuine teleology begins at the fourth sense, where a felt valuation does causal work through the selection interface. The first three belong to the scaffolding however elaborate they get — and competence documented at the first two licenses nothing about the fourth in either direction. Attractor stability and a defended set-point are not markers specific to phenomenal valuation; their presence is neither evidence for it nor evidence against it. [[basal-and-bioelectric-cognition|Bioelectric morphogenetic control]] and [[single-cell-proto-agency-and-the-evidence-problem|prokaryotic proto-agency]] are the cases where the four senses run together most easily, and where running them together converts a claim about insufficient evidence into an apparent verdict.
 
 ## Where Function Becomes Purpose
 
@@ -57,7 +71,7 @@ Consider the contrast with pure biological function:
 |---------|-------------------|-------------------|
 | **Explanation** | Selected effects (backward-looking) | Intention (forward-looking) |
 | **Causation** | Mechanistic chain | Agent selection among options |
-| **Goal representation** | None (goals are observer-attributed) | Present (the agent represents outcomes) |
+| **Goal structure** | Attractor or set-point (goals observer-attributed) | Phenomenally valued outcome (represented *and* felt to matter) |
 | **Counterfactuals** | If selection had differed, different traits would exist | If the agent had chosen differently, different action would follow |
 | **Mechanism** | Genetic variation + natural selection | Neural competition + conscious selection at the interface |
 

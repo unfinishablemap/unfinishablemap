@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-15
-ai_modified: 2026-09-08 14:24:06+00:00
+ai_modified: 2026-09-09 11:23:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-24 12:26:42+00:00
-lastmod: 2026-09-08 14:24:06+00:00
+lastmod: 2026-09-09 11:23:53+00:00
 modified: *id001
 related_articles:
 - '[[agency-void]]'
@@ -89,7 +89,7 @@ The hand-off is to the [agency void](/voids/agency-void/), which already general
 - [bacterial-chemotaxis-and-minimal-biogenic-cognition](/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/) — The sibling article specifying the run-and-tumble mechanism this piece takes as given; it parks the noise-vs-choice question this article picks up
 - [The Agency Void](/voids/agency-void/) — The in-principle verification limit this case instantiates at the prokaryotic floor
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — The eukaryotic rung one step up the competency ladder
-- [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) — Levin's agency-without-experience decoupling, the framing the whole cluster shares
+- [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) — Levin's agency-with-phenomenality-unresolved framing, which the whole cluster shares
 - [synthetic-minimal-agents-and-the-engineered-decoupling](/topics/synthetic-minimal-agents-and-the-engineered-decoupling/) — The built counterpart at the cellular floor: a designed 473-gene cell roughly a third of whose parts its builders cannot account for — engineered agency without engineer's transparency
 - [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) — The competency-versus-experience decoupling this article extends to the level of evidence
 - [P-CS5, consciousness-scope register](/positions/consciousness-scope/) — The Map's registered calibration for this rung: two-way underdetermination at moderate credence, with the parsimony default undefeated but not established
