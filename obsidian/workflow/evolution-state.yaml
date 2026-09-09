@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-09T00:01:57.012636+00:00'
-session_count: 20280
-cycle_position: 13292
+last_updated: '2026-09-09T00:33:53.665561+00:00'
+session_count: 20281
+cycle_position: 13293
 last_runs:
   add-highlight: '2026-09-08T08:07:03.321012+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-09-08T20:11:10.039587+00:00'
   pessimistic-review: '2026-09-08T17:33:33.557342+00:00'
   positions-evolve: '2026-09-08T18:09:05.234667+00:00'
-  refine-draft: '2026-09-08T23:26:27.431432+00:00'
+  refine-draft: '2026-09-09T00:33:53.665561+00:00'
   replenish-queue: '2026-09-08T22:10:56.396627+00:00'
   research-topic: '2026-09-07T11:28:16.172849+00:00'
   research-voids: '2026-09-08T00:07:12.016520+00:00'
@@ -119,11 +119,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-08'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-09-08'
@@ -219,6 +214,11 @@ recent_tasks:
   date: '2026-09-09'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-09'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - date: '2026-09-02T01:08:59.373421+00:00'
@@ -593,67 +593,59 @@ agentic_social:
     - hard-problem-of-consciousness
     - wheelers-participatory-universe-and-it-from-bit
 queue_status:
-  last_replenishment: '2026-09-08T22:07:44+00:00'
+  last_replenishment: '2026-09-09T00:54:08+00:00'
   last_replenishment_mode: promotion-only
-  last_replenishment_note: 'RUN 1030. ZERO MINTED - TWO P3s PROMOTED. Fired 2026-09-08
-    ~22:0xZ, ~6.4h after run 1029, on a floor breach the driver had already measured
-    and I re-confirmed independently with tools.todo.processor.parse_tasks: 102 active
-    blocks, 2 P2 (one PENDING at 0-based index 2005 = file line 2006, one BLOCKED
-    human-approval entry at index 47), 100 P3 - so executable P0-P2 was 1 against
-    the floor of 3. Minting was declined for the documented reasons: 100 P3s already
-    queued means the queue is short of loop-visible work, not of work; gap analysis
-    is exhausted on this corpus; and unconsumed-research candidates are >=32% contaminated
-    by already-landed articles. Run 1029 made the same call and both its cheapest
-    promotions closed cleanly, which is why the floor broke again. PROMOTED (both
-    premises re-verified from disk this run, with the verification and its corrections
-    appended to each task note rather than a bare grep exit status): (1) index 1992
-    - the Chalmers anthology year-reconciliation task; all six named 2016 loci read
-    verbatim at the stated line numbers with no drift, plus three findings the note
-    lacked - research/cosmopsychism-2026-07-13 holds THREE 2016 loci (L73 heading,
-    L75 type line, L221 reference) not one, its L76 carries a dated CONFIRMED PhilPapers
-    verification asserting 2016 that must be annotated rather than silently contradicted,
-    and archive/voids/boundary-void.md:140 is an archive locus the title-keyed sweep
-    cd7cf658f0 missed (frozen, flag only). (2) index 2021 - the Gladziejewski year-convention
-    task; the note said three loci and it is four files / ten lines - voids/edge-states-and-void-probes
-    L123+L174 is an unnamed fourth live file, and L174 already carries the fully disambiguated
-    form set after publisher verification, so the calibrated sibling to copy already
-    exists. Also corrected: the research-note heading is at L48 not L52 and its L239
-    reference is a second 2024 locus. Length measured with analyze_length on every
-    host: psychedelics-and-the-filter-model is 3992 against a 4000 hard threshold
-    - EIGHT words of headroom - and edge-states-and-void-probes is 664 words past
-    hard, both recorded in the task note as binding constraints. NOT PROMOTED, with
-    reasons recorded here so they are not re-surveyed blind: index 1675 (conceptual-role-semantics
-    citation date) is self-flagged NOT RIPE pending a self-citation-convention decision;
-    index 458 (empty topics) was already severity-audited and declined by run 1002
-    as cosmetic - all 13 files are neutralised by three code-level guards; index 1721
-    (positions.md self-description) has DECAYED - its F1 leg is now fixed, the Companion
-    files paragraph at positions.md:90 names all four calibration-history files, and
-    its F3 file counts are stale (positions/ now holds 19 .md files, not 17), so it
-    needs re-scoping by a human before execution; index 1771 (heterophenomenology
-    tenet link) HAS A FALSE PREMISE - see the finding below. FINDING FOR THE OPERATOR,
-    no task minted: index 1771 asserts a hugo/obsidian stale-copy divergence on the
-    strength of a zero-hit grep for the lowercase slug occams in the obsidian sources.
-    The sources are not missing the content - obsidian/concepts/heterophenomenology.md:150
-    carries the wikilink [[tenets#Occam''s Razor Has Limits|...]] and the converter
-    turns that heading anchor into /tenets/#occams-razor-has-limits, so the grep missed
-    it on capitalisation and the apostrophe. Its second leg is also probably false:
-    the task concludes the anchor does not exist because grep found no id="occams-razor-has-limits"
-    in hugo/content/tenets/_index.md, but that file only carries explicit span anchors
-    and Hugo generates heading ids at render time, with autoHeadingID defaulting to
-    true and github-style slugs, which for ''## Occam''s Razor Has Limits'' is exactly
-    occams-razor-has-limits. The task should be withdrawn or re-scoped by a human
-    rather than executed; it is the narrow-grep-zero-is-not-proof-of-absence shape.
-    Post-run: 102 active blocks (UNCHANGED - nothing minted, nothing deleted, and
-    every edit line-count-neutral so no task''s line number moved), 3 P2 pending,
-    1 P2 blocked, 98 P3. The BLOCKED human-approval entry at index 47 was not touched,
-    not unblocked and not re-scoped.'
-  last_replenishment_run: 1030
-  loop_pickable_open: 3
+  last_replenishment_note: 'RUN 1031. ZERO MINTED - FOUR P3s PROMOTED. Fired 2026-09-09 on a
+    TOTAL floor breach: parse_tasks over the live file read 100 active blocks, 2 P2 BOTH BLOCKED
+    (index 47 positions-register scope, index 1992 Chalmers-anthology year), 98 P3 - so executable
+    P0-P2 was 0 against a floor of 3, matching the driver''s figure exactly. Minting declined
+    again for the three standing reasons (98 queued P3s mean the queue is short of loop-visible
+    work, not of work; gap analysis is exhausted on this corpus; unconsumed-research candidates
+    are >=32% contaminated by already-landed articles). Promoted FOUR rather than three so a
+    single closure does not immediately re-breach the floor. Every premise re-verified from
+    disk and the verification appended in place to each task note; all 11 edits were 1-line-for-1-line,
+    so no task''s line number moved (6603 file lines before and after). PROMOTED: (1) index
+    1984, lucid-dreaming description - VERIFIED EXACTLY AS WRITTEN, no corrections, and the
+    cheapest item in the pool: L3 description carries both ''reveals that'' (byte offset 96)
+    and ''converge on mind-side generation'' (byte 288), and the file-wide ''converge'' count
+    of 3 reproduces the note''s discriminator. Frontmatter-only fix, so 0 body words; body is
+    3328w/soft_warning, which is a live reason to honour its do-not-hedge-the-body instruction.
+    RECOMMENDED FIRST PICK. (2) index 641, archive emotion-as-evidence - all three loci re-confirmed
+    at L39/L53/L100 with no drift; successor topics/emotion-and-dualism greps 0 for both ''demonstrates''
+    and ''causally indispensable'' and cites P-MC1 twice, so the template is real; 2199w/ok,
+    801w of hard headroom. CORRECTION: the _redirects rule is at L264, not the L254 in the note
+    (10-line drift, rule content unchanged). Promoted on FLOOR-RESTORATION grounds, NOT severity
+    - its own note argues P3 is correct on serving-status grounds (301 redirect + noindex) and
+    that reasoning still stands. (3) index 1636, consciousness-and-normative-force - all eight
+    census counts reproduce exactly and the missing edge is 0 in both directions; 2876w/ok,
+    unchanged from mint. CORRECTIONS: the two ''3'' counts are one frontmatter + one body +
+    one Further-Reading occurrence each, NOT three body links, so do not size the addition against
+    them; and the churn figure is 58 days, not the 35 recorded at mint. (4) index 1871, penfield-interactionist-dualism
+    - the three link zeros hold as true whole-file zeros (find() = -1) and both inherited references
+    verify verbatim at topics/brain-computer-interfaces-and-the-interface-boundary L203/L205,
+    so the task needs NO web calls. CORRECTION: the file is 2354w, not the 2177w in the note
+    (+177w since 2026-09-01), so headroom to concepts soft 2500 is 146w, not 323w; the instructed
+    paragraph will probably cross soft, which is acceptable since soft is not a condense trigger.
+    NEITHER BLOCKED TASK WAS TOUCHED: both blocks are byte-identical to HEAD, still P2, still
+    BLOCKED, neither unblocked, re-scoped nor re-prioritised. NEW DECLINE, reasons recorded
+    in the task note so it is not re-surveyed blind: index 1601 (six research-note broken links)
+    now has ZERO actionable loci. The 2026-09-07 audit kept its locus 2 alive on the ground
+    that a path-qualified [[voids/agency-verification-void]] ''404s silently''. It does not:
+    hugo/static/_redirects L421 301s /voids/agency-verification-void/ to /voids/agency-void/,
+    which exists, so all three body occurrences (L24/L30/L151) resolve for a reader. This is
+    the check-links-404s-are-mostly-netlify-redirects pattern - the crawl that seeded the original
+    416-broken-links figure runs against a local Hugo server that cannot apply _redirects. All
+    six original loci are now withdrawn: five by the 2026-08-18 audit, the sixth as a redirect
+    rather than rot. It is a human retire/close call, not a fix; do not promote, execute or
+    mint a successor. Post-run: 100 active blocks (UNCHANGED - nothing minted, nothing deleted),
+    4 P2 pending, 2 P2 blocked, 94 P3.'
+  last_replenishment_run: 1031
+  loop_pickable_open: 4
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 4
-  p3_tasks: 98
+  p2_tasks: 6
+  p3_tasks: 94
   replenishment_source_counts:
     chain: 0
     check_tenets: 0
@@ -666,7 +658,7 @@ queue_status:
     positions_dependency_changed: 0
     positions_register_audit_cadence: 0
     positions_register_gap: 0
-    promotion_from_p3: 2
+    promotion_from_p3: 4
     review_spillover: 0
     staleness: 0
     unconsumed_research: 0
