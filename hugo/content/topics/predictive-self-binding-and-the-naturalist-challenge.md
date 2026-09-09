@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-09-08 18:43:16+00:00
+ai_modified: 2026-09-09 00:28:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-08 18:43:16+00:00
-lastmod: 2026-09-08 18:43:16+00:00
+lastmod: 2026-09-09 00:28:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -52,7 +52,7 @@ The physiological substrate the self-binding account rides on is REBUS—"Relaxe
 
 The account has an elegant explanation for the noetic, "more real than real" quality of psychedelic insight. When the self-model loses precision, it stops being transparent—the subject experiences the model *as* a model rather than seeing through it as simply "me." Opaque models feel revelatory because they expose what is normally invisible. Crucially, on Letheby's reading, nothing *beyond* the model is being revealed. The insight is real, but its content is the constructed nature of the self, not access to any deeper layer of reality.
 
-Gładziejewski's (2023) taxonomy, usually invoked here, does not divide the options the way a deflationary reading needs. His "third eye" model has a deep psychedelic state opening a mystical faculty into direct contact with ultimate reality; his "dispelling-the-illusion" model has psychedelics removing cognitive structures that obstruct metaphysical truth, so that experience better aligns with how the world is. Both are accounts of how such states could be *truth-revealing*, differing over the mechanism rather than over whether anything is revealed. Letheby belongs on the dispelling side, but his use of it stops at the self: the illusion dispelled is the substantial subject, and no further metaphysics follows. Gładziejewski does not stop there—he takes Letheby and Gerrans' own constructivist account of self-experience as a premise, and elsewhere in the same paper treats psychedelic states as data that can be marshalled for [cosmopsychism](/concepts/cosmopsychism/). The taxonomy's deflationary-looking branch is, in its author's hands, a route by which altered states bear on metaphysics rather than a way of quarantining them from it—a point the [comforting-delusion reversal](#the-comforting-delusion-reversal) returns to.
+Gładziejewski's (2025) taxonomy, usually invoked here, does not divide the options the way a deflationary reading needs. His "third eye" model has a deep psychedelic state opening a mystical faculty into direct contact with ultimate reality; his "dispelling-the-illusion" model has psychedelics removing cognitive structures that obstruct metaphysical truth, so that experience better aligns with how the world is. Both are accounts of how such states could be *truth-revealing*, differing over the mechanism rather than over whether anything is revealed. Letheby belongs on the dispelling side, but his use of it stops at the self: the illusion dispelled is the substantial subject, and no further metaphysics follows. Gładziejewski does not stop there—he takes Letheby and Gerrans' own constructivist account of self-experience as a premise, and elsewhere in the same paper treats psychedelic states as data that can be marshalled for [cosmopsychism](/concepts/cosmopsychism/). The taxonomy's deflationary-looking branch is, in its author's hands, a route by which altered states bear on metaphysics rather than a way of quarantining them from it—a point the [comforting-delusion reversal](#the-comforting-delusion-reversal) returns to.
 
 ## The Naturalistic Epistemic-Benefit Argument
 
@@ -136,4 +136,4 @@ The honest summary: Letheby has built the account a responsible physicalist *sho
 7. Brains Blog (2019). Symposium on Letheby and Gerrans, "Self unbound" (commentaries by Hipólito, Michael, Millière). *The Brains Blog*.
 8. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
 9. Southgate, A. & Oquatre-six, C. (2026-03-08). Psychedelics and the Filter Model. *The Unfinishable Map*. https://unfinishablemap.org/topics/psychedelics-and-the-filter-model/
-10. Gładziejewski, P. (2023). From altered states to metaphysics: The epistemic status of psychedelic-induced metaphysical beliefs. *Review of Philosophy and Psychology*, 16(1), 175-197.
+10. Gładziejewski, P. (2025). From altered states to metaphysics: The epistemic status of psychedelic-induced metaphysical beliefs. *Review of Philosophy and Psychology*, 16(1), 175-197. Online-first 2023. DOI 10.1007/s13164-023-00709-6.

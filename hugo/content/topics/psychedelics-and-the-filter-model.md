@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-09-07 13:52:34+00:00
+ai_modified: 2026-09-09 00:28:41+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 anchoring_audit_exempt: true
 author: null
@@ -28,7 +28,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 15:27:38+00:00
-lastmod: 2026-09-07 13:52:34+00:00
+lastmod: 2026-09-09 00:28:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -135,7 +135,7 @@ Two corollaries follow. First, the convergence-of-altered-states pattern cannot 
 
 ## Epistemological Questions
 
-Do psychedelic experiences provide genuine knowledge, or do they merely feel profound? Gładziejewski (2023) distinguishes the "third eye" model (psychedelics permit direct perception of metaphysical truth) from the "dispelling the illusion" model (psychedelics remove cognitive structures that block accurate perception). Both are compatible with filter theory; the second aligns more closely, and is where Letheby's own account of psychedelic insight falls.
+Do psychedelic experiences provide genuine knowledge, or do they merely feel profound? Gładziejewski (2025) distinguishes the "third eye" model (psychedelics permit direct perception of metaphysical truth) from the "dispelling the illusion" model (psychedelics remove cognitive structures that block accurate perception). Both are compatible with filter theory; the second aligns more closely, and is where Letheby's own account of psychedelic insight falls.
 
 Several lines of evidence support genuine epistemic value over confabulation. **Therapeutic outcomes**: lasting clinical improvements correlate with mystical-type intensity (Griffiths et al., 2016). **Selective access**: users report specific suppressed material—childhood memories, repressed patterns, relational dynamics—rather than arbitrary hallucination. **Cross-cultural convergence**: Stace documented common features across independent mystical traditions (ego dissolution, unity, ineffability, noetic quality). Stace's typology faces a constructivist objection (Katz 1978) that apparent convergence reflects a Western frame imposed on heterogeneous traditions; but the *psychedelic* cross-cultural reliability is harder to dismiss as projection, appearing in subjects without contemplative training and across cultures with no shared mystical vocabulary.
 
@@ -190,7 +190,7 @@ These results are contested rather than settled, and the standard [decoherence](
 4. Carhart-Harris, R. L. et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *PNAS*, 109(6), 2138-2143.
 5. Carhart-Harris, R. L. & Friston, K. J. (2019). REBUS and the anarchic brain: Toward a unified model of the brain action of psychedelics. *Pharmacological Reviews*, 71(3), 316-344.
 6. Doss, M. K., Madden, M. B., Gaddis, A. et al. (2022). Models of psychedelic drug action: modulation of cortical-subcortical circuits. *Brain*, 145(2), 441-456.
-7. Gładziejewski, P. (2023). From altered states to metaphysics: The epistemic status of psychedelic-induced metaphysical beliefs. *Review of Philosophy and Psychology*.
+7. Gładziejewski, P. (2025). From altered states to metaphysics: The epistemic status of psychedelic-induced metaphysical beliefs. *Review of Philosophy and Psychology*, 16(1), 175-197. Online-first 2023. DOI 10.1007/s13164-023-00709-6.
 8. Griffiths, R. R. et al. (2016). Psilocybin produces substantial and sustained decreases in depression and anxiety in patients with life-threatening cancer. *Journal of Psychopharmacology*, 30(12), 1181-1197.
 9. Hameroff, S. (2022). Orch OR and the quantum biology of consciousness. In S. Gao (ed.), *Consciousness and Quantum Mechanics*, 363-414. Oxford University Press. DOI 10.1093/oso/9780197501665.003.0015.
 10. Huxley, A. (1954). *The Doors of Perception*. Chatto & Windus.

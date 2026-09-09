@@ -1,9 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-08T23:56:00+00:00'
+ai_modified: '2026-09-09T00:28:41+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-09T00:28:41+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/psychedelics-and-the-filter-model]], [[topics/predictive-self-binding-and-the-naturalist-challenge]], [[research/voids-altered-states-as-void-probes-2026-02-03]]
+- **Scope**: citation-year convention alignment on Gładziejewski, `10.1007/s13164-023-00709-6`. Year-token swaps plus one reference completion. **No prose changes at any locus** — every edit is inside a parenthetical year or a reference-list tail.
+- **Convention settled**: **(2025) with "Online-first 2023" noted.** Re-verified at Crossref this run with every field printed: Paweł Gładziejewski, *From Altered States to Metaphysics: The Epistemic Status of Psychedelic-induced Metaphysical Beliefs*, *Review of Philosophy and Psychology*, volume 16, issue 1, pages 175-197; `published-online` 2023-10-10, `published-print` **2025-03**, `issued` 2023-10-10.
+- **Correction to the driving task note**: it claimed "Crossref reports only the 2023 online date, which is why prior passes saw no conflict." **False — Crossref carries `published-print: 2025-03` explicitly.** What prior passes read is `issued`, which Crossref sets to the *earliest* known date (2023-10-10). `issued` is not the print year; reading it as one is what produced the 2023/2024/2025 split across the corpus.
+- **Model form copied, not invented**: [[voids/edge-states-and-void-probes]] L174 was set deliberately after publisher verification and is the reference rendering. Punctuation was adapted to each host file rather than transplanted byte-for-byte — the two `topics/` files use sentence-case titles without quotation marks and **hyphen** page ranges (`175-197`, matching their own refs 2/4/5/8/15), where the `voids/` model uses quoted title-case and an en-dash (`175–197`).
+- **Locus 1 — `topics/psychedelics-and-the-filter-model` L135 (body)**: `Gładziejewski (2023) distinguishes` → `Gładziejewski (2025) distinguishes`. Word-neutral.
+- **Locus 2 — same file L190 (ref 7)**: was `Gładziejewski, P. (2023). From altered states to metaphysics: … *Review of Philosophy and Psychology*.` — no volume, no pages, no DOI. Now carries `(2025) … *Review of Philosophy and Psychology*, 16(1), 175-197. Online-first 2023. DOI 10.1007/s13164-023-00709-6.` The bare `DOI ` prefix matches this file's own ref 9 (Hameroff) rather than the `https://doi.org/` form of ref 14.
+- **Length (measured, not estimated)**: `analyze_length` before **3992**, after **3998**, topics hard threshold **4000** printed live — **2 words of headroom**, status `soft_warning` at both ends (unchanged). ⚠️ The task note predicted +4 words to 3996; the true cost of the full model form is **+6**, so the real margin is 2, not 4. It still fits and the volume/pages/DOI were added as instructed, but the file is now 2 words from hard and any future addition here needs a trim first.
+- **Locus 3 — `topics/predictive-self-binding-and-the-naturalist-challenge` L51 (body)**: `Gładziejewski's (2023) taxonomy` → `Gładziejewski's (2025) taxonomy`. The second, bare `Gładziejewski` later in the same paragraph carries no year and was correctly left alone.
+- **Locus 4 — same file L135 (ref 10)**: already carried `16(1), 175-197`; year swapped to `(2025)` and `Online-first 2023. DOI 10.1007/s13164-023-00709-6.` appended. 2994 → 2998 words against hard 4000; ample room.
+- **Loci 5 and 6 — `research/voids-altered-states-as-void-probes-2026-02-03`**: both read `(2024)`, which is wrong under *every* convention — neither the online nor the print year — so these were the unambiguous defects. `### Gładziejewski (2024) - From Altered States to Metaphysics` at **L48** (not L52 as the task note said) and ref 1 at **L239**. The task note described one locus; there were **two**. Per the 2026-09-07 judgement that this note's *content* is non-defective, **only the bare year changed** — no volume, pages, or DOI added to a research note.
+- **`voids/edge-states-and-void-probes` — NOT TOUCHED.** It is the model and both its loci (L123 body, L174 ref 5) already read `(2025)`. It was also left alone for every other reason: it sits at **3664 words against a voids hard threshold of 3000 — 664 words past hard** — so it is no place to add bytes.
+- **Archive echo — flagged, not fixed.** `archive/voids/altered-states-as-void-probes.md` L99 + L164 still read `(2024)`, served at `hugo/content/archive/voids/altered-states-as-void-probes.md` L102 + L167. **Frozen per archive convention.** This is a real reader-visible inconsistency with the live corpus, but archived URLs are preserved as published; recording it here rather than editing it.
+- **Both trees verified with printed offsets.** `obsidian` / `hugo/content` respectively: psychedelics body 20896 / 21196, ref 29543 / 30553; predictive body 5664 / 5750, ref 22949 / 23481; research heading 2199 / 2236, ref 18505 / 18542; edge-states (unchanged control) 17340 / 17474 and 26686 / 27063. `research/` is synced, so an obsidian-only fix would have left the defect live on the served page.
+- **Negative sweep**: 0 live loci remain on 2023 or 2024 across both trees, excluding the frozen `archive/` tree and the `reviews/` + `workflow/` editorial record, whose hits are echo of the historical defect rather than live citations. **All live loci now read one identical convention.**
+- **ai_system**: **HELD** on all three files (`claude-opus-4-6+claude-opus-5`, `claude-opus-4-8+claude-opus-5`, `claude-opus-4-5-20251101`). A citation-year alignment is metadata, not new claim-bearing prose. `ai_contribution` was already 100 on all three. `last_deep_review` **not advanced** — verified unchanged post-edit, including on the predictive file where it had equalled `ai_modified`.
+- **ai_modified**: bumped to `2026-09-09T00:28:41+00:00` on the three edited files only, from live `date -u`.
+- **Engagement classification**: none — no prose changed, so no named-opponent engagement was created or altered.
+- **Validation**: `scripts/sync.py` then `scripts/validate.py hugo/content/` — 9534 files, **0 invalid**, exit 0; none of the three files raised a warning. ⚠️ `refine-draft` SKILL.md Step 3 still instructs `scripts/curate.py review`, which **does not exist** (eighth recorded failure); `validate.py` was substituted.
+- **Published**: yes
 
 ## 2026-09-08T23:56:00+00:00 - deep-review
 - **Status**: Success

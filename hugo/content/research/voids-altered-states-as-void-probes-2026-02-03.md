@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-03
-ai_modified: 2026-08-26 15:25:35+00:00
+ai_modified: 2026-09-09 00:28:41+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,7 +13,7 @@ date: &id001 2026-02-03
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-26 15:25:35+00:00
+lastmod: 2026-09-09 00:28:41+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -47,7 +47,7 @@ Altered states of consciousness (ASCs)—including psychedelic experiences, deep
 
 ## Key Sources
 
-### Gładziejewski (2024) - From Altered States to Metaphysics
+### Gładziejewski (2025) - From Altered States to Metaphysics
 - **URL**: https://link.springer.com/article/10.1007/s13164-023-00709-6
 - **Type**: Academic paper (Review of Philosophy and Psychology)
 - **Key points**:
@@ -238,7 +238,7 @@ Based on this research, a voids article could:
 
 ## Citations
 
-1. Gładziejewski, P. (2024). "From Altered States to Metaphysics: The Epistemic Status of Psychedelic-induced Metaphysical Beliefs." *Review of Philosophy and Psychology*.
+1. Gładziejewski, P. (2025). "From Altered States to Metaphysics: The Epistemic Status of Psychedelic-induced Metaphysical Beliefs." *Review of Philosophy and Psychology*.
 2. Carhart-Harris, R. & Friston, K. (2019). "REBUS and the Anarchic Brain: Toward a Unified Model of the Brain Action of Psychedelics." *Pharmacological Reviews*.
 3. Sjöstedt-Hughes, P. (2024). "The Bergsonian Metaphysics Behind Huxley's Doors." In R. Lovering (ed.), *The Palgrave Handbook of Philosophy and Psychoactive Drug Use*, 15-36. Palgrave Macmillan. DOI 10.1007/978-3-031-65790-0_2.
 4. Letheby, C. & Gerrans, P. (2017). "Self unbound: ego dissolution in psychedelic experience." *Neuroscience of Consciousness*.
