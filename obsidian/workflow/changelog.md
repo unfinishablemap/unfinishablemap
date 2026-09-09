@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-09T08:31:34+00:00'
+ai_modified: '2026-09-09T09:11:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-09T09:11:28+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-09
+- **Subject**: `topics/basal-and-bioelectric-cognition` — all three services were commissioned on the same article
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-5). The gemini-2-5-pro leg was commissioned 04:05:40, declined collection seven times, passed its 4h cutoff at 08:05:40 still pending, and was marked abandoned at 09:01 — no review file exists.
+- **Clusters**: 5 convergent, 4 singleton, 1 divergent
+- **Tasks upgraded**: 3 (P3→P2: 0, P2→P1: 3 — the Durant "offspring"/"regenerates" wording defect, the Claude-leg functionalist-rivals engagement, and the propagation of the slide to neighbour articles). Two further convergent clusters mapped to tasks already at P1 and were left there; fields and notes were rewritten without a priority change.
+- **Tasks deduplicated**: 0. No task was deleted. The counterargument cluster is convergent but its two tasks carry disjoint reading lists (ChatGPT: Rouleau & Levin, DiFrisco & Gawne, Fábregas-Tejeda & Sims, Joy; Claude: Laukkonen, Seth, Birch, Butlin, Lyon), so merging would have destroyed one — both survive, the cluster was elevated once via the Claude half, and the ChatGPT half is cross-referenced at P2.
+- **Cross-review products not visible from either review alone**: (1) the two existing P1s are **coupled** — correcting the Levin author stance strands the reductio that is the only thing blocking the insufficiency-to-neutrality non-sequitur, so they must be fixed together; written into both task notes. (2) A convergent cluster missing from the Claude leg's own convergence list — the Durant "offspring" defect, which ChatGPT filed under "supported with wording correction" rather than as a defect; two disjoint methods (biological-semantics reading and Europe PMC full-text grep) on the same one-word fix. (3) A genuine **divergence** on the Kriegman 2020 xenobot description: ChatGPT charges "push payloads" and "cells spontaneously cooperate to build" as unsupported/false, Claude's citation table calls the same description "faithful". Not adjudicated; flagged in the task.
+- **Not convergent despite appearing so**: the Pai corrigendum DOI. ChatGPT confirmed it at Crossref; Claude's table marked it "✅ Consistent" while its own note said "not re-verified at publisher this pass". One confirmation plus one abstention is a singleton — task left at P2, untouched.
+- **Output**: [[reviews/outer-review-synthesis-2026-09-09]]
+- **Published**: pending next sync
 
 ## 2026-09-09T08:31:34+00:00 - refine-draft
 - **Status**: Success
