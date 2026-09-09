@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-25
-ai_modified: 2026-09-04 18:54:43+00:00
+ai_modified: 2026-09-09 18:19:08+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 apex_last_synthesis: 2026-07-18 20:08:16+00:00
 apex_sources:
@@ -13,10 +13,10 @@ apex_sources:
 - apex/introspection-architecture-void-cluster
 - apex/taxonomy-of-voids
 apex_thesis: If the Map's tenets are right, the mind-matter interface is structurally
-  selected to hide from aggregate measurement—so the evidence that could ever bear
-  on it lives at constrained asymmetries (disruption, dissociation, graded channel
-  failure, patient-population divergence, first-person/third-person mismatch), not
-  in bulk physical traces.
+  selected to hide from unconditioned aggregate measurement—so the evidence that could
+  ever bear on it lives at constrained asymmetries (disruption, dissociation, graded
+  channel failure, patient-population divergence, first-person/third-person mismatch)
+  and at intention-conditioned statistical tests, not in bulk physical traces.
 author: null
 concepts:
 - '[[mind-matter-interface]]'
@@ -25,10 +25,10 @@ concepts:
 - '[[bidirectional-interaction]]'
 created: 2026-05-25
 date: &id001 2026-05-25
-description: If the Map is right, the mind-matter interface is not merely hard to
-  detect—it is structurally selected to hide from aggregate measurement, which re-orients
-  the whole evidential programme from bulk physical traces to constrained asymmetries
-  at seams.
+description: If the Map is right, the mind-matter interface is structurally selected
+  to hide from unconditioned aggregate measurement, which re-orients the whole evidential
+  programme from bulk physical traces to constrained asymmetries and intention-conditioned
+  tests.
 draft: false
 embedded_videos:
 - embedded: 2026-06-17 12:32:07.784690+00:00
@@ -38,7 +38,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 20:08:16+00:00
-lastmod: 2026-09-04 18:54:43+00:00
+lastmod: 2026-09-09 18:19:08+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
@@ -68,7 +68,7 @@ topics:
 - '[[consciousness-disruption-and-the-mind-brain-interface]]'
 ---
 
-A theory that says consciousness influences the physical world owes an account of why nobody has caught it doing so. The Unfinishable Map's answer is sharper than the usual appeal to difficulty: the interface is not merely hard to detect, it is *structurally selected to hide from ordinary aggregate measurement*. Every constraint the Map accepts—conservation of energy, the no-signalling theorem, the Born statistics, the integrity of the empirical record—forces the proposed conscious influence into the one register where bulk physical instruments cannot see it. The influence must be real enough to author action and small enough to leave the ensemble distribution untouched. The corollary, drawn out here for the first time as a single thesis, is that the proper evidential route is not "find a big quantum anomaly" but "find constrained asymmetries at interface boundaries": disruption, dissociation, graded channel failure, patient-population divergence, and first-person/third-person mismatch.
+A theory that says consciousness influences the physical world owes an account of why nobody has caught it doing so. The Unfinishable Map's answer is sharper than the usual appeal to difficulty: the interface is *structurally selected to hide from unconditioned aggregate measurement*, not merely hard to detect. Every constraint the Map accepts—conservation of energy, the no-signalling theorem, the Born statistics, the integrity of the empirical record—forces the proposed conscious influence into the one register where bulk physical instruments cannot see it. The influence must be real enough to author action and small enough to leave the ensemble distribution untouched. The corollary, drawn out here for the first time as a single thesis, is that the proper evidential route is not "find a big quantum anomaly" but "find constrained asymmetries at interface boundaries": disruption, dissociation, graded channel failure, patient-population divergence, and first-person/third-person mismatch.
 
 This is a framework-internal claim about *architecture*, not an empirical result. It says what kind of thing the interface must be if the tenets hold, and where evidence about it could in principle appear. It does not raise the probability that the tenets hold. The distinction matters enough that it organises the whole piece: naming the self-concealing architecture is a coherence achievement at the [framework-internal-weight register](/project/evidential-status-discipline/), and reading off where the seams are is a research-programme reorientation—neither is positive evidence that consciousness selects. The synthesis draws together what [the tenets](/tenets/), [brain-internal Born-rule testing](/topics/brain-internal-born-rule-testing/), [forward-in-time selection](/topics/forward-in-time-conscious-selection/), [attention as the causal bridge](/apex/attention-as-causal-bridge/), [the introspection-architecture cluster](/apex/introspection-architecture-void-cluster/), [the memory hierarchy](/topics/memory-channel-interface-evidence/), and [the voids catalogue](/apex/taxonomy-of-voids/) each already imply, and names the architecture they converge on.
 
@@ -92,7 +92,7 @@ The architecture, then, is not "the interface happens to be elusive." It is "the
 
 Naming a self-concealing architecture invites two opposite errors, and the discipline of this synthesis is to refuse both.
 
-The concealment now has a formal statement as well as a structural one. [The agency budget](/concepts/agency-budget/) shows that a selector constrained to preserve a distribution exactly is, in information-theoretic terms, a perfectly secure channel — and that perfect security is *equivalent to* zero third-person statistical evidence. That result cuts both ways for this synthesis, and the honest reading takes both halves: the concealment is not an awkward by-product to be excused, it is provably optimal for a selector under the corridor constraint; and by the same equivalence no aggregate test can ever witness the channel, so the architecture inherits a theorem where it might have wanted a defence. The mapping is the Map's own construction and carries the coherence-only citation grade.
+The concealment now has a formal statement as well as a structural one. [The agency budget](/concepts/agency-budget/) shows that a selector constrained to preserve a distribution exactly is, in information-theoretic terms, a perfectly secure channel — and that perfect security is *equivalent to* zero third-person statistical evidence in the unconditioned marginal. That result cuts both ways, and the honest reading takes both halves: the concealment is not an awkward by-product to be excused, it is provably optimal for a selector under the corridor constraint; and by the same equivalence no *unconditioned* aggregate test can ever witness the channel, so the architecture inherits a theorem where it might have wanted a defence. The mapping is the Map's own construction and carries the coherence-only citation grade.
 
 The first error is the sceptic's: "a cause that cannot be measured in aggregate is no cause at all; you have defined yourself into unfalsifiability." This overstates. The strict corridor is undetectable by *aggregate Born-statistics tests* specifically; it is not undetectable in every register. The whole point of the reorientation below is that the architecture predicts where evidence *can* appear—at seams—and several of those predictions are operational enough to fail. A framework that says "look here, not there, and here is what would count against me at the seams" is constrained, not vacuous. What it forfeits is the easy falsifier: it can never be the case that a clean ensemble-level anomaly settles the matter, because the Map predicted no such anomaly from the start.
 

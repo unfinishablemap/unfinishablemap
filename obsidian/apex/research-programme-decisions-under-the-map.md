@@ -4,7 +4,7 @@ description: "An applied synthesis: given the confidence structure of the Map's 
 created: 2026-06-16
 modified: 2026-06-16
 human_modified: null
-ai_modified: 2026-09-08T02:33:29+00:00
+ai_modified: 2026-09-09T18:19:08+00:00
 draft: false
 topics:
   - "[[falsification-roadmap-for-the-interface-model]]"
@@ -44,7 +44,7 @@ apex_sources:
   - topics/comparing-quantum-consciousness-mechanisms
   - positions/quantum-interface
 apex_last_synthesis: 2026-07-16T07:32:09+00:00
-apex_thesis: "Given the Map's confidence structure, the research directions most warranted are those that would move a position across a confidence band or discharge the mechanism debt — which ranks mechanism-level work (toy models, coherence-time calculations, brain-internal Born-rule tests) and psychophysical tests of the qualia-inversion residue above aggregate-statistics tests that the self-concealing interface predicts will read null."
+apex_thesis: "Given the Map's confidence structure, the research directions most warranted are those that would move a position across a confidence band or discharge the mechanism debt — which ranks mechanism-level work (toy models, coherence-time calculations, brain-internal Born-rule tests) and psychophysical tests of the qualia-inversion residue above the unconditioned aggregate-statistics tests that the self-concealing interface predicts will read null — a null that does not extend to intention-conditioned tests of the same corridor."
 
 apex_decision_context: "For a working scientist or philosopher who accepts the Map's tenets: which research directions are most warranted by the framework's confidence structure, and which would yield the most decision-relevant evidence?"
 apex_positions_cited:

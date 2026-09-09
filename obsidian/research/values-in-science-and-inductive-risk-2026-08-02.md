@@ -4,7 +4,7 @@ created: 2026-08-02
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-5
-ai_modified: 2026-09-08T20:24:00+00:00
+ai_modified: 2026-09-09T18:19:08+00:00
 consumed_by:
   - "[[duhem-quine-underdetermination-consciousness]]"
   - "[[methodology-of-consciousness-research]]"
@@ -269,7 +269,7 @@ The mint asked that a distinguishing test be named or its absence recorded. Two 
 
 **Candidate 2 — population dissociation, on the pattern the Map already uses.** `phenomenal-contrast-method` uses aphantasia in exactly this shape, and does so well: the population-scale contrast supports cognitive phenomenology's reality while the dissociation between phenomenal report and task performance *bounds* what it does. The analogue here would be individuals with markedly attenuated epistemic or aesthetic feeling. The discriminating question is whether theory-choice behaviour tracks phenomenal report *beyond* what functional competence predicts. If it does not, the phenomenal-causation reading loses its evidence.
 
-**The structural obstacle, recorded honestly.** Under Tenet 2, any phenomenal influence on physical outcomes is exercised minimally at the quantum level and preserves Born statistics exactly. The Map already registers the consequence: such influence is empirically indistinguishable under aggregate-statistics tests (P-Q2, P-Q7, and the framework-stage calibration in P-M4). Both candidate tests above are aggregate-behavioural. So on the Map's own commitments, neither test can discriminate the *mechanism* — at best they discriminate whether phenomenal report carries information that functional description does not. A distinguishing test for the causal claim proper is blocked by the same mechanism debt that blocks the Map's other interface claims, and this note should not be read as having found a way around it.
+**The structural obstacle, recorded honestly.** Under Tenet 2, any phenomenal influence on physical outcomes is exercised minimally at the quantum level and preserves Born statistics exactly. The Map already registers the consequence: such influence is empirically indistinguishable under unconditioned aggregate-statistics tests (P-Q2, P-Q7, and the framework-stage calibration in P-M4). Both candidate tests above are aggregate-behavioural. So on the Map's own commitments, neither test can discriminate the *mechanism* — at best they discriminate whether phenomenal report carries information that functional description does not. A distinguishing test for the causal claim proper is blocked by the same mechanism debt that blocks the Map's other interface claims, and this note should not be read as having found a way around it.
 
 ## Gaps in Research
 

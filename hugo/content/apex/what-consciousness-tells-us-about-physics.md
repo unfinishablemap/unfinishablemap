@@ -1,7 +1,7 @@
 ---
 ai_contribution: 85
 ai_generated_date: 2026-03-14
-ai_modified: 2026-09-08 16:50:16+00:00
+ai_modified: 2026-09-09 18:19:08+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5
 apex_last_synthesis: 2026-08-17 00:02:12+00:00
 apex_sources:
@@ -53,7 +53,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 01:22:52+00:00
-lastmod: 2026-09-08 16:50:16+00:00
+lastmod: 2026-09-09 18:19:08+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -217,7 +217,7 @@ The claim is therefore conditional and characterizable: *if* the tenets hold, qu
 
 The empirical-equivalence problem above is one face of a larger conjunction the Map accepts piecewise but should state outright. The core causal claim—that consciousness biases neural outcomes—is screened from all three channels through which such a claim could ordinarily be evidenced, and the three screens have independent origins in three separate tenet commitments.
 
-The first screen is *minimality*. Because consciousness operates strictly within the Born probabilities, its contribution leaves no statistically detectable deviation from standard quantum mechanics: the empirical equivalence just described closes the **aggregate-statistical** channel. That screen has since acquired a formal statement: under the agency budget's mapping, perfect statistical concealment and zero third-person evidence are one condition under two descriptions, so a proof that the corridor admits a nonzero channel is simultaneously a proof that no aggregate test can witness it. The screen is a theorem where it was a consequence—which firms up the cost the framework carries rather than the case for the mechanism. The second screen is the [amplification void](/voids/amplification-void/)'s untraceability: even granting the bias occurs, the chain from quantum nudge to macroscopic effect crosses five regimes no single framework spans, closing the **mechanistic-tracing** channel—and, if minimality and opacity are coupled, closing it as a consequence of the first screen rather than by accident. The third is the [agency void](/voids/agency-void/)'s verification circularity: every first-person check on "did I cause that?" is run by the faculty whose causal status is in question, closing the **first-person** channel from inside.
+The first screen is *minimality*. Because consciousness operates strictly within the Born probabilities, its contribution leaves no statistically detectable deviation from standard quantum mechanics: the empirical equivalence just described closes the **aggregate-statistical** channel. That screen has since acquired a formal statement: under the agency budget's mapping, perfect statistical concealment and zero third-person evidence are one condition under two descriptions, so a proof that the corridor admits a nonzero channel is simultaneously a proof that no *unconditioned* aggregate test can witness it. The screen is a theorem where it was a consequence—which firms up the cost the framework carries rather than the case for the mechanism. The second screen is the [amplification void](/voids/amplification-void/)'s untraceability: even granting the bias occurs, the chain from quantum nudge to macroscopic effect crosses five regimes no single framework spans, closing the **mechanistic-tracing** channel—and, if minimality and opacity are coupled, closing it as a consequence of the first screen rather than by accident. The third is the [agency void](/voids/agency-void/)'s verification circularity: every first-person check on "did I cause that?" is run by the faculty whose causal status is in question, closing the **first-person** channel from inside.
 
 The conjunction states the framework's epistemic position honestly: the central causal claim is not established by direct evidence, because the three channels that could supply such evidence are each independently blocked. The Map holds the claim on the strength of its tenets, and says so. Naming this is an admission rather than a defence—insulation from evidence is a cost the position carries, and triple screening removes potential defeaters without supplying support, since [removing a defeater is not evidence](/project/evidential-status-discipline/).
 

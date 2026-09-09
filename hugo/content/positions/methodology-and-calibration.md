@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-09-07 09:34:09+00:00
+ai_modified: 2026-09-09 18:19:08+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 author: Andy Southgate
 concepts:
@@ -15,7 +15,7 @@ description: 'The Map''s positions on its own method: the tenet-register / evide
 draft: false
 human_modified: null
 last_curated: 2026-06-22
-lastmod: 2026-09-07 09:34:09+00:00
+lastmod: 2026-09-09 18:19:08+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -113,7 +113,7 @@ For normative and meta positions (most of this methodology domain, and the meta-
 
 - **Status**: live <span id="p-m4"></span>
 - **Calibration** ([multi-axis](/positions/methodology-and-calibration/#calibration-schema)): credence high · external-evidence grade n/a (normative) · structural centrality high · model maturity developed · empirical discriminability n/a (normative) · framework-internal only: no
-- **Asserts**: The Map commits to presenting itself, and labelling its claims, as an *early-stage interactionist-dualist research programme* rather than as an established theory — and to calibrating each claim's frame (title, headers, abstract, meta-description) *down to* the conditional its body actually defends, never up to a categorical reading the body declines. The flagship mechanism claims are held as live hypotheses pending a worked toy model, with the testability cost of Born-statistics-preserving outcome-selection (empirical indistinguishability under aggregate-statistics tests) stated as a known framework-boundary fact rather than dressed as a near-term experimental opening. A programme at this stage is judged by the fertility and honesty of its open problems, not by settled results, so the Map registers its mechanism debt as debt and its empirical fragilities as fragilities. Credence is *high*: the stage description is simply accurate, an early-stage programme being what the Map is. Centrality is high for a separate reason — mis-calibrating the Map's overall standing, letting framework-internal coherence read as theory-grade confirmation, is precisely the failure the framework-stage discipline exists to prevent, and the one the home-page "decision-relevant" framing is most often charged with by external review.
+- **Asserts**: The Map commits to presenting itself, and labelling its claims, as an *early-stage interactionist-dualist research programme* rather than as an established theory — and to calibrating each claim's frame (title, headers, abstract, meta-description) *down to* the conditional its body actually defends, never up to a categorical reading the body declines. The flagship mechanism claims are held as live hypotheses pending a worked toy model, with the testability cost of Born-statistics-preserving outcome-selection (empirical indistinguishability under unconditioned aggregate-statistics tests) stated as a known framework-boundary fact rather than dressed as a near-term experimental opening. A programme at this stage is judged by the fertility and honesty of its open problems, not by settled results, so the Map registers its mechanism debt as debt and its empirical fragilities as fragilities. Credence is *high*: the stage description is simply accurate, an early-stage programme being what the Map is. Centrality is high for a separate reason — mis-calibrating the Map's overall standing, letting framework-internal coherence read as theory-grade confirmation, is precisely the failure the framework-stage discipline exists to prevent, and the one the home-page "decision-relevant" framing is most often charged with by external review.
 - **Depends on**: [framework-stage-calibration](/project/framework-stage-calibration/) (stage-appropriate claim calibration); the constrain-vs-establish frame lint (Countermeasure 12) in [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/); [mqi-empirical-fragility](/project/mqi-empirical-fragility/) and the quantum-interface mechanism-debt anchor ([the mechanism-debt anchor](/positions/quantum-interface/#mechanism-debt)); [P-M1](/positions/methodology-and-calibration/#p-m1) (frame calibration is tier calibration migrated from sentence to article furniture); Tenets 2–3 for what the mechanism claims commit to
 - **Argued in**: [framework-stage-calibration](/project/framework-stage-calibration/), [mqi-empirical-fragility](/project/mqi-empirical-fragility/), [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/)
 - **Would shift if**: the framework matured to the point of a worked, testable mechanism that establishes (not merely constrains) its central claims (which would let the Map relax its frame back toward categorical and raise the standing it claims); or the open-programme framing were shown to be a permanent shield against accountability rather than a stage-honest self-description (which would force a harder commitment to falsification milestones); or the stage-calibration instrument were shown to mis-rate the framework's maturity.

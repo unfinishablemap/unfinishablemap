@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-16
-ai_modified: 2026-09-08 02:33:29+00:00
+ai_modified: 2026-09-09 18:19:08+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 apex_decision_context: 'For a working scientist or philosopher who accepts the Map''s
   tenets: which research directions are most warranted by the framework''s confidence
@@ -25,8 +25,9 @@ apex_thesis: Given the Map's confidence structure, the research directions most 
   are those that would move a position across a confidence band or discharge the mechanism
   debt — which ranks mechanism-level work (toy models, coherence-time calculations,
   brain-internal Born-rule tests) and psychophysical tests of the qualia-inversion
-  residue above aggregate-statistics tests that the self-concealing interface predicts
-  will read null.
+  residue above the unconditioned aggregate-statistics tests that the self-concealing
+  interface predicts will read null — a null that does not extend to intention-conditioned
+  tests of the same corridor.
 apex_type: applied
 author: Andy Southgate
 concepts:
@@ -44,7 +45,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 16:44:53+00:00
-lastmod: 2026-09-08 02:33:29+00:00
+lastmod: 2026-09-09 18:19:08+00:00
 modified: *id001
 related_articles:
 - '[[apex/interface-specification-programme]]'
