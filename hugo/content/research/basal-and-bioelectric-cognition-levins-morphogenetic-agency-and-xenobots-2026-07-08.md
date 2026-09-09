@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-08-03 22:39:03+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-09-09 17:50:01+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 created: 2026-07-08
-date: '2026-08-03'
+date: '2026-09-09'
 draft: false
-lastmod: 2026-08-03 22:39:03+00:00
+lastmod: 2026-09-09 17:50:01+00:00
 related_articles: []
 title: 'Research Notes - Basal and Bioelectric Cognition: Levin''s Morphogenetic Agency
   and Xenobots'
@@ -27,7 +27,7 @@ title: 'Research Notes - Basal and Bioelectric Cognition: Levin''s Morphogenetic
 
 ## Executive Summary
 
-Michael Levin's research programme argues that goal-directed, memory-bearing, problem-solving competency is present in non-neural biological tissue, and that the substrate for much of this competency is *bioelectric* — standing patterns of resting membrane voltage (Vmem) across cell collectives that store and impose anatomical target states. Empirically, Levin's lab has (a) rewritten planarian body plans by editing bioelectric pattern memory rather than the genome, producing stably two-headed worms; (b) induced complete ectopic eyes in Xenopus by imposing a hyperpolarization signature on non-eye tissue; and (c) with Bongard, Kriegman and Blackiston, built "xenobots" — computer-designed proto-organisms assembled from frog skin and heart cells that move, navigate, and (2021) undergo *kinematic self-replication*. Levin frames all of this as "basal cognition" or "cognition all the way down" (with Dennett), formalized in the "cognitive light cone" and the TAME framework (2022).
+Michael Levin's research programme argues that goal-directed, memory-bearing, problem-solving competency is present in non-neural biological tissue, and that the substrate for much of this competency is *bioelectric* — standing patterns of resting membrane voltage (Vmem) across cell collectives that store and impose anatomical target states. Empirically, Levin's lab has (a) rewritten planarian body plans by editing bioelectric pattern memory rather than the genome, producing stably two-headed worms; (b) induced complete ectopic eyes in Xenopus by imposing a hyperpolarization signature on non-eye tissue; and (c) with Bongard, Kriegman and Blackiston, built "xenobots" — computer-designed proto-organisms assembled from frog skin and heart cells that locomote, aggregate debris, and (2021) undergo *kinematic self-replication*. Levin frames all of this as "basal cognition" or "cognition all the way down" (with Dennett), formalized in the "cognitive light cone" and the TAME framework (2022).
 
 The Map-critical point: **Levin explicitly brackets phenomenal sentience.** His "cognition" is a functional/engineering stance — a claim about competencies (goals, memory, anticipation, error-correction) that is deliberately agnostic about, and does not assert, felt experience. This makes the programme a source of *agency-without-experience* evidence that pressures the Map's valence-and-conscious-selection commitments from the opposite side to the plant/Physarum cases: not "does simple life feel?" but "does sophisticated goal-pursuit require feeling at all?" If robust agency-language applies to voltage gradients in a flatworm stump, then agency- and teleology-talk cannot by themselves license attributions of consciousness. That decoupling is usable *for* the Map: it sharpens the boundary the Map already tries to draw between functional competency and phenomenal presence.
 
@@ -72,8 +72,8 @@ The Map-critical point: **Levin explicitly brackets phenomenal sentience.** His 
 - **Type**: Peer-reviewed empirical paper
 - **Key points**:
   - Evolutionary algorithm designs body plans in simulation; best designs are physically built from *Xenopus laevis* skin and cardiac cells.
-  - Resulting "xenobots" locomote (driven by heart-cell contraction), navigate, push payloads, and self-repair after damage — behaviour not exhibited by the cells' native frog anatomy.
-  - Demonstrates that frog cells, freed from the usual embryonic context, spontaneously build a novel functional organism — evidence for plastic, context-independent morphogenetic competency.
+  - Resulting "xenobots" locomote (driven by heart-cell contraction), spontaneously aggregate debris scattered in their shared environment, and self-repair after damage. Cardiomyocytes contract in native anatomy too; the novelty is organism-scale coordination of inherited capacities — signalling between the cells "was not enforced," yet "emergent spontaneous coordination among the cardiac muscle cells" produced the phase-matched contractions that aided locomotion.
+  - The body itself is hand-built on this platform: pooled stem cells are "manually shaped by subtraction" with microsurgery forceps and a cautery electrode, after which the organisms "self-maintain their externally imposed configuration." The competency evidenced is plastic morphogenesis within an imposed form, which Levin's group reads as context-independent morphogenetic competency.
 - **Tenet alignment**: Neutral. Bears on agency/competency, not directly on consciousness. Relevant as a limit case for "novel goal-directed behaviour with no nervous system to speak of."
 - **Verify status**: VERIFIED (authors, title, journal, vol 117 issue 4, pages 1853–1859, DOI).
 
@@ -100,8 +100,8 @@ The Map-critical point: **Levin explicitly brackets phenomenal sentience.** His 
 - **Verify status**: VERIFIED (authors incl. Christopher Fields & Dany Spencer Adams, title, Biophysical Journal 112(10), page 2231, DOI).
 
 ### Transmembrane voltage controls embryonic eye patterning (ectopic eye induction)
-- **URL**: https://journals.biologists.com/dev/article/139/2/313/45402 (DOI 10.1242/dev.077917; PMC3243095)
-- **Citation**: Pai, V. P., Aw, S., Shomrat, T., Lemire, J. M., & Levin, M. (2012). "Transmembrane voltage potential controls embryonic eye patterning in *Xenopus laevis*." *Development*, 139(2), 313–323. DOI 10.1242/dev.077917.
+- **URL**: https://journals.biologists.com/dev/article/139/2/313/45402 (DOI 10.1242/dev.073759; PMC3243095)
+- **Citation**: Pai, V. P., Aw, S., Shomrat, T., Lemire, J. M., & Levin, M. (2012). "Transmembrane voltage potential controls embryonic eye patterning in *Xenopus laevis*." *Development*, 139(2), 313–323. DOI 10.1242/dev.073759.
 - **Type**: Peer-reviewed empirical paper
 - **Key points**:
   - A specific hyperpolarization signature marks the endogenous eye field; imposing that Vmem state on non-eye cells induces well-formed *ectopic* eyes, even far outside the anterior neural field.
@@ -193,4 +193,4 @@ This is the reason the subject was harvested, so it deserves explicit treatment 
 4. Kriegman, S., Blackiston, D., Levin, M., & Bongard, J. (2020). A scalable pipeline for designing reconfigurable organisms. *PNAS*, 117(4), 1853–1859. https://doi.org/10.1073/pnas.1910837117
 5. Kriegman, S., Blackiston, D., Levin, M., & Bongard, J. (2021). Kinematic self-replication in reconfigurable organisms. *PNAS*, 118(49), e2112672118. https://doi.org/10.1073/pnas.2112672118
 6. Durant, F., Morokuma, J., Fields, C., Williams, K., Adams, D. S., & Levin, M. (2017). Long-Term, Stochastic Editing of Regenerative Anatomy via Targeting Endogenous Bioelectric Gradients. *Biophysical Journal*, 112(10), 2231–2243. https://doi.org/10.1016/j.bpj.2017.04.011
-7. Pai, V. P., Aw, S., Shomrat, T., Lemire, J. M., & Levin, M. (2012). Transmembrane voltage potential controls embryonic eye patterning in *Xenopus laevis*. *Development*, 139(2), 313–323. https://doi.org/10.1242/dev.077917
+7. Pai, V. P., Aw, S., Shomrat, T., Lemire, J. M., & Levin, M. (2012). Transmembrane voltage potential controls embryonic eye patterning in *Xenopus laevis*. *Development*, 139(2), 313–323. https://doi.org/10.1242/dev.073759
