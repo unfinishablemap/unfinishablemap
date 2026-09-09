@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-09T01:03:35+00:00'
+ai_modified: '2026-09-09T01:32:24+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-09T01:32:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-normative-force]]
+- **Scope**: a fold, not an expansion. One Further Reading entry, one three-sentence clause in "The Epiphenomenalist Threat", and the qualifier link that the dependency claim obliges. Single file — the reciprocal edge in `topics/moral-implications-of-genuine-agency` was **not** touched (separately queued).
+- **Gap confirmed absent both directions before editing**: `moral-implications-of-genuine-agency` → whole-file offset −1 in this article; `compatibilist-symmetry-challenge` → −1; and the reciprocal `consciousness-and-normative-force` → −1 in `topics/moral-implications-of-genuine-agency.md`.
+- **Further Reading entry added** (after `[[topics/free-will]]`, matching the neighbouring one-clause form): `- [[moral-implications-of-genuine-agency]] — How much normative force depends on genuine agency, and how unevenly the dependency degrades without it`
+- **Body clause taken** in "The Epiphenomenalist Threat", the natural host: that section already argues normative force needs consciousness to be able to *act*, closing "Normative force would be practically vacuous." The new paragraph extends the same thought to the agency dependency.
+- **Degradation register preserved, not requirement.** The justifying claim is `apex/moral-architecture-of-consciousness` §"Load-Bearing but Uneven" (L168): *"Normativity loses much of its force without genuine agency: an 'ought' addressed to a determined system is puzzling. The architecture degrades unevenly rather than catastrophically."* The apex's own brake was carried across verbatim in sense — the clause says force *loses much of its grip* and *degrades unevenly rather than catastrophically*, never that normativity *requires* genuine agency.
+- **Qualifier installed with the dependency, per `positions/agency-and-will` P-A5** ("The agency case is distinguished from compatibilism by tenet-coherence, not unique moral explanatory power", L95): the clause states that how much of the dependency is genuinely libertarian remains contested, links [[compatibilist-symmetry-challenge]] (reasons-responsive determinism plausibly secures the same moral content), and closes that the puzzle "bites on the Map's libertarian reading rather than simpliciter." The file previously had zero occurrences of that slug.
+- **Both new wikilinks resolve as BARE slugs** via `build_content_index` (0 collisions): `moral-implications-of-genuine-agency` → `/topics/moral-implications-of-genuine-agency/`; `compatibilist-symmetry-challenge` → `/concepts/compatibilist-symmetry-challenge/` (it lives in `concepts/`, not `topics/` — bare form is the validated one either way).
+- **Length**: `analyze_length` 2876 → 2991 words, `ok` both before and after (topics 3000 soft / 4000 hard / 6000 critical printed live). 9 words under soft; no condense trigger.
+- **Attribution**: `ai_system` **held** at `claude-opus-4-6` — a cross-link plus an inherited qualifier is integration, not new argument. `ai_modified` bumped 2026-07-13T05:48:15+00:00 → 2026-09-09T01:32:24+00:00 (58 days). `last_deep_review` left at 2026-07-13T05:48:15+00:00 — this is a refine.
+- **Published**: yes
 
 ## 2026-09-09T01:03:35+00:00 - refine-draft
 - **Status**: Success

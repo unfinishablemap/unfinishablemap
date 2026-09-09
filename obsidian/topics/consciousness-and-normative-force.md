@@ -4,7 +4,7 @@ description: "Why normative claims grip us: the shared phenomenal architecture o
 created: 2026-02-13
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-07-13T05:48:15+00:00
+ai_modified: 2026-09-09T01:32:24+00:00
 draft: false
 topics:
   - "[[phenomenology-of-moral-life]]"
@@ -136,6 +136,8 @@ Normative demands arrive within a single field of consciousness — already rela
 
 If normative force lives in consciousness, consciousness must be able to *do something* about it. [[concepts/epiphenomenalism|Epiphenomenalism]] — the view that consciousness is causally inert — threatens normative authority directly. An epiphenomenal consciousness could experience pain's badness but could not act on it. The felt demand would be disconnected from behaviour. Normative force would be practically vacuous.
 
+A weaker version of the same worry survives even where consciousness is causally efficacious. Normative force loses much of its grip if the agent it addresses cannot originate a response: an "ought" directed at a determined system is puzzling. The dependency degrades unevenly rather than catastrophically, and how much of it is genuinely libertarian remains contested — the [[compatibilist-symmetry-challenge|compatibilist symmetry challenge]] holds that reasons-responsive determinism plausibly secures the same moral content, so the puzzle bites on the Map's libertarian reading rather than simpliciter. [[moral-implications-of-genuine-agency|The moral implications of genuine agency]] trace where the two readings come apart.
+
 The [[valence-and-conscious-selection|valence-selection fork]] sharpens this threat. If consciousness selects among physically underdetermined outcomes, the demand-character analysed here — the felt grip of normative experience — may be precisely the mechanism through which valence guides that selection. Normative force would then be not merely evidence for consciousness but part of its causal machinery.
 
 The Map takes the opposite view: the reality of consciousness is partly confirmed by the reality of normativity. We know that some things genuinely matter — suffering is genuinely bad, truth genuinely worth pursuing, beauty genuinely worth attending to. If these convictions are correct, whatever grounds them must be real. Consciousness grounds them.
@@ -174,6 +176,7 @@ The consciousness-based account would face pressure if:
 - [[consciousness-value-connection]] — Why consciousness is necessary for value
 - [[contemplative-practice-as-philosophical-evidence]] — Contemplative deepening of normative perception
 - [[topics/free-will]] — Normative conflict as the site of genuine choice
+- [[moral-implications-of-genuine-agency]] — How much normative force depends on genuine agency, and how unevenly the dependency degrades without it
 - [[authentic-vs-inauthentic-choice]] — When choice engages consciousness's selection function
 - [[phenomenology-of-deliberation-under-uncertainty]] — The felt character of deciding without full information
 - [[explanatory-gap]] — The gap between physical description and phenomenal experience
