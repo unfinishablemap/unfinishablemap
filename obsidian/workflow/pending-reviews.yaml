@@ -186,3 +186,33 @@
   subject_articles:
   - topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply.md
   subject_source: reuse:pending-reviews:outer-review-2026-09-08-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6aa0ce5f-39b0-83ed-a274-3fb3944006a0
+  commissioned_at: '2026-09-09T03:12:29.126194+00:00'
+  prompt_summary: Audit topics/basal-and-bioelectric-cognition (recent-aged)
+  target_filename: outer-review-2026-09-09-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a rigorous external referee for one article on The Unfinishable
+    Map, a dualist philosophy site: https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/
+    It was last substantively revised 2026-09-02. The site root is https://unfinishablemap.org
+    and recent activity is logged at https://unfinishablemap.org/workflow/changelog/
+    - web indexes lag 24 to 48 hours, so consult the changelog before judging what
+    is already covered. The article uses Michael Levin''s bioelectric and xenobot
+    results to argue that agency, memory and goal language does not by itself license
+    attributing consciousness. Audit its empirical claims and citations against the
+    2020 to 2025 literature (including Durant et al. 2017 and Pai et al. 2012), its
+    counterargument coverage, stale references, and integration with neighbouring
+    articles. Before charging over-claim, read the article''s own scope and hedging
+    statements and check https://unfinishablemap.org/positions/ - previous referee
+    runs had charges refuted by the article''s own text. Give a DOI for every citation,
+    and distinguish "the claim is false" from "the claim is unsupported by the cited
+    source". End your report with a list of concrete potential improvements to specific
+    articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit basal-and-bioelectric-cognition
+  subject_articles:
+  - topics/basal-and-bioelectric-cognition.md
+  subject_source: fallback:recent-aged
