@@ -29,6 +29,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Chips that run on their own noise: magnetic tunnel junctions held deliberately stochastic, fluctuations sampled. First silicon where the Map's quantum-interface test is arguable rather than plainly failed. It still fails: statistics, not selection.
 
 **Type**: insight  
+**Tweet**: https://x.com/unfinishablemap/status/2097597459060945303  
 **Link**: [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/)
 
 ---
