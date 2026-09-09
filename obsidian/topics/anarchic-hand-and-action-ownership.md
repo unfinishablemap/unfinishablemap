@@ -4,8 +4,8 @@ description: "Anarchic hand splits authorship of action from ownership of a limb
 created: 2026-07-16
 modified: 2026-07-16
 human_modified: null
-ai_modified: 2026-08-21T11:13:00+00:00
-last_deep_review: 2026-08-04T05:31:39+00:00
+ai_modified: 2026-09-09T07:39:52+00:00
+last_deep_review: 2026-09-09T07:39:52+00:00
 draft: false
 topics:
   - "[[split-brain-consciousness]]"
@@ -91,7 +91,9 @@ This is the pattern already developed for perception in [[split-brain-consciousn
 
 A caution the Map takes on its own terms: that a hand can execute competent, goal-directed acts with no felt authorship does not license a bald claim that "action happens without any experience." Within the comparator framework the movement is precisely one that lacks the agency signal; the framework-relative reading is that a specific channel of felt control is absent, not that competent behaviour proves the general dispensability of experience. Anarchic hand shows control-competence and felt authorship are *separable in this case*, which is a narrower and more defensible claim.
 
-The engineered counterpart makes the same point from the other side. In brain-computer interfaces a channel can also produce competent output the subject never commanded: predictive decoders initiate movement from anticipated rather than commanded activity, and Steinert et al. (2019) argue that events mediated by passive BCIs are not actions at all. Anarchic hand is the biological instance of that shape—an execution pathway running without the volitional hand-off rather than an engineered one doing so—and in neither case does the missing ingredient show up in the movement's competence. It shows up only in the absence of the agency signal. [[brain-computer-interfaces-and-the-interface-boundary#whose-action-is-a-decoded-movement|The BCI article]] works the authorship question through for the engineered case, where the question of which junction fixes authorship can be posed against a channel someone designed.
+The engineered counterpart makes the same point from the other side. In brain-computer interfaces a channel can also produce competent output the subject never commanded, and Steinert et al. (2019) catalogue the consequence among their "peculiarities" of BCI-mediated events: on the standard causal theory of action, "events mediated by passive BCIs are no actions": the brain activity such a system monitors is not modulated intentionally toward any goal, so the events are "not caused by the right mental states." A further peculiarity they raise is prospective rather than accomplished—a line of research on decoders that read brain states to predict a user's movement intentions, where a system "may initiate movements by predictive interpretation of brain signals" and so leaves the user without executory control.
+
+Anarchic hand is the biological analogue of the passive case specifically. A predictive decoder still tracks an intention its user has, bypassing only the go-command; the anarchic hand executes what the patient never planned, its movements triggered by the affordances of objects. What the cases share is the structure that matters here—an execution pathway running without the volitional hand-off—and in neither does the missing ingredient show up in the movement's competence. It shows up only in the absence of the agency signal. [[brain-computer-interfaces-and-the-interface-boundary#whose-action-is-a-decoded-movement|The BCI article]] works the authorship question through for the engineered case, where the question of which junction fixes authorship can be posed against a channel someone designed.
 
 ## The Discriminating Question
 
