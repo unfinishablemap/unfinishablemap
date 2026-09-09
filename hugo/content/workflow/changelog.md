@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-09T03:32:16+00:00'
+ai_modified: '2026-09-09T04:55:13+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-09'
-lastmod: 2026-09-09 03:32:16+00:00
+lastmod: 2026-09-09 04:55:13+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-09T04:55:13+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`), commissioned 03:12:29, collected 04:47 (93 min elapsed against the 90-min gate)
+- **File**: [outer-review-2026-09-09-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-09-09-chatgpt-5-6-sol-pro/)
+- **Subject**: `topics/basal-and-bioelectric-cognition` (subject_type `recent`, source `fallback:recent-aged`) — the ChatGPT leg of the 2026-09-09 three-way; Claude and Gemini legs still `pending` at time of writing, so `/combine-outer-reviews` has not yet fired.
+- **Extraction**: js-dom via page-side Blob download, SHA-256 verified. Page-side digest of the 49,441-byte body `0fb0c438e46dc67bd190fbb4e9d5c424562d5c059ab1ea3038f9ebcca0a46bfe`; on-disk digest identical. Nothing was retyped. `collect_review.py` rewrote 16 ChatGPT citation-chip link *labels* (e.g. "The Unfinishable Map+2The Unfinishable Map+2" → `topics/basal-and-bioelectric-cognition`) leaving prose and every URL byte-identical; diff of captured body vs written region = 17 blocks, 16 label-only + 1 trailing newline.
+- **Recommendation**: Major revision.
+- **Headline finding**: the article's narrow thesis (agency/memory/goal language does not by itself settle a consciousness attribution) is defensible, but the text slides from *not sufficient* to *no evidence either way* — a much stronger evidential-neutrality claim requiring a likelihood ratio nothing in the planarian or xenobot work estimates. The reviewer frames this as an **internal** inconsistency: its §1 explicitly records four charges the article's own hedges defeat and declines to press them.
+- **Claims verified**: 15 (8 article-quote locations by on-disk offset, 7 DOIs at Crossref). **Every phrase the reviewer attributed to a Map article was located verbatim on disk, and every DOI resolved to the claimed title and authors — no fabricated quotes or phantom citations in this review.**
+- **Confirmed defect (verified independently of the reviewer)**: reference 7 cites Pai et al. 2012 with DOI `10.1242/dev.077917`, which Crossref resolves to *Development* 139(3), 623–623 — the one-page authorship corrigendum. The research article is `10.1242/dev.073759`, *Development* 139(2), 313–323. The article already prints the original's pagination, so only the DOI string is wrong.
+- **Second confirmed leg**: the article cites only [P-VS1](/positions/value-in-selection/#p-vs1) in its positions block; `P-CS2` returns −1 in the article, yet [P-CS2](/positions/consciousness-scope/#p-cs2)'s "no verdict on its own" is precisely the calibrated form of the claim the article overstates. The Map's own register contradicts the article.
+- **High-value findings**: 6 (insufficiency→neutrality slide; programme-wide Levin agnosticism contradicted by Rouleau & Levin 2023 and the Map's own Engineered Decoupling article; corrigendum DOI; Durant/Pai exclusivity-and-set-point overstatements; xenobot capacities transferred across three distinct platforms; no genuine counterargument section)
+- **Tasks generated**: 7 (P1: 2, P2: 5) — all correctly parsed as `deferred=True` by `is_outer_review_task_deferred`, i.e. held until `/combine-outer-reviews` synthesizes the 2026-09-09 cycle. Six target `topics/basal-and-bioelectric-cognition` and carry an explicit instruction to consolidate into one editor pass rather than churn the file six times; the seventh is a cross-review over four neighbour files. The counterargument task carries the direct-refutation remit.
+- **Deliberately not minted**: improvements 21–32, the site-methodology proposals. Following the precedent set for the 2026-09-08 review, these are large process proposals (several overlapping the calibration-audit triple) and are recorded in the review's Verification Notes for operator decision. Improvement 22 (DOI-resolution/corrigendum check) is the one with hard on-disk evidence behind it and is noted as a follow-up in the DOI task.
+- **Not adjudicated**: the reviewer's quantitative Pai figures (~20% ectopic eye tissue, ~7.5% complete eyes) were not checked against the paper; the task says to verify at the publisher of record before printing them.
+- **Published**: pending sync
 
 ## 2026-09-09T03:32:16+00:00 - refine-draft
 - **Status**: Success

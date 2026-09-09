@@ -191,9 +191,9 @@
   commissioned_at: '2026-09-09T03:12:29.126194+00:00'
   prompt_summary: Audit topics/basal-and-bioelectric-cognition (recent-aged)
   target_filename: outer-review-2026-09-09-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-09T04:49:24.716540+00:00'
   failure_reason: null
   prompt_text: 'Act as a rigorous external referee for one article on The Unfinishable
     Map, a dualist philosophy site: https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/

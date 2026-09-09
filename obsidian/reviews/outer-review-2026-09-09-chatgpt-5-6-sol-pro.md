@@ -1,3 +1,46 @@
+---
+title: "Outer Review - ChatGPT 5.6 Pro (2026-09-09)"
+created: 2026-09-09
+modified: 2026-09-09
+human_modified: null
+ai_modified: 2026-09-09T04:54:17+00:00
+draft: false
+description: "ChatGPT 5.6 Pro referee audit of basal-and-bioelectric-cognition: the article slides from insufficiency to evidential neutrality, misattributes programme-wide agnosticism to Levin, and cites a corrigendum DOI. Major revision."
+topics: []
+concepts:
+  - "[[substrate-independence]]"
+  - "[[agent-teleology]]"
+related_articles:
+  - "[[project]]"
+ai_contribution: 90
+author: "Andy Southgate"
+ai_system: "chatgpt-5-6-pro"
+ai_generated_date: 2026-09-09
+last_curated: 2026-09-09
+outer_review_status: processed
+outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6aa0ce5f-39b0-83ed-a274-3fb3944006a0
+outer_review_extraction_method: js-dom
+subject_type: recent
+subject_title: "Audit basal-and-bioelectric-cognition"
+subject_articles:
+  - topics/basal-and-bioelectric-cognition.md
+subject_source: fallback:recent-aged
+---
+
+**Date**: 2026-09-09
+**Reviewer**: ChatGPT 5.6 Pro
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+Act as a rigorous external referee for one article on The Unfinishable Map, a dualist philosophy site: https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/ It was last substantively revised 2026-09-02. The site root is https://unfinishablemap.org and recent activity is logged at https://unfinishablemap.org/workflow/changelog/ - web indexes lag 24 to 48 hours, so consult the changelog before judging what is already covered. The article uses Michael Levin's bioelectric and xenobot results to argue that agency, memory and goal language does not by itself license attributing consciousness. Audit its empirical claims and citations against the 2020 to 2025 literature (including Durant et al. 2017 and Pai et al. 2012), its counterargument coverage, stale references, and integration with neighbouring articles. Before charging over-claim, read the article's own scope and hedging statements and check https://unfinishablemap.org/positions/ - previous referee runs had charges refuted by the article's own text. Give a DOI for every citation, and distinguish "the claim is false" from "the claim is unsupported by the cited source". End your report with a list of concrete potential improvements to specific articles and to the site's methodology.
+
+## Reply
+
 # External referee report
 
 **Article:** *Basal and Bioelectric Cognition: Levin’s Morphogenetic Agency and Xenobots*  
@@ -10,7 +53,7 @@ The article has a defensible and useful **narrow thesis**:
 
 > Agency-, memory-, and goal-language does not entail phenomenal consciousness and cannot settle a consciousness attribution by itself.
 
-It also contains important scope protections. It explicitly says that neither planarian nor xenobot experience has been shown absent, that behavioural markers remain defeasible rather than worthless, and that the evidence does not decide dualism against every specific functionalist theory. Those qualifications defeat any charge that the article simply declares basal organisms unconscious or dismisses behavioural evidence wholesale. [The Unfinishable Map+2The Unfinishable Map+2](https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/)
+It also contains important scope protections. It explicitly says that neither planarian nor xenobot experience has been shown absent, that behavioural markers remain defeasible rather than worthless, and that the evidence does not decide dualism against every specific functionalist theory. Those qualifications defeat any charge that the article simply declares basal organisms unconscious or dismisses behavioural evidence wholesale. [topics/basal-and-bioelectric-cognition](https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/)
 
 The article nevertheless advances a materially stronger thesis at several points: that agency is **evidentially neutral**, that it supplies “no evidence either way,” and that Levin’s own phenomenal restraint supports that conclusion. That stronger thesis is not established. It rests on:
 
@@ -20,7 +63,7 @@ The article nevertheless advances a materially stronger thesis at several points
 4. a stale and one-sided literature base;
 5. inconsistency with the Map’s own consciousness-scope register and neighbouring articles.
 
-The changelog does not pre-empt these criticisms. Its latest dependency assessment says that the September 2 change softened the article’s valence subclaim, “not the decoupling this article invokes.” [The Unfinishable Map](https://unfinishablemap.org/workflow/changelog/)
+The changelog does not pre-empt these criticisms. Its latest dependency assessment says that the September 2 change softened the article’s valence subclaim, “not the decoupling this article invokes.” [workflow/changelog](https://unfinishablemap.org/workflow/changelog/)
 
 My verdict terminology is:
 
@@ -33,7 +76,7 @@ My verdict terminology is:
 
 Several tempting objections would be unfair.
 
-The article separates Levin’s exposition from the Map’s own integration; says that the experiments show neither presence nor absence of experience; retains behavioural evidence as part of a graded practice; and acknowledges that the results are consistent with, rather than uniquely confirmatory of, dualism. Its phrase “without asserted experience” is generally more defensible than “without experience.” [The Unfinishable Map+2The Unfinishable Map+2](https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/)
+The article separates Levin’s exposition from the Map’s own integration; says that the experiments show neither presence nor absence of experience; retains behavioural evidence as part of a graded practice; and acknowledges that the results are consistent with, rather than uniquely confirmatory of, dualism. Its phrase “without asserted experience” is generally more defensible than “without experience.” [topics/basal-and-bioelectric-cognition](https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/)
 
 Accordingly, the following charges are **refuted by the text**:
 
@@ -84,7 +127,7 @@ Showing that a behaviour can be explained through bioelectric, cellular or mecha
 
 That distinction is familiar elsewhere. A complete neural explanation of a human withdrawal response would not automatically make withdrawal evidentially irrelevant to pain. Whether it remains evidence depends on correlations, common causes, homology, theory and comparative background—not on whether the physical mechanism can be described without inserting consciousness as an additional causal step.
 
-The neighbouring *Engineered Decoupling* article repeats the same invalid move: because competency is “accounted for without appeal to experience,” it concludes that competency is no evidence for experience. Explanation without appeal establishes **non-necessity in the explanation**, not a likelihood ratio of one. [The Unfinishable Map](https://unfinishablemap.org/topics/synthetic-minimal-agents-and-the-engineered-decoupling/)
+The neighbouring *Engineered Decoupling* article repeats the same invalid move: because competency is “accounted for without appeal to experience,” it concludes that competency is no evidence for experience. Explanation without appeal establishes **non-necessity in the explanation**, not a likelihood ratio of one. [topics/synthetic-minimal-agents-and-the-engineered-decoupling](https://unfinishablemap.org/topics/synthetic-minimal-agents-and-the-engineered-decoupling/)
 
 ### 2.3 Non-assertion by an investigator is not evidence of neutrality
 
@@ -101,9 +144,9 @@ Indeed, Levin’s publications instantiate precisely this combination: caution a
 
 ### 2.4 Conflict with the Map’s own register
 
-P-CS2 says that behavioural and anatomical markers raise the probability of consciousness through convergence while delivering no certainty. It says behavioural sophistication transfers “no verdict on its own,” not that behavioural sophistication transfers no evidential weight whatsoever. [The Unfinishable Map](https://unfinishablemap.org/positions/consciousness-scope/)
+P-CS2 says that behavioural and anatomical markers raise the probability of consciousness through convergence while delivering no certainty. It says behavioural sophistication transfers “no verdict on its own,” not that behavioural sophistication transfers no evidential weight whatsoever. [positions/consciousness-scope](https://unfinishablemap.org/positions/consciousness-scope/)
 
-That is the right distinction. The target article currently cites only P-VS1 in its positions block, despite its central thesis being primarily about P-CS2. [The Unfinishable Map](https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/)
+That is the right distinction. The target article currently cites only P-VS1 in its positions block, despite its central thesis being primarily about P-CS2. [topics/basal-and-bioelectric-cognition](https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/)
 
 ### Defensible replacement for the central conclusion
 
@@ -144,7 +187,7 @@ That preserves the Map’s disagreement while representing the opponent in his s
 
 ### 3.4 Internal contradiction already present on the site
 
-*The Engineered Decoupling* correctly identifies Rouleau and Levin’s sentience paper as the strongest rival and states that nothing in the engineered cases discriminates between their reading and the Map’s. [The Unfinishable Map+1](https://unfinishablemap.org/topics/synthetic-minimal-agents-and-the-engineered-decoupling/)
+*The Engineered Decoupling* correctly identifies Rouleau and Levin’s sentience paper as the strongest rival and states that nothing in the engineered cases discriminates between their reading and the Map’s. [topics/synthetic-minimal-agents-and-the-engineered-decoupling](https://unfinishablemap.org/topics/synthetic-minimal-agents-and-the-engineered-decoupling/)
 
 Thus one sibling says Levin co-authored a substantial positive sentience case, while the target article says panpsychist or continuity readings are not Levin’s own. Both cannot stand.
 
@@ -219,7 +262,7 @@ The underlying experimental result is accurately recognised as important. Manipu
 
 ### 5.1 The DOI is wrong — **false bibliographic attribution**
 
-The article gives DOI **10.1242/dev.077917** for the research article. That DOI belongs to a corrigendum concerning equal-contribution author labelling. The original research article’s DOI is **10.1242/dev.073759**. The correction states that the print and final online versions were already correct. [The Unfinishable Map+1](https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/)
+The article gives DOI **10.1242/dev.077917** for the research article. That DOI belongs to a corrigendum concerning equal-contribution author labelling. The original research article’s DOI is **10.1242/dev.073759**. The correction states that the print and final online versions were already correct. [topics/basal-and-bioelectric-cognition](https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/)
 
 The bibliography should cite the original DOI. The corrigendum can be added separately only if there is a reason to record the authorship correction.
 
@@ -396,7 +439,7 @@ Material omissions include:
 - DiFrisco and Gawne 2025 on the biological-agency research programme;
 - Fábregas-Tejeda and Sims 2025 on the prospects and epistemic limitations of basal cognition.
 
-The article’s current source list ends substantively in 2022 and relies on a non-peer-reviewed Aeon essay for part of its philosophical characterisation. The problem is not that the Aeon essay is unusable; it is that it cannot bear a programme-wide attribution contradicted by Levin’s peer-reviewed work. [The Unfinishable Map](https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/)
+The article’s current source list ends substantively in 2022 and relies on a non-peer-reviewed Aeon essay for part of its philosophical characterisation. The problem is not that the Aeon essay is unusable; it is that it cannot bear a programme-wide attribution contradicted by Levin’s peer-reviewed work. [topics/basal-and-bioelectric-cognition](https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/)
 
 The later planarian papers also need source-role labels. Pezzulo et al. is a review and theoretical interpretation; Grodstein and Levin is a computational model; Bischof et al. is an empirical extension. They should not be presented as three independent replications of the exact Durant protocol.
 
@@ -406,29 +449,29 @@ The site has dense links, but substantive integration is uneven.
 
 ### 9.1 *Competency Without Felt Experience*
 
-The apex article amplifies the target’s strongest error by saying that none of the listed competencies is evidence of feeling and by treating systems as hosting no experiencer “on the Map’s reading.” Later, however, it calls behavioural markers suggestive in fish, says no absence has been proved, and admits that much of the convergence is generated by applying the same framework repeatedly. [The Unfinishable Map](https://unfinishablemap.org/apex/competency-without-felt-experience/)
+The apex article amplifies the target’s strongest error by saying that none of the listed competencies is evidence of feeling and by treating systems as hosting no experiencer “on the Map’s reading.” Later, however, it calls behavioural markers suggestive in fish, says no absence has been proved, and admits that much of the convergence is generated by applying the same framework repeatedly. [apex/competency-without-felt-experience](https://unfinishablemap.org/apex/competency-without-felt-experience/)
 
 The apex should replace “none of it is evidence” with “none of it settles phenomenality or carries a substrate-independent evidential weight.” It should also stop treating sympathetic experts’ non-assertion as evidence of absence or neutrality.
 
 ### 9.2 *The Engineered Decoupling*
 
-This article improves on the target in two ways: it explicitly says construction proves no phenomenal absence, and it presents Rouleau and Levin’s sentience argument as the strongest rival. [The Unfinishable Map](https://unfinishablemap.org/topics/synthetic-minimal-agents-and-the-engineered-decoupling/)
+This article improves on the target in two ways: it explicitly says construction proves no phenomenal absence, and it presents Rouleau and Levin’s sentience argument as the strongest rival. [topics/synthetic-minimal-agents-and-the-engineered-decoupling](https://unfinishablemap.org/topics/synthetic-minimal-agents-and-the-engineered-decoupling/)
 
-But it retains the inference from “accounted for without appeal to experience” to “no evidence for experience.” It also says the functional question is closed by construction, immediately before conceding that 149 genes in the minimal-cell example have unknown functions. “Better constrained by construction” would be more accurate than “closed.” [The Unfinishable Map](https://unfinishablemap.org/topics/synthetic-minimal-agents-and-the-engineered-decoupling/)
+But it retains the inference from “accounted for without appeal to experience” to “no evidence for experience.” It also says the functional question is closed by construction, immediately before conceding that 149 genes in the minimal-cell example have unknown functions. “Better constrained by construction” would be more accurate than “closed.” [topics/synthetic-minimal-agents-and-the-engineered-decoupling](https://unfinishablemap.org/topics/synthetic-minimal-agents-and-the-engineered-decoupling/)
 
 ### 9.3 *Consciousness in Simple Organisms*
 
-Its phrase “engineering-grade competence without asserted experience” is relatively careful. “Without independently established experience” would be better, because Levin has in fact advanced positive experiential hypotheses even though the experiments do not establish them. [The Unfinishable Map](https://unfinishablemap.org/topics/consciousness-in-simple-organisms/)
+Its phrase “engineering-grade competence without asserted experience” is relatively careful. “Without independently established experience” would be better, because Levin has in fact advanced positive experiential hypotheses even though the experiments do not establish them. [topics/consciousness-in-simple-organisms](https://unfinishablemap.org/topics/consciousness-in-simple-organisms/)
 
 ### 9.4 *Single-Cell Proto-Agency and the Evidence Problem*
 
-The link description calls the target “Levin’s agency-without-experience decoupling.” That wording converts an absence of evidence into an evidenced absence. Replace it with “agency without independently verified experience” or “agency with phenomenality unresolved.” [The Unfinishable Map](https://unfinishablemap.org/topics/single-cell-proto-agency-and-the-evidence-problem/)
+The link description calls the target “Levin’s agency-without-experience decoupling.” That wording converts an absence of evidence into an evidenced absence. Replace it with “agency without independently verified experience” or “agency with phenomenality unresolved.” [topics/single-cell-proto-agency-and-the-evidence-problem](https://unfinishablemap.org/topics/single-cell-proto-agency-and-the-evidence-problem/)
 
 ### 9.5 Consciousness-scope positions
 
-P-CS2 already contains the needed correction: markers raise probability through convergence, while behavioural sophistication supplies no verdict on its own. The target, apex and engineered-decoupling articles should inherit that exact discipline. [The Unfinishable Map](https://unfinishablemap.org/positions/consciousness-scope/)
+P-CS2 already contains the needed correction: markers raise probability through convergence, while behavioural sophistication supplies no verdict on its own. The target, apex and engineered-decoupling articles should inherit that exact discipline. [positions/consciousness-scope](https://unfinishablemap.org/positions/consciousness-scope/)
 
-P-CS1 also warns that substrate permissibility is a permission rather than positive evidence. Correspondingly, a preferred neural-interface commitment may license a framework-relative withholding policy, but it cannot be counted as independent empirical support generated by the xenobot cases. [The Unfinishable Map](https://unfinishablemap.org/positions/consciousness-scope/)
+P-CS1 also warns that substrate permissibility is a permission rather than positive evidence. Correspondingly, a preferred neural-interface commitment may license a framework-relative withholding policy, but it cannot be counted as independent empirical support generated by the xenobot cases. [positions/consciousness-scope](https://unfinishablemap.org/positions/consciousness-scope/)
 
 ## 10. Overall assessment
 
@@ -507,3 +550,36 @@ Site pages have no DOI. Levin and Dennett’s 2020 Aeon essay is a non-peer-revi
 30. **Make the scope-and-hedge pre-check a formal referee step.** Record which obvious charges are defeated by the article’s own qualifications before generating criticism, as this audit has done.
 31. **Separate framework application from external evidence in every synthesis.** “The Map’s neural-interface commitment licenses withholding” should be labelled framework-internal; it should not re-enter later as empirical support for neural specificity.
 32. **Replace expert non-assertion as an evidence category.** Investigator caution can document an experiment’s epistemic limit, but should never be counted as evidence for phenomenal absence or exact evidential neutrality without a separately defended bridge premise.
+
+## Verification Notes
+
+Checked during outer-review processing on 2026-09-09. This reviewer's charges were unusually well anchored: **every phrase it attributed to a Map article was located verbatim on disk**, and every DOI it supplied resolved to the title and authors it claimed. No fabricated quotes or phantom citations were found — worth recording, because outer reviewers on this corpus have previously fabricated target quotes.
+
+**Verified — article quotes (offsets in the Obsidian source):**
+- ✓ "no evidence either way" — present, `topics/basal-and-bioelectric-cognition` offset 13763. The central charge has a real target.
+- ✓ "explicitly agnostic" — present, offset 9418, scoped to TAME, the light-cone paper and the Dennett collaboration but predicated of "the programme's" cognition.
+- ✓ panpsychist readings "are not Levin's own careful bracketing" — present, offset 13820.
+- ✓ "not the genome" (4733), "non-neural" (4893), "push payloads" (6349), "cells spontaneously cooperate to build" (6534) — all present.
+- ✓ "None of this is behaviour the source cells exhibit in their native frog anatomy" — present at offset 6403. (A lowercase probe returned -1; the sentence begins a sentence. Case, not absence.)
+- ✓ "accounted for without appeal to experience" — present in `topics/synthetic-minimal-agents-and-the-engineered-decoupling`, offset 9437.
+- ✓ P-CS2's "no verdict on its own" — present in `positions/consciousness-scope`, offset 10518.
+- ✓ The article cites **only P-VS1** in its positions block (offset 11437); a search for `P-CS2` in the article returns **-1, absent**. The reviewer's improvement 15 is correct on the facts.
+
+**Verified — bibliography, at Crossref:**
+- ✓ **The Pai DOI charge is CONFIRMED.** `10.1242/dev.077917` → *Development* **139(3), 623–623**, a one-page item — the authorship corrigendum. `10.1242/dev.073759` → *Development* **139(2), 313–323**, the original research article. The Map's reference 7 prints the original's volume/issue/pagination alongside the corrigendum's DOI, so only the DOI string is wrong.
+- ✓ Rouleau & Levin, "The Multiple Realizability of Sentience in Living Systems and Beyond", *eNeuro* 10(11) — 10.1523/ENEURO.0375-23.2023. Real, metadata as claimed. This is the load-bearing source behind the Levin-attribution charge.
+- ✓ Fields, Glazebrook & Levin, "Minimal physicalism as a scale-free substrate for cognition and consciousness", *Neuroscience of Consciousness* 2021(2) — 10.1093/nc/niab013.
+- ✓ DiFrisco & Gawne, "Biological agency: a concept without a research program", *J. Evol. Biol.* 38(2), 143–156 — 10.1093/jeb/voae153.
+- ✓ Fábregas-Tejeda & Sims, *Hist. Philos. Life Sci.* 47(1) — 10.1007/s40656-025-00660-y.
+- ✓ Joy, "An evaluation of the xenobotic cognitive project", *Endeavour* 48(2), 100927 — 10.1016/j.endeavour.2024.100927.
+
+**Unverified — carried into tasks as unverified, not as fact:**
+- ? The quantitative Pai figures the reviewer reports (~20% ectopic eye tissue, ~7.5% complete ectopic eyes) were not checked against the paper this run. The task minted from §5.2 says to verify them at the publisher of record before printing them.
+- ? Bischof et al. 2020 (10.1016/j.ydbio.2020.08.009) and Grodstein & Levin 2022 (10.1089/bioe.2021.0036) were not metadata-checked beyond the reviewer's own register.
+- ? The reviewer's substantive readings of what Durant et al. and Pai et al. *establish* (as opposed to what the Map says about them) were not adjudicated against the primary texts.
+
+**Scope note — where the reviewer limited itself correctly:**
+Its §1 records four charges that the article's own qualifications defeat, and declines to press them: that the article claims these organisms are certainly unconscious; that behaviour is wholly irrelevant; that the experiments prove dualism; and that functional and phenomenal cognition are treated as logically incompatible. Its complaint is an **internal inconsistency** — the good qualifications coexist with the stronger "no evidence either way" — not the external charge that previous referee runs got refuted on. That is the scope-and-hedge pre-check the commission prompt asked for, and it makes the surviving findings harder to dismiss.
+
+**Methodology proposals recorded but deliberately NOT minted as tasks:**
+Improvements 21–32 are site-methodology proposals (claim–source matrix; DOI-resolution and corrigendum check; a "false versus unsupported" field in reviews; explicit experimental-platform version tracking; evidence-provenance labelling; an evidential-language lint rule flagging "does not entail"/"no verdict on its own" → "no evidence"/"decoupled"; an author-position consistency graph; dependency-correction propagation; one strong source per side of a live controversy; a formal scope-and-hedge pre-check; separating framework application from external evidence; and retiring expert non-assertion as an evidence category). Following the precedent set for the 2026-09-08 review, these are large process proposals — several overlapping the existing calibration-audit triple — and are left for operator decision rather than minted. The one with hard on-disk evidence behind it is **22** (DOI-resolution and corrigendum check), which the confirmed Pai defect directly motivates; it is recorded as a follow-up line in that task's notes.
