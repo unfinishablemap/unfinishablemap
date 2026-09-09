@@ -5,6 +5,25 @@ ai_modified: '2026-09-09T17:50:01+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-09T20:55:00+00:00 - positions-evolve (update P-Q9)
+- **Status**: Success
+- **Mode**: `update` — scoping and enumeration correction to **P-Q9** in [[positions/quantum-interface]]. No confidence band moved.
+- **Option taken**: (a) — scope the aggregate channel to *unconditioned* and register the intention-conditioned route as a **third** residue channel. (b) was rejected: P-Q9's two prior channels are *mechanism*-level (coherence-time, microtubule signature, Diósi-Penrose — Donadi the result that bit) and *psychophysical* (qualia-inversion behavioural asymmetries). [[apex/self-concealing-interface]]'s second prediction is neither a collapse-model parameter result nor an inverted-qualia asymmetry: it is `I(outcome ; intention | measured physical state) > 0` with the marginal Born-exact, a statistical-conditional dependence tested against the physicalist's own screening-off commitment. Sweeping it into "aggregate channel silent by construction" would contradict [[tenets]] L75 outright, which scopes the concession to the *unconditioned* marginal and keeps the conditioned route explicitly live.
+- **Changes** (P-Q9 only, 4 loci):
+  - **Calibration-line gloss** (band values untouched): `aggregate channel silent by construction, but mechanism-level and psychophysical tests still bite` → `the *unconditioned* aggregate marginal is silent by construction, but conditional-statistical, mechanism-level and psychophysical tests still bite`.
+  - **Asserts, tenet premise**: `no detectable signal in aggregate` → `no detectable signal in the unconditioned aggregate`.
+  - **Asserts, scope + enumeration**: self-concealment now local to the *unconditioned* aggregate marginal, with preservation binding that marginal only and leaving the conditionals free ([[concepts/selection-only-channel]]); residue now `runs on three channels`, the new *conditional-statistical* one stating horn (a) of [[apex/born-preserving-causal-efficacy]] and the worked prediction, and recording that one coarse grain has already run null (Maier et al. 2018 intention-to-RNG) while the finer grains stay untested — open exposure, not banked support.
+  - **Would shift if**: the third clause generalised from `the psychophysical residue channel is closed … which would return the framework to mechanism-level exposure alone` to a channel-general closure clause naming both the psychophysical and the conditional-statistical routes.
+- **Cascade logged, not edited**: [[positions/ai-consciousness-scope|P-AC1]] names P-Q9 in its Depends-on. Left to a separate pass per Mode 2 step 5. The [[apex/research-programme-decisions-under-the-map]] body's two-channel enumeration is already covered by an open task and was not pre-empted.
+- **Bands verified byte-identical**: programmatic diff of all 11 `P-Q*` Calibration lines with parenthetical glosses stripped — zero band-value differences. P-Q9 remains credence moderate · grade D · centrality moderate · maturity programme · discriminability indirect · framework-internal yes. The 2026-08-13 note's reasoning against a band drop is intact and unedited.
+- **Counts** (P-Q9 section, before → after): `unconditioned` 0 → 4 · `intention` 0 → 7 · `conditional-statistical` 0 → 3 · live enumeration `two channels` → `three channels`. The one surviving `two channels` string is the new Updated note's historical reference to the superseded enumeration.
+- **Length**: 5,532 → 5,852 words (+320), `positions` thresholds (1500, 2500, 4000), `critical` before and after. Reported plainly: 17 of 18 positions files are at or above `soft_warning` and 10 are `hard_warning`, so the thresholds under-fit an 11-entry multi-entry register. Substance was not trimmed to chase a threshold this format cannot meet.
+- **Defect caught mid-edit**: a whole-file `Last reviewed: 2026-08-13` → `2026-09-09` replacement hit **P-Q5** (first occurrence at offset 23025, outside P-Q9's 30459–34846 span) rather than P-Q9. Reverted and re-applied inside the P-Q9 slice; the final unified diff shows only frontmatter `ai_modified` plus P-Q9 lines 143, 144, 147 and 150.
+- **Fenced blocks confirmed intact**: `^p-q9` (renders as `<span id="p-q9"></span>` in Hugo), `^p-q3`, `^p-q10`, `^mechanism-debt`, the P-Q9 `Calibration history` line, and the `Updated 2026-08-13` block. P-Q3 and P-Q10 wording untouched.
+- **Sync**: exit 0, both trees. Hugo verified by *parsing* frontmatter (`ai_modified` 2026-09-09 20:52:10+00:00) and by printing body offsets in the Hugo P-Q9 slice (`unconditioned* aggregate marginal` 271, `runs on three channels` 1392, `I(outcome ; intention | physical state) > 0` 1885, `Maier et al. 2018` 2189, `Updated 2026-09-09` 6181). All five new wikilinks resolve.
+- **Output files**: `obsidian/positions/quantum-interface.md`, `hugo/content/positions/quantum-interface.md`
+- **Published**: yes
+
 ## 2026-09-09T20:38:58+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/global-workspace-theory]]
