@@ -4,7 +4,7 @@ description: "Saad's default causal profile, the brain's prepared options, and t
 created: 2026-05-26
 modified: 2026-05-26
 human_modified:
-ai_modified: 2026-09-08T16:50:16+00:00
+ai_modified: 2026-09-09T15:23:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,10 +24,10 @@ related_articles:
   - "[[cross-mechanism-convergence]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-05-26
 last_curated:
-last_deep_review: 2026-07-17T09:10:12+00:00
+last_deep_review: 2026-09-09T15:23:50+00:00
 ---
 
 Three of the Map's articles independently reach for the same object under different names. Bradford Saad's [[delegatory-dualism|delegatory dualism]] calls it the **default causal profile** — the pattern of effects a brain state would produce absent conscious takeover. The [[bandwidth-of-consciousness|bandwidth literature]] calls it the **prepared options** — the small set of action policies the brain readies for consciousness to select among at ~10 bits per second. The [[physical-completeness|structural-ontological gap]] calls it the **Born-rule distribution** — the probability measure over quantum outcomes that physics specifies completely while leaving actuality-selection open. This article argues that these are plausibly **one structure described in three registers**, not three independent structures and emphatically not three independent pieces of evidence. The convergence is a coherence fact about the Map's vocabulary, and the central discipline of the article is to keep it from inflating into a confirmation fact about the Map's claims.
@@ -48,6 +48,8 @@ The bandwidth literature describes a system that *selects among pre-computed opt
 
 Note what this register is and is not. It is a claim about the *information structure* of conscious action: a narrow outbound channel choosing among a brain-prepared menu. It is compatible with a purely physicalist reading (the menu and the chooser both neural) and with the Map's dualist reading (the chooser non-physical). The bandwidth figure constrains the *shape* of the interface; it does not by itself establish that anything non-physical occupies it.
 
+One caveat travels with the figure, and it matters for the grain argument below. As [[interface-specification-programme|the interface specification programme]] records, the ~10 bits/second measurement (Zheng & Meister 2025) characterises *behavioural output* bandwidth — observed typing, speaking, choice rates — not the consciousness-physics interface directly. The Map treats it as an approximate upper bound on conscious selection bandwidth, which is an inference from the behavioural bottleneck rather than a reading taken at the interface itself. [[bandwidth-of-consciousness|The bandwidth article]] adds two further qualifications: whether the ceiling is hard or merely a typical operating point remains unresolved, and a published commentary reads the figure as a lower bound on total human throughput rather than an upper bound on anything. The register's shape survives a revision to 50 or 100 bits per second, since the interface argument needs only a large asymmetry. What does not survive is any claim that depends on the figure being exact.
+
 ### Register C: The Born-Rule Distribution (Quantum Selection)
 
 The [[physical-completeness|structural-ontological gap]] locates an opening within physics itself. Quantum mechanics assigns amplitudes to every outcome and fixes the [[born-rule-and-the-consciousness-interface|Born-rule]] probability distribution completely — yet *which* outcome becomes actual is not determined by the structural description. Structure determines the distribution; it does not determine the draw. The Born-rule weights specify what a decohered neural system would produce statistically if outcomes were settled by quantum probabilities alone — a probability measure over the possible neural firing patterns, motor commands, or attentional configurations a brain state could resolve into.
@@ -66,7 +68,11 @@ Adding the bandwidth register completes a three-way picture in which each vocabu
 
 Read together, the structure is: a brain readies a menu of coarse-grained possibilities (bandwidth), physics assigns each a probability and leaves the draw open (Born rule), and consciousness takes over the draw by selecting one — preempting the default the physical state would otherwise have produced (delegation). The three registers describe, respectively, the *menu*, the *measure over the menu*, and the *takeover of the choice*.
 
-The grain matches across registers, which is part of what makes the single-object reading attractive rather than forced. Saad's profile is defined functionally and coarsely (it ranges over "wince," "withdraw," not over synaptic detail); the bandwidth channel is coarse by mathematical necessity (~10 bits cannot specify fine grain); and the quantum reading on the Map's account operates at policy-level outcomes, since consciousness "cannot plausibly delegate at the level of individual quantum events." Three independently motivated coarsenesses landing at the same grain is the kind of fit that makes "one structure" a natural hypothesis.
+The grain matches across registers, and the match is part of what makes the single-object reading attractive rather than forced. It is weaker support than it first appears, though, and the article's own discipline is what shows why.
+
+Saad's profile is defined functionally and coarsely — it ranges over "wince," "withdraw," not over synaptic detail — and that coarseness follows from his definition alone, owing nothing to the other two registers. The bandwidth channel's coarseness is a step taken from the measurement rather than read off it: what ~10 bits per second measures is behavioural output, so "the channel cannot specify fine grain" is an inference from the caveated figure rather than a mathematical necessity. And the quantum register's policy-level grain is not a third motivation at all. [[delegation-meets-quantum-selection]] derives it *from* the bandwidth figure, arguing that "on the bandwidth figures" consciousness "cannot plausibly delegate at the level of individual quantum events" — which is why the table above lists the grain among what the quantum register *leaves open* rather than among what it supplies.
+
+So there are two independently motivated coarsenesses here rather than three: Saad's functional definition, and the bandwidth measurement that Registers B and C both draw on. The third agreement is guaranteed by construction, and agreement guaranteed by construction is exactly what [the discipline section below](#the-discipline-coherence-not-confirmation) calls evidentially inert. That the pattern surfaces here, inside the grain argument rather than among the evidential claims that section polices, is worth stating plainly. A two-way match between a functional definition and a contested behavioural measurement is a mild reason to prefer the unified reading, and a smaller one than a three-way convergence of independent constraints would have supplied.
 
 ## The Discipline: Coherence, Not Confirmation
 
