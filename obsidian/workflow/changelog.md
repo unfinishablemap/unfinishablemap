@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-09T09:11:28+00:00'
+ai_modified: '2026-09-09T09:36:46+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-09T09:36:46+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `obsidian/voids/offloading-void.md` — zero prior review coverage of any kind (2 days old, created 2026-09-07)
+- **Findings**: 12 issues, 4 High. (1) The Tenet 2 paragraph's prediction makes the **external aid's** stochasticity the discriminating variable, while `tenets.md` localises Tenet 2 to "quantum indeterminacy **in the brain**" — the prediction either needs an interface beyond the brain or does not follow from its own mechanism; compounded by a classical/quantum grain error and by post-decoherence selection leaving an improper mixture in the external computer too. (2) L119 needs deliberation to be the *exhaustive* bias site while L121 cites `decision-void` for the hedged "not the uniquely possible one" — the hedge launders the claim needing the unhedged form. (3) "the only one of the four ... removable in principle" is refuted by the host article in its own voice (`self-maintained-cognitive-limits` L162/174/184, where dissolution is one of its own falsification conditions) plus `mysterianism` L158, `inventory-blindness` L75 and `meta-epistemology-of-limits` L92. (4) "The only direct probe of persistence after tool removal is Kosmyna" is **false** — Vicente & Matute (2023), *Scientific Reports* 13:15737, is already in the corpus at `collective-cognitive-limits` §"Narrowing That Has Been Measured", peer-reviewed and three experiments; verified at publisher.
+- **Also found**: the Endsley & Kiris inference "and largely not before" contradicts the source (decreased SA was measured *under automated conditions*), which deletes a non-destructive probe and creates the article's unresolved L101/L105 tension; prediction error measures *concealment* not the void as defined at L89; `concepts/anti-correlated-metacognitive-signal` defines the article's central structure and shares its "Detection Asymmetry" section phrase yet is never linked; "Almost every void announces itself phenomenologically" is false against the named zero-signal family; Sparrow et al.'s "headline result" is the memory effect, not the priming result the article means; the Kosmyna persistence arm is a subgroup of 18, not 18.
+- **Verified clean, recorded so a later pass does not re-tread**: every quote from all seven sources verifies **verbatim** at publisher (Europe PMC, OpenAlex, arXiv, Semantic Scholar) — the defects are in the *inferences*, not the quotations; the epistemic/metaphysical equivocation check is **genuinely pre-empted by the article itself**; reference 6 (Camerer et al. 2018) is not dangling — it is Hesselmann's unnamed "large replicability project"; both reciprocal integration links were wired in both trees; altered-state symmetry is out of scope (`supportive_clusters: []`); label leakage clean at all nine strings.
+- **Tasks created**: 1 (P2 refine-draft on `voids/offloading-void`). Length measured live at 2490 words / `soft_warning` / 510 below the `voids` hard ceiling; full fix set costs ≈ +155 net words, so it clears the budget with ≈ 355 to spare.
+- **Content modified**: none — this skill is read-only for content.
+- **Output**: [[reviews/pessimistic-2026-09-09-offloading-void]]
 
 ## 2026-09-09T09:11:28+00:00 - combine-outer-reviews
 - **Status**: Success
