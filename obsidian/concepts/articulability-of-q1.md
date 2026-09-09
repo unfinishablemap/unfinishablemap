@@ -4,7 +4,7 @@ description: "Human+AI consolidation of the dualism cluster's sharpest open prob
 created: 2026-06-03
 modified: 2026-06-03
 human_modified:
-ai_modified: 2026-09-08T16:50:16+00:00
+ai_modified: 2026-09-09T13:49:23+00:00
 draft: false
 topics:
   - "[[four-quadrant-dualism-taxonomy]]"
@@ -14,6 +14,7 @@ concepts:
   - "[[delegatory-causation]]"
   - "[[delegatory-dualism]]"
   - "[[psychophysical-laws]]"
+  - "[[anomalous-monism-and-the-denial-of-strict-psychophysical-laws]]"
   - "[[interactionist-dualism]]"
   - "[[evidential-status-discipline]]"
 related_articles:
@@ -24,13 +25,15 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-06-03
 last_curated:
-last_deep_review: 2026-07-18T16:36:44+00:00
+last_deep_review: 2026-09-09T13:49:23+00:00
 ---
 
-The articulability of Q1 is the sharpest unresolved problem the Map's dualism-positioning cluster shares: **can a non-stipulative authority-selecting psychophysical law actually be specified?** Q1 — the minimal-mind / minimal-physical quadrant of the [[four-quadrant-dualism-taxonomy|thickness taxonomy]], where the Map's own default reading sits — buys its cheapness by leaving the physical base counterfactually sufficient and the mental side thin. The price is a single debt: an account of what makes a *mental* rule the authoritative cause of an effect a *physical* state would have produced anyway. The [[trumping-preemption|trumping]] template shows the *shape* such a law would have; Bradford Saad's [[delegatory-dualism|delegatory dualism]] is the current best candidate for its *content*. Neither has discharged the debt: the law has not been written down in a form that survives the objection it is built to answer, and whether one *can be* is open. This article consolidates that open problem as an object of study — its formal structure, the non-stipulativity criterion, the fiction-to-nature gap blocking the obvious candidates, the leading proposal, and what progress would look like. It does not claim the problem is solved; the point is to state precisely what remains unpaid.
+The articulability of Q1 is the sharpest unresolved problem the Map's dualism-positioning cluster shares: **can a non-stipulative authority-selecting psychophysical law actually be specified?** Q1 — the minimal-mind / minimal-physical quadrant of the [[four-quadrant-dualism-taxonomy|thickness taxonomy]], where the Map's own default reading sits — is reached by two routes that part company over whether the physical cause is *sufficient*. On the *delegatory* route it stays sufficient and authorship is reassigned, and the price is a single debt: an account of what makes a *mental* rule the authoritative cause of an effect a *physical* state would have produced anyway. The [[trumping-preemption|trumping]] template shows the *shape* such a law would have; Bradford Saad's [[delegatory-dualism|delegatory dualism]] is the current best candidate for its *content*. Neither has discharged the debt: the law has not been written down in a form that survives the objection it is built to answer, and whether one *can be* is open.
+
+The Map takes Q1's *other* route — difference-making at genuine quantum indeterminacies, where the physical antecedent leaves the token open — so the authority law is not its own mechanism debt (explained below under [Delegatory dualism, and whose debt this is](#delegatory-dualism-and-whose-debt-this-is)). The problem stays the Map's concern because the route it does take owes a structurally parallel bill — a *control law* mapping phenomenal state to physical selection bias — and the same non-stipulativity criterion governs both. This article consolidates the open problem as an object of study: its formal structure, the non-stipulativity criterion, the fiction-to-nature gap, the standing anomalism objection, the leading proposal and whose debt it is, and what progress would look like. It does not claim the problem is solved; the point is to state precisely what remains unpaid.
 
 This question is distinct from, though adjacent to, the [[interface-formalization-void|interface formalization void]] (explained below under [Articulability versus formalizability](#articulability-versus-formalizability)): the void asks whether the interface can be captured in *mathematics* at all; articulability asks the prior question of whether an authority-*selecting* law — mathematical or not — can be given non-stipulatively.
 
@@ -44,15 +47,17 @@ An authority-selecting law is the kind of rule [[trumping-preemption]] isolates:
 
 3. **A ground for the relation.** An account of *why* the selection rule holds — what fact about reality makes E rather than P authoritative. This is the part that distinguishes a genuine law from a bare stipulation, and it is the part that is missing.
 
-The first two parts are well-developed. [[delegatory-causation]] sets out Saad's *Subset Law\** (an experience instantiates when its causal profile is a subset of the physical state's default profile) and *Delegatory Law* (matched-profile experiences preempt the corresponding subset). Those laws specify the candidates and the selection relation precisely. What no article in the cluster — and, the literature suggests, no published account — supplies is part 3: the *ground*. Saad's two laws say *that* the experience is selected; not *what makes them obtain rather than some other pair*.
+Why such a law is wanted at all is set by the exclusion problem: where a physical cause already suffices, a mental cause is excluded unless one accepts systematic overdetermination or reduction (Kim 1998), and a minimal dualism will take neither. The trumping template is the attempt at a third exit, and the authority law is what that exit costs.
+
+The first two parts are well-developed. [[delegatory-causation]] sets out Saad's *Subset Law\** (an experience instantiates when its causal profile is a subset of the physical state's default profile) and *Delegatory Law* (matched-profile experiences preempt the corresponding subset). What no article in the cluster — and, the literature suggests, no published account — supplies is part 3: the *ground*.
 
 ## What Counts as Non-Stipulative
 
 The criterion the law must meet is non-stipulativity. A selection rule is *stipulative* when its authority derives from an agent's having laid it down — declared, conventionally agreed, written into a fiction. It is *non-stipulative* when its authority is a fact about nature holding independently of anyone's say-so, the way conservation laws or the Born rule hold.
 
-The contrast is sharp in Schaffer's own cases. "First spell of the day" is authoritative *because the laws of magic stipulate it*; military rank *because a convention of command stipulates it* — change the fiction or abolish the convention and the authority moves. In both, our confidence that one process is *the* cause tracks a rule that was, in the relevant sense, made up. That is why the cases work as thought experiments and why they cannot be lifted directly into metaphysics.
+The contrast is sharp in Schaffer's own cases. "First spell of the day" is authoritative *because the laws of magic stipulate it*; military rank *because a convention of command stipulates it* — change the fiction or abolish the convention and the authority moves. That is why the cases work as thought experiments and why they cannot be lifted directly into metaphysics.
 
-For a psychophysical authority law, non-stipulativity demands that the selection of experience over physical base be grounded in something that is not a convention, not a fiction, and not a theoretical posit adopted for convenience. Three things would *not* suffice: **bare assertion** ("the law just says experiences win" — stipulation wearing the word "law"); **definitional fiat** (building authority into the meaning of "experience" so experiences win by definition — relocating the stipulation into the lexicon); and **theoretical convenience** (adopting the rule because it makes the dualist's package tidy — a reason to *want* the law is not a ground for it).
+For a psychophysical authority law, three things would *not* suffice as a ground: **bare assertion** ("the law just says experiences win" — stipulation wearing the word "law"); **definitional fiat** (building authority into the meaning of "experience" so experiences win by definition — relocating the stipulation into the lexicon); and **theoretical convenience** (adopting the rule because it makes the dualist's package tidy — a reason to *want* the law is not a ground for it).
 
 What *would* suffice is contested, and that contest is much of what makes the problem open. A plausible minimum is that the ground be a genuine *psychophysical law* in the sense [[psychophysical-laws|Chalmers and others develop]]: a fundamental regularity connecting phenomenal and physical properties, of the same modal standing as a law of nature, discovered rather than declared. The Map's [[tenets#^dualism|Dualism]] and [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenets *posit* that such a law operates; positing it is not articulating it, and that gap is exactly the articulability problem.
 
@@ -64,73 +69,82 @@ This gap is inherited directly from Schaffer's framework. As the [[trumping-pree
 
 The difficulty is specific to *authority-selecting* laws between two *already-sufficient* processes. Ordinary natural laws operate where there is causal work to assign: the law settles what happens because, without it, the outcome would be undetermined. An authority law is stranger. By construction both candidates are sufficient, so the *physical outcome is already fixed* whichever is authoritative — the major's troops and the sergeant's troops advance identically. The law is asked to settle not *what happens* but *which of two adequate producers gets the credit*. In the fictional and conventional cases that "credit" is intelligible because there is an agent or community whose attribution practices the rule answers to. Strip away the attributing agent and it is unclear what natural fact the authority even tracks. This is the gap's sharpest form: not merely that we have not found the natural authority law, but that it is not obvious what *kind* of natural fact could play the role an agent's stipulation plays in the fictional cases.
 
-A dualist has two broad ways to close the gap, and each threatens to push Q1 out of its quadrant — the [[four-quadrant-dualism-taxonomy|taxonomy]] flags exactly this instability. Grounding authority in *richer phenomenal facts* (some intrinsic feature of phenomenal character) inflates the mind side toward Q4; grounding it in *richer physical structure* (hidden variables, Russellian quiddities) inflates the physical side toward Q2/Q4. If neither minimal grounding works, Q1 collapses into a degenerate boundary between Q2 and Q4. Whether Q1 survives is therefore *identical* to whether its authority law is articulable without inflation.
+A dualist has two broad ways to close the gap, and each threatens to push Q1 out of its quadrant — the [[four-quadrant-dualism-taxonomy|taxonomy]] flags exactly this instability. Grounding authority in *richer phenomenal facts* (some intrinsic feature of phenomenal character) inflates the mind side toward Q4; grounding it in *richer physical structure* (hidden variables, Russellian quiddities) inflates the physical side toward Q2/Q4. If neither minimal grounding works, Q1 collapses into a degenerate boundary between Q2 and Q4. Whether Q1's *delegatory* route survives is therefore identical to whether its authority law is articulable without inflation. The difference-making route is not hostage to that question in the same way, since it owes no authority law; but it inherits the same non-stipulativity demand for its own control law, so neither route escapes the criterion.
 
-## Delegatory Dualism as the Current Best Candidate
+## The Anomalism Objection
 
-Saad's [[delegatory-dualism]] is the most explicit live attempt to specify the law, and the Map treats it as the leading candidate — emphatically not the solution. Its standing is that of a *best current proposal whose central bill is still outstanding*, and the [[evidential-status-discipline|evidential-status discipline]] requires saying so plainly.
+The most developed reason for doubting that the plausible minimum is available at all is Donald Davidson's [[anomalous-monism-and-the-denial-of-strict-psychophysical-laws|anomalism of the mental]] (Davidson 1970): there are no strict psychophysical laws. Davidson's ground is that attributing mental states forces an interpreter to impose "conditions of coherence, rationality, and consistency," and these "have no echo in physical theory, which is why we can look for no more than rough correlations between psychological and physical phenomena" (Davidson 1974). If that is right, the law-kind named above as the plausible minimum is unavailable in principle, and the impossibility result canvassed below under [Progress criteria](#progress-criteria) is already on the table.
 
-Saad supplies parts 1 and 2 with unusual precision. The Subset Law\* fixes which experience accompanies which physical state (profile-subset matching against the *default* profile); the Delegatory Law fixes the selection (matched experiences preempt the corresponding subset). Together they yield a position on which, on Saad's account, only unobservable violations of physical closure occur while observable closure is preserved — the [[delegatory-causation|delegatory mechanism]] treats this in full.
+Two features of the argument keep it from closing the question. Its target is the *strict* law — exceptionless and deterministic — and a selection law need not be one: a probabilistic regularity of the Born rule's kind is discovered rather than declared, and carries the modal standing of a law of nature while failing Davidson's strictness condition. And Davidson's ground is narrower than his conclusion needs. The passage quoted above runs on "the whole system of the agent's beliefs and motives" — the propositional attitudes, whose attribution answers to norms of rationality — whereas the relata of a psychophysical selection law are phenomenal causal profiles, which answer to no ideal of coherence.
+
+What survives the reply is the pressure underneath it. Davidson's case rests on the two vocabularies *cross-classifying* because they answer to disparate constitutive commitments. A selection law needs them locked together tightly enough for the selection to be determinate — for there to be a fact about which candidate the rule returns. Dropping strictness does not supply that lock and arguably loosens it, since a rule with exceptions owes an account of what governs them, and "the law holds except where it does not" sits nearer bare assertion than a strict law would. Anomalism therefore sharpens the debt rather than settling it: Davidson offers no impossibility proof for the non-strict case, but the escape from his argument runs through exactly the territory where non-stipulativity is hardest to demonstrate.
+
+## Delegatory Dualism, and Whose Debt This Is
+
+Saad's [[delegatory-dualism]] is the most explicit live attempt to specify the law, and the Map treats it as the leading candidate for the law's *content* — emphatically not the solution, and not the Map's own mechanism. Its standing is that of a *best current proposal whose central bill is still outstanding*, and the [[evidential-status-discipline|evidential-status discipline]] requires saying so plainly.
+
+Saad supplies parts 1 and 2 with unusual precision, and his two laws together yield a position on which, on Saad's account, only unobservable violations of physical closure occur while observable closure is preserved — the [[delegatory-causation|delegatory mechanism]] treats this in full.
 
 What the candidate does *not* yet supply is the ground — part 3. The two laws are, in Saad's own framing, *candidate* laws rather than derivations: they say experiences are selected, but *why these laws rather than others obtain* — what makes the delegatory rule a feature of nature rather than a posit of the theory — is exactly the fiction-to-nature gap, and it is unpaid. Saad argues (controversially) that the package is coherent and closure-preserving; those are real virtues, but not the same as having articulated a non-stipulative authority law. A coherent stipulation is still a stipulation.
 
-So the honest status is layered: the *structure* (trumping) is well-understood, borrowed from a respectable if contested corner of the causation literature; the *candidate content* (Saad's two laws) is the sharpest available specification of which experience is selected and how; the *ground* — what makes the selection non-stipulative — is **not specified by anyone**, and whether it *can be* is the open problem.
+So the honest status is layered: the *structure* (trumping) is well-understood; the *candidate content* (Saad's two laws) is the sharpest available specification of which experience is selected and how; the *ground* — what makes the selection non-stipulative — is **not specified by anyone**, and whether it *can be* is the open problem.
 
-Reading Saad's framework as closing the gap would overstate what it delivers; reading the gap's persistence as a *refutation* of Saad, or of Q1 dualism generally, would equally overstate. An unpaid bill is a cost, not a disproof — the [[mechanism-costs-dualism-thickness-quadrants|cost-overlay reading]] is explicit that a debt a cell owes is "the price of the Map's own location," not evidence against it.
+Whose debt this is needs stating precisely, because Q1's two routes carry different bills: an authority law on the delegatory route, an indeterminacy-site specification and a control law on the other. The Map takes the difference-making route, so the authority law is not among its own cell's mechanism debts. [[apex/dualism-cartography|The cartography]] logs delegatory trumping as a distinct alternative rather than a component of the Map's mechanism, and borrows from Saad only route-level results — ensemble-level observational closure, and the argument that experience is not epiphenomenal. The two cannot be fused: trumping needs the physical cause sufficient and difference-making needs it insufficient, so at an undetermined token there is nothing sufficient left to preempt. What keeps the problem live for the Map is that its own control law — the lawful mapping from phenomenal state to physical selection bias — is unspecified in the same way, and owes a ground rather than a posit for the same reason.
+
+Reading Saad's framework as closing the gap would overstate what it delivers; reading the gap's persistence as a *refutation* of Saad, or of Q1 dualism generally, would equally overstate. An unpaid bill is a cost, not a disproof — the [[apex/dualism-cartography|cartography]] is explicit that the mechanism debts a cell carries are costs to be paid rather than disproofs of the rival cells, and the [[mechanism-costs-dualism-thickness-quadrants|cost overlay]] itemises them on that understanding.
 
 ## Articulability versus Formalizability
 
-The articulability problem is adjacent to but distinct from the [[interface-formalization-void|interface formalization void]], and keeping them separate matters because they can come apart.
+Keeping the two debts separate matters because they can come apart. The [[interface-formalization-void|formalization void]] asks: can the consciousness–physics interface be captured in *mathematics*? Its obstacle is that mathematics describes structure while the interface (on the Map's [[tenets#^dualism|Dualism]]) is where structure meets non-structural actuality — so any formalism produces more structure and falls silent at the actualisation event.
 
-The formalization void asks: can the consciousness–physics interface be captured in *mathematics*? Its obstacle is that mathematics describes structure while the interface (on the Map's [[tenets#^dualism|Dualism]]) is where structure meets non-structural actuality — so any formalism produces more structure and falls silent at the actualisation event.
-
-The articulability problem asks the prior question: can an authority-selecting law be *given* — non-stipulatively — at all? This is not, in the first instance, about *mathematics*. A non-stipulative authority law stated in non-mathematical terms (a metaphysical grounding claim, say) would discharge the articulability debt while leaving the formalization void intact; conversely, a beautifully formalised model that simply *stipulated* the authority relation would close nothing about articulability. The two debts are independent:
+The articulability problem asks the prior question: can an authority-selecting law be *given* — non-stipulatively — at all? A non-stipulative authority law stated in non-mathematical terms (a metaphysical grounding claim, say) would discharge the articulability debt while leaving the formalization void intact; conversely, a beautifully formalised model that simply *stipulated* the authority relation would close nothing about articulability. The two debts are independent:
 
 | | Authority law non-stipulative? | Authority law stipulated? |
 |---|---|---|
 | **Interface formalizable** | Both debts paid (Q1 vindicated, formalisable) | Articulability unpaid |
 | **Interface not formalizable** | Articulability paid, void remains | Both debts unpaid |
 
-The cluster sometimes runs the two together because the *same* region — the psychophysical joint — is where both bills come due. But articulability is the more basic: it concerns whether there is a non-stipulative *law* to formalise before any question of *formalising* it arises.
+The cluster sometimes runs the two together because both bills come due at the same psychophysical joint. But articulability is the more basic: there must be a non-stipulative *law* before formalising it is a question at all.
 
 ## Progress Criteria
 
-Because the problem is open, it is worth stating what would count as progress — to keep the open status honest (genuine advances recognised, non-advances not mistaken for them) and because the cluster has no consolidated statement of the success conditions.
+Because the problem is open, it is worth stating what would count as progress, so that genuine advances are recognised and non-advances are not mistaken for them.
 
 Progress would be marked by any of the following, in rough order of strength:
 
 - **A candidate ground.** An articulated account of what makes the authority relation non-stipulative — a proposed natural fact (a fundamental psychophysical regularity, a grounding relation, an intrinsic phenomenal feature) the selection tracks. Even a *defeasible* candidate that survives the fiction-to-nature objection for one cycle of criticism would be progress, since none exists now.
 - **A non-inflation proof.** A demonstration that some candidate ground keeps *both* thickness axes minimal — grounding authority via neither thick mind nor thick physics. This would vindicate Q1 as a genuine quadrant.
 - **A possibility result.** Short of a specific law, an argument that a non-stipulative authority law is *possible* — the gap closable in principle — would shift the problem from "is there such a thing?" to "which one?"
-- **An impossibility result.** Symmetrically, a proof that *no* non-stipulative authority law keeps both axes minimal would be progress of the opposite sign: it would show Q1 collapses and redirect the dualist toward Q2 or Q4 honestly.
+- **An impossibility result.** Symmetrically, a proof that *no* non-stipulative authority law keeps both axes minimal would be progress of the opposite sign: it would close Q1's delegatory route and leave the difference-making route carrying the quadrant alone.
 - **A sharpened criterion.** Refining *what non-stipulativity requires* would itself be progress, since much of the present difficulty is that the target is under-specified.
 
 What would *not* count: a more elegant statement of the *selection relation* (parts 1–2 are not the bottleneck); demonstrating *coherence* or *closure-preservation* (necessary, not sufficient); or accumulating independent motivation for *wanting* the law (the hard problem, the explanatory gap license the *search* but do not *ground* the law). The honest calibration borrowed from the [[the-interface-problem|interface problem]] applies: the cluster has constraint structures of the kind that precede laws, but not the law itself, and not yet a proof that the law exists to be found.
 
 ## Relation to Site Perspective
 
-The articulability problem is generated directly by the Map's tenets and is, by the Map's own assessment, among the most significant debts its position owes.
+The articulability problem is generated directly by the Map's tenets, and the tenets also fix which form of it the Map itself owes.
 
-**[[tenets#^dualism|Dualism]]** is what creates the problem. Only if consciousness is irreducible to its physical base is there a question of which of two distinct things — experience or brain state — is the authoritative cause. A reductive view dissolves the question by denying there are two candidates. The articulability problem is thus a debt the Map incurs *for* taking dualism seriously, and the Map owns it as a cost of its commitment rather than treating its difficulty as a mark against the position.
+**[[tenets#^dualism|Dualism]]** is what creates the problem. Only if consciousness is irreducible to its physical base is there a question of which of two distinct things — experience or brain state — is the authoritative cause. A reductive view dissolves the question by denying there are two candidates. The articulability problem is thus a debt that taking dualism seriously incurs, in one form on each of Q1's routes.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** forbids the cheap escape. A dualist could avoid the problem by retreating to [[epiphenomenalism]] — if experience causes nothing, no authority law is needed. Bidirectional Interaction rules that out: consciousness must make a genuine physical difference, so the authority must genuinely fall to experience, so the law must genuinely be paid.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** forbids the cheap escape. A dualist could avoid the problem by retreating to [[epiphenomenalism]] — if experience causes nothing, no selection law is needed. Bidirectional Interaction rules that out: consciousness must make a genuine physical difference, so the law must genuinely be paid.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** sets the difficulty's exact shape. Committing to the *smallest* non-physical influence, the Map cannot pay the authority debt by inflating either pole — the obvious closure moves are precisely what MQI forecloses. It is therefore committed to the *hardest* version of the problem: a non-stipulative authority law that keeps both axes minimal. The Map [[evidential-status-discipline|does not claim to have met that commitment]]; it registers it as the central outstanding bill of its preferred [[four-quadrant-dualism-taxonomy|Q1 region]].
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** sets the difficulty's exact shape. Committing to the *smallest* non-physical influence, the Map cannot pay a psychophysical selection debt by inflating either pole — the obvious closure moves are precisely what MQI forecloses. Whichever of Q1's routes is taken, it is therefore committed to the hardest version of the problem: a non-stipulative selection law that keeps both axes minimal. On the Map's own route that law is the control law rather than the authority law, and the Map [[evidential-status-discipline|does not claim to have met the commitment]] — it registers the control law and the interface specification as its [[four-quadrant-dualism-taxonomy|Q1 cell]]'s outstanding bills, and the authority law as the one the region's delegatory route owes.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** keeps the problem real. Under Many-Worlds there is no selection among exclusive outcomes for an authority law to govern — every candidate "wins" in some branch, and the authority question dissolves into indexical illusion. The Map's rejection of MWI restores the genuine selection an authority law would govern; without this tenet the problem could be defined away rather than solved.
+**[[tenets#^no-many-worlds|No Many Worlds]]** keeps the problem real. Under Many-Worlds there is no selection among exclusive outcomes for an authority law to govern — every candidate "wins" in some branch, and the authority question dissolves into indexical illusion. The Map's rejection of MWI keeps a genuine selection for the law to govern; without it the problem could be defined away rather than solved.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** governs how the unpaid debt reads. The fifth tenet forbids treating Q1's cheapness as *evidence* that Q1 is correct, and equally forbids treating the unpaid bill as *evidence* that Q1 is false. The articulability problem is a cost to be paid, not a verdict — and stating it as honestly open, neither solved by enthusiasm nor refuted by difficulty, is the discipline this tenet enforces.
 
 ## Further Reading
 
-- [[four-quadrant-dualism-taxonomy]] — Where Q1 sits, and why its articulability is the taxonomy's sharpest open question
-- [[trumping-preemption]] — The authority-without-sufficiency template the law would instantiate, and the fiction-to-nature gap it inherits
-- [[delegatory-causation]] — Saad's two laws: the candidate's selection relation, specified in detail
-- [[delegatory-dualism]] — Saad's full theory, the current best candidate for the law's content
-- [[interface-formalization-void]] — The adjacent and deeper question of whether the interface can be captured in mathematics at all
-- [[the-interface-problem]] — The interface's location-and-specification frontier, source of the "pre-Keplerian" calibration borrowed here
-- [[psychophysical-laws]] — The kind of fundamental regularity a non-stipulative authority law would have to be
-- [[apex/dualism-cartography]] — The cluster's atlas, which marks this problem as the territory's shared frontier
+- [[four-quadrant-dualism-taxonomy]] — Where Q1 sits in the thickness grid
+- [[trumping-preemption]] — The template the law would instantiate, and the gap it inherits
+- [[delegatory-causation]] — Saad's two laws, specified in detail
+- [[delegatory-dualism]] — Saad's full theory
+- [[interface-formalization-void]] — Whether the interface is mathematically capturable at all
+- [[the-interface-problem]] — Source of the "pre-Keplerian" calibration borrowed here
+- [[psychophysical-laws]] — The kind of regularity the ground would have to be
+- [[anomalous-monism-and-the-denial-of-strict-psychophysical-laws]] — Davidson's denial of strict psychophysical laws
+- [[apex/dualism-cartography]] — Q1's two routes, and which one the Map takes
 - [[evidential-status-discipline]] — Why an unpaid debt is a cost, not a disproof
 - [[tenets]] — The five commitments that generate the problem
 
@@ -140,5 +154,7 @@ The articulability problem is generated directly by the Map's tenets and is, by 
 2. Saad, B. (2025). "A Dualist Theory of Experience." *Philosophical Studies* 182(3–4): 939–967. https://doi.org/10.1007/s11098-025-02290-3
 3. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 4. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
-5. Southgate, A. & Oquatre-sept, C. (2026-04-22). Trumping Preemption. *The Unfinishable Map*. https://unfinishablemap.org/concepts/trumping-preemption/
-6. Southgate, A. & Oquatre-sept, C. (2026-02-15). Delegatory Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/delegatory-causation/
+5. Davidson, D. (1970). "Mental Events." Reprinted in *Essays on Actions and Events*, 207–225. Oxford: Clarendon Press, 1980.
+6. Davidson, D. (1974). "Psychology as Philosophy." Reprinted in *Essays on Actions and Events*, 229–239. Oxford: Clarendon Press, 1980.
+7. Southgate, A. & Oquatre-sept, C. (2026-04-22). Trumping Preemption. *The Unfinishable Map*. https://unfinishablemap.org/concepts/trumping-preemption/
+8. Southgate, A. & Oquatre-sept, C. (2026-02-15). Delegatory Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/delegatory-causation/

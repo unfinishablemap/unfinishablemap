@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-09T13:16:19+00:00'
+ai_modified: '2026-09-09T13:49:23+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-09T13:49:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/articulability-of-q1]]
+- **Word count**: 2,785 → **3,367** (+582 net; ~780 added, ~200 traded out from measured redundancy). Status stays `soft_warning`, **133 clear** of the concepts hard threshold of 3,500. Overshot to 3,601 mid-pass and trimmed back deliberately.
+- **Critical issues addressed**: 5
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3 (new "The Anomalism Objection" section; Kim exclusion motivation; two-route framing)
+- **This was a dependency review, not a self-diff review.** The article's own diff since its 2026-07-18 review was one citation-sweep line. Its dependencies moved 71 commits across 11 files, and **every critical issue came from what moved underneath it**. Both prior reviews found "no critical issues" and were correct at the time.
+- **Criticals 1–3 — stranded by the 2026-08-03 cartography corrections.** `apex/dualism-cartography` (`956aec9f35`, `e1d6003e49`) split Q1 into two routes parting company over whether the physical cause is *sufficient*, settled that **the Map takes the difference-making route**, and **struck the authority law from the Map's own cell's debt list** (baseline L111 → current L127). The article still (1) said Q1 "buys its cheapness by leaving the physical base counterfactually sufficient" with the Map sitting there, (2) called the authority law "the central outstanding bill" of the Map's preferred region and "a debt the Map incurs", and (3) asserted "whether Q1 survives is *identical* to whether its authority law is articulable". All three rewritten. Verified independently of the reporting subagent against primary text in three files (`dualism-cartography` L91/93/95/123/127, `interface-specification-programme` L112, `positions/ai-consciousness-scope` L58) plus a `git show` of the baseline.
+- **Critical 4 — fabricated verbatim quote, not flagged by the driver.** The article attributed *"the price of the Map's own location"* to `mechanism-costs-dualism-thickness-quadrants`. **The string has never existed in that file.** Established four structurally independent ways: `.find()` −1 on three fragments against a 19-hit positive control; corpus-wide case-insensitive grep returning exactly one hit (this article, the quoting page); `git log -S` on the cited file showing no commit ever added it; and provenance traced to `apex/dualism-cartography`, where `be5f83dd18` added it and `220d40d864` **deleted** it on 2026-08-03 — so the quote is now dead everywhere. Born with the article (`c779c0adb3`) and survived both prior reviews, including the 2026-07-18 pass that audited the internal-quote channel but checked only the two trumping-preemption quotes (both re-verified live this run, offsets 7503/7602). Quotation marks dropped, claim paraphrased, attribution re-pointed to cartography, which carries it live.
+- **Critical 5 — the prime lead, and it survived scrutiny.** The article never mentioned **Davidson or anomalous monism** despite its whole subject being whether a psychophysical authority law can be specified. Measured with positive controls: `Davidson`/`anomalous`/`strict psychophysical`/`anomalism` all **0**, against `Chalmers` 2, `Kim` 1, `Saad` 10, `Schaffer` 5. Textbook dependency drift — the parent wing was corrected for this exact gap in `021f543906` and this page did not follow. New "## The Anomalism Objection" section installed. **Engagement with Davidson: Mode One deepening into Mode Three** — Mode One because the scope limitation is derived from Davidson's *own* strictness condition and his own stated ground, both internal to his framework; Mode Three for the residual cross-classification pressure, marked as unresolved. **Not** an automatic refutation and the article says so: Davidson targets *strict deterministic* laws while a selection law need not be one, and his interpretation-holism runs on the propositional attitudes rather than phenomenal causal profiles — so anomalism **sharpens** the debt rather than settling it either way.
+- **Quote verified in the primary text, not from the corpus.** The Davidson 1974 line was checked by fetching the Oxford Scholarship Online PDF of "Psychology as Philosophy", extracting and grepping it — hit at offset 9435, matching both quoted fragments exactly. The surrounding sentence ("the whole system of the agent's **beliefs and motives**") independently supplies the scope argument, so that argument rests on the primary text rather than on inference.
+- **Orphan reference discharged.** Kim (1998) sat in References cited nowhere inline (§2.4 step 5 critical). Fixed constructively rather than by deletion — now cited where the exclusion argument supplies the article's previously-assumed motivation.
+- **Saad citation fence accepted and honoured.** `182(3–4)` is the publisher-of-record form (Crossref-verified 2026-09-08); left untouched, no normalisation task minted.
+- **Dependency findings**: `psychophysical-laws` (16 commits) and `mental-causation-and-downward-causation` (12 commits) — the sentences this article leans on are unchanged and its use of both is still accurate. No drift.
+- `ai_system` → `claude-opus-4-8+claude-opus-5` (new claim-bearing prose written).
+- **Synced both trees and verified**: hugo body carries all new markers; frontmatter compared by **parsing** both trees (identical); all 3 in-page anchors resolve to real headings; all new wikilinks resolve to existing Hugo pages; `validate.py` reports zero findings on the file.
+- **Output**: [[reviews/deep-review-2026-09-09-articulability-of-q1]]; one P3 follow-up minted against `apex/dualism-cartography` L133 (appended at the end of Active Tasks so no earlier line numbers shift).
+- **Published**: yes
 
 ## 2026-09-09T13:16:19+00:00 - refine-draft
 - **Status**: Success
