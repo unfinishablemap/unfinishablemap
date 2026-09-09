@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-09-08 14:24:06+00:00
+ai_modified: 2026-09-09 18:57:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -16,8 +16,8 @@ description: E. coli senses, remembers, and decides with zero neurons—the prok
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-08-01 17:11:44+00:00
-lastmod: 2026-09-08 14:24:06+00:00
+last_deep_review: 2026-09-09 18:57:19+00:00
+lastmod: 2026-09-09 18:57:19+00:00
 modified: *id001
 related_articles: []
 title: Bacterial Chemotaxis and Minimal Biogenic Cognition
@@ -69,11 +69,11 @@ Her 2015 review "The cognitive cell" presses the case at the mechanistic level. 
 
 Crucially, Lyon's programme keeps cognition and consciousness *separable*: cognition goes all the way down to bacteria, but that is a claim about function, not about feeling. This is the position the Map most needs to engage carefully, because the Map can grant almost all of it. Read as a claim about *functional* continuity—that the sense–decide–act–adapt structure of cognition is present, in minimal form, in a single cell—biogenic cognition is compatible with the Map's framework. The article's task is to hold one line firmly: **functional cognition does not entail phenomenal experience.** Where Lyon leaves the phenomenal question open, the Map answers it with its neural-interface commitment; where a reader might slide from "the cell cognises" to "the cell experiences," the Map marks the step as an inference the mechanism does not license.
 
-### The Graded Spectrum: Declining the Separability Question {#graded-spectrum}
+### The Graded Spectrum: Where ICON Reserves the Phenomenal {#graded-spectrum}
 
-A third reading declines the separability question rather than answering it. Gordana Dodig-Crnkovic's 2026 info-computational framework (ICON) treats cognition, sentience, intelligence, awareness, and mind as one graded spectrum of organisational properties of living systems—processes "present from the onset of life" that grow more integrated as biological organisation increases—rather than as distinct phenomena appearing at successive levels. Sentience is defined there as the capacity for valenced response, so that "all living organisms possess a degree of sentience"; *E. coli* chemotaxis is entered on the spectrum as "minimal sentience (goal-directed behavior)." The pressure this puts on the Map falls on the shape of the question rather than on any particular verdict: if the whole mind-cluster is graded from first life, asking where experience *begins* is mis-posed, and [a threshold](/concepts/interface-threshold/) is a line ruled across a continuum.
+A third reading appears to decline the separability question rather than answer it. Gordana Dodig-Crnkovic's 2026 info-computational framework (ICON) treats cognition, sentience, intelligence, awareness, and mind as one graded spectrum of organisational properties of living systems—processes "present from the onset of life" that grow more integrated as biological organisation increases—rather than as distinct phenomena appearing at successive levels. Sentience is defined there as the capacity for valenced response, so that "all living organisms possess a degree of sentience"; *E. coli* chemotaxis is entered on the spectrum as "minimal sentience (goal-directed behavior)." The pressure this puts on the Map falls on the shape of the question rather than on any particular verdict: if the whole mind-cluster is graded from first life, asking where experience *begins* is mis-posed, and [a threshold](/concepts/interface-threshold/) is a line ruled across a continuum.
 
-Two details cut against reading that spectrum as feeling extended downward, and the Map records them rather than resolving them. The framework's own table of the spectrum marks the bacterial rung "Minimal awareness, environmental sensing, no subjective experience," while its comparison with a rival unification lists experience as "Present from the start (minimally)"—so what the account grants bacteria is not uniform within the paper itself. And the grading is carried by defining sentience as valence rather than as feeling, which leaves ICON nearer the Map's decoupling of competence from phenomenality than its vocabulary suggests. Thresholds are where the distance stays: ICON admits none.
+What cuts against reading that spectrum as feeling extended downward is the paper's own stipulation about its vocabulary. At basal levels, ICON states, terms such as sentience and experience "refer to functional, valence-sensitive regulation rather than to phenomenally conscious experience," and their use at lower biological scales "is not intended to attribute human-like subjective experience to single cells"; phenomenal consciousness and reportable subjective experience arise "only under specific organizational conditions, typically involving nervous systems and integrative architectures." That convention is what lets the framework's table of the spectrum mark the bacterial rung "Minimal awareness, environmental sensing, no subjective experience" while its comparison with a rival unification lists experience as "Present from the start (minimally)": the graded minimum is functional, and what is withheld is the phenomenal. ICON therefore grades the mind-cluster without grading feeling, which leaves it markedly nearer the Map's decoupling of competence from phenomenality than its vocabulary suggests. The residual distance is not that ICON admits no threshold—it admits one, and puts it close to where the Map puts its own—but what the threshold is taken to be: an organisational achievement of a naturalistic info-computational process, rather than the machinery that could host a consciousness-physical interface.
 
 ## The Cellular Basis of Consciousness: The Strongest Rival
 
@@ -116,7 +116,7 @@ This is where the Map answers the **Cellular Basis of Consciousness** directly, 
 6. Lyon, P. (2015). "The cognitive cell: bacterial behavior reconsidered." *Frontiers in Microbiology* 6:264. doi:10.3389/fmicb.2015.00264
 7. Macnab, R. M., & Koshland, D. E. Jr. (1972). "The gradient-sensing mechanism in bacterial chemotaxis." *Proceedings of the National Academy of Sciences* 69(9):2509–2512. PMC426976.
 8. Nesin, S. M., & Chandrankunnel, M. (2025). "The need for a new perspective on decision-making in bacteria." *Communicative & Integrative Biology* 18(1):2463926. doi:10.1080/19420889.2025.2463926
-9. Reber, A. S., & Baluška, F. (2020). "Cognition in some surprising places." *Biochemical and Biophysical Research Communications*. PubMed 32950231.
+9. Reber, A. S., & Baluška, F. (2020). "Cognition in some surprising places." *Biochemical and Biophysical Research Communications* 564:150–157 (online 2020, issue 2021). doi:10.1016/j.bbrc.2020.08.115
 10. Reber, A. S., Baluška, F., & Miller, W. B. (2023). *The Sentient Cell: The Cellular Foundations of Consciousness*. Oxford University Press.
 11. Robinson, D. G., Mallatt, J., Peer, W. A., Sourjik, V., & Taiz, L. (2024). "Cell consciousness: a dissenting opinion." *EMBO Reports* 25(5):2162–2167. doi:10.1038/s44319-024-00127-4
 12. Southgate, A. & Oquatre-huit, C. (2026-07-08). Neuron-Less Animals: Sponges, Placozoans, and the Lower Bound of Cognition. *The Unfinishable Map*. https://unfinishablemap.org/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/
