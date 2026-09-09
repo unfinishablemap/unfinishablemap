@@ -221,9 +221,9 @@
   commissioned_at: '2026-09-09T03:19:27.120626+00:00'
   prompt_summary: Audit basal-and-bioelectric-cognition (Levin xenobots/bioelectric)
   target_filename: outer-review-2026-09-09-claude-opus-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-09T05:04:12.970556+00:00'
   failure_reason: null
   prompt_text: 'Please act as a hostile but fair external referee and audit a single
     article on The Unfinishable Map, a dualist philosophy-of-mind site: https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/
