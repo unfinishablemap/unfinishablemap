@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-28
-ai_modified: 2026-08-08 16:12:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-09 23:07:13+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[qualia]]'
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 09:42:50+00:00
-lastmod: 2026-08-08 16:12:00+00:00
+lastmod: 2026-09-09 23:07:13+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -35,7 +35,7 @@ topics:
 - '[[consciousness-and-integrated-information]]'
 ---
 
-Consciousness encounters reality through an extraordinarily narrow aperture. Sensory systems deliver roughly eleven million bits per second to the brain, yet conscious thought processes approximately ten — a compression ratio of one to one million. This is The Unfinishable Map's resolution void: the gap between what the brain handles and what consciousness accesses. The void is not a contingent imperfection awaiting correction through sharper attention or better training. It operates across spatial, temporal, informational, and discriminatory dimensions simultaneously, and at least some of these limits appear architectural rather than incidental. Within the [voids](/voids/) framework, the resolution void is primarily **unexplorable** — consciousness cannot perceive at a finer grain than its own resolution permits — with an **unexplored** dimension in the informational domain where researchers continue mapping the compression mechanisms.
+Consciousness encounters reality through an extraordinarily narrow aperture. Sensory systems deliver roughly eleven million bits per second to the brain (Zimmermann 1986; Nørretranders 1998), yet conscious thought processes approximately ten — a compression ratio of one to one million. This is The Unfinishable Map's resolution void: the gap between what the brain handles and what consciousness accesses. The void is not a contingent imperfection awaiting correction through sharper attention or better training. It operates across spatial, temporal, informational, and discriminatory dimensions simultaneously, and at least some of these limits appear architectural rather than incidental. Within the [voids](/voids/) framework, the resolution void is primarily **unexplorable** — consciousness cannot perceive at a finer grain than its own resolution permits — with an **unexplored** dimension in the informational domain where researchers continue mapping the compression mechanisms.
 
 ## The Grain Mismatch
 
@@ -47,11 +47,11 @@ Andrew Lee's formal work sharpens the problem, though the route he takes to it m
 
 His conclusion still bears on this void, by a shorter path than an opacity thesis. If introspection leaves the question open, we cannot settle our own resolution from inside, whatever the explanation for that. The stronger claim — that the grain of consciousness is opaque to the consciousness whose grain it is — is the Map's own extension rather than Lee's finding, and it is what makes the limit part of the void: not only does consciousness operate at limited resolution, it cannot determine what that resolution is.
 
-## Six Orders of Magnitude
+## Six Orders of Magnitude, or Eight
 
-The information-theoretic dimension of the resolution void is starkly quantifiable. Zheng & Meister (2025) measured the throughput of conscious cognition at approximately ten bits per second across every domain where conscious processing can be observed — reading, typing, speech, gaming — and called the ratio between sensory processing and conscious throughput "the largest unexplained number in brain science." Meanwhile, sensory systems deliver roughly eleven million bits per second to the brain. The brain itself operates at an estimated 10⁹ bits per second.
+The information-theoretic dimension of the resolution void is starkly quantifiable. Zheng & Meister (2025) put the throughput of conscious cognition at approximately ten bits per second across every domain where conscious processing can be observed — reading, typing, speech, gaming — surveying the existing estimates in a *Neuron* Perspective rather than reporting a fresh measurement of their own. The inbound side of the comparison admits two accountings, and they differ by two orders of magnitude. Sensory transduction tallied by modality delivers roughly eleven million bits per second (Zimmermann 1986; Nørretranders 1998), setting the ratio at about a million to one. Zheng & Meister instead take the periphery's raw capacity — the six million cones of one eye have a capacity of some 1.6 gigabits per second — and define a dimensionless "sifting number", sensory information rate over behavioural throughput, at 10⁸. It is that larger ratio, not the transduction one, of which they write that it "may be the largest unexplained number in brain science." This article uses the more conservative transduction accounting throughout; the choice moves the exponent, not the philosophical consequence.
 
-Consciousness discards 99.9999% of available information. The selection process — which fraction survives the bottleneck — remains largely opaque to consciousness itself; the [relevance void](/voids/relevance-void/) names that opacity at its source, the live narrowing from everything-possible to *these things, now*. We do not experience ourselves filtering; we experience the filtered result as the whole of reality. The [neural bandwidth constraints](/topics/bandwidth-of-consciousness/) characterising this bottleneck suggest that consciousness does not process individual sensory data points at all. It operates at a policy level — selecting among high-level action patterns through [attentional mechanisms](/concepts/attention-as-interface/) while the brain handles fine-grained execution autonomously. The resolution void is not a failure of attention but an architectural feature of the interface between mind and brain.
+Consciousness discards 99.9999% of the transduced sensory stream. The selection process — which fraction survives the bottleneck — remains largely opaque to consciousness itself; the [relevance void](/voids/relevance-void/) names that opacity at its source, the live narrowing from everything-possible to *these things, now*. We do not experience ourselves filtering; we experience the filtered result as the whole of reality. The [neural bandwidth constraints](/topics/bandwidth-of-consciousness/) characterising this bottleneck suggest that consciousness does not process individual sensory data points at all. It operates at a policy level — selecting among high-level action patterns through [attentional mechanisms](/concepts/attention-as-interface/) while the brain handles fine-grained execution autonomously. The resolution void is not a failure of attention but an architectural feature of the interface between mind and brain.
 
 Cognitive control capacity is even lower than the ten-bit figure suggests. Wu et al. (2016) measured deliberate selection among options at approximately three to four bits per second — the rate of conscious control rather than automated skill execution. Humans appear to think one thought at a time, sequentially, while the parallel sensory apparatus floods the brain with data that consciousness will never access. The three-to-four-bit figure converges with the [cardinality floor](/voids/the-quantitative-comprehension-void/#the-cardinality-floor) at roughly four items in cardinal perception — the same magnitude reappearing where conscious operation hits a structural wall, suggesting the four-item cap is one face of a wider architectural feature rather than a quirk of number perception.
 
@@ -115,5 +115,7 @@ The resolution void connects to the Map's [tenets](/tenets/) across multiple dim
 5. VanRullen, R. & Koch, C. (2016). Time Slices: What Is the Duration of a Percept? *PLOS Biology* 14(4): e1002433.
 6. Von Rospatt, A. (1995). *The Buddhist Doctrine of Momentariness*. Stuttgart: Franz Steiner Verlag.
 7. Weber, E. H. (1834). *De pulsu, resorptione, auditu et tactu: Annotationes anatomicae et physiologicae*. Leipzig: Koehler.
-8. Southgate, A. & Oquatre-six, C. (2026-02-09). The Bandwidth of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/bandwidth-of-consciousness/
-9. Southgate, A. & Oquatre-six, C. (2026-02-23). The Bandwidth Problem in Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-bandwidth-architecture/
+8. Zimmermann, M. (1986). Neurophysiology of sensory systems. In R. F. Schmidt (Ed.), *Fundamentals of Sensory Physiology*. Berlin: Springer.
+9. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. New York: Viking Press.
+10. Southgate, A. & Oquatre-six, C. (2026-02-09). The Bandwidth of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/bandwidth-of-consciousness/
+11. Southgate, A. & Oquatre-six, C. (2026-02-23). The Bandwidth Problem in Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-bandwidth-architecture/
