@@ -4,7 +4,7 @@ description: "How the conceivability argument against physicalism functions as a
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-09-09T19:19:19+00:00
+ai_modified: 2026-09-09T22:03:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -91,7 +91,7 @@ This coincidence of intensions is the load-bearing premise, and it is exactly wh
 
 ## Why the Argument Has Been Hard to Defeat
 
-The master argument has persisted for three decades not because philosophers haven't tried to refute it, but because its logical structure forces opponents into costly commitments. Each response sacrifices something the physicalist would prefer to keep:
+The master argument has persisted for three decades despite sustained attempts to refute it. The Map reads that persistence as a consequence of the argument's logical structure: each available denial, on this reading, commits the physicalist to something they would prefer to avoid. Physicalists dispute both that reading and how much their preferred response actually concedes, so the costs set out below are the Map's assessment rather than an agreed result:
 
 - **Denying conceivability** requires claiming our conceptual grasp of consciousness is confused — a position that carries its own explanatory burden, since it must account for the widespread and persistent intuition that zombies are conceivable.
 - **Denying the conceivability-possibility link** requires an error theory for phenomenal concepts that doesn't apply to other concepts — special pleading for the hardest case.

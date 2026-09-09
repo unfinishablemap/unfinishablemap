@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-09-09 19:19:19+00:00
+ai_modified: 2026-09-09 22:03:18+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 13:16:22+00:00
-lastmod: 2026-09-09 19:19:19+00:00
+lastmod: 2026-09-09 22:03:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -95,7 +95,7 @@ This coincidence of intensions is the load-bearing premise, and it is exactly wh
 
 ## Why the Argument Has Been Hard to Defeat
 
-The master argument has persisted for three decades not because philosophers haven't tried to refute it, but because its logical structure forces opponents into costly commitments. Each response sacrifices something the physicalist would prefer to keep:
+The master argument has persisted for three decades despite sustained attempts to refute it. The Map reads that persistence as a consequence of the argument's logical structure: each available denial, on this reading, commits the physicalist to something they would prefer to avoid. Physicalists dispute both that reading and how much their preferred response actually concedes, so the costs set out below are the Map's assessment rather than an agreed result:
 
 - **Denying conceivability** requires claiming our conceptual grasp of consciousness is confused — a position that carries its own explanatory burden, since it must account for the widespread and persistent intuition that zombies are conceivable.
 - **Denying the conceivability-possibility link** requires an error theory for phenomenal concepts that doesn't apply to other concepts — special pleading for the hardest case.
