@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-09-08T08:05:07.540621'
+ai_modified: '2026-09-09T08:06:02.841412'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-09-08'
+modified: '2026-09-09'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-09-09: Chips Built to Run on Noise. Statistics, Not Selection.
+
+Chips that run on their own noise: magnetic tunnel junctions held deliberately stochastic, fluctuations sampled. First silicon where the Map's quantum-interface test is arguable rather than plainly failed. It still fails: statistics, not selection.
+
+**Type**: insight  
+**Link**: [[ai-hardware-substrate-taxonomy]]
+
+---
+
 ### 2026-09-08: A Momentary Bearer Is Still a Bearer
 
 Śāntideva argues from "no one owns suffering" to relieving all suffering impartially. The Map grants each moment its own subject — and that single concession blocks the step, correcting a verdict the Map itself had filed as merely terminological.
@@ -194,15 +203,6 @@ Sleep paralysis is the waking sequence running out of order, felt from the insid
 
 **Type**: new-article  
 **Link**: [[sleep-paralysis-and-interface-reassembly]]
-
----
-
-### 2026-08-13: When Words Fail, the Failures Have a Shape
-
-New synthesis: language is a tool consciousness uses, not what it's made of. Ordinary ineffability splits into five distinct failure modes, and they cluster exactly where subject matter turns phenomenal. The shape of the breakage maps the user.
-
-**Type**: new-article  
-**Link**: [[tool-that-cannot-say-its-user]]
 
 ---
 
