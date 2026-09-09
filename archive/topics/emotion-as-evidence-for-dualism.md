@@ -4,7 +4,7 @@ description: "Emotions provide distinctive evidence for dualism through valence 
 created: 2026-02-15
 modified: 2026-03-03
 human_modified:
-ai_modified: 2026-08-03T20:25:58+00:00
+ai_modified: 2026-09-09T01:03:35+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ archive_reason: "Coalesced into Emotion and Dualism"
 original_path: "/topics/emotion-as-evidence-for-dualism/"
 ---
 
-Emotions do not merely illustrate the [[hard-problem-of-consciousness|hard problem]]—they sharpen it into a distinct argument for dualism. The felt badness of pain and the felt goodness of joy are intrinsic phenomenal properties that resist every attempt at functional reduction. Pain asymbolia demonstrates that these properties do genuine causal work: remove the felt quality and motivation collapses, even when all functional machinery remains intact. Emotion therefore provides evidence for dualism that goes beyond the standard arguments from [[qualia]], conceivability, or knowledge—because it reveals not only that phenomenal properties are irreducible, but that they are *causally indispensable*. (For a broader treatment of emotional consciousness and its philosophical implications, see [[emotional-consciousness]].)
+Emotions do not merely illustrate the [[hard-problem-of-consciousness|hard problem]]—they sharpen it into a distinct argument for dualism. The felt badness of pain and the felt goodness of joy are intrinsic phenomenal properties that resist every attempt at functional reduction. Pain asymbolia constrains identity readings of valence rather than establishing that these properties do genuine causal work: remove the felt quality and motivation collapses, though all functional machinery remains intact—evidence for Bidirectional Interaction, not a demonstration of it. Emotion therefore provides evidence for dualism that goes beyond the standard arguments from [[qualia]], conceivability, or knowledge—because it bears not only on whether phenomenal properties are irreducible, but on whether they are causally relevant. (For a broader treatment of emotional consciousness and its philosophical implications, see [[emotional-consciousness]].)
 
 ## The Argument from Valence Irreducibility
 
@@ -50,7 +50,7 @@ Peter Carruthers has defended an alternative: valence is a nonconceptual represe
 
 Pain asymbolia—a condition caused by damage to specific brain regions—dissociates the functional representation of damage from the felt quality of pain. Patients with pain asymbolia know their hand is being burned. They can describe the sensation, locate the damage, and report that tissue harm is occurring. What they lack is the *felt badness*. They report that the pain is present but does not bother them. They do not withdraw, flinch, or display aversion.
 
-This dissociation is philosophically devastating for functionalism:
+This dissociation presses hard against functionalism:
 
 1. **The representation exists.** Patients represent tissue damage accurately. If valence were merely a representation of badness (as Carruthers argues), asymbolics should still experience the negative quality—they have the representation.
 2. **The functional machinery operates.** Nociceptive signals reach the brain. Defensive circuits are intact. If valence were a functional property, it should be present.
@@ -97,7 +97,7 @@ The causal argument—emotions do work that functional accounts cannot replicate
 
 The perceptual model of emotions (Tappolet 2016; Scheler 1913/1973) holds that felt qualities disclose evaluative properties of reality—dangerousness, beauty, injustice—through direct phenomenal contact rather than inference. You cannot deduce from a complete physical description that something is beautiful. The beauty is disclosed through experience or not at all. Declan Smithies's phenomenal accessibilism (2019) pushes further: all epistemic justification depends ultimately on phenomenal consciousness. If consciousness grounds justification itself, then the epistemic gap between conscious and unconscious systems is not a temporary limitation but a permanent structural feature of any mind lacking phenomenal experience.
 
-This epistemic argument is distinct from the causal argument. Causal efficacy shows that valence *matters*—removing it changes behaviour. Epistemic access shows that valence *reveals*—felt qualities may disclose features of reality that no third-person description captures. Together, they establish emotions as both causally indispensable and epistemically irreplaceable, a double challenge to any view that treats phenomenal consciousness as reducible or dispensable. (For the deeper question of whether emotional knowledge can be verified without circularity, see [[emotional-epistemology-void|The Emotional Epistemology Void]].)
+This epistemic argument is distinct from the causal argument. Causal efficacy shows that valence *matters*—removing it changes behaviour. Epistemic access shows that valence *reveals*—felt qualities may disclose features of reality that no third-person description captures. Together, they present emotions as both causally relevant and epistemically irreplaceable, a double challenge to any view that treats phenomenal consciousness as reducible or dispensable. The challenge reaches that far and no further: the causal half binds the bare-correlation version of epiphenomenalism and leaves the phenomenal-concept version standing. (For the deeper question of whether emotional knowledge can be verified without circularity, see [[emotional-epistemology-void|The Emotional Epistemology Void]].)
 
 ## Relation to Site Perspective
 
