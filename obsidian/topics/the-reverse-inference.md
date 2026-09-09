@@ -4,7 +4,7 @@ description: "The reverse inference uses consciousness—our most certain datum�
 created: 2026-03-17
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-06-10T15:04:59+00:00
+ai_modified: 2026-09-09T22:35:39+00:00
 last_deep_review: 2026-07-15T20:33:34+00:00
 draft: false
 topics:
@@ -37,7 +37,7 @@ related_articles:
   - "[[evidential-status-discipline]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-03-17
 last_curated:
 coalesced_from:
@@ -49,7 +49,7 @@ embedded_videos:
     source: notebooklm/0007-01-the-reverse-inference
 ---
 
-Philosophy of mind almost always runs in one direction: start with physics, then ask where consciousness fits. The Unfinishable Map's *reverse inference* inverts this. Consciousness—the one thing known with Cartesian certainty—becomes the datum, and physics becomes what must be constrained. If consciousness genuinely participates in quantum outcomes (as the Map's [[tenets]] hold), what does that tell us about the structure of physics itself? On this reading the answer is surprisingly specific: quantum mechanics appears structurally partial, complete about possibilities but silent about actuality. The [[measurement-problem|measurement problem]] is not a deficiency but a disclosure of physics' boundary with a domain it cannot describe from within.
+Philosophy of mind almost always runs in one direction: start with physics, then ask where consciousness fits. The Unfinishable Map's *reverse inference* inverts this. Consciousness—the one thing known with Cartesian certainty—becomes the datum, and physics becomes what must be constrained. If consciousness genuinely participates in quantum outcomes (as the Map's [[tenets]] hold), what does that tell us about the structure of physics itself? On this reading the answer is surprisingly specific: quantum mechanics appears structurally partial, complete about possibilities but silent about actuality. The [[measurement-problem|measurement problem]] would then be not a deficiency but a disclosure of physics' boundary with a domain it cannot describe from within.
 
 <details class="yt-embed" data-video-id="Bok4EVB_LeA">
 <summary>Video introduction</summary>
@@ -95,7 +95,7 @@ When consciousness is taken as a datum and the Map's tenets are accepted as cons
 
 **The Born rule is an interface specification.** [[quantum-probability-consciousness|Born probabilities]] describe the terms on which consciousness meets quantum indeterminacy—the constraint space within which selection operates. The rule specifies the menu, not the order.
 
-**The measurement problem is a boundary marker.** The point where the Schrödinger equation meets collapse is not a deficiency in the theory but the boundary between two ontological domains: the structural (described by the wavefunction) and the actualizing (contributed by consciousness). The Map's [[physics-as-disclosure|disclosure reading]] holds that physics cannot describe this boundary from within, just as a formal system cannot prove its own consistency.
+**The measurement problem is a boundary marker.** The point where the Schrödinger equation meets collapse is not a deficiency in the theory but the boundary between two ontological domains: the structural (described by the wavefunction) and the actualizing. The boundary supplies the *permissibility condition* for a selection role, not support for one: [[spontaneous-collapse-theories|objective collapse]] secures definiteness without invoking any mind, so the measurement problem cannot itself be evidence for conscious selection. Consciousness *modulates* Born-permitted outcomes where a neural interface exists rather than contributing the actualizing domain outright, and the warrant for that modulating role is carried by the agency arguments under [[tenets#^bidirectional-interaction|Bidirectional Interaction]], at the standing [[tenets#^tenet-3-standing|Tenet 3 registers]]. The Map's [[physics-as-disclosure|disclosure reading]] holds that physics cannot describe this boundary from within, just as a formal system cannot prove its own consistency.
 
 These are not arbitrary consequences. On the dualist reading they form a coherent picture: quantum mechanics appears *partial*—complete about the structure of possibilities, silent about what makes one possibility actual. This picture is offered as the most natural way to accommodate the datum, not as a uniquely forced conclusion; rival interpretations remain available to anyone who rejects the premises. The [[what-consciousness-tells-us-about-physics|apex treatment]] develops the picture into a full bi-aspectual ontology.
 
