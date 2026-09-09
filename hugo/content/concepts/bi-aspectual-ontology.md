@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-09-06 14:19:52+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-09 19:35:19+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 19:33:00+00:00
-lastmod: 2026-09-06 14:19:52+00:00
+lastmod: 2026-09-09 19:35:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -52,9 +52,9 @@ What physics does not describe is why one particular outcome from among the perm
 
 When a quantum measurement yields a definite result, something determines that result from among the alternatives the wavefunction permits. "Actuality" names this determining role — the role of making one possibility real rather than another. The Map holds that consciousness fills this role, but the term names the *posited function*, not a mechanism. Specifying how consciousness actualises possibilities remains an open problem (see [psychophysical-laws](/concepts/psychophysical-laws/)).
 
-Why think consciousness fills this role rather than some as-yet-unknown physical process? Two independent considerations converge — a pattern [the reverse inference](/topics/the-reverse-inference/) develops into a full methodological argument. First, the [hard problem](/topics/hard-problem-of-consciousness/) (Chalmers 1996) gives reason to think consciousness is real and irreducible to structure — it is not an entity invented to plug the measurement gap but something we know exists on independent grounds. Second, the measurement problem marks the point where structural description reaches its limit: physics specifies what can happen and with what probability, but not why *this* outcome becomes actual. These two facts — an independently motivated non-structural reality, and a gap in structural explanation at exactly the point where possibilities become actual — make consciousness a motivated candidate for the actualising role, not merely a label for our ignorance.
+Why think consciousness is a candidate for this role rather than some as-yet-unknown physical process? Two considerations make it one, and neither is evidence that it occupies the role — the methodological inversion [the reverse inference](/topics/the-reverse-inference/) develops at length. First, the [hard problem](/topics/hard-problem-of-consciousness/) (Chalmers 1996) gives reason to think consciousness is real and irreducible to structure — it is not an entity invented to plug the measurement gap but something we know exists on independent grounds. Second, the measurement problem marks the point where structural description reaches its limit, and what that supplies is the *permissibility condition* for a selection role rather than support for it: [objective collapse](/concepts/spontaneous-collapse-theories/) answers "why one definite outcome?" without invoking any mind, so the measurement problem cannot itself be evidence for conscious selection (see [measurement problem](/concepts/measurement-problem/) and [background posit 2](/tenets/background-commitments/)). Together these make consciousness a *motivated candidate* for the actualising role — they establish the availability of the location, not that consciousness fills it.
 
-This does not mean consciousness is the *only* possible candidate. A critic may argue that actualisation is simply a brute fact requiring no further explanation — that outcomes just happen with their Born-rule probabilities. The Map disagrees: the existence of definite outcomes demands an account, and consciousness is the only independently motivated non-structural reality available to provide one.
+This does not mean consciousness is the *only* possible candidate, and the Map does not claim it is. A critic may argue that actualisation is simply a brute fact requiring no further explanation — that outcomes just happen with their Born-rule probabilities. The Map holds instead that definiteness has an account, while denying that consciousness supplies it alone: [physical objective reduction](/concepts/prebiotic-collapse/) provides the baseline collapse that secured definite stellar, chemical, and prebiotic outcomes long before any observer, and consciousness *modulates* outcomes where a neural interface exists. The warrant for that modulating role is carried by the agency arguments under [Bidirectional Interaction](/tenets/#bidirectional-interaction) — [the self-stultification of epiphenomenalism](/concepts/self-stultification/) chief among them — not by the measurement problem, and it is carried at the standing [Tenet 3 registers](/tenets/#tenet-3-standing): downward causation shown to be available, not shown to be actual.
 
 Actuality is not a structural property. It cannot be captured by any equation or functional description because it is what *realises* structure rather than being part of structure. This is why the hard problem resists solution from within physics: no structural account can explain why there is something it is like to be conscious, because consciousness belongs to the other aspect.
 
