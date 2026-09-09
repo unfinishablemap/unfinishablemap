@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-09-08 16:50:16+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-09-09 10:21:07+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - '[[pain-asymbolia]]'
@@ -19,13 +19,14 @@ description: 'Where the Map and predictive-processing rivals actually disagree: 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-18 18:18:37+00:00
-lastmod: 2026-09-08 16:50:16+00:00
+last_deep_review: 2026-09-09 10:21:07+00:00
+lastmod: 2026-09-09 10:21:07+00:00
 modified: *id001
 related_articles:
 - '[[pain-asymbolia]]'
 - '[[consciousness-and-causal-powers]]'
 - '[[predictive-processing]]'
+- '[[predictive-processing-and-dualism]]'
 - '[[mental-causation-and-downward-causation]]'
 - '[[epiphenomenalism]]'
 - '[[evidential-status-discipline]]'
@@ -53,7 +54,9 @@ The distinction is structural. It is silent about *which* mechanism is operative
 
 Dissociation evidence — [pain-asymbolia](/concepts/pain-asymbolia/) being the cleanest case, where patients detect nociceptive stimuli but lack the felt awfulness — is often presented as if it settled the matter in the Map's favour. It does not, and the Map's own [evidential-status discipline](/project/evidential-status-discipline/) requires admitting why.
 
-The dissociation shows that felt awfulness and nociceptive detection are *separable*. It thereby removes the simplest identity claim: that felt awfulness just *is* nociceptive activation. But a predictive-processing account in which affective valence enters as a separate hierarchical prior over the nociceptive signal predicts the very same dissociation — insular and anterior-cingulate damage disrupts valence-prior assignment while sensory cortex stays intact, and behavioural collapse follows because the valence-prior drives avoidance-policy selection. The dissociation is a **shared explanandum**. Both framings accommodate it.
+The dissociation shows that felt awfulness and nociceptive detection are *separable*. It thereby removes the simplest identity claim: that felt awfulness just *is* nociceptive activation. But a predictive-processing account in which affective valence enters as a separate hierarchical prior over the nociceptive signal (Clark 2016; Hohwy 2013) predicts the very same dissociation: disrupt valence-prior assignment and behavioural collapse follows, because the valence-prior is what drives avoidance-policy selection, while the hierarchy that detects the stimulus goes on working.
+
+The rival's story is usually told with an anatomy attached — insular and anterior-cingulate damage sparing sensory cortex — and that part of it rests on a thinner record than textbook summaries suggest. Feinstein et al. (2016) report that no study has replicated the original finding of asymbolia following insula damage, and the classic lesion series extended into parietal operculum, secondary somatosensory cortex and supramarginal gyrus, so the damage was never a clean subtraction of the affective layer from an otherwise intact brain; [pain-asymbolia](/concepts/pain-asymbolia/) carries the localisation record in full. The argument at issue here does not depend on the anatomy. Both readings need only that valence-prior assignment and stimulus detection can come apart *somewhere*, and where that separation is housed is a further question neither reading answers. The dissociation is a **shared explanandum**. Both framings accommodate it.
 
 This is the load-bearing point. When the Map concedes "the dissociation is compatible with both readings," it has not conceded the dispute — it has *relocated* it. The disagreement was never at the dissociation. It was always one register lower, at the bridge from sub-personal valence-prior assignment to felt awfulness. The constitution reading says that bridge is a matter of identity-under-description; the causal-work reading says the felt awfulness adds causal work the prior alone does not perform. The dissociation evidence cannot reach down to that register because both readings sit beneath it.
 
@@ -63,7 +66,9 @@ Recognising this prevents a calibration error in both directions. It stops the M
 
 A tempting misreading treats relocation as a rhetorical escape: whenever the evidence fails to favour the Map, the Map simply moves the disagreement somewhere the evidence cannot reach, and declares victory there. That would be a possibility-to-probability slippage of exactly the kind [evidential-status-discipline](/project/evidential-status-discipline/) is built to catch.
 
-The discipline this page installs forbids that. Relocating the dispute to the bridge is a claim about *where* the disagreement lives, not a claim that the Map's side of the bridge is correct. At the relocated locus, the Map's reading remains a [live hypothesis](/project/evidential-status-discipline/), not an established result. The constitution reading remains fully available; the causal-work reading is not shown to be true by the act of locating it. What relocation buys is precision about the real point of contention — and precision is a methodological good independent of which side wins.
+Relocating the dispute to the bridge is a claim about *where* the disagreement lives, not a claim that the Map's side of the bridge is correct. This page cannot make that stick by declaring it, and the constraint does not originate here. It is installed by [evidential-status-discipline](/project/evidential-status-discipline/), which licenses a Map-side reading as *supported* only where an article names a discriminator the rival does not also predict, and it is checked by the review passes that apply that discipline's diagnostic test. Whether the deployers catalogued below actually observe it is therefore a checkable question about the catalogue rather than a promise made on its behalf — and each of them concedes the shared explanandum in its own text. [pain-asymbolia](/concepts/pain-asymbolia/) records that the dissociation is "compatible with both framings." [co-optimization-reply-to-the-correlation-problem](/topics/co-optimization-reply-to-the-correlation-problem/) warns that presenting compatibility as confirmation "would commit exactly the calibration error." [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) concedes the rival's mechanistic articulation "without qualification" and grades the Map's own programme behind it.
+
+At the relocated locus, the Map's reading remains a [live hypothesis](/project/evidential-status-discipline/), not an established result. The constitution reading remains fully available; the causal-work reading is not shown to be true by the act of locating it. What relocation buys is precision about the real point of contention — and precision is a methodological good independent of which side wins.
 
 The companion discipline is [constrain-vs-establish](/project/evidential-status-discipline/): the dissociation *constrains* the readings (it kills the simplest identity claim) without *establishing* either survivor. Constitution-vs-causal-work is the distinct second move that says *what the surviving readings disagree about*. The two disciplines compose: constrain-vs-establish narrows the field; constitution-vs-causal-work locates the residue.
 
@@ -72,7 +77,8 @@ The companion discipline is [constrain-vs-establish](/project/evidential-status-
 The distinction is currently deployed inline across several articles, each stating the contrast and moving on, without a shared definitional home. Cataloguing the deployers is part of what this page is for.
 
 - **[pain-asymbolia](/concepts/pain-asymbolia/)** — the paradigm. States the bridge explicitly: predictive processing "treats that bridge as constituted by computational role; the Map treats the felt awfulness as adding causal work the sub-personal prior alone does not perform."
-- **[consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)**, in its *Phenomenal Biasing* section — the architecture-level deployment. The same bridge formulation appears as the Map's "actual disagreement with PP," distinguishing the architecture-level claim (consciousness exercises influence by being phenomenally laden) from any single implementation mechanism.
+- **[consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)**, in its *Phenomenal Biasing* section — the architecture-level deployment, which separates the claim that consciousness exercises influence by being phenomenally laden from any single implementation mechanism. Since that article's September 2026 revision the bridge there is stated against predictive processing's most demanding form, the beautiful-loop account of Laukkonen, Friston and Chandaria (2025), so the constitution side is occupied by *the recursion* rather than by computational role in general. The locus is unchanged; what sits on the constitution side of it has been sharpened.
+- **[predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)** — the full-strength engagement with that account, and the most explicit statement anywhere in the catalogue of what the causal-work reading does and does not claim: the recursion the theory offers "specifies but does not generate" the felt side, and the residue is marked as a framework boundary rather than a refutation in either direction.
 - **[co-optimization-reply-to-the-correlation-problem](/topics/co-optimization-reply-to-the-correlation-problem/)** — applies the move to the evolutionary case, noting that asymbolia and congenital-insensitivity evidence is "equally consistent" with both readings, so compatibility must not be presented as confirmation.
 - **[delegatory-causation](/concepts/delegatory-causation/)** — supplies a *positive mechanism* (Saad's experiences inheriting a physical state's "default causal profile") on the causal-work side of the bridge, rather than naming the dialectical locus itself.
 - **[bidirectional-interaction](/concepts/bidirectional-interaction/)** and **[phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/)** — use "consciousness doing causal work" against deflationary rivals, the same surplus the causal-work reading defends.
@@ -94,6 +100,7 @@ The Map's commitment here is honest about its grade. The tenets *motivate* the c
 - [pain-asymbolia](/concepts/pain-asymbolia/) — the paradigm dissociation and the bridge stated in full
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — the architecture-level deployment in *Phenomenal Biasing*
 - [predictive-processing](/concepts/predictive-processing/) — the rival framework whose constitution reading this page contrasts
+- [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — that rival engaged at full strength, in its beautiful-loop form
 - [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/) — the broader problem the causal-work reading addresses
 - [epiphenomenalism](/concepts/epiphenomenalism/) — the position the constitution reading risks collapsing into
 - [evidential-status-discipline](/project/evidential-status-discipline/) — the sibling discipline naming the constrain-vs-establish move
@@ -101,7 +108,9 @@ The Map's commitment here is honest about its grade. The tenets *motivate* the c
 ## References
 
 1. Clark, A. (2016). *Surfing Uncertainty: Prediction, Action, and the Embodied Mind*. Oxford University Press.
+1. Feinstein, J. S., Khalsa, S. S., Salomons, T. V., Prkachin, K. M., Frey-Law, L. A., Lee, J. E., Tranel, D., & Rudrauf, D. (2016; online first 2015). Preserved emotional awareness of pain in a patient with extensive bilateral damage to the insula, anterior cingulate, and amygdala. *Brain Structure and Function*, 221(3), 1499–1511. https://doi.org/10.1007/s00429-014-0986-3
 1. Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press.
+1. Laukkonen, R. E., Friston, K. J., & Chandaria, S. (2025). A beautiful loop: An active inference theory of consciousness. *Neuroscience & Biobehavioral Reviews*, 176, 106296. https://doi.org/10.1016/j.neubiorev.2025.106296
 1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3-4), 939-967. https://doi.org/10.1007/s11098-025-02290-3 (Delegatory dualism; as discussed in [delegatory-causation](/concepts/delegatory-causation/).)
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Pain Asymbolia. *The Unfinishable Map*. https://unfinishablemap.org/concepts/pain-asymbolia/
 1. Southgate, A. & Sonquatre-cinq, C. (2026-02-11). Consciousness and Causal Powers. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-causal-powers/
