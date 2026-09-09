@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-01
-ai_modified: 2026-09-09 11:23:53+00:00
+ai_modified: 2026-09-09 16:16:21+00:00
 ai_system: claude-fable-5+claude-opus-5
 anchoring_audit_exempt: true
 author: null
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-02 05:24:40+00:00
-lastmod: 2026-09-09 11:23:53+00:00
+lastmod: 2026-09-09 16:16:21+00:00
 modified: *id001
 related_articles:
 - '[[apex/competency-without-felt-experience]]'
@@ -42,7 +42,7 @@ The relevant class is broader than the xenobot case the Map already treats, and 
 
 **JCVI-syn3.0** approaches agency from the minimal end. Hutchison and colleagues minimised a synthetic *Mycoplasma mycoides* genome across three design-build-test cycles, producing "JCVI-syn3.0 (531 kilobase pairs, 473 genes), which has a genome smaller than that of any autonomously replicating cell found in nature" (Hutchison et al. 2016). Here is a designed, self-maintaining, self-dividing agent at something close to the theoretical floor of genomic complexity. One detail from that paper does more work in this argument than the headline: "Unexpectedly, it also contains 149 genes with unknown biological functions." The builders produced a viable autonomous organism roughly a third of whose essential parts they could not account for. Follow-up modelling of the sibling cell JCVI-syn3A has narrowed that unknown fraction without closing it — a near-complete metabolic reconstruction still leaves "many genes of generic or completely unclear function" (Breuer et al. 2019).
 
-**Xenobots** — computer-designed body plans assembled from *Xenopus laevis* skin and cardiac cells, which locomote, push payloads, self-repair, and reproduce kinematically by piling loose stem cells into new xenobots (Kriegman et al. 2020, 2021) — are treated at length elsewhere in the Map and are included here as the middle rung of the class.
+**Xenobots** — computer-designed body plans assembled from *Xenopus laevis* skin and cardiac cells, which locomote, aggregate debris, self-repair, and reproduce kinematically by piling loose stem cells into new xenobots (Kriegman et al. 2020, 2021) — are treated at length elsewhere in the Map and are included here as the middle rung of the class.
 
 **Self-modelling robots** mark the non-biological edge. Bongard, Zykov and Lipson's four-legged machine "uses actuation-sensation relationships to indirectly infer its own structure, and it then uses this self-model to generate forward locomotion"; when a leg part is removed, "it adapts the self-models, leading to the generation of alternative gaits" (Bongard et al. 2006). A self-model, damage detection, and behavioural recovery, in metal and silicon, from a 2006 design nobody proposes to treat as a subject.
 
