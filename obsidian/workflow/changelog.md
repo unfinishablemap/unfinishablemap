@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-09T14:24:23+00:00'
+ai_modified: '2026-09-09T17:10:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-09T17:10:00+00:00 - check-tenets
+- **Status**: Warnings
+- **Run type**: **Status re-verification of the 2026-09-08 report's four priority findings, not a corpus survey.** No new sweep of the 831-file corpus was attempted; the driver's secondary scan was gated on all four being discharged, and four of four are live.
+- **Files checked**: 16 read in full or in paragraph context (the four target articles, the two other Warning 6 carriers, `tenets/tenets.md`, `concepts/measurement-problem`, `concepts/philosophical-zombies`, `concepts/dualism`, `concepts/pragmatism`, `tenets/background-commitments`, `positions/quantum-interface`, plus `todo.md` block-split) + one targeted frontmatter sweep across 8 sections
+- **Errors**: 0
+- **Warnings**: 4 families re-confirmed LIVE (09-08 Warnings 6, 8, 1, 12), 1 confirmed FIXED (Warning 5)
+- **Warning 6 — LIVE, 5 loci.** The 09-06 hard test `grep -rnF "aggregate-statistics test"` still returns **2**, unmoved. `apex/self-concealing-interface` L3/L55/L87 all still unscoped; L87's "zero third-person statistical evidence" flatly contradicts its own L143 Prediction 2, which predicts I(outcome;intention|physical state) > 0. `positions/methodology-and-calibration` L112 has **zero** occurrences of `conditioned`/`unconditioned`; `apex/research-programme-decisions-under-the-map` L47 likewise **zero** — an apex that ranks research priorities downranks the one empirical register `tenets.md` L75 keeps live. **`tenets.md` L107 IS a valid transplant source** (the scoped clause sits mid-paragraph); L75 is stronger because it adds "by construction, not by any sensitivity limit". ⚠️ `self-concealing-interface` is 5116 words against `apex` hard 5000 — keep the L87 fix to +2 words; L77 is already exemplary and must not be touched.
+- **Warning 8 — LIVE, verbatim.** `concepts/bi-aspectual-ontology` L51/L53 unmoved (no commit since 09-07). L53 self-contradicts across two sentences and is false by `tenets.md` L125's own prebiotic resolution, not merely unearned. The Tenet 3 burden `tenets.md` L183 assigns is carried nowhere locally: `agency` 0, `agent causation` 0, `self-stultification` 0, `Tenet 3` 0. Its 6 `Bidirectional` refs (L75, L109, L139) were all read — all invoke the tenet for interaction, none as the actualising warrant.
+- **Warning 1 — LIVE, verbatim, plus a fifth locus.** `concepts/zombie-master-argument` L106/L112/L114/L116 unmoved. **L120 newly reported** — "a recognition of what the argument establishes", four lines below the flagged trio, same family and same section. Corrected the 09-08 report's model citation: the calibrated sibling wording is at `concepts/philosophical-zombies` **L201**, not L141 (L141 reads "The argument doesn't specify *what* that something is:"). `concepts/dualism` L134 verified as cited.
+- **Warning 12 — LIVE, verbatim.** `topics/structure-of-attention` L3 `description:` says "reveals"; body L38 says "might" and L40 says "could". Fix the label, not the body. Zero word cost.
+- **Warning 5 — FIXED, task already closed.** Repaired by commit `b8e95e4139` (2026-09-08 01:39:07Z, 72 min after the 09-08 report was written, which is why it recorded it live). `concepts/pragmatism` L44 and `tenets/background-commitments` L60 both now carry both canonical scope elements. Owning task closed at `todo.md` L2313; sibling at L2134. **Do not re-mint.**
+- **Note 1** — targeted frontmatter sweep (description/apex_thesis/title across 8 sections, 12 keys): 58 lexical hits, **55 benign** — "reveals" is an ordinary descriptive verb here and treating those as defects would be the standing lexical-vs-structural false high. Two apparent hits read and cleared (`apex/born-preserving-causal-efficacy` L20/L48 correctly frame the debt; `concepts/mental-imagery` L3 is an open question). **One genuine finding**, and it belongs to the 09-08 report's existing Warning 13 rather than being new: `topics/consciousness-and-the-phenomenology-of-constraint-satisfaction` L3 `description:` is a second, unreported surface of the L36 lead defect — mint both lines in one task if Warning 13 is ever minted.
+- **Structural finding relayed to the driver**: `check-tenets/SKILL.md` has no minting step (greps for `todo.md`, `mint`, `task` return zero), and `todo.md` contains `tenet-check-2026-09-08` at offset **-1**. Confirmed a second way by `### `-block split: no open task covers any of the four families, so all four are mint-eligible with no duplicate.
+- **Output**: [[reviews/tenet-check-2026-09-09]]
+- **Content modified**: none — report + this entry only. `todo.md` deliberately untouched per driver instruction.
 
 ## 2026-09-09T16:16:21+00:00 - refine-draft
 - **Status**: Success
