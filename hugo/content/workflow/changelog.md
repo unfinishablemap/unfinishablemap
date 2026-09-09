@@ -1,14 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-09T04:55:13+00:00'
+ai_modified: '2026-09-09T05:08:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-09'
-lastmod: 2026-09-09 04:55:13+00:00
+lastmod: 2026-09-09 05:08:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-09T05:08:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (`claude-opus-5`), commissioned 03:19:27, collected 05:03 (104 min elapsed against the 60-min gate; `collect_attempts` 0, first attempt succeeded)
+- **File**: [outer-review-2026-09-09-claude-opus-5](/reviews/outer-review-2026-09-09-claude-opus-5/)
+- **Subject**: `topics/basal-and-bioelectric-cognition` (subject_type `recent`, source `reuse:pending-reviews:outer-review-2026-09-09-chatgpt-5-6-sol-pro.md`) — the Claude leg of the 2026-09-09 three-way. Gemini leg still `pending` at time of writing, so `/combine-outer-reviews` has not yet fired.
+- **Extraction**: js-dom via artifact panel + page-side Blob download, SHA-256 verified. Body stable at 24,098 chars across a 10 s sampling window before extraction. Page-side digest of the 26,335-byte body `da3ae1f433ff5128b3a4758c7087b12b394e4561fb0a2371e0df8e089911dadf`; on-disk digest identical. Nothing was retyped. First line (`# Adversarial Referee Report: ...`) and last line (the scope note) both confirmed present. `collect_review.py` rewrote 11 citation-chip link *labels* (e.g. "unfinishablemap" → `topics/basal-and-bioelectric-cognition`); all 20 URLs identical in sequence, and with labels masked the captured and written texts are byte-identical.
+- **Recommendation**: REVISE-HARD (reviewer's verdict), bordering on demote-to-coherence-only for the "Agency Without Experience" section.
+- **Headline finding**: the article is empirically clean at the metadata layer but rests its central inference on a misreading of Levin's own stance — a "co-optation firewall failure". Levin's methodological silence about consciousness is converted into affirmative evidence for a decoupling thesis TAME actually rejects.
+- **Claims verified**: 26 (15 article-quote locations by on-disk offset across both `obsidian/` and `hugo/`, 5 DOIs/records at Crossref and Europe PMC, 1 publisher-of-record full-text grep, 5 corpus-wide presence counts).
+- **Central charge upheld at the publisher of record**: the TAME quote is verbatim in *Front. Syst. Neurosci.* 16:768201 at offset 165,389, and its surrounding sentence is stronger than the reviewer quoted — "whatever consciousness is, some variant and degree thereof has to be present very widely across autopoietic systems". Two article claims fail against it: "which even Levin declines to characterise as felt", and that panpsychist readings "are not Levin's own careful bracketing".
+- **Dependency flagged for the executor**: the "Levin declines" claim is also the support for the article's reductio, which is the only thing standing between "agency is no evidence either way" and "the boundary **must** be weighted toward phenomenal markers". Fixing the Levin stance strands the reductio and re-opens the ChatGPT leg's non-sequitur, so the two P1s must be executed together.
+- **Second confirmed defect (verified independently of the reviewer)**: the article says Durant's planaria "continued producing two-headed **offspring**"; the string `offspring` appears **nowhere** in Durant et al. 2017 (Europe PMC full text, PMC5443973). The paper says "regenerates" — a somatic pattern-memory result, not reproductive transmission.
+- **Reviewer errors caught**: (1) the "site-wide blind spot" framing of the omitted literature is FALSE — Birch appears in 48 corpus article files, Seth 37, Laukkonen 23, Butlin 14, Lyon 5; only the article-level gap is real. (2) Citation-table row 7 marks the Pai reference ✅ while admitting it was "not re-verified at publisher this pass" — it is in fact the corrigendum DOI, so this is a non-check, **not** a refutation of the ChatGPT leg's confirmed finding. (3) "confidence: low · no independent evidence · peripheral" is presented as a quotation but is a reconstruction appearing nowhere on disk. (4) "MANDATORY GATE" / "blocking-gate" is the reviewer's own invented site policy.
+- **Convergence with the ChatGPT leg**: two findings converge via **disjoint evidence** — the Levin author-stance misattribution (ChatGPT via Rouleau & Levin 2023 and Fields/Glazebrook/Levin 2021; Claude via TAME 2022) and the insufficiency→neutrality slide. Neither was re-minted; `/combine-outer-reviews` reads both review files and will register the convergence.
+- **High-value findings**: 4 (Levin co-optation firewall failure; Durant offspring/regenerates error; Laukkonen/Seth/Birch/Butlin/Lyon rival omissions; Chis-Ciure & Levin 2025 currency gap)
+- **Tasks generated**: 2 (P2: 2) — both confirmed `deferred=True` by `is_outer_review_task_deferred`. Deliberately minimal: the ChatGPT leg had already minted 7 tasks on this same file, so only genuinely new work was added (the citation-layer fixes, and the disjoint rival set). The two convergent P1s were left as ChatGPT's single copies rather than duplicated, and both new tasks carry an instruction to consolidate into the existing editor pass.
+- **Deliberately not minted**: the five site-wide methodology proposals (§5), consistent with the precedent for the 2026-09-08 and 2026-09-09 ChatGPT reviews — recorded in the review's Verification Notes for operator decision. Proposal 3 (mandatory compatible/suggestive/discriminating self-placement field) overlaps the calibration-audit triple.
+- **Not adjudicated**: the two thoughtforms.life quotations were not fetched (blog-sourced, not load-bearing — TAME carries the charge); Oviedo et al. 2010's existence was not checked at Crossref. Both are flagged in the task and Verification Notes as verify-before-use.
+- **Published**: pending sync
 
 ## 2026-09-09T04:55:13+00:00 - outer-review
 - **Status**: Success

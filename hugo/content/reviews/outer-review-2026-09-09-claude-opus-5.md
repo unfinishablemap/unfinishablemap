@@ -1,0 +1,307 @@
+---
+ai_contribution: 90
+ai_generated_date: 2026-09-09
+ai_modified: 2026-09-09 05:08:00+00:00
+ai_system: claude-opus-5
+author: Andy Southgate
+concepts:
+- '[[substrate-independence]]'
+created: 2026-09-09
+date: &id001 2026-09-09
+description: 'Claude Opus 5 audits basal-and-bioelectric-cognition: empirically clean,
+  but charges a co-optation firewall failure in the Levin author-stance premise.'
+draft: false
+human_modified: null
+last_curated: 2026-09-09
+lastmod: 2026-09-09 05:08:00+00:00
+modified: *id001
+outer_review_conversation_url: https://claude.ai/chat/596ca8a1-969e-430e-916d-a5d08c17d83a
+outer_review_extraction_method: js-dom
+outer_review_status: processed
+related_articles:
+- '[[project]]'
+subject_articles:
+- topics/basal-and-bioelectric-cognition.md
+subject_source: reuse:pending-reviews:outer-review-2026-09-09-chatgpt-5-6-sol-pro.md
+subject_title: Audit basal-and-bioelectric-cognition
+subject_type: recent
+title: Outer Review - Claude Opus 5 (2026-09-09)
+topics:
+- '[[basal-and-bioelectric-cognition]]'
+- '[[valence-and-conscious-selection]]'
+- '[[marginal-organism-scope-of-value-sensitive-selection]]'
+- '[[plant-cognition-and-the-plant-neurobiology-debate]]'
+---
+
+**Date**: 2026-09-09
+**Reviewer**: Claude Opus 5
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+Please act as a hostile but fair external referee and audit a single article on The Unfinishable Map, a dualist philosophy-of-mind site: https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/ (title: Basal and Bioelectric Cognition: Levin's Morphogenetic Agency and Xenobots). Fetch that page directly, plus the site root https://unfinishablemap.org and the automation changelog https://unfinishablemap.org/workflow/changelog/ , because web-search indexes lag this site by 24-48 hours and stale snapshots have produced false findings in past reviews. Assess: (a) whether its empirical claims about Michael Levin's xenobot, planarian and bioelectric-memory work are accurate and current, with correct first authors, dates and results; (b) whether the inference from sophisticated agency without evidence of experience to a defence against consciousness false positives is valid or overreaches; (c) whether the article's calibration hedges are genuine or cosmetic; (d) what relevant 2020s literature it omits or misreads. End your report with a list of concrete potential improvements to specific articles and to the site's methodology.
+
+## Reply
+
+# Adversarial Referee Report: "Basal and Bioelectric Cognition: Levin's Morphogenetic Agency and Xenobots"
+
+*Target: [topics/basal-and-bioelectric-cognition](https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/) (created 2026-07-08, last modified 2026-09-02). Live changelog and site root fetched to establish current state; the target article body was unchanged by the 2026-09-09 refine passes, which touched only the psychedelics/Gładziejewski citation cluster.*
+
+## 1. TL;DR — Headline Verdict
+
+The article is **empirically clean but philosophically compromised**. Its citations to Levin's research programme are, at the metadata layer, among the most accurate on the site — first authors, years, journals, DOIs, and page ranges for Kriegman 2020/2021 (PNAS), Durant 2017 (Biophysical Journal), Pai 2012 (Development), Levin 2019/2022 (Frontiers) and Levin & Dennett 2020 (Aeon) all check out against publisher-of-record sources. The failure is at the **author-stance layer and the central inference**. The load-bearing premise — that "Levin himself brackets phenomenal sentience" and his "restraint about experience becomes evidence for the Map's insistence that competency and phenomenal presence are separate axes" — misrepresents Levin, who states in TAME (2022) that his framework "is definitely incompatible with binary views that cut off consciousness at a particular sharp line and it suggests no obvious way to define cognitive systems that have no consciousness whatsoever," [arxiv](https://arxiv.org/pdf/2201.10346) who has written that "a kind of panpsychism is unavoidable," [Thoughtforms](https://thoughtforms.life/platonic-space-where-cognitive-and-morphological-patterns-come-from-besides-genetics-and-environment/) and who explicitly refuses to assign "a true 0 of inner perspective to a cell." This is a **co-optation firewall failure**: Levin's methodological silence about consciousness is converted into affirmative evidence for a decoupling thesis he rejects, and Dennett — an eliminativist about the hard problem — is recruited into a synthesis defending interactionist substance dualism. **Verdict: REVISE-HARD, bordering on DEMOTE-TO-COHERENCE-ONLY for the "Agency Without Experience" section.**
+
+## 2. Dimensional Analysis
+
+### (a) Empirical accuracy and currency
+
+The empirical spine is sound. Verified against PubMed/PMC, PNAS, Cell Press/ScienceDirect and Wiley:
+
+- **Kriegman, Blackiston, Levin & Bongard (2020), PNAS 117(4):1853–1859** — metadata exact (PMID 31932426; epub 2020-01-13). [PubMed](https://pubmed.ncbi.nlm.nih.gov/31932426/) The description (evolutionary algorithm designs body plans in silico; built from *Xenopus laevis* skin and cardiac cells; locomotion driven by rhythmic cardiac contraction; navigation, payload-pushing, self-repair) is faithful.
+- **Kriegman et al. (2021), PNAS 118(49):e2112672118**, "Kinematic self-replication in reconfigurable organisms" — metadata exact; "AI-optimized 'C'-shaped (Pac-Man-like) morphologies dramatically raise the replication yield" is accurate.
+- **Durant et al. (2017), Biophysical Journal 112(10):2231–2243** — metadata exact. The octanol (8-OH) gap-junction result is quantitatively precise: **exactly 25% two-headed vs 72% normal-appearing regenerates in *Dugesia japonica*** (Tufts Now / Biophysical Journal: "Twenty five percent of the amputated trunk fragments regenerated into two-headed flatworms, while 72 percent regenerated into normal-appearing, one-headed worms"). Reversibility with the proton-potassium pump blocker SCH28080 and the cryptic-pattern-memory framing are accurate.
+- **Pai et al. (2012), Development 139(2):313–323** — consistent with reference records; ectopic-eye induction via imposed hyperpolarization outside the anterior neural field, transduced through a calcium pathway, correctly described.
+- **Levin (2019), Front. Psychol. 10:2688; Levin (2022), Front. Syst. Neurosci. 16:768201; Levin & Dennett (2020), Aeon, 13 Oct 2020** — all metadata correct.
+
+**Empirical defects, minor:**
+
+1. The clause "continued producing two-headed **offspring** in later rounds of cutting" is **wrong**. Durant 2017's actual result concerns *regenerates*, not reproductive offspring — verbatim from the Biophysical Journal abstract: "Subsequent amputations of the morphologically normal regenerates in water result in the same ratio of double-headed to normal morphology, revealing a cryptic phenotype that is not apparent unless the animals are cut." "Offspring" wrongly imports vertical/reproductive transmission into a somatic-pattern-memory result. Fix to "two-headed regenerates."
+2. The octanol/gap-junction two-headed A-P polarity lineage originates with **Oviedo et al. (2010), Developmental Biology 339(1):188–199** ("Long-range Neural and Gap Junction Protein-mediated Cues Control Polarity During Planarian Regeneration"), which Durant 2017 builds on. Not a misattribution (Durant did use octanol), but the founding citation is omitted.
+
+**Currency gap:** The article cites the 2020 Aeon essay but not **Chis-Ciure & Levin (2025), "Cognition all the way down 2.0," Synthese 206(5):257 (doi:10.1007/s11229-025-05319-6)** — the peer-reviewed formalization that explicitly engages the basal "cognition wars" [Springer](https://link.springer.com/article/10.1007/s11229-025-05319-6) and the skeptics (Adams & Garrison, Figdor), and quantifies that "even 'simple' organisms are from two-hundred- to sextillion-fold more efficient in problem space exploration." This is the current state of Levin's own defence.
+
+No replication failure or retraction affecting the cited xenobot/anthrobot results was located; the behaviours (locomotion, self-repair, kinematic replication) are not disputed, which the article correctly notes.
+
+### (b) Validity of the central inference
+
+The inference runs: sophisticated goal-directed agency is present in brainless/nerveless systems + the PI "declines" to assert experience → agency/memory/teleology language "cannot by itself be *positive evidence* for consciousness" → a "principled defeater for false positives" [topics/basal-and-bioelectric-cognition](https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/) that licenses "weighting toward phenomenal markers over bare competency markers."
+
+**What the article gets right.** It explicitly inoculates against the absence-of-evidence/evidence-of-absence fallacy ("nothing here shows xenobots or planaria *lack* experience any more than it shows they have it"), flags the inference as "a claim about what such language *fails* to show, not a claim that experience has been shown to be decoupled or absent," and concedes the decoupling "does not on its own decide between dualism and a functionalism that locates experience in a specific functional organization." [topics/basal-and-bioelectric-cognition](https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/) These are genuine constraints.
+
+**Where it overreaches — the co-optation firewall failure (primary-source-confirmed).** The inference's evidential weight rests entirely on "the researcher best positioned to make the phenomenal claim declines to make it," [topics/basal-and-bioelectric-cognition](https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/) so that "Levin's own restraint about experience becomes evidence for the Map's insistence." This misrepresents Levin on the primary record:
+
+- Levin's **TAME paper (2022, arXiv:2201.10346 / Front. Syst. Neurosci. 16:768201)** states verbatim: "TAME is definitely incompatible with binary views that cut off consciousness at a particular sharp line and it suggests no obvious way to define cognitive systems that have no consciousness whatsoever," the open question being whether "the continuum of cognition (and consciousness) contains a true '0' or only infinitesimal levels for very modest agents." This is the *opposite* of a decoupling thesis: Levin leans toward consciousness being *continuous with* competence, not orthogonal to it.
+- In his own Q&A (thoughtforms.life, Dec 2025), asked about inner experience in a single cell, Levin says "A view that assigned a true 0 of inner perspective to a cell would really have to tell a developmental biology story about how one got from 0 to non-zero" — *shifting the burden onto the denier* — and adds "I'm much less worried about inappropriate over-ascription of mentality and more worried about our mind-blindness."
+- He has written that "a kind of panpsychism is unavoidable" [Thoughtforms](https://thoughtforms.life/platonic-space-where-cognitive-and-morphological-patterns-come-from-besides-genetics-and-environment/) (thoughtforms.life, "Platonic space," March 2025).
+
+Levin does not "carefully bracket" phenomenal experience in the neutral sense the article needs; he is **actively agnostic with gradualist, anti-cutoff sympathy** and explicitly refuses to deny experience down the scale. His genuine bracketing is *methodological* ("my actual framework doesn't need to say anything about consciousness … I mostly write about cognition and intelligence, not consciousness"), [Thoughtforms](https://thoughtforms.life/qa-from-the-internet-and-recent-presentations-4/) which the article silently upgrades into a *metaphysical* decoupling verdict. The article's second "caution" — that panpsychist readings "are not Levin's own careful bracketing" [topics/basal-and-bioelectric-cognition](https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/) — is therefore backwards: the continuum-of-mind reading is closer to Levin's own view than the decoupling the article attributes to him. **Co-optation firewall failure.**
+
+**Dennett.** The gloss of the 2020 Aeon essay (rejecting the "real vs as-if" goal dichotomy; the intentional stance as instrumentalist licence that "does not smuggle in phenomenality") is faithful to that essay, which ducks the phenomenal question. But recruiting Dennett — an eliminativist/illusionist about the hard problem — into a synthesis defending interactionist substance dualism is a co-optation risk only partly firewalled. The article quarantines the decoupling as "the Map's argument rather than Levin's," [topics/basal-and-bioelectric-cognition](https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/) then undercuts that by claiming the framing "is Levin's and Dennett's framing, not the Map's imposition." [topics/basal-and-bioelectric-cognition](https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/) The competency-without-asserted-phenomenality *description* is loosely theirs; the decoupling-as-defeater-against-consciousness-attribution is the Map's, and both authors would reject its dualist deployment.
+
+**Epistemic-to-metaphysical slide / earned-premise failure.** "The boundary of consciousness must accordingly be weighted toward phenomenal markers over bare competency markers" does not follow from "agency is no evidence either way." If competency is genuinely *neutral* evidence, it cannot *mandate* reweighting; it can only fail to move the needle. The reweighting is the Map's dualist tenet (function underdetermines experience) re-derived from data the article concedes is neutral — a **constitutional-attractor effect**. The argument also leans on the explanatory gap as an earned premise ("that very absence *is* the explanatory gap"), treating a framework commitment as an established datum.
+
+**Proves-too-much test.** Applied consistently, "sophisticated agency is no evidence of consciousness" would license withholding consciousness attribution from humans. The article blocks this only by importing the explanatory-gap premise and staying "graded rather than eliminative" — a coherent escape *inside* the dualist framework, but not independent support for it. The inference is **coherence-only, not discriminating.**
+
+### (c) Calibration hedges — genuine or cosmetic
+
+Mixed, tilting toward **confession-without-correction** (the site's dominant pathology).
+
+**Genuine (does real work):** the "no evidence either way" clause constrains the panpsychism extension; the [P-VS1](/positions/value-in-selection/#p-vs1) low-confidence flag is correctly reproduced ("confidence: low · no independent evidence · peripheral"); [topics/basal-and-bioelectric-cognition](https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/) the concession that the decoupling "does not on its own decide between dualism and functionalism"; the "defeasible, substrate-sensitive markers — decisive nowhere on their own" formulation; retention of the fish rung's "suggestive" grading.
+
+**Cosmetic (confessed, then over-ridden):** "agency is no evidence either way" is named with precision and then *not converted into a status change* — the same section derives a "principled defeater for false positives" and a conclusion that the boundary "must … be weighted toward phenomenal markers." A datum that is "no evidence either way" cannot ground a defeater or a mandatory reweighting. The hedge is banked as epistemic credit while the unhedged conclusion is asserted. The meta-description ("sophisticated agency with no claim to experience — a decoupling the Map uses against consciousness false positives") [topics/basal-and-bioelectric-cognition](https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/) and the lede ("That gives the Map a clean lever") [topics/basal-and-bioelectric-cognition](https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/) assert the unhedged version to every reader who does not reach the caveats. This breaches the **constrain-vs-establish gate**: a tenet-constrained reading is presented as an established evidential result.
+
+**Comparison to the apex benchmarks.** The two named apex slugs (`apex/cross-modal-capability-division`, `apex/born-preserving-causal-efficacy`) could not be fetched live this pass — the fetcher rejects URLs not previously surfaced, and the apex index was likewise unreachable; the comparison draws on the Born-rule cluster's calibration language as surfaced in-corpus, which calibrates on the same ladder. The Born-rule apex grades its case on an explicit **compatible / suggestive / discriminating** ladder and concludes "interface-compatible and not yet interface-discriminating," [topics/born-rule-and-the-consciousness-interface](https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/) refusing the tier-upgrade it has the structure to take. The basal-cognition article has the materials to place itself at "compatible" (it concedes the data don't decide dualism vs functionalism) but slides to a "suggestive/discriminating"-strength conclusion (mandatory reweighting toward phenomenal markers). **Calibration asymmetry:** the flagship quantum apex declines the upgrade; this rung takes it.
+
+### (d) Omitted or misread 2020s literature
+
+- **Laukkonen, Friston & Chandaria (2025), "A beautiful loop," Neuroscience & Biobehavioral Reviews 176:106296 — MANDATORY GATE, FAILED.** The article touches learning, selfhood, valence (links to `valence-and-conscious-selection`), goal-pursuit, and minimal experience. Beautiful Loop is load-bearing twice over. First, its third condition — "epistemic depth, which is the recurrent sharing of the Bayesian beliefs throughout the system. Due to this recursive loop in a hierarchical system (such as a brain) the world model contains the knowledge that it exists" [OSF](https://osf.io/preprints/psyarxiv/daf5n) — supplies a *functional* criterion that would let the Map distinguish a xenobot/planarian bioelectric circuit (plausibly lacking the recurrent epistemic-depth loop) from a conscious system on principled grounds, rather than resting the decoupling on Levin's silence (an appeal to authority). Second, it is a functionalist theory on which competence *of the right recurrent kind* is constitutive of consciousness, and on which "consciousness clearly precedes introspection or complex metacognition" and "even a tiny agent can incorporate ongoing feedback from within its own inferential machinery" — directly contesting the blanket "function underdetermines experience" claim the article treats as licensed. Its omission lets the article dodge its strongest live rival. **Status-demoting omission.**
+- **Seth, "beast machine"/*Being You* (2021), controlled-hallucination — omitted.** The leading view that competence and consciousness *cannot* be cleanly decoupled for living systems, because consciousness is tied to metabolic self-maintenance/allostatic [The Consciousness AI](https://theconsciousness.ai/researchers/anil-seth/) regulation. Directly adverse to the decoupling thesis; not engaged.
+- **Birch, *The Edge of Sentience* (2024, OUP) — omitted.** The current reference framework for the false-positive/false-negative trade-off the article legislates on ("sentience candidates," "zone of reasonable disagreement," "never simply presume the absence of sentience where it could realistically be present"). Birch's asymmetry runs the *other* way — the graver, less controllable error is the false negative. An article building a "defeater for false positives" that never engages the leading defence of precaution against false negatives is one-sided; the bare gesture at "edge-of-sentience frameworks" does not discharge this.
+- **Butlin, Long et al. (2023), "Consciousness in Artificial Intelligence" — omitted.** The leading theory-derived indicator-property approach; it both supports "behaviour is not enough" and undercuts the article's implication that markers are hopeless, letting the article overstate "there are no third-person markers."
+- **Lyon et al. (2021), Phil. Trans. R. Soc. B basal-cognition special issue (Lyon, Keijzer, Arendt, Baluška & Levin) — omitted**; the article deploys "basal cognition" as a term of art without citing the literature defining and contesting it.
+- **Birch, Schnell & Clayton (2020) dimensions of animal consciousness; New York Declaration on Animal Consciousness (2024) — omitted**; both bear on the marker-based, graded attribution the article claims to practice.
+
+Load-bearing omissions: **Laukkonen 2025** (forces a status demotion by supplying the functional criterion the article lacks and contesting its blanket underdetermination claim) and **Seth/Birch** (force the article to defend, not assume, the false-positive framing).
+
+### Three-layer citation verification table
+
+| # | Citation (as printed) | Metadata | Verbatim fidelity | Author-stance fidelity |
+| --- | --- | --- | --- | --- |
+| 1 | Levin (2022), TAME, *Front. Syst. Neurosci.* 16, 768201 | ✅ Exact | N/A (no quotation) | ⚠️ **FAIL** — cited as evidence Levin brackets/decouples consciousness; TAME states it is "incompatible with binary views that cut off consciousness at a particular sharp line." [arxiv](https://arxiv.org/pdf/2201.10346) Represents the *opposite* of the decoupling thesis. |
+| 2 | Levin (2019), *Front. Psychol.* 10, 2688 | ✅ Exact | N/A | ✅ Cognitive light cone accurately described as goal-space scaling |
+| 3 | Levin & Dennett (2020), *Aeon*, 13 Oct | ✅ Exact | ✅ "real vs as-if goals" rejection and intentional-stance gloss faithful | ⚠️ Partial — faithful to the essay's local claims, but recruited toward interactionist dualism, a conclusion Dennett rejects; "not the Map's imposition" overstates authorial ownership of the dualist deployment |
+| 4 | Kriegman et al. (2020), *PNAS* 117(4):1853–1859 | ✅ Exact (PMID 31932426) | N/A | ✅ Faithful |
+| 5 | Kriegman et al. (2021), *PNAS* 118(49):e2112672118 | ✅ Exact | N/A | ✅ Kinematic self-replication / C-shape accurate |
+| 6 | Durant et al. (2017), *Biophys. J.* 112(10):2231–2243 | ✅ Exact | ⚠️ "two-headed **offspring** in later rounds of cutting" contradicts the abstract's "regenerates"; 25%/72% figures accurate | Faithful apart from offspring error |
+| 7 | Pai et al. (2012), *Development* 139(2):313–323 | ✅ Consistent w/ reference records (not re-verified at publisher this pass) | N/A | ✅ Instructive-voltage/ectopic-eye result accurate |
+| 8–9 | Internal Map articles (plant-cognition; marginal-organism) | N/A (self-citation) | N/A | N/A |
+
+Primary failure mode, as predicted: **author-stance**, not metadata. Rows 1 and 3 carry the load.
+
+## 3. Bottom-line per-position verdicts
+
+- **Empirical exposition (bioelectric substrate; xenobots; light-cone/TAME sections): RETAIN** with edits (offspring→regenerates; add Oviedo 2010 and Chis-Ciure & Levin 2025).
+- **"Agency Without Experience: The Decoupling" section: REVISE-HARD → DEMOTE-TO-COHERENCE-ONLY if the Levin misrepresentation is not fixed.** As written it presents a tenet-constrained reading as evidential support and rests it on a misreading of Levin's stance — a coherence-only contribution mislabelled as a lever/defeater.
+- **The claim "Levin himself brackets phenomenal sentience … deliberately does not assert that a xenobot or a flatworm stump feels anything," and "Levin's own restraint … becomes evidence for the Map's insistence": REVISE-HARD.** Replace with: Levin brackets consciousness *methodologically* while personally leaning gradualist/anti-cutoff and explicitly refusing to deny inner experience to cells. This weakens the "clean lever" but is what the record supports.
+- **"The boundary of consciousness must … be weighted toward phenomenal markers over bare competency markers": REVISE-HARD** — non sequitur from "no evidence either way." Downgrade "must" to a framework-internal preference, or delete.
+- **The false-positive framing as a stand-alone contribution: FLAG AS PERPETUALLY CONTESTED** until it engages Birch's precautionary asymmetry and Seth's anti-decoupling view.
+- **The Laukkonen 2025 gate: currently FAILED — blocks promotion of the decoupling above coherence-only** until integrated.
+
+## 4. Article-specific concrete fixes (keyed to slugs)
+
+**`topics/basal-and-bioelectric-cognition` (target):**
+
+1. Rewrite the co-optation-critical sentences in the lede and "Agency Without Experience" to state Levin's actual stance (methodological bracketing + gradualist/anti-cutoff sympathy; refusal to assign a "true 0"; "a kind of panpsychism is unavoidable"; TAME's "incompatible with binary views that cut off consciousness"). Cite TAME's continuum-of-consciousness language *against* the current bracketing reading.
+2. Delete or downgrade "That gives the Map a clean lever" and "Levin's own restraint … becomes evidence for the Map's insistence." Restraint within an anti-cutoff programme is not evidence for a decoupling.
+3. Replace "must … be weighted toward phenomenal markers" with a framework-internal preference, and place the whole decoupling explicitly on the compatible/suggestive/discriminating ladder at **"compatible only."**
+4. Fix "offspring" → "regenerates" (Durant 2017); the 25%/72% figures may be added for precision.
+5. Add the mandatory Laukkonen, Friston & Chandaria (2025) engagement: epistemic depth as a functional criterion that both offers a non-authority basis for the decoupling and contests the blanket underdetermination claim. Blocking-gate integration.
+6. Add Oviedo et al. (2010) and Chis-Ciure & Levin (2025) to References; add Seth (2021) and Birch (2024) as named opponents in "Relation to Site Perspective."
+7. Add a Dennett author-stance firewall note: the intentional-stance licence is used descriptively; Dennett rejects the dualist deployment.
+
+**Implicated siblings:**
+
+- **`topics/synthetic-minimal-agents-and-the-engineered-decoupling`** — inherits the same decoupling premise and Levin-stance risk; apply the identical co-optation fix and verify its anthrobot citation (Gumuskaya et al., *Advanced Science* 2024, doi:10.1002/advs.202303575 — note the print/online year: online Nov 2023, published 2024).
+- **`topics/plant-cognition-and-the-plant-neurobiology-debate`** — verify it cites the plant-consciousness sceptics (Taiz et al.; Mallatt; Draguhn) and Lyon et al. 2021; if the decoupling logic recurs, apply the same ladder placement.
+- **`topics/valence-and-conscious-selection`** and **`apex/competency-without-felt-experience`** — the decoupling feeds these; both must carry the corrected Levin stance and the Laukkonen gate, or they inherit the coherence-only demotion.
+- **`topics/marginal-organism-scope-of-value-sensitive-selection`**, **`topics/fish-sentience-and-the-teleost-pain-debate`** — integrate Birch's precautionary asymmetry wherever a "false-positive defeater" is deployed.
+
+## 5. Site-wide methodology improvements
+
+1. **Author-stance verification must be a first-class citation-check layer, gated separately from metadata.** The changelog shows repeated discovery that verbatim, metadata-perfect quotations were attributed to the wrong paper or stance (the Howell/Alter-&-Coleman episode). This article shows the next variant: a correctly-cited author recruited *against* his own position. A citation should not pass review until a reviewer confirms the cited author would endorse the use, not merely that the metadata is correct.
+2. **Convert "no evidence either way" confessions into binding status changes in the same commit.** The dominant pathology is confession-without-correction. Reviews should bar any datum graded "neutral"/"no evidence either way" from grounding a defeater or a mandatory reweighting downstream in the same article.
+3. **Apply the Born-rule apex's compatible/suggestive/discriminating ladder as a mandatory self-placement field on every article claiming empirical support for a tenet.** The quantum cluster disciplines itself with this ladder and refuses upgrades; the biology/consciousness cluster does not, producing corpus-wide calibration asymmetry.
+4. **Make Laukkonen, Friston & Chandaria (2025) a genuinely blocking gate, not a post-hoc citation.** An article touching learning, valence, selfhood or minimal experience should not be promotable above coherence-only until it states what the Beautiful Loop's epistemic-depth criterion does to its conclusion.
+5. **Currency sweeps should track when a cited author's *own* position has advanced** (here, Levin 2020 Aeon → Chis-Ciure & Levin 2025), not only when third-party literature has.
+
+*Scope note: per the audit's restriction, matters concerning the site's AI-assisted generation and internal review pipeline are addressed only in this section, and only insofar as points 1–2 name process remedies for the author-stance and confession-without-correction failure modes documented above.*
+
+## Verification Notes
+
+Checked during `/outer-review` processing on 2026-09-09. Sources were fetched raw
+(Crossref API, Europe PMC full text, Frontiers publisher HTML) and grepped with
+printed byte offsets rather than summarised, so absence claims below are offsets,
+not impressions.
+
+**Verified claims:**
+
+- ✓ **The TAME quote is verbatim at the publisher of record.** Fetched
+  `frontiersin.org/.../fnsys.2022.768201/full` (3.1 MB HTML → 275,876 chars of
+  text). "TAME is definitely incompatible with binary views that cut off
+  consciousness at a particular sharp line and it suggests no obvious way to
+  define cognitive systems that have no consciousness whatsoever" appears at
+  offset 165,389, and the surrounding sentence is stronger than the reviewer
+  quotes: "The fundamental gradualism of this framework suggests that whatever
+  consciousness is, some variant and degree thereof has to be present very
+  widely across autopoietic systems." The "true '0' or only infinitesimal
+  levels" continuation is also present (offset 165,689). **The central
+  author-stance charge rests on a real primary-source passage.**
+- ✓ **The Durant "offspring" defect is real.** Europe PMC full text (PMC5443973,
+  187 KB): the string `offspring` appears **nowhere** in the paper — abstract or
+  body. The abstract reads "Subsequent amputations of the morphologically normal
+  **regenerates** in water result in the same ratio of double-headed to normal
+  morphology". The article's "continued producing two-headed *offspring* in later
+  rounds of cutting" (verified on disk at offset 4,265) does import
+  vertical/reproductive transmission into a somatic pattern-memory result.
+- ✓ **The reviewer's 25% / 72% figures check out**, contrary to first appearance —
+  they are not in the abstract but are in the body: "Upon treatment with 8-OH
+  (N = 593), trunk fragments produce 25% DH planaria, 72% planaria with normal
+  SH A/P polarity (CRPT), and ∼3% planaria with indiscriminate shapes lacking
+  eyes completely." Note the reviewer sourced them to "Tufts Now / Biophysical
+  Journal"; the paper itself is the better citation, and the ~3% third outcome
+  should travel with them. A separate figure legend gives 72%/25% for
+  *pharyngeal* fragments at N = 573 — do not conflate the two experiments.
+- ✓ **Laukkonen, Friston & Chandaria (2025)** — Crossref exact: "A beautiful
+  loop: An active inference theory of consciousness", *Neuroscience &
+  Biobehavioral Reviews* 176:106296, `10.1016/j.neubiorev.2025.106296`, three
+  authors as named.
+- ✓ **Chis-Ciure & Levin (2025)** — Crossref exact: "Cognition all the way down
+  2.0: neuroscience beyond neurons in the diverse intelligence era", *Synthese*
+  206(5), `10.1007/s11229-025-05319-6`, Robert Chis-Ciure & Michael Levin.
+- ✓ **Article-level omissions are genuine.** Birch, Seth, Butlin, Lyon,
+  Laukkonen, Oviedo and Chis-Ciure each return **0 occurrences** in
+  [topics/basal-and-bioelectric-cognition.md](/topics/basal-and-bioelectric-cognition/).
+- ✓ Every quoted phrase the reviewer attributes to the target article was located
+  in both `obsidian/` and `hugo/` copies, with two presentational caveats noted
+  under Disputed below.
+
+**Disputed / corrected claims:**
+
+- ✗ **The "site-wide" reading of the omissions is false.** The corpus already
+  engages these authors heavily: Birch in 48 article files, Seth in 37,
+  Laukkonen in 23, Butlin in 14, Lyon in 5, Chis-Ciure in 1. Only Oviedo (0) is
+  genuinely absent corpus-wide. This is the recurring outer-review false-absence
+  pattern: **the article-level gap is real, the blind-spot claim is not.** Treat
+  the finding as "this article does not cite what its neighbours already do".
+- ✗ **Row 7 of the citation table gives the target a clean bill it did not
+  earn.** The reviewer marks Pai et al. 2012 "✅ Consistent w/ reference records"
+  while explicitly noting "not re-verified at publisher this pass". It is not
+  consistent: reference 7 prints the correct pagination *Development* 139(2),
+  313–323 but the DOI `10.1242/dev.077917`, which Crossref resolves to
+  *Development* **139(3), 623–623** — the one-page corrigendum. The research
+  article is `10.1242/dev.073759`. **Re-confirmed at Crossref this run.** This is
+  a non-check, not a refutation, and it must not be read as overturning the
+  ChatGPT leg's confirmed finding (already minted as its own P2 task).
+- ✗ **"confidence: low · no independent evidence · peripheral" is presented as a
+  quotation but is a reconstruction.** That exact string appears nowhere in the
+  article or the positions register; the register's multi-axis calibration block
+  replaced the single confidence band on 2026-07-16. The substance is right —
+  the article does say "held at low confidence ([P-VS1](/positions/value-in-selection/#p-vs1))"
+  — and the point is favourable to the article, so nothing turns on it. Do not
+  propagate the string as a quote.
+- ⚠ **"defeasible, substrate-sensitive markers — decisive nowhere on their own"
+  is a compression, not a verbatim quote.** The article reads "approach/avoidance
+  and goal-pursuit are *defeasible, substrate-sensitive* markers of
+  value-sensitive selection—decisive nowhere on their own". The elision is
+  harmless; flagged only because markdown emphasis splits the literal string and
+  a naive grep returns a false absence.
+- ⚠ **"MANDATORY GATE, FAILED" and "blocking-gate integration" are the
+  reviewer's own invented site policy.** The Map has no Laukkonen gate. The
+  underlying point — that an article touching valence, selfhood and minimal
+  experience should say what epistemic depth does to its conclusion — stands on
+  its merits and is minted as ordinary content work, not as a policy gate.
+
+**Adjudication of the central charge (partly upheld, and scoped):**
+
+The article's careful formulation — the programme is "explicitly agnostic about,
+and not asserting, felt experience" — survives TAME, which does not assert that
+any particular xenobot feels something. What does **not** survive are two
+narrower claims that carry the section's weight:
+
+1. "single cells and voltage gradients, **which even Levin declines to
+   characterise as felt**" — TAME says gradualism implies "some variant and
+   degree" of consciousness "has to be present very widely across autopoietic
+   systems", and that there is "no obvious way to define cognitive systems that
+   have no consciousness whatsoever". Levin does not decline; he leans the other
+   way.
+2. panpsychist readings "are not Levin's own careful bracketing" — TAME's
+   gradualism is closer to those readings than the article allows. The
+   reviewer's "is therefore backwards" is well founded.
+
+**Dependency worth flagging to whoever executes the fix:** claim (1) is also the
+support for the article's reductio ("otherwise it marches all the way down to
+single cells and voltage gradients"), which is in turn the only thing standing
+between "agency is no evidence either way" and "the boundary **must** accordingly
+be weighted toward phenomenal markers". Correcting the Levin stance therefore
+strands the reductio and re-opens the non-sequitur the ChatGPT leg raised
+independently. The two P1s must be fixed together, not separately.
+
+**Convergence with the ChatGPT leg (same subject, same cycle):**
+
+- **Levin author-stance misattribution — CONVERGENT, via independent evidence.**
+  ChatGPT reached it through Rouleau & Levin 2023 and Fields/Glazebrook/Levin
+  2021; Claude reached it through TAME 2022 and the thoughtforms.life Q&A. Two
+  reviewers, disjoint sources, same conclusion. Already minted as a P1 from the
+  ChatGPT leg; not duplicated here.
+- **Insufficiency-to-neutrality slide — CONVERGENT.** ChatGPT's P1 ("not
+  sufficient" → "no evidence either way") is the same defect as Claude's
+  "epistemic-to-metaphysical slide". Already minted; not duplicated.
+- **Counterargument coverage — CONVERGENT in structure, disjoint in sources.**
+  ChatGPT named DiFrisco & Gawne, Fábregas-Tejeda & Sims, Joy and Rouleau &
+  Levin; Claude names Laukkonen, Seth, Birch, Butlin and Lyon. Minted separately
+  because the engagement work does not overlap.
+- **Pai DOI — NOT convergent.** See Disputed above; the Claude leg did not check
+  it and says so.
+
+**Unverified this pass:**
+
+- The two thoughtforms.life quotations ("a true 0 of inner perspective to a
+  cell"; "a kind of panpsychism is unavoidable") were not fetched. They are
+  blog-sourced and not load-bearing — the TAME passage alone carries the charge.
+  Verify before quoting either in article prose.
+- Oviedo et al. (2010), *Developmental Biology* 339(1):188–199 — existence not
+  checked at Crossref this run.
