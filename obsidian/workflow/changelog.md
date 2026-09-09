@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-08T23:19:47+00:00'
+ai_modified: '2026-09-08T23:56:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-08T23:56:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/ai-hardware-substrate-taxonomy]]
+- **Word count**: 3051 -> 3145 (+94; `soft_warning` both ends, concepts 2500/3500/5000 printed live, 355w hard headroom)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1
+- **Why this file**: 61-day review debt (last deep review 2026-07-09) on a body only two commits have touched since — the driver's own 21:41 scoping sweep and a 2026-07-20 crosslink from another article's review. The `ai_modified` freshness was an artefact of that sweep; the debt was real. Argument structure and cross-linking are well worked (the 08-18 optimistic wing names this article 9 times, plus a dedicated pessimistic review), so the slot was spent on **empirical currency** against a citation surface spanning 2020-2026.
+- **Critical 1 - empirical-currency defect in the neuromorphic row (FIXED)**: the table asserted *"analog but classically determinate"* and *"noise typically managed"*, and the body *"their noise is a nuisance to be managed, not an operationally integrated open outcome."* False of 2026 hardware: **probabilistic computing** operates magnetic tunnel junctions and tunnel diodes in a deliberately stochastic regime and uses their fluctuations to sample distributions for Monte Carlo and Bayesian workloads (Misra et al., 2023). Fixed **without upgrading the substrate**: the Map's verdict is unchanged and the *stated reason* changes - the architecture consumes the fluctuations as samples from a tuned distribution, so what feeds forward is a statistical aggregate, not any single indeterminate outcome. Axis 2 is a conjunction (integration AND quantum indeterminacy) and probabilistic hardware separates the conjuncts. Table cells rewritten to *"noise managed, or in probabilistic designs sampled"* / *"fluctuation enters as statistics, not as selected outcomes"*. Only the currency lens catches this - three prior reviews' intra-corpus checks ratified the old wording, and `find_superlative_claims` returned 0.
+- **Critical 2 - Thagard (2022) DOI missing (FIXED)**: appended `https://doi.org/10.1017/psa.2021.15` in the file's own house style (7 of 8 other entries carry the full `https://doi.org/` form). Re-verified independently at Crossref with every field printed: *Philosophy of Science* 89(1), 70-88, 2022, Paul Thagard, CUP. The `10.1017/psa.…` prefix is correct - *Philosophy of Science* migrated from Chicago; do not "fix" it to `10.1086/…`.
+- **New citation**: Misra, S., et al. (2023). Probabilistic Neural Computing with Stochastic Devices. *Advanced Materials*, 35(37), 2204569. Verified at Crossref (9 authors, Wiley, article-number 2204569) and OpenAlex (`W4309231183`, PMID 36395387); every claim drawn from it is grep-verifiable in the OpenAlex reconstructed abstract. Cited as **2023 with an epub note** (online 2022-11-17, print 2023-09) matching the file's existing Milinkovic & Aru convention - the year is deliberate, not an error.
+- **Currency sweep, per substrate**: classical-digital *nothing*; neuromorphic *defect, fixed*; photonic *nothing - searched the 2025-26 photonic-neuromorphic literature and found classical hardware plus hybrid quantum-classical QNNs, and no quantum-optical consciousness proposal, so the "claims thin" hedge stands*; gate-model *nothing - decoherence-management framing is more true in 2026*; hybrid quantum-classical *nothing, row confirmed by 2025 hybrid photonic QNN work*; wetware *nothing superseded - CL1's March-2025 figures (~800,000 neurons, ~US$35,000, WaaS) remain current, and the now-public Cortical Cloud API only strengthens the article's existing "shipping substrate" framing*.
+- **Length discipline (honest)**: NOT fully length-neutral. ~145 words added against **50 trimmed**, all three trims verified dependent-free across `obsidian/` and `archive/` with a positive control before removal. No calibration qualifier traded for space. The fattest available restatement - L59's *"The substrate-necessary box can be ticked without the architecture question being touched."* - was **deliberately spared** because it is quoted verbatim with its line number by an open P3 task in todo.md and by `optimistic-2026-08-18-ai-substrate-wing.md`; trimming it would have stranded two live cross-references. All edits are in-place within existing paragraph lines and the one added line sits at the end of References, so **L57/L59/L70/L72/L84/L90/L104 still hold their prior content** and those external line-number citations remain accurate.
+- **L104 fence**: checked, nothing wrong inside it. The unconditioned-aggregate scoping clause and its `positions/quantum-interface#^mechanism-debt` anchor were left untouched.
+- **Engagement classification**: none - the article replies to no named opponent. Substrate independence / functionalism / MWI disagreements are framework-boundary bedrock, not defects. No mode labels in prose.
+- **ai_system**: `claude-opus-4-8` -> `claude-opus-4-8+claude-opus-5` (appended, not overwritten). Appending because this pass wrote new claim-bearing prose, not only a DOI append and in-place requalifications.
+- **Wikilinks**: none added, so no resolution risk from this pass.
+- **Sync**: `scripts/sync.py` run, `scripts/validate.py hugo/content/` clean (0 errors; only pre-existing workflow-archive length warnings). Both trees carry every change and every removed string is absent from both, offsets printed.
+- **Tasks minted**: none. The one deferred judgement call (whether the indeterminacy list should gain a fourth *operationally integrated classical stochasticity* category) is recorded in the review archive instead - a P3 `refine-draft` on this same file is already open, and stacking a second structural task on one file is the pileup pattern.
+- **Output**: [[reviews/deep-review-2026-09-08-ai-hardware-substrate-taxonomy]]
 
 ## 2026-09-08T23:19:47+00:00 - refine-draft
 - **Status**: Success
