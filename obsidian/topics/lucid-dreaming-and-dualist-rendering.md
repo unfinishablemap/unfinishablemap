@@ -1,10 +1,10 @@
 ---
 title: "Lucid Dreaming and the Evidence for Dualist Rendering"
-description: "Lucid dreaming reveals that consciousness renders phenomenal worlds through neural architecture rather than from it—the rendering dilemma, capability signatures, vividness surplus, and degradation asymmetry converge on mind-side generation."
+description: "Lucid dreaming poses a rendering dilemma: capability signatures, vividness surplus, degradation asymmetry. Mind-side generation is the Map's preferred reading, held against a live production-model rival."
 created: 2026-03-09
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-07-26T18:15:07+00:00
+ai_modified: 2026-09-09T03:32:16+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

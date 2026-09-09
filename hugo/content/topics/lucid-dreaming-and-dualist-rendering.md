@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-07-26 18:15:07+00:00
+ai_modified: 2026-09-09 03:32:16+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -18,9 +18,9 @@ concepts:
 - '[[episodic-memory]]'
 created: 2026-03-09
 date: &id001 2026-03-18
-description: Lucid dreaming reveals that consciousness renders phenomenal worlds through
-  neural architecture rather than from it—the rendering dilemma, capability signatures,
-  vividness surplus, and degradation asymmetry converge on mind-side generation.
+description: 'Lucid dreaming poses a rendering dilemma: capability signatures, vividness
+  surplus, degradation asymmetry. Mind-side generation is the Map''s preferred reading,
+  held against a live production-model rival.'
 draft: false
 embedded_videos:
 - embedded: 2026-05-03 11:28:31.688910+00:00
@@ -30,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 18:15:07+00:00
-lastmod: 2026-07-26 18:15:07+00:00
+lastmod: 2026-09-09 03:32:16+00:00
 modified: *id001
 related_articles:
 - '[[capability-division-problem]]'

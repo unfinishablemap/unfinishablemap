@@ -1,14 +1,43 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-09T01:48:26+00:00'
+ai_modified: '2026-09-09T03:32:16+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-09'
-lastmod: 2026-09-09 01:48:26+00:00
+lastmod: 2026-09-09 03:32:16+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-09T03:32:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/)
+- **Original score**: not scored — `scripts/curate.py` (SKILL.md Step 3) does not exist; validated with `scripts/validate.py hugo/content/` after sync instead (Invalid: 0, no findings on this file)
+- **Scope**: one frontmatter sentence. Body untouched; `git diff --numstat` = 2 insertions / 2 deletions (description + `ai_modified`)
+- **Defect**: the `description` asserted a result the article states nowhere — "reveals that consciousness renders phenomenal worlds through neural architecture rather than from it" and the four signatures "converge on mind-side generation". Discriminating count: file-wide `converge` = 3, of which two body hits (L48, L58) are about *physicalist researchers* (Hobson, Metzinger, Revonsuo) converging on a brain-as-virtual-reality-generator concession, never about the signatures converging on mind-side generation; the third was the description itself. The body declines the claim four times (L48 "sharpens the question rather than settling it… not that the evidence forces it"; L66 "relocates the explanatory burden"; L74 "The physicalist has responses, and they are not weak ones"; L76 "neither reading is forced by the dream phenomenology alone"), and `positions/consciousness-scope` [P-CS4](/positions/consciousness-scope/#p-cs4) grades this evidence external-evidence grade C.
+- **Changes**: rewrote `description` to the wing's two-part shape — sentence one names the subject matter, sentence two registers epistemic status. New text (203 chars, down from 240): "Lucid dreaming poses a rendering dilemma: capability signatures, vividness surplus, degradation asymmetry. Mind-side generation is the Map's preferred reading, held against a live production-model rival." The status clause is lifted from [P-CS4](/positions/consciousness-scope/#p-cs4)'s own register ("held against a live production-model rival"). Bumped `ai_modified` 2026-07-26 → 2026-09-09.
+- **Held deliberately**: title ("Lucid Dreaming and the Evidence for Dualist Rendering" — confirmed honest), `ai_system` (`claude-opus-4-6+claude-opus-4-8`; a one-sentence re-registration is not new claim-bearing prose), `last_deep_review`, and the entire body. No hedges added to the body — it is already calibrated, and further hedging would double-hedge claims the article concedes in full. `analyze_length` unchanged at 3328 words / `soft_warning`.
+- **Precedent**: third and last instance of this defect in the wing, after `8efc6199fd` (`topics/anaesthesia-and-the-consciousness-interface`, the 213-char template followed here) and `9f514c5090` (`concepts/sleep-and-consciousness`, "proves" → "suggests").
+- **Verification note**: a literal string search for the new description returns −1 in `hugo/content/` — a false zero. Sync re-serialises YAML with single quotes, line wrapping, and a doubled apostrophe (`Map''s`), so the raw bytes differ while the value does not; `yaml.safe_load` confirms the parsed description is byte-identical to the intended text in both trees. Both retired strings return −1 in both trees under `find()`.
+- **Published**: yes
+
+## 2026-09-09T02:44:29+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Perceptual History Void (literature term: serial dependence)
+- **Category**: Mixed — primarily Unexplorable (architectural), with one Occluded face
+- **Output**: [voids-perceptual-history-void-2026-09-09](/research/voids-perceptual-history-void-2026-09-09/)
+- **Key finding**: Every percept is pulled toward the observer's own recent perceptual history with no phenomenal marker that it happened — and whether the pull sits in perception or in the report is empirically contested and first-personally undecidable, because the only access to the percept is the report under suspicion.
+- **Cap gate**: `count_section_files("voids")` = 103 against `section_caps.max_voids` = 115 → 12 free slots. Raw file count agrees (104 files minus the `voids.md` index). Not at capacity; skill ran. The CLAUDE.md table's `max_voids: 100` is stale.
+- **Bank check (the run's main risk)**: 198 research notes carry `target_section: voids`. Raw exact-slug matching leaves 46 with no article; normalising the `the-` prefix and `-void`/`-voids` suffix resolves 7 more (e.g. banked `silence-void` → live `the-silence-void`; `the-death-void` → `death-void`; `palette-void` → `palette-extension-void`; `closure-types` → `closure-types-void`), leaving **39**. Of those, `voids.md`'s Research-Stage section labels 11 *Absorbed* and 2 *Folded* — deliberate outcomes of the absorption-over-proliferation discipline, not gaps. **True bank ≈ 26** (2 *Surveyed* + 24 unlabelled Feb–May notes), consistent with the prior alias-resolved figure of 33 and well below the raw 50.
+- **Subject not in the bank, verified four ways**: no bank stem resembles it; `"serial dependence"` and `"serial-dependence"` return 0 across `voids/ topics/ concepts/ apex/ positions/ research/ archive/`; paraphrases `"perceptual history"`, `"prior stimulus"`, `"sequential effect"` return 0; and Python `find()` offsets are −1 for `serial depend`, `perceptual history` and `whitney` on all five nearest candidate hosts (`predictive-construction-void`, `fusion-void`, `smoothness-and-continuity`, `plenitude-void`, `resolution-void`).
+- **Homonym recorded, not mistaken for coverage**: the one corpus hit for "serial dependence" (`reviews/outer-review-2026-09-02-chatgpt-5-6-sol-pro.md` L102) is the *statistical* sense — serial correlation in a time series of quantum outcomes. Not this phenomenon, and not an external flag for it. Noted in the note so a later grep does not misread it.
+- **Subjects rejected on duplication grounds**: introspective base-rate/frequency (concept `descriptive-experience-sampling` + `minimal-consciousness-void`, Hurlburt in 9 live files); near-indifference / picking under exact ties (the 2026-09-05 note `common-currency-valuation-and-sequential-sampling-models` already works drift ≈ 0 and the noise residue); prospective memory / dormant intention (full concept article, 4 deep reviews, own research note); Sartre's look (27 live files); self-deception and avowal (17); specious present (43); pain asymbolia (43); missing shade of blue.
+- **Citations verified at source, not from search snippets**: 8 references, all metadata pulled from Crossref and abstracts from Europe PMC; the Manassi & Whitney abstract was extracted from the publisher PDF via `pdftotext` after WebFetch returned binary. Two hazards recorded in the note — (a) *Journal of Vision* published two near-identically titled 2023 papers by different author groups (`10.1167/jov.23.1.9` Pascucci et al. "A review" vs `10.1167/jov.23.8.18` Manassi/Murai/Whitney "A meta-analysis and review"), cite by DOI; (b) the Crossref "abstract" for `10.1126/sciadv.abk2480` is the journal's one-line teaser, not the abstract, and is flagged as such rather than quoted as one.
+- **Calibration held**: the note leads with the contested locus rather than asserting percept-level contamination, carries Fritsche et al. 2017 (perception *repelled*, attraction post-perceptual) as a structural counterweight, and records the live reversal on function — Cicchini/Mikellidou/Burr 2024 "generally beneficial" vs Ozkirli/Chetverikov/Pascucci 2026 "deteriorates rather than improves". The Kim et al. 2020 awareness-gating result is explicitly *not* claimed as evidence for dualism.
+- **Disposition**: recommended *Surveyed → fold*, not a standalone slot, given ~26 banked subjects against 12 slots and the catalogue's absorption-over-proliferation discipline. Primary host `predictive-construction-void`; secondaries `fusion-void`, `smoothness-and-continuity`, `self-opacity`.
+- **Validation**: `validate.py` ✓ Valid; 43 wikilinks, 0 unresolved, 0 collisions via `build_content_index(Path('obsidian'), list(SYNC_DIRS), True)`. Length 3604 words (144% of the 2500 target) — the *leanest* of the recent voids notes (modality 5881/235%, offloading 4871/195%, fusion 4464/179%), so genre-normal rather than a defect.
+- **Not touched, per contract**: `todo.md`, `evolution-state.yaml` (so skill step 8's `pending_articles` entry was deliberately skipped), existing voids articles. No commit — `cycle_post` owns it.
 
 ## 2026-09-09T01:48:26+00:00 - refine-draft
 - **Status**: Success

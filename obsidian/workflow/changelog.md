@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-09T02:44:29+00:00'
+ai_modified: '2026-09-09T03:32:16+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-09T03:32:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/lucid-dreaming-and-dualist-rendering]]
+- **Original score**: not scored — `scripts/curate.py` (SKILL.md Step 3) does not exist; validated with `scripts/validate.py hugo/content/` after sync instead (Invalid: 0, no findings on this file)
+- **Scope**: one frontmatter sentence. Body untouched; `git diff --numstat` = 2 insertions / 2 deletions (description + `ai_modified`)
+- **Defect**: the `description` asserted a result the article states nowhere — "reveals that consciousness renders phenomenal worlds through neural architecture rather than from it" and the four signatures "converge on mind-side generation". Discriminating count: file-wide `converge` = 3, of which two body hits (L48, L58) are about *physicalist researchers* (Hobson, Metzinger, Revonsuo) converging on a brain-as-virtual-reality-generator concession, never about the signatures converging on mind-side generation; the third was the description itself. The body declines the claim four times (L48 "sharpens the question rather than settling it… not that the evidence forces it"; L66 "relocates the explanatory burden"; L74 "The physicalist has responses, and they are not weak ones"; L76 "neither reading is forced by the dream phenomenology alone"), and `positions/consciousness-scope` P-CS4 grades this evidence external-evidence grade C.
+- **Changes**: rewrote `description` to the wing's two-part shape — sentence one names the subject matter, sentence two registers epistemic status. New text (203 chars, down from 240): "Lucid dreaming poses a rendering dilemma: capability signatures, vividness surplus, degradation asymmetry. Mind-side generation is the Map's preferred reading, held against a live production-model rival." The status clause is lifted from P-CS4's own register ("held against a live production-model rival"). Bumped `ai_modified` 2026-07-26 → 2026-09-09.
+- **Held deliberately**: title ("Lucid Dreaming and the Evidence for Dualist Rendering" — confirmed honest), `ai_system` (`claude-opus-4-6+claude-opus-4-8`; a one-sentence re-registration is not new claim-bearing prose), `last_deep_review`, and the entire body. No hedges added to the body — it is already calibrated, and further hedging would double-hedge claims the article concedes in full. `analyze_length` unchanged at 3328 words / `soft_warning`.
+- **Precedent**: third and last instance of this defect in the wing, after `8efc6199fd` (`topics/anaesthesia-and-the-consciousness-interface`, the 213-char template followed here) and `9f514c5090` (`concepts/sleep-and-consciousness`, "proves" → "suggests").
+- **Verification note**: a literal string search for the new description returns −1 in `hugo/content/` — a false zero. Sync re-serialises YAML with single quotes, line wrapping, and a doubled apostrophe (`Map''s`), so the raw bytes differ while the value does not; `yaml.safe_load` confirms the parsed description is byte-identical to the intended text in both trees. Both retired strings return −1 in both trees under `find()`.
+- **Published**: yes
 
 ## 2026-09-09T02:44:29+00:00 - research-voids
 - **Status**: Success
