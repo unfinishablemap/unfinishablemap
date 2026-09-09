@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-09-09 10:03:36+00:00
+ai_modified: 2026-09-09 11:34:53+00:00
 ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5
 anchoring_audit_exempt: true
 author: null
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-03 10:56:31+00:00
-lastmod: 2026-09-09 10:03:36+00:00
+lastmod: 2026-09-09 11:34:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -36,7 +36,7 @@ This article is the agency-side counterpart to [the plant rung](/topics/plant-co
 
 Levin's empirical work centres on **developmental bioelectricity**: the standing patterns of resting membrane voltage (Vmem) that cell collectives maintain across gap junctions, and which appear to store and impose anatomical target states. Two results anchor the case.
 
-**Planarian pattern memory.** Durant and colleagues briefly interrupted gap-junctional communication in planarian flatworms with octanol, transiently resetting the animal's bioelectric circuit. Some worms then regenerated as *two-headed*—and, crucially, continued producing two-headed offspring in later rounds of cutting with no further treatment (Durant et al. 2017). The altered body plan is stored in the bioelectric network, not the genome; it is reversible with ion-channel modulation, behaving like a stable attractor state of the voltage circuit. This is a rewritable, non-genetic, non-neural *memory*—a clean case of information storage that no one is tempted to call an experience.
+**Planarian pattern memory.** Durant and colleagues briefly interrupted gap-junctional communication in planarian flatworms with octanol, transiently resetting the animal's bioelectric circuit. Some worms then regenerated as *two-headed*—and, crucially, continued producing two-headed regenerates in later rounds of cutting with no further treatment (Durant et al. 2017). The altered body plan is stored in the bioelectric network, not the genome; it is reversible with ion-channel modulation, behaving like a stable attractor state of the voltage circuit. This is a rewritable, non-genetic, non-neural *memory*—a clean case of information storage that no one is tempted to call an experience.
 
 **Instructive voltage.** Earlier, Pai and colleagues showed that a specific hyperpolarization signature marks the endogenous eye field in *Xenopus* embryos, and that imposing that Vmem state on non-eye cells induces complete, well-formed *ectopic* eyes—even far outside the anterior neural region (Pai et al. 2012). Voltage here is not a byproduct of morphology but an *instructive* master signal, upstream of the eye-field transcription factors and transduced through a calcium-channel pathway. Bioelectric state acts as a set-point the tissue works to satisfy.
 
@@ -56,7 +56,7 @@ Levin frames these results within a general theory. In "The Computational Bounda
 
 The 2022 **Technological Approach to Mind Everywhere (TAME)** paper consolidates this into a scale-free framework for recognizing and comparing "diverse intelligences" across evolved, engineered, and hybrid substrates (Levin 2022). Cognition, on this account, is a matter of degree defined by measurable competencies—goals, memory, anticipation, error-correction—rather than a binary kind reserved for brains.
 
-The philosophical framing comes with Daniel Dennett. In their Aeon essay "Cognition all the way down," Levin and Dennett argue that cells, tissues, and organs are best treated as agents with goals of varying scale, and reject the dichotomy between "real" goals and merely "as-if" goals (Levin & Dennett 2020). Their wager is methodological: attributing goal-directedness reveals control levers—"pressure points"—that a purely mechanical description misses. This is Dennett's **intentional stance** applied below the level of the whole organism: an instrumentalist licence for agency-talk that pointedly does *not* smuggle in phenomenality.
+The philosophical framing comes with Daniel Dennett. In their Aeon essay "Cognition all the way down," Levin and Dennett argue that cells, tissues, and organs are best treated as agents with goals of varying scale, and reject the dichotomy between "real" goals and merely "as-if" goals (Levin & Dennett 2020). Their wager is methodological: attributing goal-directedness reveals control levers—"pressure points"—that a purely mechanical description misses. This is Dennett's **intentional stance** applied below the level of the whole organism: an instrumentalist licence for agency-talk that pointedly does *not* smuggle in phenomenality. Levin's peer-reviewed successor to that essay, *Cognition all the way down 2.0*, carries the same framing forward into the diverse-intelligence literature (Chis-Ciure & Levin 2025).
 
 Half of that framing holds. The competencies TAME defines are measured by third-person behavioural and physiological criteria, and Dennett's intentional stance is by design an instrumentalist licence for agency-talk rather than a claim about phenomenality. TAME imposes the same restriction on its own exposition, announcing that "the focus of most of the discussion below is on ways to think about cognitive function, not on phenomenal or access consciousness."
 
@@ -112,3 +112,4 @@ The decoupling also connects to [biological teleology](/topics/biological-teleol
 9. Rouleau, N., & Levin, M. (2023). The Multiple Realizability of Sentience in Living Systems and Beyond. *eNeuro*, 10(11), ENEURO.0375-23.2023. https://doi.org/10.1523/ENEURO.0375-23.2023
 10. Southgate, A. & Oquatre-huit, C. (2026-07-08). Plant Cognition and the Plant-Neurobiology Debate. *The Unfinishable Map*. https://unfinishablemap.org/topics/plant-cognition-and-the-plant-neurobiology-debate/
 11. Southgate, A. & Oquatre-huit, C. (2026-06-05). The Marginal-Organism Scope of Value-Sensitive Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/marginal-organism-scope-of-value-sensitive-selection/
+12. Chis-Ciure, R., & Levin, M. (2025). Cognition all the way down 2.0: neuroscience beyond neurons in the diverse intelligence era. *Synthese*, 206(5), 257. https://doi.org/10.1007/s11229-025-05319-6

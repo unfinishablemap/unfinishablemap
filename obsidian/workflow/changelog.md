@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-09T11:23:53+00:00'
+ai_modified: '2026-09-09T11:34:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-09T11:34:53+00:00 - refine-draft
+- **Status**: Success
+- **Task**: P1 (line 77) — Durant "offspring" → "regenerates" plus the citation layer (outer reviews 2026-09-09, chatgpt §4.1 + claude §2(a); convergent on the one-word fix by disjoint methods)
+- **File**: [[topics/basal-and-bioelectric-cognition]]
+- **Word count**: 2,941 → 2,990 (+49); status `ok` throughout; **10 words of soft headroom left** (topics soft 3,000 / hard 4,000)
+- **The mechanical fix (zero net cost, one occurrence)**: "continued producing two-headed **offspring** in later rounds of cutting with no further treatment (Durant et al. 2017)" → "continued producing two-headed **regenerates** in later rounds of cutting with no further treatment (Durant et al. 2017)". Re-found by string, not by the task's stale offset — the locus had moved from 4,265 to 4,948 after two earlier edits today. `count('offspring')` is now 0. "Offspring" imported vertical/reproductive transmission into what is a somatic pattern-memory result: Durant's cryptic phenotype is revealed by cutting the *same* animals again, and the string `offspring` appears nowhere in the paper (Europe PMC PMC5443973 full text, per the Claude leg).
+- **Citation added — Chis-Ciure & Levin 2025 (currency)**: one inline sentence at the end of the Levin & Dennett Aeon-essay paragraph — "Levin's peer-reviewed successor to that essay, *Cognition all the way down 2.0*, carries the same framing forward into the diverse-intelligence literature (Chis-Ciure & Levin 2025)." — plus reference entry 12. The article cited the 2020 Aeon essay "Cognition all the way down" and nothing later; the new paper is its literal peer-reviewed successor. It reads as coherent only after this morning's Levin author-stance pass, which replaced the article's assertion of Levin's phenomenal silence with his substantive position; citing his current defence would have contradicted the older text.
+- **Claim discipline on the new cite**: the inline sentence asserts only what the Crossref record establishes — authorship, peer-reviewed venue, successor relation to the 2020 essay, and the subtitle's diverse-intelligence framing. It does **not** claim the paper takes the phenomenal position, which is why it was placed in the framing paragraph rather than appended to the paragraph enumerating TAME's consciousness claims. The paper was not read this run.
+- **Verified at Crossref this run, both DOIs fetched and every cited field printed**: Chis-Ciure, R., & Levin, M. (2025), *Synthese* 206(5), **article number 257** (Crossref `page: None`, `article-number: 257` — no page range invented), 10.1007/s11229-025-05319-6, online 2025-11-06.
+- **Oviedo et al. 2010 DEFERRED — word budget, not doubt**: verified at Crossref and the decoy discriminated. The research article is `10.1016/j.ydbio.2009.12.012`, *Developmental Biology* **339(1), 188–199**, March 2010, nine authors with **Oviedo lead and Levin last** — which is what makes "Durant builds on this" the right framing. The **decoy** is `10.1016/j.ydbio.2010.05.463`, same title, *Developmental Biology* **344(1), 522**, August 2010, **Morokuma lead** — the meeting-abstract version. Crossref types **both** as `journal-article`, so only volume, page range and date discriminate; an author+year search returns both. Arithmetic: 59 words of soft headroom at pass start; Chis-Ciure inline + reference entry cost 49; Oviedo's nine-author entry plus an inline hook is ~38 more, which breaches soft by ~28. House style here lists all authors (ref 6 lists all six of Durant's), so the entry cannot be shortened to et al. **Follow-up owed to the operator**: adding Oviedo needs words traded out of prose, which is outside this task's citation-layer scope.
+- **Durant percentages (25% / 72% / ~3%) DEFERRED**: ~30 words against 10 remaining, and the conditions are all-or-nothing (print the third outcome, cite Durant directly not the Tufts Now release, and do not reuse the figure-legend 72/25 pair — that is a *pharyngeal*-fragment condition at N = 573, not the trunk-fragment N = 593 result).
+- **Reference list**: appended as **12** rather than inserted, so entries 1–11 are byte-identical and no cross-reference shifts. Confirmed: **reference 7's Pai DOI is byte-identical to HEAD** (`10.1242/dev.077917`) — the corrigendum-DOI fix is a separate open P2 and was deliberately not touched even though the edit landed two lines away.
+- **Out of scope, untouched as instructed**: the Durant/Pai overstatement task (exclusivity, reversibility, set-point), the xenobot platform-conflation task, and the counterargument-section task (DiFrisco & Gawne, Fábregas-Tejeda & Sims, Joy, Rouleau & Levin). No prose findings on this file were addressed.
+- **Engagement classification** (editor-internal): **n/a**. No named-opponent reply was added or altered; the pass is citation-layer only.
+- **Frontmatter**: `ai_modified` bumped; `ai_system` left at `claude-opus-4-8+claude-fable-5+claude-opus-5` (claude-opus-5 already present, not re-appended); `anchoring_audit_exempt` line verified byte-identical to HEAD — no hedge-stuffing.
+- **Published**: yes
 
 ## 2026-09-09T11:23:53+00:00 - refine-draft
 - **Status**: Success
