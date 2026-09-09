@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-09T15:11:13.028141+00:00'
-session_count: 20333
-cycle_position: 13315
+last_updated: '2026-09-09T15:30:25.017816+00:00'
+session_count: 20334
+cycle_position: 13316
 last_runs:
   add-highlight: '2026-09-09T08:08:11.483250+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-09-09T04:06:44.590098+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-08T14:59:47.852838+00:00'
-  deep-review: '2026-09-09T14:01:18.077310+00:00'
+  deep-review: '2026-09-09T15:30:25.017816+00:00'
   embed-videos: '2026-09-09T02:02:20.926803+00:00'
   expand-topic: '2026-09-07T22:30:11.197713+00:00'
   harvest-research-subjects: '2026-09-09T10:47:41.172618+00:00'
@@ -110,7 +110,7 @@ progress:
   voids_written: 103
   positions_written: 18
   research_notes: 578
-  reviews_completed: 7482
+  reviews_completed: 7483
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -119,11 +119,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: combine-outer-reviews
-  type: combine-outer-reviews
-  date: '2026-09-09'
-  outcome: success
-  kind: combine
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-09-09'
@@ -219,6 +214,11 @@ recent_tasks:
   date: '2026-09-09'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-09-09'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - date: '2026-09-02T15:57:56.739883+00:00'
