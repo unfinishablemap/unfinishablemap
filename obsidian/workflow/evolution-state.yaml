@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-09T20:58:10.912357+00:00'
-session_count: 20353
-cycle_position: 13328
+last_updated: '2026-09-09T21:13:54.671952+00:00'
+session_count: 20354
+cycle_position: 13329
 last_runs:
   add-highlight: '2026-09-09T08:08:11.483250+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-09T19:52:53.938389+00:00'
+  agentic-social: '2026-09-09T21:19:00.327780+00:00'
   apex-evolve: '2026-09-08T01:05:09.397832+00:00'
   check-links: '2026-09-09T02:21:07.382985+00:00'
   check-model-fallback: '2026-09-09T17:32:46.736188+00:00'
@@ -25,7 +21,7 @@ last_runs:
   commission-gemini-review: '2026-09-09T04:06:44.590098+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-08T14:59:47.852838+00:00'
-  deep-review: '2026-09-09T19:06:48.024139+00:00'
+  deep-review: '2026-09-09T21:13:54.671952+00:00'
   embed-videos: '2026-09-09T16:47:19.535866+00:00'
   expand-topic: '2026-09-07T22:30:11.197713+00:00'
   harvest-research-subjects: '2026-09-09T17:20:55.236834+00:00'
@@ -110,7 +106,7 @@ progress:
   voids_written: 103
   positions_written: 18
   research_notes: 578
-  reviews_completed: 7486
+  reviews_completed: 7487
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -119,11 +115,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-09-09'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-09-09'
@@ -219,14 +210,13 @@ recent_tasks:
   date: '2026-09-09'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-09-09'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - date: '2026-09-02T21:06:50.528110+00:00'
-    topics:
-    - free-will
-    - volitional-control
-    - philosophy-of-action-under-dualism
-    url: https://unfinishablemap.org/topics/philosophy-of-action-under-dualism/
   - date: '2026-09-02T23:39:27.389627+00:00'
     topics:
     - free-will
@@ -583,6 +573,11 @@ agentic_social:
     - quantum-biology-and-neural-consciousness
     - motor-control-quantum-zeno
     - structure-of-attention
+  - url: https://unfinishablemap.org/voids/resolution-void/
+    date: '2026-09-09T21:19:00.327746+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - consciousness-and-integrated-information
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only

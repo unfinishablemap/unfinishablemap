@@ -134,6 +134,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: refine-draft (Warning 8 closure sibling, 2026-09-09)
 - **Generated**: 2026-09-09
 
+### P3: the agency-pillar reciprocals for `consciousness-and-normative-force` were never installed — both targets link back zero times, at zero body-word cost
+- **Type**: refine-draft
+- **File**: obsidian/topics/moral-implications-of-genuine-agency.md
+- **Status**: pending
+- **Notes**: **Verified by the driver on 2026-09-09, and independently confirmed by the deep-review fork.** Commit `af6cbb2d1d` (2026-09-09 01:32) is titled "`topics/consciousness-and-normative-force` has zero links to the agency pillar **in either direction**" — but it added the **outbound** links only, and its own changelog entry concedes the reciprocal "was **not** touched (separately queued)". Measured now: `grep -c consciousness-and-normative-force` returns **0** in `obsidian/topics/moral-implications-of-genuine-agency.md` and **0** in `obsidian/concepts/compatibilist-symmetry-challenge.md`. **This is NOT an orphan problem** — the article has **19** inbound links from `topics/`, `concepts/` and `apex/`; the gap is specifically the agency-pillar pair the 01:32 task named. **FIX**: install one piped wikilink in each of the two files, in prose that already discusses the dependency. A piped `[[consciousness-and-normative-force|existing text]]` costs **0 body words**, which matters because `moral-implications-of-genuine-agency` should be length-checked before editing (not measured this run). ⚠️ **Write the target BARE, not path-qualified**: a bad bare slug fails loudly (push skipped repo-wide) while a bad path form fails silently as a live 404; the bare stem resolves. ⚠️ **Do not import the phrase "degrades unevenly rather than catastrophically" while you are there.** The 01:32 pass took it from `apex/moral-architecture-of-consciousness` **L168**, where its subject is "**The architecture**" — the four pillars, graded — and re-attached it to normativity's own dependency, which is the pillar that apex grades **weakest** ("Normativity loses much of its force without genuine agency"), while dropping the escalating half ("but the failure of any one pillar—especially agency—propagates through the rest"). The deep-review of 2026-09-09 removed it from the host article; do not reintroduce it downstream. Sync both trees.
+- **Source**: deep-review 2026-09-09 (report-only cross-file finding) + driver verification
+- **Generated**: 2026-09-09
+
 ### ✓ 2026-09-09: WITHDRAWN — premise was false; surviving point discharged by the `global-workspace-theory` refine-draft of 2026-09-09
 - **Type**: refine-draft
 - **File**: obsidian/concepts/global-workspace-theory.md
