@@ -1,14 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-09T13:49:23+00:00'
+ai_modified: '2026-09-09T14:08:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-09'
-lastmod: 2026-09-09 13:49:23+00:00
+lastmod: 2026-09-09 14:08:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-09T14:08:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/)
+- **Task**: P2 queue task — the Durant/Pai overstatement charges (five charges from an outer review).
+- **Original score**: not run — `scripts/curate.py` does not exist (known; 18 prior failures). Length used as the objective gate instead.
+- **Word count**: 3,608 → **3,776** (+168 net; ~57 of that is the two new reference entries, so prose grew ~111 — inside the 120–140 estimate). `soft_warning` throughout, **224 clear** of the topics hard threshold of 4,000. Overshot to 3,818 mid-pass and trimmed my own additions back by 42; landed 26 over the ~3,750 self-cap, leaving 224 rather than the targeted ~250 for the three tasks still open on this file.
+- **Charge (a) — "not the genome" / "non-neural" exclusive form.** Was: "stored in the bioelectric network, not the genome … a rewritable, non-genetic, non-neural *memory*". Now attributes storage to "global patterns of cellular resting potential, with no change in the expression of key polarity genes" and quotes Durant et al.'s own formulation — bioelectric properties "stably override genome-default target morphology" — which **leaves the genome supplying the default, not out of the picture**. "non-neural" dropped from the memory description and from the summary sentence ("a non-neural, non-genetic control layer" → "a bioelectric control layer, not reducible to gene expression alone").
+- **Charge (b) — "reversible".** Was "it is reversible with ion-channel modulation". Now "experimentally resettable to wild-type, though stochastically: treatment yields a constant *ratio* of two-headed to normal rather than a clean toggle." Uses the source's own verb ("reset") rather than the reviewer's "partially resettable", which slightly under-claims what the abstract states.
+- **Charge (c) — "stable attractor state".** Was "behaving like a stable attractor state of the voltage circuit". Now "*Stable attractor* is a model of the voltage circuit (Grodstein & Levin 2022), not a demonstrated mechanism." Downgraded to model status as the reviewer asked, without denying it — the paper itself says "multistable … epigenetic anatomical switch".
+- **Charge (d) — "*instructive* master signal" + frequency.** Was "an *instructive* master signal, upstream of the eye-field transcription factors". Now "an *instructive* signal upstream of the eye-field transcription factors" — "master" dropped, and "upstream" kept in its original position rather than duplicated, since the sentence already carried it.
+- **Charge (e) — set-point attribution.** Was "Bioelectric state acts as a set-point the tissue works to satisfy" (reading as a Pai result). Now "**Levin's cybernetic reading** treats bioelectric state as a set-point the tissue works to satisfy."
+- **Unresolved-mechanisms sentence added**: "Which cell types hold the pattern, and how far neural and other epigenetic mechanisms contribute, remain unresolved—planaria have a nervous system that adapts to new morphologies (Bischof et al. 2020)."
+- **Pai figures printed — BOTH, and they are not one category.** The lead's unqualified "induces complete, well-formed *ectopic* eyes" was **frequency-overstated**; it had inherited the abstract's unquantified phrasing while the paper's body quantifies. Now "induces *ectopic* eye tissue in a minority of embryos—∼20% partial, lens or pigmented epithelium alone, and 7.5% complete eyes with RPE, retina and lens". Printing ∼20% alone would have implied one in five embryos grew an eye, which the source contradicts in the same sentence.
+- **Verification done this run, not inherited.** Pai figures re-confirmed against the raw PMC3243095 HTML (tag-stripped, grepped — not a summariser): "∼20% of the embryos exhibited ectopic eye tissue (only lens or only pigmented epithelium)" and "embryos (7.5%) with ectopic and well-formed large complete eyes (RPE, retina and lens)". The Durant claims were adjudicated against the paper's abstract via the OpenAlex inverted index (Crossref carries none); its `mag` id proves the record predates 2022.
+- **⚠️ Caught a truncated title in the task brief.** The driver's Grodstein & Levin entry read "…Persistent, Stochastic Change". Crossref gives the full title: "A Computational Approach to Explaining Bioelectrically Induced Persistent, Stochastic **Changes of Axial Polarity in Planarian Regeneration**". Full title used. (The fuller title is also more apposite — axial polarity is exactly the planarian case.)
+- **References**: appended as **18** (Bischof et al. 2020, *Developmental Biology*, 467(1-2), 51–65 — combined issue preserved) and **19** (Grodstein & Levin 2022, *Bioelectricity*, 4(1), 18–30). Entries 1–17 verified **byte-identical**; nothing renumbered. Reference 7's Pai DOI confirmed still `10.1242/dev.073759`, with `dev.077917` absent from the file.
+- **Lead consistency fix (flowing from charge (a)).** Softening the body exposed the lead asserting the same exclusive claim: "store their body plan in a rewritable voltage pattern **rather than their genome**" → "store **an altered** body plan in a rewritable voltage pattern **that overrides their genome's default**". A navigation-surface claim that would otherwise have contradicted the body it summarises. The `description` field carries no genome claim and needed no change.
+- **Engagement classification**: unchanged by this pass. The edits are confined to the empirical exposition (Durant/Pai); the named-opponent engagements (Levin, Dennett, Seth, Birch, Butlin) were not touched.
+- **`anchoring_audit_exempt` line verified byte-identical** (1,164 chars). All seven body phrases its justification quotes as evidence were re-checked **against the body with frontmatter stripped** — an initial whole-file check gave false positives from the comment quoting itself. No hedge-stuffing; no prose the exemption cites was removed.
+- **Published**: yes
 
 ## 2026-09-09T13:49:23+00:00 - deep-review
 - **Status**: Success
