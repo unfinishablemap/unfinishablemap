@@ -104,15 +104,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Review files**: `reviews/tenet-check-2026-09-08.md`, `reviews/tenet-check-2026-09-09.md`
 - **Generated**: 2026-09-09
 
-### P2: [P-Q9](/positions/quantum-interface/#p-q9) states self-concealment over the whole aggregate-statistics channel, unscoped, while tenets L75 keeps an intention-conditioned route live — the upstream root cause of the recurring Warning 6 downstream defect
-- **Type**: positions-evolve
-- **File**: obsidian/positions/quantum-interface.md
-- **Status**: pending
-- **Notes**: Found while closing Warning 6 of `reviews/tenet-check-2026-09-08` on 2026-09-09. Measured: the `P-Q9` section of `obsidian/positions/quantum-interface.md` has `unconditioned` count **0** and four uses of "aggregate"; the file's only two scoped uses belong to `P-Q3` and `P-Q10`. [P-Q9](/positions/quantum-interface/#p-q9)'s Calibration line says "aggregate channel silent by construction" and its Asserts says "Self-concealment is local to the *aggregate-statistics channel*, which remains silent by construction" plus "The residue the framework still risks is positive, named, and runs on **two channels**" (mechanism-level, psychophysical). `obsidian/tenets/tenets.md` L75 scopes the concession to "under any *unconditioned aggregate* test" and keeps live "a deviation *conditioned* on intention, task or subject would test the corridor itself". `obsidian/apex/self-concealing-interface.md` L143 (Prediction 2) is exactly such a test — an intention-conditioned mutual-information test that is neither mechanism-level nor a qualia-inversion psychophysical asymmetry, so [P-Q9](/positions/quantum-interface/#p-q9)'s two-channel enumeration has no slot for it. Because downstream surfaces quote [P-Q9](/positions/quantum-interface/#p-q9) verbatim, the unscoped register entry keeps regenerating the Warning 6 defect after each downstream fix. Decide whether the aggregate channel is scoped to *unconditioned* and a conditioned register named as a third channel, or whether [P-Q9](/positions/quantum-interface/#p-q9) argues the conditioned test reduces to one of the two. Do not change a confidence band without cause; this is a scoping and enumeration question. Note `positions` is over its hard threshold, so prefer replacing words over adding them.
-- **Source**: refine-draft (Warning 6 closure, 2026-09-09)
-- **Review files**: `reviews/tenet-check-2026-09-08.md`, `reviews/tenet-check-2026-09-09.md`
-- **Generated**: 2026-09-09
-
 ### P2: research-programme-decisions body enumerates only two residual channels while its apex_thesis now scopes the aggregate null — reconcile after [P-Q9](/positions/quantum-interface/#p-q9) is settled
 - **Type**: refine-draft
 - **File**: obsidian/apex/research-programme-decisions-under-the-map.md
@@ -2056,6 +2047,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-09: [P-Q9](/positions/quantum-interface/#p-q9) states self-concealment over the whole aggregate-statistics channel, unscoped, while tenets L75 keeps an intention-conditioned route live — the upstream root cause of the recurring Warning 6 downstream defect
+- **Type**: positions-evolve
+- **File**: obsidian/positions/quantum-interface.md
+- **Notes**: Found while closing Warning 6 of `reviews/tenet-check-2026-09-08` on 2026-09-09. Measured: the `P-Q9` section of `obsidian/positions/quantum-interface.md` has `unconditioned` count **0** and four uses of "aggregate"; the file's only two scoped uses belong to `P-Q3` and `P-Q10`. [P-Q9](/positions/quantum-interface/#p-q9)'s Calibration line says "aggregate channel silent by construction" and its Asserts says "Self-concealment is local to the *aggregate-statistics channel*, which remains silent by construction" plus "The residue the framework still risks is positive, named, and runs on **two channels**" (mechanism-level, psychophysical). `obsidian/tenets/tenets.md` L75 scopes the concession to "under any *unconditioned aggregate* test" and keeps live "a deviation *conditioned* on intention, task or subject would test the corridor itself". `obsidian/apex/self-concealing-interface.md` L143 (Prediction 2) is exactly such a test — an intention-conditioned mutual-information test that is neither mechanism-level nor a qualia-inversion psychophysical asymmetry, so [P-Q9](/positions/quantum-interface/#p-q9)'s two-channel enumeration has no slot for it. Because downstream surfaces quote [P-Q9](/positions/quantum-interface/#p-q9) verbatim, the unscoped register entry keeps regenerating the Warning 6 defect after each downstream fix. Decide whether the aggregate channel is scoped to *unconditioned* and a conditioned register named as a third channel, or whether [P-Q9](/positions/quantum-interface/#p-q9) argues the conditioned test reduces to one of the two. Do not change a confidence band without cause; this is a scoping and enumeration question. Note `positions` is over its hard threshold, so prefer replacing words over adding them.
 
 ### ✓ 2026-09-09: `concepts/global-workspace-theory` cites the Dehaene-Naccache commentary for its endorsement and withholds that the same document calls the article's own conclusion "a residual crypto-dualism" — plus a misreported Nanda verdict and a conceded confound spent twice
 - **Type**: refine-draft
