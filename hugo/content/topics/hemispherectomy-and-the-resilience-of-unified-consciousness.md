@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-16
-ai_modified: 2026-08-16 08:07:01.713017+00:00
+ai_modified: 2026-09-09 23:21:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -26,8 +26,8 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/a9b55bpTIDU
 human_modified: null
 last_curated: null
-last_deep_review: 2026-08-03 02:42:57+00:00
-lastmod: 2026-08-16 08:07:01.713017+00:00
+last_deep_review: 2026-09-09 23:21:01+00:00
+lastmod: 2026-09-09 23:21:01+00:00
 modified: *id001
 related_articles:
 - '[[split-brain-consciousness]]'
@@ -105,7 +105,7 @@ The **physicalist / reorganization reading** is the mainstream cognitive-neurosc
 
 The **filter / transmission reading** is the Map-aligned interpretation. If consciousness is received or filtered through the brain rather than produced by it, then unity is a property of the receiver — the non-physical mind — and the brain is the interface. Losing half the interface degrades bandwidth and specific channels (hence "suboptimal") but does not fragment the self, because the self was never identical to the hemispheres. On this view unity should be robust to substrate loss, and it should never be the case that half a person survives, only ever a whole person with degraded channels. That is what the record shows: personality and selfhood persist intact, and unity does not track cortical mass.
 
-On this reading the same structure appears at a far smaller scale in [anarchic hand](/topics/anarchic-hand-and-action-ownership/), where a single motor channel stops carrying conscious volition — the hand acts, the patient disowns the act and restrains it with the other hand — and the experiencer nonetheless remains unmistakably one. Bandwidth lost at the scale of a hemisphere and a channel lost at the scale of a limb are the same kind of failure differing in extent, which is what [interface heterogeneity](/concepts/interface-heterogeneity/) leads one to expect: channels can fail independently and at very different magnitudes without unity being one of the things that fails. The rival reading absorbs both cases too, by reorganization in the one and by frontal disinhibition in the other, so the parallel sharpens the picture without discriminating between the two accounts.
+On this reading the same structure appears at a far smaller scale in [anarchic hand](/topics/anarchic-hand-and-action-ownership/), where a single motor channel stops carrying conscious volition — the hand acts, the patient disowns the act and restrains it with the other hand — and the experiencer nonetheless remains unmistakably one. The Map's [channel map of the interface](/topics/neurological-dissociations-as-interface-architecture/) is what makes the pairing intelligible: it treats the interface as a set of independently failable channels, so one descending channel can drop out while every other holds. What the parallel tracks is what the two losses spare rather than a shared magnitude — hemispherectomy costs bandwidth across every channel at once, anarchic hand cuts a single one — and what both spare is unity. That is not because unity sits outside the channel architecture: on the Map's own account bilateral binding is itself one of the channels, and callosotomy is where it is the channel cut. Hemispherectomy does not cut it so much as retire it, since with one hemisphere there is nothing left to bind across — part of why unity's survival here is the cleaner datum. The rival reading absorbs both cases too, by reorganization in the one and by frontal disinhibition in the other, so the parallel sharpens the picture without discriminating between the two accounts.
 
 The critical honesty is that both readings predict the same thing: preserved unity, degraded specific capacities. Hemispherectomy is consistent with the Map's filter interpretation; it is not proof of it. Both the plasticity account and the interface account expect a self that stays whole while particular functions become "capable but costly."
 
