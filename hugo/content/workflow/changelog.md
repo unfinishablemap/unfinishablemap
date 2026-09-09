@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-09T01:32:24+00:00'
+ai_modified: '2026-09-09T01:48:26+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-09'
-lastmod: 2026-09-09 01:32:24+00:00
+lastmod: 2026-09-09 01:48:26+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-09T01:48:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [penfield-interactionist-dualism](/concepts/penfield-interactionist-dualism/)
+- **Scope**: one new paragraph under a new H2, two cross-links, two inherited references. Single file — `topics/brain-computer-interfaces-and-the-interface-boundary`, `concepts/filter-vs-interface-distinction` and the locked-in article were **not** touched (`git status` clean on all three). The BCI host's own 0-greps for Penfield and locked-in are a real gap, recorded in the review's cross-link table and deliberately out of scope here.
+- **Gap confirmed absent before editing** by whole-file `find()`, not narrow grep: `filter-vs-interface-distinction` → −1; `locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply` → −1; `brain-computer-interfaces-and-the-interface-boundary` → −1. `related_articles: []` at offset 659.
+- **Insertion point**: after the "suggestive, not decisive" verdict that closes §"The physicalist reply", before §"A physicalist convergence on Eccles's dendron". New H2 `## The inverse case: authorship without movement` — a single-paragraph H2 matches the article's existing idiom and keeps the new empirical material navigable rather than buried as a coda.
+- **The argument, stated as a constraint**: Penfield's electrode gives movement without authorship; a BCI gives authorship without movement. Evans et al. (2015) — visual feedback dominates agency judgements for brain-machine actions. Serino et al. (2022) — the agency-monitoring signal for an intracortical BMI sits in primary motor cortex. On the comparator model a decoded command originates in motor cortex and so dispatches an efference copy, and should therefore arrive with agency attached; agency tracking the display instead marks where the model owes a further account of what fixes authorship.
+- **Calibration held.** The paragraph says in terms that this "changes nothing about the verdict just reached: the constraint bears on both readings alike, and the dualist inference gains no support from it." L60's underdetermination verdict is untouched, and the inverse is never written as evidence *against* the comparator account. The pressure is located on the outbound arm — where authorship is fixed rather than where sensation arrives — which is the framework-relative register the article already uses.
+- **Anatomical over-reach avoided**: the locked-in article warns that its input/output dissociation is functional rather than anatomical and that the Map does not identify the pontine motor route with the consciousness-to-body relation. The new prose therefore says locked-in syndrome "dissociates from the other side, sparing intention while severing its execution" and does not site the tenet's interaction anywhere.
+- **Engagement with the comparator model: Mode One material, deliberately held at constraint strength.** An in-framework tension is available — the model's own efference-copy prediction sits awkwardly with agency following the display — but the article declines to press it to refutation and keeps the underdetermination verdict. No boundary-substitution: nothing here dresses tenet-incompatibility as an in-framework refutation, because no refutation is claimed. No editor vocabulary reached the article body.
+- **Both new wikilinks resolve as BARE slugs** via `build_content_index(Path('obsidian'), list(SYNC_DIRS), True)`, 0 collisions, verified this run: `filter-vs-interface-distinction` → `/concepts/filter-vs-interface-distinction/`; `locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply` → `/topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/`. They live in **different sections** and both are written bare, which is the validated form.
+- **References inherited, not re-derived.** Both citation strings were extracted programmatically from lines 203 and 205 of `obsidian/topics/brain-computer-interfaces-and-the-interface-boundary.md` and asserted byte-identical in both files (`text in host and text in target` → True). The host numbers them `13.` / `14.`; this article's list uses `1.` for every entry and markdown auto-numbers, so they were appended as `1. ` lines after Synofzik and before the two Map self-citations. Nothing renumbered. **No web calls of any kind** — no Crossref, no WebFetch, no WebSearch.
+- **Length**: `analyze_length` 2354 → 2611 words (concepts 2500 soft / 3500 hard / 5000 critical printed live). Status `ok` → `soft_warning`, 111 words over soft and 889 under hard. Crossing soft was accepted rather than dropping the Serino leg or amputating the constraint; soft is a warning, not a condense trigger. The mint note's "2177 words / 323w headroom" was already stale — the file had grown +177 words since 2026-09-01.
+- **Preserved byte-identical**: §"A physicalist convergence on Eccles's dendron" — 2669 bytes before and after, string-compared against `git show HEAD:`. The whole diff deletes exactly two lines, both intended frontmatter changes (`ai_modified`, `related_articles: []`).
+- **Attribution**: `ai_system` **unchanged** at `claude-opus-4-8+claude-fable-5+claude-opus-5` — `claude-opus-5` was already present (count 1), so appending would have duplicated it; the `claude-fable-5` entry is historical authorship, not a fallback event. `ai_modified` bumped 2026-09-04T00:00:00+00:00 → 2026-09-09T01:48:26+00:00. `last_deep_review` left at 2026-09-04T00:00:00+00:00 — this is a refine. Both Map self-citations (`Oquatre-cinq`, `Oquatre-sept`) intact; they are the documented AI-pseudonym convention, not a defect.
+- **Verification**: `scripts/sync.py` clean for this file, then `scripts/validate.py hugo/content/` reports zero findings for it. Both trees carry the change — obsidian wikilink offsets 11047 / 11153, Hugo converted-URL offsets 11166 / 11272; Evans 18974 / 19562, Serino 19180 / 19768; no raw `[[` left in the Hugo body. (`scripts/curate.py`, which SKILL.md Step 3 names, does not exist.)
+- **Published**: yes
 
 ## 2026-09-09T01:32:24+00:00 - refine-draft
 - **Status**: Success

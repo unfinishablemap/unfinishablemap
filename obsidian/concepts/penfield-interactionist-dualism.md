@@ -4,7 +4,7 @@ description: "A human-AI examination of Wilder Penfield's clinical case for inte
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-09-04T00:00:00+00:00
+ai_modified: 2026-09-09T01:48:26+00:00
 last_deep_review: 2026-09-04T00:00:00+00:00
 draft: false
 topics:
@@ -13,7 +13,9 @@ topics:
   - "[[empirical-phenomena-mental-causation]]"
   - "[[volitional-control]]"
 concepts: ["interactionist-dualism", "bidirectional-interaction", "objections-to-interactionism"]
-related_articles: []
+related_articles:
+  - "[[filter-vs-interface-distinction]]"
+  - "[[locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5
@@ -59,6 +61,10 @@ This account handles Penfield's headline datum directly and on purely physical t
 
 The upshot is that Penfield's evidence *underdetermines* the choice between dualism and the comparator account. It converts his datum from "proof of a non-physical will" into "a fact about the machinery of predictive agency" without strain. That is why the honest verdict is: suggestive, not decisive.
 
+## The inverse case: authorship without movement
+
+Penfield's datum has a modern inverse, and it constrains the comparator reading in the same framework-relative way. The electrode produced movement without authorship; a brain-computer interface produces authorship without movement. Evans et al. (2015) found visual feedback dominating agency judgements for brain-machine actions, so a user claims authorship of an outcome whenever the display reports it, even where overt movement and proprioception are absent. Serino et al. (2022) located the agency-monitoring signal for an intracortical brain-machine interface in primary motor cortex. On the comparator model a decoded command originates in motor cortex and so dispatches an efference copy, and should therefore arrive with agency attached; agency tracking the display instead marks a point at which the model owes a further account of what fixes authorship. This changes nothing about the verdict just reached: the constraint bears on both readings alike, and the dualist inference gains no support from it. Its interest lies in where it puts the pressure — on the outbound arm of the mind-brain relation, where authorship is fixed rather than where sensation arrives. That arm is what the [[filter-vs-interface-distinction|filter/interface distinction]] separates from the inbound leg, and what [[locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply|locked-in syndrome]] dissociates from the other side, sparing intention while severing its execution.
+
 ## A physicalist convergence on Eccles's dendron
 
 Eccles's anatomy has since been reached from the other side. Dendritic Integration Theory, stated by Bachmann, Suzuki and Aru (2020), associates consciousness with the integration of signal streams arriving at the apical and basal compartments of layer-5 pyramidal neurons—the apical dendrites of layer V, one of the two laminar populations (V and III–II) whose apical bundles Eccles named *dendrons* in 1990. Its anchoring experiment is Suzuki and Larkum (2020): three different anaesthetics have the same disruptive effect on signalling along those apical dendrites in mice, and inactivating higher-order thalamus in the awake animal reproduces the decoupling. Nobody in this programme has any use for psychons; the convergence was reached thirty years later on cellular neuroscience alone.
@@ -100,5 +106,7 @@ There is a **Tenet 5** twist worth flagging. The comparator reading is simpler o
 1. Dykstra, A. R., Zhu, Y., Fernandez Pujol, C., Zhou, D. W., Jones, S. R., Marvan, T., & Bonaiuto, J. J. (2026). "Testing circuit-level theories of consciousness in humans." *Trends in Cognitive Sciences*, 30(3), 226-238. doi:10.1016/j.tics.2025.08.012
 1. Blakemore, S.-J., Wolpert, D. M., & Frith, C. D. (2002). "Abnormalities in the awareness of action." *Trends in Cognitive Sciences*, 6(6), 237-242.
 1. Synofzik, M., Vosgerau, G., & Newen, A. (2008). "Beyond the comparator model: A multifactorial two-step account of agency." *Consciousness and Cognition*, 17(1), 219-239.
+1. Evans, N., Gale, S., Schurger, A., & Blanke, O. (2015). Visual Feedback Dominates the Sense of Agency for Brain-Machine Actions. *PLoS ONE*, 10(6), e0130019. https://doi.org/10.1371/journal.pone.0130019
+1. Serino, A., Bockbrader, M., Bertoni, T., et al. (2022). Sense of Agency for Intracortical Brain-Machine Interfaces. *Nature Human Behaviour*, 6(4), 565-578. https://doi.org/10.1038/s41562-021-01233-2
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Interactionist Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interactionist-dualism/
 1. Southgate, A. & Oquatre-sept, C. (2026-05-05). Evidential-Status Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/evidential-status-discipline/
