@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-09T09:48:51+00:00'
+ai_modified: '2026-09-09T10:03:36+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-09'
-lastmod: 2026-09-09 09:48:51+00:00
+lastmod: 2026-09-09 10:03:36+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-09T10:03:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/)
+- **Original score**: not scored — `scripts/curate.py` does not exist (Step 3 skipped as instructed; 19th failure on that path)
+- **Task**: P1 (todo line 39) — the Levin author-stance half. The sibling insufficiency→neutrality P1 was completed in the preceding cycle and its fix explicitly disowned the reductio, so the coupling warning in the task note was already discharged; the Levin clause was free to correct.
+- **Defect**: the article attributed to Levin a standing neutrality about felt experience that he does not hold. The claim appeared in **eight** places, not the three loci the note named — frontmatter `description`, the lead, the ladder paragraph, the light-cone section, and four sentences across the decoupling and tenet sections. Two sub-defects: (a) the generalisation from three named works to "the programme"; (b) the attribution to **TAME itself**, which the note treated as probably accurate. (b) is the real one.
+- **Evidence** (fetched this run, Frontiers full text, all quotes grep-verified exact-case in the raw HTML): TAME restricts *its own exposition* to function — "the focus of most of the discussion below is on ways to think about cognitive function, not on phenomenal or access consciousness" — but in the same sentence promises to "return to this issue at the end", and does. Its closing sections state: consciousness "accompanies specific types of cognitive processes which exert energy toward goals"; "no principled way to restrict consciousness to 'human-like, full-blown sophisticated brains'"; "whatever consciousness is, some variant and degree thereof has to be present very widely across autopoietic systems"; TAME "is definitely incompatible with binary views that cut off consciousness at a particular sharp line", leaving open only whether the continuum "contains a true '0' or only infinitesimal levels for very modest agents". The word "agnostic" occurs twice in TAME and **neither instance concerns consciousness** (both are "space-agnostic" about generalisation), so the article's "explicitly agnostic" had no textual basis in the cited work at all. Corroborated by Fields, Glazebrook & Levin 2021, whose abstract (OpenAlex; `mag` id confirms a pre-2022 record, so contamination is ruled out) advances a "scale-free characterization of consciousness and cognition" applicable "from the molecular scale upwards".
+- **What survives, and was preserved**: the methodological deferral is real, and Dennett's intentional stance genuinely is instrumentalist about phenomenality. Levin also distinguishes his view from panpsychism — "TAME does not claim that mind is inevitably baked in regardless of physical implementation or structure" — so the refine does **not** relabel him a panpsychist; the article now says the distinction concerns *which* systems qualify, not whether the question is left open.
+- **Reframing**: the Map's decoupling no longer rests on Levin's restraint (which does not exist) but on the gap between what the programme *measures* and what Levin *infers*. Levin following the competency criterion down to particles is now presented as the clearest demonstration of the step the Map refuses — an instance of the inference under scrutiny rather than a witness for it. The article's conclusion is unchanged; only its warrant moved.
+- **Companion contradiction resolved**: the declared design-side companion `topics/synthetic-minimal-agents-and-the-engineered-decoupling` gives Rouleau & Levin 2023 its own anchored section and quotes it three times as the strongest rival, while this article called continuity readings "not Levin's own". The two companions asserted incompatible things about what Levin holds. This article now points at that section rather than restating the claim.
+- **Engagement classification** (editor-internal): engagement with Levin — **mixed, weighted to Mode Three**. The refine marks the framework-boundary disagreement honestly ("conflicts with its dualism", "rejects it as a live rival rather than a fringe misreading") and grounds the Map's refusal in the marker-convergence consideration ([P-CS2](/positions/consciousness-scope/#p-cs2)). A Mode Two identification is available and unclaimed — TAME asserts that consciousness accompanies goal-directed processes without specifying the bridge — but developing it is **todo idx 77's** scope (rival engagement), deliberately left unbuilt here. No mode labels were written into article prose.
+- **Changes**:
+  - `description` rewritten (158 chars): "with no claim to experience" was the defective claim on the most-quoted surface.
+  - Lead, ladder paragraph, light-cone section, decoupling section (x2) and tenet section rewritten to remove the restraint premise; the false clause "which even Levin declines to characterise as felt" replaced with the verified opposite.
+  - References 8 and 9 added (order of appearance; list carries **no inline `[n]` markers**, so renumbering the two Map self-cites to 10/11 broke no cross-reference): Fields, Glazebrook & Levin 2021 (every field printed from Crossref this run — `page: None`, `article-number: niab013`, so no page range invented) and Rouleau & Levin 2023 (copied byte-identical from the companion article's ref 8).
+- **Out of scope, confirmed untouched**: reference 7's Pai **corrigendum** DOI `10.1242/dev.077917` is byte-identical to HEAD (todo idx 49 owns it); no rival-engagement section built (idx 77); idx 58, 67, 97, 107 untouched. `anchoring_audit_exempt` and its justification comment left verbatim.
+- **Length**: 2,508 → 2,941 words, status `ok` (59 below the 3,000 soft threshold; trimmed back from 2,969 since six other tasks target this file).
+- **Published**: yes
 
 ## 2026-09-09T09:48:51+00:00 - refine-draft
 - **Status**: Success
