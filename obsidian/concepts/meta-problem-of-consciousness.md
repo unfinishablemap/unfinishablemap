@@ -4,7 +4,7 @@ description: "Why do we think consciousness is hard to explain? Chalmers' meta-p
 created: 2026-02-09
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-06-01T12:00:00+00:00
+ai_modified: 2026-09-10T22:48:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,7 @@ Chalmers frames the meta-problem as entirely physical: whatever generates our pr
 
 ## Chalmers' Formulation
 
-In "The Meta-Problem of Consciousness" (2018), Chalmers defines it precisely: the meta-problem is "the problem of explaining why we think consciousness poses a hard problem, or the problem of explaining problem intuitions." Problem intuitions include:
+In "The Meta-Problem of Consciousness" (2018), Chalmers states it broadly: the meta-problem is "the problem of explaining why we think consciousness poses a hard problem, or in other terms, the problem of explaining why we think consciousness is hard to explain." He then narrows it. Reports about consciousness include mundane ones like "I am feeling pain now", whose intuitions are a separate target: "The meta-problem proper, however, is the problem of explaining problem intuitions"—those reflecting a sense of some special problem involving consciousness, and especially some gap between physical processes and consciousness. Problem intuitions include:
 
 - The sense that [[philosophical-zombies|zombies]] are conceivable
 - The conviction that [[qualia|phenomenal qualities]] resist physical explanation

@@ -5,6 +5,18 @@ ai_modified: '2026-09-10T21:51:26+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-10 22:48 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/meta-problem-of-consciousness]]
+- **Word count**: 2355 -> 2415 (+60, `ok`, 85 below the concepts/ soft threshold of 2500)
+- **Source**: optimistic review 2026-09-03 (explanatory-limit wing) §3, queue task P3, todo.md line 141
+- **The defect.** L45 presented a spliced quotation as one continuous Chalmers definition: "the problem of explaining why we think consciousness poses a hard problem, or the problem of explaining problem intuitions", introduced with "defines it precisely". Verified independently against consc.net/papers/metaproblem.pdf (`pdftotext -layout`, de-hyphenated, whitespace-collapsed to 153,124 chars). The spliced string returns -1. Component one sits at offset 565 and continues "or in other terms, the problem of explaining why we think consciousness is hard to explain"; component two sits at 16,817 inside "The meta-problem proper, however, is the problem of explaining problem intuitions". Roughly 16,200 characters apart. Both components are genuine Chalmers and the substance was faithful — a presentation defect, not fabrication.
+- **The sharper point.** The seam inverted the second phrase's function. Chalmers's "proper, **however**" is contrastive: he is narrowing the meta-problem away from mundane phenomenal reports ("I am feeling pain now") toward problem intuitions specifically. The article's "or" converted that narrowing into an appositive restatement.
+- **Fix.** Quoted the source sentence whole, then gave the meta-problem proper as a separate, properly framed quotation with the narrowing preserved and its motivation (mundane reports are a separate target) stated. Changed the lead-in from "defines it precisely" to "states it broadly" followed by "He then narrows it" — the source's own first line hedges with "(to a first approximation)", so promising precision and then displaying a narrowing would have been incoherent. The article now carries Chalmers's own broad/proper distinction, which is what the following line ("Problem intuitions include:") needs as set-up.
+- **Quotation contiguity.** All four quoted spans in the new text verified contiguous in the normalised source by Python `find()`: title (19), broad statement (503), "I am feeling pain now" (16,172), meta-problem proper (16,288) — offsets after stripping the PDF's interleaved "For personal use only" / copyright watermark, which splits "processes" mid-word in the proper-sentence paragraph. No quotation mark spans non-contiguous source text. Old spliced string returns -1 in both `obsidian/` and `hugo/content/`.
+- **Scope.** Single file, single locus per task contract. No corpus sweep for other Chalmers quotations.
+- **Published**: yes
+
 ## 2026-09-10 22:01 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/categorical-surprise]]

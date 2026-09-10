@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-06-01 12:00:00+00:00
+ai_modified: 2026-09-10 22:48:34+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-27 01:13:13+00:00
-lastmod: 2026-06-01 12:00:00+00:00
+lastmod: 2026-09-10 22:48:34+00:00
 modified: *id001
 related_articles:
 - '[[consciousness]]'
@@ -45,7 +45,7 @@ Chalmers frames the meta-problem as entirely physical: whatever generates our pr
 
 ## Chalmers' Formulation
 
-In "The Meta-Problem of Consciousness" (2018), Chalmers defines it precisely: the meta-problem is "the problem of explaining why we think consciousness poses a hard problem, or the problem of explaining problem intuitions." Problem intuitions include:
+In "The Meta-Problem of Consciousness" (2018), Chalmers states it broadly: the meta-problem is "the problem of explaining why we think consciousness poses a hard problem, or in other terms, the problem of explaining why we think consciousness is hard to explain." He then narrows it. Reports about consciousness include mundane ones like "I am feeling pain now", whose intuitions are a separate target: "The meta-problem proper, however, is the problem of explaining problem intuitions"—those reflecting a sense of some special problem involving consciousness, and especially some gap between physical processes and consciousness. Problem intuitions include:
 
 - The sense that [zombies](/concepts/philosophical-zombies/) are conceivable
 - The conviction that [phenomenal qualities](/concepts/qualia/) resist physical explanation
