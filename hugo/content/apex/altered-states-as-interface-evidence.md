@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-09-07 16:20:57+00:00
+ai_modified: 2026-09-10 03:22:27+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
 apex_last_synthesis: 2026-08-26 19:25:09+00:00
 apex_sources:
@@ -49,7 +49,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 10:52:48+00:00
-lastmod: 2026-09-07 16:20:57+00:00
+lastmod: 2026-09-10 03:22:27+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -163,7 +163,7 @@ A necessary honesty first: differential disruption profiles are ontologically ne
 
 The discriminating evidence lies where consciousness *persists or intensifies* during severe neural disruption. Psychedelics expand experience while decreasing cortical activity; REM sleep enhances creative problem-solving through a configuration that has *withdrawn* executive control. (Sleep-onset creativity once stood in this list; it dropped out when Löwe et al. relocated the benefit to N2.) If the brain produces consciousness, a brain doing less should not produce more. One caution governs the argument: decreased *regional activity* is not less *physical processing*. The psychedelics that lower default-mode activity raise between-network connectivity and signal entropy, so the enhancement-through-disruption cases carry weight only where the fuller measures—connectivity, entropy, disinhibition, hierarchical precision—fail to keep pace with the richer experience. **Production models** must explain these cases, and why identical behavioural outputs mask radically different phenomenologies (propofol against ketamine). Each has a piecemeal physicalist explanation—disinhibition, pharmacological specificity, functional separability—and the candidate unifier, the active-inference programme, is engaged at the meditation window above.
 
-**Filter theory** provides a unified organisation. The brain constrains consciousness through multiple semi-independent channels; altered states loosen, tighten, or reconfigure different ones; the pattern of what survives and what degrades maps the filter's architecture. Phenomenal presence—the most robust component—corresponds to the receiving side of the interface, which requires only that consciousness have *some* channel through which to manifest; voluntary attention—the most fragile—to the transmitting side, through which consciousness acts back on neural processes. The asymmetry between robust reception and fragile transmission fits an interface model without discriminating for it: global workspace theory makes a conscious-access bottleneck its defining feature, so the bandwidth datum—roughly 10 bits per second of conscious throughput against 10⁹ of aggregate neural processing—is shared rather than discriminating. Near-death experiences supply at most a weak limit case: the gamma surges Xu et al. (2023) recorded in two of four comatose patients during ventilator withdrawal are attributed by the authors to global hypoxia, none of the patients survived to report, and the step from a gamma surge to *intensified consciousness* is a framework-stage interpretation.
+**Filter theory** provides a unified organisation. The brain constrains consciousness through multiple semi-independent channels; altered states loosen, tighten, or reconfigure different ones; the pattern of what survives and what degrades maps the filter's architecture. Phenomenal presence—the most robust component—corresponds to the receiving side of the interface, which requires only that consciousness have *some* channel through which to manifest; voluntary attention—the most fragile—to the transmitting side, through which consciousness acts back on neural processes. The asymmetry between robust reception and fragile transmission fits an interface model without discriminating for it: global workspace theory makes a conscious-access bottleneck its defining feature, so the bandwidth datum—roughly 10 bits per second of conscious throughput against 10⁹ of peripheral sensory capacity—is shared rather than discriminating. Near-death experiences supply at most a weak limit case: the gamma surges Xu et al. (2023) recorded in two of four comatose patients during ventilator withdrawal are attributed by the authors to global hypoxia, none of the patients survived to report, and the step from a gamma surge to *intensified consciousness* is a framework-stage interpretation.
 
 Altered states add a seventh line of inquiry to the six the [Interface Specification Programme](/apex/interface-specification-programme/) identifies: *empirical interface mapping through natural and pharmacological perturbation*—the lesion study, applied to the interface rather than to brain tissue.
 

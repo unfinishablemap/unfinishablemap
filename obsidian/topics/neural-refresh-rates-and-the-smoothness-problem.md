@@ -4,7 +4,7 @@ description: "Discrete neural oscillations at 7-13 Hz clash with smooth consciou
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-08-08T03:32:13+00:00
+ai_modified: 2026-09-10T03:22:27+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -121,7 +121,7 @@ The smoothness problem aligns with several of the Map's [[tenets]].
 
 The smoothness problem also connects to the Map's treatment of [[the-binding-problem|temporal binding]] and the [[grain-mismatch]]. Where the binding problem asks how spatially distributed neural representations become unified percepts at a moment, the smoothness problem asks how temporally distributed neural samples become unified experience across time. The grain mismatch generalises this pattern: phenomenal experience appears smooth and homogeneous across both space and time, while the neural substrate is discrete in both dimensions.
 
-The Map's [[grain-mismatch-as-independent-evidence|grain mismatch evidence programme]] frames temporal smoothness as one of three independent structural mismatches — alongside spatial homogeneity (Sellars' original argument) and informational compression (the ~10 bits/second [[bandwidth-of-consciousness|conscious throughput]] against ~10⁹ bits/second neural processing; Zheng & Meister 2025). Each mismatch arises from a different empirical domain, relies on different measurements, and requires a different physicalist response. Their convergence is what gives the programme its collective force: dissolving the temporal mismatch alone would leave the spatial and informational mismatches standing. This independence means the smoothness problem contributes to a cumulative structural case rather than standing or falling on its own.
+The Map's [[grain-mismatch-as-independent-evidence|grain mismatch evidence programme]] frames temporal smoothness as one of three independent structural mismatches — alongside spatial homogeneity (Sellars' original argument) and informational compression (the ~10 bits/second [[bandwidth-of-consciousness|conscious throughput]] against ~10⁹ bits/second at the sensory periphery; Zheng & Meister 2025). Each mismatch arises from a different empirical domain, relies on different measurements, and requires a different physicalist response. Their convergence is what gives the programme its collective force: dissolving the temporal mismatch alone would leave the spatial and informational mismatches standing. This independence means the smoothness problem contributes to a cumulative structural case rather than standing or falling on its own.
 
 ## Further Reading
 

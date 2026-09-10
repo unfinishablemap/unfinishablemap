@@ -4,7 +4,7 @@ description: "Filter theory reads the brain as transmitting and constraining con
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-09-07T13:52:34+00:00
+ai_modified: 2026-09-10T03:22:27+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -153,7 +153,7 @@ Yes—but so is "production": we don't know *how* neural activity would produce 
 
 ### "How could we ever distinguish filter from production?"
 
-The enhancement asymmetry stated above stays pattern-level rather than becoming a testable prediction, for the reason given there: filter theory supplies no independent criteria for which disruptions should enhance and which degrade. [[bandwidth-of-consciousness|Bandwidth constraints]] supply a further re-description rather than a discriminating test. Conscious throughput measures at ~10 bits per second against aggregate neural processing of ~10⁹ (Zheng & Meister 2025), with the bottleneck at conscious access rather than at sensory or motor stages—Sauerbrei and Pruszynski (2025) accept the ceiling for conscious cognition while showing that unconscious motor control vastly exceeds it. Filter theory reads this naturally, but Global Workspace Theory makes a conscious-access bottleneck its defining feature, so the datum is shared, not discriminating. Consciousness could also, in principle, interface through different physical substrates—not a decisive test, but a research question production models do not naturally raise.
+The enhancement asymmetry stated above stays pattern-level rather than becoming a testable prediction, for the reason given there: filter theory supplies no independent criteria for which disruptions should enhance and which degrade. [[bandwidth-of-consciousness|Bandwidth constraints]] supply a further re-description rather than a discriminating test. Conscious throughput runs at ~10 bits per second against a sensory periphery carrying ~10⁹ (Zheng & Meister 2025), with the bottleneck at conscious access rather than at sensory or motor stages—Sauerbrei and Pruszynski (2025) accept the ceiling for conscious cognition while showing that unconscious motor control vastly exceeds it. Filter theory reads this naturally, but Global Workspace Theory makes a conscious-access bottleneck its defining feature, so the datum is shared, not discriminating. Consciousness could also, in principle, interface through different physical substrates—not a decisive test, but a research question production models do not naturally raise.
 
 ### "Stimulation evokes experience—doesn't that make the brain a generator?"
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-18
-ai_modified: 2026-08-22 07:43:30+00:00
+ai_modified: 2026-09-10 03:22:27+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 apex_last_synthesis: 2026-08-22 07:43:30+00:00
 apex_sources:
@@ -44,7 +44,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-24 10:55:00+00:00
-lastmod: 2026-08-22 07:43:30+00:00
+lastmod: 2026-09-10 03:22:27+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
@@ -145,7 +145,7 @@ The [evidential-status-discipline](/project/evidential-status-discipline/) suppl
 
 The dissociation-using character of this synthesis brings it under the discipline's four-levels rule for dissociation arguments. Each contrast in the three classes establishes *separability* (Level 1: the components come apart in the data) and contributes to *phenomenological reality* (Level 2: the dissociated features are genuine features of experience, not artefacts of report). *Mechanistic independence* (Level 3) is what the receptor-pharmacology contrasts approach but do not by themselves settle—sophisticated functionalism can occupy Level 3 with separable subsystems whose coupling constitutes consciousness. *Metaphysical irreducibility* (Level 4) lies beyond pharmacological dissociation entirely, requiring the independent argumentation staged elsewhere (the hard problem, self-stultification, convergence with non-pharmacological routes). The discipline's instruction is *don't collapse the chain*: this synthesis stops where the dissociation evidence stops, and the inferential weight at higher levels is carried by separate arguments.
 
-Two of this synthesis's sources have recently applied the same discipline against the Map's own interest, and the corrections belong here rather than only on their pages. [Filter theory](/concepts/filter-theory/) has withdrawn the bandwidth argument as a discriminator: conscious throughput of roughly ten bits per second against some 10⁹ bits per second of aggregate neural processing, with the bottleneck localised to access rather than to sensory or motor stages, reads naturally on a filter model—but global workspace theory makes a conscious-access bottleneck its *defining* feature, so the datum is shared rather than discriminating. [Interface friction](/concepts/interface-friction/) makes the parallel concession about choking, where conscious self-monitoring degrades automatised skill (Beilock and Carr 2001; Gröpel and Mesagno 2019; Smoulder et al. 2024): the friction reading redescribes an established motor-control result under a dualist ontology rather than predicting anything the standard explicit-monitoring and over-arousal models miss. Both have the shape the three dissociation classes have—a phenomenon the framework accommodates gracefully is not thereby one the framework uniquely predicted. What the friction page does contribute is the organising rule this synthesis runs on: where the interface is strained, its seams show, and the seams are the data.
+Two of this synthesis's sources have recently applied the same discipline against the Map's own interest, and the corrections belong here rather than only on their pages. [Filter theory](/concepts/filter-theory/) has withdrawn the bandwidth argument as a discriminator: conscious throughput of roughly ten bits per second against some 10⁹ bits per second of peripheral sensory capacity, with the bottleneck localised to access rather than to sensory or motor stages, reads naturally on a filter model—but global workspace theory makes a conscious-access bottleneck its *defining* feature, so the datum is shared rather than discriminating. [Interface friction](/concepts/interface-friction/) makes the parallel concession about choking, where conscious self-monitoring degrades automatised skill (Beilock and Carr 2001; Gröpel and Mesagno 2019; Smoulder et al. 2024): the friction reading redescribes an established motor-control result under a dualist ontology rather than predicting anything the standard explicit-monitoring and over-arousal models miss. Both have the shape the three dissociation classes have—a phenomenon the framework accommodates gracefully is not thereby one the framework uniquely predicted. What the friction page does contribute is the organising rule this synthesis runs on: where the interface is strained, its seams show, and the seams are the data.
 
 The discipline is symmetric. The materialist must not treat a known molecular mechanism for each anaesthetic as if it *established* the reduction; receptor pharmacology is a necessary condition for an explanation of consciousness, not a sufficient one. The dualist must not treat the dissociation pattern as if it *established* the interface reading; sophisticated functionalism predicts the same pattern.
 

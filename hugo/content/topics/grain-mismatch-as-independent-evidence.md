@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-07
-ai_modified: 2026-08-19 15:24:39+00:00
+ai_modified: 2026-09-10 03:22:27+00:00
 ai_system: claude-opus-4-8+claude-fable-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 08:07:57+00:00
-lastmod: 2026-08-19 15:24:39+00:00
+lastmod: 2026-09-10 03:22:27+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -55,7 +55,7 @@ Andrew Lee's work on smooth experience may still be relevant here, though it doe
 
 ### Informational Grain
 
-Aggregate neural processing runs at roughly 10⁹ bits per second. Conscious declarative throughput — the rate at which reportable decisions resolve — runs at approximately 10 bits per second, a compression ratio of 100 million to one. The figure is a Shannon-calibrated behavioural throughput, not a rough estimate, that has held across roughly seven decades of work and radically different tasks, from 1952 choice-reaction experiments through typing, gaming, and speedcubing (Zheng & Meister 2025; see [the bandwidth of consciousness](/topics/bandwidth-of-consciousness/) for the measurement history). One caveat the canonical bandwidth articles carry travels with the number: Zheng and Meister measured *behavioural* throughput in tasks requiring conscious engagement, so the step from "behavioural ceiling in conscious tasks" to a claim about phenomenal content is an interpretation, not a direct measurement. Taken at the level the evidence licenses, the mismatch is informational: conscious output and access throughput is eight orders of magnitude coarser than the grain of neural computation — and whether the phenomenal content underlying that output is correspondingly coarse, as Block's access/phenomenal distinction leaves open, is a further question the figure does not settle.
+Peripheral sensory capacity runs at roughly 10⁹ bits per second. Conscious declarative throughput — the rate at which reportable decisions resolve — runs at approximately 10 bits per second, a compression ratio of 100 million to one. The figure is a Shannon-calibrated behavioural throughput, not a rough estimate, that has held across roughly seven decades of work and radically different tasks, from 1952 choice-reaction experiments through typing, gaming, and speedcubing (Zheng & Meister 2025; see [the bandwidth of consciousness](/topics/bandwidth-of-consciousness/) for the measurement history). One caveat the canonical bandwidth articles carry travels with the number: Zheng and Meister measured *behavioural* throughput in tasks requiring conscious engagement, so the step from "behavioural ceiling in conscious tasks" to a claim about phenomenal content is an interpretation, not a direct measurement. Taken at the level the evidence licenses, the mismatch is informational: conscious output and access throughput is eight orders of magnitude coarser than the grain of neural computation — and whether the phenomenal content underlying that output is correspondingly coarse, as Block's access/phenomenal distinction leaves open, is a further question the figure does not settle.
 
 This third mismatch is independent of the first two. Even if phenomenal space were somehow discrete (dissolving the spatial mismatch) and phenomenal time were somehow periodic (dissolving the temporal mismatch), the informational compression ratio would remain. Consciousness would still operate at a radically different informational grain from its neural substrate.
 

@@ -3,7 +3,7 @@ title: "The Bandwidth of Consciousness"
 created: 2026-02-09
 modified: 2026-04-19
 human_modified: null
-ai_modified: 2026-09-02T17:29:27+00:00
+ai_modified: 2026-09-10T03:22:27+00:00
 draft: false
 description: "The 100-million-fold gap between neural processing and conscious output reveals the shape of the mind-brain interface—a selection channel whose coarseness is architecturally required, not a defect."
 topics:
@@ -64,7 +64,7 @@ embedded_videos:
     source: notebooklm/0085-01-bandwidth-of-consciousness
 ---
 
-Consciousness sits at the centre of a dramatic information asymmetry. Sensory transduction delivers roughly 11 million bits per second to the brain (Zimmermann 1986; Nørretranders 1998), and aggregate neural processing runs at ~10⁹ bits per second (Zheng & Meister 2025). Yet conscious influence on behaviour measures at approximately 10 bits per second. Zheng and Meister call this *ratio* the "sifting number"—roughly 100 million to one against total neural processing, and a million to one against sensory transduction. The Unfinishable Map treats this asymmetry as a structural signature of the mind-brain interface: on the dualist reading, consciousness *receives* vast information passively but *acts* through a channel so narrow it can only select among pre-computed options. The bandwidth constraint may define the *shape* of the interface—a datum both production and interface readings must account for, and which the [[filter-theory|filter]] and [[interactionist-dualism|interactionist]] readings arguably accommodate with less strain.
+Consciousness sits at the centre of a dramatic information asymmetry. Sensory transduction delivers roughly 11 million bits per second to the brain (Zimmermann 1986; Nørretranders 1998), and Zheng & Meister (2025) place the sensory periphery's raw capacity at ~10⁹ bits per second. Yet conscious influence on behaviour is put at approximately 10 bits per second. Zheng and Meister's "sifting number"—sensory rate over behavioural throughput—is roughly 100 million to one; against the transduction tally, a million to one. The Unfinishable Map treats this asymmetry as a structural signature of the mind-brain interface: on the dualist reading, consciousness *receives* vast information passively but *acts* through a channel so narrow it can only select among pre-computed options. The bandwidth constraint may define the *shape* of the interface—a datum both production and interface readings must account for, and which the [[filter-theory|filter]] and [[interactionist-dualism|interactionist]] readings arguably accommodate with less strain.
 
 <details class="yt-embed" data-video-id="-ZzU5zvhghA">
 <summary>Video introduction</summary>
@@ -104,7 +104,7 @@ Nor does the bottleneck sit in the surrounding hardware. Sauerbrei and Pruszynsk
 
 ## The Inbound Channel
 
-The inbound bandwidth is enormous. Zimmermann (1986) quantified sensory transduction by modality: vision alone delivers roughly 10⁷ bits per second, touch around 10⁶, with aggregate sensory input reaching ~11 million bits per second. Nørretranders (1998) popularised the asymmetry as the "user illusion"—consciousness as a simplified desktop covering vastly richer underlying computation. Including unconscious neural processing of this input (pattern recognition, motor preparation, working memory maintenance), total "outer brain" throughput rises to ~10⁹ bits per second (Zheng & Meister 2025). The two framings yield different ratios, but the philosophical consequence does not depend on which we use. Whether *phenomenal* experience is also richer than cognitive access—as Block (2011) argues against Cohen, Dennett, and Kanwisher (2016)—the Map need not resolve: that question concerns phenomenality, whereas the ~10 bits/s ceiling measures only reportable access.
+The inbound bandwidth is enormous. Zimmermann (1986) quantified sensory transduction by modality: vision alone delivers roughly 10⁷ bits per second, touch around 10⁶, with aggregate sensory input reaching ~11 million bits per second. Nørretranders (1998) popularised the asymmetry as the "user illusion"—consciousness as a simplified desktop covering vastly richer underlying computation. Zheng and Meister (2025) instead measure the periphery itself: one eye's six million cones have a capacity of ~1.6 gigabits per second, the input side of their "outer brain". The two framings yield different ratios, but the philosophical consequence does not depend on which we use. Whether *phenomenal* experience is also richer than cognitive access—as Block (2011) argues against Cohen, Dennett, and Kanwisher (2016)—the Map need not resolve: that question concerns phenomenality, whereas the ~10 bits/s ceiling measures only reportable access.
 
 ## How the Constraint Shapes Processing
 
@@ -224,7 +224,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]**: A system operating at 10⁹ bits per second internally but producing conscious throughput at 10¹ bits per second contains a discontinuity that identity theories cannot bridge without treating consciousness as a marginal byproduct—contradicting the functional importance of conscious processing for logical reasoning, counterfactual thinking, and deliberate choice.
+**[[tenets#^dualism|Dualism]]**: A system taking in 10⁹ bits per second but producing conscious throughput at 10¹ bits per second contains a discontinuity that identity theories cannot bridge without treating consciousness as a marginal byproduct—contradicting the functional importance of conscious processing for logical reasoning, counterfactual thinking, and deliberate choice.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The outbound bandwidth is broadly compatible with what the tenet stipulates philosophically: a 10-bit/second channel carries roughly the minimal information required for selection among prepared alternatives, so the tenet's "smallest possible influence" may find its empirical expression in Zheng and Meister's universal ceiling—though the data constrain rather than establish the reading, since a production architecture could in principle yield the same ceiling.
 

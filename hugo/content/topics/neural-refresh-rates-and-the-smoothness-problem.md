@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-08-08 03:32:13+00:00
+ai_modified: 2026-09-10 03:22:27+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-08 03:32:13+00:00
-lastmod: 2026-08-08 03:32:13+00:00
+lastmod: 2026-09-10 03:22:27+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -124,7 +124,7 @@ The smoothness problem aligns with several of the Map's [tenets](/tenets/).
 
 The smoothness problem also connects to the Map's treatment of [temporal binding](/topics/the-binding-problem/) and the [grain-mismatch](/concepts/grain-mismatch/). Where the binding problem asks how spatially distributed neural representations become unified percepts at a moment, the smoothness problem asks how temporally distributed neural samples become unified experience across time. The grain mismatch generalises this pattern: phenomenal experience appears smooth and homogeneous across both space and time, while the neural substrate is discrete in both dimensions.
 
-The Map's [grain mismatch evidence programme](/topics/grain-mismatch-as-independent-evidence/) frames temporal smoothness as one of three independent structural mismatches — alongside spatial homogeneity (Sellars' original argument) and informational compression (the ~10 bits/second [conscious throughput](/topics/bandwidth-of-consciousness/) against ~10⁹ bits/second neural processing; Zheng & Meister 2025). Each mismatch arises from a different empirical domain, relies on different measurements, and requires a different physicalist response. Their convergence is what gives the programme its collective force: dissolving the temporal mismatch alone would leave the spatial and informational mismatches standing. This independence means the smoothness problem contributes to a cumulative structural case rather than standing or falling on its own.
+The Map's [grain mismatch evidence programme](/topics/grain-mismatch-as-independent-evidence/) frames temporal smoothness as one of three independent structural mismatches — alongside spatial homogeneity (Sellars' original argument) and informational compression (the ~10 bits/second [conscious throughput](/topics/bandwidth-of-consciousness/) against ~10⁹ bits/second at the sensory periphery; Zheng & Meister 2025). Each mismatch arises from a different empirical domain, relies on different measurements, and requires a different physicalist response. Their convergence is what gives the programme its collective force: dissolving the temporal mismatch alone would leave the spatial and informational mismatches standing. This independence means the smoothness problem contributes to a cumulative structural case rather than standing or falling on its own.
 
 ## Further Reading
 
