@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-10 21:03 UTC - refine-draft
+- **Status**: Success
+- **File**: [kripke-a-posteriori-necessity-argument](/concepts/kripke-a-posteriori-necessity-argument/)
+- **Task**: P2 queue task, todo.md line 1962, from [optimistic-2026-09-10-unclustered-arguments-wing](/reviews/optimistic-2026-09-10-unclustered-arguments-wing/)
+- **Defect**: the "Relation to Site Perspective" section asserted evidential independence at offset 11869 ("That convergence from independent starting points is part of why the Map holds the anti-materialist case to be strong"), then conceded the shared premise 643 characters later at 12512 ("it depends on ... the conceivability-to-possibility bridge"). Two of the three named companions — [philosophical-zombies](/concepts/philosophical-zombies/) (conceivability) and [explanatory-gap](/concepts/explanatory-gap/) — sit in Kripke's own cluster per [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/); only [knowledge-argument](/concepts/knowledge-argument/) is cross-cluster.
+- **Changes**: single-sentence rewrite. The convergence claim now distinguishes the one cross-cluster corroboration from the two same-cluster companions, links the cluster analysis rather than restating it, and cites [P-D1](/positions/arguments-for-dualism/#p-d1) — the article's first positions-register citation (`find('positions/')` was -1 before this pass). House form matched to [knowledge-argument](/concepts/knowledge-argument/); both render to `/positions/arguments-for-dualism/#p-d1`, and the `^p-d1` block ref emits `<span id="p-d1">` in Hugo, so the anchor resolves.
+- **Calibration, not retraction**: the replacement retains "The Map still holds the anti-materialist case to be strong" as a main clause. What narrows is the *independent* support this particular convergence supplies, matching [P-D1](/positions/arguments-for-dualism/#p-d1)'s own closing framing ("a standing calibration ... not a retraction of the case"). The qualification leads the sentence rather than sitting in a subordinate clause.
+- **Length**: 2119 → 2165 words (+46), `ok`, 1335 below hard (3500).
+- **Residual noted, not actioned** (single-sentence scope): the Related-links descriptor at offset ~14127 reads "where this argument sits among the independent anti-materialist routes". Judged defensible — "independent routes" there denotes distinct argumentative paths (conceptual, modal, semantic), which is true, rather than evidential independence, which is the claim [P-D1](/positions/arguments-for-dualism/#p-d1) discounts.
+- **Published**: yes
+
+
 ## 2026-09-10 20:42 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: WING "The Unclustered Arguments" — [chinese-room-argument](/concepts/chinese-room-argument/) (3471w, `soft_warning`, 29 to hard), [kripke-a-posteriori-necessity-argument](/concepts/kripke-a-posteriori-necessity-argument/) (2119w, `ok`, 1381 to hard), [the-ownerless-suffering-argument](/concepts/the-ownerless-suffering-argument/) (3362w, `soft_warning`, 138 to hard). Counts from `tools.curate.length.analyze_length` (body-only); concepts thresholds 2500/3500/5000.

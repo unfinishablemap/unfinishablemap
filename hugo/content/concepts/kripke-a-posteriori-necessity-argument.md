@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-08-08 18:11:00+00:00
+ai_modified: 2026-09-10 21:03:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-06 16:13:48+00:00
-lastmod: 2026-08-08 18:11:00+00:00
+lastmod: 2026-09-10 21:03:27+00:00
 modified: *id001
 related_articles:
 - knowledge-argument
@@ -75,7 +75,7 @@ A second reply grants Kripke the no-appearance/reality-gap point but challenges 
 
 ## Relation to Site Perspective
 
-The argument is congenial to **Tenet 1 (dualism — the irreducibility of consciousness)**. It supplies a modal-semantic route to the conclusion that phenomenal states are not identical to physical states, converging with the epistemic route of the [knowledge-argument](/concepts/knowledge-argument/), the conceivability route of [philosophical-zombies](/concepts/philosophical-zombies/), and the [explanatory-gap](/concepts/explanatory-gap/). That convergence from independent starting points is part of why the Map holds the anti-materialist case to be strong. The step from that negative result to the Map's positive dualism is the Map's own, taken on separate grounds; Kripke expressly declines it, as recorded above.
+The argument is congenial to **Tenet 1 (dualism — the irreducibility of consciousness)**. It supplies a modal-semantic route to the conclusion that phenomenal states are not identical to physical states, converging with the epistemic route of the [knowledge-argument](/concepts/knowledge-argument/), the conceivability route of [philosophical-zombies](/concepts/philosophical-zombies/), and the [explanatory-gap](/concepts/explanatory-gap/). That convergence is only partly from independent starting points: the knowledge argument comes from a different cluster, while conceivability and the explanatory gap fall in the same cluster as this argument ([the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)), so they corroborate one another more than they multiply evidence. The Map still holds the anti-materialist case to be strong; the shared premise narrows how much *independent* support this particular convergence supplies ([P-D1](/positions/arguments-for-dualism/#p-d1)). The step from that negative result to the Map's positive dualism is the Map's own, taken on separate grounds; Kripke expressly declines it, as recorded above.
 
 Consistent with **Tenet 5 (Occam's razor has limits)**, the Map does not treat the argument as a knockdown — a restraint Kripke himself models, both in calling the mind-body problem "wide open and extremely confusing" and in conceding that some identity-theorist arguments strike him as "highly compelling" and so far unanswered (1980, p. 155 n. 77). Its force is framework-relative: it depends on treating "pain" as a rigid designator, on the conceivability-to-possibility bridge, and above all on the denial that pain has any contingent mode of presentation — the exact point the phenomenal-concepts reply contests and has not, on the Map's reading, been forced to concede. The argument also targets [type-identity-theory](/concepts/type-identity-theory/) specifically; token-identity and some functionalist positions are less directly hit, though the underlying conceivability point generalises into the broader anti-physicalist family. The Map's position is that Kripke adds real weight to the anti-materialist convergence without closing the question — a contribution to the case, not a proof.
 
@@ -89,7 +89,7 @@ Consistent with **Tenet 5 (Occam's razor has limits)**, the Map does not treat t
 - [knowledge-argument](/concepts/knowledge-argument/) — the epistemic sibling in the anti-materialist convergence
 - [philosophical-zombies](/concepts/philosophical-zombies/) — the conceivability sibling
 - [explanatory-gap](/concepts/explanatory-gap/) — the residue Kripke's argument dramatizes modally
-- [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — where this argument sits among the independent anti-materialist routes
+- [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — where this argument sits among the anti-materialist routes
 - [dualism](/concepts/dualism/) — how these converging arguments support the Map's first tenet
 - [materialism](/concepts/materialism/) — the position the argument targets
 
