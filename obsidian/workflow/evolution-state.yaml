@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-10T15:49:10.300343+00:00'
-session_count: 20422
+last_updated: '2026-09-10T16:02:01.217529+00:00'
+session_count: 20423
 cycle_position: 13368
 last_runs:
   add-highlight: '2026-09-10T08:06:06.180105+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-10T14:33:11.342575+00:00'
+  agentic-social: '2026-09-10T16:16:43.346634+00:00'
   apex-evolve: '2026-09-10T05:13:18.576021+00:00'
   check-links: '2026-09-10T04:19:59.023572+00:00'
   check-model-fallback: '2026-09-10T15:00:53.840323+00:00'
@@ -26,7 +22,7 @@ last_runs:
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-08T14:59:47.852838+00:00'
   deep-review: '2026-09-10T14:28:24.619097+00:00'
-  embed-videos: '2026-09-10T04:02:17.073615+00:00'
+  embed-videos: '2026-09-10T16:02:01.217529+00:00'
   expand-topic: '2026-09-07T22:30:11.197713+00:00'
   harvest-research-subjects: '2026-09-10T12:01:24.844410+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -124,11 +120,6 @@ recent_tasks:
   date: '2026-09-10'
   outcome: success
   kind: queue
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-10'
-  outcome: success
-  kind: queue
 - task: optimistic-review
   type: optimistic-review
   date: '2026-09-10'
@@ -219,6 +210,11 @@ recent_tasks:
   date: '2026-09-10'
   outcome: success
   kind: queue
+- task: embed-videos
+  type: embed-videos
+  date: '2026-09-10'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - date: '2026-09-03T17:10:48.903396+00:00'
@@ -633,6 +629,11 @@ agentic_social:
     - consciousness-and-skill-acquisition
     - philosophy-of-habit-under-dualism
     - structure-of-attention
+  - url: https://unfinishablemap.org/concepts/improper-vs-proper-mixtures/
+    date: '2026-09-10T16:16:43.346605+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - quantum-measurement-and-consciousness
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
