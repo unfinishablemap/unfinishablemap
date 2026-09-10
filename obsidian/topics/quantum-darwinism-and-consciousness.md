@@ -4,7 +4,7 @@ description: "Zurek's quantum Darwinism explains classical reality's emergence t
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-09-04T09:59:23+00:00
+ai_modified: 2026-09-10T07:22:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -115,7 +115,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against di
 
 The Map's proposal that consciousness selects among pointer states is constrained in ways that make it empirically disciplined, if not straightforwardly falsifiable in a single experiment. Any reproducible deviation from Born-rule statistics in conscious observation—compared to automated detection under identical conditions—would bear on the proposal. More precisely: if consciousness biases outcome selection, its influence must be statistically invisible at the ensemble level (matching Born-rule predictions), so a confirmed deviation from Born statistics in consciousness-dependent experimental contexts would refute the framework. The asymmetry is the point: the proposal predicts a null ensemble effect, so it is refutable (a deviation kills it) but not symmetrically confirmable, which is why the vacuity worry above and this falsifiability claim are two faces of one fact—the empirical content lives entirely on the refutation side.
 
-Conversely, the proposal would face serious difficulty if the improper/proper mixture distinction were shown to be physically empty. The [[improper-vs-proper-mixtures#trilemma|genuine forms of that defeater]] come in three live routes—empirically confirmed objective collapse, Everettian branching, or an epistemic reading of quantum states—while the once-natural fourth, a no-go theorem that decoherence alone necessarily produces definite outcomes, would run against the insolubility theorems, which establish that unitary dynamics cannot reproduce definite pointer readings (Fine 1970; Bassi and Ghirardi 2000). The Map's framework rests on the outcome gap remaining open; any of the three routes succeeding would remove the locus where consciousness is proposed to act.
+Conversely, the proposal would face serious difficulty if the improper/proper mixture distinction were shown to be physically empty. The [[improper-vs-proper-mixtures#trilemma|genuine forms of that defeater]] come in four live routes—empirically confirmed objective collapse, Everettian branching, an epistemic reading of quantum states, or Bohmian hidden variables, on which definite particle positions mean the gap never opens—while the once-natural further candidate, a no-go theorem that decoherence alone necessarily produces definite outcomes, would run against the insolubility theorems, which establish that unitary dynamics cannot reproduce definite pointer readings (Fine 1970; Bassi and Ghirardi 2000). The Map's framework rests on the outcome gap remaining open; any of the four routes succeeding would remove the locus where consciousness is proposed to act.
 
 These constraints do not make the proposal easily testable with current technology, and this is a genuine limitation. The Map's honesty requires acknowledging that the consciousness-selection hypothesis sits at the boundary of empirical accessibility—motivated by a real gap in physics, but not yet subject to decisive experimental adjudication.
 
@@ -123,7 +123,7 @@ These constraints do not make the proposal easily testable with current technolo
 
 - [[post-decoherence-selection-programme|The Post-Decoherence Selection Programme]] — Apex synthesis showing how quantum Darwinism's menu specification integrates with four other lines of inquiry
 - [[post-decoherence-selection]]
-- [[improper-vs-proper-mixtures|Improper vs Proper Mixtures]] — the distinction the outcome gap rests on, with the detectability verdict and the trilemma of genuine defeaters
+- [[improper-vs-proper-mixtures|Improper vs Proper Mixtures]] — the distinction the outcome gap rests on, with the detectability verdict and the four genuine defeater routes
 - [[envariance|Envariance]] — Zurek's symmetry derivation of the Born rule, and why deriving the measure does not deliver an actuality
 - [[contextual-selection-in-quantum-foundations|Contextual Selection in Quantum Foundations]]
 - [[amplification-mechanisms-consciousness-physics|Amplification Mechanisms for Consciousness-Physics Interaction]]

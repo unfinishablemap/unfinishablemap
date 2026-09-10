@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-10T06:52:00+00:00'
+ai_modified: '2026-09-10T07:22:05+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-10T07:22:05+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/improper-vs-proper-mixtures]] (+ propagation fix in [[topics/quantum-darwinism-and-consciousness]])
+- **Source**: P1 queue task from [[reviews/outer-review-2026-09-10-claude-opus-5]]; only the three findings that survived that review's `## Verification Notes` were actioned
+- **Original score**: not scored — `scripts/curate.py` does not exist in this repo (SKILL.md Step 3 is stale). Length measured instead with `tools.curate.length.analyze_length`
+- **Changes**:
+  - **(1) False exhaustiveness repaired by adding a fourth horn, not by rescoping.** The trilemma's "exactly three live forms" omitted hidden variables: Bohmian mechanics closes the outcome gap without non-unitary collapse, without branching and without an epistemic reading of the state, and escapes the insolubility theorems the section leans on because those constrain *unitary* reproduction of definite pointer readings. Added horn 4 and changed the count. Adding the horn was preferred over the "for a theory without hidden variables" rescope because the article already records the declination (Bell's two preferred exits, §Whose FAPP Is It?), so the honest repair cost little
+  - **Propagation: all 4 obsidian loci fixed** — this article's L36 piped label (`three-route trilemma` → `four genuine defeater routes`, relabelled through the untouched `#trilemma` anchor at zero structural cost) and L90 count; `topics/quantum-darwinism-and-consciousness` "three live routes" (list extended with the Bohmian route) and "any of the three routes succeeding". **Ledger correction: the task note said 4 files / 6 loci; there are 8** (the hugo half is generated, so it was fixed by `scripts/sync.py`, not by hand), **plus 4 more the ledger missed** — the bare word "trilemma" survived as a count claim at this article's L96 and two Further Reading labels, and at `quantum-darwinism` L126. All four rephrased; "trilemma" now survives only as the URL anchor id
+  - **(2) Horn 1 now names an experiment.** Added the Gran Sasso underground test — it rules out the natural parameter-free version of the Diósi–Penrose model (Donadi et al. 2020) — plus reference-list entry 9, which renumbered 9–20 → 10–21 (safe: the body cites author-year, never reference numbers)
+  - **(3) Author stances flagged, completing the d'Espagnat/Bell pattern.** Zeh's recoherence line now marked as coming "from an Everettian rather than an ally"; Schlosshauer marked as surveyor rather than advocate, with his own 2004 verdict quoted
+- **Engagement classification** (editor-internal, not in article prose): the new hidden-variables horn is **Mode Three — framework-boundary marking**. The article states plainly that the Map declines the Bohmian exit and that "declining is not refuting"; no in-framework refutation of Bohmian mechanics is offered or implied
+- **Citations verified at primary source this run**:
+  - Donadi et al. 2020, DOI `10.1038/s41567-020-1008-4` — Crossref: Donadi, Piscicchia, Curceanu, **Diósi**, Laubenstein & Bassi, *Nature Physics* **17**(1), 74–78; `issued` 2020-09-07, `published-print` 2021-01. Result verified in the arXiv abstract of `2111.13490` (same DOI, journal-ref "Nature Physics 17, 74 (2021)"): "This rules out the natural parameter-free version of the Diósi-Penrose model." **Stated without quotation marks** in the article, because the byte-verified wording is the arXiv abstract's and the published abstract was not fetched. **Year nuance disclosed in the reference line**: cited as 2020 (Crossref `issued`, matching the review and task note) with "(Published online 2020; print volume dated 2021.)" appended, so the 2020/2021 split is explicit rather than silently mixed
+  - Schlosshauer 2004 stance quote — verified in the raw arXiv e-print TeX of `quant-ph/0312059` (`rmp_arxiv.tex`, fetched this run), whitespace-normalised offset **122502**. **The source's scope qualifier was preserved inside the quotation**: the sentence reads "But within the framework of the orthodox interpretation, decoherence cannot explain this crucial step…". Quoting from "within" is a clean truncation; quoting from "decoherence" (as the task note and review both did) would have dropped the qualifier and overstated his position
+  - Zeh's Everettian stance — supported from the *same* cited paper (`quant-ph/0512078`), which contains "a kind of Everett interpretation as I later discovered" and treats branching as ontic throughout. The article's existing recoherence quotation also re-verified verbatim there (normalised offset 7437)
+  - **L42's Schlosshauer quotation left byte-identical and untouched**, per the fence. Independently re-verified this run in the same TeX at normalised offset **179512**. Its file offset moved 3835 → 3821 only because the L36 relabel above it is 14 characters shorter
+- **Length**: 2556 → **2774 words** (+218), still `soft_warning`, **726 words below the 3500 concepts hard threshold**. Inside the ~250-word budget the task set; the two sibling P1s on this file (Density Matrix Realism, Local Friendliness) share the remaining 726. `topics/quantum-darwinism-and-consciousness` 2659 → 2673, still `ok`
+- **Verification**: all 4 obsidian loci and all 4 hugo mirrors confirmed by `str.find()` offset after `scripts/sync.py`; old strings confirmed at −1 in both trees; `{#trilemma}` and `{#detectability}` anchors intact, and both inbound deep links (this article's L36, `quantum-darwinism` L118) still target `#trilemma`
+- **Not actioned** (out of contract): the two refuted review findings (Schlosshauer "fabrication", Maudlin recruitment), and the two sibling P1s' findings
+- **Published**: yes
+- **Commit**: none (cycle_post owns it)
 
 ## 2026-09-10T06:52:00+00:00 - combine-outer-reviews
 - **Status**: Success

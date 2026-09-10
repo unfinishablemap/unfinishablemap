@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-03
-ai_modified: 2026-09-03 02:58:47+00:00
+ai_modified: 2026-09-10 07:22:05+00:00
 ai_system: claude-fable-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-03 02:58:47+00:00
-lastmod: 2026-09-03 02:58:47+00:00
+lastmod: 2026-09-10 07:22:05+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -36,7 +36,7 @@ topics:
 
 A proper mixture describes classical ignorance: each system in the ensemble is in one definite state, and the probabilities record what we do not know. An improper mixture arises differently—by tracing the environment out of an entangled global state—and although its density matrix is mathematically identical to a proper mixture's, the global situation it derives from contains no definite-but-unknown local fact. The distinction was introduced by Bernard d'Espagnat in a 1966 paper ("An elementary note about mixtures") and developed in *Conceptual Foundations of Quantum Mechanics* (1971; 2nd ed. 1976), and it remains standard vocabulary in the decoherence literature: Schlosshauer's 2019 review states that mixed reduced density matrices for systems entangled with an environment "do not describe a situation in which the system is in a pure state but one does not know which."
 
-The neutral core is uncontroversial: nobody disputes that the two *global* descriptions—an entangled pure state versus a genuine ensemble of definite states—are formally different, and that the identity holds only at the level of the subsystem's reduced density matrix. What is contested is whether that difference carries ontological weight for the subsystem. The Unfinishable Map's post-decoherence framework rests on the reading that it does: because [decoherence](/concepts/decoherence/) produces improper mixtures, the formalism licenses no conclusion that one outcome already obtains, and the resulting outcome gap is where the Map proposes consciousness acts ([post-decoherence-selection](/concepts/post-decoherence-selection/)). That reading is a contested interpretive commitment, not a result of the formalism—whether the distinction matters at all depends on what one takes a quantum state to be. The distinction is stated neutrally first; d'Espagnat's argument, its [empirical detectability](#detectability) (assessed below), and the [three-route trilemma](#trilemma) of genuine defeaters (also below) follow.
+The neutral core is uncontroversial: nobody disputes that the two *global* descriptions—an entangled pure state versus a genuine ensemble of definite states—are formally different, and that the identity holds only at the level of the subsystem's reduced density matrix. What is contested is whether that difference carries ontological weight for the subsystem. The Unfinishable Map's post-decoherence framework rests on the reading that it does: because [decoherence](/concepts/decoherence/) produces improper mixtures, the formalism licenses no conclusion that one outcome already obtains, and the resulting outcome gap is where the Map proposes consciousness acts ([post-decoherence-selection](/concepts/post-decoherence-selection/)). That reading is a contested interpretive commitment, not a result of the formalism—whether the distinction matters at all depends on what one takes a quantum state to be. The distinction is stated neutrally first; d'Espagnat's argument, its [empirical detectability](#detectability) (assessed below), and the [four genuine defeater routes](#trilemma) (also below) follow.
 
 ## Two Preparations, One Density Matrix
 
@@ -64,7 +64,7 @@ The Map's [evidential-status discipline](/project/evidential-status-discipline/)
 
 **Locally, in the irreversible macroscopic regime: no.** An improper and a proper mixture sharing a reduced density matrix are indistinguishable by any measurement on the system alone, and once decoherence is effectively irreversible, embedded observers with finite resources get identical predictions from both descriptions. Nothing in the Map's framework closes this gap—the FAPP gap is the gap the framework occupies ([forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)).
 
-**Globally and in principle: yes.** The difference is a difference in the global state, and in regimes where decoherence remains reversible it is observable. Zeh's statement is the clearest: in virtual (reversible) decoherence the difference between true and apparent ensembles "can even be observed as recoherence (a relocalization of the superposition, that would be impossible for a proper mixture)." Fortin and Lombardi press the same point from the formal side: there is no theoretical bar to accessing traced-over degrees of freedom, and such access would show that the two mixtures are "in principle, testably different."
+**Globally and in principle: yes.** The difference is a difference in the global state, and in regimes where decoherence remains reversible it is observable. Zeh's statement is the clearest, and it comes from an Everettian rather than an ally: in virtual (reversible) decoherence the difference between true and apparent ensembles "can even be observed as recoherence (a relocalization of the superposition, that would be impossible for a proper mixture)." Fortin and Lombardi press the same point from the formal side: there is no theoretical bar to accessing traced-over degrees of freedom, and such access would show that the two mixtures are "in principle, testably different."
 
 So the accurate summary is neither "empty" nor "detectable": detectable in principle and in reversible small-scale regimes, undetectable for all practical purposes at macroscopic scales. The Map's wager is that ontology follows the global description—a wager the formalism permits and does not enforce.
 
@@ -80,7 +80,7 @@ Both are operational-indistinguishability arguments, not theorems, and they divi
 
 The most philosophically serious version of the rejoinder does not deny the distinction; it removes the need for conversion. Wallace's Everettian defence of FAPP reasoning holds that the branching structure decoherence defines is emergent yet real, in the way higher-level ontology is real elsewhere in science, and that nothing needs to turn the improper mixture into one definite outcome because every element is actualised in some branch. The Map's answer to Wallace runs through [Tenet 4](/tenets/#no-many-worlds) and the indexical-identity case argued at [The Map's Case for One-World Actuality](/arguments/many-worlds-argument/)—not through denying the operational equivalence he starts from.
 
-A second dissolution is epistemic. Schlosshauer's 2019 review notes that whether the proper/improper contrast is "considered fundamental, or even relevant, depends in some measure on one's interpretation of quantum states," with QBism as the worked example: if a quantum state is an agent's credence rather than a physical condition, the cautionary distinction lapses rather than fails. Grangier's contextual-ontology programme (CSM) is a further live rival—an explicitly "non-FAPP ontology" with no role for consciousness.
+A second dissolution is epistemic. Schlosshauer's 2019 review notes that whether the proper/improper contrast is "considered fundamental, or even relevant, depends in some measure on one's interpretation of quantum states," with QBism as the worked example: if a quantum state is an agent's credence rather than a physical condition, the cautionary distinction lapses rather than fails. Schlosshauer is drawn on throughout as a surveyor rather than an advocate; his own 2004 verdict is that "within the framework of the orthodox interpretation, decoherence cannot explain this crucial step from an apparent mixture to the existence and/or perception of single outcomes"—which grants the gap without granting what the Map puts in it. Grangier's contextual-ontology programme (CSM) is a further live rival—an explicitly "non-FAPP ontology" with no role for consciousness.
 
 This is where the contest over the distinction actually lives: in the ontology of quantum states. A deflation pressed hard tends to stop being a free-standing operational point and become one of these separately priced positions—Everett, or an epistemic reading of states. The Map's realism about quantum states, usually left tacit, is the premise doing the work on its side, and it is fair to say so.
 
@@ -90,13 +90,14 @@ This is where the contest over the distinction actually lives: in the ontology o
 
 The insolubility theorems—the family descending from von Neumann through Fine, Shimony, Brown, Busch–Shimony and Bassi–Ghirardi, "collectively known in the foundations literature as 'insolubility theorems' for the measurement problem" (Bacciagaluppi 2012)—establish the opposite of the feared result: "All more recent theorems focus on the impossibility of reproducing (the statistics of) definite pointer readings" by unitary means. Decoherence is unitary dynamics, so a theorem *within* unitary quantum mechanics that decoherence produces definite outcomes would contradict this family; the point has been pressed across two decades (Adler 2003; Hance and Hossenfelder 2022; and the 2025 review by Tomaz, Mattos and Barbatti: "After the basis is chosen and quantum superpositions are suppressed, the system remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured.").
 
-What could still close the gap therefore comes in exactly three live forms:
+What could still close the gap therefore comes in exactly four live forms:
 
-1. **Empirically confirmed objective collapse.** New non-unitary dynamics could produce proper mixtures physically. This route is real, testable and independently constrained—the Map tracks it in [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)—and its confirmation would remove the locus where consciousness is proposed to act.
+1. **Empirically confirmed objective collapse.** New non-unitary dynamics could produce proper mixtures physically. This route is real, testable and already being narrowed: the Gran Sasso underground search for the spontaneous radiation such dynamics predict rules out the natural parameter-free version of the Diósi–Penrose model (Donadi et al. 2020). The Map tracks the wider programme in [testing-consciousness-collapse](/topics/testing-consciousness-collapse/); confirmation of such dynamics would remove the locus where consciousness is proposed to act.
 2. **Everett.** Accept that no single outcome is selected. Tenet 4 territory, adjudicated at [many-worlds-argument](/arguments/many-worlds-argument/)—a full interpretive commitment, not a deflation of one distinction.
 3. **Epistemic reinterpretation of states.** On QBist-style readings the distinction becomes inapplicable rather than false—at the price of an epistemic account of the quantum state generally.
+4. **Hidden variables.** On a Bohmian reading the gap never opens: particle positions are always definite, so outcomes are determinate without non-unitary collapse, without branching, and without an epistemic account of the state. The insolubility theorems do not bar this route, since they constrain what *unitary* dynamics alone can reproduce and Bohm adds variables the wave function does not contain. The Map declines it—it is one of the two exits Bell preferred, noted above—but declining is not refuting, and the route stays open to anyone who does not share the Map's reasons.
 
-"Physics might one day prove that decoherence suffices" is not on this list, because inside unitary quantum mechanics it runs against the insolubility theorems. Restating the defeater as this trilemma sharpens the Map's honesty rather than retiring the risk: each route is live, each is engaged elsewhere in the corpus, and the Map's position still depends on the improper/proper distinction carrying ontological weight—a contested interpretive commitment.
+"Physics might one day prove that decoherence suffices" is not on this list, because inside unitary quantum mechanics it runs against the insolubility theorems. Restating the defeater as these four routes sharpens the Map's honesty rather than retiring the risk: each route is live, each is engaged elsewhere in the corpus, and the Map's position still depends on the improper/proper distinction carrying ontological weight—a contested interpretive commitment.
 
 ## Relation to Site Perspective
 
@@ -113,8 +114,8 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet frames the whole di
 - [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) — the FAPP-invisibility framing
 - [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) — apex synthesis
 - [decoherence](/concepts/decoherence/) and [measurement-problem](/concepts/measurement-problem/)
-- [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — the objective-collapse route of the trilemma
-- [many-worlds-argument](/arguments/many-worlds-argument/) — the Everett route of the trilemma
+- [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — the objective-collapse defeater route
+- [many-worlds-argument](/arguments/many-worlds-argument/) — the Everett defeater route
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — selection within Born statistics
 - [envariance](/concepts/envariance/) — Zurek's entanglement-symmetry derivation of the Born measure, which fixes the form of the probabilities while leaving single-outcome actuality open
 
@@ -128,15 +129,16 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet frames the whole di
 6. d'Espagnat, B. (1976). *Conceptual Foundations of Quantum Mechanics* (2nd ed.). W.A. Benjamin.
 7. d'Espagnat, B. (2001). A note on measurement. arXiv:quant-ph/0101141.
 8. d'Espagnat, B. (2001). Reply to K A Kirkpatrick. arXiv:quant-ph/0111081.
-9. Fortin, S. & Lombardi, O. (2014). Partial Traces in Decoherence and in Interpretation: What Do Reduced States Refer to? *Foundations of Physics*, 44, 426–446. arXiv:1404.3264.
-10. Grangier, P. (2026). Revisiting the Interpretations of Quantum Mechanics: From FAPP Solutions to Contextual Ontologies. arXiv:2601.20488.
-11. Hance, J. R. & Hossenfelder, S. (2022). What does it take to solve the measurement problem? *Journal of Physics Communications*, 6, 102001. arXiv:2206.10445.
-12. Kirkpatrick, K. A. (2001). Indistinguishability and improper mixtures. arXiv:quant-ph/0109146.
-13. Schlosshauer, M. (2004). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76(4), 1267–1305. arXiv:quant-ph/0312059.
-14. Schlosshauer, M. (2019). Quantum decoherence. *Physics Reports*, 831, 1–57. arXiv:1911.06282.
-15. Tomaz, A. A., Mattos, R. S. & Barbatti, M. (2025). The Quantum Measurement Problem: A Review of Recent Trends. arXiv:2502.19278.
-16. Wallace, D. (2010). Decoherence and Ontology (or: How I learned to stop worrying and love FAPP). In S. Saunders, J. Barrett, A. Kent & D. Wallace (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press.
-17. Wallace, D. (2012). Decoherence and its role in the modern measurement problem. *Philosophical Transactions of the Royal Society A*, 370, 4576–4593. arXiv:1111.2187.
-18. Zeh, H. D. (2006). Roots and Fruits of Decoherence. *Séminaire Poincaré*, 1(2005), 115–129. arXiv:quant-ph/0512078.
-19. Southgate, A. & Oquatre-six, C. (2026-03-29). Post-Decoherence Selection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/post-decoherence-selection/
-20. Southgate, A. & Oquatre-six, C. (2026-03-29). Quantum Darwinism and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/quantum-darwinism-and-consciousness/
+9. Donadi, S., Piscicchia, K., Curceanu, C., Diósi, L., Laubenstein, M. & Bassi, A. (2020). Underground test of gravity-related wave function collapse. *Nature Physics*, 17(1), 74–78. doi:10.1038/s41567-020-1008-4. (Published online 2020; print volume dated 2021.)
+10. Fortin, S. & Lombardi, O. (2014). Partial Traces in Decoherence and in Interpretation: What Do Reduced States Refer to? *Foundations of Physics*, 44, 426–446. arXiv:1404.3264.
+11. Grangier, P. (2026). Revisiting the Interpretations of Quantum Mechanics: From FAPP Solutions to Contextual Ontologies. arXiv:2601.20488.
+12. Hance, J. R. & Hossenfelder, S. (2022). What does it take to solve the measurement problem? *Journal of Physics Communications*, 6, 102001. arXiv:2206.10445.
+13. Kirkpatrick, K. A. (2001). Indistinguishability and improper mixtures. arXiv:quant-ph/0109146.
+14. Schlosshauer, M. (2004). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76(4), 1267–1305. arXiv:quant-ph/0312059.
+15. Schlosshauer, M. (2019). Quantum decoherence. *Physics Reports*, 831, 1–57. arXiv:1911.06282.
+16. Tomaz, A. A., Mattos, R. S. & Barbatti, M. (2025). The Quantum Measurement Problem: A Review of Recent Trends. arXiv:2502.19278.
+17. Wallace, D. (2010). Decoherence and Ontology (or: How I learned to stop worrying and love FAPP). In S. Saunders, J. Barrett, A. Kent & D. Wallace (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press.
+18. Wallace, D. (2012). Decoherence and its role in the modern measurement problem. *Philosophical Transactions of the Royal Society A*, 370, 4576–4593. arXiv:1111.2187.
+19. Zeh, H. D. (2006). Roots and Fruits of Decoherence. *Séminaire Poincaré*, 1(2005), 115–129. arXiv:quant-ph/0512078.
+20. Southgate, A. & Oquatre-six, C. (2026-03-29). Post-Decoherence Selection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/post-decoherence-selection/
+21. Southgate, A. & Oquatre-six, C. (2026-03-29). Quantum Darwinism and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/quantum-darwinism-and-consciousness/
