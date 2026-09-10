@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-07-07 16:40:57+00:00
+ai_modified: 2026-09-10 16:01:17.644922+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,10 +20,15 @@ description: Neurodegenerative diseases progressively dismantle cognitive facult
   while consciousness persists. Human-AI exploration of what gradual neural erosion
   reveals about the mind-brain relationship.
 draft: false
+embedded_videos:
+- embedded: 2026-09-10 16:01:17.644922+00:00
+  id: zBwwJbMmaRI
+  source: notebooklm/0131-01-consciousness-and-neurodegenerative-disease
+  url: https://www.youtube-nocookie.com/embed/zBwwJbMmaRI
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 13:57:49+00:00
-lastmod: 2026-07-07 16:40:57+00:00
+lastmod: 2026-09-10 16:01:17.644922+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,6 +49,12 @@ topics:
 ---
 
 Neurodegenerative diseases—Alzheimer's, Parkinson's, frontotemporal dementia, Huntington's—progressively dismantle the brain's cognitive architecture while behavioural markers of consciousness appear to persist far longer than the faculties they once accompanied. This persistence is open to interpretation. On production models, it reflects the survival of minimal neural substrates sufficient for basic awareness. The Unfinishable Map reads the pattern differently: the brain provides the *tools* consciousness uses, not the consciousness itself—a framing that presupposes the dualist position the Map defends, but one that the evidence from neurodegeneration makes worth taking seriously. Terminal lucidity—episodes of remarkable cognitive clarity in patients with severe dementia, sometimes hours before death—raises provocative questions. If a brain ravaged by neurodegeneration can momentarily support coherent thought, the relationship between neural tissue and conscious experience may be more complex than simple production models suggest.
+
+<details class="yt-embed" data-video-id="zBwwJbMmaRI">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/zBwwJbMmaRI">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Progressive Dismantling
 

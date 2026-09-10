@@ -1,7 +1,7 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-09-02 20:08:52+00:00
+ai_modified: 2026-09-10 16:33:00+00:00
 ai_system: claude-fable-5
 author: Andy Southgate
 concepts: []
@@ -13,7 +13,7 @@ draft: false
 human_modified: 2026-01-24
 last_curated: null
 last_deep_review: 2026-04-27 21:27:00+00:00
-lastmod: 2026-09-02 20:08:52+00:00
+lastmod: 2026-09-10 16:33:00+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
@@ -601,9 +601,9 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 
 **Slug**: `self-concealing-interface`
 
-**Subtitle**: Why the architecture the tenets force is structurally selected to hide from aggregate measurement
+**Subtitle**: Why the architecture the tenets force is structurally selected to hide from unconditioned aggregate measurement
 
-**Thesis**: If the Map's tenets are right, the mind-matter interface is not merely hard to detect — it is structurally selected to hide from ordinary aggregate measurement. Every constraint the Map accepts (conservation, no-signalling, Born statistics, the empirical record) forces the proposed conscious influence into the one register bulk instruments cannot register. The corollary, drawn out as a single thesis for the first time, is that the proper evidential route is not "find a big quantum anomaly" but "find constrained asymmetries at interface boundaries": disruption, dissociation, graded channel failure, patient-population divergence, and first-person/third-person mismatch.
+**Thesis**: If the Map's tenets are right, the mind-matter interface is structurally selected to hide from unconditioned aggregate measurement, not merely hard to detect. Every constraint the Map accepts (conservation, no-signalling, Born statistics, the empirical record) forces the proposed conscious influence into the one register bulk instruments cannot register. The corollary, drawn out as a single thesis for the first time, is that the proper evidential route is not "find a big quantum anomaly" but "find constrained asymmetries at interface boundaries": disruption, dissociation, graded channel failure, patient-population divergence, and first-person/third-person mismatch.
 
 **Source articles**:
 - tenets/tenets

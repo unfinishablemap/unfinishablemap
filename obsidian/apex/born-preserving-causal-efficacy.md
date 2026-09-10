@@ -3,7 +3,7 @@ title: "The Born-Preserving Causal-Efficacy Problem"
 created: 2026-06-22
 modified: 2026-06-22
 human_modified: null
-ai_modified: 2026-09-08T16:50:16+00:00
+ai_modified: 2026-09-10T16:33:00+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -197,7 +197,7 @@ That this challenge is recorded in the register at all, with its confidence band
 ## Related Apex Articles
 
 - [[post-decoherence-selection-programme|The Post-Decoherence Selection Programme]] — The physics-side mechanism survey that holds this dilemma as one component among five; here it is the central subject, with toy-model desiderata that survey does not develop
-- [[self-concealing-interface|The Self-Concealing Interface]] — Why the architecture the tenets force is structurally selected to hide from aggregate measurement; this problem is the cost self-concealment exacts
+- [[self-concealing-interface|The Self-Concealing Interface]] — Why the architecture the tenets force is structurally selected to hide from *unconditioned* aggregate measurement; this problem is the cost self-concealment exacts
 - [[phenomenology-mechanism-bridge|The Phenomenology-Mechanism Bridge]] — Locates the quantum-selection step in the chain from willing to agency; this is the close-up on the step that chain is most exposed at
 - [[research-programme-decisions-under-the-map|Research Programme Decisions Under the Map]] — Reads the interface positions' confidence structure as a research-priority map, which the desiderata here feed
 - [[parapsychology-firewall|The Parapsychology Firewall]] — The parapsychological face of the same problem: because the corridor preserves Born statistics and respects no-signalling, ensemble-detectable psi would falsify rather than confirm the Map

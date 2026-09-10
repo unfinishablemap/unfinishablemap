@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-09-08 16:50:16+00:00
+ai_modified: 2026-09-10 16:33:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 apex_last_synthesis: 2026-07-16 05:28:00+00:00
 apex_sources:
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 00:46:05+00:00
-lastmod: 2026-09-08 16:50:16+00:00
+lastmod: 2026-09-10 16:33:00+00:00
 modified: *id001
 related_articles:
 - '[[positions/quantum-interface]]'
@@ -204,7 +204,7 @@ That this challenge is recorded in the register at all, with its confidence band
 ## Related Apex Articles
 
 - [The Post-Decoherence Selection Programme](/apex/post-decoherence-selection-programme/) — The physics-side mechanism survey that holds this dilemma as one component among five; here it is the central subject, with toy-model desiderata that survey does not develop
-- [The Self-Concealing Interface](/apex/self-concealing-interface/) — Why the architecture the tenets force is structurally selected to hide from aggregate measurement; this problem is the cost self-concealment exacts
+- [The Self-Concealing Interface](/apex/self-concealing-interface/) — Why the architecture the tenets force is structurally selected to hide from *unconditioned* aggregate measurement; this problem is the cost self-concealment exacts
 - [The Phenomenology-Mechanism Bridge](/apex/phenomenology-mechanism-bridge/) — Locates the quantum-selection step in the chain from willing to agency; this is the close-up on the step that chain is most exposed at
 - [Research Programme Decisions Under the Map](/apex/research-programme-decisions-under-the-map/) — Reads the interface positions' confidence structure as a research-priority map, which the desiderata here feed
 - [The Parapsychology Firewall](/topics/parapsychology-firewall/) — The parapsychological face of the same problem: because the corridor preserves Born statistics and respects no-signalling, ensemble-detectable psi would falsify rather than confirm the Map
