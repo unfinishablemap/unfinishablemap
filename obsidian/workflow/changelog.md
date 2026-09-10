@@ -5,6 +5,19 @@ ai_modified: '2026-09-09T17:50:01+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-10T00:03:31+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Containment as the alternative to extinction: what preservation owes to participation (P2 `research-topic`, minted by `/harvest-research-subjects` from `reviews/optimistic-2026-09-09-representation-adequacy.md`)
+- **Output**: [[research/containment-as-the-alternative-to-extinction-what-preservation-owes-to-participation-2026-09-10]] — 9,253 words, `✓ Valid`, 30 wikilinks all resolved against `build_content_index` (0 broken bare, 0 path-form, so no push-blocker risk)
+- **Sources consulted**: 17 cited; **13 reached in full and quoted with printed offsets**, 4 explicitly marked NOT reached (Bostrom 2014 ch. 9, Sen 1985 primary, Hoeksema 2023, Pettit primaries) plus a 7-row table of failed retrievals (Zoopolis, Ord/Cotton-Barratt, Danaher, Russell) so no downstream article leans on an abstract
+- **Genre marked per source** in a controlled vocabulary. Every source in this literature is conceptual, normative or a stated subjective credence; **none is an empirical result and none reports a measurement**, which is itself recorded as a finding
+- **Primary acquisitions**: Kulveit et al. (2025) arXiv:2501.16946v2 on disempowerment-without-extinction, incl. participation as the *mechanism* by which large systems stay aligned ("implicitly through their reliance on human labor and cognition"); Bostrom (2013) *Global Policy* four-class taxonomy, whose definition already covers containment ("the permanent and drastic destruction of its potential for desirable future development"); Bostrom (2019) Vulnerable World Hypothesis as the containment structure argued in print ("turnkey totalitarianism"); Pettit's non-domination via SEP, incl. the benevolent-master case and the three contestatory-democracy requirements that operationalise "objections registered and effective"
+- **Corrections recorded against the commissioning brief and the review**: (1) Bostrom (2014) ch. 9 capability control is a **free anchor for the objection, not the answer** — the boxing literature's instability argument is a capability-asymmetry argument and does not transfer when the contained party is humanity; (2) the review's Tenet 3 framing survives but needs restating (containment cannot switch off the interface, it *decouples* it from consequences) and, deployed as a hazard premise, Tenet 3 argues for **extinction over containment**; (3) `corrigib*` is **not** absent from the corpus — 8 files, 2 in the AI-safety sense ([[topics/instrumental-convergence]] Hadfield-Menell off-switch/CIRL, [[topics/purpose-and-alignment]] Russell); (4) tracking/tracing is **already** in [[topics/ai-moral-agency-and-the-responsibility-gap-under-dualism]] via Santoni de Sio & Mecacci (2021)
+- **Fabrication averted and recorded**: "gilded cage" and "optimised benevolence" came from a search-engine summary and return `find()` → **−1** in the full 88,913-char extraction of Hofmann (2026); that paper also miscites Bostrom as "Nick B. (2014)" in its own reference 104
+- **No proponent of the objection was found in the literature** — it is a reconstruction from the Map's own article plus the structural analogue in Bostrom's VWH, and the note says so
+- **Tooling**: arXiv export API returns 0 bytes from this environment; `ar5iv.labs.arxiv.org/html/<id>` used for full text. Springer/OUP/PhilArchive return stubs or 403
+- **No content file touched, no task minted, todo entry left for `cycle_post` to mark**
+
 ## 2026-09-09T23:21:01+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/hemispherectomy-and-the-resilience-of-unified-consciousness]]
