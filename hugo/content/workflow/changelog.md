@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-10T20:42:00+00:00'
+ai_modified: '2026-09-10T21:30:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-10'
-lastmod: 2026-09-10 20:42:00+00:00
+lastmod: 2026-09-10 21:30:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-10 21:30 UTC - positions-evolve
+- **Status**: Success
+- **File**: [value-in-selection](/positions/value-in-selection/) (mode: update, [P-VS1](/positions/value-in-selection/#p-vs1) and [P-VS3](/positions/value-in-selection/#p-vs3)), [value-in-selection-calibration-history](/positions/value-in-selection-calibration-history/)
+- **Task**: P3 queue task, todo.md line 141, from refine-draft 2026-09-05 + the 2026-09-06 addendum.
+- **Task's length framing corrected before acting.** The task read "2,497 words against a 2,500 hard threshold — three words of room". `positions` thresholds are (1500, 2500, 4000); the file measured **2498, status `soft_warning`**, so 2500 is the `hard_warning` flag and `critical` sat 1502 words away. Avoiding the flag was worth paying for; it was never a wall.
+- **Primary fix — [P-VS1](/positions/value-in-selection/#p-vs1)'s *Asserts* was stale.** It said felt anticipation "forecasts poorly", a categorical claim [affective-forecasting-gap](/concepts/affective-forecasting-gap/) withdrew in its 2026-09-05 refine (verified on disk: the concept now reads "diverging from the outcome's **experienced** valence by an amount that **depends on component, forecaster and design**"). Restated to "Felt anticipation forecasts that experienced valence only conditionally well ... the error runs toward overestimation for salient negative events, its size and bearing on choice depending on component, context and design" — the concept's own summary sentence, which scopes the overestimation to duration-via-immune-neglect *and* intensity-where-focal, so the register does not narrow it to duration alone. The concept's anticipated/anticipatory cut (Loewenstein et al. 2001) already matched this entry's *presently felt* wording; nothing else moved.
+- **(a) [P-VS1](/positions/value-in-selection/#p-vs1) *Would shift if*** gains a fifth condition: felt valence at choice shown micro-valenced, with the commensurating scalar integrated *for* the choice rather than consulted at it (Shuman, Sander and Scherer 2013), retiring the currency premise while leaving [P-VS3](/positions/value-in-selection/#p-vs3) untouched.
+- **(b) [P-VS3](/positions/value-in-selection/#p-vs3) *Depends on*** now states the grain the identity needs — evaluative phenomenal character *at whatever grain the phenomenology has*, not a unitary scalar — so Labukt 2012's plural hedonic tones and Panksepp's three affect classes leave it standing.
+- **(c) *Argued in***: [valence-as-a-natural-kind](/topics/valence-as-a-natural-kind/) added to [P-VS1](/positions/value-in-selection/#p-vs1) and [P-VS3](/positions/value-in-selection/#p-vs3). It was cited **zero** times in the file before this pass (`find()` = -1).
+- **No band, grade or credence moved.** `git diff` shows no `**Calibration**` line touched on any of the four entries.
+- **Length**: 2498 -> **2496** (`soft_warning`, 4 to hard, 1504 to critical). Additions cost ~124 words; paid entirely from prose with **zero corpus dependents**: domain-header sentences that [P-VS1](/positions/value-in-selection/#p-vs1) restates in full (the mechanism-sufficiency concession, the second-coupling sentence), the entry roll-call and tenet-name glosses, [P-VS4](/positions/value-in-selection/#p-vs4)'s redundant foundational-dependency certification (the header certifies all four), a dated migration fact already held in the history file, and the relocation of [P-VS4](/positions/value-in-selection/#p-vs4)'s inline `Registered 2026-08-07` note to the history file per the file's own documented convention.
+- **Two cuts were made and then reverted, because they stranded live quotations.** `"Leaning value-sensitive without a mechanism is an aspiration, not a position": credence is *low* accordingly.` is quoted in [optimistic-2026-09-05-momentary-locus-wing](/reviews/optimistic-2026-09-05-momentary-locus-wing/) *and* is the antecedent of the *Would shift if* clause "removing the 'aspiration not position' caveat"; `The honest standing is conservative.` is quoted in [deep-review-2026-08-03-basal-and-bioelectric-cognition](/reviews/deep-review-2026-08-03-basal-and-bioelectric-cognition/). Both restored. Every surviving cut was then swept with `grep -rlF` across `obsidian/` and `hugo/content/` and confirmed to have no citer outside this file.
+- **Two house-form deltas, deliberate**: "mechanism debt logged in the quantum-interface register" -> "the open mechanism debt" (the register is still named by the anchor link closing the same paragraph) and "Full statement of the crux:" -> "Full statement:". [agency-and-will](/positions/agency-and-will/) keeps the longer forms; nothing quotes either phrase.
+- **History file**: 3344 -> 3735 (`hard_warning`, 265 to critical), holding the two new dated notes plus [P-VS4](/positions/value-in-selection/#p-vs4)'s relocated registration note.
+- **Sibling task left untouched.** todo.md L249 ([P-VS3](/positions/value-in-selection/#p-vs3): no-self objection as a second live rival, the "valenced experience for no one" shift-condition, `the-experience-requirement-on-well-being` under *Argued in*) is unedited — `find()` on `no-self`, `Lin 2021` and `for no one` all return -1 in both trees. Margin left it: 4 words in the register, 265 in the history file. That is short of what it needs, and its own note already names the fix — split the history file on the [quantum-interface-calibration-history](/positions/quantum-interface-calibration-history/) pattern before attempting it.
+- **Verification**: `scripts/sync.py` clean, `scripts/validate.py hugo/content/` = 9569/9569 valid, 0 invalid. All edits confirmed by offset in `hugo/content/` too; frontmatter compared by parsing both trees.
+- **Published**: yes
+
 
 ## 2026-09-10 21:03 UTC - refine-draft
 - **Status**: Success
