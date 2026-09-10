@@ -4,7 +4,7 @@ description: "How the conceivability argument against physicalism functions as a
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-09-09T22:03:18+00:00
+ai_modified: 2026-09-10T02:34:01+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ The master argument has a precise three-step structure:
 2. **Possibility**: What is conceivable in this way is metaphysically possible.
 3. **Non-entailment**: If such a world is possible, consciousness is not entailed by physical facts — physicalism is false.
 
-Each step is independently defensible, and each generates a distinctive class of physicalist objection. The argument's structure gains its force from this clean logical decomposition: to resist the conclusion, the physicalist must block at least one step, and every available block has been attempted, each at significant theoretical cost.
+Each step is independently defensible, and each generates a distinctive class of physicalist objection. The argument's structure gains its force from this clean logical decomposition: to resist the conclusion, the physicalist must block at least one step, and every available block has been attempted, each, on the Map's assessment, at significant theoretical cost.
 
 ## Why It Subsumes Other Arguments
 
@@ -97,7 +97,7 @@ The master argument has persisted for three decades despite sustained attempts t
 - **Denying the conceivability-possibility link** requires an error theory for phenomenal concepts that doesn't apply to other concepts — special pleading for the hardest case.
 - **Denying non-entailment** effectively concedes dualism's core claim while clinging to physicalist terminology.
 
-The argument also regenerates against sophisticated responses. The [[phenomenal-concepts-strategy|phenomenal concepts strategy]], which explains the apparent conceivability gap as a feature of how we *think about* consciousness rather than what consciousness *is*, faces a dilemma: either the special cognitive mode is itself phenomenally conscious (generating a new conceivability argument at the meta-level) or it's purely functional (and we can conceive of it without the accompanying phenomenology). The full case — including Fürst's reversal showing PCS's own framework supports dualism — is developed on that page.
+The argument also regenerates against sophisticated responses. The [[phenomenal-concepts-strategy|phenomenal concepts strategy]], which explains the apparent conceivability gap as a feature of how we *think about* consciousness rather than what consciousness *is*, faces a dilemma: either the special cognitive mode is itself phenomenally conscious (generating a new conceivability argument at the meta-level) or it's purely functional (and we can conceive of it without the accompanying phenomenology). The full case — including Fürst's reversal arguing PCS's own framework supports dualism — is developed on that page.
 
 ## Relation to Site Perspective
 
