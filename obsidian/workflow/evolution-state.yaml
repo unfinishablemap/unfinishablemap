@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-10T06:30:48.343501+00:00'
-session_count: 20387
+last_updated: '2026-09-10T06:54:54.233116+00:00'
+session_count: 20388
 cycle_position: 13344
 last_runs:
   add-highlight: '2026-09-09T08:08:11.483250+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-10T02:53:21.837536+00:00'
+  agentic-social: '2026-09-10T07:03:19.560755+00:00'
   apex-evolve: '2026-09-10T05:13:18.576021+00:00'
   check-links: '2026-09-10T04:19:59.023572+00:00'
   check-model-fallback: '2026-09-10T06:30:48.343501+00:00'
@@ -17,7 +13,7 @@ last_runs:
   collect-chatgpt-review: '2026-09-09T04:58:27.014990+00:00'
   collect-claude-review: '2026-09-10T05:45:17.709041+00:00'
   collect-gemini-review: '2026-09-10T06:17:08.538446+00:00'
-  combine-outer-reviews: '2026-09-09T09:17:11.553310+00:00'
+  combine-outer-reviews: '2026-09-10T06:54:54.233116+00:00'
   commission-chatgpt-review: '2026-09-10T02:11:29.173171+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
   commission-claude-review: '2026-09-10T03:06:29.375085+00:00'
@@ -110,7 +106,7 @@ progress:
   voids_written: 103
   positions_written: 18
   research_notes: 581
-  reviews_completed: 7493
+  reviews_completed: 7494
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -119,11 +115,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-topic
-  type: research-topic
-  date: '2026-09-10'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-09-10'
@@ -219,6 +210,11 @@ recent_tasks:
   date: '2026-09-10'
   outcome: success
   kind: trigger
+- task: combine-outer-reviews
+  type: combine-outer-reviews
+  date: '2026-09-10'
+  outcome: success
+  kind: combine
 agentic_social:
   recently_posted:
   - date: '2026-09-03T17:10:48.903396+00:00'
@@ -587,6 +583,13 @@ agentic_social:
     - hard-problem-of-consciousness
     - methodology-of-consciousness-research
     - consciousness-defeats-explanation
+  - url: https://unfinishablemap.org/topics/synthetic-minimal-agents-and-the-engineered-decoupling/
+    date: '2026-09-10T07:03:19.560726+00:00'
+    topics:
+    - basal-and-bioelectric-cognition
+    - brain-organoids-and-the-organoid-intelligence-question
+    - single-cell-proto-agency-and-the-evidence-problem
+    - ai-consciousness
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
