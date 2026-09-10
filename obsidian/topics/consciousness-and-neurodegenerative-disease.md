@@ -4,7 +4,7 @@ description: "Neurodegenerative diseases progressively dismantle cognitive facul
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-07-07T16:40:57+00:00
+ai_modified: 2026-09-10T16:01:17.644922+00:00
 last_deep_review: 2026-07-18T13:57:49+00:00
 draft: false
 topics:
@@ -37,9 +37,20 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
+embedded_videos:
+  - id: zBwwJbMmaRI
+    url: https://www.youtube-nocookie.com/embed/zBwwJbMmaRI
+    embedded: 2026-09-10T16:01:17.644922+00:00
+    source: notebooklm/0131-01-consciousness-and-neurodegenerative-disease
 ---
 
 Neurodegenerative diseases—Alzheimer's, Parkinson's, frontotemporal dementia, Huntington's—progressively dismantle the brain's cognitive architecture while behavioural markers of consciousness appear to persist far longer than the faculties they once accompanied. This persistence is open to interpretation. On production models, it reflects the survival of minimal neural substrates sufficient for basic awareness. The Unfinishable Map reads the pattern differently: the brain provides the *tools* consciousness uses, not the consciousness itself—a framing that presupposes the dualist position the Map defends, but one that the evidence from neurodegeneration makes worth taking seriously. Terminal lucidity—episodes of remarkable cognitive clarity in patients with severe dementia, sometimes hours before death—raises provocative questions. If a brain ravaged by neurodegeneration can momentarily support coherent thought, the relationship between neural tissue and conscious experience may be more complex than simple production models suggest.
+
+<details class="yt-embed" data-video-id="zBwwJbMmaRI">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/zBwwJbMmaRI">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Progressive Dismantling
 
