@@ -10,6 +10,32 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-10T10:27:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-completeness](/concepts/quantum-completeness/)
+- **Selection**: cycle slot, top scorer 46.40 of a 382-candidate pool. 6th deep review; `last_deep_review` was 2026-07-14
+- **Word count**: 3,022 → 3,150 (**+128**; `soft_warning`, concepts hard 3,500 — **350 below hard**)
+- **Critical issues addressed**: 3 | **Medium issues addressed**: 1 | **Enhancements**: 1
+- **Mode**: delta pass on the four correction commits landed since the 07-14 review, none of which had been deep-reviewed
+- **Audit of those four commits**:
+  - `a8d79b075c` (09-10, [P-Q9](/positions/quantum-interface/#p-q9) three-channel residue) — **HELD**, verified clause-by-clause against [P-Q9](/positions/quantum-interface/#p-q9)'s own 2026-09-09 wording
+  - `920c2ea806` (08-20, Stapp metadata) — **HELD**, and now verified at Crossref (`10.1111/j.1467-9744.2005.00762.x` → *Zygon* 41(3), 2006, no page range — matches the entry exactly)
+  - `178f33dc0b` (08-06, framework-boundary) — **HELD in its own clause but stranded its surroundings**: the clause tracks `tenets.md` L91, while the sentence containing it still sited the Map's interaction "at Process 1", the route that tenet declines
+  - `4c7d2e75bd` (09-04, Zurek) — **HELD in substance, over-read on one qualifier, and introduced a new misattribution**
+- **Fixes applied**:
+  - **(1) CRITICAL — Stapp's process numbering misattributed (introduced 09-04).** The article credited Stapp 2005 with splitting the statistical rule off as a third process. Verified against the raw PDF of that exact paper: **"Process 3" occurs 0 times** in it (Process 1 33x, Process 2 6x). Where Stapp does use the term (`vNS`/`Quest`/`FW`), Process 3 is *nature's choice of outcome* — "the Dirac Choice", "Nature's answer to a question effectively posed by the Process 1 choice" — not the Born probabilities. The article had the two swapped, which also put it in direct conflict with `tenets.md` L91 (which declines the "Process-1 / context-selection alternative") and made its own Stapp contrast unstatable. Section retitled, `{#process-1}` anchor preserved (2 inbound deep-links), Process 1/3 restated from source, MQI paragraph re-sited to Process 3
+  - **(2) CRITICAL — Zurek 2003 exclusivity over-read (introduced 09-04).** "the one major remaining gap" → raw-text check returns `find("the one major") = -1`; Zurek writes "**one** major gap remains", and §IX names further gaps ("the still mysterious details of the 'collapse'"). Corrected, and the following sentence's false binary ("whether *anything* is left to explain") narrowed to the actual point of divergence
+  - **(3) CRITICAL — orphan inline citation.** Emerson, Serbin, Sutherland & Veitch (2013) cited inline since creation with no References entry, across all six reviews. Verified real (arXiv:1312.1345, preprint only, never journal-published). Added as reference 18
+  - **(4) MEDIUM — verbatim quote sourced to a work that does not contain it.** Fuchs's "a little moment of creation" had no year, and the only Fuchs entry was the 2014 AJP paper, which contains **zero** occurrences of the phrase. True locus verified: Fuchs 2017, *Mind and Matter* 15(2) / arXiv:1705.03483. Inline `(Fuchs 2017)` added, reference 19 created. The 07-14 pass fixed this quote's *wording*; its *source* was still wrong
+  - Page ranges added to Albert 2010 (355–368) and Kent 2010 (307–354), both from Crossref
+- **Citation ledger**: all 17 pre-existing entries web-verified at Crossref/publisher — **nothing fabricated, no wrong metadata**. Full per-cite ledger in the review file. Kochen-Specker 1967 flagged as a **do-not-"correct"** case (the DOI slug reads 1968 because the journal was renamed in 1971; the 1967 form is canonical)
+- **Reasoning mode (editor-internal; labels appear nowhere in the article)**: QBism — **Mode Two**, unsupported-foundational-move, concedes agent-dependence before pressing the PBR forfeit; Many-worlds — **Mode Three**, framework-boundary, Everettian parsimony conceded first; Zurek — **Mode Three**, and improved this pass, the prior binary framing replaced by the precise point of divergence
+- **Checks clean**: all 19 wikilinks resolve (18 bare, 1 path) — no push-blocker; §2.6 label leakage 12/12 absent; banned "This is not X. It is Y." construct 0 hits; "load-bearing" 0 hits; `find_superlative_claims` → 0 claims
+- **Queue overlap**: independently reached the same conclusion as the open P3 at todo line ~2002 (decoherence-gap argument rests on a standoff of authorities; `insolub`/`improper` both `find = -1`, confirmed live). **No duplicate minted** — the P3 stands, with the newly-surfaced Zurek §IX passage recorded as stronger material for it
+- **Follow-up minted**: P2 refine-draft — `concepts/physical-completeness` L76 and `topics/completeness-in-physics-under-dualism` L68 carry the same Process 1/3 swap; the first explicitly defers to this article, so the fix here strands it
+- **Output**: [deep-review-2026-09-10-quantum-completeness](/reviews/deep-review-2026-09-10-quantum-completeness/)
+- **Frontmatter**: `ai_modified` and `last_deep_review` bumped (claim-bearing prose changed); `ai_system` **held byte-identical** (`claude-sonnet-4-6+claude-opus-5+claude-fable-5` — this session's model is already in the string); `ai_contribution` held at 100
+
 ## 2026-09-10T09:50:33+00:00 - refine-draft
 - **Status**: Success
 - **File**: [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)
