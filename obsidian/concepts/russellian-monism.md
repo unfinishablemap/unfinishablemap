@@ -4,7 +4,7 @@ description: "Russellian monism claims quiddities ground consciousness, but face
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-09-08T21:17:14+00:00
+ai_modified: 2026-09-10T15:36:24+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -88,7 +88,7 @@ Brian Cutter (2019) presses further: Russellian monism is not merely equivalent 
 
 ### The Epiphenomenalism Return
 
-Russellian monism was motivated partly by avoiding [[concepts/epiphenomenalism|epiphenomenalism]]—if quiddities ground physical dispositions, consciousness is causally relevant. But Howell (2015) and Robinson (2018) identify a fatal weakness: the *contingency thesis*. If quiddity Q1 grounds negative charge in the actual world but a distinct quiddity Q2 could ground the same disposition in another possible world, quiddities make no distinctive causal contribution *in virtue of their phenomenal character*. As Howell puts it, "The best [Russellian monism] can hope for is that phenomenal properties are causally relevant, but not in virtue of their phenomenality." Epiphenomenalism returns under monist vocabulary—a specific instance of [[the-epiphenomenalist-threat|the broader epiphenomenalist threat]] that the Map addresses through its quantum interaction mechanism. The [[quiddity-epiphenomenalism-and-the-contingency-thesis|contingency-thesis analysis]] unpacks why the swappable grounding relation, not merely its existence, is what makes the felt character causally idle—and why this defeater targets grounding strategies rather than the Map's delegatory route.
+Russellian monism was motivated partly by avoiding [[concepts/epiphenomenalism|epiphenomenalism]]—if quiddities ground physical dispositions, consciousness is causally relevant. But Howell (2015) and Robinson (2018) identify a fatal weakness known as the *contingency thesis*. If quiddity Q1 grounds negative charge in the actual world but a distinct quiddity Q2 could ground the same disposition in another possible world, quiddities make no distinctive causal contribution *in virtue of their phenomenal character*. As Howell puts it, "The best [Russellian monism] can hope for is that phenomenal properties are causally relevant, but not in virtue of their phenomenality." Epiphenomenalism returns under monist vocabulary—a specific instance of [[the-epiphenomenalist-threat|the broader epiphenomenalist threat]] that the Map addresses through its quantum interaction mechanism. The [[quiddity-epiphenomenalism-and-the-contingency-thesis|contingency-thesis analysis]] unpacks why the swappable grounding relation, not merely its existence, is what makes the felt character causally idle—and why this defeater targets grounding strategies rather than the Map's delegatory route.
 
 ### The Map's Advantages
 

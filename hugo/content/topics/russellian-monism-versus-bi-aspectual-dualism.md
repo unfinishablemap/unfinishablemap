@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-09-08 21:17:14+00:00
+ai_modified: 2026-09-10 15:36:24+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-09 10:17:33+00:00
-lastmod: 2026-09-08 21:17:14+00:00
+lastmod: 2026-09-10 15:36:24+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -75,7 +75,7 @@ In Cutter's framing, Russellian monism offers no comfortable resting place: one 
 
 ### The Epiphenomenalism Return
 
-Russellian monism was motivated partly by avoiding [epiphenomenalism](/concepts/epiphenomenalism/). If quiddities ground physical dispositions, consciousness is causally relevant — or so the argument goes. Howell (2015) identifies the flaw: the *contingency thesis*. If quiddity Q1 grounds negative charge in the actual world but a different quiddity Q2 could ground it in another possible world, then quiddities make no distinctive causal contribution *in virtue of their phenomenal character*. "The best [Russellian monism] can hope for is that phenomenal properties are causally relevant, but not in virtue of their phenomenality" (Howell 2015). Epiphenomenalism returns wearing monist vocabulary. The [dedicated treatment of quiddity epiphenomenalism](/concepts/quiddity-epiphenomenalism-and-the-contingency-thesis/) develops *why* the swappable grounding drains phenomenal character of causal relevance, what the necessitarian escape costs, and why the Map's delegatory causation does not inherit this defeater.
+Russellian monism was motivated partly by avoiding [epiphenomenalism](/concepts/epiphenomenalism/). If quiddities ground physical dispositions, consciousness is causally relevant — or so the argument goes. Howell (2015) identifies the flaw known as the *contingency thesis*. If quiddity Q1 grounds negative charge in the actual world but a different quiddity Q2 could ground it in another possible world, then quiddities make no distinctive causal contribution *in virtue of their phenomenal character*. "The best [Russellian monism] can hope for is that phenomenal properties are causally relevant, but not in virtue of their phenomenality" (Howell 2015). Epiphenomenalism returns wearing monist vocabulary. The [dedicated treatment of quiddity epiphenomenalism](/concepts/quiddity-epiphenomenalism-and-the-contingency-thesis/) develops *why* the swappable grounding drains phenomenal character of causal relevance, what the necessitarian escape costs, and why the Map's delegatory causation does not inherit this defeater.
 
 ### The Parity Problem
 
@@ -145,7 +145,7 @@ This comparison engages all five of the Map's [tenets](/tenets/):
 
 **Minimal Quantum Interaction**: The Map identifies a specific interface — quantum indeterminacy — where consciousness acts. Russellian monism provides no comparable mechanism. Quiddities "play indispensable roles in physical causation" remains schematic.
 
-**Bidirectional Interaction**: The Map gives consciousness genuine work: selecting among undetermined outcomes. Russellian monism's identity thesis leaves nothing for consciousness to *do* beyond constituting intrinsic nature. The contingency thesis (Howell 2015) shows this constitution may be epiphenomenal.
+**Bidirectional Interaction**: The Map gives consciousness genuine work: selecting among undetermined outcomes. Russellian monism's identity thesis leaves nothing for consciousness to *do* beyond constituting intrinsic nature. The contingency thesis shows this constitution may be epiphenomenal (Howell 2015).
 
 **No Many Worlds**: Russellian monism's interpretation-neutrality reveals its agnosticism about consciousness's causal role at measurement — assigning consciousness no role at collapse, it bars no interpretation, many-worlds included. The Map's rejection of many-worlds follows from its ontology: if consciousness actualises possibilities, coexisting branches are ruled out.
 
