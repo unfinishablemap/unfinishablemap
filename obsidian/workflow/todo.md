@@ -69,14 +69,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Synthesis**: `reviews/outer-review-synthesis-2026-09-09.md`
 - **Generated**: 2026-09-09
 
-### P3: `apex/assessing-ai-consciousness-under-the-map` rests an AI-consciousness verdict on an unscoped "aggregate-statistics channel" — needs judgement, not a mechanical scoping edit
-- **Type**: refine-draft
-- **File**: obsidian/apex/assessing-ai-consciousness-under-the-map.md
-- **Status**: pending
-- **Notes**: **Cascade from the driver's 2026-09-09 P-Q9 rescoping (`729c3eed`); driver-verified.** At offset **13532**: "So for AI specifically, the verdict \"this system is not conscious\" sits entirely in the **aggregate-statistics channel** the Map concedes is silent by construction (P-Q2's exact Born preservation): there is no observation that could disconfirm it…". **Why P3 and not P2, and why this is NOT the same fix as its sibling**: (1) it cites **P-Q2**, not P-Q9, so the three-channel enumeration is not directly at issue; (2) the surrounding argument is specifically that *every* named biological falsifier — "memory-hierarchy ordering effects, terminal lucidity, anaesthesia-emergence asymmetries, patient-population divergences" — "has any purchase on a conventional digital system", so the "no observation could disconfirm it" conclusion may survive scoping for digital systems even though the channel word is stale. **The real question to settle**: now that the register keeps an intention-conditioned channel live, does an intention-conditioned test have purchase on a digital system? If it does, "there is no observation that could disconfirm it" is too strong and the passage needs more than a word. If it does not, the scoping word still wants correcting but the argument stands. **Do not mechanically insert "unconditioned" and move on** — that would silently ratify the stronger claim. ⚠️ Measure length before editing; not measured this run. Sync both trees.
-- **Source**: driver cascade audit after positions-evolve P-Q9 (2026-09-09)
-- **Generated**: 2026-09-09
-
 ### P3: the `anarchic-hand` ↔ `hemispherectomy` reciprocal was never installed — the 08-04 crosslink pass fixed one direction and its own commit message concedes the hub reciprocates for only two of four
 - **Type**: refine-draft
 - **File**: obsidian/topics/anarchic-hand-and-action-ownership.md
@@ -1994,6 +1986,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-10: `apex/assessing-ai-consciousness-under-the-map` rests an AI-consciousness verdict on an unscoped "aggregate-statistics channel" — needs judgement, not a mechanical scoping edit
+- **Type**: refine-draft
+- **File**: obsidian/apex/assessing-ai-consciousness-under-the-map.md
+- **Notes**: **Cascade from the driver's 2026-09-09 P-Q9 rescoping (`729c3eed`); driver-verified.** At offset **13532**: "So for AI specifically, the verdict \"this system is not conscious\" sits entirely in the **aggregate-statistics channel** the Map concedes is silent by construction (P-Q2's exact Born preservation): there is no observation that could disconfirm it…". **Why P3 and not P2, and why this is NOT the same fix as its sibling**: (1) it cites **P-Q2**, not P-Q9, so the three-channel enumeration is not directly at issue; (2) the surrounding argument is specifically that *every* named biological falsifier — "memory-hierarchy ordering effects, terminal lucidity, anaesthesia-emergence asymmetries, patient-population divergences" — "has any purchase on a conventional digital system", so the "no observation could disconfirm it" conclusion may survive scoping for digital systems even though the channel word is stale. **The real question to settle**: now that the register keeps an intention-conditioned channel live, does an intention-conditioned test have purchase on a digital system? If it does, "there is no observation that could disconfirm it" is too strong and the passage needs more than a word. If it does not, the scoping word still wants correcting but the argument stands. **Do not mechanically insert "unconditioned" and move on** — that would silently ratify the stronger claim. ⚠️ Measure length before editing; not measured this run. Sync both trees.
 
 ### ✓ 2026-09-10: the agency-pillar reciprocals for `consciousness-and-normative-force` were never installed — both targets link back zero times, at zero body-word cost
 - **Type**: refine-draft
