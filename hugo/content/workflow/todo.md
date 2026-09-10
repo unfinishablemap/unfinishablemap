@@ -71,14 +71,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Synthesis**: `reviews/outer-review-synthesis-2026-09-09.md`
 - **Generated**: 2026-09-09
 
-### P3: four remaining unscoped "aggregate" surfaces outside the Warning 6 scope, one carrying the banned "not merely X, it is Y" construct
-- **Type**: refine-draft
-- **File**: obsidian/apex/apex-articles.md
-- **Status**: pending
-- **Notes**: Found by sibling sweep during the 2026-09-09 Warning 6 closure; all four were outside that task's four-file scope and are individually milder than the six loci fixed. (1) `obsidian/apex/apex-articles.md` L601 Subtitle and L603 Thesis — file `unconditioned` count 0; the Thesis still reads "is not merely hard to detect — it is structurally selected to hide from ordinary aggregate measurement", which is both the CLAUDE.md-banned construct and drifted from the live `apex_thesis` of `self-concealing-interface`, which was rewritten on 2026-09-09. This is a hand-maintained index (`author: Andy Southgate`, `ai_contribution: 40`, 12,648 words, `critical`) owned by apex-evolve, so it needs its own pass. (2) `obsidian/apex/born-preserving-causal-efficacy.md` L200 — a see-also blurb mirroring the old subtitle, "structurally selected to hide from aggregate measurement". (3) `obsidian/apex/self-concealing-interface.md` L165 — "the source of the architecture's invisibility to aggregate tests"; elliptical rather than false given L77 and L87 now scope explicitly, and left alone this run because that file was held at net zero words against its cap. (4) `obsidian/concepts/causal-closure.md` L146 — "If consciousness's influence is statistically invisible in aggregate measurements, critics ask whether..."; file `unconditioned` count 0, but it states an objection rather than the Map's own scope commitment, so check the reply below it before touching the setup. Verified careful and explicitly NOT to be edited: `concepts/ensemble-level-epiphenomenalism` L69, `topics/interventionist-and-counterfactual-dualism` L106, `topics/born-rule-and-the-consciousness-interface` L207, `concepts/agency-budget` (whole file), `apex/dualism-cartography` L105.
-- **Source**: refine-draft (Warning 6 closure, 2026-09-09)
-- **Generated**: 2026-09-09
-
 ### P3: the agency-pillar reciprocals for `consciousness-and-normative-force` were never installed — both targets link back zero times, at zero body-word cost
 - **Type**: refine-draft
 - **File**: obsidian/topics/moral-implications-of-genuine-agency.md
@@ -2012,6 +2004,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-10: four remaining unscoped "aggregate" surfaces outside the Warning 6 scope, one carrying the banned "not merely X, it is Y" construct
+- **Type**: refine-draft
+- **File**: obsidian/apex/apex-articles.md
+- **Notes**: Found by sibling sweep during the 2026-09-09 Warning 6 closure; all four were outside that task's four-file scope and are individually milder than the six loci fixed. (1) `obsidian/apex/apex-articles.md` L601 Subtitle and L603 Thesis — file `unconditioned` count 0; the Thesis still reads "is not merely hard to detect — it is structurally selected to hide from ordinary aggregate measurement", which is both the CLAUDE.md-banned construct and drifted from the live `apex_thesis` of `self-concealing-interface`, which was rewritten on 2026-09-09. This is a hand-maintained index (`author: Andy Southgate`, `ai_contribution: 40`, 12,648 words, `critical`) owned by apex-evolve, so it needs its own pass. (2) `obsidian/apex/born-preserving-causal-efficacy.md` L200 — a see-also blurb mirroring the old subtitle, "structurally selected to hide from aggregate measurement". (3) `obsidian/apex/self-concealing-interface.md` L165 — "the source of the architecture's invisibility to aggregate tests"; elliptical rather than false given L77 and L87 now scope explicitly, and left alone this run because that file was held at net zero words against its cap. (4) `obsidian/concepts/causal-closure.md` L146 — "If consciousness's influence is statistically invisible in aggregate measurements, critics ask whether..."; file `unconditioned` count 0, but it states an objection rather than the Map's own scope commitment, so check the reply below it before touching the setup. Verified careful and explicitly NOT to be edited: `concepts/ensemble-level-epiphenomenalism` L69, `topics/interventionist-and-counterfactual-dualism` L106, `topics/born-rule-and-the-consciousness-interface` L207, `concepts/agency-budget` (whole file), `apex/dualism-cartography` L105.
 
 ### ✓ 2026-09-10: `topics/structure-of-attention` L3 description says the architecture "reveals" where consciousness does causal work, while its own body says "might" and "could" — one line, zero word cost
 - **Type**: refine-draft
