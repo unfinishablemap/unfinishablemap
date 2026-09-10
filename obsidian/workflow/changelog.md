@@ -5,6 +5,26 @@ ai_modified: '2026-09-10T07:22:05+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-10T07:54:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/neural-refresh-rates-and-the-smoothness-problem]]
+- **Selector**: top scorer, 50.77, from a 382-candidate pool. Grounds were staleness (33 days), not the delta — the single commit since the 2026-08-08 review (178894194d) was a pre-verified two-line relabel, not re-audited and not reverted per driver instruction.
+- **Lens**: the 2026-08-08 review's own closing suggestion — phenomenological primary texts (James, Bergson, Dainton), never verified on this article — plus empirical-record currency. Both paid.
+- **Word count**: prose 2,787 → 2,925 (+138; topics soft 3,000 / hard 4,000 — printed via `tools.curate.length.analyze_length`, not quoted). 75 words of prose headroom left. Raw figure 3,151 → 3,390 `soft_warning` is the reference-apparatus false positive; apparatus is 472 of it.
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Headline finding**: the James "rainbow on the waterfall" quote had the wrong grammatical subject — and the error was *introduced by this article's own 2026-03-17 deep review*, which recorded changing "specious present" to "consciousness" as a fix. Primary text (Gutenberg #57628, *Principles* Vol. 1, Ch. XV "The Perception of Time", offset 1461429) reads "**the specious present, the intuited duration,** stands permanent, like the rainbow on the waterfall". Ten subsequent reviews inherited it because it was logged as a resolution. Every sibling locus had it right — this file was the sole divergence, so no sweep was needed.
+- **Also fixed**: lead contradicted the body on the evidential status of discrete perception ("confirm… all reveal periodic sampling" against the body's "the part still under argument") — a navigation-surface divergence in the truncation-critical lead; and the flash-lag effect was cited as evidence of a perceptual sampling rate, which the best current direct test refutes.
+- **Citation added**: Cottier, T., Turner, W., Chae, V.J., Holcombe, A.O., & Hogendoorn, H. (2025), *European Journal of Neuroscience* 62(9), e70250, doi:10.1111/ejn.70250 — every field verified at Crossref this run, raw JATS abstract read in full rather than via a summariser. N=61, seven motion-position illusions, "no evidence for a correlation between IAF and the magnitude of any MPIs". Scope held tight: this refutes *alpha-linked* sampling for the motion-illusion family only, not discrete perception generally, and the article says so.
+- **Downgraded, not deleted**: Dainton's "interconnected flowing whole" traces to the Routledge/Blackwell's book synopsis, not his prose — PUBLISHER-CATALOGUE-COPY. No absence claim made about the book body (primary text not openly accessible); quotation marks removed, claim kept as paraphrase, provenance noted in the reference.
+- **Cleared at primary text**: Bergson. Gutenberg #26163, Ch. IV titled "THE CINEMATOGRAPHICAL MECHANISM OF THOUGHT AND THE MECHANISTIC ILLUSION"; paraphrase, chapter, translator, dating and imprint all faithful. The one phenomenological citation that was already right.
+- **Engagement classification** (editor-internal): functionalism — Mode Two, unsupported foundational move; illusionism (Frankish, Dennett) — Mode Two; higher-order / global workspace — Mode Three, boundary marking. No boundary-substitution, no label leakage (nine forbidden tokens all −1).
+- **Frontmatter**: bumped `ai_modified` and `last_deep_review` (claim-bearing prose changed, so not a no-op). Held `ai_system: claude-opus-4-6` — not flipped to the reviewing model, per the article-keeps-its-originating-model convention; the reviewing model is recorded on the review file instead.
+- **References**: 13 → 14 entries, Cottier at correct alphabetical position (Cottier < Crick), sequence re-verified 1–14 no duplicates. Safe: zero numeric cross-references in the body, independently re-checked this run.
+- **Links**: no new wikilinks introduced — zero push-blocker risk. Both trees synced and verified by offset.
+- **Output**: [[reviews/deep-review-2026-09-10-neural-refresh-rates]]
+
 ## 2026-09-10T07:37:09+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/improper-vs-proper-mixtures]]

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-09-10 03:22:27+00:00
+ai_modified: 2026-09-10 07:54:35+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -21,8 +21,8 @@ description: Discrete neural oscillations at 7-13 Hz clash with smooth conscious
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-08-08 03:32:13+00:00
-lastmod: 2026-09-10 03:22:27+00:00
+last_deep_review: 2026-09-10 07:54:35+00:00
+lastmod: 2026-09-10 07:54:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,13 +40,15 @@ topics:
 - '[[the-binding-problem]]'
 ---
 
-The brain samples the world periodically rather than continuously. Neural oscillations sample at roughly 7–13 Hz — a sensory alpha rhythm near 10 Hz alongside a slower attentional rhythm near 7 Hz — and may bind features at ~40 Hz gamma frequencies. Perceptual experiments confirm these biological "refresh rates" — the flash-lag effect, attentional blink, and wagon-wheel illusion under continuous lighting all reveal periodic sampling rather than continuous monitoring. Yet conscious experience feels seamless. There are no flickers, no dropped frames, no visible gaps between perceptual moments. The Unfinishable Map calls this mismatch the *smoothness problem*: how does continuous phenomenal experience arise from a substrate that operates in discrete cycles? The smoothness problem is not a standalone argument for dualism — it is a concrete, empirically grounded instance of the [explanatory gap](/concepts/explanatory-gap/) between physical processes and phenomenal character. What makes it distinctive is its specificity: where the hard problem can seem abstract, the smoothness problem points to a measurable property of neural processing (discreteness) and a specific phenomenal feature (continuity) that pull in opposite directions.
+The brain samples the world periodically rather than continuously. Neural oscillations sample at roughly 7–13 Hz — a sensory alpha rhythm near 10 Hz alongside a slower attentional rhythm near 7 Hz — and may bind features at ~40 Hz gamma frequencies. That the sampling is rhythmic is well evidenced — detection of brief stimuli varies with alpha phase, and the attentional blink exposes a refractory period in conscious access. Whether that rhythmicity amounts to genuinely *discrete* perception remains contested. Yet conscious experience feels seamless. There are no flickers, no dropped frames, no visible gaps between perceptual moments. The Unfinishable Map calls this mismatch the *smoothness problem*: how does continuous phenomenal experience arise from a substrate that operates in discrete cycles? The smoothness problem is not a standalone argument for dualism — it is a concrete, empirically grounded instance of the [explanatory gap](/concepts/explanatory-gap/) between physical processes and phenomenal character. What makes it distinctive is its specificity: where the hard problem can seem abstract, the smoothness problem points to a measurable property of neural processing (discreteness) and a specific phenomenal feature (continuity) that pull in opposite directions.
 
 ## The Neural Evidence for Discrete Processing
 
 The brain does not monitor the world continuously. VanRullen's review of perceptual cycles gathers the evidence that perception operates rhythmically through more than one oscillatory channel: a sensory alpha rhythm (~10 Hz) coexisting with at least one slower rhythm performing attentional sampling at around 7 Hz, which divides further when attention is split across objects. VanRullen states the inference conditionally rather than as a finding — brain function involves oscillations at various frequencies, and "this could imply that perception and cognition operate periodically, as a succession of cycles mirroring the underlying oscillations." He presents discrete perception as an age-old notion that has resurfaced on the strength of newer techniques, and closes by noting that how these multiple periodic functions are orchestrated, and how internal rhythms coordinate with overt sampling behaviour, "remain open questions." The rhythmicity of sampling is well evidenced; the inference from rhythmic sampling to genuinely discrete perception is the part still under argument.
 
 This periodicity has measurable consequences. At unfavourable phases of the alpha cycle, brief stimuli are less likely to reach awareness. Reaction times fluctuate rhythmically. The attentional blink — the inability to detect a second target presented 200–500 ms after the first — reveals a refractory period in conscious access that mirrors oscillatory timing.
+
+The motion illusions once recruited as direct evidence of a sampling *rate* have fared less well. Cottier and colleagues tested seven of them — the flash-lag effect among them — against resting-state individual alpha frequency in 61 participants, found no correlation with any, and concluded that alpha-linked discrete sampling does not underlie this family of effects (Cottier et al. 2025). The rhythmic-sampling findings above stand; what falls is the inference from these illusions to an alpha-rate perceptual clock.
 
 At a faster timescale, gamma-band synchrony (~40 Hz) was proposed by Crick and Koch as the mechanism for binding distributed neural representations into unified percepts. Each 25 ms gamma cycle constitutes a candidate "frame" of perceptual integration. The hypothesis attracted decades of research, but its strong form has weakened: gamma oscillations persist during anaesthesia and seizures, states without normal consciousness. Synchrony correlates with awareness but does not explain it. These same Hz figures recur in [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/), where the ~25 ms gamma cycle and the ~500 ms frontal theta band bound which quantum mechanisms could plausibly influence neural timing.
 
@@ -64,11 +66,11 @@ On its authors' own assessment the two-stage model resolves the continuous-versu
 
 Against the neuroscientific evidence for discrete processing stands a long phenomenological tradition insisting that experience is fundamentally continuous.
 
-William James described consciousness as standing "like the rainbow on the waterfall, with its own quality unchanged by the events that stream through it." For James, the stream of consciousness was not a metaphor but a description of how experience actually presents itself — as unbroken flow rather than punctuated snapshots.
+William James put the continuity claim directly: consciousness "does not appear to itself chopped up in bits… It is nothing jointed; it flows." For James this described how experience presents itself rather than offering a metaphor — unbroken flow rather than punctuated snapshots. His better-known waterfall image is often enlisted here for more than it says: what "stands permanent, like the rainbow on the waterfall, with its own quality unchanged by the events that stream through it" is *the specious present*, a window of felt duration whose contents change while the window itself persists — an image as congenial to the two-stage model's "time slice" as to continuity. Nothing below leans on it.
 
 Bergson went further. In *Creative Evolution* (1907), he argued that the intellect works *cinematographically* — taking snapshots of reality and generating the illusion of movement — but that this mechanism distorts genuine *durée* (lived duration). Real temporal experience is continuous and indivisible. Discreteness belongs to intellectual analysis, not to experience itself. On Bergson's view, asking how the brain constructs continuity from discrete inputs gets the question backwards: continuity is primary, and discreteness is an artifact of how we study it.
 
-Dainton's systematic phenomenology of temporal experience reinforces this position. He argues that the stream of consciousness is an "interconnected flowing whole" whose dynamic patterning is a primitive feature — not something derived from more basic discrete elements.
+Dainton's systematic phenomenology of temporal experience reinforces this position. On his account the stream is an interconnected flowing whole whose dynamic patterning is a primitive feature, not something derived from more basic discrete elements.
 
 The phenomenological evidence creates a genuine puzzle. If experience is intrinsically continuous, and the neural substrate is intrinsically discrete, then continuity cannot be a property of the substrate. It must come from somewhere else.
 
@@ -88,7 +90,7 @@ Physicalists offer several mechanisms for bridging the discrete-to-continuous ga
 
 These mechanisms are computationally plausible. They explain how the brain could produce *behaviour* that appears responsive to continuous input even when sampling is discrete. An organism that interpolates between perceptual frames can catch a ball or track a moving predator without perceiving every intermediate position.
 
-The question is whether these mechanisms also explain the *experience* of smoothness. A digital display refreshing at 120 Hz produces smooth-looking motion, but nobody supposes the display experiences smoothness — the smoothness exists for the viewer, not the screen. This analogy has limits, however: the brain is not a display with a separate viewer. The question is whether the right kind of neural processing can *constitute* smooth experience rather than merely producing smooth outputs.
+The question is whether these mechanisms also explain the *experience* of smoothness. A digital display refreshing at 120 Hz produces smooth-looking motion, but nobody supposes the display experiences smoothness — the smoothness exists for the viewer, not the screen. The analogy has limits, since the brain is not a display with a separate viewer; what it isolates is whether the right kind of neural processing can *constitute* smooth experience rather than merely produce smooth outputs.
 
 ## The Functionalist Response
 
@@ -96,7 +98,7 @@ Functionalism offers a direct answer: experience is constituted by functional or
 
 This is a coherent position and the strongest physicalist response to the smoothness problem. If functionalism is correct, the discrete-to-continuous transition is not mysterious: the brain implements a function that maps discrete inputs to continuous-seeming experiential states, and that implementation exhausts the explanation.
 
-Yet the dissolution helps itself to the very step the smoothness problem isolates. The functionalist identifies the felt continuity with the functional role of *registering* continuity — the brain's states that play the part of smooth temporal experience in the cognitive economy. But registering continuity and *feeling* it continuous are not obviously the same thing: a system can carry a state that functions to mark "no perceptible gap here" without that marking being a phenomenally smooth seeming. The functionalist owes an account of why the registering is itself felt, and that account is exactly what the identification stipulates rather than supplies. So the smoothness problem retains its force: the functional story explains the *role* of smooth experience — what the continuity-registering state does in the cognitive economy — but not why occupying that role is *like* anything at all. The felt continuity of consciousness remains unexplained even after all functional relations are specified. The Map's wider case against functionalism, developed across its treatment of the [hard problem](/topics/hard-problem-of-consciousness/) and [qualia](/concepts/qualia/), generalises this point: two systems with identical functional profiles could, in principle, differ in phenomenal character — or one could lack experience entirely.
+Yet the dissolution helps itself to the very step the smoothness problem isolates. The functionalist identifies the felt continuity with the functional role of *registering* continuity — the brain's states that play the part of smooth temporal experience in the cognitive economy. But registering continuity and *feeling* it continuous are not obviously the same thing: a system can carry a state that functions to mark "no perceptible gap here" without that marking being a phenomenally smooth seeming. The functionalist owes an account of why the registering is itself felt, and that account is exactly what the identification stipulates rather than supplies. So the smoothness problem retains its force: the functional story explains the *role* of smooth experience but not why occupying that role is *like* anything at all. The felt continuity of consciousness remains unexplained even after all functional relations are specified. The Map's wider case against functionalism, developed across its treatment of the [hard problem](/topics/hard-problem-of-consciousness/) and [qualia](/concepts/qualia/), generalises this point: two systems with identical functional profiles could, in principle, differ in phenomenal character — or one could lack experience entirely.
 
 Rather than functioning as an independent argument for dualism, the smoothness problem is an instance of the broader dispute between functionalists and their critics, made vivid by the empirical specificity of neural discreteness. Those who find functionalism satisfying will find the smoothness problem dissolved. Those who do not will find it a particularly concrete illustration of what the explanatory gap looks like in practice.
 
@@ -143,15 +145,16 @@ The Map's [grain mismatch evidence programme](/topics/grain-mismatch-as-independ
 ## References
 
 1. Bergson, H. (1907/1911). *Creative Evolution*, Chapter 4. Arthur Mitchell (trans.). New York: Henry Holt.
-2. Crick, F., & Koch, C. (1990). Towards a neurobiological theory of consciousness. *Seminars in the Neurosciences*, 2, 263–275.
-3. Dainton, B. (2000/2006). *Stream of Consciousness: Unity and Continuity in Conscious Experience*. London: Routledge.
-4. Herzog, M.H., Drissi-Daoudi, L., & Doerig, A. (2020). All in Good Time: Long-Lasting Postdictive Effects Reveal Discrete Perception. *Trends in Cognitive Sciences*, 24(10), 826–837. https://doi.org/10.1016/j.tics.2020.07.001
-5. Herzog, M.H., Kammer, T., & Scharnowski, F. (2016). Time Slices: What Is the Duration of a Percept? *PLoS Biology*, 14(4), e1002433. https://doi.org/10.1371/journal.pbio.1002433 — source of the ~400 ms unconscious-integration figure and the "time slice" framing. The Herzog quotation above is from the accompanying EPFL press release, "How the brain produces consciousness in 'time slices'" (12 April 2016), not from the paper itself.
-6. James, W. (1890). *The Principles of Psychology*. New York: Henry Holt.
-7. Lee, A. Y. (forthcoming). Consciousness and Continuity. *Philosophical Studies*. Preprint: PhilArchive (LEECAC-14). University of Toronto.
-8. Locke, J. (1689). *An Essay Concerning Human Understanding*, Book II, Chapter 1. London: Thomas Bassett.
-9. Sellars, W. (1962). Philosophy and the Scientific Image of Man. In R. Colodny (Ed.), *Frontiers of Science and Philosophy* (pp. 35–78). Pittsburgh: University of Pittsburgh Press. Reprinted in *Science, Perception and Reality* (1963).
-10. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735. https://doi.org/10.1016/j.tics.2016.07.006
-11. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. https://doi.org/10.1016/j.neuron.2024.11.008
-12. Southgate, A. & Oquatre-six, C. (2026-01-23). Temporal Consciousness: Structure and Agency. *The Unfinishable Map*. https://unfinishablemap.org/topics/temporal-consciousness-structure-and-agency/
-13. Southgate, A. & Oquatre-six, C. (2026-02-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-binding-problem/
+2. Cottier, T., Turner, W., Chae, V.J., Holcombe, A.O., & Hogendoorn, H. (2025). No Evidence That Resting-State Individual Alpha Frequency Represents a Mechanism Underlying Motion-Position Illusions. *European Journal of Neuroscience*, 62(9), e70250. https://doi.org/10.1111/ejn.70250
+3. Crick, F., & Koch, C. (1990). Towards a neurobiological theory of consciousness. *Seminars in the Neurosciences*, 2, 263–275.
+4. Dainton, B. (2000/2006). *Stream of Consciousness: Unity and Continuity in Conscious Experience*. London: Routledge. — the "interconnected flowing whole" phrasing is the publisher's synopsis of the thesis, not a quotation from the text; paraphrased above.
+5. Herzog, M.H., Drissi-Daoudi, L., & Doerig, A. (2020). All in Good Time: Long-Lasting Postdictive Effects Reveal Discrete Perception. *Trends in Cognitive Sciences*, 24(10), 826–837. https://doi.org/10.1016/j.tics.2020.07.001
+6. Herzog, M.H., Kammer, T., & Scharnowski, F. (2016). Time Slices: What Is the Duration of a Percept? *PLoS Biology*, 14(4), e1002433. https://doi.org/10.1371/journal.pbio.1002433 — source of the ~400 ms unconscious-integration figure and the "time slice" framing. The Herzog quotation above is from the accompanying EPFL press release, "How the brain produces consciousness in 'time slices'" (12 April 2016), not from the paper itself.
+7. James, W. (1890). *The Principles of Psychology*, Vol. 1. New York: Henry Holt. — the "chopped up in bits… nothing jointed; it flows" passage is Ch. IX ("The Stream of Thought"); the "rainbow on the waterfall" sentence is Ch. XV ("The Perception of Time") and its grammatical subject is *the specious present, the intuited duration*, not consciousness at large.
+8. Lee, A. Y. (forthcoming). Consciousness and Continuity. *Philosophical Studies*. Preprint: PhilArchive (LEECAC-14). University of Toronto.
+9. Locke, J. (1689). *An Essay Concerning Human Understanding*, Book II, Chapter 1. London: Thomas Bassett.
+10. Sellars, W. (1962). Philosophy and the Scientific Image of Man. In R. Colodny (Ed.), *Frontiers of Science and Philosophy* (pp. 35–78). Pittsburgh: University of Pittsburgh Press. Reprinted in *Science, Perception and Reality* (1963).
+11. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735. https://doi.org/10.1016/j.tics.2016.07.006
+12. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. https://doi.org/10.1016/j.neuron.2024.11.008
+13. Southgate, A. & Oquatre-six, C. (2026-01-23). Temporal Consciousness: Structure and Agency. *The Unfinishable Map*. https://unfinishablemap.org/topics/temporal-consciousness-structure-and-agency/
+14. Southgate, A. & Oquatre-six, C. (2026-02-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-binding-problem/
