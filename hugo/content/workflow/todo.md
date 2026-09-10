@@ -2018,15 +2018,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: optimistic-review (2026-09-09 representation adequacy)
 - **Generated**: 2026-09-09
 
-### P2: Does Quantum Darwinism's redundant environmental record constrain post-decoherence selection? Test the argument before importing it
-- **Type**: research-topic
-- **Status**: pending
-- **File**: obsidian/topics/quantum-darwinism-and-consciousness.md
-- **Notes**: From outer review 2026-09-10 (Gemini 2.5 Pro). **Stated as a hypothesis to test, not a defect to fix** — the review asserts this argument without citing any source for it, and its citation record in this review was poor (3 of 5 headline weaknesses rested on unverified or misdated sources; see the review's `## Verification Notes`). **THE ARGUMENT:** in Quantum Darwinism the environment does not merely absorb phase information, it proliferates redundant copies of the system's pointer states, and the objectivity of an outcome is enforced by many observers being able to read disjoint environment fragments and agree. If that is right, then a selecting principle acting *after* decoherence faces a constraint the Map has not addressed: the records already exist and are already redundant, so selecting an outcome at that point would seem to require altering many independent fragments coherently — which sits badly with the Map's own Minimal Quantum Interaction tenet, since it is the opposite of a minimal intervention. **WHY IT IS WORTH TESTING:** if the argument holds it is a sharp, tenet-internal objection — the Map's own commitment to minimality would be doing the damage, not an external premise. If it fails, the reason it fails is worth stating in the article, because the objection is natural enough that other readers will raise it. **WHAT TO CHECK:** whether redundancy in QD is established *before* or *as part of* the process the Map calls selection — the review assumes "already", and the timing is the whole argument. `topics/quantum-darwinism-and-consciousness` (3015 words, `soft_warning`, 15 past the 3000 topics soft threshold) already treats QD and already carries the three-live-routes wording flagged in the sibling Claude-review P1 task, so **coordinate with that task before editing this file** — it is on that task's propagation ledger at L118. Prefer producing research notes first and minting the content task from them. Sync both trees for anything that lands.
-- **Review file**: `reviews/outer-review-2026-09-10-gemini-2-5-pro.md`
-- **Source**: outer-review (2026-09-10 Gemini 2.5 Pro) — unverified reviewer argument, test before actioning
-- **Generated**: 2026-09-10
-
 ### P2: two live articles carry the Process 1 / Process 3 content swapped, verified against Stapp's raw papers — and one of them explicitly defers to `quantum-completeness`, which was just corrected
 - **Type**: refine-draft
 - **File**: obsidian/concepts/physical-completeness.md
@@ -2069,6 +2060,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-10: Does Quantum Darwinism's redundant environmental record constrain post-decoherence selection? Test the argument before importing it
+- **Type**: research-topic
+- **File**: obsidian/topics/quantum-darwinism-and-consciousness.md
+- **Notes**: From outer review 2026-09-10 (Gemini 2.5 Pro). **Stated as a hypothesis to test, not a defect to fix** — the review asserts this argument without citing any source for it, and its citation record in this review was poor (3 of 5 headline weaknesses rested on unverified or misdated sources; see the review's `## Verification Notes`). **THE ARGUMENT:** in Quantum Darwinism the environment does not merely absorb phase information, it proliferates redundant copies of the system's pointer states, and the objectivity of an outcome is enforced by many observers being able to read disjoint environment fragments and agree. If that is right, then a selecting principle acting *after* decoherence faces a constraint the Map has not addressed: the records already exist and are already redundant, so selecting an outcome at that point would seem to require altering many independent fragments coherently — which sits badly with the Map's own Minimal Quantum Interaction tenet, since it is the opposite of a minimal intervention. **WHY IT IS WORTH TESTING:** if the argument holds it is a sharp, tenet-internal objection — the Map's own commitment to minimality would be doing the damage, not an external premise. If it fails, the reason it fails is worth stating in the article, because the objection is natural enough that other readers will raise it. **WHAT TO CHECK:** whether redundancy in QD is established *before* or *as part of* the process the Map calls selection — the review assumes "already", and the timing is the whole argument. `topics/quantum-darwinism-and-consciousness` (3015 words, `soft_warning`, 15 past the 3000 topics soft threshold) already treats QD and already carries the three-live-routes wording flagged in the sibling Claude-review P1 task, so **coordinate with that task before editing this file** — it is on that task's propagation ledger at L118. Prefer producing research notes first and minting the content task from them. Sync both trees for anything that lands.
 
 ### ✓ 2026-09-10: `concepts/envariance` freezes its critique of Zurek at 2005 and rests it on two unpublished notes
 - **Type**: refine-draft

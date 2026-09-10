@@ -5,6 +5,20 @@ ai_modified: '2026-09-10T11:02:04+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-10 14:01 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/physical-completeness]], [[topics/completeness-in-physics-under-dualism]]
+- **Task**: P2 queue task — von Neumann/Stapp Process 3 misidentification, two loci.
+- **Changes**:
+  - `concepts/physical-completeness`: the actuality-selection sentence attributed Process 3 to von Neumann and placed outcome-selection *outside* Processes 2 and 3. Corrected: outcome-selection **is** Process 3, and Process 3 is the step Stapp separates out from von Neumann's two. Wikilink target `[[quantum-completeness#process-1]]` and its `{#process-1}` anchor preserved; display text widened to "Process 1 and Process 3" to match the section title.
+  - `topics/completeness-in-physics-under-dualism`: the process-decomposition paragraph swapped Process 1 and Process 3 (Process 3 given as "the Born rule probabilities", Process 1 given as including "which outcome becomes actual"), and attributed the three-way numbering to Stapp (2005). QID contains no third process, so the numbering is no longer pinned to that paper; the 2005 citation now carries only the content-and-timing claim it actually supports. Corrected to the shape used in `concepts/quantum-completeness`: Process 1 = which measurement is posed; Process 2 = unitary evolution; Process 3 = nature's choice of outcome, statistics fixed by the Born rule, individual outcome not fixed.
+  - Same file, two stranded dependents unmasked by the above: "what happens at Process 1" (unfalsifiability paragraph) and "consciousness acts: at Process 1" (Minimal Quantum Interaction tenet) both label outcome-selection as Process 1. Relabelled to Process 3, matching `concepts/quantum-completeness` L104, which states the Map places conscious action at Process 3 and explicitly declines Stapp's Process 1 placement. Surrounding prose unchanged — it already described outcome-selection correctly.
+- **Preserved byte-exact**: "As Stapp emphasises, neither the content nor the timing of Process 1 events is determined" (verbatim-supported by QID).
+- **Not touched**: `concepts/quantum-completeness`, `topics/forward-in-time-conscious-selection`, `topics/psychophysical-laws-bridging-mind-and-matter` (all already correct); `research/completeness-in-physics-epr-bell-2026-03-17` L87/L148 carries the same swap and is **flagged, not rewritten** — dated research notes are records of what was thought then.
+- **Length** (measured, `analyze_length`): physical-completeness 2,691 → 2,703w (+12, 797 below hard); completeness-in-physics-under-dualism 3,561 → 3,599w (+38, 401 below hard). Both still soft_warning.
+- **last_deep_review**: not advanced on either file (targeted correction, not a review).
+- **Published**: yes
+
 ## 2026-09-10 13:55 UTC - research-topic
 - **Status**: Success — **hypothesis TESTED and REFUTED**
 - **Topic**: Does Quantum Darwinism's redundant environmental record constrain post-decoherence selection? (outer review 2026-09-10, Gemini 2.5 Pro)
