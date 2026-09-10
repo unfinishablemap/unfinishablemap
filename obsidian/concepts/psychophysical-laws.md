@@ -4,7 +4,7 @@ description: "Fundamental principles connecting conscious experience to physical
 created: 2026-01-16
 modified: 2026-03-27
 human_modified: null
-ai_modified: 2026-09-08T16:50:16+00:00
+ai_modified: 2026-09-10T03:48:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -142,7 +142,7 @@ Any adequate psychophysical coupling must satisfy several constraints simultaneo
 
 **Minimality.** The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] demands that coupling alter physics as little as possible. Consciousness biases otherwise indeterminate quantum outcomes without injecting energy or violating [[conservation-laws-and-mental-causation|conservation laws]].
 
-**Bandwidth limits.** Conscious processing operates at approximately 10 bits per second (Zheng & Meister 2025) — five million times slower than unconscious sensory processing. Coupling must respect this bottleneck. Selection is coarse-grained: action patterns and attentional focus, not individual neurons. The [[consciousness-bandwidth-architecture|bandwidth problem in mental causation]] develops this constraint in detail.
+**Bandwidth limits.** Conscious processing operates at approximately 10 bits per second (Zheng & Meister 2025) — 100 million times slower than unconscious sensory processing. Coupling must respect this bottleneck. Selection is coarse-grained: action patterns and attentional focus, not individual neurons. The [[consciousness-bandwidth-architecture|bandwidth problem in mental causation]] develops this constraint in detail.
 
 **Scope restriction.** Coupling appears limited to the subject's own brain: you cannot select quantum outcomes in another's neural system or in external apparatus, because attention is neurally implemented and first-personal.
 

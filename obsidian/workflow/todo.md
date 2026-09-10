@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `topics/neurological-dissociations-as-interface-architecture` L197 attributes "the brain's billions" to Norretranders 1998, who reports ~11 million
-- **Type**: refine-draft
-- **File**: obsidian/topics/neurological-dissociations-as-interface-architecture.md
-- **Priority**: P2
-- **Generated**: 2026-09-10
-- **Notes**: Found while fixing the same defect in `concepts/interface-friction`, and **verified from disk by the driver**. That file was scoped spelling-only, so this was correctly left. **THE LOCUS - L197**, in the Minimal Quantum Interaction tenet-relation gloss: "consciousness operates at roughly 10 bits per second against **the brain's billions** (Norretranders, 1998)". Norretranders 1998 (with Zimmermann 1986) reports **~11 million** bits/s of sensory transduction - that is ~10 to the 7, not billions. The ~10 to the 9 figure belongs to Zheng & Meister 2025 and is **one eye's cone-population capacity** (~1.6 Gbit/s), not any measure of brain-internal processing. So a magnitude is attributed to a source that does not report it. **THE MODEL, already ratified**: `concepts/interface-friction` L52 was repaired on 2026-09-10 into exactly this shape - keep 10 to the 9 as the headline magnitude sourced to Zheng & Meister, and give Zimmermann/Norretranders the 11-million transduction tally they actually report. `voids/resolution-void.md` L48 is the corpus's canonical statement of the distinction. **LENGTH measured this run**: 3,388w against topics 3000 soft / 4000 hard - `soft_warning`, **612 below hard**, so there is room; still keep it tight. **DO NOT** re-open the eight files fixed in the 2026-09-10 relabel sweep, nor `interface-friction`/`consciousness-selecting-neural-patterns` fixed the same day. **NOT A DEFECT, do not "fix"**: `research/bandwidth-constraints-10-bits-2026-03-29.md` L26 spells the surname without the slashed o inside a `**Search queries used**` block - that is a verbatim log of the literal strings searched, and altering it would falsify the record. Reviews and archive hits are likewise historical record.
-
-
 ### P3: `topics/mesoamerican-nahua-philosophy-of-mind` applies one undifferentiated colonial-filter caveat to two bodies of material with opposite contamination profiles — and its basin-edge census says "two" where the corpus says three
 - **Type**: refine-draft
 - **File**: obsidian/topics/mesoamerican-nahua-philosophy-of-mind.md
@@ -2062,6 +2054,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-10: `topics/neurological-dissociations-as-interface-architecture` L197 attributes "the brain's billions" to Norretranders 1998, who reports ~11 million
+- **Type**: refine-draft
+- **File**: obsidian/topics/neurological-dissociations-as-interface-architecture.md
+- **Notes**: Found while fixing the same defect in `concepts/interface-friction`, and **verified from disk by the driver**. That file was scoped spelling-only, so this was correctly left. **THE LOCUS - L197**, in the Minimal Quantum Interaction tenet-relation gloss: "consciousness operates at roughly 10 bits per second against **the brain's billions** (Norretranders, 1998)". Norretranders 1998 (with Zimmermann 1986) reports **~11 million** bits/s of sensory transduction - that is ~10 to the 7, not billions. The ~10 to the 9 figure belongs to Zheng & Meister 2025 and is **one eye's cone-population capacity** (~1.6 Gbit/s), not any measure of brain-internal processing. So a magnitude is attributed to a source that does not report it. **THE MODEL, already ratified**: `concepts/interface-friction` L52 was repaired on 2026-09-10 into exactly this shape - keep 10 to the 9 as the headline magnitude sourced to Zheng & Meister, and give Zimmermann/Norretranders the 11-million transduction tally they actually report. `voids/resolution-void.md` L48 is the corpus's canonical statement of the distinction. **LENGTH measured this run**: 3,388w against topics 3000 soft / 4000 hard - `soft_warning`, **612 below hard**, so there is room; still keep it tight. **DO NOT** re-open the eight files fixed in the 2026-09-10 relabel sweep, nor `interface-friction`/`consciousness-selecting-neural-patterns` fixed the same day. **NOT A DEFECT, do not "fix"**: `research/bandwidth-constraints-10-bits-2026-03-29.md` L26 spells the surname without the slashed o inside a `**Search queries used**` block - that is a verbatim log of the literal strings searched, and altering it would falsify the record. Reviews and archive hits are likewise historical record.
 
 ### ✓ 2026-09-10: two Zheng & Meister bandwidth-figure defects surviving the 2026-09-10 relabel sweep — one wrong ratio, one wrong source attribution
 - **Type**: refine-draft

@@ -4,7 +4,7 @@ description: "Blindsight, anosognosia, alien hand syndrome, and other dissociati
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-09-10T03:33:41+00:00
+ai_modified: 2026-09-10T03:48:46+00:00
 last_deep_review: 2026-07-26T09:15:10+00:00
 draft: false
 topics:
@@ -194,7 +194,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The ascending and descending channels fit the tenet's picture: on the interface reading, sensory content, affect, and self-model are delivered upward, motor selections flow downward, and alien hand syndrome and blindsight show that each direction's channel can fail independently. Fit, however, is the honest grade—not confirmation. Four claims come apart here: that experience depends on brain function (every dissociation shows this); that the directional channels are functionally separable (the double dissociations establish this); that consciousness causes physical events; and that such causation is nonphysical. The dissociations secure the first two claims strongly and cannot secure the last two—as the body's closing analysis concedes, a functionalist reading of the same separable channels predicts the identical phenomenology, so the inference stays compatibility-grade for the tenet, not vindication-grade. What the clinical pattern supplies is the anatomy a bidirectional interface would need, each direction independently severable; the case that consciousness actually exercises the descending direction rests on the Map's agency arguments ([[motor-selection|motor selection]], [[consciousness-and-agency|consciousness and agency]]), not on the dissociation evidence alone.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The narrow bandwidth of the interface—consciousness operates at roughly 10 bits per second against the brain's billions (Nørretranders, 1998)—is consistent with minimal interaction. The interface components are finite, enumerable, and individually disableable. A maximal interaction would pervade all neural processing; the clinical evidence shows consciousness engaging through discrete, severable channels.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The narrow bandwidth of the interface—consciousness operates at roughly 10 bits per second against the roughly 11 million bits per second of sensory transduction (Zimmermann, 1986; Nørretranders, 1998)—is consistent with minimal interaction. The interface components are finite, enumerable, and individually disableable. A maximal interaction would pervade all neural processing; the clinical evidence shows consciousness engaging through discrete, severable channels.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The diagnostic power of dissociations depends on each case being a definite fact—this patient lost this channel, revealing this architectural feature. Under many-worlds interpretations, quantum events during brain development and injury produce branches with different neural configurations, and the interface architecture described here would be one branch-relative arrangement among countless alternatives. The Map reads dissociations as revealing the structure of a single mind-brain interface; that reading assumes the patient's condition is a determinate fact about one world, not an indexical perspective within a branching totality.
 
@@ -230,6 +230,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 1. Geschwind, N. (1965). Disconnexion Syndromes in Animals and Man. *Brain*, 88(2), 237–294.
 1. Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*, 122(43), e2520190122. doi:10.1073/pnas.2520190122. [Senior authors: Volz, Miller; M.S. Gazzaniga among co-authors.]
 1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
+1. Zimmermann, M. (1986). Neurophysiology of sensory systems. In R.F. Schmidt (Ed.), *Fundamentals of Sensory Physiology*. Springer.
 1. Nagel, T. (1971). Brain Bisection and the Unity of Consciousness. *Synthese*, 22(3-4), 396–413.
 1. Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.
 1. Hu, J.-J., Liu, Y., Yao, H., et al. (2023). Emergence of consciousness from anesthesia through ubiquitin degradation of KCC2 in the ventral posteromedial nucleus of the thalamus. *Nature Neuroscience*, 26, 751–764. doi:10.1038/s41593-023-01290-y.
