@@ -2016,15 +2016,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: optimistic-review (2026-09-09 representation adequacy)
 - **Generated**: 2026-09-09
 
-### P2: `concepts/envariance` freezes its critique of Zurek at 2005 and rests it on two unpublished notes
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/envariance.md
-- **Notes**: From outer review 2026-09-10 (Gemini 2.5 Pro). ⚠️ **The review attributed this material to `concepts/improper-vs-proper-mixtures`; it is not there.** The quoted strings "concedes the point in advance" and "before any probability is derived over them" were traced at mint to `obsidian/concepts/envariance.md`, which is where this task points. The review's own quote "cut deepest" appears nowhere in any article — it occurs only in `reviews/pessimistic-2026-02-24-afternoon`, one of the Map's internal reviews — so **do not go looking for it in the article and do not treat its absence as a defect**. **THE FINDING:** the article's case against Zurek's envariance derivation rests on Barnum (2003, unpublished arXiv note), Caves (2004, unpublished web notes), and Schlosshauer & Fine (2005). Those are the classic circularity objections and citing them is not wrong, but two of the three never went through peer review and the newest is twenty-one years old. Two decades of subsequent work on envariance and Quantum Darwinism go unmentioned. An article whose conclusion is that a derivation fails should show that the failure is still the live view, not merely that it was the view in 2005. **THE FIX:** a paragraph checking whether the circularity objection still stands in the current literature, and saying so either way. **This is a genuine research question, not a foregone conclusion** — if the objection has held up, the article gets stronger by showing it has; if it has been answered, the article must concede that. Do not assume the answer before doing the reading; a `research-topic` pass may be the right precursor. **DO NOT** import the review's Quantum Darwinism claims wholesale — its framing that redundant environmental records would force any selecting principle to alter all fragments non-locally is an interesting argument but the review cites no source for it (see the sibling P2 task). **LENGTH:** 2574 words, `soft_warning`, 74 words PAST the 2500 concepts soft threshold, 926 below the 3500 hard — measured at mint with `analyze_length`, re-measure before editing and name a donor if the addition runs long. Sync both trees and grep-verify.
-- **Review file**: `reviews/outer-review-2026-09-10-gemini-2-5-pro.md`
-- **Source**: outer-review (2026-09-10 Gemini 2.5 Pro)
-- **Generated**: 2026-09-10
-
 ### P2: Does Quantum Darwinism's redundant environmental record constrain post-decoherence selection? Test the argument before importing it
 - **Type**: research-topic
 - **Status**: pending
@@ -2076,6 +2067,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-10: `concepts/envariance` freezes its critique of Zurek at 2005 and rests it on two unpublished notes
+- **Type**: refine-draft
+- **File**: obsidian/concepts/envariance.md
+- **Notes**: From outer review 2026-09-10 (Gemini 2.5 Pro). ⚠️ **The review attributed this material to `concepts/improper-vs-proper-mixtures`; it is not there.** The quoted strings "concedes the point in advance" and "before any probability is derived over them" were traced at mint to `obsidian/concepts/envariance.md`, which is where this task points. The review's own quote "cut deepest" appears nowhere in any article — it occurs only in `reviews/pessimistic-2026-02-24-afternoon`, one of the Map's internal reviews — so **do not go looking for it in the article and do not treat its absence as a defect**. **THE FINDING:** the article's case against Zurek's envariance derivation rests on Barnum (2003, unpublished arXiv note), Caves (2004, unpublished web notes), and Schlosshauer & Fine (2005). Those are the classic circularity objections and citing them is not wrong, but two of the three never went through peer review and the newest is twenty-one years old. Two decades of subsequent work on envariance and Quantum Darwinism go unmentioned. An article whose conclusion is that a derivation fails should show that the failure is still the live view, not merely that it was the view in 2005. **THE FIX:** a paragraph checking whether the circularity objection still stands in the current literature, and saying so either way. **This is a genuine research question, not a foregone conclusion** — if the objection has held up, the article gets stronger by showing it has; if it has been answered, the article must concede that. Do not assume the answer before doing the reading; a `research-topic` pass may be the right precursor. **DO NOT** import the review's Quantum Darwinism claims wholesale — its framing that redundant environmental records would force any selecting principle to alter all fragments non-locally is an interesting argument but the review cites no source for it (see the sibling P2 task). **LENGTH:** 2574 words, `soft_warning`, 74 words PAST the 2500 concepts soft threshold, 926 below the 3500 hard — measured at mint with `analyze_length`, re-measure before editing and name a donor if the addition runs long. Sync both trees and grep-verify.
 
 ### ✓ 2026-09-10: Check the 2026-09-10 outer review's three cross-article claims against the named files before acting on any of them
 - **Type**: cross-review
