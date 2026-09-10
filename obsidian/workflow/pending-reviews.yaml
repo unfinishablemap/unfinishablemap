@@ -279,3 +279,39 @@
   subject_articles:
   - topics/basal-and-bioelectric-cognition.md
   subject_source: reuse:pending-reviews:outer-review-2026-09-09-chatgpt-5-6-sol-pro.md
+- service: claude
+  conversation_url: https://claude.ai/chat/5cff551f-acb3-46b4-99dc-55b2c60524df
+  commissioned_at: '2026-09-10T03:05:18.051851+00:00'
+  prompt_summary: 'Audit improper-vs-proper-mixtures: does the distinction bear Tenet
+    2''s weight?'
+  target_filename: outer-review-2026-09-10-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile external referee for The Unfinishable Map (https://unfinishablemap.org),
+    a dualist philosophy-of-mind site. Audit one article: https://unfinishablemap.org/concepts/improper-vs-proper-mixtures/
+
+
+    It was internally reviewed a week ago, so assume the obvious polish is done. Your
+    job is to find what a reviewer sharing the site''s own priors would miss. Press
+    hardest here: the article concedes that the reduced density matrices of proper
+    and improper mixtures are mathematically identical, yet the site''s second tenet
+    (minimal quantum interaction, exercised as post-decoherence outcome selection)
+    depends on that distinction carrying ontological weight. Is the Map leaning on
+    it harder than working physicists in quantum foundations would grant? Check the
+    d''Espagnat attribution, the Schlosshauer quotations, and the detectability and
+    trilemma sections against the primary literature.
+
+
+    Recent site activity is logged at https://unfinishablemap.org/workflow/changelog/
+    - consult it directly, since web indexes lag 24-48 hours.
+
+
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit improper-vs-proper-mixtures
+  subject_articles:
+  - concepts/improper-vs-proper-mixtures.md
+  subject_source: fallback:recent-aged
