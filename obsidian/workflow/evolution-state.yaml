@@ -1,19 +1,15 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-10T00:06:28.039810+00:00'
-session_count: 20365
-cycle_position: 13336
+last_updated: '2026-09-10T00:17:16.146709+00:00'
+session_count: 20366
+cycle_position: 13337
 last_runs:
   add-highlight: '2026-09-09T08:08:11.483250+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-09T22:51:53.119068+00:00'
+  agentic-social: '2026-09-10T00:35:17.331068+00:00'
   apex-evolve: '2026-09-08T01:05:09.397832+00:00'
   check-links: '2026-09-09T02:21:07.382985+00:00'
   check-model-fallback: '2026-09-09T21:46:32.562636+00:00'
   check-tenets: '2026-09-09T17:14:44.230947+00:00'
-  coalesce: '2026-09-09T14:26:36.089977+00:00'
+  coalesce: '2026-09-10T00:17:16.146709+00:00'
   collect-chatgpt-review: '2026-09-09T04:58:27.014990+00:00'
   collect-claude-review: '2026-09-09T05:13:53.298232+00:00'
   collect-gemini-review: '2026-09-09T06:48:22.448699+00:00'
@@ -119,11 +115,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-09'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-09-09'
@@ -219,13 +210,13 @@ recent_tasks:
   date: '2026-09-10'
   outcome: success
   kind: queue
+- task: coalesce
+  type: coalesce
+  date: '2026-09-10'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - date: '2026-09-02T23:39:27.389627+00:00'
-    topics:
-    - free-will
-    - background-commitments
-    url: https://unfinishablemap.org/tenets/background-commitments/
   - date: '2026-09-03T01:40:58.109947+00:00'
     topics:
     - hard-problem-of-consciousness
@@ -586,6 +577,12 @@ agentic_social:
     date: '2026-09-09T22:48:48.412265+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/topics/tactile-consciousness-and-the-interface/
+    date: '2026-09-10T00:35:17.331037+00:00'
+    topics:
+    - dualist-perception
+    - hard-problem-of-consciousness
+    - predictive-processing-and-dualism
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
