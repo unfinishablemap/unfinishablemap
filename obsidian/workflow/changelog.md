@@ -5,6 +5,23 @@ ai_modified: '2026-09-10T07:22:05+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-10T07:37:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/improper-vs-proper-mixtures]]
+- **Source**: P1 queue task from [[reviews/outer-review-2026-09-10-gemini-2-5-pro]] — the density-matrix-realism omission, one of the two findings that survived that review's `## Verification Notes` when checked against the subject article
+- **Original score**: not scored — `scripts/curate.py` does not exist in this repo (SKILL.md Step 3 is stale); confirmed by `ls`. Length measured with `tools.curate.length.analyze_length`
+- **Length**: 2,774 → 2,967 words (+193; concepts soft 2,500 / hard 3,500 — printed, not quoted). Slack to hard now 533, left for the open Local Friendliness P1
+- **Changes**: Added one paragraph to "The Strongest Deflations Are Interpretations", appended to the paragraph that already names the Map's tacit realism about quantum states. It names the sharper second premise — that the gap argument requires the *global* state to be pure — and records Chen's density-matrix realism as the live denial of it. Placed there rather than in the gap-setup section because that paragraph is already conceding tacit premises, so the concession cannot read as a strengthening; and because the section's own thesis is that the contest lives in the ontology of quantum states, which is exactly where density-matrix realism sits.
+- **Calibration**: concession left undefused — the paragraph ends "conditional on a premise the page has not so far named" with no reassuring rejoinder. Not inflated either: the claim is that the gap argument is *conditional*, not that it collapses.
+- **Citation**: Chen, E. K. (2021), BJPS 72(4): 1155–1183, doi:10.1093/bjps/axy068 — every cited field verified at Crossref this run (single author Eddy Keming Chen; issued 2021-12-01). Both quoted phrases, "objective and impure" and "objective and pure", are verbatim from Chen's own abstract, recovered via the OpenAlex inverted index (`mag` id 2805838936, so the record predates 2022 and contamination is ruled out).
+- **Traps avoided**: Tumulka not named (unverified at mint and not verified here; Chen 2021 carries the fix alone) — `find("Tumulka")` = −1 in both trees. The review's "BJPS *and* Oxford University Press" gloss not repeated; the Chen entry names no publisher at all, which is doubly right since BJPS has been published by University of Chicago Press since 2021. "Wentaculus" deliberately not used: it does not appear in Chen's 2021 abstract, and his own coinage there is 'density-matrix realism'.
+- **Reference list**: Chen inserted at alphabetical position 5 (Castellani < Chen < d'Espagnat), entries 5–21 renumbered to 6–22. Safe because the body cites author-year throughout — independently re-verified: zero `[N]`, `(ref N)` or `reference N` forms in the body, and no other file deep-links this article's references by number.
+- **Untouched (verified by offset)**: the `{#trilemma}` anchor and its heading — deep-linked from [[topics/quantum-darwinism-and-consciousness]] — and the L42 Schlosshauer 2004 quotation, which an outer reviewer wrongly called fabricated. "exactly four live forms" also left intact; no fifth horn added, since density-matrix realism attacks the purity premise the gap is defined against rather than adding a route that closes the gap.
+- **Cross-link**: piped wikilink to [[wavefunction-realism-vs-primitive-ontology]] at zero word cost. Piped text is "the metaphysics of the quantum state" rather than "wave-function realism", because Chen's wave-function realism (universal state objective and pure) is a *different* thesis from that article's Albert/Ney wavefunction realism (`Ψ` as a field on `3N`-space); equating them would have been a fresh misattribution. Bare slug, no collision, resolves in Hugo to `/concepts/wavefunction-realism-vs-primitive-ontology/`.
+- **Synced**: yes — both trees verified by parsed offsets, not grep
+- **Published**: yes
+
+
 ## 2026-09-10T07:22:05+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/improper-vs-proper-mixtures]] (+ propagation fix in [[topics/quantum-darwinism-and-consciousness]])

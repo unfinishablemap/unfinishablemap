@@ -4,7 +4,7 @@ description: "What separates improper from proper mixtures, why decoherence leav
 created: 2026-09-03
 modified: 2026-09-03
 human_modified:
-ai_modified: 2026-09-10T07:22:05+00:00
+ai_modified: 2026-09-10T07:37:09+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -81,6 +81,8 @@ A second dissolution is epistemic. Schlosshauer's 2019 review notes that whether
 
 This is where the contest over the distinction actually lives: in the ontology of quantum states. A deflation pressed hard tends to stop being a free-standing operational point and become one of these separately priced positions—Everett, or an epistemic reading of states. The Map's realism about quantum states, usually left tacit, is the premise doing the work on its side, and it is fair to say so.
 
+A second tacit premise sits underneath the first and cuts deeper. The argument that an improper mixture leaves a *gap* requires the global state it is traced from to be **pure**; only against a pure global state does the reduced description mark something missing. Chen's density-matrix realism denies precisely this, holding that the quantum state of the universe is "objective and impure"—a density matrix in its own right—in explicit contrast to what he calls wave-function realism, on which that state is "objective and pure" (Chen 2021). If the fundamental state is itself impure, the subsystem's mixed state is of the same mathematical class as the universal one, and the proper/improper boundary does not hold at the fundamental level at all. This is live and contested territory in [[wavefunction-realism-vs-primitive-ontology|the metaphysics of the quantum state]], and the Map has not defended its side of it. The gap argument as stated on this page is conditional on a premise the page has not so far named.
+
 ## What Would Defeat the Map's Use of It {#trilemma}
 
 [[quantum-darwinism-and-consciousness|The quantum Darwinism article]] names the defeater honestly: the Map's proposal faces serious difficulty if the improper/proper distinction were shown to be physically empty. The once-natural way to cash that out—a no-go theorem that decoherence alone necessarily produces definite outcomes—is the route the foundations literature forecloses, and stating the defeater precisely strengthens rather than softens it.
@@ -122,20 +124,21 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet frames the whole di
 2. Bacciagaluppi, G. (2012). Insolubility Theorems and EPR Argument. *European Journal for Philosophy of Science*, 3, 87–100. philsci-archive.pitt.edu/9121.
 3. Bell, J. S. (1990). Against 'measurement'. *Physics World*, 3(8), 33–40.
 4. Castellani, L. (2022). All quantum mixtures are proper. arXiv:2201.04143; philsci-archive.pitt.edu/20113.
-5. d'Espagnat, B. (1966). An elementary note about mixtures. In A. De-Shalit, H. Feshbach & L. Van Hove (eds.), *Preludes in Theoretical Physics: In Honor of V. F. Weisskopf*. North-Holland.
-6. d'Espagnat, B. (1976). *Conceptual Foundations of Quantum Mechanics* (2nd ed.). W.A. Benjamin.
-7. d'Espagnat, B. (2001). A note on measurement. arXiv:quant-ph/0101141.
-8. d'Espagnat, B. (2001). Reply to K A Kirkpatrick. arXiv:quant-ph/0111081.
-9. Donadi, S., Piscicchia, K., Curceanu, C., Diósi, L., Laubenstein, M. & Bassi, A. (2020). Underground test of gravity-related wave function collapse. *Nature Physics*, 17(1), 74–78. doi:10.1038/s41567-020-1008-4. (Published online 2020; print volume dated 2021.)
-10. Fortin, S. & Lombardi, O. (2014). Partial Traces in Decoherence and in Interpretation: What Do Reduced States Refer to? *Foundations of Physics*, 44, 426–446. arXiv:1404.3264.
-11. Grangier, P. (2026). Revisiting the Interpretations of Quantum Mechanics: From FAPP Solutions to Contextual Ontologies. arXiv:2601.20488.
-12. Hance, J. R. & Hossenfelder, S. (2022). What does it take to solve the measurement problem? *Journal of Physics Communications*, 6, 102001. arXiv:2206.10445.
-13. Kirkpatrick, K. A. (2001). Indistinguishability and improper mixtures. arXiv:quant-ph/0109146.
-14. Schlosshauer, M. (2004). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76(4), 1267–1305. arXiv:quant-ph/0312059.
-15. Schlosshauer, M. (2019). Quantum decoherence. *Physics Reports*, 831, 1–57. arXiv:1911.06282.
-16. Tomaz, A. A., Mattos, R. S. & Barbatti, M. (2025). The Quantum Measurement Problem: A Review of Recent Trends. arXiv:2502.19278.
-17. Wallace, D. (2010). Decoherence and Ontology (or: How I learned to stop worrying and love FAPP). In S. Saunders, J. Barrett, A. Kent & D. Wallace (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press.
-18. Wallace, D. (2012). Decoherence and its role in the modern measurement problem. *Philosophical Transactions of the Royal Society A*, 370, 4576–4593. arXiv:1111.2187.
-19. Zeh, H. D. (2006). Roots and Fruits of Decoherence. *Séminaire Poincaré*, 1(2005), 115–129. arXiv:quant-ph/0512078.
-20. Southgate, A. & Oquatre-six, C. (2026-03-29). Post-Decoherence Selection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/post-decoherence-selection/
-21. Southgate, A. & Oquatre-six, C. (2026-03-29). Quantum Darwinism and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/quantum-darwinism-and-consciousness/
+5. Chen, E. K. (2021). Quantum Mechanics in a Time-Asymmetric Universe: On the Nature of the Initial Quantum State. *The British Journal for the Philosophy of Science*, 72(4), 1155–1183. doi:10.1093/bjps/axy068.
+6. d'Espagnat, B. (1966). An elementary note about mixtures. In A. De-Shalit, H. Feshbach & L. Van Hove (eds.), *Preludes in Theoretical Physics: In Honor of V. F. Weisskopf*. North-Holland.
+7. d'Espagnat, B. (1976). *Conceptual Foundations of Quantum Mechanics* (2nd ed.). W.A. Benjamin.
+8. d'Espagnat, B. (2001). A note on measurement. arXiv:quant-ph/0101141.
+9. d'Espagnat, B. (2001). Reply to K A Kirkpatrick. arXiv:quant-ph/0111081.
+10. Donadi, S., Piscicchia, K., Curceanu, C., Diósi, L., Laubenstein, M. & Bassi, A. (2020). Underground test of gravity-related wave function collapse. *Nature Physics*, 17(1), 74–78. doi:10.1038/s41567-020-1008-4. (Published online 2020; print volume dated 2021.)
+11. Fortin, S. & Lombardi, O. (2014). Partial Traces in Decoherence and in Interpretation: What Do Reduced States Refer to? *Foundations of Physics*, 44, 426–446. arXiv:1404.3264.
+12. Grangier, P. (2026). Revisiting the Interpretations of Quantum Mechanics: From FAPP Solutions to Contextual Ontologies. arXiv:2601.20488.
+13. Hance, J. R. & Hossenfelder, S. (2022). What does it take to solve the measurement problem? *Journal of Physics Communications*, 6, 102001. arXiv:2206.10445.
+14. Kirkpatrick, K. A. (2001). Indistinguishability and improper mixtures. arXiv:quant-ph/0109146.
+15. Schlosshauer, M. (2004). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76(4), 1267–1305. arXiv:quant-ph/0312059.
+16. Schlosshauer, M. (2019). Quantum decoherence. *Physics Reports*, 831, 1–57. arXiv:1911.06282.
+17. Tomaz, A. A., Mattos, R. S. & Barbatti, M. (2025). The Quantum Measurement Problem: A Review of Recent Trends. arXiv:2502.19278.
+18. Wallace, D. (2010). Decoherence and Ontology (or: How I learned to stop worrying and love FAPP). In S. Saunders, J. Barrett, A. Kent & D. Wallace (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press.
+19. Wallace, D. (2012). Decoherence and its role in the modern measurement problem. *Philosophical Transactions of the Royal Society A*, 370, 4576–4593. arXiv:1111.2187.
+20. Zeh, H. D. (2006). Roots and Fruits of Decoherence. *Séminaire Poincaré*, 1(2005), 115–129. arXiv:quant-ph/0512078.
+21. Southgate, A. & Oquatre-six, C. (2026-03-29). Post-Decoherence Selection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/post-decoherence-selection/
+22. Southgate, A. & Oquatre-six, C. (2026-03-29). Quantum Darwinism and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/quantum-darwinism-and-consciousness/
