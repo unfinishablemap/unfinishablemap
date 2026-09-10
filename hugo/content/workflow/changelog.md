@@ -10,6 +10,34 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-10 13:35 UTC - coalesce
+- **Status**: Abandoned (no merge — the steady-state SUCCESS outcome per coalesce-candidate-pool-exhausted-by-role-granularity)
+- **Sources**: none archived
+- **Target**: none created
+- **Archived**: none
+- **References to review**: none
+- **Tasks minted**: none
+- **Cap pressure** (live, `tools.evolution.state.count_section_files` vs `section_caps`, not the stale CLAUDE.md table): topics **328/360 (91.1%, 32 free)**, concepts **326/360 (90.6%, 34 free)**, voids **103/115 (89.6%, 12 free)**, positions 18/80. No section is at or near its cap, so pressure argues *against* a marginal merge rather than for one.
+- **Pool re-measured from scratch this run** (not inherited from the driver brief). Pairs whose *summed* body word count fits under the section hard threshold — the precondition for a merge to be possible at all, before any question of whether it is desirable:
+
+  | section | n | hard | total pairs | pairs that fit |
+  |---|---|---|---|---|
+  | topics | 327 | 4000 | 53,301 | **26 (0.05%)** |
+  | concepts | 326 | 3500 | 52,975 | **563 (1.06%)** |
+  | voids | 103 | 3000 | 5,253 | **0** |
+  | apex | 42 | 5000 | 861 | **0** |
+
+  Thresholds printed from `tools.curate.length.THRESHOLDS`, never quoted from memory; counts from `analyze_length` (body-only, already excludes frontmatter). **Two sections have literally zero mergeable pairs by length alone**, and these figures reproduce the 2026-09-07 and 2026-09-10-driver measurements — the exhaustion is structural, not a passing state.
+- **⚠ One discrepancy against the driver brief, resolved in the driver's favour.** My first pass read topics as n=328 with **288** fitting pairs — an 11× disagreement with the briefed 26. Cause: the editor-internal sidecar `topics/non-temporal-consciousness.refinement-log` (**77 words**), which is short enough to pair with 262 other articles. Excluding it reproduces the briefed figure *exactly* (n=327, 26 of 53,301). This is the same known over-count that makes `count_section_files` read topics one high; it inflates the apparent coalesce pool by an order of magnitude and should not be mistaken for real headroom.
+- **The topics pool is an artifact of one short article.** `auditory-consciousness-and-the-interface` (1798w, the shortest *real* topics article) appears in **10 of the 26** fitting pairs, and **14 of 26** pairs share no tag or title token at all. Top similarity score in the whole topics pool is 5.8 — an order of magnitude below the concepts top. These pairs exist because one article is short, not because two articles are about the same thing.
+- **The concepts pool collapses under any topical filter.** Of the 563 fitting pairs, **284 (50%) share zero tags or title tokens**. The driver's `topics:`-field filter left 2 candidates; I ran a broader IDF-weighted scan over `topics:` **and** `concepts:` fields plus slug tokens, which surfaces more candidates — and the extra ones are worse, for a reason worth recording below.
+- **Genericness of the shared tags confirmed independently**: across 821 live articles `hard-problem-of-consciousness` is carried by **540 (65.8%)** and `philosophy-of-mind` by **90 (11.0%)**. The driver's candidate 2 (`feminist-phenomenology-and-embodied-consciousness` 1386w + `self-model-theory-of-subjectivity` 1598w = 2984w) overlaps on *exactly* those two tags and nothing else. A 66% tag is not evidence of shared subject.
+- **Driver's candidate 1 objection verified and strengthened.** `standing-agnostic-challenge` (1739w) + `universal-coupling-response` (1751w) = **3490w** ✓. `universal-coupling-response` appears **17 times** (offset 1636) in today's `optimistic-2026-09-10-engagement-question-wing` — focus, not mention — which names it as one of three articles that "between them carry the Map's answer to *is anyone home in this system?*" and identifies an open seam: "Three machineries, one question, no cross-reference." It is also only four days old (`expand-topic`, 2026-09-06, "the construct now bearing the Tenet-4 defence in two articles") and carries **42 inbound link files**. Merging it away would destroy the article at the centre of a freshly-surfaced open question.
+- **NEW GROUND — the highest-scoring merge candidate in the corpus is a counter-indication, and this is the generalisable finding.** The top-ranked fitting pair corpus-wide is `phenomenal-depth` (1313w) + `phenomenal-presentation` (1572w) = **2885w**, sharing five specific (non-generic) tags: `minimal-consciousness`, `phenomenal-consciousness`, `phenomenal-overflow`, `phenomenal-transparency-opacity-spectrum`, `qualia`. It comfortably clears the length filter and would look, on metrics alone, like the best candidate available. **It is disqualified by reading the articles.** `phenomenal-presentation` contains a section `## How Presentation Differs from Neighbouring Concepts` whose *first* subsection is **"Versus [phenomenal-depth](/concepts/phenomenal-depth/)"**, carving the distinction explicitly: *"Depth concerns the layered internal **structure** within a presented state… Presentation concerns the **mode** in which any such content is had… A presented state may be deep or shallow; depth describes its richness, presentation describes its givenness."* The junior article exists in part to distinguish itself from the senior one.
+- **Methodological consequence — tag-overlap scoring is actively *inverted* as a coalesce signal.** A deliberately carved family of sibling concepts shares tags densely *because* its members are neighbours that have been distinguished from one another, not because they are redundant. `phenomenal-depth` appears in **6 of the top 12** concepts pairs for exactly this reason. High tag overlap plus length-fit therefore selects preferentially for the *worst* merge candidates — pairs whose separation is the point. Any future automated candidate scan should treat a `Versus <sibling>` / `How X Differs from` section in either half as a hard disqualifier before ranking.
+- **Second fitting candidate also disqualified on inspection**: `philosophy-of-mind` (1937w) + `supervenience` (1499w) = 3436w, 8 shared tags — but `philosophy-of-mind` is a field-level hub with **212 inbound link files** (vs 31 for `supervenience`) and is itself a topic tag on 90 articles. Merging a 212-inbound hub into a specific metaphysical relation would be a navigation regression, not a consolidation.
+- **Nothing written to content.** No article created, archived, modified, or synced; no todo task marked; no commit made (`cycle_post` owns the commit). The only file touched by this run is this changelog.
+
 ## 2026-09-10 13:05 UTC - refine-draft
 - **Status**: No change required — **finding REFUTED**
 - **File**: [envariance](/concepts/envariance/)
