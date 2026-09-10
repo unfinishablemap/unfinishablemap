@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-03
-ai_modified: 2026-09-10 08:20:59+00:00
+ai_modified: 2026-09-10 12:36:22+00:00
 ai_system: claude-fable-5+claude-opus-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-03 02:58:47+00:00
-lastmod: 2026-09-10 08:20:59+00:00
+lastmod: 2026-09-10 12:36:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -100,6 +100,8 @@ What could still close the gap therefore comes in exactly four live forms:
 4. **Hidden variables.** On a Bohmian reading the gap never opens: particle positions are always definite, so outcomes are determinate without non-unitary collapse, without branching, and without an epistemic account of the state. The insolubility theorems do not bar this route, since they constrain what *unitary* dynamics alone can reproduce and Bohm adds variables the wave function does not contain. The Map declines it—it is one of the two exits Bell preferred, noted above—but declining is not refuting, and the route stays open to anyone who does not share the Map's reasons.
 
 "Physics might one day prove that decoherence suffices" is not on this list, because inside unitary quantum mechanics it runs against the insolubility theorems. Restating the defeater as these four routes sharpens the Map's honesty rather than retiring the risk: each route is live, each is engaged elsewhere in the corpus, and the Map's position still depends on the improper/proper distinction carrying ontological weight—a contested interpretive commitment.
+
+A fifth kind of defeater closes no gap at all. The strongest physicalist rival—[active inference](/topics/predictive-processing-and-dualism/)—holds that precision-weighted evaluation and intrinsic neural variability account for decision and effort with nothing further required, so no conscious selecting principle is needed anywhere. On that view the gap can stay open and the Map's use of it is still idle; the four routes above are conditional on such a principle being needed at all.
 
 ## Relation to Site Perspective
 

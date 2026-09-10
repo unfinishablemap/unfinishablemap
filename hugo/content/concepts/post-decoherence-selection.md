@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-09-10 08:20:59+00:00
+ai_modified: 2026-09-10 12:36:22+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 07:08:17+00:00
-lastmod: 2026-09-10 08:20:59+00:00
+lastmod: 2026-09-10 12:36:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -73,7 +73,7 @@ Not all approaches accept this framing. Many-worlds proponents and some pragmati
 
 Every interpretation of quantum mechanics must take a stance on this gap—whether by proposing a selection mechanism, denying selection occurs, or dissolving the question. The proposed responses fall into five families:
 
-**Consciousness-mediated collapse** (von Neumann, Wigner, Stapp). Conscious observation actualizes one outcome from the mixture. Von Neumann (1932) demonstrated that the collapse can be placed anywhere in the causal chain from apparatus to observer. Stapp develops this into a full dualist framework: consciousness does not inject energy but selects which question nature answers, with the quantum Zeno effect allowing sustained attention to hold preferred neural states. The Wigner's-friend scenario that shares Wigner's name constrains this whole family independently of any particular mechanism within it, and is taken up under [absolute outcomes and the local friendliness theorem](#absolute-outcomes-and-the-local-friendliness-theorem).
+**Consciousness-mediated collapse** (von Neumann, Wigner, Stapp). Conscious observation actualizes one outcome from the mixture. Von Neumann (1932) demonstrated that the collapse can be placed anywhere in the causal chain from apparatus to observer. Stapp develops this into a full dualist framework: consciousness does not inject energy but selects which question nature answers, with the quantum Zeno effect allowing sustained attention to hold preferred neural states. He leaves the answer itself to nature, so [Stapp's own framework](/concepts/stapp-quantum-mind/) stops short of the outcome-selection this article locates in the gap; the [programme article](/apex/post-decoherence-selection-programme/) states what taking that step costs. The Wigner's-friend scenario that shares Wigner's name constrains this whole family independently of any particular mechanism within it, and is taken up under [absolute outcomes and the local friendliness theorem](#absolute-outcomes-and-the-local-friendliness-theorem).
 
 **Objective collapse** (GRW, Penrose–Diósi, CSL). New physics—spontaneous localization or gravitational self-energy—causes collapse without observers. GRW (1986) introduced random, spontaneous localization events whose rate scales with particle number, so macroscopic objects collapse almost instantly while individual particles remain in superposition. Penrose and Diósi proposed that gravity itself cannot tolerate superpositions of distinct spacetime geometries, triggering collapse above a mass threshold. Both approaches introduce ad hoc parameters (collapse rate, localization width) whose values are chosen to match observation rather than derived from first principles. Large-molecule interferometry could in principle test these predictions, but no confirmation has been obtained. Crucially, objective collapse makes outcome selection a purely physical process—consciousness plays no constitutive role.
 

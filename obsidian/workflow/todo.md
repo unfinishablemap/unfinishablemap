@@ -2016,15 +2016,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: optimistic-review (2026-09-09 representation adequacy)
 - **Generated**: 2026-09-09
 
-### P2: Check the 2026-09-10 outer review's three cross-article claims against the named files before acting on any of them
-- **Type**: cross-review
-- **Status**: pending
-- **File**: obsidian/reviews/outer-review-2026-09-10-claude-opus-5.md
-- **Notes**: From outer review 2026-09-10 (Claude Opus 5), Part 4 cross-article recommendations. **These three were NOT verified at processing time**, and this reviewer's verified hit-rate on the article it actually audited was mixed — two headline findings were refuted outright (a "fabricated" Schlosshauer quote that is verbatim in the source, and a Maudlin citation the article does not make). So treat each claim below as a hypothesis to test, not a defect to fix, and act only on the ones that hold. Grep before accepting any "the Map does not address X" claim — a false-absence claim was already caught in this review. **(a)** Claim: `concepts/post-decoherence-selection` and `apex/post-decoherence-selection-programme` should carry an explicit Stapp cross-check, because Stapp disowns Eccles-style outcome-biasing and relocates mind to Process 1, and the corridor should say which horn of the Stapp–Bourget dilemma it takes rather than resting at "empirically indistinguishable". Both files exist. Check whether either already states this before adding anything. **(b)** Claim: `concepts/von-neumann-wigner-interpretation` and `topics/born-rule-and-the-consciousness-interface` should state the "bias-without-deviation" dilemma as an open structural problem rather than a solved calibration, and `concepts/improper-vs-proper-mixtures` should link to that statement. Both files exist. Verify the current framing first — the reviewer did not quote either page. **(c)** Claim: `concepts/improper-vs-proper-mixtures` should cross-link [[predictive-processing-and-dualism]] and concede in one clause that the strongest physicalist rival denies any selecting principle is needed. The cross-link is genuinely absent (0 hits at mint), and the target exists, so this part is safe to action — but **coordinate with the P1 task on the same file**: that article is 944 words below its hard threshold and the P1 task already spends part of that budget. A piped wikilink costs zero words. Do this one only after the P1 task lands, or fold it into that edit. Sync both trees for anything that lands.
-- **Review file**: `reviews/outer-review-2026-09-10-claude-opus-5.md`
-- **Source**: outer-review (2026-09-10 Claude Opus 5)
-- **Generated**: 2026-09-10
-
 ### P2: `concepts/envariance` freezes its critique of Zurek at 2005 and rests it on two unpublished notes
 - **Type**: refine-draft
 - **Status**: pending
@@ -2085,6 +2076,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-10: Check the 2026-09-10 outer review's three cross-article claims against the named files before acting on any of them
+- **Type**: cross-review
+- **File**: obsidian/reviews/outer-review-2026-09-10-claude-opus-5.md
+- **Notes**: From outer review 2026-09-10 (Claude Opus 5), Part 4 cross-article recommendations. **These three were NOT verified at processing time**, and this reviewer's verified hit-rate on the article it actually audited was mixed — two headline findings were refuted outright (a "fabricated" Schlosshauer quote that is verbatim in the source, and a Maudlin citation the article does not make). So treat each claim below as a hypothesis to test, not a defect to fix, and act only on the ones that hold. Grep before accepting any "the Map does not address X" claim — a false-absence claim was already caught in this review. **(a)** Claim: `concepts/post-decoherence-selection` and `apex/post-decoherence-selection-programme` should carry an explicit Stapp cross-check, because Stapp disowns Eccles-style outcome-biasing and relocates mind to Process 1, and the corridor should say which horn of the Stapp–Bourget dilemma it takes rather than resting at "empirically indistinguishable". Both files exist. Check whether either already states this before adding anything. **(b)** Claim: `concepts/von-neumann-wigner-interpretation` and `topics/born-rule-and-the-consciousness-interface` should state the "bias-without-deviation" dilemma as an open structural problem rather than a solved calibration, and `concepts/improper-vs-proper-mixtures` should link to that statement. Both files exist. Verify the current framing first — the reviewer did not quote either page. **(c)** Claim: `concepts/improper-vs-proper-mixtures` should cross-link [[predictive-processing-and-dualism]] and concede in one clause that the strongest physicalist rival denies any selecting principle is needed. The cross-link is genuinely absent (0 hits at mint), and the target exists, so this part is safe to action — but **coordinate with the P1 task on the same file**: that article is 944 words below its hard threshold and the P1 task already spends part of that budget. A piped wikilink costs zero words. Do this one only after the P1 task lands, or fold it into that edit. Sync both trees for anything that lands.
 
 ### ✓ 2026-09-10: `voids/offloading-void` Tenet 2 prediction contradicts the tenet it cites, and its removability ranking is refuted by the article it extends
 - **Type**: refine-draft
