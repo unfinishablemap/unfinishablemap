@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-10T21:30:00+00:00'
+ai_modified: '2026-09-10T21:51:26+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-10'
-lastmod: 2026-09-10 21:30:00+00:00
+lastmod: 2026-09-10 21:51:26+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-10 21:51 UTC - deep-review
+- **Status**: Success
+- **File**: [inventory-blindness](/concepts/inventory-blindness/)
+- **Word count**: 1968 -> 2166 (+198, `ok`, 334 below the concepts/ soft threshold)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 2
+- **Enhancements made**: 4
+- **The question this pass had to answer.** Only two commits since the 2026-07-14 review. One is a cosmetic self-citation repoint. The other, `9f059f5a80` (08-02), added `## What Would Challenge This View?` in response to a finding whose commit title reads "argues absence produces no signal but carries no falsifier bar, so downstream articles keep inferring invisibility-as-confirmation from it". The fix landed in the source; the pass asked whether it reached the source's own body and its twelve downstream citers.
+- **CRITICAL 1 - the body still ran the inference the new section disavows.** The Tenet 5 paragraph read "could reflect a blind spot rather than a genuine insight - we find physicalism 'simpler' **because** we lack the concepts that would reveal its inadequacy". The hedge is undone inside the same sentence by a trailing clause in the indicative asserting both that physicalism has an inadequacy and that our sense of its simplicity is *caused by* lacking the concepts that would expose it - exactly the mirror-image inference the 08-02 section names and rejects, and a direct contradiction of its "it supplies no reason to think it obtains". A tenet-accepting reviewer would still flag it, so this is calibration error, not bedrock disagreement. Rewritten as a conditional closing with two short declaratives separating what the argument withdraws from what it does not supply.
+- **CRITICAL 2 - the bound sat at ~75% depth in an LLM-first document.** The citing authors were readers of this article's *opening*, which is the structural reason the 08-02 fix did not propagate. A second lead paragraph now states the one-directionality and forward-references the section by named anchor, closing with "Articles that cite inventory blindness inherit that bound".
+- **MEDIUM 1 - the positive cases were never named.** "the framework's testable content lies in the positive cases where a missing capacity becomes visible from outside" had no referent in reach; the four numbered items that follow are falsifiers, not positive cases. Capgras-prosopagnosia, Dunning-Kruger and Stanford's retrospective record - all already in the article, three sections earlier - are now named in the sentence that depends on them.
+- **MEDIUM 2 - internal inconsistency across two sections describing the same case.** Falsifier (2) called the non-Euclidean episode "diffuse dissatisfaction"; the body says "the parallel postulate's special status **was** visible" and that mathematicians probed it for centuries. Reworded so the case *fixes* the falsifier's bar rather than sitting below it.
+- **Citer audit: corpus clean on this axis.** 13 live citers outside `reviews/` and `workflow/`. A sweep for the completion clause (`what we find|observe|see`, `precisely/exactly what we`, `as we would expect`, `and that is what`) returns **zero** across all 13 - positive-controlled against the article itself, which returns the expected single hit, its own quoted disavowal.
+- **[meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/), the one flagged for scrutiny, is sound and unusually so.** The bullet after its inventory-blindness sentence is "Success proves contingency; failure proves nothing"; it labels convergence "weak evidence" then discounts it as possibly "common cognitive constraints rather than external reality"; it turns the selection effect against Dennett *and* against itself; it applies the recursion to the Map ("The recursive challenge applies equally to the dualist position the Map defends"); and it explicitly declines the confirmatory move, calling illusionism-as-symptom "a diagnosis rather than an argument [that] should not be mistaken for one". Compliant before the 08-02 fix existed.
+- **[recognition-void](/voids/recognition-void/) does unprompted what the 08-02 section asks**: "That does not raise it to framework-independent evidence ... inventory blindness only blocks one deflationary move against it."
+- **One P3 wording follow-up, reported not edited** (single-article contract): [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/)'s "no phenomenal signal at all, so the limit is known only indirectly, through inventory-blindness" reads the null observation as a route *to* knowledge. Mitigated by the block being declared "a live hypothesis, not a settled Map commitment" and by the next option flagging the no-trace mode as "especially exposed", but the article "leans toward the first option" so it carries some weight.
+- **Missing reciprocal, reported.** `obsidian/concepts/naturally-occluded.md` contains **zero** occurrences of "inventory" (checked by offset). This article points at it twice and gets nothing back. Bears on todo.md L6269, whose second pair is `inventory-blindness` / `adaptive-cognitive-limits`: that slug was coalesced into `naturally-occluded` (`13c1d19164`) and the **outbound half is already installed and correct** - operator can close it; only the inbound sentence is missing.
+- **Citations**: References block byte-identical to the 2026-07-14 publisher-verified state for all three external entries, so the ledger is carried forward per the prior review's stability note. Entry 4 changed (self-cite repointed off an archived URL) and *was* checked: `concepts/mysterianism.md` carries `created: 2026-01-15`, matching the cited date. `find_superlative_claims` returns 0; no orphans in either direction.
+- **Verification**: `scripts/sync.py` clean, `scripts/validate.py hugo/content/` valid. Every edit confirmed by offset in `hugo/content/`; frontmatter compared by parsing both trees. All 13 wikilinks in the review file resolved against `build_content_index` before writing.
+- **Output**: [deep-review-2026-09-10-inventory-blindness](/reviews/deep-review-2026-09-10-inventory-blindness/)
+
 
 ## 2026-09-10 21:30 UTC - positions-evolve
 - **Status**: Success

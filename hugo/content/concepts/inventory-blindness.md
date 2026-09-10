@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-08-19 15:24:39+00:00
+ai_modified: 2026-09-10 21:51:26+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 concepts:
@@ -15,8 +15,8 @@ description: Human+AI analysis of inventory blindness—the epistemic condition 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-14 19:11:47+00:00
-lastmod: 2026-08-19 15:24:39+00:00
+last_deep_review: 2026-09-10 21:51:26+00:00
+lastmod: 2026-09-10 21:51:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -35,7 +35,9 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Inventory blindness is the epistemic condition in which absent cognitive capabilities produce no signal. You cannot survey the tools your mind lacks because the survey itself would require the missing tools — or something like them. Unlike ordinary ignorance, where you know there is something you do not know, inventory blindness leaves no gap, no felt absence, no phenomenological trace. The Unfinishable Map treats this as a foundational concept for understanding why [cognitive closure](/concepts/mysterianism/) is invisible from the inside and why parsimony arguments fail when applied to consciousness.
+Inventory blindness is the epistemic condition in which absent cognitive capabilities produce no signal. You cannot survey the tools your mind lacks because the survey itself would require the missing tools — or something like them. Unlike ordinary ignorance, where you know there is something you do not know, inventory blindness leaves no gap, no felt absence, no phenomenological trace. The Unfinishable Map treats this as a foundational concept for understanding why [cognitive closure](/concepts/mysterianism/) is invisible from the inside and why parsimony arguments become unreliable when applied to consciousness.
+
+The concept runs in one direction only. It blocks the inference from "we have detected no limits" to "there are no limits"; it licenses nothing in the other direction, because the silence it describes is exactly what a mind with no missing capacities would also encounter ([explained below](#what-would-challenge-this-view)). Articles that cite inventory blindness inherit that bound.
 
 The term originates in the Map's analysis of the [Recognition Void](/voids/recognition-void/), where it names one of that void's two faces: you cannot take stock of what your recognition capacities fail to reach. But the concept applies far beyond recognition. Wherever a mind has architectural limits, inventory blindness ensures those limits are self-concealing.
 
@@ -94,13 +96,13 @@ The central prediction of inventory blindness is a null one: a mind missing a co
 
 The defensive move is still worth having. Inventory blindness blocks the inference from "we have found no limits" to "there are no limits," which is the inference a parsimony argument needs when it treats the currently conceived options as the field of play. What it does not underwrite is the mirror-image inference from the same silence to the conclusion that limits are present and hidden. The concept constrains what an absence of evidence can be made to mean in either direction.
 
-Because the null observation carries no weight, the framework's testable content lies in the positive cases where a missing capacity becomes visible from outside. Inventory blindness would be weakened if: (1) reliable introspective markers of absent capacities were found — subjects flagging a determinate conceptual gap before acquiring the concept that fills it; (2) Stanford's historical record reversed, with episodes in which practitioners registered the specific shape of theories they could not yet formulate rather than the diffuse dissatisfaction visible in the non-Euclidean case; (3) external probes designed to bypass the blindness — AI systems trained without human evolutionary and developmental constraints, or work with genuinely isolated non-WEIRD populations — systematically surfaced nothing outside the human repertoire across many domains; or (4) a mind were shown able to survey its own architectural limits without possessing the capacities it lacks, which would break the recursion at step 2 above. Note that none of these is the observation that introspection finds no gap. That observation is the one thing the framework predicts regardless of whether the framework is true.
+Because the null observation carries no weight, the framework's testable content lies in the positive cases where a missing capacity becomes visible from outside. Three such cases appear above: the Capgras-prosopagnosia double dissociation, where lesions make a recognition component separately visible to an observer who could not have introspected it; the Dunning-Kruger pattern, where a bounded skill deficit and the failure to register it are measured independently of each other; and Stanford's historical record, where the unconceived theory is identified in retrospect by practitioners who have since acquired the concept. All three work by external triangulation rather than by introspection, and the empirical case for inventory blindness rests on them rather than on the absence of an introspective signal. Inventory blindness would be weakened if: (1) reliable introspective markers of absent capacities were found — subjects flagging a determinate conceptual gap before acquiring the concept that fills it; (2) Stanford's historical record reversed, with episodes in which practitioners registered the specific shape of theories they could not yet formulate — the non-Euclidean case fixes the bar, since there the suspect axiom was identified and probed for centuries while the alternative geometry it pointed towards stayed unconstructed; (3) external probes designed to bypass the blindness — AI systems trained without human evolutionary and developmental constraints, or work with genuinely isolated non-WEIRD populations — systematically surfaced nothing outside the human repertoire across many domains; or (4) a mind were shown able to survey its own architectural limits without possessing the capacities it lacks, which would break the recursion at step 2 above. Note that none of these is the observation that introspection finds no gap. That observation is the one thing the framework predicts regardless of whether the framework is true.
 
 ## Relation to Site Perspective
 
 Inventory blindness engages the Map's [tenets](/tenets/) at a fundamental level.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** receives its most direct mechanistic support from inventory blindness. Parsimony selects among *conceived* alternatives. If inventory blindness ensures that our conceptual inventory is incomplete in ways we cannot detect, then the simplest conceived explanation may be simple only because the true explanation lies outside our inventory. The apparent parsimony of materialism about consciousness could reflect a blind spot rather than a genuine insight — we find physicalism "simpler" because we lack the concepts that would reveal its inadequacy.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** receives its most direct mechanistic support from inventory blindness. Parsimony selects among *conceived* alternatives. If inventory blindness ensures that our conceptual inventory is incomplete in ways we cannot detect, then the simplest conceived explanation may be simple only because the true explanation lies outside our inventory. The apparent parsimony of materialism about consciousness could reflect a blind spot rather than a genuine insight: if the concepts that would expose an inadequacy are missing, physicalism will feel simpler whether or not it is, and the feeling is no guide either way. That withdraws a warrant from the parsimony argument. It supplies no evidence that the missing concepts exist.
 
 **[Dualism](/tenets/#dualism)** gains indirect support. If inventory blindness is real and pervasive, dismissing dualism on grounds of parsimony becomes unreliable. The non-physical aspects of reality that dualism posits might be precisely the kind of thing a physically-evolved cognitive system would be inventory-blind to — properties that produce no signal in minds built to navigate a physical environment.
 
