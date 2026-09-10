@@ -315,3 +315,38 @@
   subject_articles:
   - concepts/improper-vs-proper-mixtures.md
   subject_source: fallback:recent-aged
+- service: gemini
+  conversation_url: https://gemini.google.com/app/5e44d28dd860ecfd
+  commissioned_at: '2026-09-10T05:21:20.297478+00:00'
+  prompt_summary: Audit improper-vs-proper-mixtures
+  target_filename: outer-review-2026-09-10-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "You are a hostile pre-publication referee for a top-tier philosophy\
+    \ journal (Mind, Synthese, Philosophical Studies) assessing this article for submission.\
+    \ Your remit is to identify weaknesses that would justify rejection or major revision.\
+    \ The article is at https://unfinishablemap.org/concepts/improper-vs-proper-mixtures/\
+    \ and makes claims about the improper/proper mixture distinction and what decoherence\
+    \ does or does not settle about measurement outcomes. Site root: https://unfinishablemap.org\
+    \ \u2014 recent activity: https://unfinishablemap.org/workflow/changelog/. The\
+    \ site argues for a non-reductive view of consciousness. Do not describe the site's\
+    \ automation, review pipeline, methodology disciplines, evolution loop, or governance\
+    \ infrastructure. Those are project-internal and not the subject of audit. Assess\
+    \ only the article's empirical claims, citations, counterargument coverage, and\
+    \ logical inferences. Audit four things: whether its physics and history are accurate\
+    \ against the 2020s quantum-foundations literature; whether any result it cites\
+    \ has been challenged, retracted, or failed replication; where it brackets a question\
+    \ by assumption rather than argument; and which competing interpretations it leaves\
+    \ untested. Press hardest on whether it loads more ontological weight onto d'Espagnat's\
+    \ distinction than working physicists grant. End with at least five specific weaknesses,\
+    \ each citing a peer-reviewed 2020-2025 source the article omits, contradicts,\
+    \ or mishandles, then a one-sentence verdict on academic-submission readiness.\
+    \ If you cannot find five, state why none are visible. Do not append summary praise\
+    \ or any closing assessment of the site's strengths or ambition."
+  subject_type: recent
+  subject_title: Audit improper-vs-proper-mixtures
+  subject_articles:
+  - concepts/improper-vs-proper-mixtures.md
+  subject_source: reuse:pending-reviews:outer-review-2026-09-10-claude-opus-5.md
