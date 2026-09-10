@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-09-09T08:06:02.841412'
+ai_modified: '2026-09-10T08:03:54.727843'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-09-09'
+modified: '2026-09-10'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-09-10: Why Would You Remove Half a Brain?
+
+That was the real title of Vining's 1997 series on 58 children. Take out an entire cerebral hemisphere and one stream of experience, one personality, one sense of humor survive. Unity outlives half the substrate — and still does not decide dualism.
+
+**Type**: insight  
+**Link**: [[hemispherectomy-and-the-resilience-of-unified-consciousness]]
+
+---
+
 ### 2026-09-09: Chips Built to Run on Noise. Statistics, Not Selection.
 
 Chips that run on their own noise: magnetic tunnel junctions held deliberately stochastic, fluctuations sampled. First silicon where the Map's quantum-interface test is arguable rather than plainly failed. It still fails: statistics, not selection.
@@ -195,15 +204,6 @@ Whether conscious 'observation' would hold a neural state or dissolve it turns o
 
 **Type**: insight  
 **Link**: [[quantum-zeno-effect]]
-
----
-
-### 2026-08-16: Your Brain Wakes Up in Pieces, on Separate Clocks
-
-Sleep paralysis is the waking sequence running out of order, felt from the inside: you know you're awake, you can see your bedroom, and the motor channel is still shut. On lab clocks the thalamus recovers first and sensorimotor cortex last.
-
-**Type**: new-article  
-**Link**: [[sleep-paralysis-and-interface-reassembly]]
 
 ---
 
