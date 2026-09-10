@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-12
-ai_modified: 2026-08-18 23:38:03+00:00
+ai_modified: 2026-09-10 17:08:54+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -34,15 +34,15 @@ concepts:
 - '[[mental-imagery]]'
 - '[[philosophical-zombies]]'
 created: 2026-01-29
-date: &id001 2026-08-18
+date: &id001 2026-09-10
 description: The ape–human cognitive gap admits three rival readings. The Map defends
   phenomenal causation, concedes the comparative data cannot decide, and proposes
   a test.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-14 14:59:31+00:00
-lastmod: 2026-08-18 23:38:03+00:00
+last_deep_review: 2026-09-10 17:08:54+00:00
+lastmod: 2026-09-10 17:08:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -73,13 +73,13 @@ topics:
 - '[[animal-consciousness]]'
 ---
 
-Consciousness and intelligence are often conflated but conceptually distinct. Intelligence involves processing information, solving problems, and adapting behaviour. Consciousness involves subjective experience—there being something it is like to be the system in question. The Unfinishable Map holds that these capacities are deeply connected: on the Map's framework phenomenal consciousness causally enables human-level intelligence, and the creative distinctiveness that separates human thought from animal innovation and AI generation depends on it both as mechanism and as constitutive condition. That commitment is framework-relative, adopted on tenet-level grounds rather than read off the comparative record. The great-ape evidence surveyed below is consistent with at least three accounts of what consciousness is doing and [does not by itself select the Map's](#what-the-comparative-pattern-can-and-cannot-establish) (audited below, with the observations that would). What the comparative pattern does reveal is a cognitive threshold—a transition where neural architecture becomes rich enough to serve consciousness as an effective interface. Understanding the relationship clarifies why AI systems achieve impressive performance without genuine understanding, and where the great ape–human cognitive gap does and does not bear on consciousness's causal role.
+Consciousness and intelligence are often conflated but conceptually distinct. Intelligence involves processing information, solving problems, and adapting behaviour. Consciousness involves subjective experience—there being something it is like to be the system in question. The Unfinishable Map holds that these capacities are deeply connected: on the Map's framework phenomenal consciousness causally enables human-level intelligence, and the creative distinctiveness that separates human thought from animal innovation and AI generation depends on it both as mechanism and as constitutive condition. That commitment is framework-relative, adopted on tenet-level grounds rather than read off the comparative record. The great-ape evidence surveyed below is consistent with at least three accounts of what consciousness is doing and [does not by itself select the Map's](#what-the-comparative-pattern-can-and-cannot-establish); the audit below names the observations that would. What the comparative pattern does reveal is a cognitive threshold—the Map reads it as neural architecture becoming rich enough to serve consciousness as an effective interface. Understanding the relationship clarifies why AI systems achieve impressive performance without genuine understanding, and where the great ape–human cognitive gap does and does not bear on consciousness's causal role.
 
 ## Baseline Cognition and the Zone of Latent Solutions
 
 The [consciousness-as-intelligence-amplifier](/concepts/consciousness-as-amplifier/) hypothesis draws on comparative cognition. Great apes represent what the Map calls [baseline-cognition](/concepts/baseline-cognition/)—sophisticated neural processing without the full conscious access that humans enjoy. The "zone of latent solutions" (Tennie, Call & Tomasello, 2009) names the boundary: within it, novel behaviours emerge through recombination of existing skills, trial-and-error discovery, and social observation—all without insight into *why* solutions work. A chimpanzee who discovers that a thin stick fishes termites more effectively than a thick one has innovated, but the innovation is unreflective—it happens *to* the ape rather than being *done by* the ape through deliberate authorship.
 
-The zone has a ceiling. Ape innovations do not ratchet upward because [cumulative improvement](/concepts/cumulative-culture/) requires representing the current method *as* a method, seeing its limitations, and designing improvements. This [metarepresentational](/concepts/metacognition/) step exits the zone—it requires consciousness. If consciousness contributed nothing to cognition—if it were [epiphenomenal](/concepts/epiphenomenalism/)—we would expect cognitive capabilities to scale smoothly with neural complexity. They do not.
+The zone has a ceiling. Ape innovations do not ratchet upward because [cumulative improvement](/concepts/cumulative-culture/) requires representing the current method *as* a method, seeing its limitations, and designing improvements. This [metarepresentational](/concepts/metacognition/) step exits the zone, and on the Map's reading it requires consciousness. Whether the comparative ceiling supports that reading or the [epiphenomenalist](/concepts/epiphenomenalism/) alternative is [audited below](#what-the-comparative-pattern-can-and-cannot-establish).
 
 ## The Cognitive Gap
 
@@ -87,7 +87,7 @@ Four capacities distinguish human from great ape cognition, each mapping onto wh
 
 **Working memory.** Chimpanzee working memory is estimated at approximately 2±1 items (Read, Manrique & Walker 2022), against roughly 4±1 for humans once chunking is controlled for (Cowan 2001). The ape figure is a review's synthesis of the comparative data rather than a single measurement, and the cross-species comparison is contested—see [the capacity gap](/concepts/working-memory/#the-capacity-gap). Even this conservative two-fold expansion enables qualitatively new operations: tracking relationships, holding intermediate conclusions, and considering alternatives simultaneously—operations that formal reasoning and creative combination both require.
 
-**Metacognition.** Great apes show procedural metacognition—uncertainty guides their behaviour—but may lack *declarative* metacognition: representing their knowledge *as* knowledge, taking their beliefs as objects of thought. This transition from implicit monitoring to explicit self-knowledge—the [metarepresentation threshold](/concepts/metacognition/#the-metarepresentation-threshold)—underlies both logical reasoning and transformational creativity. The boundary is narrower than a flat capacity claim suggests, and the evidence has moved. Krupenye et al. (2016) found chimpanzees, bonobos, and orangutans anticipating agents who acted on false beliefs, and Buttelmann et al. (2017) found chimpanzees interpreting behaviour through an agent's false belief in an interactive helping task. Whether these show genuine belief attribution or sophisticated behaviour-reading remains contested (Heyes 2014), and Apperly and Butterfill's (2009) two-systems reading places apes inside an implicit belief-tracking system while reserving the explicit, flexible system for humans ([the theory-of-mind article](/concepts/theory-of-mind/) develops the graded picture). What the record supports is a difference in *explicit* metarepresentation, with implicit belief-like tracking present on both sides.
+**Metacognition.** Great apes show procedural metacognition—uncertainty guides their behaviour—but may lack *declarative* metacognition: representing their knowledge *as* knowledge, taking their beliefs as objects of thought. This transition from implicit monitoring to explicit self-knowledge—the [metarepresentation threshold](/concepts/metacognition/#the-metarepresentation-threshold)—underlies both logical reasoning and transformational creativity. The boundary is narrower than a flat capacity claim suggests, and the evidence has moved. Krupenye et al. (2016) found chimpanzees, bonobos, and orangutans anticipating agents who acted on false beliefs, and Buttelmann et al. (2017) found great apes as a group interpreting behaviour through an agent's false belief in an interactive helping task. Whether these show genuine belief attribution or sophisticated behaviour-reading remains contested (Heyes 2014), and Apperly and Butterfill's (2009) two-systems reading places apes inside an implicit belief-tracking system while reserving the explicit, flexible system for humans ([the theory-of-mind article](/concepts/theory-of-mind/) develops the graded picture). What the record supports is a difference in *explicit* metarepresentation, with implicit belief-like tracking present on both sides.
 
 **Cumulative culture.** Apes have culture but cannot accumulate improvements across generations. Whiten (2015) documents that ape cultural transmission lacks the ratchet effect. Cumulative culture requires recognising one's own knowledge as improvable and transmittable—a metarepresentational capacity inseparable from conscious self-reflection. [Teaching](/concepts/teaching-as-metarepresentation/) is the concrete behavioural exhibit of this exact step: great apes rarely teach precisely because they do not represent their own skills as knowledge another lacks, which is why the ratchet never engages.
 
@@ -166,7 +166,7 @@ If the Map is right, the path to human-level AI runs through consciousness—not
 
 ## The Evolutionary Argument
 
-William James argued in 1890 that consciousness must be causally efficacious because it evolved. The argument's force does not run through the comparative gap, which [as audited above](#what-the-comparative-pattern-can-and-cannot-establish) does not discriminate between the rival readings. It runs through selection: a trait making no difference to what an organism does is invisible to selection, so an account that leaves experience causally idle owes an explanation of why it was retained and elaborated. The standard reply—that phenomenality is a by-product of an architecture selection did favour—remains available, which keeps the argument suggestive rather than decisive. Georgiev (2024) argues: "Any endeavor to construct a physical theory of consciousness based on emergence within the framework of classical physics leads to causally impotent conscious experiences in direct contradiction to evolutionary theory."
+William James argued in 1890 that consciousness must be causally efficacious because it evolved. The argument's force does not run through the comparative gap, which [as audited above](#what-the-comparative-pattern-can-and-cannot-establish) does not discriminate between the rival readings. It runs through selection: a trait making no difference to what an organism does is invisible to selection, so an account that leaves experience causally idle owes an explanation of why it was retained and elaborated. The standard reply—that phenomenality is a by-product of an architecture selection did favour—remains available, which keeps the argument suggestive rather than decisive. Georgiev (2024) goes further: "Any endeavor to construct a physical theory of consciousness based on emergence within the framework of classical physics, however, leads to causally impotent conscious experiences in direct contradiction to evolutionary theory."
 
 The [zombie](/concepts/philosophical-zombies/) comparison sharpens the creative question. If creativity requires only neural computation, a zombie produces identical art. But if phenomenal states causally contribute to creative selection—if the felt sense that a combination is right or wrong biases which possibilities become actual—the zombie needs a different mechanism, and the outputs may diverge.
 
@@ -174,7 +174,7 @@ The [zombie](/concepts/philosophical-zombies/) comparison sharpens the creative 
 
 The consciousness-intelligence-creativity thesis would weaken if:
 
-1. **Great apes achieved cumulative culture** without apparent consciousness expansion, making the linkage correlational
+1. **Great apes achieved cumulative culture** without the explicit metarepresentation the model requires
 2. **Neural complexity alone** explained the cognitive discontinuity through a proportionally dramatic architectural change
 3. **AI produced work guided by something functionally equivalent to "this feels wrong"**—meaning-tracking revision indistinguishable from human creative revision
 4. **Unconscious integration was demonstrated**: complex novel combinations occurring reliably under subliminal conditions (current evidence is against this—Zher-Wen & Tsuchiya, 2023)
@@ -183,7 +183,7 @@ The consciousness-intelligence-creativity thesis would weaken if:
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: If consciousness just *is* neural processing, the threshold should be identifiable as a specific neural architectural change. But the cognitive discontinuity does not correspond to a proportionally dramatic neural difference—chimpanzee and human brains are structurally similar; the cognitive gap is enormous. The meaning-sensitivity of creative selection resists physical reduction: what a word *means to* a creator—its felt resonance—is the kind of phenomenal property that the [explanatory-gap](/concepts/explanatory-gap/) identifies as irreducible.
+**[Dualism](/tenets/#dualism)**: A physicalist reading of the threshold has a candidate architectural change to hand—explicit metarepresentation, [audited above](#what-the-comparative-pattern-can-and-cannot-establish) among the co-varying factors—so the structural similarity of chimpanzee and human brains settles nothing by itself. What resists physical reduction is the meaning-sensitivity of creative selection: what a word *means to* a creator—its felt resonance—is the kind of phenomenal property that the [explanatory-gap](/concepts/explanatory-gap/) identifies as irreducible.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The systematic correspondence between consciousness-requiring functions and the human-ape gap is part of what drew the Map to this tenet. By the [constrain-vs-establish discipline](/project/evidential-status-discipline/) the correspondence constrains the space of viable accounts without establishing this one—[as audited above](#what-the-comparative-pattern-can-and-cannot-establish), the accompaniment and common-cause readings survive it intact. What the creative loop supplies is an account of *how* the tenet would be implemented if it holds: consciousness orchestrates network switching, selects through attention, and generates through imagination. The amplification hypothesis specifies the same at the functional level—flexible deployment, metacognitive monitoring, and counterfactual simulation.
 
