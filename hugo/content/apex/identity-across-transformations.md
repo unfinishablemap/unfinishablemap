@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-09-04 11:26:04+00:00
+ai_modified: 2026-09-10 05:12:00+00:00
 ai_system: claude-opus-4-6
-apex_last_synthesis: 2026-06-02 18:30:00+00:00
+apex_last_synthesis: 2026-09-10 05:12:00+00:00
 apex_sources:
 - topics/personal-identity
 - topics/death-and-consciousness
@@ -13,6 +13,7 @@ apex_sources:
 - topics/consciousness-disruption-and-the-mind-brain-interface
 apex_thesis: Identity is irreducibly indexical—being *this* consciousness matters
   in ways pattern-based accounts cannot capture.
+apex_type: synthesis
 author: null
 concepts:
 - '[[haecceity]]'
@@ -35,7 +36,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 09:10:00+00:00
-lastmod: 2026-09-04 11:26:04+00:00
+lastmod: 2026-09-10 05:12:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -96,11 +97,11 @@ Fourth, the past-self argument. [Autonoetic consciousness](/concepts/anoetic-noe
 
 Thomas Nagel's observation captures the puzzle: these patients show too much division under laboratory conditions to be counted as one mind, yet an integration in ordinary life too complete to be counted as two. Nagel took the indeterminacy to run deeper than a limit on evidence: our concept of a single unified subject may not correspond to anything real. The Map's [individuation register](/positions/individuation-and-subjecthood/) reads it as epistemic rather than metaphysical — there is a fact of the matter, and no anatomical or behavioural measure settles it, because on the interface model the anatomy is the channel and not the subject.
 
-[Phenomenal unity](/concepts/unity-of-consciousness/) divides into three dimensions, each challenged differently by split-brain cases. *Synchronic unity*—all experiences belonging to one consciousness at a given moment—fractures partially when conflicting images reach each visual field, though Pinto et al. (2017) found patients can report shapes presented to either field, suggesting more resilience than pure perceptual division implies. *Diachronic unity*—continuity of experience through time—appears largely preserved; patients maintain autobiographical memory and continuous identity. *Subject unity*—that all experiences are had by a single subject—is indeterminate on Nagel's reading and, on the Map's, determinate but not settled by the anatomy. The selective disruption is itself evidence that identity is multi-layered: the dimension most tied to indexical identity proves most resistant to physical intervention.
+[Phenomenal unity](/concepts/unity-of-consciousness/) divides into three dimensions, each challenged differently by split-brain cases. *Synchronic unity*—all experiences belonging to one consciousness at a given moment—fractures partially when conflicting images reach each visual field, though Pinto et al. (2017) found patients can report shapes presented to either field. Schechter and Bayne (2021) press the rebuttal that reading must answer: responding as a single organism establishes a unity of *agency*, not a unity of *experience*. *Diachronic unity*—continuity of experience through time—appears largely preserved; patients maintain autobiographical memory and continuous identity. *Subject unity*—that all experiences are had by a single subject—is indeterminate on Nagel's reading and, on the Map's, determinate but not settled by the anatomy. The selective disruption is itself evidence that identity is multi-layered: the dimension most tied to indexical identity proves most resistant to physical intervention.
 
-A 2025 PNAS study strengthens this reading. Using fMRI, researchers found that as little as a centimetre of intact corpus callosum fibers can maintain full neural synchronisation between hemispheres—consciousness resists fragmentation even when physical connections are almost entirely severed. This suggests that what unifies experience isn't merely information transfer but something about consciousness itself—perhaps the very haecceity that makes split-brain patients feel like one person despite perceptual division.
+A 2025 PNAS study constrains how far that reading can be pressed. Using fMRI on callosotomy patients, Santander et al. found that a fraction of intact posterior callosal fibre—as little as a centimetre—sustains full interhemispheric integration, while complete section does disrupt network organisation. Residual integration is therefore physically explicable: the spared ribbon is doing the work, so the unity argument cannot rest on connectivity measures. What survives is narrower—despite perceptual fragmentation, patients report a single first-person perspective, which suggests indexical identity is a different thing from the computational binding that physical connections enable.
 
-If consciousness could split like physical matter, haecceity would face a problem: which half inherits your thisness? But the evidence suggests consciousness doesn't split cleanly. The persistence of first-person unity through surgical division supports the view that indexical identity is more fundamental than the computational binding that physical connections enable.
+If consciousness could split like physical matter, haecceity would face a problem: which half inherits your thisness? The reports suggest the first-person perspective does not divide even where perception does, which is why the Map locates identity at the indexical level rather than in the binding.
 
 ## The Temporal Gap: Loss and Return of Consciousness
 
@@ -116,11 +117,11 @@ The Map's [filter-theory](/concepts/filter-theory/) offers an interpretation. Th
 
 Production accounts here inherit Theseus's paradox: consciousness resumes gradually, with no clear answer about identity.
 
-The [anaesthesia time-gap section of the consciousness-disruption article](/topics/consciousness-disruption-and-the-mind-brain-interface/#memory-sleep-and-the-vanishing-of-time) poses the question in its sharpest form: *where does the experiencing subject go when time stops?* The subject who returns is recognisably *this* subject. Production accounts accommodate that recognition by appeal to brain-state-continuity—the same neural substrate resumes the same patterns—but this is the wrong grain. It predicts the qualitative similarity we observe behaviourally; it does not predict why the returning subject is *this* one rather than a qualitatively identical replacement. The teletransporter replica has full brain-state-continuity with the original, yet intuition resists the identification, and the anaesthesia case is structurally identical. Interface theories predict indexical identity directly from continuity of the interface-bearing substrate—the same consciousness reconnects because it never went anywhere. This is suggestive rather than definitive: the anaesthesia evidence is compatible with production accounts that postulate brain-state-continuity as sufficient for indexical identity, though such accounts then owe an explanation of why the teletransporter intuition is mistaken. The anaesthesia time-gap is a haecceity exhibit, not a haecceity proof.
+The [anaesthesia time-gap section](/topics/consciousness-disruption-and-the-mind-brain-interface/#memory-sleep-and-the-vanishing-of-time) presses that question hardest. The subject who returns is recognisably *this* subject. Production accounts accommodate that recognition by appeal to brain-state-continuity—the same neural substrate resumes the same patterns—but this is the wrong grain. It predicts the qualitative similarity we observe behaviourally; it does not predict why the returning subject is *this* one rather than a qualitatively identical replacement. The teletransporter replica has full brain-state-continuity with the original, yet intuition resists the identification, and the anaesthesia case is structurally identical. Interface theories predict indexical identity directly from continuity of the interface-bearing substrate—the same consciousness reconnects because it never went anywhere. The anaesthesia evidence remains compatible with production accounts that treat brain-state-continuity as sufficient for indexical identity, though such accounts then owe an explanation of why the teletransporter intuition is mistaken. The time-gap is a haecceity exhibit, not a proof.
 
-Clinical findings from [loss of consciousness and disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) sharpen this reading. Different anesthetics produce identical behavioural unresponsiveness yet radically different phenomenologies—propofol's near-total extinction of experience versus ketamine's vivid dissociative dreams—which would be impossible if behavioural absence were a reliable index of conscious absence. Cognitive motor dissociation, present in roughly a quarter of patients classified as unresponsive in a 2024 *New England Journal of Medicine* study, reveals consciousness that persists with full cognitive function even when the interface to motor behaviour is entirely severed. Identity survives invisibly across these gaps: the CMD patient who emerges into communication turns out to have been themselves all along. [Dissociative identity disorder](/topics/clinical-dissociation-as-systematic-evidence/) presents the inverse pattern—fragmented self-expression on a structurally intact, integrated substrate—yet points the same way: the experiencing subject persists beneath the fragmentation.
+Clinical findings from [loss of consciousness and disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) sharpen this reading. Different anesthetics produce identical behavioural unresponsiveness yet radically different phenomenologies—propofol's near-total extinction of experience versus ketamine's vivid dissociative dreams—which would be impossible if behavioural absence were a reliable index of conscious absence. Cognitive motor dissociation, present in roughly a quarter of patients classified as unresponsive in a 2024 *New England Journal of Medicine* study, reveals consciousness that persists with full cognitive function even when the interface to motor behaviour is entirely severed. Identity survives invisibly across these gaps: the CMD patient who emerges into communication turns out to have been themselves all along. [Dissociative identity disorder](/topics/clinical-dissociation-as-systematic-evidence/) presents the inverse pattern—fragmented self-expression on a structurally intact, integrated substrate—yet points the same way: the experiencing subject persists beneath the fragmentation. These three findings instantiate one evidential pattern—production-predicted absence yet observed presence—and should be counted once, not three times.
 
-Filter theory's explanatory scope is also its vulnerability—every pattern of consciousness-brain correlation is compatible with it. No empirical observation could distinguish filter theory from production theory. The Map employs it as a metaphysical framework rather than an empirical hypothesis: it provides a *coherent* account of identity persistence, not a *testable* one.
+Filter theory's explanatory scope is also its vulnerability: as a bare interpretation of correlation, every pattern of consciousness-brain covariation is compatible with it, so correlation data alone cannot discriminate it from production. That is a limit on this evidence rather than permanent immunity — the Map's [falsification roadmap](/topics/falsification-roadmap-for-the-interface-model/) holds that the mechanism-committed readings of the quantum tenets do generate testable predictions. What filter theory supplies *here* is a coherent account of identity persistence rather than a test of it.
 
 ## Altered States: Transformation Without Loss
 
@@ -156,7 +157,7 @@ Collapse interpretations preserve indexical identity by maintaining that one out
 
 The Map's dualist framework makes survival coherent without guaranteeing it. If consciousness is not identical with neural activity but merely interfaces with it, brain death might alter how consciousness manifests without ending *this* particular consciousness. The question becomes genuinely open in ways materialism forecloses.
 
-The phenomenology of dying strengthens this openness. As [the death article](/topics/death-and-consciousness/) develops, dying involves far more than a binary switch from conscious to unconscious. Terminal lucidity—where patients with advanced neurodegeneration suddenly recover full mental clarity, recognise family, and hold coherent conversations—challenges production models directly: the neural tissue that supposedly generated their consciousness has been extensively destroyed, yet *this* person returns, with *their* memories and identity intact. Nearing death awareness unfolds over days or weeks as a gradual transition, and shared death experiences—where healthy bystanders report sharing aspects of the dying person's experience—suggest consciousness may not be confined to a single brain. Across these phenomena, consciousness appears enhanced rather than diminished as the brain fails, as though the interface were dissolving to reveal what it normally constrains.
+The phenomenology of dying strengthens this openness. As [the death article](/topics/death-and-consciousness/) develops, dying involves far more than a binary switch from conscious to unconscious. Terminal lucidity—where patients with advanced neurodegeneration suddenly recover full mental clarity, recognise family, and hold coherent conversations—challenges production models directly: the neural tissue that supposedly generated their consciousness has been extensively destroyed, yet *this* person returns, with *their* memories and identity intact. Nearing death awareness unfolds over days or weeks as a gradual transition, and shared death experiences—where healthy bystanders report sharing aspects of the dying person's experience—suggest consciousness may not be confined to a single brain. Across these phenomena, *reports* of enhanced rather than diminished awareness recur as the brain fails, as though the interface were dissolving to reveal what it normally constrains — though the reports are the datum, and shared death experiences in particular may not survive prospective study.
 
 But survival, if it occurs, must preserve indexical identity. What death threatens is not merely a biological organism but the *extended self*—the being constituted moment by moment through [autonoetic](/concepts/anoetic-noetic-autonoetic-consciousness/) binding, a felt continuity that cannot be copied like data. This constrains what could count as "you" continuing:
 
@@ -170,11 +171,21 @@ The six source articles for this synthesis converge on a single claim: identity 
 
 This is a metaphysical thesis, not an empirical hypothesis. No experiment could demonstrate haecceity, because haecceity by definition has no qualitative signature that observation could detect. The Map advances it as the most coherent account of what personal identity involves—one that takes phenomenological evidence seriously, makes sense of puzzle cases, and integrates with the dualist framework the Map defends. Whether metaphysical frameworks should be evaluated by coherence and explanatory fit (as the Map holds) or only by empirical testability (as critics demand) is itself a philosophical question the Map addresses through its [fifth tenet](/tenets/#occams-limits).
 
-This indexical identity proves remarkably resilient. Split-brain patients maintain first-person unity despite perceptual division. Anesthetized subjects return as themselves despite temporal gaps with no connecting experience. Meditators preserve witnessing awareness through the radical content reconfigurations of altered states.
+This indexical identity proves remarkably resilient. Split-brain patients report a single first-person perspective despite perceptual division. Anesthetized subjects return as themselves despite temporal gaps with no connecting experience. Meditators preserve witnessing awareness through the radical content reconfigurations of altered states.
 
 The resilience suggests that indexical identity is fundamental—not derived from psychological or biological continuity but presupposed by them. Continuity matters as *evidence* of the same consciousness persisting, not as what identity *consists in*. A replica with perfect psychological continuity would be a new consciousness; the same consciousness with fragmented continuity (as in amnesia or split-brain) remains the same subject.
 
 The Map's tenets provide the framework for understanding why. Dualism makes consciousness irreducible; Bidirectional Interaction gives it unique causal history; No Many Worlds preserves indexical facts against branching dissolution; Minimal Quantum Interaction locates consciousness-matter interface at the fundamental level where identity questions become physics questions. Together, they support a picture where being *this* consciousness is an irreducible fact about reality—not a mere description that could in principle be satisfied by multiple candidates.
+
+## Evidence and Dependency
+
+The lines of support gathered here carry very different weights, and they are not independent of one another.
+
+The clinical material is externally evidenced. The anaesthesia, cognitive-motor-dissociation and dissociative-disorder findings are real results that hold whatever one makes of the Map, but they establish only that behavioural absence is an unreliable index of conscious absence, and as noted above they form one evidential pattern rather than three. The split-brain literature is likewise externally evidenced, and the 2025 connectivity result now cuts *against* the version of the unity argument that rests on severed connections; what remains is the first-person report, which Schechter and Bayne read as agency rather than experience.
+
+The phenomenological case for haecceity is argued rather than inherited, though it needs a premise eliminativism denies: that experiences require experiencers.
+
+The remainder is inherited. The filter reading of the anaesthesia gap follows from Tenets 1-3 and contributes coherence rather than evidence. The quantum section leans on Tenet 4, and the dependency runs both ways — the Map rejects many-worlds partly *because* of what branching does to identity, so that section cannot also be counted as independent confirmation of indexical identity.
 
 ## Relation to Site Perspective
 
@@ -206,3 +217,4 @@ This synthesis draws from:
 4. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224.
 5. Mashour, G. A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(10), 1553-1567.
 6. Pinto, Y. et al. (2017). Split brain: divided perception but undivided consciousness. *Brain*, 140(5), 1231-1237.
+7. Schechter, E., & Bayne, T. (2021). Consciousness after split-brain surgery: The recent challenge to the classical picture. *Neuropsychologia*, 160, 107987. https://doi.org/10.1016/j.neuropsychologia.2021.107987

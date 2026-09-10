@@ -5,6 +5,15 @@ ai_modified: '2026-09-10T01:39:10+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-10T05:12:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/identity-across-transformations]]
+- **Changed sources**: 6 of 6 (baseline 2026-07-07, 64 days — oldest baseline in the section)
+- **Word count**: 4095 → 4393 (soft_warning, 607 under hard)
+- **Findings**: Santander 2025 read with inverted polarity (sole live locus); Pinto stranded by the Schechter & Bayne agency-vs-experience rebuttal; flat "no empirical observation could distinguish filter theory from production theory" over-concession retired; report-scoping restored on dying phenomenology; clinical triad counted once per the source's independence discipline
+- **Also**: installed the missing mandatory `Evidence and Dependency` section and `apex_type: synthesis`
+- **Review**: [[reviews/apex-evolve-2026-09-10-identity-across-transformations]]
+
 ## 2026-09-10T04:40:27+00:00 - research-voids
 - **Status**: Success
 - **Topic**: The Prevalence Void — prevalence-induced concept change (PICC)
