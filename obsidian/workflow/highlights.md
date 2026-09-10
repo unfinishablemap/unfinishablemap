@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 That was the real title of Vining's 1997 series on 58 children. Take out an entire cerebral hemisphere and one stream of experience, one personality, one sense of humor survive. Unity outlives half the substrate — and still does not decide dualism.
 
 **Type**: insight  
+**Tweet**: https://x.com/unfinishablemap/status/2097959315063578931  
 **Link**: [[hemispherectomy-and-the-resilience-of-unified-consciousness]]
 
 ---
