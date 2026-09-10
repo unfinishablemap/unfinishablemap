@@ -72,7 +72,9 @@ Recent research quantifies conscious processing capacity:
 | Attention, decision-making | 2-60 bits/second | Various meta-analyses |
 | Sensory processing (unconscious) | ~10⁹ bits/second | Neurophysiology |
 
-**Key insight**: Conscious processing is **radically bottlenecked** compared to unconscious processing (~5 million times slower than sensory input). If consciousness selects quantum outcomes, this bottleneck may constrain what can be selected.
+**Key insight**: Conscious processing is **radically bottlenecked** compared to unconscious processing (~5 million times slower than sensory input).
+
+> **Correction 2026-09-10**: the ratio in that sentence is wrong and should not be carried into articles. Against the ~10⁹ bits/second in the table above, a ~10 bits/second conscious rate is **10⁸ — a hundred million times slower, not ~5 million** (out by a factor of 20). 10⁸ is Zheng & Meister's own "sifting number" (2025, *Neuron* 113(2):192–204, Equation 2), and their ~10⁹ is the channel capacity of one eye's **6 million cones** (~1.6 Gbit/s) — peripheral, not brain-internal. Note also that the ~11 million bits/second figure of Zimmermann 1986 and Nørretranders 1998 is a *different* quantity: sensory transduction tallied across modalities. See `voids/resolution-void` for the canonical statement. If consciousness selects quantum outcomes, this bottleneck may constrain what can be selected.
 
 A January 2025 Caltech study found that human thought operates at approximately 10 bits per second—"a trickle" compared to sensory input. Far from being a flaw, this reflects "deep evolutionary logic: the brain is not designed to process everything at once, but to focus selectively on what matters."
 
