@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-07-31 13:59:05+00:00
+ai_modified: 2026-09-10 16:47:58+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 16:05:02+00:00
-lastmod: 2026-07-31 13:59:05+00:00
+lastmod: 2026-09-10 16:47:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -87,7 +87,7 @@ If agency is real, certain positions in moral theory become harder to maintain.
 
 **One specific motivation behind error theory weakens.** Moral error theory—the view that all moral claims are false because there are no moral facts—rests on multiple motivations (Mackie's queerness, anthropological diversity, evolutionary debunking, motivational internalism). Genuine agency does not by itself defeat error theory; it contributes one half of a two-step move against the queerness objection.
 
-*Step 1—Agency provides the evaluator.* If consciousness selects among alternatives for reasons, normative evaluation has a candidate target: a being whose selections can be assessed as well- or poorly-performed. The existence of a causal power does not by itself generate norms (gravity is real without creating obligations about how it "should" operate), but agent causation is distinctive in involving reasons-responsive selection rather than mere physical unfolding.
+*Step 1—Agency provides the evaluator.* If consciousness selects among alternatives for reasons, [normative evaluation](/topics/consciousness-and-normative-force/) has a candidate target: a being whose selections can be assessed as well- or poorly-performed. The existence of a causal power does not by itself generate norms (gravity is real without creating obligations about how it "should" operate), but agent causation is distinctive in involving reasons-responsive selection rather than mere physical unfolding.
 
 *Step 2—Phenomenal-value-realism supplies the grounds.* [phenomenal-value-realism](/topics/phenomenal-value-realism/) holds that the felt badness of suffering *is* badness—moral facts grounded in phenomenal experience rather than "floating free" as Mackie's queerness objection supposes. This is the move that addresses queerness, and it is largely independent of whether agency is libertarian or compatibilist.
 

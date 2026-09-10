@@ -4,7 +4,7 @@ description: "A named anti-slippage move: when sophisticated reasons-responsive 
 created: 2026-05-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-08-23T23:02:44+00:00
+ai_modified: 2026-09-10T16:47:58+00:00
 last_deep_review: 2026-08-23T23:02:44+00:00
 draft: false
 topics:
@@ -49,7 +49,7 @@ The third step is what distinguishes the symmetry challenge from a full concessi
 
 The Map has a structural temptation, identified by repeated outer reviews, to treat the unity of its dualist architecture as if that unity were itself an additional argument for the architecture. The four-pillar moral synthesis in [[moral-architecture-of-consciousness|the moral-architecture apex]] — phenomenal value realism, agent causation, phenomenal normativity, moral perception — converges on a single ground, and the convergence is genuine. But the [[coherence-inflation-countermeasures|coherence-inflation countermeasures]] warn that *fits together* is a property the Map produces by construction, since the catalogue prunes for internal consistency. The unity is what the four pillars *enable*, not a fifth independent confirmation.
 
-The Compatibilist Symmetry Challenge applies the same restraint at the agency pillar specifically. The pillar's distinctive contribution is that it grounds moral content from the same ontological source the rest of the Map invokes for value, normativity, and moral perception. Sophisticated compatibilism grounds the moral content too, so the pillar's contribution is integrative — fitting agency into a single ontological frame — rather than separating, in the sense of supplying moral content unavailable elsewhere. The integrative move is real; the *separating* move is weak in moral theory considered alone. Treating the agency pillar as if it had unique moral leverage would inflate the integrative move into a separating move, replicating at the agency pillar the unity-as-evidence error the apex-level countermeasures already guard against.
+The Compatibilist Symmetry Challenge applies the same restraint at the agency pillar specifically. The pillar's distinctive contribution is that it grounds moral content from the same ontological source the rest of the Map invokes for value, [[consciousness-and-normative-force|normativity]], and moral perception. Sophisticated compatibilism grounds the moral content too, so the pillar's contribution is integrative — fitting agency into a single ontological frame — rather than separating, in the sense of supplying moral content unavailable elsewhere. The integrative move is real; the *separating* move is weak in moral theory considered alone. Treating the agency pillar as if it had unique moral leverage would inflate the integrative move into a separating move, replicating at the agency pillar the unity-as-evidence error the apex-level countermeasures already guard against.
 
 The challenge is also the [[direct-refutation-discipline|direct-refutation discipline]] applied at the metaethical interface: where the evidence is compatible with both libertarian and compatibilist readings, an article must classify it as *compatibility* rather than as support for the Map's reading, unless it names an independent discriminator the compatibilist does not also predict. At the level of central moral discourse, none is in hand.
 

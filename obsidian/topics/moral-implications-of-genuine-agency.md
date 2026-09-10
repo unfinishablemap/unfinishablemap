@@ -4,7 +4,7 @@ description: "If consciousness causes actions, morality changes from useful conv
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-07-31T13:59:05+00:00
+ai_modified: 2026-09-10T16:47:58+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -83,7 +83,7 @@ If agency is real, certain positions in moral theory become harder to maintain.
 
 **One specific motivation behind error theory weakens.** Moral error theory—the view that all moral claims are false because there are no moral facts—rests on multiple motivations (Mackie's queerness, anthropological diversity, evolutionary debunking, motivational internalism). Genuine agency does not by itself defeat error theory; it contributes one half of a two-step move against the queerness objection.
 
-*Step 1—Agency provides the evaluator.* If consciousness selects among alternatives for reasons, normative evaluation has a candidate target: a being whose selections can be assessed as well- or poorly-performed. The existence of a causal power does not by itself generate norms (gravity is real without creating obligations about how it "should" operate), but agent causation is distinctive in involving reasons-responsive selection rather than mere physical unfolding.
+*Step 1—Agency provides the evaluator.* If consciousness selects among alternatives for reasons, [[consciousness-and-normative-force|normative evaluation]] has a candidate target: a being whose selections can be assessed as well- or poorly-performed. The existence of a causal power does not by itself generate norms (gravity is real without creating obligations about how it "should" operate), but agent causation is distinctive in involving reasons-responsive selection rather than mere physical unfolding.
 
 *Step 2—Phenomenal-value-realism supplies the grounds.* [[topics/phenomenal-value-realism]] holds that the felt badness of suffering *is* badness—moral facts grounded in phenomenal experience rather than "floating free" as Mackie's queerness objection supposes. This is the move that addresses queerness, and it is largely independent of whether agency is libertarian or compatibilist.
 
