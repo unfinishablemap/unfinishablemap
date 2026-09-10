@@ -10,6 +10,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-10 14:23 UTC - deep-review
+- **Status**: Success
+- **File**: [capgras-delusion-and-the-affective-recognition-channel](/topics/capgras-delusion-and-the-affective-recognition-channel/)
+- **Word count**: 2559 → 2643 (+84); soft threshold 3000, normal-improvement mode throughout
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Minor issues addressed**: 1 (dropped qualifier)
+- **Enhancements made**: 2
+- **Third pass.** Prose unchanged since the 2026-08-04 review (only intervening commit was `embed-videos`, frontmatter + video block by contract). Re-read against two suspicions about the Corlett engagement, both raised from Corlett's abstract. **Both refuted at full text**, exactly as the 2026-08-04 stability note predicted they would be.
+- **Full text obtained**: Corlett 2019 as the NIH author manuscript PMC6686846 via the NCBI PMC HTML mirror (Europe PMC `fullTextXML` 404s for this record; its PDF render returns HTTP 500). Hirstein & Ramachandran 1997 as PDF via the Europe PMC render for PMC1688258 (NCBI HTML is abstract-only for this 1997 scan; the NCBI PDF path sits behind a JS interstitial).
+- **Refuted — "two of them had rDLPFC damage" is correct**: Corlett's body reads "EVR-318, MR-429, FL-1164, and HS1065 all had damage to anterior cingulate cortex. Critically, EVR-318 and HS1065 had damage to right dorsolateral prefrontal cortex." Exactly two, named. The abstract's "damage outside vmPFC, including damage to rDLPFC" compresses two facts (all four: anterior cingulate; two: rDLPFC) and only *reads* as all-four. Article was not under-reporting the critic.
+- **Refuted — "any psychologically salient visual stimuli" is verbatim**, "visual" included (full-text offset 12761). Second consecutive review to verify this quote and the second to record the abstract's competing wording as a false alarm.
+- **Real defect found in the same paragraph, and it ran against the Map's interest**: the article said the auditory-tone control "leaves Corlett's actual charge untouched, because his is pitched at visual salience specifically". Corlett twice declines that restriction — "salient psychological stimuli more generally" (Results) and "other kinds of psychologically salient stimuli" (his numbered conclusion). Attributing a visual-only charge to a named opponent misstates his position, and it supplied a *wrong reason for a right conclusion*: the tone control is untouched not because hearing is out of scope but because Corlett's contrast is psychological vs **merely physical** salience, and a pure tone falls on the physical side — the class his cases still respond to. His own spared pair is "a deep inhalation and a loud hand-clap", and the hand-clap is auditory, so the old framing put hearing outside his reach at the moment his own control was an auditory stimulus. Rebuilt on the psychological/physical line: faithful and stronger, verdict unmoved (inference still **underdetermined**).
+- **Also added**: all four cases' anterior-cingulate damage (Corlett leads with it; article had omitted it, so his "more extensive damage" point was under-stated). **Also fixed**: "five members of the general public" → "five **middle-aged** members" (Ellis, Young, Quayle & De Pauw's own wording).
+- **Citation ledger**: all five sources re-verified real-correct on metadata; H&R's two quoted fragments verified verbatim at full text (offsets 6386 and 25054), independently corroborating the 2026-08-04 paraphrase fix. Superlative sweep 0 hits. All 11 wikilinks resolve; none added.
+- **Engagement classification**: physicalist rival — Mode Three, unchanged. Corlett — live in-field empirical challenge, not a tenet-boundary opponent; this pass increased the weight conceded and corrected the grounds. No editor-vocabulary leakage in prose.
+- **Output**: [deep-review-2026-09-10-capgras-delusion-and-the-affective-recognition-channel](/reviews/deep-review-2026-09-10-capgras-delusion-and-the-affective-recognition-channel/)
+
 ## 2026-09-10 14:01 UTC - refine-draft
 - **Status**: Success
 - **Files**: [physical-completeness](/concepts/physical-completeness/), [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/)
