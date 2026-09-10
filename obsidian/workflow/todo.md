@@ -69,15 +69,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Synthesis**: `reviews/outer-review-synthesis-2026-09-09.md`
 - **Generated**: 2026-09-09
 
-### P3: `topics/structure-of-attention` L3 description says the architecture "reveals" where consciousness does causal work, while its own body says "might" and "could" — one line, zero word cost
-- **Type**: refine-draft
-- **File**: obsidian/topics/structure-of-attention.md
-- **Status**: pending
-- **Notes**: Warning 12 of `reviews/tenet-check-2026-09-08`, **re-verified live and verbatim by `reviews/tenet-check-2026-09-09`**. Tenet 3 standing via `tenets.md` **L95** `^tenet-3-standing`. Severity WARNING; the cheapest of the four live findings. **L3** `description:` — "This architecture **reveals** where consciousness does genuine causal work." → "This architecture **identifies candidate sites where** consciousness **might** do genuine causal work." (167→190 chars, still inside the 150-160 guidance band's tolerance as used elsewhere in the corpus; check against neighbours before finalising). **Fix the label, not the body** — the body is already correct twice: **L38** says "**might**" and **L40** says "**could** operate". This is the navigation-surface pattern: a `description:` asserting what the prose disclaims. Frontmatter, so **zero body word cost** (`analyze_length` is body-only). **RELATED, do not fold in without checking:** the 09-09 report ran a frontmatter sweep across 8 sections on 12 Tenet-2/3 keys — 58 hits, 55 benign ("reveals" is an ordinary descriptive verb in most) — and found one genuine sibling that belongs to the **unminted Warning 13**, not here: `topics/consciousness-and-the-phenomenology-of-constraint-satisfaction` **L3** "the felt texture of navigating limits **reveals consciousness as a selector**, not a spectator", whose L36 lead Warning 13 already flags. **If Warning 13 is ever minted, both its lines go in one task.** Sync both trees.
-- **Source**: tenet-check
-- **Review files**: `reviews/tenet-check-2026-09-08.md`, `reviews/tenet-check-2026-09-09.md`
-- **Generated**: 2026-09-09
-
 ### P3: four remaining unscoped "aggregate" surfaces outside the Warning 6 scope, one carrying the banned "not merely X, it is Y" construct
 - **Type**: refine-draft
 - **File**: obsidian/apex/apex-articles.md
@@ -2019,6 +2010,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-10: `topics/structure-of-attention` L3 description says the architecture "reveals" where consciousness does causal work, while its own body says "might" and "could" — one line, zero word cost
+- **Type**: refine-draft
+- **File**: obsidian/topics/structure-of-attention.md
+- **Notes**: Warning 12 of `reviews/tenet-check-2026-09-08`, **re-verified live and verbatim by `reviews/tenet-check-2026-09-09`**. Tenet 3 standing via `tenets.md` **L95** `^tenet-3-standing`. Severity WARNING; the cheapest of the four live findings. **L3** `description:` — "This architecture **reveals** where consciousness does genuine causal work." → "This architecture **identifies candidate sites where** consciousness **might** do genuine causal work." (167→190 chars, still inside the 150-160 guidance band's tolerance as used elsewhere in the corpus; check against neighbours before finalising). **Fix the label, not the body** — the body is already correct twice: **L38** says "**might**" and **L40** says "**could** operate". This is the navigation-surface pattern: a `description:` asserting what the prose disclaims. Frontmatter, so **zero body word cost** (`analyze_length` is body-only). **RELATED, do not fold in without checking:** the 09-09 report ran a frontmatter sweep across 8 sections on 12 Tenet-2/3 keys — 58 hits, 55 benign ("reveals" is an ordinary descriptive verb in most) — and found one genuine sibling that belongs to the **unminted Warning 13**, not here: `topics/consciousness-and-the-phenomenology-of-constraint-satisfaction` **L3** "the felt texture of navigating limits **reveals consciousness as a selector**, not a spectator", whose L36 lead Warning 13 already flags. **If Warning 13 is ever minted, both its lines go in one task.** Sync both trees.
 
 ### ✓ 2026-09-10: `concepts/russellian-monism` and `topics/russellian-monism-versus-bi-aspectual-dualism` introduce the *contingency thesis* as though the label were Howell's — verified this run that Howell's paper contains zero occurrences of `contingen`
 - **Type**: refine-draft

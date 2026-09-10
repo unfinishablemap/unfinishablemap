@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-09-02 17:29:27+00:00
+ai_modified: 2026-09-10 15:46:31+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 coalesced_from:
@@ -18,13 +18,13 @@ concepts:
 created: 2026-02-01
 date: &id001 2026-08-03
 description: Attention divides into willed, instructed, and exogenous modes with distinct
-  neural signatures. This architecture reveals where consciousness does genuine causal
-  work.
+  neural signatures. This architecture identifies where consciousness might do genuine
+  causal work.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 08:57:03+00:00
-lastmod: 2026-09-02 17:29:27+00:00
+lastmod: 2026-09-10 15:46:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
