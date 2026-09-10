@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-10
-ai_modified: 2026-07-10 23:13:00+00:00
+ai_modified: 2026-09-10 15:19:27+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-10 23:13:00+00:00
-lastmod: 2026-07-10 23:13:00+00:00
+lastmod: 2026-09-10 15:19:27+00:00
 modified: *id001
 related_articles:
 - '[[chinese-philosophy-of-mind]]'
@@ -84,6 +84,8 @@ This section is the Map's own interpretation and must not be read back into the 
 The Kyoto School is a second **basin-edge test** of [Tenet 1 (Dualism)](/tenets/#dualism), alongside the [Chinese organicist case](/topics/chinese-philosophy-of-mind/). The convergence argument treats the broad, premise-diverse agreement of deep traditions that consciousness resists physical capture as evidence for irreducibility. A basin edge is a tradition that shares the human introspective starting point and pursues it deeply, yet does *not* land on the Map's reading of the result. The Kyoto School qualifies: it is unmistakably deep and reflective about experience, and it arrives not at an irreducible mind set against matter but at a non-dual field prior to both. That it exists lowers any claim to universality without touching the core inference, which never rested on universality in the first place.
 
 Crucially, the Kyoto case only **strengthens rather than confirms** the [convergence argument](/topics/cross-traditional-convergence-on-consciousness-irreducibility/), and the reason is a [common-cause](/project/common-cause-null/) caveat that must be stated plainly. The Kyoto School reaches its conclusions by the same broadly introspective and contemplative method—rooted in Zen practice and phenomenological reflection—that the other convergent traditions share. Convergence produced by a shared method is weaker evidence than convergence from genuinely independent routes, because a common method could be a common source of a common artefact. So the Kyoto data point adds weight to the pattern without closing the question of whether the pattern tracks reality or tracks a feature of disciplined human introspection.
+
+A second qualification attaches to the same data point, and it is prior to the first. Because the dissolve-or-dodge question posed above is left genuinely open—on the dissolve reading there is no residue to find, since the demand to explain how matter produces mind lapses rather than resists—the Kyoto case cannot be entered unqualified in a convergence tally: to record the school as having found what the other traditions found would settle by bookkeeping a question this article declines to settle.
 
 The deeper lesson routes through [Tenet 5 (Occam's Razor Has Limits)](/tenets/#occams-limits). The *same* datum—the irreducibility of experience to third-person, object-side description—is read by the Map as evidence for dualism and by Nishida as evidence for a non-dual ground of absolute nothingness. Two coherent, sophisticated frameworks metabolise one phenomenon into opposite metaphysics. Parsimony cannot settle which is right: absolute nothingness is arguably the *more* economical posit (one formless field rather than two substances), yet economy is not truth-tracking when the frameworks start from incompatible primitives. The Map holds the **framework-dependence** reading (the hard problem is an artefact of subject-object ontologies the Kyoto School never adopted) and the **depth-of-inquiry** reading (the school dissolved a real problem prematurely) as genuine rivals, adjudicating neither. Tenet 5 blocks the inference in both directions: the Map may not treat the elegance of absolute nothingness as evidence of its truth, and it may not treat its own dualism as forced by simplicity.
 

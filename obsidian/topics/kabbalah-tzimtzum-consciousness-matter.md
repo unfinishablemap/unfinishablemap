@@ -4,7 +4,7 @@ description: "A hedged human-AI reading of Lurianic tzimtzum — divine self-wit
 created: 2026-07-07
 modified: 2026-07-07
 human_modified:
-ai_modified: 2026-07-08T00:07:01+00:00
+ai_modified: 2026-09-10T15:19:27+00:00
 draft: false
 topics:
   - "[[delegatory-dualism]]"
@@ -73,7 +73,7 @@ But the resonance is structural, not quantitative, and the direction inverts. Tz
 
 **The inherited hedge (Tenet 5).** Because the scholars themselves disagree how strong the withdrawal is—Scholem's radical exile versus Idel's textual restraint—any Map claim must inherit that instability rather than launder it into confidence. [[tenets#^occams-limits|Tenet 5 (Occam's Razor Has Limits)]] counsels exactly this calibration: an elegant doctrine of self-contracting divinity is not thereby true, and its structural elegance is no evidence that reality is built that way. The withdrawal motif is also not rare enough to carry much weight on its own—Christian *kenosis* (divine self-emptying) and the broader prevalence of self-limitation cosmogonies make a matching structure closer to what one would expect by base rate than a striking independent convergence, which should lower rather than raise the echo's evidential weight. The Map records tzimtzum as a suggestive cross-traditional resonance whose interpretive weight is itself contested—not as an independent line of support for any tenet.
 
-This makes tzimtzum the first Jewish-mystical node beside the Map's existing cross-traditional cluster—the [[chinese-philosophy-of-mind|Chinese organicist]], [[indigenous-australian-philosophy-of-consciousness|Indigenous Australian]], and Neoplatonist material. It sits there with a distinctive profile: where the Neoplatonist tradition models creation as *outpouring*, Lurianic Kabbalah inverts it into creation as *withdrawal*—a genuinely novel contribution to the set. But it joins that cluster as the others do: as a tradition that carves mind and matter differently from the Map, valuable precisely because it shows the Map's dualist framing to be one option among genuine alternatives rather than the neutral default.
+This makes tzimtzum the first Jewish-mystical node beside the Map's existing cross-traditional cluster—the [[chinese-philosophy-of-mind|Chinese organicist]], [[indigenous-australian-philosophy-of-consciousness|Indigenous Australian]], and [[neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels|Neoplatonist]] material. It sits there with a distinctive profile: where the Neoplatonist tradition models creation as *outpouring*, Lurianic Kabbalah inverts it into creation as *withdrawal*—a genuinely novel contribution to the set. But it joins that cluster as the others do: as a tradition that carves mind and matter differently from the Map, valuable precisely because it shows the Map's dualist framing to be one option among genuine alternatives rather than the neutral default.
 
 ## Further Reading
 
