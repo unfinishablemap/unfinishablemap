@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-15
-ai_modified: 2026-08-07 17:26:00+00:00
+ai_modified: 2026-09-10 01:39:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -16,8 +16,8 @@ description: Robust homeostasis and integral feedback are domain-general control
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-08-03 14:51:32+00:00
-lastmod: 2026-08-07 17:26:00+00:00
+last_deep_review: 2026-09-10 01:39:10+00:00
+lastmod: 2026-09-10 01:39:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -68,7 +68,7 @@ The primitive's job is economy. Once the orthogonality is fixed at the level of 
 
 The strongest opposing view holds that regulation, or a specific kind of it, is constitutively tied to feeling. It deserves statement at full strength.
 
-Kingson Man and Antonio Damasio (2019) argue that an intelligent agent should hold self-preservation as a meta-goal grounded in homeostasis, and propose that a machine implementing a homeostasis-resembling process—especially under genuine bodily vulnerability, via soft-robotic embodiment—might thereby acquire a source of motivation and a means of evaluating its behaviour akin to feelings in living organisms. Anil Seth and Manos Tsakiris (2018) ground selfhood in *control-oriented interoceptive inference*: experience of being an embodied self is the form that predictive regulation of the body's internal states takes "from the inside." Allostasis theorists (Sterling; Barrett) distinguish *predictive* regulation—the brain anticipating needs before errors occur—from reactive homeostatic feedback, and route valence and arousal through that predictive-control architecture.
+Kingson Man and Antonio Damasio (2019) argue that an intelligent agent should hold self-preservation as a meta-goal grounded in homeostasis, and propose that a machine implementing a homeostasis-resembling process—especially under genuine bodily vulnerability, via soft-robotic embodiment—might thereby acquire a source of motivation and a means of evaluating its behaviour akin to feelings in living organisms. Anil Seth and Manos Tsakiris (2018) ground selfhood in *control-oriented interoceptive inference*: experience of being an embodied self is the form that predictive regulation of the body's internal states takes from the inside. Allostasis theorists (Sterling; Barrett) distinguish *predictive* regulation—the brain anticipating needs before errors occur—from reactive homeostatic feedback, and route valence and arousal through that predictive-control architecture.
 
 Crucially, the rival does not claim that *all* control implies feeling. The claim is restricted to embodied, self-jeopardising, predictive regulation of an organism's own continued existence. A thermostat is explicitly excluded: it has no stake, no body that can die, no self-model. The disanalogy with the op-amp is, for the rival, principled rather than ad hoc. The Map develops the interoceptive side of this debate in [interoceptive consciousness and the interface](/topics/interoceptive-consciousness-and-the-interface/) and its own regulatory account in [the psychophysical control law](/topics/the-psychophysical-control-law/), and cites them here rather than re-deriving the position. These authors build *physicalist* models; the Map may engage their mechanics but must not enlist them as allies for a dualist conclusion they reject.
 

@@ -1,10 +1,10 @@
 ---
 title: Research Notes - Near-Perfect Adaptation and Control-Theoretic Competency Without Experience
 created: 2026-07-15
-ai_modified: 2026-08-07T17:40:00+00:00
+ai_modified: 2026-09-10T01:39:10+00:00
 draft: false
 ai_contribution: 100
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 ---
 
 # Research: Near-Perfect Adaptation and Control-Theoretic Competency Without Experience
@@ -114,7 +114,7 @@ Bacterial chemotaxis's near-perfect adaptation was shown by Yi, Huang, Simon & D
 - **Core claim**: Feelings *are* the mental expression of the body's homeostatic/allostatic state; a system that regulates its own viability under genuine vulnerability has (or is on the road to) affect. Not all control counts — the claim is usually restricted to **self-jeopardising, embodied, predictive** regulation of an organism's own existence, not to thermostats.
 - **Key arguments**:
   1. **Vulnerability grounds valence** (Man & Damasio): feelings track deviations from viability in a body that can actually die; a thermostat has no stake, so the disanalogy is principled, not ad hoc.
-  2. **Interoceptive inference** (Seth): selfhood is *control-oriented* prediction of internal states; experience is the form this control takes "from the inside."
+  2. **Interoceptive inference** (Seth): selfhood is *control-oriented* prediction of internal states; experience is the form this control takes from the inside. **Correction 2026-09-10**: do *not* quote "from the inside" to Seth & Tsakiris — the phrase is absent from the paper. Their own wording is interoception as perception of the body 'from within', and their term for the inference is "instrumental (control-oriented) interoceptive inference" (glossary: "Instrumental inference: … Equivalently, control-oriented inference"). The bare modifier *control-oriented* is theirs and is safe to use.
   3. **Allostasis** (Sterling/Barrett): predictive (not merely reactive) regulation yields valence/arousal as basic features of consciousness.
 - **Relation to site tenets**: **Conflicts** with Tenet 1. The Map must not caricature it. The honest reply is not "control never implies feeling" (that begs the question against the restricted claim) but: **the restriction does no explanatory work on the hard problem.** "Genuine vulnerability" and "self-model" are themselves functional/organisational notions; adding them relocates but does not close the explanatory gap — why any such regulation is *accompanied by* experience remains unanswered. The rival supplies a correlation-rich *bridge principle*, not a derivation.
 

@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-10T01:18:23+00:00'
+ai_modified: '2026-09-10T01:39:10+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-10T01:39:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience]]
+- **Verdict**: **changed** — one critical quote-fidelity defect, plus its propagation source. Third pass in two months; structural surfaces converged, defect was on the one surface no prior pass had audited
+- **Word count**: 2,249 → 2,249 (unchanged; length-neutral, status `ok`, 251 below the `concepts` soft threshold of 2,500). Thresholds printed, not quoted from memory: (2500, 3500, 5000)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0 (one examined and deliberately declined — see review archive)
+- **Enhancements made**: 2 (article fix + origin correction)
+- **Critical defect**: the rival section attributed the double-quoted phrase `"from the inside"` to **Seth & Tsakiris (2018)**. The phrase does not occur in the paper. Verified against the full accepted manuscript (Royal Holloway `pure` deposit, 9,710 words extracted — not an abstract): 0 occurrences, confirmed two structurally different ways (normalised exact-phrase regex; raw `grep -ic` on unnormalised `pdftotext`), with the broader key `the inside` also returning 0, ruling out normalisation as the cause of the absence. The paper's phrase for the idea is `'from within'` (3 occurrences, in the authors' own single quotes). Fixed by deleting the two quotation marks so the clause reads as the Map's own gloss — minimal, adds nothing. Importing their `'from within'` was declined: in the source it modifies *perception of the body*, not the form the *regulation* takes, so lifting it would trade one fidelity problem for a finer one
+- **Propagation source fixed**: corpus-wide sweep of `obsidian/`, `hugo/content/` and `archive/` located the seed at [[research/near-perfect-adaptation-and-control-theoretic-competency-without-experience-2026-07-15]] L117, which stated the same misquote as a research finding. Corrected in place with a dated marker giving the paper's actual wording plus an explicit do-not-quote warning, since the note is working input for future expand/refine passes. The other 27 `"from the inside"` hits are legitimate Russellian-monism / panpsychism / heterophenomenology idiom, unattributed to Seth — left alone
+- **Suspicion raised then refuted, recorded so it is not re-raised**: the italicised `*control-oriented interoceptive inference*` looked like an invented variant, because the Europe PMC abstract gives the term as `'instrumental interoceptive inference'`. The full text refuted this — the canonical form is "instrumental (control-oriented) interoceptive inference" (3 verbatim loci), `control-oriented` occurs 11 times, and the glossary states "Instrumental inference: … Equivalently, control-oriented inference." The article's verb is the paper's own ("are grounded in"). **The abstract alone would have produced a confident false accusation**
+- **Citation ledger**: already discharged by the 2026-07-16 (all seven cites at publisher of record) and 2026-08-03 (three Yi et al. spans verbatim at PMC18287; Aoki six authors + *E. coli* host via OpenAlex) passes, References block unchanged since — **carried forward rather than re-run**, as the 08-03 stability note directed. Both cites flagged as worth testing are among those discharged. Re-verified this pass because the rival section was the flagged un-audited surface: Seth & Tsakiris metadata real-correct via Crossref (quoted content real-wrong, fixed); Schulkin & Sterling 2019 real-correct with the predictive-vs-reactive claim supported by the abstract; Man & Damasio 2019 metadata triple-confirmed (Crossref/OpenAlex/Semantic Scholar), content carried forward from 07-16 — **noting the Nature page is now auth-gated (303 to `idp.nature.com`) and the abstract is absent from all three aggregators**, so a future content re-check needs institutional access and a failed fetch there is not a red flag
+- **Sweeps**: `find_superlative_claims` 0. Inline↔References clean both directions. Every double-quoted body span enumerated and classified — the defect was the **only** source-attributed quote not verbatim-verifiable. All twelve forbidden editor-vocabulary labels absent (offset −1 each). `## Relation to Site Perspective` present
+- **Engagement classification**: homeostasis-and-feeling rival (Man & Damasio / Seth & Tsakiris / allostasis) — Mixed (Mode Two + Mode Three), unchanged and honest: restrictions identified as functional/organisational supplying a bridge principle rather than a derivation, then the residual gap marked at the boundary without claiming in-framework refutation. Cellular Basis of Consciousness — Mode Three, unchanged. No boundary-substitution, no label leakage
+- **Fences honoured**: the 2026-08-07 exemplar migration left intact and verified as correct (a household thermostat *is* bang-bang with no integral term) — traced end to end including its CBC-based dependent sentence, no stranded dependent; the three remaining `thermostat` mentions left as consistent contrast cases; `topics/bacterial-chemotaxis-and-minimal-biogenic-cognition` untouched; the three inbound linkers untouched
+- **Verification**: obsidian and hugo compared by **parsing** frontmatter and by printed offsets for the changed body string in both trees
+- **Output**: [[reviews/deep-review-2026-09-10-near-perfect-adaptation-and-control-theoretic-competency-without-experience]]
 
 ## 2026-09-10T01:18:23+00:00 - refine-draft
 - **Status**: Success
