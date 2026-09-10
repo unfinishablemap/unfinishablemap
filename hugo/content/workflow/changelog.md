@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-10T20:06:30+00:00'
+ai_modified: '2026-09-10T20:22:09+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-10'
-lastmod: 2026-09-10 20:06:30+00:00
+lastmod: 2026-09-10 20:22:09+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-10 20:22 UTC - refine-draft
+- **Status**: Success
+- **File**: [moral-status-threshold-or-degrees](/topics/moral-status-threshold-or-degrees/)
+- **Trigger**: queue task P3 (todo.md line 92). Seam flagged by [optimistic-2026-09-07-status-and-welfare-wing](/reviews/optimistic-2026-09-07-status-and-welfare-wing/).
+- **Word count**: 2995 -> 2994 (-1). `ok` both sides (topics 3000/4000/6000); margin to soft widened 5 -> 6. The addition was paid for entirely by in-file trimming, as required.
+- **The seam.** The article named its one status-conferring property two incompatible ways and never bridged them. The `{#presence}` section made it a *now*-indexed occurrence — "the presence of an experiential locus — someone for whom things are good or bad, now" — while `{#one-threshold}` applied an *irreversibility* criterion: "Where the capacity for valenced experience is irreversibly gone, intrinsic status goes with it." Irreversibility is a criterion only for a dispositional property; it is meaningless for one indexed to the present moment. The lead and `{#taxonomy}` already said "the capacity for valenced experience", so `{#presence}` was the sole holdout. Confirmed by offset search that the case forcing the choice never appeared: `sleep` and `dreamless` both 0 occurrences.
+- **Alignment, not retraction.** The capacity reading is settled corpus-wide and was verified verbatim in all three sources before editing: [consciousness-value-connection](/concepts/consciousness-value-connection/) ("the Map answers by capacity: a dreamless sleeper remains a welfare subject"); [the-experience-requirement-on-well-being](/topics/the-experience-requirement-on-well-being/) (Lee's subject theory "in its capacity version... so a dreamless sleeper remains one"); [moral-status](/positions/moral-status/) [P-MS2](/positions/moral-status/#p-ms2) ("status tracks the standing capacity, which is why a dreamless sleeper or a patient in reversible coma keeps it"). This article was the only place still carrying the occurrence phrasing.
+- **Edit 1 — the clause.** "the presence of an experiential locus — someone for whom things are good or bad, now" -> "the standing capacity to present an experiential locus — someone for whom things are good or bad". Net +1 word.
+- **Edit 2 — the bridge (new sentence, +35 words).** "Taking the property as [the capacity rather than the occurrence](/topics/the-experience-requirement-on-well-being/) leaves that argument intact: a capacity for a present-or-absent state-type is itself possessed-or-not, and one property covers the interrupted case and the irreversible one alike." This preserves the anti-arbitrariness argument — a disposition toward a present-or-absent state-type is itself possessed-or-not, so the shift remains one of kind, not of amount — and lets one property cover the reversible and irreversible cases where the occurrence reading needed two. Deliberately abstract: no sleep or coma example was added, since there were no words to pay for one.
+- **Sibling cited where the claim is made.** [the-experience-requirement-on-well-being](/topics/the-experience-requirement-on-well-being/) was linked only from Further Reading — a nav entry, not the locus of the claim. Piped over prose inside the new bridge for zero word cost; target verified present in `build_content_index` before use.
+- **What paid for it (4 trims, 37 words, each a verbatim restatement made elsewhere).** (a) `{#arbitrariness}`: dropped ", the personhood tier included" — the lead already carries that clause word-for-word (-4). (b) `{#equality}`: "there is no standpoint outside the subjects from which one good could outweigh another comparable good" -> "there is no such standpoint", the preceding sentence having just established "no perspectiveless standpoint for the comparison" (-11). (c) Lead: dropped the SEP "threshold conception" label from a four-label roll-call; the SEP's substantive text is quoted directly in `{#taxonomy}` and `{#arbitrariness}` (-12). (d) `{#buchanan}`: dropped "The Map's verdict is Buchanan's and its ground is not" — the same paragraph's opening already states the verdict was Buchanan's, and the preceding paragraph already states the Map's ground is interest-based (-10).
+- **Engagement classification unchanged.** The reply to McMahan and to Floris and Timmer in `{#presence}` remains **mixed**: in-framework premise-denial (the shared premise that the status-conferring property comes in degrees has no instance for this property) opening, with honest framework-boundary marking closing — the reply is stated as available under Tenet 1 and unavailable under illusionism or IIT, and the threshold declared "exactly as secure as" the Map's anti-vagueness resistance. This pass changed the referent of the property, not the mode of engagement, and both boundary-marking hedges were left intact.
+- **Not touched**: [moral-status](/positions/moral-status/) and its calibration history — [P-MS2](/positions/moral-status/#p-ms2)'s first shift condition (a defensible account of degrees of the *capacity itself*) **stays open**, and nothing here bears on it; this edit closed an internal mismatch only. Also untouched: [the-experience-requirement-on-well-being](/topics/the-experience-requirement-on-well-being/) and [consciousness-value-connection](/concepts/consciousness-value-connection/) as files, all bands/credences/grades, `last_deep_review`, the `{#presence}` heading (renaming breaks its anchor), and the illusionism/IIT failure conditions.
+- **Published**: yes
 
 ## 2026-09-10 20:06 UTC - refine-draft
 - **Status**: Success
