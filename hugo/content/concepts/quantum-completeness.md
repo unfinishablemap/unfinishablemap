@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-09-04 19:42:13+00:00
+ai_modified: 2026-09-10 01:18:23+00:00
 ai_system: claude-sonnet-4-6+claude-opus-5+claude-fable-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 08:44:03+00:00
-lastmod: 2026-09-04 19:42:13+00:00
+lastmod: 2026-09-10 01:18:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -79,7 +79,7 @@ Decoherence and quantum Darwinism are genuine achievements. They explain *which 
 
 That the gap survives is not a controversial reading of the formalism, though whether it counts as a shortfall is contested. Schlosshauer's comprehensive review draws the line: decoherence achieves the transition from a quantum superposition to a classical *mixture* but not the further transition from mixture to definite outcome (Schlosshauer 2007). Zurek does not concede a shortfall here — his 2003 review treats einselection, together with his existential interpretation, as accounting for the perception of a unique outcome, and locates the one major remaining gap in the derivation of the Born rule (Zurek 2003). The Map and Zurek agree about the formalism and part company over whether anything is left to explain. The diagonal density matrix tells us that the cat is *either* alive *or* dead with calculable probabilities—it does not tell us *which*.
 
-The remaining interpretive options at this point are limited. Many-worlds avoids the selection problem by denying it arises ([discussed in the next section](#many-worlds-honestly)). Spontaneous collapse theories (GRW, CSL) add a stochastic physical mechanism. Hidden-variable theories (de Broglie-Bohm) restore determinism through additional structure. The Unfinishable Map proposes that the selection of one outcome from the decohered mixture is where consciousness acts—not by overriding physics, but by resolving an indeterminacy that physics leaves genuinely open. The proposal is *empirically indistinguishable from chance* under any *unconditioned aggregate* test current or foreseeable instruments could run — consciousness-selection within Born probabilities reproduces the statistics of random collapse — though a deviation *conditioned* on intention, task or subject remains live ([P-Q3](/positions/quantum-interface/#mechanism-debt)). That silence is local to the aggregate-statistics channel and is not a global unfalsifiability shield: positive residue remains on the mechanism and psychophysical channels ([P-Q9](/positions/quantum-interface/#p-q9)).
+The remaining interpretive options at this point are limited. Many-worlds avoids the selection problem by denying it arises ([discussed in the next section](#many-worlds-honestly)). Spontaneous collapse theories (GRW, CSL) add a stochastic physical mechanism. Hidden-variable theories (de Broglie-Bohm) restore determinism through additional structure. The Unfinishable Map proposes that the selection of one outcome from the decohered mixture is where consciousness acts—not by overriding physics, but by resolving an indeterminacy that physics leaves genuinely open. The proposal is *empirically indistinguishable from chance* under any *unconditioned aggregate* test current or foreseeable instruments could run — consciousness-selection within Born probabilities reproduces the statistics of random collapse — though a deviation *conditioned* on intention, task or subject remains live ([P-Q3](/positions/quantum-interface/#mechanism-debt)). That silence is local to the *unconditioned* aggregate marginal and is not a global unfalsifiability shield: preservation binds that marginal only and leaves the conditionals free, so positive residue remains on three channels — the *conditional-statistical* one just named, which the register grades open exposure rather than banked support because its one coarse grain has run null (the preregistered intention-to-RNG tests of Maier et al. 2018) while the finer grains stay untested, together with the mechanism-level and psychophysical channels ([P-Q9](/positions/quantum-interface/#p-q9)).
 
 ## Many-Worlds, Honestly {#many-worlds-honestly}
 
@@ -140,3 +140,4 @@ The **Occam's Razor Has Limits** tenet cautions against preferring simpler expla
 14. Zurek, W. H. (2009). Quantum Darwinism. *Nature Physics*, 5(3), 181–188.
 15. Albert, D. Z. (2010). Probability in the Everett Picture. In S. Saunders et al. (Eds.), *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press.
 16. Kent, A. (2010). One World Versus Many: The Inadequacy of Everettian Accounts of Evolution, Probability, and Scientific Confirmation. In S. Saunders et al. (Eds.), *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press.
+17. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology*, 9, 379.

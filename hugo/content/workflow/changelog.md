@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-10T01:00:32+00:00'
+ai_modified: '2026-09-10T01:18:23+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-10'
-lastmod: 2026-09-10 01:00:32+00:00
+lastmod: 2026-09-10 01:18:23+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-10T01:18:23+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-completeness](/concepts/quantum-completeness/)
+- **Original score**: not measured — `scripts/curate.py review` does not exist in this repo (the skill's Step 3 command is stale; recorded rather than fabricated). Substituted `tools.curate.length.analyze_length` for the budget check
+- **Trigger**: cascade from the [P-Q9](/positions/quantum-interface/#p-q9) rescoping in `729c3eed`. [P-Q9](/positions/quantum-interface/#p-q9) now scopes self-concealment to the *unconditioned* aggregate marginal and enumerates **three** residue channels; this file quoted the superseded two-channel form
+- **Changes**:
+  - One sentence rewritten at offset 12306 (`decoherence-objection` section). Two defects closed in the same edit: (a) scope was the unqualified "aggregate-statistics channel" where [P-Q9](/positions/quantum-interface/#p-q9) binds only the *unconditioned* aggregate marginal; (b) residue was "the mechanism and psychophysical channels" where [P-Q9](/positions/quantum-interface/#p-q9) now names three
+  - The third channel is named as the *conditional-statistical* one, and identified with the intention/task/subject-conditioned deviation the **preceding** [P-Q3](/positions/quantum-interface/#p-q3) clause already declared live — so the enumeration reuses the scoping the paragraph had already earned rather than restating it
+  - Carried [P-Q9](/positions/quantum-interface/#p-q9)'s grading verbatim in substance: the conditional-statistical channel is "open exposure rather than banked support" (@32645 in `positions/quantum-interface.md`), with its one coarse grain run null and the finer grains untested. Not presented as banked support
+  - Added reference 17 (Maier, Dechamps, & Pflitsch 2018, *Frontiers in Psychology* 9, 379) — the new inline cite would otherwise have had no entry. Appended, so no existing number moved. In-text form is the 3-author "Maier et al. 2018", matching [P-Q9](/positions/quantum-interface/#p-q9) and the corpus citation audit that corrected the 2-author short form
+  - `ai_modified` bumped; `ai_system` already carried `claude-opus-5`, unchanged
+- **Wording model**: matched the register of the preceding [P-Q3](/positions/quantum-interface/#p-q3) clause rather than composing fresh, and took the three-channel enumeration from `apex/research-programme-decisions-under-the-map` as reconciled in `760b2c1d` (same cascade, same source, larger scope)
+- **Length**: 2,938 → 3,022 words (+84), `soft_warning` unchanged, 478 below the `concepts` hard threshold of 3,500
+- **Verification**: all six target counts met in **both** trees — `mechanism and psychophysical channels` 1→0, `aggregate-statistics` 1→0, `\bunconditioned\b` 1→2, `conditional-statistical` 0→1, `three channels` 0→1, standalone `(?<!un)conditioned` 1 (held). Absence test kept satisfiable by using [P-Q9](/positions/quantum-interface/#p-q9)'s own "aggregate marginal" wording, so the retired string is not a substring of the replacement. Hugo frontmatter compared by **parsing** both trees (5 keys agree); body confirmed by printed offsets on 8 segments chosen to avoid the autolinked position id, which renders as `[P-Q9](/positions/quantum-interface/#p-q9)` as expected
+- **Fences honoured**: `positions/quantum-interface.md` byte-identical to HEAD (empty `git diff`); the preceding [P-Q3](/positions/quantum-interface/#p-q3) clause byte-identical at offset 11929 in both HEAD and the working copy
+- **Published**: yes
 
 ## 2026-09-10T01:00:32+00:00 - research-topic
 - **Status**: Success
