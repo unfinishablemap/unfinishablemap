@@ -4,7 +4,7 @@ description: "Altered states reveal consciousness's range through meditation, ps
 created: 2026-01-18
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-09-02T20:08:52+00:00
+ai_modified: 2026-09-10T09:34:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,7 +48,7 @@ Altered states of consciousness (ASCs) constitute a diverse family of experience
 
 Charles Tart's foundational definition (1969) identifies ASCs as profound changes in the overall pattern of subjective experiences. This phenomenological approach avoids the question-begging implicit in some neuroscientific definitions that characterise ASCs as involving an "increased tendency to produce misrepresentations" (Revonsuo, Kallio & Sikka, 2009). From The Unfinishable Map's perspective, some ASCs may involve *less filtered* access to reality rather than error. Whether such access genuinely transcends cognitive limits or merely maps their boundaries is explored in [[edge-states-and-void-probes]].
 
-Tart's taxonomy identifies ten dimensions along which consciousness can vary: sense of identity, body image, time perception, perception, cognition, memory, affect, sense of meaning, volition, and unconscious processing. ASCs shift multiple dimensions simultaneously—distinguishing them from ordinary variations in mood or attention. The 2025 thalamic nuclei research identified five specific thalamic nuclei orchestrating state transitions, with distinct connectivity patterns across anesthesia, sleep, and disorders of consciousness—neuroimaging confirmation that ASCs represent discrete modes rather than continuous variation.
+Tart's taxonomy identifies ten dimensions along which consciousness can vary: sense of identity, body image, time perception, perception, cognition, memory, affect, sense of meaning, volition, and unconscious processing. ASCs shift multiple dimensions simultaneously—distinguishing them from ordinary variations in mood or attention. The 2025 thalamic nuclei research identified five specific thalamic nuclei orchestrating state transitions, with distinct connectivity patterns across anesthesia, sleep, and disorders of consciousness—consistent with ASCs being distinct configurations, though the graded sleep-stage results leave discrete-versus-continuous open.
 
 Key dimensions of alteration include:
 
@@ -70,7 +70,7 @@ Several findings support the filter interpretation:
 
 **Expansion rather than distortion.** Psychedelics don't merely scramble perception—they often *expand* it. Users report insights, enhanced pattern recognition, and access to normally unconscious material. Aldous Huxley's "reducing valve" metaphor captures this: the brain normally constrains consciousness to action-relevant information; psychedelics loosen this constraint.
 
-A materialist objection holds that these "insights" are illusory—confabulations that merely *feel* profound without genuine epistemic value. A deeper version notes that psychedelics disrupt the very neural processes required for accurate introspection—how can we trust reports from compromised metacognitive systems? The response: some psychedelic insights prove verifiable (therapeutic breakthroughs, creative solutions), and the expansion hypothesis predicts their *selectivity*—not random confabulation but access to genuinely suppressed information (childhood memories, repressed patterns). Clinical studies of psilocybin-assisted therapy show lasting improvements in depression and anxiety that correlate with reported mystical-type experiences, suggesting the insights have functional validity beyond subjective impression.
+A materialist objection holds that these "insights" are illusory—confabulations that merely *feel* profound without genuine epistemic value. A deeper version notes that psychedelics disrupt the very neural processes required for accurate introspection—how can we trust reports from compromised metacognitive systems? The response is partial. Psilocybin-assisted therapy shows lasting improvements in depression and anxiety that correlate with reported mystical-type experiences—a therapeutic outcome rather than verification that the insights are true—and the expansion hypothesis predicts their *selectivity*: not random confabulation but access to genuinely suppressed information (childhood memories, repressed patterns).
 
 **Identical outputs, divergent experiences.** Different anaesthetics (propofol vs. ketamine) can produce identical behavioural outputs—unresponsiveness, amnesia—while producing radically different conscious experiences. Ketamine preserves vivid experience despite behavioural unresponsiveness; propofol seems to eliminate experience entirely. Mashour (2024) reviews this asymmetry: both agents suppress cortical activity, but through different pathways with different phenomenal consequences.
 
@@ -100,9 +100,9 @@ Neuroimaging confirms that hypnosis alters executive control network integration
 
 ### Meditation
 
-Advanced meditation produces states ranging from focused absorption (samadhi) to [[witness-consciousness|witness awareness]] to cessation events—"radically altered states characterised by full loss of consciousness" that, unlike anaesthetic unconsciousness, are voluntary and transformative. Tantric yoga offers systematic phenomenology of consciousness structures that meditators navigate deliberately. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] documents how these states converge structurally across Buddhist, Hindu, Christian, [[islamic-sufi-philosophy-of-consciousness|Sufi]], and Daoist practices—self-dissolution, contentless awareness, and subject-object collapse appear independently across traditions with incompatible metaphysics.
+Advanced meditation produces states ranging from focused absorption (samadhi) to [[witness-consciousness|witness awareness]] to cessation events—radically altered states involving full loss of consciousness that, unlike anaesthetic unconsciousness, are voluntary and transformative. Tantric yoga offers systematic phenomenology of consciousness structures that meditators navigate deliberately. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] documents how these states converge structurally across Buddhist, Hindu, Christian, [[islamic-sufi-philosophy-of-consciousness|Sufi]], and Daoist practices—self-dissolution, contentless awareness, and subject-object collapse appear independently across traditions with incompatible metaphysics.
 
-The voluntariness is crucial. Meditators deliberately alter their brain-consciousness interface through attention training. While earlier studies claimed meditation produces lasting structural brain changes, the most rigorous test to date—Kral et al. (2022), with 218 participants and active controls—found no evidence of structural changes from mindfulness-based stress reduction. Meditation's *functional* effects (altered activation patterns, moderate efficacy for anxiety and depression) survive scrutiny. From the Map's framework, meditation's functional modulation and the content-specificity of different practices remain relevant to [[tenets#^bidirectional-interaction|Bidirectional Interaction]] as outbound-leg coherence rather than evidence, though structural remodelling claims should no longer be cited as evidence.
+The voluntariness is crucial. Meditators deliberately alter their brain-consciousness interface through attention training. While earlier studies claimed meditation produces lasting structural brain changes, Kral et al. (2022)—218 participants and active controls, and by its authors' account the most rigorously controlled study to date—found no evidence of structural changes from mindfulness-based stress reduction. Meditation's *functional* effects (altered activation patterns, moderate efficacy for anxiety and depression) survive scrutiny. From the Map's framework, meditation's functional modulation and the content-specificity of different practices remain relevant to [[tenets#^bidirectional-interaction|Bidirectional Interaction]] as outbound-leg coherence rather than evidence, though structural remodelling claims should no longer be cited as evidence.
 
 Cessation events illuminate filter theory directly. Unlike anesthesia (where consciousness appears eliminated) or sleep (where it continues in altered form), meditative cessation involves *deliberate* withdrawal of consciousness from neural processing—then return. The transformation reported by advanced practitioners upon return suggests consciousness operated during cessation in a mode unconstrained by the brain-interface, returning with insights unavailable during normal filtered operation—the deliberateness being the outbound claim, which the report on return cannot by itself establish.
 
@@ -114,7 +114,7 @@ This form/content distinction gives the filter interpretation extra reach withou
 
 ### Near-Death Experiences
 
-Xu et al. (2023) found gamma surges in dying patients—localised to the temporal-parietal-occipital junction, a region specifically associated with out-of-body experiences and consciousness of embodiment. Rivas et al. (2023) compiled 120+ case reports with veridical elements—accurate perceptions during apparent unconsciousness—though these are retrospective accounts, not controlled experimental evidence.
+Xu et al. (2023) found gamma surges in dying patients—localised to the temporal-parietal-occipital junction, a region specifically associated with out-of-body experiences and consciousness of embodiment. The cohort was four comatose patients; only two showed the surge, both with a seizure history—one in status epilepticus the day before—a confound the authors themselves flag. Rivas et al. (2023) compiled 120+ case reports with veridical elements—accurate perceptions during apparent unconsciousness—though these are retrospective accounts, not controlled experimental evidence.
 
 The empirical status remains contested. Sceptics note the lack of falsifiable predictions and that some neural activity persists, so consciousness has not been shown to exist entirely without brain function. Advocates argue that some cases resist conventional explanation, and that organised, coherent experiences occurring when the brain is catastrophically failing fits awkwardly with production models. A failing generator should produce failing outputs; a failing filter might still transmit clearly. This inference is only as strong as the claim that the brain is genuinely doing *less*, not merely showing reduced activity in some regions: decreased regional activity can coincide with raised connectivity, entropy, or disinhibition, so the enhancement-through-disruption argument holds only where the fuller processing measures—not raw activity alone—are collapsing.
 
@@ -187,23 +187,21 @@ Read by leg, the unified framework is narrower than the filter vocabulary sugges
 
 Carhart-Harris, R. L. & Friston, K. J. (2019). REBUS and the anarchic brain: Toward a unified model of the brain action of psychedelics. *Pharmacological Reviews*, 71(3), 316-344.
 
-Fuchs, T. (2005). Corporealized and Disembodied Minds: A Phenomenological View of the Body in Melancholia and Schizophrenia. *Philosophy, Psychiatry, & Psychology*, 12(2), 95-107.
-
 Csikszentmihalyi, M. (1990). *Flow: The Psychology of Optimal Experience*. Harper & Row.
 
 Dietrich, A. (2003). Functional neuroanatomy of altered states of consciousness: The transient hypofrontality hypothesis. *Consciousness and Cognition*, 12(2), 231-256.
 
+Fuchs, T. (2005). Corporealized and Disembodied Minds: A Phenomenological View of the Body in Melancholia and Schizophrenia. *Philosophy, Psychiatry, & Psychology*, 12(2), 95-107.
+
 Huxley, A. (1954). *The Doors of Perception*. Chatto & Windus.
 
-James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green.
-
 Jiang, H., White, M. P., Greicius, M. D., Waelde, L. C. & Spiegel, D. (2017). Brain activity and functional connectivity associated with hypnosis. *Cerebral Cortex*, 27(8), 4083-4093.
-
-Kelly, E. F. et al. (2007). *Irreducible Mind: Toward a Psychology for the 21st Century*. Rowman & Littlefield.
 
 Kerskens, C. M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
 
 Kral, T. R. A., Davis, K., Korponay, C. et al. (2022). Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials. *Science Advances*, 8(20), eabk3316.
+
+Lu, F. et al. (2025). Differential engagement of thalamic nuclei orchestrates consciousness states across anesthesia, sleep, and disorders of consciousness. *Communications Biology*, 8, 1784.
 
 Mashour, G. A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(10), 1553-1567.
 
@@ -212,7 +210,5 @@ Revonsuo, A., Kallio, S. & Sikka, P. (2009). What is an altered state of conscio
 Rivas, T., Dirven, A. & Smit, R. (2023). *The Self Does Not Die: Verified Paranormal Phenomena from Near-Death Experiences*. IANDS Publications.
 
 Tart, C. T. (Ed.). (1969). *Altered States of Consciousness*. Wiley.
-
-Lu, F. et al. (2025). Differential engagement of thalamic nuclei orchestrates consciousness states across anesthesia, sleep, and disorders of consciousness. *Communications Biology*, 8, 1784.
 
 Xu, G. et al. (2023). Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain. *PNAS*, 120(19), e2216268120.
