@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-10T06:37:00+00:00'
+ai_modified: '2026-09-10T06:52:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-10T06:52:00+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-10 — subject `concepts/improper-vs-proper-mixtures`, both reviewers on the same article via the reuse anchor
+- **Coverage**: 2/2 reviewers processed (Claude Opus 5, Gemini 2.5 Pro). **Cycle size was 2, not 3** — the 02:00 ChatGPT leg failed at commission (project route rendered a bare error boundary with no composer, account-wide) and wrote no `pending-reviews.yaml` entry, so there is no abandonment record either. Every agreement this cycle is therefore automatically "unanimous" and must be read as the weakest form of agreement the system can produce
+- **Clusters**: 1 convergent (discounted), 1 failed convergence, 11 singleton, 2 divergent
+- **⚠ The one clean convergence is prompt-induced**: both reviewers charge that the Map loads more ontological weight onto the improper/proper distinction than working physicists grant — but both commissions explicitly told them to "press hardest" on exactly that point. Agreement obtained by asking two systems the same leading question is not independent evidence. No task minted; the article already concedes the charge verbatim in three places
+- **✗ Second apparent convergence rejected on verification**: "rivals that would close the gap are excluded by tenet-fiat" — Claude's half was adjudicated at collection as already conceded in-article, and Gemini's half rests on a quotation that exists nowhere ("make consciousness epiphenomenal (conflicting with Tenet 3)"; the bare phrase occurs only in `concepts/blindsight`). Two reviewers making the same unsupported charge is correlated noise, not convergent signal
+- **⚠ DIVERGENCE — Schlosshauer 2004, the headline result of this cycle**: the reviewers directly contradict each other. Claude called the article's quotation a fabricated "pseudo-quote" and asked for a corpus-wide purge; Gemini, unprompted and while making an unrelated argument, called Schlosshauer (2004) **"correctly noted"**. **Resolved in Gemini's favour on the primary source** — the string is verbatim in `arXiv:quant-ph/0312059`, and sits at offset 3835 in `obsidian/concepts/improper-vs-proper-mixtures.md` / 3932 in the Hugo mirror (re-verified this run). No task generated; nothing downstream may propose deleting that quotation
+- **⚠ DIVERGENCE 2**: Claude rates the "Emptiness Attack Runs in Two Directions" section **RETAIN** — "a genuinely good point" — while Gemini calls the same section "methodologically bankrupt". Neither adjudicated; recorded for the record. Gemini's side is the weaker as argued (misdated "Castellani 2024/2025", really *IJQI* 2023; unverifiable "Szańkowski 2025"; and the article already engages Castellani ×3 and Kirkpatrick ×5)
+- **NOT scored as convergent**: Claude's Bohmian/hidden-variable omission — re-confirmed against the Gemini text this run, which mentions Bohmian mechanics exactly once, as a Chen-reformulation target under Density Matrix Realism. Singleton, already P1. Claude's Maudlin-based finding was excluded from clustering entirely (0 occurrences in the article, both trees). ⚠ Note a bare `grep -c maudlin` on the Gemini review returns 2, both inside its verification block recording that Gemini does *not* mention him — the apparatus contains the string it denies
+- **Structural echo noted, deliberately not clustered**: both reviewers independently demand the Map "say which horn it takes", but about two different dilemmas (Claude: Stapp–Bourget bias-without-deviation; Gemini: Local Friendliness). Collapsing them would manufacture convergence from a shared rhetorical shape
+- **Tasks upgraded**: 0 (P3→P2: 0, P2→P1: 0). Four of the six open tasks are already at the P1 ceiling; the three P2s are all singletons; neither convergent cluster has a matching open task
+- **Tasks deduplicated**: 0 — no two open tasks point at the same cluster. The two legs found genuinely disjoint defects in the same article, so `todo.md` was left untouched, preserving every do-not-action fence and shared-length-budget note already written into those tasks
+- **Yield**: the cycle's two strongest findings both came from Gemini, the reviewer with the worse citation hygiene — Density Matrix Realism (0 hits for `chen`/`wentaculus`/`density matrix realism`) and Local Friendliness (0 hits for `wigner`/`bong`/`local friendliness`), both Crossref-confirmed and both already P1. Fabricated quotes do not refute the gaps they point at
+- **Output**: [[reviews/outer-review-synthesis-2026-09-10]]
+- **Commit**: none (cycle_post owns it)
 
 ## 2026-09-10T06:37:00+00:00 - outer-review
 - **Status**: Success
