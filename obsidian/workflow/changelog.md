@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-10T01:39:10+00:00'
+ai_modified: '2026-09-10T06:37:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-10T06:37:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro Deep Research — commissioned 05:21 UTC, collected first attempt at 39 minutes
+- **File**: [[reviews/outer-review-2026-09-10-gemini-2-5-pro]]
+- **Subject**: `concepts/improper-vs-proper-mixtures` (subject_type `recent`, source `reuse:pending-reviews:outer-review-2026-09-10-claude-opus-5.md`) — the same subject as the 03:05 Claude leg, so tonight yields a real two-reviewer convergence check
+- **Verdict**: REJECT. 32,207 characters extracted by DOM walk, h1-bearing report panel, 10 sections and 3 tables, complete through the closing Verdict paragraph
+- **Extraction**: base64 read-out was blocked by the MCP content filter, so the body was read in 900-character plain-text chunks with sentinels; one chunk blocked and was recovered by halving. Written file is 17 characters shorter than the DOM string — invisible zero-width spaces inside MathML formulas. One MathML flattening artifact (`dtdz=`) written as `dz/dt=`. No prose affected
+- **⚠ Scope defect — site-wide review wearing a single-article frame**: the commission named one article; the reviewer read across the corpus and attributed everything to "the manuscript". Quoted material traced at processing time to **five** different files: the real subject (`The Emptiness Attack Runs in Two Directions`, `underdetermined even among deflationists`), `concepts/post-decoherence-selection` (`no localized fact of the matter to sample`), `concepts/envariance` (`concedes the point in advance`, Barnum/Caves/Schlosshauer & Fine), `positions/quantum-interface` + `concepts/timing-gap-problem` (`category error`, femtosecond figures), and — notably — `reviews/pessimistic-2026-02-24-afternoon`, one of the Map's own internal reviews (`cut deepest`). Findings were routed to the file that actually carries the text
+- **Claims verified**: 13 checked — 4 citations confirmed at Crossref, 4 disputed or unverified, 4 quotes not found anywhere in either tree, 1 scope defect
+- **✓ Citations confirmed**: Bong et al. (2020) *Nature Physics* `10.1038/s41567-020-0990-x`; Wiseman, Cavalcanti & Rieffel (2023) *Quantum* `10.22331/q-2023-09-14-1112`; Carlesso, Donadi, Ferialdi, Paternostro, Ulbricht & Bassi (2022) *Nature Physics* `10.1038/s41567-021-01489-5`; Chen (2021) *BJPS* `10.1093/bjps/axy068`
+- **✗ Weakest citation**: the "2025 Riemann sphere geometric collapse" source resolves to Lefliti, *London Journal of Physics* — dated **2026**, single-author, low-profile venue, outside the commission's own 2020-2025 peer-reviewed requirement. The review's whole collapse-time table (incl. "Human Brain 1.4 kg — <0.20μs") is extrapolated from it and must not be quoted as an empirical bound; applying a mass-scaled collapse rate to gross body mass also misstates how GRW/CSL rates work. The Carlesso/Bassi half of that weakness stands; the geometric-collapse half does not. Also: "Castellani 2024/2025" is really 2023 (*IJQI*), and the article already engages Castellani ×3 and Kirkpatrick ×5; "Szańkowski 2025", "Moreno et al. 2022" and "Pipa 2025" returned no matching records
+- **✗ Fabricated target quotes**: "actualizes one element of the improper mixture into a definite experience" (introduced with "The author writes that") — **zero occurrences anywhere in `obsidian/` or `hugo/content/`**; also "fix which single outcome... resolves" and "make consciousness epiphenomenal (conflicting with Tenet 3)". Recorded as unverified without voiding the underlying gaps, which were checked separately
+- **✓ NO correlated error with the Claude leg**: this review repeats **neither** of the same-day Claude review's two refuted claims. It treats Schlosshauer (2004) as **correct** ("D'Espagnat (1976) and later Schlosshauer (2004) correctly noted...") — independent corroboration of the passage Claude called fabricated — and **never mentions Maudlin** (re-confirmed: zero case-insensitive occurrences in the article in either tree)
+- **⚠ NOT convergent on Claude's surviving finding**: Claude's Bohmian/hidden-variable omission in the trilemma is **not** independently reached here. Gemini criticises the trilemma on a different ground (MWI and pragmatist readings dismissed philosophically rather than engaged formally) and mentions Bohmian mechanics only as a Chen-reformulation target. Flagged in the review file so `/combine-outer-reviews` does not score it as a second reviewer reaching the same conclusion
+- **High-value findings that survived**: (1) **Density Matrix Realism omission** — the article has 0 hits for `chen`/`wentaculus`/`density matrix realism` and its gap argument silently assumes Wave Function Realism, a premise it never names or defends; (2) **Local Friendliness omission** — 0 hits for `wigner`/`bong`/`local friendliness`, while the Map needs absolute outcomes *and* unitarity together, which Bong et al. proved cannot both hold; the Map should say which horn it takes
+- **Tasks generated**: 4 (P1: 2 refine-draft — DMR omission on `concepts/improper-vs-proper-mixtures`, Local Friendliness dilemma on `concepts/post-decoherence-selection`; P2: 2 — refine-draft on `concepts/envariance` for a Zurek critique frozen at 2005 on two unpublished notes, research-topic on the unsourced Quantum Darwinism redundant-records argument). All carry explicit do-not-action fences for the fabricated quotes and the Lefliti citation
+- **Coordination**: both P1 tasks share a length budget with the open Claude-leg P1 on the same file — article measured 2556 words, `soft_warning`, 944 below the 3500 concepts hard threshold, of which the sibling task budgets ~250
+- **Commit**: none (cycle_post owns it)
 
 ## 2026-09-10T05:41:44+00:00 - outer-review
 - **Status**: Success
