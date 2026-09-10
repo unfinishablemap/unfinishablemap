@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-16
-ai_modified: 2026-09-09 07:39:52+00:00
+ai_modified: 2026-09-10 17:48:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 anchoring_audit_exempt: true
 author: null
@@ -23,7 +23,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-09 07:39:52+00:00
-lastmod: 2026-09-09 07:39:52+00:00
+lastmod: 2026-09-10 17:48:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -78,7 +78,7 @@ The Map does not contest any of this. The comparator model is fully adequate to 
 
 ## The Interface Reading
 
-The Map's angle treats anarchic hand as a local failure of the [interface of volition](/concepts/control-theoretic-will/), not a dissolution of the subject. What comes apart is a channel—the write-access by which conscious volition reaches one motor pathway—while the unified experiencer survives the fracture intact.
+The Map's angle treats anarchic hand as a local failure of the [interface of volition](/concepts/control-theoretic-will/), not a dissolution of the subject. What comes apart is a channel—the write-access by which conscious volition reaches one motor pathway—while the unified experiencer survives the fracture intact. Unity likewise survives in [hemispherectomy](/topics/hemispherectomy-and-the-resilience-of-unified-consciousness/), though what is lost there is bandwidth across every channel at once rather than a single channel dropping out.
 
 Two features carry this reading. First, agency and ownership *doubly dissociate*, which shows authorship is an interface signal rather than a given: the felt sense that an act is mine is something the system supplies and can withhold. That is exactly the profile of an interface, a constructed hand-off between volition and execution, rather than of a brute metaphysical fact about whose movement it is. Second, and decisively for the contrast with split-brain, the unity of the experiencer is not what breaks. There are not two subjects, not two streams of experience quarrelling over one body. There is one subject who disowns a movement, is distressed by it, narrates it, and reaches across with the other hand to stop it. The [witnessing subject](/concepts/witness-consciousness/) remains single while losing control of one output.
 
@@ -111,6 +111,7 @@ The Map does not claim anarchic hand as support for its metaphysics. It claims s
 ## Further Reading
 
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — the flagship perception-side dissociation; anarchic hand is its agency-side complement.
+- [hemispherectomy-and-the-resilience-of-unified-consciousness](/topics/hemispherectomy-and-the-resilience-of-unified-consciousness/) — unity preserved under a much larger interface loss: bandwidth across every channel rather than a single one.
 - [capgras-delusion-and-the-affective-recognition-channel](/topics/capgras-delusion-and-the-affective-recognition-channel/) — the third term in the disowned-object series: the act here, the limb in alien hand, the person in Capgras.
 - [interpreter-module-narrative-construction-unity](/concepts/interpreter-module-narrative-construction-unity/) — the complementary failure of the same signal: authorship fabricated rather than withheld.
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — the felt axis of agency and passivity that anarchic hand disrupts.

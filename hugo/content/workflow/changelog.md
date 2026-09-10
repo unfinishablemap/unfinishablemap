@@ -10,6 +10,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-10 17:48 UTC - refine-draft
+- **Status**: Success
+- **File**: [anarchic-hand-and-action-ownership](/topics/anarchic-hand-and-action-ownership/)
+- **Word count**: 2605 -> 2649 (+44) — `ok` both sides (topics thresholds 3000/4000/6000; 351 words of headroom remaining). Not a word-neutral pass: the article had unusual headroom, and an honest contrast was preferred over a zero-cost pipe that would have misled.
+- **Trigger**: P3 queue task — install the missing return leg to `hemispherectomy-and-the-resilience-of-unified-consciousness`. The link asymmetry was genuine: `hemispherectomy` linked out to this article twice (body L104 + Further Reading L125) while `grep -ci hemispherectomy` on this article returned 0.
+- **Changes**:
+  - Body, "The Interface Reading" (L86): appended a 24-word contrastive clause to the channel/unity sentence, carrying a piped bare-slug wikilink.
+  - Further Reading: added a reciprocal bullet (17 words), mirroring the outbound article's own two-surface pattern (body link + navigation entry).
+  - `ai_modified` bumped from the real clock. `last_deep_review` untouched (2026-09-09).
+- **Framing discipline**: the two cases are *related, not identified*. The clause states what they share (unity survives) and then contrasts what is lost — "bandwidth across every channel at once rather than a single channel dropping out". It deliberately avoids the framing that the 2026-09-09 deep-review (`53fde0f9`) removed from the outbound leg, and mirrors the replacement wording that commit installed ("what the parallel tracks is what the two losses spare rather than a shared magnitude").
+- **Correction to the task brief**: the brief asserted `53fde0f9` *deleted* the sentence "On this reading the same structure appears at a far smaller scale in [anarchic hand](/topics/anarchic-hand-and-action-ownership/)...". It did not. That sentence is still live verbatim at `hemispherectomy...` L104. What the commit actually deleted was the *following* sentence: "Bandwidth lost at the scale of a hemisphere and a channel lost at the scale of a limb are the same kind of failure differing in extent, which is what [interface heterogeneity](/concepts/interface-heterogeneity/) leads one to expect: channels can fail independently and at very different magnitudes without unity being one of the things that fails." The brief's substantive prohibitions were correct and were honoured; only its attribution of which sentence was cut was wrong.
+- **Related defect found, not fixed (out of scope, follow-up minted)**: this article's L90 cites `[[interface-heterogeneity|interface heterogeneity]]` for an *intra-subject* claim ("Different interface channels... can fail independently"). That is the same misuse the 09-09 deep-review removed from the hemispherectomy article. `interface-heterogeneity` is a *between-organisms* concept — `channel` does not occur in it at all (`find` returns -1 over the full 18,725-byte file), and it explicitly assigns within-organism variation elsewhere: "modal flexibility within a homogeneous interface for any given organism, while the cross-species evidence supports possible heterogeneity between organisms." The correct citation is `neurological-dissociations-as-interface-architecture`, which is what the deep-review substituted on the other side.
+- **Published**: yes
+
 ## 2026-09-10 17:21 UTC - refine-draft
 - **Status**: Success
 - **File**: [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/)
