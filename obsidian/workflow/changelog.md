@@ -5,6 +5,24 @@ ai_modified: '2026-09-10T01:39:10+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-10T05:41:44+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (High) — commissioned 03:05 UTC, collected first attempt
+- **File**: [[reviews/outer-review-2026-09-10-claude-opus-5]]
+- **Subject**: `concepts/improper-vs-proper-mixtures` (subject_type `recent`, source `fallback:recent-aged`) — same subject as the 05:21 Gemini leg via the reuse path
+- **Verdict**: DEMOTE-TO-COHERENCE-ONLY. 29.3 KB artifact, 210 sources, 11m31s research time; three-layer citation table over 18 sources
+- **Claims verified**: 9 checked at processing time — 3 confirmed, 5 refuted or partly refuted, 1 reviewer-side retrieval failure
+- **⚠ Headline finding REFUTED**: the review calls the article's Schlosshauer 2004 quotation a fabricated "pseudo-quote" and asks for it to be deleted corpus-wide. It is **verbatim** — whitespace-normalised literal match at offset 179512 in the raw arXiv e-print TeX of quant-ph/0312059 (`rmp_arxiv.tex`, fetched from `arxiv.org/e-print/`), independently reproducing the `[grep-verified]` record already at [[research/improper-versus-proper-mixtures-2026-09-02]] L78. Classic summariser false-absence on a long primary source. The Part 4 delete-and-purge recommendations and the citation-table FAIL verdict on row 13 are void and are fenced off in the minted task
+- **⚠ Second refutation (false presence)**: the review names Maudlin among "every load-bearing physicist the article recruits", quotes his conclusion, and issues a stance verdict — but the article **does not cite Maudlin at all**. Verified two ways: case-insensitive `find()` for `maudlin` and `three measurement` returns −1 in both the obsidian source and the hugo mirror, and Maudlin is absent from the article's 20-item reference list
+- **Also partly refuted**: "trilemma silently drops dissolutionist options" (horn 3 *is* the dissolutionist option, plus a full section on Wallace/QBism/Grangier CSM); "regime-disjointness not stated plainly" (already stated at L66); "author-stance firewall structurally missing" (d'Espagnat L50 and Bell L56 are already flagged)
+- **High-value findings that survived**: (1) the trilemma's explicit "exactly three live forms" omits the **Bohmian/hidden-variable** route, which closes the outcome gap by none of the three listed routes and escapes the insolubility theorems by adding hidden variables — a genuine false-exhaustiveness claim; (2) the objective-collapse horn names **no experiment** (0 hits for donadi/nature physics/gran sasso/diósi/penrose) though Donadi et al. 2020 Gran Sasso is the live falsifiable test; (3) Zeh's Everettian and Schlosshauer's own stances are unflagged where d'Espagnat's and Bell's already are
+- **Propagation ledger recorded in the task**: the count "three" is quoted across 4 files / 6 loci (`concepts/improper-vs-proper-mixtures` L36 + L90, `topics/quantum-darwinism-and-consciousness` L118 twice, plus both hugo mirrors). The `{#trilemma}` anchor must not change — two live deep links target it
+- **Tasks generated**: 2 (P1: 1 refine-draft with the propagation ledger and explicit do-not-action fences; P2: 1 cross-review to verify the three unchecked cross-article claims before acting, given this reviewer's mixed hit-rate)
+- **Not minted**: the Part 5 "verbatim-quote provenance check" methodology proposal — sound in itself, but its motivating example is the reviewer's own error and the Map already practises it
+- **Length**: article measured at 2556 words, `soft_warning`, 944 below the 3500 concepts hard threshold — budget noted in the task so the three fixes stay inside it
+- **Gemini leg**: left untouched at `pending`, 0 attempts (commissioned 05:21, under the 20-minute floor at this run)
+- **Commit**: none (cycle_post owns it)
+
 ## 2026-09-10T05:12:00+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/identity-across-transformations]]

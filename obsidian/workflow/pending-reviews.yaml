@@ -285,9 +285,9 @@
   prompt_summary: 'Audit improper-vs-proper-mixtures: does the distinction bear Tenet
     2''s weight?'
   target_filename: outer-review-2026-09-10-claude-opus-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-10T05:33:36.165060+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile external referee for The Unfinishable Map (https://unfinishablemap.org),
     a dualist philosophy-of-mind site. Audit one article: https://unfinishablemap.org/concepts/improper-vs-proper-mixtures/
