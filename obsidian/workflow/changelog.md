@@ -5,6 +5,20 @@ ai_modified: '2026-09-10T07:22:05+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-10T08:47:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-language-interface]]
+- **Task**: P2 queue task (todo.md line 1920) — add the missing citation for Dennett's inner-speech / constitutive-view account.
+- **Score**: not run. `scripts/curate.py` does not exist in this repo (SKILL.md Step 3 is stale); verified by `ls scripts/`. Length measured with `tools.curate.length.analyze_length` instead.
+- **Word count**: 3,856 `soft_warning` -> 3,865 `soft_warning` (+9; topics soft 3,000 / hard 4,000, printed from `tools.curate.length.THRESHOLDS` rather than quoted). 135 words of headroom remain against the hard threshold. No condense run — the over-soft status is a separate standing matter.
+- **Changes**: (1) inline cite `Daniel Dennett,` -> `Daniel Dennett (1991),` in "The Constitutive Question"; (2) new References entry `6. Dennett, D. (1991). *Consciousness Explained*. Little, Brown.`
+- **Transplant form**: taken verbatim from the sibling `obsidian/topics/inner-speech-and-anendophasia.md` (L81 inline, L124 reference). Confirmed corpus-dominant independently of the driver's live-article count: `Little, Brown.` 41 occurrences vs `Little, Brown and Company.` 15 across `obsidian/`. No variant minted, publisher string not "improved".
+- **Placement — inserted alphabetically at 6, NOT appended**: the reference list is mixed-structure — 1-3 (Boroditsky, Thierry, Schooler) are legacy and unsorted, 4-14 were strictly alphabetical. Dennett sorts between Chalmers (5) and Heavey (6), so insertion at 6 renumbered 6-14 -> 7-15 and preserved the alphabetical run. Appending at 15 would have left the only out-of-order entry in the sorted section — trading the fixed defect for a fresh one.
+- **Renumbering verified safe two independent ways**: (a) zero numeric cross-references in the body — regex sweep for `[N]`, `(ref N)`, `reference N`, `ref. N`, `note N` over the prose (frontmatter and the References block excluded) returned empty for every pattern; (b) zero inbound deep-links — no file in `obsidian/`, `archive/` or `hugo/content/` contains `consciousness-and-language-interface#`.
+- **Absence of a pre-existing entry confirmed three ways** before adding: word-bounded `Dennett` count = 1 (the inline locus at byte 17940), `Consciousness Explained` -> -1, `1991` -> -1.
+- **Scope held**: no expansion of the surrounding sentence, no gloss, no parallel citation minted for Carruthers or the Vygotskians. Carruthers (2002) was already entry 4 and needed nothing.
+- **Published**: yes
+
 ## 2026-09-10T08:20:59+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/post-decoherence-selection]]

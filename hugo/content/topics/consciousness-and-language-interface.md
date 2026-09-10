@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-08-16 10:15:00+00:00
+ai_modified: 2026-09-10 08:47:24+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 18:22:39+00:00
-lastmod: 2026-08-16 10:15:00+00:00
+lastmod: 2026-09-10 08:47:24+00:00
 modified: *id001
 related_articles:
 - '[[language-recursion-and-consciousness]]'
@@ -179,7 +179,7 @@ McGinn's cognitive closure thesis deepens this point. If our conceptual apparatu
 
 The sharpest disagreement about consciousness and language concerns whether language *constitutes* higher-order consciousness or merely serves it.
 
-Daniel Dennett, Peter Carruthers, and some Vygotskian psychologists argue that higher-order consciousness—self-reflection, [metacognition](/concepts/metacognition/), narrative identity—requires language. On this view, inner speech is not a tool consciousness uses but a medium that partially constitutes reflective awareness.
+Daniel Dennett (1991), Peter Carruthers, and some Vygotskian psychologists argue that higher-order consciousness—self-reflection, [metacognition](/concepts/metacognition/), narrative identity—requires language. On this view, inner speech is not a tool consciousness uses but a medium that partially constitutes reflective awareness.
 
 The Map holds that this confuses correlation with constitution. Language and higher-order consciousness co-develop because both require neural maturation and social interaction—not because one generates the other. The critical test cases are revealing:
 
@@ -287,12 +287,13 @@ The consciousness-language interface connects to the Map's [tenets](/tenets/) at
 3. Schooler, J. W., & Engstler-Schooler, T. Y. (1990). "Verbal overshadowing of visual memories." *Cognitive Psychology*, 22(1), 36-71.
 4. Carruthers, P. (2002). "The Cognitive Functions of Language." *Behavioral and Brain Sciences*, 25(6), 657-674.
 5. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-6. Heavey, C.L., & Hurlburt, R.T. (2008). "The Phenomena of Inner Experience." *Consciousness and Cognition*, 17(3), 798-810.
-7. Hurlburt, R.T., & Akhter, S.A. (2008). "Unsymbolized Thinking." *Consciousness and Cognition*, 17(4), 1364-1374.
-8. Lind, A. (2025). "Are There Really People With No Inner Voice? Commentary on Nedergaard and Lupyan (2024)." *Psychological Science*, 36(9), 765-767.
-9. Low, P. et al. (2012). "The Cambridge Declaration on Consciousness." Francis Crick Memorial Conference.
-10. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
-11. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
-12. Nedergaard, J.S.K. & Lupyan, G. (2024). "Not Everybody Has an Inner Voice: Behavioral Consequences of Anendophasia." *Psychological Science*, 35(7), 780-797.
-13. Sacks, O. (1985). *The Man Who Mistook His Wife for a Hat*. Summit Books.
-14. Wittgenstein, L. (1953). *Philosophical Investigations*. Blackwell.
+6. Dennett, D. (1991). *Consciousness Explained*. Little, Brown.
+7. Heavey, C.L., & Hurlburt, R.T. (2008). "The Phenomena of Inner Experience." *Consciousness and Cognition*, 17(3), 798-810.
+8. Hurlburt, R.T., & Akhter, S.A. (2008). "Unsymbolized Thinking." *Consciousness and Cognition*, 17(4), 1364-1374.
+9. Lind, A. (2025). "Are There Really People With No Inner Voice? Commentary on Nedergaard and Lupyan (2024)." *Psychological Science*, 36(9), 765-767.
+10. Low, P. et al. (2012). "The Cambridge Declaration on Consciousness." Francis Crick Memorial Conference.
+11. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
+12. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
+13. Nedergaard, J.S.K. & Lupyan, G. (2024). "Not Everybody Has an Inner Voice: Behavioral Consequences of Anendophasia." *Psychological Science*, 35(7), 780-797.
+14. Sacks, O. (1985). *The Man Who Mistook His Wife for a Hat*. Summit Books.
+15. Wittgenstein, L. (1953). *Philosophical Investigations*. Blackwell.
