@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-10T07:22:05+00:00'
+ai_modified: '2026-09-10T11:02:04+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-10 11:02 UTC - refine-draft
+- **Status**: Success
+- **File**: [[apex/phenomenology-of-consciousness-doing-work]]
+- **Original score**: not scored — `scripts/curate.py` does not exist in this repo (SKILL.md Step 3 is stale); used `tools.curate.length.analyze_length` instead: 4,707w before / 4,710w after, `soft_warning`, 290 under the apex hard threshold of 5,000
+- **Changes**: One-locus register alignment in the roadmap sentence (obsidian byte 3876). "shows that cross-cultural evidence confirms the profile's universality" -> "traces the profile's persistence across traditions that interpret it radically differently". The old wording was the outlier in this file: it claimed proof of a universal, while the body ("**Cross-cultural evidence** shows the profile persists across traditions that interpret it radically differently") and the `apex_thesis` frontmatter field both use the weaker robustness register, and the calibration paragraph 150 lines on explicitly disclaims decisiveness ("No single line of evidence is decisive... The convergence targets *epiphenomenalism*... and *eliminativism*..., not non-reductive physicalism"). The roadmap now promises what the article delivers. No other sentence touched; `<details class="yt-embed" data-video-id="GnGdrzel6OA">` block left untouched; `concepts/ai-epiphenomenalism` left untouched (its locus was verified already discharged).
+- **Published**: yes
 
 ## 2026-09-10T10:27:10+00:00 - deep-review
 - **Status**: Success
