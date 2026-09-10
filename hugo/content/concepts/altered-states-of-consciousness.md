@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-09-10 09:34:04+00:00
+ai_modified: 2026-09-10 09:50:33+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 18:40:00+00:00
-lastmod: 2026-09-10 09:34:04+00:00
+lastmod: 2026-09-10 09:50:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -103,7 +103,7 @@ Neuroimaging confirms that hypnosis alters executive control network integration
 
 ### Meditation
 
-Advanced meditation produces states ranging from focused absorption (samadhi) to [witness awareness](/concepts/witness-consciousness/) to cessation events—radically altered states involving full loss of consciousness that, unlike anaesthetic unconsciousness, are voluntary and transformative. Tantric yoga offers systematic phenomenology of consciousness structures that meditators navigate deliberately. The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) documents how these states converge structurally across Buddhist, Hindu, Christian, [Sufi](/concepts/islamic-sufi-philosophy-of-consciousness/), and Daoist practices—self-dissolution, contentless awareness, and subject-object collapse appear independently across traditions with incompatible metaphysics.
+Advanced meditation produces states ranging from focused absorption (samadhi) to [witness awareness](/concepts/witness-consciousness/) to cessation events—radically altered states involving full loss of consciousness that, unlike anaesthetic unconsciousness, are voluntary and transformative. Tantric yoga offers systematic phenomenology of consciousness structures that meditators navigate deliberately. The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) documents how these states [converge structurally](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) across Buddhist, Hindu, Christian, [Sufi](/concepts/islamic-sufi-philosophy-of-consciousness/), and Daoist practices—self-dissolution, contentless awareness, and subject-object collapse appear independently across traditions with incompatible metaphysics. But the convergence is not neutral between readings: the traditions supplying it read self-dissolution as showing there was no substantial witness, so it earns *irreducibility* rather than the Map's persisting-subject reading—a genuine bedrock disagreement on the [Madhyamaka analysis](/topics/eastern-philosophy-consciousness/), not one the Map can refute from inside.
 
 The voluntariness is crucial. Meditators deliberately alter their brain-consciousness interface through attention training. While earlier studies claimed meditation produces lasting structural brain changes, Kral et al. (2022)—218 participants and active controls, and by its authors' account the most rigorously controlled study to date—found no evidence of structural changes from mindfulness-based stress reduction. Meditation's *functional* effects (altered activation patterns, moderate efficacy for anxiety and depression) survive scrutiny. From the Map's framework, meditation's functional modulation and the content-specificity of different practices remain relevant to [Bidirectional Interaction](/tenets/#bidirectional-interaction) as outbound-leg coherence rather than evidence, though structural remodelling claims should no longer be cited as evidence.
 
@@ -153,11 +153,11 @@ Altered states illuminate the Map's [tenets](/tenets/) from multiple angles:
 
 **Dualism:** ASCs show consciousness operating in modes and configurations that map onto brain states only loosely. The same behavioural output can mask different experiences; similar brain changes can produce opposite subjective effects. That constrains how tight the mapping can be without by itself establishing dualism.
 
-**Minimal Quantum Interaction:** The tenet specifies the outbound leg—consciousness selecting among outcomes the physics leaves open—and altered-state data are inbound, so they are silent on it unless a selection-side effect is separately shown. A microtubule quantum-coherence mechanism, if substantiated, would supply a candidate substrate for that leg; a drug that perturbs the substrate changes what consciousness manifests, not what it selects. The Orch OR reading of psychedelics stays at the speculative tier (the [psychedelics article](/topics/psychedelics-and-the-filter-model/)'s appendix), and nothing here depends on it.
+**Minimal Quantum Interaction:** The tenet specifies the outbound leg—consciousness selecting among outcomes the physics leaves open—and altered-state data are inbound, so they are silent on it unless a selection-side effect is separately shown. A microtubule quantum-coherence mechanism, if substantiated, would supply a candidate substrate for that leg; a drug that perturbs the substrate changes what consciousness manifests, not what it selects. The Orch OR reading of psychedelics stays at the speculative tier (the [psychedelics article](/topics/psychedelics-and-the-filter-model/)'s appendix), and nothing here depends on it. Nor does the tenet: [post-decoherence outcome selection](/apex/post-decoherence-selection-programme/), the route the Map endorses most strongly, sidesteps the coherence-survival requirement entirely.
 
 **Bidirectional Interaction:** The voluntary states—flow, hypnosis, meditation—are the only ones here that put an outbound claim in play: consciousness deliberately releasing control or reconfiguring its interface. The Map reads that as causal traffic running outward; a self-modifying production system can down-regulate the activity sustaining a state just as readily, and what the reports show is a change in what manifested, so the reading is preferred by fit rather than forced by the evidence. Tenet 3's support comes from elsewhere—[the agency void](/voids/agency-void/), [self-stultification](/concepts/self-stultification/), and the tenets page's own record that downward causation is shown [available rather than actual](/tenets/#tenet-3-standing).
 
-**No Many Worlds:** the Map's rejection of many-worlds is consistent with ASC phenomenology: altered states feel like different modes of *this* consciousness, not glimpses into parallel selves.
+**No Many Worlds:** altered states feel like different modes of *this* consciousness rather than glimpses into parallel selves. Many-worlds predicts branching is locally undetectable, so it predicts the same phenomenology: the reports are consistent with the Map's rejection without discriminating in its favour. Tenet 4's support comes from the [indexical argument](/tenets/).
 
 Read by leg, the unified framework is narrower than the filter vocabulary suggests: every state on this page is a reconfiguration of the inbound leg, and the interface's return channel is a commitment the tenets supply rather than one these states demonstrate.
 

@@ -10,6 +10,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-10T09:50:33+00:00 - refine-draft
+- **Status**: Success
+- **File**: [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)
+- **Task**: P2 follow-on from `reviews/pessimistic-2026-09-10-altered-states-of-consciousness` (todo.md line 137) — the two findings carried unaddressed since 2026-03-20 (Buddhist no-self; No-Many-Worlds) plus the Minimal Quantum Interaction path. `scripts/curate.py` does not exist in this repo (SKILL.md Step 3 is stale), so no quality score is asserted; length was measured with `tools.curate.length.analyze_length`.
+- **Length**: 3,393 → **3,482 words** (`soft_warning`, concepts hard 3,500). Net **+89** of the 107-word headroom; **18 words** left. Step (0) was NOT re-run — the sibling task had already deleted the James/Kelly references (`find` = −1 for both, re-confirmed this session).
+- **Changes** (three fixes):
+  - **(1) §Meditation — the Buddhist no-self objection engaged for the first time.** The article recruited cross-traditional convergence on "self-dissolution, contentless awareness, and subject-object collapse" as support while noting the traditions have "incompatible metaphysics" — but those are the anti-substantialist datum, and the traditions generating them read self-dissolution as showing there was no substantial witness. Added framework-boundary marking: the cluster earns *irreducibility* rather than the Map's persisting-subject reading, and the residue is named a genuine bedrock disagreement the Map cannot refute from inside Madhyamaka's own resources. **+46 words** (measured with `count_words`); both new wikilinks are piped over existing text at zero additional word cost.
+  - **(2) §Relation to Site Perspective — No Many Worlds calibrated to match its neighbours.** The paragraph was byte-identical to its pre-2026-03-20 state and asserted bare consistency. Many-worlds predicts branching is locally undetectable, so it predicts the same phenomenology; the paragraph now says the reports do not discriminate and routes Tenet 4's support to the indexical argument. Paragraph retained — the tenet section covers all five by design. **+24 words** (27 → 51).
+  - **(3) §Relation to Site Perspective — Minimal Quantum Interaction no longer stakes the tenet on the declined path.** Added one clause noting that post-decoherence outcome selection, the route `tenets.md` records as "the strongest path the Map currently endorses", sidesteps the coherence-survival requirement — so no contested coherence study is left carrying the tenet. **+19 words.**
+- **Reasoning mode (editor-internal record; the labels appear nowhere in the article)**: engagement with the Buddhist no-self critic — **Mode Three**, framework-boundary marking; the corpus has already conceded the point is bedrock, and claiming an in-framework refutation of Madhyamaka would be the boundary-substitution failure the discipline names. Engagement with the Many-Worlds defender — **Mode Three**; the reply concedes the phenomenology does not discriminate rather than manufacturing an argument from it.
+- **Not done, deliberately**: the optional promotion of the L159 leg-sorting verdict into the lead. It is a placement change that touches the lead, and with 18 words of headroom a promotion would force a compression of an already-calibrated opening paragraph. Left for a pass with more budget. Also untouched, as instructed: the Kerskens sentence (not re-escalated), and the production-theorist accommodation clauses at L77/L95/L113/L155 that make the symmetry audit pass.
+- **Verification**: `evaluate_symmetry()` → `None` (still passes; no symmetry section added, no padding toward the marker vocabulary). Label-leakage scan clean. Both trees synced and verified by printed offsets with positive *and* negative controls; all three new wikilinks resolve to real URLs in Hugo.
+- **Published**: yes
+
 ## 2026-09-10T09:34:04+00:00 - refine-draft
 - **Status**: Success
 - **File**: [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)
