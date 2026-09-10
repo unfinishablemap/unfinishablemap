@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-10T11:02:04+00:00'
+ai_modified: '2026-09-10T20:06:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-10'
-lastmod: 2026-09-10 11:02:04+00:00
+lastmod: 2026-09-10 20:06:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-10 20:06 UTC - refine-draft
+- **Status**: Success
+- **File**: [cumulative-culture](/concepts/cumulative-culture/)
+- **Trigger**: queue task P3 (todo.md line 92). String siblings of two moves withdrawn from [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/) on 2026-09-05.
+- **Word count**: 3477 -> 3338 (-139). `soft_warning` both sides (concepts 2500/3500/5000); margin to hard widened from 23 words to 162. Net-negative as required; no explanatory sentence added anywhere.
+- **Locus (a) — false empirical claim, deleted.** "The Illusionist Challenge" asserted of great apes: "Their neural resources are comparable to early hominins." Chimpanzee endocranial volume is ~380-400cc against *Homo habilis* ~600-700cc; only australopiths are comparable, and no hominin is evidenced to have taught (Morgan et al. 2015, *Nat Commun* 6:6029 supports *selection for* teaching from ~2.5 Mya, not ape-brained teachers). Sentence deleted rather than reframed: the surrounding argument stands without it and deletion is length-negative. The sibling article had already deleted its own copy.
+- **Locus (a) sibling — same claim, stronger form, also deleted (scope addition, flagged).** The `### Dualism` subsection carried "No purely functional account explains why great apes, with comparable neural resources, cannot achieve what humans routinely do." Comparison class there is *humans* (~1350cc, ~16bn cortical neurons vs ~6.2bn), so the claim is false a fortiori. Deleting only the L154 instance would have left the defect live in a Relation-to-Site-Perspective subsection while a literal-string check on the L154 wording still passed. Whole sentence removed; the subsection's first two sentences carry the tenet connection unaided.
+- **Locus (b) — argument that supports nothing, replaced.** The `### No Many Worlds` section (both paragraphs, ~156 words) argued that branch-relative cultural trajectories and the master/apprentice relation support rejecting MWI, and that an Everettian appeal to within-branch indexical identity "concedes the point". This is the move Issue 5 of `reviews/pessimistic-2026-09-05-teaching-as-metarepresentation` rejected: within-branch facts about who innovated or inherited what are determinate on every Everettian account, so branch-relative trajectories are what Everett predicts and threaten nothing. Replaced with a neutral one-liner on the sibling's model, adapted from teaching to culture; heading and `[[tenets#^no-many-worlds]]` link retained so the tenet section stays complete.
+- **Engagement with illusionism (Frankish), "The Illusionist Challenge": Mode Two** — the ape problem asks illusionism to explain, by its own explanatory standards, why ape brains generate no quasi-phenomenal illusion of metarepresentation while human brains do. Deleting the false comparability premise strengthens the mode rather than weakening it: the reply no longer rests on a disputable neuroanatomical parity claim.
+- **Not touched**: [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/) (its side already correct), `last_deep_review`, the `[[haecceity]]` Further Reading entry and `concepts:` frontmatter entry (the body wikilink went with locus (b); the pointer remains accurate).
+- **Residual, not actioned**: two looser near-siblings survive — "Great apes, with brains only slightly smaller than early human ancestors" (defensible if "early human ancestors" reads as australopithecine, ~450cc), and "the same neural resources that produce stable ape traditions" in the amplifier paragraph (reads as general primate machinery rather than a parity assertion). Both are charitable-readable; flagged rather than edited.
+- **Published**: yes
 
 ## 2026-09-10 19:54 UTC - deep-review
 - **Status**: Success

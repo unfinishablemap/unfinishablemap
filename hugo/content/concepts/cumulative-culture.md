@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-08-04 08:54:17+00:00
+ai_modified: 2026-09-10 20:04:11+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-29 19:39:49+00:00
-lastmod: 2026-08-04 08:54:17+00:00
+lastmod: 2026-09-10 20:04:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -154,7 +154,7 @@ This supports the [consciousness-as-amplifier](/concepts/consciousness-as-amplif
 
 This response faces several difficulties:
 
-**The ape problem**: If cumulative culture requires only functional processing, why don't great apes achieve it? Their neural resources are comparable to early hominins. If metarepresentation is merely computational, nothing prevents apes from computing it. The consistent absence suggests metarepresentation requires something apes lack—plausibly, phenomenal consciousness. Illusionists must explain why ape brains generate no quasi-phenomenal illusions of metarepresentation while human brains do, without appealing to genuine phenomenal differences.
+**The ape problem**: If cumulative culture requires only functional processing, why don't great apes achieve it? If metarepresentation is merely computational, nothing prevents apes from computing it. The consistent absence suggests metarepresentation requires something apes lack—plausibly, phenomenal consciousness. Illusionists must explain why ape brains generate no quasi-phenomenal illusions of metarepresentation while human brains do, without appealing to genuine phenomenal differences.
 
 **The regress problem**: For cumulative culture to work, innovators must *experience* their innovations as improvements. Frankish argues this experience is quasi-phenomenal rather than genuinely phenomenal. But explaining the quasi-phenomenal requires explaining why the brain represents improvement-states as it does—and this representation must be about *something*. The regress reinstates the explanatory gap: explaining the illusion requires the same apparatus as explaining genuine experience.
 
@@ -192,7 +192,7 @@ Several findings would substantially weaken the claim that cumulative culture re
 
 ### Dualism
 
-The [Dualism](/tenets/#dualism) tenet asserts consciousness is irreducible to physical processes. Cumulative culture's apparent dependence on phenomenal consciousness supports this: if cultural accumulation requires something over and above functional processing—the metarepresentational capacity consciousness provides—then cumulative culture itself evidences consciousness's irreducibility. No purely functional account explains why great apes, with comparable neural resources, cannot achieve what humans routinely do.
+The [Dualism](/tenets/#dualism) tenet asserts consciousness is irreducible to physical processes. Cumulative culture's apparent dependence on phenomenal consciousness supports this: if cultural accumulation requires something over and above functional processing—the metarepresentational capacity consciousness provides—then cumulative culture itself evidences consciousness's irreducibility.
 
 ### Bidirectional Interaction
 
@@ -200,9 +200,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet claims
 
 ### No Many Worlds
 
-The [No Many Worlds](/tenets/#no-many-worlds) tenet rejects the Many-Worlds Interpretation's claim that all quantum possibilities are equally real across branching universes. Cumulative culture provides indirect support for this rejection. Cultural accumulation requires a single history that each generation inherits and extends. If every quantum event splits reality into branches, each branch contains its own cultural trajectory—but innovators in one branch have no access to innovations in others.
-
-More fundamentally, the teaching relationship presupposes [indexical identity](/concepts/haecceity/). When a master craftsman teaches an apprentice, both must exist in the *same* world, sharing the same cultural inheritance. Many-Worlds defenders might claim indexical identity is preserved within branches, but this concedes the point: cumulative culture requires determinate facts about which innovations actually occurred in *this* world, not merely that some branch contains some innovation. The ratchet clicks in a particular direction; branches don't accumulate across each other.
+Cumulative culture presupposes within-branch facts about which innovations occurred and who inherited them, which every Everettian account grants; the ratchet neither supports nor threatens the [No Many Worlds](/tenets/#no-many-worlds) tenet.
 
 ### Minimal Quantum Interaction
 

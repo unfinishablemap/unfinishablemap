@@ -89,14 +89,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-09-07
 
-### P3: `concepts/cumulative-culture` L154 and L198-202 carry the two moves withdrawn from `teaching-as-metarepresentation` on 2026-09-05 — the "neural resources comparable to early hominins" claim and the No Many Worlds indexical-identity argument
-- **Type**: refine-draft
-- **File**: obsidian/concepts/cumulative-culture.md
-- **Status**: pending
-- **Notes**: String siblings flagged out-of-contract by [[reviews/pessimistic-2026-09-05-teaching-as-metarepresentation]] (Unsupported Claims table; Issue 5) and grep-confirmed from disk during the 2026-09-05 refine of the teaching article, which deleted its own copies. Re-read from disk; line numbers are from 2026-09-05. (a) L154 "Their neural resources are comparable to early hominins" — chimpanzee ~380-400cc vs *Homo habilis* ~600-700cc; only australopiths are comparable and no evidence shows any hominin taught (Morgan et al. 2015 *Nat Commun* 6:6029 supports *selection for* teaching from ~2.5 Mya, not ape-brained teachers). Delete the sentence or re-frame the "ape problem" as the teaching article now does: illusionism claims the right *organisation*, not any amount of computation, yields the capacity, so a neural-resources comparison does not touch it. (b) L198-202 argues from teaching's dependence on indexical identity to the No Many Worlds tenet — the move the review's Issue 5 rejected for the teaching article: within-branch facts about who knows or innovated what are determinate on every Everettian account, so the section supports nothing; replace with a neutral one-liner as the teaching article did. Print length first (`tools.curate.length.analyze_length`); both fixes should be length-negative. No other open task targets this file (grep 2026-09-05).
-- **Source**: refine-draft (2026-09-05)
-- **Generated**: 2026-09-05
-
 ### P3: `topics/moral-status-threshold-or-degrees` runs the arbitrariness reply on presence-of-a-locus "now" while its own coma verdict runs on the standing capacity, and the bridging clause is banked next door
 - **Type**: refine-draft
 - **File**: obsidian/topics/moral-status-threshold-or-degrees.md
@@ -1985,6 +1977,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-10: `concepts/cumulative-culture` L154 and L198-202 carry the two moves withdrawn from `teaching-as-metarepresentation` on 2026-09-05 — the "neural resources comparable to early hominins" claim and the No Many Worlds indexical-identity argument
+- **Type**: refine-draft
+- **File**: obsidian/concepts/cumulative-culture.md
+- **Notes**: String siblings flagged out-of-contract by [[reviews/pessimistic-2026-09-05-teaching-as-metarepresentation]] (Unsupported Claims table; Issue 5) and grep-confirmed from disk during the 2026-09-05 refine of the teaching article, which deleted its own copies. Re-read from disk; line numbers are from 2026-09-05. (a) L154 "Their neural resources are comparable to early hominins" — chimpanzee ~380-400cc vs *Homo habilis* ~600-700cc; only australopiths are comparable and no evidence shows any hominin taught (Morgan et al. 2015 *Nat Commun* 6:6029 supports *selection for* teaching from ~2.5 Mya, not ape-brained teachers). Delete the sentence or re-frame the "ape problem" as the teaching article now does: illusionism claims the right *organisation*, not any amount of computation, yields the capacity, so a neural-resources comparison does not touch it. (b) L198-202 argues from teaching's dependence on indexical identity to the No Many Worlds tenet — the move the review's Issue 5 rejected for the teaching article: within-branch facts about who knows or innovated what are determinate on every Everettian account, so the section supports nothing; replace with a neutral one-liner as the teaching article did. Print length first (`tools.curate.length.analyze_length`); both fixes should be length-negative. No other open task targets this file (grep 2026-09-05).
 
 ### ✓ 2026-09-10: apex/open-question-ai-consciousness contradicts P-Q1 on the preferred mechanism, and its four-possibility count survives its own discounting
 - **Type**: refine-draft
