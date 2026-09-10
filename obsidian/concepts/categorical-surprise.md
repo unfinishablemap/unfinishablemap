@@ -4,7 +4,7 @@ description: "When expectation fails not at the level of prediction but at the l
 created: 2026-02-15
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-09-10T22:01:57+00:00
+ai_modified: 2026-09-10T23:06:54+00:00
 draft: false
 topics:
   - "[[surprise-prediction-error-and-consciousness]]"
@@ -62,7 +62,7 @@ This limitation is not merely practical, though the formal results usually enlis
 
 So the theorems deliver the bound the argument above needs, and no more. A system can register that its boundaries lie somewhere; it cannot map them. Mapping them is what restructuring would require, since a new framework has to be built out of what lies on the far side.
 
-A critic might object that this regress applies equally to non-physical consciousness: why should a non-physical mind be any better at modelling its own boundaries? The Map's response is that consciousness does not escape the regress by *solving* it but by *experiencing* it. The felt quality of categorical surprise—the vertigo of "I didn't know I didn't know"—is the phenomenal marker of hitting this structural limit. Computational systems hit the same limit silently; conscious beings hit it with vertigo, and that phenomenal signal is what enables the reorganisation that follows. The capacity is for felt recognition of incompleteness rather than complete self-knowledge—and that felt recognition, the Map argues, is irreducibly phenomenal.
+A critic might object that this regress applies equally to non-physical consciousness: why should a non-physical mind be any better at modelling its own boundaries? The Map's response is that consciousness does not escape the regress by *solving* it but by *experiencing* it. The felt quality of categorical surprise—the vertigo of "I didn't know I didn't know"—is the phenomenal marker of hitting this structural limit. Computational systems hit the same limit silently; conscious beings hit it with vertigo, and that phenomenal signal is what enables the reorganisation that follows. The capacity is for [[apophatic-approaches|felt recognition of incompleteness]] rather than complete self-knowledge—and that felt recognition, the Map argues, is irreducibly phenomenal.
 
 ## Phenomenology of Categorical Surprise
 

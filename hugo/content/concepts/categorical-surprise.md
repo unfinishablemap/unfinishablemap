@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-09-10 22:01:57+00:00
+ai_modified: 2026-09-10 23:06:54+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-21 00:00:00+00:00
-lastmod: 2026-09-10 22:01:57+00:00
+lastmod: 2026-09-10 23:06:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -66,7 +66,7 @@ This limitation is not merely practical, though the formal results usually enlis
 
 So the theorems deliver the bound the argument above needs, and no more. A system can register that its boundaries lie somewhere; it cannot map them. Mapping them is what restructuring would require, since a new framework has to be built out of what lies on the far side.
 
-A critic might object that this regress applies equally to non-physical consciousness: why should a non-physical mind be any better at modelling its own boundaries? The Map's response is that consciousness does not escape the regress by *solving* it but by *experiencing* it. The felt quality of categorical surprise—the vertigo of "I didn't know I didn't know"—is the phenomenal marker of hitting this structural limit. Computational systems hit the same limit silently; conscious beings hit it with vertigo, and that phenomenal signal is what enables the reorganisation that follows. The capacity is for felt recognition of incompleteness rather than complete self-knowledge—and that felt recognition, the Map argues, is irreducibly phenomenal.
+A critic might object that this regress applies equally to non-physical consciousness: why should a non-physical mind be any better at modelling its own boundaries? The Map's response is that consciousness does not escape the regress by *solving* it but by *experiencing* it. The felt quality of categorical surprise—the vertigo of "I didn't know I didn't know"—is the phenomenal marker of hitting this structural limit. Computational systems hit the same limit silently; conscious beings hit it with vertigo, and that phenomenal signal is what enables the reorganisation that follows. The capacity is for [felt recognition of incompleteness](/concepts/apophatic-approaches/) rather than complete self-knowledge—and that felt recognition, the Map argues, is irreducibly phenomenal.
 
 ## Phenomenology of Categorical Surprise
 

@@ -4,7 +4,7 @@ description: "Galileo's founding methodological move excluded subjective experie
 created: 2026-02-16
 modified: 2026-02-16
 human_modified:
-ai_modified: 2026-09-05T09:10:46+00:00
+ai_modified: 2026-09-10T23:06:54+00:00
 last_deep_review: 2026-09-05T09:10:46+00:00
 draft: false
 topics:
@@ -57,7 +57,7 @@ The Galilean exclusion generates a distinctive difficulty when science turns to 
 
 A natural objection: modern cognitive science has moved beyond Galileo. Neuroscientists routinely incorporate subjective reports as data, and [[concepts/functionalism]] maps mental states to functional roles rather than ignoring them. But this accommodation operates within the Galilean framework rather than transcending it. Subjective reports enter as third-person data *about* experience — verbal behaviour, button presses, ratings on scales — not as experience itself. The structural issue remains: the tools of description are observer-independent, even when the target of description is not.
 
-The claim concerns the relationship between a method and its founding assumptions, not the limits of scientific effort or intelligence. A sieve that filters out sand cannot then be used to study sand — not because sieves are poorly made, but because filtering out sand is what the sieve *does*. The Galilean exclusion filters out phenomenal quality. A science built on that exclusion faces a structural obstacle when phenomenal quality becomes the target.
+The claim concerns the relationship between a method and its founding assumptions, not the limits of scientific effort or intelligence. A sieve that filters out sand cannot then be used to study sand — not because sieves are poorly made, but because filtering out sand is what the sieve *does*. The Galilean exclusion filters out phenomenal quality. A science built on that exclusion faces a structural obstacle when phenomenal quality becomes the target. Whether that obstacle is peculiar to consciousness is a further question. The Map's [[emergence-as-universal-hard-problem|universalist reading of the hard problem]] argues that a remainder of the same shape survives every level transition, which would make consciousness the case where the residue becomes impossible to overlook rather than the only place it arises — a reading that article defends as well-motivated rather than forced.
 
 The [[explanatory-gap]] between neural description and felt experience gains sharper diagnosis in this light. More than a hard empirical problem awaiting further research, the gap reflects the fact that the very framework of scientific explanation was constructed by removing from its domain the phenomenon now under investigation. Husserl made this argument in *The Crisis of European Sciences* (1936), identifying what he called the "mathematization of nature" — the substitution of mathematical idealisations for the concrete world of lived experience. Thompson builds on Husserl's critique across his work, arguing that modern science inherited from Galileo the assumption that mathematical-physical description exhausts what is objectively real (Thompson, 2007; Frank, Gleiser, & Thompson, 2024). Everything excluded from that description — including experience — becomes either reducible to physics or scientifically invisible.
 

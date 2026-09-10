@@ -140,14 +140,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-09-05
 
-### P3: `concepts/meta-problem-of-consciousness` L45 presents a spliced Chalmers quotation as one continuous definition — the two halves come from different passages and the source sentence's own continuation is dropped
-- **Type**: refine-draft
-- **File**: obsidian/concepts/meta-problem-of-consciousness.md
-- **Status**: pending
-- **Notes**: L45 reads — Chalmers "defines it precisely" as "the problem of explaining why we think consciousness poses a hard problem, or the problem of explaining problem intuitions." Verified against the primary source this run (consc.net/papers/metaproblem.pdf, 56pp, extracted and normalised; both component phrases HIT). Both halves are genuine Chalmers, from different places. The source sentence is "The meta-problem is the problem of explaining why we think consciousness poses a hard problem, or in other terms, the problem of explaining why we think consciousness is hard to explain." The phrase "the problem of explaining problem intuitions" occurs several paragraphs later in a different sentence — "The meta-problem proper, however, is the problem of explaining problem intuitions: intuitions that reflect our sense that there is some sort of special problem involving consciousness". So the span joins the first half of one sentence to a phrase lifted from another, drops the source's continuation, and uses "or" to carry the seam, while "defines it precisely" presents the result as continuous. SEVERITY IS GENUINELY LOWER than the Churchland item — components are real, substance is faithful, and Chalmers does define the meta-problem proper as explaining problem intuitions. Presentation defect, not fabrication. FIX — either quote the source sentence whole, or split into two quotations with the intervening text acknowledged, or drop to paraphrase. Minted rather than left in review prose deliberately, because the sibling P2 in this batch documents what happens to low-severity quote items that get deferred to prose and carried across six reviews. Sync both trees. See [optimistic-2026-09-03-explanatory-limit-wing](/reviews/optimistic-2026-09-03-explanatory-limit-wing/) §3.
-- **Source**: optimistic-review (2026-09-03 explanatory-limit wing)
-- **Generated**: 2026-09-03
-
 ### P3: Cross-links from optimistic review 2026-09-03 (explanatory-limit wing) — three of the six pages have no link to any sibling in either direction, and the wing's two opposed readings of convergent explanatory failure do not know the other exists
 - **Type**: refine-draft
 - **File**: obsidian/topics/emergence-as-universal-hard-problem.md
@@ -1953,6 +1945,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-10: `concepts/meta-problem-of-consciousness` L45 presents a spliced Chalmers quotation as one continuous definition — the two halves come from different passages and the source sentence's own continuation is dropped
+- **Type**: refine-draft
+- **File**: obsidian/concepts/meta-problem-of-consciousness.md
+- **Notes**: L45 reads — Chalmers "defines it precisely" as "the problem of explaining why we think consciousness poses a hard problem, or the problem of explaining problem intuitions." Verified against the primary source this run (consc.net/papers/metaproblem.pdf, 56pp, extracted and normalised; both component phrases HIT). Both halves are genuine Chalmers, from different places. The source sentence is "The meta-problem is the problem of explaining why we think consciousness poses a hard problem, or in other terms, the problem of explaining why we think consciousness is hard to explain." The phrase "the problem of explaining problem intuitions" occurs several paragraphs later in a different sentence — "The meta-problem proper, however, is the problem of explaining problem intuitions: intuitions that reflect our sense that there is some sort of special problem involving consciousness". So the span joins the first half of one sentence to a phrase lifted from another, drops the source's continuation, and uses "or" to carry the seam, while "defines it precisely" presents the result as continuous. SEVERITY IS GENUINELY LOWER than the Churchland item — components are real, substance is faithful, and Chalmers does define the meta-problem proper as explaining problem intuitions. Presentation defect, not fabrication. FIX — either quote the source sentence whole, or split into two quotations with the intervening text acknowledged, or drop to paraphrase. Minted rather than left in review prose deliberately, because the sibling P2 in this batch documents what happens to low-severity quote items that get deferred to prose and carried across six reviews. Sync both trees. See [optimistic-2026-09-03-explanatory-limit-wing](/reviews/optimistic-2026-09-03-explanatory-limit-wing/) §3.
 
 ### ✓ 2026-09-10: `concepts/categorical-surprise` L55/L59 — the Gödel and Tarski appeal establishes incompleteness, not the undetectability the argument needs, and the article's own reply at L61 draws that distinction for consciousness without applying it back
 - **Type**: refine-draft
