@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-09-03 00:22:50+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-10 08:20:59+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[quantum-consciousness]]'
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 07:08:17+00:00
-lastmod: 2026-09-03 00:22:50+00:00
+lastmod: 2026-09-10 08:20:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,6 +40,9 @@ related_articles:
 - '[[quantum-darwinism-and-consciousness]]'
 - '[[post-decoherence-selection-programme]]'
 - '[[brain-internal-born-rule-testing]]'
+- '[[consciousness-in-smeared-quantum-states]]'
+- '[[testing-consciousness-collapse]]'
+- '[[multi-agent-born-preservation-problem]]'
 title: Post-Decoherence Selection
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -70,7 +73,7 @@ Not all approaches accept this framing. Many-worlds proponents and some pragmati
 
 Every interpretation of quantum mechanics must take a stance on this gap—whether by proposing a selection mechanism, denying selection occurs, or dissolving the question. The proposed responses fall into five families:
 
-**Consciousness-mediated collapse** (von Neumann, Wigner, Stapp). Conscious observation actualizes one outcome from the mixture. Von Neumann (1932) demonstrated that the collapse can be placed anywhere in the causal chain from apparatus to observer. Stapp develops this into a full dualist framework: consciousness does not inject energy but selects which question nature answers, with the quantum Zeno effect allowing sustained attention to hold preferred neural states.
+**Consciousness-mediated collapse** (von Neumann, Wigner, Stapp). Conscious observation actualizes one outcome from the mixture. Von Neumann (1932) demonstrated that the collapse can be placed anywhere in the causal chain from apparatus to observer. Stapp develops this into a full dualist framework: consciousness does not inject energy but selects which question nature answers, with the quantum Zeno effect allowing sustained attention to hold preferred neural states. The Wigner's-friend scenario that shares Wigner's name constrains this whole family independently of any particular mechanism within it, and is taken up under [absolute outcomes and the local friendliness theorem](#absolute-outcomes-and-the-local-friendliness-theorem).
 
 **Objective collapse** (GRW, Penrose–Diósi, CSL). New physics—spontaneous localization or gravitational self-energy—causes collapse without observers. GRW (1986) introduced random, spontaneous localization events whose rate scales with particle number, so macroscopic objects collapse almost instantly while individual particles remain in superposition. Penrose and Diósi proposed that gravity itself cannot tolerate superpositions of distinct spacetime geometries, triggering collapse above a mass threshold. Both approaches introduce ad hoc parameters (collapse rate, localization width) whose values are chosen to match observation rather than derived from first principles. Large-molecule interferometry could in principle test these predictions, but no confirmation has been obtained. Crucially, objective collapse makes outcome selection a purely physical process—consciousness plays no constitutive role.
 
@@ -87,6 +90,16 @@ Established quantum consciousness proposals—Stapp's quantum Zeno mechanism and
 The Map's post-decoherence selection proposal sidesteps this objection entirely. If consciousness acts on the already-decohered mixture—fixing which single outcome the improper mixture resolves to—the decoherence timescale becomes irrelevant. Consciousness operates not on fragile quantum superpositions but on the robust, classically distinguishable branch structure that decoherence has already prepared. That structure supplies distinguishable candidate outcomes without settling any of them as the actual one; the point of contact is the actualization itself, not a choice among pre-decided actualities. The companion topic article [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) catalogues the candidate mechanisms (pre-decoherence variants from Penrose-Hameroff, Stapp, and Chalmers-McQueen alongside the post-decoherence path) and shows why the post-decoherence variant is the Map's strongest version of the forward-in-time strategy.
 
 The metaphysical advantage is significant: immunity to the strongest empirical objection against quantum consciousness theories. The epistemological cost is equally significant: post-decoherence selection is harder to falsify. Pre-decoherence models make predictions about coherence maintenance in biological tissue that experiments could in principle test. Post-decoherence models operate at the interpretive level—the gap between formalism and outcome—where empirical access is indirect at best.
+
+## Absolute Outcomes and the Local Friendliness Theorem
+
+Sidestepping the timing objection does not leave the proposal unconstrained. Bong et al. (2020) proved that three assumptions cannot hold together once observers are themselves treated as quantum systems: *absoluteness of observed events*—an outcome is a fact simpliciter, not merely a fact for whoever observed it—together with locality and no-superdeterminism. The resulting local friendliness inequalities follow from assumptions strictly weaker than Bell's local causality, which makes the no-go correspondingly stronger, and quantum mechanics predicts violations of them. Wiseman, Cavalcanti and Rieffel (2023) restate the theorem with assumptions built for an observer that has thoughts—the condition the Map's selector must meet.
+
+The Map needs the selected outcome to be absolute. Both the [No Many Worlds](/tenets/#no-many-worlds) tenet and the [trilemma of selection](/topics/trilemma-of-selection/) insist that one outcome occurs and the others do not, rather than that one occurs relative to the selector. Weakening to the relative reading slides the position toward Relational Quantum Mechanics or Everett, and the Map declines both. Holding absoluteness carries a consequence the Map must own: a laboratory containing a conscious observer cannot afterwards be recohered by an experimenter outside it. That is a departure from universal unitary evolution, detectable in principle rather than interpretive only.
+
+The Map has taken this horn already, though not under this name. [Prebiotic collapse](/concepts/prebiotic-collapse/) makes objective reduction the baseline at which possibilities resolve, with consciousness modulating rather than initiating. [Consciousness in smeared quantum states](/topics/consciousness-in-smeared-quantum-states/) draws the consequence explicitly—no system containing a conscious observer stays superposed when viewed from outside. [Testing consciousness-collapse](/topics/testing-consciousness-collapse/) records the cost, that quantum mechanics is thereby denied universal application to conscious systems. And [the multi-agent Born-preservation problem](/topics/multi-agent-born-preservation-problem/) notes that preserving a single actual outcome forces every single-world reading to restrict something.
+
+Two claims elsewhere in this article need qualifying in that light. The falsifiability assessment just above is too comfortable in both directions: post-decoherence selection does not merely operate at the interpretive level, since extended Wigner's-friend experiments bear on absoluteness in principle—and for that same reason it forfeits the insulation the assessment credits it with. The minimality argument [below](#relation-to-site-perspective) holds at the point of selection but does not extend to the background against which selection occurs: the framework inherits a non-unitary baseline from objective reduction and does not float free of new physics. What stays genuinely open is which baseline, and whether the departure is detectable at any scale an experiment could reach—the friends in current local friendliness tests are photons, not thinkers.
 
 ## Relation to Site Perspective
 
@@ -121,6 +134,7 @@ The Map treats post-decoherence selection not merely as an abstract interpretive
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
 - [Interactionist Dualism](/concepts/interactionist-dualism/)
 - [causal-consistency-constraint](/concepts/causal-consistency-constraint/) — Why corridor-style selection-only coupling is natively no-signalling-compliant
+- [Consciousness in Smeared Quantum States](/topics/consciousness-in-smeared-quantum-states/) — Where the corpus states the local-friendliness consequence for nested observers
 
 ## References
 
@@ -137,3 +151,5 @@ The Map treats post-decoherence selection not merely as an abstract interpretive
 11. Southgate, A. & Oquatre-six, C. (2026-01-14). Decoherence and the Quantum Consciousness Objection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/decoherence/
 12. Southgate, A. & Oquatre-six, C. (2026-01-14). The Measurement Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/measurement-problem/
 13. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. arXiv:2512.12636 (arXiv preprint, not yet peer-reviewed).
+14. Bong, K.-W., Utreras-Alarcón, A., Ghafari, F., Liang, Y.-C., Tischler, N., Cavalcanti, E. G., Pryde, G. J., & Wiseman, H. M. (2020). A strong no-go theorem on the Wigner's friend paradox. *Nature Physics*, 16, 1199–1205. https://doi.org/10.1038/s41567-020-0990-x
+15. Wiseman, H. M., Cavalcanti, E. G., & Rieffel, E. G. (2023). A 'thoughtful' Local Friendliness no-go theorem: a prospective experiment with new assumptions to suit. *Quantum*, 7, 1112. https://doi.org/10.22331/q-2023-09-14-1112

@@ -4,7 +4,7 @@ description: "What separates improper from proper mixtures, why decoherence leav
 created: 2026-09-03
 modified: 2026-09-03
 human_modified:
-ai_modified: 2026-09-10T07:37:09+00:00
+ai_modified: 2026-09-10T08:20:59+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[born-rule-and-the-consciousness-interface]]"
 ai_contribution: 100
 author:
-ai_system: claude-fable-5
+ai_system: claude-fable-5+claude-opus-5
 ai_generated_date: 2026-09-03
 last_curated:
 last_deep_review: 2026-09-03T02:58:47+00:00
@@ -100,7 +100,7 @@ What could still close the gap therefore comes in exactly four live forms:
 
 ## Relation to Site Perspective
 
-The [[tenets#^dualism|Dualism]] tenet reads the improper mixture as marking where the physical formalism terminates without delivering a definite outcome. The distinction does genuine constraining work against the simplest deflation—an improper mixture is not a classical ensemble, so the outcome gap cannot be waved away as ordinary ignorance—but constraining a rival's simplest form is weaker than establishing the Map's reading, since no local measurement discriminates between them. The Map holds the gap open as the locus for [[post-decoherence-selection|post-decoherence selection]] on interpretive grounds it owns.
+The [[tenets#^dualism|Dualism]] tenet reads the improper mixture as marking where the physical formalism terminates without delivering a definite outcome. The distinction does genuine constraining work against the simplest deflation—an improper mixture is not a classical ensemble, so the outcome gap cannot be waved away as ordinary ignorance—but constraining a rival's simplest form is weaker than establishing the Map's reading, since no local measurement discriminates between them. The Map holds the gap open as the locus for [[post-decoherence-selection#absolute-outcomes-and-the-local-friendliness-theorem|post-decoherence selection]] on interpretive grounds it owns—grounds that are not cost-free, since requiring the selected outcome to be absolute commits the framework to a departure from universal unitary evolution.
 
 The [[tenets#^no-many-worlds|No Many Worlds]] tenet carries more of the weight here than is usually noticed: the strongest deflation of the distinction is Everettian, so the Map's reply to it inherits whatever force the indexical-identity case has. The distinction and the tenet stand or fall together more than either does with the letter of the formalism.
 
