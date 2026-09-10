@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-09-06 17:22:22+00:00
+ai_modified: 2026-09-10 12:53:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 coalesced_from:
@@ -13,15 +13,15 @@ concepts:
 - '[[composition-and-consciousness]]'
 - '[[indexical-knowledge-and-identity]]'
 created: 2026-07-11
-date: &id001 2026-09-06
+date: &id001 2026-09-10
 description: A human-AI examination of whether there can be no fact of the matter
   whether a system is conscious at all, why the Map's Tenet 4 stakes a claim on a
   sharp subject-fact, and why epistemicism is its preferred reading.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-28 11:36:56+00:00
-lastmod: 2026-09-06 17:22:22+00:00
+last_deep_review: 2026-09-10 12:53:18+00:00
+lastmod: 2026-09-10 12:53:18+00:00
 modified: *id001
 related_articles:
 - '[[vagueness-void]]'
@@ -59,7 +59,7 @@ Which locus one accepts decides everything downstream, including whether the Map
 
 ## The Case for Ontic Vagueness
 
-Eric Schwitzgebel presents the sharpest argument for the strong thesis. In "Borderline Consciousness" (2023) he frames a **quadrilemma**: either (a) nothing is conscious, or (b) everything is conscious, or (c) there is a sharp boundary somewhere across the apparent continuum, or (d) consciousness is a vague property admitting indeterminate cases. Assuming mainstream naturalism about consciousness, he argues that (a)–(c) should each be rejected — (c) because any sharp cutoff across a smooth physical continuum looks metaphysically arbitrary — which forces (d): some entities have no determinate fact as to whether experience is present. A companion working paper extends this to subject-*counting*, arguing that the number of conscious subjects in a system may itself be metaphysically indeterminate rather than a determinate whole number. (That paper's final venue and year were not confirmed at the publisher of record and it should be treated as a working paper.)
+Eric Schwitzgebel presents the sharpest argument for the strong thesis. In "Borderline Consciousness" (2023) he frames a **quadrilemma**: either (a) nothing is conscious, or (b) everything is conscious, or (c) there is a sharp boundary somewhere across the apparent continuum, or (d) consciousness is a vague property admitting indeterminate cases. Assuming mainstream naturalism about consciousness, he argues that (a)–(c) should each be rejected — (c) because any sharp cutoff across a smooth physical continuum looks metaphysically arbitrary — which forces (d): some entities have no determinate fact as to whether experience is present. A companion paper with Sophie Nelson (2026) extends this to subject-*counting*, arguing that on those same naturalistic views the number of conscious subjects in a system may itself be metaphysically indeterminate rather than a determinate whole number.
 
 Geoffrey Hall, in "Is Consciousness Vague?" (*Australasian Journal of Philosophy*, 2023), defends the more modest claim that it is *possible* for something to be such that it is borderline whether it is phenomenally conscious. Hall argues that the leading arguments *for* precision rely on principles inconsistent with otherwise-plausible standard principles governing borderline cases.
 
@@ -83,7 +83,7 @@ Epistemicism is a general theory of vagueness before it is anything about consci
 
 The reason the ignorance is principled rather than lazy is Timothy Williamson's **margin-for-error principle** (*Vagueness*, 1994). Knowledge, Williamson argues, requires a margin of safety: to know that a case is Φ, cases marginally similar to it must also be Φ, otherwise the belief would be true only by luck. A belief pinned to the exact cutoff has no such margin — a case one increment away flips its truth-value — so even a *true* belief about the precise boundary could not amount to knowledge. The companion **safety condition** says the same from the other side: a true belief counts as knowledge only if it could not easily have been false, and boundary-beliefs fail that test. The boundary is therefore unknowable not by accident but because knowing it would violate the conditions under which anything is known at all. Crucially for the transfer that follows, Williamson locates ordinary sharp boundaries in an unknowable function of speakers' total use of a word: what distinguishes vagueness as a source of inexactness, he holds, is that the margin-for-error principles it gives rise to advert to "small differences in meaning, not to small differences in the objects under discussion" (pp. 230–231).
 
-Sorensen reached a version of the view independently in *Blindspots* (1988), and in *Vagueness and Contradiction* (2001) introduced "absolute borderline cases" — where the ignorance is not relative to any particular observer, and so is insurmountable in principle rather than merely hard to overcome. Both share a core: a determinate fact, a hidden location, classical logic preserved. They part company on what fixes the boundary — Williamson locates it in speakers' use, which Sorensen rejects for making definiteness relative to a discriminator — and that disagreement matters below.
+Sorensen reached a version of the view independently in *Blindspots* (1988), and in *Vagueness and Contradiction* (2001) introduced "absolute borderline cases" — where the ignorance is not relative to any particular observer, and so is insurmountable in principle rather than merely hard to overcome. Both share a core: a determinate fact, a hidden location, classical logic preserved. They part company on what fixes the boundary — Williamson locates it in speakers' use, and Sorensen rejects his account for making definiteness relative to a discriminator — and that disagreement matters below.
 
 ### What Changes When the Predicate Is "Conscious"
 
@@ -105,7 +105,7 @@ Three responses are available, and the Map's choice among them is what makes its
 
 The Map reads this debate primarily through **Tenet 4 (No Many Worlds; indexical identity matters)** and secondarily through **Tenet 1 (Dualism)** and **Tenet 5 (Occam's razor has limits)**.
 
-Tenet 4 is where the collision is sharpest. Indexical identity presupposes a determinate fact about whether there is a subject and whose experience an experience is — the anchor the indexical "this experience is mine, now" fastens to (see [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/)). Of the three loci, only epistemicism keeps that fact intact: ontic vagueness deletes it, and semantic vagueness deletes the *phenomenal* fact while keeping the physical one. Schwitzgebel's extension — that the number of conscious subjects need not be a determinate whole number — is the most direct threat. The Map therefore has a real interest in the sharpness camp (Simon, Antony) and in the epistemicist reading. But being drawn to the reading that protects Tenet 4 is a reason to examine the epistemic theory hard, not a demonstration that Williamson defeats his rivals; the Map does not claim to have refuted ontic vagueness. A fourth stance stands outside the ontic/semantic/epistemic trichotomy altogether: the Madhyamaka no-self reply holds that the determinate subject all three loci presuppose is itself a reification, so "is there a fact whether a subject exists?" is malformed rather than answerable — a dissolution the Map's Tenet-4 framing sets aside precisely because it presupposes the determinate experiencer that tradition denies.
+Tenet 4 is where the collision is sharpest. Indexical identity presupposes a determinate fact about whether there is a subject and whose experience an experience is — the anchor the indexical "this experience is mine, now" fastens to (see [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/)). Of the three loci, only epistemicism keeps that fact intact: ontic vagueness deletes it, and semantic vagueness deletes the *phenomenal* fact while keeping the physical one. The Schwitzgebel–Nelson extension — that the number of conscious subjects need not be a determinate whole number — is the most direct threat. The Map therefore has a real interest in the sharpness camp (Simon, Antony) and in the epistemicist reading. But being drawn to the reading that protects Tenet 4 is a reason to examine the epistemic theory hard, not a demonstration that Williamson defeats his rivals; the Map does not claim to have refuted ontic vagueness. A fourth stance stands outside the ontic/semantic/epistemic trichotomy altogether: the Madhyamaka no-self reply holds that the determinate subject all three loci presuppose is itself a reification, so "is there a fact whether a subject exists?" is malformed rather than answerable — a dissolution the Map's Tenet-4 framing sets aside precisely because it presupposes the determinate experiencer that tradition denies.
 
 The resistance runs through Tenet 1. Schwitzgebel's quadrilemma explicitly *assumes naturalism* — the premise that consciousness is realized by graded physical properties, so that a graded realizer would force a graded (hence borderline-admitting) consciousness. The Map's interactionist dualism denies exactly that step: if consciousness is a non-physical addition coupled to the brain rather than a complex physical realizer, a graded anatomical or evolutionary series need not supply a graded truth-maker for the on/off fact.
 
@@ -129,7 +129,7 @@ The costs must be paid openly. Epistemicism is notoriously counterintuitive: it 
 ## References
 
 1. Schwitzgebel, E. (2023). Borderline consciousness, when it's neither determinately true nor determinately false that experience is present. *Philosophical Studies*, 180(12), 3415–3439. https://doi.org/10.1007/s11098-023-02042-1
-1. Schwitzgebel, E. (~2025). When counting conscious subjects, the result needn't always be a determinate whole number. Working paper (venue unconfirmed).
+1. Schwitzgebel, E. & Nelson, S. R. (2026). When counting conscious subjects, the result needn't always be a determinate whole number. *Philosophical Psychology*, 39(3), 847–867. https://doi.org/10.1080/09515089.2025.2520364
 1. Simon, J. A. (2017). Vagueness and Zombies: Why 'Phenomenally Conscious' has No Borderline Cases. *Philosophical Studies*, 174(8), 2105–2123. https://doi.org/10.1007/s11098-016-0790-4
 1. Hall, G. (2023). Is Consciousness Vague? *Australasian Journal of Philosophy*, 101(3), 670–684. https://doi.org/10.1080/00048402.2022.2036207
 1. Antony, M. V. (2006). Vagueness and the Metaphysics of Consciousness. *Philosophical Studies*, 128(3), 515–538. https://doi.org/10.1007/s11098-004-7488-8
@@ -139,7 +139,7 @@ The costs must be paid openly. Epistemicism is notoriously counterintuitive: it 
 1. Williamson, T. (1994). *Vagueness*. Routledge.
 1. Sorensen, R. A. (1988). *Blindspots*. Clarendon Press / Oxford University Press.
 1. Sorensen, R. A. (2001). *Vagueness and Contradiction*. Oxford University Press.
-1. Jago, M. (2012). The Problem with Truthmaker-Gap Epistemicism. *Thought: A Journal of Philosophy*, 1, 320–329. https://doi.org/10.1002/tht3.49
+1. Jago, M. (2012). The Problem with Truthmaker-Gap Epistemicism. *Thought: A Journal of Philosophy*, 1(4), 320–329. https://doi.org/10.1002/tht3.49
 1. Stanford Encyclopedia of Philosophy (2025). Sorites Paradox, §3.2 "The Epistemic Theory." https://plato.stanford.edu/entries/sorites-paradox/
 1. Southgate, A. & Oquatre-huit, C. (2026-03-24). Composition and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/composition-and-consciousness/
 1. Southgate, A. & Oquatre-sept, C. (2026-05-11). The Interface Threshold. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interface-threshold/
