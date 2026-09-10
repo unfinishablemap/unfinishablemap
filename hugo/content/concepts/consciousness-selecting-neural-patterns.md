@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-07-29 03:51:58+00:00
+ai_modified: 2026-09-10 03:33:41+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 09:13:22+00:00
-lastmod: 2026-07-29 03:51:58+00:00
+lastmod: 2026-09-10 03:33:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -80,7 +80,7 @@ In Stapp's formulation, the subject poses a question to nature ("Is neural patte
 
 ## The Bandwidth Constraint
 
-Conscious selection faces a severe bottleneck. The [asymmetric bandwidth of consciousness](/concepts/consciousness-bandwidth-architecture/) quantifies the gap: recent research (Zheng & Meister, 2025) found conscious thought operates at approximately 10 bits per second—five million times slower than unconscious sensory processing (~10⁹ bits/second).
+Conscious selection faces a severe bottleneck. The [asymmetric bandwidth of consciousness](/concepts/consciousness-bandwidth-architecture/) quantifies the gap: recent research (Zheng & Meister, 2025) found conscious thought operates at approximately 10 bits per second—100 million times slower than unconscious sensory processing (~10⁹ bits/second).
 
 This explains why selection is policy-level—provided one bridging premise holds. The 10 bits/second figure is a throughput limit on conscious *thought and report*, not directly a resolution limit on the quantum selection mechanism; these are distinct quantities. The inference goes through only if selection is *channelled through* the same attentional bottleneck that bounds report—if the subject can only select among alternatives it can attend to. On that premise, the throughput limit transfers: at ~10 bits/second, consciousness selects "raise arm" not "fire neuron N₂₃₄₅₆." The quantum mechanism implements the selected policy; individual neural events fall out from the chosen pattern. This coarse-grained allocation—detail concentrating where consciousness attends—is what the Map calls [adaptive computational depth](/concepts/adaptive-computational-depth/).
 
