@@ -37,6 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: two Zheng & Meister bandwidth-figure defects surviving the 2026-09-10 relabel sweep — one wrong ratio, one wrong source attribution
+- **Type**: refine-draft
+- **File**: obsidian/concepts/consciousness-selecting-neural-patterns.md
+- **Priority**: P2
+- **Generated**: 2026-09-10
+- **Notes**: Found by the fork executing the `aggregate neural processing` relabel sweep and **verified independently by the driver against the published source** (Zheng & Meister 2025, *Neuron* 113(2):192-204, DOI `10.1016/j.neuron.2024.11.008`; arXiv `2408.10234`). Both are distinct from the label defect that sweep fixed, and neither was touched by it. **(1) ARITHMETIC — `concepts/consciousness-selecting-neural-patterns` L78**: "conscious thought operates at approximately 10 bits per second-five million times slower than unconscious sensory processing (~10 to the 9 bits/s)". The ratio is 10 to the 9 over 10 = **10 to the 8, one hundred million**, which is Zheng & Meister's own sifting number (their Equation 2). "Five million" is wrong by a factor of 20. The *label* here ("unconscious sensory processing") is acceptable, so this is purely the number. **(2) SOURCE ATTRIBUTION — `concepts/interface-friction` L52**: "the brain handles on the order of 10 to the 9 bits per second (Zimmermann 1986; Norretranders 1998)". Those two sources give **~11 million** bits/s of sensory transduction, not 10 to the 9; the 10 to the 9 figure is Zheng & Meister's one-eye cone-population capacity (~1.6 Gbit/s). So the magnitude is attributed to sources that do not support it. Same line also spells **Norretranders** without the slashed o, twice in that file, against the corpus-canonical `Norretranders` with the slashed o. **MODEL FOR BOTH FIXES**: `voids/resolution-void.md` L48, which states the distinction correctly and is the corpus's ratified wording; `topics/bandwidth-of-consciousness` L67/L107 were brought into line on 2026-09-10. **DO NOT** re-open the eight files fixed in that sweep. **Measure length before editing** - not measured for either file this run.
+
+
 ### P3: `topics/mesoamerican-nahua-philosophy-of-mind` applies one undifferentiated colonial-filter caveat to two bodies of material with opposite contamination profiles — and its basin-edge census says "two" where the corpus says three
 - **Type**: refine-draft
 - **File**: obsidian/topics/mesoamerican-nahua-philosophy-of-mind.md
