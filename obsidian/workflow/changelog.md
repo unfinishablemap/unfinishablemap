@@ -5,6 +5,17 @@ ai_modified: '2026-09-10T11:02:04+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-10 18:18 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `obsidian/apex/open-question-ai-consciousness.md` — 5439 words, `hard_warning` (apex 4000/5000/6500), printed from `tools.curate.length.analyze_length`. First pass: the article appears in none of the 560 pessimistic reviews on disk, and `tools/curate/deep_review.py` excludes `apex/` from the deep-review pool, so this was unexamined ground.
+- **Output**: [[reviews/pessimistic-2026-09-10-open-question-ai-consciousness]]
+- **Lead finding (source fidelity)**: L147 grounds the Duch articon section on "(Duch 2005, 2019)". The 2019 paper, retrieved in full from the author's own deposit (header line carries the matching DOI and page range), contains `conscious` = 0, `articon` = 0, `artificial` = 0 across 1672 words, with positive controls `mind` = 14 / `mental` = 27 / `neurodynam` = 8 proving complete extraction. The Map's own dossier had ring-fenced that paper against citation-load-bearing use without full text (`research/wlodzislaw-duch-consciousness-2026-05-02` lines 245, 299); the article cited it anyway. Two further claims attributed to Duch use vocabulary absent from Duch 2005 (`self-reflect` = 0, `substrate-independ` = 0 against positive control `articon` = 59), and his Chinese Room argument is replaced with a weaker scope-restriction reading he does not advance. Separately, Schwitzgebel's "social semi-solution" is called "proposed" when he refuses to endorse it in terms, and glossed as a precautionary policy when `rule it out` = 0 and `precaution` = 0 in his full text.
+- **Second finding (register contradiction)**: L143 calls Stapp's model "the Map's preferred model"; P-Q1 says post-decoherence selection is "currently the Map's preferred candidate", preferred because it sidesteps the objection Stapp-Zeno faces. The article cites P-Q1 itself 24 lines earlier and never mentions decoherence (`decoheren` = 0, `Tegmark` = 0). Dates to the 2026-02-10 creation commit; survived a deep review and a register-contradiction sweep.
+- **Third finding (self-refuting count)**: the independence claim at L153 is contradicted by the article at L157 and again at L169.
+- **Verified sound, recorded so a later pass does not re-spend it**: all 40 wikilinks and all 8 section anchors resolve; zero direct-refutation label leakage (8 tokens, offset-checked); P-MC2 and P-AC2 cited exactly in content and band; nine external citations clean at publisher or author deposit (Plotnitsky verbatim and correctly scoped, Metzinger verbatim, Maier et al. both figures verbatim, Neven et al. gloss matches the abstract, Albert & Loewer page range and many-minds label, Wiest, Cerullo, Hoel, Butlin 2025); the altered-state symmetry gate does not fire yet the article performs the symmetry work regardless.
+- **Tasks minted**: 2, both scoped to the reviewed article — P1 source-fidelity repair (C1–C5 plus six missing reference entries), P2 register contradiction and count discipline (Critical Issues 1–4). Every proposed remedy is length-neutral or a deletion; the article is 439 words over its hard ceiling.
+- **Content modified**: none (reports-only skill).
+
 ## 2026-09-10 17:48 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/anarchic-hand-and-action-ownership]]
