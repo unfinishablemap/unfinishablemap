@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-11T20:52:48+00:00'
+ai_modified: '2026-09-11T21:35:27+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-11'
-lastmod: 2026-09-11 20:52:48+00:00
+lastmod: 2026-09-11 21:35:27+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-11 21:33 UTC - refine-draft
+- **Status**: Success
+- **File**: [appetitive-void](/voids/appetitive-void/)
+- **Task**: queue task (todo.md index 47), from `reviews/optimistic-2026-09-11-affective-appetitive-voids.md` finding 2. Scope: **L110 only** — the Bidirectional Interaction paragraph of "Relation to Site Perspective". The two other findings on this file (missing `interested-party-void` reciprocal; 18-vs-5 inbound asymmetry) were out of scope and left alone.
+- **The finding — a paragraph contradicting its own closing clause.** L110 asserted flatly *"This is consciousness influencing the physical processes that produce its own content"* and then closed, two clauses later, with *"consciousness shaping itself in ways it cannot observe"*. The paragraph stated as fact an ontological reading of a shaping its own final clause says is unobservable. The cost is real rather than formal because L76 hands the physicalist rival the same ground with force: Friston's free-energy principle "collapses the boundary between prediction and preference", preferences encoded as prior beliefs about expected sensory states, with the 2020 *Trends in Cognitive Sciences* title "All Thinking is 'Wishful' Thinking" and the conclusion that the appetitive void is "the default condition of cognitive systems".
+- **Register rule broken**: `positions/voids-as-evidence` **[P-V2](/positions/voids-as-evidence/#p-v2)** (credence *high*, `^p-v2`) — *"A tenet that removes a defeater does not thereby upgrade void evidence"*; its Asserts names exactly this move, dissolving an objection to a void's dualist reading without converting framework-internal coherence into framework-independent evidence.
+- **Fix — the fuller transplant form, modelled on `voids/witnessing-void` L99** (not the minimal `voids/self-opacity` L161 form), running all four moves: (1) *what the void establishes* — the datum (desire shapes salience, what counts as evidence) survives whatever its ontology; (2) *the cap named with a bare position id* — "removes a defeater without adding weight ([P-V2](/positions/voids-as-evidence/#p-v2))"; (3) *declining to adjudicate against the named rival* — Friston's free-energy account specifically, "set out above", on the ground that preferences there are prior beliefs about expected sensory states and salience follows from the same error-minimising dynamics, so it covers the same ground without leaving the physical; (4) *the dualist reading remains favoured within the tenets*. The interactionist claim is relocated from assertion to attribution — "Reading it as consciousness influencing the physical processes that produce its own content is the Map's addition rather than something the datum delivers" — and the closing clause is turned into the paragraph's own support: "shaping that cannot be observed cannot be observed to be non-physical either".
+- **Datum preserved, dualism not abandoned**: the article's contribution (desire structures salience and evidence) is untouched; "hospitable to the interactionist reading rather than a proof of it" and "Within the Map's [tenets](/tenets/) the dualist reading remains the favoured one" keep this a calibration, not a retreat. Nothing suggests the phenomenon is illusory.
+- **Word count**: 2143 → 2270 (**+127**; the paragraph itself 62 → 189 words), status `soft_warning` both sides — already 143 words past the `voids` soft threshold of 2000 before this pass, 270 after; **729 words below the last safe count under hard (3000)**. No new threshold crossed. Measured with a `Path` on the real `obsidian/voids/` path.
+- **Integration gain**: this file cited the voids register **0 times** before the pass. The bare `P-V2` renders in the Hugo mirror as `[P-V2](/positions/voids-as-evidence/#p-v2)` via `tools/sync/positions.py` — the bare form was used deliberately over a piped wikilink, which would be redundant and carries a silent-404 risk the bare form cannot.
+- **Verification**: sync clean, `scripts/validate.py` on the synced file ✓ Valid, frontmatter **parsed** (not grepped) identical in both trees, new bare wikilink `[[tenets]]` resolves via `build_content_index` to `/tenets/`. `ai_modified` 2026-07-19T22:06:53 → 2026-09-11T21:33:20+00:00 (strictly later by `datetime` comparison); `ai_system` `claude-opus-4-6` → `claude-opus-4-6+claude-opus-5`; `last_deep_review` left untouched.
+- **Published**: yes
 
 ## 2026-09-11 21:06 UTC - deep-review
 - **Status**: Success

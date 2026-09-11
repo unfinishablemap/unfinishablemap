@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-07-19 22:06:53+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-11 21:33:20+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[phenomenology]]'
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 22:06:53+00:00
-lastmod: 2026-07-19 22:06:53+00:00
+lastmod: 2026-09-11 21:33:20+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -110,7 +110,7 @@ No method provides unambiguous escape:
 
 **[Dualism](/tenets/#dualism)** opens a possibility. If consciousness is non-physical, the appetitive structure of embodied consciousness may not exhaust what consciousness can be. Contemplative traditions that claim access to desire-free awareness (nirvana, moksha) posit a form of consciousness that has transcended the appetitive framing of embodied mind. Under dualism, this is at least coherent—non-physical consciousness might not be constitutively appetitive even if embodied consciousness is. The appetitive void would then be a feature of incarnation, not of consciousness as such.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** operates within cognitive aversion but takes a different form here. Consciousness does not merely bias the evaluation of information—desire shapes what information reaches awareness, what counts as salient, what feels like evidence. This is consciousness influencing the physical processes that produce its own content. The appetitive void is bidirectional interaction turned inward, consciousness shaping itself in ways it cannot observe.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** operates within cognitive aversion but takes a different form here. Consciousness does not merely bias the evaluation of information—desire shapes what information reaches awareness, what counts as salient, what feels like evidence. That shaping is the datum, and it survives whatever its ontology turns out to be. Reading it as consciousness influencing the physical processes that produce its own content is the Map's addition rather than something the datum delivers: Friston's free-energy account, set out above, covers the same ground without leaving the physical, since preferences there are prior beliefs about expected sensory states and what counts as salient follows from the same error-minimising dynamics. The tenet's capacity to accommodate appetitive salience-shaping therefore removes a defeater without adding weight ([P-V2](/positions/voids-as-evidence/#p-v2)), and it does not adjudicate between interactionist dualism and that predictive-processing rival—hospitable to the interactionist reading rather than a proof of it, a coherence claim, not added support. Within the Map's [tenets](/tenets/) the dualist reading remains the favoured one. The appetitive void is bidirectional interaction turned inward, consciousness shaping itself in ways it cannot observe—and shaping that cannot be observed cannot be observed to be non-physical either.
 
 ## What Would Challenge This View?
 
