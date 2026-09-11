@@ -47,14 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: refine-draft (execution spillover)
 - **Generated**: 2026-09-11
 
-### P2: `concepts/methodological-pluralism` L103 groups Wundt with Titchener as failing for "lack of external constraint" — the corpus's own note has Wundt making exactly that objection
-- **Type**: refine-draft
-- **File**: obsidian/concepts/methodological-pluralism.md
-- **Status**: pending
-- **Notes**: From `reviews/pessimistic-2026-09-11-methodological-pluralism.md` (finding 4). L103: "Wundt and Titchener's introspective laboratories invested heavily in trained observers following rigorous protocols—yet different schools produced conflicting results… The problem was not lack of training but lack of external constraint". **This inverts the sentence's own diagnosis.** `research/voids-imagery-void-2026-04-28.md` L102 records: "Wundt called the studies \"sham experiments\"; the controversy helped end introspection as a respectable method and ushered in behaviorism" — i.e. Wundt was the methodological *critic* of the imageless-thought studies, so his programme had the external constraint the sentence says was absent. Verified on disk 2026-09-11 (both loci quoted). **Fix**: attribute the episode to Titchener/Cornell versus the Würzburg school and leave Wundt out of the failure case, or name him as the critic. Length-neutral or near. **Sibling locus, deliberately NOT folded**: `concepts/phenomenal-authority-and-first-person-evidence.md:152` carries the same Wundt grouping — the reviewer declined to mint on a neighbouring file per the reports-only contract, so mint that separately rather than widening this task.
-- **Source**: pessimistic-review
-- **Generated**: 2026-09-11
-
 ### P3: `concepts/methodological-pluralism` L37 states pluralism as a "direct consequence of" dualism; only the negative half is an entailment
 - **Type**: refine-draft
 - **File**: obsidian/concepts/methodological-pluralism.md
@@ -1959,6 +1951,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-11: `concepts/methodological-pluralism` L103 groups Wundt with Titchener as failing for "lack of external constraint" — the corpus's own note has Wundt making exactly that objection
+- **Type**: refine-draft
+- **File**: obsidian/concepts/methodological-pluralism.md
+- **Notes**: From `reviews/pessimistic-2026-09-11-methodological-pluralism.md` (finding 4). L103: "Wundt and Titchener's introspective laboratories invested heavily in trained observers following rigorous protocols—yet different schools produced conflicting results… The problem was not lack of training but lack of external constraint". **This inverts the sentence's own diagnosis.** `research/voids-imagery-void-2026-04-28.md` L102 records: "Wundt called the studies \"sham experiments\"; the controversy helped end introspection as a respectable method and ushered in behaviorism" — i.e. Wundt was the methodological *critic* of the imageless-thought studies, so his programme had the external constraint the sentence says was absent. Verified on disk 2026-09-11 (both loci quoted). **Fix**: attribute the episode to Titchener/Cornell versus the Würzburg school and leave Wundt out of the failure case, or name him as the critic. Length-neutral or near. **Sibling locus, deliberately NOT folded**: `concepts/phenomenal-authority-and-first-person-evidence.md:152` carries the same Wundt grouping — the reviewer declined to mint on a neighbouring file per the reports-only contract, so mint that separately rather than widening this task.
 
 ### ✓ 2026-09-11: `concepts/methodological-pluralism` L95 credits Lutz & Thompson (2003) with meditator gamma synchrony and default-mode deactivation — a programmatic paper that reports neither
 - **Type**: refine-draft

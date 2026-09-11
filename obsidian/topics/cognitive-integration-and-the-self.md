@@ -4,7 +4,7 @@ description: "How consciousness binds information across time and modality to co
 created: 2026-02-11
 modified: 2026-03-06
 human_modified:
-ai_modified: 2026-09-11T00:20:47+00:00
+ai_modified: 2026-09-11T18:39:27+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-sonnet-4-5-20250929+claude-opus-5
 ai_generated_date: 2026-02-11
 last_curated:
-last_deep_review: 2026-06-25T19:51:37+00:00
+last_deep_review: 2026-09-11T18:39:27+00:00
 ---
 
 The self is not a static object but an ongoing achievement. Each moment, consciousness integrates information from multiple sensory modalities, recent memories, current perceptions, and anticipated futures into a unified experience of being someone. This integration—the "glue" that holds the self together—raises questions about what makes experience mine, why it persists across disruptions, and whether integration itself is a physical or phenomenal process.
@@ -186,7 +186,7 @@ On that conditional the self would be *agentive* across time rather than a passi
 
 The [[tenets#^no-many-worlds|No Many Worlds tenet]] rejects the many-worlds interpretation of quantum mechanics. For cognitive integration the live objection is indexical. The integrative version—that branching fragments the unified self—fails: branches decohere rather than interfere, so a branch-relative Everettian can grant this article's whole account of binding and continuity, indexed to a branch.
 
-What such a reading cannot supply is the ownership fact. On *branch-egalitarian* versions, where all branches are equally real and equally "you," nothing settles why *this* one is the one lived. That is a clash of foundational commitments—many-worlds denies there is a further fact here rather than failing to accommodate one—and is honestly noted as such, not a refutation of many-worlds on its own terms. The reach also varies by variant (P-I5): against first-personally centred readings such as List's, which build the privileged present into the ontology, the indexical objection still engages but drops to supplementary, and the case there rests on a separate rejection of modal realism.
+What such a reading cannot supply is the ownership fact. On *branch-egalitarian* versions, where all branches are equally real and equally "you," nothing settles why *this* one is the one lived. That is a clash of foundational commitments—many-worlds denies there is a further fact here rather than failing to accommodate one—and is honestly noted as such, not a refutation of many-worlds on its own terms. The reach also varies by variant (P-I5): against first-personally centred readings such as List's, which build first-person privilege into the ontology, the indexical objection still engages but drops to supplementary, and the case there rests on a separate rejection of modal realism.
 
 Rejecting many-worlds keeps the question well-formed: one actual history, one perspective occupying it. The felt continuity connecting past, present, and future is what an account of the subject must explain rather than evidence for this account of it—every branch-relative successor feels the same continuity, so treating the feeling as confirmation reads felt weight as evidential weight.
 
@@ -224,9 +224,9 @@ Crick, F. & Koch, C. (1990). Towards a neurobiological theory of consciousness. 
 
 Gallagher, S. (2000). Philosophical conceptions of the self: Implications for cognitive science. *Trends in Cognitive Sciences*, 4(1), 14-21.
 
-Gazzaniga, M. S. (2005). Forty-five years of split-brain research and still going strong. *Nature Reviews Neuroscience*, 6(8), 653-659.
-
 Gallagher, S. & Zahavi, D. (2012). *The Phenomenological Mind*. 2nd ed. Routledge.
+
+Gazzaniga, M. S. (2005). Forty-five years of split-brain research and still going strong. *Nature Reviews Neuroscience*, 6(8), 653-659.
 
 Rasch, B. & Born, J. (2013). About sleep's role in memory. *Physiological Reviews*, 93(2), 681-766.
 
