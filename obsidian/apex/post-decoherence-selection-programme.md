@@ -3,7 +3,7 @@ title: "The Post-Decoherence Selection Programme"
 created: 2026-03-29
 modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-09-03T01:59:02+00:00
+ai_modified: 2026-09-11T06:34:17+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ related_articles:
 
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-03-29
 last_curated: null
 last_deep_review: 2026-07-18T21:02:00+00:00
@@ -98,11 +98,11 @@ Zurek himself leans toward an Everettian reading where all pointer states are re
 
 ## The Structure: Contextuality's Constraint [Empirical]
 
-A naive picture of conscious selection treats quantum outcomes like items on a shelf—consciousness reaches in and picks one. The Kochen-Specker theorem (1967) rules this out. No assignment of definite values to all quantum observables can be both consistent and context-independent. What result obtains for a given observable depends on which other observables are measured alongside it. The Peres-Mermin square sharpens the point to nine observables on a four-dimensional system: no consistent value assignment exists no matter how cleverly one is constructed. Contextuality is not an experimental limitation that better technique might remove; it follows from the non-commutativity of the observable algebra itself.
+A naive picture of conscious selection treats quantum outcomes like items on a shelf—consciousness reaches in and picks one. The Kochen-Specker theorem (1967) rules this out. No assignment of definite values to all quantum observables can be both consistent and context-independent. What result obtains for a given observable depends on which other observables are measured alongside it. The Peres-Mermin square sharpens the point to nine observables on a four-dimensional system: no consistent value assignment exists no matter how cleverly one is constructed. Contextuality is not an experimental limitation that better technique might remove; it follows from how contexts of commuting observables overlap.
 
 For the post-decoherence selection programme, [[contextual-selection-in-quantum-foundations|contextuality]] adds a structural requirement: whatever selects the outcome must be sensitive to the full measurement context, not just the target observable in isolation. In a neural system, this means the brain's full physical configuration—which ion channels are open, which synaptic vesicles are poised for release, which competing neural populations are active—determines not just which pointer states exist but how they relate to one another.
 
-This gives consciousness a richer role than simple outcome-picking. Spekkens (2005) generalised contextuality beyond measurement to *preparation* and *transformation* contextuality—operationally equivalent preparations can yield different statistics depending on the procedure that produced them. This bears directly on the programme's most ambitious move. If attention shapes the measurement context (as Stapp's framework suggests), then consciousness participates in determining what questions the brain's quantum dynamics poses, not merely which answers it selects. And if conscious effort influences how neural quantum states are *prepared or maintained*, that preparation is itself context-dependent—adding a second register in which mind and quantum dynamics interpenetrate. The distinction matters: context-setting and outcome-selection are different causal roles, and contextuality shows they cannot be cleanly separated. The caution the source article insists on transfers to the programme: that consciousness has causal access to the measurement context is the Map's conjecture, not a consequence of the Kochen-Specker result, which mentions neither consciousness nor causation.
+This gives consciousness a richer role than simple outcome-picking. Spekkens (2005) generalised contextuality beyond measurement to *preparation* and *transformation* contextuality—operationally equivalent preparations, statistically identical, still require different ontic distributions—no noncontextual model suffices. This bears directly on the programme's most ambitious move. If attention shapes the measurement context (as Stapp's framework suggests), then consciousness participates in determining what questions the brain's quantum dynamics poses, not merely which answers it selects. And if conscious effort influences how neural quantum states are *prepared or maintained*, that preparation is itself context-dependent—adding a second register in which mind and quantum dynamics interpenetrate. The distinction matters: context-setting and outcome-selection are different causal roles, and contextuality shows they cannot be cleanly separated. The caution the source article insists on transfers to the programme: that consciousness has causal access to the measurement context is the Map's conjecture, not a consequence of the Kochen-Specker result, which mentions neither consciousness nor causation.
 
 One objection must be met head-on, because it is the contextuality strand's sharpest vulnerability. If decoherence destroys quantum coherence in warm neural tissue within femtoseconds, does contextuality not become irrelevant at biological scales? The answer requires separating two senses of "survive." *Formally*, the Kochen-Specker result governs the algebraic structure of observables regardless of whether the state is pure or mixed: no context-independent value assignment exists even for a decohered system, so the formal constraint shapes which pointer states the decoherence basis can offer. *Practically*, whether that formal fact has any operational consequence for consciousness-brain interaction—whether it names a live mechanism or merely an algebraic bookkeeping fact about the decohered mixture—is a question the programme acknowledges rather than resolves. This is the honest seam of the contextuality contribution: it constrains the *shape* any selection process must take, but its grip on biological-scale selection is asserted, not demonstrated.
 

@@ -4,6 +4,20 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-11T06:17:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-11 06:34 UTC - refine-draft
+- **Status**: Success
+- **File**: [[apex/post-decoherence-selection-programme]]
+- **Scope**: two-clause physics-definition correction, replacement only. Ten other open tasks target this file; none actioned (the L107 energy-ledger task is the batch's designated word-budget donor and stays untouched)
+- **Word count**: 4996 -> 4995 (-1); apex soft 4000 / hard 5000, so five words of hard headroom now stand where there were four. Measured both times with `tools.curate.length.analyze_length`
+- **Locus 1 (L105, P1 - Spekkens reversal)**: was *"operationally equivalent preparations can yield different statistics depending on the procedure that produced them"* -> now *"operationally equivalent preparations, statistically identical, cannot share an ontic distribution in any noncontextual model"*. The old clause was self-contradictory by definition: in Spekkens' framework two preparations are operationally equivalent *iff* they yield identical statistics for every measurement the operational theory allows, so they cannot "yield different statistics". Preparation contextuality is a property of the *ontological model* - it assigns different distributions over ontic states to operationally equivalent preparations - not a property of the data. The repair moves the claim from the statistics register to the model register. Word-neutral (14 -> 14)
+- **Locus 2 (L101, non-commutativity gloss)**: was *"it follows from the non-commutativity of the observable algebra itself"* -> now *"it follows from how contexts of commuting observables overlap"*. Kochen-Specker contexts are sets of *mutually commuting* (compatible) observables; the obstruction is the impossibility of gluing overlapping commuting sets into one global noncontextual value assignment. Non-commutativity is the background condition that makes distinct overlapping contexts exist at all, not the source of the obstruction. -1 word (10 -> 9)
+- **Adjudicated against the primary sources, not the sibling reviews**: Spekkens, arXiv:quant-ph/0406166 = *Phys. Rev. A* 71(5), 052108 (already at reference slot 14, metadata correct, untouched) and Kochen-Specker 1967 (slot 6). Tonight's three outer reviews disagree with each other on exactly this physics and the synthesis explicitly refused to cluster them as convergence. **The Claude Opus 5 leg is wrong**: its claim that "KS contextuality is a statement about non-commuting observables" inverts the definition - a KS context *is* a commuting set, and the theorem's content is the non-embeddability of the overlapping commuting sets into a single global value assignment. Gemini 2.5 Pro ("a specific set of mutually commuting observables (a maximal Boolean subalgebra)") and ChatGPT 5.6 Pro, which raised the finding, are both right. The corrected L101 follows them
+- **Preserved byte-identical**: L105's closing calibration sentence (*"that consciousness has causal access to the measurement context is the Map's conjecture, not a consequence of the Kochen-Specker result, which mentions neither consciousness nor causation"*), verified by md5 `cc320934673ed3b12fbc07d64796a818` before and after; and the 19-entry reference list at L191, verified by md5 `4f468e4a4d4e520d7321d70b0dd26c07` before and after, with nothing added, reordered or renumbered
+- **No explanatory prose added** - both edits are restatements at equal or lower word count, per the four-words-of-headroom constraint
+- **Frontmatter**: `ai_system` extended to `claude-opus-4-6+claude-opus-5` (a physics-definition correction is claim-bearing); `ai_modified` bumped from a live `date -u`; `last_deep_review` (2026-07-18) left alone
+- **Skill step 3 skipped**: `scripts/curate.py` does not exist, so the quality-review step of the refine-draft skill is dead code
+- **Published**: yes
+
 ## 2026-09-11 06:17 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/selection-only-channel]]
