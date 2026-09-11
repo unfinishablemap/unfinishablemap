@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-10
-ai_modified: 2026-09-10 14:49:27+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-09-11 11:22:51+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - '[[dualism]]'
@@ -15,8 +15,8 @@ description: Nahua thought made mind and matter guises of one power-in-motion, t
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-10 23:50:00+00:00
-lastmod: 2026-09-10 14:49:27+00:00
+last_deep_review: 2026-09-11 11:22:51+00:00
+lastmod: 2026-09-11 11:22:51+00:00
 modified: *id001
 related_articles:
 - '[[chinese-philosophy-of-mind]]'
@@ -54,7 +54,7 @@ Alongside this cosmology, Nahua thought developed a distinctive philosophy of th
 
 *Tonalli*, seated in the head and associated with the sun's heat, governed vigour, growth, temperament, and destiny (tied to one's birth day-sign). It was detachable: it could leave the body in sleep, in sexual excitement, or through fright—the fright-sickness *susto*, still named in Nahua-descended communities, was understood as tonalli loss. *Teyolia*, seated in the heart, carried memory, emotion, knowledge, and personhood; it was the force that survived death and travelled to the afterlife. *Ihiyotl*, seated in the liver and linked to breath, supplied passion, bravery, desire, and vital energy. Psychological and moral health, on this account, was the *harmony* of the three; illness and vice were their disharmony or loss.
 
-The philosophical interest here is that the self is plural and distributed—a system of seated forces rather than an indivisible res cogitans. This is a genuine contrast to the unified subject that Western debates about the [unity of consciousness](/topics/the-binding-problem/) tend to assume, and it is worth registering as a distinctive soul-psychology in its own right. It should not, however, be overstated: the tripartite model is an animistic, ethical, and medical framework, not an anticipation of any modern account of distributed neural function. Its value to the Map is thematic—another way a serious tradition has carved the person—not evidential about mechanism.
+The philosophical interest here is that the self is plural and distributed—a system of seated forces rather than an indivisible res cogitans. This is a genuine contrast to the unified subject that Western debates about the [unity of consciousness](/topics/the-binding-problem/) tend to assume, and it is worth registering as a distinctive soul-psychology in its own right. It should not, however, be overstated: the tripartite model is an animistic, ethical, and medical framework, not an anticipation of any modern account of distributed neural function. Its value to the Map is thematic—another way a serious tradition has carved the person—not evidential about mechanism. It is also the stretch of the record most exposed to the colonial filter, for reasons given in [Reconstruction Across a Colonial Filter](#reconstruction-across-a-colonial-filter) below, and so carries a heavier discount than the teotl material.
 
 ## Reconstruction Across a Colonial Filter
 
@@ -64,7 +64,7 @@ That caution is not uniform, however: the two bodies of material above carry con
 
 The degree of systematization is itself contested. León-Portilla and Maffie read the Nahua *tlamatinime* ("knowers of things") as genuine philosophers with a refined metaphysics comparable to the ancient Greeks; more cautious reviewers warn against imposing a single coherent "system" on fragmentary, mediated evidence. Interpreters also diverge internally: León-Portilla's earlier reading leans toward an evanescent, arguably idealist picture in which earthly things are dream-like and "flower and song" (*in xochitl in cuicatl*) is the only earthly truth, whereas Maffie defends a robustly immanent monism in which earthly things fully *are* teotl. The Map takes teotl-monism as the influential contemporary reconstruction, not as a settled fact about pre-Columbian belief.
 
-## The Second Basin Edge
+## The Second Organicist Basin Edge
 
 Set the Nahua tradition beside the others the convergence argument surveys, and it occupies the same structural position as the Chinese case. Both are deep, sustained traditions—developed by generations of specialists working from disciplined reflection on human experience—and both never draw a mind-matter distinction, so neither tends toward the recognition that experience resists physical capture. By the convergence argument's own independent criteria for "depth," Nahua thought qualifies; it nonetheless does not reach irreducibility. That is why the Map treats it as a **basin edge**: a tradition that inquires deeply yet flows away from, rather than toward, the irreducibility "attractor."
 
