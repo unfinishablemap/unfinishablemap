@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-09-11 06:34:17+00:00
+ai_modified: 2026-09-11 07:20:13+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 apex_last_synthesis: 2026-07-18 21:02:00+00:00
 apex_sources:
@@ -42,7 +42,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 21:02:00+00:00
-lastmod: 2026-09-11 06:34:17+00:00
+lastmod: 2026-09-11 07:20:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -72,7 +72,7 @@ The strongest empirical objection to quantum consciousness theories is the [timi
 <p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
 </details>
 
-## The Gap That Physics Cannot Close [Empirical]
+## The Gap Decoherence Leaves [Open]
 
 Decoherence is one of the great achievements of modern physics. It explains why macroscopic objects appear classical: environmental interactions rapidly suppress quantum interference, selecting a preferred basis of robust pointer states and destroying the fragile superpositions that make quantum mechanics strange. After decoherence, a neural system exists in a mixture of classically distinguishable states—this firing pattern or that one—with interference between them suppressed below any detectable threshold.
 

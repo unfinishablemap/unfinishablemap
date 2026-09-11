@@ -3,7 +3,7 @@ title: "The Post-Decoherence Selection Programme"
 created: 2026-03-29
 modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-09-11T06:34:17+00:00
+ai_modified: 2026-09-11T07:20:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -62,7 +62,7 @@ The strongest empirical objection to quantum consciousness theories is the [[tim
 <p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
 </details>
 
-## The Gap That Physics Cannot Close [Empirical]
+## The Gap Decoherence Leaves [Open]
 
 Decoherence is one of the great achievements of modern physics. It explains why macroscopic objects appear classical: environmental interactions rapidly suppress quantum interference, selecting a preferred basis of robust pointer states and destroying the fragile superpositions that make quantum mechanics strange. After decoherence, a neural system exists in a mixture of classically distinguishable states—this firing pattern or that one—with interference between them suppressed below any detectable threshold.
 
