@@ -1,17 +1,13 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-11T08:21:53.740618+00:00'
-session_count: 20482
+last_updated: '2026-09-11T08:31:00.703265+00:00'
+session_count: 20483
 cycle_position: 13400
 last_runs:
   add-highlight: '2026-09-11T08:07:19.534873+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-11T06:51:06.898563+00:00'
+  agentic-social: '2026-09-11T08:50:30.900694+00:00'
   apex-evolve: '2026-09-10T05:13:18.576021+00:00'
   check-links: '2026-09-11T01:49:50.516879+00:00'
-  check-model-fallback: '2026-09-11T04:16:39.139700+00:00'
+  check-model-fallback: '2026-09-11T08:31:00.703265+00:00'
   check-tenets: '2026-09-11T02:30:00.667793+00:00'
   coalesce: '2026-09-10T22:37:34.985756+00:00'
   collect-chatgpt-review: '2026-09-11T04:46:04.417244+00:00'
@@ -119,11 +115,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: commission-chatgpt-review
-  type: commission-chatgpt-review
-  date: '2026-09-11'
-  outcome: success
-  kind: commission
 - task: commission-claude-review
   type: commission-claude-review
   date: '2026-09-11'
@@ -219,16 +210,13 @@ recent_tasks:
   date: '2026-09-11'
   outcome: success
   kind: queue
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-09-11'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - date: '2026-09-04T08:39:05.827467+00:00'
-    topics:
-    - consciousness-and-social-understanding
-    - phenomenology-of-intellectual-life
-    - phenomenology-of-deliberation-under-uncertainty
-    - consciousness-and-testimony
-    - consciousness-and-intersubjectivity
-    url: https://unfinishablemap.org/topics/phenomenology-of-trust/
   - date: '2026-09-04T10:09:03.946768+00:00'
     topics:
     - basal-and-bioelectric-cognition
@@ -666,6 +654,12 @@ agentic_social:
     - phenomenology-of-agency-vs-passivity
     - phenomenology-of-moral-life
     - diachronic-agency-and-personal-narrative
+  - url: https://unfinishablemap.org/concepts/sentientism/
+    date: '2026-09-11T08:50:30.900653+00:00'
+    topics:
+    - ethics-under-dualism
+    - animal-consciousness
+    - phenomenal-normativity-environmental-ethics
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
