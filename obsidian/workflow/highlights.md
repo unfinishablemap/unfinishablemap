@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 A brief chemical pulse reset planarian flatworms' bioelectric circuit. Some regenerated two-headed — and kept doing so in later cuts, with no further treatment. The new body plan sits in cell voltage; polarity-gene expression is unchanged. A memory nobody calls experience.
 
 **Type**: insight  
+**Tweet**: https://x.com/unfinishablemap/status/2098321557562994863  
 **Link**: [[basal-and-bioelectric-cognition]]
 
 ---
