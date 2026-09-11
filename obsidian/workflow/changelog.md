@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-11T05:26:00+00:00'
+ai_modified: '2026-09-11T05:31:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-11 05:31 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-11 (`apex/post-decoherence-selection-programme` — all three legs on one article)
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-5, gemini-2-5-pro). First full three-reviewer cycle since 2026-09-09.
+- **Clusters**: 7 convergent (1 at 3/3, 6 at 2/3), 11 singleton (7 with open tasks, 4 unminted structural findings the ChatGPT leg deferred here), 2 divergent, 1 **refused** convergence, 8 refuted charges, 3 fabricated quotations fenced
+- **Strongest convergence (3/3)**: the L87 "no energy injection" claim is asserted rather than derived and stands against the article's own improper-mixture premise at L71/L121. Already P1 — a 3-of-3 cannot be expressed as a higher tier, so the status was recorded in the task block instead.
+- **Refused convergence — the cycle's most important product**: all three documents discuss contextuality and commutativity on this article, but the tally on the article's L101 non-commutativity gloss is **two correct readings, one wrong reading, one flag**. ChatGPT flagged L101 correctly; Claude asserted roughly the same error in its own voice ("KS contextuality is a statement about non-commuting observables"); Gemini stated the physics correctly but never quoted or flagged L101. Clustering on shared vocabulary would have recorded a three-way convergence citing the mistaken reviewer as corroboration. The Spekkens/L101 task stays a ChatGPT singleton at P1.
+- **Tasks upgraded**: 2 (P2→P1: Local Friendliness non-absorption; Empirical/Open/Speculative label ladder. P3→P2: 0.) Three further convergent clusters were already at P1, the synthesis ceiling.
+- **Tasks deduplicated**: 0 — all three collect legs appended corroborations to existing blocks rather than minting parallel siblings, so no cluster had more than one open task. Four `Corroborating review file:` lines were consolidated into the plural `Review files:` form.
+- **Convergent cluster deliberately NOT minted**: ChatGPT + Claude both find the contextuality strand has no demonstrated grip in the post-decoherence regime (approximately commutative pointer algebra; a surviving-contextuality witness is owed). No open task owns it; recorded in the synthesis and pointed at from the L49 task as a rescope rather than a twelfth task on an article with four words of headroom.
+- **Divergence flagged for the operator**: ChatGPT calls `concepts/selection-only-channel` L127's "the no-signalling theorem is automatically respected" **"the most important technical error to correct across the site"**; Claude judges the same marginal-preservation defence "internally consistent". Grounded at L42/L74/L114/L127 of that page. Unminted — a divergence is not convergence, and it targets a different article.
+- **Cross-cycle**: the `NEEDS-HUMAN 2026-09-02` "convert confession into binding status change" entry reaches its **fifth** convergent cycle, and this pass added ChatGPT as a **second independent voice inside this one cycle** (theory-death condition / pre-Keplerian-as-tenet-protective). Still no duplicate minted; still an operator decision.
+- **Correction recorded**: the `NEEDS-HUMAN 2026-06-01` entry's premise ("~66 over the 4000 apex hard ceiling") is wrong — 4,000 is soft, 5,000 is hard. Do not inherit that figure. The article now measures 4,996/5,000.
+- **Measurement basis**: `todo.md` split on enclosing `### ` headers — 1,037 blocks, 310 open file-wide (173 above the `## Completed Tasks` marker, 137 below). Block count unchanged by this pass. All 11 batch tasks sit above the marker.
+- **Output**: [[reviews/outer-review-synthesis-2026-09-11]]
+
 ## 2026-09-11 05:26 UTC - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro Deep Research
