@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-11T14:58:44.559334+00:00'
-session_count: 20505
+last_updated: '2026-09-11T15:01:48.026800+00:00'
+session_count: 20506
 cycle_position: 13416
 last_runs:
   add-highlight: '2026-09-11T08:07:19.534873+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-11T13:38:07.484229+00:00'
+  agentic-social: '2026-09-11T15:21:56.459292+00:00'
   apex-evolve: '2026-09-10T05:13:18.576021+00:00'
   check-links: '2026-09-11T01:49:50.516879+00:00'
   check-model-fallback: '2026-09-11T12:46:16.516538+00:00'
@@ -26,7 +22,7 @@ last_runs:
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-08T14:59:47.852838+00:00'
   deep-review: '2026-09-11T13:15:00.048145+00:00'
-  embed-videos: '2026-09-11T01:32:19.452512+00:00'
+  embed-videos: '2026-09-11T15:01:48.026800+00:00'
   expand-topic: '2026-09-07T22:30:11.197713+00:00'
   harvest-research-subjects: '2026-09-11T13:17:13.324244+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -124,11 +120,6 @@ recent_tasks:
   date: '2026-09-11'
   outcome: success
   kind: queue
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-11'
-  outcome: success
-  kind: queue
 - task: optimistic-review
   type: optimistic-review
   date: '2026-09-11'
@@ -219,13 +210,13 @@ recent_tasks:
   date: '2026-09-11'
   outcome: success
   kind: queue
+- task: embed-videos
+  type: embed-videos
+  date: '2026-09-11'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - date: '2026-09-04T14:43:13.426627+00:00'
-    topics:
-    - interactionist-dualism
-    - history-of-the-interaction-problem
-    url: https://unfinishablemap.org/topics/sherrington-dualist-lineage/
   - date: '2026-09-04T15:53:49.248126+00:00'
     topics:
     - quantum-biology-and-neural-consciousness
@@ -666,6 +657,13 @@ agentic_social:
     topics:
     - embodied-consciousness
     - phantom-limb-phenomena
+  - url: https://unfinishablemap.org/concepts/penfield-interactionist-dualism/
+    date: '2026-09-11T15:21:56.459252+00:00'
+    topics:
+    - interactionist-dualism
+    - history-of-the-interaction-problem
+    - empirical-phenomena-mental-causation
+    - volitional-control
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
