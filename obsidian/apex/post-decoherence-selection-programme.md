@@ -3,7 +3,7 @@ title: "The Post-Decoherence Selection Programme"
 created: 2026-03-29
 modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-09-11T09:40:06+00:00
+ai_modified: 2026-09-11T09:50:59+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -72,7 +72,7 @@ The philosophical crux is the distinction between [[improper-vs-proper-mixtures|
 
 Every interpretation of quantum mechanics takes a stance on this gap (see [[comparing-quantum-consciousness-mechanisms|Comparing Quantum Consciousness Mechanisms]] for detailed evaluation). [[many-worlds|Many-worlds]] denies it exists: all outcomes occur. [[spontaneous-collapse-theories|Objective collapse theories]] (GRW, Penrose-Diósi) propose new physics. Hidden-variable theories make it illusory. The Map's proposal is that consciousness fills this gap—and that consciousness does so *after* decoherence has done its work.
 
-## The Menu: Quantum Darwinism's Contribution [Empirical]
+## The Menu: Quantum Darwinism's Contribution [Open]
 
 If consciousness selects, what constrains its choices? Zurek's quantum Darwinism provides a precise answer. Building on decoherence, Zurek shows that environmental monitoring does not merely select a preferred basis—it redundantly encodes information about pointer states across many independent environmental fragments. A photon scattered off an object carries information about its state; so do the next billion photons. Any observer sampling a small fraction of the environment can determine the system's state without disturbing it, because the information is massively redundant. This is how classical objectivity emerges: not as a primitive feature of reality but as a consequence of environmental amplification (Zurek 2009).
 
@@ -96,7 +96,7 @@ One alternative would dissolve the dilemma by relocating the Map's mental influe
 
 Zurek himself leans toward an Everettian reading where all pointer states are realised in separate branches. The Map rejects this: quantum Darwinism's core results—einselection, redundant encoding, the emergence of objectivity—are interpretation-neutral. They work equally well in collapse interpretations, hidden-variable theories, and consciousness-mediated frameworks. The physics can be separated from Zurek's interpretive inclinations.
 
-## The Structure: Contextuality's Constraint [Empirical]
+## The Structure: Contextuality's Constraint [Open]
 
 A naive picture of conscious selection treats quantum outcomes like items on a shelf—consciousness reaches in and picks one. The Kochen-Specker theorem (1967) rules this out. No assignment of definite values to all quantum observables can be both consistent and context-independent. What result obtains for a given observable depends on which other observables are measured alongside it. The Peres-Mermin square sharpens the point to nine observables on a four-dimensional system: no consistent value assignment exists no matter how cleverly one is constructed. Contextuality is not an experimental limitation that better technique might remove; it follows from how contexts of commuting observables overlap.
 
