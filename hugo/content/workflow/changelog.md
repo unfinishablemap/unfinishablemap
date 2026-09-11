@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-11 12:18 UTC - refine-draft
+- **Status**: Success
+- **File**: [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)
+- **Source**: outer review 2026-09-11 (ChatGPT 5.6 Sol Pro), `reviews/outer-review-2026-09-11-chatgpt-5-6-sol-pro.md`; queue task index 45
+- **Defect**: L131 presented Mainen & Sejnowski 1995 as an instance of stochastic resonance. The paper reports spike-timing reproducibility under fluctuating vs constant current injection — no subthreshold signal, no noise optimum, so no SR design. The misattribution lived entirely in the four-word connective `Neural systems exploit this:`, which subordinated the result to the SR claim.
+- **Changes**: single connective replaced, `Neural systems exploit this:` → `Relatedly, outside that paradigm:`. The result now reads as adjacent corroboration rather than an SR demonstration. Sentence body, citation, and reference #10 untouched.
+- **Length**: word-neutral by construction. `analyze_length` before = 4997 / apex 4000-5000-6500 / `soft_warning`; after = 4997 / `soft_warning`. Four variants measured with `count_words`; three were +0. Chose `Relatedly, outside that paradigm:` over the two other +0 options (`Outside the SR paradigm:`, `A related non-SR result:`) because `SR` occurs nowhere else in the file and both would have introduced an undefined abbreviation; `that paradigm` refers back to the `*Stochastic resonance*` clause opening the same sentence. The task note's proposed `A related result outside the SR paradigm:` is +3 and would have landed the file on exactly 5000, which `length.py:112` (`>= hard`) trips.
+- **Deliberately not done**: no in-paradigm SR citation added (Douglass et al. 1993, Priplata et al. 2003 live in the source article; the apex delegates its empirical apparatus via the body wikilink to `amplification-mechanisms-consciousness-physics`). The source article's trailing clause `, so fluctuation is not simply corrosive to neural signalling` is +9 and does not fit. L133 and L151 mention stochastic resonance as a *mechanism*, not as M&S's paradigm, and are not implicated.
+- **Published**: yes
+
 ## 2026-09-11 12:05 UTC - coalesce
 - **Status**: Success (ABANDON — reasoned decline, no merge performed; the steady-state correct outcome for this slot)
 - **Sources**: none

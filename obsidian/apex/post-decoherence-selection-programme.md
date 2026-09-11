@@ -3,7 +3,7 @@ title: "The Post-Decoherence Selection Programme"
 created: 2026-03-29
 modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-09-11T11:04:38+00:00
+ai_modified: 2026-09-11T12:18:08+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -128,7 +128,7 @@ Even granting that consciousness selects among post-decoherence outcomes, a scal
 
 [[amplification-mechanisms-consciousness-physics|Stochastic amplification]] provides the causal bridge through three convergent mechanisms.
 
-*Stochastic resonance* is the counterintuitive phenomenon where adding noise to a nonlinear system improves weak-signal detection. Neural systems exploit this: cortical neurons produce more reliable spike timing when driven by fluctuating inputs than by steady currents (Mainen & Sejnowski 1995). If consciousness provides a weak bias on quantum-indeterminate outcomes, thermal noise at the synaptic level can push that bias over detection thresholds—amplifying a quantum-scale effect to a molecular-scale signal.
+*Stochastic resonance* is the counterintuitive phenomenon where adding noise to a nonlinear system improves weak-signal detection. Relatedly, outside that paradigm: cortical neurons produce more reliable spike timing when driven by fluctuating inputs than by steady currents (Mainen & Sejnowski 1995). If consciousness provides a weak bias on quantum-indeterminate outcomes, thermal noise at the synaptic level can push that bias over detection thresholds—amplifying a quantum-scale effect to a molecular-scale signal.
 
 *Self-organised criticality* provides the second stage. Neural tissue operates near a critical point where perturbations of all sizes can occur, following power-law distributions. At criticality, a signal at one scale has a non-negligible probability of propagating to much larger scales. The molecular signal from stochastic resonance can trigger avalanches spanning cortical columns or whole networks—bridging from molecular to network scale.
 

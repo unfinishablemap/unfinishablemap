@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-09-11 11:04:38+00:00
+ai_modified: 2026-09-11 12:18:08+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 apex_last_synthesis: 2026-07-18 21:02:00+00:00
 apex_sources:
@@ -42,7 +42,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 21:02:00+00:00
-lastmod: 2026-09-11 11:04:38+00:00
+lastmod: 2026-09-11 12:18:08+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -138,7 +138,7 @@ Even granting that consciousness selects among post-decoherence outcomes, a scal
 
 [Stochastic amplification](/topics/amplification-mechanisms-consciousness-physics/) provides the causal bridge through three convergent mechanisms.
 
-*Stochastic resonance* is the counterintuitive phenomenon where adding noise to a nonlinear system improves weak-signal detection. Neural systems exploit this: cortical neurons produce more reliable spike timing when driven by fluctuating inputs than by steady currents (Mainen & Sejnowski 1995). If consciousness provides a weak bias on quantum-indeterminate outcomes, thermal noise at the synaptic level can push that bias over detection thresholds—amplifying a quantum-scale effect to a molecular-scale signal.
+*Stochastic resonance* is the counterintuitive phenomenon where adding noise to a nonlinear system improves weak-signal detection. Relatedly, outside that paradigm: cortical neurons produce more reliable spike timing when driven by fluctuating inputs than by steady currents (Mainen & Sejnowski 1995). If consciousness provides a weak bias on quantum-indeterminate outcomes, thermal noise at the synaptic level can push that bias over detection thresholds—amplifying a quantum-scale effect to a molecular-scale signal.
 
 *Self-organised criticality* provides the second stage. Neural tissue operates near a critical point where perturbations of all sizes can occur, following power-law distributions. At criticality, a signal at one scale has a non-negligible probability of propagating to much larger scales. The molecular signal from stochastic resonance can trigger avalanches spanning cortical columns or whole networks—bridging from molecular to network scale.
 
