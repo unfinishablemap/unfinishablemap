@@ -5,6 +5,18 @@ ai_modified: '2026-09-11T18:39:27+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-11 19:20 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenal-authority-and-first-person-evidence]]
+- **Scope**: L195, first `meditator` occurrence only. Prose-only fix — nothing added to the reference list, nothing renumbered.
+- **The defect**: the line attributed Lutz et al. (2002) to "trained meditators". The 2002 study (PNAS 99(3), 1586-1591, DOI `10.1073/pnas.032658199`, four authors) used ordinary volunteers trained to report on their preparatory state before a three-dimensional visual illusion, not contemplatives. The article's own References entry was already correct and complete; only the inline characterisation of the subjects was wrong.
+- **Before**: "Lutz et al. (2002) demonstrated that trained meditators' phenomenological reports of distinct attentional states predicted variations in neural synchrony invisible without the phenomenological categories."
+- **After**: "Lutz et al. (2002) demonstrated that trained volunteers' (not contemplatives') phenomenological reports of distinct attentional states predicted neural-synchrony variations invisible without the phenomenological categories."
+- **Length trade (measured)**: host was 4522 words, `hard_warning`, topics 3000 soft / 4000 hard — 522 over hard. A bare `trained volunteers'` swap would have been word-neutral but left the contemplative inference open, since this paragraph names the meditator/jhāna case on the same line and L162's Brewer result two paragraphs up. The sibling convention (`topics/contemplative-practice-as-philosophical-evidence` L153, `apex/contemplative-path` L130, `concepts/methodological-pluralism` L95) blocks that inference explicitly with "not contemplatives", but costs +3 to +6 words. The explicit caveat was therefore funded in-sentence by compressing "predicted variations in neural synchrony" (5 words) to "predicted neural-synchrony variations" (3). Net **+0 words: 4522 → 4522**, status unchanged. The over-ceiling host did not grow and the caveat still landed.
+- **Not swept**: the other four `meditator` occurrences are all correct and were left untouched (L104 Fox et al. 2012 cross-sectional comparison, correctly hedged; L162 Brewer et al. 2011, a genuine meditation study; L195 second occurrence, the meditator/jhāna pointer to `heterophenomenology`, a different case; L255, the Lutz et al. 2004 reference title "Long-term meditators self-induce…"). A grep-and-replace on `meditator` would have damaged four correct claims, one of them on the same line as the defect.
+- **Found, out of scope, needs a task**: the same defective sentence is still live in the coalesce source at `archive/topics/phenomenological-method-and-evidence-standards.md` L82 (and its Hugo mirror L85), which is served at `/topics/phenomenological-method-and-evidence-standards/` with `archived: true` and `superseded_by` this article. `git log -S` confirms commit `ebabbf1ef0` carried the sentence from that file into this one, so the archived copy is the original locus. Reported rather than fixed — the archive tree is a separate surface and widening was not authorised.
+- **Published**: yes
+
 ## 2026-09-11 19:03 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/methodological-pluralism]]

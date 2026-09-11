@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-08-18 00:54:00+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-09-11 19:19:55+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
 - /topics/phenomenal-conservatism-and-introspective-evidence/
@@ -44,7 +44,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 02:17:48+00:00
-lastmod: 2026-08-18 00:54:00+00:00
+lastmod: 2026-09-11 19:19:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -195,7 +195,7 @@ Heterophenomenology is harder to convict of self-stultification than crude elimi
 
 The [confabulation void](/voids/confabulation-void/) sharpens the reliability question at layer 2 and the upper edge of layer 3: a sub-personal generator supplies positive content where direct access is missing, and the felt-rightness signal that would distinguish fabrication from veridical access is [anti-correlated with accuracy](/concepts/anti-correlated-metacognitive-signal/) in the conditions that matter most (Rebouillat et al. 2021, regime-conditional rather than universal). The catalogue's home for the structured-discipline response is the microphenomenological interview's [Confabulation-Resistance Discipline](/topics/microphenomenological-interview-method/#confabulation-resistance-discipline) — second-person scaffolding (evocation, position-direction prompts, re-anchoring in embodied memory) that *restricts the confabulation-eligible space* rather than dissolving it. The method's principals concede the *interviewer-prompts-novelty* objection: the structured question may generate new content the subject did not have until prompted, with the same felt-veridicality as genuine recovery. The discipline approximates the boundary without claiming to cross it; whether the restriction reaches access remains methodologically undetermined. This is partial purchase against the structural void, in the disciplined register that [evidential-status-discipline](/project/evidential-status-discipline/) requires.
 
-Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) treats first-person reports and third-person neural data as mutually constraining. Lutz et al. (2002) demonstrated that trained meditators' phenomenological reports of distinct attentional states predicted variations in neural synchrony invisible without the phenomenological categories. The bridge is genuine but partial: identifying which neural signature corresponds to which phenomenal state still requires first-person reports, reintroducing phenomenological evidence into its own validation chain. Neurophenomenology narrows this circularity without breaking it. The Varela/Dennett contrast, with the meditator/jhāna case, is set out at [heterophenomenology's "Heterophenomenology vs. Neurophenomenology" section](/concepts/heterophenomenology/#heterophenomenology-vs-neurophenomenology).
+Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) treats first-person reports and third-person neural data as mutually constraining. Lutz et al. (2002) demonstrated that trained volunteers' (not contemplatives') phenomenological reports of distinct attentional states predicted neural-synchrony variations invisible without the phenomenological categories. The bridge is genuine but partial: identifying which neural signature corresponds to which phenomenal state still requires first-person reports, reintroducing phenomenological evidence into its own validation chain. Neurophenomenology narrows this circularity without breaking it. The Varela/Dennett contrast, with the meditator/jhāna case, is set out at [heterophenomenology's "Heterophenomenology vs. Neurophenomenology" section](/concepts/heterophenomenology/#heterophenomenology-vs-neurophenomenology).
 
 ## Objections
 
