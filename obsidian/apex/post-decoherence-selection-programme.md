@@ -3,7 +3,7 @@ title: "The Post-Decoherence Selection Programme"
 created: 2026-03-29
 modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-09-11T07:20:13+00:00
+ai_modified: 2026-09-11T07:51:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -84,7 +84,7 @@ The *probabilities are fixed*—by a separate Zurek result: [[envariance]] deriv
 
 *Agreement is guaranteed*. Because environmental fragments carry redundant information about the selected outcome, all subsequent observers will agree. Consciousness need not synchronise multiple observations—quantum Darwinism handles intersubjective agreement automatically.
 
-These constraints clarify why the Map's proposal is one of minimal interaction. Zurek's programme has done the heavy lifting—einselection fixing the basis, envariance grounding the probabilities, quantum Darwinism's redundancy securing objectivity—three distinct arguments, not one result. What remains for consciousness is the single act of actualisation: determining which pointer state obtains. The intervention is as small as it could be while still genuine—requiring no energy injection, consistent with [[conservation-laws-and-mental-causation|conservation law constraints]]. The channel-theoretic formalisation of this minimality — the per-event log₂(N) ceiling, Born-preservation of the unconditioned long-run marginal, and the content-confinement bound on phenomenal repertoire — is developed in [[selection-only-channel]], with the parent topic [[selection-only-mind-influence]] carrying the empirical signature corridor and distinguishing observables. The programme's "minimal intervention" is the channel-class commitment those articles characterise.
+These constraints clarify why the Map's proposal is one of minimal interaction *at the [[post-decoherence-selection|point of selection]]*—a minimality that does not extend to the background, which objective reduction already renders non-unitary. Zurek's programme has done the heavy lifting—einselection fixing the basis, envariance grounding the probabilities, quantum Darwinism's redundancy securing objectivity—three distinct arguments, not one result. What remains for consciousness is the single act of actualisation: determining which pointer state obtains. The intervention is as small as it could be while still genuine—requiring no energy injection, consistent with [[conservation-laws-and-mental-causation|conservation law constraints]]. The channel-theoretic formalisation of this minimality — the per-event log₂(N) ceiling, Born-preservation of the unconditioned long-run marginal, and the content-confinement bound on phenomenal repertoire — is developed in [[selection-only-channel]], with the parent topic [[selection-only-mind-influence]] carrying the empirical signature corridor and distinguishing observables. The programme's "minimal intervention" is the channel-class commitment those articles characterise.
 
 ### The Bias-Without-Deviation Dilemma [Open]
 
@@ -136,7 +136,7 @@ Even granting that consciousness selects among post-decoherence outcomes, a scal
 
 No single stage bridges the full twelve orders of magnitude. Each contributes a factor, and together they provide a plausible causal pathway from minimal quantum bias to macroscopic behaviour. The chain is robust precisely because each stage exploits noise rather than fighting it—an architecture consistent with [[evolutionary-case-for-quantum-neural-effects|evolutionary optimisation]] of quantum neural effects.
 
-The honest limitation: no experiment has demonstrated the full chain operating end-to-end. Each stage is individually well-established in neuroscience. Their composition into a consciousness-amplification pathway is inferred from individual properties, not directly observed. This gap—between the theoretical plausibility of each link and empirical confirmation of the complete chain—is a genuine limitation the programme acknowledges.
+The honest limitation: no experiment has demonstrated the full chain operating end-to-end. Each stage is individually well-established in neuroscience. Their composition into a consciousness-amplification pathway is inferred from individual properties, not directly observed.
 
 ## What a Complete Theory Requires [Speculative]
 
