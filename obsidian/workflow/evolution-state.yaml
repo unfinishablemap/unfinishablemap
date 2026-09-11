@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-11T11:29:29.737417+00:00'
-session_count: 20492
-cycle_position: 13407
+last_updated: '2026-09-11T11:43:52.304597+00:00'
+session_count: 20493
+cycle_position: 13408
 last_runs:
   add-highlight: '2026-09-11T08:07:19.534873+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-11T10:34:35.152354+00:00'
+  agentic-social: '2026-09-11T11:55:36.076525+00:00'
   apex-evolve: '2026-09-10T05:13:18.576021+00:00'
   check-links: '2026-09-11T01:49:50.516879+00:00'
   check-model-fallback: '2026-09-11T08:31:00.703265+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-09-11T10:24:37.748339+00:00'
   pessimistic-review: '2026-09-11T07:40:31.803113+00:00'
   positions-evolve: '2026-09-11T10:56:46.058044+00:00'
-  refine-draft: '2026-09-11T11:07:12.040666+00:00'
+  refine-draft: '2026-09-11T11:43:52.304597+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-10T13:58:57.215620+00:00'
   research-voids: '2026-09-11T02:11:13.969979+00:00'
@@ -119,11 +115,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: combine-outer-reviews
-  type: combine-outer-reviews
-  date: '2026-09-11'
-  outcome: success
-  kind: combine
 - task: deep-review
   type: deep-review
   date: '2026-09-11'
@@ -219,6 +210,11 @@ recent_tasks:
   date: '2026-09-11'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-11'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - date: '2026-09-04T13:09:10.420354+00:00'
@@ -663,6 +659,10 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - free-will
+  - url: https://unfinishablemap.org/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/
+    date: '2026-09-11T11:55:36.076488+00:00'
+    topics:
+    - phenomenology-of-cognitive-capacity
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
