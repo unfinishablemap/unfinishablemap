@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-03-18 23:45:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-11 22:17:50+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[simulation]]'
@@ -12,7 +12,7 @@ date: &id001 2026-03-18
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-03-18 23:45:00+00:00
+lastmod: 2026-09-11 22:17:50+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -50,7 +50,7 @@ The self-transcendence void concerns whether consciousness can bootstrap itself 
   - Unknowability does not imply non-existence; degree of intelligibility is not degree of reality
   - Other minds (alien or artificial) might have the conceptual apparatus we lack
 - **Tenet alignment**: Directly supports Occam's Razor Has Limits — our preference for tractable theories may systematically hide the truth about consciousness
-- **Quote**: "The structure of our minds is constitutionally unable to grasp how physical processes in the brain give rise to subjective experience."
+- **McGinn's position, paraphrased** (not his wording): the structure of our minds is constitutionally unable to grasp how physical processes in the brain give rise to subjective experience. **(Attribution corrected 2026-09-11: this was recorded here as a verbatim McGinn quotation, and it is not one. The string `constitutionally unable` is absent from McGinn 1989 — a grep of the raw PDF (61,197 chars) returned 0, against positive controls "cognitive closure" 13 and "concept-forming" 8 — and the wording traces to a casacarlini.com blog paragraph. The substance is a fair paraphrase of the cognitive-closure thesis and is retained; only the attribution was false. This note seeded the same false quotation in `voids/self-transcendence-void`, since fixed.)**
 
 ### Thomas Nagel — The View from Nowhere
 - **URL**: https://global.oup.com/academic/product/the-view-from-nowhere-9780195056440

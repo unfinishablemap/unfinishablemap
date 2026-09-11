@@ -47,14 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: refine-draft (origin trace)
 - **Generated**: 2026-09-11
 
-### P2: `voids/appetitive-void` L110 asserts the dualist reading unhedged after supplying the physicalist redescription itself
-- **Type**: refine-draft
-- **File**: obsidian/voids/appetitive-void.md
-- **Status**: pending
-- **Notes**: From `reviews/optimistic-2026-09-11-affective-appetitive-voids.md` (finding 2). **L110**: "This is consciousness influencing the physical processes that produce its own content." The article gives the physicalist redescription two paragraphs earlier at **L76** (Friston: preferences as prior beliefs) and then asserts the dualist reading outright, while every neighbouring paragraph hedges. **Fix is a transplant, not an invention**: the formula "a coherence claim, not added support" is live in **4** articles — `voids/witnessing-void`, `voids/self-opacity`, `voids/mutation-void`, `voids/conceptual-metabolism-void` (verified on disk) — and `self-opacity` is already an outbound link from this file, so the discipline is one hop away. **+24 words**; the host is 2143 against a 2000 voids soft threshold and 3000 hard, so it crosses no new threshold. Same defect family as the 2026-09-11 [P-A4](/positions/agency-and-will/#p-a4) constrain-claim work on `topics/phenomenology-of-cognitive-capacity` L139 — invert the burden, keep the datum, name the cap, install the symmetry guard.
-- **Source**: optimistic-review
-- **Generated**: 2026-09-11
-
 ### P3: `archive/topics/phenomenological-method-and-evidence-standards` L82 is the ORIGINAL locus of the Lutz-2002 "trained meditators" misattribution, still served at its preserved URL
 - **Type**: refine-draft
 - **File**: archive/topics/phenomenological-method-and-evidence-standards.md
@@ -1969,6 +1961,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-11: `voids/appetitive-void` L110 asserts the dualist reading unhedged after supplying the physicalist redescription itself
+- **Type**: refine-draft
+- **File**: obsidian/voids/appetitive-void.md
+- **Notes**: From `reviews/optimistic-2026-09-11-affective-appetitive-voids.md` (finding 2). **L110**: "This is consciousness influencing the physical processes that produce its own content." The article gives the physicalist redescription two paragraphs earlier at **L76** (Friston: preferences as prior beliefs) and then asserts the dualist reading outright, while every neighbouring paragraph hedges. **Fix is a transplant, not an invention**: the formula "a coherence claim, not added support" is live in **4** articles — `voids/witnessing-void`, `voids/self-opacity`, `voids/mutation-void`, `voids/conceptual-metabolism-void` (verified on disk) — and `self-opacity` is already an outbound link from this file, so the discipline is one hop away. **+24 words**; the host is 2143 against a 2000 voids soft threshold and 3000 hard, so it crosses no new threshold. Same defect family as the 2026-09-11 [P-A4](/positions/agency-and-will/#p-a4) constrain-claim work on `topics/phenomenology-of-cognitive-capacity` L139 — invert the burden, keep the datum, name the cap, install the symmetry guard.
 
 ### ✓ 2026-09-11: `voids/self-transcendence-void` L52 attributes the SAME blog paragraph to McGinn as a direct quotation
 - **Type**: refine-draft

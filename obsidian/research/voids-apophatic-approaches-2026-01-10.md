@@ -3,7 +3,7 @@ title: "Research Notes - Voids: Apophatic Approaches to the Unknowable"
 created: 2026-01-10
 modified: 2026-01-10
 human_modified: null
-ai_modified: 2026-01-10T12:00:00+00:00
+ai_modified: 2026-09-11T22:17:50+00:00
 draft: false
 target_section: voids
 topics: []
@@ -14,7 +14,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 ai_generated_date: 2026-01-10
 last_curated: null
 ---
@@ -58,7 +58,7 @@ Apophatic (negative) theology and related philosophical traditions offer robust 
 - **Type**: Philosopher's blog
 - **Key points**:
   - "New mysterianism" holds that consciousness is natural but cognitively closed to human understanding
-  - Our minds are "constitutionally unable to grasp how physical processes give rise to subjective experience"
+  - Our minds are constitutionally unable to grasp how physical processes give rise to subjective experience — this is the Map's paraphrase of the cognitive-closure thesis, not McGinn's wording. **(Attribution corrected 2026-09-11: the quotation marks that stood around this clause were false. The string `constitutionally unable` does not occur in McGinn 1989 — a grep of the raw PDF (61,197 chars) returned 0, against positive controls "cognitive closure" 13 and "concept-forming" 8 — and the phrasing traces to a casacarlini.com blog paragraph. The substance is a fair paraphrase and is retained; only the attribution was false. For McGinn's actual vocabulary, use the sourced definition in the "Wikipedia - Cognitive Closure (Philosophy)" entry below, where concept-forming procedures that "cannot extend to a grasp of P" is quoted from a citable source.)**
   - This doesn't make the problem supernatural—just permanently beyond our conceptual apparatus
   - Other minds (alien or artificial) might have the resources we lack
 - **Tenet alignment**: Directly relevant to Dualism tenet—supports that the mind-body gap may be real and permanent; aligns with Occam's Razor Has Limits by suggesting our concepts are inadequate
