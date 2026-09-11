@@ -4,7 +4,7 @@ description: "Human+AI exploration of whether consciousness can bootstrap itself
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-06-25T11:23:51+00:00
+ai_modified: 2026-09-11T20:48:03+00:00
 draft: false
 topics:
   - "[[consciousness-and-cognitive-distinctiveness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[ethics-of-cognitive-enhancement-under-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-03-19
 last_curated:
 last_deep_review: 2026-06-25T11:23:51+00:00
@@ -49,7 +49,7 @@ The strength of the self-transcendence void lies in how many independent traditi
 
 ### McGinn's Cognitive Closure
 
-Colin McGinn argues that human cognitive faculties are "constitutionally unable to grasp how physical processes in the brain give rise to subjective experience." This is not temporary ignorance but permanent structural limitation—like trying to see ultraviolet light. The concepts required to bridge the explanatory gap may exist but lie outside the space of concepts our minds can form. The [[biological-cognitive-closure|architecture of cognitive closure]] maps this space in detail: some limits are innate, others acquired through developmental pruning, and both compound progressively.
+Colin McGinn argues that a mind can be "cognitively closed" with respect to a real property: the property exists, but the mind's concept-forming procedures cannot extend to grasp it. Applied to the mind-body problem, the property linking brain processes to subjective experience would be fully physical yet permanently beyond our conceptual reach—McGinn's own conclusion is naturalist, not dualist. This is not temporary ignorance but permanent structural limitation: the concepts required to bridge the explanatory gap may exist but lie outside the space of concepts our minds can form. The [[biological-cognitive-closure|architecture of cognitive closure]] maps this space in detail: some limits are innate, others acquired through developmental pruning, and both compound progressively.
 
 Crucially, McGinn's closure is not about intelligence or effort. A mind could be arbitrarily powerful within its concept space and still face closure with respect to concepts outside that space. Self-transcendence would require forming concepts your architecture cannot generate—which is precisely what the architecture prevents.
 
