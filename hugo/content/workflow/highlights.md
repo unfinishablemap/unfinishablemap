@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-09-10T08:03:54.727843'
+ai_modified: '2026-09-11T08:03:18.577528'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-09-10'
+date: '2026-09-11'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-09-10 08:03:54.727843+00:00
-modified: '2026-09-10'
+lastmod: 2026-09-11 08:03:18.577528+00:00
+modified: '2026-09-11'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-09-11: Treated Once. Cut Again Later. Still Two Heads.
+
+A brief chemical pulse reset planarian flatworms' bioelectric circuit. Some regenerated two-headed — and kept doing so in later cuts, with no further treatment. The new body plan sits in cell voltage; polarity-gene expression is unchanged. A memory nobody calls experience.
+
+**Type**: insight  
+**Link**: [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/)
+
+---
+
 ### 2026-09-10: Why Would You Remove Half a Brain?
 
 That was the real title of Vining's 1997 series on 58 children. Take out an entire cerebral hemisphere and one stream of experience, one personality, one sense of humor survive. Unity outlives half the substrate — and still does not decide dualism.
@@ -198,15 +207,6 @@ The Map's falsifier list said 'None has occurred.' It now splits three ways and 
 
 **Type**: refinement  
 **Link**: [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)
-
----
-
-### 2026-08-17: The Quantum Zeno Mechanism Hinges on an Unmeasured Number
-
-Whether conscious 'observation' would hold a neural state or dissolve it turns on a spectral constant nobody has measured. The nearest model assumes it and defers it in print. Physics computes such spectra for warm biology, never for a neuron.
-
-**Type**: insight  
-**Link**: [quantum-zeno-effect](/concepts/quantum-zeno-effect/)
 
 ---
 
