@@ -37,6 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: `archive/topics/phenomenological-method-and-evidence-standards` L82 is the ORIGINAL locus of the Lutz-2002 "trained meditators" misattribution, still served at its preserved URL
+- **Type**: refine-draft
+- **File**: archive/topics/phenomenological-method-and-evidence-standards.md
+- **Status**: pending
+- **Notes**: Found during the 2026-09-11 fix of the same defect in the live successor, by the fork that did it, and correctly reported rather than fixed (separate surface). **L82 verbatim**: "This works in practice. Lutz et al. (2002) demonstrated that **trained meditators'** phenomenological reports of distinct attentional states predicted variations in neural synchrony tha[t]…". The 2002 study (*PNAS* 99(3), 1586-1591, DOI `10.1073/pnas.032658199`) used **ordinary volunteers trained to report** before a three-dimensional visual illusion — not contemplatives. **This file is the source of the defect**: `git log -S` shows commit `ebabbf1ef0` ("refine(coalesce): merge topics/phenomenological-method-and-evidence-standards.md into topics/phenomenal-authority-and-first-person-evidence.md") carried the sentence into the live article, where it was fixed at 19:19Z today. The archived copy is `archived: true`, `superseded_by: "/topics/phenomenal-authority-and-first-person-evidence/"`, and is **synced and served** — `hugo/content/archive/topics/…` exists, and `noindex` does not suppress the machine-metadata surface, so the misattribution is live to LLM consumers at a preserved URL.
+- **⚠️ SCOPE — MEASURED, DO NOT SWEEP ON THE STRING.** `trained meditators` appears in **16 archive files**; I inspected every occurrence and **exactly one is this defect**. Fifteen are legitimate general claims about meditators, and **two of those attach the phrase to Lutz et al. (2004), which is correct** (2004 genuinely studied long-term practitioners): `archive/topics/epistemology-of-first-person-evidence.md:133` and `archive/topics/epistemology-of-phenomenal-reports.md:73`. A string sweep here would produce fifteen false positives including two corrections of correct citations.
+- **Fix**: the live successor's shipped wording is the precedent — `trained volunteers' (not contemplatives')`, which is word-neutral against `trained meditators'` when funded by a trim, or simply `trained volunteers'` at +0 with no trim needed. **No length gate**: this file measures **2138 words, status `ok`**. Change nothing else; the archive notice and `superseded_by` stay as they are.
+- **Source**: refine-draft (execution spillover)
+- **Generated**: 2026-09-11
+
 ### P3: `concepts/methodological-pluralism` L37 states pluralism as a "direct consequence of" dualism; only the negative half is an entailment
 - **Type**: refine-draft
 - **File**: obsidian/concepts/methodological-pluralism.md
