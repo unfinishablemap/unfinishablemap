@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: `concepts/methodological-pluralism` L95 credits Lutz & Thompson (2003) with meditator gamma synchrony and default-mode deactivation — a programmatic paper that reports neither
+- **Type**: refine-draft
+- **File**: obsidian/concepts/methodological-pluralism.md
+- **Status**: pending
+- **Notes**: From `reviews/pessimistic-2026-09-11-methodological-pluralism.md` (finding 1, its sharpest). L95 reads: "neuroscientists find these states correlate with distinct neural patterns—gamma synchrony, default mode network deactivation—as Lutz and Thompson (2003) document in their programmatic articulation of neurophenomenology." The reviewer pulled the full text from the author's own copy (evanthompson.me), confirmed completeness by running head (*JCS* 10, No. 9–10, pp. 31–52) and terminal reference list, and grepped: **`default mode` → 0**; `gamma` → 3, all in a visual-preparation paradigm in *ordinary subjects trained to report* (the Lutz et al. 2002 pilot), not meditators; `meditat` → 5, three of them passing mentions of contemplative traditions as a source of *methods*. **The paper reports no meditation result at all.** Chronology corroborates independently: the default-mode network was only characterised in 2001 and the meditation-DMN result is Brewer et al. (2011) — a 2003 programmatic paper cannot carry it. **Corpus canon**: Brewer appears in 9 content files, Lutz 62 times; a prior review already re-attributed this same defect on a sibling article, flagging "ordinary subjects trained to report, not contemplatives" — L95 is the unswept instance. **Fix**: re-attribute the two empirical findings (Brewer et al. 2011 for DMN deactivation, Lutz et al. 2004 for meditator gamma) adding two reference lines, **or** rescope the sentence to the programmatic claim Lutz & Thompson actually make. **Keep the Lutz & Thompson reference** — it is real and cited soundly elsewhere. Why five prior reviews missed it: `deep-review-2026-07-13-methodological-pluralism.md:28` certified it "real-correct… In-text anchor present" — accurate *metadata* certification that never asked whether the source supports the sentence.
+- **Source**: pessimistic-review
+- **Generated**: 2026-09-11
+
+### P2: `concepts/methodological-pluralism` L103 groups Wundt with Titchener as failing for "lack of external constraint" — the corpus's own note has Wundt making exactly that objection
+- **Type**: refine-draft
+- **File**: obsidian/concepts/methodological-pluralism.md
+- **Status**: pending
+- **Notes**: From `reviews/pessimistic-2026-09-11-methodological-pluralism.md` (finding 4). L103: "Wundt and Titchener's introspective laboratories invested heavily in trained observers following rigorous protocols—yet different schools produced conflicting results… The problem was not lack of training but lack of external constraint". **This inverts the sentence's own diagnosis.** `research/voids-imagery-void-2026-04-28.md` L102 records: "Wundt called the studies \"sham experiments\"; the controversy helped end introspection as a respectable method and ushered in behaviorism" — i.e. Wundt was the methodological *critic* of the imageless-thought studies, so his programme had the external constraint the sentence says was absent. Verified on disk 2026-09-11 (both loci quoted). **Fix**: attribute the episode to Titchener/Cornell versus the Würzburg school and leave Wundt out of the failure case, or name him as the critic. Length-neutral or near. **Sibling locus, deliberately NOT folded**: `concepts/phenomenal-authority-and-first-person-evidence.md:152` carries the same Wundt grouping — the reviewer declined to mint on a neighbouring file per the reports-only contract, so mint that separately rather than widening this task.
+- **Source**: pessimistic-review
+- **Generated**: 2026-09-11
+
+### P3: `concepts/methodological-pluralism` L37 states pluralism as a "direct consequence of" dualism; only the negative half is an entailment
+- **Type**: refine-draft
+- **File**: obsidian/concepts/methodological-pluralism.md
+- **Status**: pending
+- **Notes**: From `reviews/pessimistic-2026-09-11-methodological-pluralism.md` (finding 3). L37 endorses pluralism "as a direct consequence of [[interactionist-dualism|ontological dualism]]". The reviewer adjudicated this **half-sound and says so**: irreducibility genuinely *does* rule out exhaustive third-person method, and the article should keep defending that. What does not follow is the positive half — dualist mysterianism (irreducible phenomenal properties plus cognitive closure) yields *no* pluralism, so the availability and reliability of first-/second-person methods is adopted on top rather than derived. **Do not file the sound half as an error.** Same shape as `positions/consciousness-scope` **P-CS1**, corrected 2026-08-03 to "a *premise*, not an entailment … adopted on top of it, not derived", and as that file's preamble fix of 2026-09-11 ("each follows from" → "each *depends on*"). **Fix**: one clause splitting the two halves, mirroring P-CS1's wording. The body is already calibrated (L125 "may reflect", L129 "The Map *speculates*"), so this touches no argument.
+- **Source**: pessimistic-review
+- **Generated**: 2026-09-11
+
 ### P2: NEEDS HUMAN APPROVAL — positions-register scope changes do not propagate to dependent articles; the 2026-08-24 no-spatial-localization limit has now been missed three times
 - **Type**: refine-draft
 - **Status**: blocked
