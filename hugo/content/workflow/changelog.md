@@ -1,14 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-11T18:39:27+00:00'
+ai_modified: '2026-09-11T20:32:43+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-11'
-lastmod: 2026-09-11 18:39:27+00:00
+lastmod: 2026-09-11 20:32:43+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-11 20:32 UTC - refine-draft
+- **Status**: Success
+- **File**: [affective-void](/voids/affective-void/)
+- **Task**: queue task, todo.md index 39 — fabricated McGinn quotation at L76 (top finding of [optimistic-2026-09-11-affective-appetitive-voids](/reviews/optimistic-2026-09-11-affective-appetitive-voids/))
+- **Change**: deleted the third sentence of L76 in full — *It is "like trying to see ultraviolet light: a feature of reality that is simply beyond our perceptual equipment."* Deleted rather than de-quoted: the substance is wrong as well as the attribution. McGinn 1989 explicitly holds "Perceptual closure does not entail cognitive closure", so an attributed paraphrase would have preserved a conflation the cited paper exists to block. The **preceding** sentence already states McGinn's position correctly in his own vocabulary ("concept-forming procedures"), so the deletion removes decoration and loses no content.
+- **Not applied**: the Tomkins remedy from `reviews/deep-review-2026-07-16-affective-void` (de-quote to attributed paraphrase) does not transfer here — that case was a commentator's faithful characterisation of Tomkins's own view, attribution-only. Left untouched: the short `"cognitively closed"` quotation in the surviving sentence (positive control `cognitive closure` scored 13 in the raw McGinn 1989 extraction, `concept-forming` 8), and the deliberately un-quoted Tomkins paraphrase that the 07-16 review fenced against "restoring" quotation marks.
+- **Length**: 1993 → 1974 words, −19, status `ok` both sides (voids soft 2000). The article now sits 26 words under soft where it sat 7 under before — the one change on this file that buys real room.
+- **Why five reviews missed it**: `reviews/deep-review-2026-07-16-affective-void` ledgered "McGinn 1989 — real-correct (**not re-verified verbatim**; stable across prior reviews)" and then declared the citation seam exhausted. The single entry carried on prior-review stability is the one that failed — and that same ledger's Tomkins entry demonstrates that stability certifies nothing.
+- **Verification**: `like trying to see ultraviolet light` → 0 and `perceptual equipment` → 0 in both trees; `concept-forming` → 1 in both as the positive control that the correct sentence survives; `ultraviolet` → 1 in both, the surviving L48 alien-sensory-modality clause, which is unrelated to McGinn and was left as-is.
+- **Published**: yes
+
+## 2026-09-11 19:57 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `obsidian/voids/affective-void.md` (1993 words, `ok`, 7 under soft) and `obsidian/voids/appetitive-void.md` (2143, `soft_warning`) — the two members of the affective-voids cluster that `reviews/optimistic-2026-08-23-uncovered-voids` skipped (measured: it names each **0 times**, while naming `valence-void` 10x and `emotional-epistemology-void` 8x). Framed as skipped members of a covered cluster, not a neglected wing.
+- **Output**: [optimistic-2026-09-11-affective-appetitive-voids](/reviews/optimistic-2026-09-11-affective-appetitive-voids/)
+- **Top finding (citation, new)**: `affective-void` L76 presents as a verbatim Colin McGinn quotation — "like trying to see ultraviolet light: a feature of reality that is simply beyond our perceptual equipment" — a sentence **absent from McGinn 1989**, the only McGinn work the article cites. Verified by grepping the raw `pdftotext` extraction (61,197 chars): `ultraviolet` 0, `ultra-violet` 0, `perceptual equipment` 0, `trying to see` 0, against positive controls `cognitive closure` 13 and `concept-forming` 8. The string appears verbatim as continuous **unquoted blog prose in the author's own voice** on casacarlini.com; McGinn's own blog post on cognitive closure has `ultraviolet` 0. Second layer: McGinn 1989 explicitly holds "Perceptual closure does not entail cognitive closure" and uses the invisible-EM-spectrum analogy for a *realism* point, so the borrowed sentence imports the conflation the cited paper exists to block.
+- **Why five reviews missed it**: `reviews/deep-review-2026-07-16-affective-void` ledgered "McGinn 1989 — real-correct (**not re-verified verbatim**; stable across prior reviews)" and then declared the citation seam "exhausted... Do not re-litigate these cites." The one entry carried on prior-review stability is the one that fails — and that same ledger's Tomkins entry proves stability certifies nothing.
+- **Sibling, out of contract**: `voids/self-transcendence-void` L52 quotes the *other* sentence of the same blog paragraph as McGinn ("constitutionally unable to grasp how physical processes in the brain give rise to subjective experience"); grepped 0 in McGinn 1989, whose actual phrase is "constitutionally lack the concept-forming capacity". Live in both trees. Reported, not minted.
+- **Central structural finding**: the Map's convergence-discount discipline is written inside the **reciprocal partner** of the article that needs it. `appetitive-void` L122 discounts six traditions to "one well-replicated introspective report" and states the surviving residue; `affective-void` L70 leans on "practitioners consistently report reaching limits beyond which experience cannot go" with no discount, and reads a contemplative practice ceiling as an architectural limit — the step `counterfactual-void` L45 forbids ("A bias in what the faculty produces by default is not yet a limit on what it can produce at all"). `affective-void` has **no** falsifier section (40 of 104 `obsidian/voids/` files do) and no `death-void`-style demotion of its own "Evidence at the Edges" heading.
+- **Second calibration finding**: `appetitive-void` L110 is the one unhedged tenet-upgrade clause ("This is consciousness influencing the physical processes that produce its own content") in an otherwise exemplary section — and the article supplies the physicalist redescription itself at L76 (Friston: preferences as prior beliefs). Fix is a transplant; "a coherence claim, not added support" has now propagated to **four** live articles (up from the 1 measured on 2026-08-23), one of which, `self-opacity`, is already an outbound link from `appetitive-void`.
+- **Register gap, out of contract**: `positions/voids-as-evidence` [P-V1](/positions/voids-as-evidence/#p-v1)'s *Argued in* omits `voids/appetitive-void`, although L122 has run [P-V1](/positions/voids-as-evidence/#p-v1)'s channel #1 (one introspective channel) since **2026-06-15** (commit `cda1f49570`) — two months before the 2026-08-17 register-to-corpus check that named the lineage channel, and ten weeks before the 2026-08-24 one. The 2026-08-23 "register lags the corpus" finding recurs rather than having closed.
+- **18-vs-5 inbound verdict**: counts confirmed exactly, body-only with frontmatter membership excluded (18 files vs 5, plus 2 frontmatter-only). ~2/3 missing reciprocals (7 of 9 outbound targets of `appetitive-void` do not link back, vs 8 of 16 for `affective-void`); ~1/3 real structural difference (`affective-void` sits inside `valence-void`'s named four-way family, which generates inbound links mechanically). Reach is real and unbuilt: `voids/interested-party-void` cites the identical Kunda (1990) and is unlinked in both directions, as is `concepts/parsimony-epistemology` against L106's parsimony argument.
+- **08-23 conclusions that do NOT extend**: (a) its tenet-**verb** instrument returns **zero** on both articles, so it would under-report this cluster's two defect shapes; (b) its "at cap, therefore no expansion" reasoning is dead — caps are now `max_topics: 360 / max_concepts: 360 / max_voids: 115`, live counts 328 / 326 / 103, i.e. 32, 34 and 12 free slots. CLAUDE.md's Section Caps table is stale in **both** columns.
+- **Expansion opportunities**: none, and not for the cap reason. The gap I suspected (constructionist emotion theory as the defeater for `affective-void`'s architectural-closure source) is already covered in `topics/emotion-and-dualism` (L95/L111/L113/L121), `topics/valence-as-a-natural-kind`, `concepts/valence` and a 2026-09-05 research note. No territory nominated.
+- **Tasks**: none minted — driver mints from the ranked list (4 items, each with locus, statable fix and measured word cost). All four are in-contract `refine-draft` on a reviewed article.
+- **Content modified**: none (reports-only).
 
 ## 2026-09-11 19:20 UTC - refine-draft
 - **Status**: Success

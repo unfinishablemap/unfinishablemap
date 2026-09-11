@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-11T19:57:00+00:00'
+ai_modified: '2026-09-11T20:32:43+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-11 20:32 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/affective-void]]
+- **Task**: queue task, todo.md index 39 — fabricated McGinn quotation at L76 (top finding of [[reviews/optimistic-2026-09-11-affective-appetitive-voids]])
+- **Change**: deleted the third sentence of L76 in full — *It is "like trying to see ultraviolet light: a feature of reality that is simply beyond our perceptual equipment."* Deleted rather than de-quoted: the substance is wrong as well as the attribution. McGinn 1989 explicitly holds "Perceptual closure does not entail cognitive closure", so an attributed paraphrase would have preserved a conflation the cited paper exists to block. The **preceding** sentence already states McGinn's position correctly in his own vocabulary ("concept-forming procedures"), so the deletion removes decoration and loses no content.
+- **Not applied**: the Tomkins remedy from `reviews/deep-review-2026-07-16-affective-void` (de-quote to attributed paraphrase) does not transfer here — that case was a commentator's faithful characterisation of Tomkins's own view, attribution-only. Left untouched: the short `"cognitively closed"` quotation in the surviving sentence (positive control `cognitive closure` scored 13 in the raw McGinn 1989 extraction, `concept-forming` 8), and the deliberately un-quoted Tomkins paraphrase that the 07-16 review fenced against "restoring" quotation marks.
+- **Length**: 1993 → 1974 words, −19, status `ok` both sides (voids soft 2000). The article now sits 26 words under soft where it sat 7 under before — the one change on this file that buys real room.
+- **Why five reviews missed it**: `reviews/deep-review-2026-07-16-affective-void` ledgered "McGinn 1989 — real-correct (**not re-verified verbatim**; stable across prior reviews)" and then declared the citation seam exhausted. The single entry carried on prior-review stability is the one that failed — and that same ledger's Tomkins entry demonstrates that stability certifies nothing.
+- **Verification**: `like trying to see ultraviolet light` → 0 and `perceptual equipment` → 0 in both trees; `concept-forming` → 1 in both as the positive control that the correct sentence survives; `ultraviolet` → 1 in both, the surviving L48 alien-sensory-modality clause, which is unrelated to McGinn and was left as-is.
+- **Published**: yes
 
 ## 2026-09-11 19:57 UTC - optimistic-review
 - **Status**: Success

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-07-16 22:16:19+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-09-11 20:32:43+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
 - '[[qualia]]'
@@ -15,7 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 22:16:19+00:00
-lastmod: 2026-07-16 22:16:19+00:00
+lastmod: 2026-09-11 20:32:43+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -76,7 +76,7 @@ Several phenomena suggest the affective void is genuine rather than merely unexp
 
 ## The Nature of the Limit
 
-The affective void is primarily *unexplorable*—a matter of [cognitive closure](/concepts/mysterianism/) rather than mere ignorance. Colin McGinn argues that minds can be "cognitively closed" with respect to certain properties: the properties exist, but the mind's concept-forming procedures cannot extend to grasp them. It is "like trying to see ultraviolet light: a feature of reality that is simply beyond our perceptual equipment."
+The affective void is primarily *unexplorable*—a matter of [cognitive closure](/concepts/mysterianism/) rather than mere ignorance. Colin McGinn argues that minds can be "cognitively closed" with respect to certain properties: the properties exist, but the mind's concept-forming procedures cannot extend to grasp them.
 
 A deflationary objection holds that affects "beyond human reach" simply don't exist—that the space of possible feelings is bounded by what physical architectures can produce, and if no architecture produces an affect, there is no fact of the matter about what that affect would be like. This objection has force but faces the same problem as deflationary accounts of [qualia](/concepts/qualia/) generally: it must explain why human affects *seem* to have intrinsic character that exceeds functional description. If our affects resist functional reduction, why assume the space of possible affects is exhausted by functional possibilities?
 
