@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-11T02:30:00.667793+00:00'
-session_count: 20461
+last_updated: '2026-09-11T02:38:26.925525+00:00'
+session_count: 20462
 cycle_position: 13392
 last_runs:
   add-highlight: '2026-09-10T08:06:06.180105+00:00'
@@ -39,7 +39,7 @@ last_runs:
   research-topic: '2026-09-10T13:58:57.215620+00:00'
   research-voids: '2026-09-11T02:11:13.969979+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
-  tune-system: '2026-09-08T01:20:47.352049+00:00'
+  tune-system: '2026-09-11T02:38:26.925525+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
 last_git_push: '2026-09-11T00:46:16.769938+00:00'
@@ -110,7 +110,7 @@ progress:
   voids_written: 103
   positions_written: 18
   research_notes: 582
-  reviews_completed: 7507
+  reviews_completed: 7508
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -119,11 +119,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-10'
-  outcome: success
-  kind: queue
 - task: positions-evolve
   type: positions-evolve
   date: '2026-09-10'
@@ -216,6 +211,11 @@ recent_tasks:
   kind: trigger
 - task: check-tenets
   type: check-tenets
+  date: '2026-09-11'
+  outcome: success
+  kind: trigger
+- task: tune-system
+  type: tune-system
   date: '2026-09-11'
   outcome: success
   kind: trigger
@@ -750,46 +750,51 @@ tune_system_history:
       unbounded per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
   last_run: '2026-09-11T02:34:00+00:00'
-  last_run_note: 'run 2026-09-11 - ELEVENTH consecutive zero-Tier-1 run, unchanged structural
-    reason: cadences / overdue_thresholds / locked_settings / replenishment_config all TRULY ABSENT
-    - verified this run by a RECURSIVE walk of the whole document matching leaf key names at any
-    depth, not merely by top-level key. Fired at 73.2h against the 720h minimum (eleventh instance
-    of the inert gate; cycle.py:78 table, cycle.py:85 filter called only at evolve_loop.py:1370,
-    /loop enqueues at cycle_post.py:429 and drains at cycle_pick.py:188). CADENCE EVIDENCE CORRECTED
-    AND ENLARGED: across 87 reports / 86 consecutive gaps (2026-01-08 to 2026-09-08) the MAX gap
-    ever is 11 days and gaps >=30 number ZERO; last 14 gaps 1,2,1,8,3,1,3,1,5,9,3,6,9,4 mean 4.0 -
-    the prior run''s ''12 data points, mean 4.4'' understated the series. Health: critical 0, medium
-    10 (vs target 3), low 3, orphans 0, 10/10 recent_tasks success, failed_tasks empty, no
-    locked_settings exist, no cap pressure (topics 328/360, concepts 326/360, voids 103/115,
-    positions 18/80, apex 42). Queue 10 P2 / 91 P3 live after the driver minted 2; state read 8/88.
-    THIS RUN IS SUBTRACTIVE - it WITHDRAWS and CORRECTS two of the 09-08 report''s own items. (1)
-    WITHDRAWN Tier 2 #1 ''stand research-voids down / allocate the last 12 voids slots'': its
-    0d-median / 69d-max / 33-banked figures came from a SAME-SLUG join that SELECTS ON THE OUTCOME -
-    it can only find notes that became their own article. Citation-pairing gives 32 pairs with 20
-    NEGATIVE (host predates note), max lag 83d, bank 24 not 33 (41 minus 17 cited under semantic
-    renames). voids/voids.md L257 states absorption-over-proliferation as the governing discipline,
-    so ''permanently unwritable'' misreads the design as a defect. REPLACED by a triage
-    recommendation: the register carries 19 entries against 41 subjects and ZERO of the 24 appear in
-    it - untriaged, not locked out; voids 103/115 so no cap relief is needed. (2) CORRECTED Tier 3
-    ''agentic-social selector cannot reach never-posted articles'': observation stands, MECHANISM
-    DOES NOT - the 7-day URL window makes never-posted 3.3% of the pool so expected count among 8
-    survivors is 0.27; observing 0 is a small sample, not filter bias against well-integrated
-    articles. NEW FINDING (Category D, strongest item): a reports-only review''s yield is its
-    CLOSING PRIORITY LIST, not its findings. tenet-check-2026-09-08 reported 13 warning families and
-    named 4; all 4 were fixed within two days and 0 of the 8 off-list were, re-verified verbatim at
-    zero line drift on 09-11. Mechanism confirmed at LINE granularity: commit 2cc1cf5585 rewrote
-    completeness-in-physics-under-dualism L98 - the exact line carrying two unactioned loci -
-    changing only Process 1 to Process 3 and carrying both defects through. Being edited is not
-    being reviewed. NEW, minor: last_runs[''add-highlight-tweet''] is an ORPHAN KEY of the replaced
-    orchestrator (written only at evolve_loop.py:870; time_trigger.py:134 emits
-    skill=''add-highlight''), reading 21.8 days stale while the trigger is healthy and gated on
-    last_tweet_date=2026-09-10 - same root cause as the inert min-age gate, and it manufactures
-    false staleness in any cadence audit. METHOD CORRECTION TO MYSELF: my first pass reported
-    replenishment_source_counts ABSENT by checking top level only; it is present at
-    queue_status.replenishment_source_counts, fully populated - the nested-key trap. Carried Tier 3
-    unchanged: CLAUDE.md caps table 320/320/100/80 vs real 360/360/115/80; content_stats total_files
-    297 vs 822; cycle_dates_to_synthesize can lose a synthesis; nothing enforces the outer-review 4h
-    abandon cutoff under /unfin-cycle. validate-all 230d stale and reachable at task_selector.py:223
-    - recorded for a human glance, cause NOT determined by this run.'
+  last_run_note: 'run 2026-09-11 - ELEVENTH consecutive zero-Tier-1 run, unchanged
+    structural reason: cadences / overdue_thresholds / locked_settings / replenishment_config
+    all TRULY ABSENT - verified this run by a RECURSIVE walk of the whole document
+    matching leaf key names at any depth, not merely by top-level key. Fired at 73.2h
+    against the 720h minimum (eleventh instance of the inert gate; cycle.py:78 table,
+    cycle.py:85 filter called only at evolve_loop.py:1370, /loop enqueues at cycle_post.py:429
+    and drains at cycle_pick.py:188). CADENCE EVIDENCE CORRECTED AND ENLARGED: across
+    87 reports / 86 consecutive gaps (2026-01-08 to 2026-09-08) the MAX gap ever is
+    11 days and gaps >=30 number ZERO; last 14 gaps 1,2,1,8,3,1,3,1,5,9,3,6,9,4 mean
+    4.0 - the prior run''s ''12 data points, mean 4.4'' understated the series. Health:
+    critical 0, medium 10 (vs target 3), low 3, orphans 0, 10/10 recent_tasks success,
+    failed_tasks empty, no locked_settings exist, no cap pressure (topics 328/360,
+    concepts 326/360, voids 103/115, positions 18/80, apex 42). Queue 10 P2 / 91 P3
+    live after the driver minted 2; state read 8/88. THIS RUN IS SUBTRACTIVE - it
+    WITHDRAWS and CORRECTS two of the 09-08 report''s own items. (1) WITHDRAWN Tier
+    2 #1 ''stand research-voids down / allocate the last 12 voids slots'': its 0d-median
+    / 69d-max / 33-banked figures came from a SAME-SLUG join that SELECTS ON THE OUTCOME
+    - it can only find notes that became their own article. Citation-pairing gives
+    32 pairs with 20 NEGATIVE (host predates note), max lag 83d, bank 24 not 33 (41
+    minus 17 cited under semantic renames). voids/voids.md L257 states absorption-over-proliferation
+    as the governing discipline, so ''permanently unwritable'' misreads the design
+    as a defect. REPLACED by a triage recommendation: the register carries 19 entries
+    against 41 subjects and ZERO of the 24 appear in it - untriaged, not locked out;
+    voids 103/115 so no cap relief is needed. (2) CORRECTED Tier 3 ''agentic-social
+    selector cannot reach never-posted articles'': observation stands, MECHANISM DOES
+    NOT - the 7-day URL window makes never-posted 3.3% of the pool so expected count
+    among 8 survivors is 0.27; observing 0 is a small sample, not filter bias against
+    well-integrated articles. NEW FINDING (Category D, strongest item): a reports-only
+    review''s yield is its CLOSING PRIORITY LIST, not its findings. tenet-check-2026-09-08
+    reported 13 warning families and named 4; all 4 were fixed within two days and
+    0 of the 8 off-list were, re-verified verbatim at zero line drift on 09-11. Mechanism
+    confirmed at LINE granularity: commit 2cc1cf5585 rewrote completeness-in-physics-under-dualism
+    L98 - the exact line carrying two unactioned loci - changing only Process 1 to
+    Process 3 and carrying both defects through. Being edited is not being reviewed.
+    NEW, minor: last_runs[''add-highlight-tweet''] is an ORPHAN KEY of the replaced
+    orchestrator (written only at evolve_loop.py:870; time_trigger.py:134 emits skill=''add-highlight''),
+    reading 21.8 days stale while the trigger is healthy and gated on last_tweet_date=2026-09-10
+    - same root cause as the inert min-age gate, and it manufactures false staleness
+    in any cadence audit. METHOD CORRECTION TO MYSELF: my first pass reported replenishment_source_counts
+    ABSENT by checking top level only; it is present at queue_status.replenishment_source_counts,
+    fully populated - the nested-key trap. Carried Tier 3 unchanged: CLAUDE.md caps
+    table 320/320/100/80 vs real 360/360/115/80; content_stats total_files 297 vs
+    822; cycle_dates_to_synthesize can lose a synthesis; nothing enforces the outer-review
+    4h abandon cutoff under /unfin-cycle. validate-all 230d stale and reachable at
+    task_selector.py:223 - recorded for a human glance, cause NOT determined by this
+    run.'
   last_run_tier1_applied: 0
   report: reviews/system-tune-2026-09-11.md

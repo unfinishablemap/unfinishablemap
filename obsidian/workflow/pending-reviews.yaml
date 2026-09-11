@@ -350,3 +350,35 @@
   subject_articles:
   - concepts/improper-vs-proper-mixtures.md
   subject_source: reuse:pending-reviews:outer-review-2026-09-10-claude-opus-5.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6aa36cb3-b1a4-83ed-b1a7-5b2542d88017
+  commissioned_at: '2026-09-11T02:51:56.149687+00:00'
+  prompt_summary: Audit apex/post-decoherence-selection-programme (recent-aged)
+  target_filename: outer-review-2026-09-11-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are an external referee auditing one article on The Unfinishable
+    Map, a dualist philosophy site at https://unfinishablemap.org. The article under
+    review is https://unfinishablemap.org/apex/post-decoherence-selection-programme/
+    (last substantively revised 2026-09-03). Because external web indexes lag 24 to
+    48 hours, consult the site changelog at https://unfinishablemap.org/workflow/changelog/
+    before judging what the site does or does not already cover; recent work may not
+    be indexed yet. The article assembles five components - post-decoherence selection,
+    quantum Darwinism, contextuality, weak measurement, stochastic amplification -
+    into a research programme for consciousness acting after decoherence, and concedes
+    their alignment is a common-cause artefact rather than independent triangulation.
+    Test the physics: does selecting among einselected pointer states evade the no-signalling,
+    energy-conservation and Born-statistics constraints, or merely relocate them?
+    Is the residual menu-refresh constraint the real remaining problem, or a smaller
+    one standing in for a larger one? Audit also for insufficiently evidenced claims,
+    strawmanned objections, tenet-protective bracketing, stale or misattributed citations
+    against the 2020s literature, and weak integration with neighbouring articles.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit post-decoherence-selection-programme
+  subject_articles:
+  - apex/post-decoherence-selection-programme.md
+  subject_source: fallback:recent-aged
