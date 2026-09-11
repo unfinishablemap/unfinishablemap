@@ -4,7 +4,7 @@ description: "Cognitive overload and automatisation reveal consciousness as a ba
 created: 2026-02-15
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-06-26T22:47:38+00:00
+ai_modified: 2026-09-11T17:19:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ related_articles:
   - "[[phenomenology-of-cognitive-limit-types]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-02-22
 last_curated:
 last_deep_review: 2026-07-18T11:29:17+00:00
@@ -136,7 +136,7 @@ The claim that cognitive capacity phenomenology is irreducible would face diffic
 
 **[[tenets#^dualism|Dualism]]**: The felt quality of approaching capacity — the thickening, the precariousness, the shaped absence when items drop — is not captured by any functional description of working memory limits. A computational system that exceeds buffer capacity simply fails. A conscious subject *experiences* the approaching limit. Similarly, automatisation is not merely "fading" as a neural process winds down — consciousness *withdraws* from a domain of interaction, leaving behind physical systems it helped structure. The gradient of withdrawal and the architectural mismatch of de-automatisation point to consciousness as something that engages with and disengages from physical systems, rather than being identical to them.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The maintenance work revealed by cognitive load supports mental causation. Holding items in working memory feels effortful because consciousness is doing real work — sustaining representations against decay. The correlation between felt effort and maintenance success suggests the effort is causally efficacious. And automatisation provides further evidence: deliberate practice — effortful, conscious, feedback-driven — produces qualitatively different skill development than mere repetition (Ericsson et al., 1993). The systems consciousness builds are qualitatively distinct from those built without it.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The maintenance work revealed by cognitive load is what this tenet must accommodate rather than what establishes it. Holding items in working memory presents itself as active labour — a felt sustaining of representations against decay — and that felt gradient, which tracks maintenance success, is a datum no functional description of buffer refresh supplies. What the phenomenology cannot do is certify that consciousness performs the sustaining: by P-A4 every such check is run by the faculty whose causal status is in question. The limit is symmetric — an epiphenomenalist reading of the same effort is equally unverifiable from the inside — so the felt gradient is neither proof of efficacy nor evidence against it. Automatisation is consistent with the same reading: deliberate practice — effortful, conscious, feedback-driven — is associated with skill development mere repetition does not produce (Ericsson et al., 1993), though a later meta-analysis puts its reach at 26% of performance variance in games, 21% in music, 18% in sports, 4% in education and under 1% in professions — "important, but not as important as has been argued" (Macnamara et al., 2014). The systems consciousness participates in building bear the imprint of that participation, in a proportion the practice literature has not settled.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If consciousness biases quantum indeterminacy through a mechanism requiring sustained attentional focus, the pressure toward automatisation makes functional sense: any competence that can be delegated to deterministic procedural systems *should* be, freeing the scarce quantum-selection capacity for domains where genuine indeterminacy remains — novel situations, creative decisions, moments requiring genuine choice.
 
@@ -169,6 +169,7 @@ The claim that cognitive capacity phenomenology is irreducible would face diffic
 1. Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). "The role of deliberate practice in the acquisition of expert performance." *Psychological Review*, 100(3), 363-406.
 1. Fitts, P. M., & Posner, M. I. (1967). *Human Performance*. Brooks/Cole.
 1. Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
+1. Macnamara, B. N., Hambrick, D. Z., & Oswald, F. L. (2014). Deliberate Practice and Performance in Music, Games, Sports, Education, and Professions: A Meta-Analysis. *Psychological Science*, 25(8), 1608-1618.
 1. Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81-97.
 1. Rouder, J. N., Morey, R. D., Cowan, N., Zwilling, C. E., Morey, C. C., & Pratte, M. S. (2008). An assessment of fixed-capacity models of visual working memory. *Proceedings of the National Academy of Sciences*, 105(16), 5975-5979.
 1. Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, 12(2), 257-285.
