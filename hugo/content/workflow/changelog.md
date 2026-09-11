@@ -10,6 +10,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-11 12:33 UTC - refine-draft
+- **Status**: Success
+- **File**: [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)
+- **Source**: outer review 2026-09-11 (Claude Opus 5), `reviews/outer-review-2026-09-11-claude-opus-5.md`; queue task index 45
+- **Defect**: L83 presented Zurek's envariance derivation of the Born rule as settled — the unqualified verb `derives` with no contestation marker anywhere in the sentence. The review's other half of this charge (the `[Empirical]` tag on the L75 section heading) was already discharged in an earlier pass; L75 read `[Open]` and `grep -cF "[Empirical]"` returned 0 before this pass began. Only the L83 flat assertion remained.
+- **Changes**: one parenthetical extended, `(Zurek 2005)` → `(Zurek 2005; [[born-rule-and-the-consciousness-interface|contested]])`. The verb `derives` and the gloss `from entanglement-assisted invariance` are untouched — the latter is Zurek's own definition of the coinage and the only in-text explanation of the term.
+- **Why this option**: +1 word, chosen over the two +2 options (`purports to derive` / `aims to derive`, each with a zero-cost piped link over `the Born weights`) for two reasons. It follows the file's own established inline-calibration convention — the same sentence-group already carries `(Torres Alegre 2025, a recent arXiv preprint not yet peer-reviewed)`. And three other open tasks still target this file: at 4999 every later fix would have to be strictly word-negative, so the second word was worth more unspent than spent. `is argued to derive` is +3 and lands on exactly 5000, which `length.py:112` (`>= hard`) trips. `contestedly derives` is +1 but reads badly.
+- **No citations added**: the calibration already exists, sourced, one wikilink away. `topics/born-rule-and-the-consciousness-interface` L118 carries Barnum (2003), Schlosshauer-Fine (2005) and Mertens & van Wezel (2023) against envariance, and both counter-sources are already in that sibling's reference list (#24, #26). The apex previously contained zero references to that sibling, so the piped link is real integration rather than a redundant second pointer. Reference #5 (Zurek 2005, Phys. Rev. A 71(5) 052105) at L197 is correct and was neither renumbered nor reordered.
+- **Length**: `analyze_length` on the real `obsidian/apex/` path (a scratchpad copy would silently take default 2500/3500/5000 thresholds) — before = 4997 / apex 4000-5000-6500 / `soft_warning`; after = 4998 / `soft_warning`. Headroom to the last safe count (4999) is now 1 word. The task note's figure of "4996 words, headroom FOUR WORDS" was wrong in the unsafe direction on both counts.
+- **Residue not swept** (deliberate — a 2-word budget cannot sweep it and a half-sweep is worse than none): envariance is still asserted just as flatly at **L87** ("envariance grounding the probabilities") and **L167** ("envariance the weights"). Both are summary restatements that will still read as settled after this fix. Named here so the residue is on the record rather than silently left.
+- **Verification**: sync run; `scripts/validate.py` on the synced file returns Valid; new wording confirmed present in both trees; wikilink checked against `build_content_index` before writing (no collision) and the Hugo output carries the converted form `[contested](/topics/born-rule-and-the-consciousness-interface/)`. Frontmatter compared by parsing both trees rather than by literal grep, since sync re-serialises it.
+- **Published**: yes
+
 ## 2026-09-11 12:18 UTC - refine-draft
 - **Status**: Success
 - **File**: [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)
