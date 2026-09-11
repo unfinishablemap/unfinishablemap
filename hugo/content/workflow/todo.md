@@ -39,14 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `voids/affective-void` L76 quotes a blog's prose as Colin McGinn — the sentence is absent from McGinn 1989, the only McGinn work it cites
-- **Type**: refine-draft
-- **File**: obsidian/voids/affective-void.md
-- **Status**: pending
-- **Notes**: From `reviews/optimistic-2026-09-11-affective-appetitive-voids.md` (finding 1, its sharpest, source-verified first-hand). **L76 verbatim**: `It is "like trying to see ultraviolet light: a feature of reality that is simply beyond our perceptual equipment."` The reviewer downloaded McGinn 1989 (*Mind* 98(391)) and grepped the raw `pdftotext` output (61,197 chars): **`ultraviolet` 0**, `ultra-violet` 0, `perceptual equipment` 0, `trying to see` 0 — against positive controls `cognitive closure` **13** and `concept-forming` **8**, so the zeros are real and not a bad key. The string appears verbatim as **continuous unquoted prose in a blogger's own voice** on casacarlini.com; McGinn's own blog post on cognitive closure has `ultraviolet` 0. ⚠️ **Second layer, and it is the reason this matters beyond attribution**: McGinn 1989 holds "Perceptual closure does not entail cognitive closure" and uses the invisible-EM-spectrum analogy for a **realism** point — so the borrowed sentence imports the exact conflation the cited paper blocks. **Fix**: delete the quoted sentence (**−22 words**, 1993 → 1971, stays `ok` under the 2000 voids soft threshold) or de-quote it, following this article's own Tomkins remedy from the 2026-07-16 review. ⚠️ **Why five reviews missed it**: the 07-16 ledger records "McGinn 1989 — real-correct (**not re-verified verbatim**; stable across prior reviews)" and then declares the seam "exhausted… Do not re-litigate" — the one entry carried on stability is the one that fails. **Budget note**: this is the only finding on this file that gives words back; finding 3 (L70 practice-ceiling, +5 net) is its natural pair, leaving the file at ~1976 and still `ok`.
-- **Source**: optimistic-review
-- **Generated**: 2026-09-11
-
 ### P2: `voids/self-transcendence-void` L52 attributes the SAME blog paragraph to McGinn as a direct quotation
 - **Type**: refine-draft
 - **File**: obsidian/voids/self-transcendence-void.md
@@ -1977,6 +1969,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-11: `voids/affective-void` L76 quotes a blog's prose as Colin McGinn — the sentence is absent from McGinn 1989, the only McGinn work it cites
+- **Type**: refine-draft
+- **File**: obsidian/voids/affective-void.md
+- **Notes**: From `reviews/optimistic-2026-09-11-affective-appetitive-voids.md` (finding 1, its sharpest, source-verified first-hand). **L76 verbatim**: `It is "like trying to see ultraviolet light: a feature of reality that is simply beyond our perceptual equipment."` The reviewer downloaded McGinn 1989 (*Mind* 98(391)) and grepped the raw `pdftotext` output (61,197 chars): **`ultraviolet` 0**, `ultra-violet` 0, `perceptual equipment` 0, `trying to see` 0 — against positive controls `cognitive closure` **13** and `concept-forming` **8**, so the zeros are real and not a bad key. The string appears verbatim as **continuous unquoted prose in a blogger's own voice** on casacarlini.com; McGinn's own blog post on cognitive closure has `ultraviolet` 0. ⚠️ **Second layer, and it is the reason this matters beyond attribution**: McGinn 1989 holds "Perceptual closure does not entail cognitive closure" and uses the invisible-EM-spectrum analogy for a **realism** point — so the borrowed sentence imports the exact conflation the cited paper blocks. **Fix**: delete the quoted sentence (**−22 words**, 1993 → 1971, stays `ok` under the 2000 voids soft threshold) or de-quote it, following this article's own Tomkins remedy from the 2026-07-16 review. ⚠️ **Why five reviews missed it**: the 07-16 ledger records "McGinn 1989 — real-correct (**not re-verified verbatim**; stable across prior reviews)" and then declares the seam "exhausted… Do not re-litigate" — the one entry carried on stability is the one that fails. **Budget note**: this is the only finding on this file that gives words back; finding 3 (L70 practice-ceiling, +5 net) is its natural pair, leaving the file at ~1976 and still `ok`.
 
 ### ✓ 2026-09-11: `topics/phenomenal-authority-and-first-person-evidence` L195 attributes Lutz et al. (2002) to "trained meditators" — its subjects were ordinary volunteers, and three sibling articles say so
 - **Type**: refine-draft
