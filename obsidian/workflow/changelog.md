@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-11T22:21:03+00:00'
+ai_modified: '2026-09-11T22:31:34+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-11 22:31 UTC - refine-draft
+- **Status**: Success
+- **File**: [[archive/topics/phenomenological-method-and-evidence-standards]] (L82) — the **archived source** of the Lutz-2002 misattribution, still synced and served at its preserved URL.
+- **Task**: correct the subject population in the Lutz et al. (2002) sentence. This file is where the sentence originated; `git log -S` traces its arrival in the live successor to `ebabbf1ef0`, the coalesce that merged this article into `topics/phenomenal-authority-and-first-person-evidence`. That live locus was fixed earlier today at 19:19Z; this copy was left behind. `noindex` does not suppress the machine-metadata surface, so the error was live to LLM consumers.
+- **The defect**: the 2002 study (*PNAS* 99(3), 1586–1591, DOI `10.1073/pnas.032658199`) used ordinary volunteers trained to report on their preparatory state before a three-dimensional visual illusion — **not** contemplatives. Only the subject population was wrong.
+- **Fix — one clause, matching the precedent already shipped in the successor at its L195.** `trained meditators'` → `trained volunteers' (not contemplatives')`. The parenthetical form was chosen over the bare `trained volunteers'` because this page has ample length headroom (unlike the successor, which sat 522 words past hard and needed a word-neutral fix) and because it pre-empts the same misreading recurring.
+- **Nothing else in the paragraph touched — deliberately.** The rest is *accurate* about the 2002 result: the study did cluster trials by subjects' own reports and recover pre-stimulus synchrony patterns that trial-averaging discards, so "revealed structure that neuroscience could not have found on its own" and "the neural correlations validated that the phenomenological distinctions tracked something real" are fair descriptions. Sound prose on an archived page was left alone. Diffstat confirms **3 insertions / 3 deletions** for the whole file: the clause, `ai_modified`, and `ai_system`.
+- **Archive apparatus intact**: `archived: true`, `archived_date`, `superseded_by`, `archive_reason`, `original_path`, `created` and the filename all unchanged. The page exists to preserve a URL and readers are already directed to the corrected successor; the archive notice is layout-generated from that frontmatter, not body text.
+- **Scope — swept nothing.** `trained meditators` appears in 16 archive files; the driver had inspected every occurrence and exactly this one is the defect. Fifteen are legitimate general claims about meditators, and **two of those attach the phrase to Lutz et al. (2004), which is correct** — 2004 genuinely studied long-term practitioners (`archive/topics/epistemology-of-first-person-evidence.md:133`, `archive/topics/epistemology-of-phenomenal-reports.md:73`). A string sweep would have produced fifteen false positives including two corrections of correct citations. The live successor and the two research notes annotated at 22:17Z were not touched (`git status` clean on all three).
+- **Verification — absence key counted before use.** Pre-edit `trained meditators` = **1** in both trees, confirming the key was well-formed before being relied on as an absence test; post-edit **0** in both. Positive control `trained volunteers' (not contemplatives')` = **1** in both, at obsidian L82 byte-offset 8668 and hugo L85 byte-offset 8754 (offsets read, not a bare exit status). The control was matched via `grep -F -f` with a pattern file after a first attempt was mangled by shell quoting on the apostrophe and parentheses — the mangled run emitted a `No such file or directory` warning rather than a clean zero, which is what caught it.
+- **Frontmatter**: `ai_modified` bumped to `2026-09-11T22:31:34+00:00` from a live `date -u`, confirmed strictly later than the prior `2026-08-19T14:58:00+00:00` by `datetime.fromisoformat` comparison, not string compare. `ai_system` plus-joined: `claude-opus-4-6+claude-fable-5` → `claude-opus-4-6+claude-fable-5+claude-opus-5`.
+- **Sync and validate**: `scripts/sync.py` run; frontmatter verified by **parsing** both trees with `frontmatter.load` (a literal grep would false-zero on a successful sync, which re-serialises) — `ai_modified`, `ai_system`, `archived`, `superseded_by`, `created` and `draft` all match across trees. `scripts/validate.py` → `✓ Valid` on the synced file.
+- **Length** (measured with `analyze_length` on a real `archive/topics/` `Path`, so topics thresholds apply — soft 3000 / hard 4000): **2138 → 2140** words, **+2**, status `ok`, 860 below soft. No trim needed, so none was made.
+- **Incidental, not mine**: the sync also flushed a pre-existing `hugo/content/workflow/todo.md` drift — a prior committed obsidian todo change that had not been synced. No todo file was edited by this pass; `obsidian/workflow/todo.md` is unmodified.
+- **Published**: yes
 
 ## 2026-09-11 22:21 UTC - refine-draft
 - **Status**: Success

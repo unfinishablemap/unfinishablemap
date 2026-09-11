@@ -4,7 +4,7 @@ description: "How phenomenological method establishes evidence standards irreduc
 created: 2026-03-31
 modified: 2026-03-31
 human_modified:
-ai_modified: 2026-08-19T14:58:00+00:00
+ai_modified: 2026-09-11T22:31:34+00:00
 draft: false
 archived: true
 archived_date: 2026-04-05T12:03:00+00:00
@@ -33,7 +33,7 @@ related_articles:
   - "[[emergence-as-universal-hard-problem]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5
 ai_generated_date: 2026-03-31
 last_curated:
 last_deep_review: 2026-04-01T01:38:00+00:00
@@ -79,7 +79,7 @@ Francisco Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophen
 
 The core principle is *mutual constraint*. First-person phenomenological reports generate descriptive categories that guide the interpretation of neural data. Third-person neural measurements provide an independent check on phenomenological distinctions. Neither domain dominates; both contribute evidence that the other cannot generate alone.
 
-This works in practice. Lutz et al. (2002) demonstrated that trained meditators' phenomenological reports of distinct attentional states predicted variations in neural synchrony that would have been invisible without the phenomenological categories. The first-person evidence did not merely confirm what neuroscience already knew — it revealed structure that neuroscience could not have found on its own. Conversely, the neural correlations validated that the phenomenological distinctions tracked something real rather than reflecting arbitrary verbal choices.
+This works in practice. Lutz et al. (2002) demonstrated that trained volunteers' (not contemplatives') phenomenological reports of distinct attentional states predicted variations in neural synchrony that would have been invisible without the phenomenological categories. The first-person evidence did not merely confirm what neuroscience already knew — it revealed structure that neuroscience could not have found on its own. Conversely, the neural correlations validated that the phenomenological distinctions tracked something real rather than reflecting arbitrary verbal choices.
 
 Neurophenomenology's evidence standards are therefore hybrid. A phenomenological claim gains evidential weight when: (1) trained observers converge on it independently, (2) it predicts measurable neural or behavioural signatures, and (3) the convergence resists explanation by shared theoretical training alone. These standards are more demanding than pure phenomenology (which need not predict neural correlates) and differently directed from pure neuroscience (which need not capture phenomenal structure).
 
