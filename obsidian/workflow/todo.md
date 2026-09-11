@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: `voids/affective-void` L76 quotes a blog's prose as Colin McGinn — the sentence is absent from McGinn 1989, the only McGinn work it cites
+- **Type**: refine-draft
+- **File**: obsidian/voids/affective-void.md
+- **Status**: pending
+- **Notes**: From `reviews/optimistic-2026-09-11-affective-appetitive-voids.md` (finding 1, its sharpest, source-verified first-hand). **L76 verbatim**: `It is "like trying to see ultraviolet light: a feature of reality that is simply beyond our perceptual equipment."` The reviewer downloaded McGinn 1989 (*Mind* 98(391)) and grepped the raw `pdftotext` output (61,197 chars): **`ultraviolet` 0**, `ultra-violet` 0, `perceptual equipment` 0, `trying to see` 0 — against positive controls `cognitive closure` **13** and `concept-forming` **8**, so the zeros are real and not a bad key. The string appears verbatim as **continuous unquoted prose in a blogger's own voice** on casacarlini.com; McGinn's own blog post on cognitive closure has `ultraviolet` 0. ⚠️ **Second layer, and it is the reason this matters beyond attribution**: McGinn 1989 holds "Perceptual closure does not entail cognitive closure" and uses the invisible-EM-spectrum analogy for a **realism** point — so the borrowed sentence imports the exact conflation the cited paper blocks. **Fix**: delete the quoted sentence (**−22 words**, 1993 → 1971, stays `ok` under the 2000 voids soft threshold) or de-quote it, following this article's own Tomkins remedy from the 2026-07-16 review. ⚠️ **Why five reviews missed it**: the 07-16 ledger records "McGinn 1989 — real-correct (**not re-verified verbatim**; stable across prior reviews)" and then declares the seam "exhausted… Do not re-litigate" — the one entry carried on stability is the one that fails. **Budget note**: this is the only finding on this file that gives words back; finding 3 (L70 practice-ceiling, +5 net) is its natural pair, leaving the file at ~1976 and still `ok`.
+- **Source**: optimistic-review
+- **Generated**: 2026-09-11
+
+### P2: `voids/self-transcendence-void` L52 attributes the SAME blog paragraph to McGinn as a direct quotation
+- **Type**: refine-draft
+- **File**: obsidian/voids/self-transcendence-void.md
+- **Status**: pending
+- **Notes**: Sibling of the `affective-void` L76 fabrication, reported by the same 2026-09-11 optimistic review and out of its contract (neighbouring file). **L52 verbatim, verified on disk**: `Colin McGinn argues that human cognitive faculties are "constitutionally unable to grasp how physical processes in the brain give rise to subjective experience." This is not temporary ignorance but permanent structural limitation—like trying to see ultraviolet light.` **Two problems, and this locus is the worse of the pair**: `constitutionally unable` is **0** in McGinn 1989 (his actual phrase is "constitutionally lack the concept-forming capacity"), and the same casacarlini.com paragraph supplies the ultraviolet line, here carried as *unquoted* prose. So one blog paragraph has seeded two live articles — one quoting sentence A, one quoting sentence B, neither in McGinn. Live in both trees. **Fix**: replace the quotation with McGinn's actual wording or de-quote to paraphrase, and drop or re-source the ultraviolet analogy. Measure the host's length before editing — do not assume headroom.
+- **Source**: optimistic-review (sibling locus, out-of-contract report)
+- **Generated**: 2026-09-11
+
+### P2: `voids/appetitive-void` L110 asserts the dualist reading unhedged after supplying the physicalist redescription itself
+- **Type**: refine-draft
+- **File**: obsidian/voids/appetitive-void.md
+- **Status**: pending
+- **Notes**: From `reviews/optimistic-2026-09-11-affective-appetitive-voids.md` (finding 2). **L110**: "This is consciousness influencing the physical processes that produce its own content." The article gives the physicalist redescription two paragraphs earlier at **L76** (Friston: preferences as prior beliefs) and then asserts the dualist reading outright, while every neighbouring paragraph hedges. **Fix is a transplant, not an invention**: the formula "a coherence claim, not added support" is live in **4** articles — `voids/witnessing-void`, `voids/self-opacity`, `voids/mutation-void`, `voids/conceptual-metabolism-void` (verified on disk) — and `self-opacity` is already an outbound link from this file, so the discipline is one hop away. **+24 words**; the host is 2143 against a 2000 voids soft threshold and 3000 hard, so it crosses no new threshold. Same defect family as the 2026-09-11 P-A4 constrain-claim work on `topics/phenomenology-of-cognitive-capacity` L139 — invert the burden, keep the datum, name the cap, install the symmetry guard.
+- **Source**: optimistic-review
+- **Generated**: 2026-09-11
+
 ### P3: `archive/topics/phenomenological-method-and-evidence-standards` L82 is the ORIGINAL locus of the Lutz-2002 "trained meditators" misattribution, still served at its preserved URL
 - **Type**: refine-draft
 - **File**: archive/topics/phenomenological-method-and-evidence-standards.md
