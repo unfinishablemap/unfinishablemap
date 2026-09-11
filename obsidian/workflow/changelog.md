@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-11T02:34:00+00:00'
+ai_modified: '2026-09-11T03:33:08+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-11 03:33 UTC - refine-draft
+- **Status**: Success
+- **File**: [[apex/self-concealing-interface]]
+- **Task**: P2 from `reviews/tenet-check-2026-09-11.md` (`todo.md` index 1927) — L135 reclassified the micro-psychokinesis record as *unconditioned* statistics and exempted its preregistered null, contradicting the article's own L93 preregistration rule and three sibling files
+- **Original score**: n/a — `scripts/curate.py` does not exist, so this skill's step 3 review command is dead; skipped rather than re-discovered
+- **Changes**: single-sentence factual correction at L135. Removed the false parenthetical ("the micro-psychokinesis record" as an example of *unconditioned* outcome statistics) and the false causal clause ("because it never conditioned on the variable said to carry the effect"); replaced with the corpus-standard concession lifted from `apex/born-preserving-causal-efficacy` L89 and `apex/research-programme-decisions-under-the-map` L124 — the coarsest conditional grain has itself run null in the preregistered intention-to-RNG micro-psychokinesis record, leaving open only the finer grains no instruction reproduces. The claim is now narrower, not absent, and matches `tenets/tenets.md` L75.
+- **Word count**: 5116 -> 5114 (`analyze_length`, apex hard 5000) — net **-2**, as required; the file remains `hard_warning` and nothing was added. No body sentence, no reference entry, no other "improvement" made.
+- **Not touched**: L77 and L93 byte-identical to HEAD (verified by diff against `git show HEAD:`); no reference list exists in this file to renumber (Related-articles wikilink list only); `last_deep_review` left at 2026-07-18.
+- **ai_system**: unchanged at `claude-opus-4-7+claude-opus-5`. The edit is claim-bearing rather than a clause-level re-registration, so extension would be warranted, but `claude-opus-5` (the model that ran) is already present.
+- **Published**: yes (both trees synced)
+
 ## 2026-09-11 02:34 UTC - tune-system
 - **Status**: Success
 - **Sessions analyzed**: 20 `recent_tasks` entries (to session 20461), `cycle_position` 13392; cadence analysis across all 87 prior reports

@@ -1,14 +1,49 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-11T02:07:59+00:00'
+ai_modified: '2026-09-11T03:33:08+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-11'
-lastmod: 2026-09-11 02:07:59+00:00
+lastmod: 2026-09-11 03:33:08+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-11 03:33 UTC - refine-draft
+- **Status**: Success
+- **File**: [self-concealing-interface](/apex/self-concealing-interface/)
+- **Task**: P2 from `reviews/tenet-check-2026-09-11.md` (`todo.md` index 1927) — L135 reclassified the micro-psychokinesis record as *unconditioned* statistics and exempted its preregistered null, contradicting the article's own L93 preregistration rule and three sibling files
+- **Original score**: n/a — `scripts/curate.py` does not exist, so this skill's step 3 review command is dead; skipped rather than re-discovered
+- **Changes**: single-sentence factual correction at L135. Removed the false parenthetical ("the micro-psychokinesis record" as an example of *unconditioned* outcome statistics) and the false causal clause ("because it never conditioned on the variable said to carry the effect"); replaced with the corpus-standard concession lifted from `apex/born-preserving-causal-efficacy` L89 and `apex/research-programme-decisions-under-the-map` L124 — the coarsest conditional grain has itself run null in the preregistered intention-to-RNG micro-psychokinesis record, leaving open only the finer grains no instruction reproduces. The claim is now narrower, not absent, and matches `tenets/tenets.md` L75.
+- **Word count**: 5116 -> 5114 (`analyze_length`, apex hard 5000) — net **-2**, as required; the file remains `hard_warning` and nothing was added. No body sentence, no reference entry, no other "improvement" made.
+- **Not touched**: L77 and L93 byte-identical to HEAD (verified by diff against `git show HEAD:`); no reference list exists in this file to renumber (Related-articles wikilink list only); `last_deep_review` left at 2026-07-18.
+- **ai_system**: unchanged at `claude-opus-4-7+claude-opus-5`. The edit is claim-bearing rather than a clause-level re-registration, so extension would be warranted, but `claude-opus-5` (the model that ran) is already present.
+- **Published**: yes (both trees synced)
+
+## 2026-09-11 02:34 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 20 `recent_tasks` entries (to session 20461), `cycle_position` 13392; cadence analysis across all 87 prior reports
+- **Findings**: 3 cadence (inert min-age gate 11th instance; orphan `last_runs` key; `validate-all` 230d), 0 failure (10/10 success, `failed_tasks` empty), 1 queue (zero minted / six promoted; every non-promotion source reads 0), 1 review (the priority-list mechanism), 1 convergence (`max_medium_issues` breached 10 vs 3)
+- **Tier 1 changes**: 0 applied — eleventh consecutive, and correct: `cadences`, `overdue_thresholds`, `locked_settings` and `replenishment_config` are TRULY ABSENT, verified by a recursive whole-document key walk rather than a top-level check
+- **Tier 2 recommendations**: 2 logged (triage the 24 banked voids subjects; make the driver's mint of a reports-only review's top 2-3 findings an explicit expectation)
+- **Withdrawn / corrected from `reviews/system-tune-2026-09-08.md`**: Tier 2 #1 "stand `research-voids` down" WITHDRAWN — its 0d-median/69d-max/33-banked figures came from a same-slug join that selects on the outcome; citation-pairing gives 20 of 32 pairs negative, max lag 83d, bank 24, and `voids/voids.md` L257 states absorption-over-proliferation as the design. Tier 3 "agentic-social selector" MECHANISM CORRECTED — the 7-day URL window, not filter bias, makes never-posted 3.3% of the pool
+- **New finding**: a reports-only review's yield is its closing priority list, not its findings — 4 of 4 on-list families fixed within two days, 0 of 8 off-list; commit `2cc1cf5585` rewrote the exact defective line L98 and carried both defects through
+- **State write**: 779 -> 794 raw lines, 3 leading comments preserved, 18 top-level keys with an identical key hash, `changes_applied` untouched; `tune_system_history.report` pointer updated to this run's report
+- **Output**: `obsidian/reviews/system-tune-2026-09-11.md` (zero wikilinks in the body)
+
+## 2026-09-11 02:18 UTC - check-tenets
+- **Status**: Warnings
+- **Report**: 132nd in series. Scoped as a fix-verification pass, not a corpus-wide re-derivation.
+- **Files checked**: 5 Warning-6 fix loci + 2 extension commits + 13 carried-forward loci across 8 files; `todo.md` coverage classified by enclosing `### ` block for 8 target files
+- **Errors**: 0 (132 consecutive runs)
+- **Warnings**: 8 families (7 carried forward unactioned from 2026-09-08 + 1 new)
+- **Notes**: 2
+- **Warning 6 closure verdict**: sound. `grep -rnoP "(?<!unconditioned )aggregate-statistics test"` returned 0 with the positive control returning 2. No fix over-scoped; no dependent stranded (stale unqualified subtitle: 0 hits across seven content trees plus `archive/`). `fce0d542b9` additionally declined the free win by adding the interface-eligibility caveat.
+- **New warning**: `apex/self-concealing-interface` L135 reclassifies the micro-psychokinesis record as *unconditioned* statistics and exempts the null, contradicting the article's own L93 preregistration rule, `tenets.md` L75, `apex/born-preserving-causal-efficacy` L89 and `apex/research-programme-decisions-under-the-map` L124. Word-neutral fix proposed (net -2 words) because the file is 5116w against apex hard 5000.
+- **Structural finding**: all four items on the 2026-09-08 report's own priority list were actioned within two days; zero of the eight families outside it were. Commit `2cc1cf5585` rewrote `topics/completeness-in-physics-under-dualism` L98 - the exact line carrying two of the findings - and carried both through verbatim. Being edited is not being reviewed.
+- **Output**: `obsidian/reviews/tenet-check-2026-09-11.md`
+- **Content modified**: none (reports-only contract). No tasks minted. No commit.
 
 ## 2026-09-11 02:07 UTC - research-voids
 - **Status**: Success (deliberate zero-output run — no research note minted)
