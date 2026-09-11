@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-11T03:50:47+00:00'
+ai_modified: '2026-09-11T04:42:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-11 04:42 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`, Pro effort)
+- **File**: [[reviews/outer-review-2026-09-11-chatgpt-5-6-sol-pro]]
+- **Subject**: `apex/post-decoherence-selection-programme` (`subject_type: recent`, `subject_source: fallback:recent-aged`) — the anchor leg of the 09-11 triple; Claude and Gemini reuse this subject and were still in flight at processing time. First outer review ever to focus this article.
+- **Extraction**: 47,219 bytes via page-side Blob download, SHA-256 `5a1f8ce39221fab9d4e979769fb7d0fa36bcb60220061ff91d0d7755a6cbc3f5` verified identical in-page and on-disk. Body diffed against the written `## Reply`: 43 headings both sides, 20 change hunks, **all 20** the `normalize_review_links` rewrite of ChatGPT citation-chip labels ("The Unfinishable Map+1") into real paths; zero content hunks. One leading UI line ("Download the full referee report with bibliography") stripped as chrome — the reviewer's bibliography lives in an attached file we did not capture, but the inline body carries direct publisher URLs, so nothing is orphaned.
+- **Claims verified**: 5 accepted, 1 scope-corrected, 2 rejected
+- **High-value findings**: (1) **Spekkens' operational-equivalence condition reversed** at L105 — "operationally equivalent preparations can yield different statistics" is self-contradictory; operational equivalence *means* identical statistics, and preparation contextuality is a claim about the *ontological model*. Checked against arXiv quant-ph/0406166. (2) **Heading overclaim** — "The Gap That Physics Cannot Close [Empirical]" asserts what the body disclaims in three places; a navigation-surface defect, and zero inbound anchor references (positive control returns 4 files), so retitling is safe. (3) **Mainen & Sejnowski 1995 mis-framed as a stochastic-resonance result** at L131, while the Map's own source article `topics/amplification-mechanisms-consciousness-physics` L107 correctly calls it "outside the SR paradigm" — a genuine internal inconsistency. (4) **The 2026-09-10 Local Friendliness / absolute-outcome concession never propagated** into this apex (zero hits for `local friendliness`/`absolute outcome`/`absoluteness`).
+- **Rejected**: the charge that the article infers "decoherence leaves no unique outcome, therefore a nonphysical selector" — the article explicitly calls actualisation "an additional postulate", marks the contextuality move "the Map's conjecture, not a consequence of the Kochen-Specker result", and self-locates at the pre-Keplerian stage; the invalid inference is attributed, not committed, and only the heading defect survives. Also rejected: "the body quietly regains the confidence the opening surrendered" — the mutual-constraint passage carries an explicit guard ("*internal* research-programme fertility, not external evidential support").
+- **Scope correction**: the Local Friendliness finding was minted as an article-level non-propagation only. LF is already treated in five corpus files; the task carries a do-not-re-mint fence so the next reviewer's "the Map ignores LF" does not land again.
+- **Deferred to `/combine-outer-reviews`**: the structural cluster — no-signalling relocated not evaded, missing energy ledger, the ontology trilemma, the three Born-efficacy horns, menu-refresh-as-symptom, criterion-loaded treatment of Everett/Bohm/objective-collapse. Two sibling legs were live on the same subject; minting now would front-run convergence. Several also restate the open `NEEDS-HUMAN 2026-06-01` horn-(b) decision and the toy-model debt already tracked on `apex/born-preserving-causal-efficacy`.
+- **Tasks generated**: 4 (P1: 2 — Spekkens reversal + non-commutativity imprecision; heading/label overclaim. P2: 2 — Mainen SR re-framing; Local Friendliness propagation). All parse as `TaskType.REFINE_DRAFT`.
+- **Length fence on every task**: host article measures **4,996 words against the apex hard threshold of 5,000** (`analyze_length`, body-only; soft/hard/critical 4,000/5,000/6,500) — four words of headroom. Every task is scoped word-neutral or word-negative and says so. The Mainen task additionally records that the obvious fix (lifting the source article's wording verbatim) costs **+7 words and would breach the threshold**, and caps the replacement at +4. The Local Friendliness task, which cannot be discharged by addition, carries trim-then-add-or-escalate instead of an add instruction.
+- **Wikilink safety**: all 7 wikilinks in the review file are bare and resolve against the 9,537-entry content index; the 4 task blocks use backticked paths only, zero wikilinks. No push-block risk.
+- **Not touched**: the `claude` and `gemini` pending entries for 2026-09-11 (both left `pending`); no commit made — orchestrator owns it.
+
 ## 2026-09-11 03:50 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/completeness-in-physics-under-dualism]]
