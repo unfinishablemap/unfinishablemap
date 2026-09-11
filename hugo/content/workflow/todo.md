@@ -45,14 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: research-harvest
 - **Generated**: 2026-09-11
 
-### P2: `apex/post-decoherence-selection-programme` L83 presents Zurek's envariance derivation of the Born rule as settled, inside an [Empirical]-tagged section
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-09-11 (Claude Opus 5). L83 asserts flatly that envariance "derives the Born weights from entanglement-assisted invariance" (Zurek 2005), with no contestation marker, inside the section headed `## The Menu: Quantum Darwinism's Contribution [Empirical]` (L75). The derivation is **contested, not settled**, and the article's own sibling `topics/born-rule-and-the-consciousness-interface` already flags exactly this — so this is a **dependency-integrity gap**, not a new literature claim. Two counter-sources, **both Crossref-verified 2026-09-11**: Schlosshauer & Fine (2005), "On Zurek's Derivation of the Born Rule", *Foundations of Physics* 35(2):197-213, doi:10.1007/s10701-004-1941-6 — diagnoses an assumed state-probability link; and Mertens & van Wezel (2023), "Environment-Assisted Invariance Does Not Necessitate Born's Rule for Quantum Measurement", *Entropy* 25(3):435, doi:10.3390/e25030435 — whose title alone states the result. Metadata, authors, journal, volume, issue, page and year all match as cited. FIX: qualify the envariance sentence as contested and inherit the sibling's calibration by wikilink rather than re-deriving the argument. Adding a full citation block is unaffordable here — prefer a hedging clause plus the existing sibling link.
-- **LENGTH — WORD-NEUTRAL OR NEGATIVE REQUIRED**: host is **4996 words against the apex hard threshold of 5000** (`analyze_length`, body-only; soft/hard/critical 4000/5000/6500). Headroom is **FOUR WORDS**. Re-measure with `tools.curate.length.analyze_length` before and after and record both counts. Do not add explanatory prose.
-- **Review file**: `reviews/outer-review-2026-09-11-claude-opus-5.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-11
-
 ### P2: `apex/post-decoherence-selection-programme` does not bridge to the active-inference rival that dissolves its own selection/commitment explananda
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-09-11 (Claude Opus 5). The apex returns **zero** hits for active inference, predictive processing, Laukkonen, Friston or Chandaria, while its entire architecture is a quantum story about *selection* and *commitment* — precisely the explananda Laukkonen, Friston & Chandaria (2025), "A beautiful loop: An active inference theory of consciousness", *Neuroscience & Biobehavioral Reviews* 176:106296, doi:10.1016/j.neubiorev.2025.106296 (**Crossref-verified 2026-09-11**) handles with no quantum interface: Bayesian binding is an explicit selection-for-consciousness mechanism, and precision-control handles agency/commitment. The L135 drift-diffusion commitment point is exactly what active inference models as precision-weighted policy selection.
@@ -1989,6 +1981,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-11: `apex/post-decoherence-selection-programme` L83 presents Zurek's envariance derivation of the Born rule as settled, inside an [Empirical]-tagged section
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-09-11 (Claude Opus 5). L83 asserts flatly that envariance "derives the Born weights from entanglement-assisted invariance" (Zurek 2005), with no contestation marker, inside the section headed `## The Menu: Quantum Darwinism's Contribution [Empirical]` (L75). The derivation is **contested, not settled**, and the article's own sibling `topics/born-rule-and-the-consciousness-interface` already flags exactly this — so this is a **dependency-integrity gap**, not a new literature claim. Two counter-sources, **both Crossref-verified 2026-09-11**: Schlosshauer & Fine (2005), "On Zurek's Derivation of the Born Rule", *Foundations of Physics* 35(2):197-213, doi:10.1007/s10701-004-1941-6 — diagnoses an assumed state-probability link; and Mertens & van Wezel (2023), "Environment-Assisted Invariance Does Not Necessitate Born's Rule for Quantum Measurement", *Entropy* 25(3):435, doi:10.3390/e25030435 — whose title alone states the result. Metadata, authors, journal, volume, issue, page and year all match as cited. FIX: qualify the envariance sentence as contested and inherit the sibling's calibration by wikilink rather than re-deriving the argument. Adding a full citation block is unaffordable here — prefer a hedging clause plus the existing sibling link.
 
 ### ✓ 2026-09-11: `apex/post-decoherence-selection-programme` L131 presents Mainen & Sejnowski 1995 as a stochastic-resonance result; its own source article does not
 - **Type**: refine-draft

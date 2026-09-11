@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-10
-ai_modified: 2026-09-10 15:19:27+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-09-11 13:08:16+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - '[[dualism]]'
@@ -15,8 +15,8 @@ description: A human-AI reading of Nishida's pure experience and absolute nothin
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-10 23:13:00+00:00
-lastmod: 2026-09-10 15:19:27+00:00
+last_deep_review: 2026-09-11 13:08:16+00:00
+lastmod: 2026-09-11 13:08:16+00:00
 modified: *id001
 related_articles:
 - '[[chinese-philosophy-of-mind]]'
@@ -31,7 +31,7 @@ topics:
 - '[[eastern-philosophy-consciousness]]'
 ---
 
-The Kyoto School (Kyōto-gakuha) is the twentieth-century Japanese movement that brought Zen and Pure Land Buddhism into critical dialogue with German idealism and William James's radical empiricism, organised around a single idea: *absolute nothingness* (*zettai mu*, 絶対無). Its founder, Nishida Kitarō, begins from *pure experience* (*junsui keiken*, 純粋経験)—experience prior to the split between an experiencing subject and an experienced object—and argues that both subject and object are later differentiations *within* it. For The Unfinishable Map this makes the Kyoto School a second [basin edge](/topics/chinese-philosophy-of-mind/) for its [convergence argument](/topics/cross-traditional-convergence-on-consciousness-irreducibility/): a deep, non-substantialist tradition that lands close to the hard problem's residue without positing a Cartesian mind-substance—and without, on its own terms, arriving at anything the Map may call [dualism](/concepts/dualism/). This article expounds the school on its own terms first, and only then—clearly separated—reads it through the Map's framework.
+The Kyoto School (Kyōto-gakuha) is the twentieth-century Japanese movement that brought Zen and Pure Land Buddhism into critical dialogue with German idealism and William James's radical empiricism, organised around a single idea: *absolute nothingness* (*zettai mu*, 絶対無). Its founder, Nishida Kitarō, begins from *pure experience* (*junsui keiken*, 純粋経験)—experience prior to the split between an experiencing subject and an experienced object—and argues that both subject and object are later differentiations *within* it. For The Unfinishable Map this makes the Kyoto School a second non-substantialist [basin edge](/topics/chinese-philosophy-of-mind/) for its [convergence argument](/topics/cross-traditional-convergence-on-consciousness-irreducibility/): a deep tradition that presses as far into experience as any the argument surveys, without positing a Cartesian mind-substance—and without, on its own terms, arriving at anything the Map may call [dualism](/concepts/dualism/). This article expounds the school on its own terms first, and only then—clearly separated—reads it through the Map's framework.
 
 One question runs through everything below and is left open on purpose. Does pure experience **dissolve** the hard problem—deflate the subject-object gap so thoroughly that the "gap" never arises—or does it **dodge** the problem, relocating the thing to be explained rather than explaining it? Both readings are charitable, both have defenders, and this article does not adjudicate between them. A second caution frames the whole piece: absolute nothingness reads far more naturally as a non-dualism or monism than as a dualism, and the school explicitly rejected simple monism too. It is a genuinely third framing, and the Map does not conscript it as an ally.
 
@@ -81,7 +81,7 @@ A note on politics, kept brief because it is real. Elements of the school's wart
 
 This section is the Map's own interpretation and must not be read back into the Japanese sources above. Nishida, Nishitani, Tanabe, and Watsuji are not dualists, and nothing in this section makes them so.
 
-The Kyoto School is a second **basin-edge test** of [Tenet 1 (Dualism)](/tenets/#dualism), alongside the [Chinese organicist case](/topics/chinese-philosophy-of-mind/). The convergence argument treats the broad, premise-diverse agreement of deep traditions that consciousness resists physical capture as evidence for irreducibility. A basin edge is a tradition that shares the human introspective starting point and pursues it deeply, yet does *not* land on the Map's reading of the result. The Kyoto School qualifies: it is unmistakably deep and reflective about experience, and it arrives not at an irreducible mind set against matter but at a non-dual field prior to both. That it exists lowers any claim to universality without touching the core inference, which never rested on universality in the first place.
+The Kyoto School is the second non-substantialist **basin-edge test** of [Tenet 1 (Dualism)](/tenets/#dualism), alongside the [Chinese case](/topics/chinese-philosophy-of-mind/), the first on that same count. The convergence argument treats the broad, premise-diverse agreement of deep traditions that consciousness resists physical capture as evidence for irreducibility. A basin edge is a tradition that shares the human introspective starting point and pursues it deeply, yet does *not* land on the Map's reading of the result. The Kyoto School qualifies: it is unmistakably deep and reflective about experience, and it arrives not at an irreducible mind set against matter but at a non-dual field prior to both. That it exists lowers any claim to universality without touching the core inference, which never rested on universality in the first place.
 
 Crucially, the Kyoto case only **strengthens rather than confirms** the [convergence argument](/topics/cross-traditional-convergence-on-consciousness-irreducibility/), and the reason is a [common-cause](/project/common-cause-null/) caveat that must be stated plainly. The Kyoto School reaches its conclusions by the same broadly introspective and contemplative method—rooted in Zen practice and phenomenological reflection—that the other convergent traditions share. Convergence produced by a shared method is weaker evidence than convergence from genuinely independent routes, because a common method could be a common source of a common artefact. So the Kyoto data point adds weight to the pattern without closing the question of whether the pattern tracks reality or tracks a feature of disciplined human introspection.
 
@@ -93,7 +93,7 @@ So the Kyoto School is neither a defeat nor a vindication. It is a second, indep
 
 ## Further Reading
 
-- [mesoamerican-nahua-philosophy-of-mind](/topics/mesoamerican-nahua-philosophy-of-mind/) — a third basin-edge case: Nahua teotl process-monism, read alongside the Chinese and Kyoto cases
+- [mesoamerican-nahua-philosophy-of-mind](/topics/mesoamerican-nahua-philosophy-of-mind/) — the second organicist basin edge: Nahua teotl process-monism, read alongside the Chinese and Kyoto cases
 - [chinese-philosophy-of-mind](/topics/chinese-philosophy-of-mind/) — the first non-substantialist basin edge; read the two together as a pair
 - [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) — the structural argument the Kyoto case tests and qualifies
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) — where the Kyoto School sits among Indian, Islamic, African, and Japanese responses
