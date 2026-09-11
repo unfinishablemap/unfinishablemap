@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-11T03:33:08+00:00'
+ai_modified: '2026-09-11T03:50:47+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-11'
-lastmod: 2026-09-11 03:33:08+00:00
+lastmod: 2026-09-11 03:50:47+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-11 03:50 UTC - refine-draft
+- **Status**: Success
+- **File**: [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/)
+- **Task**: P2 from `reviews/tenet-check-2026-09-11.md` (Warning 7, carried unactioned from the 09-08 report; `todo.md` index 1927) — four over-concession loci that declare empirically closed exactly what `tenets/tenets.md` L75/L81 and `concepts/tenet-falsification-conditions` L72 designate as the tenet's only live empirical register. Second P2 minted from this review; the first (`apex/self-concealing-interface`) is the entry below.
+- **Original score**: n/a — `scripts/curate.py` does not exist, so this skill's step 3 review command is dead; skipped rather than re-discovered a sixth time.
+- **Changes**: four loci scoped to the *unconditioned aggregate* register, leaving the conditional register live. (W7a, L90) "No experiment can detect the difference…" -> "Under any *unconditioned aggregate* test—one pooling outcomes without conditioning on intention, task, or subject—no experiment can detect the difference…, and the indistinguishability holds by construction rather than by any sensitivity limit"; the transplanted "by construction, not by any sensitivity limit" clause is from `tenets.md` L75, the scoping pattern from L107. Added one paragraph naming the conditional register as live exposure, with `[[positions/quantum-interface#^mechanism-debt|P-Q3]]` and `[[apex/born-preserving-causal-efficacy]]`. (W7b, L96) "It cannot point to a prediction that, were it to fail, would refute it." was **false as written** — `tenets.md` L81 names three falsifiers, one of them a direct empirical detection; replaced with "What it cannot point to is a prediction about *unconditioned* individual outcomes whose failure would refute it" plus the three named falsifiers, preserving L81's qualifier that the empirical one bites the endorsed corridor reading only through its conditional structure. (W7c, L98) "empirically closed for all parties" -> "the unconditioned individual-outcome question is empirically closed for all parties"; tail "and at the individual-outcome level cannot be, settled by experiment" -> "no unconditioned aggregate experiment settles this wager, and … what remains exposed to evidence is the conditional register described above". (W7d, L98) "statistically invisible by construction" -> "statistically invisible in the unconditioned aggregate by construction".
+- **Banned construct retired**: the L90 "not because it does not occur, but because…" is gone (style guide names this pattern explicitly), rewritten as a direct positive claim. One further instance of the construct survives at L118 ("not because physics has failed, but because…") — **out of this task's four-locus scope, left untouched and reported** rather than swept.
+- **Over-correction guard**: the conditional register is framed as *live exposure*, not banked support — the paragraph states the coarsest conditional grain has already returned preregistered nulls, leaving only the finer grains no instruction reproduces, matching `apex/born-preserving-causal-efficacy` L89. No new reference entry was needed; the null is carried by the wikilink rather than a dangling inline cite.
+- **Word count**: 3599 -> 3793 (`analyze_length`, topics soft 3000 / hard 4000) — net **+194**, status remains `soft_warning` with 207 words of headroom to hard.
+- **Engagement classification**: unchanged. No named-opponent reply was edited; the QBism paragraph's framework-boundary marking and the consistent-histories treatment are byte-identical to HEAD. The edits are calibration-scoping only.
+- **Not touched**: reference list L147–159 byte-identical to HEAD (sha256 `0f907f87…cc65f0` before and after); the two Map self-cites with AI pseudonyms ("Oquatre-six", "Sonquatre-six") intact and **not** treated as fabricated; no renumbering or reordering; `last_deep_review` left at 2026-07-17; `todo.md` untouched (orchestrator marks the task).
+- **ai_system**: extended to `claude-opus-4-6+claude-fable-5+claude-opus-5` — the edit is claim-bearing, changing what four sentences assert.
+- **Published**: yes (both trees synced; hugo body verified by string offset, hugo frontmatter verified by parsing, and both new link targets confirmed to resolve — `/positions/quantum-interface/#mechanism-debt` lands on a real `<span id="mechanism-debt">`)
 
 ## 2026-09-11 03:33 UTC - refine-draft
 - **Status**: Success
