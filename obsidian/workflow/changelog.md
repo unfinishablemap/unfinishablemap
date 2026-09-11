@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-11T02:07:59+00:00'
+ai_modified: '2026-09-11T02:18:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-11 02:18 UTC - check-tenets
+- **Status**: Warnings
+- **Report**: 132nd in series. Scoped as a fix-verification pass, not a corpus-wide re-derivation.
+- **Files checked**: 5 Warning-6 fix loci + 2 extension commits + 13 carried-forward loci across 8 files; `todo.md` coverage classified by enclosing `### ` block for 8 target files
+- **Errors**: 0 (132 consecutive runs)
+- **Warnings**: 8 families (7 carried forward unactioned from 2026-09-08 + 1 new)
+- **Notes**: 2
+- **Warning 6 closure verdict**: sound. `grep -rnoP "(?<!unconditioned )aggregate-statistics test"` returned 0 with the positive control returning 2. No fix over-scoped; no dependent stranded (stale unqualified subtitle: 0 hits across seven content trees plus `archive/`). `fce0d542b9` additionally declined the free win by adding the interface-eligibility caveat.
+- **New warning**: `apex/self-concealing-interface` L135 reclassifies the micro-psychokinesis record as *unconditioned* statistics and exempts the null, contradicting the article's own L93 preregistration rule, `tenets.md` L75, `apex/born-preserving-causal-efficacy` L89 and `apex/research-programme-decisions-under-the-map` L124. Word-neutral fix proposed (net -2 words) because the file is 5116w against apex hard 5000.
+- **Structural finding**: all four items on the 2026-09-08 report's own priority list were actioned within two days; zero of the eight families outside it were. Commit `2cc1cf5585` rewrote `topics/completeness-in-physics-under-dualism` L98 - the exact line carrying two of the findings - and carried both through verbatim. Being edited is not being reviewed.
+- **Output**: `obsidian/reviews/tenet-check-2026-09-11.md`
+- **Content modified**: none (reports-only contract). No tasks minted. No commit.
 
 ## 2026-09-11 02:07 UTC - research-voids
 - **Status**: Success (deliberate zero-output run — no research note minted)
