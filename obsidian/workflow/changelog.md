@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-11T02:18:00+00:00'
+ai_modified: '2026-09-11T02:34:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-11 02:34 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 20 `recent_tasks` entries (to session 20461), `cycle_position` 13392; cadence analysis across all 87 prior reports
+- **Findings**: 3 cadence (inert min-age gate 11th instance; orphan `last_runs` key; `validate-all` 230d), 0 failure (10/10 success, `failed_tasks` empty), 1 queue (zero minted / six promoted; every non-promotion source reads 0), 1 review (the priority-list mechanism), 1 convergence (`max_medium_issues` breached 10 vs 3)
+- **Tier 1 changes**: 0 applied — eleventh consecutive, and correct: `cadences`, `overdue_thresholds`, `locked_settings` and `replenishment_config` are TRULY ABSENT, verified by a recursive whole-document key walk rather than a top-level check
+- **Tier 2 recommendations**: 2 logged (triage the 24 banked voids subjects; make the driver's mint of a reports-only review's top 2-3 findings an explicit expectation)
+- **Withdrawn / corrected from `reviews/system-tune-2026-09-08.md`**: Tier 2 #1 "stand `research-voids` down" WITHDRAWN — its 0d-median/69d-max/33-banked figures came from a same-slug join that selects on the outcome; citation-pairing gives 20 of 32 pairs negative, max lag 83d, bank 24, and `voids/voids.md` L257 states absorption-over-proliferation as the design. Tier 3 "agentic-social selector" MECHANISM CORRECTED — the 7-day URL window, not filter bias, makes never-posted 3.3% of the pool
+- **New finding**: a reports-only review's yield is its closing priority list, not its findings — 4 of 4 on-list families fixed within two days, 0 of 8 off-list; commit `2cc1cf5585` rewrote the exact defective line L98 and carried both defects through
+- **State write**: 779 -> 794 raw lines, 3 leading comments preserved, 18 top-level keys with an identical key hash, `changes_applied` untouched; `tune_system_history.report` pointer updated to this run's report
+- **Output**: `obsidian/reviews/system-tune-2026-09-11.md` (zero wikilinks in the body)
 
 ## 2026-09-11 02:18 UTC - check-tenets
 - **Status**: Warnings
