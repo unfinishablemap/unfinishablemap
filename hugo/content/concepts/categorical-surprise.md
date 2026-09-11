@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-09-10 23:06:54+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-11 21:06:15+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[predictive-processing]]'
@@ -20,8 +20,8 @@ description: When expectation fails not at the level of prediction but at the le
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-21 00:00:00+00:00
-lastmod: 2026-09-10 23:06:54+00:00
+last_deep_review: 2026-09-11 21:06:15+00:00
+lastmod: 2026-09-11 21:06:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,7 +62,7 @@ The demanding conjunct is the second—moving from a global misfit signal to a r
 
 Bayesian nonparametric methods (Dirichlet process mixtures, Indian buffet processes) might seem to address this: they expand model complexity as data demands, adding new clusters or features without a predefined limit. But they expand within a fixed *kind* of model—adding more Gaussian components, for instance—rather than recognising that the entire modelling approach is wrong. The hypothesis space grows quantitatively; it does not restructure categorically. A Dirichlet process that models vehicle types can add new vehicle categories indefinitely, but it cannot recognise that "vehicle" is the wrong ontology for what it is encountering.
 
-This limitation is not merely practical, though the formal results usually enlisted here license less than they are often taken to. Tarski's undefinability theorem establishes that a formal language cannot define its own truth predicate; Gödel's incompleteness theorems show that sufficiently powerful formal systems cannot prove all truths about themselves from within. What both bound is *completeness*. Neither shows that a system cannot notice its own limits, and Gödel's theorems are the standing case to the contrary: they were proved from inside mathematics, and a sufficiently strong system can prove of itself that it is incomplete if it is consistent. What no system can do is represent its own boundaries completely, since a perfect model of those boundaries would itself have to fall within the space being bounded, and the regress does not terminate.
+This limitation is not merely practical, though the formal results usually enlisted here license less than they are often taken to. Tarski's undefinability theorem establishes that a formal language cannot define its own truth predicate; Gödel's incompleteness theorems show that sufficiently powerful formal systems cannot prove all truths about themselves from within. What both bound is *completeness*. Neither shows that a system cannot notice its own limits, and Gödel's theorems are the standing case to the contrary: they were proved from inside mathematics, and a sufficiently strong system can prove of itself that if it is consistent then it is incomplete. What no system can do is represent its own boundaries completely, since a perfect model of those boundaries would itself have to fall within the space being bounded, and the regress does not terminate.
 
 So the theorems deliver the bound the argument above needs, and no more. A system can register that its boundaries lie somewhere; it cannot map them. Mapping them is what restructuring would require, since a new framework has to be built out of what lies on the far side.
 
@@ -90,7 +90,7 @@ The connection runs both directions. Creative acts produce categorical surprise 
 
 ## Why Categorical Surprise Matters for Consciousness
 
-Categorical surprise provides a specific test case for the [explanatory-gap](/concepts/explanatory-gap/) (Chalmers 1996). Ordinary surprise is computationally tractable: prediction error signals, model updating, precision weighting. But categorical surprise—the recognition that one's entire framework is inadequate—resists this treatment for structural reasons, not merely because we lack better models.
+Categorical surprise provides a specific test case for the [explanatory-gap](/concepts/explanatory-gap/) (Chalmers 1996). Ordinary surprise is computationally tractable: prediction error signals, model updating, precision weighting. But categorical surprise—the restructuring that has to follow recognition that one's entire framework is inadequate—resists this treatment for structural reasons, not merely because we lack better models.
 
 If consciousness is what enables framework transcendence—the capacity to recognise and reorganise one's own representational boundaries—then categorical surprise is consciousness caught in the act. It is one of the more vivid pieces of evidence for irreducible [phenomenal-consciousness](/concepts/phenomenal-consciousness/), because the phenomenal character (vertigo, free-fall, the click of new understanding) correlates with a cognitive achievement (framework revision) that has no adequate computational account.
 
@@ -112,7 +112,7 @@ That claim is priced too. The Map cannot show that no future quantitative measur
 
 ## What Would Challenge This View?
 
-The Map's treatment of categorical surprise would be undermined by several possible findings. If Bayesian nonparametric or active inference models were shown to detect their own framework inadequacy—not merely to expand quantitatively but to recognise categorical insufficiency and restructure accordingly—the computational impossibility claim would fail. If careful phenomenological studies revealed that the subjective character of categorical surprise reduces to high-intensity ordinary surprise with no qualitative discontinuity, the distinction itself would be deflated. And if artificial systems demonstrated genuine categorical surprise—recognising and transcending their own representational limits without anything plausibly described as consciousness—the link between framework transcendence and [phenomenal-consciousness](/concepts/phenomenal-consciousness/) would be severed. None of these findings currently exists, but specifying them ensures the argument remains falsifiable rather than merely philosophical.
+The Map's treatment of categorical surprise would be undermined by several possible findings. If Bayesian nonparametric or active inference models were shown to repair their own framework inadequacy—not merely to register global misfit or expand quantitatively, but to recognise categorical insufficiency and restructure accordingly—the computational impossibility claim would fail. If careful phenomenological studies revealed that the subjective character of categorical surprise reduces to high-intensity ordinary surprise with no qualitative discontinuity, the distinction itself would be deflated. And if artificial systems demonstrated genuine categorical surprise—recognising and transcending their own representational limits without anything plausibly described as consciousness—the link between framework transcendence and [phenomenal-consciousness](/concepts/phenomenal-consciousness/) would be severed. None of these findings currently exists, but specifying them ensures the argument remains falsifiable rather than merely philosophical.
 
 ## Further Reading
 

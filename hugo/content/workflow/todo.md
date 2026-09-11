@@ -39,12 +39,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `voids/self-transcendence-void` L52 attributes the SAME blog paragraph to McGinn as a direct quotation
+### P3: the McGinn "constitutionally unable" fabrication originates in two research notes that present it under a `**Quote**:` label
 - **Type**: refine-draft
-- **File**: obsidian/voids/self-transcendence-void.md
+- **File**: obsidian/research/voids-self-transcendence-void-2026-03-18.md
 - **Status**: pending
-- **Notes**: Sibling of the `affective-void` L76 fabrication, reported by the same 2026-09-11 optimistic review and out of its contract (neighbouring file). **L52 verbatim, verified on disk**: `Colin McGinn argues that human cognitive faculties are "constitutionally unable to grasp how physical processes in the brain give rise to subjective experience." This is not temporary ignorance but permanent structural limitation—like trying to see ultraviolet light.` **Two problems, and this locus is the worse of the pair**: `constitutionally unable` is **0** in McGinn 1989 (his actual phrase is "constitutionally lack the concept-forming capacity"), and the same casacarlini.com paragraph supplies the ultraviolet line, here carried as *unquoted* prose. So one blog paragraph has seeded two live articles — one quoting sentence A, one quoting sentence B, neither in McGinn. Live in both trees. **Fix**: replace the quotation with McGinn's actual wording or de-quote to paraphrase, and drop or re-source the ultraviolet analogy. Measure the host's length before editing — do not assume headroom.
-- **Source**: optimistic-review (sibling locus, out-of-contract report)
+- **Notes**: Origin trace completed 2026-09-11 after fixing the two live loci (`voids/affective-void` L76, `voids/self-transcendence-void` L52). **Measured corpus-wide** (`constitutionally unable`, excluding `workflow/` and `reviews/`): **27 files**, of which **25 are unquoted house paraphrase** — the Map's own standard phrasing for cognitive closure, e.g. `apex/taxonomy-of-voids:103`, `concepts/mysterianism:3`, `topics/hard-problem-of-consciousness:227`. **No live-article sweep is warranted and a delete-sweep would damage sound prose.** Exactly **two** loci present it as a quotation, both research notes: (1) **`research/voids-self-transcendence-void-2026-03-18.md:51`** carries `- **Quote**: "The structure of our minds is constitutionally unable to grasp how physical processes in t[he brain]…"` — this is the **seed note for the article fixed today**, and the `**Quote**:` label is how the fabrication propagated into live prose; (2) `research/voids-apophatic-approaches-2026-01-10.md:61` carries `Our minds are "constitutionally unable to grasp how physical processes give…"`. ⚠️ **Neither string is in McGinn 1989** — the optimistic review of 2026-09-11 grepped the raw PDF (61,197 chars) and found `constitutionally unable` 0 against positive controls `cognitive closure` **13** and `concept-forming` **8**; the wording traces to a casacarlini.com blog paragraph. **Fix**: in both notes, demote the `**Quote**:` label to an attributed paraphrase and add a **dated annotation** recording the correction — do **not** silently rewrite. A dated research note is a snapshot of what was believed then, and the annotation is what stops it re-seeding; this is the same treatment applied to `research/kabbalah-tzimtzum-consciousness-matter-2026-07-07.md` earlier today. **Do not touch the 25 paraphrase loci.** The live prose is already fixed: `constitutionally unable` is now 0 in both trees of both articles.
+- **Source**: refine-draft (origin trace)
 - **Generated**: 2026-09-11
 
 ### P2: `voids/appetitive-void` L110 asserts the dualist reading unhedged after supplying the physicalist redescription itself
@@ -1969,6 +1969,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-11: `voids/self-transcendence-void` L52 attributes the SAME blog paragraph to McGinn as a direct quotation
+- **Type**: refine-draft
+- **File**: obsidian/voids/self-transcendence-void.md
+- **Notes**: Sibling of the `affective-void` L76 fabrication, reported by the same 2026-09-11 optimistic review and out of its contract (neighbouring file). **L52 verbatim, verified on disk**: `Colin McGinn argues that human cognitive faculties are "constitutionally unable to grasp how physical processes in the brain give rise to subjective experience." This is not temporary ignorance but permanent structural limitation—like trying to see ultraviolet light.` **Two problems, and this locus is the worse of the pair**: `constitutionally unable` is **0** in McGinn 1989 (his actual phrase is "constitutionally lack the concept-forming capacity"), and the same casacarlini.com paragraph supplies the ultraviolet line, here carried as *unquoted* prose. So one blog paragraph has seeded two live articles — one quoting sentence A, one quoting sentence B, neither in McGinn. Live in both trees. **Fix**: replace the quotation with McGinn's actual wording or de-quote to paraphrase, and drop or re-source the ultraviolet analogy. Measure the host's length before editing — do not assume headroom.
 
 ### ✓ 2026-09-11: `voids/affective-void` L76 quotes a blog's prose as Colin McGinn — the sentence is absent from McGinn 1989, the only McGinn work it cites
 - **Type**: refine-draft
