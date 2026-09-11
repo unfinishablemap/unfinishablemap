@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-12
-ai_modified: 2026-09-11 17:52:06+00:00
+ai_modified: 2026-09-11 18:10:22+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-13 16:09:47+00:00
-lastmod: 2026-09-11 17:52:06+00:00
+lastmod: 2026-09-11 18:10:22+00:00
 modified: *id001
 related_articles:
 - '[[objectivity-and-consciousness]]'
@@ -103,7 +103,7 @@ Methodological monism—the insistence on a single authoritative method—has be
 
 **Third-person monism** (heterophenomenology) systematically brackets the reality of phenomenal experience, treating first-person reports as behavioral data rather than evidence about consciousness itself. Dennett insists his method is genuinely neutral—fair to all first-person claims without presupposing their ontological status. But as the Map argues in its treatment of [heterophenomenology](/concepts/heterophenomenology/), this official neutrality functions as covert eliminativism. A method that treats "I am in pain" as equivalent to "the subject claims to be in pain" has already decided that phenomenal facts are not among the data. If phenomenal consciousness is real, methods that bracket its reality cannot be adequate.
 
-**First-person monism** fails in the opposite direction. Wundt and Titchener's introspective laboratories invested heavily in trained observers following rigorous protocols—yet different schools produced conflicting results on basic questions about the structure of experience. The problem was not lack of training but lack of external constraint: without third-person validation and intersubjective convergence, even disciplined first-person methods cannot resolve disagreements among practitioners. The [phenomenal-contrast-method](/concepts/phenomenal-contrast-method/) represents a more recent attempt to systematize first-person evidence, but even it benefits from third-person corroboration.
+**First-person monism** fails in the opposite direction. The [imageless-thought controversy](/voids/imagery-void/) (c. 1900–1915) is the standing case: the Würzburg school reported that its observers could complete rapid categorization tasks without any accompanying image. Wundt dismissed those studies as "sham experiments"; Titchener charged "stimulus error." Both objections were pressed by the same introspective method that produced the result. Trained observers and rigorous protocols sat on every side of the dispute; what none could supply was an external check to adjudicate it, and fifteen years of disciplined introspection settled nothing. The [phenomenal-contrast-method](/concepts/phenomenal-contrast-method/) represents a more recent attempt to systematize first-person evidence, but even it benefits from third-person corroboration.
 
 Both failures point toward pluralism: consciousness has aspects accessible only first-personally and aspects accessible only third-personally. A complete methodology must accommodate both.
 
