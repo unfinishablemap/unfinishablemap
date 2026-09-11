@@ -4,7 +4,7 @@ description: "Consciousness research requires multiple methods—first-person, s
 created: 2026-02-12
 modified: 2026-02-12
 human_modified:
-ai_modified: 2026-07-13T16:09:47+00:00
+ai_modified: 2026-09-11T17:52:06+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[ai-consciousness-typology]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-02-12
 last_curated:
 last_deep_review: 2026-07-13T16:09:47+00:00
@@ -92,7 +92,7 @@ Francisco Varela's (1996) [[neurophenomenology-and-contemplative-neuroscience|ne
 
 This bidirectionality means neither method dominates. Phenomenology without neuroscience risks unfalsifiable speculation; neuroscience without phenomenology risks explaining the wrong thing—substituting functional accounts for phenomenal ones without noticing the substitution. The structural shape—two methods whose joint operation makes claims neither alone can support—mirrors the [[conjunction-coalesce]] discipline the Map applies elsewhere: where the seam between two analytical faces is load-bearing, dissolving it discards information the conjunction itself provides. Mutual constraint is methodological pluralism's analogue of that move at the level of consciousness research rather than editorial practice.
 
-[[contemplative-practice-as-philosophical-evidence|Contemplative neuroscience]] demonstrates mutual constraint in action. Trained meditators report specific attentional states; neuroscientists find these states correlate with distinct neural patterns—gamma synchrony, default mode network deactivation—as Lutz and Thompson (2003) document in their programmatic articulation of neurophenomenology. Neither finding is achievable by one method alone.
+[[contemplative-practice-as-philosophical-evidence|Contemplative neuroscience]] shows mutual constraint at work. Lutz and Thompson (2003) articulated the programme—pair disciplined first-person reports with concurrent neural measurement—and the meditation literature supplies the cases. Lutz et al. (2004) recorded EEG while long-term practitioners self-induced compassion meditation: their gamma-to-slow-wave ratio exceeded controls' at resting baseline and rose far more sharply during practice. Brewer et al. (2011) found meditation experience associated with differences in default mode network activity and connectivity. Both are between-group comparisons, so what they establish is correspondence between a reported practice and a neural measure rather than prediction of specific signatures from specific reports. The constraint still runs both ways: which state a practitioner has entered is fixed by report and protocol rather than read off the scan, while the neural measure supplies a check the report cannot supply for itself. The gamma result is the sharpest case—its gradual rise matched practitioners' reports that entering the state takes five to fifteen seconds, a correspondence neither method establishes alone.
 
 ## Why Monism Fails
 
@@ -139,6 +139,8 @@ The Map speculates that methodological pluralism may be more than a practical ne
 
 ## References
 
+Brewer, J. A., Worhunsky, P. D., Gray, J. R., Tang, Y.-Y., Weber, J., & Kober, H. (2011). "Meditation experience is associated with differences in default mode network activity and connectivity." *Proceedings of the National Academy of Sciences*, 108(50), 20254-20259.
+
 Husserl, E. (1913/1982). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy—First Book*. Trans. F. Kersten. The Hague: Nijhoff.
 
 Husserl, E. (1931/1960). *Cartesian Meditations*. Trans. D. Cairns. The Hague: Nijhoff.
@@ -146,6 +148,8 @@ Husserl, E. (1931/1960). *Cartesian Meditations*. Trans. D. Cairns. The Hague: N
 Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354-361.
 
 Lutz, A., & Thompson, E. (2003). "Neurophenomenology: Integrating Subjective Experience and Brain Dynamics in the Neuroscience of Consciousness." *Journal of Consciousness Studies*, 10(9-10), 31-52.
+
+Lutz, A., Greischar, L. L., Rawlings, N. B., Ricard, M., & Davidson, R. J. (2004). "Long-term meditators self-induce high-amplitude gamma synchrony during mental practice." *Proceedings of the National Academy of Sciences*, 101(46), 16369-16373.
 
 Merleau-Ponty, M. (1945/1962). *Phenomenology of Perception*. Trans. C. Smith. London: Routledge & Kegan Paul.
 

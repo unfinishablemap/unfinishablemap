@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `concepts/methodological-pluralism` L95 credits Lutz & Thompson (2003) with meditator gamma synchrony and default-mode deactivation — a programmatic paper that reports neither
-- **Type**: refine-draft
-- **File**: obsidian/concepts/methodological-pluralism.md
-- **Status**: pending
-- **Notes**: From `reviews/pessimistic-2026-09-11-methodological-pluralism.md` (finding 1, its sharpest). L95 reads: "neuroscientists find these states correlate with distinct neural patterns—gamma synchrony, default mode network deactivation—as Lutz and Thompson (2003) document in their programmatic articulation of neurophenomenology." The reviewer pulled the full text from the author's own copy (evanthompson.me), confirmed completeness by running head (*JCS* 10, No. 9–10, pp. 31–52) and terminal reference list, and grepped: **`default mode` → 0**; `gamma` → 3, all in a visual-preparation paradigm in *ordinary subjects trained to report* (the Lutz et al. 2002 pilot), not meditators; `meditat` → 5, three of them passing mentions of contemplative traditions as a source of *methods*. **The paper reports no meditation result at all.** Chronology corroborates independently: the default-mode network was only characterised in 2001 and the meditation-DMN result is Brewer et al. (2011) — a 2003 programmatic paper cannot carry it. **Corpus canon**: Brewer appears in 9 content files, Lutz 62 times; a prior review already re-attributed this same defect on a sibling article, flagging "ordinary subjects trained to report, not contemplatives" — L95 is the unswept instance. **Fix**: re-attribute the two empirical findings (Brewer et al. 2011 for DMN deactivation, Lutz et al. 2004 for meditator gamma) adding two reference lines, **or** rescope the sentence to the programmatic claim Lutz & Thompson actually make. **Keep the Lutz & Thompson reference** — it is real and cited soundly elsewhere. Why five prior reviews missed it: `deep-review-2026-07-13-methodological-pluralism.md:28` certified it "real-correct… In-text anchor present" — accurate *metadata* certification that never asked whether the source supports the sentence.
-- **Source**: pessimistic-review
-- **Generated**: 2026-09-11
-
 ### P2: `concepts/methodological-pluralism` L103 groups Wundt with Titchener as failing for "lack of external constraint" — the corpus's own note has Wundt making exactly that objection
 - **Type**: refine-draft
 - **File**: obsidian/concepts/methodological-pluralism.md
@@ -1957,6 +1949,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-11: `concepts/methodological-pluralism` L95 credits Lutz & Thompson (2003) with meditator gamma synchrony and default-mode deactivation — a programmatic paper that reports neither
+- **Type**: refine-draft
+- **File**: obsidian/concepts/methodological-pluralism.md
+- **Notes**: From `reviews/pessimistic-2026-09-11-methodological-pluralism.md` (finding 1, its sharpest). L95 reads: "neuroscientists find these states correlate with distinct neural patterns—gamma synchrony, default mode network deactivation—as Lutz and Thompson (2003) document in their programmatic articulation of neurophenomenology." The reviewer pulled the full text from the author's own copy (evanthompson.me), confirmed completeness by running head (*JCS* 10, No. 9–10, pp. 31–52) and terminal reference list, and grepped: **`default mode` → 0**; `gamma` → 3, all in a visual-preparation paradigm in *ordinary subjects trained to report* (the Lutz et al. 2002 pilot), not meditators; `meditat` → 5, three of them passing mentions of contemplative traditions as a source of *methods*. **The paper reports no meditation result at all.** Chronology corroborates independently: the default-mode network was only characterised in 2001 and the meditation-DMN result is Brewer et al. (2011) — a 2003 programmatic paper cannot carry it. **Corpus canon**: Brewer appears in 9 content files, Lutz 62 times; a prior review already re-attributed this same defect on a sibling article, flagging "ordinary subjects trained to report, not contemplatives" — L95 is the unswept instance. **Fix**: re-attribute the two empirical findings (Brewer et al. 2011 for DMN deactivation, Lutz et al. 2004 for meditator gamma) adding two reference lines, **or** rescope the sentence to the programmatic claim Lutz & Thompson actually make. **Keep the Lutz & Thompson reference** — it is real and cited soundly elsewhere. Why five prior reviews missed it: `deep-review-2026-07-13-methodological-pluralism.md:28` certified it "real-correct… In-text anchor present" — accurate *metadata* certification that never asked whether the source supports the sentence.
 
 ### ✓ 2026-09-11: `topics/phenomenology-of-cognitive-capacity` L139 certifies Tenet 3 from felt effort — "feels effortful because consciousness is doing real work … suggests the effort is causally efficacious" — against P-A4 (credence high); same family as the two 08-27 intellectual-life P3s, and its only empirical anchor is Ericsson 1993 stated as if the 2014 meta-analysis did not exist
 - **Type**: refine-draft
