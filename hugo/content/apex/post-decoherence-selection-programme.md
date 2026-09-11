@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-09-11 08:19:50+00:00
+ai_modified: 2026-09-11 09:40:06+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 apex_last_synthesis: 2026-07-18 21:02:00+00:00
 apex_sources:
@@ -42,7 +42,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 21:02:00+00:00
-lastmod: 2026-09-11 08:19:50+00:00
+lastmod: 2026-09-11 09:40:06+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -94,7 +94,7 @@ The *probabilities are fixed*—by a separate Zurek result: [envariance](/concep
 
 *Agreement is guaranteed*. Because environmental fragments carry redundant information about the selected outcome, all subsequent observers will agree. Consciousness need not synchronise multiple observations—quantum Darwinism handles intersubjective agreement automatically.
 
-These constraints clarify why the Map's proposal is one of minimal interaction *at the [point of selection](/concepts/post-decoherence-selection/)*—a minimality that does not extend to the background, which objective reduction already renders non-unitary. Zurek's programme has done the heavy lifting—einselection fixing the basis, envariance grounding the probabilities, quantum Darwinism's redundancy securing objectivity—three distinct arguments, not one result. What remains for consciousness is the single act of actualisation: determining which pointer state obtains. The intervention is as small as it could be while still genuine—requiring no energy injection, consistent with [conservation law constraints](/concepts/conservation-laws-and-mental-causation/). The channel-theoretic formalisation of this minimality — the per-event log₂(N) ceiling, Born-preservation of the unconditioned long-run marginal, and the content-confinement bound on phenomenal repertoire — is developed in [selection-only-channel](/concepts/selection-only-channel/), with the parent topic [selection-only-mind-influence](/topics/selection-only-mind-influence/) carrying the empirical signature corridor and distinguishing observables. The programme's "minimal intervention" is the channel-class commitment those articles characterise.
+These constraints clarify why the Map's proposal is one of minimal interaction *at the [point of selection](/concepts/post-decoherence-selection/)*—a minimality that does not extend to the background, which objective reduction already renders non-unitary. Zurek's programme has done the heavy lifting—einselection fixing the basis, envariance grounding the probabilities, quantum Darwinism's redundancy securing objectivity—three distinct arguments, not one result. What remains for consciousness is the single act of actualisation: determining which pointer state obtains. The intervention is as small as it could be while still genuine, and injects no energy by stipulation rather than derivation: selection on an improper mixture modifies the dynamics, leaving [conservation-law](/concepts/conservation-laws-and-mental-causation/) consistency open. The channel-theoretic formalisation of this minimality — the per-event log₂(N) ceiling, Born-preservation of the unconditioned long-run marginal, and the content-confinement bound on phenomenal repertoire — is developed in [selection-only-channel](/concepts/selection-only-channel/), with the parent topic [selection-only-mind-influence](/topics/selection-only-mind-influence/) carrying the empirical signature corridor and distinguishing observables. The programme's "minimal intervention" is the channel-class commitment those articles characterise.
 
 ### The Bias-Without-Deviation Dilemma [Open]
 
@@ -142,7 +142,7 @@ Even granting that consciousness selects among post-decoherence outcomes, a scal
 
 *Self-organised criticality* provides the second stage. Neural tissue operates near a critical point where perturbations of all sizes can occur, following power-law distributions. At criticality, a signal at one scale has a non-negligible probability of propagating to much larger scales. The molecular signal from stochastic resonance can trigger avalanches spanning cortical columns or whole networks—bridging from molecular to network scale.
 
-*Threshold-crossing dynamics* complete the chain. Multiple potential actions compete within neural populations until one reaches a decision threshold. In drift-diffusion models, a small bias in the accumulation rate—even one originating from a quantum-level influence—changes which option wins the race to threshold. The commitment point occurs roughly 280 milliseconds before movement onset (Thura & Cisek 2014), marking where a quantum-level bias would register—though their urgency-gated model is fully physicalist and derives that timing with no quantum input.
+*Threshold-crossing dynamics* complete the chain. In drift-diffusion models, a small bias in the accumulation rate—even one originating from a quantum-level influence—changes which option wins the race to threshold. The commitment point occurs roughly 280 milliseconds before movement onset (Thura & Cisek 2014), marking where a quantum-level bias would register—though their urgency-gated model is fully physicalist and derives that timing with no quantum input.
 
 No single stage bridges the full twelve orders of magnitude. Each contributes a factor, and together they provide a plausible causal pathway from minimal quantum bias to macroscopic behaviour. The chain is robust precisely because each stage exploits noise rather than fighting it—an architecture consistent with [evolutionary optimisation](/topics/evolutionary-case-for-quantum-neural-effects/) of quantum neural effects.
 
