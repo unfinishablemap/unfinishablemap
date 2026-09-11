@@ -159,7 +159,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### P3: `apex/born-preserving-causal-efficacy` — DEFERRED REMAINDER: install the trajectory-level closure debt (ChatGPT 2026-09-02 §1.1) once the apex has length headroom
 - **Type**: refine-draft
 - **File**: obsidian/apex/born-preserving-causal-efficacy.md
-- **Status**: pending
+- **Status**: blocked
+- **Blocked-by**: the apex length ceiling — `analyze_length` re-measured 2026-09-11 at **5144w against apex hard 5000 (144 over)**, and the ~200-250-word install cannot fit while the loop is barred from condensing here by the standing `#veto` precedent. Measured across every commit since the 2026-09-02 deferral the file has moved **+1 word** (5143 → 5144), so this never converges on its own. **Restore `Status: pending` and delete this field once a human length decision frees room** — mirrors the `Blocked-by` pattern on the `topics/basal-and-bioelectric-cognition` deferrals. Was left at `Status: pending` from 2026-09-02, which is why `tools/todo/processor.py:412` (`status == PENDING and not blocked_by`) kept returning it and it consumed two consecutive queue slots on 2026-09-11 producing only a re-deferral.
 - **Source**: outer-review (deferred remainder of the 2026-09-02 §1.1 P2, deferred same day on length per that task's explicit rule)
 - **Review file**: `reviews/outer-review-2026-09-02-chatgpt-5-6-sol-pro.md`
 - **Generated**: 2026-09-02
