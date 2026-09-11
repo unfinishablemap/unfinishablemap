@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: `concepts/methodological-pluralism` L95 rests "mutual constraint in action" on correspondence; Lutz et al. (2002) is the actual report-to-neural mapping study
-- **Type**: refine-draft
-- **File**: obsidian/concepts/methodological-pluralism.md
-- **Status**: pending
-- **Notes**: Upgrade identified *during* the 2026-09-11 execution of the L95 re-sourcing task, by the fork that did it, and deliberately left out of scope there. L95 now cites Brewer et al. (2011) and Lutz et al. (2004) with an explicit cap — "correspondence between a reported practice and a neural measure rather than prediction of specific signatures from specific reports" — inherited from `concepts/neurophenomenology-and-contemplative-neuroscience` L132. That cap is honest but it means the paragraph's "mutual constraint **in action**" claim now rests on correspondence plus a both-ways argument, not on a mapping result, because **both cited studies are between-group comparisons**. `reviews/deep-review-2026-07-31-contemplative-practice-as-philosophical-evidence.md` identifies the study that *does* map reports onto neural data: it clustered trials by subjects' own verbal reports and found pre-stimulus synchrony patterns that trial-averaging loses. **Crossref-verified 2026-09-11**, DOI `10.1073/pnas.032658199`: Lutz, A., Lachaux, J.-P., Martinerie, J., & Varela, F. J. (2002). "Guiding the study of brain dynamics by using first-person data: Synchrony patterns correlate with ongoing conscious states during a simple visual task." *Proceedings of the National Academy of Sciences*, 99(3), 1586-1591. ⚠️ **Scope caveat that must travel with it**: its subjects were *ordinary subjects trained to report*, not contemplatives — so it strengthens the mutual-constraint claim while weakening the contemplative framing, and the sentence must say so. A prior review flagged exactly this when using it. **Fix**: one clause plus one alphabetical reference entry (the list is unnumbered with zero body cross-references, so nothing renumbers — insert after Lutz & Thompson 2003 and before Lutz et al. 2004). **Length**: 2323/2500 soft, 177 of headroom, so keep it tight or accept crossing soft.
-- **Source**: refine-draft (execution spillover)
-- **Generated**: 2026-09-11
-
 ### P3: `concepts/methodological-pluralism` L37 states pluralism as a "direct consequence of" dualism; only the negative half is an entailment
 - **Type**: refine-draft
 - **File**: obsidian/concepts/methodological-pluralism.md
@@ -1949,6 +1941,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-11: `concepts/methodological-pluralism` L95 rests "mutual constraint in action" on correspondence; Lutz et al. (2002) is the actual report-to-neural mapping study
+- **Type**: refine-draft
+- **File**: obsidian/concepts/methodological-pluralism.md
+- **Notes**: Upgrade identified *during* the 2026-09-11 execution of the L95 re-sourcing task, by the fork that did it, and deliberately left out of scope there. L95 now cites Brewer et al. (2011) and Lutz et al. (2004) with an explicit cap — "correspondence between a reported practice and a neural measure rather than prediction of specific signatures from specific reports" — inherited from `concepts/neurophenomenology-and-contemplative-neuroscience` L132. That cap is honest but it means the paragraph's "mutual constraint **in action**" claim now rests on correspondence plus a both-ways argument, not on a mapping result, because **both cited studies are between-group comparisons**. `reviews/deep-review-2026-07-31-contemplative-practice-as-philosophical-evidence.md` identifies the study that *does* map reports onto neural data: it clustered trials by subjects' own verbal reports and found pre-stimulus synchrony patterns that trial-averaging loses. **Crossref-verified 2026-09-11**, DOI `10.1073/pnas.032658199`: Lutz, A., Lachaux, J.-P., Martinerie, J., & Varela, F. J. (2002). "Guiding the study of brain dynamics by using first-person data: Synchrony patterns correlate with ongoing conscious states during a simple visual task." *Proceedings of the National Academy of Sciences*, 99(3), 1586-1591. ⚠️ **Scope caveat that must travel with it**: its subjects were *ordinary subjects trained to report*, not contemplatives — so it strengthens the mutual-constraint claim while weakening the contemplative framing, and the sentence must say so. A prior review flagged exactly this when using it. **Fix**: one clause plus one alphabetical reference entry (the list is unnumbered with zero body cross-references, so nothing renumbers — insert after Lutz & Thompson 2003 and before Lutz et al. 2004). **Length**: 2323/2500 soft, 177 of headroom, so keep it tight or accept crossing soft.
 
 ### ✓ 2026-09-11: `concepts/methodological-pluralism` L103 groups Wundt with Titchener as failing for "lack of external constraint" — the corpus's own note has Wundt making exactly that objection
 - **Type**: refine-draft

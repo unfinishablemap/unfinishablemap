@@ -4,7 +4,7 @@ description: "Consciousness research requires multiple methods—first-person, s
 created: 2026-02-12
 modified: 2026-02-12
 human_modified:
-ai_modified: 2026-09-11T18:10:22+00:00
+ai_modified: 2026-09-11T19:03:42+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
@@ -92,7 +92,7 @@ Francisco Varela's (1996) [[neurophenomenology-and-contemplative-neuroscience|ne
 
 This bidirectionality means neither method dominates. Phenomenology without neuroscience risks unfalsifiable speculation; neuroscience without phenomenology risks explaining the wrong thing—substituting functional accounts for phenomenal ones without noticing the substitution. The structural shape—two methods whose joint operation makes claims neither alone can support—mirrors the [[conjunction-coalesce]] discipline the Map applies elsewhere: where the seam between two analytical faces is load-bearing, dissolving it discards information the conjunction itself provides. Mutual constraint is methodological pluralism's analogue of that move at the level of consciousness research rather than editorial practice.
 
-[[contemplative-practice-as-philosophical-evidence|Contemplative neuroscience]] shows mutual constraint at work. Lutz and Thompson (2003) articulated the programme—pair disciplined first-person reports with concurrent neural measurement—and the meditation literature supplies the cases. Lutz et al. (2004) recorded EEG while long-term practitioners self-induced compassion meditation: their gamma-to-slow-wave ratio exceeded controls' at resting baseline and rose far more sharply during practice. Brewer et al. (2011) found meditation experience associated with differences in default mode network activity and connectivity. Both are between-group comparisons, so what they establish is correspondence between a reported practice and a neural measure rather than prediction of specific signatures from specific reports. The constraint still runs both ways: which state a practitioner has entered is fixed by report and protocol rather than read off the scan, while the neural measure supplies a check the report cannot supply for itself. The gamma result is the sharpest case—its gradual rise matched practitioners' reports that entering the state takes five to fifteen seconds, a correspondence neither method establishes alone.
+Neurophenomenology shows mutual constraint at work, and [[contemplative-practice-as-philosophical-evidence|contemplative neuroscience]] supplies most of the cases that follow. Lutz and Thompson (2003) articulated the programme—pair disciplined first-person reports with concurrent neural measurement. Lutz et al. (2004) recorded EEG while long-term practitioners self-induced compassion meditation: their gamma-to-slow-wave ratio exceeded controls' at resting baseline and rose far more sharply during practice. Brewer et al. (2011) found meditation experience associated with differences in default mode network activity and connectivity. Both are between-group comparisons, so what they establish is correspondence between a reported practice and a neural measure rather than prediction of specific signatures from specific reports. The study that does map specific reports onto specific neural patterns sits outside the contemplative literature: Lutz, Lachaux, Martinerie, and Varela (2002) clustered trials by subjects' own reports of their preparatory state before a three-dimensional visual illusion and recovered frontal pre-stimulus synchrony patterns that trial-averaging discards—but its subjects were ordinary volunteers trained to report rather than contemplatives. The programme has therefore produced a mapping result while its contemplative branch has so far produced correspondence. The constraint still runs both ways: which state a practitioner has entered is fixed by report and protocol rather than read off the scan, while the neural measure supplies a check the report cannot supply for itself. The gamma result is the sharpest case—its gradual rise matched practitioners' reports that entering the state takes five to fifteen seconds, a correspondence neither method establishes alone.
 
 ## Why Monism Fails
 
@@ -146,6 +146,8 @@ Husserl, E. (1913/1982). *Ideas Pertaining to a Pure Phenomenology and to a Phen
 Husserl, E. (1931/1960). *Cartesian Meditations*. Trans. D. Cairns. The Hague: Nijhoff.
 
 Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354-361.
+
+Lutz, A., Lachaux, J.-P., Martinerie, J., & Varela, F. J. (2002). "Guiding the study of brain dynamics by using first-person data: Synchrony patterns correlate with ongoing conscious states during a simple visual task." *Proceedings of the National Academy of Sciences*, 99(3), 1586-1591.
 
 Lutz, A., & Thompson, E. (2003). "Neurophenomenology: Integrating Subjective Experience and Brain Dynamics in the Neuroscience of Consciousness." *Journal of Consciousness Studies*, 10(9-10), 31-52.
 

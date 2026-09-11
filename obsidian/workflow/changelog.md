@@ -5,6 +5,17 @@ ai_modified: '2026-09-11T18:39:27+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-11 19:03 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/methodological-pluralism]]
+- **Scope**: L95 (mutual-constraint paragraph) and its References entry only. The L37 entailment split (P3) and the L103 Wundt fix were left untouched.
+- **Changes**: Added **Lutz, Lachaux, Martinerie & Varela (2002)** (PNAS 99(3), 1586-1591; Crossref-verified at DOI `10.1073/pnas.032658199` — four authors, no fifth; abstract re-read at Europe PMC before use) so the "mutual constraint in action" claim rests on a study that maps *specific reports* onto *specific neural patterns*. The paragraph previously cited only Lutz et al. (2004) and Brewer et al. (2011), both between-group comparisons, and said so.
+- **Scope caveat travelled with the citation**: the 2002 subjects were ordinary volunteers trained to report, not contemplatives. Because the paragraph's opening attributed the demonstration to contemplative neuroscience and asserted that "the meditation literature supplies the cases", one clause was **not** sufficient — an ordinary-subjects study would have silently propped up a sentence about meditators. The opening claim was therefore adjusted too: the demonstration is now attributed to neurophenomenology as a programme, with contemplative neuroscience supplying "most of the cases that follow", and a summary sentence states the honest split — "the programme has therefore produced a mapping result while its contemplative branch has so far produced correspondence."
+- **Reference placement**: first among the three Lutz entries (2002 → 2003 → 2004). Within a lead author this list orders chronologically by year, not alphabetically by second author; the two Husserl entries (1913/1982 then 1931/1960) confirm the convention. The list is unnumbered with zero body numeric cross-references, so nothing renumbered.
+- **Length**: 2350 → 2469 words (+119), status `ok`, 31 words below the 2500 soft threshold for `concepts/`. Under soft on both sides of the sync.
+- **Corpus source**: [[reviews/deep-review-2026-07-31-contemplative-practice-as-philosophical-evidence]], which added the study to the corpus and ledgered it real-correct.
+- **Published**: yes
+
 ## 2026-09-11 18:39 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/cognitive-integration-and-the-self]]
