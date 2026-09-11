@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-05-27 23:11:39+00:00
-ai_system: claude-sonnet-4-5-20250929
+ai_modified: 2026-09-11 00:20:47+00:00
+ai_system: claude-sonnet-4-5-20250929+claude-opus-5
 author: null
 concepts:
 - '[[binding-problem]]'
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 19:51:37+00:00
-lastmod: 2026-05-27 23:11:39+00:00
+lastmod: 2026-09-11 00:20:47+00:00
 modified: *id001
 related_articles:
 - '[[binding-problem]]'
@@ -112,7 +112,7 @@ Traditional neuroscience proposes synchronous neural firing as the binding mecha
 
 No physical binding mechanism explains *why* synchronized firing feels unified rather than remaining separate processes that happen to correlate. The [explanatory gap](/concepts/explanatory-gap/) appears again: physical descriptions tell us *what* the brain does but not *why* there is something it is like to have integrated experience.
 
-[Phenomenal binding](/concepts/binding-problem/) may not reduce to neural mechanisms. [Phenomenal unity resists physical explanation](/topics/quantum-holism-and-phenomenal-unity/) because even the most complete functional account leaves unexplained why integrated processing feels like anything at all. If consciousness is irreducible, then phenomenal unity is a basic feature of experience—not something constructed from separate phenomenal elements but given as holistic from the start.
+[Phenomenal binding](/concepts/binding-problem/) may not reduce to neural mechanisms. [Phenomenal unity resists physical explanation through classical mechanisms](/topics/quantum-holism-and-phenomenal-unity/) because even the most complete functional account of coordination leaves unexplained why coordinated processing is *one* experience rather than many correlated ones—a claim the Map advances on tenet grounds rather than one the data force. If consciousness is irreducible, then phenomenal unity is a basic feature of experience—not something constructed from separate phenomenal elements but given as holistic from the start.
 
 ## Cognitive Integration Across Time
 
@@ -122,21 +122,21 @@ The self extends beyond the specious present. [Personal identity](/topics/person
 
 [Episodic memory](/concepts/episodic-memory/) binds past experiences to present self-awareness. When you remember your childhood, you don't merely access stored information—you recognize the remembered experience as *yours*. This [autonoetic](/concepts/anoetic-noetic-autonoetic-consciousness/) quality—the capacity for self-knowing consciousness that accompanies episodic recall—is what constitutes autobiographical continuity.
 
-[Memory consolidation](/topics/consciousness-and-memory/) may involve conscious participation. During sleep, especially REM phases, the brain reorganizes recent experiences into long-term storage. The fact that dreams feel conscious suggests that consciousness accompanies—and may participate in—memory integration even during non-waking states. [The phenomenology of memory](/topics/phenomenology-of-memory-and-the-self/) reveals that remembering is not mere information retrieval but a re-encountering of experience as one's own, sustaining the autobiographical thread across time.
+[Memory consolidation](/topics/consciousness-and-memory/) may involve conscious participation. During sleep the brain reorganizes recent experiences into long-term storage. For declarative memory the phase is predominantly slow-wave sleep rather than REM: reactivation of recently encoded representations occurs in slow-wave sleep and transforms them for integration into long-term stores, with ensuing REM sleep proposed to stabilize what has been transformed (Rasch & Born, 2013). That profile weakens an inference the dreaming case invites. Dreams feel conscious, which would suggest that consciousness accompanies—and perhaps participates in—memory integration during non-waking states; but the best-supported consolidation window is the one from which dream reports are sparsest. [The phenomenology of memory](/topics/phenomenology-of-memory-and-the-self/) reveals that remembering is not mere information retrieval but a re-encountering of experience as one's own, sustaining the autobiographical thread across time.
 
 ### Prospective Integration
 
 The self extends forward as well as backward. [Diachronic agency](/topics/diachronic-agency-and-personal-narrative/) is the capacity to author one's future through intention, planning, and commitment. When you form an intention today that will guide action tomorrow, you assume continuity between present self and future self. Life projects, sustained commitments, and long-term plans all depend on prospective integration—the confidence that the person who will carry out these intentions is continuous with the person forming them now.
 
-This prospective dimension matters for [free will](/topics/free-will/). If consciousness can influence future brain states through quantum selection, and if these influences extend across time through memory and intention, then agency becomes temporally thick—not confined to instantaneous choice but woven through life. Each choice shapes the neural substrate for future choices, creating a self-reinforcing pattern where the self is genuinely self-forming across time.
+This prospective dimension matters for [free will](/topics/free-will/). If consciousness can influence future brain states through quantum selection, and if these influences extend across time through memory and intention, then agency would be temporally thick—not confined to instantaneous choice but woven through life, each choice shaping the neural substrate for future choices in a self-reinforcing pattern where the self is self-forming across time. Both conditionals remain live: the quantum-interface argument shows such influence to be *available* rather than actual, and any claim that consciousness does real causal work here inherits the Map's [mechanism debt](/positions/quantum-interface/#mechanism-debt) rather than discharging it. On the register's coherence-only grade, the self-forming picture is a framework-internal consequence, not an established feature of agency.
 
 ## Integration and Indexical Identity
 
-The [vertiginous question](/topics/vertiginous-question/)—"Why am I this particular person?"—reveals something important about cognitive integration. The self is not just unified but *this particular* unified self. [Haecceity](/concepts/haecceity/), or "thisness," is the property that makes this consciousness mine rather than someone else's. [Indexical knowledge](/concepts/indexical-knowledge-and-identity/)—knowledge expressible only as "I," "here," "now"—provides the epistemic counterpart: the self is not merely unified but known from the inside in a way that resists third-person translation. The [vertiginous-question](/topics/vertiginous-question/) marks the cognitive boundary where this first-person identity resists every attempt at explanation—a limit that integration approaches but cannot cross.
+The [vertiginous question](/topics/vertiginous-question/)—"Why am I this particular person?"—reveals something important about cognitive integration. The self is not just unified but *this particular* unified self. [Haecceity](/concepts/haecceity/), or "thisness," is the property that makes this consciousness mine rather than someone else's. [Indexical knowledge](/concepts/indexical-knowledge-and-identity/)—knowledge expressible only as "I," "here," "now"—provides the epistemic counterpart: the self is not merely unified but known from the inside in a way that resists third-person translation.
 
-Cognitive integration constitutes indexical identity. The boundaries of "me" are defined by what integrates into a single experiential stream. Experiences that bind together phenomenally belong to the same self; experiences that do not remain separate selves.
+Two questions are easily run together here, and integration answers only one. The *composition* question asks which experiences fall within a single stream: experiences that bind together phenomenally belong to one stream, those that do not belong to different ones. The *ownership* question asks whose stream this is—why this bounded stream is mine rather than another equally well bounded—and integration does not reach it, because drawing a boundary does not supply the indexical fact the boundary encloses. The Map treats that fact as primitive rather than constructed ([primitive thisness](/concepts/haecceity/); [P-I1](/positions/individuation-and-subjecthood/#p-i1)), which is why no theory of binding closes the vertiginous question.
 
-This has implications for the [No Many Worlds tenet](/tenets/#no-many-worlds). If consciousness splits at every quantum measurement (as Many Worlds proposes), then cognitive integration would fracture—different branches would become different selves. The unity of self requires a single experiential continuity, not branching multiplicities. The indexical question "Why am I *this* branch?" becomes unanswerable if all branches are equally real.
+This bears on the [No Many Worlds tenet](/tenets/#no-many-worlds) through ownership rather than composition: branching leaves each successor's integration intact, so the live objection is the indexical one—"Why am I *this* branch?" The [No Many Worlds section below](#no-many-worlds) states it in its scoped form.
 
 ## Disruptions of Integration
 
@@ -144,7 +144,7 @@ Studying cases where integration fails illuminates what integration normally ach
 
 ### Split-Brain Cases
 
-[Split-brain patients](/topics/split-brain-consciousness/)—individuals whose corpus callosum has been severed—present fascinating evidence. When the hemispheres cannot communicate, integration across hemispheres breaks down. Patients may simultaneously reach for different objects with different hands, or verbally report seeing nothing while the non-verbal hemisphere guides action (Gazzaniga, 2005).
+[Split-brain patients](/topics/split-brain-consciousness/)—individuals whose corpus callosum has been severed—are a natural experiment on the neural conditions of integration. When the hemispheres cannot communicate, integration across hemispheres breaks down. Patients may simultaneously reach for different objects with different hands, or verbally report seeing nothing while the non-verbal hemisphere guides action (Gazzaniga, 2005).
 
 Does consciousness split? Or does one hemisphere remain conscious while the other operates unconsciously? The phenomenology is unclear—patients cannot report the experience of both hemispheres simultaneously. The disruption demonstrates that cognitive integration depends on neural connectivity as its physical medium.
 
@@ -152,7 +152,7 @@ Split-brain cases pose a genuine challenge for any view that treats phenomenal u
 
 ### Dissociative Disorders
 
-Dissociative identity disorder involves disrupted narrative integration. Different "alters" may have separate autobiographical memories, preferences, and self-conceptions. Yet minimal self-awareness persists—each alter experiences for-me-ness.
+Dissociative identity disorder involves disrupted narrative integration. Different "alters" may have separate autobiographical memories, preferences, and self-conceptions. Minimal self-awareness appears to persist: each alter reports experience in the first-personal mode. The evidence is report-based and contested at the point that matters—whether distinct alters are distinct subjects or one subject under distinct self-models is not settled by the reports themselves ([clinical dissociation as systematic evidence](/topics/clinical-dissociation-as-systematic-evidence/)).
 
 This dissociation between minimal and narrative integration suggests they are distinct processes. Minimal integration (the perspectival unity of immediate experience) can survive while narrative integration (autobiographical continuity) fractures.
 
@@ -163,6 +163,8 @@ This dissociation between minimal and narrative integration suggests they are di
 How is this possible if consciousness vanishes? One possibility: integration is not continuous but retrospective. Consciousness does not literally persist during the gap; rather, upon waking, it integrates the pre-sleep and post-sleep experiences into a continuous narrative. The experienced continuity is constructed, not lived through.
 
 Another possibility, compatible with [filter theory](/concepts/filter-theory/): consciousness persists while the brain-consciousness interface is disrupted. During dreamless sleep, there may be experience without neural encoding—consciousness continues but cannot later be remembered because the interface required for memory formation was offline.
+
+Neither alternative bears on the ownership question. Both concern whether the narrative seam is lived through or stitched afterwards, and a retrospectively constructed continuity is still constructed by someone—it is that someone the Map's unity commitment concerns.
 
 ## Relation to Site Perspective
 
@@ -182,15 +184,15 @@ The [Bidirectional Interaction tenet](/concepts/bidirectional-interaction/) prop
 
 If consciousness biases quantum outcomes in neural systems, these influences accumulate across time. A decision made now affects neural states minutes or hours later through memory consolidation. Intentions formed today structure choices tomorrow. Cognitive integration then involves not just passive binding of incoming information but active shaping of the neural substrate that will support future experience.
 
-This makes the self genuinely *agentive* across time, not merely a passive observer of neural processes. [Diachronic agency](/topics/diachronic-agency-and-personal-narrative/) becomes real—the capacity to author one's future through consciousness-mediated neural influences that persist and compound.
+On that conditional the self would be *agentive* across time rather than a passive observer of neural processes, and [diachronic agency](/topics/diachronic-agency-and-personal-narrative/) would have a mechanism—the capacity to author one's future through consciousness-mediated neural influences that persist and compound. The conditional is not discharged. Whether token-level selection can be causal while exactly preserving Born statistics is the open question the mechanism debt registers, and this section reads no more confidently than the register does.
 
-### No Many Worlds and Indexical Continuity
+### No Many Worlds and Indexical Continuity {#no-many-worlds}
 
-The [No Many Worlds tenet](/tenets/#no-many-worlds) rejects the many-worlds interpretation of quantum mechanics. This matters for cognitive integration because Many Worlds implies branching selves at every quantum event.
+The [No Many Worlds tenet](/tenets/#no-many-worlds) rejects the many-worlds interpretation of quantum mechanics. For cognitive integration the live objection is indexical. The integrative version—that branching fragments the unified self—fails: branches decohere rather than interfere, so a branch-relative Everettian can grant this article's whole account of binding and continuity, indexed to a branch.
 
-If consciousness splits with each measurement, cognitive integration fragments. The unified self experienced *now* would be one branch among countless others. The indexical question "Why am I this branch and not another?" has no answer—all branches are equally real, equally "you."
+What such a reading cannot supply is the ownership fact. On *branch-egalitarian* versions, where all branches are equally real and equally "you," nothing settles why *this* one is the one lived. That is a clash of foundational commitments—many-worlds denies there is a further fact here rather than failing to accommodate one—and is honestly noted as such, not a refutation of many-worlds on its own terms. The reach also varies by variant ([P-I5](/positions/individuation-and-subjecthood/#p-i5)): against first-personally centred readings such as List's, which build the privileged present into the ontology, the indexical objection still engages but drops to supplementary, and the case there rests on a separate rejection of modal realism.
 
-Rejecting Many Worlds preserves the unity of self across time. Consciousness selects among quantum possibilities without branching. The experiential continuity you feel—connecting past, present, and future into a single self—reflects a genuine metaphysical unity, not an illusion masking underlying multiplicity.
+Rejecting many-worlds keeps the question well-formed: one actual history, one perspective occupying it. The felt continuity connecting past, present, and future is what an account of the subject must explain rather than evidence for this account of it—every branch-relative successor feels the same continuity, so treating the feeling as confirmation reads felt weight as evidential weight.
 
 ### Minimal Quantum Interaction and the Interface
 
@@ -214,9 +216,9 @@ The physicalist might object that positing irreducible phenomenal unity violates
 - [Self and Consciousness](/concepts/self-and-self-consciousness/) — Relationship between consciousness and selfhood
 - [The Self: Minimal, Narrative, and Substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three-layered model of selfhood
 - [Consciousness and Memory](/topics/consciousness-and-memory/) — The relationship between consciousness and memory formation
-- [Quantum Holism and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/) — Why phenomenal unity resists physical explanation
+- [Quantum Holism and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/) — Why phenomenal unity resists physical explanation through classical mechanisms
 - [phenomenology-of-recursive-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) — How self-awareness transforms consciousness and enables the evaluative capacities that integration serves
-- [vertiginous-question](/topics/vertiginous-question/) — The cognitive boundary where first-person identity resists explanation; integration approaches but cannot cross this limit
+- [vertiginous-question](/topics/vertiginous-question/) — The cognitive boundary where first-person identity resists explanation; integration fixes which experiences compose a stream, not whose stream it is
 
 ## References
 
@@ -229,5 +231,7 @@ Gallagher, S. (2000). Philosophical conceptions of the self: Implications for co
 Gazzaniga, M. S. (2005). Forty-five years of split-brain research and still going strong. *Nature Reviews Neuroscience*, 6(8), 653-659.
 
 Gallagher, S. & Zahavi, D. (2012). *The Phenomenological Mind*. 2nd ed. Routledge.
+
+Rasch, B. & Born, J. (2013). About sleep's role in memory. *Physiological Reviews*, 93(2), 681-766.
 
 Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.

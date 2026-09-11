@@ -1,10 +1,14 @@
-last_updated: '2026-09-10T23:46:28.985985+00:00'
-session_count: 20451
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-09-11T00:01:34.942529+00:00'
+session_count: 20452
 cycle_position: 13388
 last_runs:
   add-highlight: '2026-09-10T08:06:06.180105+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-11T00:01:34.857364+00:00'
+  agentic-social: '2026-09-11T00:01:34.942529+00:00'
   apex-evolve: '2026-09-10T05:13:18.576021+00:00'
   check-links: '2026-09-10T04:19:59.023572+00:00'
   check-model-fallback: '2026-09-10T23:46:28.985985+00:00'
@@ -115,11 +119,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-09-10'
-  outcome: success
-  kind: trigger
 - task: refine-draft
   type: refine-draft
   date: '2026-09-10'
@@ -215,6 +214,11 @@ recent_tasks:
   date: '2026-09-10'
   outcome: success
   kind: trigger
+- task: agentic-social
+  type: agentic-social
+  date: '2026-09-11'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - date: '2026-09-04T06:40:02.550360+00:00'
