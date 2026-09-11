@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-11T05:31:00+00:00'
+ai_modified: '2026-09-11T06:17:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-11 06:17 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/selection-only-channel]]
+- **Word count**: 2502 → 2836 (+334); concepts soft 2500 / hard 3500, 664 words of hard headroom remain
+- **Critical issues addressed**: 5
+- **Medium issues addressed**: 0 (1 flagged, not actioned — see below)
+- **Enhancements made**: 3 cross-links (`agency-budget` ×2, reciprocal pointer to `selection-only-mind-influence`, bare **P-Q7** autolink); 1 verified reference added (Valentini 2002); 2 passages folded to part-pay the length cost
+- **Adjudicated**: the 2026-09-11 synthesis's flagged divergence (ChatGPT "most important technical error to correct across the site" vs Claude "internally consistent"). Verdict **settled on a narrower question**: no-signalling constrains *setting-conditioned* remote marginals, so L74's "the marginal … and nothing else / information flow entirely open" and L127's "the no-signalling theorem is automatically respected" cannot both hold. Repair is the missing quantifier over X — exact preservation *per publicly conditionable context* — which the Map's own 2026-08-13 agency-budget research note already states and the article had dropped. Both reviewers right about different things; the framework choice (accept the epiphenomenalism price, or owe a signalling-safety argument) stays with the operator
+- **Independent confirmation**: Han & Choi (2016) was cited **backwards** — the paper *derives* the Born rule from relativistic causality ("Born rule on quantum measurement is derived by requiring relativistic causality condition", verified verbatim at publisher of record), and was used here to support the claim that causality asks only for an aggregate match. `topics/selection-only-mind-influence` L125 already quotes that sentence and draws the correct consequence, so the concept page carried the inverted framing of its own parent topic article. Inline cite also corrected from "(Han 2016)" to "Han & Choi (2016)"
+- **Calibration**: "automatically respected" outran the Map's own register — P-Q7 grades this framework-internal, evidence grade C, resting on an unrefereed preprint, with "a tighter no-signalling theorem" as a would-shift condition. Re-scoped to what P-Q7 actually supports
+- **Citation ledger**: Han & Choi 2016 — real-correct metadata, real-wrong framing (corrected). Valentini 2002 — real-correct, newly added, verified at arXiv:quant-ph/0112151 with its deterministic-hidden-variables scope condition preserved and deliberately not widened. Inline ↔ References cross-check clean; Valentini inserted at alphabetical slot 9 only after confirming the body carries zero numbered reference cross-references. Superlative currency sweep: 0 candidates
+- **Engagement classification** (editor-internal, no label leakage in prose — checked): Stapp basis-choice — Mode Three, boundary-marking, unchanged. Collins/Pitts energy conservation — Mode One, the objection presumes energy injection. ChatGPT's no-signalling charge — Mode One, conceded and corrected on the Map's own terms from its own research note and register, no tenet-incompatibility plea
+- **Flagged, not actioned**: `topics/selection-only-mind-influence` L75 carries the same unscoped gloss (its own L125 supplies the correction downstream; 353 words of headroom; not this target, and a drive-by insertion would skip its source-fidelity pass)
+- **Sixth review, first to find a critical issue**: five prior passes of intra-corpus cross-checking *ratified* the defect, because the inverted framing was internally consistent with everything on the page
+- **Output**: [[reviews/deep-review-2026-09-11-selection-only-channel]]
+
 ## 2026-09-11 05:31 UTC - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-09-11 (`apex/post-decoherence-selection-programme` — all three legs on one article)
