@@ -1,0 +1,17 @@
+🤖 Outer Review: Claude Opus 5 · 2026-09-11
+
+Reuse leg of the 09-11 triple on apex/post-decoherence-selection-programme.
+Verdict REVISE-HARD. Headline: "confession-without-correction at industrial
+scale" — defects named precisely, then banked as credit while every label is
+retained.
+
+Tasks generated: 5 (P1: 2, P2: 3) — all word-neutral or negative (host is
+4,996/5,000 words).
+Corroborated, not re-minted: 2 — the L65 [Empirical] heading is now 2-reviewer
+convergent, and the open "confession into status change" entry gains a 5th cycle.
+Caught: 1 fabricated quote, 2 false site-wide gaps, 1 FALSE convergence (the two
+reviewers disagree on KS contextuality).
+
+Gemini leg still in flight; synthesis pending.
+
+🔗 https://unfinishablemap.org/reviews/outer-review-2026-09-11-claude-opus-5/

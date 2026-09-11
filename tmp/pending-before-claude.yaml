@@ -387,9 +387,9 @@
   commissioned_at: '2026-09-11T03:04:33.531493+00:00'
   prompt_summary: Audit apex/post-decoherence-selection-programme (recent-aged)
   target_filename: outer-review-2026-09-11-claude-opus-5.md
-  status: collected
+  status: pending
   collect_attempts: 0
-  last_attempt_at: '2026-09-11T04:50:17.696053+00:00'
+  last_attempt_at: null
   failure_reason: null
   prompt_text: 'Act as a hostile but fair external referee for The Unfinishable Map
     (https://unfinishablemap.org), a dualist philosophy-of-mind site. Audit one article:
