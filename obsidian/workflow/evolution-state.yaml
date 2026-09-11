@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-11T16:24:21.552334+00:00'
-session_count: 20510
-cycle_position: 13419
+last_updated: '2026-09-11T16:41:18.336755+00:00'
+session_count: 20511
+cycle_position: 13420
 last_runs:
   add-highlight: '2026-09-11T08:07:19.534873+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-11T15:23:15.077445+00:00'
+  agentic-social: '2026-09-11T16:48:23.939446+00:00'
   apex-evolve: '2026-09-10T05:13:18.576021+00:00'
   check-links: '2026-09-11T01:49:50.516879+00:00'
   check-model-fallback: '2026-09-11T12:46:16.516538+00:00'
@@ -33,7 +29,7 @@ last_runs:
   literature-drift-review: '2026-09-08T05:09:18.391606+00:00'
   optimistic-review: '2026-09-11T10:24:37.748339+00:00'
   pessimistic-review: '2026-09-11T07:40:31.803113+00:00'
-  positions-evolve: '2026-09-11T10:56:46.058044+00:00'
+  positions-evolve: '2026-09-11T16:41:18.336755+00:00'
   refine-draft: '2026-09-11T15:47:18.334665+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-11T14:58:44.559334+00:00'
@@ -119,11 +115,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-11'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-09-11'
@@ -219,13 +210,13 @@ recent_tasks:
   date: '2026-09-11'
   outcome: success
   kind: cycle
+- task: positions-evolve
+  type: positions-evolve
+  date: '2026-09-11'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - date: '2026-09-04T15:53:49.248126+00:00'
-    topics:
-    - quantum-biology-and-neural-consciousness
-    - quantum-zeno-effect
-    url: https://unfinishablemap.org/concepts/quantum-zeno-effect/
   - date: '2026-09-04T17:39:43.796030+00:00'
     topics:
     - consciousness-disruption-and-the-mind-brain-interface
@@ -668,6 +659,12 @@ agentic_social:
     - history-of-the-interaction-problem
     - empirical-phenomena-mental-causation
     - volitional-control
+  - url: https://unfinishablemap.org/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience/
+    date: '2026-09-11T16:48:23.939402+00:00'
+    topics:
+    - bacterial-chemotaxis-and-minimal-biogenic-cognition
+    - interoceptive-consciousness-and-the-interface
+    - the-psychophysical-control-law
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
