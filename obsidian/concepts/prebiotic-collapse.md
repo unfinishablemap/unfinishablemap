@@ -4,7 +4,7 @@ description: "How quantum wave functions collapsed before conscious observers ex
 created: 2026-01-16
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-08-01T23:29:23+00:00
+ai_modified: 2026-09-11T01:01:38+00:00
 draft: false
 coalesced_from:
   - "/topics/collapse-before-minds/"
@@ -201,7 +201,7 @@ Objective collapse theories face empirical pressure but remain viable:
 
 **CSL constraints**: Continuous Spontaneous Localisation parameters have been tightened by gravitational wave detectors, optomechanical experiments, and X-ray measurements. The theory survives in reduced parameter space.
 
-**GRW theory**: The original Ghirardi-Rimini-Weber parameters "survived by a whisker"—spontaneous localisation rates and widths lie just within experimental bounds.
+**GRW theory**: The original Ghirardi-Rimini-Weber parameters "survived by a whisker" (Ball, 2022)—spontaneous localisation rates and widths lay just within the 2022 bounds.
 
 **Quantum biology support**: The August 2024 epothilone B study in rats—showing that microtubule-stabilising drugs delay anaesthetic-induced unconsciousness—provides indirect support for consciousness-quantum interaction at neural sites.
 
@@ -225,6 +225,7 @@ Objective collapse theories face empirical pressure but remain viable:
 
 ## References
 
+1. Ball, P. (2022). Physics Experiments Spell Doom for Quantum 'Collapse' Theory. *Quanta Magazine*, 20 October. https://www.quantamagazine.org/physics-experiments-spell-doom-for-quantum-collapse-theory-20221020/
 1. Danielson, D.L., Satishchandran, G., & Wald, R.M. (2022). "Black holes decohere quantum superpositions." *International Journal of Modern Physics D*, 31(14), 2241003. https://doi.org/10.1142/S0218271822410036 — and (2023), "Killing horizons decohere quantum superpositions," *Physical Review D*, 108, 025007. https://doi.org/10.1103/PhysRevD.108.025007 — and (2025), "Local description of decoherence of quantum superpositions by black holes and other bodies," *Physical Review D*, 111, 025014. https://doi.org/10.1103/PhysRevD.111.025014 Challenged by Fahn, M.J. & Pesci, A. (2025), "Effects of quantum geometry on the decoherence induced by black holes," *Physical Review D*, 112, L121502. https://doi.org/10.1103/279x-zgl1
 1. Donadi, S., Piscicchia, K., Curceanu, C., Diósi, L., Laubenstein, M., & Bassi, A. (2020). Underground test of gravity-related wave function collapse. *Nature Physics*, 17, 74-78. (Online 2020; print 2021.)
 1. Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470.
@@ -239,4 +240,3 @@ Objective collapse theories face empirical pressure but remain viable:
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 1. Wigner, E. (1961). Remarks on the mind-body question. In *The Scientist Speculates*. Heinemann.
-1. Wolchover, N. (2022). Physics Experiments Spell Doom for Quantum 'Collapse' Theory. *Quanta Magazine*.

@@ -4,7 +4,7 @@ description: "GRW, CSL, and Penrose OR: physical collapse mechanisms that solve 
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-08-02T18:47:00+00:00
+ai_modified: 2026-09-11T01:01:38+00:00
 draft: false
 last_deep_review: 2026-07-06T14:43:35+00:00
 topics:
@@ -123,7 +123,7 @@ Spontaneous collapse theories are **falsifiable**—they make predictions distin
 3. **Gravitational wave detectors**: Ultra-sensitive LIGO-type devices can detect spontaneous heating predicted by CSL
 4. **Neutron star observations**: Constrain collapse models via thermal signatures
 
-**Current verdict**: Original GRW model "survived by a whisker"—just within experimental bounds. CSL parameter space increasingly constrained. Orch OR timescales revised upward (microseconds, not femtoseconds), keeping theory viable but contested. See [[testing-consciousness-collapse|the concrete prediction catalogue]] for a systematic mapping of where each framework diverges from standard decoherence.
+**Verdict as of 2022**: Original GRW model "survived by a whisker" (Ball, 2022)—just within experimental bounds. CSL parameter space increasingly constrained. Orch OR timescales revised upward (microseconds, not femtoseconds), keeping theory viable but contested. See [[testing-consciousness-collapse|the concrete prediction catalogue]] for a systematic mapping of where each framework diverges from standard decoherence.
 
 This experimental accountability supports the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet: simplicity (standard QM without collapse) fails to solve the measurement problem. Falsifiable modifications of QM are scientifically rigorous, not ad hoc.
 
@@ -227,3 +227,4 @@ The **consciousness-modulated CSL** model (Chalmers and McQueen's CSL-IIT or sim
 1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Chalmers, D. J. & McQueen, K. J. (2022). Consciousness and the Collapse of the Wave Function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
 1. Donadi, S., Piscicchia, K., Curceanu, C., Diósi, L., Laubenstein, M., & Bassi, A. (2021). Underground test of gravity-related wave function collapse. *Nature Physics*, 17(1), 74-78.
+1. Ball, P. (2022). Physics Experiments Spell Doom for Quantum 'Collapse' Theory. *Quanta Magazine*, 20 October. https://www.quantamagazine.org/physics-experiments-spell-doom-for-quantum-collapse-theory-20221020/

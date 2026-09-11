@@ -1,14 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-11T00:36:00+00:00'
+ai_modified: '2026-09-11T01:01:38+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-11'
-lastmod: 2026-09-11 00:36:00+00:00
+lastmod: 2026-09-11 01:01:38+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-11 01:01 UTC - refine-draft
+- **Status**: Success
+- **Files**: [prebiotic-collapse](/concepts/prebiotic-collapse/), [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/), [collapse-before-minds-early-universe-2026-01-16](/research/collapse-before-minds-early-universe-2026-01-16/)
+- **Source**: P2 queue task minted by the 2026-09-11 refine-draft on [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/), which is the worked model for this fix
+- **Defect**: a **fabricated author** on a live reference entry. The Quanta Magazine piece "Physics Experiments Spell Doom for Quantum 'Collapse' Theory" (2022-10-20) was credited to **Wolchover, N.**; the byline is **Philip Ball**. Nathan Wolchover is a well-known Quanta physics writer, which is the likely seed of the substitution.
+- **Verification (independent re-check at the publisher this run, raw HTML + normalised grep, not a summariser)**: on the fetched page, `"Philip Ball"` x6 and `"Wolchover"` **x0**; visible byline `By Philip Ball October 20, 2022` at normalised offset 12560; author archive link `/authors/philip-ball/` present (alongside two unrelated author links); the quoted phrase verbatim at offset 24170 - "The original GRW model lies just within this tight window: It survived by a whisker."
+- **Note on the title**: the page's canonical `<title>`/`og:title` is *Physics Experiments Spell Doom for Quantum 'Collapse' Theory* (smart-quoted); its on-page H1 is the different display headline *Experiments Spell Doom for Decades-Old Explanation of Quantum Weirdness*. The reference title used here is the canonical one and is correct. A literal grep for the title returns a **false zero** unless smart quotes are normalised first.
+- **Changes**:
+  - `concepts/prebiotic-collapse` L204 - the "survived by a whisker" quote was used **unsourced**; attributed inline as `(Ball, 2022)`. The trailing clause was also past-tensed and dated ("lie just within experimental bounds" -> "lay just within the 2022 bounds") at **zero net word cost**, because the article had been asserting a 2022 verdict in the present tense - the same dating error the worked model corrected.
+  - `concepts/prebiotic-collapse` reference list - `Wolchover, N. (2022)` replaced by the worked model's entry verbatim (`Ball, P. (2022) ... 20 October.` + URL). The list is **alphabetical by first author**, so the corrected entry **moved from last to first** (B before D, ahead of Danielson) rather than being substituted in situ. The list uses markdown auto-numbering (`1.` throughout) and the body cites author-year, never reference numbers, so the move breaks no cross-reference.
+  - `concepts/spontaneous-collapse-theories` L126 - the same quote was unsourced **and** carried no reference entry at all (`Quanta`, `Wolchover`, `Ball` all 0). Added the inline `(Ball, 2022)` and the reference entry. Its heading `**Current verdict**` was relabelled `**Verdict as of 2022**` - it was presenting a 2022 result as the present state of the evidence.
+  - `concepts/spontaneous-collapse-theories` reference list - this list is **thematic, not alphabetical**, so the entry was **placed** immediately after Donadi et al. (2021), the germanium-detector experiment Ball's piece reports, rather than appended blindly.
+  - `research/collapse-before-minds-early-universe-2026-01-16` - same substitution. This note is the **regeneration source**: leaving it would re-seed the fabricated author into the next article that mines it. Its citation list is alphabetical, so this entry also moved from last to first.
+- **Word counts** (`analyze_length`, section `concepts` soft 2500 / hard 3500 / critical 5000):
+  - `prebiotic-collapse` 3602 -> **3607** (+5), status `hard_warning` unchanged, now **107 past hard**. The article was already 102 past hard before this pass; the fix was held to +5 deliberately (the dating correction was made word-neutral to pay for the citation).
+  - `spontaneous-collapse-theories` 2635 -> **2655** (+20), status `soft_warning` unchanged, **845 below hard**.
+- **DELIBERATELY NOT FIXED - [deep-review-2026-06-25-prebiotic-collapse](/reviews/deep-review-2026-06-25-prebiotic-collapse/) L42.** That line reads "**Wolchover (2022), *Quanta Magazine*** - state: real-correct" - a **metadata review that certified the fabricated author as real-correct**. It was left untouched and verified untouched (`git diff` empty). It is a dated report of what a review actually concluded on a date; correcting it would falsify the record of the failure rather than fix the defect. The finding worth preserving is the **citation-ledger-ratifies-the-reading** failure mode: a metadata audit checked that the entry was well-formed and that the source was real, and never checked *whose name was on it*. Research notes are source lists that later articles copy from, so they get fixed; review files are reports, and they stand.
+- **Found beyond the task's locus list**:
+  - **A fourth file already had it right.** [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) ref 24 has cited `Ball, P. (2022)` correctly all along - independent corroboration of the correction from inside the corpus. It uses the page's **H1 display headline** rather than the canonical title, so the corpus now carries two title variants for the same URL. Both strings are genuinely on the page, so neither is fabricated; left as-is rather than widening scope.
+  - **The quote propagates to four further loci, none of which name an author** (so none carries the fabricated-author defect, but all are unsourced): `archive/topics/born-rule-violation-brain-interface-empirical-status` L107 and `archive/topics/collapse-before-minds` L165 - both **archived but URL-live**, so these are published pages carrying an unsourced quotation - plus research notes `born-rule-violation-brain-interface-empirical-status-2026-04-23` (L202, L294) and `spontaneous-collapse-theories-grw-csl-2026-01-23` (L47, L183), which are further regeneration sources. **Reported, not fixed** - outside the task's scope, and the two archived articles are URL-preservation artefacts whose editing policy is a separate question.
+  - `concepts/prebiotic-collapse` is **102-107 words past its hard threshold with no open condense or length task** tracking it. Not minted here; flagged for the operator.
+  - Two **pre-existing** alphabetisation anomalies were left alone: `prebiotic-collapse` sorts `Khan, S.` between Whitehead and Wigner, and the research note sorts `Stapp` before `Stanford`. Neither was introduced by this pass.
+- **Census method**: `Wolchover` case-insensitive across `obsidian/`, `hugo/content/` and `archive/` now returns **0 in all content**, with remaining hits only in `workflow/changelog*`, `workflow/todo.md` and the deliberately-preserved review file - all dated records. Verified in **both trees by positive offset** after normalising emphasis, smart quotes and whitespace; frontmatter verified by **parsing** both trees, never by grep.
+- **Sync**: run; `Valid 9571 / Invalid 0`. `ai_modified` bumped to 2026-09-11T01:01:38+00:00 on all three from a live `date -u`; `last_deep_review` untouched on all three.
+- **Published**: yes
 
 ## 2026-09-11 00:36 UTC - refine-draft
 - **Status**: Success

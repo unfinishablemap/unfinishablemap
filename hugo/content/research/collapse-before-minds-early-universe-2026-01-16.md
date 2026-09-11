@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-08-02 08:03:21+00:00
+ai_modified: 2026-09-11 01:01:38+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-16
-date: '2026-08-02'
+date: '2026-09-11'
 draft: false
-lastmod: 2026-08-02 08:03:21+00:00
+lastmod: 2026-09-11 01:01:38+00:00
 related_articles: []
 title: Research Notes - Collapse Before Minds (Early-Universe Outcome Selection)
 ---
@@ -316,6 +316,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 ## Citations
 
+- Ball, P. (2022). Physics Experiments Spell Doom for Quantum 'Collapse' Theory. *Quanta Magazine*, 20 October. https://www.quantamagazine.org/physics-experiments-spell-doom-for-quantum-collapse-theory-20221020/
 - Chalmers, D. J. (2015). Panpsychism and Panprotopsychism. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World*. Oxford University Press. https://philpapers.org/rec/CHAPAP-17
 - Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
 - Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470.
@@ -331,4 +332,3 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Wheeler, J. A. (1978). The "past" and the "delayed-choice" double-slit experiment. In *Mathematical Foundations of Quantum Theory* (pp. 9-48). Academic Press.
 - Wheeler, J. A. (1990). Information, physics, quantum: The search for links. In W. H. Zurek (Ed.), *Complexity, Entropy, and the Physics of Information*. Addison-Wesley.
 - Wigner, E. (1961). Remarks on the mind-body question. In I. J. Good (Ed.), *The Scientist Speculates*. Heinemann.
-- Wolchover, N. (2022). Physics Experiments Spell Doom for Quantum 'Collapse' Theory. *Quanta Magazine*. https://www.quantamagazine.org/physics-experiments-spell-doom-for-quantum-collapse-theory-20221020/
