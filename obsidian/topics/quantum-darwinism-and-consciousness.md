@@ -4,7 +4,7 @@ description: "Zurek's quantum Darwinism explains classical reality's emergence t
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-09-10T07:22:05+00:00
+ai_modified: 2026-09-11T01:20:09+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -87,7 +87,7 @@ A further advantage of this post-decoherence framing: it sidesteps the [[timing-
 
 How does Zurek himself handle the outcome problem? His position has evolved over two decades, but its core strategy is to dissolve rather than solve the problem of outcomes. In his 2022 paper "Quantum Theory of the Classical," Zurek deploys [[envariance|*envariance*]] (environment-assisted invariance)—a symmetry argument he developed in earlier work—to derive the Born rule from first principles, aiming to show that quantum probabilities are the only consistent probability assignment for an observer entangled with their environment.
 
-The Map respects envariance as a mathematical result while noting that it does not address why one outcome becomes actual. Deriving that the Born rule is the correct probability measure does not explain why a probability distribution yields a specific result. Envariance tells us that the Born-rule probabilities are the only consistent ones to assign—it does not convert probabilities into actualities.
+The Map respects envariance as a mathematical result while noting that it does not address why one outcome becomes actual. Deriving that the Born rule is the correct probability measure does not explain why a probability distribution yields a specific result. Envariance tells us that the Born-rule probabilities are the only consistent ones to assign—it does not convert probabilities into actualities. This dissolve-rather-than-solve strategy has a sibling: [[qbism|QBism]] reaches the same place by a different route, treating "collapse" as an agent's belief-updating and so denying there was any objective state whose actualisation needs explaining. Both leave the Map's question—why *this* outcome for *this* subject—outside their remit.
 
 Zurek's broader interpretive leanings are often described as "existential" or "quantum Darwinist without collapse"—close to an Everettian picture where all pointer states are realised in different branches, and quantum Darwinism explains why each branch looks classical. This conflicts directly with the Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet. The Map insists that one outcome occurs and the others do not—that indexical identity matters, that there is a fact about which result *I* experience.
 

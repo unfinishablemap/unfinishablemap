@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-06-06 03:08:27+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-11 01:20:09+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[idealism]]'
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 14:26:14+00:00
-lastmod: 2026-06-06 03:08:27+00:00
+lastmod: 2026-09-11 01:20:09+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -43,6 +43,8 @@ The [hard problem](/topics/hard-problem-of-consciousness/) has pushed philosophy
 This creates pressure to start from consciousness rather than trying to reach it from matter. But "start from consciousness" admits multiple interpretations. At one extreme, consciousness is the only thing that exists (idealism). At the other, consciousness is a fundamental but distinct feature of a reality that also contains genuinely physical things (dualism). Between them sit views that try to dissolve the mind-matter distinction altogether (dual-aspect monism, neutral monism) or that distribute mentality throughout matter itself (panpsychism).
 
 Each framework is mind-centric in the sense that it refuses to treat consciousness as derivative. But the differences between them are substantial.
+
+One family sits deliberately outside this taxonomy. Epistemic mind-centrality—[QBism](/concepts/qbism/) and the [participatory-realism programme](/topics/pragmatist-quantum-foundations-and-the-agent/) it belongs to—puts the agent at the centre of physics while staying officially neutral on what reality is made of. The three diagnostic questions used below (matter, causation, identity) get no determinate answer from it, which is why the frameworks compared here are the ontological ones.
 
 ## Analytic Idealism: Mind Is All There Is
 

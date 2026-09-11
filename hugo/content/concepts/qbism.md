@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-06-14 00:00:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-11 01:20:09+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[quantum-interpretations]]'
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-09 19:43:00+00:00
-lastmod: 2026-06-14 00:00:00+00:00
+lastmod: 2026-09-11 01:20:09+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -34,7 +34,7 @@ topics:
 
 QBism (Quantum Bayesianism) is an interpretation of quantum mechanics that treats quantum states as representing an agent's subjective beliefs rather than objective features of reality. Developed primarily by Christopher Fuchs, Carlton Caves, and Rüdiger Schack, QBism dissolves the [measurement-problem](/concepts/measurement-problem/) by denying there was ever an objective wave function to collapse. "Collapse" is simply belief-updating—the agent learns something and revises their expectations.
 
-Fuchs explicitly positioned QBism as furthering Wheeler's [participatory universe](/topics/wheelers-participatory-universe-and-it-from-bit/) program and its ["it from bit"](/topics/wheelers-participatory-universe-and-it-from-bit/) thesis, coining the term "participatory realism" in 2017 to mark the connection. He has also been explicit that QBism's philosophical roots lie in classical American [pragmatism](/concepts/pragmatism/), with William James as "veritable mascot" of the programme. QBism is one member of a broader [pragmatist family in quantum foundations](/topics/pragmatist-quantum-foundations-and-the-agent/) (alongside Healey, Brukner-Zeilinger, and Stapp), where its Jamesian genealogy and the [agent-shaped hole](/concepts/the-agent-shaped-hole/) it leaves are treated in dedicated detail.
+Fuchs explicitly positioned QBism as furthering Wheeler's [participatory universe](/topics/wheelers-participatory-universe-and-it-from-bit/) program and its ["it from bit"](/topics/wheelers-participatory-universe-and-it-from-bit/) thesis, coining the term "participatory realism" in 2017 to mark the connection. He has also been explicit that QBism's philosophical roots lie in classical American [pragmatism](/concepts/pragmatism/): in the preface to the collected correspondence in which QBism took shape, he calls William James "the veritable mascot of this volume" (Fuchs 2014). QBism is one member of a broader [pragmatist family in quantum foundations](/topics/pragmatist-quantum-foundations-and-the-agent/) (alongside Healey, Brukner-Zeilinger, and Stapp), where its Jamesian genealogy and the [agent-shaped hole](/concepts/the-agent-shaped-hole/) it leaves are treated in dedicated detail.
 
 For The Unfinishable Map, QBism presents a paradox: it makes agents epistemically central to quantum mechanics yet provides no account of what agents *are*. QBism presupposes that agents have determinate experiences to form beliefs about, treating the source of such experience as given rather than explained. The Map holds that this is precisely what requires explanation.
 
@@ -84,7 +84,7 @@ MWI defenders respond that the indexical question is no more mysterious than ask
 
 ### Versus Consciousness-Collapse
 
-Consciousness-collapse interpretations posit that conscious observation causes wave function collapse. QBism agrees that agents are central but denies there's any objective collapse to cause. Where consciousness-collapse gives consciousness a physical role, QBism gives it an epistemic role: consciousness doesn't collapse the wave function; it's what beliefs are *for*. QBism also sidesteps the [prebiotic collapse problem](/concepts/prebiotic-collapse/)—since wave functions are beliefs rather than reality, there's nothing to collapse before agents existed—but only by leaving unexplained why agents with experiences exist at all.
+Consciousness-collapse interpretations posit that conscious observation causes wave function collapse. QBism agrees that agents are central but denies there's any objective collapse to cause. Where consciousness-collapse gives consciousness a physical role, QBism gives it an epistemic role: consciousness doesn't collapse the wave function; it's what beliefs are *for*. QBism also sidesteps the [prebiotic collapse problem](/concepts/prebiotic-collapse/)—since wave functions are beliefs rather than reality, there's nothing to collapse before agents existed—but only by leaving unexplained why agents with experiences exist at all. Whether any objective collapse process exists is partly an experimental question, not only an interpretive one: [the philosophical stakes of spontaneous collapse](/topics/philosophical-stakes-of-spontaneous-collapse/) map what the GRW, CSL, and objective-reduction tests would settle. Of the two positions contrasted here, only consciousness-collapse has anything at stake in the outcome: a null result costs QBism nothing, since it posited no objective collapse to begin with.
 
 ## Intersubjective Agreement
 
@@ -163,3 +163,4 @@ Despite its limitations, QBism contributes several insights the Map affirms:
 1. Fuchs, C. A. (2017). "On Participatory Realism." In I. T. Durham & D. Rickles (Eds.), *Information and Interaction: Eddington, Wheeler, and the Limits of Knowledge* (pp. 113-134). Springer.
 1. Caves, C. M., Fuchs, C. A., & Schack, R. (2002). "Quantum Probabilities as Bayesian Probabilities." *Physical Review A*, 65(2), 022305.
 1. DeBrota, J. B., Fuchs, C. A., & Schack, R. (2020). "Respecting One's Fellow: QBism's Analysis of Wigner's Friend." *Foundations of Physics*, 50, 1859-1874.
+1. Fuchs, C. A. (2014). *My Struggles with the Block Universe*. B. C. Stacey (Ed.), foreword by M. Schlosshauer. arXiv:1405.2390.

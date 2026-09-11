@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-09-11 00:35:40+00:00
+ai_modified: 2026-09-11 01:20:09+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 14:15:54+00:00
-lastmod: 2026-09-11 00:35:40+00:00
+lastmod: 2026-09-11 01:20:09+00:00
 modified: *id001
 related_articles:
 - '[[stapp-quantum-mind]]'
@@ -90,7 +90,7 @@ Spontaneous collapse theories are among the few quantum interpretations that mak
 
 **If collapse theories are experimentally confirmed** (spontaneous heating detected in ultracold systems, matter-wave interference showing GRW-predicted deviations), the metaphysical landscape shifts. Many-worlds loses its empirical equivalence with single-world interpretations. Collapse becomes a physical fact, not an interpretive choice. The question then becomes *which* collapse mechanism is correct—and whether consciousness modulation is compatible with the confirmed parameters. As [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) catalogues in detail, predictions fall into three tiers: whether collapse happens at all, whether it is consciousness-dependent, and logical constraints that force interpretive commitments—with the consciousness-specific tier remaining the hardest and most important frontier.
 
-**If collapse theories are experimentally falsified** (parameter space excluded by null results in all major tests), the Map faces a challenge. Without objective collapse, the options narrow to decoherence-only interpretations, many-worlds, or something yet unknown. The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet would require finding an alternative mechanism for consciousness-reality interaction that doesn't rely on spontaneous collapse. This is possible—Stapp's [quantum Zeno approach](/concepts/stapp-quantum-mind/) uses standard quantum mechanics without modifying the Schrödinger equation—but it forces different commitments.
+**If collapse theories are experimentally falsified** (parameter space excluded by null results in all major tests), the Map faces a challenge. Without objective collapse, the options narrow to decoherence-only interpretations, many-worlds, epistemic readings like [QBism](/concepts/qbism/)—which a collapse null result leaves untouched, having never posited an objective state to collapse—or something yet unknown. The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet would require finding an alternative mechanism for consciousness-reality interaction that doesn't rely on spontaneous collapse. This is possible—Stapp's [quantum Zeno approach](/concepts/stapp-quantum-mind/) uses standard quantum mechanics without modifying the Schrödinger equation—but it forces different commitments.
 
 **Current status**: The most-quoted verdict on GRW dates from 2022, not from the present. Reporting the Gran Sasso germanium-detector null result of 2020 and its confirmation that August by the Majorana Demonstrator, Ball found the original GRW model lying "just within this tight window: It survived by a whisker" (Ball, 2022). The simplest Diósi-Penrose model was ruled out by the same experiments, though Barbatti's (2024) atomistic refinements have opened new channels for gravity-collapse testing. Bounds have tightened further since, and CSL parameter space is increasingly constrained (Carlesso & Donadi, 2025); whether the whisker-width margin survives the intervening results is a question the current bounds literature has to answer, not one the 2022 verdict settles by being carried forward. The experimental programme is genuinely advancing, and philosophical commitments built on collapse theories may be vindicated or refuted within decades. The [prediction catalogue](/topics/testing-consciousness-collapse/) maps the specific points where each framework diverges from standard decoherence.
 
