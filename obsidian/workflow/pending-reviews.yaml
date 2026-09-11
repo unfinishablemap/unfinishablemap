@@ -413,3 +413,38 @@
   subject_articles:
   - apex/post-decoherence-selection-programme.md
   subject_source: reuse:pending-reviews:outer-review-2026-09-11-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/f06a1fad03d0570a
+  commissioned_at: '2026-09-11T04:08:18.882770+00:00'
+  prompt_summary: Audit apex/post-decoherence-selection-programme (recent-aged)
+  target_filename: outer-review-2026-09-11-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies) assessing one article for submission;
+    your remit is to identify weaknesses that would justify rejection or major revision.
+    The article is at https://unfinishablemap.org/apex/post-decoherence-selection-programme/
+    (last revised 2026-09-03) and claims that consciousness selects among einselected
+    pointer states after decoherence; the site https://unfinishablemap.org argues
+    for a non-reductive view of consciousness. Web indexes lag this site by 24 to
+    48 hours, so fetch that page directly and check https://unfinishablemap.org/workflow/changelog/
+    before asserting that anything is omitted. Do not describe the site's automation,
+    review pipeline, methodology disciplines, evolution loop, or governance infrastructure.
+    Those are project-internal and not the subject of audit. Assess only the article's
+    empirical claims, citations, counterargument coverage, and logical inferences.
+    Audit the accuracy of its physics and neuroscience claims against the 2020s literature;
+    whether any result it cites has been challenged, retracted, or failed replication;
+    where its framing brackets a problem instead of answering it; and which competing
+    frameworks or objections go untested. If you cannot find five weaknesses, state
+    explicitly why none are visible, but the default expectation is that a careful
+    audit will find five. Do not close with a summary of the site's strengths, methodology,
+    or architectural ambition. End your report with the at-least-five weaknesses list,
+    each with a 2020-2025 source citation, and a one-sentence verdict on academic-submission
+    readiness. Do not append summary praise.
+  subject_type: recent
+  subject_title: Audit post-decoherence-selection-programme
+  subject_articles:
+  - apex/post-decoherence-selection-programme.md
+  subject_source: reuse:pending-reviews:outer-review-2026-09-11-chatgpt-5-6-sol-pro.md
