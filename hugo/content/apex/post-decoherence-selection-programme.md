@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-09-11 07:51:45+00:00
+ai_modified: 2026-09-11 08:19:50+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 apex_last_synthesis: 2026-07-18 21:02:00+00:00
 apex_sources:
@@ -42,7 +42,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 21:02:00+00:00
-lastmod: 2026-09-11 07:51:45+00:00
+lastmod: 2026-09-11 08:19:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -142,7 +142,7 @@ Even granting that consciousness selects among post-decoherence outcomes, a scal
 
 *Self-organised criticality* provides the second stage. Neural tissue operates near a critical point where perturbations of all sizes can occur, following power-law distributions. At criticality, a signal at one scale has a non-negligible probability of propagating to much larger scales. The molecular signal from stochastic resonance can trigger avalanches spanning cortical columns or whole networks—bridging from molecular to network scale.
 
-*Threshold-crossing dynamics* complete the chain. Multiple potential actions compete within neural populations until one reaches a decision threshold. In drift-diffusion models, a small bias in the accumulation rate—even one originating from a quantum-level influence—changes which option wins the race to threshold. The commitment point occurs roughly 280 milliseconds before movement onset (Thura & Cisek 2014), marking where the amplification chain completes and a quantum-level bias has become a specific action.
+*Threshold-crossing dynamics* complete the chain. Multiple potential actions compete within neural populations until one reaches a decision threshold. In drift-diffusion models, a small bias in the accumulation rate—even one originating from a quantum-level influence—changes which option wins the race to threshold. The commitment point occurs roughly 280 milliseconds before movement onset (Thura & Cisek 2014), marking where a quantum-level bias would register—though their urgency-gated model is fully physicalist and derives that timing with no quantum input.
 
 No single stage bridges the full twelve orders of magnitude. Each contributes a factor, and together they provide a plausible causal pathway from minimal quantum bias to macroscopic behaviour. The chain is robust precisely because each stage exploits noise rather than fighting it—an architecture consistent with [evolutionary optimisation](/topics/evolutionary-case-for-quantum-neural-effects/) of quantum neural effects.
 
