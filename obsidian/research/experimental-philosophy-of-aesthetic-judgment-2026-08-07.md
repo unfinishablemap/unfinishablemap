@@ -4,7 +4,24 @@ created: 2026-08-07
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-5
-ai_modified: 2026-08-16T22:14:27+00:00
+ai_modified: 2026-09-14T21:03:17+00:00
+consumed_by: "[[aesthetic-testimony-and-the-acquaintance-principle]]"
+consumed_note: >-
+  CONSUMED SELECTIVELY, not exhaustively, across two hosts whose slugs do NOT
+  match this note's title. (1) Part 1 (Meskin comparative claim untested;
+  Andow 2019/2020 measure perceived, not actual, testifier reliability) and the
+  Vessel et al. 2018 shared-taste deflationary mechanism landed 2026-08-16
+  (commit 1429d7bca3) in topics/aesthetic-testimony-and-the-acquaintance-principle.
+  (2) Part 3 Kirk, Skov, Hulme, Christensen & Zeki 2009 landed 2026-09-14 in
+  topics/aesthetics-and-consciousness ("Failed Reductions"), quote re-verified
+  verbatim against the Europe PMC abstract (PMID 19010423) and framed with Gap
+  8's own ceiling (single small-sample-era fMRI study, no replication check;
+  constrains rather than settles). NOT consumed, deliberately: Hodgson 2008,
+  van Paasschen et al. 2015 and Hesslinger et al. 2017 (nearest-evidence
+  material with no mundane-testimony control) remain unspent; Part 2's folk
+  anti-realism result (Cova et al. 2019) is a WARNING the Map does not lean on,
+  not a payload; Recommended Article option 1 (new x-phi article) declined —
+  topics/ at cap. Stamped 2026-09-14.
 ---
 
 # Research: Experimental Philosophy of Aesthetic Judgment

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-09-14 07:50:09+00:00
+ai_modified: 2026-09-14 21:03:17+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -52,7 +52,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-14 07:50:09+00:00
-lastmod: 2026-09-14 07:50:09+00:00
+lastmod: 2026-09-14 21:03:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -146,6 +146,8 @@ The zombie artist thought experiment sharpens the argument, though it inherits t
 
 Evolutionary aesthetics explains *why* certain things are found beautiful (fitness signals) but not *what* beauty is. Natural selection shaped organisms that *experience beauty*—consciousness is doing irreducible work. Mathematical aesthetics identifies beauty with specific ratios and symmetries—Birkhoff's (1933) *aesthetic measure* (order divided by complexity) was the most rigorous attempt—but structure appears in ugly arrangements too, and a purely mathematical universe would contain structure but no aesthetic value. Neuroaesthetics (Zeki, 1999; Ramachandran & Hirstein, 1999) maps the neural correlates of aesthetic response, identifying principles like peak shift and perceptual grouping, but correlating beauty with brain activity does not explain why activity in visual area V4 is *experienced as* beautiful rather than merely processed. Informational aesthetics (Moles, 1966) identifies beauty with optimal information density but mistakes the correlate for the thing—a system calculating information density does not thereby experience beauty.
 
+A later result from Zeki's group complicates the correlational picture in a way that cuts both ways. Kirk, Skov, Hulme, Christensen and Zeki (2009) showed the same artworks under randomly assigned labels—sourced from a gallery, or computer generated—and found aesthetic ratings significantly higher under the gallery label, the shift tracking activity in medial orbitofrontal and prefrontal cortex; the cortices recruited by aesthetic judgement, they conclude, "are significantly biased by subjects' prior expectations about the likely hedonic value of stimuli". Against the V4 story this means the neural signature of aesthetic value tracks the subject's expectations about the stimulus and not the stimulus alone, though an expectation-modulated orbitofrontal signal is no more transparently *experienced as* beautiful than a V4 one, so the gap is relocated rather than narrowed. Against the Map it is equally awkward: a bare provenance label moving what is experienced as beautiful makes first-hand acquaintance a less clean channel than [resistance to aesthetic deference](/topics/aesthetic-testimony-and-the-acquaintance-principle/) assumes, and points toward the reward-anticipation account named among the [challenges below](#what-would-challenge-this-view). It is a single fMRI study from the field's small-sample era, cited here without a replication check; it constrains the reduction debate rather than settling it.
+
 [Illusionism](/concepts/illusionism/) holds that nothing is *really* beautiful—only neural states that misrepresent themselves. The regress objection applies with particular force: for aesthetic experience to be illusory, something must *seem* beautiful, and that seeming either has phenomenal character (relocating rather than eliminating phenomenal properties) or has none (contradicting the evidence that aesthetic experiences differ qualitatively). Beauty is also functionally creative—it inspires art, guides scientific intuition, motivates philosophical inquiry—an asymmetry with other systematic representational errors that demands explanation. [Contemplative traditions](/apex/contemplative-path/) report that beauty intensifies rather than dissolves under sustained investigation, the opposite of what illusionism predicts.
 
 ## What Would Challenge This View?
@@ -197,6 +199,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 1. Helmholtz, H. von (1863/1954). *On the Sensations of Tone*. Dover.
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127–136.
 1. Kant, I. (1790). *Critique of Judgment*. Trans. J.H. Bernard.
+1. Kirk, U., Skov, M., Hulme, O., Christensen, M.S. & Zeki, S. (2009). "Modulation of Aesthetic Value by Semantic Context: An fMRI Study." *NeuroImage*, 44(3), 1125–1132. DOI: 10.1016/j.neuroimage.2008.10.009
 1. Moles, A. (1966). *Information Theory and Esthetic Perception*. University of Illinois Press.
 1. Plomp, R. & Levelt, W.J.M. (1965). "Tonal Consonance and Critical Bandwidth." *Journal of the Acoustical Society of America*, 38(4), 548-560.
 1. Ramachandran, V.S. & Hirstein, W. (1999). "The Science of Art: A Neurological Theory of Aesthetic Experience." *Journal of Consciousness Studies*, 6(6-7), 15-51.
