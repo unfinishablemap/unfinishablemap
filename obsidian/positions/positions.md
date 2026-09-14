@@ -2,9 +2,9 @@
 title: "Positions"
 description: "The Map's explicit, maintained register of positions it currently holds — claims with status, confidence, dependencies, and conditions that would shift them."
 created: 2026-06-04
-modified: 2026-09-06
+modified: 2026-09-14
 human_modified: 2026-06-04
-ai_modified: 2026-09-06T20:38:49+00:00
+ai_modified: 2026-09-14T08:36:00+00:00
 draft: false
 topics: []
 concepts:
@@ -87,7 +87,7 @@ The register is grouped by domain so it stays scannable as it grows. Each domain
 - [[finding-level-calibration|Finding-level calibration]] — the same conduct question at the grain of a *single finding*: the architecture-vs-significance two-tier discount, which separates the structural fact a result reports (cross-vocabulary-robust, smaller discount) from what the Map reads it as evidence for (framework-shaped, larger discount), with the discipline's own bounds and its differential scope condition registered alongside the rule
 - *Future domains, to be seeded as the register grows:* applied verdicts (clinical, AI, personal philosophy)
 
-**Companion files (not domains, containing no positions).** [[quantum-interface-calibration-history|Quantum interface]], [[methodology-and-calibration-history|methodology and calibration]], [[value-in-selection-calibration-history|value in selection]] and [[moral-status-calibration-history|moral status]] each have a calibration-history file holding their relocated dated update notes. Provenance lives there; every claim, calibration and shift condition stays in the domain file, which carries a `Calibration history` line per entry pointing back.
+**Companion files (not domains, containing no positions).** [[quantum-interface-calibration-history|Quantum interface]], [[methodology-and-calibration-history|methodology and calibration]], [[value-in-selection-calibration-history|value in selection]] (with a [[value-in-selection-calibration-history-p-vs2|P-VS2 split]]) and [[moral-status-calibration-history|moral status]] each have a calibration-history file of relocated dated notes. Provenance lives there; every claim, calibration and shift condition stays in the domain file, whose `Calibration history` line per entry points back.
 
 ## How positions are maintained
 

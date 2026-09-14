@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-11T22:54:33+00:00'
+ai_modified: '2026-09-14T08:36:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-14 08:36 UTC - positions-evolve (update)
+- **Status**: Success
+- **File**: [[positions/value-in-selection]] — P-VS3, plus the domain header; [[positions/value-in-selection-calibration-history]] (two dated notes; P-VS2 section reduced to a pointer); **new** companion [[positions/value-in-selection-calibration-history-p-vs2]]; [[positions]] companion-file sentence (word-negative)
+- **Task**: todo.md line 170 (P3, positions-evolve) — P-VS3 rival roster + "valenced experience for no one" shift condition, with the three 2026-09-06 additions. Task left untouched — the driver marks it.
+- **Mode**: `update` ×1. **Bands unmoved**: P-VS3's `Calibration` line diffs empty against HEAD — credence moderate, grade D, every axis unchanged, per the task fence (the no-self reply is boundary-marking; naming Lin records where the opposition sits, not new evidence).
+- **Length relief first, as the task ordered.** Measured at start with `analyze_length`: register **2,496** of hard 2,500 (`>=` trips, so 3 words of headroom), history file **3,735** (grown from the 3,345 at mint). (1) History split by *entry*, not date, so each register `Calibration history` line keeps one target: P-VS2's three notes (2,421 words, roughly half the file) moved verbatim to a new companion named on the `*-calibration-history` pattern `tools/sync/positions.py` already excludes from position indexing; the parent keeps a `## P-VS2` pointer heading so the one live `#p-vs2` deep-link (`project/coherence-inflation-countermeasures` L414 links the register anchor, not the history one — verified) and archived-changelog links still resolve. Companion header held to 74 words so the new file lands at **2,499** — the verbatim notes alone are 2,421, so it cannot sit lower without condensing provenance. Parent: 3,735 → **1,939** with the two new notes. (2) Register: additions (~120 words) paid for by condensing the header's mechanism-debt restatement (its anchor carries the full statement), the foundational-dependency and calibration-history sentences, and P-VS3's P-VS4-separability sentences (dependents list dropped from *Asserts* — it is duplicated verbatim in *Depends on*; illusionism self-quote replaced by its gist; `git log -S` on both trimmed passages traces to the original registration commits, not to any review-installed guard). Register 2,496 → **2,498**, `soft_warning`.
+- **P-VS3 edits**: (a) *Asserts* — "three rivals are live": illusionism (unchanged wording, the todo L552 quote preserved verbatim), the no-self objection with the Map's reply stated as constraining-not-refuting and deep-linked to `#maps-reply`, and Lin 2021 denying the global requirement while granting the local one P-MS1 needs — held short of "grants both" per the task's Lee 2025 caveat. (b) Fourth *Would shift if* limb in the concept's words, scoped to a locus-less valenced state with selfless MPE states linked out at `#rivals` — same shape as P-MS1's limb. (c) Concept added to *Argued in* and to frontmatter `concepts:`. (d) `Calibration history` gloss and `Last reviewed` 2026-09-14. P-I1 / P-SC3 / Posit One **not** added to *Depends on* — cascade isolation preserved.
+- **Owed note written**: the 2026-09-06 venue addition (experience-requirement article into *Argued in*, no note at the time for want of room) now has its dated note in the history file, marked as written today.
+- **Cascade**: none to bands. Dependents P-VS1, P-VS2, P-AC3, P-MS1 rest on the bare realism claim, which is unchanged; P-MS1 already carries the matching limb and the Lin asymmetry. `positions.md` aggregates untouched — no position added, retired or re-rated.
+- **Not done**: no *Depends on* change; no credence/grade change; P-VS1, P-VS2, P-VS4 entries not read for substance (P-VS2's history pointer retargeted only, word-neutral).
+- **Sync**: `scripts/sync.py` run; hugo tree carries the new companion and the edited register.
 
 ## 2026-09-14T08:18:00+00:00 - refine-draft
 - **Status**: Success

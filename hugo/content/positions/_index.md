@@ -1,20 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-09-06 20:38:49+00:00
+ai_modified: 2026-09-14 08:36:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 author: Andy Southgate
 concepts:
 - '[[evidential-status-discipline]]'
 created: 2026-06-04
-date: &id001 2026-09-06
+date: &id001 2026-09-14
 description: The Map's explicit, maintained register of positions it currently holds
   — claims with status, confidence, dependencies, and conditions that would shift
   them.
 draft: false
 human_modified: 2026-06-04
 last_curated: 2026-06-04
-lastmod: 2026-09-06 20:38:49+00:00
+lastmod: 2026-09-14 08:36:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -91,7 +91,7 @@ The register is grouped by domain so it stays scannable as it grows. Each domain
 - [Finding-level calibration](/positions/finding-level-calibration/) — the same conduct question at the grain of a *single finding*: the architecture-vs-significance two-tier discount, which separates the structural fact a result reports (cross-vocabulary-robust, smaller discount) from what the Map reads it as evidence for (framework-shaped, larger discount), with the discipline's own bounds and its differential scope condition registered alongside the rule
 - *Future domains, to be seeded as the register grows:* applied verdicts (clinical, AI, personal philosophy)
 
-**Companion files (not domains, containing no positions).** [Quantum interface](/positions/quantum-interface-calibration-history/), [methodology and calibration](/positions/methodology-and-calibration-history/), [value in selection](/positions/value-in-selection-calibration-history/) and [moral status](/positions/moral-status-calibration-history/) each have a calibration-history file holding their relocated dated update notes. Provenance lives there; every claim, calibration and shift condition stays in the domain file, which carries a `Calibration history` line per entry pointing back.
+**Companion files (not domains, containing no positions).** [Quantum interface](/positions/quantum-interface-calibration-history/), [methodology and calibration](/positions/methodology-and-calibration-history/), [value in selection](/positions/value-in-selection-calibration-history/) (with a [P-VS2 split](/positions/value-in-selection-calibration-history-p-vs2/)) and [moral status](/positions/moral-status-calibration-history/) each have a calibration-history file of relocated dated notes. Provenance lives there; every claim, calibration and shift condition stays in the domain file, whose `Calibration history` line per entry points back.
 
 ## How positions are maintained
 
