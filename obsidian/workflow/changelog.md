@@ -5,6 +5,13 @@ ai_modified: '2026-09-14T08:36:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-14T10:15:00+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Taboo Void — thoughts a mind can form but refuses to weigh (taboo trade-offs, forbidden base rates, heretical counterfactuals)
+- **Category**: Occluded (self-maintained and socially enforced), Unexplorable residue
+- **Output**: [[research/voids-taboo-void-2026-09-14]]
+- **Key finding**: Taboo trade-offs are rated *easier* than routine ones while the mere passage of the thought through consciousness produces contamination and cleansing (Tetlock; Hanselmann & Tanner); the void is a refused comparison operation under a description, constitutive of the value it protects (Raz, Frankfurt, Williams), and reframing shows the content itself stays reachable.
+
 ## 2026-09-14T09:25:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-intellectual-courage]]
