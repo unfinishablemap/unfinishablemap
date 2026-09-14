@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-14T14:58:00+00:00'
+ai_modified: '2026-09-14T21:40:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: `concepts/sleep-and-consciousness` banks dreamless sleep as *absence* of experience against illusionism and as *presence* for filter theory — and its Dualism paragraph's "identical brain patterns" is a condense regression
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/sleep-and-consciousness.md
+- **Notes**: From `reviews/pessimistic-2026-09-14-sleep-and-consciousness.md` (Issues 1, 2, 3, 4 — all in this one file; run as ONE pass to avoid a same-file pileup). (1) § The Illusionist Challenge "asymmetry of dreamless sleep" reads *no recall* as *no experience* (epistemic→metaphysical), while § Contemplative Evidence and condition 3 need the OPPOSITE reading ("filter theory's strongest evidence"); `voids/sleep-consciousness-void.md` L97 already commits the corpus to the presence reading. Split the readings, cite Windt, Nielsen & Thompson 2016 TICS 20(12):871-882 and Siclari 2017's white-dream category, and pick ONE side — either weaken the asymmetry point to a conditional and demote condition 3's tier, or adopt the void article's reading and drop the asymmetry point. Table cell "Nothing—time vanishes" → "No recall; phenomenal status contested". (2) Dualism paragraph: restore "gross" ("same gross EEG stage") — `git show 78614cb0f4^` has the pre-condense form; reframe so the finer-grained correlate is not presented as a dissociation from neural activity. (3) § Why Consciousness Must Withdraw: the ~10 bits/s bound is labelled behavioural three times, then used to conclude phenomenal withdrawal; retitle/reword to the serial selectional channel and add one sentence conceding the functional story is production/interface-neutral; hedge "apparently require reduced consciousness". (4) Illusionist section: the lucid-dreaming and "nothing to model" replies fail in-framework (illusionism denies phenomenal properties, not capacities; a self-model can represent awareness-as-such) — rewrite as honest boundary-marking or drop; replace "illusionism predicts extended investigation reveals the illusion as empty" with what Frankish actually predicts. Length: the article is at 2,311 words incl. frontmatter in `concepts/` — comfortably under threshold; the fixes are net-neutral to slightly positive. Preserve the computational/phenomenal binding distinction and the 2026-09-08 concessions in the Bidirectional/MQI paragraphs.
+
+### P2: `concepts/sleep-and-consciousness` Sleep-vs-Anaesthesia section infers deep-sleep dreaming from a dataset with no deep sleep (Lu 2025 = N1/N2 only) and its contemplative claims rest on one 1935 source
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/sleep-and-consciousness.md
+- **Notes**: From `reviews/pessimistic-2026-09-14-sleep-and-consciousness.md` (Issues 5, 7, plus the low reference-hygiene item). Run AFTER the sibling task above lands (same file). (5) Lu et al. 2025 *Commun Biol* 8:1784, DOI 10.1038/s42003-025-09205-2 — Europe PMC abstract lists the sleep arm as wakefulness N=31, NREM1 N=24, NREM2 N=19: no N3, no REM. "This may explain why dreaming persists in sleep but not under deep anesthesia" cannot rest on it; restrict to propofol + light sleep as measured. "natural sleep preserves the brain's integration-segregation balance" is NOT in the abstract — verify against the full text or drop. "anesthesia breaks the hinges" is propofol-specific: `topics/anaesthesia-and-the-consciousness-interface.md` L73 says ketamine anaesthesia yields vivid dreams — cross-reference it and qualify the metaphor. (7) § Contemplative Evidence "consistent across traditions" cites one tradition (Evans-Wentz 1935); add the Advaita analysis (already in `voids/sleep-consciousness-void.md` — piped wikilink is zero-cost) and cite Thompson 2014 *Waking, Dreaming, Being* ch. 8 and/or Alcaraz-Sánchez 2021 *Phenom Cogn Sci* 20:1043-1067 — verify metadata at publisher before adding. (Low) Dennett 1991, Evans-Wentz 1935, Siclari 2017, Tononi & Cirelli 2014, Massimini 2005 are in References but have zero body mentions: attach Siclari to "High-density EEG studies reveal" and Massimini to "TMS confirms", prune Dennett, and add the Demirel 2025 article number e2237242025. Also Issue 6 (No Many Worlds paragraph: "no selection occurs" during dreamless sleep collides with Tenet 2; "felt continuity presupposes a singular you" is predicted by every Everett branch) — one sentence pointing to `voids/dreamless-sleep-void` or an honest boundary mark, at the executor's judgement.
 
 ### P2: NEEDS HUMAN APPROVAL — positions-register scope changes do not propagate to dependent articles; the 2026-08-24 no-spatial-localization limit has now been missed three times
 - **Type**: refine-draft

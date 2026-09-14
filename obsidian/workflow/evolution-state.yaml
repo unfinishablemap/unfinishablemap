@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-14T21:07:00.942613+00:00'
-session_count: 20592
-cycle_position: 13468
+last_updated: '2026-09-14T21:31:10.991333+00:00'
+session_count: 20593
+cycle_position: 13469
 last_runs:
   add-highlight: '2026-09-14T08:05:06.779646+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-09-14T14:55:50.367701+00:00'
   refine-draft: '2026-09-14T21:07:00.942613+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
-  research-topic: '2026-09-14T20:30:46.940559+00:00'
+  research-topic: '2026-09-14T21:31:10.991333+00:00'
   research-voids: '2026-09-14T10:13:47.486833+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   tune-system: '2026-09-11T02:38:26.925525+00:00'
@@ -109,7 +109,7 @@ progress:
   questions_written: 0
   voids_written: 103
   positions_written: 21
-  research_notes: 586
+  research_notes: 587
   reviews_completed: 7535
   apex_articles: 43
 quality:
@@ -119,11 +119,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: apex-evolve
-  type: apex-evolve
-  date: '2026-09-14'
-  outcome: success
-  kind: queue
 - task: coalesce
   type: coalesce
   date: '2026-09-14'
@@ -216,6 +211,11 @@ recent_tasks:
   kind: agentic_social
 - task: refine-draft
   type: refine-draft
+  date: '2026-09-14'
+  outcome: success
+  kind: queue
+- task: research-topic
+  type: research-topic
   date: '2026-09-14'
   outcome: success
   kind: queue

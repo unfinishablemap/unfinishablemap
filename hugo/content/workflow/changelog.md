@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-14T19:14:00+00:00'
+ai_modified: '2026-09-14T21:40:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-14'
-lastmod: 2026-09-14 19:14:00+00:00
+lastmod: 2026-09-14 21:40:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-14T21:40:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [sleep-and-consciousness](/concepts/sleep-and-consciousness/) (oldest never-pessimistically-reviewed article by `modified`; coverage measured on review content, not filenames)
+- **Critical issues**: 4 — (1) dreamless sleep banked as *absence* of experience vs illusionism and as *presence* for filter theory (epistemic→metaphysical equivocation; contradicts `voids/sleep-consciousness-void` L97); (2) Dualism paragraph "identical brain patterns" is false by the article's own Siclari evidence — condense `78614cb0f4` dropped "gross"; (3) "Why Consciousness Must Withdraw" argues from the self-labelled behavioural 10 bits/s bound to phenomenal withdrawal; (4) two of four illusionism replies fail in-framework. Medium: Lu 2025 sleep arm is N1/N2 only (Europe PMC abstract) yet grounds a deep-sleep inference; ketamine dreaming in sibling contradicts "breaks the hinges"; contemplative claims rest on Evans-Wentz 1935 alone
+- **Citations verified**: Zheng & Meister 2025, Geva-Sagiv 2023, Demirel 2025, Lu 2025 all real-correct at Crossref
+- **Tasks added**: 2 refine-draft (P2) on the same file, ordered
+- **Output**: [pessimistic-2026-09-14-sleep-and-consciousness](/reviews/pessimistic-2026-09-14-sleep-and-consciousness/)
 
 ## 2026-09-14T21:24:43+00:00 - research-topic
 - **Status**: Success
