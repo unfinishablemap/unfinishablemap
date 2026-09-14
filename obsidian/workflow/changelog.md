@@ -4,6 +4,23 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-14T12:25:41+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-14T15:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-second-person-evidential-channel]]
+- **Original score**: n/a (citation pass; `scripts/curate.py review` does not exist)
+- **Task**: P2 source fidelity — Issues 4, 5, 6, 9 of `reviews/pessimistic-2026-09-14-the-second-person-evidential-channel.md` plus the description line. Ran after the sibling argument-structure task (already ✓), so every locus was re-located in current text with `grep -F` rather than trusted from the note.
+- **Changes**:
+  - Issue 4 (dark matter): replaced the research-note paraphrase-in-quotation-marks with the abstract's verbatim hedged wording ("are only beginning to be studied and could — paradoxically — be seen as representing the 'dark matter' of social neuroscience"), reconstructed from the OpenAlex inverted index (count 1); deleted "dominant by mass" (the article's own gloss) and marked the remaining gloss as this article's reading. Full text of the BBS body was NOT obtainable (Cambridge bronze-OA URL, Jülich, Bielefeld, citeseerx all served HTML) — abstract-only verification.
+  - Issue 5 (200 ms mode): obtained the publisher PDF of Stivers et al. 2009 via the Radboud repository (hdl 2066/77212) and read the body: "a unimodal distribution with a mode offset for each language between 0 and +200 ms, and an overall mode of 0 ms"; "The mean response offset for the full dataset is +208 ms, and the language-specific means fall within ≈250 ms either side". The article's "fixes the mode near [200 ms]" was WRONG — the overall mode is 0 ms; ~200 ms is the cross-language mean. Rewrote the sentence to the mean/±250 ms/per-language-mode figures. Planning-latency comparison now cited to Levinson & Torreira 2015 (Crossref 10.3389/fpsyg.2015.00731, Front. Psychol. 6:731; Europe PMC PMC4464110 full text grep: "latencies of around 600 ms and up for encoding a new word ... gaps between turns average around 200 ms").
+  - Issue 6 (hyperscanning uncited): added Dumas et al. 2010 (Crossref 10.1371/journal.pone.0012166, PLoS ONE 5(8) e12166; OpenAlex abstract: 9 dyads, dual EEG, alpha–mu inter-brain synchronisation over right centroparietal regions, asymmetry in higher bands tracking model/imitator roles) and Redcay & Schilbach 2019 (Crossref 10.1038/s41583-019-0179-4, Nat. Rev. Neurosci. 20(8) 495–505; Europe PMC abstract: mechanisms supporting interaction differ from observation) at L49; the article's "actor versus observer" role claim was re-phrased to the model/imitator roles Dumas actually manipulated. Added Burgess 2013 (Crossref 10.3389/fnhum.2013.00881, Front. Hum. Neurosci. 7:881; OpenAlex abstract: standard hyperconnectivity measures biased on simulated data; spurious hyper-connections in pseudo-pairs from shared condition-wise rhythmicity, not Type-1 errors) at L57 for the common-input caution.
+  - Issue 9 (protoconversation): dropped the quotation marks (review option 1). Did NOT attribute coinage to Bateson: Levinson & Torreira 2015 §6.1 state "Trevarthen (1977) and Bruner (1983) coined the term 'protoconversation' ... its systematic properties were demonstrated by Bateson (1975)", so the review's coinage claim is contested by a published source and Bateson's text is unobtainable (no abstract at OpenAlex/Europe PMC). Added Bateson 1975 (Crossref 10.1111/j.1749-6632.1975.tb41575.x, Ann. N.Y. Acad. Sci. 263(1) 101–113) only as the documenting source of the mother–infant exchanges. Same fix in `research/second-person-neuroscience-as-an-evidential-channel-2026-07-06.md` L109 and L159 (timeline row now carries the coinage caveat); note gained an `ai_modified` field.
+  - Description line: "is a distinct evidential channel" → "as a candidate third evidential channel ... other minds stay open" (160 chars; the prior line was 195 and over schema).
+  - References: +5 entries (Bateson 1975, Levinson & Torreira 2015, Dumas et al. 2010, Redcay & Schilbach 2019, Burgess 2013), every field printed from Crossref.
+- **Length**: 2,537 words body (`analyze_length`), soft 3,000 — ok.
+- **Reasoning-mode note**: no named-opponent engagement touched in this pass.
+- **Synced**: both trees (obsidian + hugo) verified by `grep -cF` on every new and retired string.
+- **Published**: yes
 ## 2026-09-14T13:05:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/the-second-person-evidential-channel]]

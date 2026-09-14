@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
+ai_modified: 2026-09-14 15:10:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 created: 2026-07-06
-date: '2026-07-06'
+date: '2026-09-14'
 draft: false
-lastmod: 2026-07-06 00:00:00+00:00
+lastmod: 2026-09-14 15:10:00+00:00
 related_articles: []
 title: Research Notes - Second-Person Neuroscience as an Evidential Channel
 ---
@@ -110,7 +111,7 @@ question is what the channel can and cannot license.
 
 ### Trevarthen (1979) — primary intersubjectivity (background/classic)
 - **Type**: Foundational developmental-psychology concept (cited throughout the above)
-- **Key point**: By ~6–8 weeks infants engage in reciprocal, affectively attuned face-to-face "protoconversation" — evidence of an innate readiness for second-person engagement prior to conceptual mind-reading.
+- **Key point**: By ~6–8 weeks infants engage in reciprocal, affectively attuned face-to-face protoconversation — evidence of an innate readiness for second-person engagement prior to conceptual mind-reading.
 - **Note**: Cite as historical grounding; verify exact 1979 chapter details at publisher of record before using in-article (classic reference, metadata varies across secondary sources).
 
 ### Hyperscanning empirical literature (dual-EEG / dual-fMRI)
@@ -160,7 +161,7 @@ question is what the channel can and cannot license.
 
 | Year | Event/Publication | Significance |
 |------|-------------------|--------------|
-| 1979 | Trevarthen, primary intersubjectivity | Reciprocal infant "protoconversation"; developmental root of the second-person stance |
+| 1979 | Trevarthen, primary intersubjectivity | Reciprocal infant protoconversation (the mother–infant exchanges M. C. Bateson 1975 had documented; coinage of the term is assigned variously to Bateson and to Trevarthen — do not attribute in quotation marks); developmental root of the second-person stance |
 | 2006 | Levinson, "interaction engine" (Berg) | Pre-linguistic pragmatic package; turn-taking as reciprocity marker |
 | 2008 | Reddy, *How Infants Know Minds* (Harvard UP) | Explicit "second-person solution" to other minds: know by responding |
 | 2009 | Fuchs & De Jaegher, participatory sense-making (*Phen. Cog. Sci.*) | Phenomenology + dynamics of meaning made *between* agents |
