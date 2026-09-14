@@ -445,6 +445,22 @@ p-ms2:
     without raising its status — confidence: low · normative, not an empirical claim · peripheral to the
     framework'
   weak: 'yes'
+p-pi1:
+  bands: 'confidence: moderate · some independent evidence · moderately central'
+  claim: The cross-modal capability division is a two-tier finding — an exteroceptive asymmetry carrying
+    its own scope condition on the architecture tier, and a reading held consonant with the interface
+    and probative of nothing on the significance tier
+  credence: moderate
+  grade: B
+  id: P-PI1
+  slug: perception-and-the-interface
+  status: live
+  structural_centrality: moderate
+  summary: 'P-PI1: The cross-modal capability division is a two-tier finding — an exteroceptive asymmetry
+    carrying its own scope condition on the architecture tier, and a reading held consonant with the interface
+    and probative of nothing on the significance tier — confidence: moderate · some independent evidence
+    · moderately central'
+  weak: 'no'
 p-q1:
   bands: 'confidence: moderate · no independent evidence · moderately central'
   claim: Post-decoherence selection is the strongest current mechanism candidate

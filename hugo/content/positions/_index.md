@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-09-14 10:20:00+00:00
+ai_modified: 2026-09-14 14:54:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 author: Andy Southgate
 concepts:
@@ -14,7 +14,7 @@ description: The Map's explicit, maintained register of positions it currently h
 draft: false
 human_modified: 2026-06-04
 last_curated: 2026-06-04
-lastmod: 2026-09-14 10:20:00+00:00
+lastmod: 2026-09-14 14:54:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -71,6 +71,7 @@ That same commit did not update the paragraph above, which reads the column it h
 - **Updated 2026-09-05**: re-derived twice over. The 02:06 UTC pass that moved [P-VS2](/positions/value-in-selection/#p-vs2) direct → indirect had not touched this paragraph — the dependent-goes-stale shape the 2026-08-24 note records, a third time, caught the same way — so **direct** 4 → 3 and **indirect** 21 → 22 land here now. Then [P-MS2](/positions/moral-status/#p-ms2) moved none → n/a: a category correction, not a testability gain, a normative threshold-versus-magnitude claim having been filed among first-order claims with empirically equivalent rival readings. **none** 8 → 7, **n/a** 19 → 20, inert eleven → ten, framework-internal inert ten → nine; high-centrality inert unchanged at five.
 - **Updated 2026-09-06**: re-derived on [P-MC3](/positions/arguments-for-mental-causation/#p-mc3) moving n/a → indirect — an entry bundling a structural diagnostic with the Map's own escape, whose shift condition turns on a physics question, filed among the normative and meta commitments. **n/a** 20 → 19, **indirect** 22 → 23. Live 56, inert ten, framework-internal inert nine, high-centrality inert five all unchanged: the move is within the empirically-live bands and touches neither inert bucket.
 - **Updated 2026-09-14**: re-derived on adding [P-TU1](/positions/thought-and-understanding/#p-tu1) (`indirect` · framework-internal: no): live 56 → 57, **indirect** 23 → 24. Inert count unchanged at ten, now ten of fifty-seven; framework-internal inert nine and high-centrality inert five unchanged.
+- **Updated 2026-09-14** (second pass): re-derived on adding [P-PI1](/positions/perception-and-the-interface/#p-pi1) (`indirect` · framework-internal: no): live 57 → 58, **indirect** 24 → 25. Inert count unchanged at ten, now ten of fifty-eight; framework-internal inert nine and high-centrality inert five unchanged.
 
 ## Domains
 
@@ -91,6 +92,7 @@ The register is grouped by domain so it stays scannable as it grows. Each domain
 - [Thought and understanding](/positions/thought-and-understanding/) — consciousness in thought: qualified liberalism about cognitive phenomenology (proprietary, individuative phenomenal character of thinking in the ordinary range), the constitutive reading (PCT) held abductively with every downstream application conditional on it, and first-person texture read as constraining rival accounts without establishing irreducibility or causal efficacy — a first-order commitment kept apart from the dualism-argument counting rules, since its retirement would weaken the wing rather than restrain it
 - [Methodology and calibration](/positions/methodology-and-calibration/) — what the Map commits to *about its own evidence and conduct*: the tenet-register / evidence-register separation (a tenet removes a defeater but never upgrades the evidence), the common-cause null as a standing discount on convergence, the publisher-of-record citation and weight-class standard, the framework-stage / open-programme self-calibration, and the honest gap between disclosure and enforcement
 - [Finding-level calibration](/positions/finding-level-calibration/) — the same conduct question at the grain of a *single finding*: the architecture-vs-significance two-tier discount, which separates the structural fact a result reports (cross-vocabulary-robust, smaller discount) from what the Map reads it as evidence for (framework-shaped, larger discount), with the discipline's own bounds and its differential scope condition registered alongside the rule
+- [Perception and the interface](/positions/perception-and-the-interface/) — first-order structural findings from the sensory-modality survey and the discount each carries: the cross-modal capability division as a two-tier finding ([P-F1](/positions/finding-level-calibration/#p-f1)'s fourth instance) — modality-specific brain machinery and a supramodal access signature across the distance senses, inverted by interoception, driven to both extremes by the vestibular sense, made a gradient by thermoception, and read as the operational shape of the brain/mind distinction only at the larger discount, since the Global Neuronal Workspace predicts the same signature
 - *Future domains, to be seeded as the register grows:* applied verdicts (clinical, AI, personal philosophy)
 
 **Companion files (not domains, containing no positions).** [Quantum interface](/positions/quantum-interface-calibration-history/), [methodology and calibration](/positions/methodology-and-calibration-history/), [value in selection](/positions/value-in-selection-calibration-history/) (with a [P-VS2 split](/positions/value-in-selection-calibration-history-p-vs2/)) and [moral status](/positions/moral-status-calibration-history/) each have a calibration-history file of relocated dated notes. Provenance lives there; every claim, calibration and shift condition stays in the domain file, whose `Calibration history` line per entry points back.
