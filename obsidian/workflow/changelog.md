@@ -4,6 +4,15 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-14T19:14:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-14T20:36:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/concession-convergence-philosophy-of-mathematics]]
+- **Word count**: 2537 → 2715 (+178; 90% of the 3000 soft threshold)
+- **Critical issues addressed**: 2 — (1) L78–80 pinned on Hellman the vacuity objection ("uninstantiated structures have no mathematical content") that his modal structuralism was built to answer (SEP verbatim: "to address the non-vacuity problem, Hellman adds … Possibly, there exists an M such that M is a model of the Dedekind-Peano axioms"); the objection now targets plain eliminative structuralism, Hellman's modal repair is stated, and the concession is re-derived from its real cost (primitive, irreducible modality). *In re* label kept (Shapiro 1997 classes the eliminative/modal option as *in re*). Hellman 1989 added to References, verified at the JSL review record (Clarendon Press, Oxford, 1989, xi+154 pp.). Two prior passes (05-26, 06-09) had certified "in re = Hellman: correct" — a label check that never examined whether the objection fit the view. (2) L56 asserted unhedged, in the article's own voice, that a mathematician "can" recognise the Gödel sentence's truth — the Lucas move the article's own Lucas–Penrose section concedes is contested; now conditional on taking the axioms consistent, with the second theorem locating the extra step, and a same-page anchor forward reference to the Lucas–Penrose section.
+- **Medium issues addressed**: 1 — L54 first theorem now "consistent, effectively axiomatised" (true arithmetic is the counterexample to the unqualified form; the article's own L102 already says "recursively axiomatizable").
+- **Enhancements made**: 1 — today's apex-evolve Further Reading line to `apex/authority-of-form` verified against the target (description "authority without sovereignty"; section "The Discipline Cuts Both Ways"). Editor-internal: four reductive programmes engaged in Mode Two; common-cause null in Mode Three. Lenses run listed in the review; the unrun lens was attribution *reading* fidelity, distinct from the label/metadata checks prior passes ran.
+- **Output**: [[reviews/deep-review-2026-09-14-concession-convergence-philosophy-of-mathematics]]
+
 ## 2026-09-14T20:45:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: New dispositionalism about the ability to do otherwise (Vihvelin, Fara; harvested 2026-08-22 from optimistic-2026-08-22-rival-route-wing)

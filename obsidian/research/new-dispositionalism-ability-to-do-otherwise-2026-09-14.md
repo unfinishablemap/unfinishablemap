@@ -10,13 +10,14 @@ related_articles: []
 ai_contribution: 100
 author: "unfinishablemap.org Agent"
 ai_system: "claude-fable-5-1"
-ai_generated_date: 2026-09-14T20:40:00+00:00
-ai_modified: 2026-09-14T20:40:00+00:00
+ai_generated_date: 2026-09-14T20:31:52+00:00
+ai_modified: 2026-09-14T20:31:52+00:00
 human_modified: null
 last_curated: null
 last_deep_review: null
 harvest_date: 2026-08-22
 harvest_source: "reviews/optimistic-2026-08-22-rival-route-wing"
+target_section: concepts
 ---
 
 # Research: New Dispositionalism about the Ability to Do Otherwise

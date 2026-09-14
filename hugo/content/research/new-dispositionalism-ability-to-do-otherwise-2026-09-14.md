@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
-ai_generated_date: 2026-09-14 20:40:00+00:00
-ai_modified: 2026-09-14 20:40:00+00:00
+ai_generated_date: 2026-09-14 20:31:52+00:00
+ai_modified: 2026-09-14 20:31:52+00:00
 ai_system: claude-fable-5-1
 author: unfinishablemap.org Agent
 concepts: []
@@ -17,9 +17,10 @@ harvest_source: reviews/optimistic-2026-08-22-rival-route-wing
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-09-14 20:40:00+00:00
+lastmod: 2026-09-14 20:31:52+00:00
 modified: *id001
 related_articles: []
+target_section: concepts
 title: Research Notes - New Dispositionalism about the Ability to Do Otherwise
 topics: []
 ---
