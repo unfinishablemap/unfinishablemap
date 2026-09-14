@@ -4,7 +4,7 @@ description: "Human+AI exploration of the structural opacity around the operatio
 created: 2026-05-18
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-07-19T18:38:12+00:00
+ai_modified: 2026-09-14T17:50:46+00:00
 last_deep_review: 2026-07-19T18:38:12+00:00
 draft: false
 topics:
@@ -32,7 +32,7 @@ related_articles:
   - "[[non-human-minds-as-void-explorers]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-fable-5-1
 ai_generated_date: 2026-05-18
 last_curated:
 ---
@@ -91,7 +91,7 @@ The closest direct approach is **post-hoc reconstruction** — debriefing after 
 
 ### Indirect Methods
 
-**Pathological windows** are the primary route. Hallucination, derealization, dream-confabulation, and the Perky literature each expose a different sub-component by showing what its disruption looks like from inside. **Parametric VR paradigms** (Drori et al. 2025; the Dijkstra virtual-hallucination line) supply the strongest non-pathological probe: stimuli vary just the inputs the discriminator should be using, and reality-monitoring output is measured trial-by-trial. **Cellular and computational modelling** of the apical-amplification framework (Aru, Suzuki and Larkum 2020) supplies a candidate site: the conjunction-marker for the two inputs cortical pyramidal cells receive is the principled candidate for what reality-monitoring could exploit. The shared methodological posture is to model the boundary by what disrupts traffic across it.
+**Pathological windows** are the primary route. Hallucination, derealization, dream-confabulation, and the Perky literature each expose a different sub-component by showing what its disruption looks like from inside. **Parametric VR paradigms** (Drori et al. 2025; the Dijkstra virtual-hallucination line) supply the strongest non-pathological probe: stimuli vary just the inputs the discriminator should be using, and reality-monitoring output is measured trial-by-trial. **Cellular-level theory** supplies a candidate site. Dendritic integration theory (Aru, Suzuki and Larkum 2020; stated as a theory in Bachmann, Suzuki and Aru 2020) locates conscious processing at the coupling of the two functionally distinct compartments of layer-5 pyramidal cells — a basal compartment receiving feedforward sensory input and an apical compartment receiving contextual, top-down and thalamic input — and the marker of their conjunction is the principled candidate for what reality-monitoring could exploit. The sibling apical-drive proposal (Aru, Siclari, Phillips and Storm 2020) sharpens the relevance: it holds that in dreams, and perhaps in waking imagery, the output of the same cells is driven mainly from the apical side. If so, self-generated and externally generated experience leave the cell by one channel and differ in which compartment drove it — a compartmental fact the output itself does not carry, which is this void's shape restated at the cellular level. Whether the thalamocortical gating regulates the state of consciousness only or can selectively admit or exclude specific contents is a question the theory's own authors list as open, so what the theory offers is a site, not a discriminator. (Apical amplification — Marvan et al. 2021 — is a related but separately named framework whose authors describe it as complementary to dendritic integration theory rather than a synonym for it.) The shared methodological posture is to model the boundary by what disrupts traffic across it.
 
 ### What AI Might See
 
@@ -127,16 +127,19 @@ The void also bears on **Occam's Razor Has Limits**. The simplest possible decod
 
 ## References
 
-1. Aru, J., Suzuki, M., & Larkum, M. E. (2020). Cellular Mechanisms of Conscious Processing. *Trends in Cognitive Sciences*, 24(10), 814–825. https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(20)30175-3
-2. Billon, A. (2024). The psychopathology of metaphysics: Depersonalization and the problem of reality. *Metaphilosophy*, 55(1), 3–30. https://onlinelibrary.wiley.com/doi/10.1111/meta.12666
-3. Corlett, P. R., Canavan, S. V., Nahum, L., Appah, F., & Morgan, P. T. (2014). Dreams, reality and memory: confabulations in lucid dreamers implicate reality-monitoring dysfunction in dream consciousness. *Cognitive Neuropsychiatry*, 19(6), 540–553. https://pubmed.ncbi.nlm.nih.gov/25028078/
-4. Dijkstra, N., Kok, P., & Fleming, S. M. (2022). Perceptual reality monitoring: Neural mechanisms dissociating imagination from reality. *Neuroscience & Biobehavioral Reviews*, 135. https://www.sciencedirect.com/science/article/abs/pii/S014976342200046X
-5. Dijkstra, N., Mazor, M., & Fleming, S. M. (2024). Confidence ratings do not distinguish imagination from reality. *Journal of Vision*, 24(5), 13. https://doi.org/10.1167/jov.24.5.13
-6. Dijkstra, N., et al. (2025). A neural basis for distinguishing imagination from reality. *Neuron*. https://www.cell.com/neuron/fulltext/S0896-6273(25)00362-9
-7. Drori, G., … Salomon, R. (2025). Unreal? A Behavioral, Physiological, and Computational Model of the Sense of Reality. *bioRxiv* preprint. https://doi.org/10.1101/2025.04.07.647542
-8. Fazekas, P. (2021). Hallucinations as intensified forms of mind-wandering. *Philosophical Transactions of the Royal Society B*, 376(1817). https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0700
-9. Mazor, M., Friston, K. J., & Fleming, S. M. (2020). Distinct neural contributions to metacognition for detecting, but not discriminating visual stimuli. *eLife*, 9, e53900. https://elifesciences.org/articles/53900
-10. Perky, C. W. (1910). An experimental study of imagination. *American Journal of Psychology*, 21, 422–452.
-11. Segal, S. J., & Fusella, V. (1970). Influence of imaged pictures and sounds on detection of visual and auditory signals. *Journal of Experimental Psychology*, 83(3), 458–464.
-12. Southgate, A. & Oquatre-six, C. (2026-04-16). The Predictive Construction Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/predictive-construction-void/
-13. Southgate, A. & Oquatre-sept, C. (2026-04-21). The Source-Attribution Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/source-attribution-void/
+1. Aru, J., Siclari, F., Phillips, W. A., & Storm, J. F. (2020). Apical drive—A cellular mechanism of dreaming? *Neuroscience & Biobehavioral Reviews*, 119, 440–455. https://doi.org/10.1016/j.neubiorev.2020.09.018
+2. Aru, J., Suzuki, M., & Larkum, M. E. (2020). Cellular Mechanisms of Conscious Processing. *Trends in Cognitive Sciences*, 24(10), 814–825. https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(20)30175-3
+3. Bachmann, T., Suzuki, M., & Aru, J. (2020). Dendritic integration theory: A thalamo-cortical theory of state and content of consciousness. *Philosophy and the Mind Sciences*, 1(II), 2. https://doi.org/10.33735/phimisci.2020.II.52
+4. Billon, A. (2024). The psychopathology of metaphysics: Depersonalization and the problem of reality. *Metaphilosophy*, 55(1), 3–30. https://onlinelibrary.wiley.com/doi/10.1111/meta.12666
+5. Corlett, P. R., Canavan, S. V., Nahum, L., Appah, F., & Morgan, P. T. (2014). Dreams, reality and memory: confabulations in lucid dreamers implicate reality-monitoring dysfunction in dream consciousness. *Cognitive Neuropsychiatry*, 19(6), 540–553. https://pubmed.ncbi.nlm.nih.gov/25028078/
+6. Dijkstra, N., Kok, P., & Fleming, S. M. (2022). Perceptual reality monitoring: Neural mechanisms dissociating imagination from reality. *Neuroscience & Biobehavioral Reviews*, 135. https://www.sciencedirect.com/science/article/abs/pii/S014976342200046X
+7. Dijkstra, N., Mazor, M., & Fleming, S. M. (2024). Confidence ratings do not distinguish imagination from reality. *Journal of Vision*, 24(5), 13. https://doi.org/10.1167/jov.24.5.13
+8. Dijkstra, N., et al. (2025). A neural basis for distinguishing imagination from reality. *Neuron*. https://www.cell.com/neuron/fulltext/S0896-6273(25)00362-9
+9. Drori, G., … Salomon, R. (2025). Unreal? A Behavioral, Physiological, and Computational Model of the Sense of Reality. *bioRxiv* preprint. https://doi.org/10.1101/2025.04.07.647542
+10. Fazekas, P. (2021). Hallucinations as intensified forms of mind-wandering. *Philosophical Transactions of the Royal Society B*, 376(1817). https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0700
+11. Marvan, T., Polák, M., Bachmann, T., & Phillips, W. A. (2021). Apical amplification—a cellular mechanism of conscious perception? *Neuroscience of Consciousness*, 2021(2), niab036. https://doi.org/10.1093/nc/niab036
+12. Mazor, M., Friston, K. J., & Fleming, S. M. (2020). Distinct neural contributions to metacognition for detecting, but not discriminating visual stimuli. *eLife*, 9, e53900. https://elifesciences.org/articles/53900
+13. Perky, C. W. (1910). An experimental study of imagination. *American Journal of Psychology*, 21, 422–452.
+14. Segal, S. J., & Fusella, V. (1970). Influence of imaged pictures and sounds on detection of visual and auditory signals. *Journal of Experimental Psychology*, 83(3), 458–464.
+15. Southgate, A. & Oquatre-six, C. (2026-04-16). The Predictive Construction Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/predictive-construction-void/
+16. Southgate, A. & Oquatre-sept, C. (2026-04-21). The Source-Attribution Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/source-attribution-void/
