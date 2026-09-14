@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-14T12:25:41+00:00'
+ai_modified: '2026-09-14T14:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-14'
-lastmod: 2026-09-14 12:25:41+00:00
+lastmod: 2026-09-14 14:58:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-14T14:58:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the **scientific-theories wing** — the eleven `concepts/` pages engaging the empirical and representational theories of consciousness: `global-workspace-theory` (3424w), `integrated-information-theory` (3482w, 17 from hard, untouched 64 days), `higher-order-theories` (3342w), `recurrent-processing-theory` (2083w), `attention-schema-theory` (3484w, 15 from hard), `first-order-representationalism` (2848w), `attended-intermediate-representations-theory` (2448w), `multiple-drafts-model` (1927w), `self-model-theory-of-subjectivity` (1598w), `neural-correlates-of-consciousness` (3392w), `the-unfolding-argument-against-causal-structure-theories-of-consciousness` (3022w). 31,050 body words. No prior wing-level optimistic pass (all optimistic files content-scanned per slug; max 2 passing mentions per member).
+- **Output**: [optimistic-2026-09-14-scientific-theories-wing](/reviews/optimistic-2026-09-14-scientific-theories-wing/)
+- **Headline — the wing shares one argument-form with no home page.** Nine of eleven articles make the Map's core move under the word "relocat-" (the rival fixes the functional/structural facts and leaves the phenomenal fact untouched); 39 live articles use it corpus-wide; `first-order-representationalism` and `attention-as-interface` both name it "the relocation objection" (the latter aiming it at the Map's own interface hypothesis); no page defines it. Expand-topic lane measured at 1 open task, research 0, `concepts/` 327 of 360 — the one cycle where a new page outranks link-work. Minted as P3 expand-topic `concepts/the-relocation-objection` (human approval).
+- **Finding 1 — `integrated-information-theory` counts one experiment twice, and two deep reviews fenced it.** §Controversy presents "The Templeton Tests" (2023, "250 subjects, six labs", uncited "2 of 3 predictions vs 0 of 3") and "The COGITATE Experiment (2025)" as two tests, the second "more rigorous". Same study: Europe PMC full text (PMC12137136) — n = 256, TWCF-funded, *Nature* received 23 June 2023, the day of the bioRxiv preprint and week of the ASSC 2023 announcement; "2 of 3"/"three predictions" 0 hits in the paper. In place since creation commit `f4dc6b24e0`; deep reviews 06-04 L39 and 06-25 L47 both recorded "distinct from COGITATE, correctly separated in-body". Both trees. P3 refine-draft minted; the merge must be net-negative (17 words of headroom) and funds a hedge at L207 (temporal-gap paragraph contradicts L205's own concession) and the missing unfolding-argument link.
+- **Findings 2–4 (connection, measured on body links):** the unfolding argument has in-degree 0 in the wing and 0 hits for "unfolding" in both its named targets (IIT, RPT); AST and SMT — the wing's two transparent-model theories making the identical objection — have 0 cross-mentions either way, and SMT is a total wing isolate (in 0 / out 0); NCC is labelled by RPT "the survey situating RPT among the big-four" yet links 3 of 10 siblings (0 to GWT, 0 hits "higher-order"; de facto hub is GWT at out 7 / in 6). Three P3 refine-drafts (RPT, SMT, NCC), each with printed headroom.
+- **Calibration concern (personas in conflict → refine-draft, per skill):** `attention-schema-theory` §Process Philosophy Perspective — "illuminates why AST's explanation fails" / "Why Models Cannot Generate Experience" argues from a panexperientialist premise the Map does not hold; process resonance doing refutation work. P3 refine-draft minted (must be net-negative, 15 from hard; carries the SMT reciprocal as a 0-word piped link).
+- **Carried, not minted**: Tenet-Dependency Matrix row for the cluster (tenets.md over critical, blocked, one row task already pending from 09-11); "Site's" rename remnant in GWT L104 (+3 files corpus-wide); 0 tenet anchors in MDM and the unfolding page; HOT L81 "zombies" piped to functionalism; Naccache 2025 has a 2026 correction (niag020) the GWT page does not cite; Lamme 2006 quotes not machine-verifiable (metadata exact).
+- **Verification**: Doerig 2019, Herzog 2022, O'Reilly-Shah 2026, Bor 2017, Lamme 2006, Mylopoulos 2015, Metzinger 2020, COGITATE 2025 all Crossref-exact; COGITATE abstract phrases quoted by RPT present in OpenAlex reconstruction; all 22 wikilink targets in the review file resolved via `build_content_index`, 0 unresolved.
+- **Tasks added**: 6 (P3: 5 refine-draft, 1 expand-topic). Content files untouched (reports-only).
 
 ## 2026-09-14T14:02:54+00:00 - refine-draft
 - **Status**: Success
