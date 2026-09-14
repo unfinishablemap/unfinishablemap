@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-05-31 09:00:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-14 10:50:11+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 concepts:
 - '[[cognitive-phenomenology]]'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 12:52:52+00:00
-lastmod: 2026-05-31 09:00:00+00:00
+lastmod: 2026-09-14 10:50:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -79,9 +79,15 @@ Three characteristic experiences stand out:
 
 **The credibility puzzle.** Encountering a philosophically sophisticated opponent creates a distinctive tension. You cannot dismiss their competence — they have read the same material, considered the same arguments, and reasoned carefully. Yet their conclusion strikes you as profoundly mistaken. The tension between respecting their reasoning and finding their conclusion incredible has its own felt quality: a kind of cognitive friction that resists resolution. The [phenomenology of intellectual courage](/topics/phenomenology-of-intellectual-courage/) examines the related but distinct experience of *maintaining* one's position through this friction — the sustained effort of holding a conviction that competent peers reject.
 
-**The mirror discomfort.** Your opponent's confidence mirrors your own. They find your position as puzzling as you find theirs. This symmetry generates a specific discomfort — the awareness that you look to them exactly as they look to you. Thomas Kelly and others in the peer disagreement literature have explored this rationally, asking whether the existence of epistemic peers should reduce your confidence. The phenomenology adds a dimension the rational analysis misses: the felt unsettlement of recognising yourself in your opponent's bafflement.
+**The mirror discomfort.** Your opponent's confidence mirrors your own. They find your position as puzzling as you find theirs. This symmetry generates a specific discomfort — the awareness that you look to them exactly as they look to you. The peer disagreement literature has explored this rationally, asking whether the existence of epistemic peers should reduce your confidence — a question on which it splits, as the next section describes. The phenomenology adds a dimension the rational analysis misses: the felt unsettlement of recognising yourself in your opponent's bafflement.
 
 **The convergence fantasy.** Sustained philosophical disagreement often produces imagined scenarios of convergence — "if only they could see this one thing clearly, they would come around." This fantasy has phenomenal character: a reaching toward the other mind, a projecting of one's own felt evidence into their framework. The fantasy fails because the "one thing" that would resolve the disagreement is not a fact but a way of experiencing — and ways of experiencing cannot be transferred through argument alone.
+
+## The Snap Before the Conciliationist
+
+Described in third-person terms, the rubber-band snap is a report that credence did not move. A competent peer holds the opposing view, and after a genuine attempt to occupy it, attention returns home with relief. The epistemology of disagreement has a verdict on this. Conciliationists hold that a peer's disagreement is itself evidence that you may have erred, and that the rational response is to move your credence substantially toward theirs. Feldman (2006) argues that in the paradigm cases the only reasonable attitude is suspension of judgement; Elga (2007) defends an Equal Weight View on which a peer's assessment deserves the same weight as your own; Christensen (2007) argues that a peer's disagreement should reduce your confidence even when you can find no flaw in your own reasoning, because the disagreement is evidence about that reasoning's reliability. Kelly (2005) resists: the first-order evidence and arguments retain their force after the disagreement is discovered, and rationality does not require that a peer's bare opinion swamp them. Kelly (2010) later moderates this into the Total Evidence View: the disagreement counts as evidence but does not automatically override the evidence one started with.
+
+Put to this literature, the snap admits two readings. On the conciliationist reading it is the felt form of the irrationality conciliationism diagnoses: attention returning to one's own position with a sense of homecoming is what dogmatism feels like from the inside, and the relief is the relief of not having updated. On the steadfast reading the snap is data the conciliationist must explain — a reproducible phenomenal event tracking the continuing grip of the first-order evidence rather than a failure to weigh the peer's opinion. The Map cannot simply help itself to the second reading. Its concession in the Relation to Site Perspective section — that its own commitments produce the felt conviction that dualism is correct — grants that the snap, in its own case, may be framework-generated, which is exactly what the conciliationist predicts. What the phenomenology adds is a constraint rather than a refutation. The Equal Weight View must either treat the snap as noise, which sits badly with its regularity and with its absence in cases of merely unexamined difference, or explain why rational peers who have each moved toward the other should still find each other's positions phenomenally uninhabitable. On the conciliationist picture, philosophical disagreement should not persist among rational peers, which makes the phenomenology described here a test case for that picture and not only an illustration of the Map's own.
 
 ## Disagreement as Evidence
 
@@ -99,7 +105,7 @@ First, the fact that philosophical positions are *inhabited* rather than merely 
 
 Second, the persistence of philosophical disagreement despite shared arguments may point to something about the structure of consciousness itself. The [problem of philosophical progress](/topics/consciousness-defeats-explanation/) article explores this asymmetry with science at length. If conscious experience were fully transparent to introspection and communicable through language, philosophical disagreement about consciousness should eventually resolve — the disputants share the subject matter (their own experience) and the method (introspective examination plus argument). The fact that disagreement persists despite shared access to the phenomenon suggests that either introspective access is partial (we do not fully see what we are), or communicative transfer is lossy (we cannot fully convey what we see), or both. The [voids-between-minds](/voids/voids-between-minds/) — the gap between what one consciousness can grasp of another — may apply even when the subject matter is consciousness itself.
 
-Third, philosophical disagreement illustrates the [bidirectional interaction](/tenets/#bidirectional-interaction) between consciousness and cognition. The felt quality of one's philosophical framework shapes reasoning: what counts as a problem, what counts as a solution, which arguments feel compelling. This influence operates at a level more fundamental than explicit reasoning. It structures the space within which reasoning occurs. If consciousness were epiphenomenal — present but causally idle — this shaping influence would be inexplicable. The phenomenology of philosophical disagreement reveals consciousness doing causal work at the foundations of thought.
+Third, philosophical disagreement illustrates the [bidirectional interaction](/tenets/#bidirectional-interaction) between consciousness and cognition. The felt quality of one's philosophical framework shapes reasoning: what counts as a problem, what counts as a solution, which arguments feel compelling. This influence operates at a level more fundamental than explicit reasoning. It structures the space within which reasoning occurs. If consciousness were epiphenomenal — present but causally idle — this shaping influence would be hard to explain, though not inexplicable: the epiphenomenalist can hold that the framework and the felt conviction share a common neural cause, so that the felt quality accompanies the shaping without doing it — the reply the [phenomenology of deliberation](/topics/phenomenology-of-deliberation-under-uncertainty/) article takes up for the felt sense of a right call. The phenomenology of philosophical disagreement therefore constrains the epiphenomenalist rather than refuting them: it shows consciousness present at the foundations of thought, where the causal-work reading is the natural one, without establishing on its own that the felt quality is what does the work.
 
 ## Relation to Site Perspective
 
@@ -127,7 +133,11 @@ The Map's [Occam's Razor tenet](/tenets/#occams-limits) is also relevant. The ma
 ## References
 
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Christensen, D. (2007). Epistemology of disagreement: The good news. *The Philosophical Review*, 116(2), 187-217. https://doi.org/10.1215/00318108-2006-035
+1. Elga, A. (2007). Reflection and disagreement. *Noûs*, 41(3), 478-502. https://doi.org/10.1111/j.1468-0068.2007.00656.x
+1. Feldman, R. (2006). Epistemological puzzles about disagreement. In S. Hetherington (Ed.), *Epistemology Futures* (pp. 199-215). Oxford University Press. https://doi.org/10.1093/oso/9780199273317.003.0013
 1. Fogelin, R. (1985). The logic of deep disagreements. *Informal Logic*, 7(1), 3-11.
 1. Kelly, T. (2005). The epistemic significance of disagreement. *Oxford Studies in Epistemology*, 1, 167-196.
+1. Kelly, T. (2010). Peer disagreement and higher-order evidence. In R. Feldman & T. A. Warfield (Eds.), *Disagreement* (pp. 111-174). Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199226078.003.0007
 1. Pitt, D. (2004). The phenomenology of cognition. *Philosophy and Phenomenological Research*, 69(1), 1-36.
 1. Strawson, G. (1994). *Mental Reality*. MIT Press.

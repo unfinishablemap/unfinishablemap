@@ -5,6 +5,20 @@ ai_modified: '2026-09-14T08:36:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-14 10:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-philosophical-disagreement]]
+- **Source**: optimistic-2026-08-27-intellectual-life-wing, "cites only the side that agrees with it" (todo P3)
+- **Original score**: n/a (`scripts/curate.py` does not exist; length probe used instead — 2410w before, 2987w after, topics soft 3000, status ok)
+- **Changes**:
+  - New section "The Snap Before the Conciliationist" after "The Phenomenology of the Opponent": states the conciliationist side (Feldman 2006 suspension; Elga 2007 Equal Weight View; Christensen 2007 disagreement-as-evidence-of-unreliability) against Kelly 2005, with Kelly 2010 Total Evidence View as the moderated steadfast position; puts the rubber-band snap to both readings (dogmatism-from-the-inside vs data-the-conciliationist-owes) and uses the Relation to Site Perspective self-application concession to block the Map from assuming the second; closes in the constrain-not-establish register.
+  - L78 "Thomas Kelly and others in the peer disagreement literature" → "The peer disagreement literature … a question on which it splits, as the next section describes" (Kelly was being cited as if he spoke for the literature).
+  - Tenet 3 paragraph ("If consciousness were epiphenomenal … inexplicable … reveals consciousness doing causal work"): installed the common-cause epiphenomenalist reply the sibling `phenomenology-of-deliberation-under-uncertainty` states, with a piped wikilink to it; "reveals" → "constrains the epiphenomenalist rather than refuting them … without establishing on its own".
+  - References: +Christensen 2007 (*Phil Review* 116(2) 187-217), +Elga 2007 (*Noûs* 41(3) 478-502), +Feldman 2006 (Hetherington ed. *Epistemology Futures* 199-215), +Kelly 2010 (Feldman & Warfield eds. *Disagreement* 111-174). All four DOIs verified at Crossref this run (title, author, container, pages, year printed and matched). Note the task note attributed "Total Evidence view" to Kelly 2005; that label is Kelly 2010's, and 2005 is cited as the earlier steadfast reply.
+  - Engagement with the conciliationist (Christensen/Elga/Feldman): Mode Two shading to Mode Three; the article identifies what the Equal Weight View owes (an account of phenomenal uninhabitability after mutual updating) using the view's own rationality standard, and declares the residue honestly rather than claiming refutation. Engagement with the epiphenomenalist: Mode Three — the common-cause reply is granted as available and the phenomenology is said to constrain, not establish.
+  - `ai_modified` bumped (`date -u`); `ai_system` extended to `claude-opus-4-6+claude-fable-5-1`.
+- **Published**: yes
+
 ## 2026-09-14T10:34:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-phenomenology-of-constraint-satisfaction]]
