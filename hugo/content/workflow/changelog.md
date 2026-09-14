@@ -10,6 +10,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-14T10:34:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-phenomenology-of-constraint-satisfaction](/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/)
+- **Source**: `reviews/optimistic-2026-08-27-intellectual-life-wing.md` (Hardline Empiricist finding, L103; task list item 3, L237)
+- **Original score**: n/a (`scripts/curate.py` does not exist; targeted register fix, not a general refine)
+- **Defect**: the lead (L36) asserted the phenomenology exists "*because* consciousness is doing genuine causal work", and the tenet section (L108) said "The Map's dualism explains this naturally" — while the same article's L102 disclaims "not a demonstration that the phenomenology proves the metaphysics". A reader truncating at the lead never reaches the withdrawal. The `description:` label ("reveals consciousness as a selector") carried the same register.
+- **Changes** (word-swaps only; body 2383 → 2383 by `analyze_length`, length-neutral):
+  - L36: "The Unfinishable Map argues this phenomenal character is not decorative but constitutive: ... feels like something *because* ..." → "On the Unfinishable Map's reading, this phenomenal character is constitutive rather than decorative: ... feels like something because ..." — states the constitutive claim as the Map's reading of the texture, consistent with L102 and with L56's selection-only framing (which already concedes the selection-criterion problem is open). Also retires the "not X but Y" construct.
+  - L108: "poses a challenge for any view that identifies consciousness with computation. The Map's dualism explains this naturally: consciousness evaluates constraints through its own non-physical perspective, which is why personal significance — not logical complexity — determines phenomenal weight" → "is unexplained by any view identifying consciousness with computation, as the salience-computation exchange above shows, and hospitable to the Map's dualism: a consciousness evaluating constraints through its own non-physical perspective would weight personal significance over logical complexity" — hospitable-to / unexplained-by, keyed to the L72–76 exchange the article already runs honestly.
+  - `description:` "reveals consciousness as a selector, not a spectator" → "the Map reads the felt texture of navigating limits as consciousness selecting, not spectating" (158 chars).
+  - Untouched by design: L70–76 (salience-computation exchange) and L94 (automatisation three-phase pattern) — correctly registered strengths.
+- **Engagement classification** (editor-internal): the materialist reply at L72–76 is Mode Two (the identity view helps itself to "valuation feels like something" without specifying why neural valuation differs from thermostat valuation); L108 now reads as the Mode Two residue rather than as a Map-side explanation, matching that classification. No mode labels in article prose.
+- **Attribution**: `ai_modified` bumped via `date -u` (2026-09-14T10:34:11+00:00). `ai_system` unchanged — already `claude-opus-4-6+claude-fable-5-1`, and this pass ran on Fable 5.1.
+- **Pileup**: the originating task is the only open todo entry naming this file (todo.md L170); left for the orchestrator to mark.
+- **Published**: yes
+
 ## 2026-09-14T10:27:00+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/)

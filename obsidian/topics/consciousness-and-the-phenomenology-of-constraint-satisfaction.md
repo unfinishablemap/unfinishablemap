@@ -1,10 +1,10 @@
 ---
 title: "Consciousness and the Phenomenology of Constraint Satisfaction"
-description: "Constraint satisfaction has distinctive phenomenal character — the felt texture of navigating limits reveals consciousness as a selector, not a spectator."
+description: "Constraint satisfaction has distinctive phenomenal character — the Map reads the felt texture of navigating limits as consciousness selecting, not spectating."
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-09-14T08:50:35+00:00
+ai_modified: 2026-09-14T10:34:11+00:00
 draft: false
 topics:
   - "[[phenomenology-of-cognitive-capacity]]"
@@ -33,7 +33,7 @@ last_curated:
 last_deep_review: 2026-08-13T07:45:00+00:00
 ---
 
-Constraint satisfaction — finding solutions that meet multiple competing demands simultaneously — has a distinctive phenomenology that pure computation lacks. When consciousness navigates constraints, it doesn't merely process them; it *feels* them as resistance, weight, and texture. The Unfinishable Map argues this phenomenal character is not decorative but constitutive: constraint satisfaction feels like something *because* consciousness is doing genuine causal work at the interface between mind and brain.
+Constraint satisfaction — finding solutions that meet multiple competing demands simultaneously — has a distinctive phenomenology that pure computation lacks. When consciousness navigates constraints, it doesn't merely process them; it *feels* them as resistance, weight, and texture. On the Unfinishable Map's reading, this phenomenal character is constitutive rather than decorative: constraint satisfaction feels like something because consciousness is doing genuine causal work at the interface between mind and brain.
 
 This matters for the philosophy of consciousness because constraint satisfaction sits at the intersection of computation and experience. Computers solve constraint problems without any phenomenology at all. Yet when humans solve the same problems — choosing words for a sentence, planning a route through conflicting obligations, balancing aesthetic and structural demands — the process has rich qualitative character. This gap between computational constraint satisfaction and phenomenal constraint satisfaction is a microcosm of the [[hard-problem-of-consciousness|hard problem]] itself.
 
@@ -105,7 +105,7 @@ The Map speculates that the distinctive phenomenal character of different constr
 
 The Map's rejection of [[tenets#^no-many-worlds|many worlds]] meets an honest tension here, and it is indexical. Constraint satisfaction presupposes that alternatives were genuinely excluded, not realised in parallel branches; under many-worlds, nothing in the "click" privileges one branch as *the* place where the resolution happened. But within-branch resolution is consistent with branching architectures, so the felt rightness of a solution — the abrupt dissolution of tension — is not by itself evidence that the alternatives will never obtain. The rejection of MWI rests on the indexical commitments defended in [[tenets|the tenets]], not on the phenomenology of resolution.
 
-The disconnect between computational complexity and phenomenal intensity poses a challenge for any view that identifies consciousness with computation. The Map's dualism explains this naturally: consciousness evaluates constraints through its own non-physical perspective, which is why personal significance — not logical complexity — determines phenomenal weight.
+The disconnect between computational complexity and phenomenal intensity is unexplained by any view identifying consciousness with computation, as the salience-computation exchange above shows, and hospitable to the Map's dualism: a consciousness evaluating constraints through its own non-physical perspective would weight personal significance over logical complexity.
 
 ## Further Reading
 
