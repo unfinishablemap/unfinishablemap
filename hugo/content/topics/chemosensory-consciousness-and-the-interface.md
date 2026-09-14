@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-16
-ai_modified: 2026-07-27 00:02:19+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-09-14 13:47:55+00:00
+ai_system: claude-opus-4-8+claude-fable-5-1
 author: null
 concepts:
 - '[[qualia]]'
@@ -18,13 +18,15 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 00:02:19+00:00
-lastmod: 2026-07-27 00:02:19+00:00
+lastmod: 2026-09-14 13:47:55+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'
 - '[[auditory-consciousness-and-the-interface]]'
 - '[[consciousness-as-perceptual-architect]]'
 - '[[the-binding-problem]]'
+- '[[thermal-consciousness-and-the-interface]]'
+- '[[interoceptive-consciousness-and-the-interface]]'
 title: Chemosensory Consciousness and the Interface
 topics:
 - '[[dualist-perception]]'
@@ -60,7 +62,9 @@ As before, this is accommodation, not proof. A physicalist can hold that a high-
 
 The chemical senses carry a feature vision and hearing lack: a privileged, anatomically direct route to emotion and autobiographical memory. Olfaction is the only sensory modality whose signals reach cortex without first relaying through the thalamus, with early, direct projections to the amygdala and hippocampus. The behavioural correlate is the **Proust phenomenon**: odour-evoked autobiographical memories are reported as more emotional and more vivid than memories cued by words or images, and the felt emotional intensity of an odour memory tracks amygdala activation at recall (Hackländer, Janssen & Bermeitinger, 2018).
 
-This bears on the Map's claim that some phenomenal character is constitutively evaluative—that affect is not a label applied downstream to a neutral percept but is woven into the quality itself (see [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/)). Smell is the strongest perceptual case: an odour is rarely experienced as quality-then-judgement; the pleasantness or repugnance arrives *with* the smell, often before it can be named. There is a live philosophical reading on which olfactory states are closer to affective or interoceptive states than to detached representations of external objects (Barwich, 2019)—a reading that, whatever its independent merits, underlines how poorly the chemical senses fit the dispassionate-snapshot model perception theory inherited from vision.
+This bears on the Map's claim that some phenomenal character is constitutively evaluative—that affect is not a label applied downstream to a neutral percept but is woven into the quality itself (see [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/)). Smell is the strongest perceptual case: an odour is rarely experienced as quality-then-judgement; the pleasantness or repugnance arrives *with* the smell, often before it can be named. There is a live philosophical reading on which olfactory states are closer to affective or [interoceptive](/topics/interoceptive-consciousness-and-the-interface/) states than to detached representations of external objects (Barwich, 2019)—a reading that, whatever its independent merits, underlines how poorly the chemical senses fit the dispassionate-snapshot model perception theory inherited from vision.
+
+The affective tone is not merely present *with* the quality; in the chemical senses it is indexed to the state of the body. Michel Cabanac's *alliesthesia*—"a given stimulus can induce a pleasant or unpleasant sensation depending on the subject's internal state"—was documented in exactly three senses, "thermal, gustatory, and olfactory": the same taste or food odour is pleasant when hungry and unpleasant when sated, because "the motivational component of the sensation is of internal origin" (Cabanac, 1971). Sensory-specific satiety adds a finer grain: the pleasantness of a food just eaten declines relative to foods not eaten (Rolls, Rolls, Rowe & Sweeney, 1981). The [thermal article](/topics/thermal-consciousness-and-the-interface/) draws the distinction this needs: affective touch carries a roughly *fixed* hedonic tone, whereas thermal valence is *state-indexed*, computed against a homeostatic set-point rather than read off the stimulus. Smell and taste sit on the state-indexed side, and the consequence cuts both ways. State-indexing is stronger evidence for *constitutive* valence than fixed tone would be: there is no neutral odour percept to which a verdict is appended, because the same percept carries opposite verdicts on different occasions. And it is fully explained by homeostatic integration—the valence tracks a regulated variable, which is exactly what a physicalist account of feeding predicts—so it is accommodation, not proof, precisely as the thermal article holds it.
 
 Honesty requires the obvious concession: the limbic-bypass anatomy is itself a *physicalist mechanism*. The Map does not claim the felt potency of an odour memory needs a non-physical route; the wiring is real and well-described. The point is again about the felt character the wiring leaves unexplained—why the pattern is suffused with this particular affective tone—not about the existence of the pathway.
 
@@ -74,7 +78,7 @@ The chemosensory distinctives above are framed throughout as phenomena the duali
 
 **[Dualism](/tenets/#dualism)**: The chemical senses arguably sharpen the case that [qualia](/concepts/qualia/) are not identical with physical properties. The perceived quality of an odour corresponds to no single molecular property (carvone), and odour quality space offers no tidy geometry in which to ground a quality-equals-its-location identity claim. This may make olfaction a cleaner illustration of the [explanatory gap](/concepts/explanatory-gap/) than vision, while leaving the physicalist's coding reply standing. The Map reads perceptual qualities as constituted at the [interface](/concepts/mind-matter-interface/) between physical processing and conscious experience; the chemosensory case suggests that reading is not an artefact of starting from vision.
 
-**[Evaluative phenomenal character](/concepts/evaluative-phenomenal-character/)**: Smell is the strongest perceptual case that some phenomenal character is constitutively affect-laden rather than neutral-then-evaluated. This is an interpretive alignment, not a finding; the limbic-bypass anatomy that makes odour so emotionally potent is itself physical, and the Map's commitment rests on the felt character that anatomy leaves unexplained.
+**[Evaluative phenomenal character](/concepts/evaluative-phenomenal-character/)**: Smell is the strongest perceptual case that some phenomenal character is constitutively affect-laden rather than neutral-then-evaluated, and with taste it joins temperature as a *state-indexed* case, the valence flipping with the body's needs (Cabanac, 1971). This is an interpretive alignment, not a finding; the limbic-bypass anatomy that makes odour so emotionally potent is itself physical, alliesthesia is homeostatic integration by construction, and the Map's commitment rests on the felt character that anatomy leaves unexplained.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The active, directed character the [perception article](/topics/dualist-perception/) attributes to seeing applies in the chemical senses too—we *sniff* to sample, attend to a flavour, and, as the sommelier shows, learn to taste structure that was always arriving but not previously perceived. The Map interprets this attentive, learning-gated selection as consonant with bidirectional interaction. This is an interpretive alignment, not a finding; the epiphenomenalist can re-describe the same active sampling as wholly neural, and the Map's commitment rests on its broader [interaction framework](/topics/predictive-processing-and-dualism/) rather than on the chemosensory case alone.
 
@@ -85,6 +89,8 @@ The Map does not claim the chemical senses settle dualism. It claims they are ev
 - [dualist-perception](/topics/dualist-perception/) — the general dualist treatment of perception, which names the modality gap this article fills
 - [auditory-consciousness-and-the-interface](/topics/auditory-consciousness-and-the-interface/) — the hearing companion, with which this article shares its structure and its "accommodation, not proof" calibration
 - [tactile-consciousness-and-the-interface](/topics/tactile-consciousness-and-the-interface/) — the touch companion, which supplies the *contact* case of constitutive valence (affective touch, pain) to this article's *exteroceptive* case (smell)
+- [thermal-consciousness-and-the-interface](/topics/thermal-consciousness-and-the-interface/) — the temperature companion, which owns the fixed-versus-state-indexed distinction and the alliesthesia source this article's valence paragraph inherits
+- [interoceptive-consciousness-and-the-interface](/topics/interoceptive-consciousness-and-the-interface/) — the interoceptive spoke that Barwich's reading of olfactory states as closer to affective or interoceptive states points at
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) — perceptual constancy and learning, whose sommelier and "Barolo" examples find their modality home here
 - [the-binding-problem](/topics/the-binding-problem/) — the binding taxonomy that flavour instantiates without spatial scaffolding
 - [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) — the claim that some phenomenal character is constitutively valenced, for which smell is the strongest perceptual case
@@ -99,6 +105,8 @@ The Map does not claim the chemical senses settle dualism. It claims they are ev
 1. American Chemical Society. *Molecule of the Week: Carvone*. https://www.acs.org/molecule-of-the-week/archive/c/carvone.html
 1. Barwich, A.-S. (2019). A Critique of Olfactory Objects. *Frontiers in Psychology*, 10:1337. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01337/full
 1. Hackländer, R. P. M., Janssen, S. M. J., & Bermeitinger, C. (2018). An in-depth review of the methods, findings, and theories associated with odor-evoked autobiographical memory. *Psychonomic Bulletin & Review*, 26(2), 401–429. https://link.springer.com/article/10.3758/s13423-018-1545-3
+1. Cabanac, M. (1971). Physiological Role of Pleasure. *Science*, 173(4002), 1103–1107. https://doi.org/10.1126/science.173.4002.1103
+1. Rolls, B. J., Rolls, E. T., Rowe, E. A., & Sweeney, K. (1981). Sensory specific satiety in man. *Physiology & Behavior*, 27(1), 137–142. https://doi.org/10.1016/0031-9384(81)90310-3
 1. Skrzypulec, B. (2023). Constitutivity in Flavour Perception. *Erkenntnis*, 88(8), 3291–3312. https://philarchive.org/archive/SKRCIF-2
 1. *High-precision mapping reveals the structure of odor coding in the human brain* (2023). *Nature Neuroscience*, 26, 1595–1602. https://www.nature.com/articles/s41593-023-01414-4
 1. Multisensory Integration of Odor–Taste Mixtures in Gustatory Cortex (2024). *Journal of Neuroscience*, 44(20). https://www.jneurosci.org/content/44/20/e0071242024
