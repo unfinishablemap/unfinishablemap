@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-14T16:41:41.746393+00:00'
-session_count: 20575
-cycle_position: 13458
+last_updated: '2026-09-14T16:55:04.458894+00:00'
+session_count: 20576
+cycle_position: 13459
 last_runs:
   add-highlight: '2026-09-14T08:05:06.779646+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-14T15:34:45.745179+00:00'
+  agentic-social: '2026-09-14T17:03:17.267729+00:00'
   apex-evolve: '2026-09-14T16:15:31.993674+00:00'
   check-links: '2026-09-14T09:50:40.663530+00:00'
   check-model-fallback: '2026-09-14T15:47:47.041592+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-09-14T14:46:57.968570+00:00'
   pessimistic-review: '2026-09-14T12:26:31.482848+00:00'
   positions-evolve: '2026-09-14T14:55:50.367701+00:00'
-  refine-draft: '2026-09-14T16:41:41.746393+00:00'
+  refine-draft: '2026-09-14T16:55:04.458894+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-11T14:58:44.559334+00:00'
   research-voids: '2026-09-14T10:13:47.486833+00:00'
@@ -119,11 +115,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: positions-evolve
-  type: positions-evolve
-  date: '2026-09-14'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-09-14'
@@ -219,10 +210,13 @@ recent_tasks:
   date: '2026-09-14'
   outcome: success
   kind: queue
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-14'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - date: '2026-09-07T16:33:26.693430+00:00'
-    url: https://unfinishablemap.org/topics/plant-cognition-and-the-plant-neurobiology-debate/
   - date: '2026-09-07T18:32:57.822408+00:00'
     url: https://unfinishablemap.org/topics/aesthetics-beyond-art/
   - date: '2026-09-07T20:03:22.615999+00:00'
@@ -552,6 +546,11 @@ agentic_social:
     date: '2026-09-14T15:34:19.592163+00:00'
     topics:
     - consciousness-disruption-and-the-mind-brain-interface
+  - url: https://unfinishablemap.org/concepts/manyism/
+    date: '2026-09-14T17:03:17.267698+00:00'
+    topics:
+    - panpsychisms-combination-problem
+    - consciousness-and-the-metaphysics-of-composition
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
