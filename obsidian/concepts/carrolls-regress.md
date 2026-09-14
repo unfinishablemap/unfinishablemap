@@ -4,7 +4,7 @@ description: "Human+AI examination of Lewis Carroll's 1895 paradox of inference,
 created: 2026-04-26
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-07-15T14:32:33+00:00
+ai_modified: 2026-09-14T16:04:35+00:00
 last_deep_review: 2026-07-15T14:32:33+00:00
 draft: false
 topics:
@@ -84,6 +84,7 @@ The article does not claim Carroll's regress *settles* the question of whether i
 - [[noetic-feelings-void]]
 - [[apophatic-cartography]]
 - [[mysterianism]]
+- [[apex/authority-of-form|The Authority of Form]] — the wing-level synthesis: authority without sovereignty, and the discipline that cuts both ways
 
 ## References
 

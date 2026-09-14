@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-08-26 18:04:47+00:00
+ai_modified: 2026-09-14 16:04:35+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 00:08:09+00:00
-lastmod: 2026-08-26 18:04:47+00:00
+lastmod: 2026-09-14 16:04:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -226,6 +226,7 @@ The view would be supported by continued failure of AI to achieve transformation
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — The felt difference between verification and comprehension
 - [the-binding-problem](/topics/the-binding-problem/) — Mathematical understanding as a demanding case of cognitive binding
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics cannot capture intrinsic nature
+- [The Authority of Form](/apex/authority-of-form/) — the wing-level synthesis: authority without sovereignty, and the discipline that cuts both ways
 
 ## References
 

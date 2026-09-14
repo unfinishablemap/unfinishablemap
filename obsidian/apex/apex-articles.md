@@ -832,6 +832,29 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 ---
 
+### 38. The Authority of Form
+
+**Slug**: `authority-of-form`
+
+**Subtitle**: Why formal systems have authority without sovereignty — and why the limit that binds the reductionist binds the Map too
+
+**Thesis**: Formal systems have authority without sovereignty: no augmentation of explicit rules produces the taking-as that inference requires and no formal system grounds its own authority, which is the case against reduction — but the same discipline discounts the Map's own results, because a removed defeater is not evidence, a two-domain argument is one argument, and an articulation limit does not entail a non-physical operation; a limit proved for form binds form and nothing else.
+
+**Source articles**:
+- topics/consciousness-and-the-normativity-of-reason
+- topics/consciousness-and-the-authority-of-formal-systems
+- concepts/carrolls-regress
+- voids/inference-void
+- voids/formal-cognitive-limits
+- topics/self-reference-and-the-limits-of-physical-description
+- topics/consciousness-and-mathematics
+- topics/concession-convergence-philosophy-of-mathematics
+- topics/phenomenology-of-mathematical-understanding
+
+**Status**: Created 2026-09-14 (admitted as #38 — P3 task from `reviews/optimistic-2026-08-25-formal-authority-wing`, a *measured* gap: none of the 43 apex `apex_sources` blocks on disk listed any of the nine wing members. ASSESS-FIRST resolved CREATE-NEW under the synthesis threshold: the nearest apex by subject is #3 `consciousness-and-agency` (sources `topics/argument-from-reason`; its subject is agency, not formal authority), and no apex walks the implement/grasp – verify/understand – cite/take-as – prove/see joint or states the symmetric discipline — the case against reduction and the three self-applied discounts held as one commitment. DECISION on the older overlapping task `Apex-evolve "Mathematical Insight as Phenomenal Evidence"` (minted 2026-05-12, still pending): STAYING SEPARATE. That task is the phenomenological strand with a different source set (cognitive-phenomenology, creative-consciousness, aesthetics-and-consciousness, the-binding-problem, phenomenology-of-intellectual-life); this synthesis uses the phenomenological tier as an explanandum only, in one section ("Understanding Is Not Verification": understanding vs verification, the machine-checked proof, Ramanujan held to tier). Noted honestly: that section plus P-TU1's register entry reduce the older task's marginal value, and its todo block now carries a pointer here so the operator can retire it if desired. The two expand-topic ideas the wing surfaced and the topics cap blocks (machine-checked mathematics / proof assistants; the open 2026-04-14 "philosophy of proof" task) are covered as the machine-checked-proof paragraph of that section, using only material the sources already cite (Tymoczko 1979, the four-colour proof, theorem provers, AlphaProof). Lucas–Penrose: the hub's `consciousness-and-mathematics` refine (commit 2aa502a3) had landed before creation; the synthesis inherits the routed-around form — cautionary case, destination not path — and does not carry the old ordering up. Calibration inherited whole from the sources: removed-defeater-not-evidence (self-reference §What This Does and Does Not Show, citing evidential-status-discipline); one-argument-two-domains (the authority article's self-applied convergence discount); articulation-limit-not-non-physical-operation (carrolls-regress epistemic/metaphysical registers; inference-void mechanistic/first-person opacity split; formal-cognitive-limits' computational conditional); the common-cause null on the four concessions. The honest independent-line count is stated in the body (three lines plus one contested pattern, not nine). No verbatim internal quotes — paraphrase-and-cite throughout, avoiding the stale-internal-quote channel. Citations REUSE only the sources' already-listed set (Carroll 1895, Gödel 1931, Engel HAL, Polanyi 1966, Sellars 1956, Nagel 1997, Lucas 1961, Penrose 1989, Chalmers 1995, Aaronson 2006, Szangolies 2018, Cubitt et al. 2015, Tymoczko 1979, Hardy 1940); no new unverified cites. 3,993 words by canonical `analyze_length` (soft 4,000 / hard 5,000 — ok; the first draft measured 4,450 and was condensed before registration). Slug-collision check clean (`authority-of-form` available in apex/). All 16 wikilink targets resolve uniquely. Reciprocal inbound links added to the Further Reading of all nine sources. Registry-vs-body calibration diff at birth: the thesis carries the body's discounts inside itself — no stronger than the body. Tenet alignment: Tenet 5 as the wing's most-invoked and best-supported tenet (the simple account shown insufficient in its own medium); Tenet 1 as the destination declined by the cheap route; Tenets 2–3 via authority/sovereignty and acted-upon authority; Tenet 4 at one node only. Synthesis bar met per Governance Note 2026-06-08: the symmetric discipline is voiced by no source from inside itself, and the wing-level line count is stated nowhere else.)
+
+---
+
 ## Applied Apex Articles
 
 Applied apex articles are decision-oriented synthesis pieces: given the positions the Map currently holds in `obsidian/positions/`, what follows for a specific real-world context? They differ from the synthesis apex articles above in shape — they cite ≥3 positions, surface those positions' confidence bands, name a decision context, and include a required "What this implies for decisions" section. See the `apex-evolve` SKILL.md Applied Discipline section for the discipline.

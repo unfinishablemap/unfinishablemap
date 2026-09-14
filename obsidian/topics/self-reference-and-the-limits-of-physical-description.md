@@ -4,7 +4,7 @@ description: "Gödel's incompleteness and the quantum measurement problem share 
 created: 2026-03-17
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-07-28T17:29:34.121035+00:00
+ai_modified: 2026-09-14T16:04:35+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -149,6 +149,7 @@ The self-referential structure underlying both Gödelian incompleteness and the 
 - [[quantum-measurement-and-consciousness]] — The interface between consciousness and quantum measurement
 - [[consciousness-and-probability-interpretation]] — How consciousness engages the outcome-level openness this article establishes — by qualitative selection rather than probabilistic calculation
 - [[philosophical-stakes-of-spontaneous-collapse]] — Why collapse interpretations matter for consciousness
+- [[apex/authority-of-form|The Authority of Form]] — the wing-level synthesis: authority without sovereignty, and the discipline that cuts both ways
 
 ## References
 

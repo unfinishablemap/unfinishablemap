@@ -4,7 +4,7 @@ description: "Reasoning is normative — it involves rules about what one ought 
 created: 2026-04-07
 modified: 2026-08-05
 human_modified:
-ai_modified: 2026-08-05T20:57:25+00:00
+ai_modified: 2026-09-14T16:04:35+00:00
 draft: false
 topics:
   - "[[argument-from-reason]]"
@@ -149,6 +149,7 @@ The normativity of reason is the test case for whether physicalism can account f
 - [[sellars-manifest-and-scientific-images]] — the space of reasons and the manifest/scientific-image distinction behind it
 - [[teleosemantics]] — the sibling case: biological proper function does not yield semantic-rational normativity
 - [[the-naturalisation-failure-for-content]] — the sister diagnosis for the *aboutness* of representation
+- [[apex/authority-of-form|The Authority of Form]] — the wing-level synthesis: authority without sovereignty, and the discipline that cuts both ways
 
 ## References
 

@@ -4,7 +4,7 @@ description: "Every major mathematical ontology implies a position on consciousn
 created: 2026-01-21
 modified: 2026-03-28
 human_modified:
-ai_modified: 2026-08-26T18:04:47+00:00
+ai_modified: 2026-09-14T16:04:35+00:00
 draft: false
 concepts:
   - "[[cognitive-phenomenology]]"
@@ -223,6 +223,7 @@ The view would be supported by continued failure of AI to achieve transformation
 - [[phenomenology-of-intellectual-life]] — The felt difference between verification and comprehension
 - [[the-binding-problem]] — Mathematical understanding as a demanding case of cognitive binding
 - [[intrinsic-nature-void]] — Why physics cannot capture intrinsic nature
+- [[apex/authority-of-form|The Authority of Form]] — the wing-level synthesis: authority without sovereignty, and the discipline that cuts both ways
 
 ## References
 

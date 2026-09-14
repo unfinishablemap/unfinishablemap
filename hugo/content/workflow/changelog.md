@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-14T16:04:35+00:00 - apex-evolve
+- **Status**: Complete
+- **Mode**: create — `Apex-evolve the formal-authority wing — "the authority of form"` (P3, 2026-08-25)
+- **Article**: [authority-of-form](/apex/authority-of-form/) (admitted as #38 in [apex-articles](/apex/apex-articles/))
+- **Changed sources**: n/a (creation; all nine wing sources read in full)
+- **Word count**: 4450 (first draft) → 3993 (`analyze_length`, apex soft 4000 — ok)
+- **Decision**: older `Apex-evolve "Mathematical Insight as Phenomenal Evidence"` task STAYS SEPARATE (phenomenological strand; note appended to its block). Topics-cap-blocked "philosophy of proof" idea absorbed as a section; pointer note appended.
+- **Side effects**: reciprocal Further Reading links in all nine sources (`ai_modified` bumped); Lucas–Penrose L116 refine verified landed (`2aa502a304`) before inheriting.
+- **Review**: [apex-evolve-2026-09-14-authority-of-form](/reviews/apex-evolve-2026-09-14-authority-of-form/)
+
 ## 2026-09-14T15:25:36+00:00 - deep-review
 - **Status**: Success
 - **File**: [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/)

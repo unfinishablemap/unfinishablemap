@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-07-12 09:40:53+00:00
+ai_modified: 2026-09-14 16:04:35+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 09:40:53+00:00
-lastmod: 2026-07-12 09:40:53+00:00
+lastmod: 2026-09-14 16:04:35+00:00
 modified: *id001
 related_articles:
 - '[[argument-from-reason]]'
@@ -162,6 +162,7 @@ Mathematical Platonists hold that mathematical objects have intrinsic properties
 - [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) — What kind of law could bridge mind and matter, and where consciousness fits in the property landscape
 - [explanatory-gap](/concepts/explanatory-gap/) — The central challenge formal systems face with consciousness
 - [delegatory-causation](/concepts/delegatory-causation/) — The preemption structure that mirrors the authority/sovereignty distinction
+- [The Authority of Form](/apex/authority-of-form/) — the wing-level synthesis: authority without sovereignty, and the discipline that cuts both ways
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-07-28 17:29:34.121035+00:00
+ai_modified: 2026-09-14 16:04:35+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 10:28:27+00:00
-lastmod: 2026-07-28 17:29:34.121035+00:00
+lastmod: 2026-09-14 16:04:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -153,6 +153,7 @@ The self-referential structure underlying both Gödelian incompleteness and the 
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The interface between consciousness and quantum measurement
 - [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — How consciousness engages the outcome-level openness this article establishes — by qualitative selection rather than probabilistic calculation
 - [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/) — Why collapse interpretations matter for consciousness
+- [The Authority of Form](/apex/authority-of-form/) — the wing-level synthesis: authority without sovereignty, and the discipline that cuts both ways
 
 ## References
 

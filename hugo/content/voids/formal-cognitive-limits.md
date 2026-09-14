@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-08-25 06:19:37+00:00
+ai_modified: 2026-09-14 16:04:35+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 15:28:50+00:00
-lastmod: 2026-08-25 06:19:37+00:00
+lastmod: 2026-09-14 16:04:35+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -160,6 +160,7 @@ The open question concerns whether this void constrains consciousness. Two devel
 - [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/) — How formalism's Gödelian concession fits among four independent convergences
 - [carrolls-regress](/concepts/carrolls-regress/) — Lewis Carroll's 1895 regress and the inferentialist reading
 - [inference-void](/voids/inference-void/) — Structural opacity of inferential transitions to the consciousness performing them
+- [The Authority of Form](/apex/authority-of-form/) — the wing-level synthesis: authority without sovereignty, and the discipline that cuts both ways
 
 ## References
 

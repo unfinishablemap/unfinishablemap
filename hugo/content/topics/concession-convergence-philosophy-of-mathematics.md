@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-06-13 00:31:52+00:00
+ai_modified: 2026-09-14 16:04:35+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 06:28:07+00:00
-lastmod: 2026-06-13 00:31:52+00:00
+lastmod: 2026-09-14 16:04:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -133,6 +133,7 @@ The Map interprets the cross-domain convergence as evidence that the problem is 
 - [Reductionism and Consciousness](/concepts/reductionism/) — Why reductive programmes fail at consciousness
 - [The Quantitative Comprehension Void — abstract mathematical ceiling](/voids/the-quantitative-comprehension-void/#the-abstract-mathematical-ceiling) — The boundary of mathematical comprehension
 - [formal-cognitive-limits](/voids/formal-cognitive-limits/) — Gödel's theorems and the limits of formal systems
+- [The Authority of Form](/apex/authority-of-form/) — the wing-level synthesis: authority without sovereignty, and the discipline that cuts both ways
 
 ## References
 

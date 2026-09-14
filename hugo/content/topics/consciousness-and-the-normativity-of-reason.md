@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-07
-ai_modified: 2026-08-05 20:57:25+00:00
+ai_modified: 2026-09-14 16:04:35+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 22:58:51+00:00
-lastmod: 2026-08-05 20:57:25+00:00
+lastmod: 2026-09-14 16:04:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -152,6 +152,7 @@ The normativity of reason is the test case for whether physicalism can account f
 - [sellars-manifest-and-scientific-images](/concepts/sellars-manifest-and-scientific-images/) — the space of reasons and the manifest/scientific-image distinction behind it
 - [teleosemantics](/concepts/teleosemantics/) — the sibling case: biological proper function does not yield semantic-rational normativity
 - [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/) — the sister diagnosis for the *aboutness* of representation
+- [The Authority of Form](/apex/authority-of-form/) — the wing-level synthesis: authority without sovereignty, and the discipline that cuts both ways
 
 ## References
 

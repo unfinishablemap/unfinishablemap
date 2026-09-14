@@ -4,7 +4,7 @@ description: "Formalism, logicism, intuitionism, and structuralism each independ
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-06-13T00:31:52+00:00
+ai_modified: 2026-09-14T16:04:35+00:00
 draft: false
 topics:
   - "[[consciousness-and-mathematics]]"
@@ -129,6 +129,7 @@ The Map interprets the cross-domain convergence as evidence that the problem is 
 - [[reductionism|Reductionism and Consciousness]] — Why reductive programmes fail at consciousness
 - [[the-quantitative-comprehension-void#the-abstract-mathematical-ceiling|The Quantitative Comprehension Void — abstract mathematical ceiling]] — The boundary of mathematical comprehension
 - [[formal-cognitive-limits]] — Gödel's theorems and the limits of formal systems
+- [[apex/authority-of-form|The Authority of Form]] — the wing-level synthesis: authority without sovereignty, and the discipline that cuts both ways
 
 ## References
 

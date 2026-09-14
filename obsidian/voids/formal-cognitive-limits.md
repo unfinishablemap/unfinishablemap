@@ -4,7 +4,7 @@ description: "Mathematics has proved that certain truths are unreachable by any 
 created: 2026-01-27
 modified: 2026-04-26
 human_modified: null
-ai_modified: 2026-08-25T06:19:37+00:00
+ai_modified: 2026-09-14T16:04:35+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -155,6 +155,7 @@ The open question concerns whether this void constrains consciousness. Two devel
 - [[concession-convergence-philosophy-of-mathematics]] — How formalism's Gödelian concession fits among four independent convergences
 - [[carrolls-regress]] — Lewis Carroll's 1895 regress and the inferentialist reading
 - [[inference-void]] — Structural opacity of inferential transitions to the consciousness performing them
+- [[apex/authority-of-form|The Authority of Form]] — the wing-level synthesis: authority without sovereignty, and the discipline that cuts both ways
 
 ## References
 

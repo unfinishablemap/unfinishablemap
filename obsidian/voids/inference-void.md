@@ -4,7 +4,7 @@ description: "Human+AI exploration of the structural opacity of inferential tran
 created: 2026-04-26
 modified: 2026-04-26
 human_modified:
-ai_modified: 2026-08-19T15:24:39+00:00
+ai_modified: 2026-09-14T16:04:35+00:00
 last_deep_review: 2026-07-17T17:06:35+00:00
 draft: false
 topics:
@@ -147,6 +147,7 @@ The void sits with [[formal-cognitive-limits|formal cognitive limits]] as a *fam
 - [[apophatic-cartography]]
 - [[mysterianism]]
 - [[introspection]]
+- [[apex/authority-of-form|The Authority of Form]] — the wing-level synthesis: authority without sovereignty, and the discipline that cuts both ways
 
 ## References
 

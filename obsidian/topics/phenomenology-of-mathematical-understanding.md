@@ -4,7 +4,7 @@ description: "Mathematical insight feels like something—and across cultures it
 created: 2026-04-14
 modified: 2026-06-13
 human_modified:
-ai_modified: 2026-07-07T20:06:00+00:00
+ai_modified: 2026-09-14T16:04:35+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -166,6 +166,7 @@ The Map's honesty commitment requires the closing acknowledgement: the confabula
 - [[phenomenology-of-intellectual-life]]
 - [[phenomenology-of-musical-understanding]] — The sibling case: non-propositional, temporally-unfolding understanding sharing the cognitive-phenomenology concept
 - [[temporal-structure-of-understanding]] — How insight unfolds temporally, the concept the reception phenomenology instantiates
+- [[apex/authority-of-form|The Authority of Form]] — the wing-level synthesis: authority without sovereignty, and the discipline that cuts both ways
 
 ## References
 

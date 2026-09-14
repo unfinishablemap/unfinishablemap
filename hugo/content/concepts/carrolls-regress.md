@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-26
-ai_modified: 2026-07-15 14:32:33+00:00
+ai_modified: 2026-09-14 16:04:35+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 14:32:33+00:00
-lastmod: 2026-07-15 14:32:33+00:00
+lastmod: 2026-09-14 16:04:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -88,6 +88,7 @@ The article does not claim Carroll's regress *settles* the question of whether i
 - [noetic-feelings-void](/voids/noetic-feelings-void/)
 - [apophatic-cartography](/voids/apophatic-cartography/)
 - [mysterianism](/concepts/mysterianism/)
+- [The Authority of Form](/apex/authority-of-form/) — the wing-level synthesis: authority without sovereignty, and the discipline that cuts both ways
 
 ## References
 

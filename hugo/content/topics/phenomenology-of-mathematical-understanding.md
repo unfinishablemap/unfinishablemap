@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-14
-ai_modified: 2026-07-07 20:06:00+00:00
+ai_modified: 2026-09-14 16:04:35+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 20:06:00+00:00
-lastmod: 2026-07-07 20:06:00+00:00
+lastmod: 2026-09-14 16:04:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -171,6 +171,7 @@ The Map's honesty commitment requires the closing acknowledgement: the confabula
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) — The sibling case: non-propositional, temporally-unfolding understanding sharing the cognitive-phenomenology concept
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — How insight unfolds temporally, the concept the reception phenomenology instantiates
+- [The Authority of Form](/apex/authority-of-form/) — the wing-level synthesis: authority without sovereignty, and the discipline that cuts both ways
 
 ## References
 
