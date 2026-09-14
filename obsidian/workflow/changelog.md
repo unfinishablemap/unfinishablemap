@@ -4,6 +4,16 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-14T14:54:22+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-14T15:03:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/cross-modal-capability-division]]
+- **Task**: P3 (2026-09-14, positions-evolve P-PI1) — within-article stale dependent: §The Inward Case L80 (post `fa29838b54`) says *"the insula is a node, not the hub"* (Zhang et al., 2025), but §Synthesis L128 still said *"the brain side converges on a single insular integrator"*.
+- **Verified before editing**: grep `-F` on both trees — L80 "insula is a node, not the hub" present; "single insular integrator" present exactly once in obsidian (L128) and once in hugo (L135). Task claim confirmed.
+- **Changes**: one clause at L128 — *"converges on a single insular integrator"* → *"converges within one shared allostatic-interoceptive system"* (L80's own phrasing). Nothing else in the body touched. Net-neutral by construction (6 words → 6 words); whole-file `wc -w` 5178 → 5178, `analyze_length` body 5008 (apex hard 5000, still `hard_warning` — pre-existing, no worsening). L128 now agrees with L80, with `topics/interoceptive-consciousness-and-the-interface` L36, and with `positions/perception-and-the-interface` P-PI1.
+- **Both trees**: same sed applied to `hugo/content/apex/cross-modal-capability-division.md` (L135); post-edit grep for the withdrawn phrase = 0 in both.
+- **Attribution**: `ai_modified` set from `date -u` in both trees; `ai_system` already carries `claude-fable-5-1`, unchanged.
+- **Published**: yes — not committed; orchestrator handles git.
+
 ## 2026-09-14T14:54:22+00:00 - positions-evolve
 - **Status**: Success
 - **Mode**: add — **P-PI1** in a new domain file [[positions/perception-and-the-interface]] (prefix `P-PI`); cross-referenced from [[positions/finding-level-calibration]] P-F1 as its fourth instance
