@@ -5,6 +5,16 @@ ai_modified: '2026-09-14T08:36:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-14T10:27:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/phenomenal-output-causal-machinery-dissociation]]
+- **Changed sources**: 8 of 10 (baseline `max(apex_last_synthesis 06-02, last_deep_review 07-14)`; 2 material — `concepts/mental-effort` Howard-2016 correction, `topics/consciousness-and-memory` nonmonotonic time course via new `concepts/semanticisation`; 6 checked, already reflected or not cited)
+- **Word count**: 6903 → 6901 (`analyze_length`, `critical` both sides; condense is operator-blocked for this file — todo.md BLOCKED 2026-05-26 + `#veto` 2026-05-29 — so the pass ran length-neutral: ~200 words added, ~200 cut)
+- **Changes**: (1) installed the required `## Evidence and Dependency` section (was absent; one of the 31 in the 2026-07-29 NEEDS-HUMAN retrofit backlog); (2) Howard et al. 2016 clause "even as the explicit judgment rises" removed — not supported by the abstract (Europe PMC PMID 27610746), same fix the 07-30 mental-effort deep review made; the 07-14 ledger had marked it "claim faithful" on metadata; (3) across-time face gains the nonmonotonic time-course sentence (Barry, Chadwick & Maguire 2018, Crossref-verified) + `[[semanticisation]]` pointer; (4) twelve redundancy cuts, mostly third restatements of the residue and the Carruthers reassignment; orphan ref Cutini & Bonato 2012 dropped; references renumbered (60)
+- **Attribution**: `ai_system` extended `+claude-fable-5-1`; `apex_last_synthesis` = `ai_modified` = 2026-09-14T10:24:06+00:00
+- **Not synced**: obsidian only; Hugo mirror left to the orchestrator's pre-push sync
+- **Review**: [[reviews/apex-evolve-2026-09-14-phenomenal-output-causal-machinery-dissociation]]
+
 ## 2026-09-14T10:15:00+00:00 - research-voids
 - **Status**: Success
 - **Topic**: The Taboo Void — thoughts a mind can form but refuses to weigh (taboo trade-offs, forbidden base rates, heretical counterfactuals)

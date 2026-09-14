@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-07-29 12:15:54+00:00
+ai_modified: 2026-09-14 09:32:46.760744+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -20,10 +20,15 @@ date: &id001 2026-02-15
 description: Can consciousness exist outside time? Husserl's absolute flow, meditative
   timelessness, and fragmentation evidence converge on a non-temporal ground of mind.
 draft: false
+embedded_videos:
+- embedded: 2026-09-14 09:32:46.760744+00:00
+  id: Gvcws4Cz6Xw
+  source: notebooklm/0132-01-non-temporal-consciousness
+  url: https://www.youtube-nocookie.com/embed/Gvcws4Cz6Xw
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 05:05:10+00:00
-lastmod: 2026-07-29 12:15:54+00:00
+lastmod: 2026-09-14 09:32:46.760744+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -49,6 +54,12 @@ topics:
 Consciousness may not be fundamentally temporal. The Map's treatment of [temporal structure](/topics/temporal-consciousness-structure-and-agency/) argues that temporal organisation is constitutive of conscious experience. But a prior question lurks beneath: does consciousness exist *in* time, or does it constitute time from a position outside it? If the deepest level of consciousness is non-temporal — if time is something consciousness produces rather than inhabits — then a category-mismatch argument for the irreducibility of mind to matter becomes available, conditional on that contested premise. Physical processes are inherently temporal; a non-temporal consciousness would be categorically different from anything physics describes. Whether it is non-temporal in the required sense is what the rest of the article assesses rather than assumes.
 
 "Non-temporal" carries two meanings here. Husserl's absolute flow is *metaphysically* non-temporal — it does not exist within the temporal order. Meditative timelessness is *phenomenologically* atemporal — experience lacks temporal markers while the meditator's brain continues operating in time. They converge: if the deepest level of consciousness is metaphysically non-temporal, accessing it should strip away phenomenal temporal structure. The metaphysical thesis offers one Map-compatible explanation of the phenomenological finding; representational and neurophenomenological explanations remain live.
+
+<details class="yt-embed" data-video-id="Gvcws4Cz6Xw">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/Gvcws4Cz6Xw">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Scope: Which Level the Claim Ranges Over [Open]
 
