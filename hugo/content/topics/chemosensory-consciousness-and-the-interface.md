@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-16
-ai_modified: 2026-09-14 13:47:55+00:00
+ai_modified: 2026-09-14 22:40:00+00:00
 ai_system: claude-opus-4-8+claude-fable-5-1
 author: null
 concepts:
@@ -17,8 +17,8 @@ description: 'The chemical senses press the explanatory gap where vision cannot:
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-27 00:02:19+00:00
-lastmod: 2026-09-14 13:47:55+00:00
+last_deep_review: 2026-09-14 22:40:00+00:00
+lastmod: 2026-09-14 22:40:00+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'
@@ -64,7 +64,7 @@ The chemical senses carry a feature vision and hearing lack: a privileged, anato
 
 This bears on the Map's claim that some phenomenal character is constitutively evaluative—that affect is not a label applied downstream to a neutral percept but is woven into the quality itself (see [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/)). Smell is the strongest perceptual case: an odour is rarely experienced as quality-then-judgement; the pleasantness or repugnance arrives *with* the smell, often before it can be named. There is a live philosophical reading on which olfactory states are closer to affective or [interoceptive](/topics/interoceptive-consciousness-and-the-interface/) states than to detached representations of external objects (Barwich, 2019)—a reading that, whatever its independent merits, underlines how poorly the chemical senses fit the dispassionate-snapshot model perception theory inherited from vision.
 
-The affective tone is not merely present *with* the quality; in the chemical senses it is indexed to the state of the body. Michel Cabanac's *alliesthesia*—"a given stimulus can induce a pleasant or unpleasant sensation depending on the subject's internal state"—was documented in exactly three senses, "thermal, gustatory, and olfactory": the same taste or food odour is pleasant when hungry and unpleasant when sated, because "the motivational component of the sensation is of internal origin" (Cabanac, 1971). Sensory-specific satiety adds a finer grain: the pleasantness of a food just eaten declines relative to foods not eaten (Rolls, Rolls, Rowe & Sweeney, 1981). The [thermal article](/topics/thermal-consciousness-and-the-interface/) draws the distinction this needs: affective touch carries a roughly *fixed* hedonic tone, whereas thermal valence is *state-indexed*, computed against a homeostatic set-point rather than read off the stimulus. Smell and taste sit on the state-indexed side, and the consequence cuts both ways. State-indexing is stronger evidence for *constitutive* valence than fixed tone would be: there is no neutral odour percept to which a verdict is appended, because the same percept carries opposite verdicts on different occasions. And it is fully explained by homeostatic integration—the valence tracks a regulated variable, which is exactly what a physicalist account of feeding predicts—so it is accommodation, not proof, precisely as the thermal article holds it.
+The affective tone is not merely present *with* the quality; in the chemical senses it is indexed to the state of the body. Michel Cabanac's *alliesthesia*—"a given stimulus can induce a pleasant or unpleasant sensation depending on the subject's internal state"—had been studied, when he named it, in only three senses, "thermal, gustatory, and olfactory": the same taste or food odour is pleasant when hungry and unpleasant when sated, because "the motivational component of the sensation is of internal origin" (Cabanac, 1971). Cabanac himself expected no alliesthesia in vision or audition, since no wavelength or frequency bears on a regulated variable of the internal milieu. Sensory-specific satiety adds a finer grain: the pleasantness of a food just eaten declines relative to foods not eaten (Rolls, Rolls, Rowe & Sweeney, 1981). The [thermal article](/topics/thermal-consciousness-and-the-interface/) draws the distinction this needs: affective touch carries a roughly *fixed* hedonic tone, whereas thermal valence is *state-indexed*, computed against a homeostatic set-point rather than read off the stimulus. Smell and taste sit on the state-indexed side, and the consequence cuts both ways. State-indexing is stronger evidence for *constitutive* valence than fixed tone would be: there is no neutral odour percept to which a verdict is appended, because the same percept carries opposite verdicts on different occasions. And it is fully explained by homeostatic integration—the valence tracks a regulated variable, which is exactly what a physicalist account of feeding predicts—so it is accommodation, not proof, precisely as the thermal article holds it.
 
 Honesty requires the obvious concession: the limbic-bypass anatomy is itself a *physicalist mechanism*. The Map does not claim the felt potency of an odour memory needs a non-physical route; the wiring is real and well-described. The point is again about the felt character the wiring leaves unexplained—why the pattern is suffused with this particular affective tone—not about the existence of the pathway.
 
@@ -94,7 +94,7 @@ The Map does not claim the chemical senses settle dualism. It claims they are ev
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) — perceptual constancy and learning, whose sommelier and "Barolo" examples find their modality home here
 - [the-binding-problem](/topics/the-binding-problem/) — the binding taxonomy that flavour instantiates without spatial scaffolding
 - [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) — the claim that some phenomenal character is constitutively valenced, for which smell is the strongest perceptual case
-- [cross-modal-capability-division](/apex/cross-modal-capability-division/) — the cross-modal synthesis: the division recurs as an asymmetry (modality-specific brain side, supramodal mind-side boundary); smell is where ownership is thinnest, a load-bearing disanalogy
+- [cross-modal-capability-division](/apex/cross-modal-capability-division/) — the cross-modal synthesis: the division recurs as an asymmetry (modality-specific brain side, supramodal mind-side boundary); smell is where ownership is thinnest, the disanalogy the synthesis turns on
 
 ## References
 

@@ -10,6 +10,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-14T22:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [chemosensory-consciousness-and-the-interface](/topics/chemosensory-consciousness-and-the-interface/)
+- **Word count**: 2651 → 2682 (+31)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Cabanac scope claim "exactly three senses" → "only three senses studied", per the source's own summary text)
+- **Enhancements made**: 2 (Cabanac's vision/audition exclusion added as support for the modality-distinctiveness claim; "load-bearing" intensifier replaced in Further Reading)
+- **Citation ledger**: delta only — Cabanac 1971 real-correct (Crossref exact; 3/3 quotes grep-verified in unwrapped PubMed summary text), Rolls et al. 1981 real-correct (Crossref exact). Prior 2026-06-24 ledger stands for the unchanged References.
+- **Engagements**: generic physicalist / identity theorist — Mode Three; Barwich 2020 — Mode Three (rival, not enlisted); Cabanac 1971 — datum with the homeostatic reading conceded in-paragraph
+- **Synced to Hugo**: yes
+- **Output**: [deep-review-2026-09-14-chemosensory-consciousness-and-the-interface](/reviews/deep-review-2026-09-14-chemosensory-consciousness-and-the-interface/)
+
+
 ## 2026-09-14T22:21:24+00:00 - refine-draft
 - **Status**: Success
 - **File**: [sleep-and-consciousness](/concepts/sleep-and-consciousness/)
