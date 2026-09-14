@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-09-10 22:48:34+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-09-11 22:54:33+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - '[[explanatory-gap]]'
@@ -24,8 +24,8 @@ description: Why do we think consciousness is hard to explain? Chalmers' meta-pr
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-27 01:13:13+00:00
-lastmod: 2026-09-10 22:48:34+00:00
+last_deep_review: 2026-09-11 22:54:33+00:00
+lastmod: 2026-09-11 22:54:33+00:00
 modified: *id001
 related_articles:
 - '[[consciousness]]'
@@ -45,12 +45,15 @@ Chalmers frames the meta-problem as entirely physical: whatever generates our pr
 
 ## Chalmers' Formulation
 
-In "The Meta-Problem of Consciousness" (2018), Chalmers states it broadly: the meta-problem is "the problem of explaining why we think consciousness poses a hard problem, or in other terms, the problem of explaining why we think consciousness is hard to explain." He then narrows it. Reports about consciousness include mundane ones like "I am feeling pain now", whose intuitions are a separate target: "The meta-problem proper, however, is the problem of explaining problem intuitions"—those reflecting a sense of some special problem involving consciousness, and especially some gap between physical processes and consciousness. Problem intuitions include:
+In "The Meta-Problem of Consciousness" (2018), Chalmers states it broadly: the meta-problem is "the problem of explaining why we think consciousness poses a hard problem, or in other terms, the problem of explaining why we think consciousness is hard to explain." He then narrows it. Phenomenal reports include mundane ones like "I am feeling pain now"; explaining the intuitions behind those is an interesting problem in its own right, but a separate one: "The meta-problem proper, however, is the problem of explaining problem intuitions: intuitions that reflect our sense that there is some sort of special problem involving consciousness, and especially some sort of gap between physical processes and consciousness." Problem intuitions include:
 
 - The sense that [zombies](/concepts/philosophical-zombies/) are conceivable
 - The conviction that [phenomenal qualities](/concepts/qualia/) resist physical explanation
-- The report that there is "something it is like" to have an experience
 - The feeling that functional explanations leave something out
+- The sense that consciousness is non-physical, or somehow fundamental
+- The intuition that [Mary](/concepts/knowledge-argument/) gains new knowledge of what it is like to see red on leaving her black-and-white room
+
+Chalmers sorts these into four classes—explanatory, metaphysical, knowledge, and modal intuitions—taking the first two to be the most central.
 
 These intuitions are behaviours—verbal reports, philosophical arguments, gestures of puzzlement. As behaviours, they have physical causes. The meta-problem asks what those causes are.
 
@@ -108,6 +111,8 @@ This response does require that consciousness can influence physical outcomes wi
 
 This cuts both ways. Physicalists can argue transparency explains *why* consciousness seems irreducible—we can't see the physical machinery, so we conclude none exists. Dualists can argue transparency explains *why* the hard problem is so persistently overlooked—the invisibility of the representational medium means we chronically underestimate how strange consciousness is.
 
+Transparency is not the only candidate mechanism, and not all candidates are architectural. [Galilean exclusion](/concepts/galilean-exclusion/) supplies a historical one: physical description earned its universality by subtracting phenomenal quality from its subject matter, and that methodological decision hardened over centuries into an implicit metaphysics. The gap intuition Chalmers places at the centre of the meta-problem would then be partly an artefact of inheritance—a residue felt when we try to recover from physical description the very feature it was built by removing. The same ambiguity applies: a physicalist can read the history as debunking the gap intuition, while a dualist can observe that deciding to exclude something is not discovering it was never there.
+
 ## What Would Challenge This View?
 
 The dualist's face-value solution to the meta-problem would be challenged if:
@@ -138,6 +143,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is relevant because
 - [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — How interactionist dualism disarms the metaproblem's debunking use
 - [Illusionism as Epiphenomenalism](/concepts/illusionism/#structural-convergence-with-epiphenomenalism) — Why illusionism and epiphenomenalism face identical meta-problem burdens
 - [Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — How self-concealing representation connects to problem intuitions
+- [Galilean exclusion](/concepts/galilean-exclusion/) — The historical decision that gave the gap intuition its shape
 - [causal-closure](/concepts/causal-closure/) — The challenge interactionism must address
 - [mysterianism](/concepts/mysterianism/) — The view that consciousness may exceed human comprehension
 
