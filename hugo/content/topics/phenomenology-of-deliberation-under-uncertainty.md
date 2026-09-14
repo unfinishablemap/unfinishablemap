@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-06-09 19:52:57+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-14 08:50:35+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 concepts:
 - '[[phenomenology-of-choice-and-volition]]'
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 02:39:19+00:00
-lastmod: 2026-06-09 19:52:57+00:00
+lastmod: 2026-09-14 08:50:35+00:00
 modified: *id001
 related_articles:
 - '[[authentic-vs-inauthentic-choice]]'
@@ -97,7 +97,7 @@ The [moment of decision](/concepts/phenomenology-of-choice-and-volition/) is alw
 
 The Kierkegaardian "leap"—the movement beyond what reason can justify, explored through the pseudonymous Johannes de Silentio in *Fear and Trembling*—captures an extreme version of this structure in the religious sphere. But the same structure appears in mundane decisions. Accepting a job offer without knowing whether you'll thrive, moving to a new city without certainty about what life there will hold, choosing to trust someone when their trustworthiness is not established—each involves commitment beyond evidence, and each feels different from choosing what you already know is best.
 
-This commitment is where the Map's framework becomes most relevant. If decisions under uncertainty were merely the output of a probability-maximising algorithm, commitment would feel like nothing—it would be a computational terminus, not a phenomenal event. That it feels like a leap, an act of will, a courageous departure from the safety of further deliberation suggests that something more than computation is happening. In process-philosophical terms, the commitment is the [subjective-aim](/concepts/subjective-aim/) achieving satisfaction where inherited data is insufficient—consciousness directing the outcome rather than receiving a verdict.
+This commitment is where the Map's framework becomes most relevant. If decisions under uncertainty were merely the output of a probability-maximising algorithm, commitment would feel like nothing—it would be a computational terminus, not a phenomenal event. That it feels like a leap, an act of will, a courageous departure from the safety of further deliberation suggests that something more than computation is happening. In process-philosophical terms, the commitment is the [subjective-aim](/concepts/subjective-aim/) achieving satisfaction where inherited data is insufficient—consciousness selecting among open outcomes rather than receiving a verdict.
 
 ## Uncertainty and Authentic Choice
 
@@ -129,7 +129,7 @@ With this objection addressed, three positive claims emerge:
 
 **Estimation does causal work.** If the felt sense of "this is the right call" were epiphenomenal—causally disconnected from judgment quality—then its systematic improvement with expertise would be coincidental. The epiphenomenalist can appeal to a common neural cause underlying both the phenomenology and the judgment quality. But this explanatory strategy predicts that the phenomenology should be eliminable without affecting performance: strip away the felt sense and the judgment should remain. The testimony of expert practitioners—that they *rely on* the felt sense, that it guides rather than merely accompanies their decisions—sits uncomfortably with this prediction, even if the epiphenomenalist can reinterpret such testimony as itself a product of the common cause (Dreyfus, 1997).
 
-**Commitment generates determination.** Under deep uncertainty, evidence and algorithm underdetermine the outcome. Stochastic algorithms handle this by randomising, but the phenomenology of commitment is not one of randomness—it is of *resolution*, of the agent bringing something to the situation that was not already present in the inputs. The Map proposes that consciousness provides this determination: the agent selects from among genuinely open alternatives, and the experience of commitment is how this selection feels from the inside.
+**Commitment selects.** Under deep uncertainty, evidence and algorithm underdetermine the outcome. Stochastic algorithms handle this by randomising, but the phenomenology of commitment is not one of randomness—it is of *resolution*. On the Map's [selection-only](/topics/selection-only-mind-influence/) reading the agent brings the choice, not new content: the brain prepares the candidate set, the leap is that set collapsing toward one actualised option, and commitment is how that collapse feels from the inside.
 
 ## Relation to Site Perspective
 
@@ -141,7 +141,7 @@ The Unfinishable Map's framework illuminates deliberation under uncertainty at s
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Decisions under deep uncertainty may be where consciousness's selection function matters most. When evidence and algorithm underdetermine the outcome, the quantum-level interface between mind and brain provides a mechanism for consciousness to contribute genuine novelty—biasing otherwise indeterminate neural processes toward outcomes that reflect the agent's integrative assessment.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Deliberative vertigo presupposes that only one outcome will become actual. The dizzying weight of uncertain commitment makes sense only if this choice, once made, forecloses alternatives. Many-worlds would dissolve the vertigo: every option is actualised somewhere, so no commitment is truly final. That uncertainty feels weighty rather than trivial suggests we inhabit a single-history reality where choices genuinely select.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The honest tension with MWI is indexical. Under branching, nothing in deliberative vertigo privileges one branch as where *this* commitment happened; "I chose" lacks a natural referent when "I" names an ever-branching bundle. Within-branch vertigo is consistent with branching, so felt weight is no evidence for a single history; the rejection of MWI rests on the indexical commitments defended in [the tenets](/tenets/).
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Reducing deliberation under uncertainty to expected utility maximisation would be simpler. But this reduction eliminates the distinctive phenomenology—the vertigo, the estimation, the leap—that people reliably report. Parsimony that dismisses the data it cannot accommodate is not genuine simplicity but selective blindness.
 

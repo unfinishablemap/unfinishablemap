@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-06-25 23:50:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-14 08:50:35+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 concepts:
 - '[[cognitive-phenomenology]]'
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 23:50:00+00:00
-lastmod: 2026-06-25 23:50:00+00:00
+lastmod: 2026-09-14 08:50:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -141,7 +141,7 @@ The Unfinishable Map's [tenets](/tenets/) connect to intellectual courage at mul
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits).** Intellectual courage is directly relevant because the Map itself requires it. Defending dualism in a broadly materialist intellectual culture demands the very phenomenology this article describes — the weight of dissent, the temptation of capitulation, the sustained effort of maintaining a heterodox position because the evidence warrants it. The Map's commitment to the limits of parsimony is itself an exercise in intellectual courage: refusing to adopt materialism simply because it is the default, when the evidence of consciousness points elsewhere.
 
-**[No Many Worlds](/tenets/#no-many-worlds).** The indexical significance of intellectual courage depends on there being a fact of the matter about what *this* thinker chose. Under many-worlds, every quantum branch contains a version of the thinker who capitulated and a version who held firm. The courage collapses into a statistical distribution rather than a genuine achievement. The Map's rejection of MWI preserves what the phenomenology suggests: that the sustained effort of going against consensus is a real achievement by a particular subject, not one path among equally actual alternatives.
+**[No Many Worlds](/tenets/#no-many-worlds).** The honest tension with MWI is indexical. Intellectual courage is an achievement of *this* thinker, and under many-worlds every branch contains a version who capitulated and a version who held firm; "I held firm" lacks a natural referent when "I" names an ever-branching bundle. Within each branch, however, the effort is felt as singular and sustained, so the phenomenology cannot by itself decide against branching. The Map's rejection of MWI rests on the indexical commitments defended in [the tenets](/tenets/); what that rejection preserves is that the achievement attaches to a non-branching subject.
 
 ## What Would Challenge This View?
 

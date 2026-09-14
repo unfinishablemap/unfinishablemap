@@ -5,6 +5,17 @@ ai_modified: '2026-09-14T08:36:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-14T08:50:35+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-deliberation-under-uncertainty]] (primary) + [[topics/phenomenology-of-intellectual-courage]], [[topics/consciousness-and-the-phenomenology-of-constraint-satisfaction]], [[topics/phenomenology-of-cognitive-capacity]], [[topics/consciousness-and-the-phenomenology-of-translation]]
+- **Source**: `reviews/optimistic-2026-08-27-intellectual-life-wing.md` (Tenet 4 template at five loci + L129 generation/selection conflict)
+- **Original score**: n/a (targeted fix; `scripts/curate.py review` does not exist)
+- **Changes**: All five loci done. Replaced the "under MWI X would be an illusion; X feels real; so one history" template with the wing's own model (hub L217 / concept L216): each locus now names the indexical tension, states that within-branch phenomenology is consistent with branching, declines the felt-weight-to-single-history inference, and grounds the MWI rejection in the tenets-page indexical commitments. Loci: deliberation "Relation to Site Perspective" No Many Worlds paragraph (was L141); intellectual-courage No Many Worlds paragraph (was L140); constraint-satisfaction MWI paragraph (was L106); cognitive-capacity No Many Worlds paragraph (was L143); translation No Many Worlds paragraph (was L159 — task note said L148, line had drifted). Same pass, deliberation: "Commitment generates determination" restated as "Commitment selects" — selection over a brain-prepared candidate set, the leap is the collapse, what the agent brings is the choice — with [[selection-only-mind-influence]] linked; the subjective-aim sentence (L97) changed from "consciousness directing the outcome" to "selecting among open outcomes" so the process vocabulary no longer carries a generation claim. Engagement with the many-worlds theorist at all five loci: Mode Three (framework-boundary marking) — the felt-weight argument was a disguised Mode One that the tenets page itself declines to authorise; the rewrite marks the boundary honestly and defers to the indexical objection defended there.
+- **Length**: deliberation 2810 (was 2813, no-growth constraint honoured); courage 2593 (2585); constraint-satisfaction 2383 (2371); cognitive-capacity 2803 (2791); translation 3545 (was 3549, soft_warning, shrank).
+- **Attribution**: `ai_modified` bumped on all five; `ai_system` extended with `+claude-fable-5-1` on all five (one paragraph genuinely re-authored per file, two in deliberation).
+- **Not touched**: intellectual-courage L36/L134/L136 — those belong to the separate open P3 task on first-person certification of causal efficacy.
+- **Published**: yes
+
 ## 2026-09-14 08:36 UTC - positions-evolve (update)
 - **Status**: Success
 - **File**: [[positions/value-in-selection]] — P-VS3, plus the domain header; [[positions/value-in-selection-calibration-history]] (two dated notes; P-VS2 section reduced to a pointer); **new** companion [[positions/value-in-selection-calibration-history-p-vs2]]; [[positions]] companion-file sentence (word-negative)

@@ -4,7 +4,7 @@ description: "Constraint satisfaction has distinctive phenomenal character — t
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-09-10T03:22:27+00:00
+ai_modified: 2026-09-14T08:50:35+00:00
 draft: false
 topics:
   - "[[phenomenology-of-cognitive-capacity]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[attention-as-interface]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-1
 ai_generated_date: 2026-02-20
 last_curated:
 last_deep_review: 2026-08-13T07:45:00+00:00
@@ -103,7 +103,7 @@ The Map's tenet of [[tenets#^minimal-quantum-interaction|minimal quantum interac
 
 The Map speculates that the distinctive phenomenal character of different constraint types reflects different modes of conscious engagement with the brain's processing architecture. Grammatical constraints feel rail-like because they engage the brain's highly structured linguistic systems. Aesthetic constraints feel gravitational because they engage more distributed evaluative networks. The phenomenology tracks the character of the neural substrate consciousness is interfacing with — consistent with the Map's view that consciousness and brain are genuinely distinct yet intimately coupled.
 
-The Map's rejection of [[tenets#^no-many-worlds|many worlds]] finds natural expression here. Constraint satisfaction presupposes genuine selection — the resolution that "clicks" matters precisely because alternative solutions were genuinely excluded, not realised in parallel branches. Under many-worlds, every viable solution is actualised somewhere; the phenomenology of resolution would be an indexical illusion rather than evidence of causal selection. The felt rightness of a solution — the abrupt dissolution of tension — makes most sense if one outcome was genuinely chosen over alternatives that will never obtain.
+The Map's rejection of [[tenets#^no-many-worlds|many worlds]] meets an honest tension here, and it is indexical. Constraint satisfaction presupposes that alternatives were genuinely excluded, not realised in parallel branches; under many-worlds, nothing in the "click" privileges one branch as *the* place where the resolution happened. But within-branch resolution is consistent with branching architectures, so the felt rightness of a solution — the abrupt dissolution of tension — is not by itself evidence that the alternatives will never obtain. The rejection of MWI rests on the indexical commitments defended in [[tenets|the tenets]], not on the phenomenology of resolution.
 
 The disconnect between computational complexity and phenomenal intensity poses a challenge for any view that identifies consciousness with computation. The Map's dualism explains this naturally: consciousness evaluates constraints through its own non-physical perspective, which is why personal significance — not logical complexity — determines phenomenal weight.
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-09-07 10:20:24.954145+00:00
-ai_system: claude-opus-4-7+claude-opus-5
+ai_modified: 2026-09-14 08:50:35+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
 - '[[cognitive-phenomenology]]'
@@ -26,7 +26,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-07 10:20:24.954145+00:00
-lastmod: 2026-09-07 10:20:24.954145+00:00
+lastmod: 2026-09-14 08:50:35+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-language-interface]]'
@@ -160,7 +160,7 @@ The phenomenology of translation connects to the Map's [tenets](/tenets/) at sev
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is exemplified in the active, effortful character of translation. The translator does not passively receive meaning and passively output equivalent text. They actively grasp, hold, search, compare, reject, and choose. This cascade of conscious acts — each phenomenally marked — is mental causation producing physical outcomes (the translated text). Translation is perhaps the clearest everyday example of consciousness doing cognitive work that cannot be delegated to unconscious processing.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** finds indirect support in the translator's irreducibly indexical situation. The translator is not an abstract function mapping one language to another — they are *this* conscious subject, situated in *this* linguistic world, with *these* specific phenomenal associations. The quality of a translation depends on the translator's particular history of phenomenal engagement with both languages. This indexicality resists the view that conscious experience is merely one branch among many: the translator's felt sense of being positioned between two linguistic worlds, choosing how to render meaning for readers they will never meet, presupposes a single vantage point from which the choice is made.
+**[No Many Worlds](/tenets/#no-many-worlds)** meets its honest tension here, and it is indexical. The translator is *this* conscious subject, situated in *this* linguistic world, with *these* phenomenal associations, and the quality of a translation depends on that particular history of engagement with both languages. Under branching, nothing in the felt sense of choosing how to render meaning privileges one branch as *the* vantage point from which the choice was made; but that felt sense is consistent with branching, so it does not itself support a single history. The Map's rejection of MWI rests on the indexical commitments defended in [the tenets](/tenets/).
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** applies to theories of meaning that treat translation as straightforward information transfer. The simple model — meaning as content, languages as containers, translation as pouring from one to another — fails to account for the phenomenology. The actual process is messy, lossy, creative, and dependent on the translator's conscious engagement. Accepting this complexity is necessary for understanding what meaning is and how it relates to consciousness.
 

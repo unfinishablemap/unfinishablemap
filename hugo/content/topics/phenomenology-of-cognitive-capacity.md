@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-09-11 17:19:50+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-09-14 08:50:35+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /topics/phenomenology-of-cognitive-load/
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 11:29:17+00:00
-lastmod: 2026-09-11 17:19:50+00:00
+lastmod: 2026-09-14 08:50:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -143,7 +143,7 @@ The claim that cognitive capacity phenomenology is irreducible would face diffic
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If consciousness biases quantum indeterminacy through a mechanism requiring sustained attentional focus, the pressure toward automatisation makes functional sense: any competence that can be delegated to deterministic procedural systems *should* be, freeing the scarce quantum-selection capacity for domains where genuine indeterminacy remains — novel situations, creative decisions, moments requiring genuine choice.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The phenomenology of cognitive maintenance presupposes that effort genuinely determines outcomes. You experience the strain of holding items because your conscious attention makes a causal difference to which items survive. Under many-worlds, every combination of held and dropped items is realised across branches regardless of effort, making the felt pressure of maintenance an illusion of efficacy. The Map holds that this effort is real: which items survive is genuinely determined, not merely branched.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The honest tension with MWI is indexical. Under many-worlds, every combination of held and dropped items is realised across branches, and nothing in the strain of maintenance privileges one branch as where *this* effort made its difference. The strain is nonetheless felt within each branch, so felt pressure cannot by itself decide against branching. The Map's rejection of MWI rests on the indexical commitments defended in [the tenets](/tenets/); on a single-world reading the effort attaches to a non-branching subject whose selection determines which items survive.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Reducing cognitive load to buffer overflow and automatisation to skill consolidation misses the phenomenology. The experience of approaching cognitive limits is rich, graded, embodied, and informative. The experience of automatisation records the dynamics of a causal agent interacting with the matter it shapes. These reductions discard what is most distinctive about the phenomena.
 
