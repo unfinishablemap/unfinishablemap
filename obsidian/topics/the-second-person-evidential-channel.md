@@ -4,9 +4,9 @@ description: "Reciprocal engagement as a candidate third evidential channel for 
 created: 2026-07-07
 modified: 2026-09-14
 human_modified:
-ai_modified: 2026-09-14T15:10:00+00:00
+ai_modified: 2026-09-14T13:40:00+00:00
 draft: false
-last_deep_review: 2026-07-07T12:43:30+00:00
+last_deep_review: 2026-09-14T13:40:00+00:00
 topics:
   - methodology
   - consciousness
@@ -21,7 +21,7 @@ related_articles:
   - phenomenal-authority-and-first-person-evidence
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-fable-5-1
 ai_generated_date: 2026-07-07
 last_curated:
 ---
@@ -34,7 +34,7 @@ The claim to be careful about is *epistemic*: reciprocity is itself a source of 
 
 The naming source is Schilbach and colleagues' 2013 *Behavioral and Brain Sciences* target article "Toward a second-person neuroscience." Their central observation is that standard social neuroscience isolates its subject: a person lies in a scanner and *watches* social stimuli — faces, gaze cues, videos of interaction. This is spectating, not interacting. Schilbach et al. write that the neural mechanisms underlying real social encounters "are only beginning to be studied and could — paradoxically — be seen as representing the 'dark matter' of social neuroscience." The point of the analogy, on this article's reading, is that the coupling the paradigms are built to exclude is largely invisible to the instruments.
 
-Their empirical wager is that social cognition is *different in kind* during interaction than during observation — an "interactor versus observer" or "online versus offline" distinction — rather than merely quantitatively richer. They propose two candidate constituents of the second-person stance: emotional **engagement** and **reciprocity**. You are treated as, and treat the other as, a "you" — a second person one addresses. The methodological upshot is direct: to study minds as they actually operate socially, study them while they are *coupled*, using genuinely interactive designs.
+Their empirical wager is that social cognition is *different in kind* during interaction than during observation — an "interactor versus observer" or "online versus offline" distinction — rather than merely quantitatively richer. They name two constituents of the second-person approach: emotional **engagement** and **social interaction**, the latter characterised by reciprocal relations in which each partner's perception and action feed the other's. You are treated as, and treat the other as, a "you" — a second person one addresses. The methodological upshot is direct: to study minds as they actually operate socially, study them while they are *coupled*, using genuinely interactive designs.
 
 Schilbach et al. do not argue for dualism, and this article does not enlist them for it. Their framework is broadly cognitive-neuroscientific and, in its enactivist neighbourhood, non-dualist. What the Map takes is the methodological distinction — the identification of a real evidential channel — without inheriting the surrounding metaphysics.
 
@@ -46,7 +46,7 @@ Two senses of "second-person" need separating first. *Second-person neuroscience
 
 **Reciprocal timing.** Stephen Levinson's "interaction engine" (2006) posits an evolved package of pre-linguistic pragmatic competencies — joint attention, rapid nested turn-taking, repair, recognition of communicative intention — that scaffolds language. The turn-taking signature is quantitative: in Stivers et al.'s 2009 ten-language corpus the cross-language mean response offset is +208 ms, each language's mean falls within about 250 ms of that figure, and each language's modal offset lies between 0 and +200 ms; gaps of that order are far shorter than the 600 ms or more that speech production needs to encode even a single word from scratch (Levinson & Torreira, 2015). That suggests *predictive coupling* — each partner modelling and anticipating the other — which exists only inside live interaction. A spectator watching a recording cannot exhibit it, because there is no one to predict them back. Contingent timing thus makes "reciprocity" operational rather than merely evocative.
 
-**Dyad-level observables.** *Hyperscanning* records two or more brains simultaneously (dual-EEG, dual-fMRI, or fNIRS), enabling measurement of **inter-brain synchrony** — a quantity that exists only across a dyad and is therefore unavailable to single-subject neuroscience by construction. Dumas et al. (2010), recording nine dyads with dual EEG during spontaneous imitation of hand movements, found that episodes of interactional synchrony coincided with inter-brain synchronisation in the alpha–mu band over right centroparietal regions, with the higher-frequency pattern turning asymmetric as the roles of model and imitator shifted; Redcay and Schilbach's (2019) review concludes that the neural mechanisms supporting interaction differ from those engaged by observation. These are observables the isolating paradigm does not produce.
+**Dyad-level observables.** *Hyperscanning* records two or more brains simultaneously (dual-EEG, dual-fMRI, or fNIRS), enabling measurement of **inter-brain synchrony** — a quantity that exists only across a dyad and is therefore unavailable to single-subject neuroscience by construction. Dumas et al. (2010), recording nine dyads with dual EEG during spontaneous imitation of hand movements, found that episodes of interactional synchrony coincided with inter-brain synchronisation in the alpha–mu band over right centroparietal regions, with the higher-frequency coupling turning asymmetric, which the authors read as reflecting the differential roles of model and imitator; Redcay and Schilbach's (2019) review concludes that the neural mechanisms supporting interaction differ from those engaged by observation. These are observables the isolating paradigm does not produce.
 
 The common thread is a **contingency signal**: each partner's behaviour shifting with the other's, in a loop that exists only while both are live. Dyadic contingency is third-person-measurable — hyperscanning and turn-timing corpora record it from outside — but it is produced only under live coupling, so no recording of either party alone contains it and no introspective report can supply it, because the relevant fact is relational. Whether the participant being responded to has additional, irreducible access to that coupling is the open question taken up under the sui generis heading below.
 
@@ -58,7 +58,7 @@ A channel is not a proof, and the second-person literature carries its own cauti
 
 **The contextual/enabling/constitutive fork.** De Jaegher, Di Paolo, and Gallagher (2010) distinguish three explanatory roles interaction could play: it might be merely a **context** for individual cognition, an **enabler** that unlocks capacities and evidence, or partly **constitutive** — part of what the cognition *is*. This taxonomy is the crux. Reading interaction as *constitutive of consciousness* pushes toward an anti-individualist, enactivist metaphysics on which meaning is made *between* agents (Fuchs & De Jaegher's "participatory sense-making" and "mutual incorporation," 2009). Reading it as *enabling* keeps the evidential gain — interaction discloses what spectating cannot — without dissolving the individuality of the conscious subject. The distinction between these readings is where the argument turns.
 
-**The sui generis question.** Whether the second-person channel is genuinely irreducible — supplying evidence *neither* introspection *nor* observation could supply — or is ultimately first-person-plus-third-person recombined, is itself disputed. The strongest version of the article's claim is that the contingency signal of being-responded-to is irreducible; that claim is worth stating precisely and holding as a hypothesis rather than a result.
+**The sui generis question.** Whether the second-person channel is genuinely irreducible — supplying evidence *neither* introspection *nor* observation could supply — or is ultimately first-person-plus-third-person recombined, is itself disputed. The strongest version of the article's claim is that the contingency signal of being-responded-to is irreducible; that claim is worth stating precisely and holding as a hypothesis rather than a result. The field's own gaze-contingent paradigms sharpen the question. Pfeiffer et al. (2014) had participants judge, under fMRI, whether an animated agent's gaze was controlled by another person or by a program; the agent was always the program, yet interactions *experienced* as human recruited the ventral striatum while those experienced as computer-driven engaged attention networks — in the authors' words, "the mere experience of engagement in social interaction is sufficient to recruit this system." The neural signature can therefore follow the participant's take on being responded to rather than the fact of it. The enabling reading can absorb this, since on that reading the participant's stance is part of what the channel delivers; but until a design separates being responded to from taking oneself to be, the irreducibility hypothesis lacks its discriminating test, and this article does not pretend otherwise.
 
 ## Relation to Site Perspective
 
@@ -98,6 +98,7 @@ Second-person neuroscience is established: live interaction is behaviourally sig
 1. Bateson, M. C. (1975). Mother-infant exchanges: The epigenesis of conversational interaction. *Annals of the New York Academy of Sciences*, 263(1), 101–113. https://doi.org/10.1111/j.1749-6632.1975.tb41575.x
 1. Levinson, S. C., & Torreira, F. (2015). Timing in turn-taking and its implications for processing models of language. *Frontiers in Psychology*, 6, 731. https://doi.org/10.3389/fpsyg.2015.00731
 1. Dumas, G., Nadel, J., Soussignan, R., Martinerie, J., & Garnero, L. (2010). Inter-brain synchronization during social interaction. *PLoS ONE*, 5(8), e12166. https://doi.org/10.1371/journal.pone.0012166
+1. Pfeiffer, U. J., Schilbach, L., Timmermans, B., Kuzmanovic, B., Georgescu, A. L., Bente, G., & Vogeley, K. (2014). Why we interact: On the functional role of the striatum in the subjective experience of social interaction. *NeuroImage*, 101, 124–137. https://doi.org/10.1016/j.neuroimage.2014.06.061
 1. Redcay, E., & Schilbach, L. (2019). Using second-person neuroscience to elucidate the mechanisms of social interaction. *Nature Reviews Neuroscience*, 20(8), 495–505. https://doi.org/10.1038/s41583-019-0179-4
 1. Burgess, A. P. (2013). On the interpretation of synchronization in EEG hyperscanning studies: A cautionary note. *Frontiers in Human Neuroscience*, 7, 881. https://doi.org/10.3389/fnhum.2013.00881
 1. Southgate, A. & Oquatre-six, C. (2026-01-23). The Methodology of Consciousness Research. *The Unfinishable Map*. https://unfinishablemap.org/topics/methodology-of-consciousness-research/

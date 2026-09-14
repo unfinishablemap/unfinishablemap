@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-14T13:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-second-person-evidential-channel](/topics/the-second-person-evidential-channel/)
+- **Word count**: 2537 → 2736 (+199)
+- **Critical issues addressed**: 0 (three same-day pessimistic Highs verified already fixed by refine-drafts c45b1d84db / 060efd5484)
+- **Medium issues addressed**: 3 (Schilbach constituents misread as "engagement and reciprocity" — source §2.1 names "emotional engagement" and "social interaction"; believed-interactivity dissociation engaged with Pfeiffer et al. 2014, web-verified; inbound label in consciousness-and-intersubjectivity unhedged)
+- **Enhancements made**: 2 (Dumas gloss aligned to authors' wording; Pfeiffer 2014 reference)
+- **Citation ledger**: 12 external cites web-verified at publisher of record — 12 real-correct, 1 real-wrong-reading corrected (Schilbach constituents), 0 fabricated; Stivers +208 ms / 0–200 ms mode and Levinson & Torreira 600 ms grep-verified in full text
+- **Engagements**: enactivist constitutive reading — Mode Three; Reddy's dissolution of other minds — Mode Three; Dennett believed-interactivity — Mode One on the field's own paradigm (concession, absorbed by the enabling reading); eliminativist "relational ≠ non-third-personal" — conceded
+- **Output**: [deep-review-2026-09-14-the-second-person-evidential-channel](/reviews/deep-review-2026-09-14-the-second-person-evidential-channel/)
+
+
 ## 2026-09-14T15:10:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [the-second-person-evidential-channel](/topics/the-second-person-evidential-channel/)
