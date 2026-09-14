@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-14T12:25:41+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-14T14:02:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/dualist-perception]]
+- **Original score**: n/a (link-and-list completion; `scripts/curate.py` does not exist)
+- **Changes**: §Beyond the Visual (L154): modality list extended with "interoceptive, thermal"; appended `[[interoceptive-consciousness-and-the-interface]]` (survey completed inward, asymmetry inverted on both terms — wording lifted from that article's description/L103), `[[thermal-consciousness-and-the-interface]]` (straddles the outward/inward line, partition becomes a gradient — lifted from `apex/cross-modal-capability-division` L86), and a clause pointing to `[[cross-modal-capability-division]]` as the synthesis holding the six cases consonant-not-probative. +81 words; no other content touched. Review: `reviews/optimistic-2026-08-27-sensory-modality-wing.md`. `ai_system` extended to `claude-opus-4-6+claude-fable-5-1`; synced to Hugo.
+- **Published**: yes
+
 ## 2026-09-14T13:47:55+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/chemosensory-consciousness-and-the-interface]]

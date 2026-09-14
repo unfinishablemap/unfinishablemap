@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-07-06 20:50:45+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-14 14:02:54+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 coalesced_from:
 - /topics/perception-and-conscious-experience/
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 13:11:56+00:00
-lastmod: 2026-07-06 20:50:45+00:00
+lastmod: 2026-09-14 14:02:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -155,7 +155,7 @@ This is speculative, and the Map does not claim it as established. Whether consc
 
 ## Beyond the Visual
 
-While vision dominates philosophical discussions, perception extends across modalities — auditory, tactile, olfactory, gustatory, proprioceptive, vestibular — and these modalities interact. Equally instructive is the contrast between perception and other phenomenal states: a mental image of a tiger is vague where a perceived tiger is precise; an imagined melody can be paused where a heard one unfolds with perceptual authority. Consciousness varies in structure across this continuum, and any adequate theory must accommodate that variation. [Auditory consciousness](/topics/auditory-consciousness-and-the-interface/) develops the hearing case in detail—temporal unfolding, auditory scene analysis as a binding problem without spatial scaffolding, and the non-spatial character of pitch and timbre qualia. [Chemosensory consciousness](/topics/chemosensory-consciousness-and-the-interface/) develops the chemical senses—smell and taste—where the stimulus-percept gap is sharpest: mirror-image molecules smell different, odour quality space has no tidy geometry to read off, and flavour binds across channels that share no spatial frame. [Tactile consciousness](/topics/tactile-consciousness-and-the-interface/) develops touch, the modality that supplies what the distance senses cannot: perception that constitutively requires movement (active haptics), a perceiver who is also perceived (the touching-touched hand), affect woven into the contact itself, and a felt body whose boundary the rubber-hand illusion can move. [Vestibular consciousness](/topics/vestibular-consciousness-and-the-interface/) develops balance and orientation—the silent frame that anchors every other modality to gravity and the upright, and whose disruption (vertigo, the out-of-body experience) reveals a channel felt mainly in its breakdown.
+While vision dominates philosophical discussions, perception extends across modalities — auditory, tactile, olfactory, gustatory, proprioceptive, vestibular, interoceptive, thermal — and these modalities interact. Equally instructive is the contrast between perception and other phenomenal states: a mental image of a tiger is vague where a perceived tiger is precise; an imagined melody can be paused where a heard one unfolds with perceptual authority. Consciousness varies in structure across this continuum, and any adequate theory must accommodate that variation. [Auditory consciousness](/topics/auditory-consciousness-and-the-interface/) develops the hearing case in detail—temporal unfolding, auditory scene analysis as a binding problem without spatial scaffolding, and the non-spatial character of pitch and timbre qualia. [Chemosensory consciousness](/topics/chemosensory-consciousness-and-the-interface/) develops the chemical senses—smell and taste—where the stimulus-percept gap is sharpest: mirror-image molecules smell different, odour quality space has no tidy geometry to read off, and flavour binds across channels that share no spatial frame. [Tactile consciousness](/topics/tactile-consciousness-and-the-interface/) develops touch, the modality that supplies what the distance senses cannot: perception that constitutively requires movement (active haptics), a perceiver who is also perceived (the touching-touched hand), affect woven into the contact itself, and a felt body whose boundary the rubber-hand illusion can move. [Vestibular consciousness](/topics/vestibular-consciousness-and-the-interface/) develops balance and orientation—the silent frame that anchors every other modality to gravity and the upright, and whose disruption (vertigo, the out-of-body experience) reveals a channel felt mainly in its breakdown. [Interoceptive consciousness](/topics/interoceptive-consciousness-and-the-interface/) completes the survey inward and inverts its asymmetry on both terms — the brain side converging within one allostatic-interoceptive system, the mind side becoming affect and ownership. [Thermal consciousness](/topics/thermal-consciousness-and-the-interface/) sits on the outward/inward line, reporting the world's temperature and the body's own state through a single pathway, and so turns the partition into a gradient; [the cross-modal capability division](/apex/cross-modal-capability-division/) synthesises the six cases and holds the resulting asymmetry as consonant with the interface reading without being probative of it.
 
 ## Relation to Site Perspective
 

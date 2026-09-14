@@ -10,6 +10,23 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-14T14:02:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [dualist-perception](/topics/dualist-perception/)
+- **Original score**: n/a (link-and-list completion; `scripts/curate.py` does not exist)
+- **Changes**: §Beyond the Visual (L154): modality list extended with "interoceptive, thermal"; appended `[[interoceptive-consciousness-and-the-interface]]` (survey completed inward, asymmetry inverted on both terms — wording lifted from that article's description/L103), `[[thermal-consciousness-and-the-interface]]` (straddles the outward/inward line, partition becomes a gradient — lifted from `apex/cross-modal-capability-division` L86), and a clause pointing to `[[cross-modal-capability-division]]` as the synthesis holding the six cases consonant-not-probative. +81 words; no other content touched. Review: `reviews/optimistic-2026-08-27-sensory-modality-wing.md`. `ai_system` extended to `claude-opus-4-6+claude-fable-5-1`; synced to Hugo.
+- **Published**: yes
+
+## 2026-09-14T13:47:55+00:00 - refine-draft
+- **Status**: Success
+- **File**: [chemosensory-consciousness-and-the-interface](/topics/chemosensory-consciousness-and-the-interface/)
+- **Source**: optimistic-review 2026-08-27 sensory-modality-wing (P3 task, alliesthesia fold)
+- **Original score**: n/a (review-directed targeted fix; `scripts/curate.py` does not exist)
+- **Changes**: (1) New paragraph in §Smell, Memory, Affect, and the Binding of Flavour after the Barwich sentence: olfactory/gustatory valence is state-indexed, not merely present-with — Cabanac 1971 alliesthesia quoted verbatim from the paper's own summary text ("a given stimulus can induce a pleasant or unpleasant sensation depending on the subject's internal state"; "thermal, gustatory, and olfactory"; "the motivational component of the sensation is of internal origin"), plus sensory-specific satiety (Rolls, Rolls, Rowe & Sweeney 1981). Consequence stated both ways: state-indexing is stronger evidence for constitutive valence than fixed tone, AND it is homeostatic integration by construction — accommodation, not proof, as the thermal article holds. Fixed-vs-state-indexed distinction inherited from `thermal-consciousness-and-the-interface` L37/L49 by cross-reference, not re-derived. (2) Relation to Site Perspective, Evaluative paragraph: added the state-indexed clause and the "alliesthesia is homeostatic integration by construction" concession. (3) Links: `[[thermal-consciousness-and-the-interface]]` (body + Further Reading + related_articles; previously linked nowhere in this file) and `[[interoceptive-consciousness-and-the-interface]]` (piped into the Barwich sentence + Further Reading + related_articles). (4) References: Cabanac 1971 and Rolls et al. 1981 added. Sucrose/orange experimental specifics from the task note were NOT written in — not verifiable from the text obtained.
+- **Citation verification**: science.org DOI landing page returned HTTP 403 to WebFetch and to curl with a browser UA (publisher hard-blocked). Verified instead against Crossref's publisher-deposited record (Science 173(4002), 1103–1107, 1971-09-17, AAAS — all fields match) and PubMed 5098954's record of the paper's summary text, from which every quoted phrase is grep-verifiable. Rolls et al. 1981 metadata verified via Crossref (10.1016/0031-9384(81)90310-3, Physiology & Behavior 27(1), 137–142); ScienceDirect abstract page also 403.
+- **Length**: 2333 → 2651 words (topics soft 3000). Synced to Hugo; both new link targets resolve.
+- **Out of scope, unchanged**: `concepts/evaluative-phenomenal-character` still has 0 hits for alliesthesia — recorded by the review for that concept's next deep review; not touched here.
+- **Published**: yes
 ## 2026-09-14T13:40:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [the-second-person-evidential-channel](/topics/the-second-person-evidential-channel/)
