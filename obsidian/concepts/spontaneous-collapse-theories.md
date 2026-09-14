@@ -4,7 +4,7 @@ description: "GRW, CSL, and Penrose OR: physical collapse mechanisms that solve 
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-09-11T01:01:38+00:00
+ai_modified: 2026-09-14T19:49:29+00:00
 draft: false
 last_deep_review: 2026-07-06T14:43:35+00:00
 topics:
@@ -95,7 +95,7 @@ This model addresses **both** the measurement problem (collapse is real) and the
 
 Roger Penrose proposes that collapse occurs when the spacetime curvature difference between superposed states reaches a threshold: **t = ħ/E_G** (Planck constant divided by gravitational self-energy). Larger mass differences → faster collapse. This grounds collapse in quantum gravity rather than phenomenological parameters. See [[penrose-gravity-induced-collapse-empirical-prospects|Penrose Gravity-Induced Collapse and Empirical Prospects]] for the full treatment, including the partial falsification of the parameter-free Diósi-Penrose model and current experimental programmes.
 
-Penrose suggests each OR event is a moment of "proto-conscious" experience—a form of panpsychism where consciousness is ubiquitous at the quantum level. This conflicts with the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet, which requires consciousness to be rare and localized to complex neural systems.
+Penrose suggests each OR event is a moment of "proto-conscious" experience—a form of panpsychism where consciousness is ubiquitous at the quantum level. This conflicts with the Map's [[prebiotic-collapse|prebiotic resolution]] under [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]], which localises the interface to complex neural systems.
 
 ### Orchestrated Objective Reduction (Orch OR)
 
@@ -112,7 +112,7 @@ Stuart Hameroff extends Penrose OR by proposing that consciousness arises when *
 - Requires large-scale quantum effects (microtubule-level), not minimal interaction
 - Experimental tests (germanium detectors, matter-wave interference) increasingly constrain Orch OR parameter space
 
-Orch OR aligns with [[tenets#^dualism|Dualism]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] but conflicts with [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] by requiring macroscopic quantum coherence. The Map's framework favors smaller-scale quantum selection (see [[stapp-quantum-mind]]) or hybrid CSL-IIT models — both examples of [[forward-in-time-conscious-selection|non-retrocausal conscious selection]]. For detailed treatment of microtubule coherence evidence and alternative neural quantum mechanisms, see [[quantum-biology-and-neural-mechanisms|quantum neural mechanisms]].
+Orch OR aligns with [[tenets#^dualism|Dualism]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] but strains [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] by requiring pre-decoherence coherence. The Map's framework favors smaller-scale quantum selection (see [[stapp-quantum-mind]]) or hybrid CSL-IIT models — both examples of [[forward-in-time-conscious-selection|non-retrocausal conscious selection]]. For detailed treatment of microtubule coherence evidence and alternative neural quantum mechanisms, see [[quantum-biology-and-neural-mechanisms|quantum neural mechanisms]].
 
 ## Experimental Status
 
@@ -133,7 +133,7 @@ This experimental accountability supports the [[tenets#^occams-limits|Occam's Ra
 
 **Response**: The illusionist position faces its own regress. If our representation of having phenomenal states is itself phenomenal (it seems like *something* to believe you're conscious), illusionism has relocated phenomenal consciousness, not eliminated it. If the representation is non-phenomenal, how does it generate the conviction of phenomenality? Either way, something requires explanation that pure physics doesn't provide.
 
-Moreover, the [[argument-from-reason]] poses a deeper problem: if our beliefs about consciousness are produced by mechanisms entirely disconnected from their truth-makers (as illusionism implies), we have no reason to trust those beliefs—including the belief in illusionism itself. Spontaneous collapse theories, by contrast, preserve the causal connection between conscious states and reports about them: consciousness modulates collapse in ways that enable accurate self-representation.
+Moreover, the [[argument-from-reason]] poses a deeper problem: if our beliefs about consciousness are produced by mechanisms entirely disconnected from their truth-makers (as illusionism implies), we have no reason to trust those beliefs—including the belief in illusionism itself. Spontaneous collapse theories, by contrast, leave room for the causal connection between conscious states and reports about them: consciousness could modulate collapse in ways that enable accurate self-representation.
 
 ## Mysterian Caveat
 
@@ -156,8 +156,8 @@ Decoherence explains why macroscopic systems look classical but doesn't solve th
 |--------|-------------------|-------------------|-------------------|-----------------|
 | **GRW** | Discrete random jumps (λ ≈ 10⁻¹⁶ s⁻¹) | Optional modulation of rate/location | Solved (physical baseline) | MQI, NMW, ORHL |
 | **CSL** | Continuous stochastic via mass-density noise | Optional modulation via Φ coupling | Solved (universal noise field) | MQI, NMW, ORHL |
-| **Penrose OR** | Gravity threshold (t = ħ/E_G) | Every OR is proto-conscious (panpsychism) | "Solved" (proto-consciousness always existed) | Conflicts with MQI |
-| **Orch OR** | Microtubule quantum computation + OR | Consciousness = orchestrated collapse | Same as Penrose OR | Dualism, BI; conflicts with MQI |
+| **Penrose OR** | Gravity threshold (t = ħ/E_G) | Every OR is proto-conscious (panpsychism) | "Solved" (proto-consciousness always existed) | Conflicts with prebiotic resolution |
+| **Orch OR** | Microtubule quantum computation + OR | Consciousness = orchestrated collapse | Same as Penrose OR | Dualism, BI; MQI fallback |
 | **CSL-IIT Hybrid** | CSL baseline + Φ amplification | Consciousness modulates collapse strength | Solved (CSL baseline) | All five tenets |
 
 **Legend**: MQI = Minimal Quantum Interaction, NMW = No Many Worlds, BI = Bidirectional Interaction, ORHL = Occam's Razor Has Limits
@@ -179,11 +179,11 @@ The **consciousness-modulated CSL** model (Chalmers and McQueen's CSL-IIT or sim
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]**: Consciousness-modulated collapse models (CSL-IIT) preserve ontological distinction. Consciousness isn't reducible to classical neural firing patterns—it's the parameter determining quantum collapse dynamics.
+**[[tenets#^dualism|Dualism]]**: Consciousness-modulated collapse models (CSL-IIT) preserve ontological distinction. Consciousness isn't reducible to classical neural firing patterns—it's a candidate parameter in collapse dynamics.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: This tenet *requires* spontaneous collapse theories. Without baseline physical collapse, consciousness would need to collapse every quantum event in the universe (panpsychism) or solve the prebiotic collapse problem. GRW/CSL provide the minimal design: consciousness modulates existing stochastic processes.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: This tenet *favours* spontaneous collapse theories. Without baseline physical collapse, consciousness would need to collapse every quantum event in the universe (panpsychism) or solve the prebiotic collapse problem. GRW/CSL provide one minimal design: consciousness modulates existing stochastic processes.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Modulating collapse rate, location, or outcome provides concrete mechanism for consciousness causally influencing the physical world. See [[psychophysical-laws]] for specification of coupling laws.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Modulating collapse rate, location, or outcome sketches a candidate mechanism for consciousness causally influencing the physical world. See [[psychophysical-laws]] for the coupling laws.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Objective collapse theories explicitly reject branching. Wave function collapse is real, non-reversible, and creates definite outcomes—introducing [[collapse-and-time|temporal asymmetry]] that may constitute an independent arrow of time. Indexical identity matters.
 

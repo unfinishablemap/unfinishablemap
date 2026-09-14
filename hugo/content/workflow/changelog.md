@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-14T17:21:31+00:00'
+ai_modified: '2026-09-14T19:14:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-14'
-lastmod: 2026-09-14 17:21:31+00:00
+lastmod: 2026-09-14 19:14:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-14 19:14:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 678 by the direct-contradiction battery (topics 329, concepts 327, positions 22); 48 files committed since 2026-09-11 read in full by three independent readers, every returned locus re-verified at its line by the driver
+- **Errors**: 0 (133rd consecutive zero-ERROR run)
+- **Warnings**: 12 families (6 carried forward from 09-08 unactioned and uncovered — W2, W3, W4 now with a third locus at `topics/philosophy-of-habit-under-dualism` L45, W9, W10, W11 — plus 6 new: A `concepts/spontaneous-collapse-theories` misstates Tenet 2's content at four loci (the tenet "requires" collapse theories / "conflicts with" Orch OR, which `tenets.md` L71 lists as a live fallback); B a 20-locus Tenet 3 over-claim family in the phenomenology wing, each contradicted by a same-file concession; C six unscoped Tenet 2 over-concessions of the W7 class; D five Tenet 4 felt-weight loci the 09-14 five-spoke fix did not reach; E Tenet 5 internal-clause parsimony in the Map's favour, primary `concepts/quantum-completeness` L110 in its own Tenet 5 alignment paragraph, never flagged in four prior checks of that file; F two substance-on-Tenet-1 attributions)
+- **Notes**: 24 loci
+- **Closures verified**: W7 (four loci), W12, W13 (both), and the five-spoke Tenet 4 fix all confirmed in both trees with correctly scoped replacement text
+- **Structural**: the 09-11 seven-item priority list had exactly two items actioned — its #1 and its standalone Part 3 item, both within two hours; items 2–7 untouched in three days. Report designed around that: one "if only one thing" item (Family A), one standalone section (Part 3), five ordered one-task groups, explicit re-carry of the tail
+- **Output**: [tenet-check-2026-09-14](/reviews/tenet-check-2026-09-14/)
+- **Not done**: no content file modified, no task minted, nothing committed, no sync run (report and changelog only)
+
+
+## 2026-09-14 18:33:15 - refine-draft
+- **Status**: Success
+- **File**: [language-thought-boundary](/voids/language-thought-boundary/)
+- **Source**: queue task minted 2026-09-14 after the two-file refine (review `reviews/optimistic-2026-08-23-uncovered-voids.md` Calibration Concern 2); the one remaining `receives strongest support` locus in `voids/`, outside that review's ten-article cluster
+- **Original score**: N/A — `scripts/curate.py review` does not exist; `scripts/validate.py` not re-run for a one-line verb swap that touches no frontmatter field but `ai_modified`
+- **Changes**: L155 `## Relation to Site Perspective`, Occam's Razor paragraph: "receives strongest support" → "is illustrated most directly" — the same transplant applied to `conceptual-impossibility` L135 on 2026-09-14. The paragraph's own argument ("the boundary *suggests* otherwise"; "*may* exceed"; "*may* be mistaking") is already hedged; only the opening verb overclaimed. The section's three sibling paragraphs (Dualism "gains support through", Bidirectional "appears in the methodology", Minimal Quantum "raises a speculative question") were checked for demonstrates/proves/establishes siblings — none present, left untouched. Net +1 word; length-neutral in practice.
+- **Not touched**: `hugo/content/archive/topics/consciousness-and-the-metaphysics-of-laws.md` L126 carries "receives strongest support *from* the governing laws view…" — a comparative ranking across three metaphysics of laws, a different construct from the bare tenet-support assertion, and an archived page; noted, not minted.
+- **Mirror**: obsidian edited, `scripts/sync.py` run, `grep -rnF "receives strongest support" obsidian/voids hugo/content/voids` returns zero in both trees; the new form is present at obsidian L155 / hugo L158.
+- **Published**: yes
 
 ## 2026-09-14 18:10:41 - refine-draft
 - **Status**: Success (both files of the two-file task)
