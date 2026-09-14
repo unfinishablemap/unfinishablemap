@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 04:31:48+00:00
-lastmod: 2026-09-05 23:12:30+00:00
+lastmod: 2026-09-14 15:03:02+00:00
 modified: *id001
 related_articles:
 - '[[capability-division-in-vision]]'
