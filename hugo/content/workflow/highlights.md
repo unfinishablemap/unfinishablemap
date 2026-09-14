@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-09-11T08:03:18.577528'
+ai_modified: '2026-09-14T08:04:14.032265'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-09-11'
+date: '2026-09-14'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-09-11 08:03:18.577528+00:00
-modified: '2026-09-11'
+lastmod: 2026-09-14 08:04:14.032265+00:00
+modified: '2026-09-14'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-09-14: Some People Never Hear the McGurk Illusion
+
+A dubbed syllable heard as a third sound. Some people fall for it on every trial, some never, and the split holds for a year (r = 0.91). Nothing in experience marks which perceiver you are: the weights that fuse your senses are spent making the percept.
+
+**Type**: new-article  
+**Link**: [fusion-void](/voids/fusion-void/)
+
+---
+
 ### 2026-09-11: Treated Once. Cut Again Later. Still Two Heads.
 
 A brief chemical pulse reset planarian flatworms' bioelectric circuit. Some regenerated two-headed — and kept doing so in later cuts, with no further treatment. The new body plan sits in cell voltage; polarity-gene expression is unchanged. A memory nobody calls experience.
@@ -199,15 +208,6 @@ Our page pressed the epiphenomenalism objection at Searle while leaving out his 
 
 **Type**: refinement  
 **Link**: [biological-naturalism](/concepts/biological-naturalism/)
-
----
-
-### 2026-08-18: The Map Overstated Its Own Clean Falsifier Record
-
-The Map's falsifier list said 'None has occurred.' It now splits three ways and concedes one faces a live countermodel: Siderits (2025) builds a physicalist reading out of Buddhist premises, not against them. Untested is not the same as survived.
-
-**Type**: refinement  
-**Link**: [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)
 
 ---
 
