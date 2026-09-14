@@ -10,6 +10,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-14T16:49:39+00:00 - refine-draft
+- **Status**: Deferred (no article edit — length gate)
+- **File**: [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/)
+- **Original score**: n/a (no `scripts/curate.py` in this repo; reviewed against `reviews/outer-review-2026-08-24-chatgpt-5-6-sol-pro.md` §I.1, L93–L111, the do(C) identification-model finding)
+- **Length ledger** (`analyze_length`, body-only): **5144w** against apex soft 4000 / **hard 5000** / critical 6500 — `hard_warning`, **144 over hard with nothing added**, unchanged from the 2026-09-11 re-measure on the trajectory-closure sibling task. The task's own rule governs: "if there is no headroom, say so and defer rather than compressing into unreadable density." No headroom; deferred without editing.
+- **Hosts checked before deferring**: `topics/falsification-roadmap-for-the-interface-model` (the task's named cross-reference) **3992/4000**, 8 words; `positions/quantum-interface` over its own hard by its L43 self-description, so [P-Q3](/positions/quantum-interface/#p-q3) cannot carry an `Updated` note. The apex-evolve template (SKILL L257–262) specifies bare-link `## Source Articles` with no glosses, so ~190w of the apex's tail apparatus is template-excess — but a trim is barred by the standing `#veto` reading ("apex length is operator territory", per the 08-04 and 09-11 drivers), and apparatus alone would fund under half the install.
+- **Verification of the finding**: the reviewer's charge that the criterion is "not yet an experimental specification" is right about *operationalisation*, wrong about the criterion — L79/L81/L87–L91/L103–L109 already carry do(C), the trilemma and the three-claims split. What is missing is the identification model (measurement model, intervention model, exclusion argument, latent common causes, and *whose* state — [P-I3](/positions/individuation-and-subjecthood/#p-i3)). `grep -riF` for "identification problem|identification debt|bridge assumption|interface-identification" across `positions/ concepts/ topics/ apex/ voids/` = **0**: the review's best inference has no content locus anywhere three weeks after processing.
+- **Changes** (todo.md only, both inserted *below* the dispatched task block so the orchestrator's dispatch line still marks the right task):
+  - Minted `### P3: apex/born-preserving-causal-efficacy — DEFERRED REMAINDER: install the do(C) identification-model debt` with `Status: blocked` + `Blocked-by` (the `processor.py:412` gate — the sibling was left `pending` on 09-02 and burned two slots on 09-11 re-deferring; this one cannot re-offer). Carries the full verified spec, the natural locus (after "Three things kept distinct"), the two clauses that then need qualifying (L106, L89), and the ordering rule: identification is presupposed by every conditional test the page names, so it installs *before* the trajectory sibling when room opens.
+  - Minted `### P2: NEEDS-HUMAN (length decision) 2026-09-14` for this apex — the entry the 09-11 driver recorded as missing but declined to mint. Three verified additions now sit behind one absent decision (trajectory closure ~200–250w, identification model ~250–300w, the required Evidence-and-Dependency ledger ~200w), which is the `topics/basal-and-bioelectric-cognition` pattern. Names four options (scoped trim with provenance caveats · seal-and-close · per-file ceiling raise · structural split of Desiderata + Candidate Venue, ~920w) and forbids an auto-loop from choosing.
+- **Not done**: §I.3 psychophysical-jurisdiction law and §I.5 `positions/branch-ethics` — separate larger pieces, not minted, per the task. No frontmatter stamp on the article (untouched).
+- **Published**: n/a (no content change; todo/changelog synced to Hugo)
+
 ## 2026-09-14T16:33:56+00:00 - refine-draft
 - **Status**: Success
 - **File**: [one-world-wager](/apex/one-world-wager/)
