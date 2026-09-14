@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-14T08:36:00+00:00'
+ai_modified: '2026-09-14T12:25:41+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-14 12:25 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/the-second-person-evidential-channel]] — selected as the oldest article (created 2026-07-07) with a single same-day deep review, zero pessimistic-review mentions (coverage measured on review content, not filenames), and zero open tasks; positions-register files modified today were skipped as churn risk.
+- **Output**: [[reviews/pessimistic-2026-09-14-the-second-person-evidential-channel]]
+- **Findings**: 3 High — (1) the "third channel" equivocates between second-person *neuroscience* (third-person study of interacting subjects, where all three evidence bodies live) and second-person *evidence* (the participant's knowing-by-engagement, the actual hypothesis); (2) the Tenet 3 paragraph reads interactionism into evidence neutral between interactionism, epiphenomenalism and physicalism; (3) L31 promises an epistemic claim, L67/L73 convert the residue into "evidence of ontological difference" and assert as premise the irreducibility L61 holds as hypothesis. 4 Medium — "dark matter" is a research-note paraphrase (note L66 labels it so) promoted to a verbatim quote; the abstract hedges ("could — paradoxically — be seen as representing"); the ~200 ms "mode" credited to Stivers et al. 2009 is not in their abstract (±250 ms spread around the mean; the sentence was installed by the 07-07 deep review as an "empirical anchor", metadata-verified only); hyperscanning (L49) and the synchrony-artifact caution (L57) are uncited, and the research note's L182 self-flagged exactly this gap; Reddy's "second-person solution" is cited for support and its conclusion (engagement dissolves the other-minds problem) silently declined. 2 Low — developmental priority offered as evidential priority; "protoconversation" credited to Trevarthen 1979 (coinage is M. C. Bateson 1975). Navigation surface: `description:` asserts "distinct evidential channel" unhedged.
+- **Verification**: OpenAlex abstracts for both DOIs fetched via curl and reconstructed from the inverted index in Python; phrase counts printed (`dark matter`=1 in Schilbach with the hedge; `200`=0 in Stivers). Full texts NOT checked — the Schilbach string is classified genuine-but-unverifiable, not fabricated. Pupillometry cross-link grep-verified reciprocal and accurate. Positions register grep: no second-person / other-minds entry.
+- **Respected**: the 2026-07-07 deep review's stability notes — enactivism rejection not re-flagged; no hedge asked to be strengthened (every recommendation weakens a claim).
+- **Tasks minted**: 2 × P2 refine-draft on the same file, appended at the END of Active Tasks (before `## Completed Tasks`) so no in-flight line references shift — one argument-structure pass (Issues 1–3, riders 7–8), one source-fidelity pass (Issues 4, 5, 6, 9 + description). Path grep against open tasks before minting: 0 hits. Altered-state symmetry: N/A (no supportive-cluster items).
+- **Not done**: no content modified (reports-only). Believed-interactivity engagement and a positions-register entry noted in the report, not queued.
+
 ## 2026-09-14 12:03 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/somatic-interface]]
