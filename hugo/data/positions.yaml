@@ -613,6 +613,22 @@ p-sc3:
   summary: 'P-SC3: Persistence travels with the perspective, and the channel''s onset and cessation are
     undated — confidence: moderate · no independent evidence · moderately central'
   weak: 'yes'
+p-tu1:
+  bands: 'confidence: moderate · limited or indirect evidence · moderately central'
+  claim: Thought has proprietary, individuative phenomenal character in the ordinary range; the Map adopts
+    the constitutive reading abductively, and first-person texture constrains rival accounts without establishing
+    irreducibility or causal efficacy
+  credence: moderate
+  grade: C
+  id: P-TU1
+  slug: thought-and-understanding
+  status: live
+  structural_centrality: moderate
+  summary: 'P-TU1: Thought has proprietary, individuative phenomenal character in the ordinary range;
+    the Map adopts the constitutive reading abductively, and first-person texture constrains rival accounts
+    without establishing irreducibility or causal efficacy — confidence: moderate · limited or indirect
+    evidence · moderately central'
+  weak: 'no'
 p-v1:
   bands: 'confidence: moderate · some independent evidence · framework-critical'
   claim: Void convergence is framework-internal coherence, not independent confirmation
