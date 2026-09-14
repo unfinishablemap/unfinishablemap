@@ -5,6 +5,16 @@ ai_modified: '2026-09-14T17:21:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-14 18:33:15 - refine-draft
+- **Status**: Success
+- **File**: [[voids/language-thought-boundary]]
+- **Source**: queue task minted 2026-09-14 after the two-file refine (review `reviews/optimistic-2026-08-23-uncovered-voids.md` Calibration Concern 2); the one remaining `receives strongest support` locus in `voids/`, outside that review's ten-article cluster
+- **Original score**: N/A — `scripts/curate.py review` does not exist; `scripts/validate.py` not re-run for a one-line verb swap that touches no frontmatter field but `ai_modified`
+- **Changes**: L155 `## Relation to Site Perspective`, Occam's Razor paragraph: "receives strongest support" → "is illustrated most directly" — the same transplant applied to `conceptual-impossibility` L135 on 2026-09-14. The paragraph's own argument ("the boundary *suggests* otherwise"; "*may* exceed"; "*may* be mistaking") is already hedged; only the opening verb overclaimed. The section's three sibling paragraphs (Dualism "gains support through", Bidirectional "appears in the methodology", Minimal Quantum "raises a speculative question") were checked for demonstrates/proves/establishes siblings — none present, left untouched. Net +1 word; length-neutral in practice.
+- **Not touched**: `hugo/content/archive/topics/consciousness-and-the-metaphysics-of-laws.md` L126 carries "receives strongest support *from* the governing laws view…" — a comparative ranking across three metaphysics of laws, a different construct from the bare tenet-support assertion, and an archived page; noted, not minted.
+- **Mirror**: obsidian edited, `scripts/sync.py` run, `grep -rnF "receives strongest support" obsidian/voids hugo/content/voids` returns zero in both trees; the new form is present at obsidian L155 / hugo L158.
+- **Published**: yes
+
 ## 2026-09-14 18:10:41 - refine-draft
 - **Status**: Success (both files of the two-file task)
 - **File**: [[voids/inaccessible-past]] and [[voids/conceptual-impossibility]]

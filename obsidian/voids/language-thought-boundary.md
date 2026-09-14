@@ -3,7 +3,7 @@ title: "The Language-Thought Boundary"
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-09-07T09:34:09+00:00
+ai_modified: 2026-09-14T18:33:15+00:00
 draft: false
 description: "Where thought exceeds language: visual cognition, qualia, and the limits of articulation. What ineffability reveals about consciousness."
 topics:
@@ -152,7 +152,7 @@ The qualia case suggests that ineffability isn't always a deficiency in our lang
 
 The language-thought boundary connects to The Unfinishable Map's [[tenets]] by revealing what cannot be said—and why that matters.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** receives strongest support. If simplicity guided truth, our linguistic tools should suffice for reality's articulation. But the boundary suggests otherwise. Some truths may exceed what any linguistic formulation—simple or complex—can capture. When we dismiss positions as "unclear" or "incoherent," we may be mistaking linguistic limits for logical limits.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is illustrated most directly. If simplicity guided truth, our linguistic tools should suffice for reality's articulation. But the boundary suggests otherwise. Some truths may exceed what any linguistic formulation—simple or complex—can capture. When we dismiss positions as "unclear" or "incoherent," we may be mistaking linguistic limits for logical limits.
 
 **[[tenets#^dualism|Dualism]]** gains support through qualia's ineffability. If consciousness were reducible to physical process, why would describing it be categorically harder than describing other physical processes? The explanatory gap—the difficulty of explaining *why* there is something it is like to see red—may trace to this boundary. Consciousness involves content that cannot enter the public-linguistic domain where physical descriptions live.
 
