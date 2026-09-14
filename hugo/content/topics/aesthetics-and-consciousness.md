@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-08-07 19:25:00+00:00
+ai_modified: 2026-09-14 07:50:09+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -51,8 +51,8 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/QeMrWdiIZ3I
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-16 00:45:48+00:00
-lastmod: 2026-08-07 19:25:00+00:00
+last_deep_review: 2026-09-14 07:50:09+00:00
+lastmod: 2026-09-14 07:50:09+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -146,7 +146,7 @@ The zombie artist thought experiment sharpens the argument, though it inherits t
 
 Evolutionary aesthetics explains *why* certain things are found beautiful (fitness signals) but not *what* beauty is. Natural selection shaped organisms that *experience beauty*—consciousness is doing irreducible work. Mathematical aesthetics identifies beauty with specific ratios and symmetries—Birkhoff's (1933) *aesthetic measure* (order divided by complexity) was the most rigorous attempt—but structure appears in ugly arrangements too, and a purely mathematical universe would contain structure but no aesthetic value. Neuroaesthetics (Zeki, 1999; Ramachandran & Hirstein, 1999) maps the neural correlates of aesthetic response, identifying principles like peak shift and perceptual grouping, but correlating beauty with brain activity does not explain why activity in visual area V4 is *experienced as* beautiful rather than merely processed. Informational aesthetics (Moles, 1966) identifies beauty with optimal information density but mistakes the correlate for the thing—a system calculating information density does not thereby experience beauty.
 
-[Illusionism](/concepts/illusionism/) holds that nothing is *really* beautiful—only neural states that misrepresent themselves. The regress objection applies with particular force: for aesthetic experience to be illusory, something must *seem* beautiful, and that seeming either has phenomenal character (relocating rather than eliminating phenomenal properties) or has none (contradicting the evidence that aesthetic experiences differ qualitatively). Beauty is also functionally creative—it inspires art, guides scientific intuition, motivates philosophical inquiry—an asymmetry with other systematic representational errors that demands explanation. [Contemplative traditions](/concepts/meditation-and-consciousness-modes/) report that beauty intensifies rather than dissolves under sustained investigation, the opposite of what illusionism predicts.
+[Illusionism](/concepts/illusionism/) holds that nothing is *really* beautiful—only neural states that misrepresent themselves. The regress objection applies with particular force: for aesthetic experience to be illusory, something must *seem* beautiful, and that seeming either has phenomenal character (relocating rather than eliminating phenomenal properties) or has none (contradicting the evidence that aesthetic experiences differ qualitatively). Beauty is also functionally creative—it inspires art, guides scientific intuition, motivates philosophical inquiry—an asymmetry with other systematic representational errors that demands explanation. [Contemplative traditions](/apex/contemplative-path/) report that beauty intensifies rather than dissolves under sustained investigation, the opposite of what illusionism predicts.
 
 ## What Would Challenge This View?
 
