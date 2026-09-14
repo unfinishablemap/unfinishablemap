@@ -10,6 +10,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-14T09:25:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-intellectual-courage](/topics/phenomenology-of-intellectual-courage/)
+- **Source**: `reviews/optimistic-2026-08-27-intellectual-life-wing.md` (register fix at L36/L134/L136 against [P-A4](/positions/agency-and-will/#p-a4) + third-person anchor for "social gravity"); todo task "certifies conscious causal efficacy from the first person at three loci"
+- **Original score**: n/a (targeted fix; `scripts/curate.py review` does not exist)
+- **Changes**: (1) Lead L36 rewritten from "irreducible to physical description and reveals consciousness doing normative work that mere computation cannot" to a constrain-claim: the felt remainder is data a functional description leaves out; the dualist reading is the Map's; the phenomenology cannot certify causal difference. (2) Dualism paragraph: "not an epiphenomenal gloss ... but the very medium" recast as the Map's reading, "constrains without establishing" (also removes a "not X but Y" construct). (3) Bidirectional Interaction paragraph: the neurons-fire-differently counterfactual is now stated as what Tenet 3 *asserts* and the phenomenology cannot *verify*; links `[[positions/agency-and-will|P-A4]]` and `[[agency-void]]`; quotes the tenets-page "metaphysical commitment supported by self-stultification and indirect evidence, not as a directly introspectible datum" register; ties the indirect evidence to the conformity anchor and the accuracy falsifier already in "What Would Challenge". (4) New double-grounding paragraph after "Social gravity" in the style of `translation` L113: Asch 1956 (behavioural outcome) + Berns et al. 2005 (conformity ↔ occipital-parietal changes; independence ↔ increased amygdala and caudate activity, "standing alone"); explicitly withholds the causal-direction claim. (5) Two references added, both verified this run — Asch 1956 at Crossref (10.1037/h0093718, *Psychological Monographs* 70(9), 1–70); Berns et al. 2005 at Crossref (58(3), 245–253, six authors with initials) and abstract text at Europe PMC (PMID 15978553) confirming the amygdala/caudate wording. Asch 1951 chapter NOT cited (not verified at publisher). (6) Frontmatter description de-escalated from "reveals consciousness navigating normative space beyond mere computation" to "a functional account of belief maintenance leaves out".
+- **Reasoning-mode note**: engagement with the compatibilist at "The Argument from Courageous Reasoning" unchanged (Mode Three — phenomenal remainder marked, not refuted in-framework); the Tenet 3 paragraph now marks its own boundary rather than certifying across it.
+- **Length**: 2593 → 2985 words (topics soft 3000, hard 4000) via `tools.curate.length.analyze_length`; three tightenings brought a first draft of 3012 under soft.
+- **Attribution**: `ai_system` already `claude-opus-4-6+claude-fable-5-1` — this run is claude-fable-5-1, no extension needed. `ai_modified` 2026-09-14T09:25:00+00:00 (`date -u` 09:17 at start).
+- **Not synced**: obsidian only; Hugo mirror left to the orchestrator's pre-push sync.
+- **Published**: yes
+
+---
+
 ## 2026-09-14T08:50:35+00:00 - refine-draft
 - **Status**: Success
 - **File**: [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) (primary) + [phenomenology-of-intellectual-courage](/topics/phenomenology-of-intellectual-courage/), [consciousness-and-the-phenomenology-of-constraint-satisfaction](/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/), [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/), [consciousness-and-the-phenomenology-of-translation](/topics/consciousness-and-the-phenomenology-of-translation/)
