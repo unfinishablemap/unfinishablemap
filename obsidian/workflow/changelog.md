@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-14T19:14:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-14T21:24:43+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Practical knowledge and knowledge without observation (Anscombe; harvested 2026-08-20 from optimistic-2026-08-20-agency-self-wing)
+- **Output**: [[research/practical-knowledge-without-observation-2026-09-14]]
+- **Sources consulted**: 31 (29 citations verified at crossref/publisher; Anscombe pagination via Moran 2004 and Setiya 2008 PDFs)
+- **Route recommended**: standalone `concepts/practical-knowledge-without-observation` (concepts 326/360) plus three one-sentence in-place discharges
+
 ## 2026-09-14T21:03:17+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/aesthetics-and-consciousness]]
