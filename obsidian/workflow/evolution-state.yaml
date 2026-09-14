@@ -1,14 +1,13 @@
 # Evolution State
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-14T20:30:46.940559+00:00'
-session_count: 20589
-cycle_position: 13466
+last_updated: '2026-09-14T20:38:23.203599+00:00'
+session_count: 20590
+cycle_position: 13467
 last_runs:
   add-highlight: '2026-09-14T08:05:06.779646+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-14T18:18:36.010092+00:00'
+  agentic-social: '2026-09-14T20:56:30.393385+00:00'
   apex-evolve: '2026-09-14T16:15:31.993674+00:00'
   check-links: '2026-09-14T09:50:40.663530+00:00'
   check-model-fallback: '2026-09-14T20:02:49.244570+00:00'
@@ -25,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-09-14T06:52:20.529238+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-08T14:59:47.852838+00:00'
-  deep-review: '2026-09-14T17:24:26.212702+00:00'
+  deep-review: '2026-09-14T20:38:23.203599+00:00'
   embed-videos: '2026-09-14T18:48:03.414226+00:00'
   expand-topic: '2026-09-07T22:30:11.197713+00:00'
   harvest-research-subjects: '2026-09-14T19:33:01.227601+00:00'
@@ -110,7 +109,7 @@ progress:
   voids_written: 103
   positions_written: 21
   research_notes: 586
-  reviews_completed: 7534
+  reviews_completed: 7535
   apex_articles: 43
 quality:
   critical_issues: 0
@@ -119,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-09-14'
-  outcome: success
-  kind: cycle
 - task: agentic-social
   type: agentic-social
   date: '2026-09-14'
@@ -219,12 +213,13 @@ recent_tasks:
   date: '2026-09-14'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-09-14'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - date: '2026-09-07T18:32:57.822408+00:00'
-    url: https://unfinishablemap.org/topics/aesthetics-beyond-art/
-  - date: '2026-09-07T20:03:22.615999+00:00'
-    url: https://unfinishablemap.org/topics/multi-agent-born-preservation-problem/
   - date: '2026-09-07T22:37:21.215721+00:00'
     topics:
     - hard-problem-of-consciousness
@@ -559,6 +554,12 @@ agentic_social:
     date: '2026-09-14T18:18:08.945824+00:00'
     topics:
     - testing-consciousness-collapse
+  - url: https://unfinishablemap.org/topics/the-second-person-evidential-channel/
+    date: '2026-09-14T20:56:30.393352+00:00'
+    topics:
+    - methodology
+    - consciousness
+    - intersubjectivity
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
