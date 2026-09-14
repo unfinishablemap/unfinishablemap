@@ -4,7 +4,7 @@ description: "Can consciousness exist outside time? Husserl's absolute flow, med
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-07-29T12:15:54+00:00
+ai_modified: 2026-09-14T09:32:46.760744+00:00
 draft: false
 last_deep_review: 2026-07-18T05:05:10+00:00
 topics:
@@ -41,11 +41,22 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-10
 last_curated:
+embedded_videos:
+  - id: Gvcws4Cz6Xw
+    url: https://www.youtube-nocookie.com/embed/Gvcws4Cz6Xw
+    embedded: 2026-09-14T09:32:46.760744+00:00
+    source: notebooklm/0132-01-non-temporal-consciousness
 ---
 
 Consciousness may not be fundamentally temporal. The Map's treatment of [[temporal-consciousness-structure-and-agency|temporal structure]] argues that temporal organisation is constitutive of conscious experience. But a prior question lurks beneath: does consciousness exist *in* time, or does it constitute time from a position outside it? If the deepest level of consciousness is non-temporal — if time is something consciousness produces rather than inhabits — then a category-mismatch argument for the irreducibility of mind to matter becomes available, conditional on that contested premise. Physical processes are inherently temporal; a non-temporal consciousness would be categorically different from anything physics describes. Whether it is non-temporal in the required sense is what the rest of the article assesses rather than assumes.
 
 "Non-temporal" carries two meanings here. Husserl's absolute flow is *metaphysically* non-temporal — it does not exist within the temporal order. Meditative timelessness is *phenomenologically* atemporal — experience lacks temporal markers while the meditator's brain continues operating in time. They converge: if the deepest level of consciousness is metaphysically non-temporal, accessing it should strip away phenomenal temporal structure. The metaphysical thesis offers one Map-compatible explanation of the phenomenological finding; representational and neurophenomenological explanations remain live.
+
+<details class="yt-embed" data-video-id="Gvcws4Cz6Xw">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/Gvcws4Cz6Xw">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Scope: Which Level the Claim Ranges Over [Open]
 
