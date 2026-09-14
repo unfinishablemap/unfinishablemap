@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-14T16:15:31.993674+00:00'
-session_count: 20573
-cycle_position: 13456
+last_updated: '2026-09-14T16:20:30.864534+00:00'
+session_count: 20574
+cycle_position: 13457
 last_runs:
   add-highlight: '2026-09-14T08:05:06.779646+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -13,7 +13,7 @@ last_runs:
   check-links: '2026-09-14T09:50:40.663530+00:00'
   check-model-fallback: '2026-09-14T15:47:47.041592+00:00'
   check-tenets: '2026-09-11T02:30:00.667793+00:00'
-  coalesce: '2026-09-11T22:10:24.496905+00:00'
+  coalesce: '2026-09-14T16:20:30.864534+00:00'
   collect-chatgpt-review: '2026-09-11T04:46:04.417244+00:00'
   collect-claude-review: '2026-09-11T05:01:11.325035+00:00'
   collect-gemini-review: '2026-09-11T05:17:20.486191+00:00'
@@ -119,11 +119,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-09-14'
-  outcome: success
-  kind: agentic_social
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-09-14'
@@ -219,6 +214,11 @@ recent_tasks:
   date: '2026-09-14'
   outcome: success
   kind: queue
+- task: coalesce
+  type: coalesce
+  date: '2026-09-14'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - date: '2026-09-07T16:33:26.693430+00:00'
