@@ -29,6 +29,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 A dubbed syllable heard as a third sound. Some people fall for it on every trial, some never, and the split holds for a year (r = 0.91). Nothing in experience marks which perceiver you are: the weights that fuse your senses are spent making the percept.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2099408941289472054  
 **Link**: [fusion-void](/voids/fusion-void/)
 
 ---
