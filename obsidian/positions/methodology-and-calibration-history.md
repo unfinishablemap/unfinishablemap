@@ -4,8 +4,9 @@ description: "Relocated calibration audit trail for the methodology-and-calibrat
 created: 2026-08-03
 modified: 2026-09-05
 human_modified:
-ai_modified: 2026-09-05T17:25:54+00:00
+ai_modified: 2026-09-14T23:19:48+00:00
 draft: false
+# topics: intentionally empty — relocated calibration audit trail holding no positions, not an article; topics live on the parent register positions/methodology-and-calibration
 topics: []
 concepts:
   - "[[evidential-status-discipline]]"

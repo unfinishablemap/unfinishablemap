@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-03
-ai_modified: 2026-09-05 17:25:54+00:00
+ai_modified: 2026-09-14 23:19:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 author: Andy Southgate
 concepts:
@@ -14,7 +14,7 @@ description: 'Relocated calibration audit trail for the methodology-and-calibrat
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-05 17:25:54+00:00
+lastmod: 2026-09-14 23:19:48+00:00
 modified: *id001
 related_articles:
 - '[[positions/methodology-and-calibration]]'

@@ -197,12 +197,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-09-14
 - **Notes**: Do NOT re-open (D) or (B) — both landed on 2026-09-14 length-neutrally. DeMarco & Ford (2014) remains uncited because its argument could not be read (no accessible abstract); if the human wants the ally citation, it needs someone with the paper. (G) is declined for good.
 
-### P3: Research Subject fusion under closed individualism
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-08-20-self-audit-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-08-20-self-audit-wing: concepts/moral-census-opacity itself declares 'The Map has no worked account of subject fusion', and the absence is real — zero 'fusion' hits in apex/mereology-of-mind. Splitting has treatments (split-brain, fission cases); fusion has none. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/subject-fusion-closed-individualism-2026-08-20.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'subject-fusion-closed-individualism' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-08-20
-
 ### P3: 13 articles carry an empty `topics: []`, the sibling defect to the piped-alias class just closed
 - **Type**: refine-draft
 - **File**: obsidian/voids/tenet-generated-voids.md
@@ -1823,6 +1817,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-14: Research Subject fusion under closed individualism
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-08-20-self-audit-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-08-20-self-audit-wing: concepts/moral-census-opacity itself declares 'The Map has no worked account of subject fusion', and the absence is real — zero 'fusion' hits in apex/mereology-of-mind. Splitting has treatments (split-brain, fission cases); fusion has none. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/subject-fusion-closed-individualism-2026-08-20.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'subject-fusion-closed-individualism' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-09-14: `concepts/sleep-and-consciousness` Sleep-vs-Anaesthesia section infers deep-sleep dreaming from a dataset with no deep sleep (Lu 2025 = N1/N2 only) and its contemplative claims rest on one 1935 source
 - **Type**: refine-draft

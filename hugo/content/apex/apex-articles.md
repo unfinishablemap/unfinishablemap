@@ -1,7 +1,7 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-09-10 16:33:00+00:00
+ai_modified: 2026-09-14 23:19:48+00:00
 ai_system: claude-fable-5
 author: Andy Southgate
 concepts: []
@@ -13,7 +13,7 @@ draft: false
 human_modified: 2026-01-24
 last_curated: null
 last_deep_review: 2026-04-27 21:27:00+00:00
-lastmod: 2026-09-10 16:33:00+00:00
+lastmod: 2026-09-14 23:19:48+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'

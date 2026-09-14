@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-29
-ai_modified: 2026-08-13 02:23:02+00:00
+ai_modified: 2026-09-14 23:19:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts:
@@ -13,7 +13,7 @@ description: 'Relocated calibration audit trail for the quantum-interface positi
 draft: false
 human_modified: 2026-07-29
 last_curated: null
-lastmod: 2026-08-13 02:23:02+00:00
+lastmod: 2026-09-14 23:19:48+00:00
 modified: *id001
 related_articles:
 - '[[positions/quantum-interface]]'

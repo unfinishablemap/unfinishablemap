@@ -4,8 +4,9 @@ description: "Split-out calibration audit trail for P-VS2, the value-in-selectio
 created: 2026-09-14
 modified: 2026-09-14
 human_modified: null
-ai_modified: 2026-09-14T08:36:00+00:00
+ai_modified: 2026-09-14T23:19:48+00:00
 draft: false
+# topics: intentionally empty — split-out calibration audit trail for one entry, holding no positions, not an article; topics live on the parent register positions/value-in-selection
 topics: []
 concepts:
   - "[[evidential-status-discipline]]"

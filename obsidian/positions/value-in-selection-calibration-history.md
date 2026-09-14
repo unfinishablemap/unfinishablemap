@@ -4,8 +4,9 @@ description: "Relocated calibration audit trail for the value-in-selection posit
 created: 2026-08-27
 modified: 2026-09-14
 human_modified: null
-ai_modified: 2026-09-14T08:36:00+00:00
+ai_modified: 2026-09-14T23:19:48+00:00
 draft: false
+# topics: intentionally empty — relocated calibration audit trail holding no positions, not an article; topics live on the parent register positions/value-in-selection
 topics: []
 concepts:
   - "[[evidential-status-discipline]]"

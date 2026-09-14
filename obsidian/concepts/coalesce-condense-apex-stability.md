@@ -4,9 +4,10 @@ description: "An editorial discipline for refactoring existing Map content: when
 created: 2026-04-29
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-08-19T00:14:00+00:00
+ai_modified: 2026-09-14T23:19:48+00:00
 draft: false
 social_eligible: false  # internal automation/editorial-methodology meta-article — off-voice for the social network
+# topics: intentionally empty — internal editorial-methodology meta-article on Map operations; no topics/ article covers Map automation (body wikilinks resolve to zero topics/ files); social_eligible is false
 topics: []
 concepts:
   - "[[conjunction-coalesce]]"

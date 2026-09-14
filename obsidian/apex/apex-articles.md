@@ -4,10 +4,11 @@ description: "Curated index of the Map's apex articles—synthesis pieces integr
 created: 2026-01-24
 modified: 2026-05-25
 human_modified: 2026-01-24
-ai_modified: 2026-09-10T16:33:00+00:00
+ai_modified: 2026-09-14T23:19:48+00:00
 last_deep_review: 2026-04-27T21:27:00+00:00
 draft: false
 social_eligible: false  # section index, not an article — off-voice for the social network
+# topics: intentionally empty — section index of approved apex subjects, not an article; social_eligible is false
 topics: []
 concepts: []
 related_articles:
