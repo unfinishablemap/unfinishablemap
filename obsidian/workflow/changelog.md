@@ -4,6 +4,17 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-14T08:36:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-14T11:06:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-intellectual-courage]]
+- **Word count**: 2985 → 2997 (+12; length-neutral: 2 trims paid for 4 precision edits)
+- **Critical issues addressed**: 1 (fourth unhedged first-person-efficacy locus in "The Argument from Courageous Reasoning" — string-sibling the 09-14 three-locus P-A4 fix left standing; scoped to "on the Map's reading" with the P-A4 limit)
+- **Medium issues addressed**: 3 (L128 "both functionally characterised as persistent belief maintenance" contradicted L94's granted functional difference; L74 bare "It is an exercise of agent-causation" calibrated; L50 Berns 2005 "emotional salience" was a blend of the authors' "behavioral saliency" + "emotional processes" — aligned to the abstract)
+- **Enhancements made**: 2 redundancy trims
+- **Citations**: Asch 1956 and Berns et al. 2005 (both added today) web-verified real-correct at Crossref/Europe PMC; six others unchanged since the 06-25 ledger
+- **Engagement modes**: compatibilist reasons-responsiveness — Mode Three (remainder marked, no in-framework refutation claimed); epiphenomenalist reading of felt effort — Mode Three via P-A4
+- **Output**: [[reviews/deep-review-2026-09-14-phenomenology-of-intellectual-courage]]
+
 
 ## 2026-09-14 10:51 UTC - refine-draft
 - **Status**: Success
