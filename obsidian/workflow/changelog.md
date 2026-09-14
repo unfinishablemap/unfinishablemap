@@ -4,6 +4,12 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-14T19:14:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-14T20:45:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: New dispositionalism about the ability to do otherwise (Vihvelin, Fara; harvested 2026-08-22 from optimistic-2026-08-22-rival-route-wing)
+- **Output**: [[research/new-dispositionalism-ability-to-do-otherwise-2026-09-14]]
+- **Sources consulted**: 35 (every journal item Crossref-resolved by DOI; Fara 2008 and Whittle 2010 read in full; Vihvelin 2013 chapter list from Crossref; NDPR and SEP read). Corpus re-measured: concepts 326/360 (cap blocker in the harvest note is stale), 3 live articles + 2 research notes mention Vihvelin, a 4th natural host (`frankfurt-cases-and-the-principle-of-alternate-possibilities`) mentions him nowhere. Route judgement recorded: build `concepts/new-dispositionalism`; apply the three non-hub inserts regardless. Todo task left for cycle_post.
+
 ## 2026-09-14T19:49:29+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/spontaneous-collapse-theories]]
