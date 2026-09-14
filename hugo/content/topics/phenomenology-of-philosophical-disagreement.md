@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-09-14 10:50:11+00:00
+ai_modified: 2026-09-14T15:25:36+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: What does it feel like to disagree philosophically? Human+AI explor
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-26 12:52:52+00:00
+last_deep_review: 2026-09-14T15:25:36+00:00
 lastmod: 2026-09-14 10:50:11+00:00
 modified: *id001
 related_articles:
@@ -57,7 +57,7 @@ These features distinguish philosophical disagreement from mere difference of op
 
 ## Why Philosophical Disagreement Persists
 
-The persistence of philosophical disagreement across millennia is itself philosophically significant. Empirical disputes resolve. Mathematical disagreements, once the proof is found, resolve. Philosophical disagreements about consciousness, free will, and the nature of reality persist despite millennia of argument by brilliant thinkers on all sides.
+The persistence of philosophical disagreement across millennia is itself philosophically significant. Empirical disputes resolve. Mathematical disagreements, once the proof is found, resolve. Philosophical disagreements about consciousness, free will, and the nature of reality persist despite millennia of argument.
 
 The standard explanations are unsatisfying:
 
@@ -79,15 +79,15 @@ Three characteristic experiences stand out:
 
 **The credibility puzzle.** Encountering a philosophically sophisticated opponent creates a distinctive tension. You cannot dismiss their competence — they have read the same material, considered the same arguments, and reasoned carefully. Yet their conclusion strikes you as profoundly mistaken. The tension between respecting their reasoning and finding their conclusion incredible has its own felt quality: a kind of cognitive friction that resists resolution. The [phenomenology of intellectual courage](/topics/phenomenology-of-intellectual-courage/) examines the related but distinct experience of *maintaining* one's position through this friction — the sustained effort of holding a conviction that competent peers reject.
 
-**The mirror discomfort.** Your opponent's confidence mirrors your own. They find your position as puzzling as you find theirs. This symmetry generates a specific discomfort — the awareness that you look to them exactly as they look to you. The peer disagreement literature has explored this rationally, asking whether the existence of epistemic peers should reduce your confidence — a question on which it splits, as the next section describes. The phenomenology adds a dimension the rational analysis misses: the felt unsettlement of recognising yourself in your opponent's bafflement.
+**The mirror discomfort.** Your opponent's confidence mirrors your own. They find your position as puzzling as you find theirs. This symmetry generates a specific discomfort — the awareness that you look to them exactly as they look to you. The peer disagreement literature has asked whether the existence of epistemic peers should reduce your confidence — a question on which it splits, as the next section describes. The phenomenology adds a dimension the rational analysis misses: the felt unsettlement of recognising yourself in your opponent's bafflement.
 
 **The convergence fantasy.** Sustained philosophical disagreement often produces imagined scenarios of convergence — "if only they could see this one thing clearly, they would come around." This fantasy has phenomenal character: a reaching toward the other mind, a projecting of one's own felt evidence into their framework. The fantasy fails because the "one thing" that would resolve the disagreement is not a fact but a way of experiencing — and ways of experiencing cannot be transferred through argument alone.
 
 ## The Snap Before the Conciliationist
 
-Described in third-person terms, the rubber-band snap is a report that credence did not move. A competent peer holds the opposing view, and after a genuine attempt to occupy it, attention returns home with relief. The epistemology of disagreement has a verdict on this. Conciliationists hold that a peer's disagreement is itself evidence that you may have erred, and that the rational response is to move your credence substantially toward theirs. Feldman (2006) argues that in the paradigm cases the only reasonable attitude is suspension of judgement; Elga (2007) defends an Equal Weight View on which a peer's assessment deserves the same weight as your own; Christensen (2007) argues that a peer's disagreement should reduce your confidence even when you can find no flaw in your own reasoning, because the disagreement is evidence about that reasoning's reliability. Kelly (2005) resists: the first-order evidence and arguments retain their force after the disagreement is discovered, and rationality does not require that a peer's bare opinion swamp them. Kelly (2010) later moderates this into the Total Evidence View: the disagreement counts as evidence but does not automatically override the evidence one started with.
+In third-person terms, the rubber-band snap reports that credence did not move: a competent peer holds the opposing view, and after a genuine attempt to occupy it, attention returns home with relief. The epistemology of disagreement has a verdict on this. Conciliationists hold that a peer's disagreement is evidence that you may have erred, and that the rational response is to move your credence substantially toward theirs. Feldman (2006) argues that in the paradigm cases the only reasonable attitude is suspension of judgement; Elga (2007) defends an Equal Weight View on which a peer's assessment deserves the same weight as your own; Christensen (2007) argues that a peer's disagreement should reduce your confidence even when you find no flaw in your own reasoning, because the disagreement is evidence about that reasoning's reliability. Kelly (2005) resists: the first-order evidence retains its force after the disagreement is discovered, and a peer's bare opinion need not swamp it; Kelly (2010) moderates this into the Total Evidence View, which weighs the disagreement alongside the first-order evidence rather than over it.
 
-Put to this literature, the snap admits two readings. On the conciliationist reading it is the felt form of the irrationality conciliationism diagnoses: attention returning to one's own position with a sense of homecoming is what dogmatism feels like from the inside, and the relief is the relief of not having updated. On the steadfast reading the snap is data the conciliationist must explain — a reproducible phenomenal event tracking the continuing grip of the first-order evidence rather than a failure to weigh the peer's opinion. The Map cannot simply help itself to the second reading. Its concession in the Relation to Site Perspective section — that its own commitments produce the felt conviction that dualism is correct — grants that the snap, in its own case, may be framework-generated, which is exactly what the conciliationist predicts. What the phenomenology adds is a constraint rather than a refutation. The Equal Weight View must either treat the snap as noise, which sits badly with its regularity and with its absence in cases of merely unexamined difference, or explain why rational peers who have each moved toward the other should still find each other's positions phenomenally uninhabitable. On the conciliationist picture, philosophical disagreement should not persist among rational peers, which makes the phenomenology described here a test case for that picture and not only an illustration of the Map's own.
+Put to this literature, the snap admits two readings. On the conciliationist reading it is the felt form of the irrationality conciliationism diagnoses: the homecoming is what dogmatism feels like from the inside, and the relief is the relief of not having updated. On the steadfast reading the snap is data the conciliationist must explain — a reproducible phenomenal event tracking the continuing grip of the first-order evidence. The Map cannot simply help itself to the second reading. Its concession in the Relation to Site Perspective section, that its own commitments produce the felt conviction that dualism is correct, grants that its own snap may be framework-generated — exactly what the conciliationist predicts. Nor can it press the counter that conciliationism predicts philosophical disagreement should not persist among rational peers, because Elga (2007) has met it. To the charge that the Equal Weight View demands "spinelessness", he replies that in real-world disputes one rarely counts a dissenting associate as a peer, however competent, because one's reasoning about the disputed claim is tangled with one's reasoning about allied claims on which the associate has, by one's own lights, gone wrong. Dualist and materialist are his case: each finds the other wrong across a cluster of allied questions, so neither counts the other as a peer in the view's sense, and the disagreement persists without breaching it. The incomprehension and failed inhabitation are what that withdrawal of peerhood feels like from the inside. What they press on is the view's independence requirement — whether grounds for discounting an opponent that a framework itself generates are independent of the disagreement — a question put to conciliationism, not a verdict against it.
 
 ## Disagreement as Evidence
 
@@ -95,7 +95,7 @@ The [phenomenology of evidence assessment](/topics/phenomenology-of-intellectual
 
 When a dualist points to the explanatory gap and the materialist responds that the gap is merely epistemic (reflecting our current ignorance rather than an ontological divide), the disagreement is not about a shared body of evidence. It is about what constitutes evidence in the first place. The felt quality of the explanatory gap — the sense that physical description leaves something out — is itself evidential for the dualist. For the materialist, this felt quality is a misleading intuition to be explained away.
 
-This meta-level disagreement has distinctive phenomenal character: the vertigo of discovering that one's epistemic foundations are not shared. The experience resembles what the [belief revision](/topics/phenomenology-of-intellectual-life/) article describes as epistemic vertigo — but here the vertigo is chronic rather than transitional. In belief revision, vertigo resolves into a new framework. In philosophical disagreement about consciousness, the vertigo can persist indefinitely because the frameworks themselves are what is at stake.
+This meta-level disagreement has distinctive phenomenal character: the vertigo of discovering that one's epistemic foundations are not shared. The experience resembles what the [belief revision](/topics/phenomenology-of-intellectual-life/#belief-revision) article describes as epistemic vertigo — but here the vertigo is chronic rather than transitional: in belief revision it resolves into a new framework, whereas in disagreement about consciousness it can persist indefinitely because the frameworks themselves are at stake.
 
 ## What Disagreement Reveals About Consciousness
 
@@ -120,7 +120,6 @@ The Map's [Occam's Razor tenet](/tenets/#occams-limits) is also relevant. The ma
 ## Further Reading
 
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — The phenomenal character of comprehension and insight
-- [phenomenology of epistemic cognition](/topics/phenomenology-of-intellectual-life/) — What it feels like to change your mind
 - [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — What genuine understanding of another person requires
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/) — The phenomenology of accepting or resisting another's claims
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why the dualist framework has distinctive strengths
