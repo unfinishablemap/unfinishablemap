@@ -4,7 +4,7 @@ description: "Consciousness operates in gradations during sleep. Memory consolid
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-09-14T21:48:04+00:00
+ai_modified: 2026-09-14T22:21:24+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,7 +43,7 @@ Sleep reveals that consciousness operates in gradations, not as a binary switch.
 
 ## The Evolutionary Puzzle
 
-Sleep's enormous fitness cost—vulnerability to predators, inability to feed or mate—demands enormous benefits. Three functions dominate: memory consolidation (hippocampal-to-cortical transfer), synaptic homeostasis (downscaling synaptic weights for the next day's learning), and metabolic clearance (glymphatic waste removal). All three require the brain to operate *offline*, and all occur in states with reduced or absent report of experience—a fact about brain state, not yet about experience.
+Sleep's enormous fitness cost—vulnerability to predators, inability to feed or mate—demands enormous benefits. Three functions dominate: memory consolidation (hippocampal-to-cortical transfer), synaptic homeostasis (downscaling synaptic weights for the next day's learning; Tononi & Cirelli 2014), and metabolic clearance (glymphatic waste removal). All three require the brain to operate *offline*, and all occur in states with reduced or absent report of experience—a fact about brain state, not yet about experience.
 
 ## Why the Serial Channel Withdraws
 
@@ -55,7 +55,7 @@ The traditional dichotomy—awake means conscious, asleep means unconscious—is
 
 ### The Posterior Hot Zone
 
-High-density EEG studies reveal that [[dream-consciousness|dreaming]] during NREM correlates with reduced slow-wave activity in posterior cortical regions—the posterior "hot zone" whose role in waking conscious content COGITATE's (2025) adversarial test supported, finding posterior cortex a better predictor of conscious percepts than prefrontal areas. Two people in identical NREM Stage 3 may differ radically in consciousness depending on posterior hot zone activity.
+High-density EEG (Siclari et al. 2017) shows that [[dream-consciousness|dreaming]] during NREM correlates with reduced slow-wave activity in posterior cortical regions—the posterior "hot zone" whose role in waking conscious content COGITATE's (2025) adversarial test supported, finding posterior cortex a better predictor of conscious percepts than prefrontal areas. Two people in identical NREM Stage 3 may differ radically in consciousness depending on posterior hot zone activity.
 
 ### The Consciousness Spectrum in Sleep
 
@@ -72,13 +72,13 @@ The gradient runs from the [[hypnagogic-phenomenology-and-interface-modulation|h
 
 ### Why Slow Waves Disrupt Consciousness
 
-Integrated Information Theory (IIT) offers an explanation. During slow-wave sleep, neurons alternate between "up states" and "down states," fragmenting causal interactions. IIT holds that consciousness requires integrated information—differentiated, unified processing. Slow-wave bistability breaks this integration. TMS confirms: during waking, TMS produces complex responses across cortex; during NREM, responses are simple and stereotyped.
+Integrated Information Theory (IIT) offers an explanation. During slow-wave sleep, neurons alternate between "up states" and "down states," fragmenting causal interactions. IIT holds that consciousness requires integrated information—differentiated, unified processing. Slow-wave bistability breaks this integration. TMS confirms (Massimini et al. 2005): during waking, TMS produces complex responses across cortex; during NREM, responses are simple and stereotyped.
 
 ## Sleep Versus Anesthesia
 
-Sleep and anesthesia differ profoundly in neural dynamics. A 2025 Communications Biology study found that propofol anesthesia produces pulvinar-cortical disconnection, while natural sleep preserves the brain's integration-segregation balance. This may explain why dreaming persists in sleep but not under deep anesthesia.
+Sleep and anesthesia differ in neural dynamics, but the comparison is narrower than it looks. Lu et al. (2025) found that propofol altered pulvinar-cortical connections while transitions into light sleep engaged different thalamic nuclei; their sleep arm sampled only N1 and N2—no N3, no REM—so the study says nothing about deep sleep, and nothing about dreaming.
 
-For [[filter-theory|filter theory]], this distinction matters: sleep partially disengages the consciousness-brain interface while preserving functionality; [[anaesthesia-and-the-consciousness-interface|anesthesia disrupts the interface itself]]. Sleep closes a door; anesthesia breaks the hinges.
+For [[filter-theory|filter theory]], propofol reads as breaking the interface's hinges where sleep merely closes a door. The metaphor is agent-specific: [[anaesthesia-and-the-consciousness-interface#Content Without Access|ketamine anaesthesia]] yields vivid dreams while severing behavioural access, so anaesthesia as a class does not contrast uniformly with sleep.
 
 ## The Binding Problem During Sleep
 
@@ -95,7 +95,7 @@ The [[attention-as-interface|attention-as-interface]] hypothesis proposes consci
 
 ## Memory Consolidation Without Consciousness
 
-Memory consolidation involves coordinated interaction between hippocampal sharp-wave ripples, thalamocortical sleep spindles, and cortical slow oscillations. A 2023 Nature Neuroscience study confirmed their causal role by showing that augmenting hippocampal-prefrontal synchrony enhanced consolidation. None of this is experienced, so far as report can tell—the process is computationally complex but phenomenally silent. This dissociation exemplifies the Map's [[capability-division-problem|capability division problem]]: consolidation is a brain-side capability that proceeds autonomously, while the selectional and phenomenal contributions of consciousness—the [[episodic-memory|mind-side of memory]]—disengage entirely. The full treatment of how [[consciousness-and-memory|consciousness and memory]] interact—encoding's dependence on attention, consolidation's independence from it, and the reconsolidation cycle where waking retrieval reopens memories to conscious influence—develops these themes comprehensively.
+Memory consolidation involves coordinated interaction between hippocampal sharp-wave ripples, thalamocortical sleep spindles, and cortical slow oscillations. A 2023 Nature Neuroscience study confirmed their causal role by showing that augmenting hippocampal-prefrontal synchrony enhanced consolidation. None of this is experienced, so far as report can tell—the process is computationally complex but phenomenally silent. This dissociation exemplifies the Map's [[capability-division-problem|capability division problem]]: consolidation is a brain-side capability that proceeds autonomously, while the selectional and phenomenal contributions of consciousness—the [[episodic-memory|mind-side of memory]]—disengage entirely. [[consciousness-and-memory|Consciousness and memory]] develops these themes: encoding's dependence on attention, consolidation's independence from it, and the reconsolidation cycle in which waking retrieval reopens memories to conscious influence.
 
 If consciousness were identical to neural computation, this would be mysterious. The [[hard-problem-of-consciousness|hard problem]] sharpens: why does some neural computation produce experience while other computation, equally complex, produces nothing? The interface framework answers: consciousness interfaces with the brain through specific mechanisms ([[attention-as-interface|attention]], [[working-memory|working memory]], [[global-workspace-theory|global broadcast]]). When these are offline, computation proceeds without consciousness.
 
@@ -107,9 +107,9 @@ This supports the view that the interface has trainable parameters—the boundar
 
 ## Contemplative Evidence: Sleep Yoga
 
-Tibetan Buddhist "sleep yoga" (*mi-lam*) aims to maintain [[witness-consciousness|witness awareness]] through dreamless sleep. Reports describe: awareness without content (knowing one remains conscious with nothing to be conscious *of*), voluntary disengagement (consciousness stepping back rather than being pushed offline), and transformation upon return (insights unavailable during normal filtered operation).
+Tibetan Buddhist "sleep yoga" (*mi-lam*; Evans-Wentz 1935) aims to maintain [[witness-consciousness|witness awareness]] through dreamless sleep. Reports describe: awareness without content (knowing one remains conscious with nothing to be conscious *of*), voluntary disengagement (consciousness stepping back rather than being pushed offline), and transformation upon return (insights unavailable during normal filtered operation).
 
-These reports remain difficult to verify but are consistent across traditions and align with [[filter-theory|filter theory]]: if the brain constrains rather than produces consciousness, states where the constraint is minimally active should reveal consciousness in a less mediated form.
+These reports remain difficult to verify. Nor are they confined to one tradition: the [[sleep-consciousness-void#The Vedantic Alternative|Advaita analysis]] of *sushupti* posits a witnessing *turiya* through deep sleep, and Alcaraz-Sánchez (2021) elicited comparable "awareness in the void" reports by micro-phenomenological interview—though Thompson (2014, ch. 8) treats "Are we conscious in deep sleep?" as unsettled. They align with [[filter-theory|filter theory]]: if the brain constrains rather than produces consciousness, states where the constraint is minimally active should reveal consciousness in a less mediated form.
 
 ## The Illusionist Challenge
 
@@ -133,7 +133,7 @@ Sleep illuminates each of the Map's [[tenets]]:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The Map proposes consciousness operates through attention-mediated [[decoherence#Discrete Observation Mechanisms|quantum Zeno selection]]. During NREM, this mechanism disengages; REM partially reengages it; lucid REM represents fuller engagement. This makes a testable prediction: lucid dreams should show neural signatures closer to waking attention, which the 2025 findings bear out. That signature is equally predicted by any theory on which metacognition returns during REM, so it is compatible with both interpretations and does not by itself adjudicate between them.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Where is the indexical "I" when consciousness fully withdraws? If consciousness provides [[haecceity|indexical localization]], dreamless sleep may be a state where no selection occurs. Upon waking, you are *this* person who fell asleep. The felt continuity across the sleep gap presupposes a singular "you," consistent with the Map's rejection of many-worlds.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Where is the indexical "I" when consciousness fully withdraws? Felt continuity on waking cannot answer—every Everett successor feels it too—and if consciousness provides [[haecceity|indexical localization]] yet no selection occurred through dreamless sleep, the selection mechanism above faces either hours of unselected branching or selection without consciousness. Sleep is an open problem for the Map's indexical commitments rather than support for them; the [[sleep-consciousness-void#The Lockean Identity Puzzle|sleep consciousness void]] carries the question.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The complexity of sleep defies simple models. "Sleep is unconsciousness" is false. Whether experience is reported depends on local slow-wave distribution, not stage label—a distinction simple models would miss. Contemplative reports of awareness through "unconscious" states suggest evidence third-person methods may not detect.
 
@@ -172,8 +172,8 @@ The Map's interpretation would face difficulty if:
 
 ## References
 
-1. Demirel, Ç. et al. (2025). Electrophysiological correlates of lucid dreaming: Sensor and source level signatures. *Journal of Neuroscience*, 45(20).
-1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
+1. Alcaraz-Sánchez, A. (2021). Awareness in the void: a micro-phenomenological exploration of conscious dreamless sleep. *Phenomenology and the Cognitive Sciences*, 22(4), 867-905. https://doi.org/10.1007/s11097-021-09743-0
+1. Demirel, Ç. et al. (2025). Electrophysiological correlates of lucid dreaming: Sensor and source level signatures. *Journal of Neuroscience*, 45(20), e2237242025.
 1. Evans-Wentz, W. Y. (1935). *Tibetan Yoga and Secret Doctrines*.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
@@ -181,6 +181,7 @@ The Map's interpretation would face difficulty if:
 1. Siclari, F. et al. (2017). The neural correlates of dreaming. *Nature Neuroscience*, 20, 872-878.
 1. Geva-Sagiv, M., Mankin, E. A. et al. (2023). Augmenting hippocampal–prefrontal neuronal synchrony during sleep enhances memory consolidation in humans. *Nature Neuroscience*, 26, 1100-1110.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
+1. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press. Ch. 8, "Sleeping: Are We Conscious in Deep Sleep?"
 1. Tononi, G. & Cirelli, C. (2014). Sleep and the price of plasticity. *Neuron*, 81(1), 12-34.
 1. Massimini, M. et al. (2005). Breakdown of cortical effective connectivity during sleep. *Science*, 309(5744), 2228-2232.
 1. Lu, F. et al. (2025). Differential engagement of thalamic nuclei orchestrates consciousness states across anesthesia, sleep, and disorders of consciousness. *Communications Biology*, 8, 1784.
