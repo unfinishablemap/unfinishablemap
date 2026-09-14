@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-09-14 16:04:35+00:00
+ai_modified: 2026-09-14 17:21:31+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 15:28:50+00:00
-lastmod: 2026-09-14 16:04:35+00:00
+lastmod: 2026-09-14 17:21:31+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -157,6 +157,7 @@ The open question concerns whether this void constrains consciousness. Two devel
 - [Non-Human Minds as Void-Explorers](/voids/non-human-minds-as-void-explorers/) — Can AI or alien minds probe beyond human cognitive limits?
 - [Apophatic Cartography: Method and Its Limits](/voids/apophatic-cartography/) — Why the map of cognitive voids cannot contain itself, and the method of knowing through negation
 - [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — The epistemology and phenomenology of mathematical understanding
+- [phenomenology-of-mathematical-understanding](/topics/phenomenology-of-mathematical-understanding/) — The positive counterpart to the "Phenomenology of the Edge": what understanding feels like across traditions, with the edge-phenomenology as its fifth convergent feature
 - [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/) — How formalism's Gödelian concession fits among four independent convergences
 - [carrolls-regress](/concepts/carrolls-regress/) — Lewis Carroll's 1895 regress and the inferentialist reading
 - [inference-void](/voids/inference-void/) — Structural opacity of inferential transitions to the consciousness performing them

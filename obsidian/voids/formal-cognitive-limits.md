@@ -4,7 +4,7 @@ description: "Mathematics has proved that certain truths are unreachable by any 
 created: 2026-01-27
 modified: 2026-04-26
 human_modified: null
-ai_modified: 2026-09-14T16:04:35+00:00
+ai_modified: 2026-09-14T17:21:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -152,6 +152,7 @@ The open question concerns whether this void constrains consciousness. Two devel
 - [[non-human-minds-as-void-explorers|Non-Human Minds as Void-Explorers]] — Can AI or alien minds probe beyond human cognitive limits?
 - [[apophatic-cartography|Apophatic Cartography: Method and Its Limits]] — Why the map of cognitive voids cannot contain itself, and the method of knowing through negation
 - [[consciousness-and-mathematics]] — The epistemology and phenomenology of mathematical understanding
+- [[phenomenology-of-mathematical-understanding]] — The positive counterpart to the "Phenomenology of the Edge": what understanding feels like across traditions, with the edge-phenomenology as its fifth convergent feature
 - [[concession-convergence-philosophy-of-mathematics]] — How formalism's Gödelian concession fits among four independent convergences
 - [[carrolls-regress]] — Lewis Carroll's 1895 regress and the inferentialist reading
 - [[inference-void]] — Structural opacity of inferential transitions to the consciousness performing them

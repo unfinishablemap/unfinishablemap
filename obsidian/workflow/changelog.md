@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-14T16:33:56+00:00'
+ai_modified: '2026-09-14T17:21:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-14T17:21:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-mathematical-understanding]]
+- **Word count**: 3575 → 3588 (+13; length-neutral mode, topics/ soft_warning unchanged)
+- **Critical issues addressed**: 1 (two quoted Hardy verdicts — "others incorrect as stated", "a fable" — were Alladi's *Inference* paraphrases in quotation marks, absent from Hardy 1940; replaced with Hardy's verbatim "one is false and the other, as stated, misleading" and "hardly asked him a single question of this kind", primary text checked)
+- **Medium issues addressed**: 3 (opening "reporting qualitatively distinct experiential structures" contradicted the no-first-person-reports caveat → "as far as their texts show"; Jain "transfinite numbers" → "orders of infinity"; fifth convergent feature linking `voids/formal-cognitive-limits#Phenomenology of the Edge`, the gap the 2026-08-25 wing review flagged, with reciprocal Further Reading entry in the void)
+- **Enhancements made**: 1 (fifth convergence bullet)
+- **Engagement modes** (editor-internal): complete-confabulation reading — Mode One (Hardy third-party verification meets the opponent's own evidential standard); mechanism residue and physicalist method-variation counter — Mode Three (underdetermined, marked honestly). Unchanged from 07-07.
+- **Output**: [[reviews/deep-review-2026-09-14-phenomenology-of-mathematical-understanding]]
 
 ## 2026-09-14T16:49:39+00:00 - refine-draft
 - **Status**: Deferred (no article edit — length gate)
