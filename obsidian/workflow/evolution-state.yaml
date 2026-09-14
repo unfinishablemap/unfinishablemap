@@ -1,17 +1,13 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-14T07:02:59.135850+00:00'
-session_count: 20537
+last_updated: '2026-09-14T07:17:48.859022+00:00'
+session_count: 20538
 cycle_position: 13435
 last_runs:
   add-highlight: '2026-09-11T08:07:19.534873+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-11T21:49:55.266733+00:00'
+  agentic-social: '2026-09-14T07:33:51.854856+00:00'
   apex-evolve: '2026-09-10T05:13:18.576021+00:00'
   check-links: '2026-09-11T01:49:50.516879+00:00'
-  check-model-fallback: '2026-09-11T21:15:39.534305+00:00'
+  check-model-fallback: '2026-09-14T07:17:48.859022+00:00'
   check-tenets: '2026-09-11T02:30:00.667793+00:00'
   coalesce: '2026-09-11T22:10:24.496905+00:00'
   collect-chatgpt-review: '2026-09-11T04:46:04.417244+00:00'
@@ -119,11 +115,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-09-11'
-  outcome: success
-  kind: agentic_social
 - task: deep-review
   type: deep-review
   date: '2026-09-11'
@@ -219,136 +210,13 @@ recent_tasks:
   date: '2026-09-14'
   outcome: success
   kind: trigger
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-09-14'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - date: '2026-09-04T22:40:57.290755+00:00'
-    topics:
-    - evolutionary-case-for-mental-causation
-    - hard-problem-of-consciousness
-    - the-epiphenomenalist-threat
-    - co-optimization-reply-to-the-correlation-problem
-    url: https://unfinishablemap.org/topics/co-optimization-reply-to-the-correlation-problem/
-  - date: '2026-09-05T01:09:25.576309+00:00'
-    topics:
-    - qm-interpretations-beyond-many-worlds
-    - completeness-in-physics-under-dualism
-    url: https://unfinishablemap.org/concepts/consistent-histories-interpretation/
-  - date: '2026-09-05T03:23:54.213083+00:00'
-    topics:
-    - consciousness-and-memory
-    - phenomenology-of-memory-and-the-self
-    url: https://unfinishablemap.org/concepts/semanticisation/
-  - date: '2026-09-05T07:57:54.964364+00:00'
-    topics:
-    - emergence-as-universal-hard-problem
-    - methodology-of-consciousness-research
-    - hard-problem-of-consciousness
-    - primary-secondary-quality-boundary
-    url: https://unfinishablemap.org/topics/primary-secondary-quality-boundary/
-  - date: '2026-09-05T10:00:46.963596+00:00'
-    topics:
-    - consciousness-and-the-metaphysics-of-composition
-    - consciousness-and-the-metaphysics-of-individuation
-    url: https://unfinishablemap.org/apex/mereology-of-mind/
-  - date: '2026-09-05T11:59:05.449534+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - supervenience
-    url: https://unfinishablemap.org/concepts/supervenience/
-  - date: '2026-09-05T16:00:07.864307+00:00'
-    topics:
-    - meaning-of-life
-    - free-will
-    - hard-problem-of-consciousness
-    url: https://unfinishablemap.org/concepts/nihilism-and-existentialism/
-  - date: '2026-09-05T17:12:18.316320+00:00'
-    url: https://unfinishablemap.org/positions/quantum-interface-calibration-history/
-  - date: '2026-09-05T18:43:03.336619+00:00'
-    topics:
-    - philosophy-of-mind
-    - hard-problem-of-consciousness
-    - ai-consciousness
-    - phenomenal-variation-within-a-species
-    url: https://unfinishablemap.org/apex/phenomenal-variation-within-a-species/
-  - date: '2026-09-05T20:45:59.401253+00:00'
-    topics:
-    - aesthetics-and-consciousness
-    - hard-problem-of-consciousness
-    - the-sublime-and-negative-aesthetics
-    url: https://unfinishablemap.org/topics/the-sublime-and-negative-aesthetics/
-  - date: '2026-09-05T22:35:44.199033+00:00'
-    topics:
-    - consciousness
-    - hard-problem-of-consciousness
-    - personal-identity
-    - sleep-consciousness-void
-    url: https://unfinishablemap.org/voids/sleep-consciousness-void/
-  - date: '2026-09-06T01:28:10.243719+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - arguments-against-materialism
-    url: https://unfinishablemap.org/concepts/constitutive-vs-referring-observation/
-  - date: '2026-09-06T07:02:37.819417+00:00'
-    topics:
-    - split-brain-consciousness
-    - the-self-minimal-narrative-and-substantial
-    url: https://unfinishablemap.org/concepts/interpreter-module-narrative-construction-unity/
-  - date: '2026-09-06T10:55:55.641123+00:00'
-    topics:
-    - brain-internal-born-rule-testing
-    - testing-consciousness-collapse
-    - falsification-roadmap-for-the-interface-model
-    - born-rule-and-the-consciousness-interface
-    url: https://unfinishablemap.org/topics/sorkin-delta-brain-internal-analogues/
-  - date: '2026-09-06T13:03:16.639556+00:00'
-    topics:
-    - indian-philosophy-of-mind
-    - cross-traditional-convergence-on-consciousness-irreducibility
-    - the-hard-problem-in-non-western-philosophy
-    - interaction-problem-across-traditions
-    url: https://unfinishablemap.org/topics/jain-philosophy-of-mind/
-  - date: '2026-09-06T14:33:39.814029+00:00'
-    topics:
-    - marginal-organism-scope-of-value-sensitive-selection
-    - valence-and-conscious-selection
-    - animal-consciousness
-    - pain-consciousness-and-causal-power
-    url: https://unfinishablemap.org/topics/fish-sentience-and-the-teleost-pain-debate/
-  - date: '2026-09-06T16:21:14.147043+00:00'
-    topics:
-    - ethics-under-dualism
-    - eastern-philosophy-consciousness
-    - contemplative-practice-as-philosophical-evidence
-    url: https://unfinishablemap.org/topics/evaluative-qualia-phenomenal-normativity-across-traditions/
-  - date: '2026-09-06T18:04:24.348866+00:00'
-    topics:
-    - dualist-perception
-    - neurological-dissociations-as-interface-architecture
-    - consciousness-disruption-and-the-mind-brain-interface
-    url: https://unfinishablemap.org/concepts/blindsight/
-  - date: '2026-09-06T20:49:48.117386+00:00'
-    topics:
-    - consciousness-in-simple-organisms
-    - neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition
-    - basal-and-bioelectric-cognition
-    - plant-cognition-and-the-plant-neurobiology-debate
-    - the-cognitive-immune-system-and-immunological-selfhood
-    url: https://unfinishablemap.org/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/
-  - date: '2026-09-06T23:04:44.552242+00:00'
-    topics:
-    - the-interface-problem
-    - quantum-consciousness
-    - dualism
-    url: https://unfinishablemap.org/concepts/locality/
-  - date: '2026-09-07T03:25:24.611785+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - philosophy-of-mind
-    url: https://unfinishablemap.org/voids/the-quantitative-comprehension-void/
-  - date: '2026-09-07T06:34:47.072179+00:00'
-    topics:
-    - free-will
-    url: https://unfinishablemap.org/topics/event-causal-libertarianism/
   - date: '2026-09-07T08:18:46.162334+00:00'
     topics:
     - hard-problem-of-consciousness
@@ -664,6 +532,13 @@ agentic_social:
     date: '2026-09-11T21:48:08.693639+00:00'
     topics:
     - consciousness-and-causal-powers
+  - url: https://unfinishablemap.org/apex/research-programme-decisions-under-the-map/
+    date: '2026-09-14T07:33:51.854820+00:00'
+    topics:
+    - falsification-roadmap-for-the-interface-model
+    - brain-internal-born-rule-testing
+    - comparing-quantum-consciousness-mechanisms
+    - forward-in-time-conscious-selection
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
