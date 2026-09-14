@@ -5,6 +5,16 @@ ai_modified: '2026-09-11T22:54:33+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-14T08:18:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/methodological-pluralism]]
+- **Source**: [[reviews/pessimistic-2026-09-11-methodological-pluralism]] Issue 3 (lead's "direct consequence of ontological dualism" outruns the argument)
+- **Original score**: n/a (targeted one-clause fix; `scripts/curate.py` does not exist)
+- **Changes**: L37 entailment split, mirroring `positions/consciousness-scope` P-CS1 (2026-08-03 "a *premise*, not an entailment … adopted on top"). The negative half is kept and defended as entailed — irreducibility means exclusively physical methods "cannot be exhaustive and will systematically miss what matters most; that much is entailed". The positive half — that first- and second-person methods can supply what those methods miss — is now stated as "a premise, not an entailment — a commitment adopted on top of dualism, argued in [[phenomenological-evidence]]". No other argument touched; body was already calibrated (L125 "may reflect", L129 "The Map speculates"). Reviewer's mysterian counterexample kept editor-side, not written into the article.
+- **Length**: 2469 → 2498 words (`analyze_length` body-only; concepts soft 2500 / hard 3500, status `ok`). A first draft at +72 words tripped `soft_warning` and was cut back — the article sits 2 words under soft, so any later addition to this file must be paired with a trim.
+- **Engagement modes**: none new — the edit narrows the Map's own claim; no opponent reply altered.
+- **Published**: yes
+
 ## 2026-09-14T07:50:09+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/aesthetics-and-consciousness]]

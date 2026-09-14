@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-12
-ai_modified: 2026-09-11 19:03:42+00:00
+ai_modified: 2026-09-14 08:18:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-13 16:09:47+00:00
-lastmod: 2026-09-11 19:03:42+00:00
+lastmod: 2026-09-14 08:18:00+00:00
 modified: *id001
 related_articles:
 - '[[objectivity-and-consciousness]]'
@@ -37,7 +37,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Methodological pluralism is the view that consciousness research requires multiple investigative methods working together, because no single methodology can capture the full reality of conscious experience. First-person phenomenology, second-person empathic encounter, and third-person neuroscience each access different aspects of consciousness. The Unfinishable Map endorses methodological pluralism as a direct consequence of [ontological dualism](/concepts/interactionist-dualism/): if phenomenal properties are irreducible to physical properties, then methods designed exclusively for physical investigation will systematically miss what matters most.
+Methodological pluralism is the view that consciousness research requires multiple investigative methods working together, because no single methodology can capture the full reality of conscious experience. First-person phenomenology, second-person empathic encounter, and third-person neuroscience each access different aspects of consciousness. The Unfinishable Map's pluralism rests on [ontological dualism](/concepts/interactionist-dualism/) unequally. If phenomenal properties are irreducible to physical properties, then methods designed exclusively for physical investigation cannot be exhaustive and will systematically miss what matters most; that much is entailed. That first- and second-person methods can supply what they miss is a premise, not an entailment—a commitment adopted on top of dualism, argued in [phenomenological-evidence](/concepts/phenomenological-evidence/).
 
 Methodological pluralism is a substantive philosophical claim, not an ecumenical gesture or diplomatic compromise between rival camps. The methodological divide in consciousness science reflects a genuine ontological divide. Treating any single method as exhaustive—whether [Dennett's third-person-only approach](/concepts/heterophenomenology/) or naive introspectionism—distorts the subject matter by design.
 

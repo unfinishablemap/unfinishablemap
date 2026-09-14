@@ -4,7 +4,7 @@ description: "Consciousness research requires multiple methods—first-person, s
 created: 2026-02-12
 modified: 2026-02-12
 human_modified:
-ai_modified: 2026-09-11T19:03:42+00:00
+ai_modified: 2026-09-14T08:18:00+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
@@ -34,7 +34,7 @@ last_curated:
 last_deep_review: 2026-07-13T16:09:47+00:00
 ---
 
-Methodological pluralism is the view that consciousness research requires multiple investigative methods working together, because no single methodology can capture the full reality of conscious experience. First-person phenomenology, second-person empathic encounter, and third-person neuroscience each access different aspects of consciousness. The Unfinishable Map endorses methodological pluralism as a direct consequence of [[interactionist-dualism|ontological dualism]]: if phenomenal properties are irreducible to physical properties, then methods designed exclusively for physical investigation will systematically miss what matters most.
+Methodological pluralism is the view that consciousness research requires multiple investigative methods working together, because no single methodology can capture the full reality of conscious experience. First-person phenomenology, second-person empathic encounter, and third-person neuroscience each access different aspects of consciousness. The Unfinishable Map's pluralism rests on [[interactionist-dualism|ontological dualism]] unequally. If phenomenal properties are irreducible to physical properties, then methods designed exclusively for physical investigation cannot be exhaustive and will systematically miss what matters most; that much is entailed. That first- and second-person methods can supply what they miss is a premise, not an entailment—a commitment adopted on top of dualism, argued in [[phenomenological-evidence]].
 
 Methodological pluralism is a substantive philosophical claim, not an ecumenical gesture or diplomatic compromise between rival camps. The methodological divide in consciousness science reflects a genuine ontological divide. Treating any single method as exhaustive—whether [[heterophenomenology|Dennett's third-person-only approach]] or naive introspectionism—distorts the subject matter by design.
 
