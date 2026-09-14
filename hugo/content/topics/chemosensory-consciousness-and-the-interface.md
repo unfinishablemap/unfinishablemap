@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-16
-ai_modified: 2026-09-14 22:40:00+00:00
+ai_modified: 2026-09-14 22:36:49+00:00
 ai_system: claude-opus-4-8+claude-fable-5-1
 author: null
 concepts:
@@ -17,8 +17,8 @@ description: 'The chemical senses press the explanatory gap where vision cannot:
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-09-14 22:40:00+00:00
-lastmod: 2026-09-14 22:40:00+00:00
+last_deep_review: 2026-09-14 22:36:49+00:00
+lastmod: 2026-09-14 22:36:49+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'

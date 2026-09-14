@@ -1,14 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-14T21:40:00+00:00'
+ai_modified: '2026-09-14T23:03:58+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-14'
-lastmod: 2026-09-14 21:40:00+00:00
+lastmod: 2026-09-14 23:03:58+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-14T23:03:58+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Subject fusion under closed individualism (harvest 2026-08-20, optimistic-2026-08-20-self-audit-wing; assessed worth covering — gap doubly self-declared in moral-census-opacity L114 and [P-I4](/positions/individuation-and-subjecthood/#p-i4); `voids/fusion-void` (2026-09-04) is perceptual cue fusion, a slug collision not coverage)
+- **Output**: [subject-fusion-closed-individualism-2026-09-14](/research/subject-fusion-closed-individualism-2026-09-14/)
+- **Sources consulted**: 26 (all journal/chapter metadata crossref-verified; Parfit 1971, Cochrane 2021 and Lopez 2025 read in full via `pdftotext`; Hawley 2005 / Kang 2022 abstracts and Nozick's fusion handling unobtainable, flagged in the note)
+- **Route**: standalone `concepts/subject-fusion` recommended (concepts 326/360); in-place discharge not length-neutral (moral-census-opacity 3,495 vs hard 3,500; positions register 3,732 vs hard 2,500); one-paragraph apex discharge + piped reciprocals drafted in the note
 
 ## 2026-09-14T22:40:00+00:00 - deep-review
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "The chemical senses press the explanatory gap where vision cannot:
 created: 2026-06-16
 modified: 2026-06-16
 human_modified:
-ai_modified: 2026-09-14T22:40:00+00:00
+ai_modified: 2026-09-14T22:36:49+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-8+claude-fable-5-1
 ai_generated_date: 2026-06-16
 last_curated:
-last_deep_review: 2026-09-14T22:40:00+00:00
+last_deep_review: 2026-09-14T22:36:49+00:00
 ---
 
 Philosophy of perception is overwhelmingly a philosophy of vision, and where it ventures beyond sight it has tended next to hearing. The chemical senses—smell and taste, integrated in flavour—are the most vision-unlike modalities, and that is exactly what makes them worth developing for the Map's [[mind-matter-interface|interface]] reading. This article is the chemosensory companion to [[auditory-consciousness-and-the-interface|the auditory case]], filling another modality the Map's [[dualist-perception|treatment of perception]] names but does not develop: it concedes that "perception extends across modalities—auditory, tactile, olfactory, gustatory." The chemical senses supply three kinds of evidence neither vision nor audition displays as cleanly: a perceived quality that is not read off the stimulus and has no spatial scaffolding at all (mirror-image molecules smell different; very different molecules can smell alike), a quality space with no smooth dimensional ordering to read off (odour space is high-dimensional, categorical, and best modelled as non-Euclidean), and a privileged, thalamus-bypassing route to memory and affect (the Proust phenomenon). Flavour adds a binding case without spatial layout. None of this, on the reading offered here, *settles* dualism over physicalism, which has a credible account of each. What the chemical senses do is press the [[explanatory-gap|explanatory gap]] in a register vision shaped no theory to expect, and they are where the Map's recurring [[consciousness-as-perceptual-architect|sommelier]] finally finds a modality home.
