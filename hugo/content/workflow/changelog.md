@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-15T09:30:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Subject naturalism and the placement problem as a dissolution of the dualism-materialism contest (Price; harvested from outer-review-synthesis-2026-09-15 cluster 2)
+- **Output**: [subject-naturalism-and-the-placement-problem-2026-09-15](/research/subject-naturalism-and-the-placement-problem-2026-09-15/)
+- **Sources consulted**: 30 cited (5 primary texts read in full: Price 2004, NWM introduction, EPR ch. 2, Beasley 2023, Shapiro 2022; 6 abstract-level; Knowles ×3, Shapiro 2021, Misak metadata-only — publishers blocked)
+- **Key finding**: Price files Chalmers-style dualism as the "expansionist" placement strategy (NWM intro; EPR ch. 2 n. 9) but never applies subject naturalism to phenomenal consciousness (0 hits in the M-worlds paper, the introduction, and both NDPR reviews). Reply line: Tenets 2–3 are e-representational causal claims in the "different, non-semantic vocabulary" Price reserves for science, so they are adjudicated, not dissolved. Target section concepts/ (326/360 measured).
+
 ## 2026-09-15T08:30:00+00:00 - research-voids
 - **Status**: Success
 - **Topic**: The Categorical Perception Void — consciousness receives continua pre-carved (speech, colour, faces, musical intervals, lab-learned textures); the within-category interior is compressed, the provenance of each joint (world-given vs installed) is unreadable from inside, and the continuum survives sub-personally (Toscano et al. 2010: N1 tracks VOT linearly, independent of reported category) but is never the default deliverable

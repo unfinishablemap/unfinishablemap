@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research Subject naturalism and the placement problem as a dissolution of the dualism-materialism contest
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (outer-review-synthesis-2026-09-15.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-synthesis-2026-09-15 cluster 2 (ChatGPT + Claude, 2/3): Huw Price's subject naturalism and global expressivism (Naturalism Without Mirrors 2011; Expressivism, Pragmatism and Representationalism 2013) treat the placement problems for mind, meaning and value as artefacts of representationalism that dissolve once it is dropped, so the Map's dualism-vs-materialism question is, on that view, malformed rather than open. Claude: "the objection that would undercut the framing rather than compete inside it is the one that is missing." The concept page now carries a one-paragraph reply, but "placement problem" and "global expressivism" return 0 across live articles and research notes; Price appears only in retrocausality/time articles. Article-sized: the dissolution objection, Price's own concession that subject naturalism must still explain the practice of consciousness-talk, and the 2020s replies (Knowles, Macarthur, Misak on Peircean realism) that keep the contest live. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/subject-naturalism-and-the-placement-problem-2026-09-15.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'subject-naturalism-and-the-placement-problem' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-09-15
-
 ### P2: `concepts/cognitive-phenomenology` §The Illusionist Challenge cites no 2020s illusionist work — install Kammerer (2022) on the obviousness-of-phenomenality datum the section's abductive case turns on
 - **Type**: refine-draft
 - **File**: obsidian/concepts/cognitive-phenomenology.md
@@ -1948,6 +1942,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-15: Research Subject naturalism and the placement problem as a dissolution of the dualism-materialism contest
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-synthesis-2026-09-15.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-synthesis-2026-09-15 cluster 2 (ChatGPT + Claude, 2/3): Huw Price's subject naturalism and global expressivism (Naturalism Without Mirrors 2011; Expressivism, Pragmatism and Representationalism 2013) treat the placement problems for mind, meaning and value as artefacts of representationalism that dissolve once it is dropped, so the Map's dualism-vs-materialism question is, on that view, malformed rather than open. Claude: "the objection that would undercut the framing rather than compete inside it is the one that is missing." The concept page now carries a one-paragraph reply, but "placement problem" and "global expressivism" return 0 across live articles and research notes; Price appears only in retrocausality/time articles. Article-sized: the dissolution objection, Price's own concession that subject naturalism must still explain the practice of consciousness-talk, and the 2020s replies (Knowles, Macarthur, Misak on Peircean realism) that keep the contest live. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/subject-naturalism-and-the-placement-problem-2026-09-15.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'subject-naturalism-and-the-placement-problem' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-09-15: `project/writing-style` co-optation firewall has no pragmatist on any roster — the Dewey recruitment in `concepts/pragmatism` passed four deep reviews because Dewey, Rorty, Price, Misak and Brandom trigger nothing
 - **Type**: refine-draft
