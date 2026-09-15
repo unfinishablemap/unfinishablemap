@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-14T21:40:00+00:00'
+ai_modified: '2026-09-15T00:45:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: P-MC3's calibration block grades one conjunction (credence high · Grade B) that its own Asserts splits into two claims of different standing — the exclusion diagnostic and the survey claim that no rival has supplied the difference-making point
+- **Type**: positions-evolve
+- **File**: obsidian/positions/arguments-for-mental-causation.md
+- **Status**: pending
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-09-14-chatgpt-5-6-sol-pro.md`
+- **Generated**: 2026-09-15
+- **Notes**: From outer review 2026-09-14 (§5.2, §8 row P-MC3). Verified on disk: L78 is `credence high · external-evidence grade B`; L79 already concedes "The diagnostic is held with more confidence than the escape" and "claims only that no rival *has* supplied the missing difference-making point, not that none could". The prose discloses the mixed profile; the machine-readable block does not, so downstream citations inherit high/B for the survey half. Do one of: (a) split into P-MC3a (exclusion diagnostic — Kim's argument, high/B) and P-MC3b (no rival has supplied the point — a literature-wide survey judgment, moderate/C at most, naming the five rival families the Asserts already lists: non-reductive physicalism, Russellian monism, functionalism, strong emergence, panpsychism); or (b) keep one entry but restate the calibration block per conjunct with a weakest-link line. Cross-check `P-D2` (L44 of this file names it as borrowing the exclusion criterion) and `positions/positions.md` L55 if the discriminability aggregate changes. **Length**: file is 2,899 words vs the 2,500 positions hard ceiling; the convention mandates a dated Updated note, so brief the split between content and history — do not impose neutrality, but reference the rival list rather than re-listing it.
+
+### P2: P-MS1/P-MS2's standing-capacity clause has no criterion for "reversible" and no named bearer — the sleeper and coma verdicts inherit P-I1/P-SC3 without listing them
+- **Type**: positions-evolve
+- **File**: obsidian/positions/moral-status.md
+- **Status**: pending
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-09-14-chatgpt-5-6-sol-pro.md`
+- **Generated**: 2026-09-15
+- **Notes**: From outer review 2026-09-14 (§4.3, §7.2, §8 rows P-MS1/P-MS2). Verified: `grep -iE reversib` across `positions/moral-status`, `concepts/consciousness-value-connection`, `concepts/sentientism`, `topics/the-experience-requirement-on-well-being` and `topics/moral-status-threshold-or-degrees` finds only the *assertion* that irreversible loss removes status (moral-status L61; threshold-or-degrees L83) — nothing says what makes a capacity reversible: not recoverable by present medicine / nomologically impossible under ideal intervention / organismic continuity / a persisting nonphysical subject. Each reading has a different consequence (status that changes with technology; a criterion remote from clinical knowledge; a partly biological account; inheritance of P-I1 and P-SC3). Neither P-MS1 (L51) nor P-MS2 lists P-I1 or P-SC3 under **Depends on**, though the standing-capacity reading needs a bearer that persists through the non-experiential interval. Ask: (a) add the P-I1/P-SC3 dependency to both entries, or state why the momentary-locus route avoids it; (b) state which reading of reversibility the register adopts, or book it as an open debt with a **Would shift if** disjunct; (c) name the bearer. Worked cases (paused AI, backups, cryonics, retained tissue) belong in an article, not the register — leave to the research pipeline. **Length**: 2,496 words vs 2,500 hard — 3 words of headroom; the mandated dated Updated note alone breaks neutrality. Brief the split; do not trim the calibration-history pointers to pay for it.
+
+### P2: the "minimal-dualism spine" preamble states counterfactual fallback robustness as if it were independence from Tenets 2–3 inside the current framework
+- **Type**: positions-evolve
+- **File**: obsidian/positions/consciousness-scope.md
+- **Status**: pending
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-09-14-chatgpt-5-6-sol-pro.md`
+- **Generated**: 2026-09-15
+- **Notes**: From outer review 2026-09-14 (§5.5, §7.5, §9). Verified L39: animal and infant phenomenality "needing only Tenet 1's *bare* irreducibility reading — none of the quantum apparatus (Tenets 2–3 …)" and the spine "survives intact even if the entire quantum-interface programme were demoted to coherence-only". The reviewer's distinction, which the paragraph runs together: *support independence* (the phenomenality judgments do not rest on the quantum programme as evidence — true), *metaphysical compatibility*, and *counterfactual fallback robustness* (they survive in a weaker dualist framework). Inside the full five-tenet package, conscious animals and infants still need some causal route, so "none of the quantum apparatus" overstates: the spine is a fallback, not a claim that Tenets 2–3 are irrelevant to those subjects. Ask: reword L39 (one or two sentences) to name the three relations and say which one the spine has; check the tenet-dependency matrix wording it cites; leave P-CS5's Tenet-3 leg as is. **Length**: 2,842 words vs 2,500 hard — this is a rewording of an existing sentence, so aim near-neutral on content; the mandated Updated note is the only growth.
+
+### P2: P-V3 asserts cumulative weight from ~15 framework-independent voids with no candidate denominator — no ledger of rejected, absorbed or retired voids exists to control the selection effect its own Depends-on names
+- **Type**: positions-evolve
+- **File**: obsidian/positions/voids-as-evidence.md
+- **Status**: pending
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-09-14-chatgpt-5-6-sol-pro.md`
+- **Generated**: 2026-09-15
+- **Notes**: From outer review 2026-09-14 (§7.7, §8 row P-V3, §9). Verified: L63 "the cumulative-weight step is discounted by the common-cause null and remains ungraded"; L42 lists "the selection-effect worry" as a dependency, but neither this file nor `apex/taxonomy-of-voids` reports the denominator — which candidate voids were examined, which deflated, which were absorbed or archived, and under what criterion. The data exist: `archive/voids/` (e.g. `ownership-void` merged into `concepts/mine-ness` on 2026-08-06), the untriaged voids research bank (`research/voids-*`, ~24 notes that never became articles), and vetoed void tasks in this file's Vetoed section. Ask: (a) add a "Candidate denominator" subsection or Updated note to P-V3 listing absorbed/archived voids, research candidates that did not become voids, and the criterion applied; (b) tighten P-V3's Asserts so cumulative weight is *suspended pending the ledger* rather than *provisional*; (c) add a **Would shift if** disjunct keyed to the ledger. Prior reviews have raised negative controls before (8 review files) — run `git log -S "negative control" -- obsidian/positions/voids-as-evidence.md` before re-deriving. **Length**: 1,603 words vs 2,500 hard — room exists; keep the ledger compact (a table, not prose).
 
 ### P2: NEEDS HUMAN APPROVAL — positions-register scope changes do not propagate to dependent articles; the 2026-08-24 no-spatial-localization limit has now been missed three times
 - **Type**: refine-draft
@@ -654,6 +690,8 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   ⚠️ **DISTINCT FROM THE SUBJECTHOOD QUESTION — do not merge.** The `NEEDS-HUMAN (foundations) 2026-08-03` entry immediately below asks whether determinate subjecthood should be promoted into the tenets. That is a different question, and this audit re-raised it separately (§§1.3/3.1/3.6) for a third independent time. Answering one does not answer the other.
 
   **The consumer-side sweep is covered elsewhere** — sibling tasks in the 2026-08-17 batch handle articles that convert Tenet 3's compatibility into occurrence; several were closed on 2026-08-17. This entry is only the tenet-level quantifier decision.
+
+  **RE-RAISED A FOURTH TIME — 2026-09-14 (`reviews/outer-review-2026-09-14-chatgpt-5-6-sol-pro.md`, §6.3 CRITICAL · KNOWN UNRESOLVED, §7.1 DIRECT CONTRADICTION, and item 1 of its priority sequence).** Same service as 08-17 and 08-24, so this adds no cross-service convergence until the 09-14 Claude and Gemini legs land. What is new in this pass: **(i)** the three-formulation menu — (1) *some* conscious token is efficacious; (2) *every conscious subject* has at least some efficacious episodes; (3) *every conscious token* is efficacious — with the reviewer's reading that the evidence offered supports at most (1), much of the framework requires (2), and `apex/embodied-interface` denies (3); its recommended formulation is subject-level dispositional/episodic efficacy, i.e. (2). **(ii)** A consequence not stated in the earlier raises: adopting (2) "would weaken AI arguments that infer non-consciousness from the absence of a specified interface for every conscious token" — the `machine-question` L177 reading. **(iii)** Two further tenets-territory asks bundled with it (§5.1, §5.4, §9): a *layered constitution* (ontology / psychophysical-law / subjecthood / interpretation / method) so each downstream claim states which layer it uses, and a Background Commitments *dependency table* with a status per posit (adopted premise / open law / empirical hypothesis / optional module) — `tenets/background-commitments.md` currently carries three posits and has **zero** mentions of substrate neutrality, eligibility, pairing, composition, onset or cessation (grep-verified 2026-09-15). Still operator territory; still no priority change.
 
 ### NEEDS-HUMAN (foundations) 2026-08-03: should determinate subjecthood be promoted into the tenets, or does marking Tenet 4's argument conditional suffice?
 - **Type**: refine-draft
