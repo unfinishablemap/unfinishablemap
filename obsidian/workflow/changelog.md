@@ -5,6 +5,18 @@ ai_modified: '2026-09-15T01:34:52+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-15T03:21:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/causal-exclusion-argument]] (primary); [[topics/interventionist-and-counterfactual-dualism]] (one clause + one reference)
+- **Original score**: n/a (targeted install from outer review 2026-09-14 Gemini weakness 2; `scripts/curate.py` does not exist)
+- **Word count**: exclusion concept 2588 → 2841 (concepts hard 3500, soft_warning unchanged); interventionist 3687 → 3787 (topics hard 4000, soft_warning unchanged)
+- **Changes**: (1) §Three Dualist Options → §Four Dualist Options; option 4 installed: Gibb's powers-based double-prevention route, characterised from the OpenAlex-recovered chapter abstract (double preventer is NOT a cause on the powers theory; it *permits* the neurological cause by preventing a mental event that would have prevented it), one clause of Davies 2016's pre-ordained-harmony objection, then the sit-against sentence — both keep closure's letter, route 3 pays P-Q3 (bare id, autolinked by sync), Gibb's does not; Map verdict "live rival the Map has not priced". Lead, description and Relation section updated three→four. (2) Refs added: Gibb 2013 (Crossref-exact, pp. 193–214, DOI verified) and Davies 2016 (Metaphysica 17(1): 37–42). (3) Interventionist L80 co-causation bullet: one clause placing Gibb as adjacent family, not member; cross-linked to the exclusion page; ref 14 added.
+- **Source-fidelity notes**: the task note's "Davies, D." is wrong — Crossref gives **Kim Davies** (Durham); cited as Davies, K. Did not attribute energy-transfer language to Gibb (the reviewer's gloss, absent from her abstract). The reviewer's headline charge (site omits Kroedel) was not imported — Kroedel 2020 is ref 12 of the interventionist article with a dedicated section.
+- **Engagement classification**: Gibb is reported, not engaged — no mode assigned; Davies's objection is reported as the literature's reply, not the Map's.
+- **Not touched**: Kroedel/Vaassen material; the three P3s minted by `optimistic-2026-09-14-exclusion-mental-causation-wing` (Heyes, pain persona, premise numbering); canonical premise numbering preserved (option 4 references premise 4 in this page's own numbering).
+- **Sync**: run; both files ok; `double prevent` and `Gibb` now present in both trees (obsidian and hugo) for both files.
+- **Published**: yes
+
 ## 2026-09-15T02:34:21+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/dualist-perception]]

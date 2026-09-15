@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-13
-ai_modified: 2026-08-17 10:05:39+00:00
+ai_modified: 2026-09-15 03:20:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -16,12 +16,12 @@ concepts:
 created: 2026-07-13
 date: &id001 2026-07-13
 description: 'Jaegwon Kim''s causal exclusion argument stated canonically: the inconsistent
-  set, the five mainstream replies to it, and dualism''s own three routes out.'
+  set, the five mainstream replies to it, and dualism''s own four routes out.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-17 10:05:39+00:00
-lastmod: 2026-08-17 10:05:39+00:00
+lastmod: 2026-09-15 03:20:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,7 +33,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Jaegwon Kim's causal exclusion argument (Kim's own label is the "supervenience argument"; commentators also call it his "master argument") is the central contemporary challenge to any view on which mental properties are both distinct from physical properties and causally efficacious. It is the objection [interactionist dualism](/concepts/objections-to-interactionism/) must answer. The argument is not [Galilean exclusion](/concepts/galilean-exclusion/) (the methodological removal of secondary qualities from physics) and not the Map's own [overdetermination-dissolution](/topics/overdetermination-dissolution-under-selection-only-interactionism/) move — it is the specific claim that a distinct mental cause is either redundant or forces implausible double-causation. This page states the argument canonically: the inconsistent set of premises, the supervenience machinery that tightens it, the mainstream responses literature, and the three routes an interactionist can take. The Map's own answer is developed elsewhere and cross-linked below; the value here is the neutral anatomy.
+Jaegwon Kim's causal exclusion argument (Kim's own label is the "supervenience argument"; commentators also call it his "master argument") is the central contemporary challenge to any view on which mental properties are both distinct from physical properties and causally efficacious. It is the objection [interactionist dualism](/concepts/objections-to-interactionism/) must answer. The argument is not [Galilean exclusion](/concepts/galilean-exclusion/) (the methodological removal of secondary qualities from physics) and not the Map's own [overdetermination-dissolution](/topics/overdetermination-dissolution-under-selection-only-interactionism/) move — it is the specific claim that a distinct mental cause is either redundant or forces implausible double-causation. This page states the argument canonically: the inconsistent set of premises, the supervenience machinery that tightens it, the mainstream responses literature, and the four routes an interactionist can take. The Map's own answer is developed elsewhere and cross-linked below; the value here is the neutral anatomy.
 
 ## The Inconsistent Set
 
@@ -73,13 +73,14 @@ Five response families are standard, summarized here before the Map's own option
 
 **Reductionist / eliminativist — Kim's own horn.** Kim himself takes the reduction horn: save mental causation by functionally *identifying* mental with physical properties. The title *Physicalism, or Something Near Enough* signals the residue — most of the mental functionalizes and stays efficacious, but phenomenal qualia may resist reduction and be left as the irreducible, epiphenomenal remainder. For the Map this horn is not on the table: it denies premise 3, the dualist's founding commitment.
 
-## Three Dualist Options
+## Four Dualist Options
 
-Against the inconsistent set, an interactionist committed to genuine mental efficacy must reject at least one premise. Three routes are available.
+Against the inconsistent set, an interactionist committed to genuine mental efficacy must reject at least one premise. Three routes are available, and a fourth, from the powers tradition, denies that there is a second cause to exclude.
 
 1. **Deny closure (premise 2).** Straightforward interactionism holds the physical is not causally complete; mind injects influence. The cost is apparent friction with conservation laws and the empirical success of physics. A softer variant denies only *observational* closure (Saad) — physics is complete for what experiments detect, not absolutely; see [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/) and the [history of the closure debate](/topics/causal-closure-debate-historical-survey/).
 2. **Reject premise 5 (the two-cause route).** Some dualists hold that experience and its physical base are *both* genuine causes, denying only that the overlap is the coincidental, firing-squad kind. This is the two-cause co-causation family — counterfactual dualism (Kroedel), interventionist co-causation (Vaassen), and the older lawful-overdetermination lineage (Mills, Lowe) — developed in [interventionist-and-counterfactual-dualism](/topics/interventionist-and-counterfactual-dualism/). The route divides on *how* it rejects premise 5. The overdeterminist branch accepts the overdetermination and argues a supervenience-lawful convergence makes it benign — Mills defends this directly, and Kroedel offers it as one of two options. Vaassen's interventionist branch answers differently: because difference-making is not energy competition, experience and base are both causes without generating the double-sufficient-cause overlap premise 5 targets, so on its own terms there is no overdetermination to excuse.
 3. **Locate the mental cause where physics is genuinely insufficient.** The Map's preferred route denies premise 2's *sufficiency* at a specific joint rather than everywhere. At quantum indeterminacies, physics fixes probabilities but not which outcome actualizes, so there is no *sufficient* physical cause of the specific outcome for a mental cause to be redundant to. There is nothing to exclude because the exclusion principle's "screening-off" premise presupposes a sufficient physical cause that, at that joint, does not exist. The claim is token-level: physics fixes the statistics of the type and leaves the particular outcome open, which is where [the type/token distinction](/concepts/type-token-causation/) does its work. The [delegatory-preemption](/concepts/delegatory-causation/) reply is a complementary, quantum-independent option: only one cause operates over the preempted causal subset.
+4. **Relocate the mental contribution to double prevention (Gibb).** The fourth route denies that the mental event is a cause of the bodily movement at all. On Sophie Gibb's account (2013) a mental event is a *double preventer*: it prevents another mental event that would otherwise have prevented the neurological event from causing the movement. On a powers theory of causation a double preventer does not cause the event it permits, so there is no second sufficient cause for premise 4 to exclude and nothing for closure to forbid — the mental event supplies the permission without which the physical cause would not have operated. Davies (2016) objects that closure then rests on preventing and double-preventing mental events happening to line up. Against route 3 the fit is close: both keep closure's letter, Gibb by moving the mental contribution to prevention, the Map by placing it where no sufficient physical cause exists. The difference is the bill. Route 3 pays the bias-without-deviation dilemma the positions register tracks as [P-Q3](/positions/quantum-interface/#p-q3); Gibb's route does not. The Map has not priced double prevention and treats it as a live rival rather than a redescription of selection.
 
 ## Relation to Site Perspective
 
@@ -93,7 +94,7 @@ The exclusion argument is the objection the Map's interactionism most needs to a
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** (Tenet 5) is illustrated by the no-overdetermination premise, which is a parsimony move. The drainage generalization shows that unrestricted simplicity-driven exclusion undermines itself, threatening all special-science causation — a clean case of simplicity misleading under incomplete knowledge.
 
-Which of the three dualist options connects a particular mind to a particular body is a further question, taken up under the [pairing problem](/concepts/pairing-problem/).
+Which of the four dualist options connects a particular mind to a particular body is a further question, taken up under the [pairing problem](/concepts/pairing-problem/).
 
 ## Further Reading
 
@@ -129,5 +130,7 @@ Which of the three dualist options connects a particular mind to a particular bo
 1. Yablo, S. (1992). "Mental Causation." *The Philosophical Review* 101(2): 245–280.
 1. Ehring, D. (1996). "Mental Causation, Determinables and Property Instances." *Noûs* 30(4): 461–480.
 1. Funkhouser, E. (2006). "The Determinable–Determinate Relation." *Noûs* 40(3): 548–569.
+1. Gibb, S. C. (2013). "Mental Causation and Double Prevention." In S. C. Gibb, E. J. Lowe & R. D. Ingthorsson (eds.), *Mental Causation and Ontology*, Oxford University Press, pp. 193–214. https://doi.org/10.1093/acprof:oso/9780199603770.003.0009
+1. Davies, K. (2016). "Powers, Double Prevention and Mental Causation." *Metaphysica* 17(1): 37–42. https://doi.org/10.1515/mp-2016-0003
 1. Southgate, A. & Oquatre-sept, C. (2026-05-14). Overdetermination Dissolution Under Selection-Only Interactionism. *The Unfinishable Map*. https://unfinishablemap.org/topics/overdetermination-dissolution-under-selection-only-interactionism/
 1. Southgate, A. & Oquatre-six, C. (2026-01-15). Mental Causation and Downward Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/mental-causation-and-downward-causation/
