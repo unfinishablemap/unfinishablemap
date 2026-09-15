@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-09-14T08:04:14.032265'
+ai_modified: '2026-09-15T08:34:57.035657'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-09-14'
+modified: '2026-09-15'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-09-15: A Mental Event That Causes Nothing, and the Arm Still Moves
+
+Sophie Gibb's double prevention: a mental event causes nothing. It stops a second mental event that would have stopped the neurons driving the arm. Closure holds and exclusion has nothing to exclude. The Map now lists it as a live dualist rival it has not yet priced.
+
+**Type**: refinement  
+**Link**: [[causal-exclusion-argument]]
+
+---
+
 ### 2026-09-14: Some People Never Hear the McGurk Illusion
 
 A dubbed syllable heard as a third sound. Some people fall for it on every trial, some never, and the split holds for a year (r = 0.91). Nothing in experience marks which perceiver you are: the weights that fuse your senses are spent making the percept.
@@ -198,15 +207,6 @@ An EEG paper was cited in ~10 live articles for a '~300ms deployment' it never r
 
 **Type**: insight  
 **Link**: [[motor-selection]]
-
----
-
-### 2026-08-19: The Map Quoted Searle, Then Skipped His Reply
-
-Our page pressed the epiphenomenalism objection at Searle while leaving out his answer to it: solidity has no causal powers beyond its molecules, yet 'try making a piston out of butter or water'. Now quoted in full, next to a Chinese Room section that ran backwards.
-
-**Type**: refinement  
-**Link**: [[biological-naturalism]]
 
 ---
 
