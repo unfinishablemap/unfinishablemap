@@ -4,7 +4,7 @@ description: "Pragmatism—the philosophy that evaluates ideas by practical cons
 created: 2026-03-15
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-08-03T13:10:10+00:00
+ai_modified: 2026-09-15T06:36:17+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ related_articles:
   - "[[the-agent-shaped-hole]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-03-15
 last_curated:
 last_deep_review: 2026-07-16T01:50:21+00:00
@@ -48,7 +48,7 @@ coalesced_from:
 
 [[pragmatism|Pragmatism]] evaluates ideas by their practical consequences — what difference does believing this make? The Unfinishable Map argues that when pragmatism is applied reflexively to consciousness, it arrives at dualism. Not because dualism is simpler or more elegant, but because materialism about consciousness fails pragmatism's own test: it cannot account for the evaluative capacity on which pragmatic assessment depends. The argument has two complementary dimensions. Pragmatism's reflexive logic shows *that* consciousness is required for evaluation. The analysis of [[consciousness-and-normative-force|phenomenal normativity]] reveals *how* consciousness evaluates: through [[evaluative-phenomenal-character|demand-character]] built into the structure of experience itself. Together, they raise the cost of the functionalist escape route that each faces separately — though, as the argument below is careful to mark, the leverage finally rests on the Map's prior commitment to phenomenal irreducibility rather than on a refutation delivered inside functionalism's own framework.
 
-The path runs through four stages — James's pragmatic openness to dualism, Peirce's tychism opening ontological space for mental causation, van Fraassen's pragmatic theory of explanation revealing consciousness at the foundation, and the reflexive argument that pragmatic evaluation presupposes irreducible phenomenal experience.
+The path runs through four stages — James's pragmatic openness to dualism, Peirce's tychism opening ontological space for mental causation, van Fraassen's pragmatics of explanation as a conscious act, and the reflexive argument that pragmatic evaluation presupposes irreducible phenomenal experience.
 
 ## James's Pragmatic Opening
 
@@ -56,9 +56,9 @@ The path runs through four stages — James's pragmatic openness to dualism, Pei
 
 Applied to the mind-body problem, James argued in "Human Immortality" (1898) that the stakes are real. If consciousness is produced by the brain, death is annihilation and consciousness has no special status. If consciousness is transmitted through but not produced by the brain, each conclusion changes. The practical consequences may diverge sharply — which would make the question genuinely meaningful. The pragmatist who dismisses dualism as unscientific has abandoned pragmatism for methodological convenience masquerading as philosophical argument.
 
-James's "Will to Believe" (1896) reinforces this: when a choice is forced, living, and momentous, we may legitimately choose based on our nature and needs rather than waiting for conclusive evidence. The consciousness question meets all three conditions.
+James's "Will to Believe" (1896) reinforces this: when a choice is forced, living, and momentous, we may choose on our nature and needs rather than await conclusive evidence. It is living and momentous; whether it is *forced* is contested — see [[pragmatism#James's Expansion|the concept page]].
 
-A common objection: James moved beyond dualism toward *radical empiricism*, arguing in "Does Consciousness Exist?" (1904) that consciousness is a function within "pure experience" rather than a substance. But radical empiricism preserves what the Map requires: the irreducibility of experience. James denied that experience reduces to matter. The pragmatist who invokes James's neutral monism against dualism has conceded the essential point — experience cannot be reduced to the physical. Whether the irreducible remainder is called "non-physical properties" or "pure experience" is a second-order question.
+A common objection: James moved beyond dualism toward *radical empiricism*, arguing in "Does Consciousness Exist?" (1904) that consciousness is a function within "pure experience" rather than a substance. James denied that experience reduces to matter. The pragmatist who invokes James's neutral monism against dualism has conceded the essential point — experience cannot be reduced to the physical. The reflexive argument needs only that irreducibility; Tenet 1's *distinct* non-physical property is a further step his 1904 neutral monism denies, a tension [[william-james-consciousness|the James article]] carries.
 
 ## Peirce's Tychism and the Space for Mind
 
@@ -164,9 +164,9 @@ The Unfinishable Map finds in pragmatism an unlikely but powerful ally.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Peirce's tychism provides the philosophical precedent for Tenet 2. His argument that consciousness requires real indeterminism arrived at the Map's position through purely pragmatist reasoning, decades before quantum mechanics provided the physical framework. The relationship is best read as anticipation, not independent confirmation. Peirce's tychism and quantum indeterminacy are one pattern seen from two angles — a 19th-century metaphysical intuition that real chance is needed, and a 20th-century formalism that later made *room* for it — rather than two separate bodies of evidence that each independently confirm mental causation. Counting them as mutual strengthening would over-read the convergence the way [[evidential-status-discipline|the evidential-status discipline]] warns against: physics removing a determinist defeater is not the same as physics supplying positive evidence, and the same convergence is available to a reductionist, who can read quantum indeterminism as physical noise with no mind in it. What Peirce supplies is conceptual space for the Map's position; what quantum mechanics supplies is a physical opening compatible with it. That is worth noting, but it constrains the field rather than multiplying into two confirmations.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Van Fraassen's analysis reveals that explanation requires conscious agents whose understanding has causal consequences. If this evaluation is epiphenomenal, the success of science becomes inexplicable. The bridge connects consciousness's causal role directly to its phenomenal properties — consciousness performs evaluation through felt normative force.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Van Fraassen shows only that explaining is something conscious agents do; that their evaluation has *causal* consequences is the Map's extension ([[tenets#^tenet-3-standing|Tenet 3]]). The bridge connects consciousness's causal role to its phenomenal properties: it performs evaluation through felt normative force.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Normative demands address *this* evaluator in *this* situation. Pragmatic evaluation asks what difference *this* belief makes for *this* inquirer. Both presuppose indexical identity — a specific conscious agent whose evaluative standpoint matters. Many-worlds, where all evaluations occur across branches, dissolves the standpoint that pragmatic normativity requires.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Normative demands address *this* evaluator; pragmatic evaluation asks what difference *this* belief makes for *this* inquirer. Both presuppose indexical identity — a specific conscious agent whose evaluative standpoint matters. Many-worlds, spreading evaluations across branches, dissolves that standpoint — which presupposes the Map's [[mine-ness|non-deflationary subject]].
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Pragmatism provides the most natural articulation of Tenet 5, and the bridge with phenomenal normativity provides a specific mechanism for why parsimony cannot eliminate consciousness. Parsimony is an evaluative norm with demand-character; demand-character requires irreducible consciousness; therefore parsimony presupposes what it would need to eliminate. Apparent simplicity that destroys its own justification is not simple at all.
 

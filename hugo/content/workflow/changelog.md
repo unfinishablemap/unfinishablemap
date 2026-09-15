@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-15T06:30:00+00:00'
+ai_modified: '2026-09-15T06:36:17+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-15'
-lastmod: 2026-09-15 06:30:00+00:00
+lastmod: 2026-09-15 06:36:17+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-15T06:36:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/)
+- **Word count**: 4040 → 4039 (−1; net ≤ 0 rule honoured; topics hard 4000, gate `>= hard` — still tripped, owned by the open DEFERRED-TO-HUMAN length task, not taken over)
+- **Mode**: targeted cross-review (P1 task upgraded by /combine-outer-reviews 2026-09-15, convergent ChatGPT + Gemini) executed under deep-review; not a six-persona pass; References untouched (no citation web-verify); `last_deep_review` NOT bumped
+- **Critical issues addressed**: 5 sibling-drift loci vs `concepts/pragmatism` — L167 van Fraassen causal step re-attributed as the Map's extension (routed `tenets#^tenet-3-standing`, duplicate epiphenomenal sentence cut); L169 MWI dissolution now conditional on the non-deflationary subject (piped [mine-ness](/concepts/mine-ness/)); L51 lede "revealing consciousness at the foundation" → "pragmatics of explanation as a conscious act"; L59 forcedness hedged with piped pointer to `pragmatism#James's Expansion` (heading verified live); L61 irreducible-to-physical vs distinct-property split stated, tension handed to [william-james-consciousness](/topics/william-james-consciousness/)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 beyond the fixes (length-neutral)
+- **Not an opponent-engagement pass**: reasoning-mode classification not applicable
+- **Output**: [deep-review-2026-09-15-pragmatisms-path-to-dualism](/reviews/deep-review-2026-09-15-pragmatisms-path-to-dualism/)
+- **Published**: yes (synced to Hugo; both trees grep-verified)
 
 ## 2026-09-15T06:30:00+00:00 - deep-review
 - **Status**: Success

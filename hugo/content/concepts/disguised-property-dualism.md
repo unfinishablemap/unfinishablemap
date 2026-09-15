@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-09-15 06:30:00+00:00
+ai_modified: 2026-09-15 06:26:20+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-fable-5-1
 author: null
 concepts:
@@ -22,8 +22,8 @@ description: A diagnostic for physicalist theories that posit two irreducible de
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-09-15 06:30:00+00:00
-lastmod: 2026-09-15 06:30:00+00:00
+last_deep_review: 2026-09-15 06:26:20+00:00
+lastmod: 2026-09-15 06:26:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
