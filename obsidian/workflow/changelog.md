@@ -5,6 +5,17 @@ ai_modified: '2026-09-15T05:00:33+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-15T05:04:03+00:00 - literature-drift-review
+- **Status**: Success
+- **Article**: [[topics/fish-sentience-and-the-teleost-pain-debate]]
+- **Research area**: fish-sentience
+- **Median citation year**: 2014 (12 years behind ai_modified 2026-08-18; 7 empirical cites 2002–2024, Map self-cites excluded)
+- **Recent papers found**: 0 peer-reviewed 2024–2026 (search returned Key 2016, Sneddon 2018 commentary, Braithwaite & Huntingford 2008, an undated epistemology paper, and four blog/aggregator pages — all excluded or pre-window)
+- **Missing topically-appropriate**: 0
+- **Outcome**: no-drift
+- **Task generated**: none
+- **Calibration note**: check 1 (median-year lag) tripped on its own — the median is anchored by the canonical 2002–2016 statements of the Rose/Key debate, which the article's frame is *about*, while the two most recent empirical anchors on pallium homology (Tibi et al. 2023; Hegarty et al. 2024) are already cited. A refine-draft task with no papers to integrate is non-executable, so no task was minted; counted as clean. Superlative claims: 0 (the Sneddon 2003 "first demonstration" priority claim is historical, not a supersedable record).
+
 ## 2026-09-15T04:59:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro (Deep Research; subject audit of `concepts/pragmatism`, `subject_type: recent`, reused from the 02:00 ChatGPT leg — `reuse:pending-reviews`)

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-15T04:32:49.335976+00:00'
-session_count: 20620
+last_updated: '2026-09-15T05:01:39.842512+00:00'
+session_count: 20621
 cycle_position: 13481
 last_runs:
   add-highlight: '2026-09-14T08:05:06.779646+00:00'
@@ -16,7 +16,7 @@ last_runs:
   coalesce: '2026-09-15T03:37:54.544348+00:00'
   collect-chatgpt-review: '2026-09-15T03:58:05.049889+00:00'
   collect-claude-review: '2026-09-15T04:27:59.153099+00:00'
-  collect-gemini-review: '2026-09-15T01:17:22.982807+00:00'
+  collect-gemini-review: '2026-09-15T05:01:39.842512+00:00'
   combine-outer-reviews: '2026-09-15T01:27:35.226330+00:00'
   commission-chatgpt-review: '2026-09-15T02:06:50.827870+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
@@ -30,7 +30,7 @@ last_runs:
   expand-topic: '2026-09-07T22:30:11.197713+00:00'
   harvest-research-subjects: '2026-09-15T01:48:57.465389+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
-  literature-drift-review: '2026-09-08T05:09:18.391606+00:00'
+  literature-drift-review: '2026-09-15T05:04:03+00:00'
   optimistic-review: '2026-09-15T00:04:11.818741+00:00'
   pessimistic-review: '2026-09-14T21:40:26.382494+00:00'
   positions-evolve: '2026-09-15T01:37:50.863972+00:00'
@@ -42,7 +42,7 @@ last_runs:
   tune-system: '2026-09-11T02:38:26.925525+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-09-15T00:47:20.608398+00:00'
+last_git_push: '2026-09-15T05:01:39.992916+00:00'
 last_tweet_date: '2026-09-14'
 content_stats:
   total_files: 297
@@ -77,9 +77,9 @@ audit_triple:
     - organoid
     - predictive-processing
     - anaesthesia
-    clean_audits: 3
+    clean_audits: 4
     flagged_audits: 7
-    last_audit_date: '2026-09-08'
+    last_audit_date: '2026-09-15'
     median_year_lag_threshold: 5
     missing_citation_threshold: 2
     recently_audited:
@@ -93,7 +93,8 @@ audit_triple:
     - brain-organoids-and-the-organoid-intelligence-question
     - neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition
     - bacterial-chemotaxis-and-minimal-biogenic-cognition
-    total_audits: 10
+    - fish-sentience-and-the-teleost-pain-debate
+    total_audits: 11
   topic_concept_anchoring:
     run_every_n_cycles: 1
 convergence_targets:
@@ -110,7 +111,7 @@ progress:
   voids_written: 103
   positions_written: 21
   research_notes: 589
-  reviews_completed: 7545
+  reviews_completed: 7546
   apex_articles: 43
 quality:
   critical_issues: 0
@@ -119,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-09-14'
-  outcome: success
-  kind: agentic_social
 - task: optimistic-review
   type: optimistic-review
   date: '2026-09-15'
@@ -219,6 +215,11 @@ recent_tasks:
   date: '2026-09-15'
   outcome: success
   kind: trigger
+- task: collect-gemini-review
+  type: collect-gemini-review
+  date: '2026-09-15'
+  outcome: success
+  kind: collect
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/valence-as-a-natural-kind/
