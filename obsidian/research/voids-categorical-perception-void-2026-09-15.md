@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Categorical Perception Void"
 created: 2026-09-15
 modified: 2026-09-15
 human_modified: null
-ai_modified: 2026-09-15T08:30:00+00:00
+ai_modified: 2026-09-15T08:29:23+00:00
 draft: false
 target_section: voids
 topics: []
