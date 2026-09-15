@@ -5,6 +5,13 @@ ai_modified: '2026-09-15T06:36:17+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-15T08:30:00+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Categorical Perception Void — consciousness receives continua pre-carved (speech, colour, faces, musical intervals, lab-learned textures); the within-category interior is compressed, the provenance of each joint (world-given vs installed) is unreadable from inside, and the continuum survives sub-personally (Toscano et al. 2010: N1 tracks VOT linearly, independent of reported category) but is never the default deliverable
+- **Category**: Mixed — Occluded (active compression) with an Unexplorable face that deflates under measurement
+- **Output**: [[research/voids-categorical-perception-void-2026-09-15]]
+- **Key finding**: The strong textbook claim that listeners *cannot hear* within-category differences is rejected by the speech field itself as a task artefact (McMurray 2022 JASA; Gerrits & Schouten 2004: no CP in 4IAX, full CP in 2IFC on the same vowels), while the weak claim — warping plus a category-first default readout — replicates across five domains; the surviving void is one of default access and provenance, not capacity. Novel catalogue conjunction: vagueness-void (concepts fuzzy at edges) and CP (percepts sharp where the world is continuous) are complementary edge-representation failures. AI asymmetry: Bonnasse-Gahot & Nadal 2022 (CP auto-induced by category learning in ANNs, auditable by RSA) and Cacioli 2026 preprint ("structural CP": LLM geometry warps at digit-count boundaries the model cannot report — flagged unreviewed). Whorfian colour face carried as real-but-modest (Witzel & Gegenfurtner 2011: not lateralised, n=230; Martinovic et al. 2020: no sinij/goluboj advantage, boundary drifts with context). Voids at 103/115 (gate function); no coverage overlap found (0 voids articles mention categorical perception; the 2026-02-15 categorial-void note is Kantian categories of thought). Added to task_chains.pending_articles with target_section: voids.
+
 ## 2026-09-15T07:33:03+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[project/writing-style]]

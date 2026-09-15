@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-09-07 11:50:14+00:00
+ai_modified: 2026-09-15 07:47:46.077823+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -27,10 +27,15 @@ description: The felt contrast between doing and undergoing reveals a fundamenta
   axis of experience that materialist accounts struggle to explain—and the Map's framework
   predicts.
 draft: false
+embedded_videos:
+- embedded: 2026-09-15 07:47:46.077823+00:00
+  id: 2zsa5sXM7Hg
+  source: notebooklm/0137-01-phenomenology-of-agency-vs-passivity
+  url: https://www.youtube-nocookie.com/embed/2zsa5sXM7Hg
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 23:47:40+00:00
-lastmod: 2026-09-07 11:50:14+00:00
+lastmod: 2026-09-15 07:47:46.077823+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -56,6 +61,12 @@ topics:
 ---
 
 Every moment of experience falls somewhere on an axis between doing and undergoing. Lifting your arm feels different from having it lifted. Directing attention to a problem feels different from being startled by a noise. Choosing your words feels different from hearing someone else speak. This phenomenological contrast—between agency and passivity—is among the most basic features of conscious life, and accounts that treat consciousness as causally inert must accommodate it as a regularity rather than predict it. The Unfinishable Map's framework, in which consciousness genuinely selects among physical possibilities, predicts exactly this contrast: agency feels different from passivity because agency *is* different—it involves conscious causal contribution that passivity lacks.
+
+<details class="yt-embed" data-video-id="2zsa5sXM7Hg">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/2zsa5sXM7Hg">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Two Poles
 
