@@ -5,6 +5,15 @@ ai_modified: '2026-09-15T06:36:17+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-15T07:05:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/pragmatism]]
+- **Original score**: 7/10 (convergent outer-review residue, 3/3 reviewers at the naturalist-reply locus; `scripts/curate.py` does not exist so no tool score)
+- **Changes**: (c) "Teleosemantics is the standing answer" → "a standing answer"; added a second paragraph to the naturalist-normativity reply fielding active inference (Laukkonen, Friston & Chandaria 2025, Crossref-exact; precision-weighted inference as a physicalist account of valuation and belief-as-action-guiding) in the writing-style predictive-processing-roster register — Friston's Markovian monism named as arguing against the Map, the formalism marked compatible-with rather than evidence-for, dissent placed at felt recognition of illumination vs. precision update, mirroring the teleosemantics "under-delivers rather than fails" verdict; (c-ii) enactivist sense-making named as the third account in one clause (Weber & Varela 2002, Di Paolo 2005 — both Crossref-verified this pass — and Thompson 2007) with a piped heading-anchor link to [[enactivism-challenge-to-interactionist-dualism#The Dissolution Strategy and Its Limits]] where the "why is sense-making accompanied by experience?" question lives; (d) Occam sub-claim moved into the Map's voice ("pragmatism on the Map's reading sides with the richer ontology"), trailing hedge kept; (e) one clause on Rorty's 1965 "disappearance" identity theory appended to the existing "dissolves rather than demands solution" sentence, which the Dewey-P1 Rorty rewrite (6ad79099) had left intact; (f) zero-word piped anchor [[cognitive-phenomenology#The Illusionist Challenge]] installed on "ineliminably phenomenal" in the Dualism tenet paragraph (heading confirmed at L170). Five reference entries added. Not imported: the reviewers' "standing blocking gate" and "entirely omits 4E cognition" site-level claims (refuted at collection); Gallagher 2020 not cited. Untouched per task: Maxim Turned Inward, lede attributed sentence, Dewey/Rorty rewrite paragraphs, social-practice reply, Putnam, No-Many-Worlds, description.
+- **Engagement classification** (editor-internal): active inference / Friston — Mode Three with a Mode Two edge (the formalism supplies valuation without arguing the precision update *is* the felt recognition; the residue is declared a framework-boundary disagreement, not a refutation); enactivist sense-making — Mode Three, routed to the sibling article's open question.
+- **Length**: 3174 → 3489 body words (concepts hard 3500; the five reference entries consume most of the band). Trimmed only the new prose to stay under hard.
+- **Published**: yes (synced to Hugo)
+
 ## 2026-09-15T06:48:04+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[project/quantum-claim-and-quotation-disciplines]]
