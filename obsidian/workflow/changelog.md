@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-15T05:00:33+00:00'
+ai_modified: '2026-09-15T05:54:27+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-15T05:54:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/pragmatism]]
+- **Original score**: n/a (`scripts/curate.py review` does not exist; targeted calibration bundle from outer-review-2026-09-15-chatgpt-5-6-sol-pro, convergent items per combine pass)
+- **Changes**: (a) Putnam heading and L74 renamed "internal realism" (RTH 1981 names "the internalist perspective"; "pragmatic realism" is 1987); "conscious rational agents" softened to agents with interests, agent-relativity a functionalist can accept; one sentence on the 1994 Dewey Lectures move to natural realism (Crossref 10.2307/2940978 verified: JPhil 91(9), start page 445 — end page not visible in Crossref/OpenAlex, cited "445 ff."). (b) Peirce: "not as a theory of truth" → criterion of meaning paired with a convergence account, realist about the final opinion's object (1878 sentence grep-verified at the Stanford text). Lead rewritten: "rejects the idea that truth consists in mirroring…" and "truth is what works" deleted; Peircean convergence and Jamesian expediency one clause each; Misak 1991/2004 appended (Crossref 10.1093/0199270597.001.0001 verified). (c) James on truth: "not correspondence to an unobservable reality" replaced by the agreement-dispute clause (verification, leading, experiential constraint, copying retained); James's long-run qualifier quoted verbatim from Gutenberg #5116, NFKC-grepped at offset 226229. (d) "human dignity…" and "status…materialism denies" relabelled as the Map's inferences from James's underdetermination; one sentence on the 1904 "Does 'Consciousness' Exist?" countertrajectory (paraphrased, not quoted, for budget; "name of a nonentity" verified at marxists.org) routed to [[william-james-consciousness]]. (e) van Fraassen 1977 appended: **the task's JSTOR stable 20009655 is WRONG — it is Bruce Russell, "On the Relative Strictness of Negative and Positive Duties", APQ 14(2) 87–97; van Fraassen is stable 20009661**, verified via JSTOR's RIS endpoint (`/citation/ris/`, which bypasses the HTML "Client Challenge"): APQ 14(2), 143–150. Prose cites "(1977; *The Scientific Image*, 1980)". (f) New No Many Worlds paragraph (83 words) in §Relation to Site Perspective between Bidirectional and Occam: indexical address presupposes a unique subject; [[tenets]] subjecthood dependency; pragmatism alone does not exclude branch-relative Everettian agency; rejection rides on [[mine-ness]]. Sibling's "dissolves the standpoint" wording not imported. (g) Description rewritten to 158 chars with the framework-relative scope. Dewey, Rorty, social-practice and teleosemantics paragraphs untouched.
+- **Length**: `analyze_length` 2844 → 3174 (net **+330**, over the +230 budget by ~100). Mandated floors — the ≥80-word No-Many-Worlds block (83), three reference entries with DOIs/URLs (~62 counted words), James's verbatim qualifier (~30) — sum to ~175 before any prose; two tightening passes cut +469 → +330 (Peirce verbatim and a James 1904 reference entry dropped, all insertions paraphrased to minimum). Not cut further to avoid trimming pre-existing calibration guards outside the task's loci. Status `soft_warning`; 326 words clear of the concepts hard gate (3500).
+- **Not an opponent-engagement pass**: reasoning-mode classification not applicable (all items metadata/calibration).
+- **Published**: yes (synced to Hugo; both trees grep-verified for all old-string absences and new-string presences)
+
 
 ## 2026-09-15T05:33:13+00:00 - refine-draft
 - **Status**: Success
