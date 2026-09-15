@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-15T05:54:27+00:00'
+ai_modified: '2026-09-15T06:30:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-15T06:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/disguised-property-dualism]]
+- **Word count**: 3627 → 3459 (−168; hard_warning → soft_warning, concepts hard 3500)
+- **Critical issues addressed**: 1 (Alter & Pereboom 2023 attributed a "physicalist, Russellian, and dual-aspect … sharing only the structuralist premise" taxonomy the SEP entry does not contain — its variants are Russellian physicalism/panpsychism/panprotopsychism and §4.1 treats structuralism as the *dispensable* thesis; rewritten from the live entry)
+- **Medium issues addressed**: 4 (self-application bullet made conditional to match the 07-23 worked-example verdicts; inverted "reputational cost" sentence; heuristic status moved into the lead per outer-review 07-23; length condensation with review-installed guards preserved)
+- **Enhancements made**: 4 (Friston 2020 monism claim and Doerig 2019 verdict installed verbatim from full text; Friston intrinsic-geometry gloss corrected to "probabilistic evolution of internal states"; neutral-monism subsection corrected to say Friston et al. *reject* the neutral-monist/dual-aspect readings rather than "press" them)
+- **Citation ledger**: 9 external cites web-verified at publisher / Europe PMC full text — 8 real-correct, 1 real-correct-metadata with wrong body claim (fixed); Pautz 2017 carried on 07-23 verification (PDF endpoints returned HTML)
+- **Engagement modes** (editor-internal): Friston — Mode Two (conditional); Russellian monism — Mode One; IIT — Mode Three; phenomenal-concept strategy — Mixed; neutral monism — Mixed
+- **Output**: [[reviews/deep-review-2026-09-15-disguised-property-dualism]]
+- **Published**: yes (synced to Hugo; both trees grep-verified)
+
 ## 2026-09-15T05:54:27+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/pragmatism]]
