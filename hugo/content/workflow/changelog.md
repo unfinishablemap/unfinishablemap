@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-15 02:28 UTC - research-topic
+- **Status**: Success
+- **Topic**: The psychophysical social-choice problem: composition rules for selection across subjects with incompatible intentions or valences
+- **Output**: [psychophysical-social-choice-problem-2026-09-15](/research/psychophysical-social-choice-problem-2026-09-15/)
+- **Sources consulted**: 19 (crossref-verified DOIs for 16; full text extracted for Gibbard 1977, Bostrom 2006, Chalmers & McQueen 2022; SEP statements for Arrow and Sen)
+- **Route recommendation**: standalone concepts/ article (concepts 326/360); in-place discharge not length-neutral in any positions host
+
+
 ## 2026-09-15T01:34:52+00:00 - positions-evolve
 - **Status**: Success
 - **Mode**: update [P-V3](/positions/voids-as-evidence/#p-v3) (`positions/voids-as-evidence.md`) — candidate-denominator ledger, from the 2/3-convergent 2026-09-14 outer-review cluster (ChatGPT 5.6 Pro §7.7; Claude Opus 5 §2.3(v)), P1

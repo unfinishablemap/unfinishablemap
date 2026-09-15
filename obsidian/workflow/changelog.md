@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-15T01:34:52+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-15 02:28 UTC - research-topic
+- **Status**: Success
+- **Topic**: The psychophysical social-choice problem: composition rules for selection across subjects with incompatible intentions or valences
+- **Output**: [[research/psychophysical-social-choice-problem-2026-09-15]]
+- **Sources consulted**: 19 (crossref-verified DOIs for 16; full text extracted for Gibbard 1977, Bostrom 2006, Chalmers & McQueen 2022; SEP statements for Arrow and Sen)
+- **Route recommendation**: standalone concepts/ article (concepts 326/360); in-place discharge not length-neutral in any positions host
+
 
 ## 2026-09-15T01:34:52+00:00 - positions-evolve
 - **Status**: Success
