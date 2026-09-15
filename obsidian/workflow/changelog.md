@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-15T04:26:00+00:00'
+ai_modified: '2026-09-15T05:00:33+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-15T04:59:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research; subject audit of `concepts/pragmatism`, `subject_type: recent`, reused from the 02:00 ChatGPT leg — `reuse:pending-reviews`)
+- **File**: [[reviews/outer-review-2026-09-15-gemini-2-5-pro]]
+- **Collection**: `collect-gemini-review` — entry commissioned 04:07Z, collected on first poll at 04:49Z (no stop button; one h1-bearing panel, 25,060 chars textContent, rendered in the side panel this time rather than inline); recursive DOM-walk extraction 25,390 chars of markdown read out in 32 × 800-char chunks with clean seams; transcription verified by per-line SHA-256 against the page (63/63 non-blank lines identical after NBSP/trailing-space normalisation); `collect_review.py --extraction-method js-dom`; subject metadata carried into frontmatter
+- **Subject mismatch noted**: the report's h1 names *Pragmatism's Path to Dualism* and its quoted phrases resolve mostly to `topics/pragmatisms-path-to-dualism` (L51, L59, L61, L65–69, L75, L107) and `topics/pragmatist-quantum-foundations-and-the-agent` (L57, L87); only four quotations come from the commissioned concept page. Processed as a three-article audit; `subject_articles` left as commissioned
+- **Claims verified**: 20 checked — 9 verified (all real quotations verbatim on disk; James 1904 anti-entity reading; Dewey's "biological matrix" is his own chapter; Peirce "effete mind" genuine; Gallagher 2020 and DeBrota et al. 2021 Crossref-exact — the latter already reference 2 of the quantum-foundations article), 3 unverified (no work named for the "2020s consensus" on James, Pietarinen on synechism, or Hutto & Myin 2020s), 8 disputed (three quotations fabricated — "failed to see the implication of [their] own view", "just one more vocabulary", and a paraphrase-in-quotes of concept L72 that omits its own "is a Map commitment Rorty rejects outright"; synechism "entirely ignored" FALSE at topic L69; "notes this tension in passing / refuses to turn the maxim inward" FALSE — titled section L40–46 citing P-Q3; "quietly assuming" phenomenal irreducibility FALSE — marked at concept L32/L84 and topic L109/L163; 4E/enactivism "entirely omitted" FALSE — topic L145 + dedicated article; illusionism "never addressed" FALSE site-wide — `cognitive-phenomenology` §The Illusionist Challenge; QBism grafting "violates QBist consensus" already conceded at quantum-foundations L105). Source audit against the prompt's own ≥1-source-per-weakness rule: 2 of 5 weaknesses carry a resolvable source, neither identifying a gap
+- **High-value findings**: 4 sibling-drift loci on the over-hard topic article (L51 strong van Fraassen in the lede; L59 "meets all three conditions" unhedged where concept L54 concedes cheapness; L61 "second-order question" eliding irreducible-to-physical from non-physical-property) and 2 narrow routing/citation gaps (enactivist sense-making unnamed as a third naturalist normativity account on the concept page; Kammerer 2022 absent from `cognitive-phenomenology` §The Illusionist Challenge — Crossref-exact, 8 live citations elsewhere, 0 there)
+- **Tasks generated**: 1 (P2 refine-draft `concepts/cognitive-phenomenology`, fenced against the false site-level illusionism charge). **Folded, not minted** (same-file pileup avoided — [[outer-review-same-file-task-pileup]]): topic loci L51/L59/L61 as an addendum on the open ChatGPT P2 cross-review of `topics/pragmatisms-path-to-dualism` (net ≤ 0 still binds); enactivist clause + piped routing link to the illusionist section as riders on the open Claude P2 on `concepts/pragmatism`; corroboration bullet on the open ChatGPT P1; cross-service re-raise recorded on `NEEDS-HUMAN (methodology ratification) 2026-09-02`
+- **Convergence**: Dewey **3/3**; James 1904 countertrajectory 2/3 (ChatGPT concept L52 + Gemini topic L61); strong van Fraassen reading on the topic article 2/3 (ChatGPT L167 + Gemini L51); phenomenology-≠-authority distinction 2/3 (ChatGPT P1 item 3 + Gemini); §Maxim Turned Inward status demand 2/3 (Claude + Gemini). Enactivism, illusionism, synechism and QBism/Healey charges are singletons, each false at the level stated
+- **Novelty**: no harvest-eligible subjects; two citation-and-routing installs on existing articles
+- **Published**: no (driver commits; Chrome left running for the driver to stop)
 
 ## 2026-09-15T04:26:00+00:00 - outer-review
 - **Status**: Success
