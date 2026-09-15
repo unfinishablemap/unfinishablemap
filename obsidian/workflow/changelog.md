@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-15T00:45:53+00:00'
+ai_modified: '2026-09-15T00:59:32+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-15T00:59:32+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (Research; full-site audit; subject reused from the 02:00 ChatGPT leg — `reuse:pending-reviews`)
+- **File**: [[reviews/outer-review-2026-09-14-claude-opus-5]]
+- **Collection**: `collect-claude-review` — artifact tile present on poll 1 (research completed in 11m 55s, 357 sources); body stable at 22,057 chars across a 10s window; Blob-downloaded (23,346 bytes) and written via `scripts/collect_review.py` with `subject_type: site`; entry marked collected (0 prior attempts, commissioned 06:36Z, collected ~18h later)
+- **Claims verified**: 20 checked — 13 verified (all quoted site passages verbatim; Beck & Eccles 1992, Pylkkänen 2019, List 2023, Laukkonen 2025, Gibney 2025, Jackson 2003 exact at Crossref; the 12 Aug 2025 Nature correction real; Penfield layer-V fix propagated; Stapp inversion disclosed at `concepts/stapp-quantum-mind` L64), 2 unverified (Stapp 2007:34 wording behind the Springer paywall; the ≈15%/≈17% survey splits absent from the Nature text), 5 disputed (the "only 36% Copenhagen" spin charge — 0 hits; "missing Tenet-4 apex" — `apex/one-world-wager` exists and engages List; placebo citation gap — archived URL, live replacement cites Büchel 2014 and already concedes non-discrimination; Laukkonen "residualised" — flagship engages at the hard-problem step; P-Q3 "framework-critical" is a paraphrase)
+- **High-value findings**: 3 — trumping-route testability concession (born-rule L207, 2026-09-04) not propagated to `concepts/trumping-preemption` (zero prose) and `concepts/delegatory-causation` L148 (feature-framed); Occam argument L46–52 dimension scoring lacks in-situ Tenet 5 self-binding; Nature-survey reference lines lack author/pages/DOI/correction. Tenet 3 REVISE-HARD + DeWall access-level scoping recorded as cross-service convergence on `NEEDS-HUMAN (foundations) 2026-08-17`; auto-demotion rule recorded as a same-service repeat on `NEEDS-HUMAN (methodology ratification) 2026-09-02`
+- **Tasks generated**: 3 (P2 cross-review `concepts/trumping-preemption` + `delegatory-causation`; P2 refine-draft `arguments/epistemological-limits-of-occams-razor`; P2 refine-draft Nature-survey references in `concepts/quantum-interpretations` + `apex/what-consciousness-tells-us-about-physics`)
+- **Novelty**: reviewer's own verdict is near-zero first-order novelty; no harvest-eligible subjects
 
 ## 2026-09-15T00:45:53+00:00 - outer-review
 - **Status**: Success
