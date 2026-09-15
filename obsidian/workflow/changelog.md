@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-14T23:03:58+00:00'
+ai_modified: '2026-09-15T00:02:38+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-15T00:02:38+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the exclusion / mental-causation wing — 10 articles, 29,901 body words (`causal-exclusion-argument`, `causal-closure-debate-historical-survey`, `conservation-laws-and-mental-causation`, `mental-causation-and-downward-causation`, `overdetermination-dissolution-under-selection-only-interactionism`, `content-specificity-of-mental-causation`, `evolutionary-case-for-mental-causation`, `constitution-vs-causal-work`, `pain-consciousness-and-causal-power`, `quiddity-epiphenomenalism-and-the-contingency-thesis`), read in full on disk; 11 spine files consulted. Three members were last optimistic-reviewed 2026-07-27 (all modified since); that review's five items and four table rows were audited — five discharged, two cross-link rows still open. Findings: (1) `evolutionary-case` L188 "Heyes (2018)" carries Dunstone & Caldwell's title (Crossref DOI record: authors Dunstone, Caldwell; *Palgrave Communications* 4, 145) — certified by four deep reviews, one of which installed the name into the body; same file, Lacalli 2024 quote drops ", though memory," (Frontiers full text) and L153 asserts "no such explanation has been proposed" while L75 presents the co-optimization reply; (2) the pain page states the causal-work reading unhedged at L142/L154/L160, 0 hits for "constitution", absent from the discipline page's deployer catalogue — the wing's one Process/Empiricist conflict; (3) premise numbering diverges between the canonical five-commitment page and the four-premise dissolution page, with 0 links dissolution→exclusion and causal-closure→exclusion. Verified verbatim: James 1890 (Gutenberg), Georgiev 2024 (Europe PMC XML), Carroll 2011; 28 references exact on Crossref. Carried: no closure position in the register (both candidate homes over hard); two `hard_warning` members with no condense task. No new-page opportunity (Active region 77 open pending; concepts 326/360, topics 328/360). Every wikilink in the report resolved through `build_content_index`.
+- **Output**: [[reviews/optimistic-2026-09-14-exclusion-mental-causation-wing]]
+- **Tasks generated**: 3 (P3 refine-draft: evolutionary-case reference/quote/contradiction; pain-page calibration + discipline catalogue; premise-numbering reconciliation + the two 07-27 cross-link rows)
 
 ## 2026-09-14T23:19:48+00:00 - refine-draft
 - **Status**: Success
