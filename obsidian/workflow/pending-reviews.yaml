@@ -94,9 +94,9 @@
   commissioned_at: '2026-09-15T02:06:20.803044+00:00'
   prompt_summary: 'Audit concepts/pragmatism: citations, counterarguments, tenet bracketing'
   target_filename: outer-review-2026-09-15-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-15T03:50:06.777285+00:00'
   failure_reason: null
   prompt_text: 'You are an external referee auditing one article on The Unfinishable
     Map, a dualist philosophy site at https://unfinishablemap.org. The article is

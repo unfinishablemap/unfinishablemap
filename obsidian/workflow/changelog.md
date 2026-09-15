@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-15T03:36:08+00:00'
+ai_modified: '2026-09-15T03:57:17+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-15T03:57:17+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`), subject audit of `concepts/pragmatism` (subject_type: recent, source fallback:recent-aged; commissioned 02:06Z, collected 03:49Z via js-dom, 24,735-char inline body, SHA-256 `1fcce749…ebac` matched on disk)
+- **File**: [[reviews/outer-review-2026-09-15-chatgpt-5-6-sol-pro]]
+- **Claims verified**: 9 verified against raw primary texts (Dewey *Logic* OCR, James 1907 Gutenberg, James 1904, Peirce 1878, Rorty 1980 PDF, Putnam 1981 PDF, plus four on-disk checks), 2 disputed (the "warranted assertibility" terminology charge — Dewey uses both terms and says he prefers "warranted assertion"; the reflexive-methodology page already makes the bridge-premise distinction at L61), 2 unverified (van Fraassen 1977 not in Crossref/OpenAlex; Human Immortality "dignity" provenance)
+- **High-value findings**: 4 — Dewey section reverses his explicit anti-mentalism (convergent with pessimistic-2026-08-03, never tasked); the 08-03 Rorty "internal edge" is answered from within Rorty's vocabularies; Brandom/Price subject-naturalist replies unengaged (0 corpus hits for "subject naturalism"); No-Many-Worlds absent from the concept page's tenet section while the sibling's L167/L169 keep the strong forms in an article measuring 4040 vs topics hard 4000
+- **Tasks generated**: 4 (P1: 1 on `concepts/pragmatism` with the direct-refutation remit; P2: 3 — the concept page's calibration bundle, a length-negative cross-review on `topics/pragmatisms-path-to-dualism`, and a Discipline Two extension in `project/quantum-claim-and-quotation-disciplines` for argumentative-role fidelity and trajectory checks). Declined: provenance labels (label leakage), claim-strength sync (the existing grep sweeps), contrary-passage search (disconfirming-source rule), live-objection ledger (register "Would shift if"), model-diverse review (the pipeline itself)
+- **Sync**: not run — review/todo/changelog only; the driver's pre-push sync carries them. Commit left to the driver.
 
 ## 2026-09-15T03:36:08+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline — no merge performed; the steady-state outcome, now confirmed from a SEVENTH independent direction — the one the 09-14 run named as the last un-walked combination)
