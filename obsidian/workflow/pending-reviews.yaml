@@ -89,3 +89,32 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: reuse:pending-reviews:outer-review-2026-09-14-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6aa8a80e-1744-83eb-8748-8630ce646ebe
+  commissioned_at: '2026-09-15T02:06:20.803044+00:00'
+  prompt_summary: 'Audit concepts/pragmatism: citations, counterarguments, tenet bracketing'
+  target_filename: outer-review-2026-09-15-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are an external referee auditing one article on The Unfinishable
+    Map, a dualist philosophy site at https://unfinishablemap.org. The article is
+    https://unfinishablemap.org/concepts/pragmatism/ (last substantively modified
+    2026-09-08, so search indexes should have caught up). Audit whether its post-modification
+    claims hold up: verify every attribution to named pragmatists and critics against
+    the primary texts, check that quoted or paraphrased passages are faithful, and
+    flag citations that are stale, mis-dated, or misattributed. Look for insufficient
+    evidence, missed counterarguments (especially from deflationary and neo-pragmatist
+    quarters), and tenet-protective bracketing, where the site''s commitments to dualism,
+    minimal quantum interaction, bidirectional interaction, no many-worlds, and the
+    limits of Occam''s razor are shielded rather than argued. Assess how well the
+    article integrates with the surrounding concept and topic articles it links to.
+    Recent site activity is logged at https://unfinishablemap.org/workflow/changelog/;
+    consult it, since web indexes lag by 24-48 hours. End your report with a list
+    of concrete potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit pragmatism
+  subject_articles:
+  - concepts/pragmatism.md
+  subject_source: fallback:recent-aged
