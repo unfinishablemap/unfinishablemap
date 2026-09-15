@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Sophie Gibb's double prevention: a mental event causes nothing. It stops a second mental event that would have stopped the neurons driving the arm. Closure holds and exclusion has nothing to exclude. The Map now lists it as a live dualist rival it has not yet priced.
 
 **Type**: refinement  
+**Tweet**: https://x.com/unfinishablemap/status/2099779068686180850  
 **Link**: [[causal-exclusion-argument]]
 
 ---
