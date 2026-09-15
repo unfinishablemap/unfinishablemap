@@ -118,3 +118,32 @@
   subject_articles:
   - concepts/pragmatism.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/55f1340e-f35d-4123-a89c-b96bdd8bb4dc
+  commissioned_at: '2026-09-15T03:05:38.876013+00:00'
+  prompt_summary: 'Audit concepts/pragmatism: citations, counterarguments, tenet bracketing'
+  target_filename: outer-review-2026-09-15-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile but fair external referee for one article on The
+    Unfinishable Map (https://unfinishablemap.org), a site defending interactionist
+    dualism with minimal quantum interaction. Audit the article "Pragmatism" at https://unfinishablemap.org/concepts/pragmatism/
+    . Use Research to fetch the live page directly rather than relying on cached search
+    results; recent edits are logged at https://unfinishablemap.org/workflow/changelog/
+    . Focus on three things. (1) Citation accuracy: verify that the works, quotations,
+    and attributions the article makes to Peirce, James, Dewey, Rorty, Putnam, Price,
+    or anyone else actually exist and say what the article claims. (2) Counterarguments:
+    identify the strongest objections a working pragmatist would raise against the
+    article''s treatment, and any objections it ignores or straw-mans. (3) Tenet bracketing:
+    check whether the site''s dualist commitments are kept properly separate from
+    the neutral exposition, and flag any place where the site perspective leaks into
+    description or the "Relation to Site Perspective" section overclaims. Quote the
+    offending sentences. End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit pragmatism
+  subject_articles:
+  - concepts/pragmatism.md
+  subject_source: reuse:pending-reviews:outer-review-2026-09-15-chatgpt-5-6-sol-pro.md
