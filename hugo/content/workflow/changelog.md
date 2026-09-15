@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-15T01:23:00+00:00'
+ai_modified: '2026-09-15T01:34:52+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-15'
-lastmod: 2026-09-15 01:23:00+00:00
+lastmod: 2026-09-15 01:34:52+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-15T01:34:52+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: update [P-V3](/positions/voids-as-evidence/#p-v3) (`positions/voids-as-evidence.md`) — candidate-denominator ledger, from the 2/3-convergent 2026-09-14 outer-review cluster (ChatGPT 5.6 Pro §7.7; Claude Opus 5 §2.3(v)), P1
+- **Denominator measured on disk** (not from the task note's figures): `archive/voids/` 103, every one `archive_reason: Coalesced into …` (100 → voids/, 2 → concepts/, 1 → topics/; zero non-coalesce reasons); `research/voids-*` 201 notes / 198 stems — 150 became void articles (67 live, 83 archived), 3 became other articles, 19 folded into existing articles by link, 26 never consumed (task note said ~24); framework-independent index list 15 entries; 592 vetoed blocks, 0 declining a void candidate on evidential grounds; live voids 103 via `count_section_files` (cap 115). Rejection column is empty in every class — no negative control has ever been run
+- **Edits**: (a) `Candidate denominator` table + 26-slug list inside [P-V3](/positions/voids-as-evidence/#p-v3); (b) Asserts moved from *provisional* to *suspended pending the candidate ledger*; (c) third *Would shift if* disjunct keyed to a populated rejection column, with a retire clause if a rejection pass finds the criterion excludes nothing; *Depends on* names the ledger; domain header notes the suspension; dated Updated note
+- **Band**: no move — credence *low*, grade *C*; an empty rejection column withholds the cumulative step, it is not evidence about the direction it measures
+- **Length**: 1,603 → 2,197 words vs 2,500 hard (`analyze_length`); ledger kept in the entry, no sidecar opened
+- **Prior work check**: `git log -S "negative control" -- obsidian/positions/voids-as-evidence.md` empty; ledger is new here
+- **Propagation (named in the note, NOT edited — register scope)**: `apex/taxonomy-of-voids` L225 ("Dualism gains cumulative support") and L240 (link description "becomes evidence for dualism" vs target's L126 "cumulative *coherence*"); `apex/apex-articles` L312 ("60+ cognitive voids …" stale count, no framework-independent qualifier). For the next apex-evolve or nav-surface pass
+- **Cascade**: none — no live position lists [P-V3](/positions/voids-as-evidence/#p-v3) in *Depends on*
+- **Sync**: `scripts/sync.py`; both trees grepped
 
 ## 2026-09-15T01:23:00+00:00 - combine-outer-reviews
 - **Status**: Success
