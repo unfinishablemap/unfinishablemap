@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-19
-ai_modified: 2026-06-19 05:42:22+00:00
+ai_modified: 2026-09-15 06:48:04+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts: []
 created: 2026-06-19
-date: &id001 2026-06-19
+date: &id001 2026-09-15
 description: 'Two disciplines surfaced by the 2026-06-19 brain-specialness outer-review
   triple: a mechanism-variance audit for any claim leaning on quantum-consciousness
   machinery, and a quote-string-fidelity check distinct from reference-metadata verification,
@@ -14,7 +14,7 @@ description: 'Two disciplines surfaced by the 2026-06-19 brain-specialness outer
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-06-19 05:42:22+00:00
+lastmod: 2026-09-15 06:48:04+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -72,6 +72,15 @@ These two are recorded together because both extend the citation-integrity pipel
 
 Check (c-ii) shares Audit Four check (b)'s bounded external-lookup budget; its mechanical surface is the same quoted-span detection as (c-i). A failure routes to the same P1 `refine-draft` as the other citation-integrity checks, with the corrective being an exact located quote or a downgrade to unmarked paraphrase. This is a hard defect of the same class as wrong metadata: it misrepresents what the source said in the source's own voice. It is the verbatim-string companion to the *concept-provenance* failure [writing-style](/project/writing-style/) catalogues (the Saad observational-closure graft, where the term is the author's but the concept attributed is the Map's own) — both are cases where metadata is clean but the article's representation of the source is not.
 
+### Argumentative-role fidelity and the trajectory check
+
+The 2026-09-15 outer-review cycle on [pragmatism](/concepts/pragmatism/) (ChatGPT 5.6 Pro improvements 21 and 25; Claude convergent on 25) surfaced the residue that passes all three checks above. The article's Dewey citation was metadata-correct, unquoted and undrifted — yet it recruited *Logic* (1938) for a felt-sense-as-constitutive inference the cited chapter explicitly rejects ("Stating that it is felt is wholly misleading if it gives the impression that the situation is … anything mentalistic"), and it presented Putnam's 1981 internalism and James's 1898 filter argument as settled endpoints their authors later left (Putnam's 1994 natural realism; James's 1904 "the name of a nonentity"). All three were repaired the same day; they are the worked case, not live defects. A ledger recording only (b), (c-i) and (c-ii) passes such an article cleanly while carrying the co-optation.
+
+- **(c-iii) argumentative-role-faithful** — for every source recruited *in support of* a Map claim, confirm that the cited passage's target, direction and role in the author's own argument match the role the article gives it. A source that argues *against* the use made of it is a hard defect of the same class as wrong metadata even when every string is faithful. The corrective is the three-move reconstruction the Dewey repair used — the author's own position, the Map's objection, the author's likely reply — in the register [direct-refutation-discipline](/project/direct-refutation-discipline/) specifies.
+- **Trajectory check** — a scoping rule for (b): for any thinker whose position changed materially (James, Putnam, Wittgenstein and Chalmers are the standing cases), a citation to one phase must say which phase it is, and the disconfirming-source rule below extends to the author's *own later* disconfirmation.
+
+(c-iii) is the argument-grain sibling of the disconfirming-source rule: that rule requires the strongest disconfirming *source* be cited; this requires that the *cited* source not itself be the disconfirmer. It is the citation-pipeline name for the author-stance-direction gate [evidential-status-discipline](/project/evidential-status-discipline/) already states; the addition is that it joins the [calibration-audit-triple](/project/calibration-audit-triple/) Audit Four check list as a separately-recorded pass and fires on every supporting source, not only out-of-camp and commentator sources.
+
 ### Disconfirming-source inclusion
 
 The brain-specialness boundary cited four friendly sources (Jahn & Dunne 2005, Nelson et al. 2002, Park 2000, Stapp 2007) and a popular-science book for the criticism, while omitting the single most-cited skeptical meta-analysis (Bösch, Steinkamp & Boller 2006) and the large Bayesian null study (Maier, Dechamps & Pflitsch 2018). Both reviewers independently flagged this as "a one-sided evidence base presented as 'the empirical record.'"
@@ -94,7 +103,7 @@ One proposal is a **single-reviewer (ChatGPT) singleton**, recorded but not prom
 
 ## Relation to Site Perspective
 
-Both disciplines protect the same commitment: that the Map's claims are calibrated to what the catalogue actually has, not to what the tenets allow. Discipline One prevents a tenet-congenial conclusion from inheriting unearned confidence by riding a single fragile mechanism; Discipline Two prevents a contested empirical record from looking settled by omitting its strongest disconfirmer or by quoting a source inexactly. Neither weakens the Map's positions — they keep the positions honestly stated, which is what makes the framework's anti-parsimony stance ([Tenet 5](/tenets/#occams-limits)) a discipline rather than a shield.
+Both disciplines protect the same commitment: that the Map's claims are calibrated to what the catalogue actually has, not to what the tenets allow. Discipline One prevents a tenet-congenial conclusion from inheriting unearned confidence by riding a single fragile mechanism; Discipline Two prevents a contested empirical record from looking settled by omitting its strongest disconfirmer, by quoting a source inexactly, or by recruiting a source for an inference its own argument rejects. Neither weakens the Map's positions — they keep the positions honestly stated, which is what makes the framework's anti-parsimony stance ([Tenet 5](/tenets/#occams-limits)) a discipline rather than a shield.
 
 ## Further Reading
 

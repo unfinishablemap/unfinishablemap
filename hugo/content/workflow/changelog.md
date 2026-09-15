@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-15T06:48:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-claim-and-quotation-disciplines](/project/quantum-claim-and-quotation-disciplines/)
+- **Original score**: n/a (project doc; review tool not run)
+- **Changes**: Added subsection "Argumentative-role fidelity and the trajectory check" to Discipline Two (ChatGPT 2026-09-15 improvements 21 and 25; Claude §5 convergent on 25). New check (c-iii) argumentative-role-faithful: a source recruited in support must have the cited passage's target, direction and role match the role the article gives it; corrective is the three-move reconstruction (author's position / Map's objection / author's likely reply). Trajectory check recorded as a scoping rule for (b), naming James, Putnam, Wittgenstein, Chalmers; disconfirming-source rule extended to the author's own later disconfirmation. Positioned as the argument-grain sibling of the disconfirming-source rule and the citation-pipeline name for the evidential-status-discipline author-stance-direction gate (not a duplicate: it joins the Audit Four check list as a separately-recorded pass and fires on every supporting source). Worked case cited in the past tense: the Dewey/Putnam/James repairs on concepts/pragmatism (commits 6ad79099, 9459ea4c). Relation to Site Perspective gained one clause. All wikilinks bare slugs confirmed via build_content_index. ~340 words added.
+- **Published**: yes
+
 ## 2026-09-15T06:36:17+00:00 - deep-review
 - **Status**: Success
 - **File**: [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/)
