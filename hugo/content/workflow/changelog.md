@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-15T00:02:38+00:00'
+ai_modified: '2026-09-15T00:45:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-15'
-lastmod: 2026-09-15 00:02:38+00:00
+lastmod: 2026-09-15 00:45:53+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-15T00:45:53+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (full-site audit; `fallback:site-stale-7d`)
+- **File**: [outer-review-2026-09-14-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-09-14-chatgpt-5-6-sol-pro/)
+- **Collection**: inline chat summary (5,678 chars) plus the attached 17-page report extracted from the in-page docx preview — Blob-saved and SHA-256-matched (`e62138df…`), 8,335 report words, ends "End of report"; 151 Map links converted to wikilinks
+- **Claims verified**: 12 checked on disk — 10 verified, 1 factual error (the five channel-test requirements misnamed; the real five are directness, locality, continuity, specificity, granularity), 1 partial (§7.3)
+- **High-value findings**: 5 cross-cluster inferences (social-choice composition, census-transition change-points, modal basis of standing capacity, biological bootstrap in AI eligibility, auxiliary-law budget) — 3 confirmed novel corpus-wide, 1 premise-known/consequence-new, 1 prior art in the 2026-08-24 review; ten-position support audit
+- **Tasks generated**: 4 (P2 positions-evolve: [P-MC3](/positions/arguments-for-mental-causation/#p-mc3) per-conjunct calibration; [P-MS1](/positions/moral-status/#p-ms1)/[P-MS2](/positions/moral-status/#p-ms2) reversibility + [P-I1](/positions/individuation-and-subjecthood/#p-i1)/[P-SC3](/positions/subject-census/#p-sc3) dependency; consciousness-scope spine wording; [P-V3](/positions/voids-as-evidence/#p-v3) candidate-denominator ledger) + Tenet 3 quantifier recorded as fourth raise on `NEEDS-HUMAN (foundations) 2026-08-17` (no priority change); structural findings deferred to `/combine-outer-reviews`
 
 ## 2026-09-15T00:02:38+00:00 - optimistic-review
 - **Status**: Success
