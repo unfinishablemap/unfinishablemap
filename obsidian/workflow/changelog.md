@@ -4,6 +4,16 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-15T01:34:52+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-15T02:34:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/dualist-perception]]
+- **Word count**: 3812 → 3815 (+3)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (apex case count "six" → eight `apex_sources` acknowledged; proprioception spoke linked from the hub via piped wikilink)
+- **Enhancements made**: 1 (source-fidelity check of the 2026-09-14 §Beyond the Visual insertion: interoceptive, thermal, apex clauses all verified faithful)
+- **Engagement classification**: unchanged — blindsight reply Mode Two; explanatory-gap reply Mode Three; naturalist-relationalism Mode Three; no named opponent in the new sentences
+- **Output**: [[reviews/deep-review-2026-09-15-dualist-perception]]
 ## 2026-09-15 02:28 UTC - research-topic
 - **Status**: Success
 - **Topic**: The psychophysical social-choice problem: composition rules for selection across subjects with incompatible intentions or valences
