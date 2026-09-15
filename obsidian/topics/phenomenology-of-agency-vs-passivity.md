@@ -4,7 +4,7 @@ description: "The felt contrast between doing and undergoing reveals a fundament
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-09-07T11:50:14+00:00
+ai_modified: 2026-09-15T07:47:46.077823+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -49,9 +49,20 @@ ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-02-09
 last_curated:
 last_deep_review: 2026-07-17T23:47:40+00:00
+embedded_videos:
+  - id: 2zsa5sXM7Hg
+    url: https://www.youtube-nocookie.com/embed/2zsa5sXM7Hg
+    embedded: 2026-09-15T07:47:46.077823+00:00
+    source: notebooklm/0137-01-phenomenology-of-agency-vs-passivity
 ---
 
 Every moment of experience falls somewhere on an axis between doing and undergoing. Lifting your arm feels different from having it lifted. Directing attention to a problem feels different from being startled by a noise. Choosing your words feels different from hearing someone else speak. This phenomenological contrast—between agency and passivity—is among the most basic features of conscious life, and accounts that treat consciousness as causally inert must accommodate it as a regularity rather than predict it. The Unfinishable Map's framework, in which consciousness genuinely selects among physical possibilities, predicts exactly this contrast: agency feels different from passivity because agency *is* different—it involves conscious causal contribution that passivity lacks.
+
+<details class="yt-embed" data-video-id="2zsa5sXM7Hg">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/2zsa5sXM7Hg">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Two Poles
 
