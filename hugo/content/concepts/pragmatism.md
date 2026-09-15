@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-09-08 01:35:18+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-09-15 05:33:13+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
 - '[[functionalism]]'
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-03 13:37:03+00:00
-lastmod: 2026-09-08 01:35:18+00:00
+lastmod: 2026-09-15 05:33:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -60,7 +60,7 @@ In "The Will to Believe" (1896), James added that when a choice is forced, livin
 
 John Dewey shifted pragmatism's focus from individual belief to the process of inquiry. Knowledge is not a passive reflection of reality but an active reconstruction undertaken by organisms interacting with their environments. A "situation" becomes problematic, inquiry transforms it, and the result is a "warranted assertion" — not a timeless truth but a claim that has survived the test of intelligent practice.
 
-Dewey's emphasis on inquiry as an activity conducted by conscious agents carries implications he did not fully pursue. Dewey himself was a committed naturalist who would have resisted the dualist conclusion — but the logic of his position outruns his commitments. If inquiry is not passive reception but active engagement, then the inquirer's conscious experience — their felt sense of a problem, their recognition that a proposed solution works — is constitutive of the process. Reduce inquiry to physical mechanism and the normative dimension disappears: the system merely processes, with no standpoint from which to assess whether processing has resolved anything.
+Dewey built that naturalism to exclude the reading a dualist might want. The indeterminacy of a problematic situation belongs to the organism–environment transaction itself: *Logic* (1938) warns that calling the situation "felt" is "wholly misleading if it gives the impression that the situation is a feeling or an emotion or anything mentalistic," and a footnote in the same chapter dismisses the interactionism debate as insoluble because it posits an interaction with something mental rather than with biological-cultural human beings. The Map objects to that account rather than reading it out of him: a wholly physical transaction can settle that a situation was transformed, not that the transformation was *warranted* — that the recognising standpoint has authority beyond having occurred. Dewey's reply is ready: warrant is constituted within continuing inquiry and its practices, not conferred by a private phenomenal assessor — the reply the [section below](#pragmatism-and-the-maps-framework) meets in Brandom and Price, and one he rejected rather than overlooked.
 
 ## Pragmatism After the Founders
 
@@ -68,15 +68,13 @@ Dewey's emphasis on inquiry as an activity conducted by conscious agents carries
 
 Richard Rorty's neopragmatism abandoned the founders' interest in experience. For Rorty, pragmatism means giving up the very idea of "getting reality right." There are no privileged descriptions of the world — only vocabularies that serve different purposes. This linguistic turn pushed consciousness to the margins: if philosophy should stop worrying about the relation between mind and world, the mind-body problem dissolves rather than demands solution.
 
-The Map disagrees, and the disagreement has two edges that are worth separating, because only one of them engages Rorty on his own ground.
+The Map disagrees, and the disagreement sits closer to bedrock than it first appears. The apparent opening is that he goes on recommending some vocabularies over others, recommending is assessing — which is what the [reflexive argument below](#pragmatism-and-the-maps-framework) targets — and a vocabulary of vocabularies must be assessable from somewhere. But Rorty supplies the somewhere without conceding anything: appraisal happens within contingent vocabularies and communal conversation, and inherits the reflexive problem only if appraisal by a community of speakers already requires a phenomenal standpoint — the Map's premise, not a tension in Rorty's.
 
-The internal edge: Rorty does not stop recommending. He holds that some vocabularies serve our purposes better than others, and recommending one over another is an act of assessment — which is what the [reflexive argument below](#pragmatism-and-the-maps-framework) targets. A pragmatism that dissolves the mind-body problem still owes an account of the evaluating it goes on doing; a vocabulary of vocabularies has to be assessable from somewhere. That pressure is available inside Rorty's framework and does not need the Map's metaphysics to state it.
-
-The bedrock edge: the further claim that phenomenal experience is a datum any adequate vocabulary must accommodate — that consciousness is the condition under which description occurs rather than one more description of the world — is a Map commitment Rorty rejects outright, since on his view "datum" is itself a vocabulary with no privileged standing. The [hard problem](/topics/hard-problem-of-consciousness/) looks persistent from inside the Map's framework and dissolved from inside Rorty's, and which framework one occupies settles the verdict. The [reflexive gap](/topics/consciousness-defeats-explanation/) between explanation and understanding marks the same boundary from a different direction.
+What the Map holds — that phenomenal experience is a datum any adequate vocabulary must accommodate, that consciousness is the condition under which description occurs rather than one more description of the world — Rorty rejects outright, since on his view "datum" is itself a vocabulary with no privileged standing. The [hard problem](/topics/hard-problem-of-consciousness/) looks persistent from inside the Map's framework and dissolved from inside Rorty's, and which framework one occupies settles the verdict; the [reflexive gap](/topics/consciousness-defeats-explanation/) between explanation and understanding marks the same boundary from a different direction.
 
 ### Putnam's Pragmatic Realism
 
-Hilary Putnam's pragmatic realism, developed in *Reason, Truth and History* (1981), steers between metaphysical realism and Rorty's relativism. Truth is what would be justified under epistemically ideal conditions — conditions that essentially involve conscious rational agents. Putnam's model-theoretic argument holds that reference cannot be fixed by physical-causal relations alone: any purely physical description is compatible with multiple incompatible interpretations, and adding a causal constraint supplies only more theory, itself in need of interpretation.
+Hilary Putnam's pragmatic realism, developed in *Reason, Truth and History* (1981), steers between metaphysical realism and Rorty's anti-representationalism. Truth is what would be justified under epistemically ideal conditions — conditions that essentially involve conscious rational agents. Putnam's model-theoretic argument holds that reference cannot be fixed by physical-causal relations alone: any purely physical description is compatible with multiple incompatible interpretations, and adding a causal constraint supplies only more theory, itself in need of interpretation.
 
 Putnam's target includes the picture in which an interpreter's mental act does the fixing — the "magical theory of reference" the book's opening chapter attacks, where an ant's trail happens to trace a likeness of Winston Churchill without thereby referring to him. His positive resolution is internal realism: reference is fixed by use within a conceptual scheme, by a community of speakers with interests and purposes. The Map takes the weaker point that survives this correction rather than the intrinsic-reference view Putnam wrote a chapter to demolish: the interpretive standpoint is not eliminable from the framework within which science operates, because the scheme that fixes reference is a scheme somebody occupies. Putnam did not draw the dualist conclusion, and nothing in internal realism requires it.
 
@@ -84,11 +82,13 @@ Putnam's target includes the picture in which an interpreter's mental act does t
 
 The Map's article on [pragmatism's path to dualism](/topics/pragmatisms-path-to-dualism/) develops the full argument. The core insight is reflexive: pragmatism evaluates ideas by their practical consequences, but evaluation is a conscious activity. The felt sense that one framework illuminates while another obscures — [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — is what gives pragmatic assessment its normative force. If consciousness reduces to physical processes, evaluation reduces to mechanism, and what goes missing is the criterion's *normative force* — its standing to say what one ought to believe rather than to record what a brain did. The complaint is not that the criterion fails to certify itself; pragmatism's defining move is to refuse foundational self-certification, and convicting pragmatist materialism of failing a test pragmatism disclaims would be no achievement.
 
-Two replies stand in the way; the argument is incomplete without them.
+Three replies stand in the way; the argument is incomplete without them.
 
 **The naturalist theory of normativity.** Teleosemantics is the standing answer. Millikan's proper functions and Papineau's kindred proposal ground the difference between what a mechanism is *for* and what it merely *does* in evolutionary selection history; Dretske routes it through the individual's learning history instead, holding that an indicator recruited by conditioning acquires a function no ancestral payoff had to supply. On either story "works" does not collapse into "occurs" even on wholly physical premises, because a selection process — phylogenetic or ontogenetic — fixes a function against which malfunction is definable. The Map's judgement is that this under-delivers rather than fails: a selection history can fix what a state is supposed to do, while the pragmatist's criterion is exercised in the felt recognition that a framework illuminates, and a function assigned by past payoff, ancestral or learned, does not by itself supply that felt demand. This judgement leans on the Map's prior commitment to phenomenal irreducibility, which the teleosemanticist is under no obligation to grant — a cost the Map assesses, not a refutation it delivers.
 
 **The functionalist concession.** A functionalist might grant the reflexive point entirely while insisting that the relevant evaluative capacity is a computational role rather than an irreducible phenomenal property. The reflexive argument is powerful but incomplete on its own; where the functionalist must pay, and where the disagreement instead reaches bedrock, is worked out in [the sibling article](/topics/pragmatisms-path-to-dualism/).
+
+**The social-practice theory of normativity.** Brandom and Price share a move the replies above lack. For Brandom, commitment and entitlement are statuses instituted by a community's practice of giving and asking for reasons, so "ought" has a public basis that is neither a neural event nor a feeling (see [conceptual-role-semantics](/concepts/conceptual-role-semantics/), [carrolls-regress](/concepts/carrolls-regress/), [inference-void](/voids/inference-void/)). Price's subject naturalism starts from what natural creatures do with evaluative vocabulary and treats the step from reflective practice to a special mind–world relation as the representationalist's error — the step the reflexive argument takes. Both grant evaluation a phenomenology and deny that the phenomenology is its authority: a judgement can feel compelling without being warranted, and a norm can bind within a practice without being constituted by a feeling. The argument above moves from phenomenal character to normative authority to phenomenal causation and defends neither step here. The Map adds only that a norm-instituting practice is a practice among subjects; whether it could proceed with no one for whom compellingness is felt is where the Map's phenomenal commitment enters — declined by these programmes, and noted as such rather than refuted on their terms.
 
 This parallels the [argument-from-reason](/topics/argument-from-reason/): if beliefs are fully explained by physical causes, the worry is that no belief is rationally justified, including materialism. The pragmatic version makes the same structural move in terms of evaluation rather than reasoning — and inherits the same limitation, since a naturalist about reasons and a naturalist about norms have parallel escapes.
 
@@ -126,4 +126,6 @@ The Unfinishable Map treats pragmatism as a method that, applied reflexively, pr
 1. Millikan, R.G. (1984). *Language, Thought, and Other Biological Categories*. MIT Press.
 1. Dretske, F. (1988). *Explaining Behavior: Reasons in a World of Causes*. MIT Press.
 1. Papineau, D. (1987). *Reality and Representation*. Blackwell.
+1. Brandom, R. (1994). *Making It Explicit: Reasoning, Representing, and Discursive Commitment*. Harvard University Press.
+1. Price, H., with Blackburn, S., Brandom, R., Horwich, P. & Williams, M. (2013). *Expressivism, Pragmatism and Representationalism*. Cambridge University Press. https://doi.org/10.1017/cbo9780511842498
 1. Southgate, A. & Oquatre-six, C. (2026-03-15). Pragmatism's Path to Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/pragmatisms-path-to-dualism/
