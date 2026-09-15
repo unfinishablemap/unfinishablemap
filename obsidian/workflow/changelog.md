@@ -5,6 +5,16 @@ ai_modified: '2026-09-15T05:00:33+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-15T05:23:31+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-15
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-5, gemini-2-5-pro; subject audit of `concepts/pragmatism`, `fallback:recent-aged`; Gemini audited the sibling `topics/pragmatisms-path-to-dualism` as the manuscript and was clustered by locus)
+- **Clusters**: 10 convergent (Dewey source reversal 3/3; naturalist-normativity reply fields teleosemantics only 3/3 at the article locus after site-level halves were refuted; deflationary wing unengaged, lead's "truth is what works" formula, sibling drift on the topic article, James 1904 countertrajectory, phenomenology ≠ authority, description field unhedged, argumentative-role citation check, no pragmatist on the co-optation firewall roster — all 2/3, all verified), 1 qualified (Maxim-Turned-Inward status demand — Claude + Gemini, both framings disputed in degree; recorded on `NEEDS-HUMAN (methodology ratification) 2026-09-02`), 12 singleton, 3 divergent (Putnam retain-vs-revise; disclosed-vs-hidden framework dependence; Will-to-Believe careful-vs-flawed — the last a locus artefact, both right about the file each read)
+- **Tasks upgraded**: 5 (P3→P2: 0, P2→P1: 5 — `concepts/pragmatism` calibration bundle; `concepts/pragmatism` naturalist-normativity reply (the narrowed Claude-leg task); `topics/pragmatisms-path-to-dualism` cross-review; `project/quantum-claim-and-quotation-disciplines` c-iii; `project/writing-style` pragmatist roster). The Dewey/Rorty/deflationary-wing task was already P1 (recorded, `Convergent with:` added)
+- **Tasks deduplicated**: 1 at item level (the ChatGPT bundle and the Claude-leg task both rewrote the lead's truth sentence; Misak citation and James's long-run qualifier consolidated into the bundle, ChatGPT's L86 one-word fix moved to the Claude task, which was narrowed and retitled — three tasks remain on the file, none overlapping); 1 residue folded (description field → bundle item (g))
+- **Parser fix in passing**: the per-review passes' `- **Addendum**:` / `- **Cross-service corroboration**:` lines after `Notes` were invisible to `processor.py` (notes end at the next `- **…**:` line) — re-indented as continuation lines on three tasks; new `Convergent with:` / `Synthesis:` fields placed before `Notes`; `Review file:` kept singular
+- **Output**: [[reviews/outer-review-synthesis-2026-09-15]]
+
 ## 2026-09-15T05:04:03+00:00 - literature-drift-review
 - **Status**: Success
 - **Article**: [[topics/fish-sentience-and-the-teleost-pain-debate]]
