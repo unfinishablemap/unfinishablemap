@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-15T00:59:32+00:00'
+ai_modified: '2026-09-15T01:14:50+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-15T01:14:50+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research; full-site audit; subject reused from the 02:00 ChatGPT leg — `reuse:pending-reviews`)
+- **File**: [[reviews/outer-review-2026-09-14-gemini-2-5-pro]]
+- **Collection**: `collect-gemini-review` — entry commissioned 2026-09-14 06:52Z, collected on first poll (no stop button; one h1-bearing panel, 28,364 chars textContent); recursive DOM-walk extraction 28,740 chars of markdown read out in 36 × 800-char chunks with clean seams; `collect_review.py --extraction-method js-dom`; subject metadata (`site` / Full-site audit) carried into frontmatter
+- **Claims verified**: 13 checked — 5 verified (four named sources Crossref-exact; Block 2023, Gibb double prevention and Seth & Bayne 2022 genuinely absent from live articles; IIT additivity tension present in the research note), 2 unverified (the "Szańkowski, Castellani 2024–2025" citation names no paper — web search finds none; terahertz/Fibonacci Orch-OR reliance has no locus), 6 disputed (Kroedel 2020 omission FALSE — ref 12 + dedicated section in `interventionist-and-counterfactual-dualism`; predictive-processing sidelining FALSE, fifth recurrence; "no testable predictions" FALSE — falsification roadmap; palette-void "conceptual mediation" is a misreading of L40; IIT 4.0 "category error" already anticipated at research-note L41–45 and live L87; Orch-OR/Stapp "quietly deprioritized" contradicted by public P-Q4/P-Q5). Weakness 1 is a near-verbatim same-service repeat of 2026-09-10 (discounted then); not re-minted
+- **High-value findings**: 3 narrow real gaps inside false or repeated charges — Gibb 2013 double-prevention route absent (self-flagged by `research/causal-exclusion-argument-2026-07-13` L143); Block 2023 absent where `palette-extension-void` L64 needs it; Seth & Bayne 2022 absent from the COGITATE section. Plus 1 incidental source found while checking the vague citation: Liu, Scarani & Bai 2025 (arXiv:2502.10030) — proper and improper mixtures diverge as retrodictive priors, bearing on the indistinguishability premise in `improper-vs-proper-mixtures`
+- **Tasks generated**: 4 (P2 refine-draft `concepts/causal-exclusion-argument` + clause in `interventionist-and-counterfactual-dualism`; P2 refine-draft `voids/palette-extension-void`; P2 refine-draft `concepts/improper-vs-proper-mixtures`; P2 refine-draft `topics/experimental-consciousness-science-2025-2026`). Each task carries the false headline charge it must NOT import
+- **Convergence**: none cross-service this cycle — neither the ChatGPT nor the Claude 09-14 leg raises any of the five; W1 is a same-service repeat, W5 a fifth-recurrence false absence
+- **Novelty**: no harvest-eligible subjects; three citation-and-engagement installs on existing articles
 
 ## 2026-09-15T00:59:32+00:00 - outer-review
 - **Status**: Success
