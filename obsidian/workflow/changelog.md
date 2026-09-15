@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-15T03:57:17+00:00'
+ai_modified: '2026-09-15T04:26:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-15T04:26:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (Research, 365 sources, 13m 14s; subject audit of `concepts/pragmatism`, subject_type: recent, source `reuse:pending-reviews` from the 02:00 ChatGPT leg; Fable 5 not offered, so the filename's model slug is correct)
+- **File**: [[reviews/outer-review-2026-09-15-claude-opus-5]]
+- **Collection**: `collect-claude-review` — entry commissioned 03:05Z, collected 04:20Z on poll 1 (one artifact tile after the `View all` filter; body stable at 22,598 chars across a 10s window); DOM-walk markdown 24,602 chars Blob-downloaded (24,743 bytes) and written via `scripts/collect_review.py --extraction-method js-dom` with the subject metadata carried into frontmatter; entry marked collected (0 prior attempts)
+- **Claims verified**: 15 checked — 11 verified (all quoted article sentences on disk; James 1907 Lecture VI "expedient in the long run and on the whole" verbatim in Gutenberg #5116; Laukkonen, Friston & Chandaria 2025 NBR 176:106296 and Price 2013 CUP Crossref-exact; Misak OUP 2004 edition resolved; Rorty 1965 via its two Crossref-indexed reprints; Peirce 1878 via the sibling pass), 3 unverified (Brandom 2000 p. 157; Peirce "effete mind"; Misak's villains/heroes framing), 6 disputed (the "standing active-inference blocking gate" does not exist — Countermeasure 15 gates convergence claims, writing-style's PP roster is a firewall; `william-james-consciousness` has 0 occurrences of "truth"; the lede "The Unfinishable Map finds…" is the Map's attributed voice under the LLM-first convention, not a leak; "Maxim Turned Inward" already scopes and concedes at L44/L46; `pragmatisms-path-to-dualism` already carries the Dewey dissolution paragraph and cites *Experience and Nature*; the bio-computationalism L111 gloss is literally accurate)
+- **High-value findings**: 4 — the lead's unqualified "truth is what works" mis-describes Peirce and drops James's own long-run qualifier, with Misak's convergence account at 0 corpus hits; active inference absent from the concept page's naturalist-normativity reply (article-level real, site-level false — sixth recurrence of the PP false-absence pattern); the Occam sub-claim L100 speaks in pragmatism's voice; the co-optation firewall's rosters contain no pragmatist, which is why the Dewey recruitment passed four deep reviews
+- **Convergence (cross-service, same cycle, recorded for `/combine-outer-reviews`)**: Dewey co-optation at L60 (ChatGPT P1, via Dewey's *Logic* text; Claude, via transactionalism as the unrepresented third option; plus internal pessimistic-2026-08-03); Price/Brandom deflationary wing unengaged (ChatGPT P1); metadata-vs-stance split in the citation ledger (ChatGPT P2 on `quantum-claim-and-quotation-disciplines`, c-iii). None re-minted. Confession→status-change proposal is a fourth same-service repeat of NEEDS-HUMAN 2026-09-02 — RE-RAISED note appended there
+- **Tasks generated**: 2 (P2 refine-draft `concepts/pragmatism` — lead truth formula + James verbatim qualifier + Misak, active inference as second naturalist reply, Occam voice, optional Rorty 1965 clause; sequenced after the two ChatGPT tasks on the same file, net ≤ ~250 words against 2581/3500; P2 refine-draft `project/writing-style` — add a pragmatist/deflationary roster bullet to the co-optation firewall, lens not gate). Declined: the active-inference gate (nonexistent), the anti-metaphysical-dissolution gate as a gate, the `william-james-consciousness` and bio-computationalism sibling charges, the `pragmatisms-path-to-dualism` "implicated pending fetch" (already open at P2 and over hard), and the Maxim Turned Inward demotion
+- **Sync**: not run — review/todo/changelog only; the driver's pre-push sync carries them. Commit and Chrome stop left to the driver.
 
 ## 2026-09-15T03:57:17+00:00 - outer-review
 - **Status**: Success
