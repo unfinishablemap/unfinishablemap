@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-07
-ai_modified: 2026-09-08 16:50:16+00:00
+ai_modified: 2026-09-15 07:33:03+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: Andy Southgate
 concepts: []
@@ -14,7 +14,7 @@ draft: false
 human_modified: 2026-01-07
 last_curated: null
 last_deep_review: 2026-05-17 12:00:00+00:00
-lastmod: 2026-09-08 16:50:16+00:00
+lastmod: 2026-09-15 07:33:03+00:00
 modified: *id001
 related_articles:
 - '[[project-brief]]'
@@ -212,6 +212,7 @@ A maintained roster of names triggers the firewall. When any of these authors ap
 - **Anti-dualist / naturalist analytic roster:** Shanahan, McGinn, Nagel, Schwitzgebel, Dennett, Metzinger, Hernández-Orallo (the co-optation gate's original roster — see [calibration-audit-triple](/project/calibration-audit-triple/) Audit Six).
 - **Predictive-processing / active-inference roster:** Anil Seth (controlled hallucination, the beast machine), Andy Clark (predictive processing, the extended mind), Jakob Hohwy (the predictive mind), Karl Friston (the free-energy principle, active inference, Markovian monism). These authors build *physicalist* models of perception and self; their formalism is metaphysically neutral and the Map may adopt its mechanics, but the authors themselves do not endorse — and in Friston's case (Markovian monism) explicitly argue against — the two-sided dualist reading. Cite their findings; engage their conclusions as rivals.
 - **Psychedelic-neuroscience roster:** Robin Carhart-Harris (the entropic brain; REBUS, with Friston). The REBUS and entropic-brain models are physicalist accounts of psychedelic action. The empirical neuroimaging may be cited, but REBUS "maps onto" filter theory only as a *compatible* rival mechanism the evidence does not discriminate in favour of — never as filter theory's confirmation or ally.
+- **Pragmatist / deflationary roster:** John Dewey (transactional experience, warranted assertion — *Logic*, 1938, dismisses interactionism as an insoluble pseudo-problem), Richard Rorty (anti-representationalism; 1965 eliminativism), Huw Price (subject naturalism, global expressivism — *Naturalism Without Mirrors*, 2011; *Expressivism, Pragmatism and Representationalism*, 2013), Cheryl Misak (Peircean convergence account of truth, 1991/2004), Robert Brandom (inferentialism). The characteristic recruitment reads their *method* — inquiry, evaluation, assessment — as needing a phenomenal standpoint they explicitly deny. These authors aim to dissolve the dualism/physicalism dispute rather than take a side in it, so the honest one-line statement must name the dissolution they intend (worked case: [pragmatism](/concepts/pragmatism/)).
 
 The honest framing is the same as for any named opponent (see *Engaging Opponents* above): state the author's actual framework in natural prose, mark the citation as compatible-with rather than supporting where the evidence does not discriminate, and let the disagreement stand at the framework boundary rather than dressing recruitment as endorsement. The canonical worked fix is [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/), which engages predictive processing and active inference as "the serious computational rival" that "co-opts this article's evidence base most directly" — adopting the mechanics while keeping the hard-problem residue and the authors' opposing metaphysics explicit. The firewall is an accuracy move, not a retraction: the article may still reach its filter or interface conclusion, but it must reach it without conscripting the rival's authors.
 

@@ -5,6 +5,13 @@ ai_modified: '2026-09-15T06:36:17+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-15T07:33:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[project/writing-style]]
+- **Original score**: n/a (`scripts/curate.py` does not exist; methodology document, no tool score)
+- **Changes**: Added one roster bullet to "Don't Conscript Committed Physicalists (the Co-optation Firewall)" — **Pragmatist / deflationary roster:** Dewey (transactional experience, warranted assertion; *Logic* 1938 footnote dismissing interactionism as insoluble), Rorty (anti-representationalism; 1965 eliminativism), Price (subject naturalism, global expressivism; 2011, 2013), Misak (Peircean convergence account, 1991/2004), Brandom (inferentialism) — plus two sentences naming the characteristic recruitment (reading their *method* as needing a phenomenal standpoint they deny) and the required one-line statement (name the dissolution they intend). 95 words after the label, additive by design. Used Dewey's own term "warranted assertion" (not the task text's "assertibility"). Wikilink `[[pragmatism]]` is a bare slug, unique on disk (concepts only). Convergent 2026-09-15 outer reviews (ChatGPT improvement 20; Claude Opus 5 §5 second proposal, gate form declined per the 2026-08-06 NEEDS-HUMAN, lens form adopted) plus internal pessimistic-2026-08-03: the former Dewey sentence in `concepts/pragmatism` never tripped the firewall through four deep reviews because no pragmatist was on any roster. Past-tense worked cases, both already landed: the Dewey/Rorty rewrite on `concepts/pragmatism` (6ad79099) and the sibling (c-iii) argumentative-role fidelity check on `project/quantum-claim-and-quotation-disciplines` (2c47a5f3) — the roster entry is the firewall-side complement to that rule-side fix. No per-article requirement to cite these authors added. Reasoning-mode classification: n/a (methodology document, no named-opponent reply).
+- **Published**: yes
+
 ## 2026-09-15T07:05:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/pragmatism]]
