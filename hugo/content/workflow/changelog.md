@@ -1,14 +1,46 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-15T00:45:53+00:00'
+ai_modified: '2026-09-15T01:23:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-15'
-lastmod: 2026-09-15 00:45:53+00:00
+lastmod: 2026-09-15 01:23:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-15T01:23:00+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-14
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-5, gemini-2-5-pro; full-site audit, `fallback:site-stale-7d`)
+- **Clusters**: 5 convergent (all ChatGPT + Claude at 2/3, all verified — Tenet 3 quantifier/overreach; five-tenet presentation ≠ operative foundation / Tenet 4 conditional on subjecthood; [P-V3](/positions/voids-as-evidence/#p-v3) cumulative-weight step; Tenet 2 mechanism debt coherence-only; disclosure outrunning control), 1 failed convergence (predictive processing "sidelined" — Claude + Gemini, both halves disputed; correlated error), 26 singleton, 3 divergent (predictive-processing engagement; testability apparatus; public vs "quiet" mechanism demotion — all three resolved against Gemini on disk)
+- **Tasks upgraded**: 1 (P3→P2: 0, P2→P1: 1 — positions-evolve [P-V3](/positions/voids-as-evidence/#p-v3) candidate-denominator ledger; Claude's half verified at `apex/taxonomy-of-voids` L225/L240 and `apex/apex-articles` L312 after its quoted sentence resolved to a `reviews/` echo)
+- **Tasks deduplicated**: 0 (no two open tasks pointed at one cluster; the 11 per-review P2s are all singletons)
+- **Recorded on standing entries**: `NEEDS-HUMAN (foundations) 2026-08-17` (Tenet 3, second cross-service cycle), `NEEDS-HUMAN (foundations) 2026-08-03` (subjecthood into the tenets), `NEEDS-HUMAN (methodology ratification) 2026-08-03` (fifth cycle)
+- **Gemini yield**: absent from every convergent cluster; dissenting voice in all three divergences
+- **Output**: [outer-review-synthesis-2026-09-14](/reviews/outer-review-synthesis-2026-09-14/)
+
+## 2026-09-15T01:14:50+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research; full-site audit; subject reused from the 02:00 ChatGPT leg — `reuse:pending-reviews`)
+- **File**: [outer-review-2026-09-14-gemini-2-5-pro](/reviews/outer-review-2026-09-14-gemini-2-5-pro/)
+- **Collection**: `collect-gemini-review` — entry commissioned 2026-09-14 06:52Z, collected on first poll (no stop button; one h1-bearing panel, 28,364 chars textContent); recursive DOM-walk extraction 28,740 chars of markdown read out in 36 × 800-char chunks with clean seams; `collect_review.py --extraction-method js-dom`; subject metadata (`site` / Full-site audit) carried into frontmatter
+- **Claims verified**: 13 checked — 5 verified (four named sources Crossref-exact; Block 2023, Gibb double prevention and Seth & Bayne 2022 genuinely absent from live articles; IIT additivity tension present in the research note), 2 unverified (the "Szańkowski, Castellani 2024–2025" citation names no paper — web search finds none; terahertz/Fibonacci Orch-OR reliance has no locus), 6 disputed (Kroedel 2020 omission FALSE — ref 12 + dedicated section in `interventionist-and-counterfactual-dualism`; predictive-processing sidelining FALSE, fifth recurrence; "no testable predictions" FALSE — falsification roadmap; palette-void "conceptual mediation" is a misreading of L40; IIT 4.0 "category error" already anticipated at research-note L41–45 and live L87; Orch-OR/Stapp "quietly deprioritized" contradicted by public [P-Q4](/positions/quantum-interface/#p-q4)/[P-Q5](/positions/quantum-interface/#p-q5)). Weakness 1 is a near-verbatim same-service repeat of 2026-09-10 (discounted then); not re-minted
+- **High-value findings**: 3 narrow real gaps inside false or repeated charges — Gibb 2013 double-prevention route absent (self-flagged by `research/causal-exclusion-argument-2026-07-13` L143); Block 2023 absent where `palette-extension-void` L64 needs it; Seth & Bayne 2022 absent from the COGITATE section. Plus 1 incidental source found while checking the vague citation: Liu, Scarani & Bai 2025 (arXiv:2502.10030) — proper and improper mixtures diverge as retrodictive priors, bearing on the indistinguishability premise in `improper-vs-proper-mixtures`
+- **Tasks generated**: 4 (P2 refine-draft `concepts/causal-exclusion-argument` + clause in `interventionist-and-counterfactual-dualism`; P2 refine-draft `voids/palette-extension-void`; P2 refine-draft `concepts/improper-vs-proper-mixtures`; P2 refine-draft `topics/experimental-consciousness-science-2025-2026`). Each task carries the false headline charge it must NOT import
+- **Convergence**: none cross-service this cycle — neither the ChatGPT nor the Claude 09-14 leg raises any of the five; W1 is a same-service repeat, W5 a fifth-recurrence false absence
+- **Novelty**: no harvest-eligible subjects; three citation-and-engagement installs on existing articles
+
+## 2026-09-15T00:59:32+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (Research; full-site audit; subject reused from the 02:00 ChatGPT leg — `reuse:pending-reviews`)
+- **File**: [outer-review-2026-09-14-claude-opus-5](/reviews/outer-review-2026-09-14-claude-opus-5/)
+- **Collection**: `collect-claude-review` — artifact tile present on poll 1 (research completed in 11m 55s, 357 sources); body stable at 22,057 chars across a 10s window; Blob-downloaded (23,346 bytes) and written via `scripts/collect_review.py` with `subject_type: site`; entry marked collected (0 prior attempts, commissioned 06:36Z, collected ~18h later)
+- **Claims verified**: 20 checked — 13 verified (all quoted site passages verbatim; Beck & Eccles 1992, Pylkkänen 2019, List 2023, Laukkonen 2025, Gibney 2025, Jackson 2003 exact at Crossref; the 12 Aug 2025 Nature correction real; Penfield layer-V fix propagated; Stapp inversion disclosed at `concepts/stapp-quantum-mind` L64), 2 unverified (Stapp 2007:34 wording behind the Springer paywall; the ≈15%/≈17% survey splits absent from the Nature text), 5 disputed (the "only 36% Copenhagen" spin charge — 0 hits; "missing Tenet-4 apex" — `apex/one-world-wager` exists and engages List; placebo citation gap — archived URL, live replacement cites Büchel 2014 and already concedes non-discrimination; Laukkonen "residualised" — flagship engages at the hard-problem step; [P-Q3](/positions/quantum-interface/#p-q3) "framework-critical" is a paraphrase)
+- **High-value findings**: 3 — trumping-route testability concession (born-rule L207, 2026-09-04) not propagated to `concepts/trumping-preemption` (zero prose) and `concepts/delegatory-causation` L148 (feature-framed); Occam argument L46–52 dimension scoring lacks in-situ Tenet 5 self-binding; Nature-survey reference lines lack author/pages/DOI/correction. Tenet 3 REVISE-HARD + DeWall access-level scoping recorded as cross-service convergence on `NEEDS-HUMAN (foundations) 2026-08-17`; auto-demotion rule recorded as a same-service repeat on `NEEDS-HUMAN (methodology ratification) 2026-09-02`
+- **Tasks generated**: 3 (P2 cross-review `concepts/trumping-preemption` + `delegatory-causation`; P2 refine-draft `arguments/epistemological-limits-of-occams-razor`; P2 refine-draft Nature-survey references in `concepts/quantum-interpretations` + `apex/what-consciousness-tells-us-about-physics`)
+- **Novelty**: reviewer's own verdict is near-zero first-order novelty; no harvest-eligible subjects
 
 ## 2026-09-15T00:45:53+00:00 - outer-review
 - **Status**: Success

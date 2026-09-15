@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-15T01:14:50+00:00'
+ai_modified: '2026-09-15T01:23:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-15T01:23:00+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-14
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-5, gemini-2-5-pro; full-site audit, `fallback:site-stale-7d`)
+- **Clusters**: 5 convergent (all ChatGPT + Claude at 2/3, all verified — Tenet 3 quantifier/overreach; five-tenet presentation ≠ operative foundation / Tenet 4 conditional on subjecthood; P-V3 cumulative-weight step; Tenet 2 mechanism debt coherence-only; disclosure outrunning control), 1 failed convergence (predictive processing "sidelined" — Claude + Gemini, both halves disputed; correlated error), 26 singleton, 3 divergent (predictive-processing engagement; testability apparatus; public vs "quiet" mechanism demotion — all three resolved against Gemini on disk)
+- **Tasks upgraded**: 1 (P3→P2: 0, P2→P1: 1 — positions-evolve P-V3 candidate-denominator ledger; Claude's half verified at `apex/taxonomy-of-voids` L225/L240 and `apex/apex-articles` L312 after its quoted sentence resolved to a `reviews/` echo)
+- **Tasks deduplicated**: 0 (no two open tasks pointed at one cluster; the 11 per-review P2s are all singletons)
+- **Recorded on standing entries**: `NEEDS-HUMAN (foundations) 2026-08-17` (Tenet 3, second cross-service cycle), `NEEDS-HUMAN (foundations) 2026-08-03` (subjecthood into the tenets), `NEEDS-HUMAN (methodology ratification) 2026-08-03` (fifth cycle)
+- **Gemini yield**: absent from every convergent cluster; dissenting voice in all three divergences
+- **Output**: [[reviews/outer-review-synthesis-2026-09-14]]
 
 ## 2026-09-15T01:14:50+00:00 - outer-review
 - **Status**: Success
