@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-16T16:55:23+00:00'
+ai_modified: '2026-09-16T17:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-16T17:55:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Change-point signatures in the psychophysical transition law at subject onset, cessation and fission (P3, research-harvest from outer-review-2026-09-14-chatgpt-5-6-sol-pro §4.2)
+- **Output**: [[research/change-points-in-the-psychophysical-transition-law-2026-09-15]]
+- **Sources consulted**: 36 (33 DOIs resolved at Crossref in one batch; 22 abstracts read raw from OpenAlex, Semantic Scholar or the author PDF; Bostrom 2006 quoted verbatim from the PDF; Pinto 2017 volume/pages from Europe PMC; Zhang & Spirtes 2008 and Steyn-Ross 2004 cited for metadata only and flagged)
+- **Assess-first verdict**: do not decline. `concepts/direction-of-interface-change` catalogues direction-dependent signatures of one subject's interface and carries nothing on census arity; 0 live/archived articles contain `change-point`; Vetoed bank 0 hits; concepts gate 326/360 at write time.
+- **Key findings**: (1) the Map's own P-SC3/P-CS4 remove anaesthesia, DoC recovery and sleep from the reviewer's six domains — same subject both sides — which converts the entire neural-inertia/criticality literature from evidence into the control a census signature must be distinguished from; (2) the reviewer's "theorem" is ill-posed in conditioning-grain terms across an arity change and well-posed in causal-abstraction terms (Rubenstein 2017 exact transformation; Beckers & Halpern 2019 uniform transformation exposes the balancing-law loophole of horn (c)); (3) under causal minimality, horn (b) does not leave the census "real but idle" — it deletes the variable, so P-SC1 and horn (b) are jointly unstable (note's own derivation, flagged for source-check); (4) Bostrom 2006's fractional-experience result is the sharpest rival — a non-integer census makes change-point the wrong formalism — and the Map's haecceity reading is what licenses the discrete prediction; (5) the three fission readings (none / at-most-one / Parfit) predict 3 / 1 / 0 arity events at one moment, giving today's P-I4 conditional verdict an in-principle empirical shadow though unreadable by P-I3.
+- **Positioned against**: P-SC1 (trilemma inherited, time index added), P-SC2 (cannot discharge; can date third-party evidence), P-SC3 (the splitting entry), P-I4 Updated 2026-09-16 (pairing-under-division as change-point count).
+- **Recommended next**: expand-topic → `concepts/census-change-points` (≤3,000 words); then a `positions-evolve` task for P-SC1 (minimality instability) and P-SC3 (new shift trigger). Not minted here.
+- **Gaps flagged**: no primary source for the disconnection-syndrome resolution timeline; Casarotto 0.31 cut-off only in secondary sources; no literature applies change-point detection to consciousness-conditioned outcome structure.
+
 
 ## 2026-09-16T16:55:23+00:00 - positions-evolve (update: P-I1, P-I3, P-I4, P-I5 — two P2 tasks from the 2026-09-16 pessimistic review, one pass)
 - **Status**: Success
