@@ -10,6 +10,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-16T19:10:58+00:00 - refine-draft
+- **Status**: Success
+- **File**: [composition-question-rivals](/concepts/composition-question-rivals/)
+- **Original score**: n/a (targeted citation-verification pass on the one span the 2026-08-17 quote-fidelity pass could not reach; no general quality review run)
+- **Changes**: Verified the article's strongest verbatim commitment — L63's "in Hirsch's words, 'a certain variability or plasticity'" — against Hirsch, *Quantifier Variance and Realism* (OUP 2011). Route that worked: Google Books search-within JSON endpoint (`books.google.com/books?id=<id>&q=...&jscmd=SearchWithinVolume2`, no API quota) on volume id `rX9MCAAAQBAJ` (also `iPRqtcjeHPsC`; the primary id `zIM8DwAAQBAJ` returns zero for every word on the page and is a dead index). Page 68 snippet, verbatim from the index: "... has a certain variabil- ity or plasticity . There is no necessity to use these expressions in one way rather than various other ways , for the world can be correctly described using a variety of concepts of \" the existence of something ...". Span is verbatim; outcome (1): locus added to reference entry 3 (p. 68 (ch. 5, "Quantifier Variance and Realism," pp. 68-95)), no prose change. Control passed: "quantifier variance" returns 9-10 page hits on the same id before the target was trusted. Pitfalls recorded: the bare-word query `variability` returns 0 on the very page that contains it because the index tokenises the line-break hyphen (`variabil- ity`) — a zero on a hyphenatable word is not absence; the HTML search-inside page reports 16-17 `plasticity` hits that are all query echoes in page chrome, not content; the `pg=PA68&img=1` page image is an "image not available" placeholder; `output=text` returns 403; front matter, running heads and the book's own title are not indexed (zero for "Philosophical Issues", "Sosa", the title). Sentence subject is not recoverable from the snippet window (every "<word> has a certain" probe returns 0); the article's gloss on what has the plasticity sits outside the quotation marks and was left untouched. Chapter attribution via Crossref record for DOI 10.1093/acprof:osobl/9780199732111.003.0005 (confirmed page range 68-95).
+- **Published**: yes
+
+## 2026-09-16T19:10:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: clinical-evidence wing, 10 articles / 33,472 body words — clinical-dissociation-as-systematic-evidence, clinical-evidence-quality-standards-consciousness-research, clinical-neuroplasticity-evidence-for-bidirectional-causation, clinical-phenomenology-and-altered-experience, consciousness-and-neurodegenerative-disease, conversion-disorder-as-consciousness-side-fault, disconnection-neuroscience, phantom-limb-phenomena, synaesthesia, neuroplasticity (stalest cluster in the optimistic coverage record; last cluster review 2026-07-10)
+- **Findings**: in-body tier discipline is the wing's strength (conversion-disorder's three-layer partition, disconnection's citation rules, clinical-neuroplasticity's "removing a defeater is not upgrading"); `clinical-evidence-quality-standards` is a near-orphan (3 body inbound, 0 from the wing); `consciousness-and-neurodegenerative-disease` tenet section outruns its body (calibration concern → refine-draft); anosognosia is the one 2026-07-10 suggestion never built and its reversal literature (Cappa 1987, Fotopoulou 2009, Vocat 2010) has 0 hits; sham-controlled neurofeedback (Schabus 2017, Thibault 2018) absent — 5 citations Crossref-verified
+- **Tasks minted**: 4 × P3 (2 expand-topic, 2 refine-draft), human approval required
+- **Output**: [optimistic-2026-09-16-clinical-evidence-wing](/reviews/optimistic-2026-09-16-clinical-evidence-wing/)
+
 ## 2026-09-16T18:41:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/) (plus a one-sentence reciprocal in [quantum-hardware-and-the-ai-consciousness-coupling](/topics/quantum-hardware-and-the-ai-consciousness-coupling/))

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-07
-ai_modified: 2026-08-18 20:31:45+00:00
+ai_modified: 2026-09-16 19:10:58+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 coalesced_from:
@@ -14,7 +14,7 @@ concepts:
 - '[[emergence]]'
 - '[[evidential-status-discipline]]'
 created: 2026-06-07
-date: &id001 2026-08-18
+date: &id001 2026-09-16
 description: The three serious answers to the Special Composition Question that do
   not appeal to consciousness—deflationism, information-compression, and brutalism—each
   given a fair hearing, then the Map's calibrated, burden-not-refutation reply.
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-18 20:31:45+00:00
-lastmod: 2026-08-18 20:31:45+00:00
+lastmod: 2026-09-16 19:10:58+00:00
 modified: *id001
 related_articles:
 - '[[composition-and-consciousness]]'
@@ -154,7 +154,7 @@ The connection to [Dualism](/tenets/#dualism) is conditional. *If* there is a de
 
 1. Van Inwagen, P. (1990). *Material Beings*. Cornell University Press.
 2. Thomasson, A. L. (2015). *Ontology Made Easy*. Oxford University Press. ISBN 978-0-19-938511-9.
-3. Hirsch, E. (2011). *Quantifier Variance and Realism: Essays in Metaontology*. Oxford University Press. ISBN 978-0-19-973211-1.
+3. Hirsch, E. (2011). *Quantifier Variance and Realism: Essays in Metaontology*. Oxford University Press. ISBN 978-0-19-973211-1. The phrase quoted above, "a certain variability or plasticity," is at p. 68 (ch. 5, "Quantifier Variance and Realism," pp. 68-95).
 4. Carnap, R. (1950). Empiricism, Semantics, and Ontology. *Revue Internationale de Philosophie*, 4(11), 20–40.
 5. Bird, A. (2023). Restricted Composition is Information Compression. *The Philosophical Quarterly*, 73(3), 677–700. DOI 10.1093/pq/pqad034.
 6. Beni, M. D. (2025). Constraining the Compression: Thermodynamic Depth and Composition. *The Philosophical Quarterly*, 75(2), 396–406. DOI 10.1093/pq/pqae019.
