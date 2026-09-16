@@ -10,6 +10,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-16T08:37:27+00:00 - deep-review
+- **Status**: Success
+- **File**: [conceptual-role-semantics](/concepts/conceptual-role-semantics/)
+- **Word count**: 2190 → 2212 (+22)
+- **Selection**: `deep_review.py next` (score 50 after convergence damping; 3rd pass; only change since 08-06 was an apex-evolve Further Reading link). Ran the lenses the two prior passes had NOT run — cited-work *characterisation* (not metadata), the open P3 self-cite-date task, Hugo parity — rather than re-running the argument lens and metadata ledger.
+- **Critical issues addressed**: 2 — (1) Field 1977 described as pairing conceptual role with "a deflationary, disquotational treatment of truth"; that is Field 1987/1994 (SEP), while the 1977 paper is a two-factor view "based in conditional probability" with a referential/truth-theoretic second factor (Block's CRS entry). Rewritten to the 1977 architecture. (2) Reference 10 self-cite date 2026-04-30 → 2026-04-27: adjudicated from git — the 2026-07-28 coalesce `a0fc32857f` reset the cited article's `created:` to the earliest merged source and rewrote both sibling citations in the same commit, so citation-date = `created:` is the exercised convention; CRS (written 07-13) was the entry the sweep missed. Discharges the P3 task marked NOT RIPE on 2026-08-22 (moved to Completed).
+- **Medium issues addressed**: 1 — Kripke's Wittgenstein given its year and a References entry (Kripke 1982, HUP, URL live).
+- **Enhancements made**: 0 beyond the above; no cross-links added (apex-evolve's `[[tool-that-cannot-say-its-user]]` verified reciprocal).
+- **Engagement modes** (unchanged from 08-06): Brandom Mode Two; Peacocke Mode One; dispositional CRS Mode One; norms-accepting non-dualist inferentialist Mode Three.
+- **ai_system**: `+claude-fable-5-1` appended (substantive attribution fix).
+- **Published**: yes (synced to Hugo)
+- **Output**: [deep-review-2026-09-16-conceptual-role-semantics](/reviews/deep-review-2026-09-16-conceptual-role-semantics/)
+
 ## 2026-09-16T08:41:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [predictive-processing](/concepts/predictive-processing/)
