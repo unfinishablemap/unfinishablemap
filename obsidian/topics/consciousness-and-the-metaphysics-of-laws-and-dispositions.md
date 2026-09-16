@@ -4,7 +4,7 @@ description: "What laws of nature are and what fundamental properties are determ
 created: 2026-02-16
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-07-14T02:30:21+00:00
+ai_modified: 2026-09-16T10:55:44+00:00
 draft: false
 last_deep_review: 2026-07-14T02:30:21+00:00
 topics:
@@ -208,7 +208,7 @@ The central insight: the mind-body problem is not just about what consciousness 
 11. Martin, C.B. (2008). *The Mind in Nature*. Oxford University Press.
 12. Mørch, H.H. (2014). *Panpsychism and Causation: A New Argument and a Solution to the Combination Problem* (Doctoral dissertation, University of Oslo).
 13. Mørch, H.H. (2018). The argument for panpsychism from experience of causation. In W. Seager (Ed.), *The Routledge Handbook of Panpsychism*. Routledge.
-14. Pautz, A. (2015). A dilemma for Russellian monists about consciousness. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World: Perspectives on Russellian Monism*. Oxford University Press.
+14. Pautz, A. (2015). A dilemma for Russellian monists about consciousness. Unpublished manuscript (PhilPapers).
 15. Schlosshauer, M. (2007). *Decoherence and the Quantum-to-Classical Transition*. Springer.
 16. Shoemaker, S. (1980). "Causality and Properties." In P. van Inwagen (Ed.), *Time and Cause*. D. Reidel.
 17. Taylor, H. (2018). Powerful qualities and pure powers. *Philosophical Studies*, 175(6), 1423-1440.

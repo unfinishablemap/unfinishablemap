@@ -5,7 +5,7 @@ draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-16
-ai_modified: 2026-03-19T20:42:00+00:00
+ai_modified: 2026-09-16T10:55:44+00:00
 ---
 
 # Research: Bi-Aspectual Ontology and Dual-Aspect Traditions (Follow-Up)
@@ -153,7 +153,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Bohm, D. & Hiley, B.J. (1993). *The Undivided Universe: An Ontological Interpretation of Quantum Theory*. Routledge.
 - Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 - Fechner, G.T. (1860). *Elemente der Psychophysik*. Breitkopf & Härtel.
-- Kelly, E.F. (2022). "Best Way Forward or Unnecessary Detour?" *Essentia Foundation* review of Atmanspacher & Rickles.
+- Kelly, E.F. (2023). "Best Way Forward or Unnecessary Detour?" *Essentia Foundation* review of Atmanspacher & Rickles.
 - Le Bihan, B. (2019). "Aspects in Dual-Aspect Monism and Panpsychism: A Rejoinder to Benovsky." *Philosophical Investigations*, 42(2).
 - Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
 - Nagel, T. (2012). *Mind and Cosmos*. Oxford University Press.

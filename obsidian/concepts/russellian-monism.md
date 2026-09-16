@@ -4,7 +4,7 @@ description: "Russellian monism claims quiddities ground consciousness, but face
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-09-10T15:36:24+00:00
+ai_modified: 2026-09-16T10:55:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -165,13 +165,13 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 1. Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-129.
 1. Eddington, A. (1928). *The Nature of the Physical World*. Cambridge University Press.
 1. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
-1. Hashemi, A. (2024). How to understand Russellian panpsychism. *Erkenntnis*.
+1. Hashemi, A. (2024). How to understand Russellian panpsychism. *Erkenntnis*, 90(8), 3747-3766. https://doi.org/10.1007/s10670-024-00877-6
 1. Howell, R.J. (2015). The Russellian monist's problems with mental causation. *The Philosophical Quarterly*, 65(258), 22-39.
 1. Kerskens, C.M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 1. Kind, A. (2015). Pessimism about Russellian monism. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World* (pp. 401-421). Oxford University Press.
-1. Miller, G. (2018). Can subjects be proper parts of subjects? The de-combination problem. *Ratio*, 31(2), 132-143.
+1. Miller, G. (2018). Can subjects be proper parts of subjects? The de-combination problem. *Ratio*, 31(2), 137-154.
 1. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? Unpublished manuscript (reply to Roelofs's comments on Pautz 2015).
-1. Pautz, A. (2015). A dilemma for Russellian monists about consciousness. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World: Perspectives on Russellian Monism*. Oxford University Press.
+1. Pautz, A. (2015). A dilemma for Russellian monists about consciousness. Unpublished manuscript (PhilPapers).
 1. Robinson, W.S. (2018). Russellian monism and epiphenomenalism. *Pacific Philosophical Quarterly*, 99(S1), 100-117.
 1. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
 1. Warren, W.S. (2023). Comment on: "Experimental indications of non-classical brain function." *Journal of Physics Communications*, 7(3), 038001.

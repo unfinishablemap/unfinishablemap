@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-16T09:58:00+00:00'
+ai_modified: '2026-09-16T10:55:44+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-16'
-lastmod: 2026-09-16 09:58:00+00:00
+lastmod: 2026-09-16 10:55:44+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-16T10:55:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/)
+- **Word count**: 3337 → 3366 (+29, all reference apparatus; body prose net slightly shorter)
+- **Critical issues addressed**: 5 — Pautz (2015) "Dilemma" was cited as an OUP Alter & Nagasawa chapter; the volume's 19-chapter TOC has no Pautz, OpenAlex/Crossref/Pautz's CV know it only as a PhilPapers manuscript → corrected here and in 4 family files (`concepts/russellian-monism`, `concepts/disguised-property-dualism`, `concepts/substance-property-dualism`, `topics/consciousness-and-the-metaphysics-of-laws-and-dispositions`). Miller (2018) pages 132-143 → 137-154 (Crossref; also `concepts/russellian-monism` + research supplement). Kelly review 2022 → 2023 (Essentia `datePublished` 2023-08-27; also the seeding research note). Unattributed verbatim "play indispensable roles in physical causation" → attributed to Alter & Pereboom's SEP entry (verified verbatim), reference added. "Interactionist monism" label dated to Pylkkänen 2007 → label verifiable only in Pylkkänen (2025) *JCS* 32(5), 62-81; reworded and reference added.
+- **Medium issues addressed**: 3 — Hashemi (2024) volume/pages/DOI completed (also in `concepts/russellian-monism`); Bruntrup → Brüntrup; one "load-bearing" removed and the Fork section's closing sentence tightened.
+- **Enhancements made**: 0 (no expansion; length-neutral mode at 112% of soft)
+- **Lens note**: eighth review; prior seven had certified the reference list but only 6 of 21 entries had ever been checked at a publisher of record — the rest were "verified against the references list". Cross-article claim re-derivation (four-quadrant, measurement-problem objective-collapse split, Keppler, Wheeler, pairing) all confirmed. Engagements: Cutter/Kind Mode One; Hashemi Mode Two; Pylkkänen Mixed; Wheeler/MWI Mode Three (unchanged).
+- **Output**: [deep-review-2026-09-16-russellian-monism-versus-bi-aspectual-dualism](/reviews/deep-review-2026-09-16-russellian-monism-versus-bi-aspectual-dualism/)
 
 ## 2026-09-16T10:20:27+00:00 - refine-draft
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Two forms of dualism: separate mental substances versus irreducibl
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-07-30T21:59:29+00:00
+ai_modified: 2026-09-16T10:55:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -199,7 +199,7 @@ The distinction matters less than it might seem for the Map's core commitments, 
 1. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Lowe, E.J. (2006). Non-Cartesian substance dualism and the problem of mental causation. *Erkenntnis*, 65(1), 5-23.
 1. Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
-1. Pautz, A. (2015). A dilemma for Russellian monists about consciousness. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World: Perspectives on Russellian Monism*. Oxford University Press.
+1. Pautz, A. (2015). A dilemma for Russellian monists about consciousness. Unpublished manuscript (PhilPapers).
 1. Robinson, H. (2020). Dualism. *Stanford Encyclopedia of Philosophy*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

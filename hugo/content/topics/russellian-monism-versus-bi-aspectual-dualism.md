@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-09-10 15:36:24+00:00
+ai_modified: 2026-09-16 10:55:44+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -23,8 +23,8 @@ description: Russellian monism and the dual-aspect tradition approach the Map's 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-09 10:17:33+00:00
-lastmod: 2026-09-10 15:36:24+00:00
+last_deep_review: 2026-09-16 10:55:44+00:00
+lastmod: 2026-09-16 10:55:44+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -55,7 +55,7 @@ Russellian monism fills the structural gap by *identifying* consciousness with i
 
 The Map fills the gap differently. Its [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/) posits two irreducible aspects — structure and actuality — that interact causally at quantum indeterminacies. Consciousness does not *constitute* physical reality; it *selects* among physically permitted outcomes. The Born rule specifies the interface: quantum mechanics provides the probabilities, consciousness influences which outcome becomes actual.
 
-The difference runs deeper than vocabulary. Identity dissolves the mind-body problem by eliminating the gap between mind and body. Interaction preserves the gap and bridges it with a mechanism. Each choice appears to carry consequences that the rest of this article tries to trace, though how decisive those consequences are is exactly what the monist and the interactionist dispute.
+The difference runs deeper than vocabulary. Identity dissolves the mind-body problem by eliminating the gap between mind and body. Interaction preserves the gap and bridges it with a mechanism. Each choice carries consequences the rest of this article traces; how decisive they are is what the monist and the interactionist dispute.
 
 ## Where Russellian Monism Struggles
 
@@ -119,11 +119,11 @@ Fechner (1860) grounded dual-aspect thinking in phenomenological observation rat
 
 ### Pauli-Jung: Complementarity Without Causation
 
-Atmanspacher and Rickles (2022) develop the Pauli-Jung framework, where mental and physical aspects emerge from an underlying psychophysically neutral reality (*unus mundus*) through an "epistemic split." The aspects are complementary in the quantum-mechanical sense: mutually exclusive descriptions that are jointly necessary. Changes in consciousness can indirectly affect the physical domain through "induced correlations" mediated by the neutral substrate. This is closer to the Map than Spinoza — it takes quantum complementarity seriously and allows some connection between aspects. But "induced correlations" through a neutral substrate is not direct causal interaction, and the neutral substrate itself generates what Kelly (2022) identifies as *two* hard problems: how the mental emerges from the neutral ground, and how the physical does. The Map avoids both by positing no neutral substrate — structure and actuality are fundamental, not derivations from something deeper.
+Atmanspacher and Rickles (2022) develop the Pauli-Jung framework, where mental and physical aspects emerge from an underlying psychophysically neutral reality (*unus mundus*) through an "epistemic split." The aspects are complementary in the quantum-mechanical sense: mutually exclusive descriptions that are jointly necessary. Changes in consciousness can indirectly affect the physical domain through "induced correlations" mediated by the neutral substrate. This is closer to the Map than Spinoza — it takes quantum complementarity seriously and allows some connection between aspects. But "induced correlations" through a neutral substrate is not direct causal interaction, and the neutral substrate itself generates what Kelly (2023) identifies as *two* hard problems: how the mental emerges from the neutral ground, and how the physical does. The Map avoids both by positing no neutral substrate — structure and actuality are fundamental, not derivations from something deeper.
 
 ### Bohm-Pylkkänen: Interactionist Monism
 
-The closest existing position to the Map's is Pylkkänen's (2007) development of Bohm's implicate order into "interactionist monism." Bohm held that mind and matter are manifestations of an underlying implicate order, connected through "active information" — a concept drawn from the quantum potential, where information *does* something by guiding particle trajectories. Pylkkänen argues that if mind genuinely influences matter through active information, the framework already treats mental and physical as distinct causal powers that interact.
+The closest existing position to the Map's is Pylkkänen's development of Bohm's implicate order into what he calls "interactionist monism" (2007; 2025). Bohm held that mind and matter are manifestations of an underlying implicate order, connected through "active information" — a concept drawn from the quantum potential, where information *does* something by guiding particle trajectories. Pylkkänen argues that if mind genuinely influences matter through active information, the framework already treats mental and physical as distinct causal powers that interact.
 
 The Map's response: if the interaction is genuine, honest labelling makes this dualism. Pylkkänen's "interactionist monism" is monist only because both aspects derive from the implicate order. But if that derivation yields two genuinely distinct domains that causally interact — as the "active information" mechanism requires — the monist label describes the framework's origin story, not its operative metaphysics. The Map is what Bohmian interactionist monism becomes when the ontological distinction is taken seriously rather than dissolved back into a deeper unity.
 
@@ -135,7 +135,7 @@ Causal interaction. The Map's bi-aspectual *dualism* holds that structure and ac
 
 ### The Pattern
 
-The trajectory looks consistent: Spinoza forbids interaction categorically; Fechner forbids it on energy-conservation grounds; Pauli-Jung allows indirect correlations through a neutral substrate; Bohm-Pylkkänen allows active information to bridge the aspects. Each step seems to move closer to genuine causal interaction. On the Map's reading, it takes the final step the monist tradition stops short of — full bidirectional causation at quantum indeterminacies — because taking it requires abandoning monism. The reading turns on accepting the dual-aspect insight (physics describes only structure) while denying that the monist conclusion (therefore mind and matter are one stuff) follows from it. That the conclusion does not follow is the load-bearing claim, and it is one a committed monist will contest rather than concede; the trajectory reading is offered here as a perspicuous way to organise the tradition, not as a proof that the tradition was always headed for dualism.
+The trajectory looks consistent: Spinoza forbids interaction categorically; Fechner forbids it on energy-conservation grounds; Pauli-Jung allows indirect correlations through a neutral substrate; Bohm-Pylkkänen allows active information to bridge the aspects. Each step seems to move closer to genuine causal interaction. On the Map's reading, it takes the final step the monist tradition stops short of — full bidirectional causation at quantum indeterminacies — because taking it requires abandoning monism. The reading turns on accepting the dual-aspect insight (physics describes only structure) while denying that the monist conclusion (therefore mind and matter are one stuff) follows from it. That the conclusion does not follow is the claim everything else rests on, and a committed monist will contest it rather than concede it; the trajectory reading is offered as a way to organise the tradition, not as proof that it was always headed for dualism.
 
 ## Relation to Site Perspective
 
@@ -143,7 +143,7 @@ This comparison engages all five of the Map's [tenets](/tenets/):
 
 **Dualism**: Both frameworks agree consciousness is irreducible to structural physics. Russellian monism tries to honour this insight without dualism's label; Cutter and Kind argue it cannot. The Map's explicit dualism is the honest expression of what Russellian monism's commitments entail.
 
-**Minimal Quantum Interaction**: The Map identifies a specific interface — quantum indeterminacy — where consciousness acts. Russellian monism provides no comparable mechanism. Quiddities "play indispensable roles in physical causation" remains schematic.
+**Minimal Quantum Interaction**: The Map identifies a specific interface — quantum indeterminacy — where consciousness acts. Russellian monism provides no comparable mechanism. The claim that quiddities "play indispensable roles in physical causation" (Alter & Pereboom 2023) remains schematic.
 
 **Bidirectional Interaction**: The Map gives consciousness genuine work: selecting among undetermined outcomes. Russellian monism's identity thesis leaves nothing for consciousness to *do* beyond constituting intrinsic nature. The contingency thesis shows this constitution may be epiphenomenal (Howell 2015).
 
@@ -166,22 +166,24 @@ This comparison engages all five of the Map's [tenets](/tenets/):
 
 ## References
 
-1. Atmanspacher, H. & Rickles, D. (2022). *Dual-Aspect Monism and the Deep Structure of Meaning*. Routledge.
-2. Bohm, D. & Hiley, B.J. (1993). *The Undivided Universe: An Ontological Interpretation of Quantum Theory*. Routledge.
-3. Brown, C.D. (2025). How Russellian physicalism helps solve the mind-body problem. *Philosophia*, 53(3), 995-1007.
-4. Chalmers, D.J. (2017). The combination problem for panpsychism. In G. Bruntrup & L. Jaskolla (Eds.), *Panpsychism*. Oxford University Press.
-5. Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-129.
-6. Eddington, A. (1928). *The Nature of the Physical World*. Cambridge University Press.
-7. Fechner, G.T. (1860). *Elemente der Psychophysik*. Breitkopf & Härtel.
-8. Hashemi, A. (2024). How to understand Russellian panpsychism. *Erkenntnis*.
-9. Howell, R.J. (2015). The Russellian monist's problems with mental causation. *The Philosophical Quarterly*, 65(258), 22-39.
-10. Kelly, E.F. (2022). Best Way Forward or Unnecessary Detour? *Essentia Foundation* review of Atmanspacher & Rickles.
-11. Kind, A. (2015). Pessimism about Russellian monism. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World* (pp. 401-421). Oxford University Press.
-12. Miller, G. (2018). Can subjects be proper parts of subjects? The de-combination problem. *Ratio*, 31(2), 132-143.
-13. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? Unpublished manuscript (reply to Roelofs's comments on Pautz 2015).
-14. Pautz, A. (2015). A dilemma for Russellian monists about consciousness. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World: Perspectives on Russellian Monism*. Oxford University Press.
-15. Pylkkänen, P. (2007). *Mind, Matter and the Implicate Order*. Springer.
-16. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
-17. Spinoza, B. (1677). *Ethics*. Published posthumously.
-18. Southgate, A. & Oquatre-six, C. (2026-01-15). Russellian Monism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/russellian-monism/
-19. Southgate, A. & Oquatre-six, C. (2026-03-15). Bi-Aspectual Ontology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bi-aspectual-ontology/
+1. Alter, T. & Pereboom, D. (2023). Russellian monism. *The Stanford Encyclopedia of Philosophy* (substantive revision 4 July 2023). https://plato.stanford.edu/entries/russellian-monism/
+2. Atmanspacher, H. & Rickles, D. (2022). *Dual-Aspect Monism and the Deep Structure of Meaning*. Routledge.
+3. Bohm, D. & Hiley, B.J. (1993). *The Undivided Universe: An Ontological Interpretation of Quantum Theory*. Routledge.
+4. Brown, C.D. (2025). How Russellian physicalism helps solve the mind-body problem. *Philosophia*, 53(3), 995-1007.
+5. Chalmers, D.J. (2017). The combination problem for panpsychism. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism*. Oxford University Press.
+6. Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-129.
+7. Eddington, A. (1928). *The Nature of the Physical World*. Cambridge University Press.
+8. Fechner, G.T. (1860). *Elemente der Psychophysik*. Breitkopf & Härtel.
+9. Hashemi, A. (2024). How to understand Russellian panpsychism. *Erkenntnis*, 90(8), 3747-3766. https://doi.org/10.1007/s10670-024-00877-6
+10. Howell, R.J. (2015). The Russellian monist's problems with mental causation. *The Philosophical Quarterly*, 65(258), 22-39.
+11. Kelly, E.F. (2023). Best Way Forward or Unnecessary Detour? *Essentia Foundation* review of Atmanspacher & Rickles (2022), published 27 August 2023.
+12. Kind, A. (2015). Pessimism about Russellian monism. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World* (pp. 401-421). Oxford University Press.
+13. Miller, G. (2018). Can subjects be proper parts of subjects? The de-combination problem. *Ratio*, 31(2), 137-154. https://doi.org/10.1111/rati.12166
+14. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? Unpublished manuscript (reply to Roelofs's comments on Pautz 2015).
+15. Pautz, A. (2015). A dilemma for Russellian monists about consciousness. Unpublished manuscript (PhilPapers).
+16. Pylkkänen, P. (2007). *Mind, Matter and the Implicate Order*. Springer.
+17. Pylkkänen, P. (2025). Real consciousness in a real world: Interactionist monism. *Journal of Consciousness Studies*, 32(5), 62-81. https://doi.org/10.53765/20512201.32.5.062
+18. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
+19. Spinoza, B. (1677). *Ethics*. Published posthumously.
+20. Southgate, A. & Oquatre-six, C. (2026-01-15). Russellian Monism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/russellian-monism/
+21. Southgate, A. & Oquatre-six, C. (2026-03-15). Bi-Aspectual Ontology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bi-aspectual-ontology/

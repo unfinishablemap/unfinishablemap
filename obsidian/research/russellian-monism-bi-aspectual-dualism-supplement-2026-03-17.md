@@ -5,7 +5,7 @@ draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-09-16T10:55:44+00:00
 ---
 
 # Research: Russellian Monism as Competitor to Bi-Aspectual Dualism (Supplement)
@@ -176,4 +176,4 @@ The existing research recommended Option 2 ("Russellian Monism and the Bi-Aspect
 - Kind, A. (2015). Pessimism about Russellian monism. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World: Perspectives on Russellian Monism* (pp. 401-421). Oxford University Press.
 - Lockwood, M. (1989). *Mind, Brain and the Quantum: The Compound "I"*. Oxford: Blackwell.
 - Mendelow, J. (2024). Russellian physicalism and the explanatory gap. *Philosophia*.
-- Miller, G. (2018). Can subjects be proper parts of subjects? The de-combination problem. *Ratio*, 31(2), 132-143.
+- Miller, G. (2018). Can subjects be proper parts of subjects? The de-combination problem. *Ratio*, 31(2), 137-154.
