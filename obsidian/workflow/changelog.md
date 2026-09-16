@@ -5,6 +5,14 @@ ai_modified: '2026-09-16T11:49:58+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-16T12:19:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/experimental-consciousness-science-2025-2026]]
+- **Original score**: n/a (targeted citation install; `scripts/curate.py` does not exist)
+- **Source**: outer review 2026-09-14 (Gemini 2.5 Pro), weakness 5 — site-level charges (predictive processing "sidelined"; "avoids the empirical crucible") declined as false; the real gap was Seth & Bayne (2022) uncited in any live article
+- **Changes**: §COGITATE — installed one paragraph (~120 words) after the Seth quote citing Seth, A. K. & Bayne, T. (2022), *Nat Rev Neurosci* 23(7): 439–452, DOI 10.1038/s41583-022-00587-4 (Crossref-confirmed; four theory families and the "tested against one another" programme confirmed against the Europe PMC abstract) as the taxonomy and comparative-testing programme COGITATE instantiates; one sentence placing the interface model honestly as a metaphysical framework with a mechanism programme rather than a theory of the GNWT/IIT/HOT type, with its testing surface being [[falsification-roadmap-for-the-interface-model]] (new wikilink). No claim that the Map has entered adversarial testing; no predictive-processing paragraph. Appended reference 15 (no inline numeric cross-refs in the article, so numbering is safe). Length 2445 → 2587 body words (topics soft 3000 / hard 4000). `ai_modified` from live `date -u`; synced; both trees verified.
+- **Published**: yes
+
 ## 2026-09-16T11:49:58+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/improper-vs-proper-mixtures]]

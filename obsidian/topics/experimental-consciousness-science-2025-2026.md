@@ -4,7 +4,7 @@ description: "Major consciousness experiments of 2025-2026—COGITATE adversaria
 created: 2026-03-26
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-07-31T16:21:17+00:00
+ai_modified: 2026-09-16T12:19:02+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,6 +50,8 @@ The most significant consciousness experiment of 2025 was the COGITATE study, pu
 The results challenged both theories' key predictions. IIT predicted that content-specific neural activity would localise in a posterior cortical complex with high integrated information. The localisation was partially confirmed—information about conscious content appeared in visual, ventrotemporal, and inferior frontal cortex—but the predicted maximum of integrated information was not found. GNWT predicted a distinctive "ignition" pattern: a sudden, sustained activation in prefrontal-parietal networks when stimuli became conscious. The study found strong onset responses in prefrontal cortex but not the predicted offset responses. The signature ignition that GNWT treats as the hallmark of consciousness did not materialise as expected.
 
 As Anil Seth, a member of the collaboration, put it: "It was clear that no single experiment would decisively refute either theory. The theories are just too different in their assumptions and explanatory goals." Further adversarial collaborations are underway, including tests of Higher-Order Theories, Recurrent Processing Theory, and Attention Schema Theory.
+
+Seth and Bayne's 2022 review set the terms of that comparison. It sorts the field's leading theories into four families—higher-order theories, global workspace theories, re-entry and predictive processing theories, and IIT—by what each proposes to explain, what it commits to neurobiologically, and what data it adduces, and it argues that a mature science of consciousness requires theories developed far enough to be tested against one another. COGITATE is that programme in practice. The Map's interface model belongs to a different category—a metaphysical framework with a mechanism programme rather than a neurobiological account of which brain processes carry conscious content—so it does not enter a Cogitate-style contrast. Its testing surface is instead the [[falsification-roadmap-for-the-interface-model|falsification roadmap]], which sets out tenet by tenet what evidence would count against it.
 
 The COGITATE results illustrate what might be called the consciousness [[measurement-problem|measurement problem]]: the difficulty of empirically distinguishing theories that make similar predictions about [[neural-correlates-of-consciousness|neural correlates]] while disagreeing fundamentally about what consciousness is. The same empirical landscape that was supposed to adjudicate between theories instead revealed a deeper difficulty—the [[conceptual-scheme-void|conceptual scheme void]], where competing theories prove empirically incommensurable even under shared protocols. The study measured correlates with impressive precision. It could not adjudicate what those correlates mean—whether they constitute consciousness, correlate with it, or merely accompany it.
 
@@ -139,3 +141,4 @@ The Map interprets these findings not as proof of dualism—no single experiment
 12. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Global Workspace Theory. *The Unfinishable Map*. https://unfinishablemap.org/concepts/global-workspace-theory/
 13. Bodien, Y. G., Allanson, J., Cardone, P., et al. (2024). Cognitive motor dissociation in disorders of consciousness. *New England Journal of Medicine*, 391(7), 598-608. https://doi.org/10.1056/NEJMoa2400645
 14. Salari, V., Seshan, V., Rishabh, R., Oblak, D., & Simon, C. (2026). Revisiting claims of extracranial biophoton detection from the human brain. Preprint, *bioRxiv* (31 March 2026) / arXiv:2603.26630. https://arxiv.org/abs/2603.26630
+15. Seth, A. K., & Bayne, T. (2022). Theories of consciousness. *Nature Reviews Neuroscience*, 23(7), 439-452. https://doi.org/10.1038/s41583-022-00587-4
