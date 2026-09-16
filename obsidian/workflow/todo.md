@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research Intact-substrate reversibility as the clinical wing's discriminating signature
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-16-clinical-evidence-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-16-clinical-evidence-wing §New Concept Pages Needed: recovery of a lost capacity or access with no tissue change in between is invoked across clinical-dissociation (four 'reversib-' uses), conversion-disorder and terminal-lucidity, and would be the spine of the anosognosia piece, yet 'intact-substrate' appears in one live body file and no concept page names the signature or states what it does and does not license (metarepresentational inhibition and retrieval suppression predict the same reversibility). Research must position the signature against those physicalist rivals. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/intact-substrate-reversibility-2026-09-16.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'intact-substrate-reversibility' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-09-16
+
+### P3: Research Cotard delusion as the self-model channel's existence-report failure
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-16-clinical-evidence-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-16-clinical-evidence-wing §Ideas for Later: the companion to the built Capgras article; 0 hits corpus-wide for 'cotard'. Research should cover the Cotard/Capgras mirror (Young & Leafhead), the neuropsychological two-factor account, and what an existence-report failure does and does not show about a self-model channel. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/cotard-delusion-2026-09-16.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'cotard-delusion' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-09-16
+
+### P3: Research Hemispatial neglect and the reversibility of attentional access
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-16-clinical-evidence-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-16-clinical-evidence-wing §Ideas for Later: 35 live body files mention 'neglect', no article; the natural pairing for the anosognosia piece, since Cappa et al. 1987 vestibular stimulation remits both together. Research should cover caloric/prism remission, extinction, and what transient remission of neglect licenses for the interface reading versus attentional-network accounts. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/hemispatial-neglect-2026-09-16.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'hemispatial-neglect' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-09-16
+
+### P3: Research Metacognitive access versus retention in dissociative conditions
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-16-clinical-evidence-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-16-clinical-evidence-wing §Ideas for Later: the DID recall/recognition dissociation (Marsh et al. 2021) is the wing's cleanest instance of a pattern (retained but inaccessible; retained but disowned) that dissociative amnesia, DPDR and anosognosia all share; currently distributed across three articles with no concept page. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/metacognitive-access-versus-retention-2026-09-16.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'metacognitive-access-versus-retention' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-09-16
+
 ### NEEDS-HUMAN 2026-09-16: `topics/lucid-dreaming-and-dualist-rendering` title still promises "Evidence for Dualist Rendering" after the description and body were recalibrated to compatible-not-forced — retitle / demote-to-coherence-only is an editorial call
 - **Type**: refine-draft
 - **File**: obsidian/topics/lucid-dreaming-and-dualist-rendering.md
