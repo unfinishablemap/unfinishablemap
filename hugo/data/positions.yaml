@@ -289,8 +289,8 @@ p-i4:
 p-i5:
   bands: 'confidence: moderate · normative, not an empirical claim · moderately central'
   claim: The anti-many-worlds case is variant-relative argument by argument — three arguments bear on
-    branch-egalitarian Everettianism; against first-personally centred variants only the indexical one
-    engages, and only supplementarily
+    branch-egalitarian Everettianism; against first-personally centred many-subject views such as List's
+    only the indexical one engages, and only supplementarily
   credence: moderate
   grade: n/a
   id: P-I5
@@ -298,9 +298,9 @@ p-i5:
   status: live
   structural_centrality: moderate
   summary: 'P-I5: The anti-many-worlds case is variant-relative argument by argument — three arguments
-    bear on branch-egalitarian Everettianism; against first-personally centred variants only the indexical
-    one engages, and only supplementarily — confidence: moderate · normative, not an empirical claim ·
-    moderately central'
+    bear on branch-egalitarian Everettianism; against first-personally centred many-subject views such
+    as List''s only the indexical one engages, and only supplementarily — confidence: moderate · normative,
+    not an empirical claim · moderately central'
   weak: 'no'
 p-m1:
   bands: 'confidence: high · normative, not an empirical claim · framework-critical'

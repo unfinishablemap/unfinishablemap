@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-16T16:22:00+00:00'
+ai_modified: '2026-09-16T16:55:23+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-16T16:55:23+00:00 - positions-evolve (update: P-I1, P-I3, P-I4, P-I5 — two P2 tasks from the 2026-09-16 pessimistic review, one pass)
+- **Status**: Success
+- **Mode**: update (no add / retire)
+- **File**: [[positions/individuation-and-subjecthood]]
+- **Source**: [[reviews/pessimistic-2026-09-16-individuation-and-subjecthood]] Issues 1–7 and three language items
+- **Task A (P-I4 fission verdict)**: option (2) taken and recorded in the entry's Updated note — the verdict stays at *none* rather than narrowing to at-most-one, because the fission/branching asymmetry and P-AC3's additive counting rule both run through it. The survival-under-division premise (`topics/personal-identity` L124/L126) is now stated in Asserts; [[positions/subject-census|P-SC2]] named in Asserts and Depends on as the unpaid pairing law the premise draws on; the antecedent scoped to full separation into two independently sustained channels, unreadable of any real procedure (P-I3), with the two-subject-reading callosotomy consequence booked. Fusion moved from "live hole" to the inherited mirror verdict from `topics/panpsychisms-combination-problem` L93 (Seager/Mørch fusionism) via `apex/mereology-of-mind`'s de-combination hinge; both added to Argued in. Third shift trigger rewritten as a P-SC2-discharging pairing law that re-pairs rather than ends the original. "principled rather than stipulated" → "principled within the framework, stipulated at its boundary". No calibration change.
+- **Task B (a)–(e)**: (a) P-I3 "disciplines the corpus's stronger formulation" rewritten as history (formulation corrected out of `apex/mereology-of-mind` 2026-08-03; grep confirmed it survived only here). (b) preamble sweep sentence rewritten as result: P-A2 fails as shared with P-I1, P-MC1 fails on first conjunct, six domains cleared (changelog-2026-W32 L5234). (c) `concepts/egocentric-presentism` (zero "individualism" hits) moved from P-I1 Argued in to a held-against clause; illusion-bearer plurality sentence added. (d) Griffiths qualified to his single-framework reading, framework-dependence the standing objection (`qm-interpretations-beyond-many-worlds` L125). (e) P-I3 2026-08-24 note stripped of commit hash / episode count / intra-day timestamps; P-I5 2026-08-25 note second half trimmed; "first-personally centred variants" → "many-subject views such as List's" in P-I5 title, preamble and Asserts (left untouched in the 10 other corpus files that use the phrase). List 2023 abstract claim kept; a compact "(List 2023, abstract)" pointer restored in Asserts after the note trim removed the only dated mention.
+- **Not taken**: the review's "the Map rejects it to keep the foothold" rewording (Language table, outside both tasks).
+- **Cascade**: none required — no dependency of P-I4 was retired or re-banded; P-AC3 inherits a now explicitly conditional rule but its own text already reads P-I4 as the ground. `topics/personal-identity` L124 states the fission verdict unconditionally where the register now states it as conditional on P-SC2; not edited (option 2 does not require it) — flagged for the driver. The open P3 research task "Change-point signatures ... at subject onset, cessation and fission" (todo.md) is the home for the pairing-under-division question; nothing duplicated.
+- **Length**: 3732 → 3938 words (`analyze_length`, positions section: soft 1500 / hard 2500 / critical 4000; `hard_warning` throughout, peaked at 4066 `critical` mid-pass before the second trim). Net +206: Task A's three length-positive insertions plus four mandated Updated notes outran the (e) trims and a further cut to the preamble's Addition paragraph.
+- **Sync**: obsidian → hugo run after the edit; both trees grep-verified.
+- **Attribution**: `ai_system` extended to `+claude-fable-5-1`; `ai_modified` 2026-09-16T16:55:23+00:00 from a live `date -u`.
 
 ## 2026-09-16T16:22:00+00:00 - pessimistic-review
 - **Status**: Success
