@@ -5,6 +5,19 @@ ai_modified: '2026-09-16T11:49:58+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-16T12:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-metaphysics-of-laws-and-dispositions]]
+- **Word count**: 4210 → 4201 (−9; body-only `analyze_length`, topics hard 4000 — over-length is the standing `DEFERRED-TO-HUMAN (2026-06-02)` length decision, not re-queued)
+- **Why it re-qualified**: `git diff 9a38571842` (07-14 review commit) showed the only change since as today's sibling Pautz (2015) family-resolution fix (commit 1172a2fe4c); zero prose delta. Settled lenses (metadata ledger 06-08, quote-fidelity/framing for Taylor + the Russellian-monism cluster 07-14, calibration, reasoning-mode) not re-run; ran the three §2.4 legs never run on this article.
+- **Critical issues addressed**: 2 — (1) L136 cited Coates (2021) and Engelhard (2010) alongside Taylor (2018) as pressing the collapse-or-conjunction dilemma; raw Springer abstract (via reader proxy, grepped: "I argue here that this can be done") and the *Philosophy in Review* 2012 PDF ("pursues instead an identity theory that develops the identity theories of C. B. Martin and John Heil") show both are DEFENDERS of the identity theory → reframed: "pressed most sharply by Taylor (2018); Coates (2021) and Engelhard (2010) defend readings on which the identity survives it". (2) Chalmers (1996) was a References orphan → "(Chalmers 1996)" installed on the zombie-argument sentence at L96.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral: +16 words offset by four tightenings at L76/L112/L120/L144, no calibration qualifier touched)
+- **Engagement modes** (unchanged): MWI Mode Three (L176); eliminativism boundary-marked (L178); Russellian monism Mode Two on the combination-problem ground (L120). Forbidden-label grep: 0.
+- **Stance leg**: Shoemaker/Bird/Ellis/Lewis/Heil/Martin cited only for property/law metaphysics, none presented as endorsing the Map; Mørch framed as competitor. Passed.
+- **Sync**: `scripts/sync.py` run; both trees verified.
+- **Output**: [[reviews/deep-review-2026-09-16-consciousness-and-the-metaphysics-of-laws-and-dispositions]]
+
 ## 2026-09-16T12:19:02+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/experimental-consciousness-science-2025-2026]]
