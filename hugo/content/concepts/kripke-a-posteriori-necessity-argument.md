@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-09-10 21:03:27+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-09-16 06:35:32+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
 - type-identity-theory
@@ -18,8 +18,8 @@ description: How Kripke's modal argument turns rigid designation and a-posterior
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-08-06 16:13:48+00:00
-lastmod: 2026-09-10 21:03:27+00:00
+last_deep_review: 2026-09-16 06:35:32+00:00
+lastmod: 2026-09-16 06:35:32+00:00
 modified: *id001
 related_articles:
 - knowledge-argument
@@ -33,7 +33,7 @@ topics:
 - '[[philosophy-of-mind]]'
 ---
 
-Saul Kripke's modal argument, developed in Lecture III of *Naming and Necessity*, is one of the standard anti-materialist arguments the Map treats as congenial to [dualism](/concepts/dualism/) — but, like the others, framework-relative rather than a knockdown. Its distinctive move is to turn a materialist's own semantic apparatus against them. If mind-brain identity theory says "pain is C-fibre firing" in the way physics says "heat is molecular motion," then — given how identity and reference actually work — that claim must be *necessarily* true if it is true at all. Yet the mind-brain identity seems contingent in a way Kripke argues cannot be explained away. If he is right, the identity is not merely unproven but false, and with it [type-identity materialism](/concepts/type-identity-theory/). The leading materialist rebuttal, the [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/), contests exactly the step that does the work, and remains live. The argument therefore strengthens the anti-materialist case without settling it — and Kripke goes no further than that, expressly denying that rejecting mind-brain identity implies dualism.
+Saul Kripke's modal argument, developed in Lecture III of *Naming and Necessity*, is one of the standard anti-materialist arguments the Map treats as congenial to [dualism](/concepts/dualism/) — but, like the others, framework-relative rather than a knockdown. Its distinctive move is to turn the identity theorist's own model against them. If mind-brain identity theory says "pain is C-fibre firing" in the way physics says "heat is molecular motion" — the scientific identities on which the theory was patterned, and which its founders took to be contingent — then, given how identity and reference actually work, that claim must be *necessarily* true if it is true at all. Yet the mind-brain identity seems contingent in a way Kripke argues cannot be explained away. If he is right, the identity is not merely unproven but false, and with it [type-identity materialism](/concepts/type-identity-theory/). The leading materialist rebuttal, the [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/), contests exactly the step that does the work, and remains live. The argument therefore strengthens the anti-materialist case without settling it — and Kripke goes no further than that, expressly denying that rejecting mind-brain identity implies dualism.
 
 ## The Machinery: Rigid Designation and A-Posteriori Necessity
 
@@ -47,7 +47,7 @@ The **necessity of identity** follows for rigid designators. If two rigid design
 
 ## The Argument Against Mind-Brain Identity
 
-Put together, the machinery generates a dilemma for the identity theorist. Type-identity theory asserts "pain is C-fibre firing" as a theoretical identity on the model of "heat is molecular motion." Both terms are rigid, so if the identity is true it is necessary — it must hold in every possible world. Yet the identity *seems contingent*: we can apparently conceive of pain occurring without any C-fibre firing (disembodied or differently embodied pain), and of C-fibres firing without any pain (a functioning nervous system in which the lights are off). If that appearance tracks genuine possibility, the identity fails.
+Put together, the machinery generates a dilemma for the identity theorist. Type-identity theory asserts "pain is C-fibre firing" as a theoretical identity on the model of "heat is molecular motion." The identity theorists themselves treated that identity as contingent — a matter of empirical discovery rather than of meaning (Smart 1959) — and this is exactly what the necessity of identity denies them. Both terms are rigid, so if the identity is true it is necessary — it must hold in every possible world. Yet the identity *seems contingent*: we can apparently conceive of pain occurring without any C-fibre firing (disembodied or differently embodied pain), and of C-fibres firing without any pain (a functioning nervous system in which the lights are off). If that appearance tracks genuine possibility, the identity fails.
 
 The identity theorist has a well-known escape route, and Kripke's argument turns on why it works for heat but not for pain.
 
@@ -97,6 +97,7 @@ Consistent with **Tenet 5 (Occam's razor has limits)**, the Map does not treat t
 
 1. Kripke, S.A. (1972). Naming and Necessity. In D. Davidson & G. Harman (Eds.), *Semantics of Natural Language* (pp. 253–355, addenda 763–769). Dordrecht: D. Reidel. [First publication of the three 1970 Princeton lectures.]
 2. Kripke, S.A. (1980). *Naming and Necessity*. Cambridge, MA: Harvard University Press. [Canonical standalone edition; the mind-body argument closes Lecture III, pp. 144–155.]
-3. Smart, J.J.C. The Mind/Brain Identity Theory. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/mind-identity/
-4. Southgate, A. & Oquatre-huit, C. (2026-07-12). Type-Identity Theory. *The Unfinishable Map*. https://unfinishablemap.org/concepts/type-identity-theory/
-5. Southgate, A. & Oquatre-six, C. (2026-01-15). The Phenomenal Concepts Strategy. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenal-concepts-strategy/
+3. Smart, J.J.C. (1959). Sensations and Brain Processes. *The Philosophical Review*, 68(2), 141–156.
+4. Smart, J.J.C. The Mind/Brain Identity Theory. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/mind-identity/
+5. Southgate, A. & Oquatre-huit, C. (2026-07-12). Type-Identity Theory. *The Unfinishable Map*. https://unfinishablemap.org/concepts/type-identity-theory/
+6. Southgate, A. & Oquatre-six, C. (2026-01-15). The Phenomenal Concepts Strategy. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenal-concepts-strategy/

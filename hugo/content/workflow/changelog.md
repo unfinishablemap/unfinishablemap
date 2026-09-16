@@ -1,14 +1,66 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-15T06:36:17+00:00'
+ai_modified: '2026-09-16T06:35:32+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
-date: '2026-09-15'
-lastmod: 2026-09-15 06:36:17+00:00
+date: '2026-09-16'
+lastmod: 2026-09-16 06:35:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-16T06:35:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [kripke-a-posteriori-necessity-argument](/concepts/kripke-a-posteriori-necessity-argument/)
+- **Word count**: 2164 → 2227 (+63)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (lead said Kripke turns "a materialist's own semantic apparatus" against them — the apparatus is Kripke's; what is the identity theorist's own is the *model* of contingent scientific identities, now stated with Smart 1959 publisher-verified at Crossref and the contingency claim grep-verified in the raw SEP text; `ai_system` appended with `claude-fable-5-1`)
+- **Enhancements made**: 2 (lead precision; one sentence in the argument section making the identity theorists' contingency claim explicit — the premise the necessity of identity removes)
+- **Verified, no change**: the 2026-09-10 [P-D1](/positions/arguments-for-dualism/#p-d1) paragraph's cluster assignment matches [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) L79–81 and [P-D1](/positions/arguments-for-dualism/#p-d1)'s cluster labels; the piped positions link renders to `/positions/arguments-for-dualism/#p-d1` with the anchor present; Kripke quotation ledger carried forward (body edit touched no citation)
+- **Engagement modes**: type-identity theorist — Mode One (now grounded in the opponent's own contingent-identity assertion, not in Kripke's semantics); phenomenal-concepts strategist — Mode Three residue declared; Kripke's anti-Cartesian disavowal — boundary declared, intact
+- **Output**: [deep-review-2026-09-16-kripke-a-posteriori-necessity-argument](/reviews/deep-review-2026-09-16-kripke-a-posteriori-necessity-argument/)
+
+
+## 2026-09-16T06:20:32+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-16
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-5, gemini-2-5-pro) — single-article audit of `topics/lucid-dreaming-and-dualist-rendering`
+- **Clusters**: 13 convergent (7 at 3/3), 16 singleton, 5 divergent
+- **Tasks upgraded**: 3 (P3→P2: 0, P2→P1: 3 — deep-review citation-fidelity lens; `concepts/predictive-processing` Simor install; `concepts/filter-theory` L198 common-cause list)
+- **Tasks deduplicated**: 0 (the collection passes had already folded every sibling finding into one task per file); 1 leg added to the target P1 (L46 neural-correlate gloss, 3/3, net ≈ 0 words); NEEDS-HUMAN retitle entry annotated with the 3/3 convergence and the declined-remedy MQI convergence
+- **Adjudication**: Gemini's retraction charge (Baird/Dresler 2019 *NBR*) false — the retraction is Patel et al. 2026 *Ann. Med. Surg.*; two of its five mandated sources fabricated/conflated; site-level PP/GNW absence false. Claude vs ChatGPT on the Metzinger/Revonsuo quotations resolved for Claude by full-text grep. Cluster 13 (missing foundational literature, 2/3) carried without a task under the length ceiling.
+- **Output**: [outer-review-synthesis-2026-09-16](/reviews/outer-review-synthesis-2026-09-16/)
+
+## 2026-09-16T05:58:48+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (Pro thinking) — referee audit of `topics/lucid-dreaming-and-dualist-rendering`, third same-date reviewer after Claude Opus 5 and Gemini 2.5 Pro
+- **File**: [outer-review-2026-09-16-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-09-16-chatgpt-5-6-sol-pro/)
+- **Collection**: page-side Blob download, SHA-256 `22588e65…` matched page↔disk (53,318 bytes); body byte-identical after `collect_review.py`; render complete (closes on methodology item 12)
+- **Claims verified**: 12 at abstract or full text (Baird 2022 *Sleep* zsab294, Koroma 2020, Konkoly 2021, Simor 2022, Demirel 2025, Voss 2009, Dresler 2012, Bilzer & Monzel 2025, Ffytche 1998, Yazmajian 1982; Baird 2018 and Hobson 2014 via the sibling's full-text greps; the "do not re-flag as critical" exemption wording verbatim in two deep reviews); 3 unverified; 6 disputed or lower-value — three quoted "article strings" do not exist, MQI/MWI removal and retitle duplicate sibling routing
+- **High-value findings**: 9 — Baird 2018 error propagated to 7 loci (3 live, 2 research, 2 archive; wider than the reviewer said); sensory channel gated not closed; Baird 2022 contradicts the "doing less" / "reduced neural resources" premise; colour-blind palette claim uncited; Bilzer scope (imagery vs perception); Hobson argumentative direction at L136; Simor 2022 absent corpus-wide; filter-theory L198 common-cause list omits dreams; framework-boundary exemption verified verbatim
+- **Tasks generated**: 3 new (P1: 1 — Baird sweep across seven loci; P2: 2 — `concepts/predictive-processing` Simor/Demirel/reciprocal link; `concepts/filter-theory` L198 + `concepts/mind-brain-separation` L90) and 2 extensions (open P1 on the target gains legs (j)–(o) with revised budget ≤ +480; open P2 deep-review lens task gains a third leg narrowing stability-note exemptions to framework commitments)
+- **Convergence**: Konkoly overreach and degradation-asymmetry/CBS gap — all three reviewers; Baird 2018 — Claude + ChatGPT; strongest PP rival missing — all three, each naming a different paper
+
+## 2026-09-16T05:42:45+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (Research mode, 234 sources) — adversarial referee audit of `topics/lucid-dreaming-and-dualist-rendering` (subject reused from the 02:00 ChatGPT leg; third leg of the cycle)
+- **File**: [outer-review-2026-09-16-claude-opus-5](/reviews/outer-review-2026-09-16-claude-opus-5/)
+- **Claims verified**: 7 at full text (Baird 2018 and Konkoly 2026 via Europe PMC XML; Hobson–Hong–Friston 2014 via Europe PMC; *The Ego Tunnel* and Revonsuo 2000 *BBS* via full PDF grep; Laukkonen 2025 absence/presence grepped across the corpus; 3:16 Metzinger interview) — 2 partial/unverified (Revonsuo 1995 provenance; Dresler/Voss n's, not cited by the article)
+- **High-value findings**: 5 — L116 Baird 2018 "reshapes neural structure" contradicted by the paper's "no significant differences in brain structure were observed"; L62 Metzinger quotation absent from *The Ego Tunnel* (genuine wording is from a 3:16 interview); L64 Revonsuo quotation absent from the 2000 *BBS* text; Konkoly 2026 cueing-null / lucidity-null (lucid 11% vs non-lucid 46%) omitted at L132/L138; Laukkonen 2025 unengaged though `predictive-processing-and-dualism` names it the strongest rival. Convergent with the same-date Gemini review on the Degradation-Asymmetry and Konkoly loci.
+- **Declined**: delete the Minimal Quantum Interaction paragraph (convention-mandated section, already labelled speculation); delete the degradation-asymmetry section (reframe via the Gemini P1 instead); co-optation "FAIL" for Hobson/Metzinger/Revonsuo (L48 already labels them physicalist — residue is Baird/Tononi/Friston, one clause)
+- **Tasks generated**: 1 new P2 (deep-review skill: result-direction/null-result and cited-author-stance legs) + 1 NEEDS-HUMAN (retitle / demote-to-coherence-only decision); the existing same-date Gemini P1 on the article was EXTENDED in place with loci (d)–(i) rather than minting a same-file sibling (combined budget ≤ +430 words against 671 headroom)
+- **Collection**: js-dom extraction via Blob download, 23,117 chars, body-stability sentinel 21,686 = 21,686 over 10 s; first collect attempt
+
+## 2026-09-16T05:29:26+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research) — hostile-referee audit of `topics/lucid-dreaming-and-dualist-rendering` (subject reused from the 02:00 ChatGPT leg)
+- **File**: [outer-review-2026-09-16-gemini-2-5-pro](/reviews/outer-review-2026-09-16-gemini-2-5-pro/)
+- **Claims verified**: 9 (5 mandated sources at Crossref/publisher; retraction notice at PMC; 2 attributed quotations grepped; site-level PP/GNW absence counted; neighbour coverage of blindsight/REBUS checked)
+- **High-value findings**: 2 article-level (precision-weighting + generative-model CBS reply missing from §Degradation Asymmetry; GNW reading of Konkoly missing and L138 "laboratory verification" overclaims Tenet 3) plus one register residue (L112 unhedged)
+- **Declined**: retraction charge (misattributed — Patel et al. 2026 *Ann. Med. Surg.*, not Gott/Dresler/NBR); "Void"/computational-phenomenology charge (about neighbour articles; citation conflates Sandved-Smith 2021 with Prest 2026); "Blom 2024" (fabricated author/year on Reichert et al. 2013); Wiese 2024 (real, off-topic); unfalsifiability (already conceded at filter-theory L156); ALBUS (psychedelics article carries REBUS)
+- **Tasks generated**: 1 (P1: 1) — single combined refine-draft on the article, three loci, direct-refutation remit on the GNW locus
+- **Collection**: js-dom extraction, 31,487 chars, SHA-256 verified against the page-side hash (24 NBSP citation-chip remnants restored)
 
 ## 2026-09-15T09:30:00+00:00 - research-topic
 - **Status**: Success

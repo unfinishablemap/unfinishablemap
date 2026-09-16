@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-16T06:20:32+00:00'
+ai_modified: '2026-09-16T06:35:32+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-16T06:35:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/kripke-a-posteriori-necessity-argument]]
+- **Word count**: 2164 → 2227 (+63)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (lead said Kripke turns "a materialist's own semantic apparatus" against them — the apparatus is Kripke's; what is the identity theorist's own is the *model* of contingent scientific identities, now stated with Smart 1959 publisher-verified at Crossref and the contingency claim grep-verified in the raw SEP text; `ai_system` appended with `claude-fable-5-1`)
+- **Enhancements made**: 2 (lead precision; one sentence in the argument section making the identity theorists' contingency claim explicit — the premise the necessity of identity removes)
+- **Verified, no change**: the 2026-09-10 P-D1 paragraph's cluster assignment matches [[topics/the-convergence-argument-for-dualism]] L79–81 and P-D1's cluster labels; the piped positions link renders to `/positions/arguments-for-dualism/#p-d1` with the anchor present; Kripke quotation ledger carried forward (body edit touched no citation)
+- **Engagement modes**: type-identity theorist — Mode One (now grounded in the opponent's own contingent-identity assertion, not in Kripke's semantics); phenomenal-concepts strategist — Mode Three residue declared; Kripke's anti-Cartesian disavowal — boundary declared, intact
+- **Output**: [[reviews/deep-review-2026-09-16-kripke-a-posteriori-necessity-argument]]
+
 
 ## 2026-09-16T06:20:32+00:00 - combine-outer-reviews
 - **Status**: Success
