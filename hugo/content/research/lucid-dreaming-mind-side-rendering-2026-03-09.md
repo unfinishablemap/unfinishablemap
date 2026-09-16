@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
+ai_modified: 2026-09-16 07:03:44+00:00
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-09
-date: '2026-03-09'
+date: '2026-09-16'
 draft: false
-lastmod: 2026-03-09 00:00:00+00:00
+lastmod: 2026-09-16 07:03:44+00:00
 related_articles: []
 title: Research Notes - Lucid Dreaming as Evidence for Mind-Side Rendering Capability
 ---
@@ -74,7 +75,7 @@ Lucid dreaming demonstrates that consciousness can generate fully immersive, phe
 - **URL**: https://naturalism.org/philosophy/consciousness/experience-as-a-virtual-reality
 - **Type**: Article
 - **Key points**:
-  - Metzinger: "What we call waking life is a form of online dreaming"
+  - Metzinger: "the conscious wake state is a controlled hallucination, a form of 'online dreaming'" (verbatim from the 3:16 interview "All About the Ego Tunnel", 25 Feb 2016, https://www.3-16am.co.uk/articles/all-about-the-ego-tunnel; the paraphrase previously recorded here (waking life as a form of "online dreaming") is not in *The Ego Tunnel* (2009) and not at this naturalism.org URL — corrected 2026-09-16)
   - In lucid dreams, one experiences the fact that experience is being constructed — a "gut-level revelation"
   - Waking experience is constrained by sensory feedback but otherwise generated the same way as dreams
 - **Tenet alignment**: Conflicts with dualism (Metzinger is a physicalist) but the phenomenological observations strongly support dualist interpretation — consciousness demonstrably generates reality-models autonomously
@@ -83,7 +84,7 @@ Lucid dreaming demonstrates that consciousness can generate fully immersive, phe
 - **URL**: https://www.interaliamag.org/interviews/antti-revonsuo-dreaming-consciousness-and-virtual-reality/
 - **Type**: Interview/article
 - **Key points**:
-  - Dreaming is "a virtual-reality simulation of the perceptual world, created internally without the contribution of external physical stimulation"
+  - Dreaming is "an organized simulation of the perceptual world; a virtual reality" (verbatim, Revonsuo 2000 *BBS* 23(6); the paraphrase previously recorded here (a virtual-reality simulation created internally without external stimulation) is not in the 2000 paper — corrected 2026-09-16)
   - Dream consciousness is "an organized and selective simulation of the perceptual world"
   - Threat Simulation Theory: dreams rehearse threat scenarios for adaptive advantage
 - **Tenet alignment**: Neutral — Revonsuo's evolutionary framing is physicalist, but his description of dream phenomenology supports the dualist case for mind-side rendering

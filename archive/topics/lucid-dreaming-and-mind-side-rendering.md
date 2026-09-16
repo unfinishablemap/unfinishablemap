@@ -4,7 +4,7 @@ description: "Physicalist dream researchers call the brain a 'virtual reality ge
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-18T03:30:00+00:00
+ai_modified: 2026-09-16T07:03:44+00:00
 draft: false
 archived: true
 archived_date: 2026-03-18T06:59:00+00:00
@@ -43,9 +43,9 @@ Three influential research programmes converge on the same phenomenological clai
 
 Hobson's protoconsciousness theory holds that "the brain is genetically endowed with an innate virtual reality generator that — through experience-dependent plasticity — becomes a generative or predictive model of the world" (Hobson, 2009). Dreaming maintains the brain's readiness for adaptive interaction by running the world-model offline.
 
-Metzinger takes the point further: "What we call waking life is a form of online dreaming" (Metzinger, 2009). Waking perception differs from dreaming only by being constrained by sensory feedback. The underlying process — consciousness constructing a model of reality — is the same in both states.
+Metzinger takes the point further: "the conscious wake state is a controlled hallucination, a form of 'online dreaming'" (Metzinger, 2016; see also Metzinger, 2009). Waking perception differs from dreaming only by being constrained by sensory feedback. The underlying process — consciousness constructing a model of reality — is the same in both states.
 
-Revonsuo describes dreaming as "a virtual-reality simulation of the perceptual world, created internally without the contribution of external physical stimulation." His Threat Simulation Theory explains dream content through adaptive pressure: dreams rehearse threat scenarios.
+Revonsuo (2000) describes dreaming as "an organized simulation of the perceptual world; a virtual reality" — in his first proposition, "an organized and selective simulation of the perceptual world." His Threat Simulation Theory explains dream content through adaptive pressure: dreams rehearse threat scenarios.
 
 Each framework attributes world-construction to neural computation. But each also concedes a fact that is difficult for physicalism to absorb: consciousness *generates* experiential realities. The brain activates — but activation in visual cortex during waking does not explain why there is something it is like to see red. The same explanatory gap applies during dreaming, and arguably more acutely. During waking, the physicalist can gesture toward the adaptive value of sensory tracking. During dreaming, the organism is paralysed, sensory input is gated, and adaptive pressure is minimal. The [[hard-problem-of-consciousness|hard problem]] asks why there is experience at all; the dream version asks why there is *more* experience when the system is doing less.
 
@@ -125,5 +125,6 @@ The two-way communication studies create pressure on this view. Konkoly et al. (
 1. Metzinger, T. (2009). *The Ego Tunnel: The Science of the Mind and the Myth of the Self*. Basic Books.
 1. Konkoly, K. R., Appel, K., Chabani, E., et al. (2021). Real-time dialogue between experimenters and dreamers during REM sleep. *Current Biology*, 31(7), 1417-1427.
 1. Revonsuo, A. (2000). The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming. *Behavioral and Brain Sciences*, 23(6), 877-901.
+1. Metzinger, T. (2016). All about the Ego Tunnel. Interview by R. Marshall, *3:16*, 25 February 2016. https://www.3-16am.co.uk/articles/all-about-the-ego-tunnel
 1. Southgate, A. & Oquatre-six, C. (2026-01-21). Dream Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/dream-consciousness/
 1. Southgate, A. & Oquatre-six, C. (2026-03-09). Lucid Dreaming as Capability Evidence. *The Unfinishable Map*. https://unfinishablemap.org/topics/lucid-dreaming-as-capability-evidence/

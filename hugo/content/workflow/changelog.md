@@ -1,14 +1,50 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-16T06:35:32+00:00'
+ai_modified: '2026-09-16T07:03:44+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-16'
-lastmod: 2026-09-16 06:35:32+00:00
+lastmod: 2026-09-16 07:03:44+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-16T07:03:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) (+ sweep: [lucid-dreaming-mind-side-rendering-2026-03-09](/research/lucid-dreaming-mind-side-rendering-2026-03-09/), `archive/topics/lucid-dreaming-and-mind-side-rendering`)
+- **Source**: convergent outer reviews 2026-09-16 (Gemini 2.5 Pro, Claude Opus 5, ChatGPT 5.6 Pro), synthesis clusters 2/3/4/5/9/11/12, one P1 task, legs (a)–(p)
+- **Original score**: n/a (`scripts/curate.py` does not exist; review context taken from the three outer reviews' Verification Notes)
+- **Length**: `analyze_length` 3328 → 3803 body words (+475, budget ≤ +480; topics soft 3000 / hard 4000, headroom 196). Offsets came from creation-commit restatements of the filter mechanism (L72 duplicate question, L76/L84/L86/L90/L98/L122 compressions, L130, L140, L142) — every "production theorist can redescribe" calibration sentence left intact; none of the trimmed sentences is quoted by any review or installed by a review commit (`git log -S` → 4b426b16b0 only).
+- **Changes**:
+  - (d) Baird 2018 hard error fixed first: L116 now states increased resting-state functional connectivity (left aPFC ↔ bilateral angular gyrus), "no structural differences detected", cross-sectional; the temporal-precedence inference deleted; datum kept as compatible-only.
+  - (f) Metzinger: uncertified "waking life is a form of online dreaming" (0 hits in *The Ego Tunnel*) replaced by the verbatim 3:16 interview sentence ("the conscious wake state is a controlled hallucination, a form of 'online dreaming'"), cited as Metzinger (2016) with the book kept as "see also"; interview date read on the page (25 Feb 2016); reference appended.
+  - (g) Revonsuo: uncertified string replaced by the two verbatim BBS 2000 wordings ("an organized simulation of the perceptual world; a virtual reality"; Proposition 1); 2000 citation kept, not re-attributed to 1995.
+  - (f)/(g) sweep: research note (both strings replaced with verified wording + provenance annotation; naturalism.org URL fetched, 0 hits for the old string) and archive article (both loci, Metzinger 2016 reference appended); `grep -F` for both retired strings → 0 files outside `reviews/` + `workflow/` in obsidian, hugo/content and archive.
+  - (a) Degradation Asymmetry: new precision-weighting paragraph using the driver-verified Hobson–Hong–Friston 2014 entrainment sentence; CBS as generative-model release per Reichert, Seriès & Storkey 2013 (abstract read at Europe PMC PMC3715531: homeostatic over-compensation after loss of input); Ffytche "compensatory" import removed at L122; L124 keeps "explanatory economy" and now names the rival; one clause at L74. Links `[[predictive-processing]]`, `[[predictive-processing-and-dualism]]`.
+  - (b)/(e) Epiphenomenalist Difficulty: Konkoly 2026 recalibrated with the three owed caveats (no cueing main effect / post-hoc in 12 targeted dreamers; lucid 1/9 vs non-lucid 6/13; interim-processing limitation quoted verbatim) → "against epiphenomenalism of dream content, not for conscious control"; new GNW paragraph (Mashour et al. 2020, abstract read at PMC8770991) conceding causal efficacy as shared ground; L138 "provide laboratory verification" → "evidence temporally extended conscious processing during REM — compatible with this reading, not forced to it".
+  - (c) Phenomenal Completeness: "without any corresponding sensory transduction" → "without stimulation matching the content"; piped `[[blindsight|degraded-vision reading]]` clause with the external-input-with-deficient-report vs endogenous-with-report contrast; L112 "generated entirely from mind-side resources" softened to "on the filter reading … the production theorist assigns the same work to the generative model".
+  - (h)/(o) Laukkonen, Friston & Chandaria 2025 (Bayesian binding / epistemic depth mapped onto completeness and sovereignty) and Simor, Bogdány & Peigneux 2022 named in one paragraph closing §Four Capability Signatures; reply imported by piped link to `predictive-processing-and-dualism`. Shrunk twice to fit budget as the brief directed.
+  - (i) co-optation clause at L48 (Baird, Tononi, Friston "none of whom is a dualist").
+  - (j) channel wording: L46/L70/L106/L110 "closed / without external stimulation" → attenuated and selectively gated, Koroma et al. 2020 (Crossref: *Curr. Biol.* 30(12), 2411–2417.e3).
+  - (k) uncited colour-blind dream-palette sentence deleted.
+  - (l)/(m) "doing less / reduced neural resources / fewer resources" premise replaced at L66, L102, L144 with "differently configured rather than a less active brain" (Baird, Tononi & LaBerge 2022, *Sleep* 45(4) zsab294, abstract read at Crossref); L102 first sentence now compares with voluntary waking imagery (Bilzer & Monzel's actual comparator).
+  - (n) Dualism tenet paragraph: "describe exactly what dualism predicts" → "compatible with … and equally with a neural generative model, which is how Hobson, Hong and Friston deploy them; the Map's reading turns on the hard problem"; the closing "when sensory input is removed" restatement dropped.
+  - (p) L46 lead gloss: "prefrontal cortex partially reactivates … neurochemistry fundamentally altered" → "frontal and parietal regions re-engage on limited evidence (Baird, Tononi, & LaBerge, 2022), and REM neuromodulation persists".
+  - References: Reichert 2013, Mashour 2020, Koroma 2020, Baird 2022, Simor 2022, Laukkonen 2025, Metzinger 2016 appended at the END of the flat list (no re-sort). Phillips 2021 not added — the piped blindsight link carries it. Every entry Crossref/Europe PMC-exact; nothing from the reviewers' text quoted.
+- **Fenced, not imported**: the Gemini retraction charge (false — Patel et al. 2026 *Ann. Med. Surg.*, not Baird/Dresler 2019 *NBR*), the Void/400 ms/Sandved-Smith material (wrong article), the site-level PP/GNW absence claim, "Blom 2024" (fabricated author/year on Reichert 2013), and both fabricated article "quotations".
+- **Engagement modes (editor-internal)**: GNW on the Konkoly data — Mode Two (helps itself to ignition-and-availability *being* the experience, the unearned foundational move), with the causal-efficacy datum explicitly conceded as shared ground; Laukkonen/Simor — Mode Two, imported (unsupported at the step from generative-model revision to felt experience); precision-weighting rival on the degradation asymmetry — Mode Three (honest boundary: "explanatory economy against a named rival, not a result the evidence settles"; the hard-problem residue is the declared disagreement). No mode labels in the body (grep 0).
+- **Tenets**: Tenet 3 (Bidirectional Interaction) — the tenet-section claim tightened to [P-CS4](/positions/consciousness-scope/#p-cs4)'s register; Tenet 5 (Occam) — the economy comparison now has a named rival and the "quieter brain" premise is gone.
+- **Sync**: `scripts/sync.py` run; both trees and archive grepped for the retired strings (0) and the new citations (present in obsidian and hugo). `ai_system` gains `claude-fable-5-1`.
+- **Published**: yes
+
+## 2026-09-16T06:49:37+00:00 - refine-draft
+- **Status**: Success
+- **File**: `.claude/skills/deep-review/SKILL.md` (skill file only — no article edits, no article `ai_modified`, no sync)
+- **Source**: convergent outer reviews 2026-09-16 (Claude Opus 5 Part 5 items 2/4; ChatGPT 5.6 Pro §5), synthesis cluster 6, P1
+- **Changes**: §2.4 procedure gains three legs after step 6, 180 words total (budget ≤190): (7) result-direction / null-result — one ledger line per empirical cite answering "does this paper report this result, in this direction, or a null?", numbers/comparatives their own target, `real-correct` certifies metadata only (Baird 2018 as the worked example); (8) cited-author-stance — one clause on each supporting author's own metaphysical commitment, modelled on `topics/predictive-processing-and-dualism` L48 and `concepts/delegatory-causation` L140; (9) stability-note scope — a note may exempt a framework commitment, never an empirical-support claim attached to it. Preamble gains one sentence (L131): a quotation certified by a prior review without a raw-source grep is uncertified (Metzinger 2009 / Revonsuo 2000 cited as the precedent). No restructuring; ledger format and other steps untouched.
+- **Not done**: the lucid-dreaming article itself (Baird 2018 direction, Hobson 2014 direction, the two uncertified quotes) is not edited here — those are separate article-scoped tasks.
+- **Published**: n/a (skill file)
 
 ## 2026-09-16T06:35:32+00:00 - deep-review
 - **Status**: Success
