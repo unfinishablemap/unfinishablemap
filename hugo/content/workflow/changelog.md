@@ -10,6 +10,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-16T17:54:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [biological-teleology-and-the-interface-framework](/topics/biological-teleology-and-the-interface-framework/)
+- **Word count**: 2538 → 2580 (+42)
+- **Critical issues addressed**: 1 — the 2026-09-09 "Four Senses of 'Goal'" section files represented goals (genuine aboutness) with the standard account, while the unchanged gazelle paragraph said the representation's *aboutness* "cannot be captured in purely physical vocabulary"; rewritten so irreducibility attaches to felt valuation (sense 4), not representational content (sense 3)
+- **Medium issues addressed**: 2 — comparison-table "Goal structure" cell now includes unfelt models and states the real discriminator ("nothing matters *to* the system"); moth example tied to the taxonomy ("the fourth sense in its barest form")
+- **Enhancements made**: 0 beyond the above
+- **Citations**: metadata ledger unchanged since 2026-07-16 (all real-correct, re-confirmed 2026-08-08); result-direction leg run this pass — DeWall 2008 abstract fetched raw from PubMed, direction confirmed. New section's three uncited illustrations are textbook-level and carried by the linked chemotaxis/bioelectric articles
+- **New No-Many-Worlds paragraph**: checked against `tenets/background-commitments` Posit Three — canonical "globally nonactual"/posit wording, framework-boundary marking; clean
+- **Reasoning modes**: physicalism/functionalism — Mode Three (unchanged); Everettian — Mode Three, explicitly marked; no label leakage
+- **Length**: 86% of soft threshold; normal mode
+- **Sync**: obsidian → hugo run after the edit; both trees grep-verified
+- **Attribution**: `ai_system` extended to `+claude-fable-5-1`; `ai_modified` and `last_deep_review` 2026-09-16T17:54:00+00:00
+- **Output**: [deep-review-2026-09-16-biological-teleology-and-the-interface-framework](/reviews/deep-review-2026-09-16-biological-teleology-and-the-interface-framework/)
+
 ## 2026-09-16T17:55:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Change-point signatures in the psychophysical transition law at subject onset, cessation and fission (P3, research-harvest from outer-review-2026-09-14-chatgpt-5-6-sol-pro §4.2)

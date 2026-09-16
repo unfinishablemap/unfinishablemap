@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-09-09 11:23:53+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
+ai_modified: 2026-09-16 17:54:00+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -22,8 +22,8 @@ description: How the Map's interface framework transforms biological teleology f
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-16 15:43:48+00:00
-lastmod: 2026-09-09 11:23:53+00:00
+last_deep_review: 2026-09-16 17:54:00+00:00
+lastmod: 2026-09-16 17:54:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,7 +76,7 @@ Consider the contrast with pure biological function:
 |---------|-------------------|-------------------|
 | **Explanation** | Selected effects (backward-looking) | Intention (forward-looking) |
 | **Causation** | Mechanistic chain | Agent selection among options |
-| **Goal structure** | Attractor or set-point (goals observer-attributed) | Phenomenally valued outcome (represented *and* felt to matter) |
+| **Goal structure** | Attractor, set-point, or unfelt model (nothing matters *to* the system) | Phenomenally valued outcome (represented *and* felt to matter) |
 | **Counterfactuals** | If selection had differed, different traits would exist | If the agent had chosen differently, different action would follow |
 | **Mechanism** | Genetic variation + natural selection | Neural competition + conscious selection at the interface |
 
@@ -86,9 +86,9 @@ The interface framework specifies where the transition occurs. Below the selecti
 
 Under physicalism, purposes reduce to functional descriptions. A gazelle "flees in order to survive" is shorthand for "the gazelle's neural states, caused by sensory input and shaped by selection history, produce fleeing behaviour." The purpose-language is convenient but eliminable. Nothing in the causal chain involves genuine intention.
 
-Under the Map's dualism, purposes have a different ontological standing. The gazelle's fear is a conscious state that causally contributes to fleeing through the [bidirectional interface](/tenets/#bidirectional-interaction). The fear represents danger. The representation is not a neural pattern (though it correlates with one) but a phenomenal state with intentional content—*aboutness* that cannot be captured in purely physical vocabulary. The gazelle flees *because* it fears death, where "because" picks out genuine mental causation rather than a mere functional redescription of neural events. The [psychophysical-laws](/concepts/psychophysical-laws/) governing this interaction remain to be specified, but the interface framework identifies *where* in the causal architecture they operate.
+Under the Map's dualism, purposes have a different ontological standing. The gazelle's fear is a conscious state that causally contributes to fleeing through the [bidirectional interface](/tenets/#bidirectional-interaction). The fear represents danger, and the danger *matters* to the gazelle. Representational content on its own is the third of the senses distinguished above, and an unfelt model could carry it; what resists purely physical vocabulary is the felt valuation attached to that content—the fourth sense—and it is the valuation, not the bare aboutness, that does causal work at the interface. The gazelle flees *because* it fears death, where "because" picks out genuine mental causation rather than a mere functional redescription of neural events. The [psychophysical-laws](/concepts/psychophysical-laws/) governing this interaction remain to be specified, but the interface framework identifies *where* in the causal architecture they operate.
 
-This does not require attributing sophisticated cognition to every conscious organism. A moth navigating toward light may have minimal [phenomenal experience](/concepts/phenomenal-consciousness/)—a bare valence of attraction without conceptual content. But if that minimal experience causally influences which motor pattern actualises through the selection interface, even minimal consciousness introduces genuine (if rudimentary) purpose. The threshold for purpose is not linguistic capacity or reflective self-awareness but causal efficacy through the interface.
+This does not require attributing sophisticated cognition to every conscious organism. A moth navigating toward light may have minimal [phenomenal experience](/concepts/phenomenal-consciousness/)—a bare valence of attraction without conceptual content, the fourth sense in its barest form. But if that minimal experience causally influences which motor pattern actualises through the selection interface, even minimal consciousness introduces genuine (if rudimentary) purpose. The threshold for purpose is not linguistic capacity or reflective self-awareness but causal efficacy through the interface.
 
 ## Biological Function as Interface Scaffolding
 
