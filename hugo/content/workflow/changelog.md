@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-16T15:38:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
+- **Original score**: n/a (`scripts/curate.py` absent; review context from `reviews/optimistic-2026-09-16-phenomenal-epistemology-wing.md` Calibration concern 2)
+- **Changes**: Rewrote the second-person **Implication** line (was "problem of other minds is dissolved by recognizing that second-person experience ... is primary") to the position held by `topics/the-second-person-evidential-channel` and `concepts/problem-of-other-minds` L170: mutual recognition is a third evidential channel that bypasses theory-mediated inference while the problem of other minds stays open; carries a piped link `[[the-second-person-evidential-channel|third evidential channel]]` (first cross-link between the two articles in either direction). Removed both "This isn't X. It's Y." constructs (L42 explanatory-gap sentence, L84 conceptual-failure sentence) with length-neutral rephrasings. Quantum and idealism sections untouched per task. Length 2553 → 2553 words (`analyze_length`, printed; soft 2500 / hard 3500). Reasoning-mode note: the only named-opponent engagement is Dennett/heterophenomenology — Mode Three, the article already marks the disagreement as fundamental rather than claiming in-framework refutation; not edited. Synced to hugo; "is dissolved by recognizing" grepped absent in both trees' article files.
+- **Published**: yes
+
 ## 2026-09-16T15:24:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [vertiginous-question](/topics/vertiginous-question/)
