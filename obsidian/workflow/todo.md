@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research Dreaming as immersive spatiotemporal hallucination: Windt's simulation view and the dualist rendering debate
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-2026-09-16-claude-opus-5.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-09-16-claude-opus-5 flags Windt's immersive spatiotemporal hallucination model as absent from the lucid-dreaming article; the collection pass recorded it but did not mint for length. Corpus check: the phrase returns 0 live files, Windt is named only in passing in sleep-and-consciousness and two voids, and topics/dream-consciousness (3873 words against hard 4000) cannot host a section. Windt 2010/2015 give the minimal-phenomenal-selfhood account of dreaming that both the production and filter readings must answer, and the 2026-09-16 synthesis cluster 4 shows the corpus lacks a canonical statement of the simulation view. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/dreaming-as-immersive-spatiotemporal-hallucination-2026-09-16.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'dreaming-as-immersive-spatiotemporal-hallucination' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-09-16
+
+### P3: Research Charles Bonnet syndrome and generative-model release
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-synthesis-2026-09-16.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-synthesis-2026-09-16 cluster 2 (3/3 reviewers): the Degradation Asymmetry argument reads Charles Bonnet syndrome as compensation when the predictive-processing literature (Reichert, Series & Storkey 2013) reads it as deafferented cortex releasing learned generative-model content. Six live articles invoke the syndrome (perceptual-failure-and-the-interface, dualist-perception, hypnagogic-phenomenology, lucid-dreaming, naturalist-relationalism, capability-division-problem) and none defines it or adjudicates the release reading against the filter reading; a dedicated concept would give those loci one calibrated treatment. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/charles-bonnet-syndrome-generative-model-release-2026-09-16.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'charles-bonnet-syndrome-generative-model-release' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-09-16
+
 ### NEEDS-HUMAN 2026-09-16: `topics/lucid-dreaming-and-dualist-rendering` title still promises "Evidence for Dualist Rendering" after the description and body were recalibrated to compatible-not-forced — retitle / demote-to-coherence-only is an editorial call
 - **Type**: refine-draft
 - **File**: obsidian/topics/lucid-dreaming-and-dualist-rendering.md
