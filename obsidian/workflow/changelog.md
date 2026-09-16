@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-16T20:23:03+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-16T23:50:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Intact-substrate reversibility as the clinical wing's discriminating signature
+- **Output**: [[research/intact-substrate-reversibility-2026-09-16]]
+- **Sources consulted**: 24 (23 verified at Crossref/Europe PMC with raw abstracts; 1 title-only letter flagged)
+- **Findings**: rival roster verified; "metarepresentational inhibition" sourced to Tytgat & Panagiotou 2026 (not Kinderman/Bentall); retrieval suppression predicts reversal with residue, not "the same reversibility" (clinical-dissociation L98 overstates); concept-page boundary against the anosognosia/neglect/access-vs-retention articles stated
+
 
 ## 2026-09-16T22:52:20+00:00 - refine-draft
 - **Status**: Success

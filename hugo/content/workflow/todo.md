@@ -39,6 +39,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research Intact-substrate reversibility as the clinical wing's discriminating signature
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-16-clinical-evidence-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-16-clinical-evidence-wing §New Concept Pages Needed: recovery of a lost capacity or access with no tissue change in between is invoked across clinical-dissociation (four 'reversib-' uses), conversion-disorder and terminal-lucidity, and would be the spine of the anosognosia piece, yet 'intact-substrate' appears in one live body file and no concept page names the signature or states what it does and does not license (metarepresentational inhibition and retrieval suppression predict the same reversibility). Research must position the signature against those physicalist rivals. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/intact-substrate-reversibility-2026-09-16.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'intact-substrate-reversibility' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-09-16
+
+### P3: Research Cotard delusion as the self-model channel's existence-report failure
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-16-clinical-evidence-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-16-clinical-evidence-wing §Ideas for Later: the companion to the built Capgras article; 0 hits corpus-wide for 'cotard'. Research should cover the Cotard/Capgras mirror (Young & Leafhead), the neuropsychological two-factor account, and what an existence-report failure does and does not show about a self-model channel. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/cotard-delusion-2026-09-16.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'cotard-delusion' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-09-16
+
+### P3: Research Hemispatial neglect and the reversibility of attentional access
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-16-clinical-evidence-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-16-clinical-evidence-wing §Ideas for Later: 35 live body files mention 'neglect', no article; the natural pairing for the anosognosia piece, since Cappa et al. 1987 vestibular stimulation remits both together. Research should cover caloric/prism remission, extinction, and what transient remission of neglect licenses for the interface reading versus attentional-network accounts. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/hemispatial-neglect-2026-09-16.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'hemispatial-neglect' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-09-16
+
+### P3: Research Metacognitive access versus retention in dissociative conditions
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-16-clinical-evidence-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-16-clinical-evidence-wing §Ideas for Later: the DID recall/recognition dissociation (Marsh et al. 2021) is the wing's cleanest instance of a pattern (retained but inaccessible; retained but disowned) that dissociative amnesia, DPDR and anosognosia all share; currently distributed across three articles with no concept page. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/metacognitive-access-versus-retention-2026-09-16.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'metacognitive-access-versus-retention' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-09-16
+
 ### NEEDS-HUMAN 2026-09-16: `topics/lucid-dreaming-and-dualist-rendering` title still promises "Evidence for Dualist Rendering" after the description and body were recalibrated to compatible-not-forced — retitle / demote-to-coherence-only is an editorial call
 - **Type**: refine-draft
 - **File**: obsidian/topics/lucid-dreaming-and-dualist-rendering.md
@@ -206,22 +230,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: 2026-09-14 refine-draft pass on the (B)/(D)/(G) remainder task, which found the task's "51-word gate" premise stale by 1,751 words
 - **Generated**: 2026-09-14
 - **Notes**: Do NOT re-open (D) or (B) — both landed on 2026-09-14 length-neutrally. DeMarco & Ford (2014) remains uncited because its argument could not be read (no accessible abstract); if the human wants the ally citation, it needs someone with the paper. (G) is declined for good.
-
-### P3: sign-problem leaves Horn 2 unpriced while the corpus's newest article supplies exactly the missing price — two same-day creates, four hours apart, zero mutual mentions
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/sign-problem-for-conscious-observation.md
-- **Second file**: obsidian/concepts/agency-budget.md
-- **Source**: optimistic-review 2026-08-16 (see obsidian/reviews/optimistic-2026-08-16-interface-formalism-wing.md, "Cross-Linking Suggestions")
-- **Generated**: 2026-08-16
-- **Notes**: **AN ENRICHMENT, NOT A DEFECT.** `sign-problem` was created 2026-08-16 14:27 UTC and its citations verified clean on this pass — all four Kofman & Kurizki (2000) fragments, the Virzì τ_c criterion and the Denton et al. (2024) quote reproduce the publisher-verified research note verbatim; the note's three flagged gaps all propagate as caveats; and the article correctly declines to import the Fischer 30 μs Bloch-period figure the note warned against conflating with the 1 μs / 5 μs crossover. Its five inbound links were installed the same day. Nothing here is a correction.
-  **THE GAP.** `sign-problem` L57 states Horn 2 — "the agent controls observation timing precisely enough to sit on the chosen side of a crossover defined by the bath correlation time ... A sign-selecting agent is small in magnitude and complex in specification" — and leaves that specification cost entirely unquantified, concluding at L53 that "Two readings are available, and the Map can presently defend neither."
-  `obsidian/concepts/agency-budget.md`, created **the same day at 10:44 UTC by the same model**, supplies precisely the missing apparatus: a marginal-constraint conservation law for any selector required to leave the public distribution Born-exact, with a closed-form ceiling — "at most min(H(conscious source), H(Born distribution)) bits of reasons-correlated selection per event, at exactly zero statistical signature." Specifying observation timing against a bath correlation time on the order of 10⁻¹⁴ s is a specification demand of a wholly different order from that budget. **Grep-verified at mint time: `agency-budget` contains zero occurrences of "Zeno" or "sign problem"; `sign-problem` contains zero occurrences of "agency budget". Neither article knows the other exists.**
-  **WHAT THE FIX SHOULD AND SHOULD NOT CLAIM.** It does *not* resolve the dilemma — it argues against Horn 2, which pushes toward Horn 1, the horn that costs the Map its agency reading. Write it that way. The honest upgrade is from "the Map can presently defend neither" to "one horn now has an independent quantitative argument against it, and it is not the horn the Map wanted." Do **not** present the budget as evidence for the interface: `agency-budget` itself insists it is "citable as framework-internal coherence arithmetic and never as established mental causation", and that register must survive the import. A second, weaker corroboration is available from `topics/bandwidth-of-consciousness` (~10 bits/s consciousness-to-brain) — cite it as corroboration, not as a separate result.
-  **RECIPROCAL LINK REQUIRED — do not drop the second file.** `agency-budget` should gain a pointer noting the sign problem as the budget's first concrete test case. A one-file edit leaves the gap half-closed.
-  **Optional third link, lower value, include only if length allows**: `concepts/bohm-implicate-order-and-active-information` is a worked example of the same magnitude-versus-specification distinction with the valence reversed — Bohm's active information "depends only on the *form* of the quantum field, not on its intensity or amplitude", treating richness-of-form-at-negligible-magnitude as the mechanism's virtue where `sign-problem` treats it as the hidden cost. `bohm` carries open work of its own, so **do not edit `bohm`** — a one-way mention from `sign-problem` only.
-  **Length**: `sign-problem` 2371w `ok`; `agency-budget` 2347w `ok`. Both have headroom.
 
 ### P3: [P-Q4](/positions/quantum-interface/#p-q4)'s re-elevation clause names one gate where the corpus now holds two — the sign problem's regime criterion is set by the bath correlation time, not the decoherence time
 
@@ -1857,6 +1865,17 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-16: sign-problem leaves Horn 2 unpriced while the corpus's newest article supplies exactly the missing price — two same-day creates, four hours apart, zero mutual mentions
+- **Type**: refine-draft
+- **File**: obsidian/concepts/sign-problem-for-conscious-observation.md
+- **Notes**: **AN ENRICHMENT, NOT A DEFECT.** `sign-problem` was created 2026-08-16 14:27 UTC and its citations verified clean on this pass — all four Kofman & Kurizki (2000) fragments, the Virzì τ_c criterion and the Denton et al. (2024) quote reproduce the publisher-verified research note verbatim; the note's three flagged gaps all propagate as caveats; and the article correctly declines to import the Fischer 30 μs Bloch-period figure the note warned against conflating with the 1 μs / 5 μs crossover. Its five inbound links were installed the same day. Nothing here is a correction.
+  **THE GAP.** `sign-problem` L57 states Horn 2 — "the agent controls observation timing precisely enough to sit on the chosen side of a crossover defined by the bath correlation time ... A sign-selecting agent is small in magnitude and complex in specification" — and leaves that specification cost entirely unquantified, concluding at L53 that "Two readings are available, and the Map can presently defend neither."
+  `obsidian/concepts/agency-budget.md`, created **the same day at 10:44 UTC by the same model**, supplies precisely the missing apparatus: a marginal-constraint conservation law for any selector required to leave the public distribution Born-exact, with a closed-form ceiling — "at most min(H(conscious source), H(Born distribution)) bits of reasons-correlated selection per event, at exactly zero statistical signature." Specifying observation timing against a bath correlation time on the order of 10⁻¹⁴ s is a specification demand of a wholly different order from that budget. **Grep-verified at mint time: `agency-budget` contains zero occurrences of "Zeno" or "sign problem"; `sign-problem` contains zero occurrences of "agency budget". Neither article knows the other exists.**
+  **WHAT THE FIX SHOULD AND SHOULD NOT CLAIM.** It does *not* resolve the dilemma — it argues against Horn 2, which pushes toward Horn 1, the horn that costs the Map its agency reading. Write it that way. The honest upgrade is from "the Map can presently defend neither" to "one horn now has an independent quantitative argument against it, and it is not the horn the Map wanted." Do **not** present the budget as evidence for the interface: `agency-budget` itself insists it is "citable as framework-internal coherence arithmetic and never as established mental causation", and that register must survive the import. A second, weaker corroboration is available from `topics/bandwidth-of-consciousness` (~10 bits/s consciousness-to-brain) — cite it as corroboration, not as a separate result.
+  **RECIPROCAL LINK REQUIRED — do not drop the second file.** `agency-budget` should gain a pointer noting the sign problem as the budget's first concrete test case. A one-file edit leaves the gap half-closed.
+  **Optional third link, lower value, include only if length allows**: `concepts/bohm-implicate-order-and-active-information` is a worked example of the same magnitude-versus-specification distinction with the valence reversed — Bohm's active information "depends only on the *form* of the quantum field, not on its intensity or amplitude", treating richness-of-form-at-negligible-magnitude as the mechanism's virtue where `sign-problem` treats it as the hidden cost. `bohm` carries open work of its own, so **do not edit `bohm`** — a one-way mention from `sign-problem` only.
+  **Length**: `sign-problem` 2371w `ok`; `agency-budget` 2347w `ok`. Both have headroom.
 
 ### ✓ 2026-09-16: Research The Operational-Independence Challenge to the Real-Quantum Falsification
 - **Type**: research-topic

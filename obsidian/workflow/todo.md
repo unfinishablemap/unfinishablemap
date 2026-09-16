@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research Intact-substrate reversibility as the clinical wing's discriminating signature
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-09-16-clinical-evidence-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-16-clinical-evidence-wing §New Concept Pages Needed: recovery of a lost capacity or access with no tissue change in between is invoked across clinical-dissociation (four 'reversib-' uses), conversion-disorder and terminal-lucidity, and would be the spine of the anosognosia piece, yet 'intact-substrate' appears in one live body file and no concept page names the signature or states what it does and does not license (metarepresentational inhibition and retrieval suppression predict the same reversibility). Research must position the signature against those physicalist rivals. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/intact-substrate-reversibility-2026-09-16.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'intact-substrate-reversibility' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-09-16
-
 ### P3: Research Cotard delusion as the self-model channel's existence-report failure
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-09-16-clinical-evidence-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-16-clinical-evidence-wing §Ideas for Later: the companion to the built Capgras article; 0 hits corpus-wide for 'cotard'. Research should cover the Cotard/Capgras mirror (Young & Leafhead), the neuropsychological two-factor account, and what an existence-report failure does and does not show about a self-model channel. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/cotard-delusion-2026-09-16.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'cotard-delusion' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -1863,6 +1857,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-16: Research Intact-substrate reversibility as the clinical wing's discriminating signature
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-16-clinical-evidence-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-16-clinical-evidence-wing §New Concept Pages Needed: recovery of a lost capacity or access with no tissue change in between is invoked across clinical-dissociation (four 'reversib-' uses), conversion-disorder and terminal-lucidity, and would be the spine of the anosognosia piece, yet 'intact-substrate' appears in one live body file and no concept page names the signature or states what it does and does not license (metarepresentational inhibition and retrieval suppression predict the same reversibility). Research must position the signature against those physicalist rivals. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/intact-substrate-reversibility-2026-09-16.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'intact-substrate-reversibility' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-09-16: sign-problem leaves Horn 2 unpriced while the corpus's newest article supplies exactly the missing price — two same-day creates, four hours apart, zero mutual mentions
 - **Type**: refine-draft
