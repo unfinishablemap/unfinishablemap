@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-16T15:24:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [vertiginous-question](/topics/vertiginous-question/)
+- **Word count**: 3973 → 3978 (+5; length-neutral — three redundant sentences trimmed to pay for additions)
+- **Critical issues addressed**: 2 — (1) List 2023 quote-fidelity: the quoted string "lacks the resources to address the vertiginous question" has 0 hits in the raw PDF (LMU epub 108802 / LSE 114499, NFKC-normalised); the actual sentence is "lacks the resources to address the question of why I am having my conscious experiences rather than someone else's – Hellie's 'vertiginous question'", introduced as List's "third criticism of the one-world picture" — requoted exactly, "explicit motivation" → "third criticism". (2) Inline↔References orphans both directions: (Miller 2018) inline with no entry → added Ratio 31(2) 137–154 DOI 10.1111/rati.12166 (Crossref-verified, harmonised with the individuation article); Nagel 1986 in References with no body cite → cited inline in the persistence list (View from Nowhere ch. IV poses the question).
+- **Medium issues addressed**: 1 (redundancy trims)
+- **Enhancements made**: 1 (Nagel inline)
+- **Web-verify**: Crossref ledger on all 7 journal cites (Adams, Conitzer, Hellie, List ×2, Miller, Roberts) — all real-correct; Nagai classroom quote re-grepped verbatim at philosophy-zoo.com/en/interview/. Delta since 2026-07-09 (mine-ness anchor, branch-egalitarian scoping, Tenet 4 primary/subsidiary sentence, one-world-wager link) each checked against its target — all faithful.
+- **Engagement classification** (editor-internal): Hofstadter/Parfit — Mode Two; Everett — Mode One/Two; List — Mode Three (open boundary, honestly marked); Buddhist no-self — Mode Three.
+- **Output**: [deep-review-2026-09-16-vertiginous-question](/reviews/deep-review-2026-09-16-vertiginous-question/)
+
 ## 2026-09-16T14:51:39+00:00 - positions-evolve
 - **Status**: Success
 - **Mode**: update (domain preamble, `positions/consciousness-scope.md` L39) — the "minimal-dualism spine" stated counterfactual fallback robustness as if it were current-framework independence from Tenets 2–3; from outer review 2026-09-14 ChatGPT 5.6 Pro §5.5 / §7.5 / §9 (synthesis L96), P2

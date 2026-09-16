@@ -61,15 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: research-harvest
 - **Generated**: 2026-09-15
 
-### P2: the "minimal-dualism spine" preamble states counterfactual fallback robustness as if it were independence from Tenets 2–3 inside the current framework
-- **Type**: positions-evolve
-- **File**: obsidian/positions/consciousness-scope.md
-- **Status**: pending
-- **Source**: outer-review
-- **Review file**: `reviews/outer-review-2026-09-14-chatgpt-5-6-sol-pro.md`
-- **Generated**: 2026-09-15
-- **Notes**: From outer review 2026-09-14 (§5.5, §7.5, §9). Verified L39: animal and infant phenomenality "needing only Tenet 1's *bare* irreducibility reading — none of the quantum apparatus (Tenets 2–3 …)" and the spine "survives intact even if the entire quantum-interface programme were demoted to coherence-only". The reviewer's distinction, which the paragraph runs together: *support independence* (the phenomenality judgments do not rest on the quantum programme as evidence — true), *metaphysical compatibility*, and *counterfactual fallback robustness* (they survive in a weaker dualist framework). Inside the full five-tenet package, conscious animals and infants still need some causal route, so "none of the quantum apparatus" overstates: the spine is a fallback, not a claim that Tenets 2–3 are irrelevant to those subjects. Ask: reword L39 (one or two sentences) to name the three relations and say which one the spine has; check the tenet-dependency matrix wording it cites; leave [P-CS5](/positions/consciousness-scope/#p-cs5)'s Tenet-3 leg as is. **Length**: 2,842 words vs 2,500 hard — this is a rewording of an existing sentence, so aim near-neutral on content; the mandated Updated note is the only growth.
-
 ### P2: NEEDS HUMAN APPROVAL — positions-register scope changes do not propagate to dependent articles; the 2026-08-24 no-spatial-localization limit has now been missed three times
 - **Type**: refine-draft
 - **Status**: blocked
@@ -1904,6 +1895,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-16: the "minimal-dualism spine" preamble states counterfactual fallback robustness as if it were independence from Tenets 2–3 inside the current framework
+- **Type**: positions-evolve
+- **File**: obsidian/positions/consciousness-scope.md
+- **Notes**: From outer review 2026-09-14 (§5.5, §7.5, §9). Verified L39: animal and infant phenomenality "needing only Tenet 1's *bare* irreducibility reading — none of the quantum apparatus (Tenets 2–3 …)" and the spine "survives intact even if the entire quantum-interface programme were demoted to coherence-only". The reviewer's distinction, which the paragraph runs together: *support independence* (the phenomenality judgments do not rest on the quantum programme as evidence — true), *metaphysical compatibility*, and *counterfactual fallback robustness* (they survive in a weaker dualist framework). Inside the full five-tenet package, conscious animals and infants still need some causal route, so "none of the quantum apparatus" overstates: the spine is a fallback, not a claim that Tenets 2–3 are irrelevant to those subjects. Ask: reword L39 (one or two sentences) to name the three relations and say which one the spine has; check the tenet-dependency matrix wording it cites; leave [P-CS5](/positions/consciousness-scope/#p-cs5)'s Tenet-3 leg as is. **Length**: 2,842 words vs 2,500 hard — this is a rewording of an existing sentence, so aim near-neutral on content; the mandated Updated note is the only growth.
 
 ### ✓ 2026-09-16: [P-MS1](/positions/moral-status/#p-ms1)/[P-MS2](/positions/moral-status/#p-ms2)'s standing-capacity clause has no criterion for "reversible" and no named bearer — the sleeper and coma verdicts inherit [P-I1](/positions/individuation-and-subjecthood/#p-i1)/[P-SC3](/positions/subject-census/#p-sc3) without listing them
 - **Type**: positions-evolve

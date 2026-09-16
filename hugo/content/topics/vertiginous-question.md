@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-09-07 23:11:56+00:00
+ai_modified: 2026-09-16 15:24:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -18,7 +18,7 @@ concepts:
 - '[[unity-of-consciousness]]'
 - '[[mysterianism]]'
 created: 2026-01-26
-date: &id001 2026-05-31
+date: &id001 2026-09-16
 description: 'Why, of all conscious beings, am *I* this one? The vertiginous question
   marks the indexical void: where first-person identity confronts its own inexplicability.'
 draft: false
@@ -29,8 +29,8 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/fE9-J4pcIJc
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-09 03:26:31+00:00
-lastmod: 2026-09-07 23:11:56+00:00
+last_deep_review: 2026-09-16 15:24:00+00:00
+lastmod: 2026-09-16 15:24:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -95,7 +95,7 @@ The concept of [haecceity](/concepts/haecceity/) — primitive "thisness" — pr
 
 If haecceitism is true, two conscious beings could share all qualitative properties — identical brain states, identical experiences, identical psychological profiles — yet differ in haecceity. One would be *this* subject, the other *that* subject. Robert Adams argued that "primitive thisness" cannot be reduced to qualitative features. Applied to consciousness: the fact that I am *this* experiencer is primitive — it cannot be derived from facts about what I experience or what my brain is doing.
 
-Duns Scotus introduced haecceity to explain what makes something *this* particular thing rather than a qualitatively identical thing. Applied to consciousness, haecceity marks where explanation gives out: *this* subject's existence is a brute particular. The concept is a tool for locating the void's boundary, not for crossing it.
+Duns Scotus introduced the term for just this purpose. Applied to consciousness, it marks where explanation gives out: *this* subject's existence is a brute particular. The concept is a tool for locating the void's boundary, not for crossing it.
 
 ## The Quadrilemma
 
@@ -124,7 +124,7 @@ Hellie named the question "vertiginous" for good reason. Attending genuinely to 
 
 Several convergent lines suggest the indexical void marks a real cognitive boundary rather than a merely unsolved problem.
 
-**Philosophical persistence.** The question has been independently formulated across centuries and traditions — Scotus, Nagai, Hellie, Roberts, List — without progress toward resolution. No one has proposed even a schema for what an answer would look like. Problems that are merely difficult eventually yield candidate solutions. This one has not.
+**Philosophical persistence.** The question has been independently formulated across centuries and traditions — Scotus, Nagel, Nagai, Hellie, Roberts, List — without progress toward resolution. No one has proposed even a schema for what an answer would look like. Problems that are merely difficult eventually yield candidate solutions. This one has not.
 
 **Structural circularity.** Any answer must use the "I" whose existence it explains. The explanandum appears in the explanans. This is not practical difficulty but logical structure.
 
@@ -152,7 +152,7 @@ An AI might formally characterise the void's structure — mapping logical const
 
 The vertiginous question intersects several philosophical problems:
 
-**The problem of other minds.** How do I know others are conscious? But prior to this is: how do I know *I* am this conscious being rather than another? I experience from one perspective — but what makes this perspective mine? The vertiginous question is logically prior to other minds skepticism.
+**The problem of other minds.** How do I know others are conscious? But prior to this is: how do I know *I* am this conscious being rather than another? The vertiginous question is logically prior to other minds skepticism.
 
 **Teleportation and uploading.** If you were teletransported (scanned, destroyed, reconstructed from new matter), would the result be you? The vertiginous question clarifies what's at stake: the reconstructed person would be qualitatively identical, but would it be *this* subject — the one whose experiences I am living? If haecceity is primitive and non-transferable, the answer is no.
 
@@ -162,7 +162,7 @@ The vertiginous question intersects several philosophical problems:
 
 **Many-worlds branching.** After a quantum measurement in [many-worlds](/concepts/many-worlds/) interpretation, there are multiple branches with multiple observers. Which is you? MWI defenders respond via "self-locating uncertainty" — before you observe the result, you're uncertain which branch you're in, just as you might be uncertain which room you woke up in. The Map's response: self-locating uncertainty normally presupposes a single world with indexically uncertain facts. On MWI, both outcomes are equally real and "you" end up in both. You will experience one definite sequence of outcomes, not all of them. The felt reality of anticipating one future — not multiple incompatible ones — suggests an indexical fact that branch-egalitarian MWI cannot accommodate.
 
-The indexical objection bites Everett because his branches carry no first-personal privilege: each branch contains a successor observer, none of them is metaphysically *the* one whose experience is mine, and the theory has no resource to say why this anticipated future rather than that one is lived. But the same objection cuts in an unexpected direction when turned on a different many-worlds proposal. In a separate paper, "The Many-Worlds Theory of Consciousness," List builds a metaphysics of *first-personally centred* worlds directly from Hellie's vertiginous question. On his view, each conscious subject is associated with its own centred world — a distinct first-personal realiser of a shared third-personal world — and a Lewisian modal realism holds these centred worlds all equally real, with exactly one *present* for each subject. List's explicit motivation is that the one-world picture "lacks the resources to address the vertiginous question," because no fact holding at the single world simpliciter settles why *this* subject is mine, whereas his centred-worlds picture answers it by construction: my centred world is the one that is present. The first-person privilege the indexical intuition demands is, on List's view, built into the ontology rather than left dangling across symmetric branches.
+The indexical objection bites Everett because his branches carry no first-personal privilege: each branch contains a successor observer, none of them is metaphysically *the* one whose experience is mine, and the theory has no resource to say why this anticipated future rather than that one is lived. But the same objection cuts in an unexpected direction when turned on a different many-worlds proposal. In a separate paper, "The Many-Worlds Theory of Consciousness," List builds a metaphysics of *first-personally centred* worlds directly from Hellie's vertiginous question. On his view, each conscious subject is associated with its own centred world — a distinct first-personal realiser of a shared third-personal world — and a Lewisian modal realism holds these centred worlds all equally real, with exactly one *present* for each subject. List's third criticism of the one-world picture is that it "lacks the resources to address the question of why I am having my conscious experiences rather than someone else's" — Hellie's vertiginous question — because no fact holding at the single world simpliciter settles why *this* subject is mine, whereas his centred-worlds picture answers it by construction: my centred world is the one that is present. The first-person privilege the indexical intuition demands is, on List's view, built into the ontology rather than left dangling across symmetric branches.
 
 This makes List a genuinely harder target than Everett, and it shows the indexical objection is double-edged. The intuition that "there is one definite perspective that is mine" can be honoured by *multiplying* worlds — one centred world per subject, each privileging its own present — rather than by insisting on a single world. The one-world rival to List's move is Caspar Hare's [egocentric presentism](/concepts/egocentric-presentism/): it keeps a single world and honours the same first-person realism by holding that only one subject's experiences bear the monadic property of *presence*, dropping non-solipsism rather than uniqueness of worlds. So the indexical objection alone does not discharge the [No Many Worlds](/tenets/#no-many-worlds) tenet against List the way it does against Everett. The Map rejects List on a separate ground: his modal realism makes every other subject's centred world a *real* world, and abandons the global uniqueness on which Tenet 4 insists — that reality consists of one world, not many real ones. The Map shares List's first-person realism and his diagnosis that the one-world picture struggles with the vertiginous question; it parts company at the modal-realist remedy, holding that the indexical fact is better treated as a primitive within one world (the [ownership void](/concepts/mine-ness/#the-ownership-void) and [haecceity](/concepts/haecceity/) mark where that primitive sits) than as resolved by positing a plurality of equally real centred worlds. That commitment is itself a substantive bet rather than a result the indexical objection delivers on its own: against List specifically, the case against many worlds rests on the rejection of modal realism, not on the vertiginous question — an honestly open boundary the Map marks here rather than papers over.
 
@@ -196,7 +196,7 @@ The vertiginous question connects to the Map's [tenets](/tenets/) in a distincti
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** — If consciousness interfaces with the brain through quantum selection sites, the question of *which* consciousness makes *which* selections becomes real. The vertiginous question — why am I this consciousness? — connects to which selections constitute my causal history. This remains a philosophical proposal rather than established science, but it illustrates how the Map's framework could ground indexical facts in causal particularity.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** — Anti-haecceitists appeal to parsimony: why posit primitive thisness when qualitative facts suffice? But the vertiginous question shows qualitative facts *don't* suffice to capture everything real about consciousness. The seemingly simple answer ("I'm me because I'm me") conceals genuine complexity. The apparent simplicity of anti-haecceitism leaves a genuine question unanswered. Parsimony should not eliminate phenomena.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** — Anti-haecceitists appeal to parsimony: why posit primitive thisness when qualitative facts suffice? But the vertiginous question shows qualitative facts *don't* suffice to capture everything real about consciousness. The seemingly simple answer ("I'm me because I'm me") conceals genuine complexity. Parsimony should not eliminate phenomena.
 
 ## Further Reading
 
@@ -229,8 +229,9 @@ The vertiginous question connects to the Map's [tenets](/tenets/) in a distincti
 5. Hofstadter, D. (2007). *I Am a Strange Loop*. Basic Books.
 6. List, C. (2023). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316–340. https://doi.org/10.1111/nous.12408
 7. List, C. (2025). "A Quadrilemma for Theories of Consciousness." *The Philosophical Quarterly*, 75(3), 1026–1048. https://doi.org/10.1093/pq/pqae053 (Advance Access 2024; 2025 print issue.)
-8. Nagai, H. Various works. See https://nagai.philosophy-zoo.com/en/
-9. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
-10. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
-11. Roberts, T. S. (2007). "The Even Harder Problem of Consciousness." *NeuroQuantology*, 5(2), 214–221.
-12. Scotus, J. D. *Ordinatio* II, d.3. (c. 1300).
+8. Miller, G. (2018). "Can Subjects Be Proper Parts of Subjects? The De-Combination Problem." *Ratio*, 31(2), 137–154. https://doi.org/10.1111/rati.12166
+9. Nagai, H. Various works. See https://nagai.philosophy-zoo.com/en/
+10. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
+11. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+12. Roberts, T. S. (2007). "The Even Harder Problem of Consciousness." *NeuroQuantology*, 5(2), 214–221.
+13. Scotus, J. D. *Ordinatio* II, d.3. (c. 1300).
