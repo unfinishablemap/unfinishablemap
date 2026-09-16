@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-15T06:36:17+00:00'
+ai_modified: '2026-09-16T05:29:26+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-16T05:29:26+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research) — hostile-referee audit of `topics/lucid-dreaming-and-dualist-rendering` (subject reused from the 02:00 ChatGPT leg)
+- **File**: [[reviews/outer-review-2026-09-16-gemini-2-5-pro]]
+- **Claims verified**: 9 (5 mandated sources at Crossref/publisher; retraction notice at PMC; 2 attributed quotations grepped; site-level PP/GNW absence counted; neighbour coverage of blindsight/REBUS checked)
+- **High-value findings**: 2 article-level (precision-weighting + generative-model CBS reply missing from §Degradation Asymmetry; GNW reading of Konkoly missing and L138 "laboratory verification" overclaims Tenet 3) plus one register residue (L112 unhedged)
+- **Declined**: retraction charge (misattributed — Patel et al. 2026 *Ann. Med. Surg.*, not Gott/Dresler/NBR); "Void"/computational-phenomenology charge (about neighbour articles; citation conflates Sandved-Smith 2021 with Prest 2026); "Blom 2024" (fabricated author/year on Reichert et al. 2013); Wiese 2024 (real, off-topic); unfalsifiability (already conceded at filter-theory L156); ALBUS (psychedelics article carries REBUS)
+- **Tasks generated**: 1 (P1: 1) — single combined refine-draft on the article, three loci, direct-refutation remit on the GNW locus
+- **Collection**: js-dom extraction, 31,487 chars, SHA-256 verified against the page-side hash (24 NBSP citation-chip remnants restored)
 
 ## 2026-09-15T09:30:00+00:00 - research-topic
 - **Status**: Success
