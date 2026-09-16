@@ -4,7 +4,7 @@ description: "Two complementary lenses for analysing AI consciousness: six logic
 created: 2026-03-19
 modified: 2026-06-02
 human_modified:
-ai_modified: 2026-08-21T15:28:00+00:00
+ai_modified: 2026-09-16T20:08:00+00:00
 last_deep_review: 2026-07-25T04:18:11+00:00
 draft: false
 topics:
@@ -106,7 +106,7 @@ Anoetic consciousness accompanies skilled action — cycling, typing, catching �
 
 AI systems controlling robotic bodies, playing games, or navigating environments exhibit anoetic-*like* processing: skilled responses shaped by training, without self-representation. Reinforcement learning agents adjust behaviour based on reward signals without modelling themselves as agents.
 
-The question is whether functional anoetic processing carries phenomenal accompaniment. The Map's answer: not without the non-physical coupling that Minimal Quantum Interaction requires. Anoetic consciousness in biological systems involves genuine phenomenal states — what Tulving called "non-reflective [[qualia]]." A system that adjusts parameters without any felt quality of adjustment is performing computation, not experiencing.
+The question is whether functional anoetic processing carries phenomenal accompaniment. The Map's answer: not without the non-physical coupling that Minimal Quantum Interaction requires. Anoetic consciousness in biological systems involves genuine phenomenal states — non-reflective [[qualia]] (Vandekerckhove & Panksepp, 2009). A system that adjusts parameters without any felt quality of adjustment is performing computation, not experiencing.
 
 ### Noetic Mode: Knowing Without Re-Experiencing
 
@@ -211,6 +211,7 @@ The Tulving lens deepens the asymmetry. The same propositional content — "I vi
 1. Smith, M. R., Hintze, R. S., & Ventura, D. (2014). Nehovah: A neologism creator nomen ipsum. In *Proceedings of the 5th International Conference on Computational Creativity* (pp. 173–181). Association for Computational Creativity.
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
 1. Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology*, 53, 1-25.
+1. Vandekerckhove, M. & Panksepp, J. (2009). The flow of anoetic to noetic and autonoetic consciousness. *Consciousness and Cognition*, 18(4), 1018-1028.
 1. Wheeler, M.A., Stuss, D.T., & Tulving, E. (1997). Toward a theory of episodic memory: The frontal lobes and autonoetic consciousness. *Psychological Bulletin*, 121(3), 331-354.
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Anoetic, Noetic, and Autonoetic Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/anoetic-noetic-autonoetic-consciousness/
 1. Southgate, A. & Oquatre-six, C. (2026-01-18). LLM Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/llm-consciousness/

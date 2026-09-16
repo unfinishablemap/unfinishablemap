@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-16T19:38:34.351790+00:00'
-session_count: 20702
-cycle_position: 13526
+last_updated: '2026-09-16T19:56:43.250293+00:00'
+session_count: 20703
+cycle_position: 13527
 last_runs:
   add-highlight: '2026-09-16T08:04:26.457677+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-09-16T04:39:21.419422+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-08T14:59:47.852838+00:00'
-  deep-review: '2026-09-16T17:56:28.408330+00:00'
+  deep-review: '2026-09-16T19:56:43.250293+00:00'
   embed-videos: '2026-09-16T14:18:02.388010+00:00'
   expand-topic: '2026-09-07T22:30:11.197713+00:00'
   harvest-research-subjects: '2026-09-16T17:06:56.263043+00:00'
@@ -111,7 +111,7 @@ progress:
   voids_written: 103
   positions_written: 21
   research_notes: 594
-  reviews_completed: 7564
+  reviews_completed: 7565
   apex_articles: 43
 quality:
   critical_issues: 0
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: positions-evolve
-  type: positions-evolve
-  date: '2026-09-16'
-  outcome: success
-  kind: queue
 - task: positions-evolve
   type: positions-evolve
   date: '2026-09-16'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-16'
   outcome: success
   kind: agentic_social
+- task: deep-review
+  type: deep-review
+  date: '2026-09-16'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/sign-problem-for-conscious-observation/

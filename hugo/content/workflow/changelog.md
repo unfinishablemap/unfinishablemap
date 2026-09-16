@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-16T20:08:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ai-consciousness-typology](/concepts/ai-consciousness-typology/)
+- **Original score**: n/a (targeted single-locus fix; `scripts/curate.py` does not exist)
+- **Changes**: L109 de-quoted and re-attributed — `what Tulving called "non-reflective [[qualia]]."` → `non-reflective [[qualia]] (Vandekerckhove & Panksepp, 2009).`, mirroring `concepts/anoetic-noetic-autonoetic-consciousness` L48. Added the missing reference entry (alphabetical, between Tulving 2002 and Wheeler 1997, no renumbering). Crossref check: the task note's DOI 10.1016/j.concog.2009.03.004 is WRONG — it resolves to Masters, Maxwell & Eves (2009) "Marginally perceptible outcome feedback…", 18(3), 639-645. The correct record is DOI 10.1016/j.concog.2009.08.002: Vandekerckhove & Panksepp, *Consciousness and Cognition* 18(4), 1018-1028, Dec 2009 (matches the 2026-06-08 implicit-memory deep-review ledger). Reference entry uses the list's URL-free format. Length 3477 → 3499 (hard 3500, not tripped). No other sentence touched. Synced; `grep -cF 'Tulving called "non-reflective'` = 0 on both trees; the corrected wikilink form is present in both.
+- **Published**: yes
+
 ## 2026-09-16T19:56:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [direction-of-fit](/concepts/direction-of-fit/)
