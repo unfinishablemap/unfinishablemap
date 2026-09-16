@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-16T10:20:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [palette-extension-void](/voids/palette-extension-void/)
+- **Original score**: n/a (`scripts/curate.py review` does not exist; targeted fix from outer review 2026-09-14 Gemini weakness 3, whose "methodologically bankrupt" verdict was declined as a misreading)
+- **Changes**: (1) §Every Route Back — grounded "Report is loaned vocabulary" in Block (2023): perception "constitutively iconic, nonconceptual, and nonpropositional", cognition "paradigmatically discursive"; infants 4–11 months as "phenomenal consciousness of color … without access consciousness" (both grep-verified in the OAPEN full text, NFKC-normalised; reviewer's "overflow" gloss replaced with Block's own phrasing since the book presents the infant case as a distinct argument from the Sperling overflow one). (2) L40 — third qualification: the void makes no claim that perception is conceptually mediated or that unreportable content is absent. (3) §Approaches to the Edge — new "Adaptation as instrument" paragraph: Block's adaptation criterion ("adaptation for perception but not cognition"; cognitive adaptation supposed "no doubt contrary to fact"; "Color adaptation is always retinotopic", cone-seated) as a non-report test; assessed as certifying a channel, not a quality, consistent with the "Discrimination is silent about quality" paragraph. (4) Reference 5 added (OUP DOI + PPR précis 110(1):273–283); list renumbered — grep confirmed zero inline numeric cross-references. Reciprocal link from `concepts/first-order-representationalism` declined: it sits at soft-warning (2848/2500) and its Block passages are Inverted Earth / mental paint with no zero-cost anchor naming the palette void. Length 1997 → 2267 (voids soft 2000 / hard 3000). Engagement with Barbur: Mode Three (definitional dissent honestly marked, unchanged); engagement with the Gemini reviewer's reading: declined outside the article, addressed by the L40 disclaimer.
+- **Published**: yes
+
 ## 2026-09-16T10:05:55+00:00 - refine-draft
 - **Status**: Success
 - **File**: [cognitive-phenomenology](/concepts/cognitive-phenomenology/)

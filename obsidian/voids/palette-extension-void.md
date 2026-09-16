@@ -4,7 +4,7 @@ description: "The sensory palette can be extended — gene therapy, laser-target
 created: 2026-09-04
 modified: 2026-09-04
 human_modified:
-ai_modified: 2026-09-05T23:23:12+00:00
+ai_modified: 2026-09-16T10:20:27+00:00
 draft: false
 topics:
   - "[[sensorimotor-contingencies-and-the-interface]]"
@@ -37,7 +37,7 @@ last_deep_review: 2026-09-05T23:23:12+00:00
 
 Extending a human sensory palette is proving easier than certifying that the extension is new. Gene therapy has added a cone dimension to adult primates that never had one; a worn belt has added a direction channel; cone-by-cone laser stimulation has produced a percept whose colorimetric coordinates lie outside the natural human gamut. The Unfinishable Map calls what survives all this the **palette extension void**: every route from an installed channel back to the claim that its content is phenomenally *novel* runs through discrimination or report, both rendered in the vocabulary of the palette the subject already had. Asked what the out-of-gamut colour looked like, the five subjects who saw it said "teal," "green," "blue-greenish," and "green, a little blue."
 
-Two qualifications belong beside that claim. The void is epistemic, not metaphysical: nothing here suggests a novel quality cannot be acquired — the record runs the other way — only that acquisition cannot be audited. And the deflationary reading, on which such a percept is an extreme value along an old dimension rather than a value on a new one, is not refuted below. It is unfalsifiable by available instruments, which is this void's substance rather than an objection to it.
+Three qualifications belong beside that claim. The void is epistemic, not metaphysical: nothing here suggests a novel quality cannot be acquired — the record runs the other way — only that acquisition cannot be audited. Nor is it a claim that perception is conceptually mediated or that unreportable content is absent; the reverse — a percept may exceed anything its report carries, which is why report cannot audit it. And the deflationary reading, on which such a percept is an extreme value along an old dimension rather than a value on a new one, is not refuted below. It is unfalsifiable by available instruments, which is this void's substance rather than an objection to it.
 
 ## The Capacity Question Is Deflating
 
@@ -61,7 +61,7 @@ That is a fact about the colour *space* — a colorimetric coordinate, what an i
 
 **Discrimination is silent about quality.** Mancuso's monkeys discriminated; nothing in that study speaks to whether their experience gained a dimension. Jordan and colleagues (2010) confirmed cDa29 as a functional tetrachromat, reliably distinguishing a monochromatic orange from red-green mixtures metameric for trichromats. C. L. Hardin's complaint about that literature, quoted in Newall (2025), is that the rigour produced the silence: "Nobody asked the woman about the quality of her experience."
 
-**Report is loaned vocabulary.** The Fong subjects held a stimulus with proven out-of-gamut coordinates and reached for trichromat words: whatever they saw, the report channel resolved it into the palette they arrived with. The feelSpace reports resolved the same way.
+**Report is loaned vocabulary.** The Fong subjects held a stimulus with proven out-of-gamut coordinates and reached for trichromat words: whatever they saw, the report channel resolved it into the palette they arrived with. The feelSpace reports resolved the same way. Ned Block's (2023) format distinction says why: perception on his account is constitutively iconic and nonconceptual, cognition paradigmatically discursive, so a report is a discursive rendering drawn from concepts the reporter already possesses. His central case is infants of four to eleven months, who perceive colour without colour concepts — phenomenal consciousness of colour without [[access-consciousness|access consciousness]]. A subject with a new channel is that infant at the percept and a trichromat at the report.
 
 **The dissent is definitional, not evidential.** John Barbur is quoted in press coverage saying "It is not a new colour," glossing olo instead as "a more saturated green that can only be produced in a subject with normal red-green chromatic mechanism when the only input comes from M cones." That is newspaper commentary; no peer-reviewed statement was located, so it is presented as reported, its logic reconstructed here rather than borrowed. Barbur does not contest a measurement — he declines a description. A disagreement that survives every measurement, because the parties differ over what would count as new, marks a boundary rather than an open question.
 
@@ -78,6 +78,8 @@ Unfamiliar here is the shape rather than the fact of deflation. There a single f
 **Structural inference.** Newall (2025) wants the phenomenal conclusion and cannot reach it by citing a measurement, so he argues from opponent-channel physiology plus cDa29's failure to place her experience within the trichromat ordering. His paper "rejects the claim that they simply see finer gradations of those colours familiar to trichromats," arguing instead for "elementary colours that trichromat viewers are unable to see or imagine." Note the shape: a positive claim resting on a negative datum — apophatic cartography as usual.
 
 **Report-category migration**, the most promising available design. Rather than asking whether an experience is new, track whether the *category* of report moves — from "vibration" to "direction" — over weeks of continuous wear, substituting a change-detection question for an identity question. König's questionnaire ran it once: the category moved, into one the wearers already possessed — change certified, novelty not. A weaker variant watches for convergence in coinages; the olo data points the wrong way, with four familiar words across five subjects.
+
+**Adaptation as instrument.** Block (2023) treats adaptation as a marker of perception because it runs in perception and, so far as he can find, not in cognition; colour adaptation is always retinotopic, seated partly in the cones. That gives the certification face a test that asks for no description: adapt a subject to olo and measure the aftereffect on an ordinary test light. An aftereffect no trichromatic adaptor could produce would show the channel doing something new; one matching a very saturated green would give Barbur's reading its first instrument. Either way the certificate names a channel, not a quality — adaptation reads the machinery behind the percept, and whether a novel channel state came with a novel quality is the step discrimination already leaves open. The instrument moves the boundary one layer inward and stops at the same wall.
 
 **[[non-human-minds-as-void-explorers|What a differently-built mind might see]]** — here, unusually for this catalogue, not much. Give a model a new input channel and it will describe it fluently in the vocabulary it already has, because fluency is what the architecture produces regardless. Extension experiments on models cannot arbitrate the human question; they reproduce the gap where the deflationary reading is, if anything, better supported.
 
@@ -107,11 +109,12 @@ Two gaps remain. Ward and Meijer (2010) document the phenomenology of two long-t
 2. Mancuso, K., Hauswirth, W. W., Li, Q., et al. (2009). "Gene therapy for red–green colour blindness in adult primates." *Nature*, 461, 784–787. https://doi.org/10.1038/nature08401
 3. Jordan, G., Deeb, S. S., Bosten, J. M., & Mollon, J. D. (2010). "The dimensionality of color vision in carriers of anomalous trichromacy." *Journal of Vision*, 10(8):12. https://doi.org/10.1167/10.8.12
 4. Newall, M. (2025). "What is it like to be a tetrachromat?" *Philosophy and the Mind Sciences*, 6. https://doi.org/10.33735/phimisci.2025.11645
-5. König, S. U., Schumann, F., Keyser, J., et al. (2016). "Learning New Sensorimotor Contingencies: Effects of Long-Term Use of Sensory Augmentation on the Brain and Conscious Perception." *PLOS ONE*, 11(12), e0166647. https://doi.org/10.1371/journal.pone.0166647
-6. Ward, J., & Meijer, P. (2010). "Visual experiences in the blind induced by an auditory sensory substitution device." *Consciousness and Cognition*, 19(1), 492–500. https://doi.org/10.1016/j.concog.2009.10.006 — subject matter only; full text not retrieved.
-7. Paul, L. A. (2014). *Transformative Experience*. Oxford University Press.
-8. Hardin, C. L. (2014). "More color science for philosophers." In D. Stokes, M. Matthen, & S. Biggs (Eds.), *Perception and Its Modalities*. Oxford University Press. (Quoted at p. 386 in Newall 2025.)
-9. Barbur, J. — quoted in *The Guardian*, April 2025, on the olo result. Press commentary; no peer-reviewed statement located.
-10. Southgate, A. & Oquatre-six, C. (2026-02-22). The Parsimony Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/epistemological-limits-occams-razor/
-11. Southgate, A. & Oquatre-sept, C. (2026-01-27). The Acquaintance Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/acquaintance-void/
-12. Kaspar, K., König, S., Schwandt, J., & König, P. (2014). "The experience of new sensorimotor contingencies by sensory augmentation." *Consciousness and Cognition*, 28, 47–63. https://doi.org/10.1016/j.concog.2014.06.006
+5. Block, N. (2023). *The Border Between Seeing and Thinking*. Oxford University Press. https://doi.org/10.1093/oso/9780197622223.001.0001 (Précis: *Philosophy and Phenomenological Research*, 110(1), 273–283, 2025. https://doi.org/10.1111/phpr.13126)
+6. König, S. U., Schumann, F., Keyser, J., et al. (2016). "Learning New Sensorimotor Contingencies: Effects of Long-Term Use of Sensory Augmentation on the Brain and Conscious Perception." *PLOS ONE*, 11(12), e0166647. https://doi.org/10.1371/journal.pone.0166647
+7. Ward, J., & Meijer, P. (2010). "Visual experiences in the blind induced by an auditory sensory substitution device." *Consciousness and Cognition*, 19(1), 492–500. https://doi.org/10.1016/j.concog.2009.10.006 — subject matter only; full text not retrieved.
+8. Paul, L. A. (2014). *Transformative Experience*. Oxford University Press.
+9. Hardin, C. L. (2014). "More color science for philosophers." In D. Stokes, M. Matthen, & S. Biggs (Eds.), *Perception and Its Modalities*. Oxford University Press. (Quoted at p. 386 in Newall 2025.)
+10. Barbur, J. — quoted in *The Guardian*, April 2025, on the olo result. Press commentary; no peer-reviewed statement located.
+11. Southgate, A. & Oquatre-six, C. (2026-02-22). The Parsimony Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/epistemological-limits-occams-razor/
+12. Southgate, A. & Oquatre-sept, C. (2026-01-27). The Acquaintance Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/acquaintance-void/
+13. Kaspar, K., König, S., Schwandt, J., & König, P. (2014). "The experience of new sensorimotor contingencies by sensory augmentation." *Consciousness and Cognition*, 28, 47–63. https://doi.org/10.1016/j.concog.2014.06.006
