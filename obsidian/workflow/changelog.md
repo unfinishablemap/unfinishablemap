@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-16T11:22:33+00:00'
+ai_modified: '2026-09-16T11:34:11+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-16T11:34:11+00:00 - coalesce
+- **Status**: Abandoned (reasoned decline — no merge performed; the fast-abandon path the 09-15 run prescribed: "re-check pool movement only and abandon fast, or wait for `/condense` to create a new fitting pair")
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
+- **Cap state** (live, `tools.evolution.state.count_section_files`; `section_caps` keys `max_*`): topics 328/360 (91.1%, most-pressured), concepts 326/360 (90.6%), voids 103/115 (89.6%). No `at_cap`; nothing to reclaim.
+- **Pool movement since the 09-15 03:36 run: ZERO additions, ZERO `/condense`, ZERO `/archive`.** `git log --since=2026-09-15T03:36 --diff-filter=A` over topics/concepts/voids/positions returns nothing across 62 commits; the only coalesce/condense/archive-tagged commit in the window is `ef0382608f`, the 09-15 abandon itself. 19 articles were MODIFIED in the window (refine-draft / deep-review passes); body word counts re-measured against `ef0382608f` show 17 grew or held (largest: `concepts/pragmatism` +916 to 3489, `concepts/jourdain-hypothesis` +591 to 3485, `topics/lucid-dreaming-and-dualist-rendering` +476 to 3803, `voids/palette-extension-void` +272 to 2267) and only `concepts/disguised-property-dualism` shrank materially (3630 → 3443, −184). That shrink admits no partner: max fitting partner is 56w in concepts (hard 3500) or 556w in topics (hard 4000), and the shortest live topic is 1798w (`auditory-consciousness-and-the-interface`).
+- **Fitting pool re-measured** (`analyze_length` body counts, gate `>= hard`, thresholds printed live: topics 4000 / concepts 3500 / voids 3000; target = higher-threshold side; 7-day age floor now 2026-09-09; the `non-temporal-consciousness.refinement-log` sidecar excluded — with it in, every count inflates by ~330 because a 77w file pairs with everything): **1,832 fitting pairs total (09-14: 1,850), 181 age-blocked (09-15: 192)**; same-section **topics 12** (unchanged), **concepts 487** (09-14: 527), **voids 0**; cross-section **1,152** (09-15: 1,307) — concepts+topics 774, concepts+voids 231, topics+voids 147. Every bucket contracted or held; no bucket gained a pair. The pool is a strict subset of the pool the seven prior screens walked.
+- **Carried-forward pair, still excluded on arithmetic**: `concepts/meta-problem-of-consciousness` (2595w) + `topics/metaproblem-of-consciousness-under-dualism` (2220w) = 4815 vs topics hard 4000, over by 815, both counts unchanged since 09-15. The 09-11 deep-review on the concept that was uncommitted at the 09-15 run has since landed (file last touched by `9651b309de`), so the age block has lifted — but the arithmetic block and the stated base↔extension split (concept L73) both stand. Not a candidate.
+- **Human-reserved candidates not preempted**: the NEEDS-HUMAN parkings (HUMAN COALESCE DECISION — `self-stultification`/`self-stultification-as-master-argument`, `quantum-biology-and-neural-mechanisms`/`quantum-biology-and-neural-consciousness`; HUMAN EDITORIAL DECISION 2026-06-21 — `free-will` ↔ `volitional-control` plus the attention/normativity/cognitive-integration folds) remain untouched.
+- **No new screen run, by design.** The 09-15 entry closed the seventh direction and recorded that no cheap combination remains un-walked; re-running any of them over a strictly smaller pool cannot surface a pair the prior runs missed. This run spent its slot on the movement check only. Next run: same check; expect the same answer until a `/condense` or `/archive` commit lands in a content section (`git log --diff-filter=A` plus a body-count diff against the last coalesce commit is sufficient — under one minute).
+- **Published**: no (no content change; changelog entry only). **Tasks minted**: none. **Sync**: not run.
 
 ## 2026-09-16T11:22:33+00:00 - research-topic
 - **Status**: Success
