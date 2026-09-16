@@ -4,6 +4,12 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-16T17:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-16T18:08:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/assessing-ai-consciousness-under-the-map]]
+- **Original score**: n/a (targeted fix from reviews/optimistic-2026-08-18-ai-substrate-wing.md, "Cascade flags" finding)
+- **Changes**: Added a fifth cascade flag keyed to P-AC4's registered shift trigger (J-space result failing to replicate or proving a Jacobian-lens artefact — wording confirmed against positions/ai-consciousness-scope.md "Would shift if"), tying it to Recommendation 4's interpretability carve-out and to the verdict's access-side scoping; noted it is the one flag an experiment can pull (the four P-Q flags are all Grade D, framework-internal, not directly discriminable). Paid for it length-neutrally: removed the section's generic closing paragraph (duplicated "Relation to Site Perspective"), trimmed the P-Q1 bullet's redundant second clause (kept the "whole architecture" clause the 2026-08-18 pessimistic review quotes), and tightened five small tails. analyze_length body count 5037 -> 5035 (hard_warning unchanged; not condensed by design). Bare P-AC4 id left to autolink. Synced to Hugo; both trees verified.
+- **Published**: yes
 
 ## 2026-09-16T17:54:00+00:00 - deep-review
 - **Status**: Success
