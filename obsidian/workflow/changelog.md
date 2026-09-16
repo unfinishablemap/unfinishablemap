@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-16T17:55:00+00:00'
+ai_modified: '2026-09-16T20:23:03+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-16T20:23:03+00:00 - coalesce
+- **Status**: Abandoned (reasoned decline — no merge performed; the fast-abandon path the 09-15 and 09-16 11:34 runs prescribed: movement check only, abandon unless a `/condense` or `/archive` commit has landed in a content section)
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
+- **Cap state** (live, `tools.evolution.state.count_section_files`; `section_caps` keys `max_*`): topics 328/360 (91.1%, most-pressured), concepts 326/360 (90.6%), voids 103/115 (89.6%), positions 21/80. Unchanged from the 11:34 run. No `at_cap`; nothing to reclaim.
+- **Pool movement since the 09-16 11:34 run (`9128ff8fd7`): ZERO additions, ZERO `/condense`, ZERO `/archive`.** `git log --since=2026-09-16T11:34 --diff-filter=A` over topics/concepts/voids/positions returns nothing; the only coalesce/condense/archive-tagged commit in the window is `9128ff8fd7`, the 11:34 abandon itself. 14 content articles were MODIFIED in the window (plus 6 positions-register files); body word counts diffed against `9128ff8fd7`: 13 grew or held (largest: `concepts/ai-hardware-substrate-taxonomy` +334 to 3490, `concepts/improper-vs-proper-mixtures` +210 to 3271, `concepts/direction-of-fit` +173 to 2001, `topics/experimental-consciousness-science-2025-2026` +143 to 2601) and only `topics/consciousness-and-the-metaphysics-of-laws-and-dispositions` shrank, by 9 words (4210 → 4201, still above topics hard). No shrink opens a fitting pair.
+- **Fitting pool re-measured under the driver's 14-day age floor** (`ai_modified` ≥ 2026-09-02 blocked; stricter than the 7-day floor the 09-14/09-15/09-16 screens used; `analyze_length` body counts, gate `>= hard`, thresholds printed live: topics 4000 / concepts 3500 / voids 3000; target = higher-threshold side; `non-temporal-consciousness.refinement-log` sidecar excluded): 756 articles, **312 age-blocked** (41%); **1,298 fitting pairs unblocked** (11:34 run at 7d: 1,832), 521 age-blocked pairs; same-section **topics 8** (was 12), **concepts 440** (was 487), **voids 0**; cross-section 850 — concepts+topics 614, concepts+voids 159, topics+voids 77. Every bucket contracted; the pool is a strict subset of the pool the seven prior screens walked, so no re-screen can surface a pair they missed.
+- **The 8 topics-same-section fitting pairs enumerated** (most-pressured section, so recorded explicitly): every one includes at least one of `auditory-consciousness-and-the-interface` (1798w, the shortest live topic), `the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question` (1897w) or `presentiment-and-retrocausality` (1987w), paired with `phenomenology-of-linguistic-failure`, `consciousness-and-the-problem-of-other-properties`, `consciousness-and-the-physics-of-information` or `agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems`. All 8 are subject-disjoint (an auditory-interface article against a gut-brain article, presentiment against linguistic failure, and so on); they fit on arithmetic alone and none has a shared claim, a `Versus` positioning section, or overlapping references to merge. Not candidates.
+- **Driver cautions applied**: (1) tag-overlap treated as inverted — no pair reached ranking, so no `Versus [[…]]` grep was needed beyond the 8 enumerated; (2) 14-day age floor applied as above (312 articles blocked, including every article touched today); (3) abandon accepted as the steady state; (4) no merge, so no cap/citation/sync work.
+- **Carried-forward pair, still excluded on arithmetic and on the 14-day floor**: `concepts/meta-problem-of-consciousness` (2595w) + `topics/metaproblem-of-consciousness-under-dualism` (2220w) = 4815 vs topics hard 4000, over by 815; also a stated base↔extension split (concept L73). Not a candidate.
+- **Human-reserved candidates not preempted**: the NEEDS-HUMAN parkings (HUMAN COALESCE DECISION — `self-stultification`/`self-stultification-as-master-argument`, `quantum-biology-and-neural-mechanisms`/`quantum-biology-and-neural-consciousness`; HUMAN EDITORIAL DECISION 2026-06-21 — `free-will` ↔ `volitional-control` plus the attention/normativity/cognitive-integration folds) remain untouched.
+- **Next run**: same movement check (`git log --diff-filter=A` since `HEAD` of this entry's commit, plus a body-count diff of modified files — under one minute); expect the same answer until a `/condense` or `/archive` commit lands in a content section or the 14-day floor releases a cluster of same-subject articles.
+- **Published**: no (no content change; changelog entry only). **Tasks minted**: none. **Sync**: not run.
 
 ## 2026-09-16T20:08:00+00:00 - refine-draft
 - **Status**: Success
