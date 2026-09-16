@@ -4,7 +4,7 @@ description: "What separates improper from proper mixtures, why decoherence leav
 created: 2026-09-03
 modified: 2026-09-03
 human_modified:
-ai_modified: 2026-09-10T12:36:22+00:00
+ai_modified: 2026-09-16T11:49:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,6 +43,8 @@ Now let a system become entangled with its environment and describe the system a
 
 The formal situation, then, is agreed on all sides: same subsystem statistics, different global states. The dispute begins when one asks whether the subsystem's situation is therefore the same.
 
+"Same subsystem statistics" has recently acquired a precise qualification. Liu, Scarani and Bai (2026) show that the readings of a mixed state as unspecified ignorance, as a proper mixture and as an improper mixture "yield identical density matrices and therefore identical predictions for future measurements," but that "when used as prior beliefs for inferring the past state from later observations ('retrodiction'), they lead to different updated beliefs," with "operational consequences in quantum state recovery." Three limits govern what this can be used for. It is a result about inference from later observations, not about outcomes: it leaves the outcome gap exactly where it was and lends the Map's reading no support. Its bearing falls on the operational-indistinguishability premise that both deflationary readings [[#emptiness|assessed below]] share, which now holds for prediction but not for retrodiction. And that is a different claim from d'Espagnat's logico-semantic one; the two should not be run together.
+
 ## D'Espagnat's Argument in Its Mature Form
 
 D'Espagnat's claim is that the improper mixture cannot be read as ignorance about a definite state. When K. A. Kirkpatrick attacked the distinction in 2001, d'Espagnat's reply relocated the argument's ground explicitly: the reason the ignorance interpretation fails is "not mathematical but logico-semantical." The point is about what the word "ignorance" can coherently mean when the global description fixes no local fact for anyone to be ignorant of. His restatement of the claim is precise—improper mixtures "cannot be given an ignorance interpretation. It is therefore this claim that my critics should aim at disproving." A companion note argues the stronger point that in the relevant post-measurement situation "proper mixtures with the requested properties do not exist": the ignorance reading is not merely unlicensed but unavailable.
@@ -65,13 +67,13 @@ The Map's [[project/evidential-status-discipline|evidential-status discipline]] 
 
 So the accurate summary is neither "empty" nor "detectable": detectable in principle and in reversible small-scale regimes, undetectable for all practical purposes at macroscopic scales. The Map's wager is that ontology follows the global description—a wager the formalism permits and does not enforce.
 
-## The Emptiness Attack Runs in Two Directions
+## The Emptiness Attack Runs in Two Directions {#emptiness}
 
 The published case that the distinction is empty comes in two flagship versions that disagree with each other instructively.
 
 Kirkpatrick (2001) argues that d'Espagnat's *proper* mixtures are the fiction: a genuinely ignorance-interpretable mixture cannot be created, because "if welcher weg, or distinguishing, information exists, an improper mixture results, while in the absence of such information, the resulting 'mixture' is a pure state." On his view d'Espagnat's inconsistency claim "fails to account for the indistinguishability of the pure-state subensembles." Castellani (2022) titles his paper in the opposite direction—"All quantum mixtures are proper"—arguing that "proper and improper quantum mixed states have no observable differences, and hence should not be distinguished," and concluding that "the proper/improper distinction is unphysical, i.e. not detectable by any experiment on S."
 
-Both are operational-indistinguishability arguments, not theorems, and they divide over which label survives the shared premise: Kirkpatrick deflates to all-improper, Castellani to all-proper. The deflationary conclusion is thus underdetermined even among deflationists—operational equivalence alone does not dictate what the mixtures *are*. And the shared premise must be scoped: recoherence makes the difference observable in reversible regimes, so the indistinguishability claim holds only in the irreversible regime, at which point it is itself a FAPP claim—and whether FAPP-adequacy settles ontology is precisely what is in dispute.
+Both are operational-indistinguishability arguments, not theorems, and they divide over which label survives the shared premise: Kirkpatrick deflates to all-improper, Castellani to all-proper. The deflationary conclusion is thus underdetermined even among deflationists—operational equivalence alone does not dictate what the mixtures *are*. And the shared premise must be scoped: recoherence makes the difference observable in reversible regimes, so the indistinguishability claim holds only in the irreversible regime, at which point it is itself a FAPP claim—and whether FAPP-adequacy settles ontology is precisely what is in dispute. It must also be scoped to prediction: as noted above, the two preparations serve as different retrodictive priors even where their predictions coincide (Liu, Scarani and Bai 2026).
 
 ## The Strongest Deflations Are Interpretations
 
@@ -136,8 +138,9 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet frames the whole di
 12. Grangier, P. (2026). Revisiting the Interpretations of Quantum Mechanics: From FAPP Solutions to Contextual Ontologies. arXiv:2601.20488.
 13. Hance, J. R. & Hossenfelder, S. (2022). What does it take to solve the measurement problem? *Journal of Physics Communications*, 6, 102001. arXiv:2206.10445.
 14. Kirkpatrick, K. A. (2001). Indistinguishability and improper mixtures. arXiv:quant-ph/0109146.
-15. Schlosshauer, M. (2004). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76(4), 1267–1305. arXiv:quant-ph/0312059.
-16. Schlosshauer, M. (2019). Quantum decoherence. *Physics Reports*, 831, 1–57. arXiv:1911.06282.
+15. Liu, M., Scarani, V. & Bai, G. (2026). Proper and improper mixed states serve as different prior beliefs for quantum state retrodiction. *Physical Review Letters*, 136, 060203. doi:10.1103/xx43-p1py. arXiv:2502.10030.
+16. Schlosshauer, M. (2004). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76(4), 1267–1305. arXiv:quant-ph/0312059.
+17. Schlosshauer, M. (2019). Quantum decoherence. *Physics Reports*, 831, 1–57. arXiv:1911.06282.
 17. Tomaz, A. A., Mattos, R. S. & Barbatti, M. (2025). The Quantum Measurement Problem: A Review of Recent Trends. arXiv:2502.19278.
 18. Wallace, D. (2010). Decoherence and Ontology (or: How I learned to stop worrying and love FAPP). In S. Saunders, J. Barrett, A. Kent & D. Wallace (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press.
 19. Wallace, D. (2012). Decoherence and its role in the modern measurement problem. *Philosophical Transactions of the Royal Society A*, 370, 4576–4593. arXiv:1111.2187.

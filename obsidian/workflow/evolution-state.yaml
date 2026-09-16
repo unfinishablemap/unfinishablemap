@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-16T11:27:35.563369+00:00'
-session_count: 20670
-cycle_position: 13504
+last_updated: '2026-09-16T11:34:58.828356+00:00'
+session_count: 20671
+cycle_position: 13505
 last_runs:
   add-highlight: '2026-09-16T08:04:26.457677+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -13,7 +13,7 @@ last_runs:
   check-links: '2026-09-15T08:05:05.575183+00:00'
   check-model-fallback: '2026-09-16T09:17:46.805947+00:00'
   check-tenets: '2026-09-14T19:18:18.894215+00:00'
-  coalesce: '2026-09-15T03:37:54.544348+00:00'
+  coalesce: '2026-09-16T11:34:58.828356+00:00'
   collect-chatgpt-review: '2026-09-16T06:00:15.724383+00:00'
   collect-claude-review: '2026-09-16T05:44:37.052480+00:00'
   collect-gemini-review: '2026-09-16T05:31:15.162466+00:00'
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-09-16'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-09-16'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-16'
   outcome: success
   kind: queue
+- task: coalesce
+  type: coalesce
+  date: '2026-09-16'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/parapsychology-firewall/

@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-16T11:34:11+00:00'
+ai_modified: '2026-09-16T11:49:58+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-16T11:49:58+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/improper-vs-proper-mixtures]]
+- **Original score**: n/a (`scripts/curate.py` does not exist; targeted install per task note, not a general refine)
+- **Source verification**: Liu, Scarani & Bai — journal version EXISTS: *Physical Review Letters* 136, 060203, DOI 10.1103/xx43-p1py, Crossref issued 2026-02-12 (type journal-article; authors Liu/Scarani/Bai match). arXiv:2502.10030 (first posted 2025-02-14) is marked "updated to the published version". Cited as the journal article (2026) with DOI and arXiv id — NOT as "preprint", since the task note's "cite arXiv and say preprint" branch does not apply. All four quoted phrases grep-verified at count=1 in the raw arXiv API abstract (`export.arxiv.org/api/query?id_list=2502.10030`; Crossref carries no abstract for this DOI): "yield identical density matrices and therefore identical predictions for future measurements" / "when used as prior beliefs for inferring the past state from later observations ('retrodiction'), they lead to different updated beliefs" / "operational consequences in quantum state recovery". The reviewer's "Szańkowski, Castellani 2024–2025" cite was not chased further — per task note it names no paper and the CPTP charge is a discounted same-service repeat (synthesis 2026-09-10 §1).
+- **Changes**: (1) §Two Preparations, One Density Matrix: +1 paragraph (~145 words) installing the retrodiction result with all three task-mandated limits stated in prose — (a) inference-from-later-observations, not outcomes, so no support for the Map's reading and the outcome gap untouched; (b) it bears on the operational-indistinguishability premise shared by Kirkpatrick 2001 / Castellani 2022, which now holds for prediction but not retrodiction; (c) distinct from d'Espagnat's logico-semantic claim, not to be run together. (2) `## The Emptiness Attack Runs in Two Directions` given explicit anchor `{#emptiness}` so the forward reference uses the named-anchor pattern (`[[#emptiness|assessed below]]` → renders `[assessed below](#emptiness)` in Hugo, verified). (3) One linking sentence appended to the shared-premise scoping paragraph in §Emptiness ("It must also be scoped to prediction…"); the d'Espagnat, Kirkpatrick and Castellani paragraphs otherwise untouched. (4) References: new entry 15 (Liu sorts after Kirkpatrick 14), Schlosshauer 2004/2019 renumbered 15→16, 16→17; grep confirmed zero inline numeric cross-references in the body before renumbering.
+- **Length** (`analyze_length`, body-only, concepts soft 2500 / hard 3500 / critical 5000): 3059 → 3269 words; headroom to hard 230. Status remains `soft_warning` as before.
+- **Frontmatter**: `ai_modified` set from live `date -u`.
+- **Sync**: `scripts/sync.py` run; grep of both trees confirms 2 prose loci + 1 reference + 3 `retrodict` hits in each of `obsidian/` and `hugo/content/`.
+- **Todo**: originating task left untouched for `cycle_post`; no follow-up task minted.
+- **Published**: yes
 
 ## 2026-09-16T11:34:11+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline — no merge performed; the fast-abandon path the 09-15 run prescribed: "re-check pool movement only and abandon fast, or wait for `/condense` to create a new fitting pair")
