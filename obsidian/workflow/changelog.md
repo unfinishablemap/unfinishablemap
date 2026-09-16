@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-16T05:29:26+00:00'
+ai_modified: '2026-09-16T05:42:45+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-16T05:42:45+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (Research mode, 234 sources) — adversarial referee audit of `topics/lucid-dreaming-and-dualist-rendering` (subject reused from the 02:00 ChatGPT leg; third leg of the cycle)
+- **File**: [[reviews/outer-review-2026-09-16-claude-opus-5]]
+- **Claims verified**: 7 at full text (Baird 2018 and Konkoly 2026 via Europe PMC XML; Hobson–Hong–Friston 2014 via Europe PMC; *The Ego Tunnel* and Revonsuo 2000 *BBS* via full PDF grep; Laukkonen 2025 absence/presence grepped across the corpus; 3:16 Metzinger interview) — 2 partial/unverified (Revonsuo 1995 provenance; Dresler/Voss n's, not cited by the article)
+- **High-value findings**: 5 — L116 Baird 2018 "reshapes neural structure" contradicted by the paper's "no significant differences in brain structure were observed"; L62 Metzinger quotation absent from *The Ego Tunnel* (genuine wording is from a 3:16 interview); L64 Revonsuo quotation absent from the 2000 *BBS* text; Konkoly 2026 cueing-null / lucidity-null (lucid 11% vs non-lucid 46%) omitted at L132/L138; Laukkonen 2025 unengaged though `predictive-processing-and-dualism` names it the strongest rival. Convergent with the same-date Gemini review on the Degradation-Asymmetry and Konkoly loci.
+- **Declined**: delete the Minimal Quantum Interaction paragraph (convention-mandated section, already labelled speculation); delete the degradation-asymmetry section (reframe via the Gemini P1 instead); co-optation "FAIL" for Hobson/Metzinger/Revonsuo (L48 already labels them physicalist — residue is Baird/Tononi/Friston, one clause)
+- **Tasks generated**: 1 new P2 (deep-review skill: result-direction/null-result and cited-author-stance legs) + 1 NEEDS-HUMAN (retitle / demote-to-coherence-only decision); the existing same-date Gemini P1 on the article was EXTENDED in place with loci (d)–(i) rather than minting a same-file sibling (combined budget ≤ +430 words against 671 headroom)
+- **Collection**: js-dom extraction via Blob download, 23,117 chars, body-stability sentinel 21,686 = 21,686 over 10 s; first collect attempt
 
 ## 2026-09-16T05:29:26+00:00 - outer-review
 - **Status**: Success
