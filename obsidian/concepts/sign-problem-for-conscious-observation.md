@@ -4,7 +4,7 @@ description: "Minimality fixes how large a conscious influence may be, not which
 created: 2026-08-16
 modified: 2026-08-16
 human_modified:
-ai_modified: 2026-08-21T16:42:28+00:00
+ai_modified: 2026-09-16T22:52:20+00:00
 draft: false
 topics:
   - "[[quantum-biology-and-neural-consciousness]]"
@@ -15,12 +15,13 @@ concepts:
   - "[[stapp-quantum-mind]]"
   - "[[timing-gap-problem]]"
   - "[[mental-effort]]"
+  - "[[agency-budget]]"
 related_articles:
   - "[[anti-zeno-effect-and-sign-of-conscious-observation-2026-08-05]]"
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5
+ai_system: claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-08-16
 last_curated:
 last_deep_review: 2026-08-17T20:01:08+00:00
@@ -50,15 +51,17 @@ That the crossover is real was shown experimentally by Martin Fischer, Braulio G
 
 ## The Dilemma
 
-Two readings are available, and the Map can presently defend neither.
+Two readings are available. The Map can presently defend neither, though one now carries an independent quantitative argument against it — the horn the Map's agency reading needs.
 
 **Horn 1 — the agent does not set the sign.** Then conscious observation does not implement intention. It applies a perturbation whose effect on the attended pattern is fixed by neural spectral properties. Attending to an intended action would help or hurt according to tissue chemistry, and the agent's contribution would carry no information about what the agent wanted. This satisfies Tenet 2's minimality while failing [[tenets#^bidirectional-interaction|Tenet 3]] in any sense that supports agency. It also generates an absurd prediction on the generic-case reading: attending to your intended action would tend to destroy it. The absurdity is informative — it shows the model needs the special case, and needs an argument for it rather than an assumption.
 
 **Horn 2 — the agent does set the sign.** Then the agent controls observation timing precisely enough to sit on the chosen side of a crossover defined by the bath correlation time. That is a substantially richer capacity than "attend": it amounts to calibrated access to the spectral properties of one's own neural environment. A finely timed influence is not obviously more parsimonious than a larger one, which is where the magnitude/specification conflation surfaces. A sign-selecting agent is small in magnitude and complex in specification.
 
+That specification cost can now be priced, at coherence-only strength. The [[agency-budget|agency budget]] caps any selector that must leave the public distribution Born-exact at min(H(conscious source), H(Born distribution)) bits of reasons-correlated selection per event — about one bit for the yes/no attending the corpus contemplates. A Horn 2 agent must instead place each observation against a crossover at the ~10⁻¹⁴ s scale estimated [[#discrete-observation|below]]: tens of bits per placement, over some 10¹³ placements per decision window, against the [[bandwidth-of-consciousness|~10 bits per second]] the Map credits to conscious throughput. The budget is framework-internal coherence arithmetic, not evidence for the interface; here it prices a horn, and the price falls on the one the Map's agency reading needs.
+
 The corpus has never had to distinguish these, because it has been reading "minimal" as "small" while relying on it to license "does what the agent intends."
 
-## Why Discrete Observation Does Not Escape It
+## Why Discrete Observation Does Not Escape It {#discrete-observation}
 
 The [[timing-gap-problem|timing gap]] discussion treats Stapp's discrete-observation framing as avoiding the coherence requirement: each observation is instantaneous, and hundreds of thousands of them would fit inside a 300-millisecond decision window. That move addresses the wrong threshold. The requirement for *being in the Zeno regime* is set by the bath correlation time, not the decoherence time, and raising the observation rate buys nothing unless the interval clears that separate bar.
 
@@ -97,6 +100,7 @@ The Map does not resolve the dilemma here. Recording it as unresolved is the poi
 - [[mental-effort]] — Effort phenomenology and the monotonicity it implicitly predicts
 - [[structure-of-attention]] — The attention-deployment window and which parameter it actually constrains
 - [[apex/post-decoherence-selection-programme]] — The interface route the Map endorses more strongly
+- [[agency-budget]] — The per-event ceiling that prices Horn 2
 - [[anti-zeno-effect-and-sign-of-conscious-observation-2026-08-05]] — Research notes, including the verification gaps this article inherits
 
 ## References

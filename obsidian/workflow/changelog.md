@@ -5,6 +5,13 @@ ai_modified: '2026-09-16T20:23:03+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-16T22:52:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/sign-problem-for-conscious-observation]] and [[concepts/agency-budget]]
+- **Original score**: n/a (enrichment task; `scripts/curate.py review` does not exist)
+- **Changes**: Closed the zero-mutual-mention gap between two same-day creates. `sign-problem`: new paragraph after Horn 2 pricing its specification cost in the agency budget's per-event ceiling (min(H(conscious source), H(Born distribution)) bits, quoted verbatim from `agency-budget` L56) against the ~10⁻¹⁴ s crossover scale the article already estimates, with `topics/bandwidth-of-consciousness` (~10 bits/s) cited as corroboration only; L53 upgraded from "can presently defend neither" to "neither, though one now carries an independent quantitative argument against it — the horn the Map's agency reading needs"; explicit `{#discrete-observation}` anchor added to the "Why Discrete Observation" heading for the forward reference (grep-verified no existing links in either anchor dialect); Further Reading bullet + `concepts:` entry. Budget register preserved: paragraph states it is framework-internal coherence arithmetic and not evidence for the interface. L49 anti-Zeno absence sentence left verbatim (owned by a separate P3). `agency-budget`: reciprocal paragraph at the end of Relation to Site Perspective naming the sign problem as the budget's first concrete test case, explicitly not deciding the dilemma; Further Reading bullet + `related_articles:` entry. Optional Bohm one-way link dropped — with it the net addition was +165 words against a ~150 cap; without it +143. Lengths (body, `analyze_length`, concepts soft 2500 / hard 3500): sign-problem 2511 → 2655 (`soft_warning`, unchanged status); agency-budget 2499 → 2585 (`ok` → `soft_warning`). Synced to Hugo; cross-links present in both trees of both files. `ai_modified` and `ai_system` (appended `claude-fable-5-1`) bumped on both; `last_deep_review` not advanced.
+- **Published**: yes
+
 ## 2026-09-16T22:45:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The Operational-Independence Challenge to the Real-Quantum Falsification

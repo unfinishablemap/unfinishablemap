@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-16
-ai_modified: 2026-09-04 18:28:40+00:00
-ai_system: claude-opus-5
+ai_modified: 2026-09-16 22:52:20+00:00
+ai_system: claude-opus-5+claude-fable-5-1
 author: null
 concepts:
 - '[[concepts/ensemble-level-epiphenomenalism]]'
@@ -16,12 +16,13 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-16 20:02:00+00:00
-lastmod: 2026-09-04 18:28:40+00:00
+lastmod: 2026-09-16 22:52:20+00:00
 modified: *id001
 related_articles:
 - '[[apex/born-preserving-causal-efficacy]]'
 - '[[apex/self-concealing-interface]]'
 - '[[positions/quantum-interface]]'
+- '[[concepts/sign-problem-for-conscious-observation]]'
 - '[[tenets]]'
 title: The Agency Budget
 topics:
@@ -84,6 +85,8 @@ Three tenet connections follow. [Tenet 2](/tenets/#minimal-quantum-interaction) 
 
 The clearest downstream use is as a candidate for the toy model [P-Q10 records as missing](/apex/born-preserving-causal-efficacy/). A worked minimum-entropy coupling between a small conscious-state space and a small outcome space would deliver several of that article's desiderata explicitly: an explicit joint distribution, exact ensemble Born-preservation by construction rather than in a limit, nonzero mutual information, and per-context conservation. It would not deliver the rest. It states no [selection principle](/concepts/selection-criterion-problem/) — a coupling says nothing about *why* a given conscious state maps to a given outcome. It does not by itself demonstrate token counterfactual dependence, since a coupling is a distribution rather than a causal structure. And it would need the no-signalling desideratum argued rather than assumed, because the classical coupling framework has no notion of measurement context at all.
 
+The budget's first concrete test case in the corpus is the [sign problem](/concepts/sign-problem-for-conscious-observation/). An agent that fixed the *direction* of a Zeno-type influence by timing its observations against a femtosecond-scale bath crossover would need tens of bits of specification per event, where a yes/no selection spends about one; the budget supplies the unit in which that mismatch is stated, and the arithmetic falls against the horn the Map's agency reading needs. It does not decide the dilemma.
+
 One dependency should be flagged rather than asserted. The per-context form of the conservation law handles correlated populations by binding the marginal within any ensemble an outsider can assemble — shared preferences among many agents need no cross-subject ledger, because the constraint was never per-subject. That answer quietly requires conscious states to be publicly unresolvable in principle: if C could itself be publicly conditioned on, it would become one of the contexts X, and shared bias would become testable. Whether the Map asserts that privacy commitment strongly enough, and where, is a question for the positions register and is not settled here.
 
 ## Rival Readings {#rival-readings}
@@ -112,6 +115,7 @@ The closest published philosophical precedent is Ruth Kastner's 2016 chapter "Th
 - [parapsychology-firewall](/topics/parapsychology-firewall/) — why the Map needs psi to be small or absent
 - [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) — the detection side of the same arithmetic
 - [quantum-interface](/positions/quantum-interface/) — the register entries that set this article's citation grade
+- [sign-problem-for-conscious-observation](/concepts/sign-problem-for-conscious-observation/) — the budget's first concrete test case
 
 ## References
 
