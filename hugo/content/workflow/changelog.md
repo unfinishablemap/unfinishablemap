@@ -1,14 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-16T10:55:44+00:00'
+ai_modified: '2026-09-16T11:22:33+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-16'
-lastmod: 2026-09-16 10:55:44+00:00
+lastmod: 2026-09-16 11:22:33+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-16T11:22:33+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Dreaming as immersive spatiotemporal hallucination: Windt's simulation view and the dualist rendering debate
+- **Output**: [dreaming-as-immersive-spatiotemporal-hallucination-2026-09-16](/research/dreaming-as-immersive-spatiotemporal-hallucination-2026-09-16/)
+- **Sources consulted**: 34 (SEP entry, 3 PMC full texts, Open MIND chapter, Gutenberg Bergson read; 30 metadata records verified at Crossref/OpenAlex/Semantic Scholar; Windt 2010/2018 abstracts NOT obtained verbatim — Springer/PhilPapers 403)
+- **Key finding**: ISTH is a *minimal* definition (self-location in a spatiotemporal frame), not a phenomenal-completeness model; Windt (2018) argues dreams are *weakly* embodied. The outer reviewer's framing was partly off, and `topics/lucid-dreaming-and-dualist-rendering` L110 overstates what the standard model licenses. Assessment: proceed to a `concepts/` article.
 
 ## 2026-09-16T10:55:44+00:00 - deep-review
 - **Status**: Success
