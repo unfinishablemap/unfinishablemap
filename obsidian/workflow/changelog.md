@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-16T11:49:58+00:00'
+ai_modified: '2026-09-16T14:46:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-16T14:46:00+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: update P-MS1 and P-MS2 (`positions/moral-status.md`) — standing-capacity bearer, reversibility criterion and the P-I1/P-SC3 dependency, from outer review 2026-09-14 ChatGPT 5.6 Pro §4.3 / §7.2 / §8 rows P-MS1, P-MS2 (synthesis L95), P2
+- **Answers**: (a) dependency added to both entries, **scoped to the interval verdicts** — the momentary locus still carries the derivation (who this pain is bad for, now), but across a dreamless interval there is no locus, so the sleeper/coma verdicts rest on P-SC3's persisting *perspective* (a real further fact, not a career), and on P-I1 through it. Reverses the 2026-08-27 refusal, which had run the no-self objection's *self* together with P-SC3's *perspective*. (b) reversibility read as **modal and subject-indexed**: the capacity is gone when no nomologically possible intervention would return valenced experience to *this* subject; a rebuilt substrate with a fresh pairing returns nothing to it. Consequences owned in P-MS2's Asserts: status does not move with medical progress (evidence moves, not the crossing); criterion remote from clinical knowledge (cost taken — P-I1's real-but-unreadable boundary); not partly biological (organismic continuity is evidence about the pairing, not the ground); crossing undated (P-SC3 declines to date cessation). (c) bearer named: the subject P-SC3 holds present across an interruption of the interface, reversible coma read as one more interruption that neither P-SC3 nor P-CS4 names — flagged as the register's extension
+- **Shift-limbs**: P-MS1 seventh limb (P-SC3 falls → interval verdicts lose their bearer; organismic disposition named as the unadopted fallback), appended on the Vulcan rule so P-MS2's "fourth limb" keeps its referent; P-MS2 limb (an account of pairing termination — P-SC3's first limb — would date the crossing and let the modal reading be tested against clinical irreversibility)
+- **Bands**: **no headline band moved** on either entry. Clause-level inheritance disclosed in P-MS1's calibration parentheticals — interval verdicts at P-SC3's *programme* maturity and *none* discriminability (P-M5's rule applied to the clause the gap sits under, not the criterion). Headline bands unchanged, so the `positions.md` aggregate does not move; no mechanical parser reads the Calibration lines (grepped `tools/ scripts/ .claude/skills`) and band-words inside parentheticals have precedent
+- **Declined**: a P-MS3 modal-capacity entry (the review's §8 remedy) — unaffordable in this file, per the 09-06 note; worked cases (paused AI, backups, cryonics, retained tissue) left to the research pipeline as the task directs
+- **Length**: 2,496 → 2,807 words vs 2,500 hard / 4,000 critical (`analyze_length`, body-only). Region split: P-MS1 calibration +20, Asserts +54, Depends on +24, shift-limb +50, index +16; P-MS2 Asserts +93, Depends on +11, shift-limb +34, index +9 (= +311). Not length-neutral by convention; nothing inline remained to relocate and the calibration-history pointers were not trimmed. **Split briefed** (history file, P-MS2 section): move P-MS2 to its own domain file on the subject-census precedent, freeing room for a P-MS3; migration cost 10 `#^p-ms2` deep links + 4 piped `|P-MS2` references over 20 live files, the domain list, the history file, 13 Hugo files — silent dead anchors if missed, so not taken inside a queue task. Operator's call
+- **Cascade**: P-SC3 acquires a dependent outside its domain; `positions/subject-census.md` not edited (edge legible from this domain's Depends on lines); its "Would shift if" cascade list (P-I1, Tenet 4) now understates reach by one — noted for its next pass. Domain header's foundational-dependency claim still holds: adding an upstream edge does not make P-MS1 supply any tenet's rationale
+- **Files**: `positions/moral-status.md` (both entries, frontmatter related_articles + subject-census, individuation-and-subjecthood), `positions/moral-status-calibration-history.md` (dated notes for both entries, length/split brief, description)
+- **Sync**: `scripts/sync.py`; both trees grepped for the new wording; `validate.py hugo/content/positions/` clean
 
 ## 2026-09-16T14:07:40+00:00 - positions-evolve
 - **Status**: Success
