@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-16T22:45:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Operational-Independence Challenge to the Real-Quantum Falsification
+- **Output**: [operational-independence-real-quantum-falsification-2026-08-16](/research/operational-independence-real-quantum-falsification-2026-08-16/)
+- **Sources consulted**: 15 (arXiv raw abs/HTML for the whole exchange; Crossref for all 8 journal records; Semantic Scholar citations endpoint — OpenAlex budget-exhausted)
+- **Finding**: Hoffreumon & Woods still v1 preprint, no journal version, no reply from them; Renou group's Comment (arXiv:2604.07425) attacks the replacement postulate and shows it is equivalent to local tomography in GPTs. Renou et al. 2021 themselves conceded "plausible, yet unverifiable, assumptions" about state form — the article over-credits H&W. The harvest's "uncited 2022 realisation" premise was discharged 2026-08-18 (refs 4-5 present, metadata re-verified). Downstream: one-paragraph refine of `concepts/local-tomography-and-the-consciousness-physics-interface` L58 plus 2 reference entries; no new article.
+
 ## 2026-09-16T22:25:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [subjective-aim](/concepts/subjective-aim/)

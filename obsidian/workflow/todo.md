@@ -205,12 +205,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-09-14
 - **Notes**: Do NOT re-open (D) or (B) — both landed on 2026-09-14 length-neutrally. DeMarco & Ford (2014) remains uncited because its argument could not be read (no accessible abstract); if the human wants the ally citation, it needs someone with the paper. (G) is declined for good.
 
-### P3: Research The Operational-Independence Challenge to the Real-Quantum Falsification
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-08-16-interface-formalism-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-08-16-interface-formalism-wing, Medium Priority. Hoffreumon and Woods 2026 is the pivot of local-tomography's empirical section — the claim that Renou et al's falsification rests on an experimentally untestable assumption they call product-state independence — and it is a PREPRINT the Map cites without an independent research pass. Verified thinness: Hoffreumon appears in only two live content files, the article and its own research note. A 2026 dispute this load-bearing needs its own tracking, including whether it has been refereed, replied to or superseded. The same article also asserts with NO reference entry that the test was realised in 2022 on superconducting and photonic platforms — true and traceable to an APS Physics viewpoint, but currently an uncited empirical claim in the body. DOWNSTREAM IS A REFINE plus a reference-apparatus fix — zero cap cost. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/operational-independence-real-quantum-falsification-2026-08-16.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'operational-independence-real-quantum-falsification' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-08-16
-
 ### P3: sign-problem leaves Horn 2 unpriced while the corpus's newest article supplies exactly the missing price — two same-day creates, four hours apart, zero mutual mentions
 
 - **Type**: refine-draft
@@ -1852,6 +1846,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-16: Research The Operational-Independence Challenge to the Real-Quantum Falsification
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-08-16-interface-formalism-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-08-16-interface-formalism-wing, Medium Priority. Hoffreumon and Woods 2026 is the pivot of local-tomography's empirical section — the claim that Renou et al's falsification rests on an experimentally untestable assumption they call product-state independence — and it is a PREPRINT the Map cites without an independent research pass. Verified thinness: Hoffreumon appears in only two live content files, the article and its own research note. A 2026 dispute this load-bearing needs its own tracking, including whether it has been refereed, replied to or superseded. The same article also asserts with NO reference entry that the test was realised in 2022 on superconducting and photonic platforms — true and traceable to an APS Physics viewpoint, but currently an uncited empirical claim in the body. DOWNSTREAM IS A REFINE plus a reference-apparatus fix — zero cap cost. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/operational-independence-real-quantum-falsification-2026-08-16.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'operational-independence-real-quantum-falsification' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-09-16: Research Anti-Zeno Effects in Biological Systems as a Control-Pair Search
 - **Type**: research-topic
