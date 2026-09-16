@@ -4,6 +4,19 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-16T07:57:14+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-16T08:48:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/filter-theory]] and [[concepts/mind-brain-separation]] (one pass, two files — outer-review 2026-09-16 ChatGPT §6 items 6–7; item (1) convergent with Claude §2.1 / Part 4 item 7, synthesis cluster 10)
+- **Original score**: n/a (targeted calibration fixes; `scripts/curate.py review` is not present in this checkout)
+- **Changes**:
+  - `filter-theory` L198 weighting note: the seven-case list now names [[lucid-dreaming-and-dualist-rendering|lucid dreaming]] as the eighth supportive case (the Dreams subsection at L119 was already in the evidence catalogue but missing from the count), the counts read "eight" throughout, and one clause installs the parallel-accommodation point for dreaming: absence of stimulation matching dream content is not absence of neural generation. Downstream note: 13 review files and 5 workflow files quote the pre-edit phrase "one pattern, not seven"; those quotes are now historical (the discipline is unchanged, only the tally).
+  - `filter-theory` L121: "operating without sensory input" → "operating with external input gated" — the same channel-closed overstatement the ChatGPT review verified against the lucid-dreaming article (Koroma 2020: flexible amplification/suppression during REM; Konkoly 2021 depends on the channel being open), and the new L198 clause would otherwise have sat beside a sentence contradicting it.
+  - `filter-theory` length: article was at 3497/3500 hard, so the addition was paid for in-paragraph ("Read honestly," "accommodation" in "the same accommodation move", "straightforwardly", "should not be counted as" → "are not", "rather than against" → "not") plus the redundant "(NDEs, psychedelics, covert consciousness)" example list in the Claims paragraph, which the weighting note now enumerates. Net +2 words; 3499 after. `evaluate_symmetry` still returns `None` (markers "structurally identical", "the same move is available", "production theorists", "cluster carries the evidential weight of one", "not … independent confirmations" all retained).
+  - `mind-brain-separation` L90: "the case for mental causation rests on the laboratory two-way communication studies" → the studies show conscious processing is causally integrated during REM (novel questions perceived, volitional answers returned — Konkoly 2021, PMID 33607035); that the processing is non-physical is what the tenets assert, not what the studies show, and a [[global-workspace-theory|global-workspace]] reading takes the same data as physical efficacy. L88 symmetric-burden paragraph untouched. +40 words (2541, soft band).
+  - Reasoning-mode note (editor-internal): both fixes are Mode Three moves — they mark that the altered-state and REM-communication data underdetermine the tenet rather than claiming the data refute production framings; no in-framework refutation was available or claimed.
+  - Both files `ai_modified` 2026-09-16T08:48:53+00:00 from live `date -u`; synced; new strings grep once and old strings zero in both `obsidian/` and `hugo/content/` trees.
+- **Published**: yes
 ## 2026-09-16T08:37:27+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/conceptual-role-semantics]]

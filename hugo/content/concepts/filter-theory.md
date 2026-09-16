@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-09-10 03:22:27+00:00
+ai_modified: 2026-09-16 08:48:53+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-26 16:01:03+00:00
-lastmod: 2026-09-10 03:22:27+00:00
+lastmod: 2026-09-16 08:48:53+00:00
 modified: *id001
 related_articles:
 - '[[filter-vs-interface-distinction]]'
@@ -122,7 +122,7 @@ Around 15% of patients classified as behaviorally unresponsive show clear signs 
 
 ### Dreams
 
-[Dreams](/topics/dream-consciousness/) show consciousness operating without sensory input—immersive experiential worlds that filter models read as consciousness using the brain's representational capacities with sensory constraints removed. [Lucid dreaming](/topics/lucid-dreaming-and-dualist-rendering/) sharpens this into a rendering dilemma: if the brain generates vivid visual worlds during sleep, its failure to deploy that capability during waking to compensate for sensory degradation demands explanation.
+[Dreams](/topics/dream-consciousness/) show consciousness operating with external input gated—immersive experiential worlds that filter models read as consciousness using the brain's representational capacities with sensory constraints removed. [Lucid dreaming](/topics/lucid-dreaming-and-dualist-rendering/) sharpens this into a rendering dilemma: if the brain generates vivid visual worlds during sleep, its failure to deploy that capability during waking to compensate for sensory degradation demands explanation.
 
 ### Simple Organisms and the Filter Boundary
 
@@ -195,11 +195,11 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 
 ## What Filter Theory Does and Doesn't Claim
 
-**Claims:** Brain-consciousness correlation doesn't prove production. The brain's role may be transmissive rather than generative—an interpretation empirically equivalent to production models, which accommodates the anomalous findings (NDEs, psychedelics, covert consciousness) subject to the weighting note below.
+**Claims:** Brain-consciousness correlation doesn't prove production. The brain's role may be transmissive rather than generative—an interpretation empirically equivalent to production models, which accommodates the anomalous findings subject to the weighting note below.
 
 **Doesn't claim:** That consciousness survives death (compatible but not required). That the brain is unimportant (the interface is crucial). That brain science is wrong (findings stand; interpretation differs).
 
-A note on how the evidence above should be weighed. The seven supportive subsections—psychedelics, anaesthetic divergence, hypnagogia, cessation, NDEs, terminal lucidity, covert consciousness—should not be counted as seven independent confirmations. Each makes the *same* dialectical move: disrupting brain activity changes or enhances experience in a way naive production does not predict. Read honestly, the cluster carries the evidential weight of one pattern, not seven, and it tells against *naive* unified-switch production rather than against sophisticated functionalism. The same accommodation move is available to production theorists on every case: different receptor systems and disrupted circuits straightforwardly predict different—even coherent—phenomenal outcomes, so the divergence is redistributed processing rather than a loosened filter (see [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) and [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) for the structurally identical production-side accommodation). Filter theory and a sophisticated production framing therefore accommodate the same altered-state set by parallel moves, and the case for filter theory rests on convergence with the [hard problem](/topics/hard-problem-of-consciousness/) rather than on tallying the cluster.
+A note on how the evidence above should be weighed. The eight supportive subsections—psychedelics, anaesthetic divergence, hypnagogia, cessation, NDEs, terminal lucidity, covert consciousness, [lucid dreaming](/topics/lucid-dreaming-and-dualist-rendering/)—are not eight independent confirmations. Each makes the *same* dialectical move: disrupting brain activity changes or enhances experience in a way naive production does not predict. The cluster carries the evidential weight of one pattern, not eight, and tells against *naive* unified-switch production, not sophisticated functionalism. The same move is available to production theorists on every case: different receptor systems and disrupted circuits predict different—even coherent—phenomenal outcomes, so the divergence is redistributed processing rather than a loosened filter, and absence of stimulation matching dream content is not absence of neural generation (see [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) and [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) for the structurally identical production-side accommodation). Filter theory and a sophisticated production framing therefore accommodate the same altered-state set by parallel moves, and the case for filter theory rests on convergence with the [hard problem](/topics/hard-problem-of-consciousness/) rather than on tallying the cluster.
 
 ## Further Reading
 

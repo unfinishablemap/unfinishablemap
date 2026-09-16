@@ -4,7 +4,7 @@ description: "Filter theory's division of faculties: qualia belong to mind, auto
 created: 2026-01-14
 modified: 2026-02-26
 human_modified: null
-ai_modified: 2026-07-28T19:22:00+00:00
+ai_modified: 2026-09-16T08:48:53+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -87,7 +87,7 @@ The framework accounts for why brain damage produces specific deficits (damaged 
 
 The disruptive states carry a symmetric burden these explanatory successes obscure. Anaesthesia and dreamless sleep are cases the filter reading must *accommodate*—the interface narrows, or its bandwidth falls toward zero, while the consciousness it filters is untouched (see [[anaesthesia-and-the-consciousness-interface]] and [[altered-states-of-consciousness]])—rather than cite as further confirmations, and the same move is available to production theorists for the cases that appear to favour the filter. Because both framings make structurally identical accommodations, the altered-state cluster carries the evidential weight of one pattern rather than four independent confirmations. The filter theory's advantage lies not in the count of cases it absorbs but in its coherence with the positive arguments for irreducibility (the knowledge argument, zombie conceivability) that motivate looking beyond production models.
 
-Dreams offer suggestive evidence: consciousness uses the brain's rendering capacities during REM sleep, constrained by some neural properties but not by physical law. Lucid dreaming is consistent with bidirectional interaction—the dreamer decides to fly and flying occurs within the experienced world—though the case for mental causation rests on the laboratory two-way communication studies treated in [[lucid-dreaming-and-dualist-rendering]] rather than on the felt phenomenology alone. The [[lucid-dreaming-and-dualist-rendering|rendering dilemma]] sharpens this point: either the brain renders dream imagery autonomously (raising questions about why it fails to compensate during waking sensory degradation) or consciousness possesses its own rendering capacity that operates through neural architecture. See [[dream-consciousness]] for detailed analysis.
+Dreams offer suggestive evidence: consciousness uses the brain's rendering capacities during REM sleep, constrained by some neural properties but not by physical law. Lucid dreaming is consistent with bidirectional interaction—the dreamer decides to fly and flying occurs within the experienced world—though the felt phenomenology alone establishes little. The evidence that conscious processing is causally integrated during REM comes from the laboratory two-way communication studies treated in [[lucid-dreaming-and-dualist-rendering]], in which dreamers perceived novel questions and returned volitional answers; that this processing is non-physical is what the tenets assert, not what the studies show, and a [[global-workspace-theory|global-workspace]] reading takes the same data as physical efficacy. The [[lucid-dreaming-and-dualist-rendering|rendering dilemma]] sharpens this point: either the brain renders dream imagery autonomously (raising questions about why it fails to compensate during waking sensory degradation) or consciousness possesses its own rendering capacity that operates through neural architecture. See [[dream-consciousness]] for detailed analysis.
 
 ## The Illusionist Challenge
 
