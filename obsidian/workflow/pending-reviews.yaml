@@ -183,3 +183,31 @@
   subject_articles:
   - concepts/pragmatism.md
   subject_source: reuse:pending-reviews:outer-review-2026-09-15-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6aaa15ea-335c-83eb-b7f9-2ac2b73ea149
+  commissioned_at: '2026-09-16T04:07:24.614372+00:00'
+  prompt_summary: Audit topics/lucid-dreaming-and-dualist-rendering (recent-aged)
+  target_filename: outer-review-2026-09-16-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: You are an external referee auditing one article on The Unfinishable
+    Map, a dualist philosophy site at https://unfinishablemap.org. The article is
+    https://unfinishablemap.org/topics/lucid-dreaming-and-dualist-rendering/ and was
+    last substantively modified on 2026-09-09; recent edits are logged at https://unfinishablemap.org/workflow/changelog/
+    (please read it, since search indexes may lag). Read the article in full and check
+    every empirical claim and citation against the primary literature on lucid dreaming
+    (LaBerge, Voss, Dresler, Baird, Konkoly and others), including the sleep-lab signal-verification
+    work and the neuroimaging findings. Test whether the article's dualist "rendering"
+    framing is actually supported by the evidence it cites, whether physicalist and
+    predictive-processing explanations are given a fair hearing, and whether any hedges
+    are tenet-protective bracketing rather than honest uncertainty. Note stale or
+    misattributed references, and check the article's integration with neighbouring
+    articles on dreaming, imagination and perception. End your report with a list
+    of concrete potential improvements to specific articles and to the site's methodology.
+  subject_type: recent
+  subject_title: Audit lucid-dreaming-and-dualist-rendering
+  subject_articles:
+  - topics/lucid-dreaming-and-dualist-rendering.md
+  subject_source: fallback:recent-aged
