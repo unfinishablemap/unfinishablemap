@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-09-10 11:02:04+00:00
+ai_modified: 2026-09-16 20:38:57+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 apex_last_synthesis: 2026-07-17 00:19:07+00:00
 apex_sources:
@@ -38,7 +38,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 19:54:44+00:00
-lastmod: 2026-09-10 11:02:04+00:00
+lastmod: 2026-09-16 20:38:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -99,7 +99,7 @@ This phenomenological contrast has neural correlates. [Willed attention](/concep
 
 Consciousness at work does not merely choose in discrete moments — it *holds*. Sustaining attention on a difficult text, maintaining an intention across interruptions, keeping multiple considerations active during complex reasoning: these are acts of temporal persistence the [attention-as-interface](/apex/attention-as-causal-bridge/) framework identifies as a core exercise of conscious causal power. Holding has its own phenomenological character, distinct from initial selection — steadier, more draining over time, punctuated by the recurring cycle of [wandering and return](/topics/phenomenology-of-returning-attention/). When attention drifts, there is a moment of noticing (involuntary — it happens *to* you) followed by a moment of re-engagement (voluntary — you *do* it). The return phase is effortful in a way the noticing is not — consciousness doing the work of selection feels different from consciousness receiving the fact of having wandered.
 
-The [quantum Zeno mechanism](/concepts/stapp-quantum-mind/) (Stapp, 2007) offers one candidate explanation: rapid, repeated acts of observation hold desired neural patterns stable against decoherence. The mechanism faces a quantitative gap the Map names rather than dodges (developed in [consciousness and causal powers](/topics/consciousness-and-causal-powers/#sustained-attention)): standard decoherence times for neural-relevant superpositions run twelve to nineteen orders of magnitude faster than the 10–30 Hz attentional phenomenology, so the proposal requires either protected microenvironments (the contested Penrose-Hameroff conjecture) or an alternative quantum mechanism — most likely [post-decoherence selection](/concepts/post-decoherence-selection/) — that does not require sustained neural-timescale coherence. The phenomenology of holding matches what any theory of sustained conscious influence should predict, independent of which mechanism eventually carries the load.
+The [quantum Zeno mechanism](/concepts/stapp-quantum-mind/) (Stapp, 2007) offers one candidate explanation: rapid, repeated acts of observation hold desired neural patterns stable against decoherence. The mechanism faces a quantitative gap the Map names rather than dodges (developed in [consciousness and causal powers](/topics/consciousness-and-causal-powers/#sustained-attention)): standard decoherence times for neural-relevant superpositions run twelve to nineteen orders of magnitude faster than the 10–30 Hz attentional phenomenology, so the proposal requires either protected microenvironments (the contested Penrose-Hameroff conjecture) or an alternative quantum mechanism — most likely [post-decoherence selection](/concepts/post-decoherence-selection/) — that does not require sustained neural-timescale coherence. A separate obstacle bears on direction rather than timing: nothing in the mechanism fixes whether frequent observation stabilises the attended pattern or accelerates its decay, and on the general physics acceleration is the more common outcome, so the stabilising direction assumed here has to be argued for (see [sign-problem-for-conscious-observation](/concepts/sign-problem-for-conscious-observation/)). The phenomenology of holding matches what any theory of sustained conscious influence should predict, independent of which mechanism eventually carries the load.
 
 ### Opacity: The Invisible Mechanism
 
@@ -169,7 +169,7 @@ The lines of support here are of unequal independence, and the distinction matte
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The entire phenomenological profile is evidence for this tenet — calibrated against epiphenomenalism specifically rather than against non-reductive physicalism. If consciousness were passive, the systematic correlation between felt work and genuine cognitive demand — effort scaling with difficulty, selection correlating with open alternatives, the autonomic-coupling signature Naccache found in normals — would be a regularity requiring independent explanation. The Map's framework provides a direct account: the profile is what interaction should feel like from the inside.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Opacity — the fourth feature — is consistent with consciousness operating at quantum indeterminacies below introspective resolution. The effort feature may reflect the cost of sustained observation in the quantum Zeno sense. The selection feature corresponds to biasing among physically permitted outcomes. The holding feature corresponds to repeated measurement events maintaining desired patterns. The phenomenological profile maps onto the proposed mechanism, though the Map does not claim certainty about the mechanism itself.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Opacity — the fourth feature — is consistent with consciousness operating at quantum indeterminacies below introspective resolution. The effort feature may reflect the cost of sustained observation in the quantum Zeno sense. The selection feature corresponds to biasing among physically permitted outcomes. The holding feature corresponds to repeated measurement events maintaining desired patterns, granting the stabilising direction ([sign-problem-for-conscious-observation](/concepts/sign-problem-for-conscious-observation/)). The phenomenological profile maps onto the proposed mechanism, though the Map does not claim certainty about the mechanism itself.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Selection phenomenology presents one option becoming real while the others become counterfactual — but that is exactly what a branch-local agent's experience would be either way, so the phenomenology does not by itself discriminate between singular actualisation and branching. An Everettian can grant the branch-local history of having chosen, felt cost and open future intact; what branching cannot grant is the counterfactual exclusion selection requires, since every rejected option is actualised by a counterpart elsewhere. That the unchosen be *globally* nonactual, and not merely absent from the agent's own branch, is a [posit the Map adopts](/tenets/background-commitments/) rather than a conclusion this phenomenology delivers, and the disagreement sits at the framework boundary.
 

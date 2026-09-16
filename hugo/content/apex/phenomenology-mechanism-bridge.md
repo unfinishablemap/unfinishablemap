@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-09-08 16:50:16+00:00
+ai_modified: 2026-09-16 20:38:57+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 apex_last_synthesis: 2026-05-25 00:00:00+00:00
 apex_sources:
@@ -42,7 +42,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 02:37:50+00:00
-lastmod: 2026-09-08 16:50:16+00:00
+lastmod: 2026-09-16 20:38:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -120,7 +120,7 @@ Schurger's stochastic accumulator model (2012) reinterprets the readiness potent
 
 With the Libet obstacle removed, the quantum opening becomes available. Quantum mechanics specifies probabilities for outcomes but not which outcome actualises. At these indeterminacies, physics provides necessary but not sufficient causes — [causal closure](/concepts/causal-closure/) fails at exactly these points. The Map proposes that [consciousness biases which outcome actualises](/topics/consciousness-and-causal-powers/), selecting among energetically equivalent alternatives without injecting energy or violating [conservation laws](/concepts/conservation-laws-and-mental-causation/).
 
-Stapp's quantum Zeno framework provides a candidate mechanism specifically for motor control. Competing motor programmes exist as neural states that would naturally evolve and dissipate; by rapidly "observing" the desired programme — attending to the intended action — consciousness prevents it from decaying, giving it a sustained advantage in the threshold-crossing competition. The continuous effort of holding an intention against competing alternatives maps onto what repeated observation events should feel like.
+Stapp's quantum Zeno framework provides a candidate mechanism specifically for motor control. Competing motor programmes exist as neural states that would naturally evolve and dissipate; by rapidly "observing" the desired programme — attending to the intended action — consciousness prevents it from decaying, giving it a sustained advantage in the threshold-crossing competition. Nothing in the mechanism fixes whether frequent observation stabilises the attended programme or accelerates its decay, and on the general physics acceleration is the more common outcome; the stabilising direction assumed here has to be argued for (see [sign-problem-for-conscious-observation](/concepts/sign-problem-for-conscious-observation/)). The continuous effort of holding an intention against competing alternatives maps onto what repeated observation events should feel like.
 
 This closes the loop with Level Two: the brain generates competing plans in parallel, the basal ganglia set thresholds, and consciousness stabilises one plan through attentional observation, biasing the competition where physics leaves outcomes undetermined. The ~10 bits/second bandwidth of conscious processing (Zheng & Meister 2025, sharpening the disparity Nørretranders 1998 popularised at ~16 bits/s) matches policy-level selection — choosing "reach for the glass," not directing individual motor neurons.
 

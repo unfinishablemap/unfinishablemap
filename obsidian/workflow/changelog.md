@@ -5,6 +5,13 @@ ai_modified: '2026-09-16T20:23:03+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-16T20:38:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/attention-as-causal-bridge]], [[apex/phenomenology-of-consciousness-doing-work]], [[apex/phenomenology-mechanism-bridge]]
+- **Original score**: n/a (targeted sign-problem calibration, first tranche of the ~40-file family; `scripts/curate.py review` does not exist)
+- **Changes**: Installed the calibrated direction-is-open clause from `topics/motor-control-quantum-zeno` L115 (copy-source, adapted not recomposed) with a `[[sign-problem-for-conscious-observation]]` link at each file's first Zeno-stabilisation locus; second loci got a bare link/five-word pointer only. `attention-as-causal-bridge` (hard_warning) taken length-neutrally, 5109→5109 body words: clause at L86, pointer at L182 tenet bullet; trimmed adjacent redundancy (Kahneman gloss, "deterministic system", em-dash restatement of the Zeno assumption in the tenet bullet, "gives the full treatment") — none review-quoted (grep of reviews/ + `git log -S` checked; the review-installed "though it needs careful handling" was left). `phenomenology-of-consciousness-doing-work` 4710→4764 (clause L99, pointer L169). `phenomenology-mechanism-bridge` 4932→4971 (clause L114; stays under the 5000 hard threshold). Scope guard honoured: the clause states the direction is an open commitment the mechanism owes an argument for, never that the mechanism fails. `positions/quantum-interface` P-Q4 untouched (owned by an open positions-evolve task). Synced to Hugo; link count in both trees 2/2, 2/2, 1/1. ai_modified bumped on all three; todo.md untouched.
+- **Published**: yes
+
 ## 2026-09-16T20:23:03+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline — no merge performed; the fast-abandon path the 09-15 and 09-16 11:34 runs prescribed: movement check only, abandon unless a `/condense` or `/archive` commit has landed in a content section)
 - **Sources**: none
