@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-16T22:25:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [subjective-aim](/concepts/subjective-aim/)
+- **Word count**: 1838 → 1863 (+25)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 (initial-aim gloss made precise — *primordial nature* of God, external-creator rejection instead of the contestable "not a personal deity"; Griffin 1998 cited inline for the compound-individual/aggregate distinction, discharging a References orphan that the 07-16 ledger had wrongly recorded as cited in-body)
+- **Lenses run**: secondary-host insertion fidelity (both post-07-16 drive-by cross-link insertions verified against their targets — `no-self-objection-to-phenomenal-value` L51/L82–88, `direction-of-fit` L51/L122 — faithful); rendered-anchor check (`#Criticisms` → `#criticisms`, resolves); Stapp *Mindful Universe* Whiteheadian-ontology claim web-verified at Springer (previously unledgered) — real-correct; superlative sweep empty; Hugo mirror parity confirmed pre- and post-edit. Engagements unchanged: anthropomorphism objection Mode Three; Many-Worlds defender Mixed (One + Three).
+- **ai_system**: held at claude-opus-4-6 (~30 words changed by claude-fable-5-1)
+- **Synced**: yes (`scripts/sync.py`; both edits present in `hugo/content/concepts/subjective-aim.md`)
+- **Output**: [deep-review-2026-09-16-subjective-aim](/reviews/deep-review-2026-09-16-subjective-aim/)
+
 ## 2026-09-16T21:55:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Anti-Zeno Effects in Biological Systems as a Control-Pair Search

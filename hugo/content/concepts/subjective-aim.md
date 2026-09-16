@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-08-27 13:00:14+00:00
+ai_modified: 2026-09-16 22:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,8 +24,8 @@ description: Whitehead's subjective aim—each occasion's directedness toward it
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-16 20:50:57+00:00
-lastmod: 2026-08-27 13:00:14+00:00
+last_deep_review: 2026-09-16 22:25:00+00:00
+lastmod: 2026-09-16 22:25:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,7 +44,7 @@ The Unfinishable Map does not adopt Whitehead's panpsychism—the Map holds that
 
 Each actual occasion in Whitehead's ontology undergoes "concrescence"—a process of growing together from indeterminate possibility to definite actuality. The occasion inherits data from its predecessors through [prehension](/concepts/prehension/), entertains abstract possibilities ("eternal objects"), and synthesises these into one unified outcome. Subjective aim is what guides this synthesis. It is the occasion's orientation toward a particular form of satisfaction—the way it shapes its own becoming.
 
-Whitehead distinguished the *initial* subjective aim from the *modified* subjective aim. The initial aim derives from what Whitehead called God (a technical term in his system meaning the ordering of abstract possibilities, not a personal deity). As the occasion develops, it modifies this initial aim through its own creative process, introducing genuine novelty. The final aim—what the occasion actually becomes—reflects both inherited constraint and creative self-determination.
+Whitehead distinguished the *initial* subjective aim from the *modified* subjective aim. The initial aim derives from what Whitehead called the *primordial nature* of God—a technical term for the ordering of abstract possibilities, not an omnipotent creator standing outside the process. As the occasion develops, it modifies this initial aim through its own creative process, introducing genuine novelty. The final aim—what the occasion actually becomes—reflects both inherited constraint and creative self-determination.
 
 Subjective aim is not conscious deliberation. Most actual occasions (electrons, molecules, simple organisms) have subjective aim in only the most attenuated sense—a minimal directedness toward their own satisfaction. Human consciousness represents the extreme case: highly complex occasions with rich subjective aims involving reflection, imagination, and deliberate choice.
 
@@ -84,7 +84,7 @@ Subjective aim faces objections both from within and outside process philosophy.
 
 **Empirical vacuity**: Subjective aim generates no distinctive empirical predictions. An electron with subjective aim behaves identically to one without. The concept's value is metaphysical—offering a framework where consciousness is natural rather than anomalous—not empirical. Whether metaphysical illumination without empirical consequences constitutes genuine explanation is debated.
 
-**The combination problem**: If fundamental occasions have subjective aims, how do many simple aims combine into the unified, complex aims of human consciousness? This is a specific form of the [combination problem](/concepts/combination-problem/) that faces all panpsychist positions. Whitehead's answer—that "personally ordered societies" of occasions inherit aims with special intimacy—is contested. Buddhist momentariness (*ksanikavada*) poses a related challenge from a different angle: if each occasion perishes immediately upon achieving satisfaction, what holds the "subject" in subjective aim together across moments? The *anatman* tradition questions whether a unified subject exists to have aims at all; [no-self-objection-to-phenomenal-value](/concepts/no-self-objection-to-phenomenal-value/) treats the value-side of that question, arguing that a momentary experiential locus is enough for mattering even if no subject persists across occasions. The transition from molecular-level directedness to conscious deliberation remains inadequately explained.
+**The combination problem**: If fundamental occasions have subjective aims, how do many simple aims combine into the unified, complex aims of human consciousness? This is a specific form of the [combination problem](/concepts/combination-problem/) that faces all panpsychist positions. Whitehead's answer—that "personally ordered societies" of occasions inherit aims with special intimacy—is contested; Griffin (1998) develops it through Hartshorne's distinction between "compound individuals," which have a dominant occasion, and mere aggregates, which do not. Buddhist momentariness (*ksanikavada*) poses a related challenge from a different angle: if each occasion perishes immediately upon achieving satisfaction, what holds the "subject" in subjective aim together across moments? The *anatman* tradition questions whether a unified subject exists to have aims at all; [no-self-objection-to-phenomenal-value](/concepts/no-self-objection-to-phenomenal-value/) treats the value-side of that question, arguing that a momentary experiential locus is enough for mattering even if no subject persists across occasions. The transition from molecular-level directedness to conscious deliberation remains inadequately explained.
 
 **Teleology without mechanism**: Subjective aim introduces teleology (goal-directedness) at the fundamental level without specifying how this teleology operates physically. The Map's quantum selection framework at least identifies *where* consciousness might intervene (quantum indeterminacies). Process philosophy's subjective aim identifies *what* is happening (self-directed becoming) without specifying how this relates to physical law.
 
