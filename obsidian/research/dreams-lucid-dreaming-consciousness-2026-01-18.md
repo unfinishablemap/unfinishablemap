@@ -4,6 +4,7 @@ created: 2026-01-18
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-09-16T07:53:52+00:00
 ---
 
 # Research: Dreams and Lucid Dreaming for Consciousness Framework
