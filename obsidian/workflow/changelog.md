@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-16T07:03:44+00:00'
+ai_modified: '2026-09-16T07:40:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-16T07:40:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/jourdain-hypothesis]] (2,894 words; oldest of 321 live articles never the subject of a pessimistic pass — coverage measured on the multi-line `Content reviewed` block of every pessimistic file, not filenames; `meaning-of-life` was dropped once the 2026-01-27 multi-article review was found to list it)
+- **Findings**: 4 high — (1) L147 third functionalist response runs the flat "someone must be fooled" regress that `qualia.md` L153 rules a framework-boundary point; string-sibling the 2026-08-08 strawman sweep missed (its 8 listed loci are fixed, this one is not); (2) "Teaching Asymmetry" + falsifier 3 are behind `teaching-as-metarepresentation` (Goualougo transfers, Musgrave 2016/2020; functional vs representational teaching), which links here twice and is never linked back; (3) tip-of-the-tongue asymmetry equivocates epistemic (non-verbal animals cannot report TOT) into metaphysical ("cannot experience the structure of what they don't know"), against Hampton 2001 already cited in `cross-species-behavioural-confidence-proxy-tests`; (4) "sharp divide ⇒ qualitative ⇒ phenomenal" never names the language / working-memory / executive-function confound `theory-of-mind` L75 concedes. 1 medium — scope inflation: Gruber et al. 2015 (publisher page fetched) claim no metarepresentation of *cultural* knowledge and allow "more advanced metarepresentational capacities than generally thought"; the article's table generalises to all declarative metacognition. Occam and Contemplative sections re-aim at a rival the named functionalist does not hold. Citations not re-verified (2026-07-16 ledger clean). Altered-state gate: n/a.
+- **Disagreement with prior review**: 2026-07-16 deep review classed response three as unsupported-move identification; it asserts the disputed thesis, so boundary-substitution — settled by the corpus's own `qualia.md` L153 ruling.
+- **Tasks**: 1 P2 refine-draft minted (four fixes, 605-word headroom, citations exempt)
+- **Output**: [[reviews/pessimistic-2026-09-16-jourdain-hypothesis]]
+
 ## 2026-09-16T07:03:44+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/lucid-dreaming-and-dualist-rendering]] (+ sweep: [[research/lucid-dreaming-mind-side-rendering-2026-03-09]], `archive/topics/lucid-dreaming-and-mind-side-rendering`)
