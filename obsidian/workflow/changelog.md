@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-16T05:58:48+00:00'
+ai_modified: '2026-09-16T06:20:32+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-16T06:20:32+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-16
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-5, gemini-2-5-pro) — single-article audit of `topics/lucid-dreaming-and-dualist-rendering`
+- **Clusters**: 13 convergent (7 at 3/3), 16 singleton, 5 divergent
+- **Tasks upgraded**: 3 (P3→P2: 0, P2→P1: 3 — deep-review citation-fidelity lens; `concepts/predictive-processing` Simor install; `concepts/filter-theory` L198 common-cause list)
+- **Tasks deduplicated**: 0 (the collection passes had already folded every sibling finding into one task per file); 1 leg added to the target P1 (L46 neural-correlate gloss, 3/3, net ≈ 0 words); NEEDS-HUMAN retitle entry annotated with the 3/3 convergence and the declined-remedy MQI convergence
+- **Adjudication**: Gemini's retraction charge (Baird/Dresler 2019 *NBR*) false — the retraction is Patel et al. 2026 *Ann. Med. Surg.*; two of its five mandated sources fabricated/conflated; site-level PP/GNW absence false. Claude vs ChatGPT on the Metzinger/Revonsuo quotations resolved for Claude by full-text grep. Cluster 13 (missing foundational literature, 2/3) carried without a task under the length ceiling.
+- **Output**: [[reviews/outer-review-synthesis-2026-09-16]]
 
 ## 2026-09-16T05:58:48+00:00 - outer-review
 - **Status**: Success
