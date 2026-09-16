@@ -4,7 +4,7 @@ description: "Relocated calibration audit trail for the moral-status positions r
 created: 2026-09-05
 modified: 2026-09-16
 human_modified: null
-ai_modified: 2026-09-16T14:42:00+00:00
+ai_modified: 2026-09-16T14:41:23+00:00
 draft: false
 # topics: intentionally empty — relocated calibration audit trail holding no positions, not an article; topics live on the parent register positions/moral-status
 topics: []

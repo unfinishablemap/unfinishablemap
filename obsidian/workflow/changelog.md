@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-16T14:46:00+00:00'
+ai_modified: '2026-09-16T14:51:39+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-16T14:51:39+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: update (domain preamble, `positions/consciousness-scope.md` L39) — the "minimal-dualism spine" stated counterfactual fallback robustness as if it were current-framework independence from Tenets 2–3; from outer review 2026-09-14 ChatGPT 5.6 Pro §5.5 / §7.5 / §9 (synthesis L96), P2
+- **Reword**: the three relations named and separated — *support independence* (what the matrix's "not invoked" records), *metaphysical compatibility*, *counterfactual fallback robustness* — with the spine assigned the third, grounded in the first, and explicitly denied independence from Tenets 2–3 inside the five-tenet package (a conscious animal or infant is still owed some causal route at Tenet 3's available-not-actual standing). "None of the quantum apparatus" removed
+- **Matrix check**: the cited tenet-dependency matrix has an **Animal consciousness** row (bare dualism Required; the six other sub-readings Not invoked) and **no infant row** — the old sentence's "marks animal and infant phenomenality" overstated the citation. Now cites the animal row and derives the infant profile from P-CS3's shared marker method. Matrix link added (`[[tenets#Tenet-Dependency Matrix|…]]`, renders to `/tenets/#tenet-dependency-matrix` like the two existing referrers)
+- **Left as is**: P-CS5's Tenet-3 leg (per task); P-CS1/P-CS4 "explicitly not Tenets 2–3" Depends-on lines (those are support relations, correctly so); the frontmatter description ("survives even a coherence-only demotion" is the fallback claim, correctly stated)
+- **Sibling**: `positions/positions.md` L83 index gloss "(… on bare Tenet 1, no quantum apparatus)" carried the same overstatement in compressed form — reworded to a fallback-not-independence gloss (+16 words; file 2,926 → 2,942, already past hard)
+- **Bands**: none moved; no entry's calibration line, status or dependencies touched. Cascade: none — preamble-only, no position's Asserts changed
+- **Length**: 2,842 → 2,957 words vs 2,500 hard / 4,000 critical (`analyze_length`, body-only). Split: reword +82 content (49 → 131, three relations plus the matrix correction), one trim −2, mandated Updated note +35. Not near-neutral as the task hoped; the domain file was already at `hard_warning` and the `positions/` threshold question sits with the operator (needs-human, todo L1208)
+- **Sync**: `scripts/sync.py`; both trees grepped for the old and new wording
 
 ## 2026-09-16T14:46:00+00:00 - positions-evolve
 - **Status**: Success

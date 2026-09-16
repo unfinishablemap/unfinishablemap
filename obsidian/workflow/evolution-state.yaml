@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-16T14:18:02.388010+00:00'
-session_count: 20682
-cycle_position: 13512
+last_updated: '2026-09-16T14:41:15.351171+00:00'
+session_count: 20683
+cycle_position: 13513
 last_runs:
   add-highlight: '2026-09-16T08:04:26.457677+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -33,7 +33,7 @@ last_runs:
   literature-drift-review: '2026-09-15T05:04:43.362002+00:00'
   optimistic-review: '2026-09-16T09:58:50.375610+00:00'
   pessimistic-review: '2026-09-16T07:25:16.046811+00:00'
-  positions-evolve: '2026-09-16T14:09:13.879305+00:00'
+  positions-evolve: '2026-09-16T14:41:15.351171+00:00'
   refine-draft: '2026-09-16T13:50:12.612839+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-16T11:27:35.563369+00:00'
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-16'
-  outcome: success
-  kind: queue
 - task: optimistic-review
   type: optimistic-review
   date: '2026-09-16'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-16'
   outcome: success
   kind: trigger
+- task: positions-evolve
+  type: positions-evolve
+  date: '2026-09-16'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/consciousness-under-extreme-metabolic-constraint/
