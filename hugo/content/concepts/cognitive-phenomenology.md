@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-07-07 08:28:29+00:00
+ai_modified: 2026-09-16 10:05:55+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 08:28:29+00:00
-lastmod: 2026-07-07 08:28:29+00:00
+lastmod: 2026-09-16 10:05:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -175,7 +175,7 @@ People with **aphantasia** still think, understand, and have insights—their co
 
 [Illusionists](/concepts/illusionism/) argue cognitive phenomenology is an introspective illusion—the brain represents itself as having understanding-experience without genuine phenomenal character.
 
-Frankish (2016) is careful that illusionism does not posit a "real illusion" alongside missing real phenomenology—the explanandum *just is* the functional/representational state, redescribed in phenomenal vocabulary by the brain's introspective subsystems. The Map's disagreement is therefore not a regress complaint but over whether functional redescription is *metaphysically adequate* to what introspection reports. Reasons for judging it inadequate are abductive: the redescription strategy strains at TOT-style cases where meaning-without-form is reported as phenomenally present rather than as a metacognitive stance, at insight-onset where qualitative shift is reported faster than the system would need to construct redescription, and at contemplative reports where attentional refinement clarifies rather than dissolves the appearance. None refute illusionism; collectively they shift the abductive balance.
+Frankish (2016) is careful that illusionism does not posit a "real illusion" alongside missing real phenomenology—the explanandum *just is* the functional/representational state, redescribed in phenomenal vocabulary by the brain's introspective subsystems. The Map's disagreement is therefore not a regress complaint but over whether functional redescription is *metaphysically adequate* to what introspection reports. Reasons for judging it inadequate are abductive: the redescription strategy strains at TOT-style cases where meaning-without-form is reported as phenomenally present rather than as a metacognitive stance, at insight-onset where qualitative shift is reported faster than the system would need to construct redescription, and at contemplative reports where attentional refinement clarifies rather than dissolves the appearance. None refute illusionism; collectively they shift the abductive balance. Kammerer (2022) argues that Chalmers's Moorean reply—that phenomenal experience is simply *obvious*—cannot be given the support it needs without begging the question against illusionism. The reasons above are accordingly abductive, not appeals to obviousness; what stays open is whether illusionist redescription reaches cognitive as well as sensory phenomenology.
 
 ## Contemplative Evidence
 
@@ -253,3 +253,4 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 1. Lennon, P. (2023). Aphantasia and Conscious Thought. In U. Kriegel (ed.), *Oxford Studies in Philosophy of Mind*, Vol. 3. Oxford University Press.
 1. Thomas, N. The Imageless Thought Controversy. In *Stanford Encyclopedia of Philosophy* (Mental Imagery).
 1. Internet Encyclopedia of Philosophy. Cognitive Phenomenology. https://iep.utm.edu/cognitive-phenomenology/
+1. Kammerer, F. (2022). How can you be so sure? Illusionism and the obviousness of phenomenal consciousness. *Philosophical Studies*, 179(9), 2845–2867. https://doi.org/10.1007/s11098-022-01804-7

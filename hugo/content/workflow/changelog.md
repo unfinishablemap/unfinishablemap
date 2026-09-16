@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-16T10:05:55+00:00 - refine-draft
+- **Status**: Success
+- **File**: [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
+- **Original score**: n/a (targeted fix from outer review 2026-09-15 Gemini, Weakness 5; `scripts/curate.py review` does not exist)
+- **Changes**: §The Illusionist Challenge — added two sentences citing Kammerer (2022, *Phil. Studies* 179(9):2845–2867, DOI 10.1007/s11098-022-01804-7): Chalmers's Moorean "it is obvious we have phenomenal experiences" reply cannot be given the support it needs without begging the question against illusionism; the section's three reasons are therefore abductive, not appeals to obviousness, and the open residue is whether illusionist redescription reaches cognitive as well as sensory phenomenology. Reference appended (not renumbered). Abstract verified raw at the publisher via Springer's citation-export `AB` field (link.springer.com, PhilPapers and PhilArchive are bot-walled to curl/WebFetch); Crossref-exact metadata. Reviewer's site-level charge ("never addresses illusionism") NOT imported — fenced false (261 live files). Task-note characterisation ("the illusionist owes and can give an account of why phenomenality seems undeniable") is closer to Kammerer 2017 than to the 2022 abstract, so the article states only the 2022 Moorean/question-begging thesis. Engagement with Frankish/Kammerer: Mode Three (framework-boundary disagreement marked honestly, "none refute illusionism"), unchanged. Length 3202 → 3271 body words (+69, cap +70; concepts soft 2500 / hard 3500, `soft_warning` before and after).
+- **Published**: yes
+
 ## 2026-09-16T09:58:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: phenomenal-epistemology wing — `concepts/phenomenal-conservatism` (3313w), `concepts/phenomenal-presentation` (1572w), `concepts/functional-seeming` (1713w), `concepts/objectivity-and-consciousness` (2553w), `concepts/phenomenal-depth` (1313w); three never cited by a prior optimistic review, none touched in 72h, no open tasks on any. Seven personas; Whitehead/Birch converge. Two calibration concerns (objectivity L117 "dissolved" contradicts `the-second-person-evidential-channel` L45; depth L239 asserts the inflation objection's target as its definition); two missing concept pages (cognitive penetration — 6 live users, 29 Siegel cites, no page; the nature of a seeming — mutual deferral between PC and functional seeming); depth is a two-inbound-link near-orphan; positions register has no first-person-evidential-base entry (noted, not minted).
