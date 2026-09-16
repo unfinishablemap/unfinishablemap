@@ -10,6 +10,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-16T21:55:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Anti-Zeno Effects in Biological Systems as a Control-Pair Search
+- **Output**: [anti-zeno-effects-biology-control-pair-2026-08-16](/research/anti-zeno-effects-biology-control-pair-2026-08-16/)
+- **Sources consulted**: 20 (4 indices; control leg passed on all; publisher/PMC records printed for every quoted paper)
+- **Finding**: Null firms into a bounded finding; two near-misses found (Babcock & Kattnig 2021 hedged "(anti-)Zeno" analogy; Thilagam 2013 "anti-Zeno-like" toy photosynthetic model). Downstream: one-sentence refine of `concepts/sign-problem-for-conscious-observation` L49; no new article.
+
+
+## 2026-09-16T20:38:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [attention-as-causal-bridge](/apex/attention-as-causal-bridge/), [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/), [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/)
+- **Original score**: n/a (targeted sign-problem calibration, first tranche of the ~40-file family; `scripts/curate.py review` does not exist)
+- **Changes**: Installed the calibrated direction-is-open clause from `topics/motor-control-quantum-zeno` L115 (copy-source, adapted not recomposed) with a `[[sign-problem-for-conscious-observation]]` link at each file's first Zeno-stabilisation locus; second loci got a bare link/five-word pointer only. `attention-as-causal-bridge` (hard_warning) taken length-neutrally, 5109→5109 body words: clause at L86, pointer at L182 tenet bullet; trimmed adjacent redundancy (Kahneman gloss, "deterministic system", em-dash restatement of the Zeno assumption in the tenet bullet, "gives the full treatment") — none review-quoted (grep of reviews/ + `git log -S` checked; the review-installed "though it needs careful handling" was left). `phenomenology-of-consciousness-doing-work` 4710→4764 (clause L99, pointer L169). `phenomenology-mechanism-bridge` 4932→4971 (clause L114; stays under the 5000 hard threshold). Scope guard honoured: the clause states the direction is an open commitment the mechanism owes an argument for, never that the mechanism fails. `positions/quantum-interface` [P-Q4](/positions/quantum-interface/#p-q4) untouched (owned by an open positions-evolve task). Synced to Hugo; link count in both trees 2/2, 2/2, 1/1. ai_modified bumped on all three; todo.md untouched.
+- **Published**: yes
+
 ## 2026-09-16T20:23:03+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline — no merge performed; the fast-abandon path the 09-15 and 09-16 11:34 runs prescribed: movement check only, abandon unless a `/condense` or `/archive` commit has landed in a content section)
 - **Sources**: none
