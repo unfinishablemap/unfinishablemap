@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-09-16 07:53:52+00:00
+ai_modified: 2026-09-16 08:24:42+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 author: null
 concepts:
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 14:19:48+00:00
-lastmod: 2026-09-16 07:53:52+00:00
+lastmod: 2026-09-16 08:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -46,16 +46,15 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Predictive processing (PP) proposes that the brain continuously generates predictions about incoming sensory information, comparing predictions against actual input. [Perception](/concepts/perception/) becomes active inference—the brain's "best guess" about reality—rather than passive reception. This framework has become one of the most influential in cognitive science.
+Predictive processing (PP) proposes that the brain continuously generates predictions about incoming sensory information, comparing predictions against actual input. [Perception](/concepts/perception/) becomes active inference—the brain's "best guess" about reality—rather than passive reception.
 
 For consciousness studies, PP offers a sophisticated account of *what* the brain does but faces the standard question: why should prediction error minimization feel like anything at all?
 
 ## The Core Framework
 
-The brain maintains hierarchical generative models of the world's causal structure. Higher levels predict what lower levels will report; lower levels send up prediction errors when reality diverges from expectation. Learning adjusts models to minimize these errors over time.
+The brain maintains hierarchical generative models of the world's causal structure. Higher levels predict what lower levels will report; lower levels send up prediction errors when reality diverges from expectation.
 
 Key concepts:
-- **Prediction error minimization**: The brain aims to reduce the gap between predictions and actual input
 - **Precision weighting**: Some prediction errors matter more than others; the brain adjusts how much weight each receives
 - **Active inference**: Rather than just updating beliefs, organisms act to change sensory input, bringing reality in line with predictions (see [active inference under dualism](/topics/predictive-processing-and-dualism/) for how this architecture integrates with interactionist dualism)
 
@@ -65,7 +64,7 @@ The framework emerged from Karl Friston's Free Energy Principle—living systems
 
 Anil Seth's influential formulation: perception is a "controlled hallucination." What we experience is not the world directly but the brain's best hypothesis about the world, constrained by sensory feedback.
 
-This explains visual illusions, filled-in blind spots, and the constructive nature of perception generally—though the [reconstruction paradox](/concepts/selective-correction-and-reconstruction-paradox/) reveals that the brain does not always construct: it sometimes transmits raw, uncorrected signals to consciousness, an asymmetry that precision weighting alone does not fully explain. The vivid red of a tomato isn't a property read off the world—it's the brain's prediction about what's causing incoming signals. But that the construction is conscious goes unexplained: a weather-prediction system constructs models without experiencing anything.
+This explains visual illusions, filled-in blind spots, and the constructive nature of perception generally—though the [reconstruction paradox](/concepts/selective-correction-and-reconstruction-paradox/) reveals that the brain does not always construct: it sometimes transmits raw, uncorrected signals to consciousness, an asymmetry that precision weighting alone does not fully explain. But that the construction is conscious goes unexplained: a weather-prediction system constructs models without experiencing anything.
 
 ## Two Streams: Hohwy and Clark
 
@@ -75,13 +74,13 @@ Jakob Hohwy and Andy Clark share the computational core but differ on cognitive 
 
 ### The Indirect Strategy
 
-Hohwy and Seth (2020) propose using PP not to solve the [hard problem](/topics/hard-problem-of-consciousness/) directly but to identify neural correlates of consciousness systematically, offering methodological tools for mapping neural mechanisms onto phenomenological properties.
+Hohwy and Seth (2020) propose using PP not to solve the [hard problem](/topics/hard-problem-of-consciousness/) directly but to identify neural correlates of consciousness systematically.
 
-Importantly: PP at the outset makes no claims about subjective experience. This neutrality allows it to serve consciousness science without imposing solutions.
+Importantly: PP at the outset makes no claims about subjective experience.
 
 ### Deep Self-Models
 
-Recent work connects consciousness to "deep self-models" in active inference. Phenomenal consciousness might emerge from subjective valuation—inference about the precision of self-evidencing outcomes. Systems become conscious when they model their own ability to control outcomes across multiple timescales.
+Recent work connects consciousness to "deep self-models" in active inference. Phenomenal consciousness might emerge from subjective valuation—inference about the precision of self-evidencing outcomes.
 
 Mark Solms locates elemental consciousness in the brainstem's affective mechanisms rather than cortical prediction. Free energy minimization might explain why uncertainty feels like something—decreases feel pleasurable, increases distressing.
 
@@ -133,29 +132,23 @@ PP has strong affinities with [illusionism](/concepts/illusionism/)—the view t
 
 ## Dreams as Evidence for Controlled Hallucination
 
-Dreams provide the clearest test case for PP's "controlled hallucination" claim. During dreams, the brain's predictive machinery operates without bottom-up constraint—sensory input is minimal, prediction errors cannot be tested against reality. The result is unconstrained prediction: vivid, immersive, but bizarre.
+Dreams provide the clearest test case for PP's "controlled hallucination" claim. During dreams, the brain's predictive machinery operates without bottom-up constraint—sensory input is minimal, prediction errors cannot be tested against reality.
 
 ### Why Dreams Are Bizarre
 
-Under PP, dream bizarreness has a natural explanation. Middle- to high-level predictions—memories, goals, beliefs—dominate dream content, and the predictions feel real because the same neural substrate generates them, but they lack the corrective influence of actual sensory data.
+Under PP, dream bizarreness has a natural explanation. Middle- to high-level predictions—memories, goals, beliefs—dominate dream content, and the predictions feel real because the same neural substrate generates them.
 
-This explains several dream features:
-- **Narrative without logic**: Plot follows associative prediction chains rather than physical constraints
-- **Emotional intensity**: Precision weighting on affective predictions proceeds unchecked
-- **Immersive quality**: The predictions are taken as veridical—there's no competing sensory evidence
-- **Failure of reality testing**: Sartre observed that waking perception carries an inherent self-certainty absent from dreams
+Hence plot that follows associative chains rather than physical constraint, affective precision running unchecked, content taken as veridical for want of competing evidence, and the failure of reality testing—Sartre observed that waking perception carries an inherent self-certainty absent from dreams.
 
 ### Implications for Consciousness Theory
 
-Dreams don't obviously support either a pure production or pure filter view. PP proponents argue dreams prove the brain generates consciousness—look, it can create experiential worlds without external input. But the [filter theory](/concepts/filter-theory/) perspective offers an alternative: dreams show consciousness using the brain's representational capacities when not constrained by sensory filtering. The brain provides the computational format; consciousness brings the experiential richness.
-
-The ~10 bits/second bandwidth constraint persists even during dreams—dream experience unfolds as a "single track of conscious experience" while memory consolidation proceeds unconsciously in parallel across cortical regions. This suggests the limitation is intrinsic to consciousness itself, not merely to sensory processing.
+Dreams don't obviously support either a pure production or pure filter view—[lucid dreaming](/topics/lucid-dreaming-and-dualist-rendering/) sharpens the underdetermination. PP proponents argue dreams prove the brain generates consciousness—look, it can create experiential worlds without external input. But the [filter theory](/concepts/filter-theory/) perspective offers an alternative: dreams show consciousness using the brain's representational capacities when not constrained by sensory filtering. The brain provides the computational format; consciousness brings the experiential richness.
 
 ### Lucid Dreaming and Meta-Prediction
 
-Lucid [dreaming](/topics/dream-consciousness/)—becoming aware that one is dreaming while still in the dream—represents a distinctive case. The dreamer generates a meta-level prediction: "this experience is a dream." This prediction, once stabilized, enables controlled navigation of dream content.
+Lucid [dreaming](/topics/dream-consciousness/)—becoming aware that one is dreaming while still in the dream—is where PP is most developed, and the strongest version is lucid-dream-specific. Simor, Bogdány and Peigneux (2022) propose that lucidity begins with "prediction error signals arising during sleep", at higher or lower levels of the hierarchy, "resolved by generating a superordinate self-model" that represents the current state as a dream. Multisensory integration then maintains lucidity, and attentional control regulates "the balance between the influence of top-down mental models and the precision weighting of bottom-up sensory inputs"—the dreamer's intentions entering as top-down models whose weight has been raised. It offers testable predictions about individual differences, and it explains lucidity itself, not only dreaming, in PP's own currency.
 
-The 2025 Demirel findings establish lucid dreaming as a distinct consciousness state with unique neural signatures (gamma power increases in right temporo-occipital regions, increased interhemispheric connectivity), not a blend of waking and REM. Frequent lucid dreamers show increased functional connectivity—not larger volume—between anterior prefrontal and temporoparietal cortex (Baird et al. 2018); cross-sectionally, this suggests precision-weighting machinery may be trainable to operate reflexively in sleep.
+The Map's reply is the one given [above](#access-not-phenomenal-consciousness). Which mismatch is detected, which self-model wins, which precision balance holds: these are access conditions stated computationally. The step from a self-model that represents "dreaming" to a dreamer for whom the recognition is felt is one the framework has not earned by its own standards—nothing in prediction-error resolution says why the superordinate model runs lit rather than dark—and what remains past that point is the boundary disagreement recorded under [Dualism](#relation-to-site-perspective). The electrophysiology does not decide it: Demirel et al. (2025) found sensor-level differences between lucid and non-lucid REM "were minimal", with "distinct source-level power and connectivity patterns" (beta reductions in right central and parietal cortex, increased interhemispheric gamma1 connectivity, a gamma1 increase confined to initial eye-signalling). Frequent lucid dreamers show increased functional connectivity—not larger volume—between anterior prefrontal and temporoparietal cortex (Baird et al. 2018); cross-sectionally, this suggests precision-weighting machinery may be trainable to operate reflexively in sleep.
 
 ## Process Philosophy Perspective
 
@@ -185,11 +178,11 @@ PP relates to The Unfinishable Map's [tenets](/tenets/) substantively:
 
 **[Dualism](/tenets/#dualism)**: PP is typically physicalist—consciousness emerges from neural computation. But the framework is methodologically neutral and could describe the *physical side* of mind-body interaction without claiming consciousness reduces to computation. The Map holds that PP captures important truths about neural information processing while missing what makes that processing experiential. Prediction error minimization is the brain's contribution; consciousness—irreducible to the predictions—is what experiences the errors. PP proponents' honest acknowledgment that the framework "makes no claims about subjective experience" implicitly concedes the [explanatory-gap](/concepts/explanatory-gap/).
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: PP says nothing about quantum mechanics, but the [attention as interface hypothesis](/concepts/attention-as-interface/) connects them. Precision weighting doesn't specify *how* certain signals become salient—it just posits that some prediction errors receive more weight than others. Quantum selection could fill this gap: consciousness might influence which prediction errors receive precision through the quantum Zeno mechanism, biasing indeterminate outcomes at the neural level. The brain generates predictions; consciousness selects which predictions matter. This preserves PP's computational account while providing a deeper mechanism for the selection that precision weighting describes but doesn't explain.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: PP says nothing about quantum mechanics, but the [attention as interface hypothesis](/concepts/attention-as-interface/) connects them. Precision weighting doesn't specify *how* certain signals become salient—it just posits that some prediction errors receive more weight than others. Quantum selection could fill this gap: consciousness might influence which prediction errors receive precision through the quantum Zeno mechanism, biasing indeterminate outcomes at the neural level. The brain generates predictions; consciousness selects which predictions matter.
 
 **The [decoherence](/concepts/decoherence/) challenge**: Quantum skeptics argue decoherence destroys coherence too quickly for quantum effects to matter at PP's timescales. Three responses: (1) Hameroff's group calculated decoherence times eight to nine orders of magnitude longer than Tegmark's estimates; (2) biological systems demonstrably maintain quantum effects for navigation and other functions; (3) decoherence doesn't solve the measurement problem—selection among outcomes remains even after decoherence has determined the basis.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Active inference—organisms acting to change sensory input—resonates deeply with bidirectional interaction. Consciousness doesn't passively receive but actively shapes reality. The Map's claim that consciousness selects among quantum outcomes is a deeper-level instance of active inference: the organism acts not just on the environment but on its own neural states. PP's emphasis on action and attention provides the neural machinery; consciousness provides the genuine agency that chooses which predictions to enact.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Active inference—organisms acting to change sensory input—resonates deeply with bidirectional interaction. The Map's claim that consciousness selects among quantum outcomes is a deeper-level instance of active inference: the organism acts not just on the environment but on its own neural states. PP's emphasis on action and attention provides the neural machinery; consciousness provides the genuine agency that chooses which predictions to enact.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: PP implicitly assumes definite outcomes—predictions are either confirmed or generate errors, not both. Under [Many-Worlds Interpretation](/concepts/many-worlds/), all predictions would be actualized in some branch, rendering "prediction error" meaningless (every prediction would be correct somewhere). The fact that PP works as a scientific framework depends on outcomes being singular and definite—collapse being real. The framework also operates on the assumption of [indexical identity](/concepts/haecceity/): *this* organism minimizes *its* prediction errors. A pure functionalist account cannot explain why *this* pattern matters rather than any functionally identical pattern in another branch.
 
@@ -200,22 +193,22 @@ PP relates to The Unfinishable Map's [tenets](/tenets/) substantively:
 ### Site Content
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — How PP integrates with the Map's interactionist dualism
 - [predictive-construction-void](/voids/predictive-construction-void/) — Why the construction/reception boundary in perception is structurally unknowable
-- [global-workspace-theory](/concepts/global-workspace-theory/) — Another major cognitive framework
-- [functionalism](/concepts/functionalism/) — The philosophical tradition PP inherits
+- [global-workspace-theory](/concepts/global-workspace-theory/)
+- [functionalism](/concepts/functionalism/)
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates consciousness-matter interaction (central to precision weighting)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — What PP doesn't directly address; IWMT's claim to *solve* it meets the same explanatory-gap reply
 - [explanatory-gap](/concepts/explanatory-gap/) — Why a generative MAP estimate, however coherent, leaves the felt character unexplained
 - [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/) — The structural challenge PP inherits if its predictions and errors rest on covariational content
 - [intentionality](/concepts/intentionality/) — Where PP's content-vocabulary gets its aboutness from (or fails to)
-- [dream-consciousness](/topics/dream-consciousness/) — Dreams as unconstrained prediction
-- [filter-theory](/concepts/filter-theory/) — Alternative interpretation of dream evidence
+- [dream-consciousness](/topics/dream-consciousness/)
+- [filter-theory](/concepts/filter-theory/)
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — REBUS as a PP-based psychedelics framework and Letheby's predictive-self-binding account
 - [entropic-brain-hypothesis](/concepts/entropic-brain-hypothesis/) — REBUS's dynamical signature: neural entropy and brain criticality as the order parameter prior-precision relaxation moves
-- [illusionism](/concepts/illusionism/) — The radical physicalist interpretation of PP
+- [illusionism](/concepts/illusionism/)
 - [eliminative-materialism](/topics/eliminative-materialism/) — Why PP figures as a softer alternative to Churchland's classical eliminativism
-- [introspection](/concepts/introspection/) — First-person access to predictive processes
-- [witness-consciousness](/concepts/witness-consciousness/) — The observer that watches predictions
-- [decoherence](/concepts/decoherence/) — Challenge to quantum-consciousness interpretations
+- [introspection](/concepts/introspection/)
+- [witness-consciousness](/concepts/witness-consciousness/)
+- [decoherence](/concepts/decoherence/)
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Training attention and precision
 
 ### External Sources
@@ -227,8 +220,10 @@ PP relates to The Unfinishable Map's [tenets](/tenets/) substantively:
 - Assran, M., Duval, Q., Misra, I., Bojanowski, P., Vincent, P., Rabbat, M., LeCun, Y., & Ballas, N. (2023). "Self-Supervised Learning From Images With a Joint-Embedding Predictive Architecture." *CVPR 2023*.
 - Hohwy, J. & Seth, A. K. (2020). "Predictive processing as a systematic basis for identifying the neural correlates of consciousness."
 - Clark, A., Friston, K. J., & Wilkinson, S. (2019). "Bayesing Qualia: Consciousness as Inference, Not Raw Datum." *Journal of Consciousness Studies*, 26(9-10), 19-33.
-- Demirel, C. et al. (2025). "Electrophysiological Correlates of Lucid Dreaming." *Journal of Neuroscience*, 45(20).
+- Demirel, Ç., Gott, J., Appel, K., et al. (2025). "Electrophysiological Correlates of Lucid Dreaming: Sensor and Source Level Signatures." *Journal of Neuroscience*, 45(20), e2237242025. doi:10.1523/JNEUROSCI.2237-24.2025.
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12).
 - Solms, M. (2021). *The Hidden Spring: A Journey to the Source of Consciousness*. W. W. Norton.
 - Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 - Fox, K. C. R. et al. (2012). "Meditation experience predicts introspective accuracy." *PLoS ONE*, 7(9).
+- Simor, P., Bogdány, T., & Peigneux, P. (2022). "Predictive coding, multisensory integration, and attentional control: A multicomponent framework for lucid dreaming." *Proceedings of the National Academy of Sciences*, 119(44), e2123418119. doi:10.1073/pnas.2123418119.
+- Baird, B., Castelnovo, A., Gosseries, O., & Tononi, G. (2018). "Frequent lucid dreaming associated with increased functional connectivity between frontopolar cortex and temporoparietal association areas." *Scientific Reports*, 8, 17798. doi:10.1038/s41598-018-36190-w.
