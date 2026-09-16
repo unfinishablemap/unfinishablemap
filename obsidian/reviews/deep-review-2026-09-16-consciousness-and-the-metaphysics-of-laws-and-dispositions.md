@@ -3,7 +3,7 @@ title: "Deep Review - Consciousness and the Metaphysics of Laws and Dispositions
 created: 2026-09-16
 modified: 2026-09-16
 human_modified: null
-ai_modified: 2026-09-16T12:40:00+00:00
+ai_modified: 2026-09-16T12:39:35+00:00
 draft: false
 topics: []
 concepts: []

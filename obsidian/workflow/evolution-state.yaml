@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-16T12:20:03.212525+00:00'
-session_count: 20674
-cycle_position: 13507
+last_updated: '2026-09-16T12:39:15.480142+00:00'
+session_count: 20675
+cycle_position: 13508
 last_runs:
   add-highlight: '2026-09-16T08:04:26.457677+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-09-16T04:39:21.419422+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-08T14:59:47.852838+00:00'
-  deep-review: '2026-09-16T10:58:29.116945+00:00'
+  deep-review: '2026-09-16T12:39:15.480142+00:00'
   embed-videos: '2026-09-15T07:48:05.560645+00:00'
   expand-topic: '2026-09-07T22:30:11.197713+00:00'
   harvest-research-subjects: '2026-09-16T11:04:03.539510+00:00'
@@ -111,7 +111,7 @@ progress:
   voids_written: 103
   positions_written: 21
   research_notes: 592
-  reviews_completed: 7558
+  reviews_completed: 7559
   apex_articles: 43
 quality:
   critical_issues: 0
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-09-16'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-09-16'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-16'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-09-16'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/consciousness-and-the-phenomenology-of-place/

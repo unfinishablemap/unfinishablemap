@@ -4,9 +4,9 @@ description: "What laws of nature are and what fundamental properties are determ
 created: 2026-02-16
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-09-16T12:40:00+00:00
+ai_modified: 2026-09-16T12:39:28+00:00
 draft: false
-last_deep_review: 2026-09-16T12:40:00+00:00
+last_deep_review: 2026-09-16T12:39:28+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[interactionist-dualism]]"

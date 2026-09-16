@@ -5,6 +5,18 @@ ai_modified: '2026-09-16T11:49:58+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-16T12:48Z - deep-review
+- **Status**: Success
+- **File**: [[concepts/trumping-preemption]] (sibling: [[concepts/delegatory-causation]] L148)
+- **Word count**: 3122 → 3229 (+107); delegatory-causation 3485 → 3492 (+7, under the 3500 hard trip)
+- **Critical issues addressed**: 1 (calibration-propagation gap: the born-rule article's 2026-09-04 concession that trumping is orthogonal to Born tests outright, plus the register's coherence-only citation grade via P-Q3, folded into the existing "Third" cost bill; delegatory-causation L148 rephrased length-neutrally from "no anomalies, therefore closure" to name the Born-test-exposure cost with a piped reciprocal wikilink)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 3 cross-links (born-rule article from both files; P-Q3 mechanism-debt anchor)
+- **Task-claim audit**: the task note's "zero prose" grep result was false — L78 already carried the "no new empirical signature … must earn its keep on theoretical grounds" bill; the fix was scoped to the three genuine gaps (Born-statistics currency, L207 cross-link, citation grade) rather than a fourth paragraph. Length-neutral offsets declined because both trim candidates trace to review-installed qualifiers (`7b5318cfff`, `f27a6dbdfc`).
+- **Citations**: body/References byte-identical to the 2026-07-16 ledgered state; 20/20 previously publisher-verified; no new bibliographic cites added. Superlative sweep none; EOF scan clean.
+- **Synced**: both files re-synced to hugo/; new strings grep-confirmed in both trees.
+- **Output**: [[reviews/deep-review-2026-09-16-trumping-preemption]]
+
 ## 2026-09-16T12:40:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-metaphysics-of-laws-and-dispositions]]
