@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
+ai_modified: 2026-09-16 07:53:52+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-18
 date: '2026-09-16'
 draft: false
-lastmod: 2026-09-16 00:00:00+00:00
+lastmod: 2026-09-16 07:53:52+00:00
 related_articles: []
 title: Research Notes - Dreams and Lucid Dreaming for Consciousness Framework
 ---

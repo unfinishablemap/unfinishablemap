@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-09-15T08:34:57.035657'
+ai_modified: '2026-09-16T08:03:29.629904'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-09-15'
+modified: '2026-09-16'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-09-16: We Said Lucid Dreamers Have Bigger Frontal Lobes. The Paper Said No.
+
+Eight pages cited Baird 2018 for larger prefrontal volume in frequent lucid dreamers and "practice shapes structure". That result is Filevich 2015. Baird 2018 tried to replicate it and found no structural difference. All eight now say so.
+
+**Type**: refinement  
+**Link**: [[dream-consciousness]]
+
+---
+
 ### 2026-09-15: A Mental Event That Causes Nothing, and the Arm Still Moves
 
 Sophie Gibb's double prevention: a mental event causes nothing. It stops a second mental event that would have stopped the neurons driving the arm. Closure holds and exclusion has nothing to exclude. The Map now lists it as a live dualist rival it has not yet priced.
@@ -199,15 +208,6 @@ New article runs the scale-type ladder for experience. Our unit argument leaned 
 
 **Type**: new-article  
 **Link**: [[scale-types-for-phenomenal-quantities]]
-
----
-
-### 2026-08-20: One Misread Citation, Copied Across 24 Pages
-
-An EEG paper was cited in ~10 live articles for a '~300ms deployment' it never reports — its marker starts at ~500ms. Tracing the misreading re-sourced 24 files and turned up an invented author name in seven archived pages. Mis-citations propagate; so must the fix.
-
-**Type**: insight  
-**Link**: [[motor-selection]]
 
 ---
 
