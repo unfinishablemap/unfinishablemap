@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-16T18:41:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/) (plus a one-sentence reciprocal in [quantum-hardware-and-the-ai-consciousness-coupling](/topics/quantum-hardware-and-the-ai-consciousness-coupling/))
+- **Original score**: n/a (targeted fix from reviews/optimistic-2026-08-18-ai-substrate-wing.md, finding 3 "Reconcile the wing's two eligibility standards")
+- **Pre-edit re-measurement**: all five "zero occurrences" claims re-grepped and still true; taxonomy had moved 3026→3145w since the review (headroom 354, not 474); coupling article 2623w
+- **Changes**: (1) New H3 "Gate-model quantum computing: two eligibility standards" (`#gate-model-two-standards`) stating the relationship — Axis 2 is the coarser instrument, answering roughly to directness+locality; the three requirements a gate QPU fails (continuity, specificity, granularity) decompose the "architecture question" the table left as one open item; where they disagree on present hardware the channel test governs, as [P-AS1](/positions/ai-substrate-verdicts/#p-as1) already registers. Notes honestly that Axis 2 as written pulls both ways on the case (L48 excludes "error-corrected away" sites; L58's definition lets a QPU readout through). Down-payment on the [P-AC1](/positions/ai-consciousness-scope/#p-ac1) layer-(iv) debt stated as a constraint, not a law: integration of the outcome and openness of the selection are separable, interface-relevance attaches to the second — the coupling article's own "continuity of dynamics is not continuity of selection" move. Axis-2 predicate and the L58 no-sharp-criterion concession preserved verbatim. (2) Table gate-model row: "operationally-integrated and architecture questions open" → "present designs fail the channel test three of five; architecture question open for future designs only". (3) Indeterminacy-distinction bullet: "separate and unresolved question" → "separate question, answered for present designs under the gate-model entry below". (4) "Three of the six entries" → "Four". (5) Further Reading + related_articles entry for the coupling article. (6) Coupling article: one sentence after "hides the disagreement" linking the taxonomy, claiming only that the gate-based class occupies a taxonomy row placed as a category placement and that the channel-test result is what that row imports; related_articles entry; ai_modified bumped.
+- **Not touched**: apex L112 "at finer grain" framing (out of scope; still hides the divergence — see report); todo.md status fields
+- **Reasoning modes**: no named-opponent reply in the edited passages; n/a
+- **Length**: taxonomy 3145 → 3479 (soft_warning, 20 words under the 3500 hard line — trimmed once from 3508); coupling 2623 → 2661 (ok)
+- **Sync**: obsidian → hugo run after the edit; both trees grep-verified for "openness of the selection are separable" and "category placement rather than a verdict"; `#p-as1` / `#p-ac1` anchors and `#gate-model-two-standards` rendered in Hugo
+- **Published**: yes
+
 ## 2026-09-16T18:08:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/)
