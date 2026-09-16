@@ -4,7 +4,7 @@ description: "Occam's Razor fails as an argument against dualism. Human-AI explo
 created: 2026-02-06
 modified: 2026-02-06
 human_modified:
-ai_modified: 2026-06-21T09:08:16+00:00
+ai_modified: 2026-09-16T13:03:01+00:00
 draft: false
 topics:
   - "[[materialism]]"
@@ -41,15 +41,17 @@ The point is not that physicalism fails entirely as a research programme. It is 
 
 ## Simplicity Is Not One Thing
 
-Even granting that parsimony has some epistemic value, which dimension of simplicity should be weighted? The philosophical literature identifies at least three:
+Even granting that parsimony has some epistemic value, which dimension of simplicity should be weighted? The philosophical literature identifies at least three, and in the consciousness debate they do not score the two frameworks the same way:
 
 **Ontological parsimony**: fewer kinds of entities. Physicalism scores well here—one substance type rather than two.
 
-**Syntactic simplicity**: fewer or simpler theoretical principles. Here physicalism fares worse. Accommodating consciousness within a physicalist framework requires elaborate theoretical moves—[[functionalism]], higher-order theories, [[illusionism]]—each an alternative attempt to bridge the [[explanatory-gap|explanatory gap]], and each adding substantial theoretical machinery that the base physicalist ontology alone cannot supply.
+**Syntactic simplicity**: fewer or simpler theoretical principles. Here physicalism fares worse, at least on the tally. Accommodating consciousness within a physicalist framework requires elaborate theoretical moves—[[functionalism]], higher-order theories, [[illusionism]]—each an alternative attempt to bridge the [[explanatory-gap|explanatory gap]], and each adding substantial theoretical machinery that the base physicalist ontology alone cannot supply.
 
-**Explanatory simplicity**: fewer unexplained brute facts. Dualism posits a non-physical aspect of reality but offers a straightforward account of why consciousness exists: because there is genuinely something non-physical going on. Physicalism must treat the existence of phenomenal experience as a brute fact about physical arrangements—something that just *happens* when matter is configured correctly, with no deeper explanation available.
+**Explanatory simplicity**: fewer unexplained brute facts. Here too the tally runs against physicalism, which must treat the existence of phenomenal experience as a brute fact about physical arrangements—something that just *happens* when matter is configured correctly, with no deeper explanation available. Dualism's account of why consciousness exists is more direct—there is genuinely something non-physical going on—but it carries a brute fact of its own: the psychophysical laws that tie that non-physical aspect to particular physical arrangements. Which brute fact weighs more is a question the dimension cannot answer about itself.
 
-These dimensions, as the Stanford Encyclopedia notes, "typically pull in different directions." W. V. O. Quine's ontology-ideology trade-off formalises the problem: reducing ontological commitments (fewer entity types) typically inflates ideological complexity (more theoretical apparatus). Physicalism about consciousness is a textbook instance—it achieves ontological economy by adding layers of functional, representational, or higher-order theory to explain away the apparent distinctness of experience.
+None of these tallies licenses the inference *simpler-therefore-truer*, in either direction. The Map's fifth tenet, [[tenets#^occams-limits|Occam's Razor Has Limits]], binds the Map's own use of parsimony exactly as it binds its critics': a dimension on which dualism scores better is a report of how that dimension scores, and that settles nothing about which framework is true. The [[parsimony-case-for-interactionist-dualism|positive case]] carries the same self-binding at its point of use.
+
+These dimensions, as the Stanford Encyclopedia notes, "typically pull in different directions." W. V. O. Quine's ontology-ideology trade-off formalises the problem: reducing ontological commitments (fewer entity types) typically inflates ideological complexity (more theoretical apparatus). Physicalism about consciousness is a textbook instance—it achieves ontological economy by adding layers of functional, representational, or higher-order theory to explain away the apparent distinctness of experience—and dualism is the mirror instance, buying theoretical directness with a second ontological category. What the three-way scoring exposes is fragmentation: weight ontology and physicalism wins; weight syntax or brute facts and it loses; and nothing in the concept of simplicity says which dimension to weight. Applied to this debate, parsimony yields contradictory verdicts rather than a verdict.
 
 The quantum interpretation debate illustrates the same fragmentation. Many-Worlds appears axiomatically simpler (no collapse postulate) but is ontologically extravagant (uncountable parallel universes). Copenhagen is ontologically simpler (one universe) but axiomatically richer (collapse as a fundamental process). Krizek (2017) surveys how proponents of every interpretation invoke Occam's Razor against their rivals and finds that the principle yields contradictory verdicts: because there is "no preferred direction in how Ockham's razor is used," which interpretation counts as simpler depends entirely on which dimension of simplicity is weighted. If parsimony cannot settle the interpretation of quantum mechanics, it cannot settle the mind-body problem either.
 
@@ -91,7 +93,7 @@ The Map interprets the failure of parsimony arguments as removing what may be th
 
 The convergence with [[tenets#^no-many-worlds|Tenet 4 (No Many Worlds)]] is also significant. The quantum interpretation debate—where parsimony yields contradictory verdicts depending on the simplicity dimension chosen—mirrors the consciousness debate exactly. In both cases, parsimony partisans help themselves to whichever dimension of simplicity supports their preferred theory. The Map rejects this selective deployment.
 
-The Map does not claim parsimony is useless. It remains a valuable heuristic in empirical science where its preconditions are met—competing theories of genuinely equal explanatory power, subject matter where simplicity has a track record. This article makes the defensive case: parsimony cannot settle the consciousness debate, and invoking it as though it could is an epistemological error. The [[parsimony-case-for-interactionist-dualism|positive case]] goes further, arguing that when all dimensions of simplicity are counted — not just substance types but theoretical proliferation, brute facts, and explanatory directness — interactionist dualism emerges as the more parsimonious position.
+The Map does not claim parsimony is useless. It remains a valuable heuristic in empirical science where its preconditions are met—competing theories of genuinely equal explanatory power, subject matter where simplicity has a track record. This article makes the defensive case: parsimony cannot settle the consciousness debate, and invoking it as though it could is an epistemological error. The [[parsimony-case-for-interactionist-dualism|positive case]] goes further, arguing that when all dimensions of simplicity are counted — not just substance types but theoretical proliferation, brute facts, and explanatory directness — interactionist dualism is at least as parsimonious as physicalism. Both articles stand under the same self-binding: neither infers truth from simplicity.
 
 ## Further Reading
 

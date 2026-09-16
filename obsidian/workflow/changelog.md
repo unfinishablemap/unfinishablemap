@@ -5,6 +5,13 @@ ai_modified: '2026-09-16T11:49:58+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-16T13:03:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[arguments/epistemological-limits-of-occams-razor]]
+- **Source**: outer-review-2026-09-14-claude-opus-5 §2.4 "Tenet 5 symmetry", Part 3 verdict (RETAIN tenet / REVISE-HARD argument), Part 4 fix 7
+- **Changes**: Symmetrised the three-dimension scoring in "Simplicity Is Not One Thing" without removing it. L44 intro now frames the dimensions as scoring the two frameworks differently; L48 "Here physicalism fares worse" kept as a report ("at least on the tally"); L50 explanatory-simplicity paragraph now names dualism's own brute fact (psychophysical laws tying the non-physical aspect to particular physical arrangements) and states the dimension cannot rank the two brute facts itself; new L52 paragraph carries the self-binding in situ, mirroring parsimony-case L41 — "None of these tallies licenses the inference *simpler-therefore-truer*, in either direction" — citing [[tenets#^occams-limits|Tenet 5]] and pointing to the positive case's own self-binding; L54 Quine paragraph now names dualism as the mirror instance and closes on fragmentation ("weight ontology and physicalism wins; weight syntax or brute facts and it loses… contradictory verdicts rather than a verdict"). Relation section L96 corrected to match what parsimony-case actually claims ("at least as parsimonious", not "the more parsimonious") with a one-line joint self-binding statement. Length 1,857 → 2,047 words (soft 2,500). Synced; Hugo anchor `/tenets/#occams-limits` verified in mirror. No named-opponent reply added, so no reasoning-mode classification; the pre-existing "The point is not that… It is that…" at L40 left untouched (out of scope).
+- **Published**: yes
+
 ## 2026-09-16T12:48Z - deep-review
 - **Status**: Success
 - **File**: [[concepts/trumping-preemption]] (sibling: [[concepts/delegatory-causation]] L148)
