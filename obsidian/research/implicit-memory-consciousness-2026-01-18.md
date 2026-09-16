@@ -4,7 +4,7 @@ created: 2026-01-18
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
-ai_modified: 2026-05-13T18:51:00+00:00
+ai_modified: 2026-09-16T19:22:20+00:00
 ---
 
 # Research: Implicit Memory and Consciousness
@@ -45,7 +45,7 @@ Implicit memory—encompassing procedural skills, priming, and conditioning—pr
 - **Key points**:
   - Tulving (1985) associated procedural memory with "anoetic" (non-knowing) consciousness
   - Anoetic consciousness is bound to current situation and environment—raw response without reflection
-  - It involves "non-reflective qualia"—phenomenal feel without explicit awareness
+  - It involves non-reflective qualia (Vandekerckhove & Panksepp, 2009)—phenomenal feel without explicit awareness
   - Anoetic consciousness provides "phenomenal feel and sense of ownership" to higher states
   - Hierarchical model: anoetic → noetic → autonoetic
 - **Tenet alignment**: Compatible with dualism — Tulving's anoetic-noetic-autonoetic hierarchy is a memory-systems taxonomy that does not entail dualism. Higher-order theorists, integrated-information theorists, and global-workspace theorists each accommodate phenomenally graded memory systems within physicalist frameworks.
@@ -117,7 +117,7 @@ Implicit memory—encompassing procedural skills, priming, and conditioning—pr
   - Noetic (knowing) → semantic memory
   - Autonoetic (self-knowing) → episodic memory
 - **Key arguments**:
-  - Even procedural memory has phenomenal character ("non-reflective qualia")
+  - Even procedural memory has phenomenal character (non-reflective qualia—Vandekerckhove & Panksepp, 2009)
   - Consciousness is a continuum, not all-or-nothing
   - Lower levels provide "feel" to higher levels
 - **Relation to site tenets**: Supports dualism—even implicit memory has phenomenal dimension. Aligns with tenet that consciousness is not identical to neural activity.
@@ -156,7 +156,7 @@ Implicit memory—encompassing procedural skills, priming, and conditioning—pr
 
 ### Does Implicit Memory Have Phenomenology?
 - **Sides**:
-  - Tulving/Panksepp: Yes—anoetic consciousness involves "non-reflective qualia"
+  - Vandekerckhove & Panksepp (2009): Yes—anoetic consciousness involves non-reflective qualia
   - Computational functionalists: No—implicit memory is purely functional
 - **Core disagreement**: Whether procedural execution involves "something it's like"
 - **Current state**: Ongoing. Tulving's framework gaining acceptance in affective neuroscience; phenomenologists agree body has its own "knowing."

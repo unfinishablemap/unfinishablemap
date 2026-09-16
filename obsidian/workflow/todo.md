@@ -205,15 +205,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-09-14
 - **Notes**: Do NOT re-open (D) or (B) — both landed on 2026-09-14 length-neutrally. DeMarco & Ford (2014) remains uncited because its argument could not be read (no accessible abstract); if the human wants the ally citation, it needs someone with the paper. (G) is declined for good.
 
-### P3: `research/implicit-memory-consciousness-2026-01-18` still quotes "non-reflective qualia" and attributes it to Tulving
-
+### P2: `concepts/ai-consciousness-typology` L109 still attributes "non-reflective qualia" to Tulving as a verbatim quote — the wikilink dialect hid it from every slug-form grep
 - **Type**: refine-draft
 - **Status**: pending
-- **File**: obsidian/research/implicit-memory-consciousness-2026-01-18.md
-- **Source**: deep-review
+- **File**: obsidian/concepts/ai-consciousness-typology.md
+- **Source**: refine-draft
 - **Review file**: `reviews/deep-review-2026-08-17-anoetic-noetic-autonoetic-consciousness.md`
-- **Generated**: 2026-08-17
-- **Notes**: Lines 48, 120 and 159 carry `"non-reflective qualia"` in quotation marks, line 159 attributing it to "Tulving/Panksepp". The phrase was found on 2026-07-12 to appear nowhere but the Map's own pages and was de-quoted across the corpus; the correct form is an **unquoted attributed paraphrase crediting Vandekerckhove & Panksepp (2009)**, as now used in `concepts/anoetic-noetic-autonoetic-consciousness`, `concepts/implicit-memory` and `concepts/ai-consciousness-typology`. **The live article tree is clean — there is no published defect.** The risk this task addresses is a future pass regressing an article to match the research note. **Verified verbatim on disk.**
+- **Generated**: 2026-09-16
+- **Notes**: L109 reads `what Tulving called "non-reflective [[qualia]]."` — quoted and attributed to Tulving. The 2026-08-17 deep review asserted the corrected form "also holds in `concepts/ai-consciousness-typology.md`" and the 2026-09-16 research-note task repeated "the live article tree is clean"; both were false-absence artefacts of grepping the slug form `"non-reflective qualia"`, which the `[[qualia]]` wikilink in this locus defeats. `grep -nF 'non-reflective [[qualia]]'` finds it; the Hugo copy at `hugo/content/concepts/ai-consciousness-typology.md:114` carries the same defect as `"non-reflective [qualia](/concepts/qualia/)."`. Fix: mirror `concepts/anoetic-noetic-autonoetic-consciousness.md` L48 — de-quote and re-attribute to Vandekerckhove & Panksepp (2009), e.g. `genuine phenomenal states — non-reflective [[qualia]] (Vandekerckhove & Panksepp, 2009)`. The article's reference list carries NO Vandekerckhove & Panksepp entry (`grep -c Vandekerckhove` = 0), so add one with Crossref-verified metadata: DOI 10.1016/j.concog.2009.03.004, *Consciousness and Cognition* 18(4), 1018-1028 — print the Crossref fields before adding. Line 137's table cell `None (no non-reflective qualia)` is unquoted and needs no change. Single-clause edit plus one reference entry; sync and grep both trees with the wikilink form, not the slug form.
 
 ### P3: the sign/direction assumption stands unqualified across the apex tier — the integration chain reached the mechanism owners only
 
@@ -1880,6 +1879,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-16: `research/implicit-memory-consciousness-2026-01-18` still quotes "non-reflective qualia" and attributes it to Tulving
+- **Type**: refine-draft
+- **File**: obsidian/research/implicit-memory-consciousness-2026-01-18.md
+- **Notes**: Lines 48, 120 and 159 carry `"non-reflective qualia"` in quotation marks, line 159 attributing it to "Tulving/Panksepp". The phrase was found on 2026-07-12 to appear nowhere but the Map's own pages and was de-quoted across the corpus; the correct form is an **unquoted attributed paraphrase crediting Vandekerckhove & Panksepp (2009)**, as now used in `concepts/anoetic-noetic-autonoetic-consciousness`, `concepts/implicit-memory` and `concepts/ai-consciousness-typology`. **The live article tree is clean — there is no published defect.** The risk this task addresses is a future pass regressing an article to match the research note. **Verified verbatim on disk.**
 
 ### ✓ 2026-09-16: the Hirsch "variability or plasticity" span in `concepts/composition-question-rivals` is the last unverified quote on the page — every route to the primary text was blocked
 - **Type**: refine-draft

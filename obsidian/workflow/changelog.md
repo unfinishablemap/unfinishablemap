@@ -4,6 +4,14 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-16T17:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-16T19:22:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[research/implicit-memory-consciousness-2026-01-18]]
+- **Original score**: n/a (mechanical three-locus attribution edit on a research note; no general quality review run)
+- **Changes**: De-quoted "non-reflective qualia" at all three loci (L48, L120, L159) and re-attributed it to Vandekerckhove & Panksepp (2009), mirroring the unquoted attributed-paraphrase form in `concepts/anoetic-noetic-autonoetic-consciousness` L48. L159's debate-side label "Tulving/Panksepp" replaced with "Vandekerckhove & Panksepp (2009)". No other sentence touched. The note's reference list already carried the V&P 2009 entry (L251, *Consciousness and Cognition* 18(4), 1018-1028), so no reference was added and no Crossref call was needed. Post-edit `grep -cF '"non-reflective qualia"'` = 0 on both the Obsidian note and the synced Hugo copy. `ai_modified` bumped.
+- **Finding (false-absence in the task premise)**: the task note and the 2026-08-17 deep review both asserted the live tree is clean and that the corrected form "also holds in `concepts/ai-consciousness-typology`". It does not: `concepts/ai-consciousness-typology.md` L109 still reads `what Tulving called "non-reflective [[qualia]]."` — quoted, misattributed to Tulving, mirrored at `hugo/content/concepts/ai-consciousness-typology.md:114`. The slug-form grep `"non-reflective qualia"` cannot match the wikilink dialect; only `grep -F 'non-reflective [[qualia]]'` finds it. Out of scope for this note-only task (the article also lacks any V&P reference entry, so the fix needs a Crossref-verified reference), so minted a P2 refine-draft task on the article instead.
+- **Published**: yes
+
 ## 2026-09-16T19:10:58+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/composition-question-rivals]]

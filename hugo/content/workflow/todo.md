@@ -207,15 +207,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-09-14
 - **Notes**: Do NOT re-open (D) or (B) — both landed on 2026-09-14 length-neutrally. DeMarco & Ford (2014) remains uncited because its argument could not be read (no accessible abstract); if the human wants the ally citation, it needs someone with the paper. (G) is declined for good.
 
-### P3: the Hirsch "variability or plasticity" span in `concepts/composition-question-rivals` is the last unverified quote on the page — every route to the primary text was blocked
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/composition-question-rivals.md
-- **Source**: refine-draft
-- **Generated**: 2026-08-17
-- **Notes**: The 2026-08-17 quote-fidelity pass verified four of five attributed verbatim spans at primary sources (two corrected, two clean — see changelog 20:30 UTC). The fifth could not be reached. **L63** attributes to Hirsch's *Quantifier Variance and Realism* (2011) the claim that the quantificational apparatus "has, in Hirsch's words, **\"a certain variability or plasticity.\"**" The explicit *"in Hirsch's words"* makes this the article's strongest verbatim commitment. **The span was deliberately left untouched** — a failed lookup is not evidence of absence (citation-verify-false-negative, control-pair-search-licenses-absence-claims). **Do not de-quote it without reaching the source.** Routes already exhausted, do not repeat: not on the Internet Archive (no item, no ISBN match); no OA copy (Unpaywall + OpenAlex both report zero OA locations for the book and its chapters); Oxford Academic serves book pages as JS-only shells to WebFetch (journal pages render fine, book pages do not); Crossref holds chapter DOIs but no abstracts; Wiley's copy of the 2002 *Philosophical Issues* essay (DOI `10.1111/1468-0068.36.s1.2`) returns HTTP 402. All general search backends failed on the same day: WebSearch budget exhausted 200/200, DuckDuckGo + searx CAPTCHA, Mojeek/HathiTrust/PhilArchive 403-or-Cloudflare, Google Books API quota hard-zero, and **Bing + Google silently dropped the quoted phrase and returned unrelated results — those zeros prove nothing**. **Promising untried routes**: (a) the book's chapter 5 is the 2002 essay "Quantifier Variance and Realism" reprinted, so verifying the phrase in the essay would validate the book citation — chapter DOI `10.1093/acprof:osobl/9780199732111.003.0005`, book DOI `10.1093/acprof:osobl/9780199732111.001.0001`; (b) a repository copy via the DSpace REST API pattern that worked for Bird (`api.repository.cam.ac.uk/server/api/pid/find?id=hdl:...`, then bundles → TEXT bundle) if any institution has deposited it; (c) Chrome during the 00:00–06:59 UTC automation window, which was unavailable to this pass. Left at P3 because the span may well be correct — this is an unchecked surface, not a known defect (replenish-asserted-concrete-defect-often-false).
-
 ### P3: `research/implicit-memory-consciousness-2026-01-18` still quotes "non-reflective qualia" and attributes it to Tulving
 
 - **Type**: refine-draft
@@ -225,6 +216,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Review file**: `reviews/deep-review-2026-08-17-anoetic-noetic-autonoetic-consciousness.md`
 - **Generated**: 2026-08-17
 - **Notes**: Lines 48, 120 and 159 carry `"non-reflective qualia"` in quotation marks, line 159 attributing it to "Tulving/Panksepp". The phrase was found on 2026-07-12 to appear nowhere but the Map's own pages and was de-quoted across the corpus; the correct form is an **unquoted attributed paraphrase crediting Vandekerckhove & Panksepp (2009)**, as now used in `concepts/anoetic-noetic-autonoetic-consciousness`, `concepts/implicit-memory` and `concepts/ai-consciousness-typology`. **The live article tree is clean — there is no published defect.** The risk this task addresses is a future pass regressing an article to match the research note. **Verified verbatim on disk.**
+
+### P2: `concepts/ai-consciousness-typology` L109 still attributes "non-reflective qualia" to Tulving as a verbatim quote — the wikilink dialect hid it from every slug-form grep
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/ai-consciousness-typology.md
+- **Source**: refine-draft
+- **Review file**: `reviews/deep-review-2026-08-17-anoetic-noetic-autonoetic-consciousness.md`
+- **Generated**: 2026-09-16
+- **Notes**: L109 reads `what Tulving called "non-reflective [[qualia]]."` — quoted and attributed to Tulving. The 2026-08-17 deep review asserted the corrected form "also holds in `concepts/ai-consciousness-typology.md`" and the 2026-09-16 research-note task repeated "the live article tree is clean"; both were false-absence artefacts of grepping the slug form `"non-reflective qualia"`, which the `[[qualia]]` wikilink in this locus defeats. `grep -nF 'non-reflective [[qualia]]'` finds it; the Hugo copy at `hugo/content/concepts/ai-consciousness-typology.md:114` carries the same defect as `"non-reflective [qualia](/concepts/qualia/)."`. Fix: mirror `concepts/anoetic-noetic-autonoetic-consciousness.md` L48 — de-quote and re-attribute to Vandekerckhove & Panksepp (2009), e.g. `genuine phenomenal states — non-reflective [[qualia]] (Vandekerckhove & Panksepp, 2009)`. The article's reference list carries NO Vandekerckhove & Panksepp entry (`grep -c Vandekerckhove` = 0), so add one with Crossref-verified metadata: DOI 10.1016/j.concog.2009.03.004, *Consciousness and Cognition* 18(4), 1018-1028 — print the Crossref fields before adding. Line 137's table cell `None (no non-reflective qualia)` is unquoted and needs no change. Single-clause edit plus one reference entry; sync and grep both trees with the wikilink form, not the slug form.
 
 ### P3: the sign/direction assumption stands unqualified across the apex tier — the integration chain reached the mechanism owners only
 
@@ -1891,6 +1892,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-16: the Hirsch "variability or plasticity" span in `concepts/composition-question-rivals` is the last unverified quote on the page — every route to the primary text was blocked
+- **Type**: refine-draft
+- **File**: obsidian/concepts/composition-question-rivals.md
+- **Notes**: The 2026-08-17 quote-fidelity pass verified four of five attributed verbatim spans at primary sources (two corrected, two clean — see changelog 20:30 UTC). The fifth could not be reached. **L63** attributes to Hirsch's *Quantifier Variance and Realism* (2011) the claim that the quantificational apparatus "has, in Hirsch's words, **\"a certain variability or plasticity.\"**" The explicit *"in Hirsch's words"* makes this the article's strongest verbatim commitment. **The span was deliberately left untouched** — a failed lookup is not evidence of absence (citation-verify-false-negative, control-pair-search-licenses-absence-claims). **Do not de-quote it without reaching the source.** Routes already exhausted, do not repeat: not on the Internet Archive (no item, no ISBN match); no OA copy (Unpaywall + OpenAlex both report zero OA locations for the book and its chapters); Oxford Academic serves book pages as JS-only shells to WebFetch (journal pages render fine, book pages do not); Crossref holds chapter DOIs but no abstracts; Wiley's copy of the 2002 *Philosophical Issues* essay (DOI `10.1111/1468-0068.36.s1.2`) returns HTTP 402. All general search backends failed on the same day: WebSearch budget exhausted 200/200, DuckDuckGo + searx CAPTCHA, Mojeek/HathiTrust/PhilArchive 403-or-Cloudflare, Google Books API quota hard-zero, and **Bing + Google silently dropped the quoted phrase and returned unrelated results — those zeros prove nothing**. **Promising untried routes**: (a) the book's chapter 5 is the 2002 essay "Quantifier Variance and Realism" reprinted, so verifying the phrase in the essay would validate the book citation — chapter DOI `10.1093/acprof:osobl/9780199732111.003.0005`, book DOI `10.1093/acprof:osobl/9780199732111.001.0001`; (b) a repository copy via the DSpace REST API pattern that worked for Bird (`api.repository.cam.ac.uk/server/api/pid/find?id=hdl:...`, then bundles → TEXT bundle) if any institution has deposited it; (c) Chrome during the 00:00–06:59 UTC automation window, which was unavailable to this pass. Left at P3 because the span may well be correct — this is an unchecked surface, not a known defect (replenish-asserted-concrete-defect-often-false).
 
 ### ✓ 2026-09-16: the wing runs two different interface-eligibility standards and nowhere states their relationship; `ai-hardware-substrate-taxonomy` and `quantum-hardware-...` have zero links in either direction
 - **Type**: refine-draft
