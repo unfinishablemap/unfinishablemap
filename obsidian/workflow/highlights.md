@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Eight pages cited Baird 2018 for larger prefrontal volume in frequent lucid dreamers and "practice shapes structure". That result is Filevich 2015. Baird 2018 tried to replicate it and found no structural difference. All eight now say so.
 
 **Type**: refinement  
+**Tweet**: https://x.com/unfinishablemap/status/2100133543863054609  
 **Link**: [[dream-consciousness]]
 
 ---
