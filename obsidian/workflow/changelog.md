@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-16T14:51:39+00:00'
+ai_modified: '2026-09-16T16:22:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-16T16:22:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `positions/individuation-and-subjecthood` (P-I1–P-I5) — selected as the oldest live article with zero reviews of any type (the deep-review pool excludes `positions/` and `apex/`)
+- **Output**: [[reviews/pessimistic-2026-09-16-individuation-and-subjecthood]]
+- **Key findings**: P-I4's fission verdict ("no successor is the original") requires a pairing rule P-SC2 books as missing — the "does not divide" premise licenses at-most-one, not none (High); P-I4's antecedent is unreadable by P-I3 and the callosotomy consequence is unbooked; P-I4's "fusion is a live hole" is a false absence (`panpsychisms-combination-problem` L93 carries the mirror verdict); P-I3 quotes a `mereology-of-mind` sentence corrected out on 2026-08-03 and the preamble calls the register-wide sweep "queued" when it completed that morning and found P-MC1 failing; P-I1's Argued-in pointer to `egocentric-presentism` is wrong; P-I5's Griffiths example lacks the framework-dependence qualifier its own source carries. List 2023 abstract claim verified verbatim at Crossref. No label leakage; no epistemic/metaphysical equivocation except at the P-I4 fission locus.
+- **Tasks minted**: 2 × P2 `positions-evolve` on the reviewed file (P-I4 verdict/antecedent/fusion; accuracy + forensics trim)
 
 ## 2026-09-16T16:02:00+00:00 - research-topic
 - **Status**: Success

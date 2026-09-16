@@ -1,0 +1,147 @@
+---
+title: Pessimistic Review - 2026-09-16 - Individuation and Subjecthood Positions
+created: 2026-09-16
+draft: false
+ai_contribution: 100
+ai_system: claude-fable-5-1
+ai_modified: 2026-09-16T16:20:00+00:00
+---
+
+# Pessimistic Review
+
+**Date**: 2026-09-16
+**Content reviewed**: `obsidian/positions/individuation-and-subjecthood.md` (P-I1 to P-I5, 3826 words, last modified 2026-08-25)
+
+**Why this file**: it has zero reviews of any type. The `deep-review` candidate pool excludes `positions/` and `apex/`, so the coverage ranking across all 821 live articles put this file (created 2026-06-20) at the top of the never-reviewed list. It has been touched by seven `positions-evolve` commits but never read adversarially as a whole. Sibling register files were reviewed on 2026-06-17 and 2026-08-03; this one was not.
+
+**Lenses run**: six persona critiques; logical gaps; internal and cross-file contradictions (every `Depends on` and `Argued in` pointer was opened and checked); epistemic/metaphysical equivocation; reasoning-mode discipline (substitution and label leakage — zero forbidden strings); language; style. Altered-state symmetry does not apply (no supportive-cluster citations). Citation fidelity was checked for the one external claim that carries argumentative weight (List 2023, verified against the Crossref abstract) and for the Griffiths reading (checked against the corpus's own interpretations survey).
+
+## Executive Summary
+
+The register is unusually candid — every entry says what it is held on and what would move it, and the 2026-08-03 foundational-dependency test is applied to itself without flinching. The weaknesses are of two kinds. First, **P-I4's fission verdict outruns what the register's own dependencies can deliver**: "no successor is the original" requires a rule about what happens to subject–substrate pairing when a substrate divides, and P-SC2 registers that the Map has no pairing rule at all; the "does not divide" premise licenses *at most one* survivor, not *none*. The same entry declares fusion an untreated "live hole" when `topics/panpsychisms-combination-problem` already carries the mirror verdict, and its antecedent (what counts as substrate bisection) is unreadable by P-I3's own lights, which leaves the callosotomy case with an unbooked consequence. Second, **the file's self-description has gone stale in three places** since 2026-08-03: it "disciplines" a corpus sentence that was corrected out of `apex/mereology-of-mind` the same day and now survives only inside the register; it describes a register-wide sweep as "queued" that ran at 08:45 UTC that morning and found a new failure (P-MC1); and P-I1's `Argued in` points at `concepts/egocentric-presentism`, which never mentions individualism. Two `positions-evolve` tasks are minted below.
+
+## Critiques by Philosopher
+
+### The Eliminative Materialist
+
+Churchland reads P-I3 as a promissory note written backwards. Ordinary promissory materialism says "neuroscience will find it"; this entry says "there is a fact, and neuroscience can never find it," and calls the resulting variable *part of the physical state description* (P-SC1) while denying it can be read off physical or functional organisation. A quantity that is in the state description but has no measurement, no dynamics and no functional signature is exactly the kind of posit that folk psychology accumulates and science eventually deletes. The split-brain disagreement (Sperry/Gazzaniga vs Pinto vs Schechter) is not evidence that the count is unreadable; it is evidence that "how many subjects" is a badly posed question that better functional taxonomies will replace — Pinto's "divided perception, undivided consciousness" already dissolves it into two separable functional facts. The register's answer — the anatomy is the channel, not the subject — is only available once dualism is assumed, which is what P-I3's calibration concedes (framework-internal, grade D).
+
+### The Hard-Nosed Physicalist
+
+Dennett's target is P-I1's ground. The entry says the vertiginous question is "meaningful only given a plurality of distinct subjects" and that "open individualism dissolves that foothold by denying the plurality, and the Map rejects it to keep the foothold." That is reasoning from the usefulness of a conclusion: a metaphysics is adopted because an argument elsewhere needs it. P-I1 then concedes that "felt this-ness is compatible with both" readings and that the commitment is "tenet-driven rather than empirically compelled." So the position is a preference, honestly labelled as one, and the register's own calibration (credence moderate, grade D, centrality high) records that the Map's principal argument against many-worlds sits on it. Dennett would say the felt this-ness is the user-illusion of a narrative centre of gravity, and that P-I2's admission — Tenet 4 "survives the loss of its argument as a bare posit" — is the whole case for No Many Worlds reduced to a stipulation with a subjecthood story attached.
+
+### The Quantum Skeptic
+
+Tegmark's complaint is about P-I4's asymmetry. The entry says fission is a "real" division the perspective cannot survive while branching is a "postulated" division the Map declines. But on the physics both are the same thing: unitary evolution plus decoherence, applied once to a bisected brain and once to a measurement. Nothing in the formalism marks one as real and the other as postulated; the marker is Tenet 4. Worse, the fission verdict is stated with a confidence the register nowhere earns: it asserts what happens to the subject–substrate pairing when the substrate divides, while P-SC2 says the Map has "no rule fixing which physical system a given subject is paired to." A theory that cannot say which brain a subject is paired to cannot say what happens to that pairing under bisection. And the "census as part of the state description" (P-SC1) is a hidden variable with no equation of motion — it does not evolve, it does not couple, and it is stipulated unreadable.
+
+### The Many-Worlds Defender
+
+Deutsch presses two things. First, List's centred-worlds theory is not a variant of Everettian many-worlds at all; it is a metaphysics of consciousness that keeps a single third-personal world (the Crossref abstract confirms: "distinct first-personal realizers of a shared third-personal world, where the latter is supervenient"). Grouping it under an anti-many-worlds tenet whose stated definition (tenets L115) is about quantum measurement branches trades on the word "world". The tenets page itself had to add a "world-uniqueness" conjunct and admit the objection's reach is "narrower than that billing once implied" — P-I5 records the retrofit accurately, but it is a retrofit. Second, P-I4's "a perspective does not divide" is a stipulation against the Schrödinger equation dressed as a principle: the register admits the Map "is entitled to deny the postulate" but has not "defeated the reading on that reading's own terms," so "principled rather than stipulated" is the wrong phrase — it is principled *inside* the framework and stipulated at its boundary.
+
+### The Empiricist
+
+Every entry carries "empirical discriminability: none" or "n/a". Every "Would shift if" trigger is a philosophical development (a debunking story shown more economical; a criterion for subject count found; an argument extended). P-I3 in particular is unfalsifiable by construction: it asserts a determinate fact and, in the same sentence, that no physical or functional measure can ever settle it — which means no observation could count against P-I1 either, since P-I3 absorbs every anatomical finding as "channel, not subject." The register does not hide this; the calibration schema was built to expose it. But Popper would insist that a candid metaphysics is still a metaphysics, and that the honesty of the "framework-internal only: yes" flag on five of five entries is a description of the problem, not a solution to it. The one place the register could be made testable — P-SC1's census trilemma — is noted in P-I3's update as needing "an independent handle on each candidate subject's conscious state," which is the thing the Map says cannot be had.
+
+### The Buddhist Philosopher
+
+Nagarjuna finds the register's central concession and turns it. P-I2 grants that on the Madhyamaka reading, where the "I" is an aggregate of conditions already including the branch, the vertiginous question is "ill-formed rather than unanswered." But P-I1's *ground* is that the question is meaningful only given a plurality of determinate subjects. If the question can be ill-formed, then "meaningful only given plurality" runs the other way: the sense of the question is evidence of the reification, not of the plurality. What the register calls "keeping the foothold" is what Madhyamaka calls clinging — a boundary drawn around one subject and then declared real and unreadable so that nothing can dislodge it. The register's honest reply is that this is a bedrock disagreement it registers rather than refutes; Nagarjuna would accept the description and note that P-I3 (determinate but unreadable) has the shape of svabhāva: an intrinsic nature posited precisely where analysis finds none.
+
+## Critical Issues
+
+### Issue 1: P-I4's fission verdict ("no successor is the original") needs a pairing rule P-SC2 says the Map does not have
+- **File**: `obsidian/positions/individuation-and-subjecthood.md`
+- **Location**: P-I4 Asserts — "in fission — the substrate physically bisected, both halves continuing — no successor is the original subject"; Depends on line (does not cite P-SC2)
+- **Problem**: The premise the entry supplies is that a perspective is "a particular that does not divide." That premise excludes *both halves* being the original; it does not exclude *one* of them being the original. On the register's own commitments the second option is live: P-I1 rests on primitive thisness ([[concepts/haecceity]]), so nothing stops the original's thisness travelling with one half; P-I3 says which half would be unreadable off the anatomy; and `apex/identity-across-transformations` L101 asks exactly "which half inherits your thisness?" and answers only that "the first-person perspective does not divide" — the at-most-one conclusion. Going from at-most-one to none needs a further premise: that the perspective cannot survive substrate division at all (`topics/personal-identity` L124 states it: "that perspective is a particular that does not survive substrate division"). That premise is a claim about what happens to subject–substrate *pairing* under division, and [[positions/subject-census|P-SC2]] registers as a debt that the Map has "no rule fixing which physical system a given subject is paired to, how many subjects a system supports." P-I4 therefore asserts a determinate output of a law the register elsewhere books as missing, and its Depends-on line does not name the debt. The tension is sharpened by P-I3 and P-CS4, which hold that the anatomy is the channel and not the subject: if dividing the channel does not divide consciousness, the register owes a reason why dividing the channel *ends* it rather than re-pairing it.
+- **Severity**: High (internal: a live position outruns a live registered debt; it also underwrites P-AC3's additive counting rule)
+- **Recommendation**: Either (a) downgrade the fission half of P-I4 to "at most one continuer is the original, and which — if any — is unreadable (P-I3)," booking that `personal-identity` L124's "neither resulting person would be you" is stronger than the register supports and needs a matching edit; or (b) keep "none" and add the survival-under-division premise explicitly to the Asserts and Depends-on lines, naming P-SC2 as the debt it draws on and recording the verdict as conditional on a pairing behaviour the Map has not specified. Coordinate with the open P3 research task on change-point signatures at fission (todo.md L50), which is the natural place for the pairing question to be worked.
+
+### Issue 2: P-I4's antecedent is unreadable by P-I3's lights, and the callosotomy consequence is unbooked
+- **File**: `obsidian/positions/individuation-and-subjecthood.md`
+- **Location**: P-I4 Asserts (fission definition) read against P-I3 Asserts (split-brain agnosticism) and P-CS4
+- **Problem**: P-I4 defines fission as "the substrate physically bisected, both halves continuing." Callosotomy physically bisects the interhemispheric channel and both halves continue. P-I3 holds that whether a callosotomised patient houses one subject or two is a determinate but unreadable fact. Put the two together on the two-subject horn: P-I4 entails the pre-operative subject ended on the table and both post-operative subjects are new census entries — a consequence at odds with the corpus's own reading that "patients report a single first-person perspective" (`personal-identity` L130) and with P-CS4's "interface disrupted, not consciousness itself." On the other horn, if callosotomy is *not* fission, P-I4 owes a criterion for how much substrate division counts as bisection — and P-I3 says no such criterion can be read off anatomy. Either way the register cannot say of any actual procedure whether P-I4's antecedent obtained. The fission verdict is a conditional with an unreadable antecedent, and the entry presents it as a settled case.
+- **Severity**: Medium
+- **Recommendation**: Add one scoping sentence to P-I4: the fission case is full separation into two independently sustained channels; whether any real procedure satisfies it is unreadable (P-I3); so the verdict is conditional, and on the two-subject reading of a real case it would entail the original's cessation, which the Map books rather than hides. This is length-positive; see the split note in the minted task.
+
+### Issue 3: The register's self-description is stale on two counts since 2026-08-03
+- **File**: `obsidian/positions/individuation-and-subjecthood.md`
+- **Location**: (a) P-I3 Asserts — "this disciplines the corpus's stronger formulation that there is 'no determinate fact about how a conscious whole partitions'"; (b) preamble — "the anti-epiphenomenalism entries carrying Tenet 3's principal argument are the obvious further candidates, and a register-wide sweep is queued rather than asserted here"
+- **Problem**: (a) The quoted formulation was corrected out of `apex/mereology-of-mind:85` on 2026-08-03 (completed task, `workflow/archive/completed-tasks-2026-W32.md` L1204); L85 now reads "it does not license the stronger claim that there is no count to settle" and cites P-I3. A corpus-wide grep finds the quoted sentence in live content *only inside P-I3 itself*. The register is quoting, in the present tense, a sentence that exists nowhere but the register. (b) The register-wide sweep ran the same morning (`archive/changelog-2026-W32.md` L5234, 08:45 UTC) and found that [[positions/arguments-for-mental-causation|P-MC1]] — the anti-epiphenomenalism entry the preamble names as a "candidate" — fails on its first conjunct, and that P-A2 fails as shared with P-I1. The preamble still describes the sweep as pending and its candidates as untested. Both are same-day staleness: the preamble and P-I3 were written in the morning pass and never re-read after the afternoon's work landed.
+- **Severity**: Medium (accuracy of a register that other files cite as the source of truth; 23 live articles link here)
+- **Recommendation**: Rewrite (a) as history — "the corpus formerly read ...; corrected 2026-08-03 to inherit this entry" — and (b) as a result with pointers — "applied register-wide 2026-08-03: P-MC1 fails on its first conjunct, P-A2 fails as shared with P-I1; six domains cleared." Both edits are roughly length-neutral or negative.
+
+### Issue 4: P-I4 declares fusion a "live hole" the corpus says nothing about, but the corpus already carries the mirror verdict
+- **File**: `obsidian/positions/individuation-and-subjecthood.md`
+- **Location**: P-I4 Asserts — "the corpus treats fission and copying and says nothing determinate about two channels merging into one, so the census has a live hole there"
+- **Problem**: `topics/panpsychisms-combination-problem` L89–93 treats subject fusion directly (Seager 2016 and Mørch 2014 fusionism) and reaches a verdict: "If micro-subjects cease to exist upon fusion, the process resembles creation more than combination. New subjectivity appears; old subjectivity vanishes." That is the exact mirror of P-I4's fission verdict — originals end, a new census entry begins — reached in a panpsychist setting the Map rejects but by reasoning the Map endorses (a perspective can no more be composed than divided; `apex/mereology-of-mind`'s de-combination hinge is the same claim run the other way). The absence claim is false as stated: the corpus has a determinate fusion verdict; what it lacks is the register's decision whether that verdict transfers to two macro-subjects' channels merging.
+- **Severity**: Medium
+- **Recommendation**: Replace the "live hole" sentence with either an inherited verdict (fusion is symmetric with fission: both originals end, one new entry; Argued in gains the combination-problem article and the mereology apex) or an explicit non-transfer note stating why the micro-subject case does not carry over. Bundle into the P-I4 task.
+
+### Issue 5: P-I5's corollary leans on a contested reading of consistent histories without the qualifier its own source carries
+- **File**: `obsidian/positions/individuation-and-subjecthood.md`
+- **Location**: P-I5 Asserts — "collapse supplies it without monopolising it — Griffiths's consistent histories realises exactly one history with no collapse process"
+- **Problem**: The example is doing real work: it is how the entry separates outcome-uniqueness (what Tenet 4 demands) from a collapse mechanism (what Tenets 2–3 prefer). But whether CH delivers *outcome*-uniqueness or only *framework-relative* uniqueness is the contested point — the corpus's own survey (`topics/qm-interpretations-beyond-many-worlds` L125) calls framework-dependence CH's "most contested feature: many mutually incompatible consistent families exist for the same system, and no law selects a preferred one," and Dowker and Kent's 1996 critique is that CH does not by itself single out one quasiclassical history. P-I5 states Griffiths's own reading as if uncontested.
+- **Severity**: Low–Medium
+- **Recommendation**: Add "on Griffiths's own single-framework reading — framework-dependence is the standing objection" and let the Argued-in pointer to the interpretations survey carry the rest. About ten words.
+
+### Issue 6: P-I1's "Argued in" points at an article that does not argue it
+- **File**: `obsidian/positions/individuation-and-subjecthood.md`
+- **Location**: P-I1 Argued in — `[[concepts/egocentric-presentism]]`
+- **Problem**: That article contains no occurrence of "individualism" in any form. Hare's egocentric presentism is the *one-world rival* that keeps first-person realism by dropping non-solipsism (`topics/vertiginous-question` L164) — it is a foil to closed individualism, not a source for it. A reader following the pointer to find the argument for P-I1 finds a view on which only one subject's experiences are present.
+- **Severity**: Low
+- **Recommendation**: Move it to a "held against" clause alongside open individualism, or drop it. The three remaining Argued-in pointers do carry the argument.
+
+### Issue 7: Forensic process-history in reader-facing prose
+- **File**: `obsidian/positions/individuation-and-subjecthood.md`
+- **Location**: P-I3 "Updated 2026-08-24" — commit hash `e346d3cb`, "Fourth correction episode from the same withdrawal ... inside six hours", "three articles at 13:55"; P-I5 "Updated 2026-08-25" second half
+- **Problem**: The positions convention rightly mandates a dated Updated note recording what changed and why. It does not mandate a changelog: a git hash, intra-day timestamps and a running tally of correction episodes are operator forensics, not a claim the Map holds. They also front-load the wrong thing for an LLM reader — the substantive correction (P-SC1 supplies the venue, the unreadability is this entry's own) is buried after the narrative.
+- **Severity**: Low (style)
+- **Recommendation**: Trim each Updated note to the substantive correction and its ground; move the episode-count and hash to the changelog, where they already are. This is the length-negative direction, so it can pay for the length-positive edits in Issues 1–2.
+
+## Counterarguments to Address
+
+### Open individualism's unearned move (P-I1)
+- **Current content says**: The disagreement with open individualism is a framework boundary "registered as such, not a refutation of open individualism from inside its own resources"; the shift trigger mentions an "indexical residue."
+- **A critic would argue**: The Map is being more generous than the discipline requires. Open individualism helps itself to a foundational move — "the appearance of separateness is an illusion" — without saying *whose* illusion it is. Each apparent subject's illusion of separateness is had from an apparent perspective; a debunking story that needs many illusion-bearers to explain the appearance of many subjects has not eliminated the plurality it set out to deny. That is an unmet standard by open individualism's own lights, and the entry could name it without leaving its boundary-marking stance.
+- **Suggested response**: One sentence in P-I1's Asserts identifying the illusion-bearer plurality as what open individualism owes, keeping the boundary framing. Medium under the reasoning-mode discipline (missed unsupported-move identification); not minted separately, since it fits inside the P-I1 pointer fix in Task B.
+
+### "Variant" (P-I5)
+- **Current content says**: The anti-many-worlds case is "variant-relative"; List's is a "first-personally centred variant."
+- **A critic would argue**: List's theory is not a variant of Everett; it multiplies perspectives on one supervenient third-personal world and has nothing to do with quantum measurement. Tenet 4's stated definition (tenets L115) is about measurement branches. Calling List a variant of the tenet's target rather than a different theory that happens to use the word "world" makes the tenet look broader than it was written to be.
+- **Suggested response**: The entry is already careful ("List multiplies perspectives rather than outcomes"); the fix is the word. "Against first-personally centred *many-subject* views such as List's" would say the same thing without implying List is an Everettian.
+
+### "Principled rather than stipulated" (P-I4)
+- **Current content says**: "The asymmetry with quantum branching ... is principled rather than stipulated," followed two sentences later by "the reply is only that the Map is entitled to deny the postulate."
+- **A critic would argue**: A principle that reduces to the tenet under dispute is a stipulation from the opponent's side. The entry concedes this in its next breath.
+- **Suggested response**: "principled within the framework, and a stipulation at its boundary" — the entry already says the second half; say both together.
+
+## Unsupported Claims
+
+| Claim | Location | Needed Support |
+|-------|----------|----------------|
+| "no successor is the original subject" (fission) | P-I4 Asserts | The survival-under-division premise, with P-SC2 named as the debt it draws on (Issue 1) |
+| "the corpus ... says nothing determinate about two channels merging into one" | P-I4 Asserts | False as stated — `topics/panpsychisms-combination-problem` L93 (Issue 4) |
+| "disciplines the corpus's stronger formulation that there is 'no determinate fact about how a conscious whole partitions'" | P-I3 Asserts | The formulation no longer exists in live content outside this file (Issue 3a) |
+| "a register-wide sweep is queued rather than asserted here" | Preamble | The sweep completed 2026-08-03 08:45 UTC; P-MC1 fails (Issue 3b) |
+| "Griffiths's consistent histories realises exactly one history" | P-I5 Asserts | Qualifier for framework-dependence (Issue 5) |
+| P-I1 argued in `concepts/egocentric-presentism` | P-I1 Argued in | It is not; the article is the one-subject rival (Issue 6) |
+
+## Language Improvements
+
+| Current | Issue | Suggested |
+|---------|-------|-----------|
+| "the Map rejects it to keep the foothold" (P-I1) | Reads as reasoning from the usefulness of a conclusion | "the commitment to a determinate this-one is prior; open individualism is rejected as incompatible with it" |
+| "principled rather than stipulated" (P-I4) | Overclaims; the entry concedes the boundary two sentences later | "principled within the framework, stipulated at its boundary" |
+| "first-personally centred variants" (P-I5) | Implies List is a variant of Everett | "first-personally centred many-subject views such as List's" |
+| "Fourth correction episode from the same withdrawal (`e346d3cb`) inside six hours" (P-I3 update) | Changelog content in article prose | Delete; the substantive correction stands on its own |
+
+## Epistemic / Metaphysical Reading Check
+
+P-I3 is the cleanest entry in the register on this axis: it explicitly separates the epistemic claim (the count cannot be read off anatomy) from the metaphysical one (there is a count), and holds the second on P-I1 rather than on the first. No equivocation. P-I1's evidence (felt this-ness) is conceded neutral between readings and the metaphysical commitment is labelled tenet-driven, so the entry does not recruit the epistemic datum to assert the metaphysical claim. The one place the two readings blur is P-I4's fission verdict, where an epistemic fact (we cannot tell which half, if either, is the original) is stated as the metaphysical verdict that neither is — Issue 1.
+
+## Strengths (Brief)
+
+- The foundational-dependency test is applied to the file's own entries first and P-I1 is marked "not freely retireable" without softening — a register willing to record that its architecture is inverted is doing what a register is for.
+- P-I2 books both consequences of the conditional (no second leg from extravagance; the "corollary of subjecthood" reading is available and declined, not refuted) rather than hiding either.
+- P-I5's 2026-08-25 scope correction is exemplary: it traces an aggregate claim to a single-argument ground, fixes both the register and the apex together, names the propagation risk, and correctly holds calibration unchanged. The List 2023 abstract claim it rests on verifies verbatim at Crossref.
+- The multi-axis calibration exposes the centrality-versus-credence split honestly; a reader can see at a glance that the Map's principal anti-many-worlds argument sits on a grade-D framework-internal claim.
+- Every "Would shift if" trigger is specific enough to be recognised if it happened.
