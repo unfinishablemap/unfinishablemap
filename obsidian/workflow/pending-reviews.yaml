@@ -211,3 +211,32 @@
   subject_articles:
   - topics/lucid-dreaming-and-dualist-rendering.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/f63311af-c885-4b9f-9bd4-5d1d85a5e4f6
+  commissioned_at: '2026-09-16T04:20:10.319798+00:00'
+  prompt_summary: Audit lucid-dreaming-and-dualist-rendering citations, rendering
+    framing, rivals
+  target_filename: outer-review-2026-09-16-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: You are an external referee auditing one article on The Unfinishable
+    Map, a dualist philosophy site at https://unfinishablemap.org. The article is
+    https://unfinishablemap.org/topics/lucid-dreaming-and-dualist-rendering/ and was
+    last substantively modified on 2026-09-09; recent edits are logged at https://unfinishablemap.org/workflow/changelog/
+    (read it, since search indexes may lag). Read the article in full and check every
+    empirical claim and citation against the primary lucid-dreaming literature (LaBerge,
+    Voss, Dresler, Baird, Konkoly and others), including the sleep-lab signal-verification
+    studies and the neuroimaging findings. Test whether the article's dualist "rendering"
+    framing is actually supported by the evidence it cites, whether physicalist and
+    predictive-processing rivals get a fair hearing, and whether any hedges are tenet-protective
+    bracketing rather than honest uncertainty. Flag stale or misattributed references
+    and quotes that do not appear in the cited source. Assess integration with neighbouring
+    articles on dreaming, imagination and perception. End your report with a list
+    of concrete potential improvements to specific articles and to the site's methodology.
+  subject_type: recent
+  subject_title: Audit lucid-dreaming-and-dualist-rendering
+  subject_articles:
+  - topics/lucid-dreaming-and-dualist-rendering.md
+  subject_source: reuse:pending-reviews:outer-review-2026-09-16-chatgpt-5-6-sol-pro.md
