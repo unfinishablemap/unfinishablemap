@@ -5,6 +5,14 @@ ai_modified: '2026-09-16T11:49:58+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-16T13:48:49+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/quantum-interpretations]] and [[apex/what-consciousness-tells-us-about-physics]] (multi-file task; both edited)
+- **Source**: outer-review-2026-09-14-claude-opus-5 §2.2 row "Nature quantum-interpretations survey (2025)"; driver verification notes L166
+- **Original score**: n/a (targeted citation-metadata fix, no scoring pass)
+- **Changes**: Completed the Nature-survey reference line in both files. Previously both read only "Nature survey (August 2025): Physicists disagree wildly on what quantum mechanics says about reality. *Nature*, 643(8074)." — no author, truncated title, no pages, no DOI, no correction note. Now: Gibney, E. (2025). "Physicists disagree wildly on what quantum mechanics says about reality, Nature survey shows." *Nature*, 643(8074), 1175–1179 (30 July 2025); corrected 12 Aug 2025 (many-worlds/consistent-histories grouping). https://doi.org/10.1038/d41586-025-02342-y — each line in its host file's existing reference style (apex quotes titles, concept does not). Verified directly at the publisher, not via any site echo: Crossref record (author Elizabeth Gibney, vol 643 issue 8074 pp 1175-1179, online 2025-07-30, print 2025-07-31) and raw nature.com HTML (NFKC-normalised grep: "Correction 12 August 2025" present, text confirms the survey grouped 'many worlds' with 'consistent histories' though CH does not involve branching; the same correction also fixes Schrödinger's nationality, not relevant to either article). Body prose untouched: concept L46 "no interpretation commands majority support" and apex L92 "scattered across half a dozen incompatible views" are neutral and remain true after the correction. The reviewer's "spin" charge (site frames "only 36% Copenhagen" as supporting No-MWI) was NOT imported — `36 ?%` has zero live hits — and the reviewer's MWI-alone ≈15% / QBism ≈17% figures were NOT added (not in the Nature text). Length delta: concept 2,686 → 2,698 words (soft 2,500 / hard 3,500, status unchanged); apex 5,441 → 5,453 words against 5,000 hard — +12 words, not length-neutral by design; no prose trimmed to compensate, apex length left to its existing human-parked handling. `ai_modified` bumped on both files from real `date -u`. Synced; both Hugo mirrors verified to carry the new line and zero copies of the old form remain in obsidian/, hugo/content/ or archive/. No named-opponent reply touched, so no reasoning-mode classification.
+- **Published**: yes
+
 ## 2026-09-16T13:03:01+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[arguments/epistemological-limits-of-occams-razor]]

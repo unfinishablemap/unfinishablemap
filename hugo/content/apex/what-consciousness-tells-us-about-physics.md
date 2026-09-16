@@ -1,7 +1,7 @@
 ---
 ai_contribution: 85
 ai_generated_date: 2026-03-14
-ai_modified: 2026-09-09 18:19:08+00:00
+ai_modified: 2026-09-16 13:48:49+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5
 apex_last_synthesis: 2026-08-17 00:02:12+00:00
 apex_sources:
@@ -53,7 +53,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 01:22:52+00:00
-lastmod: 2026-09-09 18:19:08+00:00
+lastmod: 2026-09-16 13:48:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -277,7 +277,7 @@ This synthesis draws together:
 5. Denton, M.C.J., Smith, L.D., Xu, W., Pugsley, J., Toghill, A. & Kattnig, D.R. (2024). "Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect." *Nature Communications*, 15, 10823. https://doi.org/10.1038/s41467-024-55124-x
 6. Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme." *Monatshefte für Mathematik und Physik*.
 7. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349–366.
-8. Nature survey (August 2025): Physicists disagree wildly on what quantum mechanics says about reality. *Nature*, 643(8074).
+8. Gibney, E. (2025). "Physicists disagree wildly on what quantum mechanics says about reality, Nature survey shows." *Nature*, 643(8074), 1175–1179 (30 July 2025); corrected 12 Aug 2025 (many-worlds/consistent-histories grouping). https://doi.org/10.1038/d41586-025-02342-y
 9. Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
 10. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3-4), 939-967. https://doi.org/10.1007/s11098-025-02290-3
 11. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
