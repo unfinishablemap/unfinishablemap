@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-16T06:35:32+00:00'
+ai_modified: '2026-09-16T06:49:37+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-16T06:49:37+00:00 - refine-draft
+- **Status**: Success
+- **File**: `.claude/skills/deep-review/SKILL.md` (skill file only — no article edits, no article `ai_modified`, no sync)
+- **Source**: convergent outer reviews 2026-09-16 (Claude Opus 5 Part 5 items 2/4; ChatGPT 5.6 Pro §5), synthesis cluster 6, P1
+- **Changes**: §2.4 procedure gains three legs after step 6, 180 words total (budget ≤190): (7) result-direction / null-result — one ledger line per empirical cite answering "does this paper report this result, in this direction, or a null?", numbers/comparatives their own target, `real-correct` certifies metadata only (Baird 2018 as the worked example); (8) cited-author-stance — one clause on each supporting author's own metaphysical commitment, modelled on `topics/predictive-processing-and-dualism` L48 and `concepts/delegatory-causation` L140; (9) stability-note scope — a note may exempt a framework commitment, never an empirical-support claim attached to it. Preamble gains one sentence (L131): a quotation certified by a prior review without a raw-source grep is uncertified (Metzinger 2009 / Revonsuo 2000 cited as the precedent). No restructuring; ledger format and other steps untouched.
+- **Not done**: the lucid-dreaming article itself (Baird 2018 direction, Hobson 2014 direction, the two uncertified quotes) is not edited here — those are separate article-scoped tasks.
+- **Published**: n/a (skill file)
+
 ## 2026-09-16T06:35:32+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/kripke-a-posteriori-necessity-argument]]

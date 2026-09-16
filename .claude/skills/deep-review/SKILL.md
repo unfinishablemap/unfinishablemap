@@ -128,6 +128,8 @@ The 2026-05-03 outer review by ChatGPT 5 Pro identified this distinction as the 
 
 **Skip only when** the article is pure conceptual analysis with zero bibliographic citations.
 
+A quotation certified by a prior review without a grep of the raw source is uncertified — re-verify it (Metzinger 2009 and Revonsuo 2000 quotes were certified "canonical" on 2026-07-26 and are absent from the cited works).
+
 #### Procedure
 
 For every inline cite `Author et al. YYYY` and every References entry:
@@ -165,6 +167,12 @@ For every inline cite `Author et al. YYYY` and every References entry:
 5. **Cross-reference inline ↔ References** — every inline `Author YYYY` must have a References entry; every References entry must be cited inline (or removed). Orphans in either direction are critical issues.
 
 6. **Family resolution** — when the same paper is cited with inconsistent metadata across the corpus (the article you're reviewing plus its `related_articles`), do not silently mint a new variant. Web-verify once at the publisher of record, then grep the corpus and propagate the canonical form across every file — record this as a sub-finding in the review archive.
+
+7. **Result-direction / null-result leg** — for every empirically cited paper, answer in one ledger line: "does this paper report this result, in this direction, or a null?" Numbers and comparatives inside a cited claim are their own verification target (cf. changelog 2026-09-04 `authorship-of-action-divergence` inverted comparison). A `real-correct` ledger line certifies metadata only and does NOT discharge this leg — Baird 2018 passed three reviews with correct metadata while its abstract reports "no significant differences in brain structure", the reverse of the article's claim.
+
+8. **Cited-author-stance leg** — for every author cited in support of a Map reading, record the author's own metaphysical commitment in one clause and confirm the article does not present them as endorsing the Map's conclusion. Model the wording on `topics/predictive-processing-and-dualism` L48 (proponents named as "explicitly anti-dualist") and `concepts/delegatory-causation` L140 (the Map's reading marked as Map-specific).
+
+9. **Stability-note scope leg** — a stability note may exempt a *framework commitment* (the Map adopts dualism) from re-flagging, never an *empirical-support claim* attached to it (a named experiment or author favours the commitment). The latter stays reviewable every pass.
 
 #### What to record
 
