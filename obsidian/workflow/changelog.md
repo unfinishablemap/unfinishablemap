@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-16T05:42:45+00:00'
+ai_modified: '2026-09-16T05:58:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-16T05:58:48+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (Pro thinking) — referee audit of `topics/lucid-dreaming-and-dualist-rendering`, third same-date reviewer after Claude Opus 5 and Gemini 2.5 Pro
+- **File**: [[reviews/outer-review-2026-09-16-chatgpt-5-6-sol-pro]]
+- **Collection**: page-side Blob download, SHA-256 `22588e65…` matched page↔disk (53,318 bytes); body byte-identical after `collect_review.py`; render complete (closes on methodology item 12)
+- **Claims verified**: 12 at abstract or full text (Baird 2022 *Sleep* zsab294, Koroma 2020, Konkoly 2021, Simor 2022, Demirel 2025, Voss 2009, Dresler 2012, Bilzer & Monzel 2025, Ffytche 1998, Yazmajian 1982; Baird 2018 and Hobson 2014 via the sibling's full-text greps; the "do not re-flag as critical" exemption wording verbatim in two deep reviews); 3 unverified; 6 disputed or lower-value — three quoted "article strings" do not exist, MQI/MWI removal and retitle duplicate sibling routing
+- **High-value findings**: 9 — Baird 2018 error propagated to 7 loci (3 live, 2 research, 2 archive; wider than the reviewer said); sensory channel gated not closed; Baird 2022 contradicts the "doing less" / "reduced neural resources" premise; colour-blind palette claim uncited; Bilzer scope (imagery vs perception); Hobson argumentative direction at L136; Simor 2022 absent corpus-wide; filter-theory L198 common-cause list omits dreams; framework-boundary exemption verified verbatim
+- **Tasks generated**: 3 new (P1: 1 — Baird sweep across seven loci; P2: 2 — `concepts/predictive-processing` Simor/Demirel/reciprocal link; `concepts/filter-theory` L198 + `concepts/mind-brain-separation` L90) and 2 extensions (open P1 on the target gains legs (j)–(o) with revised budget ≤ +480; open P2 deep-review lens task gains a third leg narrowing stability-note exemptions to framework commitments)
+- **Convergence**: Konkoly overreach and degradation-asymmetry/CBS gap — all three reviewers; Baird 2018 — Claude + ChatGPT; strongest PP rival missing — all three, each naming a different paper
 
 ## 2026-09-16T05:42:45+00:00 - outer-review
 - **Status**: Success

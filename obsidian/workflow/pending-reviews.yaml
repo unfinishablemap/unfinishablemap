@@ -188,9 +188,9 @@
   commissioned_at: '2026-09-16T04:07:24.614372+00:00'
   prompt_summary: Audit topics/lucid-dreaming-and-dualist-rendering (recent-aged)
   target_filename: outer-review-2026-09-16-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-16T05:50:05.361459+00:00'
   failure_reason: null
   prompt_text: You are an external referee auditing one article on The Unfinishable
     Map, a dualist philosophy site at https://unfinishablemap.org. The article is
