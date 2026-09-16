@@ -4,7 +4,7 @@ description: "Dreams provide the most accessible everyday evidence for the filte
 created: 2026-01-21
 modified: 2026-02-23
 human_modified: null
-ai_modified: 2026-09-07T23:11:56+00:00
+ai_modified: 2026-09-16T07:53:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -53,7 +53,7 @@ related_articles:
   - "[[consciousness-and-memory]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-1
 ai_generated_date: 2026-02-23
 last_curated: null
 last_deep_review: 2026-07-14T04:39:14+00:00
@@ -120,13 +120,13 @@ Each configuration yields distinct cognitive capabilities—a pattern the Map's 
 
 ## Lucid Dreaming as Distinct State
 
-Lucid dreaming—becoming aware that one is dreaming while the dream continues—represents a distinct state of consciousness. The 2025 Demirel study provided strong evidence: source-level EEG analysis showed lucid dreams have unique neural signatures (gamma power increases in right temporo-occipital regions, distinct interhemispheric connectivity) differing from both ordinary REM and waking. Voss et al. (2014) provided causal evidence: frontal transcranial alternating current stimulation at gamma frequencies (25–40 Hz) during REM selectively induced lucid dreaming, while other frequencies had no effect. The [[lucid-dreaming-and-dualist-rendering|capability evidence]] article examines what this reveals about the brain-mind division.
+Lucid dreaming—becoming aware that one is dreaming while the dream continues—represents a distinct state of consciousness. The 2025 Demirel study provided strong evidence: source-level EEG analysis showed lucid dreams have unique neural signatures (gamma power increases in right temporo-occipital regions, distinct interhemispheric connectivity) differing from both ordinary REM and waking. Voss et al. (2014) provided causal evidence: frontal transcranial alternating current stimulation at gamma frequencies (25–40 Hz) during REM selectively induced lucid dreaming, while other frequencies had no effect. Baird, Tononi & LaBerge (2022) later showed the frontolateral 40 Hz signature reported for lucid REM to be a saccadic-spike artefact (a Bayesian null after correction); the stimulation result stands separately, not on a verified spectral marker. The [[lucid-dreaming-and-dualist-rendering|capability evidence]] article examines what this reveals about the brain-mind division.
 
 The transition from non-lucid to lucid REM reveals that [[phenomenal-consciousness|phenomenal]] and [[access-consciousness|access]] consciousness are separable. During ordinary REM, the DLPFC is deactivated—removing neural correlates of cognitive access—yet rich phenomenal experience persists. This dissociation challenges [[higher-order-theories|Higher-Order Thought theory]], which predicts no consciousness without higher-order representation. Non-lucid dreams contradict this: they are unambiguously conscious without the metacognitive overlay. [[metacognition]] relates to consciousness as a *modulator*, not a *constituter*.
 
-### Metacognition and Prefrontal Structure
+### Metacognition and Prefrontal Connectivity
 
-Lucid dreaming involves [[anoetic-noetic-autonoetic-consciousness|autonoetic awareness]]: the dreamer becomes aware not just of dream content but of themselves *as the one dreaming*. Frequent lucid dreamers have **larger anterior prefrontal cortex volume** and **increased functional connectivity** between aPFC and temporoparietal regions (Baird et al., 2018)—the same pattern associated with waking metacognition. The trainability of lucid dreaming suggests practice shapes structure, paralleling changes in long-term [[meditation-and-consciousness-modes|meditators]].
+Lucid dreaming involves [[anoetic-noetic-autonoetic-consciousness|autonoetic awareness]]: the dreamer becomes aware not just of dream content but of themselves *as the one dreaming*. Frequent lucid dreamers show **increased functional connectivity** between aPFC and temporoparietal regions, with no structural difference (Baird et al., 2018)—the connectivity pattern associated with waking metacognition. The design is cross-sectional: connectivity may facilitate lucidity, lucidity may alter connectivity, or a third trait may drive both.
 
 ### Voluntary Control
 
@@ -262,3 +262,4 @@ The Map's interpretation of dream consciousness would face difficulty if:
 1. Löwe, A. T., Petzka, M., Tzegka, M. M. & Schuck, N. W. (2025). N2 sleep promotes the occurrence of 'aha' moments in a perceptual insight task. *PLOS Biology*, 23(6), e3003185. https://doi.org/10.1371/journal.pbio.3003185
 1. Siclari, F., Baird, B., Perogamvros, L., Bernardi, G., LaRocque, J. J., Riedner, B., Boly, M., Postle, B. R., & Tononi, G. (2017). The neural correlates of dreaming. *Nature Neuroscience*, 20, 872-878. https://doi.org/10.1038/nn.4545
 1. Voss, U., Holzmann, R., Hobson, A., et al. (2014). Induction of self awareness in dreams through frontal low current stimulation of gamma activity. *Nature Neuroscience*, 17(6), 810–812.
+1. Baird, B., Tononi, G., & LaBerge, S. (2022). Lucid dreaming occurs in activated rapid eye movement sleep, not a mixture of sleep and wakefulness. *Sleep*, 45(4), zsab294.

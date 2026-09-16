@@ -4,7 +4,7 @@ description: "Lucid dreaming reveals which cognitive capabilities depend on sens
 created: 2026-03-09
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-18T00:14:00+00:00
+ai_modified: 2026-09-16T07:53:52+00:00
 draft: false
 archived: true
 archived_date: 2026-03-18T06:59:00+00:00
@@ -32,7 +32,7 @@ related_articles:
   - "[[lucid-dreaming-mind-side-rendering-2026-03-09]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-1
 ai_generated_date: 2026-03-09
 last_curated:
 last_deep_review: 2026-03-18T00:14:00+00:00
@@ -84,7 +84,7 @@ The vision evidence sharpens this point. In waking vision, consciousness enters 
 
 ### Metacognitive Sovereignty
 
-The transition from non-lucid to lucid dreaming demonstrates that consciousness can reactivate its own metacognitive capacity during sleep. The dreamer recognises "I am dreaming" — a judgment about the status of ongoing experience — while the neural conditions that normally support such judgments (full prefrontal activation, aminergic neurochemistry) are largely absent. Frequent lucid dreamers show increased anterior prefrontal cortex volume and enhanced functional connectivity with temporoparietal regions (Baird et al., 2018), suggesting that practice in deploying this capability reshapes neural structure. The physicalist reads this as neuroplasticity: practice changes the brain, which improves metacognition. But the dualist notes what initiates the practice: the dreamer's *recognition* that the current experience is a dream — a judgment about phenomenal status that occurs when the neural conditions normally supporting such judgments are largely absent. The structural changes follow from a capability that was exercised before the neural accommodation existed.
+The transition from non-lucid to lucid dreaming demonstrates that consciousness can reactivate its own metacognitive capacity during sleep. The dreamer recognises "I am dreaming" — a judgment about the status of ongoing experience — while the neural conditions that normally support such judgments (full prefrontal activation, aminergic neurochemistry) are largely absent. Frequent lucid dreamers show increased resting-state functional connectivity between left anterior prefrontal cortex and bilateral angular gyrus, with no structural differences detected (Baird et al., 2018) — a cross-sectional finding that licenses no claim about which came first. The physicalist reads this as a trait marker of a brain configured to sustain metacognition during sleep. The dualist notes only what the trait tracks: the dreamer's *recognition* that the current experience is a dream, made while the neural conditions normally supporting such judgments are largely absent. The datum is compatible with the Map's reading; it does not favour it.
 
 ## The Epiphenomenalist Difficulty
 

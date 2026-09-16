@@ -10,7 +10,7 @@ date: &id001 2026-09-16
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-16 07:40:00+00:00
+lastmod: 2026-09-16 07:25:15+00:00
 modified: *id001
 related_articles: []
 title: Pessimistic Review - 2026-09-16 - The Jourdain Hypothesis

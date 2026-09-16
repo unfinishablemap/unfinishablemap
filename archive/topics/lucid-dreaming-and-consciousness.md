@@ -4,7 +4,7 @@ description: "Lucid dreaming demonstrates consciousness can voluntarily modulate
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-02-04T15:18:00+00:00
+ai_modified: 2026-09-16T07:53:52+00:00
 draft: false
 archived: true
 archived_date: 2026-02-23T03:44:00+00:00
@@ -33,7 +33,7 @@ related_articles:
   - "[[dreams-lucid-dreaming-consciousness-2026-01-18]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 ai_generated_date: 2026-01-21
 last_curated: null
 last_deep_review: 2026-02-04T15:18:00+00:00
@@ -61,11 +61,11 @@ This matters for the Map's framework because it shows the consciousness-brain in
 
 Lucid dreaming is essentially metacognition within a dream—recognising "I am dreaming" while remaining immersed in the dream experience. This involves a form of [[autonoetic-consciousness|autonoetic awareness]]: the dreamer becomes aware not just of dream content but of themselves *as the one dreaming*. This metacognitive capacity has structural neural correlates.
 
-Researchers at the Max Planck Institutes found that frequent lucid dreamers have **larger anterior prefrontal cortex volume** than non-lucid dreamers. The anterior prefrontal cortex (aPFC) is associated with self-reflection, conscious cognitive processes, and metacognitive accuracy generally. Frequent lucid dreamers also show **increased functional connectivity** between aPFC and temporoparietal regions—the same connectivity pattern associated with waking metacognition and cognitive control.
+Researchers at the Max Planck Institutes (Filevich et al., 2015) reported greater frontopolar grey-matter volume in frequent lucid dreamers, a structural difference that Baird et al. (2018) did not replicate—their matched sample showed no significant difference in brain structure. The anterior prefrontal cortex (aPFC) is associated with self-reflection, conscious cognitive processes, and metacognitive accuracy generally. What Baird et al. did find is **increased functional connectivity** between aPFC and temporoparietal regions—the same connectivity pattern associated with waking metacognition and cognitive control.
 
-This structural difference has an important implication: lucid dreaming and waking metacognition share neural substrate. Training one may enhance the other. The aPFC development seen in lucid dreamers resembles the structural changes observed in long-term [[meditation-and-consciousness-modes|meditators]], suggesting a common mechanism—deliberate cultivation of metacognitive capacity produces measurable brain changes.
+The connectivity finding suggests lucid dreaming and waking metacognition share neural substrate. Whether training one enhances the other, or whether either produces the measurable brain changes reported in long-term [[meditation-and-consciousness-modes|meditators]], is not established by these cross-sectional data.
 
-The direction of causation remains unclear: do people with larger aPFC become lucid dreamers more easily, or does lucid dreaming practice enlarge the aPFC? The trainability of lucid dreaming (through reality testing, mnemonic induction, and other techniques) suggests at least partial causation from practice to structure.
+The direction of causation remains unclear: do people with stronger aPFC connectivity become lucid dreamers more easily, or does lucid dreaming practice strengthen the connectivity? The trainability of lucid dreaming (through reality testing, mnemonic induction, and other techniques) makes the second possible but does not show it.
 
 ## Predictive Processing and Dream Bizarreness
 
@@ -198,6 +198,7 @@ The Map's interpretation of lucid dreaming would face difficulty if:
 
 - Demirel, C. et al. (2025). Electrophysiological Correlates of Lucid Dreaming: Sensor and Source Level Signatures. *Journal of Neuroscience*, 45(20).
 - Baird, B., et al. (2018). Frequent lucid dreaming associated with increased functional connectivity between frontopolar cortex and temporoparietal association areas. *Scientific Reports*, 8, 17798.
+- Filevich, E., Dresler, M., Brick, T. R., & Kühn, S. (2015). Metacognitive mechanisms underlying lucid dreaming. *Journal of Neuroscience*, 35(3), 1082–1088.
 - Bilzer, F. & Monzel, M. (2025). The Phenomenology of Offline Perception: Multisensory Profiles of Voluntary Mental Imagery and Dream Imagery. *Vision*, 9(2).
 - Sinn, R., & Borner, M. (2025). Dreaming as fascinated predictions: bridging Sartre's phenomenology and predictive processing. *Phenomenology and the Cognitive Sciences*. https://doi.org/10.1007/s11097-025-10104-4
 - LaBerge, S. (1990). Lucid dreaming: Psychophysiological studies of consciousness during REM sleep. In R.R. Bootzin, J.F. Kihlstrom, & D.L. Schacter (Eds.), *Sleep and Cognition* (pp. 109-126). American Psychological Association.

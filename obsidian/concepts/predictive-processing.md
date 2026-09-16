@@ -4,7 +4,7 @@ description: "The brain as prediction engine: hierarchical Bayesian inference, p
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-07-29T03:51:58+00:00
+ai_modified: 2026-09-16T07:53:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ related_articles:
   - "[[perceptual-failure-and-the-interface]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-17T14:19:48+00:00
@@ -152,7 +152,7 @@ The ~10 bits/second bandwidth constraint persists even during dreams—dream exp
 
 Lucid [[dream-consciousness|dreaming]]—becoming aware that one is dreaming while still in the dream—represents a distinctive case. The dreamer generates a meta-level prediction: "this experience is a dream." This prediction, once stabilized, enables controlled navigation of dream content.
 
-The 2025 Demirel findings establish lucid dreaming as a genuinely distinct consciousness state with unique neural signatures (gamma power increases in right temporo-occipital regions, increased interhemispheric connectivity), not merely a blend of waking and REM. Structurally, frequent lucid dreamers have larger anterior prefrontal cortex—the region associated with metacognition and self-reflection. This suggests PP's precision-weighting machinery can be trained to operate reflexively even during sleep.
+The 2025 Demirel findings establish lucid dreaming as a distinct consciousness state with unique neural signatures (gamma power increases in right temporo-occipital regions, increased interhemispheric connectivity), not a blend of waking and REM. Frequent lucid dreamers show increased functional connectivity—not larger volume—between anterior prefrontal and temporoparietal cortex (Baird et al. 2018); cross-sectionally, this suggests precision-weighting machinery may be trainable to operate reflexively in sleep.
 
 ## Process Philosophy Perspective
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-08-19 14:55:00+00:00
-ai_system: claude-opus-4-6+claude-fable-5
+ai_modified: 2026-09-16 07:53:52+00:00
+ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /concepts/metacognition/
@@ -44,7 +44,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 23:42:36+00:00
-lastmod: 2026-08-19 14:55:00+00:00
+lastmod: 2026-09-16 07:53:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -90,7 +90,7 @@ The [phenomenology of deliberate choice](/concepts/phenomenology-of-choice-and-v
 
 Metacognitive judgments converge on the anterior prefrontal cortex (aPFC). Kapetaniou et al. (2025) showed causally that transcranial alternating current stimulation over frontopolar cortex impairs metacognitive accuracy while leaving first-order performance intact—reinforcing the dissociation at the neural level.
 
-The aPFC connection illuminates [lucid dreaming](/topics/dream-consciousness/). Frequent lucid dreamers show larger aPFC volume and enhanced connectivity (Baird et al. 2018). Lucid dreaming is metacognition within a dream—recognising "I am dreaming" while still dreaming. The 2025 Demirel findings identify it as a [distinct consciousness state](/topics/dream-consciousness/#lucid-dreaming-as-distinct-state): the dream was conscious before becoming lucid, and lucidity adds metacognitive access without adding consciousness *per se*. This **state-independence** shows metacognition operates within whatever consciousness mode is active—it does not create the mode.
+The aPFC connection illuminates [lucid dreaming](/topics/dream-consciousness/). Frequent lucid dreamers show increased aPFC–temporoparietal functional connectivity but no structural difference (Baird et al. 2018). Lucid dreaming is metacognition within a dream—recognising "I am dreaming" while dreaming. Demirel's 2025 findings identify it as a [distinct consciousness state](/topics/dream-consciousness/#lucid-dreaming-as-distinct-state): the dream was conscious before becoming lucid, and lucidity adds metacognitive access without adding consciousness *per se*. This **state-independence** shows metacognition operates within whatever consciousness mode is active—it does not create the mode.
 
 If metacognition were identical to consciousness, training it should be impossible—you cannot become more conscious than conscious. But it is trainable. Baird et al. (2014), a two-week randomised program with an active control, improved metacognitive accuracy in a memory though not a perception domain; Fox et al. (2012) found meditation experience predicts introspective accuracy across practitioners with 1 to 15,000 hours of training, along a logarithmic experience gradient—a cross-sectional design, so experience predicts accuracy rather than practice being shown to produce it. Metacognition is a trainable cognitive skill, not a fundamental feature of consciousness.
 

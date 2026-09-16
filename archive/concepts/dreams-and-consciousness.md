@@ -4,7 +4,7 @@ description: "The brain generates rich experience during REM without external in
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-02-24T23:25:00+00:00
+ai_modified: 2026-09-16T07:53:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ related_articles:
   - "[[dreams-lucid-dreaming-consciousness-2026-01-18]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-02-06T08:18:00+00:00
@@ -95,7 +95,7 @@ The bandwidth bottleneck observed in waking consciousness appears to persist in 
 
 The 2025 Demirel research established lucid dreaming as genuinely distinct—not a waking-REM blend but "the emergence of a stable third phase marked by recursive symbolic awareness."
 
-**Neural signature**: Gamma power increases in right temporo-occipital regions; beta power decreases in parietal areas; interhemispheric connectivity increases. The prefrontal cortex, deactivated during ordinary REM, reactivates during lucidity. Frequent lucid dreamers have larger anterior prefrontal cortex volume, suggesting the metacognitive capacity develops with practice.
+**Neural signature**: Gamma power increases in right temporo-occipital regions; beta power decreases in parietal areas; interhemispheric connectivity increases. The prefrontal cortex, deactivated during ordinary REM, reactivates during lucidity. Frequent lucid dreamers show increased aPFC–temporoparietal functional connectivity but no structural difference (Baird et al., 2018), a cross-sectional finding that does not show the capacity develops with practice.
 
 **Interface reactivation**: The [[attention-as-interface|interface hypothesis]] proposes consciousness interacts with the brain through attention. During ordinary REM, this interface operates partially—vivid experience without executive control. Lucid dreaming represents interface reactivation as prefrontal regions come back online. This parallels how [[meditation-and-consciousness-modes|meditation]] trains interface capacities during waking.
 
@@ -161,6 +161,7 @@ A fair objection: the filter model is flexible enough to accommodate most dream 
 
 ## References
 
+1. Baird, B., Castelnovo, A., Gosseries, O., & Tononi, G. (2018). Frequent lucid dreaming associated with increased functional connectivity between frontopolar cortex and temporoparietal association areas. *Scientific Reports*, 8, 17798.
 1. Demirel, Ç. et al. (2025). Electrophysiological correlates of lucid dreaming. *Journal of Neuroscience*, 45(20).
 1. Konkoly, K.R. et al. (2021). Real-time dialogue between experimenters and dreamers. *Current Biology*, 31(7).
 1. Konkoly, K.R. et al. (2026). Creative problem-solving after experimentally provoking dreams of unsolved puzzles during REM sleep. *Neuroscience of Consciousness*, 2026(1), niaf067.
