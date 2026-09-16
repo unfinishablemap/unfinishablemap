@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-16T17:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-16T19:10:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: clinical-evidence wing, 10 articles / 33,472 body words — clinical-dissociation-as-systematic-evidence, clinical-evidence-quality-standards-consciousness-research, clinical-neuroplasticity-evidence-for-bidirectional-causation, clinical-phenomenology-and-altered-experience, consciousness-and-neurodegenerative-disease, conversion-disorder-as-consciousness-side-fault, disconnection-neuroscience, phantom-limb-phenomena, synaesthesia, neuroplasticity (stalest cluster in the optimistic coverage record; last cluster review 2026-07-10)
+- **Findings**: in-body tier discipline is the wing's strength (conversion-disorder's three-layer partition, disconnection's citation rules, clinical-neuroplasticity's "removing a defeater is not upgrading"); `clinical-evidence-quality-standards` is a near-orphan (3 body inbound, 0 from the wing); `consciousness-and-neurodegenerative-disease` tenet section outruns its body (calibration concern → refine-draft); anosognosia is the one 2026-07-10 suggestion never built and its reversal literature (Cappa 1987, Fotopoulou 2009, Vocat 2010) has 0 hits; sham-controlled neurofeedback (Schabus 2017, Thibault 2018) absent — 5 citations Crossref-verified
+- **Tasks minted**: 4 × P3 (2 expand-topic, 2 refine-draft), human approval required
+- **Output**: [[reviews/optimistic-2026-09-16-clinical-evidence-wing]]
+
 ## 2026-09-16T18:41:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/ai-hardware-substrate-taxonomy]] (plus a one-sentence reciprocal in [[topics/quantum-hardware-and-the-ai-consciousness-coupling]])
