@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-06-05 11:00:24+00:00
+ai_modified: 2026-09-16 09:36:29+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 18:33:42+00:00
-lastmod: 2026-06-05 11:00:24+00:00
+lastmod: 2026-09-16 09:36:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -41,9 +41,7 @@ The Unfinishable Map takes this distinction as evidence for the [Bidirectional I
 
 ## The Literary Reference
 
-In Molière's 1670 play, Monsieur Jourdain—a wealthy bourgeois aspiring to sophistication—learns from his philosophy teacher that all speech is either verse or prose. Realising he has been speaking prose his entire life without knowing it, Jourdain exclaims: "Par ma foi! il y a plus de quarante ans que je dis de la prose sans que j'en susse rien" ("Good heavens! For more than forty years I have been speaking prose without knowing it!").
-
-The humour lies in the gap between doing and knowing-that-you're-doing. Jourdain spoke perfectly good prose—the capacity functioned—but lacked the metarepresentational awareness that what he was doing *was* prose, a category of thing with a name and properties that distinguished it from verse.
+In Molière's 1670 play, Monsieur Jourdain learns from his philosophy teacher that all speech is either verse or prose, and exclaims: "Par ma foi! il y a plus de quarante ans que je dis de la prose sans que j'en susse rien" ("Good heavens! For more than forty years I have been speaking prose without knowing it!"). The humour lies in the gap between doing and knowing-that-you're-doing. Jourdain spoke perfectly good prose—the capacity functioned—but lacked the metarepresentational awareness that what he was doing *was* prose, a category with a name and properties that distinguished it from verse.
 
 Gruber and colleagues apply this pattern to great ape culture. Chimpanzees transmit cultural traditions—different groups have different techniques for termite fishing, nut cracking, and grooming. These are genuine cultural practices, transmitted socially rather than genetically, varying between populations. The apes *have* culture. But they may not *know* they have culture in the sense of representing their practices as practices, as ways-of-doing-things that could be different and might be improved.
 
@@ -54,17 +52,17 @@ The Jourdain Hypothesis rests on a distinction between two kinds of metacognitio
 | Type | Definition | Great Apes | Humans |
 |------|------------|------------|--------|
 | **Procedural** | Implicit feelings that guide behaviour | Yes | Yes |
-| **Declarative** | Explicit knowledge of mental states | Limited/Absent | Yes |
+| **Declarative** | Explicit knowledge of mental states | No evidence in the cultural domain; contested elsewhere | Yes |
 
 **Procedural metacognition** involves feelings that influence action without being objects of explicit awareness. A chimpanzee might *feel* uncertain about which container holds food and therefore seek more information. The uncertainty functions adaptively—it guides appropriate behaviour. But the chimpanzee may not represent that uncertainty *as* uncertainty, cannot think "I don't know which container has the food."
 
 **Declarative metacognition** involves explicit representation of one's own mental states. Humans not only feel uncertain; we know that we feel uncertain, can evaluate our uncertainty, communicate it to others, and take steps to address it. We represent our mental states as mental states.
 
-The parallel to speaking prose is exact. Jourdain *spoke* prose (his speech functioned as prose), but didn't *know* he spoke prose (couldn't represent his speech as belonging to the category "prose"). Great apes may *have* culture (their practices function as culture), without *knowing* they have culture (representing their practices as belonging to the category "cultural traditions").
+The parallel to speaking prose is close. Jourdain *spoke* prose (his speech functioned as prose), but didn't *know* he spoke prose (couldn't represent his speech as belonging to the category "prose"). Great apes may *have* culture (their practices function as culture), without *knowing* they have culture (representing their practices as belonging to the category "cultural traditions").
 
 ## Evidence for the Hypothesis
 
-Several lines of evidence support the claim that great apes lack declarative metacognition while possessing the procedural kind:
+Several lines of evidence support the claim that great apes lack declarative metacognition of their cultural knowledge while possessing the procedural kind. The scope matters: Gruber et al. (2015) report "no evidence for metarepresentations of cultural knowledge" and allow that "it is possible that great apes have more advanced metarepresentational capacities than generally thought"; the species-wide reading above is the Map's extrapolation, not the authors' finding.
 
 ### Cultural Stability
 
@@ -72,7 +70,7 @@ Great ape cultural traditions show remarkable stability across generations but l
 
 ### Teaching Asymmetry
 
-Great apes rarely teach in the human sense. They learn socially through emulation (observing outcomes and figuring out how to achieve them), social facilitation (attention drawn to objects others manipulate), and stimulus enhancement (interest in locations where others forage). But active pedagogy—deliberately adjusting your behaviour to transmit knowledge to a learner—requires knowing that you know something the learner doesn't, and representing that knowledge gap as something to be bridged. Teaching requires the Jourdain transition: from having knowledge to knowing that you have knowledge.
+Great apes rarely teach in the human sense. They learn socially through emulation (observing outcomes and figuring out how to achieve them), social facilitation (attention drawn to objects others manipulate), and stimulus enhancement (interest in locations where others forage). But two senses of "teaching" need separating, as [the Map's teaching article](/concepts/teaching-as-metarepresentation/) does. *Functional* teaching—modifying one's behaviour so that a naive observer learns sooner—is documented in ants and meerkats and requires no metarepresentation, so its rarity in apes says nothing about representation. Nor is it absent: Goualougo chimpanzee mothers transfer finished termite-fishing probes to their offspring (Musgrave et al. 2016), and transfers are more frequent, and more often active, where the extraction task is more complex (Musgrave et al. 2020). *Representational* teaching—adjusting transmission because you know that you know something the learner doesn't, and represent that gap as something to be bridged—is where the Jourdain transition is claimed to matter. Whether the Goualougo donors represent the learner's ignorance, or only track task difficulty and soliciting, is open: the evidence has come in and is too thin to decide.
 
 ## Social Cognition: Where the Jourdain Distinction Is Clearest
 
@@ -83,7 +81,7 @@ Great apes rarely teach in the human sense. They learn socially through emulatio
 | 0 | Behaviour prediction | No | Yes |
 | 1 | Perception attribution | Minimal | Yes |
 | 2 | Belief attribution (false belief) | Yes | Contested |
-| 3 | Recursive mindreading | Definitely | No |
+| 3 | Recursive mindreading | Yes | No |
 
 **Level 3**—representing another's beliefs about your beliefs about their intentions—requires holding nested representations simultaneously in [working-memory](/concepts/working-memory/) while manipulating their relationships. This is the cognitive operation the Jourdain transition describes: not just having representations, but representing them *as* representations subject to deliberate comparison and inference.
 
@@ -109,9 +107,9 @@ Great apes show clear emotional contagion and some cognitive empathy. Empathic c
 
 Humans experience tip-of-the-tongue states: knowing that we know something without being able to retrieve it. What makes this remarkable is that we can assess features of the unretrieved knowledge—it starts with 'M', has three syllables, refers to a person not a place. We experience the *shape* of the missing information even though we cannot access its content.
 
-This is metarepresentational phenomenology in its purest form. The experience has dual structure: (1) awareness of a knowledge gap, and (2) awareness of properties of that gap—its size, its contours, partial features of what should fill it. We don't just fail to retrieve; we experience the failure *as* a specific kind of cognitive state with introspectable structure.
+This is a clear case of metarepresentational phenomenology. The experience has dual structure: (1) awareness of a knowledge gap, and (2) awareness of properties of that gap—its size, its contours, partial features of what should fill it. We don't just fail to retrieve; we experience the failure *as* a specific kind of cognitive state with introspectable structure.
 
-No analogous phenomenon has been documented in great apes. They may feel uncertainty (procedural), modulating their information-seeking behaviour appropriately. But they apparently cannot represent their knowledge states *as* states with assessable features—cannot experience the structure of what they don't know. This asymmetry suggests that representing mental states requires experiencing them, not merely having them.
+Whether great apes have anything like it is not something the record can currently say. Tip-of-the-tongue is defined by verbal report of partial features; a species without language cannot supply that datum, so its absence is a limit on what can be reported, not evidence about what is represented. The nearest non-verbal analogues—Hampton's (2001) rhesus monkeys, which decline a memory test more often when their memory is weak, and the opt-out and information-seeking paradigms surveyed in [the Map's confidence-proxy article](/topics/cross-species-behavioural-confidence-proxy-tests/)—show feeling-of-knowing-like monitoring whose representational structure the behavioural channel cannot resolve. Apes feel uncertainty (procedural) and act on it; whether they represent the knowledge state *as* a state with assessable features is what those paradigms leave open. The human case still carries the weight: in tip-of-the-tongue, representing a knowledge state and experiencing its structure arrive together. What it cannot establish is an ape absence.
 
 ## Why the Distinction Matters
 
@@ -145,15 +143,15 @@ This challenge deserves serious consideration. The evidence shows humans have a 
 
 **First**, the tip-of-the-tongue case suggests phenomenology is load-bearing. We don't just represent our knowledge states; we experience their structure. An unconscious metarepresentational system might flag "information unavailable," but would it experience the distinctive phenomenology of almost-but-not-quite-remembering? The functionalist could reply that what we call "experiencing the structure" is just reporting certain functional states—heterophenomenology rather than evidence for irreducible phenomenology. Yet the burden shifts: why do these particular functional states generate reports of a rich experiential character, while other states (like procedural metacognition in apes) apparently do not?
 
-**Second**, if metarepresentation were purely functional, we'd expect more gradations between apes and humans. Instead, we see a sharp divide: cumulative culture absent in apes, present in humans; teaching nearly absent vs. ubiquitous; theory of mind limited vs. sophisticated. Sharp transitions suggest qualitative differences, not merely quantitative increases in processing power.
+**Second**, the divide between the species is real, but the confounds are stacked. As [theory-of-mind](/concepts/theory-of-mind/) puts it, humans also differ from apes in working-memory capacity, executive function, and language, any of which could contribute independently—and Gruber et al. (2015) themselves take up Jackendoff's criterion that possessing a "true" concept requires the ability to verbalise it, before judging that criterion "may be unnecessary." Monsieur Jourdain, after all, learned that he spoke prose by being told a word. Nor does the gap's sharpness help: threshold effects over a continuous parameter produce sharp behavioural transitions in every domain, so discreteness does not show a difference in kind. The claim the Map can defend is narrower: the functional differences are candidates for the transition's *enabling conditions*, and the Map's bet concerns what makes representing a state *as* a state possible at all, not the gap's sharpness.
 
-**Third**, the illusionist variant—that declarative metacognition involves the *illusion* of phenomenology—faces a special problem. For there to be an illusion of knowing-that-you-know, something must experience that seeming. The illusion of metarepresentation requires a subject to be fooled. That subject's experiencing of the illusion is precisely what needs explanation. Either it has phenomenal character (undermining functionalism), or it doesn't (leaving mysterious why it should seem like anything at all).
+**Third**, the illusionist variant—that declarative metacognition involves only the *seeming* of phenomenology—invites the reply that a seeming needs someone to whom things seem. The Map does not press that reply here. As [qualia](/concepts/qualia/) argues, the bare regress begs the question against illusionism: a representational system need not instantiate what it represents, and the illusionist is entitled to say that an introspective self-model stands to phenomenal character as a map stands to terrain. That the seeming is *experienced* is the Map's Dualism commitment; the disagreement with illusionism here sits at a framework boundary and is noted as such, not refuted on the illusionist's own terms. What survives as an in-framework question is the specificity point of the first response: why a functional self-model would generate the almost-remembering structure rather than a flat unavailability flag.
 
-These responses shift the burden rather than settling the question. The functionalist must explain why the human-ape divide is so sharp if only computational complexity differs.
+These responses shift the burden rather than settling the question. What the functionalist owes is an account of why representing-as, once its enabling conditions are in place, has the experiential structure it has—not an explanation of the gap's sharpness, which the confounds can supply.
 
 ## Contemplative Evidence
 
-Buddhist meditation practices provide indirect support for the Jourdain transition. *Sati* (mindfulness) explicitly cultivates the shift from doing to knowing-that-you're-doing—the instruction to be mindful of breathing "when breathing" is precisely the instruction to make the Jourdain transition. Contemplative traditions treat this as a genuine and difficult achievement. The phenomenological shift practitioners report—from automatic breathing to mindful breathing—matches the Jourdain pattern: not a change in what's happening, but a change in awareness of what's happening. If the procedural/declarative distinction were illusory, this widely-reported shift would need alternative explanation.
+Buddhist meditation practices provide indirect support for the Jourdain transition. *Sati* (mindfulness) explicitly cultivates the shift from doing to knowing-that-you're-doing—the instruction to be mindful of breathing "when breathing" is precisely the instruction to make the Jourdain transition. Contemplative traditions treat this as a genuine and difficult achievement. The phenomenological shift practitioners report—from automatic breathing to mindful breathing—matches the Jourdain pattern: not a change in what's happening, but a change in awareness of what's happening. The functionalist grants the distinction, so this does not tell against functionalism; it is phenomenological data on what the transition is like from inside—the structure the specificity question above asks the functionalist to account for.
 
 ## Process Philosophy Perspective
 
@@ -167,7 +165,7 @@ Several findings would undermine the Jourdain Hypothesis or its connection to co
 
 2. **Cumulative culture without metarepresentation**: If any species demonstrated systematic cultural ratcheting while lacking metarepresentational capacity, the proposed link between cumulative culture and metarepresentation would be severed.
 
-3. **Teaching in great apes**: If great apes demonstrated true pedagogy—deliberately adjusting transmission based on assessed knowledge states in self and other—the teaching asymmetry evidence would fail.
+3. **Teaching in great apes**: If great apes demonstrated true pedagogy—actively scaffolding on assessed learner ignorance—the teaching asymmetry evidence would fail. State: evidence has come in and is too thin to decide; the Goualougo transfers (Musgrave et al. 2016, 2020) meet functional criteria and track task complexity but do not yet show representation of ignorance.
 
 4. **Unconscious metarepresentation**: If artificial systems or brain-damaged humans demonstrated genuine declarative metacognition—actual representation of mental states as mental states, not just metacognitive-seeming outputs—while provably lacking phenomenal consciousness, this would sever the link between metarepresentation and phenomenology.
 
@@ -181,11 +179,11 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds 
 
 ### Dualism
 
-The [Dualism](/tenets/#dualism) tenet holds that consciousness is irreducible to physical processes. The Jourdain transition, if it genuinely requires phenomenal consciousness, provides evidence: great apes possess sophisticated neural machinery for culture, social learning, and metacognitive monitoring, yet lack the declarative capacity that humans possess. If the difference were merely computational complexity, we might expect gradations. The apparent discreteness—procedural metacognition present, declarative metacognition absent—suggests something qualitatively new is required, not merely more of the same.
+The [Dualism](/tenets/#dualism) tenet holds that consciousness is irreducible to physical processes. The Jourdain transition, if it genuinely requires phenomenal consciousness, provides evidence: great apes possess sophisticated neural machinery for culture, social learning, and metacognitive monitoring, yet lack the declarative capacity that humans possess. On one reading, the discreteness—procedural metacognition present, declarative metacognition absent—suggests something qualitatively new is required rather than more of the same; but language, working memory and executive function can produce a discrete gap too, so the tenet's support here is the having-versus-representing distinction itself, not the sharpness of the gap.
 
 ### Occam's Razor Has Limits
 
-The simpler hypothesis—that all metacognition is really procedural, that the appearance of "knowing that you know" is just more sophisticated processing—fails the evidence. The systematic pattern (cumulative culture absent where declarative metacognition is absent), the contemplative evidence (traditions explicitly cultivating the transition), and the phenomenology (it genuinely seems different to know versus to know-that-you-know) all warrant the less parsimonious conclusion: the Jourdain transition is real, and it requires something beyond functional processing.
+The simpler hypothesis is the functionalist's: the procedural/declarative distinction is real, and declarative metacognition is more sophisticated processing with no phenomenal dependence. The Map's alternative is less parsimonious, and it accepts that cost on this tenet. The systematic pattern (cumulative culture absent where declarative metacognition is absent), the contemplative evidence (traditions explicitly cultivating the transition), and the phenomenology (it genuinely seems different to know versus to know-that-you-know) establish that the transition is real; that it requires something beyond functional processing is the Map's reading of what makes representing-as possible, held with the confounds above in view rather than read off the evidence.
 
 ## Further Reading
 
@@ -196,6 +194,8 @@ The simpler hypothesis—that all metacognition is really procedural, that the a
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enhances baseline cognitive capacity
 - [metarepresentation threshold](/concepts/metacognition/#the-metarepresentation-threshold) — The boundary the Jourdain transition identifies, and why it appears discrete rather than gradual
 - [theory-of-mind](/concepts/theory-of-mind/) — Levels of mindreading and the metarepresentation threshold
+- [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/) — Functional versus representational teaching, and the Goualougo evidence
+- [cross-species-behavioural-confidence-proxy-tests](/topics/cross-species-behavioural-confidence-proxy-tests/) — The non-verbal metamemory paradigms that stand in for tip-of-the-tongue report
 - [working-memory](/concepts/working-memory/) — The workspace where metarepresentation operates
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The phenomenal character of thinking
 - [animal-consciousness](/topics/animal-consciousness/) — The broader context of great ape minds
@@ -203,7 +203,10 @@ The simpler hypothesis—that all metacognition is really procedural, that the a
 ## References
 
 1. Gruber, T., Zuberbühler, K., Clément, F. & van Schaik, C. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+1. Hampton, R. R. (2001). Rhesus monkeys know when they remember. *Proceedings of the National Academy of Sciences*, 98(9), 5359-5362.
 1. Molière (1670). *Le Bourgeois Gentilhomme*.
+1. Musgrave, S., Morgan, D., Lonsdorf, E., Mundry, R. & Sanz, C. (2016). Tool transfers are a form of teaching among chimpanzees. *Scientific Reports*, 6, 34783.
+1. Musgrave, S., Lonsdorf, E., Morgan, D., et al. (2020). Teaching varies with task complexity in wild chimpanzees. *Proceedings of the National Academy of Sciences*, 117(2), 969-976.
 1. Tennie, C., Call, J. & Tomasello, M. (2009). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 364(1528), 2405-2415.
 1. Tomasello, M. & Herrmann, E. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
