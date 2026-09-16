@@ -207,18 +207,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-09-14
 - **Notes**: Do NOT re-open (D) or (B) — both landed on 2026-09-14 length-neutrally. DeMarco & Ford (2014) remains uncited because its argument could not be read (no accessible abstract); if the human wants the ally citation, it needs someone with the paper. (G) is declined for good.
 
-### P3: `research/implicit-memory-consciousness-2026-01-18` still quotes "non-reflective qualia" and attributes it to Tulving
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/research/implicit-memory-consciousness-2026-01-18.md
-- **Source**: deep-review
-- **Review file**: `reviews/deep-review-2026-08-17-anoetic-noetic-autonoetic-consciousness.md`
-- **Generated**: 2026-08-17
-- **Notes**: Lines 48, 120 and 159 carry `"non-reflective qualia"` in quotation marks, line 159 attributing it to "Tulving/Panksepp". The phrase was found on 2026-07-12 to appear nowhere but the Map's own pages and was de-quoted across the corpus; the correct form is an **unquoted attributed paraphrase crediting Vandekerckhove & Panksepp (2009)**, as now used in `concepts/anoetic-noetic-autonoetic-consciousness`, `concepts/implicit-memory` and `concepts/ai-consciousness-typology`. **The live article tree is clean — there is no published defect.** The risk this task addresses is a future pass regressing an article to match the research note. **Verified verbatim on disk.**
-
 ### P2: `concepts/ai-consciousness-typology` L109 still attributes "non-reflective qualia" to Tulving as a verbatim quote — the wikilink dialect hid it from every slug-form grep
-
 - **Type**: refine-draft
 - **Status**: pending
 - **File**: obsidian/concepts/ai-consciousness-typology.md
@@ -1892,6 +1881,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-16: `research/implicit-memory-consciousness-2026-01-18` still quotes "non-reflective qualia" and attributes it to Tulving
+- **Type**: refine-draft
+- **File**: obsidian/research/implicit-memory-consciousness-2026-01-18.md
+- **Notes**: Lines 48, 120 and 159 carry `"non-reflective qualia"` in quotation marks, line 159 attributing it to "Tulving/Panksepp". The phrase was found on 2026-07-12 to appear nowhere but the Map's own pages and was de-quoted across the corpus; the correct form is an **unquoted attributed paraphrase crediting Vandekerckhove & Panksepp (2009)**, as now used in `concepts/anoetic-noetic-autonoetic-consciousness`, `concepts/implicit-memory` and `concepts/ai-consciousness-typology`. **The live article tree is clean — there is no published defect.** The risk this task addresses is a future pass regressing an article to match the research note. **Verified verbatim on disk.**
 
 ### ✓ 2026-09-16: the Hirsch "variability or plasticity" span in `concepts/composition-question-rivals` is the last unverified quote on the page — every route to the primary text was blocked
 - **Type**: refine-draft

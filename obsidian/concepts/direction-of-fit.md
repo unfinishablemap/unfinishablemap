@@ -4,7 +4,7 @@ description: "Direction of fit classifies mental states by whether mind adapts t
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-07-18T13:30:56+00:00
+ai_modified: 2026-09-16T19:56:00+00:00
 draft: false
 topics:
   - "[[aesthetics-and-consciousness]]"
@@ -22,10 +22,10 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-1
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-07-16T19:33:27+00:00
+last_deep_review: 2026-09-16T19:56:00+00:00
 ---
 
 Direction of fit is a classification of mental states according to how they relate to the world. Beliefs have *mind-to-world* direction of fit: when a belief conflicts with reality, the belief is at fault and should change. Desires have *world-to-mind* direction of fit: when reality conflicts with a desire, reality is at fault and should change. This asymmetry, introduced by Elizabeth Anscombe in 1957 and developed by John Searle in 1983, reveals something fundamental about [[intentionality]]—and about whether consciousness can be causally inert.
@@ -50,9 +50,11 @@ Searle systematised direction of fit in *Intentionality* (1983), extending the f
 
 **World-to-mind fit**: Desires, intentions, commands. These states are satisfied when the world comes to match their content. An unfulfilled desire does not misrepresent—it sets a standard reality has yet to meet.
 
-**Double direction**: Some states exhibit both directions simultaneously. Searle argued that intentions-in-action have both: they represent the action being performed (mind-to-world) while causing that very action (world-to-mind).
+**Direction of causation**: Searle pairs direction of fit with a second notion that runs the opposite way. Perception has mind-to-world fit but world-to-mind causation: the table causes the visual experience. An intention in action has world-to-mind fit but mind-to-world causation: the experience of acting causes the arm to rise. Both are causally self-referential—the intention is satisfied only if it causes the very movement it represents.
 
-**Null direction**: Some mental states—emotions like undirected anxiety, moods—may lack a clear direction of fit. They do not aim to represent the world accurately, nor do they aim to change it.
+**Double direction**: In Searle's speech-act taxonomy, declarations ("I pronounce you husband and wife") have both directions of fit at once, altering the world by representing it as altered. Searle does not extend this double fit to intentions; their two-way character lies in the fit/causation pairing above, not in a second direction of fit.
+
+**No direction**: Some intentional states—being sorry that *p*, being glad that *p*—presuppose their content rather than aiming to match or change the world, and Searle says they have no direction of fit (his speech-act term is "null"). Undirected anxiety and moods are a different case: for Searle they are not intentional states at all, so the question of fit does not arise.
 
 Searle connected direction of fit to his broader theory of [[intentionality]] and speech acts. Assertions have mind-to-world fit (like beliefs); commands and promises have world-to-mind fit (like desires). The direction of fit of a speech act derives from the underlying intentional state it expresses.
 
@@ -80,7 +82,7 @@ The [[empirical-phenomena-mental-causation|placebo effect]] provides suggestive 
 
 Event-causal theories struggle here. If desires are just neural events causing other neural events, the "direction" of fit becomes metaphorical—one physical event leading to another, with no genuine normative relation between representation and world. Agent causation preserves the literal directedness: the agent genuinely intends a future state and brings it about through the exercise of causal power.
 
-The double direction of fit in intentions-in-action is particularly telling. When you are in the process of raising your arm, your intention both represents the arm rising (mind-to-world) and causes the arm to rise (world-to-mind). This simultaneous bidirectionality maps onto the Map's picture: consciousness both registers physical states (perception) and selects among possible physical outcomes (action).
+Searle's pairing of fit with causation is particularly telling. Perception has mind-to-world fit and world-to-mind causation; an intention in action has world-to-mind fit and mind-to-world causation, and is satisfied only if it causes the very movement it represents. Read together, the two cases already describe two-way traffic between mind and world, and they map onto the Map's picture: consciousness both registers physical states (perception) and selects among possible physical outcomes (action). What Searle's framework leaves open, and the Map's tenets fill in, is whether the causation running mind-to-world is exercised by phenomenal content itself or only by its neural realiser—Searle, a biological naturalist, would say the latter.
 
 ## Challenges to the Framework
 

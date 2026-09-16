@@ -4,6 +4,17 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-16T17:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-16T19:56:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/direction-of-fit]]
+- **Word count**: 1828 → 2001 (+173)
+- **Critical issues addressed**: 2 (Searle "double direction of fit" misattributed to intentions-in-action with swapped labels — Searle gives intentions world-to-mind *fit* and mind-to-world *causation*, double fit is for declarations; and the Map's agent-causation paragraph that was built on it, rewritten on Searle's real fit/causation pairing with his biological naturalism marked where the Map goes beyond him)
+- **Medium issues addressed**: 1 ("null direction" bullet misfiled undirected anxiety, which Searle classes as non-Intentional; replaced with his sorry/glad-that-*p* examples)
+- **Enhancements made**: 1 (agent-causation paragraph now anchored in Searle's own two-way fit/causation table)
+- **Lens note**: 6th review; five prior "converged" passes verified citation metadata but never claim-matched the Searle bullets against the raw text. Verified via raw Searle 1983 mirror + Searle 1980 *Cognitive Science* PDF (grep, not WebSearch summaries — one summary echoed the Map's own sentence). The three 2026-07-18 cross-link insertions were checked and are accurate.
+- **Output**: [[reviews/deep-review-2026-09-16-direction-of-fit]]
+
 ## 2026-09-16T19:22:20+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[research/implicit-memory-consciousness-2026-01-18]]
