@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-16T14:07:40+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: update [P-MC3](/positions/arguments-for-mental-causation/#p-mc3) (`positions/arguments-for-mental-causation.md`) — per-conjunct calibration, from outer review 2026-09-14 ChatGPT 5.6 Pro §5.2 / §8 row [P-MC3](/positions/arguments-for-mental-causation/#p-mc3) (synthesis L94), P2
+- **Choice**: option (b) — one entry, per-conjunct block with weakest-link headline — not the (a) P-MC3a/b split. The domain's own rule (L44: "the split runs *inside* an entry rather than between entries"), [P-MC1](/positions/arguments-for-mental-causation/#p-mc1)'s centrality and [P-MC3](/positions/arguments-for-mental-causation/#p-mc3)'s discriminability parentheticals, and [P-MS2](/positions/moral-status/#p-ms2)'s "a conjunction — cannot exceed *its* band" form all model it; a split would ripple through the `P-MC1–P-MC3` range references in [P-D2](/positions/arguments-for-dualism/#p-d2) (dualism L58, L61) and [P-MC4](/positions/arguments-for-mental-causation/#p-mc4) and add a second entry's boilerplate to a file already 399 words over hard
+- **Band**: **credence high → moderate, grade B → C** as the headline. Per conjunct: exclusion diagnostic high/B (unchanged); survey verdict over the five named rival families moderate/C at most (non-exhaustive set — 2026-09-05 review L114/L125 named the Everettian and Madhyamaka omissions); the Map's escape *routed* to [P-Q1](/positions/quantum-interface/#p-q1) (moderate/D) rather than graded here, since L44 records the completeness-denial *is* Tenet 2. Parser check: `build_position_metadata` now returns credence=moderate, grade=C, so the link tooltips (the channel the review's "downstream citations inherit the headline" names) read "confidence: moderate · limited or indirect evidence"
+- **Edits**: (a) Calibration line restated per conjunct, no middots inside parentheticals (the sync parser splits on `·`); (b) three *Would shift if* disjuncts tagged survey / diagnostic / escape; (c) title narrowed to "no rival *surveyed* has done it" (09-05 review L133; no heading-link or heading-text referrers outside this file, its 09-05 review and changelog archives); (d) dated Updated note; Last reviewed 2026-09-16. *Asserts* and *Depends on* unchanged
+- **Length**: 2,899 → 3,253 words vs 2,500 hard / 4,000 critical (`analyze_length`). Measured split (git diff by region): calibration content +160, shift-condition tags +9, title +1, mandated Updated note +184 (= +354). Not length-neutral by convention; rival list referenced, not re-listed
+- **Cascade**: none to edit — [P-D2](/positions/arguments-for-dualism/#p-d2) and [P-MC4](/positions/arguments-for-mental-causation/#p-mc4) both depend on the diagnostic conjunct, which keeps high/B; discriminability unchanged (`indirect`), so the `positions.md` aggregate does not move. [P-D2](/positions/arguments-for-dualism/#p-d2)'s L58/L61 wording still describes the diagnostic correctly
+- **Sync**: `scripts/sync.py`; both trees grepped
+
 ## 2026-09-16T13:48:49+00:00 - refine-draft
 - **Status**: Success
 - **File**: [quantum-interpretations](/concepts/quantum-interpretations/) and [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) (multi-file task; both edited)

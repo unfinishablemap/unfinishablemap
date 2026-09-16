@@ -59,15 +59,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: research-harvest
 - **Generated**: 2026-09-15
 
-### P2: P-MC3's calibration block grades one conjunction (credence high · Grade B) that its own Asserts splits into two claims of different standing — the exclusion diagnostic and the survey claim that no rival has supplied the difference-making point
-- **Type**: positions-evolve
-- **File**: obsidian/positions/arguments-for-mental-causation.md
-- **Status**: pending
-- **Source**: outer-review
-- **Review file**: `reviews/outer-review-2026-09-14-chatgpt-5-6-sol-pro.md`
-- **Generated**: 2026-09-15
-- **Notes**: From outer review 2026-09-14 (§5.2, §8 row P-MC3). Verified on disk: L78 is `credence high · external-evidence grade B`; L79 already concedes "The diagnostic is held with more confidence than the escape" and "claims only that no rival *has* supplied the missing difference-making point, not that none could". The prose discloses the mixed profile; the machine-readable block does not, so downstream citations inherit high/B for the survey half. Do one of: (a) split into P-MC3a (exclusion diagnostic — Kim's argument, high/B) and P-MC3b (no rival has supplied the point — a literature-wide survey judgment, moderate/C at most, naming the five rival families the Asserts already lists: non-reductive physicalism, Russellian monism, functionalism, strong emergence, panpsychism); or (b) keep one entry but restate the calibration block per conjunct with a weakest-link line. Cross-check `P-D2` (L44 of this file names it as borrowing the exclusion criterion) and `positions/positions.md` L55 if the discriminability aggregate changes. **Length**: file is 2,899 words vs the 2,500 positions hard ceiling; the convention mandates a dated Updated note, so brief the split between content and history — do not impose neutrality, but reference the rival list rather than re-listing it.
-
 ### P2: P-MS1/P-MS2's standing-capacity clause has no criterion for "reversible" and no named bearer — the sleeper and coma verdicts inherit P-I1/P-SC3 without listing them
 - **Type**: positions-evolve
 - **File**: obsidian/positions/moral-status.md
@@ -1920,6 +1911,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-16: P-MC3's calibration block grades one conjunction (credence high · Grade B) that its own Asserts splits into two claims of different standing — the exclusion diagnostic and the survey claim that no rival has supplied the difference-making point
+- **Type**: positions-evolve
+- **File**: obsidian/positions/arguments-for-mental-causation.md
+- **Notes**: From outer review 2026-09-14 (§5.2, §8 row P-MC3). Verified on disk: L78 is `credence high · external-evidence grade B`; L79 already concedes "The diagnostic is held with more confidence than the escape" and "claims only that no rival *has* supplied the missing difference-making point, not that none could". The prose discloses the mixed profile; the machine-readable block does not, so downstream citations inherit high/B for the survey half. Do one of: (a) split into P-MC3a (exclusion diagnostic — Kim's argument, high/B) and P-MC3b (no rival has supplied the point — a literature-wide survey judgment, moderate/C at most, naming the five rival families the Asserts already lists: non-reductive physicalism, Russellian monism, functionalism, strong emergence, panpsychism); or (b) keep one entry but restate the calibration block per conjunct with a weakest-link line. Cross-check `P-D2` (L44 of this file names it as borrowing the exclusion criterion) and `positions/positions.md` L55 if the discriminability aggregate changes. **Length**: file is 2,899 words vs the 2,500 positions hard ceiling; the convention mandates a dated Updated note, so brief the split between content and history — do not impose neutrality, but reference the rival list rather than re-listing it.
 
 ### ✓ 2026-09-16: the 2025 Nature interpretations-survey reference in `concepts/quantum-interpretations` L225 and `apex/what-consciousness-tells-us-about-physics` L274 has no author, pages or DOI and predates the 12 Aug 2025 correction
 - **Type**: refine-draft

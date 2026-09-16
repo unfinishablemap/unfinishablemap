@@ -392,17 +392,18 @@ p-mc2:
     not an empirical claim · moderately central'
   weak: 'no'
 p-mc3:
-  bands: 'confidence: high · some independent evidence · moderately central'
+  bands: 'confidence: moderate · limited or indirect evidence · moderately central'
   claim: Escaping the epiphenomenalist gravity well requires denying the causal completeness of physics,
-    and no rival has done it
-  credence: high
-  grade: B
+    and no rival surveyed has done it
+  credence: moderate
+  grade: C
   id: P-MC3
   slug: arguments-for-mental-causation
   status: live
   structural_centrality: moderate
   summary: 'P-MC3: Escaping the epiphenomenalist gravity well requires denying the causal completeness
-    of physics, and no rival has done it — confidence: high · some independent evidence · moderately central'
+    of physics, and no rival surveyed has done it — confidence: moderate · limited or indirect evidence
+    · moderately central'
   weak: 'no'
 p-mc4:
   bands: 'confidence: moderate · normative, not an empirical claim · peripheral to the framework'

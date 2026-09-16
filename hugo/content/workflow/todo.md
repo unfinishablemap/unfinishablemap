@@ -61,16 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: research-harvest
 - **Generated**: 2026-09-15
 
-### P2: the 2025 Nature interpretations-survey reference in `concepts/quantum-interpretations` L225 and `apex/what-consciousness-tells-us-about-physics` L274 has no author, pages or DOI and predates the 12 Aug 2025 correction
-- **Type**: refine-draft
-- **File**: obsidian/concepts/quantum-interpretations.md
-- **Files**: obsidian/concepts/quantum-interpretations.md, obsidian/apex/what-consciousness-tells-us-about-physics.md
-- **Status**: pending
-- **Source**: outer-review
-- **Review file**: `reviews/outer-review-2026-09-14-claude-opus-5.md`
-- **Generated**: 2026-09-15
-- **Notes**: From outer review 2026-09-14 (Claude Opus 5), §2.2 table row "Nature quantum-interpretations survey (2025)". Driver-verified at Crossref and nature.com: Gibney, E. (2025). "Physicists disagree wildly on what quantum mechanics says about reality, Nature survey shows." *Nature* 643(8074), 1175–1179, 30 July 2025, DOI 10.1038/d41586-025-02342-y. nature.com carries **"Correction 12 August 2025"**: the survey grouped 'many worlds' with 'consistent histories'; CH does not involve branching and should not have been grouped with MW (three free-text CH respondents). Both site reference lines currently read only *"Nature survey (August 2025): Physicists disagree wildly on what quantum mechanics says about reality. Nature, 643(8074)."* — no author, title truncated, no pages, no DOI, no correction. **The reviewer's spin charge is FALSE and must not be imported**: `grep -E "36 ?%"` over live content = 0; both body usages are neutral (`quantum-interpretations` L46 "no interpretation commands majority support"; apex L92 "scattered across half a dozen incompatible views") and remain correct after the correction. The reviewer's "MWI-alone ≈15% / QBism ≈17%" figures are not in the Nature text either — do not add them. **Fix:** complete both reference lines (author, full title, volume/issue/pages, date, DOI) and append "; corrected 12 Aug 2025 (many-worlds/consistent-histories grouping)". Verify at the publisher page, not via any unfinishablemap.org echo (quote-verify-self-contamination-via-own-page). Lengths: concept 2,686w (soft 2,500, hard 3,500 — fine); apex **5,441w against 5,000 hard** — a ~15-word reference-line completion is not length-neutral; do NOT trim prose to compensate (trimming-for-budget-can-strand-a-live-refutation), record the delta in the changelog and leave the apex's length to its existing human-parked handling. Multi-file task — edit BOTH files (multifile_task_dropped_file); sync after; `ai_modified` from real `date -u`.
-
 ### P2: [P-MC3](/positions/arguments-for-mental-causation/#p-mc3)'s calibration block grades one conjunction (credence high · Grade B) that its own Asserts splits into two claims of different standing — the exclusion diagnostic and the survey claim that no rival has supplied the difference-making point
 - **Type**: positions-evolve
 - **File**: obsidian/positions/arguments-for-mental-causation.md
@@ -1932,6 +1922,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-16: the 2025 Nature interpretations-survey reference in `concepts/quantum-interpretations` L225 and `apex/what-consciousness-tells-us-about-physics` L274 has no author, pages or DOI and predates the 12 Aug 2025 correction
+- **Type**: refine-draft
+- **File**: obsidian/concepts/quantum-interpretations.md
+- **Notes**: From outer review 2026-09-14 (Claude Opus 5), §2.2 table row "Nature quantum-interpretations survey (2025)". Driver-verified at Crossref and nature.com: Gibney, E. (2025). "Physicists disagree wildly on what quantum mechanics says about reality, Nature survey shows." *Nature* 643(8074), 1175–1179, 30 July 2025, DOI 10.1038/d41586-025-02342-y. nature.com carries **"Correction 12 August 2025"**: the survey grouped 'many worlds' with 'consistent histories'; CH does not involve branching and should not have been grouped with MW (three free-text CH respondents). Both site reference lines currently read only *"Nature survey (August 2025): Physicists disagree wildly on what quantum mechanics says about reality. Nature, 643(8074)."* — no author, title truncated, no pages, no DOI, no correction. **The reviewer's spin charge is FALSE and must not be imported**: `grep -E "36 ?%"` over live content = 0; both body usages are neutral (`quantum-interpretations` L46 "no interpretation commands majority support"; apex L92 "scattered across half a dozen incompatible views") and remain correct after the correction. The reviewer's "MWI-alone ≈15% / QBism ≈17%" figures are not in the Nature text either — do not add them. **Fix:** complete both reference lines (author, full title, volume/issue/pages, date, DOI) and append "; corrected 12 Aug 2025 (many-worlds/consistent-histories grouping)". Verify at the publisher page, not via any unfinishablemap.org echo (quote-verify-self-contamination-via-own-page). Lengths: concept 2,686w (soft 2,500, hard 3,500 — fine); apex **5,441w against 5,000 hard** — a ~15-word reference-line completion is not length-neutral; do NOT trim prose to compensate (trimming-for-budget-can-strand-a-live-refutation), record the delta in the changelog and leave the apex's length to its existing human-parked handling. Multi-file task — edit BOTH files (multifile_task_dropped_file); sync after; `ai_modified` from real `date -u`.
 
 ### ✓ 2026-09-16: `arguments/epistemological-limits-of-occams-razor` L46–52 scores dualism ahead on two of three simplicity dimensions with no in-situ Tenet 5 self-binding — the qualifier lives in a different article
 - **Type**: refine-draft
