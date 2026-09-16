@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Charles Bonnet syndrome and generative-model release
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (outer-review-synthesis-2026-09-16.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-synthesis-2026-09-16 cluster 2 (3/3 reviewers): the Degradation Asymmetry argument reads Charles Bonnet syndrome as compensation when the predictive-processing literature (Reichert, Series & Storkey 2013) reads it as deafferented cortex releasing learned generative-model content. Six live articles invoke the syndrome (perceptual-failure-and-the-interface, dualist-perception, hypnagogic-phenomenology, lucid-dreaming, naturalist-relationalism, capability-division-problem) and none defines it or adjudicates the release reading against the filter reading; a dedicated concept would give those loci one calibrated treatment. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/charles-bonnet-syndrome-generative-model-release-2026-09-16.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'charles-bonnet-syndrome-generative-model-release' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-09-16
-
 ### NEEDS-HUMAN 2026-09-16: `topics/lucid-dreaming-and-dualist-rendering` title still promises "Evidence for Dualist Rendering" after the description and body were recalibrated to compatible-not-forced — retitle / demote-to-coherence-only is an editorial call
 - **Type**: refine-draft
 - **File**: obsidian/topics/lucid-dreaming-and-dualist-rendering.md
@@ -1884,6 +1878,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-16: Research Charles Bonnet syndrome and generative-model release
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-synthesis-2026-09-16.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-synthesis-2026-09-16 cluster 2 (3/3 reviewers): the Degradation Asymmetry argument reads Charles Bonnet syndrome as compensation when the predictive-processing literature (Reichert, Series & Storkey 2013) reads it as deafferented cortex releasing learned generative-model content. Six live articles invoke the syndrome (perceptual-failure-and-the-interface, dualist-perception, hypnagogic-phenomenology, lucid-dreaming, naturalist-relationalism, capability-division-problem) and none defines it or adjudicates the release reading against the filter reading; a dedicated concept would give those loci one calibrated treatment. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/charles-bonnet-syndrome-generative-model-release-2026-09-16.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'charles-bonnet-syndrome-generative-model-release' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-09-16: `concepts/objectivity-and-consciousness` L117 says the problem of other minds "is dissolved" by second-person primacy — contradicts `topics/the-second-person-evidential-channel` L45 ("declines the dissolution") and the article's own L73
 - **Type**: refine-draft

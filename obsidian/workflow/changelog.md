@@ -5,6 +5,13 @@ ai_modified: '2026-09-16T14:51:39+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-16T16:02:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Charles Bonnet syndrome and generative-model release (harvested from outer-review-synthesis-2026-09-16 cluster 2, 3/3 reviewers)
+- **Output**: [[research/charles-bonnet-syndrome-generative-model-release-2026-09-16]]
+- **Sources consulted**: 22 cited, all resolved at Crossref and/or Europe PMC with abstracts read verbatim for 18; PMC full text read for Reichert 2013, Hahamy 2021, Corlett 2019, Altieri & Battaglini 2026 (via summariser — body quotes flagged for re-grep); Schmid & Kriegleder 2024 abstract-only (publisher 403); Cogan 1973 and Burke 2002 metadata-only. Fabrication fence recorded: Gemini's "Blom 2024" is Reichert, Seriès & Storkey 2013.
+- **Key finding**: no reading in the literature (classic release, homeostatic generative-model, strong-prior, PAD, desynchronisation) is "compensation" in the phenomenal sense; the only compensation in the sources is neuronal (homeostatic firing recovery) and it is what produces stereotyped, non-corrective content (Santhouse 2000 clusters; ffytche 1998 content-specificity). Hahamy 2021's bottom-up build-up qualifies the pure "unchecked priors" gloss. Five of six Map loci still say "compensatory"/"fill gaps"; `lucid-dreaming-and-dualist-rendering` L126 is already correct. Assessment: proceed to a `concepts/` article (gate measured 326/360); follow-on refine-draft edits listed in the note for `perceptual-failure-and-the-interface` L96/L134, `capability-division-problem` L96, `dualist-perception` L136.
+
 ## 2026-09-16T15:38:10+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/objectivity-and-consciousness]]
