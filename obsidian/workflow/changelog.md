@@ -4,6 +4,16 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-17T01:44:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-17T01:52:48+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/improper-vs-proper-mixtures]]
+- **Review file**: [[reviews/tenet-check-2026-09-17]] (Family G, item 1 of the priority list)
+- **Original score**: n/a (targeted Tenet 2 correction; no general review run)
+- **Changes**: Two phrase swaps only. L58: "Bohmian mechanics and objective collapse, both of which the Map declines" → "Bohmian mechanics and consciousness-free objective collapse, both of which the Map declines" (the Map adopts objective collapse as the prebiotic baseline per tenets.md L125; it declines the consciousness-free version as the whole story). L96: "confirmation of such dynamics would remove the locus where consciousness is proposed to act" → "confirmation of such dynamics would fix the baseline the Map's [[prebiotic-collapse|prebiotic resolution]] already assumes; only a regime leaving no neural slack would remove the locus where consciousness is proposed to act" — matches tenets.md L125 ("objective reduction with consciousness modulation … baseline collapse throughout the universe") and `topics/forward-in-time-conscious-selection` L157 ("one collapse dynamics with a special case … consciousness biases *which* element"). Piped link added because `obsidian/concepts/prebiotic-collapse.md` resolves (single file, no collision).
+- **Length**: 3269w → 3287w (+18; concepts soft 2500 / hard 3500, status unchanged `soft_warning`)
+- **Verification**: synced; "consciousness-free objective collapse" = 1 hit in each tree; Hugo renders the pipe as `/concepts/prebiotic-collapse/`. Remaining Family G loci (`metaphysics-of-laws` L150/L174) are a separate task. Two other P3s target this file at different loci; the later one re-measures.
+- **Published**: yes
+
 ## 2026-09-17T01:44:19+00:00 - tune-system
 - **Status**: Success
 - **Sessions analyzed**: 20 recent_tasks entries (to session 20721); 120 changelog entries 2026-09-14..17; 37 live-loop iterations since 2026-09-16 15:00 UTC

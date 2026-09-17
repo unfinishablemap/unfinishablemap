@@ -4,7 +4,7 @@ description: "What separates improper from proper mixtures, why decoherence leav
 created: 2026-09-03
 modified: 2026-09-03
 human_modified:
-ai_modified: 2026-09-16T11:49:18+00:00
+ai_modified: 2026-09-17T01:52:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -55,7 +55,7 @@ Two calibrations follow. First, the argument is not a formal theorem, and presen
 
 The deflationary rejoinder—that a sufficiently decohered improper mixture behaves operationally as a proper one, so the distinction makes no practical difference—usually travels under Bell's acronym FAPP, "for all practical purposes." The history of that acronym runs against the rejoinder. Bell coined it in "Against 'measurement'" (1990) as an accusation: the textbook formulation with vaguely defined collapse is "adequate FAPP," yet "It remains that the theory is ambiguous in principle, about exactly when and exactly how the collapse occurs, about what is microscopic and what is macroscopic." Bell conceded the operational point in full—"I am fully convinced of the practical elusiveness, even the absence FAPP, of interference between macroscopically different states"—while refusing the inference from FAPP-adequacy to fundamental adequacy. Wearing FAPP as a badge is the inverted use, and it is the attitude Bell wrote the paper against. The inversion has been durable: Grangier's 2026 survey describes FAPP as naming the view that quantum mechanics works too well in practice for its conceptual difficulties to matter, an attitude decoherence theory has "greatly reinforced."
 
-Bell is an ally on the diagnosis, not the cure: his preferred exits were Bohmian mechanics and objective collapse, both of which the Map declines. What survives him is narrower and sturdier: operational equivalence for embedded observers does not by itself settle what the situation is.
+Bell is an ally on the diagnosis, not the cure: his preferred exits were Bohmian mechanics and consciousness-free objective collapse, both of which the Map declines. What survives him is narrower and sturdier: operational equivalence for embedded observers does not by itself settle what the situation is.
 
 ## Is the Distinction Empirically Detectable? {#detectability}
 
@@ -93,7 +93,7 @@ The insolubility theorems—the family descending from von Neumann through Fine,
 
 What could still close the gap therefore comes in exactly four live forms:
 
-1. **Empirically confirmed objective collapse.** New non-unitary dynamics could produce proper mixtures physically. This route is real, testable and already being narrowed: the Gran Sasso underground search for the spontaneous radiation such dynamics predict rules out the natural parameter-free version of the Diósi–Penrose model (Donadi et al. 2020). The Map tracks the wider programme in [[testing-consciousness-collapse]]; confirmation of such dynamics would remove the locus where consciousness is proposed to act.
+1. **Empirically confirmed objective collapse.** New non-unitary dynamics could produce proper mixtures physically. This route is real, testable and already being narrowed: the Gran Sasso underground search for the spontaneous radiation such dynamics predict rules out the natural parameter-free version of the Diósi–Penrose model (Donadi et al. 2020). The Map tracks the wider programme in [[testing-consciousness-collapse]]; confirmation of such dynamics would fix the baseline the Map's [[prebiotic-collapse|prebiotic resolution]] already assumes; only a regime leaving no neural slack would remove the locus where consciousness is proposed to act.
 2. **Everett.** Accept that no single outcome is selected. Tenet 4 territory, adjudicated at [[many-worlds-argument]]—a full interpretive commitment, not a deflation of one distinction.
 3. **Epistemic reinterpretation of states.** On QBist-style readings the distinction becomes inapplicable rather than false—at the price of an epistemic account of the quantum state generally.
 4. **Hidden variables.** On a Bohmian reading the gap never opens: particle positions are always definite, so outcomes are determinate without non-unitary collapse, without branching, and without an epistemic account of the state. The insolubility theorems do not bar this route, since they constrain what *unitary* dynamics alone can reproduce and Bohm adds variables the wave function does not contain. The Map declines it—it is one of the two exits Bell preferred, noted above—but declining is not refuting, and the route stays open to anyone who does not share the Map's reasons.
