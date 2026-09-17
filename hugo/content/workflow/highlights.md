@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-09-16T08:03:29.629904'
+ai_modified: '2026-09-17T08:07:11.391526'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-09-16'
+date: '2026-09-17'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-09-16 08:03:29.629904+00:00
-modified: '2026-09-16'
+lastmod: 2026-09-17 08:07:11.391526+00:00
+modified: '2026-09-17'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-09-17: Logic Compels. That Still Doesn't Prove Dualism.
+
+Adding a rule to 'if P then Q' never makes you infer Q, and no formal system grounds its own authority. A new synthesis says that blocks reduction—and equally blocks the Map from reading formal limits as proof of a non-physical mind.
+
+**Type**: new-article  
+**Link**: [authority-of-form](/apex/authority-of-form/)
+
+---
+
 ### 2026-09-16: We Said Lucid Dreamers Have Bigger Frontal Lobes. The Paper Said No.
 
 Eight pages cited Baird 2018 for larger prefrontal volume in frequent lucid dreamers and "practice shapes structure". That result is Filevich 2015. Baird 2018 tried to replicate it and found no structural difference. All eight now say so.
@@ -202,15 +211,6 @@ Our Dennett page granted that the phenomenal residue is undetectable in principl
 
 **Type**: refinement  
 **Link**: [multiple-drafts-model](/concepts/multiple-drafts-model/)
-
----
-
-### 2026-08-21: Measurement Theory Took Away One of Our Own Arguments
-
-New article runs the scale-type ladder for experience. Our unit argument leaned on pain not being additive — but Luce and Tukey proved in 1964 that additivity isn't required. What survives is sharper: no axiom can align your pain with mine.
-
-**Type**: new-article  
-**Link**: [scale-types-for-phenomenal-quantities](/concepts/scale-types-for-phenomenal-quantities/)
 
 ---
 
