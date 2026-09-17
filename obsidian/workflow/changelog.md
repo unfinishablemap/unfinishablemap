@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-17T02:51:29+00:00'
+ai_modified: '2026-09-17T04:01:25+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-17T04:01:25+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (target-specific audit; subject `concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience`, source fallback:recent-aged)
+- **File**: [[reviews/outer-review-2026-09-17-chatgpt-5-6-sol-pro]]
+- **Claims verified**: 12 (5 verbatim attributions all present; Yi quotes re-confirmed at OpenAlex; Barrett omission real; PMIDs 24416308 / 32217822 / 32950231 resolve to the papers claimed; chemotaxis-neighbour gap measured; interoception distinction and control-law "specification" line confirmed) — 4 partially disputed (Aoki's "arbitrary" is the paper's own word; body does not treat bacteria as known-unfelt; Man & Damasio already framed as a proposal; Tenet 3 "oscillation" is a clarity defect given P-Q1) — 3 unverified (Yi full text, op-amp textbook claims, Chalmers OI compatibility)
+- **High-value findings**: 4 (non-sufficiency → evidential-orthogonality slide, contradicting the body's own "defeasible functional marker at best"; RPA/Yi/Aoki/op-amp scope conditions; chemotaxis neighbour lacks the finite-range boundary; title calibration — convergent with optimistic 2026-09-11 and two deep reviews)
+- **Tasks generated**: 3 new (P1: 1 argument-calibration refine-draft; P2: 2 — empirical scope pass on the target, boundary install on the chemotaxis neighbour) + 1 upgraded (title-calibration P3→P2). Methodology proposals #25/#26 surfaced in Verification Notes for the operator, not minted.
+- **Pending entry**: `outer-review-2026-09-17-chatgpt-5-6-sol-pro.md` marked collected (47,851 bytes, SHA-256 verified page-side vs disk)
+
 ## 2026-09-17T03:40:32+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/emergence-as-universal-hard-problem]]
