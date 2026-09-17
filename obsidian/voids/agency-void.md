@@ -4,7 +4,7 @@ description: "Consciousness cannot control most of its own states, and cannot ve
 created: 2026-02-25
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-08-13T14:23:24+00:00
+ai_modified: 2026-09-17T12:41:52+00:00
 last_deep_review: 2026-07-19T11:31:23+00:00
 draft: false
 topics:
@@ -69,7 +69,7 @@ Under the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] 
 
 The two limits interact. Wide control without self-verification would still be agentive; narrow control with reliable self-verification would yield a precisely mappable limit. The void lies in their conjunction: without self-verification, consciousness cannot tell whether the involuntariness it meets is *of its agency* (a faculty it has but cannot exercise here) or *of its absence of agency* (a faculty it lacks). The distinction that would normally let a subject map its own boundary is unavailable, so the involuntary domain is uncharted from inside ([[conjunction-coalesce|conjunction-coalesce]]).
 
-[[decision-void|The decision void]] targets a within-agency case—the deliberation→commitment crossing, on its own three-face conjunction (closure, latency, reconstruction). Agency-void catalogues limits on agency *in general*; decision-void, the opacity at the moment possibilities collapse into a single choice.
+Agency-void catalogues limits on agency *in general*; [[decision-void|the decision void]] targets one within-agency case, the deliberation→commitment crossing.
 
 ## What Cannot Be Controlled
 
@@ -89,7 +89,7 @@ Between helplessness and sovereignty lies a structured spectrum. **Attention** i
 
 The passive face has internal mechanism, visible where consciousness cannot prevent specific contents from returning. Three structurally distinct faces sharpen it.
 
-**Intrusion** concerns content selection. Clark and Rhyno (2005) report unwanted-intrusive-thought prevalence of 74%–99% in non-clinical populations, replicated across thirteen countries (Radomsky et al., 2014). Berntsen (2010) finds involuntary autobiographical memories outnumber deliberately retrieved ones roughly 2:1. Beaman and Williams (2010) document earworms in 89% of people weekly—"automatic mental singing" without any sense of authorship. The cross-cultural pervasiveness suggests a structural feature of consciousness.
+**Intrusion** concerns content selection. Clark and Rhyno (2005) report unwanted-intrusive-thought prevalence of 74%–99% in non-clinical populations, replicated across thirteen countries (Radomsky et al., 2014). Berntsen (2010) finds involuntary autobiographical memories outnumber deliberately retrieved ones roughly 2:1. Beaman and Williams (2010) document earworms in 89% of people weekly—"automatic mental singing" without any sense of authorship.
 
 **Rebound** concerns control-attempt feedback. Wegner's (1994) ironic-process theory: mental control deploys an *operating process* searching for state-consistent contents and a *monitoring process* searching for state-inconsistent contents—and the monitor must hold the unwanted content in attention to detect it. Wang, Hagger, and Chatzisarantis (2020) temper the claim: post-suppression rebound is numerically reversed in 18%–46% of cases. The structural argument survives: any system detecting whether X is absent must represent X, and concurrent enhancement during suppression remains robust.
 
@@ -145,7 +145,7 @@ If consciousness is non-physical and causally efficacious, why can it not govern
 
 **Certainty-doubt oscillation.** The experience of willing is among the most vivid we have—we feel certain we are agents, yet philosophical reflection immediately destabilises the certainty. The oscillation is the signature of a genuine boundary.
 
-**The vanishing target.** When you try to catch yourself causing something, the observation becomes the object and the causal act recedes behind it—the [[tacit-integration-void|tacit-integration]] structure applied to causal self-inspection. Catching one's own *deciding* is the closure face of [[decision-void|the decision void]]: a sealed event admitting no slow-motion view.
+**The vanishing target.** When you try to catch yourself causing something, the observation becomes the object and the causal act recedes behind it—the [[tacit-integration-void|tacit-integration]] structure applied to causal self-inspection. Phenomenology gives this a motor form: Merleau-Ponty's *motor intentionality* and Dreyfus's *absorbed coping* describe skilled action as responsive to the world without intervening representation, which reflection converts into an object rather than reveals. Verification then runs in the reflective mode, not the participatory mode whose causal status it was meant to settle. This is the tradition's description, not an experimental finding, and it constrains introspective verification without favouring dualism. Catching one's own *deciding* is the closure face of [[decision-void|the decision void]]: a sealed event admitting no slow-motion view.
 
 **The meditation edge.** Contemplative cessation is effortful effortlessness—nirodha comes from relinquishing the attempt while maintaining precise conditions, the effort void's modulation face at its limit. Thompson (2014) documents how waking, dreaming, and deep sleep reveal different consciousness–control relationships; the boundary is state-dependent.
 
@@ -176,11 +176,11 @@ The void is also [[tenet-generated-voids|tenet-generated]]: the Map's commitment
 - [[single-cell-proto-agency-and-the-evidence-problem|Single-Cell Proto-Agency and the Evidence Problem]] — this void's verification limit seen from outside and at the prokaryotic floor: no third-person observable separates a proto-agent from a complete mechanism, a case of the in-principle undecidability this void anticipates
 - [[transit-void]] — Operational complement: thought *generation* vs recurrence's *re-presentation*
 - [[mine-ness]] — Mineness of the unbidden content
-- [[necessary-opacity]] — Representational sibling: this void asks whether the agent can verify it *caused* anything; necessary opacity, whether the medium reporting the answer *tracks reality* at all
+- [[necessary-opacity]] — Representational sibling: whether the reporting medium *tracks reality* at all
 - [[noetic-feelings-void]] — The felt texture of intrusion as itself a noetic feeling
 - [[inference-void]] — Every act of self-checking is itself an inference with opaque grounding
-- [[research/voids-effort-void-2026-05-08|The Effort Void (research-stage)]] — Three-face survey (calibration / depletion / modulation) of mental effort's opacity; the action-side analogue of [[noetic-feelings-void]], now incorporated into this article's verification face (see "Effort as the action-side gate")
-- [[research/voids-participation-void-2026-02-17|The Participation Void (research-stage)]] — Motor-intentionality face of this article's verification opacity: Merleau-Ponty's pre-reflective motor intentionality and Dreyfus's absorbed-coping converge on the participating agent being causally enmeshed with the world in ways reflective observation *transforms* rather than reveals—so the very capacity to verify operates from a mode incompatible with the participatory mode whose causal status it was meant to settle. Cap-deferred, awaiting absorption
+- [[research/voids-effort-void-2026-05-08|The Effort Void (research-stage)]] — Survey of mental effort's opacity, incorporated in "Effort as the action-side gate"
+- [[research/voids-participation-void-2026-02-17|The Participation Void (research-stage)]] — Survey of enacted versus represented experience; its motor-intentionality face is folded into "The vanishing target"
 - [[tenet-generated-voids|Tenet-Generated Voids]] — How each tenet generates its characteristic void
 - [[topics/free-will|Free Will]] — The broader context for questions of agency
 - [[agent-causation|Agent Causation]] — The philosophical concept of the self as cause
@@ -193,26 +193,28 @@ The void is also [[tenet-generated-voids|tenet-generated]]: the Map's commitment
 4. Damasio, A. (1994). *Descartes' Error: Emotion, Reason, and the Human Brain*. Putnam.
 5. De Brigard, F. (2014). "In Defence of the Self-Stultification Objection." *Journal of Consciousness Studies*.
 6. Desantis, A., Hughes, G., & Waszak, F. (2012). "Intentional Binding Is Driven by the Mere Presence of an Action and Not by Motor Prediction." *PLoS ONE*, 7(1), e29557.
-7. Hagger, M.S., Chatzisarantis, N.L.D., et al. (2016). "A Multilab Preregistered Replication of the Ego-Depletion Effect." *Perspectives on Psychological Science*, 11(4), 546–573.
-8. Haggard, P., Clark, S., & Kalogeras, J. (2002). "Voluntary Action and Conscious Awareness." *Nature Neuroscience*, 5(4), 382–385.
-9. Inzlicht, M., & Schmeichel, B.J. (2012). "What Is Ego Depletion? Toward a Mechanistic Revision of the Resource Model of Self-Control." *Perspectives on Psychological Science*, 7(5), 450–463.
-10. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-11. Kurzban, R., Duckworth, A., Kable, J.W., & Myers, J. (2013). "An Opportunity Cost Model of Subjective Effort and Task Performance." *Behavioral and Brain Sciences*, 36(6), 661–679.
-12. Laukkonen, R.E., et al. (2023). "Cessations of Consciousness in Meditation: Advancing a Scientific Understanding of Nirodha Samapatti." *Progress in Brain Research*, 280.
-13. Libet, B. et al. (1983). "Time of Conscious Intention to Act in Relation to Onset of Cerebral Activity." *Brain*, 106(3), 623–642.
-14. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
-15. Montupil, J., et al. (2023). "The Nature of Consciousness in Anaesthesia." *BJA Open*, 8, 100224.
-16. Naccache, L., Dehaene, S., Cohen, L., Habert, M.-O., Guichart-Gomez, E., Galanaud, D., & Willer, J.-C. (2005). "Effortless Control: Executive Attention and Conscious Feeling of Mental Effort Are Dissociable." *Neuropsychologia*, 43(9), 1318–1328.
-17. Nolen-Hoeksema, S., Wisco, B.E., & Lyubomirsky, S. (2008). "Rethinking Rumination." *Perspectives on Psychological Science*, 3(5), 400–424.
-18. Owen, M. (2020). "The Causal Efficacy of Consciousness." *Entropy*, 22(8), 823.
-19. Radomsky, A.S., et al. (2014). "Part 1—You Can Run but You Can't Hide: Intrusive Thoughts on Six Continents." *Journal of Obsessive-Compulsive and Related Disorders*, 3(3), 269–279.
-20. Schopenhauer, A. (1818/1966). *The World as Will and Representation*. Dover Publications.
-21. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). "An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement." *PNAS*, 109(42), E2904–E2913.
-22. Seghezzi, S., Parés-Pujolràs, E., & Haggard, P. (2025). "Intentional binding decreases during learning: implications for sense of agency." *Quarterly Journal of Experimental Psychology*. https://doi.org/10.1177/17470218251349521
-23. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
-24. Wang, D.A., Hagger, M.S., & Chatzisarantis, N.L.D. (2020). "Ironic Effects of Thought Suppression: A Meta-Analysis." *Perspectives on Psychological Science*, 15(3), 778–793.
-25. Wegner, D.M. (1994). "Ironic Processes of Mental Control." *Psychological Review*, 101(1), 34–52.
-26. Wegner, D.M. (2002). *The Illusion of Conscious Will*. MIT Press.
-27. Wegner, D.M., & Wheatley, T. (1999). "Apparent Mental Causation: Sources of the Experience of Will." *American Psychologist*, 54(7), 480–492.
-28. Wen, W., & Imamizu, H. (2022). "The sense of agency in perception, behaviour and human–machine interactions." *Nature Reviews Psychology*, 1, 211–222.
-29. Westbrook, A., & Braver, T.S. (2016). "Dopamine Does Double Duty in Motivating Cognitive Effort." *Neuron*, 89(4), 695–710.
+7. Dreyfus, H. L. (2014). *Skillful Coping: Essays on the Phenomenology of Everyday Perception and Action*. Oxford University Press.
+8. Hagger, M.S., Chatzisarantis, N.L.D., et al. (2016). "A Multilab Preregistered Replication of the Ego-Depletion Effect." *Perspectives on Psychological Science*, 11(4), 546–573.
+9. Haggard, P., Clark, S., & Kalogeras, J. (2002). "Voluntary Action and Conscious Awareness." *Nature Neuroscience*, 5(4), 382–385.
+10. Inzlicht, M., & Schmeichel, B.J. (2012). "What Is Ego Depletion? Toward a Mechanistic Revision of the Resource Model of Self-Control." *Perspectives on Psychological Science*, 7(5), 450–463.
+11. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+12. Kurzban, R., Duckworth, A., Kable, J.W., & Myers, J. (2013). "An Opportunity Cost Model of Subjective Effort and Task Performance." *Behavioral and Brain Sciences*, 36(6), 661–679.
+13. Laukkonen, R.E., et al. (2023). "Cessations of Consciousness in Meditation: Advancing a Scientific Understanding of Nirodha Samapatti." *Progress in Brain Research*, 280.
+14. Libet, B. et al. (1983). "Time of Conscious Intention to Act in Relation to Onset of Cerebral Activity." *Brain*, 106(3), 623–642.
+15. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Trans. D. A. Landes. Routledge.
+16. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
+17. Montupil, J., et al. (2023). "The Nature of Consciousness in Anaesthesia." *BJA Open*, 8, 100224.
+18. Naccache, L., Dehaene, S., Cohen, L., Habert, M.-O., Guichart-Gomez, E., Galanaud, D., & Willer, J.-C. (2005). "Effortless Control: Executive Attention and Conscious Feeling of Mental Effort Are Dissociable." *Neuropsychologia*, 43(9), 1318–1328.
+19. Nolen-Hoeksema, S., Wisco, B.E., & Lyubomirsky, S. (2008). "Rethinking Rumination." *Perspectives on Psychological Science*, 3(5), 400–424.
+20. Owen, M. (2020). "The Causal Efficacy of Consciousness." *Entropy*, 22(8), 823.
+21. Radomsky, A.S., et al. (2014). "Part 1—You Can Run but You Can't Hide: Intrusive Thoughts on Six Continents." *Journal of Obsessive-Compulsive and Related Disorders*, 3(3), 269–279.
+22. Schopenhauer, A. (1818/1966). *The World as Will and Representation*. Dover Publications.
+23. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). "An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement." *PNAS*, 109(42), E2904–E2913.
+24. Seghezzi, S., Parés-Pujolràs, E., & Haggard, P. (2025). "Intentional binding decreases during learning: implications for sense of agency." *Quarterly Journal of Experimental Psychology*. https://doi.org/10.1177/17470218251349521
+25. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
+26. Wang, D.A., Hagger, M.S., & Chatzisarantis, N.L.D. (2020). "Ironic Effects of Thought Suppression: A Meta-Analysis." *Perspectives on Psychological Science*, 15(3), 778–793.
+27. Wegner, D.M. (1994). "Ironic Processes of Mental Control." *Psychological Review*, 101(1), 34–52.
+28. Wegner, D.M. (2002). *The Illusion of Conscious Will*. MIT Press.
+29. Wegner, D.M., & Wheatley, T. (1999). "Apparent Mental Causation: Sources of the Experience of Will." *American Psychologist*, 54(7), 480–492.
+30. Wen, W., & Imamizu, H. (2022). "The sense of agency in perception, behaviour and human–machine interactions." *Nature Reviews Psychology*, 1, 211–222.
+31. Westbrook, A., & Braver, T.S. (2016). "Dopamine Does Double Duty in Motivating Cognitive Effort." *Neuron*, 89(4), 695–710.

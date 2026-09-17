@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-24
-ai_modified: 2026-09-17 12:23:03+00:00
+ai_modified: 2026-09-17 12:41:52+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 22:29:17+00:00
-lastmod: 2026-09-17 12:23:03+00:00
+lastmod: 2026-09-17 12:41:52+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -128,7 +128,7 @@ Psychedelic and mystical noesis and the dissolving insight of contemplative prac
 
 **Noesis as a metacognitive feeling.** Seragnoli et al. (2025) propose that the noetic facet of psychedelic mystical-type experience is a metacognitive feeling of *epistemic gain*—the "Aha!" signal, procedural and outcome-related, rather than an apprehension of what was gained. Their account is a theoretical framework rather than an empirical demonstration, but it places noesis squarely inside the family catalogued above: a verdict presenting itself as awareness of its object.
 
-**Insight signals do not select for truth.** Topolinski and Reber (2010) ground the felt rightness of insight in a sudden fluency increase rather than in the answer's correctness. Danek and Wiley (2017) found false insights arriving with the same pleasure, suddenness, certainty and relief as true ones, not categorically separable from inside. Laukkonen et al. (2020) showed that artificially induced aha-moments raise the judged truth of *unrelated* propositions. McGovern et al. (2024) integrate this into the FIBUS model: psychedelics increase both the quantity and the subjective intensity of insights, and thereby of beliefs, including false ones. The salience machinery amplifies the signal without discriminating on truth—this void's fluency-driven stop-sign, running at gain.
+**Insight signals do not select for truth.** Topolinski and Reber (2010) ground the felt rightness of insight in a sudden fluency increase rather than in the answer's correctness. Danek and Wiley (2017) found false insights sharing the pleasure, suddenness and certainty of true ones—weaker on average, with relief marking only correct solutions—so the aha is no definitive signal of truth. Laukkonen et al. (2020) showed that artificially induced aha-moments raise the judged truth of *unrelated* propositions. McGovern et al. (2024) integrate this into the FIBUS model: psychedelics increase both the quantity and the subjective intensity of insights, and thereby of beliefs, including false ones. The salience machinery amplifies the signal without discriminating on truth—this void's fluency-driven stop-sign, running at gain.
 
 **The experiences are not one construct.** Canby et al. (2024) surveyed 386 people across meditative, psychedelic, and psychopathological contexts and found mystical experience, non-dual awareness, selflessness, self-transcendence, and ego-dissolution highly overlapping, imprecisely distinguished, and poorly integrated with pathological analogues; factor analysis resolved sixteen experience characteristics rather than one profile. A unified "edge-experience profile" is a measurement hypothesis, not an established finding.
 
@@ -208,7 +208,7 @@ The cluster-level conditions are taken up separately in [the apex's falsificatio
 - [decision-void](/voids/decision-void/) — The deliberation→commitment closure whose felt click is a noetic-feelings verdict
 - [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) — Whether thinking-as-such has a proprietary phenomenal kind distinct from sensory imagery, inner speech, and the noetic feelings catalogued here. The [research note](/research/voids-cognitive-phenomenology-void-2026-05-01/) frames its three-face structural irresolvability (introspective / dialectical / empirical-architectural), anchored by the Würzburg-Titchener controversy of c.1900–1915
 - [The Effort Void (research-stage)](/research/voids-effort-void-2026-05-08/) — Action-side analogue: where noetic feelings gate cognition's acceptance, effort feelings gate its deployment, and both gating systems are sub-personal. Cap-deferred, awaiting absorption primarily into [agency-void](/voids/agency-void/) with secondary points of contact here
-- [The Insight Void (research-stage)](/research/voids-insight-void-2026-05-14/) — Three-face survey of impasse-breaking (restructuring / antecedent-blindness / calibration). The calibration face is a direct face of this void and is now absorbed into [the altered-states section](#noetic-quality-in-altered-states) above; the operation-void core (restructuring + antecedent-blindness) remains cap-deferred, potentially routing instead to [transit-void](/voids/transit-void/)
+- [The Insight Void (research-stage)](/research/voids-insight-void-2026-05-14/) — Survey of impasse-breaking; its calibration face is absorbed [above](#noetic-quality-in-altered-states), its operation-void parallel into [the decision void](/voids/decision-void/#distinguishing-sibling-voids); the restructuring face remains unhosted, [transit-void](/voids/transit-void/) the candidate
 - [epistemic-emotions](/concepts/epistemic-emotions/) — The phenomenally rich extension of the noetic family
 - [apophatic-cartography](/voids/apophatic-cartography/) — Mapping territory by the shape of its boundary
 - [memory-anomalies](/topics/memory-anomalies/) — Déjà vu, jamais vu, cryptomnesia as edge-phenomena revealing the architecture

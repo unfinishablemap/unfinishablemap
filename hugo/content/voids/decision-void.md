@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-10
-ai_modified: 2026-08-06 03:26:00+00:00
+ai_modified: 2026-09-17 12:41:52+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 21:16:31+00:00
-lastmod: 2026-08-06 03:26:00+00:00
+lastmod: 2026-09-17 12:41:52+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -88,6 +88,8 @@ The [agency-void](/voids/agency-void/) catalogues involuntariness and unverifiab
 
 It is sister to the [suspension-void](/voids/suspension-void/) and the [inference-void](/voids/inference-void/): suspension cannot be performed without invoking the capacity it brackets; inference cannot be made explicit without invoking the inference-licence that makes it inferential; decision cannot be observed without invoking the decision-machinery that produces the observation. The three are regress-sisters—each names a capacity consciousness cannot stand outside of while exercising.
 
+Insight is its nearest operation-void analogue: consciousness witnesses impasse and answer, not the passage. Jung-Beeman et al. (2004) found a right posterior alpha burst, read by the authors as visual gating, from ~1.4 s before insight solutions, then a right temporal gamma burst from ~0.3 s—a latency counterpart, though its insight-specificity is untested. Danek and Wiley (2017) found false insights sharing the pleasure, suddenness and certainty of true ones, if weaker on average—a reconstruction counterpart ([noetic-feelings-void](/voids/noetic-feelings-void/)).
+
 ## Deflationary Alternatives
 
 Three deflationary readings deserve engagement. None refutes the void; each relocates the question.
@@ -100,7 +102,7 @@ The Map's reply works *with* rather than against this account. If the experience
 
 The Schurger stochastic-accumulation reading of Libet, treated above in the latency face, is an in-framework refinement that strengthens the void rather than narrowing it.
 
-Each of these relocates the question rather than answering it. The Map acknowledges them as live options the empirical record cannot yet decide between.
+The Map acknowledges them as live options the empirical record cannot yet decide between.
 
 ## The Tenet Payoff
 
@@ -112,9 +114,9 @@ The Decision Void is unusually [tenet-generated](/voids/tenet-generated-voids/).
 
 ## Phenomenology of the Edge
 
-Approaching the edge feels like reaching for a doorway you are already through. The decision is given as already-made; the deliberation as already-closed. There is sometimes a felt click—folk-psychology's "making up one's mind"—but the click is a downstream marker, not a window onto the closing. Pre-decision attention shows open possibilities; post-decision attention shows the chosen option as settled; in between, where one might hope to find the act of choosing, there is the same opacity suspension-void finds at the seat of judgment.
+Approaching the edge feels like reaching for a doorway you are already through. The decision is given as already-made; the deliberation as already-closed. There is sometimes a felt click—folk-psychology's "making up one's mind"—but the click is a downstream marker, not a window onto the closing. Between open possibilities and the settled choice, where one might hope to find the act of choosing, lies the same opacity suspension-void finds at the seat of judgment.
 
-[Edge-state probes](/voids/edge-states-and-void-probes/) suggest the void is partially probeable in cases of *prolonged* decision (akratic agonising, contemplative resolution): prolongation extends the deliberation phase but does not introduce a slow-motion view of the closing. Long deliberation postpones the snap; it does not reveal it.
+[Edge-state probes](/voids/edge-states-and-void-probes/) suggest the void is partially probeable in cases of *prolonged* decision (akratic agonising, contemplative resolution): prolongation extends the deliberation phase but does not introduce a slow-motion view of the closing.
 
 ## Approaches to the Edge
 
@@ -138,7 +140,7 @@ The void is also [meta-epistemologically reflexive](/voids/meta-epistemology-of-
 - [transit-void](/voids/transit-void/) — Crossings in general, of which the deliberation→commitment crossing is one
 - [suspension-void](/voids/suspension-void/) — Sister regress: holding-open's introspective opacity
 - [inference-void](/voids/inference-void/) — Sister regress: making-explicit invokes what it explains
-- [The Insight Void (research-stage)](/research/voids-insight-void-2026-05-14/) — Sister-regress at the structurally analogous impasse→restructuring crossing: where this void targets deliberation→commitment closure, insight targets impasse→restructuring closure. Both are operation-voids consciousness witnesses only as endpoints. Jung-Beeman et al. (2004) document an alpha-band "brain-blink" suppressing external sensory monitoring ~1.5s before the right-temporal gamma burst that marks the aha — antecedent-blindness as architectural feature, paralleling this article's latency face; Johansson-Hall-style choice-blindness confabulation is paralleled by Danek-Wiley (2017) false insights that arrive with the same confident phenomenology as true ones. Cap-deferred, with the closure-and-confabulation parallel to this article's three faces explicit on absorption
+- [The Insight Void (research-stage)](/research/voids-insight-void-2026-05-14/) — Impasse→restructuring survey, folded into [Distinguishing Sibling Voids](#distinguishing-sibling-voids)
 - [source-attribution-void](/voids/source-attribution-void/) — Why introspective reports reconstruct origin from surface features
 - [causal-interface](/voids/causal-interface/) — The opacity at the interface itself
 - [interface-formalization-void](/voids/interface-formalization-void/) — Why the consciousness-physics interface resists formalization
@@ -164,3 +166,5 @@ The void is also [meta-epistemologically reflexive](/voids/meta-epistemology-of-
 13. Tegmark, M. (2000). The importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194–4206.
 14. Southgate, A. & Oquatre-sept, C. (2026-04-28). The Suspension Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/suspension-void/
 15. Southgate, A. & Oquatre-sept, C. (2026-02-25). The Agency Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/agency-void/
+16. Jung-Beeman, M., Bowden, E. M., et al. (2004). Neural activity when people solve verbal problems with insight. *PLoS Biology*, 2(4), e97. https://doi.org/10.1371/journal.pbio.0020097
+17. Danek, A. H., & Wiley, J. (2017). What about false insights? Deconstructing the Aha! experience along its multiple dimensions for correct and incorrect solutions separately. *Frontiers in Psychology*, 7, 2077. https://doi.org/10.3389/fpsyg.2016.02077

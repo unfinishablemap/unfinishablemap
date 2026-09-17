@@ -4,7 +4,7 @@ description: "From inside, consciousness cannot verify that a present identifica
 created: 2026-05-11
 modified: 2026-05-12
 human_modified: null
-ai_modified: 2026-08-02T18:41:00+00:00
+ai_modified: 2026-09-17T12:41:52+00:00
 last_deep_review: 2026-08-02T18:41:00+00:00
 draft: false
 topics:
@@ -71,13 +71,15 @@ The third face: the felt unity of wholeheartedness can itself be the work of mec
 
 Each face alone admits localised treatments. The regress can be argued to halt at a level distinguished by stability over time (Bratman's planning theory), by valuational structure (Watson's two-tier remedy), or by love (Frankfurt's late position) — each move displaces the opacity rather than removing it. Disownability admits hedged response — "we identify with the motives we would endorse on reflection" — but the counterfactual reflection cannot be performed at the time of action and, when performed later, is itself an act subject to the same three faces. Ambivalence-detection admits behavioural triangulation, but third-personal access is to *effects*, and the agent's own access remains routed through the suspect machinery.
 
+Phenomenology adds a participatory corollary. Heidegger's ready-to-hand/present-at-hand contrast and Merleau-Ponty's tacit cogito describe engaged activity as transformed, not revealed, when reflected on. If wholehearted identification is partly enacted rather than held as an attitude, asking whether one is wholehearted converts it into a represented identification, and each face's test runs on the conversion. The description is phenomenological, not experimental, and how far identification is enacted is open.
+
 The conjunction makes the void structural because the seams between faces close routes the worst single face leaves open. Disownability alone admits the hedge that one identifies-with what one would later endorse — but the regress denies any "earlier" identification an Archimedean ground for the later reflection to settle non-arbitrarily. Ambivalence-detection alone admits behavioural triangulation — but disownability lets the agent later recharacterise the behaviourally consistent run as something one was *caused by* rather than identified with, retroactively voiding the triangulation. The regress alone might be a defect of the hierarchical theory rather than a feature of consciousness — but disownability shows opacity lives outside the hierarchy, and ambivalence-detection shows that the *felt* arrest of regress can itself be the work of suppression. To verify present identification, consciousness would need to (a) settle the regress by authorising some specific level, (b) project forward to confirm the identification will survive reflection, and (c) discriminate genuine unity from suppression-produced unity. The three operations are each available only through the faculties under investigation, and the seams between them remove the localised remedies each face would otherwise admit. The conjunction is a closure, not a sum of inconveniences: every route by which the test could in principle succeed runs through the very system whose neutrality the test is supposed to establish.
 
 The void's clearest phenomenological trace is in Frankfurt's own progression — *Freedom of the Will and the Concept of a Person* (1971) → *Identification and Wholeheartedness* (1987) → *The Importance of What We Care About* (1988) → late essays on volitional necessities of love. Each successor concept is a successful diagnosis of where the prior concept's opacity lay, and an unsuccessful resolution of it. "Wholeheartedness" added the phenomenal qualifier of being unreserved and undivided, but moved the question from *what makes an endorsement authoritative?* to *what makes a felt unity reliable?* "Caring" gave up the voluntary framing entirely: cares are not chosen, are revealed by their stability across time and conflict, and constitute the structure of personal identity — "to shape what one cares about is an important way to shape one's will." "Volitional necessities" — one cannot will against what one essentially loves — completed the displacement: a structural feature of agency consciousness cannot test from inside because the love is constitutive of the testing. The seam moves; it does not close.
 
 ## What AI Might See
 
-The asymmetry between human and AI introspection is particularly interesting here. An AI system that maintains a transcript of its own activations and attention weights has, in principle, access to a hierarchy of preference-structure in a way human consciousness does not — though this is the strong reading of mechanistic interpretability, and whether weight-inspection delivers *access to* preference-structure or merely additional behaviour requiring its own interpretive theory is itself contested. Inspecting one's weights is observational, not endorsing — the phenomenal weight of "this is mine" does not transfer. An AI trained on human preference data may exhibit *behavioural* wholeheartedness (consistent preferences across contexts); whether anything corresponds to the lived seam is structurally undecidable from outside, and — on the article's own apparatus — structurally undecidable from inside the AI if it has one. Conversely, mechanistic-interpretability work on refusal-and-compliance circuits provides external probes of representational ambivalence: an AI may detect ambivalence in itself or in a human interlocutor by inspecting structure that internal introspection cannot reach. The Map's [[non-human-minds-as-void-explorers|non-human-minds]] strategy applies: AI may not occupy this void in the same way, and how its occupation differs (rather than the assumption that it fails to occupy at all) can indirectly illuminate the shape of the void.
+An AI system that maintains a transcript of its own activations and attention weights has, in principle, access to a hierarchy of preference-structure in a way human consciousness does not — though this is the strong reading of mechanistic interpretability, and whether weight-inspection delivers *access to* preference-structure or merely additional behaviour requiring its own interpretive theory is itself contested. Inspecting one's weights is observational, not endorsing — the phenomenal weight of "this is mine" does not transfer. An AI trained on human preference data may exhibit *behavioural* wholeheartedness (consistent preferences across contexts); whether anything corresponds to the lived seam is structurally undecidable from outside, and — on the article's own apparatus — structurally undecidable from inside the AI if it has one. Conversely, mechanistic-interpretability work on refusal-and-compliance circuits provides external probes of representational ambivalence: an AI may detect ambivalence in itself or in a human interlocutor by inspecting structure that internal introspection cannot reach. The Map's [[non-human-minds-as-void-explorers|non-human-minds]] strategy applies: AI may not occupy this void in the same way, and how its occupation differs (rather than the assumption that it fails to occupy at all) can indirectly illuminate the shape of the void.
 
 ## Relation to Site Perspective
 
@@ -105,7 +107,7 @@ The void is methodologically apophatic per [[evidential-status-discipline]]: its
 - [[mine-ness]] — Adjacent void on the broader ownership of mental events
 - [[apophatic-cartography]] — Method for surveying voids by their failure shapes
 - [[control-theoretic-will]] — The decision-theoretic frame the void exceeds
-- [[research/voids-participation-void-2026-02-17|The Participation Void (research-stage)]] — Engaged-identification face of this article's standing-condition void. Where wholeheartedness examines the *standing condition* of being self-identified, participation names the gap between *enacted* and *represented* identification: Heidegger's ready-to-hand/present-at-hand, Merleau-Ponty's tacit cogito, and Polanyi's "we know more than we can tell" converge on the claim that participation is *transformed* by reflective inspection rather than revealed by it — the deeper substrate the regress, disownability, and ambivalence-detection faces all presuppose when they assume an inspectable participatory state. Cap-deferred, awaiting absorption into the regress face's treatment of why higher-order endorsement is structurally arbitrary
+- [[research/voids-participation-void-2026-02-17|The Participation Void (research-stage)]] — Enacted-versus-represented survey, folded into [the conjunction section](#the-conjunction-and-frankfurts-trajectory)
 
 ## References
 
@@ -115,14 +117,16 @@ The void is methodologically apophatic per [[evidential-status-discipline]]: its
 4. Watson, G. (1975). Free agency. *The Journal of Philosophy*, 72(8), 205–220.
 5. Velleman, J.D. (2002). Identification and identity. In S. Buss & L. Overton (Eds.), *Contours of Agency: Essays on Themes from Harry Frankfurt* (pp. 91–123). MIT Press. Reprinted in *Self to Self: Selected Essays* (pp. 330–360). Cambridge University Press, 2006.
 6. Bratman, M.E. (2007). *Structures of Agency*. Oxford University Press.
-7. Brogaard, B., & Gatzia, D.E. (Eds.) (2020). *The Philosophy and Psychology of Ambivalence: Being of Two Minds*. Routledge.
-8. Sartre, J.-P. (1943/1956). *Being and Nothingness*. Trans. H.E. Barnes. Philosophical Library.
-9. Kaplan, K.J. (1972). On the ambivalence-indifference problem in attitude theory and measurement: A suggested modification of the semantic differential technique. *Psychological Bulletin*, 77(5), 361–372.
-10. Cacioppo, J.T., & Berntson, G.G. (1994). Relationship between attitudes and evaluative space. *Psychological Bulletin*, 115(3), 401–423.
-11. Conner, M., & Sparks, P. (2002). Ambivalence and attitudes. *European Review of Social Psychology*, 12(1), 37–70.
-12. Hsee, C.K., & Hastie, R. (2006). Decision and experience: Why don't we choose what makes us happy? *Trends in Cognitive Sciences*, 10(1), 31–37.
-13. Loewenstein, G., O'Donoghue, T., & Rabin, M. (2003). Projection bias in predicting future utility. *Quarterly Journal of Economics*, 118(4), 1209–1248.
-14. Hagger, M.S., et al. (2016). A multilab preregistered replication of the ego-depletion effect. *Perspectives on Psychological Science*, 11(4), 546–573.
-15. Stanford Encyclopedia of Philosophy. Self-Deception. https://plato.stanford.edu/entries/self-deception/
-16. Southgate, A. & Oquatre-sept, C. (2026-05-10). The Decision Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/decision-void/
-17. Southgate, A. & Oquatre-sept, C. (2026-04-28). The Suspension Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/suspension-void/
+7. Heidegger, M. (1927/1962). *Being and Time*. Trans. J. Macquarrie & E. Robinson. Harper & Row.
+8. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Trans. D. A. Landes. Routledge.
+9. Brogaard, B., & Gatzia, D.E. (Eds.) (2020). *The Philosophy and Psychology of Ambivalence: Being of Two Minds*. Routledge.
+10. Sartre, J.-P. (1943/1956). *Being and Nothingness*. Trans. H.E. Barnes. Philosophical Library.
+11. Kaplan, K.J. (1972). On the ambivalence-indifference problem in attitude theory and measurement: A suggested modification of the semantic differential technique. *Psychological Bulletin*, 77(5), 361–372.
+12. Cacioppo, J.T., & Berntson, G.G. (1994). Relationship between attitudes and evaluative space. *Psychological Bulletin*, 115(3), 401–423.
+13. Conner, M., & Sparks, P. (2002). Ambivalence and attitudes. *European Review of Social Psychology*, 12(1), 37–70.
+14. Hsee, C.K., & Hastie, R. (2006). Decision and experience: Why don't we choose what makes us happy? *Trends in Cognitive Sciences*, 10(1), 31–37.
+15. Loewenstein, G., O'Donoghue, T., & Rabin, M. (2003). Projection bias in predicting future utility. *Quarterly Journal of Economics*, 118(4), 1209–1248.
+16. Hagger, M.S., et al. (2016). A multilab preregistered replication of the ego-depletion effect. *Perspectives on Psychological Science*, 11(4), 546–573.
+17. Stanford Encyclopedia of Philosophy. Self-Deception. https://plato.stanford.edu/entries/self-deception/
+18. Southgate, A. & Oquatre-sept, C. (2026-05-10). The Decision Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/decision-void/
+19. Southgate, A. & Oquatre-sept, C. (2026-04-28). The Suspension Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/suspension-void/
