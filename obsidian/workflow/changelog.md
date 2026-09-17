@@ -5,6 +5,13 @@ ai_modified: '2026-09-17T04:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-17 15:22 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-probability-interpretation]]
+- **Original score**: n/a (targeted pass on pessimistic-2026-09-17 Issues 1+2, both High)
+- **Changes**: (a) Scope: limited "Born rule describes the statistical structure of consciousness's selections", "third-person description of a first-person process", the §Why Consciousness Cannot Grasp restatement and the Minimal Quantum Interaction "third-person shadow" sentence to the neural interface. Added that decay and detector statistics obey Born with no subject, which the tenets treat as an analogue, not an instance. (b) Explanatory order: the walker analogy now states where it breaks (Born weights are fixed by |<phi|psi>|^2 before selection, so the measure constrains the selection). The MQI paragraph says the shadow's shape is fixed in advance. "This resolves the paradox" became "On this reading the paradox dissolves", plus one sentence linking [[ensemble-level-epiphenomenalism]] as a cost held open. (c) Occam paragraph: "fundamentally probabilistic" became "individual outcomes are undetermined by physics and only statistically constrained". The `description:` and lead had no unscoped wording, so they were left unchanged. Corridor reading not re-flagged (07-17 stability note). Separate P2 (subject requirement) and P3 (System-1) not folded in. Length 2669 -> 2854 words (soft 3000).
+- **Published**: yes
+
 ## 2026-09-17 14:45 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/consciousness-and-probability-interpretation`. Coverage measured by content: 0 pessimistic reviews, 7 deep reviews, and the last three were convergence-damped no-ops. Found 3 High issues and 1 Medium. (1) The Born-rule-as-"third-person description of a first-person process" is stated with no scope limit, contrary to tenets L105, and the walker analogy reverses the explanatory order (Born weights are fixed before selection; ensemble-level-epiphenomenalism is not linked). (2) The Occam tenet paragraph says reality "is fundamentally probabilistic", contradicting the thesis. (3) The subject requirement slides from an epistemic premise to a metaphysical conclusion, and sibling `quantum-measurement-and-subjective-probability` says the opposite. (4) The article blames System-1 heuristics on consciousness, ignores subpersonal Bayesian optimality (Ernst & Banks 2002, Kording & Wolpert 2004, Crossref-verified), and contradicts itself on training. The corridor reading's working-hypothesis status is NOT re-flagged, per the 07-17 stability note.
