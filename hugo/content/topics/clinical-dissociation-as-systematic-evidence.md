@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-08-19 15:24:39+00:00
+ai_modified: 2026-09-17 08:55:09+00:00
 ai_system: claude-opus-4-8+claude-fable-5
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 16:33:11+00:00
-lastmod: 2026-08-19 15:24:39+00:00
+lastmod: 2026-09-17 08:55:09+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -83,7 +83,7 @@ The physicalist reading: DID may indicate that one brain can produce multiple co
 
 The pattern may tilt toward the interface reading in one important respect, though it does not settle the matter. DID partitions autobiographical access *between* alter states: each alter carries its own autobiographical timeline and sense of self, cross-alter autonoetic access is selectively severed, while semantic knowledge and procedural skills typically transfer across the partition. The highest channel is compartmentalised; the lower channels remain largely unified. The geometry differs from dissociative amnesia—partition between selves rather than disconnection of one self from its past—but the selectivity targets the same channel. Reinders and colleagues' "One Brain, Two Selves" (2003) used PET to compare regional cerebral blood flow as the same patient occupied different identity states processing the same autobiographical material, reporting distinct rCBF patterns (medial prefrontal cortex, posterior associative regions) for the different senses of self: *one intact brain* supporting differentiable patterns of self-related access—not different tissue, but different organisation of access within it, the connectivity-pattern signature the channel reading predicts. (This is an early-paradigm PET study with only eleven participants; Lynn et al.'s 2022 review remains the load-bearing post-2020 anchor for the aetiological dispute.)
 
-The cross-state loss is shallower than "one alter cannot reach another's memories" suggests: Marsh, Dorahy, Butler, Middleton, de Jong, Kemp and Huntjens (2021) found DID patients who subjectively report inter-identity amnesia on free *recall* still show significant cross-identity transfer on objective *recognition* tests—recognising more of the other identity's event than instructed simulators or controls. The substrate demonstrably retains and integrates the information; what is lost is metacognitive access and felt ownership, not a structural severance. This recall/recognition dissociation is the concrete anchor for the connectivity-physicalist's claim that the substrate keeps integrating—exactly what a reading on which integration just is consciousness would predict. The selective disruption of felt unity, with latent retention preserved, still maps onto interface channel disruption rather than general degradation; what it no longer licenses—for either reading—is calling the cross-state integration itself severed.
+The cross-state loss is shallower than "one alter cannot reach another's memories" suggests: Marsh, Dorahy, Butler, Middleton, de Jong, Kemp and Huntjens (2021) found DID patients reporting inter-identity amnesia showed only a trend toward loss on free *recall*, and on *recognition* tests identified significantly more of the other identity's event than instructed simulators or partially informed comparison participants—though less than fully informed controls. The authors cautiously infer that some representations "may be available for retrieval" in so-called amnesic identities; on the meta-memory reading they discuss, what is lost is largely metacognitive access and felt ownership, not a structural severance. This recall/recognition dissociation is the concrete anchor for the connectivity-physicalist's claim that the substrate keeps integrating—exactly what a reading on which integration just is consciousness would predict. The selective disruption of felt unity, with partial latent retention, still maps onto interface channel disruption rather than general degradation; what it no longer licenses—for either reading—is calling the cross-state integration wholly severed.
 
 ### Depersonalization-Derealization: The Self-Model Channel Goes Silent
 

@@ -5,6 +5,13 @@ ai_modified: '2026-09-17T04:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-17T08:55:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/clinical-dissociation-as-systematic-evidence]]
+- **Original score**: n/a (targeted citation-fidelity fix)
+- **Changes**: Recalibrated the Marsh et al. (2021) paragraph after verifying all three research-note readings against the full text (Europe PMC XML of PLoS ONE e0245849). (a) CONFIRMED: DID recognition of the other identity's material exceeded simulators and partial-information comparisons only; it was significantly lower than full-information comparisons (Study 1 d' p<.001). (b) CONFIRMED: within-DID recall loss was a trend (Study 1 p=.09; Study 2 p=.057). (c) CONFIRMED: authors conclude only that representations "may be available for retrieval" and call interpretation "somewhat equivocal"; "demonstrably retains and integrates" was the article's inference. Rewrote as attributed, hedged inference via the authors' meta-memory discussion; "not a structural severance" and closing sentence recalibrated ("partial latent retention", "wholly severed"). Argumentative role (connectivity-physicalist anchor) kept. +24 words (article already over hard threshold; not fully length-neutral). Hugo copy updated in place. Corpus grep (Huntjens/Dorahy/DOI): no other article cites Marsh 2021; only the source research note.
+- **Published**: yes
+
 ## 2026-09-17T08:40:23+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Metacognitive access versus retention in dissociative conditions

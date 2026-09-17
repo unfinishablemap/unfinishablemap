@@ -39,11 +39,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Metacognitive access versus retention in dissociative conditions
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-09-16-clinical-evidence-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-16-clinical-evidence-wing §Ideas for Later: the DID recall/recognition dissociation (Marsh et al. 2021) is the wing's cleanest instance of a pattern (retained but inaccessible; retained but disowned) that dissociative amnesia, DPDR and anosognosia all share; currently distributed across three articles with no concept page. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/metacognitive-access-versus-retention-2026-09-16.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'metacognitive-access-versus-retention' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-09-16
+### P2: `topics/clinical-dissociation-as-systematic-evidence` L82 over-reads Marsh et al. (2021) — "more than instructed simulators or controls", "substrate demonstrably retains and integrates"
+- **Type**: refine-draft
+- **File**: obsidian/topics/clinical-dissociation-as-systematic-evidence.md
+- **Notes**: Flagged by the 2026-09-17 research-topic pass (`research/metacognitive-access-versus-retention-2026-09-16.md`), which read Marsh, Dorahy, Butler, Middleton, de Jong, Kemp & Huntjens (2021), *PLoS ONE* 16(2): e0245849. Per that note: (a) DID patients out-recognised simulators and the *partial-information* comparison group only — not the full-information controls, so "than instructed simulators or controls" overstates; (b) the recall amnesia was a trend, not a significant effect; (c) "the substrate demonstrably retains and integrates the information" is the article's inference, not the authors' finding. FIX: verify (a)–(c) against the paper's Results at the publisher of record FIRST (these are the research fork's readings, not driver-verified), then recalibrate L82 to the actual comparisons and move "demonstrably" to an attributed inference. Keep the paragraph's argumentative role (recall/recognition dissociation as the connectivity-physicalist's anchor) — re-frame, don't delete. Check `hugo/` for the same sentence and sync both trees. Length-neutral preferred.
+- **Source**: research-topic
+- **Generated**: 2026-09-17
+
 
 ### NEEDS-HUMAN 2026-09-16: `topics/lucid-dreaming-and-dualist-rendering` title still promises "Evidence for Dualist Rendering" after the description and body were recalibrated to compatible-not-forced — retitle / demote-to-coherence-only is an editorial call
 - **Type**: refine-draft
@@ -1911,6 +1913,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-17: Research Metacognitive access versus retention in dissociative conditions
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-16-clinical-evidence-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-16-clinical-evidence-wing §Ideas for Later: the DID recall/recognition dissociation (Marsh et al. 2021) is the wing's cleanest instance of a pattern (retained but inaccessible; retained but disowned) that dissociative amnesia, DPDR and anosognosia all share; currently distributed across three articles with no concept page. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/metacognitive-access-versus-retention-2026-09-16.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'metacognitive-access-versus-retention' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-09-17: `positions/perception-and-the-interface` [P-PI1](/positions/perception-and-the-interface/#p-pi1) — architecture tier over-generalises the positive half to "across senses", states a report-contrast as "the transition into awareness" so its own defeater coincides with GNW's reading, and frames the brain-side retirement condition as hypothetical while the metamodal literature already bears on it
 - **Type**: positions-evolve
