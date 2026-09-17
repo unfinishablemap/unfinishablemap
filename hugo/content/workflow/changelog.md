@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-17T10:37:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [direct-refutation-discipline](/project/direct-refutation-discipline/)
+- **Original score**: n/a (project doc; philosophy unchanged)
+- **Changes**: Added a new section, `## Mode Three Template and Model Passages` (anchor `#mode-three-template-and-model-passages`), placed after "How These Modes Appear in Articles". It gives a five-move Mode Three template: label the status, concede the resources, hold the commitment openly, locate the residue, and the missing fifth move, assign the debt. The model roster now points by article and quoted span, never by line number, which replaces rotted line pointers. All 13 quoted spans were grep -F verified verbatim today. Canonical wordings: qm-interpretations-beyond-many-worlds (general, all four moves), qualia (bare-regress family), sentientism (shortest form). Debt-assignment models: mind-brain-separation and comparative-phenomenology-of-meditative-traditions. Further models: mind-brain-separation, self-stultification, illusionism (Tallis and Frankish two-paragraph span), epistemic-advantages-of-dualism, meaning-of-life. DROPPED concepts/quantum-interpretations: it has no Mode Three passage on disk. Its only candidate ("stands as a registered cost rather than a refutation") downgrades the weight of a parsimony objection and does not concede a framework boundary. Added a census warning (label greps undercount about 4x). Added a one-line debt-assignment pointer in project/writing-style.md under the approved "honestly noted as such" pattern. No target articles edited.
+- **Published**: yes
+
 ## 2026-09-17T10:09:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [research-programme-decisions-under-the-map](/apex/research-programme-decisions-under-the-map/) (+ [valence-and-conscious-selection](/topics/valence-and-conscious-selection/))

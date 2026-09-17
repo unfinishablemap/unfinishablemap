@@ -4,7 +4,7 @@ description: "When an opponent's argument is incompatible with the Map's tenets,
 created: 2026-05-04
 modified: 2026-05-04
 human_modified: null
-ai_modified: 2026-06-26T18:19:34+00:00
+ai_modified: 2026-09-17T10:37:47+00:00
 last_deep_review: 2026-06-26T18:19:34+00:00
 draft: false
 topics: []
@@ -158,6 +158,39 @@ The modes are editor-vocabulary; they do not appear in article prose. The articl
 > The behaviours raise the prior considerably above bare cognition; they do not settle the case.
 
 The reader of the right-column versions sees journal-quality philosophical engagement. They can trace the structure of the argument from the prose alone — they do not need to know that an editorial discipline shaped the moves. The discipline did its work; the labels stay in the editor's notes and the changelog.
+
+## Mode Three Template and Model Passages
+
+When a refine pass needs honest framework-boundary prose, copy from here rather than composing afresh. Point to models **by article and quoted span, never by line number** — line pointers rot as articles are edited (an earlier roster lost five of six pointers that way). Every quote below was grep-verified verbatim (`grep -F`) on 2026-09-17; re-verify before relying on one.
+
+**The template.** A complete Mode Three passage makes four moves, then a fifth that turns the concession into work for the opponent:
+
+1. *Label the status.* Say that the point marks a framework boundary and is not an in-framework refutation.
+2. *Concede the resources.* State what the Map cannot show using only what the opponent accepts.
+3. *Hold the commitment openly.* Name the tenet the Map's side rests on, as a commitment and not a result.
+4. *Locate the residue.* Say where the disagreement now sits and what the commitment earns.
+5. *Assign the debt.* Where the opponent's own standard applies (usually mechanistic specification), name the explanandum they still owe. This move keeps an honest concession from reading as surrender, and it is the one most often missing.
+
+**Canonical wordings.**
+
+- *General-purpose, all four moves* — [[qm-interpretations-beyond-many-worlds]], MWI reply: "The Map's own reservation is calibrated honestly as a framework-boundary disagreement, not an in-framework refutation. The Map cannot show, using only resources MWI accepts, that branch-relative indexicality is false."
+- *Illusionism / bare-regress family* — [[qualia]]: "The bare regress is therefore a framework-boundary point, not an in-framework refutation; the substantive work lies elsewhere." The passage then assigns the debt: "it is there—not in the bare regress—that the illusionist owes a mechanism."
+- *Shortest usable form* — [[sentientism]]: "No in-framework refutation of illusionism is on offer here — Dualism denies it, and the denial is a foundational commitment rather than a result".
+
+**Debt-assignment wordings (move 5).**
+
+- [[mind-brain-separation]]: "The account names the mechanism it owes and does not yet supply it, on the standard of mechanistic specification that illusionism presses against its rivals."
+- [[comparative-phenomenology-of-meditative-traditions]], deflationist reply: "the residual phenomenal character is the explanandum the deflationist still owes work on."
+
+**Further model passages.**
+
+- [[mind-brain-separation]], bare regress: "does not settle the matter, and the Map does not run it as though it did" (opens the paragraph whose closing sentence is quoted above).
+- [[self-stultification]]: "this marks where the Map and the illusionist part company rather than refuting him inside his own framework."
+- [[illusionism]], the Tallis paragraph ("Raymond Tallis argues illusionism compounds rather than solves the hard problem") and the Frankish reply after it ("he is right that the bare regress proves nothing"). Read the two paragraphs together: the first states the objection at full strength, the second concedes it and moves the engagement to the meta-representational bridge.
+- [[epistemic-advantages-of-dualism]], No Many Worlds tenet section: "the disagreement is genuine and bedrock, and the Map does not pretend to have closed it from inside the Everettian's framework."
+- [[meaning-of-life]]: "The Map cannot refute that on MWI's own resources".
+
+A label grep undercounts this discipline roughly fourfold, because well-calibrated passages use natural phrasings like those above. A zero hit for "framework-boundary" does not show that a file is uncalibrated.
 
 ## Engaging the Position, Not the Name
 

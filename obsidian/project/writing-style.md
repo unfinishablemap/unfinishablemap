@@ -4,7 +4,7 @@ description: "Editorial standards for The Unfinishable Map: LLM-first structure,
 created: 2026-01-07
 modified: 2026-07-16
 human_modified: 2026-01-07
-ai_modified: 2026-09-15T07:33:03+00:00
+ai_modified: 2026-09-17T10:37:47+00:00
 last_deep_review: 2026-05-17T12:00:00+00:00
 draft: false
 topics: []
@@ -194,6 +194,7 @@ Embed mode-distinctions in natural language rather than naming them. Useful natu
 
 - *"X helps itself to Y without specifying how."* (foundational-move identification)
 - *"This claim runs counter to the Map's foundational commitments and is honestly noted as such, not refuted within X's framework."* (framework-boundary marking)
+  - Then assign the debt where the opponent's own standard applies: *"The account names the mechanism it owes and does not yet supply it."* Full template and verified models: [[direct-refutation-discipline#Mode Three Template and Model Passages]].
 - *"X's framework cannot accommodate the bandwidth measurement on its own terms."* (in-framework refutation)
 - *"The dispute is open inside X's framework, not closed by X's framework's own resources."* (in-framework engagement that does not yet succeed)
 
