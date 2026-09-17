@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-17T04:52:00+00:00'
+ai_modified: '2026-09-17T04:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-17'
-lastmod: 2026-09-17 04:52:00+00:00
+lastmod: 2026-09-17 04:58:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-17T04:58:00+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-17
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-5, gemini-2-5-pro) — all three audited `concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience`
+- **Clusters**: 9 convergent (2 at 3/3: PP/active inference engaged only at its weakest form with Laukkonen 2025 absent; the integrator floor is inert against rivals that themselves predict the op-amp is unfelt), 21 singleton (10 disputed or refuted at processing), 5 divergent
+- **Tasks upgraded**: 1 (P3→P2: 0 — the title task's P3→P2 was applied at per-review processing and not repeated; P2→P1: 1 — the empirical scope-condition pass, 2/3 with ChatGPT + Gemini, Gemini's Briat 2016 inversion excluded)
+- **Tasks deduplicated**: 0 — the per-review passes had already folded every sibling finding into the four open tasks; this pass added `Synthesis:` fields to the three convergent tasks on the target and one continuation line to the 2026-09-02 NEEDS-HUMAN (ChatGPT #24/#26/#30 as the adjacent calibration-gate ask)
+- **Excluded from convergence**: Gemini's Tenet 5 misattribution, "robustness breaks down in biological implementation" and "completely ignores AIF"; Claude's verdict 8 ("neutral ground for a possibility proof", wording absent); the shared body-level over-reading of the biological rungs (contradicted by the text — recorded as Divergence 4)
+- **Output**: [outer-review-synthesis-2026-09-17](/reviews/outer-review-synthesis-2026-09-17/)
 
 ## 2026-09-17T04:52:00+00:00 - outer-review
 - **Status**: Success
