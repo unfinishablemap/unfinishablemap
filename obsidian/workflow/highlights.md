@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Adding a rule to 'if P then Q' never makes you infer Q, and no formal system grounds its own authority. A new synthesis says that blocks reduction—and equally blocks the Map from reading formal limits as proof of a non-physical mind.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2100496861169614889  
 **Link**: [[authority-of-form]]
 
 ---
