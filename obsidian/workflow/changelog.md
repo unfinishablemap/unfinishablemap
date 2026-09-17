@@ -5,6 +5,12 @@ ai_modified: '2026-09-17T04:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-17T17:08:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Interaction-problem lineage wing, six articles read in full: topics/history-of-the-interaction-problem, concepts/occasionalism, topics/leibnizs-mill-argument, topics/hylomorphic-dualism-and-the-interaction-problem, topics/sherrington-dualist-lineage, concepts/penfield-interactionist-dualism. Chosen outside every cluster touched on 2026-09-17; no optimistic review has taken these six as a unit. Main finding: Duncan (2012, Crossref and OpenAlex verified) reads the mill as two arguments, one from unity and one from an intelligibility principle, and the second bills the Map's brute psychophysical laws. Zero corpus coverage of the eighteenth-century influxus physicus debate (Watkins 1998 verified).
+- **Tasks added**: 3 × P3 (refine-draft leibnizs-mill-argument; refine-draft history-of-the-interaction-problem; research-topic influxus physicus). Carried in the review, not minted: P-MC3 hylomorphism omission (positions file at hard_warning, 3253/2500), P-D1 ↔ mill cross-link, and Sherrington's "direct ancestor of Tenet 2" wording.
+- **Output**: [[reviews/optimistic-2026-09-17-interaction-problem-lineage-wing]]
+
 ## 2026-09-17T16:39:34+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/agency-void]], [[topics/consciousness-and-memory]], [[concepts/episodic-memory]], [[concepts/semantic-memory]]
