@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-17T01:44:19+00:00'
+ai_modified: '2026-09-17T02:51:29+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-17T02:51:29+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Hemispatial neglect and the reversibility of attentional access (P3 research-harvest task, generated 2026-09-16)
+- **Output**: [[research/hemispatial-neglect-2026-09-16]]
+- **Sources consulted**: 59 records verified (Crossref 57 DOIs resolved, 1 dropped; Europe PMC 57 raw abstracts/author strings; 2 WebSearch; 1 WebFetch used only to identify Liu et al. 2023, then verified independently). OpenAlex not needed.
+- **Verdict**: worth writing as `topics/`. Whole-word "neglect" in 20 live body files (the review's "35" is the substring count, 37 today), every substantive locus static ("Erasure Without Remainder"); zero corpus hits for the entire remission literature (caloric, prism, neck vibration, optokinetic, alerting, cueing) and for the attentional-network account (Mesulam, Posner 1984, Corbetta & Shulman, Bartolomeo). Case-level verdict for the interface reading: neutral — Corbetta et al. 2005 / He et al. 2007 predict the reversal with a mechanism and marker. Article's value is a correction (neglect is a biased competition with a half-second latency cost, not an erasure) and a discipline (behaviour- vs awareness-reversal; only Robertson et al. 1998 measured awareness). Cappa 1987 split by outcome with the queued anosognosia article (4/4 neglect here, 2/4 anosognosia there).
+
 ## 2026-09-17T01:52:48+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/improper-vs-proper-mixtures]]

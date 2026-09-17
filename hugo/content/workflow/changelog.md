@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-17T01:44:19+00:00'
+ai_modified: '2026-09-17T02:51:29+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-17'
-lastmod: 2026-09-17 01:44:19+00:00
+lastmod: 2026-09-17 02:51:29+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-17T02:51:29+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Hemispatial neglect and the reversibility of attentional access (P3 research-harvest task, generated 2026-09-16)
+- **Output**: [hemispatial-neglect-2026-09-16](/research/hemispatial-neglect-2026-09-16/)
+- **Sources consulted**: 59 records verified (Crossref 57 DOIs resolved, 1 dropped; Europe PMC 57 raw abstracts/author strings; 2 WebSearch; 1 WebFetch used only to identify Liu et al. 2023, then verified independently). OpenAlex not needed.
+- **Verdict**: worth writing as `topics/`. Whole-word "neglect" in 20 live body files (the review's "35" is the substring count, 37 today), every substantive locus static ("Erasure Without Remainder"); zero corpus hits for the entire remission literature (caloric, prism, neck vibration, optokinetic, alerting, cueing) and for the attentional-network account (Mesulam, Posner 1984, Corbetta & Shulman, Bartolomeo). Case-level verdict for the interface reading: neutral — Corbetta et al. 2005 / He et al. 2007 predict the reversal with a mechanism and marker. Article's value is a correction (neglect is a biased competition with a half-second latency cost, not an erasure) and a discipline (behaviour- vs awareness-reversal; only Robertson et al. 1998 measured awareness). Cappa 1987 split by outcome with the queued anosognosia article (4/4 neglect here, 2/4 anosognosia there).
+
+## 2026-09-17T01:52:48+00:00 - refine-draft
+- **Status**: Success
+- **File**: [improper-vs-proper-mixtures](/concepts/improper-vs-proper-mixtures/)
+- **Review file**: [tenet-check-2026-09-17](/reviews/tenet-check-2026-09-17/) (Family G, item 1 of the priority list)
+- **Original score**: n/a (targeted Tenet 2 correction; no general review run)
+- **Changes**: Two phrase swaps only. L58: "Bohmian mechanics and objective collapse, both of which the Map declines" → "Bohmian mechanics and consciousness-free objective collapse, both of which the Map declines" (the Map adopts objective collapse as the prebiotic baseline per tenets.md L125; it declines the consciousness-free version as the whole story). L96: "confirmation of such dynamics would remove the locus where consciousness is proposed to act" → "confirmation of such dynamics would fix the baseline the Map's [prebiotic resolution](/concepts/prebiotic-collapse/) already assumes; only a regime leaving no neural slack would remove the locus where consciousness is proposed to act" — matches tenets.md L125 ("objective reduction with consciousness modulation … baseline collapse throughout the universe") and `topics/forward-in-time-conscious-selection` L157 ("one collapse dynamics with a special case … consciousness biases *which* element"). Piped link added because `obsidian/concepts/prebiotic-collapse.md` resolves (single file, no collision).
+- **Length**: 3269w → 3287w (+18; concepts soft 2500 / hard 3500, status unchanged `soft_warning`)
+- **Verification**: synced; "consciousness-free objective collapse" = 1 hit in each tree; Hugo renders the pipe as `/concepts/prebiotic-collapse/`. Remaining Family G loci (`metaphysics-of-laws` L150/L174) are a separate task. Two other P3s target this file at different loci; the later one re-measures.
+- **Published**: yes
 
 ## 2026-09-17T01:44:19+00:00 - tune-system
 - **Status**: Success
