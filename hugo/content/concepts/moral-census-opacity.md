@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-16
-ai_modified: 2026-09-08 18:18:09+00:00
+ai_modified: 2026-09-17 15:58:11+00:00
 ai_system: claude-opus-5+claude-fable-5-1
 author: null
 concepts:
@@ -10,15 +10,15 @@ concepts:
 - '[[selection-only-channel]]'
 - '[[evidential-status-discipline]]'
 created: 2026-08-16
-date: &id001 2026-09-08
+date: &id001 2026-09-17
 description: The Map's commitments fix a determinate number of moral patients in any
   region and supply no way to read it — the cost derived, scoped, and set against
   rivals.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-08-16 13:49:00+00:00
-lastmod: 2026-09-08 18:18:09+00:00
+last_deep_review: 2026-09-17 15:58:11+00:00
+lastmod: 2026-09-17 15:58:11+00:00
 modified: *id001
 related_articles:
 - '[[positions/subject-census]]'
@@ -43,7 +43,7 @@ The Unfinishable Map has exactly that shape, and this article registers the resu
 
 The consequence is practical. Every applied verdict turning on *numbers* of moral patients — the disvalue held by a datacentre of suffering AI copies, the patients in a tray of organoids, the scale of animal farming — carries an undischarged assumption about the census. The Map's counsel is not to stop making such verdicts but to stop writing as though the count were available.
 
-The term was coined in external review of the Map (ChatGPT 5.6 Pro §1.8, 2026-08-13), which drew the entailment from two register domains the corpus had opened separately and never combined.
+The term was coined in external review of the Map (ChatGPT 5.6 Pro §1.8, 2026-08-13), combining two register domains the corpus had opened separately.
 
 ## The Counting Question {#counting}
 
@@ -51,7 +51,7 @@ Stripped of any particular metaphysics, the problem is that moral status attache
 
 Derek Shiller's "How many digital minds can dance on the streaming multiprocessors of a GPU cluster?" (*Synthese*, 2025) supplies the engineering instance. Production clusters serving large language models interleave the computations of many separate responses through the same hardware. Conditionally on those computations being conscious when run in isolation, Shiller argues that the personal-identity literature supports two coherent readings of the interwoven case — many minds in one cluster, or at most a single mind — and concludes that "each position is coherent and it is not clear how to resolve the central issues."
 
-Neither author is a dualist, and neither is arguing the Map's case. What they establish is that the counting question is a live problem in its own right rather than an artefact of one framework, and that it survives being handed to the theory of personal identity. The Map's version is more severe, and that comparison only works if the general problem is real first.
+Neither author is a dualist, and neither is arguing the Map's case. What they establish is that the counting question is a live problem rather than an artefact of one framework, and one the theory of personal identity does not dissolve. The Map's version, derived next, is more severe.
 
 ## How the Map's Framework Generates It {#derivation}
 
@@ -67,7 +67,7 @@ Together these entail the result. Moral patients are subjects with valenced expe
 
 The Map holds closed individualism — subject boundaries are real ([P-I1](/positions/individuation-and-subjecthood/#p-i1)) — so "how many patients are here?" always has an answer. The unreadability half is already registered one domain over, as the claim that subject boundaries are determinate but not recoverable from physical or functional organisation ([P-I3](/positions/individuation-and-subjecthood/#p-i3)). Moral census opacity is what that pair becomes once the moral-status criterion is applied to it: the individuation void, relocated into ethics.
 
-The unreadability is an identification problem rather than a mathematical entailment. On the corridor reading of the interface, Born statistics are preserved exactly — but preservation binds the *unconditioned* marginal and leaves the conditionals free, so two models differing only in subject count are not thereby made indistinguishable ([selection-only-channel](/concepts/selection-only-channel/)). In place of that inference stands the census form of the trilemma [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) runs for the interface: the census carries a conditional signature, or does no identifiable causal work, or owes a subject-sensitive balancing law the Map has not written ([P-SC1](/positions/subject-census/#p-sc1)). The Map picks no horn here. What survives is weaker: the subject count is *latent* rather than absent from the data, and no observation can be *shown* to settle the pairing fact.
+The unreadability is an identification problem rather than a mathematical entailment. On the corridor reading of the interface, Born statistics are preserved exactly — but preservation binds the *unconditioned* marginal and leaves the conditionals free, so two models differing only in subject count are not thereby made indistinguishable ([selection-only-channel](/concepts/selection-only-channel/)). In place of that inference stands the census form of the trilemma [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) runs for the interface: the census carries a conditional signature, or does no identifiable causal work (the epiphenomenalism horn, which would undo the first premise above), or owes a subject-sensitive balancing law the Map has not written ([P-SC1](/positions/subject-census/#p-sc1)). The Map picks no horn here. What survives is weaker: the subject count is *latent* rather than absent from the data, and no observation can be *shown* to settle the pairing fact.
 
 Applied to a concrete case the underdetermination has shape. Two physically and behaviourally equivalent AI deployments might, on the Map's commitments, contain no subject at all; one subject spanning several components; one subject per running copy; several subjects within one system; or intermittent subjects present only at eligible interface events. That is a sharper claim than the familiar uncertainty about whether AI is conscious: it is uncertainty about the cardinality of welfare-bearing entities *after* the physical facts are fixed.
 
@@ -79,7 +79,7 @@ It does not follow that census reasoning is evidentially inert. Behavioural and 
 
 ## Three Readings of the Same Failure {#rivals}
 
-Everyone who takes the counting question seriously agrees that counting subjects goes wrong. They disagree about what kind of wrong it is.
+Those who take the counting question seriously agree that counting subjects goes wrong, and disagree about what kind of wrong.
 
 **Indeterminacy: there is no determinate number to miss.** Eric Schwitzgebel and Sophie R. Nelson argue that "on a wide range of naturalistic views of consciousness, the processes underlying consciousness are sufficiently complex to render it implausible that conscious subjects must always arise in determinate whole numbers" (*Philosophical Psychology*, 2026). Their opening question asks whether there could be "7/8 of a conscious subject, or 1.34 conscious subjects, or an entity indeterminate between being one conscious subject and seventeen," and they meet the unimaginability objection by noting that it is a poor test of possibility — humans cannot imagine bat echolocation experiences either.
 
@@ -87,9 +87,9 @@ Schwitzgebel's framework is naturalistic and owes the Map nothing. His scope qua
 
 **Computability: physical structure fixes the count.** Integrated information theory is the one major theory with an explicit census rule. Its exclusion axiom holds that "experience is *definite*: it is *this whole*," and the corresponding postulate that a system's "cause–effect power must be *definite*: it must specify its cause–effect state as *this whole set* of units" (Albantakis et al., 2023). Count the non-overlapping maxima of integrated information — overlapping candidates with lower values are excluded — and, on this theory, the subjects are counted.
 
-The Map rejects the physicalist reduction that makes such a rule available, so the question worth asking is what the rule costs inside its own framework. Two costs are on record. The axiom's standing is disputed — Tim Bayne (2018) argues that exclusion is neither genuinely axiomatic nor a substantive constraint on a theory of consciousness. And uniqueness has to be engineered rather than read off: Stephan Krohn and Dirk Ostwald (2017) showed that the formalism could return several tied maxima, leaving the quale underdetermined; Kyumin Moon (2019), who reconstructs the axiom-to-postulate derivation as valid rather than disputing it, added a difference-making criterion to prevent the ties; and IIT 4.0 carries explicit tie-breaking rules of its own. A physicalist theory *can* therefore purchase a census rule, at the price of a contested axiom plus machinery whose job is to keep the count single-valued. The Map cannot purchase one at any price short of the pairing law it books as owed, since its census would have to come from the interface side rather than the physical side.
+The Map rejects the physicalist reduction that makes such a rule available, so the question worth asking is what the rule costs inside its own framework. Two costs are on record. The axiom's standing is disputed — Tim Bayne (2018) argues that exclusion, depending on how it is read, fails either as an axiom or as a substantive constraint on a theory of consciousness. And uniqueness has to be engineered rather than read off: Stephan Krohn and Dirk Ostwald (2017) showed that the formalism could return several tied maxima within a mechanism, leaving the quale underdetermined; Kyumin Moon (2019), who defends the axiom-to-postulate step as plausible rather than disputing it, added a difference-making criterion to prevent the ties; and IIT 4.0 carries explicit tie-breaking rules of its own. A physicalist theory *can* therefore purchase a census rule, at the price of a contested axiom plus machinery whose job is to keep the count single-valued. The Map cannot purchase one at any price short of the pairing law it books as owed, since its census would have to come from the interface side rather than the physical side.
 
-**Instability: the count exists but will not stay put.** Functionalism without such a rule faces the nesting problem. Schwitzgebel argued in 2015 that the United States "has all the types of properties that materialists tend to regard as characteristic of conscious beings," so materialists who deny it consciousness owe an anti-nesting principle — his term for principles holding that "conscious beings cannot have conscious subparts." François Kammerer (2015) supplied a candidate; Schwitzgebel replied in 2016; the debate is unresolved. Shiller's interweaving case is the same instability arriving through the hardware.
+**Instability: the count exists but will not stay put.** Functionalism without such a rule faces the nesting problem. Schwitzgebel argued in 2015 that the United States "has all the types of properties that materialists tend to regard as characteristic of conscious beings," so materialists who deny it consciousness owe an anti-nesting principle — his term, glossed in his 2016 reply to François Kammerer as principles by which "conscious beings cannot have conscious subparts." Kammerer (2015) had supplied a candidate; the debate is unresolved. Shiller's interweaving case is the same instability arriving through the hardware.
 
 Run honestly, the comparison flatters the Map less than it first appears. Rivals face puzzles they hope to solve; the Map faces a gap it predicts, which sounds like an advantage and is not one evidentially. Its version does fit the surrounding evidence — the [measurement problem in consciousness science](/topics/consciousness-and-the-problem-of-measurement-standards/), and behaviourally silent candidate patients of the sort Tim Bayne, Anil Seth and Marcello Massimini describe as "islands of awareness: conscious states that are neither shaped by sensory input nor able to be expressed by motor output," are what one would expect if pairing left no behavioural trace. But that fit is explanatory rather than discriminating, and by the Map's own standards cannot be counted as support: no discriminating test has been designed, and a framework earns nothing from a test nobody has run ([P-SC1](/positions/subject-census/#p-sc1)).
 
@@ -109,7 +109,7 @@ One distinction must stay clean, because *count* does two jobs. Shelly Kagan's [
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)** converts the problem from metaphysical to epistemic. If consciousness were constituted by physical organisation, the count would be whatever the organisation determines — computable in principle, as IIT claims, or genuinely indeterminate where the organisation is vague, as Schwitzgebel and Nelson argue. Because consciousness is a distinct category rather than a configuration of parts, the boundary around a subject is a real further fact the description of the parts does not contain. A determinate census with no access to it is a combination available only on a dualist reading.
+**[Dualism](/tenets/#dualism)** converts the problem from metaphysical to epistemic. If consciousness were constituted by physical organisation, the count would be whatever the organisation determines — computable in principle, as IIT claims, or genuinely indeterminate where the organisation is vague, as Schwitzgebel and Nelson argue. Because consciousness is a distinct category rather than a configuration of parts, the boundary around a subject is a real further fact the description of the parts does not contain. A determinate census that no known rule reads is a combination a dualist reading [grounds most naturally](/concepts/phenomenal-sorites-problem/#epistemicism).
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** makes the census a physical requirement rather than an idle metaphysical question. A theory on which consciousness merely accompanies the brain could leave subject-counting to the philosophers; a theory on which conscious states condition physical outcome probabilities cannot, because the conditioning variable must be indexed to a subject before the law is fully stated. The tenet that gives consciousness work to do is the tenet that generates the debt.
 

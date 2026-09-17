@@ -5,6 +5,17 @@ ai_modified: '2026-09-17T04:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-17 15:58 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/moral-census-opacity]]
+- **Word count**: 3495 → 3495 (0; hard-ceiling length-neutral)
+- **Critical issues addressed**: 3 (Schwitzgebel anti-nesting quote credited to 2016 reply not 2015; Moon 2019 "valid" → "plausible"; residual "no access… only on a dualist reading" escalation in Relation to Site Perspective, softened and linked to phenomenal-sorites epistemicism)
+- **Medium issues addressed**: 3 (Bayne 2018 two-readings merge; Krohn & Ostwald ties scoped to within a mechanism; census-trilemma horn (b) cost named)
+- **Enhancements made**: 1 cross-link ([[phenomenal-sorites-problem#epistemicism]])
+- **Engagements**: Schwitzgebel & Nelson Mode Three (boundary honestly marked); IIT Mixed (in-framework costs then boundary); functionalist nesting Mode One
+- **Notes**: 08-24 pessimistic Issues 1–3 and 6 verified resolved. Shiller 2025 quote matched via search index only (sources blocked).
+- **Output**: [[reviews/deep-review-2026-09-17-moral-census-opacity]]
+
 ## 2026-09-17 15:37 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-probability-interpretation]]
