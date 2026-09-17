@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-17T10:09:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [research-programme-decisions-under-the-map](/apex/research-programme-decisions-under-the-map/) (+ [valence-and-conscious-selection](/topics/valence-and-conscious-selection/))
+- **Original score**: n/a (targeted propagation of the [P-Q4](/positions/quantum-interface/#p-q4) regime-criterion update, commit 1baf653e)
+- **Changes**: Direction 2 now quotes [P-Q4](/positions/quantum-interface/#p-q4)'s current shift-condition verbatim (coherence-time calculation *and* observation intervals clearing the bath-correlation bar with an account of what sets the sign) and names the regime criterion as a second gate, with a piped link to [sign-problem-for-conscious-observation](/concepts/sign-problem-for-conscious-observation/); recommendation 2 scoped so slow decoherence "clears the first of Stapp-Zeno's two gates" rather than re-elevating it, while Orch-OR re-elevation and [P-Q8](/positions/quantum-interface/#p-q8)'s licence release stand. Verified [P-Q1](/positions/quantum-interface/#p-q1), [P-Q5](/positions/quantum-interface/#p-q5) and [P-Q8](/positions/quantum-interface/#p-q8) shift-conditions carry no bath-correlation/regime dependency (the term occurs only in [P-Q4](/positions/quantum-interface/#p-q4)'s block), so the four-position fan-out claim is kept. Valence article L81: "demotes Stapp-Zeno on decoherence and regime grounds ([P-Q4](/positions/quantum-interface/#p-q4))", length-neutral (4342 → 4341 via "no formal coupling model" and dropping "though"). Apex length 4736 → 4768 (soft 4000 / hard 5000). No named-opponent engagement changed.
+- **Published**: yes
+
 ## 2026-09-17T09:54:00+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline — no merge performed)
 - **Sources**: none

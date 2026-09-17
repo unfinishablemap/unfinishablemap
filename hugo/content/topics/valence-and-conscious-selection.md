@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-09-06 21:02:57+00:00
+ai_modified: 2026-09-17 10:08:01+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-08 05:15:23+00:00
-lastmod: 2026-09-06 21:02:57+00:00
+lastmod: 2026-09-17 10:08:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -81,7 +81,7 @@ The horn deserves its strongest statement: a fork resolved by attrition rather t
 
 First, **parsimony and minimal interaction**. Value-blind selection needs exactly one mental-to-physical coupling: attention (with intention and effort as its modes) maps to observation rate. Value-sensitive selection needs a *second* coupling—some law by which felt valence enters the physics—that the [psychophysical-laws](/concepts/psychophysical-laws/) framework admits it cannot yet specify. [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) does not itself adjudicate between them: its minimality is an empirical corridor ruling out interactions the physical record excludes, not a likelihood ranking over the accounts that clear it, and [Occam's Razor Has Limits](/tenets/#occams-limits) disarms the parsimony-as-truth inference besides. The pull toward value-blindness is methodological, not tenet-derived—an unspecified second coupling owes a specification—and dressing it as tenet-derived would let the Map's preferences outrun its tenets.
 
-Second, **mechanism availability**. The attentional channel has named candidate mechanisms (Stapp's observation-rate model; Eccles's synaptic exocytosis bias); valence has none. Neither is *worked*, though: the register records no formal model of the coupling ([P-Q10](/positions/quantum-interface/#p-q10)) and demotes Stapp-Zeno on decoherence-timescale grounds ([P-Q4](/positions/quantum-interface/#p-q4)). So the asymmetry is a named candidate against nothing rather than a specified coupling against a promissory note—thinner, but not nothing.
+Second, **mechanism availability**. The attentional channel has named candidate mechanisms (Stapp's observation-rate model; Eccles's synaptic exocytosis bias); valence has none. Neither is *worked*: the register records no formal coupling model ([P-Q10](/positions/quantum-interface/#p-q10)) and demotes Stapp-Zeno on decoherence and regime grounds ([P-Q4](/positions/quantum-interface/#p-q4)). So the asymmetry is a named candidate against nothing rather than a specified coupling against a promissory note—thinner, but not nothing.
 
 Third, **explanatory sufficiency**. Nothing in the phenomenology of choice *requires* valence to be a selector rather than a sensor. Anticipated valence can be a vivid input to attention—a felt salience that draws observation—without entering the selection law: the felt goodness of an option is real and action-guiding, yet guides by *informing* a value-neutral steering channel rather than by *being* the steering. The value-realist keeps felt value as genuinely mattering and gives up only the claim that mattering must be wired directly into the physics of collapse.
 

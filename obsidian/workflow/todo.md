@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: `apex/research-programme-decisions-under-the-map` L84 and L118 still treat a coherence-time result as sufficient to re-elevate Stapp-Zeno — P-Q4 now requires two gates
-- **Type**: refine-draft
-- **File**: obsidian/apex/research-programme-decisions-under-the-map.md
-- **Notes**: Downstream of the 2026-09-17 positions-evolve pass on P-Q4 (commit 1baf653e): P-Q4's re-elevation now needs BOTH the decoherence-timescale gate AND the regime criterion (observation interval vs bath correlation time, per `concepts/sign-problem-for-conscious-observation`, Virzì et al. 2022). L84 quotes P-Q4's shift-condition as a coherence-time calculation alone; L118 says slow decoherence "re-elevates the demoted mechanisms" — now an overstatement for Stapp-Zeno specifically (P-Q1/P-Q5/P-Q8 are not affected; the sign problem exempts post-decoherence selection). FIX: re-quote P-Q4's current wording at L84 and scope L118 so a slow-decoherence result clears only the first gate for Zeno; keep L118's high-leverage argument for the other positions intact. Print `analyze_length` first — prefer a length-neutral edit or a piped register link. Also optional, same pass: `topics/valence-and-conscious-selection` L81 ("demotes Stapp-Zeno on decoherence-timescale grounds") is incomplete, not false — add "and regime" only if length-neutral. Sync both trees.
-- **Source**: positions-evolve
-- **Generated**: 2026-09-17
-
-
 ### NEEDS-HUMAN 2026-09-16: `topics/lucid-dreaming-and-dualist-rendering` title still promises "Evidence for Dualist Rendering" after the description and body were recalibrated to compatible-not-forced — retitle / demote-to-coherence-only is an editorial call
 - **Type**: refine-draft
 - **File**: obsidian/topics/lucid-dreaming-and-dualist-rendering.md
@@ -1900,6 +1892,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-17: `apex/research-programme-decisions-under-the-map` L84 and L118 still treat a coherence-time result as sufficient to re-elevate Stapp-Zeno — P-Q4 now requires two gates
+- **Type**: refine-draft
+- **File**: obsidian/apex/research-programme-decisions-under-the-map.md
+- **Notes**: Downstream of the 2026-09-17 positions-evolve pass on P-Q4 (commit 1baf653e): P-Q4's re-elevation now needs BOTH the decoherence-timescale gate AND the regime criterion (observation interval vs bath correlation time, per `concepts/sign-problem-for-conscious-observation`, Virzì et al. 2022). L84 quotes P-Q4's shift-condition as a coherence-time calculation alone; L118 says slow decoherence "re-elevates the demoted mechanisms" — now an overstatement for Stapp-Zeno specifically (P-Q1/P-Q5/P-Q8 are not affected; the sign problem exempts post-decoherence selection). FIX: re-quote P-Q4's current wording at L84 and scope L118 so a slow-decoherence result clears only the first gate for Zeno; keep L118's high-leverage argument for the other positions intact. Print `analyze_length` first — prefer a length-neutral edit or a piped register link. Also optional, same pass: `topics/valence-and-conscious-selection` L81 ("demotes Stapp-Zeno on decoherence-timescale grounds") is incomplete, not false — add "and regime" only if length-neutral. Sync both trees.
 
 ### ✓ 2026-09-17: P-Q4's re-elevation clause names one gate where the corpus now holds two — the sign problem's regime criterion is set by the bath correlation time, not the decoherence time
 - **Type**: positions-evolve
