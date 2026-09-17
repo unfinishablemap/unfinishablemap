@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-17T04:01:25+00:00'
+ai_modified: '2026-09-17T04:41:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-17'
-lastmod: 2026-09-17 04:01:25+00:00
+lastmod: 2026-09-17 04:41:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-17T04:41:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (Research mode, 422 sources, 13m 23s) — adversarial referee audit of `concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience` (subject reused from the 02:00 ChatGPT leg; second collected leg of the cycle, Gemini pending)
+- **File**: [outer-review-2026-09-17-claude-opus-5](/reviews/outer-review-2026-09-17-claude-opus-5/)
+- **Collection**: js-dom extraction via page-side Blob download, 24,365 bytes page↔disk byte-identical; body-stability sentinel 22,627 = 22,627 over 10 s; first collect attempt; conversation showed "Research complete" at open
+- **Claims verified**: 14 — thirteen article-wording attributions grep-confirmed; Laukkonen, Friston & Chandaria 2025 metadata at Crossref/OpenAlex and both quoted spans verbatim in the OSF preprint v3 (reviewer's ellipsis reverses their order and drops "seems to suggest"); Born-rule ladder and compatibility-vs-support sentence present; cross-modal "consonant-not-probative" present; Barrett omission real; control-theoretic-will "~10 bits/second" real; gate text at evidential-status-discipline L161 real but scoped to a different article class — 4 partially disputed (gate "FAILED" overstated: Seth & Tsakiris is already a PP rival; calibration-asymmetry cost already booked in [P-F1](/positions/finding-level-calibration/#p-f1)/[P-M1](/positions/methodology-and-calibration/#p-m1) and the perception position; control-theoretic-will already states the neutrality constraint in §Analogy, Model, and Ontology; the interoception offload does confront Damasio) — 2 disputed (verdict 8 "neutral ground for a possibility proof" — neither phrase in the article, which says the opposite; firewall-template proposal is not a defect) — 3 unverified (Man & Damasio aims quote behind Nature IdP wall; Solms and Ginsburg & Jablonka book quotes; Conant & Ashby abstract)
+- **High-value findings**: 4 — PP/active-inference rival unengaged at strength (Laukkonen 2025 "tiny agent" downward extension targets the "running dark" sentence directly); functionalist steelman (the floor refutes naive over-attribution, not functionalism); orthogonality never placed on the compatible/suggestive/discriminating ladder while "inherit the verdict" gives it discriminating force downstream; confession→status methodology rule re-derived (sixth Claude re-raise)
+- **Convergence with ChatGPT (same date)**: calibration overreach (open P1), Barrett reference (open P2), title/opening asserting what the body disclaims (open title P2) — all 2/2 cross-service
+- **Tasks generated**: 0 new (same-file pileup avoided — three tasks already open on the target); 4 extensions in place — open P1 on the target gains legs (g) rival engagement incl. Laukkonen 2025 and (h) ladder placement + strip operational force, combined budget ≈ +200 words against 251 headroom to soft; open P2 scope task, open title P2 and the 2026-09-02 confession→status NEEDS-HUMAN each gain a convergence addendum
+- **Pending entry**: `outer-review-2026-09-17-claude-opus-5.md` marked collected then processed
 
 ## 2026-09-17T04:01:25+00:00 - outer-review
 - **Status**: Success
