@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-09-07 12:33:40+00:00
+ai_modified: 2026-09-17 11:22:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 apex_last_synthesis: 2026-07-16 09:55:00+00:00
 apex_sources:
@@ -41,7 +41,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 07:23:06+00:00
-lastmod: 2026-09-07 12:33:40+00:00
+lastmod: 2026-09-17 11:22:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -85,7 +85,7 @@ These are symptoms of one underlying difficulty: materialism lacks a unified gro
 
 ### Value Lives in Experience
 
-[Phenomenal value realism](/topics/phenomenal-value-realism/) identifies intrinsic value with features of conscious experience. The felt badness of suffering *is* badness; the felt goodness of joy *is* goodness. The relation is identity rather than derivation: some phenomenal properties are simultaneously descriptive and normative. Three tests support it. Coherence: "this is intensely pleasant, but there is nothing good about it" is incoherent, not merely false. Transparency: attending to pleasure just *is* attending to something good. Explanatory economy: if pleasure and goodness were distinct properties, their perfect correlation would demand an explanation the identity eliminates.
+[Phenomenal value realism](/topics/phenomenal-value-realism/) identifies intrinsic value with features of conscious experience. The felt badness of suffering *is* badness; the felt goodness of joy *is* goodness. The relation is identity rather than derivation: some phenomenal properties are simultaneously descriptive and normative. Three arguments carry it—arguments the Map runs rather than results it has won, with [illusionism](/concepts/illusionism/) and the [no-self objection](/concepts/no-self-objection-to-phenomenal-value/) live rivals that keep its credence moderate ([P-VS3](/positions/value-in-selection/#p-vs3)). Coherence: "this is intensely pleasant, but there is nothing good about it" is incoherent, not merely false. Transparency: attending to pleasure just *is* attending to something good. Explanatory economy: if pleasure and goodness were distinct properties, their perfect correlation would demand an explanation the identity eliminates.
 
 The apparent counterexamples—addictive pleasure, pleasure taken in cruelty—reinforce the identity. The pleasure retains its positive valence; what makes the experience bad overall is the presence of *other* phenomenal properties (compulsion, degradation of agency, suffering caused) carrying negative value. Pain asymbolia is a related case: patients detect tissue damage without finding it distressing, showing that ordinary "pain" conflates a sensory component with an affective one. The identity claim holds for the affective component; where felt badness is absent, so is the disvalue.
 

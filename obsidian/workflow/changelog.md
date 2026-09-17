@@ -4,6 +4,14 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-17T04:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-17 11:24 UTC - refine-draft
+- **Status**: Success
+- **File**: [[apex/moral-architecture-of-consciousness]]
+- **Original score**: n/a (targeted P3 fix)
+- **Changes**: (1) L82 "Three tests support it" reworded to "Three arguments carry it—arguments the Map runs rather than results it has won", naming illusionism and the no-self objection ([[concepts/no-self-objection-to-phenomenal-value]], slug verified) as the live rivals keeping credence moderate, citing P-VS3; identity claim untouched. (2) Pain-asymbolia leg already discharged by commit 0b9f4d78c5 (L148 now carries the clamp condition and the Griffith-and-Kind vs Duval-and-Klein contest, matching P-VS2's current text) — no edit. Length 4743 → 4766 (apex soft 4000 / hard 5000). ai_system held.
+- **Published**: yes
+
 ## 2026-09-17T11:09:44+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/physics-as-disclosure]] (+ Barrett propagation to [[concepts/quantum-completeness]], [[topics/completeness-in-physics-under-dualism]])
