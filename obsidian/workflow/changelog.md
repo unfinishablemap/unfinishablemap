@@ -5,6 +5,14 @@ ai_modified: '2026-09-17T04:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-17T16:25:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The involuntary and voluntary memory boundary
+- **Output**: [[research/involuntary-and-voluntary-memory-boundary-2026-09-17]]
+- **Sources consulted**: 26 (Berntsen 2010 and Mole 2017 read in full; 12 abstracts via OpenAlex; all citation metadata checked at Crossref)
+- **Assess-first**: coverage scattered across 6 articles, none addressing the boundary or what it means for agency. Concepts 326/360
+- **Defects surfaced**: voids/agency-void attributes "outnumber roughly 2:1" to Berntsen (2010), but that paper says "about as frequent", and the outnumber result is Rasmussen & Berntsen (2011) at 3:1; topics/consciousness-and-memory says unscoped that "attention selects which memory to access"
+
 ## 2026-09-17 15:58 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/moral-census-opacity]]
