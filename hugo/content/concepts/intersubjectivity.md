@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-06-13 13:46:48+00:00
+ai_modified: 2026-09-17 14:07:05+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 00:02:00+00:00
-lastmod: 2026-06-13 13:46:48+00:00
+lastmod: 2026-09-17 14:07:05+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
@@ -86,7 +86,7 @@ The [argument from discourse](/concepts/problem-of-other-minds/#the-argument-fro
 
 Instead, we inherit a rich vocabulary for inner experience across every human culture. Sanskrit distinguishes *chit* (consciousness) from *vijñāna* (discriminative awareness). Greek has *phronesis* (practical wisdom), *nous* (intellect), and *aisthesis* (perception). Contemporary philosophy has qualia, intentionality, access consciousness, phenomenal consciousness. Religious traditions speak of souls, spirits, and illumination.
 
-This conceptual inheritance is intersubjective evidence. Minds in different bodies, different cultures, different centuries have independently discovered and communicated about their subjective states. The convergence—similar distinctions (sensation versus thought, belief versus desire), similar puzzles (the nature of consciousness, the reality of free will), similar practices (meditation, introspection, contemplative inquiry)—suggests genuine intersubjective access to real phenomenological features.
+This conceptual inheritance is intersubjective evidence. Minds in different bodies, cultures, and centuries have discovered and communicated about their subjective states. The convergence—similar distinctions (sensation versus thought, belief versus desire), similar puzzles (the nature of consciousness, the reality of free will), similar practices (meditation, introspection, contemplative inquiry)—suggests genuine intersubjective access to real phenomenological features: suggestive support, not independent corroboration, since all human introspection shares one instrument.
 
 A skeptic might argue that shared concepts don't prove shared experience. Perhaps convergent cognitive architecture produces convergent introspective frameworks without those frameworks corresponding to genuine phenomenal properties — cross-cultural similarities might reflect shared neural organisation rather than shared access to real phenomenology.
 

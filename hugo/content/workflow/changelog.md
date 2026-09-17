@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-17 14:07 UTC - refine-draft
+- **Status**: Success
+- **File**: [intersubjectivity](/concepts/intersubjectivity/)
+- **Original score**: n/a (targeted residue fix)
+- **Changes**: "Conceptual inheritance" paragraph: dropped "independently" from "have independently discovered" (an inheritance is not independent) and qualified the convergence-as-evidence sentence with the shared-instrument discount ("suggestive support, not independent corroboration, since all human introspection shares one instrument", template from concepts/buddhism-and-dualism). Collapsed "different bodies, different cultures, different centuries" to offset. Word count 2632 → 2641 (+9). ai_system held.
+- **Published**: yes
+
 ## 2026-09-17 13:53 UTC - deep-review
 - **Status**: Success
 - **File**: [somatic-interface](/concepts/somatic-interface/)
