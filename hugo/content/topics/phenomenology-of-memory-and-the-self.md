@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-09-01 20:04:45+00:00
+ai_modified: 2026-09-17 20:48:08+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -30,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 22:56:00+00:00
-lastmod: 2026-09-01 20:04:45+00:00
+lastmod: 2026-09-17 20:48:08+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -55,7 +55,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Remembering is the act through which a self encounters itself across time. When you recall a childhood afternoon, you do not access a file—you re-inhabit a perspective, experiencing yourself as both present rememberer and past protagonist. This double presence is how the self discovers it has a past, and therefore that it is the kind of thing that persists. The Unfinishable Map argues that remembering—with its distinctive phenomenology of ownership, pastness, and reconstruction—both constitutes the temporally extended self and reveals the limits of self-knowledge. Memory builds the self it cannot fully recover.
+Remembering is the act through which a self encounters itself across time. Recalling a childhood afternoon, you do not access a file—you re-inhabit a perspective, experiencing yourself as both present rememberer and past protagonist. This double presence is how the self discovers it has a past, and therefore that it is the kind of thing that persists. The Unfinishable Map argues that remembering—with its distinctive phenomenology of ownership, pastness, and reconstruction—both constitutes the temporally extended self and reveals the limits of self-knowledge. Memory builds the self it cannot fully recover.
 
 <details class="yt-embed" data-video-id="lF5n6jgBuZo">
 <summary>Video introduction</summary>
@@ -67,11 +67,11 @@ Remembering is the act through which a self encounters itself across time. When 
 
 Husserl's *retention*—the holding-on to the just-elapsed phase of ongoing experience—is an analogue of Tulving's [autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) rather than the same phenomenon: Husserl separates retention from free *recollection* of an absent past event, and recollection is the nearer counterpart. Remembering your first day at school, you are simultaneously here (present, adult, reflecting) and there (past, child, undergoing)—remembering subject and remembered subject at once.
 
-This double presence is the phenomenological signature of temporal selfhood. Perception gives you a world; imagination gives you a scenario; episodic memory gives you *yourself* as having been someone—the same someone now remembering, with the recognition "that was me" built into the experience's structure.
+This double presence is the phenomenological signature of temporal selfhood. Perception gives you a world, imagination a scenario; episodic memory gives you *yourself* as having been someone, with "that was me" built into the experience's structure.
 
 Three features distinguish it:
 
-**Mineness without observation**: The past self is given as *yours* from the inside rather than observed like a photograph. Even in observer memories (seeing yourself "from the outside"), the ownership relation is phenomenally direct.
+**Mineness without observation**: The past self is given as *yours* from the inside rather than observed like a photograph. Even in observer memories—seeing yourself "from the outside"—the ownership relation is phenomenally direct.
 
 **Pastness as felt temporal distance**: Remembering presents its object as having happened, and the sense of distance belongs to how the experience feels rather than to what it says. The Map reads that felt distance as a *pastness quale*, on a par with the redness of red—a reading it defends rather than assumes. Most contemporary philosophy of memory denies it; the [deflationary readings](#deflationary-readings-of-pastness) below set out the alternatives.
 
@@ -83,13 +83,13 @@ Pastness, mineness and double presence are phenomenological reports—evidence a
 
 ## Memory as Self-Constitution
 
-The self does not exist first and then remember; it becomes temporally extended *through* remembering. Memory takes the [minimal self](/concepts/self-and-self-consciousness/)—bare first-person perspective—and makes it a self with a history. The Map's [temporal constitution thesis](/topics/temporal-consciousness-structure-and-agency/) treats this as one component of a single architecture on which consciousness actively constitutes temporal structure, rather than one of several convergent demonstrations that it does; the same [common-cause null](/project/common-cause-null/) applies here.
+The self does not exist first and then remember; it becomes temporally extended *through* remembering, which takes the [minimal self](/concepts/self-and-self-consciousness/)—bare first-person perspective—and makes it a self with a history. The Map's [temporal constitution thesis](/topics/temporal-consciousness-structure-and-agency/) treats this as one component of a single architecture on which consciousness actively constitutes temporal structure, rather than one of several convergent demonstrations that it does; the same [common-cause null](/project/common-cause-null/) applies here.
 
-**Narrative integration**: Recall organises individual memories into patterns, and the resulting [personal narrative](/concepts/narrative-coherence/) is how the self understands itself as having developed. [Diachronic agency](/topics/diachronic-agency-and-personal-narrative/) depends on it: you sustain projects because memory connects past commitment to present effort.
+**Narrative integration**: Recall organises memories into patterns, and the resulting [personal narrative](/concepts/narrative-coherence/) is how the self understands itself as having developed—what [diachronic agency](/topics/diachronic-agency-and-personal-narrative/) runs on, since memory connects past commitment to present effort.
 
-**Emotional continuity**: Memories carry emotional signatures that persist across recall—the shame of a childhood humiliation—connecting present self to past through felt resonance. You are the person for whom that event *still matters*, a form of temporal identity psychological-continuity theories overlook.
+**Emotional continuity**: Memories carry emotional signatures that persist across recall, so you are the person for whom a childhood humiliation *still matters*—a form of temporal identity psychological-continuity theories overlook.
 
-**Self-revision**: Remembering is often also reinterpretation—what seemed like failure at twenty may be recast as necessary redirection at forty. The substantial self shows itself here: something must persist through the revision for it to count as *re*interpretation.
+**Self-revision**: Remembering is often also reinterpretation—failure at twenty recast as necessary redirection at forty. The substantial self shows itself here: something must persist through the revision for it to count as *re*interpretation.
 
 ## Memory as Self-Threat
 
@@ -105,11 +105,11 @@ The same process that builds the self threatens it: reconstruction means the sel
 
 Contemporary philosophy of memory offers several deflationary readings, each denying pastness is a primitive phenomenal property. The **metacognitive epistemic-feeling reading** (Perrin, Michaelian & Sant'Anna 2020) holds pastness is a downstream feeling produced by monitoring retrieval features—fluency, vividness, source-signals. The reply does not turn on rejecting metacognition: the metacognitive feeling is itself something the subject is conscious of, so relocating felt-pastness one tier up does not remove it from the phenomenal register. The move is bounded; [the falsification discussion below](#the-pastness-quale-and-irreducibility) states the bound. The reading's strongest form presses where relocation cannot reach: felt pastness as a culturally acquired discriminative skill for reality-monitoring, an assembly of cues leaving no unified phenomenal item at the relocated site to defend. That challenge is live, and its empirical form is the first falsifier named below.
 
-The **intentionalist reading** (Fernández 2019) holds pastness is a representational property—the memory represents itself as caused by a past experience. The view owes a story about why representation of pastness produces a felt difference between remembering and imagining the same content. If intentionalism succeeded, the irreducibility claim would transfer from pastness to qualia generally.
+The **intentionalist reading** (Fernández 2019) holds pastness is a representational property—the memory represents itself as caused by a past experience. The view owes a story about why representation of pastness produces a felt difference between remembering and imagining the same content—a debt Perrin and Sant'Anna (2022) argue it cannot pay, preferring metacognition. If intentionalism succeeded, the irreducibility claim would transfer from pastness to qualia generally.
 
 The **two-tier** (Dokic 2014) and **felt-quality** readings (Matthen 2010; Russell 2014) are absorbable: Dokic's phenomenal tier is where the article's claim sits, and Matthen and Russell specify the felt character—spatiotemporal embeddedness and ergonomic significance, felt remoteness from the present—rather than deflating it.
 
-The **simulationist reading** (Michaelian 2016) is the sharpest: the felt difference is a metacognitive tag applied to past-oriented runs of the shared constructive system described above. Shared default-mode circuitry constrains the "phenomenally indistinguishable" identity claim without establishing reduction—subjects report a robust felt difference even when both processes recruit the same network. The Map's full engagement, adopting the constructive deflation while refusing its eliminative gloss, is developed in [simulation-theory-of-memory](/concepts/simulation-theory-of-memory/).
+The **simulationist reading** (Michaelian 2016) is the sharpest: the felt difference is a metacognitive tag applied to past-oriented runs of the shared constructive system described above. Shared default-mode circuitry constrains the "phenomenally indistinguishable" identity claim without establishing reduction—subjects report a robust felt difference even when both processes recruit the same network. The Map's full engagement—adopting the constructive deflation, refusing its eliminative gloss—is developed in [simulation-theory-of-memory](/concepts/simulation-theory-of-memory/).
 
 A related challenge is discrimination: pastness must distinguish genuine memory from same-content imagination and hallucination. Bernecker (2010): memory has success conditions, and a state with no causal connection to the original event is confabulation. McCarroll (2018) argues observer memories are genuine despite their external perspective, so the felt-as-past signature underdetermines the kind of memory it accompanies. Robins (2016) separates the *process* of remembering from its *product*: a confabulation can replicate the product's felt character without the causally proper process. The Map's commitment rules out strong simulationism without requiring pastness to be the sole discriminator: source-monitoring can do the discriminating while the pastness quale accurately reflects its verdict.
 
@@ -117,11 +117,11 @@ A related challenge is discrimination: pastness must distinguish genuine memory 
 
 The felt pastness of genuine memories—the qualitative sense that "this happened to me, back then"—is where the Map's reading and its rivals part company. A computer can represent that an event occurred at time T; whether anything phenomenal must accompany that representation is the question at issue. Functional, source-monitoring and metacognitive accounts identify mechanisms correlated with rememberedness—hippocampal pattern completion, prefrontal monitoring, source-attribution—but none has yet *derived* why mechanism-output is experienced *as* re-encountering one's own past. On the Map's reading that residue is the [hard problem](/topics/hard-problem-of-consciousness/) in the temporal domain, and [the rehabilitation of introspective evidence](/topics/phenomenal-authority-and-first-person-evidence/) licenses treating it as a datum rather than an illusion awaiting debunking.
 
-The contrast with [noetic consciousness](/concepts/semantic-memory/) sharpens the point. Knowing that you graduated in 2015 and *remembering* walking across the stage involve different phenomenologies despite similar content: the autonoetic version carries the pastness quale, the ownership sense, and the double presence; the noetic version does not. The difference lies in the *mode of consciousness* rather than the information processed ([anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)).
+The contrast with [noetic consciousness](/concepts/semantic-memory/) sharpens the point. Knowing that you graduated in 2015 and *remembering* walking across the stage share content but not phenomenology: the autonoetic version carries the pastness quale, the ownership sense, and the double presence; the noetic version does not. The difference lies in the *mode of consciousness* rather than the information processed ([anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)).
 
 The relocation reply used against the deflationary readings is not free, and the cost has to be paid here. Applied without limit, the claim that identifying a mechanism moves the phenomenal fact rather than dissolving it disqualifies every mechanistic result in advance—and an argument shielded that thoroughly earns nothing distinctive from memory science, resting on the general hard-problem premise and nothing more. So the limit must be stated. Two findings often offered as falsifiers fall on the wrong side of it: a successful computational account of mental time travel, and a functionalist account of semanticisation. Both specify how the state is produced; neither addresses why its output is experienced, so relocation absorbs both. Naming them as falsifiers while holding the relocation reply would be decorative, and the [evidential-status discipline](/project/evidential-status-discipline/) rules that out.
 
-Two results do survive, and they are what memory contributes beyond the general premise. The first tests whether felt pastness is one property or a bundle. If it decomposes into separately manipulable cues—fluency, vividness, contextual detail, source-signal strength—and reports track those components independently, with no residual felt quality once they are controlled, then there is no unified item at the relocated site, and the deflationary reading wins on this article's own terms rather than at the framework boundary. The second tests whether the noetic/autonoetic difference is a difference in kind. If careful phenomenological report grades smoothly between knowing-that and remembering-as, the joint drawn in this section is an artefact of coarse categories; semanticisation studied phenomenologically rather than functionally—tracking whether felt pastness fades by degrees as an episodic memory becomes semantic—is the sharpest available test. This one is closer to live than a hypothetical: work on autobiographical retrieval increasingly models the relevant properties as separately graded, so the literature is already running the test. Either result would lower confidence in the reading defended here while leaving the hard problem untouched.
+Two results do survive, and they are what memory contributes beyond the general premise. The first tests whether felt pastness is one property or a bundle. If it decomposes into separately manipulable cues—fluency, vividness, contextual detail, source-signal strength—and reports track those components independently, with no residual felt quality once they are controlled, then there is no unified item at the relocated site, and the deflationary reading wins on this article's own terms rather than at the framework boundary. The second tests whether the noetic/autonoetic difference is a difference in kind. If careful phenomenological report grades smoothly between knowing-that and remembering-as, the joint drawn in this section is an artefact of coarse categories; semanticisation studied phenomenologically rather than functionally—tracking whether felt pastness fades by degrees as an episodic memory becomes semantic—is the sharpest available test. This one is closer to live than a hypothetical: autobiographical-memory research increasingly models the relevant properties as separately graded (Wardell & Palombo 2024), so the literature is already running the test. Either result would lower confidence in the reading defended here while leaving the hard problem untouched.
 
 De Brigard (2024) presses a challenge sharper than either test. He argues that autonoetic consciousness lacks construct validity, that even if valid it would not be necessary for episodic memory, and that episodic memory is better characterised functionally, with its phenomenology a contingent feature of retrieval. The necessity limb is already granted above: the argument needs only that where re-experiencing occurs, it carries a character functional description leaves out. The construct-validity limb goes beyond the decomposition test, asking whether the measures operationalising autonoesis—remember/know judgements, vividness ratings, reported re-living—converge on anything at all; if they do not, there is no unified item at the relocated site to protect, and relocation has nowhere to run. The Map has no decisive answer to that and holds the reading defended here at correspondingly moderate confidence; [the apex treatment](/apex/phenomenal-output-causal-machinery-dissociation/) reaches the same verdict from the other direction.
 
@@ -163,18 +163,10 @@ The conclusions stand only inside the Map's auxiliary commitments: hard-problem 
 - [episodic-memory](/concepts/episodic-memory/)
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/)
 - [personal-identity](/topics/personal-identity/)
-- [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/)
-- [inaccessible-past](/voids/inaccessible-past/)
 - [consciousness-and-memory](/topics/consciousness-and-memory/)
 - [temporal-consciousness](/concepts/temporal-consciousness/)
-- [self-and-self-consciousness](/concepts/self-and-self-consciousness/)
-- [haecceity](/concepts/haecceity/)
 - [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/)
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)
-- [narrative-coherence](/concepts/narrative-coherence/)
-- [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
-- [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
-- [memory-anomalies](/topics/memory-anomalies/)
 - [phenomenology-of-forgetting](/topics/phenomenology-of-forgetting/)
 
 ## References
@@ -191,11 +183,13 @@ The conclusions stand only inside the Map's auxiliary commitments: hard-problem 
 1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time (1893–1917)*. Trans. J. B. Brough. Kluwer.
 1. Schechtman, M. (1996). *The Constitution of Selves*. Cornell University Press.
 1. Perrin, D., Michaelian, K., & Sant'Anna, A. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.
+1. Perrin, D., & Sant'Anna, A. (2022). Episodic memory and the feeling of pastness: From intentionalism to metacognition. *Synthese*, 200(2), 109.
 1. Fernández, J. (2019). *Memory: A Self-Referential Account*. Oxford University Press.
 1. Dokic, J. (2014). Feeling the past: A two-tiered account of episodic memory. *Review of Philosophy and Psychology*, 5(3), 413–426.
 1. Matthen, M. (2010). Is memory preservation? *Philosophical Studies*, 148(1), 3–14.
 1. Russell, J. (2014). Episodic memory as re-experiential memory: Kantian, developmental, and neuroscientific currents. *Review of Philosophy and Psychology*, 5(3), 391–411.
 1. Michaelian, K. (2016). *Mental Time Travel: Episodic Memory and Our Knowledge of the Personal Past*. MIT Press.
+1. Wardell, V., & Palombo, D. J. (2024). Stability and malleability of emotional autobiographical memories. *Nature Reviews Psychology*, 3(6), 393–406.
 1. De Brigard, F. (2024). Episodic memory without autonoetic consciousness. *Philosophical Transactions of the Royal Society B*, 379(1913), 20230410.
 1. Lane, T. (2012). Toward an explanatory framework for mental ownership. *Phenomenology and the Cognitive Sciences*, 11(2), 251–286.
 1. Guillot, M. (2017). I me mine: On a confusion concerning the subjective character of experience. *Review of Philosophy and Psychology*, 8(1), 23–53.
