@@ -5,6 +5,13 @@ ai_modified: '2026-09-17T04:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-17T06:53:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/bacterial-chemotaxis-and-minimal-biogenic-cognition]]
+- **Original score**: n/a (targeted outer-review fix; reviews/outer-review-2026-09-17-chatgpt-5-6-sol-pro.md)
+- **Changes**: (a) Precision boundary installed at the "Adapt and remember" step: near-perfect adaptation holds over a finite range; receptor methylation sites saturate at high attractant concentrations and adaptation grows imprecise (Neumann et al. 2014). Reference reused verbatim from the sibling concepts/near-perfect-adaptation article (c3f703876d) and re-verified 2026-09-17 via Crossref (5 authors, PLoS ONE 9(1), DOI resolves; e-number from DOI) and the Europe PMC abstract (PMID 24416308: "increasingly imprecise adaptation to higher concentrations of attractants", "gradual saturation of receptor methylation sites"). Inserted as ref 9 alphabetically; refs 9-12 renumbered to 10-13 (no inline numeric citations in the body). (b) Vocabulary guard: "remember" = present state depends on past input, "decide" = state shifts run/tumble probability; deliberative or phenomenal decision is a stronger claim chemotaxis does not establish. Length held under soft: trimmed "Howard"/"of that 1972 work", "biochemical", "measurably" — body 2925 -> 2998 (topics soft 3000, status ok). Both trees synced. No named-opponent reply changed (no mode classification needed).
+- **Published**: yes
+
 ## 2026-09-17T06:30:30+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Control-architecture distinctions and the competency ladder (good-regulator theorem, internal model principle, Rosenblueth-Wiener-Bigelow purposive behaviour)
