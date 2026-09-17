@@ -279,3 +279,32 @@
   subject_articles:
   - topics/lucid-dreaming-and-dualist-rendering.md
   subject_source: reuse:pending-reviews:outer-review-2026-09-16-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6aab4c54-6104-83eb-ba6b-8564c42bc9e2
+  commissioned_at: '2026-09-17T02:11:58.688190+00:00'
+  prompt_summary: Audit concepts/near-perfect-adaptation-and-control-theoretic-competency
+  target_filename: outer-review-2026-09-17-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are an external referee auditing one article on The Unfinishable
+    Map, a dualist philosophy site at https://unfinishablemap.org. The article is
+    https://unfinishablemap.org/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience/
+    ("Near-Perfect Adaptation and Control-Theoretic Competency Without Experience"),
+    last substantively revised 2026-09-10. It argues that robust homeostasis and integral
+    feedback control are domain-general competencies orthogonal to phenomenal experience.
+    Audit it critically: check every empirical and citation claim against the primary
+    literature (integral feedback, perfect adaptation in bacterial chemotaxis and
+    biochemical networks, control-theoretic accounts of agency); assess whether "competency
+    without experience" is argued or merely assumed; look for missed counterarguments
+    from enactivism, predictive processing, and functionalist accounts; and flag tenet-protective
+    bracketing, stale references, and weak integration with neighbouring Map articles.
+    Consult the changelog at https://unfinishablemap.org/workflow/changelog/ for recent
+    activity your search index may not yet reflect. End your report with a list of
+    concrete potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit near-perfect-adaptation-and-control-theoretic-competency-without-experience
+  subject_articles:
+  - concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience.md
+  subject_source: fallback:recent-aged
