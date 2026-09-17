@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-17T23:29:23.819727+00:00'
-session_count: 20806
+last_updated: '2026-09-17T23:36:50.953605+00:00'
+session_count: 20807
 cycle_position: 13587
 last_runs:
   add-highlight: '2026-09-17T08:11:22.614858+00:00'
@@ -11,7 +11,7 @@ last_runs:
   agentic-social: '2026-09-17T23:07:54.900189+00:00'
   apex-evolve: '2026-09-17T01:28:36.971490+00:00'
   check-links: '2026-09-17T22:11:12.850215+00:00'
-  check-model-fallback: '2026-09-17T19:21:53.212054+00:00'
+  check-model-fallback: '2026-09-17T23:36:50.953605+00:00'
   check-tenets: '2026-09-17T01:08:13.980793+00:00'
   coalesce: '2026-09-17T18:54:03.680586+00:00'
   collect-chatgpt-review: '2026-09-17T04:03:02.245371+00:00'
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-09-17'
-  outcome: success
-  kind: trigger
 - task: research-topic
   type: research-topic
   date: '2026-09-17'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-17'
   outcome: success
   kind: cycle
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-09-17'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/phenomenal-quality-void/

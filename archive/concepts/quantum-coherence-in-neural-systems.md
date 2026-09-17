@@ -4,7 +4,7 @@ description: "Can quantum effects persist in warm brains? A qualified yes: revis
 created: 2026-01-18
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-07-31T03:33:32+00:00
+ai_modified: 2026-09-17T23:54:28+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -217,7 +217,7 @@ In [[witness-consciousness|witness consciousness]] (sakshi in Vedantic tradition
 
 These contemplative reports are not proof, but they constitute evidence that phenomenology is consistent with quantum selection—the experiential texture of consciousness matches what quantum mechanisms would predict better than what classical mechanisms would predict.
 
-**Buddhist complication**: The Buddhist doctrine of anattā (no-self) challenges any account requiring a unified observer. If consciousness involves quantum selection, what selects? Process philosophy's response through [[haecceity|process haecceity]]—the particular actual occasion as selective locus—accommodates both momentary selection and Buddhist phenomenology without requiring a substantial self.
+**Buddhist complication**: The Buddhist doctrine of anattā (no-self) presses against any account requiring a unified observer. If consciousness involves quantum selection, what selects? Process philosophy answers with the actual occasion as selective locus, and the answer does not absorb the pressure. [[haecceity|Process haecceity]] does real work—*this* occasion is distinct from another without permanence—but individuating a selective locus is not constituting a subject whose selection an outcome is. What the traditions share is *mental causation*, which [[tenets#^bidirectional-interaction|Bidirectional Interaction]] asserts; what they do not share is [[agent-causation|agent causation]], which routes it through a persisting substance-bearing subject *anattā* denies. The bare claim that consciousness biases quantum outcomes needs no such subject; the [[where-the-substance-commitment-enters|question of who selects]] does. The divergence is bedrock—P-I1's rejection of empty individualism—[[non-temporal-consciousness|noted, not refuted from inside Madhyamaka's own resources]].
 
 ## What Coherence Does Not Require
 

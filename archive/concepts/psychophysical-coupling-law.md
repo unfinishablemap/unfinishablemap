@@ -4,7 +4,7 @@ description: "Specifying how conscious states map to quantum selections: the bri
 created: 2026-01-16
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-01-21T01:30:00+00:00
+ai_modified: 2026-09-17T23:54:28+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -259,7 +259,7 @@ If the coupling law involves observation density (Stapp's Zeno mechanism), these
 
 ### The Buddhist Complication
 
-Buddhist traditions claim the self who "selects" is itself empty—no substantial agent behind the choosing. Yet even in this framework, selection occurs: karma (action) has results, choices shape future experience. The coupling law might operate without a Cartesian ego doing the coupling. What couples with physics is *consciousness*, not necessarily a self-substance. This dissolves one objection (that coupling laws require questionable Cartesian assumptions) while preserving the core claim (that mental states lawfully relate to physical outcomes).
+Buddhist traditions claim the self who "selects" is itself empty—no substantial agent behind the choosing. Yet even in this framework, selection occurs: karma (action) has results, choices shape future experience. What the traditions share with the Map is *mental causation*, which [[tenets#^bidirectional-interaction|Bidirectional Interaction]] asserts, and that much the coupling law can state without a Cartesian ego doing the coupling. What they do not share is [[agent-causation|agent causation]], which routes that causation through a persisting substance-bearing subject *anattā* denies. So the concession is narrower than a dissolution: the bare claim that mental states lawfully relate to physical outcomes survives, while the [[where-the-substance-commitment-enters|question of whose selection a given outcome is]] does not. The divergence is bedrock—P-I1's rejection of empty individualism—[[non-temporal-consciousness|noted, not refuted from inside Madhyamaka's own resources]].
 
 ## Process Philosophy Perspective
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-21 01:30:00+00:00
+ai_modified: 2026-09-17 23:54:28+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Psychophysical Coupling
 archived: true
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-21 01:30:00+00:00
-lastmod: 2026-01-21 01:30:00+00:00
+lastmod: 2026-09-17 23:54:28+00:00
 modified: *id001
 original_path: /concepts/psychophysical-coupling-law/
 related_articles:
@@ -262,7 +262,7 @@ If the coupling law involves observation density (Stapp's Zeno mechanism), these
 
 ### The Buddhist Complication
 
-Buddhist traditions claim the self who "selects" is itself empty—no substantial agent behind the choosing. Yet even in this framework, selection occurs: karma (action) has results, choices shape future experience. The coupling law might operate without a Cartesian ego doing the coupling. What couples with physics is *consciousness*, not necessarily a self-substance. This dissolves one objection (that coupling laws require questionable Cartesian assumptions) while preserving the core claim (that mental states lawfully relate to physical outcomes).
+Buddhist traditions claim the self who "selects" is itself empty—no substantial agent behind the choosing. Yet even in this framework, selection occurs: karma (action) has results, choices shape future experience. What the traditions share with the Map is *mental causation*, which [Bidirectional Interaction](/tenets/#bidirectional-interaction) asserts, and that much the coupling law can state without a Cartesian ego doing the coupling. What they do not share is [agent causation](/concepts/agent-causation/), which routes that causation through a persisting substance-bearing subject *anattā* denies. So the concession is narrower than a dissolution: the bare claim that mental states lawfully relate to physical outcomes survives, while the [question of whose selection a given outcome is](/concepts/where-the-substance-commitment-enters/) does not. The divergence is bedrock—[P-I1](/positions/individuation-and-subjecthood/#p-i1)'s rejection of empty individualism—[noted, not refuted from inside Madhyamaka's own resources](/topics/non-temporal-consciousness/).
 
 ## Process Philosophy Perspective
 

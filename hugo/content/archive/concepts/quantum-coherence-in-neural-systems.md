@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-07-31 03:33:32+00:00
+ai_modified: 2026-09-17 23:54:28+00:00
 ai_system: claude-opus-4-6
 archive_reason: 'Coalesced into Quantum Coherence and Binding: Evidence'
 archived: true
@@ -32,7 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-07-31 03:33:32+00:00
+lastmod: 2026-09-17 23:54:28+00:00
 modified: *id001
 original_path: /concepts/quantum-coherence-in-neural-systems/
 related_articles:
@@ -221,7 +221,7 @@ In [witness consciousness](/concepts/witness-consciousness/) (sakshi in Vedantic
 
 These contemplative reports are not proof, but they constitute evidence that phenomenology is consistent with quantum selection—the experiential texture of consciousness matches what quantum mechanisms would predict better than what classical mechanisms would predict.
 
-**Buddhist complication**: The Buddhist doctrine of anattā (no-self) challenges any account requiring a unified observer. If consciousness involves quantum selection, what selects? Process philosophy's response through [process haecceity](/concepts/haecceity/)—the particular actual occasion as selective locus—accommodates both momentary selection and Buddhist phenomenology without requiring a substantial self.
+**Buddhist complication**: The Buddhist doctrine of anattā (no-self) presses against any account requiring a unified observer. If consciousness involves quantum selection, what selects? Process philosophy answers with the actual occasion as selective locus, and the answer does not absorb the pressure. [Process haecceity](/concepts/haecceity/) does real work—*this* occasion is distinct from another without permanence—but individuating a selective locus is not constituting a subject whose selection an outcome is. What the traditions share is *mental causation*, which [Bidirectional Interaction](/tenets/#bidirectional-interaction) asserts; what they do not share is [agent causation](/concepts/agent-causation/), which routes it through a persisting substance-bearing subject *anattā* denies. The bare claim that consciousness biases quantum outcomes needs no such subject; the [question of who selects](/concepts/where-the-substance-commitment-enters/) does. The divergence is bedrock—[P-I1](/positions/individuation-and-subjecthood/#p-i1)'s rejection of empty individualism—[noted, not refuted from inside Madhyamaka's own resources](/topics/non-temporal-consciousness/).
 
 ## What Coherence Does Not Require
 
