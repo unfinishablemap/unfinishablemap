@@ -102,7 +102,7 @@ In "Consciousness and the Collapse of the Wave Function" (2022), Chalmers and Mc
 
 The quantum framework addresses constraints (1) and (2) elegantly: consciousness causes collapse without violating closure, since collapse is physically underdetermined.
 
-**The Map's position on Chalmers-McQueen**: The Map prefers Stapp's attention-based mechanism over IIT-based measures because (a) IIT's phi measure faces the "wrong results" objection (attributing consciousness to systems that seem unconscious), and (b) attention provides a phenomenologically grounded variable mapping directly to experienced effort.
+**The Map's position on Chalmers-McQueen**: In the Map's [preference ordering](/topics/comparing-quantum-consciousness-mechanisms/#preference-ordering), CSL-IIT hybrids and Stapp's attention-based mechanism are co-preferred fallbacks below post-decoherence selection; the considerations weighing between them are that (a) IIT's phi measure faces the "wrong results" objection (attributing consciousness to systems that seem unconscious), and (b) attention provides a phenomenologically grounded variable mapping directly to experienced effort.
 
 ## The Bandwidth Constraint
 

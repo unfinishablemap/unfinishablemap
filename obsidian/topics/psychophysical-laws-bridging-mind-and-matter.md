@@ -4,7 +4,7 @@ description: "If consciousness is distinct, laws must bridge mind and matter. Ch
 created: 2026-01-26
 modified: 2026-02-07
 human_modified:
-ai_modified: 2026-09-08T16:50:16+00:00
+ai_modified: 2026-09-17T11:37:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -108,7 +108,7 @@ Chalmers and McQueen's (2022) most innovative contribution addresses a specific 
 
 This constitutes downward causation: consciousness makes physical states definite by triggering collapse. Chalmers and McQueen combine IIT (specifying *which* physical configurations are conscious), Continuous Spontaneous Localization (providing collapse physics), and the super-resistance principle (coupling phenomenal properties to collapse dynamics).
 
-**The Map's engagement**: Super-resistance is compatible with the Map's framework, providing one mechanism by which consciousness could influence physical outcomes. However, the Map prefers Stapp's attention-based mechanism over IIT-based measures: attention provides a phenomenologically grounded variable mapping directly to mental effort, whereas IIT's phi measure faces the wrong-results objection—attributing consciousness to systems that seem unconscious.
+**The Map's engagement**: Super-resistance is compatible with the Map's framework as one route for conscious influence on physical outcomes. The Map's [[comparing-quantum-consciousness-mechanisms#preference-ordering|preference ordering]] ranks CSL-IIT hybrids and Stapp's attention-based model as co-preferred fallbacks below post-decoherence selection: attention supplies a phenomenologically grounded variable, experienced effort, whereas IIT's phi measure faces the wrong-results objection—attributing consciousness to systems that seem unconscious.
 
 **Challenges**: The quantum Zeno problem (consciousness could get "stuck" in eigenstates); relativistic compatibility (collapse theories face tensions with special relativity); and empirical testing (distinguishing consciousness-caused collapse from decoherence-plus-hidden-variables remains difficult). Chalmers and McQueen present this as "a research program worth exploring" rather than an endorsed position, retaining sympathy for other interpretations including Many-Worlds.
 
@@ -142,7 +142,7 @@ The quantum Zeno effect provides amplification: rapid repeated observation preve
 
 **The decoherence objection**: Georgiev's (2015) Monte Carlo simulations showed the quantum Zeno effect breaks down for timescales exceeding brain decoherence time. If neural quantum states decohere in femtoseconds while attention operates at millisecond timescales, the Zeno mechanism cannot bridge the gap.
 
-**The post-decoherence concession**: If the Zeno mechanism fails at neural timescales, one fallback relocates consciousness's role to outcome determination after decoherence has already selected preferred bases—consciousness biases which possible outcome becomes actual (see [[forward-in-time-conscious-selection]] for the full treatment). This is a significant retreat: the original Zeno formulation made a specific, testable claim, while "consciousness selects among physically possible outcomes" is difficult to distinguish from "outcomes are stochastic." Three candidate discriminators have been proposed—systematic bias aligned with attentional goals, temporal correlation with reportable phenomenal states, and intervention asymmetry—but none is currently testable. The honest assessment: the specific version of Stapp's mechanism may not work, and the replacement does not yet generate discriminating predictions.
+**The post-decoherence reading**: Post-decoherence selection is the Map's leading candidate, not a fallback (P-Q4: "Stapp's quantum Zeno mechanism is currently demoted relative to post-decoherence selection"). It locates consciousness's role in [[forward-in-time-conscious-selection|outcome determination]] after decoherence has selected preferred bases. The price: the original Zeno formulation made a specific, testable claim, while "consciousness selects among physically possible outcomes" is difficult to distinguish from "outcomes are stochastic." Three discriminators have been proposed—systematic bias aligned with attentional goals, temporal correlation with reportable phenomenal states, and intervention asymmetry—but none is currently testable. The honest assessment: the specific version of Stapp's mechanism may not work, and the preferred candidate does not yet generate discriminating predictions.
 
 ### Eccles' Intention as Quantum Tunneling Probability
 

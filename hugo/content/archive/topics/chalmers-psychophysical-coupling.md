@@ -125,7 +125,7 @@ This has implications for psychophysical coupling:
 - The direction of influence is from phenomenal to physical: consciousness makes physical states definite
 - This is downward causation, albeit of a specific kind: consciousness causes collapse
 
-**The Map's engagement**: The super-resistance principle is compatible with the Map's framework. It provides one mechanism by which consciousness could influence physical outcomes—by collapsing superpositions that would otherwise remain indefinite. However, the Map prefers Henry Stapp's attention-based mechanism over IIT-based measures: attention provides a phenomenologically grounded variable that maps directly to what we experience as mental effort, whereas IIT's phi measure faces the wrong-results objection.
+**The Map's engagement**: The super-resistance principle is compatible with the Map's framework. It provides one mechanism by which consciousness could influence physical outcomes—by collapsing superpositions that would otherwise remain indefinite. In the Map's [preference ordering](/topics/comparing-quantum-consciousness-mechanisms/#preference-ordering), CSL-IIT hybrids and Henry Stapp's attention-based mechanism are co-preferred fallbacks below post-decoherence selection: attention provides a phenomenologically grounded variable that maps directly to what we experience as mental effort, whereas IIT's phi measure faces the wrong-results objection.
 
 ## Quantum Psychophysical Laws
 

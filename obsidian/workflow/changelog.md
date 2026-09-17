@@ -5,6 +5,16 @@ ai_modified: '2026-09-17T04:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-17 11:40 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/psychophysical-laws-bridging-mind-and-matter]]
+- **Original score**: n/a (targeted P3 fix — Stapp-over-IIT preference claim, Family V)
+- **Changes**: (1) "The Map's engagement" (super-resistance): removed "the Map prefers Stapp's attention-based mechanism over IIT-based measures"; now points at the `comparing-quantum-consciousness-mechanisms#preference-ordering` anchor and states CSL-IIT hybrids and Stapp's model are co-preferred fallbacks below post-decoherence selection. Both reasons kept (attention as a phenomenologically grounded variable; phi's wrong-results objection) as considerations, not a verdict. (2) Stapp section: "The post-decoherence concession" / "If the Zeno mechanism fails … one fallback … This is a significant retreat" inverted the tier order; relabelled "The post-decoherence reading", now states post-decoherence selection is the leading candidate, not a fallback, quoting P-Q4's heading; the testability cost and the three discriminators are kept; "the replacement" → "the preferred candidate". Length 3459 → 3459 (topics soft 3000 / hard 4000), length-neutral. Synced; changed strings verified in obsidian and hugo.
+- **Archive call (one decision for the family)**: applied the minimal verdict-language fix to all three archive bodies that serve at live URLs — `archive/topics/chalmers-psychophysical-coupling.md` ("prefers Henry Stapp's"), `archive/concepts/psychophysical-coupling.md`, `archive/concepts/psychophysical-coupling-law.md` — replacing the "prefers Stapp over IIT" verdict with the co-preferred-fallbacks wording + preference-ordering link, reasons retained, no other rewriting, frontmatter untouched. Hugo archive mirrors verified.
+- **Research notes left as dated records**: `research/measurement-problem-quantum-mechanics-2026-01-14.md` L155 ("site prefers Stapp's quantum Zeno mechanism over von Neumann-Wigner") is a different axis (vs von Neumann-Wigner, not vs IIT) in a dated note; `research/chalmers-psychophysical-laws-2026-01-17.md` L175 is a dated recommendation ("explaining why the Map prefers Stapp's approach"), not a statement of current position. Neither edited.
+- **Residual**: widened grep `prefers [A-Za-z ]{0,12}Stapp` (excluding workflow/ and reviews/) across obsidian, archive, hugo/content now returns 4 — only the two research notes and their hugo mirrors.
+- **Published**: yes
+
 ## 2026-09-17 11:24 UTC - refine-draft
 - **Status**: Success
 - **File**: [[apex/moral-architecture-of-consciousness]]
