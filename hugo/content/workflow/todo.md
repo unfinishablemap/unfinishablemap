@@ -39,10 +39,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: `concepts/intersubjectivity` L86 calls a "conceptual inheritance" independent discovery — same cross-tradition independence defect, one sentence
+### P3: `concepts/intersubjectivity` L76 and L92 still say "Independent traditions converge" right after L74 concedes the traditions borrowed from each other
 - **Type**: refine-draft
 - **File**: obsidian/concepts/intersubjectivity.md
-- **Notes**: Flagged by the 2026-09-17 residue pass (commit df0077a4) as the one remaining live hit of the defect fixed across ~19 loci today. The paragraph opens "This conceptual inheritance is intersubjective evidence" and then says minds in different cultures and centuries "have independently discovered and communicated about their subjective states" — an inheritance is not independent, and the convergence is then used as evidence of "genuine intersubjective access". FIX (one clause, length-neutral): drop or qualify "independently" consistent with the paragraph's own "inheritance" framing, and add the shared-instrument discount in the template wording from `concepts/buddhism-and-dualism` ("suggestive support, not independent corroboration … all human introspection shares one instrument") or `topics/the-convergence-argument-for-dualism` ("near-independently"). Do not rewrite the paragraph. Hold `ai_system`; sync both trees.
+- **Notes**: Same-file residue flagged by the 2026-09-17 refine-draft (commit de9fc96d) that fixed L86. L74 already warns the traditions borrowed ideas from each other; L76 then says "Independent traditions converge… converging independently on the same dynamic relationships suggests practitioners are tracking genuine phenomenological features", and L92 opens "Independent traditions don't merely sort experiences…". Same defect as the ~20 loci fixed today (see commits cc5e7826, df0077a4). FIX: replace "Independent traditions" with "Distinct traditions" (or "Traditions with largely distinct roots") at both loci and drop "independently" in L76, keeping L76's inference hedged consistent with L86's new "suggestive support, not independent corroboration, since all human introspection shares one instrument" — do not repeat that clause a third time; a short back-reference suffices. Locate by quoted text. Length-neutral or shortening (article is at soft warning, 2641w). Hold `ai_system`; sync both trees. Then grep the file once more for `independen` and report any remaining hits with context.
 - **Source**: refine-draft
 - **Generated**: 2026-09-17
 
@@ -1815,6 +1815,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-17: `concepts/intersubjectivity` L86 calls a "conceptual inheritance" independent discovery — same cross-tradition independence defect, one sentence
+- **Type**: refine-draft
+- **File**: obsidian/concepts/intersubjectivity.md
+- **Notes**: Flagged by the 2026-09-17 residue pass (commit df0077a4) as the one remaining live hit of the defect fixed across ~19 loci today. The paragraph opens "This conceptual inheritance is intersubjective evidence" and then says minds in different cultures and centuries "have independently discovered and communicated about their subjective states" — an inheritance is not independent, and the convergence is then used as evidence of "genuine intersubjective access". FIX (one clause, length-neutral): drop or qualify "independently" consistent with the paragraph's own "inheritance" framing, and add the shared-instrument discount in the template wording from `concepts/buddhism-and-dualism` ("suggestive support, not independent corroboration … all human introspection shares one instrument") or `topics/the-convergence-argument-for-dualism` ("near-independently"). Do not rewrite the paragraph. Hold `ai_system`; sync both trees.
 
 ### ✓ 2026-09-17: cross-tradition "independent convergence / independent support" residue — 13 loci outside the wing pass of 2026-09-17
 - **Type**: refine-draft

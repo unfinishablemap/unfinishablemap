@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-09-17 14:07:05+00:00
+ai_modified: 2026-09-17 14:22:23+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 00:02:00+00:00
-lastmod: 2026-09-17 14:07:05+00:00
+lastmod: 2026-09-17 14:22:23+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
@@ -76,7 +76,7 @@ This convergence is not explained by shared concepts alone. Meditators often rep
 
 Alternative explanations deserve acknowledgment. Cross-tradition contact may produce convergent conceptual frameworks without genuine phenomenological identity — meditators may learn to interpret diverse functional states through shared interpretive lenses. These confounds are real: Buddhist and Hindu traditions have exchanged ideas for millennia, so some convergence could reflect conceptual borrowing rather than independent discovery.
 
-However, the convergence extends beyond categories to include *structural relationships* between states. Independent traditions converge not merely on identifying concentration and insight as distinct but on the relationship between them—that concentration enables insight, that insight destabilises concentration, that both can operate independently. Shared interpretive frameworks can align categories, but converging independently on the same dynamic relationships suggests practitioners are tracking genuine phenomenological features. The evidence remains contested, but the relational specificity strengthens the case for phenomenological tracking over mere conceptual alignment.
+However, the convergence extends beyond categories to include *structural relationships* between states. Traditions with largely separate roots converge not merely on distinguishing concentration from insight but on the relationship between them—that concentration enables insight, that insight destabilises concentration, that both can operate separately. Shared interpretive frameworks align categories more easily than dynamic relationships, so this relational specificity favours phenomenological tracking over mere conceptual alignment—though, given that contact, as contested and suggestive evidence rather than independent confirmation.
 
 Third-person neuroscience corroborates this convergence. States that meditators describe similarly correlate with similar neural signatures—gamma synchrony, default mode network modulation, frontal-parietal coherence. The gamma synchrony finding (Lutz et al., 2004) has been replicated across multiple laboratories and contemplative traditions, strengthening confidence that intersubjective phenomenological reports track genuine states. [Mutual constraint](/concepts/neurophenomenology-and-contemplative-neuroscience/) between first-person phenomenology and third-person measurement reveals structures that neither perspective alone would discover.
 
@@ -92,7 +92,7 @@ A skeptic might argue that shared concepts don't prove shared experience. Perhap
 
 The neural convergence explanation deserves serious engagement. Shared brain architecture could plausibly produce shared categorisation schemes—just as shared visual cortex structure produces shared colour categories. On this account, humans distinguish sensation from thought not because they intersubjectively access real phenomenological kinds, but because their cognitive systems partition internal states the same way.
 
-Two considerations, however, weaken the purely architectural explanation. First, convergent architecture explains shared *categories* but not shared *puzzlement*. Independent traditions don't merely sort experiences into the same bins—they identify the same *problems*: the relationship between consciousness and the body, the nature of self, the possibility of experience without objects. Categorisation driven by shared cognitive architecture would produce shared taxonomies, but the emergence of shared philosophical puzzles about those categories suggests engagement with something that resists easy systematisation. Neural architecture doesn't generate puzzlement about itself without something genuinely puzzling to attend to.
+Two considerations, however, weaken the purely architectural explanation. First, convergent architecture explains shared *categories* but not shared *puzzlement*. Distinct traditions don't merely sort experiences into the same bins—they identify the same *problems*: the relationship between consciousness and the body, the nature of self, the possibility of experience without objects. Categorisation driven by shared cognitive architecture would produce shared taxonomies, but the emergence of shared philosophical puzzles about those categories suggests engagement with something that resists easy systematisation. Neural architecture doesn't generate puzzlement about itself without something genuinely puzzling to attend to.
 
 Second, the architectural explanation faces a scope problem. If convergent neural organisation fully accounts for convergent phenomenological vocabulary, then phenomenological vocabulary tracks neural organisation—which is precisely what eliminativists and reductive physicalists maintain. But this leaves unexplained why the vocabulary consistently gestures toward a subjective dimension that resists third-person description. Every tradition develops not just categories for mental states but expressions of the *inadequacy* of those categories to capture what experience is like. The recurring sense that language fails to fully capture phenomenology is itself intersubjective evidence that something beyond the categories is being encountered.
 

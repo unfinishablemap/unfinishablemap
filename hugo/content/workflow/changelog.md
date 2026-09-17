@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-17 14:22 UTC - refine-draft
+- **Status**: Success
+- **File**: [intersubjectivity](/concepts/intersubjectivity/)
+- **Original score**: n/a (targeted residue fix)
+- **Changes**: Cross-tradition independence residue from the 14:07 pass. L76 (structural-relationships paragraph, directly after L74's borrowing concession): "Independent traditions" → "Traditions with largely separate roots"; dropped "converging independently"; merged the inference and its hedge into one sentence ending "given that contact, as contested and suggestive evidence rather than independent confirmation" (back-refers to L74; does not repeat L86's shared-instrument clause); "both can operate independently" → "separately" to avoid equivocation with the evidential sense. L92: "Independent traditions don't merely sort" → "Distinct traditions". Remaining `independen` hits checked, none this defect: L54 (objective world exists independently of my perspective), L74 (concession that borrowing undercuts independent discovery), L76 and L86 (the hedges themselves), L122 (Map's dualism on independent grounds). Word count 2642 → 2637 (-5). ai_system held.
+- **Published**: yes
+
 ## 2026-09-17 14:07 UTC - refine-draft
 - **Status**: Success
 - **File**: [intersubjectivity](/concepts/intersubjectivity/)

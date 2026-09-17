@@ -1806,6 +1806,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 ## Completed Tasks
 
 
+### ✓ 2026-09-17: `concepts/intersubjectivity` L76 and L92 still say "Independent traditions converge" right after L74 concedes the traditions borrowed from each other
+- **Type**: refine-draft
+- **File**: obsidian/concepts/intersubjectivity.md
+- **Notes**: Same-file residue flagged by the 2026-09-17 refine-draft (commit de9fc96d) that fixed L86. L74 already warns the traditions borrowed ideas from each other; L76 then says "Independent traditions converge… converging independently on the same dynamic relationships suggests practitioners are tracking genuine phenomenological features", and L92 opens "Independent traditions don't merely sort experiences…". Same defect as the ~20 loci fixed today (see commits cc5e7826, df0077a4). FIX: replace "Independent traditions" with "Distinct traditions" (or "Traditions with largely distinct roots") at both loci and drop "independently" in L76, keeping L76's inference hedged consistent with L86's new "suggestive support, not independent corroboration, since all human introspection shares one instrument" — do not repeat that clause a third time; a short back-reference suffices. Locate by quoted text. Length-neutral or shortening (article is at soft warning, 2641w). Hold `ai_system`; sync both trees. Then grep the file once more for `independen` and report any remaining hits with context.
+
 ### ✓ 2026-09-17: `concepts/intersubjectivity` L86 calls a "conceptual inheritance" independent discovery — same cross-tradition independence defect, one sentence
 - **Type**: refine-draft
 - **File**: obsidian/concepts/intersubjectivity.md
