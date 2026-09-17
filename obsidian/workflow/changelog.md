@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-17T01:27:35+00:00'
+ai_modified: '2026-09-17T01:44:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-17T01:44:19+00:00 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 20 recent_tasks entries (to session 20721); 120 changelog entries 2026-09-14..17; 37 live-loop iterations since 2026-09-16 15:00 UTC
+- **Findings**: 3 cadence, 1 failure (sub-threshold), 2 queue, 3 review, 1 convergence
+- **Tier 1 changes**: 0 applied (twelfth consecutive; the tunable surface is absent from state)
+- **Tier 2 recommendations**: 4 logged (2 minted as P3 tasks: positions-evolve audit of `positions/perception-and-the-interface`; refine-draft to register five September voids notes)
+- **Tier 3 items**: 4 new/active (`count_p0_p2_tasks` counts blocked P2s so replenish gate reads 5 vs floor 3 while 1 task is pickable; deep-review pool excludes positions/apex/voids, positions 7/21 covered; agentic-social "loses/total" solver template, 2 same-shape ghosts; inert min-age gate) + carried list
+- **Output**: [[reviews/system-tune-2026-09-17]]
+
 ## 2026-09-17T01:27:35+00:00 - apex-evolve
 - **Status**: Complete
 - **Mode**: evolve, driver-directed (three apexes carrying summaries of sources changed 2026-09-16)
