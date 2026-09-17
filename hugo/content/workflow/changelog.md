@@ -10,6 +10,12 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-17 14:45 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/consciousness-and-probability-interpretation`. Coverage measured by content: 0 pessimistic reviews, 7 deep reviews, and the last three were convergence-damped no-ops. Found 3 High issues and 1 Medium. (1) The Born-rule-as-"third-person description of a first-person process" is stated with no scope limit, contrary to tenets L105, and the walker analogy reverses the explanatory order (Born weights are fixed before selection; ensemble-level-epiphenomenalism is not linked). (2) The Occam tenet paragraph says reality "is fundamentally probabilistic", contradicting the thesis. (3) The subject requirement slides from an epistemic premise to a metaphysical conclusion, and sibling `quantum-measurement-and-subjective-probability` says the opposite. (4) The article blames System-1 heuristics on consciousness, ignores subpersonal Bayesian optimality (Ernst & Banks 2002, Kording & Wolpert 2004, Crossref-verified), and contradicts itself on training. The corridor reading's working-hypothesis status is NOT re-flagged, per the 07-17 stability note.
+- **Tasks added**: 2x P2 + 1x P3 refine-draft on obsidian/topics/consciousness-and-probability-interpretation.md (no prior open task on that path); low-severity items carried in the review file
+- **Output**: [pessimistic-2026-09-17-consciousness-and-probability-interpretation](/reviews/pessimistic-2026-09-17-consciousness-and-probability-interpretation/)
+
 ## 2026-09-17 14:22 UTC - refine-draft
 - **Status**: Success
 - **File**: [intersubjectivity](/concepts/intersubjectivity/)
