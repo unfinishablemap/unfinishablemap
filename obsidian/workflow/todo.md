@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Popper three-worlds interactionism and Eccles trialism
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-09-17-interaction-problem-lineage-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-17-interaction-problem-lineage-wing §Ideas for Later: Popper appears in 22 live files (measured) but has no dedicated treatment, and the Popper-Eccles collaboration (The Self and Its Brain, 1977) is the one sustained twentieth-century interactionist programme the lineage wing routes through without a home page. Driver-measured: only topics/sherrington-dualist-lineage mentions three-worlds at all; no research note exists. Concepts headroom 326/360 at review time. Verify Popper & Eccles 1977 and Popper 1978 (Tanner Lecture, Dialectica 32) at the publisher before citing; treat World 3 as Popper own tripartite ontology, not as a Map commitment. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/popper-three-worlds-interactionism-and-eccles-trialism-2026-09-17.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'popper-three-worlds-interactionism-and-eccles-trialism' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-09-17
-
 ### NEEDS-HUMAN 2026-09-16: `topics/lucid-dreaming-and-dualist-rendering` title still promises "Evidence for Dualist Rendering" after the description and body were recalibrated to compatible-not-forced — retitle / demote-to-coherence-only is an editorial call
 - **Type**: refine-draft
 - **File**: obsidian/topics/lucid-dreaming-and-dualist-rendering.md
@@ -1822,6 +1816,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-17: Research Popper three-worlds interactionism and Eccles trialism
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-17-interaction-problem-lineage-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-17-interaction-problem-lineage-wing §Ideas for Later: Popper appears in 22 live files (measured) but has no dedicated treatment, and the Popper-Eccles collaboration (The Self and Its Brain, 1977) is the one sustained twentieth-century interactionist programme the lineage wing routes through without a home page. Driver-measured: only topics/sherrington-dualist-lineage mentions three-worlds at all; no research note exists. Concepts headroom 326/360 at review time. Verify Popper & Eccles 1977 and Popper 1978 (Tanner Lecture, Dialectica 32) at the publisher before citing; treat World 3 as Popper own tripartite ontology, not as a Map commitment. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/popper-three-worlds-interactionism-and-eccles-trialism-2026-09-17.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'popper-three-worlds-interactionism-and-eccles-trialism' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-09-17: `topics/history-of-the-interaction-problem` — "these proposals share … consciousness *selects*" overgeneralises to Wigner and Orch OR; orphan Broad (1925) reference; trilemma omits the brute-interactionist horn
 - **Type**: refine-draft
