@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-15
-ai_modified: 2026-09-17 06:05:00+00:00
+ai_modified: 2026-09-17 07:22:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
@@ -11,18 +11,18 @@ concepts:
 - '[[functionalism]]'
 created: 2026-07-15
 date: &id001 2026-07-15
-description: Robust homeostasis and integral feedback are domain-general control competencies
-  orthogonal to phenomenality—a reusable Map primitive, refined through human-AI inquiry
-  toward the truth about what regulation does and does not entail.
+description: Integral feedback runs in op-amps, PID loops and cells, so regulation
+  licenses no inference to feeling; full orthogonality is a dualist commitment data
+  cannot settle.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-10 01:39:10+00:00
-lastmod: 2026-09-17 06:05:00+00:00
+lastmod: 2026-09-17 07:22:32+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-title: Near-Perfect Adaptation and Control-Theoretic Competency Without Experience
+title: Near-Perfect Adaptation and Control-Theoretic Competency Without Felt Experience
 topics:
 - '[[bacterial-chemotaxis-and-minimal-biogenic-cognition]]'
 - '[[interoceptive-consciousness-and-the-interface]]'

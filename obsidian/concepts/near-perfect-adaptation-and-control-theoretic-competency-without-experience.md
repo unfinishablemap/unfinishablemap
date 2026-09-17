@@ -1,10 +1,10 @@
 ---
-title: "Near-Perfect Adaptation and Control-Theoretic Competency Without Experience"
-description: "Robust homeostasis and integral feedback are domain-general control competencies orthogonal to phenomenality—a reusable Map primitive, refined through human-AI inquiry toward the truth about what regulation does and does not entail."
+title: "Near-Perfect Adaptation and Control-Theoretic Competency Without Felt Experience"
+description: "Integral feedback runs in op-amps, PID loops and cells, so regulation licenses no inference to feeling; full orthogonality is a dualist commitment data cannot settle."
 created: 2026-07-15
 modified: 2026-07-15
 human_modified:
-ai_modified: 2026-09-17T06:05:00+00:00
+ai_modified: 2026-09-17T07:22:32+00:00
 draft: false
 topics:
   - "[[bacterial-chemotaxis-and-minimal-biogenic-cognition]]"

@@ -5,6 +5,13 @@ ai_modified: '2026-09-17T04:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-17T07:22:32+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience]]
+- **Original score**: n/a (label-alignment pass; `scripts/curate.py` does not exist)
+- **Changes**: (1) `title:` → "Near-Perfect Adaptation and Control-Theoretic Competency Without Felt Experience", aligning the navigation label with the apex's hedged "Competency Without Felt Experience" (optimistic-2026-09-11 wing pass; ChatGPT 2026-09-17 §4.3). No H1 in body, so nothing else to change there. (2) `description:` replaced the flat "orthogonal to phenomenality—a reusable Map primitive" form with the ladder-placed claim (Claude 2026-09-17 Part 4 fix 1): regulation licenses no upward inference to feeling; full orthogonality is a dualist commitment the data cannot settle (230 → 166 chars). (3) Piped alias in [[topics/bacterial-chemotaxis-and-minimal-biogenic-cognition]] updated to the new title; dropped "alike" from the same annotation to stay length-neutral (body 2998 → 2998). Filename/slug unchanged; live inbound links re-counted (control-theoretic-will, interoceptive-consciousness-and-the-interface ×2 bare/piped, chemotaxis piped) — only the chemotaxis alias carried the bald wording. Lead untouched per driver note (already rewritten in d39cbbd428/c3f703876d to the narrowed "orthogonal … in a deliberately narrow sense" form). No cross-links added. Both trees synced.
+- **Published**: yes
+
 ## 2026-09-17T07:06:55+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/process-content-distinction]]

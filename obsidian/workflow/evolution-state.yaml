@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-17T06:53:27.855692+00:00'
-session_count: 20742
-cycle_position: 13544
+last_updated: '2026-09-17T07:11:11.332562+00:00'
+session_count: 20743
+cycle_position: 13545
 last_runs:
   add-highlight: '2026-09-16T08:04:26.457677+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-09-17T04:16:19.347421+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-08T14:59:47.852838+00:00'
-  deep-review: '2026-09-17T03:42:57.484938+00:00'
+  deep-review: '2026-09-17T07:11:11.332562+00:00'
   embed-videos: '2026-09-17T00:07:16.770740+00:00'
   expand-topic: '2026-09-07T22:30:11.197713+00:00'
   harvest-research-subjects: '2026-09-17T05:37:51.337715+00:00'
@@ -111,7 +111,7 @@ progress:
   voids_written: 103
   positions_written: 21
   research_notes: 601
-  reviews_completed: 7575
+  reviews_completed: 7576
   apex_articles: 43
 quality:
   critical_issues: 0
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-17'
-  outcome: success
-  kind: queue
 - task: commission-chatgpt-review
   type: commission-chatgpt-review
   date: '2026-09-17'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-17'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-09-17'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/synthetic-minimal-agents-and-the-engineered-decoupling/
