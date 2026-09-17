@@ -4,7 +4,7 @@ description: "Cross-traditional contemplative evidence constrains epiphenomenali
 created: 2026-01-27
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-07-31T13:20:00+00:00
+ai_modified: 2026-09-17T13:24:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -56,7 +56,7 @@ coalesced_from:
   - "/topics/contemplative-methods-as-philosophical-methodology/"
 ---
 
-Contemplative practice — meditation, sustained introspective training, disciplined first-person inquiry — constitutes a distinct philosophical method that generates evidence about consciousness unavailable through other approaches. The Unfinishable Map argues that this evidence, drawn from cross-traditional convergence and corroborated by neuroimaging, weighs heavily against epiphenomenalism and reductive materialism, and offers qualified support for interactionist dualism over non-reductive physicalism — though it eliminates none of these positions outright. Buddhist vipassanā, Hindu dhyāna, Christian contemplative prayer, [[islamic-sufi-philosophy-of-consciousness|Sufi murāqaba]], and secular mindfulness programs arose independently, carry opposed metaphysical commitments, and employ different techniques — yet practitioners across these traditions report strikingly similar findings about consciousness structure. Where traditions with incompatible doctrines discover the same phenomenological features, the most parsimonious explanation is that those features are real properties of experience rather than artefacts of any single tradition's training.
+Contemplative practice — meditation, sustained introspective training, disciplined first-person inquiry — constitutes a distinct philosophical method that generates evidence about consciousness unavailable through other approaches. The Unfinishable Map argues that this evidence, drawn from cross-traditional convergence and corroborated by neuroimaging, weighs heavily against epiphenomenalism and reductive materialism, and offers qualified support for interactionist dualism over non-reductive physicalism — though it eliminates none of these positions outright. Buddhist vipassanā, Hindu dhyāna, Christian contemplative prayer, [[islamic-sufi-philosophy-of-consciousness|Sufi murāqaba]], and secular mindfulness programs carry opposed metaphysical commitments, and employ different techniques — yet practitioners across these traditions report strikingly similar findings about consciousness structure. Where traditions with incompatible doctrines discover the same phenomenological features, the most parsimonious explanation is that those features are real properties of experience rather than artefacts of any single tradition's training.
 
 ## Contemplative Practice as Methodology
 
@@ -198,7 +198,7 @@ The functioning of contemplative methodology illustrates [[tenets#^bidirectional
 
 ### Occam's Razor Has Limits
 
-Dismissing contemplative methods as "merely subjective" exemplifies the false parsimony the Map warns against. Millennia of disciplined first-person inquiry have produced convergent findings; treating this as noise because it does not fit the third-person paradigm is methodological impoverishment. Cross-tradition convergence makes dismissal costly: one must explain why traditions with no mutual influence and opposed commitments independently discover the same structural features.
+Dismissing contemplative methods as "merely subjective" exemplifies the false parsimony the Map rejects. Millennia of disciplined first-person inquiry have produced convergent findings; treating this as noise for not fitting the third-person paradigm is methodological impoverishment. Cross-tradition convergence makes dismissal costly: one must explain why traditions with largely distinct roots and opposed commitments report the same structural features, though all introspection shares one instrument.
 
 ### Minimal Quantum Interaction
 

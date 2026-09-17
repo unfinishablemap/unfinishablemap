@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-07-28 07:18:00+00:00
+ai_modified: 2026-09-17 13:24:30+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 21:41:12+00:00
-lastmod: 2026-07-28 07:18:00+00:00
+lastmod: 2026-09-17 13:24:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -130,7 +130,7 @@ The [comparative phenomenology of meditative traditions](/topics/comparative-phe
 
 An important qualification: convergence on "consciousness is puzzling" is not convergence on "dualism is true." Buddhist analysis finds consciousness irreducible but concludes with *anattā* — no self; Advaita Vedanta concludes with monism. These traditions converge on the *problem* while diverging on the *solution*. The cross-cultural evidence supports that the difficulty is not an artefact of Western conceptual categories; it appears wherever philosophical reflection on experience reaches sufficient depth. This evidences the reality of the explanatory gap, which supports (but does not alone establish) dualism. Cross-traditional convergence earns *irreducibility* across rivals (panpsychism, neutral monism, idealism, Madhyamaka emptiness) but not *dualism* among them — the further selection, traced next, is taken openly rather than absorbed silently into the convergence pattern.
 
-The [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) — Indian, African, and Western traditions independently converging on consciousness's causal efficacy — provides a parallel: a cognitive bias shared across historically independent cultures would be a species-level constraint, itself evidence that consciousness presents genuine difficulties for reduction.
+The [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) — Indian, African, and Western traditions near-independently converging on consciousness's causal efficacy — provides a parallel: a cognitive bias shared across historically independent cultures would be a species-level constraint, itself evidence that consciousness presents genuine difficulties for reduction.
 
 ## From Irreducibility to Dualism
 
@@ -200,7 +200,7 @@ The [No Many Worlds tenet](/tenets/#no-many-worlds) connects through the [indexi
 - [Reductionism and Consciousness](/concepts/reductionism/) — Why consciousness differs structurally from past reductive successes
 - [concession-convergence](/concepts/concession-convergence/) — The complementary pattern: physicalist theories retreating toward dualist positions
 - [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/) — The concession pattern extended to philosophy of mathematics
-- [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) — Independent traditions converging on consciousness's causal efficacy
+- [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) — Near-independent traditions converging on consciousness's causal efficacy
 - [the-reverse-inference](/topics/the-reverse-inference/) — The epistemic asymmetry argument: consciousness constrains physics, adding another convergent strand
 - [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Convergence methodology applied to altered states
 - [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) — A downstream implication, not another route: if dualism holds, the expected-utility argument for AI takeover loses force

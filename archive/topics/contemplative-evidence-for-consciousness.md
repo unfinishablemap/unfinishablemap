@@ -164,7 +164,7 @@ The convergence on the awareness-content distinction supports this tenet. Multip
 
 ### Occam's Razor Has Limits
 
-The materialist might dismiss any single tradition's contemplative findings as culturally conditioned. The cross-tradition convergence makes this dismissal far more costly: one must explain why traditions with no mutual influence and opposed theoretical commitments independently discover the same structural features of consciousness.
+The materialist might dismiss any single tradition's contemplative findings as culturally conditioned. The cross-tradition convergence makes this dismissal far more costly: one must explain why traditions with largely distinct roots and opposed theoretical commitments report the same structural features of consciousness, though all introspection shares one instrument.
 
 ### Minimal Quantum Interaction
 

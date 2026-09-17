@@ -241,7 +241,7 @@ Mental causation, as defended here, is falsifiable:
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view denying mental causation
 - [emergence](/concepts/emergence/) — Mental causation as strong emergence with mechanism
 - [agent-causation](/concepts/agent-causation/) — Agent causation as substance causation
-- [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) — Indian, African, and Western traditions independently converge on consciousness as causally efficacious
+- [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) — Indian, African, and Western traditions near-independently converge on consciousness as causally efficacious
 - [Consciousness Bandwidth Architecture](/concepts/consciousness-bandwidth-architecture/) — Whether the mind-body channel carries enough information
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain: phenomenal character inseparable from causal power
 - [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) — Meaning determines which physical effect occurs

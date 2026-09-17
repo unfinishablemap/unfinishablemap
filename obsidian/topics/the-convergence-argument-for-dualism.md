@@ -4,7 +4,7 @@ description: "Arguments converge on dualism from different starting points—a p
 created: 2026-02-18
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-07-28T07:18:00+00:00
+ai_modified: 2026-09-17T13:24:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -126,7 +126,7 @@ The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenolo
 
 An important qualification: convergence on "consciousness is puzzling" is not convergence on "dualism is true." Buddhist analysis finds consciousness irreducible but concludes with *anattā* — no self; Advaita Vedanta concludes with monism. These traditions converge on the *problem* while diverging on the *solution*. The cross-cultural evidence supports that the difficulty is not an artefact of Western conceptual categories; it appears wherever philosophical reflection on experience reaches sufficient depth. This evidences the reality of the explanatory gap, which supports (but does not alone establish) dualism. Cross-traditional convergence earns *irreducibility* across rivals (panpsychism, neutral monism, idealism, Madhyamaka emptiness) but not *dualism* among them — the further selection, traced next, is taken openly rather than absorbed silently into the convergence pattern.
 
-The [[cross-cultural-convergence-on-mental-causation]] — Indian, African, and Western traditions independently converging on consciousness's causal efficacy — provides a parallel: a cognitive bias shared across historically independent cultures would be a species-level constraint, itself evidence that consciousness presents genuine difficulties for reduction.
+The [[cross-cultural-convergence-on-mental-causation]] — Indian, African, and Western traditions near-independently converging on consciousness's causal efficacy — provides a parallel: a cognitive bias shared across historically independent cultures would be a species-level constraint, itself evidence that consciousness presents genuine difficulties for reduction.
 
 ## From Irreducibility to Dualism
 
@@ -196,7 +196,7 @@ The [[tenets#^no-many-worlds|No Many Worlds tenet]] connects through the [[index
 - [[reductionism|Reductionism and Consciousness]] — Why consciousness differs structurally from past reductive successes
 - [[concession-convergence]] — The complementary pattern: physicalist theories retreating toward dualist positions
 - [[concession-convergence-philosophy-of-mathematics]] — The concession pattern extended to philosophy of mathematics
-- [[cross-cultural-convergence-on-mental-causation]] — Independent traditions converging on consciousness's causal efficacy
+- [[cross-cultural-convergence-on-mental-causation]] — Near-independent traditions converging on consciousness's causal efficacy
 - [[the-reverse-inference]] — The epistemic asymmetry argument: consciousness constrains physics, adding another convergent strand
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Convergence methodology applied to altered states
 - [[dualism-as-ai-risk-mitigation]] — A downstream implication, not another route: if dualism holds, the expected-utility argument for AI takeover loses force

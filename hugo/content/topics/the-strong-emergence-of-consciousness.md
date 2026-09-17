@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-07-19 23:08:40+00:00
+ai_modified: 2026-09-17 13:24:30+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 23:08:40+00:00
-lastmod: 2026-07-19 23:08:40+00:00
+lastmod: 2026-09-17 13:24:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -108,7 +108,7 @@ The induction assumes consciousness is the same *kind* of problem as chemical bo
 
 These three signatures — functional resistance, first-person exclusivity, dimensional mismatch between experiential and physical descriptions — are absent from every successfully reduced "emergent" property and present in consciousness. The induction, properly stated, is: "every property *of the type amenable to reduction* was reduced." Whether consciousness is of that type is the contested point the three signatures argue. Granting that case, extending the induction to consciousness is like extending the success of veterinary medicine to treating diseases in rocks — it mistakes a domain-specific pattern for a universal law.
 
-A further datum reinforces this conclusion. [Cross-traditional philosophical convergence](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) reveals that traditions separated by millennia, geography, and fundamental metaphysical commitments — Sāṃkhya, Buddhism, Western analytic philosophy, Islamic philosophy, the Kyoto School — independently converge on consciousness's irreducibility while disagreeing about nearly everything else. No comparable cross-traditional convergence exists for chemical bonding, vitalism, or any other property that was eventually reduced. The [convergence pattern](/topics/the-convergence-argument-for-dualism/) is itself evidence that consciousness presents a genuinely different kind of challenge.
+[Cross-traditional philosophical convergence](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) adds a weaker datum: traditions separated by millennia, geography, and fundamental metaphysical commitments — Sāṃkhya, Buddhism, Western analytic philosophy, Islamic philosophy, the Kyoto School — converge on consciousness's irreducibility while disagreeing about nearly everything else. No comparable cross-traditional convergence exists for chemical bonding, vitalism, or any other property that was eventually reduced. The [convergence pattern](/topics/the-convergence-argument-for-dualism/) suggests, though all introspection shares one instrument, that consciousness presents a genuinely different kind of challenge.
 
 ## Why the Weak/Strong Boundary Is Unstable
 
@@ -189,7 +189,7 @@ Affirming irreducibility is not the same as explaining it. The deeper question �
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument underlying the strong emergence claim
 - [mysterianism](/concepts/mysterianism/) — The cognitive closure thesis: why strong emergence may resist comprehension
 - [free-will](/topics/free-will/) — How strong emergence with causal powers grounds genuine agency
-- [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) — Why diverse philosophical traditions independently converge on consciousness's irreducibility
+- [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) — Why diverse philosophical traditions converge on consciousness's irreducibility
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — Multiple independent arguments converging on the same conclusion
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why most theories of consciousness collapse into epiphenomenalism by default, and what genuine escape requires
 - [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) — How causal closure evolved from a physics claim into a metaphysical axiom

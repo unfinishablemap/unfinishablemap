@@ -66,7 +66,7 @@ Hood's Mysticism Scale, based on Stace's philosophical framework, measures mysti
 
 Most relevant for the voids framework is the ineffability factor. Across all these traditions, mystical experience produces the consistent report that the experience "defies expression." The sense of contacting something that exceeds linguistic articulation appears regardless of the tradition's metaphysics, practices, or conceptual vocabulary. This pattern connects to the [phenomenology of the edge](/voids/edge-states-and-void-probes/)—the distinctive texture of cognition approaching its limits.
 
-If ineffability were culturally constructed—taught by mystical traditions—we would expect different traditions to produce different phenomenology. Instead, the same pattern appears across traditions with different metaphysics, different goals, and no historical contact. The convergence suggests ineffability reflects something about human cognitive architecture encountering certain states, rather than cultural framing of those states.
+If ineffability were culturally constructed—taught by mystical traditions—we would expect different traditions to produce different phenomenology. Instead, the same pattern appears across traditions with different metaphysics, different goals, and only partial historical contact. The convergence suggests ineffability reflects something about human cognitive architecture encountering certain states, rather than cultural framing of those states.
 
 ### Chomsky's Scope/Limits Duality
 

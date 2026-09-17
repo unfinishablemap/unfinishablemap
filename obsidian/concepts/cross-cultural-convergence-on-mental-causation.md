@@ -4,7 +4,7 @@ description: "Indian, African, and Western traditions converge on consciousness 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-08-06T15:57:17+00:00
+ai_modified: 2026-09-17T13:24:30+00:00
 draft: false
 topics:
   - "[[indian-philosophy-of-mind]]"
@@ -116,9 +116,9 @@ The parallel discipline operates at [[the-convergence-argument-for-dualism#coher
 
 ## Relation to Site Perspective
 
-The Unfinishable Map's [[tenets#^dualism|Dualism tenet]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] jointly assert that consciousness is irreducible and causally efficacious. Cross-cultural convergence provides near-independent support for the narrower claim both tenets share—that mental causation is real. As the [coherence section above](#coherence-with-interactionist-dualism-is-not-an-independent-route) sets out, the convergence does not by itself select bidirectional interactionism over the other mental-causation-affirming frameworks; that selection runs through the Map's separate mechanism arguments, which the convergence's evidential weight does not underwrite.
+The Unfinishable Map's [[tenets#^dualism|Dualism tenet]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] jointly assert that consciousness is irreducible and causally efficacious. Cross-cultural convergence provides suggestive support, discounted for one shared introspective channel, for the narrower claim both tenets share—that mental causation is real. As the [coherence section above](#coherence-with-interactionist-dualism-is-not-an-independent-route) sets out, the convergence does not by itself select bidirectional interactionism over the other mental-causation-affirming frameworks; that selection runs through the Map's separate mechanism arguments, which the convergence's evidential weight does not underwrite.
 
-The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] specifies *how* mental causation works—through consciousness biasing quantum indeterminacies in neural systems. No pre-modern tradition had access to quantum mechanics, so they could not specify this mechanism. What they could do—and did—was identify through philosophical argument and contemplative investigation that mental causation occurs. The Map adds the mechanism; the traditions supply the convergent evidence that there is something to explain.
+The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] specifies *how* mental causation works—through consciousness biasing quantum indeterminacies in neural systems. No pre-modern tradition could have specified this mechanism. What they could do was argue, through philosophical reasoning and contemplative investigation, that mental causation occurs. The Map adds the mechanism; the traditions supply the convergent evidence that there is something to explain.
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] is also relevant. The materialist might dismiss mental causation as a pre-scientific intuition that simpler physicalist explanations supersede. But the convergence pattern complicates this dismissal: multiple sophisticated philosophical traditions, employing different methods, converge in rejecting the materialist simplification. As the Map maintains, apparent simplicity can reflect ignorance rather than insight.
 
