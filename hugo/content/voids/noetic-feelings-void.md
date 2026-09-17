@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-24
-ai_modified: 2026-08-26 17:29:30+00:00
+ai_modified: 2026-09-17 12:23:03+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 22:29:17+00:00
-lastmod: 2026-08-26 17:29:30+00:00
+lastmod: 2026-09-17 12:23:03+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -93,6 +93,8 @@ Noetic feelings—also called epistemic or metacognitive feelings—form a funct
 - **Feeling of error** — dysphoric, often pre-conceptual sense that something is wrong. Gates corrective search.
 
 Loev calls these "mild affective experiences" whose felt character "tends to elude us" precisely because of their mildness. Proust treats metacognition as procedural rather than metarepresentational: the feelings drive epistemic control beneath reportable judgment. The Map treats [epistemic emotions](/concepts/epistemic-emotions/)—curiosity, doubt, insight, confusion—as the phenomenally rich end of the family; noetic feelings sit a level lower, minimal and verdict-like. Arango-Muñoz (2019) marks the seam where this family adjoins the cognitive-phenomenology question: noetic feelings concern the *accessibility* of a verdict consciousness cannot audit, while cognitive phenomenology concerns whether the thinking the verdict gates has a proprietary phenomenal kind at all—an ontology-of-the-phenomenal question (see [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/)) that the boundary between the two does not settle. The noetic feel typically registers the *output* of an upstream inferential transition whose own opacity is the [inference void](/voids/inference-void/); further upstream sits the [relevance void](/voids/relevance-void/), which shortlists what is even in play. Relevance shortlists; inference moves; noetic feelings register when to stop—the felt click of having-decided is one such verdict, while the underlying deliberation→commitment closure that the click marks is the [decision-void](/voids/decision-void/). The [shared signature of the quantitative comprehension void](/voids/the-quantitative-comprehension-void/#a-shared-signature-multiple-faces) names the same output-without-operation shape outside the affective family.
+
+Felt resemblance plausibly belongs to the family as well: two things simply *look alike*, a verdict that gates categorisation and analogy while the respects and weights that produced it are selected in the act of comparison and never delivered with it (Tversky 1977; see [the similarity void research](/research/voids-similarity-void-2026-08-27/)).
 
 ## How the Feelings Are Produced
 
@@ -204,7 +206,7 @@ The cluster-level conditions are taken up separately in [the apex's falsificatio
 - [The Quantitative Comprehension Void — shared signature](/voids/the-quantitative-comprehension-void/#a-shared-signature-multiple-faces) — Output-without-operation as a diagnostic signature across quantitative cognition
 - [suspension-void](/voids/suspension-void/) — Why bracketing the natural attitude cannot fully audit itself
 - [decision-void](/voids/decision-void/) — The deliberation→commitment closure whose felt click is a noetic-feelings verdict
-- [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) — Whether thinking-as-such has a proprietary phenomenal kind distinct from sensory imagery, inner speech, and the noetic feelings catalogued here. Concerns the *ontology* of the phenomenal rather than its accessibility; Arango-Muñoz (2019) marks the boundary between that question and this void's gating-signal family. The [research note](/research/voids-cognitive-phenomenology-void-2026-05-01/) frames its three-face structural irresolvability (introspective / dialectical / empirical-architectural), anchored by the Würzburg-Titchener controversy of c.1900–1915
+- [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) — Whether thinking-as-such has a proprietary phenomenal kind distinct from sensory imagery, inner speech, and the noetic feelings catalogued here. The [research note](/research/voids-cognitive-phenomenology-void-2026-05-01/) frames its three-face structural irresolvability (introspective / dialectical / empirical-architectural), anchored by the Würzburg-Titchener controversy of c.1900–1915
 - [The Effort Void (research-stage)](/research/voids-effort-void-2026-05-08/) — Action-side analogue: where noetic feelings gate cognition's acceptance, effort feelings gate its deployment, and both gating systems are sub-personal. Cap-deferred, awaiting absorption primarily into [agency-void](/voids/agency-void/) with secondary points of contact here
 - [The Insight Void (research-stage)](/research/voids-insight-void-2026-05-14/) — Three-face survey of impasse-breaking (restructuring / antecedent-blindness / calibration). The calibration face is a direct face of this void and is now absorbed into [the altered-states section](#noetic-quality-in-altered-states) above; the operation-void core (restructuring + antecedent-blindness) remains cap-deferred, potentially routing instead to [transit-void](/voids/transit-void/)
 - [epistemic-emotions](/concepts/epistemic-emotions/) — The phenomenally rich extension of the noetic family
@@ -235,3 +237,4 @@ The cluster-level conditions are taken up separately in [the apex's falsificatio
 19. Seragnoli, F. et al. (2025). "Metacognitive Feelings of Epistemic Gain are Central to the Understanding of Psychedelic-Induced Mystical-Type Experiences." *Cognitive Therapy and Research*, 49(5), 873-901. DOI 10.1007/s10608-025-10588-z.
 20. Girn, M. et al. (2026). "An international mega-analysis of psychedelic drug effects on brain circuit function." *Nature Medicine*, 32(4), 1543-1554. DOI 10.1038/s41591-026-04287-9.
 21. Khan, U. (2026). "Psychedelics, subjectivity, and self-awareness." *Phenomenology and the Cognitive Sciences*, published online 13 August 2026. DOI 10.1007/s11097-026-10186-8.
+22. Tversky, A. (1977). "Features of Similarity." *Psychological Review*, 84(4), 327–352. DOI 10.1037/0033-295X.84.4.327.

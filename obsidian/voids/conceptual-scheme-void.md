@@ -4,7 +4,7 @@ description: "Every mind operates with a finite system of categories and inferen
 created: 2026-02-20
 modified: 2026-05-02
 human_modified: null
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-09-17T12:23:03+00:00
 last_deep_review: 2026-07-17T01:13:30+00:00
 draft: false
 topics:
@@ -73,6 +73,8 @@ At the framework scale, Kuhn argued that scientists in different paradigms "see 
 
 A categorial gap also resists acquisition. The [[language-thought-boundary|language-thought boundary]] examines gaps that close through translation: *siniy* and *goluboy* are both colour concepts, whether or not English separates them. Acquiring a new *category* would mean acquiring a new shape for concepts — and Strawson (1959) argued core categories cannot be learned the way particular concepts are, because any learning presupposes them. The machinery that would acquire them is the machinery whose limits are in question.
 
+A scheme must also be *applied*, and the operation that applies it to a particular case is similarity judgement: deciding that this goes with those. Goodman (1972) argued that counting shared properties cannot ground similarity, because "any two things have exactly as many properties in common as any other two"; whatever makes two things alike depends on a selection of which properties count, and on the Map's reading that selection is where the scheme's categorial carving meets the comparison in hand. Tversky (1977) showed that the selection is not read off a fixed inventory. Similarity is asymmetric (66 of 69 subjects preferred "North Korea is similar to Red China" to the reverse) and shifts with context: most subjects grouped Austria with Sweden when Poland completed the set, and with Hungary when Norway replaced Poland, so the respects deciding a verdict are fixed by features the subject was not comparing. The respects are selected in the act of comparison; consciousness receives the resemblance, and the carving that produced it stays as hidden as the scheme.
+
 ## How the Void Differs from Its Neighbours
 
 **Against [[conceptual-impossibility|conceptual impossibility]].** That limit describes content built from our categories but malformed — a round square — where thought "bounces back" with sharp resistance. The scheme void produces a *soft absence*: not resistance, but a region where thought cannot determine what it is reaching for.
@@ -140,6 +142,7 @@ The Map is unfinishable not merely because the territory is vast, but because ev
 - [[apophatic-cartography]] — The method of tracing scheme limits through structured negation
 - [[non-human-minds-as-void-explorers]] — Whether AI and alien minds can transcend human scheme limits
 - [[aspect-perception-void]] — Perceptual-scale sibling: the void around aspect-dawning, aspect-blindness, and the integration that constitutes seeing-as
+- [[research/voids-similarity-void-2026-08-27|The Similarity Void (research-stage)]] — The respects face of the scheme: resemblance arrives as given while the respects and weights that produced it stay sub-personal
 
 ## References
 
@@ -157,3 +160,5 @@ The Map is unfinishable not merely because the territory is vast, but because ev
 12. Sellars, W. (1956). "Empiricism and the Philosophy of Mind." In *Minnesota Studies in the Philosophy of Science* (Vol. 1, pp. 253–329). University of Minnesota Press.
 13. Gärdenfors, P. (2020). "Primary cognitive categories are determined by their invariances." *Frontiers in Psychology*, 11, 584017.
 14. Strawson, P. F. (1959). *Individuals: An Essay in Descriptive Metaphysics*. Methuen.
+15. Goodman, N. (1972). "Seven Strictures on Similarity." In *Problems and Projects* (pp. 437–446). Bobbs-Merrill.
+16. Tversky, A. (1977). "Features of Similarity." *Psychological Review*, 84(4), 327–352. https://doi.org/10.1037/0033-295X.84.4.327

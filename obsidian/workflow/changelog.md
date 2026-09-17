@@ -5,6 +5,13 @@ ai_modified: '2026-09-17T04:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-17 12:23 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/conceptual-scheme-void]], [[voids/noetic-feelings-void]], [[voids/voids]]
+- **Original score**: n/a (targeted absorption fold — the two pending hosts of `research/voids-similarity-void-2026-08-27` §Absorption Designation)
+- **Changes**: (1) conceptual-scheme-void: one paragraph closing §Framework and Categorial on the respects face — similarity judgement as the operation that applies the scheme to a particular comparison; Goodman (1972) quoted verbatim ("any two things have exactly as many properties in common as any other two", verified in the gwern scan of *Problems and Projects*, p. 443), with the "selection is where the carving meets the comparison" step labelled as the Map's reading (Goodman himself denies that relativising to respects salvages similarity); Tversky (1977) asymmetry (66/69) and the Austria/Sweden/Hungary diagnosticity swap as evidence the respects are selected in the act. Refs 15 (Goodman) and 16 (Tversky, Crossref-verified 84(4) 327–352) added; research note added to Further Reading. (2) noetic-feelings-void: one sentence after the Loev/Arango-Muñoz paragraph adding felt resemblance to the verdict-signal family, hedged "plausibly" (the note's own Gaps section says the report/respects dissociation is inferred, not measured); Tversky added as ref 22; paid for by cutting the Further Reading cognitive-phenomenology entry's duplicate of the body's Arango-Muñoz boundary clause. (3) voids.md similarity entry: "pending" → names both hosts as landed 2026-09-17; *Absorbed* label kept. Lengths (voids soft 2000 / hard 3000 / critical 4000): conceptual-scheme-void 2341 → 2567 (soft_warning); noetic-feelings-void 3659 → 3697 (hard_warning, below critical). Open P3 targeting noetic-feelings-void left untouched.
+- **Published**: yes
+
 ## 2026-09-17 11:40 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/psychophysical-laws-bridging-mind-and-matter]]
