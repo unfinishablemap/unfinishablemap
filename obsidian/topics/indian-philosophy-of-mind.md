@@ -4,7 +4,7 @@ description: "Three rival Indian schools spent two millennia debating what consc
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-07-31T15:59:34+00:00
+ai_modified: 2026-09-17T13:09:37+00:00
 last_deep_review: 2026-07-18T20:30:42+00:00
 draft: false
 topics:
@@ -128,7 +128,7 @@ These are not superficial variations. Samkhya and Nyaya disagree on whether cons
 
 The convergence should be weighed carefully rather than overstated. An empiricist might press a deflationary reading: the introspective and phenomenological data the three schools start from are compatible with both the dualist conclusion they reach and a physicalist reading they reject, so the data alone do not adjudicate between dualism and its rivals—the shared conclusion is underdetermined by the evidence the schools actually had. There is force in this. Three traditions agreeing that consciousness is irreducible does not, by itself, establish that it is; agreement among investigators who shared a broadly introspective method is not the same as independent confirmation, and a [[common-cause-null|common-cause reading]]—that the introspective method itself disposes its users toward irreducibility verdicts—remains available. The convergence raises the coherence and the standing of the dualist option without, on its own, raising it to established fact.
 
-What the convergence does supply is more modest and still substantial: three deeply incompatible metaphysics, each developed through centuries of adversarial scrutiny, independently found reduction *untenable on the data before them*, and they did so while disagreeing about almost everything else. That the irreducibility verdict survives across frameworks that share so little is evidence the verdict does not depend on the contested details of any one of them—an instance of [[the-convergence-argument-for-dualism]] operating within a single philosophical culture. It is a strengthening of the dualist case, not a demonstration of it; the present article treats it as the former.
+What the convergence does supply is more modest and still substantial: three deeply incompatible metaphysics, each developed through centuries of adversarial scrutiny, found reduction *untenable on the data before them*, and they did so while disagreeing about almost everything else. That the irreducibility verdict survives across frameworks that share so little is evidence the verdict does not depend on the contested details of any one of them—an instance of [[the-convergence-argument-for-dualism]] operating within a single philosophical culture. It is a strengthening of the dualist case, not a demonstration of it; the present article treats it as the former.
 
 ## What Indian Philosophy Contributes
 

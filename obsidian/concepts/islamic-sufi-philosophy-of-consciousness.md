@@ -4,7 +4,7 @@ description: "From Avicenna's Flying Man to Sufi phenomenology of fana, Islamic 
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-07-13T18:08:06+00:00
+ai_modified: 2026-09-17T13:08:26+00:00
 draft: false
 topics:
   - "[[the-hard-problem-in-non-western-philosophy]]"
@@ -34,7 +34,7 @@ last_curated:
 last_deep_review: 2026-07-17T20:44:00+00:00
 ---
 
-The Islamic philosophical tradition developed one of the most sustained pre-modern investigations of consciousness, spanning six centuries from Avicenna's proof that self-awareness is independent of the body to Mulla Sadra's processual account of the soul's transformation from material to immaterial existence. The Unfinishable Map has engaged individual Islamic thinkers elsewhere—Avicenna's Flying Man in the [[the-hard-problem-in-non-western-philosophy|hard problem survey]], Mulla Sadra's processual ontology in the [[interaction-problem-across-traditions|interaction problem survey]]—but the tradition as a whole, and especially the Sufi contemplative dimension, deserves dedicated treatment. Islamic philosophy's independent arrival at consciousness irreducibility through entirely different methods than Western analytic philosophy contributes to the broader [[cross-traditional-convergence-on-consciousness-irreducibility|cross-traditional convergence pattern]].
+The Islamic philosophical tradition developed one of the most sustained pre-modern investigations of consciousness, spanning six centuries from Avicenna's proof that self-awareness is independent of the body to Mulla Sadra's processual account of the soul's transformation from material to immaterial existence. The Unfinishable Map has engaged individual Islamic thinkers elsewhere—Avicenna's Flying Man in the [[the-hard-problem-in-non-western-philosophy|hard problem survey]], Mulla Sadra's processual ontology in the [[interaction-problem-across-traditions|interaction problem survey]]—but the tradition as a whole, and especially the Sufi contemplative dimension, deserves dedicated treatment. Islamic philosophy reached consciousness irreducibility by methods quite different from Western analytic philosophy and belongs to the broader [[cross-traditional-convergence-on-consciousness-irreducibility|cross-traditional convergence pattern]]—though not as a fully independent strand, given the Neoplatonist inheritance weighed below.
 
 Where Western philosophy of mind separated theoretical argument from experiential investigation, the Islamic tradition kept them together: the same thinkers who produced rigorous metaphysical arguments also held that direct contemplative experience was epistemically indispensable.
 
@@ -96,15 +96,15 @@ This framework is closer to idealism than to the Map's interactionist dualism, b
 
 ## Relation to Site Perspective
 
-The Islamic and Sufi tradition engages all five of the Map's tenets.
+This section is the Map's own interpretation and should not be read back into the Islamic and Sufi sources above. The tradition engages all five of the Map's tenets; what follows records where it coheres with or strains against each, not support the tradition supplies.
 
-**[[tenets#^dualism|Dualism]]**: Avicenna's Flying Man, al-Ghazālī's distinction between rational and experiential knowledge, and the entire Sufi nafs psychology presuppose that consciousness is irreducible to physical processes. The tradition's strongest support for dualism comes from its contemplative epistemology: the insistence that direct experience reveals features of consciousness inaccessible to third-person analysis aligns with the Map's argument that the [[explanatory-gap|explanatory gap]] reflects a genuine ontological distinction, not merely incomplete science.
+**[[tenets#^dualism|Dualism]]**: Avicenna's Flying Man, al-Ghazālī's distinction between rational and experiential knowledge, and the entire Sufi nafs psychology presuppose that consciousness is irreducible to physical processes. The tradition's closest point of contact with the Map's dualism is its contemplative epistemology: the insistence that direct experience reveals features of consciousness inaccessible to third-person analysis aligns with the Map's argument that the [[explanatory-gap|explanatory gap]] reflects a genuine ontological distinction, not merely incomplete science. The alignment is coherence rather than independent corroboration: the introspective strand shares the Neoplatonist channel weighed above, a physicalist can read the same reports as facts about the limits of introspective access, and the tradition itself divides between Avicenna's dualism and Ibn 'Arabī's unity of being.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Avicenna's insight that mental causation operates holistically—shaping the overall dynamics of bodily processes rather than pushing at discrete spatial points—resonates with the Map's model of consciousness biasing quantum probability distributions. Neither Avicenna nor any Islamic thinker discussed quantum mechanics, but the structural parallel between holistic mental causation and quantum-level influence is suggestive.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Avicenna's dual-aspect soul provides the tradition's strongest case for bidirectional causation—the practical intellect governing bodily action (downward causation) while bodily states prepare the soul for intellectual reception (upward causation). The Sufi tradition adds experiential evidence: contemplative practices produce measurable physiological changes (altered breathing, heart rate, neurological states), demonstrating that changes in the mode of consciousness causally affect the body.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Avicenna's dual-aspect soul provides the tradition's strongest case for bidirectional causation—the practical intellect governing bodily action (downward causation) while bodily states prepare the soul for intellectual reception (upward causation). The Sufi tradition adds experiential evidence: contemplative practices produce measurable physiological changes (altered breathing, heart rate, neurological states), consistent with changes in the mode of consciousness causally affecting the body—though a physicalist reads the same data as brain states changing brain states.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Islamic philosophy's emphasis on the unity of the individual soul—its particular trajectory through the nafs stages, its unique relationship to God—is fundamentally incompatible with observer-proliferation. Each consciousness has a singular destiny that matters. This resonates with the Map's insistence that indexical identity is philosophically significant.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Islamic philosophy's emphasis on the unity of the individual soul—its particular trajectory through the nafs stages, its unique relationship to God—gives each consciousness a singular destiny that matters. That concern is soteriological, not metaphysical indexicality: the tradition never addressed branching observers, so it neither refutes nor supports many-worlds interpretations. Its resonance with the Map's insistence that indexical identity is philosophically significant is thematic coherence, not an argument for the tenet.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Al-Ghazālī's argument that contemplative knowledge (*ma'rifa*) is irreducible to propositional knowledge (*'ilm*) directly challenges the assumption that the simplest theoretical framework captures all relevant truths. If some features of consciousness are accessible only through practice, then a philosophy of mind that ignores contemplative evidence—however parsimonious—is incomplete.
 
@@ -119,7 +119,7 @@ The Map's productive tension with this tradition centres on Mulla Sadra and Ibn 
 - [[comparative-phenomenology-of-meditative-traditions]] — Structural parallels across Sufi, Buddhist, Hindu, and Christian practice
 - [[knowledge-argument]] — Mary's Room and the parallel with al-Ghazālī's contemplative epistemology
 - [[apophatic-approaches]] — Negative approaches to knowledge with roots in Islamic mysticism
-- [[african-philosophy-of-consciousness]] — Relational and communal accounts of consciousness independently converging on irreducibility
+- [[african-philosophy-of-consciousness]] — Relational and communal accounts of personhood that the Map compares with the irreducibility convergence
 - [[indian-philosophy-of-mind]] — Samkhya, Nyaya, and Vedanta on consciousness as irreducible to matter
 
 ## References

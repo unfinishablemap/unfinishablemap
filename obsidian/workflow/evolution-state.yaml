@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-17T12:43:19.117233+00:00'
-session_count: 20765
+last_updated: '2026-09-17T12:52:12.614030+00:00'
+session_count: 20766
 cycle_position: 13560
 last_runs:
   add-highlight: '2026-09-17T08:11:22.614858+00:00'
@@ -26,7 +26,7 @@ last_runs:
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-08T14:59:47.852838+00:00'
   deep-review: '2026-09-17T11:12:13.378349+00:00'
-  embed-videos: '2026-09-17T00:07:16.770740+00:00'
+  embed-videos: '2026-09-17T12:52:12.614030+00:00'
   expand-topic: '2026-09-07T22:30:11.197713+00:00'
   harvest-research-subjects: '2026-09-17T11:52:04.099497+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: positions-evolve
-  type: positions-evolve
-  date: '2026-09-17'
-  outcome: success
-  kind: queue
 - task: add-highlight
   type: add-highlight
   date: '2026-09-17'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-17'
   outcome: success
   kind: queue
+- task: embed-videos
+  type: embed-videos
+  date: '2026-09-17'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/apex/cross-modal-capability-division/

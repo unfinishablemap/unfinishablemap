@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-07-06 11:23:32+00:00
+ai_modified: 2026-09-17 13:09:37+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-09 20:46:00+00:00
-lastmod: 2026-07-06 11:23:32+00:00
+lastmod: 2026-09-17 13:09:37+00:00
 modified: *id001
 related_articles:
 - '[[diachronic-agency-and-personal-narrative]]'
@@ -91,7 +91,7 @@ This parallels the argument from [social cognition](/topics/consciousness-and-so
 
 There is a further point about how this evidence is obtained. Comparing phenomenologies of agency across cultures is itself an [intersubjective achievement](/topics/consciousness-and-intersubjectivity/). A Western philosopher accessing the Daoist experience of *wu wei* relies on the same capacity for appresentation — perceiving another's subjectivity through their testimony, practice, and bodily comportment — that Husserl identified as the basis of all intersubjective encounter. The cultural distance adds a layer of difficulty beyond ordinary interpersonal understanding: not only must one bridge the gap between individual consciousnesses, but also between entire frameworks for structuring experience. That phenomenological invariants persist despite this double barrier — surviving both the [constitutive gap between minds](/voids/voids-between-minds/) and the additional gap between cultural interpretive frameworks — strengthens the case that they track real structural features of consciousness rather than shared cultural assumptions.
 
-The Map interprets this as evidence for the irreducibility of consciousness — a conclusion that finds independent support in [cross-traditional convergence on irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) and in [cross-cultural convergence on mental causation](/concepts/cross-cultural-convergence-on-mental-causation/). The argument is not that cross-cultural persistence *per se* implies irreducibility — biological universalism explains functional persistence perfectly well. The argument is that phenomenal persistence — the survival of *what it is like* to act, across cultures that frame action in radically different terms — points to something that shared neural architecture does not explain. Culture shapes *how* agency is experienced without creating the capacity for agency experience itself, and biology shapes *that* agency is functionally registered without explaining *what it is like* to be an agent.
+The Map interprets this as evidence for the irreducibility of consciousness — a conclusion that finds suggestive support, not independent corroboration, in [cross-traditional convergence on irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) and in [cross-cultural convergence on mental causation](/concepts/cross-cultural-convergence-on-mental-causation/), since all human introspection shares one instrument. The argument is not that cross-cultural persistence *per se* implies irreducibility — biological universalism explains functional persistence perfectly well. The argument is that phenomenal persistence — the survival of *what it is like* to act, across cultures that frame action in radically different terms — points to something that shared neural architecture does not explain. Culture shapes *how* agency is experienced without creating the capacity for agency experience itself, and biology shapes *that* agency is functionally registered without explaining *what it is like* to be an agent.
 
 ## Relation to Site Perspective
 

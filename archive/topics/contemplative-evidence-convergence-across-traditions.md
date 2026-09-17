@@ -4,7 +4,7 @@ description: "Mapping the specific phenomenological and neural findings that con
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-02-22T00:27:00+00:00
+ai_modified: 2026-09-17T13:09:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -119,9 +119,9 @@ The neuroscience corroboration adds a third line of evidence. Each convergent fi
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] receives empirical support from the convergence on attentional trainability. Across every tradition examined, deliberate conscious practice reshapes neural architecture. The convergence across traditions strengthens this evidence: the finding is not an artefact of any single practice methodology. When Buddhist shamatha, Christian contemplative prayer, Hindu dhyāna, and secular mindfulness all produce overlapping [[neuroplasticity|neuroplastic]] changes, the case for consciousness as causally efficacious is supported by multiple independent lines of evidence.
 
-The [[tenets#^dualism|Dualism tenet]] finds support in the convergence on the awareness-content distinction. Multiple independent traditions discover that awareness is not identical to its contents — a finding that physicalist frameworks struggle to accommodate. If consciousness were identical to neural activity, the awareness-content distinction should not be discoverable through self-observation. The cross-tradition convergence makes it unlikely that this distinction is an artefact of any particular training methodology.
+The [[tenets#^dualism|Dualism tenet]] coheres with the convergence on the awareness-content distinction, which is suggestive rather than independent corroboration: all human introspection shares one instrument, and the Christian and Sufi strands share a Neoplatonist channel. Multiple traditions report that awareness is not identical to its contents — a finding that physicalist frameworks struggle to accommodate. If consciousness were identical to neural activity, the awareness-content distinction should not be discoverable through self-observation. The cross-tradition convergence makes it unlikely that this distinction is an artefact of any particular training methodology.
 
-The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] connects through the pattern of convergent structure with divergent interpretation. The materialist might dismiss any single tradition's contemplative findings as culturally conditioned. The cross-tradition convergence makes this dismissal far more costly: one must explain why traditions with no mutual influence and opposed theoretical commitments independently discover the same structural features of consciousness. The Map holds that the simpler explanation — they are tracking real features of experience — is correct, while acknowledging the bootstrapping problem (addressed in the preceding section) that shared cognitive architecture poses for convergence arguments.
+The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] connects through the pattern of convergent structure with divergent interpretation. The materialist might dismiss any single tradition's contemplative findings as culturally conditioned. The cross-tradition convergence makes this dismissal far more costly: one must explain why traditions with limited mutual influence and opposed theoretical commitments discover the same structural features of consciousness. The Map holds that the simpler explanation — they are tracking real features of experience — is correct, while acknowledging the bootstrapping problem (addressed in the preceding section) that shared cognitive architecture poses for convergence arguments.
 
 ## Further Reading
 

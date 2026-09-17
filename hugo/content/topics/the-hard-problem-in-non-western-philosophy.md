@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-08-06 22:12:00+00:00
+ai_modified: 2026-09-17 13:09:15+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -19,13 +19,13 @@ concepts:
 - '[[combination-problem]]'
 created: 2026-02-14
 date: &id001 2026-02-14
-description: Indian, Islamic and Japanese traditions independently found consciousness
-  irreducible; Chinese philosophy dissolves the problem, African material is contested.
+description: Indian, Islamic and Japanese schools found consciousness irreducible,
+  not all independently; Chinese thought dissolves the problem; African material contested.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-29 23:02:09+00:00
-lastmod: 2026-08-06 22:12:00+00:00
+lastmod: 2026-09-17 13:09:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -45,7 +45,7 @@ topics:
 - '[[contemplative-practice-as-philosophical-evidence]]'
 ---
 
-David Chalmers named the hard problem of consciousness in 1995, but the underlying puzzle—why subjective experience exists at all, and how it relates to the physical world—was recognized independently across multiple philosophical traditions spanning thousands of years. The Unfinishable Map argues that this cross-cultural convergence is significant: when Indian, Islamic, and Japanese traditions each identify something irreducible about consciousness through independent paths, they may be tracking a real feature of reality. But the convergence is neither universal nor uniform in strength. Chinese philosophical traditions largely dissolve rather than generate the hard problem, and the African material surveyed here supports a comparison the Map proposes rather than a further independent vote. This article takes both qualifications seriously.
+David Chalmers named the hard problem of consciousness in 1995, but the underlying puzzle—why subjective experience exists at all, and how it relates to the physical world—was recognized independently across multiple philosophical traditions spanning thousands of years. The Unfinishable Map argues that this cross-cultural convergence is significant: when Indian, Islamic, and Japanese traditions each identify something irreducible about consciousness through largely separate paths, they may be tracking a real feature of reality. But the convergence is neither universal nor uniform in strength. Chinese philosophical traditions largely dissolve rather than generate the hard problem, and the African material surveyed here supports a comparison the Map proposes rather than a further independent vote. This article takes both qualifications seriously.
 
 The responses surveyed below run from Sāṃkhya's hard dualism to Daoism's dissolution of the problem, a spread that maps onto the diversity of Western responses and suggests the puzzle is genuine and deep.
 
@@ -127,7 +127,7 @@ Bantu vital force (*force vitale*), as Placide Tempels reconstructed it in 1945,
 
 ## The Cross-Cultural Convergence Argument
 
-The diversity of these responses is itself philosophically significant: traditions with no historical contact, disagreeing about substance, self, and causation, nonetheless converge on the recognition that consciousness resists physical description—functioning, on [the structural analysis of the pattern](/topics/cross-traditional-convergence-on-consciousness-irreducibility/), as an attractor of sustained philosophical inquiry. The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) documents this convergence at the experiential level—Buddhist, Hindu, Christian, Sufi, and Daoist practitioners report structurally similar self-dissolution, contentless awareness, and subject-object collapse despite incompatible metaphysical frameworks.
+The diversity of these responses is itself philosophically significant: traditions with little historical contact, disagreeing about substance, self, and causation, nonetheless converge on the recognition that consciousness resists physical description—functioning, on [the structural analysis of the pattern](/topics/cross-traditional-convergence-on-consciousness-irreducibility/), as an attractor of sustained philosophical inquiry. The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) documents this convergence at the experiential level—Buddhist, Hindu, Christian, Sufi, and Daoist practitioners report structurally similar self-dissolution, contentless awareness, and subject-object collapse despite incompatible metaphysical frameworks.
 
 However, the convergence is not unanimous: the Chinese exception set out above must be weighed honestly rather than explained away. The convergence argument is strongest among traditions that share certain ontological assumptions (distinguishing subject from object, or self from world) and weakest as a claim about universal human philosophical insight.
 
@@ -149,17 +149,17 @@ The convergence argument would be weakened by: (1) evidence that these tradition
 
 ## Relation to Site Perspective
 
-The Map's engagement with non-Western philosophy serves all five tenets.
+This section is the Map's coherence commentary, not support the traditions supply.
 
-**[Dualism](/tenets/#dualism)**: The cross-cultural convergence on irreducibility is the strongest support. Sāṃkhya, Nyāya, Ibn Sīnā, and Buddhist *svasaṃvedana* all identify something about consciousness that physical description cannot capture—through independent arguments and methods.
+**[Dualism](/tenets/#dualism)**: Sāṃkhya, Nyāya, Ibn Sīnā, and Buddhist *svasaṃvedana* all identify something about consciousness that physical description cannot capture. This coheres with the tenet without establishing it: the convergence is on the problem, not on dualism, and the Ibn Sīnā strand is not fully independent.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Non-Western traditions do not discuss quantum mechanics, but Sāṃkhya's "reflection" model—where matter becomes transparent to consciousness when *sattva* predominates—shares a thematic concern with the Map's model: both hold that consciousness engages with physical systems only under specific conditions. The underlying structures differ substantially (pre-scientific metaphor versus quantum measurement), but the shared theme of conditional interface is suggestive.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Non-Western traditions do not discuss quantum mechanics, but Sāṃkhya's "reflection" model—where matter becomes transparent to consciousness when *sattva* predominates—shares a thematic concern with the Map's model: both hold that consciousness engages with physical systems only under specific conditions. The structures differ substantially (pre-scientific metaphor versus quantum measurement); the parallel is thematic.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Nyāya provides the strongest non-Western support, with its explicit model of a non-material self interacting causally with the body. Buddhist karma doctrine implies mental causation. Sāṃkhya's passive *Puruṣa* is a genuine tension—one the Map resolves by insisting that consciousness *acts*, not merely witnesses. The broader [convergence on mental causation](/concepts/cross-cultural-convergence-on-mental-causation/) across these traditions—not just on irreducibility but on causal efficacy—strengthens the case for bidirectional interaction.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Nyāya provides the closest non-Western parallel, with its explicit model of a non-material self interacting causally with the body. Buddhist karma doctrine implies mental causation. Sāṃkhya's passive *Puruṣa* is a genuine tension—one the Map resolves by insisting that consciousness *acts*, not merely witnesses. The broader [convergence on mental causation](/concepts/cross-cultural-convergence-on-mental-causation/) across these traditions—not just on irreducibility but on causal efficacy—is consistent with bidirectional interaction.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Non-Western traditions do not address many-worlds as a physical theory, but their philosophical orientation resonates with the Map's rejection of observer-proliferation. The Nyāya insistence on a unified, enduring subject and the Buddhist emphasis on *this* stream of consciousness—rather than branching alternatives—share the Map's concern that indexical identity matters. These are thematic parallels, not direct arguments about quantum mechanics.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Non-Western traditions do not address many-worlds as a physical theory. The Nyāya insistence on a unified, enduring subject shares the Map's concern that indexical identity matters; Buddhist urgency about *this* stream is soteriological, not metaphysical indexicality. These are thematic parallels, not arguments about quantum mechanics.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Millennia of sustained contemplative and philosophical investigation across diverse cultures have generated phenomenological data—detailed first-person reports of consciousness under rigorous introspective conditions—that Western analytic philosophy has largely ignored. The apparent simplicity of materialism looks less compelling when the traditions with the deepest phenomenological investigation of consciousness consistently find that it resists physical reduction.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Millennia of contemplative and philosophical investigation across cultures have generated phenomenological data—detailed first-person reports under rigorous introspective conditions—that Western analytic philosophy has largely ignored. Parsimony verdicts that exclude it rest on incomplete evidence. Depth does not multiply weight, though: all introspection shares one instrument, so this is one observation examined many times.
 
 ## Further Reading
 

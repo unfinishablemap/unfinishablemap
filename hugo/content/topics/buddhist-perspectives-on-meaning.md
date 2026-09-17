@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-08-19 14:40:00+00:00
+ai_modified: 2026-09-17 13:09:37+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-13 04:13:36+00:00
-lastmod: 2026-08-19 14:40:00+00:00
+lastmod: 2026-09-17 13:09:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -128,7 +128,7 @@ Different Buddhist traditions develop these themes distinctively.
 
 **Mahayana**: The bodhisattva ideal shifts emphasis to universal liberation. The practitioner vows to forgo final nirvana until all beings are liberated. This provides meaning through compassionate service—an other-directed purpose that doesn't require cosmic validation.
 
-**Yogācāra**: The "mind-only" school holds that consciousness is fundamental. What appears as external world is mental construction—though scholars debate whether this amounts to ontological idealism or a phenomenological methodology about the primacy of experience. Either way, Yogācāra resonates with aspects of the Map's dualism: consciousness is taken seriously as fundamental, not derivative of matter.
+**Yogācāra**: The "mind-only" school holds that consciousness is fundamental. What appears as external world is mental construction—though scholars debate whether this amounts to ontological idealism or a phenomenological methodology about the primacy of experience. Either way, Yogācāra shares the Map's rejection of physicalism—consciousness is fundamental, not derivative of matter—while diverging on what replaces it; it is the Map's principal Buddhist rival rather than a bridge, and the Map does not conscript it as evidence for its own position.
 
 **Madhyamaka**: Nāgārjuna's "middle way" school holds that all phenomena are empty (*śūnya*) of inherent existence. This applies to meaning too: meaning neither inherently exists nor inherently doesn't exist. It arises dependently, conventionally real without being ultimately substantial. This sophisticated position transcends the meaning/meaninglessness binary. For the Map's framework, Madhyamaka poses a challenge: can consciousness be "irreducible" if all phenomena lack inherent existence? The Map's reading (developed in [buddhism-and-dualism](/concepts/buddhism-and-dualism/) and [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)) is that Madhyamaka denies inherent existence rather than existence, so the irreducibility claim can range over dependently-arisen phenomena; what that concedes is the claim's *scope*, not its *status*—it remains a claim about how those phenomena are, not about how they are described. Recasting it as a thesis about descriptions would buy compatibility cheaply, yielding only the epistemic thesis that no physical description captures what experience is like, whereas the [Dualism tenet](/tenets/#dualism) asserts the metaphysical one. The accommodation of emptiness therefore holds on the epistemic reading, at the conventional level where both frameworks operate, and that is less than the tenet asserts.
 
@@ -164,7 +164,7 @@ Buddhist perspectives on meaning illuminate the Map's tenets while raising produ
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Two and a half millennia of contemplative investigation represent a systematic research program that Western philosophy has largely ignored. The sophisticated phenomenology of Buddhist meditation—the stages of insight, the analysis of mental factors, the maps of jhana states—provides data that simple physicalism cannot accommodate. Buddhist philosophy suggests that the "simpler" view may miss genuine features of experience accessible only through disciplined practice.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Buddhist practice presupposes that this moment's choices matter for this practitioner. The Eightfold Path assumes that *this* person's actions shape *this* person's future. The indexical significance the Map defends—why am I *this* consciousness?—finds support in Buddhism's focus on individual liberation through individual effort.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Buddhist practice presupposes that this moment's choices matter for this practitioner. The Eightfold Path assumes that *this* person's actions shape *this* person's future. This does not carry over to the indexical significance the Map defends—why am I *this* consciousness?—because Buddhist urgency about *this* life is soteriological, not metaphysical indexicality. On this tenet the Map marks the disagreement with Buddhism as bedrock (see [buddhism-and-dualism](/concepts/buddhism-and-dualism/)).
 
 The tension remains: is grounding meaning in consciousness itself another form of clinging? The Map's answer: conscious experience *is* significant, and this significance doesn't require clinging. Buddhism's counter: perhaps. But watch carefully—the very assertion of significance may be where clinging hides.
 
