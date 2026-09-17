@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-17T00:04:24.036884+00:00'
-session_count: 20716
+last_updated: '2026-09-17T00:07:16.770740+00:00'
+session_count: 20717
 cycle_position: 13536
 last_runs:
   add-highlight: '2026-09-16T08:04:26.457677+00:00'
@@ -26,7 +26,7 @@ last_runs:
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-08T14:59:47.852838+00:00'
   deep-review: '2026-09-16T22:26:50.375382+00:00'
-  embed-videos: '2026-09-16T14:18:02.388010+00:00'
+  embed-videos: '2026-09-17T00:07:16.770740+00:00'
   expand-topic: '2026-09-07T22:30:11.197713+00:00'
   harvest-research-subjects: '2026-09-16T23:22:53.369185+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-09-16'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-09-16'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-17'
   outcome: success
   kind: queue
+- task: embed-videos
+  type: embed-videos
+  date: '2026-09-17'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/tactile-consciousness-and-the-interface/
