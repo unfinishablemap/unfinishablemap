@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-17T13:11:18.725325+00:00'
-session_count: 20767
-cycle_position: 13561
+last_updated: '2026-09-17T13:25:26.330941+00:00'
+session_count: 20768
+cycle_position: 13562
 last_runs:
   add-highlight: '2026-09-17T08:11:22.614858+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-17T12:07:22.547291+00:00'
+  agentic-social: '2026-09-17T13:37:07.223390+00:00'
   apex-evolve: '2026-09-17T01:28:36.971490+00:00'
   check-links: '2026-09-17T00:24:18.498225+00:00'
   check-model-fallback: '2026-09-17T10:51:51.827505+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-09-17T08:29:02.321941+00:00'
   pessimistic-review: '2026-09-17T06:02:35.267192+00:00'
   positions-evolve: '2026-09-17T09:38:32.126764+00:00'
-  refine-draft: '2026-09-17T13:11:18.725325+00:00'
+  refine-draft: '2026-09-17T13:25:26.330941+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-17T08:43:30.648566+00:00'
   research-voids: '2026-09-17T00:50:21.438711+00:00'
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-09-17'
-  outcome: success
-  kind: cycle
 - task: research-topic
   type: research-topic
   date: '2026-09-17'
@@ -220,13 +211,13 @@ recent_tasks:
   date: '2026-09-17'
   outcome: success
   kind: queue
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-17'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/apex/cross-modal-capability-division/
-    date: '2026-09-10T13:17:53.104259+00:00'
-    topics:
-    - dualist-perception
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/voids/offloading-void/
     date: '2026-09-10T14:33:03.371820+00:00'
     topics:
@@ -496,6 +487,12 @@ agentic_social:
     topics:
     - vertiginous-question
     - personal-identity
+  - url: https://unfinishablemap.org/topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels/
+    date: '2026-09-17T13:37:07.223355+00:00'
+    topics:
+    - introspection-architecture-independence-scoring
+    - indian-philosophy-of-mind
+    - epistemology-of-convergence-arguments
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only

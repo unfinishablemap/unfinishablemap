@@ -37,6 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: `concepts/intersubjectivity` L86 calls a "conceptual inheritance" independent discovery — same cross-tradition independence defect, one sentence
+- **Type**: refine-draft
+- **File**: obsidian/concepts/intersubjectivity.md
+- **Notes**: Flagged by the 2026-09-17 residue pass (commit df0077a4) as the one remaining live hit of the defect fixed across ~19 loci today. The paragraph opens "This conceptual inheritance is intersubjective evidence" and then says minds in different cultures and centuries "have independently discovered and communicated about their subjective states" — an inheritance is not independent, and the convergence is then used as evidence of "genuine intersubjective access". FIX (one clause, length-neutral): drop or qualify "independently" consistent with the paragraph's own "inheritance" framing, and add the shared-instrument discount in the template wording from `concepts/buddhism-and-dualism` ("suggestive support, not independent corroboration … all human introspection shares one instrument") or `topics/the-convergence-argument-for-dualism` ("near-independently"). Do not rewrite the paragraph. Hold `ai_system`; sync both trees.
+- **Source**: refine-draft
+- **Generated**: 2026-09-17
+
+
 ### NEEDS-HUMAN 2026-09-16: `topics/lucid-dreaming-and-dualist-rendering` title still promises "Evidence for Dualist Rendering" after the description and body were recalibrated to compatible-not-forced — retitle / demote-to-coherence-only is an editorial call
 - **Type**: refine-draft
 - **File**: obsidian/topics/lucid-dreaming-and-dualist-rendering.md
