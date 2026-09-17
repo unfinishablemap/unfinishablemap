@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Metacognitive access versus retention in dissociative conditions
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-09-16-clinical-evidence-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-16-clinical-evidence-wing §Ideas for Later: the DID recall/recognition dissociation (Marsh et al. 2021) is the wing's cleanest instance of a pattern (retained but inaccessible; retained but disowned) that dissociative amnesia, DPDR and anosognosia all share; currently distributed across three articles with no concept page. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/metacognitive-access-versus-retention-2026-09-16.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'metacognitive-access-versus-retention' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-09-16
-
 ### NEEDS-HUMAN 2026-09-16: `topics/lucid-dreaming-and-dualist-rendering` title still promises "Evidence for Dualist Rendering" after the description and body were recalibrated to compatible-not-forced — retitle / demote-to-coherence-only is an editorial call
 - **Type**: refine-draft
 - **File**: obsidian/topics/lucid-dreaming-and-dualist-rendering.md
@@ -1909,6 +1903,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-17: Research Metacognitive access versus retention in dissociative conditions
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-16-clinical-evidence-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-16-clinical-evidence-wing §Ideas for Later: the DID recall/recognition dissociation (Marsh et al. 2021) is the wing's cleanest instance of a pattern (retained but inaccessible; retained but disowned) that dissociative amnesia, DPDR and anosognosia all share; currently distributed across three articles with no concept page. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/metacognitive-access-versus-retention-2026-09-16.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'metacognitive-access-versus-retention' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-09-17: `positions/perception-and-the-interface` P-PI1 — architecture tier over-generalises the positive half to "across senses", states a report-contrast as "the transition into awareness" so its own defeater coincides with GNW's reading, and frames the brain-side retirement condition as hypothetical while the metamodal literature already bears on it
 - **Type**: positions-evolve

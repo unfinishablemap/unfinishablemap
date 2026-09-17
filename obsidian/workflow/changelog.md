@@ -5,6 +5,13 @@ ai_modified: '2026-09-17T04:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-17T08:40:23+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Metacognitive access versus retention in dissociative conditions
+- **Output**: [[research/metacognitive-access-versus-retention-2026-09-16]]
+- **Sources consulted**: 17
+- **Findings**: Worth a concepts/ page (326/360), reframed as a four-level decomposition (retention / performance-level use / metacognitive access / felt ownership) — the four conditions break at DIFFERENT levels, not one shared pattern. Marsh et al. 2021 verified at PLoS (Huntjens is last author); the "meta-memory" framing originates in Huntjens et al. 2006. Flagged for the hosting article: `clinical-dissociation-as-systematic-evidence` L82 "than instructed simulators or controls" overstates the comparison (paper: simulators and partial-information comparisons only; recall effect a trend).
+
 ## 2026-09-17T08:28:34+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: quantum-mechanism wing — 7 articles, 20,829 body words (`stapp-quantum-mind`, `consciousness-in-smeared-quantum-states`, `decoherence-and-macroscopic-superposition`, `motor-control-quantum-zeno`, `sorkin-delta-brain-internal-analogues`, `stochastic-emergence-as-quantum-interface-evidence`, `wavefunction-realism-vs-primitive-ontology`), read in full; five never previously optimistic-reviewed (selected by content-count coverage scan, 39 never-covered articles corpus-wide). Findings: (1) category error — `sorkin-delta` L77 (from `brain-internal-born-rule-testing` L98) says a Sorkin-Δ test could constrain literal Stapp-Zeno, but Zeno is standard QM so ε = 0 (corpus-internal: `quantum-zeno-effect` L43, `sorkin-higher-order-interference` L53); (2) three bodies outrun their own concessions — smeared-states L48/L100/L108-110/L126 vs its L124, plus an LF-assumption misstatement corrected by `post-decoherence-selection` L92; motor-selection L38/L83 vs its L99; Stapp L66/L106/L152 vs its L64; (3) exemplar calibration in `stochastic-emergence` (live-hypothesis held throughout). Tasks: 3 refine-draft + 1 expand-topic (thoughtful Local Friendliness / artificial friend; topics 328/360); Stapp outcome-selection finding carried as a Notes continuation on the existing open P3 for that file (past hard, scope fence untouched); four further items carried in the review.
