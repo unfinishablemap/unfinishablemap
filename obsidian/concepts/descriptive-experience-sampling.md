@@ -4,7 +4,7 @@ description: "Human-AI collaboration refines the Map's reference account of Hurl
 created: 2026-08-16
 modified: 2026-08-16
 human_modified:
-ai_modified: 2026-09-09T07:49:00+00:00
+ai_modified: 2026-09-17T17:58:00+00:00
 draft: false
 topics:
   - "[[inner-speech-and-anendophasia]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-5
 ai_generated_date: 2026-08-16
 last_curated:
-last_deep_review: 2026-08-16T17:18:20+00:00
+last_deep_review: 2026-09-17T17:58:00+00:00
 ---
 
 Descriptive Experience Sampling (DES) is Russell Hurlburt's method for describing inner experience: a participant carries a beeper that fires at random intervals during ordinary life, jots notes on whatever experience was ongoing at the moment of the beep, and is interviewed about those moments within about a day. Its findings are widely cited — inner speech present in roughly a quarter of sampled moments rather than as a continuous monologue, and wordless "unsymbolized thinking" as a common positive phenomenon.
@@ -43,7 +43,7 @@ Hurlburt and Heavey (2015) state four methodological characteristics they argue 
 
 The interview is what Hurlburt's tradition calls **open-beginninged**: the interviewer "does not set out to inquire whether a participant is innerly speaking, or is innerly seeing, or so on" (Kühn et al. 2014, describing the procedure). The question asked is, in effect, only *what was in your experience at the moment of the beep?* Categories are supposed to emerge from what the participant describes rather than being offered to her.
 
-Skill is treated as acquired across sampling days rather than possessed at the start, by the investigator as well as the participant. Participants are interviewed repeatedly, with early days functioning as training. Fidelity is claimed to rise as both parties get better at setting aside what they assume inner experience must be like.
+Skill is treated as acquired across sampling days rather than possessed at the start, by the investigator as well as the participant: early days function as training, and fidelity is claimed to rise as both get better at setting aside what they assume inner experience must be like.
 
 ## What Sampling Has Found {#findings}
 
@@ -53,11 +53,13 @@ Heavey and Hurlburt (2008) collected ten randomly identified moments from each o
 
 On inner speaking specifically, Hurlburt, Heavey and Kelsey (2013) report that it occurs in many though certainly not all sampled moments, most commonly experienced as speaking in one's own naturally inflected voice with no sound produced, with large individual differences in frequency. They note their observations diverge from much of the existing literature and attribute the divergence to methodological differences between researchers — a caution that travels with the numbers wherever they are cited.
 
-One attempt at external triangulation exists. Kühn, Fernyhough, Alderson-Day and Hurlburt (2014) trained participants in DES and then delivered random beeps inside an MRI scanner. Moments the interview identified as inner speaking showed activation in classic speech-processing areas including left inferior frontal gyrus, and the imaging tracked the participant's reported distinction between inner *speaking* and innerly *hearing* her own voice. The design's weight should be stated plainly: five participants were recruited and the paper reports on **one**, an eighteen-year-old woman, across nine scanner sessions yielding thirty-six sampled moments. The authors describe it as a case study establishing proof of principle, while also claiming the results highlight the method's precision and validity. A single case cannot carry the second claim, and the Map cites this work as a demonstration that DES-identified categories can be made to co-vary with brain signal at all, not as validation of the method.
+One attempt at external triangulation exists. Kühn, Fernyhough, Alderson-Day and Hurlburt (2014) trained participants in DES and then delivered random beeps inside an MRI scanner. Moments the interview identified as inner speaking showed activation in classic speech-processing areas including left inferior frontal gyrus, and the imaging tracked the participant's reported distinction between inner *speaking* and innerly *hearing* her own voice. The design's weight should be stated plainly: five participants were recruited and the paper reports on **one**, an eighteen-year-old woman, across nine scanner sessions yielding thirty-six sampled moments, eight of which the interview classified as inner speaking. The authors describe it as a case study establishing proof of principle, while also claiming the results highlight the method's precision and validity. A single case cannot carry the second claim, and the Map cites this work as a demonstration that DES-identified categories can be made to co-vary with brain signal at all, not as validation of the method.
+
+The scanner also costs the method its defining condition. Pristine experience is cued in the participant's natural environment, and a 25-minute scanner session is the laboratory setting that criterion excludes. The authors register the cost themselves: inner seeing filled eight of the in-scanner samples having never once appeared in this participant's natural-environment sampling, which they judge "likely to be an artifact of the scanner situation." Triangulating DES against brain signal therefore trades away some of the fidelity that made its categories worth triangulating — a constraint on the neuroimaging route generally rather than a flaw in this study.
 
 ## Fidelity Versus Validity {#fidelity-validity}
 
-Hurlburt's most exportable contribution is a distinction he draws in a 2026 *Psychological Science* commentary, and the Map treats it as a general-purpose tool for grading first-person evidence rather than as a point local to the dispute that occasioned it.
+Hurlburt's most exportable contribution is a distinction he draws in a 2026 *Psychological Science* commentary, and the Map treats it as a general-purpose tool for grading first-person evidence.
 
 **Fidelity** is faithfulness to experience as it actually occurred. **Validity**, in the psychometric sense, is construct validity: an instrument's demonstrated relationship to a theoretical construct it is designed to measure. A questionnaire can be impeccably validated and still tell you nothing about what was in anyone's experience, because the construct it measures is the thing it was validated against.
 
@@ -122,7 +124,7 @@ What DES does not do is escape the problem the Map's [[introspection]] treatment
 - [[introspection]] — the baseline reliability debate this method aims to improve on
 - [[inner-speech-and-anendophasia]] — the dispute where fidelity-versus-validity was minted
 - [[microphenomenological-interview-method]] — the depth-oriented complement
-- [[phenomenal-contrast-method]] — the sibling within-subject instrument: it grounds *structure* premises where sampling grounds *frequency* ones, and both are defensible against cross-subject phenomenal calibration rather than against each other
+- [[phenomenal-contrast-method]] — the sibling within-participant instrument: it isolates phenomenal *contrasts* where sampling counts *frequencies*. [[judging-the-map-as-science|The judging-the-map synthesis]] names contrast structure, not DES, as the instrument class the measurement-standards limit leaves defensible; reading DES's within-participant frequency profiles into that class is the Map's own extension, and it does not reach the cross-participant percentages above
 - [[heterophenomenology]] — the deflationary reading of the same transcripts
 - [[phenomenological-evidence]] — how first-person data earn evidential weight
 - [[minimal-consciousness-void]] — the unattended-experience limit

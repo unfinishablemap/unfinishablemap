@@ -10,6 +10,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-17T17:58:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [descriptive-experience-sampling](/concepts/descriptive-experience-sampling/)
+- **Word count**: 2780 → 2895 (+115; concepts soft 2500 / hard 3500, status soft_warning, 604 below hard)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Selection**: selector's top pick (score 49); not on the driver's skip list. Sole change since the 2026-08-16 deep review was one Further Reading cross-link (`dd92a20b73`, 2026-09-09) — the cosmetic-bump-re-qualifies-a-converged-article pattern. References block byte-identical since a complete publisher-of-record ledger, so §2.4's own trigger was not met and the full re-verify was deliberately not re-run; this pass ran the unrun lenses instead (unreviewed cross-link sentence, reciprocity, raw-source quote grep).
+- **Critical**: attribution error in the 2026-09-09 cross-link. It class-labelled DES and `phenomenal-contrast-method` "the two members of the within-subject instrument class the judging-the-map apex declares defensible". Measured: `apex/judging-the-map-as-science.md` returns **0** for each of "descriptive experience sampling", "descriptive-experience-sampling", "Hurlburt" and "sampling", and DES is absent from its `apex_sources`. The apex's actual claim is "within-subject contrast structures are the defensible instrument class", with Further Reading naming `phenomenal-contrast-method` alone. §2.5 misattribution plus source/Map conflation. Aggravating: "within-subject" sits against the article's own limits register, which lists "Population generalisation" among what DES *cannot* establish. Fixed in both articles — the synthesis's class named as contrast structure *not DES*, the extension marked as the Map's own step, and scoped to DES's within-participant frequency profiles, excluding the cross-participant percentages. Link and frequency/structure division of labour retained; only attribution and scope were wrong.
+- **Medium**: (1) the Kühn et al. (2014) scanner triangulation was reported without noting it forfeits the pristine condition §method defines as "random cueing in the participant's natural environment rather than a laboratory task". Paragraph added, sourced verbatim from raw full text: inner seeing filled eight in-scanner samples having never appeared in this participant's natural-environment sampling, judged "likely to be an artifact of the scanner situation"; framed as a constraint on the neuroimaging route, not a flaw in the study. (2) imaging contrast's sample base unstated — "eight of which the interview classified as inner speaking" added.
+- **Raw-source grep leg**: Kühn et al. 2014 is open access (PMC4260673); full text pulled via Europe PMC REST, tag-stripped and NFKC-normalised before matching. All eight quoted/numeric claims verbatim, including the validity overclaim the article correctly declines ("These results highlight the precision and validity of the DES method"). False-zero traps recorded: "open beginninged" unhyphenated → −1; "eighteen"/"18-year-old" → −1 against raw "18 year-old-woman". No result-direction inversions.
+- **Sibling fix**: `concepts/phenomenal-contrast-method` L137 carried the mirror misattribution ("the other member of that instrument class") and was repaired in the same pass — fix-by-file would have left the string sibling live. Its `ai_modified` bumped; `last_deep_review` untouched (not reviewed this pass).
+- **Length**: length-neutral mode. two trims applied against the additions (iterative-skill paragraph merged; redundant §fidelity-validity clause removed after `git log -S` confirmed it was original-create text, not review-installed). Net +115 measured.
+- **Engagement modes** (editor-internal): Dennett/heterophenomenology Mode Three, Schwitzgebel Mode Three, psychometric tradition Mode Two — all unchanged; no new engagements, no label leakage.
+- **Links**: all 15 wikilink targets resolve. New `[[judging-the-map-as-science]]` uses the bare form (slug unique corpus-wide, so validated at sync).
+- **ai_system**: held at claude-opus-5.
+- **Output**: [deep-review-2026-09-17-descriptive-experience-sampling](/reviews/deep-review-2026-09-17-descriptive-experience-sampling/)
+
 ## 2026-09-17T17:22:49+00:00 - refine-draft
 - **Status**: Success
 - **File**: [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/)
