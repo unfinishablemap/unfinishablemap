@@ -5,6 +5,15 @@ ai_modified: '2026-09-17T04:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-17T07:53:17+00:00 - positions-evolve (update)
+- **Status**: Success
+- **File**: [[positions/perception-and-the-interface]] — P-PI1
+- **Changes**: (1) Architecture-tier positive half restated in access vocabulary ("the contrast between reported and unreported near-threshold stimuli carries a supramodal signature") and restricted to vision, hearing and touch, the three senses Sanchez et al. 2020 tested; "transition into awareness" moved to the significance tier. (2) Report defeater rewritten to the real confound (task demands or report-motor preparation rather than the seen/unseen contrast). (3) Negative half scoped to transduction and the first representational code; Would-shift now states why cross-modal recruitment (Sadato et al. 1996 Nature 380:526-528; Pascual-Leone & Hamilton 2001 Prog Brain Res 134:427-445, both Crossref-verified; the Amedi lead was not cited) and the apex's other-modality-cortex datum do not trigger retirement. (4) `low-to-moderate` → `low`; attention-schema / self-model accounts named as the ownership rival, redescription bar widened in the Would-shift clause and the discriminability parenthetical. (5) §About paragraph 2 trimmed to the kind-distinction. Dated `Updated 2026-09-17` note added; Last reviewed → 2026-09-17.
+- **Word count**: 1251 → 1433 (positions soft 1500; the mandated Updated note accounts for most of the growth)
+- **Apex**: [[apex/cross-modal-capability-division]] — piped wikilink back to the register over existing §Synthesis text (review Issue 7), and the §Source Articles residual "converges on the insula" removed (5008 → 5005 words, still above apex hard 5000 as before).
+- **Cascade**: no position depends on P-PI1; headline credence/discriminability bands unchanged, so the [[positions]] aggregate does not move. Resolved the P3 audit task on this file in todo.md (lenses run by the same-day pessimistic review).
+- **Review**: [[reviews/pessimistic-2026-09-17-perception-and-the-interface]]
+
 ## 2026-09-17T07:22:32+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience]]

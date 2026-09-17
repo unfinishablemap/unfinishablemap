@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-20
-ai_modified: 2026-09-14 15:03:02+00:00
+ai_modified: 2026-09-17 07:53:17+00:00
 ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1
 apex_last_synthesis: 2026-06-22 01:25:06+00:00
 apex_sources:
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 04:31:48+00:00
-lastmod: 2026-09-14 15:03:02+00:00
+lastmod: 2026-09-17 07:53:17+00:00
 modified: *id001
 related_articles:
 - '[[capability-division-in-vision]]'
@@ -134,7 +134,7 @@ Laying the five modality treatments beside the external evidence yields a claim 
 
 That asymmetry comes with its own scope condition, and naming it is part of the finding. It holds for the distance and proprioceptive senses; turning the survey inward to interoception inverts both terms—the brain side converges within one shared allostatic-interoceptive system, the mind side becomes affect and ownership outright. So the asymmetry is an *exteroceptive* regularity with a revealing inward exception, not a universal law—with thermoception marking the line itself. The disciplined claim is sharper for carrying that boundary: the brain side recurs over senses with separate transducers and stops recurring exactly where the transducers feed a common hub. The vestibular sense marks the other edge—not an inversion but the asymmetry at its limit—and so the mind-side term resolves into a family rather than a single contribution.
 
-That asymmetry is consonant with the interface reading without being probative of it, because the Global Neuronal Workspace predicts the very same supramodal signature and reads it as a neural broadcast. The signature is a shared explanandum; the Map's distinctive wager is on the ownership term the broadcast under-describes—a wager strong on argument and thin on direct cross-modal evidence. And the disanalogies set the ceiling: ownership is uneven across the senses, binding and awareness doubly dissociate, unconscious integration is window-bounded, and the conscious boundary is graded rather than sharp. The disciplined statement is therefore: *the form of the brain-side division recurs over modality-specific machinery, its unconscious preparation window-bounded rather than complete; the mind-side access boundary recurs as a supramodal signature; the mind-side contribution is a differently-weighted family rather than a single uniform thing; and the whole convergence is one pattern with shared upstream architecture, consistent with the interface reading and equally consistent with its strongest rival.* That is more than any one sense shows, and less than a proof—exactly the register the Map's perception articles have held throughout. This synthesis answers *where* the division recurs across the felt body; the [embodied-interface synthesis](/apex/embodied-interface/) takes the complementary axis, asking *what consciousness is doing* in each region, so the two apexes map the same terrain along orthogonal cuts.
+That asymmetry is [consonant with the interface reading without being probative of it](/positions/perception-and-the-interface/), because the Global Neuronal Workspace predicts the very same supramodal signature and reads it as a neural broadcast. The signature is a shared explanandum; the Map's distinctive wager is on the ownership term the broadcast under-describes—a wager strong on argument and thin on direct cross-modal evidence. And the disanalogies set the ceiling: ownership is uneven across the senses, binding and awareness doubly dissociate, unconscious integration is window-bounded, and the conscious boundary is graded rather than sharp. The disciplined statement is therefore: *the form of the brain-side division recurs over modality-specific machinery, its unconscious preparation window-bounded rather than complete; the mind-side access boundary recurs as a supramodal signature; the mind-side contribution is a differently-weighted family rather than a single uniform thing; and the whole convergence is one pattern with shared upstream architecture, consistent with the interface reading and equally consistent with its strongest rival.* That is more than any one sense shows, and less than a proof—exactly the register the Map's perception articles have held throughout. This synthesis answers *where* the division recurs across the felt body; the [embodied-interface synthesis](/apex/embodied-interface/) takes the complementary axis, asking *what consciousness is doing* in each region, so the two apexes map the same terrain along orthogonal cuts.
 
 ## Relation to Site Perspective
 
@@ -155,7 +155,7 @@ This synthesis draws together:
 - [Chemosensory Consciousness and the Interface](/topics/chemosensory-consciousness-and-the-interface/) — the division with the scaffolding removed entirely; the combinatorial code and flavour binding
 - [Tactile Consciousness and the Interface](/topics/tactile-consciousness-and-the-interface/) — the touching-touched perceiver, affective touch, and the movable body boundary; ownership at its most vivid
 - [Dual-Domain Capabilities in Proprioception and Spatial Imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — the division taken inward, with the body-schema/body-image and aphantasia dissociations
-- [Interoceptive Consciousness and the Interface](/topics/interoceptive-consciousness-and-the-interface/) — the inward case that inverts both terms; the brain side converges on the insula, the mind side becomes affect and ownership
+- [Interoceptive Consciousness and the Interface](/topics/interoceptive-consciousness-and-the-interface/) — the inward case that inverts both terms; the brain side converges, the mind side becomes affect and ownership
 - [Vestibular Consciousness and the Interface](/topics/vestibular-consciousness-and-the-interface/) — the brain-side extreme; no unisensory cortex and almost no felt object, yet the silent supplier of the spatial frame of the self
 - [Thermal Consciousness and the Interface](/topics/thermal-consciousness-and-the-interface/) — the boundary case; a single modality reporting both world and body at once, turning the outward/inward partition into a gradient
 
