@@ -4,8 +4,8 @@ description: "Human+AI exploration of the body's internal sensing channels as th
 created: 2026-02-23
 modified: 2026-06-21T22:06:00+00:00
 human_modified:
-ai_modified: 2026-09-14T12:03:10+00:00
-last_deep_review: 2026-07-10T11:56:08+00:00
+ai_modified: 2026-09-17T13:53:10+00:00
+last_deep_review: 2026-09-17T13:53:10+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,15 +44,15 @@ The somatic interface's properties constrain what consciousness can do through a
 
 ## Channels of the Somatic Interface
 
-The somatic interface operates through several distinct but interacting systems, each contributing something different to conscious experience. The channel decomposition runs parallel in structure to the three-layer decomposition in [[phenomenal-authority-and-first-person-evidence#Three Layers of Phenomenal Authority|phenomenal authority]] — different registers carry different content with different warranted trust on the epistemological side, and different phenomenal character on the embodiment side — though the cleavage lines are not identical.
+The somatic interface operates through several distinct but interacting systems, each contributing something different to conscious experience—a decomposition loosely parallel to the three layers of [[phenomenal-authority-and-first-person-evidence#Three Layers of Phenomenal Authority|phenomenal authority]], though the cleavage lines differ.
 
 ### Interoception
 
-Interoception is the perception of the body's internal states—heartbeat, breathing, gut activity, temperature regulation, hunger, thirst. Research increasingly positions interoception as central to consciousness itself, not merely as an input channel. As a review in the Association for Psychological Science's *Observer* summarises: "Interoception—the ability to perceive the internal state of our bodies—is central to our thoughts, emotions, decision-making, and sense of self."
+Interoception is the perception of the body's internal states—heartbeat, breathing, gut activity, temperature regulation, hunger, thirst. Research increasingly positions interoception as central to consciousness itself, not merely as an input channel. As an article in the Association for Psychological Science's *Observer* puts it: "Interoception—the ability to perceive the internal state of our bodies—is central to our thoughts, emotions, decision-making, and sense of self."
 
 The interoceptive channel carries information about homeostatic state—the body's ongoing self-regulation. Antonio Damasio's somatic marker hypothesis — developed within a materialist framework — proposes that bodily feelings guide decision-making by marking options with positive or negative valence derived from past experience. The Map reinterprets this evidence through its [[interactionist-dualism|interactionist]] lens: the same data that Damasio reads as sophisticated neural computation, the interface reading treats as a structured channel between body and consciousness. Patients with ventromedial prefrontal cortex damage lose access to somatic markers and, in Damasio's description, make catastrophically poor decisions despite intact logical reasoning—suggesting the body's felt signals carry information that deliberative cognition does not, in these patients, recover.
 
-Cardiac interoception—the ability to perceive one's own heartbeat—correlates with emotional intensity and the recognition of emotions in others. People with reduced interoceptive accuracy have difficulty identifying their own emotional states. Materialist accounts explain this through neural architecture — interoceptive accuracy depends on specific cortical pathways. The interface reading adds a further claim: the somatic channel doesn't merely *transmit* emotional data but structures the *phenomenal character* of emotion, and that character is not fully explained by the neural pathway that carries it.
+Cardiac interoception—the ability to perceive one's own heartbeat—has been reported to correlate with emotional intensity and with sensitivity to others' emotions, though mostly on heartbeat-counting measures whose validity is now contested. Difficulty identifying one's own emotions ([[alexithymia]]) tracks self-reported interoceptive sensibility rather than task accuracy. Materialist accounts explain these links through neural architecture and learned bodily beliefs. The interface reading adds a further claim: the somatic channel doesn't merely *transmit* emotional data but structures the *phenomenal character* of emotion, and that character is not fully explained by the neural pathway that carries it.
 
 ### Interoceptive Heterogeneity
 
@@ -76,7 +76,7 @@ Pain and pleasure are the somatic interface's evaluative channels—the body's w
 
 [[pain-consciousness-and-causal-power|Pain asymbolia]]—a condition where patients detect nociceptive signals without experiencing suffering—demonstrates that the somatic interface has layers. The signal arrives, but the phenomenal character (the *awfulness* of pain) does not follow automatically from the signal. Materialist neuroscience explains this dissociation through distinct neural pathways: the sensory-discriminative pathway (localising pain) separates from the affective-motivational pathway (generating suffering), and damage to the latter eliminates the felt awfulness while leaving detection intact. This is a complete functional explanation. The interface reading does not dispute it. What the interface reading highlights is the structural parallel to the [[hard-problem-of-consciousness|hard problem]]: even a full account of which pathways do what leaves open *why* pathway activity in the affective system constitutes suffering at all. On the Map's framework, consciousness *receives and qualifies* the transmitted signal—the body proposes, consciousness disposes. This is a metaphysical interpretation of the same clinical facts, not a competing clinical hypothesis.
 
-Phantom limb pain extends this analysis. After amputation, patients experience pain in a limb that no longer exists. Neuroscience attributes this to cortical reorganisation and persistent neural representations of the missing limb—the brain's body map outlasts the body's actual configuration. The interface reading redescribes this same phenomenon: the somatic interface maintains a structural map that consciousness continues to inhabit, even when the physical channel has been severed. Both accounts explain the clinical data equally well. The interface reading's contribution is framing body-schema persistence within a model where consciousness is the *inhabitant* of the map rather than its product.
+Phantom limb pain extends this analysis. After amputation, patients experience pain in a limb that no longer exists. Neuroscience attributes this to cortical reorganisation and persistent neural representations of the missing limb—the brain's body map outlasts the body's actual configuration. The interface reading redescribes this same phenomenon: the somatic interface maintains a structural map that consciousness continues to inhabit, even when the physical channel has been severed. Both accounts fit the clinical data equally well; the interface reading's contribution is framing body-schema persistence within a model where consciousness is the *inhabitant* of the map rather than its product.
 
 ### Vestibular Sense
 
@@ -88,7 +88,7 @@ Neuroscience explains vestibular experience through semicircular canal mechanics
 
 Damasio's somatic markers deserve separate treatment because they represent the interface's role in cognition, not just sensation. Somatic markers are bodily feelings associated with the predicted outcomes of decisions—a tightening in the gut before a risky choice, warmth in the chest anticipating a positive outcome.
 
-Somatic markers are learned: they accumulate through experience as the body-consciousness system builds associations between situations and bodily responses. They operate faster than deliberation, providing "gut feelings". On Bechara et al.'s (1997) reading of the Iowa Gambling Task, participants avoid disadvantageous decks before they can articulate why; Maia & McClelland (2004), using more sensitive questioning, found reportable knowledge of the deck contingencies whenever behaviour changed, and Dunn, Dalgleish & Lawrence (2006) review the hypothesis critically. "The body signals before the mind reasons" is therefore contested, not established.
+Somatic markers are learned: they accumulate through experience as the body-consciousness system builds associations between situations and bodily responses. They are held to operate faster than deliberation, providing "gut feelings." On Bechara et al.'s (1997) reading of the Iowa Gambling Task, participants avoid disadvantageous decks before they can articulate why; Maia & McClelland (2004), using more sensitive questioning, found that participants who behaved advantageously nearly always reported knowledge of the deck outcomes sufficient to guide that behaviour, and Dunn, Dalgleish & Lawrence (2006) review the hypothesis critically. That the body signals before the mind reasons is therefore contested, not established.
 
 Materialist accounts explain somatic markers entirely through neural learning and bodily feedback loops, and these accounts are empirically well-supported. The interface reading does not challenge that mechanism. It reframes what the mechanism *is*: the interface's accumulated calibration, through which the body pre-empts consciousness with rapid evaluative signals, compressing complex outcome predictions into felt bodily states. Consciousness can override these signals—we sometimes act against gut feelings—but the signals carry information that deliberation has not always surfaced. The interpretive difference matters only at the metaphysical level: whether the "felt" character of somatic markers is produced by the neural process or received by consciousness through it.
 
@@ -104,9 +104,9 @@ Several properties of the somatic interface matter for the Map's framework.
 
 **The interface marks [[consciousness-only-territories|consciousness-only territory]].** Some somatic states — the raw awfulness of pain, the felt warmth of comfort — may be reportable only from the first-person perspective. The somatic interface is where the boundary between publicly observable mechanism and privately accessible experience is sharpest.
 
-**The interface has persistence beyond current bodily state.** Phantom limb phenomena (above) show the interface maintains a structural map that outlasts the body it represents. Both frameworks account for the clinical data—the difference is metaphysical.
+**The interface has persistence beyond current bodily state.** Phantom limb phenomena (above) show a structural map outlasting the body it represents.
 
-The three properties together — layered, phenomenal-character-shaping, bidirectional — instantiate the narrow-probabilistic-channel reading at the embodiment level. The [[mechanism-costs-dualism-thickness-quadrants#map-position|Map's cell in the mechanism-costs cartography]] specifies the corresponding mechanism profile: physical-thin, mind-medium, narrow probabilistic interface. The somatic interface gives that cell its anatomy.
+Three of these properties — layered, phenomenal-character-shaping, bidirectional — instantiate the narrow-probabilistic-channel reading at the embodiment level. The [[mechanism-costs-dualism-thickness-quadrants#map-position|Map's cell in the mechanism-costs cartography]] specifies the corresponding mechanism profile: physical-thin, mind-medium, narrow probabilistic interface. The somatic interface gives that cell its anatomy.
 
 ## Relation to Site Perspective
 
@@ -116,7 +116,7 @@ The three properties together — layered, phenomenal-character-shaping, bidirec
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If consciousness biases quantum outcomes in neural systems, the somatic interface is one candidate locus where this biasing might be phenomenologically legible—the gap between nociceptive signal and pain experience, between cardiac rhythm and felt anxiety, is equally consistent with undiscovered neural mechanisms, so no claim of distinctive visibility is asserted here. The interface reading's claim is that these gaps are *expected* on an interactionist model—physical structure underdetermines phenomenal outcome because phenomenal character has a non-physical contributor. This is a framework prediction, not a clinical one.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The somatic interface resists simple models. Neither "body produces feelings" (materialism) nor "consciousness floats free of body" (Cartesian dualism) captures what the evidence shows. The interface is modular, bidirectional, persistent beyond current bodily state, and phenomenally dissociable from signal detection. Understanding requires the complexity of an interface model rather than reduction to either pole.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The somatic interface resists slogans. Neither "body produces feelings" nor "consciousness floats free of body" does justice to a structure that is modular, bidirectional, persistent beyond current bodily state, and phenomenally dissociable from signal detection. Because the somatic data are neutral between the materialist and interface readings (above), the tenet's work here is limited: parsimony cannot favour the materialist reading merely because it posits less, when what it leaves unexplained—why pathway activity is felt at all—is exactly what is in dispute.
 
 ## Further Reading
 

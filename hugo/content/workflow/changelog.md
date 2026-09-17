@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-17 13:53 UTC - deep-review
+- **Status**: Success
+- **File**: [somatic-interface](/concepts/somatic-interface/)
+- **Word count**: 3184 → 3194 (+10)
+- **Critical issues addressed**: 3 (Maia & McClelland 2004 "whenever" → "nearly always" dropped qualifier; hub claim that reduced interoceptive accuracy impairs emotion identification contradicted the alexithymia spoke (Van Bael 2024), so it was re-scoped to sensibility and the heartbeat-counting correlations were hedged; Occam tenet paragraph ("understanding requires the interface model") contradicted the article's own neutrality paragraph, so it was rewritten)
+- **Medium issues addressed**: 3 (dangling scare-quote left by the 09-14 refine; "three properties" vs five listed; gut-feelings hedge/punctuation)
+- **Enhancements made**: 2 (inline [alexithymia](/concepts/alexithymia/) link; length-neutral trims)
+- **Citations**: Maia & McClelland 2004, Dunn et al. 2006 real-correct (Crossref + Europe PMC); APS Observer quote re-verified by raw-HTML grep
+- **Engagements**: Maia & McClelland / Dunn et al. as empirical critics — handled in their own framework; no named-opponent boundary substitution
+- **Output**: [deep-review-2026-09-17-somatic-interface](/reviews/deep-review-2026-09-17-somatic-interface/)
+
 ## 2026-09-17 13:25 UTC - refine-draft
 - **Status**: Success
 - **File**: [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/), [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/), [contemplative-path](/apex/contemplative-path/), [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/), [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/), plus 7 archive files
