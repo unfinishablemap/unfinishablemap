@@ -5,6 +5,13 @@ ai_modified: '2026-09-17T04:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-17T06:30:30+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Control-architecture distinctions and the competency ladder (good-regulator theorem, internal model principle, Rosenblueth-Wiener-Bigelow purposive behaviour)
+- **Output**: [[research/control-architecture-distinctions-and-the-competency-ladder-2026-09-17]]
+- **Sources consulted**: 15 (3 primaries read in full; Francis & Wonham 1976 abstract publisher-walled, metadata verified at Crossref/OpenAlex/Semantic Scholar)
+- **Key finding**: the good-regulator theorem proves only that the *simplest optimal* regulator is a function of the reguland; Conant & Ashby concede "unnecessarily complex" optimal regulators exist. Pezzulo/Friston/Seth cite the folk form. None of the five architecture distinctions is interface-discriminating; HOT is not a hierarchical-control thesis.
+
 ## 2026-09-17 05:58 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `positions/perception-and-the-interface` (P-PI1) — driver-nominated as the register file with zero filename-subject reviews; measured before selection: 0 filename matches, 4 path-mentions all dated today, two of them (`outer-review-2026-09-17-claude-opus-5`, its synthesis) already citing the file as a defence

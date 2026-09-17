@@ -10,6 +10,42 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-17T06:30:30+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Control-architecture distinctions and the competency ladder (good-regulator theorem, internal model principle, Rosenblueth-Wiener-Bigelow purposive behaviour)
+- **Output**: [control-architecture-distinctions-and-the-competency-ladder-2026-09-17](/research/control-architecture-distinctions-and-the-competency-ladder-2026-09-17/)
+- **Sources consulted**: 15 (3 primaries read in full; Francis & Wonham 1976 abstract publisher-walled, metadata verified at Crossref/OpenAlex/Semantic Scholar)
+- **Key finding**: the good-regulator theorem proves only that the *simplest optimal* regulator is a function of the reguland; Conant & Ashby concede "unnecessarily complex" optimal regulators exist. Pezzulo/Friston/Seth cite the folk form. None of the five architecture distinctions is interface-discriminating; HOT is not a hierarchical-control thesis.
+
+## 2026-09-17 05:58 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `positions/perception-and-the-interface` ([P-PI1](/positions/perception-and-the-interface/#p-pi1)) — driver-nominated as the register file with zero filename-subject reviews; measured before selection: 0 filename matches, 4 path-mentions all dated today, two of them (`outer-review-2026-09-17-claude-opus-5`, its synthesis) already citing the file as a defence
+- **Output**: [pessimistic-2026-09-17-perception-and-the-interface](/reviews/pessimistic-2026-09-17-perception-and-the-interface/)
+- **Verified clean**: 29/29 wikilinks + 3/3 block anchors resolve; every attribution tested against the apex and [P-F1](/positions/finding-level-calibration/#p-f1) grep-verifies; both §About historical claims exact at parent commit (no positions mention pre-09-14; [P-F1](/positions/finding-level-calibration/#p-f1) at 1348w = 152 under soft)
+- **Findings**: 7 issues — High: architecture tier states a report-contrast as "the transition into awareness" so its own Would-shift defeater coincides with GNW's reading (L49/L52). Medium: positive half over-generalised to "across senses" (Sanchez = vision/hearing/touch only); brain-side retirement condition framed as hypothetical while metamodal literature and the apex's own other-modality-cortex datum bear on it; GNW is the right rival for the signature but the wrong one for the ownership wager (`concepts/attention-schema-theory` unnamed); zero inbound links from the wing despite L35's "registered discount to cite". Low: unlicensed `low-to-moderate` credence band (register's only occurrence); forensic bookkeeping in §About L37 (same as yesterday's sibling Issue 7); `description` 296 chars
+- **Length**: `analyze_length` 1251w / positions soft 1500 / hard 2500 — fixes net ~+40w before the mandated `Updated` note
+- **Tasks**: 1 minted — P2 `positions-evolve` on the reviewed file (four fixes, coordinates with the open P3 tune-system audit on the same file; that task's status untouched). Out-of-scope note recorded, not minted: apex L151 still says "converges on the insula"
+- **Content modified**: none
+
+## 2026-09-17 06:05 UTC - refine-draft
+- **Status**: Success
+- **File**: [near-perfect-adaptation-and-control-theoretic-competency-without-experience](/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience/)
+- **Original score**: n/a (task-directed scope-condition pass from the 2026-09-17 outer-review triple; ChatGPT §1.1–1.6, Gemini addendum, Claude leg on the Barrett reference)
+- **Review files**: [outer-review-2026-09-17-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-09-17-chatgpt-5-6-sol-pro/); [outer-review-synthesis-2026-09-17](/reviews/outer-review-synthesis-2026-09-17/)
+- **Changes** (every target phrase re-grepped first; none had been discharged by the 05:15 calibration pass, all seven were live):
+  1. RPA definition: "return its output exactly … regardless of the disturbance's size" → asymptotic return of a specified output for a defined class of persistent perturbations and parameter variations, conditional on closed-loop stability and dynamic range. Precision-vs-kinetics nuance kept.
+  2. Yi et al. (2000): "proving that bacterial chemotaxis achieves" → integral control "structurally inherent in the Barkai–Leibler model … under assumptions they identify — a model-structural result, not an organism-level theorem" (matches the OpenAlex abstract wording).
+  3. Aoki et al. (2019): "built into an arbitrary molecular network on demand" → keeps "arbitrary" only inside their verbatim scope ("arbitrary intracellular networks with noisy dynamics", guaranteed for population average and single-cell time average), with the experiment scoped to one construct (growth-rate control in *E. coli*). Lead's "installable on demand" → "installable".
+  4. Lead: op-amp integrator re-described as the operation-level floor, PID loop as the end-to-end exemplar ("fully realised end to end" removed). Thermostat→op-amp exemplar migration (deep-review 2026-09-10) preserved; ladder bullets and "integrator floor" paragraph already said "performs the very operation" and were left alone.
+  5. Finite-range boundary added after the precision sentence: Neumann, Vladimirov, Krembel, Wingreen & Sourjik (2014) methylation-site saturation at high attractant; plus Gemini's two Crossref-exact additions, Briat, Gupta & Khammash (2016) and Olsman et al. (2019), framed as population-mean RPA surviving noise with variance/transient trade-offs — Gemini's "breaks down in biological implementation" framing NOT imported. Baetica, Leong & Murray (2020) verified at Crossref but not cited (budget).
+  6. "Allostasis theorists (Sterling; Barrett)" → "(Sterling; Barrett & Simmons)" with Barrett & Simmons (2015) *Nat Rev Neurosci* 16(7), 419–429 added to References.
+  7. Rival-section opening line softened: "constitutively tied to feeling" → "constitutively tied to feeling or is the route by which feeling arises"; body untouched.
+  - References 13–16 appended in citation order (the list is citation-ordered, not alphabetical, so appending is the non-renumbering insertion). All four printed from Crossref before writing: 10.1371/journal.pone.0084904, 10.1016/j.cels.2016.01.004, 10.1016/j.cels.2019.06.001, 10.1038/nrn3950 — titles, authors, volume/issue/pages exact.
+- **Length**: analyze_length 3069 → 3271 body words (concepts soft 2500 / hard 3500). Prose +98 (2821 → 2919), reference lines +108. Calibration-pass sentences untouched except the lead clause carrying items (3)/(4).
+- **Engagement classification**: no new named-opponent reply added; the Man & Damasio header softening is a fidelity fix (Mode Three residue unchanged).
+- **Sync**: both trees; three new phrases grep-confirmed in obsidian/ and hugo/content/.
+- **Published**: yes
+
 ## 2026-09-17 05:15 UTC - refine-draft
 - **Status**: Success
 - **File**: [near-perfect-adaptation-and-control-theoretic-competency-without-experience](/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience/)
