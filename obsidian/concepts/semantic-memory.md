@@ -4,7 +4,7 @@ description: "Factual knowledge has its own phenomenology: tip-of-the-tongue fru
 created: 2026-01-17
 modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-09-02T15:37:18+00:00
+ai_modified: 2026-09-17T16:39:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -174,7 +174,7 @@ Semantic memory and noetic consciousness bear on the five foundational commitmen
 
 **[[tenets#^dualism|Dualism]]**: The phenomenology of semantic retrieval resists computational reduction. TOT states, FOK, and the qualitative character of understanding involve "what it's like" properties that physical descriptions don't capture. If even factual knowledge has phenomenal dimensions, the hard problem extends beyond vivid sensory qualia into the seemingly "cold" domain of information retrieval. The [[illusionism|illusionist]] response—that noetic phenomenology is merely a useful misrepresentation—faces the regress problem detailed above.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Semantic retrieval, like other cognitive processes, may involve quantum selection at key neural sites. The moment of retrieval—when a TOT state resolves and the word "pops" into awareness—could involve consciousness selecting among quantum-superposed activation patterns. The [[decoherence]] challenge applies here, but the revised timescales and biological precedents (avian magnetoreception) suggest the objection isn't decisive. The feeling of effortful search might reflect sustained [[attention-as-interface|attention]] holding retrieval processes in superposition until the target activates.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Semantic retrieval, like other cognitive processes, may involve quantum selection at key neural sites. The sustained search of a TOT state—not the unbidden "pop" that ends it—is where consciousness could select among quantum-superposed activation patterns. The [[decoherence]] challenge applies here, but the revised timescales and biological precedents (avian magnetoreception) suggest the objection isn't decisive. The feeling of effortful search might reflect sustained [[attention-as-interface|attention]] holding retrieval processes in superposition until the target activates.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Effortful semantic search—deliberately trying to recall a word or solve a problem—involves the same phenomenology of [[mental-effort|mental effort]] that characterises conscious agency. The experience of *trying* to remember involves directed attention, sustained engagement, and often physical strain. If consciousness causally influences brain states, semantic retrieval is one domain where this influence operates. The functional correlation between phenomenology (FOK confidence) and retrieval success suggests the phenomenology is tracking real information about cognitive accessibility.
 

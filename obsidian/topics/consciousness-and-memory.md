@@ -4,7 +4,7 @@ description: "Memory is not storage but structured re-experiencing—and the hie
 created: 2026-02-08
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-09-08T12:07:40+00:00
+ai_modified: 2026-09-17T16:39:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -119,7 +119,7 @@ For the Map's [[episodic-memory|dual-domain framework]], this is significant. If
 
 Retrieval destabilises the memory trace under identifiable conditions, not universally: a retrieved memory "is not always destabilized" (Kida 2020). Nader, Schafe, and Le Doux (2000) demonstrated that memories destabilised by recall require protein synthesis to restabilise—a process called **reconsolidation**. While that window is open (typically several hours after retrieval), the memory is labile: new information can incorporate, emotional valence can shift, and details can be lost or added.
 
-Reconsolidation is where consciousness and consolidation intersect most directly. Sleep consolidation runs offline; when waking retrieval does reopen a trace, it does so through a conscious act—attention selects which memory to access, working memory holds the recalled content, and the present emotional and cognitive context shapes what the restabilised trace will become.
+Reconsolidation is where consciousness and consolidation intersect most directly. Sleep consolidation runs offline; when waking retrieval does reopen a trace, it does so through a conscious episode—sought or unbidden, the recollection is then steered by attention, working memory holds the recalled content, and the present emotional and cognitive context shapes what the restabilised trace will become.
 
 This creates a cycle: sleep consolidation transforms memories outside consciousness; retrievals that reopen a trace admit conscious influence; the next round of sleep consolidation processes the modified trace. Each such cycle moves the memory further from its original phenomenal character and further toward a version shaped by the subject's evolving self-understanding. Something determines which reconstruction becomes actual. The Map argues this may be where [[interactionist-dualism|non-physical consciousness]] contributes: not replacing neural reconsolidation mechanisms but perhaps providing the directional input that would make reconstruction purposive rather than merely stochastic. This argument is developed in full—with the empirical signature held separate from the posited interface reading—in [[reconsolidation-as-selection-window]].
 

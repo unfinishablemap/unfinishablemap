@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-09-01 20:04:45+00:00
+ai_modified: 2026-09-17 16:39:34+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -47,7 +47,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 20:42:32+00:00
-lastmod: 2026-09-01 20:04:45+00:00
+lastmod: 2026-09-17 16:39:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -106,7 +106,7 @@ Immediacy is not authentication. The quale presents an episode as one's own past
 
 ### Double Presence of Self
 
-In episodic memory, you are simultaneously the subject of the *current* conscious episode and the protagonist in the *remembered* scene. This double presence distinguishes remembering from perceiving and imagining, creating a bridge across time that mere information storage cannot explain.
+In episodic memory, you are simultaneously the subject of the *current* conscious episode and the protagonist in the *remembered* scene. This double presence distinguishes remembering from perceiving and imagining, creating a bridge across time that mere information storage cannot explain. The bridge needs no willed search: involuntary autobiographical memories arrive "with no preceding attempt at retrieval" (Berntsen, 2010).
 
 ### Phenomenological Gradations
 
@@ -204,6 +204,7 @@ Episodic memory bears on the five commitments unevenly: it argues for Bidirectio
 - [memory-anomalies](/topics/memory-anomalies/) — Where phenomenal output and its machinery come apart
 - [reconsolidation-as-selection-window](/topics/reconsolidation-as-selection-window/) — The boundary conditions on trace lability and the Map's reading of the window
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Tulving's full tripartite hierarchy
+- [Involuntary memory](/research/involuntary-and-voluntary-memory-boundary-2026-09-17/) — Research-stage survey of unbidden recall
 
 ## References
 

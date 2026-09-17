@@ -4,7 +4,7 @@ description: "Consciousness cannot control most of its own states, and cannot ve
 created: 2026-02-25
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-09-17T12:41:52+00:00
+ai_modified: 2026-09-17T16:39:34+00:00
 last_deep_review: 2026-07-19T11:31:23+00:00
 draft: false
 topics:
@@ -87,9 +87,9 @@ Between helplessness and sovereignty lies a structured spectrum. **Attention** i
 
 ## Recurrence as Passive-Face Mechanism
 
-The passive face has internal mechanism, visible where consciousness cannot prevent specific contents from returning. Three structurally distinct faces sharpen it.
+The passive face has internal mechanism, visible where consciousness cannot prevent specific contents from returning, in three distinct faces.
 
-**Intrusion** concerns content selection. Clark and Rhyno (2005) report unwanted-intrusive-thought prevalence of 74%–99% in non-clinical populations, replicated across thirteen countries (Radomsky et al., 2014). Berntsen (2010) finds involuntary autobiographical memories outnumber deliberately retrieved ones roughly 2:1. Beaman and Williams (2010) document earworms in 89% of people weekly—"automatic mental singing" without any sense of authorship.
+**Intrusion** concerns content selection. Clark and Rhyno (2005) report unwanted-intrusive-thought prevalence of 74%–99% in non-clinical populations, replicated across thirteen countries (Radomsky et al., 2014). Involuntary autobiographical memories roughly match deliberate recall in frequency (Berntsen, 2010), or triple it in a one-day count (Rasmussen & Berntsen, 2011). Beaman and Williams (2010) document earworms in 89% of people weekly—"automatic mental singing" without any sense of authorship.
 
 **Rebound** concerns control-attempt feedback. Wegner's (1994) ironic-process theory: mental control deploys an *operating process* searching for state-consistent contents and a *monitoring process* searching for state-inconsistent contents—and the monitor must hold the unwanted content in attention to detect it. Wang, Hagger, and Chatzisarantis (2020) temper the claim: post-suppression rebound is numerically reversed in 18%–46% of cases. The structural argument survives: any system detecting whether X is absent must represent X, and concurrent enhancement during suppression remains robust.
 
@@ -133,7 +133,7 @@ The agency void's verification opacity is the volition-and-action face of the br
 
 ## The Sovereignty Paradox
 
-If consciousness is non-physical and causally efficacious, why can it not govern its own states more directly? Two structural conjectures and a contingent rival:
+Why can a non-physical, causally efficacious consciousness not govern its own states? Two structural conjectures and a contingent rival:
 
 **Interface constraint (conjectural).** The causal interface may run only outward—consciousness acting on quantum states in neural tissue without those acting back as a controllable substrate for the conscious states themselves. No mechanism for this asymmetry has been specified; the Map flags it for whatever [[causal-interface|causal interface]] account emerges.
 
@@ -169,17 +169,17 @@ The void is also [[tenet-generated-voids|tenet-generated]]: the Map's commitment
 - [[phenomenology-vs-function-axis]] — I-Spy extends from sensory phenomenology into willed action
 - [[self-opacity|Volitional Opacity]] — Why we cannot observe the mechanisms of willing
 - [[causal-interface|The Causal Interface Void]] — How consciousness connects to physics
-- [[what-consciousness-tells-us-about-physics#the-triple-screen|The Triple Screen]] — This void's verification circularity as the first-person leg of the framework's three-channel evidential insulation
-- [[erasure-void]] — Clinical sister case: self-monitoring eroding alongside what it would monitor
+- [[what-consciousness-tells-us-about-physics#the-triple-screen|The Triple Screen]] — This void as the first-person leg of the three-channel evidential insulation
+- [[erasure-void]] — Clinical sister case (anosognosia)
 - [[suspension-void]] — Structural sister case: same self-investigator circularity
 - [[decision-void]] — Within-agency void at the deliberation→commitment crossing
-- [[single-cell-proto-agency-and-the-evidence-problem|Single-Cell Proto-Agency and the Evidence Problem]] — this void's verification limit seen from outside and at the prokaryotic floor: no third-person observable separates a proto-agent from a complete mechanism, a case of the in-principle undecidability this void anticipates
-- [[transit-void]] — Operational complement: thought *generation* vs recurrence's *re-presentation*
+- [[single-cell-proto-agency-and-the-evidence-problem|Single-Cell Proto-Agency and the Evidence Problem]] — this void's verification limit seen from outside, at the prokaryotic floor: no third-person observable separates a proto-agent from a complete mechanism
+- [[transit-void]] — Operational complement: generation rather than recurrence
 - [[mine-ness]] — Mineness of the unbidden content
 - [[necessary-opacity]] — Representational sibling: whether the reporting medium *tracks reality* at all
 - [[noetic-feelings-void]] — The felt texture of intrusion as itself a noetic feeling
 - [[inference-void]] — Every act of self-checking is itself an inference with opaque grounding
-- [[research/voids-effort-void-2026-05-08|The Effort Void (research-stage)]] — Survey of mental effort's opacity, incorporated in "Effort as the action-side gate"
+- [[research/voids-effort-void-2026-05-08|The Effort Void (research-stage)]] — Survey of mental effort's opacity
 - [[research/voids-participation-void-2026-02-17|The Participation Void (research-stage)]] — Survey of enacted versus represented experience; its motor-intentionality face is folded into "The vanishing target"
 - [[tenet-generated-voids|Tenet-Generated Voids]] — How each tenet generates its characteristic void
 - [[topics/free-will|Free Will]] — The broader context for questions of agency
@@ -208,13 +208,14 @@ The void is also [[tenet-generated-voids|tenet-generated]]: the Map's commitment
 19. Nolen-Hoeksema, S., Wisco, B.E., & Lyubomirsky, S. (2008). "Rethinking Rumination." *Perspectives on Psychological Science*, 3(5), 400–424.
 20. Owen, M. (2020). "The Causal Efficacy of Consciousness." *Entropy*, 22(8), 823.
 21. Radomsky, A.S., et al. (2014). "Part 1—You Can Run but You Can't Hide: Intrusive Thoughts on Six Continents." *Journal of Obsessive-Compulsive and Related Disorders*, 3(3), 269–279.
-22. Schopenhauer, A. (1818/1966). *The World as Will and Representation*. Dover Publications.
-23. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). "An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement." *PNAS*, 109(42), E2904–E2913.
-24. Seghezzi, S., Parés-Pujolràs, E., & Haggard, P. (2025). "Intentional binding decreases during learning: implications for sense of agency." *Quarterly Journal of Experimental Psychology*. https://doi.org/10.1177/17470218251349521
-25. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
-26. Wang, D.A., Hagger, M.S., & Chatzisarantis, N.L.D. (2020). "Ironic Effects of Thought Suppression: A Meta-Analysis." *Perspectives on Psychological Science*, 15(3), 778–793.
-27. Wegner, D.M. (1994). "Ironic Processes of Mental Control." *Psychological Review*, 101(1), 34–52.
-28. Wegner, D.M. (2002). *The Illusion of Conscious Will*. MIT Press.
-29. Wegner, D.M., & Wheatley, T. (1999). "Apparent Mental Causation: Sources of the Experience of Will." *American Psychologist*, 54(7), 480–492.
-30. Wen, W., & Imamizu, H. (2022). "The sense of agency in perception, behaviour and human–machine interactions." *Nature Reviews Psychology*, 1, 211–222.
-31. Westbrook, A., & Braver, T.S. (2016). "Dopamine Does Double Duty in Motivating Cognitive Effort." *Neuron*, 89(4), 695–710.
+22. Rasmussen, A.S., & Berntsen, D. (2011). "The Unpredictable Past: Spontaneous Autobiographical Memories Outnumber Autobiographical Memories Retrieved Strategically." *Consciousness and Cognition*, 20(4), 1842–1846.
+23. Schopenhauer, A. (1818/1966). *The World as Will and Representation*. Dover Publications.
+24. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). "An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement." *PNAS*, 109(42), E2904–E2913.
+25. Seghezzi, S., Parés-Pujolràs, E., & Haggard, P. (2025). "Intentional binding decreases during learning: implications for sense of agency." *Quarterly Journal of Experimental Psychology*. https://doi.org/10.1177/17470218251349521
+26. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
+27. Wang, D.A., Hagger, M.S., & Chatzisarantis, N.L.D. (2020). "Ironic Effects of Thought Suppression: A Meta-Analysis." *Perspectives on Psychological Science*, 15(3), 778–793.
+28. Wegner, D.M. (1994). "Ironic Processes of Mental Control." *Psychological Review*, 101(1), 34–52.
+29. Wegner, D.M. (2002). *The Illusion of Conscious Will*. MIT Press.
+30. Wegner, D.M., & Wheatley, T. (1999). "Apparent Mental Causation: Sources of the Experience of Will." *American Psychologist*, 54(7), 480–492.
+31. Wen, W., & Imamizu, H. (2022). "The sense of agency in perception, behaviour and human–machine interactions." *Nature Reviews Psychology*, 1, 211–222.
+32. Westbrook, A., & Braver, T.S. (2016). "Dopamine Does Double Duty in Motivating Cognitive Effort." *Neuron*, 89(4), 695–710.

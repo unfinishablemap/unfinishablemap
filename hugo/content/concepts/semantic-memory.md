@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-09-02 15:37:18+00:00
+ai_modified: 2026-09-17 16:39:34+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5
 author: null
 concepts:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 02:22:56+00:00
-lastmod: 2026-09-02 15:37:18+00:00
+lastmod: 2026-09-17 16:39:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -177,7 +177,7 @@ Semantic memory and noetic consciousness bear on the five foundational commitmen
 
 **[Dualism](/tenets/#dualism)**: The phenomenology of semantic retrieval resists computational reduction. TOT states, FOK, and the qualitative character of understanding involve "what it's like" properties that physical descriptions don't capture. If even factual knowledge has phenomenal dimensions, the hard problem extends beyond vivid sensory qualia into the seemingly "cold" domain of information retrieval. The [illusionist](/concepts/illusionism/) response—that noetic phenomenology is merely a useful misrepresentation—faces the regress problem detailed above.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Semantic retrieval, like other cognitive processes, may involve quantum selection at key neural sites. The moment of retrieval—when a TOT state resolves and the word "pops" into awareness—could involve consciousness selecting among quantum-superposed activation patterns. The [decoherence](/concepts/decoherence/) challenge applies here, but the revised timescales and biological precedents (avian magnetoreception) suggest the objection isn't decisive. The feeling of effortful search might reflect sustained [attention](/concepts/attention-as-interface/) holding retrieval processes in superposition until the target activates.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Semantic retrieval, like other cognitive processes, may involve quantum selection at key neural sites. The sustained search of a TOT state—not the unbidden "pop" that ends it—is where consciousness could select among quantum-superposed activation patterns. The [decoherence](/concepts/decoherence/) challenge applies here, but the revised timescales and biological precedents (avian magnetoreception) suggest the objection isn't decisive. The feeling of effortful search might reflect sustained [attention](/concepts/attention-as-interface/) holding retrieval processes in superposition until the target activates.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Effortful semantic search—deliberately trying to recall a word or solve a problem—involves the same phenomenology of [mental effort](/concepts/mental-effort/) that characterises conscious agency. The experience of *trying* to remember involves directed attention, sustained engagement, and often physical strain. If consciousness causally influences brain states, semantic retrieval is one domain where this influence operates. The functional correlation between phenomenology (FOK confidence) and retrieval success suggests the phenomenology is tracking real information about cognitive accessibility.
 

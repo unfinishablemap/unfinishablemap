@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-17T16:39:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [agency-void](/voids/agency-void/), [consciousness-and-memory](/topics/consciousness-and-memory/), [episodic-memory](/concepts/episodic-memory/), [semantic-memory](/concepts/semantic-memory/)
+- **Original score**: n/a (targeted citation/claim fixes from research note [involuntary-and-voluntary-memory-boundary-2026-09-17](/research/involuntary-and-voluntary-memory-boundary-2026-09-17/))
+- **Changes**:
+  - agency-void §Intrusion: replaced the unsourced "Berntsen (2010) ... outnumber ... roughly 2:1" with parity (Berntsen 2010, verified "about as frequent" in author's manuscript) to 3:1 in a one-day count (Rasmussen & Berntsen 2011, Crossref metadata + OpenAlex abstract "three times as frequently" verified); added Rasmussen & Berntsen 2011 to References (renumbered 22-32). Length offset by tightening Further Reading glosses (transit-void, triple-screen, erasure-void, effort-void research note, single-cell gloss tail) and two intro sentences; participation/Dreyfus material untouched. 3258 -> 3257 words.
+  - consciousness-and-memory §Reconsolidation: "through a conscious act—attention selects which memory to access" -> "through a conscious episode—sought or unbidden, the recollection is then steered by attention". Mole (2017) not cited: it is *Review of Philosophy and Psychology* 8(3): 557-571 (Crossref), not *Philosophical Psychology* as the task note said, and a reference entry would breach the 4000 hard threshold. 3991 -> 3995.
+  - episodic-memory §Double Presence: installed body citation for the orphaned Berntsen (2010) reference (quote "with no preceding attempt at retrieval" verified in manuscript abstract); Further Reading link to the research note. 3471 -> 3498.
+  - semantic-memory §Relation to Site Perspective: moved the posited selection from the unbidden TOT "pop" to the sustained search. 3392 -> 3392.
+- **Published**: yes
+
 ## 2026-09-17T16:25:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The involuntary and voluntary memory boundary

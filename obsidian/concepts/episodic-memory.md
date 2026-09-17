@@ -4,7 +4,7 @@ description: "Episodic memory is constructive re-experiencing, not data retrieva
 created: 2026-01-17
 modified: 2026-03-28
 human_modified: null
-ai_modified: 2026-09-01T20:04:45+00:00
+ai_modified: 2026-09-17T16:39:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -101,7 +101,7 @@ Immediacy is not authentication. The quale presents an episode as one's own past
 
 ### Double Presence of Self
 
-In episodic memory, you are simultaneously the subject of the *current* conscious episode and the protagonist in the *remembered* scene. This double presence distinguishes remembering from perceiving and imagining, creating a bridge across time that mere information storage cannot explain.
+In episodic memory, you are simultaneously the subject of the *current* conscious episode and the protagonist in the *remembered* scene. This double presence distinguishes remembering from perceiving and imagining, creating a bridge across time that mere information storage cannot explain. The bridge needs no willed search: involuntary autobiographical memories arrive "with no preceding attempt at retrieval" (Berntsen, 2010).
 
 ### Phenomenological Gradations
 
@@ -199,6 +199,7 @@ Episodic memory bears on the five commitments unevenly: it argues for Bidirectio
 - [[memory-anomalies]] — Where phenomenal output and its machinery come apart
 - [[reconsolidation-as-selection-window]] — The boundary conditions on trace lability and the Map's reading of the window
 - [[anoetic-noetic-autonoetic-consciousness]] — Tulving's full tripartite hierarchy
+- [[research/involuntary-and-voluntary-memory-boundary-2026-09-17|Involuntary memory]] — Research-stage survey of unbidden recall
 
 ## References
 

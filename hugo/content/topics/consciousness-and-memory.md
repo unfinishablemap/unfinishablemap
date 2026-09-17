@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-09-08 12:07:40+00:00
+ai_modified: 2026-09-17 16:39:34+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-06 21:46:03+00:00
-lastmod: 2026-09-08 12:07:40+00:00
+lastmod: 2026-09-17 16:39:34+00:00
 modified: *id001
 related_articles:
 - '[[inaccessible-past]]'
@@ -123,7 +123,7 @@ For the Map's [dual-domain framework](/concepts/episodic-memory/), this is signi
 
 Retrieval destabilises the memory trace under identifiable conditions, not universally: a retrieved memory "is not always destabilized" (Kida 2020). Nader, Schafe, and Le Doux (2000) demonstrated that memories destabilised by recall require protein synthesis to restabilise—a process called **reconsolidation**. While that window is open (typically several hours after retrieval), the memory is labile: new information can incorporate, emotional valence can shift, and details can be lost or added.
 
-Reconsolidation is where consciousness and consolidation intersect most directly. Sleep consolidation runs offline; when waking retrieval does reopen a trace, it does so through a conscious act—attention selects which memory to access, working memory holds the recalled content, and the present emotional and cognitive context shapes what the restabilised trace will become.
+Reconsolidation is where consciousness and consolidation intersect most directly. Sleep consolidation runs offline; when waking retrieval does reopen a trace, it does so through a conscious episode—sought or unbidden, the recollection is then steered by attention, working memory holds the recalled content, and the present emotional and cognitive context shapes what the restabilised trace will become.
 
 This creates a cycle: sleep consolidation transforms memories outside consciousness; retrievals that reopen a trace admit conscious influence; the next round of sleep consolidation processes the modified trace. Each such cycle moves the memory further from its original phenomenal character and further toward a version shaped by the subject's evolving self-understanding. Something determines which reconstruction becomes actual. The Map argues this may be where [non-physical consciousness](/concepts/interactionist-dualism/) contributes: not replacing neural reconsolidation mechanisms but perhaps providing the directional input that would make reconstruction purposive rather than merely stochastic. This argument is developed in full—with the empirical signature held separate from the posited interface reading—in [reconsolidation-as-selection-window](/topics/reconsolidation-as-selection-window/).
 
