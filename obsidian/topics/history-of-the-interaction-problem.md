@@ -4,7 +4,7 @@ description: "From Princess Elisabeth's 1643 challenge through occasionalism, ex
 created: 2026-02-02
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-09-02T23:20:00+00:00
+ai_modified: 2026-09-17T17:22:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -92,7 +92,7 @@ Leibniz also transformed the interaction problem from a conceptual puzzle into w
 
 ### What the Debate Reveals
 
-No seventeenth-century thinker found a way to preserve all three commitments: genuine dualism, genuine creaturely causation, and causal intelligibility. The occasionalists and Leibniz kept both substances but sacrificed creaturely causation. More kept causation but sacrificed the unextendedness of spirit. The monists kept causal intelligibility but sacrificed the distinctness of mind from matter. That combination had to wait for developments in physics none of them could have anticipated.
+No seventeenth-century thinker found a way to preserve all three commitments: genuine dualism, genuine creaturely causation, and causal intelligibility. The occasionalists and Leibniz kept both substances but sacrificed creaturely causation. More kept causation but sacrificed the unextendedness of spirit. The monists kept causal intelligibility but sacrificed the distinctness of mind from matter. Régis, like Descartes with his primitive notions, kept dualism and genuine causation but sacrificed intelligibility, declaring the interaction real yet incomprehensible. Any attempt to hold all three had to wait for developments in physics none of them could have anticipated—and the Map's own attempt, as its closing acknowledgment concedes, narrows that horn's gap without leaving it.
 
 ## The Materialist Eclipse
 
@@ -115,9 +115,11 @@ Quantum mechanics disrupted the assumptions underlying Leibniz's objection. The 
 
 **Von Neumann** (1932) gave the observer a special role, with his formalism distinguishing continuous evolution from discontinuous collapse upon measurement—but leaving "measurement" undefined. **Wigner** (1961) suggested consciousness itself might cause collapse. **Stapp** developed this into a detailed theory: mental attention acts like rapid quantum observation, holding desired neural patterns through the [[stapp-quantum-mind|quantum Zeno effect]] without adding energy. **Penrose and Hameroff** proposed an alternative: consciousness in quantum computations within neural microtubules, with gravitational self-collapse producing moments of experience.
 
-These proposals share a crucial structural feature: consciousness *selects* among possibilities rather than *injecting* force—the same insight that Sāṃkhya's reflection model and Avicenna's holistic governance arrived at through different routes (see [[interaction-problem-across-traditions]]).
+These proposals differ in structure as well as ancestry. Wigner claimed only that consciousness causes collapse; in Orch OR the conscious moment *is* the gravitational self-collapse, with no mind choosing the outcome. The feature the Map inherits belongs to Stapp's proposal and, by a separate neurophysiological route, to Beck and Eccles': consciousness *selects* among possibilities rather than *injecting* force—the same insight that Sāṃkhya's reflection model and Avicenna's holistic governance arrived at through different routes (see [[interaction-problem-across-traditions]]).
 
 ### The Conservation Objection Reconsidered
+
+C. D. Broad (1925) had already found the objection's hidden premise: that if a change in A helps cause a change in B, energy must flow from A into B. That premise, he wrote, "is neither asserted nor entailed by the Conservation of Energy." A string redirects a swinging weight at every moment without altering its total energy; conservation "merely imposes a very general limiting condition on the changes that are possible."
 
 Recent work by Pitts and Cucu argues that conservation laws are *local* and *conditional*. Noether's theorem derives conservation from symmetries; external influences break those symmetries. If consciousness constitutes an external influence on physical systems, expecting conservation to hold simply assumes interactionism is false—so, they argue, the objection begs the question. Their own conditionality response then accepts energy non-conservation as a lawful feature of interactionist dualism; the Map's selection reading takes a different escape route, aiming to preserve conservation at the ensemble level. Both strategies are developed in [[conservation-laws-and-mental-causation]].
 

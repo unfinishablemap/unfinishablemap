@@ -5,6 +5,13 @@ ai_modified: '2026-09-17T04:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-17T17:22:49+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/history-of-the-interaction-problem]]
+- **Original score**: n/a (task-directed pass; `scripts/curate.py` does not exist)
+- **Changes**: (1) §The Quantum Opening: the "share a crucial structural feature: consciousness *selects*" sentence rescoped — Wigner (consciousness causes collapse) and Orch OR (the conscious moment *is* the self-collapse) now explicitly excluded; selection attributed to Stapp and, by a separate route, Beck–Eccles, so no single von Neumann→Wigner→Stapp ancestry is asserted (Sherrington article untouched). (2) Orphan reference Broad (1925) now cited in §The Conservation Objection Reconsidered: the hidden premise (causation requires energy flow A→B), string-and-pendulum analogy, and two verbatim quotes ("is neither asserted nor entailed by the Conservation of Energy"; "merely imposes a very general limiting condition on the changes that are possible") — both grep-verified (whitespace/hyphenation-normalised) in the archive.org djvu text `minditsplaceinna00broa`, pp. 107–108. (3) §What the Debate Reveals (heading unchanged — Leibniz's mill links to it): added the brute-interactionist horn (Régis; Descartes' primitive notions) that keeps dualism + causation and sacrifices intelligibility; closing sentence softened from "That combination had to wait…" to note the Map's attempt narrows that horn's gap without leaving it, matching the article's closing candid acknowledgment. Length 2826 → 2983 (soft 3000). ai_system held. Review: reviews/optimistic-2026-09-17-interaction-problem-lineage-wing.md (Calibration Concerns 3–4; Medium "Régis as a named trilemma horn").
+- **Published**: yes
+
 ## 2026-09-17T17:08:26+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/leibnizs-mill-argument]]
