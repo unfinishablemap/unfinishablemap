@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-16T20:23:03+00:00'
+ai_modified: '2026-09-17T01:15:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-17T01:15:00+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Dormancy Void — where a mind's standing (non-occurrent) beliefs, memories and skills are while no one is thinking them
+- **Category**: Mixed (structurally Unexplorable; Unexplored edge — Bartlett 2018: the occurrent/non-occurrent distinction has "never been explicated in any significant detail")
+- **Output**: [[research/voids-dormancy-void-2026-09-17]]
+- **Headroom**: voids 103/115 via `count_section_files` (12 slots)
+- **Bank check**: 29 unconsumed voids research notes listed (stem-matched against live + archive + body citations); none covers standing/dispositional states ("unconscious belief" 0 corpus hits; Connection Principle appears only in topics/intentionality and language-and-consciousness). Declined two runners-up as already covered: randomness-certification limit on detecting the minimal interaction (= Detection Void in tenet-generated-voids) and covert awareness in disorders of consciousness (24 topic files; would re-frame voids-between-minds).
+- **Sources**: 18 cited; 17 verified at Crossref/Europe PMC (11 with raw abstracts), Bergson verified against the raw 1911 archive.org scan, SEP quotes against the raw page. Two PhilArchive items bot-blocked and omitted. No summariser-only quotes installed.
+- **Key finding**: activity-silent working memory (Wolff 2017; Trübutschek 2019; Panichello 2024) and silent engrams (Ryan 2015) give the physicalist a concrete answer to "where is the dormant mind?"; the dualist faces a three-way fork (in the brain / in a non-physical store per Bergson / nowhere but the interface's capacity) that the tenets do not currently adjudicate, with dreamless sleep and anaesthesia as the discriminating test cases.
+
 ## 2026-09-17T00:04:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Cotard delusion as the self-model channel's existence-report failure
