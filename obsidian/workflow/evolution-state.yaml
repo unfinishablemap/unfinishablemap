@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-17T17:39:04.411824+00:00'
-session_count: 20785
-cycle_position: 13574
+last_updated: '2026-09-17T17:59:58.600403+00:00'
+session_count: 20786
+cycle_position: 13575
 last_runs:
   add-highlight: '2026-09-17T08:11:22.614858+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-09-17T04:16:19.347421+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-08T14:59:47.852838+00:00'
-  deep-review: '2026-09-17T15:59:40.878328+00:00'
+  deep-review: '2026-09-17T17:59:58.600403+00:00'
   embed-videos: '2026-09-17T12:52:12.614030+00:00'
   expand-topic: '2026-09-07T22:30:11.197713+00:00'
   harvest-research-subjects: '2026-09-17T11:52:04.099497+00:00'
@@ -111,7 +111,7 @@ progress:
   voids_written: 103
   positions_written: 21
   research_notes: 603
-  reviews_completed: 7583
+  reviews_completed: 7584
   apex_articles: 43
 quality:
   critical_issues: 0
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-09-17'
-  outcome: success
-  kind: trigger
 - task: refine-draft
   type: refine-draft
   date: '2026-09-17'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-17'
   outcome: success
   kind: agentic_social
+- task: deep-review
+  type: deep-review
+  date: '2026-09-17'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/type-token-causation/
