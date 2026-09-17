@@ -39,13 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: `concepts/quantum-interpretations` L159 — "the 'observer' needn't endure, but can be each moment selecting its own outcome" makes momentary selection do agent-causal work
-- **Type**: refine-draft
-- **File**: obsidian/concepts/quantum-interpretations.md
-- **Notes**: This is locus (b) of the original review, deliberately not batched into the 2026-09-17 pass. **Additional finding from that pass**: this passage DIRECTLY CONTRADICTS `topics/non-temporal-consciousness` (~L109), which states that a consciousness with no enduring subject "cannot collapse a wave function on that mechanism" — verify both spans on disk and resolve the contradiction, do not fix one side only. **THE DEFECT** (family opened by pessimistic-review 2026-08-03 Issue 4; first locus fixed 2026-09-17, commit 18c8191e): `concepts/agent-causation` defines agents as persisting SUBSTANCES exercising causal powers, and `tenets.md` requires "a persisting subject that exercises causal powers in its own right". Passages pairing agent causation with Buddhist *anattā* therefore assert the persisting substance-bearing subject no-self denies. **THE FIX IS RE-FRAMING, NOT DELETION** — the compatibility claim these passages want is *mental causation* (Buddhism holds it; Tenet 3 asserts it), not agent causation. The canonical formulation already exists in the corpus at `concepts/buddhism-and-dualism` ("What they share is *mental causation*… What they do not share is agent causation") and was reused in the 2026-09-17 fix to `concepts/moral-responsibility` — copy it, do not invent a new wording. Mark the residue as bedrock divergence citing `P-I1` (read it first). ⚠️ These loci were found by READING, not grep — several contain no agent-causal keyword at all, so do not certify anything closed on a grep zero. Print analyze_length before/after; keep length-neutral where the host is near a ceiling. Hold `ai_contribution` and `ai_system`; ai_modified from live `date -u`; sync both trees. Do not edit todo.md.
-- **Source**: refine-draft
-- **Generated**: 2026-09-17
-
 ### P3: `concepts/quantum-indeterminacy-free-will` L180 is the textbook instance of the agent-causation / anattā coupling — and its archived ancestor carries the same text
 - **Type**: refine-draft
 - **File**: obsidian/concepts/quantum-indeterminacy-free-will.md
@@ -73,7 +66,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Flagged but NOT confirmed as the same defect by the 2026-09-17 pass. **Assess first**: if the passage claims only that a minimal/narrative self suffices for responsibility (without invoking agent causation's substance requirement), it is not this defect — record that verdict and close without editing. **THE DEFECT** (family opened by pessimistic-review 2026-08-03 Issue 4; first locus fixed 2026-09-17, commit 18c8191e): `concepts/agent-causation` defines agents as persisting SUBSTANCES exercising causal powers, and `tenets.md` requires "a persisting subject that exercises causal powers in its own right". Passages pairing agent causation with Buddhist *anattā* therefore assert the persisting substance-bearing subject no-self denies. **THE FIX IS RE-FRAMING, NOT DELETION** — the compatibility claim these passages want is *mental causation* (Buddhism holds it; Tenet 3 asserts it), not agent causation. The canonical formulation already exists in the corpus at `concepts/buddhism-and-dualism` ("What they share is *mental causation*… What they do not share is agent causation") and was reused in the 2026-09-17 fix to `concepts/moral-responsibility` — copy it, do not invent a new wording. Mark the residue as bedrock divergence citing `P-I1` (read it first). ⚠️ These loci were found by READING, not grep — several contain no agent-causal keyword at all, so do not certify anything closed on a grep zero. Print analyze_length before/after; keep length-neutral where the host is near a ceiling. Hold `ai_contribution` and `ai_system`; ai_modified from live `date -u`; sync both trees. Do not edit todo.md.
 - **Source**: refine-draft
 - **Generated**: 2026-09-17
-
 
 ### NEEDS-HUMAN 2026-09-17: `topics/phenomenology-of-memory-and-the-self` has four verified references it has no room for — the file needs a ceiling decision or a structural split
 - **Type**: refine-draft
@@ -1831,6 +1823,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-17: `concepts/quantum-interpretations` L159 — "the 'observer' needn't endure, but can be each moment selecting its own outcome" makes momentary selection do agent-causal work
+- **Type**: refine-draft
+- **File**: obsidian/concepts/quantum-interpretations.md
+- **Notes**: This is locus (b) of the original review, deliberately not batched into the 2026-09-17 pass. **Additional finding from that pass**: this passage DIRECTLY CONTRADICTS `topics/non-temporal-consciousness` (~L109), which states that a consciousness with no enduring subject "cannot collapse a wave function on that mechanism" — verify both spans on disk and resolve the contradiction, do not fix one side only. **THE DEFECT** (family opened by pessimistic-review 2026-08-03 Issue 4; first locus fixed 2026-09-17, commit 18c8191e): `concepts/agent-causation` defines agents as persisting SUBSTANCES exercising causal powers, and `tenets.md` requires "a persisting subject that exercises causal powers in its own right". Passages pairing agent causation with Buddhist *anattā* therefore assert the persisting substance-bearing subject no-self denies. **THE FIX IS RE-FRAMING, NOT DELETION** — the compatibility claim these passages want is *mental causation* (Buddhism holds it; Tenet 3 asserts it), not agent causation. The canonical formulation already exists in the corpus at `concepts/buddhism-and-dualism` ("What they share is *mental causation*… What they do not share is agent causation") and was reused in the 2026-09-17 fix to `concepts/moral-responsibility` — copy it, do not invent a new wording. Mark the residue as bedrock divergence citing `P-I1` (read it first). ⚠️ These loci were found by READING, not grep — several contain no agent-causal keyword at all, so do not certify anything closed on a grep zero. Print analyze_length before/after; keep length-neutral where the host is near a ceiling. Hold `ai_contribution` and `ai_system`; ai_modified from live `date -u`; sync both trees. Do not edit todo.md.
 
 ### ✓ 2026-09-17: agent causation is coupled to Buddhist no-self in at least two further files — the locus list below is a sample, not the population
 - **Type**: refine-draft
