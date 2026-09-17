@@ -4,7 +4,7 @@ description: "The Map's positions on the consciousness–quantum interface: mech
 created: 2026-06-04
 modified: 2026-06-04
 human_modified: 2026-06-04
-ai_modified: 2026-09-09T20:52:10+00:00
+ai_modified: 2026-09-17T09:55:00+00:00
 draft: false
 topics:
   - "[[forward-in-time-conscious-selection]]"
@@ -88,11 +88,11 @@ These positions cover what the Map currently holds about the mechanism by which 
 
 - **Status**: live ^p-q4
 - **Calibration**: credence moderate · external-evidence grade C · structural centrality low · model maturity programme · empirical discriminability indirect · framework-internal only: no
-- **Asserts**: The Stapp-Zeno family — in which conscious attention stabilises neural quantum states by frequent observation — is held by the Map as a serious candidate but is currently ranked below post-decoherence selection on timing grounds (the decoherence-timescale objection cuts hardest here). It remains in the live mechanism set, and a future result closing the decoherence gap in warm-wet neural tissue would re-elevate it.
-- **Depends on**: P-Q1; the Tegmark (2000) decoherence-timescale argument
+- **Asserts**: The Stapp-Zeno family — in which conscious attention stabilises neural quantum states by frequent observation — is held by the Map as a serious candidate but is currently ranked below post-decoherence selection behind two independent gates: the decoherence timescale (the objection cuts hardest here), and the regime criterion — whether repeated observation suppresses or accelerates evolution is set by the observation interval against the bath correlation time, not the decoherence time, so the proposal also owes a direction argument that Tenet 2's magnitude constraint does not supply (applied to neural tissue, a framework-internal, coherence-only result). It remains in the live mechanism set. Closing the decoherence gap in warm-wet neural tissue would clear only the first gate; re-elevation needs both.
+- **Depends on**: P-Q1; the Tegmark (2000) decoherence-timescale argument; the regime criterion ([[concepts/sign-problem-for-conscious-observation]])
 - **Argued in**: [[topics/comparing-quantum-consciousness-mechanisms]], [[apex/post-decoherence-selection-programme]]
-- **Would shift if**: a working coherence-time calculation for the relevant neural structures is published; or new evidence supports a Zeno-like signature in neural recordings that the post-decoherence reading does not predict.
-- **Last reviewed**: 2026-06-04
+- **Would shift if**: a working coherence-time calculation for the relevant neural structures is published *and* observation intervals are shown to clear the bath-correlation bar with an account of what sets the sign; or new evidence supports a Zeno-like signature in neural recordings that the post-decoherence reading does not predict.
+- **Last reviewed**: 2026-09-17
 
 ## P-Q5: Orch-OR is currently demoted relative to post-decoherence selection
 

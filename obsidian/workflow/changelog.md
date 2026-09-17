@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-17T04:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-17T09:55:00+00:00 - positions-evolve (update)
+- **Status**: Success
+- **File**: [[positions/quantum-interface]] — P-Q4 (scope update; no band changed, no position added)
+- **Change**: Asserts now records two independent gates on the Stapp-Zeno demotion — the decoherence timescale, and the regime criterion from [[concepts/sign-problem-for-conscious-observation]] (suppression vs acceleration set by the observation interval against the bath correlation time, not the decoherence time; a direction argument owed beyond Tenet 2's magnitude constraint). Re-elevation is conditioned on both; "Would shift if" first clause and "Depends on" amended to match. Source sentence re-read in context: the bath-correlation criterion is quoted from Virzì et al. (2022, PRL 129, 030401, co-authored by Kofman and Kurizki); its neural application is the article's own coherence-only reading, and the amendment says so. No Sorkin-Δ route introduced. P-Q1/2/3/5 untouched. Last reviewed 2026-06-04 → 2026-09-17.
+- **Length**: domain file 5852 → ~5930 words (already critical). The general two-parameter note (magnitude *and* direction) was NOT added under the domain preamble for that reason; it is recorded inside P-Q4 only.
+- **Cascade (not edited)**: [[apex/research-programme-decisions-under-the-map]] L84 quotes P-Q4's old shift condition as a coherence-time-only trigger, and L118 says slow decoherence "re-elevates the demoted mechanisms" — now overstated for Stapp-Zeno. [[topics/valence-and-conscious-selection]] L81 ("demotes Stapp-Zeno on decoherence-timescale grounds") is incomplete but not false. Hugo copy not synced.
+
 
 ## 2026-09-17T09:40:00+00:00 - deep-review
 - **Status**: Success
