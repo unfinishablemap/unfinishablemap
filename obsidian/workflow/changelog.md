@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-17T04:41:00+00:00'
+ai_modified: '2026-09-17T04:52:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-17T04:52:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research) — hostile-referee audit of `concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience` (subject reused from the 02:00 ChatGPT leg; third and final leg of the 2026-09-17 cycle)
+- **File**: [[reviews/outer-review-2026-09-17-gemini-2-5-pro]]
+- **Collection**: js-dom walk of the last `h1`-bearing inline panel, page-side Blob download, SHA-256 `446ca79a…bc484` identical page↔disk (29,364 bytes); report closed on its verdict sentence; first collect attempt, 22 min after commission; entry marked collected. No URLs in the report, so link normalisation was a no-op.
+- **Claims verified**: 13 — 6 article-wording attributions grep-confirmed and 8 quotation-marked spans identified as paraphrases (fair in sense, not quotable as article text); Albantakis 2023, Berntson & Khalsa 2021, Olsman et al. 2019 and Briat et al. 2016 Crossref-exact; Laukkonen 2025 confirmed by the Claude leg; two records mis-cited by the reviewer (Mojica & Di Paolo is 2025 with authors inverted; "Filo, Hou & Khammash 2023" is a bioRxiv preprint whose peer-reviewed form is *Cell Systems* 2026, outside the requested window)
+- **High-value findings**: 3, all convergent with sibling legs rather than new — RPA scope conditions and the AIF noise/trade-off literature (2/3 with ChatGPT); autopoietic precariousness and the unargued "same kind of thing" step in the reply (2/3 with ChatGPT leg e); Laukkonen 2025 / active inference at strength (2/3 with Claude leg g)
+- **Disputed**: Tenet 5 misattributed ("leaves no functional residual" — Tenet 5 is Occam's-limits and the paragraph disciplines both directions); "completely ignores AIF" (the article names it); "robustness breaks down in biological implementation" (inverts Briat, Gupta & Khammash 2016, whose title states RPA holds in noisy networks); IIT 4.0 "bypasses" the floor (IIT predicts the op-amp feels nothing, so it concedes the floor; op-amp integrator is negative-feedback, not "feedforward"); interoception charge contradicted by the article's own allostasis/homeostasis distinction
+- **Tasks generated**: 0 new. Convergence addenda written into the open P1 (legs e and g now 2/3 cross-service; one optional IIT clause; do-not-act note on the Tenet 5 misattribution) and the open P2 scope-condition task (Olsman 2019 + Briat 2016 as Crossref-exact additions; do-not-import note on the "breakdown" framing and the preprint cite). The chemotaxis P2 and the 2026-09-02 NEEDS-HUMAN were not touched — this leg raised neither.
+- **Cycle state**: all three 2026-09-17 entries in `pending-reviews.yaml` are now collected and processed; `/combine-outer-reviews` is eligible for cycle date 2026-09-17.
 
 ## 2026-09-17T04:41:00+00:00 - outer-review
 - **Status**: Success
