@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-17T09:26:21.200185+00:00'
-session_count: 20752
-cycle_position: 13551
+last_updated: '2026-09-17T09:38:32.126764+00:00'
+session_count: 20753
+cycle_position: 13552
 last_runs:
   add-highlight: '2026-09-17T08:11:22.614858+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -33,7 +33,7 @@ last_runs:
   literature-drift-review: '2026-09-15T05:04:43.362002+00:00'
   optimistic-review: '2026-09-17T08:29:02.321941+00:00'
   pessimistic-review: '2026-09-17T06:02:35.267192+00:00'
-  positions-evolve: '2026-09-17T07:55:33.379998+00:00'
+  positions-evolve: '2026-09-17T09:38:32.126764+00:00'
   refine-draft: '2026-09-17T08:55:58.038058+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-17T08:43:30.648566+00:00'
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-gemini-review
-  type: collect-gemini-review
-  date: '2026-09-17'
-  outcome: success
-  kind: collect
 - task: combine-outer-reviews
   type: combine-outer-reviews
   date: '2026-09-17'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-17'
   outcome: success
   kind: cycle
+- task: positions-evolve
+  type: positions-evolve
+  date: '2026-09-17'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/filter-vs-interface-distinction/

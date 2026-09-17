@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-17T09:54:00+00:00 - coalesce
+- **Status**: Abandoned (reasoned decline — no merge performed)
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
+- **Method**: section counts topics 328/360, concepts 326/360, voids 103/115 (all ~90%; topics most pressured). TF-IDF cosine over all 757 topics/concepts/voids bodies, top 60 pairs screened; then re-filtered for the 14-day age floor (`ai_modified` < 2026-09-03) and at least one side ≤1800 words so a merge could fit under hard (`analyze_length` body counts; hard: topics 4000, concepts 3500).
+- **Top-similarity pairs rejected (role granularity, stated in the text)**: [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) ↔ [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) (0.56; formalism is the constraint checklist, topic the framework survey; 4052+2528w); [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) ↔ [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) (0.53; 4495+3408w); [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/) ↔ [composition-and-consciousness](/concepts/composition-and-consciousness/) (concept L59 declares itself the primer); [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) ↔ [sorkin-delta-brain-internal-analogues](/topics/sorkin-delta-brain-internal-analogues/) (companion design-space piece); [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) ↔ [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/) (parent taxonomy vs cost battery); [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) ↔ [interface-heterogeneity](/concepts/interface-heterogeneity/) (nature-vs-coupling split, L49). All would exceed hard on arithmetic anyway.
+- **Fitting-length pairs rejected**: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) (2661) + [timing-gap-problem](/concepts/timing-gap-problem/) (1689) = 4350 > topics hard 4000; the concept is the named-problem primer (32 live inbound referrers), carries an embedded video (archival would orphan it) and the sign-problem paragraph installed 2026-08-16. [process-philosophy](/concepts/process-philosophy/) + [prehension](/concepts/prehension/) and [time-symmetric-physics](/concepts/time-symmetric-physics/) + [transactional-interpretation-of-quantum-mechanics](/concepts/transactional-interpretation-of-quantum-mechanics/): general tradition/family vs a specific sub-concept with its own dialectic; high inbound counts. Remaining fitting pairs (functional-seeming/illusionism, manyism/combination-problem, narrative-coherence/diachronic-agency) overshoot hard or are response-vs-problem splits.
+- **Driver cautions applied**: abandon accepted as steady state; contrast/companion framing checked by grepping each side for the other's slug; 14-day age floor applied; no merge, so no carry-over/sync work.
+
 ## 2026-09-17T09:55:00+00:00 - positions-evolve (update)
 - **Status**: Success
 - **File**: [quantum-interface](/positions/quantum-interface/) — [P-Q4](/positions/quantum-interface/#p-q4) (scope update; no band changed, no position added)

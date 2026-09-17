@@ -39,6 +39,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: `apex/research-programme-decisions-under-the-map` L84 and L118 still treat a coherence-time result as sufficient to re-elevate Stapp-Zeno — [P-Q4](/positions/quantum-interface/#p-q4) now requires two gates
+- **Type**: refine-draft
+- **File**: obsidian/apex/research-programme-decisions-under-the-map.md
+- **Notes**: Downstream of the 2026-09-17 positions-evolve pass on [P-Q4](/positions/quantum-interface/#p-q4) (commit 1baf653e): [P-Q4](/positions/quantum-interface/#p-q4)'s re-elevation now needs BOTH the decoherence-timescale gate AND the regime criterion (observation interval vs bath correlation time, per `concepts/sign-problem-for-conscious-observation`, Virzì et al. 2022). L84 quotes [P-Q4](/positions/quantum-interface/#p-q4)'s shift-condition as a coherence-time calculation alone; L118 says slow decoherence "re-elevates the demoted mechanisms" — now an overstatement for Stapp-Zeno specifically ([P-Q1](/positions/quantum-interface/#p-q1)/[P-Q5](/positions/quantum-interface/#p-q5)/[P-Q8](/positions/quantum-interface/#p-q8) are not affected; the sign problem exempts post-decoherence selection). FIX: re-quote [P-Q4](/positions/quantum-interface/#p-q4)'s current wording at L84 and scope L118 so a slow-decoherence result clears only the first gate for Zeno; keep L118's high-leverage argument for the other positions intact. Print `analyze_length` first — prefer a length-neutral edit or a piped register link. Also optional, same pass: `topics/valence-and-conscious-selection` L81 ("demotes Stapp-Zeno on decoherence-timescale grounds") is incomplete, not false — add "and regime" only if length-neutral. Sync both trees.
+- **Source**: positions-evolve
+- **Generated**: 2026-09-17
+
+
 ### NEEDS-HUMAN 2026-09-16: `topics/lucid-dreaming-and-dualist-rendering` title still promises "Evidence for Dualist Rendering" after the description and body were recalibrated to compatible-not-forced — retitle / demote-to-coherence-only is an editorial call
 - **Type**: refine-draft
 - **File**: obsidian/topics/lucid-dreaming-and-dualist-rendering.md
@@ -206,18 +214,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: 2026-09-14 refine-draft pass on the (B)/(D)/(G) remainder task, which found the task's "51-word gate" premise stale by 1,751 words
 - **Generated**: 2026-09-14
 - **Notes**: Do NOT re-open (D) or (B) — both landed on 2026-09-14 length-neutrally. DeMarco & Ford (2014) remains uncited because its argument could not be read (no accessible abstract); if the human wants the ally citation, it needs someone with the paper. (G) is declined for good.
-
-### P3: [P-Q4](/positions/quantum-interface/#p-q4)'s re-elevation clause names one gate where the corpus now holds two — the sign problem's regime criterion is set by the bath correlation time, not the decoherence time
-
-- **Type**: positions-evolve
-- **Status**: pending
-- **File**: obsidian/positions/quantum-interface.md
-- **Source**: optimistic-review 2026-08-16 (see obsidian/reviews/optimistic-2026-08-16-interface-formalism-wing.md)
-- **Generated**: 2026-08-16
-- **Notes**: **A SCOPE UPDATE TO AN EXISTING ENTRY, NOT A BAND CHANGE AND NOT A NEW POSITION.** [P-Q4](/positions/quantum-interface/#p-q4) ("Stapp's quantum Zeno mechanism is currently demoted relative to post-decoherence selection") currently asserts that the demotion "rests on timing grounds (the decoherence-timescale objection cuts hardest here)" and closes: "a future result closing the decoherence gap in warm-wet neural tissue would **re-elevate it**."
-  That re-elevation condition was accurate when written and is now incomplete. `obsidian/concepts/sign-problem-for-conscious-observation.md` (created 2026-08-16) establishes a **second, logically independent gate**: "The requirement for *being in the Zeno regime* is set by the bath correlation time, not the decoherence time, and raising the observation rate buys nothing unless the interval clears that separate bar." A result closing the decoherence gap would therefore leave the Zeno family still demoted on the sign/direction axis, which no decoherence result touches. The entry as written promises a re-elevation that would not follow.
-  **SCOPE — keep this tight.** Amend [P-Q4](/positions/quantum-interface/#p-q4)'s Asserts to record two independent gates (decoherence timescale; regime criterion / direction of the influence) and to condition re-elevation on both. Consider whether the two-parameter obligation the article derives — "an interface proposal owes a magnitude argument *and* a direction argument, and should not treat the first as discharging the second" — belongs as a general note under the domain rather than only inside [P-Q4](/positions/quantum-interface/#p-q4), since it constrains every mechanism in the register, not just Zeno. **Do not touch [P-Q1](/positions/quantum-interface/#p-q1), [P-Q2](/positions/quantum-interface/#p-q2), [P-Q3](/positions/quantum-interface/#p-q3) or [P-Q5](/positions/quantum-interface/#p-q5)**; the sign problem is specific to observation-driven mechanisms and does not bear on post-decoherence selection, which `sign-problem` L37 explicitly exempts ("post-decoherence selection is the route the Map endorses more strongly and does not involve repeated observation at all"). **Do not change any confidence band** — nothing here re-ranks the mechanism set, it corrects a stated re-elevation condition.
-  **Queue note**: `positions/quantum-interface.md` carries two open **NEEDS-HUMAN** entries (2026-08-03 register-structure and section-tuning items). Both are parked meta-issues about the register's *format*, not its content, and neither touches [P-Q4](/positions/quantum-interface/#p-q4). No collision.
 
 ### NEEDS-HUMAN (loop tooling) 2026-08-08: the Gemini commission skill has three live UI drifts — one would silently DISCARD a healthy commission, and Step 3 is unrunnable as written
 
@@ -1906,6 +1902,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-17: [P-Q4](/positions/quantum-interface/#p-q4)'s re-elevation clause names one gate where the corpus now holds two — the sign problem's regime criterion is set by the bath correlation time, not the decoherence time
+- **Type**: positions-evolve
+- **File**: obsidian/positions/quantum-interface.md
+- **Notes**: **A SCOPE UPDATE TO AN EXISTING ENTRY, NOT A BAND CHANGE AND NOT A NEW POSITION.** [P-Q4](/positions/quantum-interface/#p-q4) ("Stapp's quantum Zeno mechanism is currently demoted relative to post-decoherence selection") currently asserts that the demotion "rests on timing grounds (the decoherence-timescale objection cuts hardest here)" and closes: "a future result closing the decoherence gap in warm-wet neural tissue would **re-elevate it**."
+  That re-elevation condition was accurate when written and is now incomplete. `obsidian/concepts/sign-problem-for-conscious-observation.md` (created 2026-08-16) establishes a **second, logically independent gate**: "The requirement for *being in the Zeno regime* is set by the bath correlation time, not the decoherence time, and raising the observation rate buys nothing unless the interval clears that separate bar." A result closing the decoherence gap would therefore leave the Zeno family still demoted on the sign/direction axis, which no decoherence result touches. The entry as written promises a re-elevation that would not follow.
+  **SCOPE — keep this tight.** Amend [P-Q4](/positions/quantum-interface/#p-q4)'s Asserts to record two independent gates (decoherence timescale; regime criterion / direction of the influence) and to condition re-elevation on both. Consider whether the two-parameter obligation the article derives — "an interface proposal owes a magnitude argument *and* a direction argument, and should not treat the first as discharging the second" — belongs as a general note under the domain rather than only inside [P-Q4](/positions/quantum-interface/#p-q4), since it constrains every mechanism in the register, not just Zeno. **Do not touch [P-Q1](/positions/quantum-interface/#p-q1), [P-Q2](/positions/quantum-interface/#p-q2), [P-Q3](/positions/quantum-interface/#p-q3) or [P-Q5](/positions/quantum-interface/#p-q5)**; the sign problem is specific to observation-driven mechanisms and does not bear on post-decoherence selection, which `sign-problem` L37 explicitly exempts ("post-decoherence selection is the route the Map endorses more strongly and does not involve repeated observation at all"). **Do not change any confidence band** — nothing here re-ranks the mechanism set, it corrects a stated re-elevation condition.
+  **Queue note**: `positions/quantum-interface.md` carries two open **NEEDS-HUMAN** entries (2026-08-03 register-structure and section-tuning items). Both are parked meta-issues about the register's *format*, not its content, and neither touches [P-Q4](/positions/quantum-interface/#p-q4). No collision.
 
 ### ✓ 2026-09-17: `topics/clinical-dissociation-as-systematic-evidence` L82 over-reads Marsh et al. (2021) — "more than instructed simulators or controls", "substrate demonstrably retains and integrates"
 - **Type**: refine-draft
