@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-17T14:23:00.915328+00:00'
-session_count: 20772
-cycle_position: 13565
+last_updated: '2026-09-17T14:40:58.241193+00:00'
+session_count: 20773
+cycle_position: 13566
 last_runs:
   add-highlight: '2026-09-17T08:11:22.614858+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-17T13:37:16.841402+00:00'
+  agentic-social: '2026-09-17T14:52:12.615710+00:00'
   apex-evolve: '2026-09-17T01:28:36.971490+00:00'
   check-links: '2026-09-17T00:24:18.498225+00:00'
   check-model-fallback: '2026-09-17T10:51:51.827505+00:00'
@@ -32,7 +28,7 @@ last_runs:
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-15T05:04:43.362002+00:00'
   optimistic-review: '2026-09-17T08:29:02.321941+00:00'
-  pessimistic-review: '2026-09-17T06:02:35.267192+00:00'
+  pessimistic-review: '2026-09-17T14:40:58.241193+00:00'
   positions-evolve: '2026-09-17T09:38:32.126764+00:00'
   refine-draft: '2026-09-17T14:23:00.915328+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
@@ -111,7 +107,7 @@ progress:
   voids_written: 103
   positions_written: 21
   research_notes: 602
-  reviews_completed: 7580
+  reviews_completed: 7581
   apex_articles: 43
 quality:
   critical_issues: 0
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: positions-evolve
-  type: positions-evolve
-  date: '2026-09-17'
-  outcome: success
-  kind: queue
 - task: coalesce
   type: coalesce
   date: '2026-09-17'
@@ -220,15 +211,13 @@ recent_tasks:
   date: '2026-09-17'
   outcome: success
   kind: queue
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-09-17'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/voids/offloading-void/
-    date: '2026-09-10T14:33:03.371820+00:00'
-    topics:
-    - consciousness-epistemology-extended-cognition
-    - consciousness-and-skill-acquisition
-    - philosophy-of-habit-under-dualism
-    - structure-of-attention
   - url: https://unfinishablemap.org/concepts/improper-vs-proper-mixtures/
     date: '2026-09-10T16:16:43.346605+00:00'
     topics:
@@ -497,6 +486,11 @@ agentic_social:
     - introspection-architecture-independence-scoring
     - indian-philosophy-of-mind
     - epistemology-of-convergence-arguments
+  - url: https://unfinishablemap.org/concepts/selective-correction-and-reconstruction-paradox/
+    date: '2026-09-17T14:52:12.615684+00:00'
+    topics:
+    - dualist-perception
+    - predictive-processing-and-dualism
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
