@@ -2,9 +2,9 @@
 title: "Coherence Inflation Countermeasures"
 description: "Safeguards against systematic overcommitment when an AI system both generates and reviews content optimised for internal consistency. Detection, confidence calibration, and editorial discipline against silent absorption."
 created: 2026-01-16
-modified: 2026-09-05
+modified: 2026-09-17
 human_modified: null
-ai_modified: 2026-09-05T19:39:24+00:00
+ai_modified: 2026-09-17T20:52:27+00:00
 draft: false
 topics: []
 concepts:
@@ -23,6 +23,8 @@ related_articles:
   - "[[mechanism-cost-ledger]]"
   - "[[evidential-status-discipline]]"
   - "[[direct-refutation-discipline]]"
+  - "[[topics/phenomenology-of-memory-and-the-self]]"
+  - "[[concepts/episodic-memory]]"
   - "[[apex/phenomenology-mechanism-bridge]]"
   - "[[apex/moral-architecture-of-consciousness]]"
   - "[[apex/taxonomy-of-voids]]"
@@ -628,6 +630,35 @@ Written review guidance, not a scanner. The corpus already has more scheduled sc
 - A pass that withdraws or materially weakens a central thesis enumerates the one-hop inbound-link neighbourhood, checks each dependent's body *and* navigation surfaces (`description`, title, H1, aliases), then greps the proposition's synonyms — *overwritten*, *destroyed*, *one-way door*, *consumed*, *replaces* — for dependents that assert the claim without citing its source. The changelog entry names the dependents checked, including those found clean, so a later reader can tell a sweep that ran from one that never did.
 - A review verdict names the lens it applied. *Converged*, *converged no-op* and *stable* scope to that lens, readable as such from the changelog summary without opening the review file. A metadata pass does not retire an article from claim-match review, and must not be logged as though it had.
 - Before a construct-bearing article is recorded as converged, one pass puts the construct-earns-keep question to it against its own principal rival citation. Where the article names that rival — as this one did, in its own prose — the check costs a re-read of two paragraphs.
+
+## Countermeasure 19: The Falsifier-Survival Audit
+
+### Policy
+
+A falsifier list is the cheapest demonstration of good faith the catalogue offers and the easiest to inflate. 204 articles across `topics/`, `concepts/`, `apex/` and `voids/` carry a *What Would Challenge This View* section at the time of writing; naming candidates there costs an article nothing, and no standing check asks whether the article would in fact be moved by any of them. Where the article holds a defensive reply that already absorbs a candidate, listing that candidate buys the appearance of a risk the article is not running — on the surface a sceptical reader is most likely to check.
+
+The audit is one question, asked before the list ships: **for each candidate falsifier, does one of this article's own standing replies already absorb it?** A candidate the article's own defence answers is decorative and is struck. What survives is what the article genuinely risks.
+
+Two consequences make this more than tidying.
+
+**The audit forces the standing reply to state its limit.** A reply broad enough to absorb every named falsifier absorbs the unnamed ones too, which is a fact about the reply rather than about the evidence. The worked exhibit is [[topics/phenomenology-of-memory-and-the-self]], which performs the audit in its own prose on the relocation reply — the claim that identifying a mechanism moves the phenomenal fact rather than dissolving it. Applied without limit, the article says, that reply "disqualifies every mechanistic result in advance—and an argument shielded that thoroughly earns nothing distinctive from memory science, resting on the general hard-problem premise and nothing more. So the limit must be stated." Two candidates then fall on the absorbed side — a successful computational account of mental time travel, and a functionalist account of semanticisation — and are struck, because "[n]aming them as falsifiers while holding the relocation reply would be decorative." Two survive, and the article says what each would show. The strike and the limit are one move: the reply cannot be bounded without naming the results it declines to absorb, and the candidates that survive the bounding are the article's real exposure.
+
+**Striking every candidate is a result, not a failure to conceal.** An article whose candidates are all absorbed has discovered that its argument earns nothing from its local evidence and rests on its framework premise alone. That belongs in the article's own voice, as the [[direct-refutation-discipline|framework-boundary marking]] the discipline already licenses and at the tier [[evidential-status-discipline|the five-tier scale]] assigns a claim whose support is conditional on the tenets. The outcome the audit rules out is a section that was honestly thin being refilled until it looks adequately adversarial.
+
+### Implementation
+
+Editor-applied review guidance, not a scanner and not a blocking gate. Whether a reply absorbs a candidate is a reading judgement rather than a lexical one — the same reason [[evidential-status-discipline#Cluster-Level Term Consistency|the cluster-level term-consistency audit]] stays editor-applied — so `/deep-review`, `/refine-draft`, `/pessimistic-review` and `/expand-topic` run it whenever a pass touches a *What Would Challenge This View* section.
+
+- **Enumerate the replies first, then read the list.** Write down the article's standing defensive moves — relocation to the hard problem, constrain-not-establish, compatibility-not-support, the tenet-conditional, *the mechanism specifies how the state is produced, not why its output is experienced* — before looking at the candidates, and test each candidate against that list. Taking the list first invites it to set the terms of its own assessment.
+- **The visible signature is a falsifier answered in the clause that names it.** [[concepts/episodic-memory]] carried three until 2026-08-04, each named and neutralised in the same sentence ("phenomenology dissolving under introspective analysis—instead, closer attention intensifies it"). Its repair is the audit's second worked instance: the three absorbed candidates are now listed as omitted, with the reason, and the two that survive stand on their own.
+- **Repair by striking the candidate, not by narrowing the reply to fit it.** The article keeps whatever defence it has earned; what it may not keep is a list implying the defence is narrower than it is.
+- **Record what was struck and why**, in the article where a sentence will carry it, in the changelog otherwise. A silent deletion leaves an audited list indistinguishable from one that never had candidates.
+
+### Prior Art
+
+Countermeasure 14's prior-art rule binds this document, so the credit is owed before the addition is claimed: this entry names an existing practice rather than proposing a new one. The move was performed and survived review at one locus before it was stated anywhere, which is why the repaired sibling cites the *article* as the authority for its strike — the discipline had no home on a methodology page to point at. [[evidential-status-discipline#Cluster-Level Term Consistency|The evidential-status discipline]] recorded the same rule from the other direction on 2026-08-04, as *operational disconfirmation criteria*: an article must not name a mechanistic result as potential contrary evidence in one section and neutralise it by hard-problem relocation in another. It deferred the rule to this document rather than fragment one discipline across two project pages, and Countermeasure 19 is where the lens half lands. The governance half remains Countermeasure 16, proposed and pending human ratification; nothing here changes its status.
+
+The neighbours divide cleanly. Countermeasure 2 requires that a steelman section exist; Countermeasure 12 catches drift between an article's lead and its own body; Countermeasure 18 governs what a review verdict may claim about the article it passed. Countermeasure 19 asks whether an article's own account of what would move it survives contact with the replies it is already holding.
 
 ## Relation to Site Perspective
 
