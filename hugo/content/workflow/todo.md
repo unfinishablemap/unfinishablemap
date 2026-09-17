@@ -39,13 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: `topics/cross-cultural-phenomenology-of-agency` L73 inverts the defect — it attributes to the Map a denial the Map does not make
-- **Type**: refine-draft
-- **File**: obsidian/topics/cross-cultural-phenomenology-of-agency.md
-- **Notes**: Verbatim: "What both frameworks share is the denial that agency requires a permanent substance who acts" — "both frameworks" being the Map and Buddhism. The Map does NOT deny this; agent causation requires exactly that substance. Note also L71 frames the Map's substance requirement as a parochial "Western assumption" and nothing in the article retracts it — check whether that framing needs the same correction. ⚠️ This article was edited 2026-09-17 (cross-cultural support-register pass, commit cc5e7826) — read the current text first. **THE DEFECT** (family opened by pessimistic-review 2026-08-03 Issue 4; first locus fixed 2026-09-17, commit 18c8191e): `concepts/agent-causation` defines agents as persisting SUBSTANCES exercising causal powers, and `tenets.md` requires "a persisting subject that exercises causal powers in its own right". Passages pairing agent causation with Buddhist *anattā* therefore assert the persisting substance-bearing subject no-self denies. **THE FIX IS RE-FRAMING, NOT DELETION** — the compatibility claim these passages want is *mental causation* (Buddhism holds it; Tenet 3 asserts it), not agent causation. The canonical formulation already exists in the corpus at `concepts/buddhism-and-dualism` ("What they share is *mental causation*… What they do not share is agent causation") and was reused in the 2026-09-17 fix to `concepts/moral-responsibility` — copy it, do not invent a new wording. Mark the residue as bedrock divergence citing `P-I1` (read it first). ⚠️ These loci were found by READING, not grep — several contain no agent-causal keyword at all, so do not certify anything closed on a grep zero. Print analyze_length before/after; keep length-neutral where the host is near a ceiling. Hold `ai_contribution` and `ai_system`; ai_modified from live `date -u`; sync both trees. Do not edit todo.md.
-- **Source**: refine-draft
-- **Generated**: 2026-09-17
-
 ### P3: archive triplicate — the agent-causation / anattā boilerplate is repeated verbatim in four archived files that serve at live URLs
 - **Type**: refine-draft
 - **File**: archive/concepts/quantum-coherence-and-binding-evidence.md
@@ -1816,6 +1809,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-17: `topics/cross-cultural-phenomenology-of-agency` L73 inverts the defect — it attributes to the Map a denial the Map does not make
+- **Type**: refine-draft
+- **File**: obsidian/topics/cross-cultural-phenomenology-of-agency.md
+- **Notes**: Verbatim: "What both frameworks share is the denial that agency requires a permanent substance who acts" — "both frameworks" being the Map and Buddhism. The Map does NOT deny this; agent causation requires exactly that substance. Note also L71 frames the Map's substance requirement as a parochial "Western assumption" and nothing in the article retracts it — check whether that framing needs the same correction. ⚠️ This article was edited 2026-09-17 (cross-cultural support-register pass, commit cc5e7826) — read the current text first. **THE DEFECT** (family opened by pessimistic-review 2026-08-03 Issue 4; first locus fixed 2026-09-17, commit 18c8191e): `concepts/agent-causation` defines agents as persisting SUBSTANCES exercising causal powers, and `tenets.md` requires "a persisting subject that exercises causal powers in its own right". Passages pairing agent causation with Buddhist *anattā* therefore assert the persisting substance-bearing subject no-self denies. **THE FIX IS RE-FRAMING, NOT DELETION** — the compatibility claim these passages want is *mental causation* (Buddhism holds it; Tenet 3 asserts it), not agent causation. The canonical formulation already exists in the corpus at `concepts/buddhism-and-dualism` ("What they share is *mental causation*… What they do not share is agent causation") and was reused in the 2026-09-17 fix to `concepts/moral-responsibility` — copy it, do not invent a new wording. Mark the residue as bedrock divergence citing `P-I1` (read it first). ⚠️ These loci were found by READING, not grep — several contain no agent-causal keyword at all, so do not certify anything closed on a grep zero. Print analyze_length before/after; keep length-neutral where the host is near a ceiling. Hold `ai_contribution` and `ai_system`; ai_modified from live `date -u`; sync both trees. Do not edit todo.md.
 
 ### ✓ 2026-09-17: `concepts/quantum-indeterminacy-free-will` L180 is the textbook instance of the agent-causation / anattā coupling — and its archived ancestor carries the same text
 - **Type**: refine-draft

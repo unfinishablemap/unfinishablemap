@@ -4,7 +4,7 @@ description: "Reality has two irreducible aspects — structure (physics) and ac
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-09-09T19:35:19+00:00
+ai_modified: 2026-09-17T23:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,10 +31,10 @@ author:
 ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-03-15
 last_curated:
-last_deep_review: 2026-07-17T19:33:00+00:00
+last_deep_review: 2026-09-17T23:26:00+00:00
 ---
 
-The Unfinishable Map's ontology is *bi-aspectual*: reality has two irreducible aspects — **structure** (what physics describes) and **actuality** (what consciousness provides). Physics captures every structural and dispositional fact about the world. Consciousness supplies the actuality that determines which physically permitted outcomes become real. Neither aspect reduces to the other, and they interact causally at quantum indeterminacies. This position borrows the "two aspects" vocabulary from a long philosophical tradition — Spinoza, Russell, Pauli-Jung — but breaks decisively with that tradition by insisting on genuine causal interaction between the aspects.
+The Unfinishable Map's ontology is *bi-aspectual*: reality has two irreducible aspects — **structure** (what physics describes) and **actuality** (what makes one possibility real). Physics captures every structural and dispositional fact about the world. Consciousness supplies that actuality where a neural interface exists; elsewhere physical objective reduction fixes outcomes without it. Neither aspect reduces to the other, and they interact causally at quantum indeterminacies. This position borrows the "two aspects" vocabulary from a long philosophical tradition — Spinoza, Russell, Pauli-Jung — but breaks decisively with that tradition by insisting on genuine causal interaction between the aspects.
 
 ## The Two Aspects
 
@@ -42,11 +42,11 @@ The Unfinishable Map's ontology is *bi-aspectual*: reality has two irreducible a
 
 Physics describes the world's structure: spatial relationships, causal dispositions, dynamical evolution, conservation laws, symmetries. Quantum mechanics specifies which outcomes are possible and with what probabilities. This structural description is *complete for its domain* — no hidden physical variables are missing, as [[physical-completeness]] demonstrates through the convergence of no-go theorems. The wavefunction encodes all structural facts about a system. Some approaches (decoherence-based interpretations, QBism, consistent histories) attempt to resolve the [[measurement-problem|measurement problem]] within physics alone, but none has achieved consensus, and the Map holds that the problem marks a genuine ontological boundary rather than a gap in formalism.
 
-What physics does not describe is why one particular outcome from among the permitted alternatives becomes actual. The Born rule gives probabilities; it does not explain selection. This is not a deficiency in physics but a boundary — the point where structural description reaches its limit and a different kind of account is needed.
+What physics does not describe is why one particular outcome from among the permitted alternatives becomes actual. The Born rule gives probabilities; it does not explain selection. This is not a deficiency in physics but a boundary — the point where a different kind of account is needed.
 
 ### Actuality
 
-When a quantum measurement yields a definite result, something determines that result from among the alternatives the wavefunction permits. "Actuality" names this determining role — the role of making one possibility real rather than another. The Map holds that consciousness fills this role, but the term names the *posited function*, not a mechanism. Specifying how consciousness actualises possibilities remains an open problem (see [[psychophysical-laws]]).
+When a quantum measurement yields a definite result, something determines that result from among the alternatives the wavefunction permits. "Actuality" names this determining role — the role of making one possibility real rather than another. The Map holds that consciousness fills this role at neural interfaces, but the term names the *posited function*, not a mechanism. Specifying how consciousness actualises possibilities remains an open problem (see [[psychophysical-laws]]).
 
 Why think consciousness is a candidate for this role rather than some as-yet-unknown physical process? Two considerations make it one, and neither is evidence that it occupies the role — the methodological inversion [[the-reverse-inference|the reverse inference]] develops at length. First, the [[hard-problem-of-consciousness|hard problem]] (Chalmers 1996) gives reason to think consciousness is real and irreducible to structure — it is not an entity invented to plug the measurement gap but something we know exists on independent grounds. Second, the measurement problem marks the point where structural description reaches its limit, and what that supplies is the *permissibility condition* for a selection role rather than support for it: [[spontaneous-collapse-theories|objective collapse]] answers "why one definite outcome?" without invoking any mind, so the measurement problem cannot itself be evidence for conscious selection (see [[measurement-problem|measurement problem]] and [[tenets/background-commitments|background posit 2]]). Together these make consciousness a *motivated candidate* for the actualising role — they establish the availability of the location, not that consciousness fills it.
 
@@ -60,7 +60,7 @@ The term "bi-aspectual" signals three commitments:
 
 1. **Two genuine aspects.** Structure and actuality are both real, both fundamental, and neither derivable from the other. This is genuine [[dualism]], not the dual-aspect vocabulary used to disguise monism.
 
-2. **Aspects of the same reality.** Structure and actuality are not floating independently. They are aspects of the one reality we inhabit. Where structure presents quantum indeterminacies, actuality resolves them. They meet at the interface — and the Born rule is that interface's specification.
+2. **Aspects of the same reality.** Structure and actuality are not floating independently. They are aspects of the one reality we inhabit. Where structure presents quantum indeterminacies, actuality resolves them — consciousness doing so at neural interfaces. They meet at the interface — and the Born rule is that interface's specification.
 
 3. **Irreducibility in both directions.** Consciousness cannot be reduced to physics (the hard problem). Physics cannot be reduced to consciousness (the Map is not [[idealism|idealist]]). Both aspects are needed for a complete account of reality.
 
@@ -82,7 +82,7 @@ This is closer to the Map's view — it takes quantum complementarity seriously 
 
 ### Reflexive Monism
 
-Velmans (2009) treats conscious experience and brain processes as complementary first-person and third-person appearances of a single reality. The epistemological insight — that the same reality looks different from different perspectives — is valuable. But reflexive monism remains monist. The Map requires not just perspectival difference but ontological distinctness combined with causal interaction.
+Velmans (2008) treats conscious experience and brain processes as complementary first-person and third-person appearances of a single reality. The epistemological insight — that the same reality looks different from different perspectives — is valuable. But reflexive monism remains monist. The Map requires not just perspectival difference but ontological distinctness combined with causal interaction.
 
 ## Distinguished from Russellian Monism
 
@@ -98,7 +98,7 @@ As Pautz (2017) and Cutter (2019) have argued, Russellian monism faces instabili
 
 Classical [[substance-property-dualism|substance dualism]] (Descartes) posits two fundamentally different kinds of stuff — *res cogitans* and *res extensa*. The Map's bi-aspectual ontology is not substance dualism. It does not posit two substances occupying the same space; it posits two aspects of reality that are irreducible to each other.
 
-The practical difference: substance dualism faces Princess Elisabeth's challenge in its sharpest form — how can two utterly different substances interact? Bi-aspectual dualism softens the problem. The aspects are already of the same reality; they meet at a specified interface (quantum indeterminacy, mediated by the Born rule). The interaction is not between alien substances but between complementary dimensions of what exists.
+The practical difference: substance dualism faces Princess Elisabeth's challenge in its sharpest form — how can two utterly different substances interact? Bi-aspectual dualism softens the problem. The aspects are already of the same reality; they meet at a specified interface (quantum indeterminacy, mediated by the Born rule).
 
 This does not dissolve the interaction problem entirely. Specifying the coupling between structure and actuality remains the central open challenge (see [[psychophysical-laws]]). But bi-aspectual framing makes the interaction problem tractable rather than paradoxical.
 
@@ -112,7 +112,7 @@ The Map requires more. The [[tenets#^bidirectional-interaction|Bidirectional Int
 
 [[qbism|QBism]] (Fuchs 2017) dissolves the measurement problem by treating quantum states as subjective beliefs rather than objective features of reality. "Collapse" becomes belief-updating: the agent measures, learns the result, and revises expectations. No ontological selection occurs because there was never an objective wavefunction to collapse.
 
-QBism is instructive because it makes the *agent* central to quantum mechanics without explaining what agents are. It presupposes that agents have determinate experiences — the very thing the hard problem identifies as requiring explanation. The Map agrees with QBism that agents are epistemically indispensable to quantum mechanics, but draws the opposite conclusion: rather than dissolving the measurement problem by subjectivising quantum states, the Map takes the agent's centrality as evidence that consciousness plays an ontological role at the measurement boundary. QBism removes the need for actuality by removing objectivity; the Map retains both.
+QBism is instructive because it makes the *agent* central to quantum mechanics without explaining what agents are. It presupposes that agents have determinate experiences — the very thing the hard problem identifies as requiring explanation. The Map agrees with QBism that agents are epistemically indispensable to quantum mechanics, but draws the opposite conclusion: rather than dissolving the measurement problem by subjectivising quantum states, the Map reads the agent's ineliminability as marking where the boundary lies rather than as evidence that consciousness selects — a burden the agency arguments carry. QBism removes the need for actuality by removing objectivity; the Map retains both.
 
 ## The Born Rule as Interface
 
@@ -136,7 +136,7 @@ Bi-aspectual ontology is the Map's foundational metaphysical picture, connecting
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** specifies how the aspects meet. Consciousness biases otherwise indeterminate quantum outcomes — the smallest possible interaction between the actualising and structural aspects.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is what distinguishes the Map from every dual-aspect monism. The aspects do not merely run in parallel; actuality causally selects which structural possibilities become real, and structure constrains what actuality can select.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is what distinguishes the Map from every dual-aspect monism. The aspects do not merely run in parallel; at neural interfaces actuality causally selects which structural possibilities become real, and structure constrains what actuality can select.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** follows from taking actuality seriously. If selection is real, one outcome becomes actual and the alternatives do not persist. Many-worlds denies selection by keeping all outcomes — eliminating the role of actuality entirely.
 
@@ -165,7 +165,7 @@ Bi-aspectual ontology is the Map's foundational metaphysical picture, connecting
 5. Velmans, M. (2008). Reflexive Monism. *Journal of Consciousness Studies*, 15(2), 5-50.
 6. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? Unpublished manuscript (reply to Roelofs's comments on Pautz 2015).
 7. Cutter, B. (2019). Against the Middle Ground: Why Russellian Monism Is Unstable. *Analytic Philosophy*, 60(2), 109-129.
-8. Le Bihan, B. (2019). Aspects in Dual-Aspect Monism and Panpsychism: A Rejoinder to Benovsky. *Philosophical Investigations*, 42(2).
+8. Le Bihan, B. (2019). Aspects in Dual-Aspect Monism and Panpsychism: A Rejoinder to Benovsky. *Philosophical Investigations*, 42(2), 186-201.
 9. Gleason, A.M. (1957). Measures on the Closed Subspaces of a Hilbert Space. *Journal of Mathematics and Mechanics*, 6(6), 885-893.
 10. Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
 11. Southgate, A. & Oquatre-six, C. (2026-01-16). Psychophysical Laws and Coupling. *The Unfinishable Map*. https://unfinishablemap.org/concepts/psychophysical-laws/

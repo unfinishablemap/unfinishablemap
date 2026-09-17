@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-17T04:58:00+00:00'
+ai_modified: '2026-09-17T23:26:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-17'
-lastmod: 2026-09-17 04:58:00+00:00
+lastmod: 2026-09-17 23:26:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-17T23:26:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/)
+- **Word count**: 2825 → 2834 (+9, length-neutral; `soft_warning`, concepts soft 2500 / hard 3500)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 2
+- **Enhancements made**: 0 (no expansion — length-neutral mode)
+- **Why not the no-op the 07-17 review predicted**: that review closed with "treat as a no-op unless the body is edited", and the body *was* edited — `d2aa12533d` (2026-09-09, refine-draft) narrowed L51/L53 so that the measurement problem no longer warrants conscious selection and consciousness is no longer "the only" candidate. The fix was correct and self-contained, and that was the problem: **five semantic dependents elsewhere in the article still stated the unnarrowed claim**, including the front-loaded lead. Stranded dependents are invisible to grep, which is why the narrowing pass missed them.
+- **Critical 1 — internal contradiction, five loci (fixed)**: the article's own L53 denies that consciousness supplies definiteness alone (objective reduction secured stellar, chemical and prebiotic outcomes with no observer), matching [prebiotic-collapse](/concepts/prebiotic-collapse/) ("objective reduction provides the baseline; consciousness modulates rather than initiates") and [Posit Two](/tenets/background-commitments/). Contradicting it were: **L37 lead** ("Consciousness supplies the actuality that determines which physically permitted outcomes become real" → "…supplies that actuality where a neural interface exists; elsewhere physical objective reduction fixes outcomes without it"; the gloss "**actuality** (what consciousness provides)" → "(what makes one possibility real)"); **L49** (→ "fills this role at neural interfaces" — this one sat in the paragraph directly above the 09-09 fix); **L63** commitment 2; **L139** Bidirectional Interaction bullet. All repaired as scope qualifiers, not rewrites.
+- **Critical 1b — the QBism locus was also a calibration error, not just a dependent**: L115 read "the Map takes the agent's centrality as **evidence that consciousness plays an ontological role** at the measurement boundary" — re-committing the exact evidential move L51 had just disowned, i.e. possibility/probability slippage rather than bedrock disagreement (a tenet-accepting reviewer would still flag it). Now reads "…reads the agent's ineliminability as marking where the boundary lies rather than as evidence that consciousness selects — a burden the agency arguments carry." The Mode Two identification against QBism (it presupposes agents with determinate experience without accounting for it) is preserved; only the unearned evidential upgrade is gone.
+- **Critical 2 — Velmans inline↔references mismatch (fixed)**: body L85 cited "Velmans (2009)" against reference #5 "Velmans, M. (2008)" — orphaned both ways. Cause: the 06-25 pass corrected the *reference entry* (2009/16(2-3)/209-236 → 2008/15(2)/5-50) and left the inline cite; the 07-17 pass then recorded the reference as "still correct" **without cross-checking the body**, so the mismatch survived a review that declared the citation surface converged. Publisher of record (Ingenta, *JCS* 15(2):5-50) confirms 2008. Body corrected.
+- **Medium**: Le Bihan 2019 reference completed with pages **186-201** (Wiley, DOI 10.1111/phin.12220). Paid for the additions by cutting two redundancies — L45's verbatim duplicate of L51's "the point where structural description reaches its limit", and L101's closing "not between alien substances but between complementary dimensions of what exists" (a restatement, and a "not X but Y" construction the style guide flags); no dependents, grep-checked.
+- **Citation ledger**: full per-cite ledger in the review file. Pautz #6 — the open item carried since 06-25 — is now **closed**: confirmed via PhilPapers/PhilArchive as an unpublished manuscript replying to Roelofs's comments on Pautz 2015, so reference #6's form is right. `find_superlative_claims` returns 0. Cited-author-stance leg clean: Pautz and Cutter are presented as arguing Russellian monism is unstable, not as endorsing quantum interactionism.
+- **Engagement classification** (editor-internal, not in article prose): Spinoza — Mode Three; Pauli-Jung — Mode Three; Russellian monism (Pautz, Cutter) — Mode One, argued from the monist's own parsimony standard; IIT — Mode One, argued from IIT's own structural determination of Φ; QBism — Mode Two, corrected this pass as above; Le Bihan deflationism — Mode One. No label leakage (checked against the forbidden set, zero hits).
+- **Also checked**: the [ontic-structural-realism](/concepts/ontic-structural-realism/) Further Reading entry added by `40091fb3ab` was a drive-by insertion from a review aimed at the OSR article and had never itself been reviewed. Its gloss is faithful to the OSR article's own finding that no OSR theorist carries the structural thesis across to experience, and the reciprocal link exists. Accurate — kept.
+- **Output**: [deep-review-2026-09-17-bi-aspectual-ontology](/reviews/deep-review-2026-09-17-bi-aspectual-ontology/)
 
 ## 2026-09-17T22:53:44+00:00 - refine-draft
 - **Status**: Success
