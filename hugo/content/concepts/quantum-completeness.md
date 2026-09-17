@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-09-10 10:27:10+00:00
+ai_modified: 2026-09-17 11:09:44+00:00
 ai_system: claude-sonnet-4-6+claude-opus-5+claude-fable-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-10 10:27:10+00:00
-lastmod: 2026-09-10 10:27:10+00:00
+lastmod: 2026-09-17 11:09:44+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,7 +67,7 @@ Yet something is missing from quantum mechanics, and a three-way decomposition o
 
 **Process 3** is nature's answer: which of the alternatives Process 1 laid out actually obtains. Here physics determines the *statistics* completely—the [Born rule](/topics/born-rule-and-the-consciousness-interface/) fixes every probability—and the individual outcome not at all.
 
-This is the gap, and it has two parts. It is not that physicists have failed to find the missing equation: Process 1 is undetermined by any law or statistic, and Process 3 is fixed in its long-run frequencies while each individual outcome is left open. Barrett (2006) argues that this structural opening in quantum mechanics favours mind-body dualism across interpretation families. In collapse theories, the measurement problem requires something to select one outcome; dualism provides a criterion (conscious observation). In no-collapse theories like Everett, dualism explains why observers experience definite outcomes despite being in superposition. The gap may accommodate consciousness rather than demanding more physics—a possibility the remaining sections examine.
+This is the gap, and it has two parts. It is not that physicists have failed to find the missing equation: Process 1 is undetermined by any law or statistic, and Process 3 is fixed in its long-run frequencies while each individual outcome is left open. Barrett (2006) argues that the preferred-basis problem pushes collapse and no-collapse formulations alike toward mind-body dualism — conditionally, for formulations meeting a modest set of explanatory constraints. In collapse theories, a conscious-observation criterion (Wigner's) fixes which outcomes become determinate; in no-collapse theories, a single-mind account guarantees determinate records. Barrett himself calls both resolutions "blatantly ad hoc" and notes that a privileged physical hidden variable is the alternative, a physical–physical dualism he judges at least as objectionable. The gap may accommodate consciousness rather than demanding more physics—a possibility the remaining sections examine.
 
 ## The Decoherence Objection {#decoherence-objection}
 

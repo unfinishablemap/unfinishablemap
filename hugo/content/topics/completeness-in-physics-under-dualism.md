@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-27
-ai_modified: 2026-09-11 03:50:47+00:00
+ai_modified: 2026-09-17 11:09:44+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 15:44:53+00:00
-lastmod: 2026-09-11 03:50:47+00:00
+lastmod: 2026-09-17 11:09:44+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -83,7 +83,7 @@ God-of-the-gaps arguments exploit temporary ignorance: "We don't yet know how X 
 
 Descartes pointed to the pineal gland as the locus of mind-body interaction—an empirical gap that neuroscience closed. Eccles proposed quantum effects in synaptic vesicles—another empirical claim that did not survive scrutiny. The Map's position is categorically different. The structural-ontological gap is a philosophical observation about the limits of structural description, not a bet on unexplored neuroscience.
 
-Barrett (2006) makes this point formally: the measurement problem structurally favours mind-body dualism *across interpretation families*. In collapse theories, something must select the outcome—dualism provides a criterion. In no-collapse theories like Everett, something must explain why observers have determinate experiences—dualism arguably provides a subject, though whether it is the only candidate that could play this role remains open. The dualist reading of this structural opening is a minority position in philosophy of physics—most theorists pursue decoherence, consistent-histories, or relational accounts that address Process 1 without invoking consciousness—but Barrett's structural observation holds regardless of which reading one adopts: the gap appears in every interpretation rather than in one that might be superseded, because it reflects a genuine boundary in what physics addresses.
+Barrett (2006) presses a related point: the preferred-basis problem pushes collapse and no-collapse formulations alike toward mind-body dualism, conditionally on a modest set of explanatory constraints. In collapse theories, a conscious-observation criterion fixes the outcome; in no-collapse theories, a single-mind account guarantees determinate records. Barrett is no advocate—he calls these resolutions "blatantly ad hoc," notes that dropping a constraint trades mind-body dualism for a physical–physical dualism (a privileged hidden variable) at least as objectionable, and concludes that quantum mechanics "certainly does not require" mind-body dualism though it "may favor one." The dualist reading is a minority position in philosophy of physics—most theorists pursue decoherence, consistent-histories, or relational accounts that address Process 1 without invoking consciousness. What Barrett's analysis shows is that some dual structure recurs across formulations; that the recurrence marks a boundary in what physics addresses, rather than a hidden physical variable, is the Map's reading, not his.
 
 ## Observational Closure and the Empirical Constraint
 

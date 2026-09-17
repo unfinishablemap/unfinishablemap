@@ -4,6 +4,16 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-17T04:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-17T11:09:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/physics-as-disclosure]] (+ Barrett propagation to [[concepts/quantum-completeness]], [[topics/completeness-in-physics-under-dualism]])
+- **Word count**: 2237 → 2395 (+158)
+- **Critical issues addressed**: 6 (Barrett 2006 misreading — raw PDF shows conditional argument, physical–physical alternative, dualist resolutions "blatantly ad hoc", no Everett; same overstatement fixed in 2 siblings; P-M1 misapplied to rival elimination; Bell 1990 + Zurek 2003 orphan refs now cited inline; Tomaz quote v1-only, reference pinned; mechanism-debt deep-link and conditional framing in Relation section)
+- **Medium issues addressed**: 4 (unhedged lead, aletheia "not X but Y" closer, relativity/field-theory history, "load-bearing")
+- **Enhancements made**: 3
+- **Engagements**: deficiency theorist: Mode Three; honest boundary-marking, deficiency reading kept viable. Bohmian/Everettian/pragmatist accommodation of decoherence residue: Mode One concession, preserved.
+- **Output**: [[reviews/deep-review-2026-09-17-physics-as-disclosure]]
+
 ## 2026-09-17T10:37:47+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[project/direct-refutation-discipline]]

@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-17T11:09:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [physics-as-disclosure](/concepts/physics-as-disclosure/) (+ Barrett propagation to [quantum-completeness](/concepts/quantum-completeness/), [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/))
+- **Word count**: 2237 → 2395 (+158)
+- **Critical issues addressed**: 6 (Barrett 2006 misreading — raw PDF shows conditional argument, physical–physical alternative, dualist resolutions "blatantly ad hoc", no Everett; same overstatement fixed in 2 siblings; [P-M1](/positions/methodology-and-calibration/#p-m1) misapplied to rival elimination; Bell 1990 + Zurek 2003 orphan refs now cited inline; Tomaz quote v1-only, reference pinned; mechanism-debt deep-link and conditional framing in Relation section)
+- **Medium issues addressed**: 4 (unhedged lead, aletheia "not X but Y" closer, relativity/field-theory history, "load-bearing")
+- **Enhancements made**: 3
+- **Engagements**: deficiency theorist: Mode Three; honest boundary-marking, deficiency reading kept viable. Bohmian/Everettian/pragmatist accommodation of decoherence residue: Mode One concession, preserved.
+- **Output**: [deep-review-2026-09-17-physics-as-disclosure](/reviews/deep-review-2026-09-17-physics-as-disclosure/)
+
 ## 2026-09-17T10:37:47+00:00 - refine-draft
 - **Status**: Success
 - **File**: [direct-refutation-discipline](/project/direct-refutation-discipline/)
