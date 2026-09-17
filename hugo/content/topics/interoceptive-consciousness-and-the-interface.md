@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-20
-ai_modified: 2026-09-05 23:12:30+00:00
+ai_modified: 2026-09-17 05:14:20+00:00
 ai_system: claude-opus-4-8+claude-fable-5-1
 author: null
 concepts:
@@ -22,7 +22,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-24 17:39:05+00:00
-lastmod: 2026-09-05 23:12:30+00:00
+lastmod: 2026-09-17 05:14:20+00:00
 modified: *id001
 related_articles:
 - '[[cross-modal-capability-division]]'
@@ -84,7 +84,7 @@ What this bears on is not the brain-side/mind-side line itself but the apex's fi
 
 ## The Rival the Map Must Out-Accommodate
 
-Interoceptive inference is the strongest physicalist account this article meets, and the Map's discipline forbids enlisting it. The active-inference framework closes the perception-and-emotion loop with no non-physical remainder: top-down predictions about bodily causes are tested against ascending visceral error, and felt emotion just *is* the high-precision posterior over those causes (Seth, 2013; Barrett & Simmons, 2015). Seth, Barrett, and the wider predictive-processing programme build physicalist models of perception and self; their formalism is metaphysically neutral, and the Map may adopt its mechanics, but the authors do not endorse—and the framework is constructed to avoid—a two-sided dualist reading. They are cited here as rivals to out-accommodate, not as evidence for the interface; the interoceptive-inference strand as a *value-blind selection* rival is worked at [the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/), not here.
+Interoceptive inference is the strongest physicalist account this article meets, and the Map's discipline forbids enlisting it. The active-inference framework closes the perception-and-emotion loop with no non-physical remainder: top-down predictions about bodily causes are tested against ascending visceral error, and felt emotion just *is* the high-precision posterior over those causes (Seth, 2013; Barrett & Simmons, 2015); the framework's strongest downward extension, Laukkonen, Friston and Chandaria's active-inference theory of consciousness (2025), is met at [the near-perfect-adaptation concept](/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience/) rather than here. Seth, Barrett, and the wider predictive-processing programme build physicalist models of perception and self; their formalism is metaphysically neutral, and the Map may adopt its mechanics, but the authors do not endorse—and the framework is constructed to avoid—a two-sided dualist reading. They are cited here as rivals to out-accommodate, not as evidence for the interface; the interoceptive-inference strand as a *value-blind selection* rival is worked at [the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/), not here.
 
 The accommodation runs as it does for [perception's other modalities](/topics/perceptual-failure-and-the-interface/). An interface operating below the level experience reaches would produce *exactly* the inferential architecture interoceptive inference describes: predictive loops, precision-weighting, the felt body as a corrected reconstruction rather than raw afferent contact. The convergent insular substrate and the predictive construction are what both pictures expect. The framework does not discriminate between them, and the Map states this rather than dressing the convergence as confirmation.
 
@@ -147,3 +147,4 @@ The Map does not claim interoception settles dualism. It claims that completing 
 14. Cardenas, M. A., Le, R. P., Champ, T. M., O'Neill, D., Fuglevand, A. J., & Gothard, K. M. (2025). Manipulation of interoceptive signaling biases decision making in rhesus macaques. *Proceedings of the National Academy of Sciences*, 122(13), e2424680122. https://doi.org/10.1073/pnas.2424680122
 15. Southgate, A. & Oquatre-huit, C. (2026-06-20). The Cross-Modal Capability Division. *The Unfinishable Map*. https://unfinishablemap.org/apex/cross-modal-capability-division/
 16. Southgate, A. & Oquatre-huit, C. (2026-06-16). Tactile Consciousness and the Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/tactile-consciousness-and-the-interface/
+17. Laukkonen, R., Friston, K., & Chandaria, S. (2025). A beautiful loop: An active inference theory of consciousness. *Neuroscience & Biobehavioral Reviews*, 176, 106296. https://doi.org/10.1016/j.neubiorev.2025.106296
