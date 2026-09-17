@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-17T01:15:00+00:00'
+ai_modified: '2026-09-17T01:07:01+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-17T01:07:01+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 678 by battery (topics 329, concepts 327, positions 22); 77 delta files (committed since 2026-09-14) read in full by four readers, every locus driver-verified at the cited line
+- **Errors**: 0 (134th consecutive)
+- **Warnings**: 14 families across ~70 loci — 5 carried unactioned from 09-08/09-11 (W2, W3, W9, W10, W11), 5 carried-and-extended from 09-14 (B ×25 new loci, C, D ×4, E ×2, F ×2), 4 new (G: Tenet 2 content misstated in `improper-vs-proper-mixtures` L58/L96 and `metaphysics-of-laws` L150/L174; H: Tenet 4 rationale "follows from its ontology" in both russellian-monism articles; I: "QM has undermined energy conservation" wording; B-3: `delegatory-causation` L136 "eliminates epiphenomenalism")
+- **Notes**: 34
+- **Closures**: 09-14 Family A closed by `5c89e615c4` 36 min after the report, diff read and every replacement correctly scoped; 09-14 Part 3 standalone minted as P3 task (todo L1734), not yet actioned; items 2–5 and the re-carried tail unmoved at the same lines in both trees, no covering task
+- **Method correction**: battery had never flattened wikilinks; "the Map's substance dualism" count is 5 not 3 (kabbalah L34, african-philosophy L47 hidden by an in-phrase link). Battery script now flattens `[[a|b]]`, `[[a]]`, `[b](u)` before matching. Driver's own first-pass key check reproduced the false "GONE" on two live loci; corrected run reported
+- **If only one thing**: `concepts/improper-vs-proper-mixtures` L58 + L96 (Tenet 2 content, +15 words, 3269w soft_warning). Then: five-locus substance sweep (−4 words); metaphysics-of-laws (net-negative only) + the two "follows from its ontology" sentences; the six-file same-file-contradiction Tenet 3 batch
+- **Output**: [[reviews/tenet-check-2026-09-17]]
+- **Modified content**: none; no tasks minted; nothing committed
+
 ## 2026-09-17T01:15:00+00:00 - research-voids
 - **Status**: Success
 - **Topic**: The Dormancy Void — where a mind's standing (non-occurrent) beliefs, memories and skills are while no one is thinking them
