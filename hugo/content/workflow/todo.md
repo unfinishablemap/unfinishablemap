@@ -39,14 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `topics/clinical-dissociation-as-systematic-evidence` L82 over-reads Marsh et al. (2021) — "more than instructed simulators or controls", "substrate demonstrably retains and integrates"
-- **Type**: refine-draft
-- **File**: obsidian/topics/clinical-dissociation-as-systematic-evidence.md
-- **Notes**: Flagged by the 2026-09-17 research-topic pass (`research/metacognitive-access-versus-retention-2026-09-16.md`), which read Marsh, Dorahy, Butler, Middleton, de Jong, Kemp & Huntjens (2021), *PLoS ONE* 16(2): e0245849. Per that note: (a) DID patients out-recognised simulators and the *partial-information* comparison group only — not the full-information controls, so "than instructed simulators or controls" overstates; (b) the recall amnesia was a trend, not a significant effect; (c) "the substrate demonstrably retains and integrates the information" is the article's inference, not the authors' finding. FIX: verify (a)–(c) against the paper's Results at the publisher of record FIRST (these are the research fork's readings, not driver-verified), then recalibrate L82 to the actual comparisons and move "demonstrably" to an attributed inference. Keep the paragraph's argumentative role (recall/recognition dissociation as the connectivity-physicalist's anchor) — re-frame, don't delete. Check `hugo/` for the same sentence and sync both trees. Length-neutral preferred.
-- **Source**: research-topic
-- **Generated**: 2026-09-17
-
-
 ### NEEDS-HUMAN 2026-09-16: `topics/lucid-dreaming-and-dualist-rendering` title still promises "Evidence for Dualist Rendering" after the description and body were recalibrated to compatible-not-forced — retitle / demote-to-coherence-only is an editorial call
 - **Type**: refine-draft
 - **File**: obsidian/topics/lucid-dreaming-and-dualist-rendering.md
@@ -1913,6 +1905,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-17: `topics/clinical-dissociation-as-systematic-evidence` L82 over-reads Marsh et al. (2021) — "more than instructed simulators or controls", "substrate demonstrably retains and integrates"
+- **Type**: refine-draft
+- **File**: obsidian/topics/clinical-dissociation-as-systematic-evidence.md
+- **Notes**: Flagged by the 2026-09-17 research-topic pass (`research/metacognitive-access-versus-retention-2026-09-16.md`), which read Marsh, Dorahy, Butler, Middleton, de Jong, Kemp & Huntjens (2021), *PLoS ONE* 16(2): e0245849. Per that note: (a) DID patients out-recognised simulators and the *partial-information* comparison group only — not the full-information controls, so "than instructed simulators or controls" overstates; (b) the recall amnesia was a trend, not a significant effect; (c) "the substrate demonstrably retains and integrates the information" is the article's inference, not the authors' finding. FIX: verify (a)–(c) against the paper's Results at the publisher of record FIRST (these are the research fork's readings, not driver-verified), then recalibrate L82 to the actual comparisons and move "demonstrably" to an attributed inference. Keep the paragraph's argumentative role (recall/recognition dissociation as the connectivity-physicalist's anchor) — re-frame, don't delete. Check `hugo/` for the same sentence and sync both trees. Length-neutral preferred.
 
 ### ✓ 2026-09-17: Research Metacognitive access versus retention in dissociative conditions
 - **Type**: research-topic

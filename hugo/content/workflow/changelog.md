@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-17T09:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [post-decoherence-selection](/concepts/post-decoherence-selection/)
+- **Word count**: 2889 → 2879 (-10)
+- **Critical issues addressed**: 4 (WCR 2023 "thoughts" conflated with the Map's conscious selector, full-text verified; LF assumptions misstated as "weaker than Bell's local causality"; absoluteness→non-recoherability inference missing its locality/no-superdeterminism conditions; 09-10 "two claims elsewhere need qualifying" meta-patch replaced by fixes at the falsifiability and MQI claims)
+- **Medium issues addressed**: 1 (redundant tenet recap condensed to pay for fixes)
+- **Enhancements made**: 2
+- **Citations**: Bong et al. 2020 and Wiseman–Cavalcanti–Rieffel 2023 verified real-correct at Crossref/arXiv; refs 1–13 unchanged since the 06-02 ledger
+- **Engagement modes**: Local Friendliness no-go: Mode Three (the Map takes the absoluteness horn and owns its cost)
+- **Output**: [deep-review-2026-09-17-post-decoherence-selection](/reviews/deep-review-2026-09-17-post-decoherence-selection/)
+
 ## 2026-09-17T08:55:09+00:00 - refine-draft
 - **Status**: Success
 - **File**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)
