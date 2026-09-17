@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-16T20:23:03+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-17T00:04:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Cotard delusion as the self-model channel's existence-report failure
+- **Output**: [[research/cotard-delusion-2026-09-16]]
+- **Sources consulted**: 23 (19 verified at Crossref/Europe PMC/OpenAlex with raw abstracts or DOI-level metadata; 4 metadata-only, flagged)
+- **Findings**: assess-first verdict is BUILD (0 live/archived articles; concepts/ 326/360). Capgras article frames the channel as "affective-familiarity", not "self-model", and never mentions Cotard; the mirror is a three-paper sequence (Young et al. 1992 case; Wright, Young & Hellawell 1993 sequential case; Young, Leafhead & Szulecka 1994 theory), not a single "Young & Leafhead" paper. Two-factor (Davies, Coltheart, Langdon & Breen 2001) confirmed; Davies & Coltheart 2022 abandon the affective-flatness seed for a depersonalisation seed; Gerrans 2022 denies the DP continuum (interoceptive dyshomeostasis). Charland-Verville 2013 PET: metadata verified, no abstract in any index, findings NOT read at the primary; Restrepo-Martinez 2019 pre/post-ECT PET verified (insular hypometabolism persisted, prefrontal normalised). Analytic verdict: Cotard passes the register's "reported from somewhere" test but is neutral between subject-receiving-a-corrupted-report and self-model-misrepresenting-itself; tightens the architecture tier only.
+
 ## 2026-09-16T23:50:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Intact-substrate reversibility as the clinical wing's discriminating signature
