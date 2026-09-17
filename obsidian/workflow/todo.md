@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: `topics/sherrington-dualist-lineage` dates Eccles's "trialist" self-description to 1977 — it is in print in 1973
-- **Type**: refine-draft
-- **File**: obsidian/topics/sherrington-dualist-lineage.md
-- **Notes**: Found by the 2026-09-17 research-topic pass (`research/popper-three-worlds-interactionism-and-eccles-trialism-2026-09-17.md`, commit 0378b18f). The article attributes Eccles's self-description as a "trialist" to Popper & Eccles, *The Self and Its Brain* (1977); per the research note it is already in *The Understanding of the Brain* (McGraw-Hill, 1973, ch. 6, p. 189), four years earlier. No argument depends on the date — this is a minimal date/source repair. FIX: verify the 1973 attribution at the publisher of record FIRST (the research note flags the trialist quote as carried by two secondary sources with no publisher-of-record confirmation, so if 1973 cannot be verified, leave the sentence alone and record why). If verified, correct the date and add the 1973 reference. Length-neutral (article is at soft_warning, deep-reviewed 2026-09-02). Optional, same pass: the article calls Beck–Eccles "the direct ancestor of Tenet 2" while `topics/history-of-the-interaction-problem` gives a von Neumann→Wigner→Stapp ancestry (that hub was corrected 2026-09-17 to avoid asserting a single line) — soften to "one ancestor" if length-neutral. Hold `ai_system`; sync both trees.
-- **Source**: research-topic
-- **Generated**: 2026-09-17
-
-
 ### NEEDS-HUMAN 2026-09-16: `topics/lucid-dreaming-and-dualist-rendering` title still promises "Evidence for Dualist Rendering" after the description and body were recalibrated to compatible-not-forced — retitle / demote-to-coherence-only is an editorial call
 - **Type**: refine-draft
 - **File**: obsidian/topics/lucid-dreaming-and-dualist-rendering.md
@@ -1824,6 +1816,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-17: `topics/sherrington-dualist-lineage` dates Eccles's "trialist" self-description to 1977 — it is in print in 1973
+- **Type**: refine-draft
+- **File**: obsidian/topics/sherrington-dualist-lineage.md
+- **Notes**: Found by the 2026-09-17 research-topic pass (`research/popper-three-worlds-interactionism-and-eccles-trialism-2026-09-17.md`, commit 0378b18f). The article attributes Eccles's self-description as a "trialist" to Popper & Eccles, *The Self and Its Brain* (1977); per the research note it is already in *The Understanding of the Brain* (McGraw-Hill, 1973, ch. 6, p. 189), four years earlier. No argument depends on the date — this is a minimal date/source repair. FIX: verify the 1973 attribution at the publisher of record FIRST (the research note flags the trialist quote as carried by two secondary sources with no publisher-of-record confirmation, so if 1973 cannot be verified, leave the sentence alone and record why). If verified, correct the date and add the 1973 reference. Length-neutral (article is at soft_warning, deep-reviewed 2026-09-02). Optional, same pass: the article calls Beck–Eccles "the direct ancestor of Tenet 2" while `topics/history-of-the-interaction-problem` gives a von Neumann→Wigner→Stapp ancestry (that hub was corrected 2026-09-17 to avoid asserting a single line) — soften to "one ancestor" if length-neutral. Hold `ai_system`; sync both trees.
 
 ### ✓ 2026-09-17: Research Popper three-worlds interactionism and Eccles trialism
 - **Type**: research-topic
