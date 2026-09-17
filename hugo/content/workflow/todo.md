@@ -39,12 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Hemispatial neglect and the reversibility of attentional access
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-09-16-clinical-evidence-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-16-clinical-evidence-wing §Ideas for Later: 35 live body files mention 'neglect', no article; the natural pairing for the anosognosia piece, since Cappa et al. 1987 vestibular stimulation remits both together. Research should cover caloric/prism remission, extinction, and what transient remission of neglect licenses for the interface reading versus attentional-network accounts. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/hemispatial-neglect-2026-09-16.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'hemispatial-neglect' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-09-16
-
 ### P3: Research Metacognitive access versus retention in dissociative conditions
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-09-16-clinical-evidence-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-16-clinical-evidence-wing §Ideas for Later: the DID recall/recognition dissociation (Marsh et al. 2021) is the wing's cleanest instance of a pattern (retained but inaccessible; retained but disowned) that dissociative amnesia, DPDR and anosognosia all share; currently distributed across three articles with no concept page. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/metacognitive-access-versus-retention-2026-09-16.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'metacognitive-access-versus-retention' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -1889,6 +1883,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-17: Research Hemispatial neglect and the reversibility of attentional access
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-16-clinical-evidence-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-16-clinical-evidence-wing §Ideas for Later: 35 live body files mention 'neglect', no article; the natural pairing for the anosognosia piece, since Cappa et al. 1987 vestibular stimulation remits both together. Research should cover caloric/prism remission, extinction, and what transient remission of neglect licenses for the interface reading versus attentional-network accounts. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/hemispatial-neglect-2026-09-16.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'hemispatial-neglect' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-09-17: `concepts/improper-vs-proper-mixtures` L58 and L96 state Tenet 2 wrongly — the Map adopts objective collapse as its baseline (tenets.md: "objective reduction with consciousness modulation"), yet the page says the Map "declines" it and that confirming it "would remove the locus where consciousness is proposed to act"
 - **Type**: refine-draft

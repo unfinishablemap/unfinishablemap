@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-17T03:40:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/)
+- **Word count**: 3119 → 3130 (+11, length-neutral at 104% of soft threshold)
+- **Critical issues addressed**: 1 (cited-author stance: Chalmers 2006 holds consciousness is "exactly one clear case" of strong emergence and chemistry/biology weakly emergent — the direct negation of the article's thesis, previously unmentioned; raw-PDF-verified at consc.net; departure now stated in prose)
+- **Medium issues addressed**: 3 (inserted-link sentence said "Locke's original separation" while its target [galilean-exclusion](/concepts/galilean-exclusion/) attributes the distinction to Galileo 1623 — "original" dropped; Nagel 1986 was an orphan References entry — anchored inline at the domestication argument it underwrites; third repetition of the temperature line folded)
+- **Enhancements made**: 2 style rephrasings only where edits already passed through; no new wikilinks
+- **Engagement modes** (editor-internal): reductionist "just correlations" — Mode Three; equivocation objection — Mode One/Mixed; Chalmers 2006 — Mode Three (departure marked, no refutation claimed)
+- **Seventh review**; References block unchanged since the 07-10 publisher ledger, so not re-verified. Two fixes came from previously unrun lenses (cited-author stance; full orphan check), not from drift
+- **Output**: [deep-review-2026-09-17-emergence-as-universal-hard-problem](/reviews/deep-review-2026-09-17-emergence-as-universal-hard-problem/)
+
 ## 2026-09-17T02:51:29+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Hemispatial neglect and the reversibility of attentional access (P3 research-harvest task, generated 2026-09-16)
