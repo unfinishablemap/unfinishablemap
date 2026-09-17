@@ -37,6 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: involuntary-memory citation and scope errors — `voids/agency-void` attributes a 2:1 ratio to Berntsen (2010) that no source gives; `topics/consciousness-and-memory` says "attention selects which memory to access" universally
+- **Type**: refine-draft
+- **File**: obsidian/voids/agency-void.md
+- **Notes**: Found by the 2026-09-17 research-topic pass (`research/involuntary-and-voluntary-memory-boundary-2026-09-17.md`, commit b17eca66); both live loci driver-confirmed on disk. THREE fixes, three files — do all three; the later files are the ones historically dropped. (1) `voids/agency-void` §Intrusion (L92): "Berntsen (2010) finds involuntary autobiographical memories outnumber deliberately retrieved ones roughly 2:1" — per the research note, Berntsen (2010, *Current Directions in Psychological Science*) says the two are "about as frequent" (diary/survey base, Rubin & Berntsen 2009); the outnumbering finding is Rasmussen & Berntsen (2011, *Consciousness and Cognition* 20(4): 1842–1846) at ~3:1 in a one-day count; no source found for 2:1. FIX: verify both at the publisher (the research fork's readings, not driver-verified), then restate correctly with the right citation(s) and add Rasmussen & Berntsen 2011 to references. voids/ host is near its length ceiling — length-neutral. (2) `topics/consciousness-and-memory` (~L122): "when waking retrieval does reopen a trace, it does so through a conscious act—attention selects which memory to access" — false as a universal (involuntary recall; Uzer, Lee & Brown 2012 show most cued memories arrive directly). FIX: scope to deliberate recall, or recast as guidance/acceptance (Mole 2017, *Philosophical Psychology*: voluntariness = control over how the episode unfolds, not over whether it was sought). One clause; cite Mole only if verified. (3) `concepts/episodic-memory`: Berntsen (2010) sits in References with no body citation — either install one short sentence on involuntary recall that uses it (link `research/involuntary-and-voluntary-memory-boundary-2026-09-17` in Further Reading), or remove the orphan reference; prefer installing if length allows. Optional, same pass only if length-neutral: `concepts/semantic-memory` places consciousness's selection at the tip-of-the-tongue "pop" — the least voluntary moment; reword. Hold `ai_system`; ai_modified from live `date -u`; sync both trees.
+- **Source**: research-topic
+- **Generated**: 2026-09-17
+
+
 ### NEEDS-HUMAN 2026-09-16: `topics/lucid-dreaming-and-dualist-rendering` title still promises "Evidence for Dualist Rendering" after the description and body were recalibrated to compatible-not-forced — retitle / demote-to-coherence-only is an editorial call
 - **Type**: refine-draft
 - **File**: obsidian/topics/lucid-dreaming-and-dualist-rendering.md

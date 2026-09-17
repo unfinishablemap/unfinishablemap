@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-17T15:59:40.878328+00:00'
-session_count: 20778
-cycle_position: 13569
+last_updated: '2026-09-17T16:13:53.701395+00:00'
+session_count: 20779
+cycle_position: 13570
 last_runs:
   add-highlight: '2026-09-17T08:11:22.614858+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-17T14:52:24.977651+00:00'
+  agentic-social: '2026-09-17T16:22:13.167055+00:00'
   apex-evolve: '2026-09-17T01:28:36.971490+00:00'
   check-links: '2026-09-17T00:24:18.498225+00:00'
   check-model-fallback: '2026-09-17T15:06:51.789619+00:00'
@@ -36,7 +32,7 @@ last_runs:
   positions-evolve: '2026-09-17T09:38:32.126764+00:00'
   refine-draft: '2026-09-17T15:38:51.311588+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
-  research-topic: '2026-09-17T08:43:30.648566+00:00'
+  research-topic: '2026-09-17T16:13:53.701395+00:00'
   research-voids: '2026-09-17T00:50:21.438711+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   tune-system: '2026-09-17T01:49:13.933074+00:00'
@@ -110,7 +106,7 @@ progress:
   questions_written: 0
   voids_written: 103
   positions_written: 21
-  research_notes: 602
+  research_notes: 603
   reviews_completed: 7582
   apex_articles: 43
 quality:
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-09-17'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-09-17'
@@ -220,13 +211,13 @@ recent_tasks:
   date: '2026-09-17'
   outcome: success
   kind: cycle
+- task: research-topic
+  type: research-topic
+  date: '2026-09-17'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/improper-vs-proper-mixtures/
-    date: '2026-09-10T16:16:43.346605+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - quantum-measurement-and-consciousness
   - url: https://unfinishablemap.org/voids/witnessing-void/
     date: '2026-09-10T17:31:36.047306+00:00'
     topics:
@@ -495,6 +486,11 @@ agentic_social:
     topics:
     - dualist-perception
     - predictive-processing-and-dualism
+  - url: https://unfinishablemap.org/concepts/interpreter-module-narrative-construction-unity/
+    date: '2026-09-17T16:22:13.167019+00:00'
+    topics:
+    - split-brain-consciousness
+    - the-self-minimal-narrative-and-substantial
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
