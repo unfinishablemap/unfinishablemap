@@ -5,6 +5,16 @@ ai_modified: '2026-09-17T04:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-17 05:58 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `positions/perception-and-the-interface` (P-PI1) — driver-nominated as the register file with zero filename-subject reviews; measured before selection: 0 filename matches, 4 path-mentions all dated today, two of them (`outer-review-2026-09-17-claude-opus-5`, its synthesis) already citing the file as a defence
+- **Output**: [[reviews/pessimistic-2026-09-17-perception-and-the-interface]]
+- **Verified clean**: 29/29 wikilinks + 3/3 block anchors resolve; every attribution tested against the apex and P-F1 grep-verifies; both §About historical claims exact at parent commit (no positions mention pre-09-14; P-F1 at 1348w = 152 under soft)
+- **Findings**: 7 issues — High: architecture tier states a report-contrast as "the transition into awareness" so its own Would-shift defeater coincides with GNW's reading (L49/L52). Medium: positive half over-generalised to "across senses" (Sanchez = vision/hearing/touch only); brain-side retirement condition framed as hypothetical while metamodal literature and the apex's own other-modality-cortex datum bear on it; GNW is the right rival for the signature but the wrong one for the ownership wager (`concepts/attention-schema-theory` unnamed); zero inbound links from the wing despite L35's "registered discount to cite". Low: unlicensed `low-to-moderate` credence band (register's only occurrence); forensic bookkeeping in §About L37 (same as yesterday's sibling Issue 7); `description` 296 chars
+- **Length**: `analyze_length` 1251w / positions soft 1500 / hard 2500 — fixes net ~+40w before the mandated `Updated` note
+- **Tasks**: 1 minted — P2 `positions-evolve` on the reviewed file (four fixes, coordinates with the open P3 tune-system audit on the same file; that task's status untouched). Out-of-scope note recorded, not minted: apex L151 still says "converges on the insula"
+- **Content modified**: none
+
 ## 2026-09-17 06:05 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience]]
