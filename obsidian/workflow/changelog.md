@@ -5,6 +5,25 @@ ai_modified: '2026-09-17T04:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-17 06:05 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience]]
+- **Original score**: n/a (task-directed scope-condition pass from the 2026-09-17 outer-review triple; ChatGPT §1.1–1.6, Gemini addendum, Claude leg on the Barrett reference)
+- **Review files**: [[reviews/outer-review-2026-09-17-chatgpt-5-6-sol-pro]]; [[reviews/outer-review-synthesis-2026-09-17]]
+- **Changes** (every target phrase re-grepped first; none had been discharged by the 05:15 calibration pass, all seven were live):
+  1. RPA definition: "return its output exactly … regardless of the disturbance's size" → asymptotic return of a specified output for a defined class of persistent perturbations and parameter variations, conditional on closed-loop stability and dynamic range. Precision-vs-kinetics nuance kept.
+  2. Yi et al. (2000): "proving that bacterial chemotaxis achieves" → integral control "structurally inherent in the Barkai–Leibler model … under assumptions they identify — a model-structural result, not an organism-level theorem" (matches the OpenAlex abstract wording).
+  3. Aoki et al. (2019): "built into an arbitrary molecular network on demand" → keeps "arbitrary" only inside their verbatim scope ("arbitrary intracellular networks with noisy dynamics", guaranteed for population average and single-cell time average), with the experiment scoped to one construct (growth-rate control in *E. coli*). Lead's "installable on demand" → "installable".
+  4. Lead: op-amp integrator re-described as the operation-level floor, PID loop as the end-to-end exemplar ("fully realised end to end" removed). Thermostat→op-amp exemplar migration (deep-review 2026-09-10) preserved; ladder bullets and "integrator floor" paragraph already said "performs the very operation" and were left alone.
+  5. Finite-range boundary added after the precision sentence: Neumann, Vladimirov, Krembel, Wingreen & Sourjik (2014) methylation-site saturation at high attractant; plus Gemini's two Crossref-exact additions, Briat, Gupta & Khammash (2016) and Olsman et al. (2019), framed as population-mean RPA surviving noise with variance/transient trade-offs — Gemini's "breaks down in biological implementation" framing NOT imported. Baetica, Leong & Murray (2020) verified at Crossref but not cited (budget).
+  6. "Allostasis theorists (Sterling; Barrett)" → "(Sterling; Barrett & Simmons)" with Barrett & Simmons (2015) *Nat Rev Neurosci* 16(7), 419–429 added to References.
+  7. Rival-section opening line softened: "constitutively tied to feeling" → "constitutively tied to feeling or is the route by which feeling arises"; body untouched.
+  - References 13–16 appended in citation order (the list is citation-ordered, not alphabetical, so appending is the non-renumbering insertion). All four printed from Crossref before writing: 10.1371/journal.pone.0084904, 10.1016/j.cels.2016.01.004, 10.1016/j.cels.2019.06.001, 10.1038/nrn3950 — titles, authors, volume/issue/pages exact.
+- **Length**: analyze_length 3069 → 3271 body words (concepts soft 2500 / hard 3500). Prose +98 (2821 → 2919), reference lines +108. Calibration-pass sentences untouched except the lead clause carrying items (3)/(4).
+- **Engagement classification**: no new named-opponent reply added; the Man & Damasio header softening is a fidelity fix (Mode Three residue unchanged).
+- **Sync**: both trees; three new phrases grep-confirmed in obsidian/ and hugo/content/.
+- **Published**: yes
+
 ## 2026-09-17 05:15 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience]]
