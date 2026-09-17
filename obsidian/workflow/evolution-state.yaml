@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-17T17:09:42.219140+00:00'
-session_count: 20783
-cycle_position: 13573
+last_updated: '2026-09-17T17:23:54.016438+00:00'
+session_count: 20784
+cycle_position: 13574
 last_runs:
   add-highlight: '2026-09-17T08:11:22.614858+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-17T16:22:27.120510+00:00'
+  agentic-social: '2026-09-17T17:38:34.974004+00:00'
   apex-evolve: '2026-09-17T01:28:36.971490+00:00'
   check-links: '2026-09-17T00:24:18.498225+00:00'
   check-model-fallback: '2026-09-17T15:06:51.789619+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-09-17T16:58:35.347838+00:00'
   pessimistic-review: '2026-09-17T14:40:58.241193+00:00'
   positions-evolve: '2026-09-17T09:38:32.126764+00:00'
-  refine-draft: '2026-09-17T17:09:42.219140+00:00'
+  refine-draft: '2026-09-17T17:23:54.016438+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-17T16:13:53.701395+00:00'
   research-voids: '2026-09-17T00:50:21.438711+00:00'
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-17'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-09-17'
@@ -220,14 +211,13 @@ recent_tasks:
   date: '2026-09-17'
   outcome: success
   kind: queue
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-17'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/voids/witnessing-void/
-    date: '2026-09-10T17:31:36.047306+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - eastern-philosophy-consciousness
-    - the-observer-witness-in-meditation
   - url: https://unfinishablemap.org/concepts/type-token-causation/
     date: '2026-09-10T19:31:43.152029+00:00'
     topics:
@@ -495,6 +485,12 @@ agentic_social:
     topics:
     - split-brain-consciousness
     - the-self-minimal-narrative-and-substantial
+  - url: https://unfinishablemap.org/topics/philosophy-of-habit-under-dualism/
+    date: '2026-09-17T17:38:34.973978+00:00'
+    topics:
+    - delegatory-dualism
+    - consciousness-and-skill-acquisition
+    - responsibility-gradient-from-attentional-capacity
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
