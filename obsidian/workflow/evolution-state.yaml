@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-17T03:42:57.484938+00:00'
-session_count: 20729
+last_updated: '2026-09-17T04:03:02.245371+00:00'
+session_count: 20730
 cycle_position: 13539
 last_runs:
   add-highlight: '2026-09-16T08:04:26.457677+00:00'
@@ -14,7 +14,7 @@ last_runs:
   check-model-fallback: '2026-09-17T02:21:56.891410+00:00'
   check-tenets: '2026-09-17T01:08:13.980793+00:00'
   coalesce: '2026-09-16T20:23:44.353366+00:00'
-  collect-chatgpt-review: '2026-09-16T06:00:15.724383+00:00'
+  collect-chatgpt-review: '2026-09-17T04:03:02.245371+00:00'
   collect-claude-review: '2026-09-16T05:44:37.052480+00:00'
   collect-gemini-review: '2026-09-16T05:31:15.162466+00:00'
   combine-outer-reviews: '2026-09-16T06:27:44.049193+00:00'
@@ -111,7 +111,7 @@ progress:
   voids_written: 103
   positions_written: 21
   research_notes: 600
-  reviews_completed: 7570
+  reviews_completed: 7571
   apex_articles: 43
 quality:
   critical_issues: 0
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-09-16'
-  outcome: success
-  kind: cycle
 - task: research-topic
   type: research-topic
   date: '2026-09-16'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-17'
   outcome: success
   kind: cycle
+- task: collect-chatgpt-review
+  type: collect-chatgpt-review
+  date: '2026-09-17'
+  outcome: success
+  kind: collect
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/synthetic-minimal-agents-and-the-engineered-decoupling/
