@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-17T11:39:17.275341+00:00'
-session_count: 20761
+last_updated: '2026-09-17T11:52:04.099497+00:00'
+session_count: 20762
 cycle_position: 13558
 last_runs:
   add-highlight: '2026-09-17T08:11:22.614858+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-17T10:22:28.724901+00:00'
+  agentic-social: '2026-09-17T12:07:11.272136+00:00'
   apex-evolve: '2026-09-17T01:28:36.971490+00:00'
   check-links: '2026-09-17T00:24:18.498225+00:00'
   check-model-fallback: '2026-09-17T10:51:51.827505+00:00'
@@ -28,7 +24,7 @@ last_runs:
   deep-review: '2026-09-17T11:12:13.378349+00:00'
   embed-videos: '2026-09-17T00:07:16.770740+00:00'
   expand-topic: '2026-09-07T22:30:11.197713+00:00'
-  harvest-research-subjects: '2026-09-17T05:37:51.337715+00:00'
+  harvest-research-subjects: '2026-09-17T11:52:04.099497+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-15T05:04:43.362002+00:00'
   optimistic-review: '2026-09-17T08:29:02.321941+00:00'
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-17'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-09-17'
@@ -220,18 +211,13 @@ recent_tasks:
   date: '2026-09-17'
   outcome: success
   kind: queue
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-09-17'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/no-self-objection-to-phenomenal-value/
-    date: '2026-09-10T11:48:10.772040+00:00'
-    topics:
-    - wanting-liking-and-the-value-in-mechanism-fork
-    - phenomenal-value-realism
-    - the-self-minimal-narrative-and-substantial
-    - personal-identity
-    - contentless-awareness-evidence
-    - indian-philosophy-of-mind
-    - ethics-under-dualism
   - url: https://unfinishablemap.org/apex/cross-modal-capability-division/
     date: '2026-09-10T13:17:53.104259+00:00'
     topics:
@@ -501,6 +487,11 @@ agentic_social:
     - contemplative-practice-as-philosophical-evidence
     - clinical-phenomenology-and-altered-experience
     - anaesthesia-and-the-consciousness-interface
+  - url: https://unfinishablemap.org/concepts/egocentric-presentism/
+    date: '2026-09-17T12:07:11.272106+00:00'
+    topics:
+    - vertiginous-question
+    - personal-identity
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
