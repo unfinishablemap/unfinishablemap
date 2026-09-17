@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-17T17:08:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [leibnizs-mill-argument](/topics/leibnizs-mill-argument/)
+- **Original score**: n/a (task-directed pass; `scripts/curate.py` does not exist)
+- **Changes**: (1) New §Two Mill Arguments: Duncan (2012, PQ 62(247):250–272; OpenAlex abstract re-fetched, both quoted strings grep-verified in the reconstructed abstract) — the 1702 Bayle simplicity route and the *New Essays*/§17 inexplicability route; Lodge (2014) corrected to its abstract's wording (surveys three earlier readings, argues a fourth is needed), so the article's four-step reconstruction is marked as one reading. Simplicity route tied to the unity prong via [P-D1](/positions/arguments-for-dualism/#p-d1), hedged (whether an a priori definition inherits the prong's independence is open). Cost stated openly: the no-inexplicable-connections principle equally bills the Map's brute-but-lawful psychophysical laws (causal-intelligibility horn, history-of-the-interaction-problem §What the Debate Reveals). Duncan added to References. (2) Calibration: emergence reply ("misses Leibniz's point") and mistake reply ("Computation *is* fully captured … Nothing is left over") reframed as the defender's position, each routed back to the knowledge objection's standoff; Chalmers line no longer asserts the gap "is not temporary ignorance" flat; "recognition" → "contention" in §Why the Argument Endures. (3) §Relation Dualism: "provides independent support" replaced with a [P-D1](/positions/arguments-for-dualism/#p-d1) premise-sharing discount (bare `P-D1` autolink). Panpsychism gloss on Leibniz marked as a common reading (idealist reading noted); Further Reading label aligned. Offsets: §Historical Lineage five successor paragraphs tightened, §Relation convergence paragraph condensed. Engagement with the physicalist in §Materialist Responses: Mode Three throughout (standoff marked, not refutation). ai_system held.
+- **Length**: analyze_length 2753 → 2989 (topics soft 3000 / hard 4000; status ok)
+- **Published**: yes
+
 ## 2026-09-17T17:08:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Interaction-problem lineage wing, six articles read in full: topics/history-of-the-interaction-problem, concepts/occasionalism, topics/leibnizs-mill-argument, topics/hylomorphic-dualism-and-the-interaction-problem, topics/sherrington-dualist-lineage, concepts/penfield-interactionist-dualism. Chosen outside every cluster touched on 2026-09-17; no optimistic review has taken these six as a unit. Main finding: Duncan (2012, Crossref and OpenAlex verified) reads the mill as two arguments, one from unity and one from an intelligibility principle, and the second bills the Map's brute psychophysical laws. Zero corpus coverage of the eighteenth-century influxus physicus debate (Watkins 1998 verified).
