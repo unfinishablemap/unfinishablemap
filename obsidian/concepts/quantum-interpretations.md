@@ -4,7 +4,7 @@ description: "Survey of quantum interpretations and their consciousness implicat
 created: 2026-01-17
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-09-16T13:48:49+00:00
+ai_modified: 2026-09-17T21:38:17+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -156,7 +156,7 @@ Whitehead's "actual occasions"—events with physical poles (receiving data) and
 
 Contemplative traditions report that attention can be voluntarily directed and mental content selected—the phenomenal character of willing, not merely belief in free will. Interpretations allowing consciousness-physics interaction accommodate this better.
 
-[[witness-consciousness|Witness consciousness]]—observing mental events without identification—maps onto the distinction between quantum systems (in superposition) and observing consciousness (that for which collapse occurs). Time-symmetric interpretations make this apt: the witness participates atemporally in which correlations hold. Buddhist [[buddhism-and-dualism|anattā]] (no-self) doesn't challenge this—it denies a permanent self, not moment-to-moment experience; the "observer" needn't endure, but can be each moment selecting its own outcome.
+[[witness-consciousness|Witness consciousness]]—observing mental events without identification—maps onto the distinction between quantum systems (in superposition) and observing consciousness (that for which collapse occurs). Time-symmetric interpretations make this apt: the witness participates atemporally in which correlations hold. Buddhist [[buddhism-and-dualism|anattā]] (no-self) does press against this, and a momentary observer does not absorb the pressure. What the traditions share is *mental causation*—mental states make a difference to what happens, which is what [[tenets#^bidirectional-interaction|Bidirectional Interaction]] asserts. What they do not share is the [[agent-causation|agent-causal]] reading the selection mechanism needs: a persisting subject exercising causal powers in its own right, so that there is a subject *whose* selection a given collapse is. An observer reconstituted moment by moment supplies the experience and not that subject; [[non-temporal-consciousness|Non-Temporal Consciousness]] reaches the same verdict from the contemplative side, that a consciousness with no enduring subject cannot collapse a wave function on this mechanism. The divergence is bedrock—the fault line of P-I1's rejection of empty individualism—and is noted here rather than refuted from inside Madhyamaka's own resources.
 
 ## What Would Challenge This View?
 

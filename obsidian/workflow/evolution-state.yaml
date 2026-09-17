@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-17T21:08:11.727933+00:00'
-session_count: 20797
-cycle_position: 13582
+last_updated: '2026-09-17T21:32:08.683532+00:00'
+session_count: 20798
+cycle_position: 13583
 last_runs:
   add-highlight: '2026-09-17T08:11:22.614858+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-09-17T16:58:35.347838+00:00'
   pessimistic-review: '2026-09-17T14:40:58.241193+00:00'
   positions-evolve: '2026-09-17T09:38:32.126764+00:00'
-  refine-draft: '2026-09-17T20:58:14.113950+00:00'
+  refine-draft: '2026-09-17T21:32:08.683532+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-17T20:10:33.199385+00:00'
   research-voids: '2026-09-17T00:50:21.438711+00:00'
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-09-17'
-  outcome: success
-  kind: cycle
 - task: research-topic
   type: research-topic
   date: '2026-09-17'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-17'
   outcome: success
   kind: agentic_social
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-17'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/interface-formalization-void/
