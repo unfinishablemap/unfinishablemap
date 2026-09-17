@@ -4,7 +4,7 @@ description: "How quantum indeterminacy opens space for libertarian free will, a
 created: 2026-01-18
 modified: 2026-08-21
 human_modified: null
-ai_modified: 2026-09-07T02:50:19+00:00
+ai_modified: 2026-09-17T22:41:42+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -175,9 +175,9 @@ Warm neural tissue [[decoherence|decoheres]] quantum superpositions in femtoseco
 
 ## Contemplative Evidence
 
-The contrast between [[witness-consciousness|witnessing]] (effortless observation) and selecting (effortful concentration) fits the picture, and contemplatives report it sharply. An epiphenomenalist can accommodate the same contrast as phenomenology tracking processing demand, so it corroborates the account rather than establishing it.
+The contrast between [[witness-consciousness|witnessing]] (effortless observation) and selecting (effortful concentration) fits the picture, and contemplatives report it sharply. An epiphenomenalist accommodates the same contrast as phenomenology tracking processing demand, so it corroborates rather than establishes the account.
 
-Buddhism's *anattā* might seem to undermine agent causation, but [[buddhism-and-dualism|Buddhism does not deny that consciousness exists]]—it denies permanent ownership. Selection can occur moment to moment without an eternal selector; process [[haecceity]], being *this* selecting awareness at each moment, suffices for authorship.
+Buddhism's *anattā* presses here; a momentary selector does not absorb it. Process [[haecceity]] does real work—*this* stream is distinct from another without permanence—but individuating a selector is not constituting one. [[buddhism-and-dualism|What the traditions share is *mental causation*]], which [[tenets#^bidirectional-interaction|Bidirectional Interaction]] asserts; what they do not share is [[agent-causation|agent causation]], which routes it through a persisting substance-bearing subject *anattā* denies. The divergence is bedrock—P-I1's rejection of empty individualism—[[non-temporal-consciousness|noted, not refuted from inside Madhyamaka's own resources]].
 
 ## What Would Challenge This Framework?
 

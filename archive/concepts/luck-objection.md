@@ -4,7 +4,7 @@ description: "Why indeterminism seems to threaten free will as much as determini
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-08-18T15:31:12+00:00
+ai_modified: 2026-09-17T22:41:42+00:00
 draft: false
 archived: true
 archived_date: 2026-08-18T15:31:12+00:00
@@ -140,7 +140,7 @@ Warm neural tissue [[decoherence|decoheres]] quantum superpositions in femtoseco
 
 The contrast between [[witness-consciousness|witnessing]] (effortless observation) and selecting (effortful concentration) supports genuine causal options. If consciousness were always inert, there would be no phenomenological difference. But contemplatives report a clear distinction: witnessing involves no effort because no selection occurs; concentration involves effort because selection is ongoing.
 
-Buddhism's *anattā* might seem to undermine agent causation, but [[buddhism-and-dualism|Buddhism doesn't deny consciousness exists]]—it denies permanent ownership. Selection can occur moment-to-moment without requiring an eternal selector. Process [[haecceity]]—being *this* selecting awareness at each moment—suffices for genuine authorship.
+Buddhism's *anattā* presses here; a momentary selector does not absorb it. Process [[haecceity]] does real work—*this* stream is distinct from another without permanence—but individuating a selector is not constituting one. [[buddhism-and-dualism|What the traditions share is *mental causation*]], which [[tenets#^bidirectional-interaction|Bidirectional Interaction]] asserts; what they do not share is [[agent-causation|agent causation]], which routes it through a persisting substance-bearing subject *anattā* denies. The divergence is bedrock—P-I1's rejection of empty individualism—[[non-temporal-consciousness|noted, not refuted from inside Madhyamaka's own resources]].
 
 ## Relation to Site Perspective
 

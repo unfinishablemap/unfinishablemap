@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-08-18 15:31:12+00:00
+ai_modified: 2026-09-17 22:41:42+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Quantum Indeterminacy and Free Will
 archived: true
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 22:50:32+00:00
-lastmod: 2026-08-18 15:31:12+00:00
+lastmod: 2026-09-17 22:41:42+00:00
 modified: *id001
 original_path: /concepts/luck-objection/
 related_articles:
@@ -143,7 +143,7 @@ Warm neural tissue [decoheres](/concepts/decoherence/) quantum superpositions in
 
 The contrast between [witnessing](/concepts/witness-consciousness/) (effortless observation) and selecting (effortful concentration) supports genuine causal options. If consciousness were always inert, there would be no phenomenological difference. But contemplatives report a clear distinction: witnessing involves no effort because no selection occurs; concentration involves effort because selection is ongoing.
 
-Buddhism's *anattā* might seem to undermine agent causation, but [Buddhism doesn't deny consciousness exists](/concepts/buddhism-and-dualism/)—it denies permanent ownership. Selection can occur moment-to-moment without requiring an eternal selector. Process [haecceity](/concepts/haecceity/)—being *this* selecting awareness at each moment—suffices for genuine authorship.
+Buddhism's *anattā* presses here; a momentary selector does not absorb it. Process [haecceity](/concepts/haecceity/) does real work—*this* stream is distinct from another without permanence—but individuating a selector is not constituting one. [What the traditions share is *mental causation*](/concepts/buddhism-and-dualism/), which [Bidirectional Interaction](/tenets/#bidirectional-interaction) asserts; what they do not share is [agent causation](/concepts/agent-causation/), which routes it through a persisting substance-bearing subject *anattā* denies. The divergence is bedrock—[P-I1](/positions/individuation-and-subjecthood/#p-i1)'s rejection of empty individualism—[noted, not refuted from inside Madhyamaka's own resources](/topics/non-temporal-consciousness/).
 
 ## Relation to Site Perspective
 

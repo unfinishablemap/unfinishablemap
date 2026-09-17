@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-09-07 02:50:19+00:00
+ai_modified: 2026-09-17 22:41:42+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 09:33:15+00:00
-lastmod: 2026-09-07 02:50:19+00:00
+lastmod: 2026-09-17 22:41:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -178,9 +178,9 @@ Warm neural tissue [decoheres](/concepts/decoherence/) quantum superpositions in
 
 ## Contemplative Evidence
 
-The contrast between [witnessing](/concepts/witness-consciousness/) (effortless observation) and selecting (effortful concentration) fits the picture, and contemplatives report it sharply. An epiphenomenalist can accommodate the same contrast as phenomenology tracking processing demand, so it corroborates the account rather than establishing it.
+The contrast between [witnessing](/concepts/witness-consciousness/) (effortless observation) and selecting (effortful concentration) fits the picture, and contemplatives report it sharply. An epiphenomenalist accommodates the same contrast as phenomenology tracking processing demand, so it corroborates rather than establishes the account.
 
-Buddhism's *anattā* might seem to undermine agent causation, but [Buddhism does not deny that consciousness exists](/concepts/buddhism-and-dualism/)—it denies permanent ownership. Selection can occur moment to moment without an eternal selector; process [haecceity](/concepts/haecceity/), being *this* selecting awareness at each moment, suffices for authorship.
+Buddhism's *anattā* presses here; a momentary selector does not absorb it. Process [haecceity](/concepts/haecceity/) does real work—*this* stream is distinct from another without permanence—but individuating a selector is not constituting one. [What the traditions share is *mental causation*](/concepts/buddhism-and-dualism/), which [Bidirectional Interaction](/tenets/#bidirectional-interaction) asserts; what they do not share is [agent causation](/concepts/agent-causation/), which routes it through a persisting substance-bearing subject *anattā* denies. The divergence is bedrock—[P-I1](/positions/individuation-and-subjecthood/#p-i1)'s rejection of empty individualism—[noted, not refuted from inside Madhyamaka's own resources](/topics/non-temporal-consciousness/).
 
 ## What Would Challenge This Framework?
 
