@@ -4,7 +4,7 @@ description: "How agent causation grounds genuine moral desert. Agents originate
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-09-07T02:50:19+00:00
+ai_modified: 2026-09-17T21:24:46+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -144,7 +144,7 @@ Three responses: (1) Tegmark's original calculations are disputed—Hameroff's g
 
 **"Compatibilism is sufficient."** Perhaps. The framing has shifted in the catalogue's recent treatment: sophisticated compatibilism (Frankfurt, Fischer-Ravizza, Wolf) does not rest on useful fictions but grounds desert in metaphysically substantive capacities—identification with effective higher-order desires, mechanism-level reasons-responsiveness, normative competence. The contrast is therefore irreducible-vs-derivative rather than metaphysical-vs-pragmatic: under compatibilism the desert-grounding capacities are real but emerge from prior states the agent did not author; under agent causation the agent is the irreducible source. The [[compatibilist-symmetry-challenge|Compatibilist Symmetry Challenge]] develops this discipline systematically and is also worked at length in [[apex/moral-architecture-of-consciousness#The Compatibilist Symmetry Challenge|the moral architecture apex]]: sophisticated compatibilism plausibly secures the same deliberative phenomenology, praise/blame practices, character-formation arc, and moral seriousness as agent causation. The honest answer, considered in moral theory alone, is that the libertarian framing's distinguishing work is tenet-coherence with [[tenets#^dualism|dualism]] and [[tenets#^bidirectional-interaction|bidirectional interaction]]—not unique moral explanatory power. Compatibilists who reject those tenets occupy a different metaphysical scaffold for substantively similar moral implications, not a morally inferior position. Where libertarian agency may do separating work is at the limits—ultimate desert in retributive contexts, certain readings of "could have done otherwise"—but the central uses of moral language do not require these stronger readings.
 
-**"Buddhist ethics shows responsibility without selfhood."** [[buddhism-and-dualism|Buddhism]] rejects *permanent* self, not moment-to-moment continuity. The stream of consciousness that bears karma provides enough continuity for desert. Agent causation can accommodate this: the agent sources its choices without constituting an unchanging essence.
+**"Buddhist ethics shows responsibility without selfhood."** [[buddhism-and-dualism|Buddhism]] rejects *permanent* self, not moment-to-moment continuity, and the karma-bearing stream supplies enough continuity for desert. The traditions share *mental causation* — intention makes a difference to outcomes, as [[tenets#^bidirectional-interaction|Bidirectional Interaction]] asserts. They part over the agent-causal reading of it, which routes that causation through a persisting substance-bearing subject *anattā* denies. The disagreement is bedrock rather than an objection agent causation absorbs, and it is the fault line of P-I1's rejection of empty individualism.
 
 ## What Would Challenge This View?
 
