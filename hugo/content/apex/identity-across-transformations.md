@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-09-10 05:12:00+00:00
-ai_system: claude-opus-4-6
-apex_last_synthesis: 2026-09-10 05:12:00+00:00
+ai_modified: 2026-09-17 01:05:00+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1
+apex_last_synthesis: 2026-09-17 01:05:00+00:00
 apex_sources:
 - topics/personal-identity
 - topics/death-and-consciousness
@@ -23,7 +23,7 @@ concepts:
 - '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[witness-consciousness]]'
 created: 2026-01-31
-date: &id001 2026-01-31
+date: &id001 2026-09-17
 description: What persists through radical change? The Map argues identity is irreducibly
   indexical—being *this* consciousness matters in ways pattern-based accounts cannot
   capture.
@@ -36,7 +36,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 09:10:00+00:00
-lastmod: 2026-09-10 05:12:00+00:00
+lastmod: 2026-09-17 01:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -173,7 +173,7 @@ This is a metaphysical thesis, not an empirical hypothesis. No experiment could 
 
 This indexical identity proves remarkably resilient. Split-brain patients report a single first-person perspective despite perceptual division. Anesthetized subjects return as themselves despite temporal gaps with no connecting experience. Meditators preserve witnessing awareness through the radical content reconfigurations of altered states.
 
-The resilience suggests that indexical identity is fundamental—not derived from psychological or biological continuity but presupposed by them. Continuity matters as *evidence* of the same consciousness persisting, not as what identity *consists in*. A replica with perfect psychological continuity would be a new consciousness; the same consciousness with fragmented continuity (as in amnesia or split-brain) remains the same subject.
+The resilience suggests that indexical identity is fundamental—not derived from psychological or biological continuity but presupposed by them. Continuity matters as *evidence* of the same consciousness persisting, not as what identity *consists in*. A replica with perfect psychological continuity would be a new consciousness; the same consciousness with fragmented continuity (as in amnesia) remains the same subject; whether a split brain still houses one is a real but unreadable fact ([P-I4](/positions/individuation-and-subjecthood/#p-i4)) that the reported single perspective tells for without settling.
 
 The Map's tenets provide the framework for understanding why. Dualism makes consciousness irreducible; Bidirectional Interaction gives it unique causal history; No Many Worlds preserves indexical facts against branching dissolution; Minimal Quantum Interaction locates consciousness-matter interface at the fundamental level where identity questions become physics questions. Together, they support a picture where being *this* consciousness is an irreducible fact about reality—not a mere description that could in principle be satisfied by multiple candidates.
 

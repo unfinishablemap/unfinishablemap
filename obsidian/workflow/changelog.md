@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-17T01:07:01+00:00'
+ai_modified: '2026-09-17T01:27:35+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-17T01:27:35+00:00 - apex-evolve
+- **Status**: Complete
+- **Mode**: evolve, driver-directed (three apexes carrying summaries of sources changed 2026-09-16)
+- **Articles**: [[apex/assessing-ai-consciousness-under-the-map]] (dropped "mapped at finer grain by the substrate taxonomy"; added clause that the taxonomy's coarser eligibility predicate yields to the five-requirement channel test on present hardware, linked to `#gate-model-two-standards`), [[apex/what-consciousness-tells-us-about-physics]] (Horn 2 no longer "unpriced" — paragraph now carries the sign problem's own budget arithmetic and its verdict that the direction demand does not fit the ceiling), [[apex/identity-across-transformations]] (split-brain "remains the same subject" scoped to P-I4's booked unreadability)
+- **Changed sources**: 3 (concepts/ai-hardware-substrate-taxonomy, concepts/sign-problem-for-conscious-observation, positions/individuation-and-subjecthood); concepts/direction-of-fit checked — no apex cites it
+- **Word count**: 5035 → 5035; 5453 → 5453; 4393 → 4414 (analyze_length; both hard_warning articles held length-neutral)
+- **Citations**: none added; no publisher verification required
+- **Sync**: done; old strings 0/0 and new strings 1/1 across obsidian + hugo
+- **Review**: [[reviews/apex-evolve-2026-09-17-assessing-ai-consciousness-under-the-map]]
+
 ## 2026-09-17T01:07:01+00:00 - check-tenets
 - **Status**: Warnings
 - **Files checked**: 678 by battery (topics 329, concepts 327, positions 22); 77 delta files (committed since 2026-09-14) read in full by four readers, every locus driver-verified at the cited line
