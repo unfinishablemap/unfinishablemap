@@ -10,6 +10,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-17T07:06:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [process-content-distinction](/concepts/process-content-distinction/)
+- **Word count**: 2258 → 2436 (+178; concepts soft 2500, status ok)
+- **Critical issues addressed**: 4. (1) The 08-08 refine-draft glossed N&W's "sometimes (a)... (b)... and (c)" list as "cumulative/conjoined", but the source is distributive ("sometimes... sometimes... and sometimes", p. 233); rewritten with that quote. (2) The stocking figures "40%/12%, roughly three-to-one" appear nowhere in N&W 1977 (raw-PDF grep: 0 hits); replaced with N&W's own "almost four to one" and "virtually all subjects denied it". (3) Subjects' reasons "knit, sheerness, elasticity, workmanship" were invented ("elasticity" and "workmanship" are absent; "knit, sheerness, and weave" is N&W's hypothetical illustration); removed. (4) Lush (2020) had its qualifier dropped ("reflect" → the source's "may be, partially or entirely, a suggestion effect"), and trait phenomenological control / mirror synaesthesia was attributed to it; split out to Lush et al. (2020) *Nat Commun* 11:4853 (Crossref-verified, reference added).
+- **Medium issues addressed**: 6. Petitmengin 2006 issue 5(3) → 5(3-4) with subtitle restored. Bem "post-decision rationalisation literature he developed" → induced-compliance literature he recast. Block "overflow research" → "overflow argument" drawing on Sperling-style experiments. Description rewritten (it claimed content access is "reliable", contradicting the body; 240 → 159 chars). Content-report tier claim ("typically strongly supported or established") softened to convergence-conditioned. "(below)" → "(above)". The lead no longer calls split-brain work a replication of the N&W paradigm.
+- **Enhancements made**: 1 (added the verbatim N&W anchor "based not on access to process but access to content").
+- **Engagement modes**: heterophenomenology Mode Three (unchanged); pessimist programme Mode One touch (unchanged).
+- **Note**: the 2026-07-10 review's "verified verbatim" and "canonical figures" certifications are withdrawn. Both were from memory, and a raw-text grep shows neither holds. Both trees synced.
+- **Output**: [deep-review-2026-09-17-process-content-distinction](/reviews/deep-review-2026-09-17-process-content-distinction/)
+
+## 2026-09-17T06:53:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [bacterial-chemotaxis-and-minimal-biogenic-cognition](/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/)
+- **Original score**: n/a (targeted outer-review fix; reviews/outer-review-2026-09-17-chatgpt-5-6-sol-pro.md)
+- **Changes**: (a) Precision boundary installed at the "Adapt and remember" step: near-perfect adaptation holds over a finite range; receptor methylation sites saturate at high attractant concentrations and adaptation grows imprecise (Neumann et al. 2014). Reference reused verbatim from the sibling concepts/near-perfect-adaptation article (c3f703876d) and re-verified 2026-09-17 via Crossref (5 authors, PLoS ONE 9(1), DOI resolves; e-number from DOI) and the Europe PMC abstract (PMID 24416308: "increasingly imprecise adaptation to higher concentrations of attractants", "gradual saturation of receptor methylation sites"). Inserted as ref 9 alphabetically; refs 9-12 renumbered to 10-13 (no inline numeric citations in the body). (b) Vocabulary guard: "remember" = present state depends on past input, "decide" = state shifts run/tumble probability; deliberative or phenomenal decision is a stronger claim chemotaxis does not establish. Length held under soft: trimmed "Howard"/"of that 1972 work", "biochemical", "measurably" — body 2925 -> 2998 (topics soft 3000, status ok). Both trees synced. No named-opponent reply changed (no mode classification needed).
+- **Published**: yes
+
 ## 2026-09-17T06:30:30+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Control-architecture distinctions and the competency ladder (good-regulator theorem, internal model principle, Rosenblueth-Wiener-Bigelow purposive behaviour)
