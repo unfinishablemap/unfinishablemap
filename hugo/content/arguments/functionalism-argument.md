@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-31 12:20:51+00:00
+ai_modified: 2026-09-18 13:59:00+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 19:36:00+00:00
-lastmod: 2026-07-31 12:20:51+00:00
+lastmod: 2026-09-18 13:59:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -43,7 +43,7 @@ Functionalism holds that mental states are defined by their functional roles—w
 
 The Unfinishable Map's [Dualism](/tenets/#dualism) tenet rejects this. Consciousness is not reducible to functional organization—something beyond causal structure determines whether and how experience occurs. This article assembles the case against functionalism from five arguments.
 
-They are not five independent confirmations: Arguments 1 and 2 share a contested modal premise, Argument 5 restates Argument 1 without the modality, Argument 3's reach beyond semantics is a conjecture, and Argument 4 states the Map's alternative rather than a refutation. The concluding section sets out the dependencies.
+They are not [five independent confirmations](/positions/arguments-for-dualism/#p-d1): Arguments 1 and 2 share a contested modal premise, Argument 5 restates Argument 1 without the modality, Argument 3's reach beyond semantics is a conjecture, and Argument 4 states the Map's alternative rather than a refutation. The concluding section sets out the dependencies.
 
 ## Argument 1: The Absent Qualia Argument
 
@@ -107,7 +107,7 @@ The functionalist replies with the Systems Reply: the *system*—you plus the ro
 
 The exchange does not end there, and presenting Searle's half as decisive overstates it. The standard rejoinder is that memorizing the rules implements a *second*, distinct system inside the first; understanding is attributed to that system, not to its host, whose failure to find it by introspection is exactly what the reply predicts. Searle counters that this multiplies systems to order. The Map takes his side; the dispute remains live.
 
-Syntax isn't semantics. Whether that extends to phenomenal properties is a further question the argument does not settle: Searle's target is intentionality—what a state is *about*—and no premise above concerns what a state is *like*. The extension is a conjecture, not a corollary. If implementing the right program fails to fix even semantic content, the functionalist owes an account of why it should fix phenomenal character. That shifts a burden without discharging one, and the conclusion below doesn't need the Chinese Room to reach past semantics.
+Syntax isn't semantics. Whether that extends to phenomenal properties is a further question the argument does not settle: Searle's target is intentionality—what a state is *about*—and no premise above concerns what a state is *like*. The extension is a conjecture, not a corollary; the missing bridge is the [phenomenal constitution thesis](/concepts/phenomenal-constitution-thesis/). If implementing the right program fails to fix even semantic content, the functionalist owes an account of why it should fix phenomenal character. That shifts a burden without discharging one, and the conclusion below doesn't need the Chinese Room to reach past semantics.
 
 ## Argument 4: Multiple Realizability Cuts Both Ways
 
@@ -119,7 +119,7 @@ Syntax isn't semantics. Whether that extends to phenomenal properties is a furth
 
 **Conclusion**: The multiple realizability that motivates functionalism also undermines it.
 
-Multiple realizability seems to support functionalism. We attribute pain to humans, dogs, and (hypothetically) aliens—despite different neural implementations. What matters is the functional role, not the substrate.
+Multiple realizability seems to support functionalism. We attribute pain to humans, dogs, and (hypothetically) aliens—despite different neural implementations.
 
 But the inference is too quick. That *behavior* is multiply realizable doesn't mean *experience* is.
 
@@ -229,7 +229,7 @@ Counting the arguments as five independent confirmations would overstate the cas
 | 4. Multiple realizability | The functionalist owes an account of why complexity yields experience | The burden-shift alone; the substrate claim completing it is framework |
 | 5. Explanatory gap | Functional description doesn't explain experience | Nothing modal—Argument 1's observation without the possibility claim |
 
-The third column is the accounting. Arguments 1 and 2 are one dependency, not two; Argument 5 is Argument 1 without the modality, a strength—it survives if the bridge fails—but not a separate confirmation; Argument 4's substrate claim comes from within the Map's framework. What survives is a case with two legs sharing no premise—the modal leg (1 and 2) and the explanatory leg (3, 4's burden-shift, and 5)—both pointing the same way, neither refuting functionalism from inside.
+The third column is the accounting. Arguments 1 and 2 are [one dependency, not two](/positions/arguments-for-dualism/#p-d1); Argument 5 is Argument 1 without the modality, a strength—it survives if the bridge fails—but not a separate confirmation; Argument 4's substrate claim comes from within the Map's framework. What survives is a case with two legs sharing no premise—the modal leg (1 and 2) and the explanatory leg (3, 4's burden-shift, and 5)—both pointing the same way, neither refuting functionalism from inside.
 
 The Map's commitment to [interactionist dualism](/concepts/interactionist-dualism/) is held on that calibrated basis, not on a claim that five arguments have independently closed the question. It remains a substantial case: the felt quality of experience is not captured by causal structure, and no functionalist account on offer has met the burden of showing otherwise. That failure points toward dualism—not as dogma, but as the view that takes consciousness most seriously.
 

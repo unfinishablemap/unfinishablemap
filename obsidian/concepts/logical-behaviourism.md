@@ -4,7 +4,7 @@ description: "Logical behaviourism—the thesis that mental terms mean behaviour
 created: 2026-07-13
 modified: 2026-07-13
 human_modified:
-ai_modified: 2026-07-13T03:50:47+00:00
+ai_modified: 2026-09-18T13:59:00+00:00
 draft: false
 topics:
   - "[[history-of-the-interaction-problem]]"
@@ -66,6 +66,8 @@ Logical behaviourism did not fall to dualists. It fell to the materialists who s
 Logical behaviourism is best understood as the opening move of a sequence, each term of which the Map treats in its own right. [[type-identity-theory|Type-identity theory]] (U. T. Place, 1956; J. J. C. Smart, 1959) kept materialism but replaced translation with *identity*: mental states are contingently identical to brain states, not equivalent in meaning to behaviour—a move made expressly to accommodate the occurrent, felt character behaviourism could not. [[functionalism|Functionalism]] (Putnam's own later programme) resolved the circularity objection by defining mental states through their causal roles, other mental states included. [[eliminative-materialism|Eliminative materialism]] took the harder line that the folk-psychological terms name nothing and should be retired outright. [[biological-naturalism|Biological naturalism]] (Searle) is a later off-shoot insisting consciousness is a real, caused biological phenomenon rather than a behavioural or computational one.
 
 The Map covers each of these elsewhere and does not re-derive them here. The point of the present article is to supply the *predecessor* they all react against—the first attempt to dissolve the mind into behaviour, and the failure that set the agenda for everything after. Reading the lineage forward, one watches materialism repeatedly concede the same thing: that the felt, occurrent inner state is not captured by outer behaviour, and that the theory must be revised to make room for it. The dualist watches that concession accumulate.
+
+The second term of the lineage is where the Map's own cumulative case is set out, in [[arguments/functionalism-argument|Against Functionalism]], and the continuity with this article is direct. The residue objection above reappears there as the explanatory gap. The super-Spartan—a felt state surviving the removal of every behavioural fact—reappears as the absent-qualia argument, with *function* standing where behaviourism had put *behaviour*. Putnam's case against behaviourism and the dualist's case against Putnam's successor programme have the same shape, which is why the concession accumulates rather than merely repeating.
 
 ## Relation to Site Perspective
 

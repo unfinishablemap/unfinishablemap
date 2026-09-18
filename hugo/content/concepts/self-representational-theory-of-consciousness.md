@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-13
-ai_modified: 2026-07-20 00:02:30+00:00
+ai_modified: 2026-09-18 13:59:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 21:16:15+00:00
-lastmod: 2026-07-20 00:02:30+00:00
+lastmod: 2026-09-18 13:59:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -87,6 +87,8 @@ Four lines of objection recur, and the Map regards them as jointly sufficient to
 The strongest dialectical point against the theory comes from inside it. Its most sophisticated defenders have been migrating from *representation* to *acquaintance* — a primitive, non-representational self-presence that Williford's regress analysis treats as an "irreducibly circular" relation-instance. Williford's later work makes acquaintance, not representation, the bearer of subjective character. Anna Giustina's "An Acquaintance Alternative to Self-Representationalism" (*Philosophical Studies*, 2022) argues that phenomenal consciousness is fundamentally explained by acquaintance and only partly, if at all, by representation — marking the live successor debate as self-representation *versus* inner acquaintance, no longer self-representation versus higher-order theory. Kriegel's own recent work engages increasingly with acquaintance.
 
 The Map reads this drift as suggestive: the theory's own resources proved insufficient for for-me-ness, and its defenders reached for a primitive presence that representation could not supply. The caution the observation demands is that the drift is a sociological-cum-dialectical trend among Kriegel's own defenders, not a metaphysical verdict, and it points less far than the Map would like. What Williford and Giustina establish is that *acquaintance is non-representational* — that phenomenal presence is not a representational achievement. That is a weaker claim than *acquaintance is non-physical*, and weaker still than *acquaintance is a genuine causal relatum in a mind-world interaction*. Giustina and Williford are acquaintance **primitivists**, and primitivism about acquaintance is standardly offered as a broadly naturalistic monism, not a dualism; neither takes the further metaphysical steps the Map does. What the drift does supply is the terrain of [phenomenal presentation](/concepts/phenomenal-presentation/) — the felt showing-up of experience that outruns any structural or representational reconstruction — while leaving open how that presence is finally placed.
+
+Reading the drift for more than that would be [possibility/probability slippage](/concepts/possibility-probability-slippage/): a defeater has been removed — representation, on the defenders' own account, cannot deliver presence — and defeater-removal keeps the Map's reading live without supplying positive evidence for it. The drift makes non-representational presence a serious option; it does not raise the probability that the option is *dualist* rather than primitivist-naturalist, which is the reading its own authors take.
 
 ## Relation to Site Perspective
 

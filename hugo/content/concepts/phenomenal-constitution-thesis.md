@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-26
-ai_modified: 2026-08-04 11:15:00+00:00
+ai_modified: 2026-09-18 13:59:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-04 11:15:00+00:00
-lastmod: 2026-08-04 11:15:00+00:00
+lastmod: 2026-09-18 13:59:00+00:00
 modified: *id001
 related_articles:
 - '[[cognitive-phenomenology]]'
@@ -85,7 +85,9 @@ The Map holds PCT as an *abductive bet*, not a demonstrated truth, and the modal
 - **Understanding versus processing.** Genuine comprehension carries a phenomenal character of grasping that mere symbol-processing lacks—the felt difference between following a proof and verifying it mechanically.
 - **The unity of the explananda.** PCT offers one account of all of these, where weak liberalism and deflationism handle them piecemeal.
 
-The honest opposition is real and the Map does not understate it. The deflationary view (Tye, Dretske, Prinz) holds that apparent cognitive phenomenology reduces to accompanying sensory imagery, inner speech, or affect, so there is no proprietary cognitive phenomenal character to do constitutive work at all. Weak liberalism grants proprietary phenomenology but assigns content-determinacy to non-phenomenal machinery. PCT must beat both abductively rather than by demonstration. Consequently, downstream applications that lean on it—the [symbol-grounding diagnosis](/concepts/symbol-grounding-problem/), the Chinese Room verdict, and AI-understanding skepticism across the [consciousness typology](/concepts/ai-consciousness-typology/)—are *conditional* on PCT. A reader unpersuaded by the abductive case should treat those conclusions as conditional too.
+The honest opposition is real and the Map does not understate it. The deflationary view (Tye, Dretske, Prinz) holds that apparent cognitive phenomenology reduces to accompanying sensory imagery, inner speech, or affect, so there is no proprietary cognitive phenomenal character to do constitutive work at all. Weak liberalism grants proprietary phenomenology but assigns content-determinacy to non-phenomenal machinery. PCT must beat both abductively rather than by demonstration. Consequently, downstream applications that lean on it—the [symbol-grounding diagnosis](/concepts/symbol-grounding-problem/), the [Chinese Room verdict](/arguments/functionalism-argument/), and AI-understanding skepticism across the [consciousness typology](/concepts/ai-consciousness-typology/)—are *conditional* on PCT. A reader unpersuaded by the abductive case should treat those conclusions as conditional too.
+
+The conditionality is stated from the other side as well. [Against Functionalism](/arguments/functionalism-argument/) runs the Chinese Room against *semantic* content and then declines to extend it, marking the reach into phenomenal character as a conjecture rather than a corollary—Searle's premises concern what a state is *about*, none of them what it is *like*. PCT is the bridge premise that would convert the conjecture into a corollary: if phenomenal character constitutes content, then a system lacking phenomenal character lacks not only understanding but the determinate meaning understanding would grasp, and the semantic verdict carries phenomenal weight by entailment rather than by analogy. The two articles state halves of one thought, and both halves are conditional on the abductive bet made here.
 
 ## Relation to Site Perspective
 
