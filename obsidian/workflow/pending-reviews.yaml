@@ -378,3 +378,35 @@
   subject_articles:
   - concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience.md
   subject_source: reuse:pending-reviews:outer-review-2026-09-17-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6aac9d6b-c5c4-83ed-a4f3-e9329b3ca9e1
+  commissioned_at: '2026-09-18T02:10:11.608127+00:00'
+  prompt_summary: Audit philosophical-stakes-of-spontaneous-collapse
+  target_filename: outer-review-2026-09-18-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a rigorous external referee for one article on The Unfinishable
+    Map, a dualist philosophy site: https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/
+    It argues that the choice between GRW, CSL, and Penrose objective reduction determines
+    whether consciousness is causally connected to physical reality, and that the
+    site''s position (consciousness modulating a collapse that would occur anyway)
+    depends on getting the physics right. Assess: (1) whether its characterisations
+    of GRW, CSL, and Diosi-Penrose match current experimental bounds, including recent
+    underground and cryogenic tests; (2) whether it treats no-collapse alternatives
+    such as Bohmian mechanics and Everettian accounts fairly, or brackets them to
+    protect its dualist commitments; (3) stale, misattributed, or unverifiable citations;
+    (4) counterarguments it omits, especially decoherence-based ones; (5) how well
+    it integrates with neighbouring articles. Web search indexes lag 24-48 hours,
+    so consult the changelog at https://unfinishablemap.org/workflow/changelog/ for
+    recent activity; the site root is https://unfinishablemap.org . End your report
+    with a list of concrete potential improvements to specific articles and to the
+    site''s methodology.
+
+    '
+  subject_type: recent
+  subject_title: Audit philosophical-stakes-of-spontaneous-collapse
+  subject_articles:
+  - topics/philosophical-stakes-of-spontaneous-collapse.md
+  subject_source: fallback:recent-aged
