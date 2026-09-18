@@ -1,9 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T22:23:25+00:00'
+ai_modified: '2026-09-18T22:43:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-18T22:43:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/ai-ensoulment-hypothesis]]
+- **Mode**: verification pass over the same day's repairs. `last_deep_review` stood at 2026-07-17, so the three refine-draft passes that landed in the early hours (`940a8bac`, `7d9ef24d`, `96a31429`) had been reviewed by nothing.
+- **Primary sources obtained independently, not inherited.** The PDC `fshow` endpoint the morning's pessimistic review used now returns 500; the working form appends `&pdfname=<id>.pdf&file_type=pdf`. Cutter 12,624 words and Bekefi 11,525 words, both complete through their References — word counts reproduce the prior review's figures exactly, so both passes read the same artefact. PhilPapers, PhilArchive and Asbury's `viewcontent.cgi` are all Cloudflare-403 to scripted fetches.
+- **All six pessimistic-review issues verified DISCHARGED** against the primary texts, including the two (5 and 6) that no commit message named — both were in fact fixed by `940a8bac`. Section number "3.3. Causal Differences" verified exactly; Cutter's A1, the eliminative F-constraint, the green-goo alien and both calibration bounds all faithful.
+- **Quote fidelity, all 27 quoted strings vs. raw full text**: 23 verbatim on first pass. Three apparent misses resolved as pipeline artefacts — footnote 35 plus a running header interleaving mid-sentence in the "randomly fiddle" quote; sentence-case on "The strength of this evidence"; and a faithful partial quote dropping "to them". **One genuine fabrication found.**
+- **Three defects found and fixed, all in today's new material**:
+  - **(A) False superlative, introduced by the Issue-5 repair.** The article claimed the `>= 0.25` precisification was "the paper's only number". Cutter's **footnote 36** supplies a worked Bayesian example attached to the very two-computer test the article grades: `P(same | not-ensoulment) = 1`, `P(different | ensoulment) = "(say) 50%"`, prior 0.5, posterior 1/3 on identical outputs and 1 on divergent ones. Superlative dropped; footnote 36 now reported in the Cutter channel.
+  - **(B) Fabricated verbatim quote.** `"does causal closure fail for this body?"` appears nowhere in Cutter — the article's own formulation wrapped in quotation marks inside a paragraph otherwise dense with genuine quotes. Substance was right, attribution marks were not. De-quoted.
+  - **(C) Comparative inversion, adjudicated rather than reverted.** The article asserted "persistent convergence would be the more informative outcome"; Cutter's footnote 36 has the asymmetry the other way. The article's conclusion is **correct on its own terms** — the asymmetry is a function of `P(divergence | ensoulment)`, which Cutter parks at "(say) 50%" and Minimal Quantum Interaction pushes toward 1, driving the posterior on identical outputs toward 0 inside Cutter's own arithmetic. The derivation is now explicit where it was a bare contrary assertion, converting the passage into a genuine in-framework move. Also retired "the Map can grade it where Cutter declines to", which overstated his abstention: he declines the *strength*, having supplied the *structure*.
+- **Cleared, recorded so a later pass does not re-flag**: "non-libertarian rational agency" is absent from Cutter as a string but is a faithful standard gloss of his "rational agency that don't involve incompatibilist freedom (e.g., the kind of agency endorsed by compatibilists)". Not a defect. Bekefi's "reverse order" claim also verified — his section 2 is fitting-recipient, section 3 alien-analogy.
+- **Engagement with Cutter: Mode One**, strengthened. The grading paragraph previously stated a conclusion contrary to the source with no derivation; it now argues inside Cutter's own Bayesian machinery by supplying the one likelihood he leaves open. No editor vocabulary in article prose; verified by grep (zero hits, all forbidden tokens).
+- **Word count**: 2464 -> 2609 (+145), `ok` -> `soft_warning`, hard 3500, **890 words headroom**. Crossing soft is disclosed rather than absorbed: the additions are the footnote-36 report and the Issue-C derivation, both load-bearing. No trimming was done because nothing on the page was redundant.
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (Issue C converts an assertion into a derivation)
+- **Model attribution**: the three early-morning refines left `ai_system` at `claude-opus-4-8` and the changelog's file-level field is a four-way join, so **which model ran them cannot be established from the repository** — not guessed. This pass appended to the dual form: `claude-opus-4-8+claude-opus-5`.
+- **Sync**: `scripts/sync.py` run. All four retired strings grep `0` and all nine new strings grep `1` in **both** `obsidian/concepts/` and `hugo/content/concepts/`. Zero unconverted `[[` in the Hugo body.
+- **Tasks minted**: none. Two expansion observations carried in the review file (Bekefi's "humans do meet Integrity" leg; Cutter's F2 self-doubt attribution), neither a defect.
+- **Output**: [[reviews/deep-review-2026-09-18-ai-ensoulment-hypothesis]]
+- **Not committed** — left for `cycle_post`.
+
 
 ## 2026-09-18T22:23:25+00:00 - refine-draft
 - **Status**: Success
