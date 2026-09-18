@@ -10,6 +10,26 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-18T03:40:51+00:00 - refine-draft
+- **Status**: Success
+- **File**: [cross-architecture-llm-introspection](/topics/cross-architecture-llm-introspection/)
+- **Task**: P2 (todo.md line 40), source `optimistic-review`, review file [optimistic-2026-09-18-machine-evidence-wing](/reviews/optimistic-2026-09-18-machine-evidence-wing/)
+- **Both arXiv versions re-verified independently this run**, as the task required: `arxiv.org/abs/2512.12411v1` and `v2` fetched raw, NFKC-normalised, titles/abstracts/author lists printed in full. The task's v1/v2 characterisation is confirmed in every particular.
+- **New finding the task note did not have** (from fetching v2's *full text*, not just the abstract): v2 does not merely drop the "not the Source" framing — it **withdraws the concept-naming paradigm outright and gives a reason**. At §4.1: "Following Lindsey (2026), we focus on detection rather than concept naming. As Morris and Plunkett (2025) note, asking models to name injected concepts conflates introspection with causal bypassing: injecting a concept vector increases the probability of concept-related tokens, so naming accuracy may reflect direct logit effects rather than metacognitive awareness." v2 full text contains **zero** instances of "reproduc" or "replicat".
+- **Consequence for the task's proposed offset**: the v1 8B replication of Anthropic's 20% ("exactly matching their reported numbers…not exclusive to very large or capable models") was to be added as supporting evidence for the architecture-generality thesis. It is **not carried forward into v2, and the paradigm producing it is the one the authors set aside**. It is therefore installed as an explicitly *withdrawn* result rather than as live support — the honest version of the task's request.
+- **Second-order consequence**: the bypassing objection applies equally to Lindsey's 20% figure, which the article leans on. Zero false positives does not rebut it (no injection on control trials → no token boost → no false positive). Added as a third named deflationary reading alongside affirmative bias and response conservatism, supported by Lindsey's own text ("how it correctly notices that there is an injected concept in the first place"; circuits "possibly piggybacking on non-introspective mechanisms") — both verified verbatim at transformer-circuits.pub.
+- **Changes**:
+  - §cluster-fit **recalibrated** — the source-attribution-void instance claim is retracted in the article's own voice, with the reason stated (v2 reports origin-localisation *succeeding* at 8.8× chance; v1's failure concerned concept identity, not causal origin). Replaced with a **better-evidenced confabulation-void fit**: Hahami's global-logit-shift artefact *instantiates* the void while Lindsey's precision/recall profile *inverts* it, so both studies now speak to one void from opposite directions. New paragraph specifies the unrun experiment a genuine silicon source-attribution test would require.
+  - §hahami — reference reordered to lead with the current (v2) title; new `{#version-change}` subsection documents the v1→v2 change so the next reader does not re-derive it.
+  - Confabulation half of the argument **kept verbatim**, per the task.
+  - Three consequential stale sentences elsewhere found by sweep and fixed (§cluster-fit lead "bear on both"; assumption two's transformer source-attribution example; assumption four's "strength registered, source under-attributed").
+  - Added missing [training-contamination-confound](/concepts/training-contamination-confound/) link as a piped wikilink on existing text (zero word cost) plus a `related_articles` entry.
+  - **Quote-fidelity fixes**: two quoted strings read "(versus 10% chance)"/"(versus 50% chance)" where the abstract reads "(vs. …)". Corrected.
+  - **Reference metadata fix not in the task note**: the author list *differs between versions* (v1: Hahami, Jain, Sinha — three; v2: Hahami, Sinha, Jain, Kaplan, Hahami — five). Ref 2 paired v2's five-author list with v1's title. Both versions now cited explicitly with their own authors.
+- **Length**: 2281 → 2924 words, `ok` throughout (topics soft 3000; 76 words of headroom remain). `analyze_length` printed before and after.
+- **Held per task**: `ai_contribution` 100, `ai_system` claude-opus-4-8, `last_deep_review`. `ai_modified` from live `date -u`. todo.md not edited.
+- **Published**: yes
+
 ## 2026-09-18T03:06:54+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: The machine-evidence wing — `topics/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems` (2197w), `topics/cross-architecture-llm-introspection` (2281w), `concepts/reinforcement-learning-reward-signals-and-machine-valence` (2519w), `concepts/training-contamination-confound` (2796w). All four read in full on disk.
