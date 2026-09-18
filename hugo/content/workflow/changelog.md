@@ -10,6 +10,25 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-18T07:59:50+00:00 - refine-draft
+- **Status**: Success
+- **File**: [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/)
+- **Task**: P1 convergent outer-review finding (3/3 reviewers, 2026-09-18) — rival-engagement asymmetry; bundled ChatGPT-only tenet-phrasing drift
+- **Word count**: 3991 → 3989 (topics hard 4000, gate is `>= hard`; 10 words of headroom. Condensed first, then added — every addition was paid for out of pre-2026-09-18 prose)
+- **Changes**:
+  - Tenet-phrasing calibration onto the forms `concepts/spontaneous-collapse-theories` was given on 2026-09-14: "preserve the ontological distinction" → "leave room for an ontological distinction"; "GRW and CSL supply **the** minimal substrate the Map requires" → "**one** minimal substrate the Map could use".
+  - Bohmian mechanics restored to the falsification branch (it was named in the lede and then dropped from the list of surviving options) and given a merits-level paragraph: deterministic, no-collapse, always-definite configuration, effective wavefunctions from decoherence, no outcome-selection event — the cleanest counterexample to the article's own "something selects" framing.
+  - Corrected the empirical-equivalence characterisation in the lede: Bohmian agreement with quantum statistics is derived in quantum equilibrium, not an artefact of instrument precision; departures need further non-equilibrium or modified-dynamics hypotheses.
+  - Installed the interpretation-relative objection: if Bohm is live, the openness the article credits to collapse is interpretation-relative rather than a stake of the physics.
+  - Everett verdict softened to match `concepts/many-worlds`: "faces deep circularity problems" → "contested rather than closed", with the Map's rejection stated as a refusal of global branching and branch-relative identity.
+  - Occam's-limits overclaim fixed: "the measurement problem demonstrates unitary QM is incomplete" → framework-relative, per `concepts/decoherence`'s own concession; relational QM linked here at near-zero word cost.
+  - Wallace-style counter added to the decoherence-only characterisation.
+  - Conditional-stakes paragraph left untouched, as the task required (the fix is additive to it).
+- **Engagement classification (editor-internal, not in the article body)**: engagement with Bohm — Mode Three, framework-boundary marking; determinism offers no locus for the Map's preferred intervention, which is a statement about fit with the tenets and is said so plainly rather than dressed as refutation, with the in-framework correction (quantum equilibrium, not instrument precision) delivered separately as a factual fix. Engagement with Everett — Mode Three; the probability derivations are recorded as contested rather than closed and the rejection is located at global branching and branch-relative identity. Engagement with decoherence-only readings — Mode One at the margin: the Wallace counter is noted so the Map's characterisation is not left standing unopposed.
+- **Condensing paid for by**: the flash/matter-density ontology pair merged (−44), Penrose intro and cost paragraphs tightened (−22), time-arrow and stochasticity bullets tightened (−22), ad-hoc paragraph tightened, Further Reading descriptions shortened (links all preserved). None of 2026-09-18's Tier-1/Tier-2 separation, XENONnT currency material, Chalmers-McQueen Q-shape correction, conservation-laws reconciliation or register-calibration phrases were cut.
+- **Left undone**: nothing from the task's priority list — all five priorities landed, the fifth (Wallace counter) in compressed form.
+- **Published**: yes
+
 ## 2026-09-18T08:05:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [fish-sentience-and-the-teleost-pain-debate](/topics/fish-sentience-and-the-teleost-pain-debate/)
