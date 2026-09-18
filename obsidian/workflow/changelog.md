@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T02:05:00+00:00'
+ai_modified: '2026-09-18T04:27:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-18T04:27:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`)
+- **File**: [[reviews/outer-review-2026-09-18-chatgpt-5-6-sol-pro]]
+- **Subject**: `topics/philosophical-stakes-of-spontaneous-collapse` (recent-aged fallback; today's shared subject for all three services)
+- **Collection**: 36,226-char response extracted via page-side Blob download rather than chunked reads (the MCP content filter blocked 3,000-char slices as query-string data). SHA-256 of the page-side buffer matched the landed file exactly — `29be83ab…9821`, 36,685 bytes — so the body is verified complete, not merely plausible. Verdict: **major revision**.
+- **Claims verified**: 9 (7 confirmed, 1 partly overstated by the reviewer, plus 3 leads explicitly left unverified)
+- **High-value findings**: 4
+- **Headline**: the article's lede — "It determines whether consciousness is causally connected to physical reality at the deepest level" — directly contradicts `topics/testing-consciousness-collapse`'s own "confirming that collapse is real would not confirm that consciousness drives it". Both quoted verbatim from disk this run.
+- **Strongest single finding, verified at the primary source**: the article attributes a scalar-Φ collapse model to Chalmers & McQueen. arXiv:2105.02314 rejects exactly that model in terms — "A collapse model base[d] only on Φ would fail to collapse this superposition, despite it being a superposition of conscious states" — and collapses onto **Q-shape** instead (151 occurrences in the paper, 0 in the Map's article). Their abstract's quantum-Zeno falsification of simple versions is also omitted. A claim-to-source fidelity defect, not a metadata one: the reference is real and correctly attributed, and supports a different proposition than the one hung on it.
+- **Cluster drift, measured**: `XENONnT` appears 5× in `topics/penrose-gravity-induced-collapse-empirical-prospects`, 0× in the audited article, 0× in `concepts/spontaneous-collapse-theories`. The calibrated phrasings "one minimal design" / "leave room for the causal connection" landed in the sibling on 2026-09-14; the audited article still carries "provide the minimal design" / "preserve the ontological distinction". The cluster updates article-by-article rather than as a shared model.
+- **Also confirmed**: the Majorana Demonstrator is mis-dated (the article implies the August of the 2020 Donadi result; it published 16 August 2022) and mis-described as a "confirmation" of an independent white-CSL search; Bohmian mechanics is named in the lede then dropped from the falsification branch; tails and no-signalling are absent entirely.
+- **Reviewer partly overstated one charge**: "carrying forward a 2022 journalistic verdict" understates the article's existing hedging — it already flags that the verdict "dates from 2022, not from the present" and poses the currency question explicitly. The defect is narrower than claimed: supply the answer the Penrose article already holds, rather than install a calibration the article lacks.
+- **Left unverified, recorded as leads only**: the 9.1σ figure, the λ/r_C² bound, the January 2026 sodium-nanoparticle interferometry result, the 2025 LISA Pathfinder rotational-noise analysis, and "Pedalino et al. 2026" (cited nowhere in the review). Only the R₀ bound was corroborated internally.
+- **Tasks generated**: 4 (P1: 3, P2: 1). The P2 carries the [[direct-refutation-discipline]] remit for the Bohmian/Everett engagement. The review's remaining findings — tails, no-signalling, the preferred-basis problem at the psychophysical level, randomness-is-not-control, relativistic completion, and the empirical-bounds dependency ledger — were deliberately **not** minted and are re-carried in the review file's Verification Notes instead, to avoid a task pileup on one article.
+- **Published**: not yet (obsidian only; sync pending)
 
 ## 2026-09-18T03:40:51+00:00 - refine-draft
 - **Status**: Success

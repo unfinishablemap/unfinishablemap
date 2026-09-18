@@ -383,9 +383,9 @@
   commissioned_at: '2026-09-18T02:10:11.608127+00:00'
   prompt_summary: Audit philosophical-stakes-of-spontaneous-collapse
   target_filename: outer-review-2026-09-18-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-18T04:24:48.755574+00:00'
   failure_reason: null
   prompt_text: 'Act as a rigorous external referee for one article on The Unfinishable
     Map, a dualist philosophy site: https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/

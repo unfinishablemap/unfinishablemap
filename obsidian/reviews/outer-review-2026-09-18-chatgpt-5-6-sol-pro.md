@@ -1,10 +1,58 @@
+---
+title: "Outer Review - ChatGPT 5.6 Pro (2026-09-18)"
+created: 2026-09-18
+modified: 2026-09-18
+human_modified: null
+ai_modified: 2026-09-18T04:27:00+00:00
+draft: false
+description: "ChatGPT 5.6 Pro refereeing Philosophical Stakes of Spontaneous Collapse: the lede contradicts the Map's own Tier-1/Tier-2 separation, Chalmers-McQueen is misrepresented as a scalar-Phi model, and XENONnT 2026 has not propagated from the Penrose article."
+topics:
+  - "[[philosophical-stakes-of-spontaneous-collapse]]"
+  - "[[testing-consciousness-collapse]]"
+  - "[[penrose-gravity-induced-collapse-empirical-prospects]]"
+concepts:
+  - "[[spontaneous-collapse-theories]]"
+  - "[[post-decoherence-selection]]"
+  - "[[many-worlds]]"
+  - "[[integrated-information-theory]]"
+related_articles:
+  - "[[project]]"
+ai_contribution: 90
+author: "Andy Southgate"
+ai_system: "chatgpt-5-6-pro"
+ai_generated_date: 2026-09-18
+last_curated: 2026-09-18
+outer_review_status: processed
+outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6aac9d6b-c5c4-83ed-a4f3-e9329b3ca9e1
+outer_review_extraction_method: js-dom
+subject_type: recent
+subject_title: "Audit philosophical-stakes-of-spontaneous-collapse"
+subject_articles:
+  - topics/philosophical-stakes-of-spontaneous-collapse.md
+subject_source: fallback:recent-aged
+---
+
+**Date**: 2026-09-18
+**Reviewer**: ChatGPT 5.6 Pro
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+Act as a rigorous external referee for one article on The Unfinishable Map, a dualist philosophy site: https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/ It argues that the choice between GRW, CSL, and Penrose objective reduction determines whether consciousness is causally connected to physical reality, and that the site's position (consciousness modulating a collapse that would occur anyway) depends on getting the physics right. Assess: (1) whether its characterisations of GRW, CSL, and Diosi-Penrose match current experimental bounds, including recent underground and cryogenic tests; (2) whether it treats no-collapse alternatives such as Bohmian mechanics and Everettian accounts fairly, or brackets them to protect its dualist commitments; (3) stale, misattributed, or unverifiable citations; (4) counterarguments it omits, especially decoherence-based ones; (5) how well it integrates with neighbouring articles. Web search indexes lag 24-48 hours, so consult the changelog at https://unfinishablemap.org/workflow/changelog/ for recent activity; the site root is https://unfinishablemap.org . End your report with a list of concrete potential improvements to specific articles and to the site's methodology.
+
+## Reply
+
 # External referee report
 
 ## Recommendation: **major revision**
 
 The article has a valuable organising idea: distinguish consciousness-independent collapse, consciousness-caused collapse, and consciousness-modulated collapse, then ask which physical theory could host the third. Its ontology section is also useful, and the closing admission that there is no worked neural toy model and that exact Born preservation creates a serious dilemma is commendably explicit.
 
-Its central thesis nevertheless outruns both the physics and the Map’s own better-qualified articles. **The choice between GRW, CSL and gravity-related collapse determines the form of a possible physical collapse process; it does not determine whether consciousness is causally connected to physics.** Pure GRW, pure CSL and a gravitational-collapse law can each be complete, consciousness-independent stochastic theories. Mental causation enters only through an additional psychophysical law. The Map’s testing article states this correctly: evidence for Tier‑1 objective collapse would not establish Tier‑2 consciousness involvement. The target’s headline claim, by contrast, says that the choice among collapse models “determines” whether minds matter physically. [The Unfinishable Map+1](https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/)
+Its central thesis nevertheless outruns both the physics and the Map’s own better-qualified articles. **The choice between GRW, CSL and gravity-related collapse determines the form of a possible physical collapse process; it does not determine whether consciousness is causally connected to physics.** Pure GRW, pure CSL and a gravitational-collapse law can each be complete, consciousness-independent stochastic theories. Mental causation enters only through an additional psychophysical law. The Map’s testing article states this correctly: evidence for Tier‑1 objective collapse would not establish Tier‑2 consciousness involvement. The target’s headline claim, by contrast, says that the choice among collapse models “determines” whether minds matter physically. [topics/philosophical-stakes-of-spontaneous-collapse](https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/)
 
 That is not a merely verbal problem. It causes the article repeatedly to slide between:
 
@@ -31,7 +79,7 @@ The sentence asking whether the 2022 “whisker-width margin survives” is no l
 | **GRW** | Discrete Poisson-distributed localisations, Gaussian position localisation and macroscopic amplification are correctly identified. | “GRW survived by a whisker” is a stale 2022 summary. The nominal GRW parameter point is now excluded when embedded in the mass-proportional, Markovian white-noise CSL radiation model used by XENONnT. This does **not** by itself prove that every discrete-GRW implementation, noise spectrum or modified collapse law is excluded. The article must state both halves of that result. [arXiv+1](https://arxiv.org/html/2506.05507) |
 | **CSL** | Continuous stochastic evolution coupled to smeared mass density is characterised reasonably well. | The article gives no current exclusion landscape. XENONnT reports λ/rC2​<3.0×10−3s−1m−2 at 90% confidence under its Markovian CSL assumptions, improving previous spontaneous-radiation bounds by roughly two orders of magnitude. Coloured and dissipative CSL extensions remain less constrained, so “CSL” cannot be treated as one experimentally uniform target. [APS Journals+2arXiv+2](https://link.aps.org/doi/10.1103/2jm3-4976) |
 | **Diósi–Penrose** | The gravitational self-energy timescale τ∼ℏ/EG​ is correctly identified as the central idea. | The target conflates Penrose’s heuristic instability argument, Diósi’s stochastic dynamics, regularised DP models and Orch OR. The natural parameter-free DP prescription was ruled out by the Gran Sasso experiment; regularised versions survive only with an adjustable smearing scale. XENONnT now gives R0​>4.9×10−10m at 90% confidence, or 4.5×10−10m at 95%. [Nature+1](https://www.nature.com/articles/s41567-020-1008-4) |
-| **Penrose OR** | It is fair to say that Penrose seeks a deeper gravitational motivation rather than simply inserting the GRW numbers phenomenologically. | “Penrose derives collapse from quantum gravity” and “No free parameters” are too strong. There is no accepted underlying quantum-gravity derivation, unique stochastic law, unique mass-density regularisation or settled relativistic dynamics. Even the atomistic paper cited by the article notes a free numerical factor in the gravitational self-energy prescription. [The Unfinishable Map+2RSCJ+2](https://unfinishablemap.org/topics/penrose-gravity-induced-collapse-empirical-prospects/) |
+| **Penrose OR** | It is fair to say that Penrose seeks a deeper gravitational motivation rather than simply inserting the GRW numbers phenomenologically. | “Penrose derives collapse from quantum gravity” and “No free parameters” are too strong. There is no accepted underlying quantum-gravity derivation, unique stochastic law, unique mass-density regularisation or settled relativistic dynamics. Even the atomistic paper cited by the article notes a free numerical factor in the gravitational self-energy prescription. [topics/penrose-gravity-induced-collapse-empirical-prospects](https://unfinishablemap.org/topics/penrose-gravity-induced-collapse-empirical-prospects/) |
 | **Orch OR** | It is relevant to consciousness and uses the Penrose timescale. | Proto-consciousness should be attributed to the Penrose–Hameroff Orch OR programme, not silently built into gravitational objective reduction as such. A gravity-driven collapse law need contain no phenomenal property at all. |
 
 ### The underground experiments
@@ -46,7 +94,7 @@ Second, it specifically ruled out the **natural parameter-free version** of the 
 
 Third, the Majorana result was published on **16 August 2022**, not in the same August as the Gran Sasso paper. It was an independent and substantially stronger null search, primarily formulated as a white-CSL test, with a DP reinterpretation. It improved comparable spontaneous-radiation sensitivity by factors of roughly 40–100. “Confirmation” obscures the change of model, dataset and numerical bound. [APS Journals+1](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.129.080401)
 
-Fourth, XENONnT has now superseded both as the central spontaneous-radiation result. The article’s neighbouring Penrose page knows this and gives the 2026 bound, while the audited page still presents the literature as awaiting an answer. [The Unfinishable Map+1](https://unfinishablemap.org/topics/penrose-gravity-induced-collapse-empirical-prospects/)
+Fourth, XENONnT has now superseded both as the central spontaneous-radiation result. The article’s neighbouring Penrose page knows this and gives the 2026 bound, while the audited page still presents the literature as awaiting an answer. [topics/penrose-gravity-induced-collapse-empirical-prospects](https://unfinishablemap.org/topics/penrose-gravity-induced-collapse-empirical-prospects/)
 
 ### Cryogenic and low-frequency tests
 
@@ -132,15 +180,15 @@ Bohmian mechanics also shows why the sentence “the measurement problem forces 
 
 The Map may reject this because determinism provides no obvious locus for its preferred intervention. That is a legitimate statement about **fit with the Map’s tenets**, not an objection to Bohmian mechanics as a solution to definite outcomes.
 
-A telling omission occurs in the article’s account of what remains if collapse is falsified: it lists decoherence-only views, Everett and QBism, but not Bohmian mechanics, despite having mentioned Bohm at the outset. That makes the conclusion look artificially narrow. [The Unfinishable Map](https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/)
+A telling omission occurs in the article’s account of what remains if collapse is falsified: it lists decoherence-only views, Everett and QBism, but not Bohmian mechanics, despite having mentioned Bohm at the outset. That makes the conclusion look artificially narrow. [topics/philosophical-stakes-of-spontaneous-collapse](https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/)
 
 ### Everett: conditional caveat followed by tenet-protective overstatement
 
 The article does make one fair concession: it says the consequences of objective collapse remain conditional because present data do not force a collapse reading. That should be retained.
 
-But later it asserts that the measurement problem “demonstrates” unitary quantum mechanics is incomplete. That is precisely the point Everettian, relational, pragmatist and some consistent-histories accounts deny. The Map’s own decoherence article acknowledges that the demand for a further selector is decisive only within single-outcome frameworks, not a universal theorem. [The Unfinishable Map+1](https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/)
+But later it asserts that the measurement problem “demonstrates” unitary quantum mechanics is incomplete. That is precisely the point Everettian, relational, pragmatist and some consistent-histories accounts deny. The Map’s own decoherence article acknowledges that the demand for a further selector is decisive only within single-outcome frameworks, not a universal theorem. [topics/philosophical-stakes-of-spontaneous-collapse](https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/)
 
-The target also presents Everettian probability as suffering “deep circularity problems” without conveying the status of the dispute. The Map’s dedicated many-worlds page is more responsible: it describes decision-theoretic, self-locating and envariance strategies, records serious objections, but says explicitly that their success remains contested rather than closed. [The Unfinishable Map](https://unfinishablemap.org/concepts/many-worlds/)
+The target also presents Everettian probability as suffering “deep circularity problems” without conveying the status of the dispute. The Map’s dedicated many-worlds page is more responsible: it describes decision-theoretic, self-locating and envariance strategies, records serious objections, but says explicitly that their success remains contested rather than closed. [concepts/many-worlds](https://unfinishablemap.org/concepts/many-worlds/)
 
 The appropriate formulation is therefore:
 
@@ -186,7 +234,7 @@ As noted above, Gaussian collapse suppresses rather than literally deletes the d
 
 ### 5.2 Decoherence does not produce a menu awaiting selection
 
-The Map’s own post-decoherence article correctly warns that an improper mixture is not a classical list of already-real alternatives from which a mind can simply choose. “Selection” must be a new dynamical transition from the entangled state, not the reading-off of one pre-existing member. [The Unfinishable Map](https://unfinishablemap.org/concepts/post-decoherence-selection/)
+The Map’s own post-decoherence article correctly warns that an improper mixture is not a classical list of already-real alternatives from which a mind can simply choose. “Selection” must be a new dynamical transition from the entangled state, not the reading-off of one pre-existing member. [concepts/post-decoherence-selection](https://unfinishablemap.org/concepts/post-decoherence-selection/)
 
 The audited article nevertheless repeatedly speaks of consciousness selecting “among outcomes the physics leaves open.” That language recreates the menu picture its neighbouring article rejects. A mathematically adequate account must specify:
 
@@ -217,7 +265,7 @@ Indeterminism may remove deterministic exclusion, but it does not provide reason
 
 A detected CSL-like noise spectrum would establish new physical dynamics. The default inference would be that the noise is another physical field or stochastic law. It could actually strengthen a physicalist solution to the measurement problem by showing that nature collapses wavefunctions without minds.
 
-The article’s own testing companion states this Tier‑1/Tier‑2 separation correctly. The target should make it the organising principle of the whole discussion, not a late qualification. [The Unfinishable Map](https://unfinishablemap.org/topics/testing-consciousness-collapse/)
+The article’s own testing companion states this Tier‑1/Tier‑2 separation correctly. The target should make it the organising principle of the whole discussion, not a late qualification. [topics/testing-consciousness-collapse](https://unfinishablemap.org/topics/testing-consciousness-collapse/)
 
 ### 5.7 Relativistic completion remains open
 
@@ -237,7 +285,7 @@ The article links extensively and does not conceal its strongest internal diffic
 - the post-decoherence article distinguishes improper mixtures from classical menus;
 - the Penrose article contains a much more current empirical discussion;
 - the many-worlds article offers a more balanced account of live Everettian responses;
-- the testability ledger distinguishes tenet coherence from empirical support and mechanism failure from tenet failure. [The Unfinishable Map+4The Unfinishable Map+4The Unfinishable Map+4](https://unfinishablemap.org/topics/testing-consciousness-collapse/)
+- the testability ledger distinguishes tenet coherence from empirical support and mechanism failure from tenet failure. [topics/testing-consciousness-collapse](https://unfinishablemap.org/topics/testing-consciousness-collapse/)
 
 ### What fails
 
@@ -245,25 +293,25 @@ The links do not reliably transmit the neighbouring articles’ conclusions.
 
 #### 1. Tier separation is not propagated
 
-The testing article says explicitly that confirming objective collapse would not confirm consciousness involvement. The target nevertheless opens by saying the model choice determines whether consciousness is causally connected. [The Unfinishable Map+1](https://unfinishablemap.org/topics/testing-consciousness-collapse/)
+The testing article says explicitly that confirming objective collapse would not confirm consciousness involvement. The target nevertheless opens by saying the model choice determines whether consciousness is causally connected. [topics/testing-consciousness-collapse](https://unfinishablemap.org/topics/testing-consciousness-collapse/)
 
 #### 2. Experimental updates are not propagated
 
-The Penrose article records XENONnT’s March 2026 result and the exclusion of the nominal GRW range, while both the target and the general spontaneous-collapse article retain the 2022 “survived by a whisker” verdict. [The Unfinishable Map+1](https://unfinishablemap.org/topics/penrose-gravity-induced-collapse-empirical-prospects/)
+The Penrose article records XENONnT’s March 2026 result and the exclusion of the nominal GRW range, while both the target and the general spontaneous-collapse article retain the 2022 “survived by a whisker” verdict. [topics/penrose-gravity-induced-collapse-empirical-prospects](https://unfinishablemap.org/topics/penrose-gravity-induced-collapse-empirical-prospects/)
 
 #### 3. Tenet calibration is not propagated
 
-On 14 September 2026, the changelog records edits to the general collapse article replacing “requires” with “favours,” “the minimal design” with “one minimal design,” and “preserve the causal connection” with “leave room for the causal connection.” The audited article, last modified three days earlier, retains the stronger phrases “provide the minimal design” and “preserve the ontological distinction.” [The Unfinishable Map+1](https://unfinishablemap.org/workflow/changelog/)
+On 14 September 2026, the changelog records edits to the general collapse article replacing “requires” with “favours,” “the minimal design” with “one minimal design,” and “preserve the causal connection” with “leave room for the causal connection.” The audited article, last modified three days earlier, retains the stronger phrases “provide the minimal design” and “preserve the ontological distinction.” [workflow/changelog](https://unfinishablemap.org/workflow/changelog/)
 
 This is direct evidence of cluster-level semantic drift.
 
 #### 4. The improper-mixture warning is not propagated
 
-The post-decoherence article says an improper mixture is not a menu. The target nevertheless uses outcome-selection language that naturally invites exactly that interpretation. [The Unfinishable Map](https://unfinishablemap.org/concepts/post-decoherence-selection/)
+The post-decoherence article says an improper mixture is not a menu. The target nevertheless uses outcome-selection language that naturally invites exactly that interpretation. [concepts/post-decoherence-selection](https://unfinishablemap.org/concepts/post-decoherence-selection/)
 
 #### 5. Everettian calibration is not propagated
 
-The dedicated many-worlds article says probability derivations remain disputed rather than closed. The target presents “deep circularity” and unitary incompleteness as settled consequences. [The Unfinishable Map+1](https://unfinishablemap.org/concepts/many-worlds/)
+The dedicated many-worlds article says probability derivations remain disputed rather than closed. The target presents “deep circularity” and unitary incompleteness as settled consequences. [concepts/many-worlds](https://unfinishablemap.org/concepts/many-worlds/)
 
 ### Integration verdict
 
@@ -332,3 +380,79 @@ At present those levels are repeatedly merged.
 8. Treat framework-boundary disagreements as permanent objects of review rather than reasons to stop reconsidering rivals. Each rival should receive its best ontology, dynamics and probability account before being judged incompatible with the Map.
 9. Add a **cross-article contradiction test** that compares proposition strength, not merely links and keywords—for example, “determines” versus “leaves room,” or “the minimal design” versus “one possible design.”
 10. Make the Tier‑1/Tier‑2 distinction a formal site-wide dependency: no empirical collapse result should be described as support for consciousness causation unless an independently discriminating Tier‑2 prediction is supplied.
+
+## Verification Notes
+
+Checked against the audited article's own text, the neighbouring Map articles the
+reviewer invokes, and (for the source-fidelity charge) the primary source. Greps
+used `grep -iF` with counts printed, per the corpus convention on false zeros.
+
+**Verified — the audited article says what the reviewer quotes:**
+
+- ✓ **The lede overclaim is verbatim.** `topics/philosophical-stakes-of-spontaneous-collapse`
+  opens: "It determines whether consciousness is causally connected to physical reality
+  at the deepest level." `topics/testing-consciousness-collapse` states the opposite in
+  its own voice: "confirming that collapse is real would not confirm that consciousness
+  drives it." This is a genuine internal contradiction between two live articles, not a
+  matter of emphasis.
+- ✓ **Chalmers–McQueen is misrepresented, confirmed at the primary source.** The article
+  says "differences in integrated information (Φ) between superposed conscious states
+  determine collapse rates." Chalmers & McQueen (arXiv:2105.02314) explicitly reject
+  exactly that model: "A collapse model base[d] only on Φ would fail to collapse this
+  superposition, despite it being a superposition of conscious states." Their developed
+  proposal collapses "onto Q-shape" (the term occurs 151 times in the paper; it occurs
+  0 times in the Map's article). The paper's abstract also states "Simple versions of the
+  theory are falsified by the quantum Zeno effect" — a qualification the Map's account
+  omits. **This is the strongest finding in the review and it survives primary-source
+  checking.**
+- ✓ **XENONnT is absent from the audited article (0 hits) and from
+  `concepts/spontaneous-collapse-theories` (0 hits), while
+  `topics/penrose-gravity-induced-collapse-empirical-prospects` carries it 5 times**,
+  including "XENONnT has since set R₀ > 4.5 × 10⁻¹⁰ m at 95% confidence" and "XENONnT
+  excluded it non-interferometrically in 2026." The reviewer's bound matches our own
+  article's figure, so this is corroborated internally rather than taken on trust. The
+  cluster-drift diagnosis is correct.
+- ✓ **The Majorana dating error is real.** The article reads "the Gran Sasso germanium-detector
+  null result of 2020 and its confirmation that August by the Majorana Demonstrator."
+  Majorana published 16 August **2022**, not the August of the 2020 result. "Confirmation"
+  also obscures that it was an independent white-CSL search with a DP reinterpretation.
+- ✓ **Tenet-calibration drift is real and one-sided.** `concepts/spontaneous-collapse-theories`
+  now reads "one minimal design" and "leave room for the causal connection" (the calibrated
+  forms). The audited article still reads "provide the minimal design" and "preserve the
+  ontological distinction." The sibling was calibrated; the target was not.
+- ✓ **Bohmian mechanics is dropped from the falsification branch.** The lede names it as a
+  live no-collapse alternative, but the "if collapse theories are experimentally falsified"
+  paragraph narrows the field to "decoherence-only interpretations, many-worlds, epistemic
+  readings like QBism—or something yet unknown." The omission is as described.
+- ✓ **The tails problem and no-signalling are absent** (0 substantive hits each); the only
+  "tails" match is an unrelated link line.
+
+**Partly right — the reviewer's framing overstates one charge:**
+
+- ~ **"Carrying forward a 2022 journalistic verdict" understates the article's existing
+  hedging.** The article already flags its own staleness: "The most-quoted verdict on GRW
+  dates from 2022, not from the present," and "whether the whisker-width margin survives
+  the intervening results is a question the current bounds literature has to answer, not
+  one the 2022 verdict settles by being carried forward." The defect is narrower than the
+  reviewer implies — the article poses the right open question; the fix is to supply the
+  answer our own Penrose article already holds, not to install a calibration the article
+  lacks.
+
+**Unverified — accepted as leads only, not as grounds for a claim:**
+
+- ? The 9.1σ figure and the specific λ/r_C² bound attributed to XENONnT were not checked at
+  the publisher. The R₀ bound was corroborated internally; these two were not.
+- ? The January 2026 sodium-nanoparticle interferometry result (>7,000 atoms, >170,000 Da,
+  macroscopicity μ = 15.5) and the 2025 LISA Pathfinder rotational-noise analysis were not
+  independently verified. Any article edit citing them must verify at the publisher first.
+- ? "Pedalino et al. 2026" appears only in the reviewer's recommendation list, with no
+  citation given anywhere in the report. Treat as an unresolved lead.
+
+**Not minted as tasks — re-carry candidates.** The review is long and its genuinely
+verified core is narrower than its finding count. Left unqueued, in rough order of merit:
+the tails problem and the no-signalling constraint as explicit omissions (5.1, and the
+ensemble-equation demand in section 2); the preferred-basis problem recurring at the
+psychophysical level (5.4); "randomness is not control" (5.5); relativistic completion
+(5.7); and the methodology proposals, of which the empirical-bounds dependency ledger has
+the strongest support — this is the second time an empirical update has failed to propagate
+across this cluster.
