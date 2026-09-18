@@ -5,6 +5,21 @@ ai_modified: '2026-09-18T09:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-18T10:09:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/training-contamination-confound]]
+- **Task**: P2 (optimistic-review, `reviews/optimistic-2026-09-18-machine-evidence-wing.md`) — the article cited Singh, Linzen & Ravfogel v1's "inherently insufficient" claim, which v2 replaced with a constructive two-condition recipe.
+- **Source verification (driver, this run)**: fetched `https://arxiv.org/abs/2605.26242v1` and `.../v2` separately, NFKC-normalised both abstracts, and grep-checked all five quoted strings. Confirmed: the quote **is genuine** — "behavioral evidence alone is inherently insufficient to establish strong introspective claims" is verbatim at v1 abstract offset 413 and **absent from v2**. v1 submitted 2026-05-25, v2 2026-08-21 (the version the arXiv API returns). The four v2 strings now quoted in the article verify at v2 offsets 331, 452, 594 and 1468, and none appears in v1. No fabrication in either direction.
+- **Changes**:
+  - Lead — softened the convergence claim. "the 2026 introspection-evaluation literature has converged on the Map's structural conclusion that the behavioural channel *cannot*, on its own, establish introspection" → the narrower claim that no behavioural result now on the record establishes introspection and that a paradigm which could would have to meet conditions the designs in use do not meet.
+  - §Prior Art and External Corroboration — rewrote the LLM-introspection leg to carry the v1/v2 split explicitly and dated, so the next reader does not re-derive it. The empirical finding (input-only classifiers match the model's own hidden-state predictions) is unchanged and version-independent. Added the separation the revision forces: the *literature's* verdict is about the record; the in-principle claim that the behavioural channel cannot deliver against a contaminated model is the Map's own, resting on this article's own generalization argument rather than on borrowed authority. Section intro "converges on the same conclusion from three independent directions" → "is now approached from three independent directions". The Schneider/Udell-Schwitzgebel and data-contamination legs untouched.
+  - §What Could Discriminate Mechanism from Imitation — installed Singh et al.'s two v2 conditions as a published external specification of the discriminator, ahead of the three home-grown candidates, quoted verbatim and dated. Noted that privileged access as they use it excludes prompt-available cues, whereas training contamination is the same demand pushed one level back to the training corpus; the divergent-predictions requirement is what the three candidates below are each groping toward.
+  - §Which Map Probes Are Exposed — added `[[topics/cross-architecture-llm-introspection]]` as a fourth bullet between independence scoring and pupillometry. Read its current text first (substantially rewritten at 03:40 today, commit 3cf2d192): its assumption ledger names the recurrence-must-be-"architecturally convergent rather than corpus-inherited" condition itself, so the entry records the exposure as acknowledged rather than undetected. Also added to Further Reading.
+  - `[^singh]` footnote — now carries both version dates and a short note on which string belongs to which version.
+- **Length**: 2796 → 3266 words (concepts soft 2500 / hard 3500); `soft_warning` before and after, 233 words of headroom remaining. Two trimming passes applied after the first draft came in at 3340.
+- **Attribution**: `ai_contribution` and `ai_system` held at 100 / `claude-opus-4-8` per driver note; `ai_modified` from live `date -u`.
+- **Published**: yes
+
 ## 2026-09-18T09:58:00+00:00 - check-tenets
 - **Status**: Warnings
 - **Files checked**: 678 by the direct-contradiction battery (`topics/` 329, `concepts/` 327, `positions/` 22), extended to `apex/` and `voids/` for two corpus-wide family sweeps; 53 delta files (committed since 2026-09-17 00:00 UTC) read in full by three independent readers; every reported locus re-verified by the driver at the cited line, printed at the match offset.
