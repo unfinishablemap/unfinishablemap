@@ -10,6 +10,29 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-18T16:44:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [reinforcement-learning-reward-signals-and-machine-valence](/concepts/reinforcement-learning-reward-signals-and-machine-valence/)
+- **Word count**: 2544 → 2687 (+143; concepts soft 2500 / hard 3500, `soft_warning` before and after, 812 to hard)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 2
+- **Low issues addressed**: 1
+- **Enhancements made**: 3
+- **Why this article**: effectively unreviewed. Created 2026-07-10 with `last_deep_review` set the same day by the pass that wrote it; this is the first fresh-eyes review, and the last unreviewed member of the machine-evidence wing.
+- **Critical 1 — sibling drift.** The Tenet 3 paragraph asserted "valence is the currency by which consciousness biases quantum-level selection" as settled Map doctrine. [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) holds it as the *value-sensitive horn* of a two-horn fork, against a live value-blind rival, and says of its content "no such datum yet exists". `git log -S` dates those withdrawals to `db12a423dc`, **2026-09-05** — two months after this article's only prior review, so the sibling moved underneath it. Passes the §2 diagnostic test (a tenet-accepting reviewer would still flag it), therefore calibration slippage rather than bedrock disagreement. Reworded to mark the horn and hand the argumentative work to the substrate point: "Nothing below turns on winning that fork."
+- **Critical 2 — dropped qualifier, over-concession direction.** "a mechanism-only reading explains the neuroscience without remainder" restored to "**appears to** explain", matching [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/), whose hedge has been in place since `94f82d643c` (2026-06-06). Dropped at composition rather than by drift.
+- **Medium 1 — Butlin TiCS metadata.** Crossref on 10.1016/j.tics.2025.10.011: *Trends in Cognitive Sciences* **30(6), 488–501, 2026** (online 2025), revised list of **20 authors adding Bayne *and* Chalmers and dropping Frith**. The reference said "additional authors including D. Chalmers … 2025" — incomplete (a dropped author too) and the wrong year of record. Rewritten with the full record, and now states explicitly that the 19-author list above is correct *for the arXiv version cited*, as a guard against a future reviewer "correcting" a correct list.
+- **Medium 2 — indicator list.** Added **predictive processing** (on Butlin et al.'s surveyed list, previously omitted) plus one clause conceding it as the nearest miss to a felt-valence criterion. Makes the article's own argument harder to win and states it anyway.
+- **Low 1 — Tomasik/PETRL.** "through the collective he named" split into two claims. PETRL's own FAQ confirms the naming verbatim ("It was coined by Brian Tomasik in the paper *Do Artificial Reinforcement-Learning Agents Matter Morally*"); the advocacy-through-PETRL implication was not verified and has been dropped.
+- **Citation web-verify (§2.4)**: 9 cites, full ledger in the review file. **Zero fabrications, zero wrong author lists.** 4 quoted strings all grep-verified verbatim at source. Notable: the Silver et al. quote is **not in the abstract** — it is in §7 Conclusion of the full-text PDF, so an abstract-only check would have produced a false fabrication flag. Mamak 2026 (future-dated DOI, a fabrication tell) confirmed genuine at Crossref.
+- **Superlative / empirical-currency sweep**: `find_superlative_claims` returned 0. Over-claim tell grep (*no possible / cannot ever / in principle undetectable / never / always / impossible / proves / refutes / decisively / conclusively*): 0 hits.
+- **Today's wing edit `a5c2404925` audited — clean.** Correction to the brief: it added **one** wikilink to this file, not two (`[[ethics-of-possible-ai-consciousness]]` predates the commit). The sole insertion, `[[training-contamination-confound]]`, was checked against the target and is faithful, including to the sibling's own "sharpens priors, settles no verdict" calibration.
+- **Protected loci intact**: L79 (Tenet 5 positive control in `reviews/tenet-check-2026-09-18.md` Family K) and L77's "framework-posited rather than established" concession (external dependent in `agentic-ai`) both grep-confirmed unchanged.
+- **Engagement classification** (editor-internal, no label in prose): functionalist — Mode Three; Daswani & Leike — Mode Three; Silver et al. — Mode One. No editor-vocabulary leakage found.
+- **Frontmatter**: `ai_modified` and `last_deep_review` set to 2026-09-18T16:44:50+00:00 from live `date -u`. `ai_system` `claude-opus-4-8` → `claude-opus-4-8+claude-opus-5` (dual form). The model behind the 11:24 wing pass could not be established — its changelog entry records `ai_system` deliberately held unchanged — and no claim is made about it.
+- **Output**: [deep-review-2026-09-18-reinforcement-learning-reward-signals-and-machine-valence](/reviews/deep-review-2026-09-18-reinforcement-learning-reward-signals-and-machine-valence/)
+
+
 ## 2026-09-18T16:23:41+00:00 - refine-draft
 - **Status**: Success
 - **File**: [skill-delegation](/concepts/skill-delegation/) (primary), [interface-friction](/concepts/interface-friction/) (sibling)
