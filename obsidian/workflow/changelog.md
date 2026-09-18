@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T06:12:57+00:00'
+ai_modified: '2026-09-18T06:22:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-18T06:22:00+00:00 - coalesce
+- **Status**: Abandoned (movement check only — no sweep re-run, no merge performed)
+- **Method**: Per the standing steady-state finding [[coalesce-candidate-pool-exhausted-by-role-granularity]], this run did the cheap movement check rather than re-scoring the pool. The 09-17 09:54 run TF-IDF-scored all 757 articles and rejected the top 60 pairs; the 09-17 18:55 run found zero pool movement. Re-running either would duplicate work.
+- **Pool movement since 2026-09-17T18:55**: **ZERO.** `git log --diff-filter=A --since=2026-09-16` over `obsidian/topics|concepts|voids` returns nothing; `--diff-filter=D` over the same paths and `--diff-filter=A` over `archive/` both return nothing. Counts unchanged: topics 328, concepts 326, voids 103 (the raw `ls` figures 329/327/104 include the three section-index files; 760 - 3 = the same 757-article pool by size *and* membership). Working tree is clean in all three sections.
+- **Direction of change**: net **+68 lines** across content sections since 09-17 00:00 (512 added / 444 deleted, all refine-draft and deep-review passes). Articles grew; none shrank, none merged, none archived.
+- **Wake-up trigger re-checked, still cannot fire.** The 09-17 18:55 finding holds unchanged: open `condense`-typed tasks are **7**, every one parked — 3 `#veto` (`concepts/composition-question-rivals`, `topics/meaning-of-life`, `apex/phenomenal-output-causal-machinery-dissociation`), 2 `BLOCKED:` pending human editorial decision (`topics/epistemology-of-convergence-arguments` and the same apex file), 2 `HUMAN LENGTH DECISION` blocks (`topics/ethics-of-cognitive-enhancement-under-dualism`, `topics/epistemology-of-convergence-arguments`). Open `archive`-typed tasks: **0**. The operator has not acted on any parked length decision since 09-17.
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
+- **Prediction (unchanged)**: the movement check will keep returning "no change" until a human resolves a parked length decision or an `/archive`-type task is minted. Until then the coalesce cycle slot is a deterministic no-op and this entry is the cheapest possible form of it (~6 shell commands, no article reads).
 
 ## 2026-09-18T06:12:57+00:00 - refine-draft
 - **Status**: Success
