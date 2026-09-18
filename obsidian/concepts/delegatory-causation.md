@@ -2,9 +2,9 @@
 title: "Delegatory Causation"
 description: "Bradford Saad's unified mechanism for mental causation: experiences preempt the default causal profile of physical brain states by trumping rather than competing—solving the exclusion problem without overdetermination."
 created: 2026-02-15
-modified: 2026-09-16
+modified: 2026-09-18
 human_modified: null
-ai_modified: 2026-09-16T12:48:18+00:00
+ai_modified: 2026-09-18T17:11:42+00:00
 last_deep_review: 2026-07-18T08:36:00+00:00
 draft: false
 topics:
@@ -70,7 +70,7 @@ Trumping also sidesteps the standard charge against overdetermination, that the 
 
 The default causal profile is the counterfactual baseline that delegatory causation operates on. Every physical brain state has a repertoire of effects it can produce: neural firing patterns, motor commands, attentional shifts, behavioural outputs. The default causal profile specifies this repertoire—what the state *would* cause if consciousness played no causal role.
 
-Pain-associated brain states have a default profile that includes causing wincing, withdrawal, and attention to the injury site. Belief-associated brain states have profiles that include causing assertion, inference, and action planning. The "default" qualifier specifies what the state would do *before* delegation—the baseline that delegation then displaces.
+Pain-associated brain states have default profiles including wincing, withdrawal, and attention to the injury site; belief-associated states include assertion, inference, and action planning.
 
 ### The Counterfactual Character
 
@@ -161,6 +161,8 @@ The everyday phenomenon of [[skill-delegation]] inverts the direction of delegat
 
 Both directions share the crucial feature of preemption—one causal source does the work while the other retains capacity without exercising it—suggesting delegation is a general feature of the mind-brain interface.
 
+The parallel stops short of epistemic transfer: the inverse supplies no fourth access route. Skill delegation's retained capacity is empirically visible—choking, deliberate override—but visible at the agent level, whereas the default profile is a sub-personal state's and stays unobserved.
+
 ## Relation to Site Perspective
 
 Delegatory causation supports multiple tenets of the Map's framework.
@@ -183,7 +185,7 @@ The mechanism specifies *where* and *how* mental causation could operate without
 
 Within the [[four-quadrant-dualism-taxonomy|thickness taxonomy of dualist positions]], Saad's bare mechanism is the cleanest current min-mind / min-physical inhabitant—neither side inflates beyond what preemption requires. Whether any workable interaction specification can remain purely in that quadrant, or whether some thickening on one side is ultimately unavoidable, is the live stability question for this family of positions.
 
-The full development of Saad's theory, including his five constraints on dualist theories and the integration with the Map's quantum framework, is presented in the [[delegatory-dualism]] article. This article specifies the unified mechanism—default profile, preemption, delegation—that makes the broader theory work.
+Saad's full theory—his five constraints and the Map integration—is developed in [[delegatory-dualism]]. This article specifies the unified mechanism—default profile, preemption, delegation—that makes the broader theory work.
 
 ## Further Reading
 

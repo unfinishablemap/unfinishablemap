@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T16:23:41+00:00'
+ai_modified: '2026-09-18T17:11:42+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-18T17:11:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/delegatory-causation]]
+- **Task**: P3 from [[optimistic-2026-08-07-delegation-cluster]] — the article lists three access routes to the default causal profile and never adjudicates whether its own inverse supplies a fourth
+- **Word count**: 3492 → 3492 (length-neutral; concepts soft 2500 / hard 3500, `length.py` trips at `>= hard` so the ceiling is 3499 — 7 words of headroom before and after). Paired trim-and-add: the adjudication is 39 words, paid for by 40 words of verified-redundant prose.
+- **Changes**:
+  - Added the adjudication at the close of *The Inverse: Delegation From Consciousness*, directly after the existing "Both directions share the crucial feature of preemption…" sentence, folded into prose with no new heading: *"The parallel stops short of epistemic transfer: the inverse supplies no fourth access route. Skill delegation's retained capacity is empirically visible—choking, deliberate override—but visible at the agent level, whereas the default profile is a sub-personal state's and stays unobserved."*
+  - The answer is **no**, stated plainly, which is the calibration gain. The relata differ: `concepts/skill-delegation` L104 grades retention-evidence *Empirical (choking, override)* for skill delegation against *Theoretical (preemption structure)* for causal delegation, but what choking and override expose is agent-level executive control, not a sub-personal physical state exhibiting its pre-delegation causal profile. No fourth access route was manufactured; no restricted transfer was found to hold.
+  - **Trim 1** (paid for the insert, −24 words): `## The Default Causal Profile`, second paragraph. The two example sentences were merged and the closing sentence — *"The `default` qualifier specifies what the state would do *before* delegation—the baseline that delegation then displaces."* — was dropped as a verbatim restatement of the preceding paragraph's *"what the state *would* cause if consciousness played no causal role."* Both pain and belief examples are preserved.
+  - **Trim 2** (−16 words): `## Honest Limitations` closing sentence compressed from *"The full development of Saad's theory, including his five constraints on dualist theories and the integration with the Map's quantum framework, is presented in the [[delegatory-dualism]] article"* to *"Saad's full theory—his five constraints and the Map integration—is developed in [[delegatory-dualism]]"*. Content and the body wikilink both preserved; the long form duplicated Further Reading entry 1 verbatim in substance.
+- **Provenance checks before cutting** (per the stop rule): every cut string was checked with `git log -S` on the article, `grep -rF` across `obsidian/reviews/`, and `grep -F` against `obsidian/workflow/todo.md`. All three cuts trace to `d4de53b0ef` (the original coalesce), appear in **zero** review files, and are referenced by **zero** open tasks. A fourth candidate — *"Its narrower claim—that it avoids the specific self-defeat epiphenomenalism cannot…"* (`## Honest Limitations` opening) — was **rejected**: `git log -S` traces it to `07de9238cb`, a deep-review that installed it, making it review-installed and load-bearing under [[trimming-for-budget-can-strand-a-live-refutation]].
+- **Driver-note corrections** (both driver and task figures re-measured this run):
+  - The task's *"3,601w"* is stale; measured 3492 via `tools.curate.length.analyze_length`, `soft_warning`, not `hard_warning`. Driver's 3492 confirmed.
+  - The driver asserted *"There is no section called 'The Counterfactual Character.' That heading does not exist in this file."* **This is wrong.** `### The Counterfactual Character` is live at L75, an H3 under `## The Default Causal Profile` (L69) — `grep -nF` returns it. The task's original phrasing was correct. The three access routes do sit under that H3, so the driver's substantive point (that they are inside `## The Default Causal Profile`) stands; only the absence claim was false. Recorded per [[driver-assertions-of-absence-persist-and-mislead]].
+  - Driver's other corrections confirmed on disk: half two is at L162 (not L161); `delegatory-dualism` is in `topics/`, not `concepts/`; `skill-delegation` L104 table row verbatim.
+- **Duplicate check**: re-verified this run, not trusted from 2026-08-07. Parsed `todo.md` into `### ` blocks; exactly one block carries `obsidian/concepts/delegatory-causation.md` on a `**File**` line and it is this task. The two other blocks naming the article in prose are both closed (`### ✓ 2026-09-16` and `### ✓ RESOLVED-BY-CONSOLIDATION 2026-07-15`).
+- **Sync**: `scripts/sync.py` run; all four added strings return `1` and all three removed strings return `0` in **both** `obsidian/concepts/delegatory-causation.md` and `hugo/content/concepts/delegatory-causation.md`. The `[[delegatory-dualism]]` wikilink in the compressed sentence resolves to `/topics/delegatory-dualism/` at hugo L192.
+- **Held**: `ai_system` unchanged at `claude-opus-4-7+claude-opus-5` (already carries this model); `ai_contribution` unchanged at 100; no heading added; no engagement-classification applies (not an opponent-reply finding).
+- **Published**: yes
 
 ## 2026-09-18T16:44:50+00:00 - deep-review
 - **Status**: Success
