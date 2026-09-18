@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T06:55:25+00:00'
+ai_modified: '2026-09-18T07:31:02+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-18'
-lastmod: 2026-09-18 06:55:25+00:00
+lastmod: 2026-09-18 07:31:02+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-18T07:31:02+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/) (main), [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) (reference completion only)
+- **Task**: P1 convergent outer-review finding (2/3 legs: claude, chatgpt; 2026-09-18) — "causal closure intact at the level of conservation laws" is unearned.
+- **Changes (topics article)**:
+    - **Removed the unearned claim.** "Consciousness biases which outcome becomes actual rather than overriding the probabilities, leaving causal closure intact at the level of conservation laws" no longer asserts closure. The bias clause survives; the conservation-alibi clause is gone.
+    - **Self-contradiction closed (Claude leg's Witness 1).** The Bidirectional Interaction bullet now states that the spontaneous radiation and heating the underground searches hunt for *is* the energy non-conservation GRW and CSL predict — the same signature the "If collapse theories are experimentally confirmed" paragraph lists as a confirmation. That paragraph now names it as collapse-induced energy non-conservation in place of the bare "spontaneous heating detected in ultracold systems", so the two sections agree.
+    - **Reconciled toward the concept page, not re-derived (Claude leg's Witness 2).** The bullet now concedes rather than denies: conservation is derived from time-translation symmetry, an external influence breaks that symmetry, and conservation fails locally wherever mental influence operates while holding everywhere else. Cross-linked to [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/), which carries the full argument; also added to `concepts:` frontmatter and Further Reading.
+    - **Four-questions accounting installed (ChatGPT leg's distinct remedy).** Causal closure is now stated as a further question separate from energy, momentum and no-signalling, with two of the leg's four disjuncts kept in text: a consciousness-conditioned term could balance the energy ledger and still introduce a non-physical cause, and small non-conservation would not by itself establish mental causation. The leg's "collapse noise can itself generate heating" disjunct is carried by the Witness-1 sentence above. **Both halves of the task landed; neither was deferred.**
+    - **Citations added, both verified at the publisher of record.** Cucu (2020), *Journal of Cognitive Science* 21(3), 429-473 — the "premature ... energy and momentum are probably not conserved in collapse processes" wording was confirmed verbatim against the published abstract via the OpenAlex inverted index (W3159134074), which also supplies the 21(3)/429-473 coordinates. Cucu & Pitts (2019), *Mind and Matter* 17(1), 95-121 — confirmed against the journal's own table of contents for that issue at mindmatter.de and against the author's publication list.
+    - **Our incomplete reference completed.** `concepts/conservation-laws-and-mental-causation` cited Cucu & Pitts only as arXiv:1909.13643. The reviewer's journal coordinates resolved at the publisher, so the entry now carries *Mind and Matter* 17(1), 95-121 alongside the arXiv id. (The review's *link* for that paper points at a different Cucu paper and was not followed.)
+    - **Style fix caught in passing.** The Dualism bullet's "Consciousness is not a pattern of collapse events—it is what modulates them" was the banned "This is not X. It is Y." construct; rewritten as a direct claim.
+- **Engagement mode (editor-internal; not exposed in the article)**: engagement with Cucu and the conservation objector: **Mode One + Mode Three (mixed)**. Mode One for the main reply — Noether's theorem is a commitment the objector's own framework endorses, so the derivation of conservation from time-translation symmetry, and its failure under an unmodelled external influence, is an in-framework argument the objector could accept without abandoning physics. Mode Three for the residue — the article does not claim to have refuted Cucu, since the dualist equally presupposes external influence; the disagreement at that point is marked honestly and the concept page's symmetric-stalemate verdict is the one that binds.
+- **Length**: 3967 words before, **3991 after** (topics hard 4000; `length.py` gates on `>= hard`, so the ceiling is 3999 and headroom is now 8 words). Net-new prose of ~150 words was paid for by condensing within and around the sections touched: redundant restatements in the three-pictures section, the ontology section's doubled flash/density gloss, the Penrose parenthetical, the Orch OR illustration list, and nine Further Reading descriptions. Nothing review-installed was cut — `git log -S` was run on every candidate, and the Tier-1/Tier-2 sentences, the register-calibration phrases ("carried at the grade the register sets", "citable as a framework-internal coherence result"), the interpretive-conditional sentence (referenced by an open todo block) and the orphan-integration link to the prediction catalogue were all kept.
+- **Remaining**: four other tasks are still open on this article and it sits 8 words under the gate. The next one should budget for condensing.
+- **Published**: yes
 
 ## 2026-09-18T06:55:25+00:00 - refine-draft
 - **Status**: Success

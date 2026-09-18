@@ -4,7 +4,7 @@ description: "Does mental causation violate energy conservation? No — conserva
 created: 2026-01-23
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-09-04T18:28:40+00:00
+ai_modified: 2026-09-18T07:31:02+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -212,7 +212,7 @@ The Map does not claim certainty about *which* mechanism operates. Whether consc
 1. Carroll, S. (2011). "Physics and the Immortality of the Soul." *Scientific American* (blog).
 1. Collins, R. (2008). "Modern Physics and the Energy-Conservation Objection to Mind-Body Dualism." *American Philosophical Quarterly*, 45(1), 31-42.
 1. Crooks, G. E. (1999). "Entropy production fluctuation theorem and the nonequilibrium work relation for free energy differences." *Physical Review E*, 60(3), 2721-2726.
-1. Cucu, A. C., & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *arXiv:1909.13643*.
+1. Cucu, A. C., & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *Mind and Matter*, 17(1), 95-121. arXiv:1909.13643.
 1. Elouard, C., Herrera-Martí, D. A., Clusel, M., & Auffèves, A. (2017). "The role of quantum measurement in stochastic thermodynamics." *npj Quantum Information*, 3, 9.
 1. Erez, N., Gordon, G., Nest, M., & Kurizki, G. (2008). "Thermodynamic control by frequent quantum measurements." *Nature*, 452(7188), 724–727.
 1. Georgiev, D. D., & Glazebrook, J. F. (2014). "Quantum interactive dualism: From Beck and Eccles tunneling model of exocytosis to molecular biology of SNARE zipping." *Biomedical Reviews*, 25, 15-24.
