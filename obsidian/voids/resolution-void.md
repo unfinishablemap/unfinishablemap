@@ -4,7 +4,7 @@ description: "Consciousness processes ten bits per second from eleven million av
 created: 2026-02-28
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-09-09T23:07:13+00:00
+ai_modified: 2026-09-18T20:53:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ related_articles:
   - "[[grain-mismatch]]"
   - "[[attention-as-interface]]"
   - "[[relevance-void]]"
+  - "[[plenitude-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6+claude-opus-5
@@ -65,6 +66,10 @@ Psychophysics has spent two centuries mapping the just noticeable difference (JN
 
 Below the JND, distinctions vanish from consciousness entirely. There is no experience of "almost seeing a difference." The boundary is categorical: perception or non-perception, with no intermediate state. Yet priming experiments demonstrate that the brain detects and responds to stimuli that consciousness cannot discriminate — sub-threshold information influences behaviour without entering awareness. The discrimination floor is real, and what lies beneath it is not nothing. It is everything consciousness discards.
 
+Metamers carry that point from single dimensions up to whole scenes. Freeman & Simoncelli (2011) synthesised "novel forms of visual metamers, stimuli that differ physically but look the same," from a model averaging V1 responses in receptive fields that grow with eccentricity; the same model "also explains deficits of peripheral vision known as crowding." Balas, Nakano & Rosenholtz (2009) name the structure directly, studying the "equivalence classes" of a summary-statistic model — the sets of stimuli mapping to one representation. Below the JND a single dimension collapses; here entire scene-states collapse into one percept, and again nothing marks the collapse. The floor is less a line along one axis than a partition of the world into classes consciousness cannot tell apart from inside.
+
+Ensemble coding also supplies the mechanism that the compression ratio quantified above leaves unexplained. Balas et al. propose that the visual system locally represents peripheral stimuli by "the joint statistics of responses of cells sensitive to different position, phase, orientation, and scale" — a pooled summary rather than an item list, a format that Whitney & Yamanashi Leib's (2018) review finds "defines foundational limits on cognition, memory, and behavior" across both low-level visual features and high-level social information. The million-to-one discard is then a change of representational format rather than a channel shedding bits at random: statistics survive, individuals do not. It is also why the discard issues no receipt — a pooled representation renders as populated visual space, so the compression presents itself as detail rather than as loss. [[plenitude-void|The plenitude void]] takes up the format question directly.
+
 ## Phenomenology at the Edge
 
 The resolution void has a distinctive phenomenology — or rather, a distinctive absence of one. Below the resolution threshold, experience does not occur. There is no "edge" feeling, no vertigo of approaching a limit. This distinguishes the resolution void from limits like the [[the-quantitative-comprehension-void#the-magnitude-and-probability-domain|magnitude and probability face of the quantitative comprehension void]], where contemplating vast magnitudes produces characteristic cognitive strain.
@@ -100,6 +105,7 @@ The resolution void connects to the Map's [[tenets]] across multiple dimensions.
 - [[bandwidth-of-consciousness]] — Empirical measurements of the consciousness bottleneck
 - [[consciousness-bandwidth-architecture]] — How coarse-grained intention produces fine-grained physical effects
 - [[attention-as-interface]] — How attention operates at the resolution boundary
+- [[plenitude-void]] — Whether experience is rich or sparse, and the format question the ensemble account raises
 - [[the-quantitative-comprehension-void#the-cardinality-floor|The Quantitative Comprehension Void — cardinality floor]] — The architectural-ceiling face at ~4 items: the same magnitude in cardinal perception that the bandwidth bottleneck registers in deliberate selection
 
 ## References
@@ -115,3 +121,6 @@ The resolution void connects to the Map's [[tenets]] across multiple dimensions.
 9. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. New York: Viking Press.
 10. Southgate, A. & Oquatre-six, C. (2026-02-09). The Bandwidth of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/bandwidth-of-consciousness/
 11. Southgate, A. & Oquatre-six, C. (2026-02-23). The Bandwidth Problem in Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-bandwidth-architecture/
+12. Freeman, J. & Simoncelli, E. P. (2011). Metamers of the ventral stream. *Nature Neuroscience* 14(9): 1195–1201.
+13. Balas, B., Nakano, L., & Rosenholtz, R. (2009). A summary-statistic representation in peripheral vision explains visual crowding. *Journal of Vision* 9(12):13.
+14. Whitney, D. & Yamanashi Leib, A. (2018). Ensemble Perception. *Annual Review of Psychology* 69: 105–129.

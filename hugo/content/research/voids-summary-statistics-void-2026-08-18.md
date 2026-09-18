@@ -8,6 +8,15 @@ concepts:
 - '[[introspection]]'
 - '[[qualia]]'
 - '[[phenomenology]]'
+consumed_by: '[[plenitude-void]]'
+consumed_note: 'Folded into two hosts as the note recommended. Primary host [[plenitude-void]]
+  on 2026-08-18 (the ensemble reframe, Bronfman et al. as the overflow case, Ward
+  et al. as the cut inference, subjective inflation as the account of the seeming).
+  Secondary host [[resolution-void]] on 2026-09-18 (metamers generalising the receipt-free
+  point from single dimensions to scene-level equivalence classes; ensemble coding
+  as the concrete mechanism for the six-orders-of-magnitude compression). Tertiary
+  host [[bandwidth-of-consciousness]] deliberately skipped: it remains over its hard
+  length threshold, and the note marked it references-only and optional.'
 created: 2026-08-18
 date: &id001 2026-08-18
 draft: false
