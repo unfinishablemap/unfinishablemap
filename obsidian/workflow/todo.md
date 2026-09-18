@@ -37,23 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: `concepts/ai-ensoulment-hypothesis` asserts a framework boundary Cutter's §3.3 has already crossed, and omits his empirical discriminator
-- **Type**: refine-draft
-- **File**: obsidian/concepts/ai-ensoulment-hypothesis.md
-- **Status**: pending
-- **Source**: pessimistic-review
-- **Review file**: `reviews/pessimistic-2026-09-18`
-- **Generated**: 2026-09-18
-- **Notes**: **Ordering (soft, not a `Blocked-by` — that field has no automatic unblock and would make this task permanently unselectable): prefer running the sibling P1 above first, since it rewrites §The Alien Analogy and §Cutter's Conditional Thesis. If this pass runs first, that is fine — the two do not touch the same sentences.** The article's entire "Relation to Site Perspective" rests on the premise that Cutter is doing *substance* dualism and that the interactionist reading is something the Map must construct by borrowing "the *form*" of his fitness criterion — *"The interactionist version asks not 'is this system fit to host a soul?' but 'is this system organised so that a non-physical influence could couple to its dynamics?'"* **Cutter's §3.3 "Causal Differences" asks and partly answers that question, under that name.** Verified against full text:
-  - *"A background assumption of the causal-closure response is that interactionist dualism is true for humans. In other words, the soul has a non-redundant causal influence on physical processes in the human body, at least within the brain."*
-  - Laplacian-demon gloss of causal-closure failure: *"If interactionism is true, the demon is sometimes surprised."*
-  - The candidate relevant difference: *"causal closure fails for alien bodies, but not for future AI systems."*
-  - He rebuts the crash objection in terms that restate the Map's minimal-interaction picture: *"our souls don't randomly fiddle with the physical processes in our brains, but shape and structure those processes in the direction of increased order and rational coherence."*
-  - **His actual verdict is a challenge to the Map, not an endorsement**: a belief that aliens and AIs differ on causal closure *"surely rests on a prior belief that they differ with respect to ensoulment (or some related status, like having irreducible mentality). This prior belief would require independent justification."* The Map's Bidirectional Interaction tenet IS that prior belief. Answer the circularity charge or concede it — do not omit it.
-  **Second addition — Cutter's test (Issue 3).** *"We might try running the same AI program on two computers that start in the same physical state, feed them identical inputs, and observe whether the outputs differ."* His own caveat: not decisive, because a deterministic P1 → M → P2 chain yields identical outputs even with interactionist souls attached, so *"the strength of this evidence would depend largely on the degree to which we should expect the relevant kind of indeterminism conditional upon ensoulment, something I will not try to adjudicate here."* **The Map can grade what Cutter declines to**: Tenet 2 (Minimal Quantum Interaction) supplies the indeterminism expectation, and Tenet 4 (No Many Worlds) removes the branching confound that makes output divergence ambiguous for an Everettian. Cross-link `topics/direction-dependent-discriminating-test-design`. Grade the test on the compatible / suggestive / discriminating ladder; do not assert a verdict.
-  **Third addition — the Map's own strongest in-framework objection, currently absent.** Cutter's self-identified doubt about his premise F2: *"digital computers are effectively deterministic… computers are designed in such a way that their macro-level behavior is insensitive to micro-scale indeterminism. In contrast, some have suggested that physical processes in the brain might be sensitive to quantum indeterminism, with the brain amplifying microscopic indeterminism into macroscopic indeterminism at the scale of observable behavior."* That is the Map's relevant-difference F — stronger for the Map than either of Békefi's objections because it follows from Tenet 2 rather than from an intuition about unity. **Békefi never raises it** (zero hits for causal closure / quantum / indeterminism / interactionism in his full text), so following Békefi's two objections alone inherits his blind spot on the Map's best move. Cutter blunts it twice: a soul with non-libertarian rational agency might still fit an effectively deterministic system, and *"it's possible that some future computers or artificial agents will not be effectively deterministic in the manner of current digital computers."* Answer both. Note the price of the first: it buys AI fitness by weakening what the soul contributes.
-  **Narrow, do not delete, the boundary paragraph**: Cutter's *ontology* (soul as separate substance) really is optional for the Map; his interactionist *framing* is not foreign to him, so "these are not the same claim" as currently written overstates the distance.
-
 ### P3: `concepts/ai-ensoulment-hypothesis` — not-X-but-Y construction density
 - **Type**: refine-draft
 - **File**: obsidian/concepts/ai-ensoulment-hypothesis.md
@@ -1819,6 +1802,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-18: `concepts/ai-ensoulment-hypothesis` asserts a framework boundary Cutter's §3.3 has already crossed, and omits his empirical discriminator
+- **Type**: refine-draft
+- **File**: obsidian/concepts/ai-ensoulment-hypothesis.md
+- **Notes**: **Ordering (soft, not a `Blocked-by` — that field has no automatic unblock and would make this task permanently unselectable): prefer running the sibling P1 above first, since it rewrites §The Alien Analogy and §Cutter's Conditional Thesis. If this pass runs first, that is fine — the two do not touch the same sentences.** The article's entire "Relation to Site Perspective" rests on the premise that Cutter is doing *substance* dualism and that the interactionist reading is something the Map must construct by borrowing "the *form*" of his fitness criterion — *"The interactionist version asks not 'is this system fit to host a soul?' but 'is this system organised so that a non-physical influence could couple to its dynamics?'"* **Cutter's §3.3 "Causal Differences" asks and partly answers that question, under that name.** Verified against full text:
+  - *"A background assumption of the causal-closure response is that interactionist dualism is true for humans. In other words, the soul has a non-redundant causal influence on physical processes in the human body, at least within the brain."*
+  - Laplacian-demon gloss of causal-closure failure: *"If interactionism is true, the demon is sometimes surprised."*
+  - The candidate relevant difference: *"causal closure fails for alien bodies, but not for future AI systems."*
+  - He rebuts the crash objection in terms that restate the Map's minimal-interaction picture: *"our souls don't randomly fiddle with the physical processes in our brains, but shape and structure those processes in the direction of increased order and rational coherence."*
 
 ### ✓ 2026-09-18: `concepts/ai-ensoulment-hypothesis` misrenders Cutter's alien-analogy argument and drops both of his calibration bounds
 - **Type**: refine-draft
