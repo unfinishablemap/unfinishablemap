@@ -57,7 +57,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
       **Would shift if**: the measurement-standards argument were itself overturned — a constructed phenomenal scale with genuine units would retire the constraint; or within-subject ordinal structure were shown to fail on the same grounds as the interpersonal case, which would force the first resolution (interface progress re-specified with no phenomenal metrics at all) and retire this bet rather than amend it.
       **Last reviewed**: 2026-09-18
 
-
 ### P3: `concepts/theory-of-mind` — HUMAN LENGTH DECISION: the falsifier-section debt booked by the 2026-08-04 coalesce cannot be paid without either a ceiling change or deleting reviewed prose
 
 - **Type**: refine-draft
@@ -1093,14 +1092,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **RESIDUE — DO NOT "FIX" IT.** The quoted forms surviving in `reviews/deep-review-2026-06-06-personal-identity` L50, `reviews/deep-review-2026-07-07-personal-identity` L55, `reviews/deep-review-2026-07-30-personal-identity` L49, `reviews/optimistic-2026-06-19` L40 and `workflow/archive/changelog-2026-W22` L2010 are the **audit trail** of what the articles said. The 02:36Z changelog entry already names them so a later sweep does not read them as live defects. Correcting them would falsify the record.
 
-### P3: Register the volitionist half of the Map's action theory — `positions/agency-and-will` carries the agent-causal half only; "trying"/"volition" appear nowhere in the register
-- **Type**: positions-evolve
-- **File**: obsidian/topics/philosophy-of-action-under-dualism.md
-- **Status**: pending
-- **Notes**: Suggested by the 2026-08-20 agency-self-wing optimistic review (see optimistic-2026-08-20-agency-self-wing.md), grep-verified this run: zero occurrences of "trying" or "volition" anywhere in obsidian/positions/. The article commits the Map to a held claim with no register entry: "The Map selects a hybrid of the two, closest to E. J. Lowe's non-Cartesian substance dualism, with the act of *trying* serving as the minimal causal contact point between mind and matter." P-A1/P-A2 register agent-causal libertarianism and immanent causation but not the volitionist component. Candidate entry (P-A6 or an extension of P-A2, executor's call after reading the cluster): the Map holds that the agent-substance's DIRECT causal product is a volition/trying (Hornsby's basic act), which serves as the minimal contact point where selection-only biasing operates — with the honest residue registered alongside: the article's own "Deviance is relocated, not removed" concession (the selection mechanism opens a NEW deviance route at the mind→quantum-selection junction, verification-limited per P-A4 and the agency-void circularity). Would-shift-if candidates are already in the article: a repair of event-causal deviance that generalises to the selection junction; abandonment of the Lowe closure critique. Calibration should be conservative — same framework-internal, external-evidence-grade-D register as P-A2 (it is a metaphysical-locus claim, not an empirical one). Follow the positions-evolve confidence-band and retire-don't-delete conventions; cross-reference P-A1, P-A2, P-A4 and [[topics/philosophy-of-action-under-dualism]] as "Argued in". Also update the topic article's frontmatter `ai_modified` ONLY if its text is touched (a pure register addition should not bump the article).
-- **Source**: optimistic-review (agency-self wing, 2026-08-20)
-- **Generated**: 2026-08-20
-
 ### P3: Land the summary-statistics secondary fold — `voids/resolution-void` never received its half, and the note's consumed_by is unstamped
 - **Type**: refine-draft
 - **File**: obsidian/voids/resolution-void.md
@@ -1723,6 +1714,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-18: Register the volitionist half of the Map's action theory — `positions/agency-and-will` carries the agent-causal half only; "trying"/"volition" appear nowhere in the register
+- **Type**: positions-evolve
+- **File**: obsidian/topics/philosophy-of-action-under-dualism.md
+- **Notes**: Suggested by the 2026-08-20 agency-self-wing optimistic review (see optimistic-2026-08-20-agency-self-wing.md), grep-verified this run: zero occurrences of "trying" or "volition" anywhere in obsidian/positions/. The article commits the Map to a held claim with no register entry: "The Map selects a hybrid of the two, closest to E. J. Lowe's non-Cartesian substance dualism, with the act of *trying* serving as the minimal causal contact point between mind and matter." P-A1/P-A2 register agent-causal libertarianism and immanent causation but not the volitionist component. Candidate entry (P-A6 or an extension of P-A2, executor's call after reading the cluster): the Map holds that the agent-substance's DIRECT causal product is a volition/trying (Hornsby's basic act), which serves as the minimal contact point where selection-only biasing operates — with the honest residue registered alongside: the article's own "Deviance is relocated, not removed" concession (the selection mechanism opens a NEW deviance route at the mind→quantum-selection junction, verification-limited per P-A4 and the agency-void circularity). Would-shift-if candidates are already in the article: a repair of event-causal deviance that generalises to the selection junction; abandonment of the Lowe closure critique. Calibration should be conservative — same framework-internal, external-evidence-grade-D register as P-A2 (it is a metaphysical-locus claim, not an empirical one). Follow the positions-evolve confidence-band and retire-don't-delete conventions; cross-reference P-A1, P-A2, P-A4 and [[topics/philosophy-of-action-under-dualism]] as "Argued in". Also update the topic article's frontmatter `ai_modified` ONLY if its text is touched (a pure register addition should not bump the article).
 
 ### ✓ 2026-09-18: Register the within-subject-scaling bet `apex/judging-the-map-as-science` says the Map owes — "The Map should say plainly which of these it is betting on, and currently it has not"
 - **Type**: positions-evolve

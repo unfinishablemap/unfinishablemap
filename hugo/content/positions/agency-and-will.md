@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-08
-ai_modified: 2026-09-11 10:52:38+00:00
+ai_modified: 2026-09-18 20:38:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts:
@@ -13,14 +13,14 @@ concepts:
 - '[[mental-causation-and-downward-causation]]'
 - '[[evidential-status-discipline]]'
 created: 2026-06-08
-date: &id001 2026-09-11
+date: &id001 2026-09-18
 description: 'The Map''s positions on free will and agency: the agent-causal libertarian
-  commitment, the interpretation of Libet-style timing data, the substance-leaning
-  scope, and where the case is held conservatively.'
+  commitment, the volition as the interface contact point, the interpretation of Libet-style
+  timing data, and where the case is held conservatively.'
 draft: false
 human_modified: 2026-06-08
 last_curated: 2026-06-08
-lastmod: 2026-09-11 10:52:38+00:00
+lastmod: 2026-09-18 20:38:49+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -36,7 +36,7 @@ topics:
 
 ## About this domain
 
-These positions cover what the Map holds about agency: whether choices are genuinely authored, what kind of causation authorship requires, how the apparent timing challenge from Libet-style experiments is treated, and how far the agency case is distinguished from sophisticated compatibilism. The cluster sits downstream of Tenets 1 (Dualism) and 3 (Bidirectional Interaction); it connects to the quantum-interface register (the *how* of selection) but is logically separable from it. None are tenets, and all but **[P-A2](/positions/agency-and-will/#p-a2)** are freely retireable: its "Bears on" note records Tenet 4's indexical objection inheriting strength from the persisting subject it posits — shared with [P-I1](/positions/individuation-and-subjecthood/#p-i1), not carried alone — so it fails the foundational-dependency test.
+These positions cover what the Map holds about agency: whether choices are genuinely authored, what kind of causation authorship requires, what the agent directly causes and where that makes contact with matter, how the apparent timing challenge from Libet-style experiments is treated, and how far the agency case is distinguished from sophisticated compatibilism. The cluster sits downstream of Tenets 1 (Dualism) and 3 (Bidirectional Interaction); it connects to the quantum-interface register (the *how* of selection) but is logically separable from it. None are tenets, and all but **[P-A2](/positions/agency-and-will/#p-a2)** are freely retireable: its "Bears on" note records Tenet 4's indexical objection inheriting strength from the persisting subject it posits — shared with [P-I1](/positions/individuation-and-subjecthood/#p-i1), not carried alone — so it fails the foundational-dependency test.
 
 **Mechanism debt inherited, not discharged.** Where these positions assert that consciousness *authors* or *selects* — that it does genuine causal work — they inherit the open mechanism debt logged in the quantum-interface register: no worked toy model of how selection couples to a neural quantum state, and the bias-without-deviation dilemma (selection that does real work while preserving Born statistics exactly) sitting close to epiphenomenalism until a positive account lands. The agency case is held to survive even if the specific quantum mechanism is wrong, so these positions do not *depend* on the debt being paid; but they should not read more confident about the metaphysics of causal work than the upstream register does. Full statement of the crux: [the quantum-interface register's mechanism-debt anchor](/positions/quantum-interface/#mechanism-debt).
 
@@ -108,3 +108,13 @@ These positions cover what the Map holds about agency: whether choices are genui
 - **Updated 2026-09-11**: **Argued in** extended to [compatibilism](/concepts/compatibilism/), the corpus's only survey of the rival this position distinguishes itself from and uncited here until now (metadata repair queued 2026-08-22; no credence, status or claim change).
 - **Updated 2026-08-21**: the two alternatives-based residue items conditionalised on the Map's leeway defence, and **Argued in** extended to the Frankfurt-cases and Strawsonian-responsibility articles — since 2026-07-29 the canonical loci for two of the three residue items, neither previously cited. No credence change: the Strawsonian instance strengthens the main claim about as much as the Frankfurt retreat narrows the residue, which is narrowed, not eliminated.
 - **Last reviewed**: 2026-09-11
+
+## P-A6: The agent's direct causal product is a volition, and the volition is where the interface makes contact
+
+- **Status**: live <span id="p-a6"></span>
+- **Calibration** ([multi-axis](/positions/methodology-and-calibration/#calibration-schema)): credence moderate · external-evidence grade D (a metaphysical locus claim; no independent empirical support) · structural centrality moderate · model maturity developed · empirical discriminability none · framework-internal only: yes
+- **Asserts**: The Map holds a *volitionist* agent-causal hybrid, closest to E. J. Lowe: the agent-substance's direct causal product is not a bodily movement but a volition — Hornsby's *trying*, the basic act — and the trying is the minimal contact point at which selection-only biasing operates. This fixes the *locus* of contact only; the agent-causal half is [P-A1](/positions/agency-and-will/#p-a1) and [P-A2](/positions/agency-and-will/#p-a2), and the mechanism is the quantum-interface register's. Registered with it is the concession the source makes: **deviance is relocated, not removed**. A trying closes the classic intention→movement gap, but the selection-only route opens a fresh deviance channel at the mind→quantum-selection junction, where a trying could bias a parallel outcome rather than the intended one. That residue is verification-limited under [P-A4](/positions/agency-and-will/#p-a4) and the [agency void](/voids/agency-void/)'s circularity, and is owned as a standing cost rather than a problem the Map expects to close. The claim is metaphysical, not empirical: no measurement distinguishes a basic-act trying from a sufficiently fine-grained event-causal antecedent.
+- **Depends on**: [P-A1](/positions/agency-and-will/#p-a1); [P-A2](/positions/agency-and-will/#p-a2) (immanent/substance causation); [P-A4](/positions/agency-and-will/#p-a4) (the verification limit); Tenets 1 and 2; Lowe's critique of the causal closure of the physical
+- **Argued in**: [philosophy-of-action-under-dualism](/topics/philosophy-of-action-under-dualism/), [agent-causation](/concepts/agent-causation/), [overdetermination-dissolution-under-selection-only-interactionism](/topics/overdetermination-dissolution-under-selection-only-interactionism/)
+- **Would shift if**: a repair of event-causal deviance were found that generalises to the mind→quantum-selection junction, since the trying would then buy no advantage over the antecedent it displaces; or the Lowe closure critique were abandoned or defeated; or [P-A1](/positions/agency-and-will/#p-a1)/[P-A2](/positions/agency-and-will/#p-a2) were retired, since volitionism without a substance-agent reverts to the event-causal reading [P-A2](/positions/agency-and-will/#p-a2) rejects.
+- **Last reviewed**: 2026-09-18

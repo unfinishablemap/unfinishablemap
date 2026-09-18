@@ -1,20 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-09-16 14:50:51+00:00
+ai_modified: 2026-09-18 20:38:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 author: Andy Southgate
 concepts:
 - '[[evidential-status-discipline]]'
 created: 2026-06-04
-date: &id001 2026-09-16
+date: &id001 2026-09-18
 description: The Map's explicit, maintained register of positions it currently holds
   — claims with status, confidence, dependencies, and conditions that would shift
   them.
 draft: false
 human_modified: 2026-06-04
 last_curated: 2026-06-04
-lastmod: 2026-09-16 14:50:51+00:00
+lastmod: 2026-09-18 20:38:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -72,13 +72,14 @@ That same commit did not update the paragraph above, which reads the column it h
 - **Updated 2026-09-06**: re-derived on [P-MC3](/positions/arguments-for-mental-causation/#p-mc3) moving n/a → indirect — an entry bundling a structural diagnostic with the Map's own escape, whose shift condition turns on a physics question, filed among the normative and meta commitments. **n/a** 20 → 19, **indirect** 22 → 23. Live 56, inert ten, framework-internal inert nine, high-centrality inert five all unchanged: the move is within the empirically-live bands and touches neither inert bucket.
 - **Updated 2026-09-14**: re-derived on adding [P-TU1](/positions/thought-and-understanding/#p-tu1) (`indirect` · framework-internal: no): live 56 → 57, **indirect** 23 → 24. Inert count unchanged at ten, now ten of fifty-seven; framework-internal inert nine and high-centrality inert five unchanged.
 - **Updated 2026-09-14** (second pass): re-derived on adding [P-PI1](/positions/perception-and-the-interface/#p-pi1) (`indirect` · framework-internal: no): live 57 → 58, **indirect** 24 → 25. Inert count unchanged at ten, now ten of fifty-eight; framework-internal inert nine and high-centrality inert five unchanged.
+- **Updated 2026-09-18**: re-derived on adding [P-A6](/positions/agency-and-will/#p-a6) (`none` · framework-internal: yes · structural centrality moderate), the volitionist half of the action theory: live 58 → 59, **none** 7 → 8, inert ten → eleven, framework-internal inert nine → ten. High-centrality inert unchanged at five — [P-A6](/positions/agency-and-will/#p-a6) is moderate. Eleven of fifty-nine is still a little under a fifth, so the disclosed-liability reading above is unmoved. Re-derived from the `- **Calibration**` lines rather than carried forward, and the whole chain back to the 2026-09-06 baseline reproduced exactly.
 
 ## Domains
 
 The register is grouped by domain so it stays scannable as it grows. Each domain file holds 8–15 positions.
 
 - [Quantum interface](/positions/quantum-interface/) — mechanism commitments, Born-rule treatment, MQI scope, post-decoherence selection
-- [Agency and will](/positions/agency-and-will/) — agent-causal libertarian free will, the Libet timing data, the verification limit, the compatibilist-symmetry discipline
+- [Agency and will](/positions/agency-and-will/) — agent-causal libertarian free will, the volition (a *trying*) as what the agent directly causes and where the interface makes contact, the Libet timing data, the verification limit, the compatibilist-symmetry discipline
 - [Voids as evidence](/positions/voids-as-evidence/) — what the cognitive-void catalogue evidentially supports: framework-internal coherence under the common-cause null, not independent confirmation
 - [Value in selection](/positions/value-in-selection/) — the value-blind / value-sensitive fork: whether felt valence does the selecting or merely watches, the collated battery of evidence that would move the fork in either direction, and the upstream premise both entries rest on (intrinsic value resides in phenomenal experience)
 - [Moral status](/positions/moral-status/) — who can be wronged: the phenomenal-sentientism criterion (valenced experience necessary and sufficient for moral status, read phenomenally rather than functionally), registered downstream of the value domain's premise about what bears intrinsic value and kept distinct from it — biocentrism and agency pluralism the rivals on the necessity direction, status threshold not scalar

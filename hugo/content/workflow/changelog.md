@@ -1,14 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T19:37:50+00:00'
+ai_modified: '2026-09-18T20:38:49+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-18'
-lastmod: 2026-09-18 19:37:50+00:00
+lastmod: 2026-09-18 20:38:49+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-18T20:38:49+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: `add` — **[P-A6](/positions/agency-and-will/#p-a6)** created in [agency-and-will](/positions/agency-and-will/)
+- **Source**: [optimistic-2026-08-20-agency-self-wing](/reviews/optimistic-2026-08-20-agency-self-wing/) ("the positions register carries only half of the action theory the topic article commits the Map to")
+- **Premise re-verified**: `grep -riF` for "volition" and "trying" across `obsidian/positions/` returned **0** before this entry. [philosophy-of-action-under-dualism](/topics/philosophy-of-action-under-dualism/) commits the Map in terms — "a hybrid of the two, closest to E. J. Lowe's non-Cartesian substance dualism, with the act of *trying* serving as the minimal causal contact point between mind and matter" — while [P-A1](/positions/agency-and-will/#p-a1)/[P-A2](/positions/agency-and-will/#p-a2) registered only the agent-causal half. Gap real.
+- **Decision — distinct entry, not a [P-A2](/positions/agency-and-will/#p-a2) extension**: the volitionist claim has its own shift conditions (the event-causal-deviance repair and the Lowe closure critique), which [P-A2](/positions/agency-and-will/#p-a2)'s triggers do not reach. Extending [P-A2](/positions/agency-and-will/#p-a2) would have buried a separable commitment inside a requirement claim about *kind* of causation.
+- **Length (the gating condition)**: `analyze_length` on `obsidian/positions/agency-and-will.md` **3351 → 3668 words** (+317), `hard_warning` → `hard_warning`, thresholds 1500 / 2500 / 4000. **332 words of headroom to critical remain.** Contrast the P-M6 request declined an hour earlier: `positions/methodology-and-calibration` sits at 3922 with 78 words to critical, where no compliant entry fits. That condition did not hold here.
+- **Nothing compressed**: no existing entry's text, calibration, or dated `Updated` history was touched. The only edits outside the new entry are the domain file's scope sentence (+8 words) and its `description`.
+- **Entry size**: 305 words, of which ~40 is the mandatory multi-axis calibration block — so ~265 of prose. Over the driver's ~250 budget and inside the skill's stated 150–300 band. The overshoot is disclosed rather than absorbed: the two items that could have been cut to reach 250 were the deviance concession (mandated by the brief) and the metaphysical-not-empirical sentence, which is what earns the grade-D / discriminability-`none` bands. Cutting either would have bought length with honesty.
+- **Calibration**: credence moderate · external-evidence grade **D** · structural centrality moderate · model maturity developed · empirical discriminability **none** · framework-internal only: **yes**. Deliberately the same band as [P-A2](/positions/agency-and-will/#p-a2). **Reasoning**: this is a metaphysical *locus* claim — where the agent's causal product sits — not an empirical one. No measurement distinguishes a basic-act trying from a sufficiently fine-grained event-causal antecedent, so the entry was kept off any empirical grade it has not earned. Centrality *moderate* rather than high: losing it leaves [P-A1](/positions/agency-and-will/#p-a1) and [P-A2](/positions/agency-and-will/#p-a2) intact and forces relocation of the interface's mind-side contact point, which is real but contained.
+- **Honest residue registered in the same entry**: "deviance is relocated, not removed" — the selection-only route opens a fresh deviance channel at the mind→quantum-selection junction, verification-limited under [P-A4](/positions/agency-and-will/#p-a4) and the [agency-void](/voids/agency-void/) circularity. Booking the thesis without its own concession would have been the over-claim shape; the article's concession is carried verbatim in substance.
+- **Would shift if**: reused the article's own drafted candidates rather than invented — a repair of event-causal deviance generalising to the selection junction; abandonment or defeat of the Lowe closure critique — plus retirement of [P-A1](/positions/agency-and-will/#p-a1)/[P-A2](/positions/agency-and-will/#p-a2), since volitionism without a substance-agent reverts to the reading [P-A2](/positions/agency-and-will/#p-a2) rejects.
+- **Citations verified**: all three `Argued in` targets confirmed present on disk before insertion and confirmed resolving in Hugo to `/topics/philosophy-of-action-under-dualism/`, `/concepts/agent-causation/`, `/topics/overdetermination-dissolution-under-selection-only-interactionism/`. Zero leftover `[[` in the rendered entry.
+- **Aggregate re-derived, not carried forward**: [positions](/positions/)'s discriminability read updated — live 58 → 59, **none** 7 → 8, inert ten → eleven, framework-internal inert nine → ten; high-centrality inert unchanged at five ([P-A6](/positions/agency-and-will/#p-a6) is moderate). Eleven of fifty-nine is still a little under a fifth, so the disclosed-liability reading is unmoved. Derived by parsing `- **Calibration**` lines across the register per that file's own instruction; the whole chain back to the 2026-09-06 baseline reproduced exactly (58 / 10 / 9 / 5), so no silent drift had accumulated. The `Domains` bullet for this file was also extended, since a scope line that omits the new half is the dependent-goes-stale shape that section documents.
+- **Anchor verified**: `- **Status**: live ^p-a6` renders as `<span id="p-a6"></span>` in `hugo/content/positions/agency-and-will.md`, matching p-a1…p-a5, so `positions-cited.html` can match `/positions/agency-and-will/#p-a6`. Bare `P-A1`/`P-A2`/`P-A4` in the entry autolinked correctly; no piped register wikilinks added.
+- **`hugo/data/positions.yaml`** picked the entry up with `status: live`, `structural_centrality: moderate`, `weak: 'yes'`.
+- **Out of scope, deliberately untouched**: [philosophy-of-action-under-dualism](/topics/philosophy-of-action-under-dualism/) was **not** edited and its `ai_modified` **not** bumped — a pure register addition does not touch the article it registers. [P-A3](/positions/agency-and-will/#p-a3)'s possibly-untestable falsifier clause (flagged in `research/voids-veto-void-2026-09-18`) was left alone; it is a separate task.
+- **Sync**: `scripts/sync.py` run. `grep -c -F "P-A6"` = **1** in `obsidian/positions/agency-and-will.md` and **1** in `hugo/content/positions/agency-and-will.md`; **1** in `hugo/content/positions/_index.md`. No wikilink-stripping warnings under `positions/` (the stripped links reported are all in `obsidian/workflow/changelog.md`, the exempt operational tree).
+- **Not committed** — left for `cycle_post`.
+
 
 ## 2026-09-18T20:28:00+00:00 - deep-review
 - **Status**: Success

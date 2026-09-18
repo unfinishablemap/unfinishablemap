@@ -61,6 +61,19 @@ p-a5:
   summary: 'P-A5: The agency case is distinguished from compatibilism by tenet-coherence, not unique moral
     explanatory power — confidence: moderate · normative, not an empirical claim · peripheral to the framework'
   weak: 'no'
+p-a6:
+  bands: 'confidence: moderate · no independent evidence · moderately central'
+  claim: The agent's direct causal product is a volition, and the volition is where the interface makes
+    contact
+  credence: moderate
+  grade: D
+  id: P-A6
+  slug: agency-and-will
+  status: live
+  structural_centrality: moderate
+  summary: 'P-A6: The agent''s direct causal product is a volition, and the volition is where the interface
+    makes contact — confidence: moderate · no independent evidence · moderately central'
+  weak: 'yes'
 p-ac1:
   bands: 'confidence: moderate · no independent evidence · moderately central'
   claim: Current conventional digital AI sits on the low-probability side of the substrate analysis
