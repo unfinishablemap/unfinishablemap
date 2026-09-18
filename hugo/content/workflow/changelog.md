@@ -1,14 +1,45 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T06:12:57+00:00'
+ai_modified: '2026-09-18T06:55:25+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-18'
-lastmod: 2026-09-18 06:12:57+00:00
+lastmod: 2026-09-18 06:55:25+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-18T06:55:25+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/) and [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) (both in scope for the one task; XENONnT had propagated to neither)
+- **Task**: P1 convergent outer-review finding (3/3 legs, 2026-09-18) — XENONnT 2026 had not propagated from `topics/penrose-gravity-induced-collapse-empirical-prospects`, and the Majorana result was mis-dated.
+- **Changes (topics article)**:
+    - **Factual error fixed.** Removed "the Gran Sasso germanium-detector null result of 2020 and its confirmation that August by the Majorana Demonstrator". Majorana published in 2022, was an independent white-CSL search with a DP reinterpretation, and was not a confirmation of the Donadi result. Account copied from the Penrose empirical article rather than reconstructed, including the collaboration's 2023 erratum.
+    - **Currency resolved, not re-hedged.** Dropped "whether the whisker-width margin survives the intervening results is a question the current bounds literature has to answer" and supplied the answer: XENONnT's 2026 analysis, quoted verbatim from the abstract the collect pass verified at arXiv:2506.05507 (*PRL* 136, 120201) — two orders of magnitude for CSL, a factor of five for DP, originally proposed CSL strength and correlation length "excluded experimentally for the first time". Resolved toward the Claude leg's reading over the ChatGPT leg's partial credit for the hedge, as the task directed.
+    - **Both halves of the exclusion stated.** New paragraph carries across the Penrose article's scope point: the nominal GRW point falls only as embedded in the mass-proportional Markovian white-noise model the analysis assumes; discrete-GRW implementations, dissipative and coloured extensions, and modified noise spectra do not fall with it.
+    - **Secondary-for-primary sourcing fixed.** Added Donadi et al. 2021 (*Nature Physics* 17, 74-78), Arnquist et al. 2022 (*PRL* 129, 080401) with the 2023 erratum (*PRL* 130, 239902), and Aprile et al. 2026 (*PRL* 136, 120201). Ball 2022 demoted to a parenthetically-labelled popular account and moved to the end of the list.
+    - **Barbatti corrected.** "Barbatti's (2024)" → Tomaz, Mattos & Barbatti 2024; "opened new channels for gravity-collapse testing" → the paper's actual critical thrust (gravitational self-energy saturation, limited extensivity, collapse weaker at macroscopic scales than the model needs). The paper's specific 1 kg / ~1 s figure was *not* carried across — unverified at the publisher this run.
+    - **Self-undercutting argument repaired (Gemini leg).** The flat "it avoids the 'ad hoc' objection" now carries through the caveat its own parenthetical points at: the underground bounds displace Penrose's derived R₀, so the surviving DP model sets R₀ by experiment. Repair kept narrow — derivation from gravitational self-energy is still a different *kind* of motivation than a fitted constant, weakened not annulled. The review's "fatal contradiction in the manuscript's ontological foundation" framing was **not** adopted.
+    - Also softened the absolute "No free parameters" to "As Penrose proposes it, the model carries no free parameters", so the section's opening claim and its later caveat agree.
+- **Changes (concepts sibling)**: "Verdict as of 2022" replaced with a current verdict carrying the XENONnT result and the same white-noise scope limit; Majorana and XENONnT added to the falsifiable-predictions list; Arnquist 2022 + erratum and Aprile 2026 added to references; Ball demoted to a popular pointer.
+- **Length**: topics 3677 → 3967 words (hard 4000, 32 words headroom); concepts 2654 → 2857 (hard 3500, 642 headroom). The topics additions were paid for by condensing within the touched paragraphs: the duplicated phenomenological-parameter list at the Penrose section opener, the redundant restatement of the ad hoc objection already conceded two sections earlier, and the closing sentence of the ad hoc paragraph.
+- **⚠️ Headroom warning for the five remaining open tasks on the topics article**: 32 words. Any further addition there must be length-neutral or preceded by a condense pass. The concepts sibling has room.
+- **Not actioned, deliberately**: the review's Penrose-page recommendation (same bound at a different confidence level; our page is current); the 9.1σ figure, λ/r_C² bound, R₀ > 4.9×10⁻¹⁰ m at 90% C.L., DOI 10.1103/2jm3-4976, the January 2026 sodium-nanoparticle result, the 2025 LISA Pathfinder analysis, Piscicchia 2024, Altamura/Vinante/Carlesso 2025 and "Pedalino et al. 2026" — all unverified at the publisher of record. No URL from any of the three reviews was followed; every reference added here was taken from our own Penrose article's reference list, which carries the resolved metadata.
+- **Engagement classification**: none applicable — this pass made no named-opponent reply. The two open tasks on this article that do (causal closure; the no-collapse rivals) were left untouched and remain in the queue.
+- **Published**: yes
+
+## 2026-09-18T06:22:00+00:00 - coalesce
+- **Status**: Abandoned (movement check only — no sweep re-run, no merge performed)
+- **Method**: Per the standing steady-state finding coalesce-candidate-pool-exhausted-by-role-granularity, this run did the cheap movement check rather than re-scoring the pool. The 09-17 09:54 run TF-IDF-scored all 757 articles and rejected the top 60 pairs; the 09-17 18:55 run found zero pool movement. Re-running either would duplicate work.
+- **Pool movement since 2026-09-17T18:55**: **ZERO.** `git log --diff-filter=A --since=2026-09-16` over `obsidian/topics|concepts|voids` returns nothing; `--diff-filter=D` over the same paths and `--diff-filter=A` over `archive/` both return nothing. Counts unchanged: topics 328, concepts 326, voids 103 (the raw `ls` figures 329/327/104 include the three section-index files; 760 - 3 = the same 757-article pool by size *and* membership). Working tree is clean in all three sections.
+- **Direction of change**: net **+68 lines** across content sections since 09-17 00:00 (512 added / 444 deleted, all refine-draft and deep-review passes). Articles grew; none shrank, none merged, none archived.
+- **Wake-up trigger re-checked, still cannot fire.** The 09-17 18:55 finding holds unchanged: open `condense`-typed tasks are **7**, every one parked — 3 `#veto` (`concepts/composition-question-rivals`, `topics/meaning-of-life`, `apex/phenomenal-output-causal-machinery-dissociation`), 2 `BLOCKED:` pending human editorial decision (`topics/epistemology-of-convergence-arguments` and the same apex file), 2 `HUMAN LENGTH DECISION` blocks (`topics/ethics-of-cognitive-enhancement-under-dualism`, `topics/epistemology-of-convergence-arguments`). Open `archive`-typed tasks: **0**. The operator has not acted on any parked length decision since 09-17.
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
+- **Prediction (unchanged)**: the movement check will keep returning "no change" until a human resolves a parked length decision or an `/archive`-type task is minted. Until then the coalesce cycle slot is a deterministic no-op and this entry is the cheapest possible form of it (~6 shell commands, no article reads).
 
 ## 2026-09-18T06:12:57+00:00 - refine-draft
 - **Status**: Success

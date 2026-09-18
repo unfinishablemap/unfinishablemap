@@ -4,7 +4,7 @@ description: "GRW, CSL, and Penrose OR: physical collapse mechanisms that solve 
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-09-14T19:49:29+00:00
+ai_modified: 2026-09-18T06:55:25+00:00
 draft: false
 last_deep_review: 2026-07-06T14:43:35+00:00
 topics:
@@ -118,12 +118,13 @@ Orch OR aligns with [[tenets#^dualism|Dualism]] and [[tenets#^bidirectional-inte
 
 Spontaneous collapse theories are **falsifiable**—they make predictions distinguishable from standard quantum mechanics:
 
-1. **Germanium detector experiments** (Donadi et al. 2021, Gran Sasso): Ruled out the parameter-free Diósi-Penrose model; constrained CSL parameter space
-2. **Matter-wave interference**: Large molecule diffraction experiments test collapse rates
-3. **Gravitational wave detectors**: Ultra-sensitive LIGO-type devices can detect spontaneous heating predicted by CSL
-4. **Neutron star observations**: Constrain collapse models via thermal signatures
+1. **Germanium detector experiments** (Donadi et al. 2021, Gran Sasso; Arnquist et al. 2022, Majorana Demonstrator): Ruled out the parameter-free Diósi-Penrose model; constrained CSL parameter space
+2. **Xenon time-projection chambers** (Aprile et al. 2026, XENONnT): the same spontaneous-radiation signature searched at far greater target mass, yielding the current world-leading bounds on both CSL and Diósi-Penrose
+3. **Matter-wave interference**: Large molecule diffraction experiments test collapse rates
+4. **Gravitational wave detectors**: Ultra-sensitive LIGO-type devices can detect spontaneous heating predicted by CSL
+5. **Neutron star observations**: Constrain collapse models via thermal signatures
 
-**Verdict as of 2022**: Original GRW model "survived by a whisker" (Ball, 2022)—just within experimental bounds. CSL parameter space increasingly constrained. Orch OR timescales revised upward (microseconds, not femtoseconds), keeping theory viable but contested. See [[testing-consciousness-collapse|the concrete prediction catalogue]] for a systematic mapping of where each framework diverges from standard decoherence.
+**Current verdict**: The much-quoted 2022 reading—that the original GRW model "survived by a whisker" (Ball, 2022)—no longer holds. XENONnT's 2026 search improved the best previous constraints on CSL by two orders of magnitude and on Diósi-Penrose by a factor of five, and excluded the originally proposed GRW/CSL collapse strength and correlation length "experimentally for the first time" (Aprile et al. 2026). The scope of that exclusion matters as much as the fact of it: the values are excluded *as embedded in the mass-proportional Markovian white-noise model the analysis assumes*, so discrete-GRW implementations, dissipative and coloured extensions, and modified noise spectra do not fall with them. The programme continues on narrower ground rather than ending. Orch OR timescales remain revised upward (microseconds, not femtoseconds), keeping that theory viable but contested. See [[penrose-gravity-induced-collapse-empirical-prospects|the Penrose empirical article]] for the bounds and rate conventions in detail, and [[testing-consciousness-collapse|the concrete prediction catalogue]] for a systematic mapping of where each framework diverges from standard decoherence.
 
 This experimental accountability supports the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet: simplicity (standard QM without collapse) fails to solve the measurement problem. Falsifiable modifications of QM are scientifically rigorous, not ad hoc.
 
@@ -227,4 +228,6 @@ The **consciousness-modulated CSL** model (Chalmers and McQueen's CSL-IIT or sim
 1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Chalmers, D. J. & McQueen, K. J. (2022). Consciousness and the Collapse of the Wave Function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
 1. Donadi, S., Piscicchia, K., Curceanu, C., Diósi, L., Laubenstein, M., & Bassi, A. (2021). Underground test of gravity-related wave function collapse. *Nature Physics*, 17(1), 74-78.
-1. Ball, P. (2022). Physics Experiments Spell Doom for Quantum 'Collapse' Theory. *Quanta Magazine*, 20 October. https://www.quantamagazine.org/physics-experiments-spell-doom-for-quantum-collapse-theory-20221020/
+1. Arnquist, I. J., et al. (Majorana Collaboration) (2022). Search for spontaneous radiation from wave function collapse in the Majorana Demonstrator. *Physical Review Letters*, 129, 080401. Erratum (2023), *Physical Review Letters*, 130, 239902.
+1. Aprile, E., et al. (XENON Collaboration) (2026). Challenging spontaneous quantum collapse with XENONnT. *Physical Review Letters*, 136, 120201. arXiv:2506.05507.
+1. Ball, P. (2022). Physics Experiments Spell Doom for Quantum 'Collapse' Theory. *Quanta Magazine*, 20 October (popular account of the 2021–2022 underground results). https://www.quantamagazine.org/physics-experiments-spell-doom-for-quantum-collapse-theory-20221020/
