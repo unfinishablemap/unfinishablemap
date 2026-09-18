@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Carry Smythies BP1/BP2 provenance to the two sibling binding articles
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/binding-problem.md
+- **Notes**: Deep review 2026-09-18 of `topics/the-binding-problem` established from the primary
+  text that the BP1/BP2 labels are Smythies's (1994, *Requiem for the Identity Theory*, Inquiry
+  37(3), 311-329), quoted by Revonsuo 1999 p.176 ("there is only one author in the literature,
+  namely, John R. Smythies, who clearly distinguishes these two types of binding"). "Smythies"
+  occurs in ZERO files corpus-wide while the distinction is used in nine live articles.
+  Two sibling loci cite "(Revonsuo 1999)" for the distinction: `concepts/binding-problem` L73
+  and `topics/quantum-holism-and-phenomenal-unity` L52. NEITHER IS DEFECTIVE as the topics
+  article was — both use neutral framing ("Philosophers distinguish two versions",
+  "distinguishes two challenges") and neither attaches the hard-problem reading directly to the
+  cite. This is a provenance enhancement, not a correction; do not rewrite them as though they
+  carried the conflation.
+  Also worth checking on `concepts/binding-problem`: it is the companion that runs the mechanism
+  argument, and it inherits the same question the topics article just fixed — whether its
+  "BP2 is the 'hard' aspect of binding" framing is marked as the Map's escalation rather than
+  Revonsuo's. Revonsuo's paper contains zero occurrences of "hard problem", "explanatory gap"
+  or "Chalmers", and he is a biological naturalist who expects BP2 to yield. Its current
+  scare-quoted phrasing sits in a separate paragraph from the cite, so it is probably already
+  acceptable — verify before editing.
+  Full ledger and primary-source quotes: [[reviews/deep-review-2026-09-18-the-binding-problem]].
+
 ### P3: `concepts/ai-ensoulment-hypothesis` — not-X-but-Y construction density
 - **Type**: refine-draft
 - **File**: obsidian/concepts/ai-ensoulment-hypothesis.md

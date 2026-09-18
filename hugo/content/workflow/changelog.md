@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T01:24:50+00:00'
+ai_modified: '2026-09-18T02:05:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-18'
-lastmod: 2026-09-18 01:24:50+00:00
+lastmod: 2026-09-18 02:05:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-18T02:05:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-binding-problem](/topics/the-binding-problem/)
+- **Word count**: 4089 → 3999 (-90; was `hard_warning`, now `soft_warning`. NB `length.py` gates on `>= hard`, so 4000 itself trips — 3999 is the real target)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 2
+- **Enhancements made**: 1
+- **Verdict**: NOT a no-op. The 07-18 stability note said the article was converged and the §2.4 citation pass discharged. Treated as a marker of which lenses were unrun rather than certification — correctly, because the citation pass was the lens that had never been run on the article's actual text. Root cause: the 06-26 and 07-18 ledgers both recorded the reference as "Revonsuo **2006**" (*Inner Presence*), which is not in this article's References; the article cites Revonsuo **1999**. Each ledger then justified skipping the re-check against the previous ledger rather than against the article.
+- **Critical — source/Map conflation at the foundational paragraph.** §The Foundational Distinction glossed BP2 as "why coordinated processing produces unified experience … the hard problem applied to unity" directly under "(Revonsuo 1999)". Read the full Revonsuo 1999 PDF: his BP2 is a *how*-question about mechanisms ("How do the brain mechanisms actually construct the phenomenal object?"), glossed as "finding the neural mechanisms which map the unified contents in phenomenal consciousness to corresponding neural entites in the brain". Grep returns ZERO occurrences of "hard problem", "explanatory gap" or "Chalmers"; he is a biological naturalist who expects it to yield. The article had cited its source as authority for an escalation the source rejects — and this is the article's load-bearing move, since the "BP2 gap" refrain recurs in all five varieties. Fixed: BP2 now carries Revonsuo's wording and intent, names his naturalism, and marks the escalation as the Map's own.
+- **Medium — Bayne & Chalmers over-read.** "Conjoint phenomenology" was said to give character "exceeding the sum" of the parts. Their text defines it by *subsumption* ("a phenomenology of having both states at once that subsumes the phenomenology of the individual states"); "exceed" occurs 0 times against 74 for "subsume". Realigned to subsumption with the excess claim marked as the Map's — matching the companion `concepts/binding-problem`, which already had it right. The "extends from perception to thought" half verified CORRECT (B&C explicitly include "perceptual, bodily, emotional, and cognitive experiences").
+- **Medium — orphan references.** Prior reviews certified "no orphans"; measured, only 2 of 9 entries had an inline anchor. Added anchors for Baars et al. 2013, Stein and Stanford 2008, Mudrik et al. 2014, James 1890, Jerath and Beveridge 2019, plus years on Nagel and Bayne & Chalmers. All 10 entries now anchored.
+- **Enhancement — Smythies provenance.** Revonsuo does not claim BP1/BP2: he quotes Smythies coining the labels (1994b p.321) and says "there is only one author in the literature, namely, John R. Smythies, who clearly distinguishes these two types of binding". "Smythies" occurred in ZERO files corpus-wide while the distinction is used in nine live articles. Added to text and References. The provenance is better than what it replaces: coined in a paper titled *Requiem for the Identity Theory*, popularised by a biological naturalist.
+- **Checked, no defect (recorded to prevent re-litigation)**: the "~100ms" global-workspace figure. I suspected it against Dehaene's ~270-300ms ignition number — wrong suspicion, it is cited to Baars, not Dehaene, and the Baars et al. 2013 full text says "spread globally to all other regions for ∼100 ms" and "the ∼100 ms conscious integration time of different sensory inputs". No change. Also: the Nagel passage's missing verbatim quote is not a regression — commit 7385ba8b35 correctly replaced it with a paraphrase that restores the dropped "specially contrived laboratory situations" qualifier.
+- **Per-cite ledger**: all 10 references verified at publisher of record, primary text read for Revonsuo 1999, Bayne & Chalmers 2003 and Baars et al. 2013. Revonsuo 1999 real-correct (DOI 10.1006/ccog.1999.0384); Smythies 1994 real-correct (Inquiry 37(3), 311-329); Treisman & Gelade 1980, Nagel 1971, Baars et al. 2013, Mudrik et al. 2014, Stein & Stanford 2008, Jerath & Beveridge 2019, James 1890 all real-correct. Superlative sweep: 0 claims.
+- **Length method**: over-length here is substantially apparatus — Further Reading + References + video boilerplate are ~400 of the counted words, so counted 4089 was ~3690 words of prose. Trims were genuine redundancy, not budget cuts: doubled per-mechanism restatements already made verbatim by the §Classical Approaches scorecard, a Dualism bullet restating the two points preceding it, two of four duplicate "see [binding-problem](/concepts/binding-problem/)" pointers, and nine Further Reading entries whose targets remain wikilinked in the body (verified individually after removal; link graph unchanged). All calibration prose from the 06-26 pessimistic pass left intact.
+- **Engagement classifications** (editor-internal, unchanged this pass): MWI defender — Mode Three, honest boundary-marking; Buddhist/Parfittian/Metzinger deflationist — Mode Three; identity theorist — Mode One; functionalist/IIT — Mode Two. No label leakage in prose (verified by grep).
+- **Output**: [deep-review-2026-09-18-the-binding-problem](/reviews/deep-review-2026-09-18-the-binding-problem/)
+- **Follow-up queued**: P2 refine-draft to carry the Smythies provenance to `concepts/binding-problem` and `topics/quantum-holism-and-phenomenal-unity`. Task note states explicitly that neither sibling is defective as this article was, to prevent an over-wide fix.
 
 ## 2026-09-18T01:24:50+00:00 - refine-draft
 - **Status**: Success
