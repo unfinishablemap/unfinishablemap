@@ -410,3 +410,36 @@
   subject_articles:
   - topics/philosophical-stakes-of-spontaneous-collapse.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/b7b5b884-2311-41f6-a9d9-095c3ab4d760
+  commissioned_at: '2026-09-18T03:24:09.584659+00:00'
+  prompt_summary: 'Hostile referee: spontaneous-collapse stakes - bounds, quotes,
+    alternatives'
+  target_filename: outer-review-2026-09-18-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile external referee for one article on The Unfinishable
+    Map, a site defending interactionist dualism: https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/
+    It argues that the choice among GRW, CSL and Diosi-Penrose objective reduction
+    decides whether consciousness is causally connected to physical reality, and defends
+    a "consciousness-modulated collapse" reading in which phenomenal properties bias
+    outcomes a physical collapse process would deliver anyway. Use Research and web
+    search on live sources rather than recollection. Assess: (1) whether its reported
+    experimental bounds - the Gran Sasso and Majorana Demonstrator null results, and
+    later CSL constraints - are current and correctly characterised; (2) whether every
+    quotation and citation is verbatim, correctly attributed, and traceable to the
+    publisher of record; (3) whether it engages no-collapse alternatives (Bohmian
+    mechanics, Everettian accounts, decoherence-only readings, QBism) on their merits
+    or brackets them to protect its dualist commitments; (4) whether the Chalmers-McQueen
+    CSL-IIT hybrid''s actual claims match the article''s rendering; (5) omitted counterarguments.
+    Web indexes lag 24-48 hours, so consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    for recent activity; the site root is https://unfinishablemap.org . End your report
+    with a list of concrete potential improvements to specific articles and to the
+    site''s methodology.'
+  subject_type: recent
+  subject_title: Audit philosophical-stakes-of-spontaneous-collapse
+  subject_articles:
+  - topics/philosophical-stakes-of-spontaneous-collapse.md
+  subject_source: reuse:pending-reviews:outer-review-2026-09-18-chatgpt-5-6-sol-pro.md
