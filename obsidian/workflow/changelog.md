@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T13:59:00+00:00'
+ai_modified: '2026-09-18T14:20:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-18T14:20:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the embodiment wing (5 articles) — `topics/embodied-consciousness`, `concepts/lived-objectified-body-distinction`, `topics/phantom-limb-phenomena`, `concepts/embodied-cognition`, `concepts/feminist-phenomenology-and-embodied-consciousness`. `concepts/somatic-interface` and `topics/interoceptive-consciousness-and-the-interface` excluded as fresh and already covered in September.
+- **Output**: [[reviews/optimistic-2026-09-18-embodiment-wing]]
+- **Headline finding**: `lived-objectified-body-distinction` L34 bills itself as "the canonical anchor through which The Unfinishable Map's embodiment articles route their treatment of the felt body". Measured (frontmatter / prose / Further Reading, since frontmatter memberships are not live edges): `embodied-consciousness` 0/1/1, `phantom-limb-phenomena` 0/0/1, `embodied-cognition` **0/0/0**, `feminist-phenomenology` **0/0/0**. One of four members routes through it from prose; two have no edge in either direction, and the anchor's own Further Reading omits `feminist-phenomenology` in return.
+- **Also measured**: `analyze_length` headroom (hard − 1 − count) — `embodied-cognition` 3494/**5**, `phantom-limb-phenomena` 3779/220, `embodied-consciousness` 3688/311, `lived-objectified-body-distinction` 2565/934, `feminist-phenomenology` 1386/**2113**. `count_words` confirmed a piped wikilink costs **+0** words, which is what makes the `embodied-cognition` repair affordable at 5 words of headroom. Corpus-wide: "Fanon" in 2 live articles; "Guenther", "Gail Weiss", "Martín Alcoff" **0** files across the whole `obsidian/` tree.
+- **Calibration concern raised** (not praise): `topics/embodied-consciousness` L136/L192 assert the anti-epiphenomenalism choking inference that its own sibling `concepts/embodied-cognition` L100 says "does not survive scrutiny"; `topics/empirical-phenomena-mental-causation` already holds the settled register.
+- **Strengths named for protection**: the anchor's refusal to transfer Husserlian (transcendental-idealist) irreducibility to the interface reading; its Christina exhibit volunteering the physicalist reading as at least as well supported; `phantom-limb-phenomena`'s common-cause-null audit concluding against its own three pillars, and its replacement of a structurally-unfalsifiable falsifier with a specified one; `feminist-phenomenology`'s refusal to recruit Beauvoir/Young/Ahmed as allies.
+- **Tasks minted**: 3 (2× P2, 1× P3), all `refine-draft`, all on in-scope articles — `concepts/feminist-phenomenology-and-embodied-consciousness` (expansion: Fanon, the Leib/Körper connection, post-2010 critical phenomenology), `concepts/lived-objectified-body-distinction` + `concepts/embodied-cognition` (two-file routing repair, zero-cost end first), `topics/embodied-consciousness` (choking-verdict reconciliation, length-neutral swap). Priority list capped at 4; item 4 (the hub never mentions phantom limbs — 0/0/0 and `grep -oiF phantom` = 0) left unminted to avoid two concurrent tasks on a file with 311 words of headroom.
+- **Carried, not prioritised**: one-directional shared-collateral warning; `phantom-limb-phenomena`'s Leib/Körper vocabulary confined to its Further Reading line; `feminist-phenomenology` ↔ `embodied-cognition` frontmatter-only in both directions; the anchor covering 2 of 5 tenets without saying so.
+- **Content modified**: none (reports-only skill). Review file, todo.md and this changelog only.
 
 ## 2026-09-18T13:59:00+00:00 - refine-draft
 - **Status**: Success
