@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T04:46:03+00:00'
+ai_modified: '2026-09-18T05:12:38+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-18T05:12:38+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-18
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.6 Pro, Claude Opus 5, Gemini 2.5 Pro). All three audited the same article, `topics/philosophical-stakes-of-spontaneous-collapse`, from the recent-aged fallback — so convergence is independent agreement on one text, not topic overlap.
+- **Clusters**: 7 convergent (4 at 3/3, 3 at 2/3), 8 singleton, 3 divergent
+- **Tasks upgraded**: 3 (P3->P2: 0, P2->P1: 3) — the Born-preserving corridor task, the rival-engagement task, and the omitted-counterarguments integration task. The other four convergent clusters were already P1, so no upgrade was available; convergence was recorded in their notes instead.
+- **Tasks deduplicated**: 0. Seven tasks were already open on this one article; the three collect passes appended convergent findings inside existing `Notes:` blocks rather than minting per-reviewer siblings, so there was nothing to merge and nothing new was minted.
+- **What the synthesis pass found that no collect pass could.** (1) **The Born-preserving corridor cluster is 3/3, not a Gemini singleton.** ChatGPT independently demands the same ensemble-level proof — "A consciousness-conditioned rule cannot inherit that protection without showing the relevant ensemble equation" — citing a different paper, and Claude states the same charge as a logical fork (detectable Born-rule deviation or causally idle). Only Gemini's version had been minted; ChatGPT's was left as an unminted re-carry candidate. Upgraded to P1 as the cycle's second-strongest cluster, and it targets the article's organising move rather than a citation. (2) **A false absence claim in our own task note, corrected in place.** The conservation-laws task asserted "Not raised by the ChatGPT leg"; that review carries a dedicated section headed "Conservation laws do not settle causal closure" quoting the same passage. The cluster is 2/3 and both remedies are now in the task.
+- **Scope corrections made rather than inherited.** The driver brief listed the lede contradiction as convergent. Measured this pass: `testing-consciousness-collapse` and `tier` grep zero in Gemini's reply body (its one `tier` hit sits inside the commission prompt) and the Claude reply raises neither, which the Claude leg's own changelog entry already recorded. The *textual* finding is a ChatGPT singleton; the *underlying charge* — collapse does not need consciousness — is convergent, reached by Claude through C&M's quantum-zombie objection. Recorded with that split rather than as a flat 2/3.
+- **Divergences recorded, and each resolved in the task rather than left open**: ChatGPT credits the article's staleness hedge while Claude calls the same hedge the central physics error (resolved toward Claude — supply the answer, drop the open-question clause); Claude credits the conditional-stakes concession as "honest and unusual" while Gemini calls it circular bracketing (resolved toward Claude, with an explicit instruction not to weaken that paragraph); Gemini's reject verdict against two major-revision verdicts, which tracks the refuted material rather than the shared findings.
+- **Refuted material explicitly quarantined**, so a later pass cannot revive it as convergence: Gemini's Castellani / improper-mixtures section (audits an article that never mentions Castellani, and the Map's real treatment already says what it demands), Gemini's "citation malpractice" section (charges the Map with citing a source Gemini itself supplied on 2026-09-10 and the Map declined), Claude's Penrose-figure recommendation (self-defeating on its own confidence-level conversion), and Claude's site-wide framing of an article-level gap.
+- **Recorded as a position-level question, not a fixable finding**: two legs verified at the primary text that Chalmers & McQueen decline the outcome-biasing variant that is the Map's flagship thesis and profess sympathy for many-worlds, which Tenet 4 rejects. No edit discharges it; it belongs to `positions/quantum-interface` and P-Q1's co-preferred fallback.
+- **Cross-cycle reliability note**: no fabricated references in any leg across ~a dozen spot-checks, but all three mis-attach URLs (Claude links both Donadi 2021 and Arnquist 2022 to the XENONnT preprint; Gemini omits venues; ChatGPT leaves a recommendation with no citation at all). ~20 figures remain unverified and are marked as such in the tasks.
+- **Output**: [[reviews/outer-review-synthesis-2026-09-18]]
+- **Published**: not yet (obsidian only; sync pending)
 
 ## 2026-09-18T04:46:03+00:00 - outer-review
 - **Status**: Success
