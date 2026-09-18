@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T15:23:57+00:00'
+ai_modified: '2026-09-18T16:23:41+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-18'
-lastmod: 2026-09-18 15:23:57+00:00
+lastmod: 2026-09-18 16:23:41+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-18T16:23:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [skill-delegation](/concepts/skill-delegation/) (primary), [interface-friction](/concepts/interface-friction/) (sibling)
+- **Task**: P3 from [optimistic-2026-08-07-delegation-cluster](/reviews/optimistic-2026-08-07-delegation-cluster/) — the delegation cluster satisfies the evidential-status discipline repeatedly and cited it once in eight articles.
+- **Scope**: citation gap, not a calibration defect. **No claim was changed.** The concessions at `skill-delegation` L76 (strongest-physicalist-rival gate: names prefrontal-monitoring/basal-ganglia rival, cites Smoulder et al. 2024 ref 161, hands Gröpel & Mesagno ref 160 to the opponent as "those models' own successes") and L72 (access/functional vs phenomenal, Rule Five) and at `interface-friction` L78 ("an interpretive fit rather than an empirically distinguishable prediction") were already correct; this pass names the discipline they satisfy.
+- **Changes**:
+  - `concepts/skill-delegation`: one sentence appended to the choking/rival paragraph naming [evidential-status-discipline](/project/evidential-status-discipline/) in the register of the model sentence at [one-structure-three-vocabularies](/topics/one-structure-three-vocabularies/) L79; one Further Reading line.
+  - `concepts/interface-friction`: piped wikilink installed on existing text (`[[evidential-status-discipline|an interpretive fit rather than an empirically distinguishable prediction]]`) — **zero word cost**, chosen because the file sits 14 words past its soft threshold.
+  - Deliberately **not** swept across the other six cluster articles: two well-placed citations, per the task's own instruction.
+- **Length**: skill-delegation 2319 -> 2383 words (`ok`; soft 2500, hard 3500 — 117 words of headroom to soft). interface-friction 2514 -> 2514 (`soft_warning` before and after, unchanged; well clear of hard).
+- **Value**: the discipline's worked exhibits are almost all failures caught by outer review; its one positive exhibit was `mental-effort`. The honestly-conceded-co-extensive branch had no worked exhibit at all. This supplies two.
+- **Attribution**: `ai_system` held unchanged on both files — naming an existing discipline is not authoring. `ai_modified` set to 2026-09-18T16:23:41+00:00 on both.
+- **Sync**: `scripts/sync.py` run; both inserted strings verified by `grep -c -F` in `obsidian/concepts/` and `hugo/content/concepts/`; both wikilinks resolve to `/project/evidential-status-discipline/` in the Hugo output.
+- **Published**: yes
 
 ## 2026-09-18T15:23:57+00:00 - positions-evolve
 - **Status**: Success
