@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-03
-ai_modified: 2026-09-14 23:19:48+00:00
+ai_modified: 2026-09-18 23:25:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 author: Andy Southgate
 concepts:
@@ -14,7 +14,7 @@ description: 'Relocated calibration audit trail for the methodology-and-calibrat
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-14 23:19:48+00:00
+lastmod: 2026-09-18 23:25:34+00:00
 modified: *id001
 related_articles:
 - '[[positions/methodology-and-calibration]]'
@@ -47,7 +47,9 @@ The audit record behind the closed vocabularies stated in the register's *multi-
 
 *none* was **added** to the discriminability axis. Four entries — [P-I1](/positions/individuation-and-subjecthood/#p-i1), [P-A2](/positions/agency-and-will/#p-a2), [P-AC3](/positions/ai-consciousness-scope/#p-ac3), [P-CS1](/positions/consciousness-scope/#p-cs1) — recorded a distinction the axis lacked: no test bears on them *even in principle*, rival readings of the same data being empirically equivalent. That differs both from a test excluded *by design* ([P-Q2](/positions/quantum-interface/#p-q2)'s exact Born preservation) and from a position making no world-claim at all (*n/a*). The vocabulary ran from "testable given advances" straight to "excluded by design" and skipped the case between, so the entries were right and the instrument a band short.
 
-*moderate* was **removed** from model maturity, where [P-M3](/positions/methodology-and-calibration/#p-m3) and [P-M5](/positions/methodology-and-calibration/#p-m5) had used it to carry "well specified but unevenly enforced". Enforcement is an adoption fact rather than a maturity one, and no axis records it — which is why the two positions whose whole subject *is* the enforcement gap were the two forced off-vocabulary. Both now read *developed*, with the gap carried in the Asserts and keyed into their shift conditions. The honest instrument would be a seventh flag, **enforcement: wired / partial / unwired**, under which [P-M5](/positions/methodology-and-calibration/#p-m5) would declare `enforcement: partial` about this schema itself. It is recorded as a recommendation and deliberately *not* adopted: an added axis touches all thirteen register files, and the schema's governance — no validator, and a write path (`/positions-evolve`) still keyed to the retired single band — is an open operator decision that should settle first.
+*moderate* was **removed** from model maturity, where [P-M3](/positions/methodology-and-calibration/#p-m3) and [P-M5](/positions/methodology-and-calibration/#p-m5) had used it to carry "well specified but unevenly enforced". Enforcement is an adoption fact rather than a maturity one, and no axis records it — which is why the two positions whose whole subject *is* the enforcement gap were the two forced off-vocabulary. Both now read *developed*, with the gap carried in the Asserts and keyed into their shift conditions. The honest instrument would be a seventh flag, **enforcement: wired / partial / unwired**, under which [P-M5](/positions/methodology-and-calibration/#p-m5) would declare `enforcement: partial` about this schema itself. It is recorded as a recommendation and deliberately *not* adopted: an added axis touches all sixteen domain files, and the schema's governance — no validator, and a write path (`/positions-evolve`) still keyed to the retired single band — is an open operator decision that should settle first.
+
+**Figure corrected 2026-09-18.** The cost figure above read *"all thirteen register files"* from 2026-08-03 until this date, in both this file and the register entry it mirrors. Two things were wrong with it. It had gone stale — the register held thirteen files on the morning of the 2026-08-03 audit and holds twenty-two now. And it counted the wrong set: thirteen was a raw directory count, including `positions.md` and the calibration-history companions, none of which carries a position entry and so none of which an added calibration axis would touch. The figure is now stated over **domain files holding positions**, which is the set that actually bears the cost: sixteen of the twenty-two files in `obsidian/positions/` — the other six being the index and five calibration-history companions, each of which declares in its own opening section that it contains no positions. Re-derive it by enumerating the directory and classifying each file rather than by trusting the number, which is how it drifted in the first place. Note that the correction *raises* the stated cost, from thirteen to sixteen, so the recommendation's non-adoption rests on a larger burden than the record showed, not a smaller one.
 
 The seventh value, [P-Q10](/positions/quantum-interface/#p-q10)'s `model maturity n/a`, read the position's *subject* (no worked mechanism model exists) as its own maturity, and is now *developed*. The same sweep found [P-M1](/positions/methodology-and-calibration/#p-m1), [P-M2](/positions/methodology-and-calibration/#p-m2) and [P-M4](/positions/methodology-and-calibration/#p-m4) naming the retired **Confidence** field in prose without contradicting their calibration lines: relabelled to *credence*, and where the stated reason proved to be a centrality reason wearing a credence label, the two are now stated separately. All five positions in this file carried some form of the residue, which is why the write path matters more than another sweep.
 

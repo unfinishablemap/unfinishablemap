@@ -4,7 +4,7 @@ description: "The Map's positions on its own method: the tenet-register / eviden
 created: 2026-06-22
 modified: 2026-09-05
 human_modified:
-ai_modified: 2026-09-09T18:19:08+00:00
+ai_modified: 2026-09-18T23:25:34+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
@@ -69,7 +69,7 @@ Centrality and external-evidence grade are orthogonal, and separating them is th
 
 For normative and meta positions (most of this methodology domain, and the meta-position [[quantum-interface#P-Q10: No worked toy model of the mechanism currently exists|P-Q10]]), the empirical axes — external-evidence grade and discriminability — are legitimately *n/a*: these positions are commitments about the Map's own conduct or accounting, not first-order claims about the world, and the schema records that honestly rather than manufacturing false precision. Note the scope: it is those two axes that go *n/a*, never model maturity, which applies to any position whatever its subject matter.
 
-**Vocabulary decisions (2026-08-03).** A register-wide audit found seven band values these closed vocabularies did not license and resolved each on its merits — adding *none* to discriminability, removing *moderate* from model maturity, re-reading one entry's maturity band, and relabelling residual **Confidence** prose to *credence*. The record is in [[positions/methodology-and-calibration-history#schema-vocabulary-decisions|calibration history]]. One recommendation from that audit is live and deliberately **not adopted**: a seventh flag, **enforcement: wired / partial / unwired**, under which P-M5 would declare `enforcement: partial` about this schema itself. An added axis touches all thirteen register files, and the schema's governance — no validator, and a write path (`/positions-evolve`) still keyed to the retired single band — is an open operator decision that should settle first.
+**Vocabulary decisions (2026-08-03).** A register-wide audit found seven band values these closed vocabularies did not license and resolved each on its merits — adding *none* to discriminability, removing *moderate* from model maturity, re-reading one entry's maturity band, and relabelling residual **Confidence** prose to *credence*. The record is in [[positions/methodology-and-calibration-history#schema-vocabulary-decisions|calibration history]]. One recommendation from that audit is live and deliberately **not adopted**: a seventh flag, **enforcement: wired / partial / unwired**, under which P-M5 would declare `enforcement: partial` about this schema itself. An added axis touches all sixteen domain files, and the schema's governance — no validator, and a write path (`/positions-evolve`) still keyed to the retired single band — is an open operator decision that should settle first.
 
 ## Positions
 
