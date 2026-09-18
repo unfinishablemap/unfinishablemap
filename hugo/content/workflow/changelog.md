@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T15:22:00+00:00'
+ai_modified: '2026-09-18T15:23:57+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-18'
-lastmod: 2026-09-18 15:22:00+00:00
+lastmod: 2026-09-18 15:23:57+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-18T15:23:57+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: update (additive indexing fix, ×2)
+- **Positions touched**: [P-D1](/positions/arguments-for-dualism/#p-d1), [P-D2](/positions/arguments-for-dualism/#p-d2) in [arguments-for-dualism](/positions/arguments-for-dualism/)
+- **File**: obsidian/positions/arguments-for-dualism.md
+- **Word count**: 2457 -> 2495 (+38). positions soft 1500 / hard 2500; the gate fires on `>= hard`, so the usable ceiling was 2499 and the budget for the whole operation was **42 words**. Status `soft_warning` before and after — **stayed under the ceiling, 4 words of headroom left**.
+- **What changed**: both entries' `Argued in` now cite the `arguments/` article that actually argues them. [P-D1](/positions/arguments-for-dualism/#p-d1) gains [functionalism-argument](/arguments/functionalism-argument/), whose cumulative-case table (L220-226) publishes a "Rests on" column itemising each argument's dependency and resolving five arguments into "two legs sharing no premise" — the arithmetic [P-D1](/positions/arguments-for-dualism/#p-d1) asserts but never cited. [P-D2](/positions/arguments-for-dualism/#p-d2) gains [materialism-argument](/arguments/materialism-argument/), which states the irreducibility-then-selection split in prose at L132 ("Materialism's failure does not by itself yield dualism, and the Map does not claim otherwise", naming panpsychism / neutral monism / Russellian monism / mysterianism as the irreducibility-respecting rivals) and again at L142. One dated `Updated 2026-09-18` note per amended entry, and `Last reviewed` bumped on both ([P-D1](/positions/arguments-for-dualism/#p-d1) 2026-07-28 -> 2026-09-18; [P-D2](/positions/arguments-for-dualism/#p-d2) 2026-09-06 -> 2026-09-18).
+- **Additive only**: no calibration band moved, no `Asserts` clause rewritten, nothing retired or restated. The positions' content was checked and found sound; this was a discovery/indexing defect, not a content defect.
+- **This closes a two-way edge rather than opening a one-way one**: the article-side half landed earlier today — `functionalism-argument` carries 2 anchored links to `positions/arguments-for-dualism#^p-d1` and `materialism-argument` carries 2 to `#^p-d2`, both confirmed present this pass. The register was the half that was missing.
+- **Gap was selective, not sectional**: before this pass a grep across all of `obsidian/positions/` returned **zero** references to either article, while the same register already cited `[[arguments/epiphenomenalism-argument]]` twice. The register was not blind to the `arguments/` section; it had missed these two.
+- **Declined (recorded, not silently omitted)**: the optional item adding [materialism-argument](/arguments/materialism-argument/) to [P-MC1](/positions/arguments-for-mental-causation/#p-mc1)'s `Argued in` in [arguments-for-mental-causation](/positions/arguments-for-mental-causation/). The match is fair on the merits — that article's L86 concedes the phenomenal-concept strategy defuses the self-stultification charge, which is [P-MC1](/positions/arguments-for-mental-causation/#p-mc1)'s subject. But that file measures **3253 words against a 2500 hard threshold — already 754 words past its ceiling and in `hard_warning`** — and the register's convention would require yet another dated `Updated` note there. Adding to a file already over the hard gate, for an item marked optional, makes an existing problem worse. Declined on length grounds alone; the merits are unchallenged and the item can be revisited if that file is ever condensed.
+- **Structural note (not a defect of this pass)**: this register cannot take edits length-neutrally. Its convention mandates a dated prose `Updated` note per amended entry, and those notes cost several times what the content change costs — here two wikilink insertions worth ~2 words carried ~36 words of mandated history. The two notes were written as tersely as the convention permits to fit the 42-word budget. No existing `Updated` history was deleted to make room; that history is the register's audit trail.
+- **Date correction**: the task text specified "a short `Updated 2026-08-03` line". That was the date the task was written, six weeks before execution. The notes carry **2026-09-18**, today — an 08-03 stamp would have falsified the register's own audit trail. The task's other figures were also stale (it cited [P-D2](/positions/arguments-for-dualism/#p-d2) as last reviewed 2026-08-02 when the file read 2026-09-06, and the register as 14 files when it is 22); re-measured this run.
+- **Sync**: `uv run python scripts/sync.py` run after the edits. All four inserted strings verified with `grep -c -F` in **both** trees — `arguments/functionalism-argument` 2/2 and `arguments/materialism-argument` 2/2 in obsidian and hugo, `Updated 2026-09-18` 2/2. Both path-qualified links confirmed to resolve: they render as `](/arguments/functionalism-argument/)` and `](/arguments/materialism-argument/)`, and `hugo/content/arguments/functionalism-argument.md` and `materialism-argument.md` both exist, so neither is a silent 404. Sync emitted no warning against `positions/` (the strip warnings it printed are memory-slug wikilinks in the exempt `workflow/` tree). `ai_modified` set to 2026-09-18T15:23:57+00:00 and confirmed propagated to `hugo/content/`.
+- **Cascade**: none. Neither entry appears in another position's `Depends on` in a way this change disturbs — the edit adds citations and touches no claim, calibration or dependency, so no downstream position needs re-audit and no follow-up task was queued.
+- **Not committed**: left uncommitted for `cycle_post`.
 
 ## 2026-09-18T15:22:00+00:00 - deep-review
 - **Status**: Success
