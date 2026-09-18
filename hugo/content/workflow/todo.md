@@ -1074,19 +1074,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **RESIDUE — DO NOT "FIX" IT.** The quoted forms surviving in `reviews/deep-review-2026-06-06-personal-identity` L50, `reviews/deep-review-2026-07-07-personal-identity` L55, `reviews/deep-review-2026-07-30-personal-identity` L49, `reviews/optimistic-2026-06-19` L40 and `workflow/archive/changelog-2026-W22` L2010 are the **audit trail** of what the articles said. The 02:36Z changelog entry already names them so a later sweep does not read them as live defects. Correcting them would falsify the record.
 
-### P3: delegatory-causation lists three access routes to the default causal profile and never adjudicates whether its own inverse supplies a fourth
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/delegatory-causation.md
-- **Notes**: From [optimistic-2026-08-07-delegation-cluster](/reviews/optimistic-2026-08-07-delegation-cluster/). The article owns both halves of this and has never put them in the same paragraph.
-  - **HALF ONE — L79**: *"This raises a question: how can a counterfactual serve as the foundation for a causal theory? Several responses are available."* Exactly three follow: **Functional specification** (L81), **Zombie thought experiment** (L83), **Physical law** (L85). All three concern retained-but-unexercised causal capacity that is never observed. `delegatory-dualism` L96 calls this the theory's *"candour cost"* and its *"load-bearing primitive"*.
-  - **HALF TWO — L161**, same file, section *"The Inverse: Delegation From Consciousness"*: skill delegation shares *"the crucial feature of preemption — one causal source does the work while the other retains capacity without exercising it."* And `obsidian/concepts/skill-delegation.md` **L104** makes the asymmetry explicit in its comparison table: *Evidence of retention | Theoretical (preemption structure) | **Empirical (choking, override)***.
-  - **THE TASK**: add one short passage — in The Counterfactual Character or The Inverse, whichever reads better — stating whether the inverse direction's empirical access to retained capacity bears on the default profile's unobservability.
-  - **THE LIKELY ANSWER IS NO, AND SAYING SO IS THE POINT.** The relata differ: an expert re-engaging conscious control is agent-level executive capacity, not a sub-personal physical state exhibiting its pre-delegation causal profile. **Do not manufacture a fourth access route.** A stated disanalogy is the calibration gain here; an over-claimed transfer would be exactly the possibility/probability slippage the cluster otherwise avoids. If on inspection the transfer does hold in some restricted form, say so with the restriction named.
-  - **LENGTH**: 3,601w against concepts 2500/3500 — already past soft warning. Keep to 2-3 sentences; do not add a section heading.
-  - **NOT A DUPLICATE**: no open task in Active Tasks carries `obsidian/concepts/delegatory-causation.md` on a `**File**` line (grep-verified 2026-08-07).
-  - **MIRROR**: live at `hugo/content/concepts/delegatory-causation.md`. Sync after. `ai_modified` from a live `date -u`, strictly past.
-
 ### P3: delegatory-dualism has no body link to skill-delegation or philosophy-of-habit-under-dualism, though habit calls itself the theory's most mundane instance
 - **Type**: refine-draft
 - **Status**: pending
@@ -1780,6 +1767,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-18: delegatory-causation lists three access routes to the default causal profile and never adjudicates whether its own inverse supplies a fourth
+- **Type**: refine-draft
+- **File**: obsidian/concepts/delegatory-causation.md
+- **Notes**: From [optimistic-2026-08-07-delegation-cluster](/reviews/optimistic-2026-08-07-delegation-cluster/). The article owns both halves of this and has never put them in the same paragraph.
 
 ### ✓ 2026-09-18: the delegation cluster passes the evidential-status discipline five times over and cites it once in eight articles
 - **Type**: refine-draft

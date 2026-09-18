@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-09-08 16:50:16+00:00
+ai_modified: 2026-09-18 17:23:30+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 01:06:51+00:00
-lastmod: 2026-09-08 16:50:16+00:00
+lastmod: 2026-09-18 17:23:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -238,7 +238,7 @@ Delegatory dualism bears on the Map's core tenets as follows—supporting some d
 
 **Dualism tenet**: Saad defends interactionist dualism—the view that experiences cause physical effects while being "neither identical with nor grounded in" physical states. The framework presupposes irreducibility but focuses on mental causation rather than committing to specific views about the metaphysics of mental substance.
 
-**Bidirectional Interaction tenet**: The Efficacy constraint directly embodies bidirectional interaction. Experiences cause physical effects—pain causes wincing, beliefs cause assertions. The delegation mechanism explains *how* without overdetermination.
+**Bidirectional Interaction tenet**: The Efficacy constraint directly embodies bidirectional interaction. Experiences cause physical effects—pain causes wincing, beliefs cause assertions. The delegation mechanism explains *how* without overdetermination. The Map reads delegation as running in both directions, since consciousness also hands causal work off to trained procedural systems in [skill delegation](/concepts/skill-delegation/) and [habit](/topics/philosophy-of-habit-under-dualism/)—though that parallel is structural rather than evidential, and supplies no further access to the default causal profile.
 
 **Minimal Quantum Interaction tenet**: Observational Closure is compatible with minimal quantum interaction. Both hold that mental causation should not produce empirically detectable violations of physical patterns. Delegatory dualism provides theoretical justification for the claim that consciousness can be causally efficacious while respecting empirical constraints.
 
@@ -251,6 +251,8 @@ Saad's work offers the most internally coherent option for a dualism adopted on 
 ## Further Reading
 
 - [delegatory-causation](/concepts/delegatory-causation/) — The unified account of delegation, preemption, and default causal profile
+- [skill-delegation](/concepts/skill-delegation/) — The inverse direction: consciousness handing causal work to trained procedural systems while retaining the capacity to re-engage
+- [philosophy-of-habit-under-dualism](/topics/philosophy-of-habit-under-dualism/) — Habit as delegation's most mundane and most material everyday case
 - [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) — Map's ontological-weight taxonomy places delegatory dualism as the cleanest Q1 (min-mind / min-physical) inhabitant
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's core position on mind-body interaction
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — How consciousness causes physical effects

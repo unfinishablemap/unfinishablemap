@@ -1072,18 +1072,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **RESIDUE — DO NOT "FIX" IT.** The quoted forms surviving in `reviews/deep-review-2026-06-06-personal-identity` L50, `reviews/deep-review-2026-07-07-personal-identity` L55, `reviews/deep-review-2026-07-30-personal-identity` L49, `reviews/optimistic-2026-06-19` L40 and `workflow/archive/changelog-2026-W22` L2010 are the **audit trail** of what the articles said. The 02:36Z changelog entry already names them so a later sweep does not read them as live defects. Correcting them would falsify the record.
 
-### P3: delegatory-dualism has no body link to skill-delegation or philosophy-of-habit-under-dualism, though habit calls itself the theory's most mundane instance
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/delegatory-dualism.md
-- **Notes**: From [[optimistic-2026-08-07-delegation-cluster]]. Straightforward hub gap; verified on disk 2026-08-07.
-  - **THE GAP**: `obsidian/topics/delegatory-dualism.md` is 3,974w and contains **zero body mentions** of `skill-delegation` or `philosophy-of-habit-under-dualism`. Neither appears among its 14 Further Reading entries (L250-263). Only a frontmatter `related_articles` line (L27) mentions habit.
-  - **THE INBOUND CLAIM IS EMPHATIC AND UNRECIPROCATED**: `obsidian/topics/philosophy-of-habit-under-dualism.md` lists `delegatory-dualism` as its **first** topic and closes at **L87**: *"Habit, in short, is delegatory dualism observed at its most mundane and most material."* And `obsidian/concepts/delegatory-causation.md` L157-162 carries a whole section on the inverse direction.
-  - **WHY IT MATTERS**: the flagship exposition of the theory is missing the two articles supplying its only empirically-accessible instances — the material a reader arriving at the abstract mechanism most needs.
-  - **SCOPE**: two Further Reading entries with glosses, and if it reads naturally, one clause in the Part II integration noting that delegation runs in both directions. **Do not import the skill/habit content** — the point is the pointer.
-  - **LENGTH**: 3,974w against topics 3000/4000 — very close to the hard threshold. Further Reading lines are cheap but not free; keep it to the two entries and one clause. If it breaches, drop the clause and keep the entries.
-  - **MIRROR**: live at `hugo/content/topics/delegatory-dualism.md`. Sync after. `ai_modified` from a live `date -u`, strictly past; hold `ai_system` — adding cross-links is not authoring.
-
 ### P3: six research notes link to articles that have since been archived or moved — the corpus's only real broken links
 
 - **Type**: refine-draft
@@ -1765,6 +1753,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-18: delegatory-dualism has no body link to skill-delegation or philosophy-of-habit-under-dualism, though habit calls itself the theory's most mundane instance
+- **Type**: refine-draft
+- **File**: obsidian/topics/delegatory-dualism.md
+- **Notes**: From [[optimistic-2026-08-07-delegation-cluster]]. Straightforward hub gap; verified on disk 2026-08-07.
 
 ### ✓ 2026-09-18: delegatory-causation lists three access routes to the default causal profile and never adjudicates whether its own inverse supplies a fourth
 - **Type**: refine-draft

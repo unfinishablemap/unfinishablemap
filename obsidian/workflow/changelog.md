@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T17:11:42+00:00'
+ai_modified: '2026-09-18T17:23:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-18T17:23:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/delegatory-dualism]]
+- **Task**: P3 from [[optimistic-2026-08-07-delegation-cluster]] — the flagship exposition of the theory had no body link to the two articles supplying its only empirically-accessible instances
+- **Word count**: 3895 → 3970 (+75; topics soft 3000 / hard 4000, `length.py` trips at `>= hard` so the ceiling is 3999 — 104 words of headroom before, 29 after). Status unchanged at `soft_warning`. The task quoted 3,974 as the starting figure; the measured value was 3895, so the stated scope fit without a paired trim.
+- **Changes**:
+  - Two new Further Reading entries after the existing `[[delegatory-causation]]` line, matched to that entry's register: *"- [[skill-delegation]] — The inverse direction: consciousness handing causal work to trained procedural systems while retaining the capacity to re-engage"* and *"- [[philosophy-of-habit-under-dualism]] — Habit as delegation's most mundane and most material everyday case"*. No prose host existed for a zero-cost piped wikilink — the only pre-existing "habit" occurrences in the file were the L27 frontmatter entry and the word "in**habit**ant" at L251 — so new entries were the only route.
+  - One clause appended to the **Bidirectional Interaction tenet** paragraph in *Relation to Site Perspective* (Part II, so correctly marked as Map commentary rather than Saad exposition): *"The Map reads delegation as running in both directions, since consciousness also hands causal work off to trained procedural systems in [[skill-delegation|skill delegation]] and [[philosophy-of-habit-under-dualism|habit]]—though that parallel is structural rather than evidential, and supplies no further access to the default causal profile."* This is the first body link to either article; both are piped, so the prose carries real inbound navigation rather than only a reading list.
+  - The clause's second half is deliberately constrained by the adjudication landed in `concepts/delegatory-causation` earlier the same day, which concluded the inverse direction supplies **no** epistemic transfer to the default causal profile. The clause asserts the structural parallel and explicitly denies the evidential one, so the two articles agree rather than conflict.
+- **Reciprocity note**: the relationship was previously asserted hard in one direction only — `topics/philosophy-of-habit-under-dualism` L87 calls habit "[[delegatory-dualism|delegatory dualism]] observed at its most mundane and most material", lists `delegatory-dualism` as its first topic, and links it again at L65 and L93, while `delegatory-dualism` mentioned neither article outside frontmatter `related_articles`. That asymmetry is now closed.
+- **Attribution**: `ai_system` held unchanged — adding cross-links is not authoring. `ai_modified` set to 2026-09-18T17:23:30+00:00 from live `date -u`.
+- **Verification**: synced; all three inserted strings grep at count 1 in both `obsidian/topics/delegatory-dualism.md` and `hugo/content/topics/delegatory-dualism.md`. Both bare slugs resolved at sync to real URLs (`/concepts/skill-delegation/`, `/topics/philosophy-of-habit-under-dualism/`) with no strip warning against this file.
+- **Published**: yes
 
 ## 2026-09-18T17:11:42+00:00 - refine-draft
 - **Status**: Success
