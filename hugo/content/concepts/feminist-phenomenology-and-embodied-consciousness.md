@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-09-18 14:32:39+00:00
+ai_modified: 2026-09-18 22:08:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 17:51:58+00:00
-lastmod: 2026-09-18 14:32:39+00:00
+lastmod: 2026-09-18 22:08:06+00:00
 modified: *id001
 related_articles:
 - '[[embodied-consciousness]]'
@@ -39,7 +39,7 @@ topics:
 - '[[philosophy-of-mind]]'
 ---
 
-Feminist phenomenology investigates how consciousness is lived through a body marked by gender, race, and social position. Its central claim is that experience is never a view from nowhere: the same act of reaching, walking, or perceiving carries the sediment of how a body has been treated and what it has been permitted to do. This tradition is overwhelmingly **anti-Cartesian** — much of it explicitly critiques mind-body dualism as a masculinist abstraction from the lived body — and much of it is **physicalist or enactivist** rather than dualist. The Map presents this honestly: feminist phenomenology is not evidence for dualism, and its leading figures are not crypto-dualists. What it offers the Map is a refined, situated account of embodiment that **constrains and enriches** the [consciousness-matter interface](/topics/embodied-consciousness/) picture without supporting the Map's metaphysics. It works through Beauvoir's body-as-situation, Fanon's racial epidermal schema, Young's inhibited intentionality, Ahmed's inherited orientation, and the critical phenomenology since 2010, and names what those descriptions share: a lived body driven into the objectified register by situation rather than by injury. The genuine point of contact, developed in [Relation to Site Perspective](#relation-to-site-perspective) below, is that the Map's [interface dualism](/concepts/interactionist-dualism/) already rejects the *disembodied* Cartesian self that feminists rightly target.
+Feminist phenomenology investigates how consciousness is lived through a body marked by gender, race, and social position. Its central claim is that experience is never a view from nowhere: the same act of reaching, walking, or perceiving carries the sediment of how a body has been treated and what it has been permitted to do. This tradition is overwhelmingly **anti-Cartesian** — much of it explicitly critiques mind-body dualism as a masculinist abstraction from the lived body — and much of it is **physicalist or enactivist** rather than dualist. The Map presents this honestly: feminist phenomenology is not evidence for dualism, and its leading figures are not crypto-dualists. What it offers the Map is a refined, situated account of embodiment that **constrains and enriches** the [consciousness-matter interface](/topics/embodied-consciousness/) picture without supporting the Map's metaphysics. It works through Beauvoir's body-as-situation, Fanon's racial epidermal schema, Young's inhibited intentionality, Ahmed's inherited orientation, and the critical phenomenology since 2010, and names what those descriptions share: a lived body driven into the objectified register by a situation it did not choose, with no injury involved. The genuine point of contact, developed in [Relation to Site Perspective](#relation-to-site-perspective) below, is that the Map's [interface dualism](/concepts/interactionist-dualism/) already rejects the *disembodied* Cartesian self that feminists rightly target.
 
 ## The Body as Situation: Beauvoir
 
@@ -77,9 +77,9 @@ Guenther's cases are the negative version of [intercorporeality](/topics/embodie
 
 ## Lived and Objectified Body, Bent by Situation
 
-Young's, Fanon's and Ahmed's descriptions converge on something the Map already has a name for. A body that lives a simultaneous "I can" and "I cannot," that is "lived as object as much as subject," is a body in which the two registers phenomenology calls the **lived body** (*Leib*) and the **objectified body** (*Körper*) have pulled apart under strain. Fanon's corporeal schema giving way to a racial epidermal schema is that same separation, effected by another's look; Ahmed's orientations decide in advance which register a given body will occupy in a given room. [The Map's canonical treatment of the distinction](/concepts/lived-objectified-body-distinction/) catalogues cases where the two registers come apart: Christina's deafferentation, Sacks's post-surgical leg, the phantom limb, the severed motor channel of locked-in syndrome. Each of those exhibits breaks the coupling by **lesion** — a measurable physical injury at an identifiable site.
+Young's, Fanon's and Ahmed's descriptions converge on something the Map already has a name for. A body that lives a simultaneous "I can" and "I cannot," that is "lived as object as much as subject," is a body in which the two registers phenomenology calls the **lived body** (*Leib*) and the **objectified body** (*Körper*) have pulled apart under strain. Fanon's corporeal schema giving way to a racial epidermal schema is that same separation, effected by another's look; Ahmed's orientations decide in advance which register a given body will occupy in a given room. [The Map's canonical treatment of the distinction](/concepts/lived-objectified-body-distinction/) catalogues cases where the two registers come apart, and they fall into two kinds. Most break the coupling by **lesion**: Christina's deafferentation, Sacks's post-surgical leg, the phantom limb, the severed motor channel of locked-in syndrome — each a measurable physical injury at an identifiable site. One does not. Somatic-awareness training — contemplative practice, dance and athletic training, biofeedback, rehabilitation — reshapes the felt body with no injury anywhere, and that article reads it as the lived body's plasticity under modulation the subject **undertakes**.
 
-Feminist and critical phenomenology supply the case that catalogue lacks: the coupling bent by **situation**, with no lesion anywhere, and reversibly. Young's thrower, Ahmed's disoriented body and Fanon's passenger have intact afferents, intact cortical body maps, and an intact motor apparatus. What has changed is a history of how the body has been handled, looked at, and permitted to move — and a change of situation can change it back, which is precisely what no lesion case affords.
+Feminist and critical phenomenology supply the third cell neither of those fills: the coupling bent with no lesion and not undertaken. Young's thrower, Ahmed's disoriented body and Fanon's passenger have intact afferents, intact cortical body maps, and an intact motor apparatus. What has changed is a history of how the body has been handled, looked at, and permitted to move — a history **imposed** by another's regard, by unelected socialisation, by deprivation, where the dancer or the meditator takes theirs up. Nor is the imposition readily undone in the way training is: Ahmed's analytic point is that orientations are *inherited* and sediment into an unremarked background, and Fanon's chapter records no restoration.
 
 The redescription earns nothing metaphysically. Naming Young's inhibited intentionality a *Leib*/*Körper* split restates a phenomenological finding in a second phenomenological vocabulary; it adds no evidence for or against any theory of mind. The self-model and predictive-processing accounts that that article treats as this distinction's strongest rivals redescribe the situation-bent case as readily as they redescribe the lesion cases — more readily, if anything, since a socially trained self-model is exactly what those frameworks expect. The contribution is to the *inventory* of ways the two registers can separate, not to the argument about what the separation shows.
 
@@ -104,7 +104,7 @@ This relation engages **Tenet 1 (Dualism)** only obliquely and honestly. Feminis
 
 ## Further Reading
 
-- [lived-objectified-body-distinction](/concepts/lived-objectified-body-distinction/) — the *Leib*/*Körper* distinction this article's cases bend by situation rather than by lesion
+- [lived-objectified-body-distinction](/concepts/lived-objectified-body-distinction/) — the *Leib*/*Körper* distinction whose exhibits bend the coupling by lesion or by self-undertaken training; this article's cases bend it by unchosen situation instead
 - [embodied-consciousness](/topics/embodied-consciousness/) — the body shapes consciousness without producing it
 - [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/) — a kindred anti-dualist embodiment tradition handled with the same honesty
 - [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/) — how social formation relates to the phenomenal self

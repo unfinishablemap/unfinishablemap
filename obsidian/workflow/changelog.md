@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T21:36:58+00:00'
+ai_modified: '2026-09-18T22:08:06+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-18T22:08:06+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/feminist-phenomenology-and-embodied-consciousness]]
+- **Also modified**: [[concepts/lived-objectified-body-distinction]] (the anchor's reciprocal Further Reading line, which carried the same false claim)
+- **Source**: `reviews/pessimistic-2026-09-18-embodiment-anchor-and-spoke.md` Issue 1, with Issue 3 folded in
+- **Changes**:
+  - Retired the false "every anchor exhibit is a lesion" claim at all **six** string loci (five in the spoke: lead, the contrast paragraph at L76/L78 x3, Further Reading; one in the anchor: Further Reading). Every retired string now greps 0 in both `obsidian/` and `hugo/`.
+  - **Re-cut the contrast rather than deleting it**, per the review's recommendation. The spoke now states the anchor's catalogue in two kinds — lesion (Christina, Sacks's leg, phantom limb, locked-in) and no-lesion-but-undertaken (somatic-awareness training) — and claims the genuinely vacant **third cell**: no lesion and *not undertaken*, the coupling bent by a history imposed by another's regard, by unelected socialisation, by deprivation. Stronger claim than the one it replaces.
+  - **Reversibility claim (Issue 3) resolved by dropping it** — the third of the three acceptable resolutions. It was unsupported (none of Young, Ahmed or Fanon reports a reversal), strained for Fanon specifically, and had additionally ceased to discriminate, since the anchor's somatic-awareness exhibit is itself explicitly reversible. Supplying critical-phenomenology support would have imported an unverified literature claim; restricting to Young would have left a reversal none of the sources reports. The chosen/imposed axis now carries the contrast alone, and a short clause records the positive counter-evidence: Ahmed's orientations *sediment* into the background, and Fanon's chapter five records no restoration. The anchor's "reversible" echo went with it.
+  - Anchor Further Reading line rewritten to the new joint and to point at the somatic-awareness exhibit explicitly.
+- **Not touched, by instruction**: the anchor's L70 somatic-awareness exhibit itself (it is correct and is what refutes the claim) and its L78 Bidirectional Interaction pairing — the anchor diff is 2 lines, `ai_modified` plus the one Further Reading line. The spoke's refusal-to-recruit calibration sentences at L92 are untouched, leaving the sibling P2 miscalibration task its ground.
+- **Length**: spoke 2480w -> 2571w (`ok` -> `soft_warning`; hard 3500, headroom 928); anchor 2582w -> 2585w (`soft_warning`, headroom 914).
+- **Sync**: `scripts/sync.py` run; both Hugo mirrors verified by `grep -c -F` on all six retired strings (0/0) and on the new forms.
+- **Published**: yes
 
 ## 2026-09-18T21:36:43+00:00 - pessimistic-review
 - **Status**: Success

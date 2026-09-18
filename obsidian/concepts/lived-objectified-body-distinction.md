@@ -4,7 +4,7 @@ description: "A human+AI canonical statement of the Husserl/Merleau-Ponty distin
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-09-18T14:38:11+00:00
+ai_modified: 2026-09-18T22:08:06+00:00
 draft: false
 topics:
   - "[[embodied-consciousness]]"
@@ -98,7 +98,7 @@ What the distinction does establish is narrower and still significant: that any 
 - [[phantom-limb-phenomena]] — The lived body outlasting the objectified body
 - [[embodied-cognition]] — The 4E framework that frames the body as interface
 - [[embodiment-cognitive-limits]] — How being embodied bounds what can be thought
-- [[feminist-phenomenology-and-embodied-consciousness]] — The coupling bent by *situation* rather than by lesion: no injury anywhere, and reversible
+- [[feminist-phenomenology-and-embodied-consciousness]] — The coupling bent by *unchosen situation*: no lesion, and not self-undertaken either, unlike the somatic-awareness exhibit above
 - [[interoceptive-void]] — The structural opacity of the body's interior to the consciousness that inhabits it
 - [[project/evidential-status-discipline]] — The calibration discipline this article's closing section honours
 
