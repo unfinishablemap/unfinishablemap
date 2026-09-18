@@ -4,7 +4,7 @@ description: "Logical behaviourism—the thesis that mental terms mean behaviour
 created: 2026-07-13
 modified: 2026-07-13
 human_modified:
-ai_modified: 2026-09-18T13:59:00+00:00
+ai_modified: 2026-09-18T20:28:00+00:00
 draft: false
 topics:
   - "[[history-of-the-interaction-problem]]"
@@ -19,10 +19,10 @@ related_articles:
   - "[[biological-naturalism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-07-13
 last_curated:
-last_deep_review: 2026-07-13T06:19:31+00:00
+last_deep_review: 2026-09-18T20:28:00+00:00
 ---
 
 Logical behaviourism is the thesis that statements about the mind *mean* statements about behaviour. To say someone believes it will rain, or feels pain, is—on this view—to say something about how they do and would behave: reaching for an umbrella, wincing, flinching from the flame. There is no inner theatre the words additionally name. Where mental talk resists such translation, the logical behaviourist diagnoses not a hidden fact but a confusion. This is a claim about the *meaning* of mental vocabulary, and it should not be run together with the psychological behaviourism of Watson and Skinner, which is a claim about scientific method (study only observable behaviour) rather than about meaning.
@@ -55,7 +55,11 @@ A calibration point is owed here, because the textbook history oversimplifies. T
 
 Logical behaviourism did not fall to dualists. It fell to the materialists who succeeded it—identity theorists and functionalists—who kept the commitment to a physical mind but abandoned the claim that mental terms *mean* behaviour. Three objections did the work, and each belongs to a specific author.
 
-**The super-Spartan (Putnam).** In "Brains and Behavior" (1963), Hilary Putnam imagined a community of warriors who so thoroughly master the suppression of pain that they exhibit no pain behaviour and no *disposition* to it—no wince, no flinch, no favouring of the wound—yet still feel pain, as they will admit in level voices if pressed. If pain simply *were* a behavioural disposition, super-Spartans could not be in pain; but they plainly can be. A complementary case runs the other way: the perfect actor produces flawless pain behaviour while feeling nothing. In both directions the felt state comes apart from the behaviour, which shows the relation between them to be *causal, not constitutive*. Pain causes pain-behaviour; it is not defined by it. That single dissociation is enough to sink the analytic thesis. The super-Spartan case is Putnam's, and should be attributed to him alone.
+**The super-Spartan (Putnam).** In "Brains and Behavior" (1963), Hilary Putnam imagined a community of "super-spartans" or "superstoics" whose adults have trained themselves to suppress all *involuntary* pain behaviour: they do not wince, scream, flinch, sob, grit their teeth or clench their fists. They do feel pain, and dislike it as we do, and they will on occasion admit as much—but always "in pleasant, well-modulated voices." If pain simply *were* the disposition to behave, super-Spartans could not be in pain; but they plainly can be.
+
+Putnam then closes the escape route the behaviourist would reach for. Against the super-Spartans it can be said that the disposition survives and is merely overridden—they concede themselves that suppression "takes a great effort of will." So Putnam imagines a second stage: an "X-world" of *super-super-spartans*, who have been super-spartans so long that they suppress even talk of pain and "pretend not to know either the word or the phenomenon to which it refers." At that stage every behavioural fact, verbal report included, has been removed, and the pain is still there. It is the X-world case that meets the dispositional analysis head on.
+
+A complementary case runs the other way: the perfect actor produces flawless pain behaviour while feeling nothing. In both directions the felt state comes apart from the behaviour, which shows the relation between them to be *causal, not constitutive*. Pain causes pain-behaviour; it is not defined by it. That dissociation is enough to sink the analytic thesis. Both the super-Spartan and the X-world cases are Putnam's, and should be attributed to him alone.
 
 **The circularity of dispositions (Chisholm and Geach).** Roderick Chisholm (*Perceiving*, 1957) and Peter Geach (*Mental Acts*, 1957) pressed a second, independent problem: the behavioural translation never bottoms out in pure behaviour. Specify the disposition that constitutes *believing it will rain* and you cannot avoid mentioning the subject's *desires*—someone who believes rain is coming reaches for an umbrella only if they *want* to stay dry. Specify the desire and you must mention further beliefs. Each mental term is definable only through others; the circle never closes on behaviour alone. This holism is exactly what pushed the field toward functionalism, which embraces the circle by defining each mental state through its relations to inputs, outputs, *and other mental states*—the move logical behaviourism had tried and failed to avoid.
 
@@ -65,15 +69,15 @@ Logical behaviourism did not fall to dualists. It fell to the materialists who s
 
 Logical behaviourism is best understood as the opening move of a sequence, each term of which the Map treats in its own right. [[type-identity-theory|Type-identity theory]] (U. T. Place, 1956; J. J. C. Smart, 1959) kept materialism but replaced translation with *identity*: mental states are contingently identical to brain states, not equivalent in meaning to behaviour—a move made expressly to accommodate the occurrent, felt character behaviourism could not. [[functionalism|Functionalism]] (Putnam's own later programme) resolved the circularity objection by defining mental states through their causal roles, other mental states included. [[eliminative-materialism|Eliminative materialism]] took the harder line that the folk-psychological terms name nothing and should be retired outright. [[biological-naturalism|Biological naturalism]] (Searle) is a later off-shoot insisting consciousness is a real, caused biological phenomenon rather than a behavioural or computational one.
 
-The Map covers each of these elsewhere and does not re-derive them here. The point of the present article is to supply the *predecessor* they all react against—the first attempt to dissolve the mind into behaviour, and the failure that set the agenda for everything after. Reading the lineage forward, one watches materialism repeatedly concede the same thing: that the felt, occurrent inner state is not captured by outer behaviour, and that the theory must be revised to make room for it. The dualist watches that concession accumulate.
+The Map covers each of these elsewhere and does not re-derive them here. The point of the present article is to supply the *predecessor* they all react against—the first attempt to dissolve the mind into behaviour, and the failure that set the agenda for everything after. Reading the lineage forward, one watches materialism concede the same thing at each term: that the felt, occurrent inner state is not captured by outer behaviour, and that the theory must be revised to make room for it.
 
-The second term of the lineage is where the Map's own cumulative case is set out, in [[arguments/functionalism-argument|Against Functionalism]], and the continuity with this article is direct. The residue objection above reappears there as the explanatory gap. The super-Spartan—a felt state surviving the removal of every behavioural fact—reappears as the absent-qualia argument, with *function* standing where behaviourism had put *behaviour*. Putnam's case against behaviourism and the dualist's case against Putnam's successor programme have the same shape, which is why the concession accumulates rather than merely repeating.
+The third term of the lineage is where the Map's own cumulative case against a successor is set out, in [[arguments/functionalism-argument|Against Functionalism]], and the continuity with this article is direct. The residue objection above reappears there as the explanatory gap. The perfect actor—flawless pain behaviour with nothing felt behind it—reappears as the absent-qualia argument, with *function* standing where behaviourism had put *behaviour*: the zombie has the whole causal structure and none of the experience. That article declines to count these two as independent confirmations, treating its explanatory-gap argument as its absent-qualia argument with the modal step removed, and the same restraint belongs here. What accumulates is that concession, not a tally of arguments: Putnam's case against behaviourism and the dualist's case against Putnam's own successor programme have the same shape.
 
 ## Relation to Site Perspective
 
 The Map's first tenet holds that consciousness is not reducible to physical processes—that phenomenal experience, the felt "what-it's-like," is a genuine and irreducible feature of reality. Logical behaviourism is the original, foundational challenge to that commitment. Ryle's category-mistake charge remains the most-cited objection to interactionist dualism: the "Ghost in the Machine" the Map is accused of positing just *is* an irreducible, causally efficacious mind, redescribed as a logical confusion. The Map cannot dodge this charge; it has to answer it.
 
-The answer is that the category-mistake accusation only bites if mental terms are *exhaustively* behavioural—and the very objections that defeated behaviourism show they are not. The super-Spartan demonstrates a state (felt pain) that persists with the behaviour and the disposition both removed; the residue objection names a quality (the occurrent feel) that no dispositional profile contains. That surplus—the felt, occurrent character left over when every behavioural fact is fixed—is exactly what the Map's first tenet asserts is irreducible. So the dualist inherits behaviourism's own executioners: the arguments Putnam and the identity theorists used to bury the analytic thesis are, *a fortiori*, available against any behavioural reduction of experience. What defeated behaviourism from inside materialism defeats it from outside as well.
+The answer is that the category-mistake accusation only bites if mental terms are *exhaustively* behavioural—and the very objections that defeated behaviourism show they are not. The X-world super-super-spartan demonstrates a state (felt pain) that persists with the behaviour and the disposition both removed; the residue objection names a quality (the occurrent feel) that no dispositional profile contains. That surplus—the felt, occurrent character left over when every behavioural fact is fixed—is exactly what the Map's first tenet asserts is irreducible. So the dualist inherits behaviourism's own executioners: the arguments Putnam and the identity theorists used to bury the analytic thesis are, *a fortiori*, available against any behavioural reduction of experience. What defeated behaviourism from inside materialism defeats it from outside as well.
 
 There is a sharper way to put the Map's reply. Ryle does not so much refute the ghost as decline to look for it. His method dissolves the inner theatre by redescribing mind-talk as disposition-talk—but it never confronts the datum that motivated the inner in the first place: that there is something it is like to be in pain. Dispositionalism changes the subject. And the category-mistake accusation, turned around, cuts the other way: to treat the felt quality of an experience as *nothing but* a disposition to behave is itself a category error—mistaking a report of what-it's-like for a summary of behavioural tendencies. The residue the [[explanatory-gap|explanatory gap]] and the [[knowledge-argument|knowledge argument]] press upon materialism is the residue behaviourism first tried, and failed, to translate away.
 
@@ -83,6 +87,7 @@ Honesty requires a concession, and the Map makes it. Ryle was right that the min
 
 - [[type-identity-theory]]
 - [[functionalism]]
+- [[arguments/functionalism-argument|Against Functionalism]]
 - [[eliminative-materialism]]
 - [[biological-naturalism]]
 - [[hard-problem-of-consciousness]]
