@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T20:38:49+00:00'
+ai_modified: '2026-09-18T21:36:58+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-18T21:36:43+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/feminist-phenomenology-and-embodied-consciousness]] (2480w, `ok`, headroom 1019) and [[concepts/lived-objectified-body-distinction]] (2582w, `soft_warning`, headroom 917) — the embodiment anchor and the spoke that gained 1094 words today in `f75881de`. **First adversarial pass on either**: `grep -rlF` for both slugs across every `pessimistic-2026-*` file in `obsidian/reviews/` returned **0** and **0**.
+- **Headline finding — the load-bearing new claim is false as written.** The spoke asserts at L76 that the anchor's clinical catalogue breaks the *Leib*/*Körper* coupling only "by **lesion**", and at L78 that feminist phenomenology "supplies the case that catalogue lacks". Measured: the anchor's §Clinical Exhibits (lines 60–73) carries **four** bolded exhibits, and the fourth — **somatic-awareness training** (anchor L70: contemplative practice, dance, athletic training, biofeedback, rehabilitation) — involves **no lesion**, is reversible, and is called by the anchor "the clearest everyday evidence" on that terrain, and is leaned on again at anchor L78 to carry the Bidirectional Interaction tenet. The spoke never mentions it (`grep -ciF` for `somatic-awareness`/`biofeedback`/`contemplative practice`/`plasticity`/`training` = **0**). Six string loci across both files, including the reciprocal Further Reading line added to the anchor today at L101 — an outbound crosslink sentence, the class nobody normally reviews. Recommended repair re-cuts the contrast at a better joint (lesion / no-lesion-self-directed / no-lesion-imposed) rather than deleting it.
+- **Calibration tested, not assumed** (driver instruction): the spoke's refusal-to-recruit is honoured at L38, L52, L64, L72 and L92 and is its best feature — but the new contrast paragraph fails in **both** directions two sentences apart. Over-claim at L96, "a history the anatomy does not record", asserted as the Map-facing payoff and denied by the very frameworks the article calls the strongest rivals (epistemic/metaphysical equivocation; hedged context means the anchoring audit cannot catch it). Over-concession at L80, "adds no evidence for or against any theory of mind", contradicted by "more readily, if anything" in the next clause.
+- **Citation lens**: the Guenther p. 35 quotation verified **word for word** against a raw independent source (PMC11237889, NFKC-normalised raw grep, not a summariser), which also confirms the page as `(Guenther, 2013, 35)`. Both p. xii quotations are **unverified at any reachable source** — two independent renderings of the first give "can **be** unhinged" where the article has "can **become** unhinged", and the second returns zero hits anywhere. Not a fabrication finding; a verify-or-de-quote item. The publication-year flag the executing pass raised on *50 Concepts for a Critical Phenomenology* is **resolved in the article's favour**: Northwestern UP's own page gives 2019 and pairs it with the cited ISBN 9780810141148.
+- **Audits run and cleared**: altered-state symmetry does **not apply** (supportive-cluster gate returns 0 on both files); label leakage **clean** (zero forbidden editor-vocabulary tokens in either article's prose); the spoke's cross-reference to the anchor's "strongest rivals" framing is accurate.
+- **Priority list capped at 4**; six further real items placed in an explicit "Carried, not prioritised" section rather than padding the list.
+- **Tasks minted**: 3 `refine-draft` blocks at the top of Active Tasks (P1 lesion enumeration with the reversibility claim folded in; P2 two-directional miscalibration; P2 Guenther quotation verification), all on these two articles only, all parse as `PENDING` / `REFINE_DRAFT` with correct `file_path`.
+- **Output**: [[reviews/pessimistic-2026-09-18-embodiment-anchor-and-spoke]]
 
 ## 2026-09-18T20:53:49+00:00 - refine-draft
 - **Status**: Success
