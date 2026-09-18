@@ -443,3 +443,44 @@
   subject_articles:
   - topics/philosophical-stakes-of-spontaneous-collapse.md
   subject_source: reuse:pending-reviews:outer-review-2026-09-18-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/aca021a847100776
+  commissioned_at: '2026-09-18T04:15:50.470292+00:00'
+  prompt_summary: 'Hostile referee: spontaneous-collapse stakes - bounds, alternatives,
+    gaps'
+  target_filename: outer-review-2026-09-18-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies) assessing this article for submission:
+    https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/
+    Your remit is to identify weaknesses that would justify rejection or major revision.
+    The article discusses GRW, CSL and Diosi-Penrose objective reduction and defends
+    a reading on which conscious states bias which outcome a collapse process delivers;
+    the site argues for a non-reductive view of consciousness. Site root: https://unfinishablemap.org
+    ; recent activity: https://unfinishablemap.org/workflow/changelog/ (web indexes
+    lag 24-48 hours). Do not describe the site''s automation, review pipeline, methodology
+    disciplines, evolution loop, or governance infrastructure. Those are project-internal
+    and not the subject of audit. Assess only the article''s empirical claims, citations,
+    counterargument coverage, and logical inferences. Specifically: (a) whether its
+    collapse-parameter bounds match the 2020s experimental literature; (b) whether
+    any result it relies on has been challenged, retracted, or failed replication;
+    (c) the article''s lead already concedes the physics is open and that Bohmian
+    mechanics is empirically equivalent at current precision, so judge whether that
+    concession is carried through the argument or whether no-collapse alternatives
+    are bracketed at the points where they would bite; (d) counterarguments and competing
+    frameworks it leaves untested. End with at least five specific weaknesses. For
+    each, cite at least one peer-reviewed source from 2020-2025 that the article omits,
+    contradicts, or mishandles. If you cannot find five weaknesses, state explicitly
+    why none are visible, but the default expectation is that a careful pre-publication
+    audit of a contemporary topic will find five. Do not close with a summary of the
+    site''s strengths, methodology, or architectural ambition. The report ends with
+    the weaknesses list and a one-sentence verdict on whether the article is ready
+    for academic submission.'
+  subject_type: recent
+  subject_title: Audit philosophical-stakes-of-spontaneous-collapse
+  subject_articles:
+  - topics/philosophical-stakes-of-spontaneous-collapse.md
+  subject_source: reuse:pending-reviews:outer-review-2026-09-18-chatgpt-5-6-sol-pro.md
