@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T11:24:55+00:00'
+ai_modified: '2026-09-18T11:50:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-18T11:50:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `voids/offloading-void` (selected by content-mention coverage counting: 2 mentions across 7,598 review files, joint lowest corpus-wide, and no `last_deep_review`). Secondary comparison: `voids/modality-void`.
+- **Findings**: 6 issues, 3 High. The article's load-bearing claim — "performance and confidence move in opposite directions" — is refuted by the full text of Ward (2021), its own strongest source: Exp 3 measured unaided performance after Google use and found it flat (M = 3.73 vs 3.17, P = 0.136, BF₊₀ = 0.89, numerically higher in the Google group). Ward's own term is "miscalibrated". The source research note grades Ward `[abstract-verified]`; the abstract carries only the confirming half. Also: the sentence contradicts itself before any source check, and the `anti-correlated-metacognitive-signal` wikilinks added on 09-10 invoke a concept whose page explicitly excludes miscalibration. The site-visible `description:` frontmatter carries the false claim. All ten verbatim quotations in the article verified faithful at source — the defect is omission, not misquotation. Claim confirmed not propagated beyond this file and its research note.
+- **Tasks created**: 3 (all P2, all `refine-draft` on `obsidian/voids/offloading-void.md`)
+- **Output**: [[reviews/pessimistic-2026-09-18-offloading-void]]
 
 ## 2026-09-18T11:24:55+00:00 - refine-draft
 - **Status**: Success
