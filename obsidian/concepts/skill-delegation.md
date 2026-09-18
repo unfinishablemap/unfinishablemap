@@ -4,7 +4,7 @@ description: "Skill delegation is how consciousness trains procedural systems, w
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-09-08T16:50:16+00:00
+ai_modified: 2026-09-18T16:23:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -73,7 +73,7 @@ Choking reveals three things about skill delegation:
 
 **The interface is real and directional.** Choking shows that consciousness can *enter* the procedural system but at a cost. The interface works smoothly when consciousness calibrates and withdraws on its own schedule. Forced re-engagement—driven by anxiety rather than deliberate choice—disrupts the system precisely because it reintroduces conscious selection where procedural execution sufficed.
 
-A physicalist can describe choking as prefrontal monitoring circuits disrupting basal ganglia motor programs—one neural subsystem interfering with another—and Smoulder et al. (2024) have since located a motor-cortical substrate for the effect. The interventions that reliably alter the disruption cannot be pressed against that account: distraction tasks and outcome-focused instructions were *designed from* the explicit-monitoring and distraction models, and Gröpel and Mesagno (2019) catalogue their effects across 47 studies as those models' own successes. What the physicalist account leaves open is narrower—why the performer *experiences* anxious self-monitoring at all, and why the felt mode of attention rather than monitoring as such tracks the failure. The delegation reading offers an answer to that question without out-predicting the standard models on the phenomenon itself.
+A physicalist can describe choking as prefrontal monitoring circuits disrupting basal ganglia motor programs—one neural subsystem interfering with another—and Smoulder et al. (2024) have since located a motor-cortical substrate for the effect. The interventions that reliably alter the disruption cannot be pressed against that account: distraction tasks and outcome-focused instructions were *designed from* the explicit-monitoring and distraction models, and Gröpel and Mesagno (2019) catalogue their effects across 47 studies as those models' own successes. What the physicalist account leaves open is narrower—why the performer *experiences* anxious self-monitoring at all, and why the felt mode of attention rather than monitoring as such tracks the failure. The delegation reading offers an answer to that question without out-predicting the standard models on the phenomenon itself. Conceding this much is what the Map's [[evidential-status-discipline|evidential-status discipline]] asks of a claim at this grade: the rival is named at its strongest and handed the intervention literature as its own success, rather than the reading being tested against a weaker opponent.
 
 ## Automaticity Gradients
 
@@ -144,6 +144,7 @@ These patterns are consistent with delegation as the mechanism underlying automa
 - [[delegatory-causation]] — The metaphysical parallel: physical states delegating to consciousness
 - [[delegation-meets-quantum-selection]] — The unified framework situating skill-delegation as the inverse of causal delegation within quantum selection
 - [[empirical-phenomena-mental-causation|choking phenomenon]] — Extended analysis of choking as evidence for mental causation
+- [[evidential-status-discipline]] — The calibration discipline these concessions satisfy: the strongest-rival gate on the choking data, and the access/phenomenal distinction on re-engagement
 - [[interface-friction]] — Where the Map records the concession this article inherits: the choking data redescribe an established motor-control result under a dualist ontology rather than discriminating for it
 - [[consciousness-and-skill-acquisition]] — How consciousness shapes skill acquisition, flow, and performance restructuring
 - [[phenomenology-of-agency-vs-passivity]] — The spectrum from doing to undergoing

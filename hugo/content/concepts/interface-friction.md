@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-09-10 03:33:41+00:00
+ai_modified: 2026-09-18 16:23:41+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 23:05:21+00:00
-lastmod: 2026-09-10 03:33:41+00:00
+lastmod: 2026-09-18 16:23:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -79,7 +79,7 @@ A tension exists between the bandwidth limitation (tens of bits per second) and 
 
 [Attentional economics](/concepts/attentional-economics/) treats this cost seriously. Attention is a scarce resource because the interface channel is narrow and maintaining selection against the brain's default dynamics is effortful. Interface friction explains *why* attention is scarce: the mind-brain channel has finite capacity and maintaining influence through it requires sustained expenditure.
 
-Friction also has a destructive face the friction-as-cost framing alone does not capture. The choking phenomenon — where conscious self-monitoring degrades automatised skill (Beilock & Carr 2001; the distraction/self-focus split confirmed across 47 intervention studies by Gröpel & Mesagno 2019, with a motor-cortical substrate located by Smoulder et al. 2024; see [placebo and choking](/topics/empirical-phenomena-mental-causation/)) — shows the interface re-engaging where re-engagement is inappropriate: forcing low-bandwidth conscious selection back into a channel the brain had learned to run without it. The cost there is not merely effortful expenditure but active interference. As with every claim in this article, this is an interpretive fit rather than an empirically distinguishable prediction: standard motor-control and reward-pressure models (explicit-monitoring reinvestment, incentive-driven over-arousal of preparatory states) already predict the degradation, and the interface-friction reading redescribes that established result under a dualist ontology rather than discriminating against it. What the framing adds is a candidate *why* — the same finite, imperfectly coupled channel — not a phenomenon the standard models miss.
+Friction also has a destructive face the friction-as-cost framing alone does not capture. The choking phenomenon — where conscious self-monitoring degrades automatised skill (Beilock & Carr 2001; the distraction/self-focus split confirmed across 47 intervention studies by Gröpel & Mesagno 2019, with a motor-cortical substrate located by Smoulder et al. 2024; see [placebo and choking](/topics/empirical-phenomena-mental-causation/)) — shows the interface re-engaging where re-engagement is inappropriate: forcing low-bandwidth conscious selection back into a channel the brain had learned to run without it. The cost there is not merely effortful expenditure but active interference. As with every claim in this article, this is [an interpretive fit rather than an empirically distinguishable prediction](/project/evidential-status-discipline/): standard motor-control and reward-pressure models (explicit-monitoring reinvestment, incentive-driven over-arousal of preparatory states) already predict the degradation, and the interface-friction reading redescribes that established result under a dualist ontology rather than discriminating against it. What the framing adds is a candidate *why* — the same finite, imperfectly coupled channel — not a phenomenon the standard models miss.
 
 ## Friction as Interpretive Framework
 
