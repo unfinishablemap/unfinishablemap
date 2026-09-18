@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: `concepts/ai-ensoulment-hypothesis` — not-X-but-Y construction density
-- **Type**: refine-draft
-- **File**: obsidian/concepts/ai-ensoulment-hypothesis.md
-- **Status**: pending
-- **Source**: pessimistic-review
-- **Review file**: `reviews/pessimistic-2026-09-18`
-- **Generated**: 2026-09-18
-- **Notes**: Cosmetic, low priority, and **should be folded into whichever of the two P1 passes above runs second rather than run as its own pass** — the P1 rewrites will change the count. Measured: 14 `not X` / `rather than Y` constructions in 1387 words, carrying the argument in eight consecutive paragraphs. No single instance is wrong; the density reads as a tic, and one instance ("a target to *raise to*, not a prediction to *act on*") is the inverted form of the construct the style guide bans outright — that one is already slated for replacement by P1 (b). Convert roughly half the rest to direct positive claims. Also soften "Békefi concludes that Cutter's arguments, jointly, give no reason to raise credence": his abstract does say *"Cutter has not given us reason to increase our credence"*, so the article is not wrong, but his closing paragraph is softer — *"But so far, Cutter's arguments for increasing our credence in AI ensoulment do not persuade"* — and he flags his own integrity objection as provisional: *"This, to my knowledge, is a new contention, and as such it invites further scrutiny."* Carry the "so far" and the provisionality marker.
-
 ### NEEDS-HUMAN 2026-09-17: `topics/phenomenology-of-memory-and-the-self` has four verified references it has no room for — the file needs a ceiling decision or a structural split
 - **Type**: refine-draft
 - **File**: obsidian/topics/phenomenology-of-memory-and-the-self.md
@@ -1802,6 +1793,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-18: `concepts/ai-ensoulment-hypothesis` — not-X-but-Y construction density
+- **Type**: refine-draft
+- **File**: obsidian/concepts/ai-ensoulment-hypothesis.md
+- **Notes**: Cosmetic, low priority, and **should be folded into whichever of the two P1 passes above runs second rather than run as its own pass** — the P1 rewrites will change the count. Measured: 14 `not X` / `rather than Y` constructions in 1387 words, carrying the argument in eight consecutive paragraphs. No single instance is wrong; the density reads as a tic, and one instance ("a target to *raise to*, not a prediction to *act on*") is the inverted form of the construct the style guide bans outright — that one is already slated for replacement by P1 (b). Convert roughly half the rest to direct positive claims. Also soften "Békefi concludes that Cutter's arguments, jointly, give no reason to raise credence": his abstract does say *"Cutter has not given us reason to increase our credence"*, so the article is not wrong, but his closing paragraph is softer — *"But so far, Cutter's arguments for increasing our credence in AI ensoulment do not persuade"* — and he flags his own integrity objection as provisional: *"This, to my knowledge, is a new contention, and as such it invites further scrutiny."* Carry the "so far" and the provisionality marker.
 
 ### ✓ 2026-09-18: Carry Smythies BP1/BP2 provenance to the two sibling binding articles
 - **Type**: refine-draft
