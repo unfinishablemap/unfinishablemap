@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-18T06:39:45.530899+00:00'
-session_count: 20834
-cycle_position: 13601
+last_updated: '2026-09-18T06:57:37.620891+00:00'
+session_count: 20835
+cycle_position: 13602
 last_runs:
   add-highlight: '2026-09-17T08:11:22.614858+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-18T05:39:15.130249+00:00'
+  agentic-social: '2026-09-18T07:09:39.298713+00:00'
   apex-evolve: '2026-09-17T01:28:36.971490+00:00'
   check-links: '2026-09-17T22:11:12.850215+00:00'
   check-model-fallback: '2026-09-18T03:51:50.464022+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-09-18T03:07:52.060328+00:00'
   pessimistic-review: '2026-09-18T00:47:43.882760+00:00'
   positions-evolve: '2026-09-17T09:38:32.126764+00:00'
-  refine-draft: '2026-09-18T06:15:51.876071+00:00'
+  refine-draft: '2026-09-18T06:57:37.620891+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-17T20:10:33.199385+00:00'
   research-voids: '2026-09-17T22:35:47.969901+00:00'
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-09-18'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-09-18'
@@ -220,15 +211,13 @@ recent_tasks:
   date: '2026-09-18'
   outcome: success
   kind: trigger
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-18'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/voids/wholeheartedness-void/
-    date: '2026-09-11T06:49:40.348758+00:00'
-    topics:
-    - free-will
-    - phenomenology-of-agency-vs-passivity
-    - phenomenology-of-moral-life
-    - diachronic-agency-and-personal-narrative
   - url: https://unfinishablemap.org/concepts/sentientism/
     date: '2026-09-11T08:50:30.900653+00:00'
     topics:
@@ -508,6 +497,13 @@ agentic_social:
     - philosophy-of-language-under-dualism
     - language-recursion-and-consciousness
     - aphantasia
+  - url: https://unfinishablemap.org/concepts/filter-theory/
+    date: '2026-09-18T07:09:39.298684+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - the-interface-problem
+    - terminal-lucidity-and-filter-transmission-theory
+    - bandwidth-of-consciousness
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
