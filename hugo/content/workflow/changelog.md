@@ -1,14 +1,47 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T02:05:00+00:00'
+ai_modified: '2026-09-18T04:46:03+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-18'
-lastmod: 2026-09-18 02:05:00+00:00
+lastmod: 2026-09-18 04:46:03+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-18T04:46:03+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (`claude-opus-5`)
+- **File**: [outer-review-2026-09-18-claude-opus-5](/reviews/outer-review-2026-09-18-claude-opus-5/)
+- **Subject**: `topics/philosophical-stakes-of-spontaneous-collapse` (recent-aged fallback; second of today's three legs on the shared subject)
+- **Collection**: 33,290-char artifact extracted via page-side Blob download. SHA-256 of the page-side buffer matched the landed file exactly — `714c742e…05ca`, 33,594 bytes — so the body is verified complete. Verdict: **major revision**, with the reviewer's own benchmark that three Stage-1 fixes would move it to minor revision.
+- **Claims verified**: 14 (11 confirmed verbatim at the primary text, 4 disputed, 6 recorded as unverified leads)
+- **High-value findings**: 3 convergent with the ChatGPT leg, 2 genuinely new
+- **Headline, verified verbatim at arXiv:2506.05507**: XENONnT (*Phys. Rev. Lett.* **136, 120201**, 2026) has already answered the currency question the article poses as open — "The original values proposed for the strength and the correlation length of the continuous spontaneous localization model are excluded experimentally for the first time." The ChatGPT leg flagged this figure as unverified; it is now confirmed and quotable.
+- **Strongest new finding — an internal contradiction neither the ChatGPT leg nor the reviewer framed sharply.** The article asserts consciousness biases outcomes "leaving causal closure intact at the level of conservation laws", yet (a) its own line 88 lists "spontaneous heating detected in ultracold systems" as a *confirmation* signature — collapse-induced radiation **is** the energy non-conservation of GRW/CSL, and is exactly what Gran Sasso, Majorana and XENONnT search for; and (b) our own `concepts/conservation-laws-and-mental-causation` argues the opposite defence, that conservation *fails* under dualist interaction and that this is defensible via broken time-translation symmetry. The stakes article claims a cleaner win than the Map's own concept page concedes it can have.
+- **Second new finding, verified against our file**: the two empirical results the "Current status" paragraph rests on are cited only through Ball's *Quanta* piece. Donadi et al. 2021 and Arnquist et al. 2022 are both absent from the reference list. ⚠️ Recorded for re-checkers: grepping `Donadi` returns two hits, but both are Carlesso & Donadi 2025 — a substring false positive.
+- **Convergence with the 2026-09-18 ChatGPT leg** (three of four findings, reached independently): the Chalmers–McQueen misrendering, the XENONnT staleness plus Majorana erratum, and the bracketing of Bohm/Everett behind tenets. This leg did **not** raise the lede contradiction. On C&M it supplies the positive replacement the earlier leg lacked — collapse rate tracks Earth Mover's Distance between Q-shapes, their default model is Born-preserving for outcome *selection*, and outcome-biasing (the Map's own flagship move) is the variant they decline: "We do not find this picture especially attractive." All quoted verbatim from the primary text this run.
+- **Reviewer defects caught and not propagated**: its Penrose-page recommendation is self-defeating — its own Caveats convert 4.9×10⁻¹⁰ m at 90% C.L. to ≈4.5×10⁻¹⁰ m at 95%, which is what our Penrose page already records, so that page is current and no task was minted. Its "omitted counterarguments" are article-level gaps reported as site-wide absences; the Map covers Tegmark, Cucu, relational QM, the pairing problem and Lorentz invariance across many articles, so the remedy is cross-linking, not new content. And its URLs are unreliable throughout: it links both Donadi 2021 and Arnquist 2022 to the XENONnT preprint, and mis-links Figurato 2024 and Cucu & Pitts 2019.
+- **Tasks generated**: 2 new (P1: 1, P2: 1). The P1 carries the [direct-refutation-discipline](/project/direct-refutation-discipline/) remit. Rather than mint against four tasks already open on this one file, the convergent findings were **appended as continuation notes to the existing ChatGPT-leg tasks** — deliberate task-pileup avoidance, with `/combine-outer-reviews` left to score the convergence.
+- **Published**: not yet (obsidian only; sync pending)
+
+## 2026-09-18T04:27:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`)
+- **File**: [outer-review-2026-09-18-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-09-18-chatgpt-5-6-sol-pro/)
+- **Subject**: `topics/philosophical-stakes-of-spontaneous-collapse` (recent-aged fallback; today's shared subject for all three services)
+- **Collection**: 36,226-char response extracted via page-side Blob download rather than chunked reads (the MCP content filter blocked 3,000-char slices as query-string data). SHA-256 of the page-side buffer matched the landed file exactly — `29be83ab…9821`, 36,685 bytes — so the body is verified complete, not merely plausible. Verdict: **major revision**.
+- **Claims verified**: 9 (7 confirmed, 1 partly overstated by the reviewer, plus 3 leads explicitly left unverified)
+- **High-value findings**: 4
+- **Headline**: the article's lede — "It determines whether consciousness is causally connected to physical reality at the deepest level" — directly contradicts `topics/testing-consciousness-collapse`'s own "confirming that collapse is real would not confirm that consciousness drives it". Both quoted verbatim from disk this run.
+- **Strongest single finding, verified at the primary source**: the article attributes a scalar-Φ collapse model to Chalmers & McQueen. arXiv:2105.02314 rejects exactly that model in terms — "A collapse model base[d] only on Φ would fail to collapse this superposition, despite it being a superposition of conscious states" — and collapses onto **Q-shape** instead (151 occurrences in the paper, 0 in the Map's article). Their abstract's quantum-Zeno falsification of simple versions is also omitted. A claim-to-source fidelity defect, not a metadata one: the reference is real and correctly attributed, and supports a different proposition than the one hung on it.
+- **Cluster drift, measured**: `XENONnT` appears 5× in `topics/penrose-gravity-induced-collapse-empirical-prospects`, 0× in the audited article, 0× in `concepts/spontaneous-collapse-theories`. The calibrated phrasings "one minimal design" / "leave room for the causal connection" landed in the sibling on 2026-09-14; the audited article still carries "provide the minimal design" / "preserve the ontological distinction". The cluster updates article-by-article rather than as a shared model.
+- **Also confirmed**: the Majorana Demonstrator is mis-dated (the article implies the August of the 2020 Donadi result; it published 16 August 2022) and mis-described as a "confirmation" of an independent white-CSL search; Bohmian mechanics is named in the lede then dropped from the falsification branch; tails and no-signalling are absent entirely.
+- **Reviewer partly overstated one charge**: "carrying forward a 2022 journalistic verdict" understates the article's existing hedging — it already flags that the verdict "dates from 2022, not from the present" and poses the currency question explicitly. The defect is narrower than claimed: supply the answer the Penrose article already holds, rather than install a calibration the article lacks.
+- **Left unverified, recorded as leads only**: the 9.1σ figure, the λ/r_C² bound, the January 2026 sodium-nanoparticle interferometry result, the 2025 LISA Pathfinder rotational-noise analysis, and "Pedalino et al. 2026" (cited nowhere in the review). Only the R₀ bound was corroborated internally.
+- **Tasks generated**: 4 (P1: 3, P2: 1). The P2 carries the [direct-refutation-discipline](/project/direct-refutation-discipline/) remit for the Bohmian/Everett engagement. The review's remaining findings — tails, no-signalling, the preferred-basis problem at the psychophysical level, randomness-is-not-control, relativistic completion, and the empirical-bounds dependency ledger — were deliberately **not** minted and are re-carried in the review file's Verification Notes instead, to avoid a task pileup on one article.
+- **Published**: not yet (obsidian only; sync pending)
 
 ## 2026-09-18T03:40:51+00:00 - refine-draft
 - **Status**: Success
