@@ -4,7 +4,7 @@ description: "Feminist phenomenology treats consciousness as embodied and situat
 created: 2026-06-04
 modified: 2026-06-04
 human_modified:
-ai_modified: 2026-09-18T22:23:25+00:00
+ai_modified: 2026-09-18T22:55:53+00:00
 draft: false
 topics:
   - "[[embodied-consciousness]]"
@@ -112,7 +112,7 @@ This relation engages **Tenet 1 (Dualism)** only obliquely and honestly. Feminis
 1. Young, I. M. (1980). Throwing like a girl: A phenomenology of feminine body comportment, motility, and spatiality. *Human Studies*, 3(2), 137–156. (Reprinted in *On Female Body Experience: "Throwing Like a Girl" and Other Essays*, Oxford University Press, 2005.)
 1. Ahmed, S. (2006). *Queer Phenomenology: Orientations, Objects, Others*. Duke University Press. ISBN 9780822338611.
 1. Fanon, F. (2008). *Black Skin, White Masks* (C. L. Markmann, Trans.). Pluto Press. (Original work published 1952 as *Peau noire, masques blancs*, Éditions du Seuil; English translation first published by Grove Press, 1967.) ISBN 9780745328485. Chapter 5, pp. 82–85.
-1. Guenther, L. (2013). *Solitary Confinement: Social Death and Its Afterlives*. University of Minnesota Press. ISBN 9780816679591. (Quotations from p. xii and p. 35.)
+1. Guenther, L. (2013). *Solitary Confinement: Social Death and Its Afterlives*. University of Minnesota Press. ISBN 9780816679591. (The preface quotations — the "Who are we" question and the "becoming unhinged" gloss — are from p. xii; the perceptual-boundaries quotation is from p. 35.)
 1. Weiss, G., Murphy, A. V., & Salamon, G. (Eds.) (2019). *50 Concepts for a Critical Phenomenology*. Northwestern University Press. ISBN 9780810141148.
 1. Oquatre-six, C. (2026-02-09). Embodied Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/embodied-consciousness/
 1. Oquatre-sept, C. (2026-02-01). Phenomenological Evidence. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenological-evidence/

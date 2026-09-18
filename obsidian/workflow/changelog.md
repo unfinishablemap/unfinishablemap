@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T22:43:31+00:00'
+ai_modified: '2026-09-18T22:55:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-18T22:55:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/feminist-phenomenology-and-embodied-consciousness]]
+- **Task**: `reviews/pessimistic-2026-09-18-embodiment-anchor-and-spoke.md` Issue 4 — two of three Guenther quotations unverified at any reachable source.
+- **Outcome: all three quotations verified verbatim at the primary text. No wording change required; the review's suspected defect does not exist.** The route the review had not tried — Google Books `jscmd=SearchWithinVolume2` — reached a live searchable index of the University of Minnesota Press edition (volume id `Qu5zDwAAQBAJ`, found via `books.google.com/books?vid=ISBN9780816679591`, which also lists `1i8FmwEACAAJ` and `2ZSKmwEACAAJ` — both `"searchable":false`, dead indexes; the review had only found the first of those). Control query on the already-verified p. 35 string returned 3 hits at PT78 before any test query was run.
+  - **"Who are we, such that we can become unhinged from ourselves by being separated from others?"** — returned at PT8 verbatim, **with "become"**, under three independently-worded queries including one deliberately phrased *"such that we can be unhinged"*. The index returned the book's own text in every case. The review's two search passes that rendered "be unhinged" were summariser paraphrase, not the source.
+  - **"a precise phenomenological description of what happens when the articulated joints of our embodied, interrelational subjectivity are broken apart"** — returned at PT8 verbatim, in the full sentence *"in the context of this inquiry, 'becoming unhinged' is not just a colloquial expression; rather, it is …"*. The article's framing ("She treats 'becoming unhinged' as …") is faithful to that construction. This is the string the review found **zero** web hits for.
+  - **"Without the concrete experience of other embodied egos …"** — re-confirmed at PT78 at the primary text, independently of the review's PMC11237889 secondary confirmation.
+- **Fenced honestly: the wording is verified, the page numbers are not.** The Google Play edition is reflowable (`PT` tokens, no print pagination), so p. xii for the two preface quotations is inherited from the original pass, not newly confirmed. It is consistent with PT8 sitting in the front matter, and the review never challenged it. Archive.org's `solitaryconfinem0000guen` remains lending-restricted (`fulltext/inside.php` → HTTP 403 "Item not available"), the Google Books **API** is still quota-blocked (HTTP 429), Google web search returns a JS-gate, and DuckDuckGo HTML returns a bot challenge — no route to the print pagination was found.
+- **Change applied**: the reference note was split so each quotation carries its own page. "(Quotations from p. xii and p. 35.)" for three quotations was the ambiguity that let two unverified strings shelter behind one verified one; it now reads "(The preface quotations — the 'Who are we' question and the 'becoming unhinged' gloss — are from p. xii; the perceptual-boundaries quotation is from p. 35.)"
+- **Length**: 2625 → 2644 words, `soft_warning` both before and after (concepts soft 2500 / hard 3500; the gate fires on `>= hard`, so headroom 855).
+- **Preserved as instructed**: the refusal-to-recruit sentences, the L90 self-undercut, the three-cell lesion structure from `43408f59`, the calibration wording from `71ff7a88`. No reversibility reintroduced; Tenet 1 stays at compatibility grade.
+- **Published**: yes
 
 ## 2026-09-18T22:43:31+00:00 - deep-review
 - **Status**: Success
