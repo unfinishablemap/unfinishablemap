@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-08-20 09:22:00.441663+00:00
+ai_modified: 2026-09-18 14:38:11+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,7 +22,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 01:49:05+00:00
-lastmod: 2026-08-20 09:22:00.441663+00:00
+lastmod: 2026-09-18 14:38:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -102,6 +102,7 @@ What the distinction does establish is narrower and still significant: that any 
 - [phantom-limb-phenomena](/topics/phantom-limb-phenomena/) — The lived body outlasting the objectified body
 - [embodied-cognition](/concepts/embodied-cognition/) — The 4E framework that frames the body as interface
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — How being embodied bounds what can be thought
+- [feminist-phenomenology-and-embodied-consciousness](/concepts/feminist-phenomenology-and-embodied-consciousness/) — The coupling bent by *situation* rather than by lesion: no injury anywhere, and reversible
 - [interoceptive-void](/voids/interoceptive-void/) — The structural opacity of the body's interior to the consciousness that inhabits it
 - [evidential-status-discipline](/project/evidential-status-discipline/) — The calibration discipline this article's closing section honours
 

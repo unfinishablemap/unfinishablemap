@@ -4,7 +4,7 @@ description: "Cognition depends on the body and extends into the environment. Th
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-07-27T17:17:24+00:00
+ai_modified: 2026-09-18T14:38:11+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -66,7 +66,7 @@ Embodied cognition rests on several interconnected claims:
 
 ## Phenomenological Roots
 
-Embodied cognition draws heavily on [[phenomenology]]. Merleau-Ponty's analysis of the "lived body" is foundational. The body is neither mere matter (an object among objects) nor pure mind (a thinking substance). It is the nexus where consciousness and world interpenetrate. [[clinical-phenomenology-and-altered-experience|Clinical phenomenology]] extends this analysis: Fuchs shows that in schizophrenia the lived body's transparency breaks down—the person becomes a "disembodied mind," with normally tacit bodily processes surfacing as alien objects of attention (what Sass and Parnas term *hyperreflexivity*). In depression the opposite occurs through *corporealization*: the body becomes oppressively present. These opposite disruptions reveal the normally invisible mind-body interface. Hyperreflexivity is the pathological counterpart of the [[#Choking Under Pressure|choking phenomenon]]—the same transparency-shattering dynamic that degrades expert performance.
+Embodied cognition draws heavily on [[phenomenology]]. Merleau-Ponty's analysis of the "[[lived-objectified-body-distinction|lived body]]" is foundational. The body is neither mere matter (an object among objects) nor pure mind (a thinking substance). It is the nexus where consciousness and world interpenetrate. [[clinical-phenomenology-and-altered-experience|Clinical phenomenology]] extends this analysis: Fuchs shows that in schizophrenia the lived body's transparency breaks down—the person becomes a "disembodied mind," with normally tacit bodily processes surfacing as alien objects of attention (what Sass and Parnas term *hyperreflexivity*). In depression the opposite occurs through *corporealization*: the body becomes oppressively present. These opposite disruptions reveal the normally invisible mind-body interface. Hyperreflexivity is the pathological counterpart of the [[#Choking Under Pressure|choking phenomenon]]—the same transparency-shattering dynamic that degrades expert performance.
 
 Consider bodily skill. An expert typist doesn't consciously locate keys—the hands "know" where they are. A pianist's fingers find notes through acquired habit, not explicit representation. Merleau-Ponty calls this "motor intentionality": bodily knowledge that is meaningful but not intellectually represented.
 

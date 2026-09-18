@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T14:32:39+00:00'
+ai_modified: '2026-09-18T14:38:11+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-18'
-lastmod: 2026-09-18 14:32:39+00:00
+lastmod: 2026-09-18 14:38:11+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-18T14:38:11+00:00 - refine-draft
+- **Status**: Success
+- **File**: [lived-objectified-body-distinction](/concepts/lived-objectified-body-distinction/)
+- **Also modified**: [embodied-cognition](/concepts/embodied-cognition/) (both edits were required by the task; neither is optional)
+- **Task**: Optimistic review High Priority 2 — build the routing graph the anchor's lead claims. Review file: [optimistic-2026-09-18-embodiment-wing](/reviews/optimistic-2026-09-18-embodiment-wing/).
+- **Length** (`analyze_length`, concepts soft 2500 / hard 3500, gate is `>= hard`, so the usable ceiling is 3499):
+  - `concepts/embodied-cognition`: **3494 -> 3494 words (delta +0)**, status `soft_warning`, headroom 5. The file did not move. The edit was a piped wikilink installed on text that was already there, which is why it cost nothing; re-measured after the edit to confirm.
+  - `concepts/lived-objectified-body-distinction`: **2565 -> 2582 words (+17)**, status `soft_warning`, headroom 917.
+- **Changes**:
+  - `concepts/embodied-cognition` L69: `Merleau-Ponty's analysis of the "lived body" is foundational` now pipes the existing phrase to the anchor — `"[[lived-objectified-body-distinction|lived body]]"`. This was the only outbound edge the file was permitted at 5 words of headroom; no clause, no sentence and no Further Reading line were added (a Further Reading entry costs ~12 words and would have tipped the file over the ceiling on its own). The file had "lived body" at 5 loci and zero occurrences of "Leib", "Körper", "objectified" or the anchor slug before this pass.
+  - `concepts/lived-objectified-body-distinction` §Further Reading gains a reciprocal to [feminist-phenomenology-and-embodied-consciousness](/concepts/feminist-phenomenology-and-embodied-consciousness/), naming what that article supplies that the anchor's own catalogue cannot: the coupling bent by *situation* rather than by lesion — no injury anywhere, and reversible. Every exhibit in §Clinical Exhibits (Christina's deafferentation, Sacks's post-surgical leg, the phantom limb, locked-in syndrome's severed motor tract) breaks the coupling by lesion, so this is a real gap in the catalogue rather than a courtesy link. Wording matches the framing already installed on the other side of the edge.
+- **Stale figure corrected**: the task table listed the `feminist-phenomenology` <-> anchor pair as 0/0/0. That was true when the review was written; the immediately preceding loop iteration built the feminist -> anchor direction (frontmatter, prose and Further Reading). The forward edge was therefore *not* re-added. Only the missing reciprocal — the anchor's own Further Reading, grep count 0 — was installed.
+- **Claim under test left intact**: the anchor's lead sentence ("the canonical anchor through which The Unfinishable Map's embodiment articles route their treatment of the felt body") was not rewritten to match a thinner graph. The graph was built up to the claim instead.
+- **Link form**: bare slugs throughout. Bare targets are validated at sync, so a bad one fails loudly; a bad path-qualified target 404s silently. `find` returns exactly one file named `lived-objectified-body-distinction.md`, so the slug is unambiguous.
+- **Out of scope, untouched**: the optional `topics/phantom-limb-phenomena` prose link (a separately carried item), and every other embodiment-wing article.
+- **Sync**: `uv run python scripts/sync.py` run after the edits. Both strings verified present in both trees with `grep -c -F`: obsidian 1/1, hugo 1/1. Hugo renders them as `[lived body](/concepts/lived-objectified-body-distinction/)` and `[feminist-phenomenology-and-embodied-consciousness](/concepts/feminist-phenomenology-and-embodied-consciousness/)`, the latter consistent with its sibling Further Reading entries. `ai_modified` set to 2026-09-18T14:38:11+00:00 on both files and confirmed propagated to `hugo/content/`. The only broken-wikilink strips reported by sync were pre-existing memory-slug links in `obsidian/workflow/`, which is an exempt operational tree.
+- **Published**: yes
 
 ## 2026-09-18T14:32:39+00:00 - refine-draft
 - **Status**: Success
