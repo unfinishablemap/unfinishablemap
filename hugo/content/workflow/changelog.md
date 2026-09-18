@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T17:23:30+00:00'
+ai_modified: '2026-09-18T18:11:05+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-18'
-lastmod: 2026-09-18 17:23:30+00:00
+lastmod: 2026-09-18 18:11:05+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-18T18:11:05+00:00 - refine-draft
+- **Status**: Success (premise held, in corrected form)
+- **File**: [conversion-disorder-as-consciousness-side-fault](/topics/conversion-disorder-as-consciousness-side-fault/)
+- **Task**: P3 from the 2026-08-09 `research-voids` run, via [voids-suggestion-void-2026-08-06](/research/voids-suggestion-void-2026-08-06/) — the Map may cite suggestion/hypnosis phenomena as evidence while that literature holds self-report cannot discriminate the causal story.
+- **Step Zero — primary-source verification**: both leads were checked at publisher of record before any edit.
+  - **Terhune & Hedman (2017)**. Crossref `10.1016/j.cognition.2017.06.026`: *Cognition* 168:176–181, "Metacognition of agency is reduced in high hypnotic suggestibility". Closed at Elsevier (OpenAlex `oa_status: closed`); full text read from the Goldsmiths accepted manuscript (`research.gold.ac.uk/20733/1/Terhune&Hedman2017_Cognition.pdf`, 8pp) via `pdftotext -layout`, NFKC-normalised. **Holds, narrowly.** Abstract verbatim: "Highly suggestible participants did not differ from controls in performance or metacognition of performance, but their sense of agency was less sensitive to cursor lag manipulations, suggesting reduced awareness that their control was being manipulated." The Discussion confirms the selectivity — performance metacognition intact, unlike schizophrenia patients who "significantly overestimated their performance". Effect size d=0.67. Note the paper never uses "introspection" or "self-report" (0 occurrences each); it is a graded, population-specific finding about the *sense of agency*, not a general claim that self-report is uninformative.
+  - **Lush et al. (2020)**. Crossref `10.1038/s41467-020-18591-6`: *Nature Communications* 11, art. 4853, "Trait phenomenological control predicts experience of mirror synaesthesia and the rubber hand illusion". Full text read from Europe PMC XML (PMC7519080), NFKC-normalised. **Holds.** Verbatim in the Discussion: "Existing approaches to control for suggestion effects in these measures are not effective, and interpretation of RHI and mirror-sensory synaesthesia measures requires consideration of trait differences in the ability to control experience to meet expectancies." Also verbatim: the indirect-measure escape is not clearly open — "These measures are also likely to reflect phenomenological control; hypnotic suggestion can induce changes in skin conductance response and histamine reactivity." And the paper's own hedge, verbatim: the account is "a parsimonious theory ... which cannot currently be ruled out"; "we do not directly provide evidence for anything beyond these relationships".
+  - **Contesting pair verified too** (the research note's DOIs were correct): Ehrsson, Fotopoulou, Radziun, Longo & Tsakiris (2022), *Nat Commun* 13:564, `10.1038/s41467-022-28177-z`; reply Lush & Seth, *Nat Commun* 13:563, `10.1038/s41467-022-28178-y`. Both 2022-01-28.
+- **Two corrections to the task's framing** (recorded because they change the scope):
+  1. The premise named **Tenet 3 (Bidirectional Interaction)**, but the Bidirectional Interaction paragraph cites no suggestion or hypnosis phenomenon at all. The hypnosis citations live in the lead, in *The Sedation and Hypnosis Observations*, and in the **Dualism** paragraph. The fix was applied where the claim actually is.
+  2. Neither paper says self-report "cannot" discriminate in any absolute sense. Lush frames the phenomenological-control account as one that *cannot currently be ruled out* and is actively contested. Presented in the article as a live methodological dispute, not a demonstrated contamination.
+- **Word count**: 3364 → 3809 (+445). `topics` soft 3000 / hard 4000; `length.py` trips at `>= hard` so the ceiling is 3999 — 635 words of headroom before, 190 after. Status unchanged at `soft_warning`; did **not** tip to `hard_warning`.
+- **Changes** (calibration, not retraction — the phenomena are not dropped and Tenet 3 is untouched):
+  - Two new paragraphs in *The Sedation and Hypnosis Observations, and What They Are Worth*, after the existing "Two disciplines apply" paragraph, opening "A third discipline applies to the hypnosis limb specifically, and it leaves the rest of the exhibit alone." The first states the Terhune & Hedman and Lush et al. findings with the two verbatim quotes above. The second bounds the concern: it names the Ehrsson contestation and the Lush reply, quotes Lush's own "cannot currently be ruled out", and then scopes the bite — **Hoover's sign is a force measurement in the unaffected limb and the propofol series records observed movement, so neither is a report of experience and neither inherits the problem.** Closes by routing to the existing [evidential-status-discipline](/project/evidential-status-discipline/) register (piped, matching the article's L123 usage).
+  - One clause appended to the **Dualism** tenet paragraph: the article previously grouped "sedation or hypnosis" and then downgraded only the sedation limb explicitly. Now "...and the hypnosis strand additionally carries the measurement caveat set out above."
+  - Three references added: Terhune & Hedman (2017); Lush et al. (2020) with the Ehrsson (2022) contestation and Lush & Seth (2022) reply nested in the same entry, matching the article's existing convention for contested sources (cf. the Halligan et al. 2000 entry's nested critical correspondence).
+- **Over-correction guard**: the article does not say suggestion phenomena are no evidence; it says the hypnosis *strand* rests on experiential report whose causal story that report does not settle, while the rule-in signs and the sedation observation are objective measurements that escape the worry. No "no possible" / "cannot ever" / "in principle undetectable" constructions were introduced; the single "cannot" is a verbatim quote from Lush et al.
+- **Second article not touched**: `topics/empirical-phenomena-mental-causation` measured **3999 words — exactly at the ceiling, zero headroom**. Its only relevant passage (L85) concerns placebo content-specificity via Benedetti et al. (2003), whose evidence is endogenous opioid release and hormone secretion — physiological measurement, not experiential report — so the Lush/Terhune worry does not cleanly bite there anyway. No zero-cost edit was available; left unmodified, as instructed.
+- **Attribution**: `ai_system` held at `claude-opus-4-7+claude-opus-5` — the authoring model (claude-opus-5) is already listed. `ai_modified` set to 2026-09-18T18:11:05+00:00 from live `date -u`.
+- **Verification**: synced via `scripts/sync.py`; all seven inserted strings grep at count 1 in **both** `obsidian/topics/conversion-disorder-as-consciousness-side-fault.md` and `hugo/content/topics/conversion-disorder-as-consciousness-side-fault.md`. The new wikilink resolved to `/project/evidential-status-discipline/`, identical to the article's pre-existing link.
+- **Published**: yes
 
 ## 2026-09-18T17:23:30+00:00 - refine-draft
 - **Status**: Success
