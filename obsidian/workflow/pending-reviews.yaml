@@ -416,9 +416,9 @@
   prompt_summary: 'Hostile referee: spontaneous-collapse stakes - bounds, quotes,
     alternatives'
   target_filename: outer-review-2026-09-18-claude-opus-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-18T04:38:53.788844+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile external referee for one article on The Unfinishable
     Map, a site defending interactionist dualism: https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/

@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T04:27:00+00:00'
+ai_modified: '2026-09-18T04:46:03+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-18T04:46:03+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (`claude-opus-5`)
+- **File**: [[reviews/outer-review-2026-09-18-claude-opus-5]]
+- **Subject**: `topics/philosophical-stakes-of-spontaneous-collapse` (recent-aged fallback; second of today's three legs on the shared subject)
+- **Collection**: 33,290-char artifact extracted via page-side Blob download. SHA-256 of the page-side buffer matched the landed file exactly — `714c742e…05ca`, 33,594 bytes — so the body is verified complete. Verdict: **major revision**, with the reviewer's own benchmark that three Stage-1 fixes would move it to minor revision.
+- **Claims verified**: 14 (11 confirmed verbatim at the primary text, 4 disputed, 6 recorded as unverified leads)
+- **High-value findings**: 3 convergent with the ChatGPT leg, 2 genuinely new
+- **Headline, verified verbatim at arXiv:2506.05507**: XENONnT (*Phys. Rev. Lett.* **136, 120201**, 2026) has already answered the currency question the article poses as open — "The original values proposed for the strength and the correlation length of the continuous spontaneous localization model are excluded experimentally for the first time." The ChatGPT leg flagged this figure as unverified; it is now confirmed and quotable.
+- **Strongest new finding — an internal contradiction neither the ChatGPT leg nor the reviewer framed sharply.** The article asserts consciousness biases outcomes "leaving causal closure intact at the level of conservation laws", yet (a) its own line 88 lists "spontaneous heating detected in ultracold systems" as a *confirmation* signature — collapse-induced radiation **is** the energy non-conservation of GRW/CSL, and is exactly what Gran Sasso, Majorana and XENONnT search for; and (b) our own `concepts/conservation-laws-and-mental-causation` argues the opposite defence, that conservation *fails* under dualist interaction and that this is defensible via broken time-translation symmetry. The stakes article claims a cleaner win than the Map's own concept page concedes it can have.
+- **Second new finding, verified against our file**: the two empirical results the "Current status" paragraph rests on are cited only through Ball's *Quanta* piece. Donadi et al. 2021 and Arnquist et al. 2022 are both absent from the reference list. ⚠️ Recorded for re-checkers: grepping `Donadi` returns two hits, but both are Carlesso & Donadi 2025 — a substring false positive.
+- **Convergence with the 2026-09-18 ChatGPT leg** (three of four findings, reached independently): the Chalmers–McQueen misrendering, the XENONnT staleness plus Majorana erratum, and the bracketing of Bohm/Everett behind tenets. This leg did **not** raise the lede contradiction. On C&M it supplies the positive replacement the earlier leg lacked — collapse rate tracks Earth Mover's Distance between Q-shapes, their default model is Born-preserving for outcome *selection*, and outcome-biasing (the Map's own flagship move) is the variant they decline: "We do not find this picture especially attractive." All quoted verbatim from the primary text this run.
+- **Reviewer defects caught and not propagated**: its Penrose-page recommendation is self-defeating — its own Caveats convert 4.9×10⁻¹⁰ m at 90% C.L. to ≈4.5×10⁻¹⁰ m at 95%, which is what our Penrose page already records, so that page is current and no task was minted. Its "omitted counterarguments" are article-level gaps reported as site-wide absences; the Map covers Tegmark, Cucu, relational QM, the pairing problem and Lorentz invariance across many articles, so the remedy is cross-linking, not new content. And its URLs are unreliable throughout: it links both Donadi 2021 and Arnquist 2022 to the XENONnT preprint, and mis-links Figurato 2024 and Cucu & Pitts 2019.
+- **Tasks generated**: 2 new (P1: 1, P2: 1). The P1 carries the [[direct-refutation-discipline]] remit. Rather than mint against four tasks already open on this one file, the convergent findings were **appended as continuation notes to the existing ChatGPT-leg tasks** — deliberate task-pileup avoidance, with `/combine-outer-reviews` left to score the convergence.
+- **Published**: not yet (obsidian only; sync pending)
 
 ## 2026-09-18T04:27:00+00:00 - outer-review
 - **Status**: Success
