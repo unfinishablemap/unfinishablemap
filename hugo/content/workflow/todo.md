@@ -39,13 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: archive triplicate — the agent-causation / anattā boilerplate is repeated verbatim in four archived files that serve at live URLs
-- **Type**: refine-draft
-- **File**: archive/concepts/quantum-coherence-and-binding-evidence.md
-- **Notes**: Identical boilerplate at `archive/concepts/quantum-coherence-and-binding-evidence.md` (~L183), `archive/concepts/quantum-coherence-in-neural-systems.md` (~L220), `archive/concepts/quantum-coherence-protection.md` (~L147) and `archive/concepts/psychophysical-coupling-law.md` (~L262). All four serve full bodies at preserved URLs. Minimal wording fix only — do not otherwise rewrite archived articles. One pass, all four files (they are archive, so the single-file close convention matters less than leaving three live). **THE DEFECT** (family opened by pessimistic-review 2026-08-03 Issue 4; first locus fixed 2026-09-17, commit 18c8191e): `concepts/agent-causation` defines agents as persisting SUBSTANCES exercising causal powers, and `tenets.md` requires "a persisting subject that exercises causal powers in its own right". Passages pairing agent causation with Buddhist *anattā* therefore assert the persisting substance-bearing subject no-self denies. **THE FIX IS RE-FRAMING, NOT DELETION** — the compatibility claim these passages want is *mental causation* (Buddhism holds it; Tenet 3 asserts it), not agent causation. The canonical formulation already exists in the corpus at `concepts/buddhism-and-dualism` ("What they share is *mental causation*… What they do not share is agent causation") and was reused in the 2026-09-17 fix to `concepts/moral-responsibility` — copy it, do not invent a new wording. Mark the residue as bedrock divergence citing `P-I1` (read it first). ⚠️ These loci were found by READING, not grep — several contain no agent-causal keyword at all, so do not certify anything closed on a grep zero. Print analyze_length before/after; keep length-neutral where the host is near a ceiling. Hold `ai_contribution` and `ai_system`; ai_modified from live `date -u`; sync both trees. Do not edit todo.md.
-- **Source**: refine-draft
-- **Generated**: 2026-09-17
-
 ### P3: `topics/the-self-minimal-narrative-and-substantial` L115 — borderline agent-causation / no-self coupling, assess before editing
 - **Type**: refine-draft
 - **File**: obsidian/topics/the-self-minimal-narrative-and-substantial.md
@@ -1809,6 +1802,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-17: archive triplicate — the agent-causation / anattā boilerplate is repeated verbatim in four archived files that serve at live URLs
+- **Type**: refine-draft
+- **File**: archive/concepts/quantum-coherence-and-binding-evidence.md
+- **Notes**: Identical boilerplate at `archive/concepts/quantum-coherence-and-binding-evidence.md` (~L183), `archive/concepts/quantum-coherence-in-neural-systems.md` (~L220), `archive/concepts/quantum-coherence-protection.md` (~L147) and `archive/concepts/psychophysical-coupling-law.md` (~L262). All four serve full bodies at preserved URLs. Minimal wording fix only — do not otherwise rewrite archived articles. One pass, all four files (they are archive, so the single-file close convention matters less than leaving three live). **THE DEFECT** (family opened by pessimistic-review 2026-08-03 Issue 4; first locus fixed 2026-09-17, commit 18c8191e): `concepts/agent-causation` defines agents as persisting SUBSTANCES exercising causal powers, and `tenets.md` requires "a persisting subject that exercises causal powers in its own right". Passages pairing agent causation with Buddhist *anattā* therefore assert the persisting substance-bearing subject no-self denies. **THE FIX IS RE-FRAMING, NOT DELETION** — the compatibility claim these passages want is *mental causation* (Buddhism holds it; Tenet 3 asserts it), not agent causation. The canonical formulation already exists in the corpus at `concepts/buddhism-and-dualism` ("What they share is *mental causation*… What they do not share is agent causation") and was reused in the 2026-09-17 fix to `concepts/moral-responsibility` — copy it, do not invent a new wording. Mark the residue as bedrock divergence citing `P-I1` (read it first). ⚠️ These loci were found by READING, not grep — several contain no agent-causal keyword at all, so do not certify anything closed on a grep zero. Print analyze_length before/after; keep length-neutral where the host is near a ceiling. Hold `ai_contribution` and `ai_system`; ai_modified from live `date -u`; sync both trees. Do not edit todo.md.
 
 ### ✓ 2026-09-17: `topics/cross-cultural-phenomenology-of-agency` L73 inverts the defect — it attributes to the Map a denial the Map does not make
 - **Type**: refine-draft

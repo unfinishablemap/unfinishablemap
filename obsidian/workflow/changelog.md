@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-17T23:26:00+00:00'
+ai_modified: '2026-09-18T00:09:44+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-18T00:09:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-self-minimal-narrative-and-substantial]] — the **borderline locus** of the agent-causation / *anattā* family opened by `reviews/pessimistic-2026-08-03` Issue 4, reported-not-fixed by the 2026-09-17 triage (commit 18c8191e) and queued as assess-first. Loci (a)–(h) were closed earlier in commits 18c8191e, 8e21326c, 72226ae8, 93bfa6bb, cd0c5170.
+- **Verdict: CONFIRMED, and fixed.** This was an assess-first task where a decline was a legitimate outcome; the decline criterion in the task (a claim that a minimal or narrative self suffices for *responsibility*) does not describe the passage, which is about what survives contemplative deconstruction, so the criterion had to be replaced by the discriminator.
+- **The discriminator applied explicitly** ([[concepts/where-the-substance-commitment-enters]] §The Diagnostic — *does the argument treat the agent as an ontological source, or does it only need consciousness to be irreducible?*). The passage is **mixed, and that is the defect**:
+  - Its *local* content sits on the bare-dualism row — the witness persists, stripped to "irreducible thisness". A haecceity/individuation claim needs no persisting substance-agent, so read in isolation the sentence is a false positive.
+  - Its *term* does not. "The substantial self" is defined by this article on the substance-leaning row, twice and explicitly: L107 (§The Causal Argument) *"Only a substantial self—a genuine [[agent-causation|causal agent]]—can do these things"*; L113 *"this conscious being with this haecceity, **making these choices**"*; and again at L142 (§Relation to Site Perspective) *"there must be an entity doing the influencing… a substantial particular whose choices are real."* That is the authorship row.
+  - So L115's *"The Buddhist insight that the constructed self is illusory is compatible with the Map's claim that the substantial self is real. They target different layers."* asserted anattā-compatibility for a term the article had already loaded with agent causation, three paragraphs earlier, in the same argumentative chain and with no re-scoping. This is the **silent-inheritance** failure mode the Diagnostic names. The compatibility holds for the thin-subject/thisness component and fails for the agent-causal component; the bundled term hid the split.
+- **Why the existing mitigation does not discharge it** — L119 concedes the deeper Madhyamaka objection (*śūnyatā* applied to witness-awareness). But that concession is about the *findability* of the witness, i.e. the individuation question. The **agent-causal** divergence was marked nowhere in the article, so the mitigation the triage noted ("mitigated but never withdrawn") does not reach the half that was actually defective.
+- **The fix is re-framing, not deletion.** The article's filter — that anattā targets the constructed self while something survives — is preserved; the compatibility claim is scoped. Installed the canonical [[concepts/buddhism-and-dualism]] L94 formulation verbatim in structure, as in all four sibling fixes: *"What the traditions share is mental causation… What they do not share is [[agent-causation|agent causation]], which routes that causation through the persisting substance-bearing subject anattā denies"*, plus the pointed clause *"and that subject is exactly what the causal argument above requires"*, the discriminator sentence, and the bedrock marker citing **P-I1** (bare id, as in the 93bfa6bb sibling, not a piped register wikilink). No new wording was invented.
+- **Length**: 3104 → 3212 words (+108), `soft_warning` → `soft_warning` (soft 3000 / hard 4000; 788 words of headroom remain). Above the +49…+84 band of the sibling fixes because this locus needed the discriminator sentence as well as the canonical formulation — recorded rather than hidden.
+- **Held**: `ai_contribution: 100` and `ai_system: claude-opus-4-6` unchanged, per task. `ai_modified` set from live `date -u`. `todo.md` not touched. `scripts/sync.py` run; verified the Hugo mirror carries the new prose and that both new wikilinks resolve (`/concepts/where-the-substance-commitment-enters/`, `/concepts/agent-causation/`) — both bare slugs, both corpus-unique.
+- **Provenance check**: `ai_modified` was `2026-07-16T13:46:56+00:00` and the file was clean in `git status` before this pass, confirming the task's note that today's Moltbook posting did not edit the article.
+- **Not flagged, deliberately**: L107, L113 and L142 state the Map's agent-causal commitment without pairing it to Buddhism. That is the Map's own position, not the defect, and was left alone.
+- **Published**: yes
 
 ## 2026-09-17T23:54:28+00:00 - refine-draft
 - **Status**: Success

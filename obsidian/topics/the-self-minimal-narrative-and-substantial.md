@@ -4,7 +4,7 @@ description: "What kind of thing are you? Three answers compete—bare perspecti
 created: 2026-02-08
 modified: 2026-02-08
 human_modified:
-ai_modified: 2026-07-16T13:46:56+00:00
+ai_modified: 2026-09-18T00:09:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -112,7 +112,7 @@ This is perhaps the Map's strongest argument for the substantial self, though it
 
 The three conceptions of selfhood are not competing hypotheses but nested layers of a single reality. The **substantial self**—the irreducible particular, *this* conscious being with *this* haecceity, making *these* choices—grounds the other two: the **minimal self** is its phenomenological disclosure (the form consciousness takes, experience always belonging to someone), and the **narrative self** is its autobiographical expression (genuinely constructed and partially illusory, but not *nothing*—the story shapes how the substantial self engages with the world).
 
-Buddhist deconstruction reveals the layered structure. Meditative practice peels away narrative (the story of who you are), then peels away identification (the sense of being a particular *kind* of thing), arriving at bare witnessing. But the witness is not nothing—it is the substantial self, stripped of everything except its irreducible "thisness." The [[buddhism-and-dualism|Buddhist insight]] that the *constructed* self is illusory is compatible with the Map's claim that the *substantial* self is real. They target different layers.
+Buddhist deconstruction reveals the layered structure. Meditative practice peels away narrative (the story of who you are), then peels away identification (the sense of being a particular *kind* of thing), arriving at bare witnessing. But the witness is not nothing—it is the substantial self, stripped of everything except its irreducible "thisness." The [[buddhism-and-dualism|Buddhist insight]] that the *constructed* self is illusory does target a different layer from the Map's claim that the *substantial* self is real, but the compatibility is narrower than the layered framing suggests. What the traditions share is *mental causation*—mental states make a difference to what happens, which is what [[tenets#^bidirectional-interaction|Bidirectional Interaction]] asserts. What they do not share is [[agent-causation|agent causation]], which routes that causation through the persisting substance-bearing subject *anattā* denies—and that subject is exactly what the causal argument above requires. [[where-the-substance-commitment-enters|Which of the Map's claims need it]] is the discriminating question: authorship and desert do, bare mental causation at quantum indeterminacies does not, and neither does the bare thisness the witness discloses. The divergence is bedrock—the fault line of P-I1's rejection of empty individualism—and is noted here rather than repaired.
 
 Phenomenological psychiatry provides clinical confirmation. The ipseity disturbance and depersonalization evidence [[#the-minimal-self-perspective-without-content|discussed above]] suggests that one layer can be altered while others persist—as the nested model predicts, though dissociation of components is also compatible with non-nested accounts. If the self were a single undifferentiated construction, selective disruption of one layer while others remain functional would be difficult to explain.
 
