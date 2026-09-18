@@ -4,7 +4,7 @@ description: "First-person investigation reveals consciousness structures invisi
 created: 2026-01-31
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-09-17T13:24:30+00:00
+ai_modified: 2026-09-18T10:23:45+00:00
 last_deep_review: 2026-07-06T23:49:16+00:00
 draft: false
 topics:
@@ -119,11 +119,11 @@ Five lines of argument make aesthetics the strongest case, but [[aesthetics-and-
 
 ## Evidence for Theories
 
-Contemplative data don't merely describe experience—they distinguish theories. The [[contemplative-practice-as-philosophical-evidence|evidential structure]] has two stages: the data eliminate certain positions, then favour—without proving—the Map's interactionist dualism.
+Contemplative data don't merely describe experience—they distinguish theories. The [[contemplative-practice-as-philosophical-evidence|evidential structure]] has two stages: the data press hardest on certain positions, then favour—without proving—the Map's interactionist dualism.
 
-### What the Evidence Eliminates
+### What the Evidence Presses Hardest On
 
-Against epiphenomenalism—the claim that consciousness is causally inert—neuroplastic changes from meditation correlate specifically with *phenomenologically engaged* practice. Weng et al. (2013) found that compassion meditation, cultivating felt compassion rather than merely performing exercises, produced brain changes predicting altruistic behaviour; the *content* of intention tracks neural change finely, compassion practice yielding different patterns than breath attention. This eliminates epiphenomenalism while staying neutral between physicalist and dualist accounts of *how*, since physicalists identify the mental training with the neural training described from another perspective.
+Against [[concepts/epiphenomenalism|epiphenomenalism]]—the claim that consciousness is causally inert—neuroplastic changes from meditation correlate specifically with *phenomenologically engaged* practice. Weng et al. (2013) found that compassion meditation, cultivating felt compassion rather than merely performing exercises, produced brain changes predicting altruistic behaviour; the *content* of intention tracks neural change finely, compassion practice yielding different patterns than breath attention. This presses hard on epiphenomenalism while staying neutral between physicalist and dualist accounts of *how*, since physicalists identify the mental training with the neural training described from another perspective.
 
 Microphenomenology adds a complementary line. Claire Petitmengin's disciplined second-person interview procedure elicits reports below the threshold of casual introspection; its strongest demonstration is continuous, hour-scale premonitory experiences in epileptic patients that subjects did not spontaneously report and third-person measurements did not characterise (Petitmengin, Baulac & Navarro 2006; Petitmengin, Navarro & Le Van Quyen 2007). The authors are careful about what this licenses: they report patient testimony about counter-measures rather than outcome data, and judge prodromes "not specific enough for clinical use". Trained first-person inquiry can nonetheless be *ampliative*, surfacing content that casual introspection and external instruments both miss.
 
@@ -133,7 +133,7 @@ Against reductive materialism, first-person methods prove irreducible. Trained m
 
 Both physicalists and dualists accept bidirectional causation between consciousness and brain, so the question is fit rather than entailment. Three features sit more naturally within a dualist framework: the [[witness-consciousness|witness phenomenon]], awareness persisting through radical changes of content including dissolution of the self-model, which puzzles views treating awareness as emergent from a particular neural configuration; the persistent explanatory gap, which reads more naturally as irreducibility than as youth of the science; and the [[neurophenomenology-and-contemplative-neuroscience|neurophenomenological]] framework, whose methodological irreducibility the Map reads as reflecting an ontological one.
 
-The honest assessment: contemplative evidence eliminates epiphenomenalism and reductive materialism decisively. It *favours* dualism over non-reductive physicalism but does not eliminate it.
+The honest assessment: contemplative evidence presses hardest on epiphenomenalism and reductive materialism, constraining them rather than refuting them—the [[phenomenal-concepts-strategy|phenomenal-concept strategy]] survives the self-stultification charge, and the live dispute relocates to whether the first-person mode of presentation can be exhaustively physically characterised. It *favours* dualism over non-reductive physicalism but does not eliminate it.
 
 ## Eastern Philosophy's Contribution
 
