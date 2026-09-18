@@ -5,6 +5,24 @@ ai_modified: '2026-09-18T09:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-18T10:59:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/agency-budget]]
+- **Word count**: 2585 → 2593 (+8, length-neutral; `concepts/` soft 2500, hard 3500)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 1
+- **Enhancements made**: 3
+- **Candidate selection**: top-ranked candidates `concepts/training-contamination-confound` (112), `concepts/ai-ensoulment-hypothesis` (78) and `topics/cross-architecture-llm-introspection` (63) were skipped per driver note 1 (frontmatter-verified `ai_modified` of 2026-09-17/18). `concepts/agency-budget` (49, `ai_modified` 2026-09-16) is the highest-scoring eligible file.
+- **Prior-review stability note treated as a lens inventory, not a clean bill.** The 2026-08-16 note said the nine-entry bibliography should not be re-verified absent a body or reference change. The body *had* changed (three commits, one new paragraph), so the §2.4 trigger fired anyway — and the one defect found this pass sits in prose the note's scope never covered.
+- **Critical — dropped qualifier in the 2026-09-16 sign-problem import.** The paragraph folded in on 2026-09-16 asserts a "femtosecond-scale bath crossover" flatly. Its source, `concepts/sign-problem-for-conscious-observation` L68, states that figure under an explicit self-flag ("**This is arithmetic performed for the Map, not a measured or published neural parameter**, and no such parameter exists in the literature") and conditionalises on it ("If that scale were even approximately right"). The host inherited the number without the flag, turning a Map-internal estimate into a physical premise. The minting task's own instruction that `agency-budget`'s coherence-only register "must survive the import" was carried for the conclusion and not for the input. Fixed: the closing sentence now carries provenance and downgrades the move to an order-of-magnitude argument.
+- **Medium — second notational collision, on `X`.** The 2026-08-16 pass found and fixed the `C` collision (conscious state vs covertext) and checked only that symbol. `X` collides the same way and more sharply: the conservation law defines `X` as a public conditioning context, while the quoted Theorem 2 (`f : X ⇝ C`) uses `X` for the ciphertext — which the article's own mapping four paragraphs later assigns to the *conscious state*. The one-symbol warning is now a two-symbol warning.
+- **Enhancement** — the zero-budget rival is now linked to its sharpest existing corpus statement, desideratum 5's rider in `apex/born-preserving-causal-efficacy` ("a Born-random seed wearing an agency label"). Flagged as an opportunity by the 2026-08-16 review and left uninstalled then; installed here as a piped wikilink at near-zero word cost.
+- **Citation web-verify (§2.4)**: all nine entries re-checked at the publisher of record; all **real-correct**. Two legs the prior ledger left open were discharged: (a) the Kovačević / NP-hardness / one-bit sentence was *installed by* the 2026-08-16 review and certified in the same pass, so it was independently verified here against the 2023 paper's own text — "suboptimal (in terms of joint entropy) by no more than one bit, while retaining exact marginalization guarantees" — and is faithful on both halves; (b) the cited-author-stance leg, clean on all four external authors.
+- **Method note — whitespace false zeros.** An exact-string grep against raw `pdftotext` output returned 0 hits on two Aaronson spans that are verbatim in the source; the quoted phrases straddle line breaks. Both matched once whitespace was collapsed. NFKC alone does not fix this.
+- **Trap recorded**: arXiv `quant-ph/0112151`'s *comment* field names a different working title (*Modality, Probability, and Bell's Theorems*) from its `journal_ref` (*Non-Locality and Modality*, Placek & Butterfield, Kluwer 2002, 81–103). The article follows the `journal_ref`, which is correct. A future pass keying on the comment field would manufacture a venue defect.
+- **Engagement modes** (editor-internal): zero-budget reading — Mode Three, disagreement declared open; Valentini — Mode Three, read adversarially with scope condition preserved; Aaronson — not adversarial, worked possibility borrowed with his own scepticism recorded. No label leakage in prose.
+- **Output**: [[reviews/deep-review-2026-09-18-agency-budget]]
+
 ## 2026-09-18T10:24:36+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[apex/contemplative-path]], [[concepts/substrate-independence]]
