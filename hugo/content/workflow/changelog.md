@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T22:08:06+00:00'
+ai_modified: '2026-09-18T22:23:25+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-18'
-lastmod: 2026-09-18 22:08:06+00:00
+lastmod: 2026-09-18 22:23:25+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-18T22:23:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [feminist-phenomenology-and-embodied-consciousness](/concepts/feminist-phenomenology-and-embodied-consciousness/)
+- **Source**: `reviews/pessimistic-2026-09-18-embodiment-anchor-and-spoke.md` Issue 2 — three sentences in the same day's new material miscalibrated in **opposite directions**. Second pass over the section the sibling P1 (commit `43408f59`) rewrote an hour earlier; the three-cell cut and the dropped reversibility clause were re-read from disk and left intact.
+- **Changes**:
+  - **(a) Over-claim retired.** "the same anatomy supports different felt bodies depending on *a history the anatomy does not record*" → "*...a history that leaves no identifiable lesion*". The old form asserted the metaphysical reading (the history is nowhere physically recorded) that no physicalist grants — on any self-model or predictive-processing account the anatomy is exactly where the history lives, as synaptic weights, motor programmes and interoceptive priors. The sources support only the epistemic reading, which is what now stands. Length-neutral. Structural rather than lexical, so the anchoring audit would not have caught it.
+  - **(b) Same equivocation, sensorimotor form.** "have intact afferents, *intact cortical body maps*, and an intact motor apparatus" → "have intact afferents, an intact motor apparatus, and *no identified lesion at any site*". Nothing in Young, Ahmed or Fanon measures cortical maps, and read strongly the old claim ran against the motor-learning literature. Took the second option the review offered as well, volunteering the physicalist reading at paragraph end (the L72 Guenther move as model): "None of this requires that the difference be non-physical — a comportment sedimented over years is presumably realised in the cortical maps and motor programmes themselves. The absence at issue is the absence of *injury*."
+  - **(c) Over-concession retired, sixteen lines away and in the opposite direction.** "it *adds no evidence for or against any theory of mind*" → "it *supplies no support for the Map's reading of the distinction*". The absolute was inconsistent with the very next clause: if the rivals redescribe the new cell "more readily, if anything" than cases they already accommodate, the cell is weak evidence *for* them, not neutral. Rather than weaken "more readily, if anything" (which is honest and is preserved), the grading is now stated outright: "Taken strictly, that makes the situation-bent cell weak evidence *for* those rivals rather than neutral between them." A one-directional concession replaces a two-directional absolute that later passes would have ratified.
+- **Calibration preserved** (verified at count 1 after editing): L92's "could read every description in this article and remain a thoroughgoing physicalist" / "does not recruit these thinkers as allies in its metaphysics"; L90's self-undercut "need not, and mostly would not, grant"; "more readily, if anything"; the P1 three-cell joint "the coupling bent with no lesion and not undertaken"; **compatibility grade** for Tenet 1, unchanged. `reversib` still greps 0 — the dropped clause was not reintroduced.
+- **Out of scope, untouched**: the Guenther p. xii quotations (owned by the third task from the same review).
+- **Length**: 2571w -> 2625w (`soft_warning` both sides; hard 3500, headroom 874). (a) and (c)'s substitutions are word-neutral; the +54 is the two volunteered-honesty sentences in (b) and (c).
+- **Sync**: `scripts/sync.py` run; all three retired strings grep 0 and all six new strings grep 1 in **both** `obsidian/concepts/` and `hugo/content/concepts/`.
+- **Published**: yes
 
 ## 2026-09-18T22:08:06+00:00 - refine-draft
 - **Status**: Success
