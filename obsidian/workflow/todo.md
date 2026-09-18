@@ -1072,19 +1072,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **RESIDUE — DO NOT "FIX" IT.** The quoted forms surviving in `reviews/deep-review-2026-06-06-personal-identity` L50, `reviews/deep-review-2026-07-07-personal-identity` L55, `reviews/deep-review-2026-07-30-personal-identity` L49, `reviews/optimistic-2026-06-19` L40 and `workflow/archive/changelog-2026-W22` L2010 are the **audit trail** of what the articles said. The 02:36Z changelog entry already names them so a later sweep does not read them as live defects. Correcting them would falsify the record.
 
-### P3: the Map cites suggestion and hypnosis as evidence for mental causation, in a literature that holds first-person reports about those very phenomena are the least diagnostic
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/conversion-disorder-as-consciousness-side-fault.md
-- **Notes**: Surfaced by the 2026-08-09 `research-voids` run as a by-product — it needs **no `voids/` slot** and is actionable independently of whether the suggestion void is ever written. **Points INWARD at published tenet-supporting argument**, which is the higher-value direction.
-  **✅ VERIFIED BY THE DRIVER:** both target articles exist and do cite the phenomena — `topics/conversion-disorder-as-consciousness-side-fault.md` (**7** suggestion/hypnosis hits) and `topics/empirical-phenomena-mental-causation.md` (present, fewer hits). Both use the material in support of **Tenet 3, Bidirectional Interaction**.
-  **⚠️ NOT YET VERIFIED — CHECK THIS FIRST, AT PRIMARY TEXT, BEFORE EDITING ANYTHING.** The concern originates in `obsidian/research/voids-suggestion-void-2026-08-06.md`, which reports that **Terhune & Hedman (2017)** and **Lush et al. (2020)** hold that first-person reports about suggestion and hypnotic phenomena are precisely the reports least able to reveal what is driving them (the phenomenological-control / trait-suggestibility literature). **That claim is inherited from a three-day-old research note and has NOT been checked against the papers.** If it does not hold as stated, there is no defect — **say so and close the task**. A task whose target is sound but whose asserted premise is false is the documented expensive failure here.
-  **IF IT DOES HOLD, the defect is a calibration one, not a factual one.** The Map would be citing, as evidence that consciousness causes physical change, a class of phenomena whose own literature says self-report cannot discriminate the causal story. The fix is to mark the evidential status, **not** to drop the phenomena: suggestion effects remain real and remain congenial to the Map's reading. Follow the corpus's existing register — `project/evidential-status-discipline` and the "congenial to, though not discriminating against" wording used across the psychedelics cluster (see `topics/psychedelics-and-the-filter-model` L133).
-  **DO NOT OVER-CORRECT** into "suggestion phenomena are no evidence at all", and do not weaken Tenet 3 itself. The claim at issue is about what *self-report* can settle.
-  **SCOPE:** these two articles only. `hypnos` returns **0 files** across all 99 void articles and `suggestib` returns **1**, so there is no wider sweep to open in `voids/`. Re-grep the content tree on `suggestib`, `hypnos` and `placebo` before widening anywhere else — do not inherit that count.
-  **MIRROR**: edit `obsidian/`, then `uv run python scripts/sync.py`. `ai_modified` from a live `date -u`, strictly past. **Hold `ai_system`** unless you author substantial new prose.
-
 ### P3: plant-cognition literature-drift remainder — Tier 2 items 5–6 and Tier 3, carried forward from a partially-completed task
 - **Type**: refine-draft
 - **File**: obsidian/topics/plant-cognition-and-the-plant-neurobiology-debate.md
@@ -1731,6 +1718,17 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-18: the Map cites suggestion and hypnosis as evidence for mental causation, in a literature that holds first-person reports about those very phenomena are the least diagnostic
+- **Type**: refine-draft
+- **File**: obsidian/topics/conversion-disorder-as-consciousness-side-fault.md
+- **Notes**: Surfaced by the 2026-08-09 `research-voids` run as a by-product — it needs **no `voids/` slot** and is actionable independently of whether the suggestion void is ever written. **Points INWARD at published tenet-supporting argument**, which is the higher-value direction.
+  **✅ VERIFIED BY THE DRIVER:** both target articles exist and do cite the phenomena — `topics/conversion-disorder-as-consciousness-side-fault.md` (**7** suggestion/hypnosis hits) and `topics/empirical-phenomena-mental-causation.md` (present, fewer hits). Both use the material in support of **Tenet 3, Bidirectional Interaction**.
+  **⚠️ NOT YET VERIFIED — CHECK THIS FIRST, AT PRIMARY TEXT, BEFORE EDITING ANYTHING.** The concern originates in `obsidian/research/voids-suggestion-void-2026-08-06.md`, which reports that **Terhune & Hedman (2017)** and **Lush et al. (2020)** hold that first-person reports about suggestion and hypnotic phenomena are precisely the reports least able to reveal what is driving them (the phenomenological-control / trait-suggestibility literature). **That claim is inherited from a three-day-old research note and has NOT been checked against the papers.** If it does not hold as stated, there is no defect — **say so and close the task**. A task whose target is sound but whose asserted premise is false is the documented expensive failure here.
+  **IF IT DOES HOLD, the defect is a calibration one, not a factual one.** The Map would be citing, as evidence that consciousness causes physical change, a class of phenomena whose own literature says self-report cannot discriminate the causal story. The fix is to mark the evidential status, **not** to drop the phenomena: suggestion effects remain real and remain congenial to the Map's reading. Follow the corpus's existing register — `project/evidential-status-discipline` and the "congenial to, though not discriminating against" wording used across the psychedelics cluster (see `topics/psychedelics-and-the-filter-model` L133).
+  **DO NOT OVER-CORRECT** into "suggestion phenomena are no evidence at all", and do not weaken Tenet 3 itself. The claim at issue is about what *self-report* can settle.
+  **SCOPE:** these two articles only. `hypnos` returns **0 files** across all 99 void articles and `suggestib` returns **1**, so there is no wider sweep to open in `voids/`. Re-grep the content tree on `suggestib`, `hypnos` and `placebo` before widening anywhere else — do not inherit that count.
+  **MIRROR**: edit `obsidian/`, then `uv run python scripts/sync.py`. `ai_modified` from a live `date -u`, strictly past. **Hold `ai_system`** unless you author substantial new prose.
 
 ### ✓ 2026-09-18: six research notes link to articles that have since been archived or moved — the corpus's only real broken links
 - **Type**: refine-draft
