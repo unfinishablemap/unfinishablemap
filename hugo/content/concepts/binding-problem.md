@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-08-07 21:31:00+00:00
+ai_modified: 2026-09-18 01:53:27+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -50,7 +50,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 21:49:23+00:00
-lastmod: 2026-08-07 21:31:00+00:00
+lastmod: 2026-09-18 01:53:27+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -74,7 +74,7 @@ This problem splits into two fundamentally different challenges: the computation
 
 ## The Two Binding Problems
 
-William James identified what is now called the "combination problem" in the 19th century: if consciousness involves many separate neural events, how do they combine into unified experience? Philosophers distinguish two versions (Revonsuo 1999):
+William James identified what is now called the "combination problem" in the 19th century: if consciousness involves many separate neural events, how do they combine into unified experience? Philosophers distinguish two versions; the BP1/BP2 labels are Smythies's (1994), quoted and developed for consciousness science by Revonsuo (1999):
 
 **BP1: The Segregation Problem** — How does the brain correctly assign features to objects? When you see a red ball bouncing, visual features (redness, roundness), motion (trajectory, speed), and spatial location are processed in different cortical areas. How does the system bind these features together to represent a single ball rather than confused mismatches? This is a tractable computational problem that neuroscience might solve.
 
@@ -244,6 +244,7 @@ The binding problem illuminates why the Map's [tenets](/tenets/) take the positi
 1. Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*, 122(43), e2520190122. doi:10.1073/pnas.2520190122.
 1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
 1. Revonsuo, A. (1999). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 8(2), 173-185.
+1. Smythies, J. R. (1994). Requiem for the Identity Theory. *Inquiry*, 37(3), 311-329.
 1. Stapp, H. P. (2009). *Mind, Matter, and Quantum Mechanics*. 3rd ed. Springer.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. Warren, W.S. (2023). Comment on "Experimental indications of non-classical brain functions." *Journal of Physics Communications*, 7(3), 038001.

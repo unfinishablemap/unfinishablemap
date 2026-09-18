@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-18T01:53:27+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [binding-problem](/concepts/binding-problem/), [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) (two-file task; both done in one pass because `cycle_post` closes only one file per task)
+- **Task**: P2 provenance enhancement carried from [deep-review-2026-09-18-the-binding-problem](/reviews/deep-review-2026-09-18-the-binding-problem/) — NOT a correction of either sibling.
+- **Verification before editing**: Confirmed the review's finding that neither sibling carried the BP2/hard-problem conflation the topics article had. `concepts/binding-problem` L73 cites "(Revonsuo 1999)" under the neutral framing "Philosophers distinguish two versions"; `topics/quantum-holism-and-phenomenal-unity` L52 under "distinguishes two challenges". Neither attaches the hard-problem reading to the cite. In `concepts/binding-problem` the scare-quoted "BP2 is the 'hard' aspect of binding" sits at L79, two bold-headed paragraphs below the cite, unattributed to Revonsuo — it reads as the Map's own framing and needed no edit. No defect manufactured; provenance added and nothing more.
+- **Citation verified at publisher of record**: Smythies, J. R. (1994), *Requiem for the Identity Theory*, **Inquiry 37(3), 311-329**, DOI 10.1080/00201749408602356, published September 1994 (Crossref, journal ISSN 0020-174X). Independently confirmed — not taken on the review's word — so cited as a direct reference rather than "as quoted in Revonsuo 1999 p.176".
+- **Changes**: identical provenance sentence installed in both articles for corpus consistency, matching the wording landed in `topics/the-binding-problem`: "the BP1/BP2 labels are Smythies's (1994), quoted and developed for consciousness science by Revonsuo (1999)". Smythies 1994 added to both reference lists in alphabetical position (after Revonsuo in `concepts/binding-problem`; after Singer in `topics/quantum-holism-and-phenomenal-unity`) — inserted, never renumbered, since both lists use markdown auto-numbering.
+- **Word count**: `concepts/binding-problem` 3165 → 3191 (+26; `soft_warning`, 308 words of headroom below the 3500 hard threshold). `topics/quantum-holism-and-phenomenal-unity` 3966 → 3992 (+26; `soft_warning`, **only 7 words of headroom** below the 4000 hard threshold — `length.py` gates on `>= hard`, so 4000 itself trips). ⚠️ The quantum-holism article is now one small addition away from `hard_warning`; the next pass touching it should expect to trim. No trims taken here: the task was scoped to provenance only, and cutting existing prose to buy headroom would have been unrequested churn.
+- **Held**: `ai_contribution` (100 on both) and `ai_system` unchanged — no new authorship model attribution. `ai_modified` set from live `date -u`.
+- **Corpus effect**: "Smythies" now appears in three live articles where it appeared in zero before this cycle. Seven further live articles use the BP1/BP2 distinction without provenance; not in scope here.
+- **Published**: yes
+
 ## 2026-09-18T02:05:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [the-binding-problem](/topics/the-binding-problem/)

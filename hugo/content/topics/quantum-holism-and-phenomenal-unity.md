@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-08-08 21:57:00+00:00
+ai_modified: 2026-09-18 01:53:27+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 19:47:42+00:00
-lastmod: 2026-08-08 21:57:00+00:00
+lastmod: 2026-09-18 01:53:27+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,7 +53,7 @@ topics:
 
 ## The Structure of the Problem
 
-The [binding problem](/concepts/binding-problem/) distinguishes two challenges (Revonsuo 1999). BP1 asks how the brain correctly assigns features to objects—how "red" and "round" get tagged as belonging to the same apple. This is a neural engineering problem that neuroscience is making progress on. BP2 asks why correctly bound features constitute *one* unified experience rather than parallel processes that happen to be coordinated. BP2 remains untouched despite decades of research.
+The [binding problem](/concepts/binding-problem/) distinguishes two challenges. The BP1/BP2 labels are Smythies's (1994), quoted and developed for consciousness science by Revonsuo (1999). BP1 asks how the brain correctly assigns features to objects—how "red" and "round" get tagged as belonging to the same apple. This is a neural engineering problem that neuroscience is making progress on. BP2 asks why correctly bound features constitute *one* unified experience rather than parallel processes that happen to be coordinated. BP2 remains untouched despite decades of research.
 
 The reason BP2 resists solution is structural. Classical physics describes the world in terms of *external relations*: parts alongside parts, events following events, signals between systems. Nothing in this ontology provides for genuine wholes. What we call "wholes" in ordinary physics are collections of parts—convenient labels for arrangements that remain, at bottom, multiplicities: a rock is many atoms, a brain many neurons.
 
@@ -233,6 +233,7 @@ The Map holds that the quantum position remains a realistic candidate—motivate
 1. Revonsuo, A. (1999). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 8(2), 173-185.
 1. Schlosshauer, M. (2019). Quantum decoherence. *Physics Reports*, 831, 1-57.
 1. Singer, W. (1999). Neuronal Synchrony: A Versatile Code for the Definition of Relations? *Neuron*, 24(1), 49-65.
+1. Smythies, J. R. (1994). Requiem for the Identity Theory. *Inquiry*, 37(3), 311-329.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. Tononi, G. (2008). Consciousness as integrated information: a provisional manifesto. *Biological Bulletin*, 215(3), 216-242.
 1. Vicente, R., Gollo, L. L., Mirasso, C. R., Fischer, I., & Pipa, G. (2008). Dynamical relaying can yield zero time lag neuronal synchrony despite long conduction delays. *Proceedings of the National Academy of Sciences USA*, 105(44), 17157-17162.
