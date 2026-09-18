@@ -1,14 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T05:27:32+00:00'
+ai_modified: '2026-09-18T05:59:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-18'
-lastmod: 2026-09-18 05:27:32+00:00
+lastmod: 2026-09-18 05:59:19+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-18T05:59:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [plant-cognition-and-the-plant-neurobiology-debate](/topics/plant-cognition-and-the-plant-neurobiology-debate/)
+- **Selection**: cycle-slot deep-review. Top two candidates (`concepts/ai-ensoulment-hypothesis` score 78, `topics/cross-architecture-llm-introspection` score 63) skipped per driver instruction — frontmatter `ai_modified` confirmed as today for both. Next eligible candidate at score 49.
+- **Word count**: 2798 -> 2977 (+179; soft 3000 / hard 4000, status `ok` throughout — no length-neutral constraint. 23 words of headroom remain, so the next pass on this file is at the ceiling.)
+- **Critical issues addressed**: 4
+- **Medium issues addressed**: 4 (citation year/volume corrections)
+- **Enhancements made**: 1
+- **Why this was not a no-op**: the 08-01 stability note said "do not re-run the metadata or quote lenses — verified 07-08 (11 cites) and 08-01 (12 cites)". Two `refine-draft` commits landed after it (`be02ae525f`, `9cdab58615`) adding **six citations and three quotations** the note's coverage could not extend to. The article now carries 19 cites; the note's count of 12 was the tell. A ledger is bounded by the article as it stood when it was written.
+- **Changes**:
+  - **Trewavas attribution corrected.** The body said the "fake quotations" charge "rests on faulty reasoning and unfamiliarity with the literature". Trewavas's abstract (PMID 39505772) attributes it to "faulty reasoning and lack of understanding of practical biology"; the literature complaint is a *separate* charge in the same abstract. Two distinct grounds had been merged. Replaced with a verbatim quotation.
+  - **Kingsland & Taiz enumeration corrected.** The body listed "Darwin, Sachs, Went, Thimann, McClintock and Bose". The paper's list (PMID 39276228) is Darwin, von Sachs, Went, Thimann, McClintock and **J. B. Lamarck** — Lamarck was dropped and Bose wrongly folded in. Bose is treated separately by the paper, as the claimed forerunner whose suppression is attributed to racism. Lamarck restored; Bose moved to its own clause.
+  - **Minorsky mischaracterisation fixed.** "Replied separately in defence of Bose" implied a defence of plant intelligence, which the paper is not. Minorsky (PMID 39560739) defends his own prior article and specifically his racism charge against Daniel T. MacDougal, against Kingsland & Taiz's claim that "there were legitimate scientific reasons for questioning" Bose. Replaced with a precise characterisation that also marks what he is not defending.
+  - **Unsupported claim sourced.** "The counting rests on a decaying cytosolic calcium signal... the count resets" sat inside a paragraph cited only to Böhm et al. 2016, which does not report it (full text PMC4751343 retrieved and grepped; cytosolic calcium appears once, as a citation to prior work). The mechanism is Suda et al. 2020, *Nature Plants* 6(10), 1219–1224. Restated in Suda's own terms with the closure threshold and ~30 s window, and added as reference 10.
+  - **Four citations corrected to version-of-record.** Segundo-Ortin & Calvo 2021 -> **2022** (13(2), e1578 is the March 2022 print issue; Europe PMC `pubYear=2022`), fixed in body and references. The three *Protoplasma* papers 2024 -> **2025** with issue numbers added (262(2); Europe PMC `pubYear=2025`, print 2025-03-01, online 2024). Each keeps its online-first date parenthetically. The "(2024)" inside Minorsky's title is part of the title and was left verbatim.
+  - **Over-concession removed (§2.6, Mallatt et al. 2021 — Mode Three).** The paragraph called the IIT-internal objection "a live countermodel the Map has not answered". It is not a countermodel to the Map: Mallatt et al. argue IIT fails to establish plant consciousness, a conclusion the Map shares and reaches without IIT. Rewritten to the claim that is both true and less comfortable — the skeptics' bottom line does not depend on neural necessity, so declining that premise costs their conclusion less than the two preceding objections suggest. Their objection also restated accurately as an internal-inconsistency charge (the argument needs consciousness confined to life; IIT refuses that restriction) rather than the loose "proves too much" gloss.
+- **Engagement classification** (editor-internal, not in article prose): Taiz et al. 2019 — Mixed (Mode Two -> Mode Three), unchanged from 08-01. Mallatt et al. 2021 — Mode Three, sharpened; never previously classified, as it postdates every prior review. Calvo et al. 2021 — exposition, no classification. Label-leakage grep over the full forbidden set returns all zero.
+- **False positive caught and documented**: Böhm's *abstract* says "more than three APs are required", which reads as contradicting the article's "around five or more". The **full text** says "about five APs were required" and "five APs necessary for significant gene expression". The article is correct; an abstract-only check would have manufactured a defect and corrected a right sentence into a wrong one. Recorded as a stability note.
+- **Lenses run**: publisher-of-record metadata on all 19 cites (Crossref + Europe PMC, independently queried); verbatim quote fidelity on the three Mallatt quotes (all exact) and the Trewavas quote; full-text retrieval + offset-printed grep for Böhm; abstract-level claim-to-source for six sources; bidirectional body<->references cross-check (16 surnames, no orphans; reference numbering re-verified sequential 1–20); superlative sweep (0 hits); calibration (no slippage — the one over-confidence found ran toward the skeptics, not the Map).
+- **Output**: [deep-review-2026-09-18-plant-cognition-and-the-plant-neurobiology-debate](/reviews/deep-review-2026-09-18-plant-cognition-and-the-plant-neurobiology-debate/)
 
 ## 2026-09-18T05:27:32+00:00 - refine-draft
 - **Status**: Success
