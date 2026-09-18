@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-09-18 06:55:25+00:00
+ai_modified: 2026-09-18 11:08:57+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 14:43:35+00:00
-lastmod: 2026-09-18 06:55:25+00:00
+lastmod: 2026-09-18 11:08:57+00:00
 modified: *id001
 related_articles:
 - '[[quantum-consciousness]]'
@@ -112,10 +112,10 @@ Stuart Hameroff extends Penrose OR by proposing that consciousness arises when *
 **Objections**:
 - Tegmark's "warm, wet, and noisy" critique: brain decoherence should destroy quantum effects in 10⁻¹³ to 10⁻²⁰ seconds
 - Revised estimates extend coherence, but *in vivo* conditions remain contested
-- Requires large-scale quantum effects (microtubule-level), not minimal interaction
+- Requires sustained pre-decoherence coherence at neural scales
 - Experimental tests (germanium detectors, matter-wave interference) increasingly constrain Orch OR parameter space
 
-Orch OR aligns with [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) but strains [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) by requiring pre-decoherence coherence. The Map's framework favors smaller-scale quantum selection (see [stapp-quantum-mind](/concepts/stapp-quantum-mind/)) or hybrid CSL-IIT models — both examples of [non-retrocausal conscious selection](/topics/forward-in-time-conscious-selection/). For detailed treatment of microtubule coherence evidence and alternative neural quantum mechanisms, see [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/).
+Orch OR aligns with [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction). Its demand for sustained pre-decoherence coherence is a cost the proposal carries in its own right: [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)'s minimality constrains the *magnitude* of any influence — no detectable energy injection, no Born-statistics violation, no conservation-law violation — rather than the scale at which a mechanism operates, so the strain lies with the biophysics rather than with the tenet. The Map's framework favours [post-decoherence selection](/apex/post-decoherence-selection-programme/), which sidesteps the coherence demand by acting on the improper mixture decoherence leaves behind; Stapp's quantum Zeno route (see [stapp-quantum-mind](/concepts/stapp-quantum-mind/)) and hybrid CSL-IIT models remain live fallbacks below it — all examples of [non-retrocausal conscious selection](/topics/forward-in-time-conscious-selection/). The Zeno route's demotion ([P-Q4](/positions/quantum-interface/#p-q4)) runs through two independent gates — the decoherence timescale, and the bath-correlation regime criterion that fixes whether repeated observation suppresses or accelerates evolution — so closing the timescale gap alone would not re-elevate it. For detailed treatment of microtubule coherence evidence and alternative neural quantum mechanisms, see [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/).
 
 ## Experimental Status
 
@@ -135,7 +135,7 @@ This experimental accountability supports the [Occam's Razor Has Limits](/tenets
 
 [Illusionism](/concepts/illusionism/) argues that phenomenal consciousness is an illusion—we merely *represent* ourselves as having qualia without actually having them. If correct, consciousness-modulated collapse is unnecessary: there's nothing non-physical to do the modulating. The representational states doing the "illusion" are already fully physical.
 
-**Response**: The illusionist position faces its own regress. If our representation of having phenomenal states is itself phenomenal (it seems like *something* to believe you're conscious), illusionism has relocated phenomenal consciousness, not eliminated it. If the representation is non-phenomenal, how does it generate the conviction of phenomenality? Either way, something requires explanation that pure physics doesn't provide.
+**Response**: The naive regress reply — that our representation of having phenomenal states must itself be phenomenal, so illusionism relocates qualia rather than eliminating them — does not land. Frankish (2016) distinguishes *phenomenal* properties (denied) from *quasi-phenomenal* ones, introspective representations that represent phenomenality without being phenomenal, and pressing "something must be under the illusion" begs the question against that distinction (see [quantum-interpretations](/concepts/quantum-interpretations/) for the fuller treatment). The Map's quarrel is narrower, and is a commitment it owns rather than a result it reports: quasi-phenomenal reconstruction leaves the introspective state's causal profile exactly where physicalism left it, so illusionism inherits rather than answers the question of what selects a determinate outcome at measurement. The Map judges that something there still requires explanation which pure physics does not supply. The illusionist declines to grant the datum that judgement rests on, and the disagreement runs to bedrock.
 
 Moreover, the [argument-from-reason](/topics/argument-from-reason/) poses a deeper problem: if our beliefs about consciousness are produced by mechanisms entirely disconnected from their truth-makers (as illusionism implies), we have no reason to trust those beliefs—including the belief in illusionism itself. Spontaneous collapse theories, by contrast, leave room for the causal connection between conscious states and reports about them: consciousness could modulate collapse in ways that enable accurate self-representation.
 
@@ -161,7 +161,7 @@ Decoherence explains why macroscopic systems look classical but doesn't solve th
 | **GRW** | Discrete random jumps (λ ≈ 10⁻¹⁶ s⁻¹) | Optional modulation of rate/location | Solved (physical baseline) | MQI, NMW, ORHL |
 | **CSL** | Continuous stochastic via mass-density noise | Optional modulation via Φ coupling | Solved (universal noise field) | MQI, NMW, ORHL |
 | **Penrose OR** | Gravity threshold (t = ħ/E_G) | Every OR is proto-conscious (panpsychism) | "Solved" (proto-consciousness always existed) | Conflicts with prebiotic resolution |
-| **Orch OR** | Microtubule quantum computation + OR | Consciousness = orchestrated collapse | Same as Penrose OR | Dualism, BI; MQI fallback |
+| **Orch OR** | Microtubule quantum computation + OR | Consciousness = orchestrated collapse | Same as Penrose OR | Dualism, BI; MQI-compatible but coherence-dependent |
 | **CSL-IIT Hybrid** | CSL baseline + Φ amplification | Consciousness modulates collapse strength | Solved (CSL baseline) | All five tenets |
 
 **Legend**: MQI = Minimal Quantum Interaction, NMW = No Many Worlds, BI = Bidirectional Interaction, ORHL = Occam's Razor Has Limits
@@ -230,6 +230,7 @@ The **consciousness-modulated CSL** model (Chalmers and McQueen's CSL-IIT or sim
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Chalmers, D. J. & McQueen, K. J. (2022). Consciousness and the Collapse of the Wave Function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
+1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11–12), 11-39.
 1. Donadi, S., Piscicchia, K., Curceanu, C., Diósi, L., Laubenstein, M., & Bassi, A. (2021). Underground test of gravity-related wave function collapse. *Nature Physics*, 17(1), 74-78.
 1. Arnquist, I. J., et al. (Majorana Collaboration) (2022). Search for spontaneous radiation from wave function collapse in the Majorana Demonstrator. *Physical Review Letters*, 129, 080401. Erratum (2023), *Physical Review Letters*, 130, 239902.
 1. Aprile, E., et al. (XENON Collaboration) (2026). Challenging spontaneous quantum collapse with XENONnT. *Physical Review Letters*, 136, 120201. arXiv:2506.05507.
