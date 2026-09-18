@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T11:50:00+00:00'
+ai_modified: '2026-09-18T12:11:38+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-18'
-lastmod: 2026-09-18 11:50:00+00:00
+lastmod: 2026-09-18 12:11:38+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-18T12:11:38+00:00 - refine-draft
+- **Status**: Success
+- **File**: [offloading-void](/voids/offloading-void/)
+- **Task**: P2 (pessimistic-review, `reviews/pessimistic-2026-09-18-offloading-void.md`) — Issues 1-3 as one coordinated fix. The two sibling P2 tasks on this file (Kosmyna n=9, Issue 4; Tenet 2 inference at L123, Issue 6) were deliberately NOT folded in, per driver instruction.
+- **Original score**: not run — `scripts/curate.py` does not exist (stale skill instruction, section 3).
+- **Word count** (`tools.curate.length.analyze_length`, body-only): 2866 -> 2989. `soft_warning` before and after; voids hard threshold is 3000 and `length.py` trips on `>= hard`, so headroom is 10 words. The Ward-null insertion alone cost ~80 words and pushed the file to 3072; the excess was recovered by trimming redundancy and two unsupported superlatives the same review flagged (see below).
+- **Changes**:
+  - **Issue 1/2 (L60, "The Detection Asymmetry" opener)** — replaced "performance and confidence move in opposite directions" with a calibration-gap formulation propagated back from L109's already-correct "they move independently": confidence rises while unaided performance holds flat, and the forecast/fact divergence is what conceals the limit. This also removes the self-contradiction with the preceding clause.
+  - **Issue 1 (L64)** — "Two independent programmes supply the divergence directly" -> "supply the confidence half of that divergence directly". Both Fisher et al. (2015) and Ward (2021) measure self-assessment only; neither measures a performance decrement.
+  - **Issue 1(e) — Ward Exp 3 null now reported.** New paragraph after the Ward exposition giving the forecast (5.95 vs 4.58, P < 0.001) against the outcome ("did not actually perform better on the second test", M = 3.73 vs 3.17; F(1,157) = 2.25, P = 0.136, BF+0 = 0.89, mildly favouring the null), Ward's own term *miscalibration*, and his framing that "the critical question is not one of performance but of attribution". Cross-linked to the article's own "What the Evidence Will and Will Not Bear" section as the reason it is reported rather than buried.
+  - **Issue 3 (L60, L91)** — the `anti-correlated-metacognitive-signal` wikilink is dropped from L60 entirely and contrast-marked at L91: "the signal is present but poorly calibrated - confidence outruns unaided ability rather than inverting with it. That is adjacent to, and weaker than, [the anti-correlated structure] the corpus names elsewhere - a miscalibrated signal can be re-scaled, whereas an anti-correlated one supplies less information than no signal at all." The re-scaling contrast is lifted from the concept page's own fencing paragraph (L46/L65), as the review directed. The concept stays in `concepts:` frontmatter.
+  - **Issue 1(d) — `description:` frontmatter** rewritten: "performance falls while confidence rises" -> "confidence rises while unaided ability does not follow" (165 chars).
+  - **L103 verdict re-based** (the review's own suggestion, and its "Counterarguments to Address" section): "a reversible void with a robust concealment mechanism ... a worked case where a void's *reality* is well evidenced while its *permanence* is not" -> "a reversible void at most, wrapped in a robust concealment mechanism - and the concealment is the better-evidenced half ... a worked case where a void's *concealment* is quantified while its *reality* is not", with the meta-epistemology sentence changed from "reverses the difficulty" to leaving the reality question open while measuring the cover over it. This is the honest-reframe-is-a-better-article move the task asked to consider.
+  - **Budget trims** (none inside the four sections the review marked as model practice): removed two unsupported superlatives the review's Unsupported Claims table flags ("the strongest plank available"; "the sharpest methodological implication in the literature"); removed the duplicate fMRI restatement in the Tenet 5 paragraph (the detail survives in full at L64); minor tightenings at L48, L52, L56, L68, L70, L111 and in the Tenet 1 paragraph.
+- **Not changed** (protected by the review as model practice): "What the Evidence Will and Will Not Bear", "Reversible or Permanent" (beyond the verdict re-base the review itself requested), "What AI Might See", and L109's two-quantity analysis.
+- **Driver-note correction**: the task note stated the false description string "appears only in `obsidian/`". That is a false absence. `hugo/content/voids/offloading-void.md` carried the identical description, YAML-folded across three lines, which defeats a single-line grep. Reconciled by `scripts/sync.py` as instructed rather than hand-edited.
+- **Sync**: `scripts/sync.py` run; description verified matching in both trees.
+- **Published**: yes
 
 ## 2026-09-18T11:50:00+00:00 - pessimistic-review
 - **Status**: Success
