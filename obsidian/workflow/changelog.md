@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T08:05:00+00:00'
+ai_modified: '2026-09-18T09:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-18T09:58:00+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 678 by the direct-contradiction battery (`topics/` 329, `concepts/` 327, `positions/` 22), extended to `apex/` and `voids/` for two corpus-wide family sweeps; 53 delta files (committed since 2026-09-17 00:00 UTC) read in full by three independent readers; every reported locus re-verified by the driver at the cited line, printed at the match offset.
+- **Errors**: 0 (135th consecutive run). Battery returned 391 hits across 33 normalised patterns; a marker filter isolated the 28 with no expository cue, all 28 read by hand, all 28 expository.
+- **Warnings**: 15 families (7 carried unactioned, 3 carried-and-extended, 5 new) across ~95 loci
+- **Notes**: 21 loci
+- **Output**: [[reviews/tenet-check-2026-09-18]]
+- **Headline findings**:
+  - **Queue, not corpus**: four content tasks with `Source: check-tenets` are open and `pending`, from 08-26, 09-14 and 09-17 (x2), and **all four are P3** — which `CLAUDE.md` describes as outside the cycle's P0-P2 queue selection. Independent confirmation: a reader with no knowledge of `todo.md` re-found `psychophysical-laws-bridging-mind-and-matter` L204 cold today, character for character the locus a task has named since 2026-08-26.
+  - **The Tenet-3 alignment paragraph is the corpus's one systematic defect**, and in twelve files the refusal of that exact move is written in the same file, usually the adjacent paragraph (`episodic-memory` L176 vs L178; `moral-responsibility` L66/L87/L127/L143 vs L99/L159).
+  - New families: J (epiphenomenalism reported eliminated/incoherent, 5 loci — `apex/contemplative-path` L136 says "eliminates ... decisively" while its own L184/L194 say the evidence "does not discriminate"); K (Tenet 5 run forward for the Map, 7 loci, -45 words); L (an unscoped unfalsifiability claim propagating by citation from `concepts/measurement-problem` L63 to two articles that name it); M (`concepts/spontaneous-collapse-theories` L115 names Stapp-Zeno as the Map's favoured path; **zero** occurrences of "post-decoherence" in the file against a control of 40 concept files that have it); N (an unsettled dispute reported as won, 2 loci).
+  - **09-17 lead item closed in 47 minutes** and closed well (`a9bb5bef1d`); a reader blind to the task named the repaired L96 a model treatment today.
+- **Method correction recorded for the series**: a substring key cannot verify a fix that *extends* the matched phrase. The driver's first pass produced a **false presence** on both repaired keys in `improper-vs-proper-mixtures` and briefly concluded nothing had moved. When the recommended fix is an insertion, the closure key must be the disqualifying string, not the original phrase.
+- **Accuracy correction made before publication**: ten budget figures in the first draft were estimates rather than measurements and were materially wrong (`the-binding-problem` 3859 -> **3999, 0 words to hard**; `episodic-memory` 3096 -> **3498, 1 word**; `phenomenology-of-memory-and-the-self` 3861 -> **3996, 3 words**; `moral-census-opacity` 2489 `ok` -> **3495, 4 words**). All were re-measured with the repo's own `count_words` on the frontmatter-stripped body and corrected in both the review and one task addendum; the correction inverts the recommended fixes for five Family B-1 files from "+8 to +19 concession" to "net-negative or not at all".
+- **Tasks**: 2 minted, **both at P2 rather than P3** (stated in each task's Notes so the operator can demote in one edit) — Family J lead item on `apex/contemplative-path`, and Family M on `concepts/spontaneous-collapse-theories`. 2 existing tasks **extended in place** rather than duplicated: the 09-17 russellian-monism task gains `concepts/bi-aspectual-ontology` L141 as a third Family H locus; the 08-26 psychophysical-laws task gains L159 (pain asymbolia). Nothing minted against `topics/philosophical-stakes-of-spontaneous-collapse` (6 words of headroom, one task already open) — its L39 scale-reading defect is recorded in the review with a net-negative fix to ride along with a future condense.
+- **Content modified**: none (reports-only skill).
 
 ## 2026-09-18T09:14:07+00:00 - refine-draft
 - **Status**: Success
