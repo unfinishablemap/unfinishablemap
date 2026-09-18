@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-09-17T08:07:11.391526'
+ai_modified: '2026-09-18T08:08:18.992856'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-09-17'
+date: '2026-09-18'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-09-17 08:07:11.391526+00:00
-modified: '2026-09-17'
+lastmod: 2026-09-18 08:08:18.992856+00:00
+modified: '2026-09-18'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-09-18: In 2022 It Survived by a Whisker. Not Anymore.
+
+Quanta said GRW's original collapse parameters survived 'by a whisker' in 2022. XENONnT's 2026 analysis excludes them for the first time. Discrete and coloured-noise variants survive, but the licence to quote the original numbers unqualified is gone.
+
+**Type**: refinement  
+**Link**: [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/)
+
+---
+
 ### 2026-09-17: Logic Compels. That Still Doesn't Prove Dualism.
 
 Adding a rule to 'if P then Q' never makes you infer Q, and no formal system grounds its own authority. A new synthesis says that blocks reduction—and equally blocks the Map from reading formal limits as proof of a non-physical mind.
@@ -203,15 +212,6 @@ Our page answered the 'dualism is just folk error' dismissal with a cross-cultur
 
 **Type**: insight  
 **Link**: [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/)
-
----
-
-### 2026-08-22: The Map Conceded More to Dennett Than It Owed
-
-Our Dennett page granted that the phenomenal residue is undetectable in principle. But the Map's own quantum-interface commitments say otherwise, and the register prices that giveaway as a confidence demotion. Narrowed to what is true: no measurement discriminates it yet.
-
-**Type**: refinement  
-**Link**: [multiple-drafts-model](/concepts/multiple-drafts-model/)
 
 ---
 
