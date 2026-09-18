@@ -5,6 +5,21 @@ ai_modified: '2026-09-18T18:59:39+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-18T19:14:24+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/introspection-architecture-void-cluster]]
+- **Changed sources**: 4 of 6 (`voids/noetic-feelings-void` 09-17, `voids/perceptual-reality-monitoring-void` 09-14, `voids/self-opacity` 09-02, `voids/narrative-void` 08-06), against effective baseline `max(apex_last_synthesis, last_deep_review)` = 2026-07-19
+- **Word count**: 3924 → 4351 (soft 4000 / hard 5000; `ok` → `soft_warning`, 649 under the hard gate)
+- **Review**: [[reviews/apex-evolve-2026-09-18-introspection-architecture-void-cluster]]
+- **Headline finding**: the Dualism paragraph still ran the discrimination argument ("if consciousness were identical with neural processing there would be either full transparency or full opacity") that `voids/self-opacity` had excised on 2026-09-02 under P-V1/P-V2 — and which `positions/voids-as-evidence` P-V1 refutes by name, listing **illusionism as a framework that predicts the introspection-architecture cluster outright**. It also contradicted its own next sentence. Rewritten as a reading the tenets make available, citing P-V1/P-V2.
+- **Second finding**: the article claimed `topics/introspection-architecture-independence-scoring` "runs the cluster against [the four criteria] in detail". The exhibit scores the **four**-void cluster — as do five other files — and has never covered the perceptual reality-monitoring face, admitted after it was written. Certified coverage it did not have; now states the real scope.
+- **Also fixed**: Rebouillat 2021 stated as a monotone inverse relation rather than the within-regime effect, with the source's "regime-conditional rather than universal" hedge never propagated and an absolute "cannot be calibrated from inside" on top; Rebouillat and Perky mis-filed as patient-population anchors when both sources assign them to the healthy-adult channel; Segal & Fusella's relaxation-induction qualification (which constrains the Perky face's reach) dropped from the source.
+- **Contract**: installed the missing required `## Evidence and Dependency` section (~230 words), naming the dissociation-cluster inheritance explicitly so it is not double-counted across apex pieces.
+- **Clean lenses**: citation metadata 14/14 verified at Crossref (no phantom cites, no wrong surnames, no page drift); quote fidelity (the sole external quotation, Billon's "the problem of reality", is verbatim in the paper's title); over-claim tells; apex #24 cross-reference; all wikilinks resolve, with the P-V1/P-V2 links auto-anchoring against confirmed `id="p-v1"`/`id="p-v2"` spans.
+- **Declined**: a deeper condense. The obvious cut — the `apex/conjunction-coalesce` paragraph — is referenced by 121 review files and 6 open todo blocks; cutting it would have stranded live dependents. Checked before cutting, recorded in the review.
+- **Propagation debt found, not acted on** (different article, named by P-V3's own 2026-09-15 note as owed to "the next apex-evolve or nav-surface pass"): `apex/taxonomy-of-voids` L225 and L240 still run the ruled-out "cumulative support / becomes evidence for dualism" move, L240 contradicting its own link target; `apex/apex-articles` L312 carries a stale void count. Separately, the four-void vs five-void cluster count is genuinely inconsistent across seven files — a canonical-count decision, not a typo, so no unilateral propagation was made.
+- **Sync**: `scripts/sync.py` run; all 9 changed strings verified present in both `obsidian/apex/` and `hugo/content/apex/`. Not committed — `cycle_post` owns the commit.
+
 ## 2026-09-18T18:59:39+00:00 - research-voids
 - **Status**: Success (minted — bar cleared after a deep dedupe)
 - **Topic**: The Veto Void — why a cancelled action leaves nothing to attribute the cancellation to
