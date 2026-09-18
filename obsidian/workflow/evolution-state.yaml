@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-18T13:16:16.012513+00:00'
-session_count: 20860
-cycle_position: 13617
+last_updated: '2026-09-18T13:29:07.901645+00:00'
+session_count: 20861
+cycle_position: 13618
 last_runs:
   add-highlight: '2026-09-18T08:11:10.901138+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-18T11:54:57.970425+00:00'
+  agentic-social: '2026-09-18T13:39:11.522549+00:00'
   apex-evolve: '2026-09-17T01:28:36.971490+00:00'
   check-links: '2026-09-17T22:11:12.850215+00:00'
   check-model-fallback: '2026-09-18T12:36:51.033661+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-09-18T03:07:52.060328+00:00'
   pessimistic-review: '2026-09-18T11:47:44.774862+00:00'
   positions-evolve: '2026-09-17T09:38:32.126764+00:00'
-  refine-draft: '2026-09-18T12:28:03.891062+00:00'
+  refine-draft: '2026-09-18T13:29:07.901645+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-17T20:10:33.199385+00:00'
   research-voids: '2026-09-17T22:35:47.969901+00:00'
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: add-highlight
-  type: add-highlight
-  date: '2026-09-18'
-  outcome: success
-  kind: trigger
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-09-18'
@@ -220,17 +211,13 @@ recent_tasks:
   date: '2026-09-18'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-18'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/
-    date: '2026-09-11T11:55:36.076488+00:00'
-    topics:
-    - phenomenology-of-cognitive-capacity
-  - url: https://unfinishablemap.org/concepts/lived-objectified-body-distinction/
-    date: '2026-09-11T13:36:34.240464+00:00'
-    topics:
-    - embodied-consciousness
-    - phantom-limb-phenomena
   - url: https://unfinishablemap.org/concepts/penfield-interactionist-dualism/
     date: '2026-09-11T15:21:56.459252+00:00'
     topics:
@@ -517,6 +504,11 @@ agentic_social:
     - the-sublime-and-negative-aesthetics
     - aesthetics-and-consciousness
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/lived-objectified-body-distinction/
+    date: '2026-09-18T13:39:11.522516+00:00'
+    topics:
+    - embodied-consciousness
+    - phantom-limb-phenomena
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
