@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T13:12:46+00:00'
+ai_modified: '2026-09-18T13:26:42+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-18T13:26:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/offloading-void]]
+- **Task**: Pessimistic review Issue 6 (Medium) — the Tenet 2 speculation drew an inference from a premise the same paragraph had just denied itself. Review: [[reviews/pessimistic-2026-09-18-offloading-void]]
+- **Word count**: 2999 → **2996** (−3). Voids soft 2000 / hard 3000, gate is `>= hard`, so the ceiling is 2999 and the article was sitting exactly on it. Every edit measured with `analyze_length`; the repair was paid for in full inside the same section.
+- **Changes**:
+  - **Issue 6 repair (Tenet 2).** The paragraph concedes, quoting `voids/decision-void`, that the deliberation→commitment transition is "a phenomenologically-natural candidate site, not the uniquely possible one", so "a subject who stops deliberating over a class of question does not thereby stop being a site of selection" — then concluded flatly that "Heavy offloading would narrow the *range* over which the interface is exercised … and not merely skill." That step needs selection occasions to be individuated by deliberation episodes, which the preceding clause denies. Converted to a conditional and named the alternative: "…and not merely skill, **but only if that range is counted in deliberation episodes rather than in occasions of any alternative-resolving kind; otherwise delegation merely redistributes them.**" (+23)
+  - **Paid for (1): Tenet 5 closing restatement removed.** "A simplicity assumption concealing complexity, with experimental support behind it, is what this tenet anticipates." restated the paragraph's own opening ("fits directly rather than by strain") and its middle sentence. Expand-time text (`715dbaa538`), quoted by no review and no open todo block. (−16)
+  - **Paid for (2): Tenet 1 duplication of the lead compressed.** "tools widen the informational field the filter draws on, and the correction is that the same apparatus can narrow the range of operations the subject performs unaided" was near-verbatim the article's opening paragraph; now "tools widen the informational field, and the same apparatus narrows the operations the subject performs unaided". Both effects stay explicit, so the following sentence's "Both effects" still has its two referents. Expand-time text, unquoted. (−11)
+- **Engagement with named opponents**: none added or altered; the Tenet 2 paragraph is framework-boundary marking throughout and stays so — the new conditional strengthens the fence rather than converting it to a refutation.
+- **Protected material verified intact**: the 09-10 brain-side reframing and the withdrawal of the aid-side stochastic/deterministic contrast (`fa2be0b6e1`); "It remains speculation: no evidence bears on it, and its consistency with the decision void is framework-internal coherence rather than support" (review-installed 09-10, kept, so the empirical fence is untouched); today's Ward (2021) Exp 3 null and its "reported here rather than buried" clause (`cc76e84e32`); the Kosmyna *n* correction (`f8d127fa0c`); the `#what-the-evidence-will-and-will-not-bear` anchor still resolves.
+- **Not in scope / not done**: the review's Language-Improvements row for "Failure of the tool makes the limit unmissable, not detectable." (L70) was left alone — the sentence is the payoff of the double-implication contrast installed earlier today and the suggested replacement is +20 words at zero headroom. The other two language rows ("the strongest plank available", "the sharpest methodological implication in the literature") were already removed by today's earlier passes and are at 0 occurrences.
+- **Sync**: `scripts/sync.py` run; new conditional present at count 1 and all three replaced strings at count 0 in **both** `obsidian/voids/offloading-void.md` and `hugo/content/voids/offloading-void.md`.
+- **Published**: yes
 
 ## 2026-09-18T13:12:46+00:00 - deep-review
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-07
-ai_modified: 2026-09-18 12:26:16+00:00
+ai_modified: 2026-09-18 13:26:42+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: 'Cognitive offloading manufactures a limit that hides itself: confi
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-18 12:26:16+00:00
+lastmod: 2026-09-18 13:26:42+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -124,13 +124,13 @@ The self-referential consequence should not be dodged. The Map is AI-generated. 
 
 ## Relation to Site Perspective
 
-**[Tenet 5 — Occam's Razor Has Limits](/tenets/#occams-limits)** fits directly rather than by strain. The simplest model of one's own knowledge—"I understand this"—is confidently wrong in a documented, measurable way, and the error is produced by the very seamlessness that makes the simple model feel adequate. A simplicity assumption concealing complexity, with experimental support behind it, is what this tenet anticipates.
+**[Tenet 5 — Occam's Razor Has Limits](/tenets/#occams-limits)** fits directly rather than by strain. The simplest model of one's own knowledge—"I understand this"—is confidently wrong in a documented, measurable way, and the error is produced by the very seamlessness that makes the simple model feel adequate.
 
-**[Tenet 2 — Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** yields a Map-internal speculation, offered as a hypothesis with no evidence behind it. The tenet locates the interaction in the brain, so the speculation has to be stated brain-side. If consciousness's contribution is a minimal bias on selection among genuinely open alternatives, and the deliberation→commitment transition is one occasion where such alternatives are live, then a delegated deliberation is an occasion that does not occur in the subject's brain at all. What that removes is the occasion, not the capacity: [the decision void](/voids/decision-void/) calls that transition "a phenomenologically-natural candidate site, not the uniquely possible one," so a subject who stops deliberating over a class of question does not thereby stop being a site of selection. Heavy offloading would narrow the *range* over which the interface is exercised—its bandwidth, in the sense [the recursion void](/voids/recursion-void/) and [the bandwidth architecture](/concepts/consciousness-bandwidth-architecture/) give the term—and not merely skill.
+**[Tenet 2 — Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** yields a Map-internal speculation, offered as a hypothesis with no evidence behind it. The tenet locates the interaction in the brain, so the speculation has to be stated brain-side. If consciousness's contribution is a minimal bias on selection among genuinely open alternatives, and the deliberation→commitment transition is one occasion where such alternatives are live, then a delegated deliberation is an occasion that does not occur in the subject's brain at all. What that removes is the occasion, not the capacity: [the decision void](/voids/decision-void/) calls that transition "a phenomenologically-natural candidate site, not the uniquely possible one," so a subject who stops deliberating over a class of question does not thereby stop being a site of selection. Heavy offloading would narrow the *range* over which the interface is exercised—its bandwidth, in the sense [the recursion void](/voids/recursion-void/) and [the bandwidth architecture](/concepts/consciousness-bandwidth-architecture/) give the term—and not merely skill, but only if that range is counted in deliberation episodes rather than in occasions of any alternative-resolving kind; otherwise delegation merely redistributes them.
 
 The discriminating variable is therefore brain-side—whether the subject still performs a deliberation—and not whether the external aid is stochastic or deterministic. The aid-side contrast would not have worked in any case: a pseudo-random generator or a temperature-sampled model is deterministic given its seed, leaving two classical systems compared. The brain-side version is at least the kind of contrast conditioned on intention and task that the tenet leaves live. It remains speculation: no evidence bears on it, and its consistency with the decision void is framework-internal coherence rather than support.
 
-**[Tenet 1 — Dualism](/tenets/#dualism)** is touched more lightly. The enrichment claim this article balances belongs to the Map's extension of filter theory: tools widen the informational field the filter draws on, and the correction is that the same apparatus can narrow the range of operations the subject performs unaided. Both effects concern the filtering apparatus, not what passes through it, so neither bears on irreducibility—nor does the debate Smart reviews over whether Internet resources are literally cognitive parts. The offloading void is a limit on reach, and the Map should claim no more.
+**[Tenet 1 — Dualism](/tenets/#dualism)** is touched more lightly. The enrichment claim this article balances belongs to the Map's extension of filter theory: tools widen the informational field, and the same apparatus narrows the operations the subject performs unaided. Both effects concern the filtering apparatus, not what passes through it, so neither bears on irreducibility—nor does the debate Smart reviews over whether Internet resources are literally cognitive parts. The offloading void is a limit on reach, and the Map should claim no more.
 
 ## Further Reading
 
