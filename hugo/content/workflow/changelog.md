@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T07:31:02+00:00'
+ai_modified: '2026-09-18T08:05:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-18'
-lastmod: 2026-09-18 07:31:02+00:00
+lastmod: 2026-09-18 08:05:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-18T08:05:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [fish-sentience-and-the-teleost-pain-debate](/topics/fish-sentience-and-the-teleost-pain-debate/)
+- **Word count**: 2475 → 2488 (+13; topics soft 3000, `ok` — no length pressure)
+- **Critical issues addressed**: 1
+- **Medium/low issues addressed**: 1
+- **Enhancements made**: 0 (corrections only; no expansion)
+- **Selection note**: the top two scored candidates (`concepts/ai-ensoulment-hypothesis` 78, `topics/cross-architecture-llm-introspection` 63) were skipped per driver note — both carry `ai_modified` of today. This was the top eligible candidate at score 49.
+- **Why a "converged" article was reviewed**: the article carried a 2026-08-01 "converged, third consecutive no-op" stability note. That note was correctly scoped and then outrun — it said "treat as verified unless the body or References change", and commit `3657339abc` (2026-08-02) changed both the next day, adding a new paragraph and two new citations to discharge the P3 currency item the same no-op pass had deferred. That material had never been web-verified. The §2.4 trigger fired on exactly that delta, and the defect was in it.
+- **Citation web-verify (§2.4, routed at the two new cites)**:
+    - Tibi et al. 2023, *Science Advances* 9(44) eadh7693 — **real-correct** on metadata (all ten surnames, initials, order, title, venue, volume, issue, article number, year verified at Crossref).
+    - Hegarty et al. 2024, *Communications Biology* 7(1) 612 — **real-correct** on metadata (all five authors and full tuple verified at Crossref).
+    - **CRITICAL — claim-fidelity, not metadata.** The article attributed the partial-eversion finding jointly to both atlases: "goldfish (Tibi et al. 2023) and the cichlid … (Hegarty et al. 2024)—report transcriptional similarities … together with support for the eversion being partial rather than total". **Tibi 2023 contains zero occurrences of the string "partial"** across its whole flattened Europe PMC full text; its single "eversion" mention is neutral developmental background ("eversion-evagination modes of development"), not an adjudication between eversion models. Partial eversion is Hegarty's finding alone — stated in their abstract, their Fig. 7e caption, and five separate Discussion passages. Fixed by splitting the attribution: the goldfish atlas now carries the hippocampal-formation suggestion, the cichlid atlas carries partial eversion, and the question is marked as one "the goldfish study leaves open". This is a §2.5 misattribution (claiming an author concludes something they do not).
+    - **Checked and cleared**: the shared first conjunct ("subpallial, hippocampal, and cortical") is *not* over-extended — Tibi independently reports cortical-type correspondences (GABA1–7 resembling mouse cortical and hippocampal interneurons; SST types conserved with mouse cortical/subcortical Sst interneurons) plus striatal homologs. Left joint. The Tibi somatostatin and hippocampal-formation sentences are verbatim-faithful to its abstract. The paragraph's "sharpens rather than closes" calibration is accurate against both sources; no possibility/probability slippage.
+- **Factual correction**: the cichlid binomial was given as *Mchenga conophorus*; GBIF returns no such name and the accepted binomial is ***Mchenga conophoros***. Traceable cause — Hegarty et al.'s own **abstract** misspells it once, while their Results, Discussion and Methods use the correct form three times. The article had inherited the abstract typo. Fixed. Left as-is in `workflow/archive/changelog-2026-W31.md` (historical record).
+- **Currency**: `find_superlative_claims` returns 0. The P3 currency gap deferred on 2026-08-01 is now closed *and* verified, which is what it was waiting for.
+- **Carried forward as verified**: References 1–5 and both verbatim quotes are byte-unchanged since the 2026-07-08 / 2026-07-15 publisher passes. The 2026-08-18 embed-videos commit touched no prose — confirmed by diff.
+- **Engagement mode (editor-internal; not exposed in the article)**: engagement with Key and Rose remains **mixed (Mode Two → Mode Three)**, unchanged and re-confirmed. Mode Two opens — the slide from "structure determines *function*" to "structure determines *feeling*" is a foundational move the skeptic helps himself to. Mode Three closes — the functionalist route is relocated to an open empirical question about the everted pallium rather than declared refuted. No boundary-substitution; no label leakage in prose (re-grepped).
+- **Sync**: `scripts/sync.py` run; Hugo parity verified on both corrections.
+- **`ai_system` `[1m]` artifact — recurrence confirmed, self-inflicted and cleaned.** My own first write stamped the literal model *id* `claude-opus-5[1m]` into both the article and the review sidecar, and sync propagated it to the Hugo mirror — the exact mechanism the memory note predicts (a writer stamping its own id verbatim produces a string that looks like a plausible model name rather than obvious corruption). Caught before commit and stripped; anchored sweep `grep -rn '^ai_system:.*\[1m\]' obsidian/ hugo/content/ archive/` now returns clean across all three trees. **The write path is still unfixed** — this is a fresh mint by the opus-5 generation, not a survivor of an earlier sweep.
+- **Output**: [deep-review-2026-09-18-fish-sentience-and-the-teleost-pain-debate](/reviews/deep-review-2026-09-18-fish-sentience-and-the-teleost-pain-debate/)
 
 ## 2026-09-18T07:31:02+00:00 - refine-draft
 - **Status**: Success

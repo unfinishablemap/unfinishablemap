@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-08-18 07:52:16.727719+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-09-18 08:05:00+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - '[[explanatory-gap]]'
@@ -19,8 +19,8 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/vBsyoZ6ntyI
 human_modified: null
 last_curated: null
-last_deep_review: 2026-08-01 21:36:36+00:00
-lastmod: 2026-08-18 07:52:16.727719+00:00
+last_deep_review: 2026-09-18 08:05:00+00:00
+lastmod: 2026-09-18 08:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,7 +67,7 @@ Key's article drew more than forty open commentaries, the large majority rejecti
 
 The affirmative camp's reply is that the criteria bundle—nociceptors, central processing, opioid systems, analgesia-modulated and trade-off behaviour beyond reflex—is jointly sufficient *evidence* of pain whatever structure implements it. Convergent evolution can, on this view, build the functional capacity for felt pain on a non-neocortical plan, and the everted teleost pallium is a candidate alternative implementation rather than a disqualifying absence.
 
-That candidacy has firmed up since Key wrote. Spatial and single-cell transcriptomic atlases of the teleost telencephalon—goldfish (Tibi et al. 2023) and the cichlid *Mchenga conophorus* (Hegarty et al. 2024)—report transcriptional similarities between cell types in the fish telencephalon and tetrapod subpallial, hippocampal, and cortical cell types, together with support for the eversion being partial rather than total; the goldfish atlas additionally suggests elements of a hippocampal formation across the pallium. What has not turned up is a counterpart of the laminated microcircuitry Key's biomarkers turn on: the same goldfish atlas finds somatostatin interneurons molecularly conserved yet aggregated in a single telencephalic nucleus rather than interspersed through a laminated sheet as in the mammalian isocortex. The post-2016 work therefore sharpens the disagreement rather than closing it—cell-type counterparts are increasingly identifiable where Key found absence, while the organisational difference he emphasised survives at the level of circuit.
+That candidacy has firmed up since Key wrote. Spatial and single-cell transcriptomic atlases of the teleost telencephalon—goldfish (Tibi et al. 2023) and the cichlid *Mchenga conophoros* (Hegarty et al. 2024)—both report transcriptional similarities between cell types in the fish telencephalon and tetrapod subpallial, hippocampal, and cortical cell types. The goldfish atlas suggests elements of a hippocampal formation across the pallium; the cichlid atlas goes further and finds positive support for the eversion being partial rather than total, a question the goldfish study leaves open. What has not turned up is a counterpart of the laminated microcircuitry Key's biomarkers turn on: the same goldfish atlas finds somatostatin interneurons molecularly conserved yet aggregated in a single telencephalic nucleus rather than interspersed through a laminated sheet as in the mammalian isocortex. The post-2016 work therefore sharpens the disagreement rather than closing it—cell-type counterparts are increasingly identifiable where Key found absence, while the organisational difference he emphasised survives at the level of circuit.
 
 ## What the Skeptics' Argument Actually Assumes
 
