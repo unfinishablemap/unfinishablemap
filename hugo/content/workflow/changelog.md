@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T12:11:38+00:00'
+ai_modified: '2026-09-18T12:26:16+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-18'
-lastmod: 2026-09-18 12:11:38+00:00
+lastmod: 2026-09-18 12:26:16+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-18T12:26:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [offloading-void](/voids/offloading-void/)
+- **Task**: P2 (pessimistic-review, `reviews/pessimistic-2026-09-18-offloading-void.md`) — Issue 4 only: the unsourced Kosmyna session-4 *n* = 9, plus the same pass's orphaned reference 11 (Smart 2017). The sibling P2 on the Tenet 2 inference at L123 was deliberately NOT folded in, per driver instruction. Camerer (ref 6) left alone as directed.
+- **Original score**: not run — `scripts/curate.py` does not exist (stale skill instruction, section 3).
+- **Word count** (`tools.curate.length.analyze_length`, body-only): 2988 -> 2999. `soft_warning` before and after. Voids hard threshold is 3000 and `length.py` trips on `>= hard`, so 2999 is the ceiling: the full 11-word budget was spent and the file now has zero headroom. Both protected-region lists in the task were honoured — nothing was cut from the Ward-null paragraph, the L60 calibration-gap formulation, the L91 contrast-marking, the re-based verdict, or §"What the Evidence Will and Will Not Bear" / §"Reversible or Permanent" / §"What AI Might See".
+- **Changes**:
+  - **Issue 4 — took option (i), verified.** The task offered a choice between verifying the 9 against the paper's participant table or reverting to "eighteen ... split between the two reassignment directions". The methods section was retrievable after all: no arXiv HTML build exists (`/html/2506.08872v1` and `v2` both 404, and ar5iv silently redirects to the abstract page), but the 38 MB v2 PDF downloads and `pdftotext -layout` extracts cleanly. **The 9 is confirmed.** The Session 4 results section reports per-arm denominators of nine at seven independent loci — prompt recognition "(3/9)" for the reassigned LLM group against "(9/9)" for the reassigned Brain-only group; quoting "7 of 9 participants failed to reproduce a quote, whereas only 1 of 9 reassigned participants in Brain-only group"; correct quoting "(1/9)" against "7/9"; ownership "(5/9)" and "(1/9)"; satisfaction "8/9" and "(8/9)". Nine per reassigned arm, two arms, matching the abstract's "18 completing session 4". The article's existing "nine participants — the reassigned LLM group, half of the eighteen who returned for the fourth session" was therefore correct as written, and commit `fa2be0b6e1`'s 18 -> 9 change was right.
+  - **Citation anchor added** so the figure is no longer unsourced on its face: "... who returned for the fourth session, a split the preprint's results confirm — and it supports *worth investigating* rather than *established*." (+4 words; "in a preprint" was folded into "the preprint's" rather than dropped, so the Preliminary grading in the evidence table keeps its warrant). The evidence-table row at L83 ("one preprint, *n* = 54, *n* = 9 in the persistence arm") needed no change and is now verified rather than merely asserted.
+  - **Reference 11 (Smart 2017) given a body referent** rather than dropped. Cited in the Tenet 1 paragraph, where the task judged it would do real work: "... so neither bears on irreducibility — nor does the debate Smart reviews over whether Internet resources are literally cognitive parts." The characterisation is deliberately "the debate Smart reviews", not an attributed position — Crossref confirms the paper is *Extended Cognition and the Internet: A Review of Current Issues and Controversies*, Paul Smart, *Philosophy & Technology* 30(3), 357–390, DOI 10.1007/s13347-016-0250-2, i.e. a survey of a controversy rather than an argument for extension. The clause does Tenet 1 work: the extended-cognition constitution question is orthogonal to irreducibility, which is exactly the paragraph's point.
+  - **Paid for within the paragraphs touched**, per instruction, after `git log -S` confirmed the whole Tenet 1 paragraph is original expand-topic prose (`715dbaa538`) carrying no review provenance: "rather than" -> "not" in "Both effects concern the filtering apparatus, not what passes through it" (−2); "the Map should not recruit it for more than that" -> "the Map should claim no more" (−4); and "the preprint's session-4 results" -> "the preprint's results" (−1), which also removed a redundancy with the "fourth session" three words earlier.
+- **Known residue**: reference 11 carries the main title only ("Extended cognition and the Internet"), not the verified subtitle ("A Review of Current Issues and Controversies"). Adding it costs 7 words and the file is at the ceiling. Not a fabrication — every field present is Crossref-verified — but a future pass with length headroom should restore the subtitle, since the body now describes the work as a review.
+- **Published**: yes
 
 ## 2026-09-18T12:11:38+00:00 - refine-draft
 - **Status**: Success

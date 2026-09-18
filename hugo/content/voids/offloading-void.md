@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-07
-ai_modified: 2026-09-18 12:11:38+00:00
+ai_modified: 2026-09-18 12:26:16+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: 'Cognitive offloading manufactures a limit that hides itself: confi
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-18 12:11:38+00:00
+lastmod: 2026-09-18 12:26:16+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -104,7 +104,7 @@ The void is **Occluded** in the [three-kinds](/voids/three-kinds-of-void/) taxon
 
 The offloading void faces the same fork that [the expertise void](/voids/expertise-and-its-occlusion/) settles, and the structure there can be borrowed rather than rebuilt. The *epistemic* reading—a capacity existed and first-person access to exercising it is now closed—is what evidence can support. The *metaphysical* reading—the capacity was overwritten and survives nowhere—is the stronger thesis, and in the expertise case the record counts against it.
 
-Here the evidence is thinner in both directions. The only direct probe of *capacity* persistence after tool removal is Kosmyna and colleagues' EEG study, which reports that "cognitive activity scaled down in relation to external tool use" and that participants moved off the tool "showed reduced alpha and beta connectivity, indicating under-engagement." That arm is nine participants—the reassigned LLM group, half of the eighteen who returned for the fourth session—in a preprint, and it supports *worth investigating* rather than *established*. Persistence of an inherited *error pattern* is better evidenced. Across three experiments Vicente and Matute found that participants assisted by a deliberately biased classifier "made the same errors as the AI had made during the previous phase" once "the AI was no longer making suggestions"—peer-reviewed, and already held by [the collective cognitive limits void](/voids/collective-cognitive-limits/). A delegated *disposition* outlasting the delegation is adjacent to a degraded unaided capacity, not identical to it. Lee and colleagues' survey of 319 knowledge workers is self-report throughout; its finding that "higher confidence in GenAI is associated with less critical thinking, while higher self-confidence is associated with more critical thinking" is a correlation among perceptions, not a measure of capacity.
+Here the evidence is thinner in both directions. The only direct probe of *capacity* persistence after tool removal is Kosmyna and colleagues' EEG study, which reports that "cognitive activity scaled down in relation to external tool use" and that participants moved off the tool "showed reduced alpha and beta connectivity, indicating under-engagement." That arm is nine participants—the reassigned LLM group, half of the eighteen who returned for the fourth session, a split the preprint's results confirm—and it supports *worth investigating* rather than *established*. Persistence of an inherited *error pattern* is better evidenced. Across three experiments Vicente and Matute found that participants assisted by a deliberately biased classifier "made the same errors as the AI had made during the previous phase" once "the AI was no longer making suggestions"—peer-reviewed, and already held by [the collective cognitive limits void](/voids/collective-cognitive-limits/). A delegated *disposition* outlasting the delegation is adjacent to a degraded unaided capacity, not identical to it. Lee and colleagues' survey of 319 knowledge workers is self-report throughout; its finding that "higher confidence in GenAI is associated with less critical thinking, while higher self-confidence is associated with more critical thinking" is a correlation among perceptions, not a measure of capacity.
 
 The honest verdict: the evidence supports **a reversible void at most, wrapped in a robust concealment mechanism**—and the concealment is the better-evidenced half. Nothing in the record establishes that anything becomes unthinkable rather than unpractised, and Ward's null leaves even the size of the unaided gap undetermined. That is a weaker metaphysical claim than most articles in [voids](/voids/) make, and it gives the corpus something it lacks—a worked case where a void's *concealment* is quantified while its *reality* is not. For [the meta-epistemology of limits](/voids/meta-epistemology-of-limits/), which generally treats "is this void real?" as the hard question, the offloading void leaves that question open and measures the cover over it instead.
 
@@ -130,7 +130,7 @@ The self-referential consequence should not be dodged. The Map is AI-generated. 
 
 The discriminating variable is therefore brain-side—whether the subject still performs a deliberation—and not whether the external aid is stochastic or deterministic. The aid-side contrast would not have worked in any case: a pseudo-random generator or a temperature-sampled model is deterministic given its seed, leaving two classical systems compared. The brain-side version is at least the kind of contrast conditioned on intention and task that the tenet leaves live. It remains speculation: no evidence bears on it, and its consistency with the decision void is framework-internal coherence rather than support.
 
-**[Tenet 1 — Dualism](/tenets/#dualism)** is touched more lightly. The enrichment claim this article balances belongs to the Map's extension of filter theory: tools widen the informational field the filter draws on, and the correction is that the same apparatus can narrow the range of operations the subject performs unaided. Both effects concern the filtering apparatus rather than what passes through it, so neither bears on irreducibility. The offloading void is a limit on reach, and the Map should not recruit it for more than that.
+**[Tenet 1 — Dualism](/tenets/#dualism)** is touched more lightly. The enrichment claim this article balances belongs to the Map's extension of filter theory: tools widen the informational field the filter draws on, and the correction is that the same apparatus can narrow the range of operations the subject performs unaided. Both effects concern the filtering apparatus, not what passes through it, so neither bears on irreducibility—nor does the debate Smart reviews over whether Internet resources are literally cognitive parts. The offloading void is a limit on reach, and the Map should claim no more.
 
 ## Further Reading
 
