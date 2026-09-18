@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T05:59:19+00:00'
+ai_modified: '2026-09-18T06:12:57+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-18'
-lastmod: 2026-09-18 05:59:19+00:00
+lastmod: 2026-09-18 06:12:57+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-18T06:12:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/)
+- **Task**: P1 (3/3 convergent, todo.md line 40) — the article attributed a scalar-Φ collapse model to Chalmers & McQueen, who reject exactly that model in the cited paper.
+- **Word count**: 3213 -> 3677 (+464; topics soft 3000 / hard 4000, status `soft_warning` before and after; 322 words of headroom remain). Six other tasks are open on this file — the next passes are working against a tight ceiling.
+- **Scope**: confined to "The Consciousness-Modulated Hybrid" section and the reference list, per driver. The XENONnT/Majorana currency fix, the conservation-laws contradiction, the Born-preserving corridor, rival engagement, counterargument integration and the unraveling theorem all remain with their own tasks; no text they own was touched.
+- **Changes**:
+  - **Core fidelity fix.** Replaced "differences in integrated information (Φ) between superposed conscious states determine collapse rates, so systems with higher integrated information experience faster and stronger collapse" with the model Chalmers & McQueen actually develop: collapse onto *Q-shape*, with rate depending on the extended Earth mover's distance EMD\* between Q-shapes. Added their own rejection of the scalar-Φ model and the reason for it. "Stronger collapse" removed — it has no counterpart in their dynamics.
+  - **Taxonomic overreach fixed.** "the consciousness-modulated CSL model developed by David Chalmers and Kelvin McQueen" -> "explored by", with their own framing installed: exploring rather than endorsing; "considerable sympathy with other interpretations and especially with many[-]worlds interpretations" (the family Tenet 4 rejects); the fully materialist variant whose law "involves nothing nonphysical". Framed as a model the Map borrows, not a shared commitment.
+  - **Zeno problem installed.** New short paragraph: the abstract's "Simple versions of the theory are falsified by the quantum Zeno effect", the superselection consequence ("we could never wake up from a nap"), and an explicit cross-reference to the article's own fallback to Stapp's quantum Zeno approach — the same effect is both Stapp's resource and the simple models' falsifier.
+  - **Flagship-move divergence stated.** Their default dynamics are Born-preserving for outcome *selection*; facing the dice-rolling objection they "are inclined to concede that most of what this objector says is correct", and outcome biasing appears only as an add-on they decline ("[w]e do not find this picture especially attractive"). Folded into the existing corridor paragraph rather than added as a new one, so the register's [P-Q2](/positions/quantum-interface/#p-q2) commitment still closes the section.
+  - **Quantum-zombie objection** ("Collapse of the PCC states does all the causal work, and collapse of consciousness is causally irrelevant") added in a single sentence per the length budget, tied to the existing mechanism-debt anchor.
+  - **New source cited**: McQueen, Durham & Müller (2026) — the formal cost of the very replacement installed above (Lindblad collapse with too few operators cannot make rates depend solely on qualitative differences between conscious states; avoiding this needs many commuting operators with rapid proliferation of terms, which tells against IIT-based collapse being especially tractable). Added to the reference list; arXiv:2105.02314 added to the existing Chalmers & McQueen entry so the quotes are locatable.
+- **Verification**: every quote grep-verified in raw source this run, not taken on the reviewers' word. Chalmers & McQueen: arXiv:2105.02314v1 PDF (Q-shape count 151, matching the review) plus the consc.net posted version of the published chapter for the numbered-objection material. McQueen, Durham & Müller: arXiv abstract verified verbatim; **venue confirmed at Crossref** (the task flagged it unverified) — *Entropy* 28(4), 394, DOI 10.3390/e28040394, authors Kelvin J. McQueen, Ian T. Durham, Markus P. Müller, issued 2026-04-01. Cited with both venue and arXiv id.
+- **Two fidelity traps avoided, recorded for re-checkers**: (1) the paper's own text reads "manyworlds" (a source typo, mid-line in both versions — not a hyphenation artifact), quoted as "many[-]worlds"; and the Φ rejection reads "A collapse model base only on Φ", quoted as "base[d]". (2) **Objection numbering differs between versions.** The quantum-zombie objection is numbered 2 in the consc.net/published text but **arXiv v1's Objection 2 is a different objection entirely** (macroscopic brain processes), and the dice-rolling objection is v1's Objection 4 only in the later text. Both are therefore cited by content, never by number.
+- **Out of scope, recorded not acted on** (driver instruction): whether the Map should keep presenting Chalmers & McQueen as its best worked instance now that their declining of outcome biasing and their many-worlds sympathy are both on the page is a `positions/quantum-interface` question ([P-Q1](/positions/quantum-interface/#p-q1)'s co-preferred fallback). The C&M treatment was not deleted on those grounds.
+- **Sibling defect found, not fixed** (different file, no task owns it): `topics/qm-interpretations-beyond-many-worlds` line 105 carries the same misattribution — "Chalmers and McQueen (2022) developed this further... so that differences in Φ between superposed conscious states determine collapse rates... higher integration means faster localisation". It then credits the equal-Φ objection to Kent (2021) and treats Q-shape as an unworked escape "at a steep complexity cost not yet worked out", when C&M raise the objection themselves and Q-shape *is* their developed model. Corpus sweep for the defective form returned this one hit only; "stronger collapse" returns zero corpus-wide.
+- **Published**: yes
 
 ## 2026-09-18T05:59:19+00:00 - deep-review
 - **Status**: Success
