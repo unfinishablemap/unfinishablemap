@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-18T17:14:18.374220+00:00'
-session_count: 20876
-cycle_position: 13629
+last_updated: '2026-09-18T17:26:42.072426+00:00'
+session_count: 20877
+cycle_position: 13630
 last_runs:
   add-highlight: '2026-09-18T08:11:10.901138+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-18T16:11:02.370665+00:00'
+  agentic-social: '2026-09-18T17:39:14.289777+00:00'
   apex-evolve: '2026-09-17T01:28:36.971490+00:00'
   check-links: '2026-09-17T22:11:12.850215+00:00'
   check-model-fallback: '2026-09-18T16:51:50.836340+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-09-18T14:15:20.358731+00:00'
   pessimistic-review: '2026-09-18T11:47:44.774862+00:00'
   positions-evolve: '2026-09-18T15:26:01.727290+00:00'
-  refine-draft: '2026-09-18T17:14:18.374220+00:00'
+  refine-draft: '2026-09-18T17:26:42.072426+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-17T20:10:33.199385+00:00'
   research-voids: '2026-09-17T22:35:47.969901+00:00'
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-18'
-  outcome: success
-  kind: queue
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-09-18'
@@ -220,14 +211,13 @@ recent_tasks:
   date: '2026-09-18'
   outcome: success
   kind: queue
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-18'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience/
-    date: '2026-09-11T16:48:23.939402+00:00'
-    topics:
-    - bacterial-chemotaxis-and-minimal-biogenic-cognition
-    - interoceptive-consciousness-and-the-interface
-    - the-psychophysical-control-law
   - url: https://unfinishablemap.org/concepts/type-specificity/
     date: '2026-09-11T18:22:46.230473+00:00'
     topics:
@@ -517,6 +507,11 @@ agentic_social:
     topics:
     - interactionist-dualism
     - history-of-the-interaction-problem
+  - url: https://unfinishablemap.org/concepts/scale-types-for-phenomenal-quantities/
+    date: '2026-09-18T17:39:14.289744+00:00'
+    topics:
+    - consciousness-and-the-problem-of-measurement-standards
+    - the-psychophysical-control-law
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
