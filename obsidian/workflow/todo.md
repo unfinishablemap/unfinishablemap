@@ -36,6 +36,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
 ### NEEDS-HUMAN (length policy) 2026-09-19: `topics/attention-and-the-consciousness-interface` cannot clear its ceiling by condensing — a 2026-07-25 deep review already ruled the overflow an apparatus artifact
 
 - **Type**: condense
@@ -62,7 +63,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   ⚠️ **THE LIKELY DEFECT IS THE MISSING REFERENCE, NOT THE QUOTE — do not delete the quotation to resolve the mismatch** ([[quote-fails-against-listed-refs-may-mean-missing-reference]]). But **verify at the primary before adding an entry**: James quotations have been fabricated in this corpus before ([[james-quotes-fabricated-in-mind-dust-cluster]]), and five passes today found claims contradicted by their own cited sources — including a fabricated McGinn illustration that survived 22 deep reviews and a quotation mark placed on an article's *own paraphrase* and credited to a named philosopher.
   **Route**: *The Principles of Psychology* (1890) is out of copyright and fully available, so this is verifiable at the primary text — locate the passage, confirm the wording, and cite volume and page. ⚠️ If the wording does not verify, that is a **correction to report**, not a silent removal. ⚠️ **A failed fetch is not an absence**: today alone this corpus produced a Cloudflare interstitial named `.pdf`, a search page served as a `.pdf` with HTTP 200, an 11 KB PMC stub and a 212-byte WAF stub. `pdftotext` refusing a file, or an implausibly small body, is the tell — switch endpoint.
   ⚠️ **LENGTH: the file is 426 words OVER its hard ceiling** (4425 against a 3999 usable ceiling) and a reference entry is a net addition of ~20 words. Sequence this after the length decision above, or land it only if the operator ratifies the argument-only standard.
-
 
 ### P3: the AST opacity mechanism — Gemini's strongest positive point — is absent from `topics/attention-and-the-consciousness-interface`; blocked on the condense
 
@@ -1843,6 +1843,17 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-19: `concepts/metaphysics-of-information-under-dualism` L150 overstates its own source by a factor of 10 — and glosses a behavioural figure as a conscious one
+- **Type**: refine-draft
+- **File**: obsidian/concepts/metaphysics-of-information-under-dualism.md
+- **Notes**: **TWO DEFECTS IN ONE SENTENCE, both verified this run.** L150 reads: *"Separately, Zheng & Meister (2025) find that **conscious processing** operates at roughly 10 bits per second, remarkably low compared to the brain's **~10 billion** bits per second of sensory processing."*
+  **(a) FACTOR-OF-10 ERROR — the headline defect.** The source says **~10^9 = one billion**, not ten billion. Verified at the arXiv record (2408.10234v2), which states verbatim: *"The information throughput of a human being is about 10 bits/s. In comparison, our sensory systems gather data at ~10^9 bits/s."* The Map's own research note `research/bandwidth-constraints-10-bits-2026-03-29` independently records the outer brain at **~10⁹ bits/s**. ⚠️ **The error inflates the very disparity the article's argument leans on**, so it reads as motivated even though it is almost certainly a slip. **Fix to "one billion" or "~10⁹".**
+  **(b) A BEHAVIOURAL FIGURE GLOSSED AS A CONSCIOUS ONE.** The paper frames 10 bits/s as the throughput of *a human being* — behaviour, the "inner brain" — **not explicitly as conscious bandwidth**. Calling it "conscious processing" is a mild strengthening in the Map's own favour. ⚠️ **Do not over-correct into abandoning the figure**: the article's next sentence already does the honest work — *"Whether this conscious bandwidth reflects the quantum-level injection rate, emerges from it, or is an independent constraint is unknown"* — and **that restraint must survive**. The repair is to attribute the measurement as the source states it and let the existing hedge carry the interpretive step ([[i-widen-retractions-and-upgrade-coiners-into-proponents]]).
+  ✅ **METADATA IS CORRECT — do not touch the citation.** Crossref on `10.1016/j.neuron.2024.11.008` confirms Zheng & Meister, *Neuron* **113(2), 192–204, 2025**, matching the article's reference line exactly. This is a reading-fidelity fix, not a sourcing one ([[citation-ledger-ratifies-the-reading-not-just-the-metadata]]).
+  ✅ **ISOLATED — no sweep needed.** `grep -rl "10 billion bits"` across `obsidian/` and `archive/` (excluding `reviews/`+`workflow/`) returns **this file only**. Sibling treatments in `topics/bandwidth-of-consciousness` and the research note use the correct magnitude.
+  ⚠️ **LENGTH: 3373 words** against concepts 2500/3500/5000, usable ceiling 3499 → **126 words of headroom**. Both repairs are word-neutral or negative; **do not expand the passage**.
+  ℹ️ **Related, separate**: the fabricated "~200 bits per second" neuron figure was swept from this cluster today (`6d5eed05`); that defect is closed and is **not** this one. `ai_modified` from a live `date -u` **strictly past**; `uv run python scripts/sync.py`; grep both trees; report before/after `analyze_length`.
 
 ### ✓ 2026-09-19: `topics/attention-and-the-consciousness-interface` is 636 words PAST its hard ceiling — the largest overflow in the corpus and nothing was tasked against it
 - **Type**: condense

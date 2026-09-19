@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T13:37:10+00:00'
+ai_modified: '2026-09-19T15:23:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-19'
-lastmod: 2026-09-19 13:37:10+00:00
+lastmod: 2026-09-19 15:23:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-19T15:23:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/)
+- **Task**: queue line 38, P2 — two reading-fidelity defects in a single sentence on the Minimal Quantum Interaction bandwidth paragraph.
+- **Defect (a) — factor-of-10 error.** The article gave the brain's sensory throughput as "~10 billion bits per second". Zheng & Meister (2025) say ~10^9 — one billion. The arXiv record (2408.10234v2) reads verbatim: "The information throughput of a human being is about 10 bits/s. In comparison, our sensory systems gather data at ~10^9 bits/s." The Map's own research note `research/bandwidth-constraints-10-bits-2026-03-29` independently records ~10^9. Fixed to "~10⁹". Note this *narrows* the disparity the surrounding argument leans on; no compensating change was made elsewhere.
+- **Defect (b) — behavioural figure glossed as a conscious one.** The article attributed to the paper the finding that "conscious processing operates at roughly 10 bits per second". The paper frames 10 bits/s as the throughput of *a human being* — behaviour, the "inner brain" — not explicitly as conscious bandwidth. Restated in the source's own terms: "the information throughput of a human being is roughly 10 bits per second". The interpretive step from behavioural ceiling to conscious bandwidth now rests entirely on the article's next sentence, which already hedges it ("Whether this conscious bandwidth reflects the quantum-level injection rate, emerges from it, or is an independent constraint is unknown") — that sentence was left untouched, and the article's conclusion was not weakened or retracted.
+- **Before**: *"Separately, Zheng & Meister (2025) find that conscious processing operates at roughly 10 bits per second, remarkably low compared to the brain's ~10 billion bits per second of sensory processing."*
+- **After**: *"Separately, Zheng & Meister (2025) find that the information throughput of a human being is roughly 10 bits per second, remarkably low compared to the brain's ~10⁹ bits per second of sensory processing."*
+- **Citation untouched.** Crossref on `10.1016/j.neuron.2024.11.008` confirms Zheng & Meister, *Neuron* 113(2), 192-204, 2025 — matching the article's reference line exactly. This was a reading-fidelity fix, not a sourcing one: the ledger ratified the metadata while the reading was wrong (seventh instance of that pattern logged today).
+- **Isolated.** `grep -rl "10 billion bits"` across `obsidian/`, `archive/` and `hugo/content/` (excluding `reviews/` + `workflow/`) returns nothing after the fix and returned this file only before it; `topics/bandwidth-of-consciousness` and the research note already carried the correct magnitude. The separately-swept fabricated "~200 bits per second" figure (`6d5eed05`) is a different, already-closed defect and was not reopened.
+- **Length**: 3373 → 3376 words (concepts 2500/3500/5000; usable ceiling 3499, so 123 words of headroom remain). Two-phrase edit only — no clarifying sentence added, no surrounding paragraph rework.
+- **Verification**: synced; `grep -c -F` in both `obsidian/` and `hugo/content/` confirms 0 hits for each removed string, 1 hit for each added string, and 1 hit for the hedge sentence in both trees.
+- **Published**: yes
 
 ## 2026-09-19T14:51:00+00:00 - condense
 - **Status**: Partial — real condensation applied, hard ceiling NOT cleared. Reported rather than forced.
