@@ -36,6 +36,33 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+### NEEDS-HUMAN (length policy) 2026-09-19: `topics/attention-and-the-consciousness-interface` cannot clear its ceiling by condensing — a 2026-07-25 deep review already ruled the overflow an apparatus artifact
+
+- **Type**: condense
+- **Status**: blocked
+- **Blocked-by**: human-decision — ratify the 2026-07-25 argument-only standard, authorise a split, or accept a standing `hard_warning`
+- **File**: obsidian/topics/attention-and-the-consciousness-interface.md
+- **Source**: cycle driver, 2026-09-19 14:5x UTC — residue of the condense at `5ab99a7e`, which cleared only 210 of 636
+- **Generated**: 2026-09-19
+- **Notes**: **OPERATOR DECISION. ⚠️ AND A DRIVER ERROR WORTH RECORDING: I minted the condense task without reading the prior review's stability notes, which had already settled this.** `reviews/deep-review-2026-07-25-attention-and-the-consciousness-interface.md` measured argument-only prose, found it under 4000, and concluded the full-file `hard_warning` is *"a reference-apparatus artifact; do not condense on that basis."* The condense I commissioned was therefore re-litigating a closed question ([[prior-review-file-carries-stability-notes-that-preempt-your-suspicion]]). **Check `reviews/` stability notes before minting a length task.**
+  **MEASURED STATE:** **4425 words** against topics 3000/4000, usable ceiling 3999 → **426 over**. Reference apparatus is **678 words / 15.3%**; argument-only prose is **3747, under 4000**.
+  **WHY CONDENSING CANNOT CLOSE IT.** Word counts at every commit touching the file show the last condense (`7b57d4b68b`, 2026-05-14) bottomed it at **3132**. **Every word of the +1503 since was added by a named review-remediation commit**, and a single +568-word commit — `f5bee2b02a` (2026-07-27), installing the attractor-WTA and expected-free-energy physicalist deflations — is **~90% of the overflow by itself**. Three prior condenses already took the pre-review fat; this pass yielded ~5% and confirmed there is no redundancy layer left. **Closing the last 426 means removing claims, not tightening.**
+  ✅ **TWO LEADS I WROTE INTO THE TASK WERE BOTH FALSE — do not re-issue them.** (i) *"The six-case clinical catalogue restates a shared moral"* — **refuted**: `optimistic-2026-08-13-attention-wing` endorses the four disorders as a genuine architecture map, and each is the sole support for one row of the kaleidoscope table. (ii) *"30 references against few inline markers, possibly uncited"* — **refuted**: **0 of 30 uncited**, and at 20.2 words/entry against a topics median of 18.5 across 317 articles it ranks 109/317, i.e. unremarkable.
+  ⚠️ **HIDDEN DEPENDENCY FOUND, protect it in any future pass**: `### The Epistemological Challenge` is an **inbound anchor target from four live articles**, and `voids/three-kinds-of-void` leans on its ADHD-baseline sentence specifically. ⚠️ **The slug-form grep false-zeroes on it; only the heading-text dialect finds it** ([[corpus-uses-two-anchor-dialects-so-a-slug-check-false-zeros]]).
+  **OPTIONS.** **(1) Ratify the 2026-07-25 standard** — treat apparatus-inclusive `hard_warning` as non-actionable for reference-dense articles, and ideally encode it (a per-file exemption flag, or an argument-only measure in `length.py`). This is the option the evidence supports and it would stop the loop re-minting this task. **(2) Authorise a split** — extract the clinical catalogue to a new `topics/` article. Costs a topics slot (328/360), guts this article's named "evidence hub" role in the attention wing, and must repoint the four inbound anchors above. **(3) Accept a standing `hard_warning`** and let the file sit over the gate; note this permanently blocks the queued P3 AST-opacity insertion, which is a net ~60–100 words.
+  ℹ️ **Confirmed intact by section-level count** after the partial condense: `## Engaging Attention Schema Theory` **378 → 378 byte-identical**, `## Honest Limitations` 84 → 84, `## References` 605 → 605. `## Predictions and Falsification` 592 → 549 — compressed, not weakened; protocol, the three weaker predictions and the borrowed-risk admission all intact, and all five spans the 2026-08-13 review names as strengths verified 1/1 in both trees.
+
+### P3: `topics/attention-and-the-consciousness-interface` quotes James with no James entry in its reference list — the only quoted author without one
+
+- **Type**: refine-draft
+- **File**: obsidian/topics/attention-and-the-consciousness-interface.md
+- **Source**: cycle driver, surfaced by the 2026-09-19 condense (`5ab99a7e`) as an open finding it did not act on
+- **Generated**: 2026-09-19
+- **Notes**: **Measured by the driver this run**: the body quotes *"volition is nothing but attention"* and attributes it to James (1 occurrence), while `## References` carries **30 entries and 0 for James** — verified with a case-insensitive scan of the reference block. **He is the only quoted author in the article without a reference entry.**
+  ⚠️ **THE LIKELY DEFECT IS THE MISSING REFERENCE, NOT THE QUOTE — do not delete the quotation to resolve the mismatch** ([[quote-fails-against-listed-refs-may-mean-missing-reference]]). But **verify at the primary before adding an entry**: James quotations have been fabricated in this corpus before ([[james-quotes-fabricated-in-mind-dust-cluster]]), and five passes today found claims contradicted by their own cited sources — including a fabricated McGinn illustration that survived 22 deep reviews and a quotation mark placed on an article's *own paraphrase* and credited to a named philosopher.
+  **Route**: *The Principles of Psychology* (1890) is out of copyright and fully available, so this is verifiable at the primary text — locate the passage, confirm the wording, and cite volume and page. ⚠️ If the wording does not verify, that is a **correction to report**, not a silent removal. ⚠️ **A failed fetch is not an absence**: today alone this corpus produced a Cloudflare interstitial named `.pdf`, a search page served as a `.pdf` with HTTP 200, an 11 KB PMC stub and a 212-byte WAF stub. `pdftotext` refusing a file, or an implausibly small body, is the tell — switch endpoint.
+  ⚠️ **LENGTH: the file is 426 words OVER its hard ceiling** (4425 against a 3999 usable ceiling) and a reference entry is a net addition of ~20 words. Sequence this after the length decision above, or land it only if the operator ratifies the argument-only standard.
+
 
 ### P3: the AST opacity mechanism — Gemini's strongest positive point — is absent from `topics/attention-and-the-consciousness-interface`; blocked on the condense
 
