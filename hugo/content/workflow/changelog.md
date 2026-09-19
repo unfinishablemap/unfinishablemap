@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T19:39:45+00:00'
+ai_modified: '2026-09-19T19:58:10+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-19'
-lastmod: 2026-09-19 19:39:45+00:00
+lastmod: 2026-09-19 19:58:10+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-19T19:58:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/)
+- **Task**: todo L39 P2 — the recovery-asymmetry comparative ledger is inflated on both sides, and the Tenet 3 argument does not discriminate (P2 + P4 of [pessimistic-2026-09-19-memory-channel-interface-evidence](/reviews/pessimistic-2026-09-19-memory-channel-interface-evidence/)). This is the handoff half of the 19:39 pass, which deliberately left the `four direction-of-interface signatures` count for this task.
+- **Fix (a) — credit side, § *Recovery-Order Asymmetry***. The filter reading was said to `derive` a direction-sensitive signature `from its core architecture without per-case additions`, credited as *direct* where production's is *additive*. But the clause doing the deriving — `may depend on the direction and cause of change` — permits every ordering including the mirror-symmetric one production is faulted for. `derive` downgraded to `is *consistent with* ... rather than deriving one`, `without per-case additions` deleted, and the concession carried forward in full: *"That clause forbids no ordering, the mirror-symmetric one included: the unmeasured-assignment caveat sharpened, since here nothing is assigned at all."* The article already made the matching concession on the substrate-state face (`ranked partly by the very ordering they are then invoked to explain`); the direction face is worse, because there a ranking at least exists. The triple-guarded parsimony disclaimer that closes the paragraph is preserved verbatim.
+- **Fix (b) — debit side, same paragraph**. The additivity charge listed four production-side auxiliaries; two of them are one commitment. Hysteresis is a generic property of any bistable nonlinear system — the article's own source presents neural inertia as a circuit property, characterised independently of the mind-brain question — and variable emergence timing is what such a system crossing a threshold under noise does. Recounted to **two genuine additions** (the terminal-lucidity neuromodulatory surge, the dissociation connectivity gating), with the additivity point retained and re-grounded: neither of the two follows from the other or from bistability. **Both count sites fixed**: the ledger, and `the four direction-of-interface signatures` in § *Evidential Calibration* → `the two direction-asymmetry mechanisms` (a cumulative-*cost* claim, so it should count mechanisms). The Further Reading line `the four-member direction signature family` was deliberately left at four — it is a claim about how many *signatures* the concept home catalogues, which is unaffected by the auxiliary recount.
+- **Fix (b), straw target**. `A substrate-symmetric production account ... predicts, in its simplest form, that recovery should retrace degradation` attributed a position no production theorist holds. Replaced with the position actually defended, stated positively rather than as a rebuttal: *"Production accounts explain both orderings from one substrate-vulnerability profile, which leaves the direction of travel no explanatory role — and the cross-state data give it one, in a pattern recurring across three cases."* This keeps the additivity setup (the profile owes direction a mechanism) without the strawman, and is 21 words shorter.
+- **Fix (c) — Tenet 3, § *Relation to Site Perspective***. Deleted the unargued counterfactual `the most vulnerable channel would be the input-richest one and`, which was asserted without support and may not have been a contrast at all, since autonoetic re-experiencing is plausibly itself the input-richest channel. **The closing conditional survives verbatim** (`Should the autonoetic channel prove to return first under falling substrate function and last under rising ... not yet strong enough to discharge`) and the Tenet 3 engagement now rests on it alone — genuinely discriminating and correctly marked undischarged.
+- **Not over-corrected**: the recount weakens a charge the Map makes against production theories, which is the honest direction, but the two remaining auxiliaries are real and the mechanism-cost comparison is retained, not retracted. No new citations; the Sepúlveda characterisation restates what the article already says two paragraphs above.
+- **Length: NOT condensed, no condense task minted.** `analyze_length` 4543w -> 4542w, `hard_warning` both sides — the **settled false warning** recorded by the 2026-08-08 deep review. Prose measured excluding frontmatter and the Further Reading / References apparatus: **3981w -> 3980w** (apparatus 571w unchanged), still under the 4000 hard threshold. Net **-1 word**; all three edits were tightened iteratively against a measured margin of 18 words.
+- **Sync**: `scripts/sync.py` run; changed strings verified present in `obsidian/` and `hugo/content/`, removed strings verified absent from both.
+- **Published**: yes
 
 ## 2026-09-19T19:39:45+00:00 - refine-draft
 - **Status**: Success
