@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T04:46:00+00:00'
+ai_modified: '2026-09-19T05:12:18+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-19T05:12:18+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-19
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-5, gemini-2-5-pro) — all three audited the same subject, `concepts/meta-problem-of-consciousness`, via the reuse branch, so this cycle is a real convergence test.
+- **Clusters**: 5 convergent (1 at 3/3 on a locus, 1 at 3/3 on a finding, 3 at 2/3), 5 singleton, 2 divergent, **1 rejected apparent convergence**
+- **Tasks upgraded**: 3 (P3->P2: 0, P2->P1: 3) — bibliography staleness (3/3), realizationism over-derivation (2/3), calibration asymmetry across neighbours (2/3)
+- **Tasks deduplicated**: 0 — the three collecting passes had already enriched sibling tasks in place rather than minting duplicates, so the redundancy this skill normally removes did not exist. Nothing new was minted either; the two convergent clusters without a task of their own were folded into the upgraded bibliography task.
+- **Headline — 3/3 on one paragraph, by three different routes.** Every reviewer independently marked the zombie/dissolution passage at `concepts/meta-problem-of-consciousness` L101-103 as the article's weakest: ChatGPT via an equivocation on "zombie" plus the causal-closure contradiction at L103, Claude via the Map's own born-preserving commitment leaving no divergence to detect, Gemini via circularity (the physicalist identity response is never engaged). Three independent routes to one paragraph means the paragraph, not any sentence in it, needs rewriting; the three open P1s now carry an instruction to discharge them as one coordinated rewrite.
+- **REJECTED convergence — the textbook case.** Topic-overlap clustering would have scored `causal closure` in two reviews as a second vote for ChatGPT's contradiction finding. It is the opposite of one: Gemini's Dimension 2 preamble writes that the framework must secure agent causation "without violating the causal closure of physics" (L91), reproducing the exact framing ChatGPT flags as an error — it **commits the error its sibling flagged**. Claude's body mentions causal closure 0 times. Re-verified this pass with `grep -inF`. The finding is ChatGPT's alone and its task now says so, so a later pass cannot re-derive the phantom vote.
+- **SPLIT convergence — predictive processing.** Claude and Gemini both complain PP goes untested, which looks like 2/3. Claude's target is PP as a rival topic-neutral meta-problem *solution* (Clark/Friston/Wilkinson 2019) — a real article-level gap. Gemini's target is PP as an account of transparency and psychedelics, aimed at REBUS material the article does not contain (`predictive` 0, `REBUS` 0). Only Claude's half counts; folded into the bibliography task with a scope-split note.
+- **Gemini's "Reject" verdict was not allowed to set the cycle's grade.** It audited site-wide rather than the subject article, 4 of 6 quoted Map spans occur 0 times, and 3 of 5 weaknesses carry a defective source. Exactly one of its findings survived verification — the pre-2020 bibliography — and both siblings reached that independently.
+- **New failure shape recorded**: fabrication ran in both directions this cycle. ChatGPT 0 fabrications across 36 Map-attributed spans, Claude 0 across 23 — but Claude's reviewer **invented words in a Chalmers sentence to manufacture a misquote in the target**, alleging a dropped "roughly" and "phenomenal" that are not in the source sentence. The standing guard watches for fabricated quotes *of the Map* and cannot catch a fabricated *source* text, because the fabrication sits on the other side of the comparison.
+- **Queue impact flagged**: `concepts/meta-problem-of-consciousness` now carries six open P1 tasks against 904 words of headroom, three of which rewrite the same paragraph. The synthesis names the intended discharge order; taking them top-down and independently would strand premises and overrun the ceiling.
+- **Output**: [[reviews/outer-review-synthesis-2026-09-19]]
 
 ## 2026-09-19T04:46:00+00:00 - outer-review
 - **Status**: Success
