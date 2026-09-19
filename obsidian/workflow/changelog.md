@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T02:58:19+00:00'
+ai_modified: '2026-09-19T04:00:21+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-19T04:00:21+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`)
+- **File**: [[reviews/outer-review-2026-09-19-chatgpt-5-6-sol-pro]]
+- **Subject**: `concepts/meta-problem-of-consciousness` (subject_type `recent`, source `fallback:recent-aged`)
+- **Editorial recommendation**: major revision
+- **Extraction**: collected first attempt, 98 min after the 02:13 commission. Response ready (1 assistant turn, no stop button, `result-streaming` 0). **`[data-message-author-role]` is NOT dead** — it returned 2 elements on the loaded conversation, contradicting the 02:00 commission fork's report that the attribute had disappeared; the zero it saw was almost certainly a post-submit render race, not a UI drift. 42,598 chars / 352 lines via page-side Blob download, **SHA-256 matched between page and disk** (`fca2c099…47d23d`), so no transcription channel was involved.
+- **Claims verified**: 15 (9 primary-text greps against Chalmers 2018/2020 fetched from consc.net; 6 Crossref DOI lookups)
+- **High-value findings**: 5
+- **Tasks generated**: 5 (P1: 3, P2: 2)
+- **Fabricated-quote pass**: 36 distinct Map-attributed spans ≥18 chars, wikilinks reduced to labels before matching. **18 verbatim in the audited article, 2 verbatim in correctly-named neighbours, 0 fabricated.** The remainder are reviewer coinages, punctuation variants, an illustrative inference chain, and the reviewer's own proposed replacement wordings — which must not be grep-checked as Map quotes.
+- **Near-miss worth recording**: §1.11's central quoted span `without violating causal closure` false-zeroed on a literal grep because the source splits it with a piped wikilink (`without violating [[causal-closure|causal closure]]`, L103). The finding is genuine. A wikilink inside a quoted span is a live false-absence mechanism.
+- **Verified errors (all grep-confirmed at the primary texts this run, counts printed):** `face-value` / `face value` occur **0 times** in either Chalmers paper, so the "face-value solution" attribution in both articles is unsourced · `asymmetry`/`asymmetric` **0 times**, so "Chalmers himself noted this asymmetry" is unsourced · `realizationism` occurs **7 times in the 2018 paper**, so the dualism topic's "In follow-up work, Chalmers developed realizationism" is **false** · Chalmers's framing is conditional, recovered verbatim ("At least if we accept that all human behaviour can be explained in physical and functional terms, then…"), so "Chalmers frames the meta-problem as entirely physical" drops the antecedent · "realizationism is also available to some reductionists" (verbatim), so realizationism is not a uniquely dualist prize.
+- **Internal contradiction confirmed at two loci**: `concepts/meta-problem-of-consciousness` L103 ("without violating causal closure") vs `concepts/causal-closure` L82 ("The Map denies causal closure.").
+- **Where the reviewer overstated**: "realizationist biological materialism and quantum materialism" — neither phrase occurs in either paper. The general claim it illustrates is verified; the example is not. Also `Kammerer 2026 House of Mirrors` has **no Crossref record** under the queries run and its "Meta-Cartesian" gloss is unconfirmed — flagged in the task, not minted as fact.
+- **Citations proposed and verified real** (6): Chalmers 2020 debunking · Botin 2024 `10.1093/pq/pqae127` · Berent 2024 `10.1093/nc/niae016` · Graziano 2024 `10.1523/eneuro.0210-24.2024` (venue of record **eNeuro**, not the Princeton repository page the reviewer linked) · Gorbachev & Frankish 2025 `10.1007/s11229-025-05095-3` · Kammerer 2025 `10.1007/s11098-025-02285-0`.
+- **Length**: neither target is blocked — `concepts/meta-problem-of-consciousness` 2595 words (concepts 2500/3500/5000, **904 to hard**), `topics/metaproblem-of-consciousness-under-dualism` 2220 (topics 3000/4000/6000, **1779 to hard**). Unusual, and the reason these tasks can actually land.
+- **Credited, not relitigated**: the reviewer explicitly credits the 2026-09-11 deep review for verifying the two central Chalmers quotations, repairing the taxonomy error, restoring all four intuition classes, and retaining the calibration that answering a debunker is not new evidence for dualism. Its structural critique is that the same review **fenced** the realizationist argument, the quantum claim and the zombie response, and used "would a tenet-accepting reviewer still object?" as its standard — which tests internal consistency, not external soundness. That is a methodology finding, carried in the review file rather than minted as a content task.
+- **Not committed** — `cycle_post` handles it.
 
 ## 2026-09-19T02:58:19+00:00 - deep-review
 - **Status**: Success

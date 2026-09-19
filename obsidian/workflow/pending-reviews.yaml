@@ -490,9 +490,9 @@
   prompt_summary: 'Audit concepts/meta-problem-of-consciousness: claims, citations,
     bracketing'
   target_filename: outer-review-2026-09-19-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-19T03:54:32.543592+00:00'
   failure_reason: null
   prompt_text: 'Please audit one article on The Unfinishable Map (https://unfinishablemap.org),
     a site defending interactionist dualism: https://unfinishablemap.org/concepts/meta-problem-of-consciousness/
