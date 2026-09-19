@@ -1,14 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T10:36:47+00:00'
+ai_modified: '2026-09-19T11:05:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-19'
-lastmod: 2026-09-19 10:36:47+00:00
+lastmod: 2026-09-19 11:05:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-19T11:09:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [mysterianism](/concepts/mysterianism/)
+- **Task**: queue line 54, P2 — two fabricated McGinn illustrations (sibling fix to the 2026-09-19 deep review of `topics/hard-problem-of-consciousness`). Reading-fidelity repair; the McGinn 1989 citation itself is correct and was retained.
+- **Original score**: not run — `scripts/curate.py` does not exist (the skill's Section 3 command is stale). Targeted fix per the task brief instead of a general quality pass.
+- **Primary verification**: McGinn 1989, *Mind* 98(391):349–366, fetched as PDF from informationphilosopher.com (18pp, matches the 349–366 pagination), `pdftotext -enc UTF-8` → NFKC-normalised → de-hyphenated → whitespace-collapsed (61,160 chars). Confirmed **`squirrel` = 0, `calculus` = 0, `quantum mechanic` = 0, `rats` = 0** in the full text. Two genuine passages located and lifted verbatim: offsets **6464–6588** "What is closed to the mind of a rat may be open to the mind of a monkey, and what is open to us may be closed to the monkey." and offsets **9153–9243** "Presumably monkey minds and the property of being an electron illustrate this possibility." The *rat* is McGinn's; *calculus* and *quantum mechanics* were never his.
+- **Changes** (four loci, all repaired):
+  - **L3 `description`** (navigation surface): "like rats unable to grasp calculus" → "as the electron lies beyond a monkey's grasp". 155 chars, in band. Verified propagated to `hugo/content/concepts/mysterianism.md` (the YAML re-serialiser line-wraps it and doubles the apostrophes, so a naive `grep -cF` false-zeros on it).
+  - **L62 lead** (the attribution defect — a colon made the fabricated pairing McGinn's own illustration): "just as rats cannot do calculus and dogs cannot understand quantum mechanics" → his verified comparative-closure sentence, quoted verbatim. The quotation marks are now defensive: a future pass cannot silently re-paraphrase it into a fabrication.
+  - **L70**: replaced the rat/calculus illustration with McGinn's actual monkey/electron case, attributed to him explicitly ("McGinn's own case is …"). This was judged the better repair over the lighter touch of leaving it as the Map's own unattributed illustration — the paragraph opens "McGinn's key concept is *cognitive closure*", so an unattributed example sitting there would still read as his. Swapping to the verified example removes the ambiguity rather than relying on the reader to respect an attribution boundary. The *domain inaccessibility* vs *problem difficulty* contrast is preserved ("no amount of training would help, because the barrier is missing conceptual apparatus rather than difficulty").
+  - **L80**: "The rat does not feel the absence of calculus." → "The monkey does not feel the absence of the electron concept." Followed the L70 decision so the dependent was not stranded.
+- **Not changed** (deliberate): cognitive closure itself, transcendental naturalism, the domain-inaccessibility/problem-difficulty distinction, the self-concealing claim, the tool-extension objection, and all remaining McGinn attributions — all genuinely his. No widening into a retraction of the article's mysterianism.
+- **Length**: 3411 words before → 3434 after (+23). concepts 2500 soft / 3500 hard; `length.py` fires on `>= hard`, so usable ceiling 3499 — 65 words of headroom remain. Status unchanged at `soft_warning`.
+- **Fifth locus found and deferred, not silently left**: a corpus sweep for the removed strings surfaced `obsidian/research/mysterianism-cognitive-closure-2026-01-14.md` line 73 — *"Just as rats cannot do calculus and monkeys cannot understand quantum mechanics…"* — sitting under "**Key arguments**" of a section headed "Colin McGinn's Transcendental Naturalism". This is the **upstream seed** of the article defect, and leaving it live invites re-propagation (fix-by-file-leaves-string-siblings-live). Out of this task's authorised scope, so a P2 `refine-draft` task was minted instead (todo.md line 1819; verified through `tools.todo.processor.parse_tasks` as P2 / REFINE_DRAFT / PENDING with the correct `file_path`), carrying the verified offsets so the next pass does not have to re-fetch the primary.
+- **False alarm cleared**: `obsidian/voids/palette-extension-void.md` also matches `squirrel`, but it is "squirrel monkeys" in the Mancuso et al. (2009) gene-therapy result — a real empirical citation, unrelated to McGinn. No action.
+- **Published**: yes
+
+
+## 2026-09-19T11:05:00+00:00 - optimistic-review
+- **Status**: Success
+- **Wing**: Commitment-scoping (4 articles, all `concepts/`) — `supervenience` (1499w, 2000 headroom), `where-the-substance-commitment-enters` (1240w, 2259), `mind-arena` (1380w, 2119), `status-of-content` (1497w, 2002). Chosen because all four share one method — each bounds its own claim and says which layer a commitment enters at — and all four have 2000+ words of headroom, so expansion recommendations have somewhere to land. Meta-problem/illusionism cluster excluded per driver brief (saturated, at ceiling).
+- **Birch verdict**: no calibration concerns. `mind-arena` removes itself from the five-tier scale explicitly ("its credence tracks the tenets it presupposes rather than any independent evidence"); `where-the-substance-commitment-enters` takes Tenet 5's defeater-removal without converting it into a positive reason. Process Philosopher and Hardline Empiricist converge on the same passages, so no `refine-draft` minted on calibration grounds.
+- **Priority items**: 4, each with a verbatim locus verified unique on disk (`grep -cF` → 1) and a word size. Horgan superdupervenience in `supervenience` (absent corpus-wide, 0 files); the persisting subject's second home at Tenet 4 in `where-the-substance-commitment-enters` (asserted in a subordinate clause, developed in 0 files); the missing `supervenience` ↔ substance-commitment reciprocal (measured: 0 "agent" in one, 0 `[[supervenience]]` links in the other); `mind-arena` boundary-case operationalisation (not minted, left for the operator).
+- **Tasks minted**: 3, all on reviewed articles, all with `obsidian/`-prefixed paths and a `Type:` line; verified through `tools.todo.processor.parse_tasks` as P2/P2/P3 `refine-draft` / `pending` at lines 1781, 1793, 1806.
+- **Not certified**: the Lowe "unmoved movers" verbatim in `where-the-substance-commitment-enters` is carried as unverified, not as a strength. `status-of-content` works from secondary sources by its own admission — recorded as an expansion route, not a defect.
+- **Output**: [optimistic-2026-09-19-commitment-scoping-wing](/reviews/optimistic-2026-09-19-commitment-scoping-wing/)
 
 ## 2026-09-19T10:36:47+00:00 - condense
 - **Status**: Success

@@ -38,18 +38,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-### P2: `concepts/illusionism` is 326 words PAST the hard gate with no task against it — it is the only over-threshold file in the meta-problem cluster
+### NEEDS-HUMAN 2026-09-19: `concepts/illusionism` cleared the hard gate with only 25 words to spare — the remaining ~125 needs an operator decision
 
 - **Type**: condense
+- **Status**: blocked
+- **Blocked-by**: human-decision — choose option (a) or (b) in the Notes, or accept 3474 as the resting point
 - **File**: obsidian/concepts/illusionism.md
-- **Source**: cycle driver, 2026-09-19 09:4x UTC — found while scoping the claim-drift cross-review; the file was not flagged by anything
+- **Source**: cycle driver, 2026-09-19 10:4x UTC — residue of the condense at commit `a6ed38a3`, which correctly stopped short rather than cut review-installed calibration
 - **Generated**: 2026-09-19
-- **Notes**: **Measured by the driver 2026-09-19: 3825 words against concepts 2500/3500/5000 — `hard_warning`, 326 words PAST the hard threshold** (`length.py` fires on `>= hard`). **No open task referenced this file's length**, which is why it has drifted: the three tasks that touch `concepts/illusionism` all target single glosses or cross-links, so each one correctly refused to add words and none of them owned the overflow. **Target ~3300–3400**, i.e. 425–525 words out, which restores a working budget rather than just clearing the line.
-  ⚠️ **THIS FILE IS A DEMOTION TARGET AND A CITATION RISK AT THE SAME TIME — read both warnings before cutting.**
-  **(a) Register-bearing prose installed today must survive.** The claim-drift cross-review (commit `dd2111db`) rewrote L178's Further Reading gloss to *"How interactionism removes a defeater without raising dualism's probability"* — that phrasing is the **target register** the whole cluster is being brought into line with, and it was word-counted to land the file at **exactly ±0**. Do not restore the stronger wording and do not trim it for being wordy; it is precise, not padded.
-  **(b) Do not trust "citation-verified clean" on this cluster.** Two fabricated McGinn illustrations were found today in sibling articles, one of which had survived **22 prior deep reviews including two full publisher-of-record citation audits** — the ledger ratifies the *metadata*, never the article's *reading* of the source (citation-ledger-ratifies-the-reading-not-just-the-metadata). A live P2 targets a second McGinn fabrication in `concepts/mysterianism`. **If a passage here rests on a quotation, verify it at the primary before deciding it is expendable** — and if it turns out fabricated, that is a correction, not a cut.
-  **WHERE THE SLACK IS LIKELY TO BE**, driver's read — verify before acting: this is a hub article, and hub articles accrete cross-link sentences that no review ever reads (outbound-crosslink-sentences-are-never-reviewed-by-anyone, hub-articles-accrete-crosslink-length). Prefer condensing accreted crosslink prose and expository background that neighbouring articles already carry, over argument sections.
-  ⚠️ **Before cutting any sentence run `git log -S "<the sentence>" -- obsidian/concepts/illusionism.md`** — a sentence installed by a review is load-bearing even when nothing quotes it, and its commit often names a *different* article (trimming-for-budget-can-strand-a-live-refutation). `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees; report before/after `analyze_length`.
+- **Notes**: **OPERATOR DECISION — recorded so the loop stops re-deriving it, NOT so the loop fixes it.** The condense took the file **3825 → 3474** (−351), `hard_warning` → `soft_warning`. Concepts 2500/3500/5000, `length.py` fires on `>= hard` → usable ceiling 3499, so there are **25 words of headroom**. The task's own target was 3300–3400 and the executing pass **declined to reach it**, which I judge correct: the remaining ~125 words would have had to come from review-installed calibration or genuinely dense argument.
+  **WHY THERE IS SO LITTLE LEFT TO TAKE.** `git log -S` on this file shows **essentially the whole article is review-installed** — `3fc04dd158` (Frankish engagement) owns the entire Bridge section, `ae66ac590a` owns all of the AST calibration (the retired Hard/Soft-binary fix), `97d938f8c3` owns both epiphenomenalism provisos, `26abe933ff` owns the lead's Frankish label and the contemplative-practice falsifier. The one real defect — **the regress reply stated three times** (`a representational system need not instantiate what it represents` verbatim twice, plus the map/mountain analogy twice more) — has been taken. Post-pass composition: **prose 2842, reference apparatus 544 (16%), headings ~88.**
+  **OPTION (a) — strip the `### Site Content` Further Reading glosses (~140 words).** ⚠️ **I recommend against, and so did the executing pass.** These are the LLM-first disambiguation layer CLAUDE.md names as the site's primary-audience feature, and **the `concepts/theory-of-mind` operator decision already rejected exactly this cut**. `### External Sources` is 18 bare citations with no glosses — nothing strippable there without losing references.
+  **OPTION (b) — extract `### The Meta-Representational Bridge to Felt Unity` (269 words) to `concepts/functional-seeming`.** That host measures **1713 words, `ok`, 1786 of headroom** (verified this run) and already owns Frankish's positive programme. ⚠️ **BUT THE EXECUTING PASS UNDERCOUNTED THE COST, and this is the part to weigh.** It reported that "two review files" anchor `illusionism#The Meta-Representational Bridge to Felt Unity`. **Measured by the driver: there is also a LIVE ARTICLE referrer — `concepts/zombie-master-argument.md`** (plus four review files and one archived changelog). So option (b) breaks a live inbound anchor and requires repointing that article in the same commit; it is not a reviews-only cost. It is also a genuine move rather than a dedup — the map analogy, the "bridge owes a mechanism" framing and the constitutive/referring link are **absent** from `functional-seeming` — so it drops unreviewed prose into a secondary host (secondary-host-insertions-skip-the-source-fidelity-pass).
+  **OPTION (c) — accept 3474.** Defensible, but note 25 words will not absorb the next cross-link, and this file takes one every few cycles; the next one re-trips `hard_warning`.
+  ℹ️ **Related, now stale**: the live P3 asking for `[[first-order-representationalism]]` on this article says "add via frontmatter only, no body prose" *because* the file was over the ceiling. That premise has changed, though 25 words is still not enough for body prose — the frontmatter-only instruction stands on the new numbers too.
+
 
 ### P2: `concepts/mysterianism` attributes two fabricated illustrations to McGinn (1989)
 - **Type**: refine-draft
@@ -1778,8 +1781,68 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **Scope caution**: the article's `description` already advertises "an honest engagement with Attention Schema Theory", and the body may well contain that fuller engagement further down — check before assuming the lead reflects the whole treatment. If the body engagement is adequate, the defect is narrower than it looks and the fix is confined to the lead sentence and the description, which is the length-neutral outcome to prefer.
   **Not a duplicate**: the two other open blocks naming this file are the 2026-07-31 Tallis citation-policy NEEDS-HUMAN entry and the 2026-06-21 human editorial merge survey — neither touches AST.
 
+### P2: `concepts/supervenience` — add Horgan's superdupervenience (a materialist conceding the article's own lead claim)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/supervenience.md
+- **Review file**: `reviews/optimistic-2026-09-19-commitment-scoping-wing.md`
+- **Source**: optimistic-review
+- **Generated**: 2026-09-19
+- **Headroom**: 1499 words, hard gate 3500 — 2000 words of headroom measured this run with `analyze_length`. This is an additive task; no condensing pressure.
+- **Notes**: **Insertion locus (verbatim, verified unique on disk 2026-09-19 with `grep -cF` → 1):** insert a new `###` subsection immediately after the paragraph beginning *"Physicalists sometimes respond that other inter-level relations (temperature supervening on molecular motion) involve similar explanatory "gaps.""*
+  **What to add (~350 words)**: Terence Horgan's argument that bare supervenience is explanatorily idle and that materialism owes *superdupervenience* — supervenience that is itself explainable in materialistically acceptable terms. The dialectical value is that this is a **materialist** conceding precisely what the article's lead asserts (*"Supervenience describes a pattern; it does not explain it."*). Connect it to the article's existing nomological-necessity position: the Map can accept Horgan's explanatory demand and discharge it with psychophysical laws; the physicalist owes a materialistically acceptable discharge and has not supplied one. Do not overclaim — Horgan is arguing *for* materialism's reform, not against materialism.
+  **Coverage check already done**: "superdupervenience" appears in **0 files** corpus-wide (`grep -rcF` across `obsidian/`). `obsidian/concepts/physical-completeness.md` and `obsidian/concepts/type-specificity.md` each use the phrase "explanatory demand" once but contain **0 occurrences of "superven"** — neither runs this argument. Not a duplicate.
+  **Citation discipline**: verify the Horgan reference at the publisher before it lands (the relevant work is his *Mind* paper on meeting the demands of a material world); do not accept a from-memory volume/page. The article's existing reference list is unnumbered-by-`1.` style — match it.
+
+### P2: `concepts/where-the-substance-commitment-enters` — develop the second home of the persisting subject (Tenet 4 / indexical identity)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/where-the-substance-commitment-enters.md
+- **Review file**: `reviews/optimistic-2026-09-19-commitment-scoping-wing.md`
+- **Source**: optimistic-review
+- **Generated**: 2026-09-19
+- **Headroom**: 1240 words, hard gate 3500 — 2259 words of headroom measured this run with `analyze_length`. Additive task.
+- **Notes**: **Insertion locus (verbatim, verified unique on disk 2026-09-19 with `grep -cF` → 1):** the sentence *"Second, agent causation is not the only place a persisting subject does work—the self-opacity voids and the indexical-identity argument against [many-worlds](/concepts/many-worlds/) also lean on one—but agency is its clearest and most load-bearing home."* Promote that clause into its own `##` section placed after "Why Agent Causation Needs a Persisting Subject".
+  **Why this is the highest-value expansion on the page**: the article's entire purpose is to stop the substance-leaning from drifting by naming exactly where it enters — and it then names a *second* entry point in a subordinate clause and drops it. If the Tenet 4 argument (indexical identity against many-worlds) genuinely needs a persisting subject — "which branch am I on?" presupposes a subject whose identity is not exhausted by branch-relative properties — then the page's own diagnostic table is missing a row, and the table is the page's most-used artefact.
+  **Coverage check already done**: `obsidian/concepts/indexical-knowledge-and-identity.md` contains **0 occurrences of "persisting"** and 1 of "substance"; `obsidian/topics/indexical-identity-quantum-measurement.md` contains **0 occurrences of each**. The claim is asserted on this page and developed nowhere in the corpus. Not a duplicate.
+  **Size**: ~400 words plus one new row in the diagnostic table.
+  **Keep the verdict conditional.** Finding that the Tenet 4 argument survives on a property-only reading is an equally good outcome and should be written up as such — in that case the correct edit is to *narrow* the existing clause rather than expand it, and the table stays as it is. Do not manufacture a substance requirement to justify the section.
+
+### P3: `concepts/supervenience` ↔ `concepts/where-the-substance-commitment-enters` — install the missing reciprocal and state the agent-causal supervenience base
+- **Type**: refine-draft
+- **File**: obsidian/concepts/supervenience.md
+- **Also touches**: obsidian/concepts/where-the-substance-commitment-enters.md
+- **Review file**: `reviews/optimistic-2026-09-19-commitment-scoping-wing.md`
+- **Source**: optimistic-review
+- **Generated**: 2026-09-19
+- **Notes**: **Measured gap (on disk 2026-09-19):** `obsidian/concepts/supervenience.md` contains **0 occurrences of "agent"**. `obsidian/concepts/where-the-substance-commitment-enters.md` contains **1** occurrence of "supervene" and **0** wikilinks to `[[supervenience]]`. These two articles are one question apart and neither asks it.
+  **The question**: the supervenience page's lead commits the Map to "no change in experience without some change in the brain"; the substance page's agent-causal reading has a volition with "no *event*-cause but does have an *agent*-cause". Does an agent-caused volition have a supervenience base? The likely answer is benign — supervenience constrains *which experiences are possible given* a physical state and says nothing about what caused that state to obtain — but "likely benign and never stated" is exactly what this commitment-scoping wing exists to eliminate.
+  **Two edits, sized**: (1) ~250 words as a `###` subsection in `obsidian/concepts/supervenience.md` under "Supervenience and the Exclusion Argument", linking `[[agent-causation]]` and `[[where-the-substance-commitment-enters]]`; (2) **zero word cost** in the substance article — convert the existing "supervene" in *"A property-only reading—on which mental properties supervene on a physical substrate without any substance bearing them—struggles to supply it."* into a piped wikilink `[[supervenience|supervene]]`.
+  **Do both files or neither** — a one-sided fix leaves the reciprocal missing, which is the defect being repaired. Sync both trees; `hugo/content/concepts/` must not be left stale.
+
+
+### P2: `research/mysterianism-cognitive-closure-2026-01-14` — remove the fabricated McGinn illustration that seeded the article defect
+- **Type**: refine-draft
+- **File**: obsidian/research/mysterianism-cognitive-closure-2026-01-14.md
+- **Source**: refine-draft (2026-09-19 fix of `concepts/mysterianism`)
+- **Generated**: 2026-09-19
+- **Notes**: **This is the upstream seed of the defect just repaired in `concepts/mysterianism`.** Line 73 of the research note reads, under "**Key arguments**" of a section headed "Colin McGinn's Transcendental Naturalism": *"Just as rats cannot do calculus and monkeys cannot understand quantum mechanics, humans may be unable to grasp property \"P\" that links consciousness to brain"*. The bullet sits in a list attributed to McGinn, so it presents the illustration as his.
+  **Verified against the primary this run**: McGinn 1989, *Mind* 98(391):349–366, PDF from informationphilosopher.com, `pdftotext -enc UTF-8` + NFKC + de-hyphenation (61,160 chars normalised). `calculus` = **0**, `quantum mechanic` = **0**, `squirrel` = **0**, `rats` = **0**. The illustration does not exist in the paper.
+  **The genuine material, verbatim, with offsets in that normalised text**: 6464–6588 *"What is closed to the mind of a rat may be open to the mind of a monkey, and what is open to us may be closed to the monkey."* and 9153–9243 *"Presumably monkey minds and the property of being an electron illustrate this possibility."* Note the **rat is genuinely McGinn's** — only *calculus* and *quantum mechanics* are fabricated. Do not sweep the rat out.
+  **Suggested fix**: replace the bullet with the rat/monkey comparative-closure line plus the monkey/electron case. Length is not a constraint on research notes.
+  **Do not delete the note or the McGinn attribution** — the metadata is correct; this is a reading-fidelity repair. Sync afterwards: `hugo/content/research/mysterianism-cognitive-closure-2026-01-14.md` carries the same string at line 75 and must not be left stale.
+
+
 ## Completed Tasks
 
+
+### ✓ 2026-09-19: `concepts/illusionism` is 326 words PAST the hard gate with no task against it — it is the only over-threshold file in the meta-problem cluster
+- **Type**: condense
+- **File**: obsidian/concepts/illusionism.md
+- **Notes**: **Measured by the driver 2026-09-19: 3825 words against concepts 2500/3500/5000 — `hard_warning`, 326 words PAST the hard threshold** (`length.py` fires on `>= hard`). **No open task referenced this file's length**, which is why it has drifted: the three tasks that touch `concepts/illusionism` all target single glosses or cross-links, so each one correctly refused to add words and none of them owned the overflow. **Target ~3300–3400**, i.e. 425–525 words out, which restores a working budget rather than just clearing the line.
+  ⚠️ **THIS FILE IS A DEMOTION TARGET AND A CITATION RISK AT THE SAME TIME — read both warnings before cutting.**
+  **(a) Register-bearing prose installed today must survive.** The claim-drift cross-review (commit `dd2111db`) rewrote L178's Further Reading gloss to *"How interactionism removes a defeater without raising dualism's probability"* — that phrasing is the **target register** the whole cluster is being brought into line with, and it was word-counted to land the file at **exactly ±0**. Do not restore the stronger wording and do not trim it for being wordy; it is precise, not padded.
+  **(b) Do not trust "citation-verified clean" on this cluster.** Two fabricated McGinn illustrations were found today in sibling articles, one of which had survived **22 prior deep reviews including two full publisher-of-record citation audits** — the ledger ratifies the *metadata*, never the article's *reading* of the source (citation-ledger-ratifies-the-reading-not-just-the-metadata). A live P2 targets a second McGinn fabrication in `concepts/mysterianism`. **If a passage here rests on a quotation, verify it at the primary before deciding it is expendable** — and if it turns out fabricated, that is a correction, not a cut.
+  **WHERE THE SLACK IS LIKELY TO BE**, driver's read — verify before acting: this is a hub article, and hub articles accrete cross-link sentences that no review ever reads (outbound-crosslink-sentences-are-never-reviewed-by-anyone, hub-articles-accrete-crosslink-length). Prefer condensing accreted crosslink prose and expository background that neighbouring articles already carry, over argument sections.
+  ⚠️ **Before cutting any sentence run `git log -S "<the sentence>" -- obsidian/concepts/illusionism.md`** — a sentence installed by a review is load-bearing even when nothing quotes it, and its commit often names a *different* article (trimming-for-budget-can-strand-a-live-refutation). `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees; report before/after `analyze_length`.
 
 ### ✓ 2026-09-19: the concept page's careful "removes a defeater, adds no positive evidence" hedge is contradicted by neighbours that state the same claim as established
 - **Type**: cross-review

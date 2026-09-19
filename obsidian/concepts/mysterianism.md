@@ -1,10 +1,10 @@
 ---
 title: "Mysterianism and Cognitive Closure"
-description: "McGinn's cognitive closure thesis: human minds may be constitutionally unable to solve the mind-body problem, like rats unable to grasp calculus."
+description: "McGinn's cognitive closure thesis: human minds may be constitutionally unable to solve the mind-body problem, as the electron lies beyond a monkey's grasp."
 created: 2026-01-15
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-08-20T13:52:59+00:00
+ai_modified: 2026-09-19T11:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -59,7 +59,7 @@ coalesced_from:
   - "/concepts/cognitive-closure/"  # re-coalesced 2026-03-24
 ---
 
-Mysterianism is the view that the [[hard-problem-of-consciousness|hard problem of consciousness]] (Chalmers 1995) cannot be solved by human minds—not because consciousness is supernatural but because our cognitive architecture lacks the [[epistemology|epistemological]] resources to grasp the solution. Colin McGinn formalized this position in 1989 through the concept of "cognitive closure": just as rats cannot do calculus and dogs cannot understand quantum mechanics, humans may be permanently unable to understand how consciousness relates to the brain. The solution might exist; we just can't reach it.
+Mysterianism is the view that the [[hard-problem-of-consciousness|hard problem of consciousness]] (Chalmers 1995) cannot be solved by human minds—not because consciousness is supernatural but because our cognitive architecture lacks the [[epistemology|epistemological]] resources to grasp the solution. Colin McGinn formalized this position in 1989 through the concept of "cognitive closure": "What is closed to the mind of a rat may be open to the mind of a monkey, and what is open to us may be closed to the monkey." Humans may be permanently unable to understand how consciousness relates to the brain. The solution might exist; we just can't reach it.
 
 This position occupies important middle ground. Unlike eliminativism, mysterianism takes consciousness seriously as a real phenomenon requiring explanation. Unlike confident physicalism or dualism, it acknowledges the depth of the problem. The position strongly supports the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet: our sense of which explanations are "simple" may reflect our cognitive limitations rather than reality.
 
@@ -67,7 +67,7 @@ This position occupies important middle ground. Unlike eliminativism, mysteriani
 
 ## Cognitive Closure
 
-McGinn's key concept is *cognitive closure*. A type of mind M is cognitively closed with respect to a property P if M's concept-forming procedures cannot extend to a grasp of P. The property exists; M simply cannot conceive it. The distinction is between *domain inaccessibility* and *problem difficulty*—a rat cannot grasp calculus regardless of training time, not because calculus is hard but because the relevant conceptual apparatus is missing from rat cognitive architecture.
+McGinn's key concept is *cognitive closure*. A type of mind M is cognitively closed with respect to a property P if M's concept-forming procedures cannot extend to a grasp of P. The property exists; M simply cannot conceive it. The distinction is between *domain inaccessibility* and *problem difficulty*—McGinn's own case is the monkey and the property of being an electron: no amount of training would help, because the barrier is missing conceptual apparatus rather than difficulty.
 
 McGinn argues that the property linking consciousness to brain is closed to humans because of how we access each side. **Consciousness** is accessed through [[introspection]], which reveals nothing about neural mechanisms. **The brain** is accessed through perception and scientific investigation, which reveal nothing about why neural activity should feel like anything. Neither mode reveals the *connection*. The [[commensurability-void]] extends this insight to inter-mind comparison: if our concept-forming procedures cannot bridge the gap between *our* experience and *another architecture's* experience, the comparison itself is cognitively closed. This asymmetric access shapes how [[cognitive-science-of-dualism|cognitive science studies consciousness]]: third-person methods capture neural correlates while depending on first-person report to know what those correlates are correlates *of*.
 
@@ -77,7 +77,7 @@ McGinn calls this "transcendental naturalism": the solution is natural but trans
 
 Cognitive closure is easily confused with [[causal-closure|causal closure of the physical]], but the two are independent. Causal closure is an ontological thesis (every physical event has a sufficient physical cause); cognitive closure is an epistemic thesis (certain properties lie permanently beyond a given mind's conceptual reach). A third concept—[[observational-closure]]—concerns what we can *measure*: no detectable violations of physical causal completeness, even if mental causation is real. If consciousness operates through mechanisms that are both cognitively opaque and observationally invisible, the mind-body problem resists both theoretical solution and empirical resolution.
 
-Crucially, cognitive closure is self-concealing. [[inventory-blindness|Inventory blindness]] ensures that a closed mind experiences its conceptual repertoire as complete rather than restricted. The rat does not feel the absence of calculus. If humans are cognitively closed with respect to the consciousness-physics link, we should expect the closure to be invisible from the inside.
+Crucially, cognitive closure is self-concealing. [[inventory-blindness|Inventory blindness]] ensures that a closed mind experiences its conceptual repertoire as complete rather than restricted. The monkey does not feel the absence of the electron concept. If humans are cognitively closed with respect to the consciousness-physics link, we should expect the closure to be invisible from the inside.
 
 ## Developmental Cognitive Closure
 
