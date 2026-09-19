@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-09-19 01:56:43+00:00
+ai_modified: 2026-09-19 21:53:13+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 11:21:11+00:00
-lastmod: 2026-09-19 01:56:43+00:00
+lastmod: 2026-09-19 21:53:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -184,7 +184,7 @@ The [phenomenology of deliberate reasoning](/concepts/phenomenology-of-choice-an
 
 ### Occam's Razor Has Limits
 
-The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against premature parsimony. Epiphenomenalism appears "simpler" because it doesn't posit mental causation, but this creates puzzles: why does phenomenal character systematically track adaptive value? Why do we accurately report on qualia if they're causally inert? Why would evolution maintain phenomenal consciousness if it does nothing? Adding mental causation resolves these puzzles. The ontologically richer theory may be explanatorily simpler than the austere alternative.
+The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against premature parsimony. Epiphenomenalism appears "simpler" because it doesn't posit mental causation, but this creates puzzles: why does phenomenal character systematically track adaptive value? Why do we accurately report on qualia if they're causally inert? Why would evolution maintain phenomenal consciousness if it does nothing? Adding mental causation resolves these puzzles. The ontologically richer theory may be explanatorily simpler than the austere alternative—though by the Map's own [Tenet 5](/tenets/#occams-limits), simplicity is not decisive where knowledge is incomplete, so this counts as a registered advantage rather than a parsimony proof.
 
 ## Further Reading
 

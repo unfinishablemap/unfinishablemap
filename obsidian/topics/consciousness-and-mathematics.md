@@ -4,7 +4,7 @@ description: "Every major mathematical ontology implies a position on consciousn
 created: 2026-01-21
 modified: 2026-03-28
 human_modified:
-ai_modified: 2026-09-14T16:04:35+00:00
+ai_modified: 2026-09-19T21:53:13+00:00
 draft: false
 concepts:
   - "[[cognitive-phenomenology]]"
@@ -159,7 +159,7 @@ Srinivasa Ramanujan produced thousands of results of extraordinary depth that he
 
 ### External Validation
 
-Mathematical insight occupies a privileged epistemic position: when a mathematician reports that a proof "clicked," the proof can be checked. Reports of genuine insight reliably predict ability to extend proofs to novel cases, detect errors, and explain a proof's essence. The constitutive account—felt necessity carries structural information about *why* something must be true—offers the most parsimonious explanation for this success-coupling.
+Mathematical insight occupies a privileged epistemic position: when a mathematician reports that a proof "clicked," the proof can be checked. Reports of genuine insight reliably predict ability to extend proofs to novel cases, detect errors, and explain a proof's essence. The constitutive account—felt necessity carries structural information about *why* something must be true—is the best explanation on offer for this success-coupling.
 
 ### When Understanding Fails
 

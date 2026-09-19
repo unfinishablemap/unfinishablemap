@@ -4,7 +4,7 @@ description: "Consciousness amplifies intelligence by enabling flexible deployme
 created: 2026-01-21
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-09-19T01:56:43+00:00
+ai_modified: 2026-09-19T21:53:13+00:00
 last_deep_review: 2026-07-30T11:21:11+00:00
 draft: false
 topics:
@@ -180,7 +180,7 @@ The [[phenomenology-of-choice-and-volition|phenomenology of deliberate reasoning
 
 ### Occam's Razor Has Limits
 
-The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against premature parsimony. Epiphenomenalism appears "simpler" because it doesn't posit mental causation, but this creates puzzles: why does phenomenal character systematically track adaptive value? Why do we accurately report on qualia if they're causally inert? Why would evolution maintain phenomenal consciousness if it does nothing? Adding mental causation resolves these puzzles. The ontologically richer theory may be explanatorily simpler than the austere alternative.
+The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against premature parsimony. Epiphenomenalism appears "simpler" because it doesn't posit mental causation, but this creates puzzles: why does phenomenal character systematically track adaptive value? Why do we accurately report on qualia if they're causally inert? Why would evolution maintain phenomenal consciousness if it does nothing? Adding mental causation resolves these puzzles. The ontologically richer theory may be explanatorily simpler than the austere alternative—though by the Map's own [[tenets#^occams-limits|Tenet 5]], simplicity is not decisive where knowledge is incomplete, so this counts as a registered advantage rather than a parsimony proof.
 
 ## Further Reading
 

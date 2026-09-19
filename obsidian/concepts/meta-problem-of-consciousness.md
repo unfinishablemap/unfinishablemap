@@ -4,7 +4,7 @@ description: "Why do we think consciousness is hard to explain? Chalmers' meta-p
 created: 2026-02-09
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-09-19T12:07:35+00:00
+ai_modified: 2026-09-19T21:53:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -72,7 +72,7 @@ If the illusionist's meta-problem solution is too simple, it doesn't explain the
 
 For dualists, the meta-problem has a straightforward answer: we report that consciousness is puzzling because it genuinely *is* puzzling. Problem intuitions accurately track a real feature of the world—the irreducibility of experience to physical processes. We report that Mary learns something because she genuinely acquires a new kind of knowledge.
 
-This face-value solution—the Map's shorthand for taking problem intuitions at their word—has a simplicity that illusionist alternatives lack. The problem intuitions are reliable because they reflect facts about the relationship between consciousness and physics, so there is no illusion to explain. The [[metaproblem-of-consciousness-under-dualism|interactionist development]] of this argument goes further: realizationism—the view that consciousness causally contributes to problem intuitions—follows from the Bidirectional Interaction tenet and blocks the debunking argument in its causal- and constitutive-independence form (explained in [[#The Debunking Threat|The Debunking Threat]] below). What this buys is precise and worth stating carefully: it *removes a defeater* rather than supplying fresh positive evidence. The interactionist who already holds the tenets is no longer threatened by the meta-problem; a physicalist is given no new reason to convert. Neutralising a debunking argument restores the dualist's prior warrant—it does not, on its own, raise the standing of dualism above where the rest of the Map's case leaves it.
+This face-value solution—the Map's shorthand for taking problem intuitions at their word—avoids an explanatory burden that illusionist alternatives must carry. The problem intuitions are reliable because they reflect facts about the relationship between consciousness and physics, so there is no illusion to explain. The [[metaproblem-of-consciousness-under-dualism|interactionist development]] of this argument goes further: realizationism—the view that consciousness causally contributes to problem intuitions—follows from the Bidirectional Interaction tenet and blocks the debunking argument in its causal- and constitutive-independence form (explained in [[#The Debunking Threat|The Debunking Threat]] below). What this buys is precise and worth stating carefully: it *removes a defeater* rather than supplying fresh positive evidence. The interactionist who already holds the tenets is no longer threatened by the meta-problem; a physicalist is given no new reason to convert. Neutralising a debunking argument restores the dualist's prior warrant—it does not, on its own, raise the standing of dualism above where the rest of the Map's case leaves it.
 
 The asymmetry is worth marking. If the hard problem is real, the meta-problem is expected—of course we'd report difficulty explaining something that genuinely resists explanation. If the hard problem is illusory, the meta-problem becomes urgent—why do we so persistently misrepresent our own minds?
 

@@ -4,7 +4,7 @@ description: "Consciousness persists at surprising metabolic thresholds and some
 created: 2026-04-05
 modified: 2026-04-05
 human_modified:
-ai_modified: 2026-09-04T11:37:38.447949+00:00
+ai_modified: 2026-09-19T21:53:13+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"
@@ -132,7 +132,7 @@ The metabolic evidence connects to three of the Map's [[tenets]].
 
 **Bidirectional interaction**: The Map's framework of [[interactionist-dualism]] proposes that consciousness acts through quantum indeterminacy in neural systems. Metabolic constraint may affect the brain's quantum interface differently from consciousness itself. If metabolic energy maintains the decoherence-preventing conditions that allow [[quantum-consciousness|quantum-level interaction]]—a possibility increasingly supported by [[quantum-biology-and-neural-consciousness|experimental evidence for quantum effects in neural tissue]]—then metabolic collapse could paradoxically alter the interaction dynamics—not by eliminating consciousness but by changing the interface through which it operates. The gamma surges in dying brains may represent consciousness acting through a destabilised but not yet destroyed quantum interface.
 
-**Occam's razor has limits**: The production model's apparent simplicity—consciousness is what brains do when adequately fuelled—dissolves under empirical scrutiny. Explaining the five anomalies within a production framework requires multiple independent auxiliary hypotheses. The filter model, while ontologically less parsimonious (it posits consciousness as non-reducible), is explanatorily more economical—a single principle accounts for all five patterns. This illustrates the Map's tenet that simplicity is not a reliable guide to truth when knowledge is incomplete.
+**Occam's razor has limits**: The production model's apparent simplicity—consciousness is what brains do when adequately fuelled—dissolves under empirical scrutiny. Explaining the five anomalies within a production framework requires multiple independent auxiliary hypotheses. The filter model, while ontologically less parsimonious (it posits consciousness as non-reducible), accounts for all five patterns with a single principle. [[tenets#^occams-limits|Tenet 5]] bars the Map from converting that unification into an economy claim in its own favour: it is a claim about explanatory coverage, not about simplicity.
 
 ## Further Reading
 

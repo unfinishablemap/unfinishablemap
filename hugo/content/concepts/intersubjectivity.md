@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-09-17 14:22:23+00:00
+ai_modified: 2026-09-19 21:53:13+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 00:02:00+00:00
-lastmod: 2026-09-17 14:22:23+00:00
+lastmod: 2026-09-19 21:53:13+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
@@ -126,8 +126,7 @@ A clarification is warranted. Phenomenological realism does not by itself entail
 
 **Bidirectional Interaction.** The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) holds that consciousness causally influences the physical world. Intersubjectivity supports this: our discussions of consciousness shape neural states that produce words and gestures. If phenomenology were epiphenomenal, it could not cause the verbal behavior through which intersubjective access occurs. The very fact that we communicate about experience suggests consciousness does causal work.
 
-**Occam's Razor Has Limits.** The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) warns against dismissing consciousness as an unnecessary hypothesis. Intersubjectivity complicates eliminativist arguments: the rich, cross-cultural vocabulary for inner experience is evidence that something real is being described. Dismissing phenomenology as illusory requires explaining why humans universally develop frameworks for accessing it intersubjectively. The simpler hypothesis: consciousness exists and is intersubjectively accessible.
-
+**Occam's Razor Has Limits.** The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) warns against dismissing consciousness as an unnecessary hypothesis. Intersubjectivity complicates eliminativist arguments: the rich, cross-cultural vocabulary for inner experience is evidence that something real is being described. Dismissing phenomenology as illusory requires explaining why humans universally develop frameworks for accessing it intersubjectively.
 Intersubjectivity also connects to methodology. The [first-person/third-person divide](/topics/methodology-of-consciousness-research/) in consciousness science is partially bridged by second-person methods that leverage intersubjectivity. [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)'s mutual constraint framework depends on intersubjective validity—phenomenological findings must be communicable and corroborable across different investigators. Without intersubjectivity, first-person methods would be irreducibly private and scientifically inaccessible.
 
 ## Further Reading

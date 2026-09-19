@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T21:38:00+00:00'
+ai_modified: '2026-09-19T21:53:13+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-19T21:53:13+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/consciousness-as-amplifier]] (primary; five files in one pass)
+- **Task**: queue line 1851, P2 — Tenet-5 self-binding, from [[reviews/tenet-check-2026-09-19]] priority finding 1. Map-voice parsimony verdicts stated with no guard, against `tenets.md` L145/L147 and register entry **P-M1**. Locus (a) `concepts/bidirectional-interaction` was already repaired at ~17:35 by commit `57c01f42` and was **not touched** this run (verified: defect sentence + guard clause each 1 occurrence, left as-is). Five loci fixed, not six.
+- **Changes**: each fix converts an unearned *parsimony verdict* into a registered advantage or an explanatory-coverage claim. None concedes that the Map's argument fails.
+  - **(b) `concepts/consciousness-as-amplifier`** L183 — guard clause lifted **verbatim** from the corpus-approved `concepts/epiphenomenalism` L140 patch (matching wording across the family is the point; the defect recurred through six consecutive tenet checks partly because each repair invented its own phrasing). Before: *"The ontologically richer theory may be explanatorily simpler than the austere alternative."* After: same sentence + *"—though by the Map's own [[tenets#^occams-limits|Tenet 5]], simplicity is not decisive where knowledge is incomplete, so this counts as a registered advantage rather than a parsimony proof."* Length 3262 → 3288 (`soft_warning` both; 237 → 211 free of concepts hard 3500).
+  - **(c) `topics/consciousness-under-extreme-metabolic-constraint`** L135 — the aggravated case: it cited Tenet 5 as if the tenet *licensed* the move the tenet forbids. Before: *"…is explanatorily more economical—a single principle accounts for all five patterns. This illustrates the Map's tenet that simplicity is not a reliable guide to truth when knowledge is incomplete."* After: *"…accounts for all five patterns with a single principle. [[tenets#^occams-limits|Tenet 5]] bars the Map from converting that unification into an economy claim in its own favour: it is a claim about explanatory coverage, not about simplicity."* Length 2805 → 2812 (`ok` both; 1194 → 1187 free).
+  - **(d) `concepts/intersubjectivity`** L126 — sentence deleted. *"The simpler hypothesis: consciousness exists and is intersubjectively accessible."* was the closing line of the article's own `**Occam's Razor Has Limits.**` paragraph and the file's only `simpl-` occurrence; nothing depended on it. Length 2637 → 2628 (`soft_warning` both; 862 → 871 free).
+  - **(e) `topics/consciousness-and-mathematics`** L162 — *"offers the most parsimonious explanation for this success-coupling"* → *"is the best explanation on offer for this success-coupling"*. Removes an asymmetry: the same article's L198 already denies the physicalist exactly this move, 36 lines away. Length 3227 → 3228 (`soft_warning` both; 772 → 771 free).
+  - **(f) `concepts/meta-problem-of-consciousness`** L75 — *"has a simplicity that illusionist alternatives lack"* → *"avoids an explanatory burden that illusionist alternatives must carry"* (+2 words, as budgeted — this was the tightest file). Its topic sibling already does the disciplined thing on identical material. Length 3354 → 3356 (`soft_warning` both; **145 → 143 free** of concepts hard 3500 — still the tightest in the family).
+- **Scope held**: the ~14 further loci in the review's secondary section were left alone by design; `concepts/quantum-completeness` L110 stays on its own task; the root-cause "tiebreaker rule" is a human decision logged separately and was not acted on.
+- **Verification**: all five loci matched **by string, not line number** (several of these files changed earlier today); each removed string now greps 0 and each added string greps 1 in **both** `obsidian/` and `hugo/content/`. The `tenets#^occams-limits` anchor resolves (`tenets.md` L131) and renders as `/tenets/#occams-limits` in both new instances — no push-blocking wikilink. `ai_modified` set to `2026-09-19T21:53:13+00:00` on all five, strictly past a live `date -u` of `21:53:15`.
+- **Published**: yes
 
 ## 2026-09-19T21:38:00+00:00 - refine-draft
 - **Status**: Success

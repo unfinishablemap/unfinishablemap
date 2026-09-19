@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-09-14 16:04:35+00:00
+ai_modified: 2026-09-19 21:53:13+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 00:08:09+00:00
-lastmod: 2026-09-14 16:04:35+00:00
+lastmod: 2026-09-19 21:53:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -162,7 +162,7 @@ Srinivasa Ramanujan produced thousands of results of extraordinary depth that he
 
 ### External Validation
 
-Mathematical insight occupies a privileged epistemic position: when a mathematician reports that a proof "clicked," the proof can be checked. Reports of genuine insight reliably predict ability to extend proofs to novel cases, detect errors, and explain a proof's essence. The constitutive account—felt necessity carries structural information about *why* something must be true—offers the most parsimonious explanation for this success-coupling.
+Mathematical insight occupies a privileged epistemic position: when a mathematician reports that a proof "clicked," the proof can be checked. Reports of genuine insight reliably predict ability to extend proofs to novel cases, detect errors, and explain a proof's essence. The constitutive account—felt necessity carries structural information about *why* something must be true—is the best explanation on offer for this success-coupling.
 
 ### When Understanding Fails
 

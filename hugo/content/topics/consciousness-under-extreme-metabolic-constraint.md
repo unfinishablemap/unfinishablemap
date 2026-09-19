@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-05
-ai_modified: 2026-09-04 11:37:38.447949+00:00
+ai_modified: 2026-09-19 21:53:13+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 author: null
 concepts:
@@ -25,7 +25,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-13 17:42:20+00:00
-lastmod: 2026-09-04 11:37:38.447949+00:00
+lastmod: 2026-09-19 21:53:13+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-neurodegenerative-disease]]'
@@ -136,7 +136,7 @@ The metabolic evidence connects to three of the Map's [tenets](/tenets/).
 
 **Bidirectional interaction**: The Map's framework of [interactionist-dualism](/concepts/interactionist-dualism/) proposes that consciousness acts through quantum indeterminacy in neural systems. Metabolic constraint may affect the brain's quantum interface differently from consciousness itself. If metabolic energy maintains the decoherence-preventing conditions that allow [quantum-level interaction](/concepts/quantum-consciousness/)—a possibility increasingly supported by [experimental evidence for quantum effects in neural tissue](/topics/quantum-biology-and-neural-consciousness/)—then metabolic collapse could paradoxically alter the interaction dynamics—not by eliminating consciousness but by changing the interface through which it operates. The gamma surges in dying brains may represent consciousness acting through a destabilised but not yet destroyed quantum interface.
 
-**Occam's razor has limits**: The production model's apparent simplicity—consciousness is what brains do when adequately fuelled—dissolves under empirical scrutiny. Explaining the five anomalies within a production framework requires multiple independent auxiliary hypotheses. The filter model, while ontologically less parsimonious (it posits consciousness as non-reducible), is explanatorily more economical—a single principle accounts for all five patterns. This illustrates the Map's tenet that simplicity is not a reliable guide to truth when knowledge is incomplete.
+**Occam's razor has limits**: The production model's apparent simplicity—consciousness is what brains do when adequately fuelled—dissolves under empirical scrutiny. Explaining the five anomalies within a production framework requires multiple independent auxiliary hypotheses. The filter model, while ontologically less parsimonious (it posits consciousness as non-reducible), accounts for all five patterns with a single principle. [Tenet 5](/tenets/#occams-limits) bars the Map from converting that unification into an economy claim in its own favour: it is a claim about explanatory coverage, not about simplicity.
 
 ## Further Reading
 
