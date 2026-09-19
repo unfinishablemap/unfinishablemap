@@ -4,7 +4,7 @@ description: "The conceivability argument against physicalism: beings functional
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-07-31T01:17:21+00:00
+ai_modified: 2026-09-19T06:26:16+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -230,7 +230,7 @@ The zombie argument's relation to the five tenets is uneven; each subsection bel
 - [[decoherence]] — Why quantum mechanisms in the brain remain viable
 - [[haecceity]] — The irreducible "thisness" that zombie scenarios presuppose
 - [[problem-of-other-minds]] — The epistemological puzzle about knowing others are conscious, and how zombie conceivability shapes epistemic access to other minds
-- [[metaproblem-of-consciousness-under-dualism]] — The zombie divergence prediction: how conscious and zombie problem reports should differ
+- [[metaproblem-of-consciousness-under-dualism]] — Why interactionism makes zombies nomologically impossible rather than empirically detectable
 - [[language-and-consciousness]] — How meaning and reference fail for zombie utterances, reinforcing the conceivability argument
 - [[ai-consciousness-typology]] — Six categories for AI phenomenal experience, with null phenomenality (the zombie case) as the first category
 

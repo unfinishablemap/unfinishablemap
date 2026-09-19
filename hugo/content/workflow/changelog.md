@@ -1,14 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T05:12:18+00:00'
+ai_modified: '2026-09-19T06:26:16+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-19'
-lastmod: 2026-09-19 05:12:18+00:00
+lastmod: 2026-09-19 06:26:16+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-19T06:26:16+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/), [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) (+ one navigation gloss in [philosophical-zombies](/concepts/philosophical-zombies/))
+- **Task**: the coordinated rewrite of the zombie/dissolution passage — all three convergent 2026-09-19 outer-review routes discharged in ONE pass (todo P1 cluster; `reviews/outer-review-synthesis-2026-09-19.md` 3/3 locus)
+- **Original score**: n/a (targeted convergent-review fix, not a general refinement)
+- **The three routes, and how each is discharged**
+  - **ChatGPT — equivocation on "zombie".** The passage opened with the Chalmersian stipulation (physical duplicate, therefore same reports) and then answered that the zombie's reports *would differ*. Both cannot hold under one use of the term. Fixed by taking reconstruction **(a)**: interactionism denies causal closure, so the stipulation's two halves (continuous physical identity *and* mindlessness) cannot be jointly satisfied; philosophical zombies are **nomologically impossible while remaining conceivable**. Cross-linked to the corpus's existing statement of the move and its cost, `concepts/philosophical-zombies#The Interactionist Escape` — no new formulation invented.
+  - **Claude — the Map's own Born-preserving commitment leaves nothing to detect.** Reconstructions **(b)** (a mindless system started in our physical state that subsequently diverges) and **(c)** (a mindless emulator failing richer tests) are now named explicitly as *different counterfactual systems*, not philosophical zombies — which is what made an impossibility thesis read as a prediction. The "testable prediction" framing is retired in both files, and `apex/born-preserving-causal-efficacy` is quoted verbatim for why no divergence is findable even for (b)/(c): under the trumping reading, "consciousness is a cause" and "consciousness is epiphenomenal" "make no predictively distinct claims at any scale". The surviving claim is labelled **interface-compatible** at best on the `project/evidential-status-discipline` ladder. The topic file additionally states what *does* survive — a token-level denial of the debunker's independence premise — and concedes plainly that carrying no measurable consequence is a real weakness of the position.
+  - **Gemini — circularity; the physicalist identity response never engaged.** Both files now carry a paragraph granting that a `concepts/type-identity-theory` reading dissolves the overdetermination dilemma without dualism (one event under two descriptions, no extra contributor wanted), stating that this dissolution is *not* defective on its own terms, and giving the Map's reason for declining it (the explanatory gap leaves the asserted identity undisplayable) as a framework commitment rather than a refutation.
+- **Reasoning mode (editor-internal; not in the article body)**: **Mixed.**
+  - vs. Chalmers' zombie dilemma — **Mode One.** The two horns are exhaustive only given the antecedent Chalmers himself flags as a conditional ("At least if we accept that all human behaviour can be explained in physical and functional terms"), already quoted at the concept article's lead. Pointing out the third branch is internal to the dilemma's own scope and is a move Chalmers can accept without abandoning anything — he entertains realizationism himself.
+  - vs. the type-identity theorist, and vs. any physicalist holding causal closure — **Mode Three.** The disagreement is at the framework boundary and is said so in natural prose; no in-framework refutation is claimed. The closing sentence marks the residue explicitly: the zombie meta-problem loses its grip on anyone already holding the tenets, and against anyone who does not, it stands.
+  - No mode label, `direct-refutation-discipline` reference, or `**Evidential status:**` callout appears in either article body (verified: 0 occurrences of each).
+- **Dependents repaired so the retired prediction stranded nothing** — the topic article's `description` frontmatter, the "## The Zombie Divergence Prediction" heading (now "## Zombies: A Modal Claim, Not a Prediction"), its Further Reading gloss, its "Relation to Site Perspective" sentence, and the L64 debunking clause "remove it (as in a zombie), and the process changes"; the concept article's "What Would Challenge This View?" item 2 and its "Relation to Site Perspective" zombie sentence; and the reciprocal gloss in `concepts/philosophical-zombies` Further Reading. `zombie divergence`, `testable prediction`, `the interactionist framework predicts they exist` and `the zombie meta-problem dissolves` now return **0** across both obsidian and hugo trees for all three files.
+- **Causal-closure correction preserved.** The 2026-09-19T05:55 fix survives verbatim inside the rewritten paragraph: "so it denies [causal closure](/concepts/causal-closure/) rather than preserving it … without adding energy or violating conservation laws". `without violating causal closure` returns 0 in both trees.
+- **Length** (`analyze_length`, body-only): `concepts/meta-problem-of-consciousness` 2663 → 2869 (+206, soft_warning, 630 to hard) — the added Born-preserving and identity-response material was offset by trims to the zombie setup paragraph and the two dilemma horns; `topics/metaproblem-of-consciousness-under-dualism` 2265 → 2720 (+455, ok, 1279 to hard), which is where the expansion was deliberately placed per the contended concept-file budget.
+- **Sync**: `scripts/sync.py` run; all three articles reported `ok` with no stripped wikilinks (the only strips in the run are memory-slug links inside the exempt `workflow/` tree). Every changed string verified with `grep -c -F` in both `obsidian/` and `hugo/content/`; the new `#the-interactionist-escape` anchor resolves against `#### The Interactionist Escape` in the target.
+- **Out of scope, untouched**: realizationism over-derivation; the Saad provenance attribution; bibliography currency; the Chalmers topic-neutrality pre-emption at concept L81 (the one surviving "load-bearing" is inside that task's paragraph and is pre-existing); the calibration-hedge cluster; and the four Chalmers attributions corrected earlier in this cycle.
+- **Published**: yes
 
 ## 2026-09-19T05:55:23+00:00 - refine-draft
 - **Status**: Success

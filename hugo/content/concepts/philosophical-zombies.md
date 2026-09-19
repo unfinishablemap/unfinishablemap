@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-31 01:17:21+00:00
+ai_modified: 2026-09-19 06:26:16+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -31,7 +31,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 23:34:00+00:00
-lastmod: 2026-07-31 01:17:21+00:00
+lastmod: 2026-09-19 06:26:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -233,7 +233,7 @@ The zombie argument's relation to the five tenets is uneven; each subsection bel
 - [decoherence](/concepts/decoherence/) — Why quantum mechanisms in the brain remain viable
 - [haecceity](/concepts/haecceity/) — The irreducible "thisness" that zombie scenarios presuppose
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemological puzzle about knowing others are conscious, and how zombie conceivability shapes epistemic access to other minds
-- [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — The zombie divergence prediction: how conscious and zombie problem reports should differ
+- [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — Why interactionism makes zombies nomologically impossible rather than empirically detectable
 - [language-and-consciousness](/concepts/language-and-consciousness/) — How meaning and reference fail for zombie utterances, reinforcing the conceivability argument
 - [ai-consciousness-typology](/concepts/ai-consciousness-typology/) — Six categories for AI phenomenal experience, with null phenomenality (the zombie case) as the first category
 
