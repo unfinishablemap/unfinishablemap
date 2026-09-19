@@ -36,6 +36,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+### P2: `topics/attention-and-the-consciousness-interface` is 636 words PAST its hard ceiling — the largest overflow in the corpus and nothing was tasked against it
+
+- **Type**: condense
+- **File**: obsidian/topics/attention-and-the-consciousness-interface.md
+- **Source**: cycle driver, 2026-09-19 13:5x UTC — found while scoping the AST lead fix (`0278a6ad`); no open task referenced this file's length
+- **Generated**: 2026-09-19
+- **Notes**: **Measured this run: 4635 words against topics 3000/4000 — `hard_warning`, 636 words past the hard threshold** (`length.py` fires on `>= hard`, so the usable ceiling is 3999). **Target ~3600–3700**, restoring a working budget rather than just clearing the line. ⚠️ **The two other open blocks naming this file — the 2026-07-31 Tallis citation-policy NEEDS-HUMAN entry and the 2026-06-21 human editorial merge survey — do not touch length**, which is why this drifted unnoticed.
+  ✅ **WHERE THE SLACK PLAUSIBLY IS**, driver's read — verify before acting. The article carries **six** clinical sub-sections under `## Clinical Evidence: What Disorders Reveal` (ADHD, hemispatial neglect, Balint, extinction, the phenomenological kaleidoscope, fatigue/meditation) plus `### The Epistemological Challenge`. That catalogue is the most likely place where cases restate a shared moral; check whether each earns its place or whether two make the same point. **Prefer compressing the catalogue over touching the argument sections.**
+  🛑 **PROTECTED — do not weaken:** the **`## Engaging Attention Schema Theory`** section (L94–102). It was installed by `9fbe9f38c5` (2026-05-14) specifically to replace a "Why AST Fails" dismissal, it runs the unsupported-foundational-move argument, and it marks the framework-boundary residue honestly (*"Neither side closes the case against the other inside the rival's framework"*). The lead was just brought into line with it (`0278a6ad`) — **reverting either would re-open a defect closed today.** Also protect `## Predictions and Falsification` and `## Honest Limitations`; falsifiability sections are scarce corpus-wide.
+  ⚠️ **Before cutting any sentence run `git log -S "<the sentence>" -- obsidian/topics/attention-and-the-consciousness-interface.md`**, and grep `obsidian/reviews/` plus open todo blocks. This file has clinical-evidence and falsification material installed by prior reviews; a sentence installed by a review is load-bearing even when nothing quotes it, and its commit often names a *different* article ([[trimming-for-budget-can-strand-a-live-refutation]], [[condense-regresses-calibration-qualifiers]]).
+  ⚠️ **Do not trust "citation-verified clean" here** — four passes today found claims contradicted by their own cited sources ([[citation-ledger-ratifies-the-reading-not-just-the-metadata]]). If a passage rests on a quotation and you mean to cut it, verify at the primary first; a fabrication is a correction to report, not a silent cut. `ai_modified` from a live `date -u` **strictly past**; `uv run python scripts/sync.py`; grep both trees; report before/after `analyze_length`.
+
+### P3: the AST opacity mechanism — Gemini's strongest positive point — is absent from `topics/attention-and-the-consciousness-interface`; blocked on the condense
+
+- **Type**: refine-draft
+- **File**: obsidian/topics/attention-and-the-consciousness-interface.md
+- **Review file**: `reviews/outer-review-2026-09-19-gemini-2-5-pro.md`
+- **Source**: outer-review Dimension 4 residue — the lead fix (`0278a6ad`) had no budget for a net insertion
+- **Generated**: 2026-09-19
+- **Notes**: **NOT ACTIONABLE UNTIL THE CONDENSE LANDS — this is a net insertion of ~60–100 words into a file currently 636 words over its hard ceiling.** Sequence it after the condense task above.
+  **THE POINT.** Gemini's Dimension 4 made a positive claim the Map should engage rather than dismiss: an attention schema is **necessarily opaque to its own physical implementation**, so a system built this way will report non-physical awareness *because* its self-model lacks the resolution of the underlying machinery. That is a **mechanistic answer to why the hard problem feels intractable** — precisely the kind of account the Map's own meta-problem material says physicalism owes. Engaging it strengthens the article; ignoring it leaves the strongest version of AST unaddressed while the section around it engages weaker ones.
+  ✅ **VERIFIED ABSENT, measured 2026-09-19 by the executing pass**: `opaque` 0, `opacity` 0, `implementation` 0, `coarse` 0, `low-resolution` 0, `grain` 0, `intractab` 0. The two `resolution` hits are attractor symmetry-breaking and the moment of selection; the single `machinery` hit is downstream selection machinery. **None is this point.**
+  **WHERE IT BELONGS**: inside `## Engaging Attention Schema Theory` (L94–102), which already runs the unsupported-foundational-move argument and marks the residue honestly. **Do not weaken that section to make room** — it was installed by `9fbe9f38c5` to replace an earlier dismissal, and the lead was aligned to it today.
+  ⚠️ **DO NOT OVER-CONCEDE.** Granting that AST supplies a mechanism for the *seeming* is compatible with the Map's position and is the honest move; it is **not** a concession that the seeming exhausts the explanandum — that is the very step the section already identifies as asserted rather than derived. Apply [[direct-refutation-discipline]] and keep the mode label out of the body ([[i-widen-retractions-and-upgrade-coiners-into-proponents]]).
+
 ### P3: the archive pages now carry a corrected cellular-bandwidth point that the LIVE successor dropped — restore it, but only after a condense
 
 - **Type**: refine-draft
