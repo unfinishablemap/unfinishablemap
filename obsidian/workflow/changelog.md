@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T06:41:59+00:00'
+ai_modified: '2026-09-19T07:12:06+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-19T07:12:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/consciousness-bandwidth-architecture]]
+- **Word count**: 3489 → 3490 (+1; concepts hard gate fires at >= 3500, so 9 words of margin remain)
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 1
+- **Enhancements made**: 0 (no expansion budget)
+- **Lens that fired**: cross-article claim fidelity against the sibling [[topics/bandwidth-of-consciousness]], amended 2026-08-17 (`df71b72807`) after this article's last review. Four prior reviews called this article converged; two of the three criticals are contradictions with the sibling that no prior pass on this file looked for.
+- **Critical 1 — rate→grain over-derivation (Minimal Quantum Interaction tenet)**: the article asserted "the bandwidth constraint *requires* [minimality]. A 10-bit/second conscious channel cannot perform large-scale causal intervention," the exact inference the sibling now disowns ("rate does not fix grain: one bit selects among arbitrarily complex prepared policies... consistency with Minimal Quantum Interaction falls short of establishing it"). A tenet-accepting reviewer flags it, so it is calibration error, not bedrock. Rewritten to consistency-without-establishment. Net −1 word; also retires a "cannot X. It can Y." construct.
+- **Critical 2 — withdrawn discriminator still live (Dualism tenet)**: the sibling records that the Map "has accordingly withdrawn the bandwidth argument as a discriminator" because GWT makes conscious-access siting its *defining* feature. This article still ran the location leg as evidence for dualism. Repaired to concede location explicitly and retain only the inbound/outbound asymmetry — which this article's own Interface Models section already identifies as GWT's residual puzzle. Net +9.
+- **Critical 3 — "Individual neurons transmit ~200 bits per second" REMOVED**: fabricated precision + inverted qualifier + misattribution. Absent from Sauerbrei & Pruszynski at any magnitude (PMC12320479 full text) though sited in their paragraph; Zheng & Meister's actual claim is "when driven to high firing rates, individual neurons *may* transmit *hundreds* of bits per second", with ~10 bits/s at typical cortical rates. "~200" is a Map back-of-envelope (~2 bits/spike × ~100 spikes/s), visible in the archived predecessor, whose attribution the coalesce dropped. **The identical clause was already adjudicated and deleted from the sibling on 2026-06-26** and the fix was applied by file — a string sibling that then survived a full publisher-of-record verify (2026-07-11) and a no-op pass (2026-07-25), because metadata verification does not reach an unattributed in-body figure. Deletion follows precedent; −7 words paid for both tenet repairs.
+- **Medium — Sauerbrei & Pruszynski over-claim**: "demonstrates" → "argues" (their abstract says "we argue"). 0 words.
+- **Citation ledger**: full per-cite ledger in the review archive. Sauerbrei & Pruszynski 2025 *Nat Neurosci* 28(7):1365–1366 real-correct, **and their stance is represented correctly** — the driver's enlisting-a-critic suspicion is a false alarm; their abstract concedes "this speed limit appears to hold for high-level cognitive functions" and disputes only the whole-human upper-bound reading, which this article never asserts. Zheng & Meister 2025 *Neuron* 113(2):192–204 real-correct, "sifting number" and the "largest unexplained number in brain science" quote re-grepped in the raw arXiv text rather than carried from prior certification. Wu et al. 2016 *Sci Rep* 6:34025 real-correct. Inline↔References clean both directions (16 entries, zero orphans). Currency sweep: one superlative ("to date"), appropriately scoped.
+- **Engagement modes**: GWT/Baars/Dehaene — Mode Three, and more honestly so after the Dualism repair. Identity response — Mode Three, boundary declared by definition. Epiphenomenalism — Mode Three with explicit concession that the measurement carries no traction. No editor-vocabulary leakage (zero hits on all seven forbidden labels).
+- **Remaining (not minted — other files)**: the `~200 bits/neuron` clause is still live in `archive/topics/the-ten-bit-ceiling.md` L69 (worst instance: qualifier *inverted* to "at typical firing rates", attributed to Zheng and Meister), `archive/concepts/asymmetric-bandwidth-consciousness.md` L52, and the seeding research note. Needs an archive-tree sweep, not a single-file task.
+- **Output**: [[reviews/deep-review-2026-09-19-consciousness-bandwidth-architecture]]
+- **Synced**: yes — obsidian + hugo verified by `grep -c -F` on every changed and every removed string.
 
 ## 2026-09-19T06:41:59+00:00 - refine-draft
 - **Status**: Success

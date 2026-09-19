@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-08-17 05:42:01+00:00
+ai_modified: 2026-09-19 07:12:06+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
@@ -26,8 +26,8 @@ description: The mind-brain interface delivers ~10⁹ bits/second of experience 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-25 11:31:30+00:00
-lastmod: 2026-08-17 05:42:01+00:00
+last_deep_review: 2026-09-19 07:12:06+00:00
+lastmod: 2026-09-19 07:12:06+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,7 +58,7 @@ Whether conscious experience itself is as rich as sensory input remains debated.
 
 The outbound channel carries conscious influence into the physical world. Zheng and Meister's 2025 *Neuron* perspective quantified this across dozens of cognitive tasks—typing, speech, gaming, choice-reaction, memory sports—and found a universal ceiling of approximately 10 bits per second. The convergence spans seven decades of empirical measurement: Hick (1952) first measured the rate at ~5 bits per second using choice reaction time; Hyman (1953) confirmed the logarithmic relationship across conditions, establishing the Hick-Hyman Law. The figure holds regardless of expertise, training, or task type—professional StarCraft players achieve ~10 bits per second, expert typists at 120 words per minute reach ~10 bits per second, and even elite memory athletes memorising shuffled card decks peak at ~18 bits per second. Coupé et al. (2019) found that all 17 languages studied converge on ~39 bits per second of speech information—but this measures the *information content of the output signal*, not the speaker's conscious decision-making rate. Much of speech production is automated; the conscious contribution is closer to ~10 bits/s.
 
-The bottleneck is not motor. Sauerbrei and Pruszynski's 2025 *Nature Neuroscience* commentary accepts the ~10 bits/s ceiling for conscious cognition but demonstrates that unconscious motor control vastly exceeds it. A runner's stride takes 250 milliseconds; specifying phase, amplitude, and duty cycle for even one muscle requires more than 3 bits per stride, and dozens of muscles must be coordinated simultaneously. The cerebellum—containing roughly half the brain's neurons—performs continuous real-time sensorimotor processing far above the conscious ceiling. Individual neurons transmit ~200 bits per second. The constraint applies specifically at [conscious access](/concepts/access-consciousness/)—the point where information becomes available to the experiencing subject for deliberate use—not in the computational substrate surrounding it.
+The bottleneck is not motor. Sauerbrei and Pruszynski's 2025 *Nature Neuroscience* commentary accepts the ~10 bits/s ceiling for conscious cognition but argues that unconscious motor control vastly exceeds it. A runner's stride takes 250 milliseconds; specifying phase, amplitude, and duty cycle for even one muscle requires more than 3 bits per stride, and dozens of muscles must be coordinated simultaneously. The cerebellum—containing roughly half the brain's neurons—performs continuous real-time sensorimotor processing far above the conscious ceiling. The constraint applies specifically at [conscious access](/concepts/access-consciousness/)—the point where information becomes available to the experiencing subject for deliberate use—not in the computational substrate surrounding it.
 
 Strictly, Zheng and Meister measured *behavioural* throughput in tasks requiring conscious engagement. The step from "behavioural ceiling in conscious tasks" to "bandwidth of conscious influence" is an interpretation, not a direct measurement—but the finding that unconscious processing operates at far higher bandwidth while the ceiling appears precisely where consciousness participates motivates but does not establish it.
 
@@ -156,9 +156,9 @@ Zheng and Meister suggest inheritance from primitive serial-processing organisms
 
 The bandwidth architecture connects to all five tenets.
 
-**[Dualism](/tenets/#dualism)**: The 10⁸-fold gap sits uncomfortably with identity theories. If consciousness just *is* neural processing, serial-integration architectures can explain *a* bottleneck—but the specific location of the constraint at conscious access, combined with the vast asymmetry between experiential richness and volitional throughput, is more naturally predicted by a view that treats the two directions as different kinds of process. Ontological distinctness demands an account of how distinct domains communicate; the hierarchical selection model is that account.
+**[Dualism](/tenets/#dualism)**: The 10⁸-fold gap sits uncomfortably with identity theories. If consciousness just *is* neural processing, serial-integration architectures can explain *a* bottleneck—and a bottleneck sited at conscious access is what global-workspace accounts predict too, so location does not discriminate. What they leave unaccounted for is the asymmetry between experiential richness and volitional throughput, which a view treating the two directions as different kinds of process predicts more naturally. Ontological distinctness demands an account of how distinct domains communicate; the hierarchical selection model is that account.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Minimality is not merely a philosophical preference—the bandwidth constraint *requires* it. A 10-bit/second conscious channel cannot perform large-scale causal intervention. It can perform small-scale selection among prepared alternatives. The tenet and the empirical constraint converge. The same channel discipline constrains the [inverted-qualia](/concepts/inverted-qualia/) argument: if qualitative differences do any causal work, they must reach behaviour through this narrow outbound channel, so strict behavioural identity paired with qualia-difference is a limit case rather than a realistic picture of any physically instantiated inverter.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The bandwidth constraint fits minimality without establishing it. Rate does not fix grain—one bit can select among arbitrarily complex prepared policies—so ~10 bits/second bounds how often consciousness selects, not the scale of each selection. The same channel discipline constrains the [inverted-qualia](/concepts/inverted-qualia/) argument: if qualitative differences do any causal work, they must reach behaviour through this narrow outbound channel, so strict behavioural identity paired with qualia-difference is a limit case rather than a realistic picture of any physically instantiated inverter.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The bandwidth problem is the most concrete challenge to this tenet. Affirming that consciousness causally influences the brain is insufficient; the influence must be specific enough to produce coherent behaviour. The hierarchical selection response shows how a narrow channel of downward causation can produce behaviourally rich outcomes when the brain provides the fine-grained specification. The asymmetry defines the two directions' architecture: brain-to-consciousness at ~10⁹ bits per second, consciousness-to-brain at ~10 bits per second. Both directions are causally real; they differ in bandwidth by eight orders of magnitude.
 
