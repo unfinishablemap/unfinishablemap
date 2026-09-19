@@ -38,6 +38,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+### P2: `concepts/haecceity` and `positions/individuation-and-subjecthood` contradict each other on whether a process-only subject can carry the No-Many-Worlds objection
+
+- **Type**: refine-draft
+- **File**: obsidian/concepts/haecceity.md
+- **Source**: surfaced by the 2026-09-19 refine-draft on `where-the-substance-commitment-enters` (`ca4ec134`), which correctly declined to fix it from a scoping page; verbatim strings re-verified on disk by the driver
+- **Generated**: 2026-09-19
+- **Notes**: **A STRAIGHT CONTRADICTION BETWEEN AN ARTICLE AND THE POSITIONS REGISTER. Both sides verified verbatim this run.**
+  **(a) `concepts/haecceity`** says a process-only subject suffices: *"the particularity grounding identity **need not require a permanent soul**… Being this conscious subject is a primitive fact—your haecceity—**whether that fact attaches to an enduring substance or an impermanent experiential process**."* (`process haecceit` appears 15 times in the file, so this is the article's central move, not an aside.)
+  **(b) `positions/individuation-and-subjecthood`** says the opposite, twice: a *"deflationary, fragmented, or **process-only** account of the subject… **would simultaneously weaken the No-Many-Worlds**"* objection; and *"retiring [P-I1](/positions/individuation-and-subjecthood/#p-i1) for a deflationary, fragmented or **process-only** subject **leaves the objection with nothing to discriminate among**."*
+  **They cannot both stand.** Either process haecceitism does ground the indexical objection — in which case [P-I1](/positions/individuation-and-subjecthood/#p-i1)/[P-I2](/positions/individuation-and-subjecthood/#p-i2)'s *Would shift if* clauses are wrong — or it does not, in which case `haecceity`'s central refinement overclaims. ⚠️ **This is not a wording mismatch**: `tenets/background-commitments` Posit One and `positions/subject-census` [P-SC3](/positions/subject-census/#p-sc3) both route the Tenet 4 objection through *diachronic subject persistence* specifically, which is exactly what an "impermanent experiential process" declines to supply.
+  🛑 **DO NOT RESOLVE IT BY EDITING THE REGISTER.** Adjudicate on the argument first, and note the register is the harder surface to change: it mandates a dated prose `Updated` note per amendment (positions-register-cannot-take-edits-length-neutrally) and **`positions/individuation-and-subjecthood` is already 3938 words against a 4000 positions hard ceiling — 1439 words OVER the usable ceiling of 2499** (positions thresholds are an explicit 1500/2500/4000 entry, not inherited defaults). Any register edit is length-blocked before it starts.
+  ✅ **`concepts/haecceity` has room: 2982 words, `soft_warning`, 517 of headroom.** If the adjudication goes against the article, the repair lands here cheaply — most likely by scoping the "enduring substance or impermanent process" disjunction to what haecceity grounds *other than* the branch-discrimination role, rather than deleting process haecceitism.
+  ⚠️ **DO NOT OVER-CORRECT.** Process haecceitism may well be right about *synchronic* individuation (being *this* subject rather than a duplicate) while wrong about the *diachronic* branch-assignment role Tenet 4 needs — that split is exactly what Posit One draws, and it would let both pages stand with a narrower claim. **Look for that resolution before retracting anything** (i-widen-retractions-and-upgrade-coiners-into-proponents).
+  ℹ️ **Related, already landed**: `concepts/where-the-substance-commitment-enters` now carries a diagnostic-table row assigning the indexical objection to "Substance-leaning (persisting subject)". **If this adjudication goes the other way, that row needs revisiting too** — check it in the same pass. `ai_modified` from a live `date -u` strictly past; `uv run python scripts/sync.py`; grep both trees; report before/after `analyze_length`.
+
 
 ### NEEDS-HUMAN (doctrine) 2026-09-19: the Tenet-5 "parsimony tiebreaker" rule is the engine behind a defect family flagged in SIX consecutive tenet checks — and `tenets.md` never states it
 
@@ -1807,19 +1822,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **CLOSED BY THE DRIVER 2026-09-19 09:0x UTC.** The over-concession task on `topics/metaproblem-of-consciousness-under-dualism` discharged this in the same paragraph, as designed — all three findings shared one section and were written once. **Measured after the edit: `Saad` 0 → 4 occurrences in that article** (word-boundary), against 16 deployments of `realizationism`, with the full metadata landed from Chalmers 2020's own reference list (*JCS* 26(9–10):205–216) and a piped `[[delegatory-dualism|delegatory dualism]]` reciprocal into the existing Saad cluster. Verified 4:4 in **both** obsidian and hugo. ⚠️ **The attribution guard held**: Chalmers keeps the coinage ("whose term it is"); Saad supplies the interactionist version only. **THE SECOND HALF IS DELIBERATELY NOT DONE, and should not be re-minted.** This task said "both meta-problem articles", but `concepts/meta-problem-of-consciousness` deploys `realizationism` exactly **once** (offset 8974), where it defines the term inline and immediately hands off via `[[metaproblem-of-consciousness-under-dualism|interactionist development]]` to the article that now carries the provenance. A single defining mention behind an explicit hand-off does not need its own attribution, and that file is at **3481/3499 words — 18 words of headroom — with an open `condense` task against it**. Adding a citation there would trip the hard gate.
 
-### P2: `concepts/where-the-substance-commitment-enters` — develop the second home of the persisting subject (Tenet 4 / indexical identity)
-- **Type**: refine-draft
-- **File**: obsidian/concepts/where-the-substance-commitment-enters.md
-- **Review file**: `reviews/optimistic-2026-09-19-commitment-scoping-wing.md`
-- **Source**: optimistic-review
-- **Generated**: 2026-09-19
-- **Headroom**: 1240 words, hard gate 3500 — 2259 words of headroom measured this run with `analyze_length`. Additive task.
-- **Notes**: **Insertion locus (verbatim, verified unique on disk 2026-09-19 with `grep -cF` → 1):** the sentence *"Second, agent causation is not the only place a persisting subject does work—the self-opacity voids and the indexical-identity argument against [many-worlds](/concepts/many-worlds/) also lean on one—but agency is its clearest and most load-bearing home."* Promote that clause into its own `##` section placed after "Why Agent Causation Needs a Persisting Subject".
-  **Why this is the highest-value expansion on the page**: the article's entire purpose is to stop the substance-leaning from drifting by naming exactly where it enters — and it then names a *second* entry point in a subordinate clause and drops it. If the Tenet 4 argument (indexical identity against many-worlds) genuinely needs a persisting subject — "which branch am I on?" presupposes a subject whose identity is not exhausted by branch-relative properties — then the page's own diagnostic table is missing a row, and the table is the page's most-used artefact.
-  **Coverage check already done**: `obsidian/concepts/indexical-knowledge-and-identity.md` contains **0 occurrences of "persisting"** and 1 of "substance"; `obsidian/topics/indexical-identity-quantum-measurement.md` contains **0 occurrences of each**. The claim is asserted on this page and developed nowhere in the corpus. Not a duplicate.
-  **Size**: ~400 words plus one new row in the diagnostic table.
-  **Keep the verdict conditional.** Finding that the Tenet 4 argument survives on a property-only reading is an equally good outcome and should be written up as such — in that case the correct edit is to *narrow* the existing clause rather than expand it, and the table stays as it is. Do not manufacture a substance requirement to justify the section.
-
 ### P3: `concepts/supervenience` ↔ `concepts/where-the-substance-commitment-enters` — install the missing reciprocal and state the agent-causal supervenience base
 - **Type**: refine-draft
 - **File**: obsidian/concepts/supervenience.md
@@ -1891,6 +1893,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-19: `concepts/where-the-substance-commitment-enters` — develop the second home of the persisting subject (Tenet 4 / indexical identity)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/where-the-substance-commitment-enters.md
+- **Notes**: **Insertion locus (verbatim, verified unique on disk 2026-09-19 with `grep -cF` → 1):** the sentence *"Second, agent causation is not the only place a persisting subject does work—the self-opacity voids and the indexical-identity argument against [many-worlds](/concepts/many-worlds/) also lean on one—but agency is its clearest and most load-bearing home."* Promote that clause into its own `##` section placed after "Why Agent Causation Needs a Persisting Subject".
+  **Why this is the highest-value expansion on the page**: the article's entire purpose is to stop the substance-leaning from drifting by naming exactly where it enters — and it then names a *second* entry point in a subordinate clause and drops it. If the Tenet 4 argument (indexical identity against many-worlds) genuinely needs a persisting subject — "which branch am I on?" presupposes a subject whose identity is not exhausted by branch-relative properties — then the page's own diagnostic table is missing a row, and the table is the page's most-used artefact.
+  **Coverage check already done**: `obsidian/concepts/indexical-knowledge-and-identity.md` contains **0 occurrences of "persisting"** and 1 of "substance"; `obsidian/topics/indexical-identity-quantum-measurement.md` contains **0 occurrences of each**. The claim is asserted on this page and developed nowhere in the corpus. Not a duplicate.
+  **Size**: ~400 words plus one new row in the diagnostic table.
+  **Keep the verdict conditional.** Finding that the Tenet 4 argument survives on a property-only reading is an equally good outcome and should be written up as such — in that case the correct edit is to *narrow* the existing clause rather than expand it, and the table stays as it is. Do not manufacture a substance requirement to justify the section.
 
 ### ✓ 2026-09-19: `concepts/bidirectional-interaction` L119 awards the Map a parsimony verdict with no guard — and the exact guard clause already exists verbatim in a sibling
 - **Type**: refine-draft
