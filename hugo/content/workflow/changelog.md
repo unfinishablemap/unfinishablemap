@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T15:40:30+00:00'
+ai_modified: '2026-09-19T16:49:09+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-19'
-lastmod: 2026-09-19 15:40:30+00:00
+lastmod: 2026-09-19 16:49:09+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-19T16:49:09+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 828 swept (`topics/` 329, `concepts/` 327, `positions/` 22, `apex/` 44, `voids/` 104, `tenets/` 2); 41 delta files read in full at their tenet-alignment sections
+- **Errors**: 0 (136th consecutive zero)
+- **Warnings**: 4 priority families + 13 secondary
+- **Headline**: the Tenet-5 self-binding family is now measured — 20+ live loci, flagged across six prior checks, two repairs ever landed. Its engine is named for the first time: a "parsimony is a tiebreaker between theories of equal explanatory power" rule at 16 loci, which `tenets.md` never states (0 occurrences of either phrase).
+- **Driver questions answered**: causal-closure contradiction FIXED and verified in both trees; Bidirectional Interaction scoping landed correctly in all three articles; the Minimal Quantum Interaction figure fix is HALF-APPLIED — the anaphor "this conscious bandwidth" one sentence later still performs the gloss the same commit removed.
+- **Carried Tenet-5 siblings**: both still live in both trees (`topics/consciousness-and-mathematics` L162, `concepts/meta-problem-of-consciousness` L75). They were never minted as tasks — they sit inside another P3 task's Notes marked "optional if in budget". Minted as first-class targets this run.
+- **Tasks minted**: 2, both **P2** (all four prior `Source: check-tenets` tasks are P3, which the cycle never selects)
+- **Output**: [tenet-check-2026-09-19](/reviews/tenet-check-2026-09-19/)
 
 ## 2026-09-19T15:40:30+00:00 - refine-draft
 - **Status**: Success
