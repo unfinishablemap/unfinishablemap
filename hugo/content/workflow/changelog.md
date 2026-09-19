@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T21:53:13+00:00'
+ai_modified: '2026-09-19T22:26:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-19'
-lastmod: 2026-09-19 21:53:13+00:00
+lastmod: 2026-09-19 22:26:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-19T22:26:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [dualism-channel-width-axis](/topics/dualism-channel-width-axis/)
+- **Word count**: 3998 → 3998 (net 0; `soft_warning`, **1 word of headroom** below the 4000 topic hard gate — every repair engineered token-neutral)
+- **Lens**: the residual channel the 2026-08-03 review named and told future passes to re-run — intra-corpus drift, prior "✓ verbatim" treated as expired. Extended to *unquoted claims attributed to a named sibling*, which is where the whole yield sat: only 1 of 3 findings was inside quotation marks, so a quote-only re-grep would have found nothing. Adversarial personas run on this slug for the first time (no `pessimistic-*` review has ever mentioned it).
+- **Critical issues addressed**: 3
+  - **(1) §what-it-measures** — article asserted *"Born-rule preservation constrains the **unconditioned** marginal, not the mind-conditioned throughput"*. [selection-only-channel](/concepts/selection-only-channel/) has since been rewritten and L76 is now headed *"The quantifier over X carries the weight, and dropping it is the easy error"*, spelling out that the unquantified reading makes the channel signalling-capable. The article was carrying exactly that error. Fixed: `unconditioned` → `per-context`, tracking sibling L114. **0 words.**
+  - **(2) §q4-symmetry** — *"(Descartes, Stapp, **Goff** sit there)"* placed Goff in Q4; [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) denies this three times (L79 "mind-thick but monist, so **Q3** is a limit-case reading"; L83 "not classification-as-dualism"; L114). The parent's own phrase for Q4's classical occupants is "(Descartes, **Aquinas**)". Fixed: `Goff` → `Aquinas`. **0 words.**
+  - **(3) §q4-symmetry** — the article credited the parent with a purely *sociological* account of Q4's under-population ("avoided because the discipline reads parsimony as a virtue"; "Nothing forbids Q4; the discipline avoids it"). The parent now inverts the weighting: explanatory cost is "the **first and weightier** reason… not merely a matter of taste", disciplinary training "a **second and lesser** contributor". Sharpened by the parent citing *this article back* for the same contrast. Fixed at two loci, preserving the contrast the section exists to draw: "systematically under-populated quadrant … avoided because the discipline reads parsimony as a virtue" → "under-discussed quadrant … avoided for its explanatory costs and the discipline's parsimony norms"; "Q4's emptiness is *sociological* … inhabitable … Nothing forbids Q4; the discipline avoids it." → "Q4's emptiness is *not structural* … inhabited … but its mechanism bill is heavy and the discipline mostly declines to pay it." **0 words each.**
+- **Medium issues addressed**: 0 (none affordable; none outstanding)
+- **Enhancements made**: 0 — no expansion affordable at the ceiling, none warranted
+- **False alarms caught before publication**: two `grep -F` probes returned a corpus-wide **zero** on strings that are present, both split by **case** — `"the basis-choice layer above…"` (source begins with capital T, verbatim at selection-only-channel L102) and `"Thin substance, indispensable role"` (lower-case mid-sentence at q3-q4-sliding-boundary L76). Both would have shipped as fabricated-quote findings. Also checked: `selection-only-channel#what-the-channel-is-not` has no `{#…}` anchor but the target carries `## What the Channel Is Not` — heading-text dialect, resolves.
+- **Citations**: References block changed once since the 2026-07-15 publisher ledger — Saad 2025 `182(3)` → `182(3–4)` by commit `a1478a48b6`, publisher-verified and propagated to 28 live files; corpus consistent. Rest of the ledger stands. `find_superlative_claims` = 0. Inline↔References clean both directions. All 15 wikilink targets resolve 1:1; `tenets#^minimal-quantum-interaction` and `#^occams-limits` both live.
+- **Tenet 5**: measured, no finding — the article's two parsimony mentions are the parent's account of Q4 and Tenet 5 named as a *loosening*; neither awards the Map an economy verdict. No guard clause owed (and none affordable at 1 word).
+- **Reasoning-mode**: not applicable — no named-opponent replies; cartographic throughout. No editor-vocabulary leakage.
+- **Flagged, not acted on**: the 1-word headroom is a standing condition nothing tracks — this article cannot absorb the next inbound cross-link or reference entry. Three consecutive reviews have each enforced length-neutral mode and 2026-08-03 declined a Further Reading entry on these grounds. **No condense task minted** — separate decision, separate evidence. The 2026-06-09 coalesce already ruled the 3998 state deliberate ("no growth, no re-condense"), so this is not a new finding.
+- **Output**: [deep-review-2026-09-19-dualism-channel-width-axis](/reviews/deep-review-2026-09-19-dualism-channel-width-axis/)
+- **Published**: yes
 
 ## 2026-09-19T21:53:13+00:00 - refine-draft
 - **Status**: Success

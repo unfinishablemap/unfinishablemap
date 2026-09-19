@@ -4,7 +4,7 @@ description: "A third locating axis for dualist positions — how narrow the min
 created: 2026-05-27
 modified: 2026-06-09
 human_modified:
-ai_modified: 2026-09-08T16:50:16+00:00
+ai_modified: 2026-09-19T22:26:00+00:00
 draft: false
 topics:
   - dualism
@@ -33,7 +33,7 @@ author:
 ai_system: "claude-opus-4-8+claude-opus-5"
 ai_generated_date: 2026-05-27
 last_curated:
-last_deep_review: 2026-08-03T08:31:27+00:00
+last_deep_review: 2026-09-19T22:26:00+00:00
 coalesced_from:
   - "/topics/channel-width-third-axis/"
   - "/topics/does-a-wide-channel-force-thick-poles/"
@@ -54,7 +54,7 @@ To keep channel width distinct from its three sibling sub-measures:
 - **Counterfactual role** asks which features an effect depends on. A property of the *dependency relation*.
 - **Channel width** asks how constrained the interface itself is: what kinds of operation cross it, and how much information or work the crossing carries. A property of the *interface*.
 
-The [[selection-only-channel]] supplies the sharpest formalisation of "narrow." A selection-only channel lets the mind act solely as a selector among physically-prepared alternatives, "contributing nothing to the alternative set itself." Its per-event capacity is bounded above by log₂(N) bits for N brain-generated candidates; Born-rule preservation constrains the unconditioned marginal, not the mind-conditioned throughput; and the reportable phenomenal content is bounded by the brain-side candidate space (content-confinement). These three constraints are what *minimum* channel width looks like, made precise. Channel width at its lower limit just *is* the selection-only channel.
+The [[selection-only-channel]] supplies the sharpest formalisation of "narrow." A selection-only channel lets the mind act solely as a selector among physically-prepared alternatives, "contributing nothing to the alternative set itself." Its per-event capacity is bounded above by log₂(N) bits for N brain-generated candidates; Born-rule preservation constrains the per-context marginal, not the mind-conditioned throughput; and the reportable phenomenal content is bounded by the brain-side candidate space (content-confinement). These three constraints are what *minimum* channel width looks like, made precise. Channel width at its lower limit just *is* the selection-only channel.
 
 Wider channels relax these constraints in order. A *probability-bias* channel still acts within a fixed candidate set but shifts the distribution {p_i} away from its physical-side values — wider than selection-only because it no longer preserves Born statistics. A *basis-choice* channel (Stapp's *Process 1*) lets the mind choose which observable the brain measures, modifying the candidate set itself — wider still. A *candidate-generation* channel lets the mind contribute novelty to the alternative set. And an *energy-injection* channel transfers a quantity physics tracks as work across the interface — the widest aperture, and the classical Cartesian one. Channel width is thus an ordering, from selection-only at the floor to energy-transfer at the ceiling, by what operations the interface admits — the five classes the [[channel-class-taxonomy|channel-class taxonomy]] specifies in Shannon terms, where probability-bias and basis-choice are siblings rather than strictly ordered.
 
@@ -124,9 +124,9 @@ So the vacant cell partitions. Most of it is structurally forbidden — candidat
 
 ### Symmetry With the Q4 Vacancy {#q4-symmetry}
 
-The two-axis thickness taxonomy already noted a [[four-quadrant-dualism-taxonomy#q4|systematically under-populated quadrant]] — max-mind/max-physical, avoided because the discipline reads parsimony as a virtue. The channel-width axis has its own vacant region, but the two vacancies have *opposite* explanatory structures, and the contrast is itself a cartographic finding.
+The two-axis thickness taxonomy already noted an [[four-quadrant-dualism-taxonomy#q4|under-discussed quadrant]] — max-mind/max-physical, avoided for its explanatory costs and the discipline's parsimony norms. The channel-width axis has its own vacant region, but the two vacancies have *opposite* explanatory structures, and the contrast is itself a cartographic finding.
 
-Q4's emptiness is *sociological*: the cell is coherent and inhabitable (Descartes, Stapp, Goff sit there), but contemporary training disfavours paying its mechanism bill. Nothing forbids Q4; the discipline avoids it. The wide-channel/thin-pole cell's emptiness is *mostly structural*: the cell is largely incoherent, so the literature's avoidance tracks genuine impossibility rather than preference. Distinguishing the two kinds of emptiness is part of what a locating axis is *for*. The Q4 vacancy is a place the field could go and won't; the wide/thin vacancy is mostly a place there is nothing to go to.
+Q4's emptiness is *not structural*: the cell is coherent and inhabited (Descartes, Stapp, Aquinas sit there), but its mechanism bill is heavy and the discipline mostly declines to pay it. The wide-channel/thin-pole cell's emptiness is *mostly structural*: the cell is largely incoherent, so the literature's avoidance tracks genuine impossibility rather than preference. Distinguishing the two kinds of emptiness is part of what a locating axis is *for*. The Q4 vacancy is a place the field could go and won't; the wide/thin vacancy is mostly a place there is nothing to go to.
 
 A naive cartographer might read the two empty cells as the same kind of gap and predict both will fill as the literature matures. Q4 may fill if parsimony norms loosen (the Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is one such loosening); the structurally-forbidden part of the wide/thin region cannot, because no coherent position projects there. Only the contingent sliver — conservation-denying thin Cartesianism — is a genuine prediction-of-possible-occupancy, and even that is a position the field has reasons to find unattractive.
 
