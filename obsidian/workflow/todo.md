@@ -36,6 +36,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+### P2: `concepts/illusionism` is 326 words PAST the hard gate with no task against it — it is the only over-threshold file in the meta-problem cluster
+
+- **Type**: condense
+- **File**: obsidian/concepts/illusionism.md
+- **Source**: cycle driver, 2026-09-19 09:4x UTC — found while scoping the claim-drift cross-review; the file was not flagged by anything
+- **Generated**: 2026-09-19
+- **Notes**: **Measured by the driver 2026-09-19: 3825 words against concepts 2500/3500/5000 — `hard_warning`, 326 words PAST the hard threshold** (`length.py` fires on `>= hard`). **No open task referenced this file's length**, which is why it has drifted: the three tasks that touch `concepts/illusionism` all target single glosses or cross-links, so each one correctly refused to add words and none of them owned the overflow. **Target ~3300–3400**, i.e. 425–525 words out, which restores a working budget rather than just clearing the line.
+  ⚠️ **THIS FILE IS A DEMOTION TARGET AND A CITATION RISK AT THE SAME TIME — read both warnings before cutting.**
+  **(a) Register-bearing prose installed today must survive.** The claim-drift cross-review (commit `dd2111db`) rewrote L178's Further Reading gloss to *"How interactionism removes a defeater without raising dualism's probability"* — that phrasing is the **target register** the whole cluster is being brought into line with, and it was word-counted to land the file at **exactly ±0**. Do not restore the stronger wording and do not trim it for being wordy; it is precise, not padded.
+  **(b) Do not trust "citation-verified clean" on this cluster.** Two fabricated McGinn illustrations were found today in sibling articles, one of which had survived **22 prior deep reviews including two full publisher-of-record citation audits** — the ledger ratifies the *metadata*, never the article's *reading* of the source ([[citation-ledger-ratifies-the-reading-not-just-the-metadata]]). A live P2 targets a second McGinn fabrication in `concepts/mysterianism`. **If a passage here rests on a quotation, verify it at the primary before deciding it is expendable** — and if it turns out fabricated, that is a correction, not a cut.
+  **WHERE THE SLACK IS LIKELY TO BE**, driver's read — verify before acting: this is a hub article, and hub articles accrete cross-link sentences that no review ever reads ([[outbound-crosslink-sentences-are-never-reviewed-by-anyone]], [[hub-articles-accrete-crosslink-length]]). Prefer condensing accreted crosslink prose and expository background that neighbouring articles already carry, over argument sections.
+  ⚠️ **Before cutting any sentence run `git log -S "<the sentence>" -- obsidian/concepts/illusionism.md`** — a sentence installed by a review is load-bearing even when nothing quotes it, and its commit often names a *different* article ([[trimming-for-budget-can-strand-a-live-refutation]]). `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees; report before/after `analyze_length`.
+
 ### P2: `concepts/mysterianism` attributes two fabricated illustrations to McGinn (1989)
 - **Type**: refine-draft
 - **Status**: pending
