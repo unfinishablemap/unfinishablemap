@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T17:35:42+00:00'
+ai_modified: '2026-09-19T18:15:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-19'
-lastmod: 2026-09-19 17:35:42+00:00
+lastmod: 2026-09-19 18:15:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-19T18:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [self-representational-theory-of-consciousness](/concepts/self-representational-theory-of-consciousness/)
+- **Word count**: 2351 → 2563 (+212; concepts soft 2500 / hard 3500, status `ok` → `soft_warning`, 937 below hard). Pre-improvement measurement was `ok`, so §4.5 normal mode applied.
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 3
+- **Low issues addressed**: 1
+- **Enhancements made**: 3
+- **Lens**: source-fidelity against raw text. The 2026-07-20 ledger verified every cite's *metadata* at the publisher of record; 2026-07-26 skipped §2.4 by trigger. Neither opened a source to check the *reading*. Delta since last review was a single paragraph installed 2026-09-18 by refine-draft.
+- **Principal finding**: the article claimed "In the review Levine gestures toward **acquaintance** rather than representation as the relevant primitive." Raw fetch of the NDPR review (35,324 chars, tags stripped, NFKC-normalised, de-hyphenated) gives `acquaint` **0 occurrences** against positive controls `subjective character` 22, `Trinity` 3, `awareness relation` 1. `conceiv` 0 and `zombie` 0 likewise retire the conceivability framing of his objection. The sentence was installed by `994be1e42e` as the *fix* for pessimistic-2026-07-14 Issue 5a and recorded "Resolved" by the 2026-07-20 deep review, which had verified only that the URL was live. Replaced with Levine's actual dilemma and two verbatim quotations from the review.
+- **Also fixed**: Williford restored from objector to answerer (his 2019 paper dissolves the three regresses via self-acquaintance, and the article had counted him toward objections "jointly sufficient to decline the reduction"); "Fichte-Henrich-Shoemaker regress of first-person reference" → "of *de se* belief"; the "irreducibly circular" quote re-scoped to modify *structure* as Williford has it; Kriegel's binding-by-synchrony demoted from "leans on"/"hostage to" back to the speculation Levine's review reports it as ("he speculates that synchronous firing could be the mechanism"), with the Map's reservation re-based on its being the *only* candidate offered; Zahavi's anti-representational critique given a source that contains it (*Subjectivity and Selfhood*, 2005 — the only Zahavi entry in References was the jointly-authored 2015 chapter where he and Kriegel agree); OUP publisher summary now quoted verbatim rather than with a parenthesis silently converted to a comma inside the quotation marks.
+- **Verified real-correct, no edit**: Gennaro's "a version of HOT theory" — verbatim at IEP offset 47353 in the entry Gennaro himself authored, which also confirms the "(unconscious) HOT" contrast the taxonomy section turns on; Kriegel & Williford 2006 third-camp framing (MIT Press description); Weisberg 2008 direction; Giustina 2022 metadata (Crossref 10.1007/s11098-022-01868-5); SEP filing self-representational accounts under higher-order theories (§6 heading).
+- **False alarm cleared**: the single Rosenthal mention. A search summary of his *Analysis* 71(3):431-437 (2011) reply to Block reports him *denying* one is in a conscious state in virtue of a targetless HOT — apparently the reverse of the article. SEP settles it for the article: Lycan and Rosenthal "each opts to say that the subject in such a case is phenomenally conscious." Reconcilable (no conscious *state*, but what it is like is fixed by the HOT), and the article's "produce experience" tracks SEP's phrasing. No edit; `concepts/higher-order-theories` L69 says the same and is equally sound.
+- **Fabrication not propagated**: a WebSearch summary asserted Kriegel's 2024 PPR "Knowledge-by-Acquaintance First" is co-authored with Anna Giustina. Crossref (10.1111/phpr.13051) and OpenAlex both give a single author, Uriah Kriegel. Cited as single-authored.
+- **Tenet 5**: `grep -iF` for `simpl`, `parsimon`, `Occam` over the article returns 0 — it awards itself no simplicity verdict, so the standard guard has nothing to attach to. Calibration register (the 2026-09-18 slippage paragraph, the "jointly sufficient / not a single knock-down" framing, the non-representational ≠ non-physical ladder, the felt/dark fork's conditionality) intact and not re-inflated.
+- **Failed fetches treated as fetches, not absences**: philarchive.org returned a Cloudflare interstitial named `.pdf` (5,469 bytes, `pdftotext` refused it) and a 403 on retry; pdcnet.org 307s to an SSO gate; global.oup.com and mitpress.mit.edu returned 0- and 380-byte stubs to curl. Each was resolved by switching endpoint (Crossref, OpenAlex, SEP, IEP, publisher-indexed listings), not by declaring the claim unsupported.
+- **Output**: [deep-review-2026-09-19-self-representational-theory-of-consciousness](/reviews/deep-review-2026-09-19-self-representational-theory-of-consciousness/)
+- **Published**: yes
 
 ## 2026-09-19T17:35:42+00:00 - refine-draft
 - **Status**: Success

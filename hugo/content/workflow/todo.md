@@ -39,17 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `concepts/bidirectional-interaction` L119 awards the Map a parsimony verdict with no guard — and the exact guard clause already exists verbatim in a sibling
-
-- **Type**: refine-draft
-- **File**: obsidian/concepts/bidirectional-interaction.md
-- **Source**: check-tenets 2026-09-19, Tenet-5 self-binding sweep, ranked finding A1
-- **Generated**: 2026-09-19
-- **Notes**: **THE HIGHEST-VALUE ITEM IN A 28-LOCUS SWEEP, because the repair is a copy rather than a composition.** L119, Map voice, in the "Evolutionary Convergence" section: *"The interactionist alternative offers a simpler explanation: consciousness evolved *because* it influences behaviour."* The paragraph then **reinforces** rather than retracts ("This evolutionary argument is reinforced by…"). **Verified: the file contains no occurrence of `parsimon`, `Occam`, `simplicity`, or any other `simpler` — there is no guard anywhere in it.**
-  ✅ **THE GUARDED TWIN EXISTS AND IS VERBATIM-REUSABLE.** `concepts/epiphenomenalism.md` L140 runs the identical argument correctly (confirmed present, 1 occurrence): *"The interactionist explanation is simpler: consciousness is distributed where it is because it *does* something—though by the Map's own [Tenet 5](/tenets/#occams-limits), simplicity is not decisive where knowledge is incomplete, so this counts as a registered advantage rather than a parsimony proof."* **Append that guard clause; do not invent new phrasing** — matching wording across the cluster is the point.
-  ⚠️ **LENGTH IS THE BINDING CONSTRAINT AND IT IS TIGHT. Measured this run: 3464 words, usable ceiling 3499 → 35 words of headroom**, and the guard clause is **~30 words**. It fits, but only just — **count before you write**, and if the natural phrasing overshoots, shorten the clause rather than dropping the guard. Do not offset by cutting calibration elsewhere.
-  ℹ️ **Two sibling satellites run the same defective sentence-shape and take the same repair**, but are NOT in scope here (mint separately if wanted): `topics/pain-consciousness-and-causal-power` L160 and `topics/consciousness-in-simple-organisms` L255. The three hub articles that run this argument — `topics/evolutionary-case-for-mental-causation` L167, `concepts/consciousness-as-amplifier` L183, `concepts/cross-cultural-convergence-on-mental-causation` L123 — are all **correct** and reject only the opponent's parsimony. `ai_modified` from a live `date -u` strictly past; sync; grep both trees.
-
 ### NEEDS-HUMAN (doctrine) 2026-09-19: the Tenet-5 "parsimony tiebreaker" rule is the engine behind a defect family flagged in SIX consecutive tenet checks — and `tenets.md` never states it
 
 - **Type**: refine-draft
@@ -1902,6 +1891,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-19: `concepts/bidirectional-interaction` L119 awards the Map a parsimony verdict with no guard — and the exact guard clause already exists verbatim in a sibling
+- **Type**: refine-draft
+- **File**: obsidian/concepts/bidirectional-interaction.md
+- **Notes**: **THE HIGHEST-VALUE ITEM IN A 28-LOCUS SWEEP, because the repair is a copy rather than a composition.** L119, Map voice, in the "Evolutionary Convergence" section: *"The interactionist alternative offers a simpler explanation: consciousness evolved *because* it influences behaviour."* The paragraph then **reinforces** rather than retracts ("This evolutionary argument is reinforced by…"). **Verified: the file contains no occurrence of `parsimon`, `Occam`, `simplicity`, or any other `simpler` — there is no guard anywhere in it.**
+  ✅ **THE GUARDED TWIN EXISTS AND IS VERBATIM-REUSABLE.** `concepts/epiphenomenalism.md` L140 runs the identical argument correctly (confirmed present, 1 occurrence): *"The interactionist explanation is simpler: consciousness is distributed where it is because it *does* something—though by the Map's own [Tenet 5](/tenets/#occams-limits), simplicity is not decisive where knowledge is incomplete, so this counts as a registered advantage rather than a parsimony proof."* **Append that guard clause; do not invent new phrasing** — matching wording across the cluster is the point.
+  ⚠️ **LENGTH IS THE BINDING CONSTRAINT AND IT IS TIGHT. Measured this run: 3464 words, usable ceiling 3499 → 35 words of headroom**, and the guard clause is **~30 words**. It fits, but only just — **count before you write**, and if the natural phrasing overshoots, shorten the clause rather than dropping the guard. Do not offset by cutting calibration elsewhere.
+  ℹ️ **Two sibling satellites run the same defective sentence-shape and take the same repair**, but are NOT in scope here (mint separately if wanted): `topics/pain-consciousness-and-causal-power` L160 and `topics/consciousness-in-simple-organisms` L255. The three hub articles that run this argument — `topics/evolutionary-case-for-mental-causation` L167, `concepts/consciousness-as-amplifier` L183, `concepts/cross-cultural-convergence-on-mental-causation` L123 — are all **correct** and reject only the opponent's parsimony. `ai_modified` from a live `date -u` strictly past; sync; grep both trees.
 
 ### ✓ 2026-09-19: the MQI bandwidth fix is HALF-APPLIED — the anaphor one sentence later re-labels the behavioural figure as "conscious bandwidth"
 - **Type**: refine-draft
