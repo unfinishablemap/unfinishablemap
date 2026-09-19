@@ -1,15 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T20:43:00+00:00'
+ai_modified: '2026-09-19T21:08:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-19'
-lastmod: 2026-09-19 20:43:00+00:00
+lastmod: 2026-09-19 21:08:00+00:00
 related_articles: []
 title: Changelog
 ---
 
+## 2026-09-19T21:08:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [mysterianism-cognitive-closure](/archive/topics/mysterianism-cognitive-closure/) and [mysterianism-cognitive-closure-2026-01-14](/research/mysterianism-cognitive-closure-2026-01-14/)
+- **Task**: P2 queue task (line 1821) — the fabricated McGinn rat/calculus pairing at two further loci, one of them a live public page. Both loci re-verified by string before editing, per my-truncated-reads-manufacture-defects-and-false-accusations.
+- **Defect (locus 1, the priority)**: `archive/topics/mysterianism-cognitive-closure.md` serves at `https://unfinishablemap.org/archive/topics/mysterianism-cognitive-closure/` (HTTP 200). Two lines after quoting McGinn's genuine cognitive-closure definition verbatim, it read *"The core argument proceeds by analogy. Rats cannot do calculus... Monkeys cannot understand quantum mechanics."* The adjacency to a real quotation made this the most misleading form the defect takes in the corpus: a reader has no cue that the illustration changes provenance mid-paragraph.
+- **Fix (locus 1)**: the paragraph now carries McGinn's actual comparative-closure line — "What is closed to the mind of a rat may be open to the mind of a monkey, and what is open to us may be closed to the monkey" — plus his own worked case of a closed property, the electron ("Presumably monkey minds and the property of being an electron illustrate this possibility"). The structural-not-motivational point that the fabricated version carried is preserved, now resting on his text. **The rats stay**: the rat is genuinely McGinn's; only *calculus* and *quantum mechanics* were fabricated.
+- **Fix (locus 2)**: `research/mysterianism-cognitive-closure-2026-01-14.md` is a dated record (2026-01-14), so it was repaired by **marked correction rather than silent rewrite** — the original bullet is quoted in full inside a dated correction note stating what was checked and what was found, followed by the corrected bullet. The same treatment was applied to the Executive Summary, which glossed closure with the same rat/calculus pairing.
+- **Additional defect found and fixed in the same file**: the Chomsky entry glossed problems-vs-mysteries as *"like calculus for mice"*. Verified against the source the Map's sibling notes already cite (chomsky.info/201401__/, "Science, Mind, and Limits of Understanding", 2014; 36,907 chars normalised): `calculus` 0, `mice` 0, `mouse` 0. Chomsky's actual illustration is rats and prime-number mazes, present twice verbatim. Corrected with the real quotation.
+- **Prime-number-mazes family — verdict: GENUINE, and it is Chomsky's, not McGinn's.** The driver flagged this as unverified and warned against sweeping it. Checked at the primary rather than assumed: *"we are not surprised to discover that rats are unable to run prime number mazes no matter how much training they receive; they simply lack the relevant concept in their cognitive repertoire"* (offset ~30777) and *"much as we can observe the inability of rats to run prime number mazes because of the very design of their cognitive nature"* (offset ~34570). **No sweep performed and none warranted.** One residual fidelity note recorded for the driver: five files render it with a *mouse*, where Chomsky says *rats* — species drift in a genuine citation, not a fabrication.
+- **Left deliberately untouched**: `voids/recognition-void` L77 (cleared by the driver as the Map's own unattributed illustration); the archive article's lead sentence, `description` field and "The Squirrel and Quantum Mechanics" section, all of which illustrate *mysterianism the position* in the Map's voice without attributing the illustration to McGinn's text — the same adjudication note (4) applied to `recognition-void`. Flagged in the report as a judgement call.
+- **Engagement classification**: none — no named-opponent reply was added or altered; this is a source-fidelity repair, not an argumentative change.
+- **Sweep**: `cannot do calculus` 6 hits before (3 source + 3 Hugo twins), 4 after — all four accounted for: 2 inside the marked correction added deliberately, 2 in the out-of-scope `recognition-void` pair. Metadata untouched: no citation removed, no attribution deleted, the research note retained.
+- **Synced**: yes — both `hugo/content/archive/topics/...` and `hugo/content/research/...` twins verified carrying the repair, neither left stale (obsidian-only-fix-leaves-defect-live-in-hugo).
+- **Published**: yes
 ## 2026-09-19T20:43:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)

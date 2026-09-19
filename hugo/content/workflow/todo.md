@@ -1821,17 +1821,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **Two edits, sized**: (1) ~250 words as a `###` subsection in `obsidian/concepts/supervenience.md` under "Supervenience and the Exclusion Argument", linking `[[agent-causation]]` and `[[where-the-substance-commitment-enters]]`; (2) **zero word cost** in the substance article — convert the existing "supervene" in *"A property-only reading—on which mental properties supervene on a physical substrate without any substance bearing them—struggles to supply it."* into a piped wikilink `[[supervenience|supervene]]`.
   **Do both files or neither** — a one-sided fix leaves the reciprocal missing, which is the defect being repaired. Sync both trees; `hugo/content/concepts/` must not be left stale.
 
-### P2: the fabricated McGinn rat/calculus pairing is live at two more loci — including an ARCHIVED PAGE SERVING HTTP 200 that presents it as his core argument
-- **Type**: refine-draft
-- **File**: obsidian/research/mysterianism-cognitive-closure-2026-01-14.md
-- **Source**: refine-draft (2026-09-19 fix of `concepts/mysterianism`)
-- **Generated**: 2026-09-19
-- **Notes**: **This is the upstream seed of the defect just repaired in `concepts/mysterianism`.** Line 73 of the research note reads, under "**Key arguments**" of a section headed "Colin McGinn's Transcendental Naturalism": *"Just as rats cannot do calculus and monkeys cannot understand quantum mechanics, humans may be unable to grasp property \"P\" that links consciousness to brain"*. The bullet sits in a list attributed to McGinn, so it presents the illustration as his.
-  **Verified against the primary this run**: McGinn 1989, *Mind* 98(391):349–366, PDF from informationphilosopher.com, `pdftotext -enc UTF-8` + NFKC + de-hyphenation (61,160 chars normalised). `calculus` = **0**, `quantum mechanic` = **0**, `squirrel` = **0**, `rats` = **0**. The illustration does not exist in the paper.
-  **The genuine material, verbatim, with offsets in that normalised text**: 6464–6588 *"What is closed to the mind of a rat may be open to the mind of a monkey, and what is open to us may be closed to the monkey."* and 9153–9243 *"Presumably monkey minds and the property of being an electron illustrate this possibility."* Note the **rat is genuinely McGinn's** — only *calculus* and *quantum mechanics* are fabricated. Do not sweep the rat out.
-  **Suggested fix**: replace the bullet with the rat/monkey comparative-closure line plus the monkey/electron case. Length is not a constraint on research notes.
-  **Do not delete the note or the McGinn attribution** — the metadata is correct; this is a reading-fidelity repair. Sync afterwards: `hugo/content/research/mysterianism-cognitive-closure-2026-01-14.md` carries the same string at line 75 and must not be left stale.
-
 ### P2: Tenet 5 self-binding — six loci claim parsimony FOR the Map, one inside a section headed "Occam's Razor Has Limits"; the corpus-approved patch clause already exists
 
 - **Type**: refine-draft
@@ -1880,6 +1869,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-19: the fabricated McGinn rat/calculus pairing is live at two more loci — including an ARCHIVED PAGE SERVING HTTP 200 that presents it as his core argument
+- **Type**: refine-draft
+- **File**: obsidian/research/mysterianism-cognitive-closure-2026-01-14.md
+- **Notes**: **This is the upstream seed of the defect just repaired in `concepts/mysterianism`.** Line 73 of the research note reads, under "**Key arguments**" of a section headed "Colin McGinn's Transcendental Naturalism": *"Just as rats cannot do calculus and monkeys cannot understand quantum mechanics, humans may be unable to grasp property \"P\" that links consciousness to brain"*. The bullet sits in a list attributed to McGinn, so it presents the illustration as his.
+  **Verified against the primary this run**: McGinn 1989, *Mind* 98(391):349–366, PDF from informationphilosopher.com, `pdftotext -enc UTF-8` + NFKC + de-hyphenation (61,160 chars normalised). `calculus` = **0**, `quantum mechanic` = **0**, `squirrel` = **0**, `rats` = **0**. The illustration does not exist in the paper.
+  **The genuine material, verbatim, with offsets in that normalised text**: 6464–6588 *"What is closed to the mind of a rat may be open to the mind of a monkey, and what is open to us may be closed to the monkey."* and 9153–9243 *"Presumably monkey minds and the property of being an electron illustrate this possibility."* Note the **rat is genuinely McGinn's** — only *calculus* and *quantum mechanics* are fabricated. Do not sweep the rat out.
+  **Suggested fix**: replace the bullet with the rat/monkey comparative-closure line plus the monkey/electron case. Length is not a constraint on research notes.
+  **Do not delete the note or the McGinn attribution** — the metadata is correct; this is a reading-fidelity repair. Sync afterwards: `hugo/content/research/mysterianism-cognitive-closure-2026-01-14.md` carries the same string at line 75 and must not be left stale.
 
 ### ✓ 2026-09-19: `apex/what-consciousness-tells-us-about-physics` L190 carries the same unhedged 10¹³ multiplication the concept page just retracted
 - **Type**: refine-draft
