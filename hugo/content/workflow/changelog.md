@@ -1,14 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T18:55:00+00:00'
+ai_modified: '2026-09-19T19:39:45+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-19'
-lastmod: 2026-09-19 18:55:00+00:00
+lastmod: 2026-09-19 19:39:45+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-19T19:39:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/)
+- **Task**: todo L39 P2 — two findings in the same region, both length-neutral or length-reducing (P1 + P3 of [pessimistic-2026-09-19-memory-channel-interface-evidence](/reviews/pessimistic-2026-09-19-memory-channel-interface-evidence/), the first adversarial pass on this article)
+- **Scope discipline**: P2 (recovery-asymmetry ledger) and P4 (Tenet 3 discrimination) of that review are a separate queue task and were left untouched, including the "four direction-of-interface signatures" count in *Evidential Calibration*, which is P2's locus. The carried secondary finding (the unpaid lucid-dreaming accommodation debt) was not picked up.
+- **Fix (a) — convergence double-counting, § *The Structural Argument***. `share no common neural cause` narrowed to `share no common molecular mechanism`, and the count deflated in one clause using the article's own anchor measurement: cortical-response complexity, the variable Sarasso et al. (2015) track two sections above, also describes the integration breakdown of NREM Stage 3, so the anaesthesia and sleep rows share one explanatory axis rather than being two independent confirmations. **The fix relocates weight rather than retracting** — the following sentence now puts the weight on the dissociative rows, "which carry the ordering with no degradation variable to appeal to", which is the same thing *Dissociative States* already says when it calls them "the hierarchy's hardest test for production theories". The binary-production refutation that follows was re-pointed from `explain it` to `explain that ordering` so its antecedent survives the insert. No new citation added; the Sarasso reading was read to the end of the passage first and its metadata was not re-adjudicated.
+- **Fix (b) — ketamine row inversion, § *The Cross-State Vulnerability Pattern***. The ordering claim was qualified from `across the catalogued cases` to `wherever the substrate itself degrades`, and the decoupling cases (ketamine, depersonalisation, DID) exempted as a distinct signature type: on the ketamine row autonoetic experience is preserved and vividly reported while its coupling to the environment and to noetic access gives way — a coupling failure rather than a channel failure. The table row itself is unchanged; it records the data, and the prose now explains it instead of contradicting it nine lines later. This gives ketamine the treatment depersonalisation already had (content / mine-ness / pastness decomposition), which the review noted was missing despite *Anaesthesia: The Anchor Case* leaning on ketamine as "the sharpest case within it".
+- **Length: NOT condensed, and no condense task minted.** `analyze_length` 4449w -> 4543w, `hard_warning` both before and after — a **settled false warning**, recorded by the 2026-08-08 deep review and carried by the 06-16, 07-12 and 07-20 reviews. Body prose measured before and after this pass (frontmatter and the Further Reading / References apparatus excluded): **3895w -> 3981w, still under the 4000 hard threshold**. The +86 is the two concessions; both additions were tightened once after first measurement to keep the prose margin.
+- **Sync**: `scripts/sync.py` run; both changed strings verified present in `obsidian/` and `hugo/content/`.
+- **Published**: yes
+
+## 2026-09-19T19:11:15+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `obsidian/topics/memory-channel-interface-evidence.md` (4449w `analyze_length`; re-measured as 3887w prose + 571w apparatus)
+- **Lens**: first **adversarial** pass on this article. Driver measured that it is the largest of 123 topic/concept articles never mentioned in any pessimistic review; its four prior deep reviews (06-16, 07-12, 07-20, 08-08) all ran metadata, quote-fidelity or empirical-paraphrase lenses. Citations were left alone as already well covered; the argument was the target.
+- **Four priority findings**: (1) convergence double-counting — `share no common neural cause` is contradicted by the article's own anchor citation, Sarasso et al. 2015, which measures a *single* cortical-complexity variable spanning anaesthesia and (via the standard integration bridge) NREM, so the five convergence members are not five independent confirmations; the dissociative rows survive the deflation and should carry the weight. (2) The recovery-asymmetry comparative ledger is inflated on **both** sides — the filter reading is credited with "deriving" a direction-sensitive signature by a clause (`may depend on the direction and cause of change`) that forbids nothing, while the production reading is charged four per-case auxiliaries of which hysteresis and stochastic emergence timing are one generic bistable-with-noise commitment it would hold anyway; plus a straw target at `predicts, in its simplest form, that recovery should retrace degradation`. (3) Internal contradiction — the ketamine table row (`Variable` noetic, `Preserved but content-decoupled` autonoetic) inverts the ordering that `autonoetic goes first under degradation` asserts nine lines below. (4) The Tenet 3 argument does not discriminate: `the most vulnerable channel would be the input-richest one` is unargued, and autonoetic plausibly *is* the input-richest channel, so both rival readings may name it.
+- **Length verdict: NO ACTION, pre-empted.** The 2026-08-08 deep review recorded the `hard_warning` as a settled FALSE warning; independently re-measured this run — prose 3887w is **113w under** the 4000 hard threshold, the overflow is 571w of References/Further Reading apparatus. Carried by three prior reviews. No condense task minted.
+- **False alarm recorded, not raised**: the missing Tenet-5 parsimony guard. `Occam`/`occams-limits`/`simplicity`/`Tenet 5` all 0 here (control: 238 topic files cite `occams-limits`) and the 2026-09-19 tenet sweep did not cover this file — but the locus carries three guard clauses plus an outright non-parsimony disclaimer, so it is in contract; and the governing doctrine question is blocked on the open `NEEDS-HUMAN (doctrine) 2026-09-19` item.
+- **Altered-state symmetry audit: does not apply** — supportive-cluster gate needs >=2 members, word-boundary counts give exactly one (`terminal lucidity`, `paradoxical lucidity`). The naive `grep -iF NDE` count of 22 is a substring artifact from "under"; word-boundary NDE and OBE are both 0. Label leakage: 0/9 forbidden strings.
+- **Open item closed as unverifiable, not defective**: the 2026-08-08 `83 cases` (Nahm et al. 2012) item was retried against Crossref (no abstract), OpenAlex (no inverted index) and Europe PMC (full abstract, no case count). `250 years` verbatim confirmed; the Nahm & Greyson 2009 companion gives 81 references / 49 retrieved, a different paper and count. Verdict: genuine but unverifiable from open records.
+- **Output**: [pessimistic-2026-09-19-memory-channel-interface-evidence](/reviews/pessimistic-2026-09-19-memory-channel-interface-evidence/)
+- **Tasks minted**: 2 P2 `refine-draft`, both scoped to this article only.
 
 ## 2026-09-19T18:55:00+00:00 - refine-draft
 - **Status**: Success

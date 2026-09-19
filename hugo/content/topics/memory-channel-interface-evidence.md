@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-08-17 15:25:53+00:00
+ai_modified: 2026-09-19 19:39:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-08 23:17:52+00:00
-lastmod: 2026-08-17 15:25:53+00:00
+lastmod: 2026-09-19 19:39:45+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -90,7 +90,7 @@ The hierarchy below summarises the clinical-state cases; empirical citations for
 | DID (between alters) | Preserved | Preserved | Severed (autonoetic compartmentalisation) |
 | Depersonalisation | Preserved | Preserved | Present but felt as not-mine |
 
-Two patterns stand out. The **ordering is stable** across the catalogued cases: autonoetic goes first under degradation, and under recovery returns earliest in some states (terminal lucidity) and latest in others (deep anaesthesia emergence), but in none of them arbitrarily. The **selectivity is sharp**: each state produces a specific cross-channel signature, not a uniform dim-out — and the dissociative rows are especially diagnostic, since the substrate is intact and what separates is the connectivity between channels, not the channels themselves.
+Two patterns stand out. The **ordering is stable** wherever the substrate itself degrades: autonoetic goes first, and under recovery returns earliest in some states (terminal lucidity) and latest in others (deep anaesthesia emergence), but in none of them arbitrarily. The decoupling cases — ketamine, depersonalisation, DID — invert it: on the ketamine row autonoetic experience is preserved and vividly reported while its coupling to the environment and to noetic access gives way, a coupling failure rather than a channel failure. The **selectivity is sharp**: each state produces a specific cross-channel signature, not a uniform dim-out — and the dissociative rows are especially diagnostic, since the substrate is intact and what separates is the connectivity between channels, not the channels themselves.
 
 ### Anaesthesia: The Anchor Case
 
@@ -120,7 +120,7 @@ The dissociative rows are the hierarchy's hardest test for production theories: 
 
 ## The Structural Argument: Graded-with-Separable-Channels
 
-The hierarchy makes a claim single-state evidence cannot make alone: *the order is robust across mechanisms*. Anaesthesia, sleep, hemispherectomy, terminal lucidity, and dissociation share no common neural cause, yet they converge on the same ordering of channel vulnerability. This [cross-mechanism convergence](/concepts/cross-mechanism-convergence/) is the explanandum. A binary "consciousness on / off" production theory cannot explain it — it predicts uniform loss when the substrate degrades, and is refuted by the cross-state data. The case for production theories must start from a position that already concedes consciousness has separable *parts*; the disagreement then runs deeper than monism-vs-dualism, through how the parts and their ordering are explained.
+The hierarchy makes a claim single-state evidence cannot make alone: *the order is robust across mechanisms*. Anaesthesia, sleep, hemispherectomy, terminal lucidity, and dissociation share no common molecular mechanism, yet they converge on the same ordering of channel vulnerability. That [cross-mechanism convergence](/concepts/cross-mechanism-convergence/) is the explanandum, though not as five independent confirmations: cortical-response complexity, the variable Sarasso et al. (2015) track above, also describes the integration breakdown of NREM Stage 3, so the anaesthesia and sleep rows share one explanatory axis. The weight falls on the dissociative rows, which carry the ordering with no degradation variable to appeal to. A binary "consciousness on / off" production theory cannot explain that ordering — it predicts uniform loss when the substrate degrades, and is refuted by the cross-state data. The case for production theories must start from a position that already concedes consciousness has separable *parts*; the disagreement then runs deeper than monism-vs-dualism, through how the parts and their ordering are explained.
 
 A sophisticated production reading concedes channel separability and explains the ordering by differential cortical-area vulnerability: autonoetic depends on more cortical regions than noetic, which depends on more than anoetic, so any perturbation hits autonoetic first. The mechanism cost is the *additional empirical commitment* that the regional vulnerability ordering matches the channel hierarchy across *all* the mechanism-distinct perturbations. This is testable in principle — a narrow perturbation hitting an autonoetic-supporting region while sparing noetic-supporting subregions should, on the production reading, produce a *different* ordering, while the filter reading predicts the standard one. The catalogue has no clean case yet, so the prediction is named as the future test the readings most cleanly disagree about; its design space is developed in [the targeted-lesion article](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/). Naming that case rather than treating current convergence as already separating is what [the direct-refutation discipline](/project/direct-refutation-discipline/) requires of a [discrimination-problem](/concepts/discrimination-problem/)-class underdetermination. A predictive-processing reading instead absorbs the hierarchy through hierarchical-prior reweighting (higher self-modelling levels depend on lower-level integrity, so degradation propagates top-down) — arguably stronger because it derives the ordering from independent commitments, but still owing *why* the higher-level prior produces autonoetic phenomenology, which may land it on the [hard problem](/topics/hard-problem-of-consciousness/) one level up.
 

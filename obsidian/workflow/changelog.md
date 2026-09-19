@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T19:11:15+00:00'
+ai_modified: '2026-09-19T19:39:45+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-19T19:39:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/memory-channel-interface-evidence]]
+- **Task**: todo L39 P2 — two findings in the same region, both length-neutral or length-reducing (P1 + P3 of [[reviews/pessimistic-2026-09-19-memory-channel-interface-evidence]], the first adversarial pass on this article)
+- **Scope discipline**: P2 (recovery-asymmetry ledger) and P4 (Tenet 3 discrimination) of that review are a separate queue task and were left untouched, including the "four direction-of-interface signatures" count in *Evidential Calibration*, which is P2's locus. The carried secondary finding (the unpaid lucid-dreaming accommodation debt) was not picked up.
+- **Fix (a) — convergence double-counting, § *The Structural Argument***. `share no common neural cause` narrowed to `share no common molecular mechanism`, and the count deflated in one clause using the article's own anchor measurement: cortical-response complexity, the variable Sarasso et al. (2015) track two sections above, also describes the integration breakdown of NREM Stage 3, so the anaesthesia and sleep rows share one explanatory axis rather than being two independent confirmations. **The fix relocates weight rather than retracting** — the following sentence now puts the weight on the dissociative rows, "which carry the ordering with no degradation variable to appeal to", which is the same thing *Dissociative States* already says when it calls them "the hierarchy's hardest test for production theories". The binary-production refutation that follows was re-pointed from `explain it` to `explain that ordering` so its antecedent survives the insert. No new citation added; the Sarasso reading was read to the end of the passage first and its metadata was not re-adjudicated.
+- **Fix (b) — ketamine row inversion, § *The Cross-State Vulnerability Pattern***. The ordering claim was qualified from `across the catalogued cases` to `wherever the substrate itself degrades`, and the decoupling cases (ketamine, depersonalisation, DID) exempted as a distinct signature type: on the ketamine row autonoetic experience is preserved and vividly reported while its coupling to the environment and to noetic access gives way — a coupling failure rather than a channel failure. The table row itself is unchanged; it records the data, and the prose now explains it instead of contradicting it nine lines later. This gives ketamine the treatment depersonalisation already had (content / mine-ness / pastness decomposition), which the review noted was missing despite *Anaesthesia: The Anchor Case* leaning on ketamine as "the sharpest case within it".
+- **Length: NOT condensed, and no condense task minted.** `analyze_length` 4449w -> 4543w, `hard_warning` both before and after — a **settled false warning**, recorded by the 2026-08-08 deep review and carried by the 06-16, 07-12 and 07-20 reviews. Body prose measured before and after this pass (frontmatter and the Further Reading / References apparatus excluded): **3895w -> 3981w, still under the 4000 hard threshold**. The +86 is the two concessions; both additions were tightened once after first measurement to keep the prose margin.
+- **Sync**: `scripts/sync.py` run; both changed strings verified present in `obsidian/` and `hugo/content/`.
+- **Published**: yes
+
 ## 2026-09-19T19:11:15+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `obsidian/topics/memory-channel-interface-evidence.md` (4449w `analyze_length`; re-measured as 3887w prose + 571w apparatus)
