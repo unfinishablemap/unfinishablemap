@@ -36,18 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-### P2: `apex/what-consciousness-tells-us-about-physics` L190 carries the same unhedged 10¹³ multiplication the concept page just retracted
-
-- **Type**: refine-draft
-- **File**: obsidian/apex/what-consciousness-tells-us-about-physics.md
-- **Source**: 2026-09-19 deep review of `concepts/sign-problem-for-conscious-observation` (`d4a0d143`), which fixed its own copy and flagged this one as out of single-article scope
-- **Generated**: 2026-09-19
-- **Notes**: **A CORRECTION LANDED ON THE CONCEPT PAGE AND ITS APEX ECHO STILL CARRIES THE UNCORRECTED FORM** ([[fix-by-file-leaves-string-siblings-live]]). Verified live on disk this run, 1 occurrence: *"tens of bits per placement, **over some 10¹³ placements per decision window**, against the ~10 bits per second the Map credits to consciousness. On that arithmetic the direction demand does not fit inside the ceiling bounding outcome selection…"*
-  **WHY IT IS WRONG.** The product is licensed only if the crossover **drifts** between placements — which requires the neural bath correlation time that the concept page itself concedes nobody has measured. **A regular observation train specifies its interval once, not per placement**, so the multiplication inflates the price by roughly thirteen orders of magnitude.
-  ✅ **THE CONCLUSION SURVIVES WITHOUT IT — do not retract the argument.** The concept page's repair keeps the verdict on the un-multiplied arithmetic: **log₂(0.3 / 2.5×10⁻¹⁴) ≈ 43 bits** to locate a single crossover, against **10 bits/s × 0.3 s = 3 bits** available — still an order-of-magnitude shortfall. **Port the hedge, not a retraction**: the concept page now reads *"That product is an upper bound rather than a settled price: an agent emitting a regular train would specify the interval once rather than each placement"*. ⚠️ **Match that wording rather than inventing new phrasing**, so the two pages agree ([[i-widen-retractions-and-upgrade-coiners-into-proponents]]).
-  ⚠️ **LENGTH IS THE BINDING CONSTRAINT: measured this run, 5453 words against apex 4000/5000/6500 — `hard_warning`, 454 words OVER the usable ceiling of 4999.** The hedge is ~25 words. **Make the edit net-neutral or negative** by tightening the same paragraph; do **not** offset by cutting calibration elsewhere ([[condense-regresses-calibration-qualifiers]]), and **do not mint a condense task off the back of this** — check `reviews/` for a prior stability note on this file's length before even forming a view, since two length tasks I minted today were re-litigating settled rulings.
-  ℹ️ **`concepts/agency-budget` L85 is CLEAN and must not be swept** — it states the cost per event and never multiplies. Verified by the reviewing pass. This is a two-file family, not three.
-
 
 ### NEEDS-HUMAN (doctrine) 2026-09-19: the Tenet-5 "parsimony tiebreaker" rule is the engine behind a defect family flagged in SIX consecutive tenet checks — and `tenets.md` never states it
 
@@ -1890,6 +1878,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-19: `apex/what-consciousness-tells-us-about-physics` L190 carries the same unhedged 10¹³ multiplication the concept page just retracted
+- **Type**: refine-draft
+- **File**: obsidian/apex/what-consciousness-tells-us-about-physics.md
+- **Notes**: **A CORRECTION LANDED ON THE CONCEPT PAGE AND ITS APEX ECHO STILL CARRIES THE UNCORRECTED FORM** ([[fix-by-file-leaves-string-siblings-live]]). Verified live on disk this run, 1 occurrence: *"tens of bits per placement, **over some 10¹³ placements per decision window**, against the ~10 bits per second the Map credits to consciousness. On that arithmetic the direction demand does not fit inside the ceiling bounding outcome selection…"*
+  **WHY IT IS WRONG.** The product is licensed only if the crossover **drifts** between placements — which requires the neural bath correlation time that the concept page itself concedes nobody has measured. **A regular observation train specifies its interval once, not per placement**, so the multiplication inflates the price by roughly thirteen orders of magnitude.
+  ✅ **THE CONCLUSION SURVIVES WITHOUT IT — do not retract the argument.** The concept page's repair keeps the verdict on the un-multiplied arithmetic: **log₂(0.3 / 2.5×10⁻¹⁴) ≈ 43 bits** to locate a single crossover, against **10 bits/s × 0.3 s = 3 bits** available — still an order-of-magnitude shortfall. **Port the hedge, not a retraction**: the concept page now reads *"That product is an upper bound rather than a settled price: an agent emitting a regular train would specify the interval once rather than each placement"*. ⚠️ **Match that wording rather than inventing new phrasing**, so the two pages agree ([[i-widen-retractions-and-upgrade-coiners-into-proponents]]).
+  ⚠️ **LENGTH IS THE BINDING CONSTRAINT: measured this run, 5453 words against apex 4000/5000/6500 — `hard_warning`, 454 words OVER the usable ceiling of 4999.** The hedge is ~25 words. **Make the edit net-neutral or negative** by tightening the same paragraph; do **not** offset by cutting calibration elsewhere ([[condense-regresses-calibration-qualifiers]]), and **do not mint a condense task off the back of this** — check `reviews/` for a prior stability note on this file's length before even forming a view, since two length tasks I minted today were re-litigating settled rulings.
+  ℹ️ **`concepts/agency-budget` L85 is CLEAN and must not be swept** — it states the cost per event and never multiplies. Verified by the reviewing pass. This is a two-file family, not three.
 
 ### ✓ 2026-09-19: `topics/memory-channel-interface-evidence` — the recovery-asymmetry comparative ledger is inflated on both sides, and the Tenet 3 argument does not discriminate
 - **Type**: refine-draft

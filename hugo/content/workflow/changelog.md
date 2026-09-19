@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T20:20:00+00:00'
+ai_modified: '2026-09-19T20:43:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-19'
-lastmod: 2026-09-19 20:20:00+00:00
+lastmod: 2026-09-19 20:43:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-19T20:43:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)
+- **Task**: P2 queue task — port the 10^13-multiplication hedge installed on `concepts/sign-problem-for-conscious-observation` by the 2026-09-19 deep review, which this apex echo still carried in its uncorrected form (fix-by-file-leaves-string-siblings-live).
+- **Defect**: the "Specify the coupling" paragraph priced the Horn 2 direction demand at "tens of bits per placement, over some 10^13 placements per decision window". The product form is licensed only where the crossover drifts between placements, which needs the neural bath correlation time nobody has measured; a regular observation train specifies its interval once, not per placement. The multiplication inflated the stated price by roughly thirteen orders of magnitude.
+- **Fix**: the paragraph now prices the surviving, un-multiplied arithmetic first — locating one crossover inside a 300 ms window costs some forty bits against the three the Map's ~10 bits per second allows — and keeps the per-placement product as an explicitly marked upper bound rather than a settled price, with the drift condition and its unmeasured status named. Claim now agrees with the concept page; key phrasings ("upper bound rather than a settled price", "specifies its interval once rather than each placement") matched, the trailing drift clause compressed for length.
+- **Conclusion preserved**: the order-of-magnitude shortfall and the verdict that it lands on the horn the agency reading needs both survive; this is a hedge on the arithmetic, not a retraction of the argument. No new citations — nothing external is needed for a hedge on existing arithmetic.
+- **Word count**: 5453 -> 5469 (+16; apex 4000/5000/6500, `hard_warning` before and after). Paid for inside the same paragraph: the paragraph was 164 words (the figure the 2026-09-17 apex-evolve pass held it at) and is now 180. ~54 words of new hedge and surviving arithmetic were offset by ~38 words of tightening in the same paragraph — scaffolding sentence shortened, the sign-problem setup recast from a relative clause to a participial one, the verdict sentence de-duplicated against the arithmetic it restates, and the closing constraint compressed. No calibration was cut elsewhere in the article (condense-regresses-calibration-qualifiers); the coherence-only grade, the yes/no-attending gloss and the drift caveat all remain.
+- **Prior length ruling checked and honoured**: this file carries a standing operator length decision, not an open condense authorisation. `reviews/deep-review-2026-06-05` (reaffirmed 06-21, 06-22, 07-20) rules the Triple Screen and Evidence-and-Dependency content load-bearing and forbids auto-condensing it; `reviews/apex-evolve-2026-08-17` measured the overflow as real body prose (4744 of 5092), explicitly rejected the reference-apparatus excuse for this file, and declined to mint a condense task because `/condense` targets the 4000 soft threshold and would license cutting ~1400 words of calibration-dense synthesis. No condense task minted here either; the article remains one of the apex awaiting an operator length call.
+- **Published**: yes
 
 ## 2026-09-19T20:20:00+00:00 - deep-review
 - **Status**: Success
