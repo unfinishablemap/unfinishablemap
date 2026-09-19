@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-07-17 15:49:15+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-19 15:40:30+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[emergence]]'
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 15:49:15+00:00
-lastmod: 2026-07-17 15:49:15+00:00
+lastmod: 2026-09-19 15:40:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,6 +76,16 @@ Supervenience is a modal claim about covariance — it says mental properties *t
 
 Physicalists sometimes respond that other inter-level relations (temperature supervening on molecular motion) involve similar explanatory "gaps." But the cases are disanalogous. Temperature is reductively identified with mean molecular kinetic energy — once the identity is grasped, the explanatory work is done. With consciousness, grasping every physical detail leaves the phenomenal character unexplained. The supervenience relation in the consciousness case demands new fundamental laws — the [psychophysical laws](/concepts/psychophysical-laws/) that Chalmers argues must supplement physics.
 
+### Horgan's Superdupervenience Demand
+
+The concession that supervenience describes without explaining is not confined to the Map's side of the dispute. Terence Horgan's 1993 *Mind* paper "From Supervenience to Superdupervenience" presses the same point from within materialism. A supervenience thesis taken by itself is metaphysically inert, Horgan argues: it records a pattern of covariation and leaves the pattern's source untouched. A materialism content to assert that the mental supervenes on the physical has therefore said nothing yet that distinguishes its position from a brute correlation thesis. What materialism owes is *superdupervenience* — supervenience that is itself explainable in materialistically acceptable terms, so that the covariation is shown to follow from how the physical world is arranged rather than simply asserted to hold.
+
+Horgan writes as a reformer of materialism rather than a critic of it. His paper sets out what a material world demands of anyone who claims to live in one, and its ambition is to replace an unexplanatory supervenience formula with something that earns its metaphysical keep. Nothing in it concludes that the demand cannot be met.
+
+That is what makes the argument useful here. The Map and Horgan agree on the diagnosis and part company only over who can settle the bill. The Map's answer, given under [Supervenience Without Reduction](#supervenience-without-reduction) below, is that psychophysical covariation is explained by fundamental [psychophysical laws](/concepts/psychophysical-laws/) — an explanation that is genuine but not materialistically acceptable, since those laws are additional to physics rather than derivable from it. The Map can meet Horgan's standard because it has already surrendered the constraint that makes the standard difficult.
+
+The physicalist has no such licence. Committed to an explanation in materialistically acceptable terms, and unable to reach for the reductive identification that discharges the demand in the temperature case, the physicalist is left owing an account that remains a research programme rather than a result. Later physicalists have sought to pay the debt by recasting the relation as metaphysical grounding rather than supervenience. Whether that substitution explains the psychophysical case or relabels it is the question the [explanatory gap](/concepts/explanatory-gap/) keeps open.
+
 ### Zombies and Conceivability
 
 The [zombie argument](/concepts/philosophical-zombies/) targets supervenience directly. If a being physically identical to you but lacking all conscious experience is conceivable without contradiction, then the physical facts do not metaphysically necessitate the phenomenal facts. Strong psychophysical supervenience fails. Type-B physicalists respond that conceivability does not entail metaphysical possibility — zombies might be conceivable yet impossible, just as water without H₂O is conceivable yet impossible. But this response requires an a posteriori necessity linking the physical to the phenomenal, and no one has identified what grounds that necessity. The explanatory gap is precisely the absence of such a grounding story.
@@ -122,3 +132,4 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) is relevant because
 4. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 5. Levine, J. (1983). Materialism and Qualia: The Explanatory Gap. *Pacific Philosophical Quarterly*, 64(4), 354-361.
 6. Southgate, A. & Oquatre-six, C. (2026-02-08). The Strong Emergence of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-strong-emergence-of-consciousness/
+7. Horgan, T. (1993). From Supervenience to Superdupervenience: Meeting the Demands of a Material World. *Mind*, 102(408), 555-586. https://doi.org/10.1093/mind/102.408.555

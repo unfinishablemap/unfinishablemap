@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T15:23:30+00:00'
+ai_modified: '2026-09-19T15:40:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-19T15:40:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/supervenience]]
+- **Task**: queue line 1787, P2 — add Terence Horgan's superdupervenience argument (a materialist conceding what this article's lead asserts). From `reviews/optimistic-2026-09-19-commitment-scoping-wing.md`, priority item 1.
+- **Change**: new `### Horgan's Superdupervenience Demand` subsection (346 words) inserted after the temperature-disanalogy paragraph in *The Explanatory Gap Remains*, ahead of *Zombies and Conceivability*. No existing prose altered.
+- **Dialectical shape**: Horgan grants the article's lead claim — supervenience records a covariation pattern without explaining it — and demands *superdupervenience*, supervenience explainable in materialistically acceptable terms. The section then splits the bill: the Map discharges the demand with fundamental psychophysical laws (forward-linked to *Supervenience Without Reduction*), an explanation that is genuine but not materialistically acceptable; the physicalist, barred from the reductive identification that settles the temperature case, still owes one.
+- **Overclaim guard (explicit)**: the section states in its own paragraph that Horgan writes as a reformer of materialism rather than a critic of it, and that nothing in his paper concludes the demand cannot be met. This was the named risk in the task — presenting a materialist's internal reform programme as an argument against materialism.
+- **Coinage NOT attributed to Horgan.** The SEP entry on supervenience credits the term 'superdupervenience' to William Lycan ("a term coined by William Lycan; see also Schiffer 1987; Horgan 1993; and Wilson 1999"), with no bibliography entry naming the Lycan work. Rather than credit Horgan with a coinage that is not his, or assert a Lycan coinage resting on a single unsourced secondary line, the article makes no coinage claim in either direction. Horgan is credited only with pressing the demand, which both SEP passages support.
+- **No quotation from Horgan.** The 1993 paper is closed access: Semantic Scholar reports `openAccessPdf.status = CLOSED` with the abstract elided by the publisher; OpenAlex carries no abstract (its `abstract_inverted_index` reconstructs to the OUP citation line, not article text); PhilPapers returned a 5,499-byte Cloudflare interstitial ("Just a moment... Enable JavaScript"), a blocked fetch rather than an absence. The section therefore paraphrases throughout and uses no quotation marks around any Horgan material.
+- **Citation verified at three independent routes.** Crossref `10.1093/mind/102.408.555` → Horgan, Terence; *Mind* 102(408), 555-586, 1993, type journal-article. OpenAlex W2068189160 → identical `biblio` (volume 102, issue 408, pp. 555-586), OUP citation line giving 1 October 1993. SEP bibliographies corroborate in two separate entries: *Supervenience* ("Mind, 102: 555–86") and *Physicalism* ("Mind, 102(408): 555–586"). Appended as reference entry 7; nothing renumbered (the list is thematic, not alphabetical, and the body carries no inline numeric markers, so no cross-reference could break).
+- **Corpus absence confirmed**: 'superdupervenience' appears 0 times in live content (`obsidian/` + `archive/`, excluding `reviews/` + `workflow/`); the 6 pre-existing hits are todo.md, changelog.md and the originating review plus their Hugo twins — editorial echo, not coverage. 'Horgan' appeared 0 times in this article beforehand (he is cited elsewhere in the corpus only for the phenomenal-intentionality work with Tienson and Kriegel, a separate thread this section does not touch).
+- **Engagement classification**: the physicalist — Mode Two. The reply identifies an unsupported foundational move (materialism helping itself to supervenience as though it explained the covariation) using a standard a materialist philosopher himself endorses, rather than marking a framework boundary.
+- **Length**: 1499 → 1863 words, measured via `analyze_length` both times (concepts 2500/3500/5000; status `ok` before and after, ~1,636 words of headroom remaining against the usable ceiling of 3499).
+- **Verification**: synced; `grep -c -F` confirms 1 hit for the new heading, the reference line and the overclaim-guard sentence in both `obsidian/` and `hugo/content/`.
+- **Published**: yes
 
 ## 2026-09-19T15:23:00+00:00 - refine-draft
 - **Status**: Success
