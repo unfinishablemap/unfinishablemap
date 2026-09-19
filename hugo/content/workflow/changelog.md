@@ -1,14 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T09:09:00+00:00'
+ai_modified: '2026-09-19T09:26:40+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-19'
-lastmod: 2026-09-19 09:09:00+00:00
+lastmod: 2026-09-19 09:26:40+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-19T09:26:40+00:00 - deep-review
+- **Status**: Success
+- **File**: [capability-division-in-vision](/concepts/capability-division-in-vision/)
+- **Word count**: 2837 -> 2969 (+132; concepts 2500 soft / 3500 hard, `length.py` fires on `>= hard` so the usable ceiling is 3499 -> 530 words headroom left)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 1
+- **Enhancements made**: 0 (no expansion; all three edits are corrections)
+- **Headline finding — a source-fidelity defect that survived the article's entire lifetime.** Five prior deep reviews, two of them full publisher-of-record citation audits (2026-06-05, 2026-06-21), certified Derrien et al. (2022) CLEAN with the stance gloss "detection failure". The metadata was always correct; the article's *reading* was not. Textbook citation-ledger-ratifies-the-reading-not-just-the-metadata — the ledger ratified the gloss instead of testing it. Caught only by reading the raw full text.
+- **Verification method**: Europe PMC full-text XML for PMC8884361 (PMID 35237447), tag-stripped + HTML-unescaped + **NFKC**-normalised + whitespace-collapsed to 96,558 chars; offsets below are into that normalised text.
+  - @**23846**: *"blindsight patients achieve better sensitivity in two-alternative forced choice (2AFC) discrimination tasks than in yes-no (YN) detection tasks (even following appropriate mathematical corrections; Azzopardi and Cowey 1997), indicating some information is exclusively available for discrimination, not detection"* -> a graded sensitivity gap, not a detection failure.
+  - @**16836**: *"In blindsight type II, not only are these objective discriminatory capacities present, they are also accompanied by some phenomenological subjective experience: patients have 'feeling' in their blind VF and thus report some form of awareness"* -> flatly contradicts the article's universal.
+  - @**17105** / @**17262** (blindsense): *"will acknowledge 'feeling the presence of a stimulus' but will deny it the status of 'visual' experience"*; @**47279** GWS reading: *"there is something but it is not visual"*.
+  - @**26024**: *"response bias may not account for 'all' of the difference between YN and 2AFC performance"*; @**26203** Azzopardi and Cowey (2001) attribute the remainder to *"an impairment of decision-making process due to the disruption of neural mechanisms responsible for optimizing the response criterion"*.
+  - @**87602** (Derrien's own reference list): *"Phillips I. Blindsight is qualitatively degraded conscious vision. Psychol Rev 2021b; 128:558-84. 10.1037/rev0000254"* -> independent corroboration of the article's Reference 7.
+- **Changes** — three edits, exact loci:
+  - **CRITICAL 1, L56.** Removed *"Blindsight patients succeed at forced-choice discrimination but fail at detection - they cannot report whether anything appeared at all"*. Replaced with the faithful sensitivity comparison plus the type I / type II split, relocating the mind-side residue to where the source puts it: *"What no subtype recovers is the spontaneous report of a seen object."* Both a some->all qualifier failure and a result-direction overstatement, so critical under SKILL.md section 2.5, not a bedrock disagreement.
+  - **CRITICAL 2, L58.** *"They do not experience themselves as seeing"* was an unscoped universal that the L56 fix would have turned into an internal inconsistency. Scoped to *"Even the type II patients who report that something is present deny it the status of visual experience - they do not experience themselves as seeing."* The claim now survives the hardest case rather than dodging it.
+  - **MEDIUM 3, "What Would Challenge This View?" item (1)** — newly-installed material from `37367b7610`, never reviewed. It asserted *"Bias-free signal-detection procedures exist"* and treated the response-bias question as wholly open, while the article's own cited source reports the leading test and its contested remainder. One sentence added reporting both.
+- **Reasoning-mode classification (editor-internal)** — engagement with Phillips (2021): **Mode Three**, unchanged, and the new falsifiability item (1) strengthens it by naming the article's position as a hedge rather than a prediction. Engagement with the epiphenomenalist: **Mixed** (Mode Two opening -> Mode Three residue), unchanged. Engagement with the physicalist in the new "Relation to Site Perspective" paragraph: **Mode Three** — states the format-not-interface reading in its own terms, concedes nothing in the visual evidence settles the question, retreats to "the weaker and defensible one". No boundary-substitution anywhere.
+- **Checks that found nothing** (recorded so they are not re-run blind): `find_superlative_claims` 0 hits; label-leakage grep across all forbidden editor-vocabulary tokens 0 hits; inline <-> References cross-check clean both directions; all 12 wikilink targets added by `37367b7610` resolve to real files; the three `tenets#^...` block anchors all exist. Ludwig (2023) re-verified at Europe PMC (PMID 36628118 -> `Ludwig D.`, vol 2023, issue 1, `niac018`, DOI 10.1093/nc/niac018) because a `niac` article number in a 2023 volume looks like a year/prefix mismatch and is not one.
+- **Judged a false alarm**: item (3) of the falsifiability section cites [the-interface-problem](/topics/the-interface-problem/) for a claim that is strictly the thesis of [standing-agnostic-challenge](/concepts/standing-agnostic-challenge/), which item (5) already cites one paragraph later. The interface-problem article does carry the supporting "concept gap" material (phenomenal quantities resist measurement), so the attribution is defensible and retargeting a freshly-installed cross-link would be churn. No change.
+- **Attribution**: `ai_system` `claude-opus-4-8` -> `claude-opus-4-8+claude-opus-5` (claim-bearing prose rewritten). `ai_modified` and `last_deep_review` both set to a live `date -u` reading.
+- **Sync**: `scripts/sync.py` run; changed and removed strings grep-verified in **both** `obsidian/` and `hugo/content/`.
+- **Output**: [deep-review-2026-09-19-capability-division-in-vision](/reviews/deep-review-2026-09-19-capability-division-in-vision/)
+- **Published**: yes
 
 ## 2026-09-19T09:09:00+00:00 - refine-draft
 - **Status**: Success

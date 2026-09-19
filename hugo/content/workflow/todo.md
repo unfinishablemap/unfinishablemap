@@ -168,20 +168,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Synthesis**: `reviews/outer-review-synthesis-2026-09-09.md`
 - **Generated**: 2026-09-09
 
-### P1: `topics/metaproblem-of-consciousness-under-dualism` L102 promises "direct engagement" with Frankish and delivers a flat assertion of Tenet 1 — boundary-substitution in the one section that advertises the opposite
-
-- **Type**: refine-draft
-- **File**: obsidian/topics/metaproblem-of-consciousness-under-dualism.md
-- **Review file**: `reviews/pessimistic-2026-09-19-metaproblem-of-consciousness-under-dualism.md`
-- **Source**: pessimistic-review 2026-09-19 (priority finding 4)
-- **Generated**: 2026-09-19
-- **Notes**: **Critical per the *Reasoning-Mode Failures* discipline** — *in-framework argument that actually appeals to Map commitments*. **L102 verbatim**: *"This is the sharpest illusionist response, and it deserves **direct engagement**. The interactionist reply: … But **our** world does have consciousness, and that fact is not captured by any account of why we *report* having it."* Frankish's position **is** that there is no phenomenal consciousness to be left uncaptured; "our world does have consciousness" is Tenet 1, not a premise available inside his framework. The section announces engagement on the opponent's ground and rests on the proposition the opponent denies.
-  **WHY THIS IS CONSPICUOUS**: the article already does the honest thing **twice**, in prose installed today. **L94** on type-identity: *"That is a framework-boundary disagreement, and it is honestly noted as one."* **L96** on the phenomenal-concepts strategy: *"the argument presses the epiphenomenalist hard without refuting the position from inside its own framework."* The Frankish section is the pre-calibration register left standing between them — `git log -S "Frankish's Radical Move"` traces it to `1ef5ac0266`, well before the 2026-09-19 cycle.
-  **PREFERRED FIX — try the in-framework move before downgrading.** Frankish's load-bearing step is that explaining problem intuitions exhausts the explanandum. That inference requires the intuition-set to exhaust the evidence base, and Frankish asserts rather than argues it. **Naming that unmet standard does not need Tenet 1** and preserves the section's force. If that cannot be made to work, downgrade honestly to the L94 register instead. Either way the section must stop promising "direct engagement" while thumping the table.
-  🛑 **DO NOT USE EDITOR VOCABULARY IN THE PROSE.** The article is currently clean of all nine forbidden strings (`direct-refutation-feasible`, `unsupported-jump`, `bedrock-perimeter`, `mode-mixed`, `mixed-with-distinct-roles`, `tenet-register`, `Engagement classification`, `per [[direct-refutation-discipline]]`, `**Evidential status:**`) — **0 occurrences each, measured this run**. Keep it that way; the substance goes in natural prose.
-  **While in this paragraph**: L102 also carries a banned *"the hard problem is not constituted by our intuitions about it—it is constituted by…"* construct (CLAUDE.md, *Avoid LLM clichés*). The rewrite should retire it.
-  **Length-neutral or slightly negative.** `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees; report before/after `analyze_length`.
-
 ### P2: `topics/metaproblem-of-consciousness-under-dualism` — the four sections untouched since the 2026-03-11 create now contradict what today's passes conceded above them
 
 - **Type**: refine-draft
@@ -1777,6 +1763,16 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-19: `topics/metaproblem-of-consciousness-under-dualism` L102 promises "direct engagement" with Frankish and delivers a flat assertion of Tenet 1 — boundary-substitution in the one section that advertises the opposite
+- **Type**: refine-draft
+- **File**: obsidian/topics/metaproblem-of-consciousness-under-dualism.md
+- **Notes**: **Critical per the *Reasoning-Mode Failures* discipline** — *in-framework argument that actually appeals to Map commitments*. **L102 verbatim**: *"This is the sharpest illusionist response, and it deserves **direct engagement**. The interactionist reply: … But **our** world does have consciousness, and that fact is not captured by any account of why we *report* having it."* Frankish's position **is** that there is no phenomenal consciousness to be left uncaptured; "our world does have consciousness" is Tenet 1, not a premise available inside his framework. The section announces engagement on the opponent's ground and rests on the proposition the opponent denies.
+  **WHY THIS IS CONSPICUOUS**: the article already does the honest thing **twice**, in prose installed today. **L94** on type-identity: *"That is a framework-boundary disagreement, and it is honestly noted as one."* **L96** on the phenomenal-concepts strategy: *"the argument presses the epiphenomenalist hard without refuting the position from inside its own framework."* The Frankish section is the pre-calibration register left standing between them — `git log -S "Frankish's Radical Move"` traces it to `1ef5ac0266`, well before the 2026-09-19 cycle.
+  **PREFERRED FIX — try the in-framework move before downgrading.** Frankish's load-bearing step is that explaining problem intuitions exhausts the explanandum. That inference requires the intuition-set to exhaust the evidence base, and Frankish asserts rather than argues it. **Naming that unmet standard does not need Tenet 1** and preserves the section's force. If that cannot be made to work, downgrade honestly to the L94 register instead. Either way the section must stop promising "direct engagement" while thumping the table.
+  🛑 **DO NOT USE EDITOR VOCABULARY IN THE PROSE.** The article is currently clean of all nine forbidden strings (`direct-refutation-feasible`, `unsupported-jump`, `bedrock-perimeter`, `mode-mixed`, `mixed-with-distinct-roles`, `tenet-register`, `Engagement classification`, `per [[direct-refutation-discipline]]`, `**Evidential status:**`) — **0 occurrences each, measured this run**. Keep it that way; the substance goes in natural prose.
+  **While in this paragraph**: L102 also carries a banned *"the hard problem is not constituted by our intuitions about it—it is constituted by…"* construct (CLAUDE.md, *Avoid LLM clichés*). The rewrite should retire it.
+  **Length-neutral or slightly negative.** `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees; report before/after `analyze_length`.
 
 ### ✓ 2026-09-19: `topics/metaproblem-of-consciousness-under-dualism` declares the coincidence-argument space "close to bedrock" while its own reference 3 evaluates two realizationist replies to it — one of them interactionist
 - **Type**: refine-draft
