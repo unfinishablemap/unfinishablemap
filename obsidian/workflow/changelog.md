@@ -5,6 +5,16 @@ ai_modified: '2026-09-19T05:12:18+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-19T05:22:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/meta-problem-of-consciousness]]
+- **Task**: outer-review-2026-09-19-chatgpt-5-6-sol-pro §1.11 — L103 internal contradiction
+- **Scope**: Sentence-level factual correction only. The paragraph's argumentative structure (zombie dilemma, overdetermination horn, interactionist reply) was deliberately left untouched for the two sibling P1 passes that own it (L58 zombie-equivocation, L1712 born-preserving/no-divergence).
+- **Changes**: Corrected the statement of the Map's own position. The article claimed the interactionist reply requires influence "without violating causal closure"; the Map denies causal closure (`concepts/causal-closure` L82; `concepts/bidirectional-interaction` §"Addressing the Causal Closure Objection" rejects Kim's premise 1). Replaced with a statement that the reply *denies* causal closure rather than preserving it, and relocated the constraint quantum indeterminacy actually supplies — no added energy, no conservation-law violation — matching the corpus's canonical phrasing at `bidirectional-interaction` L69. The `causal-closure` wikilink is retained so the denial is followed to where it is argued.
+- **Convergence note**: The synthesis scored L101–103 as a 3/3 convergent *locus*, but this defect is ChatGPT's alone. Gemini's own review (L91) reproduces the erroneous "without violating the causal closure of physics" framing; Claude's review never mentions causal closure. Corrected on ChatGPT's verification plus two in-corpus siblings, not on convergence.
+- **Length**: 2595 → 2604 words (+9), `soft_warning` throughout; concepts soft 2500 / hard 3500, ceiling 3499. Headroom 904 → 895 for the five remaining P1s on this file.
+- **Published**: yes
+
 ## 2026-09-19T05:12:18+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-09-19

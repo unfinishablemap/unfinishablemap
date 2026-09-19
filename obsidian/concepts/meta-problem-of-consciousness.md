@@ -4,7 +4,7 @@ description: "Why do we think consciousness is hard to explain? Chalmers' meta-p
 created: 2026-02-09
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-09-11T22:54:33+00:00
+ai_modified: 2026-09-19T05:22:59+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -100,7 +100,7 @@ This creates a dilemma. If the zombie produces the same problem intuitions, then
 
 The Unfinishable Map's interactionist framework offers a response. If consciousness causally influences the physical world—the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet—then a zombie's problem reports would *not* be identical to ours. Consciousness doesn't merely accompany our philosophical reasoning; it contributes to it. A zombie's reports about consciousness would be produced by purely physical mechanisms that happen to mimic what consciousness-informed reasoning produces. Our reports are informed by direct acquaintance with the phenomenon. The outputs may look similar, but the processes generating them differ. Whether those differences would manifest as detectable divergences in philosophical depth or consistency is speculative—but the interactionist framework predicts they exist, which is more than epiphenomenalism can offer.
 
-This response does require that consciousness can influence physical outcomes without violating [[causal-closure|causal closure]]. The Map's framework locates this influence at quantum indeterminacies, where consciousness biases outcomes that physics leaves undetermined. If this is correct, the zombie meta-problem dissolves: zombies lack the causal contributor that makes our problem reports genuinely informed rather than coincidentally accurate.
+This response requires that consciousness influence physical outcomes, so it denies [[causal-closure|causal closure]] rather than preserving it. The Map's framework locates that influence at quantum indeterminacies, where consciousness biases outcomes physics leaves undetermined without adding energy or violating conservation laws. If this is correct, the zombie meta-problem dissolves: zombies lack the causal contributor that makes our problem reports genuinely informed rather than coincidentally accurate.
 
 ## The Phenomenal Transparency Connection
 
