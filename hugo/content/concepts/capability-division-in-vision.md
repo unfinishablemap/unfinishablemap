@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-06-21 21:15:48+00:00
+ai_modified: 2026-09-19 00:08:55+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-21 21:15:48+00:00
-lastmod: 2026-06-21 21:15:48+00:00
+lastmod: 2026-09-19 00:08:55+00:00
 modified: *id001
 related_articles:
 - '[[capability-division-problem]]'
@@ -97,6 +97,8 @@ One speculative possibility: the mind-side contribution in vision may not be an 
 
 The same division generalises beyond vision. [Auditory consciousness](/topics/auditory-consciousness-and-the-interface/) applies the brain-side/mind-side split to hearing: frequency analysis, onset detection, and harmonic grouping deliver organised candidate streams (the brain-side capabilities of auditory scene analysis), while the experienced unity of hearing one sound is the mind-side contribution. Because auditory grouping cannot rely on spatial co-location, the auditory case shows the division is not an artefact of vision's spatial scaffolding.
 
+Running the division across several modalities at once raises a question no single-modality case reaches. The [3D world representation problem](/topics/three-dimensional-world-representation-problem/) asks how visual depth, auditory localisation, proprioceptive body position and vestibular orientation come to be registered in one spatial arena rather than in parallel modality-specific maps. Read through the division set out above, the brain side supplies the computational achievement — disparity calculation, sensor fusion, spatial mapping — while the felt unity of the arena falls on the mind side. That article states in cross-modal form the problem this one states for vision alone.
+
 ## Further Reading
 
 - [capability-division-problem](/voids/capability-division-problem/) — The general void: why the division may resist clean specification
@@ -108,6 +110,7 @@ The same division generalises beyond vision. [Auditory consciousness](/topics/au
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — The three functions consciousness enables that vision exemplifies
 - [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — How vision dissociations map the interface's functional anatomy
 - [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — The same capability division pattern in proprioception and spatial imagination
+- [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/) — The cross-modal case: how the division delivers one spatial arena rather than parallel modality-specific maps
 - [cross-modal-capability-division](/apex/cross-modal-capability-division/) — The synthesis: the division recurs across the senses as an asymmetry — modality-specific brain machinery, a supramodal mind-side access boundary
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Dreams demonstrate the converse of blindsight: phenomenal experience without visual input, with the same dorsal/ventral division shaping dream imagery
 - [interactionist-dualism](/concepts/interactionist-dualism/)

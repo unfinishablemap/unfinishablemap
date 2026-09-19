@@ -4,7 +4,7 @@ description: "Hearing supplies what vision lacks: melody unfolding in time, audi
 created: 2026-05-31
 modified: 2026-09-18
 human_modified:
-ai_modified: 2026-09-18T23:56:02+00:00
+ai_modified: 2026-09-19T00:08:55+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -52,6 +52,8 @@ Auditory scene analysis is valuable for the binding discussion precisely because
 
 Visual qualia are saturated with space. Colour is colour *of a region*; shape is spatial by definition. Auditory qualities are different. Sounds have pitch, timbre, and loudness, but—on a standard view in the philosophy of perception—these qualities "lack intrinsic spatial characteristics" (O'Callaghan, *Auditory Perception*, Stanford Encyclopedia of Philosophy). We do localise sound sources, but localisation is computed from interaural timing and level differences; it is not carried within the pitch or timbre itself the way extension is carried within a colour patch. A pitch can rise or fall, but "up" and "down" here are not literal spatial directions—they are a metaphor laid over an ordering that is, at root, a matter of periodicity.
 
+That computed localisation still has to arrive somewhere, and where it arrives is not an auditory map of its own but the single cross-modal arena described by the [[three-dimensional-world-representation-problem|3D world representation problem]]—the arena in which a slamming door is heard from where the door is seen. Audition therefore occupies an odd position. Its qualities carry no intrinsic spatial character, yet its localisation output is bound into a spatial framework it does not itself supply. The non-spatiality claim concerns pitch and timbre; it leaves audition's contribution to the felt spatial world untouched.
+
 Two features make auditory qualia especially clean test cases for the irreducibility of [[qualia]]. First, the **missing fundamental**: a complex tone lacking any spectral energy at its fundamental frequency is still heard at that fundamental's pitch. The perceived quality does not correspond to a frequency present in the stimulus—pitch is computed, not read off. Second, **timbre** is the quality by which two sounds of identical pitch and loudness still differ—a violin and a flute on the same note. Timbre is multidimensional and resists reduction to any single physical parameter, yet it is immediately and determinately present in experience.
 
 The physicalist treats all of this as more perceptual computation: periodicity extraction yields the missing-fundamental pitch; spectral-envelope and temporal-fine-structure analysis yields timbre. That account is live and well supported, and nothing in the missing fundamental tells against it. What the non-spatial auditory qualities arguably do is press the [[explanatory-gap|explanatory gap]] in a register vision cannot. It is no accident that the canonical statement of the gap—Nagel's question of what it is like to be a bat (Nagel, 1974)—reaches for an *auditory* creature whose world is built from echolocation; the felt character of a heard quality is where the "what it's like" pressure is most easily isolated from any external object-property to identify it with. With colour one can be tempted to locate the quality in the surface—to say yellowness just *is* a reflectance. Pitch and timbre seem to have no such external home: there is no "fundamental frequency" sitting in the world to identify the missing-fundamental pitch with, and no single physical magnitude that plausibly identifies timbre. The quality appears determinate in experience while being conspicuously non-identical to any one stimulus property. That may make audition a sharp illustration of why qualia resist reduction—an illustration, the Map holds, rather than a demonstration.
@@ -91,6 +93,7 @@ The Map does not claim audition settles dualism. It claims audition is evidence 
 - [[temporal-consciousness]] — the specious present and the durational structure heard sound makes vivid
 - [[chemosensory-consciousness-and-the-interface]] — the chemical-sense companion: smell and taste supply a stimulus-percept gap without spatial scaffolding, a non-Euclidean quality space, and flavour as binding
 - [[tactile-consciousness-and-the-interface]] — the touch companion: active haptics requires movement, the touching hand is also touched, affect is woven into contact, and the felt body boundary is movable
+- [[three-dimensional-world-representation-problem]] — the cross-modal spatial arena auditory localisation feeds, though pitch and timbre carry no spatial character
 - [[cross-modal-capability-division]] — the cross-modal synthesis: the division recurs as an asymmetry (modality-specific brain side, supramodal mind-side boundary), with auditory scene analysis as the spatial-scaffolding-free binding case
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-06-23 00:07:47+00:00
+ai_modified: 2026-09-19 00:08:55+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-23 00:07:47+00:00
-lastmod: 2026-06-23 00:07:47+00:00
+lastmod: 2026-09-19 00:08:55+00:00
 modified: *id001
 related_articles:
 - '[[binding-problem]]'
@@ -64,7 +64,7 @@ The Unfinishable Map identifies a deep puzzle at the intersection of perception,
 
 The brain's construction of spatial representation from sensory data is genuinely impressive. Two slightly offset two-dimensional retinal images provide binocular disparity. Motion parallax adds depth information as the head moves. Texture gradients, occlusion, atmospheric perspective, and familiar size contribute monocular depth cues. The vestibular system tracks head orientation. Proprioceptive signals report body position. Auditory interaural differences provide spatial localisation of sound sources.
 
-From these disparate signals, the brain constructs and maintains a coherent spatial model that updates in real time. Neuroscience has identified many of the mechanisms involved: place cells and grid cells in the hippocampal formation encode spatial location, head direction cells track orientation, and border cells respond to environmental boundaries. The dorsal visual stream processes spatial relationships and guides action, while the ventral stream handles object recognition. Cross-modal integration in parietal cortex binds visual, auditory, and proprioceptive information into a unified spatial framework.
+From these disparate signals, the brain constructs and maintains a coherent spatial model that updates in real time. Neuroscience has identified many of the mechanisms involved: place cells and grid cells in the hippocampal formation encode spatial location, head direction cells track orientation, and border cells respond to environmental boundaries. The [dorsal visual stream](/concepts/capability-division-in-vision/) processes spatial relationships and guides action, while the ventral stream handles object recognition. Cross-modal integration in parietal cortex binds visual, auditory, and proprioceptive information into a unified spatial framework.
 
 This is a remarkable computational achievement. The puzzle is what the achievement leaves untouched: why this processing is accompanied by phenomenal experience at all.
 
@@ -88,7 +88,7 @@ The 3D world representation problem has three distinguishable aspects, each posi
 
 ### The Construction Problem
 
-How are fragmented, modality-specific signals transformed into a single unified spatial representation? This is a version of the [binding problem](/concepts/binding-problem/) applied specifically to spatial cognition. Visual depth, auditory localisation, proprioceptive body position, and [vestibular orientation](/topics/vestibular-consciousness-and-the-interface/)—the otolith gravity signal supplying the world-anchored vertical axis—are processed in different brain regions using different neural codes. The bound spatial world—in which a visible object is also the source of a sound, located at a reachable distance from a felt body—requires these disparate signals to be integrated into a single coherent spatial framework.
+How are fragmented, modality-specific signals transformed into a single unified spatial representation? This is a version of the [binding problem](/concepts/binding-problem/) applied specifically to spatial cognition. Visual depth, [auditory localisation](/topics/auditory-consciousness-and-the-interface/), proprioceptive body position, and [vestibular orientation](/topics/vestibular-consciousness-and-the-interface/)—the otolith gravity signal supplying the world-anchored vertical axis—are processed in different brain regions using different neural codes. The bound spatial world—in which a visible object is also the source of a sound, located at a reachable distance from a felt body—requires these disparate signals to be integrated into a single coherent spatial framework.
 
 The [unity of consciousness](/concepts/unity-of-consciousness/) is particularly vivid in spatial experience. The perceived world is not a collection of separate spatial maps (one visual, one auditory, one proprioceptive) that happen to coexist. It is a single spatial arena in which all modalities are registered. When a door slams, the sound comes from where the door is seen to be. When reaching for a cup, the felt position of the hand converges with the seen position of the cup in a shared space. This cross-modal spatial unity is so seamless that it takes philosophical reflection to notice it is puzzling at all.
 

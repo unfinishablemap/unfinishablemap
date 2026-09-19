@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T23:56:02+00:00'
+ai_modified: '2026-09-19T00:11:58+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-19T00:11:58+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/three-dimensional-world-representation-problem]] (donor) + [[concepts/capability-division-in-vision]] and [[topics/auditory-consciousness-and-the-interface]] (recipients)
+- **Task**: `reviews/optimistic-2026-09-18-modality-interface-wing` Priority 2 — the article that states the modality wing's central cross-modal problem was reachable from 1 of 8 wing members and linked back to 1. Integration pass, not a content pass; no new tenet claims.
+- **Original score**: not scored — `scripts/curate.py review` does not exist (stale skill instruction); review context taken from the originating optimistic review.
+- **No double-booking**: the Priority-1 auditory task had landed an hour earlier (`f4b2b070`) and did not touch the 3D pair. All four target directions re-measured at **0** with `grep -F` immediately before editing, body counts separated from `related_articles:` membership (frontmatter membership is not a body link). The `auditory -> capability-division-in-vision` edge already stood at 5 from that pass and was deliberately left alone.
+- **Length discipline** (`analyze_length`, printed not quoted; topics 3000/4000, concepts 2500/3500):
+  - `three-dimensional-world-representation-problem` **3453 -> 3453 (+0)**, `soft_warning` before and after, headroom 546. It was the donor and could not take prose, so both of its new links are **piped wikilinks laid over existing text** at literally zero word cost.
+  - `auditory-consciousness-and-the-interface` **2888 -> 2997 (+109)**, `ok` before and after, headroom 1002. The first draft of the insertion reached 3024 and tripped `soft_warning`; two of my own phrases were trimmed to bring it back under 3000 rather than leave a cosmetic status flip that could mint a spurious condense task later.
+  - `capability-division-in-vision` **1976 -> 2088 (+112)**, `ok` throughout, headroom 1411.
+- **Changes** — four links, two reciprocal pairs, no link-padding beyond them:
+  - **3D -> `capability-division-in-vision`** (zero cost): §"The Computational Achievement" already named the dorsal/ventral split; `dorsal visual stream` is now piped to the article that states that division as a capability division.
+  - **3D -> `auditory-consciousness-and-the-interface`** (zero cost): §"The Construction Problem" already enumerated `auditory localisation` in its list of modalities requiring binding; that phrase is now piped to the auditory spoke.
+  - **`capability-division-in-vision` -> 3D**: a new paragraph after the existing "The same division generalises beyond vision" host, noting that running the division across several modalities at once raises a question no single-modality case reaches, and assigning the cross-modal case's brain side (disparity, sensor fusion, spatial mapping) and mind side (felt unity of the arena) in the article's own established idiom. Plus a Further Reading entry.
+  - **`auditory-consciousness-and-the-interface` -> 3D**: a new paragraph closing §"Non-Spatial Pitch and Timbre Qualia", which had argued that localisation is computed from interaural cues and is not carried within pitch or timbre. The addition names where that computed localisation arrives — the single cross-modal arena — and draws the resulting asymmetry: audition's qualities carry no intrinsic spatial character, yet its localisation output is bound into a spatial framework it does not itself supply. The non-spatiality claim is thereby scoped to pitch and timbre without touching audition's contribution to the felt spatial world. Plus a Further Reading entry.
+- **Slug safety**: all three bare slugs verified unique across `obsidian/` and `archive/` (no colliding stems), so the bare forms resolve and cannot produce a silent 404. The one pre-existing `three-dimensional-world-representation-problem` string inside the 3D article is the `embedded_videos.source` notebooklm field, not a self-link.
+- **Sync**: `scripts/sync.py` run; all four edges confirmed present in **both** trees and confirmed rendered as real markdown links with correct section URLs (`/concepts/capability-division-in-vision/`, `/topics/auditory-consciousness-and-the-interface/`, `/topics/three-dimensional-world-representation-problem/` x2), not as stripped text. Sync reported no strips in any of the three files; the strips it did report are the pre-existing memory-slug wikilinks in the exempt `workflow/` tree.
+- **Out of scope, deliberately untouched**: `apex/cross-modal-capability-division`, which also has 0 links in both directions and which the review separately found opens "across five senses" while listing eight source articles. It was not in the reviewed set and drive-by edits into unreviewed neighbours are a known failure shape. Left for its own task.
+- **Published**: yes
 
 ## 2026-09-18T23:56:02+00:00 - refine-draft
 - **Status**: Success
