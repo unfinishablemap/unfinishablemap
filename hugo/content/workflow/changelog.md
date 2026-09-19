@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T18:15:00+00:00'
+ai_modified: '2026-09-19T18:25:22+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-19'
-lastmod: 2026-09-19 18:15:00+00:00
+lastmod: 2026-09-19 18:25:22+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-19T18:25:22+00:00 - refine-draft
+- **Status**: Success
+- **File**: [where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/)
+- **Task**: todo L1807 P2 — develop the second home of the persisting subject (optimistic-2026-09-19-commitment-scoping-wing, priority item 2)
+- **Word count**: 1240 -> 1772 (+532; concepts soft 2500 / hard 3500, status `ok` -> `ok`, 1727 below hard)
+- **Verdict: EXPAND, not narrow.** The task licensed a narrowing outcome if Tenet 4's indexical argument survived on a property-only reading. It does not. `tenets/background-commitments` Posit One states outright that "the agency, No-Many-Worlds, personal-identity, copying, and survival treatments all presuppose a *numerically determinate subject that persists through time*", splits the posit into primitive subject individuation and diachronic subject persistence, and assigns the components separately — agency taking "a persisting bearer of causal powers", the indexical objection taking "a determinate 'I' whose branch-assignment is a real further fact". That same paragraph names this page as "the canonical treatment of where this lean enters", so the analysis the task asked for already existed upstream and this page had never inherited it.
+- **Corroborating register evidence**: `positions/subject-census` [P-SC3](/positions/subject-census/#p-sc3) ("Persistence travels with the perspective") fails the foundational-dependency test on its persistence half "because Tenet 4's indexical objection concerns which *future* subject is genuinely me, so diachronic persistence is part of what the objection presupposes rather than something downstream of it". `positions/individuation-and-subjecthood` [P-I1](/positions/individuation-and-subjecthood/#p-i1) grounds closed individualism in "the same indexical/haecceity consideration that does the load-bearing work against many-worlds"; [P-I2](/positions/individuation-and-subjecthood/#p-i2) records that retiring it "for a deflationary, fragmented or process-only subject leaves the objection with nothing to discriminate among". `positions/agency-and-will` [P-A2](/positions/agency-and-will/#p-a2)'s *Bears on* note supplies the non-independence point used in the new section.
+- **Changes**: (1) new `## The Second Home: Indexical Identity Against Many-Worlds {#second-home}` placed after "Why Agent Causation Needs a Persisting Subject"; (2) the subordinate clause promoted to a forward reference with a same-page anchor, and its "self-opacity voids" half removed (see below); (3) one table row added; (4) two Further Reading entries; (5) `ai_system` extended per the plus-joined convention.
+- **Table row added** (two-column, existing verdict vocabulary, no new category): `| A real further fact fixes which branch, successor, or future subject is *me* (the indexical objection to many-worlds) | Substance-leaning (persisting subject) |`. Placed third, after the two agency rows.
+- **Narrowing applied to the other half of the clause**: the clause also asserted that "the self-opacity voids ... lean on one". Measured across all four self-opacity voids — `voids/self-opacity` (persist 0, substance 0), `voids/necessary-opacity` (1, 0), `voids/self-maintained-cognitive-limits` (2, 0), `voids/self-transcendence-void` (0, 0) — nothing supports it, and Posit One's own dependent list (agency, No-Many-Worlds, personal-identity, copying, survival) omits self-opacity. Dropped rather than restated.
+- **Refinement recorded, not a contradiction resolved**: `concepts/haecceity` holds that process haecceitism grounds No Many Worlds "without permanence", while [P-I1](/positions/individuation-and-subjecthood/#p-i1)/[P-I2](/positions/individuation-and-subjecthood/#p-i2) hold that a process-only subject *weakens* the indexical objection. The two are in tension. Out of scope for a scoping page and left untouched; flagged here for a future positions-evolve or deep-review pass on `concepts/haecceity`.
+- **Attribution**: no external sources cited. Every claim in the new section is sourced to a Map page read in full this pass (`tenets/background-commitments`, `positions/subject-census`, `positions/individuation-and-subjecthood`, `positions/agency-and-will`, `concepts/indexical-knowledge-and-identity`, `topics/indexical-identity-quantum-measurement`, `concepts/haecceity`). No new names introduced, so nothing needed publisher verification.
+- **Tenet 5 discipline**: `simpl|parsimon|Occam` measured before editing — 5 occurrences, all on the existing Relation-to-Site-Perspective line. No parsimony claim added, so no guard clause needed.
+- **Dependent closed**: installing the second home left the Relation-to-Site-Perspective paragraph understating what a persisting-subject sceptic gives up (it named only agent-causal sourcehood as contested). Amended to split the two components — rejecting the causal-power component keeps the disagreement localised to agency; rejecting the determinate persisting subject outright also takes the indexical objection.
+- **Style**: no editor vocabulary in the body; no "This is not X. It is Y."; the clause's bare-intensifier use of "load-bearing" retired in the rewrite.
+- **Published**: yes
 
 ## 2026-09-19T18:15:00+00:00 - deep-review
 - **Status**: Success

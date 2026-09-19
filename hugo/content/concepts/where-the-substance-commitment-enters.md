@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-07-06 22:14:47+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-09-19 18:25:22+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
 - '[[substance-property-dualism]]'
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 11:33:26+00:00
-lastmod: 2026-07-06 22:14:47+00:00
+lastmod: 2026-09-19 18:25:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -45,7 +45,19 @@ The lean enters one layer down, at the agent-causal commitment. [Agent causation
 
 That structure needs a subject who persists across the causing and exercises the power. A property-only reading—on which mental properties supervene on a physical substrate without any substance bearing them—struggles to supply it. If there is no thing that does the causing, only properties co-occurring with neural events, then "the agent originated the action" loses its referent; what is left looks like event causation under another name. This is why agent causation, specifically, recruits a substance-bearing reading. The requirement is the agent-causal claim's, not the tenet's.
 
-Two clarifications keep this honest. First, the relevant subject is *substance-leaning*, not necessarily full Cartesian substance: naturalistic substance dualism (Lowe, Zimmerman) and substance-bearing forms of property dualism both supply a persisting bearer of causal powers without Descartes' separation of mind from nature. Second, agent causation is not the only place a persisting subject does work—the self-opacity voids and the indexical-identity argument against [many-worlds](/concepts/many-worlds/) also lean on one—but agency is its clearest and most load-bearing home.
+Two clarifications keep this honest. First, the relevant subject is *substance-leaning*, not necessarily full Cartesian substance: naturalistic substance dualism (Lowe, Zimmerman) and substance-bearing forms of property dualism both supply a persisting bearer of causal powers without Descartes' separation of mind from nature. Second, agent causation is not the only place a persisting subject does work: the indexical-identity argument against [many-worlds](/concepts/many-worlds/) leans on one too, by a different route, and [the section below](#second-home) takes it up. Agency remains the clearest home, because it is the only one that asks the subject to exercise a power rather than merely to be determinate.
+
+## The Second Home: Indexical Identity Against Many-Worlds {#second-home}
+
+The persisting subject does a second job, and the Map's own audit of its unstated commitments is where that job is set out. [Posit One](/tenets/background-commitments/) names what several clusters silently require: a numerically determinate subject that persists through time. It separates the posit into two components—*primitive subject individuation*, a fact about which subject this is that holds prior to and independently of any physical or functional criterion, and *diachronic subject persistence*, the sameness of a subject across times taken as a real further fact rather than a convention over successive states.
+
+Agency and the [No Many Worlds](/tenets/#no-many-worlds) tenet inherit different components. Agent causation takes a persisting bearer of *causal powers*—the section above. The indexical objection to many-worlds takes a determinate "I" whose branch-assignment is a real further fact: "which branch am I on?" is a question at all only if the subject asking it is individuated by something its branch-relative properties do not exhaust, since every successor shares those properties. The temporal half is equally required, because the objection concerns which *future* subject is genuinely me—which is why the positions register classes diachronic persistence as foundation-bearing rather than downstream of the tenets ([P-SC3](/positions/subject-census/#p-sc3)). No causal power is asked of the subject here. It must be determinate and it must persist; it need not originate anything.
+
+The second home is therefore real, and the commitment it carries is the same one, but the argument reaches it by a different path. Two consequences follow for the diagnostic below.
+
+First, the diagnostic's question—does the argument treat the agent as an ontological source?—returns *no* for the indexical objection while the substance-leaning verdict still applies. An article can need the persisting subject without making any agent-causal claim, which is what the indexical row in the table records. Scoping an indexical-identity argument down to bare irreducibility is as much a misreading as importing agent causation into it.
+
+Second, the two homes are not two independent arguments for one conclusion. [P-A2](/positions/agency-and-will/#p-a2) records that agency and the indexical objection descend from a common root—the thick-indexical subject—so citing either as support for the other would count a single commitment twice. [The individuation register](/positions/individuation-and-subjecthood/) holds the two apart for the same reason: they share that root but commit to different things. The Map marks the shared foundation rather than trading on it, which is the same discipline this page applies to the tenet itself.
 
 ## The Diagnostic
 
@@ -55,6 +67,7 @@ The practical test for any Map article is a single question: **does the argument
 |---|---|
 | The agent *originates* an action / is the irreducible source of a choice | Substance-leaning (persisting subject) |
 | Authorship grounds desert, regret over genuine alternatives, character as self-creation | Substance-leaning |
+| A real further fact fixes which branch, successor, or future subject is *me* (the indexical objection to many-worlds) | Substance-leaning (persisting subject) |
 | Consciousness is irreducible to physics (qualia, the explanatory gap, materialism's failure) | Bare dualism—either ontology |
 | Mental states cause physical effects at quantum indeterminacies (bare interactionism) | Bare dualism + interactionism, no substance required |
 | Convergent-evidence claims about animal or machine consciousness | Bare dualism |
@@ -65,7 +78,7 @@ The diagnostic exposes two failure modes. **Substance-leaning leakage**: an atte
 
 This page is a precision tool for [Tenet 1 (Dualism)](/tenets/#dualism). It keeps the tenet's neutrality between substance and property dualism intact while making the agency cluster's substance-leaning explicit and locating its true source.
 
-The structural point matters for honesty. A reader who accepts the Dualism tenet but rejects substance-bearing agents should be able to find exactly where they part company with the Map—and that point is the agent-causal step, not the tenet. The disagreement is real but localised: such a reader keeps the Map's claims about irreducibility, the explanatory gap, and mental causation at quantum indeterminacies, and contests only the claims about agents as ontologically prior causal sources. Marking the boundary precisely is what lets the disagreement stay at one layer instead of contaminating the whole framework.
+The structural point matters for honesty. A reader who accepts the Dualism tenet but rejects substance-bearing agents should be able to find exactly where they part company with the Map—and that point is the agent-causal step, not the tenet. The disagreement is real but localised: such a reader keeps the Map's claims about irreducibility, the explanatory gap, and mental causation at quantum indeterminacies, and contests only the claims about agents as ontologically prior causal sources—so long as what they reject is the causal-power component. A reader who rejects the determinate persisting subject outright parts company more widely, because the indexical objection to many-worlds draws on that subject by the separate route traced above. Marking the boundary precisely is what lets the disagreement stay at one layer instead of contaminating the whole framework.
 
 The lean also interacts with [Tenet 5 (Occam's Razor Has Limits)](/tenets/#occams-limits). The substance-bearing reading is the ontologically heavier option, and a parsimony-first instinct would dispreference it. Tenet 5 blocks that inference from doing decisive work: the apparent economy of a property-only reading may reflect inadequate concepts rather than genuine simplicity, especially given how poorly we understand what grounds a causal power. The Map adopts the heavier reading where agency requires it and declines to treat its weight as a strike against it—but only where agency requires it. Elsewhere, the lighter reading and the heavier reach the same place, and the Map asserts no preference. The same discipline that motivates [disguised-property-dualism](/concepts/disguised-property-dualism/)—pay your conceptual rent openly rather than smuggle commitments under a parsimonious label—applies here in reverse: take on the substance commitment openly, but only when the argument has earned it.
 
@@ -77,6 +90,8 @@ The lean also interacts with [Tenet 5 (Occam's Razor Has Limits)](/tenets/#occam
 - [free-will](/topics/free-will/) — The agency-cluster article where the substance-leaning is most load-bearing
 - [interactionist-dualism](/concepts/interactionist-dualism/) — Where bare interactionism suffices and where the agent-causal pairing pulls in the substance reading
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How irreducible authorship in the moral arguments inherits the lean from the agency cluster
+- [background-commitments](/tenets/background-commitments/) — Posit One, the determinate-and-persisting subject that both homes inherit from, and the two components they inherit separately
+- [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — The indexical argument itself, and why branch-relative properties leave "which branch am I on?" without a fact to track
 - [tenets](/tenets/) — The agency-cluster paragraph and the tenet-dependency matrix that this page localises
 
 ## References
