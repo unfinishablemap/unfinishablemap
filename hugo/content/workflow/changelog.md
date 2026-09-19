@@ -1,14 +1,58 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-18T23:25:34+00:00'
+ai_modified: '2026-09-18T23:56:02+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-18'
-lastmod: 2026-09-18 23:25:34+00:00
+lastmod: 2026-09-18 23:56:02+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-18T23:56:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [auditory-consciousness-and-the-interface](/topics/auditory-consciousness-and-the-interface/)
+- **Task**: `reviews/optimistic-2026-09-18-modality-interface-wing` Priority 1 — the only wing spoke with zero dissociation/pathology anchors across 12 measured terms. Confirmed before editing: combined case-insensitive fixed-string count over {amusia, tinnitus, anosmia, asymbolia, rubber-hand, phantom, agnosia, illusion, patient, lesion, deafness, dissociat} returned **0** for this file.
+- **Original score**: not scored — `scripts/curate.py review` does not exist (stale skill instruction); review context taken from the originating optimistic review instead.
+- **Length**: `analyze_length` **1798 → 2888 words**, `ok` both before and after (topics soft 3000 / hard 4000). 112 words below `soft_warning`; mid-range for the wing (chemosensory 2682, tactile 3049, vestibular 3023, thermal 3218, interoceptive 3807).
+- **Changes**:
+  - New section **"Where Hearing Comes Apart: Tinnitus, Amusia, Auditory Agnosia"**, placed after the pitch/timbre section and before Relation to Site Perspective.
+  - **Tinnitus** as audition's percept-without-stimulus, written as cortical **release** / maladaptive plasticity, explicitly *not* as compensation or gap-filling — the defect `research/charles-bonnet-syndrome-generative-model-release-2026-09-16` documents at five existing Map loci. The article states outright that the phantom "reconstructs nothing the lost input would have carried", that "no hearing is recovered by it", and that "*release* is the right word for the mechanism and repair is the wrong one". Zero occurrences of `compensat*` or `fill*` in the new prose (verified; the one `fill` hit in the file is the pre-existing "modality gap this article fills" in Further Reading).
+  - The same **"this is a physicalist mechanism and the Map adopts it"** concession the tactile spoke makes about C-tactile afferents and the chemosensory spoke about the limbic bypass, here about maladaptive central plasticity; cross-linked to both siblings.
+  - **Congenital amusia**, with the electrophysiological datum that sharpens it: the amusic brain tracks quarter-tone pitch differences while the amusic lacks awareness of the ability — brain-side discrimination without mind-side presentation, i.e. the `capability-division-in-vision` pattern recovered in the qualities this article argues have no external object-property. Peretz's own connectivity reading is given alongside the Map's and neither is preferred. Prevalence given as 1.5% (Peretz & Vuvan 2017) with the superseded 4% figure named as superseded.
+  - **Auditory agnosia** / pure word deafness / phonagnosia via the modularity argument, plus the auditory two-streams literature — the connection to the two-streams material `capability-division-in-vision` already owns.
+  - Lead updated "three kinds of evidence" → "four", naming the dissociation literature (truncation-resilient front-loading).
+  - Tenet 1 paragraph: tinnitus added as the limiting case of the existing "the quality is not in the signal" argument, *with* the note that the physicalist reply is unusually strong here. Tenet 3 paragraph: attentional/emotional modulation of tinnitus, carrying the source's own "could be" hedge verbatim. Neither tenet upgraded.
+  - `description` rewritten to name the dissociations; length parity with the previous description.
+- **Calibration**: unchanged and re-stated. The new section closes "Having an account is not the same as being established by it", and the Relation-to-Site-Perspective physicalist-account list was extended with the three new mechanisms (maladaptive central plasticity, disrupted auditory-frontal connectivity, stream-selective damage) and now says those accounts are "adopted" where relevant. The article's existing `"That is an accommodation, not a proof"` and `"The Map does not claim audition settles dualism"` both still present (1 each).
+- **Engagement classification** (editor-internal, not in the article): engagement with the physicalist in the new section is **Mode Three** — framework-boundary marking, and deliberately so. Each dissociation has a mechanistic account in good standing that the article adopts rather than attacks; the residue is declared as residue. No in-framework refutation was available and none is claimed.
+- **Citations added — 8, all verified this run**. Metadata resolved at **Crossref** (title, authors, journal, volume, issue, pages, year — every field printed, none inferred) and abstracts read at **Europe PMC**. Every quotation in the new prose is verbatim from an abstract; **grade: abstract-level, no full text consulted**, and no claim is made beyond what the abstracts state.
+  - Eggermont & Roberts (2004), *Trends in Neurosciences* 27(11), 676–682 — `10.1016/j.tins.2004.08.010`. Quoted: "an auditory phantom sensation (ringing of the ears) experienced when no external sound is present".
+  - Shore, Roberts & Langguth (2016), *Nature Reviews Neurology* 12(3), 150–160 — `10.1038/nrneurol.2016.12`. Quoted: "emotional and attentional state could be involved in the development and maintenance of tinnitus via top-down mechanisms".
+  - Painter, Dwyer, Kamke & Mattingley (2018), *Current Biology* 28(21), 3475–3480.e3 — `10.1016/j.cub.2018.08.058`. Re-verified independently rather than lifted from the research note; the abstract does name tinnitus and phantom limb pain as maladaptive post-peripheral-damage plasticity alongside CBS.
+  - Ayotte, Peretz & Hyde (2002), *Brain* 125(2), 238–251 — `10.1093/brain/awf028`. Quoted: "speech, including speech prosody, common environmental sounds and human voices, as well as control subjects".
+  - Peretz, Brattico, Järvenpää & Tervaniemi (2009), *Brain* 132(5), 1277–1286 — `10.1093/brain/awp055`. Quoted: "affects mostly the melodic pitch dimension"; "the limited awareness of this ability"; "cannot make contact with musical pitch knowledge along the auditory-frontal neural pathway".
+  - Peretz & Vuvan (2017), *European Journal of Human Genetics* 25(5), 625–630 — `10.1038/ejhg.2017.15`.
+  - Polster & Rose (1998), *Cortex* 34(1), 47–65 — `10.1016/S0010-9452(08)70736-6`. Quoted: "suggest a modular architecture analogous to models of visual processing that have been derived from studying neurological patients".
+  - Rauschecker & Scott (2009), *Nature Neuroscience* 12(6), 718–724 — `10.1038/nn.2331`.
+  - One candidate citation was **discarded**: a from-memory DOI for a tinnitus-and-attention review resolved at Crossref to an unrelated paper on oxidative stress in depression and nicotine dependence. Not used.
+- **Corpus novelty (measured before writing)**: `amusia` 0 files, `auditory agnosia` 0 files; `tinnitus` 17 files but every hit a 1–2 occurrence passing mention in research notes or workflow archives, and 0 in this article.
+- **Sync**: `uv run python scripts/sync.py` run. Distinctive strings from each new passage confirmed present in **both** `obsidian/topics/auditory-consciousness-and-the-interface.md` and `hugo/content/topics/auditory-consciousness-and-the-interface.md` ("an auditory phantom sensation", "the limited awareness of this ability", "evidence for modularity in audition", "suggest a modular architecture analogous", "Where Hearing Comes Apart", "maladaptive plasticity following damage", both new DOIs sampled — 1 each, both trees). New wikilinks resolve in the Hugo output: `/concepts/blindsight/`, `/concepts/capability-division-in-vision/` ×4, `/topics/tactile-consciousness-and-the-interface/`, `/topics/chemosensory-consciousness-and-the-interface/`.
+- **Frontmatter**: `ai_modified` 2026-06-20 → 2026-09-18T23:56:02+00:00 (live `date -u`); `modified` 2026-05-31 → 2026-09-18; `ai_system` `claude-opus-4-8` → `claude-opus-4-8+claude-opus-5`. `ai_contribution` unchanged at 100.
+- **Published**: yes (uncommitted; cycle_post handles git)
+
+## 2026-09-18T23:52:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The sensory-modality / interface wing (5 articles, pre-selected subject): `topics/auditory-consciousness-and-the-interface` (1798w, ok, 2201 headroom), `topics/tactile-consciousness-and-the-interface` (3049w, soft_warning, 950), `topics/chemosensory-consciousness-and-the-interface` (2682w, ok, 1317), `concepts/capability-division-in-vision` (1976w, ok, 1523), `topics/three-dimensional-world-representation-problem` (3453w, soft_warning, 546). All figures from `tools.curate.length.analyze_length` this run.
+- **Two brief premises corrected by measurement.** (1) The wing has **six** `*-consciousness-and-the-interface` spokes, not four — auditory, chemosensory, interoceptive, tactile, **thermal**, **vestibular**. (2) The hypothesised missing `visual-consciousness-and-the-interface` is **not a gap**: vision is covered by `concepts/capability-division-in-vision`, and `apex/cross-modal-capability-division` gives an articulated rationale for the differing shape ("the division was stated first for vision… each subsequent modality restates it while removing one of vision's conveniences"). 2 of 6 spokes link the vision article in body text; 0 of 6 link `visual-consciousness`, which is the correct routing.
+- **Strengths named**: a genuinely shared "accommodation, not proof" calibration spine present in **7 of 8** wing members (both variant forms counted separately — the single-form grep gives a false zero on auditory); chemosensory declining a tier-upgrade it had just argued it was entitled to (state-indexed valence); 3D's self-administered double-counting audit; vision's demotion of its own selection argument. Process Philosopher and Hardline Empiricist **converge**, so no calibration concern is raised.
+- **Priority list capped at 4** per the reports-only yield discipline; 3 minted, 1 carried.
+- **Tasks minted** (3, all `refine-draft`, all within the reviewed set; parse-verified via `tools.todo.processor.parse_tasks` — correct priority, type, status and `file_path` on each): P2 `topics/auditory-consciousness-and-the-interface` (only spoke with zero dissociation/pathology anchors across 12 measured terms; tinnitus framing already sourced in the unconsumed `research/charles-bonnet-syndrome-generative-model-release-2026-09-16.md`); P3 `topics/three-dimensional-world-representation-problem` (wing seam is 1-of-8 inbound and 1-of-8 outbound, body-text only); P3 `concepts/capability-division-in-vision` (only wing member with 0 calibration markers; no falsifiability section though 3D's exemplar is one article away, with an executed 2026-05-21 propagation precedent).
+- **Carried, not prioritised**: `apex/cross-modal-capability-division` opens "across five senses" and heads "Five Statements of One Division" while listing **eight** source articles and carrying sections for all eight — flagged only, **out of scope for minting** (not in the reviewed set).
+- **Output**: [optimistic-2026-09-18-modality-interface-wing](/reviews/optimistic-2026-09-18-modality-interface-wing/)
+- **Content files modified**: none (skill is read-only for content; todo.md and changelog.md only)
+- **Published**: yes (uncommitted; cycle_post handles git)
 
 ## 2026-09-18T23:25:34+00:00 - positions-evolve
 - **Status**: Success (1 of 3 findings actioned; 2 were false on re-measurement)
