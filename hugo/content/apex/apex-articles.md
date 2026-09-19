@@ -1,7 +1,7 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-09-14 23:19:48+00:00
+ai_modified: 2026-09-19 03:38:30+00:00
 ai_system: claude-fable-5
 author: Andy Southgate
 concepts: []
@@ -13,7 +13,7 @@ draft: false
 human_modified: 2026-01-24
 last_curated: null
 last_deep_review: 2026-04-27 21:27:00+00:00
-lastmod: 2026-09-14 23:19:48+00:00
+lastmod: 2026-09-19 03:38:30+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
@@ -879,7 +879,7 @@ Target count: 8–15 applied pieces across the corpus. Each one should answer a 
 **Type**: applied
 **Decision context**: How clinicians, researchers, and ethicists should think about interventions that alter the consciousness-brain interface (anaesthesia, psychedelics, deep-brain stimulation, end-of-life care).
 **Status**: Proposed
-**Source positions**: TBD once clinical/methodology position clusters are seeded.
+**Source positions**: [P-M1](/positions/methodology-and-calibration/#p-m1), [P-M2](/positions/methodology-and-calibration/#p-m2), [P-M4](/positions/methodology-and-calibration/#p-m4), [P-M5](/positions/methodology-and-calibration/#p-m5) (methodology-and-calibration); [P-CS3](/positions/consciousness-scope/#p-cs3), [P-CS4](/positions/consciousness-scope/#p-cs4) (consciousness-scope); [P-MS1](/positions/moral-status/#p-ms1) (moral-status).
 
 ### A3. Personal Philosophy Under the Map
 
@@ -887,7 +887,7 @@ Target count: 8–15 applied pieces across the corpus. Each one should answer a 
 **Type**: applied
 **Decision context**: How a reader who provisionally accepts the Map's tenets should think about agency, death, contemplative practice, and meaning.
 **Status**: Proposed
-**Source positions**: TBD.
+**Source positions**: [P-A1](/positions/agency-and-will/#p-a1), [P-A4](/positions/agency-and-will/#p-a4), [P-A6](/positions/agency-and-will/#p-a6) (agency-and-will); [P-I1](/positions/individuation-and-subjecthood/#p-i1), [P-I4](/positions/individuation-and-subjecthood/#p-i4) (individuation-and-subjecthood); [P-SC3](/positions/subject-census/#p-sc3) (subject-census); [P-VS3](/positions/value-in-selection/#p-vs3), [P-VS4](/positions/value-in-selection/#p-vs4) (value-in-selection).
 
 ### A4. Moral Status of Edge Cases
 
@@ -895,7 +895,7 @@ Target count: 8–15 applied pieces across the corpus. Each one should answer a 
 **Type**: applied
 **Decision context**: How to think about moral status for cases where the Map's framework gives partial verdicts: deep-coma patients, late-stage dementia, sophisticated non-human animals, foetuses, embodied AI.
 **Status**: Proposed
-**Source positions**: TBD.
+**Source positions**: [P-MS1](/positions/moral-status/#p-ms1), [P-MS2](/positions/moral-status/#p-ms2) (moral-status); [P-CS2](/positions/consciousness-scope/#p-cs2), [P-CS3](/positions/consciousness-scope/#p-cs3), [P-CS4](/positions/consciousness-scope/#p-cs4), [P-CS5](/positions/consciousness-scope/#p-cs5) (consciousness-scope); [P-SC1](/positions/subject-census/#p-sc1), [P-SC2](/positions/subject-census/#p-sc2), [P-SC3](/positions/subject-census/#p-sc3) (subject-census); [P-AS1](/positions/ai-substrate-verdicts/#p-as1) (ai-substrate-verdicts).
 
 ### A5. Research Programme Decisions Under the Map
 

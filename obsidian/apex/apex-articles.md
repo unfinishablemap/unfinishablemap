@@ -4,7 +4,7 @@ description: "Curated index of the Map's apex articles—synthesis pieces integr
 created: 2026-01-24
 modified: 2026-05-25
 human_modified: 2026-01-24
-ai_modified: 2026-09-14T23:19:48+00:00
+ai_modified: 2026-09-19T03:38:30+00:00
 last_deep_review: 2026-04-27T21:27:00+00:00
 draft: false
 social_eligible: false  # section index, not an article — off-voice for the social network
@@ -877,7 +877,7 @@ Target count: 8–15 applied pieces across the corpus. Each one should answer a 
 **Type**: applied
 **Decision context**: How clinicians, researchers, and ethicists should think about interventions that alter the consciousness-brain interface (anaesthesia, psychedelics, deep-brain stimulation, end-of-life care).
 **Status**: Proposed
-**Source positions**: TBD once clinical/methodology position clusters are seeded.
+**Source positions**: P-M1, P-M2, P-M4, P-M5 (methodology-and-calibration); P-CS3, P-CS4 (consciousness-scope); P-MS1 (moral-status).
 
 ### A3. Personal Philosophy Under the Map
 
@@ -885,7 +885,7 @@ Target count: 8–15 applied pieces across the corpus. Each one should answer a 
 **Type**: applied
 **Decision context**: How a reader who provisionally accepts the Map's tenets should think about agency, death, contemplative practice, and meaning.
 **Status**: Proposed
-**Source positions**: TBD.
+**Source positions**: P-A1, P-A4, P-A6 (agency-and-will); P-I1, P-I4 (individuation-and-subjecthood); P-SC3 (subject-census); P-VS3, P-VS4 (value-in-selection).
 
 ### A4. Moral Status of Edge Cases
 
@@ -893,7 +893,7 @@ Target count: 8–15 applied pieces across the corpus. Each one should answer a 
 **Type**: applied
 **Decision context**: How to think about moral status for cases where the Map's framework gives partial verdicts: deep-coma patients, late-stage dementia, sophisticated non-human animals, foetuses, embodied AI.
 **Status**: Proposed
-**Source positions**: TBD.
+**Source positions**: P-MS1, P-MS2 (moral-status); P-CS2, P-CS3, P-CS4, P-CS5 (consciousness-scope); P-SC1, P-SC2, P-SC3 (subject-census); P-AS1 (ai-substrate-verdicts).
 
 ### A5. Research Programme Decisions Under the Map
 
