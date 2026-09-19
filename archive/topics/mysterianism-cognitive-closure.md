@@ -1,10 +1,10 @@
 ---
 title: "Mysterianism and Cognitive Closure"
-description: "Are humans cognitively closed to consciousness? Like squirrels and calculus, some problems may be structurally beyond minds like ours to solve."
+description: "Are we cognitively closed to consciousness? McGinn argues some problems lie structurally beyond minds like ours, as the electron lies beyond a monkey's grasp."
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-09-19T21:08:00+00:00
+ai_modified: 2026-09-19T23:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ archive_reason: "Coalesced into the more comprehensive concepts/mysterianism.md 
 original_path: "/topics/mysterianism-cognitive-closure/"
 ---
 
-Human minds may be constitutionally incapable of solving the [[hard-problem-of-consciousness|hard problem of consciousness]]—not because consciousness is supernatural, but because our cognitive architecture lacks the conceptual tools. This position, called **mysterianism** or "new mysterianism," argues that certain problems may be permanently closed to minds like ours, just as calculus is closed to rats or quantum field theory is closed to chimpanzees. Colin McGinn formalized this view in 1989 through the concept of **cognitive closure**: the idea that particular properties can be inaccessible to particular cognitive systems, regardless of effort or time.
+Human minds may be constitutionally incapable of solving the [[hard-problem-of-consciousness|hard problem of consciousness]]—not because consciousness is supernatural, but because our cognitive architecture lacks the conceptual tools. This position, called **mysterianism** or "new mysterianism," argues that certain problems may be permanently closed to minds like ours, just as the property of being an electron lies beyond a monkey's grasp. Colin McGinn formalized this view in 1989 through the concept of **cognitive closure**: the idea that particular properties can be inaccessible to particular cognitive systems, regardless of effort or time.
 
 Mysterianism occupies unusual philosophical territory. Unlike [[concepts/materialism|materialists]], mysterians take [[phenomenal-consciousness|phenomenal consciousness]] seriously as something real that demands explanation. Unlike dualists, they remain officially neutral on whether consciousness is physical or non-physical. Their claim is epistemological rather than ontological: we cannot know the answer because the answer—whatever it is—lies beyond our conceptual reach.
 
@@ -47,13 +47,13 @@ McGinn calls this position **Transcendental Naturalism**: consciousness is fully
 
 ## The Squirrel and Quantum Mechanics
 
-The squirrel attempting quantum field theory is a useful analogy. We can imagine placing a squirrel in a physics library for a thousand years. It would never solve the Schrödinger equation—not because the equation is supernatural, not because squirrels lack diligence, but because squirrel minds lack the cognitive modules for mathematical physics.
+The squirrel attempting quantum field theory is an illustration of our own rather than one of McGinn's, whose examples stay with rats, monkeys and the property of being an electron. It serves the same point in a sharper register. We can imagine placing a squirrel in a physics library for a thousand years. It would never solve the Schrödinger equation—not because the equation is supernatural, not because squirrels lack diligence, but because squirrel minds lack the cognitive modules for mathematical physics.
 
 Now consider: might humans be squirrels relative to consciousness? We have sophisticated language, science, philosophy, yet all our efforts have not bridged the [[explanatory-gap]]. The [[knowledge-argument]] (Mary's Room) and [[philosophical-zombies|zombie arguments]] remain contested—materialists offer responses that some find satisfying—but the persistence of debate is itself significant. Perhaps this persistent difficulty indicates not merely that the problem is hard but that it's the wrong *kind* of problem for minds like ours.
 
 **The tool-extension objection.** Critics note that squirrels have no extensible cognitive tools, but humans do: mathematics, scientific instruments, computers. We transcend biological limits through technology. Why assume consciousness is different? McGinn's response is twofold. First, all our tools ultimately produce outputs for human understanding—we still need to *grasp* the solution, and if property P lies outside our conceptual reach, no tool can help us grasp it. Second, four centuries of tool-assisted inquiry have not closed the explanatory gap—if anything, neuroscience has sharpened it by revealing the gulf between neural activity and experience.
 
-The critical question: can we identify which problems are permanently closed versus temporarily difficult? McGinn's answer is pessimistic. We cannot, from inside our cognitive limitations, determine their boundaries. The squirrel cannot recognize what it's missing. We might be in the same position.
+The critical question: can we identify which problems are permanently closed versus temporarily difficult? McGinn's answer is pessimistic. We cannot, from inside our cognitive limitations, determine their boundaries. Our squirrel cannot recognize what it's missing. We might be in the same position.
 
 ## Nagel's Conceptual Gap
 

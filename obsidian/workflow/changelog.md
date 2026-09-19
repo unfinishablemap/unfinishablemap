@@ -5,6 +5,23 @@ ai_modified: '2026-09-19T22:26:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-19T23:24:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[archive/topics/mysterianism-cognitive-closure]]
+- **Scope**: a marking pass on a live archived page, not a fabrication sweep. Nothing was retracted, no citation removed, no section deleted. The 8-item reference list is intact and `## The Squirrel and Quantum Mechanics` still stands.
+- **Word count**: 1943 to 1970, net +27 (topics soft 3000 / hard 4000; 2029 words of headroom below the hard gate). Measured with `analyze_length` before and after, not estimated.
+- **Problem**: the page ran three animal vocabularies at once. This morning's repair installed McGinn's real illustrations in the body - the rat/monkey comparison and the monkey/electron case, both verified present - but the lead still said "calculus is closed to rats" and "quantum field theory is closed to chimpanzees", and the `description` said "Like squirrels and calculus". Meanwhile `## The Squirrel and Quantum Mechanics` develops a Map-voice illustration in a section where "McGinn's answer is pessimistic" sits six lines below it. The squirrel material attributes nothing to McGinn and is not a false claim; the defect was proximity and internal inconsistency.
+- **Changes**:
+  - **Lead** - "just as calculus is closed to rats or quantum field theory is closed to chimpanzees" to "just as the property of being an electron lies beyond a monkey's grasp". This is McGinn's own worked case, quoted and sourced in the body two paragraphs later. It removes "chimpanzees" entirely, the one vocabulary with no anchor anywhere in the corpus (count now 0 in both trees), and aligns the lead with the body.
+  - **Section opening** - the squirrel illustration is now marked as the Map's at the point it is introduced, before McGinn's name recurs: "an illustration of our own rather than one of McGinn's, whose examples stay with rats, monkeys and the property of being an electron. It serves the same point in a sharper register." This is the cheapest honest fix - the page keeps its most vivid illustration and the reader is told whose it is.
+  - **Proximity locus** - "The squirrel cannot recognize what it's missing" to "Our squirrel cannot recognize what it's missing", two sentences after "McGinn's answer is pessimistic". The self-concealment claim is genuinely McGinn's; only the vehicle is ours, and the possessive now says so at zero cost.
+  - **Description (navigation surface)** - "Like squirrels and calculus, some problems may be structurally beyond minds like ours to solve" to "McGinn argues some problems lie structurally beyond minds like ours, as the electron lies beyond a monkey's grasp" (158 chars, inside the 150-160 target; the old one was 143). Machine metadata is served even on archived pages, so this surface was summarising a McGinn page with a pairing that is not his. The replacement matches the successor article `concepts/mysterianism.md`, whose own description already reads "as the electron lies beyond a monkey's grasp".
+- **Heading kept deliberately**: `## The Squirrel and Quantum Mechanics` was not renamed. It names no author, so standing alone it attributes nothing, and the marking now sits directly beneath it. Checked first that nothing depends on the anchor - both the slug form `squirrel-and-quantum` and the heading-text form return 0 referrers across the content tree, so a rename was available and was declined rather than blocked.
+- **Left untouched on purpose**: the rat/calculus motif at the "temporary versus permanent" and "conceivability" loci. It uses McGinn's actual animal, and the body already tells the reader at the cognitive-closure section that "McGinn's own illustration is comparative rather than curricular", which marks every curricular pairing on the page as not his. Rewriting the motif would be churn, and correcting squirrels into rats was explicitly out of scope. The review-installed "tool-extension objection" paragraph (added by `reviews/deep-review-2026-01-25-mysterianism-cognitive-closure.md`) is intact.
+- **Opponent engagement**: not reclassified. The Dennett and Churchland material reports McGinn's replies rather than the Map's, and no part of it was edited this pass.
+- **Verification**: every locus confirmed by `grep -c -F` in both trees before and after, never by line number. `ai_modified` written as 23:23:00 and re-read against a live `date -u` of 23:24:29 to confirm it is strictly past.
+- **Published**: yes
+
 ## 2026-09-19T22:39:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/resolution-void]]
