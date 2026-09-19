@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-19T00:25:59.326106+00:00'
-session_count: 20904
-cycle_position: 13646
+last_updated: '2026-09-19T00:48:41.852883+00:00'
+session_count: 20905
+cycle_position: 13647
 last_runs:
   add-highlight: '2026-09-18T08:11:10.901138+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-09-18T04:16:21.105465+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-08T14:59:47.852838+00:00'
-  deep-review: '2026-09-18T22:48:04.052468+00:00'
+  deep-review: '2026-09-19T00:48:41.852883+00:00'
   embed-videos: '2026-09-18T18:22:08.138580+00:00'
   expand-topic: '2026-09-07T22:30:11.197713+00:00'
   harvest-research-subjects: '2026-09-18T19:22:46.241817+00:00'
@@ -42,7 +42,7 @@ last_runs:
   tune-system: '2026-09-17T01:49:13.933074+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-09-18T20:31:08.972039+00:00'
+last_git_push: '2026-09-19T00:48:42.071514+00:00'
 last_tweet_date: '2026-09-18'
 content_stats:
   total_files: 297
@@ -111,7 +111,7 @@ progress:
   voids_written: 103
   positions_written: 21
   research_notes: 607
-  reviews_completed: 7607
+  reviews_completed: 7608
   apex_articles: 43
 quality:
   critical_issues: 0
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-09-18'
-  outcome: success
-  kind: trigger
 - task: refine-draft
   type: refine-draft
   date: '2026-09-18'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-19'
   outcome: success
   kind: agentic_social
+- task: deep-review
+  type: deep-review
+  date: '2026-09-19'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/apex/research-programme-decisions-under-the-map/
