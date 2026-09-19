@@ -5,6 +5,24 @@ ai_modified: '2026-09-19T11:05:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-19T12:01:01+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenal-constitution-thesis]]
+- **Word count**: 2195 -> 2480 (+285), `ok` (concepts 2500 soft / 3500 hard; 1020 below the hard gate). Driver-measured headroom was 1304 words; additions are all corrective, none is padding.
+- **Critical issues addressed**: 4
+- **Medium issues addressed**: 0 (none found beyond the four)
+- **Enhancements made**: 2 References entries added, both DOI-verified
+- **Selection**: driver override of the scorer's top pick; `last_deep_review` was 2026-08-04 (46 days), only two prior deep reviews, no open todo task against the file.
+- **Delta reviewed**: one commit since the last pass, `56c836b93e` (2026-09-18 refine-draft), which appended a cross-article paragraph about [[arguments/functionalism-argument]]. That paragraph carried C4 below - the [[outbound-crosslink-sentences-are-never-reviewed-by-anyone]] pattern.
+- **C1 (attribution)**: the article credited Chudnoff with the *pure* phenomenal-contrast argument ("though the sensory input is held fixed") as his "evidential engine". Verified at OpenAlex/Crossref, DOI `10.1111/phpr.12177` (*PPR* 91(1): 82-104), Chudnoff's own abstract says pure and hypothetical contrast arguments "face significant difficulties" and defends only the *glossed* form he develops himself. Replaced with his actual three-way taxonomy. The "dot array" illustration is **unverifiable, not refuted** (PhilArchive serves a Cloudflare interstitial named `.pdf`; Google Books API at zero quota) - substituted the IEP-verified algebra illustration.
+- **C2 (citation framing)**: the SEP "better framed in terms of metaphysical explanation or grounding" gloss is about the *grounding problem for coincident objects*, not about the constitution relation. Quoted span exact (offset 12541); subject wrong. Re-framed, not deleted. Also corrected the cite's identity: Bennett 2004 is "Spatio-Temporal Coincidence and the Grounding Problem", *Phil Studies* 118: 339-371 - the 2026-06-26 ledger had recorded the wrong Bennett paper, which is why the misreading survived two passes.
+- **C3 (dropped qualifier / calibration)**: the Gertler SEP quote was taken from immediately after the source's "under certain conditions" restriction, and the article concluded introspection "is not a fallible report". SEP's preceding sentence concedes "we can be wrong about our own phenomenal states", and the Map's own [[concepts/constitutive-vs-referring-observation]] holds introspective judgement fallible with only Layer 1 apodictic. Restriction restored and conclusion scoped.
+- **C4 (logic)**: the new paragraph offered ¬phenomenal → ¬content as the bridge, which is the converse of what the Chinese Room extension needs. Restated as the valid contrapositive (¬content ⟹ ¬the content-constituting phenomenal character) and scoped: PCT makes phenomenal character necessary for content, never sufficient, so the corollary does not reach phenomenal character in general. Dropped the unqualified "by entailment".
+- **False alarm recorded**: Johnston 1992's page range. SEP's bibliography prints *Mind* 101: 89-105, contradicting the article's 89-106. The publisher of record (Crossref, DOI `10.1093/mind/101.401.89`) confirms **89-106** - the article is right and SEP is the erroneous party. The 2026-06-26 correction stands; noted in Stability Notes so a future pass does not revert it.
+- **Reasoning-mode classification (editor-internal, not in article prose)**: deflationists - Mode Three, unchanged, honest. Grounding-and-constitution physicalists - clarificatory disambiguation, not a refutation claim. Chudnoff - Mode Three, and now more accurately so. Functionalism / Chinese Room (the C4 paragraph) - Mode Two, scoped: it identifies what the opponent has not earned but had overstated what the Map's bridge premise delivers. Label leakage: none (full forbidden-label set greps to zero).
+- **Lens note**: three of the four defects predate both prior reviews and were shielded by ledger lines certifying *metadata* while the *reading* went unexamined ([[citation-ledger-ratifies-the-reading-not-just-the-metadata]]). The unrun lens was source-reading, not source-metadata.
+- **Output**: [[reviews/deep-review-2026-09-19-phenomenal-constitution-thesis]]
+
 ## 2026-09-19T11:29:45+00:00 - condense
 - **Status**: Success (partial by design — stopped short of the task's stated target, reason measured below)
 - **File**: [[concepts/meta-problem-of-consciousness]]

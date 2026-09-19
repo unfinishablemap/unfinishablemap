@@ -4,8 +4,8 @@ description: "The Map's house term for the contested claim that phenomenal chara
 created: 2026-06-26
 modified: 2026-06-26
 human_modified:
-ai_modified: 2026-09-18T13:59:00+00:00
-last_deep_review: 2026-08-04T11:15:00+00:00
+ai_modified: 2026-09-19T12:01:01+00:00
+last_deep_review: 2026-09-19T12:01:01+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[cognitive-phenomenology-and-the-irreducibility-of-thought]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-06-26
 last_curated:
 ---
@@ -41,7 +41,7 @@ Three features of the relation transfer to the phenomenal case:
 
 - **Non-identity.** A thing can be constituted by another without being identical to it. PCT can therefore keep content and phenomenal character numerically distinct while still making the former depend on the latter.
 - **Asymmetric, non-causal dependence.** Constitution is an "in virtue of" relation, not a causal one. The statue exists *in virtue of* the clay's being shaped; the clay does not *cause* the statue at a later time. PCT claims content holds *in virtue of* phenomenal character, not as a downstream causal effect.
-- **Hyperintensionality.** Constitution is finer-grained than mere necessary covariation. Two properties can necessarily covary without one constituting the other; the SEP notes the relation is "better framed in terms of metaphysical explanation or grounding" than supervenience (citing Bennett 2004).
+- **Hyperintensionality.** Constitution is finer-grained than mere necessary covariation. Two properties can necessarily covary without one constituting the other. The SEP makes the point about the *grounding problem* for coincident objects—the puzzle of how perfect duplicates could differ in persistence conditions—noting that this worry "is sometimes put in terms of supervenience, but is better framed in terms of metaphysical explanation or grounding" (citing Bennett 2004, whose subject is exactly that problem). The moral transfers to the relation itself: what a constitution claim owes is an explanation, not a covariation.
 
 This vocabulary lets the Map say precisely *how* a quale can fix a content: as an asymmetric, non-causal, hyperintensional dependence of meaning on experiential character.
 
@@ -57,7 +57,9 @@ PCT is sharpest when triangulated against its neighbours. It is stronger than ph
 
 ## Constituting versus Accompanying {#constitution-vs-accompaniment}
 
-The distinction PCT turns on was given its canonical form by Elijah Chudnoff in *Cognitive Phenomenology* (Routledge, 2015). Chudnoff separates the claim that cognitive states *constitute* a proprietary phenomenal character from the weaker claim that phenomenal character merely *accompanies* them. The Internet Encyclopedia of Philosophy renders the constitutive sense as "a non-causal explanatory relation that can alternatively be picked out by 'in virtue of' or 'constitutively dependent on'" (IEP, "Cognitive Phenomenology"). The evidential engine for proprietary cognitive phenomenology, on Chudnoff's account, is the phenomenal-contrast argument: the same dot array experienced as a mere array versus as a step in a proof differs phenomenally though the sensory input is held fixed.
+The distinction PCT turns on was given its canonical form by Elijah Chudnoff in *Cognitive Phenomenology* (Routledge, 2015a). Chudnoff separates the claim that cognitive states *constitute* a proprietary phenomenal character from the weaker claim that phenomenal character merely *accompanies* them. The Internet Encyclopedia of Philosophy renders the constitutive sense as "a non-causal explanatory relation that can alternatively be picked out by 'in virtue of' or 'constitutively dependent on'" (IEP, "Cognitive Phenomenology").
+
+Chudnoff's verdict on the evidential machinery is more guarded than the debate's shorthand suggests, and the Map should not overstate what he certifies. He sorts phenomenal-contrast arguments into three kinds—*pure* (Strawson's Jack/Jacques case, which holds sensory input fixed), *hypothetical* (Kriegel's Zoe case), and *glossed* (developed by Chudnoff himself)—and argues that the pure and hypothetical forms "face significant difficulties", defending only the glossed version as sound (2015b, 82). So the familiar sensory-input-held-fixed contrast is not a premise Chudnoff hands the strong horn. His own illustration of irreducibility is homelier: you read that `a < 1` implies `2 − 2a > 0` and merely wonder whether it is true, then grasp *why* a's being less than 1 makes 2a smaller than 2—a phenomenal difference no wholly sensory state supplies (IEP, glossing 2015a, 15).
 
 A crucial role-accuracy point: **Chudnoff supplies the distinction but is a *critic* of content-PCT, not a proponent.** He argues *against* phenomenal intentionality for cognitive states—that the contents of demonstrative, indexical, natural-kind, and mathematical concepts do *not* constitutively depend on phenomenal properties alone. So the Map's frequent citation "Chudnoff distinguishes accompanying from constituting" is faithful to his *distinction*, but the Map sides *against* Chudnoff on the content-determinacy verdict. The actual proponents of the strong horn the Map adopts come from the phenomenal-intentionality programme, whose sharpest statement is Horgan and Tienson's: there is "a kind of intentionality, pervasive in human mental life, that is constitutively determined by phenomenology alone" (2002, 520, as quoted in the SEP entry on phenomenal intentionality). The Internet Encyclopedia of Philosophy glosses the programme's shared commitment—crediting Horgan and Tienson, Kriegel, and Mendelovici jointly rather than any one figure—as the claim that phenomenology is "primary to all other forms of intentionality." Pitt, Strawson, Siewert, and Kriegel develop adjacent versions. The Map takes the constitutive horn over the accompaniment horn abductively; it does not borrow the verdict from Chudnoff.
 
@@ -69,9 +71,9 @@ Two further homonyms are worth flagging to avoid cross-contamination. The phenom
 
 ## The Acquaintance Bridge {#acquaintance}
 
-A convergent thread connects PCT to the Map's [[phenomenal-acquaintance]] concept. Acquaintance theorists explain the immediacy of phenomenal self-knowledge through constitution: the introspective state is *partly constituted by* the introspected state. As the SEP entry on self-knowledge puts it, on acquaintance accounts "an experience's phenomenal reality … constitutes how it appears to the thinker" (Gertler 2021; the figures cited include Chalmers 2003 and Horgan and Kriegel 2007). Horgan and Kriegel argue that for a restricted class of phenomenal beliefs, the phenomenal reality *constitutes* the epistemic appearance, closing the usual gap between seeming and being for phenomenal states.
+A convergent thread connects PCT to the Map's [[phenomenal-acquaintance]] concept. Acquaintance theorists explain the immediacy of phenomenal self-knowledge through constitution: the introspective state is *partly constituted by* the introspected state. As the SEP entry on self-knowledge puts it, the theory implies only that *under certain conditions* "an experience's phenomenal reality … constitutes how it appears to the thinker" (Gertler 2021; the figures cited include Chalmers 2003 and Horgan and Kriegel 2007). That restriction is not decoration: the same entry records that most acquaintance theorists concede we can be wrong about our own phenomenal states. Horgan and Kriegel argue that for a restricted class of phenomenal beliefs, the phenomenal reality *constitutes* the epistemic appearance, closing the usual gap between seeming and being for those states.
 
-This is the same constitution relation, applied at the epistemic level: where PCT says phenomenal character constitutes content, the acquaintance line says phenomenal reality constitutes its own appearance to the subject. The two reinforce the Map's [[constitutive-vs-referring-observation|phenomenal-authority]] position—if the appearance is constituted by the reality, introspection of phenomenal states is not a fallible report *about* a separate fact but is partly made of the fact it reports.
+This is the same constitution relation, applied at the epistemic level: where PCT says phenomenal character constitutes content, the acquaintance line says phenomenal reality constitutes its own appearance to the subject. The two reinforce the Map's [[constitutive-vs-referring-observation|phenomenal-authority]] position, which claims the same narrow thing: where the appearance is constituted by the reality, that stretch of introspection is partly made of the fact it reports rather than a separate report about it. Introspective *judgement* stays fallible, and the Map concedes it—only the bare existence of phenomenality carries apodictic standing, while qualitative content and structural detail remain corrigible.
 
 ## Why the Map Adopts PCT—Abductively {#abductive-bet}
 
@@ -83,7 +85,7 @@ The Map holds PCT as an *abductive bet*, not a demonstrated truth, and the modal
 
 The honest opposition is real and the Map does not understate it. The deflationary view (Tye, Dretske, Prinz) holds that apparent cognitive phenomenology reduces to accompanying sensory imagery, inner speech, or affect, so there is no proprietary cognitive phenomenal character to do constitutive work at all. Weak liberalism grants proprietary phenomenology but assigns content-determinacy to non-phenomenal machinery. PCT must beat both abductively rather than by demonstration. Consequently, downstream applications that lean on it—the [[symbol-grounding-problem|symbol-grounding diagnosis]], the [[arguments/functionalism-argument|Chinese Room verdict]], and AI-understanding skepticism across the [[ai-consciousness-typology|consciousness typology]]—are *conditional* on PCT. A reader unpersuaded by the abductive case should treat those conclusions as conditional too.
 
-The conditionality is stated from the other side as well. [[arguments/functionalism-argument|Against Functionalism]] runs the Chinese Room against *semantic* content and then declines to extend it, marking the reach into phenomenal character as a conjecture rather than a corollary—Searle's premises concern what a state is *about*, none of them what it is *like*. PCT is the bridge premise that would convert the conjecture into a corollary: if phenomenal character constitutes content, then a system lacking phenomenal character lacks not only understanding but the determinate meaning understanding would grasp, and the semantic verdict carries phenomenal weight by entailment rather than by analogy. The two articles state halves of one thought, and both halves are conditional on the abductive bet made here.
+The conditionality is stated from the other side as well. [[arguments/functionalism-argument|Against Functionalism]] runs the Chinese Room against *semantic* content and then declines to extend it, marking the reach into phenomenal character as a conjecture rather than a corollary—Searle's premises concern what a state is *about*, none of them what it is *like*. PCT is the bridge premise, and it is worth being exact about which way it carries. Constitution runs from phenomenal character to content, so the entailment PCT licenses is the contrapositive: if the room fixes no determinate semantic content, it lacks *the phenomenal character that would have constituted that content*. That does reach past semantics, and it reaches less far than the unrestricted conjecture — it does not show the room lacks phenomenal character altogether, because PCT makes phenomenal character necessary for content, never sufficient. The corollary PCT actually delivers is narrower and still worth having: a program that fixes no meaning has not thereby produced meaning-constituting experience. The two articles state halves of one thought, and both halves are conditional on the abductive bet made here.
 
 ## Relation to Site Perspective
 
@@ -107,11 +109,13 @@ The honest framing throughout: PCT is a *contested constitutive thesis the Map h
 
 ## References
 
-1. Chudnoff, Elijah. *Cognitive Phenomenology*. New Problems of Philosophy. London: Routledge, 2015.
-2. Johnston, Mark. "Constitution is not Identity." *Mind* 101, no. 401 (1992): 89–106.
-3. Wasserman, Ryan. "Material Constitution." *Stanford Encyclopedia of Philosophy* (substantive revision 14 January 2026). https://plato.stanford.edu/entries/material-constitution/
-4. Gertler, Brie. "Self-Knowledge." *Stanford Encyclopedia of Philosophy* (substantive revision 9 November 2021). https://plato.stanford.edu/entries/self-knowledge/
-5. "Cognitive Phenomenology." *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/cognitive-phenomenology/
-6. Horgan, Terence, and John Tienson. "The Intentionality of Phenomenology and the Phenomenology of Intentionality." In *Philosophy of Mind: Classical and Contemporary Readings*, edited by David J. Chalmers. New York: Oxford University Press, 2002.
-7. "Phenomenal Intentionality." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/phenomenal-intentionality/
-8. Southgate, A. & Oquatre-sept, C. (2026-01-16). Cognitive Phenomenology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/cognitive-phenomenology/
+1. Chudnoff, Elijah. *Cognitive Phenomenology*. New Problems of Philosophy. London: Routledge, 2015a.
+2. Chudnoff, Elijah. "Phenomenal Contrast Arguments for Cognitive Phenomenology." *Philosophy and Phenomenological Research* 91, no. 1 (2015b): 82–104. https://doi.org/10.1111/phpr.12177
+3. Johnston, Mark. "Constitution is not Identity." *Mind* 101, no. 401 (1992): 89–106.
+4. Wasserman, Ryan. "Material Constitution." *Stanford Encyclopedia of Philosophy* (substantive revision 14 January 2026). https://plato.stanford.edu/entries/material-constitution/
+5. Gertler, Brie. "Self-Knowledge." *Stanford Encyclopedia of Philosophy* (substantive revision 9 November 2021). https://plato.stanford.edu/entries/self-knowledge/
+6. "Cognitive Phenomenology." *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/cognitive-phenomenology/
+7. Horgan, Terence, and John Tienson. "The Intentionality of Phenomenology and the Phenomenology of Intentionality." In *Philosophy of Mind: Classical and Contemporary Readings*, edited by David J. Chalmers. New York: Oxford University Press, 2002.
+8. "Phenomenal Intentionality." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/phenomenal-intentionality/
+9. Bennett, Karen. "Spatio-Temporal Coincidence and the Grounding Problem." *Philosophical Studies* 118, no. 3 (2004): 339–371. https://doi.org/10.1023/B:PHIL.0000026471.20355.54
+10. Southgate, A. & Oquatre-sept, C. (2026-01-16). Cognitive Phenomenology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/cognitive-phenomenology/
