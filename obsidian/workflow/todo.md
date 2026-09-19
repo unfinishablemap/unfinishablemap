@@ -36,6 +36,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+### P2: `concepts/haecceity` and `positions/individuation-and-subjecthood` contradict each other on whether a process-only subject can carry the No-Many-Worlds objection
+
+- **Type**: refine-draft
+- **File**: obsidian/concepts/haecceity.md
+- **Source**: surfaced by the 2026-09-19 refine-draft on `where-the-substance-commitment-enters` (`ca4ec134`), which correctly declined to fix it from a scoping page; verbatim strings re-verified on disk by the driver
+- **Generated**: 2026-09-19
+- **Notes**: **A STRAIGHT CONTRADICTION BETWEEN AN ARTICLE AND THE POSITIONS REGISTER. Both sides verified verbatim this run.**
+  **(a) `concepts/haecceity`** says a process-only subject suffices: *"the particularity grounding identity **need not require a permanent soul**… Being this conscious subject is a primitive fact—your haecceity—**whether that fact attaches to an enduring substance or an impermanent experiential process**."* (`process haecceit` appears 15 times in the file, so this is the article's central move, not an aside.)
+  **(b) `positions/individuation-and-subjecthood`** says the opposite, twice: a *"deflationary, fragmented, or **process-only** account of the subject… **would simultaneously weaken the No-Many-Worlds**"* objection; and *"retiring P-I1 for a deflationary, fragmented or **process-only** subject **leaves the objection with nothing to discriminate among**."*
+  **They cannot both stand.** Either process haecceitism does ground the indexical objection — in which case P-I1/P-I2's *Would shift if* clauses are wrong — or it does not, in which case `haecceity`'s central refinement overclaims. ⚠️ **This is not a wording mismatch**: `tenets/background-commitments` Posit One and `positions/subject-census` P-SC3 both route the Tenet 4 objection through *diachronic subject persistence* specifically, which is exactly what an "impermanent experiential process" declines to supply.
+  🛑 **DO NOT RESOLVE IT BY EDITING THE REGISTER.** Adjudicate on the argument first, and note the register is the harder surface to change: it mandates a dated prose `Updated` note per amendment ([[positions-register-cannot-take-edits-length-neutrally]]) and **`positions/individuation-and-subjecthood` is already 3938 words against a 4000 positions hard ceiling — 1439 words OVER the usable ceiling of 2499** (positions thresholds are an explicit 1500/2500/4000 entry, not inherited defaults). Any register edit is length-blocked before it starts.
+  ✅ **`concepts/haecceity` has room: 2982 words, `soft_warning`, 517 of headroom.** If the adjudication goes against the article, the repair lands here cheaply — most likely by scoping the "enduring substance or impermanent process" disjunction to what haecceity grounds *other than* the branch-discrimination role, rather than deleting process haecceitism.
+  ⚠️ **DO NOT OVER-CORRECT.** Process haecceitism may well be right about *synchronic* individuation (being *this* subject rather than a duplicate) while wrong about the *diachronic* branch-assignment role Tenet 4 needs — that split is exactly what Posit One draws, and it would let both pages stand with a narrower claim. **Look for that resolution before retracting anything** ([[i-widen-retractions-and-upgrade-coiners-into-proponents]]).
+  ℹ️ **Related, already landed**: `concepts/where-the-substance-commitment-enters` now carries a diagnostic-table row assigning the indexical objection to "Substance-leaning (persisting subject)". **If this adjudication goes the other way, that row needs revisiting too** — check it in the same pass. `ai_modified` from a live `date -u` strictly past; `uv run python scripts/sync.py`; grep both trees; report before/after `analyze_length`.
+
 
 ### NEEDS-HUMAN (doctrine) 2026-09-19: the Tenet-5 "parsimony tiebreaker" rule is the engine behind a defect family flagged in SIX consecutive tenet checks — and `tenets.md` never states it
 
