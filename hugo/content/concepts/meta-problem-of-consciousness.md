@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-09-19 07:23:30+00:00
+ai_modified: 2026-09-19 07:39:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-11 22:54:33+00:00
-lastmod: 2026-09-19 07:23:30+00:00
+lastmod: 2026-09-19 07:39:19+00:00
 modified: *id001
 related_articles:
 - '[[consciousness]]'
@@ -87,7 +87,7 @@ The interactionist reply engages this threat at the premise it depends on, but t
 
 Against those two the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet is decisive: if consciousness causally shapes the reasoning that produces problem reports, it plays a causal role in the very processes the explanation invokes, and causal independence fails. That is a real in-framework engagement—it identifies a premise the debunker needs and shows the Map's commitments withhold it.
 
-It is also all the tenet delivers. Chalmers grants the realizationist exactly this much and then reformulates: a strong *modal* and *explanatory* independence survives, because a near-complete structural explanation of the intuitions could obtain without consciousness even where consciousness actually contributes. That regenerates the threat as a coincidence problem—if the intuitions are correct, their correctness begins to look lucky—and because the coincidence turns on what could have obtained rather than on what did, actual causal contribution does not dispel it. Modal independence, explanatory independence and the coincidence argument built on them remain open; the [interactionist development](/topics/metaproblem-of-consciousness-under-dualism/) takes them up. Against a physicalist who rejects bidirectional interaction the exchange is moot in any case, and that residual disagreement is a framework-boundary clash, honestly noted rather than dressed as a victory inside the physicalist's own commitments.
+It is also all the tenet delivers. Chalmers grants the realizationist exactly this much and then reformulates: a strong *modal* and *explanatory* independence survives, because a near-complete structural explanation of the intuitions could obtain without consciousness even where consciousness actually contributes. That regenerates the threat as a coincidence problem—if the intuitions are correct, their correctness begins to look lucky—and because the coincidence turns on what could have obtained rather than on what did, actual causal contribution does not dispel it. Chalmers's own example of a case where a topic-neutral solution remains available is [the Map's mechanism](/apex/born-preserving-causal-efficacy/). Non-physical consciousness that collapses the wave function in specifiable circumstances according to the Born probabilities can be redescribed in structural terms as *something* that collapses it there, with consciousness never named. Such a redescription holds in the actual world, where consciousness is doing the collapsing, and it is topic-neutral rather than physical — weaker than a physical account and correspondingly harder to rule out. The debunker therefore needs neither a consciousness-free world nor a physical explanation, and the Map's interface supplies the topic-neutral explanation directly. Modal independence, explanatory independence, topic-neutral availability and the coincidence argument built on them remain open; the [interactionist development](/topics/metaproblem-of-consciousness-under-dualism/) takes them up. Against a physicalist who rejects bidirectional interaction the exchange is moot in any case, and that residual disagreement is a framework-boundary clash, honestly noted rather than dressed as a victory inside the physicalist's own commitments.
 
 ## The Meta-Problem and Physicalism
 
@@ -129,7 +129,7 @@ Transparency is not the only candidate mechanism, and not all candidates are arc
 
 The dualist's face-value solution to the meta-problem would be challenged if:
 
-1. **A purely physical account of problem intuitions proved complete**—explaining not just that we produce problem reports but *why* these reports have the specific character they do, without invoking consciousness as a contributor
+1. **A complete structural account of problem intuitions were given**—physical or merely topic-neutral, explaining not just that we produce problem reports but *why* these reports have the specific character they do, without naming consciousness as a contributor
 2. **A wholly mindless process were shown to generate our problem reports**—not merely reports resembling ours, but the actual causal history of ours—undermining the claim that consciousness contributes to philosophical reasoning
 3. **Problem intuitions tracked cultural or cognitive biases** rather than genuine features of consciousness—for example, if societies with different conceptual frameworks lacked problem intuitions entirely
 

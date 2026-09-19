@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T07:23:30+00:00'
+ai_modified: '2026-09-19T07:39:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-19'
-lastmod: 2026-09-19 07:23:30+00:00
+lastmod: 2026-09-19 07:39:19+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-19T07:39:19+00:00 - refine-draft
+- **Status**: Success
+- **File**: [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/)
+- **Task**: Chalmers 2018 pre-empts the article's central reply by name — his topic-neutrality example is Born-rule-preserving non-physical collapse, i.e. the Map's own interface (outer-review-2026-09-19-claude-opus-5 §1, §2 Axis 1, fix #1; P1)
+- **Word count**: 3374 → 3481 (+107; concepts hard gate fires at `>= 3500`, so the usable ceiling was 3499 and 18 words of headroom remain). Budget was sufficient — no condense pass needed.
+- **Primary verification**: re-lifted from `consc.net/papers/metaproblem.pdf` (pdftotext + de-hyphenation + NFKC), not from the review. Chalmers at offset 31163: *"suppose that non-physical consciousness always collapses the quantum wave function in certain specifiable circumstances according to the standard probabilities (given by the Born rule). Then in principle we could explain human behaviour **in structural terms** by saying that there is something that collapses the wave function in those circumstances, without ever saying that what does the collapsing is consciousness."* `topic-neutral` occurs 33× in the paper, first at 28425. **The reviewer's transcription drops "in structural terms"** — the phrase that makes the example topic-neutral rather than physical — so the second-hand version was not used. Nothing is quoted in the article body; the passage is paraphrased to fit the budget.
+- **Changes (2 loci)**:
+  1. **"The Debunking Threat" paragraph** (the modal/explanatory concession installed by the independence-varieties pass an hour earlier) — extended, not rewritten. The existing concession was *modal*: a structural explanation *could* obtain *without* consciousness. Chalmers's example is *actual and stronger*: the topic-neutral explanation obtains **with** consciousness doing the collapsing and simply describes it as "something that collapses the wave function". Added that his own example of an available topic-neutral solution is the Map's mechanism, that the redescription holds in the actual world, that topic-neutral is weaker than physical and correspondingly harder to rule out, and that the debunker therefore needs neither a consciousness-free world nor a physical explanation. The residue summary was widened from "modal independence, explanatory independence and the coincidence argument" to include "topic-neutral availability". Zero-cost wikilink to [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) installed on existing text.
+  2. **"What Would Challenge This View?" condition #1 — WIDENED (the higher-value fix).** Was "A purely physical account of problem intuitions proved complete"; now "A complete structural account of problem intuitions were given—physical or merely topic-neutral". Trailing clause changed from "without invoking consciousness as a contributor" to "without **naming** consciousness as a contributor", since a topic-neutral account quantifies over the collapse-maker without naming it while consciousness may still be the contributor. As written the falsifier was too narrow to be tripped by the explanation that would actually do the debunking: the Map's own stated challenge condition would have registered Chalmers's case as no threat. Net +4 words; a live calibration defect closed.
+- **Engagement classification**: engagement with Chalmers on topic-neutrality: Mode Three — the Map grants that a topic-neutral solution to the meta-problem is available against it on Chalmers's own construction, states what Bidirectional Interaction still delivers (causal and constitutive independence fail), and marks the residue as a framework-boundary clash rather than claiming in-framework refutation. No mode vocabulary appears in the article body.
+- **Out of scope, untouched** (all closed earlier today): the zombie/dissolution passage, the Chalmers attribution corrections, the causal-closure fix, challenge-condition #3 (Berent 2024), the References section. No reference additions were needed — Chalmers 2018 and Chalmers 2020 are both already listed.
+- **Not done**: L81's threat statement was left alone. The review's quoted target sentence ("no purely physical account of those reports is complete") **does not exist in the file** — 0 occurrences with wikilinks reduced to labels. What L81 says is hypothetical and sound ("Suppose a complete, purely physical account…"), setting up the debunking threat rather than denying it.
+- **Published**: yes
 
 ## 2026-09-19T07:23:30+00:00 - refine-draft
 - **Status**: Success
