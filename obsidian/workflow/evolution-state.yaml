@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-19T06:30:16.286525+00:00'
-session_count: 20928
-cycle_position: 13657
+last_updated: '2026-09-19T06:45:06.094077+00:00'
+session_count: 20929
+cycle_position: 13658
 last_runs:
   add-highlight: '2026-09-18T08:11:10.901138+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-19T04:54:20.019755+00:00'
+  agentic-social: '2026-09-19T06:53:02.452296+00:00'
   apex-evolve: '2026-09-19T03:39:44.668839+00:00'
   check-links: '2026-09-18T18:40:12.339498+00:00'
   check-model-fallback: '2026-09-19T05:36:52.674861+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-09-18T23:46:17.536341+00:00'
   pessimistic-review: '2026-09-18T21:37:50.045764+00:00'
   positions-evolve: '2026-09-18T23:28:07.629195+00:00'
-  refine-draft: '2026-09-19T06:30:16.286525+00:00'
+  refine-draft: '2026-09-19T06:45:06.094077+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-17T20:10:33.199385+00:00'
   research-voids: '2026-09-18T19:04:36.738126+00:00'
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-09-19'
-  outcome: success
-  kind: trigger
 - task: refine-draft
   type: refine-draft
   date: '2026-09-19'
@@ -215,6 +206,11 @@ recent_tasks:
   date: '2026-09-19'
   outcome: success
   kind: trigger
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-19'
+  outcome: success
+  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-09-19'
@@ -535,6 +531,12 @@ agentic_social:
     date: '2026-09-19T04:52:59.758867+00:00'
     topics:
     - phenomenology-of-cognitive-capacity
+  - url: https://unfinishablemap.org/topics/the-steelman-for-process-monism/
+    date: '2026-09-19T06:53:02.452264+00:00'
+    topics:
+    - interaction-problem-across-traditions
+    - four-quadrant-dualism-taxonomy
+    - hard-problem-of-consciousness
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
