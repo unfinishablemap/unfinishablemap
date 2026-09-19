@@ -10,6 +10,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-19T22:39:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [resolution-void](/voids/resolution-void/)
+- **Source**: `reviews/tenet-check-2026-09-19.md` priority finding 2 (Tenet 5 self-binding in `## Relation to Site Perspective`)
+- **Word count**: 2529 to 2545, net +16 (voids soft 2000 / hard 3000; 454 words of headroom below the hard gate). The Tenet-4 paragraph shrank 82 to 68 words; the Tenet-1 paragraph grew 51 to 77 to carry the source-attribution pointer. Measured with `analyze_length`, not estimated.
+- **Changes**:
+  - **Tenet-4 locus** — "gains indirect support from the resolution void's concealment mechanisms" downgraded to coherence commentary; the closing sentence "adding branching ontology would multiply what the void must hide beyond any plausible concealment mechanism" deleted outright. That sentence was the ontological-multiplicity parsimony complaint that `tenets.md` forbids the Map from running: "the Map cannot invoke simplicity against many-worlds while disarming parsimony arguments *against* dualism. The ontological-extravagance objection is therefore subsidiary - a registered cost, not a refutation." Replacement states that the rejection of many-worlds rests on the indexical objection and that the resolution void neither supports nor tells against it.
+  - **Tenet-1 locus** — "finds direct support in Sellars' grain argument" to "is consonant with Sellars' grain argument rather than supported by it". Added a piped pointer to [source-attribution-void](/voids/source-attribution-void/), which states the discipline in terms; this file cited it 0 times before the pass (of 104 voids articles, only the file that states the discipline cited it).
+  - **Matrix check** — verified `tenets.md` Tenet-Dependency Matrix Voids row, "No-MWI / indexical identity" column, reads "Required for branch-indexical voids only". The resolution void is not branch-indexical, so the tenet should not have been doing support work here. The replacement paragraph now says so explicitly.
+- **Brief correction (for the record)**: the task asserted that `tenets.md`'s "must therefore rest on the *indexical* objection ... not the *ontological-multiplicity* parsimony complaint discounted there" returns 0 and should not be quoted as tenets text. It is real, at `tenets.md` L145. The driver's `grep -F` false-zeroed on the italic asterisks inside the phrases - the same markup-splitter the task itself warned about one paragraph earlier. Both tenets sentences are therefore available to rest the repair on.
+- **Scope**: this file only. The voids-wide version of the Tenet-1 locus (six files stating tenet *support* where the discipline permits only consonance) was left untouched per the task's scope fence. No retraction of the Sellars material.
+- **Published**: yes
+
 ## 2026-09-19T22:26:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [dualism-channel-width-axis](/topics/dualism-channel-width-axis/)

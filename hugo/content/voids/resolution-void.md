@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-28
-ai_modified: 2026-09-18 20:53:49+00:00
+ai_modified: 2026-09-19 22:38:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 09:42:50+00:00
-lastmod: 2026-09-18 20:53:49+00:00
+lastmod: 2026-09-19 22:38:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -88,11 +88,11 @@ The resolution void connects to the Map's [tenets](/tenets/) across multiple dim
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** receives its most dramatic illustration here. Consciousness reduces reality from millions of bits to ten bits per second — a simplification so radical that our preference for simple explanations may reflect cognitive necessity rather than philosophical insight. We prefer simple theories because we cannot perceive the complexity that would require complex ones. If Occam's Razor reflects the resolution of the mind rather than the structure of reality, its authority as a guide to truth is fundamentally compromised.
 
-**[Dualism](/tenets/#dualism)** finds direct support in Sellars' grain argument. If phenomenal experience is homogeneous and neural substrates are discrete, they cannot be identical. The resolution of experience is set by consciousness itself — a prediction that follows naturally if consciousness has its own non-physical properties with their own structural characteristics.
+**[Dualism](/tenets/#dualism)** is consonant with Sellars' grain argument rather than supported by it. If phenomenal experience is homogeneous and neural substrates are discrete, they cannot be identical, and the resolution of experience is then set by consciousness itself — as one would expect if consciousness has its own non-physical properties with their own structural characteristics. [The source-attribution void](/voids/source-attribution-void/) states the direction: evidence of this kind constrains what dualism may claim rather than serving as what dualism is inferred from.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is constrained by resolution limits. Consciousness can only direct what it can discriminate. The [bandwidth problem in mental causation](/concepts/consciousness-bandwidth-architecture/) formalises this: conscious intention operates at a coarse policy level while the brain translates that intention into fine-grained motor commands. The resolution void bounds the scope of mental causation without eliminating it.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** gains indirect support from the resolution void's concealment mechanisms. Consciousness fills in, interpolates, and smooths — constructing apparent completeness from radically incomplete data. If branching produced multiple versions of each experience, the resolution void would need to conceal not just missing information but entire parallel experiential threads. The Map's rejection of many-worlds is consonant with an architecture that already operates at maximum compression; adding branching ontology would multiply what the void must hide beyond any plausible concealment mechanism.
+**[No Many Worlds](/tenets/#no-many-worlds)** does no argumentative work here. The Map's rejection of many-worlds rests on the indexical objection, and [tenets](/tenets/) bars the Map from pressing the ontological-multiplicity complaint against branching while disarming parsimony arguments against dualism. The resolution void's concealment mechanisms operate on transduced sensory information rather than on branch structure, and the tenet-dependency matrix requires this tenet for branch-indexical voids only. The resolution void is not one.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** creates a nested void. If consciousness interfaces with quantum processes, yet its phenomenal resolution is orders of magnitude coarser than quantum scales, then consciousness performs interactions it cannot perceive. It influences the quantum without experiencing the quantum — a void within the causal interface.
 

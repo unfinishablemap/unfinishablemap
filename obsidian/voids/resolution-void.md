@@ -4,7 +4,7 @@ description: "Consciousness processes ten bits per second from eleven million av
 created: 2026-02-28
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-09-18T20:53:49+00:00
+ai_modified: 2026-09-19T22:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -84,11 +84,11 @@ The resolution void connects to the Map's [[tenets]] across multiple dimensions.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** receives its most dramatic illustration here. Consciousness reduces reality from millions of bits to ten bits per second — a simplification so radical that our preference for simple explanations may reflect cognitive necessity rather than philosophical insight. We prefer simple theories because we cannot perceive the complexity that would require complex ones. If Occam's Razor reflects the resolution of the mind rather than the structure of reality, its authority as a guide to truth is fundamentally compromised.
 
-**[[tenets#^dualism|Dualism]]** finds direct support in Sellars' grain argument. If phenomenal experience is homogeneous and neural substrates are discrete, they cannot be identical. The resolution of experience is set by consciousness itself — a prediction that follows naturally if consciousness has its own non-physical properties with their own structural characteristics.
+**[[tenets#^dualism|Dualism]]** is consonant with Sellars' grain argument rather than supported by it. If phenomenal experience is homogeneous and neural substrates are discrete, they cannot be identical, and the resolution of experience is then set by consciousness itself — as one would expect if consciousness has its own non-physical properties with their own structural characteristics. [[source-attribution-void|The source-attribution void]] states the direction: evidence of this kind constrains what dualism may claim rather than serving as what dualism is inferred from.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is constrained by resolution limits. Consciousness can only direct what it can discriminate. The [[consciousness-bandwidth-architecture|bandwidth problem in mental causation]] formalises this: conscious intention operates at a coarse policy level while the brain translates that intention into fine-grained motor commands. The resolution void bounds the scope of mental causation without eliminating it.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** gains indirect support from the resolution void's concealment mechanisms. Consciousness fills in, interpolates, and smooths — constructing apparent completeness from radically incomplete data. If branching produced multiple versions of each experience, the resolution void would need to conceal not just missing information but entire parallel experiential threads. The Map's rejection of many-worlds is consonant with an architecture that already operates at maximum compression; adding branching ontology would multiply what the void must hide beyond any plausible concealment mechanism.
+**[[tenets#^no-many-worlds|No Many Worlds]]** does no argumentative work here. The Map's rejection of many-worlds rests on the indexical objection, and [[tenets]] bars the Map from pressing the ontological-multiplicity complaint against branching while disarming parsimony arguments against dualism. The resolution void's concealment mechanisms operate on transduced sensory information rather than on branch structure, and the tenet-dependency matrix requires this tenet for branch-indexical voids only. The resolution void is not one.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** creates a nested void. If consciousness interfaces with quantum processes, yet its phenomenal resolution is orders of magnitude coarser than quantum scales, then consciousness performs interactions it cannot perceive. It influences the quantum without experiencing the quantum — a void within the causal interface.
 

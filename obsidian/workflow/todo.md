@@ -1849,23 +1849,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **Two edits, sized**: (1) ~250 words as a `###` subsection in `obsidian/concepts/supervenience.md` under "Supervenience and the Exclusion Argument", linking `[[agent-causation]]` and `[[where-the-substance-commitment-enters]]`; (2) **zero word cost** in the substance article — convert the existing "supervene" in *"A property-only reading—on which mental properties supervene on a physical substrate without any substance bearing them—struggles to supply it."* into a piped wikilink `[[supervenience|supervene]]`.
   **Do both files or neither** — a one-sided fix leaves the reciprocal missing, which is the defect being repaired. Sync both trees; `hugo/content/concepts/` must not be left stale.
 
-### P2: `voids/resolution-void` grounds No Many Worlds in the ontological-multiplicity parsimony complaint — the one move `tenets.md` forbids by name, twice
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/voids/resolution-void.md
-- **Source**: check-tenets
-- **Review file**: `reviews/tenet-check-2026-09-19.md` (priority finding 2)
-- **Generated**: 2026-09-19
-- **Notes**: Driver-verified 2026-09-19 by exact substring at the match offset. Three loci, all in the `## Relation to Site Perspective` block.
-  **THE PROHIBITION IS EXPLICIT AND IT IS ON THE TENETS PAGE.** `tenets.md` L119: *"By Tenet 5 parsimony is an unreliable guide to truth in this domain, and **the Map cannot invoke simplicity against many-worlds while disarming parsimony arguments against dualism**."* L145: *"The rejection of many-worlds … must therefore rest on the indexical objection … **not the ontological-multiplicity parsimony complaint discounted there**."*
-  **(1) The Tenet-4 locus.** "**[[tenets#^no-many-worlds|No Many Worlds]]** gains indirect support from the resolution void's concealment mechanisms." and, closing the same paragraph, "adding branching ontology would multiply what the void must hide beyond any plausible concealment mechanism." That second sentence *is* the ontological-multiplicity complaint. **Fix**: downgrade to coherence commentary — "The Map's rejection of many-worlds is a separate commitment resting on the indexical objection; the resolution void neither supports nor tells against it" — and **delete the multiplication-burden sentence**.
-  **(2) The Tenet-1 locus, same section.** "**[[tenets#^dualism|Dualism]]** finds direct support in Sellars' grain argument" → "is consonant with". This inverts the voids-as-evidence discipline that a sibling void edited the same day states in terms: `voids/source-attribution-void` — *"A Map that used this void to **support** dualism would be inverting the relation: the evidence constrains what dualism may claim, not what dualism may be inferred from."* Of 104 voids articles exactly **one** cites that discipline — the file that states it. `resolution-void` cites it 0 times. Consider adding the pointer.
-  **(3) Matrix check.** `tenets.md`'s Tenet-Dependency Matrix marks the Voids row "Required for branch-indexical voids only" for No-MWI. The resolution void is not a branch-indexical void, so the tenet should not be doing support work here at all.
-  **Budget is comfortable**: 2529 words, voids 2000/3000/4000 → usable ceiling 2999, **470 words free**. The repair is net-negative. **No open task on this file** (grep-checked against all open blocks 2026-09-19).
-  **Minted at P2** for the same reason as the sibling task above. A voids-wide version of locus (2) — six files state tenet *support* where the discipline permits only consonance — is catalogued in the review file's secondary section and is **out of scope here**; fix this file only.
-  `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees.
-
 ## Completed Tasks
 
   **SCOPE EXTENDED BY THE DRIVER 2026-09-19 11:1x UTC — the executing pass's sweep found one locus; a corpus-wide sweep including the ARCHIVE TREE finds three.** ([[defect-sweeps-must-include-archive-tree]].) `concepts/mysterianism` itself is now clean (commit `7ff94975`), verified 0/0 in both trees for all five removed strings. What remains:
@@ -1876,6 +1859,18 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-19: `voids/resolution-void` grounds No Many Worlds in the ontological-multiplicity parsimony complaint — the one move `tenets.md` forbids by name, twice
+- **Type**: refine-draft
+- **File**: obsidian/voids/resolution-void.md
+- **Notes**: Driver-verified 2026-09-19 by exact substring at the match offset. Three loci, all in the `## Relation to Site Perspective` block.
+  **THE PROHIBITION IS EXPLICIT AND IT IS ON THE TENETS PAGE.** `tenets.md` L119: *"By Tenet 5 parsimony is an unreliable guide to truth in this domain, and **the Map cannot invoke simplicity against many-worlds while disarming parsimony arguments against dualism**."* L145: *"The rejection of many-worlds … must therefore rest on the indexical objection … **not the ontological-multiplicity parsimony complaint discounted there**."*
+  **(1) The Tenet-4 locus.** "**[[tenets#^no-many-worlds|No Many Worlds]]** gains indirect support from the resolution void's concealment mechanisms." and, closing the same paragraph, "adding branching ontology would multiply what the void must hide beyond any plausible concealment mechanism." That second sentence *is* the ontological-multiplicity complaint. **Fix**: downgrade to coherence commentary — "The Map's rejection of many-worlds is a separate commitment resting on the indexical objection; the resolution void neither supports nor tells against it" — and **delete the multiplication-burden sentence**.
+  **(2) The Tenet-1 locus, same section.** "**[[tenets#^dualism|Dualism]]** finds direct support in Sellars' grain argument" → "is consonant with". This inverts the voids-as-evidence discipline that a sibling void edited the same day states in terms: `voids/source-attribution-void` — *"A Map that used this void to **support** dualism would be inverting the relation: the evidence constrains what dualism may claim, not what dualism may be inferred from."* Of 104 voids articles exactly **one** cites that discipline — the file that states it. `resolution-void` cites it 0 times. Consider adding the pointer.
+  **(3) Matrix check.** `tenets.md`'s Tenet-Dependency Matrix marks the Voids row "Required for branch-indexical voids only" for No-MWI. The resolution void is not a branch-indexical void, so the tenet should not be doing support work here at all.
+  **Budget is comfortable**: 2529 words, voids 2000/3000/4000 → usable ceiling 2999, **470 words free**. The repair is net-negative. **No open task on this file** (grep-checked against all open blocks 2026-09-19).
+  **Minted at P2** for the same reason as the sibling task above. A voids-wide version of locus (2) — six files state tenet *support* where the discipline permits only consonance — is catalogued in the review file's secondary section and is **out of scope here**; fix this file only.
+  `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees.
 
 ### ✓ 2026-09-19: Tenet 5 self-binding — six loci claim parsimony FOR the Map, one inside a section headed "Occam's Razor Has Limits"; the corpus-approved patch clause already exists
 - **Type**: refine-draft
