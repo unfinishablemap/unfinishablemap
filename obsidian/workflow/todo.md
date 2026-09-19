@@ -36,6 +36,43 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+### P2: the MQI bandwidth fix is HALF-APPLIED — the anaphor one sentence later re-labels the behavioural figure as "conscious bandwidth"
+
+- **Type**: refine-draft
+- **File**: obsidian/concepts/metaphysics-of-information-under-dualism.md
+- **Source**: cycle driver, 2026-09-19 16:3x UTC — caught by the tenet check; **the residue is a DRIVER ERROR, see below**
+- **Generated**: 2026-09-19
+- **Notes**: **THIS IS MY MISTAKE AND IT SHOULD BE RECORDED AS ONE.** The 15:22 fix (`ff5bcee0`) correctly restated the first mention as *"the information throughput of a human being is roughly 10 bits per second"*, removing the unsupported "conscious processing" gloss. **But I explicitly instructed that pass to leave the following sentence untouched**, on the grounds that its hedge was the article's honest work. That sentence reads: *"Whether **this conscious bandwidth** reflects the quantum-level injection rate, emerges from it, or is an independent constraint is unknown."* **The anaphoric "this conscious bandwidth" re-labels the very figure the fix had just de-glossed, one sentence later.** I protected a sentence that itself carries the defect ([[my-already-checked-fences-certify-partial-coverage]]).
+  **Verified live in both trees this run**: `conscious bandwidth` = 1 occurrence in `obsidian/` and 1 in `hugo/content/`. The tenet check notes this is **the only locus in the corpus that cashes the 10 bits/s figure as tenet support without the behavioural guard every sibling carries**.
+  **THE REPAIR IS 1–2 WORDS AND MUST BE NEUTRAL OR NEGATIVE**: "this conscious bandwidth" → "this bottleneck" or "this figure". ⚠️ **Keep the hedge itself — the three-way "reflects / emerges from / independent constraint is unknown" structure is exactly right and is what makes the compact fix sufficient.** Do not rewrite the sentence, do not re-open the first mention, and **do not touch the citation**: Crossref confirms Zheng & Meister, *Neuron* 113(2):192–204, 2025, and the `~10⁹` magnitude is now correct.
+  ⚠️ **LENGTH: 3376 words** against concepts 2500/3500/5000, usable ceiling 3499 → **123 words of headroom**. `ai_modified` from a live `date -u` **strictly past**; sync; grep both trees.
+
+### P2: `concepts/bidirectional-interaction` L119 awards the Map a parsimony verdict with no guard — and the exact guard clause already exists verbatim in a sibling
+
+- **Type**: refine-draft
+- **File**: obsidian/concepts/bidirectional-interaction.md
+- **Source**: check-tenets 2026-09-19, Tenet-5 self-binding sweep, ranked finding A1
+- **Generated**: 2026-09-19
+- **Notes**: **THE HIGHEST-VALUE ITEM IN A 28-LOCUS SWEEP, because the repair is a copy rather than a composition.** L119, Map voice, in the "Evolutionary Convergence" section: *"The interactionist alternative offers a simpler explanation: consciousness evolved *because* it influences behaviour."* The paragraph then **reinforces** rather than retracts ("This evolutionary argument is reinforced by…"). **Verified: the file contains no occurrence of `parsimon`, `Occam`, `simplicity`, or any other `simpler` — there is no guard anywhere in it.**
+  ✅ **THE GUARDED TWIN EXISTS AND IS VERBATIM-REUSABLE.** `concepts/epiphenomenalism.md` L140 runs the identical argument correctly (confirmed present, 1 occurrence): *"The interactionist explanation is simpler: consciousness is distributed where it is because it *does* something—though by the Map's own [[tenets#^occams-limits|Tenet 5]], simplicity is not decisive where knowledge is incomplete, so this counts as a registered advantage rather than a parsimony proof."* **Append that guard clause; do not invent new phrasing** — matching wording across the cluster is the point.
+  ⚠️ **LENGTH IS THE BINDING CONSTRAINT AND IT IS TIGHT. Measured this run: 3464 words, usable ceiling 3499 → 35 words of headroom**, and the guard clause is **~30 words**. It fits, but only just — **count before you write**, and if the natural phrasing overshoots, shorten the clause rather than dropping the guard. Do not offset by cutting calibration elsewhere.
+  ℹ️ **Two sibling satellites run the same defective sentence-shape and take the same repair**, but are NOT in scope here (mint separately if wanted): `topics/pain-consciousness-and-causal-power` L160 and `topics/consciousness-in-simple-organisms` L255. The three hub articles that run this argument — `topics/evolutionary-case-for-mental-causation` L167, `concepts/consciousness-as-amplifier` L183, `concepts/cross-cultural-convergence-on-mental-causation` L123 — are all **correct** and reject only the opponent's parsimony. `ai_modified` from a live `date -u` strictly past; sync; grep both trees.
+
+### NEEDS-HUMAN (doctrine) 2026-09-19: the Tenet-5 "parsimony tiebreaker" rule is the engine behind a defect family flagged in SIX consecutive tenet checks — and `tenets.md` never states it
+
+- **Type**: refine-draft
+- **Status**: blocked
+- **Blocked-by**: human-decision — either retire the tiebreaker rule corpus-wide, or add it to `tenets.md` as an explicit qualification of Tenet 5
+- **File**: obsidian/tenets/tenets.md
+- **Source**: check-tenets 2026-09-19 Tenet-5 sweep — the first run to identify a root cause rather than re-list loci
+- **Generated**: 2026-09-19
+- **Notes**: **OPERATOR DECISION — a doctrinal question, not an editing task, and the reason six previous rounds of edits did not stick.**
+  **THE RULE.** Roughly **10 files** state some form of *"parsimony is a tiebreaker between theories of equal explanatory power"* (measured: 10 files match `tie-?breaker` across `topics/ concepts/ apex/ positions/`), plus ~12 more phrased as "equal explanatory power" / "explanatory equals". ⚠️ **`tenets.md` contains ZERO occurrences of `tiebreaker` — verified this run.** The tenet licenses only *"parsimony cannot decide"*; **the tiebreaker rule implies parsimony DOES decide once explanatory power is equal** — and every article that states it then argues physicalism fails the equality test, which quietly hands the Map the parsimony discount Tenet 5 forbids it.
+  **WHY THIS IS THE ROOT CAUSE.** The sweep found **10 Tier-A and ~18 Tier-B loci** of Map-voice parsimony verdicts. Prior `check-tenets` runs flagged much of this family on **2026-07-29b, 07-30, 08-12, 08-22, 09-14 and 09-18** — and **all 7 loci in the 09-18 "Family K" list are still live verbatim today**. `concepts/dualism` L172 was flagged 07-30, explicitly *cleared* 08-22, then re-flagged 09-18: **the reviews now disagree with each other**, which is what an unstated doctrine produces. **Fixing the sentences without settling the rule will regenerate them.**
+  **THE TWO OPTIONS.** **(1) Retire the rule** — treat the tiebreaker formulation as out of contract and sweep the ~10 files, which makes Tenet 5 mean what it says and stops the regeneration. **(2) Ratify it in `tenets.md`** — state explicitly that parsimony may break ties between explanatory equals, which legitimises the existing loci at the cost of narrowing Tenet 5. **Either is defensible; leaving it unstated is what is not**, because every future tenet check re-derives the same family and the corpus keeps drifting.
+  ✅ **CALIBRATION, so this is not read as alarm**: the sweep examined ~1,600 hit-lines and dismissed ~1,580 as in-contract. **The corpus is overwhelmingly right about Tenet 5**; these are exceptions to a live and mostly well-enforced discipline. Notably `topics/parsimony-case-for-interactionist-dualism` — which looks like the worst offender by title — installs the guard **five** times and is the most scrupulous file in the sweep.
+  ℹ️ **Reusable repair precedents already in the corpus**: `concepts/epiphenomenalism` L140 (the guard clause), `concepts/parsimony-epistemology` L140 (attributes the dimensional reversal to Swinburne rather than asserting it), `apex/altered-states-as-interface-evidence` L94 ("a simpler account" → "a simple organisation"), and `concepts/measurement-problem` L189, whose sibling bullet carries exactly the guard L187 lacks. The full ranked locus list with verbatim fragments is in `reviews/tenet-check-2026-09-19.md` and its sweep appendix — **do not re-derive it**.
+
 
 ### NEEDS-HUMAN (length policy) 2026-09-19: `topics/attention-and-the-consciousness-interface` cannot clear its ceiling by condensing — a 2026-07-25 deep review already ruled the overflow an apparatus artifact
 

@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-19 17:0x UTC - tune-system
+- **Status**: Success
+- **Sessions analysed**: session_count 20966; cycle 570 closed (cycle_position 13680)
+- **Findings**: 0 cadence (config absent), 0 failure (20/20 success), 2 queue, 1 review-pattern, 1 convergence
+- **Tier 1 changes**: 0 applied — `cadences` and `overdue_thresholds` do not exist in evolution-state.yaml, so two of three permitted change types have no config to act on
+- **Tier 2 recommendations**: 3 (drain the research→article pipeline; reallocate/gate the coalesce slots; encode the 4-item priority cap)
+- **Tier 3 items**: 4 (create-or-retire the cadence config; NEEDS-HUMAN backlog 70 open / 1 closed; X API credits exhausted; medium_issues 10 vs target 3)
+- **Output**: [system-tune-2026-09-19](/reviews/system-tune-2026-09-19/)
+
+
 ## 2026-09-19T16:49:09+00:00 - check-tenets
 - **Status**: Warnings
 - **Files checked**: 828 swept (`topics/` 329, `concepts/` 327, `positions/` 22, `apex/` 44, `voids/` 104, `tenets/` 2); 41 delta files read in full at their tenet-alignment sections
