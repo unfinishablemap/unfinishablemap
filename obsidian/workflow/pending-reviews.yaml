@@ -484,3 +484,32 @@
   subject_articles:
   - topics/philosophical-stakes-of-spontaneous-collapse.md
   subject_source: reuse:pending-reviews:outer-review-2026-09-18-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6aadefbc-2d68-83eb-ac99-826d6f988849
+  commissioned_at: '2026-09-19T02:13:55.970868+00:00'
+  prompt_summary: 'Audit concepts/meta-problem-of-consciousness: claims, citations,
+    bracketing'
+  target_filename: outer-review-2026-09-19-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please audit one article on The Unfinishable Map (https://unfinishablemap.org),
+    a site defending interactionist dualism: https://unfinishablemap.org/concepts/meta-problem-of-consciousness/
+    , last substantively revised 2026-09-11. Assess it on four axes. (1) Claim support:
+    are its assertions about Chalmers'' 2018 meta-problem, illusionism, and debunking
+    arguments backed by adequate evidence? (2) Citation accuracy: verify attributions,
+    dates, and quoted or paraphrased positions against the primary literature, flagging
+    anything stale relative to work published since 2023. (3) Counterargument coverage:
+    which serious objections to the article''s dualist reading of the meta-problem
+    go unaddressed? (4) Tenet-protective bracketing: where does the article insulate
+    its dualist commitments from the meta-problem''s debunking force rather than engaging
+    it? Also assess its integration with neighbouring articles. External search indexes
+    lag this site, so consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    before claiming anything is missing. End your report with a list of concrete potential
+    improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit meta-problem-of-consciousness
+  subject_articles:
+  - concepts/meta-problem-of-consciousness.md
+  subject_source: fallback:recent-aged
