@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T10:36:47+00:00'
+ai_modified: '2026-09-19T11:05:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-19T11:05:00+00:00 - optimistic-review
+- **Status**: Success
+- **Wing**: Commitment-scoping (4 articles, all `concepts/`) — `supervenience` (1499w, 2000 headroom), `where-the-substance-commitment-enters` (1240w, 2259), `mind-arena` (1380w, 2119), `status-of-content` (1497w, 2002). Chosen because all four share one method — each bounds its own claim and says which layer a commitment enters at — and all four have 2000+ words of headroom, so expansion recommendations have somewhere to land. Meta-problem/illusionism cluster excluded per driver brief (saturated, at ceiling).
+- **Birch verdict**: no calibration concerns. `mind-arena` removes itself from the five-tier scale explicitly ("its credence tracks the tenets it presupposes rather than any independent evidence"); `where-the-substance-commitment-enters` takes Tenet 5's defeater-removal without converting it into a positive reason. Process Philosopher and Hardline Empiricist converge on the same passages, so no `refine-draft` minted on calibration grounds.
+- **Priority items**: 4, each with a verbatim locus verified unique on disk (`grep -cF` → 1) and a word size. Horgan superdupervenience in `supervenience` (absent corpus-wide, 0 files); the persisting subject's second home at Tenet 4 in `where-the-substance-commitment-enters` (asserted in a subordinate clause, developed in 0 files); the missing `supervenience` ↔ substance-commitment reciprocal (measured: 0 "agent" in one, 0 `[[supervenience]]` links in the other); `mind-arena` boundary-case operationalisation (not minted, left for the operator).
+- **Tasks minted**: 3, all on reviewed articles, all with `obsidian/`-prefixed paths and a `Type:` line; verified through `tools.todo.processor.parse_tasks` as P2/P2/P3 `refine-draft` / `pending` at lines 1781, 1793, 1806.
+- **Not certified**: the Lowe "unmoved movers" verbatim in `where-the-substance-commitment-enters` is carried as unverified, not as a strength. `status-of-content` works from secondary sources by its own admission — recorded as an expansion route, not a defect.
+- **Output**: [[reviews/optimistic-2026-09-19-commitment-scoping-wing]]
 
 ## 2026-09-19T10:36:47+00:00 - condense
 - **Status**: Success
