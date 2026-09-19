@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T21:26:31+00:00'
+ai_modified: '2026-09-19T21:38:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-19T21:38:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/phenomenal-overflow]]
+- **Task**: queue line 38, P2 — from [[reviews/optimistic-2026-09-19-phenomenology-wing]] Priority 1 (the wing's anchor concept is its structural isolate).
+- **Changes**: two targeted insertions inside the two named sections, +152 body words (2035w → 2208w incl. reference; `ok`, 1292 to concepts hard 3500).
+  - §`For Illusionism` (+53w): added one sentence after "a more elaborate error" noting that on Frankish's own formulation illusionism posits no second illusion layered over the first — what gets redescribed in phenomenal vocabulary just *is* the functional state — so the extra cost overflow imposes falls on the adequacy of that redescription, piped-linked to [[concepts/cognitive-phenomenology]]. The overflow charge against illusionism is refined, not withdrawn: the redescription must still cover a represented richness outrunning the access machinery.
+  - §`The Contested Status` (+99w): added a paragraph after "frustrating rather than decisive" giving the standoff a diagnosis it previously lacked — Fürst (2017) on phenomenal contrast being dialectically ineffective because "introspective judgments about phenomenology are regimented by the view initially held", plus the Würzburg-Titchener precedent (fifteen years, identical methods, opposite conclusions, abandoned rather than resolved), piped-linked to [[concepts/cognitive-phenomenology]]. Closes with why Block and Cohen–Dennett can each read Sperling as confirming their own position.
+- **Reference added**: 1 — Fürst, M. (2017), *On the Limits of the Method of Phenomenal Contrast*, JAPA 3(2), 168-188. Added because the new prose quotes her verbatim; Frankish is *not* added, since he is paraphrased rather than quoted and the citation is carried by the sibling link (same rule, applied consistently).
+- **Würzburg-Titchener**: named and linked only, not re-explained — it is already live in six other articles.
+- **Out of scope, untouched**: the `phenomenal-overflow` → `phenomenal-depth` reciprocal (property of the open 2026-09-16 P3 on `concepts/phenomenal-depth`); no other part of the article was rewritten. The Nartker et al. (2025) double-edged reading and the secure/contested split were left exactly as they stand.
+- **Verification**: both `[[cognitive-phenomenology]]` targets resolve to `obsidian/concepts/cognitive-phenomenology.md` (single corpus match, no slug collision). New strings confirmed present in both `obsidian/` and `hugo/content/` after sync.
+- **Published**: yes
 
 ## 2026-09-19T21:26:31+00:00 - optimistic-review
 - **Status**: Success

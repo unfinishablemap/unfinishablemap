@@ -4,7 +4,7 @@ description: "Ned Block's argument that phenomenal consciousness exceeds cogniti
 created: 2026-01-28
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-07-12T21:33:51+00:00
+ai_modified: 2026-09-19T21:38:00+00:00
 last_deep_review: 2026-07-12T21:33:51+00:00
 draft: false
 topics:
@@ -126,7 +126,7 @@ The overflow argument strengthens anti-functionalist arguments like [[inverted-q
 
 [[illusionism]] holds that phenomenal consciousness is an illusion—we represent ourselves as having irreducible experiential qualities when we don't. Illusionism aligns with deflationary readings of overflow: the *sense* of rich phenomenology is just another functional state, not evidence of genuine phenomenology beyond function.
 
-If overflow is real, illusionism must explain why we would systematically represent ourselves as having richer experience than we do. The illusion would need to be not merely about *having* phenomenology but about phenomenology *exceeding* access—a more elaborate error.
+If overflow is real, illusionism must explain why we would systematically represent ourselves as having richer experience than we do. The illusion would need to be not merely about *having* phenomenology but about phenomenology *exceeding* access—a more elaborate error. On Frankish's own formulation the surcharge falls elsewhere: illusionism posits no second illusion layered over the first, since what gets redescribed in phenomenal vocabulary just is the functional state, so the added cost is borne by the [[cognitive-phenomenology|adequacy of that redescription]]—which must now cover a represented richness outrunning anything the access machinery delivers.
 
 ## Relation to Site Perspective {#tenets}
 
@@ -167,6 +167,8 @@ Phenomenal overflow remains genuinely contested. The Unfinishable Map presents i
 
 **The methodological bind**: If phenomenology exceeds access, we cannot directly verify it through access-dependent methods (reports, reasoning about experience). The overflow hypothesis may be unfalsifiable from a strictly third-person perspective. This unfalsifiability is generally a mark against a hypothesis—yet it's also exactly what we'd expect if phenomenology genuinely transcends function. The situation is frustrating rather than decisive: unfalsifiability doesn't confirm overflow, but neither does it refute it.
 
+Why the standoff persists rather than narrowing has a diagnosis. Fürst (2017) argues that phenomenal contrast—the method designed to break exactly this kind of symmetry—is dialectically ineffective, because "introspective judgments about phenomenology are regimented by the view initially held": each side's introspection returns the verdict its theory already licenses. The [[cognitive-phenomenology|Würzburg-Titchener controversy]] is the historical precedent, fifteen years of rigorous laboratories running identical methods to opposite conclusions, abandoned rather than resolved. Disputes of this structural shape do not get settled by their introspective contestants, which is why Block and Cohen–Dennett can each read Sperling as confirming their own position.
+
 This connects to [[acquaintance-void|the broader void of pre-conceptual knowing]]—experience that exceeds conceptualization. If phenomenal overflow is real, it exemplifies this broader limit: there may be aspects of experience that resist not just verbal report but cognitive access altogether.
 
 ## Further Reading
@@ -190,3 +192,4 @@ This connects to [[acquaintance-void|the broader void of pre-conceptual knowing]
 1. Nartker, M., Firestone, C., Egeth, H., & Phillips, I. (2025). Sensitivity to visual features in inattentional blindness. *eLife*, 13, RP100337.
 1. McDowell, J. (1994). *Mind and World*. Harvard University Press.
 1. Kelly, S. D. (2001). The Non-Conceptual Content of Perceptual Experience: Situation Dependence and Fineness of Grain. *Philosophy and Phenomenological Research*, 62(3), 601-608.
+1. Fürst, M. (2017). On the Limits of the Method of Phenomenal Contrast. *Journal of the American Philosophical Association*, 3(2), 168-188.

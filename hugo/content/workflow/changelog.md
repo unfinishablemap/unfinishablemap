@@ -1,14 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T21:08:00+00:00'
+ai_modified: '2026-09-19T21:38:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-19'
-lastmod: 2026-09-19 21:08:00+00:00
+lastmod: 2026-09-19 21:38:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-19T21:38:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenal-overflow](/concepts/phenomenal-overflow/)
+- **Task**: queue line 38, P2 — from [optimistic-2026-09-19-phenomenology-wing](/reviews/optimistic-2026-09-19-phenomenology-wing/) Priority 1 (the wing's anchor concept is its structural isolate).
+- **Changes**: two targeted insertions inside the two named sections, +152 body words (2035w → 2208w incl. reference; `ok`, 1292 to concepts hard 3500).
+  - §`For Illusionism` (+53w): added one sentence after "a more elaborate error" noting that on Frankish's own formulation illusionism posits no second illusion layered over the first — what gets redescribed in phenomenal vocabulary just *is* the functional state — so the extra cost overflow imposes falls on the adequacy of that redescription, piped-linked to [cognitive-phenomenology](/concepts/cognitive-phenomenology/). The overflow charge against illusionism is refined, not withdrawn: the redescription must still cover a represented richness outrunning the access machinery.
+  - §`The Contested Status` (+99w): added a paragraph after "frustrating rather than decisive" giving the standoff a diagnosis it previously lacked — Fürst (2017) on phenomenal contrast being dialectically ineffective because "introspective judgments about phenomenology are regimented by the view initially held", plus the Würzburg-Titchener precedent (fifteen years, identical methods, opposite conclusions, abandoned rather than resolved), piped-linked to [cognitive-phenomenology](/concepts/cognitive-phenomenology/). Closes with why Block and Cohen–Dennett can each read Sperling as confirming their own position.
+- **Reference added**: 1 — Fürst, M. (2017), *On the Limits of the Method of Phenomenal Contrast*, JAPA 3(2), 168-188. Added because the new prose quotes her verbatim; Frankish is *not* added, since he is paraphrased rather than quoted and the citation is carried by the sibling link (same rule, applied consistently).
+- **Würzburg-Titchener**: named and linked only, not re-explained — it is already live in six other articles.
+- **Out of scope, untouched**: the `phenomenal-overflow` → `phenomenal-depth` reciprocal (property of the open 2026-09-16 P3 on `concepts/phenomenal-depth`); no other part of the article was rewritten. The Nartker et al. (2025) double-edged reading and the secure/contested split were left exactly as they stand.
+- **Verification**: both `[[cognitive-phenomenology]]` targets resolve to `obsidian/concepts/cognitive-phenomenology.md` (single corpus match, no slug collision). New strings confirmed present in both `obsidian/` and `hugo/content/` after sync.
+- **Published**: yes
+
+## 2026-09-19T21:26:31+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the four-article phenomenology wing in `concepts/` — [phenomenal-depth](/concepts/phenomenal-depth/) (1313w, ok), [phenomenal-overflow](/concepts/phenomenal-overflow/) (2035w, ok), [phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/) (2964w, soft_warning), [cognitive-phenomenology](/concepts/cognitive-phenomenology/) (3271w, soft_warning). Wing selected by honouring the explicit hand-off in `reviews/optimistic-2026-09-19-commitment-scoping-wing.md`; re-measured and confirmed.
+- **Output**: [optimistic-2026-09-19-phenomenology-wing](/reviews/optimistic-2026-09-19-phenomenology-wing/)
+- **Verdict**: the wing is in good shape and the review says so. 36 deep reviews between the four; `phenomenal-depth` was reviewed three days ago and its findings are already minted, so it was reviewed lightly by design. Two real opportunities reported, not four padded ones.
+- **Verified at source before praising** (per the driver's warning that praise misdescribing an article is a defect): the Fürst quotation in `cognitive-phenomenology` — "introspective judgments about phenomenology are regimented by the view initially held" — is **verbatim** from the abstract of Fürst 2017, *JAPA* 3(2) 168-188 (OpenAlex inverted-index reconstruction), and the article's "dialectically ineffective" framing matches the paper's own "dialectical ineffectiveness". The Nartker et al. (2025) citation in `phenomenal-overflow` is **correct in every field** — eLife 13:RP100337, DOI 10.7554/eLife.100337, authors Nartker, Firestone, Egeth, Phillips — and the article's gloss of the result matches the abstract. The Hoffman Fitness-Beats-Truth quotation in the spectrum was **not** verified and is flagged as uncertified rather than praised.
+- **Task generated**: 1 — P2 `refine-draft` on `obsidian/concepts/phenomenal-overflow.md` (todo.md line 38). The wing's anchor concept is a structural isolate (0 body links to all three siblings, 0 inbound from them) and its illusionism section charges Frankish with "a more elaborate error", the reading `cognitive-phenomenology` already forecloses with a verified Frankish treatment; its methodological-bind paragraph also lacks the Würzburg-Titchener/Fürst diagnosis the Map owns elsewhere. 120-160 words against 1464 of headroom. Parser-verified (priority 2, type refine-draft, status pending, `file_path` resolves).
+- **Deliberately NOT minted** (2 findings reported as addenda to existing tasks, to avoid same-file pileup): (1) `phenomenal-depth` ↔ `phenomenal-transparency-opacity-spectrum` is a zero-link pair and the missing link protects depth's contested clause — belongs to the open 2026-09-16 P3 already on that file; (2) the open `cognitive-penetration` P3's six-locus table misses the spectrum because its grep key was "cognitive penetra" while the spectrum says "cognitively impenetrable" / "cannot penetrate" — and the spectrum already contains the discriminating-marker formulation that task's scope item (d) was going to reinvent.
+- **Incidental defect found in two open tasks**: both 2026-09-16 blocks cite `concepts/phenomenal-depth` L239 and L267; the file is **108 lines long**. Real loci are L44 and L72. Their verbatim strings are correct and should be used instead.
+- **Duplication avoided**: the `phenomenal-overflow` → `phenomenal-depth` reciprocal was excluded from the new task by name — it is the property of the open depth P3.
+- **Scope**: reports-only. No article modified, nothing committed.
 
 ## 2026-09-19T21:08:00+00:00 - refine-draft
 - **Status**: Success
