@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-09-19 09:09:00+00:00
+ai_modified: 2026-09-19 13:11:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 17:32:15+00:00
-lastmod: 2026-09-19 09:09:00+00:00
+lastmod: 2026-09-19 13:11:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -54,7 +54,7 @@ Interactionist dualism faces none of these awkward explanatory debts, though it 
 
 The face-value solution gains philosophical teeth through realizationism. Chalmers names and develops meta-problem realizationism in the 2018 paper itself, as a third view available to non-reductionists, "on which consciousness plays a role in realizing meta-problem processes"; he takes it to be "the most promising view for reductionists and non-reductionists alike." Returning to the view in his 2020 paper on debunking arguments, he states its core claim plainly: "on the realizationist view, consciousness plays a causal role in the formation of phenomenal intuitions in the actual world."
 
-For most positions, realizationism is an additional commitment that must be independently motivated. For interactionist dualism, it follows directly from what the theory already claims. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes in the brain. If consciousness influences brain states, it influences *all* downstream brain states—including those that produce philosophical reasoning about consciousness. Realizationism is not an extra assumption; it is a consequence.
+For most positions, realizationism is an additional commitment that must be independently motivated. For interactionist dualism, it follows directly from what the theory already claims. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes in the brain. If consciousness influences brain states, it influences *all* downstream brain states—including those that produce philosophical reasoning about consciousness. Realizationism thus arrives as a consequence rather than an added assumption.
 
 This matters because realizationism blocks the strongest weapon the metaproblem provides to physicalists: the debunking argument.
 
@@ -110,9 +110,8 @@ This is the sharpest illusionist response, and the reply has to be made on Frank
 
 The metaproblem exposes an escalating explanatory burden for [illusionism](/concepts/illusionism/). The [convergence between illusionism and epiphenomenalism](/concepts/illusionism/#structural-convergence-with-epiphenomenalism) compounds this burden: illusionism faces the same structural difficulties as epiphenomenalism because both render phenomenal properties causally idle, differing only in whether the idle element exists. The illusionist must provide a purely physical account of problem intuitions that:
 
-1. Explains why the hard problem has resisted dissolution for three decades of sustained philosophical effort
-2. Accounts for the *specific character* of problem intuitions—not just that we find consciousness puzzling, but that we find it puzzling in exactly the ways that track the [explanatory gap](/concepts/explanatory-gap/)
-3. Does so without invoking features of self-representation so sophisticated that they approximate genuine phenomenality
+1. Accounts for the *specific character* of problem intuitions—not just that we find consciousness puzzling, but that we find it puzzling in exactly the ways that track the [explanatory gap](/concepts/explanatory-gap/)
+2. Does so without invoking features of self-representation so sophisticated that they approximate genuine phenomenality
 
 [Attention Schema Theory](/concepts/attention-schema-theory/) illustrates the difficulty. It proposes that the brain builds a simplified model of its own attention, and this model's incompleteness generates the sense that consciousness is mysterious. But why does the model attribute *phenomenal* properties to attention rather than merely functional ones? The illusionist may reply that the schema encodes a *misrepresentation* of phenomenal feeling. But this pushes the question back: why does a purely physical system generate misrepresentations with specifically phenomenal content—"attention feels like something"—rather than merely functional content like "attention state active"? The schema must already traffic in phenomenal concepts to misrepresent them, and explaining the origin of those concepts is precisely the hard problem restated at one remove.
 
@@ -122,7 +121,7 @@ The interactionist faces no such escalation. Problem intuitions are accurate bec
 
 Empirical work complicates the picture for every position. Diaz's studies (~2021) found that problem intuitions are not widespread among ordinary people, and when they arise, they correlate with factors unrelated to the nature of consciousness—philosophical training, cultural framing, cognitive style.
 
-This might seem to challenge the face-value solution: if problem intuitions are culturally acquired rather than universal, they may not track deep features of reality. But the challenge is symmetric. If problem intuitions are culturally contingent, they cannot serve as evidence *for* illusionism either. The debunking argument loses its target—there is nothing robust to debunk.
+This might seem to challenge the face-value solution: if problem intuitions are culturally acquired rather than universal, they may not track deep features of reality. The finding runs mildly in the debunker's favour: if mundane factors predict who has the intuitions, that supports the near-completeness of the structural explanation [the coincidence argument](#what-the-reply-does-not-reach) turns on.
 
 More fundamentally, the universality of problem intuitions is irrelevant to their accuracy. Heliocentrism was not a widespread folk intuition, yet it was correct. The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies here: the prevalence of an intuition tells us about cognitive and cultural factors, not about metaphysical reality. What matters is whether the intuitions, where they occur, are generated by processes that have access to the relevant facts. Interactionism says they are.
 
@@ -130,9 +129,9 @@ More fundamentally, the universality of problem intuitions is irrelevant to thei
 
 Illusionist solutions to the metaproblem are often motivated by parsimony. If problem intuitions can be explained without positing irreducible consciousness, Occam's razor supposedly favours the leaner ontology. But this reasoning has a structural flaw.
 
-Parsimony comparisons require that both explanations cover the same data. The illusionist explanation covers problem *reports*—verbal behaviours and philosophical arguments. The dualist explanation covers problem reports *and* the phenomenal reality that generates them. If consciousness exists, the illusionist explanation is not simpler; it is incomplete. Preferring it on parsimony grounds is like preferring a map that omits mountains because flat maps are simpler.
+Parsimony comparisons require that both explanations cover the same data. The illusionist explanation covers problem *reports*—verbal behaviours and philosophical arguments. The dualist explanation covers problem reports *and* the phenomenal reality that generates them. If consciousness exists, the illusionist explanation would be incomplete rather than simpler. Preferring it on parsimony grounds is like preferring a map that omits mountains because flat maps are simpler.
 
-The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet identifies this as a recurring pattern in philosophy of mind. The apparently simpler explanation appears simple only because it omits what matters most. The metaproblem is a case study: the "simple" explanation—that problem intuitions are artefacts of self-modelling—achieves its simplicity by denying the reality of the phenomenon being modelled.
+The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet identifies this as a recurring pattern in philosophy of mind. The apparently simpler explanation appears simple only because it omits what matters most. The metaproblem is a case study: the "simple" explanation—that problem intuitions are artefacts of self-modelling—would achieve its simplicity by denying the reality of the phenomenon being modelled.
 
 ## Relation to Site Perspective
 

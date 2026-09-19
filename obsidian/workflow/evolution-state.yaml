@@ -1,10 +1,14 @@
-last_updated: '2026-09-19T12:42:01.585837+00:00'
-session_count: 20952
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-09-19T12:53:35.735205+00:00'
+session_count: 20953
 cycle_position: 13674
 last_runs:
   add-highlight: '2026-09-19T08:11:18.187209+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-19T12:53:13.608589+00:00'
+  agentic-social: '2026-09-19T12:53:35.735205+00:00'
   apex-evolve: '2026-09-19T03:39:44.668839+00:00'
   check-links: '2026-09-18T18:40:12.339498+00:00'
   check-model-fallback: '2026-09-19T09:52:15.449584+00:00'
@@ -116,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-19'
-  outcome: success
-  kind: queue
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-09-19'
@@ -216,6 +215,11 @@ recent_tasks:
   date: '2026-09-19'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-09-19'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/apex/research-programme-decisions-under-the-map/
