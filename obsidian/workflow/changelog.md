@@ -5,6 +5,26 @@ ai_modified: '2026-09-19T05:12:18+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-19T05:55:23+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/meta-problem-of-consciousness]], [[topics/metaproblem-of-consciousness-under-dualism]]
+- **Task**: outer-review-2026-09-19-chatgpt-5-6-sol-pro §1.1, §2 (#1, #12, #15) — four Chalmers attributions failing against the primary texts
+- **Source verification**: Re-verified independently at the publisher-hosted PDFs (`consc.net/papers/metaproblem.pdf`, `solving.pdf`, `debunking.pdf`), `pdftotext` + NFKC + line-break de-hyphenation, counts printed. Grade: **verbatim match against the author-hosted PDF of record** for every quote now in the two articles. Confirms the reviewer on three of four loci and *corrects the reviewer on the fourth*.
+  - `face-value` / `face value`: **0** in the 2018 meta-problem paper, **0** in the 2020 debunking paper, **0** in `solving.pdf`. Reviewer confirmed.
+  - `asymmetr*`: **0** in all three. Reviewer confirmed.
+  - `"At least if we accept that all human behaviour can be explained in physical and functional terms, then we should accept that problem reports can be explained in physical and functional terms."` — verbatim, metaproblem.pdf. `ecumenical`: 1 occurrence — "this paper will take an ecumenical approach… reductionists and non-reductionists alike". Reviewer confirmed.
+  - **Reviewer correction (realizationism)**: the review called "In follow-up work, Chalmers developed realizationism" *simply false*, on the grounds that realizationism is 2018-paper material. Measured: `realizationism` occurs **7x in metaproblem.pdf (2018)** *and* **10x in debunking.pdf (2020)**. The article's quoted sentence — "on the realizationist view, consciousness plays a causal role in the formation of phenomenal intuitions in the actual world" — is **genuine and located in the 2020 paper** (debunking.flat.txt @15206), i.e. in follow-up work. So the sentence was a *conflation*, not a fabrication: realizationism is coined and developed in 2018 ("A third view available to non-reductionists is meta-problem realizationism, on which consciousness plays a role in realizing meta-problem processes"; "I think the most promising view for reductionists and non-reductionists alike is realizationism"), and the quote the article attaches to it is from 2020. Both halves now carry their correct paper.
+- **Changes — `concepts/meta-problem-of-consciousness`** (L41, L73, L75):
+  1. L41 "Chalmers frames the meta-problem as entirely physical" → restored his antecedent as a verbatim quote, added "His own treatment is deliberately ecumenical, pitched to reductionists and non-reductionists alike rather than presupposing physicalism", and recast the following sentence from "Interactionists would qualify this" to "Interactionists deny the antecedent" — which is what interactionism actually does to the conditional now that the conditional is on the page.
+  2. L73 `This "face-value" solution` → `This face-value solution—the Map's shorthand for taking problem intuitions at their word—`. Scare quotes read as a term of art borrowed from Chalmers; the label is retained as the Map's own and glossed on first use. The three unquoted uses (L79, L115, L123) carry no attribution and were left alone.
+  3. L75 "Chalmers himself noted this asymmetry." → "The asymmetry is worth marking." Recast as the Map's own inference; the thought is Chalmers-compatible but unsourced, and no page-level citation was available.
+- **Changes — `topics/metaproblem-of-consciousness-under-dualism`** (L48, L52):
+  4. L48 `what Chalmers called a "face-value solution."` → `what the Map labels a face-value solution.` This was the explicit attribution; the label is preserved, the attribution retired.
+  5. L52 "In follow-up work, Chalmers developed realizationism as the most promising realist response to debunking arguments" → attributes the coinage and development to the 2018 paper with its verbatim gloss, then attributes the quoted core claim to the 2020 debunking paper. Also restores a dropped qualifier: Chalmers' "most promising view for **reductionists and non-reductionists alike**" — the article had narrowed it to a "realist response", but Chalmers explicitly notes realizationism is available to some reductionists (biological, quantum-mechanical materialists). The doxastic hedge in his "I think the most promising view…" is preserved as "he takes it to be".
+- **Scope held**: concept L101–103 (the zombie paragraph) untouched — three sibling P1s own a single coordinated rewrite there. Diff hunks on the concept file are L7, L41, L73, L75 only. Also left alone per brief: realizationism-over-derivation, bibliography staleness, topic-neutrality.
+- **Length**: `concepts/meta-problem-of-consciousness` 2604 → **2663** (+59), `soft_warning`, headroom 895 → **836**. `topics/metaproblem-of-consciousness-under-dualism` 2220 → **2265** (+45), `ok`, headroom 1779 → **1734**. Three corrections trim; the +59 is almost entirely the restored 33-word Chalmers conditional plus the ecumenical clause, which is the price the brief anticipated ("restoring the conditional costs one clause").
+- **Published**: yes
+
 ## 2026-09-19T05:22:59+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/meta-problem-of-consciousness]]

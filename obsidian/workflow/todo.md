@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: four Chalmers attributions in the meta-problem cluster fail against the primary texts — "face-value solution", "noted this asymmetry", "entirely physical", and "in follow-up work"
-
-- **Type**: refine-draft
-- **File**: obsidian/concepts/meta-problem-of-consciousness.md
-- **Review file**: `reviews/outer-review-2026-09-19-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-19
-- **Notes**: ChatGPT 5.6 Pro §1.1, §2, improvements #1, #12, #15. **All four verified against the PDFs at consc.net this run** (pdftotext + NFKC, counts printed — see the review's Source-verification table). (1) **"face-value solution"** — `face-value` and `face value` occur **0 times** in the 2018 meta-problem paper and **0 times** in the 2020 debunking paper. Both this article and `topics/metaproblem-of-consciousness-under-dualism` present it as Chalmers's term; the topic article says so explicitly. Keep it as the Map's own label or drop it, but stop attributing it. (2) **"Chalmers himself noted this asymmetry"** — `asymmetry`/`asymmetric` occur **0 times** in either paper. The thought may be Chalmers-compatible; the attribution is not sourced. Recast as the Map's own inference unless a page-level citation can be supplied. (3) **"Chalmers frames the meta-problem as entirely physical"** drops Chalmers's antecedent. His actual sentence is conditional and was recovered verbatim: "At least if we accept that all human behaviour can be explained in physical and functional terms, then we should accept that problem reports can be explained in physical and functional terms." He also states the paper takes an **ecumenical** approach across the reductionist/non-reductionist divide. Restoring the conditional costs one clause and removes a misattribution of physicalism to Chalmers's framing. (4) **`topics/metaproblem-of-consciousness-under-dualism`: "In follow-up work, Chalmers developed realizationism" is simply false** — `realizationism` occurs **7 times** in the 2018 paper, which names and develops "meta-problem realizationism" as its third non-reductionist option. This one is a factual correction, not a calibration. **Both files have headroom** (2595/3500 and 2220/4000), so none of this is length-blocked. Per [[citation-ledger-ratifies-the-reading-not-just-the-metadata]], a prior ledger pass certifying the *metadata* of these Chalmers entries does not certify these *readings*.
-
 ### P1: the zombie response in both meta-problem articles changes the meaning of "zombie" mid-argument, and the topic article promotes the equivocation to a "testable prediction"
 
 - **Type**: refine-draft
@@ -1749,6 +1740,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-19: four Chalmers attributions in the meta-problem cluster fail against the primary texts — "face-value solution", "noted this asymmetry", "entirely physical", and "in follow-up work"
+- **Type**: refine-draft
+- **File**: obsidian/concepts/meta-problem-of-consciousness.md
+- **Notes**: ChatGPT 5.6 Pro §1.1, §2, improvements #1, #12, #15. **All four verified against the PDFs at consc.net this run** (pdftotext + NFKC, counts printed — see the review's Source-verification table). (1) **"face-value solution"** — `face-value` and `face value` occur **0 times** in the 2018 meta-problem paper and **0 times** in the 2020 debunking paper. Both this article and `topics/metaproblem-of-consciousness-under-dualism` present it as Chalmers's term; the topic article says so explicitly. Keep it as the Map's own label or drop it, but stop attributing it. (2) **"Chalmers himself noted this asymmetry"** — `asymmetry`/`asymmetric` occur **0 times** in either paper. The thought may be Chalmers-compatible; the attribution is not sourced. Recast as the Map's own inference unless a page-level citation can be supplied. (3) **"Chalmers frames the meta-problem as entirely physical"** drops Chalmers's antecedent. His actual sentence is conditional and was recovered verbatim: "At least if we accept that all human behaviour can be explained in physical and functional terms, then we should accept that problem reports can be explained in physical and functional terms." He also states the paper takes an **ecumenical** approach across the reductionist/non-reductionist divide. Restoring the conditional costs one clause and removes a misattribution of physicalism to Chalmers's framing. (4) **`topics/metaproblem-of-consciousness-under-dualism`: "In follow-up work, Chalmers developed realizationism" is simply false** — `realizationism` occurs **7 times** in the 2018 paper, which names and develops "meta-problem realizationism" as its third non-reductionist option. This one is a factual correction, not a calibration. **Both files have headroom** (2595/3500 and 2220/4000), so none of this is length-blocked. Per [[citation-ledger-ratifies-the-reading-not-just-the-metadata]], a prior ledger pass certifying the *metadata* of these Chalmers entries does not certify these *readings*.
 
 ### ✓ 2026-09-19: `concepts/meta-problem-of-consciousness` L103 says consciousness influences quantum outcomes "without violating causal closure" while `concepts/causal-closure` L82 says "The Map denies causal closure"
 - **Type**: refine-draft

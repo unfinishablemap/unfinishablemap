@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-07-29 08:47:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-19 05:55:23+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[meta-problem-of-consciousness]]'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 17:32:15+00:00
-lastmod: 2026-07-29 08:47:00+00:00
+lastmod: 2026-09-19 05:55:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -48,11 +48,11 @@ David Chalmers introduced the metaproblem in 2018 as a challenge for every posit
 
 Illusionists must explain why the brain generates systematically misleading self-representations that make consciousness *seem* irreducible when it supposedly isn't. Physicalists must explain why consciousness *seems* to resist identification with brain processes even if the identity holds. Epiphenomenal dualists must explain why we accurately report on something that plays no causal role in generating those reports.
 
-Interactionist dualism faces none of these awkward explanatory debts. We report that consciousness is puzzling because it genuinely is. Problem intuitions track a real feature of the world. The metaproblem has what Chalmers called a "face-value solution." What this advantage buys is worth stating precisely: it *removes a defeater* rather than supplying fresh positive evidence. Neutralising the metaproblem's debunking use restores the dualist's prior warrant—it does not, on its own, raise the standing of dualism above where the rest of the Map's case leaves it. (For the metaproblem's general formulation and the landscape of responses, see [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/); this article develops the specifically interactionist advantage.)
+Interactionist dualism faces none of these awkward explanatory debts. We report that consciousness is puzzling because it genuinely is. Problem intuitions track a real feature of the world. The metaproblem admits what the Map labels a face-value solution. What this advantage buys is worth stating precisely: it *removes a defeater* rather than supplying fresh positive evidence. Neutralising the metaproblem's debunking use restores the dualist's prior warrant—it does not, on its own, raise the standing of dualism above where the rest of the Map's case leaves it. (For the metaproblem's general formulation and the landscape of responses, see [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/); this article develops the specifically interactionist advantage.)
 
 ## Realizationism as Natural Consequence
 
-The face-value solution gains philosophical teeth through realizationism. In follow-up work, Chalmers developed realizationism as the most promising realist response to debunking arguments: "On the realizationist view, consciousness plays a causal role in the formation of phenomenal intuitions in the actual world."
+The face-value solution gains philosophical teeth through realizationism. Chalmers names and develops meta-problem realizationism in the 2018 paper itself, as a third view available to non-reductionists, "on which consciousness plays a role in realizing meta-problem processes"; he takes it to be "the most promising view for reductionists and non-reductionists alike." Returning to the view in his 2020 paper on debunking arguments, he states its core claim plainly: "on the realizationist view, consciousness plays a causal role in the formation of phenomenal intuitions in the actual world."
 
 For most positions, realizationism is an additional commitment that must be independently motivated. For interactionist dualism, it follows directly from what the theory already claims. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes in the brain. If consciousness influences brain states, it influences *all* downstream brain states—including those that produce philosophical reasoning about consciousness. Realizationism is not an extra assumption; it is a consequence.
 

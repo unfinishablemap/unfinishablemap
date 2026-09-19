@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-09-19 05:22:59+00:00
+ai_modified: 2026-09-19 05:55:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-11 22:54:33+00:00
-lastmod: 2026-09-19 05:22:59+00:00
+lastmod: 2026-09-19 05:55:23+00:00
 modified: *id001
 related_articles:
 - '[[consciousness]]'
@@ -41,7 +41,7 @@ topics:
 
 The meta-problem of consciousness asks: why do we *think* consciousness poses a hard problem? Where the [hard problem](/topics/hard-problem-of-consciousness/) asks why there is subjective experience at all, and the [explanatory gap](/concepts/explanatory-gap/) asks why physical descriptions fail to capture it, the meta-problem asks why humans report, intuit, and philosophise about this difficulty in the first place. David Chalmers introduced the term in a 2018 paper, arguing that even those who deny the hard problem must explain why the problem *seems* so compelling.
 
-Chalmers frames the meta-problem as entirely physical: whatever generates our problem intuitions—our reports that consciousness is puzzling, our sense that zombies are conceivable, our conviction that [Mary](/concepts/knowledge-argument/) learns something new—is a process in the brain. Explaining why we say these things is a problem of mechanism, not metaphysics. Interactionists would qualify this: if consciousness causally contributes to our reasoning, then the meta-problem has both physical and non-physical dimensions. But even on the interactionist view, the meta-problem is tractable—it asks for a causal explanation, not a metaphysical revelation. The relationship between the meta-problem and the hard problem is philosophically explosive. Each major position on consciousness must account for why the problem intuitions exist, and the explanations they offer reveal deep commitments.
+Chalmers frames the meta-problem with a conditional: "At least if we accept that all human behaviour can be explained in physical and functional terms, then we should accept that problem reports can be explained in physical and functional terms." Grant that antecedent and whatever generates our problem intuitions—our reports that consciousness is puzzling, our sense that zombies are conceivable, our conviction that [Mary](/concepts/knowledge-argument/) learns something new—is a process in the brain, and explaining why we say these things becomes a problem of mechanism. His own treatment is deliberately ecumenical, pitched to reductionists and non-reductionists alike rather than presupposing physicalism. Interactionists deny the antecedent: if consciousness causally contributes to our reasoning, then the meta-problem has both physical and non-physical dimensions. But even on the interactionist view, the meta-problem is tractable—it asks for a causal explanation, not a metaphysical revelation. The relationship between the meta-problem and the hard problem is philosophically explosive. Each major position on consciousness must account for why the problem intuitions exist, and the explanations they offer reveal deep commitments.
 
 ## Chalmers' Formulation
 
@@ -73,9 +73,9 @@ If the illusionist's meta-problem solution is too simple, it doesn't explain the
 
 For dualists, the meta-problem has a straightforward answer: we report that consciousness is puzzling because it genuinely *is* puzzling. Problem intuitions accurately track a real feature of the world—the irreducibility of experience to physical processes. We say zombies are conceivable because the physical and the phenomenal really are separable. We report that Mary learns something because she genuinely acquires a new kind of knowledge.
 
-This "face-value" solution has a simplicity that illusionist alternatives lack. The problem intuitions are reliable because they reflect facts about the relationship between consciousness and physics. There is no illusion to explain, no systematic misrepresentation to account for. The meta-problem resolves naturally. The [interactionist development](/topics/metaproblem-of-consciousness-under-dualism/) of this argument goes further: realizationism—the view that consciousness causally contributes to problem intuitions—follows from the Bidirectional Interaction tenet and disarms the debunking use of the meta-problem (explained in [The Debunking Threat](#the-debunking-threat) below). What this buys is precise and worth stating carefully: it *removes a defeater* rather than supplying fresh positive evidence. The interactionist who already holds the tenets is no longer threatened by the meta-problem; a physicalist is given no new reason to convert. Neutralising a debunking argument restores the dualist's prior warrant—it does not, on its own, raise the standing of dualism above where the rest of the Map's case leaves it.
+This face-value solution—the Map's shorthand for taking problem intuitions at their word—has a simplicity that illusionist alternatives lack. The problem intuitions are reliable because they reflect facts about the relationship between consciousness and physics. There is no illusion to explain, no systematic misrepresentation to account for. The meta-problem resolves naturally. The [interactionist development](/topics/metaproblem-of-consciousness-under-dualism/) of this argument goes further: realizationism—the view that consciousness causally contributes to problem intuitions—follows from the Bidirectional Interaction tenet and disarms the debunking use of the meta-problem (explained in [The Debunking Threat](#the-debunking-threat) below). What this buys is precise and worth stating carefully: it *removes a defeater* rather than supplying fresh positive evidence. The interactionist who already holds the tenets is no longer threatened by the meta-problem; a physicalist is given no new reason to convert. Neutralising a debunking argument restores the dualist's prior warrant—it does not, on its own, raise the standing of dualism above where the rest of the Map's case leaves it.
 
-Chalmers himself noted this asymmetry. If the hard problem is real, the meta-problem is expected—of course we'd report difficulty explaining something that genuinely resists explanation. If the hard problem is illusory, the meta-problem becomes urgent—why do we so persistently misrepresent our own minds?
+The asymmetry is worth marking. If the hard problem is real, the meta-problem is expected—of course we'd report difficulty explaining something that genuinely resists explanation. If the hard problem is illusory, the meta-problem becomes urgent—why do we so persistently misrepresent our own minds?
 
 ### The Debunking Threat
 
