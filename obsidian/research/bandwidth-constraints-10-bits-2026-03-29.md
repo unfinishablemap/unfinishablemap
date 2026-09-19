@@ -6,7 +6,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-29
 human_modified: null
-ai_modified: 2026-08-08T15:29:42+00:00
+ai_modified: 2026-09-19T12:39:14+00:00
 modified: 2026-03-29
 author: Andy Southgate
 last_curated: null
@@ -104,6 +104,7 @@ The claim that conscious processing operates at approximately 10 bits per second
   - The "outer brain" (sensory/motor) processes ~10⁹ bits/s; the "inner brain" (conscious thought) processes ~10 bits/s
   - The "sifting number" (Si) of 10⁸ is the largest unexplained number in brain science
   - Individual neurons can transmit ~2 bits per spike at ~100 spikes/s = ~200 bits/s per neuron — the bottleneck is not at the cellular level
+    - **Correction (2026-09-19)**: the derivation on the line above is a Map back-of-envelope, not a figure Zheng & Meister report, and it must not be cited to them. Their text gives ~10 bits/s for a *typical* cortical neuron and says only that individual neurons *may* transmit *hundreds* of bits per second *when driven to high firing rates* — so the "~100 spikes/s" input is a high-drive rate, not a typical one, and the product was subsequently propagated into articles with the qualifier inverted. The figure is also absent at any magnitude from Sauerbrei & Pruszynski (checked in PMC12320479 full text), to whom it was never attributable. The original line is left as written because this is a dated record of the 2026-03-29 search. The conclusion it supports — the bottleneck is not at the cellular level — survives, and is in fact stronger on the corrected numbers: a single typical neuron already carries roughly as much as the entire conscious stream.
   - The brain stores only ~1 GB over a lifetime, far below its ~50 TB theoretical capacity
   - Speculates the serial architecture was inherited from primitive organisms navigating chemical gradients
 - **Tenet alignment**: Strongly supports Dualism (the bottleneck is inexplicable if consciousness is merely neural computation) and Minimal Quantum Interaction (a narrow interface is what you'd expect if consciousness selects among options rather than computing them)

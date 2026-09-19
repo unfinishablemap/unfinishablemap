@@ -38,6 +38,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+### NEEDS-HUMAN (cycle allocation) 2026-09-19: coalesce is now PROVABLY impossible in 2 of 3 sections, yet still holds 2 of 24 cycle slots — 10 consecutive no-ops
+
+- **Type**: refine-draft
+- **Status**: blocked
+- **Blocked-by**: human-decision — reallocate the two coalesce slots, raise the section ceilings, or accept ~8% of cycle capacity as a standing no-op
+- **File**: obsidian/workflow/
+- **Source**: cycle driver, 2026-09-19 12:2x UTC — the 10th consecutive coalesce abandon, and the first with complete pairwise arithmetic
+- **Generated**: 2026-09-19
+- **Notes**: **OPERATOR DECISION — recorded because this is now a measured structural fact, not a run of bad luck.** Coalesce holds **2 of 24 cycle slots (8.3%)**. It has abandoned **ten consecutive times**. Previous abandons reported "no good candidates"; this run computed **every possible pair in all three sections**, and the result is decisive:
+  | section | count/cap | hard ceiling | pairs that fit | of total |
+  |---|---|---|---|---|
+  | `topics` (most pressured) | 328/360, 91.1% | 3999 | **2** | 53,301 |
+  | `concepts` | 326/360, 90.6% | 3499 | 395 (135 eligible) | 53,050 |
+  | `voids` | 103/115, 89.6% | 2999 | **0** | 5,253 |
+  **`voids` is arithmetically dead outright** — independently re-verified by the driver: the two smallest articles are **1473 + 1730 = 3203** against a 2999 ceiling, so *no* merge is possible there at any topical quality whatsoever.
+  **`topics` is dead in practice.** Both fitting pairs require the single 1897-word enteric-nervous-system article, pair it with either precognition or LLM continual learning, **share zero frontmatter tags**, and one of them clears the ceiling by **three words** — before any merge framing overhead, which alone would push it over.
+  **`concepts` fails on judgement, not arithmetic**, and the reason is the interesting one: the seven small candidates have **zero wikilinks to each other**. They are not fragments of one subject competing for ground; they are disconnected narrow jobs, so a merge would *invent* a connection rather than consolidate an overlap. `phenomenal-presentation`, which tops nearly every ranking, carries a whole section — *"How Presentation Differs from Neighbouring Concepts"* — with four explicit `Versus` subsections. **Its boundary work is the article**, the inverted-overlap signal in its purest form (coalesce-candidate-pool-exhausted-by-role-granularity). And **two-thirds of the arithmetic opportunity in `concepts` (260 of 395 pairs) is the commitment-scoping wing that an optimistic review certified as methodologically distinct at 11:05 today**, minting three live expand tasks against it.
+  **THE UNDERLYING CAUSE.** The corpus matured past consolidation: articles are now role-granular by design, and the length ceilings that keep them sharp are the same ceilings that make merging arithmetically impossible. Merging today means **deleting reviewed content**, which is why every recent pass has correctly refused.
+  **OPTIONS.** **(1)** Reallocate the two coalesce slots to `deep-review` or queue tasks — today's four deep reviews each found critical defects (a blindsight universal contradicted by its own cited paper; two fabricated McGinn illustrations; a wrong-paper citation protecting a misreading), so the marginal value there is demonstrably high. **(2)** Keep coalesce but gate it behind a cheap precondition — a scheduled run that first checks whether *any* pair fits, and skips without consuming a slot otherwise. **(3)** Raise the section hard ceilings, which would re-open merges but weaken the discipline keeping articles sharp. **(4)** Accept the no-op as the cost of keeping the capability available.
+  ℹ️ **Distinct from the existing coalesce entries** at todo lines ~3800 (`HUMAN COALESCE DECISION`, two lossy concept↔topic pairs) and ~3826 (2026-06-21 topic merge survey) — those propose *specific* merges; this one is about the **cycle slot allocation**. Note also `research-voids` is a guaranteed no-op at cap, tracked separately at line ~1050, so this is the second scheduled operation in the same structural position.
+
 
 ### NEEDS-HUMAN 2026-09-19: `concepts/illusionism` cleared the hard gate with only 25 words to spare — the remaining ~125 needs an operator decision
 

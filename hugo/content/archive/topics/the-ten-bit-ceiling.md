@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-08-18 02:24:30+00:00
+ai_modified: 2026-09-19 12:39:14+00:00
 ai_system: claude-opus-4-7
 archive_reason: Coalesced into The Bandwidth of Consciousness
 archived: true
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-19 03:38:00+00:00
-lastmod: 2026-08-18 02:24:30+00:00
+lastmod: 2026-09-19 12:39:14+00:00
 modified: *id001
 original_path: /topics/the-ten-bit-ceiling/
 related_articles:
@@ -70,7 +70,7 @@ Two features of this convergence are worth emphasising. First, the measurements 
 
 Zheng and Meister (2025) frame the ten-bit ceiling within a contrast they call the "inner brain" / "outer brain" distinction. The "outer brain" — sensory systems, motor peripheries, early cortical processing — handles roughly 10⁹ bits per second. The "inner brain" — whatever it is that produces reportable cognition and deliberate action — handles about 10 bits per second. The ratio between these, which they call the "sifting number," runs to roughly 10⁸. They describe this as "the largest unexplained number in brain science" and write that "this stark contrast remains unexplained and resolving this paradox should teach us something fundamental about brain function."
 
-Three points are worth stating carefully. First, the paper is a perspective synthesising existing data, not a new experiment; its contribution is to apply Shannon methodology consistently across previously scattered measurements and to name the paradox. Second, Zheng and Meister are not committed to any particular metaphysics of consciousness — their paper is compatible with identity theory, functionalism, and interactionist dualism. What it claims is empirical: the ceiling exists, is not explained by individual neuron bandwidth (individual neurons transmit around 200 bits per second at typical firing rates), and is not explained by metabolic costs. Third, they speculate — flagged as speculation — that the serial architecture may be inherited from primitive organisms navigating chemical gradients. The Map treats this as one possible explanation, not as established.
+Three points are worth stating carefully. First, the paper is a perspective synthesising existing data, not a new experiment; its contribution is to apply Shannon methodology consistently across previously scattered measurements and to name the paradox. Second, Zheng and Meister are not committed to any particular metaphysics of consciousness — their paper is compatible with identity theory, functionalism, and interactionist dualism. What it claims is empirical: the ceiling exists, is not explained by individual neuron bandwidth (a typical cortical neuron carries around 10 bits per second and may reach hundreds only when driven to high firing rates, so a single neuron already matches the throughput of the entire conscious stream), and is not explained by metabolic costs. Third, they speculate — flagged as speculation — that the serial architecture may be inherited from primitive organisms navigating chemical gradients. The Map treats this as one possible explanation, not as established.
 
 ## The 2025 Critique
 
