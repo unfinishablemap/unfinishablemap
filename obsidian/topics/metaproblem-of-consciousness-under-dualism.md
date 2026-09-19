@@ -4,7 +4,7 @@ description: "How interactionist dualism defuses the metaproblem's debunking thr
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-09-19T08:54:07+00:00
+ai_modified: 2026-09-19T09:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -101,7 +101,7 @@ This connects to the [[self-stultification-as-master-argument|self-stultificatio
 
 Keith Frankish argues that the metaproblem is not merely *related* to the hard problem—it *is* the problem of consciousness. If all our problem intuitions can be explained in physical terms, nothing further needs explaining. There is no residual "hard problem" once we understand why we think there is one.
 
-This is the sharpest illusionist response, and it deserves direct engagement. The interactionist reply: Frankish's move works only if problem intuitions exhaust what needs explaining. But the hard problem is not constituted by our intuitions *about* it—it is constituted by the existence of experience itself. The zombie can have all the problem intuitions without having any experience. If Frankish is right that explaining problem intuitions is sufficient, then the zombie world has no hard problem—which is exactly correct, because it has no consciousness. But *our* world does have consciousness, and that fact is not captured by any account of why we *report* having it. The metaproblem and the hard problem are distinct: one concerns behaviour, the other concerns being.
+This is the sharpest illusionist response, and the reply has to be made on Frankish's own terms. The inference from complete explanation to nothing-left-to-explain holds only if the problem intuitions exhaust the evidence base — only if everything that could put consciousness on the explanatory agenda arrives as a reportable intuition about it. Illusionism helps itself to that exhaustion without arguing for it: explaining why subjects report a puzzle explains the reporting, and whether the reporting was the whole explanandum is the point in dispute. Frankish's answer — no residual explanandum, because no phenomenal property survives to be one — rests on commitments the Map declines rather than refutes, and the disagreement is noted as a framework boundary rather than dressed as a refutation from inside illusionism.
 
 ## Illusionism's Escalating Burden
 

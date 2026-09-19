@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T08:54:07+00:00'
+ai_modified: '2026-09-19T09:09:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-19'
-lastmod: 2026-09-19 08:54:07+00:00
+lastmod: 2026-09-19 09:09:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-19T09:09:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/)
+- **Task**: boundary-substitution against Frankish — [pessimistic-2026-09-19-metaproblem-of-consciousness-under-dualism](/reviews/pessimistic-2026-09-19-metaproblem-of-consciousness-under-dualism/) priority finding 4 (critical, *Reasoning-Mode Failures*: an in-framework argument that actually appeals to Map commitments).
+- **Engagement with Frankish: Mode Two, closing on Mode Three.** The reply now identifies an unsupported foundational move — illusionism's inference from "the problem intuitions are fully explained" to "nothing further needs explaining" requires that the intuition-set exhaust the evidence base, and illusionism asserts that exhaustion rather than arguing for it. That criticism invokes a standard illusionism itself endorses and needs no Map tenet. The residue (Frankish's own answer: no residual explanandum because no phenomenal property survives to be one) is marked as a framework-boundary disagreement rather than dressed as a refutation from inside illusionism. The in-framework move worked; no downgrade to pure boundary-marking was needed.
+- **Changes** — one paragraph rewritten (the *Frankish's Radical Move* second paragraph); the Frankish exposition paragraph above it is untouched:
+  - **Tenet-1 assertion removed.** Before: *"But **our** world does have consciousness, and that fact is not captured by any account of why we **report** having it. The metaproblem and the hard problem are distinct: one concerns behaviour, the other concerns being."* After: *"Frankish's answer — no residual explanandum, because no phenomenal property survives to be one — rests on commitments the Map declines rather than refutes, and the disagreement is noted as a framework boundary rather than dressed as a refutation from inside illusionism."* Frankish denies precisely that there is phenomenal consciousness left uncaptured, so the old sentence was Tenet 1 stated as though it were a premise available inside his framework.
+  - **The already-present conditional was developed rather than dropped.** The old *"Frankish's move works only if problem intuitions exhaust what needs explaining"* is now the load of the paragraph, unpacked as the exhaustion-of-the-evidence-base requirement and pressed as unargued.
+  - **Zombie sub-argument dropped.** *"The zombie can have all the problem intuitions without having any experience…"* presupposed the same contested distinction and could not do in-framework work.
+  - **"deserves direct engagement" promise replaced** with *"the reply has to be made on Frankish's own terms"* — the section now delivers what it announces.
+  - **Banned "not X — it is Y" construct retired** (1 occurrence, *"the hard problem is not constituted by our intuitions **about** it—it is constituted by the existence of experience itself"*); the positive claim is made directly. Post-edit count in the rewritten paragraph: 0.
+- **Register consistency**: brought up to the two calibrated neighbours installed earlier today (the type-identity framework-boundary note and the phenomenal-concepts *"presses the epiphenomenalist hard without refuting the position from inside its own framework"*). Neither neighbour was edited.
+- **Editor-vocabulary guard**: all nine forbidden strings measured at 0 in **both** trees post-edit (`direct-refutation-feasible`, `unsupported-jump`, `bedrock-perimeter`, `mode-mixed`, `mixed-with-distinct-roles`, `tenet-register`, `Engagement classification`, `per [[direct-refutation-discipline]]`, `**Evidential status:**`); `load-bearing` also 0. The mode classification lives here only.
+- **Length**: 3788 → **3796 words** (+8; topics 3000 soft / 4000 hard, `length.py` fires on `>= hard` so the usable ceiling is 3999). Headroom left for the sibling findings: 203 words.
+- **Sync**: `scripts/sync.py` run; all four changed strings confirmed at 1 occurrence and all three removed strings at 0 in both `obsidian/` and `hugo/content/`.
+- **Published**: yes
 
 ## 2026-09-19T08:54:07+00:00 - refine-draft
 - **Status**: Success
