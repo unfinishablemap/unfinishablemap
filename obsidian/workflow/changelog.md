@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T16:49:09+00:00'
+ai_modified: '2026-09-19T17:22:33+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-19T17:22:33+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/metaphysics-of-information-under-dualism]]
+- **Scope**: single noun phrase (queue line 38, P2). No quality-review score taken — the task was a bounded attribution repair, not a general refinement pass, and the driver ruled the surrounding paragraph out of scope.
+- **Changes**: In the Minimal Quantum Interaction paragraph, `this conscious bandwidth` → `this figure`. The anaphor re-applied a "conscious processing" gloss to Zheng & Meister (2025) one sentence after the 15:22 pass (`ff5bcee0`) had removed that gloss from the first mention, leaving the earlier fix half-applied. This was the only locus in the corpus cashing the 10 bits/s figure as tenet support without the behavioural guard its siblings carry.
+- **Attribution check** (§3.5, qualifier preservation): the source measures the information throughput of *a human being* — a behavioural rate — not a rate of conscious processing. "this figure" is neutral as to what the quantity measures; "this bottleneck" was rejected because the paragraph's closing sentence derives the bottleneck framing as an inference ("consciousness appears to act as a narrow semantic bottleneck"), so pre-naming it would make that inference circular and would re-attach the consciousness reading the fix removes.
+- **Preserved**: three-way hedge (`reflects the quantum-level injection rate, emerges from it, or is an independent constraint is unknown`), first-mention wording, Zheng & Meister (2025) citation, and the `~10⁹` magnitude — all verified present in both trees post-sync.
+- **Length**: 3376 → 3375 words (−1; concepts 2500/3500/5000, headroom 123 → 124). Word-negative as required.
+- **Published**: yes (synced to Hugo; not committed — orchestrator commits)
+
+
 ## 2026-09-19 17:0x UTC - tune-system
 - **Status**: Success
 - **Sessions analysed**: session_count 20966; cycle 570 closed (cycle_position 13680)

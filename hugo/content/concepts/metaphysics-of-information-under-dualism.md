@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-09-19 15:22:53+00:00
+ai_modified: 2026-09-19 17:22:33+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 21:19:00+00:00
-lastmod: 2026-09-19 15:22:53+00:00
+lastmod: 2026-09-19 17:22:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -151,7 +151,7 @@ The metaphysics of information connects to each of the Map's tenets.
 
 **[Dualism](/tenets/#dualism)** requires that information not serve as a reductive bridge collapsing mind into matter. The Map treats information as the interface medium—the point of contact between two genuinely distinct domains—rather than a neutral substance from which both derive. This preserves irreducibility while explaining correlation.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** constrains the informational bandwidth of the mind-matter interface. The minimality principle says: the smallest informational contribution that permits downward causation. How much information consciousness injects per quantum bias event remains an open question—it depends on details of the collapse mechanism that are not yet settled. Separately, Zheng & Meister (2025) find that the information throughput of a human being is roughly 10 bits per second, remarkably low compared to the brain's ~10⁹ bits per second of sensory processing. Whether this conscious bandwidth reflects the quantum-level injection rate, emerges from it, or is an independent constraint is unknown. But both observations point in the same direction: consciousness appears to act as a narrow semantic bottleneck rather than a high-throughput channel, consistent with the minimality tenet.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** constrains the informational bandwidth of the mind-matter interface. The minimality principle says: the smallest informational contribution that permits downward causation. How much information consciousness injects per quantum bias event remains an open question—it depends on details of the collapse mechanism that are not yet settled. Separately, Zheng & Meister (2025) find that the information throughput of a human being is roughly 10 bits per second, remarkably low compared to the brain's ~10⁹ bits per second of sensory processing. Whether this figure reflects the quantum-level injection rate, emerges from it, or is an independent constraint is unknown. But both observations point in the same direction: consciousness appears to act as a narrow semantic bottleneck rather than a high-throughput channel, consistent with the minimality tenet.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** gains informational specificity. Physical information flows upward to consciousness (we perceive the world). Semantic information flows downward through consciousness's selection among quantum outcomes (we act on what the world *means*). Both directions are informational, but the character of information differs in each direction—syntactic upward, semantic downward.
 
