@@ -4,7 +4,7 @@ description: "Causal closure claims every physical event has sufficient physical
 created: 2026-01-14
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-09-08T16:50:16+00:00
+ai_modified: 2026-09-19T02:39:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,7 @@ related_articles:
   - "[[causal-consistency-constraint]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-20T03:24:48+00:00
@@ -143,7 +143,7 @@ This means: *not every physical event has a sufficient physical cause*. When a r
 
 **The Born rule challenge**: If consciousness selects outcomes, how does it preserve the statistical distributions that quantum mechanics predicts? One possibility: consciousness operates rarely enough—biasing only outcomes relevant to cognition in neurally prepared systems—that its influence is lost in the statistical noise of vastly many unbiased quantum events. Another: consciousness is itself constrained by the quantum state in ways that naturally reproduce Born rule frequencies, much as a chess player's choices are constrained by the board position. The [[causal-consistency-constraint|causal consistency constraint]] (Torres Alegre 2025, a recent arXiv preprint not yet independently confirmed) sharpens what structural respect of Born statistics requires: under purification, no-signalling is argued to force the Born form for any participant in measurement outcomes, so selection-only readings respect the rule by construction while minimum-outside-corridor readings must show their deviation is signalling-safe. Neither possibility has been developed into a precise mechanism. The Map holds that the *logical space* for conscious selection exists; filling in the mechanism remains an open research problem.
 
-**The epiphenomenalism worry**: If consciousness's influence is statistically invisible in aggregate measurements, critics ask whether this differs from epiphenomenalism—a cause that can never be detected is questionably a cause. The Map's response: statistical invisibility applies to *aggregate* measurements across many quantum events, not to individual outcomes. The claim is that consciousness makes a difference to *which specific outcome* occurs in particular neural systems, even though this cannot be extracted from statistical data. This is a genuinely uncomfortable position—it means the causal contribution of consciousness cannot be empirically isolated from quantum noise by current methods. The Map accepts this discomfort rather than pretending the mechanism is better understood than it is.
+**The epiphenomenalism worry**: If consciousness's influence is statistically invisible in aggregate measurements, critics ask whether this differs from epiphenomenalism—a cause that can never be detected is questionably a cause. The Map's response turns on how narrow that invisibility is. Born-rule preservation is asserted of the *unconditioned* long-run marginal — the pooled distribution over many quantum events — and leaves the distributions conditioned on subject, task, or intention formally unconstrained, as the [[selection-only-channel|selection-only channel]] analysis derives from the averaging identity. So consciousness's difference to *which specific outcome* occurs in particular neural systems is answerable to conditional residual-structure tests rather than generic Born-frequency tests, and the critic's premise does not reach it: the channel is invisible to unconditioned aggregation, not undetectable at every grain. The position stays uncomfortable—the coarsest of those conditional grains have already returned nulls and no current method reaches the finer ones, as the [[born-preserving-causal-efficacy|Born-preserving causal-efficacy problem]] sets out. The Map accepts that rather than pretending the mechanism is better understood than it is.
 
 ### Stapp's Quantum Response
 

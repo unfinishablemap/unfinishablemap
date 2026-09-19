@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T01:56:43+00:00'
+ai_modified: '2026-09-19T02:41:32+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-19'
-lastmod: 2026-09-19 01:56:43+00:00
+lastmod: 2026-09-19 02:41:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-19T02:41:32+00:00 - refine-draft
+- **Status**: Success
+- **File**: [causal-closure](/concepts/causal-closure/)
+- **Task**: verification question, not an asserted defect — does the epiphenomenalism-worry paragraph need to distinguish *unconditioned* from mind-conditioned aggregation, given the 2026-08-03 narrowing (commit `1ab6b8a5bf`)? Two outcomes were legitimate: reword, or judge the wording correct for the paragraph's role.
+- **Outcome: rewording.** The residue is real and it is semantic, not lexical — `causal-closure` contained "unconditioned" **0 times** and "conditioned" **0 times** before this pass (counted with `grep -oiF` on each form separately, and cross-checked with `grep -oiE '\bconditioned\b'`, because `conditioned` is a substring of `unconditioned` and a pooled count silently conflates them).
+- **What the paragraph is doing, and why that made the fix necessary rather than optional.** The paragraph answers the epiphenomenalism objection — it is not stating the channel's signature, which is what the already-corrected siblings were doing. That difference initially looks like grounds to leave it alone. It is the opposite. [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) sets out the trilemma and names horn (b) — "the conditionals never differ, at any grain" — as "the epiphenomenalism horn in its exact form", then warns at its §"State the level": the register commits only to "preservation of the *unconditioned* long-run marginal", which "leaves the per-subject and per-intention conditionals formally unconstrained, which keeps horn (a) live rather than foreclosed", and "**asserting preservation at *every* conditional grain would choose horn (b) by stipulation**". The old wording did exactly that. "The claim is that consciousness makes a difference to *which specific outcome* occurs … **even though this cannot be extracted from statistical data**" asserts blindness at every grain, with no conditioning qualifier — so in the one paragraph whose whole job is to answer the epiphenomenalism objection, the Map was conceding the epiphenomenalism horn by stipulation. The paragraph's role is what makes the distinction load-bearing here, not what excuses its absence.
+- **Direction of the fix: sharpened, not hedged.** Under the narrowed reading the channel is *less* statistically invisible, so the reply to the critic gets stronger. The corrected text denies the antecedent of the critic's premise instead of conceding it: "the channel is invisible to unconditioned aggregation, not undetectable at every grain." The critic's own premise ("a cause that can never be detected is questionably a cause") was left untouched — it is reported objector's voice, not the article's, and the reply now answers it rather than agreeing with it.
+- **Changes**: replaced the four response sentences. New text asserts Born-preservation of the *unconditioned* long-run marginal (the phrase used verbatim in the apex article), states that distributions conditioned on subject, task, or intention are left formally unconstrained, and carries over the apex corollary that "the empirical tests that bear on the Map are *conditional residual-structure* tests, not generic Born-frequency tests". Token-level efficacy is preserved intact ("*which specific outcome* occurs in particular neural systems").
+- **Guarded against over-correction in the other direction.** The apex article also says the Map "should not overstate how much of it remains unexplored" — intention-to-RNG micro-psychokinesis is a conditional test at the coarsest grain and has returned preregistered nulls (Maier et al. 2018). So the new text does not claim detection is available: "the coarsest of those conditional grains have already returned nulls and no current method reaches the finer ones". The discomfort the original paragraph owned is kept, relocated from an in-principle claim to an epistemic-practical one.
+- **Two new wikilinks**, both piped so the rendered text reads as prose rather than as a bare slug: [selection-only-channel](/concepts/selection-only-channel/) (the averaging identity q(O|X) = Σ_C P(O|C,X)·P(C|X) that licenses the marginal/conditional split) and [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) (the dilemma in full). Both bare targets verified unique across `obsidian/` and `archive/` — no slug collision, so neither can block the pre-push sync.
+- **Length** (`analyze_length`, before → after): **3385 → 3440**, +55 words, `soft_warning` throughout. Concepts hard is 3500 and the gate fires on `>= hard`, so the ceiling is 3499 and **59 words** of headroom remain. No new paragraph was added; the fix is a reword inside the existing block.
+- **No `AI REFINEMENT LOG` block** was written into the article.
+- **Verification**: synced with `scripts/sync.py` (`concepts/causal-closure.md` → `ok`). Counted with `grep -c -F` in **both** `obsidian/concepts/` and `hugo/content/concepts/`: "unconditioned" 2/2, "invisible to unconditioned aggregation" 1/1, "conditional residual-structure tests" 1/1; both removed strings — "extracted from statistical data" and "empirically isolated from quantum noise" — 0/0 in both trees. Both new links confirmed resolving in the synced Hugo output as `[selection-only channel](/concepts/selection-only-channel/)` and `[Born-preserving causal-efficacy problem](/apex/born-preserving-causal-efficacy/)`, with the correct `concepts/` and `apex/` section paths. `ai_modified` from a live `date -u`. `ai_system` appended `+claude-opus-5`. Not committed — `cycle_post` handles it.
+- **Published**: yes
 
 ## 2026-09-19T01:56:43+00:00 - refine-draft
 - **Status**: Success
