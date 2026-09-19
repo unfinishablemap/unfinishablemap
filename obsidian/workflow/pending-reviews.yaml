@@ -519,9 +519,9 @@
   prompt_summary: 'Audit concepts/meta-problem-of-consciousness: claims, citations,
     bracketing'
   target_filename: outer-review-2026-09-19-claude-opus-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-19T04:24:50.505838+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile but fair referee for one article on The Unfinishable
     Map (https://unfinishablemap.org), a site defending interactionist dualism: https://unfinishablemap.org/concepts/meta-problem-of-consciousness/
