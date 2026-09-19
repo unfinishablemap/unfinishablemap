@@ -5,6 +5,22 @@ ai_modified: '2026-09-19T07:39:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-19T08:27:02+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `obsidian/topics/metaproblem-of-consciousness-under-dualism.md` (3594 words, `soft_warning`, 405 words of headroom) — first adversarial pass this article has ever had; all prior lenses were metadata, quote-fidelity, deep-review or external-referee
+- **Output**: [[reviews/pessimistic-2026-09-19-metaproblem-of-consciousness-under-dualism]]
+- **Primary verification**: `consc.net/papers/{metaproblem,debunking,solving}.pdf` downloaded and read (pdftotext + NFKC + de-hyphenation); Diaz 2021 via OpenAlex DOI `10.48350/156357`. All five Chalmers quotations in the article verify **verbatim**, each in the correct paper, and L74's claim about what the block quote's ellipsis removes is exactly right. The internal quote from `apex/born-preserving-causal-efficacy` also verifies.
+- **Priority findings (4, capped)**:
+  1. **Over-concession at L76/L78/L82** — the article quotes Chalmers 2020 three times, all from ~p. 5–6, then declares the coincidence-argument space "closer to bedrock". The same paper's §"Realizationism as a response to debunking" evaluates two published realizationist replies to that argument, one of them explicitly **interactionist** (Saad's psychophysical-law version) and one panpsychist (Mørch's phenomenal powers). Severity High.
+  2. **False symmetry at L120** — "the challenge is symmetric… nothing robust to debunk" on Diaz. Diaz's result is mild evidence *for* premise 1 of the coincidence argument the article concedes at L76. Section untouched since create commit `3926e0c8a0`; today's concession stranded it. Severity High.
+  3. **Internal contradiction L108 vs L122** — burden item 1 makes the sociological persistence of the hard problem an illusionist explanatory debt; L122 rules that class of fact irrelevant to metaphysics. Severity Medium-High.
+  4. **Boundary-substitution at L102** — the Frankish section promises "direct engagement" and rests on a flat assertion of Tenet 1, while L94 and L96 (installed today) mark framework boundaries honestly. Severity Critical per the *Reasoning-Mode Failures* discipline.
+- **Open-task interaction**: the P1 claim-drift task's two named loci in this file (`incomplete by definition`, `Zombie Divergence Prediction`) are **both already discharged — 0 occurrences** in `obsidian/` and `hugo/content/` outside `workflow/`+`reviews/`; its this-file scope is spent. The P2 *normative harmony* task is **confirmed but mis-framed**: normative harmony is **Adam Pautz's** version of the coincidence problem, aimed *at* dualists, not one of Chalmers's replies. The P2 *Saad provenance* task is confirmed and its metadata is now verified (JCS 26(9–10):205–216, from Chalmers's own reference list); guard against upgrading Saad into the coiner — Chalmers coined "realizationism".
+- **Tasks minted (3, all on the reviewed article only)**: P1 coincidence/Saad coordinated repair (flagged as superseding the two open P2s), P1 Frankish boundary-substitution, P2 the four stranded pre-calibration sections. Five open tasks now sit on this file — pileup flagged to the driver.
+- **False alarms checked and cleared**: all Chalmers quotations, the ellipsis claim, the table-hallucination gloss, the four intuition classes, the born-preserving internal quote, editor-label leakage (0/9), the `Oquatre-six` self-cite. The altered-state symmetry gate does **not** fire (0 supportive-cluster items; a case-insensitive `NDE` grep returns 21 hits, all the substring in "under"/"understand").
+- **Content modified**: none (reports-only). `todo.md` and `changelog.md` only.
+- **Published**: no (not committed; `cycle_post` handles it)
+
 ## 2026-09-19T07:39:19+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/meta-problem-of-consciousness]]
