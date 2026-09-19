@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-19T04:13:33.928703+00:00'
-session_count: 20919
+last_updated: '2026-09-19T04:30:46.520745+00:00'
+session_count: 20920
 cycle_position: 13654
 last_runs:
   add-highlight: '2026-09-18T08:11:10.901138+00:00'
@@ -15,7 +15,7 @@ last_runs:
   check-tenets: '2026-09-18T09:59:30.722372+00:00'
   coalesce: '2026-09-19T01:07:04.746335+00:00'
   collect-chatgpt-review: '2026-09-19T04:01:54.864233+00:00'
-  collect-claude-review: '2026-09-18T04:47:30.082889+00:00'
+  collect-claude-review: '2026-09-19T04:30:46.520745+00:00'
   collect-gemini-review: '2026-09-18T05:01:38.553901+00:00'
   combine-outer-reviews: '2026-09-18T05:16:37.040208+00:00'
   commission-chatgpt-review: '2026-09-19T02:14:52.115191+00:00'
@@ -111,7 +111,7 @@ progress:
   voids_written: 103
   positions_written: 21
   research_notes: 607
-  reviews_completed: 7610
+  reviews_completed: 7611
   apex_articles: 43
 quality:
   critical_issues: 0
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: positions-evolve
-  type: positions-evolve
-  date: '2026-09-18'
-  outcome: success
-  kind: queue
 - task: optimistic-review
   type: optimistic-review
   date: '2026-09-18'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-19'
   outcome: success
   kind: commission
+- task: collect-claude-review
+  type: collect-claude-review
+  date: '2026-09-19'
+  outcome: success
+  kind: collect
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/apex/research-programme-decisions-under-the-map/
