@@ -4,7 +4,7 @@ description: "Why do we think consciousness is hard to explain? Chalmers' meta-p
 created: 2026-02-09
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-09-19T06:41:59+00:00
+ai_modified: 2026-09-19T07:23:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -62,7 +62,7 @@ Chalmers makes a structural claim: any adequate theory of consciousness must sol
 
 The meta-problem is most consequential for [[illusionism|illusionists]]. If phenomenal consciousness is an illusion—if our [[introspection|introspective]] representations systematically mischaracterise the nature of experience, attributing intrinsic phenomenal properties that aren't really there—then the illusion must be explained. Why does the brain generate representations that make consciousness *seem* irreducible?
 
-Keith Frankish calls this the "illusion problem": explaining why we have phenomenal-seeming states even if we lack genuinely phenomenal states. [[attention-schema-theory|Attention Schema Theory]] offers one mechanism: the brain builds a simplified model of its own attentional processes, and this model attributes phenomenal properties to attention as part of its functional role. The schema says "attention feels like something" because representing attention that way helps regulate it.
+Keith Frankish calls this the "illusion problem": explaining why we have phenomenal-seeming states even if we lack genuinely phenomenal states. [[attention-schema-theory|Attention Schema Theory]] offers one mechanism: the brain builds a simplified model of its own attentional processes, and this model attributes phenomenal properties to attention as part of its functional role. The schema says "attention feels like something" because representing attention that way helps regulate it. It is one option among several: Graziano (2024) sets out six distinct illusionist theories and observes that critics tend to engage only the most extreme, so an objection landing on one member need not generalise.
 
 The meta-problem exposes a tension in illusionism. The illusionist needs the meta-problem explanation to be *purely physical*—a straightforward functional story about why brains generate misleading self-models. But the explanation must also be powerful enough to account for the philosophical *force* of problem intuitions. It must explain why the hard problem has resisted physicalist dissolution for three decades, why intelligent people find zombie scenarios compelling, and why the explanatory gap persists across advances in neuroscience.
 
@@ -93,6 +93,8 @@ Non-illusionist physicalists—those who accept phenomenal consciousness as real
 The [[phenomenal-concepts-strategy|phenomenal concepts strategy]] offers one route: we possess special concepts for consciousness that don't connect transparently to physical concepts, creating an *apparent* gap even when no real gap exists. On this view, problem intuitions arise from our conceptual architecture rather than from the nature of consciousness itself.
 
 But this raises a further meta-problem: why do we have these peculiar concepts? If consciousness is physical, why did evolution equip us with ways of thinking about it that make it seem non-physical? The phenomenal concepts strategy postpones rather than dissolves the explanatory burden. If phenomenal concepts exist because they help us navigate genuinely phenomenal reality, they become evidence *for* that reality rather than an explanation of why it seems to exist.
+
+That objection remains contested. Botin (2024) grants that orthodox Russellian and type-B physicalism both fail the meta-problem, but argues that an a posteriori Russellian version of the phenomenal concepts strategy survives it, so physicalists need not retreat to illusionism. If that holds, a third position sits between the two set against each other above: a physicalist realist can grant phenomenal properties are real and still decline the dualist's conclusion.
 
 ## The Zombie Meta-Problem
 
@@ -128,6 +130,8 @@ The dualist's face-value solution to the meta-problem would be challenged if:
 2. **A wholly mindless process were shown to generate our problem reports**—not merely reports resembling ours, but the actual causal history of ours—undermining the claim that consciousness contributes to philosophical reasoning
 3. **Problem intuitions tracked cultural or cognitive biases** rather than genuine features of consciousness—for example, if societies with different conceptual frameworks lacked problem intuitions entirely
 
+The third condition has stopped being hypothetical. Berent (2024) reports experiments on both of its halves: in some scenarios people treat consciousness as a physical affair registering in the body, and problem intuitions track identifiable psychological biases. The evidence is mixed—Berent concludes the roots of the hard problem are *partly* psychological—but the condition now has data against it rather than a thought experiment.
+
 ## Relation to Site Perspective
 
 The meta-problem is one the Map can meet rather than one that fortifies it. The [[tenets#^dualism|Dualism]] tenet holds that consciousness is irreducible to physical processes. If so, our problem intuitions are accurate: we find consciousness hard to explain because it genuinely exceeds physical explanation. The meta-problem has a face-value solution, and the interactionist tenet blocks the causal-independence form of the debunking argument that would otherwise turn the meta-problem against phenomenal realism—leaving the modal and explanatory forms, and the coincidence problem built on them, still to be met. Both moves *neutralise a threat*; neither adds independent positive evidence for dualism, which rests on the rest of the Map's case.
@@ -156,10 +160,13 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is relevant because
 
 ## References
 
+1. Berent, I. (2024). Consciousness isn't "hard"—it's human psychology that makes it so! *Neuroscience of Consciousness*, 2024(1), niae016. https://doi.org/10.1093/nc/niae016
+1. Botin, M. (2024). A posteriori Russellian physicalism: a new solution to the meta-problem of consciousness. *The Philosophical Quarterly*, pqae127. https://doi.org/10.1093/pq/pqae127
 1. Chalmers, D.J. (2018). The meta-problem of consciousness. *Journal of Consciousness Studies*, 25(9-10), 6-61.
 1. Chalmers, D.J. (2020). Debunking arguments for illusionism about consciousness. *Journal of Consciousness Studies*, 27(5-6), 258-281. https://consc.net/papers/debunking.pdf
 1. Chalmers, D.J. (1996). *The Conscious Mind*. Oxford University Press.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Graziano, M.S.A. (2019). *Rethinking Consciousness*. W.W. Norton.
+1. Graziano, M.S.A. (2024). Illusionism big and small: Some options for explaining consciousness. *eNeuro*, 11(10), ENEURO.0210-24.2024. https://doi.org/10.1523/ENEURO.0210-24.2024
 1. Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
 1. Metzinger, T. (2003). *Being No One*. MIT Press.

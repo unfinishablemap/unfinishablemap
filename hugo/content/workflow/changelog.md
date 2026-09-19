@@ -1,14 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T07:12:06+00:00'
+ai_modified: '2026-09-19T07:23:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-19'
-lastmod: 2026-09-19 07:12:06+00:00
+lastmod: 2026-09-19 07:23:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-19T07:23:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/)
+- **Task**: bibliography ends in 2019 and drops the 2019–2025 meta-problem literature (3/3 convergent, P1)
+- **Word count**: 3153 → 3374 (+221; concepts hard gate fires at >= 3500, so **125 words of headroom remain** for the two sibling P1s that share this budget — the Chalmers topic-neutrality pre-emption and the calibration-hedge cluster)
+- **Sources added (3, all Crossref-verified AND abstract-confirmed for the claim made)**:
+  - **Botin 2024**, *The Philosophical Quarterly* `10.1093/pq/pqae127` — into "The Meta-Problem and Physicalism". Abstract confirms both legs: orthodox Russellian and type-B physicalism fail the meta-problem, but a posteriori Russellian physicalism (a Russellian phenomenal-concept strategy) survives, so "physicalists need not turn to illusionism". Complicates the article's framing of the field as a two-way illusionism-vs-dualist-realism contest.
+  - **Berent 2024**, *Neuroscience of Consciousness* `10.1093/nc/niae016` — into "What Would Challenge This View?". Turns challenge-condition #3 from a hypothetical falsifier into live evidence; abstract confirms both halves (people sometimes treat consciousness as physical/bodily; problem intuitions link to psychological biases). Cited at its own strength — Berent's conclusion is "partly psychological", and the article says the evidence is mixed.
+  - **Graziano 2024**, *eNeuro* 11(10) `10.1523/ENEURO.0210-24.2024` — into "The Meta-Problem and Illusionism". Abstract confirms "six specific theories" and that "scholars tend to think only of the most extreme forms". Stops AST standing in for illusionism as such. Venue of record is **eNeuro**, not the Princeton repository page the reviewer linked.
+- **Sources deliberately declined**:
+  - **Duncan 2021 — REVIEWER CITED THE WRONG PAPER.** The DOI given (`10.1111/phc3.12727`) is *Philosophy Compass* "Acquaintance", a general survey of the acquaintance literature; its abstract contains nothing about constitutive physicalism or the knowledge argument. The paper that plausibly does the described work is a **different** Duncan 2021, "How You Know You're Conscious: Illusionism and Knowledge of Things", *Review of Philosophy and Psychology* `10.1007/s13164-021-00590-1` (online 2021, print 14(1):185–205, 2023). Metadata verified, but **no abstract is published** (Springer elides it; OpenAlex and Semantic Scholar both null) and the only OA copy (philpapers.org/archive/DUNHYK.pdf) is behind a Cloudflare challenge. Content unverifiable → not cited. Two-papers-same-author-and-year disambiguation failure.
+  - **Kammerer 2026 *House of Mirrors*** — no Crossref record; not cited, and the "Meta-Cartesian" architecture not attributed to it.
+  - **All four Claude-leg sources** — Crossref bibliographic search found no record for Díaz 2021, Clark/Friston/Wilkinson 2019, or Kuś et al. 2026. **Laukkonen, Friston & Chandaria 2025 resolves only to a PsyArXiv preprint** (`10.31234/osf.io/daf5n`) with **three distinct versions** (v1 2025-08-30, v2 2025-03-11, v3 2025-06-16) and no journal of record — genuine but unverifiable-as-stable. None cited.
+  - **Predictive-processing item — scope-split and deferred.** Gemini's half correctly declined upstream (targets REBUS/psychedelics material absent from this article). Claude's half (PP as a rival meta-problem solution) is article-level and real, but every source for it is in the unverified set above, so it is not installed. Re-mint once a publisher-of-record source exists.
+  - **Gorbachev & Frankish 2025 / Kammerer 2025 / Kammerer 2022** — metadata sound but not cited this pass: budget-limited, and the "eight patterns across three dimensions" gloss was never checked against the text.
+  - **Chalmers 2020** — already present (added by the independence-varieties pass earlier tonight); not re-added.
+- **Verification route**: Crossref REST for metadata (title, authors, container, volume/issue/page, issued dates), OpenAlex abstract-inverted-index reconstruction for content. Every cited claim was matched against the source's own abstract, not against reviewer summary text.
+- **Reference list**: 3 entries inserted in the list's existing alphabetical-by-surname order (Berent, Botin before Chalmers; Graziano 2024 after Graziano 2019); markdown auto-numbering, so no cross-reference renumbering.
+- **Out of scope, untouched**: zombie/dissolution passage, Chalmers attribution corrections, independence varieties and four-class split, topic-neutrality pre-emption, calibration-hedge cluster.
+- **Sync**: `scripts/sync.py` run; `concepts/meta-problem-of-consciousness.md` reported `ok`; all three author-year strings and all three DOIs grep-verified present in **both** obsidian and hugo trees.
+- **Published**: yes
+
 
 ## 2026-09-19T07:12:06+00:00 - deep-review
 - **Status**: Success
