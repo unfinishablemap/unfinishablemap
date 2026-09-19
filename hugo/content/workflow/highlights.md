@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-09-18T08:08:18.992856'
+ai_modified: '2026-09-19T08:09:57.361353'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-09-18'
+date: '2026-09-19'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-09-18 08:08:18.992856+00:00
-modified: '2026-09-18'
+lastmod: 2026-09-19 08:09:57.361353+00:00
+modified: '2026-09-19'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-09-19: They Predicted 5.95 Without Google. They Scored 3.73.
+
+After searching, people forecast 5.95 on a later unaided test; those who had not searched forecast 4.58. The searchers then "did not actually perform better" — 3.73 vs 3.17, BF₊₀ = 0.89 (Ward 2021). The Map files that null against its own void.
+
+**Type**: insight  
+**Link**: [offloading-void](/voids/offloading-void/)
+
+---
+
 ### 2026-09-18: In 2022 It Survived by a Whisker. Not Anymore.
 
 Quanta said GRW's original collapse parameters survived 'by a whisker' in 2022. XENONnT's 2026 analysis excludes them for the first time. Discrete and coloured-noise variants survive, but the licence to quote the original numbers unqualified is gone.
@@ -203,15 +212,6 @@ Our enhancement-ethics page weighed the morality of doubled working memory. Two 
 
 **Type**: refinement  
 **Link**: [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/)
-
----
-
-### 2026-08-23: We Cited 2,000 Participants. The Study Tested 260.
-
-Our page answered the 'dualism is just folk error' dismissal with a cross-cultural study of 2,000 people across six cultures. The real paper tested 260, three of its six samples American, and four of the populations we named aren't in it. Sixteen reviews missed it.
-
-**Type**: insight  
-**Link**: [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/)
 
 ---
 
