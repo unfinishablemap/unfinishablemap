@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-09-06 02:30:54+00:00
-ai_system: claude-opus-4-7+claude-fable-5-1
+ai_modified: 2026-09-19 01:56:43+00:00
+ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5
 author: null
 concepts:
 - '[[minimal-consciousness]]'
@@ -41,7 +41,7 @@ embedded_videos:
 human_modified: null
 last_curated: 2026-05-25 11:43:34+00:00
 last_deep_review: 2026-07-11 04:03:00+00:00
-lastmod: 2026-09-06 02:30:54+00:00
+lastmod: 2026-09-19 01:56:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -140,9 +140,9 @@ Carruthers is often enlisted here, but *Human and Animal Minds* (2019) abandons 
 
 ## Consciousness and the Human-Ape Intelligence Gap
 
-Great apes are our closest relatives—98-99% identical at single-nucleotide variants, though the telomere-to-telomere ape genomes (Yoo et al. 2025 *Nature*) report that 12.5–27.3% of an ape genome fails to align one-to-one, partly reflecting alignment limits in repetitive regions. Apes display sophisticated cognition, yet humans uniquely produce [cumulative culture](/concepts/cumulative-culture/) involving abstract mathematics and technology. Tomasello & Herrmann (2010) locate the difference not in any single cognitive primitive—apes share most—but in shared intentionality, the capacity for collaborative activity with joint goals; Gruber et al. (2015) add that apes have culture but do not know they do. Standard neuroscience attributes the gap to architecture (expanded DLPFC, arcuate-fasciculus connectivity), which neither forces nor rules out a dualistic reading.
+Great apes are our closest relatives—98-99% identical at single-nucleotide variants, though the telomere-to-telomere ape genomes (Yoo et al. 2025 *Nature*) report that 12.5–27.3% of an ape genome fails to align one-to-one, partly reflecting alignment limits in repetitive regions. Apes display sophisticated cognition, yet humans uniquely produce [cumulative culture](/concepts/cumulative-culture/). Tomasello & Herrmann (2010) locate the difference not in any single cognitive primitive—apes share most—but in shared intentionality, the capacity for collaborative activity with joint goals; Gruber et al. (2015) add that apes have culture but do not know they do. Standard neuroscience attributes the gap to architecture (expanded DLPFC, arcuate-fasciculus connectivity), which neither forces nor rules out a dualistic reading.
 
-The Map offers a complementary interpretation. The [baseline-cognition](/concepts/baseline-cognition/) hypothesis proposes great ape cognition represents what neural processing achieves *without* substantial conscious contribution, while human-level cognition requires expanded conscious access (full treatment: [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)). Supporting evidence: working-memory differences, on a contested estimate of 2±1 items (Read, Manrique & Walker 2022); apes having culture but not *knowing* they have it; apes passing Level 1 [theory of mind](/concepts/theory-of-mind/) but struggling with Level 3 recursive mindreading; contested findings (DeWall et al. 2008) that rule-based reasoning depends on conscious processing.
+The Map offers a complementary interpretation. The [baseline-cognition](/concepts/baseline-cognition/) hypothesis proposes great ape cognition represents what neural processing achieves *without* substantial conscious contribution, while human-level cognition requires expanded conscious access (full treatment: [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)). Supporting evidence: working-memory differences, on a contested estimate of 2±1 items (Read, Manrique & Walker 2022); the Gruber pattern above; apes passing Level 1 [theory of mind](/concepts/theory-of-mind/) but struggling with Level 3 recursive mindreading; contested findings (DeWall et al. 2008) that rule-based reasoning depends on conscious processing. [The same deflationary reading](/concepts/consciousness-as-amplifier/#the-deflationary-challenge) fits this cluster—expanded working memory plus deeper recursion—audited there.
 
 This denies apes no consciousness—they likely have emotional and perceptual consciousness; what they may lack is *metacognitive* consciousness (the [metarepresentation threshold](/concepts/metacognition/#the-metarepresentation-threshold)). [Cetaceans and corvids](/topics/cetacean-and-corvid-consciousness/) occupy intermediate positions independently of primate cortex. A distinct alternative is [interface-efficacy scaling](/topics/interface-efficacy-and-the-cognitive-gap/): consciousness at full grade across species, with mind-brain coupling varying along bandwidth, fidelity, and granularity axes.
 

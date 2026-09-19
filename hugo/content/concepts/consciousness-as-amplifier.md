@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-09-08 16:50:16+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-09-19 01:56:43+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 coalesced_from:
 - /concepts/consciousness-as-amplifier/
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 11:21:11+00:00
-lastmod: 2026-09-08 16:50:16+00:00
+lastmod: 2026-09-19 01:56:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -104,9 +104,19 @@ If consciousness were [epiphenomenal](/concepts/epiphenomenalism/), then human-l
 
 The epiphenomenalist response—that neural systems causing both consciousness and adaptive behaviour are selected together—becomes implausible once phenomenal consciousness is ontologically separate from its neural correlates. As Georgiev (2024) argues in *Life*: "Any endeavor to construct a physical theory of consciousness based on emergence within the framework of classical physics, however, leads to causally impotent conscious experiences in direct contradiction to evolutionary theory."
 
+## The Deflationary Challenge
+
+A rival can accept every finding above and read the whole cluster without a consciousness term. The **deflationary functionalist** reading holds that the human-ape profile records expansion in two functional resources—working-memory capacity and recursive representational depth—and that nothing further is needed. The chimpanzee estimate of 2±1 against Cowan's human 4±1 is a difference in a processing resource whatever that resource does or does not feel like. Declarative metacognition is representation of representations, one recursion deeper than the procedural case. Cumulative culture follows from shared intentionality (Tomasello & Herrmann 2010), which names a social-cognitive capacity rather than a phenomenal one. Each item is predicted as well by more prefrontal capacity plus deeper recursion as by expanded conscious access.
+
+The DeWall et al. (2008) dissociation is the strongest reply available here, and it is weaker than it looks: the paradigm manipulates conscious processing by imposing cognitive load, so the result separates executive capacity from unconscious pattern-completion without separating phenomenal consciousness from executive capacity. The contemplative training evidence inherits the same ambiguity—sustained attention training improves executive control on either reading.
+
+Underneath sits a circularity. Which capacities count as consciousness-dependent is fixed largely by the human-ape gap those capacities are then invoked to explain. Breaking the circle needs an independent criterion for when phenomenal consciousness is doing cognitive work, which is what the [interface problem](/topics/the-interface-problem/) catalogues as missing. The systematic correspondence flagged in the next section still wants explaining, but it is a weaker fact than a correspondence between two independently identified things.
+
+So the [common-cause null](/project/common-cause-null/) applies to the amplifier evidence exactly as it applies to the marker evidence in [animal consciousness](/topics/animal-consciousness/): working memory, metacognition, culture, and rule-following are not four independent confirmations when one expanded functional resource is the candidate common cause. What tilts the Map towards amplification is the [evolutionary case for mental causation](/topics/evolutionary-case-for-mental-causation/), a commitment the deflationary rival does not share, rather than the cognitive profile itself, which the rival predicts equally well. Until an instrument registers conscious contribution independently of the functional capacities, the disagreement is closer to bedrock than the gap data alone suggest.
+
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) might respond that conscious amplification is really unconscious processing generating the *illusion* of conscious contribution. This faces several difficulties:
+Illusionism is the deflationary reading tightened into a positive thesis. [Illusionists](/concepts/illusionism/) might respond that conscious amplification is really unconscious processing generating the *illusion* of conscious contribution. This faces several difficulties:
 
 **The empirical evidence**: Disrupting conscious processing specifically impairs logical reasoning; disrupting unconscious processing does not (DeWall et al. 2008). If reasoning were really unconscious, the pattern should reverse. That conflict *detection* runs implicitly (De Neys & Glumicic 2008) does not rescue the illusionist: what fails without conscious engagement is the override, and the override is where the reasoning happens.
 
