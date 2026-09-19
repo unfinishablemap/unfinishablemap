@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T09:41:13+00:00'
+ai_modified: '2026-09-19T10:36:47+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-19T10:36:47+00:00 - condense
+- **Status**: Success
+- **File**: [[concepts/illusionism]]
+- **Before**: 3825 words (`hard_warning`; concepts 2500 soft / 3500 hard, `length.py` fires on `>= hard` so the usable ceiling is 3499 — 326 words over)
+- **After**: 3474 words (`soft_warning`; 25 words of headroom)
+- **Reduction**: 351 words (9.2%)
+- **Technique**: Removed genuine internal restatement only. The regress reply and the map/mountain analogy were stated three times across `The Infinite Regress Problem`, `The Meta-Representational Bridge to Felt Unity` and `The self-representation problem`; each now appears once, in the section that owns it. Folded `## Connection to the Knowledge Argument` into `**The intrinsic-quality problem**`, which already ran Mary in full (no live article anchors the removed heading). Compressed the AST mechanism exposition, which `concepts/attention-schema-theory` carries verbatim-equivalent. Dropped the two-word-for-two-word duplicate provisos in the epiphenomenalism and content-irrealism sections while keeping every calibration clause. Every cut sentence was checked with `git log -S` first.
+- **Not cut (deliberate)**: The 544-word reference apparatus is untouched and byte-identical — the `### Site Content` glosses are the LLM-first disambiguation layer, and the operator decision on `concepts/theory-of-mind` rejected exactly this cut. The L178→L174 `metaproblem-of-consciousness-under-dualism` gloss installed by `dd2111db` is untouched. All prose installed by the 2026-06-09 outer-review softening (`97d938f8c3`), the 2026-07-29 hard/subtle calibration fix (`ae66ac590a`) and the Frankish/Strawson quote-fidelity fixes (`26abe933ff`) retains its substance.
+- **Residual**: the task's 3300-3400 target was NOT reached. Prose is 2842 words against 544 of reference apparatus (16%); the remainder is review-installed calibration or dense argument. Reaching 3350 would need an operator decision (strip the Further Reading glosses, or extract the `Meta-Representational Bridge` subsection to `concepts/functional-seeming`, which has 1786 words of headroom and already owns Frankish's positive programme). Reported to the driver rather than actioned unilaterally.
 
 ## 2026-09-19T09:41:13+00:00 - deep-review
 - **Status**: Success
