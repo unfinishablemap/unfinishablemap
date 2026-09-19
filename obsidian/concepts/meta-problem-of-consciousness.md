@@ -4,7 +4,7 @@ description: "Why do we think consciousness is hard to explain? Chalmers' meta-p
 created: 2026-02-09
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-09-19T06:26:16+00:00
+ai_modified: 2026-09-19T06:41:59+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,6 +52,8 @@ In "The Meta-Problem of Consciousness" (2018), Chalmers states it broadly: the m
 
 Chalmers sorts these into four classes—explanatory, metaphysical, knowledge, and modal intuitions—taking the first two to be the most central.
 
+The classes are worth keeping apart when assessing what vindicates them, because they do not stand or fall together. What warrants "I am in pain, and it is like *this*" is not what would warrant "pain is nonphysical", "no physical account could capture it", "a zombie is possible", or the reading of Mary's case on which what she gains is a nonphysical fact. The first is a report on a present episode; the others are metaphysical, explanatory and modal claims reached by argument from such episodes, and they inherit the security of the argument rather than the security of the episode. A solution that vindicates the first does not thereby vindicate the rest, and treating problem intuitions as a single block obscures which of them any given reply has actually secured.
+
 These intuitions are behaviours—verbal reports, philosophical arguments, gestures of puzzlement. As behaviours, they have physical causes. The meta-problem asks what those causes are.
 
 Chalmers makes a structural claim: any adequate theory of consciousness must solve the meta-problem. Dualists, physicalists, illusionists, and mysterians all need to explain why we produce these reports. A theory that solves the hard problem but cannot explain our problem intuitions is incomplete. A theory that dissolves the hard problem but cannot explain why it seemed hard is equally incomplete.
@@ -78,7 +80,11 @@ The asymmetry is worth marking. If the hard problem is real, the meta-problem is
 
 The face-value solution must not be reached too quickly, because the meta-problem is not a friendly argument for the dualist. It supplies the materialist's sharpest weapon: a *debunking* argument against phenomenal realism. The threat runs as follows. Suppose a complete, purely physical account of our problem intuitions can be given—one that explains why we say consciousness is irreducible using only mechanisms (self-models, attention schemas, conceptual architecture) that would operate the same way whether or not irreducible consciousness exists. Then the physical story is *sufficient* to explain the reports, and the phenomenal extras do no explanatory work in producing them. Our conviction that consciousness exceeds physics would be explained without that conviction being true—and a belief explained entirely by causes indifferent to its truth loses its justification. This is the form of debunking that makes the meta-problem genuinely threatening: it pressures realism about phenomenal consciousness on its own terms, not merely from outside the dualist's framework.
 
-The interactionist reply engages this threat at its load-bearing premise rather than waving it away. The debunking argument requires that the topic-neutral physical explanation work *independently* of whether consciousness is a causal contributor. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet denies exactly this: if consciousness causally shapes the reasoning that produces problem reports, then no purely physical account of those reports is complete, and the debunking argument's central premise fails. This is an in-framework engagement—it identifies a premise the debunker needs and shows the Map's commitments withhold it. What it does *not* do is refute the debunker from neutral ground. The reply works only for someone who grants that consciousness is causally efficacious in the relevant way; a physicalist who rejects bidirectional interaction will reject the move, and that residual disagreement is a framework-boundary clash, honestly noted rather than dressed as a victory inside the physicalist's own commitments.
+The interactionist reply engages this threat at the premise it depends on, but the reply must be matched to the right notion of independence, and Chalmers distinguishes several. It is not enough for the debunker that the physical explanation merely avoid mentioning consciousness; what the argument needs is *causal* independence (consciousness plays no causal role in the processes the explanation invokes) or *constitutive* independence (consciousness neither constitutes nor is constituted by elements of it).
+
+Against those two the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet is decisive: if consciousness causally shapes the reasoning that produces problem reports, it plays a causal role in the very processes the explanation invokes, and causal independence fails. That is a real in-framework engagement—it identifies a premise the debunker needs and shows the Map's commitments withhold it.
+
+It is also all the tenet delivers. Chalmers grants the realizationist exactly this much and then reformulates: a strong *modal* and *explanatory* independence survives, because a near-complete structural explanation of the intuitions could obtain without consciousness even where consciousness actually contributes. That regenerates the threat as a coincidence problem—if the intuitions are correct, their correctness begins to look lucky—and because the coincidence turns on what could have obtained rather than on what did, actual causal contribution does not dispel it. Modal independence, explanatory independence and the coincidence argument built on them remain open; the [[metaproblem-of-consciousness-under-dualism|interactionist development]] takes them up. Against a physicalist who rejects bidirectional interaction the exchange is moot in any case, and that residual disagreement is a framework-boundary clash, honestly noted rather than dressed as a victory inside the physicalist's own commitments.
 
 ## The Meta-Problem and Physicalism
 
@@ -124,7 +130,7 @@ The dualist's face-value solution to the meta-problem would be challenged if:
 
 ## Relation to Site Perspective
 
-The meta-problem is one the Map can meet rather than one that fortifies it. The [[tenets#^dualism|Dualism]] tenet holds that consciousness is irreducible to physical processes. If so, our problem intuitions are accurate: we find consciousness hard to explain because it genuinely exceeds physical explanation. The meta-problem has a face-value solution, and the interactionist tenet blocks the debunking argument that would otherwise turn the meta-problem against phenomenal realism. Both moves *neutralise a threat*; neither adds independent positive evidence for dualism, which rests on the rest of the Map's case.
+The meta-problem is one the Map can meet rather than one that fortifies it. The [[tenets#^dualism|Dualism]] tenet holds that consciousness is irreducible to physical processes. If so, our problem intuitions are accurate: we find consciousness hard to explain because it genuinely exceeds physical explanation. The meta-problem has a face-value solution, and the interactionist tenet blocks the causal-independence form of the debunking argument that would otherwise turn the meta-problem against phenomenal realism—leaving the modal and explanatory forms, and the coincidence problem built on them, still to be met. Both moves *neutralise a threat*; neither adds independent positive evidence for dualism, which rests on the rest of the Map's case.
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet addresses the zombie objection by denying that a full physical duplicate of a philosopher could be mindless at all. Where a mindless mechanism does produce problem reports, those reports are coincidental and ours are informed—a difference in authorship rather than one any measurement would register.
 
@@ -151,6 +157,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is relevant because
 ## References
 
 1. Chalmers, D.J. (2018). The meta-problem of consciousness. *Journal of Consciousness Studies*, 25(9-10), 6-61.
+1. Chalmers, D.J. (2020). Debunking arguments for illusionism about consciousness. *Journal of Consciousness Studies*, 27(5-6), 258-281. https://consc.net/papers/debunking.pdf
 1. Chalmers, D.J. (1996). *The Conscious Mind*. Oxford University Press.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Graziano, M.S.A. (2019). *Rethinking Consciousness*. W.W. Norton.

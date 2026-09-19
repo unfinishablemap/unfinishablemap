@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T06:26:16+00:00'
+ai_modified: '2026-09-19T06:41:59+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-19'
-lastmod: 2026-09-19 06:26:16+00:00
+lastmod: 2026-09-19 06:41:59+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-19T06:41:59+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/), [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/)
+- **Task**: P1 (2/3 convergent — ChatGPT S1.6-1.8, Claude Axis 1/Axis 3; Claude: "the single most important omission"): Bidirectional Interaction answers only *causal* independence; modal/explanatory independence and the coincidence problem stand.
+- **Original score**: n/a (targeted convergent-review fix)
+- **Source verification**: Both Chalmers 2020 spans flagged unverified by the task VERIFIED VERBATIM against `consc.net/papers/debunking.pdf` (pdftotext + NFKC + de-hyphenation). Chalmers' typo "constititive" is genuine in the paper (occurs exactly once) — retained and marked `[*sic*]`, which confirms the span was copied, not retyped. The task's ellipsis elides "on the realizationist view, consciousness plays a causal role in the formation of phenomenal intuitions in the actual world" — the sentence already quoted at the topic article's realizationism section; the article now says so explicitly. A third span (the coincidence premise) also verified verbatim.
+- **Independence varieties named live**: Chalmers' taxonomy installed in both files — *descriptive* independence (topic-neutrality) and *local modal* independence are ruled insufficient by Chalmers himself; *causal* and *constitutive* independence are what the debunker needs, and Bidirectional Interaction defeats both. *Modal* independence, *explanatory* independence and the *coincidence* argument built on them are named as remaining open and unaddressed by the tenet. Vocabulary was previously 0/0 in both files.
+- **Four-class split**: concept article (the four-classes sentence lives there) gains the by-class warrant split — a present-episode report is warranted differently from the metaphysical ("pain is nonphysical"), explanatory ("no physical account could capture it") and modal ("a zombie is possible") claims argued *from* it, including the nonphysical-fact reading of Mary. Topic article (where the acquaintance move lives) gains the acquaintance half: acquaintance warrants the knowledge-class report only, and Chalmers notes the coincidence argument was built to bypass the acquaintance reply by shifting from justification to coincidence — so causal contribution and acquaintance do not compose into a reply.
+- **Changes**: concept — debunking-reply paragraph rewritten to name the independence varieties (it previously attacked *topic-neutrality*, the form Chalmers explicitly rules out as too weak); four-class warrant split added; Relation-to-Site-Perspective narrowed; Chalmers 2020 added to References (newly relied on). topic — lead's en-bloc acquaintance claim corrected and given a named-anchor forward reference; independence premise corrected; new section "What the Reply Does Not Reach"; three consequential tensions repaired ("faces none of these debts", "complete at step one", Relation-to-Site-Perspective).
+- **Engagement with the debunker/illusionist: Mixed — Mode One narrowed, with a Mode Three residue.** Mode One holds and is retained: causal and constitutive independence are premises the debunker needs and interactionism genuinely withholds them, so the argument in that form is lost on its own terms. But the in-framework refutation is *bounded* — Chalmers reformulates to modal/explanatory independence and a coincidence argument that the tenet does not touch, so past that boundary the reply is honest boundary-marking, stated in natural prose as the disagreement being "closer to bedrock than it first appeared". No mode labels in either article body (swept: 0 hits for all forbidden editor vocabulary in both trees).
+- **Scope discipline**: the article's existing defeater-removal-not-evidence calibration was left intact (narrowing an over-strong derivation, not reopening a settled concession); zombie/dissolution passage, Chalmers attribution fixes, realizationism over-derivation, bibliography currency and topic-neutrality pre-emption all left to their own tasks. The reviewer's "realizationist biological materialism and quantum materialism" illustration was NOT imported — neither phrase occurs in either paper.
+- **Length**: concepts 2869 -> 3153 (soft_warning, headroom 346); topics 2720 -> 3594 (ok -> soft_warning, headroom 405). Expansion pushed to the topic file per available headroom.
+- **Published**: yes
 
 ## 2026-09-19T06:26:16+00:00 - refine-draft
 - **Status**: Success
