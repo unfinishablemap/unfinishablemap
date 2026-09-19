@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-19T00:55:48.152939+00:00'
-session_count: 20906
-cycle_position: 13648
+last_updated: '2026-09-19T01:07:04.746335+00:00'
+session_count: 20907
+cycle_position: 13649
 last_runs:
   add-highlight: '2026-09-18T08:11:10.901138+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -13,7 +13,7 @@ last_runs:
   check-links: '2026-09-18T18:40:12.339498+00:00'
   check-model-fallback: '2026-09-18T21:06:50.629142+00:00'
   check-tenets: '2026-09-18T09:59:30.722372+00:00'
-  coalesce: '2026-09-18T15:41:16.308392+00:00'
+  coalesce: '2026-09-19T01:07:04.746335+00:00'
   collect-chatgpt-review: '2026-09-18T04:30:28.058765+00:00'
   collect-claude-review: '2026-09-18T04:47:30.082889+00:00'
   collect-gemini-review: '2026-09-18T05:01:38.553901+00:00'
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: positions-evolve
-  type: positions-evolve
-  date: '2026-09-18'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-09-18'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-19'
   outcome: success
   kind: queue
+- task: coalesce
+  type: coalesce
+  date: '2026-09-19'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/apex/research-programme-decisions-under-the-map/
