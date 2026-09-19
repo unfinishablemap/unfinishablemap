@@ -4,7 +4,7 @@ description: "The radical claim that phenomenal consciousness is an introspectiv
 created: 2026-01-14
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-07-30T15:08:00+00:00
+ai_modified: 2026-09-19T09:41:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -175,7 +175,7 @@ Illusionism directly challenges the Map's [[tenets]]:
 - [[phenomenal-concepts-strategy]] — A less radical physicalist approach
 - [[qualia]] — The properties illusionism denies
 - [[meta-problem-of-consciousness]] — Chalmers's challenge: explaining why we think consciousness is puzzling
-- [[metaproblem-of-consciousness-under-dualism]] — How interactionism converts the metaproblem into evidence for dualism
+- [[metaproblem-of-consciousness-under-dualism]] — How interactionism removes a defeater without raising dualism's probability
 - [[concepts/epiphenomenalism]] — The position illusionism structurally mirrors
 - [[eliminative-materialism]] — The broader eliminativist tradition; illusionism is its phenomenal-consciousness strand, alongside the Churchlands' eliminativism about propositional attitudes
 - [[multiple-drafts-model]] — Dennett's anti-homuncular architecture (the Cartesian Theater critique) that underpins the illusionist "user-illusion" of a unified stage

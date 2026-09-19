@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-19T09:11:04.533574+00:00'
-session_count: 20939
-cycle_position: 13664
+last_updated: '2026-09-19T09:29:19.314903+00:00'
+session_count: 20940
+cycle_position: 13665
 last_runs:
   add-highlight: '2026-09-19T08:11:18.187209+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-09-19T04:13:33.928703+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-08T14:59:47.852838+00:00'
-  deep-review: '2026-09-19T07:16:42.635667+00:00'
+  deep-review: '2026-09-19T09:29:19.314903+00:00'
   embed-videos: '2026-09-19T06:07:07.421436+00:00'
   expand-topic: '2026-09-07T22:30:11.197713+00:00'
   harvest-research-subjects: '2026-09-19T07:54:08.262424+00:00'
@@ -111,7 +111,7 @@ progress:
   voids_written: 103
   positions_written: 21
   research_notes: 607
-  reviews_completed: 7615
+  reviews_completed: 7616
   apex_articles: 43
 quality:
   critical_issues: 0
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-claude-review
-  type: collect-claude-review
-  date: '2026-09-19'
-  outcome: success
-  kind: collect
 - task: collect-gemini-review
   type: collect-gemini-review
   date: '2026-09-19'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-19'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-09-19'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/apex/research-programme-decisions-under-the-map/

@@ -38,6 +38,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+### P2: `concepts/mysterianism` attributes two fabricated illustrations to McGinn (1989)
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/mysterianism.md
+- **Notes**: Family resolution owed from the 2026-09-19 deep review of `topics/hard-problem-of-consciousness`,
+  which verified McGinn 1989 against the full text of the paper (*Mind* 98(391), 349-366) and found
+  `\bsquirrels?\b` = 0 and `calculus` = 0. McGinn's actual comparative-closure passage is
+  "What is closed to the mind of a rat may be open to the mind of a monkey, and what is open to us may be
+  closed to the monkey", with "Presumably monkey minds and the property of being an electron illustrate
+  this possibility." Two loci in this file present non-existent McGinn examples as his:
+  (a) body L62 — "just as rats cannot do calculus and dogs cannot understand quantum mechanics";
+  (b) frontmatter `description` — "like rats unable to grasp calculus" (a navigation surface, so fix the
+  label as well as the body).
+  Note L70 also uses the rat/calculus pairing ("a rat cannot grasp calculus regardless of training time") —
+  check whether that one is presented as McGinn's example or as the article's own illustration; if the
+  latter it may be acceptable once the L62 attribution is corrected, but it should not read as a quotation.
+  The McGinn *metadata* is correct and the citation must NOT be removed — this is a reading-fidelity fix.
+  Length: measure before editing; keep neutral or negative.
+
 ### NEEDS-HUMAN 2026-09-19: the X API is out of credits — every `/add-highlight --tweet` run will now add a highlight and silently fail to tweet it
 
 - **Type**: refine-draft

@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-09-07T03:33:20+00:00
+ai_modified: 2026-09-19T09:41:13+00:00
 draft: false
 topics:
   - "[[metaproblem-of-consciousness-under-dualism]]"
@@ -81,7 +81,7 @@ author:
 ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-01-06
 last_curated:
-last_deep_review: 2026-07-19T01:20:36+00:00
+last_deep_review: 2026-09-19T09:41:13+00:00
 embedded_videos:
   - id: ErztbcJHm88
     url: https://www.youtube-nocookie.com/embed/ErztbcJHm88
@@ -171,7 +171,7 @@ Research on [[neural-correlates-of-consciousness|neural correlates of consciousn
 
 **Eliminativism** (Churchland) argues not that we lack brain states, but that "phenomenal consciousness" *misdescribes* them—our folk-psychological concept of experience is confused, much as "phlogiston" misdescribed combustion. The challenge: the analogy is asymmetric. Phlogiston was inferred from observable behaviour, while experience is what observation itself is *like*. The eliminativist must use experiential concepts to argue those concepts are empty—a potentially self-undermining move, though eliminativists dispute this characterisation.
 
-**[[illusionism|Illusionism]]** (Frankish, Dennett) claims phenomenal consciousness is a "user illusion"—the brain represents itself as having rich qualitative states that don't exist as such. This trades the hard problem for an illusion problem: explaining why the brain generates this meta-representation requires accounting for the *seeming*, and seeming is itself experiential. The [[meta-problem-of-consciousness|metaproblem of consciousness]] sharpens this critique: illusionism must explain why problem intuitions precisely track the explanatory gap—an escalating burden that [[metaproblem-of-consciousness-under-dualism|interactionism dissolves]], since consciousness causally informs the very reasoning that generates those intuitions.
+**[[illusionism|Illusionism]]** (Frankish, Dennett) claims phenomenal consciousness is a "user illusion"—the brain represents itself as having rich qualitative states that don't exist as such. This trades the hard problem for an illusion problem: explaining why the brain generates this meta-representation requires accounting for the *seeming*, and seeming is itself experiential. The [[meta-problem-of-consciousness|metaproblem of consciousness]] sharpens this critique: illusionism must explain why problem intuitions precisely track the explanatory gap—an escalating burden that [[metaproblem-of-consciousness-under-dualism|interactionism escapes]], since consciousness causally informs the very reasoning that generates those intuitions.
 
 **The [[phenomenal-concepts-strategy]]** (Loar 1990, Papineau 2002, Balog) is arguably the strongest physicalist response. Consciousness *is* brain activity, but we possess distinctive recognitional concepts for experience that make true psychophysical identities *feel* contingent—generating an *appearance* of an explanatory gap where none exists in nature. Papineau (2002) argues these concepts are demonstrative—"that type of experience"—and their special character derives from referential directness, not from irreducible phenomenal properties. The dualist rejoinder: the demonstrative "that" must pick out its referent somehow, and if what it picks out *is* a phenomenal property, the explanation presupposes what it seeks to reduce. No account of how phenomenal concepts acquire their distinctive character avoids implicitly appealing to phenomenal experience. The full critical case — including Chalmers's Horn 1/Horn 2 dilemma and Fürst's reversal — is developed on that page.
 
@@ -224,7 +224,7 @@ The move from irreducibility to dualism is a further step, taken openly: converg
 
 ### Mysterianism
 
-[[mysterianism|Mysterianism]] proposes that the hard problem may be permanently beyond human understanding—not because consciousness is supernatural but because our cognitive architecture lacks the resources. Colin McGinn's (1989) [[mysterianism|cognitive closure]] thesis: just as squirrels cannot understand quantum mechanics, humans may be constitutionally unable to understand consciousness.
+[[mysterianism|Mysterianism]] proposes that the hard problem may be permanently beyond human understanding—not because consciousness is supernatural but because our cognitive architecture lacks the resources. Colin McGinn's (1989) [[mysterianism|cognitive closure]] thesis: what is closed to a rat's mind may be open to a monkey's, and the property linking brain to experience may be closed to ours.
 
 This supports the Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet: our sense of which explanations are "simple" may reflect cognitive limitations rather than ontological facts. See [[mysterianism]] for detailed treatment.
 
@@ -244,7 +244,7 @@ The Map does not claim to have solved the hard problem—it claims to take it se
 
 The hard problem is the foundation of the Map's [[tenets|Dualism tenet]]. The explanatory gap remains unbridged—no amount of neurological detail tells us *why* there is something it is like to be conscious. The Map interprets this persistence as a symptom of deep [[duhem-quine-underdetermination-consciousness|Duhem-Quine underdetermination]]: physicalists and dualists disagree not merely about data but about what would count as an adequate explanation, and no experiment can adjudicate between auxiliary assumptions so fundamental. [[cognitive-science-of-dualism|Cognitive science's own methodology]] reinforces this conclusion: the field depends on first-person report to ground its measurements, its findings on intuitive dualism are mixed, and neither predictive processing nor neural correlate research has closed the gap. See [[dualism]] for the full treatment.
 
-The [[metaproblem-of-consciousness-under-dualism|metaproblem of consciousness]] reinforces the Map's position: under interactionism, problem intuitions are causally informed by consciousness itself, making them face-value accurate rather than coincidentally correct—a structural advantage unavailable to physicalism or epiphenomenalism.
+The [[metaproblem-of-consciousness-under-dualism|metaproblem of consciousness]] bears on the Map's position defensively. Under interactionism, problem intuitions are causally informed by consciousness itself, which removes the debunking defeater epiphenomenalism cannot escape—restoring the dualist's prior warrant rather than supplying fresh positive evidence. Chalmers's reformulated coincidence argument—which turns on what could have obtained, not on what did—survives that causal contribution and remains open.
 
 If consciousness is not reducible to physics, how might mind and matter interact? The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenets sketch one possibility: consciousness influences physical outcomes at the quantum level, where physics leaves room for undetermined events. The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet acknowledges that the apparent simplicity of physicalism may reflect ignorance rather than insight.
 
@@ -271,7 +271,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [[biological-naturalism]] — Searle's claim to dissolve the mind-body problem, and why the Map argues his "causal reducibility without ontological reducibility" leaves the hard problem untouched
 - [[topics/phenomenal-value-realism]] — The hard problem extends to value: if phenomenal properties are irreducible, so is the goodness and badness they constitute
 - [[buddhism-and-dualism]] — How Buddhist philosophy engages with dualist frameworks
-- [[metaproblem-of-consciousness-under-dualism]] — How interactionism turns the metaproblem from threat to vindication
+- [[metaproblem-of-consciousness-under-dualism]] — How interactionism removes the metaproblem's debunking defeater, and what it leaves unanswered
 - [[the-hard-problem-in-non-western-philosophy]] — Independent recognition of the hard problem across Indian, Islamic, African, and Japanese traditions
 - [[indian-philosophy-of-mind]] — Sāṃkhya, Nyāya, and Vedānta approaches to consciousness
 - [[the-convergence-argument-for-dualism]] — Why near-independent convergence on irreducibility strengthens the case

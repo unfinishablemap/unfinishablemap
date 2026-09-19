@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-30 15:08:00+00:00
+ai_modified: 2026-09-19 09:41:13+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 03:30:13+00:00
-lastmod: 2026-07-30 15:08:00+00:00
+lastmod: 2026-09-19 09:41:13+00:00
 modified: *id001
 related_articles:
 - '[[parsimony-epistemology]]'
@@ -178,7 +178,7 @@ Illusionism directly challenges the Map's [tenets](/tenets/):
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — A less radical physicalist approach
 - [qualia](/concepts/qualia/) — The properties illusionism denies
 - [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) — Chalmers's challenge: explaining why we think consciousness is puzzling
-- [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — How interactionism converts the metaproblem into evidence for dualism
+- [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — How interactionism removes a defeater without raising dualism's probability
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The position illusionism structurally mirrors
 - [eliminative-materialism](/topics/eliminative-materialism/) — The broader eliminativist tradition; illusionism is its phenomenal-consciousness strand, alongside the Churchlands' eliminativism about propositional attitudes
 - [multiple-drafts-model](/concepts/multiple-drafts-model/) — Dennett's anti-homuncular architecture (the Cartesian Theater critique) that underpins the illusionist "user-illusion" of a unified stage

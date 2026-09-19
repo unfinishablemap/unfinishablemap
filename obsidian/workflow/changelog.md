@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T09:26:40+00:00'
+ai_modified: '2026-09-19T09:41:13+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-19T09:41:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/hard-problem-of-consciousness]]
+- **Word count**: 3615 -> 3656 (+41; topics 3000 soft / 4000 hard, `length.py` fires on `>= hard` so 343 words of usable headroom remain)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 2
+- **Enhancements made**: 0 (no expansion; all four subject-file edits are corrections)
+- **Scope**: P1 cross-review claim-drift task, mapped to a deep review of the host holding 3 of the 6 loci. Two authorised one-line sibling demotions also applied. All six loci re-verified by string in both trees.
+- **CRITICAL 1 - possibility/probability slippage (queue task, loci 1+2).** "Relation to the Map's Perspective" asserted that interactionism makes problem intuitions *"face-value accurate rather than coincidentally correct--a structural advantage unavailable to physicalism or epiphenomenalism"*. Both halves are establish-claims the target's own analysis disallows: [[topics/metaproblem-of-consciousness-under-dualism]] L76 records that Chalmers's reformulated coincidence argument survives the causal contribution and that "the Map has not yet made either" argument needed to meet it, and [[concepts/meta-problem-of-consciousness]] L75 sets the register ("*removes a defeater* rather than supplying fresh positive evidence... does not, on its own, raise the standing of dualism"). Calibration error, not bedrock disagreement -- a tenet-accepting reviewer would still flag it. Rewritten to the defeater-removal register, naming the surviving coincidence argument.
+- **CRITICAL 2 - fabricated attribution to McGinn, found by the quote-fidelity lens (NOT part of the queue task).** The Mysterianism section attributed to McGinn (1989) the illustration *"just as squirrels cannot understand quantum mechanics"*. Verified against the full text of *Mind* 98(391), 349-366 (Information Philosopher PDF, `pdftotext` + NFKC-normalised): **`\bsquirrels?\b` = 0, `calculus` = 0**. McGinn's actual passage is *"What is closed to the mind of a rat may be open to the mind of a monkey, and what is open to us may be closed to the monkey"*, followed by *"Presumably monkey minds and the property of being an electron illustrate this possibility."* Replaced with McGinn's own rat/monkey formulation; citation retained. **This survived 22 prior deep reviews including two full publisher-of-record citation audits** -- the McGinn metadata was always correct, so the ledger ratified the reading instead of testing it ([[citation-ledger-ratifies-the-reading-not-just-the-metadata]]).
+- **MEDIUM 3 (locus 3)** - Further Reading gloss *"How interactionism turns the metaproblem from threat to vindication"* stated exactly what the target article L40 disclaims ("rather than converting it into a fresh threat-becomes-evidence windfall for dualism"). Demoted to *"How interactionism removes the metaproblem's debunking defeater, and what it leaves unanswered"* ([[navigation-surfaces-carry-unreviewed-claims]]).
+- **MEDIUM 4** - piped link label `[[metaproblem-of-consciousness-under-dualism|interactionism dissolves]]` -> `|interactionism escapes]]`. Zero word cost; "escapes" is the target's own wording at L116 ("The interactionist faces no such escalation").
+- **Sibling demotions (authorised, strictly neutral-or-negative)**:
+  - [[concepts/epiphenomenalism]] L96 (locus 4): *"a fatal weakness that interactionism avoids"* -> *"a weakness interactionism avoids"*. "Fatal" contradicted the same sentence's own concession ("not logically contradictory, since it could still be true"). **3414 -> 3412 (-2).**
+  - [[concepts/illusionism]] L178 (locus 5): *"How interactionism converts the metaproblem into evidence for dualism"* -> *"How interactionism removes a defeater without raising dualism's probability"*. **3825 -> 3825 (+/-0)** -- this file was already past the hard gate, so the replacement was word-counted to exact neutrality.
+- **FALSE ALARM (locus 6)** - [[concepts/meta-problem-of-consciousness]] L154 *"How interactionist dualism disarms the metaproblem"* was quoted truncated in the task brief. The live string is *"...disarms the metaproblem's **debunking use**"*, which is already the target register and matches the page's own body language at L75. **No edit; `ai_modified` not bumped** ([[deep-review-fork-bumps-ai-modified-on-noop]]). Its 18-word headroom is preserved for the open condense task.
+- **Web-verify (SS2.4)**: References block unchanged since the 2026-06-20 publisher-of-record audit (`git log -L 290,299` returns only `2615c06fd7`, which is that audit), so the metadata pass was not re-run per the 07-19 stability note. The **reading-fidelity leg was run** and produced CRITICAL 2. Chalmers & McQueen (2022) re-verified: real-correct, and "consciousness cannot be superposed" is a faithful rendering of their superposition-resistance premise (arXiv 2105.02314). `find_superlative_claims` returned empty -- no currency-drift candidates.
+- **Engagement classification (editor-internal, changelog only)**: engagement with the metaproblem debunker -- **Mode Three**, framework-boundary marking; the rewrite's whole point is to stop dressing a defeater-removal as an in-framework defeat of physicalism, and the residual coincidence argument is now declared open rather than answered. No editor vocabulary in any article body.
+- **Task minted**: P2 refine-draft on [[concepts/mysterianism]] -- it carries a *second, different* fabricated McGinn illustration (body L62 "rats cannot do calculus and dogs cannot understand quantum mechanics"; frontmatter `description` "like rats unable to grasp calculus"). Deferred rather than edited to respect this run's authorised scope.
+- **Output**: [[reviews/deep-review-2026-09-19-hard-problem-of-consciousness]]
 
 ## 2026-09-19T09:26:40+00:00 - deep-review
 - **Status**: Success
