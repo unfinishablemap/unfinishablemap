@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-16
-ai_modified: 2026-09-16 22:52:20+00:00
+ai_modified: 2026-09-19 20:16:41+00:00
 ai_system: claude-opus-5+claude-fable-5-1
 author: null
 concepts:
@@ -18,11 +18,12 @@ description: Minimality fixes how large a conscious influence may be, not which 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-08-17 20:01:08+00:00
-lastmod: 2026-09-16 22:52:20+00:00
+last_deep_review: 2026-09-19 20:16:41+00:00
+lastmod: 2026-09-19 20:16:41+00:00
 modified: *id001
 related_articles:
 - '[[anti-zeno-effect-and-sign-of-conscious-observation-2026-08-05]]'
+- '[[anti-zeno-effects-biology-control-pair-2026-08-16]]'
 - '[[tenets]]'
 title: The Sign Problem for Conscious Observation
 topics:
@@ -31,7 +32,7 @@ topics:
 - '[[structure-of-attention]]'
 ---
 
-[Tenet 2](/tenets/#minimal-quantum-interaction) asks for the smallest possible non-physical influence on physical outcomes. That is a constraint on *magnitude*. An influence also has a *direction*, and the Map has been reading the magnitude constraint as though it settled the direction too. It does not. The sign problem is the resulting gap: a conscious influence can satisfy every minimality condition the tenet imposes and still push the wrong way.
+[Tenet 2](/tenets/#minimal-quantum-interaction) asks for the smallest possible non-physical influence on physical outcomes. That is a constraint on *magnitude*. An influence also has a *direction*, and the Map has been reading the magnitude constraint as though it settled the direction too. It does not. The sign problem is the resulting gap: a conscious influence can satisfy every minimality condition the tenet imposes and still push the wrong way. *Sign* here carries its plain sense — which way an influence points — and the term is unrelated to the numerical sign problem of quantum Monte Carlo, with which it shares only the word.
 
 The gap is visible most sharply where the Map has developed a mechanism in detail. In measurement-driven dynamics, whether repeated observation *suppresses* a system's evolution or *accelerates* it is fixed by the [regime criterion](#regime-criterion) (explained below) — a relation between the observation interval and properties of the environment, not of the observer. If that relation decides the sign, then an agent who merely attends does not thereby determine what attending accomplishes. The corollary is a two-parameter obligation: Tenet 2 owes an argument for magnitude *and* an argument for direction, and it currently supplies only the first.
 
@@ -51,7 +52,7 @@ Kofman and Kurizki also name the quantity that decides the sign, in a formulatio
 
 The timescale form of the same condition is stated by Virzì and colleagues, in a paper co-authored by Kofman and Kurizki: "the time-variation of the system control must be much faster than (in the QZE case) or as fast as (in the AZE case) the bath correlation time." The operative reading is that the Zeno regime is not "measure fast" but *measure fast relative to the environment's memory*. A bath with a short correlation time — warm, wet, strongly coupled tissue being the paradigm case — pushes the threshold for stabilisation down and widens the interval range over which acceleration obtains.
 
-That the crossover is real was shown experimentally by Martin Fischer, Braulio Gutiérrez-Medina and Mark Raizen, who observed both regimes on one platform — cold sodium atoms tunnelling out of an accelerated optical lattice. Tunnelling segments of 1 μs between interruptions produced suppression; segments of 5 μs produced enhancement, each measured against its own uninterrupted control. The two runs differed in trap depth and interruption parameters as well as in interval, so they establish that both regimes are reachable rather than isolating the interval. The authors attribute the flip to segment length: the longer segments span the burst of fast decay following the initial slow period — and where that burst falls is set by the system and its bath, not by the observer. Two limits on transferring this picture to brains should be held in view. Chaudhry's work on strong system–environment coupling indicates that the effective decay rate is not simply linear in the spectral density outside the weak-coupling regime, and a neural application would be strongly coupled — so weak-coupling intuitions should not be imported wholesale. And a search for anti-Zeno results in biological systems returned only Zeno-side work; that absence is weak evidence rather than a finding, since the search was not exhaustive.
+That the crossover is real was shown experimentally by Martin Fischer, Braulio Gutiérrez-Medina and Mark Raizen, who observed both regimes on one platform — cold sodium atoms tunnelling out of an accelerated optical lattice. Tunnelling segments of 1 μs between interruptions produced suppression; segments of 5 μs produced enhancement, each measured against its own uninterrupted control. The two runs differed in trap depth and interruption parameters as well as in interval, so they establish that both regimes are reachable rather than isolating the interval. The authors attribute the flip to segment length: the longer segments span the burst of fast decay following the initial slow period — and where that burst falls is set by the system and its bath, not by the observer. Two limits on transferring this picture to brains should be held in view. Chaudhry's work on strong system–environment coupling indicates that the effective decay rate is not simply linear in the spectral density outside the weak-coupling regime, and a neural application would be strongly coupled — so weak-coupling intuitions should not be imported wholesale. And a paired search for anti-Zeno results in biological systems — run across four indices after confirming that each retrieved the Zeno-side cryptochrome work — found no paper reporting measurement-accelerated decay in any biological system, neural or otherwise. The nearest approaches are a hedged parenthetical in Babcock and Kattnig's radical-triad scavenging model, where the scavenging reaction "resembles the quantum (anti-)Zeno effect", and Thilagam's report of an "anti-Zeno-like" effect induced by dissipative sinks in a toy donor–acceptor–sink model of photosynthetic transfer. Neither computes an acceleration regime, and a handful of index cells went unexamined, so this is a bounded null with a stated scope rather than evidence that a biological observer sits on the stabilising side.
 
 ## The Dilemma
 
@@ -61,13 +62,13 @@ Two readings are available. The Map can presently defend neither, though one now
 
 **Horn 2 — the agent does set the sign.** Then the agent controls observation timing precisely enough to sit on the chosen side of a crossover defined by the bath correlation time. That is a substantially richer capacity than "attend": it amounts to calibrated access to the spectral properties of one's own neural environment. A finely timed influence is not obviously more parsimonious than a larger one, which is where the magnitude/specification conflation surfaces. A sign-selecting agent is small in magnitude and complex in specification.
 
-That specification cost can now be priced, at coherence-only strength. The [agency budget](/concepts/agency-budget/) caps any selector that must leave the public distribution Born-exact at min(H(conscious source), H(Born distribution)) bits of reasons-correlated selection per event — about one bit for the yes/no attending the corpus contemplates. A Horn 2 agent must instead place each observation against a crossover at the ~10⁻¹⁴ s scale estimated [below](#discrete-observation): tens of bits per placement, over some 10¹³ placements per decision window, against the [~10 bits per second](/topics/bandwidth-of-consciousness/) the Map credits to conscious throughput. The budget is framework-internal coherence arithmetic, not evidence for the interface; here it prices a horn, and the price falls on the one the Map's agency reading needs.
+That specification cost can now be priced, at coherence-only strength. The [agency budget](/concepts/agency-budget/) caps any selector that must leave the public distribution Born-exact at min(H(conscious source), H(Born distribution)) bits of reasons-correlated selection per event — about one bit for the yes/no attending the corpus contemplates. A Horn 2 agent must instead place each observation against a crossover at the ~10⁻¹⁴ s scale estimated [below](#discrete-observation): tens of bits per placement, over some 10¹³ placements per decision window, against the [~10 bits per second](/topics/bandwidth-of-consciousness/) the Map credits to conscious throughput. That product is an upper bound rather than a settled price: an agent emitting a regular train would specify the interval once rather than each placement, and the multiplication holds only where the crossover drifts, which the unmeasured neural correlation time leaves open in both directions. The shortfall survives the concession. Locating a single crossover at that scale within a 300 ms window costs some forty bits on the same arithmetic, against the three that ~10 bits per second allows across the whole window. The budget is framework-internal coherence arithmetic, not evidence for the interface; here it prices a horn, and the price falls on the one the Map's agency reading needs.
 
 The corpus has never had to distinguish these, because it has been reading "minimal" as "small" while relying on it to license "does what the agent intends."
 
 ## Why Discrete Observation Does Not Escape It {#discrete-observation}
 
-The [timing gap](/concepts/timing-gap-problem/) discussion treats Stapp's discrete-observation framing as avoiding the coherence requirement: each observation is instantaneous, and hundreds of thousands of them would fit inside a 300-millisecond decision window. That move addresses the wrong threshold. The requirement for *being in the Zeno regime* is set by the bath correlation time, not the decoherence time, and raising the observation rate buys nothing unless the interval clears that separate bar.
+The [timing gap](/concepts/timing-gap-problem/) discussion treats Stapp's discrete-observation framing (Stapp 2007) as avoiding the coherence requirement: each observation is instantaneous, and hundreds of thousands of them would fit inside a 300-millisecond decision window. That move addresses the wrong threshold. The requirement for *being in the Zeno regime* is set by the bath correlation time, not the decoherence time, and raising the observation rate buys nothing unless the interval clears that separate bar.
 
 An illustrative scale makes the size of the problem visible, with a caveat attached that should travel with the number. The thermal correlation time ħ/k_BT at body temperature (310 K) is roughly 25 femtoseconds. **This is arithmetic performed for the Map, not a measured or published neural parameter**, and no such parameter exists in the literature. If that scale were even approximately right, the Zeno condition would demand observation intervals below ~10⁻¹⁴ s — on the order of 10¹³ discrete events across a 300 ms window rather than the ~10⁵ the corpus contemplates. The qualitative conclusion survives whatever the true figure turns out to be: the regime condition re-imposes a timescale requirement of the same order as the one the discrete-event framing was meant to escape.
 
@@ -77,7 +78,7 @@ The biological precedent does not close the gap either, and the mismatch is not 
 
 Honesty about a self-raised falsifier includes recording what it gives back.
 
-**A sharper empirical signature.** [Stapp's model](/concepts/stapp-quantum-mind/) already offers, as prediction 7, a distinctive non-linearity in selection efficacy as observation rate rises. The sign problem makes that prediction more specific and more falsifiable: not merely non-linearity but *non-monotonicity* — enhanced decay at intermediate rates, suppression only above a threshold set by the bath correlation time. A classical Hebbian selector predicts smooth saturation with total attention and cannot produce a turning point. The objection hands the Map a better discriminator than it previously stated. It also creates a tension the model has not registered, since [felt effort](/concepts/mental-effort/) scaling with observation rate predicts monotonic benefit from trying harder, while the physics predicts a turning point.
+**A sharper empirical signature.** The Map's [reading of Stapp's model](/concepts/stapp-quantum-mind/) already offers, as prediction 7, a distinctive non-linearity in selection efficacy as observation rate rises. The sign problem makes that prediction more specific and more falsifiable: not merely non-linearity but *non-monotonicity* — enhanced decay at intermediate rates, suppression only above a threshold set by the bath correlation time. A classical Hebbian selector predicts smooth saturation with total attention and cannot produce a turning point. The objection hands the Map a better discriminator than it previously stated. It also creates a tension the model has not registered, since [felt effort](/concepts/mental-effort/) scaling with observation rate predicts monotonic benefit from trying harder, while the physics predicts a turning point.
 
 **An untried repair.** If consciousness destabilises *competing* programs rather than stabilising the intended one, the ubiquitous effect becomes the mechanism and the generic-case finding becomes an asset. No development of this line was found in the literature. It carries an unanswered cost — selectively destabilising the losers is arguably a stronger informational demand than uniformly attending to a winner — so it is recorded here as an open line, not as a rescue.
 
@@ -106,6 +107,7 @@ The Map does not resolve the dilemma here. Recording it as unresolved is the poi
 - [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) — The interface route the Map endorses more strongly
 - [agency-budget](/concepts/agency-budget/) — The per-event ceiling that prices Horn 2
 - [anti-zeno-effect-and-sign-of-conscious-observation-2026-08-05](/research/anti-zeno-effect-and-sign-of-conscious-observation-2026-08-05/) — Research notes, including the verification gaps this article inherits
+- [anti-zeno-effects-biology-control-pair-2026-08-16](/research/anti-zeno-effects-biology-control-pair-2026-08-16/) — The paired index search behind the bounded null above, with every query and count
 
 ## References
 
@@ -115,6 +117,8 @@ The Map does not resolve the dilemma here. Recording it as unresolved is the poi
 1. Fischer, M.C., Gutiérrez-Medina, B., & Raizen, M.G. (2001). Observation of the quantum Zeno and anti-Zeno effects in an unstable system. *Physical Review Letters*, 87(4), 040402. https://doi.org/10.1103/PhysRevLett.87.040402
 1. Virzì, S., Avella, A., Piacentini, F., Gramegna, M., Opatrný, T., Kofman, A.G., Kurizki, G., Gherardini, S., Caruso, F., Degiovanni, I.P., & Genovese, M. (2022). Quantum Zeno and anti-Zeno probes of noise correlations in photon polarisation. *Physical Review Letters*, 129, 030401. https://doi.org/10.1103/PhysRevLett.129.030401
 1. Chaudhry, A.Z. (2017). The quantum Zeno and anti-Zeno effects with strong system-environment coupling. arXiv:1701.07283. https://doi.org/10.48550/arXiv.1701.07283
+1. Babcock, N.S., & Kattnig, D.R. (2021). Radical scavenging could answer the challenge posed by electron–electron dipolar interactions in the cryptochrome compass model. *JACS Au*, 1(11), 2033–2046. https://doi.org/10.1021/jacsau.1c00332
+1. Thilagam, A. (2013). Non-Markovianity during the quantum Zeno effect. *The Journal of Chemical Physics*, 138(17), 175102. https://doi.org/10.1063/1.4802785
 1. Denton, M.C.J., Smith, L.D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D.R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823. https://doi.org/10.1038/s41467-024-55124-x
 1. Georgiev, D.D. (2015). Monte Carlo simulation of quantum Zeno effect in the brain. *International Journal of Modern Physics B*, 29(7), 1550039. arXiv:1412.4741 — a decoherence-timescale critique of Stapp, not a sign objection
 1. Georgiev, D.D. (2015). No-go theorem for Stapp's quantum Zeno model of mind-brain interaction. *NeuroQuantology*, 13(2) — an entropy-based critique; the venue's editorial standing is weak and the citation should be read accordingly

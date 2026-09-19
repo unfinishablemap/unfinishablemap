@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T19:58:10+00:00'
+ai_modified: '2026-09-19T20:20:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-19'
-lastmod: 2026-09-19 19:58:10+00:00
+lastmod: 2026-09-19 20:20:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-19T20:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [sign-problem-for-conscious-observation](/concepts/sign-problem-for-conscious-observation/)
+- **Word count**: 2655 -> 2927 (+272; concepts soft 2500 / hard 3500, 572 headroom left)
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 2
+- **Enhancements made**: 4
+- **Selection**: driver-selected. 1 prior deep review (2026-08-17, the day after creation) and never named in any pessimistic review; one commit since (6723f97c, 2026-09-16 Horn 2 pricing refine) had never been seen by any lens, and that paragraph is where this pass found its principal defect.
+- **Borrowed-formalism verdict (checked first)**: **false alarm, with a clarity defect underneath**. The article claims no analogy to quantum Monte Carlo at any strength — no mention of QMC, sampling, oscillating weights or exponential cost, and no corpus article ties the two. It uses *sign* in the plain directional sense, and states its physics (Kofman-Kurizki measurement-regime literature) at the right strength: cited not re-derived, framework-internal, coherence-only. The undeclared collision with the established term of art was real and is now disclaimed in the lead.
+- **Critical (1) — the Horn 2 price multiplies a per-placement cost the article has not earned.** Locus: `tens of bits per placement, over some 10^13 placements per decision window`. A regular observation train specifies its interval *once*; the product form is licensed only if the crossover drifts across the window, which requires the neural bath correlation time the article itself concedes nobody has measured. Inflates a stated price by ~13 orders of magnitude, and a fully tenet-accepting reviewer would flag it. **Repair keeps the conclusion**: locating one crossover at ~2.5e-14 s inside a 300 ms window is log2(0.3/2.5e-14) ~= 43 bits against 10 bits/s x 0.3 s = 3 bits available, so the shortfall survives the concession by an order of magnitude without the multiplication. Installed as `That product is an upper bound rather than a settled price ... The shortfall survives the concession.`
+- **Critical (2) — orphan reference.** Stapp (2007), *Mindful Universe*, sat in References cited nowhere in the body. Anchored at `Stapp's discrete-observation framing (Stapp 2007)`, deliberately on the *framing* and not on the ~10^5 figure, which the article correctly sources to the corpus rather than to Stapp.
+- **Critical (3) — source/Map conflation.** `[[stapp-quantum-mind|Stapp's model]] already offers, as prediction 7` attributed to Stapp an item in the **Map's own** falsification list (`stapp-quantum-mind` L68 describes that set as the Map's falsifiability apparatus). Now `The Map's [[stapp-quantum-mind|reading of Stapp's model]] already offers, as prediction 7`.
+- **Medium (4) — terminological collision declared.** Added to the lead: `*Sign* here carries its plain sense ... unrelated to the numerical sign problem of quantum Monte Carlo, with which it shares only the word.`
+- **Medium (5) — DISCHARGES THE OPEN P3 at todo.md L1670** (the L49 anti-Zeno-in-biology absence claim). Replaced the one-query `weak evidence` sentence with the 2026-09-16 control-pair note's fuller variant: four indices, each first shown to retrieve the Zeno-side cryptochrome work, then the null reported against that control, with the two near-misses named and the note's unexamined-cells caveat carried through. Graded as a bounded null with stated scope, never as evidence for the stabilising side. **That task should be closed, not re-attempted.**
+- **Citation ledger (18 refs, 16 -> 18)**: Babcock & Kattnig 2021 *JACS Au* 1(11) 2033-2046 `10.1021/jacsau.1c00332` **real-correct** (Crossref fields printed) + body quote `resembles the quantum (anti-)Zeno effect` **verbatim** (Europe PMC PMC8611662 full-text XML, NFKC, `grep -F`, 1 hit at offset 31899, `Zeno` 7 hits as positive control); Thilagam 2013 *J. Chem. Phys.* 138(17) 175102 `10.1063/1.4802785` **real-correct** (Crossref) + `anti-Zeno-like` **verbatim** (arXiv:1304.3194v1 PDF -> pdftotext -> NFKC -> de-hyphenated; 2 hits, `anti-Zeno` 32 as control); Stapp 2012 `10.14704/nq.2012.10.4.619` and Stapp 2015 `10.14704/nq.2015.13.2.851` **real-correct** (added by the 2026-08-17 pass but absent from its table); Virzi 2022 and Kofman & Kurizki 2000 re-confirmed at Crossref; **Chaudhry 2017 result-direction leg passed** — arXiv abstract says `the effective decay rate does not depend linearly on the spectral density of the environment`, matching the article in content and direction. `find_superlative_claims`: **0**. Inline<->References cross-check: all 18 now anchored both ways.
+- **Engagement classification (editor-internal, not in the article)**: Empiricist — Mode One; the objection that produced Critical Issue 1 is internal to the Map's own arithmetic and was earned inside the framework. Quantum Skeptic, Many-Worlds Defender, Eliminative Materialist — Mode Three; all three disagree at the tenet boundary and the article already marks that honestly. No label leakage found or introduced.
+- **False alarms recorded** (in the review archive, so they are not re-derived): the QMC overclaim does not exist; `~10^5` vs `~1000` observations per 300 ms is a corpus divergence the article does not commit (it cites `timing-gap-problem` L71, which supports 3x10^5, and its 10^13 conclusion dwarfs both); `soft_warning` remains apparatus-driven; the Georgiev IJMPB 29(7)-vs-29(15) split is right here and wrong in `coupling-modes`.
+- **SIBLING NOT FIXED**: `apex/what-consciousness-tells-us-about-physics` **L190** carries the identical unhedged per-placement product and the same conclusion. `concepts/agency-budget` L85 is clean (per event, never multiplied). Single-article scope; recorded under Remaining Items, not minted.
+- **Cross-links**: `[[anti-zeno-effects-biology-control-pair-2026-08-16]]` added to Further Reading and `related_articles`, as the note's refine brief asked. No article-to-article links added: the wing-level P3 at todo.md L1352 explicitly excludes this file and defers `sign-problem` -> `multi-agent-born` as needing prose.
+- **Sync**: `scripts/sync.py` run; nine changed strings `grep -c -F` verified in both `obsidian/` and `hugo/content/`, and both new wikilinks verified resolving to real URLs in the Hugo tree.
+- **Output**: [deep-review-2026-09-19-sign-problem-for-conscious-observation](/reviews/deep-review-2026-09-19-sign-problem-for-conscious-observation/)
 
 ## 2026-09-19T19:58:10+00:00 - refine-draft
 - **Status**: Success
