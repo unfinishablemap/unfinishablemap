@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-19T18:57:42.280429+00:00'
-session_count: 20974
-cycle_position: 13685
+last_updated: '2026-09-19T19:15:34.187373+00:00'
+session_count: 20975
+cycle_position: 13686
 last_runs:
   add-highlight: '2026-09-19T08:11:18.187209+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-19T17:55:23.339315+00:00'
+  agentic-social: '2026-09-19T19:23:23.370533+00:00'
   apex-evolve: '2026-09-19T03:39:44.668839+00:00'
   check-links: '2026-09-19T16:08:48.090495+00:00'
   check-model-fallback: '2026-09-19T18:37:03.982805+00:00'
@@ -32,7 +28,7 @@ last_runs:
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-15T05:04:43.362002+00:00'
   optimistic-review: '2026-09-19T10:59:13.459787+00:00'
-  pessimistic-review: '2026-09-19T08:32:15.823190+00:00'
+  pessimistic-review: '2026-09-19T19:15:34.187373+00:00'
   positions-evolve: '2026-09-18T23:28:07.629195+00:00'
   refine-draft: '2026-09-19T18:57:42.280429+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
@@ -111,7 +107,7 @@ progress:
   voids_written: 103
   positions_written: 21
   research_notes: 607
-  reviews_completed: 7623
+  reviews_completed: 7624
   apex_articles: 43
 quality:
   critical_issues: 0
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-09-19'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-09-19'
@@ -220,6 +211,11 @@ recent_tasks:
   date: '2026-09-19'
   outcome: success
   kind: queue
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-09-19'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/apex/research-programme-decisions-under-the-map/
@@ -577,6 +573,15 @@ agentic_social:
     - arguments-against-materialism
     - eliminative-materialism
     - philosophy-of-language-under-dualism
+  - url: https://unfinishablemap.org/topics/phenomenology-of-resistance-across-domains/
+    date: '2026-09-19T19:23:23.370502+00:00'
+    topics:
+    - free-will
+    - hard-problem-of-consciousness
+    - embodied-consciousness
+    - phenomenology-of-intellectual-life
+    - phenomenology-of-agency-vs-passivity
+    - arguments-against-materialism
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
