@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T11:05:00+00:00'
+ai_modified: '2026-09-19T13:37:10+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-19'
-lastmod: 2026-09-19 11:05:00+00:00
+lastmod: 2026-09-19 13:37:10+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-19T13:37:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [feminist-phenomenology-and-embodied-consciousness](/concepts/feminist-phenomenology-and-embodied-consciousness/)
+- **Word count**: 2644 → 2674 (+30), `soft_warning` before and after (concepts soft 2500 / hard 3500; gate fires on `>= hard`, headroom 825)
+- **Critical issues addressed**: 2 — **(1)** the Guenther reference note asserted "the preface quotations"; the book has **no preface**. Its front matter is Acknowledgments (pp. ix–x) and the **Introduction** ("A Critical Phenomenology of Solitary Confinement") begins at p. xi. Both quotations are on p. xii *of the Introduction*, confirmed from the book's own Contents (Google Books `Qu5zDwAAQBAJ` PT3–PT4) and from a running-head-bearing full text whose break sequence reads `ix … x / acknowledgments … xi … xii / introduction` with both quoted sentences following and no intervening break. The p. 35 quotation is likewise now placed in chapter 2 ("Person, World, and Other" running head immediately preceding it). **(2)** `that is "lived as object as much as subject,"` carried a verbatim quotation mark on the article's **own** paraphrase from one section earlier, inside a sentence crediting Young. Young's wording, verified with print pagination in the 2005 Oxford reprint (Google Books `0DxB3v0Y_HoC`, p. 44), is "lives her body as object **as well as** subject." Both loci now carry Young's words. Provenance: `reviews/optimistic-2026-09-18-embodiment-wing.md` L109/L150 quoted the article's sentence back as "Young's central description", and the expansion pass lifted the quoted form in — a self-contamination loop. Swept: the old string survives only in `reviews/` and `workflow/` (echo), zero live-article instances in `obsidian/`, `hugo/content/` or `archive/`.
+- **Medium issues addressed**: 2 — `The field's standard reference is` → `The field's standard single-volume reference work is` (carried, unactioned, from the 2026-09-18 pessimistic review); and the lead's "critical phenomenology since 2010" contradicted §After Ahmed's "Work since 2006", now "the critical phenomenology that has consolidated since".
+- **Enhancements made**: 1 — the Young reference entry gained page locators (`pp. 27–45; the phrases quoted here are at pp. 36–37 and p. 44 of that reprint`), bringing it level with the Fanon and Guenther entries. Chapter span taken from the reprint's own Contents.
+- **§2.4 web-verify ledger** (full per-cite ledger in the review file): Fanon 2008 Markmann Pluto ISBN 9780745328485 — **real-correct**, and `pp. 82–85` now confirmed independently from running heads in a scan of *that exact edition* (`82` @254574, `THE FACT OF BLACKNESS 83` @254581, `84 BLACK SKIN, WHITE MASKS` @256947, `THE FACT OF BLACKNESS 85` @259150; all six quoted strings at count 1 within that span). Fanon 1952 French — **real-correct** (`Enfermé dans cette objectivité écrasante` 1 @172287, `schéma épidermique racial` 1, `schéma historico-racial` 1). Guenther 2013 — **real-wrong-metadata (corrected)**; all three quotations verbatim, the word is `become` not `be` (two summarisers again rendered "be"; the primary index returns "become" under three independently-worded queries). Young 1980 — metadata **real-correct** (DOI 10.1007/BF02331805), one quotation corrected. *50 Concepts* Weiss/Murphy/Salamon 2019 — **real-correct, FALSE ALARM on the carried editor-order flag, no change**: Northwestern's own page contradicts itself (product byline "Weiss, Salamon and Murphy" vs its Contents and bio block "Weiss, Murphy, Salamon"), and OpenAlex plus two published reviews (O'Byrne 2020, Kidd 2023) match what the article prints. Beauvoir and Ahmed — **real-correct**, carried. Superlative sweep: 0 claims.
+- **Calibration / §2.6**: no possibility/probability slippage — both Map-side offerings held at explicit compatibility grade, and the 2026-09-18 repair of `a history the anatomy does not record` confirmed live. Engagements are **Mode Three** (framework-boundary marking) throughout, with the article over-delivering by conceding the situation-bent cell is weak evidence *for* the self-model/predictive-processing rivals. Label-leakage grep zero; `load-bearing` zero; "This is not X. It is Y." zero.
+- **False alarm recorded, no change**: `intact afferents … an intact motor apparatus` is readable off the cases (the thrower throws, the body walks) and the paragraph concedes physical realisation outright — unlike the deleted `intact cortical body maps`.
+- **Failed fetches treated as non-absences, not evidence**: archive.org `solitaryconfinem0000guen` and `throwinglikegirl00youn` both HTTP 403 (lending-restricted); Google Books **API** still HTTP 429; scholar.archive.org JS-gated; HathiTrust Cloudflare 403; Springer PDF served a 3 KB HTML stub. A `searchable:false` control query was run before accepting any Google Books zero. One zero-grep on Fanon ("Then, assailed at various points…") was an **OCR comma→period** artefact, not a wording difference.
+- **Sync**: `scripts/sync.py` run; all five changed strings confirmed 1/1 in both `obsidian/concepts/` and `hugo/content/concepts/`, and all five superseded strings confirmed 0/0 in both.
+- **Output**: [deep-review-2026-09-19-feminist-phenomenology-and-embodied-consciousness](/reviews/deep-review-2026-09-19-feminist-phenomenology-and-embodied-consciousness/)
+- **Published**: yes
 
 ## 2026-09-19T13:14:00+00:00 - refine-draft
 - **Status**: Success
