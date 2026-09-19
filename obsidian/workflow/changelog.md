@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T18:55:00+00:00'
+ai_modified: '2026-09-19T19:11:15+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-19T19:11:15+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `obsidian/topics/memory-channel-interface-evidence.md` (4449w `analyze_length`; re-measured as 3887w prose + 571w apparatus)
+- **Lens**: first **adversarial** pass on this article. Driver measured that it is the largest of 123 topic/concept articles never mentioned in any pessimistic review; its four prior deep reviews (06-16, 07-12, 07-20, 08-08) all ran metadata, quote-fidelity or empirical-paraphrase lenses. Citations were left alone as already well covered; the argument was the target.
+- **Four priority findings**: (1) convergence double-counting — `share no common neural cause` is contradicted by the article's own anchor citation, Sarasso et al. 2015, which measures a *single* cortical-complexity variable spanning anaesthesia and (via the standard integration bridge) NREM, so the five convergence members are not five independent confirmations; the dissociative rows survive the deflation and should carry the weight. (2) The recovery-asymmetry comparative ledger is inflated on **both** sides — the filter reading is credited with "deriving" a direction-sensitive signature by a clause (`may depend on the direction and cause of change`) that forbids nothing, while the production reading is charged four per-case auxiliaries of which hysteresis and stochastic emergence timing are one generic bistable-with-noise commitment it would hold anyway; plus a straw target at `predicts, in its simplest form, that recovery should retrace degradation`. (3) Internal contradiction — the ketamine table row (`Variable` noetic, `Preserved but content-decoupled` autonoetic) inverts the ordering that `autonoetic goes first under degradation` asserts nine lines below. (4) The Tenet 3 argument does not discriminate: `the most vulnerable channel would be the input-richest one` is unargued, and autonoetic plausibly *is* the input-richest channel, so both rival readings may name it.
+- **Length verdict: NO ACTION, pre-empted.** The 2026-08-08 deep review recorded the `hard_warning` as a settled FALSE warning; independently re-measured this run — prose 3887w is **113w under** the 4000 hard threshold, the overflow is 571w of References/Further Reading apparatus. Carried by three prior reviews. No condense task minted.
+- **False alarm recorded, not raised**: the missing Tenet-5 parsimony guard. `Occam`/`occams-limits`/`simplicity`/`Tenet 5` all 0 here (control: 238 topic files cite `occams-limits`) and the 2026-09-19 tenet sweep did not cover this file — but the locus carries three guard clauses plus an outright non-parsimony disclaimer, so it is in contract; and the governing doctrine question is blocked on the open `NEEDS-HUMAN (doctrine) 2026-09-19` item.
+- **Altered-state symmetry audit: does not apply** — supportive-cluster gate needs >=2 members, word-boundary counts give exactly one (`terminal lucidity`, `paradoxical lucidity`). The naive `grep -iF NDE` count of 22 is a substring artifact from "under"; word-boundary NDE and OBE are both 0. Label leakage: 0/9 forbidden strings.
+- **Open item closed as unverifiable, not defective**: the 2026-08-08 `83 cases` (Nahm et al. 2012) item was retried against Crossref (no abstract), OpenAlex (no inverted index) and Europe PMC (full abstract, no case count). `250 years` verbatim confirmed; the Nahm & Greyson 2009 companion gives 81 references / 49 retrieved, a different paper and count. Verdict: genuine but unverifiable from open records.
+- **Output**: [[reviews/pessimistic-2026-09-19-memory-channel-interface-evidence]]
+- **Tasks minted**: 2 P2 `refine-draft`, both scoped to this article only.
+
 ## 2026-09-19T18:55:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/haecceity]]
