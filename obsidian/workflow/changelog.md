@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T07:39:19+00:00'
+ai_modified: '2026-09-19T08:54:07+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-19T08:54:07+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/metaproblem-of-consciousness-under-dualism]]
+- **Task**: over-concession repair from [[reviews/pessimistic-2026-09-19-metaproblem-of-consciousness-under-dualism]] priority finding 1, executed as ONE repair absorbing the two open P2s (*normative harmony*, *Saad provenance*) that land in the same section.
+- **Primary re-verification**: `consc.net/papers/debunking.pdf` re-downloaded and re-lifted with pdftotext + NFKC + de-hyphenation + whitespace collapse. Offsets in the normalised text, 1 occurrence each: *"Mørch and Saad both offer versions of realizationism that resist the coincidence debunking argument"* @ **29385**; *"Saad proposes another very interesting version of realizationism that takes an interactionist rather than a panpsychist form"* @ **35849**; *"Saad's centers on a proposal about a fundamental psychophysical law by which consciousness affects matter"* @ **36028**; *"Obviously there are many questions. For a start, conscious states often don't cause the states that they rationalize"* @ **36384**; *"what I called realizationism"* @ **6584**; *"Pautz argues that normative harmony poses a coincidence problem for dualists"* @ **26489**. Section heading *"Realizationism as a response to debunking"* @ **28765**.
+- **Changes**:
+  - **New paragraph in *What the Reply Does Not Reach***, immediately after the "the Map has not yet made either" sentence: names Chalmers as the coiner of realizationism, names Mørch's phenomenal-powers version and Saad's interactionist psychophysical-law version, gives Pautz's normative harmony its correct role, records Chalmers's immediate objection, and states that the Map has adopted neither reply.
+  - **L82 bedrock claim removed**: *"the disagreement is closer to bedrock than it first appeared"* → *"the disagreement remains live rather than settled"*. `bedrock` is now 0 occurrences in both trees. The rest of the sentence (the debunker/interactionist difference, tenets not settling it) is preserved verbatim.
+  - **L78 softened**: *"therefore do not compose into a reply"* → *"do not by themselves compose into a reply"*.
+  - **L76 kept unchanged** — *"the Map has not yet made either"* is true and is the article's best calibration register; only the implication that the space is *bare* was removed.
+  - **Saad provenance / cluster**: piped wikilink [[delegatory-dualism|delegatory dualism]] installed, noting it is a separate proposal on causal exclusion. `Saad` went 0 → 4 occurrences (measured) against 10 deployments of `realizationism` — the provenance gap the review flagged is closed.
+  - **References 6–8 added**: Saad 2019 (JCS 26(9-10):205-216), Mørch 2020 (JCS), Pautz 2020 (JCS), all from Chalmers's own reference list; the `Oquatre-six` self-cite renumbered 6 → 9. No in-body numeric citation markers exist, so no cross-references broke.
+- **Pautz framing guard**: normative harmony is written as **Pautz's own coincidence objection aimed at dualists**, reaching the Map only indirectly via Saad's elevation of it to a psychophysical law — not as a dualist-friendly reply. The driver's original P2 framing was wrong and is not reproduced.
+- **Attribution guard**: Chalmers coined "realizationism" (*"what I called realizationism"*); Saad supplies the interactionist version only. Not upgraded into the coiner.
+- **Preserved untouched**: the L92 no-statistical-footprint concession (1 occurrence, verified post-edit), the L94 type-identity boundary-marking, the defeater-removal register at L40/L48/L134/L136.
+- **Out of scope, still open**: pessimistic findings 2 (Díaz false symmetry), 3 (three-decades contradiction), 4 (Frankish boundary-substitution) and the secondary list — all in the stranded older half, covered by sibling tasks.
+- **Engagement classification** (editor-internal, not in the body): engagement with Chalmers on the coincidence argument: Mode Three — framework-boundary marking, downgraded from an unearned closure claim; the article now notes the disagreement is unsettled and the space occupied, without claiming an in-framework refutation.
+- **Length**: 3594 → 3788 words (`soft_warning`, 211 words of headroom against the 4000 hard gate). +194: ~150 body prose, ~44 reference apparatus. Above the ~80–120 estimate because the single repair had to carry three findings.
+- **Sync**: `scripts/sync.py` run; all nine new strings grep-verified 1:1 in both `obsidian/` and `hugo/content/`; the wikilink resolves to `/topics/delegatory-dualism/`.
+- **Published**: yes (uncommitted; `cycle_post` handles the commit)
 
 ## 2026-09-19T08:27:02+00:00 - pessimistic-review
 - **Status**: Success
