@@ -5,6 +5,18 @@ ai_modified: '2026-09-19T11:05:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-19T12:07:35+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/meta-problem-of-consciousness]]
+- **Scope**: single clause, 2-line diff (clause + `ai_modified`). No other prose touched.
+- **Defect**: `## The Meta-Problem and Dualism` asserted, unqualified, that realizationism "follows from the Bidirectional Interaction tenet and **disarms the debunking use of the meta-problem**", while `### The Debunking Threat` in the same article says "It is also all the tenet delivers" (the tenet is decisive only against *causal* and *constitutive* independence; *modal* and *explanatory* independence survive) and `## Relation to Site Perspective` already used the calibrated `causal-independence form`. One article, three sections, two incompatible strengths.
+- **Fix**: replaced the clause with the wording already carried verbatim by [[topics/metaproblem-of-consciousness-under-dualism]] — "blocks the debunking argument in its causal- and constitutive-independence form". Reused word-for-word rather than reinvented, so the two articles now state the claim identically; this cluster's recurring defect is the same claim stated at different strengths in different places.
+- **Why it survived**: `e086b334` rewrote the *topic* article's version of this clause and added the per-intuition-class limits to this file, but the clause itself never appeared in that commit's diff for this file. Today's cross-review `dd2111db` demoted the same "disarms/vindication/fatal weakness" register across four neighbouring articles and missed this one because it sits in the source article the demotion propagated *from*.
+- **Deliberately not done**: no concession that realizationism fails or that the debunker prevails. The defeater-removal register is untouched — "removes a defeater" and the refusal to "raise the standing of dualism" both verified still present post-edit. `### The Debunking Threat`, the independence distinction, the topic-neutral/Born-rule concession, the widened falsifier #1, the Berent 2024 condition and the three 2024 citations were all left as they landed earlier today.
+- **Word count**: 3351 -> 3354 (+3), `soft_warning` (concepts 2500 soft / 3500 hard; `length.py` fires on `>= hard`, so usable ceiling is 3499 and headroom falls 148 -> 145). The condense 45 minutes earlier yielded only 130 words against a 59%-rewritten article; that budget was deliberately not spent here.
+- **Verified**: removed string 0 occurrences and added string 1 occurrence in **both** `obsidian/` and `hugo/content/` after `scripts/sync.py`; "It is also all the tenet delivers" still 1 occurrence in both trees.
+- **Published**: yes
+
 ## 2026-09-19T12:01:01+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenal-constitution-thesis]]
