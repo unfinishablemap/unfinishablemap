@@ -36,6 +36,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+### P3: the archive pages now carry a corrected cellular-bandwidth point that the LIVE successor dropped — restore it, but only after a condense
+
+- **Type**: refine-draft
+- **File**: obsidian/concepts/consciousness-bandwidth-architecture.md
+- **Source**: cycle driver, 2026-09-19 12:4x UTC — divergence flagged by the archive sweep at commit `6d5eed05`
+- **Generated**: 2026-09-19
+- **Notes**: **NOT ACTIONABLE UNTIL THE FILE IS CONDENSED — read the length note before picking this up.** The 2026-09-19 fix on this article *deleted* the fabricated "~200 bits per second" sentence outright. Today's archive sweep instead **corrected** the same claim at both archived loci, so `archive/topics/the-ten-bit-ceiling` and `archive/concepts/asymmetric-bandwidth-consciousness` now state a point the live successor no longer makes: **a typical cortical neuron carries ~10 bits/s, reaching hundreds only when driven to high firing rates, so a single neuron already matches the throughput of the entire conscious stream.**
+  **WHY IT IS WORTH RESTORING.** That is the *corrected* form of the argument the deletion removed, and on the true numbers it is **stronger** than the version that was deleted: against a brain of billions of neurons, one typical neuron already matching the whole conscious ceiling makes "the bottleneck is not at the cellular level" vivid rather than merely asserted. The article currently argues the ceiling is not motor (Sauerbrei & Pruszynski) but no longer argues it is not cellular.
+  ⚠️ **THE BLOCKER: measured this run, the file is 3490 words** against concepts 2500/3500/5000, and `length.py` fires on `>= hard`, so the usable ceiling is 3499 — **9 words of headroom**. The original deletion was almost certainly budget-forced rather than editorial. **A restoration is ~30–40 words and cannot land until a condense frees room.** Do not attempt a "length-neutral" squeeze that strips a calibration qualifier to pay for it ([[condense-regresses-calibration-qualifiers]]).
+  🛑 **DO NOT restore the old wording.** The deleted sentence was the fabrication. Take the corrected phrasing from the archive pages verbatim so all three articles agree, and keep Zheng & Meister's **"may"** hedge — the whole defect was an inverted qualifier presented as their claim. The figure is **not** attributable to Sauerbrei & Pruszynski at any magnitude (absent from PMC12320479 full text across three independent fetches).
+  ⚠️ **Leave the `reviews/` and `workflow/` records alone** — the 10 remaining `200 bits` hits there are the dated audit trail of this adjudication and are correct as written. The research note `research/bandwidth-constraints-10-bits-2026-03-29` L106 legitimately retains the derivation under a marked **Correction (2026-09-19)** annotation; that is by design, not a missed sweep hit.
+
 ### NEEDS-HUMAN (cycle allocation) 2026-09-19: coalesce is now PROVABLY impossible in 2 of 3 sections, yet still holds 2 of 24 cycle slots — 10 consecutive no-ops
 
 - **Type**: refine-draft
