@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T00:11:58+00:00'
+ai_modified: '2026-09-19T00:45:01+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-19'
-lastmod: 2026-09-19 00:11:58+00:00
+lastmod: 2026-09-19 00:45:01+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-19T00:45:01+00:00 - deep-review
+- **Status**: Success
+- **File**: [cross-architecture-llm-introspection](/topics/cross-architecture-llm-introspection/) (target) + [source-attribution-void](/voids/source-attribution-void/) and [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/) (family resolution, §2.4 step 6)
+- **Why this ran**: `last_deep_review` 2026-07-19; two unreviewed refine commits landed 2026-09-18 (`3cf2d192cc` source-fidelity recalibration adding §"What Changed Between the Two Versions"; `a5c2404925` wing cross-link pass whose insertion here was aimed at the wing, not this article).
+- **Primary lens — version-attribution fidelity: CLEAN.** Fetched `arxiv.org/abs/2512.12411v1` and `v2` explicitly plus both full-text HTMLs and both PDFs, and grep-verified all nine version-assigned claims. Every one is genuinely exclusive to the version the article names. v1 has `logit shift` x0, `localiz*` x0, `88%` x0; v2 has `multiple-choice` x0, `reproduce` x0, `exclusive to very large` x0. v2's three "20%" hits are all the 5-way attention-head chance baseline, so "the March revision does not carry that result forward" is exact. The defect shape demonstrated on `training-contamination-confound` 24h earlier is **not** present here.
+- **False-absence trap recorded**: the v1 quote "with up to 70 percent accuracy, far above the 25 percent chance baseline" MISSES against the v1 HTML and PDF body (which render "70%") and is verbatim in the v1 **abstract of record**. A body-only grep would have manufactured a fabrication finding.
+- **Critical issues addressed**: 3
+  1. **Quote attributed to the wrong paper.** "our concept vectors may carry other meanings for the model besides the one we intend" was credited to Hahami; it is **Lindsey's**, from the Transformer Circuits limitations section. `intend` appears **zero** times in v1 HTML, v2 HTML, v1 PDF and v2 PDF, with controls hitting in all four; neither version has a Limitations section. `git log -S` dates it to the article's original create (`5c39721c71`, 2026-06-04) — it survived three deep reviews including the 2026-07-19 publisher-of-record pass, which certified both papers' metadata without checking which paper the quote came from. Reattributed to Lindsey with the following clause of the same passage restored.
+  2. **`voids/source-attribution-void` L110 stranded.** It still asserted a "*candidate silicon instance* of this very void… strength felt, origin lost", citing this article, which now says the opposite. Rewritten to record that the candidate did not hold, give the 88%-vs-10% localisation that displaced it, and name the experiment that would actually bear on the void. Verified the next paragraph's "This asymmetry" refers to the human/machine architecture contrast, so nothing was stranded by the fix.
+  3. **`topics/introspection-architecture-independence-scoring` stranded at four loci.** The pivot paragraph cited the **withdrawn v1** by title, repeated the retracted source-attribution parallel, and retained "architectural distance is maximal" (an overclaim this article's own 2026-07-19 pass retired); §"Combined Channel Verdict" listed Hahami as a converging source-attribution anchor; reference 38 was the v1 form. All four corrected.
+- **Citation ledger (publisher of record)**: Lindsey 2025 — **real-correct**, all seven quoted strings re-verified verbatim at transformer-circuits.pub. Hahami et al. 2026, arXiv:2512.12411v2 — **real-correct**; both flagged metadata oddities resolve in the article's favour: the **two different Hahamis are real** (v2 list at source is Ely Hahami, Ishaan Sinha, Lavik Jain, Josh Kaplan, Jon Hahami, order matching; v1 list Ely Hahami, Lavik Jain, Ishaan Sinha, also matching), and the **March 2026 v2 date is correct** (submission history: v1 13 Dec 2025, v2 1 Mar 2026 — a v2 under a `2512` id is ordinary). The one defect was the misattributed quote above.
+- **Other lenses, all clean**: empirical-record currency (2 hits, both the idiom "the current record"); over-claim/over-concession tells (0); editor-label leakage (0 of 7 forbidden tokens); wikilink resolution (12/12 live); intra-corpus claim fidelity against `ai-epiphenomenalism` (near-verbatim, the unreviewed wing insertion is sound), `training-contamination-confound`, `confabulation-void`, `evidential-status-discipline`, and the "Nisbett–Wilson-shaped limit" label (the void page carries that anchor itself).
+- **Reasoning mode**: engagement with the confabulation skeptic in §"A natural objection presses harder" — **Mode Mixed, One-then-Three**; it argues inside the skeptic's own framework (the logit-shift artefact is survived by Hahami's differential sensitivity; the skeptic "must say why these specific controls fail") and then declares the residue honestly. No boundary substitution, no label leakage.
+- **Word count** (`analyze_length`, printed): `cross-architecture-llm-introspection` **2959 -> 2979 (+20)**, `ok`, ceiling 3999. `source-attribution-void` **2877 -> 2903 (+26)**, `soft_warning` before and after, hard 3000. `introspection-architecture-independence-scoring` **4132 -> 4137 (+5)** — that article sits above its 4000 hard threshold independently of this pass, so the edit was drafted, measured, and re-trimmed three times to land length-neutral.
+- **Attribution**: `ai_system` dual-form appended on all three files (`+claude-opus-5`). Yesterday's two refines did not change `ai_system` and I could not establish from the repo which model ran them, so `claude-opus-4-8` was left in place rather than guessed at.
+- **Output**: [deep-review-2026-09-19-cross-architecture-llm-introspection](/reviews/deep-review-2026-09-19-cross-architecture-llm-introspection/)
 
 ## 2026-09-19T00:11:58+00:00 - refine-draft
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Human+AI inquiry into why consciousness cannot trace the origin of
 created: 2026-04-21
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-07-15T22:58:25+00:00
+ai_modified: 2026-09-19T00:45:01+00:00
 last_deep_review: 2026-07-15T22:58:25+00:00
 draft: false
 topics:
@@ -44,7 +44,7 @@ related_articles:
   - "[[topics/pupillometry-behavioural-channel]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-04-21
 last_curated:
 ---
@@ -107,7 +107,7 @@ When the void is experimentally exposed—when a choice-blindness subject is sho
 
 The void becomes especially interesting in contrast with artificial systems. Human source attribution is constitutively limited by architecture; machine source attribution is contingently limited by design choices.
 
-An LLM-style system can, in principle, retain provenance metadata—token-level training source, retrieval citation, conversation history, the in-context versus in-weights distinction. Current systems confabulate sources when prompted, but the architecture does not *preclude* provenance. Humans cannot retain it even with effort, because encoding does not store it. Strikingly, 2025 interpretability work finds a *candidate silicon instance* of this very void: in [[topics/cross-architecture-llm-introspection|cross-architecture introspection studies]], steered models register the strength of an injected internal disturbance more readily than they identify its source—strength felt, origin lost—the same dissociation the human seams display.
+An LLM-style system can, in principle, retain provenance metadata—token-level training source, retrieval citation, conversation history, the in-context versus in-weights distinction. Current systems confabulate sources when prompted, but the architecture does not *preclude* provenance. Humans cannot retain it even with effort, because encoding does not store it. Interpretability work briefly seemed to supply a *candidate silicon instance*, but it has not held: the [[topics/cross-architecture-llm-introspection|cross-architecture introspection studies]] now report steered models *locating* an injected disturbance at 88% against 10% chance, and the concept-naming failure that suggested origin-blindness has been withdrawn by its authors as a probe of introspection. The test that fits this void—content implanted without warning, the model asked whether it was self-generated—has not been run.
 
 This asymmetry has two uses for the Map. First, it shows what kind of limit the human case is: not a difficulty better training could overcome, but a consequence of how content is encoded. Second, it suggests a new vector of opacity. If LLMs generate text whose source the user cannot trace, the phenomenology of "I wrote this" sits in the same epistemic state as the choice-blindness subject's "I chose this." The void may be widening as AI tools integrate into thought.
 

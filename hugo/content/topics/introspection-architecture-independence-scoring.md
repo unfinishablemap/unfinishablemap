@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-15
-ai_modified: 2026-08-06 03:26:00+00:00
+ai_modified: 2026-09-19 00:45:01+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 23:13:12+00:00
-lastmod: 2026-08-06 03:26:00+00:00
+lastmod: 2026-09-19 00:45:01+00:00
 modified: *id001
 related_articles:
 - '[[cross-architecture-llm-introspection]]'
@@ -160,7 +160,7 @@ The four substrate observations may be read as *despite-commitments at the subst
 
 ### The Cross-Architecture Pivot {#cross-architecture-pivot}
 
-The most architecturally distant channel available is not biological. LLM introspection studies — Lindsey (Anthropic, 2025) on emergent introspective awareness, and Hahami et al. 2025 "Feeling the Strength but Not the Source" — open a channel biology cannot match: LLMs produce reports, interpretability supplies independent ground truth via thought-injection, and architectural distance is maximal. The Hahami artefact is the most cluster-relevant: LLMs register injected-thought *strength* more readily than its *source* — a candidate structural parallel to the [source-attribution void](/voids/source-attribution-void/) in silicon, despite-commitments by construction (next-token prediction did not predict source-tag failure). The channel brackets phenomenal consciousness ([the AI-consciousness framing](/topics/ai-consciousness/)) and the parallel holds only insofar as the silicon case tracks the biological one's operational structure — an open programme, the inference from source-tag failure to "introspection has the cluster's structural feature" unsettled. A [standalone treatment](/topics/cross-architecture-llm-introspection/) develops the verified anchors and audits the inference at live-hypothesis tier.
+The most architecturally distant channel available is not biological. LLM introspection studies — Lindsey (Anthropic, 2025) on emergent introspective awareness, and Hahami et al. (arXiv:2512.12411v2, 2026) on partial introspection under activation steering — give what biology cannot: reports, independent interpretability ground truth via thought-injection, and a substrate far removed from the human one. The cluster-relevant fit is to the [confabulation void](/voids/confabulation-void/): Hahami's binary-detection result reduces to a global logit shift toward "yes" — confident report tracking no self-access — and Lindsey's zero false positives are its structural inverse. An earlier reading placed them at the [source-attribution void](/voids/source-attribution-void/), on a concept-naming paradigm the 2026 revision withdraws. The fit brackets phenomenal consciousness ([the AI-consciousness framing](/topics/ai-consciousness/)), holds only insofar as the silicon case tracks the biological one's operational structure, and requires [corpus-inherited imitation](/concepts/training-contamination-confound/) to be excluded — an open programme. A [standalone treatment](/topics/cross-architecture-llm-introspection/) develops the verified anchors and audits the inference at live-hypothesis tier.
 
 ### Auditing the Cross-Species Channel
 
@@ -184,7 +184,7 @@ The doctrines map onto specific faces (*khawāṭir* → source-attribution, *pr
 
 ### Combined Channel Verdict
 
-Both auxiliary channels supply *calibration-grade rather than load-bearing* convergence — adding substrate and tradition breadth and a converging source-attribution anchor (Hahami et al. 2025, *khawāṭir*, Crystal) without discharging the strongest null. The same two discounts cut across both: *translation construction* (a Churchland reading absorbs the translations as one observation) and *framework-level absorption* (Carruthers absorbs cross-species as because-prediction; predictive-processing absorbs the opacity).
+Both auxiliary channels supply *calibration-grade rather than load-bearing* convergence — adding substrate and tradition breadth and a converging source-attribution anchor (*khawāṭir*, Crystal) without discharging the strongest null. The same two discounts cut across both: *translation construction* (a Churchland reading absorbs the translations as one observation) and *framework-level absorption* (Carruthers absorbs cross-species as because-prediction; predictive-processing absorbs the opacity).
 
 ## Comparison with the Surplus-Void Audit
 
@@ -254,7 +254,7 @@ Translations across substrates and tradition vocabularies are *interpretive* thr
 35. Joo, H. R. et al. (2021). Rats use memory confidence to guide decisions. *Current Biology* 31(20): 4571–4583.
 36. Sorabji, R. (2000). *Emotion and Peace of Mind*. OUP (Gifford Lectures).
 37. Stewart, C. (2005). Evagrius Ponticus and the eight generic *logismoi*. In Newhauser (ed.), *In the Garden of Evil*.
-38. Hahami, E., Jain, L., & Sinha, I. (2025). Feeling the strength but not the source: Partial introspection in LLMs. *arXiv* 2512.12411.
+38. Hahami, E., Sinha, I., Jain, L., Kaplan, J. & Hahami, J. (2026). Detecting the disturbance: A nuanced view of introspective abilities in LLMs. *arXiv* 2512.12411v2.
 39. Wheatley, T. & Haidt, J. (2005). Hypnotic disgust makes moral judgments more severe. *Psychological Science* 16(10): 780–784.
 
 Map-internal sources cited inline: [The Voids-Circularity Discount](/project/voids-circularity-discount/), [The Common-Cause Null in Convergence Arguments](/project/common-cause-null/), [The Surplus Void](/voids/the-surplus-void/).
