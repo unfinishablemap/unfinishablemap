@@ -4,7 +4,7 @@ description: "Bradford Saad's unified mechanism for mental causation: experience
 created: 2026-02-15
 modified: 2026-09-18
 human_modified: null
-ai_modified: 2026-09-18T17:11:42+00:00
+ai_modified: 2026-09-19T23:52:45+00:00
 last_deep_review: 2026-07-18T08:36:00+00:00
 draft: false
 topics:
@@ -60,7 +60,7 @@ Delegatory causation escapes both horns by reclassifying the physical cause as *
 
 Preemption is a causal structure in which one sufficient cause renders another sufficient cause idle, so that only the first does the actual causal work. Unlike overdetermination—where two sufficient causes both contribute to the same effect—preemption involves one cause *operating* while the backup is *sidelined*.
 
-Philosophers distinguish three varieties by *how* the backup is sidelined. In **early preemption**, the backup is physically cut off before completing its process. In **late preemption**, the backup completes but arrives after the effect has already occurred. In **[[trumping-preemption]]**—Jonathan Schaffer's (2000) fourth species—both processes run to completion, yet a higher-order rule selects one as authoritative. Schaffer's military variant: a major and a sergeant simultaneously shout "Advance!"; the troops advance because of the major's command, since rank settles authority when orders coincide. The backup is not prevented or beaten temporally; it is simply not the authoritative cause.
+Philosophers distinguish three varieties by *how* the backup is sidelined. In **early preemption**, the backup is physically cut off before completing its process. In **late preemption**, the backup completes but arrives after the effect has already occurred. In **[[trumping-preemption]]**—Jonathan Schaffer's (2000) fourth species—both processes run to completion, yet a higher-order rule selects one as authoritative. Schaffer's military variant: a major and a sergeant simultaneously shout "Charge!"; the corporal charges because of the major's command, since rank settles authority when orders coincide. The backup is not prevented or beaten temporally; it is simply not the authoritative cause.
 
 Trumping is the variety delegatory causation invokes. Its distinctive contribution—the conceptual move Saad's mechanism exploits—is that it separates two questions standard accounts fuse: whether a process could have produced the effect on its own (sufficiency), and whether it is *the* cause (authority). The [[trumping-preemption]] article treats the broader philosophical debate—Lewis's influence response, Bernstein's reductive critique, Hitchcock's contrastive framework—which the Map does not need to settle here.
 

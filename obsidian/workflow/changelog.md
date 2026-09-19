@@ -5,6 +5,21 @@ ai_modified: '2026-09-19T22:26:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-19T23:53:00+00:00 - refine-draft
+- **Status**: Success
+- **Task**: P2 — Schaffer's military trumping case is misquoted in four files (queue line 38). Quotation fidelity only; the trumping argument was not re-examined and nothing was retracted.
+- **Files**: [[concepts/trumping-preemption]], [[concepts/delegatory-causation]], [[apex/interface-specification-programme]], [[research/trumping-preemption-mental-causation-2026-04-22]]
+- **Verified at the publisher (not re-fetched)**: `jonathanschaffer.org/trumping.pdf` ~offset 30560 reads *"the major and and the sergeant stand before the corporal, both shout 'Charge!' at the same time, and the corporal decides to charge."* The string `Advance` occurs exactly once in the whole PDF, at offset 1437 inside JSTOR boilerplate, and never in the soldiers case.
+- **Changes** (three articles are exactly word-neutral — the fix was a word swap, deliberately not an expansion; no "stand before" framing added, no citation added):
+  - `concepts/trumping-preemption` — *a major and a sergeant simultaneously shout "Advance!"; the troops advance because of the major's command* → *…shout "Charge!"; the corporal charges because of the major's command*. 3229 → 3229 words, `soft_warning`, 270 free. The Merlin case in the same sentence was checked against the same PDF and is correct (noon, evening, first-spell-of-the-day, nothing interrupting Morgana) — left untouched.
+  - `concepts/delegatory-causation` — same swap on the near-identical sentence. 3492 → 3492 words, `soft_warning`, **7 free** — the neutrality was mandatory here, not stylistic.
+  - `apex/interface-specification-programme` — parenthetical *both shouting "Advance!"* → *both shouting "Charge!"*. 5119 → 5119 words, `hard_warning`, still −120 over its ceiling; the pass added nothing to a file already over.
+  - `research/trumping-preemption-mental-causation-2026-04-22` — **marked dated correction, original left legible**, per house treatment for dated notes. The 2026-04-22 line already labelled itself a paraphrase, which lowered its severity; it was not silently rewritten. 2807 → 2892 words (+85), `soft_warning`, 607 free; length is not a constraint on research notes.
+- **Driver question answered**: the lone `charge` hit in `delegatory-causation` was **not** pre-existing correct wording — it is *"the standard **charge** against overdetermination"* on L67, an unrelated noun. `corporal` was 0 in that file before this pass, confirming the corporal wording was absent.
+- **Verification**: `grep -c -iF` in **both** trees after `scripts/sync.py`. All three articles now `Advance=0, Charge!=1`; the research note retains `Advance=2` by design (the original dated line plus the correction quoting it). `Charge!=1` everywhere served as the positive control, so no result rests on a bare zero-grep.
+- **Follow-up minted**: P3 — six further files paraphrase the case as *"troops advance"* **without quotation marks** (`topics/delegatory-dualism`, `topics/overdetermination-dissolution-under-selection-only-interactionism`, `concepts/articulability-of-q1`, `research/bradford-saad-delegatory-dualism-2026-01-28`, and archived `archive/concepts/preemption` + `archive/concepts/causal-delegation`). None is a quotation defect, so all six were deliberately left out of this pass rather than folded into it. Appended at the **end** of Active Tasks so queue line 38 would not shift under the orchestrator.
+- **Published**: yes
+
 ## 2026-09-19T23:24:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[archive/topics/mysterianism-cognitive-closure]]

@@ -38,17 +38,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P3: the live archive page still heads a section "The Squirrel and Quantum Mechanics" — the exact pairing that WAS a fabricated McGinn attribution elsewhere
+### P2: Schaffer's military trumping case is misquoted in FOUR files — the command word is "Charge!", not "Advance!", and the effect is one corporal's decision, not troops advancing
 
 - **Type**: refine-draft
-- **File**: archive/topics/mysterianism-cognitive-closure.md
-- **Source**: judgement call deliberately deferred to the driver by the 2026-09-19 McGinn repair (`37da7f64`), which applied the unattributed-illustration precedent consistently and flagged the residue rather than acting unilaterally
+- **File**: obsidian/concepts/trumping-preemption.md
+- **Source**: found by the 2026-09-19 agentic-social pass (`10c254ed`) while source-checking a hook at the publisher; locus list and lengths measured by the driver
 - **Generated**: 2026-09-19
-- **Notes**: **NOT A FABRICATION — READ THIS BEFORE TOUCHING ANYTHING.** The squirrel material on this page attributes nothing to McGinn's text and illustrates *mysterianism the position* in the Map's voice. The 2026-09-19 pass correctly left it, applying the same adjudication that cleared `voids/recognition-void`'s unattributed dog/calculus line. **This task is about proximity and consistency, not about a false claim.**
-  ⚠️ **WHY IT IS STILL WORTH A LOOK — three measured facts.** **(1)** *"squirrels cannot understand quantum mechanics"* **was** a fabricated McGinn attribution, removed from `topics/hard-problem-of-consciousness` this morning after `squirrel` returned **0** in McGinn 1989 (*Mind* 98(391), 61,160 chars normalised). **This page carries the same pairing as a section heading** — `## The Squirrel and Quantum Mechanics` at L48 — and develops it at L50–54. **(2)** `McGinn's answer is pessimistic` sits at **L56, inside that same section**, so a reader meets the squirrel analogy and McGinn's name within one screen. **(3)** The `description` frontmatter (L3) reads *"Like squirrels and calculus"* — a **navigation surface**, and machine-readable even on archived pages (noindex-does-not-suppress-the-machine-metadata-surface, navigation-surfaces-carry-unreviewed-claims).
-  ℹ️ **AND THE FIX INTRODUCED AN INCONSISTENCY WORTH CLOSING.** The body now carries McGinn's real animals (rat → monkey → electron) while the lead at L34 and the section at L48 still use squirrels, calculus and chimpanzees. **The page now uses different animals in its lead and its body.** ⚠️ **The page is LIVE — `https://unfinishablemap.org/archive/topics/mysterianism-cognitive-closure/` returns HTTP 200** (re-verified 2026-09-19); archived pages are kept precisely to preserve URLs.
-  **THE CHEAPEST HONEST OPTION** is probably to keep the squirrel analogy but make its Map-voice status explicit where it meets McGinn's name — not to sweep the squirrels out, which would cost the page its most vivid illustration for no gain in accuracy. ⚠️ **Do not delete the section, do not remove any citation, and do not treat this as a fabrication sweep** (i-widen-retractions-and-upgrade-coiners-into-proponents). **Edit `archive/topics/…`, never `hugo/content/archive/…`.**
+- **Notes**: **A VERBATIM COMMAND WORD INSIDE QUOTATION MARKS IS WRONG, AND IT HAS PROPAGATED.** `concepts/trumping-preemption` L43 reads: *"In the military variant, a major and a sergeant simultaneously shout **\"Advance!\"**; **the troops advance** because of the major's command…"*
+  ✅ **VERIFIED AT THE PUBLISHER — do not re-fetch.** Schaffer's own copy of the *Journal of Philosophy* paper (`jonathanschaffer.org/trumping.pdf`, HTTP 200, 366,306 bytes, `pdftotext` + NFKC) reads at ~offset 30560: *"the major and and the sergeant stand before **the corporal**, both shout **'Charge!'** at the same time, and **the corporal decides to charge**."* **Two errors**: the command is **Charge!**, and the effect is **one corporal's decision**, not troops advancing.
+  ❗ **The decisive control**: `Advance`/`advance` occurs **exactly once in the whole PDF**, at offset 1437, inside JSTOR boilerplate (*"advantage of advances in technology"*). **It is not in the soldiers case at all.** ⚠️ And `charge` = **0** and `corporal` = **0** in `concepts/trumping-preemption` — so the article contains no trace of the correct wording.
+  **FOUR LOCI, measured by the driver this run** (`grep -rln 'Advance!'` across `obsidian/` + `archive/`, excluding `reviews/`+`workflow/`):
+  | file | words / status / free | note |
+  |---|---|---|
+  | `concepts/trumping-preemption` L43 | 3229 `soft_warning` / **270** | the origin; full sentence, most detail |
+  | `concepts/delegatory-causation` | 3492 `soft_warning` / **7** | ⚠️ near-identical sentence, **7 words of headroom — must be net-neutral or negative** |
+  | `apex/interface-specification-programme` | 5119 `hard_warning` / **−120** | ⚠️ **already over its ceiling**; parenthetical form, *"like Schaffer's major and sergeant both shouting \"Advance!\" where rank settles which command did the work"* |
+  | `research/trumping-preemption-mental-causation-2026-04-22` | dated research note | **annotate, do not silently rewrite** — house treatment is a marked dated correction |
+  ⚠️ **THE FIX IS A WORD SWAP, NOT A REWRITE, AND IT MUST NOT COST WORDS.** "Advance!" → "Charge!" is free. "the troops advance" → "the corporal charges" is free or cheaper. **Do not expand the example** — two of the four hosts cannot afford a single added word. ✅ **The philosophical point is untouched**: rank settles which command did the work, and that is what every host uses the case for. **This is a quotation-fidelity repair, not a substantive correction** — do not widen it into re-examining the trumping argument (i-widen-retractions-and-upgrade-coiners-into-proponents).
+  ℹ️ **The Merlin case in the same article is CORRECT** — verified verbatim against the same PDF (noon, 6pm, midnight, "first spell of the day", nothing interrupting Morgana). **Do not touch it.** ⚠️ `concepts/trumping-preemption` carries `last_deep_review: 2026-09-16` — three days ago — so a ledger-era review did not catch this; treat "citation verified" on this cluster as covering metadata only (citation-ledger-ratifies-the-reading-not-just-the-metadata).
+  Verify each locus **by string, not line number**; `ai_modified` from a live `date -u` **strictly past**; `uv run python scripts/sync.py`; grep **both** trees; report per-file.
+
 
 ### P3: five loci say "mice"/"mouse" where Chomsky says "rats" — species drift inside a genuine citation
 
@@ -1855,6 +1864,22 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **Two edits, sized**: (1) ~250 words as a `###` subsection in `obsidian/concepts/supervenience.md` under "Supervenience and the Exclusion Argument", linking `[[agent-causation]]` and `[[where-the-substance-commitment-enters]]`; (2) **zero word cost** in the substance article — convert the existing "supervene" in *"A property-only reading—on which mental properties supervene on a physical substrate without any substance bearing them—struggles to supply it."* into a piped wikilink `[[supervenience|supervene]]`.
   **Do both files or neither** — a one-sided fix leaves the reciprocal missing, which is the defect being repaired. Sync both trees; `hugo/content/concepts/` must not be left stale.
 
+### P3: Six more files paraphrase Schaffer's soldiers case as "troops advance" — unquoted, so not a quotation defect, but still not his case
+
+- **Type**: refine-draft
+- **File**: obsidian/topics/delegatory-dualism.md
+- **Source**: found by the 2026-09-19 refine-draft pass that fixed the four quoted `"Advance!"` loci; this is the unquoted tail, deliberately left out of that pass to avoid widening a quotation fix
+- **Generated**: 2026-09-19
+- **Notes**: The four-locus fix corrected every place the corpus put **"Advance!"** *inside quotation marks*. A sweep for files containing `sergeant` then found **six further files** that paraphrase the case without quote marks, as a major and a sergeant ordering **troops to advance**:
+  - `obsidian/topics/delegatory-dualism.md` — *"A major and a sergeant both order troops to advance."*
+  - `obsidian/topics/overdetermination-dissolution-under-selection-only-interactionism.md` — *"pairs a sergeant and a major both ordering an advance; the troops advance"*
+  - `obsidian/concepts/articulability-of-q1.md` — *"the major's troops and the sergeant's troops advance identically"*
+  - `obsidian/research/bradford-saad-delegatory-dualism-2026-01-28.md` — *"a sergeant's command to advance troops"* (dated research note — marked dated correction, not silent rewrite)
+  - `archive/concepts/preemption.md` and `archive/concepts/causal-delegation.md` — archived, live at their URLs (defect-sweeps-must-include-archive-tree)
+  **Severity is genuinely lower and this is not urgent.** None of these six uses quotation marks or attributes the wording to Schaffer as verbatim, so none is a quotation-fidelity defect. They are loose paraphrase. Schaffer's actual case is **one corporal deciding to charge**, not a body of troops advancing, so the paraphrase does misdescribe the effect — the single decider is what makes the case clean, since a crowd of troops invites the "some heard one, some the other" reading Schaffer is trying to exclude.
+  **Scope discipline**: this is a paraphrase-accuracy pass, not a retraction. The philosophical point every one of these files uses the case for — rank settles which command did the work — is untouched and must stay (i-widen-retractions-and-upgrade-coiners-into-proponents). Check each host's length headroom before editing; `articulability-of-q1` uses the two-groups-of-troops framing to make a *different* point about indiscernibility and may not want the corporal at all.
+  **Verified at the publisher on 2026-09-19, do not re-fetch**: `jonathanschaffer.org/trumping.pdf` ~offset 30560 — *"the major and and the sergeant stand before the corporal, both shout 'Charge!' at the same time, and the corporal decides to charge."* `Advance` occurs exactly once in that PDF, in JSTOR boilerplate.
+
 ## Completed Tasks
 
   **SCOPE EXTENDED BY THE DRIVER 2026-09-19 11:1x UTC — the executing pass's sweep found one locus; a corpus-wide sweep including the ARCHIVE TREE finds three.** (defect-sweeps-must-include-archive-tree.) `concepts/mysterianism` itself is now clean (commit `7ff94975`), verified 0/0 in both trees for all five removed strings. What remains:
@@ -1865,6 +1890,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-19: the live archive page still heads a section "The Squirrel and Quantum Mechanics" — the exact pairing that WAS a fabricated McGinn attribution elsewhere
+- **Type**: refine-draft
+- **File**: archive/topics/mysterianism-cognitive-closure.md
+- **Notes**: **NOT A FABRICATION — READ THIS BEFORE TOUCHING ANYTHING.** The squirrel material on this page attributes nothing to McGinn's text and illustrates *mysterianism the position* in the Map's voice. The 2026-09-19 pass correctly left it, applying the same adjudication that cleared `voids/recognition-void`'s unattributed dog/calculus line. **This task is about proximity and consistency, not about a false claim.**
+  ⚠️ **WHY IT IS STILL WORTH A LOOK — three measured facts.** **(1)** *"squirrels cannot understand quantum mechanics"* **was** a fabricated McGinn attribution, removed from `topics/hard-problem-of-consciousness` this morning after `squirrel` returned **0** in McGinn 1989 (*Mind* 98(391), 61,160 chars normalised). **This page carries the same pairing as a section heading** — `## The Squirrel and Quantum Mechanics` at L48 — and develops it at L50–54. **(2)** `McGinn's answer is pessimistic` sits at **L56, inside that same section**, so a reader meets the squirrel analogy and McGinn's name within one screen. **(3)** The `description` frontmatter (L3) reads *"Like squirrels and calculus"* — a **navigation surface**, and machine-readable even on archived pages (noindex-does-not-suppress-the-machine-metadata-surface, navigation-surfaces-carry-unreviewed-claims).
+  ℹ️ **AND THE FIX INTRODUCED AN INCONSISTENCY WORTH CLOSING.** The body now carries McGinn's real animals (rat → monkey → electron) while the lead at L34 and the section at L48 still use squirrels, calculus and chimpanzees. **The page now uses different animals in its lead and its body.** ⚠️ **The page is LIVE — `https://unfinishablemap.org/archive/topics/mysterianism-cognitive-closure/` returns HTTP 200** (re-verified 2026-09-19); archived pages are kept precisely to preserve URLs.
+  **THE CHEAPEST HONEST OPTION** is probably to keep the squirrel analogy but make its Map-voice status explicit where it meets McGinn's name — not to sweep the squirrels out, which would cost the page its most vivid illustration for no gain in accuracy. ⚠️ **Do not delete the section, do not remove any citation, and do not treat this as a fabrication sweep** (i-widen-retractions-and-upgrade-coiners-into-proponents). **Edit `archive/topics/…`, never `hugo/content/archive/…`.**
 
 ### ✓ 2026-09-19: `voids/resolution-void` grounds No Many Worlds in the ontological-multiplicity parsimony complaint — the one move `tenets.md` forbids by name, twice
 - **Type**: refine-draft

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-22
-ai_modified: 2026-09-16 12:48:18+00:00
+ai_modified: 2026-09-19 23:52:45+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-16 12:48:18+00:00
-lastmod: 2026-09-16 12:48:18+00:00
+lastmod: 2026-09-19 23:52:45+00:00
 modified: *id001
 related_articles:
 - '[[delegatory-causation]]'
@@ -44,7 +44,7 @@ Trumping preemption is Jonathan Schaffer's name for a fourth species of redundan
 
 ## Schaffer's Cases
 
-Schaffer (2000) introduces trumping with two now-standard cases. In the magicians' case, Merlin casts a spell at noon to turn the prince into a frog, and Morgana casts the very same spell hours later, that evening; the laws of magic in this world dictate that only the first spell of the day is efficacious, so the prince becomes a frog at midnight. Both spells "run their course" — there is no intervening event that blocks Morgana's spell midway — yet Merlin's is the cause because his spell was first. In the military variant, a major and a sergeant simultaneously shout "Advance!"; the troops advance because of the major's command, not the sergeant's, because rank settles which order is authoritative when orders coincide.
+Schaffer (2000) introduces trumping with two now-standard cases. In the magicians' case, Merlin casts a spell at noon to turn the prince into a frog, and Morgana casts the very same spell hours later, that evening; the laws of magic in this world dictate that only the first spell of the day is efficacious, so the prince becomes a frog at midnight. Both spells "run their course" — there is no intervening event that blocks Morgana's spell midway — yet Merlin's is the cause because his spell was first. In the military variant, a major and a sergeant simultaneously shout "Charge!"; the corporal charges because of the major's command, not the sergeant's, because rank settles which order is authoritative when orders coincide.
 
 What makes these cases diagnostic of a new category is what they break, measured against the standard taxonomy of redundant causation (Paul and Hall 2013). They are not cases of early preemption (no physical event cuts the second process off before it produces the effect). They are not cases of late preemption (the "backup" process does not merely fail at the last moment; it completes). And they are not quite symmetric overdetermination, because we still have a clear intuition that one of the two processes *is* the cause and the other is not. Counterfactual necessity fails for both candidates (had Merlin not cast, Morgana's would have sufficed; and vice versa), yet the asymmetry in our causal judgement survives.
 

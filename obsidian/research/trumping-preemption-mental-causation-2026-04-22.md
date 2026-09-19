@@ -3,7 +3,7 @@ title: "Research Notes - Trumping Preemption as Mental-Causation Mechanism"
 created: 2026-04-22
 modified: 2026-04-22
 human_modified: null
-ai_modified: 2026-07-15T06:28:43+00:00
+ai_modified: 2026-09-19T23:52:45+00:00
 draft: false
 description: "Research on Schaffer's trumping preemption and its use as a mechanism for dualist mental causation — solving the exclusion problem without overdetermination or causal competition."
 topics:
@@ -57,6 +57,7 @@ Trumping preemption is a fourth species of redundant causation introduced by Jon
   - Introduces trumping as a distinct form of redundant causation where both causal chains run to completion
   - Originating case: Merlin and Morgana both cast the same spell; laws of magic dictate that only the first spell of the day is efficacious
   - Paraphrased "major and sergeant both shout 'Advance!'" variant makes the hierarchy explicit
+    - **Correction 2026-09-19**: the paraphrase above misstates Schaffer's wording, which is not "Advance!" at all. Verified against the author's copy of the *Journal of Philosophy* paper (`jonathanschaffer.org/trumping.pdf`): "the major and and the sergeant stand before the corporal, both shout 'Charge!' at the same time, and the corporal decides to charge." The string `Advance` occurs exactly once in that PDF, inside JSTOR boilerplate, and never in the soldiers case. The 2026-04-22 line is left legible above as the dated record; the hierarchy point it makes is unaffected.
   - Counterfactual dependence fails in both directions (had Merlin not cast, Morgana's would have sufficed; had Morgana not cast, Merlin's would have sufficed), yet Merlin intuitively causes
   - Used as a counterexample against Lewis-style counterfactual theories
 - **Tenet alignment**: Neutral toward [[tenets]]; supplies a general causal mechanism whose *application* to dualism aligns with Dualism and Bidirectional Interaction
