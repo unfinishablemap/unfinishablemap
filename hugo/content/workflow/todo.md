@@ -38,16 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-### P2: the MQI bandwidth fix is HALF-APPLIED — the anaphor one sentence later re-labels the behavioural figure as "conscious bandwidth"
-
-- **Type**: refine-draft
-- **File**: obsidian/concepts/metaphysics-of-information-under-dualism.md
-- **Source**: cycle driver, 2026-09-19 16:3x UTC — caught by the tenet check; **the residue is a DRIVER ERROR, see below**
-- **Generated**: 2026-09-19
-- **Notes**: **THIS IS MY MISTAKE AND IT SHOULD BE RECORDED AS ONE.** The 15:22 fix (`ff5bcee0`) correctly restated the first mention as *"the information throughput of a human being is roughly 10 bits per second"*, removing the unsupported "conscious processing" gloss. **But I explicitly instructed that pass to leave the following sentence untouched**, on the grounds that its hedge was the article's honest work. That sentence reads: *"Whether **this conscious bandwidth** reflects the quantum-level injection rate, emerges from it, or is an independent constraint is unknown."* **The anaphoric "this conscious bandwidth" re-labels the very figure the fix had just de-glossed, one sentence later.** I protected a sentence that itself carries the defect (my-already-checked-fences-certify-partial-coverage).
-  **Verified live in both trees this run**: `conscious bandwidth` = 1 occurrence in `obsidian/` and 1 in `hugo/content/`. The tenet check notes this is **the only locus in the corpus that cashes the 10 bits/s figure as tenet support without the behavioural guard every sibling carries**.
-  **THE REPAIR IS 1–2 WORDS AND MUST BE NEUTRAL OR NEGATIVE**: "this conscious bandwidth" → "this bottleneck" or "this figure". ⚠️ **Keep the hedge itself — the three-way "reflects / emerges from / independent constraint is unknown" structure is exactly right and is what makes the compact fix sufficient.** Do not rewrite the sentence, do not re-open the first mention, and **do not touch the citation**: Crossref confirms Zheng & Meister, *Neuron* 113(2):192–204, 2025, and the `~10⁹` magnitude is now correct.
-  ⚠️ **LENGTH: 3376 words** against concepts 2500/3500/5000, usable ceiling 3499 → **123 words of headroom**. `ai_modified` from a live `date -u` **strictly past**; sync; grep both trees.
 
 ### P2: `concepts/bidirectional-interaction` L119 awards the Map a parsimony verdict with no guard — and the exact guard clause already exists verbatim in a sibling
 
@@ -74,7 +64,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   **THE TWO OPTIONS.** **(1) Retire the rule** — treat the tiebreaker formulation as out of contract and sweep the ~10 files, which makes Tenet 5 mean what it says and stops the regeneration. **(2) Ratify it in `tenets.md`** — state explicitly that parsimony may break ties between explanatory equals, which legitimises the existing loci at the cost of narrowing Tenet 5. **Either is defensible; leaving it unstated is what is not**, because every future tenet check re-derives the same family and the corpus keeps drifting.
   ✅ **CALIBRATION, so this is not read as alarm**: the sweep examined ~1,600 hit-lines and dismissed ~1,580 as in-contract. **The corpus is overwhelmingly right about Tenet 5**; these are exceptions to a live and mostly well-enforced discipline. Notably `topics/parsimony-case-for-interactionist-dualism` — which looks like the worst offender by title — installs the guard **five** times and is the most scrupulous file in the sweep.
   ℹ️ **Reusable repair precedents already in the corpus**: `concepts/epiphenomenalism` L140 (the guard clause), `concepts/parsimony-epistemology` L140 (attributes the dimensional reversal to Swinburne rather than asserting it), `apex/altered-states-as-interface-evidence` L94 ("a simpler account" → "a simple organisation"), and `concepts/measurement-problem` L189, whose sibling bullet carries exactly the guard L187 lacks. The full ranked locus list with verbatim fragments is in `reviews/tenet-check-2026-09-19.md` and its sweep appendix — **do not re-derive it**.
-
 
 ### NEEDS-HUMAN (length policy) 2026-09-19: `topics/attention-and-the-consciousness-interface` cannot clear its ceiling by condensing — a 2026-07-25 deep review already ruled the overflow an apparatus artifact
 
@@ -1913,6 +1902,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-19: the MQI bandwidth fix is HALF-APPLIED — the anaphor one sentence later re-labels the behavioural figure as "conscious bandwidth"
+- **Type**: refine-draft
+- **File**: obsidian/concepts/metaphysics-of-information-under-dualism.md
+- **Notes**: **THIS IS MY MISTAKE AND IT SHOULD BE RECORDED AS ONE.** The 15:22 fix (`ff5bcee0`) correctly restated the first mention as *"the information throughput of a human being is roughly 10 bits per second"*, removing the unsupported "conscious processing" gloss. **But I explicitly instructed that pass to leave the following sentence untouched**, on the grounds that its hedge was the article's honest work. That sentence reads: *"Whether **this conscious bandwidth** reflects the quantum-level injection rate, emerges from it, or is an independent constraint is unknown."* **The anaphoric "this conscious bandwidth" re-labels the very figure the fix had just de-glossed, one sentence later.** I protected a sentence that itself carries the defect (my-already-checked-fences-certify-partial-coverage).
+  **Verified live in both trees this run**: `conscious bandwidth` = 1 occurrence in `obsidian/` and 1 in `hugo/content/`. The tenet check notes this is **the only locus in the corpus that cashes the 10 bits/s figure as tenet support without the behavioural guard every sibling carries**.
+  **THE REPAIR IS 1–2 WORDS AND MUST BE NEUTRAL OR NEGATIVE**: "this conscious bandwidth" → "this bottleneck" or "this figure". ⚠️ **Keep the hedge itself — the three-way "reflects / emerges from / independent constraint is unknown" structure is exactly right and is what makes the compact fix sufficient.** Do not rewrite the sentence, do not re-open the first mention, and **do not touch the citation**: Crossref confirms Zheng & Meister, *Neuron* 113(2):192–204, 2025, and the `~10⁹` magnitude is now correct.
+  ⚠️ **LENGTH: 3376 words** against concepts 2500/3500/5000, usable ceiling 3499 → **123 words of headroom**. `ai_modified` from a live `date -u` **strictly past**; sync; grep both trees.
 
 ### ✓ 2026-09-19: `concepts/supervenience` — add Horgan's superdupervenience (a materialist conceding the article's own lead claim)
 - **Type**: refine-draft

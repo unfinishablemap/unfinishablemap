@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T17:22:33+00:00'
+ai_modified: '2026-09-19T17:35:42+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-19T17:35:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/bidirectional-interaction]]
+- **Scope**: one sentence (queue line 39, P2). No quality-review score taken — the task was a bounded Tenet-5 self-binding repair, ranked finding A1 of the 2026-09-19 tenet check's 28-locus sweep, not a general refinement pass.
+- **Changes**: In the "Evolutionary Convergence" section, appended the standard Tenet-5 guard to the interactionist-parsimony sentence: "The interactionist alternative offers a simpler explanation: consciousness evolved *because* it influences behaviour" now continues "—though by the Map's own [[tenets#^occams-limits|Tenet 5]], simplicity is not decisive where knowledge is incomplete, so this counts as a registered advantage rather than a parsimony proof." The clause is a verbatim copy of the guard already carried by [[concepts/epiphenomenalism]], which runs the identical phylogenetic-distribution argument correctly. Matching wording across the cluster is deliberate: this defect family has recurred across six consecutive tenet checks partly because each repair invented fresh phrasing.
+- **Tenet alignment**: Tenet 5 binds the Map's *own* use of parsimony symmetrically (`tenets.md`: "The discipline is symmetric"). The file previously had no guard anywhere — measured this run: `parsimon` 0, `Occam` 0, `simplicity` 0, `simpler` 1 (the defect itself), and the following sentence reinforces rather than retracts ("This evolutionary argument is reinforced by…"). The repair converts an unearned parsimony *verdict* into a *registered advantage*; it does not concede that the interactionist explanation fails, and the argument itself stands unchanged.
+- **Length**: 3464 → 3490 words (concepts soft 2500 / hard 3500; `length.py` fires on `>= hard`, so the usable ceiling is 3499). Guard cost 26 words against 35 of headroom, leaving 9. Status stays `soft_warning`. No shortening was needed and no calibration hedge elsewhere was traded away to buy room.
+- **Verification**: target sentence located by string, not line number. The `^occams-limits` block anchor resolves — defined at `obsidian/tenets/tenets.md:131` and emitted as `<span id="occams-limits"></span>` at `hugo/content/tenets/_index.md:135`; the synced link renders as `/tenets/#occams-limits`. Clause confirmed present exactly once in both trees after sync.
+- **Out of scope (recorded, not touched)**: the two satellites running the same defective shape — `topics/pain-consciousness-and-causal-power` and `topics/consciousness-in-simple-organisms` — and the three hubs already correct because they reject only the *opponent's* parsimony: `topics/evolutionary-case-for-mental-causation`, `concepts/consciousness-as-amplifier`, `concepts/cross-cultural-convergence-on-mental-causation`.
+- **Published**: yes
+
 ## 2026-09-19T17:22:33+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/metaphysics-of-information-under-dualism]]
