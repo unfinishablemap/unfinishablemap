@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-26 22:15:00+00:00
+ai_modified: 2026-09-19 21:08:00+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into the more comprehensive concepts/mysterianism.md article
 archived: true
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-25 14:30:00+00:00
-lastmod: 2026-01-26 22:15:00+00:00
+lastmod: 2026-09-19 21:08:00+00:00
 modified: *id001
 original_path: /topics/mysterianism-cognitive-closure/
 related_articles:
@@ -42,7 +42,7 @@ Mysterianism occupies unusual philosophical territory. Unlike [materialists](/co
 
 Colin McGinn's 1989 paper "Can We Solve the Mind-Body Problem?" introduced the formal definition: "A type of mind M is cognitively closed with respect to a property P if and only if the concept-forming procedures at M's disposal cannot extend to a grasp of P."
 
-The core argument proceeds by analogy. Rats cannot do calculus—not because they lack time or motivation, but because they lack the cognitive modules required for mathematical abstraction. Monkeys cannot understand quantum mechanics. These aren't temporary limitations awaiting better rat education; they're structural features of rat and monkey minds. McGinn argues humans face similar closure with respect to consciousness.
+The core argument proceeds by analogy across species, and McGinn's own illustration is comparative rather than curricular: "What is closed to the mind of a rat may be open to the mind of a monkey, and what is open to us may be closed to the monkey." His worked case of a closed property is the electron—"Presumably monkey minds and the property of being an electron illustrate this possibility." A monkey's concept-forming procedures cannot extend to electronhood however long the monkey is given, because the limit is a structural feature of the kind of mind it has rather than a shortfall of time or motivation. McGinn argues humans may face closure of the same kind with respect to the property linking consciousness to the brain.
 
 **The access problem.** We access consciousness through [introspection](/concepts/introspection/) and access the brain through perception (including scientific instruments). Neither mode of access reveals the link between them. Introspection shows us [qualia](/concepts/qualia/)—the redness of red, the painfulness of pain—but not how neural firing produces these experiences. Neuroscience shows us correlates—activity in V4 when seeing red—but not why there's something it's like to have that activity. The property "P" that explains the connection may require a mode of access we simply don't have.
 

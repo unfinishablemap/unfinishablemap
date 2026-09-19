@@ -3,7 +3,7 @@ title: Research Notes - Mysterianism and Cognitive Closure
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-14T23:55:00+00:00
+ai_modified: 2026-09-19T21:08:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ last_curated: null
 
 ## Executive Summary
 
-Mysterianism (or "new mysterianism") is the philosophical position that the hard problem of consciousness cannot be solved by human minds, not because consciousness is supernatural but because our cognitive architecture is not equipped to grasp the solution. Colin McGinn's 1989 paper "Can We Solve the Mind-Body Problem?" formalized this view through the concept of "cognitive closure"—the idea that certain properties may be closed to particular cognitive systems, like calculus is closed to rats. Thomas Nagel's earlier "What Is It Like to Be a Bat?" (1974) anticipated this by arguing objective methods cannot capture subjective experience. The position occupies interesting middle ground: it takes consciousness seriously (unlike eliminativism) while remaining agnostic about solutions (unlike dualism or physicalism). This aligns with The Unfinishable Map's Occam's Razor Has Limits tenet.
+Mysterianism (or "new mysterianism") is the philosophical position that the hard problem of consciousness cannot be solved by human minds, not because consciousness is supernatural but because our cognitive architecture is not equipped to grasp the solution. Colin McGinn's 1989 paper "Can We Solve the Mind-Body Problem?" formalized this view through the concept of "cognitive closure"—the idea that certain properties may be closed to particular cognitive systems, as (in McGinn's own comparison) a property open to a monkey's mind may be closed to a rat's. (See the correction under *Colin McGinn's Transcendental Naturalism* below: this note as first written glossed closure with a rat/calculus pairing that does not appear in McGinn's text.) Thomas Nagel's earlier "What Is It Like to Be a Bat?" (1974) anticipated this by arguing objective methods cannot capture subjective experience. The position occupies interesting middle ground: it takes consciousness seriously (unlike eliminativism) while remaining agnostic about solutions (unlike dualism or physicalism). This aligns with The Unfinishable Map's Occam's Razor Has Limits tenet.
 
 ## Key Sources
 
@@ -70,7 +70,8 @@ Mysterianism (or "new mysterianism") is the philosophical position that the hard
 - **Proponents**: Colin McGinn
 - **Core claim**: There is a naturalistic solution to the mind-body problem, but human cognitive architecture is closed to it. The solution is "written in our genes" but inaccessible to our concept-forming procedures.
 - **Key arguments**:
-  - Just as rats cannot do calculus and monkeys cannot understand quantum mechanics, humans may be unable to grasp property "P" that links consciousness to brain
+  - **Correction (2026-09-19).** As originally written on 2026-01-14 this bullet read: *"Just as rats cannot do calculus and monkeys cannot understand quantum mechanics, humans may be unable to grasp property 'P' that links consciousness to brain."* The rat/calculus and monkey/quantum-mechanics pairings are **not McGinn's**. A check of the full text of "Can We Solve the Mind-Body Problem?" (*Mind* 98(391):349–366) finds no occurrence of "calculus", no occurrence of "quantum mechanic", no occurrence of "squirrel", and no plural "rats". The comparative-closure argument itself *is* genuinely his — only the two illustrations were fabricated. Corrected bullet follows; downstream articles that had inherited the fabricated pairing were repaired the same day.
+  - Closure is comparative across kinds of mind: "What is closed to the mind of a rat may be open to the mind of a monkey, and what is open to us may be closed to the monkey." McGinn's worked example of a property closed to a given mind is the electron — "Presumably monkey minds and the property of being an electron illustrate this possibility." By the same comparative logic, humans may be unable to grasp the property "P" that links consciousness to brain
   - We access consciousness through introspection and brain through perception—neither reveals the link
   - The problem is epistemological (about knowledge) not ontological (about reality)
   - Consciousness is fully natural but transcends our cognitive capacities
@@ -89,7 +90,7 @@ Mysterianism (or "new mysterianism") is the philosophical position that the hard
 
 ### Noam Chomsky's Problems vs. Mysteries
 - **Proponents**: Noam Chomsky
-- **Core claim**: Distinguishes "problems" (solvable in principle through scientific methods) from "mysteries" (beyond human cognitive reach, like calculus for mice).
+- **Core claim**: Distinguishes "problems" (solvable in principle through scientific methods) from "mysteries" (beyond human cognitive reach). **Correction (2026-09-19)**: this entry originally glossed the distinction as "like calculus for mice". Chomsky's actual illustration, in "Science, Mind, and Limits of Understanding" (2014), is rats and prime-number mazes — "we are not surprised to discover that rats are unable to run prime number mazes no matter how much training they receive; they simply lack the relevant concept in their cognitive repertoire." Neither "calculus" nor "mice"/"mouse" occurs anywhere in that text.
 - **Key arguments**:
   - All organisms have cognitive limitations imposed by biology
   - There's no reason to assume human cognitive capacities are unlimited
