@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-09-19 15:40:30+00:00
+ai_modified: 2026-09-20 10:58:45+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -26,8 +26,8 @@ description: Supervenience defines when higher-level properties depend on lower-
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-17 15:49:15+00:00
-lastmod: 2026-09-19 15:40:30+00:00
+last_deep_review: 2026-09-20 10:58:45+00:00
+lastmod: 2026-09-20 10:58:45+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,7 +44,7 @@ Supervenience is a relation of asymmetric dependence between levels of propertie
 
 ## The Concept
 
-Supervenience was introduced to philosophy of mind by Donald Davidson in "Mental Events" (1970), though the term originates in ethics with R.M. Hare. Davidson held that mental events are identical to physical events (token identity) while mental *predicates* are not reducible to physical predicates — his [anomalous monism](/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/). Supervenience allowed him to maintain physical dependence without predicate reduction.
+Supervenience was introduced to philosophy of mind by Donald Davidson in "Mental Events" (1970), having reached analytic philosophy through R.M. Hare's metaethics — though Hare later reported that the usage was already current in Oxford and was not his own coinage, and G.E. Moore had deployed the concept without the word. Davidson held that mental events are identical to physical events (token identity) while mental *predicates* are not reducible to physical predicates — his [anomalous monism](/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/). Supervenience allowed him to maintain physical dependence without predicate reduction.
 
 The core idea is modal: it constrains what patterns of variation are possible. If the mental supervenes on the physical, there cannot be a mental difference without a physical difference. But the converse need not hold — two physical differences might correspond to the same mental state (multiple realisability).
 
@@ -72,7 +72,7 @@ The Map holds that supervenience, even if accepted, is far weaker than physicali
 
 ### The Explanatory Gap Remains
 
-Supervenience is a modal claim about covariance — it says mental properties *track* physical properties. It says nothing about *why* they do. As Joseph Levine argued, even if pain necessarily accompanies C-fibre firing, this leaves entirely unexplained why C-fibre firing feels like *that* rather than like something else or like nothing at all. The [explanatory gap](/concepts/explanatory-gap/) persists even under the strongest supervenience thesis: a complete supervenience base fixes the [qualia](/concepts/qualia/) but never says why those physical facts should be accompanied by any felt character at all.
+Supervenience is a modal claim about covariance — it says mental properties *track* physical properties. It says nothing about *why* they do. Joseph Levine pressed the point against psychophysical *identity* statements: granting that pain is C-fibre firing leaves entirely unexplained why C-fibre firing should feel like *that* rather than like something else or like nothing at all. Levine is careful about what the argument buys. He offers the gap as an epistemological result rather than a metaphysical one, holds that one cannot conclude from his version of the argument that materialism is false, and describes it as constituting "a problem for materialism" rather than a refutation of it. Extending the gap from identity statements to supervenience is a further step, taken by Chalmers, and the Map takes it too: the [explanatory gap](/concepts/explanatory-gap/) persists even under the strongest supervenience thesis, since a complete supervenience base fixes the [qualia](/concepts/qualia/) but never says why those physical facts should be accompanied by any felt character at all.
 
 Physicalists sometimes respond that other inter-level relations (temperature supervening on molecular motion) involve similar explanatory "gaps." But the cases are disanalogous. Temperature is reductively identified with mean molecular kinetic energy — once the identity is grasped, the explanatory work is done. With consciousness, grasping every physical detail leaves the phenomenal character unexplained. The supervenience relation in the consciousness case demands new fundamental laws — the [psychophysical laws](/concepts/psychophysical-laws/) that Chalmers argues must supplement physics.
 
@@ -80,7 +80,7 @@ Physicalists sometimes respond that other inter-level relations (temperature sup
 
 The concession that supervenience describes without explaining is not confined to the Map's side of the dispute. Terence Horgan's 1993 *Mind* paper "From Supervenience to Superdupervenience" presses the same point from within materialism. A supervenience thesis taken by itself is metaphysically inert, Horgan argues: it records a pattern of covariation and leaves the pattern's source untouched. A materialism content to assert that the mental supervenes on the physical has therefore said nothing yet that distinguishes its position from a brute correlation thesis. What materialism owes is *superdupervenience* — supervenience that is itself explainable in materialistically acceptable terms, so that the covariation is shown to follow from how the physical world is arranged rather than simply asserted to hold.
 
-Horgan writes as a reformer of materialism rather than a critic of it. His paper sets out what a material world demands of anyone who claims to live in one, and its ambition is to replace an unexplanatory supervenience formula with something that earns its metaphysical keep. Nothing in it concludes that the demand cannot be met.
+Horgan writes as a reformer of materialism rather than a critic of it; he counts himself among the philosophers disposed toward a materialistic metaphysics. His paper sets out what a material world demands of anyone who claims to live in one, and its ambition is to replace an unexplanatory supervenience formula with something that earns its metaphysical keep. Nothing in it concludes that the demand cannot be met. What it does conclude is that meeting it "looks to be a very daunting task" — daunting enough that his closing advice to materialists is to consider seriously the prospects for *preservative irrealism*, which would keep higher-order discourse while repudiating its apparent ontological commitments. A footnote singles out the phenomenal case as the hardest of all, where it is "enormously hard to see how one could possibly explain" why a given neurobiological property should be co-instantiated with one phenomenal property rather than another, or with any at all.
 
 That is what makes the argument useful here. The Map and Horgan agree on the diagnosis and part company only over who can settle the bill. The Map's answer, given under [Supervenience Without Reduction](#supervenience-without-reduction) below, is that psychophysical covariation is explained by fundamental [psychophysical laws](/concepts/psychophysical-laws/) — an explanation that is genuine but not materialistically acceptable, since those laws are additional to physics rather than derivable from it. The Map can meet Horgan's standard because it has already surrendered the constraint that makes the standard difficult.
 
