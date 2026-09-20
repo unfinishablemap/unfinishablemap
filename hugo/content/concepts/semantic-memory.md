@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-09-17 16:39:34+00:00
+ai_modified: 2026-09-20 21:57:14+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5
 author: null
 concepts:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 02:22:56+00:00
-lastmod: 2026-09-17 16:39:34+00:00
+lastmod: 2026-09-20 21:57:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -63,7 +63,7 @@ Though semantic memory lacks the dramatic re-experiencing of episodic retrieval,
 
 The tip-of-the-tongue (TOT) phenomenon reveals semantic retrieval's phenomenal character. You are confident you know a word—you can often identify its first letter, its syllable count, related words—but the phonological form won't come. The word is frustratingly *almost* there.
 
-TOT states have undeniable phenomenal character: the sense of imminence, the confidence in knowing, the frustration of blocked retrieval. Recent philosophical analysis identifies TOT as a prime instance of [cognitive phenomenology](/concepts/cognitive-phenomenology/)—the phenomenal character derives from activated conceptual representations, not sensory accompaniments. You feel the semantic content approaching consciousness even before the word arrives.
+TOT states have distinctive phenomenal character: the sense of imminence, the confidence in knowing, the frustration of blocked retrieval. Recent philosophical analysis identifies TOT as a prime instance of [cognitive phenomenology](/concepts/cognitive-phenomenology/)—the phenomenal character derives from activated conceptual representations, not sensory accompaniments. You feel the semantic content approaching consciousness even before the word arrives.
 
 The resolution of TOT states is also phenomenologically distinctive. When the word finally comes, there's relief and recognition—the "pop" phenomenon where the answer suddenly enters awareness without deliberate effort.
 
@@ -71,7 +71,7 @@ The resolution of TOT states is also phenomenologically distinctive. When the wo
 
 The feeling-of-knowing (FOK) is a metacognitive judgment: you can't currently recall an answer but feel confident you would recognise it. FOK represents awareness of your own semantic states—knowing that you know, even when retrieval fails.
 
-Research shows FOK reliably predicts subsequent recognition. Subjective feelings about semantic accessibility track actual processing. This correlation suggests FOK isn't mere confabulation—it reflects genuine access to information about memory states. The phenomenology of "almost knowing" corresponds to something real.
+Research shows FOK reliably predicts subsequent recognition: subjective feelings about semantic accessibility track actual processing. What that correlation establishes is [contested below](#the-illusionist-challenge).
 
 ### Understanding as Experience
 
@@ -79,17 +79,17 @@ The deepest phenomenological question about semantic memory concerns understandi
 
 The [cognitive phenomenology](/concepts/cognitive-phenomenology/) debate addresses this directly. Understanding Hegel feels different from understanding Hume—not just because different mental images arise, but because the intellectual grasp has different qualitative character. If this is right, semantic memory isn't mere data storage. It's the repository of conceptual understanding, and understanding is phenomenal.
 
-Consider what happens when you finally understand a proof. There's the "aha" moment of insight—but is this just accompanying emotion, or is there something phenomenal in the *grasping itself*? Proponents of cognitive phenomenology argue for the latter. The understanding has its own qualitative character beyond whatever imagery or affect accompanies it.
+Consider what happens when you finally understand a proof. There's the "aha" moment of insight—but is this just accompanying emotion, or is there something phenomenal in the *grasping itself*? Proponents of cognitive phenomenology argue for the latter: a qualitative character beyond whatever imagery or affect accompanies it.
 
 ### The Phenomenal Constitution Thesis
 
 The [Phenomenal Constitution Thesis (PCT)](/topics/phenomenology-of-intellectual-life/) makes the stronger claim that meaning isn't just accompanied by phenomenology—meaning is constitutively phenomenal. On this view, to grasp that Paris is in France *is* to have a certain kind of experience; the semantic content cannot be separated from the experiential character. Semantic memory would then involve not information storage that consciousness illuminates, but phenomenal states that constitute the meanings themselves.
 
-TOT states provide striking evidence for PCT. During a tip-of-the-tongue state, you have the meaning without the phonological form. What you possess isn't merely information about the target word (first letter, syllable count)—you have *phenomenal access to the meaning itself*. Otherwise, how would you recognise the word when it finally comes? The meaning is experienced directly, even when the label cannot be retrieved. This dissociation shows that semantic content has phenomenal presence independent of linguistic expression.
+TOT states are the Map's main argument for PCT, and the argument has to be made, because this article's own cited authority supplies the rival. During a TOT state you have the meaning without the phonological form, and the Map reads what you possess as more than information about the target word: *phenomenal access to the meaning itself*, present even when the label cannot be retrieved. Schwartz (2002) reads the same state the other way—the TOT feeling is a metacognitive inference over partial activation, so the first-letter and syllable-count cues above are not a residue alongside phenomenal access but the material the inference runs on. The Map's reading turns on recognition: the target is identified the moment it arrives, which looks to require a held content richer than the cues. Schwartz can answer that recognition is cue-driven too, and the phenomenology does not by itself decide between the accounts. The dissociation is offered as support for semantic content having phenomenal presence independent of linguistic expression, not as a demonstration of it.
 
-The feeling of knowing extends this: you feel confident about inaccessible content. If meaning were non-phenomenal information, FOK would be inexplicable—a feeling about something you haven't accessed. PCT explains it: the meaning has phenomenal presence even when retrieval mechanisms fail. The phenomenology isn't tracking information; the phenomenology *is* the meaning in its experiential aspect.
+The feeling of knowing extends this: you feel confident about inaccessible content. PCT accounts for that directly—the meaning has phenomenal presence even when retrieval fails, so the phenomenology *is* the meaning in its experiential aspect rather than a signal tracking it. The metacognitive account reaches the same data by another route, treating the confidence as an inference from cue familiarity; what PCT claims to add is why the content feels present rather than merely probable.
 
-This strengthens the case against computational accounts of semantic memory. If meanings are constitutively phenomenal, then systems without phenomenal consciousness cannot possess them—regardless of functional equivalence in information retrieval. LLMs may process patterns correlated with meanings, but the meanings exist only in interpreting minds.
+If meanings are constitutively phenomenal, systems without phenomenal consciousness cannot possess them, whatever their functional equivalence in retrieval—a case taken up below for language models.
 
 ## Personal Semantics: A Bridge Category
 
@@ -103,7 +103,7 @@ You know these things about yourself, but not through re-experiencing specific l
 
 Electrophysiological research shows personal semantic retrieval produces neural signatures intermediate between general semantics and unique episodes. This suggests a gradient rather than a dichotomy: general facts → autobiographical facts → repeated events → unique events, with increasing autonoetic character as you move right.
 
-The gradient matters because it suggests episodic and semantic memory are less distinct than Tulving originally proposed. They may be different weightings of common processes rather than separate systems. Noetic and autonoetic consciousness would then be poles of a continuum, not separate faculties. The Map's treatment of [consciousness and memory](/topics/consciousness-and-memory/) traces this consolidation trajectory, showing that phenomenal character tracks hippocampal involvement rather than information content—the gradient has irreducible qualitative dimensions.
+The gradient matters because it suggests episodic and semantic memory are less distinct than Tulving originally proposed. They may be different weightings of common processes rather than separate systems. Noetic and autonoetic consciousness would then be poles of a continuum rather than separate faculties—though [the Map's semanticisation audit](/concepts/semanticisation/) finds the strongest phenomenal evidence pointing toward discreteness. The Map's treatment of [consciousness and memory](/topics/consciousness-and-memory/) traces this consolidation trajectory, showing that phenomenal character tracks hippocampal involvement rather than information content—the gradient has irreducible qualitative dimensions.
 
 ## Automatic vs. Conscious Semantic Processing
 
@@ -113,17 +113,13 @@ Semantic retrieval involves both automatic and controlled processes—a distinct
 
 **Controlled aspects**: But full semantic integration—consciously understanding meaning—requires awareness. In attentional blink paradigms, when targets don't reach consciousness, semantic processing fails to complete. The N400 ERP component (a marker of semantic processing) requires the word to reach conscious awareness. Subliminal priming activates associations, but conscious processing is needed for genuine understanding.
 
-This suggests a two-stage model: automatic activation spreads through semantic networks without consciousness, but the integration of meaning into the unified field of awareness requires consciousness. You can unconsciously activate "nurse" from "doctor," but you can't unconsciously *understand* a sentence.
+This suggests a two-stage model: activation spreads through semantic networks without consciousness, but integrating meaning into the unified field of awareness requires it. You can unconsciously activate "nurse" from "doctor"; you cannot unconsciously *understand* a sentence.
 
 ## Implications for AI
 
 Large language models excel at what looks like semantic processing. They store vast knowledge, retrieve relevant information, produce semantically coherent text, and show priming-like effects where context influences outputs. If semantic memory is purely computational—activation patterns without phenomenology—LLMs might possess its functional equivalent.
 
-But this analysis suggests semantic memory in humans isn't purely computational. TOT states have phenomenal character. FOK involves metacognitive awareness. Understanding has qualitative character. These features don't reduce to information retrieval.
-
-The contrast is revealing: LLMs don't experience TOT states. They either retrieve or don't. There's no frustrating sense that the word is almost there. They have no FOK—no metacognitive awareness of what they "know." They produce outputs, but there's nothing it's like to produce them.
-
-If noetic consciousness involves irreducible phenomenology, LLMs lack it despite functional similarity. They manipulate semantic information without the accompanying awareness that constitutes knowing in Tulving's sense. This strengthens the case that LLMs process symbols without genuinely understanding—understanding requires the phenomenal character they lack.
+On the Map's reading of the phenomenology above, it isn't. The contrast is revealing: LLMs don't experience TOT states. They either retrieve or don't. There's no frustrating sense that the word is almost there. They have no FOK—no metacognitive awareness of what they "know." They produce outputs, but there's nothing it's like to produce them. If noetic consciousness involves irreducible phenomenology, they lack knowing in Tulving's sense despite the functional similarity: symbols processed without the phenomenal character understanding requires.
 
 ## The Illusionist Challenge
 
@@ -135,7 +131,7 @@ Three responses defend the reality of noetic phenomenology:
 
 **The phenomenology of [introspection](/concepts/introspection/).** When you attend carefully to a TOT state, the phenomenal character doesn't dissolve—it becomes more vivid. The frustration intensifies; the sense of imminence clarifies. Careful introspection reveals rather than eliminates noetic phenomenology. The illusionist must explain why closer examination intensifies rather than exposes the illusion.
 
-**The functional asymmetry.** TOT and FOK states reliably predict retrieval success. If these were mere misrepresentations with no independent reality, why would they track something real? The phenomenology corresponds to actual accessibility of stored information. Evolution doesn't typically produce elaborate misrepresentations that happen to correlate with the facts; it produces representations that track reality.
+**The functional asymmetry.** TOT and FOK states reliably predict retrieval success, so the phenomenology corresponds to actual accessibility of stored information. The Map's move here is a tracking argument: a state that predicts retrieval is more readily explained as registering the accessibility it tracks than as a misrepresentation that happens to correlate with it. That is an inference to the best explanation of the correlation, not an evolutionary finding, and the illusionist can answer that an accurate model of accessibility need be no more phenomenal than a gauge reading—which returns the dispute to the felt character the reading has for whatever consults it.
 
 ## Contemplative Evidence
 
@@ -161,15 +157,15 @@ Alfred North Whitehead's process philosophy illuminates why semantic knowing inv
 
 The irreducibility of noetic phenomenology would be challenged by:
 
-1. **Phenomenology dissolving under analysis.** If careful introspection revealed TOT states or the feeling of knowing to be constructed from simpler, non-phenomenal elements, this would support reductionism. Instead, closer attention intensifies rather than decomposes the phenomenon.
+1. **Functionally equivalent systems with different phenomenology.** If we discovered beings with identical semantic memory function (including TOT states and FOK judgments) but lacking any phenomenal character to their knowing, this would suggest phenomenology is separable from the functional architecture. The Map predicts this is impossible for systems with the relevant conscious architecture.
 
-2. **Functionally equivalent systems with different phenomenology.** If we discovered beings with identical semantic memory function (including TOT states and FOK judgments) but lacking any phenomenal character to their knowing, this would suggest phenomenology is separable from the functional architecture. The Map predicts this is impossible for systems with the relevant conscious architecture.
+2. **Knowing proving fully inferential.** If the feeling of knowing were shown to arise entirely from inference over partial activation and retrieval-success cues, with no intrinsic phenomenal character, the noetic phenomenology claim would not survive it. This is the testable form of the metacognitive rival engaged above, and the Map holds no result that settles it.
 
-3. **Knowing as fully inferential.** If the feeling of knowing were demonstrated to arise entirely from inference about retrieval success (like a probability estimate), with no intrinsic phenomenal character, this would undermine the noetic phenomenology claim. But introspection consistently reveals FOK as immediately given, not inferred.
+3. **Contemplative evidence reversing.** If advanced meditators reliably reported that noetic phenomenology dissolves completely upon close examination, this would support illusionism about cognitive phenomenology.
 
-4. **Contemplative evidence reversing.** If advanced meditators reliably reported that noetic phenomenology dissolves completely upon close examination (rather than becoming more vivid as an observed property), this would support illusionism about cognitive phenomenology.
+4. **LLM metacognition proving equivalent.** If language models demonstrated genuine TOT-like states—not just probability distributions over tokens, but something like frustration at blocked retrieval and satisfaction at success—this would challenge the proposed phenomenology/function distinction. Current LLMs show no such states, but future architectures might.
 
-5. **LLM metacognition proving equivalent.** If language models demonstrated genuine TOT-like states—not just probability distributions over tokens, but something like frustration at blocked retrieval and satisfaction at success—this would challenge the proposed phenomenology/function distinction. Current LLMs show no such states, but future architectures might.
+One candidate often listed here is omitted: phenomenology dissolving under introspective analysis. The illusionism section above already answers it, and naming a falsifier the article's own defence absorbs would be decorative ([the sibling article](/concepts/episodic-memory/) states the discipline).
 
 ## Relation to Site Perspective
 

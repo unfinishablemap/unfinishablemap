@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T21:08:40+00:00'
+ai_modified: '2026-09-20T21:57:14+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-20'
-lastmod: 2026-09-20 21:08:40+00:00
+lastmod: 2026-09-20 21:57:14+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-20T21:57:14+00:00 - refine-draft
+- **Status**: Success
+- **File**: [semantic-memory](/concepts/semantic-memory/)
+- **Queue task**: line 1270 — from `reviews/optimistic-2026-09-02-semanticisation-wing.md` §Calibration Concerns 1
+- **(a) §Phenomenal Constitution Thesis, PCT evidence paragraphs** — the section argued by rhetorical question and demonstrate-verbs at the exact locus where the article's own reference list supplies the rival. `Schwartz` occurred **once in the whole file, at the References block, never in the body**. Removed *"TOT states provide striking evidence for PCT"*, the rhetorical question *"Otherwise, how would you recognise the word when it finally comes?"*, and *"This dissociation **shows** that…"*; installed Schwartz (2002) at the locus — the TOT feeling read as **metacognitive inference over partial activation**, which makes the article's own *first letter, syllable count* examples the material the inference runs on rather than a residue beside phenomenal access. The Map's recognition argument is stated, Schwartz's answer to it is stated, and the phenomenology is said not to decide between them. Closing verb downgraded to the argued-reading register: *"offered as support … not as a demonstration of it."* PCT attribution to `phenomenology-of-intellectual-life` left intact; the phenomenological claim re-registered, not deleted.
+- **Engagement with Schwartz: Mode One** — the criticism is derived from material the article already cites and the opponent already holds; no tenet premise is used, and the residue is declared as undecided rather than dressed as refutation.
+- **(b) §The Illusionist Challenge, functional asymmetry** — *"Evolution doesn't typically produce elaborate misrepresentations that happen to correlate with the facts; it produces representations that track reality"* was a debunking-shaped empirical generalisation stated as fact with no source. Recast as the **tracking argument** it is (inference to the best explanation of the correlation, explicitly *"not an evolutionary finding"*), with the illusionist's gauge-reading reply stated and the dispute returned to felt character.
+- **(c) §What Would Challenge This View?** — applied the `concepts/episodic-memory` L166 decorative-falsifier discipline. **Struck item 1** (phenomenology dissolving under analysis: its own sentence carried *"Instead, closer attention intensifies…"*, the answer already given in the illusionism section) and added the omission note naming it with the reason. **Item 3 restated honestly** rather than struck — its absorbing clause (*"But introspection consistently reveals FOK as immediately given"*) removed, and it now reads as the testable form of the metacognitive rival installed in (a), with *"the Map holds no result that settles it."* **Item 4's pre-absorbing parenthetical** *"(rather than becoming more vivid as an observed property)"* removed so the contemplative falsifier can fire. Items 2 and 5 survive untouched — functionally equivalent systems lacking phenomenal character, and LLM metacognition proving equivalent, are genuine and not pre-answered.
+- **(d) §Personal Semantics** — `semanticisation` occurred **once in the file, inside the frontmatter `related_articles:` block**, and frontmatter membership renders via machine-meta only, so the continuum suggestion had no body link. Added the piped body wikilink at the continuum locus: `[[semanticisation|the Map's semanticisation audit]]`, qualified with *"finds the strongest phenomenal evidence pointing toward discreteness"* — the target's own §The Strongest Phenomenal Evidence Points Toward Discreteness qualifies the suggestion rather than merely navigating to it, so the link text does not imply agreement.
+- **Funding the additions** — (c) yielded less than the task note assumed because item 3 was restated rather than struck, so additions were funded from redundancy inside the sections already touched: the FOK correlation paragraph (now forward-references the calibrated treatment), the §Implications for AI recap paragraph (whose flat *"TOT states have phenomenal character"* had become under-calibrated against (a)) and its duplicate closing paragraph, and three sentence-level compressions. `undeniable phenomenal character` → `distinctive` for the same calibration reason.
+- **Length**: 3392 → **3488** words (net **+96**; **11 under** the concepts hard ceiling of 3499, gate `>=3500`). Task note demanded net-zero; reported honestly instead per driver instruction. No condense minted.
+- **Scope**: the remember/know paragraph (was L185, now L181) is **byte-identical to HEAD** (md5 `0cb2471…` both sides) — the open P2 on R/K validity exposure owns those loci.
+- **Published**: yes
 
 ## 2026-09-20T21:08:40+00:00 - refine-draft
 - **Status**: Success
