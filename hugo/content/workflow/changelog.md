@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T01:53:46+00:00'
+ai_modified: '2026-09-20T02:28:59+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-20'
-lastmod: 2026-09-20 01:53:46+00:00
+lastmod: 2026-09-20 02:28:59+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-20T02:28:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/)
+- **Task**: queue line 70 — restore the cellular-bandwidth argument that the live article lost but its two archived predecessors still make, length-neutral.
+- **The divergence**: the 2026-09-19 fix *deleted* the fabricated "~200 bits per second" sentence outright, while the later archive sweep *corrected* the same claim in place. `archive/topics/the-ten-bit-ceiling` and `archive/concepts/asymmetric-bandwidth-consciousness` therefore argued that the ceiling is not *cellular*, while the live successor argued only that it is not *motor*.
+- **Restored sentence** (44 words), placed at the position its archived ancestor occupied — after the cerebellum sentence in the "The bottleneck is not motor." paragraph: *"Individual neurons are not the constraint either—Zheng and Meister put a typical cortical neuron at around 10 bits per second, which may reach hundreds only when driven to high firing rates, so a single neuron already matches the throughput of the entire conscious stream."* Lead-in and attribution lifted from `archive/concepts/asymmetric-bandwidth-consciousness.md:52`; the hedged body clause (`may reach hundreds only when driven to high firing rates`) and the closing clause lifted from `archive/topics/the-ten-bit-ceiling.md:69`, which is the form carrying the `may` hedge. The original defect was an inverted qualifier presented as Zheng & Meister's own claim, so the hedge is the calibration. Attribution is to **Zheng and Meister**, not Sauerbrei & Pruszynski.
+- **Length, measured with `analyze_length`**: before **3490 / soft_warning**; after **3491 / soft_warning**. `length.py:112` fires on `>= hard`, so with `concepts` hard = 3500 the usable ceiling is 3499 and the starting headroom was 9 words. Net +1; 8 words of margin remain. No flip to `hard_warning`.
+- **Paid for by 43 words of cuts, each provenance-checked before removal:**
+  - **34 words** — the three-sentence prose restatement of the §"Distinguishing the Challenges" table, deleted: *"The exclusion argument attacks the possibility of mental causation. The bandwidth problem attacks its sufficiency. The asymmetry puzzle attacks the adequacy of models that treat consciousness as identical to or produced by neural processing."* Each sentence restates a row of the table directly above it. `git log -S` shows both table and prose entered together in the original `expand-topic` of `bandwidth-problem-mental-causation` (05613b28c4) and rode through the coalesce (06b4631f9c) — neither was installed by a review. `optimistic-2026-05-26e.md` names the **table** as the article's strongest point, not the prose. Corpus-wide grep for `sufficiency` found no article depending on this framing. The paragraph now opens on its substantive sentence ("A dualist who successfully resists exclusion…").
+  - **5 words** — §"The Evolutionary Puzzle": *"memory athletes, professional gamers, and speed typists"* → *"trained experts"*. The same three exemplar groups are already given with more detail in §"Outbound: Volitional Selection" ("professional StarCraft players… expert typists… elite memory athletes"). Provenance `db43b6fbb9` is a research-integration refine, not a review guard; the Miller (1956) chunking claim the sentence exists to make is untouched.
+  - **4 words** — **Capacity** bullet: *"the throughput of conscious processing"* → *"conscious throughput"*, *"can be enormously"* → *"are enormously"*. The word **Behavioural** was deliberately kept: it is the calibration marker that §"Strictly, Zheng and Meister measured *behavioural* throughput…" depends on.
+- **No calibration qualifier was traded away.** The "Strictly, …interpretation, not a direct measurement" paragraph, the `~`/`roughly`/`approximately` hedges, the epiphenomenalism section's "carries no evidential traction against it" and "consistent with—not what it establishes", and the restored sentence's own `may` are all intact.
+- **Declined on load-bearing grounds**: *"a system that selects among pre-computed options needs only enough bandwidth to make choices"* — looked redundant with the clause before it, but is the **Notable quote** of `obsidian/reviews/optimistic-2026-05-26e.md`. *"The conscious channel handles only what requires deliberate intervention"* — installed by deep-review commit `009ba43e7d` as part of the epiphenomenalism response. *"The ratio is 100 million to one"* — a live locus flagged by `obsidian/reviews/pessimistic-2026-03-18-evening.md` for clarification, not deletion.
+- **Scope respected**: the `200 bits` hits in `reviews/` and `workflow/` and the marked **Correction (2026-09-19)** derivation in `research/bandwidth-constraints-10-bits-2026-03-29` were left untouched, as were both archive pages.
+- **Verification**: `scripts/sync.py` run, then `grep -cF` in both trees — `Individual neurons are not the constraint either` obsidian 1 / hugo 1; `which may reach hundreds only when driven to high firing rates` obsidian 1 / hugo 1; deleted `attacks its *sufficiency*` obsidian 0 / hugo 0.
+- **Published**: yes
 
 ## 2026-09-20T01:53:46+00:00 - refine-draft
 - **Status**: Success
