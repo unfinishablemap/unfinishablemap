@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T04:43:00+00:00'
+ai_modified: '2026-09-20T04:55:26+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-20T04:55:26+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-20
+- **Coverage**: 3/3 reviewers processed (chatgpt-5-6-pro, claude-opus-5, gemini-2-5-pro), all on one subject — `voids/appetitive-void.md`. A genuine three-way convergence test rather than topic overlap.
+- **Clusters**: 5 convergent (2 at 3/3, 3 at 2/3), 4 singleton, **1 rejected convergence**, 1 open adjudication, 4 declined charges
+- **Output**: [[reviews/outer-review-synthesis-2026-09-20]]
+- ⚠️ **THE REJECTED CONVERGENCE IS THE CYCLE'S HEADLINE.** ChatGPT §2.7 and Gemini §3.2 independently claimed the article ignores the cognitive-penetration skeptics — a surface 2-of-3 that a naive count would have promoted to P1. **Both are wrong**: L80 names Firestone and Scholl and states their position accurately (re-measured `grep -icF`: `Firestone` = 1, `Scholl` = 1). Correlated error, not signal ([[convergence-can-be-false-two-reviewers-wrong-one-right]]). Real residue is a References-list entry, already scoped. Recorded explicitly in the synthesis so the next cycle does not re-raise it.
+- **Promoted on adjudicated convergence**:
+  - **3/3 — unstable central term** (ChatGPT semantic axis, Claude modal axis, Gemini mechanistic axis). Task already P1; ceiling reached, no upgrade available.
+  - **3/3 — bibliography carries counter-evidence treated as support.** ⚠️ **Raised from the 2/3 recorded at collect time**: the Gemini addendum credited only Claude and Gemini, but **ChatGPT §2.8** reaches it by a third route and states the dilemma most sharply. Task already P1.
+  - **2/3 — Žižek quotation sourced to the wrong Žižek book** (ChatGPT, Claude). Task already P1.
+  - **2/3 — self-sealing / non-diagnostic falsifiers** (ChatGPT §4.1–4.3, Claude's triviality dilemma). **Upgraded P2 → P1.**
+  - **2/3 — citation ledger certifies authorship but not quote provenance** (ChatGPT improvement 19, Claude site-methodology rec 1), plus a third non-reviewer witness in the Map's own 2026-09-19 changelog. **Upgraded P2 → P1** and retitled to foreground the convergent item.
+- **Left open, not counted**: the Nietzsche *Genealogy* III quotation — ChatGPT calls it authentic, Claude disputes both wording and reference assignment, Gemini silent. Exactly one side is right; Claude's only evidence is Goodreads. Recorded as **open adjudication requiring a real Kaufmann edition**, deliberately excluded from every convergence count.
+- **Tasks upgraded**: 2 (P2→P1: 2; P3→P2: 0). **Tasks deduplicated**: 0 — all three collecting passes had already followed amend-don't-duplicate, so no redundant siblings existed. **Tasks minted**: 0.
+- **Final line numbers after the rewrites** (re-parsed with `parse_tasks`, zero-based): citation apparatus **L40** (P1), claim ladder **L62** (P1), falsifiers **L82** (P1, upgraded), boundaries **L104** (P2, untouched singleton), quote-provenance/site-methodology **L116** (P1, upgraded), Kunda/Ellis **L129** (P1), HOT **L150** (P2, untouched singleton). ⚠️ All seven re-verified to retain a non-`None` `review_file` pointer — the additive `Convergent with` form was used rather than the plural `Review files` the skill doc specifies, which silently zeroes the pointer at `tools/todo/processor.py:153` ([[combine-plural-review-files-line-blinds-parser]]).
+- **Stale figure corrected**: the ChatGPT leg's Verification Notes record the article at 2351 words. Re-measured with `analyze_length`: **2270**, `soft_warning`. Usable ceiling 2999, shared headroom **729** — the figure every task in the batch now carries.
+- **Sequencing recorded as a field**, since it binds harder than priority here: six tasks share 729 words on one file. Subtraction-first order written into the task blocks — falsifiers → citation apparatus → claim ladder → Kunda/Ellis → boundaries → HOT. The falsifiers upgrade is as much a sequencing fix as a priority one.
 
 ## 2026-09-20T04:43:00+00:00 - outer-review
 - **Status**: Success
