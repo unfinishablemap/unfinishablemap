@@ -200,6 +200,20 @@ p-cs5:
     — parsimony''s "no coupling" default is undefeated but not established — confidence: moderate · limited
     or indirect evidence · peripheral to the framework'
   weak: 'no'
+p-cs6:
+  bands: 'confidence: high · normative, not an empirical claim · framework-critical'
+  claim: The filter is the inbound leg of a two-way interface — filter evidence bears on Tenet 1 alone,
+    and a filter-only dualism is conservation-safe but causally inert
+  credence: high
+  grade: n/a
+  id: P-CS6
+  slug: consciousness-scope
+  status: live
+  structural_centrality: high
+  summary: 'P-CS6: The filter is the inbound leg of a two-way interface — filter evidence bears on Tenet
+    1 alone, and a filter-only dualism is conservation-safe but causally inert — confidence: high · normative,
+    not an empirical claim · framework-critical'
+  weak: 'no'
 p-d1:
   bands: 'confidence: high · some independent evidence · moderately central'
   claim: The anti-physicalist arguments are premise-sharing, not evidentially independent

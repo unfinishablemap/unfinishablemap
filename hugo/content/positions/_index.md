@@ -1,20 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-09-18 20:38:49+00:00
+ai_modified: 2026-09-20 20:56:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 author: Andy Southgate
 concepts:
 - '[[evidential-status-discipline]]'
 created: 2026-06-04
-date: &id001 2026-09-18
+date: &id001 2026-09-20
 description: The Map's explicit, maintained register of positions it currently holds
   — claims with status, confidence, dependencies, and conditions that would shift
   them.
 draft: false
 human_modified: 2026-06-04
 last_curated: 2026-06-04
-lastmod: 2026-09-18 20:38:49+00:00
+lastmod: 2026-09-20 20:56:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -73,6 +73,7 @@ That same commit did not update the paragraph above, which reads the column it h
 - **Updated 2026-09-14**: re-derived on adding [P-TU1](/positions/thought-and-understanding/#p-tu1) (`indirect` · framework-internal: no): live 56 → 57, **indirect** 23 → 24. Inert count unchanged at ten, now ten of fifty-seven; framework-internal inert nine and high-centrality inert five unchanged.
 - **Updated 2026-09-14** (second pass): re-derived on adding [P-PI1](/positions/perception-and-the-interface/#p-pi1) (`indirect` · framework-internal: no): live 57 → 58, **indirect** 24 → 25. Inert count unchanged at ten, now ten of fifty-eight; framework-internal inert nine and high-centrality inert five unchanged.
 - **Updated 2026-09-18**: re-derived on adding [P-A6](/positions/agency-and-will/#p-a6) (`none` · framework-internal: yes · structural centrality moderate), the volitionist half of the action theory: live 58 → 59, **none** 7 → 8, inert ten → eleven, framework-internal inert nine → ten. High-centrality inert unchanged at five — [P-A6](/positions/agency-and-will/#p-a6) is moderate. Eleven of fifty-nine is still a little under a fifth, so the disclosed-liability reading above is unmoved. Re-derived from the `- **Calibration**` lines rather than carried forward, and the whole chain back to the 2026-09-06 baseline reproduced exactly.
+- **Updated 2026-09-20**: re-derived on adding [P-CS6](/positions/consciousness-scope/#p-cs6) (`n/a` · framework-internal: yes · structural centrality high), the filter/interface partition entry: live 59 → 60, **n/a** 19 → 20. The band is *n/a* rather than *none* because the entry is a reading-and-accounting claim about what filter evidence supports, not a first-order claim no measurement reaches — the outbound leg's own inertness is already banded at [P-Q2](/positions/quantum-interface/#p-q2) and [P-Q7](/positions/quantum-interface/#p-q7) and is not double-counted here. Inert eleven, framework-internal inert ten and high-centrality inert five therefore all unchanged; eleven of sixty remains a little under a fifth. Re-derived from the `- **Calibration**` lines, and the 2026-09-18 figures reproduced exactly before the addition.
 
 ## Domains
 
@@ -85,7 +86,7 @@ The register is grouped by domain so it stays scannable as it grows. Each domain
 - [Moral status](/positions/moral-status/) — who can be wronged: the phenomenal-sentientism criterion (valenced experience necessary and sufficient for moral status, read phenomenally rather than functionally), registered downstream of the value domain's premise about what bears intrinsic value and kept distinct from it — biocentrism and agency pluralism the rivals on the necessity direction, status threshold not scalar
 - [Individuation and subjecthood](/positions/individuation-and-subjecthood/) — how subjects are individuated: the closed-individualist commitment (subject boundaries are real, over empty and open individualism), the conditional standing this gives Tenet 4's indexical objection, boundaries held determinate but unreadable off physical structure, the indivisibility of a perspective under fission and duplication, and the variant-relative reach of the anti-many-worlds case — three arguments against branch-egalitarian Everettianism, only the indexical one engaging first-personally centred variants and then only supplementarily
 - [Subject census](/positions/subject-census/) — the same subject matter carrying the *quantum-interface* dependency: why subject count and pairing become part of the interface's physical state description once conscious-state conditionals do causal work, the pairing law the Map owes and does not have (multi-agent composition and artificial-subject eligibility are its instances), and the undated onset and cessation of the channel
-- [Consciousness scope](/positions/consciousness-scope/) — where consciousness reaches in biological subjects: the substrate-permissive *minimal-dualism spine* (animal/infant phenomenality argued on bare Tenet 1 alone — a fallback that survives loss of the quantum apparatus, not independence from it inside the framework), animal consciousness graded by marker convergence, early infant emergence, and the fragmentation cases (split-brain, anaesthesia, sleep, dreaming) read as interface disruption rather than division of consciousness
+- [Consciousness scope](/positions/consciousness-scope/) — where consciousness reaches in biological subjects: the substrate-permissive *minimal-dualism spine* (animal/infant phenomenality argued on bare Tenet 1 alone — a fallback that survives loss of the quantum apparatus, not independence from it inside the framework), animal consciousness graded by marker convergence, early infant emergence, and the fragmentation cases (split-brain, anaesthesia, sleep, dreaming) read as interface disruption rather than division of consciousness, and the architectural entry that reading rests on: the filter as the inbound leg of a two-way interface, conservation-safe but inert on its own
 - [AI consciousness scope](/positions/ai-consciousness-scope/) — consciousness in artificial systems, split out for its heavier and *heterogeneous* dependency burden: current digital AI on the low-probability side of the substrate analysis (inherits the quantum-interface register), quantum-state inheritance as constrained-not-licensed by no-cloning, conscious copies as morally additive under closed individualism, and the workspace-like global-availability signatures of functional *access* consciousness observed in LLMs (Anthropic's J-space) while the *phenomenal* question stays untouched
 - [AI substrate verdicts](/positions/ai-substrate-verdicts/) — per-class substrate verdicts for artificial hardware, beginning with the quantum-computing classes: raw indeterminacy present, interface requirements failed — gate-based on three of five, the analog class more securely because adiabatic insensitivity is constitutive rather than an engineered defence. Split-graded on the [P-AC4](/positions/ai-consciousness-scope/#p-ac4) pattern: checkable engineering premises, framework-relative interface reading
 - [Arguments for dualism](/positions/arguments-for-dualism/) — what the anti-physicalist argument catalogue actually supports: premise-sharing rather than evidential independence, irreducibility-then-selection rather than three compounding routes, and cross-traditional near-independence rather than a third confirmation
