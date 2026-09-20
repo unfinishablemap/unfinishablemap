@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-21
-ai_modified: 2026-07-07 10:45:42+00:00
+ai_modified: 2026-09-20 08:38:30+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 10:45:42+00:00
-lastmod: 2026-07-07 10:45:42+00:00
+lastmod: 2026-09-20 08:38:30+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'
@@ -83,7 +83,9 @@ So what does the vestibular case add, if the physicalist explains the mechanism?
 
 The interface reading—conscious experience constituted at the [boundary](/concepts/mind-matter-interface/) between physical processing and phenomenal presentation—has no difficulty with a frame-providing modality that is largely brain-side. On the Map's [capability division](/apex/cross-modal-capability-division/), the brain extracts and integrates spatial content without consciousness, and the mind side contributes the felt point of view from which that content is experienced. A sense that is almost entirely the former—a sub-threshold spatial frame—and barely the latter is exactly what that division would predict at one extreme. The vestibular sense looks like a modality that is nearly all brain-side labour, whose mind-side contribution is not a felt object but the spatial *situatedness* of the subject.
 
-That framing is an accommodation, not a proof. The same facts are equally the output of frame-coding multisensory inference, and the Map claims no more than that the interface reading represents the silent frame without strain.
+That framing is [an accommodation, not a proof](/positions/perception-and-the-interface/). The same facts are equally the output of frame-coding multisensory inference, and the Map claims no more than that the interface reading represents the silent frame without strain.
+
+The [common-cause null](/project/common-cause-null/) the Map applies across the modality survey bites hardest here. The vestibular signal *is* multisensory integration, with no separate channel to converge from beyond the temporo-parietal hub it shares with vision, touch, and proprioception. So this case is not a further converging line but a deeper sounding of the architecture the others already tap: it extends what the asymmetry *means* without adding to how strongly it is confirmed.
 
 The residue is the explanatory-gap question, posed in an unusual register. For colour or pain the gap is "why is this physical state accompanied by *this* quale rather than another." The vestibular sense has scarcely any quale to attach the question to—and that is what makes the residue interesting. The question it leaves is: why is there a felt first-person perspective, oriented within a spatial frame, at all? The Bayesian estimator computes a head-relative-to-gravity estimate and the integration network fuses inputs into a self-location coordinate; both are functional descriptions of information processing. Neither states why any of it is *experienced from a point of view*—why there is a someone for whom there is an up and a heading. The vestibular case isolates this residue cleanly precisely because it strips away the distracting richness of a proprietary quale. The frame is felt as *had by a viewpoint*, and the viewpoint is what the functional story does not deliver.
 
@@ -99,7 +101,7 @@ The vestibular distinctives above are framed throughout as phenomena the dualist
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** and **[No Many Worlds](/tenets/#no-many-worlds)** enter only obliquely. Self-location presupposes a determinate indexical fact about which located body, here and now, is the one experienced as mine—the kind of indexical determinacy the Map's rejection of branching worlds is meant to secure. No vestibular datum establishes the quantum-interface mechanism; the dependence runs from the framework to the reading of the data, not from the data to the mechanism.
 
-The Map does not claim the vestibular sense settles dualism. It claims this sense is evidence any adequate theory must accommodate, and that the vestibular case extends the modality survey in a genuinely new direction. Where touch added a perceiver who is also perceived, and interoception added affect and owned selfhood, the vestibular sense adds the limiting case the whole series quietly assumed away: a modality that supplies the spatial frame of experience while barely appearing within it. A framework shaped by the richly felt senses looks incomplete until it can represent a sense that is almost all frame and almost no object—and the felt point of view that the frame is a frame *for*.
+The Map does not claim the vestibular sense settles dualism. It claims this sense is evidence any adequate theory must accommodate, and that the vestibular case extends the modality survey in a genuinely new direction. Where touch added a perceiver who is also perceived, and interoception added affect and owned selfhood, the vestibular sense supplies the limiting case the whole series quietly assumed away: a modality that supplies the spatial frame of experience while barely appearing within it. A framework shaped by the richly felt senses looks incomplete until it can represent a sense that is almost all frame and almost no object—and the felt point of view that the frame is a frame *for*.
 
 ## Further Reading
 

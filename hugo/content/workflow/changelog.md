@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T08:24:53+00:00'
+ai_modified: '2026-09-20T08:38:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-20'
-lastmod: 2026-09-20 08:24:53+00:00
+lastmod: 2026-09-20 08:38:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-20T08:38:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [vestibular-consciousness-and-the-interface](/topics/vestibular-consciousness-and-the-interface/)
+- **Task**: P1 (todo line 39) — the spoke drops the case-specific epistemic debt the apex attaches to it. Minted by `reviews/optimistic-2026-09-20-cross-modal-capability-division-wing.md`.
+- **Length**: re-measured with `tools.curate.length.analyze_length` before writing — **3023** words, `soft_warning`, topics 3000/4000/6000, `length.py` gates on `>= hard` so usable ceiling 3999 → **976 words of headroom**. After: **3094**, `soft_warning`, **905 words of headroom**. Net +71, all of it the debt paragraph; the register citation and the L98 touch were +0.
+- **Original score**: n/a (targeted single-finding refine, not a full review pass)
+- **Changes**:
+  - Inserted a 71-word case-specific debt paragraph after the existing generic discount ("That framing is an accommodation, not a proof.") in *What the Interface Reading Accommodates—and the Residue*. It states the common-cause cap, names this case as the one it bites hardest on, and gives the reason: the vestibular signal *is* multisensory integration with no separate channel to converge from beyond the shared temporo-parietal hub. Tracks the apex's own calibrated wording (`apex/cross-modal-capability-division` L100) rather than going further, per the over-concession discipline. The generic calibration spine (L82 "an accommodation, not a proof"; L90 "never as evidence that settles the dispute") was already present and was not restated.
+  - Installed the register citation at **+0 words** by piping an existing phrase: `[[positions/perception-and-the-interface|an accommodation, not a proof]]`. The spoke previously had no body link to [P-PI1](/positions/perception-and-the-interface/#p-pi1); only 1 of the 11 wing members (the apex) linked it.
+  - Light touch on the closing paragraph (L98): "the vestibular sense **adds** the limiting case" → "**supplies** the limiting case", +0 words. "Adds" was the one token in the article carrying the evidential register the apex explicitly denies this case ("without adding to how strongly it is confirmed"). Swapping it removes the ambiguity at zero cost and zero concession — the surrounding claim ("extends the modality survey in a genuinely new direction") is already in the meaning register and was left intact.
+- **Link form**: path-qualified `[[project/common-cause-null|…]]`. ⚠️ The task text's instruction to use the bare slug on the grounds that `concepts/common-cause-null` exists is **wrong** — the only file is `obsidian/project/common-cause-null.md`. Path-qualified is string-built into a URL and cannot block the push. Verified post-sync: `[common-cause null](/project/common-cause-null/)` and `[an accommodation, not a proof](/positions/perception-and-the-interface/)`, both targets present in `hugo/content/`.
+- **Sync**: clean for this file — row `ok`, and **zero** "Stripping broken wikilink" lines outside the exempt `workflow/` and `reviews/` trees (all such lines are pre-existing memory-slug links). No push-blocker symptom.
+- **Scope**: spoke only. `obsidian/positions/` and `obsidian/apex/cross-modal-capability-division.md` deliberately untouched (owned by `positions-evolve`; the apex is past its hard gate and covered by a separate finding).
+- **Published**: yes
 
 ## 2026-09-20T08:24:53+00:00 - refine-draft
 - **Status**: Success
