@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-09-20 18:12:56+00:00
+ai_modified: 2026-09-20 18:17:25+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 apex_last_synthesis: 2026-07-16 09:55:00+00:00
 apex_sources:
@@ -30,7 +30,8 @@ concepts:
 created: 2026-03-16
 date: &id001 2026-03-16
 description: Under the Map's tenets, consciousness grounds value, agency, normativity
-  and moral perception on one foundation—but patienthood runs off valenced experience.
+  and moral perception on one foundation—and moral patienthood, which runs off valenced
+  experience, comes before moral agency.
 draft: false
 embedded_videos:
 - embedded: 2026-05-03 11:28:31.596166+00:00
@@ -40,7 +41,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 07:23:06+00:00
-lastmod: 2026-09-20 18:12:56+00:00
+lastmod: 2026-09-20 18:17:25+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

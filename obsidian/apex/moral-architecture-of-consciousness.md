@@ -1,10 +1,10 @@
 ---
 title: "The Moral Architecture of Consciousness"
-description: "Under the Map's tenets, consciousness grounds value, agency, normativity and moral perception on one foundation—but patienthood runs off valenced experience."
+description: "Under the Map's tenets, consciousness grounds value, agency, normativity and moral perception on one foundation—and moral patienthood, which runs off valenced experience, comes before moral agency."
 created: 2026-03-16
 modified: 2026-03-16
 human_modified: null
-ai_modified: 2026-09-20T18:12:56+00:00
+ai_modified: 2026-09-20T18:17:25+00:00
 last_deep_review: 2026-07-15T07:23:06+00:00
 draft: false
 topics:
