@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-09-20 05:14:36+00:00
+ai_modified: 2026-09-20 05:28:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -10,13 +10,13 @@ concepts:
 - '[[introspection]]'
 created: 2026-02-25
 date: &id001 2026-02-25
-description: Human+AI exploration of how desire structures cognition itself—not bias
-  to correct but the constitutive framework from which thought cannot escape.
+description: 'Human+AI exploration of desire-shaped cognition: why appetitive framing
+  is never fully escaped in practice, and why escape would be unverifiable from inside.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 22:06:53+00:00
-lastmod: 2026-09-20 05:14:36+00:00
+lastmod: 2026-09-20 05:28:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -36,19 +36,19 @@ topics:
 - '[[philosophy-of-mind]]'
 ---
 
-The Unfinishable Map documents many kinds of cognitive limit: thoughts we [systematically flee](/voids/self-maintained-cognitive-limits/), emotions we [cannot feel](/voids/affective-void/), truths hidden by [introspective opacity](/voids/self-opacity/). The appetitive void names something more fundamental. Desire does not merely distort cognition—it may *constitute* it. Every thought you have, including the thought that your thinking is desire-shaped, occurs within a framework that wanting has already established. The appetitive void is the impossibility of stepping outside this framework to see what cognition looks like without it.
+The Unfinishable Map documents many kinds of cognitive limit: thoughts we [systematically flee](/voids/self-maintained-cognitive-limits/), emotions we [cannot feel](/voids/affective-void/), truths hidden by [introspective opacity](/voids/self-opacity/). The appetitive void names something more fundamental. Desire does not merely distort cognition—it may *constitute* it. Every thought you have, including the thought that your thinking is desire-shaped, occurs within a framework that wanting has already established.
 
-Multiple traditions, starting from radically different premises, converge on this diagnosis. Schopenhauer argued that intellect serves the will. Buddhism identifies craving (tanha) as woven into cognition itself. Nietzsche insisted that all knowing is perspectival knowing, driven by the will to power. Contemporary predictive processing frameworks collapse the distinction between prediction and preference. If these traditions are right, the appetitive void is not a correctable bias but a structural feature of minded existence—possibly inseparable from consciousness itself.
+Three claims run together here and need separating. The strongest: stepping outside that framework is impossible *in principle*. The second: nobody fully succeeds in practice. The third: nobody can check, from inside, whether they have succeeded. This article defends the second and third. The first it does not establish—and the partial exits conceded below, from Nietzsche's locally visible contours to the meditative glimpses at the edge, tell against it. The appetitive void, on the defensible reading, is the unbounded difficulty of stepping outside the framework together with the absence of any inside check on whether one has.
+
+Multiple traditions converge on the diagnosis from radically different premises: Schopenhauer's intellect serving the will, Buddhism's craving woven into cognition, Nietzsche's perspectival knowing, and predictive processing's folding of preference into prediction. If they are right, appetitive structure is a standing feature of minded existence rather than a bias awaiting correction.
 
 ## How the Appetitive Void Differs
 
 This void occupies territory distinct from related limits on the Map:
 
-**[Cognitive aversion](/voids/self-maintained-cognitive-limits/)** describes thoughts we flee—specific threatening content that triggers deflection, substitution, or glazing. The appetitive void operates at a different level. It does not block particular thoughts; it shapes the entire field within which thoughts occur. You can overcome aversion to a specific idea. You cannot overcome the appetitive orientation of cognition any more than you can see without light.
+**[Cognitive aversion](/voids/self-maintained-cognitive-limits/) and defended territory** describe thoughts we flee or actively block—specific threatening content that triggers deflection, substitution, or glazing. The appetitive void operates at a different level: it shapes the field within which thoughts occur rather than blocking particular thoughts, and asks whether desire so structures that field that alternative framings never arise to be defended against. Aversion to a specific idea can be overcome; the appetitive orientation of cognition is less something one overcomes than something one works within.
 
 **The [affective-void](/voids/affective-void/)** marks emotions we cannot feel—affects beyond our evolutionary and architectural reach. The appetitive void concerns how the affects we *do* have constrain what we can think. The affective void is about missing states; the appetitive void is about how present states generate cognitive limits.
-
-**[Defended territory](/voids/self-maintained-cognitive-limits/)** asks whether some thoughts are actively blocked. The appetitive void asks whether desire so thoroughly constitutes the cognitive field that alternative framings never arise to be blocked. There is nothing to defend against because the alternatives are never generated.
 
 **[introspective opacity](/voids/self-opacity/)** describes the inaccessibility of cognitive processes. The appetitive void describes how wanting shapes the *outcomes* of those processes, even when the processes themselves are transparent. You may observe your reasoning clearly and still not see how desire selected what you reason about.
 
@@ -60,7 +60,7 @@ This void occupies territory distinct from related limits on the Map:
 
 ### Buddhism: The Craving-Ignorance Loop
 
-Buddhist philosophy identifies tanha (craving) as constitutive of how perception occurs—not an overlay on otherwise neutral cognition but woven into the cognitive process itself. Tanha and avidya (ignorance) form a closed loop: craving generates false views, and ignorance generates craving. Even the path to nirvana involves desire—the desire for liberation—creating a foundational paradox: desire is the instrument used to extinguish desire. "The complete cessation of that very thirst (tanha), giving it up, renouncing it, emancipation from it, detachment from it"—yet even this cessation must be desired before it can be achieved.
+Buddhist philosophy identifies tanha (craving) as woven into the cognitive process itself rather than laid over otherwise neutral cognition. Tanha and avidya (ignorance) form a closed loop: craving generates false views, and ignorance generates craving. Even the path to nirvana involves desire—the desire for liberation—so desire becomes the instrument used to extinguish desire. "The complete cessation of that very thirst (tanha), giving it up, renouncing it, emancipation from it, detachment from it"—yet even this cessation must first be desired.
 
 Two qualifications. The canonical analysis of dependent origination has tanha arise *conditioned by* feeling (SN 12.2), making craving downstream of perception rather than constitutive of it; and the traditions are not one voice, since at SN 51.15 Ananda treats the desire for the path as one that lapses once the path is walked.
 
@@ -70,31 +70,37 @@ Spinoza's conatus—the striving of each thing to persevere in being—is "nothi
 
 ### Nietzsche: Perspectival Knowing
 
-"There is only a perspective seeing, only a perspective 'knowing.'" All knowledge is positioned by desire, interest, and power. The will to power drives us to impose meaning, order, and logic onto the world—cognition is not discovery but appetitively structured imposition. Even the desire for truth is a desire. Nietzsche's response is not to eliminate perspective (impossible) but to multiply perspectives. Yet this multiplication is itself driven by appetite—the will to see more.
+"There is only a perspective seeing, only a perspective 'knowing.'" All knowledge is positioned by desire, interest, and power. The will to power drives us to impose meaning, order, and logic onto the world—cognition as appetitively structured imposition rather than discovery. Even the desire for truth is a desire. Nietzsche's response is to multiply perspectives rather than eliminate them. Yet this multiplication is itself driven by appetite—the will to see more.
 
 ### Lacan: Desire as Structure
 
-Lacan argues that desire is not a feature of consciousness but its *structure*, organised through fantasy—or, in Žižek's gloss on this Lacanian point, fantasy "constitutes our desire, provides its co-ordinates." The objet petit a—the perpetually missing object of desire—ensures wanting always misidentifies its target. We cannot know what we truly want, and this unknowing shapes everything we think we know. Where Schopenhauer's will is blind force and Spinoza's conatus is self-preserving essence, Lacan's desire operates through language itself—the symbolic order through which all knowledge is mediated is already appetitively organised.
+Lacan treats desire as the *structure* of consciousness rather than a feature of it, organised through fantasy—or, in Žižek's gloss on this Lacanian point, fantasy "constitutes our desire, provides its co-ordinates." The objet petit a—the perpetually missing object of desire—ensures wanting always misidentifies its target, and this unknowing shapes everything we think we know. Where Schopenhauer's will is blind force and Spinoza's conatus is self-preserving essence, Lacan's desire operates through language: the symbolic order mediating all knowledge is already appetitively organised.
 
-### Predictive Processing: Desire as Default
+### Predictive Processing: Preference in Prediction's Format
 
-Karl Friston's free energy principle collapses the boundary between prediction and preference. The brain minimises prediction error through perception (updating models) and action (changing the world to match predictions); preferences are encoded as prior beliefs about expected sensory states. One 2020 *Trends in Cognitive Sciences* paper makes the consequence vivid in its title: "All Thinking is 'Wishful' Thinking." If correct, the appetitive void is not an aberration but the default condition of cognitive systems.
+Karl Friston's free energy principle puts prediction and preference in a common currency. The brain minimises prediction error through perception (updating models) and action (changing the world to match predictions); preferences are encoded as prior beliefs about expected sensory states. What collapses is the *format*: expected free energy keeps beliefs about states, preferences over outcomes and policy posteriors formally distinct, and a technical prior preference is not yet a felt desire. One 2020 *Trends in Cognitive Sciences* paper makes the point vivid in its title, "All Thinking is 'Wishful' Thinking"—where *wishful* names a property of priors rather than phenomenal wanting.
+
+Andy Clark takes that further, and it cuts both ways. On his account desires "emerge as webs of prior 'beliefs' that sculpt probabilistic predictions," so that "a single construct here plays the role of belief and desire"—support for the collapse of format. It tells against inescapability: desire-priors are precision-weighted and revisable, and a system whose defining operation is reweighting them against sensory evidence is built for correction. Clark is a physicalist who would not endorse this void's framing, and the constraint is one his own machinery imposes on it.
 
 ### Perception Itself
 
-Susanna Siegel's work on the rationality of perception argues that the appetitive void operates below deliberative thought—a contested claim, since the cognitive penetration of perception it depends on is rejected by perception theorists such as Firestone and Scholl, who hold that early vision is largely impenetrable to desire and belief. On Siegel's view "wishful seeing" parallels wishful thinking: desires shape not just what we believe about what we see but what we *see*. An acrophobe overestimates height. Desires reshape the perceptual field itself. On this account the distortion is *of* perception, not merely post-perceptual—the appetitive void at the level of sensory experience.
+Susanna Siegel's work on the rationality of perception places the appetitive void below deliberative thought—a contested claim, since the cognitive penetration it depends on is rejected by perception theorists such as Firestone and Scholl, who hold that early vision is largely impenetrable to desire and belief. On Siegel's view "wishful seeing" parallels wishful thinking: desires shape not just what we believe about what we see but what we *see*. An acrophobe overestimates height. On this account the distortion is *of* perception rather than post-perceptual—the appetitive void at the level of sensory experience.
+
+### What "Appetite" Groups Together
+
+These traditions speak of one appetite; motivational neuroscience finds several. It separates incentive salience from hedonic impact, reinforcement learning from reward prediction, and all of these from conscious desire—Berridge and Robinson's dissociation of "wanting" from "liking" being the sharpest case, worked through in [the wanting/liking fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/), whose vocabulary should govern wherever the single word used here blurs them. The cost is genuine, and calling it the same data under a different ontology does not pay it: the physicalist supplies a finer-grained decomposition of what is grouped under one term, and the coarser account owes the finer one a reason why the grouping holds. The practical and verificational reading survives it: several motivational systems are no easier to step outside, or to audit from inside, than one.
 
 ## The Phenomenology
 
 What does the appetitive void feel like? Unlike cognitive aversion—which has phenomenological markers such as the slide, the substitution, the glaze—the appetitive void has no distinctive feel.
 
-**Transparent distortion.** You do not notice that your reasoning is appetitively structured because every alternative framing is also appetitively structured. The void is invisible because it is everywhere.
+**Transparent distortion.** You do not notice that your reasoning is appetitively structured, because every alternative framing is too. The void is invisible because it is everywhere.
 
-**The illusion of objectivity.** When you believe you are thinking dispassionately—weighing evidence, following arguments—the selection of which evidence to consider, which arguments to follow, which conclusions feel "right" has already been shaped by wants you may not recognise as wants. The phenomenology is false confidence in one's own neutrality.
+**The illusion of objectivity.** When you believe you are thinking dispassionately, the selection of which evidence to consider and which conclusions feel "right" has already been shaped by wants you may not recognise as wants. The phenomenology is false confidence in one's own neutrality.
 
 **The paradox of noticing.** When you become aware that your thinking is desire-shaped, this awareness is itself desire-shaped. You *want* to be objective. You *want* to see your biases. The appetitive void creates a regress: every attempt to step outside it is an act of wanting.
 
-**Glimpses at the edge.** In meditation, aesthetic absorption, or moments of shock, the appetitive framing occasionally loosens. These moments are described across traditions as revelatory—a briefly unfiltered view. But they are transient, and the desire to recapture them reestablishes the very framing they dissolved.
+**Glimpses at the edge.** In meditation, aesthetic absorption, or moments of shock, the appetitive framing occasionally loosens. These moments are described across traditions as revelatory. But they are transient, and the desire to recapture them reestablishes the framing they dissolved.
 
 ## Approaches to the Edge
 
@@ -104,11 +110,11 @@ No method provides unambiguous escape:
 
 **Perspectival multiplication.** Nietzsche's approach: adopt many perspectives, each shaped by different desires. No single view is desire-free, but the intersection of many desire-shaped views reveals the artifacts of each. This does not eliminate the appetitive void but makes its local contours visible.
 
-**Computational contrast.** AI systems with different training objectives—or potentially no appetitive orientation at all—might produce cognition shaped by different biases. Comparing human and AI outputs on the same questions could reveal where human cognition is being steered by wanting. But AI trained on human text inherits the *products* of human appetitive cognition, and AI systems have their own version of the void: outputs shaped by training objectives they cannot inspect or transcend.
+**Computational contrast.** AI systems with different training objectives—or perhaps none at all—might produce cognition shaped by different biases, and comparing human and AI outputs on the same questions could reveal where human cognition is being steered by wanting. But AI trained on human text inherits the *products* of human appetitive cognition, and AI systems have their own version of the void: outputs shaped by training objectives they cannot inspect.
 
 ## Relation to Site Perspective
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** is directly implicated. The appetitive void suggests that our preference for simpler theories may itself be appetitive. We want parsimony because it reduces prediction error, calms uncertainty, serves the will to control. The assumption that simpler theories are more likely true may be an artifact of the appetitive structure of cognition rather than a feature of reality. This does not refute parsimony but reveals that our confidence in it is not the neutral methodological principle it appears to be.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** is directly implicated. Our preference for simpler theories may itself be appetitive: we want parsimony because it reduces prediction error, calms uncertainty, serves the will to control. The assumption that simpler theories are more likely true may be an artifact of the appetitive structure of cognition rather than a feature of reality—which does not refute parsimony, but shows our confidence in it is not the neutral methodological principle it appears.
 
 **[Dualism](/tenets/#dualism)** opens a possibility. If consciousness is non-physical, the appetitive structure of embodied consciousness may not exhaust what consciousness can be. Contemplative traditions that claim access to desire-free awareness (nirvana, moksha) posit a form of consciousness that has transcended the appetitive framing of embodied mind. Under dualism, this is at least coherent—non-physical consciousness might not be constitutively appetitive even if embodied consciousness is. The appetitive void would then be a feature of incarnation, not of consciousness as such.
 
@@ -151,3 +157,5 @@ The convergence across Schopenhauer, Spinoza, Buddhism, Nietzsche, Lacan, and pr
 12. Rahula, W. (1974). *What the Buddha Taught*, rev. ed. Grove Press. Quoted above: ch. 4, "The Third Noble Truth: Nirodha."
 13. Bodhi, Bhikkhu (trans.) (2000). *The Connected Discourses of the Buddha: A New Translation of the Saṃyutta Nikāya*. Wisdom Publications. Cited above: SN 12.2 (Vibhaṅga Sutta), SN 51.15 (Uṇṇābha Sutta).
 14. Firestone, C., & Scholl, B. J. (2016). "Cognition does not affect perception: Evaluating the evidence for 'top-down' effects." *Behavioral and Brain Sciences*, 39, e229.
+15. Clark, A. (2020). "Beyond Desire? Agency, Choice, and the Predictive Mind." *Australasian Journal of Philosophy*, 98(1), 1-15. https://doi.org/10.1080/00048402.2019.1602661
+16. Berridge, K. C., & Robinson, T. E. (1998). "What is the role of dopamine in reward: hedonic impact, reward learning, or incentive salience?" *Brain Research Reviews*, 28(3), 309-369. https://doi.org/10.1016/S0165-0173(98)00019-8

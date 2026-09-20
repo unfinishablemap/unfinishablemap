@@ -1,9 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T04:55:26+00:00'
+ai_modified: '2026-09-20T05:28:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-20T05:28:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/appetitive-void]]
+- **Task**: todo.md L39 (P1) — the claim ladder and the Wanting/Liking construct propagation. **The only 3-of-3 reviewer convergence of the cycle.**
+- **Original score**: not run — `scripts/curate.py` does not exist (the skill's Step 3 command is stale); the outer-review triple served as the review input.
+- **Length**: 2467 → 2735 words (voids soft 2000 / hard 3000, `soft_warning` before and after). Usable ceiling 2999, so **264 words of headroom** remain for the four sibling tasks. Net **+268**, above the ~80 the driver targeted: three of the five mandated moves (the ladder, the Clark engagement, the fractionation concession) are irreducibly additive, and ~190 words of compensating subtraction were taken from prose no sibling task owns. The subtractive falsifiers task (L60) was **not** pre-spent.
+- **Claim ladder installed (three rungs, lead position)**: (a) stepping outside the appetitive framework is impossible *in principle*; (b) nobody fully succeeds in practice; (c) nobody can check, from inside, whether they have succeeded. The article now states that it defends (b) and (c), does not establish (a), and that its own conceded partial exits tell against (a). Claude's cheap three-rung modal version was taken over ChatGPT's five-rung semantic one; the taxonomy was delegated to the Wanting/Liking link rather than restated as a table.
+- **Description rewritten** (navigation surface, machine-meta only, never reviewed): was *"Human+AI exploration of how desire structures cognition itself—not bias to correct but the constitutive framework from which thought cannot escape."* (asserted (a) verbatim, and used the banned "not X but Y" construct); now *"Human+AI exploration of desire-shaped cognition: why appetitive framing is never fully escaped in practice, and why escape would be unverifiable from inside."* (157 chars; asserts (b) and (c) only).
+- **Changes**:
+  - **Subtracted the (a) assertions.** `impossibility of stepping outside` = 1 → **0**. The lead's defining sentence, the §1 closer ("a structural feature of minded existence—possibly inseparable from consciousness itself"), the §2.6 closer ("the default condition of cognitive systems"), the §2.6 heading ("Desire as Default" → "Preference in Prediction's Format", zero referrers corpus-wide, checked in slug and heading-text form), and the cognitive-aversion paragraph's "You cannot overcome the appetitive orientation of cognition any more than you can see without light" were each requalified to the (b)/(c) reading.
+  - **Construct propagation (3-of-3 finding).** New ~110-word subsection *What "Appetite" Groups Together* closing §2. `Berridge` 0 → 1 body, `incentive salience` 0 → 1 body, and a piped bare-slug wikilink `[[wanting-liking-and-the-value-in-mechanism-fork|the wanting/liking fork]]` delegates the taxonomy; it resolves in Hugo to `/topics/wanting-liking-and-the-value-in-mechanism-fork/`.
+  - **Clark 2020 added (entry 15).** *Australasian Journal of Philosophy* 98(1), 1–15, DOI `10.1080/00048402.2019.1602661`. Both fragments quoted verbatim. The double edge is stated explicitly: the "single construct" claim **supports** the collapse of prediction/preference *format*, and **undercuts** inescapability, because precision-weighted revisable desire-priors are what a reweighting system exists to correct. Clark is on the predictive-processing co-optation roster, so the paragraph names him as a physicalist who would not endorse the void's framing.
+  - **Berridge & Robinson 1998 added (entry 16)** for the wanting/liking dissociation. References **appended, not renumbered** — the list now runs 1–16.
+  - **§2.6 overclaim trimmed.** "collapses the boundary between prediction and preference" → the *format* collapses while expected free energy keeps beliefs about states, preferences over outcomes and policy posteriors formally distinct, and a technical prior preference is "not yet a felt desire". The §1 preview sentence was trimmed to match.
+  - **The headline quote's own equivocation flagged** (Gemini's one live residue): "All Thinking is 'Wishful' Thinking" now carries "—where *wishful* names a property of priors rather than phenomenal wanting". One clause, as scoped.
+  - **Compensating subtractions** (all outside sibling-task territory): §1 tradition preview condensed; Buddhism §2.2 opening, Spinoza-adjacent Lacan §2.5, Nietzsche §2.4, Perception §2.7, three *Phenomenology* bullets, *Computational contrast*, and the Occam tenet paragraph tightened; the *Cognitive aversion* and *Defended territory* paragraphs merged (they linked the same article and drew one distinction between them). Three "not X but Y" constructions removed en route.
+- **Engagement classification** (editor-internal):
+  - Physicalist fractionation objection: **Mode Three**, with an explicit owned concession. No in-framework refutation is available — the decomposition into incentive salience, hedonic impact, reinforcement learning, reward prediction, effort allocation, homeostatic need and conscious desire is correct on its own terms and is *finer-grained* than the article's single word. The prose therefore says the cost "is genuine, and calling it the same data under a different ontology does not pay it", then marks what survives independently of the grouping — the (b)/(c) rungs — rather than dressing survival as refutation.
+  - Andy Clark: **Mode One, turned inward.** The in-framework argument is run from Clark's own commitments (precision weighting, revisable priors) but lands *against the Map's* strong reading rather than against Clark's; the article concedes it. Recorded as an engagement because it is a named-opponent passage on the co-optation roster.
+  - No mode labels, `Evidential status:` callouts, or `direct-refutation-discipline` meta-commentary were written into the body.
+- **Not imported**: Gemini's "Bailey et al. (2022)" citation (the paper is Desrochers, Spring & Nautiyal 2022, `10.3389/fnbeh.2022.791749`, serotonergic impulsivity — not the dopaminergic wanting/liking dissociation it was attached to) and its unlocatable "Shiller, *Entropy* 2024". Berridge & Robinson cited instead. Gemini's §2.6 deflation charge was **not** actioned: *Relation to Site Perspective* already concedes it, and that section was left as written.
+- **Published**: yes
+- **Sync**: `scripts/sync.py` clean for this file; verified in both trees by `grep -cF` (description checked on a fragment, since the YAML re-serialiser line-wraps it in Hugo).
 
 ## 2026-09-20T05:14:36+00:00 - refine-draft
 - **Status**: Success
