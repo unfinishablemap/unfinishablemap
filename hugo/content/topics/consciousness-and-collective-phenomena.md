@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-08-02 12:49:15+00:00
+ai_modified: 2026-09-20 20:42:38+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -26,8 +26,8 @@ description: Groups are not conscious, but collective intentionality requires in
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-12 18:07:16+00:00
-lastmod: 2026-08-02 12:49:15+00:00
+last_deep_review: 2026-09-20 20:42:38+00:00
+lastmod: 2026-09-20 20:42:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -130,6 +130,12 @@ Between one and three years, children develop shared intentionality with complem
 
 The near-absence of these capacities in great apes — despite their considerable social intelligence — suggests that we-mode phenomenology may require cognitive resources that mere social intelligence does not supply. Apes can coordinate behaviour and cooperate for mutual benefit. What they apparently cannot do is experience activities *as shared* in the way that underwrites human collective intentionality. Tomasello argues this capacity, more than any enhancement in individual reasoning, distinguishes human cognition.
 
+### Plural Subjects and Group Agents
+
+Two standard rivals sit outside the argument above and are worth naming rather than passing over. Margaret Gilbert grounds shared agency in *joint commitment* — two or more people committing, as a body, to intend or believe something — rather than in each participant's metarepresentation of what the others intend. Gilbert posits no group mind; a plural subject remains a plurality of individuals. Her account is therefore an ally on the Map's first claim, that no jury or market experiences anything, while pressing on the second: joint commitment and the obligations it generates might be specified without the phenomenal understanding this article makes a requirement. The Map's line of reply is that the open expression of readiness Gilbert's account demands is itself a comprehension-laden act, but making that out properly is work this article does not do.
+
+Christian List and Philip Pettit's *Group Agency* (2011) makes the parallel move for agency rather than intention: a group counts as an agent in virtue of representational states, motivational states, and a procedure for acting on them. Their account is functionalist, and so compatible with — rather than an assertion of — group phenomenal consciousness. Where it bites hardest is on culpability rather than experience, and the Map engages it there, in its account of [machine and corporate responsibility](/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/): what such accounts establish is establishable without a conscious selector.
+
 ## Institutional Reality as a Test Case
 
 Searle argues that institutional facts — money, property, marriage, government — depend on collective intentionality. A piece of paper counts as money because enough people collectively accept it as money, not because of its physical properties. Creating and sustaining institutional reality requires "status functions": assigning powers to objects and people that they cannot perform by virtue of physics alone.
@@ -180,7 +186,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet counsels against di
 - [phenomenology-of-trust](/topics/phenomenology-of-trust/) — How trust operates across the intersubjective void
 - [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) — Whether consciousness is constitutively intersubjective or ontologically individual
 - [intersubjectivity](/concepts/intersubjectivity/) — The shared space between phenomenal subjects
-- [ai-moral-agency-and-the-responsibility-gap-under-dualism](/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/) — The culpability parallel: why a corporation, like an autonomous machine, is not a terminus for blame
+- [ai-moral-agency-and-the-responsibility-gap-under-dualism](/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/) — The culpability parallel: why, on the Map's reading, a corporation is no more a terminus for blame than an autonomous machine is
 
 ## References
 
@@ -188,6 +194,8 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet counsels against di
 1. Searle, J. R. (1995). *The Construction of Social Reality*. Free Press.
 1. Bratman, M. E. (1992). "Shared Cooperative Activity." *The Philosophical Review*, 101(2), 327-341.
 1. Bratman, M. E. (2014). *Shared Agency: A Planning Theory of Acting Together*. Oxford University Press.
+1. Gilbert, M. (1989). *On Social Facts*. Routledge (Princeton University Press, 1992 reprint).
+1. List, C., & Pettit, P. (2011). *Group Agency: The Possibility, Design, and Status of Corporate Agents*. Oxford University Press.
 1. Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
 1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
 1. Schmid, H. B. (2009). *Plural Action: Essays in Philosophy and Social Science*. Springer.
