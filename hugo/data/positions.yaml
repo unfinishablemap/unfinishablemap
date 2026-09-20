@@ -390,6 +390,20 @@ p-m5:
   summary: 'P-M5: Disclosure is not self-correction — a discipline binds only as far as the pipeline enforces
     it — confidence: high · normative, not an empirical claim · moderately central'
   weak: 'no'
+p-ma1:
+  bands: 'confidence: moderate · no independent evidence · moderately central'
+  claim: Autonoetic re-experiencing is constitutive of the kind of memory one has rather than an accompaniment
+    to it — held at moderate credence on a decisive test that exists in design and has never been run
+  credence: moderate
+  grade: D
+  id: P-MA1
+  slug: memory-and-autonoesis
+  status: live
+  structural_centrality: moderate
+  summary: 'P-MA1: Autonoetic re-experiencing is constitutive of the kind of memory one has rather than
+    an accompaniment to it — held at moderate credence on a decisive test that exists in design and has
+    never been run — confidence: moderate · no independent evidence · moderately central'
+  weak: 'yes'
 p-mc1:
   bands: 'confidence: high · some independent evidence · moderately central'
   claim: Self-stultification decisively burdens bare-correlation epiphenomenalism; the phenomenal-concept
