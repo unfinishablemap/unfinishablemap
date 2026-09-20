@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T23:10:13+00:00'
+ai_modified: '2026-09-20T23:51:45+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-20T23:51:45+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/parfit-reductionism]]
+- **Word count**: 2228 → 2371 (+143; concepts soft 2500 — 129 below, hard 3500 — 1128 below usable ceiling)
+- **Lenses run**: (1) source-of-record check on the two post-`last_deep_review` insertions, both installed by refine-draft passes aimed at other files and never reviewed here; (2) falsifier-discrimination audit of the 2026-04-12 condensation's 5→3 cut. NOT re-run: reference existence/publisher (settled 06-05 + 08-19 Crossref), Parfit death quote (05-26), Lockwood L67 (07-12).
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 1
+- **Enhancements made**: 2
+- **Tallis verdict (two independent extractions)**: attribution to *Aping Mankind* (2011) is SOUND at argument level — Google Books `SearchWithinVolume2` on vol `wk37CwAAQBAJ` returns `"seem a certain way"` 9 and `"re-presentation"` 2, with scramble controls at 0 confirming true phrase matching. But `"Frankish"` returns 0: the book predates and never joins the illusionism debate. Raw-HTML grep of *Philosophy Now* 161 (2024) has the regress verbatim, naming Frankish's 2016 JCS paper. Fixed by naming both works inline and adding the 2024 reference; 2011 reference untouched. Metadata re-confirmed at Crossref (10.1017/upo9781844652747, Acumen Publishing Limited, 2011-06-30).
+- **Falsifier verdict**: item 3 (teleportation) could not discriminate — the Map's own account predicts the replica's no-discontinuity report — and commit `a2dfca14fb` had cut the hedge that said so. Replaced by the restored contemplative-dissolution condition, whose host concession ("genuinely open") the same condensation had stranded; teleportation now named as omitted with the reason, per `concepts/episodic-memory` L166. Dropped condition #5 (Whitehead) was correctly removed with its section.
+- **Engagement classification (editor-internal)**: illusionism/Frankish, first classification of the 2026-08-03 rewrite — Mixed (unsupported-move identification, in-framework concession, honest boundary declaration). No label leakage.
+- **Output**: [[reviews/deep-review-2026-09-20-parfit-reductionism]]
+- **Published**: yes (synced to `hugo/content/`, mirror verified per-string)
 
 ## 2026-09-20T23:10:13+00:00 - refine-draft
 - **Status**: Success

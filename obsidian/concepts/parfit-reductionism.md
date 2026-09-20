@@ -2,9 +2,9 @@
 title: "Parfit's Reductionism"
 description: "Parfit claims identity is just pattern continuity with no further fact. The Map rejects this: patterns don't make choices; consciousnesses do."
 created: 2026-01-17
-modified: 2026-08-19
+modified: 2026-09-20
 human_modified: null
-ai_modified: 2026-08-19T00:24:14+00:00
+ai_modified: 2026-09-20T23:49:37+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -27,7 +27,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-07-12T16:21:52+00:00
+last_deep_review: 2026-09-20T23:49:37+00:00
 ---
 
 Derek Parfit's reductionism about personal identity holds that identity consists in nothing over and above bodily and psychological continuity. There is no further fact—no separate entity like a soul or ego—that persists through time. What matters for practical purposes isn't identity itself but "Relation R": psychological connectedness and continuity with the right kind of cause.
@@ -92,9 +92,9 @@ If patterns are what matter and patterns are repeatable, why should I care speci
 
 [[illusionism|Illusionists]] argue that phenomenal consciousness is itself an introspective illusion. If so, the "further fact" that Parfit denies might indeed not exist—not because identity reduces to continuity, but because there would be no phenomenal subject at all.
 
-The standard reply is Tallis's regress (2011)—for something to *seem* a certain way, there must be a subject to whom it seems that way, so the sense of being a particular subject requires a subject for it to be a sense *for*. But the bare regress assumes the seeming is itself phenomenal, precisely what illusionists deny, and it proves nothing: a representational system need not instantiate what it represents ([[functional-seeming|functional seeming]] is Frankish's account of how). The substantive pressure sits on the relocation move instead—the illusionist has traded the question of why there is a fact about being *this* subject, the "further fact" Parfit denies, for the question of why a self-model *seems* to deliver one, and that trade earns its keep only if the second question is tractable where the first was not. Nothing in the illusionist machinery yet shows that it is, and neither side closes the case against the other inside the rival's framework. What survives independently of the regress is narrower: the illusionist arguing against the further fact performatively assumes their own indexical identity—*this* philosopher makes *this* argument, expecting *you* to follow *their* reasoning.
+The standard reply is Tallis's regress—for something to *seem* a certain way, there must be a subject to whom it seems that way, so the sense of being a particular subject requires a subject for it to be a sense *for*. Tallis develops the argument against neural reductionism in *Aping Mankind* (2011) and presses it against Frankish's illusionism directly in 2024. But the bare regress assumes the seeming is itself phenomenal, precisely what illusionists deny, and it proves nothing: a representational system need not instantiate what it represents ([[functional-seeming|functional seeming]] is Frankish's account of how). The substantive pressure sits on the relocation move instead—the illusionist has traded the question of why there is a fact about being *this* subject, the "further fact" Parfit denies, for the question of why a self-model *seems* to deliver one, and that trade earns its keep only if the second question is tractable where the first was not. Nothing in the illusionist machinery yet shows that it is, and neither side closes the case against the other inside the rival's framework. What survives independently of the regress is narrower: the illusionist arguing against the further fact performatively assumes their own indexical identity—*this* philosopher makes *this* argument, expecting *you* to follow *their* reasoning.
 
-[[witness-consciousness|Contemplative traditions]] add nuance. Meditators report that the narrative self can dissolve, supporting something like Parfit's view. Yet many traditions also report that something *remains*—a bare awareness that observes even the dissolution. Some traditions (Dzogchen, Madhyamaka) aim to dissolve even the witnessing subject. The Map maintains these reports describe the dissolution of *reflective self-awareness* rather than subjectivity itself: the practitioner reporting "no witness" is still a subject having that experience. Whether this reading is correct is genuinely open (see [[buddhism-and-dualism]]).
+[[witness-consciousness|Contemplative traditions]] add nuance. Meditators report that the narrative self can dissolve, supporting something like Parfit's view. Yet many traditions also report that something *remains*—a bare awareness that observes even the dissolution. Some traditions (Dzogchen, Madhyamaka) aim to dissolve even the witnessing subject. The Map maintains these reports describe the dissolution of *reflective self-awareness* rather than subjectivity itself: the practitioner reporting "no witness" is still a subject having that experience. Whether this reading is correct is genuinely open (see [[buddhism-and-dualism]], and [the third challenge below](#what-would-challenge-this-view)).
 
 ## What Would Challenge This View?
 
@@ -102,7 +102,9 @@ The Map's rejection of Parfit would face serious difficulty if:
 
 1. **Successful illusionist reduction of identity** — neuroscience explaining why we *seem* to be particular subjects without positing actual particularity.
 2. **Decision-theoretic vindication of MWI** — deriving the Born rule from constraints that genuinely don't presuppose indexical identity.
-3. **Teleportation with subjective continuity** — a replica reporting no experiential discontinuity, supporting anti-haecceitism.
+3. **Contemplative dissolution of the witness** — advanced meditators converging not on the dissolution of the narrative self but on the absence of any witnessing awareness. The argument that a report presupposes a reporter would survive; the phenomenological support the Map draws from contemplative practice would not, which is why the reading [above](#the-illusionist-challenge) is marked open rather than settled.
+
+A fourth candidate is often listed and is omitted here: teleportation in which the replica reports no experiential discontinuity. The Map's own account predicts that report—[the replica is psychologically continuous by construction](#the-practical-stakes)—so the observation sits equally well on haecceitism and its denial and discriminates between them not at all. Naming a falsifier one's own position entails would be decorative.
 
 These challenges remain unmet, but articulating them clarifies what the rejection claims and what evidence would count against it.
 
@@ -165,5 +167,6 @@ Parfit's reductionism offers a deflationary view of personal identity: there's n
 1. Johnston, M. (2010). *Surviving Death*. Princeton University Press.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
+1. Tallis, R. (2024). "Tallis in Wonderland: The Illusion of Illusionism." *Philosophy Now*, 161, 58-59.
 1. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
 1. Lockwood, M. (1989). *Mind, Brain and the Quantum: The Compound 'I'*. Blackwell.
