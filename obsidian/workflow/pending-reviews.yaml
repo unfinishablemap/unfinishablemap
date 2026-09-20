@@ -580,3 +580,33 @@
   subject_articles:
   - concepts/meta-problem-of-consciousness.md
   subject_source: reuse:pending-reviews:outer-review-2026-09-19-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6aaf40aa-1a60-83eb-9d6a-2450f6078201
+  commissioned_at: '2026-09-20T02:11:09.655197+00:00'
+  prompt_summary: 'Audit voids/appetitive-void: claims, citations, counterarguments'
+  target_filename: outer-review-2026-09-20-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "You are an external referee auditing one article on The Unfinishable\
+    \ Map, a dualist philosophy site at https://unfinishablemap.org. The article is\
+    \ https://unfinishablemap.org/voids/appetitive-void/ \u2014 a \"void\" article\
+    \ about a cognitive dark space. It was last substantively revised on 2026-09-11.\
+    \ Audit it rigorously: (1) are its central claims adequately supported, or do\
+    \ they rest on insufficient evidence; (2) citation accuracy \u2014 verify quotations\
+    \ and attributions against primary sources wherever you can, and flag anything\
+    \ you cannot verify; (3) counterargument coverage, especially from physicalist,\
+    \ predictive-processing and motivational-neuroscience perspectives; (4) whether\
+    \ the article brackets difficulties in ways that protect the site's dualist tenets\
+    \ rather than testing them; (5) stale references \u2014 has the empirical literature\
+    \ it cites moved on; (6) how well it integrates with surrounding articles. Note\
+    \ that web search indexes lag this site by 24-48 hours, so consult the changelog\
+    \ at https://unfinishablemap.org/workflow/changelog/ for recent activity. End\
+    \ your report with a list of concrete potential improvements to specific articles\
+    \ and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit appetitive-void
+  subject_articles:
+  - voids/appetitive-void.md
+  subject_source: fallback:recent-aged
