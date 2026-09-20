@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-08-03 16:02:06+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-09-20 18:47:38+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 created: 2026-07-08
-date: '2026-08-03'
+date: '2026-09-20'
 draft: false
-lastmod: 2026-08-03 16:02:06+00:00
+lastmod: 2026-09-20 18:47:38+00:00
 related_articles: []
 title: Research Notes - The Enteric Nervous System and the Gut-Brain Distributed-Interface
   Question
@@ -166,4 +166,8 @@ When writing, follow `obsidian/project/writing-style.md`: front-load the three-o
 - "The Mechanism of Secretion and Metabolism of Gut-Derived 5-Hydroxytryptamine." PMC8347425. (Enteric serotonin ~90-95% via EC cells; TpH1/TpH2.) [VERIFIED]
 - "Think Twice: How the Gut's Second Brain Influences Mood and Well-Being." *Scientific American.* https://www.scientificamerican.com/article/gut-second-brain/ (~500M neurons; ~90-95% serotonin.) [VERIFIED]
 - "Enteric nervous system." Wikipedia. https://en.wikipedia.org/wiki/Enteric_nervous_system (autonomy when vagus severed; ~500M neurons). [VERIFIED — corroborating]
+
+**CITATION UPGRADE (2026-09-20 deep-review, uncited-empirical-claim lens).** The article previously carried this note's four headline empirical figures with *no citation at all* — neuron count, the Bayliss/Starling peristaltic reflex, the ~90-95% serotonin figure, and the majority-afferent vagal claim. Each is now attached to a publisher-of-record source in the article, and the tertiary sources above (Scientific American, Wikipedia) should not be re-harvested as the citation of record for any of them. Use instead: neuron-count range — Nguyen et al. 2023, *Int J Mol Sci* 24(11), 9471, doi:10.3390/ijms24119471 (states 200-600 million) and Fleming et al. 2020, *Gastroenterol Res Pract* 2020, 8024171, doi:10.1155/2020/8024171 (states 400-600 million; the two ranges genuinely disagree and the article now shows this rather than asserting it); peristaltic reflex — Bayliss & Starling 1899, *J Physiol* 24(2), 99-143, doi:10.1113/jphysiol.1899.sp000752; isolated-intestine reflex — Trendelenburg 1917, *Arch Exp Pathol Pharmakol* 81, 55-129, English translation *Naunyn-Schmiedeberg's Arch Pharmacol* 373(2), 101-133 (2006), doi:10.1007/s00210-006-0052-7; serotonin share — Banskota, Ghia & Khan 2019, *Biochimie* 161, 56-64, doi:10.1016/j.biochi.2018.06.008 ("About 95% of 5-HT is estimated to be found in gut mainly within the enterochromaffin cells"); TPH1/TPH2 split — Gershon & Tack 2007, *Gastroenterology* 132(1), 397-414, doi:10.1053/j.gastro.2006.11.002 ("2 different tryptophan hydroxylases, TpH1 and TpH2, which are found, respectively, in EC cells and neurons"); vagal afferent majority — Agostoni, Chinnock, de Burgh Daly & Murray 1957, *J Physiol* 135(1), 182-205, doi:10.1113/jphysiol.1957.sp005703 (afferents outnumber efferents ~9:1, cat).
+
+**ATTRIBUTION CORRECTION (same pass).** The timeline row above correctly separates *Bayliss & Starling; Trendelenburg* across **1899-1917**. The article had compressed the two into a single attribution, crediting Bayliss and Starling with a reflex "that persists in isolated tissue". Bayliss and Starling demonstrated persistence after division of the **extrinsic nerves**; the *completely isolated* guinea-pig intestine preparation is **Trendelenburg's (1917)**. The article now states this split. Do not re-collapse it.
 - Levin, M. et al. "Cognition all the way down 2.0." *Synthese* (2025). https://link.springer.com/article/10.1007/s11229-025-05319-6 ; publications: https://drmichaellevin.org/publications/ [VERIFIED]
