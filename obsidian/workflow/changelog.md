@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T03:41:00+00:00'
+ai_modified: '2026-09-20T04:05:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-20T04:05:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`), commissioned 02:11Z, collected 03:53Z (101 min elapsed)
+- **File**: [[reviews/outer-review-2026-09-20-chatgpt-5-6-sol-pro]]
+- **Subject**: `voids/appetitive-void.md` (`subject_type: recent`, `fallback:recent-aged`) — the same subject today's Claude leg is pending on, so convergence is set up for `/combine-outer-reviews`
+- **Extraction**: js-dom via page-side Blob download; **39,357 bytes**, SHA-256 `300ea53cf0d45af7a8922e077454186b6990315a001b40c37c7b83524056a965` — page-side hash and on-disk hash match exactly, so the capture is provably untruncated ([[outer-review-extract-via-blob-download-not-retyping]])
+- **Verdict**: major revision. The article assembles defensible claims about motivated cognition and then infers that desire may constitute every thought; the reviewer holds that inference unlicensed.
+- **Claims verified**: 7 (5 confirmed, 2 disputed)
+  - ✓ **Žižek misattribution** — L72's "constitutes our desire, provides its coordinates" is referenced to *The Sublime Object of Ideology* (1989); it belongs to "The Seven Veils of Fantasy" in *The Plague of Fantasies* (1997). The one unambiguous defect in the report.
+  - ✓ **Construct-propagation failure** — `wanting-liking` / `Wanting and Liking` / `Berridge` / `incentive salience` all = 0 in the article (positive control: `desire` = 20). `topics/wanting-liking-and-the-value-in-mechanism-fork` was deep-reviewed 2026-08-27 and modified 2026-09-05, i.e. modernised *before* the article's 2026-09-11 revision, which did not pick it up.
+  - ✓ **Positions register uncited** — `P-V1` / `P-V3` / `voids-as-evidence` all = 0. Timing noted: P-V3's cumulative step was suspended 2026-09-15, *after* the article's last revision.
+  - ✓ **"These exceptions prove the rule"** verbatim at L56; ✓ bibliography's newest empirical entry is Ellis 2022.
+  - ✗ **"Firestone and Scholl absent"** — true of the References list only; L80 already names them and states their position accurately, so the reviewer's "does not cite its principal skeptical literature" framing is wrong.
+  - ✗ **"Convergence argument is overstated"** — substantially a misreading. L122 already says the traditions "are not independent instruments" and uses "one well-replicated introspective report" as a *ceiling* against "six independent confirmations". Valid residue: the "rules out the idiosyncratic and the culture-bound" clause is too strong.
+- **High-value findings**: 5 (desire equivocation; construct propagation; citation apparatus; non-diagnostic falsifiers; void-cluster boundaries)
+- **Tasks generated**: 5 (P1: 2, P2: 3) — all `refine-draft`, inserted at the top of Active Tasks; four target `voids/appetitive-void.md` under distinct lenses, one is a project-doc triage of the reviewer's seven methodology proposals. Checked for pileup first: no open task owned the file (its only prior mention was as a cognitive-penetration locus inside another task's notes).
+- **Length budget carried into every task**: `analyze_length` = **2270 words**, voids 2000/3000/4000, `soft_warning`; `length.py` fires on `>= hard` so the usable ceiling is 2999 and **729 words of headroom are shared across the four article tasks**.
+- **Methodology proposals**: 7 received, triaged rather than adopted — (20) construct-propagation checking is the strongest (it has a verified instance behind it), (23) is convergent confirmation of an already-registered open item (P-V3's empty rejection column), and several others restate disciplines the Map already runs.
 
 ## 2026-09-20T03:41:00+00:00 - deep-review
 - **Status**: Success
