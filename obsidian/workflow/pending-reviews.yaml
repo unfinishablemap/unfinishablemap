@@ -615,9 +615,9 @@
   commissioned_at: '2026-09-20T03:09:19.671088+00:00'
   prompt_summary: Hostile-referee audit of voids/appetitive-void
   target_filename: outer-review-2026-09-20-claude-opus-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-20T04:24:01.704324+00:00'
   failure_reason: null
   prompt_text: "Act as a hostile referee. Audit one article on The Unfinishable Map\
     \ (https://unfinishablemap.org), a dualist philosophy-of-mind site: https://unfinishablemap.org/voids/appetitive-void/\
