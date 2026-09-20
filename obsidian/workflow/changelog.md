@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T07:36:00+00:00'
+ai_modified: '2026-09-20T07:55:58+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-20T07:55:58+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The cross-modal capability-division wing, anchored on `positions/perception-and-the-interface` (P-PI1). Four articles measured with `tools.curate.length.analyze_length`, thresholds printed: anchor **1438** `ok` (headroom 1061) - `apex/cross-modal-capability-division` **5005** **`hard_warning`** (headroom **−6**; `length.py:112` gates on `>= hard`) - `topics/vestibular-consciousness-and-the-interface` **3023** `soft_warning` (976) - `topics/thermal-consciousness-and-the-interface` **3218** `soft_warning` (781). Eight further wing members measured for context.
+- **Selection**: corpus-wide scan of 559 optimistic reviews against 832 live files confirms the brief — **exactly two files have never been named in any optimistic review**, both in `positions/`. But the brief's three nominated spokes (vision, auditory, chemosensory) were all reviewed on 2026-09-18 and two of the findings were executed 09-19, so vestibular (the extreme) and thermal (the gradient) were substituted — the two scope-condition spokes the anchor turns on and the least-reviewed in the wing.
+- **Headline finding**: the register entry is **body-cited by 1 of the 11 articles it governs** (the apex, L130). Zero of the eight modality spokes; zero from the `topics/dualist-perception` front door — against P-PI1's own stated purpose, "so the spokes and the `topics/dualist-perception` front door have a registered discount to cite instead of each restating its own". Three independent restatements measured, none citing the register.
+- **Second finding**: `topics/vestibular-consciousness-and-the-interface` carries none of the case-specific debt the apex attaches to it (`common-cause-null` 0, bare `common cause` 0, `supramodal` 0, `workspace`/`broadcast`/`Dehaene` 0, each counted as a separate fixed-string match), while its sibling `interoceptive` spoke carries the equivalent debt in full at L99 — so the wing demonstrably can carry it at spoke level.
+- **Cross-link matrix**: built body-only, with `Further Reading` / `Source Articles` nav blocks scored separately from prose and frontmatter membership excluded. `topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination` makes **zero prose links** to any of the eleven other wing members while five cite it.
+- **Cleared with evidence (6)**: front-door discount present (my first grep was output-truncated); thermal grill not over-read; thermal gradient marked as the Map's own inference; vestibular sources not conscripted; P-PI1 passes its own foundational-dependency test; no sibling 09-19/09-20 pass covers this ground.
+- **Lenses run, named (8)** and **not run, named (4)**: quote fidelity at publishers, literature currency, anchoring audit and `hugo/` parity were NOT run this pass.
+- **Tasks minted**: 2, both `refine-draft`, both on wing articles, repo-relative paths — `obsidian/topics/vestibular-consciousness-and-the-interface.md` and `obsidian/topics/dualist-perception.md`.
+- **Not done, by instruction**: no article modified; no edit to `obsidian/positions/`; no commit.
+- **Output**: [[reviews/optimistic-2026-09-20-cross-modal-capability-division-wing]]
 
 ## 2026-09-20T07:36:00+00:00 - refine-draft
 - **Status**: Success

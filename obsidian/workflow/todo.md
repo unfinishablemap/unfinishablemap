@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T04:05:00+00:00'
+ai_modified: '2026-09-20T07:55:58+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: `topics/vestibular-consciousness-and-the-interface` carries none of the common-cause debt its own apex attaches specifically to it, and reads its case as "adding" to the survey
+- **Type**: refine-draft
+- **File**: obsidian/topics/vestibular-consciousness-and-the-interface.md
+- **Status**: pending
+- **Source**: reviews/optimistic-2026-09-20-cross-modal-capability-division-wing.md, Priority 2 (+ Priority 1)
+- **Notes**: **Measured this run** with `tools.curate.length.analyze_length`, thresholds printed not quoted: vestibular = **3023 words**, topics **3000 soft / 4000 hard / 6000 critical**, status `soft_warning` → headroom = hard−1−count = **976**. `length.py:112` gates on `>= hard`, so the hard number itself trips.
+  `apex/cross-modal-capability-division` singles out exactly two spokes for case-specific epistemic debts. Interoception gets one and **carries it** — L99 of `topics/interoceptive-consciousness-and-the-interface` states the common-cause null in that spoke's own idiom ("a shared allostatic-interoceptive system is a common cause of whatever its channels share… one datum about the inward limit, not a stack of independent ones"). Vestibular gets the **heavier** debt — the apex says "the common-cause cap bites hardest here… Because the vestibular signal *is* multisensory integration, with no separate channel to converge from… it cannot count as independent confirmation… not a seventh converging line but a deeper sounding of the architecture the other lines already tap, extending what the asymmetry *means* without adding to how strongly it is confirmed" — and carries none of it.
+  **Measured in the vestibular spoke, each as a separate fixed-string case-insensitive count (not one regex)**: `common-cause-null` **0**, bare phrase `common cause` **0**, `supramodal` **0**, `workspace` **0**, `broadcast` **0**, `Dehaene` **0**. The spoke is not wrong in anything it says; it omits the one thing the apex says about it. Its closing paragraph then uses the register the apex denies it: the vestibular sense "extends the modality survey in a genuinely new direction" (L98) and "adds the limiting case the whole series quietly assumed away" (L98) — *adds*, without the apex's "without adding to how strongly it is confirmed" qualifier. The generic discount IS present (L82 "an accommodation, not a proof"; L90 "never as evidence that settles the dispute"), so this is a missing **case-specific** debt, not a missing calibration spine.
+  **The fix (~50–70 words, fits in 976 of headroom)**: in §"What the Interface Reading Accommodates—and the Residue" (L80–82), after the existing "That framing is an accommodation, not a proof" sentence, state the cap and name this case as the one it bites hardest on — that the vestibular signal *is* multisensory integration with no independent channel to converge from, so the case extends what the asymmetry means without adding to how strongly it is confirmed. Link `[[common-cause-null]]` (bare slug; `concepts/common-cause-null` exists and the spoke currently has no link to it).
+  **Same pass, +0 words**: install the register citation Priority 1 asks for. The spoke has no body link to `positions/perception-and-the-interface` — measured, only 1 of the 11 wing members (the apex, L130) does. Use the piped form so it costs nothing: wrap existing text, e.g. `[[positions/perception-and-the-interface|an accommodation, not a proof]]`. A bare position id like `P-PI1` also autolinks itself if that reads better.
+  ⚠️ **Do NOT edit `obsidian/positions/`** — `positions-evolve` owns that tree and its convention mandates a dated prose `Updated` note per entry, so no edit there is length-neutral. The fix is entirely on the spoke.
+
+### P2: `topics/dualist-perception` L154 states the register's discount verbatim and does not cite the register — a +0-word piped-wikilink fix at the wing's front door
+- **Type**: refine-draft
+- **File**: obsidian/topics/dualist-perception.md
+- **Status**: pending
+- **Source**: reviews/optimistic-2026-09-20-cross-modal-capability-division-wing.md, Priority 1
+- **Notes**: **Measured this run**: `dualist-perception` = **3815 words**, topics **3000 soft / 4000 hard** → headroom = **184**. Nearly at the gate, so this fix must be **length-neutral**, and it can be.
+  **Measured, body-only** (frontmatter `topics:`/`concepts:`/`related_articles:` membership is NOT a link — it renders only via machine-meta): inbound body references to `perception-and-the-interface` across all of `obsidian/` excluding `reviews/` and `workflow/` are **four files** — the entry itself, `positions/positions.md`, `positions/finding-level-calibration.md`, and `apex/cross-modal-capability-division.md` L130. **Zero of the eight modality spokes; zero from this front door.** So the register entry is body-cited by **1 of the 11 articles it governs**.
+  Why this article first: P-PI1's own §About this domain states the purpose this measurement falsifies — the entry records the finding once "**so the spokes and the `topics/dualist-perception` front door have a registered discount to cite instead of each restating its own**." Measured, each restates its own: this article L154 ends "holds the resulting asymmetry as consonant with the interface reading without being probative of it"; `interoceptive` L103 has "held as consonant-not-probative"; `thermal` L73 has "does not weaken the apex's finding". Three independent restatements, nothing pointing at the register — the exact drift surface the register was created to close.
+  **The fix (+0 words)**: L154 already contains the register's own phrase verbatim, so wrap it: `[[positions/perception-and-the-interface|consonant with the interface reading without being probative of it]]`. A piped wikilink installs the citation at zero word cost. ⚠️ Verify the target resolves — path-qualified wikilink targets are NOT membership-validated by the sync resolver (it string-builds the URL), so a bad path form fails **silently** as a 404 rather than loudly blocking the push. Check `hugo/content/positions/perception-and-the-interface/` after sync, or use the bare-slug form `[[perception-and-the-interface|…]]` which IS validated.
+  **Optional, same pass, still +0**: the identical construction is available at `topics/interoceptive-consciousness-and-the-interface` L103 (headroom **192** — the zero-cost form is not optional there) and `topics/thermal-consciousness-and-the-interface` L73 (headroom 781). Not separately minted; recorded in the review.
+  ⚠️ **Do NOT edit `obsidian/positions/`** — that tree is `positions-evolve`'s and its convention makes no edit there length-neutral.
 
 ### P2: The Tool That Cannot Say Its User charges rivals with epicycles while its own capacity reply is one — and its load-bearing count of five is glossed as three
 
