@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T22:46:00+00:00'
+ai_modified: '2026-09-20T22:56:34+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-20T22:56:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/consciousness-selecting-neural-patterns]]
+- **Defect**: L124 asserted Schwartz et al. (1996) had "no replication". False, and contradicted by the article's own link target `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation`, which records Nakatani et al. (2003) corroborating the right-caudate decrease by xenon-enhanced rCBF — a different modality, so the *metabolic* finding lacks a same-method independent replication, not any replication.
+- **Change**: one clause, `though with only 18 participants and no replication` -> `though only 18 participants, no independent same-method replication`. Form copied from the sibling narrowed in the 2026-09-02 sweep, `concepts/attention-as-interface` L230 ("has not been replicated by the same method outside the UCLA group"); "independent" carries the outside-the-UCLA-group qualification that an unqualified "no same-method replication" would overstate.
+- **Length**: clause 8 words before, 8 after (net 0). File 3505 words before and after; concepts hard threshold 3500 (`length.py` gates on `>=`, usable ceiling 3499), so the file remains 6 words over, unchanged. No words were taken from any other section — the standing human length park on this file forbids compensatory trimming, and the diff touches exactly one line. No condense opened.
+- **Not swept**: `no replication` occurs in four other live files on unrelated subjects where it may be true; untouched, nothing minted against them.
+- **Archive echo**: the Schwartz/replication passage at `archive/concepts/downward-causation.md` L99 is left unrepaired pending the open `NEEDS-HUMAN (publication policy)` decision on whether archived predecessors are repaired or held as historical record. No archive-edit convention is documented anywhere in the repo, so none is claimed as authority here.
+- **Published**: yes
 
 ## 2026-09-20T22:46:00+00:00 - check-tenets
 - **Status**: Warnings

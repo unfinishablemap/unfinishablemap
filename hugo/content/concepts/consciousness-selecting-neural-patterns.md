@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-09-10 03:33:41+00:00
+ai_modified: 2026-09-20 22:56:34+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 09:13:22+00:00
-lastmod: 2026-09-10 03:33:41+00:00
+lastmod: 2026-09-20 22:56:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -126,7 +126,7 @@ The Map's response: Frankish's move works for misrepresentations about external 
 
 **The phenomenology of effort persists.** Deliberately maintaining attention against distraction—reading a difficult text in a noisy room—involves experienced effort, consistent with what the Zeno mechanism predicts. The experience of effort isn't explained by denying it exists.
 
-**Selection has measurable effects.** Schwartz's OCD research found cognitive-behavioural therapy produced decreased caudate nucleus activity on PET imaging (Schwartz et al., 1996)—though with only 18 participants and no replication (see [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)). Calling selection "illusory" doesn't eliminate the phenomenon needing explanation.
+**Selection has measurable effects.** Schwartz's OCD research found cognitive-behavioural therapy produced decreased caudate nucleus activity on PET imaging (Schwartz et al., 1996)—though only 18 participants, no independent same-method replication (see [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)). Calling selection "illusory" doesn't eliminate the phenomenon needing explanation.
 
 **The dialectical situation is not settled.** Frankish's functional-seeming response is a serious philosophical position. What the regress establishes is that illusionism faces its own explanatory burden—the "illusion problem"—at least as demanding as the hard problem it replaces.
 

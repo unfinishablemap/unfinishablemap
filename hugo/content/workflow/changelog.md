@@ -1,14 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T22:14:04+00:00'
+ai_modified: '2026-09-20T22:56:34+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-20'
-lastmod: 2026-09-20 22:14:04+00:00
+lastmod: 2026-09-20 22:56:34+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-20T22:56:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
+- **Defect**: L124 asserted Schwartz et al. (1996) had "no replication". False, and contradicted by the article's own link target `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation`, which records Nakatani et al. (2003) corroborating the right-caudate decrease by xenon-enhanced rCBF — a different modality, so the *metabolic* finding lacks a same-method independent replication, not any replication.
+- **Change**: one clause, `though with only 18 participants and no replication` -> `though only 18 participants, no independent same-method replication`. Form copied from the sibling narrowed in the 2026-09-02 sweep, `concepts/attention-as-interface` L230 ("has not been replicated by the same method outside the UCLA group"); "independent" carries the outside-the-UCLA-group qualification that an unqualified "no same-method replication" would overstate.
+- **Length**: clause 8 words before, 8 after (net 0). File 3505 words before and after; concepts hard threshold 3500 (`length.py` gates on `>=`, usable ceiling 3499), so the file remains 6 words over, unchanged. No words were taken from any other section — the standing human length park on this file forbids compensatory trimming, and the diff touches exactly one line. No condense opened.
+- **Not swept**: `no replication` occurs in four other live files on unrelated subjects where it may be true; untouched, nothing minted against them.
+- **Archive echo**: the Schwartz/replication passage at `archive/concepts/downward-causation.md` L99 is left unrepaired pending the open `NEEDS-HUMAN (publication policy)` decision on whether archived predecessors are repaired or held as historical record. No archive-edit convention is documented anywhere in the repo, so none is claimed as authority here.
+- **Published**: yes
+
+## 2026-09-20T22:46:00+00:00 - check-tenets
+- **Status**: Warnings
+- **Check**: 137 (previous 136 = `reviews/tenet-check-2026-09-19.md`)
+- **Files checked**: 834 — `topics/` 329, `concepts/` 327, `voids/` 104, `apex/` 45, `positions/` 23, `arguments/` 6. The skill's own scan list covers only topics/concepts/positions (679); this run widened it.
+- **Tenets swept**: 1, 2, 3, 4. Tenet 5 deliberately NOT re-swept — the booked `NEEDS-HUMAN (doctrine) 2026-09-19` tiebreaker family at `todo.md:55` was not re-listed, not re-measured, and nothing was minted against it.
+- **Errors**: 3 · **Warnings**: 12 · **Notes**: 9
+- **Tenet 5 carries already fixed**: both loci carried forward by the driver brief as "STILL LIVE" are repaired — `concepts/bidirectional-interaction` L119 by `57c01f4290` (2026-09-19 17:39) and `concepts/consciousness-as-amplifier` L183 by `ccaf13d9ae` (2026-09-19 21:55), both ancestors of HEAD. The repair was **additive** (guard clause appended to the same sentence), so the offending substring survives verbatim while the defect does not. A bare-string probe cannot detect an additive repair; carry-forward items need a repair-shaped probe.
+- **Priority list (4, one per tenet)**: `concepts/unity-of-consciousness` (Tenet 2 ERROR + Tenet 4 fabricated tenet content — the No-Many-Worlds section of `tenets.md` contains 0 `unity`/`unified`; two sweeps converged independently) · `concepts/dualism` (Tenet 1 — the flagship article reports the dispute as won with `cannot in principle`, breaking the Map's own stated `"may never" is not "cannot in principle"` rule, and misattributes the gap to Levine against `concepts/explanatory-gap`) · `topics/presentiment-and-retrocausality` (Tenet 2 ERROR — inverts the parapsychology firewall; confirmed presentiment would *disconfirm*) · `concepts/filter-theory` (Tenet 3 / [P-CS6](/positions/consciousness-scope/#p-cs6) partition breach in an article [P-CS6](/positions/consciousness-scope/#p-cs6)'s own *Argued in* list cites as authority).
+- **Top carried item**: `topics/animal-consciousness` (ERROR — matrix *Not invoked* breach, verified three ways: matrix cell, [P-CS2](/positions/consciousness-scope/#p-cs2) *Depends on*, and `tenets.md`'s own leakage list naming this exact case).
+- **Tenet 1 headline**: no ERROR-grade violation exists in 834 files; all four Tenet-1 findings are implicit drift (supervenience language, flat production claims, one modal overclaim).
+- **Systemic finding**: the mandated `## Relation to Site Perspective` section and the article body are not held to the same standard — four independent sweeps plus one already-queued optimistic-review finding converged on the seam. Usually the section overclaims relative to the body; in two Tenet-1 cases (`libet-experiments`, `the-binding-problem`) it inverts and the body is the stronger claim. A fix pass must compare the two, not patch the section. Unlike the Tenet-5 family, the governing doctrine already exists (`tenets.md` §Hidden-inheritance failures), so fixes will not regenerate. Bounded: lexical probe returns 29/785 (3%) as a **candidate pool, not a defect count**.
+- **Clean results reported as findings**: Tenet 4 core, Tenet 3 epiphenomenalist drift, Tenet 2 core cluster, substance-leaning leakage (zero across every *Not invoked* matrix row), conceivability cluster, `arguments/` section, positions register.
+- **Measurement artefacts booked**: (1) additive repairs defeat bare-string carry-forward probes (see Tenet 5 above); (2) a `reducible to physical` probe silently matches `irreducible to physical` — the Map's own position — manufacturing 7 false positives before it was caught.
+- **Coverage gap**: `obsidian/arguments/` — the six dedicated tenet-defence articles — has never been scanned by any tenet check. Recommend widening the skill's scan list.
+- **Output**: [tenet-check-2026-09-20](/reviews/tenet-check-2026-09-20/)
+- **Scope**: reports-only. No article edited, no task minted, nothing committed.
 
 ## 2026-09-20T22:14:04+00:00 - positions-evolve
 - **Status**: Success

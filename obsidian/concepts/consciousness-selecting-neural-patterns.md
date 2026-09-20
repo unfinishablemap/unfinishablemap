@@ -4,7 +4,7 @@ description: "Consciousness selects which quantum possibilities become actual ne
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-09-10T03:33:41+00:00
+ai_modified: 2026-09-20T22:56:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -121,7 +121,7 @@ The Map's response: Frankish's move works for misrepresentations about external 
 
 **The phenomenology of effort persists.** Deliberately maintaining attention against distraction—reading a difficult text in a noisy room—involves experienced effort, consistent with what the Zeno mechanism predicts. The experience of effort isn't explained by denying it exists.
 
-**Selection has measurable effects.** Schwartz's OCD research found cognitive-behavioural therapy produced decreased caudate nucleus activity on PET imaging (Schwartz et al., 1996)—though with only 18 participants and no replication (see [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]]). Calling selection "illusory" doesn't eliminate the phenomenon needing explanation.
+**Selection has measurable effects.** Schwartz's OCD research found cognitive-behavioural therapy produced decreased caudate nucleus activity on PET imaging (Schwartz et al., 1996)—though only 18 participants, no independent same-method replication (see [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]]). Calling selection "illusory" doesn't eliminate the phenomenon needing explanation.
 
 **The dialectical situation is not settled.** Frankish's functional-seeming response is a serious philosophical position. What the regress establishes is that illusionism faces its own explanatory burden—the "illusion problem"—at least as demanding as the hard problem it replaces.
 
