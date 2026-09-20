@@ -3,7 +3,8 @@ title: "Research Notes - Neuron-Less Animals: Sponges, Placozoans, and the Lower
 created: 2026-07-08
 draft: false
 ai_contribution: 100
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-09-20T00:17:00+00:00
 ---
 
 # Research: Neuron-Less Animals — Sponges, Placozoans, and the Lower Bound of Cognition
@@ -31,15 +32,16 @@ Two early-branching animal phyla — Porifera (sponges) and Placozoa (*Trichopla
 - **Citation**: Srivastava, M., Simakov, O., Chapman, J. et al. (2010). *Nature* 466:720–726. DOI 10.1038/nature09201.
 - **Key points**:
   - Draft genome of a Great Barrier Reef demosponge; sponges as an early-branching animal lineage.
-  - The genome contains a nearly complete set of **post-synaptic protein orthologues** — the molecular parts-list for a synapse — despite the animal having no neurons or synapses.
+  - The genome contains homologues of pre- and post-synaptic organisation proteins, neural transcription factors and an ephrin receptor, while "some key synaptic genes are conspicuously missing" — the entire ionotropic glutamate receptor family among them.
+  - ⚠️ *Corrected 2026-09-20*: the "**nearly complete set of post-synaptic protein orthologues**" finding is **Sakarya et al. 2007** (*PLoS ONE* 2(6):e506, "A post-synaptic scaffold at the origin of the animal kingdom"), which Srivastava et al. cite as their ref 42 — not a finding of the 2010 genome paper.
   - Frames the "genetic toolkit predates the structure" pattern central to this note.
-- **Honesty caveat**: A later reassessment of Amphimedon gene annotations did **not** find sufficient support for the serotonin and dopamine receptors originally reported by Srivastava et al. Treat specific neurotransmitter-receptor claims from the 2010 paper with caution; the broad post-synaptic-scaffold finding stands.
+- **Honesty caveat**: A later reassessment of Amphimedon gene annotations did **not** find sufficient support for the serotonin and dopamine receptors originally reported by Srivastava et al. Treat specific neurotransmitter-receptor claims from the 2010 paper with caution; the broad post-synaptic-scaffold finding stands, but cite it to Sakarya et al. 2007.
 - **Tenet alignment**: Neutral/supportive of the Map's caution — molecular pre-adaptation is not itself evidence of experience.
 
 ### Elements of a 'nervous system' in sponges
 - **URL**: https://journals.biologists.com/jeb/article/218/4/581/14142/
 - **Type**: Review (Journal of Experimental Biology)
-- **Citation**: Leys, S. P. & Anderson, P. A. V. (2015). *J. Exp. Biol.* 218(4):581–591. DOI 10.1242/jeb.110817.
+- **Citation**: Leys, S. P. (2015). *J. Exp. Biol.* 218(4):581–591. DOI 10.1242/jeb.110817. *(Corrected 2026-09-20: single-author paper; the co-author "Anderson, P. A. V." recorded here in 2026-07-08 does not appear on it.)*
 - **Key points**:
   - Sponges have coordinating mechanisms with *some* neuronal characteristics but **no true nervous system**.
   - Non-motile "primary" cilia (4–6 μm) lining the osculum act as sensory organs via calcium signalling.
@@ -150,7 +152,8 @@ Two early-branching animal phyla — Porifera (sponges) and Placozoa (*Trichopla
 
 | Year | Publication | Significance |
 |------|-------------|--------------|
-| 2010 | Srivastava et al., *Nature* | Sponge genome carries the post-synaptic parts-list without synapses |
+| 2007 | Sakarya et al., *PLoS ONE* | Sponge genome carries a nearly complete post-synaptic parts-list without synapses |
+| 2010 | Srivastava et al., *Nature* | Draft demosponge genome; confirms and bounds the toolkit (key synaptic genes absent) |
 | 2013 | Keijzer, van Duijn & Lyon, *Adaptive Behavior* | Skin-brain thesis reframes what early nervous systems are *for* |
 | 2015 | Smith, Pivovarova & Reese, *PLoS ONE* | Coordinated, spatially targeted feeding in synapse-less *Trichoplax* |
 | 2015 | Leys & Anderson, *J. Exp. Biol.* | "Elements of a nervous system" — glutamate/GABA gating, no neurons |
@@ -186,7 +189,7 @@ When writing, follow `obsidian/project/writing-style.md`: front-load the lower-b
 ## Citations (verified this session)
 
 1. Srivastava, M. et al. (2010). The Amphimedon queenslandica genome and the evolution of animal complexity. *Nature* 466:720–726. DOI 10.1038/nature09201. **[VERIFIED — publisher]** (with caveat re: retracted serotonin/dopamine receptor annotations).
-2. Leys, S. P. & Anderson, P. A. V. (2015). Elements of a 'nervous system' in sponges. *J. Exp. Biol.* 218(4):581–591. DOI 10.1242/jeb.110817. **[VERIFIED — publisher]**
+2. Leys, S. P. (2015). Elements of a 'nervous system' in sponges. *J. Exp. Biol.* 218(4):581–591. DOI 10.1242/jeb.110817. **[VERIFIED — Crossref + Europe PMC/PMID 25696821 + Semantic Scholar, 2026-09-20; author string corrected from "Leys & Anderson"]**
 3. Kornder, N. A. et al. (2022). Sponges sneeze mucus to shed particulate waste from their seawater inlet pores. *Current Biology* 32. DOI 10.1016/j.cub.2022.07.017. **[VERIFIED — DOI/PubMed 35952668; page range unconfirmed]**
 4. Ho, V. R., Goss, G. G. & Leys, S. P. (2025). ATP and glutamate coordinate contractions in the freshwater sponge Ephydatia muelleri. *J. Exp. Biol.* 228(3):JEB248010. **[VERIFIED — publisher]**
 5. Varoqueaux, F. et al. (2018). High cell diversity and complex peptidergic signaling underlie placozoan behavior. *Current Biology* 28(21):3495–3501.e2. DOI 10.1016/j.cub.2018.08.067. **[VERIFIED — publisher/PubMed 30344118]**

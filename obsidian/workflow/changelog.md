@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-19T22:26:30+00:00'
+ai_modified: '2026-09-20T00:20:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-20T00:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition]]
+- **Word count**: 2757 → 2986 (+229), soft 3000 / hard 4000, status `ok` (14 words of soft margin left — future passes should be length-neutral)
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 5
+- **Enhancements made**: 2 new verified references appended (no renumbering)
+- **Pass type**: source-fidelity against raw publisher text. Three prior deep reviews (07-08, 07-19, 08-03) carried per-cite ledgers marking every reference `real-correct`; all three checked metadata only, and two attributions were wrong.
+- **Critical 1 — phantom co-author.** Reference [2] (`10.1242/jeb.110817`) is **single-author Sally P. Leys**, not "Leys, S. P. & Anderson, P. A. V.". Confirmed at Crossref, Europe PMC (PMID 25696821), and Semantic Scholar; the abstract's own *"Here, **I** examine…"* settles it. Fixed at 3 body loci + the reference entry. **Root cause** is the 2026-07-08 research note, which carries the same phantom stamped **[VERIFIED — publisher]** — corrected there too, dated in place.
+- **Critical 2 — misattributed headline finding.** The *"nearly complete set of post-synaptic protein orthologues"* is **Sakarya et al. 2007** (*PLoS ONE* 2(6):e506), cited by Srivastava et al. as their own ref 42; it is not a finding of the 2010 genome paper. Raw PMC3130542 text (offsets 36720/37084/37523) shows the 2010 paper stating the opposite-direction result the article had dropped: *"Some key synaptic genes are conspicuously missing from Amphimedon … including the ionotropic glutamate receptor family."* Reattributed to Sakarya (new [19]); Srivastava [1] now carries the bounding claim with that quote. The apex sibling states the same fact **unattributed**, so it is correct as written and was left alone.
+- **Critical 3 — false universal.** *"Conduction is tissue-based … rather than action potentials"* is false for glass sponges: Leys, Mackie & Meech 1999 record all-or-none, calcium-dependent impulses in *Rhabdocalyptus dawsoni* at 0.27 ± 0.1 cm s⁻¹ through syncytial tissue, arresting the feeding current. Scoped to demosponges and the hexactinellid case added with new [18]; the section heading "Coordination Without Conduction" became "Coordination Without a Nervous System" (zero inbound anchors in either dialect).
+- **Medium**: Wong 2019 rescoped (partial co-regulation + the paper's negative result that the profiles give no support for a functional synapse); cell count reconciled with the article's own Najle 2023 cite (lead now "nine", §Placozoans keeps "six" date-marked to Varoqueaux); Smith 2015 feeding sequence de-inverted; Smith 2019 mechanism corrected (cells act **independently**, no inter-cell signalling — the article had said "local cilia coordination"); Varoqueaux type 3 restored to "flattening-with-churning".
+- **Every fix strengthened the argument.** Each drifted paraphrase had drifted *toward* its source's headline; the incomplete parts-list, the absent functional synapse and the independently-acting cilia are all better support for "toolkit presence is not functional presence" than the overstatements were.
+- **False alarms, recorded so they are not re-opened**: Kornder's "tens of minutes" is exact (*"for 20–50 min (n = 16)"*, PMC9473484 offset 6059); Ho 2025 calls *E. muelleri* contractions a "sneeze" 34 times, so the article's term is the paper's; Nikitin's "volume transmission" appears 7×; Bechtel & Bich, Keijzer, Jin, Najle, Senatore, Smith-metadata all verbatim-faithful. Sachkova 2025 is metadata-correct but publisher-gated (OA-hybrid, no PDF, no PMC) — its paraphrase is consistent with the abstract and is logged as an open verification, not a defect.
+- **Output**: [[reviews/deep-review-2026-09-20-neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition]]
 
 ## 2026-09-19T23:53:00+00:00 - refine-draft
 - **Status**: Success
