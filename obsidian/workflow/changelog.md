@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T09:40:18+00:00'
+ai_modified: '2026-09-20T09:53:52+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-20T09:53:52+00:00 - coalesce
+- **Status**: Abandoned (delta measurement only — full pairwise sweep NOT re-derived, no merge performed, no article edited)
+- **Method**: Per the standing finding [[coalesce-candidate-pool-exhausted-by-role-granularity]] and the `NEEDS-HUMAN (cycle allocation)` entry in `todo.md`, this run measured the **delta** against commit `bf8aef6e` (2026-09-19 22:51:55, the baseline of the previous run's arithmetic) rather than re-scoring the pool. Word counts via `tools.curate.length.count_words` on the frontmatter-parsed body; a pair "fits" when `w1+w2 <= ceiling` (concepts 3499, topics 3999, voids 2999 — `length.py` gates on `>= hard`).
+- **Method validated before the delta was read**: the reproduction returns `topics` **2 fitting pairs of 53,301 across 327 articles**, matching the recorded figures exactly, and identifies the same two enteric-nervous-system pairs (3884 and 3986). The recorded `voids` figure (0 of 5,253) also reproduces.
+- **POOL DELTA, 11 hours**: `concepts` **301 → 296 fitting pairs (−5, −1.7%)**; `topics` **2 → 2**; `voids` **0 → 0**. Article counts unchanged at 326 / 327 / 103. **The pool continues to recede; second consecutive measurement of the same direction** (395 → 301 → 296).
+- **The mover was a single article**: `concepts/where-the-substance-commitment-enters` 1772 → 1847 (+75). The only other `concepts` files to change were `consciousness-bandwidth-architecture` (3490 → 3491) and `stapp-quantum-mind` (3873 → 3868), **neither of which can affect the pool at any size — each exceeds the 3499 ceiling alone**. All other growth today (`voids/appetitive-void` +202, `topics/vestibular-consciousness-and-the-interface` +156, `topics/three-dimensional-world-representation-problem` +117, `topics/attention-and-the-consciousness-interface` +79) landed in sections already at 0 and 2 viable pairs, where growth is free. **Refinement of the recorded mechanism: only edits to sub-~1750-word `concepts` articles move the pool.**
+- **Shortlisted and rejected**: `phenomenal-depth` (1313) + `phenomenal-presentation` (1572) = 2885, the section's most comfortable arithmetic fit at ~614 words of headroom. **Rejected on the inverted-overlap rule** — `phenomenal-presentation` L54 carries a dedicated `**Versus [[phenomenal-depth]].**` subsection drawing precisely that boundary ("depth describes its richness, presentation describes its givenness"). The three smallest concepts (`phenomenal-depth`, `mind-arena` 1380, `status-of-content` 1497) have **zero body references to one another in any direction**, verified by `grep -oF` of each slug against the other two files. `mind-arena` carries three further `Versus` subsections. Every top-arithmetic candidate is a boundary-work article.
+- **Bookkeeping corrections to the `NEEDS-HUMAN` entry**: its addendum calls 301 the "eligible" count, but 301 reproduces here as the **fitting** (arithmetic) count — the table's "395 (135 eligible)" uses the terms the other way round. Its `concepts` total of 53,050 is not a triangular number; C(326,2) = **52,975**. Both corrections recorded in the entry's `Notes`.
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
+- **Written**: one indented continuation paragraph inside the existing `NEEDS-HUMAN (cycle allocation)` entry's `Notes:` field ([[todo-addendum-lines-after-notes-are-invisible-to-the-parser]]); `parse_tasks` returns an identical 5-task list before and after the edit. No new todo entry minted, no duplicate of the blocked entry.
 
 ## 2026-09-20T09:40:18+00:00 - refine-draft
 - **Status**: Success
