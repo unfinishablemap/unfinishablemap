@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T19:08:05+00:00'
+ai_modified: '2026-09-20T19:24:50+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-20T19:24:50+00:00 - coalesce
+- **Status**: Abandoned (13th consecutive no-op — no merge performed, no article created, edited or archived)
+- **Method**: Full independent re-derivation of the candidate pool, not a delta. Merge-feasibility floor **<1750 words** (two such articles fit under the `concepts` hard ceiling of 3499 with seam headroom). Word counts via `tools.curate.length.analyze_length` on real `obsidian/<section>/` paths so section thresholds apply. Index files excluded.
+- **Pool**: `topics` 328 files → **1** under floor; `concepts` 326 → **13**; `voids` 103 → **3**. **16 articles of 757 corpus-wide (2.1%), 120 pairs.** Reproduces the driver's figures exactly.
+- **Decisive filter (mutual linkage)**: all 120 pairs tested for a wikilink or markdown path reference in **either** direction. **Exactly 1 of 120**: `concepts/phenomenal-depth` (1313) + `concepts/phenomenal-presentation` (1572) = 2885, presentation→depth. Driver's figure reproduced.
+- **That pair rejected on the inverted-overlap rule** ([[coalesce-candidate-pool-exhausted-by-role-granularity]]). `obsidian/concepts/phenomenal-presentation.md` **L54** carries a dedicated `**Versus [[phenomenal-depth]].**` subsection under its own `## How Presentation Differs from Neighbouring Concepts` heading (L48), verified verbatim: *"Depth concerns the layered internal structure within a presented state… A presented state may be deep or shallow; depth describes its richness, presentation describes its givenness."* **The junior article exists partly to draw this distinction; merging would delete it.**
+- **Correction to the `topics` figure (strengthens the conclusion)**: `topics` has **zero** eligible articles under the floor, not one. The sole sub-floor file is `obsidian/topics/non-temporal-consciousness.refinement-log.md` at **77 words** — an editor-internal refinement-log sidecar, not an article ([[refinement-log-sidecar-files-are-intentional]]). The section therefore cannot form a pair **before** any judgement filter. Same sidecar-over-counting failure mode as the open `count_section_files` NEEDS-HUMAN entry, surfacing in a second consumer.
+- **New measurement — second-`Versus`-pair sweep** (not run by any previous pass): all 16 pool members swept for `Versus` / `vs` / `contrast(ed) with` / `distinguished from` / `not to be confused with` followed within 80 chars by a wikilink. **Four markers in the pool; only one points at a fellow pool member** (the disqualified pair). The other three — `phenomenal-presentation` → `phenomenal-acquaintance` and → `phenomenal-overflow`, `mind-arena` → `mental-causation-and-downward-causation` — all aim at larger, non-pool articles. **No second near-pair is hiding behind the rule.**
+- **Escalation**: dated paragraph appended inside the `Notes:` of the existing `### NEEDS-HUMAN (cycle allocation) 2026-09-19` entry in `obsidian/workflow/todo.md` (as indented continuation lines — a bullet after `Notes:` is dropped by the parser). No new task minted. Parse verified unchanged before/after: 64 active tasks in both.
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 2026-09-20T19:08:05+00:00 - refine-draft
 - **Status**: Success
