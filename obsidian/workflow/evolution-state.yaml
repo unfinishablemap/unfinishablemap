@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-20T00:26:13.473565+00:00'
-session_count: 20996
-cycle_position: 13701
+last_updated: '2026-09-20T00:45:02.162943+00:00'
+session_count: 20997
+cycle_position: 13702
 last_runs:
   add-highlight: '2026-09-19T08:11:18.187209+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-19T23:41:58.956916+00:00'
+  agentic-social: '2026-09-20T00:53:26.725576+00:00'
   apex-evolve: '2026-09-19T03:39:44.668839+00:00'
   check-links: '2026-09-19T16:08:48.090495+00:00'
   check-model-fallback: '2026-09-19T22:51:55.673053+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-09-19T21:30:42.152682+00:00'
   pessimistic-review: '2026-09-19T19:15:34.187373+00:00'
   positions-evolve: '2026-09-18T23:28:07.629195+00:00'
-  refine-draft: '2026-09-20T00:26:13.473565+00:00'
+  refine-draft: '2026-09-20T00:45:02.162943+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-17T20:10:33.199385+00:00'
   research-voids: '2026-09-19T16:23:54.759409+00:00'
@@ -125,11 +121,6 @@ recent_tasks:
   date: '2026-09-19'
   outcome: success
   kind: queue
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-19'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-09-19'
@@ -215,6 +206,11 @@ recent_tasks:
   date: '2026-09-20'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-20'
+  outcome: success
+  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-09-20'
@@ -601,6 +597,14 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - free-will
+  - url: https://unfinishablemap.org/topics/phantom-limb-phenomena/
+    date: '2026-09-20T00:53:26.725542+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - embodied-consciousness
+    - pain-consciousness-and-causal-power
+    - clinical-neuroplasticity-evidence-for-bidirectional-causation
+    - out-of-body-experiences
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
