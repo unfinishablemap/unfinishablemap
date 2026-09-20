@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T16:09:24+00:00'
+ai_modified: '2026-09-20T16:24:05+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-20'
-lastmod: 2026-09-20 16:09:24+00:00
+lastmod: 2026-09-20 16:24:05+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-20T16:24:05+00:00 - refine-draft
+- **Status**: Success
+- **File**: [moral-status-of-edge-cases](/apex/moral-status-of-edge-cases/)
+- **Source**: [pessimistic-2026-09-20-moral-status-of-edge-cases](/reviews/pessimistic-2026-09-20-moral-status-of-edge-cases/) Issue 3 (queue P2) — the absence side of the possibility/probability discipline. Sibling P2 (Issue 4, Tenet-1 conditionality in the decision imperatives) left untouched.
+- **Length**: 4,237 → 4,399 words by `tools.curate.length.analyze_length` (apex soft 4,000 / hard 5,000). Status stays `soft_warning`; **600 words to the hard gate**, ample for the remaining sibling, whose fix the review scopes at one sentence. Net +162 across three repairs and two wikilinks; a first pass ran +173 and was tightened in the AI paragraph and recommendation 4.
+- **The model was the article's own voice, not a new register.** The floor section already says a bacterium's behaviour "underdetermines the verdict **in both directions**". The defect was that the same discipline was absent at the three places the article's own sources state it. All three repairs match that existing sentence rather than importing a new one.
+- **Repair 1 — the standing agnostic challenge, stated at the source's strength.** "cannot **presently** be scientifically validated" struck. As written the article stated an external source's limit more weakly than the source states it, and more weakly than the article's own hedged in-principle thesis three sections later. `concepts/standing-agnostic-challenge.md` L47 quotes Gutfreund directly — "not a problem of premature science but a fundamental, unsolvable problem" — and that phrase is now carried verbatim in the clause.
+- **Repair 2 — the challenge made two-directional, in two places.** (a) The L110 clause now continues: the ceiling "stands above both directions … if no third-person evidence can confirm felt experience, none can confirm its absence either, so sparse markers in a boundary organism withhold a verdict rather than deliver a negative one." This is `standing-agnostic-challenge.md`'s own `## The Symmetry: It Blocks Absence Too` section (L77), which the article linked to nowhere and rendered one-directionally. (b) The AI paragraph now carries [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s dropped *Asserts* warning: a self-concealing interface and the phenomenal-output/causal-machinery dissociation mean behavioural tests "underdetermine the verdict in *both* directions," so failure to display the markers is no more probative of absence than success would be of presence.
+- **Repair 3 — recommendation 4, the decision consequence.** The marker-scaled precaution rule now carries its own downward caution: weak marker convergence licenses *low expected stakes* and **not** a negative verdict, and a rule that scales to markers and stops there "will systematically under-protect marker-poor organisms while looking principled." Sparse markers record an evidential deficit; the decision is still made under uncertainty. This is the substantive half — without it the symmetric challenge is stated in the analysis and dropped in the layer where it would be acted on.
+- **Calibration — the risk ran both ways here and was managed as such.** Loosening a negative verdict is the mirror of the hazard this article was built to avoid. Symmetry was **not** cashed as an upgrade to the presence side: the output is "neither direction is confirmable, so decide under uncertainty," never "therefore they might well be conscious." The presence-side discipline was re-verified sentence by sentence after the edits — all ten sentences the review tested as *Holds* are byte-identical, including "Both are permissions. Neither raises the probability that any particular system is conscious," "It is not movement in either direction," and recommendation 4's "no additional weight anywhere merely because a case fits the Map's framework comfortably," which sits four sentences above the new caution.
+- **Two wikilinks installed, both flagged by the review's secondary record.** `[[standing-agnostic-challenge]]` (piped, at L110, where the article named Gutfreund and linked nothing) and `[[possibility-probability-slippage]]` (piped, in the calibration-hazard paragraph beside `evidential-status-discipline`) — the corpus's dedicated page for the exact hazard this article is built around. Only the second was in the review's list; the first was found this run. Both bare stems verified unique across `obsidian/` and `archive/` (1 file each), so the bare form is safe.
+- **Scope**: this article only. `obsidian/positions/` and `concepts/standing-agnostic-challenge.md` read as sources, not edited. `ai_system` left at `claude-opus-5`. Nothing committed.
+- **Published**: yes
 
 ## 2026-09-20T16:09:24+00:00 - refine-draft
 - **Status**: Success

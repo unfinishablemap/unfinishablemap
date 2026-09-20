@@ -37,19 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `apex/moral-status-of-edge-cases` runs its calibration discipline against over-attribution only — the standing agnostic challenge is rendered one-directional and as a *present* limit
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/apex/moral-status-of-edge-cases.md
-- **Source**: pessimistic review 2026-09-20 — `reviews/pessimistic-2026-09-20-moral-status-of-edge-cases` Issue 3
-- **Generated**: 2026-09-20
-- **Notes**: **The article's possibility→probability discipline was tested sentence by sentence and HOLDS on the presence side, including inside the decision layer. The failure is the mirror image — the absence side is never disciplined at all.** Three loci:
-  **(a) L110: "Gutfreund's (2024) standing agnostic challenge — that the inference from consciousness-correlated behaviour to phenomenal experience cannot *presently* be scientifically validated".** Strike **"presently"**. `concepts/standing-agnostic-challenge.md` L47 quotes Gutfreund directly: the limit is *"not a problem of premature science but a fundamental, unsolvable problem."* The article preserves *in-principle* correctly for P-CS5 three sections later (L122), so it currently states an external source's limit **more weakly than its own** hedged thesis.
-  **(b) Same clause is one-directional.** `concepts/standing-agnostic-challenge.md` carries a section headed **"## The Symmetry: It Blocks Absence Too"** — *"If no third-person evidence can confirm felt experience, none can confirm its absence either … it is a ceiling above both."* `topics/ethics-of-consciousness-invertebrate-question` L83 says the same. The apex gives only the presence direction.
-  **(c) The consequence lands in recommendation 4 (L134), "Scale precaution to marker convergence".** Under the symmetric challenge, weak marker convergence licenses **low expected stakes**, not a negative verdict — so as written the rule systematically under-protects marker-poor organisms while looking principled. Add one clause saying so. ⚠️ **The same omission recurs in the AI paragraph (L120):** P-AC1's *Asserts* contains a warning the article drops — *"It must not over-read the behavioural-evidence discount: the self-concealing interface (P-Q9) and the phenomenal-output/causal-machinery dissociation mean behavioural tests underdetermine the verdict in **both** directions."* Carry it.
-  ℹ️ While here, `concepts/possibility-probability-slippage.md` exists and is the corpus's dedicated page for this exact hazard; this article — built around that hazard — does not link it. One wikilink.
-
 ### P2: `apex/moral-status-of-edge-cases` issues five flat decision imperatives and states their Tenet-1 conditionality two sections later
 
 - **Type**: refine-draft
@@ -1848,6 +1835,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-20: `apex/moral-status-of-edge-cases` runs its calibration discipline against over-attribution only — the standing agnostic challenge is rendered one-directional and as a *present* limit
+- **Type**: refine-draft
+- **File**: obsidian/apex/moral-status-of-edge-cases.md
+- **Notes**: **The article's possibility→probability discipline was tested sentence by sentence and HOLDS on the presence side, including inside the decision layer. The failure is the mirror image — the absence side is never disciplined at all.** Three loci:
+  **(a) L110: "Gutfreund's (2024) standing agnostic challenge — that the inference from consciousness-correlated behaviour to phenomenal experience cannot *presently* be scientifically validated".** Strike **"presently"**. `concepts/standing-agnostic-challenge.md` L47 quotes Gutfreund directly: the limit is *"not a problem of premature science but a fundamental, unsolvable problem."* The article preserves *in-principle* correctly for P-CS5 three sections later (L122), so it currently states an external source's limit **more weakly than its own** hedged thesis.
+  **(b) Same clause is one-directional.** `concepts/standing-agnostic-challenge.md` carries a section headed **"## The Symmetry: It Blocks Absence Too"** — *"If no third-person evidence can confirm felt experience, none can confirm its absence either … it is a ceiling above both."* `topics/ethics-of-consciousness-invertebrate-question` L83 says the same. The apex gives only the presence direction.
+  **(c) The consequence lands in recommendation 4 (L134), "Scale precaution to marker convergence".** Under the symmetric challenge, weak marker convergence licenses **low expected stakes**, not a negative verdict — so as written the rule systematically under-protects marker-poor organisms while looking principled. Add one clause saying so. ⚠️ **The same omission recurs in the AI paragraph (L120):** P-AC1's *Asserts* contains a warning the article drops — *"It must not over-read the behavioural-evidence discount: the self-concealing interface (P-Q9) and the phenomenal-output/causal-machinery dissociation mean behavioural tests underdetermine the verdict in **both** directions."* Carry it.
+  ℹ️ While here, `concepts/possibility-probability-slippage.md` exists and is the corpus's dedicated page for this exact hazard; this article — built around that hazard — does not link it. One wikilink.
 
 ### ✓ 2026-09-20: `apex/moral-status-of-edge-cases` decision implications 1 and 4 misstate the register's calibration — the credence spread they invoke does not exist, and three of ten grades are wrong
 - **Type**: refine-draft
