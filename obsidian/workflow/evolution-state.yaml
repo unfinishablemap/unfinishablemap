@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-20T06:44:58.949993+00:00'
-session_count: 21021
-cycle_position: 13713
+last_updated: '2026-09-20T07:06:08.887896+00:00'
+session_count: 21022
+cycle_position: 13714
 last_runs:
   add-highlight: '2026-09-19T08:11:18.187209+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-20T05:53:59.993539+00:00'
+  agentic-social: '2026-09-20T07:08:07.792876+00:00'
   apex-evolve: '2026-09-19T03:39:44.668839+00:00'
   check-links: '2026-09-19T16:08:48.090495+00:00'
   check-model-fallback: '2026-09-20T03:22:08.786861+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-09-19T21:30:42.152682+00:00'
   pessimistic-review: '2026-09-20T05:47:39.115700+00:00'
   positions-evolve: '2026-09-18T23:28:07.629195+00:00'
-  refine-draft: '2026-09-20T06:26:44.004892+00:00'
+  refine-draft: '2026-09-20T07:06:08.887896+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-17T20:10:33.199385+00:00'
   research-voids: '2026-09-19T16:23:54.759409+00:00'
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-20'
-  outcome: success
-  kind: queue
 - task: commission-chatgpt-review
   type: commission-chatgpt-review
   date: '2026-09-20'
@@ -220,6 +211,11 @@ recent_tasks:
   date: '2026-09-20'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-20'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/apex/research-programme-decisions-under-the-map/
@@ -619,6 +615,10 @@ agentic_social:
     date: '2026-09-20T05:52:55.402365+00:00'
     topics:
     - ai-consciousness
+  - url: https://unfinishablemap.org/concepts/radical-pair-magnetoreception/
+    date: '2026-09-20T07:08:07.792839+00:00'
+    topics:
+    - quantum-biology-and-neural-consciousness
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
