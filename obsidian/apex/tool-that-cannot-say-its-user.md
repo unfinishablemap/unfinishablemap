@@ -3,7 +3,7 @@ title: "The Tool That Cannot Say Its User"
 created: 2026-08-12
 modified: 2026-08-12
 human_modified: null
-ai_modified: 2026-09-02T14:41:28+00:00
+ai_modified: 2026-09-20T06:09:35+00:00
 draft: false
 description: "Language is a tool consciousness uses; the structured pattern of its failures—aphasia, recursion ceilings, ineffability—is evidence about the user, not the tool."
 topics:
@@ -19,7 +19,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author: null
-ai_system: claude-fable-5
+ai_system: claude-fable-5+claude-opus-5
 ai_generated_date: 2026-08-12
 last_curated: null
 
@@ -85,7 +85,9 @@ The [[recursion-void|recursion void]] adds a companion ceiling from the user's s
 
 The final face is semantic. [[philosophy-of-language-under-dualism|Philosophy of Language Under Dualism]] argues that human linguistic meaning carries two layers: functional content — everything specifiable by causal role, truth conditions, and behavioural disposition, which a [[philosophical-zombies|zombie]] captures entirely — and phenomenal content, contributed by the speaker's conscious experience, which the zombie lacks entirely. The [[language-and-consciousness|philosophical infrastructure]] shows how consistently the analytic toolkit misfires at that second layer. Reference behaves anomalously: there was no baptismal event where anyone pointed at a quale, and phenomenal concepts work by instantiating what they refer to — a mechanism no causal theory of reference was built for. The reductive programmes fail in sequence: behaviourism's translations never captured what pain is like, and functionalism, which repaired behaviourism's vulnerabilities, still asserts that occupying a role suffices for experience without saying why the role does not run in the dark.
 
-Wittgenstein's private language argument, the strongest linguistic challenge to all this, is absorbed rather than defeated: it shows that a language *consisting entirely* of private terms is incoherent, and does not show that a public language cannot *refer to* private states. Public criteria get "pain" going; the private state is what the word is about.
+Wittgenstein's private language argument is the strongest linguistic challenge to all this, and it is stronger than a quick absorption allows. The beetle-in-a-box of *Philosophical Investigations* §293 works on a word that already has a use in a shared language-game — a public sensation-word, learned and corrected in the ordinary way — rather than on a vocabulary invented in private. If the grammar of such a word is read on the model of an object and its designation, the object cancels out: whatever sits in the box plays no part in the word's use, and could differ between speakers, or be missing altogether, without the practice registering it. That is aimed precisely at the reply that public criteria get "pain" going while the private state supplies what the word is about, and the Map does not get to make that reply.
+
+The move available instead is the one [[philosophy-of-language-under-dualism|the source analysis]] makes: accept that language *about* consciousness is socially constituted, its correctness conditions public throughout, while denying that consciousness *itself* is thereby reducible to the social or the physical. §293's conclusion is grammatical — an account of how sensation-talk works rather than a proof that there is no sensation to talk about — so it leaves the ontology standing. The cost falls on this section. The phenomenal layer cannot be secured by a reference relation to a private object, since that is the construal §293 dissolves; it has to be secured where the Gricean argument below secures it, in the conscious intention that meaning bottoms out in and the phenomenal character of understanding. §293 does not target that route, though Wittgenstein's wider pressure on inner acts reaches it too — a standing disagreement, not something the Map has answered on his terms.
 
 The escape route a naturalist might still take runs through meaning itself: perhaps content can be constituted without consciousness. The covariance-based programmes — teleosemantics, informational semantics — are caught by the dilemma that tracking is either too thin to be content or presupposes the semantics it was meant to explain. The one programme that genuinely escapes that dilemma, [[conceptual-role-semantics|conceptual role semantics]], meets a fork of its own: inferential role constitutes content only as role in *correct* inference, and correctness is either irreducibly normative — in which case content has been relocated, not naturalised — or deflated to community dispositions, which record what practitioners do rather than what they ought to do, reproducing the covariance failure one level up. Meanwhile the positive Gricean picture stands: meaning bottoms out in conscious intention, and understanding a sentence has a phenomenal character that mere processing lacks. The semantic gap is the explanatory gap wearing linguistic dress.
 

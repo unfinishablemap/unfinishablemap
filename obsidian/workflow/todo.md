@@ -37,25 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: The Tool That Cannot Say Its User absorbs the private language argument with the very move *PI* §293 cancels — and its own source already concedes the point
-
-- **Type**: refine-draft
-- **File**: obsidian/apex/tool-that-cannot-say-its-user.md
-- **Status**: pending
-- **Review file**: `reviews/pessimistic-2026-09-20-tool-that-cannot-say-its-user.md` (Issue 1)
-- **Source**: pessimistic-review 2026-09-20
-- **Length**: 3740 words, apex 4000/5000/6500, status `ok`, **1259 words of headroom** (measured via `tools.curate.length.analyze_length`, not quoted from CLAUDE.md's table). This task needs ~80–120; the three tasks minted together need ~250–350 in total, so headroom is not a constraint here.
-- **Generated**: 2026-09-20
-- **Notes**: **THE TARGET IS THE TWO-SENTENCE WITTGENSTEIN PARAGRAPH IN "The Gap in Meaning Itself".** It currently reads: the PLA "shows that a language *consisting entirely* of private terms is incoherent, and does not show that a public language cannot *refer to* private states. Public criteria get 'pain' going; the private state is what the word is about."
-  Three layers, and the third is the actionable one.
-  (a) **The narrowing misdescribes the target.** §293's beetle-in-a-box is not about a wholly-private language. It stipulates a word that has "a use in these people's language" — a *public* word in a shared language-game — and argues its putative private referent cancels out. Verified verbatim against the Anscombe text (driver-extracted from the published PDF, NFKC-normalised, `grep -F`): "if we construe the grammar of the expression of sensation on the model of 'object and designation' the object drops out of consideration as irrelevant."
-  (b) **The article's reply *is* the object-and-designation model** — public criteria fix the word, the private state is the object designated. §293 is the section aimed at precisely that move, and the article never meets it.
-  (c) ⚠️ **THE FIX IS ALREADY IN THE ARTICLE'S OWN SOURCE SET — DO NOT RESEARCH THIS, IMPORT IT.** `topics/philosophy-of-language-under-dualism` (listed in `apex_sources`, and cited by name two sentences earlier in the same apex section) states the beetle-in-a-box at L78 and then at L80 says: "This challenge cuts deep. If phenomenal vocabulary cannot refer to private conscious states, the semantic gap described earlier dissolves — not because physicalism explains phenomenal meaning, but because there is no phenomenal meaning to explain." Its dualist response at L84 is a *different* move from the apex's: "accept that our *language about* consciousness is socially constituted while insisting that consciousness *itself* is not reducible to the social or the physical."
-  The apex instead took the beetle-free absorption from `concepts/language-and-consciousness` L61 (`beetle` and `§293` both = 0 in that file, driver-verified), kept the superlative "the strongest linguistic challenge" from the source that *concedes*, and dropped the concession. That is the defect: confident absorption where the apex's own strongest source records a challenge that cuts deep.
-  **WHAT TO WRITE.** Restate the challenge at its real strength (a public sensation-word whose private referent drops out, per §293), then either absorb using `philosophy-of-language-under-dualism`'s actual move, or mark honestly that the Map *declines* §293's grammatical reading rather than having answered it. Both are acceptable; asserting the current absorption unmodified is not.
-  ⚠️ **DO NOT quote §293 verbatim in the article unless you re-verify it yourself** — the sentence above is driver-verified from the published text, but per the corpus's quote-fidelity record a verbatim lift should be re-greppable in a raw source at the time of writing. A paraphrase plus the section number carries the point at zero fabrication risk.
-  ⚠️ **DO NOT edit `concepts/language-and-consciousness` or `topics/philosophy-of-language-under-dualism` in this pass.** They are named here only as the material to import from. This task's contract is the apex file.
-
 ### P1: The Tool That Cannot Say Its User inherits P-AC1's verdict and drops the debt the register calls that verdict's "least-secured link"
 
 - **Type**: refine-draft
@@ -1953,6 +1934,19 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-20: The Tool That Cannot Say Its User absorbs the private language argument with the very move *PI* §293 cancels — and its own source already concedes the point
+- **Type**: refine-draft
+- **File**: obsidian/apex/tool-that-cannot-say-its-user.md
+- **Notes**: **THE TARGET IS THE TWO-SENTENCE WITTGENSTEIN PARAGRAPH IN "The Gap in Meaning Itself".** It currently reads: the PLA "shows that a language *consisting entirely* of private terms is incoherent, and does not show that a public language cannot *refer to* private states. Public criteria get 'pain' going; the private state is what the word is about."
+  Three layers, and the third is the actionable one.
+  (a) **The narrowing misdescribes the target.** §293's beetle-in-a-box is not about a wholly-private language. It stipulates a word that has "a use in these people's language" — a *public* word in a shared language-game — and argues its putative private referent cancels out. Verified verbatim against the Anscombe text (driver-extracted from the published PDF, NFKC-normalised, `grep -F`): "if we construe the grammar of the expression of sensation on the model of 'object and designation' the object drops out of consideration as irrelevant."
+  (b) **The article's reply *is* the object-and-designation model** — public criteria fix the word, the private state is the object designated. §293 is the section aimed at precisely that move, and the article never meets it.
+  (c) ⚠️ **THE FIX IS ALREADY IN THE ARTICLE'S OWN SOURCE SET — DO NOT RESEARCH THIS, IMPORT IT.** `topics/philosophy-of-language-under-dualism` (listed in `apex_sources`, and cited by name two sentences earlier in the same apex section) states the beetle-in-a-box at L78 and then at L80 says: "This challenge cuts deep. If phenomenal vocabulary cannot refer to private conscious states, the semantic gap described earlier dissolves — not because physicalism explains phenomenal meaning, but because there is no phenomenal meaning to explain." Its dualist response at L84 is a *different* move from the apex's: "accept that our *language about* consciousness is socially constituted while insisting that consciousness *itself* is not reducible to the social or the physical."
+  The apex instead took the beetle-free absorption from `concepts/language-and-consciousness` L61 (`beetle` and `§293` both = 0 in that file, driver-verified), kept the superlative "the strongest linguistic challenge" from the source that *concedes*, and dropped the concession. That is the defect: confident absorption where the apex's own strongest source records a challenge that cuts deep.
+  **WHAT TO WRITE.** Restate the challenge at its real strength (a public sensation-word whose private referent drops out, per §293), then either absorb using `philosophy-of-language-under-dualism`'s actual move, or mark honestly that the Map *declines* §293's grammatical reading rather than having answered it. Both are acceptable; asserting the current absorption unmodified is not.
+  ⚠️ **DO NOT quote §293 verbatim in the article unless you re-verify it yourself** — the sentence above is driver-verified from the published text, but per the corpus's quote-fidelity record a verbatim lift should be re-greppable in a raw source at the time of writing. A paraphrase plus the section number carries the point at zero fabrication risk.
+  ⚠️ **DO NOT edit `concepts/language-and-consciousness` or `topics/philosophy-of-language-under-dualism` in this pass.** They are named here only as the material to import from. This task's contract is the apex file.
 
 ### ✓ 2026-09-20: The Appetitive Void equivocates across ten senses of "desire" — install a claim ladder and propagate the Wanting/Liking constructs
 - **Type**: refine-draft
