@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-09-18 22:08:06+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-09-20 14:30:00+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
 - '[[somatic-interface]]'
@@ -21,8 +21,8 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/YwoQm_LSBSQ
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-26 01:49:05+00:00
-lastmod: 2026-09-18 22:08:06+00:00
+last_deep_review: 2026-09-20 14:30:00+00:00
+lastmod: 2026-09-20 14:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,7 +57,7 @@ The decisive point is that these are not two bodies but two modes in which one b
 
 The distinction's canonical source is Husserl's *Ideen II* (*Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, Second Book*), where he separates the *Körper*—the body as a material thing with the properties of matter, space, extension, causal embeddedness—from the *Leib*, the body as lived and sentient. Husserl's analysis of the body touching itself (one hand grasping the other) shows the body's distinctive double-givenness: it is both the thing touched and the subject touching, an object in the world and the locus from which the world is encountered. For Husserl the lived body is therefore not merely one object among objects. His resistance to naturalising the *Leib* is worth stating precisely, because the article's later reading depends on getting it right: it is not the causal claim that some force escapes physics, but a *constitutive* and transcendental one. The lived body figures in the very constitution of an objective world, and on Husserl's mature view (*Ideen II* §64, "the relativity of nature, the absoluteness of spirit") its irreducibility flows from the priority of transcendental subjectivity over nature rather than from any embodied-mind or interactionist thesis. Husserlian irreducibility is transcendental-idealist, not dualist; it cannot be silently transferred to the Map's interface reading.
 
-Merleau-Ponty's *Phénoménologie de la perception* (1945) develops this into a central thesis. He renders the lived body as the *corps propre* ("one's own body") or *corps sujet* ("body-subject"), characterised by the practical "I can" rather than the theoretical "I think." For Merleau-Ponty, my body is not an object among objects but the permanent "here" against which every "there" is measured—the zero-point of the spatial world that cannot itself be brought fully into view as an object. The *corps propre* is the standing condition for there being a perceptual world at all.
+Merleau-Ponty's *Phénoménologie de la perception* (1945) develops this into a central thesis. He renders the lived body as the *corps propre* ("one's own body") or *corps sujet* ("body-subject"), characterised by the practical "I can" rather than the theoretical "I think." For Merleau-Ponty, my body is not an object among objects but the permanent "here" against which every "there" is measured—the zero-point of the spatial world, a rendering of the orientational zero-point Husserl had already located in the *Leib*—that cannot itself be brought fully into view as an object. The *corps propre* is the standing condition for there being a perceptual world at all.
 
 Both thinkers treat the priority of the lived over the objectified body as a structural feature of embodiment, not a contingent psychological fact. The objectified body is, in a sense, an *achievement*—an abstraction from the lived body, arrived at by adopting toward oneself the detached stance one takes toward external things. The two accounts should not be run together as a smooth division of labour, however. Taylor Carman (1999) reads Merleau-Ponty as marking "a radical, if discreet, departure" from Husserl's account of the intentional constitution of the body: to tie that constitution specifically to the sense of touch, Carman argues, "amounts to a fundamental misunderstanding of its significance for phenomenology," and Merleau-Ponty "does not assign to this sort of experience the founding significance it has on Husserl's account." Carman also observes that the "*Ich kann*" is Husserl's own phrase—drawn from the *Cartesian Meditations*—so the motor "I can" cannot be treated as Merleau-Ponty's clean break from a touch-bound Husserl. The Map cites Carman as a critic of the touch-primacy reading, not as a neutral gloss harmonising the two figures.
 
@@ -91,7 +91,7 @@ Several non-dualist frameworks accommodate the distinction without remainder. **
 
 **Predictive processing and interoceptive active inference** press hardest, because they own precisely this ground (the Map's fuller treatment is in [predictive-processing](/concepts/predictive-processing/)). On the interoceptive-inference account (Seth 2013; and, in the interoceptive-self literature more broadly, Tsakiris's work and Friston's active-inference framework), the body given "from inside" is the brain's interoceptive generative model minimising prediction error over bodily states, while the body given "from outside" is the same organism modelled exteroceptively. The lived/objectified asymmetry becomes a difference between two directions of inference, not a difference in what exists—a fully physicalist reading of exactly the first-person/third-person split the *Leib*/*Körper* distinction marks. Thomas Metzinger's [self-model theory](/concepts/self-model-theory-of-subjectivity/) (*Being No One*, 2003) sharpens the deflation into an illusionist key: the lived body is given in a transparent, non-objectual first-person mode because the underlying self-model is *phenomenally transparent*—the system cannot experience it *as* a model—so first-person givenness requires no ontological remainder to explain it. These are the strongest rivals on this terrain, and the Map does not claim the phenomenology defeats them. Whether the asymmetry lies in the *object* or only in the *mode of access* is exactly what is contested; the disagreement runs to the framework boundary and is honestly marked as such, not settled by the distinction itself.
 
-**Phenomenology proper**, as practised by Husserl and Merleau-Ponty themselves, is methodologically prior to the metaphysics: it describes the structures of experience while *bracketing* the question of what ultimately exists. Merleau-Ponty in particular resisted both Cartesian dualism and reductive materialism, and his lived body is not offered as a second substance.
+**Phenomenology proper** is methodologically prior to the metaphysics: the epoché suspends the natural attitude's positing of the world rather than settling it. Neither figure's own position stops at that suspension, though, and the article should not borrow a neutrality they did not hold. Husserl's, as the section above records, is transcendental idealism. Merleau-Ponty's Preface holds that "the most important lesson of the reduction is the impossibility of a complete reduction" (Landes trans., p. lxxvii), and his late work turns openly ontological. What both refuse is specifically the dualist reading: Merleau-Ponty resisted Cartesian dualism and reductive materialism alike, and on neither account is the lived body a second substance.
 
 What the distinction does establish is narrower and still significant: that any adequate account of embodiment must accommodate *both* registers, and that the lived body cannot be eliminated in favour of the objectified body without losing the phenomenon. That much is common ground. Whether the irreducibility is *ontological* (the Map's reading) or *epistemic/descriptive* (the materialist reading) is decided elsewhere—by the [broader irreducibility arguments](/concepts/mind-brain-separation/), not by the *Leib*/*Körper* asymmetry on its own. The distinction is a constraint every theory of embodiment must meet, not a proof of any one of them.
 
