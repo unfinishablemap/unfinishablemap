@@ -39,25 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: the higher-order objection to the Appetitive Void is answered in its general form only — Rosenthal's unconscious HOT and Lau's reality monitoring are the sharper versions
-
-- **Type**: refine-draft
-- **File**: obsidian/concepts/higher-order-theories.md
-- **Also touches**: obsidian/voids/appetitive-void.md
-- **Review file**: `reviews/outer-review-2026-09-20-gemini-2-5-pro.md`
-- **Source**: cycle driver, 2026-09-20 11:2x UTC — deferred by the executing pass at commit `7f2fce96`, which had 14 words of headroom and said so
-- **Generated**: 2026-09-20
-- **Notes**: 🛑 **HOST THE PROSE IN `concepts/higher-order-theories`, NOT IN THE VOID.** Measured 2026-09-20 after six passes: `voids/appetitive-void` is **2985 words** against voids 2000/3000 — `length.py` fires on `>= hard`, usable ceiling 2999, so **14 words of headroom**. It cannot take any of this. `concepts/higher-order-theories` is **3342** against concepts 2500/3500 → **157 words**. That is the budget for the whole task.
-  ℹ️ **ALREADY LANDED, do not redo**: the general-form reply is in the void's *paradox of noticing* bullet — *"a meta-representation need not inherit its target's motivational properties. But a functionally non-appetitive meta-state does not yet show the phenomenal field it discloses is desire-free—the access/phenomenal gap those theories already carry."* Reciprocal wikilinks exist in **both** directions at +0.
-  **THE THREE DEFERRED ITEMS, in priority order:**
-  1. **Rosenthal's unconscious higher-order thought** (~40–60 w). The strongest form of the objection: the HOT is *typically unconscious* and non-inferential, so it is **not** the deliberate "wanting to see your biases" the void's bullet describes — on which reading the reported phenomenology may not be the meta-state at all. The landed text answers the general form, not this one.
-  2. **Lau's perceptual reality monitoring** (~60–80 w). PRM specifies the monitor computationally **with no motivational parameter** — the cleanest version of the objection, and where the access/phenomenal reply needs the most care.
-  3. **Reciprocal prose in `concepts/higher-order-theories`** (~40 w). The installed link is navigation only; that article still does not state what the appetitive void asks of it. Its *Connection to Self-Reference* calibration-problem paragraph is the host.
-  ⚠️ **157 words will not buy all three — take 1 and 3, or 2 alone, and defer the rest explicitly.**
-  ⚠️ **VERIFY ROSENTHAL AND LAU AT PUBLISHER OF RECORD BEFORE CITING.** Both were named from the executing pass's own knowledge and **neither was web-verified**. This corpus produced three citation-*use* defects today underneath metadata that verified clean, so check the actual claim, not just that the paper exists (citation-ledger-ratifies-the-reading-not-just-the-metadata).
-  🛑 **DO NOT ADOPT GEMINI'S FRAMING.** It claims the void's thesis "collapses" if HOT is correct. **Driver-verified as doubly wrong**: the constitutive rung it targets was already disowned at the void's L38 and again in the bullet under attack, which states the regress "is not a proof… co-occurrence, not constitution". Its "echo chamber" line is prompt-induced hostile-referee register and carries no content. Three of that leg's charges are disputed in the review's Verification Notes.
-
-
 ### P3: `voids/affective-void` L41 states Ekman's basic emotions as having "dedicated neural substrates" — and the article's own L54 citation contradicts it
 
 - **Type**: refine-draft
@@ -1873,6 +1854,19 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-20: the higher-order objection to the Appetitive Void is answered in its general form only — Rosenthal's unconscious HOT and Lau's reality monitoring are the sharper versions
+- **Type**: refine-draft
+- **File**: obsidian/concepts/higher-order-theories.md
+- **Notes**: 🛑 **HOST THE PROSE IN `concepts/higher-order-theories`, NOT IN THE VOID.** Measured 2026-09-20 after six passes: `voids/appetitive-void` is **2985 words** against voids 2000/3000 — `length.py` fires on `>= hard`, usable ceiling 2999, so **14 words of headroom**. It cannot take any of this. `concepts/higher-order-theories` is **3342** against concepts 2500/3500 → **157 words**. That is the budget for the whole task.
+  ℹ️ **ALREADY LANDED, do not redo**: the general-form reply is in the void's *paradox of noticing* bullet — *"a meta-representation need not inherit its target's motivational properties. But a functionally non-appetitive meta-state does not yet show the phenomenal field it discloses is desire-free—the access/phenomenal gap those theories already carry."* Reciprocal wikilinks exist in **both** directions at +0.
+  **THE THREE DEFERRED ITEMS, in priority order:**
+  1. **Rosenthal's unconscious higher-order thought** (~40–60 w). The strongest form of the objection: the HOT is *typically unconscious* and non-inferential, so it is **not** the deliberate "wanting to see your biases" the void's bullet describes — on which reading the reported phenomenology may not be the meta-state at all. The landed text answers the general form, not this one.
+  2. **Lau's perceptual reality monitoring** (~60–80 w). PRM specifies the monitor computationally **with no motivational parameter** — the cleanest version of the objection, and where the access/phenomenal reply needs the most care.
+  3. **Reciprocal prose in `concepts/higher-order-theories`** (~40 w). The installed link is navigation only; that article still does not state what the appetitive void asks of it. Its *Connection to Self-Reference* calibration-problem paragraph is the host.
+  ⚠️ **157 words will not buy all three — take 1 and 3, or 2 alone, and defer the rest explicitly.**
+  ⚠️ **VERIFY ROSENTHAL AND LAU AT PUBLISHER OF RECORD BEFORE CITING.** Both were named from the executing pass's own knowledge and **neither was web-verified**. This corpus produced three citation-*use* defects today underneath metadata that verified clean, so check the actual claim, not just that the paper exists (citation-ledger-ratifies-the-reading-not-just-the-metadata).
+  🛑 **DO NOT ADOPT GEMINI'S FRAMING.** It claims the void's thesis "collapses" if HOT is correct. **Driver-verified as doubly wrong**: the constitutive rung it targets was already disowned at the void's L38 and again in the bullet under attack, which states the regress "is not a proof… co-occurrence, not constitution". Its "echo chamber" line is prompt-induced hostile-referee register and carries no content. Three of that leg's charges are disputed in the review's Verification Notes.
 
 ### ✓ 2026-09-20: The Appetitive Void never tests its thesis against higher-order theories — the Map has the article, the void has no link to it
 - **Type**: refine-draft
