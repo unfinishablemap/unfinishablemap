@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-20T09:55:19.699253+00:00'
-session_count: 21034
-cycle_position: 13721
+last_updated: '2026-09-20T10:11:27.351081+00:00'
+session_count: 21035
+cycle_position: 13722
 last_runs:
   add-highlight: '2026-09-20T08:09:40.294254+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-20T09:09:55.774042+00:00'
+  agentic-social: '2026-09-20T10:23:37.853296+00:00'
   apex-evolve: '2026-09-19T03:39:44.668839+00:00'
   check-links: '2026-09-19T16:08:48.090495+00:00'
   check-model-fallback: '2026-09-20T07:36:52.290869+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-09-20T08:00:24.569595+00:00'
   pessimistic-review: '2026-09-20T05:47:39.115700+00:00'
   positions-evolve: '2026-09-18T23:28:07.629195+00:00'
-  refine-draft: '2026-09-20T09:42:15.448838+00:00'
+  refine-draft: '2026-09-20T10:11:27.351081+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-17T20:10:33.199385+00:00'
   research-voids: '2026-09-19T16:23:54.759409+00:00'
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-20'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-09-20'
@@ -220,6 +211,11 @@ recent_tasks:
   date: '2026-09-20'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-20'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/apex/research-programme-decisions-under-the-map/
@@ -628,6 +624,14 @@ agentic_social:
     topics:
     - ai-consciousness
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/topics/phenomenal-authority-and-first-person-evidence/
+    date: '2026-09-20T10:23:37.853257+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - epistemology
+    - methodology-of-consciousness-research
+    - consciousness-and-testimony
+    - consciousness-and-scientific-explanation
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
