@@ -39,19 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `apex/moral-status-of-edge-cases` runs its calibration discipline against over-attribution only — the standing agnostic challenge is rendered one-directional and as a *present* limit
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/apex/moral-status-of-edge-cases.md
-- **Source**: pessimistic review 2026-09-20 — `reviews/pessimistic-2026-09-20-moral-status-of-edge-cases` Issue 3
-- **Generated**: 2026-09-20
-- **Notes**: **The article's possibility→probability discipline was tested sentence by sentence and HOLDS on the presence side, including inside the decision layer. The failure is the mirror image — the absence side is never disciplined at all.** Three loci:
-  **(a) L110: "Gutfreund's (2024) standing agnostic challenge — that the inference from consciousness-correlated behaviour to phenomenal experience cannot *presently* be scientifically validated".** Strike **"presently"**. `concepts/standing-agnostic-challenge.md` L47 quotes Gutfreund directly: the limit is *"not a problem of premature science but a fundamental, unsolvable problem."* The article preserves *in-principle* correctly for [P-CS5](/positions/consciousness-scope/#p-cs5) three sections later (L122), so it currently states an external source's limit **more weakly than its own** hedged thesis.
-  **(b) Same clause is one-directional.** `concepts/standing-agnostic-challenge.md` carries a section headed **"## The Symmetry: It Blocks Absence Too"** — *"If no third-person evidence can confirm felt experience, none can confirm its absence either … it is a ceiling above both."* `topics/ethics-of-consciousness-invertebrate-question` L83 says the same. The apex gives only the presence direction.
-  **(c) The consequence lands in recommendation 4 (L134), "Scale precaution to marker convergence".** Under the symmetric challenge, weak marker convergence licenses **low expected stakes**, not a negative verdict — so as written the rule systematically under-protects marker-poor organisms while looking principled. Add one clause saying so. ⚠️ **The same omission recurs in the AI paragraph (L120):** [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s *Asserts* contains a warning the article drops — *"It must not over-read the behavioural-evidence discount: the self-concealing interface ([P-Q9](/positions/quantum-interface/#p-q9)) and the phenomenal-output/causal-machinery dissociation mean behavioural tests underdetermine the verdict in **both** directions."* Carry it.
-  ℹ️ While here, `concepts/possibility-probability-slippage.md` exists and is the corpus's dedicated page for this exact hazard; this article — built around that hazard — does not link it. One wikilink.
-
 ### P2: `apex/moral-status-of-edge-cases` issues five flat decision imperatives and states their Tenet-1 conditionality two sections later
 
 - **Type**: refine-draft
@@ -1840,6 +1827,17 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **Scope discipline**: this is a paraphrase-accuracy pass, not a retraction. The philosophical point every one of these files uses the case for — rank settles which command did the work — is untouched and must stay (i-widen-retractions-and-upgrade-coiners-into-proponents). Check each host's length headroom before editing; `articulability-of-q1` uses the two-groups-of-troops framing to make a *different* point about indiscernibility and may not want the corporal at all.
   **Verified at the publisher on 2026-09-19, do not re-fetch**: `jonathanschaffer.org/trumping.pdf` ~offset 30560 — *"the major and and the sergeant stand before the corporal, both shout 'Charge!' at the same time, and the corporal decides to charge."* `Advance` occurs exactly once in that PDF, in JSTOR boilerplate.
 
+### P3: the 2026-09-10 apophatic ↔ emergence cross-link landed only one of its two legs
+- **Type**: refine-draft
+- **File**: obsidian/topics/emergence-as-universal-hard-problem.md
+- **Source**: deep-review 2026-09-20 of `concepts/apophatic-approaches`
+- **Generated**: 2026-09-20
+- **Notes**: Commit `505773f156` states its own goal as fixing that "the wing's two opposed readings of convergent explanatory failure do not know the other exists" — a **mutual** ignorance. It inserted a paragraph into `concepts/apophatic-approaches` pointing at `topics/emergence-as-universal-hard-problem`, and stopped. **Measured 2026-09-20**: `grep -oiF apophatic obsidian/topics/emergence-as-universal-hard-problem.md` returns **0** — the target still does not link back. Classic analysis-doc-cites-the-article-article-never-cites-back.
+  **The outbound leg is sound — do not re-litigate it.** The deep review validated its characterisation at this article and found it faithful to L39 ("the same reductive track record is compatible with both framings, and which one is correct turns on a prior judgement about whether mathematical identity between descriptions amounts to explanation"). Only the return leg is missing.
+  **What the return leg should say**: the two articles disagree about how much a recurring pattern of explanatory failure can establish. Apophatic method reads the characteristic *shape* of the failure (function captured, experience missed); the universalist reading tallies *outcomes* and finds the track record non-adjudicating. The apophatic article already frames this honestly and leaves the tension standing — match that, do not resolve it in either article's favour.
+  **Natural host**: near L39 or L103, both of which already do the "the dispute turns on a prior judgement rather than further data" work. `[[apophatic-approaches|...]]` piped into existing text costs ~0 words (piped-wikilink-installs-a-reciprocal-at-zero-word-cost) — check this article's length headroom first, it is a long topic article.
+  **Bare slug is correct here**: `[[apophatic-approaches]]` resolves to the live concept despite the `archive/voids/` stem collision (verified against built output 2026-09-20). Do not path-qualify it.
+
 ## Completed Tasks
 
   **SCOPE EXTENDED BY THE DRIVER 2026-09-19 11:1x UTC — the executing pass's sweep found one locus; a corpus-wide sweep including the ARCHIVE TREE finds three.** (defect-sweeps-must-include-archive-tree.) `concepts/mysterianism` itself is now clean (commit `7ff94975`), verified 0/0 in both trees for all five removed strings. What remains:
@@ -1850,6 +1848,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-20: `apex/moral-status-of-edge-cases` runs its calibration discipline against over-attribution only — the standing agnostic challenge is rendered one-directional and as a *present* limit
+- **Type**: refine-draft
+- **File**: obsidian/apex/moral-status-of-edge-cases.md
+- **Notes**: **The article's possibility→probability discipline was tested sentence by sentence and HOLDS on the presence side, including inside the decision layer. The failure is the mirror image — the absence side is never disciplined at all.** Three loci:
+  **(a) L110: "Gutfreund's (2024) standing agnostic challenge — that the inference from consciousness-correlated behaviour to phenomenal experience cannot *presently* be scientifically validated".** Strike **"presently"**. `concepts/standing-agnostic-challenge.md` L47 quotes Gutfreund directly: the limit is *"not a problem of premature science but a fundamental, unsolvable problem."* The article preserves *in-principle* correctly for [P-CS5](/positions/consciousness-scope/#p-cs5) three sections later (L122), so it currently states an external source's limit **more weakly than its own** hedged thesis.
+  **(b) Same clause is one-directional.** `concepts/standing-agnostic-challenge.md` carries a section headed **"## The Symmetry: It Blocks Absence Too"** — *"If no third-person evidence can confirm felt experience, none can confirm its absence either … it is a ceiling above both."* `topics/ethics-of-consciousness-invertebrate-question` L83 says the same. The apex gives only the presence direction.
+  **(c) The consequence lands in recommendation 4 (L134), "Scale precaution to marker convergence".** Under the symmetric challenge, weak marker convergence licenses **low expected stakes**, not a negative verdict — so as written the rule systematically under-protects marker-poor organisms while looking principled. Add one clause saying so. ⚠️ **The same omission recurs in the AI paragraph (L120):** [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s *Asserts* contains a warning the article drops — *"It must not over-read the behavioural-evidence discount: the self-concealing interface ([P-Q9](/positions/quantum-interface/#p-q9)) and the phenomenal-output/causal-machinery dissociation mean behavioural tests underdetermine the verdict in **both** directions."* Carry it.
+  ℹ️ While here, `concepts/possibility-probability-slippage.md` exists and is the corpus's dedicated page for this exact hazard; this article — built around that hazard — does not link it. One wikilink.
 
 ### ✓ 2026-09-20: `apex/moral-status-of-edge-cases` decision implications 1 and 4 misstate the register's calibration — the credence spread they invoke does not exist, and three of ten grades are wrong
 - **Type**: refine-draft

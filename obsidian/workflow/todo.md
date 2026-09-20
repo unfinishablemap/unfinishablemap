@@ -1825,6 +1825,17 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **Scope discipline**: this is a paraphrase-accuracy pass, not a retraction. The philosophical point every one of these files uses the case for — rank settles which command did the work — is untouched and must stay ([[i-widen-retractions-and-upgrade-coiners-into-proponents]]). Check each host's length headroom before editing; `articulability-of-q1` uses the two-groups-of-troops framing to make a *different* point about indiscernibility and may not want the corporal at all.
   **Verified at the publisher on 2026-09-19, do not re-fetch**: `jonathanschaffer.org/trumping.pdf` ~offset 30560 — *"the major and and the sergeant stand before the corporal, both shout 'Charge!' at the same time, and the corporal decides to charge."* `Advance` occurs exactly once in that PDF, in JSTOR boilerplate.
 
+### P3: the 2026-09-10 apophatic ↔ emergence cross-link landed only one of its two legs
+- **Type**: refine-draft
+- **File**: obsidian/topics/emergence-as-universal-hard-problem.md
+- **Source**: deep-review 2026-09-20 of `concepts/apophatic-approaches`
+- **Generated**: 2026-09-20
+- **Notes**: Commit `505773f156` states its own goal as fixing that "the wing's two opposed readings of convergent explanatory failure do not know the other exists" — a **mutual** ignorance. It inserted a paragraph into `concepts/apophatic-approaches` pointing at `topics/emergence-as-universal-hard-problem`, and stopped. **Measured 2026-09-20**: `grep -oiF apophatic obsidian/topics/emergence-as-universal-hard-problem.md` returns **0** — the target still does not link back. Classic [[analysis-doc-cites-the-article-article-never-cites-back]].
+  **The outbound leg is sound — do not re-litigate it.** The deep review validated its characterisation at this article and found it faithful to L39 ("the same reductive track record is compatible with both framings, and which one is correct turns on a prior judgement about whether mathematical identity between descriptions amounts to explanation"). Only the return leg is missing.
+  **What the return leg should say**: the two articles disagree about how much a recurring pattern of explanatory failure can establish. Apophatic method reads the characteristic *shape* of the failure (function captured, experience missed); the universalist reading tallies *outcomes* and finds the track record non-adjudicating. The apophatic article already frames this honestly and leaves the tension standing — match that, do not resolve it in either article's favour.
+  **Natural host**: near L39 or L103, both of which already do the "the dispute turns on a prior judgement rather than further data" work. `[[apophatic-approaches|...]]` piped into existing text costs ~0 words ([[piped-wikilink-installs-a-reciprocal-at-zero-word-cost]]) — check this article's length headroom first, it is a long topic article.
+  **Bare slug is correct here**: `[[apophatic-approaches]]` resolves to the live concept despite the `archive/voids/` stem collision (verified against built output 2026-09-20). Do not path-qualify it.
+
 ## Completed Tasks
 
   **SCOPE EXTENDED BY THE DRIVER 2026-09-19 11:1x UTC — the executing pass's sweep found one locus; a corpus-wide sweep including the ARCHIVE TREE finds three.** ([[defect-sweeps-must-include-archive-tree]].) `concepts/mysterianism` itself is now clean (commit `7ff94975`), verified 0/0 in both trees for all five removed strings. What remains:
