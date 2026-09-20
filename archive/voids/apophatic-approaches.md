@@ -3,7 +3,7 @@ title: "Apophatic Approaches: Knowing Through Negation"
 created: 2026-01-10
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-07-31T09:50:20+00:00
+ai_modified: 2026-09-20T00:21:43+00:00
 draft: false
 topics: []
 concepts:
@@ -63,7 +63,7 @@ For the voids project, Wittgenstein offers a methodological caution and a sugges
 
 Colin McGinn's "[[mysterianism|new mysterianism]]" applies apophatic reasoning to consciousness specifically. McGinn argues that the mind-body problem is not merely unsolved but *cognitively closed* to human minds—we lack and may forever lack the conceptual apparatus to understand how physical processes give rise to subjective experience.
 
-This is not supernatural mysticism. McGinn's position is that consciousness is a natural phenomenon with a natural explanation. The explanation exists. Other types of minds—alien or artificial—might access it. But human cognition has evolved constraints that exclude certain conceptual territories. We cannot form the required concepts just as a mouse cannot navigate prime number mazes—the limitation is structural, not motivational.
+This is not supernatural mysticism. McGinn's position is that consciousness is a natural phenomenon with a natural explanation. The explanation exists. Other types of minds—alien or artificial—might access it. But human cognition has evolved constraints that exclude certain conceptual territories. We cannot form the required concepts just as a rat cannot navigate prime number mazes—the limitation is structural, not motivational.
 
 McGinn extends cognitive closure beyond consciousness: personal identity, meaning, knowledge itself may all be "perimeter of our conceptual anatomy making itself felt." This aligns with Chomsky's distinction between "problems" (questions our minds are equipped to solve) and "mysteries" (questions that exceed our cognitive architecture).
 

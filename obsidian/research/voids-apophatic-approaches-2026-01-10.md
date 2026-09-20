@@ -3,7 +3,7 @@ title: "Research Notes - Voids: Apophatic Approaches to the Unknowable"
 created: 2026-01-10
 modified: 2026-01-10
 human_modified: null
-ai_modified: 2026-09-11T22:17:50+00:00
+ai_modified: 2026-09-20T00:21:43+00:00
 draft: false
 target_section: voids
 topics: []
@@ -71,7 +71,7 @@ Apophatic (negative) theology and related philosophical traditions offer robust 
   - Cognitive closure: "A type of mind M is cognitively closed with respect to a property P... if and only if the concept-forming procedures at M's disposal cannot extend to a grasp of P"
   - McGinn applies this to consciousness, personal identity, meaning, knowledge, and free will
   - Noam Chomsky distinguishes "problems" (solvable) from "mysteries" (beyond biological cognitive limits)
-  - Like a mouse unable to navigate prime number mazes, humans may face inherent limits
+  - Like a rat unable to run prime number mazes, humans may face inherent limits. **Correction (2026-09-20)**: this bullet originally read "Like a mouse unable to navigate". Chomsky's illustration, in "Science, Mind, and Limits of Understanding" (2014), is rats — "we are not surprised to discover that rats are unable to run prime number mazes no matter how much training they receive; they simply lack the relevant concept in their cognitive repertoire." Neither "mice" nor "mouse" occurs anywhere in that text. The claim and its attribution were correct; only the species was wrong.
 - **Tenet alignment**: Supports the voids framework's distinction between unexplored (merely unthought) and unexplorable (cognitively inaccessible)
 - **Quote**: "The mind-body problem is simply 'the perimeter of our conceptual anatomy making itself felt.'"
 

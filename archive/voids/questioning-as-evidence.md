@@ -4,7 +4,7 @@ description: "AI-assisted exploration of what the capacity to conceive cognitive
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-09-20T00:21:43+00:00
 last_deep_review: 2026-03-14T23:43:00+00:00
 draft: false
 topics:
@@ -83,7 +83,7 @@ Applied to the [[voids]] project: we are the beings for whom cognitive limits ar
 
 Noam Chomsky distinguishes "problems" (solvable in principle) from "mysteries" (beyond cognitive reach). His key insight is that these are necessarily connected: "The endowment that yields scope also establishes limits."
 
-He elaborates: "Far from bewailing the existence of mysteries-for-humans, we should be extremely grateful for it. With no limits to growth and development, our cognitive capacities would also have no scope." The architecture that enables void-inquiry constrains what void-inquiry can discover. A mouse cannot navigate prime number mazes not from lack of effort but from cognitive architecture.
+He elaborates: "Far from bewailing the existence of mysteries-for-humans, we should be extremely grateful for it. With no limits to growth and development, our cognitive capacities would also have no scope." The architecture that enables void-inquiry constrains what void-inquiry can discover. A rat cannot navigate prime number mazes not from lack of effort but from cognitive architecture.
 
 This is "truism" for anyone accepting modern biology—organisms have specific endowments enabling specific capacities while excluding others. The capacity to ask "what can't I think?" is not a general-purpose ability but has specific structure. What enables the scope (conceiving of limits) necessarily excludes other possibilities (transcending those limits).
 

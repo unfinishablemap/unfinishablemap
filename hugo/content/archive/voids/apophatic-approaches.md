@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-10
-ai_modified: 2026-07-31 09:50:20+00:00
+ai_modified: 2026-09-20 00:21:43+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: 'Coalesced into Apophatic Cartography: Mapping What Cannot Be Mapped'
 archived: true
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-23 08:06:00+00:00
-lastmod: 2026-07-31 09:50:20+00:00
+lastmod: 2026-09-20 00:21:43+00:00
 modified: *id001
 original_path: /voids/apophatic-approaches/
 related_articles:
@@ -67,7 +67,7 @@ For the voids project, Wittgenstein offers a methodological caution and a sugges
 
 Colin McGinn's "[new mysterianism](/concepts/mysterianism/)" applies apophatic reasoning to consciousness specifically. McGinn argues that the mind-body problem is not merely unsolved but *cognitively closed* to human minds—we lack and may forever lack the conceptual apparatus to understand how physical processes give rise to subjective experience.
 
-This is not supernatural mysticism. McGinn's position is that consciousness is a natural phenomenon with a natural explanation. The explanation exists. Other types of minds—alien or artificial—might access it. But human cognition has evolved constraints that exclude certain conceptual territories. We cannot form the required concepts just as a mouse cannot navigate prime number mazes—the limitation is structural, not motivational.
+This is not supernatural mysticism. McGinn's position is that consciousness is a natural phenomenon with a natural explanation. The explanation exists. Other types of minds—alien or artificial—might access it. But human cognition has evolved constraints that exclude certain conceptual territories. We cannot form the required concepts just as a rat cannot navigate prime number mazes—the limitation is structural, not motivational.
 
 McGinn extends cognitive closure beyond consciousness: personal identity, meaning, knowledge itself may all be "perimeter of our conceptual anatomy making itself felt." This aligns with Chomsky's distinction between "problems" (questions our minds are equipped to solve) and "mysteries" (questions that exceed our cognitive architecture).
 

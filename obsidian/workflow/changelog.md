@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T00:20:00+00:00'
+ai_modified: '2026-09-20T00:24:23+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-20T00:24:23+00:00 - refine-draft
+- **Status**: Success
+- **Task**: queue line 39, P3 — species drift inside a genuine citation (prime-number mazes: Chomsky's illustration uses **rats**, several loci rendered it with **mice**).
+- **Scope**: wording fix only. The claim is true, the attribution to Chomsky is correct everywhere, and no citation was removed or re-examined. Source already verified by the driver: "Science, Mind, and Limits of Understanding" (2014), chomsky.info/201401__/ — `rats` twice (~offsets 30777, 34570), `mice` = 0 and `mouse` = 0.
+- **Files**: 6 (2 live archived pages fixed in place; 4 dated research notes given marked dated corrections in the house format used for the 2026-09-19 McGinn bullet)
+  - `archive/voids/questioning-as-evidence.md` — "A mouse cannot navigate prime number mazes" → "A rat …". Live page (HTTP 200); sits immediately after a Chomsky block quote, so the proximity risk was real. Word-neutral.
+  - `archive/voids/apophatic-approaches.md` — "just as a mouse cannot navigate prime number mazes" → "just as a rat …". Live page; word-neutral.
+  - `research/voids-questioning-as-evidence-2026-01-30.md` L69 — corrected to "a rat cannot run", original wording quoted in a dated correction.
+  - `research/voids-whether-real-2026-01-17.md` L42 — corrected to "A rat cannot run", dated correction.
+  - `research/voids-apophatic-approaches-2026-01-10.md` L74 — corrected to "Like a rat unable to run", dated correction.
+  - `research/voids-epistemology-of-cognitive-limits-2026-02-04.md` L172 — "Chomsky's mice and prime-number mazes" → "Chomsky's rats …", dated correction. Sharpest of the four because it names Chomsky directly.
+- **Deliberately left alone** (all three verified this run, none touched, all clean in `git status`): `research/voids-intelligibility-void-2026-02-15.md` L79 and `research/voids-evidential-weight-of-voids-2026-02-06.md` L70 were **already correct** ("rats"; mice/mouse = 0 in each) — the task's two "known starting points" were the two clean files. `research/mysterianism-cognitive-closure-2026-01-14.md` carries "mice" **inside the 2026-09-19 dated correction**, which quotes the original error before correcting it; that occurrence is by design.
+- **Method**: both surface forms (`prime number maze` and `prime-number maze`) and both species forms (`mouse`, `mice`) searched separately with `grep -iF`, with a positive control before any absence claim. Every locus verified by string, not by line number. Final proximity sweep across `obsidian/`, `archive/` and `hugo/content/` confirms zero uncorrected loci: every surviving `mouse`/`mice` near the phrase is inside a marked correction or a workflow record.
+- **Sync**: `scripts/sync.py` run; all six `hugo/content/…` twins verified present and carrying the fix (archive twins now `mouse`=0 `mice`=0; research twins retain exactly one of each inside the correction text, as intended). No wikilinks broken — the only strip warnings are pre-existing memory-slug links in `workflow/` changelog files, which are exempt.
+- **Published**: yes (uncommitted on disk)
 
 ## 2026-09-20T00:20:00+00:00 - deep-review
 - **Status**: Success

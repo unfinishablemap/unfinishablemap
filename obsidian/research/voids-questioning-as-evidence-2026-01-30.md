@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Question as Evidence"
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-08-02T08:03:21+00:00
+ai_modified: 2026-09-20T00:21:43+00:00
 draft: false
 target_section: voids
 topics:
@@ -66,7 +66,7 @@ The very fact that we can conceive of cognitive voids—that we can ask "what ca
   - Distinguishes "problems" (solvable in principle) from "mysteries" (beyond cognitive reach)
   - "Far from bewailing the existence of mysteries-for-humans, we should be extremely grateful for it. With no limits to growth and development, our cognitive capacities would also have no scope"
   - The endowment that yields scope also establishes limits—a logical necessity
-  - Compares to how a mouse cannot navigate prime number mazes not due to lack of intelligence but due to cognitive architecture
+  - Compares to how a rat cannot run prime number mazes not due to lack of intelligence but due to cognitive architecture. **Correction (2026-09-20)**: this bullet originally read "a mouse cannot navigate". Chomsky's illustration, in "Science, Mind, and Limits of Understanding" (2014), is rats — "we are not surprised to discover that rats are unable to run prime number mazes no matter how much training they receive; they simply lack the relevant concept in their cognitive repertoire." Neither "mice" nor "mouse" occurs anywhere in that text. The claim and its attribution were correct; only the species was wrong.
   - This is "truism" for anyone accepting modern biology—organisms have specific endowments enabling specific capacities while excluding others
 - **Tenet alignment**: Directly supports [[tenets#^occams-limits|Occam's Razor Has Limits]]—simplicity-seeking cognition may systematically miss complex truths
 - **Quote**: "The more fundamental point is that the very system that gives us the scope to tackle problems will impose limits."

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-01-17 02:00:00+00:00
+ai_modified: 2026-09-20 00:21:43+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -12,7 +12,7 @@ date: &id001 2026-01-17
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-01-17 02:00:00+00:00
+lastmod: 2026-09-20 00:21:43+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -41,7 +41,7 @@ The question of whether cognitive limits are real—permanent structural feature
 - **Key points**:
   - Distinguishes "problems" (solvable in principle) from "mysteries" (not solvable even in principle)
   - Argues this is simply biological truism: any endowment that provides scope also imposes limits
-  - A mouse cannot navigate prime number mazes; humans may be similarly limited regarding consciousness
+  - A rat cannot run prime number mazes; humans may be similarly limited regarding consciousness. **Correction (2026-09-20)**: this bullet originally read "A mouse cannot navigate". Chomsky's illustration, in "Science, Mind, and Limits of Understanding" (2014), is rats — "we are not surprised to discover that rats are unable to run prime number mazes no matter how much training they receive; they simply lack the relevant concept in their cognitive repertoire." Neither "mice" nor "mouse" occurs anywhere in that text. The claim and its attribution were correct; only the species was wrong.
   - The same properties that enable understanding also constrain it—"no limits" would mean "no structure"
 - **Tenet alignment**: Strong support for Occam's Razor Has Limits—complexity of mind includes real limitations
 - **Quote**: "If there were no limits to human intelligence, it would lack internal structure, and would therefore have no scope."

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-08-19 22:48:53+00:00
+ai_modified: 2026-09-20 00:21:43+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5
 author: null
 concepts:
@@ -12,7 +12,7 @@ date: &id001 2026-02-04
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-19 22:48:53+00:00
+lastmod: 2026-09-20 00:21:43+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -171,7 +171,7 @@ What does it feel like to approach this meta-limit?
 
 **Apophatic mapping**: Following negative theology's method—systematically charting what we *cannot* say about consciousness, limits, solutions. The shape of consistent negation may reveal structural features even if positive knowledge is unavailable.
 
-**Comparative cognition**: Studying where other species face limits (Chomsky's mice and prime-number mazes) may illuminate human limits by analogy. If limits are architecture-specific, mapping other architectures helps triangulate the human case.
+**Comparative cognition**: Studying where other species face limits (Chomsky's rats and prime-number mazes) may illuminate human limits by analogy. If limits are architecture-specific, mapping other architectures helps triangulate the human case. **Correction (2026-09-20)**: this paragraph originally read "Chomsky's mice and prime-number mazes". Chomsky's illustration, in "Science, Mind, and Limits of Understanding" (2014), is rats — "we are not surprised to discover that rats are unable to run prime number mazes no matter how much training they receive; they simply lack the relevant concept in their cognitive repertoire." Neither "mice" nor "mouse" occurs anywhere in that text. The claim and its attribution to Chomsky were correct; only the species was wrong.
 
 **Simulation probes**: If we are in a simulation, probing the boundaries might reveal "seams" even if we cannot see beyond them. Consistent anomalies at cognitive edges would suggest designed limits.
 
