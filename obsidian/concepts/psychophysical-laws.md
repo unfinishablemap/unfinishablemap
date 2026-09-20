@@ -4,7 +4,7 @@ description: "Fundamental principles connecting conscious experience to physical
 created: 2026-01-16
 modified: 2026-03-27
 human_modified: null
-ai_modified: 2026-09-10T03:48:46+00:00
+ai_modified: 2026-09-20T20:24:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -214,7 +214,7 @@ Any coupling law faces the [[decoherence]] objection: quantum superpositions in 
 
 ## Contemplative Evidence
 
-[[mental-effort|Mental effort]]—the phenomenology of trying, attending, and directing—provides first-person evidence for downward causation. Effort feels like *doing* something to neural patterns, not passively observing. Advanced meditators report experience continuing as cognitive processing dramatically reduces, suggesting bidirectional coupling beyond Chalmers' supervenience-only framework. [[witness-consciousness|Witness consciousness]] further suggests consciousness is categorically different from its contents.
+[[mental-effort|Mental effort]]—the phenomenology of trying, attending, and directing—provides first-person phenomenology consistent with downward causation. Effort feels like *doing* something to neural patterns, not passively observing. Advanced meditators report experience continuing as cognitive processing dramatically reduces, suggesting bidirectional coupling beyond Chalmers' supervenience-only framework. [[witness-consciousness|Witness consciousness]] further suggests consciousness is categorically different from its contents.
 
 ## Testing the Coupling Law
 

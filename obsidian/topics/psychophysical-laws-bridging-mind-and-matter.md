@@ -4,7 +4,7 @@ description: "If consciousness is distinct, laws must bridge mind and matter. Ch
 created: 2026-01-26
 modified: 2026-02-07
 human_modified:
-ai_modified: 2026-09-17T11:37:39+00:00
+ai_modified: 2026-09-20T20:24:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -156,7 +156,7 @@ John Eccles (1994), with quantum mechanics developed alongside Friedrich Beck, p
 
 ### Three Further Candidates
 
-**Valence as motivational force.** [[pain-consciousness-and-causal-power|Pain asymbolia]] provides suggestive evidence that phenomenal valence does causal work: patients detect tissue damage normally but lack felt badness and consequently lack avoidance motivation. The dissociation suggests felt valence, not merely damage representation, drives motivational behaviour. But no quantum-level pathway has been proposed.
+**Valence as motivational force.** [[pain-consciousness-and-causal-power|Pain asymbolia]] provides suggestive evidence that phenomenal valence does causal work: patients detect tissue damage normally but lack felt badness and consequently lack avoidance motivation. The dissociation suggests felt valence, not merely damage representation, drives motivational behaviour—though [[concepts/pain-asymbolia]] documents the lesion overlap that leaves a common-cause reading open. But no quantum-level pathway has been proposed.
 
 **Qualia as basis selection.** Perhaps specific phenomenal qualities correspond to specific measurement bases in quantum collapse—consciousness selects *what question to ask* rather than *which answer to get*. No developed theory, no mechanism, no evidence. Conceptually interesting: it illustrates that coupling might operate at the question level rather than the outcome level.
 
@@ -201,7 +201,7 @@ The psychophysical laws framework is where the Map's [[tenets]] become theoretic
 
 **[[tenets#^dualism|Dualism]]** requires psychophysical laws by definition. If consciousness is ontologically distinct from physics, something must specify how they relate. Where Chalmers provides philosophical foundation, the Map develops operational specification—particularly the downward direction Chalmers leaves open.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** requires downward selection laws, not merely upward supervenience. The tenet is a philosophical commitment grounded in the phenomenology of agency—the experienced reality that intention affects action, that effort affects outcome. The candidate mechanisms surveyed here represent early attempts to locate where in physics this influence operates. None yet meets the full specification threshold. Stapp's model is the most detailed but faces the decoherence objection; the others remain less developed. The Map holds that the absence of a vindicated mechanism does not refute the phenomenological evidence any more than the absence of a mechanism for gravity refuted falling objects before Newton. But honesty requires acknowledging that the tenet's empirical credibility depends on whether future work can achieve mechanistic specificity.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** requires downward selection laws, not merely upward supervenience. The tenet is a philosophical commitment supported by self-stultification and indirect evidence, and consonant with the phenomenology of agency—the experienced reality that intention affects action, that effort affects outcome—though that phenomenology cannot itself verify it. The candidate mechanisms surveyed here represent early attempts to locate where in physics this influence operates. None yet meets the full specification threshold. Stapp's model is the most detailed but faces the decoherence objection; the others remain less developed. The Map holds that the absence of a vindicated mechanism does not refute the phenomenological evidence any more than the absence of a mechanism for gravity refuted falling objects before Newton. But honesty requires acknowledging that the tenet's empirical credibility depends on whether future work can achieve mechanistic specificity.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** is reflected in all candidate mechanisms. Each proposes *biasing* quantum outcomes rather than overriding physical law. Stapp modulates observation frequency; Eccles modulates tunneling probability; none injects energy or violates [[conservation-laws-and-mental-causation|conservation laws]]. The ~10 bits/second bandwidth constraint further enforces minimality.
 

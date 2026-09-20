@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-09-10 03:48:46+00:00
+ai_modified: 2026-09-20 20:24:34+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 12:34:29+00:00
-lastmod: 2026-09-10 03:48:46+00:00
+lastmod: 2026-09-20 20:24:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -218,7 +218,7 @@ Any coupling law faces the [decoherence](/concepts/decoherence/) objection: quan
 
 ## Contemplative Evidence
 
-[Mental effort](/concepts/mental-effort/)—the phenomenology of trying, attending, and directing—provides first-person evidence for downward causation. Effort feels like *doing* something to neural patterns, not passively observing. Advanced meditators report experience continuing as cognitive processing dramatically reduces, suggesting bidirectional coupling beyond Chalmers' supervenience-only framework. [Witness consciousness](/concepts/witness-consciousness/) further suggests consciousness is categorically different from its contents.
+[Mental effort](/concepts/mental-effort/)—the phenomenology of trying, attending, and directing—provides first-person phenomenology consistent with downward causation. Effort feels like *doing* something to neural patterns, not passively observing. Advanced meditators report experience continuing as cognitive processing dramatically reduces, suggesting bidirectional coupling beyond Chalmers' supervenience-only framework. [Witness consciousness](/concepts/witness-consciousness/) further suggests consciousness is categorically different from its contents.
 
 ## Testing the Coupling Law
 

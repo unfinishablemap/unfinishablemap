@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T19:38:13+00:00'
+ai_modified: '2026-09-20T20:24:34+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-20T20:24:34+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/psychophysical-laws-bridging-mind-and-matter]] (primary, 2 loci), [[concepts/psychophysical-laws]] (1 locus)
+- **Scope**: P3, queue line 1255, `reviews/tenet-check-2026-08-26.md` Warning 5. One defect class, three loci: all three grounded Tenet 3 in first-person evidence, against `tenets/tenets.md:93` — *"a metaphysical commitment supported by self-stultification and indirect evidence, not as a directly introspectible datum"* — and the agency void's verification circularity on the same line. No review run; defect and fixes were pre-verified in the brief and re-verified on disk here.
+- **Locus 1** (topic, Bidirectional Interaction alignment paragraph): *"a philosophical commitment grounded in the phenomenology of agency"* → *"a philosophical commitment supported by self-stultification and indirect evidence, and consonant with the phenomenology of agency—…—though that phenomenology cannot itself verify it."* Adopts tenets.md's own wording for the grounding and appends the circularity. +14 words.
+- **Locus 2** (concept, Contemplative Evidence): *"provides first-person evidence for downward causation"* → *"provides first-person phenomenology consistent with downward causation"*. +1 word. The brief's parent note demanded net-zero here; re-measurement showed 7 words of real headroom, so the literal swap was taken rather than mangling the phrase to hit zero.
+- **Locus 3** (topic, Three Further Candidates / valence): the asymbolia argument conceded no epiphenomenalist reply — one lesion disrupting felt badness and the avoidance machinery from a common cause. Added *"—though [[concepts/pain-asymbolia]] documents the lesion overlap that leaves a common-cause reading open"* (+12 words). **Cross-reference, not re-derivation**: `concepts/pain-asymbolia.md` already carries `## What Asymbolia Dissociates` (L61) and an L52 passage on the insular / anterior-cingulate lesion-overlap confound, citing Feinstein et al. (2016) on the unreplicated insula finding. Register matched to the file's own L141 — *"the evidence does not adjudicate between Stapp's selection mechanism and a physicalist neuroplasticity account"* — which states the discipline correctly and was abandoned in the alignment section.
+- **Correction carried from the brief, recorded so it is not repeated**: the originating task note grounded locus 3 by claiming `tenets.md` L95 *"names 'a behavioural dissociation' explicitly"*. It does not. Measured in `tenets/tenets.md`: `dissociation` 0, `behavioural` 0, `behavioral` 0, `asymbolia` 0; the single occurrence of `causal work` sits at L95 inside the quantum-interface passage (downward causation shown *available*, not *actual*) and concerns the interface argument, not any dissociation. The locus-3 defect is real, but its warrant is L93's "not a directly introspectible datum" plus L95's available-vs-actual discipline. **No behavioural-dissociation claim was attributed to tenets.md in either article.**
+- **Length**: topic 3459 → 3483 (+24; `topics` hard 4000, usable 3999 → 516 to hard). Concept 3492 → 3493 (+1; `concepts` hard 3500, usable 3499 → 6 to hard). Both `soft_warning` before and after. No condense opened (three condense mints vetoed this cycle); the concept file's remaining 6 words were deliberately left unspent.
+- **Collisions**: the brief's warned-of sibling tasks (P2 self-stultification sweep on `concepts/psychophysical-laws` L114, P3 on the topic host L111) were re-checked against open blocks above the completed marker and are no longer open. No race.
+- **Out of scope, untouched**: Stapp mechanism discussion, falsifiers, and the recent calibration passes on this pair. No follow-ups minted.
+- **Published**: yes (synced; old L217 string verified 0 in both trees)
 
 ## 2026-09-20T19:38:13+00:00 - refine-draft
 - **Status**: Success
