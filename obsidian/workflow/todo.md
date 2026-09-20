@@ -37,19 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: `apex/moral-status-of-edge-cases` decision implications 1 and 4 misstate the register's calibration — the credence spread they invoke does not exist, and three of ten grades are wrong
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/apex/moral-status-of-edge-cases.md
-- **Source**: pessimistic review 2026-09-20 — `reviews/pessimistic-2026-09-20-moral-status-of-edge-cases` Issues 1 and 2
-- **Generated**: 2026-09-20
-- **Notes**: **Two repairs in the decision layer, both verified line-by-line against `obsidian/positions/`. Length is not a constraint: `analyze_length` gives 3,899 words against apex soft 4,000 / hard 5,000 — 1,100 words of headroom.**
-  **(a) Recommendation 1 (L128) asserts "the framework's confidence varies by an order of magnitude across them." It does not.** Credence for the ten cited positions: P-MS1 moderate, P-MS2 **low**, P-CS2 moderate, P-CS3 moderate, P-CS4 moderate, P-CS5 moderate, P-SC2 **high**, P-SC3 moderate, P-AC1 moderate, P-AS1 moderate. **Eight of ten are *moderate*.** The one *high* is high about a **debt**, not a verdict; the one *low* is P-MS2's conjunction ceiling. The four-kind sort is a good contribution — do not touch it — but re-base its stated justification on the axes that do vary: external-evidence grade, and whether any evidence could bear at all.
-  **(b) Recommendation 4 (L134) says "The animal and developmental verdicts rest on grade-B external evidence; every other verdict in this piece rests on grade D or on a registered debt." Three counterexamples:** **P-CS4 is grade C** — and the article states this correctly itself at L90, so the recommendation contradicts its own body; **P-CS5 is grade C** (chemotaxis's mechanistic completeness is independently attested); **P-AS1 is grade B**, outside the marker region entirely ("attaches to the engineering premises only … Albash & Lidar 2015"). True distribution: **B×3, C×2, D×3, n/a×2** — a four-step gradient, not two steps. ⚠️ Every drift is *conservative* (C→D, B→D), so this is **not** possibility→probability slippage; it is register drift that flattens the exact asymmetry the recommendation tells policy to track.
-  **(c) Same pass — surface the `empirical discriminability` axis where a decision rests on it.** `grep -ioF "discriminab"` on the article returns **0** (control: `grade` returns 20). Recommendation 2 calls itself "the most confident one here" and rests on **P-SC3**, whose register line reads *model maturity **programme*** and *empirical discriminability **none***. The floor section rests on **P-CS5**, discriminability ***none-by-construction***. Minimum fix: one clause in recommendation 2 and one in the floor section. An applied apex that prints credence and grade but never prints the axis saying whether evidence could correct the verdict is withholding the number a decision-maker most needs.
-  🛑 **Do not re-derive the table** — it is in the review, Issue 1.
-
 ### P2: `apex/moral-status-of-edge-cases` runs its calibration discipline against over-attribution only — the standing agnostic challenge is rendered one-directional and as a *present* limit
 
 - **Type**: refine-draft
@@ -1861,6 +1848,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-20: `apex/moral-status-of-edge-cases` decision implications 1 and 4 misstate the register's calibration — the credence spread they invoke does not exist, and three of ten grades are wrong
+- **Type**: refine-draft
+- **File**: obsidian/apex/moral-status-of-edge-cases.md
+- **Notes**: **Two repairs in the decision layer, both verified line-by-line against `obsidian/positions/`. Length is not a constraint: `analyze_length` gives 3,899 words against apex soft 4,000 / hard 5,000 — 1,100 words of headroom.**
+  **(a) Recommendation 1 (L128) asserts "the framework's confidence varies by an order of magnitude across them." It does not.** Credence for the ten cited positions: P-MS1 moderate, P-MS2 **low**, P-CS2 moderate, P-CS3 moderate, P-CS4 moderate, P-CS5 moderate, P-SC2 **high**, P-SC3 moderate, P-AC1 moderate, P-AS1 moderate. **Eight of ten are *moderate*.** The one *high* is high about a **debt**, not a verdict; the one *low* is P-MS2's conjunction ceiling. The four-kind sort is a good contribution — do not touch it — but re-base its stated justification on the axes that do vary: external-evidence grade, and whether any evidence could bear at all.
+  **(b) Recommendation 4 (L134) says "The animal and developmental verdicts rest on grade-B external evidence; every other verdict in this piece rests on grade D or on a registered debt." Three counterexamples:** **P-CS4 is grade C** — and the article states this correctly itself at L90, so the recommendation contradicts its own body; **P-CS5 is grade C** (chemotaxis's mechanistic completeness is independently attested); **P-AS1 is grade B**, outside the marker region entirely ("attaches to the engineering premises only … Albash & Lidar 2015"). True distribution: **B×3, C×2, D×3, n/a×2** — a four-step gradient, not two steps. ⚠️ Every drift is *conservative* (C→D, B→D), so this is **not** possibility→probability slippage; it is register drift that flattens the exact asymmetry the recommendation tells policy to track.
+  **(c) Same pass — surface the `empirical discriminability` axis where a decision rests on it.** `grep -ioF "discriminab"` on the article returns **0** (control: `grade` returns 20). Recommendation 2 calls itself "the most confident one here" and rests on **P-SC3**, whose register line reads *model maturity **programme*** and *empirical discriminability **none***. The floor section rests on **P-CS5**, discriminability ***none-by-construction***. Minimum fix: one clause in recommendation 2 and one in the floor section. An applied apex that prints credence and grade but never prints the axis saying whether evidence could correct the verdict is withholding the number a decision-maker most needs.
+  🛑 **Do not re-derive the table** — it is in the review, Issue 1.
 
 ### ✓ 2026-09-20: create applied apex A4 "Moral Status of Edge Cases" — the ripest of the three unblocked proposals, and the register already contains its own anti-inflation discipline
 - **Type**: apex-evolve
