@@ -610,3 +610,31 @@
   subject_articles:
   - voids/appetitive-void.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/fbd4440f-c7af-4c0d-b1ce-40a1f2885ed0
+  commissioned_at: '2026-09-20T03:09:19.671088+00:00'
+  prompt_summary: Hostile-referee audit of voids/appetitive-void
+  target_filename: outer-review-2026-09-20-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Act as a hostile referee. Audit one article on The Unfinishable Map\
+    \ (https://unfinishablemap.org), a dualist philosophy-of-mind site: https://unfinishablemap.org/voids/appetitive-void/\
+    \ \u2014 \"The Appetitive Void\", which argues that desire is not a bias to be\
+    \ corrected but the constitutive framework structuring cognition, so thought cannot\
+    \ step outside it. Assess: (1) whether its central claims are actually argued\
+    \ or merely asserted; (2) whether its citations are real, correctly attributed\
+    \ and quoted verbatim \u2014 verify at the publisher of record, not aggregators;\
+    \ (3) the strongest counterargument from 2020s work on motivated cognition, affective\
+    \ science and the philosophy of desire that the article fails to engage; (4) whether\
+    \ it overclaims in-principle impossibility where only practical difficulty is\
+    \ established. For site context and recent changes see https://unfinishablemap.org/workflow/changelog/\
+    \ \u2014 search indexes lag 24-48h, so read the live pages directly. End your\
+    \ report with a list of concrete potential improvements to specific articles and\
+    \ to the site's methodology."
+  subject_type: recent
+  subject_title: Audit appetitive-void
+  subject_articles:
+  - voids/appetitive-void.md
+  subject_source: reuse:pending-reviews:outer-review-2026-09-20-chatgpt-5-6-sol-pro.md
