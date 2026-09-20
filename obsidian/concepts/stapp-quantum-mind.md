@@ -4,7 +4,7 @@ description: "Mental effort operates through the quantum Zeno effect: rapid atte
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-09-20T01:11:04+00:00
+ai_modified: 2026-09-20T19:38:13+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -125,7 +125,7 @@ A distinct thermodynamic challenge targets the model's claim to energetic innoce
 
 **Response**: The objection has force, and the honest reply narrows the claim rather than deflecting it. What survives scrutiny is the *selectional* character of the proposal—the mechanism adds no new force term and no modification to the dynamical laws. What does not survive unqualified is the stronger reading that the required observation schedule is thermodynamically free: that reading rests on an isolated-system idealisation the warm brain does not satisfy. How large the back-action cost would be at neural observation rates, whether it would dissipate invisibly within the brain's metabolic budget or accumulate into a measurable signature, and whether the framework can absorb it, has not been worked out—here or, to our knowledge, in Stapp's own writings. Until it is, "satisfies conservation laws" should be read as "introduces no new dynamical terms," not "is energetically cost-free," and the thermodynamic difficulty stands as an open objection alongside the decoherence-timescale one. Note that [[tenets|Tenet 2]]'s rules-out clause demands no detectable energy injection, so the objection is pressure the Map's own standards recognise, not an external imposition.
 
-The objection also bears on the Map's preference ordering among mechanisms. The [[positions/quantum-interface|positions register]] already prefers [[post-decoherence-selection|post-decoherence selection]] (P-Q1) over pre-decoherence proposals like Stapp's, because selection acting on already-decohered branch-outcomes sidesteps the decoherence-timescale objection. The same structural feature plausibly avoids the back-action channel: a post-decoherence selector performs no repeated projective measurement and holds no state against thermal relaxation, so the measurement-heating argument does not obviously get started against it. That advantage is plausible rather than demonstrated—no worked model exists for either mechanism (the register's P-Q10 debt)—but if it holds, the thermodynamic objection becomes a second independent axis, alongside timing, on which post-decoherence selection outranks the Zeno mechanism.
+The objection also bears on the Map's preference ordering among mechanisms. The [[positions/quantum-interface|register]] already prefers [[post-decoherence-selection|post-decoherence selection]] (P-Q1, P-Q4) over pre-decoherence proposals like Stapp's, because selection acting on already-decohered branch-outcomes sidesteps the decoherence-timescale objection. The same structural feature plausibly avoids the back-action channel: a post-decoherence selector performs no repeated projective measurement and holds no state against thermal relaxation, so the measurement-heating argument does not obviously get started against it. That advantage is plausible rather than demonstrated—no worked model exists for either mechanism (the register's P-Q10 debt)—but if it holds, the thermodynamic objection becomes a second independent axis, alongside timing, on which post-decoherence selection outranks the Zeno mechanism.
 
 ### The Formalism Objection
 

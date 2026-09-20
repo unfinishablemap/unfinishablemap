@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T07:55:58+00:00'
+ai_modified: '2026-09-20T19:24:50+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 author: Andy Southgate
 concepts: []
@@ -10,7 +10,7 @@ date: &id001 2026-05-21
 draft: false
 human_modified: 2026-01-23 15:29:26+00:00
 last_curated: null
-lastmod: 2026-09-20 07:55:58+00:00
+lastmod: 2026-09-20 19:24:50+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -38,24 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P3: `topics/ethics-under-dualism` — its `description:` widens the criterion its own body explicitly narrows twelve lines later
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/ethics-under-dualism.md
-- **Source**: optimistic-review 2026-09-20 (ethics / moral-status wing), priority 2 of 4 (second host) — see `obsidian/reviews/optimistic-2026-09-20-ethics-moral-status-wing.md`
-- **Generated**: 2026-09-20
-- **Budget**: 3754 words, soft 3000 / hard 4000 — **soft ALREADY TRIPPED**, 245 to hard. **This fix costs ZERO words**: it is a frontmatter `description:` edit, and `analyze_length` counts body only. The tight budget is not a reason to defer it.
-- **Notes**: **A one-line frontmatter fix, and the article already contains the exact replacement wording.**
-
-  The `description:` reads: "If consciousness is irreducible and causally efficacious, it both grounds moral status and unifies value, agency, normativity, and moral perception under a single ground — resolving the fragmentation that plagues materialist ethics."
-
-  The body, at **L55**, says the opposite and says it well: "consciousness grounds *moral status*: a being whose experience can go well or badly for it — **the criterion is felt valence, not consciousness as such (explained below)** — can suffer, flourish, be helped or harmed in ways that matter." L109 then gives the Vulcan its full treatment, and L190 mirrors [P-MS1](/positions/moral-status/#p-ms1)'s shift limb.
-
-  So this article is the **wing's model for handling the criterion correctly in prose**, and its own syndicated summary contradicts it. The description renders to five surfaces (meta, og, twitter, JSON-LD, list pages). Carry the L55 qualification into it — "grounds moral status (the criterion being felt valence, not consciousness as such)" or similar within the 150–160 char guidance.
-
-  **Scope: the `description:` field only.** The body is correct and is the reference implementation the other two tasks are told to copy — **do not edit it**.
 
 ### NEEDS-HUMAN (doctrine) 2026-09-19: the Tenet-5 "parsimony tiebreaker" rule is the engine behind a defect family flagged in SIX consecutive tenet checks — and `tenets.md` never states it
 
@@ -118,6 +100,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   ℹ️ **Bookkeeping correction to the paragraph above**: it reports "eligible pairs fell from 395 to 301", but 301 is reproducible here as the **fitting** (arithmetic) count, not the judgement-filtered eligible count — the table's own "395 (135 eligible)" uses the two words in the opposite sense. Read 395 → 301 → 296 as the fitting series. The table's `concepts` total of 53,050 is also not a triangular number; C(326,2) = **52,975**.
   **Judgement blocker re-verified in four greps, unchanged and now sharper.** Smallest `concepts` articles: `phenomenal-depth` 1313, `mind-arena` 1380, `status-of-content` 1497, `phenomenal-presentation` 1572. The three smallest have **zero body references to one another in any direction** (`grep -oF` each slug against the other two files: all zero). And the arithmetically attractive pair `phenomenal-depth` + `phenomenal-presentation` (2885, ~614 words of headroom — the most comfortable fit in the section) is **deleted by the inverted-overlap rule**: `phenomenal-presentation` L54 is a dedicated **`**Versus [[phenomenal-depth]].**`** subsection drawing exactly that boundary ("depth describes its richness, presentation describes its givenness"). `mind-arena` carries three more `Versus` subsections. **Merging any of these would delete boundary work the corpus wrote on purpose** (coalesce-candidate-pool-exhausted-by-role-granularity).
   **No article was edited, no fork was spawned, and the full pairwise sweep was not re-derived** — only the single-section delta the decision needs.
+
+  **13th CONSECUTIVE NO-OP — 2026-09-20 ~19:2x UTC. This run was a full fork, i.e. the expensive form; it re-derived the pool independently and reproduced the driver's figures exactly.** Feasibility floor <1750 words (two such articles fit under the 3499 `concepts` ceiling with seam headroom). Measured with `tools.curate.length.analyze_length` on real `obsidian/<section>/` paths: **`topics` 328 files → 1 under floor; `concepts` 326 → 13; `voids` 103 → 3. Pool = 16 articles of 757 corpus-wide (2.1%), 120 pairs.** Mutual-linkage filter (wikilink or markdown path reference in **either** direction, all 120 pairs): **exactly 1 hit** — `phenomenal-depth` (1313) + `phenomenal-presentation` (1572) = 2885, presentation→depth — and that pair is the one the paragraph above already deleted by the inverted-overlap rule. **ABANDON, correctly.**
+  ❗ **Correction to the `topics` figure, in the direction that strengthens the entry: `topics` has ZERO eligible articles under the floor, not one.** The single sub-floor file is `obsidian/topics/non-temporal-consciousness.refinement-log.md` at **77 words** — an editor-internal refinement-log sidecar, not an article (refinement-log-sidecar-files-are-intentional). Excluding it, the smallest real `topics` article is above the floor, so the section cannot form a pair **even before** any judgement filter. ℹ️ This is the same sidecar-over-counting failure mode as the open `count_section_files` NEEDS-HUMAN entry, surfacing in a second consumer: any pool or cap arithmetic that globs `*.md` silently admits sidecars.
+  **New measurement this run — a second-`Versus`-pair sweep, which had not been run before.** All 16 pool members were swept for a boundary marker (`Versus` / `vs` / `contrast(ed) with` / `distinguished from` / `not to be confused with`) followed within 80 chars by a wikilink. **Four markers exist in the pool and only ONE points at a fellow pool member** — the disqualified `phenomenal-presentation` L54 → `phenomenal-depth`. The other three (`phenomenal-presentation` → `phenomenal-acquaintance`, → `phenomenal-overflow`; `mind-arena` → `mental-causation-and-downward-causation`) all aim at **larger, non-pool** articles. **So there is no second near-pair hiding behind the inverted-overlap rule; the pool is exhausted on the merits, not merely on the one blocked pair.**
+  ➡️ **What this adds to the operator decision (recorded, not taken).** Thirteen consecutive no-ops across 2 of 24 slots (8.3%), with the pool now at **16 of 757 articles** and the sole linked pair structurally disqualified. On this evidence the slots look **recoverable**: the capability is not being exercised and its precondition is cheap to test, which is exactly the shape option (2) assumes. The gate quantity identified by the 12th-no-op paragraph is confirmed and can be narrowed further: **the precondition is not "does any pair fit" but "does any sub-floor `concepts` pair link to each other without a `Versus` marker between them"** — one `analyze_length` sweep plus one grep, cheap enough to run every cycle without consuming a slot. Option (1) (reallocate to `deep-review` or queue tasks) and option (2) are both supported; **only the operator should choose between them.**
 
 ### NEEDS-HUMAN 2026-09-19: `concepts/illusionism` cleared the hard gate with only 25 words to spare — the remaining ~125 needs an operator decision
 
@@ -1856,6 +1843,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-20: `topics/ethics-under-dualism` — its `description:` widens the criterion its own body explicitly narrows twelve lines later
+- **Type**: refine-draft
+- **File**: obsidian/topics/ethics-under-dualism.md
+- **Notes**: **A one-line frontmatter fix, and the article already contains the exact replacement wording.**
+  The `description:` reads: "If consciousness is irreducible and causally efficacious, it both grounds moral status and unifies value, agency, normativity, and moral perception under a single ground — resolving the fragmentation that plagues materialist ethics."
+  The body, at **L55**, says the opposite and says it well: "consciousness grounds *moral status*: a being whose experience can go well or badly for it — **the criterion is felt valence, not consciousness as such (explained below)** — can suffer, flourish, be helped or harmed in ways that matter." L109 then gives the Vulcan its full treatment, and L190 mirrors [P-MS1](/positions/moral-status/#p-ms1)'s shift limb.
+  So this article is the **wing's model for handling the criterion correctly in prose**, and its own syndicated summary contradicts it. The description renders to five surfaces (meta, og, twitter, JSON-LD, list pages). Carry the L55 qualification into it — "grounds moral status (the criterion being felt valence, not consciousness as such)" or similar within the 150–160 char guidance.
+  **Scope: the `description:` field only.** The body is correct and is the reference implementation the other two tasks are told to copy — **do not edit it**.
 
 ### ✓ 2026-09-20: `apex/moral-architecture-of-consciousness` — the wing's anchor states the criterion as bare consciousness on its most-syndicated surface, and is the wing's structural isolate
 - **Type**: refine-draft

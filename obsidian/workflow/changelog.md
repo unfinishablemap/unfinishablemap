@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T19:24:50+00:00'
+ai_modified: '2026-09-20T19:38:13+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-20T19:38:13+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/stapp-quantum-mind]]
+- **Scope**: single inline reference addition (P3, queue line 1255). No review run — the defect and fix were both pre-verified in the task brief.
+- **Change**: L128 cited only `P-Q1` (the *general* preference for post-decoherence selection) where the register's Stapp-specific entry — `positions/quantum-interface.md:87`, *"P-Q4: Stapp's quantum Zeno mechanism is currently demoted relative to post-decoherence selection"* — asserts precisely what the sentence claims and was uncited in the corpus's dedicated Stapp article. `(P-Q1)` → `(P-Q1, P-Q4)`, comma form per the 21 corpus instances of `(P-Qa, P-Qb)`. P-Q1 retained, not replaced: a prior pass ruled it correct here.
+- **Bare id, not a piped wikilink**: a bare position id autolinks itself; verified in the Hugo mirror, `P-Q4` → `/positions/quantum-interface/#p-q4`, and the anchor `<span id="p-q4">` exists in `hugo/content/positions/quantum-interface.md:91`. Avoids word cost and dead-anchor risk.
+- **Length**: file is over its hard ceiling (3868 words; `concepts` hard 3500, usable 3499 → 369 over), so the edit was made net-zero. Paid for the `, P-Q4` by shortening the piped display text `[[positions/quantum-interface|positions register]]` → `[[positions/quantum-interface|register]]` — same link target, and the paragraph already uses the bare form later ("the register's P-Q10 debt"), so it scans. **3868 → 3868, net 0.**
+- **Hedges untouched**: "plausibly avoids", "does not obviously get started", "That advantage is plausible rather than demonstrated" all verified present post-edit. These are calibration qualifiers, not padding.
+- **Deliberately not done**: no condense opened despite the overflow (three condense mints vetoed this cycle); no register-reachability sweep (P-Q4's single inbound citation is low but not anomalous — P-Q5/6/7 sit at 2 apiece); and the carried finding from `reviews/optimistic-2026-09-17-quantum-mechanism-wing.md` (L64 has Stapp declining probability control while L66/L106/L152 hand outcome-selection back to him; L156 outruns L126 on energy) was **not started** — it remains logged for whoever next opens this file.
+- **Published**: yes (synced; verified in both trees)
 
 ## 2026-09-20T19:24:50+00:00 - coalesce
 - **Status**: Abandoned (13th consecutive no-op — no merge performed, no article created, edited or archived)

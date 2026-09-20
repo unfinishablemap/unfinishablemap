@@ -1,14 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T19:08:05+00:00'
+ai_modified: '2026-09-20T19:38:13+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-20'
-lastmod: 2026-09-20 19:08:05+00:00
+lastmod: 2026-09-20 19:38:13+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-20T19:38:13+00:00 - refine-draft
+- **Status**: Success
+- **File**: [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
+- **Scope**: single inline reference addition (P3, queue line 1255). No review run — the defect and fix were both pre-verified in the task brief.
+- **Change**: L128 cited only `P-Q1` (the *general* preference for post-decoherence selection) where the register's Stapp-specific entry — `positions/quantum-interface.md:87`, *"[P-Q4](/positions/quantum-interface/#p-q4): Stapp's quantum Zeno mechanism is currently demoted relative to post-decoherence selection"* — asserts precisely what the sentence claims and was uncited in the corpus's dedicated Stapp article. `(P-Q1)` → `(P-Q1, P-Q4)`, comma form per the 21 corpus instances of `(P-Qa, P-Qb)`. [P-Q1](/positions/quantum-interface/#p-q1) retained, not replaced: a prior pass ruled it correct here.
+- **Bare id, not a piped wikilink**: a bare position id autolinks itself; verified in the Hugo mirror, `P-Q4` → `/positions/quantum-interface/#p-q4`, and the anchor `<span id="p-q4">` exists in `hugo/content/positions/quantum-interface.md:91`. Avoids word cost and dead-anchor risk.
+- **Length**: file is over its hard ceiling (3868 words; `concepts` hard 3500, usable 3499 → 369 over), so the edit was made net-zero. Paid for the `, P-Q4` by shortening the piped display text `[[positions/quantum-interface|positions register]]` → `[[positions/quantum-interface|register]]` — same link target, and the paragraph already uses the bare form later ("the register's [P-Q10](/positions/quantum-interface/#p-q10) debt"), so it scans. **3868 → 3868, net 0.**
+- **Hedges untouched**: "plausibly avoids", "does not obviously get started", "That advantage is plausible rather than demonstrated" all verified present post-edit. These are calibration qualifiers, not padding.
+- **Deliberately not done**: no condense opened despite the overflow (three condense mints vetoed this cycle); no register-reachability sweep ([P-Q4](/positions/quantum-interface/#p-q4)'s single inbound citation is low but not anomalous — [P-Q5](/positions/quantum-interface/#p-q5)/6/7 sit at 2 apiece); and the carried finding from `reviews/optimistic-2026-09-17-quantum-mechanism-wing.md` (L64 has Stapp declining probability control while L66/L106/L152 hand outcome-selection back to him; L156 outruns L126 on energy) was **not started** — it remains logged for whoever next opens this file.
+- **Published**: yes (synced; verified in both trees)
+
+## 2026-09-20T19:24:50+00:00 - coalesce
+- **Status**: Abandoned (13th consecutive no-op — no merge performed, no article created, edited or archived)
+- **Method**: Full independent re-derivation of the candidate pool, not a delta. Merge-feasibility floor **<1750 words** (two such articles fit under the `concepts` hard ceiling of 3499 with seam headroom). Word counts via `tools.curate.length.analyze_length` on real `obsidian/<section>/` paths so section thresholds apply. Index files excluded.
+- **Pool**: `topics` 328 files → **1** under floor; `concepts` 326 → **13**; `voids` 103 → **3**. **16 articles of 757 corpus-wide (2.1%), 120 pairs.** Reproduces the driver's figures exactly.
+- **Decisive filter (mutual linkage)**: all 120 pairs tested for a wikilink or markdown path reference in **either** direction. **Exactly 1 of 120**: `concepts/phenomenal-depth` (1313) + `concepts/phenomenal-presentation` (1572) = 2885, presentation→depth. Driver's figure reproduced.
+- **That pair rejected on the inverted-overlap rule** (coalesce-candidate-pool-exhausted-by-role-granularity). `obsidian/concepts/phenomenal-presentation.md` **L54** carries a dedicated `**Versus [[phenomenal-depth]].**` subsection under its own `## How Presentation Differs from Neighbouring Concepts` heading (L48), verified verbatim: *"Depth concerns the layered internal structure within a presented state… A presented state may be deep or shallow; depth describes its richness, presentation describes its givenness."* **The junior article exists partly to draw this distinction; merging would delete it.**
+- **Correction to the `topics` figure (strengthens the conclusion)**: `topics` has **zero** eligible articles under the floor, not one. The sole sub-floor file is `obsidian/topics/non-temporal-consciousness.refinement-log.md` at **77 words** — an editor-internal refinement-log sidecar, not an article (refinement-log-sidecar-files-are-intentional). The section therefore cannot form a pair **before** any judgement filter. Same sidecar-over-counting failure mode as the open `count_section_files` NEEDS-HUMAN entry, surfacing in a second consumer.
+- **New measurement — second-`Versus`-pair sweep** (not run by any previous pass): all 16 pool members swept for `Versus` / `vs` / `contrast(ed) with` / `distinguished from` / `not to be confused with` followed within 80 chars by a wikilink. **Four markers in the pool; only one points at a fellow pool member** (the disqualified pair). The other three — `phenomenal-presentation` → `phenomenal-acquaintance` and → `phenomenal-overflow`, `mind-arena` → `mental-causation-and-downward-causation` — all aim at larger, non-pool articles. **No second near-pair is hiding behind the rule.**
+- **Escalation**: dated paragraph appended inside the `Notes:` of the existing `### NEEDS-HUMAN (cycle allocation) 2026-09-19` entry in `obsidian/workflow/todo.md` (as indented continuation lines — a bullet after `Notes:` is dropped by the parser). No new task minted. Parse verified unchanged before/after: 64 active tasks in both.
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 2026-09-20T19:08:05+00:00 - refine-draft
 - **Status**: Success
