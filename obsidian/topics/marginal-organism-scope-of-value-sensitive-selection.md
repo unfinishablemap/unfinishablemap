@@ -4,7 +4,7 @@ description: "Where does valence-denominated conscious selection bottom out—ra
 created: 2026-06-05
 modified: 2026-08-27
 human_modified:
-ai_modified: 2026-08-27T10:49:43+00:00
+ai_modified: 2026-09-20T15:01:00+00:00
 draft: false
 topics:
   - "[[valence-and-conscious-selection]]"
@@ -126,6 +126,7 @@ Two limits are in-principle, not instrumental. Verifying the *absence* of valenc
 - [[evidential-status-discipline]] — The calibration discipline this article enforces on boundary cases
 - [[fish-sentience-and-the-teleost-pain-debate]] — The orthogonal vertebrate-architecture rung: nociception fixed, cortical structure varied
 - [[explanatory-gap]] — Why the lower boundary is partly an unmeasurable void
+- [[moral-status-of-edge-cases]] — What the symmetric underdetermination at the floor licenses, and does not, for moral standing
 
 ## References
 

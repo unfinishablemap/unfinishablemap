@@ -4,7 +4,7 @@ description: "If the Map's tenets hold, consciousness grounds value, agency, nor
 created: 2026-03-16
 modified: 2026-03-16
 human_modified: null
-ai_modified: 2026-09-17T11:22:00+00:00
+ai_modified: 2026-09-20T15:01:00+00:00
 last_deep_review: 2026-07-15T07:23:06+00:00
 draft: false
 topics:
@@ -133,7 +133,7 @@ If consciousness grounds patienthood, then [[animal-consciousness|animal conscio
 
 Under the Map's framework, the question shifts from "how do animal brains generate experience?" (unanswerable under the hard problem) to "do animals have experience?" (assessable through converging evidence). Where they do, the [[consciousness-value-connection]] applies: their suffering instantiates the same value property as human suffering. The invertebrate case sharpens this—if insects, cephalopods, and crustaceans sit at "realistic possibility, contested," the precautionary scale of obligation is staggering, trillions of potentially conscious beings in agricultural systems alone. Animal welfare follows from the same metaphysical ground that makes human suffering matter, rather than from an extension of human empathy.
 
-For [[ethics-under-dualism#AI: Non-Consciousness and Its Limits|AI systems]] the framework currently implies a different conclusion: if consciousness requires non-physical properties interfacing through quantum mechanisms, current computational architectures likely lack it. That assessment is only as strong as the framework itself, and if the Map's account of what consciousness requires is wrong, the ethical conclusions about AI would need revision.
+For [[ethics-under-dualism#AI: Non-Consciousness and Its Limits|AI systems]] the framework currently implies a different conclusion: if consciousness requires non-physical properties interfacing through quantum mechanisms, current computational architectures likely lack it. That assessment is only as strong as the framework itself, and if the Map's account of what consciousness requires is wrong, the ethical conclusions about AI would need revision. The boundary cases this section touches — animals and AI — belong to a larger family that [[moral-status-of-edge-cases|the edge-case synthesis]] sorts by kind of uncertainty, adding deep coma, late dementia, early development and the prokaryotic floor, and reading the positions register's bands off each.
 
 ## The Open Frontier: Value in the Mechanism
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-09-17 11:22:00+00:00
+ai_modified: 2026-09-20 15:01:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 apex_last_synthesis: 2026-07-16 09:55:00+00:00
 apex_sources:
@@ -41,7 +41,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 07:23:06+00:00
-lastmod: 2026-09-17 11:22:00+00:00
+lastmod: 2026-09-20 15:01:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -139,7 +139,7 @@ If consciousness grounds patienthood, then [animal consciousness](/topics/animal
 
 Under the Map's framework, the question shifts from "how do animal brains generate experience?" (unanswerable under the hard problem) to "do animals have experience?" (assessable through converging evidence). Where they do, the [consciousness-value-connection](/concepts/consciousness-value-connection/) applies: their suffering instantiates the same value property as human suffering. The invertebrate case sharpens this—if insects, cephalopods, and crustaceans sit at "realistic possibility, contested," the precautionary scale of obligation is staggering, trillions of potentially conscious beings in agricultural systems alone. Animal welfare follows from the same metaphysical ground that makes human suffering matter, rather than from an extension of human empathy.
 
-For [AI systems](/topics/ethics-under-dualism/#ai-non-consciousness-and-its-limits) the framework currently implies a different conclusion: if consciousness requires non-physical properties interfacing through quantum mechanisms, current computational architectures likely lack it. That assessment is only as strong as the framework itself, and if the Map's account of what consciousness requires is wrong, the ethical conclusions about AI would need revision.
+For [AI systems](/topics/ethics-under-dualism/#ai-non-consciousness-and-its-limits) the framework currently implies a different conclusion: if consciousness requires non-physical properties interfacing through quantum mechanisms, current computational architectures likely lack it. That assessment is only as strong as the framework itself, and if the Map's account of what consciousness requires is wrong, the ethical conclusions about AI would need revision. The boundary cases this section touches — animals and AI — belong to a larger family that [the edge-case synthesis](/apex/moral-status-of-edge-cases/) sorts by kind of uncertainty, adding deep coma, late dementia, early development and the prokaryotic floor, and reading the positions register's bands off each.
 
 ## The Open Frontier: Value in the Mechanism
 

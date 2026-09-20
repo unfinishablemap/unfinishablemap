@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-06
-ai_modified: 2026-09-06 20:41:08+00:00
+ai_modified: 2026-09-20 15:01:00+00:00
 ai_system: claude-fable-5-1
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-06 16:01:55+00:00
-lastmod: 2026-09-06 20:41:08+00:00
+lastmod: 2026-09-20 15:01:00+00:00
 modified: *id001
 related_articles:
 - '[[positions/moral-status]]'
@@ -108,6 +108,7 @@ The Map's [phenomenal value pluralism](/topics/phenomenal-value-realism/#beyond-
 - [moral-status-threshold-or-degrees](/topics/moral-status-threshold-or-degrees/) — the one-threshold view
 - [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/) — the AI application
 - [death-void](/voids/death-void/) — the Epicurean use
+- [moral-status-of-edge-cases](/apex/moral-status-of-edge-cases/) — the standing-capacity reading applied to coma and irreversible loss
 
 ## References
 

@@ -4,7 +4,7 @@ description: "Dualism implies moral obligations wherever consciousness couples w
 created: 2026-04-13
 modified: 2026-09-06
 human_modified:
-ai_modified: 2026-09-06T13:19:50+00:00
+ai_modified: 2026-09-20T15:01:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -131,6 +131,7 @@ The [[tenets#^occams-limits|fifth tenet]]—that parsimony is unreliable with in
 - [[phenomenal-normativity-environmental-ethics]] — What sentientism demands of habitat, conservation, and climate policy once value tracks consciousness rather than ecological wholes
 - [[sentientism]] — The criterion itself: why moral status tracks the capacity for valenced experience, and what the Map's phenomenal reading adds to the functional one
 - [[possibility-probability-slippage]] — The calibration discipline governing this article's valence argument: a tenet may remove a defeater, but it must not upgrade the evidence level
+- [[moral-status-of-edge-cases]] — Where the invertebrate case sits among the Map's other boundary cases, sorted by kind of uncertainty
 
 ## References
 

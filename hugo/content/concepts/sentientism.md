@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-01
-ai_modified: 2026-09-06 02:59:45+00:00
+ai_modified: 2026-09-20 15:01:00+00:00
 ai_system: claude-opus-5+claude-fable-5+claude-fable-5-1
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 19:10:48+00:00
-lastmod: 2026-09-06 02:59:45+00:00
+lastmod: 2026-09-20 15:01:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -81,7 +81,7 @@ Some consequences follow from the neutral criterion alone; others only from the 
 
 **From the phenomenal reading: a reply to overinclusiveness, and to disenhancement.** The Map's [phenomenal value pluralism](/topics/phenomenal-value-realism/#beyond-hedonism) holds that hedonic valence is one value-bearing feature of experience among several — aesthetic quality, felt meaning, agency, understanding, connection. Sentience is then the entry ticket to moral status, not the whole measure of what is at stake in a life, so a being with the full range of value-bearing phenomenal features has more at stake than one with valence alone, without species membership doing any work.
 
-That grading collides with the argument from marginal cases used above. Infants and the severely cognitively impaired are sentient, so the ranking implies only that less is at stake on some dimensions of their lives; status is untouched, and so is equal consideration of *equal* interests. Rossi (2010) argues that equal consideration is incompatible with unequal status, and Wendler (2023) that no *status-enhancing* property exists; on their usage, the Map's, graded stakes are not degrees of status. [The threshold article](/topics/moral-status-threshold-or-degrees/) places the separation in the field and concedes that any threshold on a *scalar* capacity is arbitrary. The permanently unconscious human is the harder case, the one the valence criterion itself reaches. "Capacity" means the standing capacity: a dreamless sleeper or a patient in reversible coma keeps status ([welfare subjects and standing capacity](/concepts/consciousness-value-connection/#objections-and-responses)). Where the capacity is irreversibly gone, the criterion as stated entails that intrinsic status goes with it, and the Map says so: what remains owed — prior wishes, history, standing relationships — is owed derivatively, concerning that person, not to a patient who retains standing. That is the reading [P-MS2](/positions/moral-status/#p-ms2) adopts, a residue Singer and McMahan accept by other routes. Marginal cases show that species membership cannot ground the boundary, not that every human sits at the top of the ranking.
+That grading collides with the argument from marginal cases used above. Infants and the severely cognitively impaired are sentient, so the ranking implies only that less is at stake on some dimensions of their lives; status is untouched, and so is equal consideration of *equal* interests. Rossi (2010) argues that equal consideration is incompatible with unequal status, and Wendler (2023) that no *status-enhancing* property exists; on their usage, the Map's, graded stakes are not degrees of status. [The threshold article](/topics/moral-status-threshold-or-degrees/) places the separation in the field and concedes that any threshold on a *scalar* capacity is arbitrary. The [permanently unconscious human](/apex/moral-status-of-edge-cases/) is the harder case, the one the valence criterion itself reaches. "Capacity" means the standing capacity: a dreamless sleeper or a patient in reversible coma keeps status ([welfare subjects and standing capacity](/concepts/consciousness-value-connection/#objections-and-responses)). Where the capacity is irreversibly gone, the criterion as stated entails that intrinsic status goes with it, and the Map says so: what remains owed — prior wishes, history, standing relationships — is owed derivatively, concerning that person, not to a patient who retains standing. That is the reading [P-MS2](/positions/moral-status/#p-ms2) adopts, a residue Singer and McMahan accept by other routes. Marginal cases show that species membership cannot ground the boundary, not that every human sits at the top of the ranking.
 
 The mirror-image case presses from the other side. Chalmers holds that consciousness of any kind suffices for status, and tests the valence criterion with philosophical Vulcans — conscious beings who perceive, think and act but feel nothing good or bad. The Map bites the bullet where [the consciousness-value connection](/concepts/consciousness-value-connection/#implications) already does: a Vulcan clears the consciousness bar while having nothing that could go well or badly for it. Smithies (2026) defends that verdict against Chalmers directly, arguing that one cannot explain why consciousness is necessary for moral status without denying that it is sufficient. He is an ally on the necessity direction; the phenomenal reading of the hedonic capacity is the Map's further step.
 

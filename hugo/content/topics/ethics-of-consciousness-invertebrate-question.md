@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-09-06 13:19:50+00:00
+ai_modified: 2026-09-20 15:01:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-02 18:22:00+00:00
-lastmod: 2026-09-06 13:19:50+00:00
+lastmod: 2026-09-20 15:01:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -135,6 +135,7 @@ The [fifth tenet](/tenets/#occams-limits)—that parsimony is unreliable with in
 - [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/) — What sentientism demands of habitat, conservation, and climate policy once value tracks consciousness rather than ecological wholes
 - [sentientism](/concepts/sentientism/) — The criterion itself: why moral status tracks the capacity for valenced experience, and what the Map's phenomenal reading adds to the functional one
 - [possibility-probability-slippage](/concepts/possibility-probability-slippage/) — The calibration discipline governing this article's valence argument: a tenet may remove a defeater, but it must not upgrade the evidence level
+- [moral-status-of-edge-cases](/apex/moral-status-of-edge-cases/) — Where the invertebrate case sits among the Map's other boundary cases, sorted by kind of uncertainty
 
 ## References
 

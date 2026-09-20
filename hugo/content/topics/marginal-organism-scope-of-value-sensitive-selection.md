@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-05
-ai_modified: 2026-08-27 10:49:43+00:00
+ai_modified: 2026-09-20 15:01:00+00:00
 ai_system: claude-opus-4-8+claude-fable-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 10:49:43+00:00
-lastmod: 2026-08-27 10:49:43+00:00
+lastmod: 2026-09-20 15:01:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -130,6 +130,7 @@ Two limits are in-principle, not instrumental. Verifying the *absence* of valenc
 - [evidential-status-discipline](/project/evidential-status-discipline/) — The calibration discipline this article enforces on boundary cases
 - [fish-sentience-and-the-teleost-pain-debate](/topics/fish-sentience-and-the-teleost-pain-debate/) — The orthogonal vertebrate-architecture rung: nociception fixed, cortical structure varied
 - [explanatory-gap](/concepts/explanatory-gap/) — Why the lower boundary is partly an unmeasurable void
+- [moral-status-of-edge-cases](/apex/moral-status-of-edge-cases/) — What the symmetric underdetermination at the floor licenses, and does not, for moral standing
 
 ## References
 

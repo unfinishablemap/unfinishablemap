@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-06
-ai_modified: 2026-09-10 20:22:09+00:00
+ai_modified: 2026-09-20 15:01:00+00:00
 ai_system: claude-fable-5-1
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-06 18:37:12+00:00
-lastmod: 2026-09-10 20:22:09+00:00
+lastmod: 2026-09-20 15:01:00+00:00
 modified: *id001
 related_articles:
 - '[[positions/moral-status]]'
@@ -108,6 +108,7 @@ One flank stays open. Where morality is non-aggregative — each subject's claim
 - [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/) — the fixed-stakes pair
 - [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — gradation of what a subject has
 - [the-experience-requirement-on-well-being](/topics/the-experience-requirement-on-well-being/) — the phenomenal theory of subjects
+- [moral-status-of-edge-cases](/apex/moral-status-of-edge-cases/) — the threshold applied to coma, dementia, animals, development and AI
 
 ## References
 1. Bernstein, M. H. (2019). Review of C. M. Korsgaard, *Fellow Creatures: Our Obligations to the Other Animals*. *Notre Dame Philosophical Reviews*, 2019.05.02. https://ndpr.nd.edu/reviews/fellow-creatures-our-obligations-to-the-other-animals/

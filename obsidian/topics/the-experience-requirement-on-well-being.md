@@ -4,7 +4,7 @@ description: "Human-AI inquiry splitting global from local experience requiremen
 created: 2026-09-06
 modified: 2026-09-06
 human_modified:
-ai_modified: 2026-09-06T20:41:08+00:00
+ai_modified: 2026-09-20T15:01:00+00:00
 draft: false
 topics:
   - "[[phenomenal-value-realism]]"
@@ -104,6 +104,7 @@ The Map's [[topics/phenomenal-value-realism#Beyond Hedonism|phenomenal value plu
 - [[topics/moral-status-threshold-or-degrees]] — the one-threshold view
 - [[topics/ethics-of-possible-ai-consciousness]] — the AI application
 - [[voids/death-void]] — the Epicurean use
+- [[moral-status-of-edge-cases]] — the standing-capacity reading applied to coma and irreversible loss
 
 ## References
 
