@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-09-08 14:56:06+00:00
+ai_modified: 2026-09-20 11:23:29+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 20:04:42+00:00
-lastmod: 2026-09-08 14:56:06+00:00
+lastmod: 2026-09-20 11:23:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -144,7 +144,7 @@ Two further test cases push the same way. During non-lucid [dreams](/topics/drea
 
 ## Connection to Self-Reference
 
-HOT requires consciousness to be inherently self-referential, connecting it to the Map's [self-opacity void](/voids/self-opacity/). The [self-reference-paradox](/concepts/self-reference-paradox/) surfaces two limits. The **regress problem**: if conscious thoughts require higher-order thoughts, do those require still higher thoughts? HOT avoids infinite regress by allowing unconscious higher-order representations, but the solution feels stipulative. The **calibration problem**: how can we evaluate our metacognition without using more metacognition, when the tools of assessment are the very things assessed?
+HOT requires consciousness to be inherently self-referential, connecting it to the Map's [self-opacity void](/voids/self-opacity/). The [self-reference-paradox](/concepts/self-reference-paradox/) surfaces two limits. The **regress problem**: if conscious thoughts require higher-order thoughts, do those require still higher thoughts? HOT avoids infinite regress by allowing unconscious higher-order representations, but the solution feels stipulative. The **calibration problem**: how can we evaluate our metacognition without using more metacognition, when [the tools of assessment are the very things assessed](/voids/appetitive-void/)?
 
 The eye that cannot see itself reappears as the thought that cannot think itself—[what that structure feels like](/topics/phenomenology-of-recursive-self-awareness/) is explored separately.
 

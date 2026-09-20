@@ -4,7 +4,7 @@ description: "Mental states become conscious when we become aware of them. HOT e
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-09-08T14:56:06+00:00
+ai_modified: 2026-09-20T11:23:29+00:00
 draft: false
 last_deep_review: 2026-07-25T20:04:42+00:00
 topics:
@@ -141,7 +141,7 @@ Two further test cases push the same way. During non-lucid [[dream-consciousness
 
 ## Connection to Self-Reference
 
-HOT requires consciousness to be inherently self-referential, connecting it to the Map's [[self-opacity|self-opacity void]]. The [[self-reference-paradox]] surfaces two limits. The **regress problem**: if conscious thoughts require higher-order thoughts, do those require still higher thoughts? HOT avoids infinite regress by allowing unconscious higher-order representations, but the solution feels stipulative. The **calibration problem**: how can we evaluate our metacognition without using more metacognition, when the tools of assessment are the very things assessed?
+HOT requires consciousness to be inherently self-referential, connecting it to the Map's [[self-opacity|self-opacity void]]. The [[self-reference-paradox]] surfaces two limits. The **regress problem**: if conscious thoughts require higher-order thoughts, do those require still higher thoughts? HOT avoids infinite regress by allowing unconscious higher-order representations, but the solution feels stipulative. The **calibration problem**: how can we evaluate our metacognition without using more metacognition, when [[appetitive-void|the tools of assessment are the very things assessed]]?
 
 The eye that cannot see itself reappears as the thought that cannot think itself—[[phenomenology-of-recursive-self-awareness|what that structure feels like]] is explored separately.
 

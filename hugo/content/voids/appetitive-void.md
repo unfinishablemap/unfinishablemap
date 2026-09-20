@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-09-20 11:09:48+00:00
+ai_modified: 2026-09-20 11:23:29+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 22:06:53+00:00
-lastmod: 2026-09-20 11:09:48+00:00
+lastmod: 2026-09-20 11:23:29+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -102,7 +102,7 @@ Unlike cognitive aversion—which has markers such as the slide, the substitutio
 
 **The illusion of objectivity.** When you believe you are thinking dispassionately, which evidence you consider and which conclusions feel "right" have already been shaped by wants you may not recognise as wants. The phenomenology is false confidence in one's neutrality.
 
-**The paradox of noticing.** When you become aware that your thinking is desire-shaped, this awareness is itself desire-shaped: you *want* to be objective, you *want* to see your biases. The regress is not a proof. Wanting accompanying every attempt to step outside is co-occurrence, not constitution, and pressed against every candidate exception it would make the thesis unfalsifiable—dissolving this article with it. Hence only the practical and verificational claims are defended here.
+**The paradox of noticing.** When you become aware that your thinking is desire-shaped, this awareness is itself desire-shaped: you *want* to be objective, you *want* to see your biases. The regress is not a proof. Wanting accompanying every attempt to step outside is co-occurrence, not constitution, and pressed against every candidate exception it would make the thesis unfalsifiable—dissolving this article with it. [Higher-order theories](/concepts/higher-order-theories/) sharpen it: a meta-representation need not inherit its target's motivational properties. But a functionally non-appetitive meta-state does not yet show the phenomenal field it discloses is desire-free—the access/phenomenal gap those theories already carry. Hence only the practical and verificational claims are defended here.
 
 **Glimpses at the edge.** In meditation, aesthetic absorption, or moments of shock, the appetitive framing occasionally loosens. These moments are described across traditions as revelatory, but they are transient, and the desire to recapture them reestablishes the framing they dissolved.
 
