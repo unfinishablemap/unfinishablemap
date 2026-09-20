@@ -1,14 +1,42 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T09:40:18+00:00'
+ai_modified: '2026-09-20T10:09:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-20'
-lastmod: 2026-09-20 09:40:18+00:00
+lastmod: 2026-09-20 10:09:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-20T10:09:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [dualist-perception](/topics/dualist-perception/), [interoceptive-consciousness-and-the-interface](/topics/interoceptive-consciousness-and-the-interface/), [thermal-consciousness-and-the-interface](/topics/thermal-consciousness-and-the-interface/)
+- **Task**: queue line 39, second task from `reviews/optimistic-2026-09-20-cross-modal-capability-division-wing.md` — install the [P-PI1](/positions/perception-and-the-interface/#p-pi1) register citation the front door and spokes should carry instead of each restating the discount in their own words.
+- **Changes**: three piped-wikilink wraps of *existing* text to `[[positions/perception-and-the-interface]]`, no words added or removed:
+  - `topics/dualist-perception` L154 — wrapped `consonant with the interface reading without being probative of it` (the register's verbatim phrase; identical wrap to the one `apex/cross-modal-capability-division` L130 already carries).
+  - `topics/interoceptive-consciousness-and-the-interface` L103 — wrapped `consonant-not-probative`.
+  - `topics/thermal-consciousness-and-the-interface` L89 — wrapped `never as evidence that settles the dispute`.
+- **Word counts (before → after, `tools.curate.length.analyze_length`)**: dualist-perception 3815 → 3815; interoceptive 3807 → 3807; thermal 3218 → 3218. All **+0**, all `soft_warning`, headroom to the topics hard gate unchanged at 184 / 192 / 781.
+- **Link form**: path-qualified `[[positions/perception-and-the-interface|…]]`, matching the three existing content referrers (`apex/cross-modal-capability-division`, `topics/vestibular-consciousness-and-the-interface`, `positions/finding-level-calibration`). The bare stem is also unique and would have resolved; the path form was chosen for consistency. Verified post-sync in `hugo/content/`: all three render `/positions/perception-and-the-interface/`, the target file exists, no unconverted brackets remain.
+- **Locus deviation from the task notes**: the notes named thermal L73 (`does not weaken the apex's finding`). Used L89 instead — L73's phrase names the *finding*, whereas both existing precedents wrap a phrase naming the *registered discount* (`an accommodation, not a proof`; `consonant with the interface reading without being probative of it`). L89 opens thermal's "Relation to Site Perspective" with exactly that discount, so it is the honest host and the drift the review identified. Both candidates were +0; the choice was editorial, not arithmetic.
+- **Not touched**: `obsidian/positions/` (owned by positions-evolve, no edit there is length-neutral) and `apex/cross-modal-capability-division` (already cites the register, and is past its hard gate).
+- **Published**: yes
+
+## 2026-09-20T09:53:52+00:00 - coalesce
+- **Status**: Abandoned (delta measurement only — full pairwise sweep NOT re-derived, no merge performed, no article edited)
+- **Method**: Per the standing finding coalesce-candidate-pool-exhausted-by-role-granularity and the `NEEDS-HUMAN (cycle allocation)` entry in `todo.md`, this run measured the **delta** against commit `bf8aef6e` (2026-09-19 22:51:55, the baseline of the previous run's arithmetic) rather than re-scoring the pool. Word counts via `tools.curate.length.count_words` on the frontmatter-parsed body; a pair "fits" when `w1+w2 <= ceiling` (concepts 3499, topics 3999, voids 2999 — `length.py` gates on `>= hard`).
+- **Method validated before the delta was read**: the reproduction returns `topics` **2 fitting pairs of 53,301 across 327 articles**, matching the recorded figures exactly, and identifies the same two enteric-nervous-system pairs (3884 and 3986). The recorded `voids` figure (0 of 5,253) also reproduces.
+- **POOL DELTA, 11 hours**: `concepts` **301 → 296 fitting pairs (−5, −1.7%)**; `topics` **2 → 2**; `voids` **0 → 0**. Article counts unchanged at 326 / 327 / 103. **The pool continues to recede; second consecutive measurement of the same direction** (395 → 301 → 296).
+- **The mover was a single article**: `concepts/where-the-substance-commitment-enters` 1772 → 1847 (+75). The only other `concepts` files to change were `consciousness-bandwidth-architecture` (3490 → 3491) and `stapp-quantum-mind` (3873 → 3868), **neither of which can affect the pool at any size — each exceeds the 3499 ceiling alone**. All other growth today (`voids/appetitive-void` +202, `topics/vestibular-consciousness-and-the-interface` +156, `topics/three-dimensional-world-representation-problem` +117, `topics/attention-and-the-consciousness-interface` +79) landed in sections already at 0 and 2 viable pairs, where growth is free. **Refinement of the recorded mechanism: only edits to sub-~1750-word `concepts` articles move the pool.**
+- **Shortlisted and rejected**: `phenomenal-depth` (1313) + `phenomenal-presentation` (1572) = 2885, the section's most comfortable arithmetic fit at ~614 words of headroom. **Rejected on the inverted-overlap rule** — `phenomenal-presentation` L54 carries a dedicated `**Versus [[phenomenal-depth]].**` subsection drawing precisely that boundary ("depth describes its richness, presentation describes its givenness"). The three smallest concepts (`phenomenal-depth`, `mind-arena` 1380, `status-of-content` 1497) have **zero body references to one another in any direction**, verified by `grep -oF` of each slug against the other two files. `mind-arena` carries three further `Versus` subsections. Every top-arithmetic candidate is a boundary-work article.
+- **Bookkeeping corrections to the `NEEDS-HUMAN` entry**: its addendum calls 301 the "eligible" count, but 301 reproduces here as the **fitting** (arithmetic) count — the table's "395 (135 eligible)" uses the terms the other way round. Its `concepts` total of 53,050 is not a triangular number; C(326,2) = **52,975**. Both corrections recorded in the entry's `Notes`.
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
+- **Written**: one indented continuation paragraph inside the existing `NEEDS-HUMAN (cycle allocation)` entry's `Notes:` field (todo-addendum-lines-after-notes-are-invisible-to-the-parser); `parse_tasks` returns an identical 5-task list before and after the edit. No new todo entry minted, no duplicate of the blocked entry.
 
 ## 2026-09-20T09:40:18+00:00 - refine-draft
 - **Status**: Success

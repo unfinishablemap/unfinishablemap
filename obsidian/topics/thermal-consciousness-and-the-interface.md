@@ -4,7 +4,7 @@ description: "Thermal valence flips with body state—Cabanac's alliesthesia—m
 created: 2026-06-22
 modified: 2026-06-22
 human_modified:
-ai_modified: 2026-09-05T23:12:30+00:00
+ai_modified: 2026-09-20T10:09:00+00:00
 last_deep_review: 2026-08-20T16:16:00+00:00
 draft: false
 topics:
@@ -86,7 +86,7 @@ The honest situation, stated plainly, is that each of these rivals accounts for 
 
 ## Relation to Site Perspective
 
-The thermal distinctives above are framed throughout as phenomena the dualist/interface reading *accommodates*, never as evidence that settles the dispute. The empirical literature is naturalist—Cabanac, Craig, Blomqvist, Crucianelli, Ehrsson, Ackerley, Vriens, Nilius, Voets, Barrett, and Simmons build physicalist models and draw no dualist conclusion—and the molecular-transduction, homeostatic-emotion, and allostatic-prediction accounts are engaged here as the rivals the interface reading must out-accommodate. The Map adopts their mechanics and contests their sufficiency.
+The thermal distinctives above are framed throughout as phenomena the dualist/interface reading *accommodates*, [[positions/perception-and-the-interface|never as evidence that settles the dispute]]. The empirical literature is naturalist—Cabanac, Craig, Blomqvist, Crucianelli, Ehrsson, Ackerley, Vriens, Nilius, Voets, Barrett, and Simmons build physicalist models and draw no dualist conclusion—and the molecular-transduction, homeostatic-emotion, and allostatic-prediction accounts are engaged here as the rivals the interface reading must out-accommodate. The Map adopts their mechanics and contests their sufficiency.
 
 **[[tenets#^dualism|Dualism]]**: Thermoception is a clean exhibit of phenomenal structure for the [[explanatory-gap|explanatory gap]] in the register of *value indexed to need*. Because the felt valence flips with body state while the stimulus is unchanged, thermal experience makes vivid that what is felt is not a neutral magnitude with an evaluation appended but a constitutively evaluative state. The physicalist's homeostatic-integration reply stands; the residue it does not address is why the state-indexed comfort or distress is experienced *by a subject* at all. The Map reads thermal quality as constituted at the [[mind-matter-interface|interface]], with the molecular and homeostatic stories describing the brain side and the felt, owned valence the mind side.
 

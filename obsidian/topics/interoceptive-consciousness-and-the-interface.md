@@ -4,7 +4,7 @@ description: "Interoception completes the Map's modality survey inward and break
 created: 2026-06-20
 modified: 2026-06-20
 human_modified:
-ai_modified: 2026-09-17T05:14:20+00:00
+ai_modified: 2026-09-20T10:09:00+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -100,7 +100,7 @@ Second, convergence within one system is, on the Map's [[common-cause-null|commo
 
 Third, the mind-side reframing—affect and selfhood rather than detached representation—does not by itself favour the interface. It favours *some* account on which interoception is self-constituting, and the leading such account is the physicalist one. The inversion changes what the apex's mind-side term means inward; it does not change the evidential register in which the term is held.
 
-These constraints do not weaken the structural finding. They locate it: the cross-modal asymmetry is exteroceptive, interoception inverts both of its terms, and the inversion is held as consonant-not-probative, exactly as the apex holds the supramodal signature it surveys.
+These constraints do not weaken the structural finding. They locate it: the cross-modal asymmetry is exteroceptive, interoception inverts both of its terms, and the inversion is held as [[positions/perception-and-the-interface|consonant-not-probative]], exactly as the apex holds the supramodal signature it surveys.
 
 ## Relation to Site Perspective
 

@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T09:53:52+00:00'
+ai_modified: '2026-09-20T10:09:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-20T10:09:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/dualist-perception]], [[topics/interoceptive-consciousness-and-the-interface]], [[topics/thermal-consciousness-and-the-interface]]
+- **Task**: queue line 39, second task from `reviews/optimistic-2026-09-20-cross-modal-capability-division-wing.md` — install the P-PI1 register citation the front door and spokes should carry instead of each restating the discount in their own words.
+- **Changes**: three piped-wikilink wraps of *existing* text to `[[positions/perception-and-the-interface]]`, no words added or removed:
+  - `topics/dualist-perception` L154 — wrapped `consonant with the interface reading without being probative of it` (the register's verbatim phrase; identical wrap to the one `apex/cross-modal-capability-division` L130 already carries).
+  - `topics/interoceptive-consciousness-and-the-interface` L103 — wrapped `consonant-not-probative`.
+  - `topics/thermal-consciousness-and-the-interface` L89 — wrapped `never as evidence that settles the dispute`.
+- **Word counts (before → after, `tools.curate.length.analyze_length`)**: dualist-perception 3815 → 3815; interoceptive 3807 → 3807; thermal 3218 → 3218. All **+0**, all `soft_warning`, headroom to the topics hard gate unchanged at 184 / 192 / 781.
+- **Link form**: path-qualified `[[positions/perception-and-the-interface|…]]`, matching the three existing content referrers (`apex/cross-modal-capability-division`, `topics/vestibular-consciousness-and-the-interface`, `positions/finding-level-calibration`). The bare stem is also unique and would have resolved; the path form was chosen for consistency. Verified post-sync in `hugo/content/`: all three render `/positions/perception-and-the-interface/`, the target file exists, no unconverted brackets remain.
+- **Locus deviation from the task notes**: the notes named thermal L73 (`does not weaken the apex's finding`). Used L89 instead — L73's phrase names the *finding*, whereas both existing precedents wrap a phrase naming the *registered discount* (`an accommodation, not a proof`; `consonant with the interface reading without being probative of it`). L89 opens thermal's "Relation to Site Perspective" with exactly that discount, so it is the honest host and the drift the review identified. Both candidates were +0; the choice was editorial, not arithmetic.
+- **Not touched**: `obsidian/positions/` (owned by positions-evolve, no edit there is length-neutral) and `apex/cross-modal-capability-division` (already cites the register, and is past its hard gate).
+- **Published**: yes
 
 ## 2026-09-20T09:53:52+00:00 - coalesce
 - **Status**: Abandoned (delta measurement only — full pairwise sweep NOT re-derived, no merge performed, no article edited)

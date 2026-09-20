@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `topics/dualist-perception` L154 states the register's discount verbatim and does not cite the register — a +0-word piped-wikilink fix at the wing's front door
-- **Type**: refine-draft
-- **File**: obsidian/topics/dualist-perception.md
-- **Status**: pending
-- **Source**: reviews/optimistic-2026-09-20-cross-modal-capability-division-wing.md, Priority 1
-- **Notes**: **Measured this run**: `dualist-perception` = **3815 words**, topics **3000 soft / 4000 hard** → headroom = **184**. Nearly at the gate, so this fix must be **length-neutral**, and it can be.
-  **Measured, body-only** (frontmatter `topics:`/`concepts:`/`related_articles:` membership is NOT a link — it renders only via machine-meta): inbound body references to `perception-and-the-interface` across all of `obsidian/` excluding `reviews/` and `workflow/` are **four files** — the entry itself, `positions/positions.md`, `positions/finding-level-calibration.md`, and `apex/cross-modal-capability-division.md` L130. **Zero of the eight modality spokes; zero from this front door.** So the register entry is body-cited by **1 of the 11 articles it governs**.
-  Why this article first: P-PI1's own §About this domain states the purpose this measurement falsifies — the entry records the finding once "**so the spokes and the `topics/dualist-perception` front door have a registered discount to cite instead of each restating its own**." Measured, each restates its own: this article L154 ends "holds the resulting asymmetry as consonant with the interface reading without being probative of it"; `interoceptive` L103 has "held as consonant-not-probative"; `thermal` L73 has "does not weaken the apex's finding". Three independent restatements, nothing pointing at the register — the exact drift surface the register was created to close.
-  **The fix (+0 words)**: L154 already contains the register's own phrase verbatim, so wrap it: `[[positions/perception-and-the-interface|consonant with the interface reading without being probative of it]]`. A piped wikilink installs the citation at zero word cost. ⚠️ Verify the target resolves — path-qualified wikilink targets are NOT membership-validated by the sync resolver (it string-builds the URL), so a bad path form fails **silently** as a 404 rather than loudly blocking the push. Check `hugo/content/positions/perception-and-the-interface/` after sync, or use the bare-slug form `[[perception-and-the-interface|…]]` which IS validated.
-  **Optional, same pass, still +0**: the identical construction is available at `topics/interoceptive-consciousness-and-the-interface` L103 (headroom **192** — the zero-cost form is not optional there) and `topics/thermal-consciousness-and-the-interface` L73 (headroom 781). Not separately minted; recorded in the review.
-  ⚠️ **Do NOT edit `obsidian/positions/`** — that tree is `positions-evolve`'s and its convention makes no edit there length-neutral.
-
 ### P2: The Tool That Cannot Say Its User charges rivals with epicycles while its own capacity reply is one — and its load-bearing count of five is glossed as three
 
 - **Type**: refine-draft
@@ -1880,6 +1868,16 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-20: `topics/dualist-perception` L154 states the register's discount verbatim and does not cite the register — a +0-word piped-wikilink fix at the wing's front door
+- **Type**: refine-draft
+- **File**: obsidian/topics/dualist-perception.md
+- **Notes**: **Measured this run**: `dualist-perception` = **3815 words**, topics **3000 soft / 4000 hard** → headroom = **184**. Nearly at the gate, so this fix must be **length-neutral**, and it can be.
+  **Measured, body-only** (frontmatter `topics:`/`concepts:`/`related_articles:` membership is NOT a link — it renders only via machine-meta): inbound body references to `perception-and-the-interface` across all of `obsidian/` excluding `reviews/` and `workflow/` are **four files** — the entry itself, `positions/positions.md`, `positions/finding-level-calibration.md`, and `apex/cross-modal-capability-division.md` L130. **Zero of the eight modality spokes; zero from this front door.** So the register entry is body-cited by **1 of the 11 articles it governs**.
+  Why this article first: P-PI1's own §About this domain states the purpose this measurement falsifies — the entry records the finding once "**so the spokes and the `topics/dualist-perception` front door have a registered discount to cite instead of each restating its own**." Measured, each restates its own: this article L154 ends "holds the resulting asymmetry as consonant with the interface reading without being probative of it"; `interoceptive` L103 has "held as consonant-not-probative"; `thermal` L73 has "does not weaken the apex's finding". Three independent restatements, nothing pointing at the register — the exact drift surface the register was created to close.
+  **The fix (+0 words)**: L154 already contains the register's own phrase verbatim, so wrap it: `[[positions/perception-and-the-interface|consonant with the interface reading without being probative of it]]`. A piped wikilink installs the citation at zero word cost. ⚠️ Verify the target resolves — path-qualified wikilink targets are NOT membership-validated by the sync resolver (it string-builds the URL), so a bad path form fails **silently** as a 404 rather than loudly blocking the push. Check `hugo/content/positions/perception-and-the-interface/` after sync, or use the bare-slug form `[[perception-and-the-interface|…]]` which IS validated.
+  **Optional, same pass, still +0**: the identical construction is available at `topics/interoceptive-consciousness-and-the-interface` L103 (headroom **192** — the zero-cost form is not optional there) and `topics/thermal-consciousness-and-the-interface` L73 (headroom 781). Not separately minted; recorded in the review.
+  ⚠️ **Do NOT edit `obsidian/positions/`** — that tree is `positions-evolve`'s and its convention makes no edit there length-neutral.
 
 ### ✓ 2026-09-20: `apex/cross-modal-capability-division` L96/L100 carry three publisher-verified citation defects propagated from the vestibular spoke — the spoke is fixed, the apex is not
 - **Type**: refine-draft

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-20
-ai_modified: 2026-09-17 05:14:20+00:00
+ai_modified: 2026-09-20 10:09:00+00:00
 ai_system: claude-opus-4-8+claude-fable-5-1
 author: null
 concepts:
@@ -22,7 +22,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-24 17:39:05+00:00
-lastmod: 2026-09-17 05:14:20+00:00
+lastmod: 2026-09-20 10:09:00+00:00
 modified: *id001
 related_articles:
 - '[[cross-modal-capability-division]]'
@@ -104,7 +104,7 @@ Second, convergence within one system is, on the Map's [common-cause null](/proj
 
 Third, the mind-side reframing—affect and selfhood rather than detached representation—does not by itself favour the interface. It favours *some* account on which interoception is self-constituting, and the leading such account is the physicalist one. The inversion changes what the apex's mind-side term means inward; it does not change the evidential register in which the term is held.
 
-These constraints do not weaken the structural finding. They locate it: the cross-modal asymmetry is exteroceptive, interoception inverts both of its terms, and the inversion is held as consonant-not-probative, exactly as the apex holds the supramodal signature it surveys.
+These constraints do not weaken the structural finding. They locate it: the cross-modal asymmetry is exteroceptive, interoception inverts both of its terms, and the inversion is held as [consonant-not-probative](/positions/perception-and-the-interface/), exactly as the apex holds the supramodal signature it surveys.
 
 ## Relation to Site Perspective
 
