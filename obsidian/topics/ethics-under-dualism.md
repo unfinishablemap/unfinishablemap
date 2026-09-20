@@ -1,10 +1,10 @@
 ---
 title: "Ethics Under Dualism"
-description: "If consciousness is irreducible and causally efficacious, it both grounds moral status and unifies value, agency, normativity, and moral perception under a single ground — resolving the fragmentation that plagues materialist ethics."
+description: "If consciousness is irreducible and causally efficacious, it grounds moral status — the criterion is felt valence, not consciousness as such — and unifies value, agency, normativity and moral perception, which materialist ethics fragments."
 created: 2026-01-16
 modified: 2026-09-20
 human_modified: null
-ai_modified: 2026-09-20T13:42:50+00:00
+ai_modified: 2026-09-20T19:08:05+00:00
 last_deep_review: 2026-08-02T00:25:58+00:00
 draft: false
 topics:

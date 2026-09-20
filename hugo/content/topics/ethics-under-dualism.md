@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-09-20 13:42:50+00:00
+ai_modified: 2026-09-20 19:08:05+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5
 author: null
 coalesced_from:
@@ -28,14 +28,14 @@ concepts:
 - '[[interactionist-dualism]]'
 created: 2026-01-16
 date: &id001 2026-09-20
-description: If consciousness is irreducible and causally efficacious, it both grounds
-  moral status and unifies value, agency, normativity, and moral perception under
-  a single ground — resolving the fragmentation that plagues materialist ethics.
+description: If consciousness is irreducible and causally efficacious, it grounds
+  moral status — the criterion is felt valence, not consciousness as such — and unifies
+  value, agency, normativity and moral perception, which materialist ethics fragments.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-02 00:25:58+00:00
-lastmod: 2026-09-20 13:42:50+00:00
+lastmod: 2026-09-20 19:08:05+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

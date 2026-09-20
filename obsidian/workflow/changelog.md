@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T18:47:38+00:00'
+ai_modified: '2026-09-20T19:08:05+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-20T19:08:05+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/ethics-under-dualism]]
+- **Scope**: `description:` frontmatter field only. Body untouched and verified byte-identical (md5 of everything after the closing frontmatter delimiter unchanged across the edit); word count unchanged at 3754 (`analyze_length` is body-only, so the field costs 0 words).
+- **Defect**: the syndicated summary asserted the bare-consciousness criterion ("it both grounds moral status...") while the body states the opposite and states it well — L55 carries "the criterion is felt valence, not consciousness as such (explained below)", L109 gives the Chalmers Vulcan case that prises consciousness and valence apart, and L190 registers P-MS1's sixth shift limb as *not having happened*. This article is the moral-status wing's reference implementation; only its description contradicted it. The field renders to five surfaces (`<meta name="description">`, `og:description`, `twitter:description`, machine-meta JSON-LD, list/home cards) with no gloss available.
+- **Old** (232 chars): "If consciousness is irreducible and causally efficacious, it both grounds moral status and unifies value, agency, normativity, and moral perception under a single ground — resolving the fragmentation that plagues materialist ethics."
+- **New** (239 chars): "If consciousness is irreducible and causally efficacious, it grounds moral status — the criterion is felt valence, not consciousness as such — and unifies value, agency, normativity and moral perception, which materialist ethics fragments."
+- **How the qualification was paid for**: the field was already at 232 chars (~p90 of the 886 live descriptions measured this session: p25 157, median 173, p75 200, p90 238), so appending was not available. The tail said the same thing three times — *unifies* / *under a single ground* / *resolving the fragmentation* — so "under a single ground — resolving the fragmentation that plagues materialist ethics" (80 chars) was compressed to ", which materialist ethics fragments" (36), and "it both grounds" to "it grounds". Both theses survive: the status claim (now correctly qualified) and the unification claim across value / agency / normativity / moral perception, plus the tenet-conditional opener verbatim. Net +7 chars.
+- **Phrasing**: lifted verbatim from the article's own L55 rather than from the sibling apex, since this article is the wing's reference implementation; vocabulary ("felt valence") is consistent with `apex/moral-architecture-of-consciousness` either way.
+- **Note on the 150–160 char guidance**: the originating task quoted CLAUDE.md's schema band. That figure is stale against practice — 65.9% of live descriptions exceed 160, nothing in `scripts/validate.py` or `tools/curate/` enforces it, and the corpus has rejected it twice as a false defect (`workflow/archive/changelog-2026-W31.md:260`, `changelog-2026-W32.md:458`). Earlier today a pass that honoured the band deleted a real thesis clause from the sibling apex and had to be reverted. Not honoured here.
+- **Sync**: `scripts/sync.py` run; `hugo/content/topics/ethics-under-dualism.md` L31 carries the new field (239 chars, confirmed by YAML parse of the mirror). Old strings return 0 occurrences in the mirror.
+- **Published**: yes
 
 ## 2026-09-20T18:47:38+00:00 - deep-review
 - **Status**: Success

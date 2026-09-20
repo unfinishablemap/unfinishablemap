@@ -37,24 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: `topics/ethics-under-dualism` — its `description:` widens the criterion its own body explicitly narrows twelve lines later
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/ethics-under-dualism.md
-- **Source**: optimistic-review 2026-09-20 (ethics / moral-status wing), priority 2 of 4 (second host) — see `obsidian/reviews/optimistic-2026-09-20-ethics-moral-status-wing.md`
-- **Generated**: 2026-09-20
-- **Budget**: 3754 words, soft 3000 / hard 4000 — **soft ALREADY TRIPPED**, 245 to hard. **This fix costs ZERO words**: it is a frontmatter `description:` edit, and `analyze_length` counts body only. The tight budget is not a reason to defer it.
-- **Notes**: **A one-line frontmatter fix, and the article already contains the exact replacement wording.**
-
-  The `description:` reads: "If consciousness is irreducible and causally efficacious, it both grounds moral status and unifies value, agency, normativity, and moral perception under a single ground — resolving the fragmentation that plagues materialist ethics."
-
-  The body, at **L55**, says the opposite and says it well: "consciousness grounds *moral status*: a being whose experience can go well or badly for it — **the criterion is felt valence, not consciousness as such (explained below)** — can suffer, flourish, be helped or harmed in ways that matter." L109 then gives the Vulcan its full treatment, and L190 mirrors P-MS1's shift limb.
-
-  So this article is the **wing's model for handling the criterion correctly in prose**, and its own syndicated summary contradicts it. The description renders to five surfaces (meta, og, twitter, JSON-LD, list pages). Carry the L55 qualification into it — "grounds moral status (the criterion being felt valence, not consciousness as such)" or similar within the 150–160 char guidance.
-
-  **Scope: the `description:` field only.** The body is correct and is the reference implementation the other two tasks are told to copy — **do not edit it**.
-
 ### NEEDS-HUMAN (doctrine) 2026-09-19: the Tenet-5 "parsimony tiebreaker" rule is the engine behind a defect family flagged in SIX consecutive tenet checks — and `tenets.md` never states it
 
 - **Type**: refine-draft
@@ -1854,6 +1836,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-20: `topics/ethics-under-dualism` — its `description:` widens the criterion its own body explicitly narrows twelve lines later
+- **Type**: refine-draft
+- **File**: obsidian/topics/ethics-under-dualism.md
+- **Notes**: **A one-line frontmatter fix, and the article already contains the exact replacement wording.**
+  The `description:` reads: "If consciousness is irreducible and causally efficacious, it both grounds moral status and unifies value, agency, normativity, and moral perception under a single ground — resolving the fragmentation that plagues materialist ethics."
+  The body, at **L55**, says the opposite and says it well: "consciousness grounds *moral status*: a being whose experience can go well or badly for it — **the criterion is felt valence, not consciousness as such (explained below)** — can suffer, flourish, be helped or harmed in ways that matter." L109 then gives the Vulcan its full treatment, and L190 mirrors P-MS1's shift limb.
+  So this article is the **wing's model for handling the criterion correctly in prose**, and its own syndicated summary contradicts it. The description renders to five surfaces (meta, og, twitter, JSON-LD, list pages). Carry the L55 qualification into it — "grounds moral status (the criterion being felt valence, not consciousness as such)" or similar within the 150–160 char guidance.
+  **Scope: the `description:` field only.** The body is correct and is the reference implementation the other two tasks are told to copy — **do not edit it**.
 
 ### ✓ 2026-09-20: `apex/moral-architecture-of-consciousness` — the wing's anchor states the criterion as bare consciousness on its most-syndicated surface, and is the wing's structural isolate
 - **Type**: refine-draft
