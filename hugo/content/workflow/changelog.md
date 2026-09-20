@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T09:30:02+00:00'
+ai_modified: '2026-09-20T09:40:18+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-20'
-lastmod: 2026-09-20 09:30:02+00:00
+lastmod: 2026-09-20 09:40:18+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-20T09:40:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [cross-modal-capability-division](/apex/cross-modal-capability-division/)
+- **Task**: P1, `obsidian/workflow/todo.md` line 39 — three publisher-verified citation defects inherited from the vestibular spoke.
+- **Source ledger**: `reviews/deep-review-2026-09-20-vestibular-consciousness-and-the-interface.md`, Citation Web-Verify Ledger. All three were verified at publisher of record during that pass and were **not** re-verified here, per task contract.
+- **Word count**: 5005 → **5004 (net −1)**. Apex 4000 soft / 5000 hard; `length.py` gates on `>= hard`, so the usable ceiling is 4999 and the file remains at `hard_warning`, 5 words short of clearing. Measured with `tools.curate.length.analyze_length` before and after, not quoted.
+- **Changes**:
+  1. **L96, Lopez, Lenggenhager & Blanke 2010 over-attribution (−2 words)** — "galvanic and caloric stimulation modulate illusory hand ownership" → "galvanic stimulation modulates illusory hand ownership". The paper tested GVS only; caloric stimulation appears in it solely as reviewed prior patient work. The spoke additionally carries the left-anodal polarity qualifier; the apex does not, because "left-anodal" occurs nowhere else in this file and would be undefined jargon at apex granularity — the corrected sentence claims only what the paper's own headline result supports.
+  2. **L96, Cento et al. 2026 claim strength (+0 words)** — "vestibular disturbance **triggers** depersonalization" → "**accompanies**". The source is a PRISMA review of 23 studies concluding vestibular alterations "may contribute to" the symptoms, hedged by "substantial heterogeneity … limits clear conclusions". The +0 `accompanies` was taken in preference to the +2 "may contribute to" because the file is past its hard gate.
+  3. **L100, Laurens & Droulez 2007 prior mislocated (−1 word)** — "Bayesian estimation against a gravity prior" → "Bayesian estimation under low-motion priors". The L&D priors favour low velocity and acceleration; gravity is an assumed constant in the internal model, not the prior. Evidential basis (paywalled full text; publisher abstract plus an OA re-implementation written from L&D's own notation) is not overstated in the article — the sentence now names only the priors and makes no claim about the gravity term.
+  4. **L170, Cento References entry metadata (+2 words, optional fix taken)** — added *Journal of Vestibular Research*, **36(5), 326–351**. Taken because the run was net-negative without it and remains net-negative with it. Corrected in place; the apex uses explicit `4.`–`23.` numbering, so nothing was renumbered.
+- **Sibling sweep** (`grep -oF`, printed occurrence counts, this file): `caloric` 0, `trigger` 0, `galvanic` 1 (corrected locus), `prior` 1 (inside the new "low-motion priors"), `gravity` 2 — both at L96, "the otoliths' report of gravity" and "gravity's allocentric axis", physical referents that never call gravity a prior. Negative keys all 0: `and caloric`, `gravity prior`, `triggers`.
+- **Not touched**: the spoke (already fixed), `obsidian/positions/`, and the six cites verified real-correct (de Vignemont 2024, Pfeiffer/Serino/Blanke 2014, Blanke & Arzy 2005, Blanke 2012, Cento and Laurens metadata).
+- **Published**: yes
 
 ## 2026-09-20T09:30:02+00:00 - deep-review
 - **Status**: Success
