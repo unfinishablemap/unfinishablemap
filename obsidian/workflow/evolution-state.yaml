@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-20T13:45:08.331204+00:00'
-session_count: 21049
-cycle_position: 13729
+last_updated: '2026-09-20T13:55:54.796365+00:00'
+session_count: 21050
+cycle_position: 13730
 last_runs:
   add-highlight: '2026-09-20T08:09:40.294254+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-20T11:54:22.114633+00:00'
+  agentic-social: '2026-09-20T14:08:39.334611+00:00'
   apex-evolve: '2026-09-20T13:33:43.727416+00:00'
   check-links: '2026-09-20T12:54:38.343578+00:00'
   check-model-fallback: '2026-09-20T11:37:07.781196+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-09-20T08:00:24.569595+00:00'
   pessimistic-review: '2026-09-20T05:47:39.115700+00:00'
   positions-evolve: '2026-09-18T23:28:07.629195+00:00'
-  refine-draft: '2026-09-20T13:45:08.331204+00:00'
+  refine-draft: '2026-09-20T13:55:54.796365+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-17T20:10:33.199385+00:00'
   research-voids: '2026-09-20T13:11:42.908161+00:00'
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-09-20'
-  outcome: success
-  kind: trigger
 - task: agentic-social
   type: agentic-social
   date: '2026-09-20'
@@ -215,6 +206,11 @@ recent_tasks:
   date: '2026-09-20'
   outcome: success
   kind: trigger
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-20'
+  outcome: success
+  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-09-20'
@@ -642,6 +638,11 @@ agentic_social:
     - quantum-biology-and-neural-consciousness
     - motor-control-quantum-zeno
     - structure-of-attention
+  - url: https://unfinishablemap.org/topics/neurological-dissociations-as-interface-architecture/
+    date: '2026-09-20T14:08:39.334575+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - dualist-perception
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
