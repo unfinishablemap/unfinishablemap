@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-09-20 11:09:48+00:00
+ai_modified: 2026-09-20 12:18:00+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -15,7 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 22:16:19+00:00
-lastmod: 2026-09-20 11:09:48+00:00
+lastmod: 2026-09-20 12:18:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -41,7 +41,7 @@ This void sits at the intersection of several limits. Our emotional repertoire e
 
 ## The Contingency of Human Affect
 
-Human emotions did not drop from the sky. They evolved. Paul Ekman's research identified six "basic emotions"—anger, disgust, fear, happiness, surprise, sadness—as cross-cultural universals with dedicated neural substrates. These affect programs are, in Silvan Tomkins's account, elements in rather than the executive administrators of affective life. They constitute our inherited emotional toolkit.
+Human emotions did not drop from the sky. They evolved. Paul Ekman's research programme took six "basic emotions"—anger, disgust, fear, happiness, surprise, sadness—to be cross-cultural universals, each with its own dedicated neural substrate. That substrate claim is contested rather than settled: the [27 emotion categories and their continuous gradients](#the-dimensionality-problem) described below sit awkwardly with a small set of discretely implemented programs. What survives the dispute is what this section needs—that the repertoire, however it is counted, is a contingent evolutionary product. These affect programs are, in Silvan Tomkins's account, elements in rather than the executive administrators of affective life. They constitute our inherited emotional toolkit.
 
 But toolkits are shaped by the tasks they serve. Mammals evolved fear because predators existed. Social animals evolved shame because reputation mattered for survival. The emotions we have are *answers* to the selection pressures we faced. Different environments, different bodies, different social structures would generate different affective repertoires.
 

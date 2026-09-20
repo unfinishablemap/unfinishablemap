@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: `voids/affective-void` L41 states Ekman's basic emotions as having "dedicated neural substrates" — and the article's own L54 citation contradicts it
-
-- **Type**: refine-draft
-- **File**: obsidian/voids/affective-void.md
-- **Source**: cycle driver, 2026-09-20 11:1x UTC — surfaced with evidence by the boundary pass at commit `96711431`, which deliberately did NOT act on it
-- **Generated**: 2026-09-20
-- **Notes**: **SCOPE THIS NARROWLY. It is "hedge one clause against the article's own citation", NOT a wholesale modernisation of the emotion material.** An outer reviewer called the article's basic-emotion and neural-substrate language dated; the executing pass declined to act in passing, because a drive-by edit into a second article leaves that article unreviewed ([[secondary-host-insertions-skip-the-source-fidelity-pass]]). This is that judgement, made separately.
-  ✅ **THE STRONGEST GROUND IS INTERNAL AND WAS VERIFIED IN-FILE — lead with it.** **L41** states flatly: *"Paul Ekman's research identified six 'basic emotions'… as cross-cultural universals with dedicated neural substrates."* **L54** cites **Cowen & Keltner (2017)** for 27 categories "bridged by continuous gradients" — which is precisely the finding that cuts against six discrete basic emotions with dedicated substrates. **The article contradicts itself, and the counter-evidence is already in its own reference apparatus.** That alone justifies hedging L41; no external source is strictly required.
-  ⚠️ **THE EXTERNAL HALF IS A LEAD, NOT AN ATTRIBUTION — VERIFY BEFORE CITING.** The constructionist critique (Barrett; Lindquist et al. meta-analyses finding no consistent one-to-one region mapping) was named from the executing pass's own knowledge and **was NOT web-verified**. 🛑 **Do not cite either without a publisher-of-record check** ([[ai_citation_metadata_unreliable]]). ⚠️ **This corpus has a known Barrett citation hazard** — see [[barrett-2021-eight-vs-six-propagated]]; check the specific work and its actual claim before attributing.
-  **LENGTH**: measured 2026-09-20 — **2065 words**, voids 2000/3000/4000, `soft_warning`, usable ceiling 2999, **934 words of headroom**. Affordable. But the fix is a hedge on one clause plus at most one cited sentence; do not let the headroom invite a new section.
-  ℹ️ **Already landed, do not redo**: the boundary pass added a one-sentence appetite/affect demarcation inside the existing *Appetitive framing* bullet, and appended **Berridge & Robinson (1998)** as reference 9 (it was named in body prose with no entry). The Ekman and neural-substrate material is byte-identical and untouched.
-
 ### P3: eight live articles display "Pre-Conceptual Knowing" — the retired title of the article `acquaintance-void` was coalesced from
 
 - **Type**: refine-draft
@@ -1852,6 +1840,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-20: `voids/affective-void` L41 states Ekman's basic emotions as having "dedicated neural substrates" — and the article's own L54 citation contradicts it
+- **Type**: refine-draft
+- **File**: obsidian/voids/affective-void.md
+- **Notes**: **SCOPE THIS NARROWLY. It is "hedge one clause against the article's own citation", NOT a wholesale modernisation of the emotion material.** An outer reviewer called the article's basic-emotion and neural-substrate language dated; the executing pass declined to act in passing, because a drive-by edit into a second article leaves that article unreviewed ([[secondary-host-insertions-skip-the-source-fidelity-pass]]). This is that judgement, made separately.
+  ✅ **THE STRONGEST GROUND IS INTERNAL AND WAS VERIFIED IN-FILE — lead with it.** **L41** states flatly: *"Paul Ekman's research identified six 'basic emotions'… as cross-cultural universals with dedicated neural substrates."* **L54** cites **Cowen & Keltner (2017)** for 27 categories "bridged by continuous gradients" — which is precisely the finding that cuts against six discrete basic emotions with dedicated substrates. **The article contradicts itself, and the counter-evidence is already in its own reference apparatus.** That alone justifies hedging L41; no external source is strictly required.
+  ⚠️ **THE EXTERNAL HALF IS A LEAD, NOT AN ATTRIBUTION — VERIFY BEFORE CITING.** The constructionist critique (Barrett; Lindquist et al. meta-analyses finding no consistent one-to-one region mapping) was named from the executing pass's own knowledge and **was NOT web-verified**. 🛑 **Do not cite either without a publisher-of-record check** ([[ai_citation_metadata_unreliable]]). ⚠️ **This corpus has a known Barrett citation hazard** — see [[barrett-2021-eight-vs-six-propagated]]; check the specific work and its actual claim before attributing.
+  **LENGTH**: measured 2026-09-20 — **2065 words**, voids 2000/3000/4000, `soft_warning`, usable ceiling 2999, **934 words of headroom**. Affordable. But the fix is a hedge on one clause plus at most one cited sentence; do not let the headroom invite a new section.
+  ℹ️ **Already landed, do not redo**: the boundary pass added a one-sentence appetite/affect demarcation inside the existing *Appetitive framing* bullet, and appended **Berridge & Robinson (1998)** as reference 9 (it was named in body prose with no entry). The Ekman and neural-substrate material is byte-identical and untouched.
 
 ### ✓ 2026-09-20: the higher-order objection to the Appetitive Void is answered in its general form only — Rosenthal's unconscious HOT and Lau's reality monitoring are the sharper versions
 - **Type**: refine-draft

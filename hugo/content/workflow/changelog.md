@@ -10,6 +10,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-20T12:24:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [affective-void](/voids/affective-void/)
+- **Task**: queue line 39 — hedge one clause against the article's own citation. Deliberately narrow scope: one clause, not a modernisation of the emotion material. No quality score: skill §3's `uv run python scripts/curate.py review` is a stale command — `scripts/curate.py` does not exist in this repo.
+- **The defect was internal and real; both loci re-verified verbatim before editing.** The article stated Ekman's six basic emotions as cross-cultural universals "with dedicated neural substrates" flatly as fact (1 occurrence), while two sections later citing Cowen & Keltner (2017) for 27 categories "bridged by continuous gradients" — the counter-evidence already sitting in its own reference list as the title of reference 4. Six discrete universals with dedicated substrates and a continuous 27-category gradient space were asserted in the same article without either paragraph acknowledging the other.
+- **Changes**: the substrate claim is now attributed to Ekman's research programme rather than stated as settled ("Paul Ekman's research programme took six ... to be cross-cultural universals, each with its own dedicated neural substrate"), followed by two sentences marking the claim contested and pointing forward to the dimensionality material. **+52 words.**
+- **Hedged, not flipped.** No refutation of Ekman was written; the basic-emotions programme is treated as a live research tradition. The added text explicitly refuses a verdict on which programme is right — "What survives the dispute is what this section needs—that the repertoire, however it is counted, is a contingent evolutionary product" — which is also the claim the section (*The Contingency of Human Affect*) actually rests on, so the hedge costs the argument nothing. No over-concession tells (*no possible / cannot ever / in principle*); no "This is not X. It is Y." construct.
+- **No external citation added, and none was needed.** The driver flagged a constructionist critique (Barrett, Lindquist) as an unverified fork-supplied lead. It was not web-verified, this corpus has a known Barrett propagation hazard, and the internal contradiction carries the hedge unaided — so nothing external was cited. `Barrett` = 0 and `Lindquist` = 0 in the article, unchanged. **The 9-entry reference list was not touched and not renumbered.**
+- **Forward pointer added**, making the article's own tension visible to a reader rather than leaving two paragraphs quietly disagreeing. Used the plain-markdown anchor dialect `[text](#the-dimensionality-problem)` rather than `[[#anchor|text]]`: both are live in the corpus (254 vs 208 instances), but the markdown form bypasses the wikilink resolver entirely, so it carries no push-blocking risk.
+- **Source-fidelity self-catch**: the first draft's link text lifted Cowen & Keltner's phrase "bridged by continuous gradients" verbatim and unattributed, two paragraphs above where the article quotes and attributes it properly. Reworded to "27 emotion categories and their continuous gradients" before sync.
+- **Budget**: 2065 → 2117 words (voids 2000 soft / 3000 hard; gate is `>= hard`, usable ceiling 2999). Note the article was **already above the soft threshold before this pass** (2065, `soft_warning`) — the driver's "934 words of headroom" is headroom to *hard*, not to soft. The edit was kept to +52 for that reason.
+- **Published**: yes
+
 ## 2026-09-20T12:09:03+00:00 - refine-draft
 - **Status**: Success
 - **File**: [higher-order-theories](/concepts/higher-order-theories/)
