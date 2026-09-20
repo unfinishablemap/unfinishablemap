@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T01:24:13+00:00'
+ai_modified: '2026-09-20T01:53:46+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-20'
-lastmod: 2026-09-20 01:24:13+00:00
+lastmod: 2026-09-20 01:53:46+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-20T01:53:46+00:00 - refine-draft
+- **Status**: Success
+- **File**: [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
+- **Task**: queue line 70 (P3) — engage Gemini's AST-opacity point inside `## Engaging Attention Schema Theory`. Review file: `reviews/outer-review-2026-09-19-gemini-2-5-pro.md`, Dimension 4.
+- **The "blocked on the condense" gate has cleared, and the gate as written was the wrong test.** The task note said "NOT ACTIONABLE UNTIL THE CONDENSE LANDS … 636 words over". The standing ruling in `reviews/deep-review-2026-07-25-attention-and-the-consciousness-interface.md` is that this file's full-file `hard_warning` is "a reference-apparatus artifact; do not condense on that basis", and that the real gate is argument-only prose. Measured before the edit: **full body 4442, apparatus (`## References` → EOF) 623, argument-only 3819**, i.e. 180 words of headroom under the 3999 usable ceiling. The file still reads `hard_warning` after this pass; that is expected under the 07-25 ruling, not a failure.
+- **Insertion: one new paragraph, 79 words**, placed immediately after the "relocates rather than discharges" paragraph, which is where the section already handles AST's recursive-self-modelling reply — the opacity point is the sharper form of that same reply. After the edit: **full body 4521, apparatus 623, argument-only 3898** (101 words still to spare, well under the 3950 stop-line).
+- **Engagement with Graziano/AST: Mode Two, unchanged by this insertion.** The paragraph grants that opacity supplies a genuine mechanism for why the explanatory gap *seems* unbridgeable — the account the Map's own meta-problem material says physicalism owes — and then holds the section's existing charge: the step from being represented as phenomenal to being phenomenal is still asserted rather than derived. No retreat was widened beyond the added sentence; the surrounding argument, the tenet material and `## References` were not touched.
+- **Cross-link added**: `[[meta-problem-of-consciousness|meta-problem]]`, bare slug (no collision — the only file with that stem is `obsidian/concepts/meta-problem-of-consciousness.md`), and the article had zero prior `meta-problem` references.
+- **Absence re-confirmed by `grep -icF` immediately before the edit** (the task's figures were a day and several commits old): `opaque` 0 · `opacity` 0 · `implementation` 0 · `coarse` 0 · `low-resolution` 0 · `grain` 0 · `intractab` 0 · `resolution` 2 (attractor symmetry-breaking, moment of selection) · `machinery` 1 (downstream selection machinery). None was this point.
+- **Protected spans untouched**, verified by grep after the edit: `### The Epistemological Challenge` and its ADHD-baseline sentence (inbound anchor target from four live articles plus `voids/three-kinds-of-void`), and `## References` (apparatus byte-count unchanged at 623 words).
+- **Verification**: `scripts/sync.py` run, then `grep -cF` on the new passage in both trees — obsidian 1, hugo 1.
+- **Published**: yes
 
 ## 2026-09-20T01:24:13+00:00 - refine-draft
 - **Status**: Success

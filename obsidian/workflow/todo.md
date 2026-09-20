@@ -68,19 +68,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   **OPTIONS.** **(1) Ratify the 2026-07-25 standard** — treat apparatus-inclusive `hard_warning` as non-actionable for reference-dense articles, and ideally encode it (a per-file exemption flag, or an argument-only measure in `length.py`). This is the option the evidence supports and it would stop the loop re-minting this task. **(2) Authorise a split** — extract the clinical catalogue to a new `topics/` article. Costs a topics slot (328/360), guts this article's named "evidence hub" role in the attention wing, and must repoint the four inbound anchors above. **(3) Accept a standing `hard_warning`** and let the file sit over the gate; note this permanently blocks the queued P3 AST-opacity insertion, which is a net ~60–100 words.
   ℹ️ **Confirmed intact by section-level count** after the partial condense: `## Engaging Attention Schema Theory` **378 → 378 byte-identical**, `## Honest Limitations` 84 → 84, `## References` 605 → 605. `## Predictions and Falsification` 592 → 549 — compressed, not weakened; protocol, the three weaker predictions and the borrowed-risk admission all intact, and all five spans the 2026-08-13 review names as strengths verified 1/1 in both trees.
 
-### P3: the AST opacity mechanism — Gemini's strongest positive point — is absent from `topics/attention-and-the-consciousness-interface`; blocked on the condense
-
-- **Type**: refine-draft
-- **File**: obsidian/topics/attention-and-the-consciousness-interface.md
-- **Review file**: `reviews/outer-review-2026-09-19-gemini-2-5-pro.md`
-- **Source**: outer-review Dimension 4 residue — the lead fix (`0278a6ad`) had no budget for a net insertion
-- **Generated**: 2026-09-19
-- **Notes**: **NOT ACTIONABLE UNTIL THE CONDENSE LANDS — this is a net insertion of ~60–100 words into a file currently 636 words over its hard ceiling.** Sequence it after the condense task above.
-  **THE POINT.** Gemini's Dimension 4 made a positive claim the Map should engage rather than dismiss: an attention schema is **necessarily opaque to its own physical implementation**, so a system built this way will report non-physical awareness *because* its self-model lacks the resolution of the underlying machinery. That is a **mechanistic answer to why the hard problem feels intractable** — precisely the kind of account the Map's own meta-problem material says physicalism owes. Engaging it strengthens the article; ignoring it leaves the strongest version of AST unaddressed while the section around it engages weaker ones.
-  ✅ **VERIFIED ABSENT, measured 2026-09-19 by the executing pass**: `opaque` 0, `opacity` 0, `implementation` 0, `coarse` 0, `low-resolution` 0, `grain` 0, `intractab` 0. The two `resolution` hits are attractor symmetry-breaking and the moment of selection; the single `machinery` hit is downstream selection machinery. **None is this point.**
-  **WHERE IT BELONGS**: inside `## Engaging Attention Schema Theory` (L94–102), which already runs the unsupported-foundational-move argument and marks the residue honestly. **Do not weaken that section to make room** — it was installed by `9fbe9f38c5` to replace an earlier dismissal, and the lead was aligned to it today.
-  ⚠️ **DO NOT OVER-CONCEDE.** Granting that AST supplies a mechanism for the *seeming* is compatible with the Map's position and is the honest move; it is **not** a concession that the seeming exhausts the explanandum — that is the very step the section already identifies as asserted rather than derived. Apply [[direct-refutation-discipline]] and keep the mode label out of the body ([[i-widen-retractions-and-upgrade-coiners-into-proponents]]).
-
 ### P3: the archive pages now carry a corrected cellular-bandwidth point that the LIVE successor dropped — restore it, but only after a condense
 
 - **Type**: refine-draft
@@ -1846,6 +1833,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-20: the AST opacity mechanism — Gemini's strongest positive point — is absent from `topics/attention-and-the-consciousness-interface`; blocked on the condense
+- **Type**: refine-draft
+- **File**: obsidian/topics/attention-and-the-consciousness-interface.md
+- **Notes**: **NOT ACTIONABLE UNTIL THE CONDENSE LANDS — this is a net insertion of ~60–100 words into a file currently 636 words over its hard ceiling.** Sequence it after the condense task above.
+  **THE POINT.** Gemini's Dimension 4 made a positive claim the Map should engage rather than dismiss: an attention schema is **necessarily opaque to its own physical implementation**, so a system built this way will report non-physical awareness *because* its self-model lacks the resolution of the underlying machinery. That is a **mechanistic answer to why the hard problem feels intractable** — precisely the kind of account the Map's own meta-problem material says physicalism owes. Engaging it strengthens the article; ignoring it leaves the strongest version of AST unaddressed while the section around it engages weaker ones.
+  ✅ **VERIFIED ABSENT, measured 2026-09-19 by the executing pass**: `opaque` 0, `opacity` 0, `implementation` 0, `coarse` 0, `low-resolution` 0, `grain` 0, `intractab` 0. The two `resolution` hits are attractor symmetry-breaking and the moment of selection; the single `machinery` hit is downstream selection machinery. **None is this point.**
+  **WHERE IT BELONGS**: inside `## Engaging Attention Schema Theory` (L94–102), which already runs the unsupported-foundational-move argument and marks the residue honestly. **Do not weaken that section to make room** — it was installed by `9fbe9f38c5` to replace an earlier dismissal, and the lead was aligned to it today.
+  ⚠️ **DO NOT OVER-CONCEDE.** Granting that AST supplies a mechanism for the *seeming* is compatible with the Map's position and is the honest move; it is **not** a concession that the seeming exhausts the explanandum — that is the very step the section already identifies as asserted rather than derived. Apply [[direct-refutation-discipline]] and keep the mode label out of the body ([[i-widen-retractions-and-upgrade-coiners-into-proponents]]).
 
 ### ✓ 2026-09-20: the origin of the James "free will question" splice is still live in a research note at an HTTP 200 URL
 - **Type**: refine-draft

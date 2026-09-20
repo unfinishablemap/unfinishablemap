@@ -39,19 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: the origin of the James "free will question" splice is still live in a research note at an HTTP 200 URL
-
-- **Type**: refine-draft
-- **File**: obsidian/research/stapp-mental-effort-mind-matter-2026-01-14.md
-- **Source**: cycle driver, 2026-09-20 01:1x UTC — flagged but deliberately not fixed by the quote-boundary sweep at commit `868d3819`
-- **Generated**: 2026-09-20
-- **Notes**: **SETTLED UPSTREAM, do not re-litigate the verdict.** The 2026-09-20 sweep verified at the primary (Project Gutenberg ebook **57634**, *The Principles of Psychology* **vol. 2, ch. XXVI "Will", p. 497**) that James wrote: *"The question of fact in the free-will controversy is thus extremely simple. It relates solely to the amount of effort of attention or consent which we can at any time put forth."* The **predicate is verbatim**; the subject **"the free will question" appears 0 times in either volume** and had been spliced inside the quotation marks. Eleven live loci were corrected by moving the subject outside the quotes at zero net word cost.
-  **WHAT IS LEFT.** `research/stapp-mental-effort-mind-matter-2026-01-14.md` (L49 and L107-109) still carries the spliced form and is the **probable origin** of the whole family — every corrected locus traces back through the Stapp cluster. ⚠️ **It renders at a live URL (HTTP 200)**, so this is not an internal-only record.
-  **THE DECISION, and it is a convention question not a fidelity one**: dated research notes are an audit trail and the corpus convention is to **annotate, not rewrite** — yesterday's species-drift sweep added marked `**Correction (YYYY-MM-DD)**` notes to four dated notes and left the original text legible, which is the precedent to follow here. 🛑 **Do NOT silently edit the quoted text in a dated note** — that destroys the record of what the error was. Add a dated correction note giving the verified wording and the vol. 2 / ch. XXVI / p. 497 locator.
-  ℹ️ **Do not touch the `reviews/` and `workflow/` hits** (34 remaining, measured 2026-09-20). Those are the dated adjudication trail of this very flip and are correct as written.
-  ℹ️ **Also settled in passing, do not re-open**: `"volition is nothing but attention"` and `"sustained voluntary attention is a repetition of successive efforts"` are both genuine, both **vol. 1 ch. XI**; `concepts/stapp-quantum-mind`'s existing `ch. 11` cite is correct.
-
-
 ### NEEDS-HUMAN (doctrine) 2026-09-19: the Tenet-5 "parsimony tiebreaker" rule is the engine behind a defect family flagged in SIX consecutive tenet checks — and `tenets.md` never states it
 
 - **Type**: refine-draft
@@ -1861,6 +1848,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-20: the origin of the James "free will question" splice is still live in a research note at an HTTP 200 URL
+- **Type**: refine-draft
+- **File**: obsidian/research/stapp-mental-effort-mind-matter-2026-01-14.md
+- **Notes**: **SETTLED UPSTREAM, do not re-litigate the verdict.** The 2026-09-20 sweep verified at the primary (Project Gutenberg ebook **57634**, *The Principles of Psychology* **vol. 2, ch. XXVI "Will", p. 497**) that James wrote: *"The question of fact in the free-will controversy is thus extremely simple. It relates solely to the amount of effort of attention or consent which we can at any time put forth."* The **predicate is verbatim**; the subject **"the free will question" appears 0 times in either volume** and had been spliced inside the quotation marks. Eleven live loci were corrected by moving the subject outside the quotes at zero net word cost.
+  **WHAT IS LEFT.** `research/stapp-mental-effort-mind-matter-2026-01-14.md` (L49 and L107-109) still carries the spliced form and is the **probable origin** of the whole family — every corrected locus traces back through the Stapp cluster. ⚠️ **It renders at a live URL (HTTP 200)**, so this is not an internal-only record.
+  **THE DECISION, and it is a convention question not a fidelity one**: dated research notes are an audit trail and the corpus convention is to **annotate, not rewrite** — yesterday's species-drift sweep added marked `**Correction (YYYY-MM-DD)**` notes to four dated notes and left the original text legible, which is the precedent to follow here. 🛑 **Do NOT silently edit the quoted text in a dated note** — that destroys the record of what the error was. Add a dated correction note giving the verified wording and the vol. 2 / ch. XXVI / p. 497 locator.
+  ℹ️ **Do not touch the `reviews/` and `workflow/` hits** (34 remaining, measured 2026-09-20). Those are the dated adjudication trail of this very flip and are correct as written.
+  ℹ️ **Also settled in passing, do not re-open**: `"volition is nothing but attention"` and `"sustained voluntary attention is a repetition of successive efforts"` are both genuine, both **vol. 1 ch. XI**; `concepts/stapp-quantum-mind`'s existing `ch. 11` cite is correct.
 
 ### ✓ 2026-09-20: two deep reviews reached OPPOSITE verdicts on the same James quotation — one de-quoted it as fabricated, three live articles still quote it
 - **Type**: refine-draft
