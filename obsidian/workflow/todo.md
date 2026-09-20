@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: `apex/moral-status-of-edge-cases` decision implications 1 and 4 misstate the register's calibration — the credence spread they invoke does not exist, and three of ten grades are wrong
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/apex/moral-status-of-edge-cases.md
+- **Source**: pessimistic review 2026-09-20 — `reviews/pessimistic-2026-09-20-moral-status-of-edge-cases` Issues 1 and 2
+- **Generated**: 2026-09-20
+- **Notes**: **Two repairs in the decision layer, both verified line-by-line against `obsidian/positions/`. Length is not a constraint: `analyze_length` gives 3,899 words against apex soft 4,000 / hard 5,000 — 1,100 words of headroom.**
+  **(a) Recommendation 1 (L128) asserts "the framework's confidence varies by an order of magnitude across them." It does not.** Credence for the ten cited positions: P-MS1 moderate, P-MS2 **low**, P-CS2 moderate, P-CS3 moderate, P-CS4 moderate, P-CS5 moderate, P-SC2 **high**, P-SC3 moderate, P-AC1 moderate, P-AS1 moderate. **Eight of ten are *moderate*.** The one *high* is high about a **debt**, not a verdict; the one *low* is P-MS2's conjunction ceiling. The four-kind sort is a good contribution — do not touch it — but re-base its stated justification on the axes that do vary: external-evidence grade, and whether any evidence could bear at all.
+  **(b) Recommendation 4 (L134) says "The animal and developmental verdicts rest on grade-B external evidence; every other verdict in this piece rests on grade D or on a registered debt." Three counterexamples:** **P-CS4 is grade C** — and the article states this correctly itself at L90, so the recommendation contradicts its own body; **P-CS5 is grade C** (chemotaxis's mechanistic completeness is independently attested); **P-AS1 is grade B**, outside the marker region entirely ("attaches to the engineering premises only … Albash & Lidar 2015"). True distribution: **B×3, C×2, D×3, n/a×2** — a four-step gradient, not two steps. ⚠️ Every drift is *conservative* (C→D, B→D), so this is **not** possibility→probability slippage; it is register drift that flattens the exact asymmetry the recommendation tells policy to track.
+  **(c) Same pass — surface the `empirical discriminability` axis where a decision rests on it.** `grep -ioF "discriminab"` on the article returns **0** (control: `grade` returns 20). Recommendation 2 calls itself "the most confident one here" and rests on **P-SC3**, whose register line reads *model maturity **programme*** and *empirical discriminability **none***. The floor section rests on **P-CS5**, discriminability ***none-by-construction***. Minimum fix: one clause in recommendation 2 and one in the floor section. An applied apex that prints credence and grade but never prints the axis saying whether evidence could correct the verdict is withholding the number a decision-maker most needs.
+  🛑 **Do not re-derive the table** — it is in the review, Issue 1.
+
+### P2: `apex/moral-status-of-edge-cases` runs its calibration discipline against over-attribution only — the standing agnostic challenge is rendered one-directional and as a *present* limit
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/apex/moral-status-of-edge-cases.md
+- **Source**: pessimistic review 2026-09-20 — `reviews/pessimistic-2026-09-20-moral-status-of-edge-cases` Issue 3
+- **Generated**: 2026-09-20
+- **Notes**: **The article's possibility→probability discipline was tested sentence by sentence and HOLDS on the presence side, including inside the decision layer. The failure is the mirror image — the absence side is never disciplined at all.** Three loci:
+  **(a) L110: "Gutfreund's (2024) standing agnostic challenge — that the inference from consciousness-correlated behaviour to phenomenal experience cannot *presently* be scientifically validated".** Strike **"presently"**. `concepts/standing-agnostic-challenge.md` L47 quotes Gutfreund directly: the limit is *"not a problem of premature science but a fundamental, unsolvable problem."* The article preserves *in-principle* correctly for P-CS5 three sections later (L122), so it currently states an external source's limit **more weakly than its own** hedged thesis.
+  **(b) Same clause is one-directional.** `concepts/standing-agnostic-challenge.md` carries a section headed **"## The Symmetry: It Blocks Absence Too"** — *"If no third-person evidence can confirm felt experience, none can confirm its absence either … it is a ceiling above both."* `topics/ethics-of-consciousness-invertebrate-question` L83 says the same. The apex gives only the presence direction.
+  **(c) The consequence lands in recommendation 4 (L134), "Scale precaution to marker convergence".** Under the symmetric challenge, weak marker convergence licenses **low expected stakes**, not a negative verdict — so as written the rule systematically under-protects marker-poor organisms while looking principled. Add one clause saying so. ⚠️ **The same omission recurs in the AI paragraph (L120):** P-AC1's *Asserts* contains a warning the article drops — *"It must not over-read the behavioural-evidence discount: the self-concealing interface (P-Q9) and the phenomenal-output/causal-machinery dissociation mean behavioural tests underdetermine the verdict in **both** directions."* Carry it.
+  ℹ️ While here, `concepts/possibility-probability-slippage.md` exists and is the corpus's dedicated page for this exact hazard; this article — built around that hazard — does not link it. One wikilink.
+
+### P2: `apex/moral-status-of-edge-cases` issues five flat decision imperatives and states their Tenet-1 conditionality two sections later
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/apex/moral-status-of-edge-cases.md
+- **Source**: pessimistic review 2026-09-20 — `reviews/pessimistic-2026-09-20-moral-status-of-edge-cases` Issue 4
+- **Generated**: 2026-09-20
+- **Notes**: **A truncation-resilience defect on the corpus's highest-stakes content type.** `## What this implies for decisions` (L126–136) contains five imperatives, two of them flat commands to clinicians and policy-makers ("Do not operationalise the irreversibility threshold clinically", "Assert no subject counts"). **None carries the conditional.** The article's own statement of it — *"The most this can claim is that **if** the tenets hold, these are the verdicts and these are their bands"* — does not appear until `## Honest verdict scope` (L151), two sections below. The primary audience is a chatbot fetching the page: any truncated, excerpted or quoted read of the decision section yields unconditional clinical guidance whose sole support is grade-D and tenet-dependent, with the reader never told at that point. The lead's "given what the Map's positions register commits the Map to" (L62) is not the same statement.
+  **FIX**: one sentence opening the decision section — the five implications hold conditionally on Tenet 1, carry P-MS1's grade D through every verdict, and are not addressed to a reader who suspends judgement on the tenet — with a pointer forward to Honest verdict scope. **Do not weaken the imperatives themselves**; the review rates the decision section's directness a strength. Length headroom is 1,100 words.
+
 ### NEEDS-HUMAN (doctrine) 2026-09-19: the Tenet-5 "parsimony tiebreaker" rule is the engine behind a defect family flagged in SIX consecutive tenet checks — and `tenets.md` never states it
 
 - **Type**: refine-draft

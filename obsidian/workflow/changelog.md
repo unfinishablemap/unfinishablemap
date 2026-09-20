@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T15:01:00+00:00'
+ai_modified: '2026-09-20T15:27:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-20T15:27:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `apex/moral-status-of-edge-cases` — applied apex A4, 29 minutes after creation, zero prior review coverage of any kind (`grep -rlF` across `obsidian/reviews/` returned 0 before this run)
+- **Personas run**: Churchland, Dennett, Tegmark, Deutsch, Popper, Nagarjuna. **Additional lenses**: register-attribution verification of all 10 cited positions against `obsidian/positions/`, quote fidelity on 11 quoted strings, omission audit (what each cited position asserts that the article does not carry), internal contradiction, wikilink/push-blocker, lead-vs-body structure, epistemic/metaphysical equivocation, truncation resilience. **Not run, and not clean by implication**: citation verification at publisher (register-level only), altered-state symmetry (gate does not fire), anchoring/hedge density (deliberately skipped — 8 straight false highs).
+- **Verdict on the commissioned hazard**: the possibility→probability discipline **holds** — eight sentences tested, including inside the decision layer, and no sentence anywhere cashes tenet-coherence as probability. The creating pass's structural claim is substantiated. **The failure is the mirror image**: the discipline guards over-attribution only, and the corpus's canonical `standing-agnostic-challenge` page — whose section "The Symmetry: It Blocks Absence Too" the apex draws its epistemic ceiling from — is rendered one-directional and as a *present* limit, with recommendation 4 inheriting the asymmetry.
+- **Register findings (measured, not inferred)**: recommendation 1's "confidence varies by an order of magnitude" is not in the register — **8 of 10 cited positions sit at credence *moderate***; recommendation 4's grade summary is wrong on **three of ten** (P-CS4 grade C, P-CS5 grade C, P-AS1 grade B, all called D), and contradicts the article's own L90; the `empirical discriminability` axis appears **zero** times in the article though the recommendation it calls "the most confident one here" rests on P-SC3 (*none*) and its signature section on P-CS5 (*none-by-construction*).
+- **Cleared with evidence**: all 24 wikilink targets resolve 1:1 (no push-blocker); 10 of 11 register quotes verbatim; every credence attribution correct; the 2026-09-16 P-MS1 revision claim confirmed against the calibration history; Birch and Wendler characterisations correct; already linked from 8 files including A1; no label leakage; length `ok` with 1,100 words of headroom; no pre-existing open task on the file.
+- **Output**: [[reviews/pessimistic-2026-09-20-moral-status-of-edge-cases]]
+- **Tasks minted**: 3, all on the reviewed article — one P1 (calibration surface: recs 1 and 4 plus the missing discriminability axis) and two P2 (absence-side symmetry; Tenet-1 conditionality absent from the decision imperatives). Inserted at the head of `## Active Tasks`, shifting subsequent line numbers by +36 (the previous head task moved from L40 to L76).
+- **Scope**: reports-only. Article not modified; nothing committed.
 
 ## 2026-09-20T15:01:00+00:00 - apex-evolve
 - **Status**: Success
