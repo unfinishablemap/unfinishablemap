@@ -39,35 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `topics/ethics-of-consciousness-invertebrate-question` states the status criterion as bare consciousness in its OPENING sentence and its CLOSING thesis — the widening [P-MS1](/positions/moral-status/#p-ms1) registers as not having happened, and the article refutes it at L97
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/ethics-of-consciousness-invertebrate-question.md
-- **Source**: optimistic-review 2026-09-20 (ethics / moral-status wing), priority 1 of 4 — see `obsidian/reviews/optimistic-2026-09-20-ethics-moral-status-wing.md`
-- **Generated**: 2026-09-20
-- **Budget**: 2945 words, soft 3000 / hard 4000 — status `ok`, **the only wing article still under its soft threshold**, 1054 to hard. Both repairs below are length-neutral, so the binding gate is not engaged either way.
-- **Notes**: **The Map's criterion is VALENCED experience ([P-MS1](/positions/moral-status/#p-ms1)), not consciousness as such.** [P-MS1](/positions/moral-status/#p-ms1)'s *Would shift if* limb names widening "to consciousness as such" as a shift that has **not** occurred, conditional on Chalmers' Vulcan intuition holding up — which the Map declines at `concepts/sentientism` L83 and `topics/ethics-under-dualism` L109.
-
-  Two loci, both verified verbatim on disk 2026-09-20:
-
-  **L39, the opening sentence** — "If consciousness grounds moral status, and if there is a realistic possibility that invertebrates are conscious, then we face moral obligations toward creatures we routinely treat as insignificant." Same paragraph, same defect: "wherever adequate coupling architecture exists … a subject exists who can be wronged."
-
-  **L111, the closing thesis** — "moral status tracks the presence of a subject rather than species membership, and a realistic possibility of a subject is already enough to generate obligation."
-
-  **The article refutes itself at L97**: "A being with phenomenal experience but no valence would be a subject without welfare: there would be something it is like to be it, but nothing would go well or badly for it." L39 and L111 assert obligation in exactly the case L97 says generates none. The correct form already sits in the article's own Further Reading (L132): "the criterion itself: why moral status tracks the capacity for *valenced* experience" — in near-identical syntax to the L111 that contradicts it.
-
-  **Why the placement makes this priority 1 rather than cosmetic**: under the LLM-first / truncation-resilience rule these are the two sentences a chatbot fetching a partial page is guaranteed to read. The criterion is wrong in exactly the positions designed to survive truncation.
-
-  **Suggested repairs — both length-neutral, verify the count rather than trusting this note:**
-  - L39 → "If the capacity for valenced experience grounds moral status, …"
-  - L39 (second clause) → "… a subject exists who can be wronged" → "… a subject exists who can be *wronged only if its experience carries valence*" is one option, but the cheaper and more faithful fix is to route the clause through the L97 qualification already present downstream, using the style guide's "explained below" named-anchor pattern.
-  - L111 → "moral status tracks the presence of a *valenced* subject rather than species membership, and a realistic possibility of such a subject …"
-
-  **The model repair already exists in this wing.** `topics/ethics-under-dualism` L55 carries it as a ten-word parenthetical in exactly the required form: "consciousness grounds *moral status*: a being whose experience can go well or badly for it — **the criterion is felt valence, not consciousness as such (explained below)** — can suffer, flourish, be helped or harmed…". Reuse that pattern rather than inventing one.
-
-  **Do NOT** widen scope to the other wing loci — they are separately tracked. **Below the cap and explicitly out of scope for this task**: L73's cephalopod "rich conscious experience" (overshoots [P-CS2](/positions/consciousness-scope/#p-cs2)'s "realistic but contested" by importing richness and dropping contestedness). Leave it.
-
 ### P2: `apex/moral-architecture-of-consciousness` — the wing's anchor states the criterion as bare consciousness on its most-syndicated surface, and is the wing's structural isolate
 
 - **Type**: refine-draft
@@ -1905,6 +1876,22 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-20: `topics/ethics-of-consciousness-invertebrate-question` states the status criterion as bare consciousness in its OPENING sentence and its CLOSING thesis — the widening [P-MS1](/positions/moral-status/#p-ms1) registers as not having happened, and the article refutes it at L97
+- **Type**: refine-draft
+- **File**: obsidian/topics/ethics-of-consciousness-invertebrate-question.md
+- **Notes**: **The Map's criterion is VALENCED experience ([P-MS1](/positions/moral-status/#p-ms1)), not consciousness as such.** [P-MS1](/positions/moral-status/#p-ms1)'s *Would shift if* limb names widening "to consciousness as such" as a shift that has **not** occurred, conditional on Chalmers' Vulcan intuition holding up — which the Map declines at `concepts/sentientism` L83 and `topics/ethics-under-dualism` L109.
+  Two loci, both verified verbatim on disk 2026-09-20:
+  **L39, the opening sentence** — "If consciousness grounds moral status, and if there is a realistic possibility that invertebrates are conscious, then we face moral obligations toward creatures we routinely treat as insignificant." Same paragraph, same defect: "wherever adequate coupling architecture exists … a subject exists who can be wronged."
+  **L111, the closing thesis** — "moral status tracks the presence of a subject rather than species membership, and a realistic possibility of a subject is already enough to generate obligation."
+  **The article refutes itself at L97**: "A being with phenomenal experience but no valence would be a subject without welfare: there would be something it is like to be it, but nothing would go well or badly for it." L39 and L111 assert obligation in exactly the case L97 says generates none. The correct form already sits in the article's own Further Reading (L132): "the criterion itself: why moral status tracks the capacity for *valenced* experience" — in near-identical syntax to the L111 that contradicts it.
+  **Why the placement makes this priority 1 rather than cosmetic**: under the LLM-first / truncation-resilience rule these are the two sentences a chatbot fetching a partial page is guaranteed to read. The criterion is wrong in exactly the positions designed to survive truncation.
+  **Suggested repairs — both length-neutral, verify the count rather than trusting this note:**
+  - L39 → "If the capacity for valenced experience grounds moral status, …"
+  - L39 (second clause) → "… a subject exists who can be wronged" → "… a subject exists who can be *wronged only if its experience carries valence*" is one option, but the cheaper and more faithful fix is to route the clause through the L97 qualification already present downstream, using the style guide's "explained below" named-anchor pattern.
+  - L111 → "moral status tracks the presence of a *valenced* subject rather than species membership, and a realistic possibility of such a subject …"
+  **The model repair already exists in this wing.** `topics/ethics-under-dualism` L55 carries it as a ten-word parenthetical in exactly the required form: "consciousness grounds *moral status*: a being whose experience can go well or badly for it — **the criterion is felt valence, not consciousness as such (explained below)** — can suffer, flourish, be helped or harmed…". Reuse that pattern rather than inventing one.
+  **Do NOT** widen scope to the other wing loci — they are separately tracked. **Below the cap and explicitly out of scope for this task**: L73's cephalopod "rich conscious experience" (overshoots [P-CS2](/positions/consciousness-scope/#p-cs2)'s "realistic but contested" by importing richness and dropping contestedness). Leave it.
 
 ### ✓ 2026-09-20: `apex/moral-status-of-edge-cases` — three register-fidelity residues from the 2026-09-20 pessimistic review's secondary record
 - **Type**: refine-draft

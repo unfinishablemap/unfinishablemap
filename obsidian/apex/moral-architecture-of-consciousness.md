@@ -1,10 +1,10 @@
 ---
 title: "The Moral Architecture of Consciousness"
-description: "If the Map's tenets hold, consciousness grounds value, agency, normativity, and moral perception on one foundation—and grounds moral patienthood before moral agency."
+description: "Under the Map's tenets, consciousness grounds value, agency, normativity and moral perception on one foundation—but patienthood runs off valenced experience."
 created: 2026-03-16
 modified: 2026-03-16
 human_modified: null
-ai_modified: 2026-09-20T15:01:00+00:00
+ai_modified: 2026-09-20T18:12:56+00:00
 last_deep_review: 2026-07-15T07:23:06+00:00
 draft: false
 topics:
@@ -127,9 +127,9 @@ This graded picture unifies what legal systems already recognise piecemeal—dim
 
 ## Who Counts: Patienthood Before Agency
 
-The responsibility gradient addresses how much desert agents bear. A prior and much wider question is which beings qualify as moral patients at all—and here the architecture's two roles come apart. Consciousness grounds candidacy for moral *patienthood*: a being for whom things can go well or badly is a possible object of moral concern, which is what valence and the capacity to suffer support. Moral *agency*—being an appropriate target of praise and blame—requires the further capacities the gradient presupposes, and infants, most animals, and any minimally-phenomenal subject meet the first condition without the second. Declining to run a responsibility floor off consciousness as such costs the position nothing; on this cluster it strengthens it, because patienthood is what grounds obligations toward beings who cannot be held responsible for anything.
+The responsibility gradient addresses how much desert agents bear. A prior and much wider question is which beings qualify as moral patients at all—and here the architecture's two roles come apart. The capacity for [[sentientism|valenced]] experience, not consciousness as such, grounds candidacy for moral *patienthood*: a being for whom things can go well or badly is a possible object of moral concern. Moral *agency*—being an appropriate target of praise and blame—requires the further capacities the gradient presupposes, and infants, most animals, and any minimally-phenomenal subject meet the first condition without the second. Declining to run a responsibility floor off consciousness as such costs the position nothing; on this cluster it strengthens it, because patienthood is what grounds obligations toward beings who cannot be held responsible for anything.
 
-If consciousness grounds patienthood, then [[animal-consciousness|animal consciousness]] carries moral weight. The case is strongly supported for mammals and birds (Cambridge Declaration 2012; New York Declaration 2024); for cephalopods, decapods, and insects it is a "realistic possibility, contested" rather than established consciousness; boundary organisms (nematodes, Hydra, slime molds) sit weaker still. Gutfreund's (2024) standing agnostic challenge applies across every species claim—the inference from consciousness-correlated behaviour to phenomenal experience cannot presently be scientifically validated. Tenet 1 removes a defeater (animals have no metaphysical disqualification) but does not by itself raise evidential status.
+If valenced experience grounds patienthood, then [[animal-consciousness|animal consciousness]] carries moral weight wherever valence accompanies it. The case is strongly supported for mammals and birds (Cambridge Declaration 2012; New York Declaration 2024); for cephalopods, decapods, and insects it is a "realistic possibility, contested" rather than established consciousness; boundary organisms (nematodes, Hydra, slime molds) sit weaker still. Gutfreund's (2024) standing agnostic challenge applies across every species claim—the inference from consciousness-correlated behaviour to phenomenal experience cannot presently be scientifically validated. Tenet 1 removes a defeater (animals have no metaphysical disqualification) but does not by itself raise evidential status.
 
 Under the Map's framework, the question shifts from "how do animal brains generate experience?" (unanswerable under the hard problem) to "do animals have experience?" (assessable through converging evidence). Where they do, the [[consciousness-value-connection]] applies: their suffering instantiates the same value property as human suffering. The invertebrate case sharpens this—if insects, cephalopods, and crustaceans sit at "realistic possibility, contested," the precautionary scale of obligation is staggering, trillions of potentially conscious beings in agricultural systems alone. Animal welfare follows from the same metaphysical ground that makes human suffering matter, rather than from an extension of human empathy.
 

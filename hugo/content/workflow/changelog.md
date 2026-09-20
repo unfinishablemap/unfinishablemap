@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T17:53:36+00:00'
+ai_modified: '2026-09-20T18:12:56+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-20'
-lastmod: 2026-09-20 17:53:36+00:00
+lastmod: 2026-09-20 18:12:56+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-20T18:12:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/)
+- **Task**: P2 (queue line 39) from [optimistic-2026-09-20-ethics-moral-status-wing](/reviews/optimistic-2026-09-20-ethics-moral-status-wing/) — criterion drift, three loci
+- **Defect**: the apex stated the moral-status criterion in its bare-consciousness form. [moral-status](/positions/moral-status/) [P-MS1](/positions/moral-status/#p-ms1) holds **valenced experience** necessary and sufficient (phenomenal sentientism), and lists widening "the criterion to consciousness as such" as a shift that has *not* occurred. Vocabulary signature before the fix: `valenced` 0 occurrences, `sentien` 0, against `valence` 17.
+- **Changes**: (1) `description:` frontmatter — "If the Map's tenets hold, consciousness grounds value, agency, normativity, and moral perception on one foundation—and grounds moral patienthood before moral agency." -> "Under the Map's tenets, consciousness grounds value, agency, normativity and moral perception on one foundation—but patienthood runs off valenced experience." (157 chars, inside the 150-160 band; the old field was 165 and out of band). This was the priority locus: it renders to five surfaces (`<meta name="description">`, `og:description`, `twitter:description`, machine-meta JSON-LD, and list/home cards) and is the only statement of the criterion most machine consumers retrieve, with no gloss available to correct it. Frontmatter is not counted by `analyze_length`, so the repair cost 0 words. (2) L130 — "Consciousness grounds candidacy for moral *patienthood*: ... which is what valence and the capacity to suffer support." -> "The capacity for [valenced](/concepts/sentientism/) experience, not consciousness as such, grounds candidacy for moral *patienthood*: ...". Subject corrected to the capacity for valenced experience; the trailing gloss was dropped because it became circular once the subject carried the valence. Appositive contrast form modelled on the live repair at [ethics-under-dualism](/topics/ethics-under-dualism/) L55. (3) L132 — "If consciousness grounds patienthood, then [animal consciousness](/topics/animal-consciousness/) carries moral weight." -> "If valenced experience grounds patienthood, then [animal consciousness](/topics/animal-consciousness/) carries moral weight wherever valence accompanies it." This locus had no gloss and launches the animal tiering, so the qualifier makes the consciousness-to-valence inferential step visible without disturbing the species evidence that follows.
+- **Zero-link pair closed**: the apex had 0 body references to `concepts/sentientism`, the article that states the criterion it applies. A piped `[[sentientism|valenced]]` now sits at L130 (renders `/concepts/sentientism/`, verified through `build_content_index`). Piped rather than bare because a bare `[[sentientism]]` renders the raw slug. **One-directional by design** — no reciprocal was added to `concepts/sentientism`, which sits at 3492 words with 7 to hard and takes +0 links only.
+- **Length**: 4810 -> 4813 words (+3 net, against a +10 aim); status `soft_warning` before and after; 186 words of usable headroom below the 5000 hard threshold (gate is `>=`, so 4999 is the ceiling).
+- **Scope held**: recorded but deliberately untouched — the `apex_sources:` staleness and 1-position citation count (root cause is `apex-evolve`'s resynthesis, not this task); the "insects" / "some arthropods" wording drift against [moral-status-of-edge-cases](/apex/moral-status-of-edge-cases/); the missing `## Evidence and Dependency` ledger, which is human-reserved under the open NEEDS-HUMAN (methodology sequencing) 2026-07-29 entry. Diff is 4 lines: description, `ai_modified`, L130, L132.
+- **Sync**: ran `scripts/sync.py`; Hugo mirror updated. 0 broken wikilinks outside the exempt `workflow/`+`reviews/` trees, so the push is unblocked.
+- **Published**: yes
 
 ## 2026-09-20T17:53:36+00:00 - refine-draft
 - **Status**: Success
