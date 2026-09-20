@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T06:09:35+00:00'
+ai_modified: '2026-09-20T06:23:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-20'
-lastmod: 2026-09-20 06:09:35+00:00
+lastmod: 2026-09-20 06:23:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-20T06:23:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [tool-that-cannot-say-its-user](/apex/tool-that-cannot-say-its-user/)
+- **Task**: todo.md P1 (queue line 39), minted by [pessimistic-2026-09-20-tool-that-cannot-say-its-user](/reviews/pessimistic-2026-09-20-tool-that-cannot-say-its-user/) Issue 2 — the [P-AC1](/positions/ai-consciousness-scope/#p-ac1) inheritance is accurate in every sentence present and incomplete in coverage.
+- **Length**: 3977 -> 4152 words (+175), status `ok` -> `soft_warning` (apex 4000/5000/6500). **Soft threshold deliberately crossed**: `soft_warning` is not a gate, the hard ceiling is, and the file sits 848 words below it. The prior pass in this cycle had held a 23-word margin below soft; this pass spent it knowingly rather than compressing the repair.
+- **Absences re-verified in the apex before editing** (`grep -icF`, printed counts): `interface-eligibility` 0, `Organizational Invariance` 0, `Chalmers` 0, `Saad` 0, `question-beg` 0, `channel test` 0. Register re-read at source — not taken from the task brief.
+- **Changes**: Two additions, both coverage repairs; no existing wording altered, since the fidelity check on the sentences present passes.
+  1. *One Verdict on Machines* — new closing paragraph naming (a) the **interface-eligibility law** as [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s own least-secured link, with the register's warning that absent it "relevant" risks reducing to whatever biology happens to have, making the substrate verdict question-begging rather than derived; and (b) the register's **disclosed cost** — the Map anchors on Saad's delegatory dualism while *declining* Saad's fifth constraint, Chalmers's Organizational Invariance, rather than having refuted it. Placed as the section's last word because the section opens by convicting the opposite inference of begging the question, so the article now states its own inherited question-begging risk in its own voice.
+  2. *Evidence and Dependency* — extended the machine-verdict sentence with a clause recording that the inherited verdict is **additionally** conditional on a law the Map does not yet possess, leaving it an honestly-labelled conditional rather than a derived result.
+- **From the register's dated `Updated` entries, beyond the task brief**: the **2026-08-12** entry annotates the interface-eligibility dependency with the corpus's nearest existing approximation — the **five-requirement channel test** (directness, locality, continuity, specificity, granularity), stated in `topics/quantum-randomness-channel-llm-consciousness`. The register is explicit that it is "a nearest approximation, not a discharge: the requirements are read off the biological interface and generalised, not derived from a law — precisely this entry's layer-iv worry — so the debt stands." Installed with that qualification intact and wikilinked, because it sharpens rather than softens the question-begging point: requirements read off biology are exactly what "whatever biology happens to have" names. The 07-28, 08-02 and 08-20 entries (epiphenomenal AI experience externalised; [P-MC2](/positions/arguments-for-mental-causation/#p-mc2) dependency named; quantum-computing bucket registered at [P-AS1](/positions/ai-substrate-verdicts/#p-as1)) bear on [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s scope rather than on this apex's inheritance, and were not imported.
+- **Calibration discipline**: "declines rather than refutes" carried verbatim in force — not upgraded to a refutation, not over-conceded into a defeat. Chalmers's Organizational Invariance is **paraphrased, not quoted**: the register's `"functional duplication preserves phenomenology"` is its own gloss, so the apex carries it as reported content with no quotation marks and no fabrication risk.
+- **Citation decision**: no reference entry added for Chalmers 2025. The apex's reference list is alphabetised and numbered 1-9 (Franco-Martinez … Wittgenstein); a Chalmers entry sorts to position 1 and would force a renumber, which the task forbids. The article already names Dennett, Carruthers, Block, Grice, Quine and Davidson without reference entries, so naming the constraint and pointing at the register that carries the full citation is consistent with existing practice.
+- **Register**: **not modified**. `git status -- obsidian/positions/` clean. The register's five layers (i)-(v) were **not restated** — the debt is named and the register pointed at.
+- **Position id**: `P-AC1` left bare (autolinks); no piped register wikilink added.
+- **Both-tree verification** (`grep -cF`, obsidian / hugo): `interface-eligibility law` 2/2 · `question-begging rather than derived` 1/1 · `five-requirement channel test` 1/1 · `Chalmers's Organizational Invariance` 1/1 · `rather than having refuted it` 1/1 · `honestly-labelled conditional rather than a derived result` 1/1. New wikilink resolves in Hugo to `/topics/quantum-randomness-channel-llm-consciousness/`.
+- **Published**: yes
 
 ## 2026-09-20T06:09:35+00:00 - refine-draft
 - **Status**: Success
