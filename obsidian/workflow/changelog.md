@@ -5,6 +5,22 @@ ai_modified: '2026-09-20T11:23:29+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-20T13:29:13+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/living-with-the-map]]
+- **Changed sources**: 8 of 8 (baseline `max(apex_last_synthesis, last_deep_review)` = 2026-07-25; oldest real apex body in the section at 54 days)
+- **Selected over** `moral-architecture-of-consciousness` (higher score but body edited 3 days ago and only 233 words of room), `steelmanning-as-method`, and `machine-question` (937 words past its hard gate — can take no new prose).
+- **Installed the required `## Evidence and Dependency` section**, absent since the 2026-07-16 contract change and not flagged by the 2026-07-25 deep review. 17 of 42 real apex articles were missing it; now 16.
+- **Eight apex-vs-source drifts found and fixed.** Highest-value: (a) the desert paragraph overstated [[concepts/moral-responsibility]] ("has backing" for the source's "becomes intelligible … doesn't prove retribution is *right*") and reproduced the metaphysical-vs-pragmatic contrast the source has **explicitly retracted** in favour of irreducible-vs-derivative — the apex was the exact slippage the named Compatibilist Symmetry Challenge exists to prevent; (b) "Most action is also spontaneous" was a quantifier upgrade over the source's "need not always"/"sometimes" that also contradicted the source's own only-"Most" sentence; (c) a stranded orphan sentence surviving in **no live article but this one** — added to [[topics/free-will]] 2026-02-05, copied here 2026-03-06, deleted from the source by a condense pass 2026-03-19, carried unsupported for six months.
+- **Taxonomy repair**: the article gave three camps of meaning theory where [[topics/meaning-of-life]] gives four, and the missing camp (Objective Naturalism) is the one the source places the Map *inside*; the apex then billed the Map's view as "the alternative" to the three. Wolf's grass-blades example was also deployed against subjective naturalism, an attack the source explicitly disowns.
+- **Attribution repairs**: *upādāna* / *duḥkha* / Madhyamika were credited to [[concepts/nihilism-and-existentialism]], which contains **zero** occurrences of all three (NFKC-checked); real home is [[topics/moral-implications-of-genuine-agency]], now added to `apex_sources`. The apex also called the Buddhist view "complementary" in the same sentence it called it "competing", inverting the upstream source's "competing … not merely a parallel". Whitehead's "subjective aim" / "richest possible integration" likewise had zero hits in the cited source and were re-linked to [[concepts/subjective-aim]]; "intrinsic" softened, since only the *modified* aim is self-determined. Sartre's "condemned to be free" had been glossed as a capability, deleting the inescapability-and-anguish reading the source gives it.
+- **Apex ahead of its source (noted, tasks owed)**: [[topics/ethics-under-dualism]] is categorical on AI ("lack consciousness" 5×, "categorically excluded"), which [[topics/ai-consciousness]] and [[apex/machine-question]] disavow — the apex's scoped verdict is right and the link was wrong, so the reference was repointed. The Madhyamika over-specification also lives at its upstream locus.
+- **Media-neutral rule**: "apex article" removed (2 → 0 in body). 13 other apex articles still carry it.
+- **Word count**: 3803 → 4117 (`ok` → `soft_warning`; apex soft 4000 / hard 5000). 882 below the hard gate. The required Evidence section alone (~190 words) consumed the 197 words of soft headroom available at the start — the driver's "1196 headroom" was headroom to *hard*.
+- **Links**: 62 wikilinks + anchors re-validated, zero broken, zero ambiguous bare slugs; both `ethics-under-dualism` heading anchors confirmed unrenamed and correctly slugified in Hugo.
+- **Review**: [[reviews/apex-evolve-2026-09-20-living-with-the-map]]
+- **Published**: yes (synced to Hugo; both trees grep-verified with occurrence counts)
+
 ## 2026-09-20T12:24:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/affective-void]]
