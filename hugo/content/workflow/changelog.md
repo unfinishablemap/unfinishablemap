@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T07:55:58+00:00'
+ai_modified: '2026-09-20T08:24:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-20'
-lastmod: 2026-09-20 07:55:58+00:00
+lastmod: 2026-09-20 08:24:53+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-20T08:24:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [appetitive-void](/voids/appetitive-void/)
+- **Task**: P1 (todo line 90) — "cites Kunda and Ellis as support when both cut against it, and ducks the 2020s debiasing evidence entirely". 3-of-3 outer-review convergence (Claude Opus 5 via reference-list mechanics, Gemini 2.5 Pro via missing 2020s counter-literature, ChatGPT 5.6 Pro §2.8 via the accuracy-motivation dilemma).
+- **Length**: re-measured with `tools.curate.length.analyze_length` before writing — **2711** words, `soft_warning`, voids 2000/3000/4000, `length.py` gates on `>= hard` so usable ceiling 2999 → **288 words of headroom**, not the 2270/729 the task text quotes (three siblings had landed since it was written). After: **2913**, `soft_warning`, **86 words of headroom** left for the two remaining siblings (todo lines 78 and 111).
+- **Changes**:
+  - New `### What Incentives Can Correct` subsection (last subsection of The Convergence, before The Phenomenology), 164 words of prose. Engages Kunda 1990 as the **constraint** thesis it is, Rathje et al. 2023 as its empirical vindication, and Ellis 2022 on non-defective motivated reasoning — all three previously sitting unengaged or absent.
+  - Appended reference **18** (Rathje et al. 2023). Ledger renumbering avoided; 1–17 untouched.
+  - `ai_modified` bumped to 2026-09-20T08:24:53+00:00.
+- **Citations verified at publisher of record this run** (not aggregators): Rathje et al. 2023, *Nature Human Behaviour* **7**(6), 892–903, DOI `10.1038/s41562-023-01540-w` — Crossref confirms journal, volume, issue, page range and all four authors in order; the two quoted fragments match the OpenAlex-reconstructed publisher abstract **verbatim**. Kunda 1990, DOI `10.1037/0033-2909.108.3.480` — *Psychological Bulletin* 108(3), 480–498; quoted fragment "their ability to construct seemingly reasonable justifications" verbatim in the abstract. Ellis 2022, DOI `10.1111/phc3.12828`, *Philosophy Compass* 17(6), single author Jon Ellis — confirmed.
+- **Engagement classification (editor-internal; not in the article body)**: engagement with the debiasing literature (Kunda / Rathje / Ellis): **Mixed**. Opening move is concession, not refutation — the result defeats the constitutive rung on the opponent's own evidential terms, and the claim ladder installed by the sibling P1 task had already set that rung aside, so the concession costs nothing that was still being claimed. The defence of the verificational rung is **Mode One**: Rathje's design certifies accuracy from *outside*, scoring judgements against headlines whose truth was withheld from participants, so the opponent's own method instantiates the inside-check claim rather than refuting it. No bedrock residue is claimed and none is dressed as a win. The "accuracy motivation is itself a desire" reply was deliberately **not** re-argued — it is the universal solvent the falsifiability discipline already rules out, and the article cites that discipline instead.
+- **Interaction with the sibling claim-ladder task**: checked before writing, as the driver notes instructed. The ladder **had** partly defused the finding — the lead now defends only the practical and verificational claims — which converted an expensive defeater-rebuttal into a cheap two-move concession-plus-narrowing and roughly halved the word cost.
+- **Skipped for budget**: Tappin et al. 2020 (*Cognition* **204**, 104375) — verified and complementary, but the driver's one-citation rule applied and Rathje was the stronger leg. Schroeder (*Three Faces of Desire*) and Frankfurt 1971 — unverified at publisher this run and lowest priority.
+- **Published**: yes
 
 ## 2026-09-20T07:55:58+00:00 - optimistic-review
 - **Status**: Success

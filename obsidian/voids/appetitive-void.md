@@ -4,7 +4,7 @@ description: "Human+AI exploration of desire-shaped cognition: why appetitive fr
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-09-20T07:02:00+00:00
+ai_modified: 2026-09-20T08:24:53+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -85,6 +85,12 @@ Susanna Siegel's work on the rationality of perception places the appetitive voi
 
 These traditions speak of one appetite; motivational neuroscience finds several. It separates incentive salience from hedonic impact, reinforcement learning from reward prediction, and all of these from conscious desire—Berridge and Robinson's dissociation of "wanting" from "liking" being the sharpest case, worked through in [[wanting-liking-and-the-value-in-mechanism-fork|the wanting/liking fork]], whose vocabulary should govern wherever the single word used here blurs them. The cost is genuine, and calling it the same data under a different ontology does not pay it: the physicalist supplies a finer-grained decomposition of what is grouped under one term, and the coarser account owes the finer one a reason why the grouping holds. The practical and verificational reading survives it: several motivational systems are no easier to step outside, or to audit from inside, than one.
 
+### What Incentives Can Correct
+
+Two entries in the reference list cut against this article. Kunda's "The Case for Motivated Reasoning" is a constraint thesis: people reach the conclusions they want, but only so far as "their ability to construct seemingly reasonable justifications" permits. Rathje and colleagues (2023) supply its vindication—across four experiments (*n* = 3,364), financial incentives "improved accuracy and reduced partisan bias in judgements of headlines by about 30%", with a non-financial accuracy prompt also effective. Ellis (2022) adds that motivated reasoning is not always epistemically defective.
+
+Against a constitutive appetitive void this is decisive, and that reading was set aside at the outset. Against the two claims defended here it narrows without defeating. The correction is partial, so no participant is shown reasoning without appetitive structure; and it was certified from outside, against headlines whose truth the experimenters knew and the participants did not, who had no way to tell from inside that their accuracy had risen. Calling the incentive one more desire would be the universal solvent ruled out below.
+
 ## The Phenomenology
 
 Unlike cognitive aversion—which has markers such as the slide, the substitution, the glaze—the appetitive void has no distinctive feel.
@@ -148,3 +154,4 @@ The convergence set out above—traditions with radically different starting poi
 15. Clark, A. (2020). "Beyond Desire? Agency, Choice, and the Predictive Mind." *Australasian Journal of Philosophy*, 98(1), 1-15. https://doi.org/10.1080/00048402.2019.1602661
 16. Berridge, K. C., & Robinson, T. E. (1998). "What is the role of dopamine in reward: hedonic impact, reward learning, or incentive salience?" *Brain Research Reviews*, 28(3), 309-369. https://doi.org/10.1016/S0165-0173(98)00019-8
 17. Laukkonen, R. E., Sacchet, M. D., Barendregt, H., Devaney, K. J., Chowdhury, A., & Slagter, H. A. (2023). "Cessations of consciousness in meditation: Advancing a scientific understanding of nirodha samāpatti." *Progress in Brain Research*, 61-87. https://doi.org/10.1016/bs.pbr.2022.12.007
+18. Rathje, S., Roozenbeek, J., Van Bavel, J. J., & van der Linden, S. (2023). "Accuracy and social motivations shape judgements of (mis)information." *Nature Human Behaviour*, 7(6), 892-903. https://doi.org/10.1038/s41562-023-01540-w
