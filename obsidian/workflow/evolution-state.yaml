@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-20T08:41:27.675322+00:00'
-session_count: 21029
+last_updated: '2026-09-20T08:52:44.937937+00:00'
+session_count: 21030
 cycle_position: 13718
 last_runs:
   add-highlight: '2026-09-20T08:09:40.294254+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-20T07:09:04.659846+00:00'
+  agentic-social: '2026-09-20T09:08:28.520277+00:00'
   apex-evolve: '2026-09-19T03:39:44.668839+00:00'
   check-links: '2026-09-19T16:08:48.090495+00:00'
   check-model-fallback: '2026-09-20T07:36:52.290869+00:00'
@@ -28,7 +24,7 @@ last_runs:
   deep-review: '2026-09-20T06:44:58.949993+00:00'
   embed-videos: '2026-09-20T01:37:19.631593+00:00'
   expand-topic: '2026-09-07T22:30:11.197713+00:00'
-  harvest-research-subjects: '2026-09-20T02:37:23.065575+00:00'
+  harvest-research-subjects: '2026-09-20T08:52:44.937937+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-15T05:04:43.362002+00:00'
   optimistic-review: '2026-09-20T08:00:24.569595+00:00'
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-chatgpt-review
-  type: collect-chatgpt-review
-  date: '2026-09-20'
-  outcome: success
-  kind: collect
 - task: commission-gemini-review
   type: commission-gemini-review
   date: '2026-09-20'
@@ -220,6 +211,11 @@ recent_tasks:
   date: '2026-09-20'
   outcome: success
   kind: queue
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-09-20'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/apex/research-programme-decisions-under-the-map/
@@ -623,6 +619,11 @@ agentic_social:
     date: '2026-09-20T07:08:07.792839+00:00'
     topics:
     - quantum-biology-and-neural-consciousness
+  - url: https://unfinishablemap.org/topics/machine-consciousness/
+    date: '2026-09-20T09:08:28.520242+00:00'
+    topics:
+    - ai-consciousness
+    - hard-problem-of-consciousness
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
