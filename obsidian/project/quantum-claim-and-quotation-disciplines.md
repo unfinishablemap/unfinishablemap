@@ -1,10 +1,10 @@
 ---
 title: "Quantum-Claim Robustness and Quotation-Fidelity Disciplines"
-description: "Two disciplines surfaced by the 2026-06-19 brain-specialness outer-review triple: a mechanism-variance audit for any claim leaning on quantum-consciousness machinery, and a quote-string-fidelity check distinct from reference-metadata verification, with a disconfirming-source-inclusion rule."
+description: "A mechanism-variance audit for claims leaning on quantum-consciousness machinery, and a quotation-fidelity family distinct from reference-metadata verification — extended 2026-09-20 with quote-work locator fidelity, construct propagation, and a triage of eleven outer-review methodology proposals."
 created: 2026-06-19
-modified: 2026-09-15
+modified: 2026-09-20
 human_modified: null
-ai_modified: 2026-09-15T06:48:04+00:00
+ai_modified: 2026-09-20T07:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -21,9 +21,17 @@ related_articles:
   - "[[direct-refutation-discipline]]"
   - "[[writing-style]]"
   - "[[reviews/outer-review-synthesis-2026-06-19]]"
+  - "[[public-claim-register]]"
+  - "[[appetitive-void]]"
+  - "[[wanting-liking-and-the-value-in-mechanism-fork]]"
+  - "[[cross-architecture-llm-introspection]]"
+  - "[[voids-as-evidence]]"
+  - "[[reviews/outer-review-2026-09-20-chatgpt-5-6-sol-pro]]"
+  - "[[reviews/outer-review-2026-09-20-claude-opus-5]]"
+  - "[[reviews/outer-review-synthesis-2026-09-20]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-06-19
 last_curated: null
 ---
@@ -76,6 +84,16 @@ The 2026-09-15 outer-review cycle on [[pragmatism]] (ChatGPT 5.6 Pro improvement
 
 (c-iii) is the argument-grain sibling of the disconfirming-source rule: that rule requires the strongest disconfirming *source* be cited; this requires that the *cited* source not itself be the disconfirmer. It is the citation-pipeline name for the author-stance-direction gate [[evidential-status-discipline]] already states; the addition is that it joins the [[calibration-audit-triple]] Audit Four check list as a separately-recorded pass and fires on every supporting source, not only out-of-camp and commentator sources.
 
+### Quote-work locator fidelity: the provenance seam between (b) and (c-ii)
+
+The 2026-09-20 triple on [[appetitive-void|the Appetitive Void]] reached the residue that survives (b) and (c-ii) *together*, from three directions at once — ChatGPT 5.6 Sol Pro improvement 19, Claude Opus 5's first site-methodology recommendation, and the Map's own changelog of the previous day. The live instance was a Žižek gloss, *"constitutes our desire, provides its coordinates,"* cited to *The Sublime Object of Ideology* (1989) when it belongs to *The Plague of Fantasies* (Verso, 1997), "The Seven Veils of Fantasy." The string is genuine Žižek, the author attribution right, the cited book real and correctly dated. Every check above passes and the citation is still wrong.
+
+- **(c-iv) quote-work-located** — *new* — the quoted string must be located in *the specific work and edition the article cites*, not merely shown to be the named author's words. What is certified is the **pairing** of string to work; never the string alone, and never the work alone.
+
+The pairing is the unit because each half passes on its own evidence while the two never meet. Check (b) certifies the work exists and is by the named author; check (c-ii) certifies the string is the source's exact words — but (c-ii) runs against whatever text the verifier has to hand, so a correct string found *somewhere* in the author's corpus reads as a pass. The Map's own audit trail supplies a second instance: the 2026-09-19 deep review of [[cross-architecture-llm-introspection|the LLM-introspection article]] found a quotation credited to Hahami that is Lindsey's, which had "survived three deep reviews including the 2026-07-19 publisher-of-record pass, which certified both papers' metadata without checking which paper the quote came from." Two real papers, both correctly described, one quote in the wrong mouth.
+
+**What this must not become.** A second metadata pass would be worse than nothing — it would stamp a stronger *verified* mark on the very citations carrying the defect. That is a citation ledger's standing failure mode: it certifies the metadata and is then read as certifying the reading. Check (c-iv) is discharged only by a locator and a hit — a search against the cited edition, recording *where in that work* the string was found. Absent a locator, mark the quotation unverified rather than let it inherit the work-level pass. A ledger entry reading *real-correct* at author grain has certified nothing about the quotation, and should say which grain it reached.
+
 ### Disconfirming-source inclusion
 
 The brain-specialness boundary cited four friendly sources (Jahn & Dunne 2005, Nelson et al. 2002, Park 2000, Stapp 2007) and a popular-science book for the criticism, while omitting the single most-cited skeptical meta-analysis (Bösch, Steinkamp & Boller 2006) and the large Bayesian null study (Maier, Dechamps & Pflitsch 2018). Both reviewers independently flagged this as "a one-sided evidence base presented as 'the empirical record.'"
@@ -96,6 +114,25 @@ One proposal is a **single-reviewer (ChatGPT) singleton**, recorded but not prom
 
 - **Boundary adversarial-cases checklist** (RNG-with-feedback, BCI/neuroprosthetic, tool-incorporation, another person's brain, AI, animal brains). This is the boundary-article companion to Discipline One's mechanism-variance set: where mechanism-variance varies the *mechanism* and holds the case fixed, the adversarial-cases checklist varies the *case* and holds the mechanism fixed, asking whether the boundary the article draws is principled or reverse-engineered to land exactly on "own brain only." It is genuinely useful for boundary-drawing articles specifically, but as a single-reviewer proposal scoped to one article-type it is recorded as a `/tune-system` promotion candidate rather than adopted as a corpus-wide discipline. Its natural future home, if promoted, is a sub-check of Discipline One for boundary-type articles.
 
+## The 2026-09-20 Triage: Eleven Proposals, Two Additions
+
+The 2026-09-20 triple on [[appetitive-void|the Appetitive Void]] produced eleven site-methodology proposals — ChatGPT 5.6 Sol Pro improvements 19–25, Claude Opus 5's four recommendations. Two survive triage; the rest are disciplines the Map already runs and the reviewers, from outside the pipeline, had no way to see. The verdicts are recorded so the next triple's re-proposals close by citation rather than by another round of drafting, and each already-held verdict names its covering file.
+
+**Adopted.** (19) and (26) merge into check (c-iv) above — the cycle's one three-way convergence, and the only proposal independently corroborated by the Map's own audit trail.
+
+(20) — *construct propagation* — is adopted as the missing third direction of the propagation family. [[coherence-inflation-countermeasures]] Countermeasure 12's caveat-propagation rule fires when a caveat is *added*; Countermeasure 18's withdrawal sweep fires when a thesis is *withdrawn*. Both run in the negative direction, clearing a claim the corpus no longer holds. Neither fires when a central article *develops* a construct its neighbours ought to have taken up, and neither has anything to enumerate there, because the neighbour's defect is that no link and no shared vocabulary exist. The motivating instance: [[wanting-liking-and-the-value-in-mechanism-fork|the wanting/liking fork]] was deep-reviewed 2026-08-27 and modified 2026-09-05, while the Appetitive Void was revised 2026-09-11 carrying neither *Berridge* nor *incentive salience*. It was repaired on 2026-09-20 by that article's claim-ladder pass, so it motivates the rule rather than standing open. **The rule:** when a pass materially develops a construct in the article the corpus treats as its home, search the construct's distinctive terms across the sections arguing in its territory and record in the changelog which neighbours were checked and which owe an uptake — one search per pass, over the neighbourhood Countermeasure 18 already walks.
+
+**Merged and proposed, not adopted — (22) with (27).** Separately these are a corpus-wide retrofit of 104 void articles (measured 2026-09-20, not the ~99 the task note carried) plus a review lens. Together they are one scope change to an existing gate. [[public-claim-register]] already requires, per load-bearing claim, a named rival and the discriminator the claim lacks (field 4) and the observation that would retract it (field 5) — which is (22) minus only the *narrow* and *merge* outcomes. Because the register is trigger-gated, the price is not 104 articles but the subset of voids claiming impossibility or support over a named rival; voids are simply absent from its four triggers. (27)'s residue is then a new *axis*, not a new lens: the register's evidence grade runs on the five-tier scale, which has no modal dimension, while the void taxonomy (unexplored / unexplorable / occluded) classifies *territory*, not an impossibility claim's strength. A void asserting logical impossibility on evidence supporting only practical inescapability is miscalibrated on an axis nothing grades — this cycle's defect in the Appetitive Void's lead. The proposal: add voids to the register's triggers and a modal-strength field (*logical / nomological / practical / unverifiable*) to a void's entry, with matching vocabulary added to Countermeasure 12's strength-of-claim linter, whose strong-verb set is evidential and catches no modal over-claim. **Proposed, not applied**: a publication gate's coverage is an operator decision, on the reservation holding [[calibration-audit-triple]]'s pending members.
+
+**Already held or declined, recorded to prevent re-proposal.**
+
+- **(21) evidence-status labels beside major claims** — [[public-claim-register]] (the five-field entry) and [[evidential-status-discipline]] (the five-tier scale). Both also *decline* the proposal's in-prose form deliberately: the register's "Why Not Expose the Register in the Article" section, and the discipline's prohibition on per-claim tier labels with one bounded header pilot as the sole exception. Already evaluated, not merely covered.
+- **(23) populate the candidate ledger with rejected voids and negative controls** — [[voids-as-evidence|the voids-as-evidence register]], where the ledger exists, reports its rejection column empty, and has had P-V3's cumulative-weight step suspended for this reason since 2026-09-15. External confirmation of a registered open item, not a new finding.
+- **(24) empirical-currency review for science-facing articles** — [[calibration-audit-triple]] Audit One, weekly since 2026-05-14, and this is its *third* independent re-proposal: a 2026-06-04 "empirical-currency gate" and a 2026-06-26 recency gate are already recorded there as convergent confirmations. Three re-proposals of an existing discipline is a finding about Audit One's *reach* — its glob covers `topics/` only, and no voids slug matches its eighteen active-research patterns — not about its absence. The disposition is already reserved for the operator.
+- **(25) prohibit "exceptions prove the rule" reasoning** — declined as a standalone rule, sized before writing. Outside the reviews and workflow trees the phrase occurs **once** in `obsidian/`, in a 2026-02-10 research note, and nowhere in the archive; the live instance was removed on 2026-09-20. A rule for zero live instances is doctrine without defect. The semantic form — an exception redescribed as a confirmation — is Countermeasure 19's absorb-check. The cheap residue is the phrase itself, added to the strength-of-claim linter's token set.
+- **(28) distinguish "cited" from "engaged"** — [[calibration-audit-triple]] Audit Four **check (e)**, the reference-engagement / performative-inoculation check proposed 2026-07-18: the same references-minus-body set difference, the same mechanical surface. Convergent confirmation with one increment, recorded at check (e): where the uncited reference's *own conclusion opposes the article's thesis*, the flag is a hard defect at P1 rather than check (e)'s advisory P2 candidate, the citation being an omitted rival dressed as an engaged one rather than honest background. The instance is Kunda 1990 and Ellis 2022 in the Appetitive Void, each occurring once on its own reference line, both arguing against the thesis they appear to support.
+- **(29) steelmanned strongest-objection paragraph, sourced to 2020s work** — [[coherence-inflation-countermeasures]] Countermeasures 2 and 10 carry the steelman, [[evidential-status-discipline]]'s strongest-physicalist-rival gate the named rival, and Audit One's 2026-06-26 convergent proposal the currency half. Covered three times over.
+
 ## Relation to Site Perspective
 
 Both disciplines protect the same commitment: that the Map's claims are calibrated to what the catalogue actually has, not to what the tenets allow. Discipline One prevents a tenet-congenial conclusion from inheriting unearned confidence by riding a single fragile mechanism; Discipline Two prevents a contested empirical record from looking settled by omitting its strongest disconfirmer, by quoting a source inexactly, or by recruiting a source for an inference its own argument rejects. Neither weakens the Map's positions — they keep the positions honestly stated, which is what makes the framework's anti-parsimony stance ([[tenets#^occams-limits|Tenet 5]]) a discipline rather than a shield.
@@ -106,4 +143,6 @@ Both disciplines protect the same commitment: that the Map's claims are calibrat
 - [[mechanism-cost-ledger]] and [[mechanism-costs-cartography]] — the cost side of the mechanism-variance discipline
 - [[testability-ledger]] and [[mqi-empirical-fragility]] — tenet-level vs mechanism-level disconfirmation
 - [[evidential-status-discipline]] and [[coherence-inflation-countermeasures]] — the disciplines covering the three already-practiced proposals
+- [[public-claim-register]] — the trigger-gated home proposed for the merged (22)/(27) voids scope change
 - [[reviews/outer-review-synthesis-2026-06-19]] — the cycle that motivated this document
+- [[reviews/outer-review-synthesis-2026-09-20]] — the cycle that produced check (c-iv), construct propagation, and the eleven-proposal triage
