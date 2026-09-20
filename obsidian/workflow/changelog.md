@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T11:01:33+00:00'
+ai_modified: '2026-09-20T11:09:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-20T11:09:48+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/appetitive-void]]
+- **Task**: queue line 39 — draw the affective/appetitive boundary, install a real reciprocal, fix one navigation label. Last substantive task of the Appetitive Void batch. No quality score: skill §3's `uv run python scripts/curate.py review` is a stale command — `scripts/curate.py` does not exist in this repo.
+- **Word counts (`tools.curate.length.analyze_length`, voids 2000 soft / 3000 hard, gate is `>= hard` so usable ceiling is 2999)**:
+  - `voids/appetitive-void` 2913 → **2950** (+37). **49 words of headroom left.**
+  - `voids/self-maintained-cognitive-limits` 2564 → **2617** (+53). 382 left.
+  - `voids/affective-void` 1974 → **2065** (+91). 934 left.
+- **The task's own length figure was stale and was the binding constraint.** It recorded 2270 words / 729 headroom shared across four tasks; the true figure at dispatch was 2913 / **86**, four siblings having landed since. The pass was budgeted against the re-measured 86, not the quoted 729.
+- **Boundary decision (the one real cost).** Appetite is classified as an **orientation** — cognition's directedness toward some outcomes over others — which can run through felt affect *without requiring it*. It is therefore not an affect, not a species of affect, and not affect-dependent. The warrant is the article's own reference 16: Berridge and Robinson's dissociation of wanting from liking, on which incentive salience survives the absence of hedonic impact.
+- **The decision repaired an existing internal inconsistency.** The old contrast paragraph read "the appetitive void concerns how the affects we *do* have constrain what we can think" — making appetite affect-**dependent** — while the *What "Appetite" Groups Together* section, added later, imports Berridge and Robinson's dissociation, on which wanting need not be felt at all. The two passages contradicted each other. The boundary statement resolves them in favour of the cited evidence.
+- **Consistency with the claim ladder**: the boundary is a categorial/scope demarcation, not a rung on the inescapability ladder. It asserts nothing about constitution or in-principle inescapability, so it leaves the article's defence of the practical and verificational claims untouched. The verb used is the article's own "shaping", not "structures" or "constitutes".
+- **Stated in both**, per the task. `appetitive-void` carries the full statement (+36 words, with a plain-text "discussed below" forward reference — no in-page anchor, to avoid the anchor-dialect and broken-wikilink push risk). `affective-void` carries a one-sentence version in its existing **Appetitive framing** bullet (+66 incl. reference), where there are 934 words of room.
+- **Reference added to `affective-void`**: Berridge & Robinson (1998) as entry **9**, appended — no renumbering of 1-8. It was named in body prose with no matching reference entry, which is a citation-apparatus defect a metadata audit would flag.
+- **Reciprocal — prose sentence placed in the sibling, +0 net link cost here.** Driver-verified and re-confirmed: `self-maintained-cognitive-limits` contained exactly **one** occurrence of `appetitive-void`, at line 39, **inside frontmatter** (ends line 56) as a `related_articles:` entry, which renders only through machine-meta and is not a link. Body prose in that direction was genuinely absent. The sentence went into that article's *Complicity: The Agency Claim* section, as a fifth bullet in its existing "distinguishes self-maintained limits from neighbouring voids" list — the natural host, and the exact mirror of `appetitive-void`'s own *How the Appetitive Void Differs* contrast. The reverse direction already existed (three occurrences here). `ai_system` on that file updated `claude-opus-4-7` → `claude-opus-4-7+claude-opus-5`.
+- **Label fix**: `[[acquaintance-void|Pre-Conceptual Knowing]] — Knowledge before and beyond concepts` → `[[acquaintance-void|The Acquaintance Void]] — knowing before and beyond concepts` (+1 word). "Pre-Conceptual Knowing" is the **retired** title of the article `acquaintance-void` was coalesced from; the live `title:` is "The Acquaintance Void". Navigation surfaces carry unreviewed claims and the fix is to the label.
+- **Checked: going bare would have made the label worse.** The house style in these Further Reading lists is a bare `[[slug]]`, but the converter renders a bare wikilink as the **raw slug**, not the target's title — `[[intrinsic-nature-void]]` becomes `[intrinsic-nature-void](/voids/intrinsic-nature-void/)`. The piped form with the live title is the only variant that displays correctly.
+- **`voids/affective-void` was NOT modernised**, per instruction. Its Ekman basic-emotion and neural-substrate material is untouched; the only edits are the one boundary sentence in an existing bullet, the appended reference, and `ai_modified`.
+- **Both-tree verification after `scripts/sync.py`**: occurrence counts by `grep -oiF … | wc -l`, not `grep -c`. `incentive salience survives` 1/1 obsidian/hugo; `categorial rather than one of degree` 1/1; the new reciprocal bullet present at obsidian L137 / hugo L140; label renders in Hugo as `[The Acquaintance Void](/voids/acquaintance-void/)`. No "Stripping broken wikilink" messages for any of the three files — all such messages were confined to `obsidian/workflow/changelog.md`, which is in the exempt operational tree.
+- **Published**: yes
 
 ## 2026-09-20T11:01:33+00:00 - deep-review
 - **Status**: Success

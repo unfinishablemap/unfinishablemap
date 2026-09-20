@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-09-20 08:24:53+00:00
+ai_modified: 2026-09-20 11:09:48+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 22:06:53+00:00
-lastmod: 2026-09-20 08:24:53+00:00
+lastmod: 2026-09-20 11:09:48+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -46,7 +46,7 @@ Multiple traditions converge on the diagnosis from radically different premises:
 
 **[Cognitive aversion](/voids/self-maintained-cognitive-limits/) and defended territory** describe thoughts we flee or actively block. The appetitive void operates a level down, shaping the field within which thoughts occur and asking whether desire so structures it that alternative framings never arise to be defended against. Aversion to a specific idea can be overcome; the appetitive orientation of cognition is less something one overcomes than something one works within.
 
-**The [affective-void](/voids/affective-void/)** marks emotions we cannot feel; the appetitive void concerns how the affects we *do* have constrain what we can think—missing states there, present states generating cognitive limits here.
+**The [affective-void](/voids/affective-void/)** marks emotions we cannot feel. Appetite belongs to a different category: an orientation—cognition's directedness toward some outcomes over others—that can run through felt affect without requiring it. Berridge and Robinson's dissociation of wanting from liking, discussed below, is the warrant, since incentive salience survives the absence of hedonic impact. Missing states there; here a present orientation shaping thought whether or not anything is felt.
 
 **[introspective opacity](/voids/self-opacity/)** describes the inaccessibility of cognitive processes; the appetitive void describes how wanting shapes their *outcomes* even when the processes are transparent. You may observe your reasoning clearly and still not see how desire selected what you reason about.
 
@@ -135,7 +135,7 @@ The convergence set out above—traditions with radically different starting poi
 ## Further Reading
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
-- [Pre-Conceptual Knowing](/voids/acquaintance-void/) — Knowledge before and beyond concepts
+- [The Acquaintance Void](/voids/acquaintance-void/) — knowing before and beyond concepts
 - [what-voids-reveal](/voids/what-voids-reveal/) — How boundaries illuminate architecture
 
 ## References

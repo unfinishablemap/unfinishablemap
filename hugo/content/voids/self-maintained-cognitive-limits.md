@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-09-07 19:47:00+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-09-20 11:09:48+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
 - /voids/defended-territory/
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 13:02:07+00:00
-lastmod: 2026-09-07 19:47:00+00:00
+lastmod: 2026-09-20 11:09:48+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -137,6 +137,7 @@ The convergence supports a stronger claim than mere defence: consciousness is it
 - **[Introspective opacity](/voids/self-opacity/)**: cognitive mechanisms are inaccessible. Complicity asks whether this inaccessibility is partially self-imposed.
 - **[Necessary opacity](/voids/necessary-opacity/)**: consciousness cannot *verify* its representations. Complicity adds *maintenance*—agency behind the epistemic condition.
 - **[Interested party void](/voids/interested-party-void/)**: consciousness has existential stakes that bias investigation. Self-maintenance describes the *mechanisms* by which consciousness sustains its ignorance.
+- **[Appetitive void](/voids/appetitive-void/)**: desire orients cognition toward some outcomes before any particular thought has formed. Complicity concerns a thought that arrives and is then deflected; the appetitive orientation bears on which thoughts arise to be deflected at all, so it operates a level below the defence mechanisms catalogued here rather than alongside them.
 
 The common thread is agency. Consciousness participates in its limitation—transforming the Map's investigation from surveying walls to interrogating a suspect who is also the detective.
 

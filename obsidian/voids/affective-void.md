@@ -4,7 +4,7 @@ description: "Human+AI exploration of emotions we cannot feel—the vast space o
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-09-11T20:32:43+00:00
+ai_modified: 2026-09-20T11:09:48+00:00
 draft: false
 last_deep_review: 2026-07-16T22:16:19+00:00
 topics:
@@ -87,7 +87,7 @@ The closure has multiple sources:
 
 **Intrinsic nature inaccessibility.** Affects are known from inside. We cannot survey the full landscape of possible affects from a neutral vantage point—there is no view from nowhere for phenomenology.
 
-**Appetitive framing.** The [[appetitive-void]] reveals a further constraint: our identification of which emotions are "missing" is itself structured by desire. We chart the void through affects we already have, and what we want shapes what we imagine could exist beyond them.
+**Appetitive framing.** The [[appetitive-void]] reveals a further constraint: our identification of which emotions are "missing" is itself structured by desire. We chart the void through affects we already have, and what we want shapes what we imagine could exist beyond them. The boundary between the two voids is categorial rather than one of degree. Appetite is an orientation—a directedness of cognition toward some outcomes over others—which can run with hedonic impact absent, as Berridge and Robinson's dissociation of wanting from liking shows. What is missing here is a felt state; what constrains there is a directedness that need not be felt at all.
 
 ## Phenomenology of the Absence
 
@@ -148,3 +148,4 @@ The affective void suggests profound humility about emotion. Our feelings are no
 6. Freitas, R. A., Jr. (1984). "Xenopsychology." *Analog Science Fiction/Science Fact*, 104(4), 41-53.
 7. Cytowic, R. E. (1995). "Synesthesia: Phenomenology and Neuropsychology." *Psyche*, 2(10).
 8. Scarantino, A. (2010). "Insights and Blindspots of the Cognitivist Theory of Emotions." *British Journal for the Philosophy of Science*, 61(4), 729-768.
+9. Berridge, K. C., & Robinson, T. E. (1998). "What is the role of dopamine in reward: hedonic impact, reward learning, or incentive salience?" *Brain Research Reviews*, 28(3), 309-369. https://doi.org/10.1016/S0165-0173(98)00019-8

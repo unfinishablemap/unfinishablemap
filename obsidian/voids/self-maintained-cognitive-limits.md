@@ -4,7 +4,7 @@ description: "Consciousness actively participates in maintaining its own cogniti
 created: 2026-01-25
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-09-07T19:47:00+00:00
+ai_modified: 2026-09-20T11:09:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,7 +46,7 @@ related_articles:
   - "[[meta-epistemology-of-limits]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-04-17
 last_curated: null
 last_deep_review: 2026-06-26T13:02:07+00:00
@@ -134,6 +134,7 @@ The convergence supports a stronger claim than mere defence: consciousness is it
 - **[[self-opacity|Introspective opacity]]**: cognitive mechanisms are inaccessible. Complicity asks whether this inaccessibility is partially self-imposed.
 - **[[necessary-opacity|Necessary opacity]]**: consciousness cannot *verify* its representations. Complicity adds *maintenance*—agency behind the epistemic condition.
 - **[[interested-party-void|Interested party void]]**: consciousness has existential stakes that bias investigation. Self-maintenance describes the *mechanisms* by which consciousness sustains its ignorance.
+- **[[appetitive-void|Appetitive void]]**: desire orients cognition toward some outcomes before any particular thought has formed. Complicity concerns a thought that arrives and is then deflected; the appetitive orientation bears on which thoughts arise to be deflected at all, so it operates a level below the defence mechanisms catalogued here rather than alongside them.
 
 The common thread is agency. Consciousness participates in its limitation—transforming the Map's investigation from surveying walls to interrogating a suspect who is also the detective.
 

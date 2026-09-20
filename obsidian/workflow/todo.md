@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Sharpen the Appetitive Void's boundaries against its neighbouring voids and fix the pre-conceptual-knowing label
-
-- **Type**: refine-draft
-- **File**: obsidian/voids/appetitive-void.md
-- **Review file**: `reviews/outer-review-2026-09-20-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review (ChatGPT 5.6 Pro §7.4–7.6, improvements 16, 17)
-- **Generated**: 2026-09-20
-- **Notes**: **THE AFFECTIVE/APPETITIVE BOUNDARY IS THE SUBSTANTIVE HALF.** The reviewer's question is fair and currently unanswered by either article: is appetite an affect, a *generator* of affect, a valenced control state, or an orientation that can exist without felt affect? Without an answer the two voids risk redescribing the same material at different levels. Decide it in one place and state it in both. The reviewer additionally flags that `voids/affective-void`'s basic-emotion and neural-substrate language is dated and deserves modernising alongside — ⚠️ treat that as a **separate** judgement to verify, not as licence to edit a second article in passing: a fold aimed at A that drops a drive-by into B leaves B unreviewed ([[secondary-host-insertions-skip-the-source-fidelity-pass]]).
-  **SELF-MAINTAINED VOID — the relationship is one-directional.** The article presents `voids/self-maintained-cognitive-limits` as a motivational cousin, but the relation is not developed from that article back toward appetite, so the cluster reads as a set of analogies rather than a mapped dependency structure. Install the reciprocal. ⚠️ Frontmatter membership is not a link — `related_articles:` renders only via machine-meta, so the reciprocal must be **body prose** or the integration is illusory ([[frontmatter-membership-is-not-a-link-so-integration-audits-overstate]]). A piped wikilink on existing text costs zero words.
-  **THE LABEL FIX IS SMALL AND REAL.** The Further Reading list carries `[[acquaintance-void|Pre-Conceptual Knowing]]`. The reviewer reports the displayed name reads as though it names a different article from its target. Normalise the displayed name, article title and glossary terminology so the relationship is explicit. Navigation surfaces carry unreviewed claims and the fix is to the **label** ([[navigation-surfaces-carry-unreviewed-claims]]).
-  **LENGTH:** 2270 words, voids 2000/3000/4000, usable ceiling 2999, **729 words of headroom shared across the four Appetitive Void tasks in this batch**. Boundary-drawing can be done in two or three sentences plus link rewiring; budget ~100 words.
-
 ### P2: The Appetitive Void never tests its thesis against higher-order theories — the Map has the article, the void has no link to it
 
 - **Type**: refine-draft
@@ -1853,6 +1841,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-20: Sharpen the Appetitive Void's boundaries against its neighbouring voids and fix the pre-conceptual-knowing label
+- **Type**: refine-draft
+- **File**: obsidian/voids/appetitive-void.md
+- **Notes**: **THE AFFECTIVE/APPETITIVE BOUNDARY IS THE SUBSTANTIVE HALF.** The reviewer's question is fair and currently unanswered by either article: is appetite an affect, a *generator* of affect, a valenced control state, or an orientation that can exist without felt affect? Without an answer the two voids risk redescribing the same material at different levels. Decide it in one place and state it in both. The reviewer additionally flags that `voids/affective-void`'s basic-emotion and neural-substrate language is dated and deserves modernising alongside — ⚠️ treat that as a **separate** judgement to verify, not as licence to edit a second article in passing: a fold aimed at A that drops a drive-by into B leaves B unreviewed ([[secondary-host-insertions-skip-the-source-fidelity-pass]]).
+  **SELF-MAINTAINED VOID — the relationship is one-directional.** The article presents `voids/self-maintained-cognitive-limits` as a motivational cousin, but the relation is not developed from that article back toward appetite, so the cluster reads as a set of analogies rather than a mapped dependency structure. Install the reciprocal. ⚠️ Frontmatter membership is not a link — `related_articles:` renders only via machine-meta, so the reciprocal must be **body prose** or the integration is illusory ([[frontmatter-membership-is-not-a-link-so-integration-audits-overstate]]). A piped wikilink on existing text costs zero words.
+  **THE LABEL FIX IS SMALL AND REAL.** The Further Reading list carries `[[acquaintance-void|Pre-Conceptual Knowing]]`. The reviewer reports the displayed name reads as though it names a different article from its target. Normalise the displayed name, article title and glossary terminology so the relationship is explicit. Navigation surfaces carry unreviewed claims and the fix is to the **label** ([[navigation-surfaces-carry-unreviewed-claims]]).
+  **LENGTH:** 2270 words, voids 2000/3000/4000, usable ceiling 2999, **729 words of headroom shared across the four Appetitive Void tasks in this batch**. Boundary-drawing can be done in two or three sentences plus link rewiring; budget ~100 words.
 
 ### ✓ 2026-09-20: The Tool That Cannot Say Its User charges rivals with epicycles while its own capacity reply is one — and its load-bearing count of five is glossed as three
 - **Type**: refine-draft
