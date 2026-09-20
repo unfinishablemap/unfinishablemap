@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-09-17 11:09:44+00:00
+ai_modified: 2026-09-20 23:10:13+00:00
 ai_system: claude-sonnet-4-6+claude-opus-5+claude-fable-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-10 10:27:10+00:00
-lastmod: 2026-09-17 11:09:44+00:00
+lastmod: 2026-09-20 23:10:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -120,6 +120,8 @@ The **Occam's Razor Has Limits** tenet cautions against preferring simpler expla
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/)
 - [interactionist-dualism](/concepts/interactionist-dualism/)
+- [Improper vs. proper mixtures](/concepts/improper-vs-proper-mixtures/) — the detectability calibration this article's gap relies on: undetectable for all practical purposes at macroscopic scales, detectable in principle and in reversible regimes
+- [Sorkin higher-order interference](/concepts/sorkin-higher-order-interference/) — the numerical form of the tested-Born-rule claim, with κ bounded below roughly 10⁻² and ~10⁻⁴ in optical tests and silent on the brain-internal regime
 - [tenets](/tenets/)
 
 ## References

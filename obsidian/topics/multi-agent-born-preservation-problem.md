@@ -4,7 +4,7 @@ description: "Corridor dualism preserves each agent's Born marginal; entangled c
 created: 2026-09-01
 modified: 2026-09-01
 human_modified:
-ai_modified: 2026-09-01T21:53:18+00:00
+ai_modified: 2026-09-20T23:10:13+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -104,6 +104,7 @@ The Map speculates that the eventual answer runs through the composition questio
 - [[apex/born-preserving-causal-efficacy]] — the programme statement whose toy-model desiderata this problem extends to N≥2
 - [[topics/self-reference-and-the-limits-of-physical-description]] — the Frauchiger-Renner result in its Gödelian setting
 - [[many-minds-interpretation]] — the rival that took multi-agent correlation machinery furthest
+- [[improper-vs-proper-mixtures|Improper vs. proper mixtures]] — its trilemma prices the baseline objective collapse the composition question assumes, as route 1
 
 ## References
 

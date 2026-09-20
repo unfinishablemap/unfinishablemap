@@ -4,7 +4,7 @@ description: "The interference-order hierarchy that operationalises 'the Born ru
 created: 2026-07-16
 modified: 2026-07-16
 human_modified:
-ai_modified: 2026-09-02T15:20:11+00:00
+ai_modified: 2026-09-20T23:10:13+00:00
 last_deep_review: 2026-09-02T15:20:11+00:00
 draft: false
 topics:
@@ -93,6 +93,7 @@ For the Map, this is why κ is worth naming rather than leaving as a slogan. It 
 - [[brain-internal-born-rule-testing]] — what would make the corridor empirically superfluous
 - [[sorkin-delta-brain-internal-analogues]] — translating the optical triple-slit test into neural tissue
 - [[generalised-probabilistic-theories]] — the space of post-quantum theories a nonzero κ would enter
+- [[local-tomography-and-the-consciousness-physics-interface|Local tomography and the consciousness-physics interface]] — the companion axiom in that same framework, and the second lock on the Born-forcing door
 - [[tenets]] — the five foundational commitments
 
 ## References

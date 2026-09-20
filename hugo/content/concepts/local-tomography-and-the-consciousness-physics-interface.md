@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-16
-ai_modified: 2026-08-27 00:06:21+00:00
+ai_modified: 2026-09-20 23:10:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-18 10:31:30+00:00
-lastmod: 2026-08-27 00:06:21+00:00
+lastmod: 2026-09-20 23:10:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -110,6 +110,7 @@ The axiom does no work *for* the interface reading over its rivals. Its value to
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
 - [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/)
 - [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/)
+- [The multi-agent Born-preservation problem](/topics/multi-agent-born-preservation-problem/) — where the purification branch's signalling lever meets the N-agent no-signalling demand
 
 ## References
 

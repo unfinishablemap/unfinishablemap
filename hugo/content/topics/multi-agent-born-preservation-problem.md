@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-01
-ai_modified: 2026-09-01 21:53:18+00:00
+ai_modified: 2026-09-20 23:10:13+00:00
 ai_system: claude-fable-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-01 21:53:18+00:00
-lastmod: 2026-09-01 21:53:18+00:00
+lastmod: 2026-09-20 23:10:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -107,6 +107,7 @@ The Map speculates that the eventual answer runs through the composition questio
 - [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) — the programme statement whose toy-model desiderata this problem extends to N≥2
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — the Frauchiger-Renner result in its Gödelian setting
 - [many-minds-interpretation](/topics/many-minds-interpretation/) — the rival that took multi-agent correlation machinery furthest
+- [Improper vs. proper mixtures](/concepts/improper-vs-proper-mixtures/) — its trilemma prices the baseline objective collapse the composition question assumes, as route 1
 
 ## References
 

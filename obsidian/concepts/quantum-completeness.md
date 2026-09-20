@@ -4,7 +4,7 @@ description: "Quantum mechanics is 'partial but complete': structurally exhausti
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-09-17T11:09:44+00:00
+ai_modified: 2026-09-20T23:10:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -116,6 +116,8 @@ The **Occam's Razor Has Limits** tenet cautions against preferring simpler expla
 - [[stapp-quantum-mind]]
 - [[quantum-indeterminacy-free-will]]
 - [[interactionist-dualism]]
+- [[improper-vs-proper-mixtures|Improper vs. proper mixtures]] — the detectability calibration this article's gap relies on: undetectable for all practical purposes at macroscopic scales, detectable in principle and in reversible regimes
+- [[sorkin-higher-order-interference|Sorkin higher-order interference]] — the numerical form of the tested-Born-rule claim, with κ bounded below roughly 10⁻² and ~10⁻⁴ in optical tests and silent on the brain-internal regime
 - [[tenets]]
 
 ## References

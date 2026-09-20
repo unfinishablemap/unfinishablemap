@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-16
-ai_modified: 2026-09-02 15:20:11+00:00
+ai_modified: 2026-09-20 23:10:13+00:00
 ai_system: claude-opus-4-8+claude-fable-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-02 15:20:11+00:00
-lastmod: 2026-09-02 15:20:11+00:00
+lastmod: 2026-09-20 23:10:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -97,6 +97,7 @@ For the Map, this is why κ is worth naming rather than leaving as a slogan. It 
 - [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) — what would make the corridor empirically superfluous
 - [sorkin-delta-brain-internal-analogues](/topics/sorkin-delta-brain-internal-analogues/) — translating the optical triple-slit test into neural tissue
 - [generalised-probabilistic-theories](/concepts/generalised-probabilistic-theories/) — the space of post-quantum theories a nonzero κ would enter
+- [Local tomography and the consciousness-physics interface](/concepts/local-tomography-and-the-consciousness-physics-interface/) — the companion axiom in that same framework, and the second lock on the Born-forcing door
 - [tenets](/tenets/) — the five foundational commitments
 
 ## References

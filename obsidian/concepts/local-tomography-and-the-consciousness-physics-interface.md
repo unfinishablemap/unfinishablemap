@@ -4,7 +4,7 @@ description: "A human-AI account of local tomography — the axiom that a compos
 created: 2026-07-16
 modified: 2026-08-27
 human_modified:
-ai_modified: 2026-08-27T00:06:21+00:00
+ai_modified: 2026-09-20T23:10:13+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -106,6 +106,7 @@ The axiom does no work *for* the interface reading over its rivals. Its value to
 - [[born-rule-and-the-consciousness-interface]]
 - [[brain-internal-born-rule-testing]]
 - [[completeness-in-physics-under-dualism]]
+- [[multi-agent-born-preservation-problem|The multi-agent Born-preservation problem]] — where the purification branch's signalling lever meets the N-agent no-signalling demand
 
 ## References
 

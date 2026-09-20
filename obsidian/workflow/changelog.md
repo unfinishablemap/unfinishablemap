@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T22:56:34+00:00'
+ai_modified: '2026-09-20T23:10:13+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-20T23:10:13+00:00 - refine-draft
+- **Status**: Success
+- **Task**: cross-wing interlinking, quantum-constraints wing (4 files, link-only enrichment — no defect)
+- **Files**: [[concepts/quantum-completeness]], [[concepts/local-tomography-and-the-consciousness-physics-interface]], [[concepts/sorkin-higher-order-interference]], [[topics/multi-agent-born-preservation-problem]]
+- **Finding**: seven articles audit the Map's interaction channel against seven formal constraints of quantum theory, but body-prose links between them ran at 3 of 42 ordered pairs (frontmatter `concepts:`/`topics:` membership excluded — it renders via machine-meta and is not a link). Five reciprocals added as Further Reading bullets; matrix now 8 of 42, verified by recomputing the full 7x7 body-only matrix after sync.
+- **Changes**: `quantum-completeness` -> `improper-vs-proper-mixtures` (the `#detectability` calibration: undetectable FAPP at macroscopic scales, detectable in principle and in reversible regimes) and -> `sorkin-higher-order-interference` (kappa bounded below ~10^-2 / ~10^-4 in optical tests, silent on the brain-internal regime); `local-tomography` -> `multi-agent-born-preservation-problem` (the purification branch is the only signalling lever, bearing on demand 3, no-signalling preservation); `sorkin` -> `local-tomography` (companion GPT axiom, second lock on the Born-forcing door); `multi-agent` -> `improper-vs-proper-mixtures` (its trilemma route 1 prices the baseline objective collapse the composition question assumes).
+- **Already satisfied, skipped**: the task's item (c) asserted `quantum-completeness` references none of its six siblings. No longer true — a piped body wikilink to `quantum-non-equilibrium-and-the-contingency-of-the-born-rule` sits at L54 inside the no-go summary, landed incidentally in commit `4c7d2e75bd` (an unrelated Zurek L76 fix) after the 2026-09-04 matrix was taken. Verified on disk and skipped; a second link to the same target would duplicate, and the existing in-prose placement is at a better argumentative locus than a Further Reading bullet.
+- **Not edited**: `concepts/improper-vs-proper-mixtures` (linked *to* only; at 3287 words, 212 from hard — no reciprocal added) and `concepts/sign-problem-for-conscious-observation` (the deferred `sign-problem` -> `multi-agent` item needs prose, not a link: the two-parameter obligation at its L83 has no N>1 form, and stating one would be an argumentative addition).
+- **Length**: +58 / +17 / +23 / +20 words. quantum-completeness 3176->3234 (265 to hard), local-tomography 2860->2877 (622), sorkin 2159->2182 (1317), multi-agent 2619->2639 (1360). All within budget; `improper` unchanged at 3287.
+- **Link form**: piped, because `convert_wikilinks` sets display text from the target's last path segment rather than the article title, so a bare `[[slug]]` would render these long slugs raw in a Further Reading list. All four target slugs are collision-free across `obsidian/` and `archive/`, so bare targets resolve through the validated content index; sync confirmed correct section-qualified URLs in both trees.
+- **Attribution**: `ai_modified` bumped on the four edited files only; `last_deep_review` not advanced anywhere (link-only pass, not a review).
+- **Published**: yes
 
 ## 2026-09-20T22:56:34+00:00 - refine-draft
 - **Status**: Success
