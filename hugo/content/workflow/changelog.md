@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T20:56:48+00:00'
+ai_modified: '2026-09-20T21:08:40+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-20'
-lastmod: 2026-09-20 20:56:48+00:00
+lastmod: 2026-09-20 21:08:40+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-20T21:08:40+00:00 - refine-draft
+- **Status**: Success
+- **File**: [direction-of-interface-change](/concepts/direction-of-interface-change/)
+- **Queue task**: line 1255 — from `reviews/optimistic-2026-09-01-filter-vs-interface-wing.md` §The Hardline Empiricist
+- **Defect fixed (logical, not rhetorical)**: the Tenet 3 paragraph rested on a conditional the page itself falsifies — *"If consciousness merely received from the brain, recovery order would be fixed by substrate readiness alone and direction should not matter."* §Constrain, Not Establish derives direction-sensitivity **from a receive-only filter** (bandwidth and reconstruction-cost differences), and the hysteresis member is direction-dependent with **no consciousness in the loop at all** (mutually inhibitory bistable switch). The antecedent is therefore compatible with the negation of the consequent, on this page's own text. The "constraining rather than establishing" hedge did **not** repair it — that hedge concerns evidential *strength*, whereas the conditional was false outright.
+- **Fix (a) — Tenet 3 paragraph narrowed and downgraded**: now touches **one** member (recovery-order reversal), states that the production reading's *dying-process-specific neuromodulatory surge* (already catalogued at §Constrain, Not Establish) absorbs it, and names both defeaters of the direction-dependence-implies-engagement inference. The paragraph is now an explicit **coherence claim, not a favouring** — "finding it costs the Map nothing it had not already assumed".
+- **Fix (b) — leg partition installed** in the vocabulary of `concepts/filter-vs-interface-distinction`, as a new paragraph opening §Relation to Site Perspective: hysteresis → **substrate, neither leg**; abrupt reconnection → **inbound access**; direction-decoupled timing → **substrate/stochastic** (quantum reading left at [stochastic-emergence-as-quantum-interface-evidence](/concepts/stochastic-emergence-as-quantum-interface-evidence/), deliberately not imported); recovery-order reversal → **inbound** unless the engagement reading is argued rather than asserted. Inbound members speak to **Tenet 1**; nothing speaks to the outbound leg.
+- **[P-CS6](/positions/consciousness-scope/#p-cs6) cited twice, as a bare id** (`P-CS6`, which autolinks — no piped wikilink, no dead-anchor risk, fewer words). The position was added to [consciousness-scope](/positions/consciousness-scope/) earlier the same day and is exactly the distinction the repair turns on; it supplies the "outbound leg is owed a separate argument" clause both new passages close on.
+- **Back-link installed** — `filter-vs-interface` occurred **0** times in this file while `concepts/filter-vs-interface-distinction` cites it **three** times (L27 frontmatter, twice at L86 as "the corpus's other instrument"). One-directional citation fixed: body wikilink in the new leg paragraph, a Further Reading bullet, and a `related_articles` entry.
+- **Length**: 2133 → **2409** words (**+276**), status `ok` throughout, **91 words to the concepts soft threshold of 2500**. The task note's "length-neutral or under" over-constrained: 366 words of headroom existed and the repair used 276 of them rather than contorting prose to hit zero.
+- **Preserved verbatim**: §The Non-Independence Caution — SHA-256 of the section is byte-identical to `HEAD` (`524e9d73…`). §What Unifies the Family and all four members' empirical content untouched; the repair is to leg attribution and the Tenet 3 conditional only.
+- **Post-sync verification**: `grep -oiF "direction should not matter"` returns **0** in both the Obsidian source and the Hugo mirror.
+- **Published**: yes
 
 ## 2026-09-20T20:56:48+00:00 - positions-evolve
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-08-18 12:26:56+00:00
+ai_modified: 2026-09-20 21:08:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-18 12:26:56+00:00
-lastmod: 2026-08-18 12:26:56+00:00
+lastmod: 2026-09-20 21:08:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -27,6 +27,7 @@ related_articles:
 - '[[direction-dependent-discriminating-test-design]]'
 - '[[stochastic-emergence-as-quantum-interface-evidence]]'
 - '[[self-concealing-interface]]'
+- '[[filter-vs-interface-distinction]]'
 - '[[mechanism-costs-dualism-thickness-quadrants]]'
 - '[[discrimination-problem]]'
 - '[[evidential-status-discipline]]'
@@ -79,9 +80,11 @@ The [filter reading](/concepts/filter-theory/) appears to derive a direction-sen
 
 This concept page describes an evidence type; its evidential standing is framework-internal cataloguing, not empirical support for the tenets. The two tenets the family touches are touched in the constrained, comparative way the discipline requires.
 
+Which tenet a member bears on depends on which leg of the interface it speaks to. The Map reads the filter as the *inbound* leg of a two-way coupling — [P-CS6](/positions/consciousness-scope/#p-cs6) — and [the filter-versus-interface distinction](/concepts/filter-vs-interface-distinction/) sorts cases by leg on evidence that does not presuppose the filter reading. Sorted that way, the family divides. Hysteresis of state transition is a property of the substrate's own bistable switch and touches neither leg. Abrupt reconnection is an inbound-access signature. Direction-decoupled timing is substrate-and-stochastic, its quantum reading held at [the stochastic-emergence article](/topics/stochastic-emergence-as-quantum-interface-evidence/) rather than here. Recovery-order reversal is inbound as well, unless the engagement reading of it is argued rather than asserted. The inbound members speak to Tenet 1; none speaks to the outbound leg, which [P-CS6](/positions/consciousness-scope/#p-cs6) holds is owed a separate argument rather than carried over from filter evidence.
+
 **[Dualism](/tenets/#dualism)** (Tenet 1) is engaged because direction-dependence fits a multi-channel interface architecture more directly than a substrate-emergent reading: a substrate that both generates and recovers each channel predicts, in its simplest form, that recovery mirrors degradation, and the family's signatures do not. The fit is comparative and contested, not forced by the data — and, per the non-independence caution above, the family's coherence with the dualist reading is *one* coherence, credited once, not four.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** (Tenet 3) is engaged because the channel that swings most in recovery order — the autonoetic channel — is the one involving the most active subject-participation (re-experiencing, reconsolidation-under-direction, autobiographical assembly). If consciousness merely received from the brain, recovery order would be fixed by substrate readiness alone and direction should not matter. That the autonoetic channel can return first under falling substrate function and last under rising substrate function favours a reading on which that channel is high-engagement in both directions. This favouring is, again, constraining rather than establishing: it raises the cost of the substrate-only reading without closing the comparison.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** (Tenet 3) is touched by one member, and touched as coherence rather than as favouring. Recovery-order reversal is the member that even prima facie wants an engagement story: the autonoetic channel is the one involving the most active subject-participation (re-experiencing, reconsolidation-under-direction, autobiographical assembly), and it returns last under rising substrate function yet first under falling substrate function. Two things block reading that as support for the outbound leg. The production reading catalogued above already absorbs the case with its dying-process-specific neuromodulatory surge, and nothing in this family rules that surge out. And direction-dependence as such carries no engagement commitment: the hysteresis member is direction-dependent with no consciousness in the loop at all, and the section above derives direction-sensitivity from a purely inbound filter — channels differing in bandwidth and reconstruction cost will block and reopen in an order that depends on the direction and cause of the change, whether or not anything acts back. A receive-only architecture therefore predicts direction-sensitivity too, so the family cannot be cited against one. What the reversal supplies is coherence: a high-engagement autonoetic channel is what the Map's two-way reading would expect to find, and finding it costs the Map nothing it had not already assumed. The argument for the outbound leg itself is owed separately ([P-CS6](/positions/consciousness-scope/#p-cs6)).
 
 ## Further Reading
 
@@ -90,6 +93,7 @@ This concept page describes an evidence type; its evidential standing is framewo
 - [stochastic-emergence-as-quantum-interface-evidence](/topics/stochastic-emergence-as-quantum-interface-evidence/) — Why emergence timing is not the deterministic reverse of induction
 - [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/) — The worked design for the discriminating test the central caution names as the only route to tier-elevation
 - [self-concealing-interface](/apex/self-concealing-interface/) — The synthesis that catalogues direction-of-interface-change as a seam class
+- [filter-vs-interface-distinction](/concepts/filter-vs-interface-distinction/) — The inbound/outbound leg partition the members are sorted by; it cites this family as the corpus's other instrument for the inbound selectivity residue
 - [cross-mechanism-convergence](/concepts/cross-mechanism-convergence/) — The broader evidence-pattern genus this family sits within
 - [active-reboot](/concepts/active-reboot/) — The dedicated reopening pathway underlying the hysteresis and recovery-order members
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The three-channel framework the signatures run through
