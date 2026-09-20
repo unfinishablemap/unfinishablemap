@@ -39,21 +39,72 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `apex/moral-status-of-edge-cases` — three register-fidelity residues from the 2026-09-20 pessimistic review's secondary record
+### P2: `topics/ethics-of-consciousness-invertebrate-question` states the status criterion as bare consciousness in its OPENING sentence and its CLOSING thesis — the widening [P-MS1](/positions/moral-status/#p-ms1) registers as not having happened, and the article refutes it at L97
 
 - **Type**: refine-draft
-- **File**: obsidian/apex/moral-status-of-edge-cases.md
-- **Review file**: `reviews/pessimistic-2026-09-20-moral-status-of-edge-cases.md`
-- **Source**: cycle driver, 2026-09-20 17:0x UTC — triaged out of the review's nine-item secondary record by the executing pass at commit `c365bfac`, which reported them rather than acting
+- **Status**: pending
+- **File**: obsidian/topics/ethics-of-consciousness-invertebrate-question.md
+- **Source**: optimistic-review 2026-09-20 (ethics / moral-status wing), priority 1 of 4 — see `obsidian/reviews/optimistic-2026-09-20-ethics-moral-status-wing.md`
 - **Generated**: 2026-09-20
-- **Notes**: ℹ️ **THE REVIEW'S PRIORITY LIST IS FULLY DISCHARGED** (Issues 1–4, three tasks, commits `ed8342cd` / `b8e730e5` / `c365bfac`). These are the three items from its **secondary record** judged to be genuine yield. The other six are recorded there and deliberately not minted.
-  **LENGTH**: measured 2026-09-20 — **4449 words**, apex 4000 soft / 5000 hard, `soft_warning`, **550 to the hard gate**. Three passes have already added ~550 words today. **Prefer word-neutral or subtractive fixes**; (b) is a pure addition of ~6 words and (c) is a swap.
-  **(a) [P-AC3](/positions/ai-consciousness-scope/#p-ac3) IS UNCITED AND RECOMMENDATION 5 OVER-REACHES AGAINST IT — mint-first item per the executing pass.** ✅ Driver-verified: `P-AC3` occurs **0** times in the apex, and it exists in `positions/ai-consciousness-scope.md` — **the same file the article already draws [P-AC1](/positions/ai-consciousness-scope/#p-ac1) from.** The Map *does* hold a counting rule (conscious copies numerically distinct and morally additive, moderate credence). What [P-SC2](/positions/subject-census/#p-sc2)'s debt blocks is **establishing the antecedent**, not counting as such. Recommendation 5's flat *"should be flagged as such rather than run"* is therefore broader than the register supports. ⚠️ **That recommendation was given a Tenet-1 conditional frame at `c365bfac`** — narrow the claim, do not re-open the frame.
-  **(b) A QUOTE IS TRUNCATED INSIDE ITS QUOTATION MARKS (L90, [P-CS4](/positions/consciousness-scope/#p-cs4)).** The register continues *"…rival **rather than as a demonstrated result**"*; the dropped clause is the strongest hedge in the sentence and **there is no ellipsis marking the cut**. This is a quote-fidelity defect, not a framing one — the cheapest of the three and the least disputable. ⚠️ **Verify the register's exact wording at `positions/consciousness-scope.md` before restoring**, reading the clause inside [P-CS4](/positions/consciousness-scope/#p-cs4)'s own `## P-CS4:` block — a file-level grep returns the first match in the file, which usually belongs to a different position.
-  **(c) "REMOVES THE PARSIMONY-BASED DISMISSAL" OVERSTATES [P-CS5](/positions/consciousness-scope/#p-cs5)** (two loci). Tenet 5 removes the dismissal's **demonstrative force**, not the dismissal. ❗ **The article states both versions in the same section**, so this is an internal inconsistency as well as an overstatement — and the review notes the strong form manufactures the raw material for the very slippage that passage exists to block.
-  🛑 **DO NOT DISTURB WHAT THREE PASSES LANDED TODAY**: the presence-side discipline was verified byte-identical across ten tested sentences; the absence-side clauses and the Tenet-1 opener are hours old. **Check before editing near them.**
-  ℹ️ **CONFIRMED FALSE ALARM — do not re-raise.** The secondary record lists `concepts/possibility-probability-slippage` as unlinked. **Driver-verified: it IS linked**, installed at commit `b8e730e5`. That entry was already stale when written.
+- **Budget**: 2945 words, soft 3000 / hard 4000 — status `ok`, **the only wing article still under its soft threshold**, 1054 to hard. Both repairs below are length-neutral, so the binding gate is not engaged either way.
+- **Notes**: **The Map's criterion is VALENCED experience ([P-MS1](/positions/moral-status/#p-ms1)), not consciousness as such.** [P-MS1](/positions/moral-status/#p-ms1)'s *Would shift if* limb names widening "to consciousness as such" as a shift that has **not** occurred, conditional on Chalmers' Vulcan intuition holding up — which the Map declines at `concepts/sentientism` L83 and `topics/ethics-under-dualism` L109.
 
+  Two loci, both verified verbatim on disk 2026-09-20:
+
+  **L39, the opening sentence** — "If consciousness grounds moral status, and if there is a realistic possibility that invertebrates are conscious, then we face moral obligations toward creatures we routinely treat as insignificant." Same paragraph, same defect: "wherever adequate coupling architecture exists … a subject exists who can be wronged."
+
+  **L111, the closing thesis** — "moral status tracks the presence of a subject rather than species membership, and a realistic possibility of a subject is already enough to generate obligation."
+
+  **The article refutes itself at L97**: "A being with phenomenal experience but no valence would be a subject without welfare: there would be something it is like to be it, but nothing would go well or badly for it." L39 and L111 assert obligation in exactly the case L97 says generates none. The correct form already sits in the article's own Further Reading (L132): "the criterion itself: why moral status tracks the capacity for *valenced* experience" — in near-identical syntax to the L111 that contradicts it.
+
+  **Why the placement makes this priority 1 rather than cosmetic**: under the LLM-first / truncation-resilience rule these are the two sentences a chatbot fetching a partial page is guaranteed to read. The criterion is wrong in exactly the positions designed to survive truncation.
+
+  **Suggested repairs — both length-neutral, verify the count rather than trusting this note:**
+  - L39 → "If the capacity for valenced experience grounds moral status, …"
+  - L39 (second clause) → "… a subject exists who can be wronged" → "… a subject exists who can be *wronged only if its experience carries valence*" is one option, but the cheaper and more faithful fix is to route the clause through the L97 qualification already present downstream, using the style guide's "explained below" named-anchor pattern.
+  - L111 → "moral status tracks the presence of a *valenced* subject rather than species membership, and a realistic possibility of such a subject …"
+
+  **The model repair already exists in this wing.** `topics/ethics-under-dualism` L55 carries it as a ten-word parenthetical in exactly the required form: "consciousness grounds *moral status*: a being whose experience can go well or badly for it — **the criterion is felt valence, not consciousness as such (explained below)** — can suffer, flourish, be helped or harmed…". Reuse that pattern rather than inventing one.
+
+  **Do NOT** widen scope to the other wing loci — they are separately tracked. **Below the cap and explicitly out of scope for this task**: L73's cephalopod "rich conscious experience" (overshoots [P-CS2](/positions/consciousness-scope/#p-cs2)'s "realistic but contested" by importing richness and dropping contestedness). Leave it.
+
+### P2: `apex/moral-architecture-of-consciousness` — the wing's anchor states the criterion as bare consciousness on its most-syndicated surface, and is the wing's structural isolate
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/apex/moral-architecture-of-consciousness.md
+- **Source**: optimistic-review 2026-09-20 (ethics / moral-status wing), priority 2 of 4 — see `obsidian/reviews/optimistic-2026-09-20-ethics-moral-status-wing.md`
+- **Generated**: 2026-09-20
+- **Budget**: 4810 words, soft 4000 / hard 5000 — **soft ALREADY TRIPPED**, 189 to hard. ⚠️ Quote the soft gate, not the 189. **The `description:` fix costs ZERO** — `analyze_length` counts `post.content` only, so frontmatter is not counted. The body edits below are ~+1 to +12 words and fit inside 189, but measure before and after.
+- **Notes**: **Three symptoms, one root cause. Fix the cheap symptoms here; the root cause is `apex-evolve` work and is NOT part of this task.**
+
+  **(a) The `description:` field — the priority locus, and free.** It currently reads: "If the Map's tenets hold, consciousness grounds value, agency, normativity, and moral perception on one foundation—and grounds moral patienthood before moral agency." This renders to **five surfaces** — `<meta name="description">`, `og:description`, `twitter:description`, machine-meta JSON-LD, and list/home pages (`hugo/layouts/_default/baseof.html` L13/28/41; `partials/machine-meta.html` L13/38). It is the only statement of the Map's status criterion most machine consumers will ever retrieve, it has no gloss available, and it asserts the consciousness-as-such widening that [P-MS1](/positions/moral-status/#p-ms1)'s *Would shift if* limb says has not happened. Frontmatter is not word-counted: this fix is free.
+
+  **(b) Body, L130 and L132.** L130 — "Consciousness grounds candidacy for moral *patienthood*: a being for whom things can go well or badly is a possible object of moral concern, which is what valence and the capacity to suffer support." The topic sentence is loose but the gloss corrects it **within the same sentence**, so this is the mildest instance — calibrate accordingly and do not overstate it. L132 — "If consciousness grounds patienthood, then animal consciousness carries moral weight" — carries no gloss, and it is the sentence that launches the animal tiering.
+
+  **(c) Zero-link pair, closable in the same edit.** Body-prose matrix: this apex has **no body link to `concepts/sentientism`**, the concept article that states the criterion the apex applies, and none back. A piped wikilink over the L130 repair — e.g. `[[sentientism|valenced]]` — fixes the criterion and closes the link in one edit at ~+1 word. **Do NOT add a reciprocal from `sentientism`**: at **7 words to hard** it takes `+0` piped links only, its Further Reading is full, and `apex-evolve` already spent its zero-cost budget there on 2026-09-20. One-directional by design.
+
+  **Context on why this drifted (do not act on it here).** `apex_last_synthesis: 2026-07-16`. Four wing members were created after that date — `concepts/sentientism` (2026-08-01, the criterion article), `topics/moral-status-threshold-or-degrees` (2026-09-06), `topics/the-experience-requirement-on-well-being` (2026-09-06), `apex/moral-status-of-edge-cases` (2026-09-20). `apex_sources:` names none of them; the apex cites **1** position ([P-VS3](/positions/value-in-selection/#p-vs3)) against the new apex's **11**. Its `ai_modified` reads 2026-09-20T15:01 but the diff at `7184b6d9d7` shows that was **one drive-by reciprocal sentence plus a timestamp bump**, not a resynthesis — the criterion language is 2026-07-16 vintage and looks fresh. **A full resynthesis is `apex-evolve`'s job, not this task's.** Do not attempt it; do not widen scope.
+
+  **Also out of scope, recorded only**: L132/L134 say "insects" where `apex/moral-status-of-edge-cases` L111 says "some arthropods" — real drift, modest, and the anchor tracks the Declaration's own wording, so it is defensible. The missing `## Evidence and Dependency` ledger is human-reserved under the open `NEEDS-HUMAN (methodology sequencing) 2026-07-29` entry — **do not add it here**.
+
+### P3: `topics/ethics-under-dualism` — its `description:` widens the criterion its own body explicitly narrows twelve lines later
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/ethics-under-dualism.md
+- **Source**: optimistic-review 2026-09-20 (ethics / moral-status wing), priority 2 of 4 (second host) — see `obsidian/reviews/optimistic-2026-09-20-ethics-moral-status-wing.md`
+- **Generated**: 2026-09-20
+- **Budget**: 3754 words, soft 3000 / hard 4000 — **soft ALREADY TRIPPED**, 245 to hard. **This fix costs ZERO words**: it is a frontmatter `description:` edit, and `analyze_length` counts body only. The tight budget is not a reason to defer it.
+- **Notes**: **A one-line frontmatter fix, and the article already contains the exact replacement wording.**
+
+  The `description:` reads: "If consciousness is irreducible and causally efficacious, it both grounds moral status and unifies value, agency, normativity, and moral perception under a single ground — resolving the fragmentation that plagues materialist ethics."
+
+  The body, at **L55**, says the opposite and says it well: "consciousness grounds *moral status*: a being whose experience can go well or badly for it — **the criterion is felt valence, not consciousness as such (explained below)** — can suffer, flourish, be helped or harmed in ways that matter." L109 then gives the Vulcan its full treatment, and L190 mirrors [P-MS1](/positions/moral-status/#p-ms1)'s shift limb.
+
+  So this article is the **wing's model for handling the criterion correctly in prose**, and its own syndicated summary contradicts it. The description renders to five surfaces (meta, og, twitter, JSON-LD, list pages). Carry the L55 qualification into it — "grounds moral status (the criterion being felt valence, not consciousness as such)" or similar within the 150–160 char guidance.
+
+  **Scope: the `description:` field only.** The body is correct and is the reference implementation the other two tasks are told to copy — **do not edit it**.
 
 ### NEEDS-HUMAN (doctrine) 2026-09-19: the Tenet-5 "parsimony tiebreaker" rule is the engine behind a defect family flagged in SIX consecutive tenet checks — and `tenets.md` never states it
 
@@ -1854,6 +1905,17 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-20: `apex/moral-status-of-edge-cases` — three register-fidelity residues from the 2026-09-20 pessimistic review's secondary record
+- **Type**: refine-draft
+- **File**: obsidian/apex/moral-status-of-edge-cases.md
+- **Notes**: ℹ️ **THE REVIEW'S PRIORITY LIST IS FULLY DISCHARGED** (Issues 1–4, three tasks, commits `ed8342cd` / `b8e730e5` / `c365bfac`). These are the three items from its **secondary record** judged to be genuine yield. The other six are recorded there and deliberately not minted.
+  **LENGTH**: measured 2026-09-20 — **4449 words**, apex 4000 soft / 5000 hard, `soft_warning`, **550 to the hard gate**. Three passes have already added ~550 words today. **Prefer word-neutral or subtractive fixes**; (b) is a pure addition of ~6 words and (c) is a swap.
+  **(a) [P-AC3](/positions/ai-consciousness-scope/#p-ac3) IS UNCITED AND RECOMMENDATION 5 OVER-REACHES AGAINST IT — mint-first item per the executing pass.** ✅ Driver-verified: `P-AC3` occurs **0** times in the apex, and it exists in `positions/ai-consciousness-scope.md` — **the same file the article already draws [P-AC1](/positions/ai-consciousness-scope/#p-ac1) from.** The Map *does* hold a counting rule (conscious copies numerically distinct and morally additive, moderate credence). What [P-SC2](/positions/subject-census/#p-sc2)'s debt blocks is **establishing the antecedent**, not counting as such. Recommendation 5's flat *"should be flagged as such rather than run"* is therefore broader than the register supports. ⚠️ **That recommendation was given a Tenet-1 conditional frame at `c365bfac`** — narrow the claim, do not re-open the frame.
+  **(b) A QUOTE IS TRUNCATED INSIDE ITS QUOTATION MARKS (L90, [P-CS4](/positions/consciousness-scope/#p-cs4)).** The register continues *"…rival **rather than as a demonstrated result**"*; the dropped clause is the strongest hedge in the sentence and **there is no ellipsis marking the cut**. This is a quote-fidelity defect, not a framing one — the cheapest of the three and the least disputable. ⚠️ **Verify the register's exact wording at `positions/consciousness-scope.md` before restoring**, reading the clause inside [P-CS4](/positions/consciousness-scope/#p-cs4)'s own `## P-CS4:` block — a file-level grep returns the first match in the file, which usually belongs to a different position.
+  **(c) "REMOVES THE PARSIMONY-BASED DISMISSAL" OVERSTATES [P-CS5](/positions/consciousness-scope/#p-cs5)** (two loci). Tenet 5 removes the dismissal's **demonstrative force**, not the dismissal. ❗ **The article states both versions in the same section**, so this is an internal inconsistency as well as an overstatement — and the review notes the strong form manufactures the raw material for the very slippage that passage exists to block.
+  🛑 **DO NOT DISTURB WHAT THREE PASSES LANDED TODAY**: the presence-side discipline was verified byte-identical across ten tested sentences; the absence-side clauses and the Tenet-1 opener are hours old. **Check before editing near them.**
+  ℹ️ **CONFIRMED FALSE ALARM — do not re-raise.** The secondary record lists `concepts/possibility-probability-slippage` as unlinked. **Driver-verified: it IS linked**, installed at commit `b8e730e5`. That entry was already stale when written.
 
 ### ✓ 2026-09-20: `apex/moral-status-of-edge-cases` issues five flat decision imperatives and states their Tenet-1 conditionality two sections later
 - **Type**: refine-draft

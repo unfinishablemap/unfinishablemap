@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T17:44:00+00:00'
+ai_modified: '2026-09-20T17:53:36+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-20T17:53:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/ethics-of-consciousness-invertebrate-question]]
+- **Task**: P2 from [[reviews/optimistic-2026-09-20-ethics-moral-status-wing]] — criterion drift in the two truncation-surviving sentences
+- **Changes**: (1) Opening sentence (L39) restated from "If consciousness grounds moral status... realistic possibility that invertebrates are conscious" to "If the capacity for valenced experience grounds moral status... realistic possibility that invertebrates have such experience". (2) Same paragraph's coupling clause qualified: "a subject exists who can be wronged" -> "...who can be wronged if its experience is valenced (explained below)", using the style guide's named-anchor forward-reference form modelled on `topics/ethics-under-dualism` L55. (3) Closing thesis (L111) restated to "moral status tracks the capacity for valenced experience rather than species membership, and a realistic possibility of such experience is already enough to generate obligation" — now verbatim-consistent with the Further Reading gloss on [[sentientism]].
+- **Self-refutation closed**: L39 and L111 previously asserted obligation in exactly the case L97 says generates none (a subject with phenomenal experience but no valence has no welfare). L97 and the Further Reading line untouched.
+- **Calibration**: narrowing the criterion only; the precautionary stance and the obligation claim are unweakened. No hedging added to the obligation itself.
+- **Length**: 2945 -> 2957 words (+12), status `ok` both before and after; 42 words of headroom remain below the 3000 soft threshold. Did not trip soft.
+- **Scope held**: L73's cephalopod "rich conscious experience" left alone (fenced below-cap by the review); no sibling wing articles and no `positions/` entries touched.
+- **Published**: yes
 
 ## 2026-09-20T17:44:00+00:00 - optimistic-review
 - **Status**: Success
