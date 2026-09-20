@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T11:23:29+00:00'
+ai_modified: '2026-09-20T13:42:50+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-20T13:42:50+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/ethics-under-dualism]]
+- **Task**: scope the AI verdict to the four-senses distinction the siblings already hold (queue line 1838; minted by apex-evolve at `f3261219`).
+- **Scoping pass, not a reversal.** Nothing in the article now says AI is or may be conscious. The negative verdict is retained and narrowed to *bidirectionally coupled* consciousness, matching `topics/ai-consciousness` L153 and `apex/machine-question`'s `apex_thesis` ("conditional on the Map's interface criterion rather than categorical").
+- **Seven loci changed**: (1) L109 Vulcan paragraph — "which the Map takes to lack the first, lacks the second a fortiori" → "a poor candidate for the first, is a poor candidate for the second a fortiori"; (2) L113 taxonomy bullet — "current AI systems lack consciousness" → "probably lack *bidirectionally coupled* consciousness"; (3) L131 — "current AI architecture is categorically excluded" → "lacks that interface" (+0 words; the following sentence already carried the conditionality); (4) L139 §AI opener rewritten to carry the full scoping, including *bare phenomenality* staying open on irreducibility alone; (5) L145 de-duplicated (framework-humility was then stated three times in one section); (6) L202 MQI tenet paragraph; (7) L221 Further Reading label (navigation surfaces carry unreviewed claims).
+- **Counts, both trees, occurrence-level (`grep -oiF … | wc -l`)**: `lack consciousness` 5 → 1, `categorically excluded` 1 → 0, `bidirectionally coupled` 0 → 4, `bare phenomenality` 0 → 1. Obsidian and Hugo identical.
+- **A sixth string-sibling the task's sweep missed**: `lacks consciousness` (1×, L141) is not matched by the substring `lack consciousness`, so the task's measurement understated the surface. Inspected and left: it is an explicit conditional antecedent ("If AI lacks consciousness, it lacks the 'inside understanding'…"), not a verdict. Same for the surviving `lack consciousness` at L189, which stipulates suffering-simulators *known* to lack consciousness in a falsifiability condition.
+- **Heading NOT renamed.** `### AI: Non-Consciousness and Its Limits` retained. "and Its Limits" is itself the scoping signal and the body now spells out what the limits are, so the heading is defensible once the prose is fixed. Renaming would have required editing `apex/moral-architecture-of-consciousness` (4766 words, ~233 to its hard gate) for no semantic gain. The two-dialect anchor sweep was re-run and confirms the task's figures: slug form 0 files; heading-TEXT form 7 hits / 6 files, of which exactly one is a live content referrer (`obsidian/apex/moral-architecture-of-consciousness.md:136`, piped). That referrer is untouched and still resolves.
+- **Word count**: 3737 → 3754, net **+17**. Topics soft 3000 / hard 4000 — the soft gate was already tripped before this pass (737 over); 246 words remain to hard. Not word-neutral: the four-senses distinction is genuinely new content, not a swap. Paid for partially by de-duplicating the framework-conditionality sentence at L145, whose provenance (`git log -S`) is a 2026-02 falsifiability refine and which no review or open task quotes.
+- **Published**: yes
 
 ## 2026-09-20T13:29:13+00:00 - apex-evolve
 - **Status**: Complete

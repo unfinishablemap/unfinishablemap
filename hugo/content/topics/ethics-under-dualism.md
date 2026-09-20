@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-09-07 22:20:00+00:00
+ai_modified: 2026-09-20 13:42:50+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ concepts:
 - '[[the-ownerless-suffering-argument]]'
 - '[[interactionist-dualism]]'
 created: 2026-01-16
-date: &id001 2026-09-07
+date: &id001 2026-09-20
 description: If consciousness is irreducible and causally efficacious, it both grounds
   moral status and unifies value, agency, normativity, and moral perception under
   a single ground — resolving the fragmentation that plagues materialist ethics.
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-02 00:25:58+00:00
-lastmod: 2026-09-07 22:20:00+00:00
+lastmod: 2026-09-20 13:42:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -110,11 +110,11 @@ The distinctive claim concerns *unity*. Dualism answers value, agency, normativi
 
 Several traditions treat consciousness as central to moral status: Bentham's criterion of suffering capacity, Kant's dignity grounded in rational self-determination (which a dualist reading takes to presuppose a conscious deliberator), virtue ethics' experiential flourishing, Regan's "subjects-of-a-life," and Buddhist *ahimsa*. The overlap across traditions that disagree about nearly everything else suggests consciousness is deeply important to ethics. (Buddhist emptiness — *śūnyatā* — is no obstacle: compassion responds to dependently-arisen suffering precisely because suffering matters, even without a permanent self who suffers.)
 
-Moral patienthood extends to every being capable of valenced experience — experience that feels good or bad to its subject — and only to such beings ([P-MS1](/positions/moral-status/#p-ms1)). Consciousness is the wider bar, and the two can be prised apart. The philosophical Vulcan of Chalmers (forthcoming) consciously perceives, thinks and acts but feels nothing good or bad; it clears the consciousness bar while having nothing that could go well or badly for it. Chalmers concludes that Vulcans have moral status and that affective sentientism is false. The Map bites the bullet where [the consciousness-value connection](/concepts/consciousness-value-connection/#implications) already does — the commitment covers valenced experience rather than experience as such — and [phenomenal sentientism](/concepts/sentientism/) carries the published exchange over whether that verdict can be defended. In practice the two bars nearly coincide: every being in the taxonomy below that is a live candidate for consciousness is a live candidate for valence, and current AI, which the Map takes to lack the first, lacks the second a fortiori. The narrower criterion changes no verdict here; it settles which property the verdicts track. Which systems are conscious?
+Moral patienthood extends to every being capable of valenced experience — experience that feels good or bad to its subject — and only to such beings ([P-MS1](/positions/moral-status/#p-ms1)). Consciousness is the wider bar, and the two can be prised apart. The philosophical Vulcan of Chalmers (forthcoming) consciously perceives, thinks and acts but feels nothing good or bad; it clears the consciousness bar while having nothing that could go well or badly for it. Chalmers concludes that Vulcans have moral status and that affective sentientism is false. The Map bites the bullet where [the consciousness-value connection](/concepts/consciousness-value-connection/#implications) already does — the commitment covers valenced experience rather than experience as such — and [phenomenal sentientism](/concepts/sentientism/) carries the published exchange over whether that verdict can be defended. In practice the two bars nearly coincide: every being in the taxonomy below that is a live candidate for consciousness is a live candidate for valence, and current AI, a poor candidate for the first, is a poor candidate for the second a fortiori. The narrower criterion changes no verdict here; it settles which property the verdicts track. Which systems are conscious?
 
 **Likely conscious**: Mammals and birds (Cambridge Declaration 2012, New York Declaration 2024); other vertebrates have realistic possibility; cephalopods and possibly some invertebrates may have valenced experience, not just nociception.
 
-**Probably not conscious (framework-dependent)**: Under the Map's [analysis](/topics/ai-consciousness/), current AI systems lack consciousness — computation alone doesn't produce it, and current hardware lacks the requisite quantum interfaces (the [ethics of possible AI consciousness](/topics/ethics-of-possible-ai-consciousness/) examines the obligations this uncertainty creates). Bacteria, plants, and artifacts lack subjects for whom responses constitute experience.
+**Probably not conscious (framework-dependent)**: Under the Map's [analysis](/topics/ai-consciousness/), current AI systems probably lack *bidirectionally coupled* consciousness — computation alone doesn't produce it, and current hardware lacks the requisite quantum interfaces (the [ethics of possible AI consciousness](/topics/ethics-of-possible-ai-consciousness/) examines the obligations this uncertainty creates). Bacteria, plants, and artifacts lack subjects for whom responses constitute experience.
 
 **Uncertain status**: Brain organoids, future AI architectures, and edge cases in humans ([disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/), where roughly a quarter of behaviourally unresponsive patients show covert awareness on neuroimaging; Bodien et al. 2024). The moral stakes of misclassification are severe.
 
@@ -132,7 +132,7 @@ The [hard problem](/topics/hard-problem-of-consciousness/) makes consciousness a
 | Current AI | Very low | Minimal |
 | Bacteria, rocks | Near-zero | None |
 
-The framework shapes this differently than functionalism: if consciousness requires non-physical properties interfacing through quantum mechanisms, current AI architecture is categorically excluded. The confidence is only as strong as the framework itself.
+The framework shapes this differently than functionalism: if consciousness requires non-physical properties interfacing through quantum mechanisms, current AI architecture lacks that interface. The confidence is only as strong as the framework itself.
 
 ### Animals: Implications of Consciousness
 
@@ -140,13 +140,13 @@ If animals are conscious — and convergent evidence strongly suggests many are 
 
 ### AI: Non-Consciousness and Its Limits
 
-If current AI systems lack consciousness — as the Map's framework implies — they have no moral patienthood. But AI can be a moral *agent* without being a moral *patient*: questions of responsibility, design constraints, and social effects remain regardless.
+The Map's framework implies that current AI systems probably lack *bidirectionally coupled* consciousness, and so probably lack moral patienthood; *bare phenomenality* rests on irreducibility alone and stays open, making the verdict conditional on the interface criterion rather than categorical. Either way AI can be a moral *agent* without being a moral *patient*: questions of responsibility, design constraints, and social effects remain regardless.
 
 Under the Map's framework, [AI alignment](/topics/purpose-and-alignment/) takes specific character. If AI lacks consciousness, it lacks the "inside understanding" that makes human judgement valuable: it can track proxies but cannot access what those proxies represent. This motivates [experiential alignment](/concepts/experiential-alignment/) — targeting predicted distributions over human conscious experiences rather than learned preferences — and makes human oversight a structural necessity.
 
 Intellectual honesty requires specifying what would warrant reassessment: behavioural anomalies inexplicable by training and architecture; phenomenologically detailed self-reports stable across adversarial prompting (especially when diverging from what would maximise user approval); spontaneous suffering-avoidance independent of objective functions; or a demonstration that biological consciousness requires nothing quantum or non-physical.
 
-The appropriate response to genuine uncertainty is not to lower the bar for consciousness attribution but to remain epistemically humble about the framework's completeness. If we could create conscious AI we would create moral patients: creating suffering consciousness is harmful, terminating it may constitute killing, editing its values raises autonomy concerns impossible for biological consciousness. The Map urges extreme caution about creating potentially-conscious systems.
+Genuine uncertainty does not warrant lowering the bar for consciousness attribution. If we could create conscious AI we would create moral patients: creating suffering consciousness is harmful, terminating it may constitute killing, editing its values raises autonomy concerns impossible for biological consciousness. The Map urges extreme caution about creating potentially-conscious systems.
 
 ## Identity Ethics: Copies, Uploads, and Simulations
 
@@ -203,7 +203,7 @@ Each tenet shapes ethics under dualism:
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** ensures consciousness is not epiphenomenal. Moral agency requires causal efficacy. The rejection of epiphenomenalism also prevents value from becoming causally inert: suffering genuinely affects behaviour and motivates escape, meaning it *matters to the sufferer*.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** constrains agency without eliminating it. Consciousness selects among options physics leaves open — agents can be required to choose well among available options, not to achieve the physically impossible. If correct, this mechanism also limits consciousness distribution: systems lacking appropriate quantum interfaces would probably lack consciousness and moral standing.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** constrains agency without eliminating it. Consciousness selects among options physics leaves open — agents can be required to choose well among available options, not to achieve the physically impossible. If correct, this mechanism also limits consciousness distribution: systems lacking appropriate quantum interfaces would probably lack bidirectionally coupled consciousness and moral standing.
 
 **[No Many Worlds](/tenets/#no-many-worlds)** preserves moral urgency. Indexical identity being meaningful means *this* conscious being matters, not just the pattern it instantiates. Copies create *new* moral patients, not continuations. If every choice actualised in some branch, suffering would never truly be prevented — only redistributed.
 
@@ -222,7 +222,7 @@ Under dualism, consciousness does double duty: it determines who counts (moral p
 - [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) — Why pain's badness is built into its phenomenal character
 - [animal-consciousness](/topics/animal-consciousness/) — Evidence for and implications of animal experience
 - [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/) — Environmental obligations when value tracks consciousness rather than ecosystems
-- [ai-consciousness](/topics/ai-consciousness/) — Why current AI systems likely lack consciousness
+- [ai-consciousness](/topics/ai-consciousness/) — Why current AI likely lacks bidirectionally coupled consciousness
 - [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/) — Moral obligations under AI consciousness uncertainty
 - [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/) — Modifying the consciousness-brain interface
 - [personal-identity](/topics/personal-identity/) — Why copies aren't continuations
