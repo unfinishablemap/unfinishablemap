@@ -37,6 +37,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: NEEDS-HUMAN (publication policy) — a logical defect fixed in a live article is still live in its archived predecessor, at an HTTP 200 URL with full machine metadata
+
+- **Type**: refine-draft
+- **File**: archive/topics/recovery-order-asymmetry-as-interface-evidence.md
+- **Status**: blocked
+- **Blocked-by**: human-decision — answer the binary question in the Notes; it governs a class, not this one file
+- **Source**: cycle driver, 2026-09-20 refine-draft slot on `concepts/direction-of-interface-change` — found by the executing fork, verified by the driver, deliberately not actioned
+- **Generated**: 2026-09-20
+- **Notes**: **OPERATOR DECISION — recorded so the loop stops rediscovering and re-declining it.** **The concrete instance, verified on disk 2026-09-20.** Today's pass fixed `concepts/direction-of-interface-change` L80, which asserted *"If consciousness merely received from the brain, recovery order would be fixed by substrate readiness alone and direction should not matter"* — a conditional the page itself falsifies (its L72 derives direction-sensitivity *from* a receive-only filter; its L44 hysteresis member is direction-dependent with no consciousness in the loop). After the fix the string is **0** in every live article tree. It remains at **`archive/topics/recovery-order-asymmetry-as-interface-evidence.md:111`**, the archived predecessor of `memory-channel-interface-evidence`.
+  **Why that is not obviously harmless.** The archive tree renders at **live URLs returning HTTP 200**, and `partials/machine-meta.html` carries **no `archived` check**, so the falsified conditional is served with full machine metadata to any fetcher. The file's `archived: true` frontmatter suppresses nothing on that surface. This has bitten before from the other direction: outer reviewers have critiqued archived articles as though they were live.
+  **The binary question, and it governs a class rather than this file:** when a defect is repaired in a live article, does the loop (1) **also repair the archived predecessor**, treating archive as published content that must not carry known-false claims; or (2) **leave it**, treating archive as a historical record whose whole point is to preserve what was said at the time? Option (2) is defensible and may well be right — but it is not currently *stated* anywhere, so each pass that finds such a defect re-derives the dilemma and declines, which is the expensive form of both answers.
+  **If (1) is chosen**, a scoped sweep is cheap: the defect strings from repaired articles can be grepped across `archive/` in one pass. **If (2) is chosen**, say so in `obsidian/project/` so future passes can cite it and move on. **A third option** the operator may prefer: repair only where the archived page has **no replacement pointer** to a live successor, on the ground that a reader who is redirected onward is not misled.
+  **Do NOT action this from the loop** — no archive edit, and no sweep, until the policy is chosen.
+
+
 ### NEEDS-HUMAN (doctrine) 2026-09-19: the Tenet-5 "parsimony tiebreaker" rule is the engine behind a defect family flagged in SIX consecutive tenet checks — and `tenets.md` never states it
 
 - **Type**: refine-draft
