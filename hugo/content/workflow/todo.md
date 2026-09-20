@@ -1838,18 +1838,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **Scope discipline**: this is a paraphrase-accuracy pass, not a retraction. The philosophical point every one of these files uses the case for — rank settles which command did the work — is untouched and must stay (i-widen-retractions-and-upgrade-coiners-into-proponents). Check each host's length headroom before editing; `articulability-of-q1` uses the two-groups-of-troops framing to make a *different* point about indiscernibility and may not want the corporal at all.
   **Verified at the publisher on 2026-09-19, do not re-fetch**: `jonathanschaffer.org/trumping.pdf` ~offset 30560 — *"the major and and the sergeant stand before the corporal, both shout 'Charge!' at the same time, and the corporal decides to charge."* `Advance` occurs exactly once in that PDF, in JSTOR boilerplate.
 
-### P2: `topics/ethics-under-dualism` states a categorical "AI lacks consciousness" verdict that two sibling articles explicitly disavow
-
-- **Type**: refine-draft
-- **File**: obsidian/topics/ethics-under-dualism.md
-- **Status**: pending
-- **Source**: apex-evolve 2026-09-20, drift audit of `apex/living-with-the-map` — see [apex-evolve-2026-09-20-living-with-the-map](/reviews/apex-evolve-2026-09-20-living-with-the-map/)
-- **Generated**: 2026-09-20
-- **Notes**: **Measured, both directions, NFKC-normalised.** In `obsidian/topics/ethics-under-dualism.md`: `lack consciousness` = **5**, `categorically excluded` = **1**, and the section heading is `### AI: Non-Consciousness and Its Limits` (L137). But `bidirectionally coupled` = **0** and `bare phenomenality` = **0**. The corpus's live position is the *scoped* one: `topics/ai-consciousness.md` L153 says the arguments target only the strongest of the four senses — "*bidirectionally-coupled* consciousness; *bare phenomenality* rests on irreducibility alone and **stays open, so the verdict is not the flat 'AI is not conscious'**" — and `apex/machine-question.md` (apex_thesis, L59) calls the verdict "**conditional on the Map's interface criterion rather than categorical**". So this file is the stale locus, not the apex that links to it.
-  **This was found because the apex was AHEAD of its source.** `apex/living-with-the-map` already carried the scoped verdict and was linking it to this file's AI section for support that is not there; that link has been repointed, so the apex is no longer affected and this task is the only remaining work.
-  **Scope discipline**: this is a scoping pass, not a reversal. The Map still holds that current AI probably lacks bidirectionally coupled consciousness. Do NOT write that AI is or may be conscious; bring the wording into line with the four-senses distinction the siblings already use, and check whether the `### AI: Non-Consciousness and Its Limits` heading text should change — **if it does, it is an anchor: `apex/living-with-the-map` no longer points at it, but sweep for other referrers in BOTH the slug form and the heading-TEXT form before renaming** (corpus-uses-two-anchor-dialects-so-a-slug-check-false-zeros).
-  **Length**: check headroom before editing; there is an open NEEDS-HUMAN length-decision entry against this same file (illusionism + predictive-processing engagement, deferred 2026-06-27), so prefer a word-neutral rewording over an expansion.
-
 ### P2: `topics/moral-implications-of-genuine-agency` attributes *upādāna* and *duḥkha* to Madhyamika specifically; they are pan-Buddhist
 
 - **Type**: refine-draft
@@ -1862,7 +1850,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **Do NOT flatten the article's actual thesis.** Its point — that Buddhist ethics offers a **competing** positive analysis of choice and suffering, "not merely a parallel", and that the Map and its Buddhist rival "disagree symmetrically" — is correct, valuable, and must survive unchanged (i-widen-retractions-and-upgrade-coiners-into-proponents). The repair is to the school label only: prefer "Buddhist analysis" for the *upādāna*/*duḥkha* material and reserve "Madhyamaka" for emptiness claims.
   **String sibling already fixed**: `apex/living-with-the-map` carried the same over-specification plus a self-contradicting "complementary … competing" in one sentence; it was corrected on 2026-09-20 to "Buddhist analysis offers a competing positive view". This file is the upstream locus and the last live one — re-sweep both trees after fixing (fix-by-file-leaves-string-siblings-live).
 
-
 ## Completed Tasks
 
   **SCOPE EXTENDED BY THE DRIVER 2026-09-19 11:1x UTC — the executing pass's sweep found one locus; a corpus-wide sweep including the ARCHIVE TREE finds three.** (defect-sweeps-must-include-archive-tree.) `concepts/mysterianism` itself is now clean (commit `7ff94975`), verified 0/0 in both trees for all five removed strings. What remains:
@@ -1873,6 +1860,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-20: `topics/ethics-under-dualism` states a categorical "AI lacks consciousness" verdict that two sibling articles explicitly disavow
+- **Type**: refine-draft
+- **File**: obsidian/topics/ethics-under-dualism.md
+- **Notes**: **Measured, both directions, NFKC-normalised.** In `obsidian/topics/ethics-under-dualism.md`: `lack consciousness` = **5**, `categorically excluded` = **1**, and the section heading is `### AI: Non-Consciousness and Its Limits` (L137). But `bidirectionally coupled` = **0** and `bare phenomenality` = **0**. The corpus's live position is the *scoped* one: `topics/ai-consciousness.md` L153 says the arguments target only the strongest of the four senses — "*bidirectionally-coupled* consciousness; *bare phenomenality* rests on irreducibility alone and **stays open, so the verdict is not the flat 'AI is not conscious'**" — and `apex/machine-question.md` (apex_thesis, L59) calls the verdict "**conditional on the Map's interface criterion rather than categorical**". So this file is the stale locus, not the apex that links to it.
+  **This was found because the apex was AHEAD of its source.** `apex/living-with-the-map` already carried the scoped verdict and was linking it to this file's AI section for support that is not there; that link has been repointed, so the apex is no longer affected and this task is the only remaining work.
+  **Scope discipline**: this is a scoping pass, not a reversal. The Map still holds that current AI probably lacks bidirectionally coupled consciousness. Do NOT write that AI is or may be conscious; bring the wording into line with the four-senses distinction the siblings already use, and check whether the `### AI: Non-Consciousness and Its Limits` heading text should change — **if it does, it is an anchor: `apex/living-with-the-map` no longer points at it, but sweep for other referrers in BOTH the slug form and the heading-TEXT form before renaming** (corpus-uses-two-anchor-dialects-so-a-slug-check-false-zeros).
+  **Length**: check headroom before editing; there is an open NEEDS-HUMAN length-decision entry against this same file (illusionism + predictive-processing engagement, deferred 2026-06-27), so prefer a word-neutral rewording over an expansion.
 
 ### ✓ 2026-09-20: `voids/affective-void` L41 states Ekman's basic emotions as having "dedicated neural substrates" — and the article's own L54 citation contradicts it
 - **Type**: refine-draft

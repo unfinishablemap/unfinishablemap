@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T13:42:50+00:00'
+ai_modified: '2026-09-20T13:53:57+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-20'
-lastmod: 2026-09-20 13:42:50+00:00
+lastmod: 2026-09-20 13:53:57+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-20T13:53:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/)
+- **Task**: correct a Buddhist school label and a doctrinal over-specification (queue line 1838; second task minted by apex-evolve at `f3261219`).
+- **Length**: 3887 words before, **3887 after — net 0**, as required. `topics` soft 3000 / hard 4000, status `soft_warning` unchanged; 112 words of headroom to the hard gate preserved untouched. All three repairs were same-token-count swaps.
+- **Defect 1 — school vs adherent form.** All three occurrences of `Madhyamika` used the adherent form (and without its macron) where the school/doctrine was meant. *Madhyamaka* is the school; *Mādhyamika* the vṛddhi-derivative naming an adherent. **Sanity-checked independently rather than taken on trust**: standard scholarship (Ruegg, *The Literature of the Madhyamaka School of Philosophy in India*; Westerhoff, *Nāgārjuna's Madhyamaka*) plus a minimal pair already live in the corpus — `concepts/the-ownerless-suffering-argument` writes "on **Madhyamaka** all things share one ontological status, and Śāntideva was a **Mādhyamika** rather than an ābhidharmika" in a single sentence, using both forms contrastively and correctly.
+- **Defect 2 — doctrinal over-specification.** *upādāna* and *duḥkha* are Four-Noble-Truths / twelve-nidāna vocabulary shared across Buddhist schools, not Madhyamaka's distinctive contribution (which is *śūnyatā* / *niḥsvabhāva*). The school label is now reserved for the emptiness claim; the *duḥkha* claim is attributed at the pan-Buddhist level where it belongs.
+- **Changes** (three loci, all in the Buddhist-objection paragraph of "Character as Self-Creation"):
+  1. "and **Madhyamika** analysis treats the self as *empty*" → "and **Madhyamaka** analysis treats the self as *empty*" — an emptiness claim, so the school label is the correct one here and is retained.
+  2. "The Map and **Madhyamika** therefore disagree symmetrically" → "The Map and **Buddhism** therefore disagree symmetrically".
+  3. "while **Madhyamika** treats self-grasping as the root of *duḥkha*" → "while **Buddhism** treats self-grasping as the root of *duḥkha*".
+- **Thesis untouched.** This was a label repair, not a re-argument. "offers a competing positive view, not merely a parallel without agent-cause", "disagree symmetrically rather than asymmetrically", "Neither position simply lacks a feature the other has", and the closing caution against presenting the Map as "adding metaphysical ground" all survive verbatim. "Competing" was **not** softened toward "complementary" — the apex sibling `apex/living-with-the-map` carried exactly that self-contradiction and was corrected in the opposite direction earlier today.
+- **Sweep**: this file was the last live locus. Post-fix, NFKC-normalised scan of `obsidian/` + `hugo/content/` + `archive/` excluding `reviews/` and `workflow/`: `Madhyamika` **0 occurrences in 0 files**; `Madhyamaka` 442 in 160 files; `Mādhyamika` 28 in 14 files (all adherent usages). Remaining `Madhyamika` hits are confined to `reviews/` and `workflow/` — operational echo, left alone.
+- **Synced**: yes — both trees verified with occurrence counts, not `grep -c`.
+- **Published**: yes
 
 ## 2026-09-20T13:42:50+00:00 - refine-draft
 - **Status**: Success

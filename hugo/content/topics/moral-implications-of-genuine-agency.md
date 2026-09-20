@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-09-10 16:47:58+00:00
+ai_modified: 2026-09-20 13:53:57+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 16:05:02+00:00
-lastmod: 2026-09-10 16:47:58+00:00
+lastmod: 2026-09-20 13:53:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -69,7 +69,7 @@ This generates a distinctive moral demand: the obligation to cultivate one's cap
 
 Aristotle recognised this in his account of *hexis* (stable disposition): virtues and vices are acquired through practice, and we are responsible for the characters we build. Aristotle had a substantial metaphysical apparatus (psyche, *energeia*, four causes); what the Map's framework adds is the libertarian agent-causal element Aristotle did not specify—the practice works because consciousness selects, and those selections shape future dispositions. Character formation is inherently [diachronic](/topics/diachronic-agency-and-personal-narrative/)—an extended moral project in which the agent organises choices into a coherent life rather than a series of isolated decisions.
 
-Buddhist moral philosophy offers a competing positive view, not merely a parallel without agent-cause. The Eightfold Path proceeds without a substantial self, and Madhyamika analysis treats the self as *empty*—a designation depending on causes and conditions rather than a substantial author. From within Buddhist analysis, the "weight of authorship" the Map celebrates may be read as *upādāna* (clinging, appropriation): a symptom of self-grasping, not a metaphysical discovery. The Map and Madhyamika therefore disagree symmetrically rather than asymmetrically: the Map treats reasons-responsive selection as truth-tracking, while Madhyamika treats self-grasping as the root of *duḥkha*. Neither position simply lacks a feature the other has. The disagreement is not adjudicable from within either framework, and the Map should not present itself as merely "adding metaphysical ground" the Buddhist tradition forgot to supply.
+Buddhist moral philosophy offers a competing positive view, not merely a parallel without agent-cause. The Eightfold Path proceeds without a substantial self, and Madhyamaka analysis treats the self as *empty*—a designation depending on causes and conditions rather than a substantial author. From within Buddhist analysis, the "weight of authorship" the Map celebrates may be read as *upādāna* (clinging, appropriation): a symptom of self-grasping, not a metaphysical discovery. The Map and Buddhism therefore disagree symmetrically rather than asymmetrically: the Map treats reasons-responsive selection as truth-tracking, while Buddhism treats self-grasping as the root of *duḥkha*. Neither position simply lacks a feature the other has. The disagreement is not adjudicable from within either framework, and the Map should not present itself as merely "adding metaphysical ground" the Buddhist tradition forgot to supply.
 
 ## Moral Luck Reconsidered
 
