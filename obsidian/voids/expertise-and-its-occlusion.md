@@ -4,7 +4,7 @@ description: "How expertise closes first-person access to novice perception and 
 created: 2026-03-05
 modified: 2026-09-04
 human_modified:
-ai_modified: 2026-09-04T07:11:10+00:00
+ai_modified: 2026-09-20T14:38:00+00:00
 last_deep_review: 2026-07-07T11:44:15+00:00
 draft: false
 topics:
@@ -147,7 +147,7 @@ It also parallels [[necessary-opacity]] at a structural level. Both voids treat 
 - [[biological-cognitive-closure]] — The developmental analogue: maturation as irreversible closure
 - [[conceptual-metabolism-void]] — Understanding closes the route back to not-yet-understanding: the conceptual analogue of expertise
 - [[creative-aesthetic-void]] — Where creative insight originates beyond the expert's introspective reach
-- [[acquaintance-void|Pre-Conceptual Knowing]] — Knowledge that precedes conceptual articulation
+- [[acquaintance-void|The Acquaintance Void]] — Knowledge that precedes conceptual articulation
 - [[self-opacity]] — The subject that cannot be its own object
 - [[source-attribution-void]] — Expertise-induced amnesia as a case where one's own past performance is the unattributable source
 - [[necessary-opacity]] — The parallel void: consciousness cannot inspect its own representational structure without destabilising it

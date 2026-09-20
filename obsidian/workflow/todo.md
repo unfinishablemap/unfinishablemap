@@ -37,19 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: eight live articles display "Pre-Conceptual Knowing" — the retired title of the article `acquaintance-void` was coalesced from
-
-- **Type**: refine-draft
-- **File**: obsidian/topics/embodied-consciousness.md
-- **Source**: cycle driver, 2026-09-20 11:1x UTC — the single-locus fix landed at `96711431`; the family was measured and deliberately left
-- **Generated**: 2026-09-20
-- **Notes**: **A NAVIGATION-LABEL DEFECT, AND THE LABEL IS THE FIX** ([[navigation-surfaces-carry-unreviewed-claims]]). `[[acquaintance-void|Pre-Conceptual Knowing]]` displays the **retired** title of the article `acquaintance-void` was coalesced from, so the displayed name reads as a different article from its target. One instance was normalised to `[[acquaintance-void|The Acquaintance Void]]` in `voids/appetitive-void`; **eight live hosts still carry it** (driver-verified by occurrence count, `reviews/` and `workflow/` excluded as echo):
-  `topics/embodied-consciousness` L215 · `concepts/qualia` L251 · `concepts/somatic-interface` L128 · `concepts/phenomenal-overflow` L183 · `voids/embodiment-cognitive-limits` L154 · `voids/creative-aesthetic-void` L192 · `voids/expertise-and-its-occlusion` L150 · `voids/emotional-epistemology-void` L91.
-  ⚠️ **ONLY THE TITLE-CASED DISPLAY NAME IS THE DEFECT.** Lower-case prose variants (`|pre-conceptual knowing`) read as a description rather than a title and are **correct as written** — do not sweep those. Key the sweep on the Title-Cased form specifically, and **use occurrence counts (`grep -oiF … | wc -l`), not `grep -c`, which counts lines and undercounts when a phrase repeats in one paragraph.**
-  🛑 **DO NOT substitute the bare form.** House style in these lists is a bare `[[slug]]`, but the converter renders a bare wikilink as the **raw slug**, not the article title — `[[intrinsic-nature-void]]` renders as `intrinsic-nature-void`. **The piped form is the only variant that displays correctly**, so each fix costs ~+1 word. Verified at `96711431`.
-  ⚠️ **CHECK EACH HOST'S HEADROOM BEFORE EDITING** — eight hosts, eight budgets, and several voids articles are near their ceilings. If a host cannot afford +1, say so and leave it rather than trimming prose to pay for a label.
-  ℹ️ The `voids/voids.md` L230 instance is **already discharged** — do not re-raise it.
-
 ### NEEDS-HUMAN (doctrine) 2026-09-19: the Tenet-5 "parsimony tiebreaker" rule is the engine behind a defect family flagged in SIX consecutive tenet checks — and `tenets.md` never states it
 
 - **Type**: refine-draft
@@ -1846,6 +1833,16 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-20: eight live articles display "Pre-Conceptual Knowing" — the retired title of the article `acquaintance-void` was coalesced from
+- **Type**: refine-draft
+- **File**: obsidian/topics/embodied-consciousness.md
+- **Notes**: **A NAVIGATION-LABEL DEFECT, AND THE LABEL IS THE FIX** ([[navigation-surfaces-carry-unreviewed-claims]]). `[[acquaintance-void|Pre-Conceptual Knowing]]` displays the **retired** title of the article `acquaintance-void` was coalesced from, so the displayed name reads as a different article from its target. One instance was normalised to `[[acquaintance-void|The Acquaintance Void]]` in `voids/appetitive-void`; **eight live hosts still carry it** (driver-verified by occurrence count, `reviews/` and `workflow/` excluded as echo):
+  `topics/embodied-consciousness` L215 · `concepts/qualia` L251 · `concepts/somatic-interface` L128 · `concepts/phenomenal-overflow` L183 · `voids/embodiment-cognitive-limits` L154 · `voids/creative-aesthetic-void` L192 · `voids/expertise-and-its-occlusion` L150 · `voids/emotional-epistemology-void` L91.
+  ⚠️ **ONLY THE TITLE-CASED DISPLAY NAME IS THE DEFECT.** Lower-case prose variants (`|pre-conceptual knowing`) read as a description rather than a title and are **correct as written** — do not sweep those. Key the sweep on the Title-Cased form specifically, and **use occurrence counts (`grep -oiF … | wc -l`), not `grep -c`, which counts lines and undercounts when a phrase repeats in one paragraph.**
+  🛑 **DO NOT substitute the bare form.** House style in these lists is a bare `[[slug]]`, but the converter renders a bare wikilink as the **raw slug**, not the article title — `[[intrinsic-nature-void]]` renders as `intrinsic-nature-void`. **The piped form is the only variant that displays correctly**, so each fix costs ~+1 word. Verified at `96711431`.
+  ⚠️ **CHECK EACH HOST'S HEADROOM BEFORE EDITING** — eight hosts, eight budgets, and several voids articles are near their ceilings. If a host cannot afford +1, say so and leave it rather than trimming prose to pay for a label.
+  ℹ️ The `voids/voids.md` L230 instance is **already discharged** — do not re-raise it.
 
 ### ✓ 2026-09-20: `topics/moral-implications-of-genuine-agency` attributes *upādāna* and *duḥkha* to Madhyamika specifically; they are pan-Buddhist
 - **Type**: refine-draft

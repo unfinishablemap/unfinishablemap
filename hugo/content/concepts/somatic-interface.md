@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-09-17 13:53:10+00:00
+ai_modified: 2026-09-20 14:38:00+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-17 13:53:10+00:00
-lastmod: 2026-09-17 13:53:10+00:00
+lastmod: 2026-09-20 14:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -128,7 +128,7 @@ Three of these properties — layered, phenomenal-character-shaping, bidirection
 - [embodied-cognition](/concepts/embodied-cognition/) — The 4E framework: embodied, embedded, enacted, extended
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why brains specifically serve as interfaces
 - [filter-theory](/concepts/filter-theory/) — The brain as transmitter rather than producer of consciousness
-- [Pre-Conceptual Knowing](/voids/acquaintance-void/) — Knowledge that precedes conceptual articulation
+- [The Acquaintance Void](/voids/acquaintance-void/) — Knowledge that precedes conceptual articulation
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the control surface for consciousness
 - [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — Proprioception and spatial imagination as dual-domain capabilities extending the memory framework
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain's resistance to reduction and the inseparability of phenomenal character from causal power

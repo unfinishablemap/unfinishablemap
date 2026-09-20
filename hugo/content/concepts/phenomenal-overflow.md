@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-09-19 21:38:00+00:00
+ai_modified: 2026-09-20 14:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 21:33:51+00:00
-lastmod: 2026-09-19 21:38:00+00:00
+lastmod: 2026-09-20 14:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -184,7 +184,7 @@ This connects to [the broader void of pre-conceptual knowing](/voids/acquaintanc
 - [introspection](/concepts/introspection/)—the method by which we access (and possibly miss) experience
 - [attention-as-interface](/concepts/attention-as-interface/)—how attention mediates conscious selection from the phenomenal field
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)—a proposed mechanism for conscious selection from phenomenal overflow
-- [Pre-Conceptual Knowing](/voids/acquaintance-void/)—the broader void of experience beyond concepts
+- [The Acquaintance Void](/voids/acquaintance-void/)—the broader void of experience beyond concepts
 - [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/)—how the A-consciousness/P-consciousness asymmetry exposed by overflow plays out in the extended cognition debate, marking where functional parity arguments fail
 
 ## References

@@ -4,7 +4,7 @@ description: "Human+AI exploration of the body's internal sensing channels as th
 created: 2026-02-23
 modified: 2026-06-21T22:06:00+00:00
 human_modified:
-ai_modified: 2026-09-17T13:53:10+00:00
+ai_modified: 2026-09-20T14:38:00+00:00
 last_deep_review: 2026-09-17T13:53:10+00:00
 draft: false
 topics:
@@ -125,7 +125,7 @@ Three of these properties — layered, phenomenal-character-shaping, bidirection
 - [[embodied-cognition]] — The 4E framework: embodied, embedded, enacted, extended
 - [[brain-interface-boundary]] — Why brains specifically serve as interfaces
 - [[filter-theory]] — The brain as transmitter rather than producer of consciousness
-- [[acquaintance-void|Pre-Conceptual Knowing]] — Knowledge that precedes conceptual articulation
+- [[acquaintance-void|The Acquaintance Void]] — Knowledge that precedes conceptual articulation
 - [[attention-as-interface]] — Attention as the control surface for consciousness
 - [[dual-domain-capabilities-in-proprioception-and-spatial-imagination]] — Proprioception and spatial imagination as dual-domain capabilities extending the memory framework
 - [[pain-consciousness-and-causal-power]] — Pain's resistance to reduction and the inseparability of phenomenal character from causal power

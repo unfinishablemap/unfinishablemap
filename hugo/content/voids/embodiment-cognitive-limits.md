@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-06-25 01:38:00+00:00
+ai_modified: 2026-09-20 14:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,7 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 01:38:00+00:00
-lastmod: 2026-06-25 01:38:00+00:00
+lastmod: 2026-09-20 14:38:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -154,7 +154,7 @@ AI's failures—plausible-sounding but wrong responses about physical or emotion
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What consciousness can access that AI cannot
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Using AI and alien minds to probe territories closed to human cognition
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The structural gap at the heart of physical knowledge
-- [Pre-Conceptual Knowing](/voids/acquaintance-void/) — Knowledge that precedes conceptual articulation
+- [The Acquaintance Void](/voids/acquaintance-void/) — Knowledge that precedes conceptual articulation
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where speakable and thinkable part ways
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Species-level limits shaped by natural selection rather than individual embodiment
 - [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — Proprioception and spatial imagination as dual-domain capabilities with physical and phenomenal dimensions

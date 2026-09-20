@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T14:35:00+00:00'
+ai_modified: '2026-09-20T14:38:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-20'
-lastmod: 2026-09-20 14:35:00+00:00
+lastmod: 2026-09-20 14:38:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-20T14:38:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [qualia](/concepts/qualia/), [expertise-and-its-occlusion](/voids/expertise-and-its-occlusion/), [somatic-interface](/concepts/somatic-interface/), [embodied-consciousness](/topics/embodied-consciousness/), [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/), [creative-aesthetic-void](/voids/creative-aesthetic-void/), [emotional-epistemology-void](/voids/emotional-epistemology-void/), [phenomenal-overflow](/concepts/phenomenal-overflow/)
+- **Pass**: navigation-label normalisation across the eight remaining live hosts of a retired-title display name. Continues the fix begun at commit `96711431`, which normalised the first three hosts.
+- **Defect**: `[[acquaintance-void|Pre-Conceptual Knowing]]` displays "Pre-Conceptual Knowing" — the **retired** title of the article `acquaintance-void` was coalesced from. The target's live `title:` is "The Acquaintance Void", so the label named what reads as a different article. Navigation surfaces carry unreviewed claims, and the fix is to the label, not the link.
+- **Fix applied**: `[[acquaintance-void|Pre-Conceptual Knowing]]` → `[[acquaintance-void|The Acquaintance Void]]`, one occurrence per file, eight files. The piped form is retained deliberately: the converter renders a bare wikilink as the raw **slug** (`acquaintance-void`), not the article title, so the piped form is the only variant that displays correctly. Cost **+1 word per file**, paid for by no prose trim anywhere.
+- **Word counts before → after** (`tools.curate.length.analyze_length`, the gating function): `concepts/qualia` 4032→4033 (hard_warning→hard_warning); `voids/expertise-and-its-occlusion` 2897→2898 (soft_warning); `concepts/somatic-interface` 3194→3195 (soft_warning); `topics/embodied-consciousness` 3688→3689 (soft_warning); `voids/embodiment-cognitive-limits` 2234→2235 (soft_warning); `voids/creative-aesthetic-void` 2223→2224 (soft_warning); `voids/emotional-epistemology-void` 1764→1765 (ok); `concepts/phenomenal-overflow` 2208→2209 (ok). **No status band changed on any file.**
+- **`concepts/qualia` — length judgement, fixed deliberately.** The file is 533 words past its hard threshold (4033 vs hard 3500) *before* this edit, so `hard_warning` was already set and the +1 changes its status not at all; it remains 967 words below the 5000 critical threshold. Declining the fix would have bought nothing measurable while leaving a reader-facing wrong-article label on a high-traffic concept article with four inbound-section links. No prose was trimmed to pay for the word (trimming-for-budget-can-strand-a-live-refutation — apparent redundancy in a file at its ceiling may be a guard some review quotes). **Recorded separately: `concepts/qualia` is over its hard gate on prose alone and no open condense/refine task covers it** — checked against `obsidian/workflow/todo.md`, where the only live qualia-matching entries are this task and three unrelated P3s. Not minted here; flagged for the operator, since a 4033-word concepts survey may be an accept-as-survey case rather than a condense candidate.
+- **Label wording checked per host, not assumed.** All eight loci are bullets in Related/Background/Further-Reading lists, and "The Acquaintance Void" scans correctly in every one of them; no host needed a deviation from the precedent label. The nearest to awkward is `concepts/qualia` ("The Acquaintance Void - The void where conceptual thought cannot reach qualitative character" repeats "void"), but the trailing gloss is the host's own and accurate, and changing it would be a stylistic edit outside this pass's scope.
+- **Lower-case prose variants found and deliberately left** (they read as descriptions, not titles, and are correct as written): `voids/embodiment-cognitive-limits` L89 `[[acquaintance-void|pre-conceptual knowing]]`; `concepts/phenomenal-overflow` L172 `[[acquaintance-void|the broader void of pre-conceptual knowing]]`; `voids/emotional-epistemology-void` `[[acquaintance-void|pre-conceptual]]`. A fourth lives in `concepts/phenomenal-acquaintance` L72 (`[[acquaintance-void|the void of pre-conceptual knowing]]`) — that file was **not** on the task's host list and carries no Title-Cased instance, so it needed no edit.
+- **Counting method**: occurrence counts throughout via `grep -oF … | wc -l`, never `grep -c` (which counts lines — a markdown paragraph is one line and would undercount two instances in one sentence as 1). Two hosts did carry two case-insensitive hits each; the line-counting method would have reported them as one.
+- **Both-tree verification after `scripts/sync.py`**: `|Pre-Conceptual Knowing` reaches **0 in live content** in both `obsidian/` and `hugo/content/`; surviving hits are confined to the `reviews/` and `workflow/` trees (operational echo, exempt by `converter.py`'s `is_operational` rule) and to `archive/voids/pre-conceptual-knowing.md`, where the retired title is the archived article's own correct name. No "Stripping broken wikilink" message for any of the eight edited files.
+- **Published**: yes
 
 ## 2026-09-20T14:35:00+00:00 - deep-review
 - **Status**: Success

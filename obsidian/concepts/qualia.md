@@ -4,7 +4,7 @@ description: "The intrinsic, subjective qualities of conscious experience—the 
 created: 2026-01-07
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-08-18T21:17:37+00:00
+ai_modified: 2026-09-20T14:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -248,7 +248,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 - [[hard-problem-of-consciousness]] - The broader problem qualia exemplify
 - [[explanatory-gap]] - The chasm between physical description and experience
 - [[combination-problem]] - How micro-experiences combine
-- [[acquaintance-void|Pre-Conceptual Knowing]] - The void where conceptual thought cannot reach qualitative character
+- [[acquaintance-void|The Acquaintance Void]] - The void where conceptual thought cannot reach qualitative character
 - [[tenets]] - The Map's foundational commitments
 
 ## References

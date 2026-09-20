@@ -4,7 +4,7 @@ description: "Human+AI investigation of whether emotions constitute genuine know
 created: 2026-03-02
 modified: 2026-03-02
 human_modified:
-ai_modified: 2026-06-26T09:35:23+00:00
+ai_modified: 2026-09-20T14:38:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -88,7 +88,7 @@ The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet 
 
 - [[affective-void|The Affective Void]] — Emotions beyond human reach
 - [[consciousness-only-territories|Consciousness-Only Territories]] — What only phenomenal experience can access
-- [[acquaintance-void|Pre-Conceptual Knowing]] — Knowledge before and beyond concepts
+- [[acquaintance-void|The Acquaintance Void]] — Knowledge before and beyond concepts
 - [[epistemic-emotions|Epistemic Emotions]] — Feelings directed at knowledge itself
 - [[emotion-and-dualism|Emotion and Dualism]] — Valence irreducibility, emotional intentionality, and the dualist case
 - [[apophatic-approaches|Apophatic Approaches]] — Knowing through negation

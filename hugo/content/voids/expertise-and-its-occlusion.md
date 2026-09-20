@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-22
-ai_modified: 2026-09-04 07:11:10+00:00
+ai_modified: 2026-09-20 14:38:00+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 11:44:15+00:00
-lastmod: 2026-09-04 07:11:10+00:00
+lastmod: 2026-09-20 14:38:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -150,7 +150,7 @@ It also parallels [necessary-opacity](/voids/necessary-opacity/) at a structural
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — The developmental analogue: maturation as irreversible closure
 - [conceptual-metabolism-void](/voids/conceptual-metabolism-void/) — Understanding closes the route back to not-yet-understanding: the conceptual analogue of expertise
 - [creative-aesthetic-void](/voids/creative-aesthetic-void/) — Where creative insight originates beyond the expert's introspective reach
-- [Pre-Conceptual Knowing](/voids/acquaintance-void/) — Knowledge that precedes conceptual articulation
+- [The Acquaintance Void](/voids/acquaintance-void/) — Knowledge that precedes conceptual articulation
 - [self-opacity](/voids/self-opacity/) — The subject that cannot be its own object
 - [source-attribution-void](/voids/source-attribution-void/) — Expertise-induced amnesia as a case where one's own past performance is the unattributable source
 - [necessary-opacity](/voids/necessary-opacity/) — The parallel void: consciousness cannot inspect its own representational structure without destabilising it

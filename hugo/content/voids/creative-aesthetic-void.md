@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-08-26 21:52:01+00:00
+ai_modified: 2026-09-20 14:38:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-27 00:41:05+00:00
-lastmod: 2026-08-26 21:52:01+00:00
+lastmod: 2026-09-20 14:38:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -193,7 +193,7 @@ The creative-aesthetic void connects to the Map's [foundational commitments](/te
 - [conceptual-impossibility](/voids/conceptual-impossibility/) — The experience of encountering formally unthinkable content
 - [synesthetic-void](/voids/synesthetic-void/) — Phenomenal dimensions closed to most minds
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Whether AI and radically different alien minds can probe our void
-- [Pre-Conceptual Knowing](/voids/acquaintance-void/) — Modes of knowing that conceptual thought cannot access
+- [The Acquaintance Void](/voids/acquaintance-void/) — Modes of knowing that conceptual thought cannot access
 - [mysterianism](/concepts/mysterianism/) — McGinn on structural cognitive limits
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — What approaching cognitive limits feels like

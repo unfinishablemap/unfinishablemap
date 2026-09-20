@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-02
-ai_modified: 2026-06-26 09:35:23+00:00
+ai_modified: 2026-09-20 14:38:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 09:35:23+00:00
-lastmod: 2026-06-26 09:35:23+00:00
+lastmod: 2026-09-20 14:38:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -92,7 +92,7 @@ The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet 
 
 - [The Affective Void](/voids/affective-void/) — Emotions beyond human reach
 - [Consciousness-Only Territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access
-- [Pre-Conceptual Knowing](/voids/acquaintance-void/) — Knowledge before and beyond concepts
+- [The Acquaintance Void](/voids/acquaintance-void/) — Knowledge before and beyond concepts
 - [Epistemic Emotions](/concepts/epistemic-emotions/) — Feelings directed at knowledge itself
 - [Emotion and Dualism](/topics/emotion-and-dualism/) — Valence irreducibility, emotional intentionality, and the dualist case
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Knowing through negation

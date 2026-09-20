@@ -4,7 +4,7 @@ description: "Ned Block's argument that phenomenal consciousness exceeds cogniti
 created: 2026-01-28
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-09-19T21:38:00+00:00
+ai_modified: 2026-09-20T14:38:00+00:00
 last_deep_review: 2026-07-12T21:33:51+00:00
 draft: false
 topics:
@@ -180,7 +180,7 @@ This connects to [[acquaintance-void|the broader void of pre-conceptual knowing]
 - [[introspection]]—the method by which we access (and possibly miss) experience
 - [[attention-as-interface]]—how attention mediates conscious selection from the phenomenal field
 - [[stapp-quantum-mind]]—a proposed mechanism for conscious selection from phenomenal overflow
-- [[acquaintance-void|Pre-Conceptual Knowing]]—the broader void of experience beyond concepts
+- [[acquaintance-void|The Acquaintance Void]]—the broader void of experience beyond concepts
 - [[consciousness-epistemology-extended-cognition]]—how the A-consciousness/P-consciousness asymmetry exposed by overflow plays out in the extended cognition debate, marking where functional parity arguments fail
 
 ## References

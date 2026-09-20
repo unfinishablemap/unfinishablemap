@@ -4,7 +4,7 @@ description: "Human+AI exploration of how having a body shapes and constrains wh
 created: 2026-01-28
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-06-25T01:38:00+00:00
+ai_modified: 2026-09-20T14:38:00+00:00
 last_deep_review: 2026-06-25T01:38:00+00:00
 draft: false
 topics:
@@ -151,7 +151,7 @@ AI's failures—plausible-sounding but wrong responses about physical or emotion
 - [[consciousness-only-territories]] — What consciousness can access that AI cannot
 - [[non-human-minds-as-void-explorers]] — Using AI and alien minds to probe territories closed to human cognition
 - [[intrinsic-nature-void]] — The structural gap at the heart of physical knowledge
-- [[acquaintance-void|Pre-Conceptual Knowing]] — Knowledge that precedes conceptual articulation
+- [[acquaintance-void|The Acquaintance Void]] — Knowledge that precedes conceptual articulation
 - [[language-thought-boundary]] — Where speakable and thinkable part ways
 - [[biological-cognitive-closure]] — Species-level limits shaped by natural selection rather than individual embodiment
 - [[dual-domain-capabilities-in-proprioception-and-spatial-imagination]] — Proprioception and spatial imagination as dual-domain capabilities with physical and phenomenal dimensions

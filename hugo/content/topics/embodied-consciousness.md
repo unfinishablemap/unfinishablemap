@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-07-26 18:56:48+00:00
+ai_modified: 2026-09-20 14:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 18:54:52+00:00
-lastmod: 2026-07-26 18:56:48+00:00
+lastmod: 2026-09-20 14:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -216,7 +216,7 @@ The interface reading would face serious difficulty if:
 - [consciousness-as-activity](/topics/consciousness-as-activity/) — Activity-first ontology: consciousness as something the organism does
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Why pain's felt awfulness is inseparable from its causal role
 - [dualist-perception](/topics/dualist-perception/) — How dualism reframes perceptual experience
-- [Pre-Conceptual Knowing](/voids/acquaintance-void/) — Knowledge that precedes conceptual articulation
+- [The Acquaintance Void](/voids/acquaintance-void/) — Knowledge that precedes conceptual articulation
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — The felt character of being somewhere
 - [brain-computer-interfaces-and-the-interface-boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/) — Whether the interface extends beyond the brain through technology
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — How sensorimotor contingency theory maps the interface

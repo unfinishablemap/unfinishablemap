@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-08-18 21:17:37+00:00
+ai_modified: 2026-09-20 14:38:00+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -41,7 +41,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 18:54:19+00:00
-lastmod: 2026-08-18 21:17:37+00:00
+lastmod: 2026-09-20 14:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -251,7 +251,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) - The broader problem qualia exemplify
 - [explanatory-gap](/concepts/explanatory-gap/) - The chasm between physical description and experience
 - [combination-problem](/concepts/combination-problem/) - How micro-experiences combine
-- [Pre-Conceptual Knowing](/voids/acquaintance-void/) - The void where conceptual thought cannot reach qualitative character
+- [The Acquaintance Void](/voids/acquaintance-void/) - The void where conceptual thought cannot reach qualitative character
 - [tenets](/tenets/) - The Map's foundational commitments
 
 ## References
