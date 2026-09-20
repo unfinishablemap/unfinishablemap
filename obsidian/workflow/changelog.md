@@ -5,6 +5,20 @@ ai_modified: '2026-09-20T11:23:29+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-20T12:09:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/higher-order-theories]]
+- **Task**: queue line 39 — connect the higher-order material to what the Appetitive Void asks of it. Deferred from commit `7f2fce96`. No quality score: skill §3's `uv run python scripts/curate.py review` is a stale command — `scripts/curate.py` does not exist in this repo.
+- **The task's premise was two-thirds false, as the driver notes suspected; measured and confirmed.** Of the three items scoped for import, two were already present in full: `### Lau's Perceptual Reality Monitoring` is a dedicated section (`Lau` = 16 occurrences, `reality monitoring` = 3), and Rosenthal's unconscious/non-inferential HOT is specified in `### Higher-Order Thought Theory` (`Rosenthal` = 9, `unconscious` = 8). `### The Access/Phenomenal Gap` also already exists. **Nothing was imported.** The only genuine gap was item 3 — the article nowhere stated what the void asks of it — so the pass was pure connection, not expansion.
+- **Host chosen: `## Connection to Self-Reference`, not the Access/Phenomenal Gap section.** The calibration-problem sentence there already carries the `[[appetitive-void]]` link and already states the void's question in HOT's vocabulary ("the tools of assessment are the very things assessed"), so the new paragraph is contiguous with its referent rather than parachuted. The Access/Phenomenal Gap section is about HOT-vs-Map framework divergence generally and would have needed its own re-introduction of the void.
+- **Changes**: one new paragraph (+144 words) stating the void's draw on this article and the two sharper forms of the objection the existing material already supplies — Rosenthal's HOT being typically unconscious and non-inferential (so not the deliberate self-scrutiny the void describes), and PRM's computational specification carrying no motivational parameter. Closes on the access/phenomenal gap as the cap, which is the reply the void's landed bullet leans on.
+- **Budget**: 3342 → 3486 words (concepts 2500 soft / 3500 hard; gate is `>= hard`, usable ceiling 3499). 157 words available, 144 used, **13 headroom left**. A first draft landed at 3493 (6 headroom) and was trimmed for margin.
+- **No citation added and none needed.** All three items were already in the 16-entry reference list (Rosenthal 2005, Rosenthal 2010, Lau 2022, Brown/Lau/LeDoux 2019). The list was not renumbered and not touched. The driver's unverified-citation warning did not bind.
+- **Gemini's framing was not adopted**, per the driver's instruction and independent of it: its "collapses" charge targets a constitutive rung the void disowns in the very bullet under attack ("co-occurrence, not constitution"). The new paragraph concedes nothing the void has not already conceded and does not weaken this article's own assessment of HOT.
+- **Nothing was written to `voids/appetitive-void.md`** — it sits at 2985 with 14 words of headroom.
+- **Deferred**: an in-framework treatment of whether a non-inferential higher-order thought could carry motivational character of its own (the sharpest remaining form of the void's question) needs ~150 words this article does not have. Mint against `concepts/higher-order-theories` only after a condense pass, or host it in a third article.
+- **Published**: yes
+
 ## 2026-09-20T11:23:29+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/appetitive-void]]

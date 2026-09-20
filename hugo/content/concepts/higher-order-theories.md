@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-09-20 11:23:29+00:00
+ai_modified: 2026-09-20 12:09:03+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 20:04:42+00:00
-lastmod: 2026-09-20 11:23:29+00:00
+lastmod: 2026-09-20 12:09:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -145,6 +145,8 @@ Two further test cases push the same way. During non-lucid [dreams](/topics/drea
 ## Connection to Self-Reference
 
 HOT requires consciousness to be inherently self-referential, connecting it to the Map's [self-opacity void](/voids/self-opacity/). The [self-reference-paradox](/concepts/self-reference-paradox/) surfaces two limits. The **regress problem**: if conscious thoughts require higher-order thoughts, do those require still higher thoughts? HOT avoids infinite regress by allowing unconscious higher-order representations, but the solution feels stipulative. The **calibration problem**: how can we evaluate our metacognition without using more metacognition, when [the tools of assessment are the very things assessed](/voids/appetitive-void/)?
+
+That calibration problem is where the appetitive void draws on this article, and the draw is worth stating. It asks whether awareness that one's thinking is desire-shaped is itself desire-shaped, and takes from the higher-order programme the reply that a meta-representation need not inherit its target's motivational properties. Two features above sharpen that reply and cap it. Rosenthal's higher-order thought is [typically unconscious and non-inferential](#higher-order-thought-theory), so it is not the deliberate self-scrutiny the void describes; the felt effort of trying to be objective may then belong to the first-order striving, not the meta-state. [Lau's reality monitor](#laus-perceptual-reality-monitoring) is the cleanest case: its specification carries no motivational parameter, so the monitor could tag a desire-shaped state as real while being, by its own description, appetitively inert. Neither delivers more: a functionally non-appetitive meta-state leaves open whether the phenomenal field it discloses is desire-free—[the access/phenomenal gap](#the-accessphenomenal-gap) below.
 
 The eye that cannot see itself reappears as the thought that cannot think itself—[what that structure feels like](/topics/phenomenology-of-recursive-self-awareness/) is explored separately.
 

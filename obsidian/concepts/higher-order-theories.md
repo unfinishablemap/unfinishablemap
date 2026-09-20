@@ -4,7 +4,7 @@ description: "Mental states become conscious when we become aware of them. HOT e
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-09-20T11:23:29+00:00
+ai_modified: 2026-09-20T12:09:03+00:00
 draft: false
 last_deep_review: 2026-07-25T20:04:42+00:00
 topics:
@@ -142,6 +142,8 @@ Two further test cases push the same way. During non-lucid [[dream-consciousness
 ## Connection to Self-Reference
 
 HOT requires consciousness to be inherently self-referential, connecting it to the Map's [[self-opacity|self-opacity void]]. The [[self-reference-paradox]] surfaces two limits. The **regress problem**: if conscious thoughts require higher-order thoughts, do those require still higher thoughts? HOT avoids infinite regress by allowing unconscious higher-order representations, but the solution feels stipulative. The **calibration problem**: how can we evaluate our metacognition without using more metacognition, when [[appetitive-void|the tools of assessment are the very things assessed]]?
+
+That calibration problem is where the appetitive void draws on this article, and the draw is worth stating. It asks whether awareness that one's thinking is desire-shaped is itself desire-shaped, and takes from the higher-order programme the reply that a meta-representation need not inherit its target's motivational properties. Two features above sharpen that reply and cap it. Rosenthal's higher-order thought is [typically unconscious and non-inferential](#higher-order-thought-theory), so it is not the deliberate self-scrutiny the void describes; the felt effort of trying to be objective may then belong to the first-order striving, not the meta-state. [Lau's reality monitor](#laus-perceptual-reality-monitoring) is the cleanest case: its specification carries no motivational parameter, so the monitor could tag a desire-shaped state as real while being, by its own description, appetitively inert. Neither delivers more: a functionally non-appetitive meta-state leaves open whether the phenomenal field it discloses is desire-free—[the access/phenomenal gap](#the-accessphenomenal-gap) below.
 
 The eye that cannot see itself reappears as the thought that cannot think itself—[[phenomenology-of-recursive-self-awareness|what that structure feels like]] is explored separately.
 
