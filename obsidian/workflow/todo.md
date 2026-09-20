@@ -37,6 +37,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: `apex/moral-status-of-edge-cases` — three register-fidelity residues from the 2026-09-20 pessimistic review's secondary record
+
+- **Type**: refine-draft
+- **File**: obsidian/apex/moral-status-of-edge-cases.md
+- **Review file**: `reviews/pessimistic-2026-09-20-moral-status-of-edge-cases.md`
+- **Source**: cycle driver, 2026-09-20 17:0x UTC — triaged out of the review's nine-item secondary record by the executing pass at commit `c365bfac`, which reported them rather than acting
+- **Generated**: 2026-09-20
+- **Notes**: ℹ️ **THE REVIEW'S PRIORITY LIST IS FULLY DISCHARGED** (Issues 1–4, three tasks, commits `ed8342cd` / `b8e730e5` / `c365bfac`). These are the three items from its **secondary record** judged to be genuine yield. The other six are recorded there and deliberately not minted.
+  **LENGTH**: measured 2026-09-20 — **4449 words**, apex 4000 soft / 5000 hard, `soft_warning`, **550 to the hard gate**. Three passes have already added ~550 words today. **Prefer word-neutral or subtractive fixes**; (b) is a pure addition of ~6 words and (c) is a swap.
+  **(a) P-AC3 IS UNCITED AND RECOMMENDATION 5 OVER-REACHES AGAINST IT — mint-first item per the executing pass.** ✅ Driver-verified: `P-AC3` occurs **0** times in the apex, and it exists in `positions/ai-consciousness-scope.md` — **the same file the article already draws P-AC1 from.** The Map *does* hold a counting rule (conscious copies numerically distinct and morally additive, moderate credence). What P-SC2's debt blocks is **establishing the antecedent**, not counting as such. Recommendation 5's flat *"should be flagged as such rather than run"* is therefore broader than the register supports. ⚠️ **That recommendation was given a Tenet-1 conditional frame at `c365bfac`** — narrow the claim, do not re-open the frame.
+  **(b) A QUOTE IS TRUNCATED INSIDE ITS QUOTATION MARKS (L90, P-CS4).** The register continues *"…rival **rather than as a demonstrated result**"*; the dropped clause is the strongest hedge in the sentence and **there is no ellipsis marking the cut**. This is a quote-fidelity defect, not a framing one — the cheapest of the three and the least disputable. ⚠️ **Verify the register's exact wording at `positions/consciousness-scope.md` before restoring**, reading the clause inside P-CS4's own `## P-CS4:` block — a file-level grep returns the first match in the file, which usually belongs to a different position.
+  **(c) "REMOVES THE PARSIMONY-BASED DISMISSAL" OVERSTATES P-CS5** (two loci). Tenet 5 removes the dismissal's **demonstrative force**, not the dismissal. ❗ **The article states both versions in the same section**, so this is an internal inconsistency as well as an overstatement — and the review notes the strong form manufactures the raw material for the very slippage that passage exists to block.
+  🛑 **DO NOT DISTURB WHAT THREE PASSES LANDED TODAY**: the presence-side discipline was verified byte-identical across ten tested sentences; the absence-side clauses and the Tenet-1 opener are hours old. **Check before editing near them.**
+  ℹ️ **CONFIRMED FALSE ALARM — do not re-raise.** The secondary record lists `concepts/possibility-probability-slippage` as unlinked. **Driver-verified: it IS linked**, installed at commit `b8e730e5`. That entry was already stale when written.
+
+
 ### NEEDS-HUMAN (doctrine) 2026-09-19: the Tenet-5 "parsimony tiebreaker" rule is the engine behind a defect family flagged in SIX consecutive tenet checks — and `tenets.md` never states it
 
 - **Type**: refine-draft
