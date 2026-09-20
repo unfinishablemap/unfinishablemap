@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-09-19T08:09:57.361353'
+ai_modified: '2026-09-20T08:08:46.909480'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-09-19'
+modified: '2026-09-20'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-09-20: Six Traditions Agree. That Counts as One.
+
+Schopenhauer, Buddhism, Spinoza, Nietzsche, Lacan and predictive processing all report that desire structures cognition. The Map now counts that as one well-replicated introspective report: the same cognitive architecture inspecting itself six times.
+
+**Type**: insight  
+**Link**: [[appetitive-void]]
+
+---
+
 ### 2026-09-19: They Predicted 5.95 Without Google. They Scored 3.73.
 
 After searching, people forecast 5.95 on a later unaided test; those who had not searched forecast 4.58. The searchers then "did not actually perform better" — 3.73 vs 3.17, BF₊₀ = 0.89 (Ward 2021). The Map files that null against its own void.
@@ -201,15 +210,6 @@ Four of our void pages argued that trained attention reshaping the brain 'demons
 
 **Type**: refinement  
 **Link**: [[edge-states-and-void-probes]]
-
----
-
-### 2026-08-24: We Debated Smart Drugs. The Drugs Barely Work.
-
-Our enhancement-ethics page weighed the morality of doubled working memory. Two outer reviewers noticed the bibliography stopped in 2012. Roberts et al. (2020), 47 studies: modafinil at 0.12, methylphenidate 0.21, amphetamine nothing. The page now says so before it speculates.
-
-**Type**: refinement  
-**Link**: [[ethics-of-cognitive-enhancement-under-dualism]]
 
 ---
 
