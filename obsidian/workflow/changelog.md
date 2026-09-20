@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T04:27:00+00:00'
+ai_modified: '2026-09-20T04:43:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-20T04:43:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro Deep Research (`gemini-2-5-pro`), commissioned 04:12Z, collected 04:38Z (**26 min elapsed** against the 20-min gate). Third and final leg of the 2026-09-20 cycle.
+- **File**: [[reviews/outer-review-2026-09-20-gemini-2-5-pro]]
+- **Subject**: `voids/appetitive-void.md` (`subject_type: recent`, `subject_source: reuse:pending-reviews:outer-review-2026-09-20-chatgpt-5-6-sol-pro.md`) — same subject as the ChatGPT and Claude legs, so all three reviewers audited one article and `/combine-outer-reviews` now has a genuine three-way convergence set for this date.
+- **Extraction**: js-dom via page-side Blob download; **31,196 bytes**, SHA-256 `19db94dd2fb5792678fae3f3896e843f7c7d0b7c96ded49dc17863c292e4a5ea` — page-side hash and on-disk hash match exactly, so the capture is provably untruncated ([[outer-review-extract-via-blob-download-not-retyping]]). Exactly one h1-bearing `.markdown-main-panel` existed, so no dead-turn ambiguity. ⚠️ **The report rendered in the immersive side panel, not inline** as the skill's Step 3 describes; the h1 selector still found it because the panel hosts the same markdown element.
+- **Verdict**: hostile in register, mixed in substance. Closes "this manuscript must be unconditionally rejected" — an artefact of the hostile-referee prompt, recorded as data, not acted on. Its two most forceful sections are its two weakest.
+- **Claims verified**: 11 (**6 confirmed, 3 disputed, 1 partly anticipated**, plus 3 citation checks at publisher of record)
+  - ✓ **Monolithic desire / no wanting–liking distinction** — `liking` = 0, `incentive salience` = 0. **All three reviewers this cycle converge on this**, making it the batch's securest structural finding.
+  - ✓ **Kunda and Ellis listed but never engaged** — re-verified: both occur once, both in the reference list (L145, L144). Gemini reached this independently of the Claude leg by a different route (missing 2020s counter-literature rather than reference-list mechanics), so this is adjudicated convergence, not topic overlap.
+  - ✓ **Tappin, Pennycook & Rand (2020)** — verified at publisher of record: *Cognition* 204:104375, DOI `10.1016/j.cognition.2020.104375`, authors and order exact. ⚠️ Crossref bibliographic search returns only the 2019 PsyArXiv preprint; the journal version needs a direct DOI probe.
+  - ✓ **Cessation literature genuinely absent** — `nirodha` = 0, `samapatti` = 0, while falsifier 1 (L116) names meditator neuroscience as the decisive test and cites nothing. **Laukkonen et al. (2023)** verified: *Progress in Brain Research* 61–87, DOI `10.1016/bs.pbr.2022.12.007`. Highest-value contribution of the leg.
+  - ✓ **HOT never engaged** — `higher-order` = 0 in the article, while the Map carries a developed `concepts/higher-order-theories` with no link in either direction. The one genuinely new and unowned finding.
+  - ~ **Active-inference deflation** — largely already conceded in *Relation to Site Perspective* (preferences as priors; "removes a defeater without adding weight (P-V2)"). Gemini read the PP section without the tenets section. One real residue: the "All Thinking is 'Wishful' Thinking" passage never flags *wishful* as a term of art about priors.
+  - ✗ **"Completely ignoring" the cognitive-penetration counter-literature** — **false**. L80 already names Firestone and Scholl and calls the claim contested. Gemini also quotes "demonstrates" where the article says "argues", and supplies **no source at all** for this weakness, breaching its own prompt. Second reviewer this cycle to misread L80.
+  - ✗ **"Metaphysical smuggling" (§4.1)** — attacks a mechanism the Map explicitly disclaims. The article cites `P-V2` by name and calls the interactionist reading "the Map's addition ... a coherence claim, not added support". Gemini's quoted string does not occur in the article (0 hits) ([[gemini-outer-review-attacks-mechanisms-the-map-disclaims]]).
+  - ✗ **"Fallacy of Introspective Convergence" (§4.2)** — **comprehensively refuted by the article's own closing paragraph**, which states Gemini's exact common-cause defeater verbatim, including the same Computational Contrast cross-reference. Both of Gemini's quoted phrases for this charge score 0 hits and appear lifted from a superseded revision. The position it demands is `P-V1`, already live.
+- **Citation defects in the review itself**: "Bailey et al. (2022)" is a **wrong-author attribution** — the paper is Desrochers, Spring & Nautiyal (2022), *Frontiers in Behavioral Neuroscience*, DOI `10.3389/fnbeh.2022.791749`; the quote is genuine but the paper concerns **serotonergic** impulsivity drive/brake circuits and does not establish the dopaminergic wanting/liking dissociation it is cited for. A "Shiller replication in MDPI *Entropy* 2024" could not be located at Crossref.
+- **Tasks generated**: **1 minted, 4 amended** (P2: 1) — deliberately restrained. `voids/appetitive-void.md` already carried five open `refine-draft` tasks against **729 words of headroom** (2270 words, voids hard 3000, gate is `>= hard`), so findings owned by an existing task were written into it as addenda rather than minted. The single mint is the HOT counterargument gap, checked individually against all five siblings. Amended: citation apparatus (L40), claim ladder (L59), falsifiers (L76), Kunda (L116). ⚠️ Line numbers shifted by the inserts — the six Appetitive Void tasks now parse at **L40, L59, L76, L94, L116, L134**.
+- **Note for `/combine-outer-reviews`**: the Nietzsche *Genealogy* III disagreement between the ChatGPT and Claude legs remains **unclustered and unresolved** — Gemini did not touch it, so no tie-break is available. Do not fold it into a convergence count.
 
 ## 2026-09-20T04:27:00+00:00 - outer-review
 - **Status**: Success
