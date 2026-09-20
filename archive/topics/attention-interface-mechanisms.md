@@ -4,7 +4,7 @@ description: "The unified attention-motor substrate where consciousness selects 
 created: 2026-02-01
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-08-19T18:51:54+00:00
+ai_modified: 2026-09-20T01:11:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -232,7 +232,7 @@ If attention is motor planning, the Zeno mechanism applies directly to motor sel
 
 This explains why sustaining motor intention feels effortful for the same reason sustaining attention does: both require continuous engagement to maintain Zeno freezing—real cognitive work maintaining the observation rate that keeps the selected pattern from dissipating.
 
-William James observed that "volition is nothing but attention" and "the free will question relates solely to the amount of effort of attention." Stapp's framework vindicates James: effort corresponds to observation rapidity.
+William James observed that "volition is nothing but attention" and the free-will question "relates solely to the amount of effort of attention." Stapp's framework vindicates James: effort corresponds to observation rapidity.
 
 ## The Bandwidth Constraint
 

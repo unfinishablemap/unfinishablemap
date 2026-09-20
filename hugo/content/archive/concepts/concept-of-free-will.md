@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-04-20 05:45:00+00:00
+ai_modified: 2026-09-20 01:11:04+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Free Will and Determinism (topics/free-will)—the concepts
   version was largely a subset that explicitly deferred to the topics article for
@@ -32,7 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-23 03:37:00+00:00
-lastmod: 2026-04-20 05:45:00+00:00
+lastmod: 2026-09-20 01:11:04+00:00
 modified: *id001
 original_path: /concepts/concept-of-free-will/
 related_articles:
@@ -76,7 +76,7 @@ Three lines of experiential evidence support genuine agency:
 
 **The [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/)** — Choosing feels fundamentally different from observing. Deliberation involves felt openness among alternatives, resolution when one is selected, and a sense of authorship afterward — what the Map calls the [phenomenology of volition](/concepts/phenomenology-of-choice-and-volition/). If choices were predetermined, this phenomenological structure would be systematically misleading in a way that requires its own explanation.
 
-**The [phenomenology of effort](/concepts/mental-effort/)** — Hard choices feel hard. Sustained attention requires ongoing engagement. William James argued that "the free will question relates solely to the amount of effort of attention." If choices were random fluctuations (as the luck objection suggests), there would be no phenomenology of effort — random events don't feel like work.
+**The [phenomenology of effort](/concepts/mental-effort/)** — Hard choices feel hard. Sustained attention requires ongoing engagement. William James argued that the free-will question "relates solely to the amount of effort of attention." If choices were random fluctuations (as the luck objection suggests), there would be no phenomenology of effort — random events don't feel like work.
 
 **Neural signatures of willed action** — [Willed attention](/concepts/attention-as-interface/) shows frontal theta oscillations and bidirectional frontoparietal coherence absent in automatic or merely instructed behaviour. The subjective sense of authorship tracks genuine differences in neural organisation, not an arbitrary overlay.
 

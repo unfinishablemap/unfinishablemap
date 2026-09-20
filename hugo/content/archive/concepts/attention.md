@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-29 14:30:00+00:00
+ai_modified: 2026-09-20 01:11:04+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Attention as Interface
 archived: true
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-29 14:30:00+00:00
-lastmod: 2026-01-29 14:30:00+00:00
+lastmod: 2026-09-20 01:11:04+00:00
 modified: *id001
 original_path: /concepts/attention/
 related_articles:
@@ -111,7 +111,7 @@ This explains the dissociation evidence: consciousness can exist without directi
 
 ### The Phenomenology of Effort
 
-[William James](/topics/william-james-consciousness/) observed that "the free will question relates solely to the amount of effort of attention." Jeffrey Schwartz's OCD therapy provides evidence: training patients to redirect attention produces measurable brain changes (altered caudate metabolism). Mental effort has physical consequences.
+[William James](/topics/william-james-consciousness/) observed that the free-will question "relates solely to the amount of effort of attention." Jeffrey Schwartz's OCD therapy provides evidence: training patients to redirect attention produces measurable brain changes (altered caudate metabolism). Mental effort has physical consequences.
 
 If attention is merely neural competition, why does it *feel* like work? But if attention is how consciousness engages matter, the phenomenology makes sense. See [mental-effort](/concepts/mental-effort/) for detailed treatment.
 

@@ -4,7 +4,7 @@ description: "Free will as the capacity for genuine authorship of choices. The U
 created: 2026-02-20
 modified: 2026-04-20
 human_modified:
-ai_modified: 2026-04-20T05:45:00+00:00
+ai_modified: 2026-09-20T01:11:04+00:00
 last_deep_review: 2026-03-23T03:37:00+00:00
 draft: false
 archived: true
@@ -71,7 +71,7 @@ Three lines of experiential evidence support genuine agency:
 
 **The [[phenomenology-of-choice-and-volition|phenomenology of choice]]** — Choosing feels fundamentally different from observing. Deliberation involves felt openness among alternatives, resolution when one is selected, and a sense of authorship afterward — what the Map calls the [[phenomenology-of-choice-and-volition|phenomenology of volition]]. If choices were predetermined, this phenomenological structure would be systematically misleading in a way that requires its own explanation.
 
-**The [[mental-effort|phenomenology of effort]]** — Hard choices feel hard. Sustained attention requires ongoing engagement. William James argued that "the free will question relates solely to the amount of effort of attention." If choices were random fluctuations (as the luck objection suggests), there would be no phenomenology of effort — random events don't feel like work.
+**The [[mental-effort|phenomenology of effort]]** — Hard choices feel hard. Sustained attention requires ongoing engagement. William James argued that the free-will question "relates solely to the amount of effort of attention." If choices were random fluctuations (as the luck objection suggests), there would be no phenomenology of effort — random events don't feel like work.
 
 **Neural signatures of willed action** — [[attention-as-interface|Willed attention]] shows frontal theta oscillations and bidirectional frontoparietal coherence absent in automatic or merely instructed behaviour. The subjective sense of authorship tracks genuine differences in neural organisation, not an arbitrary overlay.
 

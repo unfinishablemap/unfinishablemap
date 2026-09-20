@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-08-19 18:51:54+00:00
+ai_modified: 2026-09-20 01:11:04+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 archive_reason: Coalesced into Attention as the Selection Interface
 archived: true
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-06 11:22:00+00:00
-lastmod: 2026-08-19 18:51:54+00:00
+lastmod: 2026-09-20 01:11:04+00:00
 modified: *id001
 original_path: /topics/attention-motor-planning-quantum-interface/
 related_articles:
@@ -82,7 +82,7 @@ The Map proposes consciousness fills this role. One candidate mechanism is the [
 
 Sustaining voluntary attention feels effortful. Sustaining motor intention feels effortful in the same way. Novel movements feel harder than practised ones; complex sequences feel harder than simple actions. If the phenomenology tracks nothing real—if effort is epiphenomenal—its systematic correlation with task difficulty is unexplained.
 
-If consciousness contributes to selection, the correlation has a natural explanation: more difficult selections require greater conscious engagement to stabilise the desired pattern against competing alternatives. The [quantum Zeno framework](/concepts/stapp-quantum-mind/) offers one account of how this might work—higher observation rates holding a quantum state stable—though the phenomenological argument stands independently of any specific mechanism. William James observed that "volition is nothing but attention" and "the free will question relates solely to the amount of effort of attention." The convergence vindicates James: if attention and motor selection share a mechanism, then the felt effort of choosing what to do and the felt effort of choosing what to attend to have the same source.
+If consciousness contributes to selection, the correlation has a natural explanation: more difficult selections require greater conscious engagement to stabilise the desired pattern against competing alternatives. The [quantum Zeno framework](/concepts/stapp-quantum-mind/) offers one account of how this might work—higher observation rates holding a quantum state stable—though the phenomenological argument stands independently of any specific mechanism. William James observed that "volition is nothing but attention" and the free-will question "relates solely to the amount of effort of attention." The convergence vindicates James: if attention and motor selection share a mechanism, then the felt effort of choosing what to do and the felt effort of choosing what to attend to have the same source.
 
 This parallel phenomenology also challenges illusionist accounts. If the sense of effort in motor selection is representational fiction unconnected to causal processes, its precise scaling with task difficulty—across two supposedly separate cognitive domains—is a remarkable coincidence.
 

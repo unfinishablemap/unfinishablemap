@@ -4,7 +4,7 @@ description: "Attention and motor planning share neural substrates, creating a u
 created: 2026-02-01
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-08-19T18:51:54+00:00
+ai_modified: 2026-09-20T01:11:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -124,7 +124,7 @@ A separate 2024 *Brain* study found dopamine promotes theta rhythms (4-10 Hz)—
 
 Sustaining voluntary attention feels effortful. Sustaining motor intention feels effortful in the same way. This is [[phenomenal-attention]]—the felt experience of attending, distinct from the computational resource allocation that brains and machines both perform. If the phenomenology tracks nothing real—if effort is epiphenomenal—its systematic correlation with task difficulty is unexplained.
 
-If consciousness contributes to selection, the correlation has a natural explanation: more difficult selections require greater conscious engagement to stabilise the desired pattern against competing alternatives. Moreover, sustained effort *depletes*—attention fatigue reduces capacity across domains, and recovery requires sleep, not just cessation. Computers don't fatigue from sustained processing; the biological character of depletion suggests dependence on an interface with physical costs. William James observed that "volition is nothing but attention" and "the free will question relates solely to the amount of effort of attention." The convergence vindicates James: if attention and motor selection share a mechanism, then the felt effort of choosing what to do and the felt effort of choosing what to attend to have the same source.
+If consciousness contributes to selection, the correlation has a natural explanation: more difficult selections require greater conscious engagement to stabilise the desired pattern against competing alternatives. Moreover, sustained effort *depletes*—attention fatigue reduces capacity across domains, and recovery requires sleep, not just cessation. Computers don't fatigue from sustained processing; the biological character of depletion suggests dependence on an interface with physical costs. William James observed that "volition is nothing but attention" and the free-will question "relates solely to the amount of effort of attention." The convergence vindicates James: if attention and motor selection share a mechanism, then the felt effort of choosing what to do and the felt effort of choosing what to attend to have the same source.
 
 A physicalist might respond that the brain simply monitors its own resource allocation and represents it as "effort"—a metacognitive signal, not evidence of non-physical causation. But this only relocates the question: why does the monitoring system track task difficulty with the same phenomenal character across attention and motor selection, two domains only recognised as sharing a mechanism after decades of neuroscience research?
 

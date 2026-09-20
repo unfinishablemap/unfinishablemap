@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T00:42:52+00:00'
+ai_modified: '2026-09-20T01:11:04+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-20'
-lastmod: 2026-09-20 00:42:52+00:00
+lastmod: 2026-09-20 01:11:04+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-20T01:11:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [structure-of-attention](/topics/structure-of-attention/) (+ 9 other loci)
+- **Task**: queue line 39 — settle the twice-flipped verdict on James's "the free will question relates solely to the amount of effort of attention", then make every corpus locus agree.
+- **VERDICT: confirmed verbatim, but the corpus was splicing a non-James subject into the quotation marks.** Primary text: Project Gutenberg ebook 57634, *The Principles of Psychology* vol. 2 (1,704,117 bytes), `CHAPTER XXVI. / WILL.`, between edition page markers [497] and [498] → **vol. 2, ch. XXVI, p. 497**. James's actual sentences: *"The question of fact in the free-will controversy is thus extremely simple. It relates solely to the amount of effort of attention or consent which we can at any time put forth."*
+- **Raw counts, each variant grepped separately on NFKC-normalised whitespace-flattened text** (the etext line-breaks mid-phrase, so whole-sentence greps false-zero):
+  - vol. 2: `amount of effort of attention` 2 · `consent which we can at any time put forth` 1 · `relates solely` 1 · `free-will question` 2 · **`free will question` (unhyphenated) 0**
+  - vol. 1 (57628, control): `amount of effort of attention` 0 · `consent which we` 0 · `relates solely` 0 · `volition is nothing but attention` **1** (ch. XI)
+- **Both prior reviews were half-right — this is the `merged-halves-disagreeing-is-a-diagnostic` shape.** `deep-review-2026-06-20-structure-of-attention:47` was right that the *predicate* is genuine. `deep-review-2026-07-16-stapp-quantum-mind:28` was right that the *string as quoted in those loci* is not verbatim. **Root cause of the flip: the 07-16 pass searched "ch. XXVI (Will) and vol. 1" — ch. XXVI is in vol. 2.** Right chapter, wrong volume → false zero → "paraphrase-as-quote".
+- **The real defect was the quote boundary, not the wording.** James's subject is "The question of fact in the free-will controversy" / "It". Eight loci had substituted "the free will question" *inside* the quotation marks — words James never wrote. Fix = move the subject out of the quotes, which is the construction two loci already used. Zero net word cost, no wording churn, nothing retracted.
+- **Changed (8 loci across 8 files)** — `"the free will question relates solely…"` → `the free-will question "relates solely…"`:
+  - `topics/free-will.md:161` (also restored the dropped tail + locator)
+  - `archive/topics/attention-interface-mechanisms.md`, `archive/topics/attention-motor-quantum-selection.md`, `archive/topics/attention-as-selection-interface.md`, `archive/topics/attention-motor-planning-quantum-interface.md`, `archive/concepts/attention.md`, `archive/concepts/concept-of-free-will.md`
+  - `archive/concepts/voluntary-attention-control.md:80` — blockquote could not host an outside-the-quotes subject, so it now carries James's two real sentences verbatim.
+- **Changed (2 more)**: `topics/structure-of-attention.md:96` — wording already correct (full tail, correct boundary); locator added. `concepts/stapp-quantum-mind.md:72` — **07-16 de-quoting reversed**; restored as a correctly-bounded quotation with `(ch. 26, p. 497)`. Rewritten length-negative (3873→3868 words) because the file sits 369 words over its hard cap.
+- **Deliberately unchanged**: `topics/trilemma-of-selection.md:76` — already has the correct boundary (`the free-will question "relates solely…"`); quoted span is contiguous verbatim, tail dropped as condensation. The driver's note flagged the outside-the-quotes hyphenated `free-will` as a defect; it is in fact the *correct* construction. No churn applied.
+- **Locus count re-measured: 11, not the 9 in the task note.** The note missed `archive/topics/attention-as-selection-interface.md:127` and `archive/topics/attention-motor-planning-quantum-interface.md:81`, both carrying the identical splice. Also: the note's case-split warning was right — `voluntary-attention-control` was the sole cap-T form.
+- **Sibling quotes verified in passing, both genuine, neither touched**: "volition is nothing but attention" (vol. 1 ch. XI — so `stapp-quantum-mind`'s existing `ch. 11` cite is correct) and "sustained voluntary attention is a repetition of successive efforts" (vol. 1 ch. XI, James: *"What is called sustained voluntary attention is a repetition of successive efforts which bring back the topic to the mind."*).
+- **Left as audit trail per task scope, but flagged**: `research/stapp-mental-effort-mind-matter-2026-01-14.md` still carries the spliced form and is the probable origin of it. It renders at a live URL. Not edited because research notes are provenance records; a human call on whether to annotate it.
+- **Verification**: `grep -cF` both trees after `scripts/sync.py`. Spliced form now **0** across `obsidian/topics`, `obsidian/concepts`, `archive/`, `hugo/content/{topics,concepts,archive}`; corrected boundary form present 1× in each of the 11 content loci, obsidian↔hugo in agreement.
+- **Published**: yes
 
 ## 2026-09-20T00:42:52+00:00 - refine-draft
 - **Status**: Success

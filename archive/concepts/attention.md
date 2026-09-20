@@ -4,7 +4,7 @@ description: "Attention selects information for conscious processing. Its relati
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-29T14:30:00+00:00
+ai_modified: 2026-09-20T01:11:04+00:00
 draft: false
 archived: true
 archived_date: 2026-02-12T21:34:00+00:00
@@ -108,7 +108,7 @@ This explains the dissociation evidence: consciousness can exist without directi
 
 ### The Phenomenology of Effort
 
-[[william-james-consciousness|William James]] observed that "the free will question relates solely to the amount of effort of attention." Jeffrey Schwartz's OCD therapy provides evidence: training patients to redirect attention produces measurable brain changes (altered caudate metabolism). Mental effort has physical consequences.
+[[william-james-consciousness|William James]] observed that the free-will question "relates solely to the amount of effort of attention." Jeffrey Schwartz's OCD therapy provides evidence: training patients to redirect attention produces measurable brain changes (altered caudate metabolism). Mental effort has physical consequences.
 
 If attention is merely neural competition, why does it *feel* like work? But if attention is how consciousness engages matter, the phenomenology makes sense. See [[mental-effort]] for detailed treatment.
 

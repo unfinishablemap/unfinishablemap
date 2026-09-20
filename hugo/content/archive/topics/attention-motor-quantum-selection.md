@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-08-19 18:54:54+00:00
+ai_modified: 2026-09-20 01:11:04+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5
 archive_reason: Coalesced into Mechanisms of the Attention-Consciousness Interface
 archived: true
@@ -25,7 +25,7 @@ description: Attention and motor control share neural substrates—suggesting co
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-19 18:54:54+00:00
+lastmod: 2026-09-20 01:11:04+00:00
 modified: *id001
 original_path: /topics/attention-motor-quantum-selection/
 related_articles:
@@ -141,7 +141,7 @@ If attention is motor planning, the Zeno mechanism applies directly to motor sel
 
 This framework explains the phenomenology. Sustaining motor intention feels effortful for the same reason sustaining attention feels effortful: both require continuous engagement to maintain Zeno freezing. The effort is real cognitive work—maintaining the observation rate that keeps the selected pattern from dissipating.
 
-William James observed that "volition is nothing but attention" and "the free will question relates solely to the amount of effort of attention." Stapp's framework vindicates James: effort corresponds to observation rapidity.
+William James observed that "volition is nothing but attention" and the free-will question "relates solely to the amount of effort of attention." Stapp's framework vindicates James: effort corresponds to observation rapidity.
 
 ### Timing Constraints
 

@@ -4,7 +4,7 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-09-07T02:50:19+00:00
+ai_modified: 2026-09-20T01:11:04+00:00
 last_deep_review: 2026-07-11T04:20:00+00:00
 draft: false
 topics:
@@ -158,7 +158,7 @@ Meditation reveals that consciousness can *refrain from selecting*. The agent ca
 
 ## What Free Will Requires
 
-On the Map's framework, free will requires: (1) [[tenets#^dualism|consciousness as non-physical]], (2) [[tenets#^bidirectional-interaction|bidirectional interaction]], (3) a gap in physical causation where consciousness operates, and (4) [[agent-causation|agent causation]]—the agent as persisting subject as irreducible cause. William James: "the free will question relates solely to the amount of effort of attention."
+On the Map's framework, free will requires: (1) [[tenets#^dualism|consciousness as non-physical]], (2) [[tenets#^bidirectional-interaction|bidirectional interaction]], (3) a gap in physical causation where consciousness operates, and (4) [[agent-causation|agent causation]]—the agent as persisting subject as irreducible cause. William James held that the free-will question "relates solely to the amount of effort of attention or consent which we can at any time put forth" (*Principles of Psychology*, vol. 2, ch. XXVI, p. 497).
 
 ## Free Will and Personal Identity
 

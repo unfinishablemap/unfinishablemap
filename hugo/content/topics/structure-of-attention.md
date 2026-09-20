@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-09-10 15:46:31+00:00
+ai_modified: 2026-09-20 01:11:04+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 08:57:03+00:00
-lastmod: 2026-09-10 15:46:31+00:00
+lastmod: 2026-09-20 01:11:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -97,7 +97,7 @@ The willed/instructed distinction is critical. Research (Rajan et al. 2019; Nadr
 
 Each mode feels different from the inside, and these differences track the neural distinctions.
 
-When a loud sound seizes your attention, the phenomenology is passive. Something happens *to* you; there is no sense of agency because there isn't any. Following a cue sits in between—more active engagement than capture, but you are implementing someone else's decision. Choosing where to attend includes a distinctive sense of *work*: sustained willed attention is metabolically expensive and feels that way. William James held that the [free-will](/topics/free-will/) question "relates solely to the amount of effort of attention or consent which we can at any time put forth."
+When a loud sound seizes your attention, the phenomenology is passive. Something happens *to* you; there is no sense of agency because there isn't any. Following a cue sits in between—more active engagement than capture, but you are implementing someone else's decision. Choosing where to attend includes a distinctive sense of *work*: sustained willed attention is metabolically expensive and feels that way. William James held that the [free-will](/topics/free-will/) question "relates solely to the amount of effort of attention or consent which we can at any time put forth" (*Principles of Psychology*, vol. 2, ch. XXVI, p. 497).
 
 This phenomenological difference—why willing feels effortful while capture doesn't—demands explanation. If all attention were just neural computation, why would some modes feel like work? The [mental-effort](/concepts/mental-effort/) article develops this: effort may feel real because it *is* real work—consciousness actively holding neural patterns through repeated observation.
 

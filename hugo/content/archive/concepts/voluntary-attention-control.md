@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-23 23:20:00+00:00
+ai_modified: 2026-09-20 01:11:04+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Voluntary Attention
 archived: true
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-01-23 23:20:00+00:00
+lastmod: 2026-09-20 01:11:04+00:00
 modified: *id001
 original_path: /concepts/voluntary-attention-control/
 related_articles:
@@ -79,7 +79,7 @@ William James documented the phenomenology of attention in 1890:
 
 > "Volition is nothing but attention."
 > "Sustained voluntary attention is a repetition of successive efforts."
-> "The free will question relates solely to the amount of effort of attention."
+> "The question of fact in the free-will controversy is thus extremely simple. It relates solely to the amount of effort of attention or consent which we can at any time put forth."
 
 James observed that controlling attention feels like work. Attention wanders unless continuously renewed. You can sustain focus, but doing so costs something. The question is what this cost represents.
 

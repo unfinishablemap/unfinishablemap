@@ -37,23 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: two deep reviews reached OPPOSITE verdicts on the same James quotation — one de-quoted it as fabricated, three live articles still quote it
-
-- **Type**: refine-draft
-- **File**: obsidian/topics/structure-of-attention.md
-- **Source**: cycle driver, 2026-09-20 00:4x UTC — surfaced as an out-of-scope finding by the James-reference pass on `topics/attention-and-the-consciousness-interface`
-- **Generated**: 2026-09-20
-- **Notes**: **THE CONTRADICTION.** `reviews/deep-review-2026-07-16-stapp-quantum-mind.md:28` ruled *"the free will question relates solely to the amount of effort of attention"* **paraphrase-as-quote — not verbatim James**, and de-quoted it in `concepts/stapp-quantum-mind`. But `reviews/deep-review-2026-06-20-structure-of-attention.md:47` ruled the same string **"real-correct — not fabricated"**, and `workflow/archive/changelog-2026-W22.md:4846` records the verbatim as *"...effort of attention or consent which we can at any time put forth"* — i.e. genuine with a dropped tail. ⚠️ **Exactly the shape of [[tallis-misrepresentation-quote-propagation]] — a verdict that flipped twice. Settle it once, then make all loci agree.**
-  ✅ **MEASURED 2026-09-20, and it explains the flip**: the 07-16 review looked in **ch. XXVI (Will)** and in vol. 1 and found nothing. A Gutenberg fetch of **vol. 1 (ebook 57628)** this run returns **0** for `amount of effort of attention` and **0** for `consent which we can at any time put forth`. So the string is simply **not in vol. 1** — it is not thereby fabricated. **ROUTE: fetch Gutenberg ebook 57634 (*The Principles of Psychology* vol. 2) and grep there.** ⚠️ A failed fetch is not an absence ([[webfetch-summariser-absence-is-not-absence]]); an implausibly small body means switch endpoint. For a page number, the Internet Archive scan `principlesofpsyc02jame_djvu.txt` carries running headers that bracket a hit — that is how p. 447 was pinned for the vol. 1 quote this run.
-  **LIVE LOCI TO RECONCILE once the verdict is settled** (grep-measured, both trees need the fix — forks routinely leave `hugo/content/` stale, [[obsidian-only-fix-leaves-defect-live-in-hugo]]):
-  - `obsidian/topics/structure-of-attention.md:96` — quotes the **FULL** form incl. "or consent which we can at any time put forth". If vol. 2 confirms, this locus is already correct and is the reference wording.
-  - `obsidian/topics/free-will.md:161` and `obsidian/topics/trilemma-of-selection.md:76` — quote the **truncated** form.
-  - `obsidian/concepts/stapp-quantum-mind.md:72` — **de-quoted** by the 07-16 review. If vol. 2 confirms the string, this de-quoting was the error and should be reverted to a quotation with the ch./p. locator.
-  - `archive/topics/attention-interface-mechanisms.md:235` — **archived but live at HTTP 200**; still carries the quoted truncated form ([[outer-reviewers-critique-archived-articles-at-live-urls]], [[defect-sweeps-must-include-archive-tree]]).
-  🛑 **DO NOT delete the quotation to resolve the disagreement in either direction.** If vol. 2 confirms it, add the locator and restore the stapp de-quoting; if vol. 2 refutes it, de-quote the remaining four loci into faithful indirect speech — James's *view* is genuinely his either way ([[quote-fails-against-listed-refs-may-mean-missing-reference]], [[i-widen-retractions-and-upgrade-coiners-into-proponents]]).
-  ℹ️ **Settled, do not re-open**: the *other* James string, `"volition is nothing but attention"`, was independently re-verified at the primary on 2026-09-20 — Gutenberg 57628, ch. XI, section "Is Voluntary Attention a Resultant or a Force?", p. 447 confirmed against the IA scan. It is real, in James's own voice, and the lower-case mid-sentence form is the faithful one.
-
-
 ### NEEDS-HUMAN (doctrine) 2026-09-19: the Tenet-5 "parsimony tiebreaker" rule is the engine behind a defect family flagged in SIX consecutive tenet checks — and `tenets.md` never states it
 
 - **Type**: refine-draft
@@ -1863,6 +1846,19 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-20: two deep reviews reached OPPOSITE verdicts on the same James quotation — one de-quoted it as fabricated, three live articles still quote it
+- **Type**: refine-draft
+- **File**: obsidian/topics/structure-of-attention.md
+- **Notes**: **THE CONTRADICTION.** `reviews/deep-review-2026-07-16-stapp-quantum-mind.md:28` ruled *"the free will question relates solely to the amount of effort of attention"* **paraphrase-as-quote — not verbatim James**, and de-quoted it in `concepts/stapp-quantum-mind`. But `reviews/deep-review-2026-06-20-structure-of-attention.md:47` ruled the same string **"real-correct — not fabricated"**, and `workflow/archive/changelog-2026-W22.md:4846` records the verbatim as *"...effort of attention or consent which we can at any time put forth"* — i.e. genuine with a dropped tail. ⚠️ **Exactly the shape of [[tallis-misrepresentation-quote-propagation]] — a verdict that flipped twice. Settle it once, then make all loci agree.**
+  ✅ **MEASURED 2026-09-20, and it explains the flip**: the 07-16 review looked in **ch. XXVI (Will)** and in vol. 1 and found nothing. A Gutenberg fetch of **vol. 1 (ebook 57628)** this run returns **0** for `amount of effort of attention` and **0** for `consent which we can at any time put forth`. So the string is simply **not in vol. 1** — it is not thereby fabricated. **ROUTE: fetch Gutenberg ebook 57634 (*The Principles of Psychology* vol. 2) and grep there.** ⚠️ A failed fetch is not an absence ([[webfetch-summariser-absence-is-not-absence]]); an implausibly small body means switch endpoint. For a page number, the Internet Archive scan `principlesofpsyc02jame_djvu.txt` carries running headers that bracket a hit — that is how p. 447 was pinned for the vol. 1 quote this run.
+  **LIVE LOCI TO RECONCILE once the verdict is settled** (grep-measured, both trees need the fix — forks routinely leave `hugo/content/` stale, [[obsidian-only-fix-leaves-defect-live-in-hugo]]):
+  - `obsidian/topics/structure-of-attention.md:96` — quotes the **FULL** form incl. "or consent which we can at any time put forth". If vol. 2 confirms, this locus is already correct and is the reference wording.
+  - `obsidian/topics/free-will.md:161` and `obsidian/topics/trilemma-of-selection.md:76` — quote the **truncated** form.
+  - `obsidian/concepts/stapp-quantum-mind.md:72` — **de-quoted** by the 07-16 review. If vol. 2 confirms the string, this de-quoting was the error and should be reverted to a quotation with the ch./p. locator.
+  - `archive/topics/attention-interface-mechanisms.md:235` — **archived but live at HTTP 200**; still carries the quoted truncated form ([[outer-reviewers-critique-archived-articles-at-live-urls]], [[defect-sweeps-must-include-archive-tree]]).
+  🛑 **DO NOT delete the quotation to resolve the disagreement in either direction.** If vol. 2 confirms it, add the locator and restore the stapp de-quoting; if vol. 2 refutes it, de-quote the remaining four loci into faithful indirect speech — James's *view* is genuinely his either way ([[quote-fails-against-listed-refs-may-mean-missing-reference]], [[i-widen-retractions-and-upgrade-coiners-into-proponents]]).
+  ℹ️ **Settled, do not re-open**: the *other* James string, `"volition is nothing but attention"`, was independently re-verified at the primary on 2026-09-20 — Gutenberg 57628, ch. XI, section "Is Voluntary Attention a Resultant or a Force?", p. 447 confirmed against the IA scan. It is real, in James's own voice, and the lower-case mid-sentence form is the faithful one.
 
 ### ✓ 2026-09-20: `topics/attention-and-the-consciousness-interface` quotes James with no James entry in its reference list — the only quoted author without one
 - **Type**: refine-draft

@@ -39,6 +39,23 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: two deep reviews reached OPPOSITE verdicts on the same James quotation — one de-quoted it as fabricated, three live articles still quote it
+
+- **Type**: refine-draft
+- **File**: obsidian/topics/structure-of-attention.md
+- **Source**: cycle driver, 2026-09-20 00:4x UTC — surfaced as an out-of-scope finding by the James-reference pass on `topics/attention-and-the-consciousness-interface`
+- **Generated**: 2026-09-20
+- **Notes**: **THE CONTRADICTION.** `reviews/deep-review-2026-07-16-stapp-quantum-mind.md:28` ruled *"the free will question relates solely to the amount of effort of attention"* **paraphrase-as-quote — not verbatim James**, and de-quoted it in `concepts/stapp-quantum-mind`. But `reviews/deep-review-2026-06-20-structure-of-attention.md:47` ruled the same string **"real-correct — not fabricated"**, and `workflow/archive/changelog-2026-W22.md:4846` records the verbatim as *"...effort of attention or consent which we can at any time put forth"* — i.e. genuine with a dropped tail. ⚠️ **Exactly the shape of tallis-misrepresentation-quote-propagation — a verdict that flipped twice. Settle it once, then make all loci agree.**
+  ✅ **MEASURED 2026-09-20, and it explains the flip**: the 07-16 review looked in **ch. XXVI (Will)** and in vol. 1 and found nothing. A Gutenberg fetch of **vol. 1 (ebook 57628)** this run returns **0** for `amount of effort of attention` and **0** for `consent which we can at any time put forth`. So the string is simply **not in vol. 1** — it is not thereby fabricated. **ROUTE: fetch Gutenberg ebook 57634 (*The Principles of Psychology* vol. 2) and grep there.** ⚠️ A failed fetch is not an absence (webfetch-summariser-absence-is-not-absence); an implausibly small body means switch endpoint. For a page number, the Internet Archive scan `principlesofpsyc02jame_djvu.txt` carries running headers that bracket a hit — that is how p. 447 was pinned for the vol. 1 quote this run.
+  **LIVE LOCI TO RECONCILE once the verdict is settled** (grep-measured, both trees need the fix — forks routinely leave `hugo/content/` stale, obsidian-only-fix-leaves-defect-live-in-hugo):
+  - `obsidian/topics/structure-of-attention.md:96` — quotes the **FULL** form incl. "or consent which we can at any time put forth". If vol. 2 confirms, this locus is already correct and is the reference wording.
+  - `obsidian/topics/free-will.md:161` and `obsidian/topics/trilemma-of-selection.md:76` — quote the **truncated** form.
+  - `obsidian/concepts/stapp-quantum-mind.md:72` — **de-quoted** by the 07-16 review. If vol. 2 confirms the string, this de-quoting was the error and should be reverted to a quotation with the ch./p. locator.
+  - `archive/topics/attention-interface-mechanisms.md:235` — **archived but live at HTTP 200**; still carries the quoted truncated form (outer-reviewers-critique-archived-articles-at-live-urls, defect-sweeps-must-include-archive-tree).
+  🛑 **DO NOT delete the quotation to resolve the disagreement in either direction.** If vol. 2 confirms it, add the locator and restore the stapp de-quoting; if vol. 2 refutes it, de-quote the remaining four loci into faithful indirect speech — James's *view* is genuinely his either way (quote-fails-against-listed-refs-may-mean-missing-reference, i-widen-retractions-and-upgrade-coiners-into-proponents).
+  ℹ️ **Settled, do not re-open**: the *other* James string, `"volition is nothing but attention"`, was independently re-verified at the primary on 2026-09-20 — Gutenberg 57628, ch. XI, section "Is Voluntary Attention a Resultant or a Force?", p. 447 confirmed against the IA scan. It is real, in James's own voice, and the lower-case mid-sentence form is the faithful one.
+
+
 ### NEEDS-HUMAN (doctrine) 2026-09-19: the Tenet-5 "parsimony tiebreaker" rule is the engine behind a defect family flagged in SIX consecutive tenet checks — and `tenets.md` never states it
 
 - **Type**: refine-draft
@@ -69,17 +86,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   ⚠️ **HIDDEN DEPENDENCY FOUND, protect it in any future pass**: `### The Epistemological Challenge` is an **inbound anchor target from four live articles**, and `voids/three-kinds-of-void` leans on its ADHD-baseline sentence specifically. ⚠️ **The slug-form grep false-zeroes on it; only the heading-text dialect finds it** (corpus-uses-two-anchor-dialects-so-a-slug-check-false-zeros).
   **OPTIONS.** **(1) Ratify the 2026-07-25 standard** — treat apparatus-inclusive `hard_warning` as non-actionable for reference-dense articles, and ideally encode it (a per-file exemption flag, or an argument-only measure in `length.py`). This is the option the evidence supports and it would stop the loop re-minting this task. **(2) Authorise a split** — extract the clinical catalogue to a new `topics/` article. Costs a topics slot (328/360), guts this article's named "evidence hub" role in the attention wing, and must repoint the four inbound anchors above. **(3) Accept a standing `hard_warning`** and let the file sit over the gate; note this permanently blocks the queued P3 AST-opacity insertion, which is a net ~60–100 words.
   ℹ️ **Confirmed intact by section-level count** after the partial condense: `## Engaging Attention Schema Theory` **378 → 378 byte-identical**, `## Honest Limitations` 84 → 84, `## References` 605 → 605. `## Predictions and Falsification` 592 → 549 — compressed, not weakened; protocol, the three weaker predictions and the borrowed-risk admission all intact, and all five spans the 2026-08-13 review names as strengths verified 1/1 in both trees.
-
-### P3: `topics/attention-and-the-consciousness-interface` quotes James with no James entry in its reference list — the only quoted author without one
-
-- **Type**: refine-draft
-- **File**: obsidian/topics/attention-and-the-consciousness-interface.md
-- **Source**: cycle driver, surfaced by the 2026-09-19 condense (`5ab99a7e`) as an open finding it did not act on
-- **Generated**: 2026-09-19
-- **Notes**: **Measured by the driver this run**: the body quotes *"volition is nothing but attention"* and attributes it to James (1 occurrence), while `## References` carries **30 entries and 0 for James** — verified with a case-insensitive scan of the reference block. **He is the only quoted author in the article without a reference entry.**
-  ⚠️ **THE LIKELY DEFECT IS THE MISSING REFERENCE, NOT THE QUOTE — do not delete the quotation to resolve the mismatch** (quote-fails-against-listed-refs-may-mean-missing-reference). But **verify at the primary before adding an entry**: James quotations have been fabricated in this corpus before (james-quotes-fabricated-in-mind-dust-cluster), and five passes today found claims contradicted by their own cited sources — including a fabricated McGinn illustration that survived 22 deep reviews and a quotation mark placed on an article's *own paraphrase* and credited to a named philosopher.
-  **Route**: *The Principles of Psychology* (1890) is out of copyright and fully available, so this is verifiable at the primary text — locate the passage, confirm the wording, and cite volume and page. ⚠️ If the wording does not verify, that is a **correction to report**, not a silent removal. ⚠️ **A failed fetch is not an absence**: today alone this corpus produced a Cloudflare interstitial named `.pdf`, a search page served as a `.pdf` with HTTP 200, an 11 KB PMC stub and a 212-byte WAF stub. `pdftotext` refusing a file, or an implausibly small body, is the tell — switch endpoint.
-  ⚠️ **LENGTH: the file is 426 words OVER its hard ceiling** (4425 against a 3999 usable ceiling) and a reference entry is a net addition of ~20 words. Sequence this after the length decision above, or land it only if the operator ratifies the argument-only standard.
 
 ### P3: the AST opacity mechanism — Gemini's strongest positive point — is absent from `topics/attention-and-the-consciousness-interface`; blocked on the condense
 
@@ -1859,6 +1865,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-20: `topics/attention-and-the-consciousness-interface` quotes James with no James entry in its reference list — the only quoted author without one
+- **Type**: refine-draft
+- **File**: obsidian/topics/attention-and-the-consciousness-interface.md
+- **Notes**: **Measured by the driver this run**: the body quotes *"volition is nothing but attention"* and attributes it to James (1 occurrence), while `## References` carries **30 entries and 0 for James** — verified with a case-insensitive scan of the reference block. **He is the only quoted author in the article without a reference entry.**
+  ⚠️ **THE LIKELY DEFECT IS THE MISSING REFERENCE, NOT THE QUOTE — do not delete the quotation to resolve the mismatch** (quote-fails-against-listed-refs-may-mean-missing-reference). But **verify at the primary before adding an entry**: James quotations have been fabricated in this corpus before (james-quotes-fabricated-in-mind-dust-cluster), and five passes today found claims contradicted by their own cited sources — including a fabricated McGinn illustration that survived 22 deep reviews and a quotation mark placed on an article's *own paraphrase* and credited to a named philosopher.
+  **Route**: *The Principles of Psychology* (1890) is out of copyright and fully available, so this is verifiable at the primary text — locate the passage, confirm the wording, and cite volume and page. ⚠️ If the wording does not verify, that is a **correction to report**, not a silent removal. ⚠️ **A failed fetch is not an absence**: today alone this corpus produced a Cloudflare interstitial named `.pdf`, a search page served as a `.pdf` with HTTP 200, an 11 KB PMC stub and a 212-byte WAF stub. `pdftotext` refusing a file, or an implausibly small body, is the tell — switch endpoint.
+  ⚠️ **LENGTH: the file is 426 words OVER its hard ceiling** (4425 against a 3999 usable ceiling) and a reference entry is a net addition of ~20 words. Sequence this after the length decision above, or land it only if the operator ratifies the argument-only standard.
 
 ### ✓ 2026-09-20: five loci say "mice"/"mouse" where Chomsky says "rats" — species drift inside a genuine citation
 - **Type**: refine-draft

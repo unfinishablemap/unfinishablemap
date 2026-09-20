@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-09-07 02:50:19+00:00
+ai_modified: 2026-09-20 01:11:04+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -45,7 +45,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 04:20:00+00:00
-lastmod: 2026-09-07 02:50:19+00:00
+lastmod: 2026-09-20 01:11:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -162,7 +162,7 @@ Meditation reveals that consciousness can *refrain from selecting*. The agent ca
 
 ## What Free Will Requires
 
-On the Map's framework, free will requires: (1) [consciousness as non-physical](/tenets/#dualism), (2) [bidirectional interaction](/tenets/#bidirectional-interaction), (3) a gap in physical causation where consciousness operates, and (4) [agent causation](/concepts/agent-causation/)—the agent as persisting subject as irreducible cause. William James: "the free will question relates solely to the amount of effort of attention."
+On the Map's framework, free will requires: (1) [consciousness as non-physical](/tenets/#dualism), (2) [bidirectional interaction](/tenets/#bidirectional-interaction), (3) a gap in physical causation where consciousness operates, and (4) [agent causation](/concepts/agent-causation/)—the agent as persisting subject as irreducible cause. William James held that the free-will question "relates solely to the amount of effort of attention or consent which we can at any time put forth" (*Principles of Psychology*, vol. 2, ch. XXVI, p. 497).
 
 ## Free Will and Personal Identity
 
