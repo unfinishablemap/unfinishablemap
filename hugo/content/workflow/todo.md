@@ -39,6 +39,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: the origin of the James "free will question" splice is still live in a research note at an HTTP 200 URL
+
+- **Type**: refine-draft
+- **File**: obsidian/research/stapp-mental-effort-mind-matter-2026-01-14.md
+- **Source**: cycle driver, 2026-09-20 01:1x UTC — flagged but deliberately not fixed by the quote-boundary sweep at commit `868d3819`
+- **Generated**: 2026-09-20
+- **Notes**: **SETTLED UPSTREAM, do not re-litigate the verdict.** The 2026-09-20 sweep verified at the primary (Project Gutenberg ebook **57634**, *The Principles of Psychology* **vol. 2, ch. XXVI "Will", p. 497**) that James wrote: *"The question of fact in the free-will controversy is thus extremely simple. It relates solely to the amount of effort of attention or consent which we can at any time put forth."* The **predicate is verbatim**; the subject **"the free will question" appears 0 times in either volume** and had been spliced inside the quotation marks. Eleven live loci were corrected by moving the subject outside the quotes at zero net word cost.
+  **WHAT IS LEFT.** `research/stapp-mental-effort-mind-matter-2026-01-14.md` (L49 and L107-109) still carries the spliced form and is the **probable origin** of the whole family — every corrected locus traces back through the Stapp cluster. ⚠️ **It renders at a live URL (HTTP 200)**, so this is not an internal-only record.
+  **THE DECISION, and it is a convention question not a fidelity one**: dated research notes are an audit trail and the corpus convention is to **annotate, not rewrite** — yesterday's species-drift sweep added marked `**Correction (YYYY-MM-DD)**` notes to four dated notes and left the original text legible, which is the precedent to follow here. 🛑 **Do NOT silently edit the quoted text in a dated note** — that destroys the record of what the error was. Add a dated correction note giving the verified wording and the vol. 2 / ch. XXVI / p. 497 locator.
+  ℹ️ **Do not touch the `reviews/` and `workflow/` hits** (34 remaining, measured 2026-09-20). Those are the dated adjudication trail of this very flip and are correct as written.
+  ℹ️ **Also settled in passing, do not re-open**: `"volition is nothing but attention"` and `"sustained voluntary attention is a repetition of successive efforts"` are both genuine, both **vol. 1 ch. XI**; `concepts/stapp-quantum-mind`'s existing `ch. 11` cite is correct.
+
+
 ### NEEDS-HUMAN (doctrine) 2026-09-19: the Tenet-5 "parsimony tiebreaker" rule is the engine behind a defect family flagged in SIX consecutive tenet checks — and `tenets.md` never states it
 
 - **Type**: refine-draft

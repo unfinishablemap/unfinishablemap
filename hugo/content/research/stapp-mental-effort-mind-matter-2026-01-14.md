@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
+ai_modified: 2026-09-20 01:24:13+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-14
-date: '2026-06-20'
+date: '2026-09-20'
 draft: false
-lastmod: 2026-06-20 00:00:00+00:00
+lastmod: 2026-09-20 01:24:13+00:00
 related_articles: []
 title: Research Notes - Stapp on Mental Effort and Mind-Matter Interaction
 ---
@@ -51,6 +52,7 @@ Henry Stapp (b. 1928), theoretical physicist at Lawrence Berkeley Lab, argues th
 - **Key points**:
   - Stapp finds "kindred spirit" in William James's concepts of volitional effort and attention
   - James claimed "Volition is nothing but attention" and "the free will question relates solely to the amount of effort of attention"
+    - **Correction (2026-09-20)**: the second quotation in the bullet above splices into the quotation marks a subject James did not write. Verified against the primary text — Project Gutenberg ebook 57634, *The Principles of Psychology* (1890), vol. 2, ch. XXVI "Will", p. 497 — where James's sentences are: "The question of fact in the free-will controversy is thus extremely simple. It relates solely to the amount of effort of attention or consent which we can at any time put forth." The predicate, "relates solely to the amount of effort of attention", is verbatim; the subject "the free will question" occurs zero times in either volume and is a gloss that belongs *outside* the quotation marks. Only the quote boundary was wrong — nothing credited to James here is fabricated. The other James quotations in this note are unaffected and stand as written: "Volition is nothing but attention" (vol. 1, ch. XI, p. 447) and "Sustained voluntary attention is a repetition of successive efforts" (vol. 1, ch. XI) are both genuine, and item 3 under "James's Phenomenology of Will" below already uses the correct construction, with the subject outside the quotes. The corpus loci that carried the spliced form were corrected on 2026-09-20 in commit `868d3819`. For provenance: the informationphilosopher.com page cited as this entry's URL does not carry the sentence in either form as fetched on 2026-09-20, so it cannot be identified as the seed of the splice. The original line above is left as written because this is a dated record of the 2026-01-14 search.
   - Trial-and-effort learning teaches which mental intent produces which action
   - Rapid probing actions with attention can hold templates for action via Zeno effect
 - **Tenet alignment**: Supports site's emphasis on agency and bidirectional causation

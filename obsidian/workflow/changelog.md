@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T01:11:04+00:00'
+ai_modified: '2026-09-20T01:24:13+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-20T01:24:13+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[research/stapp-mental-effort-mind-matter-2026-01-14]]
+- **Task**: queue line 39 follow-up — annotate the spliced James quotation left standing in the dated research note by the 01:11 pass.
+- **Scope held to one line.** Added a single indented `**Correction (2026-09-20)**` sub-bullet under L49. L49's original wording is untouched and still legible; nothing in the note was rewritten, per the dated-research-note audit-trail convention (same treatment as the four notes in the 2026-09-20 species-drift sweep).
+- **Annotation content**: predicate verbatim, subject spliced. Gives James's actual sentences from Project Gutenberg 57634, *Principles of Psychology* vol. 2, ch. XXVI "Will", p. 497, states that "the free will question" occurs zero times in either volume, and explicitly fences the correction — the two sibling James quotes ("Volition is nothing but attention", vol. 1 ch. XI p. 447; "Sustained voluntary attention is a repetition of successive efforts", vol. 1 ch. XI) are named as genuine and untouched, so the note is not left looking globally unreliable.
+- **Driver note corrected — the note is not cleanly "the origin" of the family.** It carries *both* forms: L49 has the splice, but L109 (`3. The free will question "relates solely to…"`) already has the subject outside the quotation marks, i.e. the correct construction. Re-measured and confirmed; L48, L107, L108 and L109 left alone. The annotation records this so the "probable origin" line in the 01:11 entry is not read as settled.
+- **Prior-locus figure re-measured.** The 01:11 entry's "11" is the size of the whole quote *family*, not the number of splices: 8 loci actually carried the spliced subject (7 in `archive/`, 1 live article — `topics/free-will`), `topics/structure-of-attention` was already correctly bounded and only gained a locator, `concepts/stapp-quantum-mind` had a de-quoted passage restored, and `topics/trilemma-of-selection` was correct and untouched. The annotation therefore cites commit `868d3819` without asserting a count.
+- **Provenance check (one fetch, negative result).** Fetched the note's cited URL, informationphilosopher.com/solutions/scientists/stapp/, and grepped the NFKC-normalised, script-stripped prose. `free will question` 0 · `relates solely to the amount of effort` 0 · `Volition is nothing but attention` 0 · `effort of attention` 0. Positive controls pass on the same text (`Stapp` 68, `free will` 23, `template for action` 4 — the latter being this entry's other quoted string), so the zeros are real absence, not a bad fetch. The page carries neither form, so it cannot be named as the seed of the splice; recorded as such in the annotation, and given no confirming authority either way.
+- **Verification**: `scripts/sync.py` run, then `grep -cF` in both trees. obsidian ↔ hugo both 1 for the correction marker, the p. 497 locator, the verified James sentence, the preserved original L49, and the preserved correct-form item 3. `ai_modified` added (the note had no such field); present in both trees, Hugo's differing only by YAML re-serialisation of `T` to a space.
+- **Published**: yes
 
 ## 2026-09-20T01:11:04+00:00 - refine-draft
 - **Status**: Success
