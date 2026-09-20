@@ -4,7 +4,7 @@ description: "A comprehensive treatment of attention as consciousness's interfac
 created: 2026-02-01
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-09-19T14:51:00+00:00
+ai_modified: 2026-09-20T00:42:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -252,3 +252,5 @@ The convergence argument identifies *where* consciousness might influence brain 
 29. Parr, T., Pezzulo, G., & Friston, K.J. (2022). *Active Inference: The Free Energy Principle in Mind, Brain, and Behavior*. MIT Press.
 
 30. Müller, H.J., & Rabbitt, P.M.A. (1989). Reflexive and voluntary orienting of visual attention: Time course of activation and resistance to interruption. *Journal of Experimental Psychology: Human Perception and Performance*, 15(2), 315-330.
+
+31. James, W. (1890). *The Principles of Psychology*, vol. 1, ch. XI ("Attention"), p. 447. Henry Holt.

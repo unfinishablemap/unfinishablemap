@@ -39,17 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: five loci say "mice"/"mouse" where Chomsky says "rats" — species drift inside a genuine citation
-
-- **Type**: refine-draft
-- **File**: obsidian/research/mysterianism-cognitive-closure-2026-01-14.md
-- **Source**: 2026-09-19 McGinn repair (`37da7f64`), reported as a residual fidelity note
-- **Generated**: 2026-09-19
-- **Notes**: ✅ **THE UNDERLYING CITATION IS GENUINE — this is a wording fix, not a fabrication sweep.** The prime-number-mazes illustration **is Chomsky's**, verified verbatim **twice** in "Science, Mind, and Limits of Understanding" (2014) at `chomsky.info/201401__/`, the exact URL the flagged notes already cite, normalised to 36,907 chars: *"we are not surprised to discover that **rats** are unable to run prime number mazes no matter how much training they receive; they simply lack the relevant concept in their cognitive repertoire"* (~offset 30777) and *"much as we can observe the inability of **rats** to run prime number mazes because of the very design of their cognitive nature"* (~34570).
-  **THE DEFECT IS SPECIES DRIFT**: `mice` = **0** and `mouse` = **0** in Chomsky's text, yet five corpus loci render the example with mice. **Seven loci carry the illustration in total and all are otherwise sound** — the 2026-09-19 pass checked the family rather than assuming, and performed **no sweep**, which was correct.
-  ⚠️ **Locate the five by string, not by the count above** — `rats cannot run prime` and `prime number maze` / `prime-number maze` are different surface forms and must be searched **separately** (my-truncated-reads-manufacture-defects-and-false-accusations). Known starting points: `research/voids-intelligibility-void-2026-02-15` L79 and `research/voids-evidential-weight-of-voids-2026-02-06` L70.
-  ⚠️ **Several are dated research notes.** The house treatment is a **marked dated correction** leaving the original legible, not a silent rewrite — that is what the 2026-09-19 pass did for the McGinn bullet in this same file. **Low priority: the claim is true and correctly attributed; only the species is wrong.**
-
 ### NEEDS-HUMAN (doctrine) 2026-09-19: the Tenet-5 "parsimony tiebreaker" rule is the engine behind a defect family flagged in SIX consecutive tenet checks — and `tenets.md` never states it
 
 - **Type**: refine-draft
@@ -1870,6 +1859,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-20: five loci say "mice"/"mouse" where Chomsky says "rats" — species drift inside a genuine citation
+- **Type**: refine-draft
+- **File**: obsidian/research/mysterianism-cognitive-closure-2026-01-14.md
+- **Notes**: ✅ **THE UNDERLYING CITATION IS GENUINE — this is a wording fix, not a fabrication sweep.** The prime-number-mazes illustration **is Chomsky's**, verified verbatim **twice** in "Science, Mind, and Limits of Understanding" (2014) at `chomsky.info/201401__/`, the exact URL the flagged notes already cite, normalised to 36,907 chars: *"we are not surprised to discover that **rats** are unable to run prime number mazes no matter how much training they receive; they simply lack the relevant concept in their cognitive repertoire"* (~offset 30777) and *"much as we can observe the inability of **rats** to run prime number mazes because of the very design of their cognitive nature"* (~34570).
+  **THE DEFECT IS SPECIES DRIFT**: `mice` = **0** and `mouse` = **0** in Chomsky's text, yet five corpus loci render the example with mice. **Seven loci carry the illustration in total and all are otherwise sound** — the 2026-09-19 pass checked the family rather than assuming, and performed **no sweep**, which was correct.
+  ⚠️ **Locate the five by string, not by the count above** — `rats cannot run prime` and `prime number maze` / `prime-number maze` are different surface forms and must be searched **separately** (my-truncated-reads-manufacture-defects-and-false-accusations). Known starting points: `research/voids-intelligibility-void-2026-02-15` L79 and `research/voids-evidential-weight-of-voids-2026-02-06` L70.
+  ⚠️ **Several are dated research notes.** The house treatment is a **marked dated correction** leaving the original legible, not a silent rewrite — that is what the 2026-09-19 pass did for the McGinn bullet in this same file. **Low priority: the claim is true and correctly attributed; only the species is wrong.**
 
 ### ✓ 2026-09-19: Schaffer's military trumping case is misquoted in FOUR files — the command word is "Charge!", not "Advance!", and the effect is one corporal's decision, not troops advancing
 - **Type**: refine-draft

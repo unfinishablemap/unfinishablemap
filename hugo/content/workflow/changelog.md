@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T00:24:23+00:00'
+ai_modified: '2026-09-20T00:42:52+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-20'
-lastmod: 2026-09-20 00:24:23+00:00
+lastmod: 2026-09-20 00:42:52+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-20T00:42:52+00:00 - refine-draft
+- **Status**: Success
+- **File**: [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
+- **Task**: queue line 70 — the article quotes James at L147 (`volition is nothing but attention`) but `## References` carried 30 entries and none for James. He was the only quoted author in the article without a reference entry. Fix the reference, not the quote.
+- **Quote verified at primary text (independent of the ledger)**: Project Gutenberg ebook 57628 (`https://www.gutenberg.org/cache/epub/57628/pg57628.txt`, 1,698,113 bytes) — the string is present once, line-broken in the etext ("volition is nothing but\nattention"), inside `CHAPTER XI. / ATTENTION.`, in the section headed `IS VOLUNTARY ATTENTION A RESULTANT OR A FORCE?`. Context: *"…when we see (as in the chapter on the Will we shall see) that volition is nothing but attention; when we believe that our autonomy in the midst of nature depends on our not being pure effect, but a cause,—"*. James asserts this in his own voice. This independently corroborates the 2026-07-30 ledger verdict (`reviews/deep-review-2026-07-30-mental-effort.md:28`) and confirms that the two older calls of "widely-attributed paraphrase" (`deep-review-2026-03-04-mental-effort`, `-2026-03-06`) are superseded.
+- **Page number cross-checked at a second endpoint**: Gutenberg carries no page markers, so p. 447 was confirmed against the Internet Archive scan text (`principlesofpsyc01jame_djvu.txt`), where the running headers bracket the hit as `ATTENTION. 447` (−1775 chars) … quote … `448 PSYCHOLOGY.` (+568 chars). Publisher confirmed from the same scan's front matter: *The Principles of Psychology*, 2 vols., New York: Henry Holt & Co., 1890.
+- **Change**: one reference entry added, no prose touched.
+  - `31. James, W. (1890). *The Principles of Psychology*, vol. 1, ch. XI ("Attention"), p. 447. Henry Holt.`
+- **Placement — appended as #31, not inserted alphabetically.** The task note stated the list is alphabetised by surname; measured, that holds only for entries 1–26 (Barkley → Volkow). Entries 27–30 (Fine 2022, Zheng & Meister 2025, Parr et al. 2022, Müller & Rabbitt 1989) are post-hoc appends sitting outside alphabetical order, so *append* is the list's live convention for additions. Alphabetical insertion after Hameroff (#9) would have renumbered 21 entries; the body contains zero numeric citations (`[N]`-style), so renumbering would have been mechanically safe but gratuitous churn against the convention actually in force. House style matched exactly to the two existing monograph entries (#1 Barkley, #22 Stapp): surname, initials, year, italic title, publisher with no city.
+- **Length — deliberately not paid for.** File is now 4442 words against a 4000 hard cap (`length.py` fires on `>= hard`), status `hard_warning`. This is the expected outcome. The standing ruling in `reviews/deep-review-2026-07-25-attention-and-the-consciousness-interface.md` (lines 59, 67) is that this article's full-file `hard_warning` is "a reference-apparatus artifact; do not condense on that basis". Re-measured this run: reference apparatus (`## References` → EOF) = 607 words, argument-only prose = 3819 words, under the 4000 cap. The ~23-word reference entry lands entirely inside the apparatus that ruling excludes; argument-only prose is unchanged at 3819. No condense, no prose trim, no length-neutral squeeze — a neutral trade here would have stripped a calibration qualifier to buy a citation.
+- **Protected and untouched**: `### The Epistemological Challenge` (inbound anchor target from four live articles; `voids/three-kinds-of-void` leans on its ADHD-baseline sentence).
+- **Out of scope, noted only**: the second corpus James string ("the free will question relates solely to the amount of effort of attention") does **not** occur in vol. 1 — it belongs to the chapter on Will in vol. 2, which this fetch did not cover. The Gutenberg vol. 1 search returns 0 for `amount of effort of attention` and 0 for `consent which we can at any time put forth`. This fetch therefore does **not** settle the standing disagreement between `deep-review-2026-07-16-stapp-quantum-mind` (de-quoted as paraphrase) and `deep-review-2026-06-20-structure-of-attention` (verified with dropped tail); a future pass should fetch Gutenberg ebook 57634 (vol. 2). No other file edited.
+- **Published**: yes
 
 ## 2026-09-20T00:24:23+00:00 - refine-draft
 - **Status**: Success
