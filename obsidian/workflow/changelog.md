@@ -5,6 +5,21 @@ ai_modified: '2026-09-20T04:55:26+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-20T05:14:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/appetitive-void]]
+- **Task**: todo.md L40 (P1) — citation-apparatus repair; lead of a six-task batch sharing one word budget.
+- **Length**: 2270 → 2467 words (voids soft 2000 / hard 3000, `soft_warning` before and after). ~100 words of new prose, ~97 of reference apparatus. **532 words of headroom left for the five sibling tasks**; the subtractive falsifiers task (L82) was not pre-spent.
+- **Changes**:
+  - **Žižek reference corrected (2/3 convergence).** Entry 6 was *The Sublime Object of Ideology* (1989); the gloss belongs to "The Seven Veils of Fantasy", ch. 1 of *The Plague of Fantasies* (Verso, 1997), p. 7. Verified in the Verso scan (Google Books vol. `NM5PqgKd2dsC`, snippet PA7; control query live). The edition reads **"co-ordinates"**, hyphenated — body quote corrected from "coordinates" at zero word cost.
+  - **Buddhist sources installed (largest real gap).** The 11-entry list had no Buddhist source while §2.2 carried a verbatim quotation. Added entry 12 (Rahula, *What the Buddha Taught*, rev. ed., Grove Press) and 13 (Bodhi trans., *Connected Discourses*, Wisdom). The quoted rendering was located at ch. 4, "The Third Noble Truth: Nirodha" (Google Books vol. `tw7wBxzPL4cC`, snippet PT67). Plus ~55 words: taṇhā arises *conditioned by* feeling (SN 12.2), so craving is downstream of perception rather than constitutive of it; and SN 51.15 has Ānanda treat the desire for the path as one that lapses once the path is walked — the traditions are not one voice.
+  - **Spinoza levels slide narrowed (§2.3, no external lookup).** E3p7 conatus attribution was already correct; the defect was conatus → appetite → conscious desire collapsing into one level. Desire is now the *conscious form* appetite takes; only conatus is essence; a finite mind is a **mode, not a substance** (was "the very substance of conscious existence"); "remove desire and being disappears" narrowed to "remove conatus and the thing goes; remove the awareness and appetite strives on". The "partial exit" gloss was wrong and is replaced: adequate ideas **reorganise and activate** striving rather than suspending it.
+  - **Nietzsche — reviewer contradiction resolved against a real Kaufmann edition.** ChatGPT called the wording authentic; Claude disputed it on Goodreads evidence. **Claude was right, ChatGPT wrong.** Kaufmann & Hollingdale (Vintage, *On the Genealogy of Morals and Ecce Homo*) read **"There is only a perspective seeing, only a perspective 'knowing'"** at GM III §12, p. 119 — verified in the print scan (Google Books vol. `RLAkAQAAMAAJ`, snippet PA119, translator confirmed at PP7/PP9; control query live). The article's "perspectival" was not any standard translation — a second scan (`AFJLi7wk3X8C`) carries a different rendering again ("only a seeing from a perspective"). Body corrected at zero word cost; entry 4 re-pointed from the bare German *Genealogy of Morality* to the Kaufmann/Hollingdale edition with the III §12 locator, which also discharges the reference-assignment half (quotation formerly floating between entries 3 and 4).
+  - **Firestone & Scholl — bibliography line only.** Entry 14 added (BBS 39, e229; DOI 10.1017/S0140525X15000965 via Crossref). No engagement prose written: L80 already names them and states their position accurately, and the synthesis records the two-reviewer "absence" claim as a rejected false convergence.
+- **Engagement classification**: no named-opponent mode change; §2.7's existing concession to Firestone and Scholl was left as written.
+- **Fenced wording honoured**: Schopenhauer §2.1 untouched (Claude's charge rests on Scribd/dokumen.pub aggregators); no quotation marks dropped or wording substituted there.
+- **Published**: yes
+
 ## 2026-09-20T04:55:26+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-09-20

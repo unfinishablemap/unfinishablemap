@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-09-11 21:33:20+00:00
+ai_modified: 2026-09-20 05:14:36+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 22:06:53+00:00
-lastmod: 2026-09-11 21:33:20+00:00
+lastmod: 2026-09-20 05:14:36+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -62,17 +62,19 @@ This void occupies territory distinct from related limits on the Map:
 
 Buddhist philosophy identifies tanha (craving) as constitutive of how perception occurs—not an overlay on otherwise neutral cognition but woven into the cognitive process itself. Tanha and avidya (ignorance) form a closed loop: craving generates false views, and ignorance generates craving. Even the path to nirvana involves desire—the desire for liberation—creating a foundational paradox: desire is the instrument used to extinguish desire. "The complete cessation of that very thirst (tanha), giving it up, renouncing it, emancipation from it, detachment from it"—yet even this cessation must be desired before it can be achieved.
 
+Two qualifications. The canonical analysis of dependent origination has tanha arise *conditioned by* feeling (SN 12.2), making craving downstream of perception rather than constitutive of it; and the traditions are not one voice, since at SN 51.15 Ananda treats the desire for the path as one that lapses once the path is walked.
+
 ### Spinoza: Desire as Essence
 
-Spinoza's conatus—the striving of each thing to persevere in being—is "nothing but the actual essence of the thing." Desire is "appetite together with consciousness of the appetite," not an external force acting on cognition but the very substance of conscious existence. This is stronger than Schopenhauer's servant metaphor: for Spinoza, remove desire and you remove the being itself. Yet Spinoza saw a partial exit—adequate ideas arise when we understand the causes of our own desire, turning appetite's structure into an object of knowledge.
+Spinoza's conatus—the striving of each thing to persevere in being—is "nothing but the actual essence of the thing." Desire is "appetite together with consciousness of the appetite": the conscious form appetite takes in a mind, not an external force acting on cognition. Only that lowest level is essence, and a finite mind is a mode, not a substance. Remove conatus and the thing goes; remove the awareness and appetite strives on. The account is thus stronger than Schopenhauer's servant metaphor at the level of essence and weaker at the level of conscious wanting. Nor is there an exit: adequate ideas reorganise and activate striving rather than suspending it, so understanding our desire's causes alters what we want, not that we want.
 
 ### Nietzsche: Perspectival Knowing
 
-"There is only a perspectival seeing, only a perspectival 'knowing.'" All knowledge is positioned by desire, interest, and power. The will to power drives us to impose meaning, order, and logic onto the world—cognition is not discovery but appetitively structured imposition. Even the desire for truth is a desire. Nietzsche's response is not to eliminate perspective (impossible) but to multiply perspectives. Yet this multiplication is itself driven by appetite—the will to see more.
+"There is only a perspective seeing, only a perspective 'knowing.'" All knowledge is positioned by desire, interest, and power. The will to power drives us to impose meaning, order, and logic onto the world—cognition is not discovery but appetitively structured imposition. Even the desire for truth is a desire. Nietzsche's response is not to eliminate perspective (impossible) but to multiply perspectives. Yet this multiplication is itself driven by appetite—the will to see more.
 
 ### Lacan: Desire as Structure
 
-Lacan argues that desire is not a feature of consciousness but its *structure*, organised through fantasy—or, in Žižek's gloss on this Lacanian point, fantasy "constitutes our desire, provides its coordinates." The objet petit a—the perpetually missing object of desire—ensures wanting always misidentifies its target. We cannot know what we truly want, and this unknowing shapes everything we think we know. Where Schopenhauer's will is blind force and Spinoza's conatus is self-preserving essence, Lacan's desire operates through language itself—the symbolic order through which all knowledge is mediated is already appetitively organised.
+Lacan argues that desire is not a feature of consciousness but its *structure*, organised through fantasy—or, in Žižek's gloss on this Lacanian point, fantasy "constitutes our desire, provides its co-ordinates." The objet petit a—the perpetually missing object of desire—ensures wanting always misidentifies its target. We cannot know what we truly want, and this unknowing shapes everything we think we know. Where Schopenhauer's will is blind force and Spinoza's conatus is self-preserving essence, Lacan's desire operates through language itself—the symbolic order through which all knowledge is mediated is already appetitively organised.
 
 ### Predictive Processing: Desire as Default
 
@@ -138,11 +140,14 @@ The convergence across Schopenhauer, Spinoza, Buddhism, Nietzsche, Lacan, and pr
 1. Schopenhauer, A. (1819). *The World as Will and Representation*. Brockhaus.
 2. Spinoza, B. (1677). *Ethics*. Jan Rieuwertsz.
 3. Nietzsche, F. (1886). *Beyond Good and Evil*. C.G. Naumann.
-4. Nietzsche, F. (1887). *On the Genealogy of Morality*. C.G. Naumann.
+4. Nietzsche, F. (1887/1989). *On the Genealogy of Morals*, trans. W. Kaufmann & R. J. Hollingdale, in *On the Genealogy of Morals and Ecce Homo*. Vintage. Quoted above: Essay III, §12 (p. 119).
 5. Lacan, J. (1973). *The Four Fundamental Concepts of Psycho-Analysis*. Seuil.
-6. Žižek, S. (1989). *The Sublime Object of Ideology*. Verso.
+6. Žižek, S. (1997). *The Plague of Fantasies*. Verso. Quoted above: "The Seven Veils of Fantasy" (p. 7).
 7. Siegel, S. (2017). *The Rationality of Perception*. Oxford University Press.
 8. Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*, 11, 127-138.
 9. Kruglanski, A. W., Jasko, K., & Friston, K. (2020). "All Thinking is 'Wishful' Thinking." *Trends in Cognitive Sciences*, 24(6), 413-424.
 10. Ellis, J. (2022). "Motivated reasoning and the ethics of belief." *Philosophy Compass*, 17(6), e12828.
 11. Kunda, Z. (1990). "The Case for Motivated Reasoning." *Psychological Bulletin*, 108(3), 480-498.
+12. Rahula, W. (1974). *What the Buddha Taught*, rev. ed. Grove Press. Quoted above: ch. 4, "The Third Noble Truth: Nirodha."
+13. Bodhi, Bhikkhu (trans.) (2000). *The Connected Discourses of the Buddha: A New Translation of the Saṃyutta Nikāya*. Wisdom Publications. Cited above: SN 12.2 (Vibhaṅga Sutta), SN 51.15 (Uṇṇābha Sutta).
+14. Firestone, C., & Scholl, B. J. (2016). "Cognition does not affect perception: Evaluating the evidence for 'top-down' effects." *Behavioral and Brain Sciences*, 39, e229.

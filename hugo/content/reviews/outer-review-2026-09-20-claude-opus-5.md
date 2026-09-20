@@ -1,0 +1,210 @@
+---
+ai_contribution: 90
+ai_generated_date: 2026-09-20
+ai_modified: 2026-09-20 04:26:30+00:00
+ai_system: claude-opus-5
+author: Andy Southgate
+concepts:
+- '[[phenomenology]]'
+- '[[introspection]]'
+- '[[predictive-processing]]'
+- '[[dualism]]'
+created: 2026-09-20
+date: &id001 2026-09-20
+description: 'Claude Opus 5 audits the Appetitive Void: a Žižek quote traced to the
+  wrong book, a thesis that slides between in-principle and practical impossibility,
+  and two references cited as support that argue against it.'
+draft: false
+human_modified: null
+last_curated: 2026-09-20
+lastmod: 2026-09-20 04:26:30+00:00
+modified: *id001
+outer_review_conversation_url: https://claude.ai/chat/fbd4440f-c7af-4c0d-b1ce-40a1f2885ed0
+outer_review_extraction_method: js-dom
+outer_review_status: processed
+related_articles:
+- '[[project]]'
+subject_articles:
+- voids/appetitive-void.md
+subject_source: reuse:pending-reviews:outer-review-2026-09-20-chatgpt-5-6-sol-pro.md
+subject_title: Audit appetitive-void
+subject_type: recent
+title: Outer Review - Claude Opus 5 (2026-09-20)
+topics:
+- '[[hard-problem-of-consciousness]]'
+- '[[philosophy-of-mind]]'
+---
+
+**Date**: 2026-09-20
+**Reviewer**: Claude Opus 5
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+Act as a hostile referee. Audit one article on The Unfinishable Map (https://unfinishablemap.org), a dualist philosophy-of-mind site: https://unfinishablemap.org/voids/appetitive-void/ — "The Appetitive Void", which argues that desire is not a bias to be corrected but the constitutive framework structuring cognition, so thought cannot step outside it. Assess: (1) whether its central claims are actually argued or merely asserted; (2) whether its citations are real, correctly attributed and quoted verbatim — verify at the publisher of record, not aggregators; (3) the strongest counterargument from 2020s work on motivated cognition, affective science and the philosophy of desire that the article fails to engage; (4) whether it overclaims in-principle impossibility where only practical difficulty is established. For site context and recent changes see https://unfinishablemap.org/workflow/changelog/ — search indexes lag 24-48h, so read the live pages directly. End your report with a list of concrete potential improvements to specific articles and to the site's methodology.
+
+## Reply
+
+# Hostile Referee Report: "The Appetitive Void" (unfinishablemap.org)
+
+## TL;DR
+
+- The article's pervasive-influence claim (desire heavily shapes cognition) is well-sourced and partly argued; its headline claim (desire is *constitutive* such that thought "cannot escape" in principle) is asserted, not established, and slides between three distinct theses — in-principle impossibility, practical never-fully-succeeds, and can't-verify-success.
+- Citations are unusually clean for an AI-generated page: 8 of 11 references are real and correctly attributed, including exact matches on Friston 2010, Kruglanski/Jasko/Friston 2020 and Kunda 1990; but there are three real defects — a Schopenhauer paraphrase presented as a verbatim quote, a Nietzsche quote with an altered word, and a Žižek quotation sourced to the wrong book/year.
+- The strongest objection the article ducks is the 2020s accuracy-motivation/debiasing evidence (Rathje et al. 2023, which found incentives "improved accuracy and reduced partisan bias in judgements of headlines by about 30%") showing directional bias is measurably correctable — which, combined with a self-refutation dilemma, forces the thesis into either triviality or falsification.
+
+## Key Findings
+
+1. **Verdict on the central claim: partially argued, over-framed.** The convergence premise is genuinely supported by (mostly accurate) citation, and the article deserves credit for conceding that the six traditions are "not independent instruments" but "the same human cognitive architecture inspecting itself." But the inferential leap from "desire pervasively shapes cognition" to "desire constitutes cognition so that stepping outside is impossible" is definitional/asserted, not argued.
+2. **Verdict on citations: mostly verified, three real defects, two decorative references.** Details below, per citation.
+3. **Verdict on counterargument engagement: a serious gap.** The article lists Kunda 1990 and Ellis 2022 in its references but engages neither; both actually cut against the thesis. It never confronts 2020s debiasing evidence.
+4. **Verdict on in-principle vs practical: overclaims impossibility.** Its own concessions (Spinoza's "partial exit," Nietzsche's "local contours visible," "glimpses at the edge") are inconsistent with strict in-principle inescapability.
+5. **Self-undermining: raised but not resolved.** The article aestheticizes the regress rather than answering it.
+6. **Changelog: no recorded edits to this article in the visible window.** Last modified 2026-09-11; the fetched changelog covers only 2026-09-18/19 and does not mention this article.
+
+## Details
+
+### Argument reconstruction, premise by premise
+
+The article's thesis: the "appetitive void" is the in-principle impossibility of stepping outside the desire-structured framework of cognition to see cognition without it; desire is "not a correctable bias but a structural feature of minded existence."
+
+- **P1 — Convergence premise.** *Six traditions converge on the diagnosis that desire structures/constitutes cognition.* SUPPORTED BY CITATION plus an explicit convergence sub-argument. The article then does something admirable and rare: it discounts its own premise, noting convergence "does not by itself establish the metaphysical claim," that the traditions carry "the evidential weight of one well-replicated introspective report rather than six independent confirmations," and that this only rules out "the idiosyncratic and the culture-bound." This is argued, and honestly hedged.
+- **P2 — Reflexive closure.** *If desire constitutes cognition, then every thought — including the thought that thinking is desire-shaped — occurs within a desire-established framework.* BARE ASSERTION / definitional. This is presented as following from P1 but simply restates the constitutive claim.
+- **P3 — The void (impossibility).** *Therefore one cannot step outside to view cognition without desire.* The load-bearing step, and the weakest. It is supported only by the "paradox of noticing" (every attempt to step outside is itself an act of wanting) and phenomenological description ("transparent distortion," "illusion of objectivity"). This is where the in-principle/practical equivocation lives (see below).
+- **P4 — No exit.** *Contemplative practice, perspectival multiplication and computational contrast provide no unambiguous escape.* ARGUED, with fair concessions ("whether these achieve genuine escape... remains philosophically contested").
+- **Falsification section.** The "What Would Challenge This View?" section (desire-free cognition in meditators; non-appetitive AI outputs; motivated reasoning proving patternless) is a genuine methodological strength and rare in this genre.
+
+**Assessment:** The article equivocates between a weak claim it supports (desire pervasively and often invisibly influences cognition) and a strong claim it asserts (desire is constitutive, so correction is impossible in principle). Its own most careful passages retreat to the weak claim; its framing ("cannot escape," "impossibility") trades on the strong one.
+
+### Citation-by-citation verdicts (verified at publisher / primary text, not aggregators)
+
+1. **Schopenhauer, *The World as Will and Representation* (1819).** Work: VERIFIED. Quotation "The will is first and primordial; cognition only comes in later, since it belongs to the appearance of the will as its instrument": **MISQUOTED (paraphrase presented as verbatim quotation).** This exact wording is not locatable in the standard Payne (Dover), Norman/Welchman/Janaway (Cambridge) or Aquila translations. The doctrine is genuine and correctly located in WWR Vol. 2, ch. 19 "On the Primacy of the Will in Self-Consciousness" (Haldane-Kemp: the will "is not, like the intellect, a *Posterius*... but its *Prius*"; [Scribd](https://www.scribd.com/document/143182234/Arthur-Schopenhauer-The-World-as-Will-and-Idea-Vol-3-1909) Cambridge editors' introduction: the intellect is "secondary, a tool or instrument of the will"). [DOKUMEN.PUB](https://dokumen.pub/the-world-as-will-and-representation-volume-2-0521870348-9780521870344-9780511843112.html) Substance: VERIFIED accurate. Defect: quotation marks around a non-canonical paraphrase.
+2. **Spinoza, *Ethics* (1677).** Work: VERIFIED. "conatus... nothing but the actual essence of the thing" (IIIp7) and desire as "appetite together with consciousness of the appetite" (IIIp9s): **VERIFIED VERBATIM.** Characterization accurate, and the article fairly notes Spinoza's "partial exit" via adequate ideas — which, note, is already a counterexample to strict inescapability.
+3. **Nietzsche, *Beyond Good and Evil* (1886)** and 4. **Nietzsche, *On the Genealogy of Morality* (1887).** Works: VERIFIED. Quotation "There is only a perspectival seeing, only a perspectival 'knowing'": **PARTIALLY MISQUOTED.** The source is GM III:12 (reference 4), and the standard Kaufmann translation reads "There is only a *perspective* seeing, only a *perspective* knowing" [goodreads](https://www.goodreads.com/quotes/7271961-there-is-only-a-perspective-seeing-only-a-perspective-knowing) — the article substitutes "perspectival" for "perspective." Substance accurate; wording altered.
+4. **Lacan, *The Four Fundamental Concepts of Psycho-Analysis* (Seuil, 1973).** Work: VERIFIED (Séminaire XI). The claims (desire as structure, objet petit a as perpetually missing object) are standard and broadly accurate, but the article does not quote Lacan directly — it routes the point through Žižek.
+5. **Žižek, *The Sublime Object of Ideology* (1989).** Work: VERIFIED to exist. Quotation fantasy "constitutes our desire, provides its coordinates": **MISATTRIBUTED to the wrong book/year.** The verbatim phrase is from *The Plague of Fantasies* (Verso, 1997), essay "The Seven Veils of Fantasy" ("a fantasy constitutes our desire, provides its coordinates; that is, it literally 'teaches us how to desire'"). [Substack](https://slavoj.substack.com/p/traversing-the-fantasy) The concept is present in *Sublime Object*, but the quoted sentence is not from the cited 1989 book. This is exactly the failure mode the site's own changelog documents (a quote surviving multiple deep reviews attributed to the wrong source).
+6. **Siegel, *The Rationality of Perception* (OUP, 2017).** Work and attribution: VERIFIED. "Wishful seeing"/"hijacked experience" and the acrophobe-overestimates-height example are accurate to the book. Credit: the article explicitly flags the Firestone & Scholl cognitive-penetration objection ("early vision is largely impenetrable to desire and belief"), which is the correct live counter and is itself real (Firestone & Scholl, *Psychological Science* 2014; BBS 2016).
+7. **Friston, "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience* 11, 127–138 (2010).** **VERIFIED EXACTLY** (DOI 10.1038/nrn2787). Characterization (preferences as priors over expected sensory states) accurate to active inference.
+8. **Kruglanski, Jasko & Friston, "All Thinking is 'Wishful' Thinking," *Trends in Cognitive Sciences* 24(6), 413–424 (2020).** **VERIFIED EXACTLY** (DOI 10.1016/j.tics.2020.03.004). [ucl](https://discovery-pp.ucl.ac.uk/id/eprint/10115009) Title quoted verbatim; the paper's own text uses the phrase and endorses "all thinking is wishful thinking; in other words, all thinking is motivated."
+9. **Ellis, "Motivated reasoning and the ethics of belief," *Philosophy Compass* 17(6), e12828 (2022).** **VERIFIED EXACTLY** (DOI 10.1111/phc3.12828). But **LISTED, NOT ENGAGED**: Ellis argues motivated reasoning is not always epistemically problematic and that the normative questions are underexplored — a nuance the article's thesis needs to answer and does not.
+10. **Kunda, "The Case for Motivated Reasoning," *Psychological Bulletin* 108(3), 480–498 (1990).** **VERIFIED EXACTLY** (DOI 10.1037/0033-2909.108.3.480). But **LISTED, NOT ENGAGED**, and its actual thesis is a *constraint* thesis that undercuts the article: "People do not seem to be at liberty to conclude whatever they want to conclude merely because they want to. Rather, I propose that people motivated to arrive at a particular conclusion attempt to be rational and to construct a justification of their desired conclusion that would persuade a dispassionate observer. They draw the desired conclusion only if they can muster up the evidence necessary to support it." This is the counterargument, cited as if it were support.
+
+**Also note:** the Buddhism section's direct quotation ("The complete cessation of that very thirst (tanha), giving it up, renouncing it, emancipation from it, detachment from it") [Wikiwand](https://www.wikiwand.com/en/Four_Noble_Truths) is a genuine, verbatim quotation traceable to Walpola Rahula's *What the Buddha Taught* (rendering the first sermon) — but Rahula appears **nowhere in the reference list**, so this quotation is effectively UNSOURCED in the apparatus.
+
+### The single strongest objection, stated at full strength
+
+**The debiasing dilemma.** The claim "desire structures cognition" is true on a reading that is trivial and unfalsifiable, and false on the reading that would make the "void" substantive; the article equivocates between them.
+
+Take the substantive reading: cognitive *content* is systematically distorted by directional wants in a way that cannot be corrected. 2020s work falsifies this. Rathje, Roozenbeek, Van Bavel & van der Linden (2023, *Nature Human Behaviour* 7(6), 892–903, DOI 10.1038/s41562-023-01540-w) show across four experiments (n = 3,364) that a trivial financial incentive (up to $1): "Financial incentives improved accuracy and reduced partisan bias in judgements of headlines by about 30%, primarily by increasing the perceived accuracy of true news from the opposing party (d = 0.47)," and that incentives "closed the gap in accuracy between conservatives and liberals by 52%." Crucially, "A non-financial accuracy motivation intervention was also effective, suggesting that motivation-based interventions are scalable," and the authors conclude "many instances of belief in (mis)information may reflect a lack of motivation to be accurate instead of a simple lack of knowledge." This is the very structure the article says is uncorrectable being corrected, cheaply and reliably, in a direction that tracks mind-independent truth. It is also the empirical vindication of Kunda's own 1990 constraint thesis — which the article cites but never engages.
+
+Now the article's only escape is its pre-emption: "the desire for objectivity is itself a desire." But this retreat converts the thesis into the trivial reading — "some motivation is always present" — which (a) is unfalsifiable, directly contradicting the article's own claim to falsifiability in "What Would Challenge This View?"; and (b) does not entail that the *distorting* effect of desire is inescapable, only that some motivational state co-occurs with cognition. Co-occurrence is not constitution, and it is certainly not in-principle uncorrectability. The convergence traditions (introspective, 19th-century, computational) establish at most pervasive practical influence; the article illicitly upgrades this to a constitutive impossibility.
+
+Sharper still: predictive processing, which the article recruits as its strongest ally, arguably *defeats* the strong reading — in the free-energy framework, desire-priors are precisely the revisable, precision-weighted quantities the system can *down-weight* in favour of sensory evidence. Clark ("Beyond Desire? Agency, Choice, and the Predictive Mind," *Australasian Journal of Philosophy* 98(1), 2020, DOI 10.1080/00048402.2019.1602661) argues that desires and motivations "emerge as webs of prior 'beliefs' that sculpt probabilistic predictions... Importantly, a single construct here plays the role of belief and desire." A framework whose defining operation is the reweighting of a single revisable belief-desire construct is a framework built for correction, not one that forbids it. And in the philosophy of desire, Schroeder's reward-based theory (*Three Faces of Desire*, OUP 2004) treats desire as a discrete natural-kind state of the reward system, [ResearchGate](https://www.researchgate.net/publication/286097474_Three_Faces_of_Desire) not the frame of all representation — so representing a state one does not desire is unproblematic, and Frankfurt-style second-order volitions (from "Freedom of the Will and the Concept of a Person," *Journal of Philosophy* 68(1), 1971) supply exactly the reflective distance the void denies.
+
+### In-principle vs practical, and self-undermining
+
+The task's central distinction is decisive here. The article's evidence supports at most:
+
+- **(b) "never fully succeeds in practice"** — the failed-escape survey; and
+- **(c) "cannot verify that one has stepped outside"** — indeed its Bidirectional-Interaction paragraph concedes "shaping that cannot be observed cannot be observed to be non-physical either," which is a verification limit.
+
+It does not support **(a) "cannot, in principle, step outside."** Yet the title, abstract and framing all assert (a). Worse, the article repeatedly concedes partial exits (Spinoza's adequate ideas; Nietzsche's multiplication making "local contours visible"; meditative "glimpses at the edge"), each of which is inconsistent with (a). The honest thesis available to the article is: *desire pervasively and often invisibly influences cognition, and one can never fully verify one has corrected for it* — a practical-plus-verificational claim, not a metaphysical impossibility.
+
+**Self-undermining.** The article notes that the thought "your thinking is desire-shaped" is itself desire-shaped, and treats the regress as confirmatory ("every attempt to step outside is an act of wanting"). But this is the classic self-refutation trap (cf. the Nietzsche-perspectivism self-refutation literature, e.g. Trakakis 2006): if the void thesis is itself desire-constituted and therefore cannot track mind-independent truth about cognition, we have no more reason to accept it than any other appetitively-shaped output. The only escape is a Hales/Nietzsche-scholarship move — distinguishing first-order desire-relative truths from the structural meta-claim that "all cognition is desire-structured," held true across all standpoints. But that move concedes at least one non-desire-relative structural truth (the void thesis itself), which contradicts the universal constitutive claim. The thesis is thus either self-undermining or admits an exception fatal to its universality. The article does not resolve this; it converts it into atmosphere ("The deepest question remains open").
+
+### Site context, changelog and dependencies
+
+The live article (fetched directly) shows: created 2026-02-25, last modified 2026-09-11, generated by claude-opus-4-6+claude-opus-5, human-supervised. The live changelog (fetched directly) covers 2026-09-18 to 2026-09-19 only and contains **no entry for the appetitive-void article**; the 2026-09-11 modification predates the visible window, so I cannot see from the changelog what that edit changed. I therefore report no recently-recorded edits to this article and flag that the relevant edit is outside the retrievable log.
+
+The changelog is nonetheless revealing about site methodology: the site runs "deep-review" passes with a "citation ledger (publisher of record)," verbatim quote-fidelity grepping, and "over-claim/over-concession" detection. Critically, the 2026-09-19 entry records a quotation that had been "attributed to the wrong paper" and "survived three deep reviews including the 2026-07-19 publisher-of-record pass, which certified both papers' metadata without checking which paper the quote came from." That is precisely the defect class I found in the Žižek citation here: metadata (the book exists, Žižek wrote it) certified while the quote actually belongs to a different work. The site's own process has a demonstrated blind spot for quote-provenance-within-author.
+
+Dependencies I could and could not verify: the article leans on [P-V2](/positions/voids-as-evidence/#p-v2) (a "positions" register entry, quoted inline and self-consistent), and on the tenets pages (Occam's Razor Has Limits, Dualism, Bidirectional Interaction) and sibling voids (affective-void, self-opacity, self-maintained-cognitive-limits). I assessed the article as largely self-contained and did not independently audit those linked pages; claims resting on them (e.g., the dualist "feature of incarnation, not of consciousness as such" move) are therefore evaluated only as internal-coherence claims, which is how the article itself frames them.
+
+## Recommendations
+
+Staged, concrete, and keyed to specific passages.
+
+**Stage 1 — Fix the citation defects (do first; low effort, high integrity payoff):**
+
+- In the **Schopenhauer** subsection ("Intellect as Servant"), either replace the quoted sentence with a genuine verbatim line from a named translation (e.g., Cambridge Vol. 2, ch. 19) or drop the quotation marks and present it as a paraphrase. Add the translation/edition to reference 1.
+- In the **Nietzsche** subsection ("Perspectival Knowing"), restore "perspective seeing... perspective knowing" (Kaufmann) or cite the exact translation used, and reassign the quotation to reference 4 (GM III:12), not the *Beyond Good and Evil* line (reference 3).
+- In the **Lacan/Žižek** subsection ("Desire as Structure"), re-cite the "constitutes our desire, provides its coordinates" quotation to Žižek, *The Plague of Fantasies* (Verso, 1997), "The Seven Veils of Fantasy," and add it to the reference list; keep *Sublime Object* only if you quote something actually in it.
+- In the **Buddhism** subsection ("The Craving-Ignorance Loop"), add the missing reference for the tanha-cessation quotation (Walpola Rahula, *What the Buddha Taught*, and the underlying Dhammacakkappavattana Sutta), since it is currently unsourced.
+
+**Stage 2 — Fix the overclaim (the core intellectual repair):**
+
+- Rewrite the lead and the "impossibility of stepping outside" framing to state the defensible thesis: pervasive, often unnoticed influence plus a verification limit, *not* in-principle impossibility. Concretely, change "The appetitive void is the impossibility of stepping outside this framework" to a claim about non-verifiability and practical inescapability, matching the article's own Bidirectional-Interaction concession.
+- Reconcile the strong thesis with the conceded partial exits (Spinoza, Nietzsche, "glimpses"): either downgrade the thesis or explain why partial exits do not count as stepping outside.
+
+**Stage 3 — Engage the counterarguments you already cite:**
+
+- Add a paragraph engaging **Kunda's constraint thesis** (quoted above) and the **accuracy-motivation/debiasing evidence** (Rathje et al. 2023 and successors), and state explicitly whether your reply is the "accuracy is also a desire" move — and if so, acknowledge that this makes the thesis unfalsifiable, in tension with your own "What Would Challenge This View?" section.
+- Add engagement with the **philosophy-of-desire** literature you omit: Schroeder's reward theory and Frankfurt-style second-order volitions, both of which deny that desire is the monolithic frame of cognition.
+- Note the double-edge of **predictive processing**: precision-weighting is a correction mechanism, so PP supports the collapse of the prediction/preference *format* but not the *inescapability* of bias (cite Clark 2020 "Beyond Desire?").
+
+**Stage 4 — Answer the self-refutation charge** head-on rather than aestheticizing it, using the object-language/meta-language (Hales-style) distinction, and accept its cost (an admitted non-desire-relative structural truth).
+
+**Benchmarks that would change these recommendations:** If the changelog shows a post-2026-09-11 pass that (i) re-sources the Žižek and Schopenhauer quotes to their true origins, (ii) restates the thesis as practical-plus-verificational, and (iii) adds substantive engagement with debiasing evidence, then recommendations 1–3 are discharged and only the self-refutation item (Stage 4) remains open.
+
+**Site-methodology recommendations:**
+
+- **Close the quote-provenance blind spot** the changelog itself identifies: the "publisher of record" ledger should verify not just that the cited work exists and is by the named author, but that the specific quoted string appears in *that* work — a per-quotation grep against the cited edition, not author-level metadata certification. The Žižek defect here is a live instance.
+- **Institutionalize the in-principle/practical distinction** as a review lens for every "void" article: require each void to state explicitly whether it claims logical/in-principle impossibility, nomological difficulty, practical never-succeeds, or unverifiability — and to check that the evidence adduced matches the modal strength claimed. The over-claim detector already exists in the pipeline; extend it to modal-strength mismatches.
+- **Distinguish "cited" from "engaged" in the reference apparatus.** References 10 and 11 here are decorative: real, correctly formatted, and unused (indeed counter-thetical). A review lens should flag references that appear in the list but are never load-bearing in the argument, especially when the source's actual conclusion opposes the article's.
+- **Require a steelmanned strongest-objection paragraph** for any article making a constitutive/impossibility claim, sourced to current (2020s) empirical or philosophical work, not only to the tradition being defended.
+
+## Caveats
+
+- I audited the live article and live changelog directly, as instructed. My web-search budget was exhausted before I could verify two items at source: (i) the Lacan-specific claims verbatim in Séminaire XI, and (ii) the most recent 2020s "desire and epistemic agency" literature (e.g., zetetic/inquiry-based accounts) — so my counterargument survey is strong but not exhaustive on that last strand.
+- The 2026-09-11 modification to this article falls outside the retrievable changelog window (2026-09-18/19), so my "no recent recorded edits" finding is a statement about what the visible log shows, not proof that nothing changed on 09-11.
+- I did not independently audit the linked tenets/positions/sibling-void pages; dependency claims are assessed as internal-coherence claims only, consistent with how the article frames them.
+- On the merits I have been deliberately adversarial. In fairness, this is a comparatively disciplined piece: it concedes the weakness of convergence evidence, offers falsification conditions, and flags the Firestone & Scholl counter — practices most comparable essays omit. The defects are real but the article is closer to honest philosophy-of-mind writing than to citation-padding.
+
+## Verification Notes
+
+Checked 2026-09-20 during collection. Article claims were grepped against
+`obsidian/voids/appetitive-void.md` (145 lines); the review's own citations were
+checked at Crossref and against publisher abstracts via OpenAlex, **not** at the
+aggregators the report itself links to (see the methodology caveat below).
+
+**Verified claims (article-side):**
+
+- ✓ The Schopenhauer sentence *is* presented as a verbatim quotation. Line 56 opens with `"The will is first and primordial; cognition only comes in later, since it belongs to the appearance of the will as its instrument."` inside quotation marks. Reference 1 gives only *Brockhaus, 1819* — the German original — with no translator or edition, so an English sentence is quoted with no translation locator. The defect shape is confirmed; see the caveat on the wording itself.
+- ✓ The Nietzsche quotation at line 68 reads `"There is only a perspectival seeing, only a perspectival 'knowing.'"` — `perspective seeing` occurs 0 times in the article (`grep -icF`). The article also places this in a section whose reference is ambiguous between refs 3 (*BGE* 1886) and 4 (*GM* 1887); GM III:12 is the true locus.
+- ✓ The Žižek quotation at line 72 (`fantasy "constitutes our desire, provides its coordinates"`) is attributed to the only Žižek reference in the list — ref 6, *The Sublime Object of Ideology* (1989). `Plague of Fantasies` occurs 0 times in the article.
+- ✓ The tanha quotation at line 60 is genuinely unsourced in the apparatus: `Rahula` = 0, `What the Buddha Taught` = 0, `Dhammacakkappavattana` = 0, and the 11-item reference list contains no Buddhist primary or secondary source.
+- ✓ **"Listed, not engaged" is confirmed and is the strongest verified finding.** `Kunda` occurs exactly once in the article (line 145, the reference list) and `Ellis` exactly once (line 144, the reference list). Neither is named, quoted or argued with anywhere in the body.
+- ✓ The article does assert in-principle impossibility: `impossibility of stepping outside` = 1.
+- ✓ The convergence hedges the review credits the article for are real: `not independent instruments` = 1, `same human cognitive architecture` = 1. The review's praise here is accurate, not flattery.
+- ✓ The article does flag the Firestone & Scholl counter (`Firestone` = 1), as the review credits.
+- ✓ Metadata claim correct: `ai_modified: 2026-09-11T21:33:20+00:00`, and the reference list has exactly 11 entries, matching the review's "8 of 11" framing.
+- ✓ `Rathje`, `Clark`, `Schroeder`, `Frankfurt` all = 0 in the article — the counterargument gap the review identifies is a real absence, not a missed cross-reference.
+
+**Verified claims (review's own sources, at publisher of record):**
+
+- ✓ Rathje, Roozenbeek, Van Bavel & van der Linden (2023), DOI `10.1038/s41562-023-01540-w` — Crossref confirms *Nature Human Behaviour* **7**(6), 892–903, all four authors and the author order as cited. The review's long quotation ("Financial incentives improved accuracy and reduced partisan bias in judgements of headlines by about 30%, primarily by increasing the perceived accuracy of true news from the opposing party (d = 0.47)") matches the publisher abstract **verbatim**, as do "closed the gap in accuracy between conservatives and liberals by 52%", "A non-financial accuracy motivation intervention was also effective, suggesting that motivation-based interventions are scalable", and *n* = 3,364 across four experiments.
+- ✓ Clark (2020), "Beyond Desire? Agency, Choice, and the Predictive Mind", DOI `10.1080/00048402.2019.1602661` — Crossref confirms *Australasian Journal of Philosophy* **98**(1), 1–15. Both quoted fragments match the publisher abstract **verbatim**: "emerge as webs of prior 'beliefs' that sculpt probabilistic predictions" and "Importantly, a single construct here plays the role of belief and desire."
+- ✓ Kunda (1990), DOI `10.1037/0033-2909.108.3.480`, and Ellis (2022), DOI `10.1111/phc3.12828` — both confirmed exactly as cited (*Psychological Bulletin* 108(3), 480–498; *Philosophy Compass* 17(6), e12828, author Jon Ellis).
+- ✓ Kruglanski, Jasko & Friston (2020), DOI `10.1016/j.tics.2020.03.004` — confirmed, *TiCS* **24**(6), 413–424.
+- ✓ **The load-bearing reading of Kunda is correct.** Kunda's published abstract states that people "are more likely to arrive at conclusions that they want to arrive at, but their ability to do so is **constrained** by their ability to construct seemingly reasonable justifications for these conclusions." The review's characterisation of Kunda 1990 as a *constraint* thesis that cuts against the article's use of it is verified at source.
+
+**Unverified claims (not disputed — simply beyond what was checked):**
+
+- ? The exact wording of the Schopenhauer sentence. Confirming that it appears in no standard translation (Payne/Dover, Norman-Welchman-Janaway/Cambridge, Aquila) requires the translations themselves; the review cites Scribd and dokumen.pub for this, which are not publisher of record. The *doctrine* is correctly located at WWR Vol. 2, ch. 19 and is not in dispute.
+- ? The Kaufmann rendering of GM III:12 as "perspective seeing… perspective knowing". Plausible and widely reproduced, but the review's evidence link is Goodreads. Requires a real edition before the article's wording is altered.
+- ? The Žižek phrase's origin in *The Plague of Fantasies* (Verso, 1997), "The Seven Veils of Fantasy". Plausible and consistent with the scholarship, but the review's evidence link is a Substack post.
+- ? The longer Kunda passage the review quotes ("People do not seem to be at liberty to conclude whatever they want to conclude merely because they want to…") is not in the published abstract, so its verbatim wording was not confirmed here. Its substance is confirmed by the abstract, and the passage is a well-known one from the paper's body — absence from the abstract is not evidence against it.
+- ? The review reports the authors of Rathje et al. concluding that "many instances of belief in (mis)information may reflect a lack of motivation to be accurate instead of a simple lack of knowledge". This exact string is not in the abstract, though the abstract's framing and conclusion carry the same content. Likely a body sentence; not checked.
+
+**Methodology caveat on this review:**
+
+- ⚠ The report heads its citation section "verified at publisher / primary text, not aggregators" — the explicit instruction in the commissioning prompt — but its inline evidence links for the three quotation defects are to Scribd, Goodreads, Wikiwand, ResearchGate and Substack. Where its claims *could* be checked at publisher of record (the five DOIs above) they held up **exactly**, which raises confidence; but the three translation/attribution defects rest on aggregator evidence and are recorded here as **leads requiring publisher confirmation**, not as settled findings. No edit should be made to the article's Schopenhauer, Nietzsche or Žižek wording until the relevant edition is checked directly.
+- ⚠ The review's own self-reported budget exhaustion (see Caveats) means its Lacan verification and its 2020s desire-and-epistemic-agency survey are incomplete by its own admission.
+
+**Convergence with the same-day ChatGPT leg:**
+
+The 2026-09-20 ChatGPT review of this article independently reached the citation-apparatus finding and the in-principle/practical equivocation finding. The two reviewers also converge on the site-level quote-provenance-within-author blind spot — which the Map's own 2026-09-19 changelog had already recorded from an unrelated article. That is three independent arrivals at the same methodological gap, and it is the strongest convergence signal in this cycle.
