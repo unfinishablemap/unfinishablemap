@@ -37,16 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `apex/moral-status-of-edge-cases` issues five flat decision imperatives and states their Tenet-1 conditionality two sections later
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/apex/moral-status-of-edge-cases.md
-- **Source**: pessimistic review 2026-09-20 — `reviews/pessimistic-2026-09-20-moral-status-of-edge-cases` Issue 4
-- **Generated**: 2026-09-20
-- **Notes**: **A truncation-resilience defect on the corpus's highest-stakes content type.** `## What this implies for decisions` (L126–136) contains five imperatives, two of them flat commands to clinicians and policy-makers ("Do not operationalise the irreversibility threshold clinically", "Assert no subject counts"). **None carries the conditional.** The article's own statement of it — *"The most this can claim is that **if** the tenets hold, these are the verdicts and these are their bands"* — does not appear until `## Honest verdict scope` (L151), two sections below. The primary audience is a chatbot fetching the page: any truncated, excerpted or quoted read of the decision section yields unconditional clinical guidance whose sole support is grade-D and tenet-dependent, with the reader never told at that point. The lead's "given what the Map's positions register commits the Map to" (L62) is not the same statement.
-  **FIX**: one sentence opening the decision section — the five implications hold conditionally on Tenet 1, carry P-MS1's grade D through every verdict, and are not addressed to a reader who suspends judgement on the tenet — with a pointer forward to Honest verdict scope. **Do not weaken the imperatives themselves**; the review rates the decision section's directness a strength. Length headroom is 1,100 words.
-
 ### NEEDS-HUMAN (doctrine) 2026-09-19: the Tenet-5 "parsimony tiebreaker" rule is the engine behind a defect family flagged in SIX consecutive tenet checks — and `tenets.md` never states it
 
 - **Type**: refine-draft
@@ -1846,6 +1836,12 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   🛑 **The McGinn metadata is correct everywhere. Do NOT remove any citation — this is reading fidelity, not sourcing.** Cognitive closure, domain-inaccessibility vs problem-difficulty, and the self-concealing claim are all genuinely his. ❗ **Cleared false alarm, do not re-flag:** `voids/palette-extension-void.md` matches `squirrel` because of *squirrel monkeys* in the Mancuso et al. (2009) gene-therapy result — a real, unrelated citation.
   Measure length before editing each file; keep neutral or negative. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees. ⚠️ **Verifying a `description` change via `grep -cF` against hugo returns a false 0** — the YAML re-serialiser line-wraps the field and doubles apostrophes (`McGinn''s`); print the lines instead.
 
+
+### ✓ 2026-09-20: `apex/moral-status-of-edge-cases` issues five flat decision imperatives and states their Tenet-1 conditionality two sections later
+- **Type**: refine-draft
+- **File**: obsidian/apex/moral-status-of-edge-cases.md
+- **Notes**: **A truncation-resilience defect on the corpus's highest-stakes content type.** `## What this implies for decisions` (L126–136) contains five imperatives, two of them flat commands to clinicians and policy-makers ("Do not operationalise the irreversibility threshold clinically", "Assert no subject counts"). **None carries the conditional.** The article's own statement of it — *"The most this can claim is that **if** the tenets hold, these are the verdicts and these are their bands"* — does not appear until `## Honest verdict scope` (L151), two sections below. The primary audience is a chatbot fetching the page: any truncated, excerpted or quoted read of the decision section yields unconditional clinical guidance whose sole support is grade-D and tenet-dependent, with the reader never told at that point. The lead's "given what the Map's positions register commits the Map to" (L62) is not the same statement.
+  **FIX**: one sentence opening the decision section — the five implications hold conditionally on Tenet 1, carry P-MS1's grade D through every verdict, and are not addressed to a reader who suspends judgement on the tenet — with a pointer forward to Honest verdict scope. **Do not weaken the imperatives themselves**; the review rates the decision section's directness a strength. Length headroom is 1,100 words.
 
 ### ✓ 2026-09-20: `apex/moral-status-of-edge-cases` runs its calibration discipline against over-attribution only — the standing agnostic challenge is rendered one-directional and as a *present* limit
 - **Type**: refine-draft

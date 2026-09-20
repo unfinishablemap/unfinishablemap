@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-20
-ai_modified: 2026-09-20 16:24:05+00:00
+ai_modified: 2026-09-20 16:53:09+00:00
 ai_system: claude-opus-5
 apex_decision_context: Moral status for boundary cases — deep coma, late-stage dementia,
   non-human animals, early human development, embodied AI, and the simplest organisms
@@ -52,7 +52,7 @@ description: How to reason about moral standing in the cases where the Map's fra
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-20 16:24:05+00:00
+lastmod: 2026-09-20 16:53:09+00:00
 modified: *id001
 related_articles:
 - '[[moral-architecture-of-consciousness]]'
@@ -132,6 +132,8 @@ The floor is different, and [P-CS5](/positions/consciousness-scope/#p-cs5) is th
 This is where the calibration hazard bites. Tenet 5 ([Occam's Razor Has Limits](/tenets/#occams-limits)) removes the parsimony-based dismissal of minimal minds, and the temptation is to read the removal as movement toward attribution. It is not movement in either direction. Symmetric underdetermination means the framework licenses no upgrade of the bacterium's status *and* no confident denial. Anyone who leaves this section believing the Map's tenets make simple-organism sentience more likely has read defeater-removal as evidence, which is the failure mode [the evidential-status discipline](/project/evidential-status-discipline/) and [the possibility/probability slippage page](/concepts/possibility-probability-slippage/) exist to catch.
 
 ## What this implies for decisions
+
+All five implications below hold conditionally on Tenet 1 ([Dualism](/tenets/#dualism)) and carry [P-MS1](/positions/moral-status/#p-ms1)'s grade D into every verdict they reach — the criterion has the tenet as its sole support. They are not addressed to a reader who suspends judgement on it; [Honest verdict scope](#honest-verdict-scope) states that limit in full.
 
 1. **Identify the kind of uncertainty before applying the criterion.** Interruption, irreversible loss, marker-graded presence, and substrate questions call on different positions, but the axis that separates them is not credence. Eight of the ten positions cited here sit at *moderate*; the two that do not are a debt held at high credence because it is verifiable by inspection, and a conjunction capped at low by the weaker of its two halves. What does vary is the **external-evidence grade**, which runs across four steps here (set out in implication 4 below), and — more sharply — **whether any observation could bear on the verdict at all**. A protocol that treats "hard case" as one category will carry the animal case's grade-B evidence into the AI case, or read the floor's principled silence as a gap that better measurement will close. Sort first.
 

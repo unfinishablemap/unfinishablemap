@@ -4,7 +4,7 @@ description: "How to reason about moral standing in the cases where the Map's fr
 created: 2026-09-20
 modified: 2026-09-20
 human_modified:
-ai_modified: 2026-09-20T16:24:05+00:00
+ai_modified: 2026-09-20T16:53:09+00:00
 draft: false
 topics:
   - "[[moral-status-threshold-or-degrees]]"
@@ -124,6 +124,8 @@ The floor is different, and [[consciousness-scope|P-CS5]] is the entry this piec
 This is where the calibration hazard bites. Tenet 5 ([[tenets#^occams-limits|Occam's Razor Has Limits]]) removes the parsimony-based dismissal of minimal minds, and the temptation is to read the removal as movement toward attribution. It is not movement in either direction. Symmetric underdetermination means the framework licenses no upgrade of the bacterium's status *and* no confident denial. Anyone who leaves this section believing the Map's tenets make simple-organism sentience more likely has read defeater-removal as evidence, which is the failure mode [[evidential-status-discipline|the evidential-status discipline]] and [[possibility-probability-slippage|the possibility/probability slippage page]] exist to catch.
 
 ## What this implies for decisions
+
+All five implications below hold conditionally on Tenet 1 ([[tenets#^dualism|Dualism]]) and carry P-MS1's grade D into every verdict they reach — the criterion has the tenet as its sole support. They are not addressed to a reader who suspends judgement on it; [Honest verdict scope](#honest-verdict-scope) states that limit in full.
 
 1. **Identify the kind of uncertainty before applying the criterion.** Interruption, irreversible loss, marker-graded presence, and substrate questions call on different positions, but the axis that separates them is not credence. Eight of the ten positions cited here sit at *moderate*; the two that do not are a debt held at high credence because it is verifiable by inspection, and a conjunction capped at low by the weaker of its two halves. What does vary is the **external-evidence grade**, which runs across four steps here (set out in implication 4 below), and — more sharply — **whether any observation could bear on the verdict at all**. A protocol that treats "hard case" as one category will carry the animal case's grade-B evidence into the AI case, or read the floor's principled silence as a gap that better measurement will close. Sort first.
 

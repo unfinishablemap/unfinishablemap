@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T16:24:05+00:00'
+ai_modified: '2026-09-20T16:53:09+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-20T16:53:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/moral-status-of-edge-cases]]
+- **Source**: Issue 4 of `reviews/pessimistic-2026-09-20-moral-status-of-edge-cases.md` — **the last of that review's three tasks**; the review's priority list is now fully discharged.
+- **Word count**: 4,399 → 4,449 (+50) by `tools.curate.length.analyze_length`. Apex soft 4,000 / hard 5,000 — status `soft_warning`, **550 to the hard gate**. The task note's "1,100 words of headroom" was stale by two sibling landings (+338 register repairs, +162 absence-side symmetry); re-measured before editing. A one-sentence fix either way.
+- **The defect, re-verified scoped rather than file-wide**: `grep -oiF "tenet 1"` over L126–L136 (`## What this implies for decisions`) returned **0**. The article's conditional — "The most this can claim is that *if* the tenets hold, these are the verdicts and these are their bands" — sat two sections later under `## Honest verdict scope`. This is a truncation-resilience failure, not a calibration one: the Map's primary audience is a chatbot fetching the page, and any excerpted or quoted read of the decision section yielded unconditional clinical and policy guidance whose sole support is grade-D and tenet-dependent, with the reader never told at that point. The lead's "given what the Map's positions register commits the Map to" names the *source* of the commitments, not their *conditionality*, and does not do the work.
+- **Fix — one sentence opening the section, verbatim**: "All five implications below hold conditionally on Tenet 1 ([[tenets#^dualism|Dualism]]) and carry P-MS1's grade D into every verdict they reach — the criterion has the tenet as its sole support. They are not addressed to a reader who suspends judgement on it; [Honest verdict scope](#honest-verdict-scope) states that limit in full."
+- **The five imperatives are byte-identical.** `git diff --numstat` on the article reads `3 1`, and the only deleted line in the whole diff is the old `ai_modified` value — the body change is a **pure insertion**. The review rates the decision section's directness a strength; "Do not operationalise the irreversibility threshold clinically" (L132) and "Assert no subject counts" (L136) were not softened. A frame was added, not five hedges. Nor was anything the two same-review siblings landed an hour earlier disturbed.
+- **No duplication of implication 4's existing caution.** That clause reads "the decision is still made under uncertainty" and is about *marker sparsity* under the standing agnostic challenge; `grep -oiF "made under uncertainty" | wc -l` returns **1** after the edit, so the phrase was not re-used. The new sentence is about tenet-conditionality of the whole recommendation set — a different frame at a different scope.
+- **Anchor verified against built output, not guessed.** `[](#honest-verdict-scope)` is a markdown anchor rather than a `[[#…]]` wikilink, which the converter splits into an empty target. Built with `hugo --quiet` to a scratchpad destination: the page emits `<h2 id="honest-verdict-scope"` exactly once and `href="#honest-verdict-scope"` exactly once. `P-MS1` left bare — bare position ids autolink, and the sync confirms it resolved to `/positions/moral-status/#p-ms1`; the `[[tenets#^dualism|Dualism]]` form resolved to `/tenets/#dualism`. No stripped wikilink, no empty target.
+- **Both trees confirmed** with `grep -oiF … | wc -l` after `scripts/sync.py`: obsidian **1**, hugo **1**.
+- **Scope held**: this article only; `obsidian/positions/` untouched. `ai_system` left at `claude-opus-5` — same model wrote the new prose, so no plus-joining.
+- **Published**: yes
+
 
 ## 2026-09-20T16:41:57+00:00 - deep-review
 - **Status**: Success
