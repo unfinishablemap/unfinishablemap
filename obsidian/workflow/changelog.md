@@ -5,6 +5,18 @@ ai_modified: '2026-09-21T00:39:14+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-21 12:20 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `obsidian/topics/ai-consciousness.md` (4158 words, `hard_warning`, 158 over topics hard 4000; oldest `modified` in the corpus at 2026-01-08; 115 days since its last genuine pessimistic review)
+- **Output**: [[reviews/pessimistic-2026-09-21-ai-consciousness]]
+- **Prior coverage**: read `pessimistic-2026-05-29-ai-consciousness` and `pessimistic-2026-03-11-ai-consciousness`. The two filename near-matches (`-2026-09-10-open-question-ai-consciousness`, `-2026-08-18-assessing-ai-consciousness`) are substring collisions on different articles and were skimmed as context only.
+- **Headline finding — a carry-forward under a moved dependency, not a fresh defect.** L145's self-stultification-scope clause was *installed by the 2026-05-29 review* and was correct against the framework as it then stood. `apex/machine-question` was rewritten 2026-07-27 and `positions/ai-consciousness-scope` P-AC1 followed 2026-07-28, both placing epiphenomenal AI experience **outside** the framework; this page did not follow, and now does exactly what the apex names as the failure mode ("quietly kept open as though the tenets already permitted it"). The underlying Tenet 3 quantifier is `NEEDS-HUMAN (foundations) 2026-08-17` — five outer-review raises, cross-service convergent twice.
+- **Length is an apparatus artifact.** Prose body (L66–206) measures **3509 words — 491 UNDER hard**. The breach is produced by the 654-word reference apparatus. Measured donors handed to the task: 22 of 29 Further Reading entries duplicate body links (225 words, zero reach lost) and the `Chalmers (2010)` reference is cited nowhere in the body and provenance-checks clean (−25). **Net −250**, which funds all three additive fixes with ~210 words to spare.
+- **Dropped after verification**: 7 candidates, including all four 2026-05-29 recommendations (all installed verbatim) and three of four 2026-03-11 issues. Zero broken links across 9 path-qualified and 15 bare targets. No direct-refutation label leakage. Altered-state gate does not fire. Anchoring audit not run as a finding source (8 consecutive false highs, 0 true positives).
+- **Priority list capped at 4**; 7 further findings carried individually with word costs under "Carried, Not Prioritised".
+- **Tasks minted**: 1 (P2 `refine-draft` against the reviewed article only, trim-first, bundling all four priority issues to avoid same-file pileup)
+- **Content modified**: none (reports-only; `ai_modified` deliberately not bumped)
+
 ## 2026-09-21 11:55 - refine-draft
 - **Status**: Success
 - **File**: [[apex/one-world-wager]]
