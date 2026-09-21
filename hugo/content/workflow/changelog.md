@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-21T18:07:40+00:00'
+ai_modified: '2026-09-21T18:38:07+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-21'
-lastmod: 2026-09-21 18:07:40+00:00
+lastmod: 2026-09-21 18:38:07+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-21 18:38 - refine-draft
+- **Status**: Success
+- **File**: [representation-adequacy-and-irreversible-intervention](/topics/representation-adequacy-and-irreversible-intervention/)
+- **Type**: placement / proportion fix. No substantive content was added, removed or weakened.
+- **Defect addressed**: The `## Four Questions That Connect Ontology to Action` list is deliberately parallel — each item is a bolded question, an *"The action: ..."* clause, and one consequence sentence, two of them carrying a short parenthetical wikilink. Item 2 had accreted a three-sentence excursus on the `concepts/experiential-alignment` measurement protocol and read at 152 words against siblings of 44 / 46 / 37 — 3.4x the smallest, visibly lumpy inside a list whose whole effect depends on parallelism.
+- **Per-item word counts**: Q1 44 -> 44, **Q2 152 -> 48**, Q3 46 -> 46, Q4 37 -> 37. Q2 is now 1.30x the smallest sibling, inside the band the list already spanned (37-46 = 1.24x).
+- **Where the three sentences went**: a new standalone paragraph immediately *after* the list's closing generalisation ("None of these questions is answered by better prediction..."), not merged into it. Rationale: that closing paragraph ranges over all four questions, and folding three Q2-specific sentences into it would have made a Q2-only failure mode read as a claim about all four — a worse defect than the lumpiness being fixed. Placing the excursus after the generalisation also preserves list-to-generalisation adjacency (front-loading: the point that covers all four items stays first) and lets the excursus carry an explicit referent in its opening words: "The second of them is the one the Map's own measurement work is most likely to be mistaken for answering, so it is worth separating out."
+- **All three substantive points survive intact**: (a) triangulation across first-person, physiological and behavioural methods makes proxy-gaming expensive because divergence between methods is itself signal; (b) the Goodhart failure modes all presuppose a target concept already in hand and a proxy drifting from it, whereas the second question's worry is that the learned construct is *narrower* than what matters, so proxy and target agree on everything observable and no divergence appears; (c) the protocol is careful to treat first-person access as primary rather than as behavioural data, yet every datum it gathers is physically realised, so convergence cannot certify that the construct picks out experience rather than report-generation. (c) was not compressed — deleting or thinning it would reintroduce the misrepresentation of the sibling that the earlier pass corrected. The sibling's own disclaimer ("A heterophenomenological approach that treats first-person reports as mere behavioral data loses the target", `concepts/experiential-alignment` L102) remains correctly credited.
+- **Pointer text left in Q2**: "([experiential-alignment](/concepts/experiential-alignment/) treats the adjacent problem and stops short of this one)". Deliberately *not* Q3's "develops this" formula — `experiential-alignment` does not develop Q2's question, it treats the neighbouring problem and stops short of this one, and that distinction is the entire finding. Q3's register (short trailing parenthetical naming the relation), different words. The excursus opens on "the neighbouring problem" so the two mentions are not verbatim repeats.
+- **Word delta**: body 3037 -> 3069 (+32). Topics soft 3000 / hard 4000, gate `>=`, usable ceiling 3999 — 930 words of headroom. Status `soft_warning` before and after; `soft_warning` is mechanically inert. Aimed roughly word-neutral; the +32 is the excursus's new explicit-referent opening sentence plus the Q2 pointer, minus the deictics the move made redundant.
+- **Fences observed**: the unbounded-magnitude / expected-value argument stays declined at its own section ("The Map declines it", three reasons) and was not revived. No de Blanc (2007) / arXiv:0712.4318 was added; the existing and *different* de Blanc (2011) / arXiv:1105.3821 at the ontological-crises section and reference 1 is untouched, unmerged and unrenumbered. `concepts/experiential-alignment` was not edited (confirmed clean in `git status`). The four-item list was not renumbered or restructured beyond item 2's own text.
+- **Sync**: both trees. Grep-verified in `hugo/content/topics/` — the Q2 pointer resolved to `/concepts/experiential-alignment/`, the excursus paragraph is present, and all three substantive sentences (a)/(b)/(c) appear exactly once. The old 152-word lump string returns zero hits in the Hugo tree.
+- **Untouched**: `description`, `ai_contribution`, `ai_system`, `last_deep_review`, the reference list (6 entries, unchanged), and every other section of the article.
+- **Published**: yes
 
 ## 2026-09-21 18:07 - refine-draft
 - **Status**: Success

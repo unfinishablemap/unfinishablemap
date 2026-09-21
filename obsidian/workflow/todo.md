@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: `topics/representation-adequacy-and-irreversible-intervention` Q2 is now 3.4x the length of its siblings in a deliberately parallel four-item list
-
-- **Type**: refine-draft
-- **File**: obsidian/topics/representation-adequacy-and-irreversible-intervention.md
-- **Status**: pending
-- **Source**: cycle driver, 2026-09-21 refine-draft slot — self-flagged proportion artefact of that same pass
-- **Generated**: 2026-09-21
-- **Notes**: The 2026-09-21 pass added a three-sentence excursus to item 2 of the `## Four Questions That Connect Ontology to Action` list. **Measured immediately after, by item: Q1 44 words, Q2 152, Q3 46, Q4 37.** The list is deliberately parallel — each item is a bolded question, an "The action: …" clause, and one consequence sentence, with Q1 and Q3 carrying a short wikilink — so one item at 3.4x its siblings reads lumpy. ⚠️ **THE CONTENT IS NOT THE PROBLEM AND MUST SURVIVE**: the three sentences were verified at source and are the substance of the fix (proxy-gaming vs representational error; the Goodhart rows presuppose a target concept in hand; the sibling's L102 disclaimer is credited before the limit is stated). **This is a placement fix, not a trim.** Suggested shape: leave a short pointer inside Q2 matching Q3's parenthetical form, and move the three sentences into the paragraph that already follows the list at L59 ("None of these questions is answered by better prediction of the systems they concern"), which is the natural home for a cross-cutting remark. **Roughly word-neutral**; budget is not a constraint here — the article measured **3034 words, `soft_warning`, with 965 free under the 3999 usable ceiling**, and `soft_warning` carries no mechanical consequence (`replenish-queue/SKILL.md:376` gates on `hard_warning`; `build.py` never passes `--strict`). 🛑 **Do NOT use this task to revive the unbounded-magnitude / expected-value argument** (declined deliberately at L73) **or to add de Blanc (2007) arXiv:0712.4318** — note the article already cites the *different* de Blanc (2011) arXiv:1105.3821 at L44/L126; two real papers, one author, do not merge them. Sync both trees. Tenet alignment: methodological.
-
 ### P2: NEEDS-HUMAN (length decision) — `topics/psychedelics-and-the-filter-model` has ONE word of headroom, and a verified counterargument has now been deferred twice for want of room
 
 - **Type**: refine-draft
@@ -1774,6 +1765,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-21: `topics/representation-adequacy-and-irreversible-intervention` Q2 is now 3.4x the length of its siblings in a deliberately parallel four-item list
+- **Type**: refine-draft
+- **File**: obsidian/topics/representation-adequacy-and-irreversible-intervention.md
+- **Notes**: The 2026-09-21 pass added a three-sentence excursus to item 2 of the `## Four Questions That Connect Ontology to Action` list. **Measured immediately after, by item: Q1 44 words, Q2 152, Q3 46, Q4 37.** The list is deliberately parallel — each item is a bolded question, an "The action: …" clause, and one consequence sentence, with Q1 and Q3 carrying a short wikilink — so one item at 3.4x its siblings reads lumpy. ⚠️ **THE CONTENT IS NOT THE PROBLEM AND MUST SURVIVE**: the three sentences were verified at source and are the substance of the fix (proxy-gaming vs representational error; the Goodhart rows presuppose a target concept in hand; the sibling's L102 disclaimer is credited before the limit is stated). **This is a placement fix, not a trim.** Suggested shape: leave a short pointer inside Q2 matching Q3's parenthetical form, and move the three sentences into the paragraph that already follows the list at L59 ("None of these questions is answered by better prediction of the systems they concern"), which is the natural home for a cross-cutting remark. **Roughly word-neutral**; budget is not a constraint here — the article measured **3034 words, `soft_warning`, with 965 free under the 3999 usable ceiling**, and `soft_warning` carries no mechanical consequence (`replenish-queue/SKILL.md:376` gates on `hard_warning`; `build.py` never passes `--strict`). 🛑 **Do NOT use this task to revive the unbounded-magnitude / expected-value argument** (declined deliberately at L73) **or to add de Blanc (2007) arXiv:0712.4318** — note the article already cites the *different* de Blanc (2011) arXiv:1105.3821 at L44/L126; two real papers, one author, do not merge them. Sync both trees. Tenet alignment: methodological.
 
 ### ✓ 2026-09-21: `apex/authority-of-form` L94 names Chalmers as owner of the consistency objection while `voids/formal-cognitive-limits` L68 credits "Putnam, others" — the synthesis picked one side of an internal disagreement silently
 - **Type**: refine-draft
