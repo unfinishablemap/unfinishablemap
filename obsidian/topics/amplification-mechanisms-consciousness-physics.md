@@ -4,7 +4,7 @@ description: "Seven proposed mechanisms for scaling quantum-level conscious infl
 created: 2026-03-18
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-07-29T13:29:29+00:00
+ai_modified: 2026-09-21T16:22:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -120,7 +120,7 @@ This competition architecture provides a final stage for the amplification chain
 
 The mathematics of drift-diffusion make the amplification explicit. The probability that option A wins over option B depends on the drift rate (bias) and the noise level. When noise is high relative to the bias—precisely the regime where SR operates—a small change in drift rate produces a disproportionate change in outcome probability. Dopamine modulates the decision threshold, at least in the male participants tested (Chakroun et al., 2023), setting how much evidence is needed, while the accumulation process itself remains stochastic and susceptible to weak biases.
 
-The commitment point identified by Thura and Cisek (2014)—approximately 280 milliseconds before movement onset, when one option achieves dominance—marks where the amplification chain would terminate on this account. A quantum-level bias, amplified through SR and criticality into a network-level signal, would shift which competing neural population reaches threshold first. The predicted outcome is a specific action: reaching for one cup rather than another, speaking one word rather than its alternative.
+The commitment point identified by Thura and Cisek (2014) in monkeys choosing reaches—approximately 280 milliseconds before movement onset, when one option achieves dominance—marks where the amplification chain would terminate on this account. A quantum-level bias, amplified through SR and criticality into a network-level signal, would shift which competing neural population reaches threshold first. The predicted outcome is a specific action: reaching for one cup rather than another, speaking one word rather than its alternative.
 
 ## The Three-Stage Amplification Chain
 
