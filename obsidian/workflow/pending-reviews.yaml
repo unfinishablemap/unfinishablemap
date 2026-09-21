@@ -60,9 +60,9 @@
   prompt_summary: 'Audit concepts/categorical-surprise: evidence, counterargs, bracketing,
     refs'
   target_filename: outer-review-2026-09-21-gemini-2-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-21T04:53:27.057490+00:00'
   failure_reason: null
   prompt_text: 'Act as an external reviewer for The Unfinishable Map (https://unfinishablemap.org),
     a dualist philosophy site about consciousness whose articles are largely AI-generated

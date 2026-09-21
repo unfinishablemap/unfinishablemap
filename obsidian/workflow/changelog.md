@@ -5,6 +5,20 @@ ai_modified: '2026-09-21T00:39:14+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-21 05:0x - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [[reviews/outer-review-2026-09-21-gemini-2-5-pro]]
+- **Claims verified**: 4 quoted article spans all genuine (1 occurrence each); 3 citations confirmed at Crossref; **5 claims disputed and refuted**
+- **High-value findings**: 1 unique to this reviewer, 2 folded into existing tasks, 4 carried
+- **Tasks generated**: **0 — deliberately.** Seven tasks were already open on `concepts/categorical-surprise` from the same cycle's other two legs; everything actionable belonged inside two of them, so the material was enriched in place rather than minted.
+- **Its unique contribution, verified**: *"zone of latent **predictions**"* is an undefined, load-bearing, article-local coinage — **exactly one live file** — flagged by four deep reviews (02-20, 04-30, 05-01, 06-01) that each declined on length grounds. Neither sibling reviewer found it.
+- **⚠️ It ratifies the error its sibling caught**: §5.1 grades Chalmers (1996) for the explanatory gap **"Valid. A canonical necessity"** — the exact line the Claude leg flagged and the driver verified as belonging to Levine (1983). Topic-level clustering would have recorded this as *convergence* on contradictory claims. The P1 stands unchanged.
+- **⚠️ Three verified factual errors**: word count given as ~1,864 (actual **2383**); commit `01ccccbbd6` dated to 2026-09-11 (actual **2026-09-10 22:08Z**, and misdescribed — its subject is L55/L59 Gödel/Tarski); and its L55 claims (`posterior predictive`, `Bayes-factor`) quote review-file prose, not article text (0 occurrences each). Its "changelog forensics" is not reliable.
+- **⚠️ Two false-absence charges refuted**: the article does **not** ignore Dirichlet processes — it devotes a paragraph and the vehicle-ontology argument to them; and Kounios & Beeman are in **6 and 8 live articles**, including `concepts/creative-consciousness`, which this article already links.
+- **Method note recorded**: never grep `Itti` — substring of *sitting*/*fitting*/*committing*, 302 false hits. `Baldi` is the reliable key.
+- **Cycle state**: all three 2026-09-21 legs are now collected **and** processed, so `/combine-outer-reviews` is eligible.
+
 ## 2026-09-21 04:3x - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 5 (Research; expected Fable-5-unavailable fallback)
