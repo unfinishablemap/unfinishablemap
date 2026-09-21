@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-07-30 15:10:22+00:00
+ai_modified: 2026-09-21 14:53:24+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 00:13:28+00:00
-lastmod: 2026-07-30 15:10:22+00:00
+lastmod: 2026-09-21 14:53:24+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -114,6 +114,8 @@ The measurement protocol uses triangulation across multiple methods. No single p
 ### Triangulation Requirement
 
 When methods diverge systematically—self-reports claim high satisfaction while neural patterns suggest distress and behavioural indicators show avoidance—the divergence itself is signal. It may indicate manipulation, measurement failure, or a domain where proxies break down.
+
+The check depends on there being divergence to detect. This protocol treats first-person access as primary rather than as behavioural data, yet every datum it gathers is physically realised; where a learned construct is narrower than what matters rather than drifting from it, proxy and target agree on every observable and nothing diverges. That residual case is what [adequacy of representation under irreversible intervention](/topics/representation-adequacy-and-irreversible-intervention/) presses, and triangulation does not answer it.
 
 ### Goodhart Failure Modes
 

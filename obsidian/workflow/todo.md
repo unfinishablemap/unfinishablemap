@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `concepts/experiential-alignment` Measurement Protocol has no representational-error limit and does not link the article that states one — the owed reciprocal of the 2026-09-21 Q2 crosslink
-
-- **Type**: refine-draft
-- **File**: obsidian/concepts/experiential-alignment.md
-- **Status**: pending
-- **Source**: cycle driver, 2026-09-21 refine-draft slot — flagged as owed by the pass that installed the one-way link; deliberately left out of contract there
-- **Generated**: 2026-09-21
-- **Notes**: On 2026-09-21 `topics/representation-adequacy-and-irreversible-intervention` L55 (Q2) gained a link to this article plus three sentences stating the limit: the Measurement Protocol's triangulation makes **proxy-gaming** expensive (divergence between methods is signal) but does not bound **representational error** (a construct "narrower than what matters", where proxy and target agree on everything observable and no divergence ever appears). **The reciprocal was not installed** — it was out of contract for the optimistic review that minted that task, and per `out-of-scope-spillover-flags-stale` it must be re-derived before anyone acts on it. ⚠️ **Re-measure before editing; do not trust these figures.** As of 2026-09-21 the link count was **0 → 1** (this article still has **0** occurrences of `representation-adequacy`, measured with `grep -oF … | wc -l`, occurrences not lines). **The natural host is `### Goodhart Failure Modes` (L114 on 2026-09-21) or the end of `### Triangulation Requirement` (L110)** — the sharp point is that all four Goodhart rows presuppose the target concept is already in hand and the proxy is drifting from it. 🎯 **A piped wikilink installs the reciprocal at near-zero word cost** — see `piped-wikilink-installs-a-reciprocal-at-zero-word-cost`. 🛑 **Do NOT write that this article treats first-person reports as behavioural data** — L102 explicitly disclaims exactly that ("A heterophenomenological approach that treats first-person reports as mere behavioral data loses the target"). The accurate point is that the protocol asserts first-person primacy yet every datum it gathers is physically realised, so convergence cannot certify the construct picks out experience rather than report-generation. **Check this article's own length before adding words.** Tenet alignment: methodological / cluster-consistency.
-
 ### P3: `apex/authority-of-form` L130 invokes the self-stultification argument at full strength after its own source article conceded a retreat — the one undischarged discount in an article whose thesis is symmetric discounting
 
 - **Type**: refine-draft
@@ -1801,6 +1792,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-21: `concepts/experiential-alignment` Measurement Protocol has no representational-error limit and does not link the article that states one — the owed reciprocal of the 2026-09-21 Q2 crosslink
+- **Type**: refine-draft
+- **File**: obsidian/concepts/experiential-alignment.md
+- **Notes**: On 2026-09-21 `topics/representation-adequacy-and-irreversible-intervention` L55 (Q2) gained a link to this article plus three sentences stating the limit: the Measurement Protocol's triangulation makes **proxy-gaming** expensive (divergence between methods is signal) but does not bound **representational error** (a construct "narrower than what matters", where proxy and target agree on everything observable and no divergence ever appears). **The reciprocal was not installed** — it was out of contract for the optimistic review that minted that task, and per `out-of-scope-spillover-flags-stale` it must be re-derived before anyone acts on it. ⚠️ **Re-measure before editing; do not trust these figures.** As of 2026-09-21 the link count was **0 → 1** (this article still has **0** occurrences of `representation-adequacy`, measured with `grep -oF … | wc -l`, occurrences not lines). **The natural host is `### Goodhart Failure Modes` (L114 on 2026-09-21) or the end of `### Triangulation Requirement` (L110)** — the sharp point is that all four Goodhart rows presuppose the target concept is already in hand and the proxy is drifting from it. 🎯 **A piped wikilink installs the reciprocal at near-zero word cost** — see `piped-wikilink-installs-a-reciprocal-at-zero-word-cost`. 🛑 **Do NOT write that this article treats first-person reports as behavioural data** — L102 explicitly disclaims exactly that ("A heterophenomenological approach that treats first-person reports as mere behavioral data loses the target"). The accurate point is that the protocol asserts first-person primacy yet every datum it gathers is physically realised, so convergence cannot certify the construct picks out experience rather than report-generation. **Check this article's own length before adding words.** Tenet alignment: methodological / cluster-consistency.
 
 ### ✓ 2026-09-21: `topics/representation-adequacy-and-irreversible-intervention` Question 2 has a worked answer next door in `concepts/experiential-alignment` and neither article links the other — and the honest relation is that triangulation does not answer it
 - **Type**: refine-draft

@@ -1,10 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-21T14:42:05+00:00'
+ai_modified: '2026-09-21T14:54:18+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-21 14:55 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/experiential-alignment]]
+- **Task**: install the missing reciprocal for `topics/representation-adequacy-and-irreversible-intervention`. Re-probed for the **repair** rather than the defect (additive fix leaves surrounding prose unchanged): `grep -oF` occurrences of the full slug in this file = **0** in both trees before the edit; forward half in the sibling = **1** (installed earlier the same day at its L55). Pair confirmed one-way and the task live.
+- **Host chosen**: end of `### Triangulation Requirement` (L110 heading; sentence landed at L114). Picked over the `### Goodhart Failure Modes` table because this is precisely where the article asserts the claim the limit qualifies — *"the divergence itself is signal"* — and the sibling's failure mode is one where proxy and target agree on every observable, so the signal never fires. Only one host used, per brief. This is the first wikilink anywhere in the L110–L124 region.
+- **Sentence added** (71 words, one paragraph): *"The check depends on there being divergence to detect. This protocol treats first-person access as primary rather than as behavioural data, yet every datum it gathers is physically realised; where a learned construct is narrower than what matters rather than drifting from it, proxy and target agree on every observable and nothing diverges. That residual case is what [[representation-adequacy-and-irreversible-intervention|adequacy of representation under irreversible intervention]] presses, and triangulation does not answer it."*
+- **L102 disclaimer credited, not contradicted.** L102 explicitly disclaims heterophenomenology: *"A heterophenomenological approach that treats first-person reports as mere behavioral data loses the target."* The added clause **affirms** that stance (*"treats first-person access as primary rather than as behavioural data"*) and then states the narrower, accurate limit — that the *convergence* of physically-realised data cannot by itself certify the construct picks out experience rather than report-generation. Writing that the article treats reports as behavioural data would have misrepresented it in its own body; it does not.
+- **Instrument**: piped wikilink, per the zero-word-cost pattern. **Bare** slug used, not path-qualified — `find` confirmed exactly one `representation-adequacy-and-irreversible-intervention.md` in the corpus and no basename collision, so the bare target is unambiguous and passes through the validated wikilink index (path-qualified targets are *not* validated and fail silently as 404s). Hugo resolved it to `/topics/representation-adequacy-and-irreversible-intervention/`, confirming correct section resolution.
+- **Budget**: cost **71 words**. 3279 → **3350**, still `soft_warning` (concepts: soft 2500 / hard 3500 / critical 5000). Gate is `>=`, so the usable ceiling is 3499 and **149 words of headroom remain** under hard. Split re-measured after the edit: **prose 3078 / apparatus 272** (split at `## Further Reading`, the first apparatus heading — this file has no `### External Sources`). The whole cost fell on prose; apparatus is unchanged at 8% of the file, so there was no bibliography slack to donate and the fix was deliberately kept to a single paragraph. ⚠️ Note for future passes: `soft_warning` is mechanically inert, but `hard_warning` is the real gate (`replenish-queue/SKILL.md:376` mints its condense pool from it) and this file is genuinely close to it — do not treat the soft threshold here the way it is correctly ignored on files with wide headroom.
+- **Sibling not touched**: `git status --short` clean for `topics/representation-adequacy-and-irreversible-intervention.md` in both trees. Its forward sentence, list numbering and the separate open P3 about its Q2 proportion were all left alone.
+- **Both trees synced and grep-verified**: obsidian L114 and `hugo/content/concepts/experiential-alignment.md` L118 each show 1 occurrence. An obsidian-only fix would have left the defect live in Hugo.
+- **Published**: yes
 ## 2026-09-21 14:42 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: [[apex/authority-of-form]] (created 2026-09-14; 3993 words, status `ok`)

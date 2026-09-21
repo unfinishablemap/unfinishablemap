@@ -4,7 +4,7 @@ description: "AI should target experiential quality, not preference satisfaction
 created: 2026-01-17
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-07-30T15:10:22+00:00
+ai_modified: 2026-09-21T14:53:24+00:00
 draft: false
 topics:
   - "[[purpose-and-alignment]]"
@@ -110,6 +110,8 @@ The measurement protocol uses triangulation across multiple methods. No single p
 ### Triangulation Requirement
 
 When methods diverge systematically—self-reports claim high satisfaction while neural patterns suggest distress and behavioural indicators show avoidance—the divergence itself is signal. It may indicate manipulation, measurement failure, or a domain where proxies break down.
+
+The check depends on there being divergence to detect. This protocol treats first-person access as primary rather than as behavioural data, yet every datum it gathers is physically realised; where a learned construct is narrower than what matters rather than drifting from it, proxy and target agree on every observable and nothing diverges. That residual case is what [[representation-adequacy-and-irreversible-intervention|adequacy of representation under irreversible intervention]] presses, and triangulation does not answer it.
 
 ### Goodhart Failure Modes
 
