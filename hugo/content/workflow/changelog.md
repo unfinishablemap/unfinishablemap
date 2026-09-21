@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-21T16:05:00+00:00'
+ai_modified: '2026-09-21T16:22:32+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-21'
-lastmod: 2026-09-21 16:05:00+00:00
+lastmod: 2026-09-21 16:22:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-21 16:22 - refine-draft
+- **Status**: Success
+- **File**: [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/)
+- **Scope**: single-locus species marking, L123. The Thura & Cisek (2014) ~280ms motor-commitment figure was cited unmarked while the paragraph's predicted outcome is stated in human terms ("reaching for one cup rather than another, speaking one word rather than its alternative"). The study is macaque premotor/M1 single-unit recording (*Neuron* 81(6):1401-1416, PMID 24656257) — verified real-correct at the publisher of record; the citation itself was not altered.
+- **Changes**: inserted "in monkeys choosing reaches" after "Thura and Cisek (2014)" at L123. +4 words. No anchor/clock clause added: the article's only other millisecond figure (Orch OR ~500ms, L57) is a theoretical mechanism duration rather than a human empirical measurement, so there is no cross-clock numerical pairing to disclose — unlike the three loci fixed earlier today.
+- **Budget**: 3987 -> 3991 words (topics soft 3000 / hard 4000, gate `>=`, usable ceiling 3999). Status remains `soft_warning`. The article is a separate legitimate condense candidate at 3991/3999; that decision was deliberately not bundled into this pass.
+- **Not touched**: `concepts/motor-selection` L92, `concepts/attention-as-interface` L159, `topics/structure-of-attention` L111 — all already carry the marked form and served as the convention models. No numeric claim, study characterisation, or reference entry changed. `description`, `ai_contribution`, `ai_system` left alone.
+- **Published**: yes
 
 ## 2026-09-21 15:55 - refine-draft
 - **Status**: Success

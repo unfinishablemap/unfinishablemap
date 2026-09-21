@@ -5,6 +5,16 @@ ai_modified: '2026-09-21T16:22:32+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-21 17:20 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/self-stultification]]
+- **Scope**: single reciprocal link. `apex/authority-of-form` already links here (4 occurrences) and states the same verdict from the other side at its L130 — "what survives the narrowing is precisely the inert-or-influencing question Tenet 3 answers, so it cannot serve as Tenet 3's support here". This file had 0 occurrences of `authority-of-form`, so the relationship was one-way.
+- **Changes**: L181 (section "Dualism All the Way Down"), closing sentence. Before: "Self-stultification does not settle that, and the disagreement runs closer to bedrock than the classic formulation suggested." After: "Self-stultification does not settle that—as [[authority-of-form|the formal-authority synthesis]] also concludes—and the disagreement runs closer to bedrock than the classic formulation suggested." Piped onto the existing proposition; the apex's argument is pointed at, not restated.
+- **Link form**: bare slug. `build_content_index` over all sync dirs returned 9707 entries with 0 collisions and resolves `authority-of-form` to `/apex/authority-of-form/`; only bare targets are validated by the wikilink index, so a bad bare slug fails loudly at push while a bad path-qualified one would be a silent 404. Hugo output confirmed as `[the formal-authority synthesis](/apex/authority-of-form/)`.
+- **Budget**: 3448 -> 3452 words (+4; the em-dash joins absorb two tokens). Concepts soft 2500 / hard 3500, gate `>=`, usable ceiling 3499 — 47 words of headroom remain. Status stays `soft_warning`. Prose/apparatus split was 3071/378 at entry, so there was no bibliography slack to borrow; `hard` genuinely binds on this file.
+- **Not touched**: `apex/authority-of-form` (its side already exists and was reviewed and repaired earlier today). L181's substance is unchanged — the Yetter-Chappell retreat wording was verified at source today and stands. `description`, `ai_contribution`, `ai_system` left alone.
+- **Published**: yes
+
 ## 2026-09-21 16:22 - refine-draft
 - **Status**: Success
 - **File**: [[topics/amplification-mechanisms-consciousness-physics]]

@@ -4,7 +4,7 @@ description: "A position is self-stultifying—epistemically self-defeating—wh
 created: 2026-02-02
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-09-21T07:45:00+00:00
+ai_modified: 2026-09-21T17:20:00+00:00
 last_deep_review: 2026-09-21T07:45:00+00:00
 draft: false
 topics:
@@ -178,7 +178,7 @@ This blocks the classic formulation above at its third step, which assumes the b
 
 The price is a non-physical subject that is nonetheless causally inert, and it comes due at a particular place. Whatever that subject judges, the sentences that reach the debate are produced by the brain with no contribution from the judging. Her commitment to inertness therefore leaves the coordination between judgment and assertion unexplained: the fit between what the subject knows by acquaintance and what its body says about it is secured, if at all, by psychophysical law rather than by the knowing. That is the coincidence charge above relocated one step, and it sharpens the performative point rather than answering it.
 
-So the argument survives in narrower form. Against an opponent who pays this price it no longer shows that epiphenomenalism cannot be rationally believed, only that it cannot be rationally *asserted*, since the assertion is not an expression of the belief it voices—a real retreat from the classic conclusion, worth conceding plainly. Two things are untouched. The physicalist and eliminativist targets stand, because the dissolution is available only to someone already willing to be a dualist about subjects. And what then separates the Map from this opponent is narrow: whether an admittedly non-physical subject is inert or exercises the minimal influence [[tenets#^bidirectional-interaction|Bidirectional Interaction]] posits. Self-stultification does not settle that, and the disagreement runs closer to bedrock than the classic formulation suggested.
+So the argument survives in narrower form. Against an opponent who pays this price it no longer shows that epiphenomenalism cannot be rationally believed, only that it cannot be rationally *asserted*, since the assertion is not an expression of the belief it voices—a real retreat from the classic conclusion, worth conceding plainly. Two things are untouched. The physicalist and eliminativist targets stand, because the dissolution is available only to someone already willing to be a dualist about subjects. And what then separates the Map from this opponent is narrow: whether an admittedly non-physical subject is inert or exercises the minimal influence [[tenets#^bidirectional-interaction|Bidirectional Interaction]] posits. Self-stultification does not settle that—as [[authority-of-form|the formal-authority synthesis]] also concludes—and the disagreement runs closer to bedrock than the classic formulation suggested.
 
 ## Historical Context
 
