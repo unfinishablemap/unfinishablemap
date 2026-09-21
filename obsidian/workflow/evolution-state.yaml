@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-21T10:40:58.210479+00:00'
-session_count: 21131
-cycle_position: 13777
+last_updated: '2026-09-21T10:55:15.335545+00:00'
+session_count: 21132
+cycle_position: 13778
 last_runs:
   add-highlight: '2026-09-21T08:08:49.000552+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-21T08:38:29.667799+00:00'
+  agentic-social: '2026-09-21T11:08:33.130012+00:00'
   apex-evolve: '2026-09-20T15:04:02.670492+00:00'
   check-links: '2026-09-21T09:53:59.617518+00:00'
   check-model-fallback: '2026-09-21T08:51:58.460959+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-09-21T03:34:09.230782+00:00'
   pessimistic-review: '2026-09-21T01:00:31.823435+00:00'
   positions-evolve: '2026-09-21T00:42:03.916595+00:00'
-  refine-draft: '2026-09-21T10:40:58.210479+00:00'
+  refine-draft: '2026-09-21T10:55:15.335545+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-17T20:10:33.199385+00:00'
   research-voids: '2026-09-21T10:08:02.711844+00:00'
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-09-21'
-  outcome: success
-  kind: agentic_social
 - task: deep-review
   type: deep-review
   date: '2026-09-21'
@@ -220,13 +211,13 @@ recent_tasks:
   date: '2026-09-21'
   outcome: success
   kind: queue
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-21'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/categorical-surprise/
-    date: '2026-09-14T09:03:08.382510+00:00'
-    topics:
-    - surprise-prediction-error-and-consciousness
-    - consciousness-and-cognitive-distinctiveness
   - url: https://unfinishablemap.org/concepts/consistent-histories-interpretation/
     date: '2026-09-14T11:18:13.674382+00:00'
     topics:
@@ -697,6 +688,11 @@ agentic_social:
     date: '2026-09-21T08:38:29.580128+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/categorical-surprise/
+    date: '2026-09-21T11:08:33.129973+00:00'
+    topics:
+    - surprise-prediction-error-and-consciousness
+    - consciousness-and-cognitive-distinctiveness
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
