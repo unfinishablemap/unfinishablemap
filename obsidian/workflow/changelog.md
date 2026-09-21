@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-21T13:45:12+00:00'
+ai_modified: '2026-09-21T13:54:24+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-21 13:54 - refine-draft
+- **Status**: Success
+- **File**: [[apex/dualism-cartography]]
+- **Task**: P3 from the 2026-09-09 deep review of `concepts/articulability-of-q1` — make the region/cell distinction explicit at L133. Single-sentence scope; L123 and L127 (the 2026-08-03 corrections `956aec9f35` / `e1d6003e49`) left untouched, and `concepts/articulability-of-q1` not edited.
+- **Defect**: a conflation, not a contradiction. The sentence named the **psychophysical control law** as unspecified and then called *"this gap"* the **Q1 authority law**. Those are two debts on two different routes: the Map's own cell takes Q1's *difference-making* route and owes the control law; the *delegatory* route — logged at L123 as a distinct alternative the Map does not adopt — owes the authority law. Defensible at region level (Q1 does owe an authority law on one of its two routes), so the claim was repaired rather than struck. This wording is what stranded `concepts/articulability-of-q1` for five weeks (three critical issues, fixed 2026-09-09).
+- **Before** (L133): *"The sharpest form of this gap is the [[articulability-of-q1|articulability of the Q1 authority law]]: whether the non-stipulative authority-selecting rule the Map's region owes can be specified at all without inflating one of the two thickness axes."*
+- **After** (L133): *"The Map's own cell owes that control law; the region's *other*, delegatory Q1 route owes an authority law, and whether that authority-selecting rule is [[articulability-of-q1|non-stipulatively articulable at all]] without inflating a thickness axis is sharper still."*
+- **How the distinction was made without adding words**: parallel possessors on parallel verbs — "the Map's own cell owes X; the region's other, delegatory Q1 route owes Y" — reusing the article's established cell-versus-region vocabulary (L120: *"The five tenets do not pick a single cell. They carve out a region"*) and the delegatory route already named at L123. The vague possessor "the Map's region owes" was the locus of the blur and is gone. Budget paid for by folding "the non-stipulative authority-selecting rule … can be specified at all" into "that authority-selecting rule is non-stipulatively articulable at all" and "one of the two thickness axes" into "a thickness axis"; the comparative force of "the sharpest form of this gap" is preserved as "is sharper still". The `[[articulability-of-q1]]` link survives with a new pipe label.
+- **Word count**: 5185 → 5185, exactly neutral (measured on the two sentence variants with `tools.curate.length.count_words`: 36 → 36). **Split** (apparatus = `## Related Apex Articles` onward): prose 4666, apparatus 519 — unchanged. Apex soft 4000 / hard 5000, so the file remains `hard_warning`, **185 words over hard**, as it was before this pass. No free adjacent trim was taken: the overrun is prose, not apparatus, and a trim is a condense pass, which is a different task. `7d2ed9ab17` (2026-08-03) already condensed this file for the same reason and it has grown back.
+- **Frontmatter**: `ai_modified` → 2026-09-21T13:54:24+00:00. `description:`, `ai_contribution` (already 100) and `ai_system` left alone.
+- **Published**: yes
 
 ## 2026-09-21 13:45 - deep-review
 - **Status**: Success
