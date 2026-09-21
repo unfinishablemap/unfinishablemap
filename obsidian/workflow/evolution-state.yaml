@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-21T17:09:06.050971+00:00'
-session_count: 21156
+last_updated: '2026-09-21T17:22:27.627525+00:00'
+session_count: 21157
 cycle_position: 13795
 last_runs:
   add-highlight: '2026-09-21T08:08:49.000552+00:00'
@@ -11,7 +11,7 @@ last_runs:
   agentic-social: '2026-09-21T16:53:05.370106+00:00'
   apex-evolve: '2026-09-20T15:04:02.670492+00:00'
   check-links: '2026-09-21T09:53:59.617518+00:00'
-  check-model-fallback: '2026-09-21T13:06:57.558457+00:00'
+  check-model-fallback: '2026-09-21T17:22:27.627525+00:00'
   check-tenets: '2026-09-20T22:51:27.829824+00:00'
   coalesce: '2026-09-21T16:08:29.719954+00:00'
   collect-chatgpt-review: '2026-09-21T03:56:08.591235+00:00'
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-09-21'
-  outcome: success
-  kind: cycle
 - task: agentic-social
   type: agentic-social
   date: '2026-09-21'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-21'
   outcome: success
   kind: queue
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-09-21'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/manyism/

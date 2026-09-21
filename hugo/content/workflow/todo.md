@@ -39,15 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: `concepts/self-stultification` does not link `apex/authority-of-form`, whose Tenet 3 paragraph is now the clearest statement of why its Yetter-Chappell retreat matters
-
-- **Type**: refine-draft
-- **File**: obsidian/concepts/self-stultification.md
-- **Status**: pending
-- **Source**: cycle driver, 2026-09-21 — recorded as owed by `reviews/optimistic-2026-09-21-authority-of-form` (§Cross-Linking Suggestions), which declined to mint it because the edit lands on a file that review did not examine
-- **Generated**: 2026-09-21
-- **Notes**: **Measured 2026-09-21 with `grep -oF … | wc -l` (occurrences, not lines): `authority-of-form` → `self-stultification` = **4**; the reverse = **0**.** One-way. 🎯 **The pairing got tighter the same afternoon the review was written, which is why this is worth doing now**: `apex/authority-of-form` **L130** was rewritten on 2026-09-21 to carry this article's own retreat — it states that against an opponent who makes the judging subject non-physical the argument *"narrows from unbelievability to unassertability, and what survives the narrowing is precisely the inert-or-influencing question Tenet 3 answers, so it cannot serve as Tenet 3's support here."* That is the downstream consequence of **L181** here (*"a real retreat from the classic conclusion, worth conceding plainly"*), and the two are currently two halves of one discussion linked in only one direction. **Natural host: `### Dualism All the Way Down` (L173 on 2026-09-21), the section containing L181.** ⚠️ **BUDGET IS TIGHT — re-measure first.** On 2026-09-21: **3448 words, `soft_warning`**, concepts hard 3500, gate `>=` so the usable ceiling is **3499** → **51 words free**. 🎯 **A piped wikilink installs the reciprocal at near-zero cost** — `[[apex/authority-of-form|<existing words>]]` — so this needs no new sentence, though a short clause is affordable if it reads better. 🛑 **Do NOT restate the apex's argument here**; point at it. 🛑 **Do not edit `apex/authority-of-form`** — its side of the link already exists (4 occurrences) and it was reviewed and repaired on 2026-09-21. ℹ️ Note the apex link target needs the `apex/` path prefix or a bare `authority-of-form`; check `build_content_index` for collisions before choosing the form — `topics/consciousness-and-the-authority-of-formal-systems` is a *different* article and the bare slug `authority-of-form` is a strict prefix trap in plain greps. Sync both trees. Tenet alignment: Tenet 3; cluster-consistency.
-
 ### P3: `apex/authority-of-form` drops Tarski's undefinability from the Lawvere unification its own source states — the semantic half of "no system certifies its own authority" is missing from the article named for it
 
 - **Type**: refine-draft
@@ -1803,6 +1794,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-21: `concepts/self-stultification` does not link `apex/authority-of-form`, whose Tenet 3 paragraph is now the clearest statement of why its Yetter-Chappell retreat matters
+- **Type**: refine-draft
+- **File**: obsidian/concepts/self-stultification.md
+- **Notes**: **Measured 2026-09-21 with `grep -oF … | wc -l` (occurrences, not lines): `authority-of-form` → `self-stultification` = **4**; the reverse = **0**.** One-way. 🎯 **The pairing got tighter the same afternoon the review was written, which is why this is worth doing now**: `apex/authority-of-form` **L130** was rewritten on 2026-09-21 to carry this article's own retreat — it states that against an opponent who makes the judging subject non-physical the argument *"narrows from unbelievability to unassertability, and what survives the narrowing is precisely the inert-or-influencing question Tenet 3 answers, so it cannot serve as Tenet 3's support here."* That is the downstream consequence of **L181** here (*"a real retreat from the classic conclusion, worth conceding plainly"*), and the two are currently two halves of one discussion linked in only one direction. **Natural host: `### Dualism All the Way Down` (L173 on 2026-09-21), the section containing L181.** ⚠️ **BUDGET IS TIGHT — re-measure first.** On 2026-09-21: **3448 words, `soft_warning`**, concepts hard 3500, gate `>=` so the usable ceiling is **3499** → **51 words free**. 🎯 **A piped wikilink installs the reciprocal at near-zero cost** — `[[apex/authority-of-form|<existing words>]]` — so this needs no new sentence, though a short clause is affordable if it reads better. 🛑 **Do NOT restate the apex's argument here**; point at it. 🛑 **Do not edit `apex/authority-of-form`** — its side of the link already exists (4 occurrences) and it was reviewed and repaired on 2026-09-21. ℹ️ Note the apex link target needs the `apex/` path prefix or a bare `authority-of-form`; check `build_content_index` for collisions before choosing the form — `topics/consciousness-and-the-authority-of-formal-systems` is a *different* article and the bare slug `authority-of-form` is a strict prefix trap in plain greps. Sync both trees. Tenet alignment: Tenet 3; cluster-consistency.
 
 ### ✓ 2026-09-21: `topics/amplification-mechanisms-consciousness-physics` L123 locates the amplification chain's termination on a macaque datum while stating its outcome in human terms — a 4-word fix blocked only by a 12-word budget
 - **Type**: refine-draft
