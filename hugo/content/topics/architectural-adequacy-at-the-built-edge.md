@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-21
-ai_modified: 2026-09-21 19:24:11+00:00
+ai_modified: 2026-09-21 20:12:49+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
@@ -17,7 +17,8 @@ description: Cortical organoids and anthrobots have architecture but no ancestry
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-21 19:24:11+00:00
+last_deep_review: 2026-09-21 20:12:49+00:00
+lastmod: 2026-09-21 20:12:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,9 +45,9 @@ The universal coupling response names three criteria, and it is worth being exac
 
 **Integration.** The system must exhibit systemic coordination rather than reactive pathways — the Map takes Feinberg and Mallatt's criterion of "complex, fast, hierarchical, systemwide, internal neural interactions" as the working standard (Feinberg & Mallatt 2016).
 
-**Functional markers.** Trace conditioning, masking effects, attentional modulation, and behavioural flexibility that fixed stimulus-response chains cannot explain.
+**Functional markers.** Trace conditioning, masking effects, attentional modulation, and behavioural flexibility that fixed stimulus-response chains cannot explain. The page lists these as what adequate systems *empirically display*, which makes them evidence of adequacy rather than part of what adequacy consists in. Among animals the distinction does no work, because the evidence is always available where the architecture is. It decides the built cases.
 
-Two features of this list matter here. The first is that adequacy is a condition the Map is genuinely willing to see fail: its own page records that *C. elegans*, with 302 neurons, may fall below the architectural-adequacy condition. Universal coupling denies a threshold drawn *among* adequate-looking systems while affirming that adequacy is required, so the question asked of an organoid is a real one with an available negative answer.
+Two further features of this list matter here. The first is that adequacy is a condition the Map is genuinely willing to see fail: its own page records that *C. elegans*, with 302 neurons, may fall below the architectural-adequacy condition. Universal coupling denies a threshold drawn *among* adequate-looking systems while affirming that adequacy is required, so the question asked of an organoid is a real one with an available negative answer.
 
 The second is that nothing in the list mentions provenance. The criteria say what an architecture must do, not how it came to exist. That silence is what makes the built cases hard, and it is also what blocks one of the two collapses below.
 
@@ -58,7 +59,7 @@ A further distinction belongs here, since these cases invite conflating it. [The
 
 The neuron-count observation that circulates in this debate is, on the Map's own criteria, beside the point. Birch notes that bees have around a million neurons and are sentience candidates while existing organoids match that figure, and holds that organoids fail his test on organisation rather than count (Birch 2024). Universal coupling reaches the same verdict about count from the other side: scale independence already denies that any number is doing work. Birch's rule, in any case, answers a different question. Candidature is a policy threshold — an evidence base implying a realistic possibility of sentience "that it would be irresponsible to ignore when making policy decisions" (Birch 2024) — and his brainstem criterion is offered as sufficient for candidature and expressly not as necessary, so failing it rules nothing out about adequacy.
 
-Kosik's theory-by-theory survey reaches the sharpest published negative, finding the anatomy each major theory makes constitutive of experience absent or distorted in the dish, so that the organoid sits "in a representational limbo … as a cipher or computational package ready for the trappings of embodiment" — while conceding that whether "a more perfect organoid will achieve consciousness by some definition remains an open question" (Kosik 2024).
+Kosik's theory-by-theory survey reaches the sharpest published negative, finding the anatomy each major theory makes constitutive of experience absent or distorted in the dish, so that the organoid sits "in a representational limbo … as a cipher or computational package ready for the trappings of embodiment" — while conceding that whether a "more perfect organoid will achieve consciousness by some definition remains an open question" (Kosik 2024).
 
 **The anthrobot** has the tissue and lacks the architecture. Gumuskaya, Levin and colleagues report a "spheroid-shaped multicellular biological robot (biobot) platform with diameters ranging from 30 to 500 microns and cilia-powered locomotive abilities," self-constructing over roughly two weeks from a single genetically wild-type cell "derived from the adult human lung" (Gumuskaya et al. 2024); the follow-up characterises a full life cycle with self-healing and a transcriptome distinct from the source cells (Gumuskaya et al. 2025). Anthrobots traverse and induce repair of scratches in cultured human neural sheets. They are living, organised, motile, human-derived — and they have no neurons, so on the criteria as written they have no neural interactions at all to be complex, fast, hierarchical or systemwide.
 
@@ -68,9 +69,9 @@ Two flanking cases mark the ends of the class: JCVI-syn3.0, a synthetic 473-gene
 
 ## The Marker Bridge {#the-marker-bridge}
 
-The universal coupling response was argued into place largely by threshold erosion. Barron and Klein (2016) found insect central complexes performing functions analogous to the vertebrate midbrain; Chittka (2022) documented face recognition, tool use and metacognition-like behaviour in bees; the New York Declaration (2024) extended a realistic possibility of consciousness to insects, crustaceans and cephalopods; Birch's (2022) programme supplies the framework these results are read within. Each finding pushes a proposed boundary lower, which is the pattern the Map takes to show no principled boundary exists.
+The universal coupling response was argued into place by two eliminations, and only one of them runs on evidence. Coupling selectivity falls to a conceptual objection — it needs an unexplained selection principle — and that leg is as good at the built edge as anywhere, which is why it does work in the next section. The threshold response falls to empirical erosion, and that is the leg the built cases strand. Barron and Klein (2016) found insect central complexes performing functions analogous to the vertebrate midbrain; Chittka (2022) documented face recognition, tool use and metacognition-like behaviour in bees; the New York Declaration (2024) extended a realistic possibility of consciousness to insects, crustaceans and cephalopods; Birch's (2022) programme supplies the framework these results are read within. Each finding pushes a proposed boundary lower, which is the pattern the Map takes to show no principled boundary exists.
 
-Every step of that argument runs on markers, and markers work by inference from the one uncontested conscious case outward along shared ancestry and architecture. Rouleau and Levin state the feature of built systems that severs this, in the course of arguing for a conclusion opposite to the Map's: engineered agents' "morphologic and behavioral competencies cannot be explained by a long history of selection for those traits" (Rouleau & Levin 2023). They take this as reason to look for sentience in stranger places. Whatever one takes it to show, it removes the phylogenetic support on which marker inference runs. A crab's nociception inherits credibility from shared ancestry with the calibration case; an organoid's oscillation inherits none.
+Every step of the erosion argument runs on markers, and markers work by inference from the one uncontested conscious case outward along shared ancestry and architecture. Rouleau and Levin state the feature of built systems that severs this, while arguing that engineered systems are the natural testbeds for sentience: engineered agents' "morphologic and behavioral competencies cannot be explained by a long history of selection for those traits" (Rouleau & Levin 2023). That conclusion — look harder, in stranger places — is a research policy [the Map does not oppose](/topics/synthetic-minimal-agents-and-the-engineered-decoupling/); what the Map denies is that such a search could return a positive finding in the form these testbeds deliver. Either way, the observation removes the phylogenetic support on which marker inference runs. A crab's nociception inherits credibility from shared ancestry with the calibration case; an organoid's oscillation inherits none.
 
 The consequence for universal coupling is specific. Threshold erosion is an argument about evolved animals, and it neither extends to built systems nor is weakened by them. The scope claim quantifies over all architecturally adequate systems, but the Map's only working method for identifying adequate systems stops at the edge of the tree. That is why the built cases leave the position unapplied rather than confirmed or refuted there.
 
@@ -117,7 +118,7 @@ Nothing has come in on any of the four. That is weaker than having been tested a
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** predicts that consciousness contributes causally to behaviour wherever it couples, which looks like a handle on the built cases and is not one. A built system's behaviour is accounted for by its build record, leaving no causal remainder to attribute. But the builders' own record is incomplete — syn3.0 carries 149 genes with unknown biological functions (Hutchison et al. 2016) — so "no remainder visible in the specification" falls short of "no remainder." Engineered agency does not entail engineer's transparency.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** keeps the question determinate, and this is where the built cases bear on the tenet most directly. Schwitzgebel (2023) argues that some systems have no determinate fact as to whether experience is present, and Schwitzgebel and Nelson (2026) extend the indeterminacy to subject-counting. An organoid is close to a paradigm case for that reading — real neurons, no unity of body or biography, no principled way to say how many subjects a dish might hold. The Map's commitment to indexical determinacy means it must hold that there is a fact here, and it does so while admitting, per Antony's (2006) conditional, that the ground of such a fact cannot be a graded physical property. The built cases make the cost of that commitment unusually visible.
+**[No Many Worlds](/tenets/#no-many-worlds)** keeps the question determinate, and this is where the built cases bear on the tenet most directly. Schwitzgebel (2023) argues that some systems have no determinate fact as to whether experience is present, and Schwitzgebel and Nelson (2026) extend the indeterminacy to subject-counting. An organoid is close to a paradigm case for that reading — real neurons, no unity of body or biography, no principled way to say how many subjects a dish might hold. The Map's commitment to indexical determinacy means it must hold that there is a fact here, and it does so while admitting, per Antony's (2006) conditional, that the ground of such a fact cannot be one of the complex — and so vague — physical properties on which the common dualisms rest. The built cases make the cost of that commitment unusually visible.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is the tenet doing most of the work. Both cheap collapses are parsimony moves — *it's alive and organised, so stop there*; *it's artificial, so stop there* — and each is simpler than holding the question open. Incomplete knowledge is exactly the condition under which simplicity misleads, and the Map's own criteria being silent on provenance is a case of that incompleteness showing.
 
