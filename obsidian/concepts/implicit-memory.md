@@ -4,7 +4,7 @@ description: "Knowledge expressed in action without conscious recollection. Chok
 created: 2026-01-17
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-08-02T18:16:48+00:00
+ai_modified: 2026-09-21T13:45:12+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,10 +30,10 @@ related_articles:
   - "[[consciousness-as-perceptual-architect]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-07-12T17:37:54+00:00
+last_deep_review: 2026-09-21T13:45:12+00:00
 ---
 
 When you ride a bicycle, tie your shoes, or type on a keyboard, you act without reflective awareness. The skill executes smoothly; you don't observe yourself executing it. You don't mentally replay the lessons where you learned, nor do you consciously retrieve rules about pedal pressure or keystroke sequences. The knowledge is simply expressed in fluent action. This is implicit memory—knowledge that shows in performance rather than conscious recollection.
@@ -42,7 +42,7 @@ Implicit memory matters for The Unfinishable Map's framework because it reveals 
 
 ## Tulving's Anoetic Consciousness
 
-Endel Tulving (1927-2023) distinguished [[anoetic-noetic-autonoetic-consciousness|three forms of consciousness]] associated with different memory systems, forming a hierarchy from unreflective action to temporal self-projection.
+Endel Tulving (1927-2023) distinguished [[anoetic-noetic-autonoetic-consciousness|three forms of consciousness]] associated with different memory systems, forming a hierarchy from unreflective action to temporal self-projection. *Autonoetic* is Tulving's coinage. *Anoetic* and *noetic* he took from G. F. Stout's *Analytic Psychology* (1896), flagging in a footnote that Stout had used them "in somewhat different, but related, senses"—for Stout, anoetic consciousness was sentience, presentation with "an existence relatively independent of thought." The borrowed term thus arrived already denoting experience without thought-reference, which is the reading the rest of this section relies on.
 
 **Anoetic consciousness** ("non-knowing") accompanies procedural and implicit memory. When you perform a well-learned skill, there is no self-reference, no sense of yourself as the subject of experience observing yourself act. The skill simply executes. Tulving emphasised that anoetic consciousness is not *absent* consciousness but a distinct mode—a non-reflective, quale-like character that Vandekerckhove and Panksepp (2009) later characterised as genuine, pre-reflective phenomenal experience—qualia without self-reflection. There is still something it is like to ride a bicycle expertly; it just doesn't involve representing yourself as the one riding.
 
@@ -217,6 +217,7 @@ A purely neural account can describe choking as prefrontal-basal ganglia competi
 ## References
 
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
+1. Stout, G. F. (1896). *Analytic Psychology* (Vols. 1 & 2). London: Swan Sonnenschein. [Origin of the terms Tulving adopted: anoetic consciousness, Vol. 1, p. 50; noetic consciousness, Vol. 2, p. 11.]
 1. Vandekerckhove, M. & Panksepp, J. (2009). The flow of anoetic to noetic and autonoetic consciousness: A vision of unknowing (anoetic) and knowing (noetic) consciousness in the remembrance of things past and imagined futures. *Consciousness and Cognition*, 18(4), 1018-1028.
 1. Dreyfus, H. & Dreyfus, S. (1986). *Mind over Machine*. Free Press.
 1. Baumeister, R. F. (1984). Choking under pressure: Self-consciousness and paradoxical effects of incentives on skillful performance. *Journal of Personality and Social Psychology*, 46(3), 610-620.
