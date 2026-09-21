@@ -1905,6 +1905,25 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **Natural host**: near L39 or L103, both of which already do the "the dispute turns on a prior judgement rather than further data" work. `[[apophatic-approaches|...]]` piped into existing text costs ~0 words ([[piped-wikilink-installs-a-reciprocal-at-zero-word-cost]]) — check this article's length headroom first, it is a long topic article.
   **Bare slug is correct here**: `[[apophatic-approaches]]` resolves to the live concept despite the `archive/voids/` stem collision (verified against built output 2026-09-20). Do not path-qualify it.
 
+### P2: `arguments/functionalism-argument` cites Graziano (2024) and Carruthers & Veillet (2007) inline with years but lists neither in its bibliography
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/arguments/functionalism-argument.md
+- **Review file**: `reviews/deep-review-2026-09-21-functionalism-argument`
+- **Source**: deep-review 2026-09-21 of `arguments/functionalism-argument`
+- **Generated**: 2026-09-21
+- **Notes**: Deep-review §2.4 step 5 (inline ↔ References cross-reference). Measured: `Graziano` = body 1 / source-list **0**; `Carruthers` and `Veillet` = body 1 / source-list **0**. Every other named author in the article — Block, Chalmers, Searle, Jackson, Hardin, Tallis, Frankish — has an entry, so this is an internal inconsistency in the article's own apparatus, not a house style.
+  ✅ **Both entries are already verified — do NOT re-verify, just paste.** Graziano confirmed at the publisher of record this run (eNeuro full text, volume 11, issue 10, article ENEURO.0210-24.2024); Carruthers & Veillet confirmed via OpenAlex (authors *Peter Carruthers* / *Bénédicte Veillet*, year 2007, volume 14, exact title). Canonical forms, matching the corpus's existing usage in `concepts/illusionism.md` and `concepts/phenomenal-concepts-strategy.md`:
+  `- Carruthers, P. & Veillet, B. (2007). "The Phenomenal Concept Strategy." *Journal of Consciousness Studies*, 14(9-10), 212-236.`
+  `- Graziano, M. S. A. (2024). "Illusionism Big and Small: Some Options for Explaining Consciousness." *eNeuro*, 11(10), ENEURO.0210-24.2024.`
+  🛑 **BUDGET IS THE WHOLE DIFFICULTY — the two entries cost ~32 words and the file had FIVE.** Measured 2026-09-21: **3494 words**, soft 2500 / hard 3500, status `soft_warning`; the gate is `>=` so the usable ceiling is **3499**. Re-measure before acting. The deep review declined the fix on exactly this ground.
+  ⚠️ **The length signal here is an apparatus artefact, not prose bloat.** `analyze_length` counts the reference apparatus, and this article carries a 12-entry `### Site Content` list plus an 8-entry `### External Sources` list. If room is needed, rebalance the apparatus — do **not** trim argument prose. This article has been through nine-plus review passes and apparent redundancy in its prose is repeatedly review-installed guard text; provenance-check any cut with `git log -S` and a grep of `obsidian/reviews/` first.
+  ❌ **Rejected variant, recorded so it is not re-proposed**: deleting the two years saves 2 words and removes the orphan-*with-year* shape, but it does not supply the missing entries — it only hides the mismatch, and it destroys the cites' locating power. A net-negative-word variant that loses information is worse ([[my-replacement-variants-are-scored-on-length-alone]]).
+  ℹ️ **Not a missing References section.** A prior driver brief recorded this article as lacking one; it does not. It has 8 full bibliographic entries under `### External Sources`, nested beneath `## Further Reading`, where the four `arguments/` siblings use a top-level `## References`. That is a heading name and nesting depth, and harmonising it is a near-word-neutral rename — not a new section. Do not mint one.
+  **Low, optional, probably leave alone**: `Hoel, E. (2026)` is a reverse orphan (source-list 1 / body 0), but the list is headed *Further Reading* and the body routes to the material via `[[continual-learning-argument]]`. Defensible as-is.
+
+
 ## Completed Tasks
 
 
