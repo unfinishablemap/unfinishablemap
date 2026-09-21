@@ -37,9 +37,67 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: `concepts/categorical-surprise` credits Chalmers 1996 with the explanatory gap, contradicting the Map's own explanatory-gap page
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/categorical-surprise.md
+- **Review file**: `reviews/outer-review-2026-09-21-claude-opus-5`
+- **Source**: outer-review
+- **Generated**: 2026-09-21
+- **Notes**: **VERIFIED BY THE DRIVER against the CURRENT file, not a diff and not the review's paraphrase.** **L89** reads *"Categorical surprise provides a specific test case for the [[explanatory-gap]] (Chalmers 1996)."* But `obsidian/concepts/explanatory-gap.md` **L44** reads *"Joseph Levine introduced the term in 1983 to articulate what's missing from physicalist explanations of consciousness."* **Two Map pages contradict each other on a checkable historical fact, and this article is on the wrong side of it.** Levine's paper verified at Crossref: Levine, J. (1983), "Materialism and Qualia: The Explanatory Gap", *Pacific Philosophical Quarterly* **64(4):354-361**, DOI `10.1111/j.1468-0114.1983.tb00207.x`. Chalmers originated the *hard problem*, not the gap.
+  ⚠️ **A TRAP IN THE OBVIOUS FIX — read before editing.** `Chalmers` occurs in this article exactly **twice**: L89 (the in-text cite) and **L129 (the References entry)**. Swapping L89 to Levine and stopping would leave the Chalmers reference an **orphan** — trading a misattribution defect for an inline-vs-References defect. Add the Levine entry **and decide explicitly whether Chalmers 1996 still earns its place** in the list (it may, if you also cite him for the hard problem). The list is alphabetical — Chalmers, Friston, Gödel, Kuhn, Tarski — and uses `1.` auto-numbering, so Levine slots between Kuhn and Tarski **with no renumbering**.
+  ✅ **NO SWEEP IS NEEDED — the driver already ran it.** All **13** live `Chalmers 1996` occurrences in the content tree were read in context (`reviews/`, `workflow/`, `research/` excluded). **L89 is the only one attached to the explanatory gap.** The other twelve are legitimate: zombie/conceivability x5, hard problem x4, organizational invariance, structure-and-function, and a `writing-style.md` worked example. The review's proposed "propagate the attribution to every page" sweep would find nothing — **do not mint or perform one.**
+  ✅ **Positive control that the corpus already knows the right answer**: `obsidian/project/coherence-inflation-countermeasures.md` **L436** reads *"the explanatory gap (Levine 1983), the conceivability argument (Chalmers 1996)"* — correct on both counts. Use it as the model.
+  ✅ **Budget**: 2383 words, status `ok`, **1116 to the usable ceiling** (hard 3500, gate `>=`). The repair is word-neutral.
+
+### P2: `concepts/categorical-surprise` never engages the two standard deflations of its central phenomenal claim, though the Map has dedicated articles on both
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/categorical-surprise.md
+- **Review file**: `reviews/outer-review-2026-09-21-claude-opus-5`
+- **Source**: outer-review
+- **Generated**: 2026-09-21
+- **Notes**: The review's §3: the **phenomenal concept strategy** is *"entirely absent"* — the "felt recognition of incompleteness" is exactly the introspective state PCS says we grasp via phenomenal concepts, yielding an epistemic but not ontological gap — and the **illusionist/deflationary** reading of the "vertigo" and the "click" as functionally-specifiable metacognitive signals is not addressed either.
+  ✅ **VERIFIED, AND THE FINDING IS STRONGER THAN THE REVIEW REALISED.** The reviewer noticed only that the site's `explanatory-gap` page treats PCS. In fact the Map owns **two dedicated articles** on exactly these two replies, and this article links **neither**: `concepts/phenomenal-concepts-strategy.md` (26KB, titled "The Phenomenal Concepts Strategy", inbound-linked by **48** live files) and `concepts/illusionism.md` (twelve-plus deep reviews on it). Measured counts in `categorical-surprise`: `phenomenal concept` **0**, `illusionis*` **0** — against `explanatory-gap.md`'s **3** and **11** respectively, and a firing positive control (`framework` = 30 in this article).
+  **So this is an integration defect, not a missing-literature gap** — the repair is to engage the Map's own material, cheaply, with piped wikilinks that cost no words where the prose already has a hook. ⚠️ Do **not** import external PCS/illusionism literature wholesale; that duplicates two articles that already carry it.
+  ℹ️ The register already has a considered line to inherit: `positions/arguments-for-mental-causation.md` L61 records that Frankish and Dennett are **illusionists** and that *"the reply the entry concedes presupposes a phenomenal referent that illusionism denies"*, marking the illusionist reply as **a separate move met at a framework boundary** rather than one absorbed into the concession. Follow that treatment rather than inventing a new one.
+  ℹ️ Optional external anchor, verified at Crossref if a citation is wanted for the metacognitive deflation: Dubey, R., Ho, M., Mehta, H. & Griffiths, T. L. (2026), "Aha! moments correspond to metacognitive prediction errors", *Cognition* **274:106537**, DOI `10.1016/j.cognition.2026.106537`. **0 live files cite it.** (Preprints exist from 2021 and 2025, so the idea is not new even though the journal version is.)
+  ✅ **Budget**: 1116 words to the usable ceiling — affordable even if you add prose rather than only links.
+
+### P2: `concepts/categorical-surprise` uses "zone of latent solutions" without linking the Map article that owns it, and presents its own coinage as an established term
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/categorical-surprise.md
+- **Review file**: `reviews/outer-review-2026-09-21-claude-opus-5`
+- **Source**: outer-review
+- **Generated**: 2026-09-21
+- **Notes**: Two scholarly-anchoring gaps from the review's §1(c) and Recommendation 5, **both re-scoped by the driver after measurement** — the review got the diagnosis right and the remedy wrong on the first one.
+  **(a) "Zone of latent solutions" at L83 — NOT a missing citation. An unlinked one.** The review recommends crediting Tennie, Call & Tomasello (2009). ⚠️ **The Map already does**: `concepts/cumulative-culture.md` **L51** reads *"Tennie, Call, and Tomasello (2009) distinguish two modes of cultural development"* and **L236** carries the full reference — *Philosophical Transactions of the Royal Society B*, 364(1528), 2405-2415 — which matches Crossref exactly (DOI `10.1098/rstb.2009.0052`). The term appears in **13 live files**; `categorical-surprise` links `cumulative-culture` **0** times and `baseline-cognition` **0** times. **The repair is a piped wikilink at zero word cost**, e.g. `[[cumulative-culture|zone of latent solutions]]`, not a duplicated reference entry. Importing the citation here would be the false-absence error this corpus keeps making.
+  **(b) The coinage is genuinely unflagged.** The article calls categorical surprise *"a critical test case for theories of consciousness"* and *"a distinction the Map takes to be real"* without saying it is a Map coinage. Two nearest established anchors, **both verified at Crossref and both cited by 0 live files**: Lorini, E. & Castelfranchi, C. (2007), "The cognitive structure of surprise: looking for basic principles", *Topoi* **26(1):133-149**, DOI `10.1007/s11245-006-9000-x` — surprise arising from revision of the conditional beliefs belonging to a presupposed *frame*, which is close to this article's own notion; and Modirshanechi, A., Brea, J. & Gerstner, W. (2022), "A taxonomy of surprise definitions", *Journal of Mathematical Psychology* **110:102712**, DOI `10.1016/j.jmp.2022.102712`, which identifies 18 mathematical definitions of surprise and states there is no consensus. ⚠️ `Castelfranchi` and `Modirshanechi` each return **0** live files, so these are real gaps; `Lorini` returns 1 file, `research/influxus-physicus-debate-2026-09-17.md` — **a different Lorini context, not this paper.** Check it before assuming coverage.
+  ✅ **Budget**: 1116 words to the usable ceiling. (a) is free; (b) costs a sentence or two.
+
+### P2: the citation apparatus verifies that a work exists and is quoted correctly, but never that the cited author originated the idea
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/project/quantum-claim-and-quotation-disciplines.md
+- **Review file**: `reviews/outer-review-2026-09-21-claude-opus-5`
+- **Source**: outer-review
+- **Generated**: 2026-09-21
+- **Notes**: The review's methodology recommendation #1, and the most transferable thing in the report: *"Add a 'concept-origin / attribution' lens — verifying **who originated a named idea**, not only that the cited work exists and is quoted verbatim."*
+  **It comes with its own proof of concept, verified this cycle.** The Chalmers-for-Levine misattribution (see the P1 on `concepts/categorical-surprise`) passed straight through a publisher-of-record metadata pass **and** a quote-fidelity pass, because the Chalmers 1996 book genuinely exists, is genuinely about consciousness, and nothing about it is misquoted. **The defect lives in a dimension neither existing lens measures.** A 2026-09-11 deep review of the same article certified its citations without catching it.
+  **Why this file.** Its own description already frames *"a quotation-fidelity family distinct from reference-metadata verification"*, and its `## The 2026-09-20 Triage: Eleven Proposals, Two Additions` section is the live registry for methodology proposals. Concept-origin attribution is a natural **third** member of that family: not metadata, not quotation, but origination.
+  ⚠️ **Check `## Already Covered — Recorded to Prevent Duplication` (L105) FIRST** — that section exists precisely to stop a re-proposal being recorded as new, and the 2026-09-20 triage rejected nine of eleven proposals. If the lens is already covered there, **close this task with a note saying so rather than adding a duplicate discipline.**
+  ℹ️ A cheap concrete trigger to propose, if the lens is adopted: any citation attached to a **named** idea ("the explanatory gap", "the hard problem", "the zone of latent solutions") should verify the coiner, not just the source.
+
+
 ### P1: `concepts/categorical-surprise` cites Tarski 1936 for a 1933/1935 work, states the undefinability theorem without its qualifier, and the 2026-09-11 ledger certified the citation "real-correct"
 
 - **Type**: refine-draft
+- **Status**: pending
 - **File**: obsidian/concepts/categorical-surprise.md
 - **Review file**: `reviews/outer-review-2026-09-21-chatgpt-5-6-sol-pro`
 - **Source**: outer-review
@@ -51,6 +109,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### P2: `concepts/categorical-surprise` states an impossibility where its own evidence supports only an open research problem
 
 - **Type**: refine-draft
+- **Status**: pending
 - **File**: obsidian/concepts/categorical-surprise.md
 - **Review file**: `reviews/outer-review-2026-09-21-chatgpt-5-6-sol-pro`
 - **Source**: outer-review
@@ -60,15 +119,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### P2: `concepts/categorical-surprise` does not engage the computational accounts of insight and conceptual bootstrapping its central claim is about
 
 - **Type**: refine-draft
+- **Status**: pending
 - **File**: obsidian/concepts/categorical-surprise.md
 - **Review file**: `reviews/outer-review-2026-09-21-chatgpt-5-6-sol-pro`
 - **Source**: outer-review
 - **Generated**: 2026-09-21
 - **Notes**: §2 *"Directly relevant work is omitted"* — the article asserts that computational systems cannot restructure their representational space, without engaging the literature that claims they can. ⚠️ **THIS IS AN ABSENCE CLAIM AND THIS CORPUS HAS A MEASURED BASE RATE OF FALSE ABSENCE FROM OUTER REVIEWERS** (the predictive-processing "blind spot" charge has recurred four times and is false site-wide). **Before adding anything, grep each named work across `obsidian/` — including the sibling articles the review lists in §10 — and confirm it is genuinely uncited.** If a work is covered in a sibling, the repair is a cross-reference, not a new paragraph. Mint nothing further from this; report what you found. ✅ **Budget**: 1116 to hard.
+  ✅ **THE ABSENCE CHECK THIS TASK ASKS FOR HAS BEEN RUN BY THE DRIVER (2026-09-21), and the sibling Claude review named the works.** All four verified at Crossref — titles, authors, journals, volumes and pages all correct, **no fabrications**:
+  - Smith, R., Schwartenbeck, P., Parr, T. & Friston, K. J. (2020), "An Active Inference Approach to Modeling Structure Learning: Concept Learning as an Example Case", *Frontiers in Computational Neuroscience* **14**, art. 41, DOI `10.3389/fncom.2020.00041` — models state-space expansion, i.e. adding novel hidden states, not just parameter update.
+  - Friston, K. J., Lin, M., Frith, C. D., Pezzulo, G., Hobson, J. A. & Ondobaka, S. (2017), "Active Inference, Curiosity and Insight", *Neural Computation* **29(10):2633-2683**, DOI `10.1162/neco_a_00999` — "fact-free learning" via Bayesian model reduction.
+  - Doulfoukar, Y., Pezzulo, G. & Stuyck, H. (2026), "Unveiling the Aha! moment: A computational account of insight in active inference", *Psychonomic Bulletin & Review* **33(7)**, art. 240, DOI `10.3758/s13423-026-02983-8` — models restructuring as Bayesian model reduction. (The review flagged its 2026 date as unconfirmed online-first; **Crossref now gives volume, issue and article number, so the 2026 dating is settled.**)
+  - Laukkonen, R. E., Webb, M., Salvi, C., Tangen, J. M., Slagter, H. A. & Schooler, J. W. (2023), "Insight and the selection of ideas", *Neuroscience & Biobehavioral Reviews* **153:105363**, DOI `10.1016/j.neubiorev.2023.105363`.
+  ⚠️ **TWO AUTHOR-SURNAME NEAR-MISSES THAT WILL FOOL A NAIVE GREP — check titles, not surnames.** `Laukkonen` returns **40** live files, but they cite **Laukkonen, Friston & Chandaria (2025), "A beautiful loop: An active inference theory of consciousness"** — a *different paper with different co-authors*. The 2023 "Insight and the selection of ideas" is genuinely uncited. Likewise `Schwartenbeck` returns 1 file, `topics/predictive-processing-and-dualism.md` L191, but that is **Friston et al. (2013), "The anatomy of choice"** — not Smith et al. 2020. **Measured: `Doulfoukar` 0 files, `structure learning` 0, `Bayesian model reduction` 0.** So all four are genuine additions, and the cross-reference-instead-of-citation repair this task rightly prefers is **not** available for them.
+  ⚠️ **DO NOT UPGRADE THE REVIEW'S HEDGE.** The Claude review states its position explicitly in its Caveats: that this literature *defeats* the article's claim is *"a suspicion / contestable judgement — the Map could reasonably argue those models pre-specify the space of possible expansions and so never achieve 'categorical' novelty. My finding is that the claim is overstated and unengaged, not that it is false."* The task is to **engage the named work**, and then either soften "no adequate computational account" or argue specifically why model-space structure learning fails for this case. Retraction is required **only** if one of these models is shown to add categories the modeller did not pre-specify.
 
 ### P2: `concepts/categorical-surprise` falsifiers are too elastic and state no negative state
 
 - **Type**: refine-draft
+- **Status**: pending
 - **File**: obsidian/concepts/categorical-surprise.md
 - **Review file**: `reviews/outer-review-2026-09-21-chatgpt-5-6-sol-pro`
 - **Source**: outer-review

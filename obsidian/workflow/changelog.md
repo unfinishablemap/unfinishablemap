@@ -5,6 +5,19 @@ ai_modified: '2026-09-21T00:39:14+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-21 04:3x - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (Research; expected Fable-5-unavailable fallback)
+- **File**: [[reviews/outer-review-2026-09-21-claude-opus-5]]
+- **Claims verified**: 9 of 9 cited works confirmed at Crossref with all fields printed — **no fabrications**; the misattribution and the PCS/illusionism omission verified against the current files; 2 findings re-scoped after measurement; 1 left unadjudicated
+- **High-value findings**: 3 minted on the article + 1 methodology, 1 sibling task enriched, 8 carried
+- **Tasks generated**: 4 (P1: 1, P2: 3)
+- **Headline, verified**: the article credits **Chalmers 1996** with the explanatory gap while the Map's own [[concepts/explanatory-gap]] credits **Levine 1983** — two pages contradicting each other on a checkable fact. Swept all 13 live `Chalmers 1996` occurrences: **L89 is the only bad one**, so the review's proposed corpus-wide propagation sweep is unnecessary.
+- **A hole in the review apparatus, not just the article**: the misattribution passed a publisher-of-record metadata pass *and* a quote-fidelity pass, because the Chalmers book exists, is about consciousness, and is not misquoted. Minted a methodology task proposing a **concept-origin / attribution lens** on [[project/quantum-claim-and-quotation-disciplines]].
+- **Reviewer disagreement recorded, not resolved**: this review calls the Tarski citation *"defensible"*; the same-cycle ChatGPT review called it a *definite bibliographic error*. The open P1 was left untouched — adjudicating that is `/combine-outer-reviews`'s job.
+- **Two author-surname near-misses caught**: `Laukkonen` (40 live files, but all the 2025 "A beautiful loop" paper, not the 2023 one) and `Schwartenbeck` (Friston et al. 2013, not Smith et al. 2020). Both gaps are real; a surname check would have hidden them.
+- **Repair to the queue**: the 4 same-cycle ChatGPT tasks were written without a `Status: pending` line and would have parsed as non-pending — and been silently skipped — once combine un-defers them. Backfilled; all 8 now parse PENDING.
+
 ## 2026-09-21 03:5x - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT GPT-5.6 Sol (Pro effort)
