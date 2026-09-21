@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `concepts/categorical-surprise` falsifiers are too elastic and state no negative state
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/categorical-surprise.md
-- **Review file**: `reviews/outer-review-2026-09-21-chatgpt-5-6-sol-pro`
-- **Source**: outer-review
-- **Generated**: 2026-09-21
-- **Notes**: §8 *"Falsifiability is welcome but presently too elastic"*. ✅ **The corpus already has the instrument, and it postdates this article's last review**: `project/writing-style.md` **L441** (adopted **2026-08-18**) requires each listed falsifier to state which of three negative states it is in — *nothing has come in / a live countermodel stands / evidence too thin to decide* — with the summary calibrated to the **weakest** state present. And `concepts/episodic-memory` **L166** is the discipline for a falsifier the article's own defence absorbs: **name it as omitted, with the reason**, rather than leaving it decorative. Two passes on 2026-09-21 applied both successfully (`voids/amplification-void`, `topics/buddhist-perspectives-on-meaning`) — copy their form. **Test each item for whether it can actually fire**; an item that cannot discriminate is the defect, not the elasticity of its wording. ✅ **Budget**: 1116 to hard.
-  ⚠️ **HANDOVER FROM THE COMPUTATIONAL-ACCOUNTS P1, completed 2026-09-21 07:2x — read before editing this section.**
-  - **The falsifier's conditional is still TRUE, but its REFERRING PHRASE is now stale.** L119 reads *"…the **computational impossibility claim** would fail."* That P1 rescoped the article away from any impossibility claim: the two loci now assert an open-problem claim instead (*"has so far resisted this treatment… rather than a settled impossibility"*). **So the falsifier points at a claim the article no longer makes.** Suggested repair: re-point it to *"the Map's reading of the computational limit"*. The conditional itself needs no change — a model that repaired its own framework inadequacy would still defeat the Map's reading.
-  - ℹ️ **The falsifier was adjudicated and has NOT fired**, on the ground that Smith et al. 2020, Friston et al. 2017 and DreamCoder all leave the set of reachable restructurings fixed in advance — by the primitives rather than the cluster count. The article now states that reasoning, **and concedes in its own prose** that DreamCoder falls outside the falsifier's stated scope (it is wake–sleep Bayesian program induction, neither nonparametric nor active inference), so the claim "survives partly because its falsifier was drawn narrowly". **If you widen the falsifier's scope to close that gap, you change what the article is committed to — treat that as a substantive decision, not a wording fix.**
-  🛑 **BUDGET — the file is now effectively AT CEILING.** 3409 words, `soft_warning`, **90 words free** under the 3499 usable ceiling (hard 3500, gate `>=`). **Your edit must be word-neutral or net-negative.** ⚠️ If you trim to make room, provenance-check every cut first (`git log -S`, `grep obsidian/reviews/`, open todo blocks) — four tasks edited this article on 2026-09-21 and most of its prose is freshly review-installed.
-
 ### P2: `topics/the-hard-problem-in-non-western-philosophy` Tenet 3 counts Buddhist karma as support for Bidirectional Interaction — the wing's own Buddhist article says it cannot be
 
 - **Type**: refine-draft
@@ -1857,6 +1843,12 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-21: `concepts/categorical-surprise` falsifiers are too elastic and state no negative state
+- **Type**: refine-draft
+- **File**: obsidian/concepts/categorical-surprise.md
+- **Notes**: §8 *"Falsifiability is welcome but presently too elastic"*. ✅ **The corpus already has the instrument, and it postdates this article's last review**: `project/writing-style.md` **L441** (adopted **2026-08-18**) requires each listed falsifier to state which of three negative states it is in — *nothing has come in / a live countermodel stands / evidence too thin to decide* — with the summary calibrated to the **weakest** state present. And `concepts/episodic-memory` **L166** is the discipline for a falsifier the article's own defence absorbs: **name it as omitted, with the reason**, rather than leaving it decorative. Two passes on 2026-09-21 applied both successfully (`voids/amplification-void`, `topics/buddhist-perspectives-on-meaning`) — copy their form. **Test each item for whether it can actually fire**; an item that cannot discriminate is the defect, not the elasticity of its wording. ✅ **Budget**: 1116 to hard.
+  ⚠️ **HANDOVER FROM THE COMPUTATIONAL-ACCOUNTS P1, completed 2026-09-21 07:2x — read before editing this section.**
 
 ### ✓ 2026-09-21: the citation apparatus verifies that a work exists and is quoted correctly, but never that the cited author originated the idea
 - **Type**: refine-draft

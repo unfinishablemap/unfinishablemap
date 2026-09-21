@@ -5,6 +5,16 @@ ai_modified: '2026-09-21T00:39:14+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-21 08:24 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/categorical-surprise]]
+- **Task**: P2 — calibrate the falsifier section's closing summary to the three-negative-states discipline (`project/writing-style.md` L439-449, adopted 2026-08-18) and repair the stale referent in falsifier #1. Singleton finding with an active dissent: ChatGPT §8 called the falsifiers "too elastic"; Claude counted the same list among the article's strengths. The falsifiers themselves were left untouched.
+- **Changes**:
+  - Closing summary recalibrated. Before: *"None of these findings currently exists, but specifying them ensures the argument remains falsifiable rather than merely philosophical."* That blanket claim was contradicted by the article's own body two sections earlier. After: the summary now states each falsifier's negative state and calibrates to the weakest present (state 2). Falsifier #1 = **state 2**, a serious live countermodel stands: DreamCoder (Ellis et al. 2023) grows a vocabulary its modeller did not supply, and the body concedes it is "set aside on scope, not refuted on merit" — it is neither a nonparametric nor an active inference model, so it falls outside the scope the falsifier states. Falsifier #2 = **state 2**: illusionism's deflation of the vertigo and the click is a live unrefuted rival (3 occurrences in body; the article grants "against that reading this case argues nothing"). Falsifier #3 = **state 1**, nothing has come in. The discipline is satisfied in natural wording; no editor vocabulary ("countermodel", "state 2", "too thin") imported into the prose.
+  - Stale referent re-pointed. Before: *"…the computational **impossibility claim** would fail."* The article no longer holds an impossibility claim — both loci were rescoped by the earlier P1 ("weaker than an impossibility claim, deliberately"; "rather than a settled impossibility"). After: *"…the Map's reading of the computational limit would fail."* The conditional itself is sound and was left unchanged.
+- **Budget**: 3409 → 3479 words (+70), `soft_warning` unchanged, 20 words clear of the 3499 usable ceiling. Done entirely by substitution — nothing was trimmed, so none of the five tasks that edited this article today was undone.
+- **Scope**: the three falsifiers were not rewritten; the DreamCoder adjudication was not re-opened. Obsidian only; no sync.
+- **Published**: yes
 ## 2026-09-21 07:55 - refine-draft
 - **Status**: Success
 - **File**: [[project/quantum-claim-and-quotation-disciplines]]

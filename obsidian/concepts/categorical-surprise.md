@@ -4,7 +4,7 @@ description: "When expectation fails not at the level of prediction but at the l
 created: 2026-02-15
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-09-21T07:25:06+00:00
+ai_modified: 2026-09-21T08:24:25+00:00
 draft: false
 topics:
   - "[[surprise-prediction-error-and-consciousness]]"
@@ -120,7 +120,7 @@ That claim is priced too. The Map cannot show that no future quantitative measur
 
 ## What Would Challenge This View?
 
-The Map's treatment of categorical surprise would be undermined by several possible findings. If Bayesian nonparametric or active inference models were shown to repair their own framework inadequacy—not merely to register global misfit or expand quantitatively, but to recognise categorical insufficiency and restructure accordingly—the computational impossibility claim would fail. If careful phenomenological studies revealed that the subjective character of categorical surprise reduces to high-intensity ordinary surprise with no qualitative discontinuity, the distinction itself would be deflated. And if artificial systems demonstrated genuine categorical surprise—recognising and transcending their own representational limits without anything plausibly described as consciousness—the link between framework transcendence and [[phenomenal-consciousness]] would be severed. None of these findings currently exists, but specifying them ensures the argument remains falsifiable rather than merely philosophical.
+The Map's treatment of categorical surprise would be undermined by several possible findings. If Bayesian nonparametric or active inference models were shown to repair their own framework inadequacy—not merely to register global misfit or expand quantitatively, but to recognise categorical insufficiency and restructure accordingly—the Map's reading of the computational limit would fail. If careful phenomenological studies revealed that the subjective character of categorical surprise reduces to high-intensity ordinary surprise with no qualitative discontinuity, the distinction itself would be deflated. And if artificial systems demonstrated genuine categorical surprise—recognising and transcending their own representational limits without anything plausibly described as consciousness—the link between framework transcendence and [[phenomenal-consciousness]] would be severed. The three are not in the same condition. The first has already met a case, DreamCoder, set aside above on scope rather than on merit, which leaves it contested rather than tested. The second is contested too: illusionism's deflation of the vertigo and the click stands, and this case, as granted above, argues nothing against it. Only the third is genuinely open, with nothing yet bearing on it. Specifying them keeps the argument falsifiable, but that is not the same as having survived a test.
 
 ## Further Reading
 
