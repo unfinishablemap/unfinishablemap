@@ -4,7 +4,7 @@ description: "Indian, Islamic and Japanese schools found consciousness irreducib
 created: 2026-02-14
 modified: 2026-02-14
 human_modified:
-ai_modified: 2026-09-17T13:09:15+00:00
+ai_modified: 2026-09-21T09:09:27+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -152,7 +152,7 @@ This section is the Map's coherence commentary, not support the traditions suppl
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Non-Western traditions do not discuss quantum mechanics, but Sāṃkhya's "reflection" model—where matter becomes transparent to consciousness when *sattva* predominates—shares a thematic concern with the Map's model: both hold that consciousness engages with physical systems only under specific conditions. The structures differ substantially (pre-scientific metaphor versus quantum measurement); the parallel is thematic.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Nyāya provides the closest non-Western parallel, with its explicit model of a non-material self interacting causally with the body. Buddhist karma doctrine implies mental causation. Sāṃkhya's passive *Puruṣa* is a genuine tension—one the Map resolves by insisting that consciousness *acts*, not merely witnesses. The broader [[cross-cultural-convergence-on-mental-causation|convergence on mental causation]] across these traditions—not just on irreducibility but on causal efficacy—is consistent with bidirectional interaction.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Nyāya provides the closest non-Western parallel, with its explicit model of a non-material self interacting causally with the body. Buddhist karma doctrine presupposes that intentions have causal consequences, but dependent origination (*pratītyasamutpāda*) is event-causal throughout, so karma delivers mental causation [[buddhist-perspectives-on-meaning|within a stream]] where the tenet asserts a nonphysical relatum acting on a physical one—the second relatum is the Map's addition, not Buddhism's. Sāṃkhya's passive *Puruṣa* is a genuine tension—one the Map resolves by insisting that consciousness *acts*, not merely witnesses. The broader [[cross-cultural-convergence-on-mental-causation|convergence on mental causation]]—not just on irreducibility but on causal efficacy—is consistent with bidirectional interaction, though among the schools treated here it is Nyāya that carries the causal-efficacy strand.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Non-Western traditions do not address many-worlds as a physical theory. The Nyāya insistence on a unified, enduring subject shares the Map's concern that indexical identity matters; Buddhist urgency about *this* stream is soteriological, not metaphysical indexicality. These are thematic parallels, not arguments about quantum mechanics.
 

@@ -37,22 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `topics/the-hard-problem-in-non-western-philosophy` Tenet 3 counts Buddhist karma as support for Bidirectional Interaction — the wing's own Buddhist article says it cannot be
-
-- **Type**: refine-draft
-- **File**: obsidian/topics/the-hard-problem-in-non-western-philosophy.md
-- **Status**: pending
-- **Source**: optimistic review 2026-09-21 (cross-cultural wing), priority item 1 — verified on disk, both sides read in the current files
-- **Generated**: 2026-09-21
-- **Budget**: 3583 words, `soft_warning`, **416 to hard 4000** — the tightest in the wing. Repair is +~14 words, or word-neutral if the sentence is replaced rather than extended. Do NOT add a paragraph here.
-- **Notes**: **A genuine contradiction between two live articles, not a register-tone issue.**
-  `the-hard-problem-in-non-western-philosophy` L155 (Tenet 3) reads: *"Buddhist karma doctrine implies mental causation."* It sits in a list of non-Western parallels supporting Bidirectional Interaction, reinforced two clauses later by *"The broader convergence on mental causation across these traditions—not just on irreducibility but on causal efficacy—is consistent with bidirectional interaction."*
-  `topics/buddhist-perspectives-on-meaning` L155 (same tenet, same tradition) reads: *"Buddhist karma doctrine presupposes that intentions have causal consequences, consistent with the Map's rejection of epiphenomenalism. **It reaches no further.** Pratityasamutpada is event-causal throughout, so karma delivers mental causation within a stream where the tenet asserts a nonphysical relatum acting on a physical one. **That second relatum is the Map's addition, not Buddhism's.**"*
-  These cannot both hold as tenet-support claims. The hub is the overclaiming side. `buddhist-perspectives-on-meaning` L101 even flags the trap in advance — *"less agreement than it sounds, as the scoping of Bidirectional Interaction below records"* — so the wing has diagnosed the error in one article and committed it in another. The 2026-09-17 pass (`cc5e7826ce`) propagated corrections into the tradition articles but not into the survey that cites the same tradition.
-  **The correcting wording already exists verbatim** at `buddhist-perspectives-on-meaning` L155; this is a clause-level lift, not new reasoning.
-  **Bonus the repair should collect at no extra cost.** The body-prose link matrix across the five wing members has only 2 edges in 20 slots, and `the-hard-problem-in-non-western-philosophy` is a **pure sink** — 2 inbound body links, 0 outbound to any wing member. A piped wikilink to `[[buddhist-perspectives-on-meaning]]` inside the replacement clause converts it to a connected node and installs the wing's missing route to its most isolated article, for 0 extra words. Take it.
-  **Do not widen this.** The other three coherence checks across the wing (Samkhya's passive Purusa vs Tenet 3; Buddhist soteriology vs Tenet 4; convergence strength vs P-D3) all came back **coherent**, two of them verbatim-identical across members. This is one locus.
-
 ### P2: `concepts/islamic-sufi-philosophy-of-consciousness` Tenet 5 is the wing's only undiscounted contemplative-evidence argument, and it asserts what P-M2 exists to discount
 
 - **Type**: refine-draft
@@ -1843,6 +1827,17 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-21: `topics/the-hard-problem-in-non-western-philosophy` Tenet 3 counts Buddhist karma as support for Bidirectional Interaction — the wing's own Buddhist article says it cannot be
+- **Type**: refine-draft
+- **File**: obsidian/topics/the-hard-problem-in-non-western-philosophy.md
+- **Notes**: **A genuine contradiction between two live articles, not a register-tone issue.**
+  `the-hard-problem-in-non-western-philosophy` L155 (Tenet 3) reads: *"Buddhist karma doctrine implies mental causation."* It sits in a list of non-Western parallels supporting Bidirectional Interaction, reinforced two clauses later by *"The broader convergence on mental causation across these traditions—not just on irreducibility but on causal efficacy—is consistent with bidirectional interaction."*
+  `topics/buddhist-perspectives-on-meaning` L155 (same tenet, same tradition) reads: *"Buddhist karma doctrine presupposes that intentions have causal consequences, consistent with the Map's rejection of epiphenomenalism. **It reaches no further.** Pratityasamutpada is event-causal throughout, so karma delivers mental causation within a stream where the tenet asserts a nonphysical relatum acting on a physical one. **That second relatum is the Map's addition, not Buddhism's.**"*
+  These cannot both hold as tenet-support claims. The hub is the overclaiming side. `buddhist-perspectives-on-meaning` L101 even flags the trap in advance — *"less agreement than it sounds, as the scoping of Bidirectional Interaction below records"* — so the wing has diagnosed the error in one article and committed it in another. The 2026-09-17 pass (`cc5e7826ce`) propagated corrections into the tradition articles but not into the survey that cites the same tradition.
+  **The correcting wording already exists verbatim** at `buddhist-perspectives-on-meaning` L155; this is a clause-level lift, not new reasoning.
+  **Bonus the repair should collect at no extra cost.** The body-prose link matrix across the five wing members has only 2 edges in 20 slots, and `the-hard-problem-in-non-western-philosophy` is a **pure sink** — 2 inbound body links, 0 outbound to any wing member. A piped wikilink to `[[buddhist-perspectives-on-meaning]]` inside the replacement clause converts it to a connected node and installs the wing's missing route to its most isolated article, for 0 extra words. Take it.
+  **Do not widen this.** The other three coherence checks across the wing (Samkhya's passive Purusa vs Tenet 3; Buddhist soteriology vs Tenet 4; convergence strength vs P-D3) all came back **coherent**, two of them verbatim-identical across members. This is one locus.
 
 ### ✓ 2026-09-21: `concepts/categorical-surprise` falsifiers are too elastic and state no negative state
 - **Type**: refine-draft
