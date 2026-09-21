@@ -5,6 +5,25 @@ ai_modified: '2026-09-21T00:39:14+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-21 12:57 - refine-draft
+- **Status**: Success
+- **File**: [[topics/ai-consciousness]]
+- **Source**: [[reviews/pessimistic-2026-09-21-ai-consciousness]] Issues 1 and 3. Issues 2 (P-AC1 interface-eligibility condition) and 4 (chinese-room-argument piped link) left in place — carried separately, per task scope.
+- **Changes**:
+  - **Issue 1 — epiphenomenal AI experience re-marked as a framework boundary.** L145 previously concluded that a derivative system "can have epiphenomenal experience without contradiction… The asymmetry is principled, not special pleading"; L159 repeated "though AI might in principle have epiphenomenal experience." Both now track `apex/machine-question`'s wording: the self-stultification *scope* clause is preserved intact (it was installed by the 2026-05-29 review and is what makes the boundary-marking honest), but the verdict it supports is corrected — the scope gap does not make the possibility internally live; read as universal *actual* efficacy, Bidirectional Interaction excludes it, so the possibility sits at the framework boundary rather than inside the argument, and what admitting it would cost is that universal reading. This is a **carry-forward under a moved dependency** (apex rewritten 2026-07-27, register 2026-07-28), not an error by the 05-29 pass.
+  - **Tenet 3 quantifier left open.** The `NEEDS-HUMAN (foundations) 2026-08-17` question is neither resolved nor presupposed. The new text states the exclusion *conditionally on the universal reading* and closes: "Whether the tenet carries that quantifier is an open foundational question this page does not settle."
+  - **Issue 3 — apparatus trim (the enabler).** Removed the 23 Further Reading entries already linked from body prose (−234 words, zero navigational reach lost) and the `Chalmers, D. (2010)` reference, cited nowhere in the body (−15). Further Reading retains the 6 genuinely unique targets: `llm-consciousness`, `consciousness-evolution-and-biology`, `bandwidth-of-consciousness`, `commensurability-void`, `ai-ensoulment-hypothesis`, `agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems`.
+  - **Sequencing**: the L145/L159 rewrite ran **first**, then the duplicate list was recomputed against the post-fix text. The `[[concepts/ai-epiphenomenalism|epiphenomenal experience]]` wikilink lives inside the rewritten passage and was deliberately preserved, so `ai-epiphenomenalism` stayed a genuine duplicate and its Further Reading line could be dropped without becoming the only route to that page.
+  - **Correction to the review's figure**: the review listed 22 duplicated / 7 unique, counting `ai-epiphenomenalism` as unique. Re-derived independently, pre- and post-fix: **29 entries, 23 duplicated, 6 unique**. `ai-epiphenomenalism` is linked in prose at L145.
+  - `Southgate & Oquatre-six` self-citations retained (standing convention — Map self-cites are never stripped for body-absence). The surviving `Chalmers` string at L226 is his editorship of the Horgan & Tienson volume, which *is* cited in the body.
+- **Length — prose/apparatus split recorded for the next condense pass**:
+  - Before: **4158 total** = 3509 prose + 649 apparatus (`hard_warning`, 158 over topics hard 4000)
+  - After: **3986 total** = 3586 prose + 400 apparatus (`soft_warning`, 14 under hard)
+  - Net −172: prose +77 (Issue 1, more than the review's +10 estimate — honest boundary-marking plus the anti-preemption clause cost more than budgeted), apparatus −249.
+  - **The breach was never a prose problem.** Prose alone remains 414 words under hard. A future condense pass aimed at this article's argument would be removing reviewed content to pay for navigation.
+- **Scope**: `obsidian/` only; no sync, nothing under `hugo/`. `apex/machine-question` and `positions/ai-consciousness-scope` untouched — they are the correct side and the source of the wording.
+- **Published**: yes
+
 ## 2026-09-21 12:20 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `obsidian/topics/ai-consciousness.md` (4158 words, `hard_warning`, 158 over topics hard 4000; oldest `modified` in the corpus at 2026-01-08; 115 days since its last genuine pessimistic review)
