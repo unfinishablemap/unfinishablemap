@@ -51,24 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   ⚠️ **Check `## Already Covered — Recorded to Prevent Duplication` (L105) FIRST** — that section exists precisely to stop a re-proposal being recorded as new, and the 2026-09-20 triage rejected nine of eleven proposals. If the lens is already covered there, **close this task with a note saying so rather than adding a duplicate discipline.**
   ℹ️ A cheap concrete trigger to propose, if the lens is adopted: any citation attached to a **named** idea ("the explanatory gap", "the hard problem", "the zone of latent solutions") should verify the coiner, not just the source.
 
-### P1: `concepts/categorical-surprise` cites Tarski 1936 for a 1933/1935 work, states the undefinability theorem without its qualifier, and the 2026-09-11 ledger certified the citation "real-correct"
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/categorical-surprise.md
-- **Review files**: `reviews/outer-review-2026-09-21-chatgpt-5-6-sol-pro`, `reviews/outer-review-2026-09-21-claude-opus-5`, `reviews/outer-review-2026-09-21-gemini-2-5-pro`
-- **Review file**: `reviews/outer-review-2026-09-21-chatgpt-5-6-sol-pro`
-- **Synthesis**: reviews/outer-review-synthesis-2026-09-21.md
-- **Source**: outer-review
-- **Generated**: 2026-09-21
-- **Notes**: ⚠️ **LINE NUMBER UPDATED 2026-09-21: the Tarski reference entry moved L133 → L134** when the sibling Chalmers/Levine P1 inserted a Levine line above it in the alphabetical reference list. L61 is unaffected (it precedes the insertion). Re-confirm with `grep -noiF "Tarski, A. (1936)" <path>` before editing — another open task on this article may shift it again.
-  **SYNTHESIS (2026-09-21): this task's two halves have OPPOSITE cross-reviewer status. Read this before acting.**
-  - **(b), the overbroad formulation — CONVERGENT 2/3 [chatgpt, gemini].** ChatGPT §3: *"Gödel and Tarski do not deliver the claimed structural result"*. Gemini §5.1 grades the pair a **"Category Error"**, *"structurally precarious and philosophically overextended"*. **This half is well supported — do it.**
-  - **(a), the 1936 dating — DIVERGENT 1v1, UNRESOLVED.** ChatGPT calls it a *"definite bibliographic error"*; Claude calls it *"Defensible… '1936' tracks the German publication"* of *Der Wahrheitsbegriff*. Gemini does **not** discuss the year, so there is no tiebreaker. 🛑 **Do not silently pick a side.** Resolve it at the publisher of record, and if it stays genuinely contested, the correct repair is to make the entry unambiguous (name the 1933 Polish original, the 1935/36 German, and the 1956 translation) rather than to swap one bare year for another. Priority stays P1 — it was already there.
-  **BOTH HALVES VERIFIED BY THE DRIVER against the live file, not the review's paraphrase.** (a) **L134** reads *Tarski, A. (1936). "The Concept of Truth in Formalized Languages." In* Logic, Semantics, Metamathematics*, Oxford University Press (1956 translation).* The year is wrong: the Polish monograph is **1933**, the German *Der Wahrheitsbegriff in den formalisierten Sprachen* **1935**, and the English translation is in the 1956 volume the entry already names correctly. Tarski's **1936** paper is the distinct one on logical consequence. **Only the year needs changing** — do not rewrite the volume attribution, which is right. (b) **L61** reads *"Tarski's undefinability theorem establishes that **a formal language** cannot define its own truth predicate; Gödel's incompleteness theorems show that **sufficiently powerful** formal systems…"* — the article applies the qualifier to Gödel and **drops it for Tarski in the same sentence**. Tarski's result concerns sufficiently expressive languages under particular adequacy conditions, and Tarski constructed truth definitions for formal languages using stronger metalanguages. Add the qualifier; the parallel clause supplies the wording.
-  ⚠️ **Why P1 rather than a P3 citation nit.** `reviews/deep-review-2026-09-11-categorical-surprise.md` carries *"Tarski, A. (1936), 'The Concept of Truth in Formalized Languages' — state: **real-correct**."* A ledger certified a citation whose **metadata** is wrong, which is a stronger failure than the usual ledger-certifies-metadata-not-use pattern. **When fixing, correct the ledger line in that review file too**, or the next pass re-inherits the certification.
-  ✅ **Budget**: 2383 words, `ok`, **116 to soft / 1116 to hard** — both repairs are affordable and roughly word-neutral.
-
 ### P1: `concepts/categorical-surprise` does not engage the computational accounts of insight and conceptual bootstrapping its central claim is about
 
 - **Type**: refine-draft
@@ -1906,6 +1888,12 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-21: `concepts/categorical-surprise` cites Tarski 1936 for a 1933/1935 work, states the undefinability theorem without its qualifier, and the 2026-09-11 ledger certified the citation "real-correct"
+- **Type**: refine-draft
+- **File**: obsidian/concepts/categorical-surprise.md
+- **Notes**: ⚠️ **LINE NUMBER UPDATED 2026-09-21: the Tarski reference entry moved L133 → L134** when the sibling Chalmers/Levine P1 inserted a Levine line above it in the alphabetical reference list. L61 is unaffected (it precedes the insertion). Re-confirm with `grep -noiF "Tarski, A. (1936)" <path>` before editing — another open task on this article may shift it again.
+  **SYNTHESIS (2026-09-21): this task's two halves have OPPOSITE cross-reviewer status. Read this before acting.**
 
 ### ✓ 2026-09-21: `concepts/categorical-surprise` coins "zone of latent predictions" and never defines it, and presents "categorical surprise" as an established term
 - **Type**: refine-draft

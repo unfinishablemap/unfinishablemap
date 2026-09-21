@@ -182,7 +182,16 @@ forward here in full:
   conditional form (see Locus 2). Metadata unchanged.
 - Kuhn, T. (1962, ch. X), *The Structure of Scientific Revolutions* — state: **real-correct**
   ("ch. X" is Roman-numeral Chapter X, "Revolutions as Changes of World View"; Lavoisier example genuine).
-- Tarski, A. (1936), "The Concept of Truth in Formalized Languages" — state: **real-correct**.
+- Tarski, A. (1933), *Pojęcie prawdy w językach nauk dedukcyjnych* — state: **corrected 2026-09-21**.
+  This entry's 09-11 certification as "real-correct" under the year **1936** was mistaken and should not
+  be re-inherited. The truth monograph is 1933 (Warsaw); the German *"Der Wahrheitsbegriff in den
+  formalisierten Sprachen"* is *Studia Philosophica* 1 (1935), 261-405 — not 1936; the English
+  "The Concept of Truth in Formalized Languages" is the 1956 *Logic, Semantics, Metamathematics*
+  translation, which the entry already named correctly. "Tarski 1936" is a real but **different** work —
+  the logical-consequence papers (*"O pojęciu wynikania logicznego"*, *Przegląd Filozoficzny* 39: 58-68;
+  *"Über den Begriff der logischen Folgerung"*) — so the old entry pointed the reader at the wrong paper
+  rather than merely mis-dating the right one. The reference now names all three publication events;
+  the volume attribution was sound and is unchanged.
 
 Inline ↔ References cross-reference: complete in both directions; no orphans.
 

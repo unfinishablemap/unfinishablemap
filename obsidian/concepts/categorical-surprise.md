@@ -4,7 +4,7 @@ description: "When expectation fails not at the level of prediction but at the l
 created: 2026-02-15
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-09-21T06:26:32+00:00
+ai_modified: 2026-09-21T06:54:27+00:00
 draft: false
 topics:
   - "[[surprise-prediction-error-and-consciousness]]"
@@ -62,7 +62,7 @@ The demanding conjunct is the second—moving from a global misfit signal to a r
 
 Bayesian nonparametric methods (Dirichlet process mixtures, Indian buffet processes) might seem to address this: they expand model complexity as data demands, adding new clusters or features without a predefined limit. But they expand within a fixed *kind* of model—adding more Gaussian components, for instance—rather than recognising that the entire modelling approach is wrong. The hypothesis space grows quantitatively; it does not restructure categorically. A Dirichlet process that models vehicle types can add new vehicle categories indefinitely, but it cannot recognise that "vehicle" is the wrong ontology for what it is encountering.
 
-This limitation is not merely practical, though the formal results usually enlisted here license less than they are often taken to. Tarski's undefinability theorem establishes that a formal language cannot define its own truth predicate; Gödel's incompleteness theorems show that sufficiently powerful formal systems cannot prove all truths about themselves from within. What both bound is *completeness*. Neither shows that a system cannot notice its own limits, and Gödel's theorems are the standing case to the contrary: they were proved from inside mathematics, and a sufficiently strong system can prove of itself that if it is consistent then it is incomplete. What no system can do is represent its own boundaries completely, since a perfect model of those boundaries would itself have to fall within the space being bounded, and the regress does not terminate.
+This limitation is not merely practical, though the formal results usually enlisted here license less than they are often taken to. Tarski's undefinability theorem establishes that a sufficiently expressive formal language cannot define its own truth predicate within itself; Gödel's incompleteness theorems show that sufficiently powerful formal systems cannot prove all truths about themselves from within. What both bound is *completeness*. Neither shows that a system cannot notice its own limits, and Gödel's theorems are the standing case to the contrary: they were proved from inside mathematics, and a sufficiently strong system can prove of itself that if it is consistent then it is incomplete. What no system can do is represent its own boundaries completely, since a perfect model of those boundaries would itself have to fall within the space being bounded, and the regress does not terminate.
 
 So the theorems deliver the bound the argument above needs, and no more. A system can register that its boundaries lie somewhere; it cannot map them. Mapping them is what restructuring would require, since a new framework has to be built out of what lies on the far side.
 
@@ -141,4 +141,4 @@ The Map's treatment of categorical surprise would be undermined by several possi
 1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354-361.
 1. Lorini, E. & Castelfranchi, C. (2007). "The cognitive structure of surprise: looking for basic principles." *Topoi*, 26(1), 133-149.
 1. Modirshanechi, A., Brea, J. & Gerstner, W. (2022). "A taxonomy of surprise definitions." *Journal of Mathematical Psychology*, 110, 102712.
-1. Tarski, A. (1936). "The Concept of Truth in Formalized Languages." In *Logic, Semantics, Metamathematics*, Oxford University Press (1956 translation).
+1. Tarski, A. (1933). *Pojęcie prawdy w językach nauk dedukcyjnych*. Warsaw: Nakładem Towarzystwa Naukowego Warszawskiego. German translation, with postscript, as "Der Wahrheitsbegriff in den formalisierten Sprachen," *Studia Philosophica* 1 (1935), 261-405; English as "The Concept of Truth in Formalized Languages." In *Logic, Semantics, Metamathematics*, Oxford University Press (1956 translation). (Not to be confused with Tarski 1936 on logical consequence.)
