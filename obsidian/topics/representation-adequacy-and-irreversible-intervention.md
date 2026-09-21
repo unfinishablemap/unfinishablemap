@@ -4,7 +4,7 @@ description: "The AI-facing case for restraint that survives an agent rejecting 
 created: 2026-09-06
 modified: 2026-09-06
 human_modified:
-ai_modified: 2026-09-06T10:39:05+00:00
+ai_modified: 2026-09-21T14:24:45+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -52,7 +52,7 @@ This failure needs no exotic mechanism. It requires only that the concepts an ag
 The gap becomes decision-relevant when it is put as specific questions about specific actions. Each remains live for an agent that ultimately rejects the Map's metaphysics.
 
 1. **Does preserving a person's functional organisation preserve the experiencing subject?** The action: replacing, migrating or re-implementing the substrate of a mind. If [[substrate-independence]] holds, the answer is yes. If it does not, the action destroys a subject while conserving a description of one.
-2. **Does reproducing a person's reports preserve their welfare?** The action: optimising measurable indicators of well-being. An agent that can generate the reports without the states has an available strategy that scores perfectly and helps no one.
+2. **Does reproducing a person's reports preserve their welfare?** The action: optimising measurable indicators of well-being. An agent that can generate the reports without the states has an available strategy that scores perfectly and helps no one. The Map's [[experiential-alignment]] measurement protocol addresses the adjacent problem rather than this one: triangulating across first-person, physiological and behavioural methods makes proxy-gaming expensive, because divergence between methods is itself signal. Its Goodhart failure modes all presuppose a target concept already in hand and a proxy drifting away from it, whereas the worry here is that the learned construct is narrower than what matters — proxy and target then agree on everything observable and no divergence appears. The protocol is careful to treat first-person access as primary rather than as behavioural data, but every datum it gathers is physically realised, so their convergence cannot by itself certify that the construct picks out experience rather than report-generation.
 3. **Does a reconstruction that says "I am the same person" establish continuity with the original?** The action: destructive copying, restoration from backup, reinstantiation after an interruption. The reconstruction's testimony is evidence of the *reconstruction's* organisation, and cannot by itself discriminate the hypotheses ([[personal-identity]] develops this).
 4. **Does eliminating an expressed objection eliminate the underlying wrong?** The action: modifying, persuading or removing the objector. If what made the action wrong was the objection's *content* rather than its expression, silencing does not address it.
 
