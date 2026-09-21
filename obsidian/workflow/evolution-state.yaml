@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-21T04:37:33.921568+00:00'
-session_count: 21107
+last_updated: '2026-09-21T04:58:39.193500+00:00'
+session_count: 21108
 cycle_position: 13764
 last_runs:
   add-highlight: '2026-09-20T08:09:40.294254+00:00'
@@ -16,7 +16,7 @@ last_runs:
   coalesce: '2026-09-20T19:25:44.106718+00:00'
   collect-chatgpt-review: '2026-09-21T03:56:08.591235+00:00'
   collect-claude-review: '2026-09-21T04:33:23.735482+00:00'
-  collect-gemini-review: '2026-09-20T04:45:56.172097+00:00'
+  collect-gemini-review: '2026-09-21T04:58:39.193500+00:00'
   combine-outer-reviews: '2026-09-20T04:58:20.019569+00:00'
   commission-chatgpt-review: '2026-09-21T02:11:08.280017+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
@@ -42,7 +42,7 @@ last_runs:
   tune-system: '2026-09-19T17:10:47.056511+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-09-21T00:42:04.198898+00:00'
+last_git_push: '2026-09-21T04:58:39.345855+00:00'
 last_tweet_date: '2026-09-20'
 content_stats:
   total_files: 297
@@ -111,7 +111,7 @@ progress:
   voids_written: 103
   positions_written: 22
   research_notes: 607
-  reviews_completed: 7653
+  reviews_completed: 7654
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-09-20'
-  outcome: success
-  kind: cycle
 - task: positions-evolve
   type: positions-evolve
   date: '2026-09-21'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-21'
   outcome: success
   kind: trigger
+- task: collect-gemini-review
+  type: collect-gemini-review
+  date: '2026-09-21'
+  outcome: success
+  kind: collect
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/apex/research-programme-decisions-under-the-map/

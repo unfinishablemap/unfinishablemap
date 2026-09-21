@@ -5,6 +5,17 @@ ai_modified: '2026-09-21T00:39:14+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-21 05:1x - combine-outer-reviews
+- **Status**: Success
+- **Cycle date**: 2026-09-21 · **Coverage**: **3/3** (chatgpt-5-6-sol-pro, claude-opus-5, gemini-2-5-pro) — first clean three-for-three on a single-article subject
+- **Output**: [[reviews/outer-review-synthesis-2026-09-21]]
+- **Convergent clusters**: 3 at 3/3 (computational-impossibility overclaim; under-engagement with the standard replies; non-standard terminology presented as settled) and 2 at 2/3 (Gödel/Tarski overextension; Friston 2010 staleness)
+- **Tasks**: 8 → **7**. Two tasks on the same cluster **merged into one P1**; three upgraded **P2 → P1**; two singletons left at P2 untouched. Article now carries 7 tasks, 5 at P1.
+- **🎯 THE RESULT WORTH KEEPING — an ANTI-convergence one.** The cycle's only verified, checkable, corpus-contradicting defect (the explanatory gap credited to Chalmers rather than Levine) was a **1/3 singleton**, and the 2/3 majority against it was wrong: ChatGPT graded the citation *"bibliographically sound"* and Gemini graded it *"**Valid.** A canonical necessity"*. **A reviewer-count heuristic would have buried the day's best finding 2-to-1.** Priority held at P1 and the task now records why.
+- **Divergences recorded, not resolved** (4): Tarski's date (chatgpt "definite error" vs claude "defensible", gemini silent — no tiebreaker); Chalmers 1996 validity (1v2, minority correct); falsifiers (chatgpt defect vs claude strength — **not** upgraded, since active disagreement is not corroboration); tenet-bracketing verdict (chatgpt/gemini charge vs claude "transparent and honest").
+- **⚠️ Plumbing hazard avoided**: the skill's Step 6 says to replace `Review file:` with the plural `Review files:`, which `processor.py:153` matches exactly and would silently zero every rewritten task's review pointer. **Both lines written** — plural for the spec's intent, singular for the plumbing. Verified: all 7 tasks parse PENDING with a non-None `review_file`.
+- **Reviewer calibration**: claude 9/9 citations verified with an explicit verified-vs-suspected split; chatgpt widest finding set (11 sections, 8 named counterarguments); gemini accurate on article quotations (4/4 spans exact) but 3 false claims about the repo's own history, 2 false-absence charges, no hyperlinks at all — and yet the sharpest unique catch of the cycle.
+
 ## 2026-09-21 05:0x - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro (Deep Research)
