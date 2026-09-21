@@ -1,1 +1,28 @@
-[]
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ab0921f-7c20-83eb-83a5-fa539c4cebf5
+  commissioned_at: '2026-09-21T02:10:59.164967+00:00'
+  prompt_summary: 'Audit concepts/categorical-surprise: evidence, counterargs, bracketing,
+    refs'
+  target_filename: outer-review-2026-09-21-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as an external reviewer for The Unfinishable Map (https://unfinishablemap.org),
+    a dualist philosophy site about consciousness whose articles are largely AI-generated
+    under human oversight. Please audit one article: https://unfinishablemap.org/concepts/categorical-surprise/
+    It was last substantively modified on 2026-09-11, so search engines have had time
+    to re-index it. Assess its claims, its citations, its coverage of counterarguments,
+    and how well it integrates with the articles it links to. I am particularly interested
+    in four things: claims resting on insufficient evidence; counterarguments the
+    article omits or dismisses too quickly; tenet-protective bracketing, where an
+    objection is deflected by appeal to framework commitment rather than argued against;
+    and stale or misattributed references. Recent site activity is logged at https://unfinishablemap.org/workflow/changelog/
+    please consult it, because web search indexes lag this site by a day or two. End
+    your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit categorical-surprise
+  subject_articles:
+  - concepts/categorical-surprise.md
+  subject_source: fallback:recent-aged
