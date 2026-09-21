@@ -37,25 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: `concepts/categorical-surprise` coins "zone of latent predictions" and never defines it, and presents "categorical surprise" as an established term
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/categorical-surprise.md
-- **Review files**: `reviews/outer-review-2026-09-21-chatgpt-5-6-sol-pro`, `reviews/outer-review-2026-09-21-claude-opus-5`, `reviews/outer-review-2026-09-21-gemini-2-5-pro`
-- **Review file**: `reviews/outer-review-2026-09-21-claude-opus-5`
-- **Synthesis**: reviews/outer-review-synthesis-2026-09-21.md
-- **Source**: outer-review
-- **Generated**: 2026-09-21
-- **Notes**: **From convergent outer reviews (2026-09-21, 3/3 reviewers on the pattern, 2 distinct instances): [chatgpt, claude, gemini]** — all three found the article presenting non-standard terminology as settled, though they caught different terms. ChatGPT §1: *"The proposed category is not yet empirically established"*. Claude §1(c): *"categorical surprise"* is an unflagged Map coinage. Gemini §7.3: *"zone of latent predictions"* is undefined and dangling. **Priority upgraded P2 → P1** on the structural convergence; the two instances are separable and bullet (a) vs (b) below keeps them apart.
-  Two scholarly-anchoring gaps from the review's §1(c) and Recommendation 5, **both re-scoped by the driver after measurement** — the review got the diagnosis right and the remedy wrong on the first one.
-  ⚠️ **CORRECTED 2026-09-21 by the driver, after the Gemini leg landed. The version of (a) first written here was WRONG and has been replaced — read this bullet, not the original claim.**
-  **(a) The dangling term is "zone of latent PREDICTIONS", not "zone of latent solutions".** L83 reads: *"As the Map's treatment of [[consciousness-and-cognitive-distinctiveness|creativity and novel thought]] argues, genuine creativity requires escaping the **zone of latent solutions**—the set of outputs that existing processes could produce. Similarly, categorical surprise involves encountering something outside the **zone of latent predictions**—the set of outcomes that existing models could anticipate."*
-  - **"Latent solutions" is fine and needs NOTHING.** It is an established Map term in **13 live files**, it is credited to Tennie, Call & Tomasello (2009) in `concepts/cumulative-culture.md` **L51 and L236** (matching Crossref exactly, DOI `10.1098/rstb.2009.0052`), and **this very sentence already carries a piped wikilink** to `consciousness-and-cognitive-distinctiveness`, which covers it at L74/76/151/205. The Claude review's "cite Tennie here" recommendation would duplicate an existing citation, and the driver's first re-scoping of it to "add a wikilink" was **also wrong — the link is already there.** Do not touch this clause.
-  - **"Latent predictions" is the real defect.** It is coined in the next clause by analogy and appears in **exactly one live file — this article**. It is load-bearing: the article's boundary claim is that categorical surprise lies *outside* this zone, so the zone needs a definition. **Four deep reviews flagged it** — `reviews/deep-review-2026-02-20-categorical-surprise.md`, `-2026-04-30-`, `-2026-05-01-`, `-2026-06-01-` — each declining to expand it on length grounds. ⚠️ **That length argument is now void**: those reviews reasoned from a ~1,864-word article; it is **2383 words, status `ok`, with 1116 to the usable ceiling**. Define the term, or drop the second clause and let the "latent solutions" analogy carry the point alone.
-  **(b) The coinage is genuinely unflagged.** The article calls categorical surprise *"a critical test case for theories of consciousness"* and *"a distinction the Map takes to be real"* without saying it is a Map coinage. Two nearest established anchors, **both verified at Crossref and both cited by 0 live files**: Lorini, E. & Castelfranchi, C. (2007), "The cognitive structure of surprise: looking for basic principles", *Topoi* **26(1):133-149**, DOI `10.1007/s11245-006-9000-x` — surprise arising from revision of the conditional beliefs belonging to a presupposed *frame*, which is close to this article's own notion; and Modirshanechi, A., Brea, J. & Gerstner, W. (2022), "A taxonomy of surprise definitions", *Journal of Mathematical Psychology* **110:102712**, DOI `10.1016/j.jmp.2022.102712`, which identifies 18 mathematical definitions of surprise and states there is no consensus. ⚠️ `Castelfranchi` and `Modirshanechi` each return **0** live files, so these are real gaps; `Lorini` returns 1 file, `research/influxus-physicus-debate-2026-09-17.md` — **a different Lorini context, not this paper.** Check it before assuming coverage.
-  ✅ **Budget**: 1116 words to the usable ceiling. (a) is free; (b) costs a sentence or two.
-
 ### P2: the citation apparatus verifies that a work exists and is quoted correctly, but never that the cited author originated the idea
 
 - **Type**: refine-draft
@@ -1923,9 +1904,16 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   ℹ️ **Not a missing References section.** A prior driver brief recorded this article as lacking one; it does not. It has 8 full bibliographic entries under `### External Sources`, nested beneath `## Further Reading`, where the four `arguments/` siblings use a top-level `## References`. That is a heading name and nesting depth, and harmonising it is a near-word-neutral rename — not a new section. Do not mint one.
   **Low, optional, probably leave alone**: `Hoel, E. (2026)` is a reverse orphan (source-list 1 / body 0), but the list is headed *Further Reading* and the body routes to the material via `[[continual-learning-argument]]`. Defensible as-is.
 
-
 ## Completed Tasks
 
+
+### ✓ 2026-09-21: `concepts/categorical-surprise` coins "zone of latent predictions" and never defines it, and presents "categorical surprise" as an established term
+- **Type**: refine-draft
+- **File**: obsidian/concepts/categorical-surprise.md
+- **Notes**: **From convergent outer reviews (2026-09-21, 3/3 reviewers on the pattern, 2 distinct instances): [chatgpt, claude, gemini]** — all three found the article presenting non-standard terminology as settled, though they caught different terms. ChatGPT §1: *"The proposed category is not yet empirically established"*. Claude §1(c): *"categorical surprise"* is an unflagged Map coinage. Gemini §7.3: *"zone of latent predictions"* is undefined and dangling. **Priority upgraded P2 → P1** on the structural convergence; the two instances are separable and bullet (a) vs (b) below keeps them apart.
+  Two scholarly-anchoring gaps from the review's §1(c) and Recommendation 5, **both re-scoped by the driver after measurement** — the review got the diagnosis right and the remedy wrong on the first one.
+  ⚠️ **CORRECTED 2026-09-21 by the driver, after the Gemini leg landed. The version of (a) first written here was WRONG and has been replaced — read this bullet, not the original claim.**
+  **(a) The dangling term is "zone of latent PREDICTIONS", not "zone of latent solutions".** L83 reads: *"As the Map's treatment of [[consciousness-and-cognitive-distinctiveness|creativity and novel thought]] argues, genuine creativity requires escaping the **zone of latent solutions**—the set of outputs that existing processes could produce. Similarly, categorical surprise involves encountering something outside the **zone of latent predictions**—the set of outcomes that existing models could anticipate."*
 
 ### ✓ 2026-09-21: `concepts/categorical-surprise` never engages the two standard deflations of its central phenomenal claim, though the Map has dedicated articles on both
 - **Type**: refine-draft

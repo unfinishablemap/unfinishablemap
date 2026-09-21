@@ -4,7 +4,7 @@ description: "When expectation fails not at the level of prediction but at the l
 created: 2026-02-15
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-09-21T05:40:29+00:00
+ai_modified: 2026-09-21T06:26:32+00:00
 draft: false
 topics:
   - "[[surprise-prediction-error-and-consciousness]]"
@@ -50,6 +50,8 @@ Categorical surprise is structurally different. The system confronts a situation
 
 **Restructuring rather than revision.** The aftermath of categorical surprise is a reorganised framework rather than a corrected prediction—new categories, new dimensions of variation, sometimes a new sense of what questions are worth asking.
 
+The vocabulary here is the Map's, though the seam it cuts along has been noticed before. Lorini and Castelfranchi (2007) separate mismatch-based surprise—a recognised conflict between incoming data and the representation an agent currently has under scrutiny—from *astonishment*, a response to the recognised implausibility of an input that no active expectation had ruled out, calling for "a deep and large revision" of well-consolidated belief; that is close to the second feature above, though their revision operates on a belief base rather than on the space of available models. Modirshanechi, Brea and Gerstner (2022) catalogue eighteen formal definitions of surprise and find no consensus among them, which is why the Map names its own distinction rather than borrowing a term whose sense it would then have to stipulate.
+
 ## The Computational Difficulty
 
 Bayesian model selection and active inference (extensions of predictive processing developed by Friston and colleagues) go beyond simple prediction error. They allow comparison among predefined alternative models, selecting whichever best fits incoming evidence. This handles some cases that look like framework change—switching from one model to another when the data demands it.
@@ -82,7 +84,7 @@ The [[epistemic-emotions|epistemic emotions]] surrounding categorical surprise h
 
 Categorical surprise and creative insight share a deep structure. Both involve transcending existing representational frameworks rather than operating within them.
 
-As the Map's treatment of [[consciousness-and-cognitive-distinctiveness|creativity and novel thought]] argues, genuine creativity requires escaping the zone of latent solutions—the set of outputs that existing processes could produce. Similarly, categorical surprise involves encountering something outside the zone of latent predictions—the set of outcomes that existing models could anticipate.
+As the Map's treatment of [[consciousness-and-cognitive-distinctiveness|creativity and novel thought]] argues, genuine creativity requires escaping the zone of latent solutions—the set of outputs that existing processes could produce. Categorical surprise involves encountering something outside what the Map calls, by analogy, the *zone of latent predictions*: the set of outcomes that existing models could anticipate. The analogy has to earn the move from production to anticipation, and under predictive processing it does, because the models at issue are generative models—what such a model anticipates is what it generates. Both terms accordingly pick out a set closed under a repertoire's own operations, and both mark a boundary those operations cannot cross from inside. What the analogy does not carry over is the exit: the zone of latent solutions is escaped socially, through high-fidelity transmission across generations, whereas this one is escaped, on the Map's account, through the felt recognition of incompleteness described above.
 
 The connection runs both directions. Creative acts produce categorical surprise in their audience (and often in the creator). And categorical surprise, by forcing framework revision, opens new representational space within which creative work becomes possible. The experience of [[surprise-prediction-error-and-consciousness|self-surprise]]—the creator's own astonishment at what they have produced—is often categorical rather than ordinary: not "I didn't expect this particular output" but "I didn't know this kind of output was available to me."
 
@@ -137,4 +139,6 @@ The Map's treatment of categorical surprise would be undermined by several possi
 1. Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I." *Monatshefte für Mathematik und Physik*, 38, 173-198.
 1. Kuhn, T. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
 1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354-361.
+1. Lorini, E. & Castelfranchi, C. (2007). "The cognitive structure of surprise: looking for basic principles." *Topoi*, 26(1), 133-149.
+1. Modirshanechi, A., Brea, J. & Gerstner, W. (2022). "A taxonomy of surprise definitions." *Journal of Mathematical Psychology*, 110, 102712.
 1. Tarski, A. (1936). "The Concept of Truth in Formalized Languages." In *Logic, Semantics, Metamathematics*, Oxford University Press (1956 translation).
