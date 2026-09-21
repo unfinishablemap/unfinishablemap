@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-09-11 21:06:15+00:00
+ai_modified: 2026-09-21 07:25:06+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -12,6 +12,8 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[cognitive-phenomenology]]'
 - '[[metacognition]]'
+- '[[phenomenal-concepts-strategy]]'
+- '[[illusionism]]'
 created: 2026-02-15
 date: &id001 2026-02-20
 description: When expectation fails not at the level of prediction but at the level
@@ -21,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-11 21:06:15+00:00
-lastmod: 2026-09-11 21:06:15+00:00
+lastmod: 2026-09-21 07:25:06+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -52,6 +54,8 @@ Categorical surprise is structurally different. The system confronts a situation
 
 **Restructuring rather than revision.** The aftermath of categorical surprise is a reorganised framework rather than a corrected prediction—new categories, new dimensions of variation, sometimes a new sense of what questions are worth asking.
 
+The vocabulary here is the Map's, though the seam it cuts along has been noticed before. Lorini and Castelfranchi (2007) separate mismatch-based surprise—a recognised conflict between incoming data and the representation an agent currently has under scrutiny—from *astonishment*, a response to the recognised implausibility of an input that no active expectation had ruled out, calling for "a deep and large revision" of well-consolidated belief; that is close to the second feature above, though their revision operates on a belief base rather than on the space of available models. Modirshanechi, Brea and Gerstner (2022) catalogue eighteen formal definitions of surprise and find no consensus among them, which is why the Map names its own distinction rather than borrowing a term whose sense it would then have to stipulate.
+
 ## The Computational Difficulty
 
 Bayesian model selection and active inference (extensions of predictive processing developed by Friston and colleagues) go beyond simple prediction error. They allow comparison among predefined alternative models, selecting whichever best fits incoming evidence. This handles some cases that look like framework change—switching from one model to another when the data demands it.
@@ -62,7 +66,11 @@ The demanding conjunct is the second—moving from a global misfit signal to a r
 
 Bayesian nonparametric methods (Dirichlet process mixtures, Indian buffet processes) might seem to address this: they expand model complexity as data demands, adding new clusters or features without a predefined limit. But they expand within a fixed *kind* of model—adding more Gaussian components, for instance—rather than recognising that the entire modelling approach is wrong. The hypothesis space grows quantitatively; it does not restructure categorically. A Dirichlet process that models vehicle types can add new vehicle categories indefinitely, but it cannot recognise that "vehicle" is the wrong ontology for what it is encountering.
 
-This limitation is not merely practical, though the formal results usually enlisted here license less than they are often taken to. Tarski's undefinability theorem establishes that a formal language cannot define its own truth predicate; Gödel's incompleteness theorems show that sufficiently powerful formal systems cannot prove all truths about themselves from within. What both bound is *completeness*. Neither shows that a system cannot notice its own limits, and Gödel's theorems are the standing case to the contrary: they were proved from inside mathematics, and a sufficiently strong system can prove of itself that if it is consistent then it is incomplete. What no system can do is represent its own boundaries completely, since a perfect model of those boundaries would itself have to fall within the space being bounded, and the regress does not terminate.
+Three lines of work press harder than nonparametrics do, and the claim above has to be stated against them. Smith, Schwartenbeck, Parr and Friston (2020) build an active inference agent that acquires *novel hidden states* when the states it holds cannot account for what it observes—structure learning rather than parameter learning. Friston et al. (2017) describe "fact-free learning," in which Bayesian model reduction reorganises a generative model with no new data at all, on finding that a simpler structure explains what the agent has already seen. DreamCoder (Ellis et al. 2023) goes furthest: in its sleep phase it refactors the programs it has discovered into new library abstractions, growing a domain-specific language that did not exist when the run began, so that the vocabulary in which its later problems are posed differs from the one it started with.
+
+What none of these systems chooses is its own base vocabulary. DreamCoder composes abstractions out of primitives and a grammar the modeller supplies; Smith et al.'s agent adds states within a fixed observation ontology and a fixed model form; model reduction searches the submodels of a model already specified. The objection levelled at Dirichlet processes above reappears one level up—the set of reachable restructurings is still fixed in advance, now by the primitives rather than by the cluster count. On that reading the falsifier below has not fired, and what the reading costs is worth stating plainly: DreamCoder is wake–sleep Bayesian program induction, neither a nonparametric model nor an active inference one, so it also falls outside the scope the falsifier states, and a claim that survives partly because its falsifier was drawn narrowly is weaker than one that survives a falsifier aimed straight at it. What the Map holds is a claim about an open research problem, not a demonstrated impossibility.
+
+This limitation is not merely practical, though the formal results usually enlisted here license less than they are often taken to. Tarski's undefinability theorem establishes that a sufficiently expressive formal language cannot define its own truth predicate within itself; Gödel's incompleteness theorems show that sufficiently powerful formal systems cannot prove all truths about themselves from within. What both bound is *completeness*. Neither shows that a system cannot notice its own limits, and Gödel's theorems are the standing case to the contrary: they were proved from inside mathematics, and a sufficiently strong system can prove of itself that if it is consistent then it is incomplete. What no system can do is represent its own boundaries completely, since a perfect model of those boundaries would itself have to fall within the space being bounded, and the regress does not terminate.
 
 So the theorems deliver the bound the argument above needs, and no more. A system can register that its boundaries lie somewhere; it cannot map them. Mapping them is what restructuring would require, since a new framework has to be built out of what lies on the far side.
 
@@ -84,17 +92,21 @@ The [epistemic emotions](/concepts/epistemic-emotions/) surrounding categorical 
 
 Categorical surprise and creative insight share a deep structure. Both involve transcending existing representational frameworks rather than operating within them.
 
-As the Map's treatment of [creativity and novel thought](/topics/consciousness-and-cognitive-distinctiveness/) argues, genuine creativity requires escaping the zone of latent solutions—the set of outputs that existing processes could produce. Similarly, categorical surprise involves encountering something outside the zone of latent predictions—the set of outcomes that existing models could anticipate.
+As the Map's treatment of [creativity and novel thought](/topics/consciousness-and-cognitive-distinctiveness/) argues, genuine creativity requires escaping the zone of latent solutions—the set of outputs that existing processes could produce. Categorical surprise involves encountering something outside what the Map calls, by analogy, the *zone of latent predictions*: the set of outcomes that existing models could anticipate. The analogy has to earn the move from production to anticipation, and under predictive processing it does, because the models at issue are generative models—what such a model anticipates is what it generates. Both terms accordingly pick out a set closed under a repertoire's own operations, and both mark a boundary those operations cannot cross from inside. What the analogy does not carry over is the exit: the zone of latent solutions is escaped socially, through high-fidelity transmission across generations, whereas this one is escaped, on the Map's account, through the felt recognition of incompleteness described above.
 
 The connection runs both directions. Creative acts produce categorical surprise in their audience (and often in the creator). And categorical surprise, by forcing framework revision, opens new representational space within which creative work becomes possible. The experience of [self-surprise](/topics/surprise-prediction-error-and-consciousness/)—the creator's own astonishment at what they have produced—is often categorical rather than ordinary: not "I didn't expect this particular output" but "I didn't know this kind of output was available to me."
 
 ## Why Categorical Surprise Matters for Consciousness
 
-Categorical surprise provides a specific test case for the [explanatory-gap](/concepts/explanatory-gap/) (Chalmers 1996). Ordinary surprise is computationally tractable: prediction error signals, model updating, precision weighting. But categorical surprise—the restructuring that has to follow recognition that one's entire framework is inadequate—resists this treatment for structural reasons, not merely because we lack better models.
+Categorical surprise provides a specific test case for the [explanatory-gap](/concepts/explanatory-gap/) (Levine 1983; developed at length in Chalmers 1996). Ordinary surprise is computationally tractable: prediction error signals, model updating, precision weighting. But categorical surprise—the restructuring that has to follow recognition that one's entire framework is inadequate—has so far resisted this treatment, and the Map reads the resistance as structural rather than as a shortfall in models not yet built—the better account of an open problem, given the structure-learning work canvassed above, rather than a settled impossibility.
 
-If consciousness is what enables framework transcendence—the capacity to recognise and reorganise one's own representational boundaries—then categorical surprise is consciousness caught in the act. It is one of the more vivid pieces of evidence for irreducible [phenomenal-consciousness](/concepts/phenomenal-consciousness/), because the phenomenal character (vertigo, free-fall, the click of new understanding) correlates with a cognitive achievement (framework revision) that has no adequate computational account.
+If consciousness is what enables framework transcendence—the capacity to recognise and reorganise one's own representational boundaries—then categorical surprise is consciousness caught in the act. It is one of the more vivid pieces of evidence for irreducible [phenomenal-consciousness](/concepts/phenomenal-consciousness/), because the phenomenal character (vertigo, free-fall, the click of new understanding) correlates with a cognitive achievement—framework revision—that no computational model has yet been shown to perform without its space of possible restructurings being fixed in advance. That is weaker than an impossibility claim, deliberately. Laukkonen et al. (2023) give the "click" a functional role—the feeling of insight selecting among candidate ideas—without yet accounting for the restructuring it accompanies; the Map's case rests on how that open question currently stands, not on a proof that it cannot close.
 
 Vividness is not independence, and keeping the two apart prices the claim. This case presses the same gap between phenomenal character and computational description that the [zombie argument](/concepts/philosophical-zombies/), Mary's Room and the [explanatory-gap](/concepts/explanatory-gap/) press, so it sits inside that cluster rather than alongside it, and the standing discount registered at [P-D1](/positions/arguments-for-dualism/#p-d1) applies: a member of a premise-sharing catalogue contributes little more than the strongest member of its cluster, however striking its presentation. Nor does the correlation adjudicate between the Map's reading and an epiphenomenalist one on which the vertigo accompanies the revision without accomplishing it. What the correlation establishes is that the two reliably go together and that no computational account of the pairing is currently on offer. Which of them explains the other is settled, if it is settled anywhere, by the argument from Bidirectional Interaction below—not by the phenomenology on its own.
+
+Two standard physicalist replies survive that discount. The [phenomenal concepts strategy](/concepts/phenomenal-concepts-strategy/) grants the vertigo and the click and puts the puzzle in the concepts under which they are grasped, so the epistemic situation described here follows with no ontological conclusion attached. The Map concedes that this blocks any direct inference from felt discontinuity to non-physical work, and presses instead the dilemma set out on that page: whatever makes such concepts special is either physically explicable, in which case a zombie undergoing framework collapse reports the same vertigo and our case goes unexplained, or it is not, in which case the gap reopens one level down.
+
+[illusionism](/concepts/illusionism/) is a separate move the concession does not absorb, since it denies there is any phenomenal referent for such a concept to present: the vertigo and the click become functionally specifiable metacognitive signals—with the neural signatures the Map's [treatment of insight](/concepts/creative-consciousness/#the-phenomenology-of-creative-insight) documents—that introspection misreports as qualitative. Against that reading this case argues nothing, its premise being what is denied. The disagreement sits at a framework boundary and is marked as one here; the in-framework pressure the Map does apply to illusionism is developed on that page.
 
 ## Relation to Site Perspective
 
@@ -131,7 +143,14 @@ The Map's treatment of categorical surprise would be undermined by several possi
 ## References
 
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Ellis, K. et al. (2023). "DreamCoder: growing generalizable, interpretable knowledge with wake–sleep Bayesian program learning." *Philosophical Transactions of the Royal Society A*, 381, 20220050. DOI: 10.1098/rsta.2022.0050
 1. Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*, 11(2), 127-138.
+1. Friston, K. J. et al. (2017). "Active Inference, Curiosity and Insight." *Neural Computation*, 29(10), 2633-2683. DOI: 10.1162/neco_a_00999
 1. Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I." *Monatshefte für Mathematik und Physik*, 38, 173-198.
 1. Kuhn, T. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
-1. Tarski, A. (1936). "The Concept of Truth in Formalized Languages." In *Logic, Semantics, Metamathematics*, Oxford University Press (1956 translation).
+1. Laukkonen, R. E., Webb, M., Salvi, C., Tangen, J. M., Slagter, H. A. & Schooler, J. W. (2023). "Insight and the selection of ideas." *Neuroscience & Biobehavioral Reviews*, 153, 105363. DOI: 10.1016/j.neubiorev.2023.105363
+1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354-361.
+1. Lorini, E. & Castelfranchi, C. (2007). "The cognitive structure of surprise: looking for basic principles." *Topoi*, 26(1), 133-149.
+1. Modirshanechi, A., Brea, J. & Gerstner, W. (2022). "A taxonomy of surprise definitions." *Journal of Mathematical Psychology*, 110, 102712.
+1. Smith, R., Schwartenbeck, P., Parr, T. & Friston, K. J. (2020). "An Active Inference Approach to Modeling Structure Learning." *Frontiers in Computational Neuroscience*, 14, 41. DOI: 10.3389/fncom.2020.00041
+1. Tarski, A. (1933). *Pojęcie prawdy w językach nauk dedukcyjnych*. Warsaw: Nakładem Towarzystwa Naukowego Warszawskiego. German translation, with postscript, as "Der Wahrheitsbegriff in den formalisierten Sprachen," *Studia Philosophica* 1 (1935), 261-405; English as "The Concept of Truth in Formalized Languages." In *Logic, Semantics, Metamathematics*, Oxford University Press (1956 translation). (Not to be confused with Tarski 1936 on logical consequence.)

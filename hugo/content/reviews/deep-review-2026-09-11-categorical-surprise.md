@@ -165,6 +165,17 @@ no new `Author YYYY` inline cite. The inherited 2026-06-01 per-cite ledger there
 forward here in full:
 
 - Chalmers, D. (1996), *The Conscious Mind*, OUP — state: **real-correct**.
+  ⚠️ **ANNOTATION 2026-09-21 — the metadata certification stands; the in-text *application* did not.**
+  This entry is not withdrawn: the book exists, and the author, year, title and publisher are all
+  correct, which is what a per-cite ledger certifies. What the ledger does not measure, and did not
+  catch, is whether a correctly-described source is attached to the right idea. The 2026-09-21
+  outer-review cycle found that article L89 credited Chalmers 1996 with originating the
+  **explanatory gap**, which is Levine's (1983, *Pacific Philosophical Quarterly* 64(4):354-361,
+  DOI `10.1111/j.1468-0114.1983.tb00207.x`); Chalmers originated the *hard problem* and develops
+  the gap rather than coining it. Corrected on 2026-09-21 to read "(Levine 1983; developed at
+  length in Chalmers 1996)", with a Levine entry added to the References list. **A wrongly-applied
+  citation, not a wrong citation** — the distinction the open `concept-origin / attribution lens`
+  task exists to measure.
 - Friston, K. (2010), *Nature Reviews Neuroscience* 11(2):127-138 — state: **real-correct**
   (verified exact 2026-05-31 and 2026-06-01).
 - Gödel, K. (1931), *Monatshefte für Mathematik und Physik* 38:173-198 — state: **real-correct**.
@@ -173,7 +184,16 @@ forward here in full:
   conditional form (see Locus 2). Metadata unchanged.
 - Kuhn, T. (1962, ch. X), *The Structure of Scientific Revolutions* — state: **real-correct**
   ("ch. X" is Roman-numeral Chapter X, "Revolutions as Changes of World View"; Lavoisier example genuine).
-- Tarski, A. (1936), "The Concept of Truth in Formalized Languages" — state: **real-correct**.
+- Tarski, A. (1933), *Pojęcie prawdy w językach nauk dedukcyjnych* — state: **corrected 2026-09-21**.
+  This entry's 09-11 certification as "real-correct" under the year **1936** was mistaken and should not
+  be re-inherited. The truth monograph is 1933 (Warsaw); the German *"Der Wahrheitsbegriff in den
+  formalisierten Sprachen"* is *Studia Philosophica* 1 (1935), 261-405 — not 1936; the English
+  "The Concept of Truth in Formalized Languages" is the 1956 *Logic, Semantics, Metamathematics*
+  translation, which the entry already named correctly. "Tarski 1936" is a real but **different** work —
+  the logical-consequence papers (*"O pojęciu wynikania logicznego"*, *Przegląd Filozoficzny* 39: 58-68;
+  *"Über den Begriff der logischen Folgerung"*) — so the old entry pointed the reader at the wrong paper
+  rather than merely mis-dating the right one. The reference now names all three publication events;
+  the volume attribution was sound and is unchanged.
 
 Inline ↔ References cross-reference: complete in both directions; no orphans.
 

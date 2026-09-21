@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-19
-ai_modified: 2026-09-20 07:30:00+00:00
+ai_modified: 2026-09-21 07:55:25+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts: []
 created: 2026-06-19
-date: &id001 2026-09-20
+date: &id001 2026-09-21
 description: A mechanism-variance audit for claims leaning on quantum-consciousness
   machinery, and a quotation-fidelity family distinct from reference-metadata verification
   — extended 2026-09-20 with quote-work locator fidelity, construct propagation, and
@@ -14,7 +14,7 @@ description: A mechanism-variance audit for claims leaning on quantum-consciousn
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-20 07:30:00+00:00
+lastmod: 2026-09-21 07:55:25+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -37,6 +37,9 @@ related_articles:
 - '[[reviews/outer-review-2026-09-20-chatgpt-5-6-sol-pro]]'
 - '[[reviews/outer-review-2026-09-20-claude-opus-5]]'
 - '[[reviews/outer-review-synthesis-2026-09-20]]'
+- '[[categorical-surprise]]'
+- '[[explanatory-gap]]'
+- '[[reviews/outer-review-2026-09-21-claude-opus-5]]'
 title: Quantum-Claim Robustness and Quotation-Fidelity Disciplines
 topics: []
 ---
@@ -99,6 +102,20 @@ The pairing is the unit because each half passes on its own evidence while the t
 
 **What this must not become.** A second metadata pass would be worse than nothing — it would stamp a stronger *verified* mark on the very citations carrying the defect. That is a citation ledger's standing failure mode: it certifies the metadata and is then read as certifying the reading. Check (c-iv) is discharged only by a locator and a hit — a search against the cited edition, recording *where in that work* the string was found. Absent a locator, mark the quotation unverified rather than let it inherit the work-level pass. A ledger entry reading *real-correct* at author grain has certified nothing about the quotation, and should say which grain it reached.
 
+### Concept-origin attribution: the pairing with no string in it
+
+The 2026-09-21 triple on [categorical surprise](/concepts/categorical-surprise/) reached the residue sitting one level further out than (c-iv) — Claude Opus 5's first site-methodology recommendation, *"verifying who originated a named idea, not only that the cited work exists and is quoted verbatim."* The live instance was the sentence *"a specific test case for the [explanatory-gap](/concepts/explanatory-gap/) (Chalmers 1996)."* The explanatory gap is Joseph Levine's, from "Materialism and Qualia: The Explanatory Gap," *Pacific Philosophical Quarterly* 64(4):354-361 (1983), DOI `10.1111/j.1468-0114.1983.tb00207.x`. *The Conscious Mind* (1996) exists, is correctly described, and genuinely discusses the gap at length; the 2026-09-11 deep review's citation ledger certified the Chalmers entry *real-correct* and did not catch it.
+
+- **(c-v) concept-origin-attributed** — *new* — where an article names an idea and attaches a citation to the name, the cited work must be the one that *introduced* the idea, or must carry its role marked if it develops or popularises an idea introduced elsewhere. What is certified is the **pairing of a named idea to its originator**.
+
+(c-v) runs where the other checks have nothing to run against. **No string is quoted**, so (c-i), (c-ii) and (c-iv) idle: there is no marked span to test for paraphrase, for drift, or for location in a cited edition. (c-iii) passes too, because Chalmers argues in the direction the article recruits him for. (c-iv)'s own framing — *"Every check above passes and the citation is still wrong"* — holds one level further out again, with the unit moved from string-to-work to idea-to-originator.
+
+**What discharges it.** A reference establishing that the named originator introduced the idea, distinct from any work that develops or popularises it. Where the two differ — the ordinary case for an idea a later book made famous — cite both with their roles marked, as the corpus already does correctly at [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/): *"the explanatory gap (Levine 1983), the conceivability argument (Chalmers 1996), or the knowledge argument (Jackson 1982)."* The repair took that shape: *"(Levine 1983; developed at length in Chalmers 1996)."* A ledger entry reading *real-correct* certifies metadata and has said nothing about whether the cited work originated the idea it is attached to; as with (c-iv), it should say which grain it reached.
+
+**The detector is internal.** The Map's own [explanatory-gap](/concepts/explanatory-gap/) page read "Joseph Levine introduced the term in 1983" for as long as the neighbouring article credited Chalmers. Two Map pages contradicting each other on a checkable historical fact is the cheapest available detector for this failure and spends no external-lookup budget at all: where the corpus states an idea's origin on the idea's own page, every other page citing that idea can be checked against it. The corpus-wide surface for the motivating term was already sized and is small — the 2026-09-21 verification pass read all thirteen live `Chalmers 1996` occurrences and found exactly one attached to the gap — so no standing sweep is proposed here.
+
+**The boundary against (c-iv).** The same cycle produced a case on the other side of the line, and keeping the two apart is what makes (c-v) well-defined. The article also cited *"Tarski, A. (1936)"* for the truth-undefinability result; Tarski 1936 is a real but different work (the logical-consequence papers), the truth monograph being 1933 Polish, 1935 German (*Studia Philosophica* 1:261-405) and 1956 English. There the originator is right and the *work* is wrong — a work-identification failure of (c-iv)'s family. (c-v) is its mirror: the work is real and correctly described, and the *originator* is wrong.
+
 ### Disconfirming-source inclusion
 
 The brain-specialness boundary cited four friendly sources (Jahn & Dunne 2005, Nelson et al. 2002, Park 2000, Stapp 2007) and a popular-science book for the criticism, while omitting the single most-cited skeptical meta-analysis (Bösch, Steinkamp & Boller 2006) and the large Bayesian null study (Maier, Dechamps & Pflitsch 2018). Both reviewers independently flagged this as "a one-sided evidence base presented as 'the empirical record.'"
@@ -138,9 +155,11 @@ The 2026-09-20 triple on [the Appetitive Void](/voids/appetitive-void/) produced
 - **(28) distinguish "cited" from "engaged"** — [calibration-audit-triple](/project/calibration-audit-triple/) Audit Four **check (e)**, the reference-engagement / performative-inoculation check proposed 2026-07-18: the same references-minus-body set difference, the same mechanical surface. Convergent confirmation with one increment, recorded at check (e): where the uncited reference's *own conclusion opposes the article's thesis*, the flag is a hard defect at P1 rather than check (e)'s advisory P2 candidate, the citation being an omitted rival dressed as an engaged one rather than honest background. The instance is Kunda 1990 and Ellis 2022 in the Appetitive Void, each occurring once on its own reference line, both arguing against the thesis they appear to support.
 - **(29) steelmanned strongest-objection paragraph, sourced to 2020s work** — [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) Countermeasures 2 and 10 carry the steelman, [evidential-status-discipline](/project/evidential-status-discipline/)'s strongest-physicalist-rival gate the named rival, and Audit One's 2026-06-26 convergent proposal the currency half. Covered three times over.
 
+**2026-09-21, recorded as a separate dated entry.** The counts above belong to one cycle and are left as they stand. The 2026-09-21 triple on [categorical surprise](/concepts/categorical-surprise/) yielded one surviving site-methodology proposal — Claude Opus 5's concept-origin lens — adopted above as check (c-v). As with (c-iv) the day before, it is a citation-integrity check occupying space the ledger's *real-correct* mark does not reach, which is now two consecutive cycles finding the same kind of gap in the same place.
+
 ## Relation to Site Perspective
 
-Both disciplines protect the same commitment: that the Map's claims are calibrated to what the catalogue actually has, not to what the tenets allow. Discipline One prevents a tenet-congenial conclusion from inheriting unearned confidence by riding a single fragile mechanism; Discipline Two prevents a contested empirical record from looking settled by omitting its strongest disconfirmer, by quoting a source inexactly, or by recruiting a source for an inference its own argument rejects. Neither weakens the Map's positions — they keep the positions honestly stated, which is what makes the framework's anti-parsimony stance ([Tenet 5](/tenets/#occams-limits)) a discipline rather than a shield.
+Both disciplines protect the same commitment: that the Map's claims are calibrated to what the catalogue actually has, not to what the tenets allow. Discipline One prevents a tenet-congenial conclusion from inheriting unearned confidence by riding a single fragile mechanism; Discipline Two prevents a contested empirical record from looking settled by omitting its strongest disconfirmer, by quoting a source inexactly, by recruiting a source for an inference its own argument rejects, or by crediting a named idea to the wrong originator. Neither weakens the Map's positions — they keep the positions honestly stated, which is what makes the framework's anti-parsimony stance ([Tenet 5](/tenets/#occams-limits)) a discipline rather than a shield.
 
 ## Further Reading
 
@@ -151,3 +170,4 @@ Both disciplines protect the same commitment: that the Map's claims are calibrat
 - [public-claim-register](/project/public-claim-register/) — the trigger-gated home proposed for the merged (22)/(27) voids scope change
 - [outer-review-synthesis-2026-06-19](/reviews/outer-review-synthesis-2026-06-19/) — the cycle that motivated this document
 - [outer-review-synthesis-2026-09-20](/reviews/outer-review-synthesis-2026-09-20/) — the cycle that produced check (c-iv), construct propagation, and the eleven-proposal triage
+- [outer-review-2026-09-21-claude-opus-5](/reviews/outer-review-2026-09-21-claude-opus-5/) — the review that proposed check (c-v), with the [categorical-surprise](/concepts/categorical-surprise/) instance verified

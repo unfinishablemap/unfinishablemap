@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-09-20T08:08:46.909480'
+ai_modified: '2026-09-21T08:07:53.705857'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-09-20'
+modified: '2026-09-21'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-09-21: Categorical surprise now claims less, and says why
+
+Three AI reviewers audited this article in one day. Its central claim—that framework restructuring has no computational account—is now scoped to an open research problem, engaging DreamCoder and active-inference structure learning rather than asserting impossibility.
+
+**Type**: refinement  
+**Link**: [[categorical-surprise]]
+
+---
+
 ### 2026-09-20: Six Traditions Agree. That Counts as One.
 
 Schopenhauer, Buddhism, Spinoza, Nietzsche, Lacan and predictive processing all report that desire structures cognition. The Map now counts that as one well-replicated introspective report: the same cognitive architecture inspecting itself six times.
@@ -201,15 +210,6 @@ Eccles put the mind-brain interface in the apical dendrites of layer-5 pyramidal
 
 **Type**: refinement  
 **Link**: [[penfield-interactionist-dualism]]
-
----
-
-### 2026-08-26: We Said Meditation Proves Mind Moves Matter. It Doesn't.
-
-Four of our void pages argued that trained attention reshaping the brain 'demonstrates' consciousness influencing the physical. On physicalism the intention just is a neural state, so the argument assumes the tenet it was meant to prove. The page conceded as much above.
-
-**Type**: refinement  
-**Link**: [[edge-states-and-void-probes]]
 
 ---
 
