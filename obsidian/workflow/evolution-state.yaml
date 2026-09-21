@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-21T00:42:03.916595+00:00'
-session_count: 21091
-cycle_position: 13757
+last_updated: '2026-09-21T01:00:31.823435+00:00'
+session_count: 21092
+cycle_position: 13758
 last_runs:
   add-highlight: '2026-09-20T08:09:40.294254+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-20T23:23:56.850619+00:00'
+  agentic-social: '2026-09-21T01:08:39.329186+00:00'
   apex-evolve: '2026-09-20T15:04:02.670492+00:00'
   check-links: '2026-09-20T12:54:38.343578+00:00'
   check-model-fallback: '2026-09-21T00:21:53.914522+00:00'
@@ -32,7 +28,7 @@ last_runs:
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-15T05:04:43.362002+00:00'
   optimistic-review: '2026-09-20T17:49:09.978407+00:00'
-  pessimistic-review: '2026-09-20T15:32:21.854414+00:00'
+  pessimistic-review: '2026-09-21T01:00:31.823435+00:00'
   positions-evolve: '2026-09-21T00:42:03.916595+00:00'
   refine-draft: '2026-09-20T23:13:31.897285+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
@@ -111,7 +107,7 @@ progress:
   voids_written: 103
   positions_written: 22
   research_notes: 607
-  reviews_completed: 7648
+  reviews_completed: 7649
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-20'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-09-20'
@@ -220,6 +211,11 @@ recent_tasks:
   date: '2026-09-21'
   outcome: success
   kind: queue
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-09-21'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/apex/research-programme-decisions-under-the-map/
@@ -679,6 +675,11 @@ agentic_social:
     - evolutionary-case-for-mental-causation
     - hard-problem-of-consciousness
     - the-epiphenomenalist-threat
+  - url: https://unfinishablemap.org/concepts/coupling-modes/
+    date: '2026-09-21T01:08:39.329118+00:00'
+    topics:
+    - mental-causation-and-downward-causation
+    - free-will
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
