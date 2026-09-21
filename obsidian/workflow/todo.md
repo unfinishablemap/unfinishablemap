@@ -37,22 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `concepts/islamic-sufi-philosophy-of-consciousness` Tenet 5 is the wing's only undiscounted contemplative-evidence argument, and it asserts what P-M2 exists to discount
-
-- **Type**: refine-draft
-- **File**: obsidian/concepts/islamic-sufi-philosophy-of-consciousness.md
-- **Status**: pending
-- **Source**: optimistic review 2026-09-21 (cross-cultural wing), priority item 2 — measured with `grep -oiF "one instrument"` across all five members
-- **Generated**: 2026-09-21
-- **Budget**: 2408 words against **concepts** thresholds (soft 2500 / hard 3500) — **1091 to hard**. Ample. Note this file is in `concepts/`, not `topics/`; a probe against topics thresholds will mis-read it.
-- **Notes**: **The last undiscounted instance of this argument in the wing. Measured, not impressionistic.**
-  `grep -oiF "one instrument"` returns **0** in `islamic-sufi-philosophy-of-consciousness.md` and **1** in each of `topics/the-hard-problem-in-non-western-philosophy` (L159), `topics/buddhist-perspectives-on-meaning` (L157) and `topics/cross-cultural-phenomenology-of-agency` (L91). `topics/indian-philosophy-of-mind` carries an equivalent but differently-worded discount (*"none possessed a reducing science … that would have made a reduction verdict a live option to begin with"*, plus *"unanimity among investigators who lacked the reducing apparatus cannot by itself settle the question"*). Four of five members discount their own best evidence in the paragraph that presents it; this one does not.
-  **The locus.** The Tenet 5 paragraph (L109) ends: *"If some features of consciousness are accessible only through practice, then a philosophy of mind that ignores contemplative evidence—however parsimonious—is incomplete."* No one-instrument caveat, no illusionist accommodation, no physicalist alternative reading. It opens with *"directly challenges"*.
-  **Why this is a content issue and not a tone issue.** `positions/methodology-and-calibration` **P-M2** holds that a convergence is *a single observation read N times until a distinguishing test passes*, and `positions/arguments-for-dualism` **P-D3** applies exactly that to this wing. The paragraph as written diverges from a live position. (This is NOT a request to add a position citation — the 2026-08-19 wing review verified that the register routes citations downward, register-to-article, and declined that recommendation. Do not relitigate it. The issue is the claim, not the citation.)
-  **The correcting wording already exists verbatim** at `the-hard-problem-in-non-western-philosophy` L159 / `buddhist-perspectives-on-meaning` L157: *"Depth does not multiply weight, though: all introspection shares one instrument, so this is one observation examined many times."* ~22 words against 1091 of headroom.
-  **Low risk**: the same article's Tenet 1 paragraph is the best-calibrated paragraph in the wing (*"The alignment is coherence rather than independent corroboration…"*, naming the shared Neoplatonist channel, the physicalist rival reading and the tradition's internal division). The file demonstrably owns this discipline and simply did not reach this paragraph. Use its own Tenet 1 as the in-file model.
-  **Optional, same edit, very low value**: L103 (Tenet 2) says *"the structural parallel … is suggestive"* where both siblings say *"thematic, not mechanistic"*. A one-word alignment if the executor is already in the file; not worth a separate pass.
-
 ### P3: `topics/cross-cultural-phenomenology-of-agency` covers three of five tenets and is the only wing member with no Map-voice preamble on its tenet section
 
 - **Type**: refine-draft
@@ -1827,6 +1811,17 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-21: `concepts/islamic-sufi-philosophy-of-consciousness` Tenet 5 is the wing's only undiscounted contemplative-evidence argument, and it asserts what P-M2 exists to discount
+- **Type**: refine-draft
+- **File**: obsidian/concepts/islamic-sufi-philosophy-of-consciousness.md
+- **Notes**: **The last undiscounted instance of this argument in the wing. Measured, not impressionistic.**
+  `grep -oiF "one instrument"` returns **0** in `islamic-sufi-philosophy-of-consciousness.md` and **1** in each of `topics/the-hard-problem-in-non-western-philosophy` (L159), `topics/buddhist-perspectives-on-meaning` (L157) and `topics/cross-cultural-phenomenology-of-agency` (L91). `topics/indian-philosophy-of-mind` carries an equivalent but differently-worded discount (*"none possessed a reducing science … that would have made a reduction verdict a live option to begin with"*, plus *"unanimity among investigators who lacked the reducing apparatus cannot by itself settle the question"*). Four of five members discount their own best evidence in the paragraph that presents it; this one does not.
+  **The locus.** The Tenet 5 paragraph (L109) ends: *"If some features of consciousness are accessible only through practice, then a philosophy of mind that ignores contemplative evidence—however parsimonious—is incomplete."* No one-instrument caveat, no illusionist accommodation, no physicalist alternative reading. It opens with *"directly challenges"*.
+  **Why this is a content issue and not a tone issue.** `positions/methodology-and-calibration` **P-M2** holds that a convergence is *a single observation read N times until a distinguishing test passes*, and `positions/arguments-for-dualism` **P-D3** applies exactly that to this wing. The paragraph as written diverges from a live position. (This is NOT a request to add a position citation — the 2026-08-19 wing review verified that the register routes citations downward, register-to-article, and declined that recommendation. Do not relitigate it. The issue is the claim, not the citation.)
+  **The correcting wording already exists verbatim** at `the-hard-problem-in-non-western-philosophy` L159 / `buddhist-perspectives-on-meaning` L157: *"Depth does not multiply weight, though: all introspection shares one instrument, so this is one observation examined many times."* ~22 words against 1091 of headroom.
+  **Low risk**: the same article's Tenet 1 paragraph is the best-calibrated paragraph in the wing (*"The alignment is coherence rather than independent corroboration…"*, naming the shared Neoplatonist channel, the physicalist rival reading and the tradition's internal division). The file demonstrably owns this discipline and simply did not reach this paragraph. Use its own Tenet 1 as the in-file model.
+  **Optional, same edit, very low value**: L103 (Tenet 2) says *"the structural parallel … is suggestive"* where both siblings say *"thematic, not mechanistic"*. A one-word alignment if the executor is already in the file; not worth a separate pass.
 
 ### ✓ 2026-09-21: `topics/the-hard-problem-in-non-western-philosophy` Tenet 3 counts Buddhist karma as support for Bidirectional Interaction — the wing's own Buddhist article says it cannot be
 - **Type**: refine-draft

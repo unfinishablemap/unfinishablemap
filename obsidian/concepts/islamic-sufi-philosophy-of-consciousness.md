@@ -4,7 +4,7 @@ description: "From Avicenna's Flying Man to Sufi phenomenology of fana, Islamic 
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-09-17T13:08:26+00:00
+ai_modified: 2026-09-21T09:23:39+00:00
 draft: false
 topics:
   - "[[the-hard-problem-in-non-western-philosophy]]"
@@ -106,7 +106,7 @@ This section is the Map's own interpretation and should not be read back into th
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Islamic philosophy's emphasis on the unity of the individual soul—its particular trajectory through the nafs stages, its unique relationship to God—gives each consciousness a singular destiny that matters. That concern is soteriological, not metaphysical indexicality: the tradition never addressed branching observers, so it neither refutes nor supports many-worlds interpretations. Its resonance with the Map's insistence that indexical identity is philosophically significant is thematic coherence, not an argument for the tenet.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Al-Ghazālī's argument that contemplative knowledge (*ma'rifa*) is irreducible to propositional knowledge (*'ilm*) directly challenges the assumption that the simplest theoretical framework captures all relevant truths. If some features of consciousness are accessible only through practice, then a philosophy of mind that ignores contemplative evidence—however parsimonious—is incomplete.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Al-Ghazālī's argument that contemplative knowledge (*ma'rifa*) is irreducible to propositional knowledge (*'ilm*) directly challenges the assumption that the simplest theoretical framework captures all relevant truths. If some features of consciousness are accessible only through practice, then a philosophy of mind that ignores contemplative evidence—however parsimonious—is incomplete. The appeal earns less than it appears to, though: that evidence arrives entirely through introspection, and all introspection shares one instrument, so centuries of disciplined practice examine one observation many times rather than assembling independent witnesses. A physicalist can also grant the *ma'rifa*/*'ilm* difference while reading it as a difference in the mode of access rather than in what is accessed.
 
 The Map's productive tension with this tradition centres on Mulla Sadra and Ibn 'Arabī. Mulla Sadra's processual ontology challenges whether static substance dualism is the right framework: perhaps consciousness and matter are grades of being rather than separate substances. Ibn 'Arabī's unity of being pushes further toward idealism. The Map maintains its interactionist dualism while acknowledging that these challenges sharpen its commitments and identify genuine alternatives.
 
