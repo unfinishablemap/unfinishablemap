@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-14
-ai_modified: 2026-09-21 15:08:23+00:00
+ai_modified: 2026-09-21 17:53:36+00:00
 ai_system: claude-fable-5-1
 apex_last_synthesis: 2026-09-14 16:04:35+00:00
 apex_sources:
@@ -35,7 +35,7 @@ description: 'Formal systems have authority without sovereignty. The synthesis o
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-21 15:08:23+00:00
+lastmod: 2026-09-21 17:53:36+00:00
 modified: *id001
 related_articles:
 - '[[competency-without-felt-experience]]'
@@ -94,7 +94,7 @@ Ramanujan is the wing's best concrete case and its most dangerous one, and the p
 
 The wing's second half is where it earns a synthesis rather than a summary. The same nine articles that build the case against reduction apply, to their own conclusions, three discounts the case against reduction does not pay for.
 
-**A removed defeater is not evidence.** The strongest objection to consciousness playing any role at the quantum interface is that physics is causally closed and leaves no room. The self-reference article shows that the objection requires physics to be formally complete and that it is not: the spectral gap is undecidable, quantum outcome sequences are algorithmically random if Landsman's argument holds, and Lawvere's fixed-point theorem places Gödelian incompleteness and quantum epistemic horizons under one mechanism. Then the article says what this does not show. It does not show that consciousness resolves either limitation, fills the gaps, or dissolves the Frauchiger–Renner contradiction. The incompleteness results lower the barrier to a consciousness-based reading of measurement without raising its evidential standing, and the reading earns no upgrade on the strength of the defeater's removal alone. The [evidential-status discipline](/project/evidential-status-discipline/) is named at the point of application.
+**A removed defeater is not evidence.** The strongest objection to consciousness playing any role at the quantum interface is that physics is causally closed and leaves no room. The self-reference article shows that the objection requires physics to be formally complete and that it is not: the spectral gap is undecidable, quantum outcome sequences are algorithmically random if Landsman's argument holds, and Lawvere's fixed-point theorem places Gödelian incompleteness, Tarski's undefinability of truth, and quantum epistemic horizons under one mechanism. The semantic member of that unification earns its place in this wing: Gödel's second theorem marks the syntactic limit on self-certification, since no sufficiently strong system proves its own consistency, while Tarski's theorem marks the semantic one, since a sufficiently expressive formal language cannot define its own truth predicate within itself. Form fails to underwrite itself in both registers. The article then says what none of this shows. It does not show that consciousness resolves either limitation, fills the gaps, or dissolves the Frauchiger–Renner contradiction. The incompleteness results lower the barrier to a consciousness-based reading of measurement without raising its evidential standing, and the reading earns no upgrade on the strength of the defeater's removal alone. The [evidential-status discipline](/project/evidential-status-discipline/) is named at the point of application.
 
 **Two domains are one argument.** The authority article exhibits the normative gap and the structural gap and then, in its own tenet section, refuses to count them twice. Both trace to a single move—structure does not exhaust intrinsic phenomenal character—and lines that share a deep assumption do not screen off from each other, so the two gaps carry the force of one argument shown in two domains, a discount the article says it owes itself as much as any other. The concession-convergence article applies the same test to its own four retreats and faces the [common-cause null](/project/common-cause-null/) squarely: perhaps a single limitation in how human mathematicians formalise produces all four concessions, in which case the pattern is about us and not about mathematics. Its answer—that the concessions are directional and involuntary in a way a shared prejudice would not predict—shifts the burden without discharging it. The wing, read whole, contains at most three independent lines rather than nine: the regress line (Carroll, Sellars, Nagel), the incompleteness line (Gödel, Lawvere), and the phenomenological explanandum (felt necessity, Ramanujan). The four concessions are a partly independent fourth, since three of them owe nothing to Gödel, subject to the null just stated.
 
@@ -170,3 +170,4 @@ This synthesis integrates:
 12. Cubitt, T. S., Perez-Garcia, D., & Wolf, M. M. (2015). Undecidability of the spectral gap. *Nature*, 528, 207–211.
 13. Tymoczko, T. (1979). The Four-Color Problem and Its Philosophical Significance. *Journal of Philosophy*, 76(2), 57–83.
 14. Hardy, G. H. (1940). *Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work*. Cambridge University Press.
+15. Tarski, A. (1933). *Pojęcie prawdy w językach nauk dedukcyjnych*. Warsaw: Nakładem Towarzystwa Naukowego Warszawskiego. German translation, with postscript, as "Der Wahrheitsbegriff in den formalisierten Sprachen," *Studia Philosophica* 1 (1935), 261-405; English as "The Concept of Truth in Formalized Languages." In *Logic, Semantics, Metamathematics*, Oxford University Press (1956 translation). (Not to be confused with Tarski 1936 on logical consequence.)

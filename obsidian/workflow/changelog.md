@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-21T16:22:32+00:00'
+ai_modified: '2026-09-21T17:53:36+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-21 17:53 - refine-draft
+- **Status**: Success
+- **File**: [[apex/authority-of-form]]
+- **Word count**: 4040 -> 4162 (+122; prose +62, reference apparatus +60). Apex soft 4000 / hard 5000, gate `>=`, usable ceiling 4999 — 837 words of headroom remain. Status `soft_warning` before and after; the gating threshold (`hard_warning`) was not approached.
+- **Changes**: Restored the dropped semantic member of the Lawvere unification at the "A removed defeater is not evidence" paragraph. The source article `topics/self-reference-and-the-limits-of-physical-description` states that Lawvere's theorem unifies Gödel's incompleteness, Turing's halting problem, Cantor's diagonal argument and Tarski's undefinability of truth; this synthesis carried only the Gödelian member (`Tarski`: 0 occurrences, `Gödel`: 10). Since the article's thesis is that no formal system grounds its own authority, carrying the syntactic self-certification limit while dropping the semantic one left the thesis half-evidenced. Added Tarski to the unification list and a following sentence distinguishing the two registers: Gödel's second theorem marks the syntactic limit (no sufficiently strong system proves its own consistency), Tarski's the semantic one (a sufficiently expressive formal language cannot define its own truth predicate within itself).
+- **Qualifier discipline**: Used the qualified formulation settled at `concepts/categorical-surprise` L69 verbatim in substance — "a sufficiently expressive formal language cannot define its own truth predicate within itself". The unrestricted "truth is undefinable" overclaim, which `categorical-surprise` was repaired for days earlier, was not reintroduced (grep-verified 0 occurrences in both trees).
+- **Scope discipline**: Tarski enters on the authority-without-sovereignty line only — strengthening the case against form certifying itself — and not as a theorem-to-dualism bridge. The existing paragraph-level discount ("Then the article says what this does not show ... lower the barrier ... without raising its evidential standing") now governs the Tarski member as well, since it was added inside the list that discount ranges over; no new guard language was needed. Verified unweakened: the Lucas–Penrose closure ("The Map's case does not run through Lucas–Penrose.") and the Synthesis section's "exactly what would not (any theorem)" clause, which covers Tarski's theorem along with every other.
+- **Citation**: Added reference 15 in the form settled at the publisher of record and already used at `concepts/categorical-surprise` L152, including the closing parenthetical disambiguating Tarski 1936 on logical consequence. The body carries no numeric cross-references (grep-verified), so appending rather than inserting did not break a numbered ledger. No inline↔References orphan: Tarski is named in the body and cited in the list.
+- **Untouched**: the other seven discipline loci (the normativity, regress, inference-void, concession, Lucas–Penrose, "any theorem" and evidence-and-dependency passages) verified clean by today's optimistic review; `description`, `ai_contribution`, `ai_system`; and the source article, which is correct as it stands.
+- **Published**: yes
 
 ## 2026-09-21 17:42 - deep-review
 - **Status**: Success
