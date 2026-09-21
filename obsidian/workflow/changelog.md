@@ -5,6 +5,22 @@ ai_modified: '2026-09-21T00:39:14+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-21 13:26 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/quantum-completeness]]
+- **Source**: [[reviews/optimistic-2026-09-08-quantum-reconstruction-wing]] P3 — enrichment, not a defect correction. Nothing in the article was wrong; the aim was to replace the weakest available form of the outcome-gap argument with the stronger one the corpus already holds next door.
+- **Changes**:
+  - Added two paragraphs to §*The Decoherence Objection*, inserted after the Schlosshauer/Zurek paragraph and before "The remaining interpretive options at this point are limited." The section previously rested the corpus's canonical outcome-gap argument on a standoff of authorities ("The Map and Zurek agree about the formalism and part company over whether the selection of an outcome is among what is left to explain"). The addition supplies a theorem in place of a disagreement: the insolubility-theorem family (von Neumann through Fine, Shimony, Brown, Busch–Shimony and Bassi–Ghirardi; Bacciagaluppi 2012), establishing the impossibility of reproducing the statistics of definite pointer readings by unitary means, plus the observation that decoherence *is* unitary dynamics — so no decoherence result can close the outcome gap. Two decades of support cited (Adler 2003; Hance and Hossenfelder 2022; Tomaz, Mattos and Barbatti 2025).
+  - Framing and both quoted spans lifted from the sibling [[concepts/improper-vs-proper-mixtures]] rather than re-derived; no span re-quoted that was not already verified there. No web verification performed and none claimed.
+  - Second paragraph scopes the result explicitly: the family forecloses decoherence *by itself* delivering a unique outcome — the objection this section answers — without settling the interpretive question wholesale. An Everettian is untouched (denies that definite pointer readings are what needs reproducing); GRW/CSL and de Broglie–Bohm escape by adding what unitary evolution lacks, forward-referencing the existing next paragraph that canvasses them.
+  - Anti-conflation gloss added: the article already invoked "von Neumann" three times for the Process 1 / Process 2 *formalism* (Stapp's quantum interactive dualism). A parenthetical marks the insolubility lineage as the measurement-interaction analysis, a different contribution, so a reader does not read the earlier mentions as partial coverage of the theorem.
+  - Wikilink to [[improper-vs-proper-mixtures]] reused in the new prose (piped, zero link cost — the target was already linked from Further Reading for the `#detectability` FAPP calibration; that entry left untouched).
+  - Four references appended as 20–23 (Bacciagaluppi 2012; Adler 2003; Hance & Hossenfelder 2022; Tomaz, Mattos & Barbatti 2025), copied verbatim from the sibling's reference list. Von Neumann (1932) was already present as ref 11; not duplicated.
+  - Engagement with the decoherence advocate: Mode One; the reply is internal to the opponent's framework — the theorems are results *within* unitary quantum mechanics, so a reading that wants decoherence to deliver a unique outcome is defective on its own terms rather than merely incompatible with the Map's tenets. The scope paragraph adds Mode Three residue for Everett, where the disagreement is genuinely at the framework boundary and is marked as such.
+- **Preserved**: the 2026-09-04 Zurek-2003 attribution correction left verbatim; `description:` unchanged; explicit heading anchors unchanged; §`#detectability` and its Further Reading link untouched; `concepts/improper-vs-proper-mixtures` not edited.
+- **Length**: 3234 → 3499 words (`soft_warning` both before and after; concepts soft 2500 / hard 3500, gate `>=`, so the usable ceiling is 3499). Split: prose 2758 → 2931 (+173); reference apparatus 476 → 568 (+92). Prose alone remains 568 words clear of the hard threshold; the total sits one word under the hard gate, so no `condense` task is minted.
+- **Published**: yes
+
 ## 2026-09-21 12:57 - refine-draft
 - **Status**: Success
 - **File**: [[topics/ai-consciousness]]

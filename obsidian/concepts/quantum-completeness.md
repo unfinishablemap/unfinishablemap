@@ -4,7 +4,7 @@ description: "Quantum mechanics is 'partial but complete': structurally exhausti
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-09-20T23:10:13+00:00
+ai_modified: 2026-09-21T13:26:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -75,6 +75,10 @@ Decoherence and quantum Darwinism are genuine achievements. They explain *which 
 
 That the gap survives is not a controversial reading of the formalism, though whether it counts as a shortfall is contested. Schlosshauer's comprehensive review draws the line: decoherence achieves the transition from a quantum superposition to a classical *mixture* but not the further transition from mixture to definite outcome (Schlosshauer 2007). Zurek does not concede a shortfall here — his 2003 review treats einselection, together with his existential interpretation, as accounting for the perception of a unique outcome, and singles out the derivation of the Born rule as the major gap that remains once that account is granted (Zurek 2003). The Map and Zurek agree about the formalism and part company over whether the selection of an outcome is among what is left to explain. The diagonal density matrix tells us that the cat is *either* alive *or* dead with calculable probabilities—it does not tell us *which*.
 
+The Map's side rests on more than that standoff. A family of results treated at [[improper-vs-proper-mixtures|improper vs. proper mixtures]] — descending from von Neumann through Fine, Shimony, Brown, Busch–Shimony and Bassi–Ghirardi, and "collectively known in the foundations literature as 'insolubility theorems' for the measurement problem" (Bacciagaluppi 2012) — establishes "the impossibility of reproducing (the statistics of) definite pointer readings" by unitary means. (That von Neumann result is the measurement-interaction analysis, not the Process 1/2 decomposition used [above](#process-1).) Decoherence *is* unitary dynamics, Schrödinger evolution of system-plus-environment with nothing non-unitary added, so no decoherence result can deliver what the theorems prove unitary evolution cannot — a point pressed across two decades (Adler 2003; Hance and Hossenfelder 2022; Tomaz, Mattos and Barbatti 2025).
+
+Keep the reach precise: the family forecloses the hope that decoherence *by itself* yields a unique outcome, the objection this section answers, without settling the interpretive question wholesale. An Everettian is untouched, denying that definite pointer readings are what needs reproducing, and the rivals canvassed next escape by adding what unitary evolution lacks.
+
 The remaining interpretive options at this point are limited. Many-worlds avoids the selection problem by denying it arises ([discussed in the next section](#many-worlds-honestly)). Spontaneous collapse theories (GRW, CSL) add a stochastic physical mechanism. Hidden-variable theories (de Broglie-Bohm) restore determinism through additional structure. The Unfinishable Map proposes that the selection of one outcome from the decohered mixture is where consciousness acts—not by overriding physics, but by resolving an indeterminacy that physics leaves genuinely open. The proposal is *empirically indistinguishable from chance* under any *unconditioned aggregate* test current or foreseeable instruments could run — consciousness-selection within Born probabilities reproduces the statistics of random collapse — though a deviation *conditioned* on intention, task or subject remains live ([[positions/quantum-interface#^mechanism-debt|P-Q3]]). That silence is local to the *unconditioned* aggregate marginal and is not a global unfalsifiability shield: preservation binds that marginal only and leaves the conditionals free, so positive residue remains on three channels — the *conditional-statistical* one just named, which the register grades open exposure rather than banked support because its one coarse grain has run null (the preregistered intention-to-RNG tests of Maier et al. 2018) while the finer grains stay untested, together with the mechanism-level and psychophysical channels ([[positions/quantum-interface#^p-q9|P-Q9]]).
 
 ## Many-Worlds, Honestly {#many-worlds-honestly}
@@ -141,3 +145,7 @@ The **Occam's Razor Has Limits** tenet cautions against preferring simpler expla
 17. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology*, 9, 379.
 18. Emerson, J., Serbin, D., Sutherland, C., & Veitch, V. (2013). The whole is greater than the sum of the parts: on the possibility of purely statistical interpretations of quantum theory. arXiv:1312.1345 [quant-ph]. https://doi.org/10.48550/arXiv.1312.1345
 19. Fuchs, C. A. (2017). Notwithstanding Bohr, the Reasons for QBism. *Mind and Matter*, 15(2), 245–300.
+20. Bacciagaluppi, G. (2012). Insolubility Theorems and EPR Argument. *European Journal for Philosophy of Science*, 3, 87–100. philsci-archive.pitt.edu/9121.
+21. Adler, S. L. (2003). Why decoherence has not solved the measurement problem: a response to P.W. Anderson. *Studies in History and Philosophy of Modern Physics*, 34(1), 135–142. arXiv:quant-ph/0112095.
+22. Hance, J. R. & Hossenfelder, S. (2022). What does it take to solve the measurement problem? *Journal of Physics Communications*, 6, 102001. arXiv:2206.10445.
+23. Tomaz, A. A., Mattos, R. S. & Barbatti, M. (2025). The Quantum Measurement Problem: A Review of Recent Trends. arXiv:2502.19278.
