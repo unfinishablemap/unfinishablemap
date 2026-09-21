@@ -4,7 +4,7 @@ description: "When expectation fails not at the level of prediction but at the l
 created: 2026-02-15
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-09-21T05:23:19+00:00
+ai_modified: 2026-09-21T05:40:29+00:00
 draft: false
 topics:
   - "[[surprise-prediction-error-and-consciousness]]"
@@ -17,6 +17,8 @@ concepts:
   - "[[temporal-consciousness]]"
   - "[[cognitive-phenomenology]]"
   - "[[metacognition]]"
+  - "[[phenomenal-concepts-strategy]]"
+  - "[[illusionism]]"
 related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-anticipation]]"
@@ -91,6 +93,10 @@ Categorical surprise provides a specific test case for the [[explanatory-gap]] (
 If consciousness is what enables framework transcendence—the capacity to recognise and reorganise one's own representational boundaries—then categorical surprise is consciousness caught in the act. It is one of the more vivid pieces of evidence for irreducible [[phenomenal-consciousness]], because the phenomenal character (vertigo, free-fall, the click of new understanding) correlates with a cognitive achievement (framework revision) that has no adequate computational account.
 
 Vividness is not independence, and keeping the two apart prices the claim. This case presses the same gap between phenomenal character and computational description that the [[philosophical-zombies|zombie argument]], Mary's Room and the [[explanatory-gap]] press, so it sits inside that cluster rather than alongside it, and the standing discount registered at P-D1 applies: a member of a premise-sharing catalogue contributes little more than the strongest member of its cluster, however striking its presentation. Nor does the correlation adjudicate between the Map's reading and an epiphenomenalist one on which the vertigo accompanies the revision without accomplishing it. What the correlation establishes is that the two reliably go together and that no computational account of the pairing is currently on offer. Which of them explains the other is settled, if it is settled anywhere, by the argument from Bidirectional Interaction below—not by the phenomenology on its own.
+
+Two standard physicalist replies survive that discount. The [[phenomenal-concepts-strategy|phenomenal concepts strategy]] grants the vertigo and the click and puts the puzzle in the concepts under which they are grasped, so the epistemic situation described here follows with no ontological conclusion attached. The Map concedes that this blocks any direct inference from felt discontinuity to non-physical work, and presses instead the dilemma set out on that page: whatever makes such concepts special is either physically explicable, in which case a zombie undergoing framework collapse reports the same vertigo and our case goes unexplained, or it is not, in which case the gap reopens one level down.
+
+[[illusionism]] is a separate move the concession does not absorb, since it denies there is any phenomenal referent for such a concept to present: the vertigo and the click become functionally specifiable metacognitive signals—with the neural signatures the Map's [[creative-consciousness#The Phenomenology of Creative Insight|treatment of insight]] documents—that introspection misreports as qualitative. Against that reading this case argues nothing, its premise being what is denied. The disagreement sits at a framework boundary and is marked as one here; the in-framework pressure the Map does apply to illusionism is developed on that page.
 
 ## Relation to Site Perspective
 
