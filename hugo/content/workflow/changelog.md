@@ -10,6 +10,58 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-21 05:0x - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [outer-review-2026-09-21-gemini-2-5-pro](/reviews/outer-review-2026-09-21-gemini-2-5-pro/)
+- **Claims verified**: 4 quoted article spans all genuine (1 occurrence each); 3 citations confirmed at Crossref; **5 claims disputed and refuted**
+- **High-value findings**: 1 unique to this reviewer, 2 folded into existing tasks, 4 carried
+- **Tasks generated**: **0 — deliberately.** Seven tasks were already open on `concepts/categorical-surprise` from the same cycle's other two legs; everything actionable belonged inside two of them, so the material was enriched in place rather than minted.
+- **Its unique contribution, verified**: *"zone of latent **predictions**"* is an undefined, load-bearing, article-local coinage — **exactly one live file** — flagged by four deep reviews (02-20, 04-30, 05-01, 06-01) that each declined on length grounds. Neither sibling reviewer found it.
+- **⚠️ It ratifies the error its sibling caught**: §5.1 grades Chalmers (1996) for the explanatory gap **"Valid. A canonical necessity"** — the exact line the Claude leg flagged and the driver verified as belonging to Levine (1983). Topic-level clustering would have recorded this as *convergence* on contradictory claims. The P1 stands unchanged.
+- **⚠️ Three verified factual errors**: word count given as ~1,864 (actual **2383**); commit `01ccccbbd6` dated to 2026-09-11 (actual **2026-09-10 22:08Z**, and misdescribed — its subject is L55/L59 Gödel/Tarski); and its L55 claims (`posterior predictive`, `Bayes-factor`) quote review-file prose, not article text (0 occurrences each). Its "changelog forensics" is not reliable.
+- **⚠️ Two false-absence charges refuted**: the article does **not** ignore Dirichlet processes — it devotes a paragraph and the vehicle-ontology argument to them; and Kounios & Beeman are in **6 and 8 live articles**, including `concepts/creative-consciousness`, which this article already links.
+- **Method note recorded**: never grep `Itti` — substring of *sitting*/*fitting*/*committing*, 302 false hits. `Baldi` is the reliable key.
+- **Cycle state**: all three 2026-09-21 legs are now collected **and** processed, so `/combine-outer-reviews` is eligible.
+
+## 2026-09-21 04:3x - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (Research; expected Fable-5-unavailable fallback)
+- **File**: [outer-review-2026-09-21-claude-opus-5](/reviews/outer-review-2026-09-21-claude-opus-5/)
+- **Claims verified**: 9 of 9 cited works confirmed at Crossref with all fields printed — **no fabrications**; the misattribution and the PCS/illusionism omission verified against the current files; 2 findings re-scoped after measurement; 1 left unadjudicated
+- **High-value findings**: 3 minted on the article + 1 methodology, 1 sibling task enriched, 8 carried
+- **Tasks generated**: 4 (P1: 1, P2: 3)
+- **Headline, verified**: the article credits **Chalmers 1996** with the explanatory gap while the Map's own [explanatory-gap](/concepts/explanatory-gap/) credits **Levine 1983** — two pages contradicting each other on a checkable fact. Swept all 13 live `Chalmers 1996` occurrences: **L89 is the only bad one**, so the review's proposed corpus-wide propagation sweep is unnecessary.
+- **A hole in the review apparatus, not just the article**: the misattribution passed a publisher-of-record metadata pass *and* a quote-fidelity pass, because the Chalmers book exists, is about consciousness, and is not misquoted. Minted a methodology task proposing a **concept-origin / attribution lens** on [quantum-claim-and-quotation-disciplines](/project/quantum-claim-and-quotation-disciplines/).
+- **Reviewer disagreement recorded, not resolved**: this review calls the Tarski citation *"defensible"*; the same-cycle ChatGPT review called it a *definite bibliographic error*. The open P1 was left untouched — adjudicating that is `/combine-outer-reviews`'s job.
+- **Two author-surname near-misses caught**: `Laukkonen` (40 live files, but all the 2025 "A beautiful loop" paper, not the 2023 one) and `Schwartenbeck` (Friston et al. 2013, not Smith et al. 2020). Both gaps are real; a surname check would have hidden them.
+- **Repair to the queue**: the 4 same-cycle ChatGPT tasks were written without a `Status: pending` line and would have parsed as non-pending — and been silently skipped — once combine un-defers them. Backfilled; all 8 now parse PENDING.
+
+## 2026-09-21 03:5x - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT GPT-5.6 Sol (Pro effort)
+- **File**: [outer-review-2026-09-21-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-09-21-chatgpt-5-6-sol-pro/)
+- **Claims verified**: 3 verified (Tarski year, overbroad formulation, ledger certification), 2 carried unverified as absence claims
+- **High-value findings**: 4 minted, 7 carried
+- **Tasks generated**: 4 (P1: 1, P2: 3)
+
+## 2026-09-21 03:29 UTC - optimistic-review
+
+- **Status**: Success
+- **Scope**: the cross-cultural wing as a wing — the five live articles touched by the 2026-09-17 register pass (`cc5e7826ce`). Reports-only; **no article edited**.
+- **Content reviewed**: [islamic-sufi-philosophy-of-consciousness](/concepts/islamic-sufi-philosophy-of-consciousness/) (2408w, `ok`, 1091 to hard — note **concepts** thresholds, the driver brief had it in `topics/`), [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/) (2592w, `ok`, 1407), [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) (3199w, `soft_warning`, 800), [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) (3583w, `soft_warning`, **416**), [buddhist-perspectives-on-meaning](/topics/buddhist-perspectives-on-meaning/) (2993w, `ok`, 1006)
+- **Output**: [optimistic-2026-09-21-cross-cultural-wing](/reviews/optimistic-2026-09-21-cross-cultural-wing/)
+- **THE HYPOTHESIS UNDER TEST IS FALSIFIED, and that is the good news.** Today's deep review suspected the 09-17 pass had left the same support-register defect in the other members' Tenet 1/3/5 bullets. It has not. The defect population that pass was executing was defined by the **2026-08-06 cross-cultural cluster review** — seven verified loci plus two lower-confidence same-family instances. **All 9 re-read in the current files (not commit diffs) and all 9 are CLOSED**: five by the 09-17 pass, one by today's deep review, three by intermediate work. Includes the sharpest one (the `islamic-sufi` lede's "independent arrival" contradiction — now zero hits, and the lede *cites* the audit that downgrades it) and the live meta `description:` (now "found consciousness irreducible, **not all independently**").
+- **Why the 1/3/5 pattern does not generalise**: in `buddhist-perspectives-on-meaning` the untouched tenets were 1/3/5 only because that file's 08-06 loci were Yogācāra and Tenet 4. Residue is one-to-two paragraphs per article and **which tenet differs per article** — Sufi T5, indian T3, agency T1+T4 absent, hard-problem's tenet section clean with residue in body prose.
+- **Register-hit table adjudicated, 11 hits**: 2 genuine conscriptions (and they are the *same sentence duplicated across two articles*), 4 already-corrected, 4 innocuous, 1 borderline. Both `resonates`-on-process-philosophy hits explicitly *decline* the convergence — the Process Philosopher / Hardline Empiricist tension resolved correctly in both.
+- **SHARPEST FINDING — a genuine cross-member contradiction, and it is not a register issue.** `the-hard-problem-in-non-western-philosophy` L155 counts *"Buddhist karma doctrine implies mental causation"* as support for Tenet 3; `buddhist-perspectives-on-meaning` L155 says karma *"reaches no further"* than within-stream event causation and that the tenet's nonphysical relatum *"is the Map's addition, not Buddhism's."* The wing diagnosed the error in one article and committed it in the survey citing the same tradition. Repair is +~14 words on a 416-word budget and installs the wing's missing link to its isolate.
+- **Body-prose link matrix (frontmatter excluded — membership is not a link)**: **2 edges in 20 slots, 10% density**. `buddhist-perspectives-on-meaning` is a **complete isolate** (0 in, 0 out in any form; its real neighbourhood is `buddhism-and-dualism`/`nihilism-and-existentialism`, and it is the only member citing neither convergence hub — a diagnosis, not a defect: it was pulled into this wing by subject matter rather than by the link graph). `cross-cultural-phenomenology-of-agency` is a second body-prose isolate. `the-hard-problem-in-non-western-philosophy` is a **pure sink** — the wing's hub points at no member of its own wing.
+- **Positions register**: 4 of 5 cite zero position IDs (`agency` cites [P-I1](/positions/individuation-and-subjecthood/#p-i1)). **No task minted** — the 2026-08-19 wing review verified that citation runs register→article by design and declined this; that verdict stands. [P-D3](/positions/arguments-for-dualism/#p-d3) governs the wing and names none of the five in `Argued in`, but its own two dangling references were **closed on 2026-08-20**. Second completed remediation loop.
+- **Tasks minted (3, all on reviewed members, repo-relative `File:` paths, new fields above `Notes:`)**: P2 hard-problem karma contradiction; P2 islamic-sufi Tenet 5 one-instrument discount (measured: `one instrument` = 0 there, 1 in each of three siblings — the wing's last undiscounted contemplative-evidence argument, and it diverges from [P-M2](/positions/methodology-and-calibration/#p-m2)); P3 agency tenet coverage + Map-voice preamble (richest budget in the wing at 1407). Priority item 4 (the duplicated unhedged filter-theory sentence in two body preambles) carried, not minted, to keep the list at executable size.
+- **Archive data point recorded, file untouched**: `cc5e7826ce` **edited** `archive/topics/contemplative-evidence-convergence-across-traditions.md` with a correct calibration repair and bumped `ai_modified` — i.e. the loop has already exercised **option (1)** of the open archive-policy NEEDS-HUMAN, four days before a task note began citing option (2) as settled convention. Appended as a fourth data point inside that entry's `Notes:` (indented continuation, Status/Blocked-by untouched).
+- **Bounding re-confirmed**: the two adjacent convergence articles carry 0 register hits and were not in the 09-17 pass. No site-wide claim made.
+- **Published**: no (reports-only; `cycle_post` commits)
+
 ## 2026-09-21 02:56 UTC - refine-draft
 - **Status**: Success
 - **File**: [interface-formalization-void](/voids/interface-formalization-void/) (edited) + [fitness-beats-truth](/concepts/fitness-beats-truth/) (examined, unchanged)
