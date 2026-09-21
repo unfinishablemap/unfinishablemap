@@ -1769,13 +1769,12 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **Natural host**: near L39 or L103, both of which already do the "the dispute turns on a prior judgement rather than further data" work. `[[apophatic-approaches|...]]` piped into existing text costs ~0 words ([[piped-wikilink-installs-a-reciprocal-at-zero-word-cost]]) — check this article's length headroom first, it is a long topic article.
   **Bare slug is correct here**: `[[apophatic-approaches]]` resolves to the live concept despite the `archive/voids/` stem collision (verified against built output 2026-09-20). Do not path-qualify it.
 
-### P2: `voids/amplification-void` falsifier section — four items reduce to ~1.5, no negative-state stated, and the 2026-03-10 "#4 imprecise" deferral has been open 195 days
+## Completed Tasks
+
+
+### ✓ 2026-09-21: `voids/amplification-void` falsifier section — four items reduce to ~1.5, no negative-state stated, and the 2026-03-10 "#4 imprecise" deferral has been open 195 days
 - **Type**: refine-draft
 - **File**: obsidian/voids/amplification-void.md
-- **Status**: pending
-- **Source**: pessimistic-review
-- **Review file**: `reviews/pessimistic-2026-09-21-amplification-void.md`
-- **Generated**: 2026-09-21
 - **Notes**: §What Would Challenge This View? is the article's entire falsifiability discharge — the §A Self-Protecting Void? rebuttal leans on it explicitly ("The tenet is falsifiable (see the challenges in the following section)"). It cannot currently bear that weight.
   **(a) New lens — the three negative states.** `obsidian/project/writing-style.md` L441 adopted the falsifier-section discipline on **2026-08-18**, after all four deep reviews of this article (03-10, 05-26, 06-09, 07-19). It requires the prose to say, for each listed falsifier, which of three states it is in — nothing has come in / a live countermodel stands / evidence too thin to decide — and to calibrate the summary to the weakest state present. Measured: `unresolved`, `untested`, `unrefuted`, `countermodel`, `too thin`, `none has` → **0 occurrences each**. By the discipline's own rule the honest summary is *unrefuted and untested*.
   **(b) #1 and #3 are one falsifier.** #1 (trace a pathway experimentally) and #3 (the minimality constraint relaxes) are the empirical and framework faces of the same proposition. #1 is additionally the operation the article declares impossible two paragraphs earlier ("What cannot happen is tracing the amplification chain while the minimality condition holds"). The corpus discipline is at `concepts/episodic-memory` L166: "naming a falsifier the article's own defence absorbs would be decorative." Merge to one item and name its class — #3 as written ("turns out to be larger than minimal") reads as an empirical return but is a framework revision; an experiment cannot return "your tenet is relaxed".
@@ -1783,9 +1782,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **(d) #4 is invalid on the Map's own commitments, and this is a re-flag of a deferral.** "AI fully replicates human cognition without quantum processes → whatever consciousness contributes to cognition does not require quantum amplification" holds only if the conscious contribution is exhausted by cognitive-functional output — the functionalist premise **Tenet 1 (Dualism) denies**. The 2026-03-10 deep review recorded it verbatim: "**Empiricist**: Challenge #4 (AI replication) is imprecise. **Deferred — minor issue.**" The 05-26, 06-09 and 07-19 reviews did not carry it forward. Repair it, or omit it and name it as omitted with the reason, per the episodic-memory discipline.
   **(e) Repoint the rebuttal.** The L67 unfalsifiability rebuttal discharges against *this* list, but the claim it needs to support is that **Tenet 2** is falsifiable. Tenet 2's own falsifiers live at `tenets.md` §Falsifiability status — (a) a complete reductive explanation requiring no interface, (b) the measurement problem solved without a selection event, (c) direct detection of a consciousness-correlated Born-statistics deviation — and **none of the three appears in this article's four**. Point the rebuttal at the tenet clause rather than at the local list.
   **Budget**: 1111 words of headroom (1888 of 3000 hard). Sequencing: this task and the P1 above touch adjacent text and both bear on the L67 rebuttal — run the P1 first, or run them in one pass.
-
-## Completed Tasks
-
 
 ### ✓ 2026-09-21: `voids/amplification-void` is the unswept dependent of the 2026-08-27/09-04 tenets.md corridor-scoping repair — it still asserts the blanket "cannot happen" the tenet withdrew
 - **Type**: refine-draft

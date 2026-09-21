@@ -4,7 +4,7 @@ description: "Human+AI exploration of why the chain from quantum-level conscious
 created: 2026-02-28
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-09-21T01:34:00+00:00
+ai_modified: 2026-09-21T01:39:41+00:00
 last_deep_review: 2026-07-19T13:54:00+00:00
 draft: false
 topics:
@@ -78,15 +78,15 @@ Meditators report a related phenomenon. Sustained attention on the arising of in
 
 ## What Would Challenge This View?
 
-The amplification void would narrow or dissolve if:
+These are the *void's* falsifiers—what would narrow, relocate or dissolve the opacity. They are not [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]'s own three, which live at the tenet and none of which appears below.
 
-1. **A specific amplification pathway is experimentally traced** from a quantum event in neural tissue to a macroscopic neural outcome—even partially bridging two adjacent regimes.
+1. **A traced amplification pathway—or a withdrawn minimality constraint.** Two faces of one proposition rather than two tests. Empirically: a pathway followed from a quantum event in neural tissue to a macroscopic outcome, even partially bridging two adjacent regimes. As framework revision: the Map withdrawing minimality, so that interaction may be detectable and energy-injecting and the opacity stops being structurally necessary. No experiment returns *your tenet is relaxed*—the revision is what a successful trace would force, not an independent result the world could report. *Nothing has come in*: the tracing has not been run at the full span, because no instrument spans it. Unresolved, which is weaker than having survived a test.
 
-2. **Quantum effects in the brain prove unnecessary.** If classical chaos alone fully accounts for the apparent randomness and creativity in human cognition, the amplification problem dissolves. The void would concern not whether amplification occurs but whether it matters.
+2. **Quantum effects in the brain prove unnecessary.** If classical chaos alone accounts for the apparent randomness and creativity of cognition, the void relocates rather than closes—it would concern not whether amplification occurs but whether it matters. *A live countermodel stands*: wholly classical accounts of cognitive variability are on the table and this article does not refute them. The multi-scale opacity above concedes as much, securing untraceability for any small perturbation whatever its source.
 
-3. **The minimality constraint relaxes.** If consciousness-physics interaction turns out to be larger than minimal—detectable, energy-injecting—the opacity would not be structurally necessary. The chain might be traceable in principle, merely difficult.
+A third candidate is omitted rather than listed—AI fully replicating human cognition without quantum processes. That inference holds only if the conscious contribution is exhausted by cognitive-functional output, the functionalist premise [[tenets#^dualism|Dualism]] denies: the replica's cognition could be complete while its conscious contribution is absent. Naming a falsifier the article's own commitments disallow would be decorative ([[episodic-memory|as episodic memory states the discipline]]).
 
-4. **AI fully replicates human cognition without quantum processes.** This would demonstrate that whatever consciousness contributes to cognition does not require quantum amplification, relocating the problem.
+Calibrated to the weakest state present, the void stands unrefuted and untested on its tracing falsifier, and contested on its dispensability falsifier.
 
 ## Relation to Site Perspective
 
