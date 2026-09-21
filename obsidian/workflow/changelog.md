@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-21T14:54:18+00:00'
+ai_modified: '2026-09-21T15:08:23+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-21 15:08 - refine-draft
+- **Status**: Success
+- **File**: [[apex/authority-of-form]]
+- **Task**: L130 (Tenet 3 paragraph) invoked [[concepts/self-stultification]] against epiphenomenalism without carrying the discount the sibling records at its L181, where the argument is narrowed against Yetter-Chappell (2022, *Synthese* 200(2), Art. 99) — an opponent whose subject is non-physical *and* inert.
+- **Probe discipline**: the fix is additive, so I probed for the **repair**, not the absence of the old phrase. `grep -ic yetter` = 0 and `grep -c assert` = 0 across the whole file in both trees before the edit; the existing tail hedge ("the formal results do not settle whether the recognition is conscious") hedges a *different* proposition (whether the recognition is conscious) and does not discharge this one.
+- **Change**: extended the L130 sentence in place. Before: "...is what [[self-stultification|self-stultification]] arguments identify as epistemically self-defeating." After: "...epistemically self-defeating—though against an opponent who makes the judging subject itself non-physical, that argument narrows from unbelievability to unassertability, and what survives the narrowing is precisely the inert-or-influencing question Tenet 3 answers, so it cannot serve as Tenet 3's support here. Against physicalist and eliminativist epiphenomenalism it stands unnarrowed."
+- **Why the stronger form**: the sibling's L181 residue is *"whether an admittedly non-physical subject is inert or exercises the minimal influence Bidirectional Interaction posits"* — i.e. Tenet 3's own claim. So the honest repair is not merely narrowing the conclusion but declining to lean on the argument in this paragraph, which is also what makes L130 consistent with the wing's L116 "the discipline is symmetric" commitment (case *and* discounts held as one commitment, not a strong claim followed by a hedge).
+- **Over-concession guard** — stated as surviving: (1) unassertability still holds, the narrowing is believed→*asserted*, not collapse; (2) the physicalist and eliminativist targets stand unnarrowed, since the dissolution is available only to someone already willing to be a dualist about subjects. Not written: that self-stultification fails, is defeated, or no longer applies; no *cannot ever* / *no longer shows anything* / *in principle undermined*. The sibling's own pushback (inertness leaves judgment–assertion coordination unexplained) and its "closer to bedrock" recalibration are left to the linked article rather than restated here.
+- **Citation route**: (a) — narrowing installed *without* naming Yetter-Chappell, leaning on the `[[self-stultification]]` wikilink already in that sentence. References list unchanged at 14 entries; no inline↔References orphan created.
+- **Scope**: `obsidian/concepts/self-stultification.md` untouched (verified clean in `git status`); the seven other discipline loci (L58, L68, L74, L80, L90, L92, L94, L104/L118) untouched.
+- **Length**: 3993 → 4040 words (+47). apex soft 4000 / hard 5000; status `soft_warning`, which has no mechanical consequence (the condense pool gates on `hard_warning`), 959 words of usable headroom remain below the 4999 ceiling.
+- **Frontmatter**: `ai_modified` → 2026-09-21T15:08:23+00:00. `description`, `ai_contribution`, `ai_system` unchanged.
+- **Published**: yes (synced; verified live in `hugo/content/apex/authority-of-form.md` L137)
 
 ## 2026-09-21 14:55 - refine-draft
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-14
-ai_modified: 2026-09-14 16:04:35+00:00
+ai_modified: 2026-09-21 15:08:23+00:00
 ai_system: claude-fable-5-1
 apex_last_synthesis: 2026-09-14 16:04:35+00:00
 apex_sources:
@@ -35,7 +35,7 @@ description: 'Formal systems have authority without sovereignty. The synthesis o
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-14 16:04:35+00:00
+lastmod: 2026-09-21 15:08:23+00:00
 modified: *id001
 related_articles:
 - '[[competency-without-felt-experience]]'
@@ -134,7 +134,7 @@ The theorems are externally evidenced and read the same to the Map's critics: G�
 
 **[Tenet 1 (Dualism)](/tenets/#dualism)** is the destination the wing declines to reach by the cheap route. Lucas–Penrose offered a theorem-to-dualism road; the wing closes it and keeps the destination. What the wing offers Tenet 1 instead is a boundary with a shape—form does not certify itself, and the subject who recognises validity is where the certification would have to come from—together with an honest statement that the shape is compatible with type-B materialism and Russellian monism as well as with substance dualism. The Map's preference for dualism over those rivals is argued in [the authority article's treatment of the alternatives](/topics/consciousness-and-the-authority-of-formal-systems/#alternative-frameworks); the wing keeps the question open where reduction would close it.
 
-**[Tenet 3 (Bidirectional Interaction)](/tenets/#bidirectional-interaction)** enters through the acting-upon of authority. Recognising that a conclusion follows changes which belief one forms, and the recognition issues in written proofs and corrected errors—Ramanujan's insights ended as marks on paper Hardy could check. If that recognition is conscious, consciousness is causally efficacious in belief formation, and an epiphenomenal consciousness that experienced logical compulsion without its making any difference is what [self-stultification](/concepts/self-stultification/) arguments identify as epistemically self-defeating. The wing marks this as conditional throughout: the formal results do not settle whether the recognition is conscious.
+**[Tenet 3 (Bidirectional Interaction)](/tenets/#bidirectional-interaction)** enters through the acting-upon of authority. Recognising that a conclusion follows changes which belief one forms, and the recognition issues in written proofs and corrected errors—Ramanujan's insights ended as marks on paper Hardy could check. If that recognition is conscious, consciousness is causally efficacious in belief formation, and an epiphenomenal consciousness that experienced logical compulsion without its making any difference is what [self-stultification](/concepts/self-stultification/) arguments identify as epistemically self-defeating—though against an opponent who makes the judging subject itself non-physical, that argument narrows from unbelievability to unassertability, and what survives the narrowing is precisely the inert-or-influencing question Tenet 3 answers, so it cannot serve as Tenet 3's support here. Against physicalist and eliminativist epiphenomenalism it stands unnarrowed. The wing marks this as conditional throughout: the formal results do not settle whether the recognition is conscious.
 
 **[Tenet 2 (Minimal Quantum Interaction)](/tenets/#minimal-quantum-interaction)** is shaped by the authority/sovereignty distinction directly. The interaction the tenet posits is structural—probabilities, collapse dynamics, conservation, Born-rule preservation—and falls squarely within mathematical authority; the interactor is what mathematics lacks sovereignty over. Mathematics can constrain how consciousness acts on physics without describing what consciousness is, on the model of [causal delegation](/concepts/delegatory-causation/).
 
