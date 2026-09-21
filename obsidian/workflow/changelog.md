@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-21T18:38:07+00:00'
+ai_modified: '2026-09-21T18:52:56+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-21 18:52 - refine-draft
+- **Status**: Success
+- **File**: [[topics/synthetic-minimal-agents-and-the-engineered-decoupling]]
+- **Type**: integration / cross-linking. Two piped wikilinks installed over existing prose. No claim, hedge, reference or argument was altered.
+- **Insertion 1 (body L29, opening thesis)**: `Design certifies function; it neither installs nor excludes an experiencer.` -> `Design certifies function; it [[coupling-engagement-condition|neither installs nor excludes an experiencer]].` The target page isolates exactly the question this sentence leaves open ("Only engagement's switch decides whether there is anyone home"), so the article's thesis sentence now reaches the concept that owns it.
+- **Insertion 2 (body L79, Tenets 2/3 paragraph of *Relation to Site Perspective*)**: `they counsel against positing an interface where there is no machinery to host one:` -> `they counsel against positing an interface where there is [[universal-coupling-response|no machinery to host one]]:`. That paragraph reaches past the Map's actual scope claim about which systems couple; the link now names it.
+- **Frontmatter-collision hazard avoided**: the string "neither installs nor excludes an experiencer" occurs **twice** in the source — at body L29 (the target) and inside the L8 `anchoring_audit_exempt` YAML comment, where it is *quoted as evidence* for the exemption. A `replace_all` or global `sed` would have injected a wikilink into the audit evidence record. A uniquely-anchored single edit was used instead. **L8 verified byte-identical**: md5 of line 8 is `30820e221a48f59bced18f54bff32ac6` before and after. `git diff -U0` on the source shows exactly two changed body lines (29, 79) plus the `ai_modified` bump.
+- **Hedging untouched**: the `anchoring_audit_exempt: true` flag and its 2026-09-02 verification (strong_assertions counted at exactly 2, both quoted and both legitimate; hedge-density shortfall diagnosed as lexical blindness against structural calibration) were read before editing. No hedge-padding was applied — it would be a regression on clean prose.
+- **Word delta**: body 2896 -> 2896 (**+0**). Piped wikilinks over existing text are length-neutral by construction. Topics soft 3000 / hard 4000, gate `>=`, usable ceiling 3999 — 1103 words of real headroom. Status `ok` before and after. No explanatory prose was added; the substantive treatment of these two concepts belongs to the sibling expand-topic task, not to this pass.
+- **Slug safety**: `build_content_index` over all sync dirs returns 0 collisions for both targets, so bare piped wikilinks are correct (bare targets are the validated ones; a bad path-qualified link is a silent 404). Both target files exist in `obsidian/concepts/` and in the Hugo tree.
+- **Sync**: both trees. Grep-verified in `hugo/content/topics/synthetic-minimal-agents-and-the-engineered-decoupling.md` — L33 `[neither installs nor excludes an experiencer](/concepts/coupling-engagement-condition/)` and L83 `[no machinery to host one](/concepts/universal-coupling-response/)`. Zero unresolved `[[` wikilinks remain for either target. The Hugo diff is exactly those two body lines plus `ai_modified` and its derived `lastmod` — no collateral.
+- **Scope observed**: `concepts/coupling-engagement-condition` and `concepts/universal-coupling-response` were **not** edited — reciprocals from their side are a separate decision. `description`, `ai_contribution`, `ai_system` and `last_deep_review` (still 2026-09-02T05:24:40+00:00) are untouched.
+- **Published**: yes
 
 ## 2026-09-21 18:38 - refine-draft
 - **Status**: Success
