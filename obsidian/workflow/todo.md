@@ -37,6 +37,45 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: `concepts/categorical-surprise` cites Tarski 1936 for a 1933/1935 work, states the undefinability theorem without its qualifier, and the 2026-09-11 ledger certified the citation "real-correct"
+
+- **Type**: refine-draft
+- **File**: obsidian/concepts/categorical-surprise.md
+- **Review file**: `reviews/outer-review-2026-09-21-chatgpt-5-6-sol-pro`
+- **Source**: outer-review
+- **Generated**: 2026-09-21
+- **Notes**: **BOTH HALVES VERIFIED BY THE DRIVER against the live file, not the review's paraphrase.** (a) **L133** reads *Tarski, A. (1936). "The Concept of Truth in Formalized Languages." In* Logic, Semantics, Metamathematics*, Oxford University Press (1956 translation).* The year is wrong: the Polish monograph is **1933**, the German *Der Wahrheitsbegriff in den formalisierten Sprachen* **1935**, and the English translation is in the 1956 volume the entry already names correctly. Tarski's **1936** paper is the distinct one on logical consequence. **Only the year needs changing** — do not rewrite the volume attribution, which is right. (b) **L61** reads *"Tarski's undefinability theorem establishes that **a formal language** cannot define its own truth predicate; Gödel's incompleteness theorems show that **sufficiently powerful** formal systems…"* — the article applies the qualifier to Gödel and **drops it for Tarski in the same sentence**. Tarski's result concerns sufficiently expressive languages under particular adequacy conditions, and Tarski constructed truth definitions for formal languages using stronger metalanguages. Add the qualifier; the parallel clause supplies the wording.
+  ⚠️ **Why P1 rather than a P3 citation nit.** `reviews/deep-review-2026-09-11-categorical-surprise.md` carries *"Tarski, A. (1936), 'The Concept of Truth in Formalized Languages' — state: **real-correct**."* A ledger certified a citation whose **metadata** is wrong, which is a stronger failure than the usual ledger-certifies-metadata-not-use pattern. **When fixing, correct the ledger line in that review file too**, or the next pass re-inherits the certification.
+  ✅ **Budget**: 2383 words, `ok`, **116 to soft / 1116 to hard** — both repairs are affordable and roughly word-neutral.
+
+### P2: `concepts/categorical-surprise` states an impossibility where its own evidence supports only an open research problem
+
+- **Type**: refine-draft
+- **File**: obsidian/concepts/categorical-surprise.md
+- **Review file**: `reviews/outer-review-2026-09-21-chatgpt-5-6-sol-pro`
+- **Source**: outer-review
+- **Generated**: 2026-09-21
+- **Notes**: The review's **Final verdict**, and the convergent point of its §1, §2 and §3: *"Its present argument nevertheless turns an open research problem into an impossibility claim… The article should be retained, but **repositioned as a research hypothesis and discriminating-problem specification**, not as evidence that computational restructuring is structurally impossible."* ⚠️ **This is a re-registration, not a retraction** — the philosophical intuition is explicitly praised ("some encounters appear to occasion more than ordinary parameter correction… deserves focused study"), and §1 credits the September revision with improving the separation. **Do not delete the thesis; downgrade its modal force and say what would settle it.** Apply the direct-refutation discipline: identify whether the honest move is showing the computational account defective on its own terms, naming an unsupported foundational move, or marking a framework-boundary disagreement — in natural journal-quality prose, with **no mode labels in the article body** (they belong in the changelog entry). ⚠️ Coordinate with the P1 above: §3's Gödel/Tarski material is the formal prop under the impossibility claim, so fixing the citation without rescoping the claim leaves the claim resting on a repaired but still-overreaching premise. ✅ **Budget**: 1116 to hard — affordable.
+
+### P2: `concepts/categorical-surprise` does not engage the computational accounts of insight and conceptual bootstrapping its central claim is about
+
+- **Type**: refine-draft
+- **File**: obsidian/concepts/categorical-surprise.md
+- **Review file**: `reviews/outer-review-2026-09-21-chatgpt-5-6-sol-pro`
+- **Source**: outer-review
+- **Generated**: 2026-09-21
+- **Notes**: §2 *"Directly relevant work is omitted"* — the article asserts that computational systems cannot restructure their representational space, without engaging the literature that claims they can. ⚠️ **THIS IS AN ABSENCE CLAIM AND THIS CORPUS HAS A MEASURED BASE RATE OF FALSE ABSENCE FROM OUTER REVIEWERS** (the predictive-processing "blind spot" charge has recurred four times and is false site-wide). **Before adding anything, grep each named work across `obsidian/` — including the sibling articles the review lists in §10 — and confirm it is genuinely uncited.** If a work is covered in a sibling, the repair is a cross-reference, not a new paragraph. Mint nothing further from this; report what you found. ✅ **Budget**: 1116 to hard.
+
+### P2: `concepts/categorical-surprise` falsifiers are too elastic and state no negative state
+
+- **Type**: refine-draft
+- **File**: obsidian/concepts/categorical-surprise.md
+- **Review file**: `reviews/outer-review-2026-09-21-chatgpt-5-6-sol-pro`
+- **Source**: outer-review
+- **Generated**: 2026-09-21
+- **Notes**: §8 *"Falsifiability is welcome but presently too elastic"*. ✅ **The corpus already has the instrument, and it postdates this article's last review**: `project/writing-style.md` **L441** (adopted **2026-08-18**) requires each listed falsifier to state which of three negative states it is in — *nothing has come in / a live countermodel stands / evidence too thin to decide* — with the summary calibrated to the **weakest** state present. And `concepts/episodic-memory` **L166** is the discipline for a falsifier the article's own defence absorbs: **name it as omitted, with the reason**, rather than leaving it decorative. Two passes on 2026-09-21 applied both successfully (`voids/amplification-void`, `topics/buddhist-perspectives-on-meaning`) — copy their form. **Test each item for whether it can actually fire**; an item that cannot discriminate is the defect, not the elasticity of its wording. ✅ **Budget**: 1116 to hard.
+
+
 ### P2: `topics/the-hard-problem-in-non-western-philosophy` Tenet 3 counts Buddhist karma as support for Bidirectional Interaction — the wing's own Buddhist article says it cannot be
 
 - **Type**: refine-draft
