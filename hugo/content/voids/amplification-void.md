@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-28
-ai_modified: 2026-06-01 06:55:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-21 01:34:00+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[quantum-consciousness]]'
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 13:54:00+00:00
-lastmod: 2026-06-01 06:55:00+00:00
+lastmod: 2026-09-21 01:34:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -62,13 +62,15 @@ This reframing deepens the void rather than resolving it. If quantum influences 
 
 ## A Self-Protecting Void?
 
-The amplification void may not be an accidental gap in human knowledge but a structural consequence of how consciousness-physics interaction works. The minimal quantum interaction tenet specifies the *smallest possible* influence on quantum outcomes. If the amplification chain were traceable, the quantum influence would be detectable—contradicting the minimality that defines it. The opacity is not a limitation on our knowledge of the mechanism but a necessary condition for the mechanism to operate as specified.
+The amplification void may not be an accidental gap in human knowledge but a structural consequence of how consciousness-physics interaction works. Which argument earns that verdict matters, because the obvious one does no work. Reading the minimal quantum interaction tenet as *smallest possible magnitude, therefore too small to detect* restates a stipulation: minimality there is empirical-constraint minimality, fixed by a rules-out clause that already excludes any empirically detectable interaction. The entailment is analytic, and predicts nothing.
 
-This makes the amplification void a candidate for [defended territory](/voids/self-maintained-cognitive-limits/)—not territory actively hidden by an agent, but territory whose opacity is maintained by the physics that enables the interaction. The void is self-protecting: the minimality that makes consciousness-physics interaction possible also makes it untraceable.
+The step that does the work is **Born-conformity**. Selecting between Born-equiprobable alternatives while the ensemble average stays |⟨φ|ψ⟩|² leaves no statistical signature in long runs, so under any *unconditioned aggregate* test the mechanism is empirically indistinguishable from chance—by construction, not by any sensitivity limit ([Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction); the structure is developed in [the Born-rule article](/topics/born-rule-and-the-consciousness-interface/)). That closure arrives pre-scoped. Preservation binds the unconditioned marginal only: a deviation *conditioned* on intention, task or subject would test the corridor itself ([P-Q3](/positions/quantum-interface/#mechanism-debt)), and one coarse grain has already run null in the preregistered intention-to-RNG tests of Maier, Dechamps and Pflitsch (2018). So the unconditioned statistical channel is shut; the conditioned channels are open, and untested at the grains that would matter.
 
-There is an analogy—imperfect but suggestive—with Heisenberg's uncertainty principle, where measurement precision on one variable necessarily reduces precision on its conjugate. The amplification void has a similar structure: the more minimal the quantum influence (preserving conservation laws, avoiding empirical detection), the more opaque the amplification chain becomes. Minimality and opacity are not independent properties but coupled aspects of the same constraint.
+This makes the amplification void a candidate for [defended territory](/voids/self-maintained-cognitive-limits/)—territory whose opacity is maintained by the physics that enables the interaction rather than by an agent hiding it. The self-protection is real but partial, and its two halves have different owners. Born-conformity owns the statistical half. Classical neurodynamics owns the tracing half—the decoherence windows, threshold nonlinearities and chaotic amplification catalogued above destroy backward traceability for *any* small perturbation, whatever its source and magnitude. Minimality does not have to earn that result; ordinary brain physics supplies it already, and would supply it for a thoroughly non-minimal microscopic cause.
 
-A critic will note that this looks unfalsifiable—if the void is "self-protecting," how could we ever discover the mechanism is wrong? The response is that the amplification void is not itself the claim; it is a *consequence* of the minimal quantum interaction tenet. The tenet is falsifiable (see the challenges in the following section), and the void would dissolve if the tenet falls. What cannot happen is tracing the amplification chain while the minimality condition holds—and that is a structural observation, not an evasion.
+There is an analogy—imperfect but suggestive—with Heisenberg's uncertainty principle, where measurement precision on one variable necessarily reduces precision on its conjugate. The statistical half of the void has a similar shape: the tighter the conformity to the Born measure, the less any aggregate test can say. The analogy is weaker than it first looks, though. Conjugate variables trade off as a matter of dynamics; here the trade-off is a matter of construction, since Born-preservation is written into the reading rather than discovered in it.
+
+A critic will note that this looks unfalsifiable—if the void is "self-protecting," how could we ever discover the mechanism is wrong? The response is that the amplification void is a *consequence* of the minimal quantum interaction tenet rather than the claim itself, and the tenet carries its own falsifiability clause—its third item is direct detection of a consciousness-correlated Born-statistics deviation ([Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)). The void would dissolve if the tenet falls. And what the closure rules out is narrower than "nothing can be found": while the Born-preserving corridor holds, no *unconditioned aggregate* measurement can recover the amplification chain's conscious origin. Conditioned tests are not ruled out, and the tenet keeps them live.
 
 ## The Phenomenology of Untraceable Causation
 
@@ -94,15 +96,15 @@ The amplification void would narrow or dissolve if:
 
 The amplification void is generated directly by the Map's [tenets](/tenets/).
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is the primary source. The tenet proposes the smallest possible non-physical influence on quantum outcomes. This minimality guarantees the void: a minimal influence must amplify through opaque channels to produce macroscopic effects, and the minimality ensures the amplification cannot be traced back to its source.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is the primary source, though it delivers something narrower than a guarantee. The tenet's Born-preserving corridor closes the *unconditioned aggregate* channel by construction: no long-run statistical test separates a biased selection from chance. It leaves the *conditioned* channels open—a deviation keyed to intention, task or subject would test the corridor itself ([P-Q3](/positions/quantum-interface/#mechanism-debt))—and it does not by itself deliver the chain's untraceability, which the multi-scale opacity supplies. The tenet's contribution to the void is the statistical closure.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** requires the amplification chain to exist. If consciousness causally influences the physical world, and if it does so at the quantum level, the chain from quantum bias to neural pattern to behaviour must be real. The amplification void is the experiential and empirical shadow of this requirement—the chain must exist but cannot be observed.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** is relevant because the amplification chain passes through at least four distinct physical regimes, each with its own dynamics. No single theoretical framework describes the full chain. The reality is irreducibly multi-scale. The simpler hypothesis—that the chain doesn't exist, that consciousness is epiphenomenal or classical—fails to account for the evidence the Map marshals for mental causation.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** is relevant because the amplification chain passes through at least four distinct physical regimes, each with its own dynamics. No single theoretical framework describes the full chain. The reality is irreducibly multi-scale. The simpler hypothesis—that the chain doesn't exist, that consciousness is epiphenomenal or classical—is one the Map declines rather than refutes. The interface argument shows downward causation to be *available* rather than actual, and the register grades the causal-selection thesis as a framework-internal coherence result rather than as established mental causation ([what the interface argument leaves open](/tenets/#tenet-3-standing); [P-Q3](/positions/quantum-interface/#mechanism-debt)). What the Map holds against the simpler hypothesis is that it leaves the reliability of our reports about experience resting on a contested epistemological premise—a reason to keep the chain as a posit rather than a result that secures it.
 
 ## Classification in the Voids Taxonomy
 
-The amplification void is both **Unexplorable** and potentially **Occluded** in the [voids taxonomy](/voids/three-kinds-of-void/). It is unexplorable because no single observational framework spans all the scales the chain traverses. It is potentially occluded because the opacity may be structurally necessary—a consequence of the minimality that defines the interaction rather than an accidental gap. The void occupies a distinctive position: generated by a specific tenet commitment, potentially self-defending, and resistant to even indirect approaches.
+The amplification void is both **Unexplorable** and partly **Occluded** in the [voids taxonomy](/voids/three-kinds-of-void/). It is unexplorable because no single observational framework spans all the scales the chain traverses—a verdict resting on the multi-scale opacity above, untouched by what the tenet secures. The occlusion is the narrower half: it covers the unconditioned statistical channel, which Born-conformity shuts by construction, and not the conditioned tests, which stay open though the one coarse grain run so far returned null. The void occupies a distinctive position: generated by a specific tenet commitment, self-defending in one register, and merely very difficult in the others.
 
 ## Further Reading
 
@@ -127,3 +129,4 @@ The amplification void is both **Unexplorable** and potentially **Occluded** in 
 5. McDonnell, M.D. & Abbott, D. (2009). "What Is Stochastic Resonance?" *PLOS Computational Biology*.
 6. Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.
 7. McFadden, J. & Al-Khalili, J. (2018). "The origins of quantum biology." *Proceedings of the Royal Society A*, 474(2220).
+8. Maier, M.A., Dechamps, M.C. & Pflitsch, M. (2018). "Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis." *Frontiers in Psychology*, 9, 379.
