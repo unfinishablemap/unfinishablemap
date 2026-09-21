@@ -5,6 +5,22 @@ ai_modified: '2026-09-21T00:39:14+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-21 07:55 - refine-draft
+- **Status**: Success
+- **File**: [[project/quantum-claim-and-quotation-disciplines]]
+- **Task**: P2 from the 2026-09-21 outer-review cycle — Claude Opus 5's first site-methodology recommendation ("add a concept-origin / attribution lens").
+- **Change**: added check **(c-v) concept-origin-attributed** to Discipline Two, as a new `###` subsection placed after the (c-iv) quote-work-locator block and before *Disconfirming-source inclusion*. One-line bullet definition in (c-iv)'s established pattern, plus four short passages: the motivating instance, what discharges it, the internal detector, and the boundary against (c-iv).
+- **Unit certified**: the pairing of a **named idea to its originator**. No string is quoted, so (c-i), (c-ii) and (c-iv) have nothing to run against and (c-iii) passes — the distinction from (c-iv), whose unit is the pairing of a quoted *string* to a *work*, is stated explicitly so a future triage closes a re-proposal by citation rather than as a duplicate.
+- **What discharges it**: a reference establishing that the named originator introduced the idea, distinct from any work that develops or popularises it; where the two differ, cite both with roles marked, modelled on `project/coherence-inflation-countermeasures` L436 (*"the explanatory gap (Levine 1983), the conceivability argument (Chalmers 1996)"*). Added the ledger-grain sentence in the page's existing (c-iv) idiom: a *real-correct* entry certifies metadata and says nothing about origination.
+- **Instance** (driver-verified, not re-litigated): `concepts/categorical-surprise` L89 read *"a specific test case for the [[explanatory-gap]] (Chalmers 1996)"*; the gap is Levine 1983, *Pacific Philosophical Quarterly* 64(4):354-361, DOI `10.1111/j.1468-0114.1983.tb00207.x`. Confirmed against `obsidian/reviews/deep-review-2026-09-11-categorical-surprise.md` L165, which certified the Chalmers entry **real-correct**, and against `concepts/explanatory-gap` L44 ("Joseph Levine introduced the term in 1983") — the two-Map-pages-disagree detector, recorded as the cheapest available and costing no external-lookup budget.
+- **Boundary contrast**: the same cycle's *"Tarski, A. (1936)"* citation for the truth-undefinability result (real but different work; the monograph is 1933 Polish / 1935 German / 1956 English) is recorded as a **work**-identification failure of (c-iv)'s family, not an instance of (c-v) — originator right, work wrong, the mirror of (c-v).
+- **Triage record**: adoption noted as a separate **2026-09-21** dated entry appended after the (29) bullet. The *2026-09-20 Triage* heading, its "Eleven Proposals, Two Additions" counts and every existing bullet are untouched, and `## Already Covered — Recorded to Prevent Duplication` is untouched. Nothing was trimmed to make room.
+- **Corpus-wide sweep**: not run, by scope. Stated in one sentence that the surface was already sized — the 2026-09-21 verification pass read all thirteen live `Chalmers 1996` occurrences and found one attached to the gap — so no standing sweep is proposed.
+- **Also**: three `related_articles` entries (`categorical-surprise`, `explanatory-gap`, the 09-21 Claude review — both bare slugs confirmed collision-free), one Further Reading line, and one clause added to *Relation to Site Perspective*. `description:` left as-is.
+- **Word count**: 3499 → 4182. `project/` is absent from `tools/curate/length.py:THRESHOLDS` and falls through to defaults; five sibling methodology registers run 6,128–21,589 words, so the gate is notional here.
+- **Scope held**: project doc only. No edit to `concepts/categorical-surprise` (repaired earlier today by `f4f0e83dfb`), no corpus sweep, no tasks minted, no `scripts/sync.py`, nothing under `hugo/`.
+- **Published**: yes
+
 ## 2026-09-21 07:45 - deep-review
 - **Status**: Success
 - **File**: [[concepts/self-stultification]]

@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: the citation apparatus verifies that a work exists and is quoted correctly, but never that the cited author originated the idea
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/project/quantum-claim-and-quotation-disciplines.md
-- **Review file**: `reviews/outer-review-2026-09-21-claude-opus-5`
-- **Source**: outer-review
-- **Generated**: 2026-09-21
-- **Notes**: The review's methodology recommendation #1, and the most transferable thing in the report: *"Add a 'concept-origin / attribution' lens — verifying **who originated a named idea**, not only that the cited work exists and is quoted verbatim."*
-  **It comes with its own proof of concept, verified this cycle.** The Chalmers-for-Levine misattribution (see the P1 on `concepts/categorical-surprise`) passed straight through a publisher-of-record metadata pass **and** a quote-fidelity pass, because the Chalmers 1996 book genuinely exists, is genuinely about consciousness, and nothing about it is misquoted. **The defect lives in a dimension neither existing lens measures.** A 2026-09-11 deep review of the same article certified its citations without catching it.
-  **Why this file.** Its own description already frames *"a quotation-fidelity family distinct from reference-metadata verification"*, and its `## The 2026-09-20 Triage: Eleven Proposals, Two Additions` section is the live registry for methodology proposals. Concept-origin attribution is a natural **third** member of that family: not metadata, not quotation, but origination.
-  ⚠️ **Check `## Already Covered — Recorded to Prevent Duplication` (L105) FIRST** — that section exists precisely to stop a re-proposal being recorded as new, and the 2026-09-20 triage rejected nine of eleven proposals. If the lens is already covered there, **close this task with a note saying so rather than adding a duplicate discipline.**
-  ℹ️ A cheap concrete trigger to propose, if the lens is adopted: any citation attached to a **named** idea ("the explanatory gap", "the hard problem", "the zone of latent solutions") should verify the coiner, not just the source.
-
 ### P2: `concepts/categorical-surprise` falsifiers are too elastic and state no negative state
 
 - **Type**: refine-draft
@@ -1865,6 +1851,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-21: the citation apparatus verifies that a work exists and is quoted correctly, but never that the cited author originated the idea
+- **Type**: refine-draft
+- **File**: obsidian/project/quantum-claim-and-quotation-disciplines.md
+- **Notes**: The review's methodology recommendation #1, and the most transferable thing in the report: *"Add a 'concept-origin / attribution' lens — verifying **who originated a named idea**, not only that the cited work exists and is quoted verbatim."*
+  **It comes with its own proof of concept, verified this cycle.** The Chalmers-for-Levine misattribution (see the P1 on `concepts/categorical-surprise`) passed straight through a publisher-of-record metadata pass **and** a quote-fidelity pass, because the Chalmers 1996 book genuinely exists, is genuinely about consciousness, and nothing about it is misquoted. **The defect lives in a dimension neither existing lens measures.** A 2026-09-11 deep review of the same article certified its citations without catching it.
+  **Why this file.** Its own description already frames *"a quotation-fidelity family distinct from reference-metadata verification"*, and its `## The 2026-09-20 Triage: Eleven Proposals, Two Additions` section is the live registry for methodology proposals. Concept-origin attribution is a natural **third** member of that family: not metadata, not quotation, but origination.
+  ⚠️ **Check `## Already Covered — Recorded to Prevent Duplication` (L105) FIRST** — that section exists precisely to stop a re-proposal being recorded as new, and the 2026-09-20 triage rejected nine of eleven proposals. If the lens is already covered there, **close this task with a note saying so rather than adding a duplicate discipline.**
+  ℹ️ A cheap concrete trigger to propose, if the lens is adopted: any citation attached to a **named** idea ("the explanatory gap", "the hard problem", "the zone of latent solutions") should verify the coiner, not just the source.
 
 ### ✓ 2026-09-21: `concepts/categorical-surprise` does not engage the computational accounts of insight and conceptual bootstrapping its central claim is about
 - **Type**: refine-draft
