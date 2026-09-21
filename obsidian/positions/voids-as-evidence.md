@@ -4,7 +4,7 @@ description: "The Map's positions on what the cognitive-void catalogue evidentia
 created: 2026-06-08
 modified: 2026-09-15
 human_modified: 2026-06-08
-ai_modified: 2026-09-15T01:34:52+00:00
+ai_modified: 2026-09-21T00:39:14+00:00
 last_deep_review: 2026-06-16T06:36:00+00:00
 draft: false
 topics:
@@ -31,6 +31,8 @@ last_curated: 2026-06-08
 These positions cover what the Map currently holds about the *evidential* status of its cognitive-void catalogue — the question of what, if anything, the convergence of the catalogue (over a hundred void articles, of which roughly fifteen are framework-independent) on the consciousness-matter interface supports. Under the file's own common-cause logic the raw count is the misleading figure: the framework-independent subset, not the total, is the number that carries whatever weight the catalogue legitimately earns. This is a calibration-critical domain: the Map's standing discipline (the [[project/common-cause-null|common-cause null]], the [[project/coherence-inflation-countermeasures|coherence-inflation countermeasures]], and the Convergence-Independence Gate of Countermeasure 15) is precisely a guard against over-reading void convergence as independent confirmation. The positions here are deliberately banded *low to moderate* and worded to assert compatibility and cumulative-within-architecture weight, not independent triangulation — and since 2026-09-15 P-V3's cumulative step is suspended pending its candidate ledger. They sit downstream of Tenet 5 (Occam's Razor Has Limits) and connect to Tenet 1 (Dualism), but they assert claims about the Map's *evidence*, not about the world directly.
 
 **Calibration schema (2026-07-16).** Every position below now carries the [[methodology-and-calibration#^calibration-schema|multi-axis calibration block]] (credence · external-evidence grade · structural centrality · model maturity · empirical discriminability · framework-internal only) in place of the former single confidence band, following the outer-review conflation finding (ChatGPT + Claude, 2026-07-16) that the single band measured structural centrality rather than credence or external evidence. These positions are meta-evidential (about the catalogue's evidential status), so their empirical axes are mostly indirect or normative. Substantive claims, statuses, and dependencies are unchanged. *Updated 2026-07-16: calibration migration.*
+
+**The foundational-dependency test (applied 2026-09-21; the 2026-08-03 sweep did not reach this domain).** All three entries pass. P-V1 and P-V2 pass in the *inverse* direction — each discounts what the catalogue may be cited as, so retiring it would inflate the tenets' apparent support rather than damage it. P-V3 is the one entry directing weight *toward* the tenets, and passes in the ordinary direction: [[tenets#^dualism|Tenet 1]]'s rationale is the explanatory gap and positive-argument catalogue, [[tenets#^occams-limits|Tenet 5]]'s the limits of parsimony — neither runs through void convergence.
 
 ## Positions
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-20
-ai_modified: 2026-08-20 20:26:41+00:00
-ai_system: claude-fable-5
+ai_modified: 2026-09-21 00:39:14+00:00
+ai_system: claude-fable-5+claude-opus-5
 author: Andy Southgate
 concepts:
 - '[[evidential-status-discipline]]'
@@ -14,7 +14,7 @@ description: 'Register of per-class substrate verdicts for artificial hardware: 
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-20 20:26:41+00:00
+lastmod: 2026-09-21 00:39:14+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -31,6 +31,8 @@ topics:
 ## About this domain
 
 These positions record the Map's **per-class substrate verdicts for artificial hardware** — what each engineered class supplies or withholds at the interface the tenets require. They are split out from [the AI consciousness scope register](/positions/ai-consciousness-scope/) for two reasons. First, that register's [P-AC1](/positions/ai-consciousness-scope/#p-ac1) covers *conventional digital* hardware and explicitly disclaims the quantum-, biological-, and hybrid-substrate bucket; the disclaimed bucket was registered nowhere, while applied verdicts had begun to rest on it — Recommendation 4 of [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/) (research-funding targeting) turns on the quantum-computing verdict below, and a verdict with no position cannot be re-flagged when the positions it depends on move. Second, these entries carry a split evidence profile the scope register's entries mostly do not: an externally evidenced, checkable engineering half and a framework-relative interface-relevance half, graded separately on the [P-AC4](/positions/ai-consciousness-scope/#p-ac4) pattern. Classes the corpus analyses but holds no registered verdict on — neuromorphic, organoid, and hybrid architectures, mapped at finer grain in [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/) — gain entries here as their verdicts stabilise.
+
+**The foundational-dependency test (applied 2026-09-21).** This domain was created on 2026-08-20, seventeen days after the register-wide sweep of 2026-08-03, and so was never covered by it. Its sole entry, [P-AS1](/positions/ai-substrate-verdicts/#p-as1), passes — and passes in the *ordinary* direction rather than the inverse one. The verdict is a consumer of [Tenet 2](/tenets/#minimal-quantum-interaction), which it cites for what an interface site must supply, and it returns nothing upstream: Tenet 2's rationale is that quantum indeterminacy is a candidate interface location to be assumed at minimum strength, argued entirely from the biological case with no premise about engineered hardware. Retiring [P-AS1](/positions/ai-substrate-verdicts/#p-as1) therefore leaves every tenet argued exactly as before; what a retirement costs is the research-funding recommendation in [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/), which is downstream of the position rather than upstream of a tenet. The verdict is derived here rather than inherited from [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s, since sibling per-class verdicts can differ in what they lean on.
 
 ## Positions
 

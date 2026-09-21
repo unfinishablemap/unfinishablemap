@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-08
-ai_modified: 2026-09-15 01:34:52+00:00
+ai_modified: 2026-09-21 00:39:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
 author: Andy Southgate
 concepts:
@@ -15,7 +15,7 @@ draft: false
 human_modified: 2026-06-08
 last_curated: 2026-06-08
 last_deep_review: 2026-06-16 06:36:00+00:00
-lastmod: 2026-09-15 01:34:52+00:00
+lastmod: 2026-09-21 00:39:14+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -34,6 +34,8 @@ topics:
 These positions cover what the Map currently holds about the *evidential* status of its cognitive-void catalogue — the question of what, if anything, the convergence of the catalogue (over a hundred void articles, of which roughly fifteen are framework-independent) on the consciousness-matter interface supports. Under the file's own common-cause logic the raw count is the misleading figure: the framework-independent subset, not the total, is the number that carries whatever weight the catalogue legitimately earns. This is a calibration-critical domain: the Map's standing discipline (the [common-cause null](/project/common-cause-null/), the [coherence-inflation countermeasures](/project/coherence-inflation-countermeasures/), and the Convergence-Independence Gate of Countermeasure 15) is precisely a guard against over-reading void convergence as independent confirmation. The positions here are deliberately banded *low to moderate* and worded to assert compatibility and cumulative-within-architecture weight, not independent triangulation — and since 2026-09-15 [P-V3](/positions/voids-as-evidence/#p-v3)'s cumulative step is suspended pending its candidate ledger. They sit downstream of Tenet 5 (Occam's Razor Has Limits) and connect to Tenet 1 (Dualism), but they assert claims about the Map's *evidence*, not about the world directly.
 
 **Calibration schema (2026-07-16).** Every position below now carries the [multi-axis calibration block](/positions/methodology-and-calibration/#calibration-schema) (credence · external-evidence grade · structural centrality · model maturity · empirical discriminability · framework-internal only) in place of the former single confidence band, following the outer-review conflation finding (ChatGPT + Claude, 2026-07-16) that the single band measured structural centrality rather than credence or external evidence. These positions are meta-evidential (about the catalogue's evidential status), so their empirical axes are mostly indirect or normative. Substantive claims, statuses, and dependencies are unchanged. *Updated 2026-07-16: calibration migration.*
+
+**The foundational-dependency test (applied 2026-09-21; the 2026-08-03 sweep did not reach this domain).** All three entries pass. [P-V1](/positions/voids-as-evidence/#p-v1) and [P-V2](/positions/voids-as-evidence/#p-v2) pass in the *inverse* direction — each discounts what the catalogue may be cited as, so retiring it would inflate the tenets' apparent support rather than damage it. [P-V3](/positions/voids-as-evidence/#p-v3) is the one entry directing weight *toward* the tenets, and passes in the ordinary direction: [Tenet 1](/tenets/#dualism)'s rationale is the explanatory gap and positive-argument catalogue, [Tenet 5](/tenets/#occams-limits)'s the limits of parsimony — neither runs through void convergence.
 
 ## Positions
 

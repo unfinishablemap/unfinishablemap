@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-20T23:51:45+00:00'
+ai_modified: '2026-09-21T00:39:14+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
-date: '2026-09-20'
-lastmod: 2026-09-20 23:51:45+00:00
+date: '2026-09-21'
+lastmod: 2026-09-21 00:39:14+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-21T00:39:14+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: audit follow-up — file-level preamble statement only; no entry added, retired, or re-banded
+- **Files**: [voids-as-evidence](/positions/voids-as-evidence/), [ai-substrate-verdicts](/positions/ai-substrate-verdicts/)
+- **Gap confirmed**: the foundational-dependency test lives in each domain file's preamble and 15 of 17 domain files carried it. `grep -oiF` counts on "foundational-dependency" / "retireable" / "rationale" returned 0/0/0 for both target files against 1/1/1 for the `value-in-selection` positive control — real absences, not stem drift.
+- **Two distinct causes**: `voids-as-evidence` is absent from `positions.md`'s own enumeration of the 2026-08-03 sweep (which lists quantum-interface, consciousness-scope, AI-scope, dualism-argument, methodology and finding-level) — it was never covered. `ai-substrate-verdicts` was created 2026-08-20, seventeen days after the sweep, and never retrofitted.
+- **Verdict, voids-as-evidence (3 entries, all pass)**: [P-V1](/positions/voids-as-evidence/#p-v1) and [P-V2](/positions/voids-as-evidence/#p-v2) pass in the *inverse* direction — [P-V1](/positions/voids-as-evidence/#p-v1) denies that void clustering is independent confirmation, [P-V2](/positions/voids-as-evidence/#p-v2) forbids defeater-removal from upgrading an independence score; each is a discount on what the catalogue may be cited as, so a retirement inflates rather than damages a tenet's support. [P-V3](/positions/voids-as-evidence/#p-v3) derived separately, because it is the domain's one entry directing weight *toward* the tenets: it passes in the *ordinary* direction — Tenet 1's stated rationale is the explanatory gap, the materialism judgement and the positive-argument catalogue, Tenet 5's is the limits of parsimony plus the parsimony-epistemology record, and `grep` of `tenets.md` finds no tenet rationale running through void convergence or cumulative void weight. ([P-V3](/positions/voids-as-evidence/#p-v3)'s cumulative step is in any case suspended since 2026-09-15.)
+- **Verdict, ai-substrate-verdicts (1 entry, passes)**: [P-AS1](/positions/ai-substrate-verdicts/#p-as1) derived independently rather than inherited from [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s. It passes in the *ordinary* direction: it is a consumer of Tenet 2, citing it for what an interface site must supply, and returns nothing upstream — Tenet 2's rationale is argued from the biological case with no premise about engineered hardware. A retirement costs Recommendation 4 of [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/), which is downstream of the position, not upstream of a tenet.
+- **Length**: voids-as-evidence 2210 -> 2296 (`soft_warning`; 203 to hard, 1703 to critical); ai-substrate-verdicts 943 -> 1092 (`ok`; 1407 to hard, 2907 to critical).
+- **Unchanged, verified**: `hugo/data/positions.yaml` (no entry touched), `obsidian/positions/positions.md` and its `_index.md` mirror.
+- **Recorded for the operator, not fixed**: `positions.md` L108 still asserts the 2026-08-03 sweep "completed the application" — false, and the reason this went unnoticed for 49 days. Left alone deliberately (3386 words, 613 from critical; its L57 convention mandates a dated `Updated` note on any aggregate change, so a one-clause correction is not cheap there).
+- **Published**: yes (synced to `hugo/content/`, both trees grep-verified)
 
 ## 2026-09-20T23:51:45+00:00 - deep-review
 - **Status**: Success
