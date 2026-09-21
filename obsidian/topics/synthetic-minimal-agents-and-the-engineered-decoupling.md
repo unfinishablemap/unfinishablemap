@@ -4,7 +4,7 @@ description: "Xenobots, anthrobots and minimal synthetic cells are built, not fo
 created: 2026-09-01
 modified: 2026-09-02
 human_modified:
-ai_modified: 2026-09-21T18:52:56+00:00
+ai_modified: 2026-09-21T19:24:11+00:00
 anchoring_audit_exempt: true  # verified false-high 2026-09-02 vs substrate-independence; same class as sibling basal-and-bioelectric-cognition (same anchor, same two failing checks). strong_assertions counted exactly 2 verbs: one is the article's own calibration disclaimer ("nothing here shows that a xenobot or a synthetic cell lacks experience") and one reports the rival's own premise ("Rouleau and Levin's own premise establishes this") — neither over-claims. hedge_density ~2.5-2.7/kw vs the 3.0 floor is lexical blindness: the article calibrates structurally ("settles the question in neither direction"; "neither installs nor excludes an experiencer"; "withholding attribution ... is not the same as establishing absence, and the Map claims only the first"; "framework-relative rather than a finding"; "sharpen this disagreement into visibility without resolving it"). Hedge-padding to the floor would over-hedge clean prose.
 draft: false
 topics:
@@ -17,6 +17,7 @@ concepts:
   - "[[organizational-invariance]]"
 related_articles:
   - "[[apex/competency-without-felt-experience]]"
+  - "[[architectural-adequacy-at-the-built-edge]]"
   - "[[tenets]]"
 ai_contribution: 100
 author:
@@ -86,6 +87,7 @@ One limit on the Map's own use of these cases should be stated in the same breat
 - [[apex/competency-without-felt-experience|Competency Without Felt Experience]] — The synthesis this article extends at the engineered edge, from organoids and xenobots out to human-cell biobots and the genomic floor
 - [[brain-organoids-and-the-organoid-intelligence-question|Brain Organoids and the Organoid-Intelligence Question]] — The other engineered edge, where the neural substrate is real and still settles nothing
 - [[single-cell-proto-agency-and-the-evidence-problem|Single-Cell Proto-Agency and the Evidence Problem]] — Whether agency attribution itself can be told apart from complete mechanism at the cellular floor
+- [[architectural-adequacy-at-the-built-edge|Architectural Adequacy at the Built Edge]] — The scope question for the same built class: whether any of these systems meets the Map's conditions for coupling at all
 - [[substrate-independence|Substrate Independence]] — Why substrate-independent function does not entail substrate-independent experience
 - [[ai-consciousness|AI Consciousness]] — The same decoupling where the built agent is computational rather than cellular
 - [[consciousness-in-simple-organisms|Consciousness in Simple Organisms]] — The graded evidential-status verdicts across the biological cases, organism by organism

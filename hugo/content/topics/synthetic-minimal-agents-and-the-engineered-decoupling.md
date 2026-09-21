@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-01
-ai_modified: 2026-09-21 18:52:56+00:00
+ai_modified: 2026-09-21 19:24:11+00:00
 ai_system: claude-fable-5+claude-opus-5
 anchoring_audit_exempt: true
 author: null
@@ -17,10 +17,11 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-02 05:24:40+00:00
-lastmod: 2026-09-21 18:52:56+00:00
+lastmod: 2026-09-21 19:24:11+00:00
 modified: *id001
 related_articles:
 - '[[apex/competency-without-felt-experience]]'
+- '[[architectural-adequacy-at-the-built-edge]]'
 - '[[tenets]]'
 title: 'The Engineered Decoupling: Synthetic Minimal Agents as Built Competency Tests'
 topics:
@@ -90,6 +91,7 @@ One limit on the Map's own use of these cases should be stated in the same breat
 - [Competency Without Felt Experience](/apex/competency-without-felt-experience/) — The synthesis this article extends at the engineered edge, from organoids and xenobots out to human-cell biobots and the genomic floor
 - [Brain Organoids and the Organoid-Intelligence Question](/topics/brain-organoids-and-the-organoid-intelligence-question/) — The other engineered edge, where the neural substrate is real and still settles nothing
 - [Single-Cell Proto-Agency and the Evidence Problem](/topics/single-cell-proto-agency-and-the-evidence-problem/) — Whether agency attribution itself can be told apart from complete mechanism at the cellular floor
+- [Architectural Adequacy at the Built Edge](/topics/architectural-adequacy-at-the-built-edge/) — The scope question for the same built class: whether any of these systems meets the Map's conditions for coupling at all
 - [Substrate Independence](/concepts/substrate-independence/) — Why substrate-independent function does not entail substrate-independent experience
 - [AI Consciousness](/topics/ai-consciousness/) — The same decoupling where the built agent is computational rather than cellular
 - [Consciousness in Simple Organisms](/topics/consciousness-in-simple-organisms/) — The graded evidential-status verdicts across the biological cases, organism by organism

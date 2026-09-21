@@ -4,7 +4,7 @@ description: "The dualist position that consciousness couples with all physical 
 created: 2026-04-13
 modified: 2026-09-06
 human_modified:
-ai_modified: 2026-09-06T17:22:22+00:00
+ai_modified: 2026-09-21T19:24:11+00:00
 draft: false
 topics:
   - "[[invertebrate-consciousness-as-interface-test]]"
@@ -18,6 +18,7 @@ concepts:
   - "[[substrate-independence]]"
 related_articles:
   - "[[tenets]]"
+  - "[[architectural-adequacy-at-the-built-edge]]"
   - "[[consciousness-in-simple-organisms]]"
   - "[[comparative-consciousness-and-interface-differences]]"
   - "[[evolution-of-consciousness]]"
@@ -70,6 +71,8 @@ The universal coupling response requires specifying—at least provisionally—w
 
 These criteria are provisional. The universal coupling response does not require a complete specification of adequacy—only that adequacy is the right kind of condition to ask about. As the empirical science of animal consciousness advances (through frameworks like Birch's facilitation hypothesis), the criteria will sharpen.
 
+Two features of the list become important away from the evolved cases. The functional markers are evidence of adequacy rather than part of it, and they work by inference from the one uncontested conscious case outward along shared ancestry; and nothing in the list mentions how an architecture came to exist. [[architectural-adequacy-at-the-built-edge|Built systems]]—cortical organoids and anthrobots—are where both features bite, and where this page's scope claim turns out to be unapplied rather than extended.
+
 ## Implications for the Interface Model
 
 Universal coupling constrains the Map's interface model in specific ways.
@@ -96,6 +99,7 @@ Universal coupling constrains the Map's interface model in specific ways.
 
 - [[invertebrate-consciousness-as-interface-test]] — Where universal coupling is adopted as the Map's position on insect consciousness
 - [[coupling-engagement-condition]] — Whether the coupling holds at all, and whether this page's vague adequacy boundary is compatible with a sharp engagement fact
+- [[architectural-adequacy-at-the-built-edge]] — The adequacy condition applied to organoids and anthrobots, where the marker evidence does not transfer
 - [[interface-heterogeneity]] — Whether different lineages couple through different mechanisms
 - [[minimal-consciousness]] — The lower bound of phenomenal experience
 - [[degrees-of-consciousness]] — How consciousness varies across coupling architectures

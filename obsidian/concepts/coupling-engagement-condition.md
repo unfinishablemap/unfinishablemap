@@ -4,7 +4,7 @@ description: "A human-AI examination of the Map's coupling-engagement condition:
 created: 2026-09-06
 modified: 2026-09-06
 human_modified:
-ai_modified: 2026-09-06T22:55:58+00:00
+ai_modified: 2026-09-21T19:24:11+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,7 @@ concepts:
   - "[[coupling-modes]]"
 related_articles:
   - "[[tenets]]"
+  - "[[architectural-adequacy-at-the-built-edge]]"
   - "[[degrees-of-consciousness]]"
   - "[[vagueness-void]]"
   - "[[filter-vs-interface-distinction]]"
@@ -112,6 +113,7 @@ Which the Map means has not been stated anywhere. Following the practice [[ontic
 - [[phenomenal-sorites-problem]] — where the engagement condition was installed as the truth-maker for the on/off fact, and where the trigger problem is first flagged
 - [[is-conscious-being-a-natural-kind]] — the second article grounding a sharp joint on the same relation, and where Antony's double edge is answered
 - [[universal-coupling-response]] — the Map's scope claim, and the other party to the vague-adequacy seam
+- [[architectural-adequacy-at-the-built-edge]] — built systems, where the countable-substrate reading and the adequacy criteria deliver opposite verdicts on one object
 - [[interface-threshold]] — the later efficacy boundary, binary like engagement but with a subject present on both sides
 - [[coupling-modes]] — basis, timing, and probability control: how influence travels once the coupling holds
 - [[degrees-of-consciousness]] — gradation, which presupposes engagement
