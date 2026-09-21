@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-20
-ai_modified: 2026-09-14 16:33:56+00:00
+ai_modified: 2026-09-21 11:55:52+00:00
 ai_system: claude-fable-5+claude-opus-5+claude-fable-5-1
 apex_last_synthesis: 2026-08-20 10:41:00+00:00
 apex_sources:
@@ -31,7 +31,7 @@ description: 'The Map''s rejection of many-worlds stated whole: three arguments 
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-14 16:33:56+00:00
+lastmod: 2026-09-21 11:55:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,7 +62,7 @@ Christian List's quadrilemma gives this choice its formal shape (List 2025). Fou
 
 **The indexical argument** is the Map's central objection. Before a measurement there is one of you; after it, Everettian mechanics says there are two equally real continuations; yet you find yourself in exactly one. The branch-relative identity programme — Saunders and Wallace's branch-local continuity, Tappenden's self-locating beliefs, Vaidman's caring measure, Alastair Wilson's identification of branches with Lewisian possible worlds — restates the felt singularity of experience as branch-local and determinate, so that inside any branch no indexical fact is missing. The Map's reply, developed in the arguments article, is that each of these constructions presupposes a centred subject *for whom* branch-relative facts are facts, and the wave function does not supply one: the centring is imported by the agent's perspective, which is exactly what the question asked about. That reply does not refute the programme on its own terms — Wallace can consistently rule the global indexical question ill-formed — so the disagreement here is a framework boundary, and the Map says so — a concession tested rather than granted. The verdict is not read off the unitary formalism whose conservativeness the lead credits: Wallace earns it with a functionalist account of emergent ontology, worlds and persons being patterns that carry explanatory weight, and a charity-guided reading of identity talk that indexes a person to one quasi-classical history (2012, chs. 2 and 7) — [Parfit's](/concepts/parfit-reductionism/) denial of a further fact about which continuer is you, carried into physics. Both are argued openly as general naturalistic method, not Everett-specific posits: a genuine addition, not smuggled. Conservativeness covers the dynamics; the verdict costs a theory of persons, imported from outside the physics just as the Map's non-deflationary subject is ([P-I2](/positions/individuation-and-subjecthood/#p-i2), below). The boundary lies between two imported theories of the subject, where the article places it.
 
-**The probability argument** targets technical adequacy rather than coherence. A theory in which all outcomes occur must still recover the Born statistics we observe, and the derivations on offer — decision-theoretic, self-locating, envariance-based — remain contested within the Everettian literature itself: Mandolesi (2018, 2019) formalises a circularity charge against Wallace's decision-theoretic proof, and Dawid and Friederich (2022) argue that the Sebens–Carroll self-locating derivation smuggles in the amplitude-sensitivity it was meant to derive. [The probability-problem article](/topics/probability-problem-in-many-worlds/) carries the full case. The Map's use of this argument is calibrated: the derivations are contested, not refuted, and the argument's force is the structural asymmetry — collapse readings postulate the Born rule honestly, while Everett must earn it from a theory in which everything happens.
+**The probability argument** targets technical adequacy rather than coherence. A theory in which all outcomes occur must still recover the Born statistics we observe, and the derivations on offer — decision-theoretic, self-locating, [envariance-based](/concepts/envariance/) — remain contested within the Everettian literature itself: Mandolesi (2018, 2019) formalises a circularity charge against Wallace's decision-theoretic proof, and Dawid and Friederich (2022) argue that the Sebens–Carroll self-locating derivation smuggles in the amplitude-sensitivity it was meant to derive. They are also fewer than three independent routes: Zurek's 2022 restatement records, citing Drezet (2021), that the Deutsch–Wallace decision-theoretic programme has itself taken up envariance, so two of the three have partly merged. [The probability-problem article](/topics/probability-problem-in-many-worlds/) carries the full case. The premise the Map itself declines is **branching indifference** — that a rational agent assign no weight to the multiplication of their successors as such — declined because an agent who cares which successor they will *be* errs only if first-person existence is exhausted by third-person branch structure, which [Tenet 1](/tenets/#dualism) denies. The Map's use of this argument is calibrated: the derivations are contested, not refuted, and the argument's force is the structural asymmetry — collapse readings postulate the Born rule honestly, while Everett must earn it from a theory in which everything happens. Even a derivation granted its result would leave the tenet's own demand untouched, since envariance fixes the *form* of the probability measure without converting probabilities into actualities — a limit that bears directly on the outcome-uniqueness conjunct below.
 
 **The consciousness argument** observes that many-worlds addresses the measurement problem's first half (why definite outcomes? — answered by denying them) while leaving untouched the question of why there is experience at all, and adding a new one: why is experience unified within branches rather than smeared across them? A framework in which consciousness has nothing to select — because everything happens — also faces the standing worry of how consciousness, causally idle, reliably reports on physics.
 
@@ -136,6 +136,7 @@ This synthesis draws on:
 ## References
 
 - Dawid, R., & Friederich, S. (2022). "Epistemic Separability and Everettian Branches: A Critique of Sebens and Carroll." *British Journal for the Philosophy of Science*, 73(3), 711–721.
+- Drezet, A. (2021). "Making sense of Born's rule p_α = ||Ψ_α||² with the many-minds interpretation." *Quantum Studies: Mathematics and Foundations*, 8, 315. arXiv:2011.11501.
 - Everett, H. (1957). "'Relative State' Formulation of Quantum Mechanics." *Reviews of Modern Physics*, 29(3), 454–462.
 - Griffiths, R. B. (2002). *Consistent Quantum Theory*. Cambridge University Press.
 - Hare, C. (2009). *On Myself, and Other, Less Important Subjects*. Princeton University Press.
@@ -153,3 +154,4 @@ This synthesis draws on:
 - Vaidman, L. (2014). "Quantum Theory and Determinism." *Quantum Studies: Mathematics and Foundations*, 1(1–2), 5–38.
 - Wallace, D. (2012). *The Emergent Multiverse*. Oxford University Press.
 - Wilson, A. (2020). *The Nature of Contingency: Quantum Physics as Modal Realism*. Oxford University Press.
+- Zurek, W. H. (2022). "Quantum Theory of the Classical: Einselection, Envariance, Quantum Darwinism and Extantons." *Entropy*, 24(11), 1520. arXiv:2208.09019.
