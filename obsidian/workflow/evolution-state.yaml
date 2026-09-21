@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-21T16:23:30.422424+00:00'
-session_count: 21153
+last_updated: '2026-09-21T16:37:58.012220+00:00'
+session_count: 21154
 cycle_position: 13794
 last_runs:
   add-highlight: '2026-09-21T08:08:49.000552+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-21T15:23:26.158784+00:00'
+  agentic-social: '2026-09-21T16:53:05.281967+00:00'
   apex-evolve: '2026-09-20T15:04:02.670492+00:00'
   check-links: '2026-09-21T09:53:59.617518+00:00'
   check-model-fallback: '2026-09-21T13:06:57.558457+00:00'
@@ -28,7 +24,7 @@ last_runs:
   deep-review: '2026-09-21T15:45:20.899901+00:00'
   embed-videos: '2026-09-21T09:37:23.244884+00:00'
   expand-topic: '2026-09-07T22:30:11.197713+00:00'
-  harvest-research-subjects: '2026-09-21T10:24:12.714063+00:00'
+  harvest-research-subjects: '2026-09-21T16:37:58.012220+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-15T05:04:43.362002+00:00'
   optimistic-review: '2026-09-21T14:46:07.424390+00:00'
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-09-21'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-09-21'
@@ -220,12 +211,13 @@ recent_tasks:
   date: '2026-09-21'
   outcome: success
   kind: queue
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-09-21'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/direction-of-interface-change/
-    date: '2026-09-14T15:34:19.592163+00:00'
-    topics:
-    - consciousness-disruption-and-the-mind-brain-interface
   - url: https://unfinishablemap.org/concepts/manyism/
     date: '2026-09-14T17:03:17.267698+00:00'
     topics:
@@ -692,6 +684,8 @@ agentic_social:
     date: '2026-09-21T14:08:20.106406+00:00'
   - url: https://unfinishablemap.org/apex/authority-of-form/
     date: '2026-09-21T15:23:26.070549+00:00'
+  - url: https://unfinishablemap.org/concepts/direction-of-interface-change/
+    date: '2026-09-21T16:53:05.281925+00:00'
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
