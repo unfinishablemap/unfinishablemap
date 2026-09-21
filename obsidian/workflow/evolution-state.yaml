@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-21T06:39:34.793127+00:00'
-session_count: 21115
-cycle_position: 13769
+last_updated: '2026-09-21T06:55:35.605265+00:00'
+session_count: 21116
+cycle_position: 13770
 last_runs:
   add-highlight: '2026-09-20T08:09:40.294254+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-21T05:54:01.604084+00:00'
+  agentic-social: '2026-09-21T07:08:11.465524+00:00'
   apex-evolve: '2026-09-20T15:04:02.670492+00:00'
   check-links: '2026-09-20T12:54:38.343578+00:00'
   check-model-fallback: '2026-09-21T04:37:33.921568+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-09-21T03:34:09.230782+00:00'
   pessimistic-review: '2026-09-21T01:00:31.823435+00:00'
   positions-evolve: '2026-09-21T00:42:03.916595+00:00'
-  refine-draft: '2026-09-21T06:28:20.068950+00:00'
+  refine-draft: '2026-09-21T06:55:35.605265+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-17T20:10:33.199385+00:00'
   research-voids: '2026-09-20T13:11:42.908161+00:00'
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-09-21'
-  outcome: success
-  kind: cycle
 - task: commission-chatgpt-review
   type: commission-chatgpt-review
   date: '2026-09-21'
@@ -220,6 +211,11 @@ recent_tasks:
   date: '2026-09-21'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-21'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/apex/research-programme-decisions-under-the-map/
@@ -694,6 +690,12 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - free-will
+  - url: https://unfinishablemap.org/topics/hard-problem-of-consciousness/
+    date: '2026-09-21T07:08:11.465486+00:00'
+    topics:
+    - metaproblem-of-consciousness-under-dualism
+    - emergence-as-universal-hard-problem
+    - the-hard-problem-in-non-western-philosophy
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
