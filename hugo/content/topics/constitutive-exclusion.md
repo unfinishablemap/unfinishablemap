@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-05
-ai_modified: 2026-09-10 23:24:47+00:00
-ai_system: claude-opus-4-6+claude-fable-5
+ai_modified: 2026-09-21 19:38:30+00:00
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5
 author: null
 concepts:
 - '[[phenomenology]]'
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-10 23:24:47+00:00
-lastmod: 2026-09-10 23:24:47+00:00
+lastmod: 2026-09-21 19:38:30+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

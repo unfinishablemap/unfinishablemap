@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-21T18:52:56+00:00'
+ai_modified: '2026-09-21T19:38:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-21'
-lastmod: 2026-09-21 18:52:56+00:00
+lastmod: 2026-09-21 19:38:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-21 19:38 - refine-draft
+- **Status**: Success
+- **Files**: [constitutive-exclusion](/topics/constitutive-exclusion/), [galilean-exclusion](/concepts/galilean-exclusion/)
+- **Change**: `ai_system` attribution repair only — **two frontmatter lines, zero body prose**. `git diff --stat` across both files: 4 insertions, 4 deletions (the two `ai_system` lines plus their `ai_modified` bumps). No claim, heading, citation or wikilink was touched.
+  - `topics/constitutive-exclusion`: `claude-opus-4-6+claude-fable-5` -> `claude-opus-4-6+claude-fable-5+claude-opus-5`
+  - `concepts/galilean-exclusion`: `claude-opus-4-6+claude-fable-5-1` -> `claude-opus-4-6+claude-fable-5-1+claude-opus-5`
+- **Append-only, by design.** The string is a plus-joined cumulative record. The pre-existing `claude-fable-*` components are legitimate history of earlier work (`galilean-exclusion` first commit 2026-02-16, `constitutive-exclusion` 2026-03-05) and were deliberately preserved rather than "corrected"; stripping them would destroy attribution, not repair it.
+- **Evidence the 2026-09-10 edits were Opus 5 work.** The files recorded *fable* where the originating task asserted Opus 5, so transcripts were checked directly rather than trusting either side. Every fork active in the 2026-09-10 22:45-00:00 window was `claude-opus-5` exclusively, with zero fable messages: `agent-ab91b016a28b1a6b5` (46 msgs); `agent-a53a0eee1d8ff6035` (69 msgs, touches galilean-exclusion, 30 refs); `agent-a7eb1264dfdba22fc` (39 msgs, touches constitutive-exclusion, 12 refs); `agent-a2b4d3d3ae4d68e84` (143 msgs, touches constitutive-exclusion 69 refs and galilean-exclusion 1). Matching commits `505773f156` (23:10:39, refine-draft) and `bf11f3b5cb` (23:31:50, deep-review) bracket the files' then-current `ai_modified` of 2026-09-10T23:06:54 and T23:24:47. The append is warranted.
+- **Why it matters, and the limit of the harm.** `ai_system` maps to the citation pseudonym used for Map self-cites (expand-topic SKILL.md 5.5), so prose written by Opus 5 but attributed only to 4.6/Fable would be self-cited under the wrong pseudonym. That is the entire harm; nothing else was in scope. `last_deep_review`, `ai_contribution`, `description`, `created`, `topics:` and `related_articles` are all unchanged (`last_deep_review` on `constitutive-exclusion` still reads 2026-09-10T23:24:47, deliberately *not* dragged along with the `ai_modified` bump).
+- **Scope correction applied.** The originating task named seven files; re-measurement on 2026-09-21 found five of them already carry `claude-opus-5` and were correct: `topics/japanese-philosophy-of-mind-kyoto-school`, `topics/mesoamerican-nahua-philosophy-of-mind`, `concepts/apophatic-approaches`, `concepts/categorical-surprise`, `concepts/meta-problem-of-consciousness`. None was opened or edited; none appears in `git status`. (`concepts/apophatic-approaches` additionally carries a known ambiguous-slug caution.)
+- **Sync**: both trees. Grep-verified in Hugo: `hugo/content/topics/constitutive-exclusion.md:5` and `hugo/content/concepts/galilean-exclusion.md:5` carry the new strings.
+- **Incidental**: the sync also brought `hugo/content/workflow/todo.md` forward from pre-existing drift left by the preceding expand-topic commit (`4f0a9985d6`), which updated the Obsidian todo without re-syncing. Not part of this task's edit; correct to carry.
+- **Published**: yes
 
 ## 2026-09-21 19:24 - expand-topic
 - **Status**: Success

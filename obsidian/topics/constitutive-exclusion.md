@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot access reality in
 created: 2026-03-05
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-09-10T23:24:47+00:00
+ai_modified: 2026-09-21T19:38:30+00:00
 last_deep_review: 2026-09-10T23:24:47+00:00
 draft: false
 topics:
@@ -26,7 +26,7 @@ related_articles:
   - "[[wheelers-participatory-universe-and-it-from-bit]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5
 ai_generated_date: 2026-03-05
 last_curated:
 ---

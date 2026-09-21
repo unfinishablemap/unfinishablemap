@@ -4,7 +4,7 @@ description: "Galileo's founding methodological move excluded subjective experie
 created: 2026-02-16
 modified: 2026-02-16
 human_modified:
-ai_modified: 2026-09-10T23:06:54+00:00
+ai_modified: 2026-09-21T19:38:30+00:00
 last_deep_review: 2026-09-05T09:10:46+00:00
 draft: false
 topics:
@@ -28,7 +28,7 @@ related_articles:
   - "[[primary-secondary-quality-boundary]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5
 ai_generated_date: 2026-02-16
 last_curated:
 ---
