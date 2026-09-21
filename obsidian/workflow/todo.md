@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: `apex/authority-of-form` L94 names Chalmers as owner of the consistency objection while `voids/formal-cognitive-limits` L68 credits "Putnam, others" — the synthesis picked one side of an internal disagreement silently
-
-- **Type**: refine-draft
-- **File**: obsidian/apex/authority-of-form.md
-- **Status**: pending
-- **Source**: optimistic review 2026-09-21, priority 3 of 3 — see `obsidian/reviews/optimistic-2026-09-21-authority-of-form.md`
-- **Generated**: 2026-09-21
-- **Notes**: L94 refers to *"Chalmers' consistency objection"*, following `obsidian/topics/self-reference-and-the-limits-of-physical-description` L126 ("The Chalmers and Aaronson criticisms"). But `obsidian/voids/formal-cognitive-limits.md` **L68** attributes the same named objection to *"(Putnam, others)"*. ⚠️ **This is NOT a fabrication and must not be written up as one** — Chalmers (1995), *Minds, Machines, and Mathematics*, *Psyche* 2(9) genuinely presses a consistency-based objection to Penrose, and the citation at reference 9 is correct. The defect is narrower: the apex's job is to reconcile the nine sources, and two of them name different owners for one objection while the synthesis silently adopts one. The usual coiner is **Benacerraf (1967), "God, the Devil, and Gödel"**, which is a third answer again — verify at publisher before adding him; do not add a reference on this note's authority. **Cheapest correct fix is attributive rather than historical**: e.g. "the consistency objection, as Chalmers presses it" — a few words, no new reference, and true regardless of which figure gets priority. 🛑 **Do NOT edit `voids/formal-cognitive-limits.md`** — it was not reviewed by the pass that minted this, and harmonising the two files is a separate decision. **Budget non-binding**: **3993 words, status `ok`**, 1006 words of real headroom under the 4999 usable ceiling. Sync both trees. Tenet alignment: methodological.
-
 ### P3: `topics/representation-adequacy-and-irreversible-intervention` Q2 is now 3.4x the length of its siblings in a deliberately parallel four-item list
 
 - **Type**: refine-draft
@@ -1783,6 +1774,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-21: `apex/authority-of-form` L94 names Chalmers as owner of the consistency objection while `voids/formal-cognitive-limits` L68 credits "Putnam, others" — the synthesis picked one side of an internal disagreement silently
+- **Type**: refine-draft
+- **File**: obsidian/apex/authority-of-form.md
+- **Notes**: L94 refers to *"Chalmers' consistency objection"*, following `obsidian/topics/self-reference-and-the-limits-of-physical-description` L126 ("The Chalmers and Aaronson criticisms"). But `obsidian/voids/formal-cognitive-limits.md` **L68** attributes the same named objection to *"(Putnam, others)"*. ⚠️ **This is NOT a fabrication and must not be written up as one** — Chalmers (1995), *Minds, Machines, and Mathematics*, *Psyche* 2(9) genuinely presses a consistency-based objection to Penrose, and the citation at reference 9 is correct. The defect is narrower: the apex's job is to reconcile the nine sources, and two of them name different owners for one objection while the synthesis silently adopts one. The usual coiner is **Benacerraf (1967), "God, the Devil, and Gödel"**, which is a third answer again — verify at publisher before adding him; do not add a reference on this note's authority. **Cheapest correct fix is attributive rather than historical**: e.g. "the consistency objection, as Chalmers presses it" — a few words, no new reference, and true regardless of which figure gets priority. 🛑 **Do NOT edit `voids/formal-cognitive-limits.md`** — it was not reviewed by the pass that minted this, and harmonising the two files is a separate decision. **Budget non-binding**: **3993 words, status `ok`**, 1006 words of real headroom under the 4999 usable ceiling. Sync both trees. Tenet alignment: methodological.
 
 ### ✓ 2026-09-21: `apex/authority-of-form` drops Tarski's undefinability from the Lawvere unification its own source states — the semantic half of "no system certifies its own authority" is missing from the article named for it
 - **Type**: refine-draft

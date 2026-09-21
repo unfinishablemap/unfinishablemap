@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-21T17:53:36+00:00'
+ai_modified: '2026-09-21T18:07:40+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-21'
-lastmod: 2026-09-21 17:53:36+00:00
+lastmod: 2026-09-21 18:07:40+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-21 18:07 - refine-draft
+- **Status**: Success
+- **File**: [authority-of-form](/apex/authority-of-form/)
+- **Word count**: 4162 -> 4166 (+4). Apex soft 4000 / hard 5000, gate `>=`, usable ceiling 4999 — 833 words of headroom remain. Status `soft_warning` before and after; `soft_warning` is mechanically inert and the gating threshold (`hard_warning`) was not approached. No padding.
+- **Changes**: One attributive clause at the "An articulation limit is not a non-physical operation" paragraph (L94). Before: "...precisely because **Chalmers' consistency objection** and Aaronson's computability-versus-complexity objection both land on the crossing, not on the destination." After: "...precisely because **the consistency objection, as Chalmers presses it**, and Aaronson's computability-versus-complexity objection both land on the crossing, not on the destination." Nothing else in the file was touched.
+- **Defect addressed**: Two of the nine wing sources name different owners for the same objection. `topics/self-reference-and-the-limits-of-physical-description` L126 speaks of "the Chalmers and Aaronson criticisms"; `voids/formal-cognitive-limits` L68 attributes "the consistency objection" to "Putnam, others". The synthesis silently adopted one side of that divergence, asserting ownership its own sources dispute. The repaired clause names Chalmers as a presser of the objection rather than its owner, which is true on either reading of the priority question.
+- **Not a fabrication**: Chalmers (1995), *Minds, Machines, and Mathematics*, *Psyche* 2(9) — reference 9 — genuinely presses a consistency-based objection to Penrose. The citation is correct and was retained verbatim. The defect was attributive framing only.
+- **Priority deliberately left unadjudicated**: Benacerraf (1967) and earlier Putnam are plausible answers to who has priority on the consistency objection, but neither was verifiable this session — the WebSearch budget was exhausted (200/200) before this pass began, so no publisher of record could be consulted. No name, date or reference entry was added on unverified grounds; adding a wrong coiner would be a worse defect than the one repaired. The reference list stands at 15 entries, unchanged. Harmonising the `voids/formal-cognitive-limits` attribution with this one is a separate operator decision and was not attempted.
+- **Untouched**: today's other two loci — L130 (the `concepts/self-stultification` Yetter-Chappell retreat) and L90 (the Tarski restoration and reference 15) — plus `description`, `ai_contribution`, `ai_system`, and both source articles. The load-bearing closure "The Map's case does not run through Lucas–Penrose." was grep-verified intact in both the Obsidian and Hugo trees after the edit.
+- **Published**: yes
 
 ## 2026-09-21 17:53 - refine-draft
 - **Status**: Success

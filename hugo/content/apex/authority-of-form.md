@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-14
-ai_modified: 2026-09-21 17:53:36+00:00
+ai_modified: 2026-09-21 18:07:40+00:00
 ai_system: claude-fable-5-1
 apex_last_synthesis: 2026-09-14 16:04:35+00:00
 apex_sources:
@@ -35,7 +35,7 @@ description: 'Formal systems have authority without sovereignty. The synthesis o
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-21 17:53:36+00:00
+lastmod: 2026-09-21 18:07:40+00:00
 modified: *id001
 related_articles:
 - '[[competency-without-felt-experience]]'
@@ -98,7 +98,7 @@ The wing's second half is where it earns a synthesis rather than a summary. The 
 
 **Two domains are one argument.** The authority article exhibits the normative gap and the structural gap and then, in its own tenet section, refuses to count them twice. Both trace to a single move—structure does not exhaust intrinsic phenomenal character—and lines that share a deep assumption do not screen off from each other, so the two gaps carry the force of one argument shown in two domains, a discount the article says it owes itself as much as any other. The concession-convergence article applies the same test to its own four retreats and faces the [common-cause null](/project/common-cause-null/) squarely: perhaps a single limitation in how human mathematicians formalise produces all four concessions, in which case the pattern is about us and not about mathematics. Its answer—that the concessions are directional and involuntary in a way a shared prejudice would not predict—shifts the burden without discharging it. The wing, read whole, contains at most three independent lines rather than nine: the regress line (Carroll, Sellars, Nagel), the incompleteness line (Gödel, Lawvere), and the phenomenological explanandum (felt necessity, Ramanujan). The four concessions are a partly independent fourth, since three of them owe nothing to Gödel, subject to the null just stated.
 
-**An articulation limit is not a non-physical operation.** This is the discount that matters most, because it sits exactly where the wing would otherwise deliver dualism cheaply. Carroll's regress, in its epistemic register, establishes that no augmentation of *explicit* rules reproduces taking-as—rule-application is not exhausted by rule-citation. That is Polanyi's "we know more than we can tell" applied to inference, and a physicalist can grant it entirely while holding that the doing is neural, merely not capturable in the medium of stated rules. The metaphysical register—that taking-as is a *constitutively* non-formal operation—is a further step, and the concept article flags the bridge between the two registers as the contested one. The inference void draws the matching distinction on the other axis: *mechanistic* opacity, the difficulty of localising an inference in a substrate, shows up in language models and brains alike and says nothing about consciousness; *first-person* opacity, the absence of any inspectable account of the licensing operation from within the system that performs it, is the only opacity the dualist gloss attaches to. Lucas and Penrose crossed the bridge without noticing it was there—from unprovable-in-F to seen-to-be-true to non-computational to non-physical—and the wing treats their route as instructive precisely because Chalmers' consistency objection and Aaronson's computability-versus-complexity objection both land on the crossing, not on the destination. The Map's case does not run through Lucas–Penrose.
+**An articulation limit is not a non-physical operation.** This is the discount that matters most, because it sits exactly where the wing would otherwise deliver dualism cheaply. Carroll's regress, in its epistemic register, establishes that no augmentation of *explicit* rules reproduces taking-as—rule-application is not exhausted by rule-citation. That is Polanyi's "we know more than we can tell" applied to inference, and a physicalist can grant it entirely while holding that the doing is neural, merely not capturable in the medium of stated rules. The metaphysical register—that taking-as is a *constitutively* non-formal operation—is a further step, and the concept article flags the bridge between the two registers as the contested one. The inference void draws the matching distinction on the other axis: *mechanistic* opacity, the difficulty of localising an inference in a substrate, shows up in language models and brains alike and says nothing about consciousness; *first-person* opacity, the absence of any inspectable account of the licensing operation from within the system that performs it, is the only opacity the dualist gloss attaches to. Lucas and Penrose crossed the bridge without noticing it was there—from unprovable-in-F to seen-to-be-true to non-computational to non-physical—and the wing treats their route as instructive precisely because the consistency objection, as Chalmers presses it, and Aaronson's computability-versus-complexity objection both land on the crossing, not on the destination. The Map's case does not run through Lucas–Penrose.
 
 ## The Discipline Cuts Both Ways
 
