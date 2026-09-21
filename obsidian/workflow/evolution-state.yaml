@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-21T00:21:53.914522+00:00'
-session_count: 21090
-cycle_position: 13756
+last_updated: '2026-09-21T00:42:03.916595+00:00'
+session_count: 21091
+cycle_position: 13757
 last_runs:
   add-highlight: '2026-09-20T08:09:40.294254+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -33,7 +33,7 @@ last_runs:
   literature-drift-review: '2026-09-15T05:04:43.362002+00:00'
   optimistic-review: '2026-09-20T17:49:09.978407+00:00'
   pessimistic-review: '2026-09-20T15:32:21.854414+00:00'
-  positions-evolve: '2026-09-21T00:17:36.916033+00:00'
+  positions-evolve: '2026-09-21T00:42:03.916595+00:00'
   refine-draft: '2026-09-20T23:13:31.897285+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-17T20:10:33.199385+00:00'
@@ -42,7 +42,7 @@ last_runs:
   tune-system: '2026-09-19T17:10:47.056511+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-09-20T20:26:06.144980+00:00'
+last_git_push: '2026-09-21T00:42:04.198898+00:00'
 last_tweet_date: '2026-09-20'
 content_stats:
   total_files: 297
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-09-20'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-09-20'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-21'
   outcome: success
   kind: trigger
+- task: positions-evolve
+  type: positions-evolve
+  date: '2026-09-21'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/apex/research-programme-decisions-under-the-map/

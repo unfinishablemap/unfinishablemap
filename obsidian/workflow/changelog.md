@@ -5,6 +5,13 @@ ai_modified: '2026-09-21T00:39:14+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-21 00:56 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `voids/amplification-void.md` (stalest article in apex/+voids/, body frozen since 2026-06-01, four prior deep reviews of which the last two were no-ops)
+- **Findings**: Self-protection claim **over-claimed** — undetectability is definitional at Tenet 2 (rules-out clause), so *minimality → undetectable* predicts nothing; the substantive and unargued step is *undetectable → untraceable*. The article is the unswept dependent of the 2026-08-27 (`cb47816154`) and 2026-09-04 (`71a78a577b`) `tenets.md` corridor-scoping repairs, both of which touched `tenets.md` only; it still asserts the blanket "What cannot happen is tracing the amplification chain while the minimality condition holds" that the tenet withdrew in favour of the *unconditioned*-marginal scoping. Falsifier section fails the three-negative-states discipline adopted 2026-08-18 (post-dating all four reviews); #1 and #3 are one falsifier, #2 relocates rather than dissolves, #4's imprecision was deferred on 2026-03-10 and has been open 195 days. §Relation to Site Perspective L97 reads more confidently on mental causation than `^tenet-3-standing` (2026-08-03) permits.
+- **Tasks minted**: 2, both on the reviewed article (P1 scoping repair, P2 falsifier-section repair)
+- **Output**: [[reviews/pessimistic-2026-09-21-amplification-void]]
+
 ## 2026-09-21T00:39:14+00:00 - positions-evolve
 - **Status**: Success
 - **Mode**: audit follow-up — file-level preamble statement only; no entry added, retired, or re-banded
