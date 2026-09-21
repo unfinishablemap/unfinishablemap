@@ -4,8 +4,8 @@ description: "A position is self-stultifying—epistemically self-defeating—wh
 created: 2026-02-02
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-09-07T11:05:47+00:00
-last_deep_review: 2026-07-12T04:03:00+00:00
+ai_modified: 2026-09-21T07:45:00+00:00
+last_deep_review: 2026-09-21T07:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,7 +54,7 @@ Epistemology distinguishes two kinds of *defeaters*—considerations that underm
 
 **Undercutting defeaters** do not show the belief is false but undermine the process that produced it. Learning that one's colour vision is impaired undercuts beliefs about colour formed through vision, even without showing any particular colour judgment to be wrong. The defeater targets the belief's justificatory basis.
 
-Self-stultification is a special case of undercutting: the belief itself, if true, undercuts the process by which anyone could arrive at it. The belief generates its own defeater. Alvin Plantinga's evolutionary argument against naturalism (1993) formalised this structure: if naturalism and evolution are both true, then our cognitive faculties were shaped by natural selection for survival, not for truth. This gives us an undercutting defeater for the reliability of those faculties—including the reasoning that led us to accept naturalism.
+Self-stultification is a special case of undercutting: the belief itself, if true, undercuts the process by which anyone could arrive at it. The belief generates its own defeater. Alvin Plantinga's evolutionary argument against naturalism (1993) formalised this structure: if naturalism and evolution are both true, then selection favoured advantageous behaviour rather than true belief, leaving the probability that our cognitive faculties are reliable low or inscrutable. This gives us an undercutting defeater for the reliability of those faculties—including the reasoning that led us to accept naturalism.
 
 Note the asymmetry with ordinary sceptical challenges. Ordinary undercutting defeaters come from *outside* the belief—new evidence, a discovered flaw in one's reasoning. Self-stultification comes from *within*: the content of the belief itself generates the defeater. One cannot simply gather more evidence or refine one's reasoning, because the very processes of gathering evidence and refining reasoning are what the belief calls into question.
 
@@ -138,7 +138,7 @@ The argument from reason argues that physicalism is self-stultifying because rat
 
 Externalists about justification (reliabilists, proper functionalists) argue that a belief can be justified by the reliability of the process that produced it, regardless of what the believer can access. On this view, self-stultification is less threatening: if the brain reliably tracks truth, then beliefs produced by the brain are justified, even if the believer cannot verify the reliability from the inside.
 
-This reply has force but faces a regress. The question becomes: is the *belief that the process is reliable* itself reliably produced? Plantinga's argument targets exactly this point. If naturalism undercuts the general reliability of our faculties, it undercuts the specific faculty that produced the belief in reliability. The defeater is not escaped by moving to a higher order—it regenerates at each level.
+This reply has force but faces a regress. The question becomes: is the *belief that the process is reliable* itself reliably produced? Plantinga's argument (1993, 2002) targets exactly this point. If naturalism undercuts the general reliability of our faculties, it undercuts the specific faculty that produced the belief in reliability. The defeater is not escaped by moving to a higher order—it regenerates at each level.
 
 A deeper objection: reliability is itself a normative concept. A process counts as reliable because it produces true beliefs, and truth is how beliefs *ought* to be—a statistical correlation between neural outputs and world states is not the same as beliefs being *justified*. The reliabilist account presupposes the normative concepts it claims to naturalize.
 
@@ -186,9 +186,9 @@ The self-stultification structure has ancient roots. The Cretan liar paradox ("A
 
 In the philosophy of mind, the argument gained prominence through:
 
-- **William James** (1879): Argued that epiphenomenalism makes consciousness an inexplicable "side effect" that couldn't have evolved.
+- **William James** (1879): Argued that treating feeling as "a mere collateral product" of nervous processes leaves its evolution inexplicable.
 - **C.S. Lewis** (1947): Applied self-defeat reasoning to naturalism in *Miracles*, substantially revised after Elizabeth Anscombe's critique.
-- **Karl Popper** (1977): Argued with John Eccles in *The Self and Its Brain* that determinism undermines rational evaluation.
+- **Karl Popper** (1977): Argued, with John Eccles, in *The Self and Its Brain* that determinism undermines rational evaluation.
 - **Alvin Plantinga** (1993): Developed the evolutionary argument against naturalism, a related self-defeat structure.
 - **Victor Reppert** (2003): Provided comprehensive defense of the argument from reason.
 
