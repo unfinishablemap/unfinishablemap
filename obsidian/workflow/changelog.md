@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-21T15:08:23+00:00'
+ai_modified: '2026-09-21T16:05:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-21 16:05 - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenology-of-choice-and-volition]]
+- **Word count**: 2590 → 2596 (+6)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Why this pass was not a no-op re-trigger**: the 2026-07-20 review (8th) recommended deferring unless the body substantively changed. It did — `64ed260f5d` (08-20) replaced an uncited motor-latency claim with **two new citations**, `b1adfdf1a6` (07-30) replaced a fabricated-as-verbatim Tallis quote with a paraphrase, `bd871bb6ea` (08-19) fixed the Tallis year. None of that material had ever been deep-reviewed.
+- **Citation web-verify (publisher of record, every field printed)**: WebSearch budget exhausted for the session; verified via NCBI E-utilities `efetch` PubMed XML instead.
+  - **Thura & Cisek 2014** — **real-correct**. PMID 24656257; authors `Thura D; Cisek P`; title exact; *Neuron* 81(6):1401-1416; DOI 10.1016/j.neuron.2014.01.031. Result-direction leg **passes**: abstract states verbatim *"Approximately 280 ms before movement onset, PMd activity tuned to the selected target reached a consistent peak… constitutes the volitional commitment to an action choice."* The article's figure is the authors' own.
+  - **Rajan et al. 2019** — **real-correct**. PMID 29931088; PMC6611462; DOI 10.1093/cercor/bhy149; all six authors in correct order (`Rajan A; Siegel S N; Liu Y; Bengson J; Mangun G R; Ding M`); *Cerebral Cortex* 29(7):2832-2843. Result-direction leg **passes**: *"we found increases in frontal theta power (starting at ~500 ms post cue) for willed attention relative to instructed attention"* — willed > instructed, as stated, replicated across two experiments.
+  - **Tallis paraphrase** ("As Tallis argues, illusions presuppose experience") — **faithful, and weaker than the source**. Grep-verified in the raw HTML of Tallis's *New Atlantis* essay (No. 29, Fall 2010), the argument-source feeding *Aping Mankind*: *"illusions must be experienced by some being, but 'being something' is itself an illusory experience."* The repair did not overshoot. Google Books API returned zero on both the target query and an `intitle:Aping Mankind` **control** — quota-dead, not an absence signal; caveat recorded in the review file.
+- **Medium issue fixed**: L119 paired a **macaque** single-unit result with a **human** EEG result in one clause and drew a conscious-selection inference, without marking the species seam — a §2.5 qualifier gap inherited verbatim from the archived predecessor `archive/concepts/phenomenology-of-choice.md` L120 that the 08-20 repair used as template. Two live siblings already carry the qualifier (`topics/authentic-vs-inauthentic-choice` L140, `topics/motor-control-quantum-zeno` L68), so this was the unmarked variant of an existing corpus convention. Now: "Neural populations **in monkey premotor cortex** commit…, and **in humans** willed attention carries…". +5 words, no claim altered.
+- **Libet drift watch (07-20 standing instruction)**: calibration **holds**. Header still "…and Its Weakening"; body "substantially weakened" / "contested"; Tenet 3 paragraph "weakened by". The 08-20 insertion *added* a hedge — "though they do not by themselves establish it" — so the new text is better calibrated than what it replaced. No creep toward "Libet refuted / agency proven".
+- **Not re-opened** (per driver + prior ratifications): reference orphans (Bayne, Fried, Nahmias, Pacherie — four-times-ratified editorial decision; the naive (surname, year) check over-reports to ~14 here because the article cites narratively without years); Tallis year 2011; publisher "Acumen" (corpus majority form). `[[quantum-indeterminacy-free-will|luck objection]]` label **verified** rather than re-litigated — target has a dedicated luck-objection section and `coalesced_from: /concepts/luck-objection/`.
+- **Superlative sweep**: `find_superlative_claims` returns 0. Not applicable.
+- **Length**: 2596 words, concepts soft 2500 / hard 3500 → `soft_warning`, no mechanical consequence, ~900 words headroom. The 07-20 "must stay length-neutral" instruction was **stale** and was not followed; no compensating cut made.
+- **Cross-file (reported, not edited)**: `apex/dualism-cartography`'s Rajan cite is **sound** — same record, metadata matches. Thura & Cisek species-marking is inconsistent across ~10 further live files; not swept (needs per-locus judgement, not string replacement).
+- **Frontmatter**: `ai_modified` and `last_deep_review` → 2026-09-21T16:05:00+00:00; `ai_system` → claude-opus-4-6+claude-fable-5+claude-opus-5.
+- **Published**: yes (synced; verified live in `hugo/content/concepts/phenomenology-of-choice-and-volition.md` L124)
+- **Output**: [[reviews/deep-review-2026-09-21-phenomenology-of-choice-and-volition]]
 
 ## 2026-09-21 15:08 - refine-draft
 - **Status**: Success

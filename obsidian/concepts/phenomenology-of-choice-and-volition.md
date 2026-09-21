@@ -4,7 +4,7 @@ description: "The experiential arc from deliberation through decision to volitio
 created: 2026-01-22
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-08-20T14:38:43+00:00
+ai_modified: 2026-09-21T16:05:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -44,10 +44,10 @@ related_articles:
   - "[[phenomenology-of-intellectual-life]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5
 ai_generated_date: 2026-01-22
 last_curated:
-last_deep_review: 2026-07-20T13:46:42+00:00
+last_deep_review: 2026-09-21T16:05:00+00:00
 coalesced_from:
   - "/concepts/phenomenology-of-choice/"
   - "/concepts/phenomenology-of-volition/"
@@ -116,7 +116,7 @@ This maps onto the neural distinction between [[attention-as-interface|willed an
 
 ## Motor Selection as Paradigm Case
 
-[[motor-selection|Motor selection]] provides the clearest instance where effort phenomenology matches mechanism. Neural populations commit to a selected action roughly 280ms before movement onset (Thura & Cisek, 2014), and willed attention carries a relative increase in frontal theta power over instructed attention (Rajan et al., 2019) — signatures consistent with consciousness engaging at the selection stage, though they do not by themselves establish it. The Desmurget dissociation is revealing: stimulating inferior parietal cortex produces conscious intention *without* movement; stimulating premotor cortex produces movement *without* intention phenomenology. Effort tracks conscious contribution at the selection interface, not execution downstream. You experience willing to type a word, not willing each finger movement — consciousness operates at the level of goals and selection.
+[[motor-selection|Motor selection]] provides the clearest instance where effort phenomenology matches mechanism. Neural populations in monkey premotor cortex commit to a selected action roughly 280ms before movement onset (Thura & Cisek, 2014), and in humans willed attention carries a relative increase in frontal theta power over instructed attention (Rajan et al., 2019) — signatures consistent with consciousness engaging at the selection stage, though they do not by themselves establish it. The Desmurget dissociation is revealing: stimulating inferior parietal cortex produces conscious intention *without* movement; stimulating premotor cortex produces movement *without* intention phenomenology. Effort tracks conscious contribution at the selection interface, not execution downstream. You experience willing to type a word, not willing each finger movement — consciousness operates at the level of goals and selection.
 
 ## Effort as Evidence
 
