@@ -5,6 +5,19 @@ ai_modified: '2026-09-21T00:39:14+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-21 05:23 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/categorical-surprise]]
+- **Task**: P1 from the 2026-09-21 outer-review cycle — `concepts/categorical-surprise` credits Chalmers 1996 with the explanatory gap, contradicting the Map's own `concepts/explanatory-gap` (L44: "Joseph Levine introduced the term in 1983"). A Claude-only singleton; ChatGPT §9 and Gemini §5.1 both audited the same citation and passed it.
+- **Changes**:
+  - **L89 body repair.** Was: *"Categorical surprise provides a specific test case for the [[explanatory-gap]] (Chalmers 1996)."* Now: *"…for the [[explanatory-gap]] (Levine 1983; developed at length in Chalmers 1996)."* Levine, J. (1983), "Materialism and Qualia: The Explanatory Gap", *Pacific Philosophical Quarterly* 64(4):354-361, DOI `10.1111/j.1468-0114.1983.tb00207.x`. Chalmers originated the *hard problem* and develops the gap rather than coining it. Follows the corpus's own correct model at `project/coherence-inflation-countermeasures` L436.
+  - **Chalmers 1996 reference retained, deliberately.** The article has no other Chalmers-bearing content to fall back on (measured: `hard problem` 0, `hard-problem` 0, `qualia` 0), so a bare swap would have orphaned the References entry. The "developed at length in" clause keeps the entry earned rather than vestigial, and avoids trading a misattribution defect for an inline-vs-References defect.
+  - **Levine entry added** to the References list between Kuhn and Tarski. The list is alphabetical and uses `1.` markdown auto-numbering, so no renumbering was required.
+  - **Citation-ledger annotated, not corrected**, at `reviews/deep-review-2026-09-11-categorical-surprise.md` L165. The `real-correct` certification on Chalmers 1996 **stands** — the book, author, year and publisher are all right, which is what a per-cite ledger measures. The annotation records that the metadata pass was sound and the *application* was not: a wrongly-applied citation rather than a wrong one. This is the distinction the open `concept-origin / attribution lens` task exists to measure, and the reason this defect survived both a publisher-of-record pass and a quote-fidelity pass.
+- **Scope fences honoured**: Tarski reference and L61/L133 untouched (separate P1; its bibliographic half is an unresolved ChatGPT-vs-Claude disagreement). L83 "zone of latent solutions/predictions" untouched (separate P1). No corpus-wide attribution sweep performed or proposed — the driver already read all 13 live `Chalmers 1996` occurrences and L89 was the only one attached to the gap. Nothing under `hugo/` edited; the pre-push sync will propagate.
+- **Length**: 2383 → 2404 words (+21), status `ok` against soft 2500 / hard 3500.
+- **Published**: yes
+
 ## 2026-09-21 05:1x - combine-outer-reviews
 - **Status**: Success
 - **Cycle date**: 2026-09-21 · **Coverage**: **3/3** (chatgpt-5-6-sol-pro, claude-opus-5, gemini-2-5-pro) — first clean three-for-three on a single-article subject

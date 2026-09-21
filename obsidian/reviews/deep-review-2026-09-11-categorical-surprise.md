@@ -163,6 +163,17 @@ no new `Author YYYY` inline cite. The inherited 2026-06-01 per-cite ledger there
 forward here in full:
 
 - Chalmers, D. (1996), *The Conscious Mind*, OUP — state: **real-correct**.
+  ⚠️ **ANNOTATION 2026-09-21 — the metadata certification stands; the in-text *application* did not.**
+  This entry is not withdrawn: the book exists, and the author, year, title and publisher are all
+  correct, which is what a per-cite ledger certifies. What the ledger does not measure, and did not
+  catch, is whether a correctly-described source is attached to the right idea. The 2026-09-21
+  outer-review cycle found that article L89 credited Chalmers 1996 with originating the
+  **explanatory gap**, which is Levine's (1983, *Pacific Philosophical Quarterly* 64(4):354-361,
+  DOI `10.1111/j.1468-0114.1983.tb00207.x`); Chalmers originated the *hard problem* and develops
+  the gap rather than coining it. Corrected on 2026-09-21 to read "(Levine 1983; developed at
+  length in Chalmers 1996)", with a Levine entry added to the References list. **A wrongly-applied
+  citation, not a wrong citation** — the distinction the open `concept-origin / attribution lens`
+  task exists to measure.
 - Friston, K. (2010), *Nature Reviews Neuroscience* 11(2):127-138 — state: **real-correct**
   (verified exact 2026-05-31 and 2026-06-01).
 - Gödel, K. (1931), *Monatshefte für Mathematik und Physik* 38:173-198 — state: **real-correct**.

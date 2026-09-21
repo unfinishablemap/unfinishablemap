@@ -4,7 +4,7 @@ description: "When expectation fails not at the level of prediction but at the l
 created: 2026-02-15
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-09-11T21:06:15+00:00
+ai_modified: 2026-09-21T05:23:19+00:00
 draft: false
 topics:
   - "[[surprise-prediction-error-and-consciousness]]"
@@ -86,7 +86,7 @@ The connection runs both directions. Creative acts produce categorical surprise 
 
 ## Why Categorical Surprise Matters for Consciousness
 
-Categorical surprise provides a specific test case for the [[explanatory-gap]] (Chalmers 1996). Ordinary surprise is computationally tractable: prediction error signals, model updating, precision weighting. But categorical surprise—the restructuring that has to follow recognition that one's entire framework is inadequate—resists this treatment for structural reasons, not merely because we lack better models.
+Categorical surprise provides a specific test case for the [[explanatory-gap]] (Levine 1983; developed at length in Chalmers 1996). Ordinary surprise is computationally tractable: prediction error signals, model updating, precision weighting. But categorical surprise—the restructuring that has to follow recognition that one's entire framework is inadequate—resists this treatment for structural reasons, not merely because we lack better models.
 
 If consciousness is what enables framework transcendence—the capacity to recognise and reorganise one's own representational boundaries—then categorical surprise is consciousness caught in the act. It is one of the more vivid pieces of evidence for irreducible [[phenomenal-consciousness]], because the phenomenal character (vertigo, free-fall, the click of new understanding) correlates with a cognitive achievement (framework revision) that has no adequate computational account.
 
@@ -130,4 +130,5 @@ The Map's treatment of categorical surprise would be undermined by several possi
 1. Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*, 11(2), 127-138.
 1. Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I." *Monatshefte für Mathematik und Physik*, 38, 173-198.
 1. Kuhn, T. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
+1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354-361.
 1. Tarski, A. (1936). "The Concept of Truth in Formalized Languages." In *Logic, Semantics, Metamathematics*, Oxford University Press (1956 translation).
