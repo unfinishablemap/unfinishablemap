@@ -5,6 +5,17 @@ ai_modified: '2026-09-21T00:39:14+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-21 06:4x - coalesce
+- **Status**: Abandoned (reasoned decline — no merge). **14th consecutive**; the steady-state outcome per the candidate-pool memory.
+- **Section pressure**: topics 328/360 (91.1%), concepts 326/360 (90.6%), voids 103/115 (89.6%). None critical; 32/34/12 slots free.
+- **METHOD — MERGE-AFFORDABILITY × BODY-ONLY MUTUAL LINK × DUAL-FORM BOUNDARY GUARD.** Prior runs ordered candidates by TF-IDF content similarity, length feasibility alone, `coalesced_from` ancestry, verbatim shingles, and inbound link-graph co-citation. This run gates on the *product* instead of the pair: a pair is admissible only if **combined word count fits under the target section's usable ceiling** (hard − 1, since the gate is `>=`), **and** the two articles link to each other **in body prose with frontmatter stripped**, **and** neither link carries a boundary marker.
+- **Result — two of three sections are arithmetically impossible, not a judgement call:**
+  - **topics**: of all pairs, **0** have a combined length under 3999. Every pair overflows. Same for **voids** (**0** under 2999).
+  - **concepts**: **282** affordable pairs → **6** with a genuine body-prose mutual link → **4** excluded by an explicit boundary marker → **2** surviving to judgement.
+- **Both survivors are complementary, not duplicative**, so the decline is on content, not arithmetic: `adaptive-computational-depth` ↔ `phenomenal-depth` links in a sentence offering ACD as *the physical account complementing* a phenomenal description; `phenomenal-depth` ↔ `visual-consciousness` cites the latter as an *instance* under "**Perceptual depth.**" Merging either would fold a specific mechanism or modality into a general structural concept.
+- **The four exclusions, with their markers** — all four are the corpus telling you these are deliberately contrasted: `phenomenal-presentation` opens a paragraph "**Versus [[phenomenal-depth]].**"; `mind-arena` says its operative property "**inherits from** [[causal-powers]]" and Further Reading calls it "the source of the arena's unmodellability"; `simulation-theory-of-memory` introduces SMT as a "**rival**"; `self-model-theory-of-subjectivity` calls Yogācāra its "naturalist **cousin**".
+- **⚠️ METHOD DEFECT FOUND AND FIXED THIS RUN — the boundary guard had been looking in the wrong place.** Boundary markers take **two** forms in `concepts/`: **63** markdown headings (`## X versus Y`) and **7** bold inline paragraph lead-ins (`**Versus [[x]].**`, across 3 files). A heading-only detector returns "no boundary marker" on **all six** candidate pairs — including `phenomenal-presentation`, whose marker is the inline form. **The inline form is the one that fires on junior/senior pairs, which is exactly the case coalesce must exclude.** Any future run must grep both forms.
+
 ## 2026-09-21 06:26 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/categorical-surprise]]
