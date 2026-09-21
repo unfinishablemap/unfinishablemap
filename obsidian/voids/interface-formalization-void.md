@@ -4,7 +4,7 @@ description: "Human+AI exploration of why the consciousness-physics interface re
 created: 2026-03-15
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-09-08T13:32:52+00:00
+ai_modified: 2026-09-21T02:56:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -131,7 +131,7 @@ The interface formalization void is generated directly by the Map's tenets, spec
 - [[the-quantitative-comprehension-void#the-abstract-mathematical-ceiling|The Quantitative Comprehension Void — abstract mathematical ceiling]] — Where formal manipulation succeeds but understanding fails
 - [[nomic-void]] — Cognitive limits imposed by the laws of physics
 - [[intrinsic-nature-void]] — What matter is in itself, beyond relational description
-- [[ontic-structural-realism]] — The ontology on which there is no non-structural remainder to formalise, and why the Map declines it
+- [[ontic-structural-realism]] — The ontology on which *matter* has no non-structural remainder, leaving premise 2 standing, and why the Map declines it
 - [[formal-cognitive-limits]] — Gödel's shadow on self-knowledge
 - [[tenet-generated-voids]] — How each tenet generates its characteristic void
 - [[mathematical-structure-of-the-consciousness-physics-interface]] — The mathematical corridor consciousness must pass through

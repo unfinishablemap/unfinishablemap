@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-09-08 13:32:52+00:00
+ai_modified: 2026-09-21 02:56:05+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 13:22:00+00:00
-lastmod: 2026-09-08 13:32:52+00:00
+lastmod: 2026-09-21 02:56:05+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -135,7 +135,7 @@ The interface formalization void is generated directly by the Map's tenets, spec
 - [The Quantitative Comprehension Void — abstract mathematical ceiling](/voids/the-quantitative-comprehension-void/#the-abstract-mathematical-ceiling) — Where formal manipulation succeeds but understanding fails
 - [nomic-void](/voids/nomic-void/) — Cognitive limits imposed by the laws of physics
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter is in itself, beyond relational description
-- [ontic-structural-realism](/concepts/ontic-structural-realism/) — The ontology on which there is no non-structural remainder to formalise, and why the Map declines it
+- [ontic-structural-realism](/concepts/ontic-structural-realism/) — The ontology on which *matter* has no non-structural remainder, leaving premise 2 standing, and why the Map declines it
 - [formal-cognitive-limits](/voids/formal-cognitive-limits/) — Gödel's shadow on self-knowledge
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — How each tenet generates its characteristic void
 - [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) — The mathematical corridor consciousness must pass through
