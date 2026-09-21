@@ -3,7 +3,7 @@ title: "Against Functionalism"
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-09-18T13:59:00+00:00
+ai_modified: 2026-09-21T10:39:38+00:00
 draft: false
 description: "A cumulative case against functionalism—absent qualia, inverted qualia, the Chinese Room, the explanatory gap—with their shared dependencies stated openly."
 topics:
@@ -251,7 +251,9 @@ The Map's commitment to [[interactionist-dualism|interactionist dualism]] is hel
 - Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 - Searle, J. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3(3), 417-424.
 - Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127-136.
+- Carruthers, P. & Veillet, B. (2007). "The Phenomenal Concept Strategy." *Journal of Consciousness Studies*, 14(9-10), 212-236.
 - Hardin, C. L. (1988). *Color for Philosophers: Unweaving the Rainbow*. Hackett.
 - Tallis, R. (2024). "Tallis in Wonderland: The Illusion of Illusionism." *Philosophy Now*, 161, 58-59.
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+- Graziano, M. S. A. (2024). "Illusionism Big and Small: Some Options for Explaining Consciousness." *eNeuro*, 11(10), ENEURO.0210-24.2024.
 - Hoel, E. (2026). "A Disproof of Large Language Model Consciousness: The Necessity of Continual Learning for Consciousness." arXiv:2512.12802 (preprint, not peer-reviewed).
