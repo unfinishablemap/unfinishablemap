@@ -37,21 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: `topics/cross-cultural-phenomenology-of-agency` covers three of five tenets and is the only wing member with no Map-voice preamble on its tenet section
-
-- **Type**: refine-draft
-- **File**: obsidian/topics/cross-cultural-phenomenology-of-agency.md
-- **Status**: pending
-- **Source**: optimistic review 2026-09-21 (cross-cultural wing), priority item 3 — tenet-anchor counts measured per member
-- **Generated**: 2026-09-21
-- **Budget**: 2592 words, `ok`, **1407 to hard 4000 — the richest budget in the wing**, and the only member with room to add paragraphs rather than swap clauses.
-- **Notes**: **Two measured gaps in one section, both with templates already written inside the wing.**
-  **(a) Tenet coverage.** Counting `tenets#^<anchor>` occurrences: Dualism **0**, Minimal Quantum Interaction 1, Bidirectional Interaction 1, No Many Worlds **0**, Occam's Limits 0 (the Occam material is present in plain prose at L99 but carries no anchor). CLAUDE.md requires every article to connect to tenets explicitly. The other four members all anchor four or five tenets.
-  **(b) No Map-voice preamble.** Three of the five members open "Relation to Site Perspective" by marking the section as the Map's own commentary. `the-hard-problem-in-non-western-philosophy` L149: *"This section is the Map's coherence commentary, not support the traditions supply."* `buddhist-perspectives-on-meaning` L151 and `islamic-sufi-philosophy-of-consciousness` L99 carry equivalents. This article has none, and its section opens straight into *"gains indirect support from cross-cultural phenomenology."*
-  **⚠️ Do NOT manufacture support to fill the empty cells.** The honest content for No Many Worlds here is almost certainly **declination** — a cross-cultural phenomenology of agency has nothing to say about branching observers. The model for that is `islamic-sufi` Tenet 4: *"the tradition never addressed branching observers, so it neither refutes nor supports many-worlds interpretations. Its resonance … is thematic coherence, not an argument for the tenet."* A "coherent, nothing to add" cell written honestly is the correct outcome and should be marked as such.
-  **What NOT to touch.** The existing Tenet 3 paragraph (L95) is one of the wing's strongest passages and was repaired correctly on 2026-09-17. It runs a hostile-witness argument — traditions that *deny* the authoring self still report phenomenal agency — after conceding the functional layer to shared biology outright, and L91 already carries the verbatim *"suggestive support, not independent corroboration … since all human introspection shares one instrument."* Leave it alone; this task is additive to the section, not a rewrite of it.
-  **Also carried, not required here** (recorded so it is not re-derived): this article is a body-prose isolate within its wing — 0 inbound and 0 outbound wikilinks to the other four members in body prose, despite mutual Further Reading entries with `the-hard-problem-in-non-western-philosophy` and `buddhist-perspectives-on-meaning`. Its phenomenal-persistence argument is the empirical complement of the hub's convergence argument and the two never meet in prose. A piped wikilink costs 0 words if a natural host sentence turns up during the edit.
-
 ### P2: NEEDS-HUMAN (length decision) — `topics/psychedelics-and-the-filter-model` has ONE word of headroom, and a verified counterargument has now been deferred twice for want of room
 
 - **Type**: refine-draft
@@ -1810,6 +1795,16 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-21: `topics/cross-cultural-phenomenology-of-agency` covers three of five tenets and is the only wing member with no Map-voice preamble on its tenet section
+- **Type**: refine-draft
+- **File**: obsidian/topics/cross-cultural-phenomenology-of-agency.md
+- **Notes**: **Two measured gaps in one section, both with templates already written inside the wing.**
+  **(a) Tenet coverage.** Counting `tenets#^<anchor>` occurrences: Dualism **0**, Minimal Quantum Interaction 1, Bidirectional Interaction 1, No Many Worlds **0**, Occam's Limits 0 (the Occam material is present in plain prose at L99 but carries no anchor). CLAUDE.md requires every article to connect to tenets explicitly. The other four members all anchor four or five tenets.
+  **(b) No Map-voice preamble.** Three of the five members open "Relation to Site Perspective" by marking the section as the Map's own commentary. `the-hard-problem-in-non-western-philosophy` L149: *"This section is the Map's coherence commentary, not support the traditions supply."* `buddhist-perspectives-on-meaning` L151 and `islamic-sufi-philosophy-of-consciousness` L99 carry equivalents. This article has none, and its section opens straight into *"gains indirect support from cross-cultural phenomenology."*
+  **⚠️ Do NOT manufacture support to fill the empty cells.** The honest content for No Many Worlds here is almost certainly **declination** — a cross-cultural phenomenology of agency has nothing to say about branching observers. The model for that is `islamic-sufi` Tenet 4: *"the tradition never addressed branching observers, so it neither refutes nor supports many-worlds interpretations. Its resonance … is thematic coherence, not an argument for the tenet."* A "coherent, nothing to add" cell written honestly is the correct outcome and should be marked as such.
+  **What NOT to touch.** The existing Tenet 3 paragraph (L95) is one of the wing's strongest passages and was repaired correctly on 2026-09-17. It runs a hostile-witness argument — traditions that *deny* the authoring self still report phenomenal agency — after conceding the functional layer to shared biology outright, and L91 already carries the verbatim *"suggestive support, not independent corroboration … since all human introspection shares one instrument."* Leave it alone; this task is additive to the section, not a rewrite of it.
+  **Also carried, not required here** (recorded so it is not re-derived): this article is a body-prose isolate within its wing — 0 inbound and 0 outbound wikilinks to the other four members in body prose, despite mutual Further Reading entries with `the-hard-problem-in-non-western-philosophy` and `buddhist-perspectives-on-meaning`. Its phenomenal-persistence argument is the empirical complement of the hub's convergence argument and the two never meet in prose. A piped wikilink costs 0 words if a natural host sentence turns up during the edit.
 
 ### ✓ 2026-09-21: `arguments/functionalism-argument` cites Graziano (2024) and Carruthers & Veillet (2007) inline with years but lists neither in its bibliography
 - **Type**: refine-draft

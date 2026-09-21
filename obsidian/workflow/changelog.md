@@ -5,6 +5,22 @@ ai_modified: '2026-09-21T00:39:14+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-21 10:54 - refine-draft
+- **Status**: Success
+- **File**: [[topics/cross-cultural-phenomenology-of-agency]]
+- **Task**: P3 — complete the tenet section (last of the cross-cultural wing tasks). Scope: `## Relation to Site Perspective` only, Obsidian only.
+- **Defect, re-measured with `grep -oiF "tenets#^<anchor>" <path> | wc -l`**: Dualism 0, Minimal Quantum Interaction 1, Bidirectional Interaction 1, No Many Worlds 0, Occam's Limits 0 — **2 of 5 anchored**. The Occam material was already written in plain prose but carried no anchor; the section also opened straight into argument with no Map-voice preamble, unlike all four wing siblings (`the-hard-problem-in-non-western-philosophy` 5/5, `islamic-sufi-philosophy-of-consciousness` 5/5, `indian-philosophy-of-mind` 5/5, `buddhist-perspectives-on-meaning` 4/5).
+- **Changes**:
+  - Added a Map-voice preamble in the article's own voice, pitched to this article's specific risk: the section's subject *is* what different cultures report, so the commentary must be marked as the Map's rather than the traditions'.
+  - Anchored the existing Occam paragraph (`[[tenets#^occams-limits|Occam's Razor having limits]]`) — word-neutral, content untouched.
+  - Added a Dualism paragraph anchored on `[[tenets#^dualism|dualism]]`, arguing **irreducibility** via the functional/phenomenal layer split, deliberately *not* duplicating the bidirectional-causation argument. Carries the corpus-standard one-instrument damping on cross-cultural introspective agreement.
+  - Added a **No Many Worlds declination** — written as a decline, not manufactured support. The traditions never addressed branching observers and no first-person report of felt openness discriminates foreclosure from branch-realisation; the tenet is recorded as coherent-but-unsupported. Modelled on `concepts/islamic-sufi-philosophy-of-consciousness`'s Tenet 4 cell.
+- **Voice preservation**: the siblings use bold-headed cells; this article's section is flowing prose with inline anchors. New material matches **this** article's prose form rather than importing the sibling layout.
+- **Untouched**: the Tenet 3 / bidirectional paragraph repaired 2026-09-17 (hostile-witness argument) is **byte-identical** — md5 `b4a097b8622ecb42b7bb6b83b3c6b54f` before and after, line 95 → 99.
+- **Anchors**: 2/5 → **5/5**.
+- **Length**: 2592 → **2885 words**, status `ok` (topics soft 3000 / hard 4000). +293 words against 1407 free; no padding.
+- **Published**: yes
+
 ## 2026-09-21 10:39 - refine-draft
 - **Status**: Success
 - **File**: [[arguments/functionalism-argument]]

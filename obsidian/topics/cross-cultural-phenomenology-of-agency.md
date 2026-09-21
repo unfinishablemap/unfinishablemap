@@ -4,7 +4,7 @@ description: "How cultural frameworks shape the felt experience of authorship an
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-09-17T22:53:44+00:00
+ai_modified: 2026-09-21T10:54:14+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -92,11 +92,17 @@ The Map interprets this as evidence for the irreducibility of consciousness — 
 
 ## Relation to Site Perspective
 
+What follows is the Map's own commentary, not a position the traditions surveyed above supply. The distinction matters more here than in most articles, because the subject of this one just is what different cultures report: none of these traditions was arguing for or against the Map's tenets, and the alignments recorded below are coherence rather than corroboration.
+
+The Map's commitment to [[tenets#^dualism|dualism]] — that consciousness is not reducible to physical processes — is what the article's central asymmetry bears on most directly. Cross-cultural comparison separates two layers that are easily run together: the *functional* distinction between doing and undergoing, which shared neural architecture explains without remainder, and the *phenomenal* character of that distinction, which survives in traditions whose theoretical commitments work against it. Only the second layer resists reduction, and the article claims no more than that. The evidence is also weaker than its breadth suggests — every tradition surveyed reports through introspection, and all introspection shares one instrument, so cross-cultural agreement examines one observation many times rather than assembling independent witnesses. The material coheres with the tenet without establishing it.
+
 The Map's commitment to [[interactionist-dualism|bidirectional interaction]] — that consciousness genuinely causes physical outcomes — gains indirect support from cross-cultural phenomenology, but the support is specific. The functional fact that all cultures register a doing/undergoing distinction is expected on any account — shared biology suffices. What supports the Map's position is the **phenomenal** persistence: traditions that explicitly deny the authoring self (Buddhism) or effortful willing (Daoism) still report that acting differs *in felt quality* from being acted upon. If the qualitative character of agency were a cultural confabulation, cultures that theoretically dissolve the agent should report its phenomenal absence, not merely its conceptual rejection. They do not. The felt quality persists even when the cultural framework explicitly works against it — which is what one would expect if phenomenal agency tracks genuine causal efficacy rather than serving as a post-hoc narrative.
 
 The tenet of [[tenets#^minimal-quantum-interaction|minimal quantum interaction]] specifies *how* consciousness might cause outcomes — by biasing otherwise indeterminate quantum events. Cross-cultural phenomenology cannot speak to mechanism directly. But it does impose a constraint: any proposed mechanism must accommodate both effortful willing (Western paradigm) and effortless action (*wu wei*), since both appear to be genuine modes of conscious causation rather than one being illusory.
 
-The Map's commitment to Occam's Razor having limits is also relevant. The "simplest" account of cross-cultural variation in agency experience would reduce the phenomenal invariants to biological universals — shared neural architecture producing shared functional outputs. This explains the functional layer but leaves the phenomenal layer unaddressed. Acknowledging that simpler explanations cover part of the territory while failing to cover the rest is precisely the kind of case where parsimony must yield to explanatory adequacy. Sometimes the more complex explanation — that consciousness has irreducible phenomenal features that culture modulates but biology alone does not produce — better fits the full range of evidence.
+On [[tenets#^no-many-worlds|the rejection of many-worlds]] this article has nothing to offer, and the honest record is that it declines rather than contributes. A phenomenology of agency compares what it is like to act across cultures; branching observers are not something any of the traditions surveyed addressed, and no first-person report distinguishes a world in which the unchosen alternatives are genuinely foreclosed from one in which each is realised on some branch. The felt openness of the future, which recurs across every tradition here, is a datum about experience and not about how many worlds there are. The tenet is coherent with this material and is neither supported nor refuted by it.
+
+The Map's commitment to [[tenets#^occams-limits|Occam's Razor having limits]] is also relevant. The "simplest" account of cross-cultural variation in agency experience would reduce the phenomenal invariants to biological universals — shared neural architecture producing shared functional outputs. This explains the functional layer but leaves the phenomenal layer unaddressed. Acknowledging that simpler explanations cover part of the territory while failing to cover the rest is precisely the kind of case where parsimony must yield to explanatory adequacy. Sometimes the more complex explanation — that consciousness has irreducible phenomenal features that culture modulates but biology alone does not produce — better fits the full range of evidence.
 
 ## Further Reading
 
