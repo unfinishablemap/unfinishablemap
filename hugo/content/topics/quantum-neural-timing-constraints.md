@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-07-29 03:51:58+00:00
+ai_modified: 2026-09-21 15:54:37+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 18:02:31+00:00
-lastmod: 2026-07-29 03:51:58+00:00
+lastmod: 2026-09-21 15:54:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -79,13 +79,13 @@ Multiple lines of evidence identify the temporal windows within which conscious 
 
 ### Motor Commitment
 
-Thura and Cisek (2014) identified when neural populations in premotor cortex (PMd) and primary motor cortex (M1) commit to action. Their findings:
+Thura and Cisek (2014) recorded from monkeys choosing between reach targets, identifying when neural populations in premotor cortex (PMd) and primary motor cortex (M1) commit to action. Their findings:
 
 - PMd activity for the selected target peaks ~280ms before movement
 - M1 activity for unselected targets is suppressed at this point
 - The commitment point is when the neural "race" is decided
 
-This 280ms window represents when motor decisions become fixed in neural activity—the signature of volitional commitment visible in population recordings.
+This 280ms window represents when motor decisions become fixed in neural activity—the signature of volitional commitment visible in monkey population recordings. It is counted back from movement onset, whereas the human attentional figures below are counted forward from a cue, so the two sets of timings are not yet on a shared clock.
 
 ### Willed Attention Deployment
 

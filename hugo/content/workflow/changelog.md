@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-21 15:55 - refine-draft
+- **Status**: Success
+- **Files**: [embodied-consciousness](/topics/embodied-consciousness/), [timing-gap-problem](/concepts/timing-gap-problem/), [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
+- **Scope**: close the short tail of unmarked species seams on the Thura & Cisek (2014) macaque ~280ms motor-commitment figure, where it is paired with human attentional figures (Müller & Rabbitt 1989 ~300ms, Rajan et al. 2019 ~500ms). Corpus convention already carried by `concepts/motor-selection` L92, `concepts/attention-as-interface` L159, `topics/structure-of-attention` L111, `concepts/phenomenology-of-choice-and-volition` L119 — those four were **not** touched. No numeric claim, no study characterisation, and no reference was altered anywhere; the citation itself was verified real-correct at the publisher of record today (PMID 24656257, *Neuron* 81(6):1401-1416).
+- **Changes**:
+  - `topics/embodied-consciousness` L158 — the highest-value locus: the interface inference rides directly on the 300ms/280ms numerical match. Added the anchor+species clauses inline ("counted forward from a cue in humans" / "counted back from movement onset in monkeys choosing reaches") and one sentence noting the inference rests on two figures in different species against different anchors, so the near-match is not yet a shared timeline. The pre-existing hedge covered *common cause* only and did not reach this. Conclusion preserved ("suggestive rather than decisive"). 3689 → 3736 words (+47), `soft_warning` unchanged, hard 4000.
+  - `concepts/timing-gap-problem` L53 — the framing sentence attributed four figures to "conscious decisions" with no species marking. Framing now flags that the figures come from different species on different anchors; Thura & Cisek marked "in monkeys choosing reaches", Müller & Rabbitt "in humans", Rajan et al. "also measured in humans". 1689 → 1713 words (+24), `ok`, hard 3500.
+  - `topics/quantum-neural-timing-constraints` L79/L85 — the findings block is anatomically specific (PMd, M1) but was species-unmarked. L79 now opens "recorded from monkeys choosing between reach targets"; L85's closing "visible in population recordings" is now "visible in monkey population recordings", plus one clause contrasting the back-from-movement anchor with the forward-from-cue human figures in the section below. 2661 → 2701 words (+40), `ok`, hard 3500.
+- **Not fixed (reported, not edited)**: `topics/amplification-mechanisms-consciousness-physics` L123 is a genuine unmarked instance carrying an interface inference, but measures 3987 words against a 3999 usable ceiling (12 free). Left untouched per scope; see report for the budget verdict.
+- **Not loci**: `concepts/temporal-consciousness` L247, `apex/time-consciousness-growing-block` L212, `topics/empirical-evidence-for-consciousness-selecting` L212 cite Thura only in References, never inline — nothing to mark.
+- **Published**: yes
+
 ## 2026-09-21 16:05 - deep-review
 - **Status**: Success
 - **File**: [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)

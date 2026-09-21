@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-09-20 14:38:00+00:00
+ai_modified: 2026-09-21 15:54:37+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 18:54:52+00:00
-lastmod: 2026-09-20 14:38:00+00:00
+lastmod: 2026-09-21 15:54:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -159,7 +159,7 @@ The premotor theory of attention suggests that directing attention to a location
 
 This convergence means the interface has a specific architecture: consciousness engages through the same system that plans action. An organism's range of possible attention is constrained by its range of possible action—exactly what an interface model predicts.
 
-The timing evidence may reinforce this. Willed attention deploys in approximately 300 milliseconds (Müller & Rabbitt, 1989); motor commitment occurs approximately 280 milliseconds before movement (Thura & Cisek, 2014). If these were independent systems, the timing match would be coincidental. If they are a single interface mechanism, the convergence is what one would expect. A common-cause account from shared neural substrate is also compatible with the timing pattern, so the convergence is suggestive rather than decisive.
+The timing evidence may reinforce this, though less securely than the bare numbers suggest. Willed attention deploys in approximately 300 milliseconds, counted forward from a cue in humans (Müller & Rabbitt, 1989); motor commitment occurs approximately 280 milliseconds before movement, counted back from movement onset in monkeys choosing reaches (Thura & Cisek, 2014). If these were independent systems, the timing match would be coincidental. If they are a single interface mechanism, the convergence is what one would expect. But the inference rides on two figures measured in different species against different anchors, so the near-match is not yet a shared timeline. A common-cause account from shared neural substrate is also compatible with the timing pattern, so the convergence is suggestive rather than decisive.
 
 ## Intercorporeality
 

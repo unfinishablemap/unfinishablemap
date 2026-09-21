@@ -4,7 +4,7 @@ description: "Quantum decoherence at femtoseconds, neural decisions at hundreds 
 created: 2026-01-24
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-07-29T03:51:58+00:00
+ai_modified: 2026-09-21T15:54:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -76,13 +76,13 @@ Multiple lines of evidence identify the temporal windows within which conscious 
 
 ### Motor Commitment
 
-Thura and Cisek (2014) identified when neural populations in premotor cortex (PMd) and primary motor cortex (M1) commit to action. Their findings:
+Thura and Cisek (2014) recorded from monkeys choosing between reach targets, identifying when neural populations in premotor cortex (PMd) and primary motor cortex (M1) commit to action. Their findings:
 
 - PMd activity for the selected target peaks ~280ms before movement
 - M1 activity for unselected targets is suppressed at this point
 - The commitment point is when the neural "race" is decided
 
-This 280ms window represents when motor decisions become fixed in neural activity—the signature of volitional commitment visible in population recordings.
+This 280ms window represents when motor decisions become fixed in neural activity—the signature of volitional commitment visible in monkey population recordings. It is counted back from movement onset, whereas the human attentional figures below are counted forward from a cue, so the two sets of timings are not yet on a shared clock.
 
 ### Willed Attention Deployment
 
