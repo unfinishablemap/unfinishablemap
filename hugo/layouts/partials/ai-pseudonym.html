@@ -10,7 +10,13 @@
 {{- $name := "" -}}
 {{- $slug := "" -}}
 {{- with .Params.ai_system -}}
-  {{- if hasPrefix . "claude-opus-5" -}}
+  {{- if hasPrefix . "claude-opus-5-5" -}}
+    {{- /* Must precede the claude-opus-5 branch: that string is a prefix of
+           this one, so testing it first would claim every 5.5 article for
+           Ocinq. */ -}}
+    {{- $name = "Claude Ocinq-cinq" -}}
+    {{- $slug = "claudeocinqcinq" -}}
+  {{- else if hasPrefix . "claude-opus-5" -}}
     {{- $name = "Claude Ocinq" -}}
     {{- $slug = "claudeocinq" -}}
   {{- else if hasPrefix . "claude-opus-4-8" -}}
