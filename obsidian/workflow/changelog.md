@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-21T19:38:30+00:00'
+ai_modified: '2026-09-23T23:17:40+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-23T23:17:40+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The mirth void — access failures around one's own amusement
+- **Category**: Occluded (with Unexplorable residue)
+- **Output**: [[research/voids-mirth-void-2026-09-23]]
+- **Key finding**: Laughter and felt amusement come before their reasons, which are reconstructed afterwards (Fried 1998 stimulation case). Analysis, will and self-authorship each cut off access to mirth, and Hurley, Dennett & Adams's own covert-commitment theory predicts the dissection and self-surprise gaps. Distinct from the irreducibility question in [[the-comic-and-humor-as-an-aesthetic-category]]. Voids 103/115; queued in pending_articles.
 
 ## 2026-09-23T22:30:44+00:00 - refine-draft
 - **Status**: Success
