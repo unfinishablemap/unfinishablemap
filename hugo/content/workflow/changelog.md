@@ -1,14 +1,44 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-21T19:38:30+00:00'
+ai_modified: '2026-09-23T23:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-23'
-lastmod: 2026-09-23 00:00:00+00:00
+lastmod: 2026-09-23 23:55:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-23T23:52:31+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/)
+- **Changed sources**: 8 (of 9; auto-selected, staleness 552 = 69d × 8)
+- **Word count**: 4813 → 4427 (analyze_length total; synthesis prose ~4300 → ~3920)
+- **Key fixes**: value-sensitive currency restated as presently felt anticipation per [P-VS1](/positions/value-in-selection/#p-vs1) (the old "because of how they would feel" contradicted the register); mechanism-sufficiency named as the rival to beat; [P-MS1](/positions/moral-status/#p-ms1)/[P-VS4](/positions/value-in-selection/#p-vs4) cited; suffering-focused asymmetry added; AI verdict narrowed to bidirectionally coupled consciousness; `## Evidence and Dependency` installed; Occam alignment no longer delivers a parsimony verdict
+- **Review**: [apex-evolve-2026-09-23-moral-architecture-of-consciousness](/reviews/apex-evolve-2026-09-23-moral-architecture-of-consciousness/)
+
+## 2026-09-23T23:55:00+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 57 (delta sweep of every article edited since check 137, plus tenets.md; 14 carried loci probed)
+- **Errors**: 4 (3 carried from check 137 and still live; 1 new locus of the booked Tenet-5 tiebreaker family)
+- **Warnings**: 34 new + 9 carried
+- **Key finding**: None of check 137's four priority items was repaired or queued in 3 days, because a reports-only list gets actioned only if someone mints from it. Across the delta, the alignment section outruns the article's own body in two recurring families: Tenet 3 held as actual or epiphenomenalism reported refuted (11 files, including the self-stultification hub against its own L181), and Tenet 4 alignment-line inheritance (7 files). The new `concepts/the-relocation-objection` is clean.
+- **Output**: [tenet-check-2026-09-23](/reviews/tenet-check-2026-09-23/)
+
+## 2026-09-23T23:17:40+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The mirth void — access failures around one's own amusement
+- **Category**: Occluded (with Unexplorable residue)
+- **Output**: [voids-mirth-void-2026-09-23](/research/voids-mirth-void-2026-09-23/)
+- **Key finding**: Laughter and felt amusement come before their reasons, which are reconstructed afterwards (Fried 1998 stimulation case). Analysis, will and self-authorship each cut off access to mirth, and Hurley, Dennett & Adams's own covert-commitment theory predicts the dissection and self-surprise gaps. Distinct from the irreducibility question in [the-comic-and-humor-as-an-aesthetic-category](/topics/the-comic-and-humor-as-an-aesthetic-category/). Voids 103/115; queued in pending_articles.
+
+## 2026-09-23T22:30:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-completeness](/concepts/quantum-completeness/)
+- **Original score**: n/a (targeted fix from tenet-check-2026-09-14 Part 3)
+- **Changes**: §Occam's Razor paragraph opened by declining the parsimony claim and closed by making it ("Parsimony favours the interpretation that addresses the most questions"), which Tenet 5's self-binding clause rules out. Final sentence replaced with "The comparison is one of explanatory adequacy; this tenet denies the Map any parsimony verdict." (the denial attaches to the parsimony verdict, not the adequacy comparison). Also rewrote the banned "not X—it is Y" opener to "The Map claims that dualism is the honest explanation rather than the simplest:". Net −7 words. Family E siblings (`topics/consciousness-and-mathematics`, `concepts/meta-problem-of-consciousness`) were already fixed in ccaf13d9ae; phrases absent on disk, no edit.
+- **Published**: yes
 
 ## 2026-09-23T22:17:47+00:00 - research-topic
 - **Status**: Success

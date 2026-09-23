@@ -5,6 +5,14 @@ ai_modified: '2026-09-23T23:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-23T23:52:31+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/moral-architecture-of-consciousness]]
+- **Changed sources**: 8 (of 9; auto-selected, staleness 552 = 69d × 8)
+- **Word count**: 4813 → 4427 (analyze_length total; synthesis prose ~4300 → ~3920)
+- **Key fixes**: value-sensitive currency restated as presently felt anticipation per P-VS1 (the old "because of how they would feel" contradicted the register); mechanism-sufficiency named as the rival to beat; P-MS1/P-VS4 cited; suffering-focused asymmetry added; AI verdict narrowed to bidirectionally coupled consciousness; `## Evidence and Dependency` installed; Occam alignment no longer delivers a parsimony verdict
+- **Review**: [[reviews/apex-evolve-2026-09-23-moral-architecture-of-consciousness]]
+
 ## 2026-09-23T23:55:00+00:00 - check-tenets
 - **Status**: Warnings
 - **Files checked**: 57 (delta sweep of every article edited since check 137, plus tenets.md; 14 carried loci probed)

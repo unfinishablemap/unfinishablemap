@@ -39,6 +39,65 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: `concepts/unity-of-consciousness` claims Kerskens-style initial support for Tenet 2 with no unreplicated caveat, and assigns Tenet 4 content ("unity reports become either false or contentless") the tenet does not hold
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/unity-of-consciousness.md
+- **Source**: check-tenets
+- **Review file**: `reviews/tenet-check-2026-09-23.md` (§Priority list)
+- **Generated**: 2026-09-23
+- **Notes**: Driver-minted from tenet check 138 priority #1 (carried unactioned from check 137 #1). Two independent defects: (a) Tenet 2 — "now lending initial support" with `Kerskens` = 0 and `unreplicated` = 0 in the file; scope to the evidential-status the rest of the corpus uses (unreplicated, framework-consistent, not support). (b) Tenet 4 — "unity reports become either false or contentless" is fabricated tenet content; No-MWI does not entail it. Restate as what rejecting MWI actually buys (indexical identity) or cut. Length-neutral or negative. Locate by quoted text; sync both trees.
+
+### P2: `topics/presentiment-and-retrocausality` says presentiment "would be additional evidence if confirmed", inverting the parapsychology firewall
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/presentiment-and-retrocausality.md
+- **Source**: check-tenets
+- **Review file**: `reviews/tenet-check-2026-09-23.md` (§Priority list)
+- **Generated**: 2026-09-23
+- **Notes**: Driver-minted from tenet check 138 priority #2 (carried from check 137 #3). One-sentence fix: the Map's parapsychology firewall treats a confirmed psi/presentiment result as counting against minimal-interaction (Tenet 2), not as support; `parapsychology-firewall` = 0 hits in the file. Rewrite the sentence to the firewall's direction and add a zero-word piped link to [parapsychology-firewall](/topics/parapsychology-firewall/). Locate by quoted text; sync both trees.
+
+### P2: `topics/cross-cultural-phenomenology-of-agency` Tenet 3 paragraph claims "indirect support" four lines after its own "coherence rather than corroboration" preamble
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/cross-cultural-phenomenology-of-agency.md
+- **Source**: check-tenets
+- **Review file**: `reviews/tenet-check-2026-09-23.md` (§Priority list)
+- **Generated**: 2026-09-23
+- **Notes**: Driver-minted from tenet check 138 priority #3. L99 "gains indirect support from cross-cultural phenomenology" and "which is what one would expect if phenomenal agency tracks genuine causal efficacy" contradict the L95 preamble (installed 2026-09-21) "coherence rather than corroboration". Bring L99 into the preamble's register (coherence, not support). Length-neutral or negative. Locate by quoted text; sync both trees.
+
+### P2: `concepts/neural-correlates-of-consciousness` converts filter-over-production evidence into outbound Tenet 3 support that its own earlier section disclaims
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/neural-correlates-of-consciousness.md
+- **Source**: check-tenets
+- **Review file**: `reviews/tenet-check-2026-09-23.md` (§Priority list)
+- **Generated**: 2026-09-23
+- **Notes**: Driver-minted from tenet check 138 priority #4. ~L160 converts filter-over-production evidence into Tenet 3 support, which [P-CS6](/positions/consciousness-scope/#p-cs6) forbids; the page's own ~L122 says the cluster "cannot honestly be cited as independent confirmation of transmission". Restate L160 consistently with L122. NOTE: the page was edited 2026-09-23 (theory-landscape sentence, +27 words) — now 3419 words vs hard 3500; fix must be length-neutral or negative. Locate by quoted text; sync both trees.
+
+### P2: Adopt substrate-independence calibration in architectural-adequacy-at-the-built-edge
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/architectural-adequacy-at-the-built-edge.md
+- **Notes**: From topic-concept anchoring audit 2026-09-23. The topic article over-claims relative to its anchor concept [substrate-independence](/concepts/substrate-independence/); failed checks: hedge_density, strong_assertions.
+  - hedge density 2.20/kw is below 3.00/kw (target = 60% of anchor 10.38/kw, capped at 3.0/kw)
+  - strong-assertion density 0.55/kw exceeds 1.5× anchor (0.27/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-09-23
+
+### P2: Adopt ai-hardware-substrate-taxonomy calibration in architectural-adequacy-at-the-built-edge
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/architectural-adequacy-at-the-built-edge.md
+- **Notes**: From topic-concept anchoring audit 2026-09-23. The topic article over-claims relative to its anchor concept [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/); failed checks: hedge_density, strong_assertions.
+  - hedge density 2.20/kw is below 2.41/kw (target = 60% of anchor 4.02/kw, capped at 3.0/kw)
+  - strong-assertion density 0.55/kw exceeds 1.5× anchor (0.29/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-09-23
+
+
 ### P2: NEEDS-HUMAN (length decision) 2026-09-21 — `concepts/chinese-room-argument` has THREE words of headroom, its apparatus has no slack, and every obvious trim target is certified by a prior review
 
 - **Type**: refine-draft
@@ -1360,15 +1419,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-08
 - **Notes**: **DO NOT SWEEP IN EITHER DIRECTION UNTIL A HUMAN DECIDES.** The task above asserted "the direction is SETTLED — bring the 2016 stragglers to 2017", resting on commit `cd7cf658f0` (2026-05-31), which in turn rested on Chalmers's personal bibliography at `consc.net/all-papers/` ("Oxford University Press, **2017** … published four years later due to the vagaries of publishing"). **Checked at the publisher of record this run, and the premise does not hold.** Brüntrup & Jaskolla (eds.), *Panpsychism: Contemporary Perspectives*, OUP — **every chapter is dated 2016-12-29 in OUP's own DOI metadata at Crossref**, including the Chalmers chapter the 2017 direction is built on: "The Combination Problem for Panpsychism", pp. 179-214, `10.1093/acprof:oso/9780199359943.003.0008`, `issued` **and** `published-print` both `2016-12-29`. Same for Nagasawa & Wager, "Panpsychism and Priority Cosmopsychism", pp. 113-129, `…003.0005`; Seager, "Panpsychist Infusion", pp. 229-248, `…003.0010`; Goff, Montero, Meixner, Taliaferro, Rosenberg — all `2016-12-29`. **The cited page ranges match the corpus exactly**, so these are the same chapters the corpus cites. **Three independent sources say 2016, one says 2017:** (1) Crossref/OUP DOI metadata as above; (2) PhilPapers version history, quoted in `research/cosmopsychism-2026-07-13.md` L76 as a dated `**Verification**: CONFIRMED` line reading "pp. 113-129: Oxford University Press (2016)" — i.e. that CONFIRMED line agrees with the publisher and was going to be overwritten by the task above; (3) OpenAlex on the Chalmers chapter DOI, `publication_year` **2016**, `publication_date` 2016-10-20, carrying `mag` id `2535351563` — a Microsoft Academic Graph record, so it predates MAG's end-2021 shutdown and cannot have been seeded by this corpus. Against these: Chalmers's own bibliography page, which is the author but not the publisher of record for a publication *date*, and whose "four years later" remark plausibly describes the volume's delay rather than fixing its imprint year. **Measured scope, live content (`reviews/` and `workflow/` excluded as echo): 17 loci read 2017, 7 read 2016.** So the corpus majority is on the side the publisher contradicts, and the pending task would have propagated it to 7 more. **The "one volume, one year" argument in the task above is sound in form — Crossref supplies that one year, and it is 2016.** ⚠️ **Why this is a human decision, not an automated one**: correcting it means reversing a deliberate corpus-wide commit across **17** loci, which is far larger than the 7-locus sweep that was queued, and it means overriding an author's own statement about his own chapter with publisher metadata. Either is defensible; neither should be decided by a loop iteration. **The one defect that holds on ANY resolution**: `topics/open-individualism-and-the-de-combination-problem.md` cites the same volume as **2017 at L139** (Chalmers, pp. 179-214) and **2016 at L142** (Nagasawa & Wager, pp. 113-129) — three lines apart, self-evidently wrong on its own page whichever year wins. **Also recorded**: `archive/voids/boundary-void.md:140` cites the Chalmers chapter at 2016 and was missed by `cd7cf658f0`; archive is FROZEN by convention, so it is flagged, not fixed — and note it currently agrees with the publisher. Related: barrett-2021-eight-vs-six-propagated is the same shape, where the *correction* turned out to be the defect. Do not re-mint this as an ordinary refine-draft.
 
-### P3: `concepts/quantum-completeness` L110 — the Map's own "Occam's Razor Has Limits" alignment paragraph closes with a parsimony verdict in the Map's favour, in the paragraph citing the tenet that forbids that move
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/quantum-completeness.md
-- **Source**: check-tenets
-- **Review file**: `reviews/tenet-check-2026-09-14.md` (Part 3, standalone)
-- **Generated**: 2026-09-14
-- **Notes**: **Driver-minted from the 2026-09-14 tenet check's standalone Part 3.** `tenets.md` L145 binds the Map's own use of parsimony ("The discipline is symmetric") and L147 rules out "any Map argument that leans on parsimony as if this tenet did not apply to it". **Grep-verified on disk 2026-09-14 by the driver**: the paragraph reads *"The Map's claim is not that dualism is the simplest explanation—it is that dualism is the honest explanation when the alternatives either evade the gap (QBism, Copenhagen) or dissolve the question of indexical identity (many-worlds). Parsimony favours the interpretation that addresses the most questions, not the one with the fewest equations."* It opens by declining the parsimony claim and closes by making it; what the last sentence asserts is an *explanatory-adequacy* comparison mislabelled as parsimony. Dates to commit `2de044893b` (2026-03-17); passed four prior tenet checks of this file unflagged. **Distinguish from** `concepts/dualism` L172, cleared 08-22 as in-contract (inside a reply to the parsimony objection, concedes the ontological direction, followed by an explicit guard) — L110 has none of those guards. **Fix, net −1 or better** (3150w, concepts soft_warning): replace the final sentence with *"The comparison is one of explanatory adequacy, not parsimony—a verdict Tenet 5 denies the Map."* Optionally, same edit, fix the first sentence's "not X—it is Y" construct (CLAUDE.md-banned): "The Map's claim is not that dualism is the simplest explanation—it is that" → "The Map claims that dualism is the honest explanation rather than the simplest:" (net −4 together). **Two one-word siblings in Family E, optional if in budget and out of contract otherwise**: `topics/consciousness-and-mathematics` "offers the most parsimonious explanation"; `concepts/meta-problem-of-consciousness` "has a simplicity that illusionist alternatives lack". **Pileup**: the one open task on this file (the Zurek-standoff P3) targets a different passage; the ✓ 2026-09-04 no-go-theorems task fixed L104/L106, not L110. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees.
-
 ### P3: `topics/evolutionary-case-for-mental-causation` L188 cites "Heyes (2018)" on Dunstone & Caldwell's paper — wrong author, journal, volume and article number; three deep reviews certified it and one installed the name into the body
 - **Type**: refine-draft
 - **Status**: pending
@@ -1678,6 +1728,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-23: `concepts/quantum-completeness` L110 — the Map's own "Occam's Razor Has Limits" alignment paragraph closes with a parsimony verdict in the Map's favour, in the paragraph citing the tenet that forbids that move
+- **Type**: refine-draft
+- **File**: obsidian/concepts/quantum-completeness.md
+- **Notes**: **Driver-minted from the 2026-09-14 tenet check's standalone Part 3.** `tenets.md` L145 binds the Map's own use of parsimony ("The discipline is symmetric") and L147 rules out "any Map argument that leans on parsimony as if this tenet did not apply to it". **Grep-verified on disk 2026-09-14 by the driver**: the paragraph reads *"The Map's claim is not that dualism is the simplest explanation—it is that dualism is the honest explanation when the alternatives either evade the gap (QBism, Copenhagen) or dissolve the question of indexical identity (many-worlds). Parsimony favours the interpretation that addresses the most questions, not the one with the fewest equations."* It opens by declining the parsimony claim and closes by making it; what the last sentence asserts is an *explanatory-adequacy* comparison mislabelled as parsimony. Dates to commit `2de044893b` (2026-03-17); passed four prior tenet checks of this file unflagged. **Distinguish from** `concepts/dualism` L172, cleared 08-22 as in-contract (inside a reply to the parsimony objection, concedes the ontological direction, followed by an explicit guard) — L110 has none of those guards. **Fix, net −1 or better** (3150w, concepts soft_warning): replace the final sentence with *"The comparison is one of explanatory adequacy, not parsimony—a verdict Tenet 5 denies the Map."* Optionally, same edit, fix the first sentence's "not X—it is Y" construct (CLAUDE.md-banned): "The Map's claim is not that dualism is the simplest explanation—it is that" → "The Map claims that dualism is the honest explanation rather than the simplest:" (net −4 together). **Two one-word siblings in Family E, optional if in budget and out of contract otherwise**: `topics/consciousness-and-mathematics` "offers the most parsimonious explanation"; `concepts/meta-problem-of-consciousness` "has a simplicity that illusionist alternatives lack". **Pileup**: the one open task on this file (the Zurek-standoff P3) targets a different passage; the ✓ 2026-09-04 no-go-theorems task fixed L104/L106, not L110. `ai_modified` from a live `date -u`; `uv run python scripts/sync.py`; grep both trees.
 
 ### ✓ 2026-09-23: Research Testimonial injustice and phenomenal reports
 - **Type**: research-topic
