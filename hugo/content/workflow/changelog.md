@@ -10,6 +10,27 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-23 18:31 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/)
+- **Original score**: n/a (targeted register pass from [optimistic-2026-09-23-intersubjective-wing](/reviews/optimistic-2026-09-23-intersubjective-wing/); `scripts/curate.py` absent)
+- **Changes**: (a) Bidirectional bullet: dropped the cross-species "expanded consciousness" correlation and the "would be coincidental / implausible" verdict. Ported the testimony/collective template: it names the physicalist's common-cause option, says what that option owes (why correlates track what is *understood*), and ends "falls short of proof". The Occam bullet's echo of the removed correlation was rescoped to match. (b) No Many Worlds bullet: now concedes that understanding does not fail branch-internally and marks the objection as resting on a tenet, not a derived result (testimony template). (c) AI section: the phenomenally defined prediction is no longer labelled "falsifiable in principle". It is restated as a framework commitment in the conditional register, with a zero-word piped link `[[consciousness-and-testimony|framework commitment]]`, the article's first prose link to testimony. (d) de Waal: checked against the de Waal 2008 abstract (Annu Rev Psychol 59:279-300, via the OpenAlex inverted index). The abstract says perception "automatically activates shared representations"; it does not claim contagion occurs without consciousness. The attribution now covers automaticity only, and the "no grasp of the other as a subject" reading is marked as the Map's. The sentence was kept. The (automatic, unconscious) gloss in the paragraph above was left in place because the task scoped this fix to L117 only. Engagement with physicalist/epiphenomenalist (Bidirectional): Mode Two into Mode Three (states what the common-cause story owes, then concedes it falls short of proof). Many-Worlds: Mode Three (framework boundary).
+- **Length**: body 3629 -> 3774 (+145; hard 4000). Not length-neutral as briefed, but inside the 370 headroom.
+- **Published**: yes
+
+## 2026-09-23 18:17 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Intersubjective wing, 6 topics (consciousness-and-testimony, consciousness-and-collective-phenomena, consciousness-and-social-understanding, social-construction-of-self-vs-phenomenal-self, consciousness-and-intersubjectivity, phenomenology-of-trust). Chosen by coverage: 191 live files are never named in the 40 optimistic reviews from 2026-08-22 to 09-21, and this wing was one of them. Finding: the register splits 3/3. Testimony, collective and social-construction are calibrated. Intersubjectivity, social-understanding and trust still carry "would be coincidental" epiphenomenalism bullets, No-Many-Worlds bullets that misdescribe branching, a phenomenally defined AI prediction labelled falsifiable, and one downward tier slip (ants asserted non-conscious; the Map holds insects at realistic possibility). Each has a calibrated template already in a sibling. Trust and testimony have 0 prose links in either direction. There is no empathy concept page.
+- **Tasks minted**: 5 (1 P2 + 3 P3 refine-draft, 1 P3 expand-topic concepts/empathy)
+- **Output**: [optimistic-2026-09-23-intersubjective-wing](/reviews/optimistic-2026-09-23-intersubjective-wing/)
+
+## 2026-09-23 18:00 UTC - refine-draft
+- **Status**: Success
+- **File**: [minimal-consciousness](/concepts/minimal-consciousness/)
+- **Original score**: n/a (targeted integration fix from reviews/optimistic-2026-09-11-competency-floor-wing.md)
+- **Changes**: One zero-word piped body link on the existing sentence in §Empirical Indicators: "None of these proves consciousness exists" → [single-cell-proto-agency-and-the-evidence-problem](/topics/single-cell-proto-agency-and-the-evidence-problem/), pointing the indicator list (anaesthetic response, learning beyond reflex, Φ, valenced behaviour) at the article on what would count as evidence for exactly those indicators. No frontmatter entry added (frontmatter `concepts:` is rendered only as keywords, not links). Body length unchanged. Synced; Hugo copy renders the link to /topics/single-cell-proto-agency-and-the-evidence-problem/.
+- **Published**: yes
+
 ## 2026-09-23 17:46 UTC - refine-draft
 - **Status**: Success
 - **File**: [competency-without-felt-experience](/apex/competency-without-felt-experience/) (+ [tenets](/tenets/) matrix row)

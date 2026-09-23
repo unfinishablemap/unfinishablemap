@@ -1699,17 +1699,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **Natural host**: near L39 or L103, both of which already do the "the dispute turns on a prior judgement rather than further data" work. `[[apophatic-approaches|...]]` piped into existing text costs ~0 words ([[piped-wikilink-installs-a-reciprocal-at-zero-word-cost]]) — check this article's length headroom first, it is a long topic article.
   **Bare slug is correct here**: `[[apophatic-approaches]]` resolves to the live concept despite the `archive/voids/` stem collision (verified against built output 2026-09-20). Do not path-qualify it.
 
-### P2: consciousness-and-social-understanding claims more than its sibling testimony on the same questions (epiphenomenalism, MWI, AI prediction)
-- **Type**: refine-draft
-- **File**: obsidian/topics/consciousness-and-social-understanding.md
-- **Source**: optimistic-review 2026-09-23 (reviews/optimistic-2026-09-23-intersubjective-wing.md, Hardline Empiricist concerns 1, 2, 3, 6)
-- **Generated**: 2026-09-23
-- **Notes**: Four register fixes. Each has a calibrated template already in a sibling article, so port the template; do not write new argument. **Headroom 370 words** (analyze_length body 3629, topics hard 4000), so aim for length-neutral.
-  (a) **L159 Bidirectional bullet**: "the systematic correlation between expanded consciousness and expanded social complexity across species would be coincidental. The Map finds this implausible" — never meets the common-cause reply, and "expanded consciousness … across species" assumes a cross-species degree scale the Map does not measure. Template: `consciousness-and-testimony` Bidirectional bullet (names the physicalist's "ready third option", then says what that option owes) or `consciousness-and-collective-phenomena` Bidirectional bullet ("falls short of proof").
-  (b) **L161 No Many Worlds bullet**: says MWI dissolves "the indexical uniqueness that makes the question 'what is it like to be *you*?' meaningful" without conceding that it holds branch-internally. Template: testimony's NMW bullet ("Testimony does not fail branch-internally … a tenet, not a derived result").
-  (c) **L145 AI prediction**: "genuine social understanding" is defined phenomenally, so no behavioural result can falsify it; the "falsifiable in principle" label is wrong. Template: testimony §What Testimony Reveals, LLM paragraph ("best stated as a *framework commitment* … The honest register is conditional"). Add a zero-word piped link to [[consciousness-and-testimony]] here; there are currently 0 prose links from this article to testimony.
-  (d) **L117, LEAD ONLY**: "Emotional contagion requires no consciousness … as Frans de Waal's research … indicates (de Waal, 2008)". Verify against de Waal 2008 (Annu Rev Psychol 59:279-300) before editing. The Russian-doll model puts contagion at the core of empathy, and I have not confirmed that it says contagion *requires no consciousness*. If the paper does not say it, scope the attribution; do not delete the sentence.
-
 ### P3: consciousness-and-intersubjectivity: calibrate the Bidirectional and No Many Worlds bullets and link the second-person channel
 - **Type**: refine-draft
 - **File**: obsidian/topics/consciousness-and-intersubjectivity.md
@@ -1741,6 +1730,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-23: consciousness-and-social-understanding claims more than its sibling testimony on the same questions (epiphenomenalism, MWI, AI prediction)
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-and-social-understanding.md
+- **Notes**: Four register fixes. Each has a calibrated template already in a sibling article, so port the template; do not write new argument. **Headroom 370 words** (analyze_length body 3629, topics hard 4000), so aim for length-neutral.
+  (a) **L159 Bidirectional bullet**: "the systematic correlation between expanded consciousness and expanded social complexity across species would be coincidental. The Map finds this implausible" — never meets the common-cause reply, and "expanded consciousness … across species" assumes a cross-species degree scale the Map does not measure. Template: `consciousness-and-testimony` Bidirectional bullet (names the physicalist's "ready third option", then says what that option owes) or `consciousness-and-collective-phenomena` Bidirectional bullet ("falls short of proof").
+  (b) **L161 No Many Worlds bullet**: says MWI dissolves "the indexical uniqueness that makes the question 'what is it like to be *you*?' meaningful" without conceding that it holds branch-internally. Template: testimony's NMW bullet ("Testimony does not fail branch-internally … a tenet, not a derived result").
+  (c) **L145 AI prediction**: "genuine social understanding" is defined phenomenally, so no behavioural result can falsify it; the "falsifiable in principle" label is wrong. Template: testimony §What Testimony Reveals, LLM paragraph ("best stated as a *framework commitment* … The honest register is conditional"). Add a zero-word piped link to [[consciousness-and-testimony]] here; there are currently 0 prose links from this article to testimony.
+  (d) **L117, LEAD ONLY**: "Emotional contagion requires no consciousness … as Frans de Waal's research … indicates (de Waal, 2008)". Verify against de Waal 2008 (Annu Rev Psychol 59:279-300) before editing. The Russian-doll model puts contagion at the core of empathy, and I have not confirmed that it says contagion *requires no consciousness*. If the paper does not say it, scope the attribution; do not delete the sentence.
 
 ### ✓ 2026-09-23: `concepts/minimal-consciousness` is a body-link isolate inside the ten articles that instantiate it
 - **Type**: refine-draft

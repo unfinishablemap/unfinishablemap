@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-06-22 10:09:46+00:00
+ai_modified: 2026-09-23 18:31:11+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 20:05:28+00:00
-lastmod: 2026-06-22 10:09:46+00:00
+lastmod: 2026-09-23 18:31:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -118,7 +118,7 @@ The [phenomenology of understanding](/topics/phenomenology-of-intellectual-life/
 
 Empathy illustrates the consciousness requirement from the personal side. Three levels exist: emotional contagion (automatic, unconscious), cognitive empathy (understanding what another feels), and empathic concern (caring about their state because you grasp it). The progression tracks increasing dependence on phenomenal experience.
 
-Emotional contagion requires no consciousness — mirror neurons and physiological synchronisation can produce it mechanically, as Frans de Waal's research on primate empathy indicates (de Waal, 2008). But empathic concern requires something more. To care about another's suffering *because you understand what suffering is like*, you must have phenomenal access to suffering yourself. The [phenomenology of trust](/topics/phenomenology-of-trust/) reveals a parallel structure: trusting another person requires experiencing them as a subject capable of honouring or violating your openness.
+Emotional contagion is automatic: in de Waal's (2008) account, perceiving another's emotion automatically activates shared representations that produce a matching state, the phylogenetically ancient core of empathy. The Map reads that automaticity as requiring no grasp of the other *as* a subject; de Waal himself does not claim contagion occurs without consciousness. But empathic concern requires something more. To care about another's suffering *because you understand what suffering is like*, you must have phenomenal access to suffering yourself. The [phenomenology of trust](/topics/phenomenology-of-trust/) reveals a parallel structure: trusting another person requires experiencing them as a subject capable of honouring or violating your openness.
 
 The [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/) article argues that social construction of identity depends on the phenomenal self being already in place. The same logic extends to social cognition generally. Social constructionists are right that much of what we call "social understanding" is culturally shaped. But the *capacity* to construct social meanings at all requires phenomenal subjects who experience the world from a perspective they can share with others.
 
@@ -146,7 +146,7 @@ The [Jourdain analysis](/concepts/jourdain-hypothesis/) suggests otherwise. An L
 
 Yet the test is less clean than it appears. As the [Duhem-Quine analysis of consciousness science](/topics/duhem-quine-underdetermination-consciousness/) argues, no hypothesis about consciousness can be tested in isolation. Whether an AI system has achieved "genuine" social understanding depends on auxiliary assumptions about what constitutes understanding — precisely the issue under dispute.
 
-The Map's prediction: AI systems will continue to improve at social tasks indefinitely without achieving genuine social understanding, because genuine understanding requires being a subject among subjects. The prediction is falsifiable in principle, though [systematic methodological limitations](/topics/consciousness-defeats-explanation/) make empirical resolution challenging.
+The Map's claim: AI systems may improve at social tasks indefinitely without achieving genuine social understanding, because genuine understanding requires being a subject among subjects. Since "genuine" is defined phenomenally here, no behavioural result can falsify this, so it is best stated as a [framework commitment](/topics/consciousness-and-testimony/) rather than a prediction. The honest register is conditional — *if* social understanding is constituted by being a subject among subjects, *then* a non-conscious system performs social tasks without understanding in the full sense — while whether a given system is conscious is what [systematic methodological limitations](/topics/consciousness-defeats-explanation/) leave open.
 
 ## Interpersonal Understanding and Moral Life
 
@@ -160,11 +160,11 @@ Forgiveness similarly involves a phenomenal act — one whose difficulty the [ph
 
 **[Dualism](/tenets/#dualism)**: Social understanding provides a domain where irreducibility has concrete consequences. The persistent gap between knowing everything about someone and understanding them supports the claim that consciousness involves something beyond physical description. If consciousness were reducible to information processing, then a sufficiently detailed description of someone's brain states would constitute understanding them. The phenomenal dimension of understanding another person — resonance, texture, limits awareness — is precisely what physical description leaves out. At the social scale, the difference between a society of persons and a network of sophisticated automata depends on whether the subjects who compose it have genuine phenomenal experience.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The phenomenal understanding we achieve of others has real effects. It shapes how we treat them, what institutions we build, what moral judgments we make. The human capacities that consciousness apparently enables — recursive mindreading, shared intentionality, moral accountability — have real-world effects. Institutions exist, cultures accumulate, moral systems operate. If consciousness were [epiphenomenal](/concepts/epiphenomenalism/), the systematic correlation between expanded consciousness and expanded social complexity across species would be coincidental. The Map finds this implausible.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The phenomenal understanding we achieve of others has real effects. It shapes how we treat them, what institutions we build, what moral judgments we make. The human capacities that consciousness apparently enables — recursive mindreading, shared intentionality, moral accountability — have real-world effects. Institutions exist, cultures accumulate, moral systems operate. The physicalist has a ready third option: the physical correlates of understanding do the causal work while experience rides along inertly, as [epiphenomenalism](/concepts/epiphenomenalism/) holds. That option owes an account of why the correlates track what is *understood* — why a wrong grasped *as* a wrong reliably produces resentment, redress, and institutional response — without quietly reintroducing the comprehension it set out to eliminate. The dependence is pervasive enough to resist dismissal as mere correlation, though it falls short of proof.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The indexical fact that I am *this* subject and not that one is central to both interpersonal understanding and social cognition. When you understand another person, you grasp that they occupy a different indexical position — a different "here" in experiential space. Many-worlds interpretations, by treating all branches as equally real, dissolve the indexical uniqueness that makes the question "what is it like to be *you*?" meaningful. The Map's rejection of many-worlds preserves the determinacy that interpersonal understanding requires.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The indexical fact that I am *this* subject and not that one is central to both interpersonal understanding and social cognition. When you understand another person, you grasp that they occupy a different indexical position — a different "here" in experiential space. Understanding does not fail branch-internally — within a branch a determinate subject understands a determinate other — so the Map's objection rests on the singular ownership of each perspective that its rejection of many-worlds (a tenet, not a derived result) secures, and with it the determinacy interpersonal understanding presupposes.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The computationalist might argue that "resonance" is pattern matching, "texture" is feature extraction, and "perspective-taking" is simulation. This achieves simplicity by explaining away the very phenomenon it purports to explain. The felt difference between knowing about someone and understanding them is the central datum. Similarly, dismissing the correlation between expanded consciousness and social complexity on grounds of parsimony requires more confidence in our understanding than the evidence warrants.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The computationalist might argue that "resonance" is pattern matching, "texture" is feature extraction, and "perspective-taking" is simulation. This achieves simplicity by explaining away the very phenomenon it purports to explain. The felt difference between knowing about someone and understanding them is the central datum. Similarly, dismissing the dependence of social life on understanding as parsimonious correlation requires more confidence in our understanding than the evidence warrants.
 
 ## What Would Challenge This View?
 
