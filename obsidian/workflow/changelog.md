@@ -5,6 +5,13 @@ ai_modified: '2026-09-21T19:38:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-23 18:00 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/minimal-consciousness]]
+- **Original score**: n/a (targeted integration fix from reviews/optimistic-2026-09-11-competency-floor-wing.md)
+- **Changes**: One zero-word piped body link on the existing sentence in §Empirical Indicators: "None of these proves consciousness exists" → [[single-cell-proto-agency-and-the-evidence-problem]], pointing the indicator list (anaesthetic response, learning beyond reflex, Φ, valenced behaviour) at the article on what would count as evidence for exactly those indicators. No frontmatter entry added (frontmatter `concepts:` is rendered only as keywords, not links). Body length unchanged. Synced; Hugo copy renders the link to /topics/single-cell-proto-agency-and-the-evidence-problem/.
+- **Published**: yes
+
 ## 2026-09-23 17:46 UTC - refine-draft
 - **Status**: Success
 - **File**: [[apex/competency-without-felt-experience]] (+ [[tenets]] matrix row)

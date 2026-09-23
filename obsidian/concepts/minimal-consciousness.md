@@ -4,7 +4,7 @@ description: "The simplest form of consciousness—bare phenomenal experience wi
 created: 2026-01-31
 modified: 2026-05-21
 human_modified: null
-ai_modified: 2026-08-08T08:03:30+00:00
+ai_modified: 2026-09-23T18:00:47+00:00
 last_deep_review: 2026-08-08T08:03:30+00:00
 draft: false
 topics:
@@ -124,7 +124,7 @@ How might we detect minimal consciousness? No method provides certainty, but pro
 
 **Valenced behaviour**: Approach/avoidance patterns suggest there may be "something it's like" to be attracted or repelled.
 
-None of these proves consciousness exists. The [[explanatory-gap]] prevents any behavioural or structural evidence from establishing phenomenal experience with certainty. We infer consciousness in others by analogy with ourselves—an inference that weakens as systems differ more from human brains.
+[[single-cell-proto-agency-and-the-evidence-problem|None of these proves consciousness exists]]. The [[explanatory-gap]] prevents any behavioural or structural evidence from establishing phenomenal experience with certainty. We infer consciousness in others by analogy with ourselves—an inference that weakens as systems differ more from human brains.
 
 ## Why Minimal Consciousness Matters
 

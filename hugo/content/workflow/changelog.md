@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-23 17:46 UTC - refine-draft
+- **Status**: Success
+- **File**: [competency-without-felt-experience](/apex/competency-without-felt-experience/) (+ [tenets](/tenets/) matrix row)
+- **Original score**: n/a (targeted structural fix from reviews/optimistic-2026-09-11-competency-floor-wing.md, priority items 1 and 2)
+- **Changes**: FIX A — three zero-word piped body links over existing phrases: "boundary of consciousness" (lead) → [minimal-consciousness](/concepts/minimal-consciousness/); "edge-of-sentience frameworks" (calibration section) → [birch-edge-of-sentience-and-the-five-tier-scale](/topics/birch-edge-of-sentience-and-the-five-tier-scale/); "Three calibrations" → [evidential-status-discipline](/project/evidential-status-discipline/). Explanatory sentence installed in §Evidence and Dependency (not in tenets.md): the inheritance splits per the tenet-dependency matrix — the bare question of whether anything is felt runs on Tenet 1 alone and stays open; the withholding verdict is where Tenets 2 and 3 enter. Offset by trimming a clause restating the calibration section. FIX B — one row added to tenets.md §Tenet-Dependency Matrix below Animal consciousness: "Competency floor — interface location" = Required / Required / Not invoked / Required / Not invoked / Not invoked / Defensive, label cell routing the bare-phenomenality question to the Animal row (modelled on synthetic-minimal-agents' split). No other prose added to tenets.md.
+- **Length**: apex 3976 → 3998 body words (soft 4000, status ok); tenets.md 6741 → 6773 (row only; still critical, under the open blocked human-decision task).
+- **Published**: yes (both trees synced; hugo apex carries all four new links, hugo tenets/_index.md carries the row)
+
 ## 2026-09-23 17:17 UTC - deep-review
 - **Status**: Success
 - **File**: [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/)

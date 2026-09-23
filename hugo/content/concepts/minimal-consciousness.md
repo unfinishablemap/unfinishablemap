@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-08-08 08:03:30+00:00
+ai_modified: 2026-09-23 18:00:47+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-08 08:03:30+00:00
-lastmod: 2026-08-08 08:03:30+00:00
+lastmod: 2026-09-23 18:00:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -128,7 +128,7 @@ How might we detect minimal consciousness? No method provides certainty, but pro
 
 **Valenced behaviour**: Approach/avoidance patterns suggest there may be "something it's like" to be attracted or repelled.
 
-None of these proves consciousness exists. The [explanatory-gap](/concepts/explanatory-gap/) prevents any behavioural or structural evidence from establishing phenomenal experience with certainty. We infer consciousness in others by analogy with ourselves—an inference that weakens as systems differ more from human brains.
+[None of these proves consciousness exists](/topics/single-cell-proto-agency-and-the-evidence-problem/). The [explanatory-gap](/concepts/explanatory-gap/) prevents any behavioural or structural evidence from establishing phenomenal experience with certainty. We infer consciousness in others by analogy with ourselves—an inference that weakens as systems differ more from human brains.
 
 ## Why Minimal Consciousness Matters
 
