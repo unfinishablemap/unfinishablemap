@@ -1699,6 +1699,46 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **Natural host**: near L39 or L103, both of which already do the "the dispute turns on a prior judgement rather than further data" work. `[[apophatic-approaches|...]]` piped into existing text costs ~0 words ([[piped-wikilink-installs-a-reciprocal-at-zero-word-cost]]) — check this article's length headroom first, it is a long topic article.
   **Bare slug is correct here**: `[[apophatic-approaches]]` resolves to the live concept despite the `archive/voids/` stem collision (verified against built output 2026-09-20). Do not path-qualify it.
 
+### P2: consciousness-and-social-understanding claims more than its sibling testimony on the same questions (epiphenomenalism, MWI, AI prediction)
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-and-social-understanding.md
+- **Source**: optimistic-review 2026-09-23 (reviews/optimistic-2026-09-23-intersubjective-wing.md, Hardline Empiricist concerns 1, 2, 3, 6)
+- **Generated**: 2026-09-23
+- **Notes**: Four register fixes. Each has a calibrated template already in a sibling article, so port the template; do not write new argument. **Headroom 370 words** (analyze_length body 3629, topics hard 4000), so aim for length-neutral.
+  (a) **L159 Bidirectional bullet**: "the systematic correlation between expanded consciousness and expanded social complexity across species would be coincidental. The Map finds this implausible" — never meets the common-cause reply, and "expanded consciousness … across species" assumes a cross-species degree scale the Map does not measure. Template: `consciousness-and-testimony` Bidirectional bullet (names the physicalist's "ready third option", then says what that option owes) or `consciousness-and-collective-phenomena` Bidirectional bullet ("falls short of proof").
+  (b) **L161 No Many Worlds bullet**: says MWI dissolves "the indexical uniqueness that makes the question 'what is it like to be *you*?' meaningful" without conceding that it holds branch-internally. Template: testimony's NMW bullet ("Testimony does not fail branch-internally … a tenet, not a derived result").
+  (c) **L145 AI prediction**: "genuine social understanding" is defined phenomenally, so no behavioural result can falsify it; the "falsifiable in principle" label is wrong. Template: testimony §What Testimony Reveals, LLM paragraph ("best stated as a *framework commitment* … The honest register is conditional"). Add a zero-word piped link to [[consciousness-and-testimony]] here; there are currently 0 prose links from this article to testimony.
+  (d) **L117, LEAD ONLY**: "Emotional contagion requires no consciousness … as Frans de Waal's research … indicates (de Waal, 2008)". Verify against de Waal 2008 (Annu Rev Psychol 59:279-300) before editing. The Russian-doll model puts contagion at the core of empathy, and I have not confirmed that it says contagion *requires no consciousness*. If the paper does not say it, scope the attribution; do not delete the sentence.
+
+### P3: consciousness-and-intersubjectivity: calibrate the Bidirectional and No Many Worlds bullets and link the second-person channel
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-and-intersubjectivity.md
+- **Source**: optimistic-review 2026-09-23 (reviews/optimistic-2026-09-23-intersubjective-wing.md, concerns 1 and 2)
+- **Generated**: 2026-09-23
+- **Notes**: **Headroom 1114 words.** (a) **L119**: "Intersubjective encounter provides some of the strongest everyday evidence for bidirectional interaction … would be coincidental": this is an overclaim that ignores the common-cause reply. Port the register of `consciousness-and-testimony`'s Bidirectional bullet. (b) **L121**: "not a superposition of all possible versions of them across branching worlds" misdescribes Everett, because within a branch the other person is not a superposition. Port testimony's NMW concession ("does not fail branch-internally … a tenet, not a derived result") or collective-phenomena's conditional "boundary disagreement" framing. (c) Put a prose link to [[the-second-person-evidential-channel]] in §The Asymmetry Problem ("I can approach your experience through empathy, testimony, and shared attention"). No wing article currently links it in prose; this article lists it only in Further Reading.
+
+### P3: phenomenology-of-trust: name the definitional move and link it to testimony both ways
+- **Type**: refine-draft
+- **File**: obsidian/topics/phenomenology-of-trust.md
+- **Source**: optimistic-review 2026-09-23 (reviews/optimistic-2026-09-23-intersubjective-wing.md, concern 4 and cross-linking table)
+- **Generated**: 2026-09-23
+- **Notes**: **Headroom 1503 words.** (a) **L123**: "This is not mere optimism bias; it reflects the causal efficacy of conscious states". This uses the style guide's banned "This is not X" construct, and a physicalist predicts the same self-fulfilling dynamic. State what Tenet 3 adds instead of presenting it as the explanation. (b) **L115**: "The Map maintains that none of these challenges currently succeeds". Soften to the wing's "left standing" register (see collective-phenomena's MQI bullet). (c) **L79**: turning habitual trust without phenomenology into "trust degrading into mere reliance" protects the necessity claim from its counterexample. Keep the move, but name it as a stipulation about what "trust" picks out. (d) **Links**: add a prose link to [[consciousness-and-testimony]] near §Trust and the Problem of Other Minds or the Baier/Jones opening; testimony §Default Openness is the same thesis in Reid's vocabulary. **SECOND FILE, do not drop it**: in `obsidian/topics/consciousness-and-testimony.md` §Default Openness, turn the existing phrase "default openness" into `[[phenomenology-of-trust|default openness]]`. Testimony has only **10 words of headroom** (3989/4000), so the link must add zero words. There are currently 0 prose links in either direction, although testimony was coalesced partly from `phenomenology-of-trust-and-testimony`.
+
+### P3: consciousness-and-collective-phenomena: "Ant colonies demonstrate that intelligence without consciousness is possible" asserts an absence the Map does not hold
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-and-collective-phenomena.md
+- **Source**: optimistic-review 2026-09-23 (reviews/optimistic-2026-09-23-intersubjective-wing.md, concern 5)
+- **Generated**: 2026-09-23
+- **Notes**: **L74** (§The classical success objection), and compare L58 "entirely mechanistic". The Map's `topics/invertebrate-consciousness-as-interface-test` holds insect consciousness at "realistic possibility" (New York Declaration 2024). The argument needs only the *colony-level* claim: colony intelligence without a colony-level subject. Rescope the sentence; do not add argument. **Headroom 84 words** (3915/4000, deep-reviewed 2026-09-20), so the edit must be length-neutral. Do not touch the 09-20 deep review's tenet-bullet calibrations.
+
+### P3: Write concept page on empathy (Stein, Scheler, Husserl, Zahavi; direct perception vs simulation vs theory-theory)
+- **Type**: expand-topic
+- **Status**: pending
+- **Section**: concepts
+- **Source**: optimistic-review 2026-09-23 (reviews/optimistic-2026-09-23-intersubjective-wing.md, High Priority)
+- **Generated**: 2026-09-23
+- **Notes**: Suggested by optimistic review. The Map has no empathy page (`ls obsidian/concepts | grep -i empath` finds nothing), and "Edith Stein" appears in 0 live articles (1 research note: `research/voids-intersubjective-void-2026-02-01.md`). Yet the social/intersubjective wing (intersubjectivity, social-understanding, trust, testimony, collective-phenomena) relies throughout on appresentation, Zahavi 2001's rejection of the inference model, and de Waal's three levels. Cover: Stein *Zum Problem der Einfühlung* (1917) on empathy as non-primordial givenness; Scheler against the inference and projection models; Zahavi's direct-perception account; the simulation-theory / theory-theory / direct-perception debate. Dualist frame: empathy as non-coincidence, the phenomenological form of the constitutive gap between minds. Keep the tenet connections calibrated: the phenomenology is *coherent with* individual dualism and does not prove it. Concepts count 326 against cap 360; re-measure before writing.
+
 ## Completed Tasks
 
 

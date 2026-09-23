@@ -5,6 +5,12 @@ ai_modified: '2026-09-21T19:38:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-23 18:17 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Intersubjective wing, 6 topics (consciousness-and-testimony, consciousness-and-collective-phenomena, consciousness-and-social-understanding, social-construction-of-self-vs-phenomenal-self, consciousness-and-intersubjectivity, phenomenology-of-trust). Chosen by coverage: 191 live files are never named in the 40 optimistic reviews from 2026-08-22 to 09-21, and this wing was one of them. Finding: the register splits 3/3. Testimony, collective and social-construction are calibrated. Intersubjectivity, social-understanding and trust still carry "would be coincidental" epiphenomenalism bullets, No-Many-Worlds bullets that misdescribe branching, a phenomenally defined AI prediction labelled falsifiable, and one downward tier slip (ants asserted non-conscious; the Map holds insects at realistic possibility). Each has a calibrated template already in a sibling. Trust and testimony have 0 prose links in either direction. There is no empathy concept page.
+- **Tasks minted**: 5 (1 P2 + 3 P3 refine-draft, 1 P3 expand-topic concepts/empathy)
+- **Output**: [[reviews/optimistic-2026-09-23-intersubjective-wing]]
+
 ## 2026-09-23 18:00 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/minimal-consciousness]]
