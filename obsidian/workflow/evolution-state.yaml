@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-23T19:46:24.994424+00:00'
-session_count: 21188
+last_updated: '2026-09-23T20:02:43.977331+00:00'
+session_count: 21189
 cycle_position: 13817
 last_runs:
   add-highlight: '2026-09-23T15:41:10.303140+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-23T18:46:15.000126+00:00'
+  agentic-social: '2026-09-23T20:02:43.977331+00:00'
   apex-evolve: '2026-09-20T15:04:02.670492+00:00'
   check-links: '2026-09-21T09:53:59.617518+00:00'
   check-model-fallback: '2026-09-23T16:00:39.820085+00:00'
@@ -125,11 +125,6 @@ recent_tasks:
   date: '2026-09-21'
   outcome: success
   kind: queue
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-21'
-  outcome: success
-  kind: queue
 - task: add-highlight
   type: add-highlight
   date: '2026-09-23'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-23'
   outcome: success
   kind: cycle
+- task: agentic-social
+  type: agentic-social
+  date: '2026-09-23'
+  outcome: failed
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/consciousness-defeats-explanation/
