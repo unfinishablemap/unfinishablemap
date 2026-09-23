@@ -5,6 +5,13 @@ ai_modified: '2026-09-21T19:38:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-23T22:17:47+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Testimonial injustice and phenomenal reports
+- **Output**: [[research/testimonial-injustice-and-phenomenal-reports-2026-09-23]]
+- **Sources consulted**: 17
+- **Notes**: Assess-first passed — Map covers hermeneutical injustice (voids-between-minds) and first-person authority (consciousness-and-testimony) but has no treatment of testimonial injustice. Map-specific thesis: phenomenal testimony has no external corrective, so the hearer's credibility prior is the verdict; biomarkers are validated against self-report (Wager 2013) and IASP rejects imaging as "pain lie detector" (Davis 2017, on evidential not principled grounds). Flagged: physicalists reach the same practical conclusion; Nielsen et al. 2025 critique of loose Fricker application; Hoffman et al. 2016 has a failed replication (Holzmeister et al. 2024, scope unverified); Blease is first author of the CFS/ME paper. Topics 329/360.
+
 ## 2026-09-23T21:48:26+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The relocation objection
