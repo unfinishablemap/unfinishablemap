@@ -5,6 +5,13 @@ ai_modified: '2026-09-21T19:38:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-23 19:01 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/integrated-information-theory]]
+- **Original score**: n/a (targeted fix from [[reviews/optimistic-2026-09-14-scientific-theories-wing]]; `scripts/curate.py` absent)
+- **Changes**: (A) Merged "### The Templeton Tests" and "### The COGITATE Experiment (2025)" into one "### The COGITATE Experiment" subsection: they were the same TWCF-funded study (Nature paper n=256, received 23 June 2023, the preprint/ASSC announcement date). The 2023 announcement is now the preliminary reading; the uncited "2 of 3 vs 0 of 3" scorecard and "250 subjects across six labs" dropped; the Nature paper's own verdict ("align with some predictions of IIT and GNWT, while substantially challenging key tenets of both theories") quoted; existing 2025 decoding/Duhem-Quine paragraphs kept. Note: the 2026-06-04 and 2026-06-25 deep reviews certified the two subsections as distinct studies — that certification was wrong. (B) Assessment temporal-gap paragraph hedged to the conditional the page's own concession requires ("would supply an answer if the collapse reading holds"; "inherits the mechanism's unestablished status conceded above") in place of "addresses this ... creates genuine temporal extension". (C) Pseudoscience subsection now links [[the-unfolding-argument-against-causal-structure-theories-of-consciousness]] (Doerig et al. 2019, reference added), stated with its input-output premise. Funded by trims elsewhere (Quantum Question redundancies, Kerskens hedge compressed, "matters for two reasons" sentence). Body 3482 → 3436 words (concepts hard 3500). Both trees synced.
+- **Published**: yes
+
 ## 2026-09-23 18:31 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-social-understanding]]

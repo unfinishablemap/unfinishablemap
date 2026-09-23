@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-07-12 20:10:08+00:00
+ai_modified: 2026-09-23 19:01:18+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 20:10:08+00:00
-lastmod: 2026-07-12 20:10:08+00:00
+lastmod: 2026-09-23 19:01:18+00:00
 modified: *id001
 related_articles:
 - '[[temporal-consciousness-structure-and-agency]]'
@@ -125,24 +125,20 @@ Tononi accepts this implication. If you built a large expander graph, it would b
 
 On 15 September 2023, 124 scholars—including Dennett, LeDoux, Churchland, and Baars—signed an open letter on PsyArXiv labeling IIT "pseudoscience" on grounds of unfalsifiability. The core claims—that any system with positive phi is conscious—can't be empirically tested for most systems. We can't ask an expander graph what it experiences. A March 2025 *Nature Neuroscience* commentary, "What Makes a Theory of Consciousness Unscientific?", pressed the charge further: IIT lacks well-defined empirically testable consequences while asserting bold non-empirical claims (a sentience-suffused cosmos, the non-existence of neurons).
 
-The accusation should not be overstated. An anonymized survey of consciousness-paper authors found only 8% of 60 respondents "fully" agreed with the pseudoscience label, while 20% disagreed entirely—a vocal minority, not field consensus. IIT defenders also note that extrapolation beyond direct testability is inevitable for any comprehensive theory. We can't observe dinosaurs, but paleontology isn't pseudoscience. What matters is whether testable predictions are borne out.
+The accusation should not be overstated. An anonymized survey of consciousness-paper authors found only 8% of 60 respondents "fully" agreed with the pseudoscience label, while 20% disagreed entirely—a vocal minority, not field consensus. IIT defenders also note that extrapolation beyond direct testability is inevitable for any comprehensive theory. We can't observe dinosaurs, but paleontology isn't pseudoscience. What matters is whether testable predictions are borne out. The sharpest formal version is the [unfolding argument](/concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness/) (Doerig et al. 2019): any recurrent network can be unfolded into an input-output-equivalent feed-forward one with zero Φ, so IIT is either false or unfalsifiable—if science accesses consciousness only through input-output behaviour.
 
-### The Templeton Tests
+### The COGITATE Experiment
 
-A major empirical test, funded by the Templeton Foundation and involving 250 subjects across six labs, pitted IIT against its main rival, Global Neuronal Workspace Theory (GNWT). Results announced in 2023: IIT fared slightly better, correctly predicting that posterior cortex activity would persist during conscious perception (2 of 3 predictions passed, vs. 0 of 3 for GNWT). The results were inconclusive but encouraging for IIT, representing consciousness science's turn toward empirical discrimination between theories.
-
-### The COGITATE Experiment (2025)
-
-The 2025 COGITATE study (published in *Nature*) represents a more rigorous test: a seven-year adversarial collaboration where IIT and [GNWT](/concepts/global-workspace-theory/) proponents jointly designed experiments to test their theories. Crucially, what COGITATE tested was IIT's *biological-implementation* prediction—a posterior hot zone with sustained synchronisation—not the formal integrated-information core, which remains open to auxiliary revision.
+COGITATE, a Templeton-funded seven-year adversarial collaboration (256 participants), pitted IIT against [Global Neuronal Workspace Theory](/concepts/global-workspace-theory/) (GNWT), with proponents of both jointly designing the experiments. Preliminary results announced in 2023 were widely read as favouring IIT; the 2025 *Nature* paper is more measured, reporting results that "align with some predictions of IIT and GNWT, while substantially challenging key tenets of both theories." Crucially, what COGITATE tested was IIT's *biological-implementation* prediction—a posterior hot zone with sustained synchronisation—not the formal integrated-information core, which remains open to auxiliary revision.
 
 **IIT predictions challenged:**
 - The study found a "lack of sustained synchronization within posterior cortex"—contradicting IIT's prediction of sustained integration signatures during conscious perception
 - Stimulus *orientation* decoded largely from posterior cortex with limited or absent prefrontal decoding—which supports some posterior content-decoding but does not vindicate the sustained-synchronisation prediction
 - Stimulus *category* decoded in **both** posterior and prefrontal cortex (posterior stronger), and prefrontal category information sat uneasily against IIT's confinement of conscious content to a posterior hot zone
 
-**Neither theory emerged unscathed.** No single experiment would decisively refute either—the theories proved "too different in assumptions and explanatory goals" for direct adjudication. This exemplifies the [Duhem-Quine underdetermination](/topics/duhem-quine-underdetermination-consciousness/) that afflicts consciousness science: rival theories accommodate the same data by revising different auxiliary assumptions. The honest reading is graded constraint, not a clean win for either theory—each decoding dimension strained one programme's auxiliary belt more than the other's.
+**Neither theory emerged unscathed.** No single experiment could decisively refute either—the theories proved "too different in assumptions and explanatory goals" for direct adjudication. This exemplifies the [Duhem-Quine underdetermination](/topics/duhem-quine-underdetermination-consciousness/) that afflicts consciousness science: rival theories accommodate the same data by revising different auxiliary assumptions. The honest reading is graded constraint, not a clean win for either theory—each decoding dimension strained one programme's auxiliary belt more than the other's.
 
-This outcome matters for two reasons. First, it demonstrates that IIT's mathematical elegance doesn't translate straightforwardly into testable predictions—the theory remains difficult to falsify even when proponents design the tests. Second, it supports the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet: neither leading physicalist theory of consciousness fully captures the phenomena. The hard problem persists not because we lack clever theories but because consciousness resists reduction to any single physical measure, whether integration (IIT) or broadcast (GNWT).
+This outcome matters twice over. IIT's mathematical elegance doesn't translate straightforwardly into testable predictions, even when proponents design the tests. And it supports the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet: neither leading physicalist theory of consciousness fully captures the phenomena. The hard problem persists because consciousness resists reduction to any single physical measure, whether integration (IIT) or broadcast (GNWT).
 
 ## Relation to the Map's Perspective
 
@@ -180,9 +176,9 @@ The difference: Whitehead's panexperientialism makes experience fundamental to a
 
 IIT doesn't require quantum mechanics. It works at the level of classical information and physical architecture. This neither supports nor contradicts the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet directly—IIT is simply silent on quantum effects.
 
-Some speculate that quantum coherence might be relevant to how integration occurs in biological systems—quantum entanglement provides exactly the kind of holistic, irreducible connections that IIT claims underlie consciousness. A 2022 MRI study by Kerskens & López Pérez reported possible entanglement signatures in brain water protons—though this remains preliminary and disputed, it suggests potential links between quantum holism and neural integration. McQueen has proposed hybrid CSL-IIT models where integrated information (Φ) modulates [spontaneous collapse](/concepts/spontaneous-collapse-theories/) parameters—the higher the integration, the stronger the collapse effect. But this isn't part of standard IIT. The theory is designed to work without invoking quantum mysteries, treating consciousness as a feature of classical causal structure.
+Some speculate that quantum coherence might be relevant to how integration occurs in biological systems—quantum entanglement provides exactly the kind of holistic, irreducible connections that IIT claims underlie consciousness. A 2022 MRI study by Kerskens & López Pérez reported possible entanglement signatures in brain water protons (preliminary and disputed). McQueen has proposed hybrid CSL-IIT models where integrated information (Φ) modulates [spontaneous collapse](/concepts/spontaneous-collapse-theories/) parameters—the higher the integration, the stronger the collapse effect. But this isn't part of standard IIT.
 
-From the Map's perspective, IIT may be incomplete because it ignores quantum mechanics. If consciousness influences physical outcomes via quantum selection (per Bidirectional Interaction), then IIT's identity thesis—consciousness *is* integration but doesn't *do* anything beyond it—leaves no room for causal efficacy. Quantum approaches would give consciousness an independent causal role that IIT's identity thesis does not. But this argument is conditional on the Map's framework being correct; IIT proponents would reject the premise that consciousness needs a causal role separate from the physical processes it is identical to. The disagreement is ultimately about whether identity or interaction better characterises the mind-matter relation.
+From the Map's perspective, IIT may be incomplete because it ignores quantum mechanics. If consciousness influences physical outcomes via quantum selection (per Bidirectional Interaction), then IIT's identity thesis leaves no room for causal efficacy. But this argument is conditional on the Map's framework being correct; IIT proponents would reject the premise that consciousness needs a causal role separate from the physical processes it is identical to. The disagreement is ultimately about whether identity or interaction better characterises the mind-matter relation.
 
 ### What Would Challenge This View?
 
@@ -207,7 +203,7 @@ IIT offers a sophisticated competitor to the Map's interactionist dualism. Both 
 
 The choice depends on whether you find identity or causation more plausible as the mind-matter relation. IIT avoids the interaction problem (how do distinct substances influence each other?) but faces the hard problem in a new form (why is integrated information conscious?). The Map faces the interaction problem and proposes to address it through quantum indeterminacy—though this remains a speculative research programme. It confronts the decoherence objection (biological tissue is too warm and noisy to sustain the quantum superpositions the proposal requires) and currently lacks experimental support. Honesty requires acknowledging that the Map's interaction mechanism is no more empirically established than IIT's identity claim.
 
-Moreover, IIT faces a **temporal consciousness gap**: even accepting that Φ produces phenomenal character, the theory doesn't explain why that character extends across seconds rather than existing only at instants. The Map's quantum framework addresses this—if consciousness involves [quantum collapse processes](/concepts/collapse-and-time/), each collapse has duration, and [retrocausal boundary conditions](/concepts/retrocausality/) provide the retention-protention structure that Husserl identified. Past collapses constrain present selection (retention); anticipated future collapses influence current outcomes (protention). This creates genuine temporal extension beyond what IIT's instantaneous Φ calculations can explain. See [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/) for detailed treatment.
+Moreover, IIT faces a **temporal consciousness gap**: even accepting that Φ produces phenomenal character, the theory doesn't explain why that character extends across seconds rather than existing only at instants. The Map's quantum framework would supply an answer if the collapse reading holds: [collapse processes](/concepts/collapse-and-time/) have duration, and [retrocausal boundary conditions](/concepts/retrocausality/) could provide Husserl's retention-protention structure—past collapses constraining present selection, anticipated ones shaping current outcomes. That is a resource IIT's instantaneous Φ lacks, though it inherits the mechanism's unestablished status conceded above. See [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/) for detailed treatment.
 
 Neither theory is proven. Both represent serious attempts to take consciousness seriously. IIT deserves engagement as one of the most developed alternatives to interactionist dualism.
 
@@ -238,6 +234,7 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 1. Albantakis, L., et al. (2023). Integrated information theory (IIT) 4.0. *PLOS Computational Biology*, 19(10), e1011465.
 1. Aaronson, S. (2014). Why I am not an integrated information theorist (or, the unconscious expander). *Shtetl-Optimized*.
 1. COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. https://doi.org/10.1038/s41586-025-08888-1
+1. Doerig, A., Schurger, A., Hess, K., & Herzog, M. H. (2019). The unfolding argument: Why IIT and other causal structure theories cannot explain consciousness. *Consciousness and Cognition*, 72, 49-59.
 1. Kerskens, C. M., & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
 1. McQueen, K. J. (2019). Interpretation-neutral integrated information theory. *Journal of Consciousness Studies*, 26(1-2), 76-106.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
