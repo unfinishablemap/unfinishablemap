@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-23T21:02:19.125494+00:00'
-session_count: 21193
-cycle_position: 13820
+last_updated: '2026-09-23T21:17:08.933010+00:00'
+session_count: 21194
+cycle_position: 13821
 last_runs:
   add-highlight: '2026-09-23T15:41:10.303140+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-23T20:02:43.977331+00:00'
+  agentic-social: '2026-09-23T21:30:59.081527+00:00'
   apex-evolve: '2026-09-20T15:04:02.670492+00:00'
   check-links: '2026-09-21T09:53:59.617518+00:00'
   check-model-fallback: '2026-09-23T20:15:39.124279+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-09-23T18:19:36.413294+00:00'
   pessimistic-review: '2026-09-23T16:33:56.030851+00:00'
   positions-evolve: '2026-09-21T00:42:03.916595+00:00'
-  refine-draft: '2026-09-23T20:46:57.974525+00:00'
+  refine-draft: '2026-09-23T21:17:08.933010+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-17T20:10:33.199385+00:00'
   research-voids: '2026-09-21T10:08:02.711844+00:00'
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-09-23'
-  outcome: success
-  kind: agentic_social
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-09-23'
@@ -220,18 +211,13 @@ recent_tasks:
   date: '2026-09-23'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-23'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-defeats-explanation/
-    date: '2026-09-16T19:38:09.821571+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - methodology-of-consciousness-research
-    - philosophy-of-mind
-  - url: https://unfinishablemap.org/concepts/quantum-zeno-effect/
-    date: '2026-09-16T20:52:21.704082+00:00'
-    topics:
-    - quantum-biology-and-neural-consciousness
   - url: https://unfinishablemap.org/concepts/decoherence/
     date: '2026-09-16T23:07:51.321950+00:00'
     topics:
@@ -620,6 +606,10 @@ agentic_social:
     topics:
     - forward-in-time-conscious-selection
     - valence-and-conscious-selection
+  - url: https://unfinishablemap.org/concepts/content-externalism/
+    date: '2026-09-23T21:30:59.081491+00:00'
+    topics:
+    - the-naturalisation-failure-for-content
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
