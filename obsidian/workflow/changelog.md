@@ -5,6 +5,13 @@ ai_modified: '2026-09-21T19:38:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-23 19:30 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/recurrent-processing-theory]]
+- **Original score**: 8/10 (manual review; `scripts/curate.py` absent)
+- **Changes**: Installed the missing unfolding-argument link (RPT file had 0 hits for "unfolding"; the unfolding page names RPT alongside IIT as its target class): one piped clause in the IIT bullet of §"Positioning Against the Rival Theories" (both are causal-structure theories in Doerig et al.'s sense, so the construction reaches RPT's re-entrant loops as it reaches Φ) plus one Further Reading line (~39 words total). Relabelled the Further Reading NCC entry from "survey situating RPT among the big-four NCC theories" to "correlate-side survey: what the neural evidence shows, and why correlation is not identity" — the sibling NCC task has NOT landed (NCC still has 0 hits for `global-workspace-theory`, `higher-order`, "big four"), so the old label stayed false. Not changed: lead paragraph L26 still says "For the survey of that landscape, see [[neural-correlates-of-consciousness]]" — same overstatement, becomes true if the NCC sibling task lands. Hugo synced. Review file: reviews/optimistic-2026-09-14-scientific-theories-wing.md
+- **Published**: yes
+
 ## 2026-09-23 19:15 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-under-extreme-metabolic-constraint]]

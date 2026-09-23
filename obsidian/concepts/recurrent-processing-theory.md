@@ -4,7 +4,7 @@ description: "Lamme's local-recurrency NCC theory: phenomenal consciousness as r
 created: 2026-07-11
 modified: 2026-07-11
 human_modified:
-ai_modified: 2026-08-02T18:58:00+00:00
+ai_modified: 2026-09-23T19:30:52+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
@@ -56,7 +56,7 @@ RPT's fault lines with the other big-four theories are sharp and worth stating p
 
 - **Versus [[global-workspace-theory]]:** GWT locates consciousness at Lamme's Stage 4 — global "ignition" broadcasting information across fronto-parietal cortex, with access constitutive of consciousness. RPT locates phenomenality already at Stage 3 and *dissociates* consciousness from access. This is RPT's sharpest disagreement with any rival.
 - **Versus [[higher-order-theories]]:** HOT holds that a state is conscious in virtue of a suitable higher-order representation *of* it, often implicating prefrontal cortex. RPT is **first-order** — recurrent processing of the sensory content itself suffices, with no meta-representation required.
-- **Versus [[integrated-information-theory]]:** Both downplay prefrontal broadcast and favour a posterior "hot zone," but IIT is a system-level identity claim (Φ) while RPT is a specific dynamical-mechanism claim (re-entrant loops).
+- **Versus [[integrated-information-theory]]:** Both downplay prefrontal broadcast and favour a posterior "hot zone," but IIT is a system-level identity claim (Φ) while RPT is a specific dynamical-mechanism claim (re-entrant loops). Both are causal-structure theories in Doerig et al.'s sense, so [[the-unfolding-argument-against-causal-structure-theories-of-consciousness|the unfolding argument]] reaches RPT's re-entrant loops exactly as it reaches Φ.
 
 The 2025 COGITATE adversarial collaboration (*Nature*) tested IIT against GWT — **not RPT directly** — and its bearing on RPT is genuinely mixed rather than supportive. The consortium found information about conscious content in "visual, ventrotemporal and inferior frontal cortex," and reported results that "align with some predictions of IIT and GNWT, while substantially challenging key tenets of both theories." Two details bear on RPT specifically, and they pull opposite ways. In RPT's favour, GNWT was challenged by "the general lack of ignition at stimulus offset" and by limited prefrontal representation of conscious dimensions — pressure on precisely the access-locus RPT denies is constitutive. Against RPT, the study's most direct negative result was "a lack of sustained synchronization within the posterior cortex," and the content-selective connectivity it did find ran between early visual areas and inferior frontal and parietal sites. Sustained posterior recurrence is RPT's proposed mechanism and locality is its signature; neither fared especially well.
 
@@ -82,10 +82,11 @@ That verdict cuts back. The coupling-site reading above predicts the same neural
 
 ## Further Reading
 
-- [[neural-correlates-of-consciousness]] — The survey situating RPT among the big-four NCC theories
+- [[neural-correlates-of-consciousness]] — The correlate-side survey: what the neural evidence shows, and why correlation is not identity
 - [[global-workspace-theory]] — The access-based rival RPT most sharply opposes
 - [[integrated-information-theory]] — The system-level identity rival
 - [[higher-order-theories]] — The meta-representational rival
+- [[the-unfolding-argument-against-causal-structure-theories-of-consciousness]] — The falsifiability challenge RPT shares with IIT
 - [[phenomenal-overflow]] — The richer claim RPT's Stage-3 reading predicts
 - [[access-consciousness]] — The access/phenomenality distinction RPT dissociates
 - [[conscious-vs-unconscious-processing]] — Functional dissociations bearing on the feedforward/recurrent line
