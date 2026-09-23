@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-08-25 00:05:16+00:00
+ai_modified: 2026-09-23 17:01:26+00:00
 ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5
 concepts:
 - '[[measurement-problem]]'
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-08-25 00:05:16+00:00
+lastmod: 2026-09-23 17:01:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -205,7 +205,7 @@ The Born rule and its two closest cousins — third-order interference vanishing
   - GRW/CSL add nonlinear, stochastic collapse terms to Schrödinger evolution; mass-density coupled.
   - LISA Pathfinder, X-ray/germanium detector experiments, and intergalactic-medium heating constraints have squeezed the parameter space.
   - Diósi-Penrose (simplest form) ruled out by germanium detector data.
-  - GRW/CSL itself has "survived by a whisker" at its originally proposed parameter values.
+  - The original GRW model has "survived by a whisker" — a phrase NOT in the SEP entry; it is verbatim from Ball, P. (2022), *Quanta Magazine*, 20 October, and is about original GRW, not CSL. Cite Ball for it.
 - **Tenet alignment**: A baseline GRW/CSL collapse — universal, consciousness-independent — is empirically on thin ice but not dead. If it were modified with Φ-coupling (Chalmers-McQueen) or a brain-specific enhancement, the parameter space would shift into less-tested regions.
 
 ### Stapp / Kauffman Ontologically Real Possibles and Actuals
@@ -297,7 +297,7 @@ The Born rule and its two closest cousins — third-order interference vanishing
 | 2021 | Diósi-Penrose ruled out by germanium detector data | Simplest gravity-collapse model dead; CSL parameter space squeezed. |
 | 2022 | Chalmers & McQueen, Consciousness and Collapse | IIT Φ-based conscious-collapse model. |
 | 2022 | Kerskens & López Pérez (J. Phys. Commun.) | MRI entanglement witness signal in brain water. |
-| 2024 | LISA Pathfinder bounds on CSL | Further squeeze; GRW "survives by a whisker." |
+| 2024 | LISA Pathfinder bounds on CSL | Further squeeze on CSL parameter space. (The GRW "survived by a whisker" verdict is Ball 2022, *Quanta*.) |
 | 2025 | Wiest (Neuroscience of Consciousness) | Review of experimental evidence for quantum microtubule consciousness. |
 | 2025 | Nirvanic "Spark of Life" experiment announced | First robotic brain-analogue coupled to quantum computer for behaviour test. |
 | 2025 | Arana, time-extended consciousness-weighted Born probabilities | Falsifiable phenomenological Born-modifying model. |
@@ -334,6 +334,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 - Aaronson, S. (2005). *Quantum Computing, Postselection, and Probabilistic Polynomial-Time*. Proc. Royal Soc. A. https://royalsocietypublishing.org/doi/10.1098/rspa.2005.1546
 - Arana, A. (2025). *Time-Extended Consciousness-Weighted Quantum Probabilities*. PhilArchive. https://philarchive.org/rec/ARATCQ-2
+- Ball, P. (2022). Physics Experiments Spell Doom for Quantum 'Collapse' Theory. *Quanta Magazine*, 20 October. https://www.quantamagazine.org/physics-experiments-spell-doom-for-quantum-collapse-theory-20221020/
 - Wiest, M.C. (2025). *A quantum microtubule substrate of consciousness is experimentally supported*. Neuroscience of Consciousness 2025(1): niaf011. https://academic.oup.com/nc/article/2025/1/niaf011/8127081
 - Bösch, H., Steinkamp, F., & Boller, E. (2006). *Examining psychokinesis: the interaction of human intention with random number generators — a meta-analysis*. Psychological Bulletin 132(4): 497-523. https://pubmed.ncbi.nlm.nih.gov/16822162/
 - Chalmers, D. J. & McQueen, K. J. (2022). *Consciousness and the Collapse of the Wave Function*. In Gao, S. (ed.), Consciousness and Quantum Mechanics. https://arxiv.org/abs/2105.02314

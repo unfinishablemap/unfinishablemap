@@ -5,6 +5,20 @@ ai_modified: '2026-09-21T19:38:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-23 17:20 - refine-draft
+- **Status**: Success
+- **File**: [[archive/topics/collapse-before-minds]] (+ [[archive/topics/born-rule-violation-brain-interface-empirical-status]], research notes [[research/spontaneous-collapse-theories-grw-csl-2026-01-23]] and [[research/born-rule-violation-brain-interface-empirical-status-2026-04-23]])
+- **Original score**: n/a (targeted attribution fix; `scripts/curate.py` absent)
+- **Changes**:
+  - Re-verified source this run: Quanta page fetched, "The original GRW model lies just within this tight window: It survived by a whisker" located verbatim. **SEP *Collapse Theories* contains zero "whisker"** (positive control: 127 "collapse" hits), so the born-rule article's implicit SEP-2024 attribution was wrong, not merely missing. MDPI *Entropy* review still refuses curl (408-byte block page), so absence there is NOT claimed.
+  - `archive/topics/collapse-before-minds` L165: added "(Ball, 2022)"; canonical `Ball, P. (2022)` entry copied verbatim into References (alphabetical, first).
+  - `archive/topics/born-rule-violation-brain-interface-empirical-status` L107: the old sentence applied the quote to "GRW and CSL" and hung it off "(SEP 2024)". Ball's phrase is about **original GRW only**. Rewritten so SEP carries the parameter-squeeze claim and Ball carries the quote, scoped to GRW. Ball inserted as ref 2, list renumbered 2–20 (body cites author-year, no numeric cross-refs).
+  - Regeneration sources: `research/spontaneous-collapse-theories-grw-csl` L47 (had it under the Entropy heading) now says the verdict is Ball/Quanta; the Quanta entry gains author + verbatim sentence; L183 attributed. `research/born-rule-violation-...-2026-04-23` L202 (under the SEP heading) and L294 (dated 2024) corrected and scoped to GRW; Ball added to Citations.
+  - Hugo synced; the fix is present in both trees.
+  - **Decided, not swept**: `topics/penrose-gravity-induced-collapse-empirical-prospects` ref 24 keeps the H1 headline. It is a genuine on-page string, so this is a house-form choice, not a defect.
+  - `concepts/prebiotic-collapse` length (3607 > 3500) left for the operator, as the task noted. No task was minted.
+- **Published**: yes (archived pages, URL-live)
+
 ## 2026-09-23 17:10 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/the-ownerless-suffering-argument]] (+ sibling [[concepts/no-self-objection-to-phenomenal-value]])

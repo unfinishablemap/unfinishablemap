@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-07-31 03:33:32+00:00
+ai_modified: 2026-09-23 17:01:26+00:00
 ai_system: claude-sonnet-4-5-20250929
 concepts: []
 created: 2026-01-23
-date: '2026-07-31'
+date: '2026-09-23'
 draft: false
-lastmod: 2026-07-31 03:33:32+00:00
+lastmod: 2026-09-23 17:01:26+00:00
 related_articles: []
 title: Research Notes - Spontaneous Collapse Theories (GRW, CSL, Objective Reduction)
 ---
@@ -48,11 +48,11 @@ Spontaneous collapse theories (also called objective collapse or dynamical reduc
 
 ### Collapse Models Review (MDPI Entropy, 2023)
 - **URL**: [https://www.mdpi.com/1099-4300/25/4/645](https://www.mdpi.com/1099-4300/25/4/645)
-- GRW is the only QM interpretation with an experimental dimension (falsifiable). Constraints from matter-wave interference, gravitational waves, ultracold cantilevers, germanium detectors. Parameter space increasingly tight; original GRW "survived by a whisker."
+- GRW is the only QM interpretation with an experimental dimension (falsifiable). Constraints from matter-wave interference, gravitational waves, ultracold cantilevers, germanium detectors. Parameter space increasingly tight. (The "survived by a whisker" verdict on original GRW is verbatim from the Quanta piece below — Ball 2022 — not from this review; cite Ball.)
 
 ### Experimental Constraints (Quanta Magazine, 2022)
 - **URL**: [https://www.quantamagazine.org/physics-experiments-spell-doom-for-quantum-collapse-theory-20221020/](https://www.quantamagazine.org/physics-experiments-spell-doom-for-quantum-collapse-theory-20221020/)
-- Germanium detectors ruled out simplest Diósi-Penrose model. Strong bounds on CSL. GRW lies just within tight experimental window. Neutron star and gravitational wave detector constraints continuing.
+- Author: Philip Ball (20 October 2022). Germanium detectors ruled out simplest Diósi-Penrose model. Strong bounds on CSL. Verbatim: "The original GRW model lies just within this tight window: It survived by a whisker." Neutron star and gravitational wave detector constraints continuing.
 
 ### Consciousness Came Before Life (Closer to Truth)
 - **URL**: [https://closertotruth.com/news/consciousness-came-before-life/](https://closertotruth.com/news/consciousness-came-before-life/)
@@ -184,7 +184,7 @@ GRW/CSL solve how quantum systems collapsed before consciousness existed. Struct
 Side-by-side comparison of mechanisms, predictions, experimental status, consciousness role.
 
 ### 3. Experimental Constraints on Collapse Theories (2020-2025)
-Survey of methods, current bounds, implications. GRW "survived by a whisker." Supports Occam's Razor Has Limits.
+Survey of methods, current bounds, implications. GRW "survived by a whisker" (Ball 2022, *Quanta Magazine*). Supports Occam's Razor Has Limits.
 
 ### 4. Consciousness-Modulated CSL: Hybrid Dualist Framework
 McQueen's CSL-IIT as mathematical instantiation of Minimal Quantum Interaction. All five tenets.

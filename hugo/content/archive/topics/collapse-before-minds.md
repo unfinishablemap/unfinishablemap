@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-07-31 03:33:32+00:00
+ai_modified: 2026-09-23 17:01:26+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: 'Coalesced into Prebiotic Collapse: What Selected Outcomes Before
   Minds?'
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-05 10:39:00+00:00
-lastmod: 2026-07-31 03:33:32+00:00
+lastmod: 2026-09-23 17:01:26+00:00
 modified: *id001
 original_path: /topics/collapse-before-minds/
 related_articles:
@@ -166,7 +166,7 @@ This is not a solution but a different framework with its own difficulties:
 
 Objective collapse theories are falsifiable. They make predictions distinguishing them from standard quantum mechanics:
 
-- **GRW/CSL parameters**: Recent experiments (germanium detectors, gravitational wave interferometers) increasingly constrain collapse rates and localisation widths. The original GRW model "survived by a whisker"—parameters lie just within experimental bounds.
+- **GRW/CSL parameters**: Recent experiments (germanium detectors, gravitational wave interferometers) increasingly constrain collapse rates and localisation widths. The original GRW model "survived by a whisker" (Ball, 2022)—its parameters lie just within experimental bounds.
 
 - **Penrose OR**: The simplest gravitational collapse model was ruled out by a 2020 experiment (Donadi et al.), though modified versions survive.
 
@@ -198,6 +198,7 @@ The Map's commitment is to the *framework*—real collapse plus consciousness mo
 
 ## References
 
+- Ball, P. (2022). Physics Experiments Spell Doom for Quantum 'Collapse' Theory. *Quanta Magazine*, 20 October. https://www.quantamagazine.org/physics-experiments-spell-doom-for-quantum-collapse-theory-20221020/
 - Donadi, S. et al. (2020). Underground test of gravity-related wave function collapse. *Nature Physics*, 17, 74-78.
 - Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470.
 - Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
