@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-09-23 20:31:00+00:00
+ai_modified: 2026-09-23 21:48:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-05 22:12:37+00:00
-lastmod: 2026-09-23 20:31:00+00:00
+lastmod: 2026-09-23 21:48:26+00:00
 modified: *id001
 related_articles:
 - '[[personal-identity]]'
@@ -60,7 +60,7 @@ The Map treats SMT as a principal *rival*: a representationalist, functionalist 
 
 **1. SMT as a direct challenge to Tenet 4.** [Tenet 4](/tenets/)'s load-bearing commitment is the *indexical* one: an "I" whose [mine-ness](/concepts/mine-ness/) picks out a determinate subject, such that "why is *this* experience *mine*, *now*?" is a well-formed question. SMT presses exactly here. If there is no self, only a transparent self-model, then the "owner" of experience becomes a *represented feature of a model* rather than a metaphysical fact—and the determinate subject Tenet 4 requires appears to dissolve. This parallels the [phenomenal-sorites](/concepts/phenomenal-sorites-problem/) threat: where the sorites attacks the determinacy of *whether and how much* experience is present, SMT attacks the determinacy of *whose* it is. Both bear on Tenet 4's demand for a sharp, indexed subject. The Map's tenets already note this honestly: the indexical objection is meaningful only on a non-deflationary conception of the "I," which the Map endorses on independent grounds rather than treats as a neutral datum. So the engagement is a located disagreement, not a refutation: the Map claims the ownership relation is a genuine metaphysical fact underdetermined by the representational story—plausibly grounded in dualist coupling—while conceding that SMT's deflationary route stays open at the framework boundary.
 
-**2. Transparency relocates, rather than closes, the hard problem.** SMT's real achievement is explaining the *structure* of self-representation: transparency predicts the naive-realist sense of *being* rather than *having*. But a residual question survives—*why is there phenomenal character to the modeling at all?* Why does running a transparent self-model *feel like* being someone, rather than proceeding in the dark? Transparency is a claim about the introspective *availability* of representational vehicles; it does not by itself manufacture experience from non-experience. On the Map's dualist reading (Tenet 1), this is where a non-physical contribution does work the functional story leaves untouched. The point is dialectical, not a knock-down: SMT is not thereby refuted; the hard problem is re-sited inside the self-model rather than removed.
+**2. Transparency relocates, rather than closes, the hard problem.** SMT's real achievement is explaining the *structure* of self-representation: transparency predicts the naive-realist sense of *being* rather than *having*. But a residual question survives—*why is there phenomenal character to the modeling at all?* Why does running a transparent self-model *feel like* being someone, rather than proceeding in the dark? Transparency is a claim about the introspective *availability* of representational vehicles; it does not by itself manufacture experience from non-experience. On the Map's dualist reading (Tenet 1), this is where a non-physical contribution does work the functional story leaves untouched. The point is dialectical, not a knock-down: SMT is not thereby refuted; the hard problem is [re-sited](/concepts/the-relocation-objection/) inside the self-model rather than removed.
 
 SMT has two close neighbours among the Map's scientific theories. [Attention Schema Theory](/concepts/attention-schema-theory/) is the same theory-type aimed at a different target: Graziano's brain builds a simplified, mechanism-omitting model of its own attention, and that model's content is the appearance of awareness, as Metzinger's transparent self-model yields the appearance of a subject. The Map presses the same objection on both—relocating the explanandum to an appearance renames the problem rather than solving it. Dennett's [multiple-drafts-model](/concepts/multiple-drafts-model/) supplies the architecture both presuppose: no Cartesian Theater, no inner audience. SMT's "no one is home" is that anti-theater thesis applied to the self-pole, and the Map's response runs parallel: accept the anti-homuncular science, resist the eliminative step.
 

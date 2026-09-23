@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-07-31 13:45:06+00:00
+ai_modified: 2026-09-23 21:48:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-03 00:09:49+00:00
-lastmod: 2026-07-31 13:45:06+00:00
+lastmod: 2026-09-23 21:48:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -109,7 +109,7 @@ The structural echo across these replies is worth marking. Wide content aside, S
 
 First-order representationalism is a direct denial of the Map's [Dualism](/tenets/#dualism) tenet: it holds that phenomenal character is nothing over and above physical/functional tracking content. The Map treats it as the strongest reductive rival on offer and resists it on two fronts.
 
-**The relocation objection (the Map's core move).** Identifying feel with content does not close the [explanatory gap](/concepts/explanatory-gap/); it relocates it. Replace "why does this neural state feel like anything?" with "why does representing-thus feel like anything?" and the question survives intact. No tracking relation, however teleologically refined, *entails* a felt character—one can specify the full informational-functional profile of a state representing red without thereby saying why occupying that state is like anything at all. The reduction of feel to content reads, on the Map's view, as a re-description of the mystery rather than an explanation of it. This is the same structural point the Map presses against every reductive account: fixing the functional or representational facts leaves the phenomenal fact untouched.
+**The [relocation objection](/concepts/the-relocation-objection/) (the Map's core move).** Identifying feel with content does not close the [explanatory gap](/concepts/explanatory-gap/); it relocates it. Replace "why does this neural state feel like anything?" with "why does representing-thus feel like anything?" and the question survives intact. No tracking relation, however teleologically refined, *entails* a felt character—one can specify the full informational-functional profile of a state representing red without thereby saying why occupying that state is like anything at all. The reduction of feel to content reads, on the Map's view, as a re-description of the mystery rather than an explanation of it. This is the same structural point the Map presses against every reductive account: fixing the functional or representational facts leaves the phenomenal fact untouched.
 
 The sophisticated replies to inversion make the relocation visible in miniature. Each of them buys its answer by individuating the represented property in terms of the phenomenal character it produces — dispositions to cause experiences with a given feel, modes of presentation fixed by feel, colours constituted by relations to perceivers who feel. The manoeuvre is not a defect of any one proposal; it is what a theory has to do when the content it appeals to must match feel case by case. What it forfeits is reduction. A content specified by reference to feel cannot be the naturalistic base that feel reduces to. Wide content is the one reply that keeps the reduction intact, and it pays instead in phenomenology, denying that a subject undergoing a total inversion of quality would notice.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-07-19 11:45:52+00:00
+ai_modified: 2026-09-23 21:48:26+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 11:45:52+00:00
-lastmod: 2026-07-19 11:45:52+00:00
+lastmod: 2026-09-23 21:48:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -86,7 +86,7 @@ AIR is a naturalistic rival to the Map's [Dualism](/tenets/#dualism) tenet, and 
 
 **What the Map grants.** AIR is a well-specified candidate for the neural and functional correlates of consciousness, and the Map has no quarrel with attention and the intermediate perceptual level being *where* and *when* human visual consciousness characteristically arises. As a [correlate](/concepts/neural-correlates-of-consciousness/) proposal, AIR can be largely correct about the mechanics. The empirical claims about attention gating availability to working memory can stand.
 
-**Where the Map resists: constitution versus selection.** AIR's core commitment is a *constitution* claim — attended intermediate representations *are* consciousness; there is no phenomenal fact beyond the functionally specified process. This is the claim Tenet 1 resists, and the resistance is the same structural move the Map presses against every reductive account, including [first-order representationalism](/concepts/first-order-representationalism/): specifying *when* and *where* consciousness arises does not answer *why* those states are experienced at all. One can fix the entire functional profile — an intermediate representation, attended, synchronized in the gamma band, available to working memory — without thereby saying why occupying that state is like anything. The attention-gate is a re-description of the conditions under which experience shows up, not an account of why it is felt. On the Map's reading this relocates the [hard problem](/topics/hard-problem-of-consciousness/) rather than dissolving it.
+**Where the Map resists: constitution versus selection.** AIR's core commitment is a *constitution* claim — attended intermediate representations *are* consciousness; there is no phenomenal fact beyond the functionally specified process. This is the claim Tenet 1 resists, and the resistance is the same structural move the Map presses against every reductive account, including [first-order representationalism](/concepts/first-order-representationalism/): specifying *when* and *where* consciousness arises does not answer *why* those states are experienced at all. One can fix the entire functional profile — an intermediate representation, attended, synchronized in the gamma band, available to working memory — without thereby saying why occupying that state is like anything. The attention-gate is a re-description of the conditions under which experience shows up, not an account of why it is felt. On the Map's reading this [relocates](/concepts/the-relocation-objection/) the [hard problem](/topics/hard-problem-of-consciousness/) rather than dissolving it.
 
 The Map's positive reframing turns AIR's own datum into a different story. Attention plausibly *does* select which intermediate representations become conscious — that is exactly what the availability-to-working-memory mechanism describes. The Map reads this as [attention as the interface](/concepts/attention-as-interface/): the mechanism by which non-physical consciousness *selects among* the representations the brain makes available, not the mechanism that *constitutes* experience out of otherwise-dark processing. Where AIR says the attended intermediate representation *is* the experience, the Map says it is *what experience selects and couples to* at the interface. The two proposals agree almost entirely about the neural and functional facts and disagree about what those facts are facts *of* — constitution or selection.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-09-20 12:09:03+00:00
+ai_modified: 2026-09-23 21:48:26+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 20:04:42+00:00
-lastmod: 2026-09-20 12:09:03+00:00
+lastmod: 2026-09-23 21:48:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -65,7 +65,7 @@ If metarepresentation requires phenomenal consciousness—as the [comparative-co
 
 If having a thought about something made it conscious, then thinking about a rock should make the rock conscious. It doesn't. So why should thinking about a mental state make *it* conscious?
 
-Rosenthal's reply goes beyond the bare observation that rocks aren't mental states. On his account mental states already carry qualitative properties—mental qualities, individuated by position in a discrimination-derived similarity structure and possessed whether or not the state is conscious (Rosenthal 2010). The higher-order thought makes the subject aware of character the state already had rather than conferring it; a rock has none to reveal, so the disanalogy is principled. But this relocates the gap rather than closing it: if mental qualities are present unconsciously, what the higher-order thought adds is awareness *of* them, and the question becomes why awareness of a quality should be felt when the quality was, by hypothesis, unfelt a moment earlier.
+Rosenthal's reply goes beyond the bare observation that rocks aren't mental states. On his account mental states already carry qualitative properties—mental qualities, individuated by position in a discrimination-derived similarity structure and possessed whether or not the state is conscious (Rosenthal 2010). The higher-order thought makes the subject aware of character the state already had rather than conferring it; a rock has none to reveal, so the disanalogy is principled. But this [relocates the gap](/concepts/the-relocation-objection/) rather than closing it: if mental qualities are present unconsciously, what the higher-order thought adds is awareness *of* them, and the question becomes why awareness of a quality should be felt when the quality was, by hypothesis, unfelt a moment earlier.
 
 ### The Misrepresentation Problem
 

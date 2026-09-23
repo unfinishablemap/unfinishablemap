@@ -4,7 +4,7 @@ description: "Mental states become conscious when we become aware of them. HOT e
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-09-20T12:09:03+00:00
+ai_modified: 2026-09-23T21:48:26+00:00
 draft: false
 last_deep_review: 2026-07-25T20:04:42+00:00
 topics:
@@ -62,7 +62,7 @@ If metarepresentation requires phenomenal consciousness—as the [[metacognition
 
 If having a thought about something made it conscious, then thinking about a rock should make the rock conscious. It doesn't. So why should thinking about a mental state make *it* conscious?
 
-Rosenthal's reply goes beyond the bare observation that rocks aren't mental states. On his account mental states already carry qualitative properties—mental qualities, individuated by position in a discrimination-derived similarity structure and possessed whether or not the state is conscious (Rosenthal 2010). The higher-order thought makes the subject aware of character the state already had rather than conferring it; a rock has none to reveal, so the disanalogy is principled. But this relocates the gap rather than closing it: if mental qualities are present unconsciously, what the higher-order thought adds is awareness *of* them, and the question becomes why awareness of a quality should be felt when the quality was, by hypothesis, unfelt a moment earlier.
+Rosenthal's reply goes beyond the bare observation that rocks aren't mental states. On his account mental states already carry qualitative properties—mental qualities, individuated by position in a discrimination-derived similarity structure and possessed whether or not the state is conscious (Rosenthal 2010). The higher-order thought makes the subject aware of character the state already had rather than conferring it; a rock has none to reveal, so the disanalogy is principled. But this [[the-relocation-objection|relocates the gap]] rather than closing it: if mental qualities are present unconsciously, what the higher-order thought adds is awareness *of* them, and the question becomes why awareness of a quality should be felt when the quality was, by hypothesis, unfelt a moment earlier.
 
 ### The Misrepresentation Problem
 

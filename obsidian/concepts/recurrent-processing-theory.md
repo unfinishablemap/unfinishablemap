@@ -4,7 +4,7 @@ description: "Lamme's local-recurrency NCC theory: phenomenal consciousness as r
 created: 2026-07-11
 modified: 2026-07-11
 human_modified:
-ai_modified: 2026-09-23T21:10:00+00:00
+ai_modified: 2026-09-23T21:48:26+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
@@ -70,7 +70,7 @@ RPT is a reductive theory: it says recurrent processing *is* phenomenal consciou
 
 The demand can be pressed from inside Lamme's own commitments rather than from outside them. His methodological case rests on preferring mechanism to intuition and on refusing to let a psychological notion stand where a neural account is owed. By that standard, "re-entrant signalling *is* experience" is the one step in the theory that is asserted rather than mechanised: the four-stage model specifies with real precision what happens to a signal at each stage, and then, at the Stage 2 → Stage 3 boundary, felt quality is declared to have arrived without an account of what about the loop's geometry or dynamics constitutes it. A theory that asks report-based approaches to stop helping themselves to unexplained primitives owes the same discipline at its own foundation.
 
-That objection has to be stated carefully, because a version of it returns against the Map. Locating felt character on the non-physical side also declines to say why coupling should feel like anything; the Map relocates the mystery rather than dissolving it. The difference claimed here is dialectical rather than explanatory. Irreducibility is a starting commitment under [[tenets#^dualism|Tenet 1]], openly assumed and carried as an acknowledged debt, whereas RPT advertises a reduction and then does not deliver one. That marks a promise made and unmet, which is not the same as an explanatory advantage the Map has earned.
+That objection has to be stated carefully, because a version of it returns against the Map. Locating felt character on the non-physical side also declines to say why coupling should feel like anything; the Map [[the-relocation-objection#two-edged|relocates the mystery]] rather than dissolving it. The difference claimed here is dialectical rather than explanatory. Irreducibility is a starting commitment under [[tenets#^dualism|Tenet 1]], openly assumed and carried as an acknowledged debt, whereas RPT advertises a reduction and then does not deliver one. That marks a promise made and unmet, which is not the same as an explanatory advantage the Map has earned.
 
 **Recurrent loops as a candidate coupling site.** The Map reinterprets a strong physical-side correlate not as *what experience is* but as *where the non-physical might engage the physical* — the interface question developed in [[neural-correlates-of-consciousness]] and [[filter-theory]]. If some minimal, non-physical influence participates in fixing conscious content ([[tenets#^minimal-quantum-interaction|Tenet 2]]) and consciousness acts back on the brain ([[tenets#^bidirectional-interaction|Tenet 3]]), then re-entrant loops in sensory cortex are a natural candidate for the physical locus of that coupling. This is a Map speculation, explicitly flagged as such: RPT supplies a promising address for the interface without establishing that the recurrence itself is the felt quality.
 

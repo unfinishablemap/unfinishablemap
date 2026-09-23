@@ -5,6 +5,14 @@ ai_modified: '2026-09-21T19:38:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-23T21:48:26+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The relocation objection
+- **Output**: [[concepts/the-relocation-objection]]
+- **Word count**: 2489 (analyze_length total, incl. references; concepts soft 2500)
+- **Based on research**: no (source: optimistic-2026-09-14-scientific-theories-wing Finding 5; wing pages quoted from current text)
+- **Notes**: "Defined nowhere" verified as overstated — `topics/emergence-as-universal-hard-problem` §"Why Reduction Relocates Rather Than Resolves" generalises relocation to all reduction, and `concepts/constitution-vs-causal-work` defines a distinct dispute-relocation move; the new page separates both. MDM treated as the limiting case (no identity claim to relocate); GWT/IIT noted as the principled exceptions. Records the internal tension between the emergence page (heat reduction relocates) and NCC (heat as the benchmark of a closed gap). Zero-word piped inbound links added in first-order-representationalism, attention-as-interface, recurrent-processing-theory, self-model-theory-of-subjectivity, attended-intermediate-representations-theory, higher-order-theories.
+
 ## 2026-09-23T21:15:58+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/attention-schema-theory]]

@@ -10,6 +10,23 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-23T21:48:26+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The relocation objection
+- **Output**: [the-relocation-objection](/concepts/the-relocation-objection/)
+- **Word count**: 2489 (analyze_length total, incl. references; concepts soft 2500)
+- **Based on research**: no (source: optimistic-2026-09-14-scientific-theories-wing Finding 5; wing pages quoted from current text)
+- **Notes**: "Defined nowhere" verified as overstated — `topics/emergence-as-universal-hard-problem` §"Why Reduction Relocates Rather Than Resolves" generalises relocation to all reduction, and `concepts/constitution-vs-causal-work` defines a distinct dispute-relocation move; the new page separates both. MDM treated as the limiting case (no identity claim to relocate); GWT/IIT noted as the principled exceptions. Records the internal tension between the emergence page (heat reduction relocates) and NCC (heat as the benchmark of a closed gap). Zero-word piped inbound links added in first-order-representationalism, attention-as-interface, recurrent-processing-theory, self-model-theory-of-subjectivity, attended-intermediate-representations-theory, higher-order-theories.
+
+## 2026-09-23T21:15:58+00:00 - refine-draft
+- **Status**: Success
+- **File**: [attention-schema-theory](/concepts/attention-schema-theory/)
+- **Original score**: n/a (scripts/curate.py absent; calibration fix from optimistic-2026-09-14-scientific-theories-wing Process Philosopher/Hardline Empiricist conflict)
+- **Word count**: 3484 → 3469 (-15; hard 3500)
+- **Changes**: §Process Philosophy Perspective re-framed from refutation to rival order of explanation — "illuminates why AST's explanation fails" → "offers a rival order of explanation the Map finds congenial without adopting its panexperientialism"; subsection "Why Models Cannot Generate Experience" → "Models as Composed of Experience"; "AST inverts the order of explanation" claim cut, replaced with an explicit note that the Map's own objection (§Why the Map Rejects AST, tracking-is-not-experiencing) needs no Whitehead; dropped "experience pervades reality at every level" and one redundant prehension sentence for length. Prehension paragraph kept. AST→SMT reciprocal installed at 0 words: piped "content in a model" in §The Regress Problem to [self-model-theory-of-subjectivity](/concepts/self-model-theory-of-subjectivity/). Both trees synced.
+- **Engagement with Whitehead/process philosophy**: Mode Three; the section was using a tenet-foreign framework (panexperientialism) as a refutation, now marked as a rival framework rather than an in-framework argument against AST.
+- **Published**: yes
+
 ## 2026-09-23T21:10:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [recurrent-processing-theory](/concepts/recurrent-processing-theory/)

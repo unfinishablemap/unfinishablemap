@@ -4,7 +4,7 @@ description: "The hypothesis that consciousness acts on the brain through phenom
 created: 2026-01-14
 modified: 2026-03-29
 human_modified: null
-ai_modified: 2026-09-08T09:22:41+00:00
+ai_modified: 2026-09-23T21:48:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -203,7 +203,7 @@ COGITATE (2025) found neither GWT nor IIT clearly vindicated—the Map's tenets 
 
 **The Illusionist Challenge**: If phenomenal consciousness is illusory, no special interface is needed. But if the sense of effort is an illusion, something must experience that illusion—the regress problem. Even philosophers who accept illusionism report attention *still feels* effortful.
 
-**The Relocation Objection**: The interface hypothesis specifies *where* consciousness acts (through attention) and *how* it might act (e.g., quantum selection), but does not explain *why* phenomenal attention exists or how subjective experience arises from—or connects to—physical processes. The hard problem is relocated from "why does neural processing produce experience?" to "why does consciousness have this particular interface with neural processing?" The hypothesis gains value not by dissolving the hard problem but by narrowing where the explanatory gap sits—from "consciousness and the brain" to "consciousness and attentional selection"—which may prove more tractable.
+**[[the-relocation-objection|The Relocation Objection]]**: The interface hypothesis specifies *where* consciousness acts (through attention) and *how* it might act (e.g., quantum selection), but does not explain *why* phenomenal attention exists or how subjective experience arises from—or connects to—physical processes. The hard problem is relocated from "why does neural processing produce experience?" to "why does consciousness have this particular interface with neural processing?" The hypothesis gains value not by dissolving the hard problem but by narrowing where the explanatory gap sits—from "consciousness and the brain" to "consciousness and attentional selection"—which may prove more tractable.
 
 **The Functionalist Challenge**: Computational attention is fully specifiable in terms of inputs, outputs, and processing. But phenomenal attention resists functional specification—two systems performing identical computational attention could differ in phenomenal attention (or one could lack it entirely). A concrete instance of the general anti-[[concepts/functionalism|functionalist]] argument.
 
