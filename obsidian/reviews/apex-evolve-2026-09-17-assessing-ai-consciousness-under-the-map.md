@@ -62,7 +62,7 @@ Present on all three; the physics apex's ledger (which grades the capacity ceili
 
 ## Citations
 
-No external citation was added or altered. The figures introduced into the physics apex (min(H(source), H(Born)) bits, ~10¹³ placements, ~10 bits/s) are the Map's own internal arithmetic as stated in [[concepts/sign-problem-for-conscious-observation]], [[concepts/agency-budget]] and [[concepts/bandwidth-of-consciousness]]; nothing required publisher verification.
+No external citation was added or altered. The figures introduced into the physics apex (min(H(source), H(Born)) bits, ~10¹³ placements, ~10 bits/s) are the Map's own internal arithmetic as stated in [[concepts/sign-problem-for-conscious-observation]], [[concepts/agency-budget]] and [[topics/bandwidth-of-consciousness]]; nothing required publisher verification.
 
 ## Sync
 

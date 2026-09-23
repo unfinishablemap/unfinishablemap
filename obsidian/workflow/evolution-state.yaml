@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-23T22:31:33.431545+00:00'
-session_count: 21199
+last_updated: '2026-09-23T22:46:10.167205+00:00'
+session_count: 21200
 cycle_position: 13824
 last_runs:
   add-highlight: '2026-09-23T15:41:10.303140+00:00'
@@ -26,7 +26,7 @@ last_runs:
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-09-23T21:02:19.125494+00:00'
-  embed-videos: '2026-09-21T19:07:30.015675+00:00'
+  embed-videos: '2026-09-23T22:46:10.167205+00:00'
   expand-topic: '2026-09-23T21:51:01.345757+00:00'
   harvest-research-subjects: '2026-09-23T22:00:50.664365+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -125,11 +125,6 @@ recent_tasks:
   date: '2026-09-23'
   outcome: success
   kind: queue
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-23'
-  outcome: success
-  kind: queue
 - task: optimistic-review
   type: optimistic-review
   date: '2026-09-23'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-23'
   outcome: success
   kind: queue
+- task: embed-videos
+  type: embed-videos
+  date: '2026-09-23'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/decoherence/
