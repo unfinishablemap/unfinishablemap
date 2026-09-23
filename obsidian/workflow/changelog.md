@@ -5,6 +5,13 @@ ai_modified: '2026-09-21T19:38:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-23 16:32 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/the-ownerless-suffering-argument]]. It had no prior pessimistic review and the lowest review-corpus coverage in topics/concepts/voids. The sibling [[concepts/no-self-objection-to-phenomenal-value]] was read for the verdict the article scopes. The 2026-09-08 deep review's quote-fidelity ledger was taken as settled and not re-opened.
+- **Key findings**: (High) the central finding, that a momentary locus falsifies 8.102's "no sufferings belong to anyone" and so the "close to terminological" verdict "fails normatively", depends on an unargued wide-scope reading of "anyone". On the person-scoped reading the 8.94–99 context supports, the locus leaves the inference intact, and the article already concedes the locus cannot ground partiality. (Medium-High) the Relation section credits Tenet 1 with supplying the subject-pole. Tenet 1 is neutral on bearers and abhidharma dharma-realism satisfies it too. (Medium) §unranked reads Goodman's conventional-level "welfare" talk as a concession, against the article's own two-truths exposition. No forbidden labels; altered-state audit not applicable.
+- **Tasks added**: 1 P2 refine-draft (length-neutral; headroom 137 at `analyze_length` 3362), carrying a sibling-alignment note for `no-self-objection-to-phenomenal-value` L110.
+- **Output**: [[reviews/pessimistic-2026-09-23-the-ownerless-suffering-argument]]
+
 ## 2026-09-21 20:40 - refine-draft
 - **Status**: Success
 - **File**: [[topics/constitutive-exclusion]]
