@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-23T21:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [recurrent-processing-theory](/concepts/recurrent-processing-theory/)
+- **Word count**: 2120 → 2181 (+61)
+- **Critical issues addressed**: 2 (Doerig et al. inline cite had no References entry: added after verification at PubMed 31078047, real-correct; "reaches RPT exactly as it reaches Φ" overstated a contested argument: now reworded to "aimed at ... as squarely as", with a contested-and-weighed-elsewhere clause)
+- **Medium issues addressed**: 0 (the 2026-08-02 resolutions still hold)
+- **Enhancements made**: 1 (verbatim Doerig et al. gloss of RPT as a causal-structure theory)
+- **Engagement classification**: Lamme/RPT is still Mode Two with a Mode Three residue; the unfolding mention reports a third party's challenge and is not a new Map reply
+- **Output**: [deep-review-2026-09-23-recurrent-processing-theory](/reviews/deep-review-2026-09-23-recurrent-processing-theory/)
+
 ## 2026-09-23T20:46:28+00:00 - refine-draft
 - **Status**: Success
 - **File**: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)

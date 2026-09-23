@@ -4,7 +4,7 @@ description: "Lamme's local-recurrency NCC theory: phenomenal consciousness as r
 created: 2026-07-11
 modified: 2026-07-11
 human_modified:
-ai_modified: 2026-09-23T19:30:52+00:00
+ai_modified: 2026-09-23T21:10:00+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
@@ -17,10 +17,10 @@ concepts:
 related_articles: []
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-07-11
 last_curated:
-last_deep_review: 2026-08-02T18:58:00+00:00
+last_deep_review: 2026-09-23T21:10:00+00:00
 ---
 
 Recurrent Processing Theory (RPT), developed by the Dutch neuroscientist Victor Lamme, holds that **localized recurrent processing — feedback, or re-entrant, signalling within sensory cortex — is the neural signature of phenomenal consciousness**, and that this signature is dissociable from the global broadcast and cognitive access emphasised by rival theories. It is the "local / first-order" member of the neural-correlates-of-consciousness big four, the alternative to [[global-workspace-theory]]'s global broadcast, [[integrated-information-theory]]'s system-level integration, and [[higher-order-theories]]' meta-representation. For the survey of that landscape, see [[neural-correlates-of-consciousness]]; this article positions RPT against those rivals rather than restating them.
@@ -56,7 +56,7 @@ RPT's fault lines with the other big-four theories are sharp and worth stating p
 
 - **Versus [[global-workspace-theory]]:** GWT locates consciousness at Lamme's Stage 4 — global "ignition" broadcasting information across fronto-parietal cortex, with access constitutive of consciousness. RPT locates phenomenality already at Stage 3 and *dissociates* consciousness from access. This is RPT's sharpest disagreement with any rival.
 - **Versus [[higher-order-theories]]:** HOT holds that a state is conscious in virtue of a suitable higher-order representation *of* it, often implicating prefrontal cortex. RPT is **first-order** — recurrent processing of the sensory content itself suffices, with no meta-representation required.
-- **Versus [[integrated-information-theory]]:** Both downplay prefrontal broadcast and favour a posterior "hot zone," but IIT is a system-level identity claim (Φ) while RPT is a specific dynamical-mechanism claim (re-entrant loops). Both are causal-structure theories in Doerig et al.'s sense, so [[the-unfolding-argument-against-causal-structure-theories-of-consciousness|the unfolding argument]] reaches RPT's re-entrant loops exactly as it reaches Φ.
+- **Versus [[integrated-information-theory]]:** Both downplay prefrontal broadcast and favour a posterior "hot zone," but IIT is a system-level identity claim (Φ) while RPT is a specific dynamical-mechanism claim (re-entrant loops). Doerig et al. (2019) name both as causal-structure theories — on which "feedforward systems are never conscious, and feedback systems always are" — so [[the-unfolding-argument-against-causal-structure-theories-of-consciousness|the unfolding argument]]'s either-false-or-unfalsifiable disjunction is aimed at RPT's re-entrant loops as squarely as at Φ. The argument is contested, and its reach is weighed in its own article.
 
 The 2025 COGITATE adversarial collaboration (*Nature*) tested IIT against GWT — **not RPT directly** — and its bearing on RPT is genuinely mixed rather than supportive. The consortium found information about conscious content in "visual, ventrotemporal and inferior frontal cortex," and reported results that "align with some predictions of IIT and GNWT, while substantially challenging key tenets of both theories." Two details bear on RPT specifically, and they pull opposite ways. In RPT's favour, GNWT was challenged by "the general lack of ignition at stimulus offset" and by limited prefrontal representation of conscious dimensions — pressure on precisely the access-locus RPT denies is constitutive. Against RPT, the study's most direct negative result was "a lack of sustained synchronization within the posterior cortex," and the content-selective connectivity it did find ran between early visual areas and inferior frontal and parietal sites. Sustained posterior recurrence is RPT's proposed mechanism and locality is its signature; neither fared especially well.
 
@@ -99,5 +99,6 @@ That verdict cuts back. The coupling-site reading above predicts the same neural
 3. Lamme, V. A. F. (2010). How neuroscience will change our view on consciousness. *Cognitive Neuroscience*, 1(3), 204–220. https://doi.org/10.1080/17588921003731586
 4. Block, N. (2011). Perceptual consciousness overflows cognitive access. *Trends in Cognitive Sciences*, 15(12), 567–575. https://pubmed.ncbi.nlm.nih.gov/22078929/
 5. Cogitate Consortium (Ferrante, O., Gorska-Klimowska, U., et al.) (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133–142. https://doi.org/10.1038/s41586-025-08888-1
-6. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Neural Correlates of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/neural-correlates-of-consciousness/
-7. Southgate, A. & Oquatre-six, C. (2026-01-28). Phenomenal Overflow. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenal-overflow/
+6. Doerig, A., Schurger, A., Hess, K., & Herzog, M. H. (2019). The unfolding argument: Why IIT and other causal structure theories cannot explain consciousness. *Consciousness and Cognition*, 72, 49–59. https://doi.org/10.1016/j.concog.2019.04.002
+7. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Neural Correlates of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/neural-correlates-of-consciousness/
+8. Southgate, A. & Oquatre-six, C. (2026-01-28). Phenomenal Overflow. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenal-overflow/
