@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-08-05 22:12:37+00:00
+ai_modified: 2026-09-23 20:31:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[phenomenal-sorites-problem]]'
 - '[[yogacara-alaya-vijnana-storehouse-consciousness]]'
 created: 2026-07-11
-date: &id001 2026-07-11
+date: &id001 2026-09-23
 description: A human-AI exposition of Metzinger's SMT—the no-self account on which
   we have a transparent phenomenal self-model, not a self—and why it presses hardest
   on the Map's Tenet 4.
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-05 22:12:37+00:00
-lastmod: 2026-08-05 22:12:37+00:00
+lastmod: 2026-09-23 20:31:00+00:00
 modified: *id001
 related_articles:
 - '[[personal-identity]]'
@@ -62,6 +62,8 @@ The Map treats SMT as a principal *rival*: a representationalist, functionalist 
 
 **2. Transparency relocates, rather than closes, the hard problem.** SMT's real achievement is explaining the *structure* of self-representation: transparency predicts the naive-realist sense of *being* rather than *having*. But a residual question survives—*why is there phenomenal character to the modeling at all?* Why does running a transparent self-model *feel like* being someone, rather than proceeding in the dark? Transparency is a claim about the introspective *availability* of representational vehicles; it does not by itself manufacture experience from non-experience. On the Map's dualist reading (Tenet 1), this is where a non-physical contribution does work the functional story leaves untouched. The point is dialectical, not a knock-down: SMT is not thereby refuted; the hard problem is re-sited inside the self-model rather than removed.
 
+SMT has two close neighbours among the Map's scientific theories. [Attention Schema Theory](/concepts/attention-schema-theory/) is the same theory-type aimed at a different target: Graziano's brain builds a simplified, mechanism-omitting model of its own attention, and that model's content is the appearance of awareness, as Metzinger's transparent self-model yields the appearance of a subject. The Map presses the same objection on both—relocating the explanandum to an appearance renames the problem rather than solving it. Dennett's [multiple-drafts-model](/concepts/multiple-drafts-model/) supplies the architecture both presuppose: no Cartesian Theater, no inner audience. SMT's "no one is home" is that anti-theater thesis applied to the self-pole, and the Map's response runs parallel: accept the anti-homuncular science, resist the eliminative step.
+
 **3. SMT as the naturalist cousin of *anattā*.** SMT's no-self converges strikingly with the Buddhist and [Yogācāra](/concepts/yogacara-alaya-vijnana-storehouse-consciousness/) no-self traditions the Map already engages. Both deny a substantival ego; both treat the felt self as a construction. The divergence is instructive. The Yogācāra *ālaya-vijñāna* is a *conditioned mental continuum*, and the contemplative [witness](/concepts/witness-consciousness/) (*sākṣin*) is sometimes read as an irreducible experiential locus—whereas SMT's self is a *virtual* representational construct with no one behind it. Metzinger does not leave this convergence to his readers. He takes up the *sākṣin* directly in the 2020 paper and finds in it "something that strongly resembles MPE"—but he reaches that reading, by his own statement, only "on a purely phenomenological reading that abstracts away from all metaphysical and epistemological aspects of the term" (2020, p. 11). The bracketing is where the Map's objection bites, and it bites inside his procedure rather than from outside it: whether the witness is an irreducible experiential locus or one more representational layer *is* the metaphysical question, so setting the metaphysics aside cannot be what settles it. The resemblance he reports is real; the annexation of the witness to the modeling story is not yet earned by it. The Map's dualism reads the transparency/witness structure differently again: the witness is a candidate for the *non-physical coupling point* (Tenets 1 and 3) rather than a further layer of representation. The Map can therefore accept much of SMT's *deconstruction* of the substantival ego—there is no Cartesian thing-self—while resisting its *elimination* of the subject, which is precisely the move contemplative-realist readers make against Metzinger's reading of pure awareness. For the phenomenological groundwork on the minimal, structural for-me-ness this move protects, see [self-and-self-consciousness](/concepts/self-and-self-consciousness/).
 
 ## Further Reading
@@ -71,6 +73,8 @@ The Map treats SMT as a principal *rival*: a representationalist, functionalist 
 - [phenomenal-sorites-problem](/concepts/phenomenal-sorites-problem/) — The parallel determinacy threat to Tenet 4
 - [yogacara-alaya-vijnana-storehouse-consciousness](/concepts/yogacara-alaya-vijnana-storehouse-consciousness/) — Buddhist no-self as SMT's contemplative cousin
 - [personal-identity](/topics/personal-identity/) — What persists if the self is a model
+- [attention-schema-theory](/concepts/attention-schema-theory/) — The same transparent-model strategy applied to attention rather than the self
+- [multiple-drafts-model](/concepts/multiple-drafts-model/) — Dennett's no-audience architecture, of which SMT's no-self is the self-pole analogue
 
 ## References
 
