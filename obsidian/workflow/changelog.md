@@ -5,6 +5,15 @@ ai_modified: '2026-09-21T19:38:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-23T21:15:58+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/attention-schema-theory]]
+- **Original score**: n/a (scripts/curate.py absent; calibration fix from optimistic-2026-09-14-scientific-theories-wing Process Philosopher/Hardline Empiricist conflict)
+- **Word count**: 3484 → 3469 (-15; hard 3500)
+- **Changes**: §Process Philosophy Perspective re-framed from refutation to rival order of explanation — "illuminates why AST's explanation fails" → "offers a rival order of explanation the Map finds congenial without adopting its panexperientialism"; subsection "Why Models Cannot Generate Experience" → "Models as Composed of Experience"; "AST inverts the order of explanation" claim cut, replaced with an explicit note that the Map's own objection (§Why the Map Rejects AST, tracking-is-not-experiencing) needs no Whitehead; dropped "experience pervades reality at every level" and one redundant prehension sentence for length. Prehension paragraph kept. AST→SMT reciprocal installed at 0 words: piped "content in a model" in §The Regress Problem to [[self-model-theory-of-subjectivity]]. Both trees synced.
+- **Engagement with Whitehead/process philosophy**: Mode Three; the section was using a tenet-foreign framework (panexperientialism) as a refutation, now marked as a rival framework rather than an in-framework argument against AST.
+- **Published**: yes
+
 ## 2026-09-23T21:10:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/recurrent-processing-theory]]

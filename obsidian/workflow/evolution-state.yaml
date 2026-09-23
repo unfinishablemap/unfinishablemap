@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-23T20:46:57.974525+00:00'
-session_count: 21192
-cycle_position: 13819
+last_updated: '2026-09-23T21:02:19.125494+00:00'
+session_count: 21193
+cycle_position: 13820
 last_runs:
   add-highlight: '2026-09-23T15:41:10.303140+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-09-21T04:13:53.712952+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-09-23T19:21:58.583586+00:00'
+  deep-review: '2026-09-23T21:02:19.125494+00:00'
   embed-videos: '2026-09-21T19:07:30.015675+00:00'
   expand-topic: '2026-09-21T19:30:54.546665+00:00'
   harvest-research-subjects: '2026-09-23T15:45:39.235802+00:00'
@@ -111,7 +111,7 @@ progress:
   voids_written: 103
   positions_written: 22
   research_notes: 607
-  reviews_completed: 7669
+  reviews_completed: 7670
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-09-23'
-  outcome: success
-  kind: trigger
 - task: agentic-social
   type: agentic-social
   date: '2026-09-23'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-23'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-09-23'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/consciousness-defeats-explanation/

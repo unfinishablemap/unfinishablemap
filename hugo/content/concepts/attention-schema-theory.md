@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-07-18 12:33:23+00:00
+ai_modified: 2026-09-23 21:15:58+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: 2026-06-21 10:04:36+00:00
 last_deep_review: 2026-07-18 12:33:23+00:00
-lastmod: 2026-07-18 12:33:23+00:00
+lastmod: 2026-09-23 21:15:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -103,7 +103,7 @@ On Graziano's view, the hard problem arises from treating consciousness as a mys
 
 ### The Regress Problem
 
-A first objection runs: if consciousness is the brain modeling its attention, what does the modeling? The appearance of experience must appear *to something*; if that is another model, the regress seems infinite. But the bare regress is not decisive, and the Map grants this. Graziano and Frankish reply that attention-schema content need not appear to a separate inner observer—it can be content in a model consumed by control systems, and a representational system need not instantiate what it represents, as a map represents terrain without being mountainous (see [illusionism](/concepts/illusionism/)).
+A first objection runs: if consciousness is the brain modeling its attention, what does the modeling? The appearance of experience must appear *to something*; if that is another model, the regress seems infinite. But the bare regress is not decisive, and the Map grants this. Graziano and Frankish reply that attention-schema content need not appear to a separate inner observer—it can be [content in a model](/concepts/self-model-theory-of-subjectivity/) consumed by control systems, and a representational system need not instantiate what it represents, as a map represents terrain without being mountainous (see [illusionism](/concepts/illusionism/)).
 
 The stronger objection survives that reply. Grant that the schema is information consumed by control systems: why should that machinery yield phenomenal *seeming* rather than merely control-relevant information? Tracking and gating attention is explicable in wholly functional terms; what AST owes is why anything it is like accompanies the tracking. Relocating the demand from "what observes the model" to "what makes its operation felt" does not dissolve it.
 
@@ -153,15 +153,15 @@ AST asks us to trust a theoretical argument while calling the experience of unde
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's process philosophy illuminates why AST's explanation fails. For Whitehead, experience is not something that emerges from—or is modeled by—non-experiential matter. Rather, each "actual occasion" has both physical and experiential aspects—experience pervades reality at every level.
+Alfred North Whitehead's process philosophy offers a rival order of explanation the Map finds congenial without adopting its panexperientialism. For Whitehead, experience does not emerge from—or get modeled by—non-experiential matter; each "actual occasion" has both physical and experiential aspects.
 
-### Why Models Cannot Generate Experience
+### Models as Composed of Experience
 
-On Whitehead's view the schema is itself a pattern of actual occasions, each with its own micro-experience. It doesn't *generate* experience but *consists of* experiences at finer grain; AST inverts the order of explanation, deriving experience from modeling when modeling is composed of experiential moments.
+On Whitehead's view the schema is itself a pattern of actual occasions, each with its own micro-experience. It doesn't *generate* experience but *consists of* experiences at finer grain. Whitehead reverses AST's derivation—a rival framework, whereas the Map's own objection (below) needs no Whitehead.
 
 ### The Prehension Alternative
 
-Where AST has the brain modeling its attention, Whitehead describes each moment of attention as a "prehension"—an actual occasion grasping its causal past—with experiential character intrinsically, not because the brain represents it as experiential. Attention isn't *modeled* as having qualitative properties; it *has* them because experience is fundamental.
+Where AST has the brain modeling its attention, Whitehead describes each moment of attention as a "prehension"—an actual occasion grasping its causal past—with experiential character intrinsically, not because the brain represents it as experiential.
 
 This preserves what AST gets right—attention's central role—while rejecting its eliminativist conclusion: attention matters because attentional moments are themselves experiential, not because the brain models them.
 
