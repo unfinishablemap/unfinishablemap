@@ -1,7 +1,7 @@
 ---
 ai_contribution: 15
 ai_generated_date: null
-ai_modified: 2026-09-05 10:28:06+00:00
+ai_modified: 2026-09-23 17:46:23+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5
 author: Andy Southgate
 concepts:
@@ -19,7 +19,7 @@ description: Five commitments that bound every article on The Unfinishable Map�
 draft: false
 human_modified: 2026-01-02 14:18:31+00:00
 last_curated: null
-lastmod: 2026-09-05 10:28:06+00:00
+lastmod: 2026-09-23 17:46:23+00:00
 modified: *id001
 related_articles:
 - '[[cognitive-science-dualism-2026-01-15]]'
@@ -164,6 +164,7 @@ The columns are the live sub-readings the corpus currently uses. The rows are th
 | Machine consciousness — report-grounded artificial consciousness ([machine-question](/apex/machine-question/), [what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/)) | Required | Required | Not invoked | Optional | Optional | Not invoked | Defensive |
 | Machine consciousness — bidirectionally coupled artificial consciousness ([machine-consciousness](/topics/machine-consciousness/), the operative negative verdict) | Required | Required | Optional | Required | Required | Not invoked | Defensive |
 | Animal consciousness ([animal-consciousness](/topics/animal-consciousness/)) | Required | Not invoked | Not invoked | Not invoked | Not invoked | Not invoked | Optional |
+| Competency floor — interface location ([competency-without-felt-experience](/apex/competency-without-felt-experience/); its bare-phenomenality question takes the Animal row) | Required | Required | Not invoked | Required | Not invoked | Not invoked | Defensive |
 | Conceivability arguments / qualia cluster ([qualia](/concepts/qualia/), [philosophical-zombies](/concepts/philosophical-zombies/), [knowledge-argument](/concepts/knowledge-argument/), [explanatory-gap](/concepts/explanatory-gap/), [inverted-qualia](/concepts/inverted-qualia/)) | Required (as conclusion, not premise) | Not invoked | Not invoked | Not invoked | Not invoked | Not invoked | Defensive |
 | Voids ([taxonomy-of-voids](/apex/taxonomy-of-voids/), catalogue at large) | Required | Optional (cluster-specific) | Optional (self-opacity / unobservable-self subset only) | Optional | Optional | Required for branch-indexical voids only | Methodological |
 | Memory hierarchy ([memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/), [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/)) | Required | Required | Optional | Required | Optional | Optional | Required |

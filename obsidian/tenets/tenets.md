@@ -3,7 +3,7 @@ title: Tenets
 created: 2026-01-02
 modified: 2026-01-02
 human_modified: 2026-01-02T14:18:31+00:00
-ai_modified: 2026-09-05T10:28:06+00:00
+ai_modified: 2026-09-23T17:46:23+00:00
 draft: false
 description: "Five commitments that bound every article on The Unfinishable Map—chosen starting points, not proofs, exploring consciousness and the limits of knowability."
 topics: []
@@ -160,6 +160,7 @@ The columns are the live sub-readings the corpus currently uses. The rows are th
 | Machine consciousness — report-grounded artificial consciousness ([[apex/machine-question]], [[apex/what-it-might-be-like-to-be-an-ai]]) | Required | Required | Not invoked | Optional | Optional | Not invoked | Defensive |
 | Machine consciousness — bidirectionally coupled artificial consciousness ([[topics/machine-consciousness]], the operative negative verdict) | Required | Required | Optional | Required | Required | Not invoked | Defensive |
 | Animal consciousness ([[topics/animal-consciousness]]) | Required | Not invoked | Not invoked | Not invoked | Not invoked | Not invoked | Optional |
+| Competency floor — interface location ([[apex/competency-without-felt-experience]]; its bare-phenomenality question takes the Animal row) | Required | Required | Not invoked | Required | Not invoked | Not invoked | Defensive |
 | Conceivability arguments / qualia cluster ([[concepts/qualia]], [[concepts/philosophical-zombies]], [[concepts/knowledge-argument]], [[concepts/explanatory-gap]], [[concepts/inverted-qualia]]) | Required (as conclusion, not premise) | Not invoked | Not invoked | Not invoked | Not invoked | Not invoked | Defensive |
 | Voids ([[apex/taxonomy-of-voids]], catalogue at large) | Required | Optional (cluster-specific) | Optional (self-opacity / unobservable-self subset only) | Optional | Optional | Required for branch-indexical voids only | Methodological |
 | Memory hierarchy ([[memory-channel-interface-evidence]], [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]) | Required | Required | Optional | Required | Optional | Optional | Required |
