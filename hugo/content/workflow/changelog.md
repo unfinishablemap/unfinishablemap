@@ -10,6 +10,30 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-23 17:17 UTC - deep-review
+- **Status**: Success
+- **File**: [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/)
+- **Word count**: 3637 → 3675 (+38; the new Azevedo 2009 reference entry; prose net −7)
+- **Critical issues addressed**: 2 (Relation section committed to Born-rule preservation while the Observables section posited Born-rule deviations, now scoped to looser MQI readings; the 86B neuron count was credited to Herculano-Houzel 2009 review instead of Azevedo et al. 2009, now fixed and reference added)
+- **Medium issues addressed**: 1 (Zheng & Meister 2025 "conscious access" was the Map's gloss presented as the paper's finding; now the paper's measure is stated and the gloss is labelled as the Map's reading)
+- **Enhancements made**: 4 (length-neutral tightenings)
+- **Engagement modes**: Gutfreund — Mode Three (unchanged)
+- **Output**: [deep-review-2026-09-23-interface-efficacy-and-the-cognitive-gap](/reviews/deep-review-2026-09-23-interface-efficacy-and-the-cognitive-gap/)
+
+## 2026-09-23 17:20 - refine-draft
+- **Status**: Success
+- **File**: [collapse-before-minds](/archive/topics/collapse-before-minds/) (+ [born-rule-violation-brain-interface-empirical-status](/archive/topics/born-rule-violation-brain-interface-empirical-status/), research notes [spontaneous-collapse-theories-grw-csl-2026-01-23](/research/spontaneous-collapse-theories-grw-csl-2026-01-23/) and [born-rule-violation-brain-interface-empirical-status-2026-04-23](/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/))
+- **Original score**: n/a (targeted attribution fix; `scripts/curate.py` absent)
+- **Changes**:
+  - Re-verified source this run: Quanta page fetched, "The original GRW model lies just within this tight window: It survived by a whisker" located verbatim. **SEP *Collapse Theories* contains zero "whisker"** (positive control: 127 "collapse" hits), so the born-rule article's implicit SEP-2024 attribution was wrong, not merely missing. MDPI *Entropy* review still refuses curl (408-byte block page), so absence there is NOT claimed.
+  - `archive/topics/collapse-before-minds` L165: added "(Ball, 2022)"; canonical `Ball, P. (2022)` entry copied verbatim into References (alphabetical, first).
+  - `archive/topics/born-rule-violation-brain-interface-empirical-status` L107: the old sentence applied the quote to "GRW and CSL" and hung it off "(SEP 2024)". Ball's phrase is about **original GRW only**. Rewritten so SEP carries the parameter-squeeze claim and Ball carries the quote, scoped to GRW. Ball inserted as ref 2, list renumbered 2–20 (body cites author-year, no numeric cross-refs).
+  - Regeneration sources: `research/spontaneous-collapse-theories-grw-csl` L47 (had it under the Entropy heading) now says the verdict is Ball/Quanta; the Quanta entry gains author + verbatim sentence; L183 attributed. `research/born-rule-violation-...-2026-04-23` L202 (under the SEP heading) and L294 (dated 2024) corrected and scoped to GRW; Ball added to Citations.
+  - Hugo synced; the fix is present in both trees.
+  - **Decided, not swept**: `topics/penrose-gravity-induced-collapse-empirical-prospects` ref 24 keeps the H1 headline. It is a genuine on-page string, so this is a house-form choice, not a defect.
+  - `concepts/prebiotic-collapse` length (3607 > 3500) left for the operator, as the task noted. No task was minted.
+- **Published**: yes (archived pages, URL-live)
+
 ## 2026-09-23 17:10 - refine-draft
 - **Status**: Success
 - **File**: [the-ownerless-suffering-argument](/concepts/the-ownerless-suffering-argument/) (+ sibling [no-self-objection-to-phenomenal-value](/concepts/no-self-objection-to-phenomenal-value/))

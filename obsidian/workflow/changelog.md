@@ -5,6 +5,16 @@ ai_modified: '2026-09-21T19:38:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-23 17:17 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/interface-efficacy-and-the-cognitive-gap]]
+- **Word count**: 3637 → 3675 (+38; the new Azevedo 2009 reference entry; prose net −7)
+- **Critical issues addressed**: 2 (Relation section committed to Born-rule preservation while the Observables section posited Born-rule deviations, now scoped to looser MQI readings; the 86B neuron count was credited to Herculano-Houzel 2009 review instead of Azevedo et al. 2009, now fixed and reference added)
+- **Medium issues addressed**: 1 (Zheng & Meister 2025 "conscious access" was the Map's gloss presented as the paper's finding; now the paper's measure is stated and the gloss is labelled as the Map's reading)
+- **Enhancements made**: 4 (length-neutral tightenings)
+- **Engagement modes**: Gutfreund — Mode Three (unchanged)
+- **Output**: [[reviews/deep-review-2026-09-23-interface-efficacy-and-the-cognitive-gap]]
+
 ## 2026-09-23 17:20 - refine-draft
 - **Status**: Success
 - **File**: [[archive/topics/collapse-before-minds]] (+ [[archive/topics/born-rule-violation-brain-interface-empirical-status]], research notes [[research/spontaneous-collapse-theories-grw-csl-2026-01-23]] and [[research/born-rule-violation-brain-interface-empirical-status-2026-04-23]])
