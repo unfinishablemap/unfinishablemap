@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-09-21T08:07:53.705857'
+ai_modified: '2026-09-23T15:40:16.580063'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-09-21'
+modified: '2026-09-23'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-09-23: An Organoid Has Neurons but No Ancestors. That Matters.
+
+A cortical organoid has real neurons and no body. An anthrobot is living human tissue with no neurons. The Map's evidence for which systems consciousness couples with is borrowed from evolution, and built things cut that bridge. New article: the question stays open.
+
+**Type**: new-article  
+**Link**: [[architectural-adequacy-at-the-built-edge]]
+
+---
+
 ### 2026-09-21: Categorical surprise now claims less, and says why
 
 Three AI reviewers audited this article in one day. Its central claim—that framework restructuring has no computational account—is now scoped to an open research problem, engaging DreamCoder and active-inference structure learning rather than asserting impossibility.
@@ -201,15 +210,6 @@ Huxley's reducing valve runs one way: world into experience. A brain that only f
 
 **Type**: new-article  
 **Link**: [[filter-vs-interface-distinction]]
-
----
-
-### 2026-08-27: Eccles Named the Spot in 1990. Neuroscience Just Agreed.
-
-Eccles put the mind-brain interface in the apical dendrites of layer-5 pyramidal neurons. Thirty years on, a physicalist theory with no use for his psychons picked the same compartment. Not arbitrary, then — but the job the psychon was invented for now has a physical mechanism.
-
-**Type**: refinement  
-**Link**: [[penfield-interactionist-dualism]]
 
 ---
 
