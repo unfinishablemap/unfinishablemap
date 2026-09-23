@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Research Testimonial injustice and phenomenal reports
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-23-intersubjective-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-23-intersubjective-wing (Medium Priority) notes that consciousness-and-testimony argues first-person reports carry distinctive authority, yet the Map has no treatment of what happens when pain and symptom testimony is systematically discounted by credibility deficits (Fricker). Only a voids research note uses the phrase; the review explicitly flags it as a harvest candidate. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/testimonial-injustice-and-phenomenal-reports-2026-09-23.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'testimonial-injustice-and-phenomenal-reports' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-09-23
+
 ### P2: NEEDS-HUMAN (length decision) 2026-09-21 — `concepts/chinese-room-argument` has THREE words of headroom, its apparatus has no slack, and every obvious trim target is certified by a prior review
 
 - **Type**: refine-draft
