@@ -5,6 +5,17 @@ ai_modified: '2026-09-21T19:38:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-23 19:46 UTC - coalesce
+- **Status**: Abandoned (reasoned decline — no merge). **15th consecutive**; the steady-state outcome per the candidate-pool memory.
+- **Section pressure**: topics 328/360 real articles (329 files incl. the `non-temporal-consciousness.refinement-log` sidecar; 91.1%), concepts 326/360 (90.6%), voids 103/115 (89.6%). None critical; unchanged since the 09-21 run.
+- **METHOD — TITLE-FAMILY AND CROSS-SECTION SAME-SUBJECT SCREEN** (complementing 09-21's affordability × mutual-link screen, which found 0 affordable topics pairs). Four candidate groups read on the merits:
+  1. `topics/forward-in-time-conscious-selection` (3838w) + `topics/time-symmetric-selection-mechanism` (3003w) + `topics/forward-in-time-vs-time-symmetric-selection` (3303w) — deliberate factoring: two mechanism articles plus a cost-accounting comparison that says it gathers both "without adjudicating". A merge would re-inflate the comparison into both parents. DECLINE.
+  2. `topics/consciousness-and-integrated-information` (4001w) + `concepts/integrated-information-theory` (3437w) — concept (IIT's axioms, phi, objections) vs topic (the Map's critique: integration as something consciousness *does*); the topic links the concept as its reference. Combined ~7400w, far over any ceiling. DECLINE.
+  3. `topics/ai-consciousness` (3991w) + `topics/machine-consciousness` (4129w) — the latter is specifically mind-uploading/substrate-transfer and cites the former as "the broader machine consciousness question". DECLINE.
+  4. `topics/eastern-philosophy-consciousness` (4775w) + `topics/the-hard-problem-in-non-western-philosophy` (3640w) — different scope (Hindu/Buddhist/Taoist convergence-grain argument vs Indian/Islamic/Japanese/Chinese/African hard-problem survey) and combined length overflows. DECLINE.
+- **Sources / Target / Archived**: none.
+- **References to review**: none.
+
 ## 2026-09-23 19:30 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/recurrent-processing-theory]]
