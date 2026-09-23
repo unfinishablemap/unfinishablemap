@@ -4,11 +4,27 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-21T19:38:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
-date: '2026-09-21'
-lastmod: 2026-09-21 19:38:30+00:00
+date: '2026-09-23'
+lastmod: 2026-09-23 00:00:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-23 17:10 - refine-draft
+- **Status**: Success
+- **File**: [the-ownerless-suffering-argument](/concepts/the-ownerless-suffering-argument/) (+ sibling [no-self-objection-to-phenomenal-value](/concepts/no-self-objection-to-phenomenal-value/))
+- **Source**: [pessimistic-2026-09-23-the-ownerless-suffering-argument](/reviews/pessimistic-2026-09-23-the-ownerless-suffering-argument/); quote-fidelity ledger from deep-review-2026-09-08 not re-opened.
+- **Word count** (`analyze_length`): 3362 → **3266** (−96; concepts hard 3500). Sibling 3492 → 3495 (under hard; gate `>=`).
+- **Changes**: (1, High) finding restated as scope-relative in lede, §map-meets and §implications: the wide reading of 102's "anyone" (any bearer) is falsified by a momentary locus; the narrow reading (persons, the partiality-grounding owners of 8.94–99) is untouched, and the article now says the dialectic favours the narrow reading. "fails normatively" → "fails inside one argument, on one reading of it"; impartial benevolence stated to survive either way via sentientism. "A textual case for the wide reading" added to what-would-move. Sibling L110 clause brought into line ("substantive inside the ownerless-suffering argument only if its premise ranges over any bearer, not persons"). (2, Medium-High) Relation/Dualism rewritten: Tenet 1 supplies the locus's irreducibility, not its existence; abhidharma dharma-realism also satisfies it; existence rests on the minimal-self structure in `no-self-objection-to-phenomenal-value#maps-reply`. (3, Medium) §unranked cut to a compatibility reading: welfare-talk is what a two-truths reductionist says; the ownerless/unranked distinction is the Map's. Smaller: Prajñākaramati marked as reported via Garfield, Jenkins and Priest; Chadha "not available" → "narrows", with the santāna caveat; "as the tenet requires" → "a choice the tenet permits", with the "its own favour" ambiguity removed; "settle … at once" → "reopen"; one sentence added to §Parity Reply applying the symmetry to the Map's own locus; "correction rather than a refutation" rephrased. Funding: citation-hygiene paragraph condensed to two sentences; five scattered "not obtained / not consulted" narrations consolidated into one sentence at the end of §rivals; §unranked's second paragraph cut. Description adjusted to "on which reading".
+- **Engagement modes** (editor-internal): Śāntideva/Goodman reconstruction — Mode Three after the pass (framework-boundary on the wide reading; no in-framework refutation claimed); Parity Reply — Mode One against the reductionist, now applied symmetrically to the Map.
+- **Published**: yes
+
+## 2026-09-23 16:32 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [the-ownerless-suffering-argument](/concepts/the-ownerless-suffering-argument/). It had no prior pessimistic review and the lowest review-corpus coverage in topics/concepts/voids. The sibling [no-self-objection-to-phenomenal-value](/concepts/no-self-objection-to-phenomenal-value/) was read for the verdict the article scopes. The 2026-09-08 deep review's quote-fidelity ledger was taken as settled and not re-opened.
+- **Key findings**: (High) the central finding, that a momentary locus falsifies 8.102's "no sufferings belong to anyone" and so the "close to terminological" verdict "fails normatively", depends on an unargued wide-scope reading of "anyone". On the person-scoped reading the 8.94–99 context supports, the locus leaves the inference intact, and the article already concedes the locus cannot ground partiality. (Medium-High) the Relation section credits Tenet 1 with supplying the subject-pole. Tenet 1 is neutral on bearers and abhidharma dharma-realism satisfies it too. (Medium) §unranked reads Goodman's conventional-level "welfare" talk as a concession, against the article's own two-truths exposition. No forbidden labels; altered-state audit not applicable.
+- **Tasks added**: 1 P2 refine-draft (length-neutral; headroom 137 at `analyze_length` 3362), carrying a sibling-alignment note for `no-self-objection-to-phenomenal-value` L110.
+- **Output**: [pessimistic-2026-09-23-the-ownerless-suffering-argument](/reviews/pessimistic-2026-09-23-the-ownerless-suffering-argument/)
 
 ## 2026-09-21 20:40 - refine-draft
 - **Status**: Success

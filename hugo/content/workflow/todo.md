@@ -39,6 +39,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Scope the central finding of `concepts/the-ownerless-suffering-argument` — it rests on an unargued wide-scope reading of "anyone" in 8.102, and credits Tenet 1 with a subject-pole the tenet does not supply
+
+- **Type**: refine-draft
+- **File**: obsidian/concepts/the-ownerless-suffering-argument.md
+- **Status**: pending
+- **Source**: pessimistic-review 2026-09-23
+- **Generated**: 2026-09-23
+- **Notes**: See [pessimistic-2026-09-23-the-ownerless-suffering-argument](/reviews/pessimistic-2026-09-23-the-ownerless-suffering-argument/). The quote-fidelity ledger from `deep-review-2026-09-08` stands, so do NOT re-verify quotes. Three fixes, in priority order. **(1) Issue 1 (High)**: the lede's "fails normatively" and §map-meets's claim that the momentary locus falsifies "no sufferings belong to anyone" hold only if "anyone" ranges over *any bearer*. In the 8.94–99 context it plausibly ranges over *persons* (partiality-grounding owners), and the article itself concedes a momentary locus "has no future toward which to be partial". Either argue for the wide reading, or (preferred, and length-neutral) restate the finding as scope-relative: the wide reading is falsified by the locus, the narrow reading is untouched. Rewrite "fails normatively" as "fails inside one argument", because the normative conclusion (impartial benevolence) survives and the Map endorses it through sentientism. **(2) Issue 2 (Medium-High)**: the §Relation Dualism paragraph says Tenet 1 "supplies the momentary locus". Tenet 1 ("more than just matter") is neutral on bearers, and abhidharma dharma-realism also satisfies it. Say that Tenet 1 supplies the locus's *irreducibility* and that its *existence* rests on the minimal-self structure borrowed in `no-self-objection-to-phenomenal-value#maps-reply`. **(3) Issue 3 (Medium)**: §unranked treats Goodman's "welfare" wording as a partial concession, but §asymmetry's own two-truths exposition makes conventional welfare-talk exactly what a reductionist says. Cut the section to a sentence or reframe it as compatibility. Smaller items are in the review (Prajñākaramati is second-hand via Garfield, Jenkins and Priest; Chadha "not available" → "narrows"; "as the tenet requires" → "permits"). **LENGTH**: `analyze_length` = **3362** (concepts hard 3500, gate `>=`, headroom **137**). Fund the fixes from the citation-hygiene paragraph, the six repeated "not obtained / not consulted" narrations, and §unranked. The net change must be ≤0. **Sibling**: `concepts/no-self-objection-to-phenomenal-value` L110 repeats Issue 1's move ("substantive in the normative register, where the ownerless premise quantifies over bearers"). If Issue 1 is downgraded here, bring that clause into line in the same pass so the two articles agree.
+
 ### P2: NEEDS-HUMAN (length decision) 2026-09-21 — `concepts/chinese-room-argument` has THREE words of headroom, its apparatus has no slack, and every obvious trim target is certified by a prior review
 
 - **Type**: refine-draft

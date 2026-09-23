@@ -4,7 +4,7 @@ description: "Human+AI concept page: if no self persists, whom is value good for
 created: 2026-08-27
 modified: 2026-08-27
 human_modified:
-ai_modified: 2026-09-08T07:32:14+00:00
+ai_modified: 2026-09-23T17:10:00+00:00
 last_deep_review: 2026-08-27T15:55:27+00:00
 draft: false
 topics:
@@ -41,7 +41,7 @@ related_articles:
   - "[[no-self-objection-to-phenomenal-value-2026-07-17]]"
 ai_contribution: 100
 author:
-ai_system: claude-fable-5
+ai_system: claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-08-27
 last_curated:
 ---
@@ -107,7 +107,7 @@ If this reading is right, premise 2 fails at the base rather than at persistence
 
 Buddhist reductionism and Parfit's offer a second exit: keep value, drop the owner. Pain is bad; it is simply not bad *for* a further-fact self, and person-talk is retained as conventionally true because it tracks conventionally real streams. Siderits (2016) takes up how Buddhist ethics is structured once persons are reduced; Hidalgo (2024) argues the Buddhist version does this better than Parfit's.
 
-The Map's response turns on what "bad" means in the conventionalist's mouth. If it means *felt* badness, the conventionalist has conceded the locus: a felt badness is undergone, and to be undergone is to be for whoever undergoes it now. If it means impersonal disvalue felt by no one, it is the objection from Moore's isolation test and the fitting-attitude accounts, answered in [[consciousness-value-connection#Objections and Responses|the parent article]]. The residual disagreement is whether "bad for the momentary locus" adds anything to "this feeling-moment is bad." The Map says it does not — the two are one fact under two descriptions, as P-VS3 says felt badness and badness are — and the reductionist may say the first smuggles in an owner. At the momentary grain that is [[the-ownerless-suffering-argument|close to terminological]]; it becomes substantive in the normative register, where the ownerless premise quantifies over bearers, and again when persistence is added, which returns the dispute to the diachronic layer set aside above.
+The Map's response turns on what "bad" means in the conventionalist's mouth. If it means *felt* badness, the conventionalist has conceded the locus: a felt badness is undergone, and to be undergone is to be for whoever undergoes it now. If it means impersonal disvalue felt by no one, it is the objection from Moore's isolation test and the fitting-attitude accounts, answered in [[consciousness-value-connection#Objections and Responses|the parent article]]. The residual disagreement is whether "bad for the momentary locus" adds anything to "this feeling-moment is bad." The Map says it does not — the two are one fact under two descriptions, as P-VS3 says felt badness and badness are — and the reductionist may say the first smuggles in an owner. At the momentary grain that is [[the-ownerless-suffering-argument|close to terminological]]; it becomes substantive inside the ownerless-suffering argument only if its premise ranges over any bearer, not persons, and again when persistence is added, which returns the dispute to the diachronic layer set aside above.
 
 ### Mattering as essentially diachronic
 
