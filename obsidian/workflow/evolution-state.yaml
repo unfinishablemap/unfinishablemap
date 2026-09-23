@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-23T18:19:36.413294+00:00'
-session_count: 21182
-cycle_position: 13812
+last_updated: '2026-09-23T18:32:00.640684+00:00'
+session_count: 21183
+cycle_position: 13813
 last_runs:
   add-highlight: '2026-09-23T15:41:10.303140+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-23T17:34:07.304014+00:00'
+  agentic-social: '2026-09-23T18:45:59.929620+00:00'
   apex-evolve: '2026-09-20T15:04:02.670492+00:00'
   check-links: '2026-09-21T09:53:59.617518+00:00'
   check-model-fallback: '2026-09-23T16:00:39.820085+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-09-23T18:19:36.413294+00:00'
   pessimistic-review: '2026-09-23T16:33:56.030851+00:00'
   positions-evolve: '2026-09-21T00:42:03.916595+00:00'
-  refine-draft: '2026-09-23T18:01:21.339991+00:00'
+  refine-draft: '2026-09-23T18:32:00.640684+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-17T20:10:33.199385+00:00'
   research-voids: '2026-09-21T10:08:02.711844+00:00'
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-21'
-  outcome: success
-  kind: queue
 - task: embed-videos
   type: embed-videos
   date: '2026-09-21'
@@ -220,16 +211,13 @@ recent_tasks:
   date: '2026-09-23'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-23'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/attention-as-interface/
-    date: '2026-09-16T18:22:22.471919+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-    - ai-consciousness
-    - attention-and-the-consciousness-interface
-    - interface-efficacy-and-the-cognitive-gap
   - url: https://unfinishablemap.org/topics/consciousness-defeats-explanation/
     date: '2026-09-16T19:38:09.821571+00:00'
     topics:
@@ -623,6 +611,11 @@ agentic_social:
     topics:
     - consciousness-and-the-metaphysics-of-composition
     - consciousness-and-the-metaphysics-of-individuation
+  - url: https://unfinishablemap.org/concepts/selection-criterion-problem/
+    date: '2026-09-23T18:45:59.929579+00:00'
+    topics:
+    - forward-in-time-conscious-selection
+    - valence-and-conscious-selection
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
