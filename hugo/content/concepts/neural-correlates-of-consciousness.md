@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-30 15:10:22+00:00
+ai_modified: 2026-09-23 20:46:28+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 22:17:26+00:00
-lastmod: 2026-07-30 15:10:22+00:00
+lastmod: 2026-09-23 20:46:28+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -60,7 +60,7 @@ Koch defines NCC as "the minimal neuronal mechanisms jointly sufficient for any 
 
 ## The Posterior Cortical Hot Zone
 
-One widely reported NCC finding is that conscious perception correlates primarily with activity in posterior cortical regions rather than frontal "executive" regions—though the interpretation remains contested. Lesion studies show damage to V4 causes complete loss of color experience (achromatopsia), while stimulation of posterior cortex evokes experiences directly. No-report paradigms suggest that consciousness-related activity localises to posterior regions; frontal activation may reflect *reporting* consciousness rather than having it. GNWT proponents (notably Dehaene and Changeux) dispute this reading, arguing the no-report paradigm inadequately distinguishes consciousness from conscious access.
+One widely reported NCC finding is that conscious perception correlates primarily with activity in posterior cortical regions rather than frontal "executive" regions—though the interpretation remains contested. Lesion studies show damage to V4 causes complete loss of color experience (achromatopsia), while stimulation of posterior cortex evokes experiences directly. No-report paradigms suggest that consciousness-related activity localises to posterior regions; frontal activation may reflect *reporting* consciousness rather than having it. [GNWT proponents](/concepts/global-workspace-theory/) (notably Dehaene and Changeux) dispute this reading, arguing the no-report paradigm inadequately distinguishes consciousness from conscious access. The wider theory landscape splits similarly: [higher-order-theories](/concepts/higher-order-theories/) look prefrontal, [attention-schema-theory](/concepts/attention-schema-theory/) to an attention model in temporoparietal cortex, while [recurrent-processing-theory](/concepts/recurrent-processing-theory/) and [attended-intermediate-representations-theory](/concepts/attended-intermediate-representations-theory/) keep the correlate in sensory cortex.
 
 ## The COGITATE Experiment
 

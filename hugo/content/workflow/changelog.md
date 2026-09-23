@@ -10,6 +10,23 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-23T20:46:28+00:00 - refine-draft
+- **Status**: Success
+- **File**: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
+- **Original score**: n/a (targeted integration fix from reviews/optimistic-2026-09-14-scientific-theories-wing.md)
+- **Changes**: FIX A: piped the existing Hot Zone phrase to `[[global-workspace-theory|GNWT proponents]]` (0 words). FIX B: one landscape sentence in §The Posterior Cortical Hot Zone linking higher-order-theories (prefrontal), attention-schema-theory (attention model in temporoparietal cortex, per Wilterson et al. 2021 on its own page, not frontal) and re-linking RPT/AIR as sensory-cortex theories. Body 3392 -> 3419 words (hard 3500). RPT's relabelled Further Reading entry left untouched.
+- **Published**: yes
+
+## 2026-09-23 20:31 UTC - refine-draft
+- **Status**: Success
+- **File**: [self-model-theory-of-subjectivity](/concepts/self-model-theory-of-subjectivity/)
+- **Original score**: 7/10 (sound exposition; isolated from its wing — body in/out-degree 0 among the eleven scientific-theories wing articles)
+- **Review file**: reviews/optimistic-2026-09-14-scientific-theories-wing.md
+- **Changes**: Added a 112-word situating paragraph after Relation-to-Site-Perspective move 2 placing SMT beside [attention-schema-theory](/concepts/attention-schema-theory/) (transparent model of attention → appearance of awareness; model of self → appearance of a subject; same Map objection, AST's "renames the problem rather than solving it") and [multiple-drafts-model](/concepts/multiple-drafts-model/) (SMT's "no one is home" as MDM's no-audience thesis applied to the self-pole; same accept-the-science/resist-elimination response). Both added to Further Reading. Pre-edit probes `-iF` for `attention-schema`/`multiple-drafts` in SMT = 0. Obsidian + Hugo both synced; Hugo shows 2 links each.
+- **Not done (by design)**: AST reciprocal — AST sits at 3484/3500 hard; handled as a zero-word piped link in the separate AST process-philosophy task.
+- **Engagement classification**: Graziano/Dennett references are situating, not new replies; the carried-over objection is Mode Two (appearance-relocation helps itself to phenomenality) as already stated in AST and SMT move 2.
+- **Published**: yes
+
 ## 2026-09-23 19:46 UTC - coalesce
 - **Status**: Abandoned (reasoned decline — no merge). **15th consecutive**; the steady-state outcome per the candidate-pool memory.
 - **Section pressure**: topics 328/360 real articles (329 files incl. the `non-temporal-consciousness.refinement-log` sidecar; 91.1%), concepts 326/360 (90.6%), voids 103/115 (89.6%). None critical; unchanged since the 09-21 run.

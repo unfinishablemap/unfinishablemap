@@ -5,6 +5,13 @@ ai_modified: '2026-09-21T19:38:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-23T20:46:28+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/neural-correlates-of-consciousness]]
+- **Original score**: n/a (targeted integration fix from reviews/optimistic-2026-09-14-scientific-theories-wing.md)
+- **Changes**: FIX A: piped the existing Hot Zone phrase to `[[global-workspace-theory|GNWT proponents]]` (0 words). FIX B: one landscape sentence in §The Posterior Cortical Hot Zone linking higher-order-theories (prefrontal), attention-schema-theory (attention model in temporoparietal cortex, per Wilterson et al. 2021 on its own page, not frontal) and re-linking RPT/AIR as sensory-cortex theories. Body 3392 -> 3419 words (hard 3500). RPT's relabelled Further Reading entry left untouched.
+- **Published**: yes
+
 ## 2026-09-23 20:31 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/self-model-theory-of-subjectivity]]

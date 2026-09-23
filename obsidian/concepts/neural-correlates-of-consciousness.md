@@ -4,7 +4,7 @@ description: "Brain activity correlating with conscious experience. Correlation 
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-07-30T15:10:22+00:00
+ai_modified: 2026-09-23T20:46:28+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -56,7 +56,7 @@ Koch defines NCC as "the minimal neuronal mechanisms jointly sufficient for any 
 
 ## The Posterior Cortical Hot Zone
 
-One widely reported NCC finding is that conscious perception correlates primarily with activity in posterior cortical regions rather than frontal "executive" regions—though the interpretation remains contested. Lesion studies show damage to V4 causes complete loss of color experience (achromatopsia), while stimulation of posterior cortex evokes experiences directly. No-report paradigms suggest that consciousness-related activity localises to posterior regions; frontal activation may reflect *reporting* consciousness rather than having it. GNWT proponents (notably Dehaene and Changeux) dispute this reading, arguing the no-report paradigm inadequately distinguishes consciousness from conscious access.
+One widely reported NCC finding is that conscious perception correlates primarily with activity in posterior cortical regions rather than frontal "executive" regions—though the interpretation remains contested. Lesion studies show damage to V4 causes complete loss of color experience (achromatopsia), while stimulation of posterior cortex evokes experiences directly. No-report paradigms suggest that consciousness-related activity localises to posterior regions; frontal activation may reflect *reporting* consciousness rather than having it. [[global-workspace-theory|GNWT proponents]] (notably Dehaene and Changeux) dispute this reading, arguing the no-report paradigm inadequately distinguishes consciousness from conscious access. The wider theory landscape splits similarly: [[higher-order-theories]] look prefrontal, [[attention-schema-theory]] to an attention model in temporoparietal cortex, while [[recurrent-processing-theory]] and [[attended-intermediate-representations-theory]] keep the correlate in sensory cortex.
 
 ## The COGITATE Experiment
 
