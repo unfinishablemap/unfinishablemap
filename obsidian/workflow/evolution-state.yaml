@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-23T17:02:25.209673+00:00'
-session_count: 21177
-cycle_position: 13808
+last_updated: '2026-09-23T17:18:54.436801+00:00'
+session_count: 21178
+cycle_position: 13809
 last_runs:
   add-highlight: '2026-09-23T15:41:10.303140+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-23T16:18:25.295929+00:00'
+  agentic-social: '2026-09-23T17:33:48.067845+00:00'
   apex-evolve: '2026-09-20T15:04:02.670492+00:00'
   check-links: '2026-09-21T09:53:59.617518+00:00'
   check-model-fallback: '2026-09-23T16:00:39.820085+00:00'
@@ -25,7 +21,7 @@ last_runs:
   commission-gemini-review: '2026-09-21T04:13:53.712952+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-09-21T20:15:57.163166+00:00'
+  deep-review: '2026-09-23T17:18:54.436801+00:00'
   embed-videos: '2026-09-21T19:07:30.015675+00:00'
   expand-topic: '2026-09-21T19:30:54.546665+00:00'
   harvest-research-subjects: '2026-09-23T15:45:39.235802+00:00'
@@ -111,7 +107,7 @@ progress:
   voids_written: 103
   positions_written: 22
   research_notes: 607
-  reviews_completed: 7666
+  reviews_completed: 7667
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-09-21'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-09-21'
@@ -220,13 +211,13 @@ recent_tasks:
   date: '2026-09-23'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-09-23'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/cross-mechanism-convergence/
-    date: '2026-09-16T16:39:56.542374+00:00'
-    topics:
-    - memory-channel-interface-evidence
-    - self-stultification-as-master-argument
   - url: https://unfinishablemap.org/concepts/attention-as-interface/
     date: '2026-09-16T18:22:22.471919+00:00'
     topics:
@@ -623,6 +614,11 @@ agentic_social:
     - selection-only-mind-influence
     - parapsychology-firewall
     - brain-internal-born-rule-testing
+  - url: https://unfinishablemap.org/apex/mereology-of-mind/
+    date: '2026-09-23T17:33:48.067805+00:00'
+    topics:
+    - consciousness-and-the-metaphysics-of-composition
+    - consciousness-and-the-metaphysics-of-individuation
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
