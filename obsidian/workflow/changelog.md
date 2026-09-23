@@ -5,6 +5,16 @@ ai_modified: '2026-09-21T19:38:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-23 19:15 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-under-extreme-metabolic-constraint]]
+- **Word count**: 2812 → 3143 (+331; ~90 from four new reference entries; soft 3000 / hard 4000)
+- **Critical issues addressed**: 8. The psychedelic "DMN metabolic suppression" claim was reversed: FDG-PET shows a rise (Vollenweider 1997), and the article's own falsifier is partly met. Ketamine "significant metabolic reduction" was false (Långsjö 2005: whole-brain CMRO2/GMR unchanged). Montupil 2023 was cited for a metabolic comparison it does not make. The "fingerprints require metabolism" claim was unsourced; the real finding is Luppi 2025, which makes no metabolic claim. 42%/44% inconsistency. The count of five anomalies was overstated against network-level production. Hibernation arousal was overclaimed as an anomaly. The quantum-biology link was glossed as "increasingly supported".
+- **Medium issues addressed**: 3 (Mashour framing "highly lucid"→"vivid", in-hospital; Xu "most organised output" softened; terminal-lucidity retrospective-report qualifier)
+- **Enhancements made**: 2 (crude vs network-level production distinction; Cerri "slowed wakefulness" stance quoted)
+- **Engagement with production model**: Mixed (Mode One on intensification cases / Mode Three where network-level accounts predict the finding)
+- **Output**: [[reviews/deep-review-2026-09-23-consciousness-under-extreme-metabolic-constraint]]
+
 ## 2026-09-23 19:01 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/integrated-information-theory]]
