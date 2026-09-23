@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-23T23:17:40+00:00'
+ai_modified: '2026-09-23T23:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-23T23:55:00+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 57 (delta sweep of every article edited since check 137, plus tenets.md; 14 carried loci probed)
+- **Errors**: 4 (3 carried from check 137 and still live; 1 new locus of the booked Tenet-5 tiebreaker family)
+- **Warnings**: 34 new + 9 carried
+- **Key finding**: None of check 137's four priority items was repaired or queued in 3 days, because a reports-only list gets actioned only if someone mints from it. Across the delta, the alignment section outruns the article's own body in two recurring families: Tenet 3 held as actual or epiphenomenalism reported refuted (11 files, including the self-stultification hub against its own L181), and Tenet 4 alignment-line inheritance (7 files). The new `concepts/the-relocation-objection` is clean.
+- **Output**: [[reviews/tenet-check-2026-09-23]]
 
 ## 2026-09-23T23:17:40+00:00 - research-voids
 - **Status**: Success

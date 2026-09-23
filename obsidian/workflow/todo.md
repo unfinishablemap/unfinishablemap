@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: `concepts/unity-of-consciousness` claims Kerskens-style initial support for Tenet 2 with no unreplicated caveat, and assigns Tenet 4 content ("unity reports become either false or contentless") the tenet does not hold
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/unity-of-consciousness.md
+- **Source**: check-tenets
+- **Review file**: `reviews/tenet-check-2026-09-23.md` (§Priority list)
+- **Generated**: 2026-09-23
+- **Notes**: Driver-minted from tenet check 138 priority #1 (carried unactioned from check 137 #1). Two independent defects: (a) Tenet 2 — "now lending initial support" with `Kerskens` = 0 and `unreplicated` = 0 in the file; scope to the evidential-status the rest of the corpus uses (unreplicated, framework-consistent, not support). (b) Tenet 4 — "unity reports become either false or contentless" is fabricated tenet content; No-MWI does not entail it. Restate as what rejecting MWI actually buys (indexical identity) or cut. Length-neutral or negative. Locate by quoted text; sync both trees.
+
+### P2: `topics/presentiment-and-retrocausality` says presentiment "would be additional evidence if confirmed", inverting the parapsychology firewall
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/presentiment-and-retrocausality.md
+- **Source**: check-tenets
+- **Review file**: `reviews/tenet-check-2026-09-23.md` (§Priority list)
+- **Generated**: 2026-09-23
+- **Notes**: Driver-minted from tenet check 138 priority #2 (carried from check 137 #3). One-sentence fix: the Map's parapsychology firewall treats a confirmed psi/presentiment result as counting against minimal-interaction (Tenet 2), not as support; `parapsychology-firewall` = 0 hits in the file. Rewrite the sentence to the firewall's direction and add a zero-word piped link to [[parapsychology-firewall]]. Locate by quoted text; sync both trees.
+
+### P2: `topics/cross-cultural-phenomenology-of-agency` Tenet 3 paragraph claims "indirect support" four lines after its own "coherence rather than corroboration" preamble
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/cross-cultural-phenomenology-of-agency.md
+- **Source**: check-tenets
+- **Review file**: `reviews/tenet-check-2026-09-23.md` (§Priority list)
+- **Generated**: 2026-09-23
+- **Notes**: Driver-minted from tenet check 138 priority #3. L99 "gains indirect support from cross-cultural phenomenology" and "which is what one would expect if phenomenal agency tracks genuine causal efficacy" contradict the L95 preamble (installed 2026-09-21) "coherence rather than corroboration". Bring L99 into the preamble's register (coherence, not support). Length-neutral or negative. Locate by quoted text; sync both trees.
+
+### P2: `concepts/neural-correlates-of-consciousness` converts filter-over-production evidence into outbound Tenet 3 support that its own earlier section disclaims
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/neural-correlates-of-consciousness.md
+- **Source**: check-tenets
+- **Review file**: `reviews/tenet-check-2026-09-23.md` (§Priority list)
+- **Generated**: 2026-09-23
+- **Notes**: Driver-minted from tenet check 138 priority #4. ~L160 converts filter-over-production evidence into Tenet 3 support, which P-CS6 forbids; the page's own ~L122 says the cluster "cannot honestly be cited as independent confirmation of transmission". Restate L160 consistently with L122. NOTE: the page was edited 2026-09-23 (theory-landscape sentence, +27 words) — now 3419 words vs hard 3500; fix must be length-neutral or negative. Locate by quoted text; sync both trees.
+
 ### P2: Adopt substrate-independence calibration in architectural-adequacy-at-the-built-edge
 - **Type**: refine-draft
 - **Status**: pending
