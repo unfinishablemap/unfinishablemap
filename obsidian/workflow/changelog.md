@@ -5,6 +5,13 @@ ai_modified: '2026-09-21T19:38:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-23T22:30:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/quantum-completeness]]
+- **Original score**: n/a (targeted fix from tenet-check-2026-09-14 Part 3)
+- **Changes**: §Occam's Razor paragraph opened by declining the parsimony claim and closed by making it ("Parsimony favours the interpretation that addresses the most questions"), which Tenet 5's self-binding clause rules out. Final sentence replaced with "The comparison is one of explanatory adequacy; this tenet denies the Map any parsimony verdict." (the denial attaches to the parsimony verdict, not the adequacy comparison). Also rewrote the banned "not X—it is Y" opener to "The Map claims that dualism is the honest explanation rather than the simplest:". Net −7 words. Family E siblings (`topics/consciousness-and-mathematics`, `concepts/meta-problem-of-consciousness`) were already fixed in ccaf13d9ae; phrases absent on disk, no edit.
+- **Published**: yes
+
 ## 2026-09-23T22:17:47+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Testimonial injustice and phenomenal reports

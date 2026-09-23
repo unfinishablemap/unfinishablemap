@@ -4,7 +4,7 @@ description: "Quantum mechanics is 'partial but complete': structurally exhausti
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-09-21T13:26:14+00:00
+ai_modified: 2026-09-23T22:30:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -111,7 +111,7 @@ The **Bidirectional Interaction** tenet holds that consciousness causally influe
 
 The **No Many Worlds** tenet rejects interpretations on which all quantum branches become equally real. As [discussed in detail](#many-worlds-honestly), the Map's objection is not that Everettian quantum mechanics adds formalism—it removes the collapse postulate. The objection is that many-worlds dissolves the selection question by denying indexical identity: there is no fact about which outcome *I* experience because every version of me experiences each one. The Map holds that indexical identity is real and that the question of which outcome becomes actual for a determinate subject requires an answer, not a dissolution.
 
-The **Occam's Razor Has Limits** tenet cautions against preferring simpler explanations when knowledge is incomplete. The measurement problem has attracted proposals ranging from spontaneous collapse (GRW, CSL) to many-worlds precisely because QM's structural gap demands explanation. The Map's claim is not that dualism is the simplest explanation—it is that dualism is the honest explanation when the alternatives either evade the gap (QBism, Copenhagen) or dissolve the question of indexical identity (many-worlds). Parsimony favours the interpretation that addresses the most questions, not the one with the fewest equations.
+The **Occam's Razor Has Limits** tenet cautions against preferring simpler explanations when knowledge is incomplete. The measurement problem has attracted proposals ranging from spontaneous collapse (GRW, CSL) to many-worlds precisely because QM's structural gap demands explanation. The Map claims that dualism is the honest explanation rather than the simplest: the alternatives either evade the gap (QBism, Copenhagen) or dissolve the question of indexical identity (many-worlds). The comparison is one of explanatory adequacy; this tenet denies the Map any parsimony verdict.
 
 ## Further Reading
 
