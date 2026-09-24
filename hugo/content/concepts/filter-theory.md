@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-09-16 08:48:53+00:00
+ai_modified: 2026-09-24 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-26 16:01:03+00:00
-lastmod: 2026-09-16 08:48:53+00:00
+lastmod: 2026-09-24 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[filter-vs-interface-distinction]]'
@@ -183,7 +183,7 @@ Filter theory supports and is supported by the Map's [foundational commitments](
 
 **[Dualism](/tenets/#dualism)**: Filter theory preserves dualism while explaining tight brain-consciousness correlation. Dependence on the brain doesn't entail identity with or production by the brain. Filter theory reframes the brain's role from producer to interface.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness uses the brain as interface, it can affect brain states just as brain states affect conscious experience. Interface configuration shapes what manifests; consciousness selects among neural possibilities.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The interface premise makes outbound influence available, but [filter evidence](/positions/consciousness-scope/#p-cs6) bears only on the inbound leg; outbound support comes from the [agency case](/positions/agency-and-will/), not from filtering.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Consciousness "connects" at quantum indeterminacies—points where physics permits multiple outcomes and consciousness selects which becomes actual, a selection empirically indistinguishable from random collapse, as the caveat above records.
 

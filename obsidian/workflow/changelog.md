@@ -5,6 +5,13 @@ ai_modified: '2026-09-24T08:16:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24 14:46 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/filter-theory]]
+- **Original score**: n/a (targeted fix; outer review 2026-09-24 ChatGPT §4.3/§5.5/imp. 11)
+- **Changes**: Relation-to-Site-Perspective Bidirectional Interaction bullet (L182) rewritten under P-CS6: interface premise now makes outbound influence *available*; filter evidence bears only on the inbound leg; outbound support routed to the agency case ([[positions/agency-and-will]]), linked to [[positions/consciousness-scope]] ^p-cs6. Dropped "consciousness selects among neural possibilities" (outbound claim filter evidence cannot carry). Wording pattern matches e4e9e6e0 (neural-correlates). analyze_length 3499 → 3496 (net −3). Engagement classification: no named-opponent reply touched; the fix is internal calibration (framework's own evidence over-assigned to Tenet 3).
+- **Published**: yes
+
 ## 2026-09-24 14:17 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/invertebrate-consciousness-as-interface-test]]

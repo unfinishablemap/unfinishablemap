@@ -4,7 +4,7 @@ description: "Filter theory reads the brain as transmitting and constraining con
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-09-16T08:48:53+00:00
+ai_modified: 2026-09-24T14:46:28+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -179,7 +179,7 @@ Filter theory supports and is supported by the Map's [[tenets|foundational commi
 
 **[[tenets#^dualism|Dualism]]**: Filter theory preserves dualism while explaining tight brain-consciousness correlation. Dependence on the brain doesn't entail identity with or production by the brain. Filter theory reframes the brain's role from producer to interface.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness uses the brain as interface, it can affect brain states just as brain states affect conscious experience. Interface configuration shapes what manifests; consciousness selects among neural possibilities.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The interface premise makes outbound influence available, but [[positions/consciousness-scope#^p-cs6|filter evidence]] bears only on the inbound leg; outbound support comes from the [[agency-and-will|agency case]], not from filtering.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Consciousness "connects" at quantum indeterminacies—points where physics permits multiple outcomes and consciousness selects which becomes actual, a selection empirically indistinguishable from random collapse, as the caveat above records.
 

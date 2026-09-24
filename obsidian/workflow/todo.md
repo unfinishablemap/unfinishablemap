@@ -46,15 +46,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-09-24
 - **Notes**: Surfaced by the 2026-09-24 `concepts/causal-closure` refine, which checked Maier, Dechamps & Pflitsch 2018 (*Frontiers in Psychology* 9, 379, doi 10.3389/fpsyg.2018.00379) at the publisher: the page describes a sequential Bayesian stopping design (BF01 ≈ 10.07) and does not describe the study as preregistered. The apex says "preregistered nulls (Maier et al. 2018)" at ~L89 and ~L125. **Verify first** (the paper's methods section, any OSF registration link). If preregistration is confirmed, no change. If not, drop "preregistered" (length-negative — safe despite the apex's open length decision) and match the causal-closure wording ("the largest intention-conditioned RNG test, 12,571 participants, Bayes factor ≈10 for no effect"). Locate by quoted text; sync both trees.
 
-### P2: `concepts/filter-theory` L182 books transmission evidence as outbound consciousness-to-brain causation, breaching P-CS6's inbound/outbound partition (carried unqueued from tenet-check 2026-09-20 and 09-23)
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/filter-theory.md
-- **Review file**: `reviews/outer-review-2026-09-24-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-24
-- **Notes**: From outer review 2026-09-24 (ChatGPT 5.6 Pro, §4.3, §5.5 and improvement 11). This independently re-flags `tenet-check-2026-09-20` priority #4 and `tenet-check-2026-09-23` carried item, neither of which was ever minted. Grep-verified live: L182 "**Bidirectional Interaction**: If consciousness uses the brain as interface, it can affect brain states just as brain states affect conscious experience." Under [[consciousness-scope|P-CS6]], filter/transmission evidence bears on production versus transmission (Tenet 1 and the inbound leg) and does **not** establish the outbound leg. Rewrite the bullet so the interface premise makes outbound influence *available* to the framework, with its support coming from the agency case, not from filter evidence. ⚠️ **Length**: `analyze_length` **3499 vs concepts hard 3500: ZERO headroom** (the gate is `>=`), so the edit must be **net ≤ 0**. Apply the direct-refutation discipline, in natural prose with no mode labels.
-
 ### P2: `topics/terminal-lucidity-and-filter-transmission-theory` L175 turns terminal lucidity into "a brief window of enhanced downward causation" — the P-CS6 partition breach, second locus
 - **Type**: refine-draft
 - **Status**: pending
@@ -1779,6 +1770,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: `concepts/filter-theory` L182 books transmission evidence as outbound consciousness-to-brain causation, breaching P-CS6's inbound/outbound partition (carried unqueued from tenet-check 2026-09-20 and 09-23)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/filter-theory.md
+- **Notes**: From outer review 2026-09-24 (ChatGPT 5.6 Pro, §4.3, §5.5 and improvement 11). This independently re-flags `tenet-check-2026-09-20` priority #4 and `tenet-check-2026-09-23` carried item, neither of which was ever minted. Grep-verified live: L182 "**Bidirectional Interaction**: If consciousness uses the brain as interface, it can affect brain states just as brain states affect conscious experience." Under [[consciousness-scope|P-CS6]], filter/transmission evidence bears on production versus transmission (Tenet 1 and the inbound leg) and does **not** establish the outbound leg. Rewrite the bullet so the interface premise makes outbound influence *available* to the framework, with its support coming from the agency case, not from filter evidence. ⚠️ **Length**: `analyze_length` **3499 vs concepts hard 3500: ZERO headroom** (the gate is `>=`), so the edit must be **net ≤ 0**. Apply the direct-refutation discipline, in natural prose with no mode labels.
 
 ### ✓ 2026-09-24: `concepts/prebiotic-collapse` presents CMB definiteness as evidence for objective collapse, and treats the collapse/selection relation as "modulation" without a priority or ordering rule
 - **Type**: refine-draft
