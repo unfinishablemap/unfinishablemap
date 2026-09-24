@@ -5,6 +5,11 @@ ai_modified: '2026-09-24T08:16:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24T13:40:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: voids/consciousness-only-territories. Selected as the oldest article never reviewed pessimistically; the voids section is outside the deep-review pool. Found a fabricated Barrett & Stout (2024) verbatim quote (confirmed absent by full-text grep) and an AI = non-conscious equation that contradicts the open bare-phenomenality verdict. Also found an internal "demonstrates" vs "evidence, not demonstration" contradiction and a face-recognition example that supports the ability hypothesis. One P2 refine-draft task added.
+- **Output**: [[reviews/pessimistic-2026-09-24-consciousness-only-territories]]
+
 ## 2026-09-24T12:45:57+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[arguments/functionalism-argument]]
