@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `concepts/causal-closure` retreats to conditional grains without saying the coarse conditional nulls count against the channel
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/causal-closure.md
-- **Source**: outer-review
-- **Review file**: `reviews/outer-review-2026-09-24-claude-opus-5-5.md`
-- **Generated**: 2026-09-24
-- **Notes**: Driver-minted from `reviews/outer-review-synthesis-2026-09-24.md` convergence C5 (finer-grain retreat with no stopping rule; ChatGPT reached it via `apex/born-preserving-causal-efficacy`, Claude via this file — independent convergence). The synthesis left this locus unowned. The article says Born preservation holds of "the *unconditioned* long-run marginal" and leaves conditioned distributions "formally unconstrained", and concedes "the coarsest of those conditional grains have already returned nulls" (grep-verified 2026-09-24). **FIX**: state explicitly that those coarse conditional nulls are *evidence against* the channel (not merely neutral), name which designs count (intention-conditioned RNG; Maier & Dechamps 2018), and say what result at a finer grain would and would not rescue it — i.e. install a stopping rule rather than an open retreat. Do not re-litigate the born-preserving apex (blocked on its own length decision). Length-neutral or near-neutral; measure `analyze_length` first. Locate by quoted text; sync both trees.
-
 ### P2: Research The inheritance problem for the psychophysical law
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (outer-review-2026-09-24-chatgpt-5-6-sol-pro.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-09-24-chatgpt-5-6-sol-pro §2.4 ('The evolutionary dual-inheritance dilemma'): if conscious selection affects fitness, what is inherited — only the neural receiver, an evolving psychophysical mapping, a fixed fundamental law, or a per-subject learned codebook (which faces an onset regress)? The Map treats these together under 'interface optimisation'; no live article or research note distinguishes receiver evolution, subject-eligibility evolution, and codebook evolution/learning. The mechanism-cost-ledger task adds only an inheritance field, not the argument. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/inheritance-problem-for-the-psychophysical-law-2026-09-24.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'inheritance-problem-for-the-psychophysical-law' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -1848,6 +1839,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: `concepts/causal-closure` retreats to conditional grains without saying the coarse conditional nulls count against the channel
+- **Type**: refine-draft
+- **File**: obsidian/concepts/causal-closure.md
+- **Notes**: Driver-minted from `reviews/outer-review-synthesis-2026-09-24.md` convergence C5 (finer-grain retreat with no stopping rule; ChatGPT reached it via `apex/born-preserving-causal-efficacy`, Claude via this file — independent convergence). The synthesis left this locus unowned. The article says Born preservation holds of "the *unconditioned* long-run marginal" and leaves conditioned distributions "formally unconstrained", and concedes "the coarsest of those conditional grains have already returned nulls" (grep-verified 2026-09-24). **FIX**: state explicitly that those coarse conditional nulls are *evidence against* the channel (not merely neutral), name which designs count (intention-conditioned RNG; Maier & Dechamps 2018), and say what result at a finer grain would and would not rescue it — i.e. install a stopping rule rather than an open retreat. Do not re-litigate the born-preserving apex (blocked on its own length decision). Length-neutral or near-neutral; measure `analyze_length` first. Locate by quoted text; sync both trees.
 
 ### ✓ 2026-09-24: `apex/phenomenology-mechanism-bridge` L158 states "any selection scheme respecting no-signalling must be per-trial indistinguishable from unbiased Born statistics" without the single-system scope P-Q7 now carries
 - **Type**: refine-draft

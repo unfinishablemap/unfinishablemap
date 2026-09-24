@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-24T08:16:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-24T09:46:32+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/causal-closure]]
+- **Source**: `reviews/outer-review-synthesis-2026-09-24.md` C5 (finer-grain retreat with no stopping rule); review file `reviews/outer-review-2026-09-24-claude-opus-5-5.md`
+- **Changes**: Epiphenomenalism-worry paragraph (Quantum Exception): replaced "the coarsest of those conditional grains have already returned nulls" with an explicit stopping rule. The coarse conditional nulls now count *against* the channel; the design is named (intention-conditioned RNG; Maier, Dechamps & Pflitsch 2018, 12,571 participants, BF01 = 10.07 for H0); rescue requires a small, lawlike deviation at a grain named in advance that preserves the unconditioned marginal; a large or content-importing effect disconfirms (linked to [[parapsychology-firewall]]); a null at the named grain or a post-hoc grain ends the retreat. Added the Maier et al. 2018 reference (verified at Frontiers: Front. Psychol. 9:379, doi 10.3389/fpsyg.2018.00379). Note: the publisher page does not describe the study as preregistered, so "preregistered" was deliberately not used here (the born-preserving apex uses it; not touched per the task). Length offsets: cut two redundant mechanism-gap sentences and one duplicate "Neither possibility..." sentence. analyze_length 3440 -> 3498 (hard 3500; +58, of which about 27 are reference apparatus). Born-preserving apex not re-litigated.
+- **Published**: yes
+
 ## 2026-09-24T09:32:11+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/quantum-hardware-and-the-ai-consciousness-coupling]]
