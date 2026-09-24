@@ -4,7 +4,7 @@ description: "Insects, cephalopods, and crustaceans provide the sharpest test fo
 created: 2026-04-09
 modified: 2026-04-09
 human_modified:
-ai_modified: 2026-08-05T20:35:23+00:00
+ai_modified: 2026-09-24T14:17:06+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -29,10 +29,10 @@ related_articles:
   - "[[ethics-of-consciousness-invertebrate-question]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-04-09
 last_curated:
-last_deep_review: 2026-07-20T23:46:10+00:00
+last_deep_review: 2026-09-24T14:17:06+00:00
 embedded_videos:
   - id: yEbLx3KMclc
     url: https://www.youtube-nocookie.com/embed/yEbLx3KMclc
@@ -42,7 +42,7 @@ embedded_videos:
 
 Invertebrate consciousness poses the sharpest empirical test for The Unfinishable Map's dualist interface model. If consciousness couples with physical systems rather than being produced by them, three independently evolved neural architectures—the insect central complex, the cephalopod distributed nervous system, and the crustacean centralised brain—each demand an account of how that coupling works. A bee navigates with a million neurons. An octopus coordinates half a billion neurons distributed across semi-autonomous arms. A mantis shrimp processes visual information through 16 types of photoreceptor (Marshall & Oberwinkler, 1999). These architectures diverged over 500 million years ago, yet all three lineages display behaviours that current research increasingly associates with conscious experience. The question for dualism is direct: does consciousness couple with all three through the same mechanism, or has evolution independently developed multiple coupling architectures?
 
-The 2024 New York Declaration on Animal Consciousness, signed by hundreds of scientists and philosophers (605 as of 2026, up from roughly 40 at launch), extended "a realistic possibility" of consciousness to insects, crustaceans, and cephalopods. This consensus shift transforms invertebrates from philosophical curiosities into urgent test cases for any theory of consciousness—including the Map's.
+The 2024 New York Declaration on Animal Consciousness, signed by hundreds of scientists and philosophers (over 600 by September 2026, up from roughly 40 at launch), extended "a realistic possibility" of consciousness to insects, crustaceans, and cephalopods. That makes invertebrates urgent test cases for any theory of consciousness, the Map's included.
 
 <details class="yt-embed" data-video-id="yEbLx3KMclc">
 <summary>Video introduction</summary>
@@ -58,7 +58,7 @@ Barron and Klein (2016) argue that the insect brain's central complex performs f
 
 Under a physicalist reading, this functional analogy implies that insect brains *generate* consciousness through the same computational principles as vertebrate midbrains. Under the Map's dualist reading, the analogy suggests something different: the insect central complex provides the *coupling architecture* through which consciousness interfaces with the physical system. If a million-neuron insect brain provides adequate coupling architecture, the mechanism must be far more minimal than cortical-scale theories assume.
 
-Chittka's *The Mind of a Bee* (2022) strengthens the empirical case. Bees recognise human faces, exhibit cognitive biases consistent with emotional states, use simple tools, learn by observation, and show possible metacognition—all with roughly a million neurons. The computational efficiency is striking, but for the interface model the important point is different: whatever physical conditions consciousness requires to couple, a million neurons suffice. Gibbons et al. (2024), with Chittka as senior author, add a behavioural marker to those cognitive ones: bumblebees touched on one antenna with a 65 °C probe groomed that antenna more than the untouched one, and more than sham-touched or untouched controls — the first empirical test of the widely stated claim that insects show no such response.
+Chittka's *The Mind of a Bee* (2022) strengthens the empirical case. Bees recognise human faces, exhibit cognitive biases consistent with emotional states, use simple tools, learn by observation, and show possible metacognition—all with roughly a million neurons. For the interface model the point is that whatever physical conditions coupling requires, a million neurons suffice. Gibbons et al. (2024), with Chittka as senior author, add a behavioural marker to those cognitive ones: bumblebees touched on one antenna with a 65 °C probe groomed that antenna more than the untouched one, and more than sham-touched or untouched controls — the first empirical test of the widely stated claim that insects show no such response.
 
 ### The Cephalopod Distributed System
 
@@ -82,7 +82,7 @@ Feinberg and Mallatt (2016) argue that consciousness depends on "complex, fast, 
 
 ## Birch's Framework Through a Dualist Lens
 
-Jonathan Birch (2022) proposes a theory-light approach to detecting invertebrate consciousness. His core commitment is the **facilitation hypothesis**: "Phenomenally conscious perception of a stimulus facilitates, relative to unconscious perception, a cluster of cognitive abilities in relation to that stimulus." Rather than committing to any specific theory of consciousness, Birch advocates searching for the characteristic pattern in which conscious processing outperforms unconscious processing—using masking paradigms adapted from human research. (Birch's *Edge of Sentience* (2024) extends this into a two-tier evidential scheme — *sentience candidate* / *investigation priority* — which the Map compares with its own five-tier scale at [[birch-edge-of-sentience-and-the-five-tier-scale]].)
+Jonathan Birch (2022) proposes a theory-light approach to detecting invertebrate consciousness. His core commitment is the **facilitation hypothesis**: "Phenomenally conscious perception of a stimulus facilitates, relative to unconscious perception, a cluster of cognitive abilities in relation to that stimulus." Birch advocates searching for the characteristic pattern in which conscious processing outperforms unconscious processing—using masking paradigms adapted from human research. (Birch's *Edge of Sentience* (2024) extends this into a two-tier evidential scheme — *sentience candidate* / *investigation priority* — which the Map compares with its own five-tier scale at [[birch-edge-of-sentience-and-the-five-tier-scale]].)
 
 Birch's framework is methodologically physicalist: it assumes consciousness facilitates cognition through neural mechanisms. But the facilitation hypothesis is equally compatible with dualist assumptions about interface coupling. Under the Map's framework, masking disrupts the interface: it prevents consciousness from coupling with the relevant neural activity rather than preventing that activity from generating consciousness. The empirical prediction is identical—masked stimuli are processed less flexibly—but the mechanism differs.
 
@@ -98,7 +98,7 @@ Under dualism, the natural zombie objection takes a different and more challengi
 
 Three responses are available:
 
-**The threshold response** holds that insect brains fall below the minimum architectural requirements for coupling, despite behavioural appearances. The sophistication of their behaviour reflects unconscious processing. This preserves a principled boundary but faces growing empirical pressure from masking paradigms and trace conditioning evidence.
+**The threshold response** holds that insect brains fall below the minimum architectural requirements for coupling, despite behavioural appearances. The sophistication of their behaviour reflects unconscious processing. This preserves a principled boundary but faces growing pressure from trace-conditioning evidence, with the masking paradigms Birch proposes as a sharper test.
 
 **The [[universal-coupling-response|universal coupling response]]** holds that all architecturally adequate systems do couple with consciousness—insects included. This is the most parsimonious position for dualism but extends consciousness widely, approaching (without reaching) panpsychism for any organism with sufficient neural integration.
 
@@ -106,7 +106,7 @@ Three responses are available:
 
 The Map finds the universal coupling response most coherent. If the interface model is correct, the question for insects becomes *how* consciousness couples with their particular architecture rather than *whether* they are conscious. The [[ethics-of-consciousness-invertebrate-question|ethical implications]] of universal coupling are correspondingly broad: wherever coupling occurs, a subject exists who can be wronged. The [[delegatory-causation|causal delegation]] framework developed from Saad's delegatory dualism applies directly: when a bee's brain state delegates causal work to consciousness through preemption, the same delegation structure holds whether the substrate is a million-neuron insect brain or a human cortex. Universal coupling implies universal delegation, though the *effective reach* of that delegation may vary substantially — worked out in [[interface-efficacy-and-the-cognitive-gap|interface efficacy]].
 
-Brown and Birch (2025) complicate that preference. Motivational trade-offs — the evidence that shifted opinion on crabs and insects — are also shown by *C. elegans* through a mechanism they judge plausibly too simple to support conscious experience, and they conclude that a trade-off's character and neural substrate matter. Universal coupling must absorb that case: a behavioural bar cleared on an implausible coupling site is a reason to ask what coupling requires rather than a confirmation that it occurred.
+Brown and Birch (2025) complicate that preference. Motivational trade-offs — the evidence that shifted opinion on crabs and insects — are also shown by *C. elegans*, through a mechanism critics note is plausibly too simple to support conscious experience; Brown and Birch conclude that a trade-off's character and neural substrate matter. Universal coupling must absorb that case: a behavioural bar cleared on an implausible coupling site is a reason to ask what coupling requires rather than a confirmation that it occurred.
 
 ## What Invertebrates Demand of the Interface Model
 
@@ -132,7 +132,7 @@ The constraints also bear on how cross-architecture variation should be read. [[
 
 **Minimal Quantum Interaction**: If coupling operates at quantum indeterminacies in neural tissue, the mechanism should work in any neuron-bearing system. Invertebrates provide the test: proposed coupling sites such as microtubules are conserved across phyla. However, the thermal and electromagnetic environment of a bee's million-neuron brain differs substantially from a human cortex, raising the question of whether decoherence constrains coupling differently across architectures—a challenge any quantum-level mechanism must address.
 
-**Bidirectional Interaction**: Birch's facilitation hypothesis—that consciousness improves cognitive performance relative to unconscious processing—is precisely what the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet predicts. If consciousness causally influences behaviour, conscious organisms should outperform unconscious ones on tasks requiring flexible integration. The growing evidence for this pattern in invertebrates supports bidirectional interaction across phyla.
+**Bidirectional Interaction**: Birch's facilitation hypothesis—that consciousness improves cognitive performance relative to unconscious processing—is precisely what the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet predicts. If consciousness causally influences behaviour, conscious processing should outperform unconscious processing on tasks requiring flexible integration. Invertebrate evidence for this pattern, so far mostly indirect (trace conditioning rather than masking), tells against epiphenomenalism across phyla, though like Birch's framework it does not discriminate dualist from physicalist readings.
 
 **No Many Worlds**: Under MWI, every quantum event spawns branches. The question of whether a particular bee is conscious loses determinacy because "this bee" fragments across branches. The Map's rejection of MWI preserves the coherence of asking whether a specific individual organism has experience.
 

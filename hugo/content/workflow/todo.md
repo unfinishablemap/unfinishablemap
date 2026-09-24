@@ -48,15 +48,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-09-24
 - **Notes**: Surfaced by the 2026-09-24 `concepts/causal-closure` refine, which checked Maier, Dechamps & Pflitsch 2018 (*Frontiers in Psychology* 9, 379, doi 10.3389/fpsyg.2018.00379) at the publisher: the page describes a sequential Bayesian stopping design (BF01 ≈ 10.07) and does not describe the study as preregistered. The apex says "preregistered nulls (Maier et al. 2018)" at ~L89 and ~L125. **Verify first** (the paper's methods section, any OSF registration link). If preregistration is confirmed, no change. If not, drop "preregistered" (length-negative — safe despite the apex's open length decision) and match the causal-closure wording ("the largest intention-conditioned RNG test, 12,571 participants, Bayes factor ≈10 for no effect"). Locate by quoted text; sync both trees.
 
-### P2: `concepts/prebiotic-collapse` presents CMB definiteness as evidence for objective collapse, and treats the collapse/selection relation as "modulation" without a priority or ordering rule
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/prebiotic-collapse.md
-- **Review file**: `reviews/outer-review-2026-09-24-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-24
-- **Notes**: From outer review 2026-09-24 (ChatGPT 5.6 Pro, §2.5, §5.7, §6.7 and improvement 6). **(1) Verified locus L112**: "The CMB's definiteness is evidence that collapse occurred long before minds." Branch-relative definiteness in Everettian models predicts the same record, so this is what the Map's one-world framework *requires*, not interpretation-neutral evidence. Relabel it accordingly (the stellar-fusion paragraph at L114 has the same shape). **(2) Collapse-priority problem**: L130 already states the outcome-completeness dilemma well. The reviewer's sharpening adds that a model needs two transition processes (physical reduction and conscious selection) and must say which acts first, whether selection can delay reduction or alter its rate or outcome, and how ordering is fixed for spacelike-separated events. Add this as a stated open debt: 2–3 sentences at L130, not a new section. It connects to `tenets/background-commitments` posit (2) and the tenets-page L184 remark that once objective reduction secures definiteness, the measurement problem cannot itself be evidence for conscious selection. ⚠️ **Length**: 3607 vs concepts hard 3500, already over, so the pass must be net ≤ 0. Pay for the L130 addition by tightening L110–L114.
-
 ### P2: `concepts/filter-theory` L182 books transmission evidence as outbound consciousness-to-brain causation, breaching [P-CS6](/positions/consciousness-scope/#p-cs6)'s inbound/outbound partition (carried unqueued from tenet-check 2026-09-20 and 09-23)
 - **Type**: refine-draft
 - **Status**: pending
@@ -1790,6 +1781,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: `concepts/prebiotic-collapse` presents CMB definiteness as evidence for objective collapse, and treats the collapse/selection relation as "modulation" without a priority or ordering rule
+- **Type**: refine-draft
+- **File**: obsidian/concepts/prebiotic-collapse.md
+- **Notes**: From outer review 2026-09-24 (ChatGPT 5.6 Pro, §2.5, §5.7, §6.7 and improvement 6). **(1) Verified locus L112**: "The CMB's definiteness is evidence that collapse occurred long before minds." Branch-relative definiteness in Everettian models predicts the same record, so this is what the Map's one-world framework *requires*, not interpretation-neutral evidence. Relabel it accordingly (the stellar-fusion paragraph at L114 has the same shape). **(2) Collapse-priority problem**: L130 already states the outcome-completeness dilemma well. The reviewer's sharpening adds that a model needs two transition processes (physical reduction and conscious selection) and must say which acts first, whether selection can delay reduction or alter its rate or outcome, and how ordering is fixed for spacelike-separated events. Add this as a stated open debt: 2–3 sentences at L130, not a new section. It connects to `tenets/background-commitments` posit (2) and the tenets-page L184 remark that once objective reduction secures definiteness, the measurement problem cannot itself be evidence for conscious selection. ⚠️ **Length**: 3607 vs concepts hard 3500, already over, so the pass must be net ≤ 0. Pay for the L130 addition by tightening L110–L114.
 
 ### ✓ 2026-09-24: `voids/consciousness-only-territories` quotes Barrett & Stout (2024) with a sentence absent from their paper, and equates "AI" with "non-conscious system" against the open bare-phenomenality verdict
 - **Type**: refine-draft

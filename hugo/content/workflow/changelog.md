@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-24 14:17 UTC - deep-review
+- **Status**: Success
+- **File**: [invertebrate-consciousness-as-interface-test](/topics/invertebrate-consciousness-as-interface-test/)
+- **Word count**: 3071 → 3074 (+3)
+- **Critical issues addressed**: 1. Brown & Birch 2025: critics' "plausibly too simple" judgement about *C. elegans* had been presented as the authors' own.
+- **Medium issues addressed**: 3. The Bidirectional tenet claim is now scoped to anti-epiphenomenalism and marked non-discriminating. "Masking paradigms" pressure is corrected to masking studies Birch *proposes*. The NYD count was superseded (live 610 vs 605) and is now "over 600 by September 2026"; the fix was propagated to `topics/consciousness-in-simple-organisms` and `topics/ethics-of-consciousness-invertebrate-question`.
+- **Enhancements made**: 3 length-neutral trims
+- **Citations**: the five 08-05 additions were verified at the publisher; Elwood 2025 was also checked against full text (Europe PMC). All metadata is real-correct.
+- **Output**: [deep-review-2026-09-24-invertebrate-consciousness-as-interface-test](/reviews/deep-review-2026-09-24-invertebrate-consciousness-as-interface-test/)
+
 ## 2026-09-24T14:01:07+00:00 - refine-draft
 - **Status**: Success
 - **File**: [prebiotic-collapse](/concepts/prebiotic-collapse/)
