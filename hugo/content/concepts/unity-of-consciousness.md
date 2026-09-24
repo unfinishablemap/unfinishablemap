@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-08-08 17:26:00+00:00
+ai_modified: 2026-09-24T00:16:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -129,7 +129,7 @@ Phenomenal unity also bears on the [combination problem](/concepts/combination-p
 
 **[Global Workspace Theory](/concepts/global-workspace-theory/)** proposes that conscious contents are broadcast widely across cortical regions. This explains access unity—why information becomes globally available. It is less clear how broadcasting to a distributed neural process produces phenomenal unity rather than relocating the problem.
 
-**Quantum binding** offers a structurally different approach. Quantum entanglement creates genuinely non-separable states—entangled particles form a whole whose properties cannot be decomposed into individual states. Classical mechanisms combine things that remain metaphysically distinct; entanglement produces systems that were never fully separate. The [entanglement binding hypothesis](/concepts/entanglement-binding-hypothesis/) develops this structural insight into a testable proposal, with preliminary experimental evidence—including MRI signatures of entanglement correlating with consciousness and microtubule-stabilising drugs delaying anaesthesia—now lending initial support. See [Quantum Holism and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/) for the structural argument.
+**Quantum binding** offers a structurally different approach. Quantum entanglement creates genuinely non-separable states—entangled particles form a whole whose properties cannot be decomposed into individual states. Classical mechanisms combine things that remain metaphysically distinct; entanglement produces systems that were never fully separate. The [entanglement binding hypothesis](/concepts/entanglement-binding-hypothesis/) develops this structural insight into a testable proposal, with framework-consistent evidence of unequal weight: microtubule-stabilising drugs delaying anaesthesia, and a claimed MRI entanglement signature from one unreplicated study. See [Quantum Holism and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/) for the structural argument.
 
 ## The Illusionist Challenge
 
@@ -147,7 +147,7 @@ The unity of consciousness connects directly to The Unfinishable Map's [foundati
 
 **Bidirectional Interaction**: [Bidirectional interaction](/tenets/#bidirectional-interaction) requires a unified agent. If consciousness were fragmented—many separate micro-experiences with no encompassing unity—there would be no integrated subject to select among quantum possibilities or exercise causal power. What that requires is a synchronically unified locus of selection, which phenomenal unity supplies. Whether the subject also *persists* across time is a further commitment, downstream of [agent causation](/concepts/agent-causation/) in the Map's agency cluster rather than entailed by the Dualism tenet, which stays neutral between substance and property readings; see [where the substance commitment enters](/concepts/where-the-substance-commitment-enters/).
 
-**No Many Worlds**: Phenomenal unity appears indexically definite—*this* experience is unified, not merely unified-in-some-branch. The [No Many Worlds tenet](/tenets/#no-many-worlds) holds that first-person unity claims require genuine collapse. If all branches are equally real, unity reports become either false or contentless.
+**No Many Worlds**: Phenomenal unity appears indexically definite—*this* experience is unified, not merely unified-in-some-branch. Branch-relative accounts also count each branch's experience unified, so rejecting MWI adds nothing to unity; the [No Many Worlds tenet](/tenets/#no-many-worlds) secures only indexical identity—whose unified experience this is.
 
 **Occam's Razor Has Limits**: Identifying phenomenal unity with functional integration appears simpler. But if functional integration cannot in principle produce conjoint phenomenology, the simpler account is structurally inadequate, not merely incomplete. The [limits of parsimony](/tenets/#occams-limits) apply when the phenomenon exceeds the framework.
 

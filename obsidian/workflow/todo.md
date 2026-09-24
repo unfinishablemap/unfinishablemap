@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `concepts/unity-of-consciousness` claims Kerskens-style initial support for Tenet 2 with no unreplicated caveat, and assigns Tenet 4 content ("unity reports become either false or contentless") the tenet does not hold
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/unity-of-consciousness.md
-- **Source**: check-tenets
-- **Review file**: `reviews/tenet-check-2026-09-23.md` (§Priority list)
-- **Generated**: 2026-09-23
-- **Notes**: Driver-minted from tenet check 138 priority #1 (carried unactioned from check 137 #1). Two independent defects: (a) Tenet 2 — "now lending initial support" with `Kerskens` = 0 and `unreplicated` = 0 in the file; scope to the evidential-status the rest of the corpus uses (unreplicated, framework-consistent, not support). (b) Tenet 4 — "unity reports become either false or contentless" is fabricated tenet content; No-MWI does not entail it. Restate as what rejecting MWI actually buys (indexical identity) or cut. Length-neutral or negative. Locate by quoted text; sync both trees.
-
 ### P2: `topics/presentiment-and-retrocausality` says presentiment "would be additional evidence if confirmed", inverting the parapsychology firewall
 - **Type**: refine-draft
 - **Status**: pending
@@ -94,7 +85,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-09-23
-
 
 ### P2: NEEDS-HUMAN (length decision) 2026-09-21 — `concepts/chinese-room-argument` has THREE words of headroom, its apparatus has no slack, and every obvious trim target is certified by a prior review
 
@@ -1726,6 +1716,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: `concepts/unity-of-consciousness` claims Kerskens-style initial support for Tenet 2 with no unreplicated caveat, and assigns Tenet 4 content ("unity reports become either false or contentless") the tenet does not hold
+- **Type**: refine-draft
+- **File**: obsidian/concepts/unity-of-consciousness.md
+- **Notes**: Driver-minted from tenet check 138 priority #1 (carried unactioned from check 137 #1). Two independent defects: (a) Tenet 2 — "now lending initial support" with `Kerskens` = 0 and `unreplicated` = 0 in the file; scope to the evidential-status the rest of the corpus uses (unreplicated, framework-consistent, not support). (b) Tenet 4 — "unity reports become either false or contentless" is fabricated tenet content; No-MWI does not entail it. Restate as what rejecting MWI actually buys (indexical identity) or cut. Length-neutral or negative. Locate by quoted text; sync both trees.
 
 ### ✓ 2026-09-23: `concepts/quantum-completeness` L110 — the Map's own "Occam's Razor Has Limits" alignment paragraph closes with a parsimony verdict in the Map's favour, in the paragraph citing the tenet that forbids that move
 - **Type**: refine-draft

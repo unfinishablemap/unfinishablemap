@@ -5,6 +5,13 @@ ai_modified: '2026-09-24T00:00:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24T00:16:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/unity-of-consciousness]]
+- **Original score**: n/a (targeted tenet repair; review source reviews/tenet-check-2026-09-23.md priority #1, carried from check 137 #1)
+- **Changes**: (a) Tenet 2: quantum-binding sentence no longer says MRI-entanglement and microtubule evidence are "now lending initial support"; restated as framework-consistent evidence of unequal weight, with the MRI entanglement signature flagged as one unreplicated study (matches entanglement-binding-hypothesis's two-tier calibration). (b) Tenet 4: cut fabricated tenet content ("first-person unity claims require genuine collapse"; "unity reports become either false or contentless"); restated as: branch-relative accounts also count each branch's experience unified, so rejecting MWI adds nothing to unity itself and secures only indexical identity. Net +1 word. Both trees synced (obsidian + hugo).
+- **Published**: yes
+
 ## 2026-09-24T00:00:48+00:00 - tune-system
 - **Status**: Success
 - **Sessions analyzed**: 238 (session_count 20966 -> 21204, since the 09-19 run)

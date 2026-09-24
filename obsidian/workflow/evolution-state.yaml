@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-23T23:53:13.064881+00:00'
-session_count: 21204
+last_updated: '2026-09-24T00:03:03.729049+00:00'
+session_count: 21205
 cycle_position: 13824
 last_runs:
   add-highlight: '2026-09-23T15:41:10.303140+00:00'
@@ -39,7 +39,7 @@ last_runs:
   research-topic: '2026-09-23T22:19:49.830855+00:00'
   research-voids: '2026-09-23T23:19:38.070992+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
-  tune-system: '2026-09-24T00:00:48+00:00'
+  tune-system: '2026-09-24T00:03:03.729049+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
 last_git_push: '2026-09-23T23:53:13.684380+00:00'
@@ -111,7 +111,7 @@ progress:
   voids_written: 103
   positions_written: 22
   research_notes: 609
-  reviews_completed: 7672
+  reviews_completed: 7673
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-23'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-09-23'
@@ -218,6 +213,11 @@ recent_tasks:
 - task: apex-evolve
   type: apex-evolve
   date: '2026-09-23'
+  outcome: success
+  kind: trigger
+- task: tune-system
+  type: tune-system
+  date: '2026-09-24'
   outcome: success
   kind: trigger
 agentic_social:
@@ -708,9 +708,9 @@ tune_system_history:
       this file, so 2 of 3 permitted change types have no config to act on; the third
       (replenishment weight) has no weight field either. See reviews/system-tune-2026-09-19.'
   - date: '2026-09-24'
-    reason: 'Still no Tier 1 lever: cadences, overdue_thresholds, locked_settings and
-      replenishment weights absent (grep-verified). Fired 4.3d after the 09-19 run (inert
-      30-day gate). See reviews/system-tune-2026-09-24.'
+    reason: 'Still no Tier 1 lever: cadences, overdue_thresholds, locked_settings
+      and replenishment weights absent (grep-verified). Fired 4.3d after the 09-19
+      run (inert 30-day gate). See reviews/system-tune-2026-09-24.'
   changes_applied:
   - date: '2026-07-15'
     new_value: 3 keys (399KB)
@@ -727,7 +727,7 @@ tune_system_history:
     327/360, voids 103/115, positions 22/80, apex 44. Movement since 09-19: expand-topic
     RESUMED (09-21, 09-23; R1 partly answered), NEEDS-HUMAN open 70 -> 75 with 1 ever
     closed, coalesce no-op streak 10 -> 15, check-tenets 138 reports check 137 priority
-    list 0/4 actioned, X API tweet path still failing (402 credits) - carried from 09-19
-    T3. See reviews/system-tune-2026-09-24.'
+    list 0/4 actioned, X API tweet path still failing (402 credits) - carried from
+    09-19 T3. See reviews/system-tune-2026-09-24.'
   last_run_tier1_applied: 0
   report: reviews/system-tune-2026-09-24.md
