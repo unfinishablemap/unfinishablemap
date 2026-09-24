@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `topics/cross-cultural-phenomenology-of-agency` Tenet 3 paragraph claims "indirect support" four lines after its own "coherence rather than corroboration" preamble
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/cross-cultural-phenomenology-of-agency.md
-- **Source**: check-tenets
-- **Review file**: `reviews/tenet-check-2026-09-23.md` (§Priority list)
-- **Generated**: 2026-09-23
-- **Notes**: Driver-minted from tenet check 138 priority #3. L99 "gains indirect support from cross-cultural phenomenology" and "which is what one would expect if phenomenal agency tracks genuine causal efficacy" contradict the L95 preamble (installed 2026-09-21) "coherence rather than corroboration". Bring L99 into the preamble's register (coherence, not support). Length-neutral or negative. Locate by quoted text; sync both trees.
-
 ### P2: `concepts/neural-correlates-of-consciousness` converts filter-over-production evidence into outbound Tenet 3 support that its own earlier section disclaims
 - **Type**: refine-draft
 - **Status**: pending
@@ -1707,6 +1698,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: `topics/cross-cultural-phenomenology-of-agency` Tenet 3 paragraph claims "indirect support" four lines after its own "coherence rather than corroboration" preamble
+- **Type**: refine-draft
+- **File**: obsidian/topics/cross-cultural-phenomenology-of-agency.md
+- **Notes**: Driver-minted from tenet check 138 priority #3. L99 "gains indirect support from cross-cultural phenomenology" and "which is what one would expect if phenomenal agency tracks genuine causal efficacy" contradict the L95 preamble (installed 2026-09-21) "coherence rather than corroboration". Bring L99 into the preamble's register (coherence, not support). Length-neutral or negative. Locate by quoted text; sync both trees.
 
 ### ✓ 2026-09-24: `topics/presentiment-and-retrocausality` says presentiment "would be additional evidence if confirmed", inverting the parapsychology firewall
 - **Type**: refine-draft

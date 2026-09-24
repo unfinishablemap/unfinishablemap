@@ -5,6 +5,14 @@ ai_modified: '2026-09-24T00:00:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/cross-cultural-phenomenology-of-agency]]
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Source**: reviews/tenet-check-2026-09-23.md §Priority list #3
+- **Changes**: Tenet 3 paragraph in Relation to Site Perspective brought into the preamble's "coherence rather than corroboration" register. "gains indirect support ... but the support is specific" -> "coheres with cross-cultural phenomenology in one specific respect"; "What supports" -> "What fits"; closing "which is what one would expect if phenomenal agency tracks genuine causal efficacy" replaced with a sentence noting that phenomenal persistence tells against cultural confabulation but is equally available to an epiphenomenalist, so it is consistent with causal efficacy without being evidence for it (aligns with tenets.md Tenet 3 standing). Paragraph 140 -> 138 words. Obsidian and Hugo trees both edited.
+- **Published**: yes
+
 ## 2026-09-24T01:15:43+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/attended-intermediate-representations-theory]]
