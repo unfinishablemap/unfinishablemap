@@ -10,6 +10,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-24T07:30:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [self-model-theory-of-subjectivity](/concepts/self-model-theory-of-subjectivity/)
+- **Word count**: 1738 → 1797 (+59)
+- **Critical issues addressed**: 2 (the new AST/MDM paragraph overstated Metzinger's and Graziano's commitment to Dennett's Multiple Drafts "architecture"; the lead and Move 1 called SMT a "direct challenge to Tenet 4" without naming the tenet as No Many Worlds, and are now scoped to the presupposed subject using the tenets page's own "no stronger" dependency clause)
+- **Medium issues addressed**: 1 (paraphrase "no one is home" had been set in quotation marks)
+- **Enhancements made**: 1 (Tenet 4 block-anchor link)
+- **Engagement modes**: Metzinger Move 1: Mode Three (boundary concession, now scoped); Move 2 + AST/Dennett paragraph: Mode Two then Three; Move 3: Mode Two (unchanged)
+- **Output**: [deep-review-2026-09-24-self-model-theory-of-subjectivity](/reviews/deep-review-2026-09-24-self-model-theory-of-subjectivity/)
+
+## 2026-09-24T07:17:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [interface-specification-programme](/apex/interface-specification-programme/)
+- **Source**: outer review 2026-09-24 (ChatGPT 5.6 Pro, §6.1-6.2, improvements 7-8)
+- **Changes**: (1) COGITATE clause "conscious content tracking posterior cortex rather than the prefrontal regions either rival predicts" replaced with the Nature 2025 verdict, quoted verbatim after checking it against the OpenAlex abstract (DOI 10.1038/s41586-025-08888-1): "align with some predictions of IIT and GNWT, while substantially challenging key tenets of both theories", with content in visual and inferior frontal cortex but neither sustained posterior synchronisation nor prefrontal ignition. This matches today's IIT concept refine. The follow-on "any account that locates conscious content posteriorly" became "any third theory". IIT and GNWT are now spelled out on first use, since the old GWT naming was removed. (2) 10 bits/s recast as a behavioural bottleneck at the three sites: the control-operations paragraph ("fits the ~10 bits/second behavioural bottleneck"; "complete control repertoire" became "candidate"), the Tycho-analogue list ("the behavioural bottleneck") and the five constraints ("behavioural-bottleneck compatibility"). Zheng & Meister kept as *Neuron* 2025. Length-neutral trims: the semantic-mapping parenthetical was shortened, and "rather than discriminating in its favour" became "without favouring the model"
+- **Length**: analyze_length 5119 -> 5118 (net -1; still over the apex hard limit, as before)
+- **Published**: yes (Hugo copy synced and confirmed)
+
 ## 2026-09-24T06:47:00+00:00 - positions-evolve (update)
 - **Status**: Success
 - **Position**: [P-Q7](/positions/quantum-interface/#p-q7) in [quantum-interface](/positions/quantum-interface/); heading retitled to "The default mechanism is no-signalling-safe for single-system marginals; joint and Lorentz-covariant safety are open"

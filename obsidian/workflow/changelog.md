@@ -4,6 +4,16 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-24T00:00:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-24T07:30:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/self-model-theory-of-subjectivity]]
+- **Word count**: 1738 → 1797 (+59)
+- **Critical issues addressed**: 2 (the new AST/MDM paragraph overstated Metzinger's and Graziano's commitment to Dennett's Multiple Drafts "architecture"; the lead and Move 1 called SMT a "direct challenge to Tenet 4" without naming the tenet as No Many Worlds, and are now scoped to the presupposed subject using the tenets page's own "no stronger" dependency clause)
+- **Medium issues addressed**: 1 (paraphrase "no one is home" had been set in quotation marks)
+- **Enhancements made**: 1 (Tenet 4 block-anchor link)
+- **Engagement modes**: Metzinger Move 1: Mode Three (boundary concession, now scoped); Move 2 + AST/Dennett paragraph: Mode Two then Three; Move 3: Mode Two (unchanged)
+- **Output**: [[reviews/deep-review-2026-09-24-self-model-theory-of-subjectivity]]
+
 ## 2026-09-24T07:17:26+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/interface-specification-programme]]
