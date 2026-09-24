@@ -39,15 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `topics/presentiment-and-retrocausality` says presentiment "would be additional evidence if confirmed", inverting the parapsychology firewall
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/presentiment-and-retrocausality.md
-- **Source**: check-tenets
-- **Review file**: `reviews/tenet-check-2026-09-23.md` (§Priority list)
-- **Generated**: 2026-09-23
-- **Notes**: Driver-minted from tenet check 138 priority #2 (carried from check 137 #3). One-sentence fix: the Map's parapsychology firewall treats a confirmed psi/presentiment result as counting against minimal-interaction (Tenet 2), not as support; `parapsychology-firewall` = 0 hits in the file. Rewrite the sentence to the firewall's direction and add a zero-word piped link to [parapsychology-firewall](/topics/parapsychology-firewall/). Locate by quoted text; sync both trees.
-
 ### P2: `topics/cross-cultural-phenomenology-of-agency` Tenet 3 paragraph claims "indirect support" four lines after its own "coherence rather than corroboration" preamble
 - **Type**: refine-draft
 - **Status**: pending
@@ -1718,6 +1709,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: `topics/presentiment-and-retrocausality` says presentiment "would be additional evidence if confirmed", inverting the parapsychology firewall
+- **Type**: refine-draft
+- **File**: obsidian/topics/presentiment-and-retrocausality.md
+- **Notes**: Driver-minted from tenet check 138 priority #2 (carried from check 137 #3). One-sentence fix: the Map's parapsychology firewall treats a confirmed psi/presentiment result as counting against minimal-interaction (Tenet 2), not as support; `parapsychology-firewall` = 0 hits in the file. Rewrite the sentence to the firewall's direction and add a zero-word piped link to [parapsychology-firewall](/topics/parapsychology-firewall/). Locate by quoted text; sync both trees.
 
 ### ✓ 2026-09-24: `concepts/unity-of-consciousness` claims Kerskens-style initial support for Tenet 2 with no unreplicated caveat, and assigns Tenet 4 content ("unity reports become either false or contentless") the tenet does not hold
 - **Type**: refine-draft

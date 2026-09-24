@@ -5,6 +5,16 @@ ai_modified: '2026-09-24T00:00:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24T01:15:43+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/attended-intermediate-representations-theory]]
+- **Word count**: 2448 → 2507 (+59; three new References entries, prose trimmed)
+- **Critical issues addressed**: 3 (uncited NDPR discussion attributed to Mole 2013 + reference; unsourced schizophrenia example sourced to Mole; Jackendoff 1987 orphan referenced)
+- **Medium issues addressed**: 1 (indicative "attention is the site" softened to match the owned ensemble-level debt)
+- **Enhancements made**: 3 (Prinz quotes pinned to pp. 89/150 via two independent secondary sources; vague gamma hedge replaced with verbatim p. 293 formulation and Prinz's modal restriction; Prinz 2007 referenced)
+- **Engagement with Prinz/AIR**: Mode Three with a Mode Two element (modest/ambitious ambiguity shows the explanatory reading unearned)
+- **Output**: [[reviews/deep-review-2026-09-24-attended-intermediate-representations-theory]]
+
 ## 2026-09-24T01:01:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/presentiment-and-retrocausality]]
