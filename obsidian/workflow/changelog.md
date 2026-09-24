@@ -4,6 +4,14 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-24T08:16:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-24T08:45:58+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/causal-consistency-constraint]]
+- **Original score**: n/a (targeted dependent-propagation fix; `scripts/curate.py` absent)
+- **Changes**: "Form, Not Existence" L61 no longer says the theorem shows "any agent — physical or non-physical — ... must" deliver Born statistics, or that Born is what relativistic causality "*requires* of any participant". Restated as the two-part conditional used in `topics/born-rule-and-the-consciousness-interface` (if the result holds and if consciousness affects outcomes, the influence must preserve Born; the theorem supplies no model of consciousness and no role for a non-physical agent), scoped to single-system marginals, with the joint law pointed at P-Q10 (`positions/quantum-interface#^p-q10`). Propagates the 2026-09-24 P-Q7 scoping. 51 to 54 words, length-neutral. The L55 Map-side "any participant" inference was left as is because it is already labelled as the Map's inference, not the source's. Hugo synced, and the P-Q10 link renders.
+- **Review file**: reviews/outer-review-synthesis-2026-09-24.md (C3)
+- **Published**: yes
+
 ## 2026-09-24T08:16:00+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline — no merge). **16th consecutive**; the steady-state outcome per the candidate-pool memory.
 - **Section pressure** (live `tools.evolution.state.count_section_files`): topics 329 files (328 real articles + the `non-temporal-consciousness.refinement-log` sidecar)/360 (91.1%), concepts 327/360 (90.8%), voids 103/115 (89.6%). None critical.

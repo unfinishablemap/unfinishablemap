@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-09-04 13:55:39+00:00
+ai_modified: 2026-09-24 08:45:58+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-26 23:52:46+00:00
-lastmod: 2026-09-04 13:55:39+00:00
+lastmod: 2026-09-24 08:45:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,7 +62,7 @@ Torres Alegre's paper does not itself invoke consciousness. The result is stated
 
 The constraint determines the Born rule's functional form, given that probabilistic predictions exist. It does not generate probabilities from non-probabilistic premises. The Map's reading depends on this distinction.
 
-What the constraint accomplishes: it shows that any agent — physical or non-physical — that participates in measurement outcomes must, on pain of enabling superluminal signalling, deliver outcome statistics that converge to |⟨φ|ψ⟩|² in the limit. The Born rule is what relativistic causality *requires* of any participant in the actualisation event.
+What the constraint accomplishes is conditional: *if* the result holds and *if* consciousness affects outcomes, the influence must preserve Born statistics, since single-system deviations from |⟨φ|ψ⟩|² would enable superluminal signalling. The theorem supplies no model of consciousness and no role for a non-physical agent; it scopes single-system marginals, leaving the joint law open ([P-Q10](/positions/quantum-interface/#p-q10)).
 
 What the constraint does not accomplish: it does not explain why one outcome actualises rather than another, why the formalism contains probability rather than determinacy, or where the candidate set of measurement outcomes comes from. These remain open after the theorem, and they are the gaps the Map's interface reading is interested in. The transition from "probabilities over outcomes" to "this outcome actually occurred" is precisely the step the derivation presupposes.
 

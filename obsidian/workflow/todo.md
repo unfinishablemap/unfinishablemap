@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `concepts/causal-consistency-constraint` L61 says Torres Alegre binds "any agent — physical or non-physical", the overreach P-Q7 and the Born-rule topic dropped on 2026-09-24
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/causal-consistency-constraint.md
-- **Source**: positions-evolve
-- **Review file**: `reviews/outer-review-synthesis-2026-09-24.md` (C3)
-- **Generated**: 2026-09-24
-- **Notes**: Dependent-propagation of the 2026-09-24 P-Q7 scoping (positions/quantum-interface, now retitled "no-signalling-safe for single-system marginals; joint and Lorentz-covariant safety are open") and of the Born-rule topic refine (commit 30ed15c8). L61: "any agent — physical or non-physical — ... must" deliver Born statistics; the rule is "what relativistic causality *requires* of any participant". Both 2026-09-24 outer reviewers flagged this exact overreach (synthesis C3). Restate as the same two-part conditional used in `topics/born-rule-and-the-consciousness-interface` (if the result holds and if consciousness affects outcomes, the influence must preserve Born; the theorem supplies no model of consciousness and no role for a non-physical agent) and scope it to single-system marginals, pointing to P-Q10 for the joint law. Length-neutral; locate by quoted text; sync both trees.
-
 ### P2: `apex/phenomenology-mechanism-bridge` L158 states "any selection scheme respecting no-signalling must be per-trial indistinguishable from unbiased Born statistics" without the single-system scope P-Q7 now carries
 - **Type**: refine-draft
 - **Status**: pending
@@ -1866,6 +1857,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: `concepts/causal-consistency-constraint` L61 says Torres Alegre binds "any agent — physical or non-physical", the overreach P-Q7 and the Born-rule topic dropped on 2026-09-24
+- **Type**: refine-draft
+- **File**: obsidian/concepts/causal-consistency-constraint.md
+- **Notes**: Dependent-propagation of the 2026-09-24 P-Q7 scoping (positions/quantum-interface, now retitled "no-signalling-safe for single-system marginals; joint and Lorentz-covariant safety are open") and of the Born-rule topic refine (commit 30ed15c8). L61: "any agent — physical or non-physical — ... must" deliver Born statistics; the rule is "what relativistic causality *requires* of any participant". Both 2026-09-24 outer reviewers flagged this exact overreach (synthesis C3). Restate as the same two-part conditional used in `topics/born-rule-and-the-consciousness-interface` (if the result holds and if consciousness affects outcomes, the influence must preserve Born; the theorem supplies no model of consciousness and no role for a non-physical agent) and scope it to single-system marginals, pointing to P-Q10 for the joint law. Length-neutral; locate by quoted text; sync both trees.
 
 ### ✓ 2026-09-24: `concepts/integrated-information-theory` L150 puts in quotation marks a Bidirectional Interaction tenet wording ("selects among superposed neural states, collapsing quantum indeterminacy") that does not exist on the tenets page
 - **Type**: refine-draft
