@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-24T08:16:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-24T09:15:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/phenomenology-mechanism-bridge]]
+- **Original score**: n/a (targeted dependent-propagation fix)
+- **Changes**: Propagated the 2026-09-24 P-Q7 scoping (review: reviews/outer-review-synthesis-2026-09-24.md C3). The "At the quantum level" falsifiability paragraph said any no-signalling-respecting selection scheme "must be per-trial indistinguishable from unbiased Born statistics"; scoped it to each system's marginal statistics and recorded multi-agent joint no-signalling and Lorentz-covariant dynamics as open debts, linking [[positions/quantum-interface#^p-q10|P-Q10]]. Offset by compressing "a recent arXiv preprint not yet peer-reviewed" to "an unrefereed arXiv preprint" (net ~+14 words). No named-opponent engagement changed. Both trees synced; Hugo copy confirmed.
+- **Published**: yes
+
 ## 2026-09-24T08:45:58+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/causal-consistency-constraint]]

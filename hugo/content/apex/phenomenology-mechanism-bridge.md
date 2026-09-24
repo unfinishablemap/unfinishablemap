@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-09-16 20:38:57+00:00
+ai_modified: 2026-09-24 09:15:54+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 apex_last_synthesis: 2026-05-25 00:00:00+00:00
 apex_sources:
@@ -42,7 +42,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 02:37:50+00:00
-lastmod: 2026-09-16 20:38:57+00:00
+lastmod: 2026-09-24 09:15:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -164,7 +164,7 @@ The chain is falsifiable at each level and at the connections between them.
 
 **At the neural level**: If voluntary action timing and selection could be fully predicted from prior neural states with near-perfect accuracy, the selection gap would close. Current prediction accuracy for simple binary choices remains around 60% (Soon et al. 2008). Conversely, what would *strengthen* the case is a specific deviation: in Schurger-style self-paced movement tasks, if conscious selection biases threshold-crossing, voluntary actions should show systematic deviations from drift-diffusion statistics between passive and actively willed conditions. No such deviation has yet been demonstrated — and no effect size is honestly attachable to the prediction, because the coupling model that would derive one is exactly what [P-Q10](/positions/quantum-interface/#p-q10) records as missing. The prediction stays qualitative until that debt is paid.
 
-**At the quantum level**: If quantum coherence were proven physically impossible in brain tissue at any relevant timescale, the Zeno *candidate* would fail — though, as noted at Level Three, the phenomenal-biasing architecture could in principle be carried by an alternative implementation. If the many-worlds interpretation were empirically confirmed, the deeper account of singular selection would fail outright. A subtler challenge comes from the [causal-consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025, a recent arXiv preprint not yet peer-reviewed): any selection scheme respecting no-signalling must be per-trial indistinguishable from unbiased Born statistics. This forbids per-trial discrimination *by construction* — a structural feature of the Map's minimal-interaction commitment, not an evasion of falsification. The framework would inherit the degenerating-research-programme problem only if the surviving ensemble- and correlation-level tests (sequential-dependency, intention-versus-spontaneity contrasts) also returned null at brain-internal precision; those tests have not yet been run, and the verdict is open.
+**At the quantum level**: If quantum coherence were proven physically impossible in brain tissue at any relevant timescale, the Zeno *candidate* would fail — though, as noted at Level Three, the phenomenal-biasing architecture could in principle be carried by an alternative implementation. If the many-worlds interpretation were empirically confirmed, the deeper account of singular selection would fail outright. A subtler challenge comes from the [causal-consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025, an unrefereed arXiv preprint): any selection scheme respecting no-signalling must leave each system's marginal statistics per-trial indistinguishable from unbiased Born statistics — multi-agent joint no-signalling and Lorentz-covariant dynamics stay open debts ([P-Q10](/positions/quantum-interface/#p-q10)). This forbids per-trial discrimination *by construction* — a structural feature of the Map's minimal-interaction commitment, not an evasion of falsification. The framework would inherit the degenerating-research-programme problem only if the surviving ensemble- and correlation-level tests (sequential-dependency, intention-versus-spontaneity contrasts) also returned null at brain-internal precision; those tests have not yet been run, and the verdict is open.
 
 **At the metaphysical level**: If a compatibilist account could deliver genuine sourcehood — explaining not just reasons-responsiveness but why those reasons are *the agent's* — the motivation for agent causation would weaken.
 
