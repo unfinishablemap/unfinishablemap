@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-24T21:31:07+00:00 - refine-draft
+- **Status**: Success
+- **File**: [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) (+ [constitution-vs-causal-work](/concepts/constitution-vs-causal-work/))
+- **Original score**: n/a (targeted fix from reviews/optimistic-2026-09-14-exclusion-mental-causation-wing.md, Process Philosopher / Hardline Empiricist conflict)
+- **Changes**: Hedged three possibility-to-probability loci to the wing's "compatible with rather than compels" standard: asymbolia vs Kim ("strongest counter-evidence" -> shared explanandum that constrains rather than refutes; a valence-prior account predicts it too); placebo loop ("exactly what interactionist dualism predicts" -> equally predicted by the access-level reading); evolutionary calibration ("The simpler explanation" -> "The interactionist explanation" plus the co-optimization reply named as a live rival the dissociation evidence constrains without discriminating against, consistent with evolutionary-case-for-mental-causation's rewritten bullet). Piped "contribute causally beyond the physical base" to [constitution-vs-causal-work](/concepts/constitution-vs-causal-work/); repointed Kim's exclusion link to canonical [causal-exclusion-argument](/concepts/causal-exclusion-argument/). Added the pain article to constitution-vs-causal-work's deployer catalogue. Engagement with Kim / epiphenomenalist: Mode Three at the asymbolia and calibration loci (framework boundary marked, not refutation). Words: 3778 -> 3851 (topics hard 4000); concept page 2019 -> 2060.
+- **Published**: yes
+
 ## 2026-09-24T21:15:44+00:00 - deep-review
 - **Status**: Success
 - **File**: [visual-consciousness](/concepts/visual-consciousness/)

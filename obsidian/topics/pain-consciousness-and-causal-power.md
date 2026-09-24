@@ -4,7 +4,7 @@ description: "Pain is the hard problem made personal, and the sharpest pressure 
 created: 2026-02-09
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-09-05T19:27:00+00:00
+ai_modified: 2026-09-24T21:31:07+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -139,7 +139,7 @@ When you touch a hot stove, the nociceptive signal travels through C-fibres and 
 
 The epiphenomenalist insists the withdrawal would occur identically without conscious experience. But this conflates the initial spinal reflex (which is indeed unconscious and automatic) with the sustained behavioural response that follows. The spinal reflex yanks your hand away. Consciousness determines what happens next: whether you run cold water over the burn, avoid the stove for hours afterward, or develop a lasting wariness. These extended responses track the *felt severity* of the pain, not merely the magnitude of tissue damage.
 
-Asymbolia makes this vivid from the other direction. When the felt awfulness is absent, the extended behavioural response collapses — despite intact nociceptive detection. If the awfulness were identical to the functional state, removing it while preserving damage-detection would be impossible. What asymbolia suggests is that phenomenal character may be a distinct contributor to motivation, not reducible to the information-processing role. This is precisely what Kim's [[mental-causation-and-downward-causation|causal exclusion argument]] denies — that phenomenal properties contribute causally beyond the physical base — and pain provides the strongest counter-evidence.
+Asymbolia makes this vivid from the other direction. When the felt awfulness is absent, the extended behavioural response collapses — despite intact nociceptive detection. If the awfulness were identical to the functional state, removing it while preserving damage-detection would be impossible. What asymbolia suggests is that phenomenal character may be a distinct contributor to motivation, not reducible to the information-processing role. This is precisely what Kim's [[causal-exclusion-argument|causal exclusion argument]] denies — that phenomenal properties [[constitution-vs-causal-work|contribute causally beyond the physical base]] — and pain is where that denial is most exposed. The dissociation itself is a shared explanandum, though: a valence-prior account predicts it too, so it constrains Kim's reading rather than refuting it.
 
 ### Quality-Action Mapping
 
@@ -151,13 +151,13 @@ If the causal work is done entirely by neural patterns and phenomenal quality is
 
 The *anticipation* of pain — conscious dread of a future painful event — motivates behaviour before any nociceptive signal exists. A patient dreading a dental procedure changes behaviour for days: cancelling appointments, losing sleep, altering plans. No tissue damage has occurred. No C-fibres are firing. What drives the avoidance is a phenomenal state — the imagined awfulness of future pain.
 
-The [[empirical-phenomena-mental-causation|placebo effect]] appears to make the complementary point. Expecting pain relief — a conscious belief about future phenomenal states — can produce measurable opioid release and genuine analgesia. The *expectation of how things will feel* causally influences physiology. This closed loop between phenomenal expectation and phenomenal outcome is exactly what interactionist dualism predicts.
+The [[empirical-phenomena-mental-causation|placebo effect]] appears to make the complementary point. Expecting pain relief — a conscious belief about future phenomenal states — can produce measurable opioid release and genuine analgesia. The *expectation of how things will feel* causally influences physiology. This closed loop between phenomenal expectation and phenomenal outcome is what interactionist dualism predicts, though an access-level reading, on which the expectation's functional role does the work, predicts it equally; the loop is compatible with rather than compels the interactionist reading.
 
 ## Why Pain Is the Hardest Case for Epiphenomenalism
 
 The [[evolutionary-case-for-mental-causation|evolutionary argument]] against epiphenomenalism is strongest for pain. The elaborate phenomenal architecture of pain — its graded intensity tracking tissue damage, its qualitative variety matching damage type, its attention-monopolising urgency proportional to threat severity — would be a staggering accident if consciousness were causally inert.
 
-The epiphenomenalist may respond that pain experience necessarily [[supervenience|supervenes]] on the functional states natural selection actually selected. But this generates a further question: *why this particular [[supervenience]] mapping?* Why should C-fibre activation at intensity X produce *this* degree of awfulness? If the awfulness is causally inert, natural selection never "saw" it and could not have tuned the supervenience relation. The simpler explanation: pain hurts *because* the hurting drives avoidance, and evolution calibrated the phenomenal intensity to the survival stakes.
+The epiphenomenalist may respond that pain experience necessarily [[supervenience|supervenes]] on the functional states natural selection actually selected. But this generates a further question: *why this particular [[supervenience]] mapping?* Why should C-fibre activation at intensity X produce *this* degree of awfulness? If the awfulness is causally inert, natural selection never "saw" it and could not have tuned the supervenience relation. The interactionist explanation: pain hurts *because* the hurting drives avoidance, and evolution calibrated the phenomenal intensity to the survival stakes. The [[co-optimization-reply-to-the-correlation-problem|co-optimization reply]] is a rival non-causal explanation of the same calibration, which the dissociation evidence constrains without yet discriminating against.
 
 [[philosophical-zombies|Philosophical zombies]] who respond to tissue damage exactly as humans do — wincing, crying out, seeking medical attention — but who feel nothing sharpen the point. A pain-zombie's "pain behaviour" is empty performance. If we can coherently conceive of this, then pain behaviour does not entail pain experience, and the experience itself must be something beyond the functional organisation.
 

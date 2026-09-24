@@ -4,7 +4,7 @@ description: "Where the Map and predictive-processing rivals actually disagree: 
 created: 2026-06-04
 modified: 2026-06-04
 human_modified:
-ai_modified: 2026-09-09T10:21:07+00:00
+ai_modified: 2026-09-24T21:31:07+00:00
 last_deep_review: 2026-09-09T10:21:07+00:00
 draft: false
 topics:
@@ -76,6 +76,7 @@ The distinction is currently deployed inline across several articles, each stati
 - **[[consciousness-and-causal-powers]]**, in its *Phenomenal Biasing* section — the architecture-level deployment, which separates the claim that consciousness exercises influence by being phenomenally laden from any single implementation mechanism. Since that article's September 2026 revision the bridge there is stated against predictive processing's most demanding form, the beautiful-loop account of Laukkonen, Friston and Chandaria (2025), so the constitution side is occupied by *the recursion* rather than by computational role in general. The locus is unchanged; what sits on the constitution side of it has been sharpened.
 - **[[predictive-processing-and-dualism]]** — the full-strength engagement with that account, and the most explicit statement anywhere in the catalogue of what the causal-work reading does and does not claim: the recursion the theory offers "specifies but does not generate" the felt side, and the residue is marked as a framework boundary rather than a refutation in either direction.
 - **[[co-optimization-reply-to-the-correlation-problem]]** — applies the move to the evolutionary case, noting that asymbolia and congenital-insensitivity evidence is "equally consistent" with both readings, so compatibility must not be presented as confirmation.
+- **[[pain-consciousness-and-causal-power]]** — deploys the causal-work side against Kim's exclusion argument and the epiphenomenalist's calibration puzzle, while conceding that asymbolia is a shared explanandum and that the placebo loop and evolutionary calibration are compatible with, rather than compelling, the causal-work reading.
 - **[[delegatory-causation]]** — supplies a *positive mechanism* (Saad's experiences inheriting a physical state's "default causal profile") on the causal-work side of the bridge, rather than naming the dialectical locus itself.
 - **[[bidirectional-interaction]]** and **[[phenomenal-transparency-opacity-spectrum]]** — use "consciousness doing causal work" against deflationary rivals, the same surplus the causal-work reading defends.
 
