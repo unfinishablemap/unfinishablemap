@@ -4,8 +4,9 @@ description: "Cortical organoids and anthrobots have architecture but no ancestr
 created: 2026-09-21
 modified: 2026-09-21
 human_modified:
-ai_modified: 2026-09-21T20:12:49+00:00
+ai_modified: 2026-09-24T03:16:22+00:00
 draft: false
+anchoring_audit_exempt: true  # 2026-09-24 false high: both strong-assertion hits are benign (defeater-removal, L64/L80); calibration is structural (unapplied-not-confirmed verdict, hardline-empiricist section, open-questions list)
 topics:
   - "[[brain-organoids-and-the-organoid-intelligence-question]]"
   - "[[synthetic-minimal-agents-and-the-engineered-decoupling]]"
@@ -110,11 +111,11 @@ Nothing has come in on any of the four. That is weaker than having been tested a
 
 **[[tenets#^dualism|Dualism]]** is what makes the question take this shape. A physicalist asks which systems *constitute* consciousness and can in principle read the answer off the organisation, so a complete build specification would be a partial answer. The Map asks which systems consciousness *couples with*, and a coupling question is not answered by a constitution fact. That the phenomenal question survives a complete build specification intact is what dualism leads us to expect — though it does not by itself decide between dualism and a functionalism locating experience in an organisation these systems happen not to realise.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** constrains the substrate without settling adequacy. The engagement article's formulation is the right one: this tenet concerns influence rather than presence. Quantum indeterminacies are where influence is exercised once a subject is present, and the tenet says nothing about whether one is. It does supply a working allocation rule — do not posit an interface where there is no machinery to host one — and that rule dispatches anthrobots and synthetic cells cleanly. It does not dispatch organoids, because the neural machinery is really there. The Map marks the anthrobot verdict as framework-relative rather than as a finding.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** constrains the substrate without settling adequacy. The engagement article's formulation is the right one: this tenet concerns influence rather than presence. Quantum indeterminacies are where influence is exercised once a subject is present, and the tenet says nothing about whether one is. It does supply a working allocation rule — do not posit an interface where there is no machinery to host one — and that rule dispatches anthrobots and synthetic cells, though only on the criterion's neural wording. It does not dispatch organoids, because the neural machinery is really there. The Map marks the anthrobot verdict as framework-relative rather than as a finding.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** predicts that consciousness contributes causally to behaviour wherever it couples, which looks like a handle on the built cases and is not one. A built system's behaviour is accounted for by its build record, leaving no causal remainder to attribute. But the builders' own record is incomplete — syn3.0 carries 149 genes with unknown biological functions (Hutchison et al. 2016) — so "no remainder visible in the specification" falls short of "no remainder." Engineered agency does not entail engineer's transparency.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** keeps the question determinate, and this is where the built cases bear on the tenet most directly. Schwitzgebel (2023) argues that some systems have no determinate fact as to whether experience is present, and Schwitzgebel and Nelson (2026) extend the indeterminacy to subject-counting. An organoid is close to a paradigm case for that reading — real neurons, no unity of body or biography, no principled way to say how many subjects a dish might hold. The Map's commitment to indexical determinacy means it must hold that there is a fact here, and it does so while admitting, per Antony's (2006) conditional, that the ground of such a fact cannot be one of the complex — and so vague — physical properties on which the common dualisms rest. The built cases make the cost of that commitment unusually visible.
+**[[tenets#^no-many-worlds|No Many Worlds]]** bears on the built cases only at one remove. Schwitzgebel (2023) argues that some systems have no determinate fact as to whether experience is present, and Schwitzgebel and Nelson (2026) extend the indeterminacy to subject-counting. An organoid is close to a paradigm case for that reading — real neurons, no unity of body or biography, no principled way to say how many subjects a dish might hold. The Map holds that there is a fact here, but that commitment comes from its [[tenets/background-commitments|determinate-subject posit]], not from rejecting many-worlds, which secures indexical identity and no more — branch-relative accounts deliver determinate facts too. It holds the commitment while admitting, per Antony's (2006) conditional, that the ground of such a fact cannot be one of the complex — and so vague — physical properties on which the common dualisms rest. The built cases make the cost of that commitment unusually visible.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** is the tenet doing most of the work. Both cheap collapses are parsimony moves — *it's alive and organised, so stop there*; *it's artificial, so stop there* — and each is simpler than holding the question open. Incomplete knowledge is exactly the condition under which simplicity misleads, and the Map's own criteria being silent on provenance is a case of that incompleteness showing.
 
@@ -128,7 +129,7 @@ Nothing has come in on any of the four. That is weaker than having been tested a
 - [[consciousness-in-simple-organisms]] — Where the adequacy question is asked of organisms the marker method can reach
 - [[apex/competency-without-felt-experience|Competency Without Felt Experience]] — The synthesis this cluster feeds
 - [[falsification-roadmap-for-the-interface-model]] — Where the falsifiability burden this article inherits is taken on
-- [[tenets]] — The five commitments, with Tenets 4 and 5 the primary stakes
+- [[tenets]] — The five commitments, with Tenet 5 the primary stake
 
 ## References
 

@@ -5,6 +5,14 @@ ai_modified: '2026-09-24T00:00:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24T03:16:22+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/architectural-adequacy-at-the-built-edge]]
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Source**: topic-concept anchoring audit 2026-09-23 (anchor [[substrate-independence]]) + reviews/tenet-check-2026-09-23.md Family I / §Warnings
+- **Changes**: Anchoring flag adjudicated a FALSE HIGH: the only two strong-assertion hits ("shows that", L64 and L80) are benign, and the L80 one sits inside a defeater-removal disclaimer. Calibration is structural (the verdict is "unapplied, not confirmed", there is a hardline-empiricist concession section, and an open-questions list says "nothing has come in"). Added `anchoring_audit_exempt: true` in the first 1500 bytes and verified `_is_anchoring_exempt` → True. No hedge padding. Fixed the three genuine tenet-check loci length-neutrally: (1) No-MWI paragraph: dropped "keeps the question determinate … bear on the tenet most directly", and the determinacy commitment is now credited to the determinate-subject background posit ([[tenets/background-commitments]]), with No-MWI securing only indexical identity and branch-relative determinacy conceded, matching the unity-of-consciousness precedent; (2) the Minimal Quantum Interaction paragraph's "dispatches anthrobots and synthetic cells cleanly" is now qualified as holding "only on the criterion's neural wording", which matches the body's own L62; (3) Further Reading "Tenets 4 and 5 the primary stakes" → "Tenet 5 the primary stake". The L119 "doing most of the work" line was left alone because the tenet check downgraded it (defensive use allowed). Hugo synced.
+- **Published**: yes
+
 ## 2026-09-24T02:47:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/language-thought-boundary]]
