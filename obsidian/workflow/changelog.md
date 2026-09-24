@@ -5,6 +5,15 @@ ai_modified: '2026-09-24T00:00:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24T04:36:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5.5 (full-site audit, subject reused from ChatGPT same-day commission)
+- **File**: [[reviews/outer-review-2026-09-24-claude-opus-5-5]]
+- **Extraction**: js-dom walk + Blob download (35,713 chars, body stable across 10s sentinel)
+- **Claims verified**: 12 (8 confirmed, 4 disputed — Laukkonen false-absence, List citation "merge", tenet-level List scoping, Stapp inversion partly overstated)
+- **High-value findings**: 5
+- **Tasks generated**: 5 (P1: 1, P2: 4)
+
 ## 2026-09-24T03:49:12+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Pro (full-site audit, subject `fallback:site-stale-7d`)
