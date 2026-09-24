@@ -87,9 +87,9 @@
   commissioned_at: '2026-09-24T02:02:45.882072+00:00'
   prompt_summary: 'Full-site audit: insights, structural weaknesses, tenet coherence'
   target_filename: outer-review-2026-09-24-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-24T03:46:52.280663+00:00'
   failure_reason: null
   prompt_text: 'Act as a rigorous external referee for The Unfinishable Map (https://unfinishablemap.org),
     a philosophy site that argues from five tenets: dualism about consciousness, minimal

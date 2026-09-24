@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-24T03:49:12+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (full-site audit, subject `fallback:site-stale-7d`)
+- **File**: [outer-review-2026-09-24-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-09-24-chatgpt-5-6-sol-pro/)
+- **Extraction**: page-side Blob download, SHA-256 matched (52,362 bytes); render complete
+- **Claims verified**: 9 verified (COGITATE against the Nature abstract via OpenAlex; Torres Alegre scope at arXiv; 7 Map loci grep-confirmed live), 2 already fixed (unity-of-consciousness `7f66c3980e`, presentiment), 1 fixed only in part (IIT; the defect is worse than stated: L150 quotes a tenet wording absent from `tenets.md`), 3 disputed or weaker than stated
+- **High-value findings**: [P-Q7](/positions/quantum-interface/#p-q7) over-scopes no-signalling beyond single-system marginals; COGITATE misstated in the ISP apex and one sibling; the 10 bits/s figure called an interface constraint against the apex's own caveat; self-concealment asserted as forced; functionalism-argument non-entailment turned into impossibility; CMB definiteness booked as evidence; [P-CS6](/positions/consciousness-scope/#p-cs6) breaches; the unminted tenet-check 09-20/09-23 priority lists; novel census-circularity, minimality-vector and inheritance debts
+- **Tasks generated**: 13 (P1: 3, P2: 10). Addenda (no new task): the BPCE do(C) blocked P3 (re-raised, plus phenomenal-partition invariance), NEEDS-HUMAN foundations (subjecthood/constitution), NEEDS-HUMAN methodology ratification (propagation; tenet-check lists unminted)
+
 ## 2026-09-24T03:33:06+00:00 - deep-review
 - **Status**: Success
 - **File**: [the-relocation-objection](/concepts/the-relocation-objection/)
