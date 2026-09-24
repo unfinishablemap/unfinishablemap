@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-24T00:00:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-24T06:16:22+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/born-rule-and-the-consciousness-interface]]
+- **Original score**: 7/10 (scripts/curate.py absent; manual review)
+- **Changes**: (1) Status vs evidence (convergent claude+chatgpt): corridor kept as working hypothesis but now labelled a tenet-level framework choice held at *interface-compatible* grade, not a conclusion the evidence ladder licenses (taxonomy row and MQI section); outright demotion declined as a position change. (2) Stapp: removed "Sympathetic readings of Stapp (without Zeno)" from the corridor, citing his "in contrast to Eccles" refusal of probability control (consistent with concepts/stapp-quantum-mind @06064f2b); added a Question-choice dualism (Process-1-only) family, conceded it is more minimal by Tenet 2, and named the libertarian free-will payoff as the motivated reason the Map does not default to it ("Three families" -> "Four"). (3) Torres Alegre (convergent; cf. P-Q7): "what relativistic causality requires of any agent, physical or non-physical" replaced by an explicit double conditional; theorem supplies no model of consciousness and no role for a non-physical agent; MQI preference separated as an independent tenet-level reason. Offsetting trims in the Gleason sentence, qualifications paragraph, and final caveat. Engagement with the outer reviewers' demotion demand: framework-boundary marking (status honestly graded, not refuted); Torres Alegre overreach: defective on the Map's own terms, corrected by conditionalising. analyze_length 5328 -> 5448 (+120; already hard_warning before). P-Q7 in positions/quantum-interface already scopes Torres Alegre as compatibility-only; no edit needed there from this pass.
+- **Published**: yes
+
 ## 2026-09-24T06:01:16+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/stapp-quantum-mind]]

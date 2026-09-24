@@ -54,15 +54,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: research-harvest
 - **Generated**: 2026-09-24
 
-### P1: `concepts/stapp-quantum-mind` concedes at L64 that Stapp declines probability control, then L106 (Kane section) says "The agent's attention biases outcomes" — restate the free-will and sufficiency claims as Process-1 question-choice / Zeno-holding, not outcome-biasing
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/stapp-quantum-mind.md
-- **Review file**: `reviews/outer-review-2026-09-24-claude-opus-5-5.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-24
-- **Notes**: From outer review 2026-09-24 (Claude Opus 5.5, §3). Grep-verified on disk: L64 says direct probability control "is a move he declines, and it is the move the Map's own corridor reading makes"; L106 in "Free Will and Self-Forming Actions" says "At quantum branch points, physics provides probabilities without determining particulars. The agent's attention biases outcomes through repeated observation"; L108 claims the selection is "*not mysterious* (mechanism specified)". The reviewer also quotes "consciousness provides the sufficiency" (grep -c = 1 on this page; locate it). Primary source web-verified 2026-09-24: Stapp's reply to Bourget (LBNL-55887, 26 July 2004) says he is "thoroughly committed to strict adherence to the orthodox statistical rules, in contrast to Eccles's suggestion that these laws are biased by mental effort". **Caution, the reviewer overreaches**: in Stapp's Zeno model, attention *does* change which neural pattern persists, by choosing which question is asked and how often. That is legitimate within orthodox QM and is not Born-bending. So the fix is precision, not deletion. Rewrite L106 and the sufficiency sentence so the agent's contribution is question-choice and rapid-repetition holding, not biasing nature's answer. Keep Kane's conditions satisfied on that reading if they can be. If they cannot, say so. Check the L47 "suggestive support" framing of the Schwartz OCD data (n=18, single group, the page itself grants materialist fit) and demote it if it is unhedged. Optionally quote the LBNL-55887 "in contrast to Eccles" sentence beside the L64 concession. Length-neutral where possible.
-
 ### P1: `topics/born-rule-and-the-consciousness-interface` L163 files "Sympathetic readings of Stapp (without Zeno)" in the corridor and calls it "the Map's working hypothesis" while the same article grades the reading below interface-suggestive — reconcile status and taxonomy
 - **Type**: refine-draft
 - **Status**: pending
@@ -1867,6 +1858,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: `concepts/stapp-quantum-mind` concedes at L64 that Stapp declines probability control, then L106 (Kane section) says "The agent's attention biases outcomes" — restate the free-will and sufficiency claims as Process-1 question-choice / Zeno-holding, not outcome-biasing
+- **Type**: refine-draft
+- **File**: obsidian/concepts/stapp-quantum-mind.md
+- **Notes**: From outer review 2026-09-24 (Claude Opus 5.5, §3). Grep-verified on disk: L64 says direct probability control "is a move he declines, and it is the move the Map's own corridor reading makes"; L106 in "Free Will and Self-Forming Actions" says "At quantum branch points, physics provides probabilities without determining particulars. The agent's attention biases outcomes through repeated observation"; L108 claims the selection is "*not mysterious* (mechanism specified)". The reviewer also quotes "consciousness provides the sufficiency" (grep -c = 1 on this page; locate it). Primary source web-verified 2026-09-24: Stapp's reply to Bourget (LBNL-55887, 26 July 2004) says he is "thoroughly committed to strict adherence to the orthodox statistical rules, in contrast to Eccles's suggestion that these laws are biased by mental effort". **Caution, the reviewer overreaches**: in Stapp's Zeno model, attention *does* change which neural pattern persists, by choosing which question is asked and how often. That is legitimate within orthodox QM and is not Born-bending. So the fix is precision, not deletion. Rewrite L106 and the sufficiency sentence so the agent's contribution is question-choice and rapid-repetition holding, not biasing nature's answer. Keep Kane's conditions satisfied on that reading if they can be. If they cannot, say so. Check the L47 "suggestive support" framing of the Schwartz OCD data (n=18, single group, the page itself grants materialist fit) and demote it if it is unhedged. Optionally quote the LBNL-55887 "in contrast to Eccles" sentence beside the L64 concession. Length-neutral where possible.
 
 ### ✓ 2026-09-24: Adopt substrate-independence calibration in architectural-adequacy-at-the-built-edge
 - **Type**: refine-draft

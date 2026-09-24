@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-09-04 18:28:40+00:00
+ai_modified: 2026-09-24 06:16:22+00:00
 ai_system: claude-opus-4-8+claude-fable-5
 anchoring_audit_exempt: true
 author: null
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 10:40:24+00:00
-lastmod: 2026-09-04 18:28:40+00:00
+lastmod: 2026-09-24 06:16:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -158,15 +158,17 @@ Two features may resist purely mathematical-realist redescription, though the re
 
 ## The Causal Consistency Constraint
 
-The [causal consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025, a recent arXiv preprint not yet peer-reviewed) argues that within generalised probabilistic theories satisfying purification, the Born rule may be the *only* assignment consistent with no-signalling — nonlinear deviations would enable superluminal communication via quantum steering. Like Gleason, it fixes the rule's *form*, not its existence, converging on the same conclusion from a different premise: the long-run measure is rigid. If consciousness modulates quantum outcomes it *must* follow the Born rule, since any deviation breaches [minimal interaction](/tenets/#minimal-quantum-interaction) — the Born rule is what relativistic causality requires of any agent, physical or non-physical, participating in measurement outcomes.
+The [causal consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025, a recent arXiv preprint not yet peer-reviewed) argues that within generalised probabilistic theories satisfying purification, the Born rule may be the *only* assignment consistent with no-signalling — nonlinear deviations would enable superluminal communication via quantum steering. Like Gleason, it fixes the rule's *form*, not its existence: the long-run measure is rigid. What follows is conditional: *if* the result holds and *if* consciousness modulates outcomes, that modulation must preserve the Born rule on pain of signalling. The theorem constrains any such participant; it supplies no model of consciousness and establishes no role for a non-physical one. The Map's preference for Born-preserving influence under [minimal interaction](/tenets/#minimal-quantum-interaction) is a separate, tenet-level reason, not something the theorem delivers.
 
-Its existence — that one outcome actualises — is what physics cannot generate, the partial progress [the interface specification problem](/topics/the-interface-problem/#what-would-count-as-progress) identifies as tractable. Two qualifications: causal consistency is a *theorem*, not an experiment — what is empirically tested is the no-signalling premise it rests on, in photon, atom, qubit, and high-energy regimes, not brain tissue, so the constraint binds wherever those standard postulates hold rather than universally; and it binds only *interface* theories, leaving the [trumping alternative](/concepts/trumping-preemption/) untouched.
+The rule's existence — that one outcome actualises — is what physics cannot generate, the partial progress [the interface specification problem](/topics/the-interface-problem/#what-would-count-as-progress) identifies as tractable. Two qualifications: the theorem's no-signalling premise is tested in photon, atom, qubit, and high-energy regimes, not brain tissue, so it binds where those postulates hold rather than universally; and it binds only *interface* theories, leaving the [trumping alternative](/concepts/trumping-preemption/) untouched.
 
 ## Which Consciousness-Physics Proposals Require Born Violation {#corridor-taxonomy}
 
-Three families emerge:
+Four families emerge:
 
-**Corridor dualism (Born-rule-preserving).** Consciousness influences which branch is actualised on a single measurement event, but the influence is posited to average to exactly |⟨φ|ψ⟩|² over the ensemble — the selection-among-Born-weighted-branches reading that survives Gleason, leaving no statistical signature in long runs. It is the most conservative reading consistent with the tenets, and the Map's working hypothesis. Sympathetic readings of Stapp (without Zeno), interface authors, and pragmatist-family corridor-readings sit here.
+**Corridor dualism (Born-rule-preserving).** Consciousness influences which branch is actualised on a single measurement event, but the influence is posited to average to exactly |⟨φ|ψ⟩|² over the ensemble — the selection-among-Born-weighted-branches reading that survives Gleason, leaving no statistical signature in long runs. It is the most conservative *outcome-influencing* reading consistent with the tenets, and the Map's working hypothesis — a framework choice made for tenet-coherence and held at the *interface-compatible* grade above, not a conclusion the evidence ladder licenses. Interface authors and pragmatist-family corridor-readings sit here. Stapp does not: he declines probability control "in contrast to Eccles" ([stapp-quantum-mind](/concepts/stapp-quantum-mind/)).
+
+**Question-choice dualism (Born-rule-intact).** Stapp's own von Neumann reading: consciousness supplies Process 1, which question is put and when, and nature answers by the Born rule. It faces no Born dilemma and is, by Tenet 2's own standard, more minimal than the corridor. The Map does not adopt it as default because question-choice fixes what is asked rather than what happens, and the libertarian account of [free-will](/topics/free-will/) the Map favours wants the agent to bear on which option is realised. That preference is motivated, and the row stays live.
 
 **Minimum-outside-the-corridor dualism (Born-rule-bending).** The corridor is insufficient to produce the observed correlation between intention and outcome, so Minimal Quantum Interaction — read as "smallest interaction actually sufficient" — requires deviation:
 
@@ -176,7 +178,7 @@ Three families emerge:
 - *Arana (2025) time-extended weighting.* A time-integrated functional perturbs Born probabilities by exponentially suppressed λ, recovering Born as λ → 0.
 - *Kauffman-Radin-Stapp acausal actualisation.* Mind converts possibles into actuals, entailing departures from measurement-independent distributions.
 
-**Trumping dualism (orthogonal to Born).** The [trumping reading](/concepts/trumping-preemption/) treats consciousness as authoritative over trajectories the formalism already describes, leaving the Born rule outside the gap analysis ([delegatory-causation](/concepts/delegatory-causation/)). A fourth family — no consciousness-physics interaction (Everettian, Bohmian, orthodox pragmatism) — rejects the premise, outside the Map's commitments.
+**Trumping dualism (orthogonal to Born).** The [trumping reading](/concepts/trumping-preemption/) treats consciousness as authoritative over trajectories the formalism already describes, leaving the Born rule outside the gap analysis ([delegatory-causation](/concepts/delegatory-causation/)). A further position — no consciousness-physics interaction (Everettian, Bohmian, orthodox pragmatism) — rejects the premise, outside the Map's commitments.
 
 ## Active Experimental Programmes
 
@@ -198,11 +200,11 @@ Being simultaneously *form-fixed* and *existence-underivable* is a duality the Q
 
 ## What the Map's Minimal Quantum Interaction Commits To
 
-The Minimal Quantum Interaction tenet, strictly read, privileges whichever minimum is *actually sufficient*, which is why the corridor is a working hypothesis rather than a definitional requirement. The three attitudes catalogued above remain in tension over cost: the corridor is maximally compatible with existing Born tests, Gleason, and the Torres Alegre steering result, but makes the single-event channel ensemble-invisible (risking [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) unless trumping is adopted); minimum-outside-corridor readings are empirically distinguishable from physicalism but inherit Gleason's and Torres Alegre's geometric cost; trumping leaves the Born rule orthogonal to the consciousness question. The empirical state cannot adjudicate, since it cannot probe the brain-internal regime at the required precision.
+The Minimal Quantum Interaction tenet, strictly read, privileges whichever minimum is *actually sufficient*, which is why the corridor is a working hypothesis (a tenet-level choice held at compatibility grade) rather than a definitional requirement or an evidence-graded conclusion. The corridor, bending, and trumping attitudes remain in tension over cost: the corridor is maximally compatible with existing Born tests, Gleason, and the Torres Alegre steering result, but makes the single-event channel ensemble-invisible (risking [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) unless trumping is adopted); minimum-outside-corridor readings are empirically distinguishable from physicalism but inherit Gleason's and Torres Alegre's geometric cost; trumping leaves the Born rule orthogonal to the consciousness question. The empirical state cannot adjudicate, since it cannot probe the brain-internal regime at the required precision.
 
 ## What This Does Not Establish
 
-Four caveats, read against the *Compatibility vs. Support* section above. First, absence of a derivation is not proof none exists; a century of failed attempts is suggestive but cannot rule out future success. Second, the pattern is equally compatible with the interface reading and the four consciousness-free rivals, and alone adjudicates among none. Third, the corridor reading reinterprets what the rule *means* without changing what it predicts. Fourth, where a rival accommodates underivability through theoretical machinery rather than a non-physical interface, the disagreement is framework-boundary, and the Map's reading earns its place through cross-corpus tenet-coherence rather than Born-rule data. What that tenet-coherence concretely buys, beyond the four consciousness-free rivals, is a single candidate above bare compatibility: the substrate's how-sketch for the SIC-geometric (d+1)/−1/d form (§*The Observer in Every Standard Derivation*), which DeBrota et al. leave as a brute coherence requirement. It counts as *suggestive only if granted* — a Hilbert-space primitivist can decline the meaning — so it does not by itself lift the case above *interface-compatible*, and comes nowhere near the discriminating tier.
+Four caveats, read against the *Compatibility vs. Support* section above. First, absence of a derivation is not proof none exists; a century of failed attempts is suggestive but cannot rule out future success. Second, the pattern is equally compatible with the interface reading and the four consciousness-free rivals, and alone adjudicates among none. Third, the corridor reading reinterprets what the rule *means* without changing what it predicts. Fourth, where a rival accommodates underivability through theoretical machinery rather than a non-physical interface, the disagreement is framework-boundary, and the Map's reading earns its place through cross-corpus tenet-coherence rather than Born-rule data. What that tenet-coherence concretely buys, beyond the four consciousness-free rivals, is a single candidate above bare compatibility: the substrate's how-sketch for the SIC-geometric (d+1)/−1/d form (§*The Observer in Every Standard Derivation*), which DeBrota et al. leave as a brute coherence requirement. It is *suggestive only if granted* — a Hilbert-space primitivist can decline the meaning — so it does not lift the case above *interface-compatible*.
 
 ## What Negative Results Would and Would Not Foreclose
 
