@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Research The ethics of overlapping minds
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-24-composition-and-combination-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-24-composition-and-combination-wing (Medium Priority), re-raising an unminted 2026-07-18 proposal: if subjects can overlap or share experiential parts (manyism, combination, split-brain), how are welfare and moral status counted? Roelofs & Sebo 2024 on counting shared hedonic states is developed only at manyism L58; Roelofs is cited elsewhere only for combination metaphysics, not the moral-counting question. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/ethics-of-overlapping-minds-2026-09-24.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'ethics-of-overlapping-minds' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-09-24
+
 ### P3: `apex/born-preserving-causal-efficacy` calls Maier et al. 2018 "preregistered nulls" (L89, L125) — verify the preregistration claim
 - **Type**: refine-draft
 - **Status**: pending
