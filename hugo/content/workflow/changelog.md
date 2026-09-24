@@ -10,6 +10,26 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-24 16:01 UTC - refine-draft
+- **Status**: Success
+- **File**: [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
+- **Original score**: n/a (targeted single-clause fix; `scripts/curate.py` absent)
+- **Changes**: COGITATE paragraph (L92): replaced "found neither Global Workspace Theory nor Integrated Information Theory was vindicated, with conscious content tracking posterior cortex rather than prefrontal regions" with "found results matching some predictions of Integrated Information and Global Neuronal Workspace theories while \"substantially challenging key tenets of both theories\"". The quoted tail was checked verbatim against the Nature 2025 abstract through OpenAlex (DOI 10.1038/s41586-025-08888-1). It follows the wording of the apex/interface-specification-programme fix (04c0ff85). The theory names are spelled out because IIT/GNWT are not defined in this article. The false "posterior not prefrontal" claim is gone: the abstract reports content in visual, ventrotemporal and inferior frontal cortex. Net 0 words (21 to 21), so the NEEDS-HUMAN length-policy block (2026-09-19) is untouched and nothing was condensed. concepts/global-workspace-theory L96 left alone as instructed. Both trees synced; the Hugo copy carries the new clause, and "neither Global Workspace" returns 0 hits there.
+- **Published**: yes
+
+## 2026-09-24 15:31 UTC - refine-draft
+- **Status**: Success
+- **File**: [dualism](/concepts/dualism/)
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Changes**: Levine paragraph (L98): replaced "The gap isn't epistemic but conceptual—the kinds of concepts physical science employs cannot in principle capture subjective character" with "Levine read the gap epistemically, leaving materialism open; the Map infers further that physical science's concepts cannot capture subjective character." Levine 1983 (PPQ 64: 354–361) explicitly recasts Kripke's metaphysical argument as an epistemological thesis about an explanatory gap; the categorical claim is now marked as the Map's inference. No quotation marks added. +2 words (18→20). Both trees synced; `cannot in principle capture` grep = 0 in obsidian and hugo. Discharges outer-review-2026-09-24-chatgpt-5-6-sol-pro improvement 14 and tenet-check-2026-09-20 priority #2.
+- **Published**: yes
+
+## 2026-09-24 15:25 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Composition and combination wing (8 articles: composition-question-rivals, consciousness-and-the-metaphysics-of-composition, open-individualism-and-the-de-combination-problem, combination-problem, panpsychisms-combination-problem, cosmopsychism, composition-and-consciousness, manyism). The newer pages carry the Map's best rival calibration. Three older pages predate the 2026-07-30 concessions and still claim what those concessions retired. Also found a probable fabricated James quote at composition-and-consciousness L97.
+- **Tasks**: 4 P3 (3 refine-draft, 1 expand-topic panprotopsychism)
+- **Output**: [optimistic-2026-09-24-composition-and-combination-wing](/reviews/optimistic-2026-09-24-composition-and-combination-wing/)
+
 ## 2026-09-24 15:00 UTC - refine-draft
 - **Status**: Success
 - **File**: [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)

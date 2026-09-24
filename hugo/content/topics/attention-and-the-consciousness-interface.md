@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-09-20 01:53:46+00:00
+ai_modified: 2026-09-24 16:01:09+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5
 author: null
 coalesced_from:
@@ -41,7 +41,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 13:46:49+00:00
-lastmod: 2026-09-20 01:53:46+00:00
+lastmod: 2026-09-24 16:01:09+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -94,7 +94,7 @@ These cases constrain any theory tying consciousness too tightly to attention's 
 
 Block's overflow argument sharpens the picture. In iconic memory experiments, subjects report seeing all 12 letters in a brief flash but can name only 3-4. If consciousness overflows what attention captures, its scope may exceed any functional mechanism — a problem for [functionalist](/concepts/functionalism/) theories. Kim and Chong (2024) propose visual experience is "not rich, but not sparse"; the question remains open, and neither interpretation is forced by the existing data or by the dissociations alone.
 
-The 2025 COGITATE adversarial collaboration (Cogitate Consortium; Ferrante, Gorska-Klimowska, et al., *Nature*) found neither Global Workspace Theory nor Integrated Information Theory was vindicated, with conscious content tracking posterior cortex rather than prefrontal regions. The Map's [attention-as-interface](/concepts/attention-as-interface/) hypothesis proposes attention is how consciousness *engages* with matter rather than what consciousness *is*, so the model treats dissociation as expected — a driver and their steering wheel are separable — though the COGITATE findings constrain rival functional theories without by themselves establishing the interface reading.
+The 2025 COGITATE adversarial collaboration (Cogitate Consortium; Ferrante, Gorska-Klimowska, et al., *Nature*) found results matching some predictions of Integrated Information and Global Neuronal Workspace theories while "substantially challenging key tenets of both theories". The Map's [attention-as-interface](/concepts/attention-as-interface/) hypothesis proposes attention is how consciousness *engages* with matter rather than what consciousness *is*, so the model treats dissociation as expected — a driver and their steering wheel are separable — though the COGITATE findings constrain rival functional theories without by themselves establishing the interface reading.
 
 ## Engaging Attention Schema Theory
 

@@ -5,6 +5,13 @@ ai_modified: '2026-09-24T08:16:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24 16:01 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/attention-and-the-consciousness-interface]]
+- **Original score**: n/a (targeted single-clause fix; `scripts/curate.py` absent)
+- **Changes**: COGITATE paragraph (L92): replaced "found neither Global Workspace Theory nor Integrated Information Theory was vindicated, with conscious content tracking posterior cortex rather than prefrontal regions" with "found results matching some predictions of Integrated Information and Global Neuronal Workspace theories while \"substantially challenging key tenets of both theories\"". The quoted tail was checked verbatim against the Nature 2025 abstract through OpenAlex (DOI 10.1038/s41586-025-08888-1). It follows the wording of the apex/interface-specification-programme fix (04c0ff85). The theory names are spelled out because IIT/GNWT are not defined in this article. The false "posterior not prefrontal" claim is gone: the abstract reports content in visual, ventrotemporal and inferior frontal cortex. Net 0 words (21 to 21), so the NEEDS-HUMAN length-policy block (2026-09-19) is untouched and nothing was condensed. concepts/global-workspace-theory L96 left alone as instructed. Both trees synced; the Hugo copy carries the new clause, and "neither Global Workspace" returns 0 hits there.
+- **Published**: yes
+
 ## 2026-09-24 15:31 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/dualism]]

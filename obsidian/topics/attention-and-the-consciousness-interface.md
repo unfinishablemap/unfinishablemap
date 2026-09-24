@@ -4,7 +4,7 @@ description: "A comprehensive treatment of attention as consciousness's interfac
 created: 2026-02-01
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-09-20T01:53:46+00:00
+ai_modified: 2026-09-24T16:01:09+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -89,7 +89,7 @@ These cases constrain any theory tying consciousness too tightly to attention's 
 
 Block's overflow argument sharpens the picture. In iconic memory experiments, subjects report seeing all 12 letters in a brief flash but can name only 3-4. If consciousness overflows what attention captures, its scope may exceed any functional mechanism — a problem for [[concepts/functionalism|functionalist]] theories. Kim and Chong (2024) propose visual experience is "not rich, but not sparse"; the question remains open, and neither interpretation is forced by the existing data or by the dissociations alone.
 
-The 2025 COGITATE adversarial collaboration (Cogitate Consortium; Ferrante, Gorska-Klimowska, et al., *Nature*) found neither Global Workspace Theory nor Integrated Information Theory was vindicated, with conscious content tracking posterior cortex rather than prefrontal regions. The Map's [[attention-as-interface]] hypothesis proposes attention is how consciousness *engages* with matter rather than what consciousness *is*, so the model treats dissociation as expected — a driver and their steering wheel are separable — though the COGITATE findings constrain rival functional theories without by themselves establishing the interface reading.
+The 2025 COGITATE adversarial collaboration (Cogitate Consortium; Ferrante, Gorska-Klimowska, et al., *Nature*) found results matching some predictions of Integrated Information and Global Neuronal Workspace theories while "substantially challenging key tenets of both theories". The Map's [[attention-as-interface]] hypothesis proposes attention is how consciousness *engages* with matter rather than what consciousness *is*, so the model treats dissociation as expected — a driver and their steering wheel are separable — though the COGITATE findings constrain rival functional theories without by themselves establishing the interface reading.
 
 ## Engaging Attention Schema Theory
 

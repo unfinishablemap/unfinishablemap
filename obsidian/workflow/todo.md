@@ -46,15 +46,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-09-24
 - **Notes**: Surfaced by the 2026-09-24 `concepts/causal-closure` refine, which checked Maier, Dechamps & Pflitsch 2018 (*Frontiers in Psychology* 9, 379, doi 10.3389/fpsyg.2018.00379) at the publisher: the page describes a sequential Bayesian stopping design (BF01 ≈ 10.07) and does not describe the study as preregistered. The apex says "preregistered nulls (Maier et al. 2018)" at ~L89 and ~L125. **Verify first** (the paper's methods section, any OSF registration link). If preregistration is confirmed, no change. If not, drop "preregistered" (length-negative — safe despite the apex's open length decision) and match the causal-closure wording ("the largest intention-conditioned RNG test, 12,571 participants, Bayes factor ≈10 for no effect"). Locate by quoted text; sync both trees.
 
-### P2: `topics/attention-and-the-consciousness-interface` L92 repeats the COGITATE "posterior rather than prefrontal" simplification — replace it with the verified mixed pattern, length-neutral
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/attention-and-the-consciousness-interface.md
-- **Review file**: `reviews/outer-review-2026-09-24-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-24
-- **Notes**: Sibling of the P1 on `apex/interface-specification-programme` (outer review 2026-09-24, §6.1), found by the verification sweep. L92: "found neither Global Workspace Theory nor Integrated Information Theory was vindicated, with conscious content tracking posterior cortex rather than prefrontal regions." The Nature 2025 abstract (OpenAlex, DOI 10.1038/s41586-025-08888-1) reads: information about conscious content "in visual, ventrotemporal and inferior frontal cortex". It says the results align with some predictions of each theory, and it challenges IIT on the absence of sustained posterior synchronisation. Replace only the clause. ⚠️ **This file is under the blocked `NEEDS-HUMAN (length policy) 2026-09-19`** (4425 vs hard 4000). This task is a **single-clause replacement at net ≤ 0 words** and does not touch that decision. If it cannot be done net-neutral, defer it and do not condense. `concepts/global-workspace-theory` L96 is conditional and hedged, so leave it.
-
 ### P2: `positions/subject-census` does not address census circularity — subjecthood is inferred from the very outcomes the census-indexed law is meant to govern
 - **Type**: positions-evolve
 - **Status**: pending
@@ -1783,6 +1774,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: `topics/attention-and-the-consciousness-interface` L92 repeats the COGITATE "posterior rather than prefrontal" simplification — replace it with the verified mixed pattern, length-neutral
+- **Type**: refine-draft
+- **File**: obsidian/topics/attention-and-the-consciousness-interface.md
+- **Notes**: Sibling of the P1 on `apex/interface-specification-programme` (outer review 2026-09-24, §6.1), found by the verification sweep. L92: "found neither Global Workspace Theory nor Integrated Information Theory was vindicated, with conscious content tracking posterior cortex rather than prefrontal regions." The Nature 2025 abstract (OpenAlex, DOI 10.1038/s41586-025-08888-1) reads: information about conscious content "in visual, ventrotemporal and inferior frontal cortex". It says the results align with some predictions of each theory, and it challenges IIT on the absence of sustained posterior synchronisation. Replace only the clause. ⚠️ **This file is under the blocked `NEEDS-HUMAN (length policy) 2026-09-19`** (4425 vs hard 4000). This task is a **single-clause replacement at net ≤ 0 words** and does not touch that decision. If it cannot be done net-neutral, defer it and do not condense. `concepts/global-workspace-theory` L96 is conditional and hedged, so leave it.
 
 ### ✓ 2026-09-24: `concepts/dualism` attributes to Levine the categorical claim that physics "cannot in principle capture" subjective character — keep his epistemic explanatory gap separate from the Map's metaphysical reading
 - **Type**: refine-draft
