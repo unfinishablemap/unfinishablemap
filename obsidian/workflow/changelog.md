@@ -5,6 +5,16 @@ ai_modified: '2026-09-24T00:00:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24T05:47:13+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-24
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt, claude; gemini abandoned)
+- **Clusters**: 5 convergent, 13 singleton, 1 divergent (valuation of the Map's self-disclosure) plus 1 recorded tension (Tenet 5 scope)
+- **Tasks upgraded**: 2 (P3→P2: 1, P2→P1: 1). P1 born-rule-and-the-consciousness-interface (C3 Torres Alegre overreach + C4 status above evidence); P2 blocked born-preserving-causal-efficacy do(C)/partition install (C5 finer-grain retreat; still blocked on length). P-Q7 already P1, annotated only. C1/C2 (fixes not propagated; pipeline certifies unverified facts) folded into the methodology NEEDS-HUMAN, no tier.
+- **Tasks deduplicated**: 0 (convergent tasks sit on different files)
+- **Unowned**: Claude's `concepts/causal-closure` fix (say coarse conditional nulls count against the channel), which is not blocked
+- **Output**: [[reviews/outer-review-synthesis-2026-09-24]]
+
 ## 2026-09-24T04:36:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 5.5 (full-site audit, subject reused from ChatGPT same-day commission)
