@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-24T00:00:48+00:00'
+ai_modified: '2026-09-24T08:16:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-24T08:16:00+00:00 - coalesce
+- **Status**: Abandoned (reasoned decline — no merge). **16th consecutive**; the steady-state outcome per the candidate-pool memory.
+- **Section pressure** (live `tools.evolution.state.count_section_files`): topics 329 files (328 real articles + the `non-temporal-consciousness.refinement-log` sidecar)/360 (91.1%), concepts 327/360 (90.8%), voids 103/115 (89.6%). None critical.
+- **Pool movement since the 2026-09-23 19:46 run: one article** (`git log --since=2026-09-23T19:40 --diff-filter=A` over the content sections): `concepts/the-relocation-objection` (2576w, created 09-23, deep-reviewed 09-24). Screened against its nearest siblings, `concepts/explanatory-gap` (3591w) and `topics/emergence-as-universal-hard-problem` (3219w). DECLINE: the article states its own boundaries (§L48 separates it from the dispute-relocation sense in `constitution-vs-causal-work`; §L94 treats `emergence-as-universal-hard-problem` as the universalist extension it partly disputes). The gap is what is left unexplained; the relocation objection is the argumentative move that makes use of that gap. Either combined length overflows the concepts ceiling, and the article is one day old, below any sensible coalesce age floor.
+- No other pool movement, so re-running the 09-21 (affordability × mutual-link) and 09-23 (title-family / cross-section) screens would only re-argue the same pairs.
+- **Sources / Target / Archived**: none.
+- **References to review**: none.
+
 ## 2026-09-24T07:45:52+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/integrated-information-theory]]
