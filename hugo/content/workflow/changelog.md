@@ -10,6 +10,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-24T01:01:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/)
+- **Original score**: n/a (targeted tenet repair; review source reviews/tenet-check-2026-09-23.md priority #2, carried from check 137 #3)
+- **Changes**: Aligned the article with `parapsychology-firewall` (content-importing psi falsifies, Tenet 2). (a) Relation to Site Perspective: "Presentiment would be additional evidence if confirmed—but the Map's commitments don't depend on it" -> "Confirmed presentiment would weigh against the Map, not for it." (b) "What Presentiment Would Mean If Real": "interesting auxiliary evidence, not foundational support" rewritten to state that presentiment as claimed (physiology tracking which random stimulus is coming) imports content no neural candidate encodes, which the Minimal Quantum Interaction tenet treats as disconfirming; conditioned on the article's own description ("as claimed"), zero-word piped link [Minimal Quantum Interaction](/topics/parapsychology-firewall/) installed (was 0 hits). (c) Dropped "directly" from "wouldn't directly support"; trimmed "The mechanism would need independent demonstration", "Presentiment isn't necessary for any of this" (redundant with Relation section), "These are different phenomena" -> "These differ". Net -1 word (2051 -> 2050). Both trees synced.
+- **Published**: yes
+
+## 2026-09-24T00:16:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [unity-of-consciousness](/concepts/unity-of-consciousness/)
+- **Original score**: n/a (targeted tenet repair; review source reviews/tenet-check-2026-09-23.md priority #1, carried from check 137 #1)
+- **Changes**: (a) Tenet 2: quantum-binding sentence no longer says MRI-entanglement and microtubule evidence are "now lending initial support"; restated as framework-consistent evidence of unequal weight, with the MRI entanglement signature flagged as one unreplicated study (matches entanglement-binding-hypothesis's two-tier calibration). (b) Tenet 4: cut fabricated tenet content ("first-person unity claims require genuine collapse"; "unity reports become either false or contentless"); restated as: branch-relative accounts also count each branch's experience unified, so rejecting MWI adds nothing to unity itself and secures only indexical identity. Net +1 word. Both trees synced (obsidian + hugo).
+- **Published**: yes
+
 ## 2026-09-24T00:00:48+00:00 - tune-system
 - **Status**: Success
 - **Sessions analyzed**: 238 (session_count 20966 -> 21204, since the 09-19 run)

@@ -4,7 +4,7 @@ description: "Distinguishing physics-based retrocausality from contested parapsy
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-07-12T20:13:00+00:00
+ai_modified: 2026-09-24T01:01:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -80,11 +80,11 @@ Even granting the presentiment literature's most generous interpretation, severa
 
 Suppose the skeptics are wrong and bodies genuinely anticipate random future events. What would follow?
 
-The effect would challenge standard neuroscience but wouldn't directly support the Map's specific claims. Presentiment involves *unconscious* responses to *external* stimuli. The Map's Bidirectional Interaction concerns *conscious* selection among *internal* neural possibilities. These are different phenomena.
+The effect would challenge standard neuroscience but wouldn't support the Map's specific claims. Presentiment involves *unconscious* responses to *external* stimuli. The Map's Bidirectional Interaction concerns *conscious* selection among *internal* neural possibilities. These differ.
 
-Presentiment might suggest that retrocausality has broader biological relevance than purely quantum-level interactions. It might indicate that consciousness—or at least organismic processing—extends further in time than standard models allow. But it wouldn't establish that conscious selection operates retrocausally. The mechanism would need independent demonstration.
+Presentiment might suggest that retrocausality has broader biological relevance than purely quantum-level interactions. It might indicate that consciousness—or at least organismic processing—extends further in time than standard models allow. But it wouldn't establish that conscious selection operates retrocausally.
 
-For the Map, presentiment would be interesting auxiliary evidence, not foundational support. The core claims rest on the hard problem, the failure of materialism, the need for an interface between consciousness and quantum indeterminacy, and the physics of time-symmetric collapse. Presentiment isn't necessary for any of this.
+For the Map it would count against: presentiment as claimed—physiology tracking which random stimulus is coming—imports content no neural candidate encodes, which the Map's [[parapsychology-firewall|Minimal Quantum Interaction]] tenet treats as disconfirming. The core claims rest on the hard problem, the failure of materialism, the need for an interface between consciousness and quantum indeterminacy, and the physics of time-symmetric collapse.
 
 ## Distinguishing Libet from Presentiment
 
@@ -102,7 +102,7 @@ The Map's [[tenets#^dualism|Dualism]] and [[tenets#^bidirectional-interaction|Bi
 
 This doesn't require presentiment. The physics of time-symmetric quantum mechanics provides independent grounding. Wheeler's delayed-choice experiments confirm a phenomenon that is consistent with—and motivates—a retrocausal reading; they do not, by themselves, *establish* retrocausal structure, since standard quantum mechanics accounts for delayed-choice without it. The retrocausal reading is one empirically-equivalent interpretation, and the transactional interpretation makes it coherent. Consistency demands the same scrupulousness here that the article applies to presentiment: a confirmed phenomenon is not a confirmed interpretation. What the firewall buys is comparative, not absolute—the interpretive debate over time-symmetric quantum mechanics is a respectable mainstream-physics dispute, whereas presentiment's central defense (the experimenter-effect escape hatch) is conceded unfalsifiable.
 
-Presentiment would be additional evidence if confirmed—but the Map's commitments don't depend on it. By keeping these lines of inquiry distinct, the Map protects its core claims from association with the most contested research while remaining open to future evidence.
+Confirmed presentiment would weigh against the Map, not for it. By keeping these lines of inquiry distinct, the Map protects its core claims from association with the most contested research while remaining open to future evidence.
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] applies here too. Dismissing retrocausality because presentiment is dubious would be as fallacious as affirming retrocausality because presentiment seems supported. Each body of evidence must be evaluated on its own terms. Physics-based retrocausality stands regardless of what parapsychological research shows.
 

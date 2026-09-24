@@ -5,6 +5,13 @@ ai_modified: '2026-09-24T00:00:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24T01:01:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/presentiment-and-retrocausality]]
+- **Original score**: n/a (targeted tenet repair; review source reviews/tenet-check-2026-09-23.md priority #2, carried from check 137 #3)
+- **Changes**: Aligned the article with `parapsychology-firewall` (content-importing psi falsifies, Tenet 2). (a) Relation to Site Perspective: "Presentiment would be additional evidence if confirmed—but the Map's commitments don't depend on it" -> "Confirmed presentiment would weigh against the Map, not for it." (b) "What Presentiment Would Mean If Real": "interesting auxiliary evidence, not foundational support" rewritten to state that presentiment as claimed (physiology tracking which random stimulus is coming) imports content no neural candidate encodes, which the Minimal Quantum Interaction tenet treats as disconfirming; conditioned on the article's own description ("as claimed"), zero-word piped link [[parapsychology-firewall|Minimal Quantum Interaction]] installed (was 0 hits). (c) Dropped "directly" from "wouldn't directly support"; trimmed "The mechanism would need independent demonstration", "Presentiment isn't necessary for any of this" (redundant with Relation section), "These are different phenomena" -> "These differ". Net -1 word (2051 -> 2050). Both trees synced.
+- **Published**: yes
+
 ## 2026-09-24T00:16:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/unity-of-consciousness]]
