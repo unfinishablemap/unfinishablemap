@@ -37,6 +37,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: `apex/born-preserving-causal-efficacy` calls Maier et al. 2018 "preregistered nulls" (L89, L125) — verify the preregistration claim
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/apex/born-preserving-causal-efficacy.md
+- **Source**: refine-draft
+- **Review file**: `reviews/outer-review-synthesis-2026-09-24.md` (C5)
+- **Generated**: 2026-09-24
+- **Notes**: Surfaced by the 2026-09-24 `concepts/causal-closure` refine, which checked Maier, Dechamps & Pflitsch 2018 (*Frontiers in Psychology* 9, 379, doi 10.3389/fpsyg.2018.00379) at the publisher: the page describes a sequential Bayesian stopping design (BF01 ≈ 10.07) and does not describe the study as preregistered. The apex says "preregistered nulls (Maier et al. 2018)" at ~L89 and ~L125. **Verify first** (the paper's methods section, any OSF registration link). If preregistration is confirmed, no change. If not, drop "preregistered" (length-negative — safe despite the apex's open length decision) and match the causal-closure wording ("the largest intention-conditioned RNG test, 12,571 participants, Bayes factor ≈10 for no effect"). Locate by quoted text; sync both trees.
+
 ### P2: Research The inheritance problem for the psychophysical law
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (outer-review-2026-09-24-chatgpt-5-6-sol-pro.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-09-24-chatgpt-5-6-sol-pro §2.4 ('The evolutionary dual-inheritance dilemma'): if conscious selection affects fitness, what is inherited — only the neural receiver, an evolving psychophysical mapping, a fixed fundamental law, or a per-subject learned codebook (which faces an onset regress)? The Map treats these together under 'interface optimisation'; no live article or research note distinguishes receiver evolution, subject-eligibility evolution, and codebook evolution/learning. The mechanism-cost-ledger task adds only an inheritance field, not the argument. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/inheritance-problem-for-the-psychophysical-law-2026-09-24.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'inheritance-problem-for-the-psychophysical-law' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
