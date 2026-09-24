@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-06-20 16:41:23+00:00
+ai_modified: 2026-09-24 22:47:07+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 14:11:11+00:00
-lastmod: 2026-06-20 16:41:23+00:00
+lastmod: 2026-09-24 22:47:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -75,7 +75,7 @@ The genealogy runs: Dewey's organism-environment transaction → Merleau-Ponty's
 
 What unites these strands is a shared strategy: *dissolution* rather than *solution*. Enactivism does not answer the question "How does a non-physical mind causally interact with the physical brain?" It argues the question is malformed. Mind and body are not separate domains requiring causal bridging; they are aspects of a single organismic process—a view with affinities to [process-philosophy](/concepts/process-philosophy/), though enactivists draw on phenomenological rather than metaphysical traditions.
 
-De Jaegher and Di Paolo make this explicit in their paper "Enactivism Is Not Interactionism" (2013). The "interaction" in enactivism refers to organism-environment engagement, not mind-body causal commerce. Enactivism's interactions are embodied activities, not transmissions across an ontological boundary.
+On this picture the only "interaction" in play is organism-environment engagement, not mind-body causal commerce. Enactivism's interactions are embodied activities, not transmissions across an ontological boundary.
 
 This is a coherent philosophical move. If the mind-body separation is genuinely mistaken, dissolving the problem is the right response. The question is whether enactivism earns this dissolution—whether its account of cognition as embodied activity genuinely eliminates the need for the distinction dualism draws.
 
@@ -133,7 +133,6 @@ Interactionist dualism is at least internally consistent: consciousness is non-p
 
 ## References
 
-1. De Jaegher, H., & Di Paolo, E. (2013). Enactivism is not interactionism. *Frontiers in Human Neuroscience*, 6, 345.
 1. Hutto, D. & Myin, E. (2013). *Radicalizing Enactivism: Basic Minds Without Content*. MIT Press.
 1. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
 1. O'Regan, J. K., & Noë, A. (2001). A sensorimotor account of vision and visual consciousness. *Behavioral and Brain Sciences*, 24(5), 939-973.

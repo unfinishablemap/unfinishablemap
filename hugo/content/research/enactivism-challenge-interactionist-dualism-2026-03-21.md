@@ -3,9 +3,9 @@ ai_contribution: 100
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-21
-date: '2026-06-20'
+date: '2026-09-24'
 draft: false
-lastmod: 2026-06-20 00:00:00+00:00
+lastmod: 2026-09-24 00:00:00+00:00
 related_articles: []
 title: Research Notes - Enactivism as Challenge to Interactionist Dualism
 ---
@@ -41,15 +41,15 @@ Enactivism is a family of positions in philosophy of mind and cognitive science 
   - Multiple versions with varying radicality
 - **Tenet alignment**: Partially compatible—property dualism (irreducibility of experience) survives the embodied cognition challenge
 
-### "Enactivism is Not Interactionism" (De Jaegher, Di Paolo, Gallagher, 2013)
+### "Enactivism is Not Interactionism" (De Jaegher & Di Paolo, 2013)
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC3539800/
-- **Type**: Paper (Frontiers in Human Neuroscience)
-- **Key points**:
-  - Clarifies that enactivism's emphasis on interaction is not the same as "interactionism" in the dualist sense
-  - Enactivism's interactions are between organisms and environments, not between mind and body as separate substances
+- **Type**: General commentary (Frontiers in Human Neuroscience 6:345; DOI 10.3389/fnhum.2012.00345). Two authors only per Crossref; an earlier version of this note wrongly added Gallagher.
+- **Correction (2026-09-24)**: This entry originally read the paper as distinguishing enactivism from mind-body "interactionism" in the dualist sense. It does not. The paper is a social-cognition commentary on Bohl & van den Bos (2012), and its "interactionism" is the interaction-based account of social understanding as opposed to mindreading (theory of mind). It says nothing about mind-body dualism or non-physical causation. Do not cite it for the organism-environment vs mind-body distinction; that point about enactivism can stand uncited or be credited to Thompson (2007). See `reviews/pessimistic-2026-09-24-consciousness-as-activity.md` Issue 1.
+- **Key points** (as actually argued):
+  - Rejects Bohl & van den Bos's attribution to the enactive approach of the claim that interaction dynamics suffice for all social cognition
   - The Interactive Brain Hypothesis: brain processes are functionally shaped by social interactions
   - Participatory sense-making relies on coordination breakdowns and recoveries
-- **Tenet alignment**: Directly opposes Tenet 3's notion of mind-body causal interaction; reframes "interaction" in purely embodied terms
+- **Tenet alignment**: No direct bearing on Tenet 3; the paper's "interaction" is social interaction, not mind-body interaction
 
 ### Thompson, "Mind in Life" (2007)
 - **URL**: https://www.hup.harvard.edu/books/9780674057517
@@ -186,7 +186,7 @@ Enactivism is a family of positions in philosophy of mind and cognitive science 
 | 2005 | Di Paolo, "Autopoiesis, Adaptivity, Teleology, Agency" | Refines autopoietic enactivism with adaptivity |
 | 2007 | Thompson, *Mind in Life* | Deep continuity thesis; experience as transcendentally irreducible |
 | 2009 | De Jaegher & Di Paolo, "Participatory Sense-Making" | Social cognition through embodied interaction |
-| 2012 | De Jaegher, Di Paolo, Gallagher, "Enactivism is Not Interactionism" | Clarifies enactivism's relation to interactionism |
+| 2013 | De Jaegher & Di Paolo, "Enactivism is Not Interactionism" | Social cognition: enactive approach vs interaction-theory/mindreading debate (not mind-body) |
 | 2013 | Hutto & Myin, *Radicalizing Enactivism* | Radical strand: basic minds are contentless |
 | 2017 | Hutto & Myin, *Evolving Enactivism* | Further development of radical enactivism |
 | 2022 | "Putting down the revolt" critique | Argues enactivism fails to deliver promised paradigm shift |
@@ -217,7 +217,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 ## Citations
 
-- De Jaegher, H., Di Paolo, E., & Gallagher, S. (2013). "Enactivism is not interactionism." *Frontiers in Human Neuroscience*, 6, 345. https://pmc.ncbi.nlm.nih.gov/articles/PMC3539800/
+- De Jaegher, H., & Di Paolo, E. (2013). "Enactivism is not interactionism." *Frontiers in Human Neuroscience*, 6, 345. (Social-cognition commentary; not about mind-body interactionism.) https://pmc.ncbi.nlm.nih.gov/articles/PMC3539800/
 - De Jesus, P. (2015). "Autopoietic enactivism, phenomenology and the deep continuity between life and mind." *Phenomenology and the Cognitive Sciences*. https://link.springer.com/article/10.1007/s11097-015-9414-2
 - Hutto, D. & Myin, E. (2013). *Radicalizing Enactivism: Basic Minds Without Content*. MIT Press. https://mitpress.mit.edu/9780262534642/radicalizing-enactivism/
 - Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge. (SEP entry: https://plato.stanford.edu/entries/merleau-ponty/)
