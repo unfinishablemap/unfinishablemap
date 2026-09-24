@@ -46,15 +46,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-09-24
 - **Notes**: Surfaced by the 2026-09-24 `concepts/causal-closure` refine, which checked Maier, Dechamps & Pflitsch 2018 (*Frontiers in Psychology* 9, 379, doi 10.3389/fpsyg.2018.00379) at the publisher: the page describes a sequential Bayesian stopping design (BF01 ≈ 10.07) and does not describe the study as preregistered. The apex says "preregistered nulls (Maier et al. 2018)" at ~L89 and ~L125. **Verify first** (the paper's methods section, any OSF registration link). If preregistration is confirmed, no change. If not, drop "preregistered" (length-negative — safe despite the apex's open length decision) and match the causal-closure wording ("the largest intention-conditioned RNG test, 12,571 participants, Bayes factor ≈10 for no effect"). Locate by quoted text; sync both trees.
 
-### P2: `apex/self-concealing-interface` says the accepted constraints "force" concealment, as if the joint law were already written — restate it as a conditional on a successful strict-corridor model
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/apex/self-concealing-interface.md
-- **Review file**: `reviews/outer-review-2026-09-24-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-24
-- **Notes**: From outer review 2026-09-24 (ChatGPT 5.6 Pro, §5.2 and improvement 2). Verified loci: L63 "Every constraint the Map accepts … **forces** the proposed conscious influence into the one register where bulk physical instruments cannot see it". L79: "the conjunction of accepted constraints is what does the concealing". Meanwhile `apex/interface-specification-programme` records that no joint multi-agent law and no energy-degenerate alternative set have been specified. So the constraints have not been shown to be **jointly satisfiable**, and "force" presupposes that they are. The page's L95 and L153 already tier-mark the thesis as framework-internal. Keep those. Make the lede **conditional**: *if* a strict-corridor model satisfying conservation, joint Born statistics and no-signalling exists, it would be ensemble-invisible. Also name the joint-satisfiability debt once, linking P-Q10 and `topics/multi-agent-born-preservation-problem`. Do not weaken the L87 agency-budget equivalence, which is a real conditional result. ⚠️ **Length**: 5114 vs apex hard 5000, already over, so the edit must be net ≤ 0. Apply the direct-refutation discipline where the lede meets the objection: the honest move is to mark which constraint set remains unmet, not to defend "force".
-
 ### P2: `arguments/functionalism-argument` L199 concludes that "purely computational systems … cannot be conscious", which the dependency matrix's open bare-artificial-phenomenality row does not license
 - **Type**: refine-draft
 - **Status**: pending
@@ -1806,6 +1797,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: `apex/self-concealing-interface` says the accepted constraints "force" concealment, as if the joint law were already written — restate it as a conditional on a successful strict-corridor model
+- **Type**: refine-draft
+- **File**: obsidian/apex/self-concealing-interface.md
+- **Notes**: From outer review 2026-09-24 (ChatGPT 5.6 Pro, §5.2 and improvement 2). Verified loci: L63 "Every constraint the Map accepts … **forces** the proposed conscious influence into the one register where bulk physical instruments cannot see it". L79: "the conjunction of accepted constraints is what does the concealing". Meanwhile `apex/interface-specification-programme` records that no joint multi-agent law and no energy-degenerate alternative set have been specified. So the constraints have not been shown to be **jointly satisfiable**, and "force" presupposes that they are. The page's L95 and L153 already tier-mark the thesis as framework-internal. Keep those. Make the lede **conditional**: *if* a strict-corridor model satisfying conservation, joint Born statistics and no-signalling exists, it would be ensemble-invisible. Also name the joint-satisfiability debt once, linking P-Q10 and `topics/multi-agent-born-preservation-problem`. Do not weaken the L87 agency-budget equivalence, which is a real conditional result. ⚠️ **Length**: 5114 vs apex hard 5000, already over, so the edit must be net ≤ 0. Apply the direct-refutation discipline where the lede meets the objection: the honest move is to mark which constraint set remains unmet, not to defend "force".
 
 ### ✓ 2026-09-24: Stale Tenet-3 paraphrase "consciousness selects among superposed neural states" persists in three articles — realign to the live tenet and the post-decoherence default
 - **Type**: refine-draft

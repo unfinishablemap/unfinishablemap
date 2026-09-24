@@ -5,6 +5,14 @@ ai_modified: '2026-09-24T08:16:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24T12:31:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/self-concealing-interface]]
+- **Review file**: reviews/outer-review-2026-09-24-chatgpt-5-6-sol-pro.md (§5.2, improvement 2)
+- **Changes**: Lede made conditional: the accepted constraints "leave" the influence one register, and *if* a strict-corridor model jointly satisfying them exists it is ensemble-invisible (was "forces"). Joint-satisfiability debt named once: no joint multi-agent law, no energy-degenerate alternative set; no-signalling safety shown for single-system marginals only, joint and Lorentz-covariant safety open (matches today's P-Q7 rescope), linking [[positions/quantum-interface#^p-q10|P-Q10]] and [[multi-agent-born-preservation-problem]]. The L79 conjunction clause is now "if jointly satisfiable"; L95 now reads "would force". The tier marks (L95, synthesis L161) and the agency-budget equivalence paragraph are unchanged. Length is net-negative (5114→5111): a redundant sentence in the framing paragraph and "drawn out here for the first time as a single thesis" were cut.
+- **Engagement**: the objection that the constraints are unproven to be co-satisfiable is Mode Three plus concession. The article now marks the unmet constraint set instead of defending "force".
+- **Published**: yes
+
 ## 2026-09-24 12:15 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/scale-types-for-phenomenal-quantities]]
