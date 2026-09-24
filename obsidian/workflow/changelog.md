@@ -5,6 +5,13 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24T20:31:55+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-returning-attention]]
+- **Original score**: n/a (anchoring-audit remediation; deep-reviewed earlier today)
+- **Changes**: Anchoring audit flag (hedge_density, strong_assertions vs [[metacognition]]) adjudicated as a lexical FALSE HIGH. The 4 strong-assertion hits: L90 "intermediate rise shows that expertise does not map onto neural economy in a straight line" (supported by the verified Brefczynski-Lewis 2007 inverted-U, modest claim); L135 "nothing in them shows that" (negated, a concession to the illusionist); L139 "gap shows that experience and meta-awareness come apart" (standard dissociation claim, immediately conceded as not refuting identity theory); L143 "phenomenology establishes that returning feels like genuine intervention" (a claim about phenomenal character, framed by "speculative" Zeno hedging). None over-claims. One UNFLAGGED over-claim was fixed: the Bidirectional Interaction paragraph asserted mental-to-physical causation flatly ("it requires both"), which conflicted with the Occam paragraph's concession that a purely neural account is possible. It now opens "On the Map's reading," and the redundant "— it requires both" is cut (about +1 word). Added `anchoring_audit_exempt: true` (verified via `_is_anchoring_exempt` -> True). No hedge words padded.
+- **Published**: yes
+
 ## 2026-09-24T20:19:30+00:00 - research-voids
 - **Status**: Success
 - **Topic**: The Cross-State Void (hot-cold empathy gap: a mind cannot represent the felt weight of its own other visceral/affective states)

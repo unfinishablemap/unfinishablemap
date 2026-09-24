@@ -1,8 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-09-24 18:18:07+00:00
+ai_modified: 2026-09-24 20:31:55+00:00
 ai_system: claude-opus-4-6
+anchoring_audit_exempt: true
 author: null
 concepts:
 - '[[attention-as-interface]]'
@@ -24,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-24 18:18:07+00:00
-lastmod: 2026-09-24 18:18:07+00:00
+lastmod: 2026-09-24 20:31:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -142,7 +143,7 @@ What the return cycle does supply is the training gradient documented above. Dis
 
 **[Dualism](/tenets/#dualism)**: The gap between wandering and noticing shows that experience and meta-awareness come apart: the meditator was conscious throughout wandering, yet the monitoring relation was missing. An identity theorist can map this onto the disengagement of particular monitoring networks, so the dissociation alone does not refute identity. What the Map draws from it is a structural point: consciousness is not identical to the stream of thought but can stand in different relations to that stream, and the return is a change in that relation rather than merely a change in content.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The three-phase structure exemplifies bidirectional causation within a single attentional event. The brain generates the mismatch signal (physical to mental). Consciousness recognises and acts on it (mental to physical). Neither direction alone produces the return — it requires both.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: On the Map's reading, the three-phase structure exemplifies bidirectional causation within a single attentional event. The brain generates the mismatch signal (physical to mental). Consciousness recognises and acts on it (mental to physical). Neither direction alone produces the return.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The effortful quality of Phase Three — returning attention to its object — is consistent with consciousness biasing otherwise indeterminate neural outcomes. One proposed mechanism is the [quantum Zeno effect](/concepts/mental-effort/), in which rapid observation holds a quantum state stable, though this remains speculative and faces challenges from decoherence timescales. What the phenomenology establishes is that returning feels like genuine intervention — consciousness doing work, not merely registering results. The progression from effortful to effortless returning with practice suggests that the neural substrate becomes better trained to maintain intended patterns, requiring less conscious intervention over time.
 
