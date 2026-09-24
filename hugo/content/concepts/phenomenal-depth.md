@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-05-28 00:00:00+00:00
+ai_modified: 2026-09-24 23:18:30+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,14 +18,14 @@ concepts:
 - '[[panpsychism]]'
 - '[[concepts/epiphenomenalism]]'
 created: 2026-02-13
-date: &id001 2026-04-17
+date: &id001 2026-09-24
 description: How conscious experience possesses layered richness beyond surface appearance—a
   concept central to understanding why materialist reduction fails.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 20:54:07+00:00
-lastmod: 2026-05-28 00:00:00+00:00
+lastmod: 2026-09-24 23:18:30+00:00
 modified: *id001
 related_articles:
 - '[[visual-consciousness]]'
@@ -72,7 +72,7 @@ This connects to the [explanatory-gap](/concepts/explanatory-gap/). The gap is n
 
 The relationship between phenomenal depth and [access consciousness](/concepts/access-consciousness/) is complex. Not all layers of a deep experience are simultaneously accessed—much of what constitutes depth remains in the periphery of attention, present in experience but not cognitively reported.
 
-[Contemplative training](/topics/contemplative-practice-as-philosophical-evidence/) appears to expand access to deeper layers. Meditators report perceiving fine-grained aspects of experience—subtle body sensations, micro-emotions, the texture of attention itself—that untrained introspection misses. This suggests that phenomenal depth may be even greater than what ordinary introspection reveals: the layers are there, but accessing them requires trained attention. The Map's account of [adaptive computational depth](/concepts/adaptive-computational-depth/) offers a physical analogue: if reality resolves into greater detail where consciousness attends, trained attention may literally elicit more structure from the interface.
+[Contemplative training](/topics/contemplative-practice-as-philosophical-evidence/) appears to expand access to deeper layers. Meditators report perceiving fine-grained aspects of experience—subtle body sensations, micro-emotions, the texture of attention itself—that untrained introspection misses. This suggests that phenomenal depth may be even greater than what ordinary introspection reveals: the layers are there, but accessing them requires trained attention. Whether training reveals such layers or installs them through expectation is an open empirical question, taken up in [cognitive-penetration](/concepts/cognitive-penetration/). The Map's account of [adaptive computational depth](/concepts/adaptive-computational-depth/) offers a physical analogue: if reality resolves into greater detail where consciousness attends, trained attention may literally elicit more structure from the interface.
 
 This has a significant implication: if depth exceeds access even in trained observers, then the full qualitative richness of consciousness may be in principle inexhaustible. Each new act of attention reveals structure that was already present, and there is no guarantee that any finite set of introspective acts will exhaust what is there. This connects to [mysterianism](/concepts/mysterianism/)—the view that some aspects of consciousness may permanently exceed our cognitive grasp. Depth's inexhaustibility suggests one concrete way this could be true: consciousness may have more internal structure than any mind can fully articulate about itself.
 

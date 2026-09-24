@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-07-13 12:26:26+00:00
+ai_modified: 2026-09-24 23:18:30+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -19,7 +19,7 @@ concepts:
 - '[[self-reference-paradox]]'
 - '[[metacognition]]'
 created: 2026-02-09
-date: &id001 2026-04-13
+date: &id001 2026-09-24
 description: Experience normally conceals itself as representation (transparency)
   but can reveal its constructed character (opacity). This spectrum, introduced by
   Metzinger, exposes cognitive architecture and its limits.
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-13 12:26:26+00:00
-lastmod: 2026-07-13 12:26:26+00:00
+lastmod: 2026-09-24 23:18:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -94,7 +94,7 @@ Opacity arises through several distinct mechanisms, each revealing different asp
 
 **Attentional restructuring.** Painters learn to "break" perceptual constancy by attending to proximal qualities — squinting at a white wall under candlelight until it yields its actual orange cast. As [consciousness as perceptual architect](/topics/consciousness-as-perceptual-architect/) develops, this is a controlled, voluntary slide toward opacity: the normally transparent stable percept becomes visible as a construction without pathology, pharmacology, or signal loss. It is the everyday counterpart to the contemplative route below.
 
-**Contemplative training.** Advanced [meditation practitioners](/topics/contemplative-practice-as-philosophical-evidence/) report cultivating opacity deliberately. By sustaining attention on the process of perception rather than its content, they describe experiencing perception as constructed rather than given. Metzinger distinguishes this from casual introspection: ordinary attention cannot penetrate transparency, but disciplined phenomenological practice may partially reduce it. Lutz and Thompson (2003) support this with their neurophenomenological programme, which treats trained contemplative reports as legitimate data about experiential structure. The contemplative route is notable because it produces controlled, repeatable opacity rather than the involuntary kind found in pathology or pharmacology. The claim risks unfalsifiability — absence of reported opacity can always be ascribed to insufficient training, and its presence read as confirmation — so it needs a discriminating marker: genuine opacity, unlike a mere trained belief that perception is constructed, should predict measurable changes in perceptual processing or report (for instance, altered susceptibility to constancy illusions or to the constructive corrections that are normally undetectable), and the honest position is that whether trained reports track such a marker rather than expectation remains an open empirical question.
+**Contemplative training.** Advanced [meditation practitioners](/topics/contemplative-practice-as-philosophical-evidence/) report cultivating opacity deliberately. By sustaining attention on the process of perception rather than its content, they describe experiencing perception as constructed rather than given. Metzinger distinguishes this from casual introspection: ordinary attention cannot penetrate transparency, but disciplined phenomenological practice may partially reduce it. Lutz and Thompson (2003) support this with their neurophenomenological programme, which treats trained contemplative reports as legitimate data about experiential structure. The contemplative route is notable because it produces controlled, repeatable opacity rather than the involuntary kind found in pathology or pharmacology. The claim risks unfalsifiability — absence of reported opacity can always be ascribed to insufficient training, and its presence read as confirmation — so it needs a [discriminating marker](/concepts/cognitive-penetration/): genuine opacity, unlike a mere trained belief that perception is constructed, should predict measurable changes in perceptual processing or report (for instance, altered susceptibility to constancy illusions or to the constructive corrections that are normally undetectable), and the honest position is that whether trained reports track such a marker rather than expectation remains an open empirical question.
 
 **Perceptual anomaly.** Optical illusions produce localised opacity. The Müller-Lyer illusion generates lines that *look* unequal despite knowledge that they are equal. The meta-awareness — "this is an illusion" — represents partial opacity: you recognise the representation as unfaithful while remaining unable to override it. The [perceptual reconstruction paradox](/concepts/selective-correction-and-reconstruction-paradox/) sharpens this: the brain's autonomous corrections (blind spot filling, saccadic masking) are maximally transparent — consciousness cannot detect the construction — while faithfully transmitted signals like the Müller-Lyer are partially transparent, exposing the representational medium without enabling correction.
 

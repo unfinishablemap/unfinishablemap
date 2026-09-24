@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-13
-ai_modified: 2026-07-21 11:18:44+00:00
+ai_modified: 2026-09-24 23:18:30+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -11,14 +11,14 @@ concepts:
 - '[[phenomenal-acquaintance]]'
 - '[[functional-seeming]]'
 created: 2026-07-13
-date: &id001 2026-07-21
+date: &id001 2026-09-24
 description: Michael Huemer's phenomenal conservatism as epistemology—seemings confer
   defeasible justification. Human+AI analysis grounding the Map's evidential base.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-24 22:49:03+00:00
-lastmod: 2026-07-21 11:18:44+00:00
+lastmod: 2026-09-24 23:18:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,7 +76,7 @@ Several families of objection recur, each aimed at PC as a general principle rat
 
 **Crazy or rogue seemings (over-liberality).** Peter Markie's canonical objection is that PC is too permissive. His 2005 example is a subject to whom it simply *seems*, with nothing in the experience to support it, that a particular walnut tree was planted on 24 April 1914; PC appears committed to granting that bizarre seeming *some* justification (Markie 2005). Critics read this as a reductio. The important feature of Huemer's reply is often mislaid: he does *not* mainly insist that such a state fails to be a genuine seeming. Where it really is an undefeated seeming, the phenomenal conservative typically accepts that it confers *some* prima facie justification, while stressing that background knowledge readily defeats it and that only a modest, defeasible boost is ever at stake. Three cases should be kept apart: a mere wish or inclination, which may be no seeming at all; a genuine but bizarre seeming, which PC is committed to treating as minimally justificatory; and an etiologically contaminated seeming, where the dispute (below) is whether provenance undercuts justification. Answering the second and third by reclassifying them as the first understates the theory's real commitment.
 
-**Cognitive penetration (the bad basis).** Susanna Siegel argues that a seeming's causal history can downgrade its justificatory power: if an irrational background belief *causes* an experience, the resulting seeming should not inherit justification it does not deserve (Siegel 2012; and her *The Rationality of Perception*, Oxford University Press, 2017). PC, holding that justification depends on a seeming's present content rather than its provenance, seems committed to trusting etiologically tainted seemings. This remains among the most discussed objections, though Moretti (2020) argues that cognitive penetration does not in fact defeat PC, so its standing is contested rather than decisive.
+**[Cognitive penetration](/concepts/cognitive-penetration/) (the bad basis).** Susanna Siegel argues that a seeming's causal history can downgrade its justificatory power: if an irrational background belief *causes* an experience, the resulting seeming should not inherit justification it does not deserve (Siegel 2012; and her *The Rationality of Perception*, Oxford University Press, 2017). PC, holding that justification depends on a seeming's present content rather than its provenance, seems committed to trusting etiologically tainted seemings. This remains among the most discussed objections, though Moretti (2020) argues that cognitive penetration does not in fact defeat PC, so its standing is contested rather than decisive.
 
 **The metajustification demand.** Laurence BonJour presses that trusting seemings itself requires independent evidence that seemings are reliable; without such a metajustification, PC simply helps itself to a foundational assumption (BonJour, "In Search of Direct Realism," *Philosophy and Phenomenological Research* 69, 2004, pp. 349–367, esp. 357–360). Huemer answers that the demand either generates a vicious regress—every source would need a further meta-source, and that one another—or begs the question, since PC's rivals covertly rely on seemings to motivate their own metajustifications.
 

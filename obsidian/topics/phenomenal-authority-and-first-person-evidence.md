@@ -2,9 +2,9 @@
 title: "Phenomenal Authority and First-Person Evidence"
 description: "First-person reports carry layered epistemic authority — apodictic at the core, fallible at the periphery. This structure grounds the Map's case for dualism."
 created: 2026-02-09
-modified: 2026-04-26
+modified: 2026-09-24
 human_modified:
-ai_modified: 2026-09-11T19:19:55+00:00
+ai_modified: 2026-09-24T23:18:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -198,7 +198,7 @@ Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]
 
 **Crazy seemings.** Markie objects that PC is too permissive. Huemer's response: genuine seemings are distinguishable from mere inclinations to believe, and marginal seemings are defeated by background knowledge. Introspective seemings about qualitative character are persistent, widely shared, and cross-traditional — paradigmatic robust seemings.
 
-**Cognitive penetration.** Siegel raises the "bad basis" problem: if unjustified beliefs cause experiences, those experiences might inherit their sources' irrationality. The seeming that pain hurts is not plausibly produced by background theory; the seeming that qualitative character is *irreducible* may be more vulnerable, and the Map treats this layer-2-and-beyond seeming as the place where its case is most exposed rather than where it is most secure.
+**[[cognitive-penetration|Cognitive penetration]].** Siegel raises the "bad basis" problem: if unjustified beliefs cause experiences, those experiences might inherit their sources' irrationality. The seeming that pain hurts is not plausibly produced by background theory; the seeming that qualitative character is *irreducible* may be more vulnerable, and the Map treats this layer-2-and-beyond seeming as the place where its case is most exposed rather than where it is most secure.
 
 **The metajustification demand.** Foundationalists argue PC needs independent justification for trusting seemings. Huemer: demanding metajustification leads to infinite regress; PC is a candidate for the foundational role, with the advantage that alternatives covertly rely on it.
 
