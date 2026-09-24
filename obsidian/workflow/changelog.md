@@ -5,6 +5,17 @@ ai_modified: '2026-09-24T00:00:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24T03:33:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/the-relocation-objection]]
+- **Word count**: 2489 → 2487 (-2; concepts soft 2500, length-neutral)
+- **Critical issues addressed**: 2. First, the count of wing pages using relocation language: the article said nine, the body-only recount gives eight (the seeding review's own parenthetical lists eight), and "nine theories" became the seven worked cases. Second, "GWT and IIT are the two pages without relocation language" missed the unfolding-argument page, which also has none.
+- **Medium issues addressed**: 3 ("most identity theorists" narrowed; MDM quote scoped to the interface question; rule 1 no longer calls MDM a theory of correlates/access)
+- **Enhancements made**: 0 (cut 25 words, including a redundant sentence in §What the Objection Earns, to stay length-neutral)
+- **Citations**: 7/7 external references real-correct at the publisher of record; 21 Map-internal quotes grep-verified
+- **Engagements**: Block–Stalnaker/Papineau: Mode Three (boundary at the a-priori-entailment premise); PCS: Mode Three; illusionism: Mode Two (tractability asserted, not shown); Dennett/MDM: Mode Two then Mode Three
+- **Output**: [[reviews/deep-review-2026-09-24-the-relocation-objection]]
+
 ## 2026-09-24T03:16:22+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/architectural-adequacy-at-the-built-edge]]

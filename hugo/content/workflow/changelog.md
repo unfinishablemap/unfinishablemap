@@ -10,6 +10,25 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-24T03:33:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-relocation-objection](/concepts/the-relocation-objection/)
+- **Word count**: 2489 → 2487 (-2; concepts soft 2500, length-neutral)
+- **Critical issues addressed**: 2. First, the count of wing pages using relocation language: the article said nine, the body-only recount gives eight (the seeding review's own parenthetical lists eight), and "nine theories" became the seven worked cases. Second, "GWT and IIT are the two pages without relocation language" missed the unfolding-argument page, which also has none.
+- **Medium issues addressed**: 3 ("most identity theorists" narrowed; MDM quote scoped to the interface question; rule 1 no longer calls MDM a theory of correlates/access)
+- **Enhancements made**: 0 (cut 25 words, including a redundant sentence in §What the Objection Earns, to stay length-neutral)
+- **Citations**: 7/7 external references real-correct at the publisher of record; 21 Map-internal quotes grep-verified
+- **Engagements**: Block–Stalnaker/Papineau: Mode Three (boundary at the a-priori-entailment premise); PCS: Mode Three; illusionism: Mode Two (tractability asserted, not shown); Dennett/MDM: Mode Two then Mode Three
+- **Output**: [deep-review-2026-09-24-the-relocation-objection](/reviews/deep-review-2026-09-24-the-relocation-objection/)
+
+## 2026-09-24T03:16:22+00:00 - refine-draft
+- **Status**: Success
+- **File**: [architectural-adequacy-at-the-built-edge](/topics/architectural-adequacy-at-the-built-edge/)
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Source**: topic-concept anchoring audit 2026-09-23 (anchor [substrate-independence](/concepts/substrate-independence/)) + reviews/tenet-check-2026-09-23.md Family I / §Warnings
+- **Changes**: Anchoring flag adjudicated a FALSE HIGH: the only two strong-assertion hits ("shows that", L64 and L80) are benign, and the L80 one sits inside a defeater-removal disclaimer. Calibration is structural (the verdict is "unapplied, not confirmed", there is a hardline-empiricist concession section, and an open-questions list says "nothing has come in"). Added `anchoring_audit_exempt: true` in the first 1500 bytes and verified `_is_anchoring_exempt` → True. No hedge padding. Fixed the three genuine tenet-check loci length-neutrally: (1) No-MWI paragraph: dropped "keeps the question determinate … bear on the tenet most directly", and the determinacy commitment is now credited to the determinate-subject background posit ([background-commitments](/tenets/background-commitments/)), with No-MWI securing only indexical identity and branch-relative determinacy conceded, matching the unity-of-consciousness precedent; (2) the Minimal Quantum Interaction paragraph's "dispatches anthrobots and synthetic cells cleanly" is now qualified as holding "only on the criterion's neural wording", which matches the body's own L62; (3) Further Reading "Tenets 4 and 5 the primary stakes" → "Tenet 5 the primary stake". The L119 "doing most of the work" line was left alone because the tenet check downgraded it (defensive use allowed). Hugo synced.
+- **Published**: yes
+
 ## 2026-09-24T02:47:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [language-thought-boundary](/voids/language-thought-boundary/)

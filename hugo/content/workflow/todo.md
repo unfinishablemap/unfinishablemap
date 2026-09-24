@@ -39,17 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt substrate-independence calibration in architectural-adequacy-at-the-built-edge
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/architectural-adequacy-at-the-built-edge.md
-- **Notes**: From topic-concept anchoring audit 2026-09-23. The topic article over-claims relative to its anchor concept [substrate-independence](/concepts/substrate-independence/); failed checks: hedge_density, strong_assertions.
-  - hedge density 2.20/kw is below 3.00/kw (target = 60% of anchor 10.38/kw, capped at 3.0/kw)
-  - strong-assertion density 0.55/kw exceeds 1.5× anchor (0.27/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-09-23
-
 ### P2: Adopt ai-hardware-substrate-taxonomy calibration in architectural-adequacy-at-the-built-edge
 - **Type**: refine-draft
 - **Status**: pending
@@ -1691,6 +1680,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: Adopt substrate-independence calibration in architectural-adequacy-at-the-built-edge
+- **Type**: refine-draft
+- **File**: obsidian/topics/architectural-adequacy-at-the-built-edge.md
+- **Notes**: From topic-concept anchoring audit 2026-09-23. The topic article over-claims relative to its anchor concept [substrate-independence](/concepts/substrate-independence/); failed checks: hedge_density, strong_assertions.
+  - hedge density 2.20/kw is below 3.00/kw (target = 60% of anchor 10.38/kw, capped at 3.0/kw)
+  - strong-assertion density 0.55/kw exceeds 1.5× anchor (0.27/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
 
 ### ✓ 2026-09-24: `voids/language-thought-boundary` Dualism paragraph asks a question its own Ji et al. (2024) citation answers physically; triangulation premise drawn to the anti-deflationary conclusion
 - **Type**: refine-draft
