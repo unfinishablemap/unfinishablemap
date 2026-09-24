@@ -5,6 +5,11 @@ ai_modified: '2026-09-24T00:00:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24T02:40:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: voids/language-thought-boundary.md (no prior pessimistic review; oldest unreviewed). Seven issues: the Dualism inference is refuted by the article's own Ji et al. 2024 citation, and its falsifier is already partly met; epistemic→metaphysical equivocation on constitutive privacy; Quine non-sequitur; Russian claim cited to a Greek study (Thierry 2009, verified) plus 4 reference orphans; Tenet 3 assumed; Occam non-sequitur; overclaims. One P2 refine-draft task queued.
+- **Output**: [[reviews/pessimistic-2026-09-24-language-thought-boundary]]
+
 ## 2026-09-24T01:46:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/neural-correlates-of-consciousness]]

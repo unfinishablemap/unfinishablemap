@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: `voids/language-thought-boundary` Dualism paragraph asks a question its own Ji et al. (2024) citation answers physically; triangulation premise drawn to the anti-deflationary conclusion
+- **Type**: refine-draft
+- **File**: obsidian/voids/language-thought-boundary.md
+- **Status**: pending
+- **Notes**: See [[pessimistic-2026-09-24-language-thought-boundary]]. Priority order: **(1, High)** Relation-to-Site Dualism paragraph ("why would describing it be categorically harder") is answered by the article's own Ji et al. 2024 compression account (physicalist, Bengio group). Downgrade ineffability to compatibility and move the dualist weight onto the residue compression leaves untouched (why the lost detail is *felt*). Update the "Neuroscience reveals mechanism" falsifier to say a candidate mechanism exists. **(2, High)** Qualia §Privacy and publicity: epistemic evidence (cannot verify or transmit) drawn to a metaphysical conclusion ("constitutively private"), and the triangulation premise is normally the premise of the beetle-in-the-box *deflation*. Split the readings, or say why non-conceptual acquaintance escapes the argument. **(3, Med-High)** Quine paragraph: indeterminacy means overtranslatability or no fact of the matter, not "genuinely unexplorable". Recast it as a limit on determinacy. **(4, Med)** Russian *siniy/goluboy* claim is cited only to Thierry et al. 2009, which is GREEK (ghalazio/ble; verified at PNAS). Swap the example to Greek (cheaper) or add Winawer et al. 2007 PNAS 104(19). Refs Boroditsky 2011, Franke 2014, Thierry 2009 and Nagel 1974 are body orphans. **(5, Med)** Tenet 3 paragraph ("mental causation in action") assumes the tenet. Recast as coherence, matching today's sibling fixes. **(6)** Occam's first conditional is a non-sequitur; cut it. Soften "permanently destroys" and "mystics report consistently". Chomsky 2014 quote VERIFIED; do not re-check. **LENGTH**: `analyze_length` = **2960** (voids hard 3000, gate `>=`, headroom **39**). Net change must be ≤0. Fund it from the Tenet 2 paragraph (content-thin), the Occam conditional, and the AI-section bullets.
+
 ### P2: Adopt substrate-independence calibration in architectural-adequacy-at-the-built-edge
 - **Type**: refine-draft
 - **Status**: pending
