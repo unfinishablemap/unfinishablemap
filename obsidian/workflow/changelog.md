@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-24T08:16:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-24T10:25:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The inheritance problem for the psychophysical law
+- **Output**: [[research/inheritance-problem-for-the-psychophysical-law-2026-09-24]]
+- **Sources consulted**: 14
+
 ## 2026-09-24T09:46:32+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/causal-closure]]

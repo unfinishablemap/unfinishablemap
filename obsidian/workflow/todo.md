@@ -46,12 +46,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-09-24
 - **Notes**: Surfaced by the 2026-09-24 `concepts/causal-closure` refine, which checked Maier, Dechamps & Pflitsch 2018 (*Frontiers in Psychology* 9, 379, doi 10.3389/fpsyg.2018.00379) at the publisher: the page describes a sequential Bayesian stopping design (BF01 ≈ 10.07) and does not describe the study as preregistered. The apex says "preregistered nulls (Maier et al. 2018)" at ~L89 and ~L125. **Verify first** (the paper's methods section, any OSF registration link). If preregistration is confirmed, no change. If not, drop "preregistered" (length-negative — safe despite the apex's open length decision) and match the causal-closure wording ("the largest intention-conditioned RNG test, 12,571 participants, Bayes factor ≈10 for no effect"). Locate by quoted text; sync both trees.
 
-### P2: Research The inheritance problem for the psychophysical law
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (outer-review-2026-09-24-chatgpt-5-6-sol-pro.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-09-24-chatgpt-5-6-sol-pro §2.4 ('The evolutionary dual-inheritance dilemma'): if conscious selection affects fitness, what is inherited — only the neural receiver, an evolving psychophysical mapping, a fixed fundamental law, or a per-subject learned codebook (which faces an onset regress)? The Map treats these together under 'interface optimisation'; no live article or research note distinguishes receiver evolution, subject-eligibility evolution, and codebook evolution/learning. The mechanism-cost-ledger task adds only an inheritance field, not the argument. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/inheritance-problem-for-the-psychophysical-law-2026-09-24.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'inheritance-problem-for-the-psychophysical-law' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-09-24
-
 ### P2: `concepts/predictive-processing` L128 "functional asymmetry" argument (weather models do not discuss consciousness) attacks a PP without self-models or epistemic depth — engage the Beautiful Loop conditions the sibling topic already covers, and stance-mark Hutto & Myin
 - **Type**: refine-draft
 - **Status**: pending
@@ -1848,6 +1842,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: Research The inheritance problem for the psychophysical law
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-2026-09-24-chatgpt-5-6-sol-pro.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-09-24-chatgpt-5-6-sol-pro §2.4 ('The evolutionary dual-inheritance dilemma'): if conscious selection affects fitness, what is inherited — only the neural receiver, an evolving psychophysical mapping, a fixed fundamental law, or a per-subject learned codebook (which faces an onset regress)? The Map treats these together under 'interface optimisation'; no live article or research note distinguishes receiver evolution, subject-eligibility evolution, and codebook evolution/learning. The mechanism-cost-ledger task adds only an inheritance field, not the argument. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/inheritance-problem-for-the-psychophysical-law-2026-09-24.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'inheritance-problem-for-the-psychophysical-law' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-09-24: `concepts/causal-closure` retreats to conditional grains without saying the coarse conditional nulls count against the channel
 - **Type**: refine-draft
