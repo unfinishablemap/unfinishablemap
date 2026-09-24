@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-24T18:01:38+00:00'
+ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-24T19:04:19+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The ethics of overlapping minds
+- **Output**: [[research/ethics-of-overlapping-minds-2026-09-24]]
+- **Sources consulted**: 16 (metadata for 14 checked on Crossref/OpenAlex; full text read for Gottlieb & Fischer 2024 and the Schwitzgebel & Garza 2015 draft; Roelofs & Sebo 2024 abstract only)
+- **Verdict**: Assess-first found the normative counting rule has no home on the Map. [[moral-census-opacity]] covers only the epistemic count, and the sibling note `aggregation-problem-overlapping-minds-2026-07-18` was never used because topics/ was at cap. That block has lifted: the cap is now 360 and topics/ holds 329. Recommends ONE topics article (`ethics-of-overlapping-minds`) that draws on both notes. The note sets out the Map's implied count-by-subjects rule, separates P-AC3 moral weight from the P-SC2 causal-composition copies question, and names the cost of the fission verdict against Parfit.
+- **Corrections to the 07-18 note**: "Counting Subjects" is Gottlieb & Fischer (2024, *Inquiry* 69(4)), two authors. The Roelofs AJP paper is 102(1): 131–146 (online 2022).
 
 ## 2026-09-24T18:18:07+00:00 - deep-review
 - **Status**: Success
