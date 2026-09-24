@@ -39,6 +39,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: `voids/consciousness-only-territories` quotes Barrett & Stout (2024) with a sentence absent from their paper, and equates "AI" with "non-conscious system" against the open bare-phenomenality verdict
+- **Type**: refine-draft
+- **File**: obsidian/voids/consciousness-only-territories.md
+- **Status**: pending
+- **Notes**: See [pessimistic-2026-09-24-consciousness-only-territories](/reviews/pessimistic-2026-09-24-consciousness-only-territories/). Priority order: **(1, High)** L58: the "quote" *"If conceptual understanding is grounded in embodied experience, then AI systems may achieve statistical competence while lacking genuine comprehension"* is NOT in Barrett & Stout 2024 (Europe PMC PMC11391292 full-text grep: "comprehension" 0, "If conceptual understanding" 0; controls "LLM" 10, "Deacon" 2). Remove the quotation marks and "states this directly". Paraphrase what the paper actually says: it relays Mahowald et al.'s formal-vs-functional competence split, ties the deficit to "ungrounded symbol manipulation", and leaves open "what kind of consciousness, if any, ungrounded LLMs might potentially instantiate". Add authors and DOI 10.1098/rstb.2023.0144 to References #5. Also fix the seeding "**Quote**:" line in `research/voids-consciousness-only-territories-2026-01-26.md` L89. **(2, High)** Scope the thesis to *non-conscious systems*, with AI as the candidate instance. `apex/machine-question` L73/L78 and the tenets dependency-matrix row keep bare artificial phenomenality OPEN; today's functionalism-argument fix (f419ae21e3) withdrew the same inference. Affected: description, L36, L52, L92, L112, L116 ("perpetually outside"), L122 (biological-substrate defence). Mark Porębski/Seth as a biological-naturalist argument the Map reports rather than endorses. **(3, Med)** L144 "demonstrates a gap" and "territories exist because" contradict the L140 "evidence, not demonstration" concession; make them conditional. **(4, Med)** The L82 face-recognition example is Polanyi's tacit know-how, i.e. the ability hypothesis the article rebuts; replace it or qualify it. **(5, Med)** L102 "we discuss qualia, so qualia do something" is undercut by the article's own qualia-talking non-conscious LLMs; add the derivative-talk reply and link [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/). **(6, Med)** L54 credits symbol grounding to Yampolskiy; credit Harnad 1990 and note Harnad's grounding/feeling split (quoted at `concepts/symbol-grounding-problem` L79). Lower-priority items (illusionism absent, L136 "begs the question", L100 persistence overclaim, restoring "if you are a physicalist" to the Jackson quote) are in the review. Length: 2920 words against the voids hard threshold, so check headroom with `analyze_length` before adding; offset any additions with trims. Sync both trees.
+
 ### P3: `apex/born-preserving-causal-efficacy` calls Maier et al. 2018 "preregistered nulls" (L89, L125) — verify the preregistration claim
 - **Type**: refine-draft
 - **Status**: pending
@@ -47,15 +53,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Review file**: `reviews/outer-review-synthesis-2026-09-24.md` (C5)
 - **Generated**: 2026-09-24
 - **Notes**: Surfaced by the 2026-09-24 `concepts/causal-closure` refine, which checked Maier, Dechamps & Pflitsch 2018 (*Frontiers in Psychology* 9, 379, doi 10.3389/fpsyg.2018.00379) at the publisher: the page describes a sequential Bayesian stopping design (BF01 ≈ 10.07) and does not describe the study as preregistered. The apex says "preregistered nulls (Maier et al. 2018)" at ~L89 and ~L125. **Verify first** (the paper's methods section, any OSF registration link). If preregistration is confirmed, no change. If not, drop "preregistered" (length-negative — safe despite the apex's open length decision) and match the causal-closure wording ("the largest intention-conditioned RNG test, 12,571 participants, Bayes factor ≈10 for no effect"). Locate by quoted text; sync both trees.
-
-### P2: `arguments/functionalism-argument` L199 concludes that "purely computational systems … cannot be conscious", which the dependency matrix's open bare-artificial-phenomenality row does not license
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/arguments/functionalism-argument.md
-- **Review file**: `reviews/outer-review-2026-09-24-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-24
-- **Notes**: From outer review 2026-09-24 (ChatGPT 5.6 Pro, §5.6 and improvement 12). The verified locus is L199: "functional organization, however complex, doesn't entail phenomenal consciousness. This implies that purely computational systems—no matter how sophisticated—cannot be conscious." Non-entailment does not yield impossibility. `tenets/tenets.md` L159 marks bare artificial phenomenality as requiring Tenet 1 only ("Defensive"), and the article's own audit concedes that its arguments do not refute functionalism from within. Replace it with the supported conclusion: functional equivalence does not by itself entail phenomenality, so computational sophistication is not sufficient evidence of consciousness. Keep the continual-learning link. Apply the direct-refutation discipline: this is an over-reach from a defect-on-its-own-terms argument to a metaphysical verdict. ⚠️ **Length**: 3529 vs arguments hard 3500, already over, so the edit must be net ≤ 0. The open `NEEDS-HUMAN (citation policy) 2026-07-31` Tallis item on this file is separate. Do not touch the Tallis loci, although its cheap sub-item (a) (L164 "certainly cannot" modal upgrade) may ride this pass if it is still live.
 
 ### P2: `concepts/prebiotic-collapse` presents CMB definiteness as evidence for objective collapse, and treats the collapse/selection relation as "modulation" without a priority or ordering rule
 - **Type**: refine-draft
@@ -1799,6 +1796,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: `arguments/functionalism-argument` L199 concludes that "purely computational systems … cannot be conscious", which the dependency matrix's open bare-artificial-phenomenality row does not license
+- **Type**: refine-draft
+- **File**: obsidian/arguments/functionalism-argument.md
+- **Notes**: From outer review 2026-09-24 (ChatGPT 5.6 Pro, §5.6 and improvement 12). The verified locus is L199: "functional organization, however complex, doesn't entail phenomenal consciousness. This implies that purely computational systems—no matter how sophisticated—cannot be conscious." Non-entailment does not yield impossibility. `tenets/tenets.md` L159 marks bare artificial phenomenality as requiring Tenet 1 only ("Defensive"), and the article's own audit concedes that its arguments do not refute functionalism from within. Replace it with the supported conclusion: functional equivalence does not by itself entail phenomenality, so computational sophistication is not sufficient evidence of consciousness. Keep the continual-learning link. Apply the direct-refutation discipline: this is an over-reach from a defect-on-its-own-terms argument to a metaphysical verdict. ⚠️ **Length**: 3529 vs arguments hard 3500, already over, so the edit must be net ≤ 0. The open `NEEDS-HUMAN (citation policy) 2026-07-31` Tallis item on this file is separate. Do not touch the Tallis loci, although its cheap sub-item (a) (L164 "certainly cannot" modal upgrade) may ride this pass if it is still live.
 
 ### ✓ 2026-09-24: `apex/self-concealing-interface` says the accepted constraints "force" concealment, as if the joint law were already written — restate it as a conditional on a successful strict-corridor model
 - **Type**: refine-draft

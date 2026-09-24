@@ -10,6 +10,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-24T15:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-only-territories](/voids/consciousness-only-territories/) (+ [voids-consciousness-only-territories-2026-01-26](/research/voids-consciousness-only-territories-2026-01-26/))
+- **Review file**: [pessimistic-2026-09-24-consciousness-only-territories](/reviews/pessimistic-2026-09-24-consciousness-only-territories/)
+- **Original score**: 6/10 (fabricated quote; AI/non-conscious conflation)
+- **Changes**: (1) Removed fabricated Barrett & Stout "quote"; replaced with verified paraphrase + two verbatim phrases ("the limitations of ungrounded symbol manipulation"; "what kind of consciousness, if any, ungrounded LLMs might potentially instantiate"), checked against Europe PMC PMC11391292 full text; Ref #5 now has authors, vol/issue/article no., DOI 10.1098/rstb.2023.0144 (Crossref-confirmed). Research note L89 "Quote:" line replaced with a correction note and accurate key points. (2) Scoped thesis to non-conscious systems with AI as candidate instance, linking [machine-question](/apex/machine-question/) (bare phenomenality open): description, lead, L48 "alone", L52, L56, L60, Mapping From Outside, L112, AI-safety paragraph (Porebski/Seth marked as biological-naturalist arguments the Map reports, not endorses; "perpetually outside" removed; prediction-from-correlates concession), "Maybe AI is conscious" objection rewritten (biology defence dropped). (3) Relation section: "exist because" -> "would exist if"; "demonstrates" -> "if sound, shows". (4) Face-recognition example qualified as possibly tacit know-how; acquaintance claim relocated to what recognition is like. (5) Comparative-function item: derivative-talk reply + [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) link. (6) Symbol grounding credited to Harnad 1990 with his grounding/feeling split; Yampolskiy ref replaced by Harnad. Lower-priority: L100 persistence downgraded to weak evidence; L136 "begs the question" replaced with non-discrimination reply + [functionalism-argument](/arguments/functionalism-argument/); Jackson quote qualifier "if you are a physicalist" restored; "differs categorically" x2 removed. Trim offset: condensed duplicated Lewis/Loar/Dennett background at L44 and L100 (all treated in Objections). Length 2920 -> 2995 (hard 3000). Illusionism paragraph NOT added (no headroom).
+- **Engagement classification**: Lewis/Loar/Dennett: unchanged (mixed, Mode One/Three); functional-equivalence objection: Mode Three (co-occurrence cannot discriminate; dispute relocated to knowledge/conceivability arguments), replacing a question-begging charge.
+- **Published**: yes
+
+## 2026-09-24T13:40:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: voids/consciousness-only-territories. Selected as the oldest article never reviewed pessimistically; the voids section is outside the deep-review pool. Found a fabricated Barrett & Stout (2024) verbatim quote (confirmed absent by full-text grep) and an AI = non-conscious equation that contradicts the open bare-phenomenality verdict. Also found an internal "demonstrates" vs "evidence, not demonstration" contradiction and a face-recognition example that supports the ability hypothesis. One P2 refine-draft task added.
+- **Output**: [pessimistic-2026-09-24-consciousness-only-territories](/reviews/pessimistic-2026-09-24-consciousness-only-territories/)
+
 ## 2026-09-24T12:45:57+00:00 - refine-draft
 - **Status**: Success
 - **File**: [functionalism-argument](/arguments/functionalism-argument/)

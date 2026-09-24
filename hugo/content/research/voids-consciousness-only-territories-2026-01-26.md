@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-01-26 19:45:00+00:00
+ai_modified: 2026-09-24 15:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,7 +14,7 @@ date: &id001 2026-01-26
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-01-26 19:45:00+00:00
+lastmod: 2026-09-24 15:00:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -86,9 +86,11 @@ The [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/) article exa
 - **Key points**:
   - Embodied cognition holds that cognition is grounded in bodily sensation and movement
   - AI lacks sensory organs, bodily vulnerability, and affective states grounding its cognition
-  - If understanding is grounded in embodied experience, AI may achieve statistical competence without genuine comprehension
+  - Relays Mahowald et al.: LLMs master formal but not functional language competence; floats the alternative reading that the deficits reflect "the limitations of ungrounded symbol manipulation"
+  - Leaves open "what kind of consciousness, if any, ungrounded LLMs might potentially instantiate"
 - **Tenet alignment**: Supports view that consciousness involves more than information processing; relates to Bidirectional Interaction if bodily experience requires conscious feedback
-- **Quote**: "If conceptual understanding is grounded in embodied experience, then AI systems may achieve statistical competence while lacking genuine comprehension."
+- **Authors**: Louise Barrett & Dietrich Stout (theme-issue introduction), *Phil. Trans. R. Soc. B* 379(1911): 20230144
+- **Correction (2026-09-24)**: A sentence previously recorded here as a verbatim quote (contrasting AI "statistical competence" with "genuine comprehension") does NOT appear in the paper (Europe PMC PMC11391292 full-text check). Do not quote it. The two quoted phrases in Key points above are verified verbatim.
 
 ### The Acquaintance Trilemma (Pallagrosi, PhilArchive)
 - **URL**: https://philarchive.org/rec/PALTAT-6
