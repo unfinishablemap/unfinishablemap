@@ -4,7 +4,7 @@ description: "The moment attention returns from wandering reveals a micro-struct
 created: 2026-02-10
 modified: 2026-02-10
 human_modified:
-ai_modified: 2026-08-08T18:26:29+00:00
+ai_modified: 2026-09-24T18:18:07+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-10
 last_curated:
-last_deep_review: 2026-07-14T18:10:24+00:00
+last_deep_review: 2026-09-24T18:18:07+00:00
 ---
 
 The moment you notice your mind has wandered and bring attention back to the breath, the book, the conversation — this is among the most revealing micro-events in conscious life. Meditators perform it thousands of times. Most people do it daily without reflection. Yet the phenomenology of returning attention contains a structure that resists easy materialist explanation: a gap where no one was watching, a spontaneous noticing that seems to come from nowhere, and a deliberate re-engagement that feels like genuine agency. The Unfinishable Map's framework — in which consciousness selects among physical possibilities through [[attention-as-interface|attention]] — predicts exactly this structure and illuminates why it feels the way it does.
@@ -51,7 +51,7 @@ This is phenomenologically significant. During wandering, there is still experie
 
 Suddenly, you realise you have wandered. This moment — the noticing — has a distinctive phenomenal signature. It arrives with a quality of surprise or recognition: "Oh, I've been thinking about work." The noticing is typically not a decision. You did not choose to notice. It interrupts the wandering stream with a meta-cognitive flash that was not planned or directed.
 
-Hasenkamp et al. (2012) identified this moment in fMRI studies of meditators. The salience network — anterior insula and anterior cingulate cortex — activates at the point of noticing, before any re-engagement of the dorsal attention network. The brain's conflict-detection system fires first: something has gone wrong relative to the intention.
+Hasenkamp et al. (2012) identified this moment in fMRI studies of meditators, who pressed a button whenever they realised they had wandered. Salience-network regions — anterior insula and anterior cingulate cortex — were active in the awareness interval, which precedes the shift in which executive-network regions re-engage. The brain's conflict-detection system fires first: something has gone wrong relative to the intention.
 
 The phenomenology here is paradoxical. If consciousness was absorbed in wandering, who or what noticed the wandering? The noticing seems to emerge from a layer of awareness that was operative even during the absence of meta-awareness — a background monitoring that does not appear in experience until the moment it surfaces.
 
@@ -59,7 +59,7 @@ The phenomenology here is paradoxical. If consciousness was absorbed in wanderin
 
 After noticing, you deliberately bring attention back to the intended object. This phase feels effortful. It has the character of [[phenomenology-of-agency-vs-passivity|agency]] — you are doing something, not merely undergoing it. The contrast with Phase Two is stark: noticing happened *to* you; returning is something *you do*.
 
-Neurally, this phase engages the dorsolateral prefrontal cortex and the dorsal attention network. The [[attention-as-interface|frontal theta signature]] of willed attention appears. The full machinery of executive control re-engages to override the wandering stream and redirect focus.
+Neurally, Hasenkamp et al. found this shifting phase engaged elements of the executive network, including dorsolateral prefrontal cortex. The [[attention-as-interface|frontal theta signature]] of willed attention appears.
 
 ## Why the Gap Matters
 
@@ -81,13 +81,13 @@ The Map favours the selection account. It preserves consciousness as genuinely i
 
 Meditation training progressively transforms all three phases. This transformation provides evidence that the phenomenology of returning attention is not fixed neural output but something that responds to conscious practice.
 
-**Shortening the gap**: Experienced meditators report that the wandering phase grows shorter with practice. The interval between losing and noticing diminishes. Hasenkamp et al. (2012) found that meditators' attention cycles could be tracked in real time via fMRI, with experienced practitioners tending toward shorter wandering episodes and faster transitions back to focused attention. The meta-awareness function becomes more responsive, as though practice strengthens the background monitoring.
+**Shortening the gap**: Experienced meditators report that the wandering phase grows shorter with practice. The interval between losing and noticing diminishes, and Lutz et al. (2008) describe advanced practitioners as having an especially acute ability to notice when the mind has wandered. Hasenkamp et al. (2012) found that activation across the phases of the cycle was modulated by lifetime meditation experience, with more experienced practitioners disengaging default-mode activity more quickly after noticing. The meta-awareness function becomes more responsive, as though practice strengthens the background monitoring.
 
 **Softening the noticing**: Beginners often experience noticing with self-criticism — "I wandered again, I'm doing this wrong." Advanced practitioners describe noticing without judgement, a bare registering that attention has moved. The emotional charge diminishes while the clarity of recognition increases. This parallels the development of [[witness-consciousness|witness consciousness]]: a capacity to observe without evaluating.
 
 **Effortless returning**: Early in practice, returning attention requires muscular effort — a sense of hauling the mind back. Later, returning becomes gentler, more like releasing a grip than forcing a shift. The [[meditation-and-consciousness-modes|FA-to-OM progression]] mirrors this: initial effortful selection gives way to a lighter mode of re-engagement.
 
-These changes track real neural differences. Brefczynski-Lewis et al. (2007) found that experienced meditators showed less activation in attention-regulation regions during sustained attention tasks, consistent with reduced effort. The phenomenology of ease corresponds to measurable neural efficiency.
+These changes have neural correlates, though not a simple monotonic one. Brefczynski-Lewis et al. (2007) found an inverted-U pattern in sustained-attention regions: expert meditators averaging 19,000 hours of practice showed *more* activation than novices, while those averaging 44,000 hours showed *less*. The reduced activation at the highest levels of practice is consistent with the reported ease, but the intermediate rise shows that expertise does not map onto neural economy in a straight line.
 
 ## The Authorship Question
 
@@ -113,9 +113,9 @@ This connects to the [[meditation-and-consciousness-modes|two-mode framework]]. 
 
 ## The Meditator's Laboratory
 
-Focused-attention meditation is essentially the deliberate repetition of the return cycle. The meditator sets an intention (watch the breath), loses it (wandering), notices the loss (meta-awareness), and returns (voluntary attention) — then repeats. This makes meditation a natural laboratory for studying the phenomenology of returning attention.
+Focused-attention meditation is essentially the deliberate repetition of the return cycle, which makes it a natural laboratory for studying the phenomenology of returning attention.
 
-Lutz et al. (2008) proposed a four-phase model of focused attention meditation that maps onto the three phases above, with the addition of sustained attention after return:
+Lutz et al. (2008) identified three regulative skills exercised in focused attention meditation: monitoring for distraction, disengaging from it, and redirecting focus to the chosen object. Hasenkamp et al. (2012) built these into a four-interval model of the cycle that maps onto the three phases above, with the addition of sustained attention after return:
 
 1. Mind-wandering (Phase One)
 2. Awareness of mind-wandering (Phase Two)
@@ -124,19 +124,19 @@ Lutz et al. (2008) proposed a four-phase model of focused attention meditation t
 
 The value of this cycle is not the sustained focus at the end — that is unstable and temporary. The value is in the return itself. Each return exercises the full circuit of meta-awareness, agency, and voluntary control. The meditator's skill is not the ability to never wander but the ability to return efficiently, gently, and without self-recrimination.
 
-This has implications for the [[contemplative-epistemology|contemplative epistemology]] the Map endorses. Trained meditators become expert at observing through [[introspection]] the micro-structure of their own attention. Their reports about the three phases — the absence of meta-awareness during wandering, the surprise of noticing, the effort of returning — converge across traditions and cultures (a pattern consistent with the broader cross-cultural findings on mind-wandering reviewed by Smallwood & Schooler, 2015). This convergence, increasingly supported by [[neurophenomenology-and-contemplative-neuroscience|neurophenomenological]] research, suggests they are reporting real phenomenological structure rather than culturally constructed narratives — though shared neural architecture may also contribute to the consistency.
+This has implications for the [[contemplative-epistemology|contemplative epistemology]] the Map endorses. Trained meditators become expert at observing through [[introspection]] the micro-structure of their own attention. Their reports about the three phases — the absence of meta-awareness during wandering, the surprise of noticing, the effort of returning — converge across traditions and cultures, and they fit the experimental literature reviewed by Smallwood & Schooler (2015), which ties the functional outcomes of mind wandering to its relation with meta-cognition. This convergence, increasingly supported by [[neurophenomenology-and-contemplative-neuroscience|neurophenomenological]] research, suggests they are reporting real phenomenological structure rather than culturally constructed narratives — though shared neural architecture may also contribute to the consistency.
 
 ## The Illusionist Objection
 
-Cross-traditional convergence answers the charge that these reports are culturally constructed, but not the sharper objection, which comes from illusionism. Frankish's distortion thesis, examined at [[functional-seeming]], grants that introspective *access* is real while holding that introspective *interpretation* is systematically flawed: what meditators detect are quasi-phenomenal properties, physical states that introspection misrepresents as phenomenal. On that reading every phase described here survives as a claim about reports. The wandering, the noticing and the return remain real functional transitions; what is denied is that the noticing carries phenomenal surprise, the return phenomenal effort, the gap phenomenal absence. [[heterophenomenology|Heterophenomenology]] supplies the method: collect what the meditator says, explain the saying third-personally, and stay neutral on whether anything was felt.
+Cross-traditional convergence answers the charge that these reports are culturally constructed, but not the sharper objection, which comes from illusionism. Frankish's illusionism (Frankish 2016), in the distortion-thesis form examined at [[functional-seeming]] (Gorbachev & Frankish 2025), grants that introspective *access* is real while holding that introspective *interpretation* is systematically flawed: what meditators detect are quasi-phenomenal properties, physical states that introspection misrepresents as phenomenal. On that reading every phase described here survives as a claim about reports. The wandering, the noticing and the return remain real functional transitions; what is denied is that the noticing carries phenomenal surprise, the return phenomenal effort, the gap phenomenal absence. [[heterophenomenology|Heterophenomenology]] supplies the method: collect what the meditator says, explain the saying third-personally, and stay neutral on whether anything was felt.
 
 The objection cannot be closed by insisting that something must undergo the illusion. A representational system need not instantiate what it represents, and the illusionist is entitled to that reply; the regress is a framework-boundary point rather than an in-framework refutation.
 
-What the return cycle does supply is the training gradient documented above. Discriminations grow finer with practice: the gap shortens, the noticing sheds its evaluative charge, the effort softens into release. Richer confabulation is an awkward explanation for a capacity that becomes more precise under training, and this is the pressure [[contemplative-practice-as-philosophical-evidence|contemplative evidence]] applies generally. It remains pressure rather than proof. No one has yet shown that these particular reported structures carry distinct neural signatures, and an illusionist who holds that refined reports track refined misrepresentation is not thereby refuted. The disagreement sits at the framework boundary.
+What the return cycle does supply is the training gradient documented above. Discriminations grow finer with practice: the gap shortens, the noticing sheds its evaluative charge, the effort softens into release. Richer confabulation is an awkward explanation for a capacity that becomes more precise under training, and this is the pressure [[contemplative-practice-as-philosophical-evidence|contemplative evidence]] applies generally. It remains pressure rather than proof. The neural correlates cited above track the functional transitions, which the illusionist already grants; nothing in them shows that the refined reports track phenomenal rather than quasi-phenomenal properties, and an illusionist who holds that refined reports track refined misrepresentation is not thereby refuted. The disagreement sits at the framework boundary.
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]**: The gap between wandering and noticing poses a challenge for any identity theory of consciousness. If consciousness just *is* brain activity, then brain activity was present throughout wandering — so why was meta-awareness absent? The meditator's brain was generating thoughts the entire time. What was missing was not neural activity but *a particular relationship between consciousness and that activity* — the monitoring relationship. The gap suggests consciousness is not identical to the stream of thought but can relate to that stream in different ways.
+**[[tenets#^dualism|Dualism]]**: The gap between wandering and noticing shows that experience and meta-awareness come apart: the meditator was conscious throughout wandering, yet the monitoring relation was missing. An identity theorist can map this onto the disengagement of particular monitoring networks, so the dissociation alone does not refute identity. What the Map draws from it is a structural point: consciousness is not identical to the stream of thought but can stand in different relations to that stream, and the return is a change in that relation rather than merely a change in content.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The three-phase structure exemplifies bidirectional causation within a single attentional event. The brain generates the mismatch signal (physical to mental). Consciousness recognises and acts on it (mental to physical). Neither direction alone produces the return — it requires both.
 
@@ -164,6 +164,8 @@ What the return cycle does supply is the training gradient documented above. Dis
 ## References
 
 1. Brefczynski-Lewis, J.A., Lutz, A., Schaefer, H.S., Levinson, D.B. & Davidson, R.J. (2007). Neural correlates of attentional expertise in long-term meditation practitioners. *PNAS*, 104(27), 11483-11488.
+1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Gorbachev, M. & Frankish, K. (2025). Illusionism and the distortion thesis. *Synthese*, 205(6), 247.
 1. Hasenkamp, W., Wilson-Mendenhall, C.D., Duncan, E. & Barsalou, L.W. (2012). Mind wandering and attention during focused meditation: A fine-grained temporal analysis of fluctuating cognitive states. *NeuroImage*, 59(1), 750-760.
 1. Lutz, A., Slagter, H.A., Dunne, J.D. & Davidson, R.J. (2008). Attention regulation and monitoring in meditation. *Trends in Cognitive Sciences*, 12(4), 163-169.
 1. Schooler, J.W. (2002). Re-representing consciousness: Dissociations between experience and meta-consciousness. *Trends in Cognitive Sciences*, 6(8), 339-344.

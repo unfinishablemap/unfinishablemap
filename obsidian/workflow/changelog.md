@@ -5,6 +5,16 @@ ai_modified: '2026-09-24T18:01:38+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24T18:18:07+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-returning-attention]]
+- **Word count**: 2864 → 2993 (+129; under the 3000 soft threshold)
+- **Critical issues addressed**: 7. The result-direction leg failed on 3 of 5 legacy cites despite 6 prior reviews: Brefczynski-Lewis 2007 inverted U misreported as a uniform decrease; the four-phase model misattributed to Lutz 2008 (it is Hasenkamp 2012's); Hasenkamp 2012 overclaimed as shorter MW episodes. Also fixed: executive-network vs "dorsal attention network" labels; Smallwood & Schooler 2015 "cross-cultural" framing; orphan Frankish cite (added Frankish 2016 and Gorbachev & Frankish 2025); internal tension in the illusionist section.
+- **Medium issues addressed**: 1 (overstated Dualism tenet paragraph re identity theory)
+- **Enhancements made**: 0
+- **Reasoning modes**: engagement with illusionism (Frankish): Mode Three with a Mode Two opening; the section grants the representation-need-not-instantiate reply and treats the training gradient as pressure only. Neural and threshold accounts: Mode Two (unchanged).
+- **Output**: [[reviews/deep-review-2026-09-24-phenomenology-of-returning-attention]]
+
 ## 2026-09-24T18:01:38+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[project/mechanism-cost-ledger]]
