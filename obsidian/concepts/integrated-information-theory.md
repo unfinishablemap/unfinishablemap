@@ -4,7 +4,7 @@ description: "Consciousness as integrated information (phi). IIT takes phenomeno
 created: 2026-01-09
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-09-23T19:01:18+00:00
+ai_modified: 2026-09-24T07:45:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -147,7 +147,7 @@ IIT's willingness to accept panpsychism also aligns with the [[tenets#^occams-li
 
 ### Where IIT Conflicts
 
-The Map's framework requires that consciousness be *causally efficacious*—that it influence physical outcomes. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness "selects among superposed neural states, collapsing quantum indeterminacy."
+The Map's framework requires that consciousness be *causally efficacious*—that it influence physical outcomes. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness "is not a passive observer—it causally influences the physical world."
 
 IIT has no room for this. If consciousness *is* integrated information, it doesn't *do* anything to the physical. It is physical structure in a certain configuration. As the [[metaphysics-of-information-under-dualism|metaphysics of information under dualism]] argues, identifying consciousness with any physical quantity—however sophisticated—is a category error if dualism is true. The phi-structure doesn't cause neural events; it constitutes them. This is identity, not causation. The [[causal-interface|causal interface]]—the mechanism by which intention becomes action—remains invisible in IIT because there is no interface: consciousness and physical structure are one.
 

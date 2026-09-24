@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-24T00:00:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-24T07:45:52+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/integrated-information-theory]]
+- **Original score**: n/a (targeted outer-review fix; `scripts/curate.py` absent)
+- **Changes**: "Where IIT Conflicts" quoted non-existent tenet text ("selects among superposed neural states, collapsing quantum indeterminacy", 0 hits in `tenets.md`) and so placed a pre-decoherence collapse mechanism inside Tenet 3. Replaced with the live tenet's verbatim wording ("is not a passive observer—it causally influences the physical world"); no mechanism attributed. Net length +1 word (headroom was 63). Both trees synced; COGITATE double-count not reopened. Source: `reviews/outer-review-2026-09-24-chatgpt-5-6-sol-pro.md` improvement 13.
+- **Published**: yes
+
 ## 2026-09-24T07:30:44+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/self-model-theory-of-subjectivity]]

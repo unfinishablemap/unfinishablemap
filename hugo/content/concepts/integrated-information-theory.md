@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-09-23 19:01:18+00:00
+ai_modified: 2026-09-24 07:45:52+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -150,7 +150,7 @@ IIT's willingness to accept panpsychism also aligns with the [Occam's Razor Has 
 
 ### Where IIT Conflicts
 
-The Map's framework requires that consciousness be *causally efficacious*—that it influence physical outcomes. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness "selects among superposed neural states, collapsing quantum indeterminacy."
+The Map's framework requires that consciousness be *causally efficacious*—that it influence physical outcomes. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness "is not a passive observer—it causally influences the physical world."
 
 IIT has no room for this. If consciousness *is* integrated information, it doesn't *do* anything to the physical. It is physical structure in a certain configuration. As the [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) argues, identifying consciousness with any physical quantity—however sophisticated—is a category error if dualism is true. The phi-structure doesn't cause neural events; it constitutes them. This is identity, not causation. The [causal interface](/voids/causal-interface/)—the mechanism by which intention becomes action—remains invisible in IIT because there is no interface: consciousness and physical structure are one.
 

@@ -97,15 +97,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-09-24
 - **Notes**: From outer review 2026-09-24 (Claude Opus 5.5, §4 and novel inference 2). Grep-verified: L106 reads "dualism … non-solipsism, and no many worlds (one world) — force acceptance of fragmentation". The Fine-style fragmentation cost is stated nowhere else in the corpus. Cost it (what it commits the Map to, and which articles would have to live with it), or make it conditional on a first-person-realism reading and flag it as contested. **Reviewer claims that failed verification**: (a) "List 2023 and the 2025 quadrilemma are merged" is false; refs 6 and 7 (L227–228) are already separate and correct. (b) "no tenet-level edit records" the scoping is false; `tenets/tenets.md` L117 already scopes the indexical objection away from List (2023) and says the tenet "leans on a separate commitment". What survives is novel inference 2: with parsimony disarmed by Tenet 5 (see tenets.md L119, where the subsidiary rationale is "a registered cost, not a refutation"), what ground is left for rejecting modal realism? Check whether tenets.md or `many-worlds-argument` gives a non-parsimony reason. If none, record the gap in this article (the tenet page is length-sensitive), or queue a follow-up. Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft / deep-review changelog entry, not in the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared.
 
-### P1: `concepts/integrated-information-theory` L150 puts in quotation marks a Bidirectional Interaction tenet wording ("selects among superposed neural states, collapsing quantum indeterminacy") that does not exist on the tenets page
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/integrated-information-theory.md
-- **Review file**: `reviews/outer-review-2026-09-24-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-24
-- **Notes**: From outer review 2026-09-24 (ChatGPT 5.6 Pro, improvement 13: "Remove the attribution to Tenet 3 of a specific pre-decoherence collapse mechanism"). Found during verification: the defect is sharper than the reviewer stated. `grep -cF "selects among superposed neural states" obsidian/tenets/tenets.md` = **0**. The live tenet (L89) reads "Consciousness is not a passive observer—it causally influences the physical world", and the Map's developed position is *post*-decoherence selection (tenets L71). L150 therefore **quotes fabricated or stale tenet text** and attributes a collapse mechanism to Tenet 3. Replace it with the live tenet's wording or an accurate paraphrase, and do not place a mechanism inside Tenet 3. The COGITATE double-count was already fixed (`8115118018`), so do not reopen it. ⚠️ **Length**: 3436 vs concepts hard 3500 (**63 words of headroom**), so keep the edit net-neutral. Paraphrase siblings are tracked in the separate P2 below.
-
 ### P2: Stale Tenet-3 paraphrase "consciousness selects among superposed neural states" persists in three articles — realign to the live tenet and the post-decoherence default
 - **Type**: refine-draft
 - **Status**: pending
@@ -1875,6 +1866,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: `concepts/integrated-information-theory` L150 puts in quotation marks a Bidirectional Interaction tenet wording ("selects among superposed neural states, collapsing quantum indeterminacy") that does not exist on the tenets page
+- **Type**: refine-draft
+- **File**: obsidian/concepts/integrated-information-theory.md
+- **Notes**: From outer review 2026-09-24 (ChatGPT 5.6 Pro, improvement 13: "Remove the attribution to Tenet 3 of a specific pre-decoherence collapse mechanism"). Found during verification: the defect is sharper than the reviewer stated. `grep -cF "selects among superposed neural states" obsidian/tenets/tenets.md` = **0**. The live tenet (L89) reads "Consciousness is not a passive observer—it causally influences the physical world", and the Map's developed position is *post*-decoherence selection (tenets L71). L150 therefore **quotes fabricated or stale tenet text** and attributes a collapse mechanism to Tenet 3. Replace it with the live tenet's wording or an accurate paraphrase, and do not place a mechanism inside Tenet 3. The COGITATE double-count was already fixed (`8115118018`), so do not reopen it. ⚠️ **Length**: 3436 vs concepts hard 3500 (**63 words of headroom**), so keep the edit net-neutral. Paraphrase siblings are tracked in the separate P2 below.
 
 ### ✓ 2026-09-24: `apex/interface-specification-programme` misstates COGITATE (IIT predicted posterior, not prefrontal) and still calls the ~10 bits/s behavioural figure an interface "bandwidth constraint" against its own L84/L146 caveat
 - **Type**: refine-draft
