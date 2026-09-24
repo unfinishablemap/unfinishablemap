@@ -4,6 +4,12 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-24T00:00:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-24T06:34:43+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Agency and will wing, 8 articles never named in any Aug/Sep optimistic review (akrasia-and-weakness-of-will, frankfurt-cases-and-the-principle-of-alternate-possibilities, the-manipulation-argument-and-hard-incompatibilism, frankfurt-hierarchical-mesh-theory-of-the-will, phenomenology-of-agency-vs-passivity, spontaneous-intentional-action, phenomenology-of-choice-and-volition, authorship-of-action-divergence). Finding: two unlinked clusters (0 cross-cluster body links). The argument cluster is exemplary. The phenomenology trio still treats felt agency as a readout in places; spontaneous-intentional-action L132's common-cause concession is the repair template. Also flagged: the phenomenology-of-agency-vs-passivity L147 Zeno/biasing conflation (cf. 06064f2b).
+- **Tasks**: 4 P3 refine-draft (choice-and-volition calibration; agency-vs-passivity length-neutral calibration; spontaneous Wegner paragraph; akrasia to mesh/choice bridge)
+- **Output**: [[reviews/optimistic-2026-09-24-agency-and-will-wing]]
+
 ## 2026-09-24T06:16:22+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/born-rule-and-the-consciousness-interface]]
