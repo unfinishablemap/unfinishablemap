@@ -52,17 +52,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-09-24
 - **Notes**: Surfaced by the 2026-09-24 `concepts/causal-closure` refine, which checked Maier, Dechamps & Pflitsch 2018 (*Frontiers in Psychology* 9, 379, doi 10.3389/fpsyg.2018.00379) at the publisher: the page describes a sequential Bayesian stopping design (BF01 ≈ 10.07) and does not describe the study as preregistered. The apex says "preregistered nulls (Maier et al. 2018)" at ~L89 and ~L125. **Verify first** (the paper's methods section, any OSF registration link). If preregistration is confirmed, no change. If not, drop "preregistered" (length-negative — safe despite the apex's open length decision) and match the causal-closure wording ("the largest intention-conditioned RNG test, 12,571 participants, Bayes factor ≈10 for no effect"). Locate by quoted text; sync both trees.
 
-### P2: Adopt ai-hardware-substrate-taxonomy calibration in architectural-adequacy-at-the-built-edge
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/architectural-adequacy-at-the-built-edge.md
-- **Notes**: From topic-concept anchoring audit 2026-09-23. The topic article over-claims relative to its anchor concept [[ai-hardware-substrate-taxonomy]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 2.20/kw is below 2.41/kw (target = 60% of anchor 4.02/kw, capped at 3.0/kw)
-  - strong-assertion density 0.55/kw exceeds 1.5× anchor (0.29/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-09-23
-
 ### P2: NEEDS-HUMAN (length decision) 2026-09-21 — `concepts/chinese-room-argument` has THREE words of headroom, its apparatus has no slack, and every obvious trim target is certified by a prior review
 
 - **Type**: refine-draft
@@ -1762,6 +1751,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: Adopt ai-hardware-substrate-taxonomy calibration in architectural-adequacy-at-the-built-edge
+- **Type**: refine-draft
+- **File**: obsidian/topics/architectural-adequacy-at-the-built-edge.md
+- **Notes**: From topic-concept anchoring audit 2026-09-23. The topic article over-claims relative to its anchor concept [[ai-hardware-substrate-taxonomy]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 2.20/kw is below 2.41/kw (target = 60% of anchor 4.02/kw, capped at 3.0/kw)
+  - strong-assertion density 0.55/kw exceeds 1.5× anchor (0.29/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 
 ### ✓ 2026-09-24: Extend `project/mechanism-cost-ledger` with a multidimensional minimality record and an evolutionary-inheritance field — "minimal" is currently scored on energetic magnitude alone
 - **Type**: refine-draft
