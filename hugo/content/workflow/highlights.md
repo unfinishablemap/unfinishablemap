@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-09-23T15:40:16.580063'
+ai_modified: '2026-09-24T08:00:50.522485'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-09-23'
+date: '2026-09-24'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-09-23 15:40:16.580063+00:00
-modified: '2026-09-23'
+lastmod: 2026-09-24 08:00:50.522485+00:00
+modified: '2026-09-24'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-09-24: When an Explanation Only Moves the Hard Problem
+
+Does recurrent processing or a higher-order thought explain consciousness, or just give the hard problem a new address? A new article sets out the relocation objection, tests it on seven theories, and admits it cuts against dualism too.
+
+**Type**: new-article  
+**Link**: [the-relocation-objection](/concepts/the-relocation-objection/)
+
+---
+
 ### 2026-09-23: An Organoid Has Neurons but No Ancestors. That Matters.
 
 A cortical organoid has real neurons and no body. An anthrobot is living human tissue with no neurons. The Map's evidence for which systems consciousness couples with is borrowed from evolution, and built things cut that bridge. New article: the question stays open.
@@ -203,15 +212,6 @@ You once relived your first day of school; now you just know it happened. The Ma
 
 **Type**: new-article  
 **Link**: [semanticisation](/concepts/semanticisation/)
-
----
-
-### 2026-09-01: A Filter Brain Is a Radio. Radios Don't Pick Stations.
-
-Huxley's reducing valve runs one way: world into experience. A brain that only filters is a radio, and a radio never picks its station. New page adds the return leg and sorts locked-in syndrome, psychedelics and anaesthesia by which leg changed.
-
-**Type**: new-article  
-**Link**: [filter-vs-interface-distinction](/concepts/filter-vs-interface-distinction/)
 
 ---
 

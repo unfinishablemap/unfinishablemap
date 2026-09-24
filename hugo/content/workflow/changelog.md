@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-24T07:45:52+00:00 - refine-draft
+- **Status**: Success
+- **File**: [integrated-information-theory](/concepts/integrated-information-theory/)
+- **Original score**: n/a (targeted outer-review fix; `scripts/curate.py` absent)
+- **Changes**: "Where IIT Conflicts" quoted non-existent tenet text ("selects among superposed neural states, collapsing quantum indeterminacy", 0 hits in `tenets.md`) and so placed a pre-decoherence collapse mechanism inside Tenet 3. Replaced with the live tenet's verbatim wording ("is not a passive observer—it causally influences the physical world"); no mechanism attributed. Net length +1 word (headroom was 63). Both trees synced; COGITATE double-count not reopened. Source: `reviews/outer-review-2026-09-24-chatgpt-5-6-sol-pro.md` improvement 13.
+- **Published**: yes
+
 ## 2026-09-24T07:30:44+00:00 - deep-review
 - **Status**: Success
 - **File**: [self-model-theory-of-subjectivity](/concepts/self-model-theory-of-subjectivity/)

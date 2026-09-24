@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 20:10:08+00:00
-lastmod: 2026-09-23 19:01:18+00:00
+lastmod: 2026-09-24 07:45:52+00:00
 modified: *id001
 related_articles:
 - '[[temporal-consciousness-structure-and-agency]]'
