@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-09-24 09:46:32+00:00
+ai_modified: 2026-09-24 22:01:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 03:24:48+00:00
-lastmod: 2026-09-24 09:46:32+00:00
+lastmod: 2026-09-24 22:01:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -71,7 +71,7 @@ As Karl Popper noted, causal closure "is of decisive importance and I take it as
 
 ## The Exclusion Argument
 
-Jaegwon Kim's exclusion argument deploys causal closure against non-reductive physicalism, but it applies equally to dualism. (See [reductionism](/concepts/reductionism/) for fuller treatment of Kim's argument and how ontological, methodological, and epistemic reductionism differ.)
+Jaegwon Kim's [exclusion argument](/concepts/causal-exclusion-argument/) deploys causal closure against non-reductive physicalism, but it applies equally to dualism. (See [reductionism](/concepts/reductionism/) for fuller treatment of Kim's argument and how ontological, methodological, and epistemic reductionism differ.)
 
 1. Physical events have sufficient physical causes (causal closure)
 2. Mental events cause physical events (common-sense premise)

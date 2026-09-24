@@ -4,7 +4,7 @@ description: "Causal closure claims every physical event has sufficient physical
 created: 2026-01-14
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-09-24T09:46:32+00:00
+ai_modified: 2026-09-24T22:01:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -68,7 +68,7 @@ As Karl Popper noted, causal closure "is of decisive importance and I take it as
 
 ## The Exclusion Argument
 
-Jaegwon Kim's exclusion argument deploys causal closure against non-reductive physicalism, but it applies equally to dualism. (See [[reductionism]] for fuller treatment of Kim's argument and how ontological, methodological, and epistemic reductionism differ.)
+Jaegwon Kim's [[causal-exclusion-argument|exclusion argument]] deploys causal closure against non-reductive physicalism, but it applies equally to dualism. (See [[reductionism]] for fuller treatment of Kim's argument and how ontological, methodological, and epistemic reductionism differ.)
 
 1. Physical events have sufficient physical causes (causal closure)
 2. Mental events cause physical events (common-sense premise)

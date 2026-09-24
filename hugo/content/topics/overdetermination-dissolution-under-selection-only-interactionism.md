@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-08-27 06:42:00+00:00
+ai_modified: 2026-09-24 22:01:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 06:42:00+00:00
-lastmod: 2026-08-27 06:42:00+00:00
+lastmod: 2026-09-24 22:01:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -56,6 +56,8 @@ Jaegwon Kim's exclusion argument, in its [standard form](/concepts/mental-causat
 2. **Mental causation**: mental events cause physical effects.
 3. **No systematic overdetermination**: mental causes do not redundantly overdetermine effects alongside physical causes.
 4. **Non-reductionism**: mental properties are not identical to physical properties.
+
+(The [canonical five-commitment statement](/concepts/causal-exclusion-argument/), which also surveys the responses literature, numbers these differently: premises 1 and 3 here are its premises 2 and 5, and it states the exclusion principle separately.)
 
 The premise the dissolution argument targets is premise 1, but the leverage of premise 3 is what makes Kim's argument painful for the dualist. If premise 1 holds and premise 4 holds, then a non-physical mental cause must do one of two things: produce its effect *alongside* a sufficient physical cause (violating premise 3) or fail to produce the effect at all (violating premise 2, leaving [epiphenomenalism](/concepts/epiphenomenalism/) standing). Kim treats systematic overdetermination as an intolerable accident: two independent causal chains reliably converging on the same outcome with no coordinating mechanism is the kind of cosmic coincidence philosophy is entitled to refuse.
 

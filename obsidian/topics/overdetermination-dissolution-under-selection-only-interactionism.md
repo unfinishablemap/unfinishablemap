@@ -4,7 +4,7 @@ description: "How the Map's strictest reading of Tenet 2 dissolves Kim's overdet
 created: 2026-05-14
 modified: 2026-05-14
 human_modified:
-ai_modified: 2026-08-27T06:42:00+00:00
+ai_modified: 2026-09-24T22:01:00+00:00
 last_deep_review: 2026-08-27T06:42:00+00:00
 draft: false
 topics:
@@ -53,6 +53,8 @@ Jaegwon Kim's exclusion argument, in its [[mental-causation-and-downward-causati
 2. **Mental causation**: mental events cause physical effects.
 3. **No systematic overdetermination**: mental causes do not redundantly overdetermine effects alongside physical causes.
 4. **Non-reductionism**: mental properties are not identical to physical properties.
+
+(The [[causal-exclusion-argument|canonical five-commitment statement]], which also surveys the responses literature, numbers these differently: premises 1 and 3 here are its premises 2 and 5, and it states the exclusion principle separately.)
 
 The premise the dissolution argument targets is premise 1, but the leverage of premise 3 is what makes Kim's argument painful for the dualist. If premise 1 holds and premise 4 holds, then a non-physical mental cause must do one of two things: produce its effect *alongside* a sufficient physical cause (violating premise 3) or fail to produce the effect at all (violating premise 2, leaving [[concepts/epiphenomenalism|epiphenomenalism]] standing). Kim treats systematic overdetermination as an intolerable accident: two independent causal chains reliably converging on the same outcome with no coordinating mechanism is the kind of cosmic coincidence philosophy is entitled to refuse.
 

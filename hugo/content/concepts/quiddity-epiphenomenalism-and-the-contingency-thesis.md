@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-31
-ai_modified: 2026-09-08 21:17:14+00:00
+ai_modified: 2026-09-24 22:01:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-08 21:17:14+00:00
-lastmod: 2026-09-08 21:17:14+00:00
+lastmod: 2026-09-24 22:01:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -92,7 +92,7 @@ Why this matters for the contingency thesis specifically:
 
 - **No grounding relation to be contingent.** The contingency thesis needs a quiddity that *grounds* a disposition, so that a different quiddity could ground the same one. Delegation posits no such grounding: experience does not realise the disposition, it preempts the profile. There is no "could a different filler have done the same job" question of the relevant kind, because experience is not a filler.
 - **Phenomenal character is what preempts.** On the delegatory picture, the *specific* experience — this pain, this decision — is what takes over the causal work. Swap the experience and you change what is preempted. Phenomenal relevance (sense (2) above) is built in rather than drained away.
-- **The cost is relocated, not eliminated.** Delegation has its own hard questions — most pointedly [ensemble-level epiphenomenalism](/topics/the-epiphenomenalist-threat/): if selection only ever stays within the Born-rule distribution, a critic can ask whether the experience is doing token-causal work or merely riding the statistics physics already fixes. The Map answers this on *trumping* grounds (efficacy is structural, not statistical), and rates that answer as framework-internal rather than empirically demonstrable.
+- **The cost is relocated, not eliminated.** Delegation has its own hard questions — most pointedly [ensemble-level epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/): if selection only ever stays within the Born-rule distribution, a critic can ask whether the experience is doing token-causal work or merely riding the statistics physics already fixes. The Map answers this on *trumping* grounds (efficacy is structural, not statistical), and rates that answer as framework-internal rather than empirically demonstrable.
 
 So the honest summary is structural and modest: **the contingency thesis is a defeater for theories that make consciousness causal by grounding dispositions; the Map does not adopt that strategy, so the defeater does not transfer.** This is not a victory of interactionism over monism on the evidence. Both delegatory dualism and Russellian monism share the same empirical profile — neither makes distinctive testable predictions — and both could be wrong. What the contingency thesis establishes is narrower: one specific route to mental causation is blocked, and the Map happens not to take that route.
 

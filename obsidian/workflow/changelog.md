@@ -5,6 +5,13 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24T22:01:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/overdetermination-dissolution-under-selection-only-interactionism]] (+ [[concepts/causal-closure]], [[concepts/quiddity-epiphenomenalism-and-the-contingency-thesis]])
+- **Review file**: reviews/optimistic-2026-09-14-exclusion-mental-causation-wing.md (discharges optimistic-2026-07-27 cross-linking rows 2-3)
+- **Changes**: dissolution page — one parenthetical after the four-premise Kim list mapping its numbering onto the canonical five-commitment statement at [[causal-exclusion-argument]] (premises 1/3 here = 2/5 there; exclusion principle stated separately), ~35 words; causal-closure — zero-word pipe of the existing "Kim's exclusion argument" mention to [[causal-exclusion-argument]] (page at hard-cap headroom, no words added); quiddity page — retargeted the "ensemble-level epiphenomenalism" pipe from the-epiphenomenalist-threat to the dedicated [[ensemble-level-epiphenomenalism]] concept. Body-link counts to causal-exclusion-argument (frontmatter stripped) now 1 and 1 (were 0 and 0). No named-opponent engagement changed (no mode classification needed).
+- **Published**: yes
+
 ## 2026-09-24T21:31:07+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/pain-consciousness-and-causal-power]] (+ [[concepts/constitution-vs-causal-work]])
