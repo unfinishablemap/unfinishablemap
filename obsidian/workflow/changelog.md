@@ -5,6 +5,13 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24T20:19:30+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Cross-State Void (hot-cold empathy gap: a mind cannot represent the felt weight of its own other visceral/affective states)
+- **Category**: Mixed (Unexplorable, with natural occlusion)
+- **Output**: [[research/voids-cross-state-void-2026-09-24]]
+- **Key finding**: Content crosses between states and motivational weight does not. People who had never felt a cold-pressor pain rated its intensity about the same as those who had just felt it, yet accepted it for less money (Read & Loewenstein 1999). Remembered pain is not re-experienced (Morley 1993: 0 subjects). Instruction does not correct the gap (Nordgren et al. 2006). Hume's "faithful mirror … faint and dull" was verified verbatim. Voids gate count 103/115. Added to pending_articles. Distinctness table vs inaccessible-past, transformative-experience-void, affective-forecasting-gap and mood-void is included for the expand-topic writer. Flagged: Scarry quote is aggregator-only, and a "2025 ALE meta-analysis" from a search summary is untraceable and must not be cited.
+
 ## 2026-09-24T19:31:09+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/evolutionary-case-for-mental-causation]] (+ [[archive/topics/consciousness-as-intelligence-amplifier]], [[research/consciousness-influence-intelligence-2026-01-21]])
