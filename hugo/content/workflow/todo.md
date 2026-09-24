@@ -39,29 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt metacognition calibration in phenomenology-of-returning-attention
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/phenomenology-of-returning-attention.md
-- **Notes**: From topic-concept anchoring audit 2026-09-24. The topic article over-claims relative to its anchor concept [metacognition](/concepts/metacognition/); failed checks: hedge_density, strong_assertions.
-  - hedge density 2.67/kw is below 3.00/kw (target = 60% of anchor 7.91/kw, capped at 3.0/kw)
-  - strong-assertion density 1.34/kw exceeds 1.5× anchor (0.56/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-09-24
-
-### P2: Adopt default-mode-network calibration in phenomenology-of-returning-attention
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/phenomenology-of-returning-attention.md
-- **Notes**: From topic-concept anchoring audit 2026-09-24. The topic article over-claims relative to its anchor concept [default-mode-network](/concepts/default-mode-network/); failed checks: hedge_density, strong_assertions.
-  - hedge density 2.67/kw is below 3.00/kw (target = 60% of anchor 7.11/kw, capped at 3.0/kw)
-  - strong-assertion density 1.34/kw exceeds 1.5× anchor (0.34/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-09-24
-
-
 ### P2: NEEDS-HUMAN (length decision) 2026-09-21 — `concepts/chinese-room-argument` has THREE words of headroom, its apparatus has no slack, and every obvious trim target is certified by a prior review
 
 - **Type**: refine-draft
@@ -1752,6 +1729,22 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: Adopt default-mode-network calibration in phenomenology-of-returning-attention
+- **Type**: refine-draft
+- **File**: obsidian/topics/phenomenology-of-returning-attention.md
+- **Notes**: From topic-concept anchoring audit 2026-09-24. The topic article over-claims relative to its anchor concept [default-mode-network](/concepts/default-mode-network/); failed checks: hedge_density, strong_assertions.
+  - hedge density 2.67/kw is below 3.00/kw (target = 60% of anchor 7.11/kw, capped at 3.0/kw)
+  - strong-assertion density 1.34/kw exceeds 1.5× anchor (0.34/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
+
+### ✓ 2026-09-24: Adopt metacognition calibration in phenomenology-of-returning-attention
+- **Type**: refine-draft
+- **File**: obsidian/topics/phenomenology-of-returning-attention.md
+- **Notes**: From topic-concept anchoring audit 2026-09-24. The topic article over-claims relative to its anchor concept [metacognition](/concepts/metacognition/); failed checks: hedge_density, strong_assertions.
+  - hedge density 2.67/kw is below 3.00/kw (target = 60% of anchor 7.91/kw, capped at 3.0/kw)
+  - strong-assertion density 1.34/kw exceeds 1.5× anchor (0.56/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
 
 ### ✓ 2026-09-24: `topics/evolutionary-case-for-mental-causation` L188 cites "Heyes (2018)" on Dunstone & Caldwell's paper — wrong author, journal, volume and article number; three deep reviews certified it and one installed the name into the body
 - **Type**: refine-draft

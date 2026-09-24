@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-07-28 13:09:47+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_modified: 2026-09-24 21:15:44+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[qualia]]'
@@ -23,8 +23,8 @@ description: The phenomenal experience of seeing—what it's like to perceive co
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-14 19:31:00+00:00
-lastmod: 2026-07-28 13:09:47+00:00
+last_deep_review: 2026-09-24 21:15:44+00:00
+lastmod: 2026-09-24 21:15:44+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,7 +40,7 @@ topics:
 
 Visual consciousness is the phenomenal experience of seeing—what it's like to perceive colour, shape, motion, and spatial arrangement. It exemplifies the broader framework of [perception and conscious experience](/topics/dualist-perception/), where dissociations, phenomenal richness, and perspectival character reveal consciousness's irreducibility. When you look at a red apple, there is something it is like to experience its redness, its roundness, its position in space. This experiential quality constitutes visual consciousness, distinct from the mere processing of visual information that occurs in early visual cortex.
 
-The distinction matters because sophisticated visual processing can occur without visual consciousness, as [blindsight](/concepts/blindsight/) demonstrates. Patients with damage to primary visual cortex (V1) can discriminate visual stimuli—identifying location, motion direction, even emotional expressions—while reporting no conscious experience of seeing. Visual information reaches decision systems and guides action, yet produces no [qualia](/concepts/qualia/). This dissociation shows that visual consciousness is separable from visual processing—the two can come apart, which any purely reductive account must explain.
+The distinction matters because sophisticated visual processing can occur without visual consciousness, as [blindsight](/concepts/blindsight/) demonstrates. Patients with damage to primary visual cortex (V1) can discriminate visual stimuli—identifying location, motion direction, even emotional expressions—while reporting no conscious experience of seeing. Visual information reaches decision systems and guides action, yet patients report no [qualia](/concepts/qualia/). This dissociation indicates that visual consciousness is separable from visual processing—the two can come apart, which any purely reductive account must explain. The dissociation is not perfectly clean: blindsight performance is confined largely to forced-choice tasks, some patients report a vague non-visual "feeling", and Phillips (2021) argues that blindsight is qualitatively degraded conscious vision rather than its absence ([blindsight](/concepts/blindsight/) weighs these readings).
 
 ## The Structure of Visual Experience
 
@@ -50,7 +50,7 @@ Visual consciousness has distinctive phenomenal structure that shapes how we exp
 
 Visual experience presents objects as arranged in three-dimensional space before you. Unlike auditory or olfactory experience, vision delivers a spatial field with objects at determinate locations and distances. This spatial phenomenology is immediate—you don't infer that the tree is farther than the fence; you see it that way. The [3D world representation problem](/topics/three-dimensional-world-representation-problem/) asks why this spatial processing produces a felt three-dimensional arena rather than just correct spatial behaviour.
 
-The dominant computational answer is predictive processing and active inference, and its reach should not be understated. Friston-style generative models routinely derive egocentric centring, depth gradients, and perspectival layout from sensor fusion and precision-weighted prediction error; [sensorimotor-contingency accounts](/topics/sensorimotor-contingencies-and-the-interface/) address the immediacy directly, since inference running subpersonally is never experienced as inference. Spatial behaviour and the discrimination profile are computationally accounted for. What stays contested is narrower: whether a system that builds such a representation thereby has a felt arena, or has a representation that reports one. No current measurement discriminates the two, which leaves the disagreement at the framework boundary rather than settled against the computational account. [The Map's engagement with predictive processing](/topics/predictive-processing-and-dualism/) develops this at length, including why the formalism's metaphysical neutrality cuts in both directions.
+The dominant computational answer is predictive processing and active inference, and its reach should not be understated. Friston-style generative models aim to recover egocentric centring, depth gradients, and perspectival layout from sensor fusion and precision-weighted prediction error; [sensorimotor-contingency accounts](/topics/sensorimotor-contingencies-and-the-interface/) address the immediacy directly, since inference running subpersonally is never experienced as inference. Spatial behaviour and the discrimination profile are, on this programme, tractable computational targets. What stays contested at the framework boundary is narrower: whether a system that builds such a representation thereby has a felt arena, or has a representation that reports one. No current measurement discriminates the two, which leaves the disagreement at the framework boundary rather than settled against the computational account. [The Map's engagement with predictive processing](/topics/predictive-processing-and-dualism/) develops this at length, including why the formalism's metaphysical neutrality cuts in both directions.
 
 The visual field has egocentric structure: objects appear before you, to your left, above you. This perspectival character—being centred on *this* viewpoint—connects visual consciousness to questions of [indexical identity](/concepts/indexical-knowledge-and-identity/). Why does the visual world appear from *here* rather than *there*?
 
@@ -93,7 +93,7 @@ The [NCC](/concepts/neural-correlates-of-consciousness/) for visual consciousnes
 Key visual NCC findings:
 
 - **V1 is necessary for normal visual consciousness**: Damage produces [blindsight](/concepts/blindsight/)—preserved processing without phenomenal seeing
-- **V4 is necessary for colour consciousness**: Lesions cause achromatopsia—complete loss of colour experience while brightness perception remains
+- **The V4 complex is necessary for colour consciousness**: Ventral occipitotemporal lesions (lingual and fusiform gyri) cause cerebral achromatopsia—loss of colour experience, sometimes partial or confined to one hemifield, while brightness perception remains
 - **Motion area MT/V5 correlates with motion consciousness**: Damage impairs motion perception specifically
 - **Lateral occipital cortex correlates with object consciousness**: A key node in the ventral ("what") stream
 
@@ -113,7 +113,7 @@ Visual consciousness supports the Map's [foundational commitments](/tenets/) wit
 
 ### Dualism
 
-The existence of visual qualia—the felt quality of seeing colour, shape, motion—suggests physical description is incomplete. Physics describes wavelengths; it does not describe what redness looks like. The blindsight dissociation sharpens the point: identical visual discrimination can occur with or without conscious seeing. If visual processing were all that mattered, blindsight patients should report seeing. They don't. Visual consciousness is something beyond visual computation.
+The existence of visual qualia—the felt quality of seeing colour, shape, motion—suggests physical description is incomplete. Physics describes wavelengths; it does not describe what redness looks like. The blindsight dissociation sharpens the point: above-chance visual discrimination can occur without conscious seeing. The physicalist reply is that blindsight runs on different, degraded processing (the geniculostriate route through V1 is lost), so the dissociation shows only that some processing is conscious and some is not. That reply is fair as far as it goes, but it relocates the question rather than answering it: whatever distinguishes the conscious route, a structural and functional description of it still leaves open why *that* route is accompanied by seeing. Blindsight thus shows the two can come apart; it is the [explanatory-gap](/concepts/explanatory-gap/), not the dissociation alone, that points beyond visual computation.
 
 ### Bidirectional Interaction
 
@@ -149,10 +149,11 @@ The sheer complexity of visual consciousness—spatial layout, colour qualia, te
 ## References
 
 1. Block, N. (1995). On a confusion about a function of consciousness. *Behavioral and Brain Sciences*, 18(2), 227-247.
-1. Jackson, F. (1982). Epiphenomenal Qualia. *Philosophical Quarterly*, 32, 127-136.
+1. Jackson, F. (1982). Epiphenomenal Qualia. *Philosophical Quarterly*, 32(127), 127-136.
 1. Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: progress and problems. *Nature Reviews Neuroscience*, 17, 307-321.
 1. Lamme, V.A.F. (2003). Why visual attention and awareness are different. *Trends in Cognitive Sciences*, 7(1), 12-18.
 1. Cogitate Consortium (Ferrante, O., Gorska-Klimowska, U., et al.) (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. https://www.nature.com/articles/s41586-025-08888-1
+1. Phillips, I. (2021). Blindsight is qualitatively degraded conscious vision. *Psychological Review*, 128(3), 558-584.
 1. Nagel, T. (1974). What Is It Like to Be a Bat? *Philosophical Review*, 83(4), 435-450.
 1. Weiskrantz, L. (1986). *Blindsight: A case study and implications*. Oxford University Press.
 1. Zeki, S. (1993). *A Vision of the Brain*. Blackwell Scientific.

@@ -5,6 +5,16 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24T21:15:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/visual-consciousness]]
+- **Word count**: 2024 → 2172 (+148)
+- **Critical issues addressed**: 3. (1) The Dualism section's "identical visual discrimination" blindsight overstatement, missed by six prior reviews. Now "above-chance", with the physicalist different-processing reply stated and the conclusion carried by the explanatory gap. Engagement with the physicalist: Mode Two/Three mixed. (2) The lead's clean "no qualia" framing now notes forced-choice limits, Type 2 reports and Phillips (2021). (3) The 07-28 PP paragraph over-conceded ("routinely derive", "computationally accounted for"); now calibrated.
+- **Medium issues addressed**: 1 (V4/achromatopsia bullet re-scoped to the V4 complex, often partial)
+- **Citations**: Phillips 2021 added (Crossref-verified). Jackson 1982 issue number fixed. Nagel verified. Rest verified 07-14, unchanged.
+- **Enhancements made**: 2 (in-body links to [[explanatory-gap]] and [[blindsight]])
+- **Output**: [[reviews/deep-review-2026-09-24-visual-consciousness]]
+
 ## 2026-09-24T20:31:55+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-returning-attention]]
