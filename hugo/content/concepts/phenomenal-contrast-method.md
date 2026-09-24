@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-09-17 17:58:00+00:00
+ai_modified: 2026-09-24 12:15:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-31 14:53:23+00:00
-lastmod: 2026-09-17 17:58:00+00:00
+lastmod: 2026-09-24 12:15:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -138,6 +138,7 @@ The phenomenal contrast method serves the Map as both evidence and tool — evid
 - [imagery-void](/voids/imagery-void/) — Where phenomenal contrasts in imagery vividness expose structural limits of introspective comparability
 - [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/) — The apex synthesis extending the contrast method from individual to population scale across four within-species divergence classes
 - [Judging the Map as Science](/apex/judging-the-map-as-science/) — The applied synthesis that identifies within-subject contrast structure as the defensible instrument class left standing by the measurement-standards limit
+- [scale-types-for-phenomenal-quantities](/concepts/scale-types-for-phenomenal-quantities/) — Which scale type (ordinal, interval, ratio) within-subject contrasts can earn under measurement theory, and why cross-subject calibration fails formally
 - [descriptive-experience-sampling](/concepts/descriptive-experience-sampling/) — the sibling first-person instrument: Hurlburt's beeper method counts *frequencies* where contrast structures isolate *contrasts*. The synthesis names contrast structure alone; extending its defensible standing to DES's within-participant profiles is the Map's own step, and it does not carry to DES's cross-participant frequency aggregates
 
 ## References

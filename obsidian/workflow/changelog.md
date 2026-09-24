@@ -5,6 +5,16 @@ ai_modified: '2026-09-24T08:16:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24 12:15 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/scale-types-for-phenomenal-quantities]]
+- **Word count**: 3494 → 3492 (-2)
+- **Critical issues addressed**: 2 (interval-rung test misattributed to Reisenzein & Junge 2024 when the quadruple-axiom test and the 71–97% figures are Junge & Reisenzein 2016; claimed weak-ordering/sextuple tests the design could not run. Ordinal-rung pointer re-grounded on the 2024 transitivity analysis)
+- **Medium issues addressed**: 1 (Trendler convergence sentence)
+- **Enhancements made**: 3 (Junge & Reisenzein 2016 added to References; IIT "core measure" → "intrinsic-information measure" per Barbosa 2020; reciprocal link from concepts/phenomenal-contrast-method)
+- **Engagements**: operationalism Mode Two; Michell mixed; Trendler Mode Three with convergence discount; physicalist identity Mode Three
+- **Output**: [[reviews/deep-review-2026-09-24-scale-types-for-phenomenal-quantities]]
+
 ## 2026-09-24 12:01 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/baseline-cognition]] (+ [[concepts/retrocausality]], [[topics/presentiment-and-retrocausality]])
