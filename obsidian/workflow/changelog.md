@@ -5,6 +5,11 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24T22:30:40+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/consciousness-as-activity]] (oldest-deep-reviewed live article with no earlier pessimistic review). Found and verified: De Jaegher & Di Paolo 2013 is misframed as a mind–body paper (it is a social-cognition commentary). The same defect is in [[enactivism-challenge-to-interactionist-dualism]] L74 and the seeding research note, which also adds a spurious third author, Gallagher. Also found: the agent-dependence premise contradicts the article's own James/Whitehead roots; an epistemic→metaphysical slide plus a supervenience concession at L89; the combination problem misassigned to the property framing; process-identity physicalism never engaged; a spliced James quote. Respected the 2026-06-21 deep review's fences.
+- **Output**: [[reviews/pessimistic-2026-09-24-consciousness-as-activity]]; 1 P2 refine-draft task added to todo.md
+
 ## 2026-09-24T22:01:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/overdetermination-dissolution-under-selection-only-interactionism]] (+ [[concepts/causal-closure]], [[concepts/quiddity-epiphenomenalism-and-the-contingency-thesis]])
