@@ -52,15 +52,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-09-24
 - **Notes**: Surfaced by the 2026-09-24 `concepts/causal-closure` refine, which checked Maier, Dechamps & Pflitsch 2018 (*Frontiers in Psychology* 9, 379, doi 10.3389/fpsyg.2018.00379) at the publisher: the page describes a sequential Bayesian stopping design (BF01 ≈ 10.07) and does not describe the study as preregistered. The apex says "preregistered nulls (Maier et al. 2018)" at ~L89 and ~L125. **Verify first** (the paper's methods section, any OSF registration link). If preregistration is confirmed, no change. If not, drop "preregistered" (length-negative — safe despite the apex's open length decision) and match the causal-closure wording ("the largest intention-conditioned RNG test, 12,571 participants, Bayes factor ≈10 for no effect"). Locate by quoted text; sync both trees.
 
-### P2: Extend `project/mechanism-cost-ledger` with a multidimensional minimality record and an evolutionary-inheritance field — "minimal" is currently scored on energetic magnitude alone
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/project/mechanism-cost-ledger.md
-- **Review file**: `reviews/outer-review-2026-09-24-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-24
-- **Notes**: From outer review 2026-09-24 (ChatGPT 5.6 Pro, §2.3, §2.4 and methodology items 7 and 9). **(1) Minimality vector**: a mechanism can be minimal in per-event energy yet maximal in informational scope, coordination radius or law complexity (Born preservation across entangled systems, semantic mapping and multi-agent composition all need globally distributed information). The ledger's own L75 already says Tenet 5 does not discount coherence or specification costs, so global-coordination cost is ledger-owed. Add separate fields: energy/amplitude · spatial scope · information access · semantic specificity · coordination radius · law complexity. **(2) Inheritance**: for interface-optimisation claims, distinguish evolution of the physical receiver/controller, of subject eligibility, and of the psychophysical codebook (evolved, fixed-fundamental or learned, where the learned option creates an onset regress). Keep it compact, as ledger fields with one worked row (the default corridor mechanism), not an essay. This is a project doc, so reader-facing length limits apply loosely, but do not duplicate `apex/interface-specification-programme` prose.
-
 ### P2: Adopt ai-hardware-substrate-taxonomy calibration in architectural-adequacy-at-the-built-edge
 - **Type**: refine-draft
 - **Status**: pending
@@ -1771,6 +1762,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: Extend `project/mechanism-cost-ledger` with a multidimensional minimality record and an evolutionary-inheritance field — "minimal" is currently scored on energetic magnitude alone
+- **Type**: refine-draft
+- **File**: obsidian/project/mechanism-cost-ledger.md
+- **Notes**: From outer review 2026-09-24 (ChatGPT 5.6 Pro, §2.3, §2.4 and methodology items 7 and 9). **(1) Minimality vector**: a mechanism can be minimal in per-event energy yet maximal in informational scope, coordination radius or law complexity (Born preservation across entangled systems, semantic mapping and multi-agent composition all need globally distributed information). The ledger's own L75 already says Tenet 5 does not discount coherence or specification costs, so global-coordination cost is ledger-owed. Add separate fields: energy/amplitude · spatial scope · information access · semantic specificity · coordination radius · law complexity. **(2) Inheritance**: for interface-optimisation claims, distinguish evolution of the physical receiver/controller, of subject eligibility, and of the psychophysical codebook (evolved, fixed-fundamental or learned, where the learned option creates an onset regress). Keep it compact, as ledger fields with one worked row (the default corridor mechanism), not an essay. This is a project doc, so reader-facing length limits apply loosely, but do not duplicate `apex/interface-specification-programme` prose.
 
 ### ✓ 2026-09-24: `positions/subject-census` does not address census circularity — subjecthood is inferred from the very outcomes the census-indexed law is meant to govern
 - **Type**: positions-evolve

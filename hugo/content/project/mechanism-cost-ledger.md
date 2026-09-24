@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-25
-ai_modified: 2026-07-22 17:16:52+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-09-24 18:01:38+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts: []
 created: 2026-05-25
-date: &id001 2026-05-25
+date: &id001 2026-09-24
 description: Tenet 5 denies parsimony as a truth-tracker—but that denial can decay
   into a licence to ignore costs. The mechanism-cost ledger records what each mechanism
   the Map endorses owes, so anti-parsimony stays a discipline rather than an escape
@@ -15,7 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 20:52:12+00:00
-lastmod: 2026-07-22 17:16:52+00:00
+lastmod: 2026-09-24 18:01:38+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -31,6 +31,10 @@ related_articles:
 - '[[framework-stage-calibration]]'
 - '[[coherence-inflation-countermeasures]]'
 - '[[writing-style]]'
+- '[[interface-specification-programme]]'
+- '[[positions/quantum-interface]]'
+- '[[positions/subject-census]]'
+- '[[inheritance-problem-for-the-psychophysical-law-2026-09-24]]'
 title: Mechanism-Cost Ledger as Tenet-5 Discipline
 topics: []
 ---
@@ -65,7 +69,7 @@ This middle is the same shape as the [evidential-status discipline](/project/evi
 
 ## The Ledger Schema
 
-For each mechanism the Map endorses or treats as live, the article should be able to fill in five descriptive fields. As with the [causal-budget ledger](/project/causal-budget-ledger/), these are the editor's diagnostic vocabulary, not exposed as a table in article prose; the article expresses the same content in natural language per the [writing-style guide](/project/writing-style/).
+For each mechanism the Map endorses or treats as live, the article should be able to fill in five descriptive fields, plus two structured fields (6–7, [below](#minimality-vector-and-inheritance-fields)) owed by any mechanism that claims to be *minimal* or claims that evolution *optimises the interface*. As with the [causal-budget ledger](/project/causal-budget-ledger/), these are the editor's diagnostic vocabulary, not exposed as a table in article prose; the article expresses the same content in natural language per the [writing-style guide](/project/writing-style/).
 
 **1. Mechanism named.** What is the specific mechanism — not the tenet, the mechanism? "Post-decoherence selection," "Orch OR microtubule coherence," "Stapp quantum-Zeno attentional holding," "agent-causal persisting subject." A tenet is not a mechanism; the ledger entry is owed at the level where assumptions actually bite.
 
@@ -78,6 +82,21 @@ For each mechanism the Map endorses or treats as live, the article should be abl
 **5. Tenet-5 status of the cost.** Is this a cost the Map carries *because* Tenet 5 permits it (a parsimony-discounted cost), or a cost that survives Tenet 5 (an empirical or coherence cost Tenet 5 does not touch)? This is the field that prevents the escape-hatch misuse: a cost in the second category cannot be discharged by citing Tenet 5, and the entry says so explicitly.
 
 The fifth field is the discipline's hinge. Tenet 5 discounts *parsimony* costs — "this mechanism posits more entities" is a parsimony cost the tenet declines to weight. It does *not* discount *empirical* costs ("this mechanism requires coherence the measured decoherence times rule out") or *coherence* costs ("this mechanism requires a subject the rest of the corpus does not grant"). The [Tenet 2 minimality note](/tenets/#minimal-quantum-interaction) makes the parallel cut: Tenet 2's empirical-constraint minimality is not the truth-tracking minimality Tenet 5 declares unreliable. The mechanism-cost ledger generalises that cut to every mechanism the Map carries — sorting each cost into "Tenet-5-discountable" or "survives Tenet 5," and forbidding the framework from treating the second kind as if it were the first.
+
+### Minimality Vector and Inheritance Fields
+
+**6. Minimality vector.** "Minimal" is not one quantity. A mechanism can be minimal in per-event energy yet maximal in how much information it must consult, how far its coordination must reach, or how complex its governing law must be. Record six components separately, and claim minimality only per component:
+
+- **Energy / amplitude** — net energy or amplitude change per selection event.
+- **Spatial scope** — how large a physical region one selection event directly touches.
+- **Information access** — what the law must "know" to act correctly: local state only, or correlations with distant systems.
+- **Semantic specificity** — whether the law itself carries content (which intention maps to which outcome) or is content-neutral.
+- **Coordination radius** — how many selectors, systems or reference frames one event must be consistent with.
+- **Law complexity** — how much has to be written down to state the law, and whether it has been.
+
+Tenet-5 status per component: the parameter count of a law that has been *specified* is a parsimony cost and discountable; a law that is *unspecified*, or a coordination requirement nobody has shown can be met, is a specification and coherence cost and survives Tenet 5 (field 5). Smallness on the first component never discharges the others.
+
+**7. Inheritance (interface-optimisation claims only).** Where an article says evolution improves the interface, state *which* of three things is inherited: **R**, the physical receiver/controller; **E**, the physical conditions that make a system eligible to host a subject; **K**, the psychophysical codebook, stating whether it is *fixed-fundamental*, *evolved* (owes an inheritance channel, since subjects do not reproduce) or *learned* (owes an answer to the onset regress: learning seems to presuppose a working interface). Add the observation that would tell interface optimisation apart from ordinary neural adaptation. The argument for these distinctions, and the case that learning is brain-side against a fixed law so the regress reduces to the [pairing problem](/concepts/pairing-problem/), is developed in the [inheritance-problem research note](/research/inheritance-problem-for-the-psychophysical-law-2026-09-24/); the ledger records only the entry.
 
 ## Relation to the Mechanism-Costs Cartography
 
@@ -93,6 +112,22 @@ The two also differ in what they protect against. The cartography guards against
 
 The Map's most-endorsed mechanism. **Mechanism named:** consciousness biasing which outcome becomes actual from the improper reduced-state mixture left after decoherence completes. **Additional commitments:** a real actualisation event at which selection can occur; a conservation-respecting amplification pathway from quantum-scale selection to macroscopic outcome. **Empirical exposure:** the amplification gap — whether single-outcome amplification signatures are detectable in principle — is the live contestable commitment; it does *not* inherit the decoherence-timescale dispute, which is the mechanism's chief selling point over coherence-requiring rivals. **Leaner neighbour:** bare interactionism with no specified selection locus owes less but buys no timing answer; post-decoherence selection buys escape from the timescale objection. **Tenet-5 status:** the ontological cost (positing a real selection event) is partly parsimony-discountable; the empirical cost (the undetected amplification signature) survives Tenet 5 entirely and must not be discharged by citing it. The entry is honest because it concedes the second cost rather than folding it into the first.
 
+#### Fields 6–7 for the default corridor mechanism
+
+The Map's default is post-decoherence selection within the Born-preserving corridor ([P-Q2, P-Q7](/positions/quantum-interface/)).
+
+| Field | Entry | Tenet-5 status |
+|---|---|---|
+| Energy / amplitude | Claimed minimal: selection among already-decohered alternatives, with no net injection. Whether those alternatives are energy-degenerate is owed, not shown. | Owed part survives |
+| Spatial scope | Local per selector (a neural locus), but *which* system a selector is paired to is unfixed ([P-SC2](/positions/subject-census/#p-sc2)). | Survives |
+| Information access | Single-system marginals stay Born using local information only. Exact *joint* Born statistics across entangled systems with several selectors may need access to distant correlations; open. | Survives |
+| Semantic specificity | Content-neutral under the thin-law reading ([selection-only-channel](/concepts/selection-only-channel/)): meaning sits in the menu the brain prepares. The semantic-mapping cost moves to the receiver; it is not removed. | Moved to R, not discharged |
+| Coordination radius | **The heaviest component.** Concrete open items: multi-agent joint no-signalling and a Lorentz-covariant formulation of the selection event (the 2026-09-24 rescope of [P-Q7](/positions/quantum-interface/#p-q7) to single-system marginals, both debts carried under [P-Q10](/positions/quantum-interface/#p-q10); [multi-agent-born-preservation-problem](/topics/multi-agent-born-preservation-problem/)); many-subject composition, census circularity (subjecthood inferred from the outcomes the census-indexed law governs) and the copies question ([P-SC2](/positions/subject-census/#p-sc2), booked 2026-09-24). | Survives |
+| Law complexity | Unspecified: no worked toy model exists ([P-Q10](/positions/quantum-interface/#p-q10)). | Survives (specification debt) |
+| Inheritance | R evolves by ordinary selection. E evolves relative to an eligibility condition nobody has written down ([P-SC2](/positions/subject-census/#p-sc2)). K is fixed-fundamental and thin: the research note recommends this default, but no published article argues for it yet. Evolved K belongs to [evolution-under-dualism](/topics/evolution-under-dualism/)'s co-evolution model and owes an inheritance channel. Learned K is declined. Discriminating observation: the selector's bias must appear in *context-conditional* outcome statistics while the long-run marginal stays Born, or evolution cannot see it and R alone explains the adaptation. Whether per-trial indistinguishability permits this is open. | Survives |
+
+Read down the right-hand column: "minimal" is earned on energy only. Every other component either survives Tenet 5 as open debt or relocates cost rather than removing it. The fact that coordination radius is the heaviest component is itself what the ledger is for.
+
 ### Orch OR microtubule coherence
 
 A mechanism the Map treats as live but does not endorse. **Mechanism named:** Penrose–Hameroff orchestrated objective reduction in neural microtubules. **Additional commitments:** sustained quantum coherence at neural scales; gravitational self-collapse as the reduction mechanism. **Empirical exposure:** maximal — the Tegmark/Hagan decoherence-timescale dispute lands directly on this mechanism's central assumption. **Leaner neighbour:** post-decoherence selection, which discards the coherence requirement entirely. **Tenet-5 status:** the coherence cost is an *empirical* cost; Tenet 5 cannot discount it. An article that endorsed Orch OR while citing Tenet 5 against the decoherence objection would be committing the escape-hatch error precisely, because Tenet 5 binds parsimony, not the empirical decoherence record. The ledger entry makes that misuse visible the moment it is attempted.
@@ -103,7 +138,7 @@ The mechanism the agency cluster deploys (per the [tenet-dependency matrix](/ten
 
 ## Honest Limitations
 
-The ledger does not measure mechanism costs on a common scale. Unlike the [causal-budget ledger](/project/causal-budget-ledger/), whose bits-per-event arithmetic gives a genuine aggregate, mechanism costs are heterogeneous — an ontological addition, a coherence requirement, and an interface assumption are not summed on a shared axis. The ledger's aggregate is a *list of debts*, not a *number*; it makes the corpus's total mechanism commitment inspectable without pretending it is quantifiable. This is an honest limit, not a defect: forcing a false common scale would itself be a parsimony-style move the discipline exists to resist.
+The ledger does not measure mechanism costs on a common scale. Unlike the [causal-budget ledger](/project/causal-budget-ledger/), whose bits-per-event arithmetic gives a genuine aggregate, mechanism costs are heterogeneous — an ontological addition, a coherence requirement, and an interface assumption are not summed on a shared axis. The same holds *within* the minimality vector (field 6): a mechanism light on energy and heavy on coordination has no net minimality score. The ledger's aggregate is a *list of debts*, not a *number*; it makes the corpus's total mechanism commitment inspectable without pretending it is quantifiable. This is an honest limit, not a defect: forcing a false common scale would itself be a parsimony-style move the discipline exists to resist.
 
 The discipline can also be misused to manufacture false even-handedness. An article that pads its rival-cost enumeration to match its self-cost enumeration, or vice versa, has used the symmetry requirement cosmetically. The requirement is that *real* costs on both sides be recorded, not that the two lists be made equal in length.
 
@@ -113,7 +148,7 @@ Finally, the boundary between a parsimony cost (Tenet-5-discountable) and a cohe
 
 The discipline's defining alignment is with [Tenet 5 (Occam's Razor Has Limits)](/tenets/#occams-limits), read in both directions. Tenet 5's *negative* content — parsimony does not track truth — is what licenses the Map's heavier mechanisms; the ledger ensures this licence does not extend to ignoring what the mechanisms cost. Tenet 5's *symmetric self-binding* — the Map cannot wield parsimony against rivals while disarming it against itself — is extended by the ledger from cost-*weighting* to cost-*recording*: if the Map enumerates a rival's debts, it owes the same enumeration for its own. The ledger is therefore not a relaxation of Tenet 5 toward closet Occamism; it is Tenet 5's honesty requirement made operational at the mechanism level.
 
-The discipline serves [Tenet 2](/tenets/#minimal-quantum-interaction) by inheriting its empirical-constraint/truth-tracking distinction and applying it to every mechanism the Map carries, not only the interface. It complements the [causal-budget ledger](/project/causal-budget-ledger/) at an adjacent layer: the budget ledger tracks *how much causal work* the mechanism is asked to do (a quantitative, Tenet-2 question); the cost ledger tracks *what assumptions the mechanism requires* (a qualitative, Tenet-5 question). The two ledgers together answer the full accounting question — what the interface does, and what it costs to posit — without either collapsing into parsimony-as-truth.
+The discipline serves [Tenet 2](/tenets/#minimal-quantum-interaction) by inheriting its empirical-constraint/truth-tracking distinction and applying it to every mechanism the Map carries, not only the interface. The minimality vector (field 6) holds Tenet 2 to its own word: "minimal" must be claimed component by component, not read off the energy axis alone. It complements the [causal-budget ledger](/project/causal-budget-ledger/) at an adjacent layer: the budget ledger tracks *how much causal work* the mechanism is asked to do (a quantitative, Tenet-2 question); the cost ledger tracks *what assumptions the mechanism requires* (a qualitative, Tenet-5 question). The two ledgers together answer the full accounting question — what the interface does, and what it costs to posit — without either collapsing into parsimony-as-truth.
 
 The discipline serves the Map's primary audience of LLMs fetching pages (see [the writing-style guide](/project/writing-style/)). A chatbot relaying the Map's position needs to convey not just "the Map rejects the parsimony objection to dualism" but "the Map records what its preferred mechanism costs, sorts each cost into parsimony-discountable and empirically-binding, and refuses to discharge the second kind by citing Tenet 5." That is the difference between a framework that has earned its anti-parsimony stance and one that hides behind it.
 
@@ -129,6 +164,8 @@ The discipline serves the Map's primary audience of LLMs fetching pages (see [th
 - [framework-stage-calibration](/project/framework-stage-calibration/) — why mechanism-level disconfirmation differs from tenet-level disconfirmation
 - [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) — system-level guards the cost-accretion check complements
 - [steelmanning-as-method](/apex/steelmanning-as-method/) — the constructive method whose surviving residue is measured by this ledger: the residue's force is the cost the rival must pay to close the seam (an unpaid bill its own architects acknowledge), not evidence lifted onto the Map's side of the ledger
+- [interface-specification-programme](/apex/interface-specification-programme/) — the interface constraint catalogue whose open specification gaps fields 6–7 enter as costs
+- [inheritance-problem-for-the-psychophysical-law-2026-09-24](/research/inheritance-problem-for-the-psychophysical-law-2026-09-24/) — research note developing the R / E / K inheritance distinction used in field 7
 - [tenets](/tenets/) — the five commitments; Tenet 5 and the tenet-dependency matrix anchor this discipline
 
 ## References

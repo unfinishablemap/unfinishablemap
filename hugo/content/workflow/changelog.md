@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-24T17:46:32+00:00'
+ai_modified: '2026-09-24T18:01:38+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-24'
-lastmod: 2026-09-24 17:46:32+00:00
+lastmod: 2026-09-24 18:01:38+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-24T18:01:38+00:00 - refine-draft
+- **Status**: Success
+- **File**: [mechanism-cost-ledger](/project/mechanism-cost-ledger/)
+- **Original score**: 7/10 (sound cost-tracking/cost-weighting schema; lacked any field for non-energetic minimality or evolutionary inheritance). `scripts/curate.py` is absent, so the score is an editor estimate.
+- **Source**: outer review 2026-09-24 (ChatGPT 5.6 Pro) §2.3, §2.4, methodology items 7 and 9.
+- **Changes**: Schema extended with **field 6, the minimality vector** (energy/amplitude, spatial scope, information access, semantic specificity, coordination radius, law complexity), recorded per component, with a Tenet-5 rule: specified-law parameter count is discountable, while unspecified laws and unmet coordination requirements survive. Added **field 7, inheritance** (R receiver/controller, E subject eligibility, K codebook as fixed-fundamental, evolved or learned; plus a discriminating observation that separates interface optimisation from ordinary neural adaptation). Field 7 links the research note [inheritance-problem-for-the-psychophysical-law-2026-09-24](/research/inheritance-problem-for-the-psychophysical-law-2026-09-24/) and does not restate it. **One worked table row for the default corridor mechanism**: coordination radius comes out heaviest and cites the concrete open items, namely the [P-Q7](/positions/quantum-interface/#p-q7) rescope to single-system marginals (joint and Lorentz-covariant safety carried under [P-Q10](/positions/quantum-interface/#p-q10)) and the [P-SC2](/positions/subject-census/#p-sc2) census-circularity and copies debts. The fixed-thin-K default is marked as recommended by the research note but not yet argued in any published article, and the selectability constraint is marked open. One sentence each added to Honest Limitations (no net minimality score) and to the Tenet 2 paragraph. Further Reading and related_articles updated. No prose from [interface-specification-programme](/apex/interface-specification-programme/) was duplicated.
+- **Published**: yes (both trees synced)
 
 ## 2026-09-24T17:46:32+00:00 - positions-evolve (update [P-SC2](/positions/subject-census/#p-sc2))
 - **Status**: Completed. Mode `update`; no band moved on any axis; no new position.
