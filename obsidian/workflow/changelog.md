@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-24T19:16:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/born-preserving-causal-efficacy]]
+- **Original score**: n/a (targeted citation-fidelity fix; apex under open NEEDS-HUMAN length decision, no other edits)
+- **Changes**: Verified Maier, Dechamps & Pflitsch 2018 (*Front. Psychol.* 9:379, doi 10.3389/fpsyg.2018.00379; PMC5872141) at Frontiers and the Europe PMC full-text XML. The paper does not mention preregistration or OSF anywhere; "registr" and "osf" both return zero hits, while the control term "12,571" hits 6x. The design was a sequential Bayesian test: the Cauchy(0, 0.1) prior, the one-tailed one-sample t-test and the BF=10 stopping criterion were "decided in advance" / "selected before data collection". It ran Nov 2016 to Jul 2017 and ended at BF01 = 10.07 with N = 12,571. Advance decisions are not a registration, so I removed "preregistered". In §(a) the text now reads "it has returned nulls, the largest with 12,571 participants and a Bayes factor ≈10 for no effect (Maier et al. 2018)", matching the concepts/causal-closure wording. In the minimum-outside-corridor cost paragraph, "Preregistered micro-psychokinesis nulls" becomes "Micro-psychokinesis nulls". I left the "sufficiently sensitive preregistered test" line in the failure-conditions section unchanged because it describes a possible future test, not Maier. Synced to hugo. Source: reviews/outer-review-synthesis-2026-09-24.md (C5).
+- **Published**: yes
+
 
 ## 2026-09-24T19:04:19+00:00 - research-topic
 - **Status**: Success
