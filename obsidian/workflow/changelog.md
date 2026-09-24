@@ -5,6 +5,16 @@ ai_modified: '2026-09-24T08:16:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24 16:30 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-anticipation]]
+- **Word count**: 3393 → 3402 (+9; this is the new Frischhut reference line, and prose is net negative)
+- **Critical issues addressed**: 3. (1) The interface thesis ("continuous sensory perception and discrete, counterfactual policy selection") was misattributed to Laukkonen, Friston & Chandaria 2025; the paper credits it to Whyte & Smith 2021 as a "complimentary view". (2) "Jointly sufficient" overstated the authors' own "seem necessary" / "implying that it can". (3) The inline Frischhut cite had no References entry. The full text was grepped from the SCU repository PDF. For family resolution, the same fixes (1) and (2) went into [[topics/predictive-processing-and-dualism]] L82 (4892 → 4861 words).
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 length-offset trims
+- **Engagements**: functionalist/beautiful-loop is Mixed (it names the unearned constitution step, then marks the framework boundary explicitly); MWI is framework-boundary.
+- **Output**: [[reviews/deep-review-2026-09-24-phenomenology-of-anticipation]]
+
 ## 2026-09-24 16:01 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/attention-and-the-consciousness-interface]]
