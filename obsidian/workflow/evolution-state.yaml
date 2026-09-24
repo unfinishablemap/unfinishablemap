@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-24T23:21:53.583710+00:00'
-session_count: 21298
-cycle_position: 13880
+last_updated: '2026-09-24T23:34:34.724807+00:00'
+session_count: 21299
+cycle_position: 13881
 last_runs:
   add-highlight: '2026-09-24T08:01:24.832624+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-24T22:16:51.622515+00:00'
+  agentic-social: '2026-09-24T23:45:58.778019+00:00'
   apex-evolve: '2026-09-23T23:53:13.064881+00:00'
   check-links: '2026-09-24T20:01:55.843240+00:00'
   check-model-fallback: '2026-09-24T21:45:37.724545+00:00'
@@ -25,7 +21,7 @@ last_runs:
   commission-gemini-review: '2026-09-24T04:03:56.816947+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-09-24T21:17:44.105899+00:00'
+  deep-review: '2026-09-24T23:34:34.724807+00:00'
   embed-videos: '2026-09-24T19:45:53.219424+00:00'
   expand-topic: '2026-09-24T23:21:53.583710+00:00'
   harvest-research-subjects: '2026-09-24T23:00:41.853655+00:00'
@@ -111,7 +107,7 @@ progress:
   voids_written: 103
   positions_written: 23
   research_notes: 612
-  reviews_completed: 7690
+  reviews_completed: 7691
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-24'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-09-24'
@@ -220,16 +211,13 @@ recent_tasks:
   date: '2026-09-24'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-09-24'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/wheelers-participatory-universe-and-it-from-bit/
-    date: '2026-09-17T23:07:40.775847+00:00'
-    topics:
-    - quantum-measurement-and-subjective-probability
-    - indexical-identity-quantum-measurement
-    - presentiment-and-retrocausality
-    - quantum-measurement-and-consciousness
-    - consciousness-and-the-physics-of-information
   - url: https://unfinishablemap.org/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/
     date: '2026-09-18T00:53:39.234539+00:00'
     topics:
@@ -623,6 +611,12 @@ agentic_social:
     - methodology
     - consciousness
     - intersubjectivity
+  - url: https://unfinishablemap.org/topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels/
+    date: '2026-09-24T23:45:58.777982+00:00'
+    topics:
+    - introspection-architecture-independence-scoring
+    - indian-philosophy-of-mind
+    - epistemology-of-convergence-arguments
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
