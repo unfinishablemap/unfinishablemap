@@ -4,7 +4,7 @@ description: "How quantum wave functions collapsed before conscious observers ex
 created: 2026-01-16
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-09-11T01:01:38+00:00
+ai_modified: 2026-09-24T14:01:07+00:00
 draft: false
 coalesced_from:
   - "/topics/collapse-before-minds/"
@@ -31,7 +31,7 @@ related_articles:
   - "[[what-consciousness-tells-us-about-physics]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-01-16
 last_curated: null
 last_deep_review: 2026-07-26T03:09:01+00:00
@@ -105,13 +105,9 @@ This relocates the problem. MWI trades the prebiotic collapse question for the [
 
 Moreover, MWI eliminates the causal role for consciousness entirely: outcomes occur regardless of observers, and the appearance of selection is illusion. The Map holds instead that [[mental-causation-and-downward-causation|mental causation]] is real, so rather than solving the prebiotic problem, MWI dissolves the framework within which consciousness matters at all.
 
-## Cosmological Evidence for Early-Universe Collapse
+## The Cosmological Record
 
-The first 380,000 years after the Big Bang left an observable record: the cosmic microwave background (CMB). Its pattern of temperature fluctuations—quantum fluctuations stretched to cosmic scales during inflation—shows definite structure. Had these fluctuations remained in superposition until conscious observation 13.8 billion years later, our present observations would be creating the early-universe conditions that produced us.
-
-Wheeler's framework could accommodate this—retrocausal selection of cosmic history. But the more conservative interpretation: these quantum fluctuations collapsed through objective processes, not through observation. The CMB's definiteness is evidence that collapse occurred long before minds.
-
-Similarly, the quantum processes that forged carbon, oxygen, and heavier elements in stellar cores required definite outcomes. The tunnelling rates in stellar fusion are measured and reproducible; something settled them, and it wasn't human consciousness.
+The cosmic microwave background (CMB) preserves inflation-stretched quantum fluctuations as definite structure from about 380,000 years after the Big Bang, and the tunnelling rates of stellar fusion are measured and reproducible. Wheeler could read this record as retrocausal selection; the more conservative reading is objective collapse long before minds. That reading is what the Map's one-world framework *requires*, not interpretation-neutral evidence for it: Everettian branch-relative definiteness predicts the same record.
 
 ## The Map's Position: Objective Reduction with Consciousness Modulation
 
@@ -119,7 +115,7 @@ The Map separates two claims that often get conflated:
 
 1. **Collapse is real.** Quantum measurement produces definite outcomes; the universe has a single actual history. (This is the No Many Worlds commitment.)
 
-2. **Consciousness interfaces with collapse.** In developed neural systems, consciousness participates in determining which outcomes become actual. This is the mechanism for [[mental-causation-and-downward-causation|mental causation]], operating at quantum indeterminacies without violating energy conservation. Precisely *how* this selection coexists with a collapse law already complete enough to fix prebiotic outcomes is the [[#the-completeness-tension|completeness tension]] examined below.
+2. **Consciousness interfaces with collapse.** In developed neural systems, consciousness participates in determining which outcomes become actual. This is the mechanism for [[mental-causation-and-downward-causation|mental causation]], operating at quantum indeterminacies without violating energy conservation. How this selection coexists with a collapse law complete enough to fix prebiotic outcomes is the [[#the-completeness-tension|completeness tension]] examined below.
 
 But (2) does not entail that consciousness is *universally required* for collapse. Objective reduction—Penrose-style gravity-induced collapse, GRW spontaneous localization, or some yet-unknown mechanism—provides the baseline: collapse happens throughout the universe, before and beyond minds, through physical processes.
 
@@ -127,9 +123,9 @@ What consciousness adds is *modulation*. Where collapse interfaces with neural p
 
 ### The Completeness Tension
 
-This picture owes an honest debt, and inheriting it is what keeps the modulation claim calibrated. If objective reduction is *outcome-complete*—if collapse noise fixes definite stellar, chemical, and mutational outcomes with Born statistics and no observers required—then the same physical process is outcome-complete inside the brain too. Modulation then faces a dilemma. Either it shifts which outcome the noise would otherwise have fixed, perturbing the Born statistics and becoming detectable—breaching [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] and contradicting the very completeness that let objective reduction handle the prebiotic timeline—or it leaves the distribution untouched, in which case the noise already selected and the modulation does no work.
+This picture owes an honest debt. If objective reduction is *outcome-complete*—if collapse noise fixes definite stellar, chemical, and mutational outcomes with Born statistics and no observers required—then the same physical process is outcome-complete inside the brain too. Modulation then faces a dilemma. Either it shifts which outcome the noise would otherwise have fixed, perturbing the Born statistics and becoming detectable—breaching [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] and contradicting the very completeness that let objective reduction handle the prebiotic timeline—or it leaves the distribution untouched, in which case the noise already selected and the modulation does no work. The dilemma also has a dynamical form, a *collapse-priority problem*: a worked model needs two transition processes—physical reduction and conscious selection—and must say which acts first, whether selection can delay reduction or alter its rate or outcome, and how the ordering is fixed for spacelike-separated events. No combined law has been supplied; the debt is open. It is also why, once objective reduction secures definiteness, the measurement problem cannot itself count as evidence for conscious selection ([[tenets/background-commitments|objective single-outcome actualization]]).
 
-The Map does not paper over this. It is the **bias-without-deviation dilemma** the apex [[post-decoherence-selection-programme#the-bias-without-deviation-dilemma-open|post-decoherence selection programme]] names its sharpest conceptual liability, and that [[ensemble-level-epiphenomenalism]] tracks as the strongest live challenge to the interface—held open, not resolved.
+This is the **bias-without-deviation dilemma** the apex [[post-decoherence-selection-programme#the-bias-without-deviation-dilemma-open|post-decoherence selection programme]] names its sharpest conceptual liability, and that [[ensemble-level-epiphenomenalism]] tracks as the strongest live challenge to the interface.
 
 The reconciliation distinguishes two jobs objective reduction is doing. It supplies collapse *occurrence, timing, and basis*—when and where a superposition resolves, and into which menu of pointer states—everywhere in the universe, before and beyond minds. Where no interface is present, the physical collapse dynamics also fix *which* pointer state actualises, reproducing Born statistics by stochastic noise; this is what covers the cosmological timeline, and "no observers required" applies at full strength here. Where an interface-grade neural system *is* present, consciousness authors that final token selection instead—not by overriding the statistics but by preempting the physical selection within the same Born corridor (the [[ensemble-level-epiphenomenalism|corridor reading]], drawing on [[delegatory-causation]]). So there is genuinely something for consciousness to select.
 

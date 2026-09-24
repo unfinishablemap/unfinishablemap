@@ -5,6 +5,15 @@ ai_modified: '2026-09-24T08:16:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24T14:01:07+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/prebiotic-collapse]]
+- **Review file**: [[outer-review-2026-09-24-chatgpt-5-6-sol-pro]] (§2.5, §5.7, §6.7, improvement 6)
+- **Original score**: 7/10 (CMB definiteness presented as interpretation-neutral evidence; collapse-priority problem unstated)
+- **Changes**: (1) Cosmology section retitled "Cosmological Evidence for Early-Universe Collapse" → "The Cosmological Record" (no inbound anchors) and compressed from three paragraphs to one; CMB and stellar-fusion definiteness now relabelled as what the Map's one-world framework *requires*, not interpretation-neutral evidence, since Everettian branch-relative definiteness predicts the same record. (2) Completeness Tension: added a 3-sentence collapse-priority debt (two transition processes; which acts first, whether selection can delay reduction or alter its rate or outcome, ordering for spacelike-separated events; no combined law supplied) linking [[tenets/background-commitments]] Posit Two and the corollary that the measurement problem cannot itself be evidence for conscious selection. (3) Paid for it by trimming redundant hedges in claim (2), the tension opener, and the bias-without-deviation paragraph. Length 3607 → 3606 (net −1; still over concepts hard 3500, not worsened).
+- **Engagement**: Everettian rival: framework-boundary marking (the record does not discriminate; the Map's reading is labelled as a tenet-driven requirement).
+- **Published**: yes; Hugo copy synced and confirmed (new text present, old "CMB's definiteness is evidence" absent, background-commitments link resolves to /tenets/background-commitments/).
+
 ## 2026-09-24T15:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/consciousness-only-territories]] (+ [[research/voids-consciousness-only-territories-2026-01-26]])
