@@ -10,6 +10,27 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-24T06:47:00+00:00 - positions-evolve (update)
+- **Status**: Success
+- **Position**: [P-Q7](/positions/quantum-interface/#p-q7) in [quantum-interface](/positions/quantum-interface/); heading retitled to "The default mechanism is no-signalling-safe for single-system marginals; joint and Lorentz-covariant safety are open"
+- **Change**: credence *high* scoped to single-system marginal compatibility; **multi-agent joint no-signalling** and **Lorentz-covariant dynamics** named as open mechanism debts routed to [P-Q10](/positions/quantum-interface/#p-q10) (added to Depends-on); Torres Alegre scoped in Calibration as a finite-dimensional GPT result under purification and steering with no multi-agent rule, Grade C held; Asserts now uses the two-part conditional wording of today's refine of [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/). No band moved. Entry 292 → 291 words (register is at critical length); dated note in [quantum-interface-calibration-history](/positions/quantum-interface-calibration-history/) §[P-Q7](/positions/quantum-interface/#p-q7)
+- **Link repair**: the one heading-text deep link to [P-Q7](/positions/quantum-interface/#p-q7) ([methodology-and-calibration](/positions/methodology-and-calibration/) L57) repointed to `^p-q7`
+- **Cascade**: [P-Q9](/positions/quantum-interface/#p-q9) depends on [P-Q7](/positions/quantum-interface/#p-q7), left to a separate pass (not obviously affected: single-system aggregate). Dependents checked, not edited: `concepts/causal-consistency-constraint` L61 OVERSTATES ("any agent — physical or non-physical — ... must"; "what relativistic causality *requires* of any participant"; no single-system scope). `apex/phenomenology-mechanism-bridge` L158 OVERSTATES mildly ("any selection scheme respecting no-signalling must be per-trial indistinguishable", unscoped). `topics/born-rule-and-the-consciousness-interface` L155 now consistent
+- **Source**: outer-review synthesis 2026-09-24 cluster C3 (chatgpt + claude)
+
+## 2026-09-24T06:34:43+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Agency and will wing, 8 articles never named in any Aug/Sep optimistic review (akrasia-and-weakness-of-will, frankfurt-cases-and-the-principle-of-alternate-possibilities, the-manipulation-argument-and-hard-incompatibilism, frankfurt-hierarchical-mesh-theory-of-the-will, phenomenology-of-agency-vs-passivity, spontaneous-intentional-action, phenomenology-of-choice-and-volition, authorship-of-action-divergence). Finding: two unlinked clusters (0 cross-cluster body links). The argument cluster is exemplary. The phenomenology trio still treats felt agency as a readout in places; spontaneous-intentional-action L132's common-cause concession is the repair template. Also flagged: the phenomenology-of-agency-vs-passivity L147 Zeno/biasing conflation (cf. 06064f2b).
+- **Tasks**: 4 P3 refine-draft (choice-and-volition calibration; agency-vs-passivity length-neutral calibration; spontaneous Wegner paragraph; akrasia to mesh/choice bridge)
+- **Output**: [optimistic-2026-09-24-agency-and-will-wing](/reviews/optimistic-2026-09-24-agency-and-will-wing/)
+
+## 2026-09-24T06:16:22+00:00 - refine-draft
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Original score**: 7/10 (scripts/curate.py absent; manual review)
+- **Changes**: (1) Status vs evidence (convergent claude+chatgpt): corridor kept as working hypothesis but now labelled a tenet-level framework choice held at *interface-compatible* grade, not a conclusion the evidence ladder licenses (taxonomy row and MQI section); outright demotion declined as a position change. (2) Stapp: removed "Sympathetic readings of Stapp (without Zeno)" from the corridor, citing his "in contrast to Eccles" refusal of probability control (consistent with concepts/stapp-quantum-mind @06064f2b); added a Question-choice dualism (Process-1-only) family, conceded it is more minimal by Tenet 2, and named the libertarian free-will payoff as the motivated reason the Map does not default to it ("Three families" -> "Four"). (3) Torres Alegre (convergent; cf. [P-Q7](/positions/quantum-interface/#p-q7)): "what relativistic causality requires of any agent, physical or non-physical" replaced by an explicit double conditional; theorem supplies no model of consciousness and no role for a non-physical agent; MQI preference separated as an independent tenet-level reason. Offsetting trims in the Gleason sentence, qualifications paragraph, and final caveat. Engagement with the outer reviewers' demotion demand: framework-boundary marking (status honestly graded, not refuted); Torres Alegre overreach: defective on the Map's own terms, corrected by conditionalising. analyze_length 5328 -> 5448 (+120; already hard_warning before). [P-Q7](/positions/quantum-interface/#p-q7) in positions/quantum-interface already scopes Torres Alegre as compatibility-only; no edit needed there from this pass.
+- **Published**: yes
+
 ## 2026-09-24T06:01:16+00:00 - refine-draft
 - **Status**: Success
 - **File**: [stapp-quantum-mind](/concepts/stapp-quantum-mind/)

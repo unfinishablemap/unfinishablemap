@@ -601,15 +601,16 @@ p-q6:
   weak: 'no'
 p-q7:
   bands: 'confidence: high · limited or indirect evidence · framework-critical'
-  claim: The default mechanism does not break Lorentz invariance or no-signalling
+  claim: The default mechanism is no-signalling-safe for single-system marginals; joint and Lorentz-covariant
+    safety are open
   credence: high
   grade: C
   id: P-Q7
   slug: quantum-interface
   status: live
   structural_centrality: high
-  summary: 'P-Q7: The default mechanism does not break Lorentz invariance or no-signalling — confidence:
-    high · limited or indirect evidence · framework-critical'
+  summary: 'P-Q7: The default mechanism is no-signalling-safe for single-system marginals; joint and Lorentz-covariant
+    safety are open — confidence: high · limited or indirect evidence · framework-critical'
   weak: 'no'
 p-q8:
   bands: 'confidence: high · some independent evidence · peripheral to the framework'

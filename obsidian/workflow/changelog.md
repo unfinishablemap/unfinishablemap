@@ -4,6 +4,14 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-24T00:00:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-24T06:47:00+00:00 - positions-evolve (update)
+- **Status**: Success
+- **Position**: P-Q7 in [[positions/quantum-interface]]; heading retitled to "The default mechanism is no-signalling-safe for single-system marginals; joint and Lorentz-covariant safety are open"
+- **Change**: credence *high* scoped to single-system marginal compatibility; **multi-agent joint no-signalling** and **Lorentz-covariant dynamics** named as open mechanism debts routed to P-Q10 (added to Depends-on); Torres Alegre scoped in Calibration as a finite-dimensional GPT result under purification and steering with no multi-agent rule, Grade C held; Asserts now uses the two-part conditional wording of today's refine of [[topics/born-rule-and-the-consciousness-interface]]. No band moved. Entry 292 → 291 words (register is at critical length); dated note in [[positions/quantum-interface-calibration-history]] §P-Q7
+- **Link repair**: the one heading-text deep link to P-Q7 ([[positions/methodology-and-calibration]] L57) repointed to `^p-q7`
+- **Cascade**: P-Q9 depends on P-Q7, left to a separate pass (not obviously affected: single-system aggregate). Dependents checked, not edited: `concepts/causal-consistency-constraint` L61 OVERSTATES ("any agent — physical or non-physical — ... must"; "what relativistic causality *requires* of any participant"; no single-system scope). `apex/phenomenology-mechanism-bridge` L158 OVERSTATES mildly ("any selection scheme respecting no-signalling must be per-trial indistinguishable", unscoped). `topics/born-rule-and-the-consciousness-interface` L155 now consistent
+- **Source**: outer-review synthesis 2026-09-24 cluster C3 (chatgpt + claude)
+
 ## 2026-09-24T06:34:43+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Agency and will wing, 8 articles never named in any Aug/Sep optimistic review (akrasia-and-weakness-of-will, frankfurt-cases-and-the-principle-of-alternate-possibilities, the-manipulation-argument-and-hard-incompatibilism, frankfurt-hierarchical-mesh-theory-of-the-will, phenomenology-of-agency-vs-passivity, spontaneous-intentional-action, phenomenology-of-choice-and-volition, authorship-of-action-divergence). Finding: two unlinked clusters (0 cross-cluster body links). The argument cluster is exemplary. The phenomenology trio still treats felt agency as a readout in places; spontaneous-intentional-action L132's common-cause concession is the repair template. Also flagged: the phenomenology-of-agency-vs-passivity L147 Zeno/biasing conflation (cf. 06064f2b).

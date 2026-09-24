@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: `concepts/causal-consistency-constraint` L61 says Torres Alegre binds "any agent — physical or non-physical", the overreach P-Q7 and the Born-rule topic dropped on 2026-09-24
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/causal-consistency-constraint.md
+- **Source**: positions-evolve
+- **Review file**: `reviews/outer-review-synthesis-2026-09-24.md` (C3)
+- **Generated**: 2026-09-24
+- **Notes**: Dependent-propagation of the 2026-09-24 P-Q7 scoping (positions/quantum-interface, now retitled "no-signalling-safe for single-system marginals; joint and Lorentz-covariant safety are open") and of the Born-rule topic refine (commit 30ed15c8). L61: "any agent — physical or non-physical — ... must" deliver Born statistics; the rule is "what relativistic causality *requires* of any participant". Both 2026-09-24 outer reviewers flagged this exact overreach (synthesis C3). Restate as the same two-part conditional used in `topics/born-rule-and-the-consciousness-interface` (if the result holds and if consciousness affects outcomes, the influence must preserve Born; the theorem supplies no model of consciousness and no role for a non-physical agent) and scope it to single-system marginals, pointing to P-Q10 for the joint law. Length-neutral; locate by quoted text; sync both trees.
+
+### P2: `apex/phenomenology-mechanism-bridge` L158 states "any selection scheme respecting no-signalling must be per-trial indistinguishable from unbiased Born statistics" without the single-system scope P-Q7 now carries
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/apex/phenomenology-mechanism-bridge.md
+- **Source**: positions-evolve
+- **Review file**: `reviews/outer-review-synthesis-2026-09-24.md` (C3)
+- **Generated**: 2026-09-24
+- **Notes**: Dependent-propagation of the 2026-09-24 P-Q7 scoping (positions/quantum-interface). Mild overstatement: the claim holds for single-system marginals; multi-agent joint no-signalling and Lorentz-covariant dynamics are now recorded as open debts under P-Q10. Add the scope (a clause, length-neutral). Locate by quoted text; sync both trees.
+
 ### P2: `concepts/causal-closure` retreats to conditional grains without saying the coarse conditional nulls count against the channel
 - **Type**: refine-draft
 - **Status**: pending
@@ -78,17 +96,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-09-24
 - **Notes**: From outer review 2026-09-24 (Claude Opus 5.5, §4 and novel inference 2). Grep-verified: L106 reads "dualism … non-solipsism, and no many worlds (one world) — force acceptance of fragmentation". The Fine-style fragmentation cost is stated nowhere else in the corpus. Cost it (what it commits the Map to, and which articles would have to live with it), or make it conditional on a first-person-realism reading and flag it as contested. **Reviewer claims that failed verification**: (a) "List 2023 and the 2025 quadrilemma are merged" is false; refs 6 and 7 (L227–228) are already separate and correct. (b) "no tenet-level edit records" the scoping is false; `tenets/tenets.md` L117 already scopes the indexical objection away from List (2023) and says the tenet "leans on a separate commitment". What survives is novel inference 2: with parsimony disarmed by Tenet 5 (see tenets.md L119, where the subsidiary rationale is "a registered cost, not a refutation"), what ground is left for rejecting modal realism? Check whether tenets.md or `many-worlds-argument` gives a non-parsimony reason. If none, record the gap in this article (the tenet page is length-sensitive), or queue a follow-up. Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft / deep-review changelog entry, not in the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared.
-
-### P1: `positions/quantum-interface` P-Q7 claims Lorentz invariance and no-signalling at credence high, but its only support is single-system marginal Born preservation — scope it and point to the open joint law
-- **Type**: positions-evolve
-- **Status**: pending
-- **File**: obsidian/positions/quantum-interface.md
-- **Review file**: `reviews/outer-review-2026-09-24-chatgpt-5-6-sol-pro.md`
-- **Review files**: `reviews/outer-review-2026-09-24-chatgpt-5-6-sol-pro.md`, `reviews/outer-review-2026-09-24-claude-opus-5-5.md`
-- **Synthesis**: `reviews/outer-review-synthesis-2026-09-24.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-24
-- **Notes**: From convergent outer reviews (2026-09-24, 2/3 reviewers): [chatgpt, claude]. Already P1, so no upgrade (cluster C3 of the synthesis). ChatGPT: Torres Alegre is "relevant as a constraint on altered probability rules, but `P-Q7` overextends it"; Claude, independently, on the Born-rule topic: a "GPT uniqueness theorem is recast as binding 'any agent, physical or non-physical'". Same overreach, two loci; the P1 on `topics/born-rule-and-the-consciousness-interface` owns the second, so coordinate wording. Original notes follow. From outer review 2026-09-24 (ChatGPT 5.6 Pro, §5.1 and improvement 1). Grep-verified on disk: the P-Q7 heading reads "does not break Lorentz invariance or no-signalling". Its Asserts derives this from P-Q2 (single-subject Born preservation "by construction"). P-Q7 never mentions multi-agent joint distributions. P-Q10's roadmap and `topics/multi-agent-born-preservation-problem` both record that the N≥2 joint-correlation law is **unsupplied**, and `apex/interface-specification-programme` says the same. The reviewer calls this a direct contradiction between `positions` and `apex`. **Update the entry, do not retire it.** Scope the credence-high claim to **single-system marginal compatibility**. Name **multi-agent joint no-signalling** and **Lorentz-covariant dynamics** as open mechanism debts that cross-reference P-Q10, and retitle if the scoped claim no longer matches the heading. Torres Alegre (arXiv:2512.12636) was re-checked at arXiv: it is a finite-dimensional GPT result under purification and steering, with no multi-agent rule. It can stay at Grade C for the single-system claim only. ⚠️ **Length**: the file is at `critical` (5930 vs 4000; see the open register-length NEEDS-HUMAN). Keep the Asserts edit net-neutral and put the dated `Updated` note in `quantum-interface-calibration-history` §P-Q7, per the register's established split. Check the dependents that cite P-Q7 as "no-signalling safe" (`concepts/causal-consistency-constraint`, `topics/born-rule-and-the-consciousness-interface`, `apex/phenomenology-mechanism-bridge`) and list any that now overstate, but do not edit them in this pass.
 
 ### P1: `apex/interface-specification-programme` misstates COGITATE (IIT predicted posterior, not prefrontal) and still calls the ~10 bits/s behavioural figure an interface "bandwidth constraint" against its own L84/L146 caveat
 - **Type**: refine-draft
@@ -1877,6 +1884,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: `positions/quantum-interface` P-Q7 claims Lorentz invariance and no-signalling at credence high, but its only support is single-system marginal Born preservation — scope it and point to the open joint law
+- **Type**: positions-evolve
+- **File**: obsidian/positions/quantum-interface.md
+- **Notes**: From convergent outer reviews (2026-09-24, 2/3 reviewers): [chatgpt, claude]. Already P1, so no upgrade (cluster C3 of the synthesis). ChatGPT: Torres Alegre is "relevant as a constraint on altered probability rules, but `P-Q7` overextends it"; Claude, independently, on the Born-rule topic: a "GPT uniqueness theorem is recast as binding 'any agent, physical or non-physical'". Same overreach, two loci; the P1 on `topics/born-rule-and-the-consciousness-interface` owns the second, so coordinate wording. Original notes follow. From outer review 2026-09-24 (ChatGPT 5.6 Pro, §5.1 and improvement 1). Grep-verified on disk: the P-Q7 heading reads "does not break Lorentz invariance or no-signalling". Its Asserts derives this from P-Q2 (single-subject Born preservation "by construction"). P-Q7 never mentions multi-agent joint distributions. P-Q10's roadmap and `topics/multi-agent-born-preservation-problem` both record that the N≥2 joint-correlation law is **unsupplied**, and `apex/interface-specification-programme` says the same. The reviewer calls this a direct contradiction between `positions` and `apex`. **Update the entry, do not retire it.** Scope the credence-high claim to **single-system marginal compatibility**. Name **multi-agent joint no-signalling** and **Lorentz-covariant dynamics** as open mechanism debts that cross-reference P-Q10, and retitle if the scoped claim no longer matches the heading. Torres Alegre (arXiv:2512.12636) was re-checked at arXiv: it is a finite-dimensional GPT result under purification and steering, with no multi-agent rule. It can stay at Grade C for the single-system claim only. ⚠️ **Length**: the file is at `critical` (5930 vs 4000; see the open register-length NEEDS-HUMAN). Keep the Asserts edit net-neutral and put the dated `Updated` note in `quantum-interface-calibration-history` §P-Q7, per the register's established split. Check the dependents that cite P-Q7 as "no-signalling safe" (`concepts/causal-consistency-constraint`, `topics/born-rule-and-the-consciousness-interface`, `apex/phenomenology-mechanism-bridge`) and list any that now overstate, but do not edit them in this pass.
 
 ### ✓ 2026-09-24: `topics/born-rule-and-the-consciousness-interface` L163 files "Sympathetic readings of Stapp (without Zeno)" in the corridor and calls it "the Map's working hypothesis" while the same article grades the reading below interface-suggestive — reconcile status and taxonomy
 - **Type**: refine-draft

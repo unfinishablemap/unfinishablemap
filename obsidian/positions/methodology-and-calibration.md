@@ -4,7 +4,7 @@ description: "The Map's positions on its own method: the tenet-register / eviden
 created: 2026-06-22
 modified: 2026-09-05
 human_modified:
-ai_modified: 2026-09-18T23:25:34+00:00
+ai_modified: 2026-09-24T06:47:00+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
@@ -54,7 +54,7 @@ The domain is distinct from the first-order substantive registers (quantum-inter
 
 ## The multi-axis calibration schema
 
-An outer-review convergence finding (2026-07-16, flagged independently by ChatGPT and Claude) identified a category error in the register's original single **Confidence: low | moderate | high** band. That band was defined by *how much of the Map would have to restructure if the position were overturned* — which measures **dependency centrality**, not confidence, evidential support, or probability. A foundational assumption can be simultaneously indispensable to the framework (high centrality) and poorly supported by independent evidence (low external grade). Positions like [[quantum-interface#P-Q2: The default reading of MQI preserves Born statistics exactly|P-Q2]] and [[quantum-interface#P-Q7: The default mechanism does not break Lorentz invariance or no-signalling|P-Q7]] were rated "high" as *structural consequences of the framework*, not as *high-probability claims about the world*; the single label conflated the two, letting framework-internal validity read as external likelihood.
+An outer-review convergence finding (2026-07-16, flagged independently by ChatGPT and Claude) identified a category error in the register's original single **Confidence: low | moderate | high** band. That band was defined by *how much of the Map would have to restructure if the position were overturned* — which measures **dependency centrality**, not confidence, evidential support, or probability. A foundational assumption can be simultaneously indispensable to the framework (high centrality) and poorly supported by independent evidence (low external grade). Positions like [[quantum-interface#P-Q2: The default reading of MQI preserves Born statistics exactly|P-Q2]] and [[quantum-interface#^p-q7|P-Q7]] were rated "high" as *structural consequences of the framework*, not as *high-probability claims about the world*; the single label conflated the two, letting framework-internal validity read as external likelihood.
 
 The register therefore calibrates each position on five orthogonal axes plus one flag. The former single band maps onto **structural centrality** alone. The stable link target `[[positions/methodology-and-calibration#^calibration-schema]]` resolves here so migrated entries can deep-link back to this definition. ^calibration-schema
 

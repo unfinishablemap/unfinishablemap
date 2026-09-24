@@ -4,7 +4,7 @@ description: "The Map's positions on the consciousness–quantum interface: mech
 created: 2026-06-04
 modified: 2026-06-04
 human_modified: 2026-06-04
-ai_modified: 2026-09-17T09:55:00+00:00
+ai_modified: 2026-09-24T06:47:00+00:00
 draft: false
 topics:
   - "[[forward-in-time-conscious-selection]]"
@@ -116,16 +116,16 @@ These positions cover what the Map currently holds about the mechanism by which 
 - **Calibration history**: [[positions/quantum-interface-calibration-history#p-q6|notes of 2026-07-16 and 2026-07-31]] — the multi-axis migration, and the precision pass naming Penrose's own value as what was excluded.
 - **Last reviewed**: 2026-07-31
 
-## P-Q7: The default mechanism does not break Lorentz invariance or no-signalling
+## P-Q7: The default mechanism is no-signalling-safe for single-system marginals; joint and Lorentz-covariant safety are open
 
 - **Status**: live ^p-q7
-- **Calibration**: credence high · external-evidence grade C (compatible with the Torres Alegre 2025 no-signalling theorem — unrefereed arXiv preprint 2512.12636 — which establishes no-signalling *safety* rather than positive support for the interface over rivals, and holds conditional on the framework-internal corridor) · structural centrality high · model maturity developed · empirical discriminability none-by-construction · framework-internal only: yes
-- **Asserts**: The Map's default selection-only / corridor mechanism is internally consistent with relativistic no-signalling because it preserves Born statistics by construction (see P-Q2); Torres Alegre's (2025) generalised-probabilistic-theories result, which shows that non-affine deviations from the Born map enable superluminal signalling through steering scenarios, is treated by the Map as consistent with rather than threatening its default reading — a compatibility / no-signalling-safety result that does no work *for* the interface reading over its rivals, not positive evidence for it. The high confidence is scoped to the structural consequence *within* the default corridor reading, and not to a claim that the corridor reading is the only admissible MQI variant (that openness is tracked under P-Q2 and P-Q10): "minimum-outside-the-corridor" variants would have to demonstrate their deviation is signalling-safe, and the Map does not currently endorse them.
-- **Depends on**: P-Q2; [[concepts/causal-consistency-constraint]]; Torres Alegre (2025), arXiv:2512.12636 (unrefereed)
+- **Calibration**: credence high (scoped to single-system marginals) · external-evidence grade C (compatible with Torres Alegre 2025, unrefereed arXiv:2512.12636 — a finite-dimensional GPT result under purification and steering, with no multi-agent rule; safety, not positive support) · structural centrality high · model maturity developed · empirical discriminability none-by-construction · framework-internal only: yes
+- **Asserts**: Within the default selection-only / corridor reading, each selector's unconditioned statistics stay Born by construction (P-Q2), so no selector can signal through its own marginal. Torres Alegre's result — non-affine deviations from the Born map enable superluminal signalling via steering — is conditional: *if* it holds and *if* consciousness modulates outcomes, the modulation must preserve the Born rule. It supplies no model of consciousness, establishes no role for a non-physical agent, and does no work *for* the interface over rivals. Two debts stay open under P-Q10. **Multi-agent joint no-signalling**: corridors each preserving a marginal are not thereby guaranteed Born joint statistics, and interface locality leaves boundary cases uncovered ([[topics/multi-agent-born-preservation-problem]]). **Lorentz-covariant dynamics**: the Map has no frame-independent formulation of the selection event. Unendorsed minimum-outside-the-corridor variants owe their own safety proof.
+- **Depends on**: P-Q2; P-Q10; [[concepts/causal-consistency-constraint]]; Torres Alegre (2025), arXiv:2512.12636 (unrefereed)
 - **Argued in**: [[concepts/causal-consistency-constraint]], [[topics/born-rule-and-the-consciousness-interface]], [[apex/phenomenology-mechanism-bridge]]
-- **Would shift if**: a tighter no-signalling theorem rules out even the corridor reading; or the Map adopts a minimum-outside-the-corridor variant and finds it requires deviation from no-signalling.
-- **Calibration history**: [[positions/quantum-interface-calibration-history#p-q7|notes of 2026-06-10, 2026-07-16 and 2026-07-25]] — normalisation of an off-vocabulary "moderate-to-high" band, the multi-axis migration, and the softening of Torres Alegre 2025 from support to compatibility. Grade held at C throughout.
-- **Last reviewed**: 2026-07-25
+- **Would shift if**: a tighter theorem rules out even single-system corridor safety; or an adopted minimum-outside-the-corridor variant requires signalling. A joint law or covariant formulation would widen the scope; a proof that independent corridors generically break joint statistics would narrow it further.
+- **Calibration history**: [[positions/quantum-interface-calibration-history#p-q7|notes of 2026-06-10, 2026-07-16, 2026-07-25 and 2026-09-24]] — band normalisation, multi-axis migration, compatibility softening, single-system scoping. Grade held at C throughout.
+- **Last reviewed**: 2026-09-24
 
 ## P-Q8: Warm-quantum-biology results are a precedent for the interface, not a licence for it
 
