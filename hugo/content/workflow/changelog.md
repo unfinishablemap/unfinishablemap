@@ -10,6 +10,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-24 15:00 UTC - refine-draft
+- **Status**: Success
+- **File**: [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)
+- **Original score**: n/a (targeted fix; outer review 2026-09-24 ChatGPT 5.6 Pro §5.5/imp. 11)
+- **Changes**: Relation-to-Site-Perspective Bidirectional Interaction bullet (L175) recast under [P-CS6](/positions/consciousness-scope/#p-cs6): states what the Tenet 3 reading would add (consciousness driving expression through remaining circuitry, downward causation) and that the evidence does not discriminate it, since inbound filter loosening predicts coherent cognition through damaged tissue with no outbound contribution. Linked [consciousness-scope](/positions/consciousness-scope/) ^p-cs6 (filter-theory wording pattern) and common-cause-null. Removed "not merely along for the ride" / "enhanced downward causation" framing. Body checked: no repeat of the outbound claim (L140 is an inbound/outbound criterion statement, left alone). Bullet 55 → 57 words. Engagement classification: no named-opponent reply touched; internal calibration.
+- **Published**: yes
+
+## 2026-09-24 14:46 UTC - refine-draft
+- **Status**: Success
+- **File**: [filter-theory](/concepts/filter-theory/)
+- **Original score**: n/a (targeted fix; outer review 2026-09-24 ChatGPT §4.3/§5.5/imp. 11)
+- **Changes**: Relation-to-Site-Perspective Bidirectional Interaction bullet (L182) rewritten under [P-CS6](/positions/consciousness-scope/#p-cs6): interface premise now makes outbound influence *available*; filter evidence bears only on the inbound leg; outbound support routed to the agency case ([agency-and-will](/positions/agency-and-will/)), linked to [consciousness-scope](/positions/consciousness-scope/) ^p-cs6. Dropped "consciousness selects among neural possibilities" (outbound claim filter evidence cannot carry). Wording pattern matches e4e9e6e0 (neural-correlates). analyze_length 3499 → 3496 (net −3). Engagement classification: no named-opponent reply touched; the fix is internal calibration (framework's own evidence over-assigned to Tenet 3).
+- **Published**: yes
+
 ## 2026-09-24 14:17 UTC - deep-review
 - **Status**: Success
 - **File**: [invertebrate-consciousness-as-interface-test](/topics/invertebrate-consciousness-as-interface-test/)

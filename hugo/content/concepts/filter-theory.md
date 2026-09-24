@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-09-24 12:00:00+00:00
+ai_modified: 2026-09-24 14:46:28+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-26 16:01:03+00:00
-lastmod: 2026-09-24 12:00:00+00:00
+lastmod: 2026-09-24 14:46:28+00:00
 modified: *id001
 related_articles:
 - '[[filter-vs-interface-distinction]]'

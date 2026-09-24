@@ -4,7 +4,7 @@ description: "Terminal lucidity—cognitive clarity returning despite severe bra
 created: 2026-01-16
 modified: 2026-04-11
 human_modified:
-ai_modified: 2026-08-27T12:00:29+00:00
+ai_modified: 2026-09-24T15:00:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -172,7 +172,7 @@ Terminal lucidity's evidential force has grown substantially over two decades:
 
 **[[tenets#^dualism|Dualism]]**: Terminal lucidity challenges the premise that consciousness is identical to brain processes. If cognitive function can return despite severe structural brain damage, the relationship between neural tissue and conscious experience may not be one of production. The Map reads this as evidence that the brain provides tools consciousness uses rather than generating consciousness itself—though this reading presupposes the dualist framework the Map defends. The return of specific autobiographical memories is particularly significant: if memories were stored in neural tissue, severe hippocampal and cortical atrophy should permanently destroy them.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If terminal lucidity involves consciousness actively engaging with severely damaged neural tissue to produce coherent cognition, this suggests consciousness is not merely along for the ride. The filter loosening near death may enable consciousness to drive expression through whatever minimal circuitry remains—a brief window of enhanced downward causation before the interface fails completely.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: A Tenet 3 reading would add that consciousness actively drives expression through the remaining circuitry—downward causation before the interface fails. But coherent cognition through damaged tissue is equally what inbound filter loosening predicts with no outbound contribution, so this evidence does not discriminate that reading ([[positions/consciousness-scope#^p-cs6|filter evidence]] bears only on the inbound leg; see [[common-cause-null]]).
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The simplest materialist response—that terminal lucidity reflects transient neural recovery—may seem parsimonious. But this parsimony comes at the cost of leaving the mechanism entirely unspecified while requiring that severely damaged brains briefly perform at levels their physical state should not permit. When considered alongside the broader convergent evidence, the filter model's apparent complexity may actually be the more economical explanation of the full dataset.
 

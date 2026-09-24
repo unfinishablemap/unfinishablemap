@@ -46,15 +46,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-09-24
 - **Notes**: Surfaced by the 2026-09-24 `concepts/causal-closure` refine, which checked Maier, Dechamps & Pflitsch 2018 (*Frontiers in Psychology* 9, 379, doi 10.3389/fpsyg.2018.00379) at the publisher: the page describes a sequential Bayesian stopping design (BF01 ≈ 10.07) and does not describe the study as preregistered. The apex says "preregistered nulls (Maier et al. 2018)" at ~L89 and ~L125. **Verify first** (the paper's methods section, any OSF registration link). If preregistration is confirmed, no change. If not, drop "preregistered" (length-negative — safe despite the apex's open length decision) and match the causal-closure wording ("the largest intention-conditioned RNG test, 12,571 participants, Bayes factor ≈10 for no effect"). Locate by quoted text; sync both trees.
 
-### P2: `topics/terminal-lucidity-and-filter-transmission-theory` L175 turns terminal lucidity into "a brief window of enhanced downward causation" — the P-CS6 partition breach, second locus
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
-- **Review file**: `reviews/outer-review-2026-09-24-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-24
-- **Notes**: From outer review 2026-09-24 (ChatGPT 5.6 Pro, §5.5 and improvement 11, which names terminal lucidity explicitly). Verified live at L175 (Relation to Site Perspective): "this suggests consciousness is not merely along for the ride … a brief window of enhanced downward causation before the interface fails completely." Terminal-lucidity evidence, even if robust, bears on production versus transmission (Tenet 1 / inbound). Coherent cognition through damaged tissue is equally what an inbound filter-loosening reading predicts, with no outbound contribution. Recast the bullet so that it notes what the Tenet 3 reading *would* add and says that this evidence does not discriminate it (see [[consciousness-scope|P-CS6]], [[common-cause-null]]). Keep it length-neutral. This is the alignment-section leak the review's §3.5 describes: leave the body alone unless it repeats the claim.
-
 ### P2: `concepts/dualism` attributes to Levine the categorical claim that physics "cannot in principle capture" subjective character — keep his epistemic explanatory gap separate from the Map's metaphysical reading
 - **Type**: refine-draft
 - **Status**: pending
@@ -1770,6 +1761,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: `topics/terminal-lucidity-and-filter-transmission-theory` L175 turns terminal lucidity into "a brief window of enhanced downward causation" — the P-CS6 partition breach, second locus
+- **Type**: refine-draft
+- **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
+- **Notes**: From outer review 2026-09-24 (ChatGPT 5.6 Pro, §5.5 and improvement 11, which names terminal lucidity explicitly). Verified live at L175 (Relation to Site Perspective): "this suggests consciousness is not merely along for the ride … a brief window of enhanced downward causation before the interface fails completely." Terminal-lucidity evidence, even if robust, bears on production versus transmission (Tenet 1 / inbound). Coherent cognition through damaged tissue is equally what an inbound filter-loosening reading predicts, with no outbound contribution. Recast the bullet so that it notes what the Tenet 3 reading *would* add and says that this evidence does not discriminate it (see [[consciousness-scope|P-CS6]], [[common-cause-null]]). Keep it length-neutral. This is the alignment-section leak the review's §3.5 describes: leave the body alone unless it repeats the claim.
 
 ### ✓ 2026-09-24: `concepts/filter-theory` L182 books transmission evidence as outbound consciousness-to-brain causation, breaching P-CS6's inbound/outbound partition (carried unqueued from tenet-check 2026-09-20 and 09-23)
 - **Type**: refine-draft
