@@ -10,6 +10,34 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-24T06:01:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
+- **Original score**: 7/10
+- **Source**: outer-review-2026-09-24-claude-opus-5-5 §3 (Stapp inversion)
+- **Changes**: Removed outcome-biasing attributions to Stapp: "consciousness biases the outcome ... consciousness provides the sufficiency" (Core Mechanism) and "attention biases outcomes" (Kane section) rewritten so the agent's contribution is question-choice (Process 1) plus rapid-repetition holding, with nature answering by the orthodox statistical rule. Kane's agency condition now stated as met only on an influence-over-what-persists reading (the agent cannot make a pattern appear, only keep one). "Not mysterious (mechanism specified)" replaced: mechanism specified at question-choice level, Process 1 itself left primitive. Quoted LBNL-55887 "in contrast to Eccles" sentence beside the probability-control concession (verified verbatim against the LBNL-hosted .doc) and added the reference. Demoted Schwartz OCD "suggestive support" (lead) to "consistent with ... cannot count as support"; RSP line "suggestive of" to "consistent with". Reviewer overreach not adopted: Zeno holding is not Born-bending, so no deletion. Engagement with Eccles-style probability control: Mode Three (boundary marked, Map vs Stapp). Net +167 words.
+- **Published**: yes
+
+
+## 2026-09-24T05:47:13+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-24
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt, claude; gemini abandoned)
+- **Clusters**: 5 convergent, 13 singleton, 1 divergent (valuation of the Map's self-disclosure) plus 1 recorded tension (Tenet 5 scope)
+- **Tasks upgraded**: 2 (P3→P2: 1, P2→P1: 1). P1 born-rule-and-the-consciousness-interface (C3 Torres Alegre overreach + C4 status above evidence); P2 blocked born-preserving-causal-efficacy do(C)/partition install (C5 finer-grain retreat; still blocked on length). [P-Q7](/positions/quantum-interface/#p-q7) already P1, annotated only. C1/C2 (fixes not propagated; pipeline certifies unverified facts) folded into the methodology NEEDS-HUMAN, no tier.
+- **Tasks deduplicated**: 0 (convergent tasks sit on different files)
+- **Unowned**: Claude's `concepts/causal-closure` fix (say coarse conditional nulls count against the channel), which is not blocked
+- **Output**: [outer-review-synthesis-2026-09-24](/reviews/outer-review-synthesis-2026-09-24/)
+
+## 2026-09-24T04:36:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5.5 (full-site audit, subject reused from ChatGPT same-day commission)
+- **File**: [outer-review-2026-09-24-claude-opus-5-5](/reviews/outer-review-2026-09-24-claude-opus-5-5/)
+- **Extraction**: js-dom walk + Blob download (35,713 chars, body stable across 10s sentinel)
+- **Claims verified**: 12 (8 confirmed, 4 disputed — Laukkonen false-absence, List citation "merge", tenet-level List scoping, Stapp inversion partly overstated)
+- **High-value findings**: 5
+- **Tasks generated**: 5 (P1: 1, P2: 4)
+
 ## 2026-09-24T03:49:12+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Pro (full-site audit, subject `fallback:site-stale-7d`)

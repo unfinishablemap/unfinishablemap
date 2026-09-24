@@ -4,6 +4,14 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-24T00:00:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-24T06:01:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/stapp-quantum-mind]]
+- **Original score**: 7/10
+- **Source**: outer-review-2026-09-24-claude-opus-5-5 §3 (Stapp inversion)
+- **Changes**: Removed outcome-biasing attributions to Stapp: "consciousness biases the outcome ... consciousness provides the sufficiency" (Core Mechanism) and "attention biases outcomes" (Kane section) rewritten so the agent's contribution is question-choice (Process 1) plus rapid-repetition holding, with nature answering by the orthodox statistical rule. Kane's agency condition now stated as met only on an influence-over-what-persists reading (the agent cannot make a pattern appear, only keep one). "Not mysterious (mechanism specified)" replaced: mechanism specified at question-choice level, Process 1 itself left primitive. Quoted LBNL-55887 "in contrast to Eccles" sentence beside the probability-control concession (verified verbatim against the LBNL-hosted .doc) and added the reference. Demoted Schwartz OCD "suggestive support" (lead) to "consistent with ... cannot count as support"; RSP line "suggestive of" to "consistent with". Reviewer overreach not adopted: Zeno holding is not Born-bending, so no deletion. Engagement with Eccles-style probability control: Mode Three (boundary marked, Map vs Stapp). Net +167 words.
+- **Published**: yes
+
 
 ## 2026-09-24T05:47:13+00:00 - combine-outer-reviews
 - **Status**: Success
