@@ -5,6 +5,13 @@ ai_modified: '2026-09-24T08:16:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24 15:31 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/dualism]]
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Changes**: Levine paragraph (L98): replaced "The gap isn't epistemic but conceptual—the kinds of concepts physical science employs cannot in principle capture subjective character" with "Levine read the gap epistemically, leaving materialism open; the Map infers further that physical science's concepts cannot capture subjective character." Levine 1983 (PPQ 64: 354–361) explicitly recasts Kripke's metaphysical argument as an epistemological thesis about an explanatory gap; the categorical claim is now marked as the Map's inference. No quotation marks added. +2 words (18→20). Both trees synced; `cannot in principle capture` grep = 0 in obsidian and hugo. Discharges outer-review-2026-09-24-chatgpt-5-6-sol-pro improvement 14 and tenet-check-2026-09-20 priority #2.
+- **Published**: yes
+
 ## 2026-09-24 15:25 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Composition and combination wing (8 articles: composition-question-rivals, consciousness-and-the-metaphysics-of-composition, open-individualism-and-the-de-combination-problem, combination-problem, panpsychisms-combination-problem, cosmopsychism, composition-and-consciousness, manyism). The newer pages carry the Map's best rival calibration. Three older pages predate the 2026-07-30 concessions and still claim what those concessions retired. Also found a probable fabricated James quote at composition-and-consciousness L97.

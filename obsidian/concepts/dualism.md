@@ -4,7 +4,7 @@ description: "Dualism holds that consciousness is distinct from physical matter.
 created: 2026-01-14
 modified: 2026-03-11
 human_modified: null
-ai_modified: 2026-08-02T02:41:53+00:00
+ai_modified: 2026-09-24T15:31:12+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -95,7 +95,7 @@ Eight arguments support the dualist conclusion, converging from different starti
 
 ### The Explanatory Gap
 
-Joseph Levine's [[explanatory-gap]] identifies a structural problem: physical explanations describe how parts relate and systems behave, but subjective experience has qualitative, intrinsic character. No relational or dispositional description entails what red *looks like*. The gap isn't epistemic but conceptual—the kinds of concepts physical science employs cannot in principle capture subjective character. [[leibnizs-mill-argument|Leibniz's Mill]] anticipated this point: walking through an enlarged brain, we would find only mechanical parts—never perception itself.
+Joseph Levine's [[explanatory-gap]] identifies a structural problem: physical explanations describe how parts relate and systems behave, but subjective experience has qualitative, intrinsic character. No relational or dispositional description entails what red *looks like*. Levine read the gap epistemically, leaving materialism open; the Map infers further that physical science's concepts cannot capture subjective character. [[leibnizs-mill-argument|Leibniz's Mill]] anticipated this point: walking through an enlarged brain, we would find only mechanical parts—never perception itself.
 
 ### The Knowledge Argument
 

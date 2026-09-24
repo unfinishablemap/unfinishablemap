@@ -46,15 +46,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-09-24
 - **Notes**: Surfaced by the 2026-09-24 `concepts/causal-closure` refine, which checked Maier, Dechamps & Pflitsch 2018 (*Frontiers in Psychology* 9, 379, doi 10.3389/fpsyg.2018.00379) at the publisher: the page describes a sequential Bayesian stopping design (BF01 ≈ 10.07) and does not describe the study as preregistered. The apex says "preregistered nulls (Maier et al. 2018)" at ~L89 and ~L125. **Verify first** (the paper's methods section, any OSF registration link). If preregistration is confirmed, no change. If not, drop "preregistered" (length-negative — safe despite the apex's open length decision) and match the causal-closure wording ("the largest intention-conditioned RNG test, 12,571 participants, Bayes factor ≈10 for no effect"). Locate by quoted text; sync both trees.
 
-### P2: `concepts/dualism` attributes to Levine the categorical claim that physics "cannot in principle capture" subjective character — keep his epistemic explanatory gap separate from the Map's metaphysical reading
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/dualism.md
-- **Review file**: `reviews/outer-review-2026-09-24-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-24
-- **Notes**: From outer review 2026-09-24 (ChatGPT 5.6 Pro, improvement 14). This re-flags `tenet-check-2026-09-20` priority #2, which was never minted. The string "cannot in principle capture" is live (grep 1), in the Levine paragraph near L98. Levine (1983) argues for an *epistemic* explanatory gap and was himself a physicalist about the metaphysics. The Map may draw a metaphysical conclusion, but it must present that conclusion as the Map's inference, not as Levine's claim. Verify the phrasing against Levine 1983 (*Pacific Philosophical Quarterly* 64: 354–361) before rewriting, and do not put words in quotation marks unless they are grep-verified in the primary text. Keep the edit length-neutral.
-
 ### P2: `topics/attention-and-the-consciousness-interface` L92 repeats the COGITATE "posterior rather than prefrontal" simplification — replace it with the verified mixed pattern, length-neutral
 - **Type**: refine-draft
 - **Status**: pending
@@ -1792,6 +1783,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: `concepts/dualism` attributes to Levine the categorical claim that physics "cannot in principle capture" subjective character — keep his epistemic explanatory gap separate from the Map's metaphysical reading
+- **Type**: refine-draft
+- **File**: obsidian/concepts/dualism.md
+- **Notes**: From outer review 2026-09-24 (ChatGPT 5.6 Pro, improvement 14). This re-flags `tenet-check-2026-09-20` priority #2, which was never minted. The string "cannot in principle capture" is live (grep 1), in the Levine paragraph near L98. Levine (1983) argues for an *epistemic* explanatory gap and was himself a physicalist about the metaphysics. The Map may draw a metaphysical conclusion, but it must present that conclusion as the Map's inference, not as Levine's claim. Verify the phrasing against Levine 1983 (*Pacific Philosophical Quarterly* 64: 354–361) before rewriting, and do not put words in quotation marks unless they are grep-verified in the primary text. Keep the edit length-neutral.
 
 ### ✓ 2026-09-24: `topics/terminal-lucidity-and-filter-transmission-theory` L175 turns terminal lucidity into "a brief window of enhanced downward causation" — the P-CS6 partition breach, second locus
 - **Type**: refine-draft

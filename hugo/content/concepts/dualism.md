@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-02 02:41:53+00:00
+ai_modified: 2026-09-24T15:31:12+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -99,7 +99,7 @@ Eight arguments support the dualist conclusion, converging from different starti
 
 ### The Explanatory Gap
 
-Joseph Levine's [explanatory-gap](/concepts/explanatory-gap/) identifies a structural problem: physical explanations describe how parts relate and systems behave, but subjective experience has qualitative, intrinsic character. No relational or dispositional description entails what red *looks like*. The gap isn't epistemic but conceptual—the kinds of concepts physical science employs cannot in principle capture subjective character. [Leibniz's Mill](/topics/leibnizs-mill-argument/) anticipated this point: walking through an enlarged brain, we would find only mechanical parts—never perception itself.
+Joseph Levine's [explanatory-gap](/concepts/explanatory-gap/) identifies a structural problem: physical explanations describe how parts relate and systems behave, but subjective experience has qualitative, intrinsic character. No relational or dispositional description entails what red *looks like*. Levine read the gap epistemically, leaving materialism open; the Map infers further that physical science's concepts cannot capture subjective character. [Leibniz's Mill](/topics/leibnizs-mill-argument/) anticipated this point: walking through an enlarged brain, we would find only mechanical parts—never perception itself.
 
 ### The Knowledge Argument
 
