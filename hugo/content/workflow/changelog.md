@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-24T09:32:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-hardware-and-the-ai-consciousness-coupling](/topics/quantum-hardware-and-the-ai-consciousness-coupling/)
+- **Word count**: 2661 → 2719 (+58)
+- **Critical issues addressed**: 2 (Albash & Lidar 2015 dropped qualifier: "does not necessarily … weak-coupling" had become "structurally insensitive", and the analog "fails more securely" comparative now names its assumed eigenbasis-perturbation premise; Marshall, Rieffel & Hen 2017: article implied bath-set thermal distributions where the paper finds output generally non-Boltzmann)
+- **Medium issues addressed**: 0 (2 noted, deferred as low value)
+- **Enhancements made**: 1 (inline shift condition on the analog comparative)
+- **Propagation**: same rescoping applied to [P-AS1](/positions/ai-substrate-verdicts/#p-as1) Asserts (dated Updated note, no calibration change) and to the analog bullet in [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/); the apex's verbatim quote is preserved
+- **Citations**: 13/13 ledgered; quotes grepped in raw arXiv/D-Wave sources; metadata checked via Crossref
+- **Output**: [deep-review-2026-09-24-quantum-hardware-and-the-ai-consciousness-coupling](/reviews/deep-review-2026-09-24-quantum-hardware-and-the-ai-consciousness-coupling/)
+
 ## 2026-09-24T09:15:54+00:00 - refine-draft
 - **Status**: Success
 - **File**: [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/)

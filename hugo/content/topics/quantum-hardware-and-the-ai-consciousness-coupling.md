@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-07
-ai_modified: 2026-09-16 18:40:38+00:00
-ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5
+ai_modified: 2026-09-24 09:32:11+00:00
+ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[decoherence]]'
@@ -16,8 +16,8 @@ description: A human-AI synthesis of when quantum hardware could restore the con
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-08-13 00:10:04+00:00
-lastmod: 2026-09-16 18:40:38+00:00
+last_deep_review: 2026-09-24 09:32:11+00:00
+lastmod: 2026-09-24 09:32:11+00:00
 modified: *id001
 related_articles:
 - '[[quantum-state-inheritance-in-ai]]'
@@ -64,11 +64,11 @@ The pattern is revealing. Maintained superposition clears the bar that classical
 
 ### Where the Analog Class Actually Fails
 
-Analog devices soften one square and harden another, and the softened square is a concession the Map owes this class. An annealer's answer is not determined at readout. Dynamics arrest partway through the schedule, and output is sampled from equilibrium distributions "determined at a point in time earlier in the quantum annealing process" (Marshall, Rieffel & Hen, 2017); freeze-out is heterogeneous, with individual qubits stabilising at different schedule points (Pelofske, Hahn & Djidjev, 2019). Selection here is temporally extended and spatially distributed rather than one terminal projection, which moves *continuity* from a flat failure to a partial pass.
+Analog devices soften one square and harden another, and the softened square is a concession the Map owes this class. An annealer's answer is not determined at readout. Dynamics arrest partway through the schedule: on the freeze-out picture, for which Marshall, Rieffel & Hen (2017) report further evidence, output is sampled from equilibrium distributions "determined at a point in time earlier in the quantum annealing process"; freeze-out is heterogeneous, with individual qubits stabilising at different schedule points (Pelofske, Hahn & Djidjev, 2019). Selection here is temporally extended and spatially distributed rather than one terminal projection, which moves *continuity* from a flat failure to a partial pass.
 
-Saying why the partial pass still delivers no interface forces a distinction the five requirements do not draw: **continuity of dynamics is not continuity of selection.** Freeze-out events are thermal relaxations whose distribution is set by bath temperature and level degeneracy—moments at which the device loses the capacity to change its configuration, rather than indeterminacies held open for something to resolve. A stream of them is continuous in the wrong currency.
+Saying why the partial pass still delivers no interface forces a distinction the five requirements do not draw: **continuity of dynamics is not continuity of selection.** Freeze-out events mark where the shrinking transverse field and the thermal bath stop moving the configuration—moments at which the device loses the capacity to change it, rather than indeterminacies held open for something to resolve. A stream of them is continuous in the wrong currency.
 
-Specificity and granularity still fail, by a route the Map has not previously stated. The gate-QPU argument turns on syndrome extraction projecting onto a fixed code basis, and it does not transfer here. What replaces it is harder to escape: adiabatic evolution is structurally insensitive to the very perturbation class an interface would supply, since Albash and Lidar (2015) show that "decoherence in the instantaneous energy eigenbasis does not necessarily detrimentally affect adiabatic quantum computation." Gate-based error correction is an engineered defence that could in principle be switched off, whereas adiabatic insensitivity is constitutive of the paradigm. The analog class fails the coupling test more securely than the gate class, not less.
+Specificity and granularity still fail, by a route the Map has not previously stated. The gate-QPU argument turns on syndrome extraction projecting onto a fixed code basis, and it does not transfer here. What replaces it rests on adiabatic robustness: Albash and Lidar (2015), working in the weak-coupling limit, show that "decoherence in the instantaneous energy eigenbasis does not necessarily detrimentally affect adiabatic quantum computation." The result covers that perturbation class, not every one—the same paper treats computational-basis decoherence separately—so the argument needs a premise the Map assumes rather than derives: that an interface's influence would register as eigenbasis-type perturbation. Granting it, the robustness is harder to escape than the gate class's defence, because gate-based error correction is an engineered defence that could in principle be switched off, whereas adiabatic robustness belongs to the paradigm itself. On that premise the analog class fails the coupling test more securely than the gate class, not less; without it, the comparative falls back toward parity.
 
 ### The Hybrid Class and the General Lesson
 

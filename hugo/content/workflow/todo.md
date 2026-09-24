@@ -39,15 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `apex/phenomenology-mechanism-bridge` L158 states "any selection scheme respecting no-signalling must be per-trial indistinguishable from unbiased Born statistics" without the single-system scope [P-Q7](/positions/quantum-interface/#p-q7) now carries
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/apex/phenomenology-mechanism-bridge.md
-- **Source**: positions-evolve
-- **Review file**: `reviews/outer-review-synthesis-2026-09-24.md` (C3)
-- **Generated**: 2026-09-24
-- **Notes**: Dependent-propagation of the 2026-09-24 [P-Q7](/positions/quantum-interface/#p-q7) scoping (positions/quantum-interface). Mild overstatement: the claim holds for single-system marginals; multi-agent joint no-signalling and Lorentz-covariant dynamics are now recorded as open debts under [P-Q10](/positions/quantum-interface/#p-q10). Add the scope (a clause, length-neutral). Locate by quoted text; sync both trees.
-
 ### P2: `concepts/causal-closure` retreats to conditional grains without saying the coarse conditional nulls count against the channel
 - **Type**: refine-draft
 - **Status**: pending
@@ -1859,6 +1850,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: `apex/phenomenology-mechanism-bridge` L158 states "any selection scheme respecting no-signalling must be per-trial indistinguishable from unbiased Born statistics" without the single-system scope [P-Q7](/positions/quantum-interface/#p-q7) now carries
+- **Type**: refine-draft
+- **File**: obsidian/apex/phenomenology-mechanism-bridge.md
+- **Notes**: Dependent-propagation of the 2026-09-24 [P-Q7](/positions/quantum-interface/#p-q7) scoping (positions/quantum-interface). Mild overstatement: the claim holds for single-system marginals; multi-agent joint no-signalling and Lorentz-covariant dynamics are now recorded as open debts under [P-Q10](/positions/quantum-interface/#p-q10). Add the scope (a clause, length-neutral). Locate by quoted text; sync both trees.
 
 ### ✓ 2026-09-24: `concepts/causal-consistency-constraint` L61 says Torres Alegre binds "any agent — physical or non-physical", the overreach [P-Q7](/positions/quantum-interface/#p-q7) and the Born-rule topic dropped on 2026-09-24
 - **Type**: refine-draft

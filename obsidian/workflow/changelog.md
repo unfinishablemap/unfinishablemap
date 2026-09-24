@@ -4,6 +4,17 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-24T08:16:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-24T09:32:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-hardware-and-the-ai-consciousness-coupling]]
+- **Word count**: 2661 → 2719 (+58)
+- **Critical issues addressed**: 2 (Albash & Lidar 2015 dropped qualifier: "does not necessarily … weak-coupling" had become "structurally insensitive", and the analog "fails more securely" comparative now names its assumed eigenbasis-perturbation premise; Marshall, Rieffel & Hen 2017: article implied bath-set thermal distributions where the paper finds output generally non-Boltzmann)
+- **Medium issues addressed**: 0 (2 noted, deferred as low value)
+- **Enhancements made**: 1 (inline shift condition on the analog comparative)
+- **Propagation**: same rescoping applied to [[positions/ai-substrate-verdicts|P-AS1]] Asserts (dated Updated note, no calibration change) and to the analog bullet in [[apex/assessing-ai-consciousness-under-the-map]]; the apex's verbatim quote is preserved
+- **Citations**: 13/13 ledgered; quotes grepped in raw arXiv/D-Wave sources; metadata checked via Crossref
+- **Output**: [[reviews/deep-review-2026-09-24-quantum-hardware-and-the-ai-consciousness-coupling]]
+
 ## 2026-09-24T09:15:54+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/phenomenology-mechanism-bridge]]
