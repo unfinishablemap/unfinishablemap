@@ -4,6 +4,14 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-24T00:00:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+## 2026-09-24T07:17:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/interface-specification-programme]]
+- **Source**: outer review 2026-09-24 (ChatGPT 5.6 Pro, §6.1-6.2, improvements 7-8)
+- **Changes**: (1) COGITATE clause "conscious content tracking posterior cortex rather than the prefrontal regions either rival predicts" replaced with the Nature 2025 verdict, quoted verbatim after checking it against the OpenAlex abstract (DOI 10.1038/s41586-025-08888-1): "align with some predictions of IIT and GNWT, while substantially challenging key tenets of both theories", with content in visual and inferior frontal cortex but neither sustained posterior synchronisation nor prefrontal ignition. This matches today's IIT concept refine. The follow-on "any account that locates conscious content posteriorly" became "any third theory". IIT and GNWT are now spelled out on first use, since the old GWT naming was removed. (2) 10 bits/s recast as a behavioural bottleneck at the three sites: the control-operations paragraph ("fits the ~10 bits/second behavioural bottleneck"; "complete control repertoire" became "candidate"), the Tycho-analogue list ("the behavioural bottleneck") and the five constraints ("behavioural-bottleneck compatibility"). Zheng & Meister kept as *Neuron* 2025. Length-neutral trims: the semantic-mapping parenthetical was shortened, and "rather than discriminating in its favour" became "without favouring the model"
+- **Length**: analyze_length 5119 -> 5118 (net -1; still over the apex hard limit, as before)
+- **Published**: yes (Hugo copy synced and confirmed)
+
 ## 2026-09-24T06:47:00+00:00 - positions-evolve (update)
 - **Status**: Success
 - **Position**: P-Q7 in [[positions/quantum-interface]]; heading retitled to "The default mechanism is no-signalling-safe for single-system marginals; joint and Lorentz-covariant safety are open"
