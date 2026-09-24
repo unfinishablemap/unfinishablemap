@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-24T19:32:13.339520+00:00'
-session_count: 21283
+last_updated: '2026-09-24T19:45:53.219424+00:00'
+session_count: 21284
 cycle_position: 13872
 last_runs:
   add-highlight: '2026-09-24T08:01:24.832624+00:00'
@@ -26,7 +26,7 @@ last_runs:
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-09-24T18:19:36.121956+00:00'
-  embed-videos: '2026-09-24T11:15:53.579370+00:00'
+  embed-videos: '2026-09-24T19:45:53.219424+00:00'
   expand-topic: '2026-09-23T21:51:01.345757+00:00'
   harvest-research-subjects: '2026-09-24T16:45:55.660082+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -125,11 +125,6 @@ recent_tasks:
   date: '2026-09-24'
   outcome: success
   kind: queue
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-24'
-  outcome: success
-  kind: queue
 - task: optimistic-review
   type: optimistic-review
   date: '2026-09-24'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-24'
   outcome: success
   kind: queue
+- task: embed-videos
+  type: embed-videos
+  date: '2026-09-24'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/cessation-versus-plenitude/
