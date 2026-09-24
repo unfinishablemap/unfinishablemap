@@ -4,7 +4,7 @@ description: "Distinguishing physics-based retrocausality from contested parapsy
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-09-24T01:01:00+00:00
+ai_modified: 2026-09-24T12:01:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -98,7 +98,7 @@ Presentiment would require a different application of retrocausality—not just 
 
 ## Relation to Site Perspective
 
-The Map's [[tenets#^dualism|Dualism]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenets require that consciousness causally influences physical processes. [[retrocausality|Retrocausality]] provides one mechanism: consciousness selects among superposed neural states, with the selection determining which history becomes actual.
+The Map's [[tenets#^dualism|Dualism]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenets require that consciousness causally influences physical processes. [[retrocausality|Retrocausality]] provides one mechanism: consciousness fixes which of the brain's quantum outcomes is realised, with the selection determining which history becomes actual.
 
 This doesn't require presentiment. The physics of time-symmetric quantum mechanics provides independent grounding. Wheeler's delayed-choice experiments confirm a phenomenon that is consistent with—and motivates—a retrocausal reading; they do not, by themselves, *establish* retrocausal structure, since standard quantum mechanics accounts for delayed-choice without it. The retrocausal reading is one empirically-equivalent interpretation, and the transactional interpretation makes it coherent. Consistency demands the same scrupulousness here that the article applies to presentiment: a confirmed phenomenon is not a confirmed interpretation. What the firewall buys is comparative, not absolute—the interpretive debate over time-symmetric quantum mechanics is a respectable mainstream-physics dispute, whereas presentiment's central defense (the experimenter-effect escape hatch) is conceded unfalsifiable.
 

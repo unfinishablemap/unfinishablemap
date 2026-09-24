@@ -4,7 +4,7 @@ description: "Baseline cognition is what neural systems achieve without consciou
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-08-02T02:21:38+00:00
+ai_modified: 2026-09-24T12:01:00+00:00
 last_deep_review: 2026-07-10T14:24:13+00:00
 draft: false
 topics:
@@ -173,7 +173,7 @@ This doesn't prove AI cannot be conscious but suggests human-level cognition wou
 
 ## Implications for Free Will
 
-If consciousness enables counterfactual reasoning and deliberate selection among alternatives, the baseline cognition framework supports [[topics/free-will|libertarian free will]]. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet proposes that consciousness selects among superposed neural states—not merely accompanying neural activity but *intervening* in it. The baseline-to-human transition marks not just expanded cognition but the emergence of genuine agency.
+If consciousness enables counterfactual reasoning and deliberate selection among alternatives, the baseline cognition framework supports [[topics/free-will|libertarian free will]]. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness is not a passive observer but causally influences the physical world—not merely accompanying neural activity but *intervening* in it. The baseline-to-human transition marks not just expanded cognition but the emergence of genuine agency.
 
 ## What Would Challenge This View?
 

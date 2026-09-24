@@ -5,6 +5,13 @@ ai_modified: '2026-09-24T08:16:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24 12:01 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/baseline-cognition]] (+ [[concepts/retrocausality]], [[topics/presentiment-and-retrocausality]])
+- **Original score**: n/a (targeted calibration fix)
+- **Changes**: Removed unquoted "consciousness selects among superposed neural states" attributed to Tenet 3 in all three files (sibling of IIT L150 fix; review: reviews/outer-review-2026-09-24-chatgpt-5-6-sol-pro.md). baseline-cognition L176 now uses the live tenet text (not a passive observer, causally influences the physical world); retrocausality L72 attributes outcome-biasing to MQI and causal efficacy to BI; presentiment L101 says consciousness fixes which of the brain's quantum outcomes is realised (neutral between pre-/post-decoherence variants). Length-neutral; earlier same-day presentiment fix preserved. Post-edit grep counts: 0/0/0. Archive copies out of scope.
+- **Published**: yes
+
 ## 2026-09-24T11:31:36+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/vertiginous-question]]

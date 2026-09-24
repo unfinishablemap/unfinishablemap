@@ -4,7 +4,7 @@ description: "Backward causation in time-symmetric quantum mechanics. On retroca
 created: 2026-01-07
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-09-07T23:11:56+00:00
+ai_modified: 2026-09-24T12:01:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -69,7 +69,7 @@ The transactional interpretation thus remains contested but not refuted. The Map
 
 ## Application to Consciousness
 
-The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenets propose that consciousness selects among superposed neural states. Applying this retrocausally requires adopting the transactional interpretation (or something like it)—a minority position in physics whose core debate with critics has reached a stable impasse. What follows is conditional on TI's correctness:
+The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes that consciousness biases which neural outcome becomes actual, and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] that this influence is genuinely causal. Applying this retrocausally requires adopting the transactional interpretation (or something like it)—a minority position in physics whose core debate with critics has reached a stable impasse. What follows is conditional on TI's correctness:
 
 1. **If** TI is correct, quantum events involve atemporal handshakes between offer and confirmation waves. The brain prepares multiple possible action patterns as a superposition.
 2. **If** consciousness operates at the level of these handshakes, it "selects" which pattern becomes actual—not by adding exotic causal powers, but by participating in a process TI says already exists.

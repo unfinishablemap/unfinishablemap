@@ -10,6 +10,29 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-24 12:01 UTC - refine-draft
+- **Status**: Success
+- **File**: [baseline-cognition](/concepts/baseline-cognition/) (+ [retrocausality](/concepts/retrocausality/), [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/))
+- **Original score**: n/a (targeted calibration fix)
+- **Changes**: Removed unquoted "consciousness selects among superposed neural states" attributed to Tenet 3 in all three files (sibling of IIT L150 fix; review: reviews/outer-review-2026-09-24-chatgpt-5-6-sol-pro.md). baseline-cognition L176 now uses the live tenet text (not a passive observer, causally influences the physical world); retrocausality L72 attributes outcome-biasing to MQI and causal efficacy to BI; presentiment L101 says consciousness fixes which of the brain's quantum outcomes is realised (neutral between pre-/post-decoherence variants). Length-neutral; earlier same-day presentiment fix preserved. Post-edit grep counts: 0/0/0. Archive copies out of scope.
+- **Published**: yes
+
+## 2026-09-24T11:31:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [vertiginous-question](/topics/vertiginous-question/)
+- **Source**: outer review 2026-09-24 (Claude Opus 5.5, §4 and novel inference 2)
+- **Original score**: 7/10 (curate.py absent; editor estimate)
+- **Length**: 3978 → 3992 words (topics hard 4000; net +14; offset by trimming a redundant List sentence at L162, the Tenet 4 recap in Relation to Site Perspective, and the quadrilemma closing sentence)
+- **Changes**:
+  - Quadrilemma (L106): "force acceptance of fragmentation" made conditional on reading dualism as List-strong first-person realism, flagged as contested, and costed — named as Kit Fine's fragmentalism carried from tense to subjects (no complete jointly consistent description; Tenet 4's one world cannot be stated whole), with the inheriting pages named ([haecceity](/concepts/haecceity/), [mine-ness](/concepts/mine-ness/), [many-worlds-argument](/arguments/many-worlds-argument/)). Added Fine (2005) "Tense and Reality" to references (renumbered; body uses no numeric cites).
+  - List discussion (L164): recorded novel inference 2 as an open gap. Checked tenets.md L117/L119 and arguments/many-worlds-argument L55/L83/L85/L171: none gives a non-parsimony ground for rejecting modal realism (L85 restates global uniqueness; L83 marks the Wilson dispute as unresolvable inside either framework). With Tenet 5 disarming parsimony, the article now says the tenet is held at the framework boundary against List, not argued.
+  - Relation to Site Perspective (Tenet 4 paragraph): compressed List recap, carrying the same "awaiting a non-parsimony ground" qualifier.
+- **Reviewer claims that failed verification (not acted on)**: List 2023/2025 merge (refs already separate); "no tenet-level scoping" (tenets.md L117 already scopes).
+- **Engagement classification**: List's centred modal realism — Mode Three (framework-boundary); an in-framework refutation was looked for in tenets.md and many-worlds-argument and none exists, so the disagreement is marked as closer to bedrock than the prior text implied. Fragmentation cost — self-directed honesty, not an opponent reply.
+- **Not done**: tenets.md untouched per driver note. A non-parsimony argument against modal realism remains owed (candidate follow-up for many-worlds-argument).
+- **Hugo**: synced; Hugo copy confirmed to carry both edits.
+- **Published**: yes
+
 ## 2026-09-24T11:02:47+00:00 - refine-draft
 - **Status**: Success
 - **File**: [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) (primary), [witness-consciousness](/concepts/witness-consciousness/) (secondary), [stapp-quantum-mind](/concepts/stapp-quantum-mind/) (checked; gap real, fixed length-neutrally)

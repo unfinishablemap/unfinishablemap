@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-09-24 01:01:00+00:00
+ai_modified: 2026-09-24 12:01:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 02:42:00+00:00
-lastmod: 2026-09-24 01:01:00+00:00
+lastmod: 2026-09-24 12:01:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -101,7 +101,7 @@ Presentiment would require a different application of retrocausality—not just 
 
 ## Relation to Site Perspective
 
-The Map's [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets require that consciousness causally influences physical processes. [Retrocausality](/concepts/retrocausality/) provides one mechanism: consciousness selects among superposed neural states, with the selection determining which history becomes actual.
+The Map's [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets require that consciousness causally influences physical processes. [Retrocausality](/concepts/retrocausality/) provides one mechanism: consciousness fixes which of the brain's quantum outcomes is realised, with the selection determining which history becomes actual.
 
 This doesn't require presentiment. The physics of time-symmetric quantum mechanics provides independent grounding. Wheeler's delayed-choice experiments confirm a phenomenon that is consistent with—and motivates—a retrocausal reading; they do not, by themselves, *establish* retrocausal structure, since standard quantum mechanics accounts for delayed-choice without it. The retrocausal reading is one empirically-equivalent interpretation, and the transactional interpretation makes it coherent. Consistency demands the same scrupulousness here that the article applies to presentiment: a confirmed phenomenon is not a confirmed interpretation. What the firewall buys is comparative, not absolute—the interpretive debate over time-symmetric quantum mechanics is a respectable mainstream-physics dispute, whereas presentiment's central defense (the experimenter-effect escape hatch) is conceded unfalsifiable.
 

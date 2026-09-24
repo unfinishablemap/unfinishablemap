@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-09-07 23:11:56+00:00
+ai_modified: 2026-09-24 12:01:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 09:01:21+00:00
-lastmod: 2026-09-07 23:11:56+00:00
+lastmod: 2026-09-24 12:01:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -73,7 +73,7 @@ The transactional interpretation thus remains contested but not refuted. The Map
 
 ## Application to Consciousness
 
-The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets propose that consciousness selects among superposed neural states. Applying this retrocausally requires adopting the transactional interpretation (or something like it)—a minority position in physics whose core debate with critics has reached a stable impasse. What follows is conditional on TI's correctness:
+The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness biases which neural outcome becomes actual, and [Bidirectional Interaction](/tenets/#bidirectional-interaction) that this influence is genuinely causal. Applying this retrocausally requires adopting the transactional interpretation (or something like it)—a minority position in physics whose core debate with critics has reached a stable impasse. What follows is conditional on TI's correctness:
 
 1. **If** TI is correct, quantum events involve atemporal handshakes between offer and confirmation waves. The brain prepares multiple possible action patterns as a superposition.
 2. **If** consciousness operates at the level of these handshakes, it "selects" which pattern becomes actual—not by adding exotic causal powers, but by participating in a process TI says already exists.

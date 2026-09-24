@@ -46,15 +46,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-09-24
 - **Notes**: Surfaced by the 2026-09-24 `concepts/causal-closure` refine, which checked Maier, Dechamps & Pflitsch 2018 (*Frontiers in Psychology* 9, 379, doi 10.3389/fpsyg.2018.00379) at the publisher: the page describes a sequential Bayesian stopping design (BF01 ≈ 10.07) and does not describe the study as preregistered. The apex says "preregistered nulls (Maier et al. 2018)" at ~L89 and ~L125. **Verify first** (the paper's methods section, any OSF registration link). If preregistration is confirmed, no change. If not, drop "preregistered" (length-negative — safe despite the apex's open length decision) and match the causal-closure wording ("the largest intention-conditioned RNG test, 12,571 participants, Bayes factor ≈10 for no effect"). Locate by quoted text; sync both trees.
 
-### P2: Stale Tenet-3 paraphrase "consciousness selects among superposed neural states" persists in three articles — realign to the live tenet and the post-decoherence default
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/baseline-cognition.md
-- **Review file**: `reviews/outer-review-2026-09-24-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-24
-- **Notes**: Sibling of the P1 on `concepts/integrated-information-theory` L150 (found by the 2026-09-24 outer-review verification sweep, not by the reviewer). **THREE files, all in scope. The task is done only when all three greps return 0**: `concepts/baseline-cognition` L176 ("The Bidirectional Interaction tenet proposes that consciousness selects among superposed neural states"), `concepts/retrocausality` L72 ("Minimal Quantum Interaction and Bidirectional Interaction tenets propose that consciousness selects among superposed neural states"), `topics/presentiment-and-retrocausality` L101. None of these is in quotation marks, so the defect is calibration, not fabrication: the tenets page no longer says "superposed", and the Map's default is post-decoherence selection among decohered alternatives. Attribute the mechanism to MQI / the post-decoherence programme, not to Tenet 3. Keep each edit length-neutral. Archive copies (`archive/topics/non-retrocausal-conscious-selection-models`, etc.) are out of scope pending the open archive-policy NEEDS-HUMAN.
-
 ### P2: `apex/self-concealing-interface` says the accepted constraints "force" concealment, as if the joint law were already written — restate it as a conditional on a successful strict-corridor model
 - **Type**: refine-draft
 - **Status**: pending
@@ -1815,6 +1806,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: Stale Tenet-3 paraphrase "consciousness selects among superposed neural states" persists in three articles — realign to the live tenet and the post-decoherence default
+- **Type**: refine-draft
+- **File**: obsidian/concepts/baseline-cognition.md
+- **Notes**: Sibling of the P1 on `concepts/integrated-information-theory` L150 (found by the 2026-09-24 outer-review verification sweep, not by the reviewer). **THREE files, all in scope. The task is done only when all three greps return 0**: `concepts/baseline-cognition` L176 ("The Bidirectional Interaction tenet proposes that consciousness selects among superposed neural states"), `concepts/retrocausality` L72 ("Minimal Quantum Interaction and Bidirectional Interaction tenets propose that consciousness selects among superposed neural states"), `topics/presentiment-and-retrocausality` L101. None of these is in quotation marks, so the defect is calibration, not fabrication: the tenets page no longer says "superposed", and the Map's default is post-decoherence selection among decohered alternatives. Attribute the mechanism to MQI / the post-decoherence programme, not to Tenet 3. Keep each edit length-neutral. Archive copies (`archive/topics/non-retrocausal-conscious-selection-models`, etc.) are out of scope pending the open archive-policy NEEDS-HUMAN.
 
 ### ✓ 2026-09-24: `topics/vertiginous-question` L106 says the Map's commitments "force acceptance of fragmentation" — an uncosted heterodox commitment; and Tenet 4 now rests on rejecting List-style modal realism while Tenet 5 disarms parsimony, the obvious ground for that rejection
 - **Type**: refine-draft

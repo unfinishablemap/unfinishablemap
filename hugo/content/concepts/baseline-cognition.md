@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-08-02 02:21:38+00:00
+ai_modified: 2026-09-24 12:01:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -37,7 +37,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-10 14:24:13+00:00
-lastmod: 2026-08-02 02:21:38+00:00
+lastmod: 2026-09-24 12:01:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -176,7 +176,7 @@ This doesn't prove AI cannot be conscious but suggests human-level cognition wou
 
 ## Implications for Free Will
 
-If consciousness enables counterfactual reasoning and deliberate selection among alternatives, the baseline cognition framework supports [libertarian free will](/topics/free-will/). The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet proposes that consciousness selects among superposed neural states—not merely accompanying neural activity but *intervening* in it. The baseline-to-human transition marks not just expanded cognition but the emergence of genuine agency.
+If consciousness enables counterfactual reasoning and deliberate selection among alternatives, the baseline cognition framework supports [libertarian free will](/topics/free-will/). The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness is not a passive observer but causally influences the physical world—not merely accompanying neural activity but *intervening* in it. The baseline-to-human transition marks not just expanded cognition but the emergence of genuine agency.
 
 ## What Would Challenge This View?
 
