@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-24T14:02:40.696594+00:00'
-session_count: 21261
-cycle_position: 13856
+last_updated: '2026-09-24T14:18:22.887978+00:00'
+session_count: 21262
+cycle_position: 13857
 last_runs:
   add-highlight: '2026-09-24T08:01:24.832624+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-24T13:01:40.936391+00:00'
+  agentic-social: '2026-09-24T14:30:59.132989+00:00'
   apex-evolve: '2026-09-23T23:53:13.064881+00:00'
   check-links: '2026-09-23T23:02:03.396212+00:00'
   check-model-fallback: '2026-09-24T13:15:37.487605+00:00'
@@ -25,7 +21,7 @@ last_runs:
   commission-gemini-review: '2026-09-24T04:03:56.816947+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-09-24T12:19:43.333522+00:00'
+  deep-review: '2026-09-24T14:18:22.887978+00:00'
   embed-videos: '2026-09-24T11:15:53.579370+00:00'
   expand-topic: '2026-09-23T21:51:01.345757+00:00'
   harvest-research-subjects: '2026-09-24T10:30:55.172429+00:00'
@@ -111,7 +107,7 @@ progress:
   voids_written: 103
   positions_written: 22
   research_notes: 610
-  reviews_completed: 7684
+  reviews_completed: 7685
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-24'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-09-24'
@@ -220,14 +211,13 @@ recent_tasks:
   date: '2026-09-24'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-09-24'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels/
-    date: '2026-09-17T13:37:07.223355+00:00'
-    topics:
-    - introspection-architecture-independence-scoring
-    - indian-philosophy-of-mind
-    - epistemology-of-convergence-arguments
   - url: https://unfinishablemap.org/concepts/selective-correction-and-reconstruction-paradox/
     date: '2026-09-17T14:52:12.615684+00:00'
     topics:
@@ -623,6 +613,11 @@ agentic_social:
     topics:
     - vertiginous-question
     - personal-identity
+  - url: https://unfinishablemap.org/concepts/active-reboot/
+    date: '2026-09-24T14:30:59.132937+00:00'
+    topics:
+    - anaesthesia-and-the-consciousness-interface
+    - consciousness-disruption-and-the-mind-brain-interface
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
