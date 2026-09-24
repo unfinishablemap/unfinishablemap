@@ -1,14 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-24T08:16:00+00:00'
+ai_modified: '2026-09-24T17:46:32+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-24'
-lastmod: 2026-09-24 08:16:00+00:00
+lastmod: 2026-09-24 17:46:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-24T17:46:32+00:00 - positions-evolve (update [P-SC2](/positions/subject-census/#p-sc2))
+- **Status**: Completed. Mode `update`; no band moved on any axis; no new position.
+- **Change**: [subject-census](/positions/subject-census/) [P-SC2](/positions/subject-census/#p-sc2) now books **census circularity** as a fifth named gap (subjecthood is inferred from behaviour, reports and neural signatures, the outcomes the census-indexed law governs; owed: eligibility criteria fixed independently of the tested outcome) and the **copies question** under multi-agent composition (same-intention subjects accumulate / dilute / cancel / renormalise in *P(O | C₁…Cₙ, X)*, undecided; cross-referenced to [multi-agent-born-preservation-problem](/topics/multi-agent-born-preservation-problem/) and [P-Q10](/positions/quantum-interface/#p-q10)). *Would shift if* gains a discharge condition for each. Source: outer review 2026-09-24, ChatGPT 5.6 Pro §2.6.
+- **Length**: register was 2,595 words (over the 2,500 hard advisory, under critical). Its dated notes (the [P-SC1](/positions/subject-census/#p-sc1) 2026-08-13 and 2026-08-24 notes, the [P-SC2](/positions/subject-census/#p-sc2) 2026-08-16 note, and the preamble "How the [P-SC1](/positions/subject-census/#p-sc1) defect got here" account) were relocated verbatim to the new [subject-census-calibration-history](/positions/subject-census-calibration-history/), and the dated 2026-09-24 note was written there too. Register now 2,536 words. [positions](/positions/) companion-files list updated.
+- **Cascade**: [P-SC3](/positions/subject-census/#p-sc3) and P-I's fission entry ([individuation-and-subjecthood](/positions/individuation-and-subjecthood/)) draw on [P-SC2](/positions/subject-census/#p-sc2) only for the undated-channel and pairing gaps, which are unchanged, so no follow-up is queued. [P-AC3](/positions/ai-consciousness-scope/#p-ac3)'s additive rule counts copies as distinct subjects for moral weight and does not decide causal composition; the register now says so, so the two do not conflict. [P-SC1](/positions/subject-census/#p-sc1)'s discriminability field already required an independent handle for identification, and the new gap is its membership-level form, so the two are consistent.
+- **Files**: obsidian/positions/subject-census.md, obsidian/positions/subject-census-calibration-history.md (new), obsidian/positions/positions.md; Hugo synced.
+
+## 2026-09-24T17:01:00+00:00 - coalesce
+- **Status**: Abandoned (reasoned decline, no merge). **17th consecutive**, the steady-state outcome per the candidate-pool memory.
+- **Section pressure** (live `tools.evolution.state.count_section_files`): topics 329 files (328 real articles plus the `non-temporal-consciousness.refinement-log` sidecar)/360, concepts 327/360, voids 103/115. Unchanged since the 08:16 run; none critical.
+- **Pool movement since the 2026-09-24T08:16 run: zero** (`git log --since=2026-09-24T08:10 --diff-filter=AD` over topics/concepts/voids/apex returns nothing). With no new or removed articles, re-running the TF-IDF, length-first, ancestry, shingle, title-family and cross-section screens would only re-argue pairs already declined on 09-21, 09-23 and 09-24 08:16.
+- **Sources / Target / Archived**: none.
+- **References to review**: none.
+
+## 2026-09-24 16:31 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
+- **Original score**: n/a (targeted propagation fix)
+- **Changes**: Propagated the 2026-09-24 phenomenology-of-anticipation deep-review fix to L122. Laukkonen, Friston & Chandaria (2025) Bayesian binding is now "one of three conditions that 'seem necessary' for consciousness" (was "jointly sufficient conditions for phenomenal experience"), and the "entails consciousness from the dynamics" reading is credited to "the functionalist reading it invites", not to the authors, matching [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) L82. Map's reply unchanged. Net +3 words. Hugo copy patched in place and verified. Engagement with the beautiful-loop account: Mode Two into Mode Three (unchanged).
+- **Published**: yes
 
 ## 2026-09-24 16:30 UTC - deep-review
 - **Status**: Success

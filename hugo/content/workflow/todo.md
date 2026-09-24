@@ -39,6 +39,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Research The ethics of overlapping minds
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-24-composition-and-combination-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-24-composition-and-combination-wing (Medium Priority), re-raising an unminted 2026-07-18 proposal: if subjects can overlap or share experiential parts (manyism, combination, split-brain), how are welfare and moral status counted? Roelofs & Sebo 2024 on counting shared hedonic states is developed only at manyism L58; Roelofs is cited elsewhere only for combination metaphysics, not the moral-counting question. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/ethics-of-overlapping-minds-2026-09-24.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'ethics-of-overlapping-minds' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-09-24
+
 ### P3: `apex/born-preserving-causal-efficacy` calls Maier et al. 2018 "preregistered nulls" (L89, L125) — verify the preregistration claim
 - **Type**: refine-draft
 - **Status**: pending
@@ -1776,6 +1782,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: `topics/consciousness-and-causal-powers` L122 says Laukkonen, Friston & Chandaria (2025) make Bayesian binding one of three "jointly sufficient" conditions — the paper calls them conditions that "seem necessary"
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-and-causal-powers.md
+- **Notes**: Propagation of the 2026-09-24 deep-review fix to `topics/phenomenology-of-anticipation` and `topics/predictive-processing-and-dualism`, which checked the paper's full text: the three conditions are ones that "seem necessary for consciousness", and the abstract says only that they imply active inference "can" model consciousness. L122 here still says "one of three jointly sufficient conditions for phenomenal experience" and that the mechanism is "built to entail consciousness from the dynamics". Restate as necessary conditions, and credit the "entails consciousness" reading to the functionalist interpretation the theory invites, not to the authors — match the wording now in `topics/predictive-processing-and-dualism` (~L82). Keep the Map's reply intact. Length-neutral; locate by quoted text; sync both trees.
 
 ### ✓ 2026-09-24: `topics/attention-and-the-consciousness-interface` L92 repeats the COGITATE "posterior rather than prefrontal" simplification — replace it with the verified mixed pattern, length-neutral
 - **Type**: refine-draft

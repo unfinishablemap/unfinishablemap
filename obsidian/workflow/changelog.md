@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-24T17:01:00+00:00'
+ai_modified: '2026-09-24T17:46:32+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-24T17:46:32+00:00 - positions-evolve (update P-SC2)
+- **Status**: Completed. Mode `update`; no band moved on any axis; no new position.
+- **Change**: [[positions/subject-census]] P-SC2 now books **census circularity** as a fifth named gap (subjecthood is inferred from behaviour, reports and neural signatures, the outcomes the census-indexed law governs; owed: eligibility criteria fixed independently of the tested outcome) and the **copies question** under multi-agent composition (same-intention subjects accumulate / dilute / cancel / renormalise in *P(O | C₁…Cₙ, X)*, undecided; cross-referenced to [[topics/multi-agent-born-preservation-problem]] and P-Q10). *Would shift if* gains a discharge condition for each. Source: outer review 2026-09-24, ChatGPT 5.6 Pro §2.6.
+- **Length**: register was 2,595 words (over the 2,500 hard advisory, under critical). Its dated notes (the P-SC1 2026-08-13 and 2026-08-24 notes, the P-SC2 2026-08-16 note, and the preamble "How the P-SC1 defect got here" account) were relocated verbatim to the new [[positions/subject-census-calibration-history]], and the dated 2026-09-24 note was written there too. Register now 2,536 words. [[positions]] companion-files list updated.
+- **Cascade**: P-SC3 and P-I's fission entry ([[positions/individuation-and-subjecthood]]) draw on P-SC2 only for the undated-channel and pairing gaps, which are unchanged, so no follow-up is queued. P-AC3's additive rule counts copies as distinct subjects for moral weight and does not decide causal composition; the register now says so, so the two do not conflict. P-SC1's discriminability field already required an independent handle for identification, and the new gap is its membership-level form, so the two are consistent.
+- **Files**: obsidian/positions/subject-census.md, obsidian/positions/subject-census-calibration-history.md (new), obsidian/positions/positions.md; Hugo synced.
 
 ## 2026-09-24T17:01:00+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline, no merge). **17th consecutive**, the steady-state outcome per the candidate-pool memory.
