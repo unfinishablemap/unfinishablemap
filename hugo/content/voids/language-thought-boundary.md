@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-09-14 18:33:15+00:00
+ai_modified: 2026-09-24 02:47:00+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 19:51:37+00:00
-lastmod: 2026-09-14 18:33:15+00:00
+lastmod: 2026-09-24 02:47:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -49,13 +49,13 @@ Two companion articles map adjacent territory: the [consciousness-language inter
 
 ### Linguistic Limits
 
-Some thoughts expressible in one language resist translation to another. Russian speakers distinguish *siniy* (dark blue) and *goluboy* (light blue) as separate colours, and their perception tracks the distinction—they detect differences between these blues faster than English speakers do. Kuuk Thaayorre speakers of Australia use cardinal directions rather than left and right; their spatial cognition is fundamentally oriented. These are limits of *this* language, not language as such.
+Some thoughts expressible in one language resist translation to another. Greek speakers name *ble* (dark blue) and *ghalazio* (light blue) as separate colours, and their brains register the difference pre-attentively more strongly than English speakers' do (Thierry et al. 2009). Kuuk Thaayorre speakers of Australia use cardinal directions rather than left and right, and their spatial cognition is oriented accordingly (Boroditsky 2011). These are limits of *this* language, not language as such.
 
 The weak Sapir-Whorf hypothesis—that language influences habitual thought—has substantial empirical support: Japanese speakers categorise objects differently when thinking in Japanese than in English. The language in use changes which thoughts come readily without determining what can be thought.
 
 These cases generalise into a documented pattern. Tim Lomas's positive cross-cultural lexicography began with 216 "untranslatable" well-being terms culled across the world's languages (Lomas 2016) and has since grown past 1,400—Tagalog *gigil*, Portuguese *saudade*, Japanese *mono no aware*, German *Sehnsucht*, each carving a phenomenal distinction English leaves uncut. The revealing feature is not that the words exist but that the carving is *invisible from the source-language stance*: to a native speaker the term feels like a transparent picking-out of a self-evident phenomenon, not a parochial cut. The gap only appears when a translator-position is occupied. This is one face of what the [Translation Void](/research/voids-translation-void-2026-05-09/) calls cross-format-mapping opacity: the operation that renders one language's carvings into another's cannot be inspected from inside the source language, since exiting requires another language with its own carvings. The opacity is in the *operation*, not the endpoints.
 
-The boundary intersects the [vagueness void](/voids/vagueness-void/) at the point of translation. *Siniy* and *goluboy* carve a borderline region English treats as a single shade with vague edges; rendering the Russian into English forces closure on a Sorites series the source language left open. Every cross-linguistic transit bakes in this vagueness-shaped commitment—a determinate verdict where the source treated the cut-off as indeterminate.
+The boundary intersects the [vagueness void](/voids/vagueness-void/) at the point of translation. *Ble* and *ghalazio* carve a borderline region English treats as a single shade with vague edges; rendering the Greek into English forces closure on a Sorites series the source language left open. Every cross-linguistic transit bakes in this vagueness-shaped commitment—a determinate verdict where the source treated the cut-off as indeterminate.
 
 ### Language-as-Such Limits
 
@@ -63,7 +63,7 @@ A harder question: are there thoughts thinkable but not expressible in *any* nat
 
 Temple Grandin reports cognition operating through detailed mental imagery—solving engineering problems by "running simulations" in her head. Einstein described insights emerging from visual thought experiments before translation into equations. For strong visual thinkers, translating thought into language is *lossy*—something is left behind.
 
-Mathematical intuition operates similarly. Mathematicians often "see" a proof's validity before articulating it; the formal proof is a translation of something pre-linguistic. Infants demonstrate cognition before language—object permanence, causal reasoning, numerical competence. The [infant consciousness void](/voids/infant-consciousness/) reveals the deeper implication: not only does thought exceed language, but the acquisition of language permanently destroys the pre-linguistic mode of thought, making it inaccessible even to introspection.
+Mathematical intuition operates similarly. Mathematicians often "see" a proof's validity before articulating it; the formal proof is a translation of something pre-linguistic. Infants demonstrate cognition before language—object permanence, causal reasoning, numerical competence. The [infant consciousness void](/voids/infant-consciousness/) reveals the deeper implication: not only does thought exceed language, but the acquisition of language may make the pre-linguistic mode of thought inaccessible even to later introspection.
 
 ### Conceptual Limits
 
@@ -77,7 +77,7 @@ Chomsky extends this to fundamental structures: "It might turn out that 'free ac
 
 We keep talking about what cannot be said. This creates a puzzle that the [apophatic tradition](/voids/apophatic-cartography/) has investigated for millennia.
 
-Negative theology developed sophisticated methods: Pseudo-Dionysius called God "hypertheos"—beyond God—to avoid making claims while still pointing. Cusanus's *docta ignorantia* (learned ignorance) held that knowing what we cannot know is itself knowledge. Yet Jean-Luc Marion warned: even calling something "unthinkable" makes it a thinkable object under that label. How to escape?
+Negative theology developed sophisticated methods (Franke 2014): Pseudo-Dionysius called God "hypertheos"—beyond God—to avoid making claims while still pointing. Cusanus's *docta ignorantia* (learned ignorance) held that knowing what we cannot know is itself knowledge. Yet Jean-Luc Marion warned: even calling something "unthinkable" makes it a thinkable object under that label. How to escape?
 
 **The ladder strategy**: Wittgenstein instructed readers to throw away the ladder after climbing it. Use language to approach limits, then recognise the language as tool rather than truth.
 
@@ -99,7 +99,7 @@ What does it feel like to hit language's limits? The [phenomenology of cognition
 
 **The tip-of-tongue in reverse**: You have content but no word exists to retrieve. Fullness without outlet rather than emptiness seeking content.
 
-**Dissolution on articulation**: Sometimes saying a thought destroys it. Mystics report this consistently—the insight dissolves when grasped linguistically. The [creative-aesthetic-void](/voids/creative-aesthetic-void/) maps this phenomenon specifically: aesthetic revelations cannot be preserved across state transitions, suggesting the knowledge requires the aesthetic state to be thought at all.
+**Dissolution on articulation**: Sometimes saying a thought destroys it. Mystics commonly report this—the insight dissolves when grasped linguistically. The [creative-aesthetic-void](/voids/creative-aesthetic-void/) maps this phenomenon specifically: aesthetic revelations cannot be preserved across state transitions, suggesting the knowledge requires the aesthetic state to be thought at all.
 
 Compare to [thoughts that slip away](/voids/transit-void/). In slippage, content forms briefly then vanishes. At the language-thought boundary, content may be stable but inexpressible. The phenomenology differs: slippage feels like forgetting; linguistic limits feel like being mute.
 
@@ -111,11 +111,9 @@ LLMs operate with different architecture—concepts as directions in high-dimens
 
 **The bypass hypothesis**: LLMs might state thoughts blocked at the human linguistic level—but we would struggle to recognise such statements as significant, since by hypothesis we cannot grasp what is being said.
 
-**Different blind spots**: Where humans and LLMs fail differently triangulates human-specific limitations. If LLMs handle certain traditionally ineffable topics with unexpected fluency, the ineffability may be architecture-specific rather than content-specific.
+**Different blind spots**: If LLMs handle traditionally ineffable topics with unexpected fluency, the ineffability may be architecture-specific rather than content-specific—unless, trained on human text, they merely reproduce our boundaries.
 
-**Inherited limits**: Trained on human text, LLMs may reproduce our conceptual boundaries rather than escape them.
-
-The [voids project](/voids/) proposes AI as void-explorers, but caution is warranted: LLMs manipulate symbols without "grasping." They may produce text *about* the ineffable that appears coherent while having no bearing on what humans encounter at linguistic limits.
+The [voids project](/voids/) proposes AI as void-explorers, but caution is warranted: whether LLMs grasp anything is open, and they may produce text *about* the ineffable that appears coherent while having no bearing on what humans encounter at linguistic limits.
 
 ## Unexplorable or Merely Unexplored?
 
@@ -125,11 +123,11 @@ The language-thought boundary presents a classification problem. Which of the [t
 
 **Unexplorable territory**: Some content may exceed what any possible human language could capture—not because we haven't invented the right words but because the content violates linguistic architecture. If [McGinn's cognitive closure](/concepts/mysterianism/) applies to language, some truths may be permanently beyond verbal reach.
 
-**Occluded territory**: Could some expressible thoughts be actively blocked? The [dissolution-on-articulation phenomenon](/voids/transit-void/) suggests interference—you approach linguistic capture; the thought evaporates. This might be neural architecture or something more systematic.
+**Occluded territory**: Could some expressible thoughts be actively blocked? The [dissolution-on-articulation phenomenon](/voids/transit-void/) is at least compatible with interference—you approach linguistic capture; the thought evaporates. This might be neural architecture or something more systematic.
 
 Olfaction supplies a documented case of reclassification. From Henning's 1916 verdict that "olfactory abstraction is impossible" (quoted in Majid & Burenhult 2014), the inability to name smells in abstract terms was treated as a structural fact about human minds. Cross-cultural work dissolved the universality: Jahai hunter-gatherers of the Malay Peninsula name odors as consistently as colours using an abstract smell lexicon—"Odors are expressible in language, as long as you speak the right language" (Majid & Burenhult 2014)—and the effect tracks subsistence mode rather than language family or habitat (Majid & Kruspe 2018). The deflation is partial—a residual neurocognitive component in olfaction's weak route to language remains defensible (Olofsson & Gottfried 2015), and the debate is live—but the calibration lesson stands: a limit that presented as unexplorable for a century of Western psychology was in substantial part unexplored. Classifying ineffability from inside a single linguistic culture is unreliable.
 
-The cross-linguistic case carries a standing dispute about which label applies. Quine's indeterminacy of translation (1960) holds that rival translation manuals can each fit the whole of the behavioural evidence while disagreeing about what the source sentences mean. If that is right, there is no determinate content the translator is failing to capture, and an untranslatable term marks something genuinely unexplorable rather than merely unmapped. Davidson (1974) pushed the other way: recognising a scheme *as* a scheme already requires translating enough of it to identify it, so total untranslatability would not be a limit but the absence of anything to be limited about — which recasts every case in Lomas's corpus as difficulty rather than impossibility. The [conceptual scheme void](/voids/conceptual-scheme-void/) works through Davidson's challenge at the level of whole schemes. At the level of single terms it stays open, and what the classification inherits is the dispute, not either verdict.
+The cross-linguistic case carries a standing dispute about which label applies. Quine's indeterminacy of translation (1960) holds that rival translation manuals can each fit the whole of the behavioural evidence while disagreeing about what the source sentences mean. If that is right, the problem is overtranslatability: an untranslatable term marks a place where "what does it *really* mean?" has no answer—a limit on determinacy, not hidden content beyond reach. Davidson (1974) pushed the other way: recognising a scheme *as* a scheme already requires translating enough of it to identify it, so total untranslatability would not be a limit but the absence of anything to be limited about — which recasts every case in Lomas's corpus as difficulty rather than impossibility. Both verdicts deflate the "unexplorable" label from different sides. The [conceptual scheme void](/voids/conceptual-scheme-void/) works through Davidson's challenge at the level of whole schemes. At the level of single terms it stays open, and what the classification inherits is the dispute, not either verdict.
 
 The boundary likely contains all three. Some ineffable content will find words. Some is structurally beyond language. Some resists articulation through mechanisms we don't understand.
 
@@ -143,25 +141,23 @@ You experience the redness of red. You *know* something: what red looks like. Bu
 
 Why? Several possibilities:
 
-**Structural indexicality**: Qualia are essentially first-personal. Language is third-personal—public, shared, objective. The translation from "what it's like for me" to "what can be said to anyone" necessarily loses something.
+**Structural indexicality**: Qualia are essentially first-personal (Nagel 1974). Language has indexicals—"I am in pain" is sayable—but its descriptive content is public. The translation from "what it's like for me" to "what can be said to anyone" keeps the first-person reference and loses the non-conceptual detail.
 
 **Dimensionality mismatch**: Experience may have more dimensions than language can represent. A colour is a point in experience-space; a word is a discrete token. Continuous territory resists discrete mapping. Ji and colleagues (2024) give this an information-theoretic floor: a conscious state corresponds to a neural trajectory "specifying the activity of billions of neurons, whereas working memory appears to be limited to representing a handful of items," so the rendering of experience into a reportable form loses information at a rate the format mismatch *fixes*, not one better description could close. On this account "the discrete symbolic nature of language is insufficient for describing the rich and high-dimensional structure of experiences"—the phenomenal-to-linguistic compression is a structural bound, the same cross-format-mapping opacity the [Translation Void](/research/voids-translation-void-2026-05-09/) traces. What stays opaque is the compressing operation itself: introspection reaches the experience and the words but not the passage that collapses one into the other.
 
-**Privacy and publicity**: Grasping a concept requires something like intersubjective triangulation—we check our understanding against others'. But I cannot check whether my red matches yours. Without triangulation, genuine conceptual formation may be impossible.
-
-The qualia case suggests that ineffability isn't always a deficiency in our language. Some content may be *constitutively* private, unable in principle to enter the public domain that language requires. The [voids-between-minds](/voids/voids-between-minds/) explores how this privacy compounds at the social level: experiences that resist linguistic encoding are progressively filtered out of collective discourse through hermeneutical injustice, social calibration, and the spiral of silence.
+**Privacy and publicity**: I cannot check whether my red matches yours. The epistemic reading is well supported: qualitative character cannot be verified or transmitted by description. The metaphysical reading—that some content is *constitutively* private—is the Map's interpretation, not something this evidence delivers. It also has to resist the beetle-in-the-box argument, which uses the same failure of triangulation to conclude that the private item drops out of meaning. The Map's reply: the argument targets private *concepts*, whereas qualia are known by non-conceptual acquaintance, which needs no public criterion. The [voids-between-minds](/voids/voids-between-minds/) explores how this privacy compounds at the social level: experiences that resist linguistic encoding are progressively filtered out of collective discourse through hermeneutical injustice, social calibration, and the spiral of silence.
 
 ## Relation to Site Perspective
 
 The language-thought boundary connects to The Unfinishable Map's [tenets](/tenets/) by revealing what cannot be said—and why that matters.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** is illustrated most directly. If simplicity guided truth, our linguistic tools should suffice for reality's articulation. But the boundary suggests otherwise. Some truths may exceed what any linguistic formulation—simple or complex—can capture. When we dismiss positions as "unclear" or "incoherent," we may be mistaking linguistic limits for logical limits.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** is illustrated most directly. Some truths may exceed what any linguistic formulation—simple or complex—can capture. When we dismiss positions as "unclear" or "incoherent," we may be mistaking linguistic limits for logical limits.
 
-**[Dualism](/tenets/#dualism)** gains support through qualia's ineffability. If consciousness were reducible to physical process, why would describing it be categorically harder than describing other physical processes? The explanatory gap—the difficulty of explaining *why* there is something it is like to see red—may trace to this boundary. Consciousness involves content that cannot enter the public-linguistic domain where physical descriptions live.
+**[Dualism](/tenets/#dualism)** is compatible with qualia's ineffability but gains little from the reportability gap itself, which the Ji et al. compression account explains in physical terms. The dualist weight falls on the residue compression leaves untouched: why the detail lost in compression is *felt* at all. That is the [hard problem](/topics/hard-problem-of-consciousness/), which this boundary makes vivid without settling.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** appears in the methodology itself. We can *choose* to investigate these limits—direct attention toward the edge of language, probe where articulation fails. This deliberate investigation is mental causation in action. The phenomenology of approaching limits is something consciousness does, not something that merely happens.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** appears in the methodology itself. We can *choose* to investigate these limits—direct attention toward the edge of language, probe where articulation fails. The Map reads this deliberate investigation as mental causation; an epiphenomenalist can describe the same activity, so the void offers coherence with the tenet, not independent support.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** raises a speculative question. If consciousness acts at quantum boundaries, does it operate *outside* linguistic representation? Selection among superposed possibilities might not require language—might occur at a level below conceptual articulation. The interface between mind and matter may lie in the void beyond words.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is untouched: nothing about linguistic limits bears on where or how selection occurs.
 
 ## What Would Challenge This View?
 
@@ -173,7 +169,7 @@ The claim that language and thought have genuinely different limits would be cha
 
 **AI closes the gap.** If language models eventually articulate what humans call ineffable—and humans find those articulations satisfying—the boundary may be quantitative rather than qualitative.
 
-**Neuroscience reveals mechanism.** If we discover how ineffability arises neurally, and the mechanism proves contingent, technological interventions might dissolve the boundary.
+**Neuroscience reveals mechanism.** A candidate mechanism already exists: Ji et al.'s compression bound. If it proves contingent, technological interventions might dissolve the reportability boundary—though not, on the Map's view, the question of why the compressed state is felt.
 
 ## Further Reading
 
@@ -188,8 +184,8 @@ The claim that language and thought have genuinely different limits would be cha
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis
 - [What the Limits Reveal](/voids/what-voids-reveal/) — How boundaries illuminate architecture
 - [The Phenomenology of Linguistic Failure](/topics/phenomenology-of-linguistic-failure/) — What linguistic failure feels like from the inside
-- [The Translation Void (research-stage)](/research/voids-translation-void-2026-05-09/) — Survey of cross-format-mapping opacity; its first two faces are incorporated above, the analogical-domain face into [metaphor-void](/voids/metaphor-void/)
-- [tool-that-cannot-say-its-user](/apex/tool-that-cannot-say-its-user/) — The synthesis that reads this boundary's structural limits alongside the cluster's dissociation and failure-mode evidence
+- [The Translation Void (research-stage)](/research/voids-translation-void-2026-05-09/) — Survey of cross-format-mapping opacity
+- [tool-that-cannot-say-its-user](/apex/tool-that-cannot-say-its-user/) — Synthesis of the cluster's structural limits
 - [Site Tenets](/tenets/) — The foundational commitments shaping this investigation
 
 ## References

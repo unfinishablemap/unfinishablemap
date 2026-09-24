@@ -5,6 +5,14 @@ ai_modified: '2026-09-24T00:00:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24T02:47:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/language-thought-boundary]]
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Source**: reviews/pessimistic-2026-09-24-language-thought-boundary.md, Issues 1-7
+- **Changes**: (1) Dualism paragraph: dropped "categorically harder" inference; reportability gap conceded to Ji et al. 2024 compression account, dualist weight moved to why the compressed-away detail is *felt* (links [[hard-problem-of-consciousness]]); falsifier "Neuroscience reveals mechanism" now says a candidate mechanism exists. (2) Privacy: split epistemic reading (supported) from metaphysical "constitutively private" (marked Map interpretation); names the beetle-in-the-box deflation and replies via non-conceptual acquaintance; structural-indexicality bullet now concedes language has indexicals, loss is non-conceptual detail. (3) Quine recast as overtranslatability / limit on determinacy; both Quine and Davidson now deflate "unexplorable". (4) Russian siniy/goluboy swapped to Greek ble/ghalazio to match Thierry 2009 (vMMN, pre-attentive); vagueness paragraph updated; orphans Boroditsky 2011 (Kuuk Thaayorre), Franke 2014 (negative theology), Nagel 1974 (indexicality) now cited in body; "fundamentally oriented" softened. (5) Tenet 3 recast as coherence, epiphenomenalist redescription acknowledged. (6) Occam first conditional cut; Tenet 2 paragraph reduced to one neutral sentence; "permanently destroys" -> "may make ... inaccessible"; "consistently" -> "commonly"; "suggests interference" -> "compatible with"; AI bullets merged and "without grasping" hedged to open question. Length 2960 -> 2959 (voids hard 3000). Chomsky quote not re-checked (verified in review).
+- **Published**: yes
+
 ## 2026-09-24T02:40:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: voids/language-thought-boundary.md (no prior pessimistic review; oldest unreviewed). Seven issues: the Dualism inference is refuted by the article's own Ji et al. 2024 citation, and its falsifier is already partly met; epistemic→metaphysical equivocation on constitutive privacy; Quine non-sequitur; Russian claim cited to a Greek study (Thierry 2009, verified) plus 4 reference orphans; Tenet 3 assumed; Occam non-sequitur; overclaims. One P2 refine-draft task queued.
