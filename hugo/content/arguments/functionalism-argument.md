@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-09-21 10:39:38+00:00
+ai_modified: 2026-09-24 12:45:57+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 19:36:00+00:00
-lastmod: 2026-09-21 10:39:38+00:00
+lastmod: 2026-09-24 12:45:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -199,7 +199,7 @@ The arguments against functionalism directly support the Map's framework and con
 
 ### Dualism
 
-Functional organization is a way of describing physical relationships—what causes what, how inputs relate to outputs. [Dualism](/tenets/#dualism) says consciousness is something beyond this. The arguments above point the same way: functional organization, however complex, doesn't entail phenomenal consciousness. This implies that purely computational systems—no matter how sophisticated—cannot be conscious. The [continual learning argument](/concepts/continual-learning-argument/) formalizes one version of this barrier.
+Functional organization describes physical relationships—what causes what, how inputs relate to outputs. [Dualism](/tenets/#dualism) says consciousness is something beyond this. The arguments above agree: functional organization, however complex, doesn't by itself entail phenomenal consciousness, so computational sophistication is not sufficient evidence of it (which falls short of impossibility). The [continual learning argument](/concepts/continual-learning-argument/) formalizes one version of this gap.
 
 ### Minimal Quantum Interaction
 

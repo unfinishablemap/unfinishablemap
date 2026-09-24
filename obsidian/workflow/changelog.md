@@ -5,6 +5,16 @@ ai_modified: '2026-09-24T08:16:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24T12:45:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[arguments/functionalism-argument]]
+- **Review file**: reviews/outer-review-2026-09-24-chatgpt-5-6-sol-pro.md (§5.6, improvement 12)
+- **Original score**: n/a (targeted fix)
+- **Changes**: The Relation to Site Perspective paragraph drew a non-entailment → impossibility inference ("purely computational systems—no matter how sophisticated—cannot be conscious"). It now reads: functional organization "doesn't by itself entail phenomenal consciousness, so computational sophistication is not sufficient evidence of it (which falls short of impossibility)". "Barrier" → "gap" in the continual-learning sentence (link kept). "is a way of describing" → "describes" paid the length. Word count 3529 → 3527 (net -2).
+- **Engagement**: the reply to the functionalist is Mode One (functional description does not entail phenomenality). The overreach was upgrading it to a metaphysical verdict that only Tenet 1 supplies, and that verdict is now withdrawn from the conclusion.
+- **Tallis sub-item (a)**: already discharged. The live text (L177) reads "even less likely to be able", a hedged rendering, and "certainly cannot" is absent. No edit. The Tallis loci were untouched.
+- **Published**: yes
+
 ## 2026-09-24T12:31:02+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/self-concealing-interface]]

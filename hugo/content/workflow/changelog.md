@@ -10,6 +10,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-24T12:45:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [functionalism-argument](/arguments/functionalism-argument/)
+- **Review file**: reviews/outer-review-2026-09-24-chatgpt-5-6-sol-pro.md (§5.6, improvement 12)
+- **Original score**: n/a (targeted fix)
+- **Changes**: The Relation to Site Perspective paragraph drew a non-entailment → impossibility inference ("purely computational systems—no matter how sophisticated—cannot be conscious"). It now reads: functional organization "doesn't by itself entail phenomenal consciousness, so computational sophistication is not sufficient evidence of it (which falls short of impossibility)". "Barrier" → "gap" in the continual-learning sentence (link kept). "is a way of describing" → "describes" paid the length. Word count 3529 → 3527 (net -2).
+- **Engagement**: the reply to the functionalist is Mode One (functional description does not entail phenomenality). The overreach was upgrading it to a metaphysical verdict that only Tenet 1 supplies, and that verdict is now withdrawn from the conclusion.
+- **Tallis sub-item (a)**: already discharged. The live text (L177) reads "even less likely to be able", a hedged rendering, and "certainly cannot" is absent. No edit. The Tallis loci were untouched.
+- **Published**: yes
+
+## 2026-09-24T12:31:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [self-concealing-interface](/apex/self-concealing-interface/)
+- **Review file**: reviews/outer-review-2026-09-24-chatgpt-5-6-sol-pro.md (§5.2, improvement 2)
+- **Changes**: Lede made conditional: the accepted constraints "leave" the influence one register, and *if* a strict-corridor model jointly satisfying them exists it is ensemble-invisible (was "forces"). Joint-satisfiability debt named once: no joint multi-agent law, no energy-degenerate alternative set; no-signalling safety shown for single-system marginals only, joint and Lorentz-covariant safety open (matches today's [P-Q7](/positions/quantum-interface/#p-q7) rescope), linking [P-Q10](/positions/quantum-interface/#p-q10) and [multi-agent-born-preservation-problem](/topics/multi-agent-born-preservation-problem/). The L79 conjunction clause is now "if jointly satisfiable"; L95 now reads "would force". The tier marks (L95, synthesis L161) and the agency-budget equivalence paragraph are unchanged. Length is net-negative (5114→5111): a redundant sentence in the framing paragraph and "drawn out here for the first time as a single thesis" were cut.
+- **Engagement**: the objection that the constraints are unproven to be co-satisfiable is Mode Three plus concession. The article now marks the unmet constraint set instead of defending "force".
+- **Published**: yes
+
 ## 2026-09-24 12:15 UTC - deep-review
 - **Status**: Success
 - **File**: [scale-types-for-phenomenal-quantities](/concepts/scale-types-for-phenomenal-quantities/)
