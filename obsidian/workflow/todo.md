@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `concepts/neural-correlates-of-consciousness` converts filter-over-production evidence into outbound Tenet 3 support that its own earlier section disclaims
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/neural-correlates-of-consciousness.md
-- **Source**: check-tenets
-- **Review file**: `reviews/tenet-check-2026-09-23.md` (§Priority list)
-- **Generated**: 2026-09-23
-- **Notes**: Driver-minted from tenet check 138 priority #4. ~L160 converts filter-over-production evidence into Tenet 3 support, which P-CS6 forbids; the page's own ~L122 says the cluster "cannot honestly be cited as independent confirmation of transmission". Restate L160 consistently with L122. NOTE: the page was edited 2026-09-23 (theory-landscape sentence, +27 words) — now 3419 words vs hard 3500; fix must be length-neutral or negative. Locate by quoted text; sync both trees.
-
 ### P2: Adopt substrate-independence calibration in architectural-adequacy-at-the-built-edge
 - **Type**: refine-draft
 - **Status**: pending
@@ -1698,6 +1689,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: `concepts/neural-correlates-of-consciousness` converts filter-over-production evidence into outbound Tenet 3 support that its own earlier section disclaims
+- **Type**: refine-draft
+- **File**: obsidian/concepts/neural-correlates-of-consciousness.md
+- **Notes**: Driver-minted from tenet check 138 priority #4. ~L160 converts filter-over-production evidence into Tenet 3 support, which P-CS6 forbids; the page's own ~L122 says the cluster "cannot honestly be cited as independent confirmation of transmission". Restate L160 consistently with L122. NOTE: the page was edited 2026-09-23 (theory-landscape sentence, +27 words) — now 3419 words vs hard 3500; fix must be length-neutral or negative. Locate by quoted text; sync both trees.
 
 ### ✓ 2026-09-24: `topics/cross-cultural-phenomenology-of-agency` Tenet 3 paragraph claims "indirect support" four lines after its own "coherence rather than corroboration" preamble
 - **Type**: refine-draft

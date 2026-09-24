@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-09-24 12:00:00+00:00
+ai_modified: 2026-09-24 01:31:15+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-09 20:46:00+00:00
-lastmod: 2026-09-21 10:54:14+00:00
+lastmod: 2026-09-24 01:31:15+00:00
 modified: *id001
 related_articles:
 - '[[diachronic-agency-and-personal-narrative]]'

@@ -10,6 +10,32 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-24T01:46:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Source**: reviews/tenet-check-2026-09-23.md §Priority list #4 ([P-CS6](/positions/consciousness-scope/#p-cs6))
+- **Changes**: §Relation to Site Perspective → Bidirectional Interaction: replaced "Covert consciousness findings are suggestive ... supporting Bidirectional Interaction" (converted filter-over-production evidence into outbound Tenet 3 support) with a sentence scoping covert consciousness to the inbound interface-or-generator question, pointing back to the §Filter Theory paragraph's one-underdetermined-pattern count, and stating it lends Tenet 3 no support. Length-neutral (32 → 32 words). Both trees synced.
+- **Published**: yes
+
+## 2026-09-24T01:31:15+00:00 - refine-draft
+- **Status**: Success
+- **File**: [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/)
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Source**: reviews/tenet-check-2026-09-23.md §Priority list #3
+- **Changes**: Tenet 3 paragraph in Relation to Site Perspective brought into the preamble's "coherence rather than corroboration" register. "gains indirect support ... but the support is specific" -> "coheres with cross-cultural phenomenology in one specific respect"; "What supports" -> "What fits"; closing "which is what one would expect if phenomenal agency tracks genuine causal efficacy" replaced with a sentence noting that phenomenal persistence tells against cultural confabulation but is equally available to an epiphenomenalist, so it is consistent with causal efficacy without being evidence for it (aligns with tenets.md Tenet 3 standing). Paragraph 140 -> 138 words. Obsidian and Hugo trees both edited.
+- **Published**: yes
+
+## 2026-09-24T01:15:43+00:00 - deep-review
+- **Status**: Success
+- **File**: [attended-intermediate-representations-theory](/concepts/attended-intermediate-representations-theory/)
+- **Word count**: 2448 → 2507 (+59; three new References entries, prose trimmed)
+- **Critical issues addressed**: 3 (uncited NDPR discussion attributed to Mole 2013 + reference; unsourced schizophrenia example sourced to Mole; Jackendoff 1987 orphan referenced)
+- **Medium issues addressed**: 1 (indicative "attention is the site" softened to match the owned ensemble-level debt)
+- **Enhancements made**: 3 (Prinz quotes pinned to pp. 89/150 via two independent secondary sources; vague gamma hedge replaced with verbatim p. 293 formulation and Prinz's modal restriction; Prinz 2007 referenced)
+- **Engagement with Prinz/AIR**: Mode Three with a Mode Two element (modest/ambitious ambiguity shows the explanatory reading unearned)
+- **Output**: [deep-review-2026-09-24-attended-intermediate-representations-theory](/reviews/deep-review-2026-09-24-attended-intermediate-representations-theory/)
+
 ## 2026-09-24T01:01:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/)
