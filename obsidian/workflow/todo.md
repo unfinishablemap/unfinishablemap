@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research The inheritance problem for the psychophysical law
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-2026-09-24-chatgpt-5-6-sol-pro.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-09-24-chatgpt-5-6-sol-pro §2.4 ('The evolutionary dual-inheritance dilemma'): if conscious selection affects fitness, what is inherited — only the neural receiver, an evolving psychophysical mapping, a fixed fundamental law, or a per-subject learned codebook (which faces an onset regress)? The Map treats these together under 'interface optimisation'; no live article or research note distinguishes receiver evolution, subject-eligibility evolution, and codebook evolution/learning. The mechanism-cost-ledger task adds only an inheritance field, not the argument. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/inheritance-problem-for-the-psychophysical-law-2026-09-24.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'inheritance-problem-for-the-psychophysical-law' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-09-24
+
 ### P1: `positions/quantum-interface` P-Q7 claims Lorentz invariance and no-signalling at credence high, but its only support is single-system marginal Born preservation — scope it and point to the open joint law
 - **Type**: positions-evolve
 - **Status**: pending
