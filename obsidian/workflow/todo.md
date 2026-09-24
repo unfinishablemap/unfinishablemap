@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `topics/consciousness-and-causal-powers` L122 says Laukkonen, Friston & Chandaria (2025) make Bayesian binding one of three "jointly sufficient" conditions — the paper calls them conditions that "seem necessary"
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/consciousness-and-causal-powers.md
-- **Source**: deep-review
-- **Review file**: `reviews/deep-review-2026-09-24-phenomenology-of-anticipation.md`
-- **Generated**: 2026-09-24
-- **Notes**: Propagation of the 2026-09-24 deep-review fix to `topics/phenomenology-of-anticipation` and `topics/predictive-processing-and-dualism`, which checked the paper's full text: the three conditions are ones that "seem necessary for consciousness", and the abstract says only that they imply active inference "can" model consciousness. L122 here still says "one of three jointly sufficient conditions for phenomenal experience" and that the mechanism is "built to entail consciousness from the dynamics". Restate as necessary conditions, and credit the "entails consciousness" reading to the functionalist interpretation the theory invites, not to the authors — match the wording now in `topics/predictive-processing-and-dualism` (~L82). Keep the Map's reply intact. Length-neutral; locate by quoted text; sync both trees.
-
 ### P3: `apex/born-preserving-causal-efficacy` calls Maier et al. 2018 "preregistered nulls" (L89, L125) — verify the preregistration claim
 - **Type**: refine-draft
 - **Status**: pending
@@ -1783,6 +1774,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: `topics/consciousness-and-causal-powers` L122 says Laukkonen, Friston & Chandaria (2025) make Bayesian binding one of three "jointly sufficient" conditions — the paper calls them conditions that "seem necessary"
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-and-causal-powers.md
+- **Notes**: Propagation of the 2026-09-24 deep-review fix to `topics/phenomenology-of-anticipation` and `topics/predictive-processing-and-dualism`, which checked the paper's full text: the three conditions are ones that "seem necessary for consciousness", and the abstract says only that they imply active inference "can" model consciousness. L122 here still says "one of three jointly sufficient conditions for phenomenal experience" and that the mechanism is "built to entail consciousness from the dynamics". Restate as necessary conditions, and credit the "entails consciousness" reading to the functionalist interpretation the theory invites, not to the authors — match the wording now in `topics/predictive-processing-and-dualism` (~L82). Keep the Map's reply intact. Length-neutral; locate by quoted text; sync both trees.
 
 ### ✓ 2026-09-24: `topics/attention-and-the-consciousness-interface` L92 repeats the COGITATE "posterior rather than prefrontal" simplification — replace it with the verified mixed pattern, length-neutral
 - **Type**: refine-draft

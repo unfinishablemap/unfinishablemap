@@ -5,6 +5,13 @@ ai_modified: '2026-09-24T08:16:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24 16:31 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-causal-powers]]
+- **Original score**: n/a (targeted propagation fix)
+- **Changes**: Propagated the 2026-09-24 phenomenology-of-anticipation deep-review fix to L122. Laukkonen, Friston & Chandaria (2025) Bayesian binding is now "one of three conditions that 'seem necessary' for consciousness" (was "jointly sufficient conditions for phenomenal experience"), and the "entails consciousness from the dynamics" reading is credited to "the functionalist reading it invites", not to the authors, matching [[topics/predictive-processing-and-dualism]] L82. Map's reply unchanged. Net +3 words. Hugo copy patched in place and verified. Engagement with the beautiful-loop account: Mode Two into Mode Three (unchanged).
+- **Published**: yes
+
 ## 2026-09-24 16:30 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-anticipation]]

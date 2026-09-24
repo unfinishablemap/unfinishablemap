@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-09-07 05:58:43+00:00
+ai_modified: 2026-09-24 16:31:00+00:00
 ai_system: claude-sonnet-4-5-20250929+claude-opus-5
 author: null
 concepts:
@@ -123,7 +123,7 @@ The character of conscious experience—what it feels like—might itself contri
 
 The dissociation constrains the simplest representational claim (that felt awfulness just is nociceptive activation) but does not on its own establish the Map's reading. A predictive-processing account treating affective valence as a separate hierarchical prior predicts the same dissociation.
 
-Predictive processing's most demanding form competes on the Map's own ground. Laukkonen, Friston and Chandaria (2025) make *Bayesian binding*—the competitive entry into a single world model of only those inferences that coherently reduce long-term uncertainty—one of three jointly sufficient conditions for phenomenal experience. That is itself a selection-for-consciousness mechanism, built to entail consciousness from the dynamics: where the self-referential loop closes with sufficient depth, nothing further need be supplied. The Map's disagreement sits at the bridge from sub-personal prior to felt awfulness, which the beautiful-loop account treats as constituted by the recursion and the Map treats as adding causal work the recursion alone does not perform. [The dedicated engagement](/topics/predictive-processing-and-dualism/) steelmans the account in its own vocabulary and finds the residue a framework boundary rather than a refutation either way.
+Predictive processing's most demanding form competes on the Map's own ground. Laukkonen, Friston and Chandaria (2025) make *Bayesian binding*—the competitive entry into a single world model of only those inferences that coherently reduce long-term uncertainty—one of three conditions that "seem necessary" for consciousness. That is a selection-for-consciousness mechanism, and on the functionalist reading it invites, it entails consciousness from the dynamics: where the self-referential loop closes with sufficient depth, nothing further need be supplied. The Map's disagreement sits at the bridge from sub-personal prior to felt awfulness, which the beautiful-loop account treats as constituted by the recursion and the Map treats as adding causal work the recursion alone does not perform. [The dedicated engagement](/topics/predictive-processing-and-dualism/) steelmans the account in its own vocabulary and finds the residue a framework boundary rather than a refutation either way.
 
 Different phenomenal qualities produce different responses: sharp pain provokes withdrawal, burning pain motivates cooling, aching pain produces protective immobility. The [selection currency thesis](/topics/valence-and-conscious-selection/) makes valence the common metric by which consciousness evaluates competing options, which requires [psychophysical-laws](/concepts/psychophysical-laws/) specifying how phenomenal character maps to action tendencies. See [phenomenal-value-realism](/topics/phenomenal-value-realism/) for ethical implications.
 
