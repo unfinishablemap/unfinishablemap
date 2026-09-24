@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-24T11:02:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) (primary), [witness-consciousness](/concepts/witness-consciousness/) (secondary), [stapp-quantum-mind](/concepts/stapp-quantum-mind/) (checked; gap real, fixed length-neutrally)
+- **Source**: outer review 2026-09-24 (Claude Opus 5.5, §5 and novel inference 1) — Laukkonen/beautiful-loop absent from all three files (re-verified: 0 hits each before edit)
+- **Original score**: 7/10 (curate.py absent; editor estimate)
+- **Changes**:
+  - meditation-and-consciousness-modes: new paragraph closing "Relation to the Quantum Zeno Mechanism" naming Bayesian binding as a physicalist claimant to the selection role and minimal phenomenal experience as maximal epistemic depth; grades both modes' reports as consonant, not probative; piped link to the beautiful-loop section of predictive-processing-and-dualism for the Map's reply (neural signature of the interface; recursion-to-feeling step unsupported). Reference added (NBR 176:106296). Length paid for by trims: stale "the Map has not previously addressed" clause, compressed capacity-not-compulsion restatement, MWI opening, duplicated suspend-capacity sentence, summary filler. 3444 -> 3493 (hard 3500).
+  - witness-consciousness: paragraph after Letheby naming the beautiful-loop theory as the rival's strongest form (epistemic depth, Bayesian binding), grading witness reports as consonant, not probative, with piped link to the Map's reply. Rewrote the illusionist-response "if illusionism were correct, training should reveal the witness as fabrication" — illusionism does not predict that, and the beautiful loop predicts the reported deepening — so the testimony is now graded as consonance. Reference added. 3294 -> 3472.
+  - stapp-quantum-mind "Two Modes of Consciousness": "Meditation research reveals consciousness can modulate its observation rate" reframed as "On the Zeno reading"; dropped "frontal theta, ACC activation" (meditation article: theta is meditation-general, not selection-specific); added consonant-not-probative sentence with piped link to beautiful-loop section. Length-neutral (4035 -> 4035).
+  - engagement with Laukkonen/Friston/Chandaria: Mode Three by inheritance; each page cross-links the topic's mixed engagement rather than re-arguing it. Grading matches concepts/predictive-processing (c9e00728).
+- **Published**: yes
+
 ## 2026-09-24T10:47:14+00:00 - refine-draft
 - **Status**: Success
 - **File**: [predictive-processing](/concepts/predictive-processing/)

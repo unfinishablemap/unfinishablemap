@@ -46,15 +46,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-09-24
 - **Notes**: Surfaced by the 2026-09-24 `concepts/causal-closure` refine, which checked Maier, Dechamps & Pflitsch 2018 (*Frontiers in Psychology* 9, 379, doi 10.3389/fpsyg.2018.00379) at the publisher: the page describes a sequential Bayesian stopping design (BF01 ≈ 10.07) and does not describe the study as preregistered. The apex says "preregistered nulls (Maier et al. 2018)" at ~L89 and ~L125. **Verify first** (the paper's methods section, any OSF registration link). If preregistration is confirmed, no change. If not, drop "preregistered" (length-negative — safe despite the apex's open length decision) and match the causal-closure wording ("the largest intention-conditioned RNG test, 12,571 participants, Bayes factor ≈10 for no effect"). Locate by quoted text; sync both trees.
 
-### P2: `concepts/meditation-and-consciousness-modes` and `concepts/witness-consciousness` treat contemplative minimal states as pressure on physicalism with 0 engagement of Laukkonen, Friston & Chandaria 2025, whose Bayesian binding / epistemic depth models exactly those states
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/meditation-and-consciousness-modes.md
-- **Review file**: `reviews/outer-review-2026-09-24-claude-opus-5-5.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-24
-- **Notes**: From outer review 2026-09-24 (Claude Opus 5.5, §5 and novel inference 1). Grep-verified: both files have 0 hits for Laukkonen / "beautiful loop". The theory models minimal phenomenal experience and presents "Bayesian binding" as a physicalist selection-for-consciousness mechanism, which is the functional niche the Map gives to conscious selection. `topics/predictive-processing-and-dualism` L82–86 already carries the Map's reply (the loop plausibly marks the interface's neural signature, and the step from recursive self-evidencing to felt experience is unsupported). Install a short engagement in each file, or at least a calibrated cross-link to that section, and grade the contemplative evidence as consonant rather than probative wherever the rival predicts the same reports. Secondary file: obsidian/concepts/witness-consciousness.md. Also check the "Two Modes of Consciousness" section of `concepts/stapp-quantum-mind` (L~100) for the same gap. Length: check headroom first, and prefer a piped wikilink over new prose if a file is near its ceiling.
-
 ### P2: `topics/vertiginous-question` L106 says the Map's commitments "force acceptance of fragmentation" — an uncosted heterodox commitment; and Tenet 4 now rests on rejecting List-style modal realism while Tenet 5 disarms parsimony, the obvious ground for that rejection
 - **Type**: refine-draft
 - **Status**: pending
@@ -1833,6 +1824,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: `concepts/meditation-and-consciousness-modes` and `concepts/witness-consciousness` treat contemplative minimal states as pressure on physicalism with 0 engagement of Laukkonen, Friston & Chandaria 2025, whose Bayesian binding / epistemic depth models exactly those states
+- **Type**: refine-draft
+- **File**: obsidian/concepts/meditation-and-consciousness-modes.md
+- **Notes**: From outer review 2026-09-24 (Claude Opus 5.5, §5 and novel inference 1). Grep-verified: both files have 0 hits for Laukkonen / "beautiful loop". The theory models minimal phenomenal experience and presents "Bayesian binding" as a physicalist selection-for-consciousness mechanism, which is the functional niche the Map gives to conscious selection. `topics/predictive-processing-and-dualism` L82–86 already carries the Map's reply (the loop plausibly marks the interface's neural signature, and the step from recursive self-evidencing to felt experience is unsupported). Install a short engagement in each file, or at least a calibrated cross-link to that section, and grade the contemplative evidence as consonant rather than probative wherever the rival predicts the same reports. Secondary file: obsidian/concepts/witness-consciousness.md. Also check the "Two Modes of Consciousness" section of `concepts/stapp-quantum-mind` (L~100) for the same gap. Length: check headroom first, and prefer a piped wikilink over new prose if a file is near its ceiling.
 
 ### ✓ 2026-09-24: `concepts/predictive-processing` L128 "functional asymmetry" argument (weather models do not discuss consciousness) attacks a PP without self-models or epistemic depth — engage the Beautiful Loop conditions the sibling topic already covers, and stance-mark Hutto & Myin
 - **Type**: refine-draft

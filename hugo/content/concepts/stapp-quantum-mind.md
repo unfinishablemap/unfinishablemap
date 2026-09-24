@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-09-24 06:01:16+00:00
+ai_modified: 2026-09-24 11:02:47+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5
 author: null
 concepts:
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 22:55:04+00:00
-lastmod: 2026-09-24 06:01:16+00:00
+lastmod: 2026-09-24 11:02:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -98,9 +98,9 @@ The [attention as interface hypothesis](/concepts/attention-as-interface/) exten
 
 ## Two Modes of Consciousness
 
-Meditation research reveals consciousness can modulate its observation rate. Focused attention meditation (high observation rate, frontal theta, ACC activation) strengthens Zeno selection. Open monitoring meditation (low observation rate, PCC deactivation) cultivates non-reactive awareness without selection: adept meditators can volitionally deactivate the PCC and report the shift as a move from "efforting" to "effortless doing" (Garrison et al., 2013).
+On the Zeno reading, meditation modulates observation rate: focused attention (high rate) strengthens Zeno selection, while open monitoring (low rate) cultivates non-reactive awareness without selection. Adept meditators can volitionally deactivate the PCC, reporting the shift as a move from "efforting" to "effortless doing" (Garrison et al., 2013).
 
-The [witness state](/concepts/witness-consciousness/) isn't absence of consciousness but consciousness operating differently—present without intervening in which neural patterns become actual. See [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) for detailed treatment.
+The [witness state](/concepts/witness-consciousness/) is consciousness still present but not steering which neural patterns become actual. The reports are consonant, not probative: the [beautiful-loop theory](/topics/predictive-processing-and-dualism/#the-beautiful-loop-theory-the-strongest-contemporary-rival) predicts them too ([fuller treatment](/concepts/meditation-and-consciousness-modes/)).
 
 ## Free Will and Self-Forming Actions
 

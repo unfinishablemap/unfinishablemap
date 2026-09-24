@@ -4,7 +4,7 @@ description: "Mental effort operates through the quantum Zeno effect: rapid atte
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-09-24T06:01:16+00:00
+ai_modified: 2026-09-24T11:02:47+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -95,9 +95,9 @@ The [[attention-as-interface|attention as interface hypothesis]] extends Stapp's
 
 ## Two Modes of Consciousness
 
-Meditation research reveals consciousness can modulate its observation rate. Focused attention meditation (high observation rate, frontal theta, ACC activation) strengthens Zeno selection. Open monitoring meditation (low observation rate, PCC deactivation) cultivates non-reactive awareness without selection: adept meditators can volitionally deactivate the PCC and report the shift as a move from "efforting" to "effortless doing" (Garrison et al., 2013).
+On the Zeno reading, meditation modulates observation rate: focused attention (high rate) strengthens Zeno selection, while open monitoring (low rate) cultivates non-reactive awareness without selection. Adept meditators can volitionally deactivate the PCC, reporting the shift as a move from "efforting" to "effortless doing" (Garrison et al., 2013).
 
-The [[witness-consciousness|witness state]] isn't absence of consciousness but consciousness operating differently—present without intervening in which neural patterns become actual. See [[meditation-and-consciousness-modes]] for detailed treatment.
+The [[witness-consciousness|witness state]] is consciousness still present but not steering which neural patterns become actual. The reports are consonant, not probative: the [[predictive-processing-and-dualism#The Beautiful-Loop Theory: The Strongest Contemporary Rival|beautiful-loop theory]] predicts them too ([[meditation-and-consciousness-modes|fuller treatment]]).
 
 ## Free Will and Self-Forming Actions
 

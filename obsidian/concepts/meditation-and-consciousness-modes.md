@@ -4,7 +4,7 @@ description: "Active selection and passive witnessing as two consciousness modes
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-09-01T16:05:19+00:00
+ai_modified: 2026-09-24T11:02:47+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[meditation-observer-witness-phenomenon-2026-01-18]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-4-8+claude-fable-5
+ai_system: claude-opus-4-5-20251101+claude-opus-4-8+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-01-18
 last_curated: null
 last_deep_review: 2026-07-25T19:35:30+00:00
@@ -49,7 +49,7 @@ The neural evidence is narrower than a mode-specific signature. Concentration en
 
 ### Passive Witnessing
 
-Passive witnessing is the mode that meditation traditions describe but that the Map has not previously addressed. In this mode, consciousness observes mental contents—thoughts, sensations, emotions—without engaging with them. The observer does not select, judge, or intervene. Contents arise and pass like clouds crossing the sky.
+In passive witnessing, consciousness observes mental contents—thoughts, sensations, emotions—without engaging with them. The observer does not select, judge, or intervene. Contents arise and pass like clouds crossing the sky.
 
 This mode has its own distinct phenomenology. Advanced meditators describe "effortless awareness," "open presence," or what Sanskrit tradition calls *sakshi*—the witness-self: attention broadly distributed rather than focal, contents received without preference.
 
@@ -97,7 +97,7 @@ An entity that could only select, never resting, would lack a dimension the cont
 
 The analogy states the Map's position; it does not refute Sāṅkhya, which would deny that consciousness ever speaks. The pressure available inside Sāṅkhya's own framework runs the other way: if *puruṣa* is wholly inert, how is it *informed* by *buddhi* at all? The classical answer—reflection (*pratibimba*), consciousness mirrored in the intellect without entering it—relocates the difficulty: either the witness is modified by what it registers, which its changelessness forbids, or the registering happens in the intellect and the witness experiences nothing. Once information crosses the boundary one way, whether it can cross the other is an open question, and Sāṅkhya's one-way traffic is a commitment of the same standing as the Map's two-way.
 
-Bidirectional interaction describes a *capacity*, not a compulsion. Consciousness can influence matter; this does not mean it must always do so. The existence of passive witnessing expands rather than contradicts the framework.
+Bidirectional interaction describes a *capacity*, not a compulsion; passive witnessing expands rather than contradicts the framework.
 
 ### Effortless Awareness After Effortful Training
 
@@ -140,6 +140,8 @@ Awareness persists in the witness; but awareness without selection is *reported*
 
 Two caveats bound the hypothesis. It is stated in Stapp's vocabulary, and the Map's [[positions/quantum-interface|positions register]] ranks the Stapp-Zeno family below [[post-decoherence-selection|post-decoherence selection]] on decoherence-timing grounds (P-Q4 against P-Q1); post-decoherence selection has no "observation rate" to lower, no analogue has been worked out, and if rapid probing already fails to outrun decoherence, reduced probing is not a distinct physical regime. And "observation" carries two senses, awareness and probing: in Stapp's model each Process 1 event is both, so awareness without probing is unavailable inside his framework and fewer events would mean sparser experience, the opposite of what meditators report. The hypothesis needs the two to come apart—a further Map commitment the Zeno model does not supply.
 
+Selection also has a physicalist claimant. The beautiful-loop theory of Laukkonen, Friston and Chandaria (2025) makes "Bayesian binding"—competitive selection of inferences into one coherent world model—what admits contents to consciousness, and models minimal phenomenal experience as maximal epistemic depth over a near-empty model. It accommodates both modes' reports, which are therefore consonant with the Map's reading, not probative against the rival. The Map's [[predictive-processing-and-dualism#The Beautiful-Loop Theory: The Strongest Contemporary Rival|reply]]: the loop plausibly marks the interface's neural signature, but the step from recursive self-evidencing to felt experience is assumed rather than shown.
+
 ## The Illusionist Challenge
 
 [[illusionism|Illusionists]] like Keith Frankish might offer a deflationary account of the two modes. If phenomenal consciousness is an introspective illusion, the "effort" of active selection and the "effortlessness" of passive witnessing are different patterns of self-modeling: on Frankish's quasi-phenomenal properties framework, "effort phenomenology" is the brain representing its own processing as having qualitative character it lacks, and the felt difference between selection and witnessing is a difference in how the brain models its activity rather than in genuine phenomenal states. There is no selector, only representations *as if* there were.
@@ -176,11 +178,11 @@ The selection mode operates through minimal interaction—biasing quantum indete
 
 ### Bidirectional Interaction
 
-This article extends the tenet: consciousness *can* influence matter (through selection), and consciousness *can* refrain from influencing matter (through witnessing). The capacity for bidirectional interaction includes the capacity to suspend it. This makes Bidirectional Interaction a claim about possibility, not necessity.
+This article extends the tenet: consciousness *can* influence matter (through selection), and consciousness *can* refrain from influencing matter (through witnessing). This makes Bidirectional Interaction a claim about possibility, not necessity.
 
 ### No Many Worlds
 
-In many-worlds interpretation, there is nothing to select—all outcomes occur in different branches. The phenomenological distinction between selection and witnessing becomes problematic under MWI: what we experience as "selection" would merely be one branch's perspective on a branching process, with "witnessing" being equally perspectival.
+Under many-worlds there is nothing to select—every outcome occurs in some branch, and both "selection" and "witnessing" become one branch's perspective on a branching process.
 
 The two-mode framework presupposes that selection is *real*: when the meditator shifts from selection to witness mode, something genuinely changes in how consciousness relates to neural processes. The felt absence of steering in witness mode does not establish this: on the Map's own account neural dynamics run unsteered in witness mode, and under many-worlds branching proceeds regardless of how the meditator feels, so both pictures predict it. The Map reads the witness state as consciousness declining to select rather than as one branch's perspective; that reading rests on the indexical objection argued in [[many-worlds-argument|the Map's case for one-world actuality]]—decisive against branch-egalitarian readings only—and is a clash of foundational commitments rather than a result the witness phenomenology delivers.
 
@@ -199,7 +201,7 @@ Consciousness operates in at least two modes:
 
 The neural column tracks the effort axis, the only distinction the evidence supports; the mechanism column uses a vocabulary the positions register currently demotes.
 
-FA meditation strengthens selection. OM meditation cultivates witnessing. Both are valid expressions of consciousness. The Bidirectional Interaction tenet describes a capacity, not a compulsion—consciousness can influence matter, and consciousness can observe without influencing.
+FA meditation strengthens selection. OM meditation cultivates witnessing. The Bidirectional Interaction tenet describes a capacity, not a compulsion—consciousness can influence matter, and consciousness can observe without influencing.
 
 ## Further Reading
 
@@ -232,3 +234,4 @@ FA meditation strengthens selection. OM meditation cultivates witnessing. Both a
 7. Nakatani, E., et al. (2003). Effects of behavior therapy on regional cerebral blood flow in obsessive-compulsive disorder. *Psychiatry Research: Neuroimaging*, 124(2), 113-120.
 8. Brefczynski-Lewis, J. A., et al. (2007). Neural correlates of attentional expertise in long-term meditation practitioners. *PNAS*, 104(27), 11483-11488.
 9. Lomas, T., Ivtzan, I., & Fu, C. H. Y. (2015). A systematic review of the neurophysiology of mindfulness on EEG oscillations. *Neuroscience & Biobehavioral Reviews*, 57, 401-410.
+10. Laukkonen, R. E., Friston, K. J. & Chandaria, S. (2025). A beautiful loop: An active inference theory of consciousness. *Neuroscience & Biobehavioral Reviews*, 176, 106296. https://doi.org/10.1016/j.neubiorev.2025.106296

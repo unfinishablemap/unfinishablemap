@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-09-09 07:16:54+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-09-24 11:02:47+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
 - '[[self-opacity]]'
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 14:04:40+00:00
-lastmod: 2026-09-09 07:16:54+00:00
+lastmod: 2026-09-24 11:02:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -119,6 +119,8 @@ Thomas Metzinger's research on *minimal phenomenal experience* explores what rem
 
 The naturalist rival reads the same data the other way. On Chris Letheby's predictive-self-binding account, any "witnessing" still reported in deep dissolution is itself a not-yet-decohered self-model component that fuller relaxation would dissolve—so the residual witness is residue, not bedrock. The Map predicts the opposite: pre-reflective for-me-ness persists because it is a feature of any conscious state rather than a model component that can decohere. [predictive-self-binding-and-the-naturalist-challenge](/topics/predictive-self-binding-and-the-naturalist-challenge/) develops this as the discriminating empirical seam between the accounts.
 
+The strongest form of the rival is the beautiful-loop theory of Laukkonen, Friston and Chandaria (2025). It models minimal phenomenal experience as maximal *epistemic depth*—beliefs recurrently shared until the model contains the knowledge that it exists—over a maximally simplified reality model, and makes "Bayesian binding," a competitive selection of inferences into one coherent estimate, the physical selection that admits contents to consciousness. Vivid, contentless, self-aware awareness is what the theory predicts once content is stripped out, so the witness reports are consonant with the Map's reading rather than probative against the rival. The Map's [reply](/topics/predictive-processing-and-dualism/#the-beautiful-loop-theory-the-strongest-contemporary-rival) grants that the loop plausibly marks the interface's neural signature and denies only that recursive self-evidencing, however deep, has been shown to be felt experience.
+
 What witnessing *consists in* remains contested, and the rival analyses sit where each does its work. Subjectless awareness runs through Krishnamurti's choiceless awareness and Sufi *fanā'* above; attentional decentring and self-model attenuation are treated here, via Metzinger's zero-person perspective and Letheby; reflexive awareness is the self-luminosity (*svayam-prakasha*) reply to the Regress Objection below. A fifth rival, [higher-order thought theory](/concepts/higher-order-theories/), analyses observing a thought as a higher-order representation targeting it—cognitive architecture where the Map reads phenomenal structure.
 
 ## Neural Correlates
@@ -146,7 +148,7 @@ The witness concept points to what [Dualism](/tenets/#dualism) asserts: somethin
 
 **The Map's response**: The standard reply is Tallis's regress (2011)—for something to *seem* a certain way, there must be a subject to whom it seems that way, so the illusion of consciousness requires consciousness to be an illusion *for*. But the bare regress assumes the seeming is itself phenomenal, precisely what illusionists deny, and it proves nothing: a representational system need not instantiate what it represents ([functional seeming](/concepts/functional-seeming/) is Frankish's account of how).
 
-More directly: if illusionism were correct, contemplative training should reveal the witness as fabrication. Instead, traditions report that practice deepens the witness's clarity while revealing its *contents* as transient. The illusion attaches to what is witnessed, not to the witnessing itself.
+More directly: traditions report that practice deepens the witness's clarity while revealing its *contents* as transient, so on their testimony the illusion attaches to what is witnessed, not to the witnessing itself. An illusionist need not predict otherwise—a trained self-model can grow more stable—and the beautiful-loop account above predicts exactly this pattern, so the testimony is consonant with the Map's reading rather than evidence against its rivals.
 
 ## Process Philosophy Perspective
 
@@ -230,6 +232,7 @@ What contemplatives discovered through sustained practice, phenomenology articul
 1. Gupta, B. (1998). *The Disinterested Witness: A Fragment of Advaita Vedanta Phenomenology*. Northwestern University Press.
 1. Hume, D. (1739). *A Treatise of Human Nature*. Book I, Part IV, Section 6.
 1. Garrison, K. A., et al. (2013). Effortless awareness: Using real time neurofeedback to investigate correlates of posterior cingulate cortex activity in meditators' self-report. *Frontiers in Human Neuroscience*, 7.
+1. Laukkonen, R. E., Friston, K. J. & Chandaria, S. (2025). A beautiful loop: An active inference theory of consciousness. *Neuroscience & Biobehavioral Reviews*, 176, 106296. https://doi.org/10.1016/j.neubiorev.2025.106296
 1. Krishnamurti, J. (1954). *The First and Last Freedom*. Harper & Brothers.
 1. Lomas, T., Ivtzan, I., & Fu, C. H. Y. (2015). A systematic review of the neurophysiology of mindfulness on EEG oscillations. *Neuroscience & Biobehavioral Reviews*, 57, 401-410.
 1. Yang, W. F. Z., Chowdhury, A., Sparby, T., & Sacchet, M. D. (2025). Deconstructing the self and reshaping perceptions: An intensive whole-brain 7T MRI case study of the stages of insight during advanced investigative insight meditation. *NeuroImage*, 305, 120968.
