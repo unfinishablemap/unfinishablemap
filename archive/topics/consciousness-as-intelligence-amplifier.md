@@ -4,7 +4,7 @@ description: "Consciousness amplifies intelligence: enabling flexible deployment
 created: 2026-01-22
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-01-26T22:15:00+00:00
+ai_modified: 2026-09-24T19:31:09+00:00
 draft: false
 topics: []
 concepts: []
@@ -106,7 +106,7 @@ One interpretation: working memory capacity reflects phenomenal capacity—each 
 
 Human cognitive achievements depend on cumulative culture—transmitting, preserving, and incrementally improving knowledge across generations. Other species show cultural transmission, but lack the open-ended accumulation that characterizes human technology and knowledge.
 
-Tomasello's "shared intentionality" hypothesis proposes that humans uniquely possess cognitive abilities for collaborative learning—understanding not just that others have goals, but that we can pursue goals *together*. Heyes argues that explicit metacognition enables cumulative culture: teaching requires modeling the learner's mental state and adjusting explanations, while learning from teaching requires monitoring one's own comprehension. Both require conscious awareness of mental states.
+Tomasello's "shared intentionality" hypothesis proposes that humans uniquely possess cognitive abilities for collaborative learning—understanding not just that others have goals, but that we can pursue goals *together*. Heyes has proposed that explicit metacognition enables cumulative culture (reviewed by Dunstone and Caldwell 2018): teaching requires modeling the learner's mental state and adjusting explanations, while learning from teaching requires monitoring one's own comprehension. Both require conscious awareness of mental states.
 
 If cumulative culture depends on explicit metacognition, then consciousness expansion in the human lineage helps explain our cognitive dominance—not because our basic reasoning is better than great apes', but because consciousness amplifies intelligence through metacognitive monitoring and collaborative learning.
 
@@ -179,7 +179,7 @@ Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 
 De Neys, W., & Glumicic, T. (2008). Conflict monitoring in dual process theories of thinking. *Cognition*, 106(3), 1248-1299.
 
-Heyes, C. (2018). Cumulative culture and explicit metacognition: a review of theories, evidence and key predictions. *Humanities and Social Sciences Communications*, 5, 150.
+Dunstone, J., & Caldwell, C. A. (2018). Cumulative culture and explicit metacognition: a review of theories, evidence and key predictions. *Palgrave Communications*, 4, 145. https://doi.org/10.1057/s41599-018-0200-y
 
 James, W. (1890). *The Principles of Psychology*. Henry Holt.
 

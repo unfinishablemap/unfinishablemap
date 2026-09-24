@@ -1,14 +1,47 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-24T18:01:38+00:00'
+ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 concepts: []
 date: '2026-09-24'
-lastmod: 2026-09-24 18:01:38+00:00
+lastmod: 2026-09-24 19:04:19+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-24T19:31:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) (+ [consciousness-as-intelligence-amplifier](/archive/topics/consciousness-as-intelligence-amplifier/), [consciousness-influence-intelligence-2026-01-21](/research/consciousness-influence-intelligence-2026-01-21/))
+- **Original score**: n/a (targeted citation/quote fix)
+- **Changes**: (1) Mis-authored reference re-cited: "Heyes (2018) … HSSC 5, 150" → Dunstone, J. & Caldwell, C. A. (2018), *Palgrave Communications* 4, 145, doi 10.1057/s41599-018-0200-y (Crossref re-verified this run: authors Dunstone, Caldwell; vol 4; article 145). Body reworded to "Dunstone and Caldwell's (2018) review assesses the hypothesis, developed by Cecilia Heyes, that…". Swept archive copy (ref + body "reviewed by Dunstone and Caldwell 2018") and research note (heading "### Nature —", timeline row, ref list L252). Prior deep-review verdicts (03-10, 04-02, 06-02, 06-17) on this entry were wrong. (2) Lacalli (2024) quote restored against Frontiers full text: "more responsive[, through memory,] to the past life experiences" (source reads "though memory", a typo for "through"). (3) Falsifiability bullet "But no such explanation has been proposed" contradicted the article's own co-optimization paragraph; rewritten to name the co-optimization reply as such a proposal, constrained but not discriminated against by the dissociation evidence. Near length-neutral. Dunstone grep after sync: obsidian 5 files, archive 1, hugo/content 6.
+- **Published**: yes
+
+## 2026-09-24T19:16:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/)
+- **Original score**: n/a (targeted citation-fidelity fix; apex under open NEEDS-HUMAN length decision, no other edits)
+- **Changes**: Verified Maier, Dechamps & Pflitsch 2018 (*Front. Psychol.* 9:379, doi 10.3389/fpsyg.2018.00379; PMC5872141) at Frontiers and the Europe PMC full-text XML. The paper does not mention preregistration or OSF anywhere; "registr" and "osf" both return zero hits, while the control term "12,571" hits 6x. The design was a sequential Bayesian test: the Cauchy(0, 0.1) prior, the one-tailed one-sample t-test and the BF=10 stopping criterion were "decided in advance" / "selected before data collection". It ran Nov 2016 to Jul 2017 and ended at BF01 = 10.07 with N = 12,571. Advance decisions are not a registration, so I removed "preregistered". In §(a) the text now reads "it has returned nulls, the largest with 12,571 participants and a Bayes factor ≈10 for no effect (Maier et al. 2018)", matching the concepts/causal-closure wording. In the minimum-outside-corridor cost paragraph, "Preregistered micro-psychokinesis nulls" becomes "Micro-psychokinesis nulls". I left the "sufficiently sensitive preregistered test" line in the failure-conditions section unchanged because it describes a possible future test, not Maier. Synced to hugo. Source: reviews/outer-review-synthesis-2026-09-24.md (C5).
+- **Published**: yes
+
+
+## 2026-09-24T19:04:19+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The ethics of overlapping minds
+- **Output**: [ethics-of-overlapping-minds-2026-09-24](/research/ethics-of-overlapping-minds-2026-09-24/)
+- **Sources consulted**: 16 (metadata for 14 checked on Crossref/OpenAlex; full text read for Gottlieb & Fischer 2024 and the Schwitzgebel & Garza 2015 draft; Roelofs & Sebo 2024 abstract only)
+- **Verdict**: Assess-first found the normative counting rule has no home on the Map. [moral-census-opacity](/concepts/moral-census-opacity/) covers only the epistemic count, and the sibling note `aggregation-problem-overlapping-minds-2026-07-18` was never used because topics/ was at cap. That block has lifted: the cap is now 360 and topics/ holds 329. Recommends ONE topics article (`ethics-of-overlapping-minds`) that draws on both notes. The note sets out the Map's implied count-by-subjects rule, separates [P-AC3](/positions/ai-consciousness-scope/#p-ac3) moral weight from the [P-SC2](/positions/subject-census/#p-sc2) causal-composition copies question, and names the cost of the fission verdict against Parfit.
+- **Corrections to the 07-18 note**: "Counting Subjects" is Gottlieb & Fischer (2024, *Inquiry* 69(4)), two authors. The Roelofs AJP paper is 102(1): 131–146 (online 2022).
+
+## 2026-09-24T18:18:07+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)
+- **Word count**: 2864 → 2993 (+129; under the 3000 soft threshold)
+- **Critical issues addressed**: 7. The result-direction leg failed on 3 of 5 legacy cites despite 6 prior reviews: Brefczynski-Lewis 2007 inverted U misreported as a uniform decrease; the four-phase model misattributed to Lutz 2008 (it is Hasenkamp 2012's); Hasenkamp 2012 overclaimed as shorter MW episodes. Also fixed: executive-network vs "dorsal attention network" labels; Smallwood & Schooler 2015 "cross-cultural" framing; orphan Frankish cite (added Frankish 2016 and Gorbachev & Frankish 2025); internal tension in the illusionist section.
+- **Medium issues addressed**: 1 (overstated Dualism tenet paragraph re identity theory)
+- **Enhancements made**: 0
+- **Reasoning modes**: engagement with illusionism (Frankish): Mode Three with a Mode Two opening; the section grants the representation-need-not-instantiate reply and treats the training gradient as pressure only. Neural and threshold accounts: Mode Two (unchanged).
+- **Output**: [deep-review-2026-09-24-phenomenology-of-returning-attention](/reviews/deep-review-2026-09-24-phenomenology-of-returning-attention/)
 
 ## 2026-09-24T18:01:38+00:00 - refine-draft
 - **Status**: Success

@@ -39,32 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research The ethics of overlapping minds
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-09-24-composition-and-combination-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-24-composition-and-combination-wing (Medium Priority), re-raising an unminted 2026-07-18 proposal: if subjects can overlap or share experiential parts (manyism, combination, split-brain), how are welfare and moral status counted? Roelofs & Sebo 2024 on counting shared hedonic states is developed only at manyism L58; Roelofs is cited elsewhere only for combination metaphysics, not the moral-counting question. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/ethics-of-overlapping-minds-2026-09-24.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'ethics-of-overlapping-minds' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-09-24
-
-### P3: `apex/born-preserving-causal-efficacy` calls Maier et al. 2018 "preregistered nulls" (L89, L125) — verify the preregistration claim
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/apex/born-preserving-causal-efficacy.md
-- **Source**: refine-draft
-- **Review file**: `reviews/outer-review-synthesis-2026-09-24.md` (C5)
-- **Generated**: 2026-09-24
-- **Notes**: Surfaced by the 2026-09-24 `concepts/causal-closure` refine, which checked Maier, Dechamps & Pflitsch 2018 (*Frontiers in Psychology* 9, 379, doi 10.3389/fpsyg.2018.00379) at the publisher: the page describes a sequential Bayesian stopping design (BF01 ≈ 10.07) and does not describe the study as preregistered. The apex says "preregistered nulls (Maier et al. 2018)" at ~L89 and ~L125. **Verify first** (the paper's methods section, any OSF registration link). If preregistration is confirmed, no change. If not, drop "preregistered" (length-negative — safe despite the apex's open length decision) and match the causal-closure wording ("the largest intention-conditioned RNG test, 12,571 participants, Bayes factor ≈10 for no effect"). Locate by quoted text; sync both trees.
-
-### P2: Adopt ai-hardware-substrate-taxonomy calibration in architectural-adequacy-at-the-built-edge
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/architectural-adequacy-at-the-built-edge.md
-- **Notes**: From topic-concept anchoring audit 2026-09-23. The topic article over-claims relative to its anchor concept [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/); failed checks: hedge_density, strong_assertions.
-  - hedge density 2.20/kw is below 2.41/kw (target = 60% of anchor 4.02/kw, capped at 3.0/kw)
-  - strong-assertion density 0.55/kw exceeds 1.5× anchor (0.29/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-09-23
-
 ### P2: NEEDS-HUMAN (length decision) 2026-09-21 — `concepts/chinese-room-argument` has THREE words of headroom, its apparatus has no slack, and every obvious trim target is certified by a prior review
 
 - **Type**: refine-draft
@@ -1764,6 +1738,23 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-24: `apex/born-preserving-causal-efficacy` calls Maier et al. 2018 "preregistered nulls" (L89, L125) — verify the preregistration claim
+- **Type**: refine-draft
+- **File**: obsidian/apex/born-preserving-causal-efficacy.md
+- **Notes**: Surfaced by the 2026-09-24 `concepts/causal-closure` refine, which checked Maier, Dechamps & Pflitsch 2018 (*Frontiers in Psychology* 9, 379, doi 10.3389/fpsyg.2018.00379) at the publisher: the page describes a sequential Bayesian stopping design (BF01 ≈ 10.07) and does not describe the study as preregistered. The apex says "preregistered nulls (Maier et al. 2018)" at ~L89 and ~L125. **Verify first** (the paper's methods section, any OSF registration link). If preregistration is confirmed, no change. If not, drop "preregistered" (length-negative — safe despite the apex's open length decision) and match the causal-closure wording ("the largest intention-conditioned RNG test, 12,571 participants, Bayes factor ≈10 for no effect"). Locate by quoted text; sync both trees.
+
+### ✓ 2026-09-24: Research The ethics of overlapping minds
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-24-composition-and-combination-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-24-composition-and-combination-wing (Medium Priority), re-raising an unminted 2026-07-18 proposal: if subjects can overlap or share experiential parts (manyism, combination, split-brain), how are welfare and moral status counted? Roelofs & Sebo 2024 on counting shared hedonic states is developed only at manyism L58; Roelofs is cited elsewhere only for combination metaphysics, not the moral-counting question. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/ethics-of-overlapping-minds-2026-09-24.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'ethics-of-overlapping-minds' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+
+### ✓ 2026-09-24: Adopt ai-hardware-substrate-taxonomy calibration in architectural-adequacy-at-the-built-edge
+- **Type**: refine-draft
+- **File**: obsidian/topics/architectural-adequacy-at-the-built-edge.md
+- **Notes**: From topic-concept anchoring audit 2026-09-23. The topic article over-claims relative to its anchor concept [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/); failed checks: hedge_density, strong_assertions.
+  - hedge density 2.20/kw is below 2.41/kw (target = 60% of anchor 4.02/kw, capped at 3.0/kw)
+  - strong-assertion density 0.55/kw exceeds 1.5× anchor (0.29/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
 
 ### ✓ 2026-09-24: Extend `project/mechanism-cost-ledger` with a multidimensional minimality record and an evolutionary-inheritance field — "minimal" is currently scored on energetic magnitude alone
 - **Type**: refine-draft

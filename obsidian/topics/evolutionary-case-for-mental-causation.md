@@ -4,7 +4,7 @@ description: "Evolution provides significant evidence that consciousness causall
 created: 2026-02-05
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-06-17T21:48:51+00:00
+ai_modified: 2026-09-24T19:31:09+00:00
 draft: false
 last_deep_review: 2026-07-19T20:15:52+00:00
 topics:
@@ -108,11 +108,11 @@ Unconscious processing handles routine situations through established patterns�
 
 ### Metacognitive Monitoring
 
-Consciousness enables organisms to monitor their own cognitive states—recognising uncertainty, detecting errors, adjusting strategies. This metacognitive capacity allows learning from mistakes and calibrating confidence to evidence. Heyes (2018) argues that explicit metacognition—representing one's knowledge as knowledge—enables cumulative culture, the ratchet effect distinguishing human technological progress from the non-accumulating traditions of other species.
+Consciousness enables organisms to monitor their own cognitive states—recognising uncertainty, detecting errors, adjusting strategies. This metacognitive capacity allows learning from mistakes and calibrating confidence to evidence. Dunstone and Caldwell's (2018) review assesses the hypothesis, developed by Cecilia Heyes, that explicit metacognition—representing one's knowledge as knowledge—enables cumulative culture, the ratchet effect distinguishing human technological progress from the non-accumulating traditions of other species.
 
 ### Motivational Control Responsive to History
 
-Lacalli (2024) proposes that consciousness "first evolved to make motivational control more responsive to the past life experiences of the individual." Preprogrammed instincts respond to current stimuli; consciousness enables responses shaped by remembered experience. An organism that can consciously recall past outcomes adjusts behaviour in ways instinct alone cannot achieve.
+Lacalli (2024) proposes that consciousness "first evolved to make motivational control more responsive[, through memory,] to the past life experiences of the individual." Preprogrammed instincts respond to current stimuli; consciousness enables responses shaped by remembered experience. An organism that can consciously recall past outcomes adjusts behaviour in ways instinct alone cannot achieve.
 
 ### Temporal Integration
 
@@ -150,7 +150,7 @@ The evolutionary argument could be weakened by several findings:
 
 **Adaptation without consciousness**: If organisms lacking consciousness achieved the same adaptive behaviours as conscious organisms, consciousness would confer no fitness advantage. But the great ape evidence suggests conscious capacities specifically distinguish human cognition.
 
-**Alternative explanation for correlation**: If the pleasure-pain correlation with adaptive value had an explanation that didn't invoke mental causation—perhaps a deep necessity connecting neural mechanisms to both experience and adaptive behaviour—the argument would weaken. But no such explanation has been proposed.
+**Alternative explanation for correlation**: If the pleasure-pain correlation with adaptive value had an explanation that didn't invoke mental causation—perhaps a deep necessity connecting neural mechanisms to both experience and adaptive behaviour—the argument would weaken. The co-optimization reply (above) is such a proposal; the dissociation evidence constrains it without yet discriminating against it, so this rejoinder remains live.
 
 **Successful zombie demonstration**: If a system behaviourally identical to a conscious organism could be shown to lack consciousness, that would prove consciousness unnecessary for the behaviours evolution selects. But no such demonstration is possible: we cannot verify the absence of consciousness in a behaviourally normal system.
 
@@ -185,7 +185,7 @@ The evolutionary argument for mental causation supports multiple Map tenets.
 
 1. Georgiev, D.D. (2024). Evolution of Consciousness. *Life*, 14(1), 48.
 1. Lacalli, T. (2024). The function(s) of consciousness: an evolutionary perspective. *Frontiers in Psychology*, 15, 1493423.
-1. Heyes, C. (2018). Cumulative culture and explicit metacognition. *Humanities and Social Sciences Communications*, 5, 150.
+1. Dunstone, J., & Caldwell, C. A. (2018). Cumulative culture and explicit metacognition: a review of theories, evidence and key predictions. *Palgrave Communications*, 4, 145. https://doi.org/10.1057/s41599-018-0200-y
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.

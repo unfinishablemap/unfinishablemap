@@ -81,7 +81,7 @@ Research strongly supports the view that consciousness causally contributes to i
 - **Tenet alignment**: Supports Bidirectional Interaction—consciousness causally contributes to reasoning
 - **Quote**: "These findings offer evidence that logical reasoning is aided by the conscious, reflective processing system"
 
-### Nature - Cumulative Culture and Explicit Metacognition (2018)
+### Dunstone & Caldwell - Cumulative Culture and Explicit Metacognition (2018, *Palgrave Communications*)
 - **URL**: https://www.nature.com/articles/s41599-018-0200-y
 - **Type**: Theory review
 - **Key points**:
@@ -193,7 +193,7 @@ Research strongly supports the view that consciousness causally contributes to i
 | 1988 | Baars proposes Global Workspace Theory | Links consciousness to information broadcast and flexible control |
 | 1996 | Chalmers' *The Conscious Mind* | Formalizes zombie argument against physicalism |
 | 2005 | Tomasello's cultural intelligence hypothesis | Proposes shared intentionality as human-unique capacity |
-| 2018 | Heyes' cumulative culture and metacognition paper | Links explicit metacognition to cumulative cultural evolution |
+| 2018 | Dunstone & Caldwell's review of cumulative culture and metacognition (Heyes's hypothesis) | Links explicit metacognition to cumulative cultural evolution |
 | 2020-2024 | Renewed evolutionary consciousness research | New frameworks connecting quantum mechanics, evolution, and causal efficacy |
 
 ## Potential Article Angles
@@ -249,7 +249,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 3. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 4. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
 5. Dennett, D. C. (2016). From bacteria to Bach and back: The evolution of minds.
-6. Heyes, C. (2018). Cumulative culture and explicit metacognition: a review of theories, evidence and key predictions. *Humanities and Social Sciences Communications*, 5, 150.
+6. Dunstone, J., & Caldwell, C. A. (2018). Cumulative culture and explicit metacognition: a review of theories, evidence and key predictions. *Palgrave Communications*, 4, 145. https://doi.org/10.1057/s41599-018-0200-y
 7. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 8. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 9. Peper, A. (2020). A general theory of consciousness I: Consciousness and adaptation. *Communicative & Integrative Biology*, 13(1), 6-21. PMC7591160

@@ -4,6 +4,14 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-24T19:31:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/evolutionary-case-for-mental-causation]] (+ [[archive/topics/consciousness-as-intelligence-amplifier]], [[research/consciousness-influence-intelligence-2026-01-21]])
+- **Original score**: n/a (targeted citation/quote fix)
+- **Changes**: (1) Mis-authored reference re-cited: "Heyes (2018) … HSSC 5, 150" → Dunstone, J. & Caldwell, C. A. (2018), *Palgrave Communications* 4, 145, doi 10.1057/s41599-018-0200-y (Crossref re-verified this run: authors Dunstone, Caldwell; vol 4; article 145). Body reworded to "Dunstone and Caldwell's (2018) review assesses the hypothesis, developed by Cecilia Heyes, that…". Swept archive copy (ref + body "reviewed by Dunstone and Caldwell 2018") and research note (heading "### Nature —", timeline row, ref list L252). Prior deep-review verdicts (03-10, 04-02, 06-02, 06-17) on this entry were wrong. (2) Lacalli (2024) quote restored against Frontiers full text: "more responsive[, through memory,] to the past life experiences" (source reads "though memory", a typo for "through"). (3) Falsifiability bullet "But no such explanation has been proposed" contradicted the article's own co-optimization paragraph; rewritten to name the co-optimization reply as such a proposal, constrained but not discriminated against by the dissociation evidence. Near length-neutral. Dunstone grep after sync: obsidian 5 files, archive 1, hugo/content 6.
+- **Published**: yes
+
 ## 2026-09-24T19:16:10+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/born-preserving-causal-efficacy]]
