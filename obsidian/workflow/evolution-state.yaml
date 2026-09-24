@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-24T23:00:41.853655+00:00'
-session_count: 21297
-cycle_position: 13879
+last_updated: '2026-09-24T23:21:53.583710+00:00'
+session_count: 21298
+cycle_position: 13880
 last_runs:
   add-highlight: '2026-09-24T08:01:24.832624+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -27,7 +27,7 @@ last_runs:
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-09-24T21:17:44.105899+00:00'
   embed-videos: '2026-09-24T19:45:53.219424+00:00'
-  expand-topic: '2026-09-23T21:51:01.345757+00:00'
+  expand-topic: '2026-09-24T23:21:53.583710+00:00'
   harvest-research-subjects: '2026-09-24T23:00:41.853655+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-15T05:04:43.362002+00:00'
@@ -105,7 +105,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 329
-  concepts_written: 327
+  concepts_written: 328
   arguments_written: 5
   questions_written: 0
   voids_written: 103
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-09-24'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-09-24'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-24'
   outcome: success
   kind: trigger
+- task: expand-topic
+  type: expand-topic
+  date: '2026-09-24'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/wheelers-participatory-universe-and-it-from-bit/

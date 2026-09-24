@@ -5,6 +5,16 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24T23:33:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/cognitive-penetration]]
+- **Word count**: 2690 → 2723 (+33; soft_warning, length-neutral mode)
+- **Critical issues addressed**: 0 (12 external cites web-verified at OpenAlex/Crossref/PhilPapers, all real-correct; every quote grep-verified in raw abstract text; internal Map quotes verified in sibling files)
+- **Medium issues addressed**: 5 (Pylyshyn SDT stance nuance in marker 2; objectivity-and-consciousness quote reattributed to its Varela exposition; contemplative divergence examples matched to source article; removed editor-internal "stem *penetra*" methodology leak; illusionism boundary sentence added to Dualism paragraph)
+- **Enhancements made**: 2 cross-links ([[introspection]] piped at zero words, [[illusionism]]); minor tightening
+- **Engagement modes**: Firestone & Scholl — mixed (vision result accepted, scope limit for introspection marked); Siegel — adopted on own terms; illusionism — Mode Three boundary marking
+- **Output**: [[reviews/deep-review-2026-09-24-cognitive-penetration]]
+
 ## 2026-09-24T23:18:30+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: cognitive penetration

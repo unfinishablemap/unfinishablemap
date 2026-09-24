@@ -10,6 +10,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-24T23:33:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [cognitive-penetration](/concepts/cognitive-penetration/)
+- **Word count**: 2690 → 2723 (+33; soft_warning, length-neutral mode)
+- **Critical issues addressed**: 0 (12 external cites web-verified at OpenAlex/Crossref/PhilPapers, all real-correct; every quote grep-verified in raw abstract text; internal Map quotes verified in sibling files)
+- **Medium issues addressed**: 5 (Pylyshyn SDT stance nuance in marker 2; objectivity-and-consciousness quote reattributed to its Varela exposition; contemplative divergence examples matched to source article; removed editor-internal "stem *penetra*" methodology leak; illusionism boundary sentence added to Dualism paragraph)
+- **Enhancements made**: 2 cross-links ([introspection](/concepts/introspection/) piped at zero words, [illusionism](/concepts/illusionism/)); minor tightening
+- **Engagement modes**: Firestone & Scholl — mixed (vision result accepted, scope limit for introspection marked); Siegel — adopted on own terms; illusionism — Mode Three boundary marking
+- **Output**: [deep-review-2026-09-24-cognitive-penetration](/reviews/deep-review-2026-09-24-cognitive-penetration/)
+
+## 2026-09-24T23:18:30+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: cognitive penetration
+- **Output**: [cognitive-penetration](/concepts/cognitive-penetration/)
+- **Word count**: 2690 total (`analyze_length`, soft_warning vs 2500); split: ~2300 prose, ~390 Further Reading + References
+- **Based on research**: no (no research note; scoped from `reviews/optimistic-2026-09-16-phenomenal-epistemology-wing.md` High Priority 1 with the two 2026-09-19 corrections honoured)
+- **Notes**: Seven-locus table built on the stem *penetra* (includes `phenomenal-transparency-opacity-spectrum`, flagged as a different sense of "impenetrable"); training case generalises the spectrum's discriminating-marker formulation (Lutz & Thompson 2003 left in the spectrum; Lutz, Slagter, Dunne & Davidson 2008 TiCS cited separately as the FA/OM framework, not as discriminability data). Verdict: resolution vs contamination split by seeming type; "training reveals rather than installs" stated as a live hypothesis. Citations verified at Crossref/OpenAlex (Siegel 2012, Macpherson 2012, Firestone & Scholl 2016, Pylyshyn 1999, Stokes 2018, McGrath 2013, Moretti 2020 ch. 3, Fox 2012, MacLean 2010, Kral 2022, Lutz 2008); quotes restricted to abstract text grep-verified from OpenAlex (Siegel 2012 not quoted, no full text reachable). Reciprocal links: PC objection label (piped, 0 words), phenomenal-authority objection label (piped, 0 words), spectrum "discriminating marker" (piped, 0 words), phenomenal-depth L72 (+1 sentence hedging the training claim). Both trees synced.
+
 ## 2026-09-24T22:47:07+00:00 - refine-draft
 - **Status**: Success
 - **File**: [consciousness-as-activity](/topics/consciousness-as-activity/) (+ [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/) L74, research/enactivism-challenge-interactionist-dualism-2026-03-21)
