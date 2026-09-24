@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-23T23:55:00+00:00'
+ai_modified: '2026-09-24T00:00:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-24T00:00:48+00:00 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 238 (session_count 20966 -> 21204, since the 09-19 run)
+- **Findings**: 4 cadence, 2 failure, 3 queue, 1 review, 2 convergence
+- **Tier 1 changes**: 0 applied (14th consecutive; no cadences / overdue_thresholds / weights exist to tune)
+- **Tier 2 recommendations**: 3 logged (reassign coalesce slots after 15 straight abandons; driver mints from reports-only priority lists, check 138 found 0/4 actioned; refresh CLAUDE.md cap table to 360/360/115/80)
+- **Output**: [[reviews/system-tune-2026-09-24]]
 
 ## 2026-09-23T23:52:31+00:00 - apex-evolve
 - **Status**: Complete
