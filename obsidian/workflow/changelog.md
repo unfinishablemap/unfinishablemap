@@ -5,6 +5,16 @@ ai_modified: '2026-09-24T08:16:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-24T10:47:14+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/predictive-processing]]
+- **Source**: outer review 2026-09-24 (Claude Opus 5.5, §5); reviewer's corpus-wide Laukkonen false-absence noted (topic `predictive-processing-and-dualism` engages it at length) — defect was local to this page
+- **Original score**: 6/10 (curate.py absent; editor estimate)
+- **Changes**: (1) Rebuilt the "functional asymmetry" argument: concedes weather models lack self-model/precision control, names the beautiful-loop theory (Laukkonen, Friston & Chandaria 2025, NBR 176:106296, reference form reused from the topic) and its epistemic depth, links to the topic, and reduces the argument to the meta-problem reply. (2) Nirodha paragraph no longer claims "cessation should equal non-existence"; now states that awareness-of-absence reports fit the beautiful-loop account of minimal phenomenal experience (maximal epistemic depth, maximally simplified reality model) and full cessation fits binding failure, so the evidence locates rather than settles the disagreement (verified against Laukkonen's own summary on rubenlaukkonen.substack.com; paper page 403). (3) Hutto & Myin marked as naturalist/anti-representationalist; Map explicitly borrows their negative argument for a conclusion they reject, and the REC-vs-phenomenal-intentionality split marked as a framework-boundary disagreement. Length-neutral trims: redundant Access sentence, IWMT "coherent world-model" restatement, decoherence reply compressed (dropped the overclaiming "biological systems demonstrably maintain quantum effects" item), Whitehead eternal-objects sentence, one contemplative-challenge sentence, lucid-dreaming testability sentence, content-vocabulary-as-derived-feature description (link retained).
+- **Engagement classification**: beautiful-loop / weather-model contrast: Mode Two then Mode Three (the step from recursive self-evidencing to felt experience is unearned; residue is boundary). Nirodha: Mode Three (evidence non-discriminating). Hutto & Myin: Mode Three (Map repurposes their argument; they accept content-elimination the Map rejects).
+- **Length**: 3493 → 3493 words (concepts hard 3500)
+- **Published**: yes
+
 ## 2026-09-24T10:25:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The inheritance problem for the psychophysical law

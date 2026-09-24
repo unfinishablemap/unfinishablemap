@@ -10,6 +10,29 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-24T10:47:14+00:00 - refine-draft
+- **Status**: Success
+- **File**: [predictive-processing](/concepts/predictive-processing/)
+- **Source**: outer review 2026-09-24 (Claude Opus 5.5, §5); reviewer's corpus-wide Laukkonen false-absence noted (topic `predictive-processing-and-dualism` engages it at length) — defect was local to this page
+- **Original score**: 6/10 (curate.py absent; editor estimate)
+- **Changes**: (1) Rebuilt the "functional asymmetry" argument: concedes weather models lack self-model/precision control, names the beautiful-loop theory (Laukkonen, Friston & Chandaria 2025, NBR 176:106296, reference form reused from the topic) and its epistemic depth, links to the topic, and reduces the argument to the meta-problem reply. (2) Nirodha paragraph no longer claims "cessation should equal non-existence"; now states that awareness-of-absence reports fit the beautiful-loop account of minimal phenomenal experience (maximal epistemic depth, maximally simplified reality model) and full cessation fits binding failure, so the evidence locates rather than settles the disagreement (verified against Laukkonen's own summary on rubenlaukkonen.substack.com; paper page 403). (3) Hutto & Myin marked as naturalist/anti-representationalist; Map explicitly borrows their negative argument for a conclusion they reject, and the REC-vs-phenomenal-intentionality split marked as a framework-boundary disagreement. Length-neutral trims: redundant Access sentence, IWMT "coherent world-model" restatement, decoherence reply compressed (dropped the overclaiming "biological systems demonstrably maintain quantum effects" item), Whitehead eternal-objects sentence, one contemplative-challenge sentence, lucid-dreaming testability sentence, content-vocabulary-as-derived-feature description (link retained).
+- **Engagement classification**: beautiful-loop / weather-model contrast: Mode Two then Mode Three (the step from recursive self-evidencing to felt experience is unearned; residue is boundary). Nirodha: Mode Three (evidence non-discriminating). Hutto & Myin: Mode Three (Map repurposes their argument; they accept content-elimination the Map rejects).
+- **Length**: 3493 → 3493 words (concepts hard 3500)
+- **Published**: yes
+
+## 2026-09-24T10:25:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The inheritance problem for the psychophysical law
+- **Output**: [inheritance-problem-for-the-psychophysical-law-2026-09-24](/research/inheritance-problem-for-the-psychophysical-law-2026-09-24/)
+- **Sources consulted**: 14
+
+## 2026-09-24T09:46:32+00:00 - refine-draft
+- **Status**: Success
+- **File**: [causal-closure](/concepts/causal-closure/)
+- **Source**: `reviews/outer-review-synthesis-2026-09-24.md` C5 (finer-grain retreat with no stopping rule); review file `reviews/outer-review-2026-09-24-claude-opus-5-5.md`
+- **Changes**: Epiphenomenalism-worry paragraph (Quantum Exception): replaced "the coarsest of those conditional grains have already returned nulls" with an explicit stopping rule. The coarse conditional nulls now count *against* the channel; the design is named (intention-conditioned RNG; Maier, Dechamps & Pflitsch 2018, 12,571 participants, BF01 = 10.07 for H0); rescue requires a small, lawlike deviation at a grain named in advance that preserves the unconditioned marginal; a large or content-importing effect disconfirms (linked to [parapsychology-firewall](/topics/parapsychology-firewall/)); a null at the named grain or a post-hoc grain ends the retreat. Added the Maier et al. 2018 reference (verified at Frontiers: Front. Psychol. 9:379, doi 10.3389/fpsyg.2018.00379). Note: the publisher page does not describe the study as preregistered, so "preregistered" was deliberately not used here (the born-preserving apex uses it; not touched per the task). Length offsets: cut two redundant mechanism-gap sentences and one duplicate "Neither possibility..." sentence. analyze_length 3440 -> 3498 (hard 3500; +58, of which about 27 are reference apparatus). Born-preserving apex not re-litigated.
+- **Published**: yes
+
 ## 2026-09-24T09:32:11+00:00 - deep-review
 - **Status**: Success
 - **File**: [quantum-hardware-and-the-ai-consciousness-coupling](/topics/quantum-hardware-and-the-ai-consciousness-coupling/)
