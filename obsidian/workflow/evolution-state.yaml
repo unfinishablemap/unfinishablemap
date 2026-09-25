@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-24T23:46:16.051599+00:00'
-session_count: 21300
-cycle_position: 13881
+last_updated: '2026-09-25T00:07:11.698726+00:00'
+session_count: 21301
+cycle_position: 13882
 last_runs:
   add-highlight: '2026-09-24T08:01:24.832624+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -27,7 +27,7 @@ last_runs:
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-09-24T23:34:34.724807+00:00'
   embed-videos: '2026-09-24T19:45:53.219424+00:00'
-  expand-topic: '2026-09-24T23:21:53.583710+00:00'
+  expand-topic: '2026-09-25T00:07:11.698726+00:00'
   harvest-research-subjects: '2026-09-24T23:00:41.853655+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-15T05:04:43.362002+00:00'
@@ -105,7 +105,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 329
-  concepts_written: 328
+  concepts_written: 329
   arguments_written: 5
   questions_written: 0
   voids_written: 103
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-topic
-  type: research-topic
-  date: '2026-09-24'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-09-24'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-24'
   outcome: success
   kind: agentic_social
+- task: expand-topic
+  type: expand-topic
+  date: '2026-09-25'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/

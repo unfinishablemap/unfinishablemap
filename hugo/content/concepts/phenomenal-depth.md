@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-09-24 23:18:30+00:00
+ai_modified: 2026-09-25 00:16:18+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,14 +18,14 @@ concepts:
 - '[[panpsychism]]'
 - '[[concepts/epiphenomenalism]]'
 created: 2026-02-13
-date: &id001 2026-09-24
+date: &id001 2026-09-25
 description: How conscious experience possesses layered richness beyond surface appearance—a
   concept central to understanding why materialist reduction fails.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 20:54:07+00:00
-lastmod: 2026-09-24 23:18:30+00:00
+lastmod: 2026-09-25 00:16:18+00:00
 modified: *id001
 related_articles:
 - '[[visual-consciousness]]'
@@ -44,7 +44,7 @@ Conscious experience is not flat. A single moment of seeing a sunset, tasting wi
 
 ## What Phenomenal Depth Is
 
-Phenomenal depth is the property of conscious states whereby they contain more qualitative structure than any single act of attention or introspective report can capture. Consider the experience of listening to an orchestra. At the surface level, there is the overall sound—a wash of melody and harmony. Attend more carefully and individual instruments emerge. Attend further and one notices the grain of a particular violin, the breath of a particular oboist, the way the room's acoustics colour every note. Each layer was present in the original experience, not added by closer attention.
+Phenomenal depth is the property of conscious states whereby they contain more qualitative structure than any single act of attention or introspective report can capture. Consider the experience of listening to an orchestra. At the surface level, there is the overall sound—a wash of melody and harmony. Attend more carefully and individual instruments emerge. Attend further and one notices the grain of a particular violin, the breath of a particular oboist, the way the room's acoustics colour every note. Each layer seems to have been there in the original experience rather than added by closer attention. The claim concerns content—what the experience is of—not the [medium](/concepts/phenomenal-transparency-opacity-spectrum/) carrying it, which no amount of attention exposes. Even for content the seeming is disputed: the [inflation objection](/concepts/phenomenal-overflow/#deflationary) holds that being able to access a layer on demand is mistaken for having experienced it all along.
 
 This is phenomenal depth: the experience was always richer than what one initially accessed.
 

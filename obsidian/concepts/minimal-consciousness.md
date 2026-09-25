@@ -2,9 +2,9 @@
 title: "Minimal Consciousness"
 description: "The simplest form of consciousness—bare phenomenal experience without elaborate cognitive content. A key concept for understanding where consciousness begins."
 created: 2026-01-31
-modified: 2026-05-21
+modified: 2026-09-25
 human_modified: null
-ai_modified: 2026-09-23T18:00:47+00:00
+ai_modified: 2026-09-25T00:16:18+00:00
 last_deep_review: 2026-08-08T08:03:30+00:00
 draft: false
 topics:
@@ -47,7 +47,7 @@ Minimal consciousness is not reduced consciousness or degraded consciousness. It
 
 **Not unconscious cognition**: Information processing without experience is not minimal consciousness—it is no consciousness at all. The question is what distinguishes the simplest *experiencing* from sophisticated non-experiencing.
 
-**Bare phenomenality**: Minimal consciousness is the line between something and nothing experiential. A system with minimal consciousness has *some* phenomenal state, however simple. A system below that line has none.
+**Bare phenomenality**: Minimal consciousness is the line between something and nothing experiential. A system with minimal consciousness has *some* [[phenomenal-presentation|phenomenal state]], however [[phenomenal-depth|simple]]. A system below that line has none.
 
 ## Candidate Characteristics
 

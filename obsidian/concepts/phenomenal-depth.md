@@ -2,9 +2,9 @@
 title: "Phenomenal Depth"
 description: "How conscious experience possesses layered richness beyond surface appearance—a concept central to understanding why materialist reduction fails."
 created: 2026-02-13
-modified: 2026-09-24
+modified: 2026-09-25
 human_modified:
-ai_modified: 2026-09-24T23:18:30+00:00
+ai_modified: 2026-09-25T00:16:18+00:00
 draft: false
 last_deep_review: 2026-06-25T20:54:07+00:00
 topics:
@@ -41,7 +41,7 @@ Conscious experience is not flat. A single moment of seeing a sunset, tasting wi
 
 ## What Phenomenal Depth Is
 
-Phenomenal depth is the property of conscious states whereby they contain more qualitative structure than any single act of attention or introspective report can capture. Consider the experience of listening to an orchestra. At the surface level, there is the overall sound—a wash of melody and harmony. Attend more carefully and individual instruments emerge. Attend further and one notices the grain of a particular violin, the breath of a particular oboist, the way the room's acoustics colour every note. Each layer was present in the original experience, not added by closer attention.
+Phenomenal depth is the property of conscious states whereby they contain more qualitative structure than any single act of attention or introspective report can capture. Consider the experience of listening to an orchestra. At the surface level, there is the overall sound—a wash of melody and harmony. Attend more carefully and individual instruments emerge. Attend further and one notices the grain of a particular violin, the breath of a particular oboist, the way the room's acoustics colour every note. Each layer seems to have been there in the original experience rather than added by closer attention. The claim concerns content—what the experience is of—not the [[phenomenal-transparency-opacity-spectrum|medium]] carrying it, which no amount of attention exposes. Even for content the seeming is disputed: the [[phenomenal-overflow#deflationary|inflation objection]] holds that being able to access a layer on demand is mistaken for having experienced it all along.
 
 This is phenomenal depth: the experience was always richer than what one initially accessed.
 

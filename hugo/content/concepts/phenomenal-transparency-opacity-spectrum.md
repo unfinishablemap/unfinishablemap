@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-09-24 23:18:30+00:00
+ai_modified: 2026-09-25 00:16:18+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -19,7 +19,7 @@ concepts:
 - '[[self-reference-paradox]]'
 - '[[metacognition]]'
 created: 2026-02-09
-date: &id001 2026-09-24
+date: &id001 2026-09-25
 description: Experience normally conceals itself as representation (transparency)
   but can reveal its constructed character (opacity). This spectrum, introduced by
   Metzinger, exposes cognitive architecture and its limits.
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-13 12:26:26+00:00
-lastmod: 2026-09-24 23:18:30+00:00
+lastmod: 2026-09-25 00:16:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -54,7 +54,7 @@ Conscious representations sit on a spectrum between transparency and opacity. At
 
 Most waking perception sits near the transparent end. Light strikes the retina, signals propagate through the lateral geniculate nucleus, visual cortex constructs edge maps, colour processing, and object recognition — dozens of processing stages. None appears in experience. What appears is the apple. The construction is invisible because the constructive processes operate below the threshold of introspective access.
 
-This transparency is cognitively impenetrable to ordinary effort. You cannot attend harder and see the processing stages. Metzinger argues no casual act of attention can dissolve it, though sustained contemplative training may partially reduce it. The system operates such that the model presents itself as the world, not as a model of the world. The instruments of representation cannot be *introspectively* represented as instruments — though third-person science can describe them as instruments from the outside. The limit is on introspective access, not on representation as such.
+This transparency is cognitively impenetrable to ordinary effort. You cannot [attend harder](/concepts/phenomenal-depth/) and see the processing stages. Metzinger argues no casual act of attention can dissolve it, though sustained contemplative training may partially reduce it. The system operates such that the model presents itself as the world, not as a model of the world. The instruments of representation cannot be *introspectively* represented as instruments — though third-person science can describe them as instruments from the outside. The limit is on introspective access, not on representation as such.
 
 But certain experiences shift toward the opaque end. Consider a vivid memory. Remembering yesterday's conversation, you experience something scene-like — faces, voices, spatial arrangement — yet the experience has a quality of *aboutness* that current perception lacks. You are aware, however dimly, that you are re-presenting rather than perceiving. The representational medium has become partially visible. The memory is not fully opaque — you do not experience it as "neural pattern X firing in hippocampal circuit Y" — but it is opaque enough that you do not confuse it with present reality.
 

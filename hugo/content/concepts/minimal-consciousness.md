@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-09-23 18:00:47+00:00
+ai_modified: 2026-09-25 00:16:18+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,7 +15,7 @@ concepts:
 - '[[combination-problem]]'
 - '[[integrated-information-theory]]'
 created: 2026-01-31
-date: &id001 2026-05-21
+date: &id001 2026-09-25
 description: The simplest form of consciousness—bare phenomenal experience without
   elaborate cognitive content. A key concept for understanding where consciousness
   begins.
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-08 08:03:30+00:00
-lastmod: 2026-09-23 18:00:47+00:00
+lastmod: 2026-09-25 00:16:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -51,7 +51,7 @@ Minimal consciousness is not reduced consciousness or degraded consciousness. It
 
 **Not unconscious cognition**: Information processing without experience is not minimal consciousness—it is no consciousness at all. The question is what distinguishes the simplest *experiencing* from sophisticated non-experiencing.
 
-**Bare phenomenality**: Minimal consciousness is the line between something and nothing experiential. A system with minimal consciousness has *some* phenomenal state, however simple. A system below that line has none.
+**Bare phenomenality**: Minimal consciousness is the line between something and nothing experiential. A system with minimal consciousness has *some* [phenomenal state](/concepts/phenomenal-presentation/), however [simple](/concepts/phenomenal-depth/). A system below that line has none.
 
 ## Candidate Characteristics
 

@@ -5,6 +5,15 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-25T00:16:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/phenomenal-depth]]
+- **Original score**: 8/10 (`scripts/curate.py` absent; score from reviewer context — five consecutive clean deep reviews)
+- **Source**: reviews/optimistic-2026-09-16-phenomenal-epistemology-wing.md Calibration concern 1 / Medium Priority 2
+- **Changes**: Replaced the datum-as-fact sentence "Each layer was present in the original experience, not added by closer attention" with a seeming-claim restricted to CONTENT (medium excluded, piped link to `phenomenal-transparency-opacity-spectrum`) and acknowledged the inflation objection via piped `[[phenomenal-overflow#deflationary|inflation objection]]` (+~55 words). Consistent with the cognitive-penetration sentence at the training paragraph; not duplicated. Dennettian/constructivist bedrock not re-flagged (per 2026-06-25 stability note).
+- **Integration (piped, length-neutral)**: `phenomenal-transparency-opacity-spectrum` ("attend harder" → depth); `phenomenal-overflow` Contested Status ("richness of phenomenology" → depth); `minimal-consciousness` Bare phenomenality ("phenomenal state" → phenomenal-presentation, "simple" → depth); `visual-consciousness` overflow paragraph ("visual detail" → depth).
+- **Published**: yes
+
 ## 2026-09-25T00:30:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: the nature of a seeming

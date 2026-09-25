@@ -2,9 +2,9 @@
 title: "Visual Consciousness"
 description: "The phenomenal experience of seeing—what it's like to perceive colour, shape, and motion. Visual consciousness reveals the hard problem through dissociations like blindsight."
 created: 2026-02-01
-modified: 2026-02-01
+modified: 2026-09-25
 human_modified:
-ai_modified: 2026-09-24T21:15:44+00:00
+ai_modified: 2026-09-25T00:16:18+00:00
 last_deep_review: 2026-09-24T21:15:44+00:00
 draft: false
 topics:
@@ -78,7 +78,7 @@ Ned Block's distinction between [[phenomenal-consciousness]] and [[access-consci
 
 **Visual access consciousness** is visual information being available for reasoning, report, and behavioural control.
 
-These can dissociate. The [[phenomenal-overflow|overflow argument]] suggests we phenomenally experience more visual detail than we can access for report—the richness of peripheral vision exceeds what enters working memory. Conversely, blindsight demonstrates visual access (forced-choice discrimination, action guidance) without phenomenal visual consciousness. Vision is the maximally-worked instance of the more general access-versus-phenomenal divide treated in the abstract by [[conscious-vs-unconscious-processing]], which examines the same blindsight, overflow, and posterior-cortex evidence as a question about what consciousness adds to processing across all modalities.
+These can dissociate. The [[phenomenal-overflow|overflow argument]] suggests we phenomenally experience more [[phenomenal-depth|visual detail]] than we can access for report—the richness of peripheral vision exceeds what enters working memory. Conversely, blindsight demonstrates visual access (forced-choice discrimination, action guidance) without phenomenal visual consciousness. Vision is the maximally-worked instance of the more general access-versus-phenomenal divide treated in the abstract by [[conscious-vs-unconscious-processing]], which examines the same blindsight, overflow, and posterior-cortex evidence as a question about what consciousness adds to processing across all modalities.
 
 [[global-workspace-theory|Global Workspace Theory]] locates visual consciousness in information becoming "globally broadcast"—available to multiple cognitive systems simultaneously. But this account addresses access, not phenomenology. Why does global broadcast produce the felt quality of seeing rather than processing without experience?
 

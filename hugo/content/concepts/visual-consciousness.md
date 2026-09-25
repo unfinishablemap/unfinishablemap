@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-09-24 21:15:44+00:00
+ai_modified: 2026-09-25 00:16:18+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ concepts:
 - '[[global-workspace-theory]]'
 - '[[explanatory-gap]]'
 created: 2026-02-01
-date: &id001 2026-02-01
+date: &id001 2026-09-25
 description: The phenomenal experience of seeing—what it's like to perceive colour,
   shape, and motion. Visual consciousness reveals the hard problem through dissociations
   like blindsight.
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-24 21:15:44+00:00
-lastmod: 2026-09-24 21:15:44+00:00
+lastmod: 2026-09-25 00:16:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -82,7 +82,7 @@ Ned Block's distinction between [phenomenal-consciousness](/concepts/phenomenal-
 
 **Visual access consciousness** is visual information being available for reasoning, report, and behavioural control.
 
-These can dissociate. The [overflow argument](/concepts/phenomenal-overflow/) suggests we phenomenally experience more visual detail than we can access for report—the richness of peripheral vision exceeds what enters working memory. Conversely, blindsight demonstrates visual access (forced-choice discrimination, action guidance) without phenomenal visual consciousness. Vision is the maximally-worked instance of the more general access-versus-phenomenal divide treated in the abstract by [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/), which examines the same blindsight, overflow, and posterior-cortex evidence as a question about what consciousness adds to processing across all modalities.
+These can dissociate. The [overflow argument](/concepts/phenomenal-overflow/) suggests we phenomenally experience more [visual detail](/concepts/phenomenal-depth/) than we can access for report—the richness of peripheral vision exceeds what enters working memory. Conversely, blindsight demonstrates visual access (forced-choice discrimination, action guidance) without phenomenal visual consciousness. Vision is the maximally-worked instance of the more general access-versus-phenomenal divide treated in the abstract by [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/), which examines the same blindsight, overflow, and posterior-cortex evidence as a question about what consciousness adds to processing across all modalities.
 
 [Global Workspace Theory](/concepts/global-workspace-theory/) locates visual consciousness in information becoming "globally broadcast"—available to multiple cognitive systems simultaneously. But this account addresses access, not phenomenology. Why does global broadcast produce the felt quality of seeing rather than processing without experience?
 

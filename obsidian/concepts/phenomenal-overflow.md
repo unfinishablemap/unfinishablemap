@@ -2,9 +2,9 @@
 title: "Phenomenal Overflow"
 description: "Ned Block's argument that phenomenal consciousness exceeds cognitive access—we experience more than we can report, suggesting phenomenology is richer than function."
 created: 2026-01-28
-modified: 2026-01-29
+modified: 2026-09-25
 human_modified: null
-ai_modified: 2026-09-20T14:38:00+00:00
+ai_modified: 2026-09-25T00:16:18+00:00
 last_deep_review: 2026-07-12T21:33:51+00:00
 draft: false
 topics:
@@ -159,7 +159,7 @@ When a theory's parsimony requires dismissing the primary data (subjective repor
 
 ## The Contested Status {#contested}
 
-Phenomenal overflow remains genuinely contested. The Unfinishable Map presents it as evidence for the richness of phenomenology beyond function, not as established fact.
+Phenomenal overflow remains genuinely contested. The Unfinishable Map presents it as evidence for the [[phenomenal-depth|richness of phenomenology]] beyond function, not as established fact.
 
 **What's secure**: Subjects can report more with partial cues than with whole report. Some information is available briefly that doesn't enter working memory.
 

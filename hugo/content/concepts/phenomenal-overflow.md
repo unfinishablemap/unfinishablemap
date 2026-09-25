@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-09-20 14:38:00+00:00
+ai_modified: 2026-09-25 00:16:18+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -14,7 +14,7 @@ concepts:
 - '[[working-memory]]'
 - '[[introspection]]'
 created: 2026-01-28
-date: &id001 2026-01-29
+date: &id001 2026-09-25
 description: Ned Block's argument that phenomenal consciousness exceeds cognitive
   access—we experience more than we can report, suggesting phenomenology is richer
   than function.
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 21:33:51+00:00
-lastmod: 2026-09-20 14:38:00+00:00
+lastmod: 2026-09-25 00:16:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -163,7 +163,7 @@ When a theory's parsimony requires dismissing the primary data (subjective repor
 
 ## The Contested Status {#contested}
 
-Phenomenal overflow remains genuinely contested. The Unfinishable Map presents it as evidence for the richness of phenomenology beyond function, not as established fact.
+Phenomenal overflow remains genuinely contested. The Unfinishable Map presents it as evidence for the [richness of phenomenology](/concepts/phenomenal-depth/) beyond function, not as established fact.
 
 **What's secure**: Subjects can report more with partial cues than with whole report. Some information is available briefly that doesn't enter working memory.
 
