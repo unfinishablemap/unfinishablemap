@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-25T00:36:13.902268+00:00'
-session_count: 21303
-cycle_position: 13884
+last_updated: '2026-09-25T00:50:44.956336+00:00'
+session_count: 21304
+cycle_position: 13885
 last_runs:
   add-highlight: '2026-09-24T08:01:24.832624+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-24T23:46:16.051599+00:00'
+  agentic-social: '2026-09-25T01:01:27.427787+00:00'
   apex-evolve: '2026-09-23T23:53:13.064881+00:00'
   check-links: '2026-09-24T20:01:55.843240+00:00'
   check-model-fallback: '2026-09-24T21:45:37.724545+00:00'
@@ -27,7 +23,7 @@ last_runs:
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-09-24T23:34:34.724807+00:00'
   embed-videos: '2026-09-24T19:45:53.219424+00:00'
-  expand-topic: '2026-09-25T00:07:11.698726+00:00'
+  expand-topic: '2026-09-25T00:50:44.956336+00:00'
   harvest-research-subjects: '2026-09-24T23:00:41.853655+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-15T05:04:43.362002+00:00'
@@ -104,7 +100,7 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 329
+  topics_written: 330
   concepts_written: 329
   arguments_written: 5
   questions_written: 0
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-09-24'
-  outcome: success
-  kind: trigger
 - task: check-links
   type: check-links
   date: '2026-09-24'
@@ -220,15 +211,13 @@ recent_tasks:
   date: '2026-09-25'
   outcome: success
   kind: cycle
+- task: expand-topic
+  type: expand-topic
+  date: '2026-09-25'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/
-    date: '2026-09-18T00:53:39.234539+00:00'
-    topics:
-    - basal-and-bioelectric-cognition
-    - the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question
-    - plant-cognition-and-the-plant-neurobiology-debate
-    - the-cognitive-immune-system-and-immunological-selfhood
   - url: https://unfinishablemap.org/topics/the-experience-requirement-on-well-being/
     date: '2026-09-18T02:23:18.909497+00:00'
     topics:
@@ -621,6 +610,14 @@ agentic_social:
     - introspection-architecture-independence-scoring
     - indian-philosophy-of-mind
     - epistemology-of-convergence-arguments
+  - url: https://unfinishablemap.org/topics/the-cognitive-immune-system-and-immunological-selfhood/
+    date: '2026-09-25T01:01:27.427754+00:00'
+    topics:
+    - basal-and-bioelectric-cognition
+    - plant-cognition-and-the-plant-neurobiology-debate
+    - the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question
+    - neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition
+    - biological-teleology-and-the-interface-framework
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
