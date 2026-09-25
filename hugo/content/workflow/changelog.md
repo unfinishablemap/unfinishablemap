@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-25T12:30:46+00:00 - deep-review
+- **Status**: Success
+- **File**: [disconnection-neuroscience](/concepts/disconnection-neuroscience/)
+- **Word count**: 1830 → 1880 (+50)
+- **Critical issues addressed**: 2. (1) Possibility/probability slippage: L67 claimed that production theories only "accommodate" disconnection syndromes via an "auxiliary hypothesis" while the channel reading "offers a more direct prediction". But the article itself grades the distributed-function claim as established, and it records that Wernicke predicted conduction aphasia from a neural wiring model. The paragraph now says the channel reading "holds no predictive advantage here". (2) Catani & ffytche 2005 and Schmahmann & Pandya 2006 were orphan references; both are now anchored at the tractography sentence. The 2026-07-09 review's "no orphan refs" was false.
+- **Medium issues addressed**: 5. Conduction aphasia output is "fluent (though marked by phonemic paraphasias)", not "intact". Liepmann's cases are now dated "from 1900 onward" instead of "nineteenth-century". The split-brain surgery is no longer credited to Sperry and Gazzaniga. "Connective tissue" became "connecting white matter", and "load-bearing" was removed. In the Dualism paragraph, the strawman is now named as "the crudest production reading — one no current production theorist holds", and "channel-specific" became "tract-specific".
+- **Enhancements made**: 0 (no new content). Engagement with generic production theory: Mode Three. Citation metadata was carried from the 2026-07-09 publisher verification (References unchanged). Stance legs were recorded for Sperry (emergentist) and Gazzaniga (physicalist).
+- **Output**: [deep-review-2026-09-25-disconnection-neuroscience](/reviews/deep-review-2026-09-25-disconnection-neuroscience/)
+
 ## 2026-09-25T12:18:13+00:00 - refine-draft
 - **Status**: Success
 - **File**: [pharmacological-dissociation-as-evidence](/apex/pharmacological-dissociation-as-evidence/)

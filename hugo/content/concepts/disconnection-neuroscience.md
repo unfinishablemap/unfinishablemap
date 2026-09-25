@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-09-25 03:31:54+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-09-25 12:30:46+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts:
 - '[[filter-theory]]'
@@ -19,8 +19,8 @@ description: 'The Geschwind framework: higher cognitive deficits arise when whit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-09 23:47:00+00:00
-lastmod: 2026-09-25 03:31:54+00:00
+last_deep_review: 2026-09-25 12:30:46+00:00
+lastmod: 2026-09-25 12:30:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,18 +47,18 @@ The framework reorganised the clinical literature around three canonical syndrom
 
 **Alexia without agraphia.** Dejerine's 1892 case: a patient who could write fluently but could not read what he had just written. The lesion combined left occipital cortex with the splenium of the corpus callosum. Visual information from the intact right occipital cortex could no longer cross to the language regions of the left hemisphere; writing — which originates in those language regions and runs out to motor cortex — was unaffected. Reading required a connection the lesion had cut.
 
-**Conduction aphasia.** A deficit Wernicke had predicted on theoretical grounds: speech comprehension intact, speech production intact, but the patient cannot repeat what they have just heard. Geschwind localised the lesion to the arcuate fasciculus, the tract linking posterior language cortex (Wernicke's area) to anterior speech-production cortex (Broca's area). The two language regions remain functional; the conduit between them is severed.
+**Conduction aphasia.** A deficit Wernicke had predicted on theoretical grounds: speech comprehension intact, speech production fluent (though marked by phonemic paraphasias), but the patient cannot repeat what they have just heard. Geschwind localised the lesion to the arcuate fasciculus, the tract linking posterior language cortex (Wernicke's area) to anterior speech-production cortex (Broca's area). The two language regions remain functional; the conduit between them is severed.
 
-**Ideomotor apraxia.** The patient understands a verbal command, can produce the movement spontaneously, has no weakness or sensory loss, but cannot execute the requested action on demand. Liepmann's nineteenth-century cases pointed to lesions disconnecting language areas from motor cortex, often through callosal involvement that prevented left-hemisphere language from reaching right-hemisphere motor regions.
+**Ideomotor apraxia.** The patient understands a verbal command, can produce the movement spontaneously, has no weakness or sensory loss, but cannot execute the requested action on demand. Liepmann's cases from 1900 onward pointed to lesions disconnecting language areas from motor cortex, often through callosal involvement that prevented left-hemisphere language from reaching right-hemisphere motor regions.
 
-Subsequent work extended the framework. Anterograde amnesia in cases sparing the hippocampus itself but severing its limbic-cortical connections fit the same template. Sperry and Gazzaniga's split-brain studies of the 1960s — cutting the corpus callosum to control intractable epilepsy — produced disconnection syndromes at the largest possible scale, with the two hemispheres pursuing partially independent cognitive lives. The post-Sperry callosal literature is now the most-studied chapter of the broader programme.
+Subsequent work extended the framework. Anterograde amnesia in cases sparing the hippocampus itself but severing its limbic-cortical connections fit the same template. Sperry and Gazzaniga's 1960s studies of split-brain patients — whose corpus callosum had been surgically cut to control intractable epilepsy — revealed disconnection syndromes at the largest possible scale, with the two hemispheres pursuing partially independent cognitive lives. The post-Sperry callosal literature is now the most-studied chapter of the broader programme.
 
 ## What the Framework Establishes
 
-The framework is *empirically established* at the level of neuroanatomy and syndrome description, and it has held up across more than half a century of further work. Modern diffusion MRI and tractography have refined the maps; the deeper logic has not been displaced. Several specific claims sit at this established level:
+The framework is *empirically established* at the level of neuroanatomy and syndrome description, and it has held up across more than half a century of further work. Modern diffusion MRI and tractography have refined the maps (Catani & ffytche 2005; Schmahmann & Pandya 2006); the deeper logic has not been displaced. Several specific claims sit at this established level:
 
 - *Higher cognitive functions are distributed.* No single region is the locus of reading, repetition, or skilled action; the functions live in coordinated systems.
-- *White-matter integrity is independently load-bearing.* A lesion in connective tissue can produce a deficit as severe as a cortical lesion, sometimes more so.
+- *White-matter integrity matters independently.* A lesion in the connecting white matter can produce a deficit as severe as a cortical lesion, sometimes more so.
 - *The lesion-deficit map is structured rather than diffuse.* Cutting a specific tract produces a specific, predictable syndrome — not a uniform degradation.
 - *Damaged systems sometimes work in isolation but not in combination.* The component functions can be elicited under task conditions that bypass the severed connection.
 
@@ -68,7 +68,7 @@ These are findings of clinical neurology, supported by neuroimaging, behavioural
 
 A further claim is one the Map is interested in but does not assert at established level: that disconnection syndromes are the cleanest empirical signature of *channel architecture* in the mind-brain interface. The interpretation runs as follows. If consciousness operates through a multi-channel interface — distinct routes for delivering perceptual content, motor instructions, semantic associations, and bilateral coordination — then breaking one channel should produce exactly the pattern disconnection syndromes display: intact local processing, lost cross-system coordination, deficits that follow the tract anatomy rather than the cortical anatomy. The [neurological-dissociations](/topics/neurological-dissociations-as-interface-architecture/) article develops the four-channel reading the Map currently uses; the [clinical-dissociation](/topics/clinical-dissociation-as-systematic-evidence/) article shows that functional disconnection without structural damage produces the same architectural signature.
 
-For a production theory of consciousness — neural activity in certain regions *generates* phenomenal experience — disconnection syndromes are accommodated, not predicted directly. The accommodation requires the additional auxiliary hypothesis that the disconnected functions depend differentially on cortical regions whose products must combine to produce a complex behaviour; the syndrome then reflects the loss of one input to that combination. The accommodation works. What the channel-architecture reading offers is a more direct prediction: a channel-based interface has channels, and channels can be severed.
+A production theory of consciousness — neural activity in certain regions *generates* phenomenal experience — handles disconnection syndromes without strain, because the distributed-function claim it needs is the framework's own established core: functions depend on cortical regions whose outputs must combine, and a severed tract removes one input to that combination. Wernicke derived conduction aphasia from exactly such a neural wiring model before it was observed, so the production side does not merely accommodate the pattern; its connectionist ancestors predicted it. The channel-architecture reading predicts the same pattern — a channel-based interface has channels, and channels can be severed — but it holds no predictive advantage here.
 
 The Map's [filter-theory](/concepts/filter-theory/) treatment uses the disconnection literature in exactly this register. The brain is read as a multi-channel transmitter rather than a producer; disconnection syndromes are then the signature failure mode of a transmitter — the channel is broken, the broadcast is intact, the receiver simply does not get this part of it. The reading is *consistent* with disconnection neuroscience and is not the only reading consistent with it. Production-with-differential-dependency is also consistent. Without an independent discriminator, the case is empirically underdetermined and routes to compatibility rather than support, as the [evidential-status discipline](/project/evidential-status-discipline/) requires.
 
@@ -87,7 +87,7 @@ Citation discipline for catalogue articles using this concept page:
 
 ## Relation to Site Perspective
 
-**Dualism (Tenet 1).** Disconnection neuroscience does not, on its own, refute production theories of consciousness; the empirical pattern can be accommodated within materialism by appeal to differential cortical-area dependency. What the framework does is *constrain* the simplest production reading. If higher cognition were the unified output of a single integrated neural system, surgically cutting a white-matter tract should produce diffuse degradation rather than the structured, channel-specific deficits the literature catalogues. The Map reads the structured pattern as compatible with — and naturally accommodated by — the interface reading the Dualism tenet underwrites: consciousness operating through a multi-channel interface rather than being identical to the neural substrate it engages.
+**Dualism (Tenet 1).** Disconnection neuroscience does not, on its own, refute production theories of consciousness; the empirical pattern can be accommodated within materialism by appeal to differential cortical-area dependency. What the framework does is rule out the crudest production reading — one no current production theorist holds. If higher cognition were the unified output of a single integrated neural system, cutting a white-matter tract should produce diffuse degradation rather than the structured, tract-specific deficits the literature catalogues. The Map reads the structured pattern as compatible with — and naturally accommodated by — the interface reading the Dualism tenet underwrites: consciousness operating through a multi-channel interface rather than being identical to the neural substrate it engages.
 
 **Bidirectional Interaction (Tenet 3).** On the channel-architecture reading the Map develops, the split between ascending channels (sensory content reaching consciousness) and descending channels (consciousness acting on the body) tracks the disconnection pattern with notable cleanness. Alexia-without-agraphia is then an ascending failure: visual information cannot reach the linguistic system. Ideomotor apraxia is a descending failure: linguistic intention cannot reach motor execution. Conversion paralysis, in the [clinical-dissociation](/topics/clinical-dissociation-as-systematic-evidence/) literature, produces the descending failure pattern without any structural lesion at all, which the [consciousness-disruption](/topics/consciousness-disruption-and-the-mind-brain-interface/) article takes as additional evidence for the channel reading. The bidirectional architecture is what disconnection syndromes selectively damage, channel by channel — on this reading. The tract anatomy alone does not force the ascending/descending split; the split is the channel reading's signature, not the data's deliverance.
 
