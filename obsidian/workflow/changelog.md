@@ -5,6 +5,13 @@ ai_modified: '2026-09-25T15:16:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-25T17:31:40+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/motor-control-quantum-zeno]]
+- **Original score**: n/a (scripts/curate.py absent); targeted calibration fix from reviews/optimistic-2026-09-17-quantum-mechanism-wing.md concern 2
+- **Changes**: L38 thesis attributed to the Map ("On the Map's view ... involves") and "no longer whether the neuroscience permits ... it does" replaced with "removes the strongest evidence against a conscious role; whether consciousness fills it depends on a mechanism supplying real indeterminacy", linked to The Agency Question; L83 "satisfies ... Consciousness does not generate force; it resolves" (also a banned not-X-it-Y construction) made conditional ("would satisfy ... would add no force, only resolve indeterminacy ... if a sub-classical source exists"); L125 same construction rephrased conditionally; L131 Occam list drops the Cai et al. dopamine item (a neural-determinist result, not an anomaly for it). Bandwidth at L81/L125: Nørretranders 1998 "10-50 bits/s" -> Zheng & Meister 2025 (Neuron 113(2):192-204) ~10 bits/s, reference entry copied from concepts/stapp-quantum-mind; Nørretranders reference removed (no other citation). L99/L115/L119 untouched. Length 3254 -> 3267 (topics hard 4000). Synced; hugo tree verified.
+- **Published**: yes
+
 ## 2026-09-25T17:01:27+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-in-smeared-quantum-states]] (+ sibling [[concepts/measurement-problem]])
