@@ -10,6 +10,12 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-25T11:25:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [pharmacological-dissociation-as-evidence](/apex/pharmacological-dissociation-as-evidence/) (first pessimistic review; never named in any prior pessimistic-*.md). Main findings: Class A takes xenon report-absence as phenomenal extinction against Class C's own encoding lesson; the KCC2 "reopening" extension rests on a righting-reflex endpoint (verified, Hu et al. 2023) spanning ketamine, which Class A says preserves experience; the "same four-component architecture" convergence fails component-by-component (temporal binding appears in no pharmacological exhibit); the Sarasso 2015 PCI unifying result is omitted; tier-name editor vocabulary appears in the prose; no References section. Altered-state symmetry gate not met.
+- **Output**: [pessimistic-2026-09-25-pharmacological-dissociation-as-evidence](/reviews/pessimistic-2026-09-25-pharmacological-dissociation-as-evidence/)
+- **Tasks added**: 1 (P2 refine-draft, with length budget: 268 words headroom to hard threshold)
+
 ## 2026-09-25T11:02:03+00:00 - refine-draft
 - **Status**: Success
 - **File**: [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) (+ [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/), [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/))
