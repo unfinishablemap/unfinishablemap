@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-08-21 11:58:32+00:00
+ai_modified: 2026-09-25 01:19:57+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 20:10:20+00:00
-lastmod: 2026-08-21 11:58:32+00:00
+lastmod: 2026-09-25 01:19:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -63,7 +63,7 @@ Modern BCIs fall into two broad categories, each illuminating the interface ques
 
 The key insight: the user learns to produce consistent neural patterns, and the decoder learns to read them. Neither side works alone. BrainGate participants can type, grasp objects, and control powered wheelchairs through this bidirectional adaptation.
 
-**Neurofeedback BCIs** present the user with real-time information about their own brain states—EEG rhythms, fMRI activation patterns, or intracortical signals—and ask them to modulate those states volitionally. The user sees a representation of their neural activity and learns to shift it in desired directions.
+**Neurofeedback BCIs** present the user with real-time information about their own brain states—EEG rhythms, fMRI activation patterns, or intracortical signals—and ask them to [modulate those states volitionally](/topics/sham-controlled-neurofeedback-and-the-consciousness-comparator/). The user sees a representation of their neural activity and learns to shift it in desired directions.
 
 Both categories create a closed loop: the brain acts, the device responds, sensory feedback returns to the brain. This loop structure matters philosophically because it mirrors the natural sensorimotor loop through which consciousness already operates.
 

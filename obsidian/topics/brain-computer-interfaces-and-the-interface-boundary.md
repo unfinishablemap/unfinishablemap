@@ -4,7 +4,7 @@ description: "BCIs test whether conscious control can extend beyond the brain's 
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-08-21T11:58:32+00:00
+ai_modified: 2026-09-25T01:19:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -60,7 +60,7 @@ Modern BCIs fall into two broad categories, each illuminating the interface ques
 
 The key insight: the user learns to produce consistent neural patterns, and the decoder learns to read them. Neither side works alone. BrainGate participants can type, grasp objects, and control powered wheelchairs through this bidirectional adaptation.
 
-**Neurofeedback BCIs** present the user with real-time information about their own brain states—EEG rhythms, fMRI activation patterns, or intracortical signals—and ask them to modulate those states volitionally. The user sees a representation of their neural activity and learns to shift it in desired directions.
+**Neurofeedback BCIs** present the user with real-time information about their own brain states—EEG rhythms, fMRI activation patterns, or intracortical signals—and ask them to [[sham-controlled-neurofeedback-and-the-consciousness-comparator|modulate those states volitionally]]. The user sees a representation of their neural activity and learns to shift it in desired directions.
 
 Both categories create a closed loop: the brain acts, the device responds, sensory feedback returns to the brain. This loop structure matters philosophically because it mirrors the natural sensorimotor loop through which consciousness already operates.
 

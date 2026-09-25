@@ -4,7 +4,7 @@ description: "The brain's ability to reorganize through experience—and what Sc
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-09-02T17:29:27+00:00
+ai_modified: 2026-09-25T01:19:57+00:00
 last_deep_review: 2026-07-16T18:45:00+00:00
 draft: false
 topics:
@@ -137,7 +137,7 @@ A thorough materialist can interpret the same data as complex neural self-modifi
 
 What neuroplasticity does establish: mental effort has physical consequences. Whatever the ultimate mechanism, something that presents itself phenomenologically as *deciding to redirect attention* correlates with *changes in brain structure*. The correlation itself is symmetric between the two accounts: it is exactly what interactionism predicts, and—by the neural-intention → neural-attention → neural-reorganisation pathway the epiphenomenalist response above lays out—exactly what epiphenomenalism predicts too. So the correlation alone discriminates nothing. What tilts the Map toward interactionism is a further and openly contestable consideration: the phenomenology-tracking argument (see [[mental-effort]]), on which the felt difference between effortful attention and passive drift tracks genuine difficulty. If that tracking is causally idle, epiphenomenalism must treat the phenomenology as systematically misleading about its own causal role—a cost it can bear, but does not escape.
 
-A fair test: if purely mechanical interventions (drugs, transcranial magnetic stimulation, or surgical lesions) could replicate all the effects of cognitive therapy—including the specific, intentional redirection of thought patterns—the interactionist interpretation would be weakened. The current evidence suggests they cannot fully substitute, but this remains an open empirical question.
+A [[sham-controlled-neurofeedback-and-the-consciousness-comparator|fair test]]: if purely mechanical interventions (drugs, transcranial magnetic stimulation, or surgical lesions) could replicate all the effects of cognitive therapy—including the specific, intentional redirection of thought patterns—the interactionist interpretation would be weakened. The current evidence suggests they cannot fully substitute, but this remains an open empirical question.
 
 ## Relation to Site Perspective
 

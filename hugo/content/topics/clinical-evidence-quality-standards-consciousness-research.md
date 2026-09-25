@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-09-07 20:50:07+00:00
+ai_modified: 2026-09-25 01:19:57+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-28 22:54:18+00:00
-lastmod: 2026-09-07 20:50:07+00:00
+lastmod: 2026-09-25 01:19:57+00:00
 modified: *id001
 related_articles:
 - '[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]'
@@ -50,7 +50,7 @@ The gap has three components:
 
 **Underdetermination.** Clinical findings in consciousness research are typically compatible with both dualist and physicalist interpretations. Schwartz's OCD PET data — caudate metabolic normalisation after cognitive-behavioural intervention — is consistent with genuine [mental causation](/concepts/mental-causation-and-downward-causation/) (a conscious decision reshapes the brain — the reading Schwartz, Stapp & Beauregard (2005) formalise within a quantum mind–brain model) and with Hebbian learning (changed behaviour changes neural firing patterns through standard [synaptic plasticity](/concepts/neuroplasticity/)). The data alone cannot adjudicate. This underdetermination is not a flaw in the studies but a structural feature of the domain: any third-person measurement of a system that may include irreducible first-person aspects will be interpretable from within a framework that denies those aspects.
 
-**The missing comparator.** In drug trials, placebo controls isolate the active ingredient. In consciousness research, there is no "consciousness placebo" — no way to run a clinical intervention with all the same physical components minus the conscious experience. Every human participant is conscious during therapy. This makes it impossible to construct the control condition that would directly test whether consciousness contributes to the outcome.
+**The missing comparator.** In drug trials, placebo controls isolate the active ingredient. In consciousness research, there is no "[consciousness placebo](/topics/sham-controlled-neurofeedback-and-the-consciousness-comparator/)" — no way to run a clinical intervention with all the same physical components minus the conscious experience. Every human participant is conscious during therapy. This makes it impossible to construct the control condition that would directly test whether consciousness contributes to the outcome.
 
 **Level-crossing inference.** Clinical evidence operates at the level of neural correlates, behavioural outcomes, and subjective reports. Metaphysical conclusions about consciousness operate at the level of ontology and causation. Moving from one to the other requires bridging principles that are themselves philosophically contested. A materialist's bridging principle (neural correlates exhaust the phenomena) differs from a dualist's (neural correlates constrain but do not constitute experience), and the clinical data cannot choose between them.
 

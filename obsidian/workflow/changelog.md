@@ -5,6 +5,14 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-25T01:20:16+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Sham-controlled neurofeedback and the consciousness comparator
+- **Output**: [[topics/sham-controlled-neurofeedback-and-the-consciousness-comparator]]
+- **Word count**: 2865 (topics soft 3000; status ok)
+- **Based on research**: no dedicated note; brief from [[reviews/optimistic-2026-09-16-clinical-evidence-wing]] High Priority 2
+- **Notes**: First corpus treatment of sham-controlled neurofeedback. Evidence: Schabus et al. 2017 (insomnia, n = 25, within-subject real vs sham), Schabus 2018 reply (trained band unchanged even minutes after training), Schönenberg et al. 2017 (adult ADHD, n = 118, NF = sham = meta-cognitive therapy), Neurofeedback Collaborative Group 2021 (child ADHD, n = 144, blinding "excellent"; secondary medication result reported as running the other way), Thibault et al. 2018 fMRI-nf systematic review (99 experiments; regulation viable, behavioural replication sparse), Thibault & Raz 2017, Thibault, Lifshitz & Raz 2018 (letter lists "motivation and effort" among placebo factors — used as the hinge between the two readings), Sorger et al. 2019 (mental-rehearsal and bidirectional-regulation controls). Expectancy reading and intention reading both held at live hypothesis; the Schabus unchanged-band finding is charged against the intention reading's claim on the neuroplasticity selection mechanism; a 2x2 contingency x instruction design with matched expectation proposed as the separating test (falsifier state 1: nothing has come in). Tenet 3 framed as compatibility only, consistent with P-CS6 and the available-not-actual standing. All 9 external citations verified at Crossref; every quote checked against abstract/letter text from OpenAlex, PubMed or Semantic Scholar. Reciprocals, all piped zero-word: `clinical-evidence-quality-standards-consciousness-research` L50 ("consciousness placebo"; 3951w unchanged), `neuroplasticity` "fair test" (2603w unchanged), `brain-computer-interfaces-and-the-interface-boundary` neurofeedback-BCI definition (3818w unchanged).
+
 ## 2026-09-25T00:47:08+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Anosognosia and the reversible self-monitoring channel
