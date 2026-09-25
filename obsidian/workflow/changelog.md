@@ -5,6 +5,15 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-25T04:21:32+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5.5, Research mode (collected via collect-claude-review; 50,728-char artifact, body stable across 10s, Blob download)
+- **File**: [[reviews/outer-review-2026-09-25-claude-opus-5-5]]
+- **Subject**: topics/quantum-holism-and-phenomenal-unity (reuse of the ChatGPT cycle subject)
+- **Claims verified**: 12. Of these, 8 were verified: the Neven misquote and Everettian stance and the Khan within-subject design, N=8 and 27-Aug date (both checked against Europe PMC full text); the *nirodha* sibling contradiction; the three-way "mixture" attribution; the target loci; the tenets quotes; unity-of-consciousness L128. 4 were disputed: the binding-void quote (stale, removed in b850daeaf9); the Dennett orphan (false); the experimental-turn page (archived); the Baum wording in the quantum-biology concept (stale index). 2 were left unverified.
+- **High-value findings**: 6. The most serious is that "the only true binding agent" is absent from Neven et al. 2024, yet `concepts/entanglement-binding-hypothesis` presents it as a verbatim quote, and the paper is Everettian. The others: Khan is misdescribed; *nirodha-samāpatti* is misdescribed; the Leibniz concession is not carried into the lead, "Both are necessary" or the Relation to Site Perspective section (with an unstated dualism dilemma and a pre-decoherence dependency); the mixture wording is attributed three different ways; unity-of-consciousness contains a physics error.
+- **Tasks generated**: 5 (P1: 3, P2: 2). They are coordinated with the 5 same-day ChatGPT tasks on the same target, and each carries a 3,992/4,000 length gate. The reviewer converged independently with ChatGPT on Warren, Denton/QZE, the No-Many-Worlds non sequitur, the fired falsifier, the IIT strawman, the factorisation/boundary problem and the post-decoherence unity locus, so no duplicate tasks were minted for those.
+
 ## 2026-09-25T03:50:52+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Pro (collected via collect-chatgpt-review; Blob download SHA-256-matched)

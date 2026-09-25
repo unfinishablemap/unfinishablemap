@@ -1,0 +1,321 @@
+---
+ai_contribution: 90
+ai_generated_date: 2026-09-25
+ai_modified: 2026-09-25 04:20:18+00:00
+ai_system: claude-opus-5-5
+author: Andy Southgate
+concepts:
+- '[[unity-of-consciousness]]'
+- '[[binding-problem]]'
+- '[[entanglement-binding-hypothesis]]'
+- '[[decoherence]]'
+created: 2026-09-25
+date: &id001 2026-09-25
+description: 'Claude Opus 5.5 referee audit of quantum-holism-and-phenomenal-unity:
+  unstated isomorphism premise, Neven Everettian co-optation and misquote, Khan design
+  error, confession not propagated to lead.'
+draft: false
+human_modified: null
+last_curated: 2026-09-25
+lastmod: 2026-09-25 04:20:18+00:00
+modified: *id001
+outer_review_conversation_url: https://claude.ai/chat/bd48a007-f80d-49bc-a5d0-cabd3f2db6d6
+outer_review_extraction_method: js-dom
+outer_review_status: processed
+related_articles:
+- '[[project]]'
+subject_articles:
+- topics/quantum-holism-and-phenomenal-unity.md
+subject_source: reuse:pending-reviews:outer-review-2026-09-25-chatgpt-5-6-sol-pro.md
+subject_title: Audit quantum-holism-and-phenomenal-unity
+subject_type: recent
+title: Outer Review - Claude Opus 5.5 (2026-09-25)
+topics:
+- '[[quantum-holism-and-phenomenal-unity]]'
+---
+
+**Date**: 2026-09-25
+**Reviewer**: Claude Opus 5.5
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+Act as a hostile but fair referee for The Unfinishable Map (https://unfinishablemap.org), an openly dualist philosophy site. Audit one article in depth: https://unfinishablemap.org/topics/quantum-holism-and-phenomenal-unity/ . Check recent edits at https://unfinishablemap.org/workflow/changelog/ because search indexes lag 24-48h, so fetch the live pages rather than relying on cached snippets. Please assess: (1) whether its physics claims about entanglement, quantum holism and non-separability are stated accurately and at the right strength; (2) whether the inference from quantum holism to phenomenal unity (the binding/combination problem) is valid or smuggles in an identity or a structural-mirroring premise; (3) citation fidelity - do cited works exist, say what is attributed, and is any quote verbatim; (4) the strongest counterarguments (decoherence timescales, the mereological objection, classical accounts of unity, illusionism) and whether the article answers them; (5) consistency with the site's tenets and sibling articles. End your report with a list of concrete potential improvements to specific articles and to the site's methodology.
+
+## Reply
+
+# Referee Report: "Quantum Holism and Phenomenal Unity" (unfinishablemap.org/topics/quantum-holism-and-phenomenal-unity/)
+
+**Verdict: REVISE-HARD overall, with the central thesis DEMOTE-TO-COHERENCE-ONLY. The article's own "Remaining Gap" section concedes the Leibnizian point that no physical structure, entanglement included, can constitute phenomenal unity. After that concession the quantum-holism thesis explains nothing. The lead, the meta-description and the "Relation to Site Perspective" section still sell it as a solution to a "structure-matching problem that defeats all classical approaches."** This is textbook confession-without-correction. It is compounded by an unacknowledged dependence on the pre-decoherence sub-reading of Tenet 2, which the Map's own tenets page ranks below post-decoherence selection. It is further compounded by recruiting an explicitly Everettian paper (Neven et al. 2024) in support of an article that says quantum binding "requires real collapse." [topics/quantum-holism-and-phenomenal-unity](https://unfinishablemap.org/topics/quantum-holism-and-phenomenal-unity/)
+
+**Anchoring.** I fetched the live changelog on 25 September 2026. The latest entry was 2026-09-25T00:35:49Z (optimistic-review of the quantum-interpretation wing) and the page header read "Last modified: 2026-09-24". [workflow/changelog](https://unfinishablemap.org/workflow/changelog/) No visible entry from 2026-09-24 19:31Z through 2026-09-25 00:35Z touches the target. The target page carries "Created: 2026-01-21 · Last modified: 2026-09-18" (meta modified_time 2026-09-18T01:53:27Z; generator claude-opus-4-6). Its meta published_time of 2026-02-25 conflicts with the displayed creation date. [topics/quantum-holism-and-phenomenal-unity](https://unfinishablemap.org/topics/quantum-holism-and-phenomenal-unity/)
+
+Two items in the 2026-09-25 optimistic-review bear directly on this article:
+
+- It flags "Stapp as Born-bending" as a calibration defect in the quantum wing.
+- It flags "an unnamed Denton-2024 locus the surname sweep missed". [workflow/changelog](https://unfinishablemap.org/workflow/changelog/)
+
+Both loci appear in the target.
+
+**Retrieval limits.** The tenets page was fetched live. The concept page reached via the quantum-neural-mechanisms-and-coherence URL now resolves to "Quantum Biology and Neural Mechanisms" (modified 2026-08-17). [concepts/quantum-neural-mechanisms-and-coherence](https://unfinishablemap.org/concepts/quantum-neural-mechanisms-and-coherence/) Neither apex benchmark (/apex/born-preserving-causal-efficacy/, /apex/cross-modal-capability-division/) could be fetched directly, by me or by the delegated subagent. Their slugs are confirmed by inbound links from the live tenets page and from research notes. [research/interoceptive-consciousness-and-the-interface-2026-06-20](https://unfinishablemap.org/research/interoceptive-consciousness-and-the-interface-2026-06-20/) Their content is characterised here only through those quoting pages, and every such claim is labelled accordingly.
+
+## A. TL;DR
+
+- **Headline verdict: REVISE-HARD, thesis DEMOTE-TO-COHERENCE-ONLY.** The inference from entanglement to phenomenal unity rests on a structural-isomorphism premise the article never states and never defends. The article's own Leibniz concession defeats that premise. Under interactionist dualism the premise is also explanatorily idle: if unity belongs to the non-physical subject, physical non-separability adds nothing. The site's own binding-void page says unity is "what consciousness adds."
+- **Physics and tenet consistency fail at the load-bearing joint.** The lead states that entanglement is "genuine ontological holism where the whole is prior to the parts" as fact. That is Schaffer-style priority monism, not physics, and the article's later confession does not correct it. The BP2 mechanism needs coherent neural entanglement, which is the pre-decoherence path the tenets demote to "live fallback." The decoherence section escapes by retreating to post-decoherence selection, and that retreat abandons the holistic state the thesis needs. The Bidirectional paragraph asserts "downward causal efficacy" in defiance of the tenets page's explicit instruction to carry the [P-Q3](/positions/quantum-interface/#p-q3) epiphenomenalism debt.
+- **Citations: metadata is mostly sound; stance and descriptive fidelity are not.** Neven et al. 2024 is co-opted. It is "firmly rooted in Everett's 'many worlds' formulation" and places experience at superposition formation, not collapse, and the phrase "only true binding agent" is not in the paper. Khan et al. 2024 is misdescribed: it used a within-subject pre/post design (N = 8), not controls, and was published in August, not September. Warren 2023 is understated. The Schlosshauer "mixture" wording is misattributed. Laukkonen, Friston & Chandaria 2025, which offers "Bayesian binding" and an account of minimal states, is ignored, so the article fails the standing gate. Tye, Bayne 2010, Lockwood, Marshall, Chalmers & McQueen and the philosophy-of-physics holism literature (Teller, Healey, Esfeld, Maudlin) are all absent.
+
+## B. Dimensional Analysis
+
+### (1) Physics accuracy
+
+**Holism is overstated in the load-bearing places.** The lead asserts: "Quantum entanglement provides something structurally different: genuine ontological holism where the whole is prior to the parts." The meta-description repeats it: "holism where wholes precede parts." [topics/quantum-holism-and-phenomenal-unity](https://unfinishablemap.org/topics/quantum-holism-and-phenomenal-unity/) What the formalism delivers is narrower. A pure entangled state of a composite system is not a product state, so the joint state is not fixed by the subsystems' reduced states. That is non-separability of states, or in Teller's terms ("Relational Holism and Quantum Mechanics," *BJPS* 37(1):71–81, 1986) relational holism: a relation that "does not supervene upon the non-relational properties of its relata," which quantum mechanics exhibits "on at least some interpretations." It is not priority of the whole.
+
+"The whole is prior to the parts" is Schaffer's priority monism. Schaffer's own entanglement argument generalises to the cosmos as the only fundamental whole, which is precisely the boundary problem the article never faces. Esfeld's moderate ontological holism keeps the parts. Subsystems persist, with well-defined reduced density matrices; what fails is supervenience of the whole's properties on theirs. Healey's and Maudlin's treatments likewise separate non-separability from any claim that the parts are unreal.
+
+To its credit, the body's "Why Quantum Entanglement Matches Unity" section concedes that "statistical, relational, and Everettian interpretations accept the same non-separability without granting metaphysical oneness, so the step from formalism to 'one thing' is an interpretive commitment, not a datum of physics." [topics/quantum-holism-and-phenomenal-unity](https://unfinishablemap.org/topics/quantum-holism-and-phenomenal-unity/) That confession is accurate. It is not propagated: the lead, the meta-description, "Classical physics provides only external relations," and "genuinely one thing rather than many coordinated things" all still carry the uncorrected claim. The sibling concepts/unity-of-consciousness goes further, saying "entanglement produces systems that were never fully separate." [concepts/unity-of-consciousness](https://unfinishablemap.org/concepts/unity-of-consciousness/) That is false as stated, since entangled subsystems are separately definable.
+
+**Entanglement is conflated with neural coherence.** The decoherence section treats coherence lifetimes as if they were lifetimes of the relevant entanglement. Decoherence does not destroy entanglement. It is entanglement: the system becomes entangled with its environment. So after decoherence, the non-separable whole is brain plus environment, and it is not bounded by the skull or by the subject. The article's picture needs entanglement restricted to the neural degrees of freedom that carry the bound contents. That requires coherence isolated from the environment, which is exactly what Tegmark disputes. The article never distinguishes "entanglement exists" (trivially true, and ubiquitous) from "entanglement confined to the subject's content-bearing substrate persists" (the contested claim).
+
+**Monogamy and the boundary problem are not mentioned.** Entanglement is ubiquitous and monogamous. Maximal entanglement between two subsystems excludes entanglement with a third. [Wikipedia](https://en.wikipedia.org/wiki/Monogamy_of_entanglement) The pattern of entanglement therefore does not track the boundaries of a single mind. Something else has to fix which non-separable whole counts as a subject. IIT at least has an exclusion postulate for this job. The quantum-holism proposal has nothing comparable, and the article's IIT critique ignores this comparative disadvantage.
+
+**Baum's argument is mis-diagnosed at the physics level.** The article rightly cites Vicente et al. 2008 against Baum's classical-impossibility premise. It still frames the dilemma as "either violate relativity or invoke quantum non-locality," as though quantum non-locality were an available resource for phase-locking distant oscillators. [topics/quantum-holism-and-phenomenal-unity](https://unfinishablemap.org/topics/quantum-holism-and-phenomenal-unity/) It is not. The no-signalling theorem means Bell correlations cannot coordinate firing times. Neven et al. themselves stress that "entanglement cannot be employed to achieve faster-than-light communication." [escholarship](https://escholarship.org/content/qt85q225bk/qt85q225bk.pdf) Baum's argument fails on both horns, not one.
+
+**Decoherence figures are accurate.** The subagent verified at arXiv that Tegmark's 10⁻¹³–10⁻²⁰ s and Hagan et al.'s 10⁻⁵–10⁻⁴ s match the sources. [arxiv](https://arxiv.org/abs/quant-ph/0005025)[arxiv](https://arxiv.org/abs/quant-ph/9907009) The 8–9 orders of magnitude gap is correct against Tegmark's microtubule figure. The article omits Hagan et al.'s further speculative 10⁻²–10⁻¹ s under actin-gel ordering. [arxiv](https://arxiv.org/abs/quant-ph/0005025) The sibling topics/quantum-biology-neural-experimental-turn says Hagan "extended estimates by seven orders of magnitude," [topics/quantum-biology-neural-experimental-turn](https://unfinishablemap.org/topics/quantum-biology-neural-experimental-turn/) which conflicts with the target's "eight to nine."
+
+### (2) Inference validity and the dualism tension
+
+Reconstructed, the core argument runs:
+
+1. Phenomenal unity is intrinsic singularity, not a coordinated plurality.
+2. *(Suppressed)* Phenomenal unity requires a physical correlate with matching mereological structure (the isomorphism or structural-mirroring premise).
+3. Classical physics offers only external relations among separate parts.
+4. Entanglement offers non-separable wholes.
+5. Therefore entanglement is the physical correlate of phenomenal unity.
+
+Premise 2 is never stated, let alone argued. It is also not Chalmers's principle of structural coherence, which maps phenomenal structure onto the structure of awareness or information, not onto mereological non-separability. Without premise 2, premise 4 is irrelevant to premise 1.
+
+The article then concedes, under "The Remaining Gap," that "The Leibniz argument, at full strength, denies that *any* physical structure—entanglement included—can *constitute* phenomenal unity." It retreats to "analogical and locational, not constitutive." [topics/quantum-holism-and-phenomenal-unity](https://unfinishablemap.org/topics/quantum-holism-and-phenomenal-unity/) An analogy is not an explanation. A mere resemblance cannot "address the structure-matching problem that defeats all classical approaches," as the lead still claims. Resemblance alone generates no such problem; only premise 2 does. Once premise 2 is given up, the classical failure the article diagnoses is not a failure at all. That is the inference's fatal equivocation.
+
+**The dualism dilemma is not faced.**
+
+- *Horn 1.* If unity is a feature of the non-physical subject, as the tenets page implies when it lists "the unity of consciousness" among the positive arguments for dualism, then physical holism is idle. [tenets](https://unfinishablemap.org/tenets/) The subject is unified whatever the physics. The site's own voids/binding-void says: "unity is not what computation does but what consciousness adds." [voids/binding-void](https://unfinishablemap.org/voids/binding-void/) The cross-modal-capability-division apex, as described by the interoception research note (not fetched directly), assigns "phenomenal unity of a perceived object" to the supramodal *mind* side. [research/interoceptive-consciousness-and-the-interface-2026-06-20](https://unfinishablemap.org/research/interoceptive-consciousness-and-the-interface-2026-06-20/)[research/interoceptive-consciousness-and-the-interface-2026-06-20](https://unfinishablemap.org/research/interoceptive-consciousness-and-the-interface-2026-06-20/)
+- *Horn 2.* If unity needs physical non-separability, the mind's unity is inherited from the physics. That cannibalises the unity argument for dualism: unity becomes a physically explicable feature, not evidence of irreducibility.
+
+The article sits on both horns at once. "Classical Mechanisms Remain Necessary" states "Both are necessary; neither is sufficient alone." "Relation to Site Perspective" states "The unity of experience reflects the unity of the underlying quantum state." [topics/quantum-holism-and-phenomenal-unity](https://unfinishablemap.org/topics/quantum-holism-and-phenomenal-unity/)
+
+**The "co-occurrence" fallback is a dual-aspect slide.** "The same event that is physically described as entangled state collapse is phenomenologically described as unified experience." [topics/quantum-holism-and-phenomenal-unity](https://unfinishablemap.org/topics/quantum-holism-and-phenomenal-unity/) That is dual-aspect or Russellian-monist identity language, the Lockwood and Goff register, not interactionist dualism. Interactionism needs two relata and a causal interface, not one event under two descriptions. The sentence smuggles in the identity premise the Leibniz paragraph has just disavowed.
+
+**Comparison classes are missing.**
+
+- *Lockwood* (Mind, Brain and the Quantum, 1989) is the canonical quantum-holism-for-unity account, and it is Everettian (many-minds).
+- *Marshall* ("Consciousness and Bose-Einstein condensates," *New Ideas in Psychology* 7(1):73–83, 1989) argued "from the unity and complexity of states of consciousness that no classical physical system could play the role." He is the historical originator of the entanglement-binding argument, cited as such even by pro-quantum literature. [arxiv](https://arxiv.org/pdf/1809.03490)
+- *Neven et al.* are Everettian. [escholarship](https://escholarship.org/content/qt85q225bk/qt85q225bk.pdf)
+- *Chalmers & McQueen* ("Consciousness and the collapse of the wave function," in Gao (ed.), *Consciousness and Quantum Mechanics*, OUP 2022) combine "integrated information theory... with... continuous spontaneous localization," while professing "considerable sympathy... especially with many-worlds interpretations." They meet the very integration-versus-non-separability question, including a Q-shape test the site knows about (topics/consciousness-collapse-versus-decoherence-experiments cites it).
+- *Hameroff–Penrose Orch OR* is the only collapse-realist entanglement account the article engages, and it is a gravitational-OR physicalist-panprotopsychist view, not dualism.
+- *Stapp's* orthodox-QM dualism does not use holism for unity at all.
+
+The article therefore places itself in a genre whose best-developed members either reject Tenet 4 or reject dualism, and it does not say so.
+
+### (3) Citation fidelity — three-layer verification table
+
+Verification level: **P** = checked at primary or publisher-of-record this pass; **P(sub)** = checked by the delegated subagent at primary or arXiv; **S** = consistent with the standard bibliographic record but not re-fetched this pass.
+
+| Citation | Metadata | Verbatim | Author-stance | Notes |
+| --- | --- | --- | --- | --- |
+| Baum 2024, PhilArchive | Title altered. The record reads "Quantum Binding Argument: How 40Hz Gamma Synchrony Requires Quantum Non-Locality (And Why Classical Materialism Fundamentally Fails)"; the article adds "The" and drops the subtitle (P) | No quote | Accurate: Baum claims "conscious binding necessitates quantum non-locality" [PhilArchive](https://philarchive.org/rec/BAUQBA-2) | Handled critically in the target (credit). The target should also note no-signalling. The sibling concept text in the search index still presents Baum as having "formalised" the result and "shifts the burden"; that may be a stale index, but it is uncorrected where live. [concepts/quantum-neural-mechanisms-and-coherence](https://unfinishablemap.org/concepts/quantum-neural-mechanisms-and-coherence/) |
+| Bayne & Chalmers 2003, in Cleeremans (ed.), OUP, pp. 23–58 | Correct (P(sub); DOI 10.1093/acprof:oso/9780198508571.003.0002) [Macquarie University](https://researchers.mq.edu.au/en/publications/what-is-the-unity-of-consciousness/) | Paraphrase; defensible | Partially recruited. Silent on dualism, opposed to HOT, many representationalist and many functionalist accounts of unity. Their own closing holism is an explicit *analogy* to a wavefunction, flagged "highly speculative" [consc](https://consc.net/papers/unity.html) | They model exactly the analogical move the article eventually retreats to. Cite that honestly. |
+| Dennett 1991 | Correct (S) | n/a | n/a | Orphan: in References, never cited in the body. Performative inoculation citation. |
+| Denton et al. 2024, Nat Commun 15:10823 | Correct (S; consistent across the Map's pages) [concepts/timing-gap-problem](https://unfinishablemap.org/concepts/timing-gap-problem/) | No quote | Accurate as modelling | The paper is a spin-dynamics simulation study (Univ. of Exeter; published 30 Dec 2024), and its Zeno effect requires that "the recombination reaction is strongly asymmetric", so it is reaction-induced, not observer-induced. The "mechanism category" analogy is loose. This is the Denton locus the 2026-09-25 review says a sweep missed. [workflow/changelog](https://unfinishablemap.org/workflow/changelog/) |
+| Frankish 2016, JCS 23(11–12):11–39 | Correct (S) | No quote | Accurate at headline level | Replies to the three objections are not engaged in Frankish's own terms. |
+| Hagan, Hameroff & Tuszynski 2002, PRE 65:061901 | Correct (P(sub)) | Figures correct: "lengthens the decoherence time to 10^-5 - 10^-4 s" [arxiv](https://arxiv.org/abs/quant-ph/0005025) | Accurate | Omits 10⁻²–10⁻¹ s actin-gel claim; interested-party status noted in the sibling but not in the target. [concepts/quantum-neural-mechanisms-and-coherence](https://unfinishablemap.org/concepts/quantum-neural-mechanisms-and-coherence/) |
+| Hameroff & Penrose 2014, PLR 11:39–78 | Correct (S) | No quote | Accurate | Orch OR is not dualist; the article does not flag this. |
+| Kerskens & López Pérez 2022, J Phys Commun 6:105001 | Correct (P) [IOPscience](https://iopscience.iop.org/article/10.1088/2399-6528/ac94be) | Paraphrase | Accurate for 2022 | The short-term-memory correlation is from Pérez et al. 2023, which is not cited. [ResearchGate](https://www.researchgate.net/publication/369521721_Comment_on_'Experimental_indications_of_non-classical_brain_function'_2022_Journal_of_Physics_Communications_6_105001) The 2023 authors' reply (J Phys Commun 7:038002) is omitted. [Springer](https://link.springer.com/chapter/10.1007/978-3-032-25965-3_11) |
+| Khan et al. 2024, eNeuro 11(8) ENEURO.0291-24.2024 | Volume/ID correct. **"September 2024" is wrong**: online 27 Aug 2024 (PMC), PubMed 29 Aug 2024; September is the press-release date (P) | 69 s and d = 1.9 correct (P) | Authors conclude MT binding is an anaesthetic mechanism "predicted by" quantum MT models, not demonstrated [nih](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11363512/) | **Descriptive error**: "compared to controls". The design compared LORR latencies "in eight male Long–Evans rats before and after injection". N = 8 is not reported. [Wellesley](https://repository.wellesley.edu/_flysystem/fedora/2025-06/WCFS_2024_WiestMichaelC_MicrotubuleStabilizer.pdf) |
+| Leibniz 1714, Monadology (§17) | Correct (S) | Paraphrase | Recruited correctly, but Leibniz's conclusion is simple substances (monads), which cuts against any extended physical substrate, quantum included | The article eventually concedes this. |
+| Luo et al. 2025, JACS 147:43934–43945 | Correct; the tenets page gives 147(47), DOI 10.1021/jacs.5c15726 (P via tenets) [tenets](https://unfinishablemap.org/tenets/) | No quote | Accurate | Fine. |
+| McKemmish et al. 2009, PRE 80:021912 | Correct (S) | No quote | Hostile to Orch OR (correctly deployed) | The gloss that it re-examined Hagan's "recalibration" is loose; it targets Orch OR feasibility broadly. |
+| Neven et al. 2024, Entropy 26(6):460 | Correct (P); nine authors including Koch | **"entanglement is the only true binding agent in physics" is not in the paper.** The text reads "quantum entanglement naturally solves the binding problem" and "entanglement solves the binding problem… in a natural manner and without any additional assumptions" (P) | **Co-optation firewall failure.** The paper says "our proposal is firmly rooted in Everett's 'many worlds' formulation," locates experience "not when a superposition collapses, but when it forms," and removes gravity from Penrose [escholarship](https://escholarship.org/content/qt85q225bk/qt85q225bk.pdf) | Directly contradicts the article's No-MWI claim that quantum binding "requires real collapse." |
+| Reimers et al. 2009, PNAS 106(11):4219–4224 | Correct (S) | No quote | Hostile to Fröhlich-based quantum consciousness | Addresses Fröhlich regimes, not specifically Hagan's recalibration. |
+| Revonsuo 1999, Consc Cogn 8(2):173–185 | Correct (P(sub); DOI 10.1006/ccog.1999.0384) | BP1/BP2 attribution to Smythies confirmed: "only one author… John R. Smythies, who clearly distinguishes these two types of binding" [hedweb](https://www.hedweb.com/intelligence-explosion/binding.pdf) | Accurate; Revonsuo's own terms are "stimulus-related" and "consciousness-related" binding | Fine. |
+| Schlosshauer 2019, Phys Rep 831:1–57 | Correct (S) | **Misattributed wording.** "the system still remains in a mixture of possible outcomes" comes from Tomaz, Mattos & Barbatti's 2025 review "The Quantum Measurement Problem: A Review of Recent Trends" (arXiv 2502.19278). The tenets page credits "a 2025 review"; a sibling credits the SEP [tenets](https://unfinishablemap.org/tenets/)[topics/consciousness-collapse-versus-decoherence-experiments](https://unfinishablemap.org/topics/consciousness-collapse-versus-decoherence-experiments/) | Schlosshauer does hold that decoherence leaves the outcome problem open, so the stance is fine | Three different attributions of one sentence across the site. |
+| Singer 1999, Neuron 24(1):49–65 | Correct (S) | No quote | Accurate | Fine. |
+| Smythies 1994, Inquiry 37(3):311–329 | Plausible (P(sub), indirect) | The BP1/BP2 naming is quoted from "Smythies 1994a, p. 54"; p. 321 (in the Inquiry range) carries the BP2 gloss [hedweb](https://www.hedweb.com/intelligence-explosion/binding.pdf) | Accurate | Possible a/b swap between Inquiry and *The Walls of Plato's Cave*; confirm the page. |
+| Tegmark 2000, PRE 61:4194–4206 | Correct (P(sub)) | "~10^{-13}-10^{-20} seconds" correct [arxiv](https://arxiv.org/abs/quant-ph/9907009) | Accurate (hostile, correctly deployed) | Fine. |
+| Tononi 2008, Biol Bull 215(3):216–242 | Correct (S) | No quote | **Mischaracterised.** IIT's identity claim is an explanatory identity from phenomenological axioms, not a "definitional solution" | See (4). |
+| Vicente et al. 2008, PNAS 105(44):17157–17162 | Correct (P(sub); DOI 10.1073/pnas.0809353105) [PNAS](https://www.pnas.org/doi/10.1073/pnas.0809353105) | Paraphrase accurate | Accurate | Credit: the article concedes zero-lag synchrony is classically explicable. [topics/quantum-holism-and-phenomenal-unity](https://unfinishablemap.org/topics/quantum-holism-and-phenomenal-unity/) |
+| Warren 2023, J Phys Commun 7:038001 | Correct; the author is Warren, W. S. (P) [DNTB](https://ouci.dntb.gov.ua/en/works/lx8rqD2l/) | Paraphrase **understates** the objection | Warren: the signals "are absolutely not a witness to entanglement" and the paper "provides no evidence to justify this claim" [ResearchGate](https://www.researchgate.net/publication/369521721_Comment_on_'Experimental_indications_of_non-classical_brain_function'_2022_Journal_of_Physics_Communications_6_105001)[DNTB](https://ouci.dntb.gov.ua/en/works/lx8rqD2l/) | Not "may be an artefact". The measure is classical in principle. Credit: the article refuses Wiest's "no alternative classical account" move. [ResearchGate](https://www.researchgate.net/publication/363852167_Experimental_indications_of_non-classical_brain_functions) |
+| Wiest 2025, Neurosci Conscious 2025(1):niaf011 | Correct (P) | Paraphrase; the abstract says the MT finding is "consistent with" and "specifically predicted by" Orch OR | Quantum-substrate theorist (keywords include panpsychism); not dualist [nih](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12060853/) | Target handles critically (credit). Sibling topics/quantum-biology-neural-experimental-turn recruits Wiest's substrate constitution claim uncritically. [topics/quantum-biology-neural-experimental-turn](https://unfinishablemap.org/topics/quantum-biology-neural-experimental-turn/) |
+| **Not cited: Laukkonen, Friston & Chandaria 2025**, NBR 176:106296 (Sept 2025) | — | Abstract: inferences that "coherently reduce long-term uncertainty win, evincing a selection for consciousness that we call Bayesian binding"; "the world model knows itself non-locally" [OSF](https://osf.io/preprints/psyarxiv/daf5n)[Ovid](https://www.ovid.com/journals/nebior/abstract/10.1016/j.neubiorev.2025.106296~a-beautiful-loop-an-active-inference-theory-of-consciousness) | Physicalist/computational | **Blocking gate: FAIL.** See (4). |
+
+### (4) Counterarguments: answered, named, or ignored
+
+| Objection | Status | Assessment |
+| --- | --- | --- |
+| Decoherence timescales (Tegmark 2000; Hagan et al. 2002; McKemmish/Reimers 2009) | **Answered, then undermined** | Balanced and correctly labelled "live, not closed". But the closing move, "Consciousness could participate at this collapse point regardless of prior decoherence", rescues *selection* while abandoning the *coherent holistic state* the thesis needs. [topics/quantum-holism-and-phenomenal-unity](https://unfinishablemap.org/topics/quantum-holism-and-phenomenal-unity/) After decoherence the brain's reduced state is an improper mixture of pointer alternatives, and the non-separable whole includes the environment. |
+| Quantum Zeno rescue | **Answered badly** | Stapp's Zeno mechanism is Process 1: choosing which question to pose and when. [reviews/outer-review-2026-06-01-claude-opus-4-8](https://unfinishablemap.org/reviews/outer-review-2026-06-01-claude-opus-4-8/) The tenets page explicitly declines to adopt the Process-1/context-selection path. [tenets](https://unfinishablemap.org/tenets/) The Born-rule topic page places Zeno-Stapp outside the Born-preserving corridor. [topics/born-rule-and-the-consciousness-interface](https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/) The 2026-09-25 review flags "Stapp as Born-bending" as a live defect. [workflow/changelog](https://unfinishablemap.org/workflow/changelog/) Zeno also freezes states rather than generating integrated entangled wholes, so it does nothing for holism. |
+| More recent quantum biology (cryptochrome; Babcock et al. 2024, J. Phys. Chem. B 128(17):4035–4046, predicting superradiance across "up to >10^5 Trp UV-excited transition dipoles in microtubule architectures," in sibling) | **Named** | Correctly labelled "precedent" / "not inherently implausible", which is compatible-grade. The Denton radical pair needs about 700 ns of coherence (per sibling), three orders of magnitude below neural timescales. [concepts/quantum-neural-mechanisms-and-coherence](https://unfinishablemap.org/concepts/quantum-neural-mechanisms-and-coherence/) |
+| Mereological objection: non-separability ≠ one subject | **Ignored** | Non-separable states still have subsystems. Nothing in the formalism yields a subject. |
+| Combination problem at the quantum level | **Ignored** | Orch OR posits many OR events across many microtubule ensembles per conscious moment. How do they compose one subject? The article links the combination-problem concept in Further Reading but never applies it to its own proposal. Whitehead's own framework (brains as *societies* of occasions, not single occasions) raises exactly this, and the process section omits it. |
+| Ubiquity/monogamy and the boundary problem | **Ignored** | This is the most damaging omission. Without a boundary principle, entanglement-based unity drifts toward brain-plus-environment or cosmopsychism (Schaffer's priority monism). |
+| Bayne's unity thesis (2010) and Tye's one-experience view (2003) | **Ignored** | Tye denies that there are several experiences to be bound in the first place. That dissolves the question the article says classical accounts cannot answer ("how they become *one*"). Bayne 2010's subsumptive-unity account is unmentioned. Only Bayne & Chalmers 2003 appears, and it is under-read. |
+| Global workspace | **Named, question-begged** | "a system could have globally available information without there being anything it is like" is the zombie premise. It is legitimate only as a marked framework boundary, and it is not marked. |
+| Binding-by-synchrony / thalamocortical | **Answered at BP1** | Credit for conceding Vicente. The orchestra analogy just restates the mereological intuition. |
+| IIT | **Answered, mischaracterised** | IIT is an axiom-to-postulate explanatory identity, not a stipulative definition. Its exclusion postulate addresses the boundary problem, which quantum holism cannot. The article also misses that Neven et al. propose using IIT's Φ to select the preferred basis, [escholarship](https://escholarship.org/content/qt85q225bk/qt85q225bk.pdf) and that Chalmers & McQueen fuse IIT with collapse. The "rival" is partly a partner in the cited literature. |
+| Predictive processing / Laukkonen–Friston–Chandaria 2025 | **Ignored (blocking-gate FAIL)** | LFC offer a named classical account of unity ("Bayesian binding" through inferential competition, plus "epistemic depth" through recurrent sharing). The world model "knows itself non-locally," and they explicitly claim to explain minimal states. [OSF](https://osf.io/preprints/psyarxiv/daf5n)[ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0149763425002970) That directly rivals the article's contemplative claim that awareness is "unified prior to and independent of particular contents". The article's universal "Every classical approach shares a structural limitation" is falsified in scope by an unengaged 2025 rival. |
+| Illusionism (Frankish, Dennett) | **Answered at named level; bedrock** | The precondition argument gets the illusionist's functional reply and then calls it costly, but that cost is simply the view. The persistence argument ignores standard introspective-modelling explanations. The epistemic argument presupposes that rational grounding needs phenomenal input, which reliabilists deny. "Every conscious being reports it" is false: non-linguistic creatures report nothing, and the site's own split-brain page documents unity failures. [topics/split-brain-consciousness](https://unfinishablemap.org/topics/split-brain-consciousness/) |
+| Contemplative evidence | **Factual error** | *Nirodha-samāpatti* is saññāvedayitanirodha, the "cessation of perception and feeling". In the tradition it is standardly described as the *absence* of conscious content and experience, not as unified awareness without content. Citing it for "awareness unified prior to and independent of particular contents" misdescribes the source tradition. *Rigpa* is the defensible example. |
+
+### (5) Tenet and sibling consistency
+
+**Tenet 1 (Dualism).** In tension, as argued in (2). The "Relation to Site Perspective" Dualism paragraph ("What quantum mechanics provides is the right *structural* substrate") restores the constitutive-substrate reading that the Remaining Gap section retracted. [topics/quantum-holism-and-phenomenal-unity](https://unfinishablemap.org/topics/quantum-holism-and-phenomenal-unity/)
+
+**Tenet 2 (Minimal Quantum Interaction).** The live tenets page calls post-decoherence selection "the strongest path the Map currently endorses." It ranks coherence-dependent proposals (Orch OR, Stapp Zeno) as "live fallbacks." It states that the Tegmark–Hagan dispute "matters only for candidate mechanisms that require *pre-decoherence* coherence." [tenets](https://unfinishablemap.org/tenets/) The target's BP2 mechanism requires exactly that: coherent entanglement across the content-bearing substrate. It never declares which sub-reading it depends on.
+
+The sibling topics/quantum-biology-and-neural-consciousness says the evidence is "load-bearing for pre-decoherence-coherence mechanisms, a plausibility supplement for the post-decoherence-selection programme." [topics/quantum-biology-and-neural-consciousness](https://unfinishablemap.org/topics/quantum-biology-and-neural-consciousness/) The target silently borrows the favoured route's escape while its thesis needs the disfavoured route's physics. That is an evidential-independence failure.
+
+The "Relation to Site Perspective" MQI paragraph ("If quantum entanglement is the only physical substrate structurally matching phenomenal unity, consciousness operates at the quantum level as the tenet proposes") is tenet leakage via affirming the consequent. It also contradicts the body's "one candidate among several." [topics/quantum-holism-and-phenomenal-unity](https://unfinishablemap.org/topics/quantum-holism-and-phenomenal-unity/)
+
+**Born-rule preservation.** The Bidirectional paragraph says consciousness, "collapsing entangled superpositions toward particular outcomes," "has downward causal efficacy." [topics/quantum-holism-and-phenomenal-unity](https://unfinishablemap.org/topics/quantum-holism-and-phenomenal-unity/) The causal-closure page says Born preservation binds only the "unconditioned long-run marginal," and admits "the coarsest of those conditional grains have already returned nulls". [concepts/causal-closure](https://unfinishablemap.org/concepts/causal-closure/) Neither point is stated.
+
+The tenets page is explicit: articles asserting consciousness does "real work" "inherit that debt rather than discharge it, and should read no more confidently than this paragraph does," with [P-Q3](/positions/quantum-interface/#p-q3) conceding observer-indistinguishable selection "sits genuinely close to epiphenomenalism." [tenets](https://unfinishablemap.org/tenets/) The target violates this instruction.
+
+There is also a deeper conflict. If selection is post-decoherence and Born-preserving over pointer alternatives, the item selected is a decohered classical-looking alternative, not a coherent holistic state. The only role left for holism is historical: what the alternatives were before they decohered. That role carries no unity.
+
+**The Born-preserving-causal-efficacy apex** (content known only via quoting pages): its horn (a) conditional-test structure is not engaged. [tenets](https://unfinishablemap.org/tenets/) The target's falsifier list names no conditional residual-structure test.
+
+**The cross-modal-capability-division apex** (per the interoception research note, not fetched directly): it locates unity supramodally on the mind side. [research/interoceptive-consciousness-and-the-interface-2026-06-20](https://unfinishablemap.org/research/interoceptive-consciousness-and-the-interface-2026-06-20/)[research/interoceptive-consciousness-and-the-interface-2026-06-20](https://unfinishablemap.org/research/interoceptive-consciousness-and-the-interface-2026-06-20/) That is consistent with binding-void and inconsistent with the target's "Quantum mechanism (BP2): Entanglement provides the ontological unity."
+
+**Tenet 3 (Bidirectional Interaction).** Overclaimed, as above.
+
+**Tenet 4 (No Many Worlds).** "Quantum binding only explains phenomenal unity if collapse is real" is a non sequitur. Synchronic unity within a decoherent branch is well defined under Everett, and Lockwood and Neven et al. build their unity accounts inside Everett. [escholarship](https://escholarship.org/content/qt85q225bk/qt85q225bk.pdf) The paragraph conflates synchronic unity with indexical thisness, which is an epistemic-to-metaphysical slide. It also directly contradicts the article's own lead citation.
+
+**Tenet 5 (Occam's Limits).** Applied asymmetrically. "Apparent simplicity fails if classical mechanisms cannot in principle produce what needs explaining," but the article has conceded that quantum mechanisms cannot in principle produce it either. That is calibration asymmetry. The tenets page's own principle that Tenet 5 binds symmetrically is not honoured. [tenets](https://unfinishablemap.org/tenets/)
+
+**Sibling contradictions.**
+
+- concepts/unity-of-consciousness: "never fully separate"; experimental evidence "now lending initial support". [concepts/unity-of-consciousness](https://unfinishablemap.org/concepts/unity-of-consciousness/) This is coherence inflation relative to the target's "open finding."
+- topics/quantum-biology-neural-experimental-turn: "seven orders of magnitude"; Wiest's substrate constitution adopted uncritically; "If confirmed, this is exactly the pattern the tenet predicts". It also links to a slug, quantum-binding-and-phenomenal-unity, whose redirect status to the target was not confirmed. [topics/quantum-biology-neural-experimental-turn](https://unfinishablemap.org/topics/quantum-biology-neural-experimental-turn/)
+- The quantum-neural-mechanisms concept in the search index: Baum "formalised this… shifts the burden". [concepts/quantum-neural-mechanisms-and-coherence](https://unfinishablemap.org/concepts/quantum-neural-mechanisms-and-coherence/) This contradicts the target's Vicente concession (possibly a stale index; the live page now resolves to quantum-biology-and-neural-mechanisms).
+- voids/binding-void: unity is "what consciousness adds". [voids/binding-void](https://unfinishablemap.org/voids/binding-void/) This contradicts the necessity of physical holism.
+
+## C. Bottom-Line Per-Position Verdicts
+
+| # | Position (as stated in the article) | Verdict | Evidential status |
+| --- | --- | --- | --- |
+| 1 | Classical mechanisms structurally cannot yield phenomenal unity (Leibniz mill, "external relations") | FLAG AS PERPETUALLY CONTESTED | Framework-boundary; applies equally to quantum substrates by the article's own concession |
+| 2 | Entanglement is "genuine ontological holism where the whole is prior to the parts" | REVISE-HARD | Physics supports non-separability only; priority is interpretive |
+| 3 | Entanglement is "the physical structure that most closely mirrors phenomenal unity" | DEMOTE-TO-COHERENCE-ONLY | Resemblance, not evidence; no discriminating datum |
+| 4 | If neural entangled states exist (Orch OR), unity "corresponds to" quantum unity | DEMOTE-TO-COHERENCE-ONLY | Compatible at most; must be tagged as dependent on the pre-decoherence sub-reading |
+| 5 | Division of labour: classical for BP1, entanglement for BP2; "Both are necessary" | DELETE | Contradicts the Leibniz concession and binding-void; no argument for necessity |
+| 6 | Unity "co-occurs with" collapse, one event under two descriptions | REVISE-HARD (or DELETE) | Dual-aspect slide incompatible with interactionism |
+| 7 | Zero-lag synchrony is classically explicable (Vicente); Baum's premise contested | RETAIN (add no-signalling) | Correctly calibrated |
+| 8 | IIT's solution is "definitional" and leaves "a brute correlation" | REVISE-HARD | Mischaracterises IIT; ignores the exclusion postulate |
+| 9 | GWT explains access unity, not phenomenal unity | RETAIN as marked framework-boundary | Bedrock |
+| 10 | Decoherence dispute live; Hagan not a settled rebuttal | RETAIN | Well calibrated |
+| 11 | "Consciousness could participate at this collapse point regardless of prior decoherence" | REVISE-HARD | True of selection, fatal to holism; must say so |
+| 12 | Zeno rescue via Stapp and Denton | REVISE-HARD | Process-1/Born-bending path the tenets decline; Denton's Zeno is reaction-induced |
+| 13 | Avian magnetoreception as biological precedent | RETAIN | Compatible-grade, correctly labelled |
+| 14 | Epothilone study | REVISE-HARD | Factual errors (controls, date, N); compatible with classical microtubule roles |
+| 15 | Kerskens–López Pérez entanglement signatures | REVISE-HARD | Below compatible-grade until witness validity is established (Warren) |
+| 16 | Illusionism rebuttals (precondition, persistence, epistemic) | FLAG AS PERPETUALLY CONTESTED | Bedrock; "every conscious being reports it" must go |
+| 17 | Contemplative states show unity prior to content (incl. *nirodha-samāpatti*) | REVISE-HARD | *Nirodha* misdescribed; LFC offer a classical rival account |
+| 18 | Whitehead's actual occasions align with collapse | DEMOTE-TO-COHERENCE-ONLY | Illustrative; add the societies/combination caveat |
+| 19 | Falsifier list | REVISE-HARD | #1 infeasible, #2 already fired (the article admits it), #5 undetectable by the site's own epistemology |
+| 20 | "Structural mismatch… supports dualism" | FLAG AS PERPETUALLY CONTESTED | Cuts both ways (see dilemma) |
+| 21 | "If entanglement is the only physical substrate… consciousness operates at the quantum level" | DELETE | Affirming the consequent; contradicts the body |
+| 22 | Quantum binding confers "downward causal efficacy" | REVISE-HARD | Must carry [P-Q3](/positions/quantum-interface/#p-q3) / Born-marginal debt |
+| 23 | Quantum binding "requires real collapse" (anti-MWI) | DELETE | Non sequitur; contradicted by Lockwood and Neven |
+| 24 | Classical approaches only "appear" simpler (Occam) | REVISE-HARD | Asymmetric application of Tenet 5 |
+
+## D. Article-Specific Fixes
+
+**topics/quantum-holism-and-phenomenal-unity**
+
+1. Rewrite the lead and meta-description. Replace "genuine ontological holism where the whole is prior to the parts" and "holism where wholes precede parts" with "non-separability of the joint state, which on a collapse-realist, holist reading the Map takes to mark a physical whole." Delete "address the structure-matching problem that defeats all classical approaches."
+2. State premise 2 (the structural-isomorphism premise) explicitly, argue for it or disown it, and connect it to the Leibniz concession. If it is disowned, retitle the thesis as a resemblance claim and remove "Classical Mechanisms Remain Necessary → Both are necessary."
+3. Add a section on the dualism dilemma (idle holism vs. cannibalised unity argument). Reconcile it with voids/binding-void ("what consciousness adds") and the cross-modal-capability-division apex's mind-side unity.
+4. Tag the thesis as dependent on the pre-decoherence sub-reading of Tenet 2. State plainly that under the endorsed post-decoherence route, holistic coherent states play no unity-conferring role.
+5. Add paragraphs on the boundary problem, monogamy, the combination problem, and the mereological objection, citing Teller (relational holism), Healey, Esfeld (moderate ontological holism), Maudlin, and Schaffer (priority monism).
+6. Correct Neven et al.: drop "only true binding agent." Quote "quantum entanglement naturally solves the binding problem." Disclose that the proposal is "firmly rooted in Everett's 'many worlds' formulation" and locates experience at superposition formation. Add Lockwood 1989 and Marshall 1989 as the historical precedents, with their Everettian or non-dualist status marked.
+7. Correct Khan et al.: within-subject pre/post, N = 8 male rats, published August 2024. Delete "compared to controls" and "This is exactly what was observed."
+8. Correct Warren: the ZQC signals are "absolutely not a witness to entanglement". Add the Kerskens & López Pérez 2023 reply and cite Pérez et al. 2023 for the memory correlation.
+9. Reattribute the "mixture of possible outcomes" wording to Tomaz, Mattos & Barbatti's 2025 review "The Quantum Measurement Problem: A Review of Recent Trends" (arXiv 2502.19278), or paraphrase Schlosshauer in his own words.
+10. Rewrite the Zeno paragraph. Say that Stapp's Zeno is a Process-1 mechanism the tenets decline, sits outside the Born-preserving corridor, and does not generate holism. Mark Denton's Zeno as reaction-induced (it requires that "the recombination reaction is strongly asymmetric").
+11. Add a Baum no-signalling sentence and mark falsifier #2 as already met. Replace falsifier #1 with a feasible one: failure to find content-confined neural entanglement surviving beyond ~10⁻⁴ s. Delete #5 or make it operational. Add a conditional-residual-structure falsifier linked to the Born-preserving-causal-efficacy apex.
+12. Rewrite the IIT section: explanatory identity from axioms; the exclusion postulate as the one thing quantum holism lacks; Chalmers & McQueen and the Neven Φ-basis proposal as hybrids.
+13. Add Tye (2003) and Bayne (2010) as unity-without-binding accounts, and add Laukkonen, Friston & Chandaria 2025 (Bayesian binding, epistemic depth, minimal states) as the predictive-processing rival.
+14. Remove *nirodha-samāpatti* as evidence of contentless unified awareness. Delete "Every conscious being reports it."
+15. In "Relation to Site Perspective": delete the MQI affirming-the-consequent sentence and the anti-MWI unity inference. Hedge Bidirectional to the tenets page's [P-Q3](/positions/quantum-interface/#p-q3) register. Make the Occam paragraph symmetric.
+16. Cite Dennett 1991 in the body or remove it. Fix the created/published date mismatch.
+
+**concepts/unity-of-consciousness.** Delete "never fully separate." Downgrade "now lending initial support" to "compatible-grade, contested."
+
+**topics/quantum-biology-neural-experimental-turn.** Fix "seven orders of magnitude" to 8–9 (against 10⁻¹³ s). Mark Wiest's substrate constitution as a non-dualist position. Verify the redirect for the quantum-binding-and-phenomenal-unity slug.
+
+**concepts/quantum-biology-and-neural-mechanisms** (and any live residue of quantum-neural-mechanisms-and-coherence). Purge or calibrate the "Baum (2024) formalised… shifts the burden" and "those predictions held up" language to match the target's Vicente concession.
+
+**topics/split-brain-consciousness and research/split-brain note.** Replace "as Penrose-Hameroff suggest" with a tagged pre-decoherence-dependent hypothesis. [research/split-brain-consciousness-unity-2026-01-14](https://unfinishablemap.org/research/split-brain-consciousness-unity-2026-01-14/)
+
+**voids/binding-void.** Keep "what consciousness adds," but cross-link the target so the dilemma is visible in both directions.
+
+**tenets (Minimal Quantum Interaction).** Add one sentence: articles whose thesis requires pre-decoherence coherence must declare it in the lead.
+
+## E. Site-Wide Methodology Improvements
+
+**Pipeline diagnosis (Claude-on-Claude review).** The target was generated by claude-opus-4-6 and reviewed by successor Claude models. The changelog shows the characteristic failure signature:
+
+- Reviews check citations by "grep-verified" matches against *abstract* text. [workflow/changelog](https://unfinishablemap.org/workflow/changelog/) That catches verbatim errors but not stance errors, so the Neven misquote survived.
+- The 2026-09-25 review admits "an unnamed Denton-2024 locus the surname sweep missed." [workflow/changelog](https://unfinishablemap.org/workflow/changelog/)
+- Deep reviews honour "stability notes" that forbid re-flagging settled issues, [workflow/changelog](https://unfinishablemap.org/workflow/changelog/)[reviews/deep-review-2026-06-03-causal-closure](https://unfinishablemap.org/reviews/deep-review-2026-06-03-causal-closure/) which institutionalises the constitutional-attractor effect.
+- The causal-closure deep review uses "A tenet-accepting reviewer would not flag any prose claim as overstated" as a pass criterion, [reviews/deep-review-2026-06-03-causal-closure](https://unfinishablemap.org/reviews/deep-review-2026-06-03-causal-closure/) so calibration is measured against the tenets rather than against hostile experts. [reviews/deep-review-2026-06-03-causal-closure](https://unfinishablemap.org/reviews/deep-review-2026-06-03-causal-closure/)
+
+Same-family review converges on the same blind spots. Here the unstated isomorphism premise and the dualism–holism dilemma went unflagged through multiple passes, even though the article itself contains the Leibniz concession that exposes them.
+
+**Concrete improvements**
+
+1. **Stance field per reference.** Each reference should carry an author-stance tag (physicalist / dualist / panpsychist / Everettian / neutral) and a one-line "does the author endorse the Map's use?" check. Any Everettian or physicalist source cited in support of a collapse-dualist conclusion should block publication until the article discloses it.
+2. **Full-text verification for paraphrases.** Attributed paraphrases ("X conjectures that…") need full-text checking, not just abstract checking. Ban phrases in quotation-like paraphrase that do not occur in the source.
+3. **Mandatory sub-reading tag.** Every quantum-wing article should declare in frontmatter and lead whether its thesis needs pre-decoherence coherence, post-decoherence selection, or the strict corridor. Automate a contradiction check against the tenets' preference ordering.
+4. **Premise-exposure gate.** Any "structure matching / mirrors / corresponds" claim must state its bridging premise (isomorphism, identity, or causal) explicitly, with the dualism-compatibility of that premise argued.
+5. **Confession-propagation check.** When the body concedes an interpretive or constitutive limit, lint the lead, meta-description and "Relation to Site Perspective" for residual unconceded phrasing.
+6. **Falsifier status registry.** Keep a site-wide table of stated falsifiers with status (open / fired / infeasible / undetectable). The target's falsifier #2 has fired by the article's own admission and is still listed as prospective.
+7. **Numeric claim registry.** Hold one canonical value per contested figure (Hagan vs. Tegmark orders of magnitude; Denton coherence budget; Khan N, design and date) and have siblings pull from it.
+8. **Standing rival gates.** Make Laukkonen, Friston & Chandaria 2025, Tye 2003, Bayne 2010 and IIT's exclusion postulate standing gates for every unity/binding article. Put Lockwood, Marshall, Chalmers & McQueen, and Teller/Healey/Esfeld/Schaffer on the quantum-holism reading list.
+9. **Symmetric Tenet 5 audit.** Any Occam-limits paragraph must show it would equally disarm an argument *against* the Map's own conclusion.
+10. **Non-Claude hostile review.** At least one review pass per flagship article should come from an outside human or non-Claude model, with explicit authority to overturn stability notes, and "tenet-accepting reviewer" pass criteria should be retired.
+11. **Contemplative-source check.** Claims about Buddhist attainments (*nirodha-samāpatti*, *rigpa*) need a primary or scholarly source on how the tradition itself describes the state.
+12. **Apex fetchability.** The apex calibration benchmarks could not be retrieved by external auditors in this pass. Expose them in sitemaps and search so that live audits can anchor to them directly.
+
+## Verification Notes
+
+Processed 2026-09-25 by the outer-review skill. Sources were checked against raw full text where possible: Europe PMC full-text XML, searched by string match rather than read by a summariser. Map-internal claims were checked against the current `obsidian/` tree.
+
+**Verified claims:**
+
+- ✓ **Neven et al. 2024 is misquoted and co-opted.** The Entropy full text (PMC11203236) does NOT contain "only true binding agent" in any form. It says "quantum entanglement naturally solves the binding problem" and "entanglement solves the binding problem ... in a natural manner and without any additional assumptions". It also says "our proposal is firmly rooted in Everett's 'many worlds' formulation" and places consciousness "not when a superposition collapses, but when it forms". The misquote appears at two loci. In the target (L98) it is an unquoted paraphrase ("conjectures that entanglement is the only true binding agent in physics"). In `concepts/entanglement-binding-hypothesis.md:42` it sits **inside quotation marks** ("the only true binding agent we have in physics"). That second locus is worse, because it presents words as Neven's verbatim when they are not. The phrase also does not appear in Wiest 2025 (PMC12060853), and a web search turned up no source for it. It may come from a Neven talk or interview, but it cannot be cited to the Entropy paper.
+- ✓ **Khan et al. 2024 is misdescribed.** The full text (PMC11363512) gives a pub-date of 27 Aug 2024, not September. The design is within-subject: "a within-subject experimental design to compare LORR latencies in the same rats before and after epoB treatment", with N = 8 male Long–Evans rats. A separate group of N = 4 was a tolerance control only. The figures of 69 s and d = 1.9 are correct. *Nuance:* the pre-epoB sessions used vehicle injections, so "compared to controls" is loose rather than flatly false. "Compared with their own pre-treatment (vehicle) latencies" is the accurate wording.
+- ✓ **The Everettian stance of the unity-via-entanglement genre is confirmed.** Wiest 2025 lists "Marshall 1989 ... Neven et al. 2024" among authors who hold that a quantum substrate solves binding, which confirms Marshall 1989 as an originator of the argument. The target cites neither Marshall nor Lockwood.
+- ✓ **The *nirodha-samāpatti* misdescription is also an internal contradiction.** The target (L162) cites it for "awareness as unified prior to and independent of particular contents". The Map's own siblings describe it as cessation: `topics/comparative-phenomenology-of-meditative-traditions.md:125` has "the complete stopping of perception and feeling", and `topics/contemplative-practice-as-philosophical-evidence.md:171` has "reported cessation of phenomenology".
+- ✓ **The "mixture of possible outcomes" wording is attributed three ways.** The Map's own research notes (`research/post-decoherence-selection-mechanisms-2026-03-29.md:41`, `research/measurement-problem-quantum-mechanics-2026-01-14.md:50`, `research/improper-versus-proper-mixtures-2026-09-02.md:85`) trace the sentence to Tomaz, Mattos & Barbatti 2025 (arXiv 2502.19278), and [concepts/measurement-problem.md](/concepts/measurement-problem/) and [concepts/physics-as-disclosure.md](/concepts/physics-as-disclosure/) credit "Tomaz et al." Yet the target (L134) and `topics/empirical-evidence-for-consciousness-selecting.md:100` paraphrase the wording as Schlosshauer 2019, and `apex/post-decoherence-selection-programme.md:69` gives it as Schlosshauer 2004. The arXiv source was not re-fetched in this pass. The finding rests on the Map's own research-note quotations of it.
+- ✓ **The quoted loci in the target all exist** (grep-verified): "whole is prior to the parts" (L48); "holism where wholes precede parts" (the description); "Both are necessary; neither is sufficient alone" (L114); "co-occurs with ... the same event" (L120); "If quantum entanglement is the only physical substrate" (L186); "downward causal efficacy" (L188); "requires real collapse" (L190); "Every conscious being reports it" (L158). The Occam paragraph (L192) also contains a banned "is not X; it is Y" construction ("Invoking quantum mechanics is not unparsimonious complexity; it is matching the explanation to the explanandum").
+- ✓ **The quotes from the tenets page are verbatim** in [tenets/tenets.md](/tenets/): "strongest path the Map currently endorses", "live fallback", "inherit that debt", "sits genuinely close to epiphenomenalism".
+- ✓ `concepts/unity-of-consciousness.md:128` still reads "entanglement produces systems that were never fully separate".
+
+**Disputed claims:**
+
+- ✗ **The binding-void quote "what consciousness adds" is stale.** The phrase is no longer in [voids/binding-void.md](/voids/binding-void/). It was removed by commit b850daeaf9, the common-cause-null re-registration. The reviewer was quoting an older snapshot. The dualism-dilemma argument does not depend on this quote, because the tenets page still counts unity among the positive arguments for dualism.
+- ✗ **"Dennett 1991 is an orphan reference"** is incorrect. The body names Dennett-style illusionists at L158.
+- ✗ **The "seven orders of magnitude" finding in `topics/quantum-biology-neural-experimental-turn`** is about an article that is ARCHIVED (`archive/topics/`), so no live-content defect exists. This is the known pattern of reviewers critiquing archived pages at their live URLs.
+- ✗ **The Baum "formalised... shifts the burden" wording in `concepts/quantum-biology-and-neural-mechanisms`** is a stale search-index snapshot, as the reviewer suspected. The live L144 already describes Baum as a "non-peer-reviewed preprint" and credits the peer-reviewed rebuttal.
+
+**Unverified:**
+
+- ? Warren's quoted wording ("absolutely not a witness to entanglement") was not re-fetched. The Warren defect is already queued as a web-verified P1 from the sibling ChatGPT review.
+- ? The published_time vs created-date metadata mismatch is a Hugo-rendering matter and was not audited.
+
+**Overlap with the sibling ChatGPT 5.6 Pro review (same day, same subject):** the sibling review found the Warren misrepresentation, the Denton/QZE misapplication, the No-Many-Worlds non sequitur, falsifier #2 having already fired, the IIT strawman, the factorisation/boundary problem, the post-decoherence unity locus, and "Every conscious being reports it". Five tasks for those findings are already queued. This review converges on all of them independently. The new findings are Neven, Khan, *nirodha*, the three-way mixture-quote attribution, confession-propagation into the lead and the Relation to Site Perspective section, the dual-aspect slide and the "Both are necessary" contradiction, and the unity-of-consciousness physics error.

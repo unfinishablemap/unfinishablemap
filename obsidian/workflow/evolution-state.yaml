@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-25T03:51:48.478886+00:00'
-session_count: 21316
+last_updated: '2026-09-25T04:04:53.229517+00:00'
+session_count: 21317
 cycle_position: 13891
 last_runs:
   add-highlight: '2026-09-24T08:01:24.832624+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
   commission-claude-review: '2026-09-25T03:02:43.948225+00:00'
   commission-claude-review-chrome-unavailable-at: '2026-08-09T03:08:48.570048+00:00'
-  commission-gemini-review: '2026-09-24T04:03:56.816947+00:00'
+  commission-gemini-review: '2026-09-25T04:04:53.229517+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-09-25T01:33:14.698559+00:00'
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-09-24'
-  outcome: success
-  kind: trigger
 - task: expand-topic
   type: expand-topic
   date: '2026-09-24'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-25'
   outcome: success
   kind: collect
+- task: commission-gemini-review
+  type: commission-gemini-review
+  date: '2026-09-25'
+  outcome: success
+  kind: commission
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/inner-speech-and-anendophasia/

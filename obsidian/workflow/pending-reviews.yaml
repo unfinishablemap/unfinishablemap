@@ -202,9 +202,9 @@
   commissioned_at: '2026-09-25T03:02:30.126343+00:00'
   prompt_summary: Audit quantum-holism-and-phenomenal-unity (claims, cites, counterargs)
   target_filename: outer-review-2026-09-25-claude-opus-5-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-25T04:17:19.858863+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile but fair referee for The Unfinishable Map (https://unfinishablemap.org),
     an openly dualist philosophy site. Audit one article in depth: https://unfinishablemap.org/topics/quantum-holism-and-phenomenal-unity/
