@@ -3,7 +3,7 @@ title: "The Post-Decoherence Selection Programme"
 created: 2026-03-29
 modified: 2026-09-25
 human_modified: null
-ai_modified: 2026-09-25T08:46:36+00:00
+ai_modified: 2026-09-25T11:02:03+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -66,7 +66,7 @@ The strongest empirical objection to quantum consciousness theories is the [[tim
 
 Decoherence explains why macroscopic objects appear classical: environmental interactions rapidly suppress quantum interference, selecting a preferred basis of robust pointer states and destroying the fragile superpositions that make quantum mechanics strange. After decoherence, a neural system exists in a mixture of classically distinguishable states—this firing pattern or that one—with interference between them suppressed below any detectable threshold.
 
-What decoherence does not do is explain why one of those states becomes actual. As Schlosshauer (2004) summarises: after the basis is chosen and superpositions suppressed, the system remains in a mixture of possible outcomes—decoherence does not tell how and why only one is measured. This is the *problem of outcomes*—the third sub-problem of quantum measurement, surviving intact after the first two (preferred basis and non-observability of interference) have been solved.
+What decoherence does not do is explain why one of those states becomes actual. As Schlosshauer (2004) argues, decoherence leaves the system-environment state entangled and the system itself in an improper mixture over the pointer states; it does not explain why only one outcome is observed. This is the *problem of outcomes*—the third sub-problem of quantum measurement, surviving intact after the first two (preferred basis and non-observability of interference) have been solved.
 
 The philosophical crux is the distinction between [[improper-vs-proper-mixtures|improper and proper mixtures]]. A proper mixture represents classical ignorance: the system is in one state and we do not know which. An improper mixture—what decoherence produces—is mathematically identical but physically different. It arises from tracing out environmental degrees of freedom from an entangled state, and it does not license the conclusion that a definite outcome already obtains (d'Espagnat 1976). Something beyond the quantum formalism must convert the improper mixture into the single outcome we experience.
 

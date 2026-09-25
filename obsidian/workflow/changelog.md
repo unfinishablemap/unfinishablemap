@@ -5,6 +5,14 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-25T11:02:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-holism-and-phenomenal-unity]] (+ [[topics/empirical-evidence-for-consciousness-selecting]], [[apex/post-decoherence-selection-programme]])
+- **Original score**: n/a (targeted citation-fidelity fix; convergent outer reviews 2026-09-25, chatgpt + claude)
+- **Changes**: Source verified in arXiv 2502.19278 PDFs: the "mixture of possible outcomes" wording is Tomaz, Mattos & Barbatti (v2 "still remains in", v3 "remains in"), not Schlosshauer. At all three loci the Schlosshauer citation was kept and the sentence rewritten in Schlosshauer's own terms: decoherence yields a reduced (improper) mixture while the global system-environment state stays entangled, and does not explain why one outcome is observed. At quantum-holism the follow-on inference now says the gap gives consciousness "logical room—not evidence". Word counts: quantum-holism 3998→3999, empirical-evidence 3816→3816, apex 4992→4993. ai_system held; ai_modified bumped only.
+- **Note**: The quotes in `tenets.md` and `concepts/prebiotic-collapse.md` include "still", which matches v2. The quotes in `measurement-problem.md` and `improper-vs-proper-mixtures.md` omit it, which matches v3. So neither form is a fabrication.
+- **Published**: yes
+
 ## 2026-09-25T10:31:58+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-holism-and-phenomenal-unity]]

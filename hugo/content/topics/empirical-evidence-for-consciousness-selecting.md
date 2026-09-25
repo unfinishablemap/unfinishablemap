@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-09-25 10:32:47+00:00
+ai_modified: 2026-09-25 11:02:03+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 19:14:22+00:00
-lastmod: 2026-09-25 10:32:47+00:00
+lastmod: 2026-09-25 11:02:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -100,7 +100,7 @@ This line addresses whether the physical substrate for consciousness-selecting e
 
 **Microtubule quantum effects.** Tegmark's 2000 calculation estimated decoherence in neural microtubules at ~10⁻¹³ seconds. Hagan, Hameroff, and Tuszynski (2002) challenged his model parameters, revising estimates to 10⁻⁵ to 10⁻⁴ seconds—eight to nine orders of magnitude longer. That revision is a contested counter-calculation, not a settled rebuttal: Reimers et al. (2009) and McKemmish et al. (2009) argue its parameter assumptions are not empirically established for living tissue, so the [decoherence-timescale dispute](/concepts/decoherence/) remains live. Craddock et al. (2017) used molecular-dynamics and quantum-chemistry simulations to predict a (613 ± 8) THz collective tubulin oscillation peak that anaesthetics — but not non-anaesthetic structural analogues — disrupt, with disruption magnitude tracking clinical potency; Wiest (2025) reviews this prediction and develops its implications. The peak has yet to be measured directly. Microtubule-stabilising drugs (epothilone B) delayed anaesthetic-induced unconsciousness in rats (Khan et al. 2024), the experimental complement to Craddock's spectroscopic prediction. The anaesthetic link is real but mechanistically underdetermined and not uniformly directional: a 2025 *BMC Anesthesiology* mouse study found microtubule-modulating drugs alter isoflurane sensitivity in mixed and directionally disparate ways—epothilone D and vinblastine increased sensitivity (left-shifted the ED50) while paclitaxel mice were slightly resistant—so the microtubule–anaesthesia coupling cannot yet be read as a clean "stabilisation delays unconsciousness" signature.
 
-**The measurement problem.** Even where decoherence operates rapidly, it does not resolve the [measurement-problem](/concepts/measurement-problem/). As Schlosshauer's authoritative 2019 review emphasises, after decoherence selects preferred bases and suppresses interference, the system remains in a mixture of possible outcomes; it does not tell how or why only one is measured. Physics identifies probabilities without explaining why particular outcomes actualise, and consciousness remains a candidate for what completes the picture.
+**The measurement problem.** Even where decoherence operates rapidly, it does not resolve the [measurement-problem](/concepts/measurement-problem/). As Schlosshauer's authoritative 2019 review emphasises, decoherence leaves the system in an improper mixture—the reduced state of a system still entangled with its environment—so it does not explain why only one outcome is observed. Physics identifies probabilities without explaining why particular outcomes actualise, and consciousness remains a candidate for what completes the picture.
 
 The quantum-biological line supports the following claims:
 

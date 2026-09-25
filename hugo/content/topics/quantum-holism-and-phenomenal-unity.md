@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-09-25 10:31:58+00:00
+ai_modified: 2026-09-25 11:02:03+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 19:47:42+00:00
-lastmod: 2026-09-25 10:31:58+00:00
+lastmod: 2026-09-25 11:02:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -127,7 +127,7 @@ The biological precedent strengthens the case. [Avian magnetoreception](/concept
 
 A gap remains. Even corrected coherence times fall three orders of magnitude short of the ~300ms timescale of conscious decisions. Yet this gap may not matter if the relevant mechanisms involve discrete quantum events rather than sustained superposition. The quantum Zeno approach proposes that repeated attentional "observations" hold a state in place. Denton et al. (2024) modelled in *Nature Communications* how Zeno dynamics enable magnetosensitivity in cryptochrome radical pairs, but there the "observation" is spin-selective recombination, a chemical reaction, and the model still needs ~700 ns coherence. That is a computational precedent for the mechanism category, not an attentional or neural demonstration.
 
-Most fundamentally, decoherence does not solve the measurement problem. As Schlosshauer (2019) notes, after decoherence selects preferred bases and suppresses interference, the system remains in a mixture of possible outcomes. Consciousness could participate at this collapse point regardless of prior decoherence.
+Most fundamentally, decoherence does not solve the measurement problem. As Schlosshauer (2019) stresses, it yields a reduced (improper) mixture while the global system-environment state stays entangled; no outcome is selected. That gap gives consciousness logical room—not evidence—to act regardless of prior decoherence.
 
 ## Experimental Evidence (2024-2025)
 
