@@ -4,7 +4,7 @@ description: "Experience normally conceals itself as representation (transparenc
 created: 2026-02-09
 modified: 2026-09-25
 human_modified:
-ai_modified: 2026-09-25T00:16:18+00:00
+ai_modified: 2026-09-25T14:16:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-13
 last_curated:
-last_deep_review: 2026-07-13T12:26:26+00:00
+last_deep_review: 2026-09-25T14:16:29+00:00
 coalesced_from:
   - "/concepts/phenomenal-transparency/"
   - "/concepts/phenomenal-opacity/"
@@ -50,7 +50,7 @@ Conscious representations sit on a spectrum between transparency and opacity. At
 
 Most waking perception sits near the transparent end. Light strikes the retina, signals propagate through the lateral geniculate nucleus, visual cortex constructs edge maps, colour processing, and object recognition — dozens of processing stages. None appears in experience. What appears is the apple. The construction is invisible because the constructive processes operate below the threshold of introspective access.
 
-This transparency is cognitively impenetrable to ordinary effort. You cannot [[phenomenal-depth|attend harder]] and see the processing stages. Metzinger argues no casual act of attention can dissolve it, though sustained contemplative training may partially reduce it. The system operates such that the model presents itself as the world, not as a model of the world. The instruments of representation cannot be *introspectively* represented as instruments — though third-person science can describe them as instruments from the outside. The limit is on introspective access, not on representation as such.
+This transparency is cognitively impenetrable to ordinary effort — in a sense distinct from the perception literature's [[cognitive-penetration|cognitive penetration]]: what fails to get through is attention, not belief. You cannot attend harder and see the processing stages; closer attention can disclose further [[phenomenal-depth|layers of content]], but not the medium carrying them. Metzinger argues no casual act of attention can dissolve it, though sustained contemplative training may partially reduce it. The system operates such that the model presents itself as the world, not as a model of the world. The instruments of representation cannot be *introspectively* represented as instruments — though third-person science can describe them as instruments from the outside. The limit is on introspective access, not on representation as such.
 
 But certain experiences shift toward the opaque end. Consider a vivid memory. Remembering yesterday's conversation, you experience something scene-like — faces, voices, spatial arrangement — yet the experience has a quality of *aboutness* that current perception lacks. You are aware, however dimly, that you are re-presenting rather than perceiving. The representational medium has become partially visible. The memory is not fully opaque — you do not experience it as "neural pattern X firing in hippocampal circuit Y" — but it is opaque enough that you do not confuse it with present reality.
 
@@ -82,7 +82,7 @@ The problem sharpens when combined with Donald Hoffman's [[fitness-beats-truth|F
 
 Opacity arises through several distinct mechanisms, each revealing different aspects of representational architecture. Every case is a crack in the representational surface through which the machinery of consciousness briefly shows.
 
-**Degraded signal.** Remove your glasses and the world blurs. The blur has its own phenomenal character — softness, haziness — that belongs to the representational medium, not to any external object. The less faithfully experience tracks the external world, the more visible the interface becomes. The [[perceptual-failure-and-the-interface|blur paradox]] develops this: blur is transparency shattering, with the representational medium becoming the most salient feature of experience. This is among the most systematic routes to opacity: reduced signal quality forces the representational machinery into view.
+**Degraded signal.** Remove your glasses and the world blurs. The blur has its own phenomenal character — softness, haziness — that belongs to the representational medium, not to any external object. The less faithfully experience tracks the external world, the more visible the interface becomes. The [[perceptual-failure-and-the-interface|blur paradox]] develops this: blur is transparency shattering, with the representational medium becoming the most salient feature of experience.
 
 **Processing disruption.** Depersonalisation disorder involves opacity of the self-model. Patients experience themselves as unreal, as watching their actions from outside. They maintain insight — they know they are themselves — while experiencing profound alienation. The self-model that normally presents transparently — as *being* oneself — becomes visible as a model. The result is typically distressing, not enlightening, which suggests that transparency serves a functional role and that opacity is not inherently epistemically valuable. The [[necessary-opacity]] article explores why the self-model's invisibility may be necessary for coherent experience. The for-me character of experience — [[mine-ness]] — is normally so transparent that subjects do not notice it at all; depersonalisation makes it opaque without obliterating it, one of the spectrum's cleanest cases of a feature noticed only by its near-absence. This case bears directly on the [[social-construction-of-self-vs-phenomenal-self|social-construction debate]]: the self-model turns opaque while the phenomenal subject to whom the alienation appears persists, evidence that the phenomenal self does not dissolve when the constructed self-image does.
 
@@ -106,7 +106,7 @@ This is a second-order epistemic gain. Transparency produces the illusion of dir
 
 Phenomenal transparency extends beyond perception to thought itself. The [[meaning-void]] explores this: when you think about Paris, Paris appears without revealing how the thought achieved its Paris-directedness. You "see through" the thought to its object, just as you see through visual experience to the visible world. The referential mechanism is transparent.
 
-David Pitt argues we can distinguish what we are thinking — Paris, not London — but this reveals content, not the content-determination process (Pitt, 2004). The aboutness of thought is as transparent as the redness of red. In both cases, the representational medium vanishes, leaving only what is represented.
+David Pitt (2004) argues that cognitive phenomenology lets us introspectively distinguish what we are thinking — Paris, not London. On the Map's reading, which Pitt does not himself draw, this reveals content, not the content-determination process. The aboutness of thought is as transparent as the redness of red. In both cases, the representational medium vanishes, leaving only what is represented.
 
 Thomas Nagel's observation that consciousness is essentially perspectival connects here. In *The View from Nowhere* (1986), Nagel argues the subjective viewpoint resists inclusion in any objective description. Transparency is the mechanism: attempts to objectify one's own representational process generate new transparent representations rather than revealing the process. The bat's sonar is transparent to the bat; our vision is transparent to us; neither can access the other's transparency because access would require the very medium it seeks to examine.
 
@@ -140,10 +140,10 @@ For the [[simulation|simulation hypothesis]], phenomenal transparency makes the 
 - [[curated-mind]] — How the brain's pervasive curation depends on phenomenal transparency
 - [[perceptual-failure-and-the-interface]] — How perceptual degradation reveals the interface that transparency hides
 - [[consciousness-as-perceptual-architect]] — Constancy-breaking (the painter's squint) as a controlled, voluntary transparency-to-opacity shift
-- [[consciousness-epistemology-extended-cognition]] — Why opacity has no functional analogue in extended systems: notebooks have neither transparent nor opaque phenomenal status
+- [[consciousness-epistemology-extended-cognition]] — Why notebooks and other extended systems have neither transparent nor opaque phenomenal status
 - [[mine-ness]] — A normally-maximally-transparent feature that pathology and contemplative practice can render opaque
 - [[social-construction-of-self-vs-phenomenal-self]] — Why depersonalisation's self-model opacity is evidence the phenomenal self persists when the socially-constructed self dissolves
-- [[self-construction-constructor]] — Apex synthesis casting transparency as the representational register of construction: the world-model hides its own building, and opacity reveals *that* it is a construction without granting the constructor access to *how* it is built
+- [[self-construction-constructor]] — Apex synthesis: the world-model hides its own building; opacity reveals *that* it is built, not *how*
 
 ## References
 

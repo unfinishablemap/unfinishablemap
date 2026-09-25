@@ -39,12 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research The quantum factorisation problem for consciousness
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (outer-review-2026-09-25-chatgpt-5-6-sol-pro.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-09-25-chatgpt-5-6-sol-pro §1.1 'The missing factorisation problem': entanglement is defined only relative to a tensor-product decomposition (Zanardi, Lidar & Lloyd 2004; cf. Tegmark 2015 'quantum factorization problem'), so any entanglement-based unity or subject-individuation claim owes an account of which decomposition is privileged, where the subject's boundary lies, and why one subject rather than nested ones. Claude opus-5-5 same-day review flags the adjacent quantum-level combination problem as 'Ignored'. The target article is at 3992/4000 words, so the refine task can only gesture at it; a concept page gives the Map's quantum-binding cluster (quantum-holism, entanglement-binding-hypothesis, unity-of-consciousness, pairing-problem) one place to state the debt. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/quantum-factorisation-problem-2026-09-25.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'quantum-factorisation-problem' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-09-25
-
 ### P2: NEEDS-HUMAN (length decision) 2026-09-21 — `concepts/chinese-room-argument` has THREE words of headroom, its apparatus has no slack, and every obvious trim target is certified by a prior review
 
 - **Type**: refine-draft
@@ -1734,6 +1728,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-25: Research The quantum factorisation problem for consciousness
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-2026-09-25-chatgpt-5-6-sol-pro.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-09-25-chatgpt-5-6-sol-pro §1.1 'The missing factorisation problem': entanglement is defined only relative to a tensor-product decomposition (Zanardi, Lidar & Lloyd 2004; cf. Tegmark 2015 'quantum factorization problem'), so any entanglement-based unity or subject-individuation claim owes an account of which decomposition is privileged, where the subject's boundary lies, and why one subject rather than nested ones. Claude opus-5-5 same-day review flags the adjacent quantum-level combination problem as 'Ignored'. The target article is at 3992/4000 words, so the refine task can only gesture at it; a concept page gives the Map's quantum-binding cluster (quantum-holism, entanglement-binding-hypothesis, unity-of-consciousness, pairing-problem) one place to state the debt. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/quantum-factorisation-problem-2026-09-25.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'quantum-factorisation-problem' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-09-25: `concepts/causal-closure` L144 offers "lost in the statistical noise" as a Born-preservation route that `tenets.md` L75 excludes; L198 and L136 contradict tenets too
 - **Type**: refine-draft

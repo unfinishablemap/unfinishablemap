@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-25T14:16:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/)
+- **Word count**: 2964 → 2969 (+5)
+- **Critical issues addressed**: 1 (Pitt 2004 source/Map conflation: the citation sat after the Map's gloss that the content-determination process is hidden; Pitt's thesis and the Map's gloss are now separate sentences)
+- **Medium issues addressed**: 2 (the `[[phenomenal-depth|attend harder]]` anchor pointed at a page arguing attention *does* disclose layers, so the content/medium split is now stated; "cognitively impenetrable" is now told apart from Siegel/Pylyshyn cognitive penetration, as `concepts/cognitive-penetration` L74 flagged. The phrase quoted at its L69 is kept verbatim)
+- **Enhancements made**: 2 (trims for length neutrality: a redundant degraded-signal sentence and two Further Reading glosses)
+- **Citations**: the ledger from 2026-07-13 is carried forward because References are unchanged since that publisher pass. Engagements: functionalism Mode Two, physicalism Mode Three (unchanged)
+- **Output**: [deep-review-2026-09-25-phenomenal-transparency-opacity-spectrum](/reviews/deep-review-2026-09-25-phenomenal-transparency-opacity-spectrum/)
+
 ## 2026-09-25T14:10:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The quantum factorisation problem for consciousness (harvested from outer-review-2026-09-25-chatgpt-5-6-sol-pro §1.1)

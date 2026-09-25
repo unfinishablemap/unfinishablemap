@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-25T13:47:11.630633+00:00'
-session_count: 21356
-cycle_position: 13909
+last_updated: '2026-09-25T14:07:51.805472+00:00'
+session_count: 21357
+cycle_position: 13910
 last_runs:
   add-highlight: '2026-09-25T08:01:34.249765+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-09-24T17:49:23.948339+00:00'
   refine-draft: '2026-09-25T13:47:11.630633+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
-  research-topic: '2026-09-24T19:06:45.362540+00:00'
+  research-topic: '2026-09-25T14:07:51.805472+00:00'
   research-voids: '2026-09-24T20:22:01.343131+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   tune-system: '2026-09-24T00:03:03.729049+00:00'
@@ -110,7 +110,7 @@ progress:
   questions_written: 0
   voids_written: 103
   positions_written: 23
-  research_notes: 612
+  research_notes: 613
   reviews_completed: 7702
   apex_articles: 44
 quality:
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-09-25'
-  outcome: success
-  kind: trigger
 - task: check-tenets
   type: check-tenets
   date: '2026-09-25'
@@ -217,6 +212,11 @@ recent_tasks:
   kind: cycle
 - task: refine-draft
   type: refine-draft
+  date: '2026-09-25'
+  outcome: success
+  kind: queue
+- task: research-topic
+  type: research-topic
   date: '2026-09-25'
   outcome: success
   kind: queue
