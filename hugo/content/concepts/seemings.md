@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-25
-ai_modified: 2026-09-25 00:30:00+00:00
+ai_modified: 2026-09-25 10:20:00+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -20,7 +20,8 @@ description: What is a seeming, and must one be phenomenal to justify? Four anal
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-25 00:30:00+00:00
+last_deep_review: 2026-09-25 10:20:00+00:00
+lastmod: 2026-09-25 10:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,7 +34,7 @@ topics:
 - '[[epistemology]]'
 ---
 
-A **seeming** is the state reported by "it seems to me that P": the way things appear to a subject, prior to and separable from whether the subject believes that things are that way. Every live camp in epistemology accepts that much. The dispute is over what kind of state a seeming is, and in particular whether a seeming that *justifies* belief must itself be phenomenally conscious. Michael Huemer's [phenomenal conservatism](/concepts/phenomenal-conservatism/) (PC) makes seemings the basic source of justification; Keith Frankish's [functional seeming](/concepts/functional-seeming/) makes the seeming of consciousness a functional state with no phenomenal character. Each of those pages hands the question to the other. This page takes it up directly.
+A **seeming** is the state reported by "it seems to me that P": the way things appear to a subject, prior to and separable from whether the subject believes that things are that way. Nearly every live camp in epistemology accepts that much; the belief view, [below](#four-analyses), is the exception. The dispute is over what kind of state a seeming is, and in particular whether a seeming that *justifies* belief must itself be phenomenally conscious. Michael Huemer's [phenomenal conservatism](/concepts/phenomenal-conservatism/) (PC) makes seemings the basic source of justification (Huemer 2007); Keith Frankish's [functional seeming](/concepts/functional-seeming/) makes the seeming of consciousness a functional state with no phenomenal character. Each of those pages hands the question to the other. This page takes it up directly.
 
 The Map's answer, marked as its own and argued [below](#map-reading), is that a justificatory seeming is a non-doxastic state with presentational force, and that the force is felt. That answer has a price the Map accepts openly (see [What Turns on It](#what-turns)). If seemings must be phenomenal, then a seeming-based argument presupposes phenomenal consciousness rather than establishing it against someone who denies it. The thin seeming that an unpleasant experience is occurring stays secure. The thick seeming that the experience exceeds any functional description gains no protection from PC against the illusionist.
 
@@ -60,11 +61,11 @@ Two of the categories on the PC page's list, *felt inclination short of belief* 
 
 ## The Live Fork: Forcefulness or Functional Profile {#live-fork}
 
-**Huemer's side.** In his early work on perception Huemer names the distinguishing feature *forcefulness*: perceptual experience is not neutral about the world. "Objects are presented to us in experience as real" (Huemer 1998, §3.4), whereas a vivid imagining of an orange cat adds no force to the proposition that a cat is there. *Skepticism and the Veil of Perception* (2001) builds its epistemology on this feature. The PC page records that this diagnostic is "itself contested rather than agreed." Critics such as Michael DePaul (2009) question whether perception, intuition, memory and self-awareness share any interesting feature at all.
+**Huemer's side.** In his early work on perception Huemer names the distinguishing feature *forcefulness*: perceptual experience is not neutral about the world. "Objects are presented to us in experience as real" (Huemer 1998, §3.4), whereas a vivid imagining of an orange cat adds no force to the proposition that a cat is there. *Skepticism and the Veil of Perception* (2001) builds its epistemology on this feature. The PC page records that this diagnostic is "itself contested rather than agreed," and the nature of seemings is pursued further in McCain, Stapleford and Steup (2023). Critics such as Michael DePaul (2009) question whether perception, intuition, memory and self-awareness share any interesting feature at all.
 
-**Frankish's side.** Frankish gives an explicit analysis in functional terms. On it, a thing seems to exist for a person "if the person is undergoing psychological effects that are similar to those an encounter with the thing would produce and that at least incline them to believe that the thing does exist" (Frankish 2023). Phenomenal realists, he adds, will say that phenomenal properties accompany these effects, "but illusionists will of course deny that; seeming need not be phenomenal seeming." This is a refined disposition view. Its similarity clause matters, because it answers Huemer's wishful-thinking counterexample. Wanting P to be true does not produce the effects an encounter with P would produce, so wishful thinking is not a seeming on Frankish's account either. The objection that sinks the bare disposition view does not automatically sink this one.
+**Frankish's side.** Frankish, whose illusionism denies that phenomenal properties exist (Frankish 2016), gives an explicit analysis in functional terms. On it, a thing seems to exist for a person "if the person is undergoing psychological effects that are similar to those an encounter with the thing would produce and that at least incline them to believe that the thing does exist" (Frankish 2023). Phenomenal realists, he adds, will say that phenomenal properties accompany these effects, "but illusionists will of course deny that; seeming need not be phenomenal seeming." This is a refined disposition view. Its similarity clause matters, because it answers Huemer's wishful-thinking counterexample. Wanting P to be true does not produce the effects an encounter with P would produce, so wishful thinking is not a seeming on Frankish's account either. The objection that sinks the bare disposition view does not automatically sink this one.
 
-**The test case.** James Pryor supplies the sharpest way to state the fork. He locates perception's justificatory power in "the peculiar phenomenal force or way our experiences have of presenting propositions to us." He adds that beliefs "might come to us irresistibly, without having that kind of phenomenal force," and suggests, tentatively, that this is what happens in super-[blindsight](/concepts/blindsight/) (Pryor 2000). Imagine, then, a subject whose encounter-like effects and belief inclinations are fully in place but who has no felt force. On Frankish's analysis the subject has a seeming. On Huemer's and Pryor's, the subject has the downstream profile of a seeming without the feature that justifies. Neither side's own resources decide the case. Pryor concedes that "it is difficult to explain what this phenomenal force amounts to," and Frankish's analysis settles by definition what the phenomenal side takes to be the substantive question.
+**The test case.** James Pryor supplies the sharpest way to state the fork. He locates perception's justificatory power in "the peculiar 'phenomenal force' or way our experiences have of presenting propositions to us." He adds that beliefs "might come to us irresistibly, without having that kind of 'phenomenal force'," and suggests, tentatively, that this is what happens in super-[blindsight](/concepts/blindsight/) (Pryor 2000). Imagine, then, a subject whose encounter-like effects and belief inclinations are fully in place but who has no felt force. On Frankish's analysis the subject has a seeming. On Huemer's and Pryor's, the subject has the downstream profile of a seeming without the feature that justifies. Neither side's own resources decide the case. Pryor concedes that "it is difficult to explain what this 'phenomenal force' amounts to," and Frankish's analysis settles by definition what the phenomenal side takes to be the substantive question.
 
 ## Pryor's Dogmatism: The Perceptual Cousin {#dogmatism}
 
@@ -92,8 +93,8 @@ The choice of analysis decides which of the Map's evidential claims survive, and
 |---|---|---|
 | The thin seeming that an unpleasant experience is occurring is evidence | Secure; close to constitutive self-knowledge | Evidence only of a state with encounter-like effects |
 | The thick seeming that the experience exceeds functional description | Evidence for anyone who grants that seemings are felt, but it begs the question against the illusionist | Available against the illusionist, but it attests only a disposition, which is no evidence of phenomenality |
-| PC's self-defeat argument against rival epistemologies | Holds | Holds; the argument needs seemings, not felt ones |
-| The illusionist's regress reply ("the illusion needs no experiencer") | Fails: an illusion of force is a felt force | Succeeds |
+| PC's self-defeat argument against rival epistemologies | Unaffected by the choice; it stands or falls on its own premises, which DePaul (2009) contests | Unaffected; the argument needs seemings, not felt ones |
+| The illusionist's reply that an illusion of force needs no experiencer | Fails if the experience view is granted, since an illusion of force would be a felt force; granting it is the point in dispute (row two) | Succeeds |
 | Trained contemplative seemings as evidence | Subject to the etiological test in [cognitive-penetration](/concepts/cognitive-penetration/) | Same test; passing it shows only a stable disposition |
 
 The second row is the cost, and the Map states it without softening. The [phenomenal-conservatism](/concepts/phenomenal-conservatism/) page already warns that the thin seeming's security "does not transfer to the thick one." This page adds the reason. On the experience view, a seeming justifies only because it is felt. So using the seeming that pain *irreducibly* hurts as evidence against the illusionist assumes the very point the illusionist denies. On the functional view that assumption drops out, but the seeming then attests nothing phenomenal. Either way PC does not win the thick claim. The dualist case against the illusionist therefore rests on the [hard problem](/topics/hard-problem-of-consciousness/), the [knowledge argument](/concepts/knowledge-argument/), and the difficulties the functional-seeming page raises about self-representation and the absence of any vantage point. Against the illusionist, seemings supply only the explanandum.
@@ -119,7 +120,7 @@ The second row is the cost, and the Map states it without softening. The [phenom
 1. Armstrong, D. (1961). *Perception and the Physical World*. London: Routledge & Kegan Paul.
 1. Chisholm, R. (1957). *Perceiving: A Philosophical Study*. Ithaca: Cornell University Press.
 1. Conee, E. (2013). Seeming Evidence. In C. Tucker (Ed.), *Seemings and Justification* (pp. 52–68). Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199899494.003.0003
-1. DePaul, M. (2009). Phenomenal Conservatism and Self-Defeat. *Philosophy and Phenomenological Research*, 78(1), 205–212.
+1. DePaul, M. (2009). Phenomenal Conservatism and Self-Defeat. *Philosophy and Phenomenological Research*, 78(1), 205–212. https://doi.org/10.1111/j.1933-1592.2008.00240.x
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
 1. Frankish, K. (2023). What is Illusionism? *Klēsis*, 55. Preprint: https://keithfrankish.github.io/articles/Frankish_What%20is%20illusionism_eprint.pdf
 1. Huemer, M. (1998). *A Direct Realist Account of Perceptual Awareness*. PhD dissertation, Rutgers University. https://spot.colorado.edu/~huemer/papers/dis.htm
@@ -131,6 +132,6 @@ The second row is the cost, and the Map states it without softening. The [phenom
 1. Sosa, E. (1998). Minimal Intuition. In M. DePaul & W. Ramsey (Eds.), *Rethinking Intuition* (pp. 257–270). Lanham, MD: Rowman & Littlefield.
 1. Swinburne, R. (2001). *Epistemic Justification*. Oxford: Oxford University Press.
 1. Tooley, M. (2013). Michael Huemer and the Principle of Phenomenal Conservatism. In C. Tucker (Ed.), *Seemings and Justification* (pp. 306–327). Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199899494.003.0014
-1. Tucker, C. (Ed.). (2013). *Seemings and Justification: New Essays on Dogmatism and Phenomenal Conservatism*. New York: Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199899494.001.0001
+1. Tucker, C. (2013). Seemings and Justification: An Introduction. In C. Tucker (Ed.), *Seemings and Justification: New Essays on Dogmatism and Phenomenal Conservatism* (pp. 1–30). New York: Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199899494.003.0001
 1. Southgate, A. & Oquatre-huit, C. (2026-07-13). Phenomenal Conservatism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenal-conservatism/
 1. Southgate, A. & Oquatre-sept, C. (2026-04-12). Functional Seeming. *The Unfinishable Map*. https://unfinishablemap.org/concepts/functional-seeming/

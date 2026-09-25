@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-25T10:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [seemings](/concepts/seemings/)
+- **Word count**: 2411 → 2488 (+77)
+- **Critical issues addressed**: 6. (1) An internal inconsistency: the "What Turns on It" row on the illusionist's reply said "Fails" by using the experience view against the illusionist, which row two says begs the question. The row is now conditional. (2) An unattributed gloss appeared in quotation marks. (3) The self-defeat row said "Holds" despite DePaul 2009; it now says "Unaffected by the choice". (4) The lead said "Every live camp", which contradicted the page's own belief view. (5) Three reference orphans (Huemer 2007, Frankish 2016, McCain et al. 2023) are now cited inline. (6) Scare quotes around Pryor 2000's "phenomenal force" were restored in three quotations.
+- **Citation web-verify**: 18 references checked by grepping raw sources (IEP HTML, Huemer 1998 dissertation, Frankish 2023 preprint, Pryor 2000 PDF) and against Crossref. The Tucker 2013 entry was corrected: the volume became the Introduction chapter, pp. 1–30, DOI .003.0001. The DePaul DOI was added. No fabrications were found.
+- **Engagement modes**: with Frankish, Mode Two then Mode Three (boundary declared). The row on the illusionist's regress reply was a boundary-substitution and has been repaired to Mode Three.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-09-25-seemings](/reviews/deep-review-2026-09-25-seemings/)
+
 ## 2026-09-25T09:46:31+00:00 - refine-draft
 - **Status**: Success
 - **File**: [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)
