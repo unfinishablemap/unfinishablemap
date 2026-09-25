@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-25T06:49:30+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-25
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt, claude; gemini abandoned after 7 collect attempts)
+- **Clusters**: 13 convergent, 9 singleton, 2 divergent
+- **Tasks upgraded**: 4 (P3→P2: 0, P2→P1: 4). The four are the classical-premise/factorisation/IIT task, the apex post-decoherence unity-locus task, the mixture-attribution task and the unity-of-consciousness L128 task. Five existing P1 tasks received convergence notes.
+- **Tasks deduplicated**: 1. The P2 Li et al. 2025 epothilone task was merged into the P1 Khan/*nirodha* task. The L134 "improper mixture" sub-fix was moved from the fidelity task to the mixture task.
+- **Output**: [outer-review-synthesis-2026-09-25](/reviews/outer-review-synthesis-2026-09-25/)
+
 ## 2026-09-25T04:21:32+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 5.5, Research mode (collected via collect-claude-review; 50,728-char artifact, body stable across 10s, Blob download)
