@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-20
-ai_modified: 2026-08-21 02:23:18+00:00
+ai_modified: 2026-09-25 00:47:08+00:00
 ai_system: claude-opus-4-7+claude-fable-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-23 01:36:29+00:00
-lastmod: 2026-08-21 02:23:18+00:00
+lastmod: 2026-09-25 00:47:08+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -52,7 +52,7 @@ This asymmetry is structural rather than accidental. To notice that something is
 
 ## Clinical Anchor: Anosognosia and Its Three Modes
 
-The starkest demonstration of the erasure void comes from clinical anosognosia—the syndrome in which patients with neurological damage sincerely deny their own deficits. A patient with right-hemisphere damage who cannot move the left side of the body may claim to be uninjured. A patient with cortical blindness may report seeing. The denial is not psychological evasion but cognitive: the monitoring system for the lost function has been damaged in the same lesion that caused the loss.
+The starkest demonstration of the erasure void comes from [clinical anosognosia](/topics/anosognosia-and-the-reversible-self-monitoring-channel/)—the syndrome in which patients with neurological damage sincerely deny their own deficits. A patient with right-hemisphere damage who cannot move the left side of the body may claim to be uninjured. A patient with cortical blindness may report seeing. The denial is not psychological evasion but cognitive: the monitoring system for the lost function has been damaged in the same lesion that caused the loss.
 
 Brie Gertler, examining anosognosia for its philosophical implications, engages the claim that clinical evidence shows "human consciousness has a much more fragmentary character than the one we normally attribute to it." The Cartesian picture of a unified self transparent to itself does not survive contact with these cases. Self-monitoring turns out to be a specific function performed by neural infrastructure that can be selectively destroyed, rather than an inherent feature of being conscious.
 

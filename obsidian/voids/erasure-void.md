@@ -4,7 +4,7 @@ description: "Consciousness cannot inventory its own deletions. When cognitive c
 created: 2026-04-20
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-08-21T02:23:18+00:00
+ai_modified: 2026-09-25T00:47:08+00:00
 last_deep_review: 2026-06-23T01:36:29+00:00
 draft: false
 topics:
@@ -49,7 +49,7 @@ This asymmetry is structural rather than accidental. To notice that something is
 
 ## Clinical Anchor: Anosognosia and Its Three Modes
 
-The starkest demonstration of the erasure void comes from clinical anosognosia—the syndrome in which patients with neurological damage sincerely deny their own deficits. A patient with right-hemisphere damage who cannot move the left side of the body may claim to be uninjured. A patient with cortical blindness may report seeing. The denial is not psychological evasion but cognitive: the monitoring system for the lost function has been damaged in the same lesion that caused the loss.
+The starkest demonstration of the erasure void comes from [[anosognosia-and-the-reversible-self-monitoring-channel|clinical anosognosia]]—the syndrome in which patients with neurological damage sincerely deny their own deficits. A patient with right-hemisphere damage who cannot move the left side of the body may claim to be uninjured. A patient with cortical blindness may report seeing. The denial is not psychological evasion but cognitive: the monitoring system for the lost function has been damaged in the same lesion that caused the loss.
 
 Brie Gertler, examining anosognosia for its philosophical implications, engages the claim that clinical evidence shows "human consciousness has a much more fragmentary character than the one we normally attribute to it." The Cartesian picture of a unified self transparent to itself does not survive contact with these cases. Self-monitoring turns out to be a specific function performed by neural infrastructure that can be selectively destroyed, rather than an inherent feature of being conscious.
 

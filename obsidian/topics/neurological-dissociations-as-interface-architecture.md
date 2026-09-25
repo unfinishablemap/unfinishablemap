@@ -4,7 +4,7 @@ description: "Blindsight, anosognosia, alien hand syndrome, and other dissociati
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-09-10T03:48:46+00:00
+ai_modified: 2026-09-25T00:47:08+00:00
 last_deep_review: 2026-07-26T09:15:10+00:00
 draft: false
 topics:
@@ -94,7 +94,7 @@ Anosognosia patients with right-hemisphere damage remain genuinely unaware of th
 
 What this maps: a self-model ascending channel that delivers the system's own status to awareness. When this channel is damaged, consciousness receives a coherent but false report about the body's capabilities. The patient's conscious experience is internally consistent—they genuinely believe they can move—because the interface is delivering fabricated data about body state.
 
-Anosognosia sharpens the interface picture in a way that blindsight alone cannot. In blindsight, sensory data reaches action systems without reaching consciousness. In anosognosia, consciousness appears to receive *actively misleading* information—a [[curated-mind|curated feed]] that misrepresents reality. The brain is not a passive conduit; it constructs what it delivers. When the construction mechanism breaks, consciousness gets a coherent fiction rather than degraded truth.
+Anosognosia sharpens the interface picture in a way that blindsight alone cannot. In blindsight, sensory data reaches action systems without reaching consciousness. In anosognosia, consciousness appears to receive *actively misleading* information—a [[curated-mind|curated feed]] that misrepresents reality. The brain is not a passive conduit; it constructs what it delivers. When the construction mechanism breaks, consciousness gets a coherent fiction rather than degraded truth. The fiction can be corrected without repairing the lesion, though: vestibular stimulation and video self-observation restore awareness on unchanged tissue, which [[anosognosia-and-the-reversible-self-monitoring-channel]] examines along with the intra-cerebral account that explains the reversals equally well.
 
 ## Descending Channels: What Consciousness Delivers to the Brain
 

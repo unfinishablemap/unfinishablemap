@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-25T00:47:08+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Anosognosia and the reversible self-monitoring channel
+- **Output**: [anosognosia-and-the-reversible-self-monitoring-channel](/topics/anosognosia-and-the-reversible-self-monitoring-channel/)
+- **Word count**: 2878 (topics soft 3000; status ok)
+- **Based on research**: yes — [intact-substrate-reversibility-2026-09-16](/research/intact-substrate-reversibility-2026-09-16/), [metacognitive-access-versus-retention-2026-09-16](/research/metacognitive-access-versus-retention-2026-09-16/), [hemispatial-neglect-2026-09-16](/research/hemispatial-neglect-2026-09-16/); brief from [optimistic-2026-09-16-clinical-evidence-wing](/reviews/optimistic-2026-09-16-clinical-evidence-wing/) High Priority 1
+- **Notes**: First corpus treatment of the anosognosia reversal literature (Cappa et al. 1987 vestibular 2/4; Fotopoulou et al. 2009 video, n = 1; Moro et al. 2011 emergent awareness 3/12) with Vocat et al. 2010 and Berti et al. 2005 as the anatomical anchor and Fotopoulou et al. 2010 implicit awareness. Fotopoulou's intra-cerebral account and the two-factor account (Davies, Aimola Davies & Coltheart 2005) are presented as unrefuted rivals (falsifier state 2); interface reading held at live hypothesis; Tenet 3 framed as compatibility only, per [P-CS6](/positions/consciousness-scope/#p-cs6). Corrective added: Vocat's early spontaneous resolution is confounded by tissue recovery, so only the minute-scale/single-viewing reversals count as no-tissue-change cases. All 11 external citations verified at Crossref, with quoted abstract text checked against PubMed/Europe PMC. Reciprocals: sentence added in `neurological-dissociations-as-interface-architecture` §Self-Model Ascending (now 3448w); piped link in `erasure-void` §Clinical Anchor (zero words).
+
 ## 2026-09-25T00:35:49+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Quantum interpretation wing (9 articles never named in any 2026-08/09 optimistic review): quantum-immortality, many-minds-interpretation, consistent-histories-interpretation, quantum-measurement-and-consciousness, quantum-measurement-and-subjective-probability, quantum-probability-consciousness, multi-mind-collapse-problem, collapse-and-time, contextual-selection-in-quantum-foundations. The Everett-facing pages are model framework-boundary writing. The probability pair lags its siblings on the scope of the interface reading of Born probability. Five calibration defects each have a repaired sibling to copy: Frauchiger-Renner, PBR, Stapp as Born-bending, an unnamed Denton-2024 locus the surname sweep missed, and phenomenology used as evidence against MWI. Intra-wing wiring: 11 of 72 directed links; quantum-immortality has none either way.
