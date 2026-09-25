@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-25T18:34:08+00:00'
+ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-25'
-lastmod: 2026-09-25 18:34:08+00:00
+lastmod: 2026-09-25 21:02:53+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-25T21:02:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [thoughtful-local-friendliness-and-the-artificial-friend](/topics/thoughtful-local-friendliness-and-the-artificial-friend/)
+- **Original score**: n/a (targeted fix; review: reviews/pessimistic-2026-09-25-thoughtful-local-friendliness.md, Issues 1-3 + Physical Supervenience counterargument + unsupported-claims table)
+- **Changes**: (1) Case 2 now derives non-recoherence from absoluteness via the LF theorem, states that only a selector fixing outcomes the error-corrected baseline leaves open could make the logical thought definite, quotes prebiotic-collapse L122 ("within an already-collapsing physics rather than sourcing the collapse", verified on disk) and points to its collapse-priority debt (#the-completeness-tension, L126); Chalmers-McQueen demoted from "as on" analogue to "toward". Relation-to-Site "agree" -> "point the same way, though the mechanism Case 2 would need is still owed". (2) L105 "strong claim, and a checkable one" replaced: incompatibility follows from [P-AS1](/positions/ai-substrate-verdicts/#p-as1)'s eligibility definitions, testable only insofar as the criteria are, with [P-AS1](/positions/ai-substrate-verdicts/#p-as1)'s "Would shift if" (interface-eligibility law) named; empirical residue stated. (3) L103 adds the matched non-cognitive reversible-computation control (size, duration, code distance) so the uncorrectable-baseline escape cannot absorb the failure. (4) Physical Supervenience exit: Bidirectional-Interaction argument replaced with WCR's own wording ("can thus be located within a bounded region in space-time"; "does not require" monism — verified in arXiv 2209.08491v4 full text) applied to cognitive thoughts; the word "locational" is not attributed to WCR. Dependent Relation-to-Site sentence removed. (5) Qualifiers: "fixed in advance" -> "rests on a verdict registered in August 2026" (extension to reversible machine made here); Dualism laboratory consequences scoped to Case 2; "removes every such site" -> [P-AS1](/positions/ai-substrate-verdicts/#p-as1)'s "actively isolates". Deep review's settled items and stability notes untouched.
+- **Engagement classification**: WCR Physical Supervenience: Mode One (accepted inside the authors' framework, no boundary-substitution); Chalmers-McQueen: Mode Three residue (mechanism owed, stated as debt).
+- **Length**: analyze_length 2829 -> 2998 (topics soft 3000, hard 4000); +169, slightly above the +100-150 brief after trimming.
+- **Published**: yes
 
 ## 2026-09-25T20:50:00+00:00 - pessimistic-review
 - **Status**: Success
