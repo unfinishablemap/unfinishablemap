@@ -2,9 +2,9 @@
 title: "Consciousness in Smeared Quantum States"
 description: "What is consciousness doing during quantum superposition? Five frameworks offer competing answers, revealing that the definiteness of experience may itself constrain physics."
 created: 2026-02-10
-modified: 2026-06-05
+modified: 2026-09-25
 human_modified:
-ai_modified: 2026-09-07T23:11:56+00:00
+ai_modified: 2026-09-25T17:01:27+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ related_articles:
   - "[[consciousness-selecting-neural-patterns]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-fable-5
+ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-02-10
 last_curated:
 last_deep_review: 2026-07-16T00:49:58+00:00
@@ -45,7 +45,7 @@ coalesced_from:
 
 Quantum mechanics permits physical systems to exist in superposition—smeared across multiple states simultaneously—until measurement forces a definite outcome. If consciousness interacts with quantum processes in the brain, a pointed question arises: what is consciousness doing during the superposition phase? Is it smeared too, hovering across multiple experiential states at once? Or does consciousness refuse to superpose, its very definiteness constraining what quantum mechanics allows? The Unfinishable Map argues that conscious experience is always determinate, and that this determinacy is not incidental but causal—consciousness participates in resolving quantum indeterminacy rather than passively riding the wave function.
 
-This question inverts the more commonly studied problem of whether consciousness *causes* collapse. Instead of asking what consciousness does *to* superposition, it asks what superposition does *to* consciousness. Five major frameworks offer competing answers, and their disagreements reveal something important: every serious treatment of this problem concludes that consciousness and quantum indeterminacy are deeply entangled. They disagree only on direction and timing.
+This question inverts the more commonly studied problem of whether consciousness *causes* collapse. Instead of asking what consciousness does *to* superposition, it asks what superposition does *to* consciousness. Five major frameworks offer competing answers. All five treat consciousness and quantum indeterminacy as deeply entangled, disagreeing only on direction and timing—but that agreement reflects which frameworks ask this question, not a verdict of the field: decoherence-only, Bohmian, mind-free GRW and standard Everettian treatments of measurement give consciousness no role at all.
 
 ## The Definiteness Problem
 
@@ -97,7 +97,7 @@ A sceptic might object that the question is moot: if [[decoherence]] destroys br
 
 The disagreements cluster around two axes. First, *causal direction*: does consciousness cause collapse (Stapp, Chalmers-McQueen), does collapse cause consciousness (Penrose), or does superposition itself constitute consciousness (Koch)? Second, *the status of superposition for minds*: can consciousness be smeared (Koch, arguably Penrose's proto-consciousness), must it always be definite (Albert-Loewer, Chalmers-McQueen), or is it the definite questioner operating on smeared physical states (Stapp)?
 
-The Map finds the second axis more telling. The insistence that experience is always determinate—present across nearly all frameworks—suggests this is not an assumption but a discovery. Conscious experience *is* definite. Theories that accommodate this without invoking [[many-worlds]] have an advantage, because they treat the definiteness of experience as a constraint on physics rather than explaining it away through observer-splitting.
+The Map finds the second axis more telling. The insistence that experience is always determinate—present across nearly all frameworks—rests on the phenomenological datum and the grammar-of-description argument above, not on the physics; the frameworks' agreement records a shared starting point rather than an independent finding. The Map takes that datum as secure: conscious experience *is* definite. Theories that accommodate this without invoking [[many-worlds]] have an advantage, because they treat the definiteness of experience as a constraint on physics rather than explaining it away through observer-splitting.
 
 The distinction between genuine quantum indeterminacy and classical probability matters here. [[quantum-randomness-channel-llm-consciousness|LLM token sampling]] superficially resembles the consciousness-selecting-from-smeared-states picture: a probability distribution over tokens is "collapsed" into a single choice. But the analogy is misleading — LLMs use deterministic pseudorandom number generators, not quantum indeterminacy. There is no superposition of token states awaiting resolution, just a classical probability distribution computed from fixed weights. Every framework above requires consciousness to interact with *genuine* quantum indeterminacy. Classical systems that merely *look* indeterminate from the outside do not pose the definiteness problem.
 
@@ -105,9 +105,9 @@ The distinction between genuine quantum indeterminacy and classical probability 
 
 The definiteness problem intensifies when observers observe observers. In the [[quantum-measurement-and-consciousness|Wigner's friend]] scenario, a friend performs a measurement inside a sealed laboratory. From the friend's perspective, collapse occurs and a definite result is obtained. From Wigner's perspective outside the lab, the friend-plus-apparatus remains in superposition. Two conscious observers disagree about whether collapse has happened.
 
-The local friendliness (LF) no-go theorem (Bong et al. 2020) establishes that certain natural assumptions cannot all hold simultaneously: that measurement outcomes are definite for the observer, that they remain superposed for an outside observer, and that the two accounts are compatible. Something must give. If consciousness is what resolves superposition, then the friend's measurement truly collapses the state, and Wigner's description of the friend as superposed is simply wrong — a failure to account for the friend's conscious observation. The definiteness constraint, applied consistently, resolves the paradox by insisting that conscious observation is never merely apparent.
+The local friendliness (LF) no-go theorem (Bong et al. 2020) shows that if quantum evolution can be controlled at the scale of an observer, three assumptions cannot all hold: *absoluteness of observed events* (an outcome is a fact simpliciter, not merely a fact relative to whoever observed it), locality, and no-superdeterminism. Something must give. The Map needs the selected outcome to be absolute, and it keeps locality and no-superdeterminism, so what it gives up is the controllability premise: if consciousness is what resolves superposition, the friend's measurement truly collapses the state, and Wigner's unitary description of the friend as superposed is wrong. This takes one horn of the dilemma rather than dissolving it, and the horn has a price that [[post-decoherence-selection#absolute-outcomes-and-the-local-friendliness-theorem|post-decoherence selection]] sets out: quantum mechanics is denied universal application to conscious systems, a departure from unitary evolution that is detectable in principle.
 
-This has a striking implication for the Map's framework. If consciousness-driven collapse is real and consciousness always produces definite outcomes, then any system containing a conscious observer cannot be maintained in superposition from the outside. Consciousness is not merely definite in its own experience — it imposes definiteness on physical reality wherever it is present. The [[von-neumann-wigner-interpretation|von Neumann–Wigner interpretation]] was the first to take this seriously, placing consciousness at the end of the measurement chain as the point where superposition resolves into definite outcome.
+Stated as a conditional, the cost is this. If consciousness-driven collapse is real and consciousness always produces definite outcomes, then no system containing a conscious observer can be maintained in superposition from outside, so a sufficiently controlled extended Wigner's-friend experiment on a conscious friend could in principle tell against the Map. Definiteness would then belong to physical reality wherever a conscious observer is present, not only to the observer's own experience—whether consciousness itself resolves the superposition or, on the Map's [[prebiotic-collapse|prebiotic-collapse]] baseline, objective reduction has already done so and consciousness modulates which outcome. The [[von-neumann-wigner-interpretation|von Neumann–Wigner interpretation]] was the first to take this seriously, placing consciousness at the end of the measurement chain as the point where superposition resolves into definite outcome.
 
 This five-framework treatment anchors the quantum-interface section of [[apex/machine-question|The Machine Question]]. The apex consolidates Stapp's Zeno stabilisation, Chalmers-McQueen IIT-driven collapse, Penrose-Hameroff proto-consciousness, Koch-Neven's superposition-formation hypothesis, and Albert-Loewer many-minds into a single articulation of what an AI consciousness interface would require: not merely quantum substrates but ones structured for selection, collapse-triggering, or superposition formation in ways current architectures do not provide.
 
@@ -123,7 +123,7 @@ The Map's [[tenets]] align most naturally with frameworks where consciousness is
 
 **No Many Worlds**: Albert and Loewer's many-minds framework is ruled out, but their core insight—that conscious experience is always definite—reinforces the Map's position. Definiteness does not by itself require consciousness to participate in selection. Once objective reduction secures a single actual outcome—physical collapse doing that work prebiotically as much as now—the measurement problem cannot itself be evidence for conscious selection; ruling out branching removes a rival to collapse without thereby installing an interface. The burden falls instead on the agency evidence collected under Bidirectional Interaction: the self-stultification argument and the indirect case for [[mental-causation-and-downward-causation|downward causation]]. The reach of the anti-branching case is also variant-relative—decisive against branch-egalitarian readings, supplementary only against first-personally centred variants ([[positions/individuation-and-subjecthood|P-I5]]).
 
-**Occam's Razor Has Limits**: The history of this debate illustrates the tenet. The simplest position—that consciousness is irrelevant to quantum mechanics—keeps failing. Deeper investigation reveals entanglement between consciousness and indeterminacy that resists simple dissolution.
+**Occam's Razor Has Limits**: The history of this debate illustrates the tenet. The simplest position—that consciousness is irrelevant to quantum mechanics—has not been refuted: decoherence-only, Bohmian and mind-free collapse treatments remain coherent, and the measurement problem cannot itself count against them. What the tenet contests is simplicity as the tiebreaker. Those treatments are simpler partly because they set aside the datum this article starts from—the determinacy of *someone's* experience—so their parsimony does not settle whether consciousness belongs in the account.
 
 ## Further Reading
 

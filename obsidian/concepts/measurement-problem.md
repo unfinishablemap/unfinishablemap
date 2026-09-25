@@ -4,7 +4,7 @@ description: "Quantum mechanics' central puzzle: why measurement yields definite
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-08-13T10:25:57+00:00
+ai_modified: 2026-09-25T17:01:27+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,7 +50,7 @@ related_articles:
   - "[[vertiginous-question]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-18T14:12:20+00:00
@@ -142,7 +142,7 @@ Conscious observation precipitates collapse. Von Neumann's formalism permits pla
 
 ## The Observer Problem
 
-Wigner's friend scenarios sharpen this: Frauchiger and Renner (2018) derive contradictions when observers apply quantum mechanics to each other, and the local friendliness theorem (Bong et al. 2020) shows that definite outcomes for the observer, superposition for an outsider, and mutual compatibility cannot all hold.
+Wigner's friend scenarios sharpen this: Frauchiger and Renner (2018) derive contradictions when observers apply quantum mechanics to each other, and the local friendliness theorem (Bong et al. 2020) shows that absoluteness of observed events, locality and no-superdeterminism cannot all hold.
 
 Albert and Loewer identified the root issue: the measurement problem is really the *determinate-experience problem*. Brains should enter superposition, yet [[consciousness-in-smeared-quantum-states|conscious experience is never superposed]]. Albert and Loewer diagnose this asymmetry as consciousness having a constitutive determinacy physical systems appear to lack—a diagnosis, not a neutral observation, since a functionalist would instead hold that the determinacy of experience is itself a structural feature awaiting reduction. On the Map's reading of their diagnosis, if consciousness participates in collapse, it acts *on* the superposition from experiential definiteness rather than entering it.
 

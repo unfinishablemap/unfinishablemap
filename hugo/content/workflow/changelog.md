@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-25T17:01:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/) (+ sibling [measurement-problem](/concepts/measurement-problem/))
+- **Original score**: n/a (`scripts/curate.py` absent); task from reviews/optimistic-2026-09-17-quantum-mechanism-wing.md Hardline-Empiricist concern 1
+- **Changes**: All five 09-17 loci verified live, then conformed the body to the article's own claim that the measurement problem is not evidence for conscious selection. (1) Opening: "every serious treatment ... concludes" replaced by an explicit scoping to the five surveyed frameworks, naming decoherence-only, Bohmian, mind-free GRW and standard Everettian treatments as giving consciousness no role. (2) "not an assumption but a discovery" replaced by: determinacy rests on the phenomenological datum and the grammar-of-description argument, and the frameworks' agreement is a shared starting point, not an independent finding. (3) LF theorem restated with Bong et al.'s actual assumptions (absoluteness of observed events, locality, no-superdeterminism, given controllability at observer scale). "Resolves the paradox" is now described as taking one horn at a cost (quantum mechanics denied universal application to conscious systems, detectable in principle), linked to [post-decoherence-selection](/concepts/post-decoherence-selection/)#absolute-outcomes. (4) "imposes definiteness wherever present" is now a conditional statement of that cost, made compatible with the prebiotic-collapse OR baseline. (5) Occam section: "keeps failing" replaced by: the simple position is unrefuted; the tenet contests only simplicity-as-tiebreaker. §Definiteness Problem left untouched. Sibling measurement-problem L145 LF paraphrase corrected word-neutrally (-5 words). No other corpus sibling carries the old paraphrase. No named-opponent reply was edited, so no mode classification applies.
+- **Length**: topic 2892 → 3065 (soft 3000 / hard 4000); measurement-problem 3659 → 3654 (hard 3500, still over, reduced)
+- **Published**: yes
+
 ## 2026-09-25T16:48:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [sorkin-delta-brain-internal-analogues](/topics/sorkin-delta-brain-internal-analogues/) + [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/)

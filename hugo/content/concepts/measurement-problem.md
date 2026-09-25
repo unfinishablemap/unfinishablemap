@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-08-13 10:25:57+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-09-25 17:01:27+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[quantum-consciousness]]'
@@ -37,7 +37,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 14:12:20+00:00
-lastmod: 2026-08-13 10:25:57+00:00
+lastmod: 2026-09-25 17:01:27+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -145,7 +145,7 @@ Conscious observation precipitates collapse. Von Neumann's formalism permits pla
 
 ## The Observer Problem
 
-Wigner's friend scenarios sharpen this: Frauchiger and Renner (2018) derive contradictions when observers apply quantum mechanics to each other, and the local friendliness theorem (Bong et al. 2020) shows that definite outcomes for the observer, superposition for an outsider, and mutual compatibility cannot all hold.
+Wigner's friend scenarios sharpen this: Frauchiger and Renner (2018) derive contradictions when observers apply quantum mechanics to each other, and the local friendliness theorem (Bong et al. 2020) shows that absoluteness of observed events, locality and no-superdeterminism cannot all hold.
 
 Albert and Loewer identified the root issue: the measurement problem is really the *determinate-experience problem*. Brains should enter superposition, yet [conscious experience is never superposed](/topics/consciousness-in-smeared-quantum-states/). Albert and Loewer diagnose this asymmetry as consciousness having a constitutive determinacy physical systems appear to lack—a diagnosis, not a neutral observation, since a functionalist would instead hold that the determinacy of experience is itself a structural feature awaiting reduction. On the Map's reading of their diagnosis, if consciousness participates in collapse, it acts *on* the superposition from experiential definiteness rather than entering it.
 
