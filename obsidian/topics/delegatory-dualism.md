@@ -4,7 +4,7 @@ description: "Bradford Saad's 2025 theory explains how consciousness causes beha
 created: 2026-01-29
 modified: 2026-01-29
 human_modified:
-ai_modified: 2026-09-18T17:23:30+00:00
+ai_modified: 2026-09-25T22:16:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -105,7 +105,7 @@ The central mechanism: when an experience is instantiated via profile-matching, 
 
 > **Delegatory Law**: "Whenever a subject instantiates an experiential property E and a physical property P such that E's causal profile is a subset of P's default causal profile, E's causal profile preempts the corresponding subset of P's default causal profile." (Saad 2025)
 
-Saad's analogy: A major and a sergeant both order troops to advance. The major's order preempts the sergeant's—the troops advance because the major commanded, not because of two commands overdetermining the same outcome. The sergeant's order is rendered causally idle, not duplicated.
+Saad's analogy, a version of [[trumping-preemption|Schaffer's trumping case]]: a major and a sergeant both shout "Charge!" at one corporal. The major's order preempts the sergeant's—the corporal charges because the major commanded, not because two commands overdetermine the same outcome. The sergeant's order is rendered causally idle, not duplicated.
 
 Similarly: when you experience pain, your brain state delegates its "cause wincing" responsibility to the pain itself. Pain causes the wince. The physical state could have caused it but didn't—its causal role was taken over by the experience it enabled.
 

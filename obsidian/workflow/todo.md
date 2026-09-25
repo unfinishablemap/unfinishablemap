@@ -1410,22 +1410,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **CLOSED BY THE DRIVER 2026-09-19 09:0x UTC.** The over-concession task on `topics/metaproblem-of-consciousness-under-dualism` discharged this in the same paragraph, as designed — all three findings shared one section and were written once. **Measured after the edit: `Saad` 0 → 4 occurrences in that article** (word-boundary), against 16 deployments of `realizationism`, with the full metadata landed from Chalmers 2020's own reference list (*JCS* 26(9–10):205–216) and a piped `[[delegatory-dualism|delegatory dualism]]` reciprocal into the existing Saad cluster. Verified 4:4 in **both** obsidian and hugo. ⚠️ **The attribution guard held**: Chalmers keeps the coinage ("whose term it is"); Saad supplies the interactionist version only. **THE SECOND HALF IS DELIBERATELY NOT DONE, and should not be re-minted.** This task said "both meta-problem articles", but `concepts/meta-problem-of-consciousness` deploys `realizationism` exactly **once** (offset 8974), where it defines the term inline and immediately hands off via `[[metaproblem-of-consciousness-under-dualism|interactionist development]]` to the article that now carries the provenance. A single defining mention behind an explicit hand-off does not need its own attribution, and that file is at **3481/3499 words — 18 words of headroom — with an open `condense` task against it**. Adding a citation there would trip the hard gate.
 
-### P3: Six more files paraphrase Schaffer's soldiers case as "troops advance" — unquoted, so not a quotation defect, but still not his case
-
-- **Type**: refine-draft
-- **File**: obsidian/topics/delegatory-dualism.md
-- **Source**: found by the 2026-09-19 refine-draft pass that fixed the four quoted `"Advance!"` loci; this is the unquoted tail, deliberately left out of that pass to avoid widening a quotation fix
-- **Generated**: 2026-09-19
-- **Notes**: The four-locus fix corrected every place the corpus put **"Advance!"** *inside quotation marks*. A sweep for files containing `sergeant` then found **six further files** that paraphrase the case without quote marks, as a major and a sergeant ordering **troops to advance**:
-  - `obsidian/topics/delegatory-dualism.md` — *"A major and a sergeant both order troops to advance."*
-  - `obsidian/topics/overdetermination-dissolution-under-selection-only-interactionism.md` — *"pairs a sergeant and a major both ordering an advance; the troops advance"*
-  - `obsidian/concepts/articulability-of-q1.md` — *"the major's troops and the sergeant's troops advance identically"*
-  - `obsidian/research/bradford-saad-delegatory-dualism-2026-01-28.md` — *"a sergeant's command to advance troops"* (dated research note — marked dated correction, not silent rewrite)
-  - `archive/concepts/preemption.md` and `archive/concepts/causal-delegation.md` — archived, live at their URLs ([[defect-sweeps-must-include-archive-tree]])
-  **Severity is genuinely lower and this is not urgent.** None of these six uses quotation marks or attributes the wording to Schaffer as verbatim, so none is a quotation-fidelity defect. They are loose paraphrase. Schaffer's actual case is **one corporal deciding to charge**, not a body of troops advancing, so the paraphrase does misdescribe the effect — the single decider is what makes the case clean, since a crowd of troops invites the "some heard one, some the other" reading Schaffer is trying to exclude.
-  **Scope discipline**: this is a paraphrase-accuracy pass, not a retraction. The philosophical point every one of these files uses the case for — rank settles which command did the work — is untouched and must stay ([[i-widen-retractions-and-upgrade-coiners-into-proponents]]). Check each host's length headroom before editing; `articulability-of-q1` uses the two-groups-of-troops framing to make a *different* point about indiscernibility and may not want the corporal at all.
-  **Verified at the publisher on 2026-09-19, do not re-fetch**: `jonathanschaffer.org/trumping.pdf` ~offset 30560 — *"the major and and the sergeant stand before the corporal, both shout 'Charge!' at the same time, and the corporal decides to charge."* `Advance` occurs exactly once in that PDF, in JSTOR boilerplate.
-
 ### P3: the 2026-09-10 apophatic ↔ emergence cross-link landed only one of its two legs
 - **Type**: refine-draft
 - **File**: obsidian/topics/emergence-as-universal-hard-problem.md
@@ -1619,6 +1603,19 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-25: Six more files paraphrase Schaffer's soldiers case as "troops advance" — unquoted, so not a quotation defect, but still not his case
+- **Type**: refine-draft
+- **File**: obsidian/topics/delegatory-dualism.md
+- **Notes**: The four-locus fix corrected every place the corpus put **"Advance!"** *inside quotation marks*. A sweep for files containing `sergeant` then found **six further files** that paraphrase the case without quote marks, as a major and a sergeant ordering **troops to advance**:
+  - `obsidian/topics/delegatory-dualism.md` — *"A major and a sergeant both order troops to advance."*
+  - `obsidian/topics/overdetermination-dissolution-under-selection-only-interactionism.md` — *"pairs a sergeant and a major both ordering an advance; the troops advance"*
+  - `obsidian/concepts/articulability-of-q1.md` — *"the major's troops and the sergeant's troops advance identically"*
+  - `obsidian/research/bradford-saad-delegatory-dualism-2026-01-28.md` — *"a sergeant's command to advance troops"* (dated research note — marked dated correction, not silent rewrite)
+  - `archive/concepts/preemption.md` and `archive/concepts/causal-delegation.md` — archived, live at their URLs ([[defect-sweeps-must-include-archive-tree]])
+  **Severity is genuinely lower and this is not urgent.** None of these six uses quotation marks or attributes the wording to Schaffer as verbatim, so none is a quotation-fidelity defect. They are loose paraphrase. Schaffer's actual case is **one corporal deciding to charge**, not a body of troops advancing, so the paraphrase does misdescribe the effect — the single decider is what makes the case clean, since a crowd of troops invites the "some heard one, some the other" reading Schaffer is trying to exclude.
+  **Scope discipline**: this is a paraphrase-accuracy pass, not a retraction. The philosophical point every one of these files uses the case for — rank settles which command did the work — is untouched and must stay ([[i-widen-retractions-and-upgrade-coiners-into-proponents]]). Check each host's length headroom before editing; `articulability-of-q1` uses the two-groups-of-troops framing to make a *different* point about indiscernibility and may not want the corporal at all.
+  **Verified at the publisher on 2026-09-19, do not re-fetch**: `jonathanschaffer.org/trumping.pdf` ~offset 30560 — *"the major and and the sergeant stand before the corporal, both shout 'Charge!' at the same time, and the corporal decides to charge."* `Advance` occurs exactly once in that PDF, in JSTOR boilerplate.
 
 ### ✓ 2026-09-25: `concepts/agent-causation` L61 says the Bidirectional Interaction tenet "is essentially agent-causal" — the same tenet-inflation tenet-check 139 flagged as an ERROR in consciousness-as-activity
 - **Type**: refine-draft

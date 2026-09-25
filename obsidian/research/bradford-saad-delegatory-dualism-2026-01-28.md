@@ -3,7 +3,7 @@ title: Research Notes - Bradford Saad's Delegatory Dualism
 created: 2026-01-28
 modified: 2026-01-28
 human_modified:
-ai_modified: 2026-09-08T16:50:16+00:00
+ai_modified: 2026-09-25T22:16:18+00:00
 draft: false
 topics: []
 concepts:
@@ -121,7 +121,7 @@ Duplicating functional organization should preserve phenomenology. Functional du
 - **Key arguments**:
   - A psychophysical law (Subset Law*) assigns experiences to physical states based on causal profile matching
   - When a match occurs, the experience preempts the physical state's causal contribution (Delegatory Law)
-  - Uses analogy: a major's command preempts a sergeant's command to advance troops—no overdetermination, just preemption
+  - Uses analogy: a major's command preempts a sergeant's command to advance troops—no overdetermination, just preemption. *(Dated correction, 2026-09-25: the underlying case is Schaffer's (2000) — the major and the sergeant both shout "Charge!" and a single corporal decides to charge; no body of troops advances. The single decider is what makes the case clean.)*
 - **Mechanism**: "Pain rather than the physical state causes you to wince" through this delegation process
 - **Relation to site tenets**: Strong alignment with Bidirectional Interaction (consciousness causes behavior) while satisfying empirical constraints relevant to Minimal Quantum Interaction
 

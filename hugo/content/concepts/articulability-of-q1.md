@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-09-09 13:49:23+00:00
+ai_modified: 2026-09-25 22:16:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-09 13:49:23+00:00
-lastmod: 2026-09-09 13:49:23+00:00
+lastmod: 2026-09-25 22:16:18+00:00
 modified: *id001
 related_articles:
 - '[[interface-formalization-void]]'
@@ -71,7 +71,7 @@ The central obstacle is the **fiction-to-nature gap**: the authority-selecting r
 
 This gap is inherited directly from Schaffer's framework. As the [prior treatment](/concepts/trumping-preemption/#costs-of-the-template) flags, Schaffer's cases are fictional or conventional; in both, the rule is stipulated by agents, and "Nature is not in the business of stipulating such rules." The structure shows *how* a sufficiency-without-authority dualism could be articulated; it gives "no reason to expect a non-stipulative analogue to exist at the psychophysical level."
 
-The difficulty is specific to *authority-selecting* laws between two *already-sufficient* processes. Ordinary natural laws operate where there is causal work to assign: the law settles what happens because, without it, the outcome would be undetermined. An authority law is stranger. By construction both candidates are sufficient, so the *physical outcome is already fixed* whichever is authoritative — the major's troops and the sergeant's troops advance identically. The law is asked to settle not *what happens* but *which of two adequate producers gets the credit*. In the fictional and conventional cases that "credit" is intelligible because there is an agent or community whose attribution practices the rule answers to. Strip away the attributing agent and it is unclear what natural fact the authority even tracks. This is the gap's sharpest form: not merely that we have not found the natural authority law, but that it is not obvious what *kind* of natural fact could play the role an agent's stipulation plays in the fictional cases.
+The difficulty is specific to *authority-selecting* laws between two *already-sufficient* processes. Ordinary natural laws operate where there is causal work to assign: the law settles what happens because, without it, the outcome would be undetermined. An authority law is stranger. By construction both candidates are sufficient, so the *physical outcome is already fixed* whichever is authoritative — the corporal charges either way. The law is asked to settle not *what happens* but *which of two adequate producers gets the credit*. In the fictional and conventional cases that "credit" is intelligible because there is an agent or community whose attribution practices the rule answers to. Strip away the attributing agent and it is unclear what natural fact the authority even tracks. This is the gap's sharpest form: not merely that we have not found the natural authority law, but that it is not obvious what *kind* of natural fact could play the role an agent's stipulation plays in the fictional cases.
 
 A dualist has two broad ways to close the gap, and each threatens to push Q1 out of its quadrant — the [taxonomy](/topics/four-quadrant-dualism-taxonomy/) flags exactly this instability. Grounding authority in *richer phenomenal facts* (some intrinsic feature of phenomenal character) inflates the mind side toward Q4; grounding it in *richer physical structure* (hidden variables, Russellian quiddities) inflates the physical side toward Q2/Q4. If neither minimal grounding works, Q1 collapses into a degenerate boundary between Q2 and Q4. Whether Q1's *delegatory* route survives is therefore identical to whether its authority law is articulable without inflation. The difference-making route is not hostage to that question in the same way, since it owes no authority law; but it inherits the same non-stipulativity demand for its own control law, so neither route escapes the criterion.
 

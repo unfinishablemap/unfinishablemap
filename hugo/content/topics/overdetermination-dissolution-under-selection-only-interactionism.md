@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-09-24 22:01:00+00:00
+ai_modified: 2026-09-25 22:16:18+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 06:42:00+00:00
-lastmod: 2026-09-24 22:01:00+00:00
+lastmod: 2026-09-25 22:16:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -87,7 +87,7 @@ Under this architecture, asking "did the physical cause or the mental cause prod
 
 The selection-only dissolution should not be conflated with the family of responses associated with Jonathan Schaffer's [trumping preemption](/concepts/trumping-preemption/) and Bradford Saad's [delegatory dualism](/topics/delegatory-dualism/), even though both bear surface resemblances and the Map has affirmed a [deeper unity](/topics/delegation-meets-quantum-selection/) between delegation as structure and selection as mechanism.
 
-Trumping preemption decouples *causal authority* from *counterfactual sufficiency*: both candidate causes remain sufficient for the effect, but a higher-order law designates one as authoritative. Schaffer's original example pairs a sergeant and a major both ordering an advance; the troops advance, and the major's order trumps the sergeant's by military protocol. Both orders were sufficient; only one is authoritative.
+Trumping preemption decouples *causal authority* from *counterfactual sufficiency*: both candidate causes remain sufficient for the effect, but a higher-order law designates one as authoritative. Schaffer's original example has a sergeant and a major both shouting "Charge!" at one corporal; the corporal charges, and the major's order trumps the sergeant's by military protocol. Both orders were sufficient; only one is authoritative.
 
 Saad's delegatory dualism applies this template to mental causation. Physical brain states have a *default causal profile* — what they would produce absent any experience. When an experience arises whose causal profile matches the default, a *delegatory law* designates the experience as the authoritative cause. The physical state is preempted, not absent; it would have caused the effect if not for the experience operating on the same channel.
 

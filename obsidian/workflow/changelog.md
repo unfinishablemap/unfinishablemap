@@ -5,6 +5,13 @@ ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-25T22:16:48+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/delegatory-dualism]] (+ [[topics/overdetermination-dissolution-under-selection-only-interactionism]], [[concepts/articulability-of-q1]], [[research/bradford-saad-delegatory-dualism-2026-01-28]])
+- **Original score**: n/a (targeted paraphrase-accuracy sweep; follow-on to the four-locus "Advance!" quote fix)
+- **Changes**: Unquoted paraphrases of Schaffer's (2000) trumping case described troops advancing; his case is one corporal who decides to charge when the major and sergeant both shout "Charge!" (verified at jonathanschaffer.org/trumping.pdf on 2026-09-19, not re-fetched). Rank-settles-authority point preserved everywhere. (1) delegatory-dualism L108: corporal/"Charge!" wording, analogy marked as a version of [[trumping-preemption|Schaffer's trumping case]] (does not claim Saad cites Schaffer); length 3970→3976 (hard 4000). (2) overdetermination-dissolution L87: corporal/"Charge!" wording; 3016→3018. (3) articulability-of-q1 L70: the "two groups of troops advance identically" clause only served the point that the physical outcome is fixed whichever cause is authoritative; the single corporal serves it better ("the corporal charges either way"), so adopted; 3367→3363. (4) research note L124: original bullet kept, italic dated correction appended (not a silent rewrite); 2155→2194. Skipped: archive/concepts/preemption.md and archive/concepts/causal-delegation.md (archive policy pending human decision). Hugo synced.
+- **Published**: yes
+
 ## 2026-09-25T22:01:40+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/agent-causation]]

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-09-08 16:50:16+00:00
+ai_modified: 2026-09-25 22:16:18+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,7 +13,7 @@ date: &id001 2026-01-28
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-08 16:50:16+00:00
+lastmod: 2026-09-25 22:16:18+00:00
 modified: *id001
 related_articles:
 - '[[interactionist-dualism-2026-01-06]]'
@@ -123,7 +123,7 @@ Duplicating functional organization should preserve phenomenology. Functional du
 - **Key arguments**:
   - A psychophysical law (Subset Law*) assigns experiences to physical states based on causal profile matching
   - When a match occurs, the experience preempts the physical state's causal contribution (Delegatory Law)
-  - Uses analogy: a major's command preempts a sergeant's command to advance troops—no overdetermination, just preemption
+  - Uses analogy: a major's command preempts a sergeant's command to advance troops—no overdetermination, just preemption. *(Dated correction, 2026-09-25: the underlying case is Schaffer's (2000) — the major and the sergeant both shout "Charge!" and a single corporal decides to charge; no body of troops advances. The single decider is what makes the case clean.)*
 - **Mechanism**: "Pain rather than the physical state causes you to wince" through this delegation process
 - **Relation to site tenets**: Strong alignment with Bidirectional Interaction (consciousness causes behavior) while satisfying empirical constraints relevant to Minimal Quantum Interaction
 
