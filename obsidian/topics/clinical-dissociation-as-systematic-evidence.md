@@ -4,7 +4,7 @@ description: "Dissociative disorders—DID, depersonalization, conversion, amnes
 created: 2026-03-17
 modified: 2026-06-07
 human_modified:
-ai_modified: 2026-09-17T08:55:09+00:00
+ai_modified: 2026-09-25T03:31:54+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -164,7 +164,7 @@ Where the trauma link holds, the interface model reads it the same way throughou
 - [[anaesthesia-and-the-consciousness-interface]] — Pharmacological disruption of cortical integration and the interface model
 - [[voids/anesthesia-void]] — The void-level treatment: three-states epistemology and pharmacological dissociation as a parallel route to the same interface architecture
 - [[pain-asymbolia]] — Affective channel dissociation through neurological damage
-- [[clinical-phenomenology-and-altered-experience]] — The broader epistemic framework for clinical evidence in philosophy of mind
+- [[clinical-phenomenology-and-altered-experience]] — The broader epistemic framework for [[clinical-evidence-quality-standards-consciousness-research|clinical evidence]] in philosophy of mind
 - [[contemplative-pathology-and-interface-malfunction]] — When contemplative practices produce interface disruption
 - [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] — Design space for a focal-perturbation discriminating test; the channel-without-substrate-damage signature this article catalogues motivates the test's structure but the dissociative-states geometry is one the test cannot directly use
 - [[conversion-disorder-as-consciousness-side-fault]] — The motor-channel conversion exhibit developed at full resolution as the psychogenic route of the three-route compound signature

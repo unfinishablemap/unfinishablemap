@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-09-25 01:19:57+00:00
+ai_modified: 2026-09-25 03:31:54+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-4-8
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 18:45:00+00:00
-lastmod: 2026-09-25 01:19:57+00:00
+lastmod: 2026-09-25 03:31:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -128,7 +128,7 @@ The [willed-instructed distinction](/concepts/attention-as-interface/) matters h
 
 Neuroplasticity demonstrates:
 - The brain changes with experience throughout life
-- Directed mental practice produces measurable structural and functional changes
+- Directed mental practice produces measurable functional changes; structural claims are less secure (see Kral et al., 2022, above)
 - These changes occur through cognitive intervention alone, without drugs or surgery
 - The patient's or practitioner's own attention is the apparent causal factor
 

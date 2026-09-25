@@ -4,7 +4,7 @@ description: "Phantom limbs reveal that bodily experience is brain-constructed a
 created: 2026-05-08
 modified: 2026-05-16
 human_modified:
-ai_modified: 2026-07-24T14:18:26+00:00
+ai_modified: 2026-09-25T03:31:54+00:00
 last_deep_review: 2026-07-24T20:45:09+00:00
 draft: false
 topics:
@@ -68,7 +68,7 @@ For the Map this revision appears welcome. The Flor-era story explained phantoms
 
 Ramachandran and Rogers-Ramachandran (1996) reported that a vertical mirror in the patient's midline, with the reflection of the intact limb occupying the phantom's position, could produce vivid felt movement and immediate pain relief — seeing the phantom *un-clench* releases the impossible posture and reduces the associated pain.
 
-Three claims must be separated. *Phenomenological modulation* — vivid felt movement, sometimes immediate change in pain quality — is well-attested in single-subject and small-n case series back to 1996. *Short-term subjective pain reduction* is moderately but heterogeneously supported by early randomised trials (Chan et al., 2007; Foell et al., 2014). *Durable placebo-controlled clinical efficacy* is weakly supported: Guémann et al. (2023), restricting to placebo-controlled RCTs, found no evidence of clinical effectiveness. The article's load-bearing pathway-shape claim rests on the phenomenological-modulation effect; Rajendram et al. (2022) report mirror therapy, virtual reality, and graded motor imagery producing equivalent outcomes where any works, weakening the specifically-visual-feedback claim.
+Three claims must be separated. *Phenomenological modulation* — vivid felt movement, sometimes immediate change in pain quality — is well-attested in single-subject and small-n case series back to 1996. *Short-term subjective pain reduction* is moderately but heterogeneously supported by early randomised trials (Chan et al., 2007; Foell et al., 2014). *Durable placebo-controlled clinical efficacy* is weakly supported: Guémann et al. (2023), restricting to [[clinical-evidence-quality-standards-consciousness-research|placebo-controlled RCTs]], found no evidence of clinical effectiveness. The article's load-bearing pathway-shape claim rests on the phenomenological-modulation effect; Rajendram et al. (2022) report mirror therapy, virtual reality, and graded motor imagery producing equivalent outcomes where any works, weakening the specifically-visual-feedback claim.
 
 The philosophically important feature appears to be the causal structure: a purely visual stimulus may modulate pain with no peripheral generator at the felt site, by targeting the patient's *visual experience* of their own body. On the persistent-body-model reading, the mirror alters the visual evidence the stable cortical body model receives — possibly connecting to [[clinical-neuroplasticity-evidence-for-bidirectional-causation|other evidence]] of intentional mental activity changing the brain without peripheral or pharmacological intervention. The pathway shape is compatible with materialism and equally compatible with the Map's [[interactionist-dualism|interactionist reading]]; predictive processing [below](#predictive-processing) absorbs the same shape as visual prediction errors revising a generative body model — compatibility on both sides rather than differential support, so neither interpretation is forced by the pathway data alone.
 

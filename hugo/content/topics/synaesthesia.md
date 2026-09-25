@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-07-29 15:20:00+00:00
+ai_modified: 2026-09-25 03:31:54+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -25,7 +25,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-28 21:07:22+00:00
-lastmod: 2026-07-29 15:20:00+00:00
+lastmod: 2026-09-25 03:31:54+00:00
 modified: *id001
 related_articles:
 - '[[synesthetic-void]]'
@@ -147,6 +147,7 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 - [binding-void](/voids/binding-void/) — The structural void where binding falls apart or fails to deliver expected unity
 - [voids-between-minds](/voids/voids-between-minds/) — The other-minds territory synaesthesia makes concrete within a single species
 - [evidential-status-discipline](/project/evidential-status-discipline/) — The methodological discipline that names the constrain-vs-establish self-discipline applied here to the interface reading
+- [clinical-evidence-quality-standards-consciousness-research](/topics/clinical-evidence-quality-standards-consciousness-research/) — The replication, control-adequacy, and interpretive-range standards for grading clinical and neurological evidence
 
 ## References
 

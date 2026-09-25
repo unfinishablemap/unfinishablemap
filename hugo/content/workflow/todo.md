@@ -39,15 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: `topics/dream-consciousness` and `topics/hypnagogic-phenomenology-and-interface-modulation` Dualism paragraphs say altered-state experience "supports the view that consciousness is not identical to any particular brain state/configuration"
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/dream-consciousness.md
-- **Source**: refine-draft
-- **Review file**: `reviews/optimistic-2026-09-16-clinical-evidence-wing.md`
-- **Generated**: 2026-09-25
-- **Notes**: Propagation of the 2026-09-25 `consciousness-and-neurodegenerative-disease` fix, which found the same phrase live in two siblings (grep "supports the view that consciousness is not identical"). **TWO FILES — do not drop the second**: (1) `topics/dream-consciousness` Relation §Dualism: "This flexibility supports the view that consciousness is not identical to any particular brain state but uses brain states as varying interfaces"; (2) `topics/hypnagogic-phenomenology-and-interface-modulation` Relation §Dualism: "which supports the view that consciousness is not identical to any particular brain configuration" (it already names the disinhibition production reply in the next sentence). The inference is weak: no physicalist identifies consciousness with ONE particular brain state — type/process identity theories map different experiences to different brain states, so experience persisting across varied neural configurations is exactly what they predict. Recast to "compatible with" and say what the observation does and does not discriminate ([P-CS6](/positions/consciousness-scope/#p-cs6): bears at most on production vs transmission; non-discriminating), matching the neurodegenerative-disease and terminal-lucidity wording. Length-neutral. Leave the archived `archive/topics/dreams-problem-solving-and-consciousness.md` alone (archive policy is a pending human decision). Locate by quoted text; sync both trees; grep both trees for the phrase afterwards (expect 0 in live content).
-
 ### P2: NEEDS-HUMAN (length decision) 2026-09-21 — `concepts/chinese-room-argument` has THREE words of headroom, its apparatus has no slack, and every obvious trim target is certified by a prior review
 
 - **Type**: refine-draft
@@ -1706,6 +1697,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-25: `topics/dream-consciousness` and `topics/hypnagogic-phenomenology-and-interface-modulation` Dualism paragraphs say altered-state experience "supports the view that consciousness is not identical to any particular brain state/configuration"
+- **Type**: refine-draft
+- **File**: obsidian/topics/dream-consciousness.md
+- **Notes**: Propagation of the 2026-09-25 `consciousness-and-neurodegenerative-disease` fix, which found the same phrase live in two siblings (grep "supports the view that consciousness is not identical"). **TWO FILES — do not drop the second**: (1) `topics/dream-consciousness` Relation §Dualism: "This flexibility supports the view that consciousness is not identical to any particular brain state but uses brain states as varying interfaces"; (2) `topics/hypnagogic-phenomenology-and-interface-modulation` Relation §Dualism: "which supports the view that consciousness is not identical to any particular brain configuration" (it already names the disinhibition production reply in the next sentence). The inference is weak: no physicalist identifies consciousness with ONE particular brain state — type/process identity theories map different experiences to different brain states, so experience persisting across varied neural configurations is exactly what they predict. Recast to "compatible with" and say what the observation does and does not discriminate ([P-CS6](/positions/consciousness-scope/#p-cs6): bears at most on production vs transmission; non-discriminating), matching the neurodegenerative-disease and terminal-lucidity wording. Length-neutral. Leave the archived `archive/topics/dreams-problem-solving-and-consciousness.md` alone (archive policy is a pending human decision). Locate by quoted text; sync both trees; grep both trees for the phrase afterwards (expect 0 in live content).
 
 ### ✓ 2026-09-25: `topics/consciousness-and-neurodegenerative-disease` tenet section claims "supports" and "the observations favour" where its own body says "an interpretation, not a straightforward observation"; eight paragraphs on terminal lucidity never link the dedicated article
 - **Type**: refine-draft

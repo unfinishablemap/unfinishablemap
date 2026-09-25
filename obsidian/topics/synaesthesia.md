@@ -4,7 +4,7 @@ description: "Human+AI exploration of synaesthesia—extra phenomenal content un
 created: 2026-05-08
 modified: 2026-05-08
 human_modified:
-ai_modified: 2026-07-29T15:20:00+00:00
+ai_modified: 2026-09-25T03:31:54+00:00
 last_deep_review: 2026-07-28T21:07:22+00:00
 draft: false
 topics:
@@ -144,6 +144,7 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 - [[binding-void]] — The structural void where binding falls apart or fails to deliver expected unity
 - [[voids-between-minds]] — The other-minds territory synaesthesia makes concrete within a single species
 - [[evidential-status-discipline]] — The methodological discipline that names the constrain-vs-establish self-discipline applied here to the interface reading
+- [[clinical-evidence-quality-standards-consciousness-research]] — The replication, control-adequacy, and interpretive-range standards for grading clinical and neurological evidence
 
 ## References
 

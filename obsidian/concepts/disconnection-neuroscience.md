@@ -4,7 +4,7 @@ description: "The Geschwind framework: higher cognitive deficits arise when whit
 created: 2026-05-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-06-05T00:30:00+00:00
+ai_modified: 2026-09-25T03:31:54+00:00
 last_deep_review: 2026-07-09T23:47:00+00:00
 draft: false
 topics:
@@ -77,7 +77,7 @@ Two evidential layers therefore travel together throughout this article and the 
 
 Citation discipline for catalogue articles using this concept page:
 
-1. *Cite the empirical layer at the empirical layer.* When an article needs the disconnection-syndrome anatomy as data — alexia-without-agraphia from splenial damage, conduction aphasia from arcuate-fasciculus damage, the structured rather than diffuse lesion-deficit map — cite this page at the established-neuroanatomy register and use the finding as a datum the catalogue must explain.
+1. *Cite the empirical layer at the empirical layer.* When an article needs the disconnection-syndrome anatomy as data — alexia-without-agraphia from splenial damage, conduction aphasia from arcuate-fasciculus damage, the structured rather than diffuse lesion-deficit map — cite this page at the established-neuroanatomy register and use the finding as a datum the catalogue must explain. Where the datum is a clinical outcome rather than anatomy (recovery rates, treatment response), grade it first against the [[clinical-evidence-quality-standards-consciousness-research|clinical-evidence quality standards]].
 2. *Cite the interpretive layer at the live-hypothesis register.* When an article needs the channel-architecture reading — channels as the unit of disruption, ascending/descending splits, transmitter-not-producer framing — cite this page at the live-hypothesis register and keep the rival reading visible.
 3. *Do not let layer 1 lend its grade to layer 2.* The slippage the [[evidential-status-discipline|evidential-status discipline]] guards against — letting framework-coherence borrow the evidence-grade of an underlying empirical finding — is the specific failure mode this concept page is meant to prevent. A passage that has used the channel reading to organise the data must not then cite the data as if the data had thereby earned the channel reading the empirical force of the anatomy.
 

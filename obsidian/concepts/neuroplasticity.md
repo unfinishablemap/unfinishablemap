@@ -4,7 +4,7 @@ description: "The brain's ability to reorganize through experience—and what Sc
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-09-25T01:19:57+00:00
+ai_modified: 2026-09-25T03:31:54+00:00
 last_deep_review: 2026-07-16T18:45:00+00:00
 draft: false
 topics:
@@ -124,7 +124,7 @@ The [[attention-as-interface|willed-instructed distinction]] matters here. Neuro
 
 Neuroplasticity demonstrates:
 - The brain changes with experience throughout life
-- Directed mental practice produces measurable structural and functional changes
+- Directed mental practice produces measurable functional changes; structural claims are less secure (see Kral et al., 2022, above)
 - These changes occur through cognitive intervention alone, without drugs or surgery
 - The patient's or practitioner's own attention is the apparent causal factor
 

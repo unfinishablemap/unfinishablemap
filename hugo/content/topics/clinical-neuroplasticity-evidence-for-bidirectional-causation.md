@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-09-02 17:29:27+00:00
+ai_modified: 2026-09-25 03:31:54+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-fable-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-13 00:06:37+00:00
-lastmod: 2026-09-02 17:29:27+00:00
+lastmod: 2026-09-25 03:31:54+00:00
 modified: *id001
 related_articles:
 - '[[empirical-phenomena-mental-causation]]'
@@ -117,7 +117,7 @@ This proposal is speculative and faces challenges regarding decoherence timescal
 
 Beyond the primary evidence streams, a separate and more contested class of anomalous cases is sometimes invoked against the assumption that consciousness scales with neural complexity. A 2023 review surveys hemispherectomy patients, hydrocephalic individuals with dramatically reduced brain volume, and congenitally decorticate children reported to demonstrate awareness despite lacking cortex (Masi, 2023); a frequently cited case is a 44-year-old man with only 50-75% of normal brain volume who maintained employment and family life. Paradoxical lucidity in advanced dementia—where patients with severely degraded neural tissue briefly recover clarity (Nahm et al., 2012)—is harder still to fit to a neuroplasticity model.
 
-This evidence class warrants the same calibration the rest of the article applies, and it is weaker on two counts. First, the sources are advocacy-leaning and the striking-anecdote claims (preserved function with 50-75% brain volume) are actively contested on neuroanatomical grounds, where the standard explanation is gradual compensatory redundancy and plasticity rather than consciousness operating independently of tissue. Second, paradoxical and terminal lucidity belong to the *disruptive* cluster of altered states (severe tissue degradation), and a production theorist accommodates them symmetrically—as residual or transiently re-enabled circuitry—just as the interface reading accommodates them; cited alone, lucidity is not multiple independent confirmations of an interface model but one contested pattern both framings can absorb (see [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) for the symmetric-accommodation discipline). So these cases are at most *compatible with* an interaction reading; they do not by themselves establish that the brain-consciousness relationship is interaction rather than production. The dedicated treatment in the Map's anomalous-cases material carries the fuller assessment; here the point is only that the cases do not lift the article's claim above the compatible-with register the clinical evidence already occupies.
+This evidence class warrants the same calibration the rest of the article applies, and it is weaker on two counts. First, the sources are advocacy-leaning and the striking-anecdote claims (preserved function with 50-75% brain volume) are actively contested on neuroanatomical grounds, where the standard explanation is gradual compensatory redundancy and plasticity rather than consciousness operating independently of tissue. Second, paradoxical and terminal lucidity belong to the *disruptive* cluster of altered states (severe tissue degradation), and a production theorist accommodates them symmetrically—as residual or transiently re-enabled circuitry—just as the interface reading accommodates them; cited alone, lucidity is not multiple independent confirmations of an interface model but one contested pattern both framings can absorb (see [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) for the symmetric-accommodation discipline). So these cases are at most *compatible with* an interaction reading; they do not by themselves establish that the brain-consciousness relationship is interaction rather than production. The dedicated treatments—[hemispherectomy-and-the-resilience-of-unified-consciousness](/topics/hemispherectomy-and-the-resilience-of-unified-consciousness/) for hemispherectomy and [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) for lucidity—carry the fuller assessment; here the point is only that the cases do not lift the article's claim above the compatible-with register the clinical evidence already occupies.
 
 ## Relation to Site Perspective
 

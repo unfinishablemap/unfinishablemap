@@ -4,7 +4,7 @@ description: "Functional neurological disorder: substrate-intact motor decouplin
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-09-18T18:11:05+00:00
+ai_modified: 2026-09-25T03:31:54+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -116,7 +116,7 @@ A consciousness-side-fault exhibit is only as good as its honesty about what it 
 
 ## Relation to Site Perspective
 
-The Map reads conversion disorder as bearing on two tenets, with the evidential weight carefully partitioned between a robust architectural layer and a live-hypothesis interpretive layer, per the [[evidential-status-discipline|evidential-status discipline]].
+The Map reads conversion disorder as bearing on two tenets, with the evidential weight carefully partitioned between a robust architectural layer and a live-hypothesis interpretive layer, per the [[evidential-status-discipline|evidential-status discipline]] and the Map's [[clinical-evidence-quality-standards-consciousness-research|clinical-evidence standards]].
 
 **[[tenets#^dualism|Dualism]].** The consciousness-side-fault signature — intact motor substrate, capacity recoverable under sedation or hypnosis, deficit indexed to the awake subject's directed volition — is among the more suggestive clinical patterns for an interface between conscious volition and motor execution. The architectural finding (the descending channel is a separable, independently-failable component) sits at the *strongly-supported* tier, but the support is unevenly distributed and the distribution matters: the rule-in signs and the group connectivity work carry it, while the sedation recovery — five of eleven patients in an uncontrolled series its authors want randomised — is a *realistic possibility* on its own and must not be quoted as though it were the robust part, and the hypnosis strand additionally carries the measurement caveat set out above. The Map's reading of *what that separability might signify* — that the failing component could be a genuine consciousness-to-brain interface rather than an intra-cerebral inhibitory loop — sits at the *live-hypothesis* tier. The robustness of the architecture must not be allowed to lend its weight to the interface reading; sophisticated functionalism appears to predict the identical clinical and imaging picture, and conversion disorder alone supplies no discriminator between the two.
 
