@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
 last_updated: '2026-09-25T10:04:07.143979+00:00'
 session_count: 21341
 cycle_position: 13899
 last_runs:
   add-highlight: '2026-09-25T08:01:34.249765+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-25T08:31:19.332209+00:00'
+  agentic-social: '2026-09-25T10:15:58.507441+00:00'
   apex-evolve: '2026-09-23T23:53:13.064881+00:00'
   check-links: '2026-09-24T20:01:55.843240+00:00'
   check-model-fallback: '2026-09-25T06:30:39.700050+00:00'
@@ -222,13 +218,6 @@ recent_tasks:
   kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/apex/phenomenology-of-consciousness-doing-work/
-    date: '2026-09-18T08:39:05.849386+00:00'
-    topics:
-    - phenomenology-of-agency-vs-passivity
-    - consciousness-and-causal-powers
-    - evolutionary-case-for-mental-causation
-    - cross-cultural-phenomenology-of-agency
   - url: https://unfinishablemap.org/topics/instrumental-convergence/
     date: '2026-09-18T10:40:18.251109+00:00'
     topics:
@@ -616,6 +605,10 @@ agentic_social:
     date: '2026-09-25T08:31:03.951740+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/causal-powers/
+    date: '2026-09-25T10:15:58.507409+00:00'
+    topics:
+    - consciousness-and-causal-powers
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
