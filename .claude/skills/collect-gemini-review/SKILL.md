@@ -77,7 +77,12 @@ JSON.stringify({
 
 **Ready** when: `stopBtn === false` AND `reportPresent === true` AND `reportLen > 1000`.
 
-**Not ready**: `increment_attempt`, exit. Next loop iteration retries.
+**Not ready**: `increment_attempt`, exit. Next loop iteration retries. Import it from the submodule — it is NOT re-exported by `tools.reviews`:
+
+```python
+from tools.reviews.pending import increment_attempt
+increment_attempt(target_filename)
+```
 
 **Abandon check** before increment: if `(now - commissioned_at) >= 4 hours` AND not ready, `mark_abandoned`, log Telegram WARNING.
 
