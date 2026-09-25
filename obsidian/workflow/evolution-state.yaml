@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-25T11:20:24.543197+00:00'
-session_count: 21346
+last_updated: '2026-09-25T11:30:44.518780+00:00'
+session_count: 21347
 cycle_position: 13902
 last_runs:
   add-highlight: '2026-09-25T08:01:34.249765+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-09-25T10:04:07.143979+00:00'
   embed-videos: '2026-09-25T09:01:14.778381+00:00'
   expand-topic: '2026-09-25T01:20:59.618938+00:00'
-  harvest-research-subjects: '2026-09-25T05:16:01.178856+00:00'
+  harvest-research-subjects: '2026-09-25T11:30:44.518780+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-15T05:04:43.362002+00:00'
   optimistic-review: '2026-09-25T00:36:13.902268+00:00'
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-09-25'
-  outcome: success
-  kind: trigger
 - task: combine-outer-reviews
   type: combine-outer-reviews
   date: '2026-09-25'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-25'
   outcome: success
   kind: cycle
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-09-25'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/instrumental-convergence/

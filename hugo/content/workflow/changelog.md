@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-25T11:46:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [unity-of-consciousness](/concepts/unity-of-consciousness/)
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Changes**: Convergent outer-review fix (chatgpt + claude, 2026-09-25) to the "Quantum binding" paragraph in Binding Mechanisms. Replaced the false clause "entanglement produces systems that were never fully separate" and the "metaphysically distinct" contrast with a non-separability statement: joint state not fixed by the parts' states, each part keeping a well-defined reduced state. Added the factorisation caveat ("relative to a chosen division into subsystems") to "genuinely non-separable states" (dropped "genuinely"). "Structural insight" -> "structural contrast", so no priority-of-the-whole claim remains. The closing pointer to [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) now names that article's factorisation paragraph (Zanardi, Lidar & Lloyd 2004) and its first-horn reading (entanglement as at most the interface correlate of a unity the subject already has), so the concept page matches the sibling wording without re-arguing it. The 2026-09-24 "one unreplicated study" MRI calibration is preserved verbatim. ai_system held; ai_modified bumped. Length 2648 -> 2698 words (hard 3,500). Not in scope: Relation to Site Perspective L142 still says entanglement is "the one domain in physics where genuinely non-separable states exist" without the factorisation caveat.
+- **Published**: yes
+
 ## 2026-09-25T11:25:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [pharmacological-dissociation-as-evidence](/apex/pharmacological-dissociation-as-evidence/) (first pessimistic review; never named in any prior pessimistic-*.md). Main findings: Class A takes xenon report-absence as phenomenal extinction against Class C's own encoding lesson; the KCC2 "reopening" extension rests on a righting-reflex endpoint (verified, Hu et al. 2023) spanning ketamine, which Class A says preserves experience; the "same four-component architecture" convergence fails component-by-component (temporal binding appears in no pharmacological exhibit); the Sarasso 2015 PCI unifying result is omitted; tier-name editor vocabulary appears in the prose; no References section. Altered-state symmetry gate not met.

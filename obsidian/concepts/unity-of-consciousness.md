@@ -4,7 +4,7 @@ description: "Experience comes as an integrated whole—unified across features 
 created: 2026-01-21
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-09-24T00:16:00+00:00
+ai_modified: 2026-09-25T11:46:53+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -125,7 +125,7 @@ Phenomenal unity also bears on the [[combination-problem|combination problem]]. 
 
 **[[global-workspace-theory|Global Workspace Theory]]** proposes that conscious contents are broadcast widely across cortical regions. This explains access unity—why information becomes globally available. It is less clear how broadcasting to a distributed neural process produces phenomenal unity rather than relocating the problem.
 
-**Quantum binding** offers a structurally different approach. Quantum entanglement creates genuinely non-separable states—entangled particles form a whole whose properties cannot be decomposed into individual states. Classical mechanisms combine things that remain metaphysically distinct; entanglement produces systems that were never fully separate. The [[entanglement-binding-hypothesis|entanglement binding hypothesis]] develops this structural insight into a testable proposal, with framework-consistent evidence of unequal weight: microtubule-stabilising drugs delaying anaesthesia, and a claimed MRI entanglement signature from one unreplicated study. See [[quantum-holism-and-phenomenal-unity|Quantum Holism and Phenomenal Unity]] for the structural argument.
+**Quantum binding** offers a structurally different approach. Quantum entanglement yields non-separable joint states: relative to a chosen division into subsystems, each part keeps a well-defined reduced state, yet the joint state is not fixed by the states of the parts. Classical mechanisms combine parts whose joint state is exhausted by the parts' own states; entanglement adds correlations those states do not determine. The [[entanglement-binding-hypothesis|entanglement binding hypothesis]] develops this structural contrast into a testable proposal, with framework-consistent evidence of unequal weight: microtubule-stabilising drugs delaying anaesthesia, and a claimed MRI entanglement signature from one unreplicated study. See [[quantum-holism-and-phenomenal-unity|Quantum Holism and Phenomenal Unity]] for the structural argument, including why the formalism does not fix the subsystem division and why the Map treats entanglement as at most the interface correlate of a unity the subject already has.
 
 ## The Illusionist Challenge
 
@@ -139,7 +139,7 @@ The unity of consciousness connects directly to The Unfinishable Map's [[tenets|
 
 **Dualism**: Unity is an instance of the [[hard-problem-of-consciousness|hard problem]] applied to the structure of experience. The mismatch between physical relations (external, among distinct parts) and phenomenal unity (intrinsic, prior to parts) supports [[tenets#^dualism|the Dualism tenet]]. Each dimension of unity—synchronic, diachronic, subject—presents its own version of this structural gap, compounding the explanatory challenge.
 
-**Minimal Quantum Interaction**: Quantum entanglement is the one domain in physics where genuinely non-separable states exist. If consciousness interacts with the brain at the quantum level through [[tenets#^minimal-quantum-interaction|minimal quantum interaction]], entanglement offers a physical correlate whose structure mirrors phenomenal unity's resistance to decomposition.
+**Minimal Quantum Interaction**: Quantum entanglement is the one domain in physics where joint states are non-separable (relative to a chosen division into subsystems). If consciousness interacts with the brain at the quantum level through [[tenets#^minimal-quantum-interaction|minimal quantum interaction]], entanglement offers a physical correlate whose structure mirrors phenomenal unity's resistance to decomposition.
 
 **Bidirectional Interaction**: [[tenets#^bidirectional-interaction|Bidirectional interaction]] requires a unified agent. If consciousness were fragmented—many separate micro-experiences with no encompassing unity—there would be no integrated subject to select among quantum possibilities or exercise causal power. What that requires is a synchronically unified locus of selection, which phenomenal unity supplies. Whether the subject also *persists* across time is a further commitment, downstream of [[agent-causation|agent causation]] in the Map's agency cluster rather than entailed by the Dualism tenet, which stays neutral between substance and property readings; see [[where-the-substance-commitment-enters|where the substance commitment enters]].
 
