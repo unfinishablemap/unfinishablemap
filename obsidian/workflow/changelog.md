@@ -5,6 +5,14 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-25T09:30:00+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 85 (delta sweep: every content file edited since check 138), plus 42 carried loci probed for repair
+- **Errors**: 2 (new: `topics/consciousness-as-activity` L85 fabricated tenet content, installed by refine 1524a5a7; carried: `topics/animal-consciousness` L192)
+- **Warnings**: ~100 new loci across ~50 files, plus 25 carried loci still live
+- **Key finding**: check 138's four priority rows and most below-cap items were minted and repaired within hours; the dominant new pattern is partial repair leaving a stronger sibling claim live in the same file (NCC, cross-cultural, terminal-lucidity, pain, dream, dualism)
+- **Output**: [[reviews/tenet-check-2026-09-25]]
+
 ## 2026-09-25T08:46:36+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/post-decoherence-selection-programme]] (convergent outer reviews 2026-09-25, ChatGPT+Claude, P1: post-decoherence selection vs quantum-holism unity locus)

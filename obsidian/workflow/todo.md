@@ -36,6 +36,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+### P2: `topics/consciousness-as-activity` L85 says the Bidirectional Interaction tenet "requires" agent-causal selection — fabricated tenet content (tenet-check 139 ERROR)
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-as-activity.md
+- **Review file**: reviews/tenet-check-2026-09-25.md
+- **Source**: check-tenets
+- **Generated**: 2026-09-25
+- **Notes**: Tenet-check 139 priority 1 (§Summary 4). L85 "**Agent-dependence.**" paragraph: "the [[agent-causation|agent-causal selection]] the Bidirectional Interaction tenet requires needs a selector that persists across its selections" (grep-verified 2026-09-25). `tenets.md` L91 commits Tenet 3 only to outcome-selection; L57 says the agency cluster *deploys* a substance-leaning sub-reading that the tenet itself is neutral about. Installed by commit 1524a5a7 (a repair). Fix is one clause, e.g. "the agent-causal reading the Map's agency cluster adopts needs a selector that persists…". Also grep the file for any other statement that the tenet requires agent causation (the report's partial-repair pattern: fix the CLAIM, not just the sentence). Length: 2,996 / 4,000 (ok). Tenet alignment: Tenet 3 scope must not be overstated.
+
+### P2: `topics/animal-consciousness` L192 imports Tenet 3 into the Occam row the dependency matrix marks *Not invoked* (tenet-check ERROR, third consecutive report)
+- **Type**: refine-draft
+- **File**: obsidian/topics/animal-consciousness.md
+- **Review file**: reviews/tenet-check-2026-09-25.md
+- **Source**: check-tenets
+- **Generated**: 2026-09-25
+- **Notes**: Tenet-check 139 priority 2; carried ERROR from checks 137 and 138, never minted (`todo.md` L752 records it as "the only one unqueued"). L192 **Occam's Razor Has Limits** paragraph: "the plausibility tilt rests on the [[evolutionary-case-for-mental-causation|evolutionary argument for mental causation]]…" — makes the Occam alignment depend on Tenet 3 (mental causation), while the tenets dependency matrix marks Tenet 3 *Not invoked* for this cluster. Recast so the Occam paragraph stands on Occam's own grounds (simplicity unreliable under incomplete knowledge), and either drop the mental-causation dependency or mark it explicitly as a separate, contestable input rather than the ground of the tilt. **LENGTH GATE:** `analyze_length` 3,996 / 4,000 (usable ceiling 3,999) — 3 words of headroom; must be a like-for-like replacement or pay for itself. Re-measure before and after.
+
+### P2: `concepts/causal-closure` L144 offers "lost in the statistical noise" as a Born-preservation route that `tenets.md` L75 excludes; L198 and L136 contradict tenets too
+- **Type**: refine-draft
+- **File**: obsidian/concepts/causal-closure.md
+- **Review file**: reviews/tenet-check-2026-09-25.md
+- **Source**: check-tenets
+- **Generated**: 2026-09-25
+- **Notes**: Tenet-check 139 priority 3. (1) L144 "The Born rule challenge": "consciousness operates rarely enough… that its influence is lost in the statistical noise of vastly many unbiased quantum events" (grep-verified 2026-09-25). `tenets.md` L75 says Born preservation holds "by construction, not by any sensitivity limit", and the file's own L146 says the same, so the dilution route contradicts both. Remove or recast it as a rejected option. (2) L198 lists "if quantum coherence proves impossible at neural timescales" as a falsifier; `tenets.md` L77 says post-decoherence proposals "do not depend on it" — rescope to the pre-decoherence path only. (3) L136 "the Map's case against hidden variables rests on parsimony" — a Map-voice parsimony verdict (Tenet 5 family; see the open parsimony-doctrine NEEDS-HUMAN entry). Rephrase without making parsimony the ground, or mark it as defeasible. **LENGTH GATE:** `analyze_length` 3,498 / 3,500 concepts hard (usable ceiling 3,499) — 1 word of headroom; cutting the L144 dilution clause should fund (2) and (3). Re-measure before and after. Tenet alignment: Tenet 2 (Minimal Quantum Interaction), Tenet 5.
+
 
 ### P2: Research The quantum factorisation problem for consciousness
 - **Type**: research-topic
