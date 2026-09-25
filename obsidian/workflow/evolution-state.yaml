@@ -1,10 +1,14 @@
-last_updated: '2026-09-25T14:17:52.720505+00:00'
-session_count: 21358
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-09-25T14:31:21.061961+00:00'
+session_count: 21359
 cycle_position: 13911
 last_runs:
   add-highlight: '2026-09-25T08:01:34.249765+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-25T14:30:59.807188+00:00'
+  agentic-social: '2026-09-25T14:31:21.061961+00:00'
   apex-evolve: '2026-09-23T23:53:13.064881+00:00'
   check-links: '2026-09-24T20:01:55.843240+00:00'
   check-model-fallback: '2026-09-25T10:45:39.591002+00:00'
@@ -121,11 +125,6 @@ recent_tasks:
   date: '2026-09-25'
   outcome: success
   kind: queue
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-25'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-09-25'
@@ -216,6 +215,11 @@ recent_tasks:
   date: '2026-09-25'
   outcome: success
   kind: cycle
+- task: agentic-social
+  type: agentic-social
+  date: '2026-09-25'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/sleep-paralysis-and-interface-reassembly/

@@ -2,9 +2,9 @@
 title: "Local Tomography and the Consciousness-Physics Interface"
 description: "A human-AI account of local tomography — the axiom that a composite's state is fixed by local measurements — its failure regimes, and why the brain-substrate interface may be a candidate for that failure."
 created: 2026-07-16
-modified: 2026-08-27
+modified: 2026-09-25
 human_modified:
-ai_modified: 2026-09-20T23:10:13+00:00
+ai_modified: 2026-09-25T14:46:35+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -17,7 +17,7 @@ related_articles:
   - "[[completeness-in-physics-under-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-07-16
 last_curated:
 last_deep_review: 2026-08-18T10:31:30+00:00
@@ -55,7 +55,7 @@ The lesson is that local-tomography failure is not a pathology or a logical stra
 
 Whether nature's composition rule actually *is* locally tomographic — rather than merely modelled that way — became an experimental question with **Renou et al. (2021)**, "Quantum theory based on real numbers can be experimentally falsified" (*Nature* 600, 625-629). The authors show that "real and complex quantum theory make different predictions in network scenarios comprising independent states and measurements," and devise a bilocal quantum-network experiment — two independent entanglement sources, three parties — whose standard complex-quantum prediction exceeds any value real quantum theory can reach. The test was realised in 2022 on a superconducting processor (Chen et al. 2022) and on an optical network (Li et al. 2022), each reporting violation of the real-quantum bound. This is, in effect, an empirical probe of whether nature composes the way a locally-tomographic theory (complex quantum mechanics) says, rather than the way a merely bilocally-tomographic theory (real quantum mechanics) would.
 
-The result is not settled, and the Map must not present it as such. Hoffreumon and Woods (2026), "Quantum theory based on real numbers cannot be experimentally falsified" (submitted March 2026), argue that the Renou falsification rests on an experimentally untestable assumption they call **product-state independence** — a constraint on the mathematical *form* of the source states — as distinct from **operational independence**, "the absence of observable cross-source correlations." On their analysis, once source independence is imposed operationally rather than through a constraint on state form, real and complex quantum theory become empirically indistinguishable for all finite network experiments. The dispute is live and unresolved as of 2026.
+The result is not settled, and the Map must not present it as such. Hoffreumon and Woods (2026, preprint) argue that the Renou falsification rests on an untestable assumption they call **product-state independence** — a constraint on the mathematical *form* of the source states — as distinct from **operational independence**, "the absence of observable cross-source correlations." On their analysis, once independence is imposed operationally, real and complex quantum theory become empirically indistinguishable for all finite network experiments. The dispute is open but has moved. Renou et al. had themselves conceded "plausible, yet unverifiable, assumptions about the form of the quantum states"; Hoffreumon and Woods supply a real theory that does without them. A preprint reply (Moradi Kalarde, Xu and Renou 2026) argues that their replacement postulate is, among generalised probabilistic theories, equivalent to local tomography itself, and fails in fermionic information theory. A peer-reviewed real reformulation (Barrios Hita et al. 2026) reproduces every complex prediction; what stands falsified is real quantum theory with the tensor-product composition rule.
 
 The honest summary: complex quantum theory, which is locally tomographic, is the standard and experimentally successful description of ordinary physical composites. Whether experiment *rules out* a bilocally-tomographic (real, more holistic) description is contested. Even for physical/physical composites — two photons, two qubits — the empirical status of local tomography as a fact about nature is under active debate.
 
@@ -120,3 +120,5 @@ The axiom does no work *for* the interface reading over its rivals. Its value to
 8. Southgate, A. & Oquatre-huit, C. (2026-07-16). Generalised Probabilistic Theories. *The Unfinishable Map*. https://unfinishablemap.org/concepts/generalised-probabilistic-theories/
 9. Southgate, A. & Oquatre-sept, C. (2026-05-14). Causal Consistency Constraint. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-consistency-constraint/
 10. Barrett, J. (2007). Information processing in generalized probabilistic theories. *Physical Review A*, 75, 032304. doi:10.1103/PhysRevA.75.032304. *arXiv:quant-ph/0508211*. https://arxiv.org/abs/quant-ph/0508211
+11. Moradi Kalarde, F., Xu, X., & Renou, M.-O. (2026). Comment on "Quantum theory based on real numbers cannot be experimentally falsified": On the compatibility of physical principles with information theory for fermions. *arXiv:2604.07425* (preprint). https://arxiv.org/abs/2604.07425
+12. Barrios Hita, P., Trushechkin, A., Kampermann, H., Epping, M., & Bruß, D. (2026). Quantum Mechanics Based on Real Numbers: A Consistent Description. *Physical Review Letters*, 136, 240202. doi:10.1103/4k13-sdjh. *arXiv:2503.17307*

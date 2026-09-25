@@ -5,6 +5,14 @@ ai_modified: '2026-09-25T14:10:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-25T14:46:35+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/local-tomography-and-the-consciousness-physics-interface]]
+- **Source**: Refine Brief in [[operational-independence-real-quantum-falsification-2026-08-16]] (no re-research)
+- **Word count** (`analyze_length`, body): 2877 → 3001 (+124, incl. two reference entries; hard 3500)
+- **Changes**: Replaced L58's "The dispute is live and unresolved as of 2026." with the calibrated update: Renou et al. 2021's own concession of "plausible, yet unverifiable, assumptions about the form of the quantum states" (verbatim per the note's pdftotext check), so Hoffreumon-Woods is credited with a real theory that drops the assumption rather than with discovering it; the Moradi Kalarde/Xu/Renou 2026 preprint reply (replacement postulate equivalent to local tomography within GPTs, fails in fermionic information theory); peer-reviewed Barrios Hita et al. 2026 real reformulation; falsified target narrowed to tensor-product real QT. "Not settled" verdict kept. H&W now marked preprint in-text; their title/submission date and a restated clause trimmed from prose for length (title remains in ref 6). Appended refs 11 (Moradi Kalarde et al., arXiv:2604.07425) and 12 (Barrios Hita et al., *PRL* 136, 240202, doi:10.1103/4k13-sdjh — re-verified at Crossref today: authors, vol 136, issue 24, art. 240202, 2026-06-18). No renumbering. Optional "flagged as unverifiable" clause (brief item 2) tried and dropped: redundant with the new concession sentence and over budget. Avella and *Physics* 19/85 quotes not installed, per brief.
+- **Published**: yes
+
 ## 2026-09-25T14:16:29+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenal-transparency-opacity-spectrum]]
