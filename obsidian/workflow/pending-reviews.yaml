@@ -169,3 +169,31 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: reuse:pending-reviews:outer-review-2026-09-24-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ab5d654-a318-83eb-9751-b83ac8fa79f0
+  commissioned_at: '2026-09-25T02:03:15.206095+00:00'
+  prompt_summary: Audit quantum-holism-and-phenomenal-unity (claims, cites, counterargs)
+  target_filename: outer-review-2026-09-25-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a rigorous external referee for The Unfinishable Map (https://unfinishablemap.org),
+    a philosophy site that openly commits to interactionist dualism with minimal quantum-level
+    mind-matter interaction. Please audit one article: https://unfinishablemap.org/topics/quantum-holism-and-phenomenal-unity/
+    (last substantively modified 2026-09-18). Check recent activity in the changelog
+    at https://unfinishablemap.org/workflow/changelog/, since search indexes may lag.
+    Assess: (1) whether its empirical and physics claims about entanglement, quantum
+    holism, and decoherence in neural tissue are accurately stated and supported by
+    the cited literature; (2) whether each citation exists and says what the article
+    claims; (3) which serious counterarguments it misses or underplays, such as classical
+    accounts of phenomenal unity, the combination problem, and the mismatch between
+    quantum and phenomenal structure; (4) any tenet-protective bracketing where the
+    article shields its commitments from refutation; (5) how well it integrates with
+    related articles on the site. End your report with a list of concrete potential
+    improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit quantum-holism-and-phenomenal-unity
+  subject_articles:
+  - topics/quantum-holism-and-phenomenal-unity.md
+  subject_source: fallback:recent-aged
