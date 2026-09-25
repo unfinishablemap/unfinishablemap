@@ -1410,13 +1410,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **CLOSED BY THE DRIVER 2026-09-19 09:0x UTC.** The over-concession task on `topics/metaproblem-of-consciousness-under-dualism` discharged this in the same paragraph, as designed — all three findings shared one section and were written once. **Measured after the edit: `Saad` 0 → 4 occurrences in that article** (word-boundary), against 16 deployments of `realizationism`, with the full metadata landed from Chalmers 2020's own reference list (*JCS* 26(9–10):205–216) and a piped `[[delegatory-dualism|delegatory dualism]]` reciprocal into the existing Saad cluster. Verified 4:4 in **both** obsidian and hugo. ⚠️ **The attribution guard held**: Chalmers keeps the coinage ("whose term it is"); Saad supplies the interactionist version only. **THE SECOND HALF IS DELIBERATELY NOT DONE, and should not be re-minted.** This task said "both meta-problem articles", but `concepts/meta-problem-of-consciousness` deploys `realizationism` exactly **once** (offset 8974), where it defines the term inline and immediately hands off via `[[metaproblem-of-consciousness-under-dualism|interactionist development]]` to the article that now carries the provenance. A single defining mention behind an explicit hand-off does not need its own attribution, and that file is at **3481/3499 words — 18 words of headroom — with an open `condense` task against it**. Adding a citation there would trip the hard gate.
 
-### P3: consciousness-and-intersubjectivity: calibrate the Bidirectional and No Many Worlds bullets and link the second-person channel
-- **Type**: refine-draft
-- **File**: obsidian/topics/consciousness-and-intersubjectivity.md
-- **Source**: optimistic-review 2026-09-23 (reviews/optimistic-2026-09-23-intersubjective-wing.md, concerns 1 and 2)
-- **Generated**: 2026-09-23
-- **Notes**: **Headroom 1114 words.** (a) **L119**: "Intersubjective encounter provides some of the strongest everyday evidence for bidirectional interaction … would be coincidental": this is an overclaim that ignores the common-cause reply. Port the register of `consciousness-and-testimony`'s Bidirectional bullet. (b) **L121**: "not a superposition of all possible versions of them across branching worlds" misdescribes Everett, because within a branch the other person is not a superposition. Port testimony's NMW concession ("does not fail branch-internally … a tenet, not a derived result") or collective-phenomena's conditional "boundary disagreement" framing. (c) Put a prose link to [[the-second-person-evidential-channel]] in §The Asymmetry Problem ("I can approach your experience through empathy, testimony, and shared attention"). No wing article currently links it in prose; this article lists it only in Further Reading.
-
 ### P3: phenomenology-of-trust: name the definitional move and link it to testimony both ways
 - **Type**: refine-draft
 - **File**: obsidian/topics/phenomenology-of-trust.md
@@ -1631,6 +1624,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-25: consciousness-and-intersubjectivity: calibrate the Bidirectional and No Many Worlds bullets and link the second-person channel
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-and-intersubjectivity.md
+- **Notes**: **Headroom 1114 words.** (a) **L119**: "Intersubjective encounter provides some of the strongest everyday evidence for bidirectional interaction … would be coincidental": this is an overclaim that ignores the common-cause reply. Port the register of `consciousness-and-testimony`'s Bidirectional bullet. (b) **L121**: "not a superposition of all possible versions of them across branching worlds" misdescribes Everett, because within a branch the other person is not a superposition. Port testimony's NMW concession ("does not fail branch-internally … a tenet, not a derived result") or collective-phenomena's conditional "boundary disagreement" framing. (c) Put a prose link to [[the-second-person-evidential-channel]] in §The Asymmetry Problem ("I can approach your experience through empathy, testimony, and shared attention"). No wing article currently links it in prose; this article lists it only in Further Reading.
 
 ### ✓ 2026-09-25: the 2026-09-10 apophatic ↔ emergence cross-link landed only one of its two legs
 - **Type**: refine-draft

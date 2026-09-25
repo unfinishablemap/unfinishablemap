@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-25T23:16:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/)
+- **Original score**: n/a (targeted three-locus fix)
+- **Changes**: (a) Relation-to-Site Bidirectional bullet: dropped "some of the strongest everyday evidence" / "would be coincidental" overclaim; ported consciousness-and-testimony's register — names the physicalist common-cause option (understanding and response both fixed by the same neural states) and the Map's reply (the common-cause picture owes an account of why the *felt grasp*, not merely its correlate, figures), marked as where the views part company rather than an in-framework refutation. (b) No Many Worlds bullet: removed the misdescription of the other person as "a superposition of all possible versions"; ported testimony's concession (encounter does not fail branch-internally; rejecting MWI adds nothing to the encounter's determinacy; the tenet — a tenet, not a derived result — secures indexical identity, which encounter is mine), consistent with today's tenets/quantum-holism wording. (c) §The Asymmetry Problem: prose link to [the-second-person-evidential-channel](/topics/the-second-person-evidential-channel/) (hypothesis-framed) at the "empathy, testimony, and shared attention" sentence; previously Further Reading only. Engagement with physicalist common-cause reply: Mode Three (boundary-marking), matching the testimony sibling. Length 2885 -> 2999 (topics soft 3000, hard 4000). Synced; hugo verified.
+- **Published**: yes
+
 ## 2026-09-25T23:00:55+00:00 - refine-draft
 - **Status**: Success
 - **File**: [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/)

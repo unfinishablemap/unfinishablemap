@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-09-14 13:40:00+00:00
+ai_modified: 2026-09-25 23:16:54+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 03:35:32+00:00
-lastmod: 2026-09-14 13:40:00+00:00
+lastmod: 2026-09-25 23:16:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -107,7 +107,7 @@ The asymmetry matters for the Map's framework in three ways:
 
 **It grounds the reality of individual consciousness.** If experience were fully intersubjective — if your pain and mine were literally shared — there would be no individual experiencers, only a distributed phenomenal field. The fact that I cannot feel *your* pain, only my empathic response to it, suggests that consciousness comes in discrete, bounded units — though a determined defender of distributed phenomenality might read the apparent boundary as an artefact of access rather than of ontology. The Map's dualism is at least coherent with this datum: each consciousness, on its account, is its own ontological reality.
 
-**It explains why intersubjective knowledge is always approximate.** The [voids-between-minds](/voids/voids-between-minds/) is, on this reading, not a failure of intersubjectivity but a consequence of the asymmetry. I can approach your experience through empathy, [testimony](/topics/consciousness-and-testimony/), and shared attention, but I cannot coincide with it. This may render [interpersonal understanding](/topics/consciousness-and-social-understanding/) an ongoing achievement that is never completed — which seems to match the phenomenology. Understanding another person appears to deepen indefinitely without reaching a terminus.
+**It explains why intersubjective knowledge is always approximate.** The [voids-between-minds](/voids/voids-between-minds/) is, on this reading, not a failure of intersubjectivity but a consequence of the asymmetry. I can approach your experience through empathy, [testimony](/topics/consciousness-and-testimony/), and shared attention — the reciprocal engagement that [second-person methods](/topics/the-second-person-evidential-channel/) propose, as a hypothesis, to treat as a distinct evidential channel — but I cannot coincide with it. This may render [interpersonal understanding](/topics/consciousness-and-social-understanding/) an ongoing achievement that is never completed — which seems to match the phenomenology. Understanding another person appears to deepen indefinitely without reaching a terminus.
 
 **It gives moral significance to the attempt.** Because understanding across the asymmetry requires effort, attention, and vulnerability, it carries moral weight. The attempt to understand another consciousness despite the gap is an ethical act — what Levinas would call responsibility. If the gap were illusory or easily bridged, the attempt would lose its significance.
 
@@ -119,9 +119,9 @@ The Map's third position — ontologically individual, phenomenologically enrich
 
 **[Dualism](/tenets/#dualism)**: The constitutive question takes on distinctive form under dualism. If consciousness is ontologically irreducible, then intersubjectivity is the encounter between genuinely distinct experiential realities — not just different perspectives on one physical world but different non-physical domains achieving coordination through physical mediation. The Map argues this captures the felt difficulty of genuine intersubjective encounter better than physicalist accounts where communication is "merely" causal interaction between similar physical systems.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Intersubjective encounter provides some of the strongest everyday evidence for bidirectional interaction. When I understand what you mean — not just process your words but grasp the experiential content behind them — this understanding causally influences my subsequent behaviour. If phenomenal understanding were epiphenomenal, the systematic correlation between depth of intersubjective understanding and quality of interpersonal response would be coincidental.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Intersubjective encounter is a natural everyday setting for bidirectional interaction, though it does not settle the question. When I understand what you mean — not just process your words but grasp the experiential content behind them — this understanding appears to shape my subsequent behaviour. The physicalist has a ready third option: depth of understanding and quality of response correlate because both are fixed by the same neural states — systematic, not coincidental, with no irreducible mind doing causal work. The Map's reply is that this common-cause picture still owes an account of why the *felt grasp* of another's meaning, not merely its physical correlate, features in how we register and adjust our responses to one another. This marks where the Map's interactionism and the common-cause story part company rather than refuting supervenience on its own terms.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Intersubjectivity presupposes that I am encountering *this* particular other — not a superposition of all possible versions of them across branching worlds. Many-worlds interpretations dissolve the indexical specificity that makes intersubjective encounter meaningful. When I struggle to understand you, the "you" I am trying to reach must be determinate. The Map's rejection of many-worlds preserves this determinacy.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Intersubjective encounter does not fail branch-internally under Everett: within a branch I meet a determinate other, and the "you" I struggle to understand is well defined there. Rejecting many-worlds therefore adds nothing to the determinacy of the encounter itself. What the tenet secures — a tenet, not a derived result — is indexical identity: that *this* encounter, is the one that is mine, rather than every variant of it occurring on other branches alongside me.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The simplest account of intersubjectivity — mere information exchange between physical systems — fails to capture the phenomenology. The felt difference between processing someone's words and understanding what they mean, between observing grief and empathically grasping it, is the central datum. Parsimony that eliminates this distinction has not explained the phenomenon but explained it away.
 
