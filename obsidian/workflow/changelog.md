@@ -5,6 +5,15 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-25T07:36:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-holism-and-phenomenal-unity]] + [[concepts/entanglement-binding-hypothesis]] (2-file citation-fidelity task, outer reviews 2026-09-25 ChatGPT+Claude)
+- **Original score**: n/a (targeted fidelity fix)
+- **Changes**: (1) Warren (2023): replaced "no alternative classical explanation is owed" with his actual classical iMQC account ("essentially classical in nature") + unreported gradient-strength/sequence-parameter objection; stated no independent replication with a validated entanglement witness exists; References title corrected to singular "brain function". (2) Dropped "thermal equilibrium conditions equivalent to death" from Hagan et al. in the topic; in the concept file (L76) the mis-sourced verbatim quote attributed to Hagan now paraphrases Hagan's non-equilibrium point and attributes "equivalent to death" to Wiest 2025 (already in References). (3) QZE/Denton: removed "each instantaneous... rather than long-lived coherence"; Zeno operation now stated as spin-selective recombination (a chemical reaction, not attention), ~700 ns coherence still required in the model; kept "computational precedent, not an attentional or neural demonstration". (4) Reimers/McKemmish 2009 recast as two distinct feasibility critiques (Fröhlich condensation energetics; tubulin conformational switching), not re-runs of Hagan. (5) "disappeared during sleep" scoped to the small sleep subsample (two of seven reported falling asleep). L134 "reduced (improper) mixture" untouched (moved to the P1 mixture-attribution task); concept L42 Neven quote untouched (separate P1 task).
+- **Engagement classification**: Warren: Mode Three (framework-boundary); the article now reports his classical account honestly rather than claiming the quantum reading faces no rival.
+- **Length**: topic 3992 → 3998 (hard 4000, gate `>=`); concept 2817 → 2821. ai_system held; ai_modified bumped only.
+- **Published**: yes
+
 ## 2026-09-25T07:40:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/sham-controlled-neurofeedback-and-the-consciousness-comparator]]

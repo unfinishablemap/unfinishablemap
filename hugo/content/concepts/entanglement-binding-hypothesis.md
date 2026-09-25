@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-01
-ai_modified: 2026-08-13 07:11:00+00:00
+ai_modified: 2026-09-25 07:34:00+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-22 16:17:55+00:00
-lastmod: 2026-08-13 07:11:00+00:00
+lastmod: 2026-09-25 07:34:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,7 +76,7 @@ A 2025 study (Escolà-Gascón) using 106 monozygotic twin pairs reported that en
 
 The standard objection holds that quantum coherence cannot survive in warm, wet biological tissue. Tegmark (2000) calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural microtubules—too short for any neural process.
 
-This calculation has been challenged, though the challenge remains contested. Hagan, Hameroff, and Tuszyński (2002) identified problematic assumptions in Tegmark's model: unrealistically large superposition separation distances and thermal equilibrium conditions that, as they put it, are "equivalent to death, and thus not appropriate for describing living matter." Their recalculation yielded decoherence times of 10⁻⁵ to 10⁻⁴ seconds—eight to nine orders of magnitude longer than Tegmark's figures. But the recalibration has itself been challenged from two directions: Reimers et al. (2009) argued on energetic grounds that the coherent Fröhlich condensation Orch OR needs is inaccessible in biological tissue, and McKemmish et al. (2009) argued that tubulin does not undergo the rapid conformational switching the qubit picture requires. Taken together, these critiques hold that Hagan's parameter assumptions either rest on microtubule dielectric properties that are not empirically established or specify regimes microtubules do not occupy in living tissue. The Tegmark/Hagan dispute is therefore live rather than settled either way, and the Map's microtubule-scale interest is tenet-driven (Minimal Quantum Interaction) rather than empirically forced.
+This calculation has been challenged, though the challenge remains contested. Hagan, Hameroff, and Tuszyński (2002) identified problematic assumptions in Tegmark's model: unrealistically large superposition separation distances and the assumption of thermal equilibrium, which living matter, far from equilibrium, does not satisfy. (Wiest 2025 later glossed such conditions as "equivalent to death.") Their recalculation yielded decoherence times of 10⁻⁵ to 10⁻⁴ seconds—eight to nine orders of magnitude longer than Tegmark's figures. But the recalibration has itself been challenged from two directions: Reimers et al. (2009) argued on energetic grounds that the coherent Fröhlich condensation Orch OR needs is inaccessible in biological tissue, and McKemmish et al. (2009) argued that tubulin does not undergo the rapid conformational switching the qubit picture requires. Taken together, these critiques hold that Hagan's parameter assumptions either rest on microtubule dielectric properties that are not empirically established or specify regimes microtubules do not occupy in living tissue. The Tegmark/Hagan dispute is therefore live rather than settled either way, and the Map's microtubule-scale interest is tenet-driven (Minimal Quantum Interaction) rather than empirically forced.
 
 Biological precedent bears on the objection, though less broadly than once thought. The surviving strong case is avian magnetoreception, where cryptochrome proteins maintain radical-pair spin coherence for microseconds: if evolution can harness quantum effects for navigation, it might harness them for consciousness. Photosynthetic energy transfer, long cited alongside it, no longer carries the claim in its *long-lived electronic coherence* form — Duan et al. (2017) measured electronic coherence in light-harvesting complexes dephasing within roughly 60 femtoseconds and found no hint of a biofunctional role, and the long-lived oscillations once read as electronic are now attributed to vibrational coherence. Short-timescale vibrational/vibronic coupling is a live but different question. What survives is a precedent that the regime is not categorically impossible, not a licence for the neural case; the [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) develops the argument systematically and reaches a realistic possibility rather than a probability.
 

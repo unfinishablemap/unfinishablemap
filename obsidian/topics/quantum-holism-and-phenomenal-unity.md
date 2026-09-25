@@ -4,7 +4,7 @@ description: "Classical binding mechanisms coordinate separate processes but can
 created: 2026-01-21
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-09-18T01:53:27+00:00
+ai_modified: 2026-09-25T07:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -125,11 +125,11 @@ The gap between "physically unified" and "phenomenally unified" may be bridged b
 
 The standard objection to quantum consciousness is [[decoherence]]. Warm, wet biological systems should destroy quantum superpositions almost instantly. Max Tegmark's influential 2000 calculation estimated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds in neural microtubules.
 
-This objection has been contested but not settled either way. In 2002, Hagan, Hameroff, and Tuszynski published a detailed critique of Tegmark's assumptions: he assumed unrealistically large separation distances for quantum superpositions and thermal equilibrium conditions equivalent to death. Using corrected estimates for dielectric properties and realistic model parameters, they derived coherence times of 10⁻⁵ to 10⁻⁴ seconds—**eight to nine orders of magnitude longer** than Tegmark calculated. But Reimers et al. (2009) and McKemmish et al. (2009) re-examined that recalibration and found its parameter assumptions either rely on microtubule dielectric properties that are not empirically established or specify regimes microtubules do not occupy in living tissue. The dispute is live, not closed; citing Hagan as a settled rebuttal would be selective citation. The Map's interest in microtubule-scale coherence is tenet-driven (Minimal Quantum Interaction) rather than empirically forced.
+This objection has been contested but not settled either way. In 2002, Hagan, Hameroff, and Tuszynski published a detailed critique of Tegmark's assumptions: he assumed unrealistically large separation distances for quantum superpositions and thermal equilibrium, which living tissue does not maintain. Using corrected estimates for dielectric properties and realistic model parameters, they derived coherence times of 10⁻⁵ to 10⁻⁴ seconds—**eight to nine orders of magnitude longer** than Tegmark calculated. But two distinct 2009 feasibility critiques press from other directions: Reimers et al. found the coherent Fröhlich condensation Orch OR needs inaccessible in living tissue, and McKemmish et al. found tubulin lacks the rapid conformational switching its qubits require. The dispute is live, not closed; citing Hagan as a settled rebuttal would be selective citation. The Map's interest in microtubule-scale coherence is tenet-driven (Minimal Quantum Interaction) rather than empirically forced.
 
 The biological precedent strengthens the case. [[radical-pair-magnetoreception|Avian magnetoreception]] relies on quantum spin coherence in cryptochrome proteins persisting for microseconds at biological temperatures; Luo et al. (2025) provided computational support via QM/MM simulations showing protein and solvent reorganization stabilizes the separated radical pair underlying this coherence. If evolution optimised quantum effects for navigation, quantum effects in neural systems are not inherently implausible.
 
-A gap remains. Even corrected coherence times fall three orders of magnitude short of the ~300ms timescale of conscious decisions. Yet this gap may not matter if the relevant mechanisms involve discrete quantum events rather than sustained superposition. The quantum Zeno approach requires only discrete attentional "observations"—each instantaneous—rather than long-lived coherence. Denton et al. (2024) modelled in *Nature Communications* how the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs—a computational precedent for the mechanism category proposed for consciousness-brain interaction, not a neural demonstration.
+A gap remains. Even corrected coherence times fall three orders of magnitude short of the ~300ms timescale of conscious decisions. Yet this gap may not matter if the relevant mechanisms involve discrete quantum events rather than sustained superposition. The quantum Zeno approach proposes that repeated attentional "observations" hold a state in place. Denton et al. (2024) modelled in *Nature Communications* how Zeno dynamics enable magnetosensitivity in cryptochrome radical pairs, but there the "observation" is spin-selective recombination, a chemical reaction, and the model still needs ~700 ns coherence. That is a computational precedent for the mechanism category, not an attentional or neural demonstration.
 
 Most fundamentally, decoherence does not solve the measurement problem. As Schlosshauer's authoritative 2019 review notes, after decoherence selects preferred bases and suppresses interference, the system remains in a mixture of possible outcomes. Consciousness could participate at this collapse point regardless of prior decoherence.
 
@@ -143,9 +143,9 @@ The logic is precise: if anesthetics cause unconsciousness by disrupting quantum
 
 ### Brain Entanglement Signatures (2022-2023)
 
-Kerskens and López Pérez developed a novel quantum entanglement-detection MRI protocol and applied it to conscious human subjects. They observed an MRI signal pattern indicating spin entanglement that was present during waking awareness, disappeared during sleep, and correlated with short-term memory performance.
+Kerskens and López Pérez developed a novel quantum entanglement-detection MRI protocol and applied it to conscious human subjects. They observed an MRI signal pattern indicating spin entanglement that was present during waking awareness, faded in a small sleep subsample (two of seven participants reported falling asleep), and correlated with short-term memory performance.
 
-Warren (2023) challenged the interpretation on methodological grounds, arguing the observed signal may be an artefact rather than a genuine entanglement signature. If that is right, no alternative classical explanation of the signal is owed—there may be no real signal to explain—so the absence of one is not itself evidence for the quantum reading. The debate remains open. The findings require independent replication and represent an early attempt at direct evidence linking entangled states in the brain to consciousness.
+Warren (2023) offered a classical account: intermolecular multiple-quantum coherences, familiar from NMR, are "essentially classical in nature" and can generate such signals. He also noted that gradient strength and other sequence parameters went unreported, hampering reproduction. No independent replication with a validated entanglement witness exists, so this remains one unreplicated study, not an established finding.
 
 ## The Illusionist Challenge
 
@@ -233,5 +233,5 @@ The Map holds that the quantum position remains a realistic candidate—motivate
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. Tononi, G. (2008). Consciousness as integrated information: a provisional manifesto. *Biological Bulletin*, 215(3), 216-242.
 1. Vicente, R., Gollo, L. L., Mirasso, C. R., Fischer, I., & Pipa, G. (2008). Dynamical relaying can yield zero time lag neuronal synchrony despite long conduction delays. *Proceedings of the National Academy of Sciences USA*, 105(44), 17157-17162.
-1. Warren, W. (2023). Comment on "Experimental indications of non-classical brain functions". *Journal of Physics Communications*, 7, 038001.
+1. Warren, W. (2023). Comment on "Experimental indications of non-classical brain function". *Journal of Physics Communications*, 7, 038001.
 1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
