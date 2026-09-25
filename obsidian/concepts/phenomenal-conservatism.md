@@ -2,9 +2,9 @@
 title: "Phenomenal Conservatism"
 description: "Michael Huemer's phenomenal conservatism as epistemology—seemings confer defeasible justification. Human+AI analysis grounding the Map's evidential base."
 created: 2026-07-13
-modified: 2026-09-24
+modified: 2026-09-25
 human_modified:
-ai_modified: 2026-09-24T23:18:30+00:00
+ai_modified: 2026-09-25T00:30:00+00:00
 draft: false
 topics:
   - "[[phenomenal-authority-and-first-person-evidence]]"
@@ -53,7 +53,7 @@ A note on the literature: there is no dedicated Stanford Encyclopedia entry for 
 
 PC's plausibility turns on what a seeming *is*, and the question is not a preliminary terminological detail. The main candidates in the current literature are a *sui generis* experiential state with propositional content (Huemer's own view), a belief or disposition to believe, a felt inclination short of belief, and a broadly representational state. Huemer marks genuine seemings by a distinctive phenomenal "forcefulness" or *pushiness* toward their content, but that diagnostic is itself contested rather than agreed—one of the questions taken up across the 2023 collection *Seemings: New Arguments, New Angles* (McCain, Stapleford & Steup, eds.).
 
-The answer bears directly on the Map's use of PC. If an epistemically justificatory seeming must itself be phenomenally conscious, PC and illusionism collide at once; if a seeming could be a doxastic, dispositional, or *functional* state, the collision is deferred. This is exactly the disagreement [[functional-seeming]] joins from the other side: Keith Frankish holds that the seeming *of* phenomenality need not itself be phenomenal, whereas Huemer-style PC treats seemings as experiences with felt content. The two concepts are more than an organisational analogy—they take opposite views on whether the states doing the epistemic work are conscious at all.
+The answer bears directly on the Map's use of PC. If an epistemically justificatory seeming must itself be phenomenally conscious, PC and illusionism collide at once; if a seeming could be a doxastic, dispositional, or *functional* state, the collision is deferred. This is exactly the [[seemings|disagreement]] [[functional-seeming]] joins from the other side: Keith Frankish holds that the seeming *of* phenomenality need not itself be phenomenal, whereas Huemer-style PC treats seemings as experiences with felt content. The two concepts are more than an organisational analogy—they take opposite views on whether the states doing the epistemic work are conscious at all.
 
 ## The Self-Defeat Argument
 

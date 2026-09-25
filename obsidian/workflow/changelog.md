@@ -5,6 +5,15 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-25T00:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: the nature of a seeming
+- **Output**: [[concepts/seemings]]
+- **Word count**: 2411 (analyze_length total, `ok`; ~2130 prose + ~280 reference apparatus)
+- **Based on research**: no dedicated note; built from [[reviews/optimistic-2026-09-16-phenomenal-epistemology-wing]] (High Priority 2), with sources verified this run: Huemer IEP entry (four-analysis taxonomy, all quotes grep-verified in raw page text), Huemer 1998 dissertation §3.4 (forcefulness quote), Pryor 2000 Noûs (phenomenal-force, super-blindsight and introspection-bracketing quotes grep-verified in full text; DOI via Crossref), Frankish 2023 Klēsis eprint (seeming definition grep-verified), Crossref for Conee 2013, Tooley 2013, Tucker 2013, McCain/Stapleford/Steup 2023
+- **Integration**: zero-word piped link in [[concepts/phenomenal-conservatism]] (at "the disagreement [[functional-seeming]] joins"); reciprocal sentence + Further Reading in [[concepts/functional-seeming]]; zero-word link in [[concepts/cognitive-penetration]]
+- **Also fixed**: [[concepts/functional-seeming]] spliced Frankish 2023 quote ("..., and there is thus no circularity") restored to the source's two sentences
+
 ## 2026-09-24T23:33:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/cognitive-penetration]]

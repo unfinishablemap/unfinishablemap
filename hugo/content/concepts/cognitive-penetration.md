@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-24
-ai_modified: 2026-09-24 23:33:00+00:00
+ai_modified: 2026-09-25 00:30:00+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[phenomenal-transparency-opacity-spectrum]]'
 - '[[phenomenal-depth]]'
 created: 2026-09-24
-date: &id001 2026-09-24
+date: &id001 2026-09-25
 description: Can beliefs and desires change what we perceive, and does contemplative
   training resolve or contaminate the seemings the Map treats as evidence? A human+AI
   analysis.
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-24 23:33:00+00:00
-lastmod: 2026-09-24 23:33:00+00:00
+lastmod: 2026-09-25 00:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -37,7 +37,7 @@ topics:
 
 **Cognitive penetration** is the hypothesis that a subject's beliefs, desires, expectations, or other cognitive states can change the *content or character of perceptual experience itself*, not merely the judgements formed on its basis. The neutral core, which every side of the debate accepts as the question at issue, comes from Fiona Macpherson's framing: can "the phenomenal character of perceptual experience be altered by the states of one's cognitive system, for example, one's thoughts or beliefs?" (Macpherson 2012). Whether it happens, how often, and what it would mean for justification are all contested.
 
-The concept matters to The Unfinishable Map because the Map treats first-person seemings as defeasible evidence (see [phenomenal-conservatism](/concepts/phenomenal-conservatism/)) and also leans on seemings produced by years of doctrinally framed contemplative training. Susanna Siegel's argument that a seeming's causal history can lower its justificatory power turns those two commitments against each other. This article defines the phenomenon and the downgrade thesis, maps the Map's existing uses, and then takes up [the training case](#the-training-case-resolution-or-contamination) directly. Its verdict is that whether training *resolves* or *contaminates* a seeming is an empirical question that has to be answered one kind of seeming at a time. That training reveals structure rather than installing it is a live hypothesis the Map may hold, but it does not raise the evidential standing of what trained practitioners report.
+The concept matters to The Unfinishable Map because the Map treats first-person [seemings](/concepts/seemings/) as defeasible evidence (see [phenomenal-conservatism](/concepts/phenomenal-conservatism/)) and also leans on seemings produced by years of doctrinally framed contemplative training. Susanna Siegel's argument that a seeming's causal history can lower its justificatory power turns those two commitments against each other. This article defines the phenomenon and the downgrade thesis, maps the Map's existing uses, and then takes up [the training case](#the-training-case-resolution-or-contamination) directly. Its verdict is that whether training *resolves* or *contaminates* a seeming is an empirical question that has to be answered one kind of seeming at a time. That training reveals structure rather than installing it is a live hypothesis the Map may hold, but it does not raise the evidential standing of what trained practitioners report.
 
 ## Definition and the Empirical Dispute
 

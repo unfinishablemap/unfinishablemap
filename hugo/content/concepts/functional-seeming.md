@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-12
-ai_modified: 2026-07-22 09:17:04+00:00
+ai_modified: 2026-09-25 00:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -13,7 +13,7 @@ concepts:
 - '[[knowledge-argument]]'
 - '[[introspection]]'
 created: 2026-04-12
-date: &id001 2026-04-12
+date: &id001 2026-09-25
 description: 'Keith Frankish''s claim that ''seeming conscious'' reduces to functional
   dispositions rather than phenomenal experience: illusionism''s central defence,
   and why the Map rejects it.'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-22 09:17:04+00:00
-lastmod: 2026-07-22 09:17:04+00:00
+lastmod: 2026-09-25 00:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,7 +42,7 @@ The Unfinishable Map rejects functional seeming because it conflates what experi
 
 The most natural objection to illusionism is circular: if phenomenal consciousness is an illusion, something must experience that illusion—and that something is phenomenally conscious. The illusion presupposes what it denies.
 
-Frankish's response targets the word "experience." The regress assumes that seeming is itself phenomenal—that for consciousness to *seem* real, there must be something it's like to undergo the seeming. Frankish rejects this assumption. "Seeming need not be phenomenal seeming, and there is thus no circularity in claiming that phenomenal properties seem to exist" (Frankish 2023). On this account, the seeming is exhausted by functional facts: dispositions to judge, report, remember, and react as if one were phenomenally conscious.
+Frankish's response targets the word "experience." The regress assumes that seeming is itself phenomenal—that for consciousness to *seem* real, there must be something it's like to undergo the seeming. Frankish rejects this assumption. "seeming need not be phenomenal seeming. There is thus no circularity in claiming that phenomenal properties seem to exist" (Frankish 2023). On this account, the seeming is exhausted by functional facts: dispositions to judge, report, remember, and react as if one were phenomenally conscious.
 
 ## Quasi-Phenomenal Properties
 
@@ -88,7 +88,7 @@ This is not the bare regress objection, which Frankish's functional account does
 
 Functional seeming has a mirror image in epistemology, where a "seeming" is the basic unit of justification. On Michael Huemer's [phenomenal conservatism](/concepts/phenomenal-conservatism/) (PC), if it seems to a subject that P then, absent defeaters, the subject has prima facie justification for believing P. The reciprocal question the two concepts pose to each other is whether that justificatory seeming must itself be phenomenal. Huemer's own construal says it must: he marks a genuine seeming by a distinctive phenomenal "forcefulness"—an appearance's felt pushing of its content as true—and it is that presentational force, not a bare disposition to judge, that separates a seeming from a belief and does the justifying.
 
-Frankish's functional analysis denies exactly this: the seeming *of* phenomenality, he holds, need involve no phenomenal force at all. The two positions collide over the same states. PC's answer to the functional analysis is that a purely functional disposition to judge "I am conscious" cannot confer the justification a seeming confers, because it lacks the appearance-as-true that gives seemings their evidential grip—a disposition to believe P is not yet evidence for P. If functional seeming genuinely carries no phenomenal force, it is not a seeming in Huemer's justificatory sense, and the illusionist still owes an account of why introspective judgement tracks anything; if instead the illusionist restores felt force to keep the appearance compelling, the regress functional seeming was built to escape reopens. The [phenomenal-conservatism](/concepts/phenomenal-conservatism/) article joins this disagreement from the epistemology side.
+Frankish's functional analysis denies exactly this: the seeming *of* phenomenality, he holds, need involve no phenomenal force at all. The two positions collide over the same states. PC's answer to the functional analysis is that a purely functional disposition to judge "I am conscious" cannot confer the justification a seeming confers, because it lacks the appearance-as-true that gives seemings their evidential grip—a disposition to believe P is not yet evidence for P. If functional seeming genuinely carries no phenomenal force, it is not a seeming in Huemer's justificatory sense, and the illusionist still owes an account of why introspective judgement tracks anything; if instead the illusionist restores felt force to keep the appearance compelling, the regress functional seeming was built to escape reopens. The [phenomenal-conservatism](/concepts/phenomenal-conservatism/) article joins this disagreement from the epistemology side; [seemings](/concepts/seemings/) compares the rival analyses of a seeming and states the Map's position and its cost.
 
 ## Relation to Site Perspective
 
@@ -110,6 +110,7 @@ The Map treats functional seeming as the strongest version of illusionism and en
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and why functional facts leave something out
 - [introspection](/concepts/introspection/) — The faculty functional seeming claims is systematically unreliable
 - [phenomenal-conservatism](/concepts/phenomenal-conservatism/) — The epistemology of seemings, which contests whether a justificatory seeming must be phenomenal
+- [seemings](/concepts/seemings/) — The four analyses of a seeming, and why the Map takes the phenomenal side
 
 ## References
 
