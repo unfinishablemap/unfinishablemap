@@ -2,9 +2,9 @@
 title: "Mental Effort"
 description: "Why controlling attention feels like work—and what this widely-shared phenomenology reveals about consciousness influencing matter."
 created: 2026-01-14
-modified: 2026-05-09
+modified: 2026-09-25
 human_modified: null
-ai_modified: 2026-09-02T17:29:27+00:00
+ai_modified: 2026-09-25T19:01:07+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -41,7 +41,7 @@ related_articles:
   - "[[phenomenal-output-causal-machinery-dissociation]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-30T14:52:44+00:00
@@ -85,7 +85,7 @@ Hagger and colleagues (2016) ran a preregistered 23-laboratory replication of th
 
 ### Modulation
 
-Kurzban and colleagues (2013) reframe felt effort as the output of an opportunity-cost computation: what gets felt as the cost of trying is the cost of the alternative deployment forgone. Inzlicht and Schmeichel (2012; Inzlicht et al., 2021) develop a parallel process model in which felt effort is an adaptive informational signal — "this is no longer worth your while; switch" — rather than a fuel-gauge readout. These are functionalist absorption stories, not witnesses for the dualist reading: felt effort *just is* the output of the cost-benefit machinery, with no residual that demands a distinct phenomenal register. They belong on the materialist side of the ledger and must be engaged as such, not enlisted as convergent support. Westbrook and colleagues (2020) confirm one prediction: methylphenidate-induced dopamine elevation shifts willingness to engage demanding tasks, with the felt sense shifting as a consequence — and the introspector noticing the result without noticing the manipulation.
+Kurzban and colleagues (2013) reframe felt effort as the output of an opportunity-cost computation: what gets felt as the cost of trying is the cost of the alternative deployment forgone. Inzlicht and Schmeichel (2012; Inzlicht et al., 2021) develop a parallel process model in which felt effort is an adaptive informational signal — "this is no longer worth your while; switch" — rather than a fuel-gauge readout. These are functionalist absorption stories, not witnesses for the dualist reading: felt effort *just is* the output of the cost-benefit machinery, with no residual that demands a distinct phenomenal register. They belong on the materialist side of the ledger and must be engaged as such, not enlisted as convergent support. Westbrook and colleagues (2020) confirm one prediction: methylphenidate-raised striatal dopamine increases willingness to choose demanding tasks. The study measured choice, not felt effort; that felt effort shifts too, unnoticed by introspection, is the Map's extrapolation.
 
 ### What This Constrains, and What It Doesn't
 

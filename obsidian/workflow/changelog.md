@@ -5,6 +5,13 @@ ai_modified: '2026-09-25T18:34:08+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-25T19:01:07+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/mental-effort]]
+- **Original score**: n/a (targeted claim-fidelity fix)
+- **Changes**: Recast L88 Westbrook et al. 2020 (*Science* 367:1362) sentence to the measured finding only (methylphenidate-raised striatal dopamine increases willingness to choose demanding tasks); felt-sense shift and introspective-blindness clauses now explicitly marked as the Map's extrapolation, matching L146's caveat. Swept file: no other statement attributes phenomenology measurement to Westbrook (L146 already correct; L194 reference unchanged). `analyze_length` 3161 → 3161 (length-neutral). Flagged by apex-evolve 2026-09-25.
+- **Published**: yes
+
 ## 2026-09-25T18:34:08+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/phenomenology-of-consciousness-doing-work]]
