@@ -5,6 +5,14 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-25T08:46:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/post-decoherence-selection-programme]] (convergent outer reviews 2026-09-25, ChatGPT+Claude, P1: post-decoherence selection vs quantum-holism unity locus)
+- **Original score**: n/a (targeted fix)
+- **Length**: 4,997 body words before (analyze_length), 4,992 after; apex hard 5,000 not breached.
+- **Changes**: Added a "The unity locus" debt item (~115 words) to "What a Complete Theory Requires", after "The formal law": names the tension (holism ties unity to an entangled whole; the programme selects a decohered pointer alternative and needs no long-lived coherence), lists the four unresolved loci (pre-decoherence entangled state / global system-environment state / reduced decohered alternatives / actualisation event alone), states the collapse-removes-the-entanglement worry, and phrases the Map's stance consistently with today's quantum-holism revision (non-separable correlate = framework commitment; relation analogical and locational, not constitutive). Left unresolved by design. Links added to [[quantum-holism-and-phenomenal-unity]] and [[entanglement-binding-hypothesis]]. Paid for by cutting redundant restatements: "great achievements" background sentence; Kochen-Specker "not an experimental limitation" sentence; two Zurek interpretation-neutral restatements; "minimal intervention is the channel-class commitment" sentence; "constraints rather than mechanisms is calibration" sentence; compressed the mutual-constraint/common-cause sentence, the Minimal Quantum Interaction tenet's duplicate heavy-lifting list, the amplification honest-limitation sentence, and a many-worlds restatement. Schlosshauer "mixture of possible outcomes" sentence untouched (separate P1 task); tenets' pre-decoherence fallback declaration left to the confession-propagation task.
+- **Published**: yes
+
 ## 2026-09-25T08:17:38+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-holism-and-phenomenal-unity]] (convergent outer reviews 2026-09-25, ChatGPT+Claude: unargued classical-failure premise, factorisation/subject pairing, IIT treatment)

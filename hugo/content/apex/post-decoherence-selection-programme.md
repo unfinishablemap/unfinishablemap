@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-09-11 13:51:39+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-09-25 08:46:36+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 apex_last_synthesis: 2026-07-18 21:02:00+00:00
 apex_sources:
 - concepts/post-decoherence-selection
@@ -29,7 +29,7 @@ concepts:
 - '[[contextual-selection-in-quantum-foundations]]'
 - '[[causal-consistency-constraint]]'
 created: 2026-03-29
-date: &id001 2026-05-27
+date: &id001 2026-09-25
 description: Five components of one speculative architecture—post-decoherence selection,
   quantum Darwinism, contextuality, weak measurement, stochastic amplification—constitute
   a physics research programme for consciousness acting after decoherence.
@@ -42,7 +42,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 21:02:00+00:00
-lastmod: 2026-09-11 13:51:39+00:00
+lastmod: 2026-09-25 08:46:36+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -74,7 +74,7 @@ The strongest empirical objection to quantum consciousness theories is the [timi
 
 ## The Gap Decoherence Leaves [Open]
 
-Decoherence is one of the great achievements of modern physics. It explains why macroscopic objects appear classical: environmental interactions rapidly suppress quantum interference, selecting a preferred basis of robust pointer states and destroying the fragile superpositions that make quantum mechanics strange. After decoherence, a neural system exists in a mixture of classically distinguishable states—this firing pattern or that one—with interference between them suppressed below any detectable threshold.
+Decoherence explains why macroscopic objects appear classical: environmental interactions rapidly suppress quantum interference, selecting a preferred basis of robust pointer states and destroying the fragile superpositions that make quantum mechanics strange. After decoherence, a neural system exists in a mixture of classically distinguishable states—this firing pattern or that one—with interference between them suppressed below any detectable threshold.
 
 What decoherence does not do is explain why one of those states becomes actual. As Schlosshauer (2004) summarises: after the basis is chosen and superpositions suppressed, the system remains in a mixture of possible outcomes—decoherence does not tell how and why only one is measured. This is the *problem of outcomes*—the third sub-problem of quantum measurement, surviving intact after the first two (preferred basis and non-observability of interference) have been solved.
 
@@ -94,7 +94,7 @@ The *probabilities are fixed*—by a separate Zurek result: [envariance](/concep
 
 *Agreement is guaranteed*. Because environmental fragments carry redundant information about the selected outcome, all subsequent observers will agree. Consciousness need not synchronise multiple observations—quantum Darwinism handles intersubjective agreement automatically.
 
-These constraints clarify why the Map's proposal is one of minimal interaction *at the [point of selection](/concepts/post-decoherence-selection/)*—a minimality that does not extend to the background, which objective reduction already renders non-unitary. Zurek's programme has done the heavy lifting—einselection fixing the basis, envariance grounding the probabilities, quantum Darwinism's redundancy securing objectivity—three distinct arguments, not one result. What remains for consciousness is the single act of actualisation: determining which pointer state obtains. The intervention is as small as it could be while still genuine, and injects no energy by stipulation rather than derivation: selection on an improper mixture modifies the dynamics, leaving [conservation-law](/concepts/conservation-laws-and-mental-causation/) consistency open. The channel-theoretic formalisation of this minimality — the per-event log₂(N) ceiling, Born-preservation of the unconditioned long-run marginal, and the content-confinement bound on phenomenal repertoire — is developed in [selection-only-channel](/concepts/selection-only-channel/), with the parent topic [selection-only-mind-influence](/topics/selection-only-mind-influence/) carrying the empirical signature corridor and distinguishing observables. The programme's "minimal intervention" is the channel-class commitment those articles characterise.
+These constraints clarify why the Map's proposal is one of minimal interaction *at the [point of selection](/concepts/post-decoherence-selection/)*—a minimality that does not extend to the background, which objective reduction already renders non-unitary. Zurek's programme has done the heavy lifting—einselection fixing the basis, envariance grounding the probabilities, quantum Darwinism's redundancy securing objectivity—three distinct arguments, not one result. What remains for consciousness is the single act of actualisation: determining which pointer state obtains. The intervention is as small as it could be while still genuine, and injects no energy by stipulation rather than derivation: selection on an improper mixture modifies the dynamics, leaving [conservation-law](/concepts/conservation-laws-and-mental-causation/) consistency open. The channel-theoretic formalisation of this minimality — the per-event log₂(N) ceiling, Born-preservation of the unconditioned long-run marginal, and the content-confinement bound on phenomenal repertoire — is developed in [selection-only-channel](/concepts/selection-only-channel/), with the parent topic [selection-only-mind-influence](/topics/selection-only-mind-influence/) carrying the empirical signature corridor and distinguishing observables.
 
 ### The Bias-Without-Deviation Dilemma [Open]
 
@@ -104,11 +104,11 @@ The Map takes two horns together. *First*, within-Born outcome-biasing is defend
 
 One alternative would dissolve the dilemma by relocating the Map's mental influence to Stapp's Process-1 register—which question, which timing—rather than the outcome, buying back a measure of testability. But that is a *material change to the Map's thesis*: [Bidirectional Interaction](/tenets/#bidirectional-interaction) commits consciousness to influencing the physical world through outcome-selection, and a Process-1-only relocation would weaken that to context-setting. It is flagged here as an alternative the Map could in principle adopt—a human editorial decision, not a refine-pass fix.
 
-Zurek himself leans toward an Everettian reading where all pointer states are realised in separate branches. The Map rejects this: quantum Darwinism's core results—einselection, redundant encoding, the emergence of objectivity—are interpretation-neutral. They work equally well in collapse interpretations, hidden-variable theories, and consciousness-mediated frameworks. The physics can be separated from Zurek's interpretive inclinations.
+Zurek himself leans toward an Everettian reading where all pointer states are realised in separate branches. The Map rejects this: quantum Darwinism's core results—einselection, redundant encoding, the emergence of objectivity—are interpretation-neutral.
 
 ## The Structure: Contextuality's Constraint [Open]
 
-A naive picture of conscious selection treats quantum outcomes like items on a shelf—consciousness reaches in and picks one. The Kochen-Specker theorem (1967) rules this out. No assignment of definite values to all quantum observables can be both consistent and context-independent. What result obtains for a given observable depends on which other observables are measured alongside it. The Peres-Mermin square sharpens the point to nine observables on a four-dimensional system: no consistent value assignment exists no matter how cleverly one is constructed. Contextuality is not an experimental limitation that better technique might remove; it follows from how contexts of commuting observables overlap.
+A naive picture of conscious selection treats quantum outcomes like items on a shelf—consciousness reaches in and picks one. The Kochen-Specker theorem (1967) rules this out. No assignment of definite values to all quantum observables can be both consistent and context-independent. What result obtains for a given observable depends on which other observables are measured alongside it. The Peres-Mermin square sharpens the point to nine observables on a four-dimensional system: no consistent value assignment exists no matter how cleverly one is constructed.
 
 For the post-decoherence selection programme, [contextuality](/concepts/contextual-selection-in-quantum-foundations/) adds a structural requirement: whatever selects the outcome must be sensitive to the full measurement context, not just the target observable in isolation. In a neural system, this means the brain's full physical configuration—which ion channels are open, which synaptic vesicles are poised for release, which competing neural populations are active—determines not just which pointer states exist but how they relate to one another.
 
@@ -146,7 +146,7 @@ Even granting that consciousness selects among post-decoherence outcomes, a scal
 
 No single stage bridges the full twelve orders of magnitude. Each contributes a factor, and together they provide a plausible causal pathway from minimal quantum bias to macroscopic behaviour. The chain is robust precisely because each stage exploits noise rather than fighting it—an architecture consistent with [evolutionary optimisation](/topics/evolutionary-case-for-quantum-neural-effects/) of quantum neural effects.
 
-The honest limitation: no experiment has demonstrated the full chain operating end-to-end. Each stage is individually well-established in neuroscience. Their composition into a consciousness-amplification pathway is inferred from individual properties, not directly observed.
+The honest limitation: no experiment has demonstrated the full chain operating end-to-end. Each stage is individually well-established; their composition into a consciousness-amplification pathway is inferred, not observed.
 
 ## What a Complete Theory Requires [Speculative]
 
@@ -162,7 +162,9 @@ The five components assemble into a research programme with identified parts, co
 
 **The formal law.** The [Interface Specification Programme](/apex/interface-specification-programme/) seeks the psychophysical control law governing how consciousness operates at the interface. The post-decoherence selection programme adds a physics-side requirement: whatever selection principle consciousness applies must respect Born-rule statistics, operate within the pointer-state menu, and be consistent with quantum contextuality. These constraints narrow the space but do not yet determine the law. Nor do they state what actualisation adds to unitary quantum mechanics—a new dynamical rule, a supplementary variable, or a primitive posit: the postulate is named, not formulated. The empirical converse — what experimental programme would *foreclose* the strict selection-only realisation of these constraints — is catalogued in [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/), which specifies what *plural and convergent* negative evidence would shut the corridor reading by mechanism.
 
-The programme is incomplete. What makes it a programme rather than speculation is that the components constrain each other: the einselected menu limits what contextuality must accommodate; contextuality constrains what the selection mechanism can do; the selection mechanism determines what stochastic amplification must bridge. Progress on any component restricts the others, creating a web of mutual constraint that drives toward specificity. That mutual constraint confers *internal* research-programme fertility, not external evidential support: it is the same shared-framework architecture the opening flags as a common-cause artefact, so it grants the components no independent confirmation, only a live programme's forward pressure toward specificity. The Map's [framework-stage calibration discipline](/project/framework-stage-calibration/) locates the programme at the *pre-Keplerian* stage: the components catalogued above—Zurek's einselection results, Kochen-Specker contextuality, weak-measurement boundary structure, the three-stage amplification chain—are Tycho-analogue measurements and constraint scaffolds, not Kepler-analogue laws. Calling them constraints rather than mechanisms is calibration to what the programme has actually produced. The pre-Keplerian label is not a blanket shield against counter-evidence, however: the amplification pathway's biophysical parameters are measurable with present techniques, and a finding that they cannot support the required twelve orders of amplification would count against the programme now rather than in a deferred future.
+**The unity locus.** [Quantum holism](/topics/quantum-holism-and-phenomenal-unity/) and the [entanglement-binding hypothesis](/concepts/entanglement-binding-hypothesis/) tie phenomenal unity to a consciousness-relevant entangled whole, yet this programme is built so that long-lived coherence is not required, and what it selects is a decohered pointer alternative, not a coherent holistic state. The corpus has not said which carries unity: the pre-decoherence entangled state, the global system–environment state, the reduced decohered alternatives, or the actualisation event alone. If unity is the entangled state, why tie the conscious moment to the reduction that ends it? The Map holds the non-separable correlate as a framework commitment, with an analogical and locational relation to unity rather than a constitutive one; which locus that relation points to remains an open debt.
+
+The programme is incomplete. What makes it a programme rather than speculation is that the components constrain each other: the einselected menu limits what contextuality must accommodate; contextuality constrains what the selection mechanism can do; the selection mechanism determines what stochastic amplification must bridge. Progress on any component restricts the others, creating a web of mutual constraint that drives toward specificity. That mutual constraint confers *internal* research-programme fertility, not evidential support: it is the same common-cause architecture the opening flags. The Map's [framework-stage calibration discipline](/project/framework-stage-calibration/) locates the programme at the *pre-Keplerian* stage: the components catalogued above—Zurek's einselection results, Kochen-Specker contextuality, weak-measurement boundary structure, the three-stage amplification chain—are Tycho-analogue measurements and constraint scaffolds, not Kepler-analogue laws. The pre-Keplerian label is not a blanket shield against counter-evidence, however: the amplification pathway's biophysical parameters are measurable with present techniques, and a finding that they cannot support the required twelve orders of amplification would count against the programme now rather than in a deferred future.
 
 ### Downstream Applied-Cost Note [Open]
 
@@ -174,11 +176,11 @@ The post-decoherence selection programme serves all five tenets while revealing 
 
 **[Dualism](/tenets/#dualism)** creates the programme's central question. If consciousness is irreducible to physics, and physics terminates at an improper mixture without explaining why one outcome obtains, then the gap between formalism and actuality is precisely where a non-physical principle operates. Quantum Darwinism strengthens this: the most sophisticated account of the quantum-to-classical transition still cannot close the outcome gap. If the best physics available leaves the gap open, the gap may not be closable by physics alone.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is *motivated by* the programme's structure rather than merely asserted. Zurek's results show that the environment does the heavy lifting—einselection the basis, envariance the weights, quantum Darwinism the intersubjective agreement. What remains for consciousness is the single act of actualisation: the smallest possible intervention consistent with genuine causal influence.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is *motivated by* the programme's structure rather than merely asserted. As the menu section shows, the environment does the heavy lifting. What remains for consciousness is the single act of actualisation: the smallest possible intervention consistent with genuine causal influence.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** finds its physical grounding. Post-decoherence selection is the mechanism by which consciousness causally influences the physical world. Stochastic amplification shows how that influence cascades into behaviour. The programme specifies not merely that consciousness acts but how its action propagates through twelve orders of magnitude to produce the movements, words, and choices that constitute a human life.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** is directly engaged. If every element of the decohered mixture is equally real, there is no selection to explain, no gap to fill, no programme to pursue. Many-worlds dissolves the problem of outcomes by denying it exists. The Map's rejection of many-worlds insists that selection is genuine—that one outcome obtains and the others do not. The entire post-decoherence selection programme rests on this insistence.
+**[No Many Worlds](/tenets/#no-many-worlds)** is directly engaged. If every element of the decohered mixture is equally real, there is no selection to explain, no gap to fill, no programme to pursue. The Map's rejection of many-worlds insists that selection is genuine—that one outcome obtains and the others do not. The entire post-decoherence selection programme rests on this insistence.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** addresses the complexity of the five-component programme. The simpler response—denying the outcome gap, embracing Everettian branching—avoids the need for a selection principle, a contextual structure, an amplification pathway. But parsimony is unreliable when knowledge is incomplete. The question of why *this* outcome, for *this* observer, is a question that dissolution does not answer and simplicity cannot dismiss.
 
