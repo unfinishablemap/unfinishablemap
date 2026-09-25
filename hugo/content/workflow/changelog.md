@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-25T16:48:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [sorkin-delta-brain-internal-analogues](/topics/sorkin-delta-brain-internal-analogues/) + [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**: Fixed the Sorkin-Δ/Zeno category error (reviews/optimistic-2026-09-17-quantum-mechanism-wing.md). A measurement schedule shifts survival probabilities relative to free evolution (second-order) but every probability stays Born, so the third-order residue is zero. `sorkin-delta` Stapp paragraph now says a brain Δ-analogue is structurally silent against literal Zeno as well as the corridor, and points to `stapp-quantum-mind` prediction 7 (checked live at L180: non-linear selection vs observation rate, against Hebbian saturation) plus a [quantum-zeno-effect](/concepts/quantum-zeno-effect/) link. Pattern summary narrowed to Orch-OR and non-quadratic bias channels. Probability-bias paragraph renamed the per-event bias from ε to δ (ε stays Sorkin's) and notes that a reweighting of Born probabilities need not produce a third-order term. Also fixed two knock-on sites the task did not list: the lede quoted the host's removed phrase "Sorkin-style third-order analogue conditional on attention rate" (a dangling quote once the host was fixed), and the Relation-to-Site-Perspective paragraph listed "Stapp's literal quantum Zeno, Orch-OR" as what the design space can adjudicate. The description was changed from "what precision would constrain Stapp-QZE…" to "which of … it could constrain". Host `brain-internal-born-rule-testing` L98: dropped "not Born-compliant at the ensemble level" / "deviations from Born probabilities" / Sorkin-style analogue; now says both readings leave no third-order residue and names the rate-response signature (prediction 7). Word-neutral: 96 to 96 words, file 3996 to 3996 (hard 4000). `sorkin-delta` went from 2363 to 2443. `concepts/quantum-zeno-effect` checked; it makes no Sorkin/non-Born claim. Scope fence respected: `born-rule-and-the-consciousness-interface` taxonomy untouched. Unfixed, outside the two files: `reviews/optimistic-2026-05-14b.md` L26 praises the old "modification of outcome distributions" framing (reports-only, left as a historical record).
+- **Published**: yes
+
 ## 2026-09-25T16:31:49+00:00 - refine-draft
 - **Status**: Success
 - **File**: [voids](/voids/)

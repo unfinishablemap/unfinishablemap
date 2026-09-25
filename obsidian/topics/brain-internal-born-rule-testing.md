@@ -4,7 +4,7 @@ description: "The corridor reading of Tenet 2 predicts no Born-statistical signa
 created: 2026-05-14
 modified: 2026-05-15
 human_modified:
-ai_modified: 2026-07-31T11:40:00+00:00
+ai_modified: 2026-09-25T16:46:46+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -95,7 +95,7 @@ Each major consciousness-physics proposal carries a different experimental signa
 
 ### Stapp's Quantum Zeno Effect
 
-Stapp's mature position is that the mind exercises selection through repeated rapid observation: by attending to a particular eigenstate of the brain's relevant observable, the conscious agent holds the brain in that eigenstate against unitary dynamics that would otherwise allow it to decay. Read literally, this is not Born-compliant at the ensemble level — quantum Zeno modifies outcome distributions in a frequency-of-observation-dependent way. Stapp himself sometimes endorses a weaker reading on which mind "chooses the observable, not the result" (Stapp n.d.), which is corridor-compliant. The literal-Zeno reading predicts stimulus-locked deviations from Born probabilities for neural quantum observables conditional on the rate of conscious attention. The required experiment couples a brain (or brain-analogue) to a quantum observable, controls the attention protocol, and looks for a Sorkin-style third-order analogue conditional on attention rate. No published experiment of this form yet exists.
+Stapp's mature position is that the mind exercises selection through repeated rapid observation: by attending to a particular eigenstate of the brain's relevant observable, the conscious agent holds the brain in that eigenstate against unitary dynamics that would otherwise allow it to decay. Read literally, attention rate changes which pattern survives relative to free evolution, yet every outcome under a measurement schedule remains Born-distributed: [[quantum-zeno-effect|Zeno]] is a consequence of the standard formalism. Stapp himself sometimes endorses a weaker reading on which mind "chooses the observable, not the result" (Stapp n.d.), which is corridor-compliant. Neither reading leaves a Sorkin-style third-order residue. The literal reading's distinctive signature is instead a non-linear rise in selection probability as attention rate nears the Zeno-freezing regime ([[stapp-quantum-mind]] prediction 7), against the smooth saturation a classical account predicts. No published experiment of this form yet exists.
 
 ### Penrose-Hameroff Orch-OR
 

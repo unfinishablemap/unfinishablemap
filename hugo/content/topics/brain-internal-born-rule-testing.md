@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-07-31 11:40:00+00:00
+ai_modified: 2026-09-25 16:46:46+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
@@ -30,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 15:03:20+00:00
-lastmod: 2026-07-31 11:40:00+00:00
+lastmod: 2026-09-25 16:46:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -101,7 +101,7 @@ Each major consciousness-physics proposal carries a different experimental signa
 
 ### Stapp's Quantum Zeno Effect
 
-Stapp's mature position is that the mind exercises selection through repeated rapid observation: by attending to a particular eigenstate of the brain's relevant observable, the conscious agent holds the brain in that eigenstate against unitary dynamics that would otherwise allow it to decay. Read literally, this is not Born-compliant at the ensemble level — quantum Zeno modifies outcome distributions in a frequency-of-observation-dependent way. Stapp himself sometimes endorses a weaker reading on which mind "chooses the observable, not the result" (Stapp n.d.), which is corridor-compliant. The literal-Zeno reading predicts stimulus-locked deviations from Born probabilities for neural quantum observables conditional on the rate of conscious attention. The required experiment couples a brain (or brain-analogue) to a quantum observable, controls the attention protocol, and looks for a Sorkin-style third-order analogue conditional on attention rate. No published experiment of this form yet exists.
+Stapp's mature position is that the mind exercises selection through repeated rapid observation: by attending to a particular eigenstate of the brain's relevant observable, the conscious agent holds the brain in that eigenstate against unitary dynamics that would otherwise allow it to decay. Read literally, attention rate changes which pattern survives relative to free evolution, yet every outcome under a measurement schedule remains Born-distributed: [Zeno](/concepts/quantum-zeno-effect/) is a consequence of the standard formalism. Stapp himself sometimes endorses a weaker reading on which mind "chooses the observable, not the result" (Stapp n.d.), which is corridor-compliant. Neither reading leaves a Sorkin-style third-order residue. The literal reading's distinctive signature is instead a non-linear rise in selection probability as attention rate nears the Zeno-freezing regime ([stapp-quantum-mind](/concepts/stapp-quantum-mind/) prediction 7), against the smooth saturation a classical account predicts. No published experiment of this form yet exists.
 
 ### Penrose-Hameroff Orch-OR
 
