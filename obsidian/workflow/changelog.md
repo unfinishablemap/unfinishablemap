@@ -5,6 +5,14 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-25T09:46:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-holism-and-phenomenal-unity]]
+- **Original score**: n/a (targeted fix; outer review 2026-09-25, ChatGPT+Claude convergent on the lead; items 3-5 Claude-only)
+- **Changes**: Carried the body's "analogical and locational" concession into the lead: "genuine ontological holism where the whole is prior to the parts" became "a non-separable joint state, which the Map reads holistically on collapse-realist grounds". "Would address the structure-matching problem that defeats all classical approaches" became "relocates rather than solves" it, citing the Leibniz bar on quantum structures as well. The description was recast the same way. Replaced the "Classical Mechanisms Remain Necessary" subsection ("provides the ontological unity"; "Both are necessary") with one sentence: classical mechanisms do BP1, and entanglement marks where BP2's unity is located without supplying it. Replaced the dual-aspect "same event ... physically described / phenomenologically described" with interactionist wording: unity belongs to the subject, "two relata and an interface, not one event under two descriptions". Added the dualism dilemma at the end of "The Remaining Gap"; the Map takes the first horn, so entanglement is at most the interface correlate of a unity the subject already has. Relation to Site Perspective: the Dualism paragraph says "structural analogue and a candidate locus", replacing "right structural substrate". The MQI sentence that affirmed the consequent was replaced with "one candidate among several" plus a pre-decoherence sub-reading declaration ("live fallback ranked behind post-decoherence selection", tenets L71 wording). The Bidirectional paragraph is hedged to "would have", inheriting the P-Q3 debt rather than discharging it. The Occam paragraph was rewritten symmetrically (the Leibniz argument cuts both ways, so simplicity cannot decide), which also removes the banned "is not X; it is Y" construction. Kept 45f0e580's "correlate" wording. The "mixture of possible outcomes" sentence was not touched (separate P1). Engagement classification: the physicalist/classical-integration reply is Mode Three (framework-commitment premise, already so marked by 45f0e580); the dilemma is a self-directed Mode One consistency repair.
+- **Length**: 3,990 before, 3,997 after (analyze_length; hard 4,000). Nothing deferred.
+- **Published**: yes
+
 ## 2026-09-25T09:31:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/entanglement-binding-hypothesis]] (+ [[topics/quantum-holism-and-phenomenal-unity]], 2-file task)
