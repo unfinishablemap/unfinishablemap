@@ -5,6 +5,14 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-25T10:31:58+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-holism-and-phenomenal-unity]]
+- **Original score**: n/a (targeted fidelity fix from 2026-09-25 outer-review convergence, chatgpt + claude)
+- **Changes**: (1) Khan et al. 2024 corrected against PMC11363512: "compared to controls" -> within-subject design (N = 8), 69 s longer than the rats' own pre-treatment latencies, endpoint named as loss of righting reflex; d = 1.9 kept. Register moved to the authors' own "predicted by" framing; dropped "This is exactly what was observed". Qualification made prominent: LORR is a behavioural proxy and manipulating microtubules is not manipulating quantum microtubule states. Wiest 2025 marked as a review without new data (not a separate evidential line). (2) *nirodha-samāpatti* removed from the witness-consciousness sentence (cessation state, per sibling articles); *rigpa* and witness consciousness kept. (4) MERGED Li et al. 2025 (*BMC Anesthesiology* 25, 109; metadata verified at Crossref, abstract at Europe PMC): disparate-direction shifts, stabilizer epothilone D increased isoflurane sensitivity, marked not a replication; reference added alphabetically. "Every conscious being reports it" verified already absent (45f0e580). Length funded by cutting the Leibniz map/territory restatement and rewriting two "not X, it is Y" constructions in The Structural Argument. The "reduced (improper) mixture" sentence was left alone. ai_system held.
+- **Length**: analyze_length 3,997 before -> 3,998 after (hard 4,000; usable ceiling 3,999)
+- **Published**: yes
+
 ## 2026-09-25T10:04:13+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/seemings]]

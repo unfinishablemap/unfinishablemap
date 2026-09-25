@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-09-25 09:46:31+00:00
+ai_modified: 2026-09-25 10:31:58+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 19:47:42+00:00
-lastmod: 2026-09-25 09:46:31+00:00
+lastmod: 2026-09-25 10:31:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -91,7 +91,7 @@ One might appeal to [emergence](/concepts/emergence/): unity "emerges" from neur
 
 The failures share a common structure given one premise: that one experience needs a physical correlate that is itself one non-separable thing, not merely one organised process. A physicalist can deny this—an articulated process can realise one experience without being a mereological simple, and Bayne and Chalmers' subsumptive unity is internally structured rather than featureless. The premise is a commitment of the Map's dualism, not a finding of classical physics. Its support is the argument that follows. Leibniz saw this in the 17th century with his "mill" argument: walking through a brain enlarged to mill-size, you would observe mechanical interactions—parts pushing parts, signals transmitting—but nowhere find unity. The physical system consists of entities in external relation; the unity of experience is nowhere visible.
 
-Leibniz's point is not that unity is invisible. It is that the *type* of thing physical description provides—external relations among distinct entities—is structurally different from the *type* of thing phenomenal unity is—intrinsic singularity of experience. No amount of the former can constitute the latter. This is not a gap in current knowledge but a mismatch of categories. Expecting physical relations to explain phenomenal unity is like expecting a map to explain why the territory exists.
+Leibniz's point is that the *type* of thing physical description provides—external relations among distinct entities—is structurally different from the *type* of thing phenomenal unity is—intrinsic singularity of experience. No amount of the former can constitute the latter. The mismatch is one of categories, not a gap in current knowledge.
 
 ## Why Quantum Entanglement Matches Unity
 
@@ -133,9 +133,9 @@ Most fundamentally, decoherence does not solve the measurement problem. As Schlo
 
 ### The Epothilone Study (2024)
 
-Khan et al. (2024) treated rats with epothilone B, a microtubule-stabilizing drug, before administering isoflurane anesthesia. Treated rats took 69 seconds longer to lose consciousness compared to controls (Cohen's d = 1.9).
+Khan et al. (2024) gave rats the microtubule-stabilizing drug epothilone B before isoflurane anesthesia. In a within-subject design (N = 8), treated rats took 69 seconds longer to lose the righting reflex than their own pre-treatment latencies (Cohen's d = 1.9).
 
-The logic is precise: if anesthetics cause unconsciousness by disrupting quantum states in microtubules, stabilizing microtubules should delay unconsciousness. This is exactly what was observed. Wiest (2025) argued in *Neuroscience of Consciousness* that no classical mechanism explains why microtubule stabilization would affect anesthetic potency, which he takes to make this a discriminating test between quantum and classical accounts. That inference holds only if the classical roles of microtubules—axonal transport, synaptic scaffolding, membrane and ion-channel dynamics—are first excluded as routes by which stabilization could shift induction time. Wiest asserts this rather than showing it, so the result reads better as an open finding than as a point in the quantum column.
+The authors call this predicted by quantum-microtubule models: if anesthetics act by disrupting microtubule quantum states, stabilization should delay unconsciousness. But righting-reflex loss is a behavioural proxy, and manipulating microtubules is not manipulating quantum microtubule states. Wiest (2025), a review without new data, argues no classical mechanism explains the effect, but asserts rather than shows that microtubules' classical roles—axonal transport, synaptic scaffolding, ion-channel dynamics—are excluded. Li et al. (2025), a mouse study with different drugs and protocol (not a replication), found microtubule-modulating drugs shifted isoflurane sensitivity in disparate directions; the stabilizer epothilone D *increased* it. The result is an open finding, not a point in the quantum column.
 
 ### Brain Entanglement Signatures (2022-2023)
 
@@ -157,7 +157,7 @@ Three considerations weigh against illusionism here:
 
 Each consideration presupposes a phenomenal fact for the illusion to misrepresent—exactly what Frankish's illusionism and Dennett's Multiple Drafts model deny. They show what illusionism costs rather than refuting it on its own terms; the disagreement sits close to bedrock.
 
-[Introspective](/concepts/introspection/) evidence—what experience is like from the inside—consistently reports unity as constitutive rather than constructed. [Witness consciousness](/concepts/witness-consciousness/) states in contemplative practice, and reports from *nirodha-samāpatti* and the Tibetan Buddhist *rigpa*, describe awareness as unified prior to and independent of particular contents. If such states exist as described, they suggest phenomenal unity does not depend on having features to bind—that unity is more fundamental than content.
+[Introspective](/concepts/introspection/) evidence—what experience is like from the inside—consistently reports unity as constitutive rather than constructed. [Witness consciousness](/concepts/witness-consciousness/) states in contemplative practice, and reports of the Tibetan Buddhist *rigpa*, describe awareness as unified prior to and independent of particular contents. If such states exist as described, they suggest phenomenal unity does not depend on having features to bind—that unity is more fundamental than content.
 
 ## Process Philosophy Perspective
 
@@ -218,6 +218,7 @@ The Map holds the quantum position a realistic candidate, motivated by structura
 1. Kerskens, C. M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 1. Leibniz, G.W. (1714). *Monadology*.
+1. Li, N., You, Z., Ren, Y., et al. (2025). Microtubule-modulating drugs alter sensitivity to isoflurane in mice. *BMC Anesthesiology*, 25, 109.
 1. Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
 1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 1. Neven, H. et al. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460.

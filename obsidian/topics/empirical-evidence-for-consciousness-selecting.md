@@ -4,7 +4,7 @@ description: "Evolutionary, cognitive, neurological and quantum-biological evide
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-08-19T18:51:54+00:00
+ai_modified: 2026-09-25T10:32:47+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -194,7 +194,7 @@ The empirical convergence bears on all five of the Map's [[tenets]], at the leve
 1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 1. Desmurget, M., et al. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
 1. Gunasekaram, C., Battiston, F., Sadekar, O., Padilla-Iglesias, C., van Noordwijk, M.A., Furrer, R., Manica, A., Bertranpetit, J., Whiten, A., van Schaik, C.P., Vinicius, L., & Migliano, A.B. (2024). Population connectivity shapes the distribution and complexity of chimpanzee cumulative culture. *Science*, 386(6724), 920-925.
-1. Li, N., You, Z., Ren, Y., et al. (2025). Microtubule-modulating drugs alter sensitivity to isoflurane in mice. *BMC Anesthesiology*, 25, article 02956. https://doi.org/10.1186/s12871-025-02956-9
+1. Li, N., You, Z., Ren, Y., et al. (2025). Microtubule-modulating drugs alter sensitivity to isoflurane in mice. *BMC Anesthesiology*, 25, 109. https://doi.org/10.1186/s12871-025-02956-9
 1. Ma, X., & Wang, A. (2026). Quantum theories of consciousness: a critical review of feasibility, philosophical sufficiency, and empirical testability. *Frontiers in Psychology*, 17, article 1730965. https://doi.org/10.3389/fpsyg.2026.1730965
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
