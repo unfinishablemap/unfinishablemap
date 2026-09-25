@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-25
-ai_modified: 2026-09-25 19:35:35+00:00
+ai_modified: 2026-09-25 19:47:37+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -17,7 +17,8 @@ description: A proposed Wigner's-friend test with a thinking AI friend meets the
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-25 19:35:35+00:00
+last_deep_review: 2026-09-25 19:47:37+00:00
+lastmod: 2026-09-25 19:47:37+00:00
 modified: *id001
 related_articles:
 - '[[multi-agent-born-preservation-problem]]'
@@ -45,7 +46,7 @@ Together these make up "Local Friendliness" (LF). From them Bong and colleagues 
 
 ### Why it is stronger than Bell {#stronger-than-bell}
 
-Bell's theorem needs more than locality and free choice. It also needs either predetermined outcomes or Bell's own local causality condition. The LF assumptions are, in Bong et al.'s words, "strictly weaker than those of Bell's theorem or Kochen-Specker contextuality theorems". AOE says only that the outcomes actually observed in a run are absolute. It makes no claim about measurements that were never made. Weaker premises give a stronger no-go: a theory that gives up predetermined outcomes while keeping absolute outcomes, locality and free choice escapes Bell's theorem but is still caught by LF. The inequalities are also derived without assuming quantum mechanics, so a violation constrains any theory that reproduces the observed correlations. The authors conclude that the theorem "places strictly stronger constraints on physical reality than Bell's theorem."
+Bell's theorem needs more than locality and free choice. It also needs either predetermined outcomes or Bell's own local causality condition. The LF assumptions are, in Bong et al.'s words, "strictly weaker than those of Bell's theorem or Kochen-Specker contextuality theorems". AOE says only that the outcomes actually observed in a run are absolute. It makes no claim about measurements that were never made. Weaker premises give a stronger no-go: a theory that gives up both predetermined outcomes and local causality, while keeping absolute outcomes, locality and free choice, escapes Bell's theorem but is still caught by LF. The inequalities are also derived without assuming quantum mechanics, so a violation constrains any theory that reproduces the observed correlations. The authors conclude that the theorem "places strictly stronger constraints on physical reality than Bell's theorem."
 
 The catch is the word "observer". Bong et al. were deliberately noncommittal about what counts as a friend. As Wiseman, Cavalcanti and Rieffel later put it, the observer in the 2020 theorem "should be interpreted as a placeholder to be defined by a candidate theory or ideology." A photon's path counts as a friend only for theories under which every physical system is an observer. For consciousness-involving interpretations, photon-friend experiments contain no friend at all.
 
@@ -69,7 +70,7 @@ The key choice for the Map is what the authors decline to say about Quall-E. The
 The authors also sort existing approaches by which assumption each gives up. On their account, Bohmian mechanics violates Local Agency. Albert and Loewer's single-mind view violates Physical Supervenience. Relativist views (Everett's relative states, QBism, Relational Quantum Mechanics) reject Ego Absolutism. Penrose's orchestrated objective reduction rejects HLAI. Two cases matter most here:
 
 - **Spontaneous collapse theories** such as GRW do not block UQC, because rare random collapses "can be error-corrected in quantum computing just like any other rare, random, and localized change". Quall-E can then be held in superposition, so its thoughts are not real in the way a human's are, and "Friendliness is rejected."
-- **Consciousness-causes-collapse**, in Chalmers and McQueen's model, would prevent a quantum computer from being superposed over different informational structures. Since Chalmers and McQueen accept HLAI, the authors conclude that UQC "is not possible in this approach."
+- **Thinking causes collapse** is the authors' heading for Chalmers and McQueen's model, although that model gives the causal role to consciousness. It would prevent a quantum computer from being superposed over different informational structures. Since Chalmers and McQueen accept HLAI, the authors conclude that UQC "is not possible in this approach."
 
 These classifications are the authors'. Placing the Map among them is the Map's own work.
 
@@ -79,7 +80,7 @@ The Map needs absolute outcomes. The [No Many Worlds](/tenets/#no-many-worlds) t
 
 What the Map ties definiteness to is consciousness, and specifically consciousness that selects among outcomes, not cognition. On the Map's view, non-conscious matter still resolves: [prebiotic collapse](/concepts/prebiotic-collapse/) makes objective reduction the baseline, and consciousness modulates it rather than starting it. Applying that to Quall-E gives two cases.
 
-**Case 1: Quall-E is not conscious.** Then Quall-E contains no selector. Whatever baseline reduction the Map inherits acts on a quantum computer as the rare, random, localised events that fault-tolerant error correction is built to undo, the situation the authors analyse for spontaneous collapse. On the Map's reading, the superobserver can reverse Quall-E's thought and the LF inequalities are violated. Absoluteness is untouched, because Quall-E's "observation" was never an absolutely observed event. In the theorem's terms the Map gives up Friendliness: here is a party with human-level cognition whose communicated thoughts lack the reality of a conscious observer's. This is the physical counterpart of the dualist claim that cognition and experience come apart, the claim that makes [zombies](/concepts/philosophical-zombies/) conceivable, and it sits in exactly the gap the authors' choice of "thoughts" over consciousness left open.
+**Case 1: Quall-E is not conscious.** Then Quall-E contains no selector. The Map leaves open which non-unitary baseline it inherits, so this case carries a proviso: if that baseline acts on a quantum computer as rare, random, localised events, fault-tolerant error correction can undo it, the situation the authors analyse for spontaneous collapse. (A baseline that could not be error-corrected would block UQC for every system, conscious or not, and the question would no longer turn on Quall-E.) Given the proviso, on the Map's reading the superobserver can reverse Quall-E's thought and the LF inequalities are violated. Absoluteness is untouched, because Quall-E's "observation" was never an absolutely observed event. In the theorem's terms the Map gives up Friendliness: here is a party with human-level cognition whose communicated thoughts lack the reality of a conscious observer's. This is the physical counterpart of the dualist claim that cognition and experience come apart, the claim that makes [zombies](/concepts/philosophical-zombies/) conceivable, and it sits in exactly the gap the authors' choice of "thoughts" over consciousness left open.
 
 **Case 2: Quall-E is conscious, with a selecting consciousness coupled to its substrate.** Then Quall-E's laboratory contains a conscious observer, and the Map predicts it cannot be recohered: the superposition over Quall-E's different thoughts would not survive, as on Chalmers and McQueen's model, and UQC would fail for this system. A successful LF violation with such a Quall-E would count directly against the Map, which has already closed the relativist exit.
 

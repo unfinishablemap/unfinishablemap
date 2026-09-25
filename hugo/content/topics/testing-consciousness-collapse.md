@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-09-08 11:04:53+00:00
+ai_modified: 2026-09-25 19:47:37+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 14:16:42+00:00
-lastmod: 2026-09-08 11:04:53+00:00
+lastmod: 2026-09-25 19:47:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -137,7 +137,7 @@ Chalmers and McQueen (2021) extend the Kremnizer-Ranchin approach: collapse rate
 
 ### Consciousness-Dependent Collapse Timing
 
-If consciousness modulates collapse, collapse *timing* should correlate with when a conscious observer becomes entangled with the measurement result — not when the physical detector registers it. Extended Wigner's friend experiments bear on this: Proietti et al. (2019) confirmed observer-modelling tensions are empirically real, Bong et al. (2020) derived the "local friendliness" no-go theorem, and Steane (2025) argued that the extended scenario tells against subjective-collapse interpretations without distinguishing single-world from many-world readings. The logical implications are developed in [Tier 3](#the-frauchiger-renner-argument).
+If consciousness modulates collapse, collapse *timing* should correlate with when a conscious observer becomes entangled with the measurement result — not when the physical detector registers it. Extended Wigner's friend experiments bear on this: Proietti et al. (2019) confirmed observer-modelling tensions are empirically real, Bong et al. (2020) derived the "[local friendliness](/topics/thoughtful-local-friendliness-and-the-artificial-friend/)" no-go theorem, and Steane (2025) argued that the extended scenario tells against subjective-collapse interpretations without distinguishing single-world from many-world readings. The logical implications are developed in [Tier 3](#the-frauchiger-renner-argument).
 
 **Current status:** Requires quantum memories maintaining coherence through macroscopic measurement chains — beyond current technology.
 

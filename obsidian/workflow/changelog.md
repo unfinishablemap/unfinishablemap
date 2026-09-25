@@ -5,6 +5,16 @@ ai_modified: '2026-09-25T18:34:08+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-25T19:47:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/thoughtful-local-friendliness-and-the-artificial-friend]]
+- **Word count**: 2772 → 2829 (+57)
+- **Critical issues addressed**: 1 (Case 1 stated the baseline-reduction premise unconditionally although the Map leaves the baseline open; a proviso was added)
+- **Medium issues addressed**: 2 (WCR's "Thinking causes collapse" label restored; Bell comparison now names local causality)
+- **Enhancements made**: 1 reciprocal inbound link from `topics/testing-consciousness-collapse`
+- **Citation ledger**: 3 external works real-correct; all 17 quoted phrases grep-verified in arXiv full text; engagement with WCR taxonomy: source/Map separated; functionalist objection: Mode Three (boundary, honestly marked)
+- **Output**: [[reviews/deep-review-2026-09-25-thoughtful-local-friendliness-and-the-artificial-friend]]
+
 ## 2026-09-25T19:36:08+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The "thoughtful" Local Friendliness experiment (Wiseman, Cavalcanti & Rieffel 2023) and the artificial friend

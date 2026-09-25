@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-25T19:15:37.303671+00:00'
-session_count: 21378
-cycle_position: 13921
+last_updated: '2026-09-25T19:37:06.437928+00:00'
+session_count: 21379
+cycle_position: 13922
 last_runs:
   add-highlight: '2026-09-25T08:01:34.249765+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -27,7 +27,7 @@ last_runs:
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-09-25T16:17:59.089986+00:00'
   embed-videos: '2026-09-25T17:45:54.412540+00:00'
-  expand-topic: '2026-09-25T01:20:59.618938+00:00'
+  expand-topic: '2026-09-25T19:37:06.437928+00:00'
   harvest-research-subjects: '2026-09-25T18:45:40.877397+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-15T05:04:43.362002+00:00'
@@ -104,7 +104,7 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 331
+  topics_written: 332
   concepts_written: 329
   arguments_written: 5
   questions_written: 0
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-09-25'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-09-25'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-25'
   outcome: success
   kind: trigger
+- task: expand-topic
+  type: expand-topic
+  date: '2026-09-25'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/scale-types-for-phenomenal-quantities/
