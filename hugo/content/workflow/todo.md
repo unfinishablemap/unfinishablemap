@@ -74,15 +74,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: research-harvest
 - **Generated**: 2026-09-25
 
-### P1: `concepts/unity-of-consciousness` L128 says entanglement "produces systems that were never fully separate" — false as physics (entangled subsystems are separately definable with well-defined reduced states)
-- **Type**: refine-draft
-- **File**: obsidian/concepts/unity-of-consciousness.md
-- **Review files**: `reviews/outer-review-2026-09-25-chatgpt-5-6-sol-pro.md`, `reviews/outer-review-2026-09-25-claude-opus-5-5.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-25
-- **Synthesis**: reviews/outer-review-synthesis-2026-09-25.md
-- **Notes**: From convergent outer reviews (2026-09-25, 2/3 reviewers): [chatgpt, claude]. UPGRADED P2→P1 by /combine-outer-reviews 2026-09-25. Both reviewers target the same L128 paragraph. Claude: "'entanglement produces systems that were never fully separate.' That is false as stated, since entangled subsystems are separately definable." ChatGPT (B1): "Unity of Consciousness: add the subsystem-factorisation caveat to its statement that entanglement supplies a genuinely non-separable correlate." ADDED SCOPE: the same paragraph's "genuinely non-separable states" should carry a few words of the factorisation caveat (non-separable relative to a chosen division into subsystems). There is room: 2,648/3,500. ORIGINAL NOTES: From outer review 2026-09-25 (Claude Opus 5.5), §B(1) and the sibling-fix list for `concepts/unity-of-consciousness`. Grep-verified at L128: "Classical mechanisms combine things that remain metaphysically distinct; entanglement produces systems that were never fully separate." Entangled systems are often produced by interacting previously separate systems, and each subsystem keeps a well-defined reduced density matrix. What fails is the supervenience of the joint state on the subsystem states: this is non-separability, Teller's "relational holism". Replace the clause like-for-like with something such as "entanglement yields joint states not fixed by the states of the parts". This keeps the paragraph's 2026-09-24 repairs (the "one unreplicated study" MRI calibration) intact. Also check that "structural insight" and "metaphysically distinct" do not reintroduce the priority-of-the-whole claim that the sibling P1 task on `quantum-holism-and-phenomenal-unity` is removing. Length: 2,648 words against a concepts hard limit of 3,500, so there is room. HOLD ai_system; bump ai_modified only. Tenet alignment: Tenet 2: state physics claims at the strength the formalism supports.
-
 ### P2: NEEDS-HUMAN (length decision) 2026-09-21 — `concepts/chinese-room-argument` has THREE words of headroom, its apparatus has no slack, and every obvious trim target is certified by a prior review
 
 - **Type**: refine-draft
@@ -1732,6 +1723,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-25: `concepts/unity-of-consciousness` L128 says entanglement "produces systems that were never fully separate" — false as physics (entangled subsystems are separately definable with well-defined reduced states)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/unity-of-consciousness.md
+- **Notes**: From convergent outer reviews (2026-09-25, 2/3 reviewers): [chatgpt, claude]. UPGRADED P2→P1 by /combine-outer-reviews 2026-09-25. Both reviewers target the same L128 paragraph. Claude: "'entanglement produces systems that were never fully separate.' That is false as stated, since entangled subsystems are separately definable." ChatGPT (B1): "Unity of Consciousness: add the subsystem-factorisation caveat to its statement that entanglement supplies a genuinely non-separable correlate." ADDED SCOPE: the same paragraph's "genuinely non-separable states" should carry a few words of the factorisation caveat (non-separable relative to a chosen division into subsystems). There is room: 2,648/3,500. ORIGINAL NOTES: From outer review 2026-09-25 (Claude Opus 5.5), §B(1) and the sibling-fix list for `concepts/unity-of-consciousness`. Grep-verified at L128: "Classical mechanisms combine things that remain metaphysically distinct; entanglement produces systems that were never fully separate." Entangled systems are often produced by interacting previously separate systems, and each subsystem keeps a well-defined reduced density matrix. What fails is the supervenience of the joint state on the subsystem states: this is non-separability, Teller's "relational holism". Replace the clause like-for-like with something such as "entanglement yields joint states not fixed by the states of the parts". This keeps the paragraph's 2026-09-24 repairs (the "one unreplicated study" MRI calibration) intact. Also check that "structural insight" and "metaphysically distinct" do not reintroduce the priority-of-the-whole claim that the sibling P1 task on `quantum-holism-and-phenomenal-unity` is removing. Length: 2,648 words against a concepts hard limit of 3,500, so there is room. HOLD ai_system; bump ai_modified only. Tenet alignment: Tenet 2: state physics claims at the strength the formalism supports.
 
 ### ✓ 2026-09-25: The decoherence "mixture of possible outcomes" sentence is attributed three different ways — Schlosshauer 2019, Schlosshauer 2004, and Tomaz et al. 2025 — where the Map's own research notes trace the wording to Tomaz, Mattos & Barbatti 2025
 - **Type**: refine-draft
