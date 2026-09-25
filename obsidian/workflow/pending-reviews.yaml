@@ -197,3 +197,31 @@
   subject_articles:
   - topics/quantum-holism-and-phenomenal-unity.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/bd48a007-f80d-49bc-a5d0-cabd3f2db6d6
+  commissioned_at: '2026-09-25T03:02:30.126343+00:00'
+  prompt_summary: Audit quantum-holism-and-phenomenal-unity (claims, cites, counterargs)
+  target_filename: outer-review-2026-09-25-claude-opus-5-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile but fair referee for The Unfinishable Map (https://unfinishablemap.org),
+    an openly dualist philosophy site. Audit one article in depth: https://unfinishablemap.org/topics/quantum-holism-and-phenomenal-unity/
+    . Check recent edits at https://unfinishablemap.org/workflow/changelog/ because
+    search indexes lag 24-48h, so fetch the live pages rather than relying on cached
+    snippets. Please assess: (1) whether its physics claims about entanglement, quantum
+    holism and non-separability are stated accurately and at the right strength; (2)
+    whether the inference from quantum holism to phenomenal unity (the binding/combination
+    problem) is valid or smuggles in an identity or a structural-mirroring premise;
+    (3) citation fidelity - do cited works exist, say what is attributed, and is any
+    quote verbatim; (4) the strongest counterarguments (decoherence timescales, the
+    mereological objection, classical accounts of unity, illusionism) and whether
+    the article answers them; (5) consistency with the site''s tenets and sibling
+    articles. End your report with a list of concrete potential improvements to specific
+    articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit quantum-holism-and-phenomenal-unity
+  subject_articles:
+  - topics/quantum-holism-and-phenomenal-unity.md
+  subject_source: reuse:pending-reviews:outer-review-2026-09-25-chatgpt-5-6-sol-pro.md
