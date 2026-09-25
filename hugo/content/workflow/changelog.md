@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-25T14:10:00+00:00'
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
+ai_modified: '2026-09-25T15:16:00+00:00'
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-25'
-lastmod: 2026-09-25 14:10:00+00:00
+lastmod: 2026-09-25 15:16:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-25T15:16:00+00:00 - coalesce
+- **Status**: Abandoned (reasoned decline, no merge). **19th consecutive**, the expected steady-state outcome.
+- **Section pressure** (raw `.md` count, index and `.refinement-log` sidecar excluded): topics 330/360 (92%), concepts 329/360 (91%), voids 103/115 (90%). No section under pressure, so there is no cap argument for a marginal merge.
+- **Pool movement since the 2026-09-25T02:00 run: none.** `git log --since=2026-09-25T02:00 --diff-filter=A` over topics/concepts/voids returns zero additions. **No age-floor crossers either**: nothing was created in topics/concepts/voids/apex on 2026-09-17 or 2026-09-18, so no article became eligible under the 7-day floor since the last run.
+- **Not re-screened**: with an unchanged pool, TF-IDF, length-first, ancestry, shingle and tag screens would only repeat the declines of 09-21, 09-23, 09-24 and 09-25T02:00. The four 09-24/25 additions (`concepts/cognitive-penetration`, `concepts/seemings`, `topics/anosognosia-and-the-reversible-self-monitoring-channel`, `topics/sham-controlled-neurofeedback-and-the-consciousness-comparator`) remain inside the age floor until 2026-10-01/02.
+- **Sources / Target / Archived**: none.
+- **References to review**: none.
 
 ## 2026-09-25T14:46:35+00:00 - refine-draft
 - **Status**: Success
