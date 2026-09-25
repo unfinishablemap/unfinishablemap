@@ -5,6 +5,13 @@ ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-25T21:31:28+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/supervenience]], [[concepts/where-the-substance-commitment-enters]]
+- **Original score**: n/a (targeted reciprocal-gap task from `reviews/optimistic-2026-09-19-commitment-scoping-wing.md` item 3)
+- **Changes**: Re-measured on disk first — `supervenience.md` had 0 "agent", substance page had 0 `[[supervenience` links; "Supervenience and the Exclusion Argument" heading present. (1) New `###` "Does an Agent-Caused Volition Have a Supervenience Base?" in `supervenience.md` (after the exclusion section, before Relation to Site Perspective): states the benign half (supervenience constrains covariation, not the causal history of the state) AND the residue — agent causation requires the pre-choice physical state not fix the volition, so individual-level supervenience on the prior state fails for volitions; supervenience on the concurrent state turns on the unsettled simultaneity of willing and selection; the lead's covariance claim holds for volitions as covariance, not physical determination. Scoped the agent-causal reading to the agency cluster, not the Bidirectional Interaction tenet (consistent with today's consciousness-as-activity fix). Added `agent-causation`, `where-the-substance-commitment-enters` to `concepts:`. (2) Zero-word reciprocal in the substance page: "supervene" → `[[supervenience|supervene]]`. `analyze_length` body words: supervenience 2067 → 2340 (hard 3,500); substance page 1847 → 1847. Both trees synced.
+- **Published**: yes
+
 ## 2026-09-25T21:02:53+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/thoughtful-local-friendliness-and-the-artificial-friend]]

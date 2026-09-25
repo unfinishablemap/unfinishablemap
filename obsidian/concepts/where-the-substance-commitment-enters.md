@@ -4,7 +4,7 @@ description: "The Map's substance-leaning enters via agent causation and indexic
 created: 2026-05-27
 modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-09-20T03:41:00+00:00
+ai_modified: 2026-09-25T21:31:28+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -19,7 +19,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-05-27
 last_curated: null
 last_deep_review: 2026-09-20T03:41:00+00:00
@@ -39,7 +39,7 @@ So when an article on the [[binding-problem|binding problem]], the [[knowledge-a
 
 The lean enters one layer down, at the agent-causal commitment. [[agent-causation|Agent causation]]—the position the Map adopts for [[free-will|free will]]—holds that the agent, *as a persisting substance*, directly causes actions. In Roderick Chisholm's terms this is *immanent* causation (the agent causes the event) as opposed to *transeunt* causation (events cause events). E.J. Lowe reaches the same requirement by a more radical route, and declines Chisholm's contrast on the way: rather than grant event causation in the inanimate domain and treat agent causation as a *sui generis* phenomenon restricted to rational beings, he holds that all causation is causation by substances, with rational free agents occupying a special place in that order as "unmoved movers, or initiators of new causal chains" (*Personal Agency*, 12). Either way a volition has no *event*-cause but does have an *agent*-cause, and what does the causing is a substance.
 
-That structure needs a subject who persists across the causing and exercises the power. A property-only reading—on which mental properties supervene on a physical substrate without any substance bearing them—struggles to supply it. If there is no thing that does the causing, only properties co-occurring with neural events, then "the agent originated the action" loses its referent; what is left looks like event causation under another name. This is why agent causation, specifically, recruits a substance-bearing reading. The requirement is the agent-causal claim's, not the tenet's.
+That structure needs a subject who persists across the causing and exercises the power. A property-only reading—on which mental properties [[supervenience|supervene]] on a physical substrate without any substance bearing them—struggles to supply it. If there is no thing that does the causing, only properties co-occurring with neural events, then "the agent originated the action" loses its referent; what is left looks like event causation under another name. This is why agent causation, specifically, recruits a substance-bearing reading. The requirement is the agent-causal claim's, not the tenet's.
 
 Two clarifications keep this honest. First, the relevant subject is *substance-leaning*, not necessarily full Cartesian substance: naturalistic substance dualism (Lowe, Zimmerman) and substance-bearing forms of property dualism both supply a persisting bearer of causal powers without Descartes' separation of mind from nature. Second, agent causation is not the only place a persisting subject does work: the indexical-identity argument against [[concepts/many-worlds|many-worlds]] leans on one too, by a different route, and [the section below](#second-home) takes it up. Agency remains the clearest home, because it is the only one that asks the subject to exercise a power rather than merely to be determinate.
 

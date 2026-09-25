@@ -4,7 +4,7 @@ description: "Supervenience defines when higher-level properties depend on lower
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-09-20T10:58:45+00:00
+ai_modified: 2026-09-25T21:31:28+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,8 @@ concepts:
   - "[[qualia]]"
   - "[[philosophical-zombies]]"
   - "[[anomalous-monism-and-the-denial-of-strict-psychophysical-laws]]"
+  - "[[agent-causation]]"
+  - "[[where-the-substance-commitment-enters]]"
 related_articles:
   - "[[tenets]]"
   - "[[the-strong-emergence-of-consciousness]]"
@@ -30,7 +32,7 @@ related_articles:
   - "[[pain-consciousness-and-causal-power]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-03-24
 last_curated:
 last_deep_review: 2026-09-20T10:58:45+00:00
@@ -97,6 +99,14 @@ This is precisely the Map's position. The correlation between brain states and e
 Jaegwon Kim's exclusion argument uses supervenience to argue *against* non-reductive physicalism and, by extension, against dualist mental causation. The argument runs: if mental properties supervene on physical properties, then for any mental cause M of a physical effect P, there exists a physical supervenience base M* that is sufficient for P. The mental cause is either identical to M* (reduction) or excluded by it ([[concepts/epiphenomenalism|epiphenomenalism]]). The mental is stripped of genuine [[causal-powers]] — it becomes causally redundant.
 
 Kim himself concluded that non-reductive physicalism is unstable — it collapses into either reductionism or epiphenomenalism. The Map agrees with Kim's diagnosis of non-reductive physicalism but draws a different conclusion: the problem lies not with mental causation but with the assumption of [[causal-closure|causal closure]]. At quantum indeterminacies, physics does not provide sufficient physical causes. Consciousness can select among physically underdetermined outcomes without competing with physical causes — because at those junctures, there is no sufficient physical cause to compete with. [[mental-causation-and-downward-causation|Mental causation]] operates in the gaps that physics itself acknowledges. This is the move that distinguishes the Map's [[interactionist-dualism|interactionist dualism]] from the non-reductive physicalism Kim targets: rather than accepting causal closure and losing the mental to the exclusion argument, the Map locates a genuine causal opening where closure does not hold.
+
+### Does an Agent-Caused Volition Have a Supervenience Base?
+
+The agency cluster raises a question the exclusion argument does not. On the [[agent-causation|agent-causal]] reading the Map adopts for free will—a commitment of that cluster, scoped in [[where-the-substance-commitment-enters]], rather than of the Bidirectional Interaction tenet itself—a volition has no event-cause but does have an agent-cause. Does such a volition still supervene on the brain?
+
+Part of the answer is benign. Supervenience constrains covariation: it says which experiences are possible given a physical state and nothing about what brought that state about. A volition whose physical expression the agent selected can covary with the resulting brain state as tightly as any sensation does, and nothing in the agent-causal claim requires a mental difference without a physical one.
+
+A residue remains, and it narrows the lead's claim. Agent causation requires that the physical state *before* the choice not fix which volition occurs: two agents physically identical up to the moment of choosing must be able to will differently, or the choice was not up to them. For volitions, then, individual-level supervenience on the prior physical state fails, and the covariance that survives runs the other way—the mental difference comes first and the physical difference follows from it. Whether the volition counts as supervening on its *concurrent* brain state turns on whether willing and the outcome it selects are simultaneous or successive, which the Map has not settled. What the Map can say is that "no change in experience without some change in the brain" holds for volitions as covariance, not as determination by the physical: the brain constrains which volitions are available, not which one occurs.
 
 ## Relation to Site Perspective
 
