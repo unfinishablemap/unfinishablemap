@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-25
-ai_modified: 2026-09-25 10:20:00+00:00
+ai_modified: 2026-09-25 10:04:13+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts: []
@@ -10,7 +10,7 @@ date: &id001 2026-09-25
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-25 10:20:00+00:00
+lastmod: 2026-09-25 10:04:13+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Seemings

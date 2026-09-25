@@ -4,7 +4,7 @@ description: "What is a seeming, and must one be phenomenal to justify? Four ana
 created: 2026-09-25
 modified: 2026-09-25
 human_modified:
-ai_modified: 2026-09-25T10:20:00+00:00
+ai_modified: 2026-09-25T10:04:13+00:00
 draft: false
 topics:
   - "[[phenomenal-authority-and-first-person-evidence]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-5-5
 ai_generated_date: 2026-09-25
 last_curated:
-last_deep_review: 2026-09-25T10:20:00+00:00
+last_deep_review: 2026-09-25T10:04:13+00:00
 ---
 
 A **seeming** is the state reported by "it seems to me that P": the way things appear to a subject, prior to and separable from whether the subject believes that things are that way. Nearly every live camp in epistemology accepts that much; the belief view, [below](#four-analyses), is the exception. The dispute is over what kind of state a seeming is, and in particular whether a seeming that *justifies* belief must itself be phenomenally conscious. Michael Huemer's [[phenomenal-conservatism|phenomenal conservatism]] (PC) makes seemings the basic source of justification (Huemer 2007); Keith Frankish's [[functional-seeming|functional seeming]] makes the seeming of consciousness a functional state with no phenomenal character. Each of those pages hands the question to the other. This page takes it up directly.
