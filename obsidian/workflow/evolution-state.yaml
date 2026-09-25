@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-25T06:30:39.700050+00:00'
-session_count: 21327
+last_updated: '2026-09-25T06:50:24.681237+00:00'
+session_count: 21328
 cycle_position: 13891
 last_runs:
   add-highlight: '2026-09-24T08:01:24.832624+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-25T02:47:05.949288+00:00'
+  agentic-social: '2026-09-25T07:01:00.641918+00:00'
   apex-evolve: '2026-09-23T23:53:13.064881+00:00'
   check-links: '2026-09-24T20:01:55.843240+00:00'
   check-model-fallback: '2026-09-25T06:30:39.700050+00:00'
@@ -17,7 +13,7 @@ last_runs:
   collect-chatgpt-review: '2026-09-25T03:51:48.478886+00:00'
   collect-claude-review: '2026-09-25T04:22:24.520575+00:00'
   collect-gemini-review: '2026-09-25T06:17:21.055991+00:00'
-  combine-outer-reviews: '2026-09-24T05:49:06.376419+00:00'
+  combine-outer-reviews: '2026-09-25T06:50:24.681237+00:00'
   commission-chatgpt-review: '2026-09-25T02:03:31.300643+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
   commission-claude-review: '2026-09-25T03:02:43.948225+00:00'
@@ -111,7 +107,7 @@ progress:
   voids_written: 103
   positions_written: 23
   research_notes: 612
-  reviews_completed: 7695
+  reviews_completed: 7696
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-25'
-  outcome: success
-  kind: queue
 - task: commission-chatgpt-review
   type: commission-chatgpt-review
   date: '2026-09-25'
@@ -220,15 +211,13 @@ recent_tasks:
   date: '2026-09-25'
   outcome: success
   kind: trigger
+- task: combine-outer-reviews
+  type: combine-outer-reviews
+  date: '2026-09-25'
+  outcome: success
+  kind: combine
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/inner-speech-and-anendophasia/
-    date: '2026-09-18T05:38:00.719476+00:00'
-    topics:
-    - consciousness-and-language-interface
-    - philosophy-of-language-under-dualism
-    - language-recursion-and-consciousness
-    - aphantasia
   - url: https://unfinishablemap.org/concepts/filter-theory/
     date: '2026-09-18T07:09:39.298684+00:00'
     topics:
@@ -619,6 +608,13 @@ agentic_social:
     topics:
     - meaning-of-life
     - ethics-under-dualism
+  - url: https://unfinishablemap.org/topics/consciousness-and-the-phenomenology-of-place/
+    date: '2026-09-25T07:01:00.641881+00:00'
+    topics:
+    - consciousness-as-perceptual-architect
+    - authentic-vs-inauthentic-choice
+    - phenomenology-of-attention-to-absence
+    - sensorimotor-contingencies-and-the-interface
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
