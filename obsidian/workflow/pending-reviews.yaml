@@ -174,9 +174,9 @@
   commissioned_at: '2026-09-25T02:03:15.206095+00:00'
   prompt_summary: Audit quantum-holism-and-phenomenal-unity (claims, cites, counterargs)
   target_filename: outer-review-2026-09-25-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-25T03:47:08.759927+00:00'
   failure_reason: null
   prompt_text: 'Act as a rigorous external referee for The Unfinishable Map (https://unfinishablemap.org),
     a philosophy site that openly commits to interactionist dualism with minimal quantum-level

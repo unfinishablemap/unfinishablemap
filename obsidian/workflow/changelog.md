@@ -5,6 +5,16 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-25T03:50:52+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (collected via collect-chatgpt-review; Blob download SHA-256-matched)
+- **File**: [[reviews/outer-review-2026-09-25-chatgpt-5-6-sol-pro]]
+- **Subject**: topics/quantum-holism-and-phenomenal-unity (fallback:recent-aged)
+- **Claims verified**: 9 (7 verified, 1 partly disputed, 2 unverified)
+- **High-value findings**: 6. These are three source misrepresentations (Warren gives a classical iMQC account; "equivalent to death" is Wiest's wording, not Hagan's; the Denton QZE operation is spin-selective recombination with a ~700 ns coherence requirement), two internal contradictions with the 2026-09-24 unity-of-consciousness repairs and the zero-lag verdict, and a factorisation/subject-pairing gap. The pass also found a sibling mis-sourced verbatim quote the reviewer missed, at `concepts/entanglement-binding-hypothesis.md:76`.
+- **Tasks generated**: 5 (P1: 2, P2: 3), plus 1 addendum to the open NEEDS-HUMAN propagation entry
+- **Note**: the target is 7 words below its hard length limit (3,992/4,000). All tasks carry a length gate.
+
 ## 2026-09-25T03:31:54+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/conversion-disorder-as-consciousness-side-fault]] + 6 siblings (seven-file integration task; all done)
