@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-25T15:16:00+00:00'
+ai_modified: '2026-09-25T18:18:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-25T18:18:00+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Blindspot Void — truths about oneself that are open to every other perspective but closed to oneself (Moore's paradox, Sorensen's blindspots, Fitch–Church unknowables, and the phenomenal case "I am not now conscious")
+- **Category**: Unexplorable
+- **Output**: [[research/voids-blindspot-void-2026-09-25]]
+- **Key finding**: The boundary is proved rather than suspected and is positional; its phenomenal layer (Hintikka's existential inconsistency, Kim 2024/2026 on AI consciousness denial) makes negative consciousness self-reports evidentially vacuous from any system, including AI. Blindspots were previously only named in voids/mutation-void (as a contrast class) and Fitch cited once in voids/meta-epistemology-of-limits. Voids 103/115. Queued to pending_articles.
 
 ## 2026-09-25T17:31:40+00:00 - refine-draft
 - **Status**: Success

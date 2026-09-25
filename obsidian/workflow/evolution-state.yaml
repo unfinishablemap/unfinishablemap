@@ -2,15 +2,15 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-25T17:45:54.412540+00:00'
-session_count: 21372
+last_updated: '2026-09-25T18:01:59.329898+00:00'
+session_count: 21373
 cycle_position: 13920
 last_runs:
   add-highlight: '2026-09-25T08:01:34.249765+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
   agentic-social: '2026-09-25T17:17:21.904865+00:00'
   apex-evolve: '2026-09-23T23:53:13.064881+00:00'
-  check-links: '2026-09-24T20:01:55.843240+00:00'
+  check-links: '2026-09-25T18:01:59.329898+00:00'
   check-model-fallback: '2026-09-25T15:00:38.524100+00:00'
   check-tenets: '2026-09-25T09:26:36.825332+00:00'
   coalesce: '2026-09-25T15:16:41.103206+00:00'
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-25'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-09-25'
@@ -217,6 +212,11 @@ recent_tasks:
   kind: queue
 - task: embed-videos
   type: embed-videos
+  date: '2026-09-25'
+  outcome: success
+  kind: trigger
+- task: check-links
+  type: check-links
   date: '2026-09-25'
   outcome: success
   kind: trigger
@@ -696,6 +696,8 @@ task_chains:
   - research_file: obsidian/research/voids-mirth-void-2026-09-23.md
     target_section: voids
   - research_file: obsidian/research/voids-cross-state-void-2026-09-24.md
+    target_section: voids
+  - research_file: obsidian/research/voids-blindspot-void-2026-09-25.md
     target_section: voids
   pending_cross_reviews: []
 tune_system_history:
