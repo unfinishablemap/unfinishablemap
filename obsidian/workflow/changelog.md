@@ -5,6 +5,16 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-25T08:17:38+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-holism-and-phenomenal-unity]] (convergent outer reviews 2026-09-25, ChatGPT+Claude: unargued classical-failure premise, factorisation/subject pairing, IIT treatment)
+- **Original score**: n/a (targeted fix)
+- **Length**: 3,998 body words before (analyze_length), 3,995 after; ceiling 3,999 held.
+- **Changes**: (1) Lead and "The Structural Argument" recast the anti-classical premise as a conditional (one experience ⇒ one non-separable physical *correlate*), name the physicalist denial (articulated process; Bayne & Chalmers' internally structured subsumptive unity) and mark the premise as a commitment of the Map's dualism rather than a finding of physics; "correlate" wording kept locational to stay consistent with the Leibniz concession (sibling P1 not pre-empted). (2) New paragraph after the Neven sentence: entanglement is factorisation-relative (Zanardi, Lidar & Lloyd 2004, PRL 92, 060402 — verified via Crossref), decoherence is itself environmental entanglement, no boundary principle → drift toward cosmopsychism/combination problem; links [[subject-census]] (P-SC2 no-pairing-law concession grep-verified). (3) IIT paragraphs rewritten: axiom-to-postulate identity, exclusion postulate credited with answering the boundary problem entanglement leaves open; sleep-as-counterexample paragraph removed; L104 contrast now says quantum holism inherits the boundary problem IIT answers. (4) Illusionism: "Every conscious being reports it" removed; persistence paragraph compressed; added closing sentence marking the Frankish/Dennett dispute as near bedrock. (5) Funding cuts: Process Philosophy compressed; zero-lag opening de-duplicated; minor trims (BP1 aside, emergence, GWT, Schlosshauer, eNeuro date line, precondition reply).
+- **Engagement classification**: IIT — Mode Three at the identity claim (explanatory gap restated as postulate; framework disagreement) after withdrawing the stipulation/sleep strawman; illusionism (Frankish, Dennett) — Mode Three, the three considerations presuppose the realist view; physicalist denial of the non-separable-correlate premise — Mode Three, premise marked as framework commitment.
+- **Not touched**: "reduced (improper) mixture" sentence (separate P1); lead "ontological holism"/description, "Both are necessary", Relation to Site Perspective incl. Occam paragraph (sibling Leibniz-concession P1).
+- **Published**: yes
+
 ## 2026-09-25T07:46:54+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-holism-and-phenomenal-unity]] (convergent outer reviews 2026-09-25, ChatGPT+Claude: No-MWI non sequitur, fired zero-lag falsifier)
