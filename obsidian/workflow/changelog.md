@@ -5,6 +5,16 @@ ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-25T21:46:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenal-depth]]
+- **Word count**: 1382 → 1475 (+93)
+- **Critical issues addressed**: 3 — (1) today's L44 hedge said the medium is exposed by "no amount of attention", contradicting the linked transparency-opacity spectrum and the article's own L72 → "ordinary attention"; (2) the hedge's dependents L46/L72/L74 still asserted pre-existing layers flatly (L72 one sentence before calling it open) → marked as the Map's face-value reading, conditional, scoped; (3) all four References had zero inline cites → installed.
+- **Medium issues addressed**: 1 (Levine's epistemic/materialist stance separated from the Map's stronger gap reading)
+- **Enhancements made**: 3 (inline cites, Lutz FA/OM clause, cognitive-penetration Further Reading)
+- **Citations**: 4/4 real-correct at Crossref/publisher; engagement with deflationary critics: Mixed; functionalist/zombie: Mode Three.
+- **Output**: [[reviews/deep-review-2026-09-25-phenomenal-depth]]
+
 ## 2026-09-25T21:31:28+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/supervenience]], [[concepts/where-the-substance-commitment-enters]]

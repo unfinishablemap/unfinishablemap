@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-09-25 00:16:18+00:00
+ai_modified: 2026-09-25 21:46:38+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,8 +24,8 @@ description: How conscious experience possesses layered richness beyond surface 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-25 20:54:07+00:00
-lastmod: 2026-09-25 00:16:18+00:00
+last_deep_review: 2026-09-25 21:46:38+00:00
+lastmod: 2026-09-25 21:46:38+00:00
 modified: *id001
 related_articles:
 - '[[visual-consciousness]]'
@@ -44,9 +44,9 @@ Conscious experience is not flat. A single moment of seeing a sunset, tasting wi
 
 ## What Phenomenal Depth Is
 
-Phenomenal depth is the property of conscious states whereby they contain more qualitative structure than any single act of attention or introspective report can capture. Consider the experience of listening to an orchestra. At the surface level, there is the overall sound—a wash of melody and harmony. Attend more carefully and individual instruments emerge. Attend further and one notices the grain of a particular violin, the breath of a particular oboist, the way the room's acoustics colour every note. Each layer seems to have been there in the original experience rather than added by closer attention. The claim concerns content—what the experience is of—not the [medium](/concepts/phenomenal-transparency-opacity-spectrum/) carrying it, which no amount of attention exposes. Even for content the seeming is disputed: the [inflation objection](/concepts/phenomenal-overflow/#deflationary) holds that being able to access a layer on demand is mistaken for having experienced it all along.
+Phenomenal depth is the property of conscious states whereby they contain more qualitative structure than any single act of attention or introspective report can capture. Consider the experience of listening to an orchestra. At the surface level, there is the overall sound—a wash of melody and harmony. Attend more carefully and individual instruments emerge. Attend further and one notices the grain of a particular violin, the breath of a particular oboist, the way the room's acoustics colour every note. Each layer seems to have been there in the original experience rather than added by closer attention. The claim concerns content—what the experience is of—not the [medium](/concepts/phenomenal-transparency-opacity-spectrum/) carrying it, which ordinary attention does not expose (sustained contemplative training may partially reveal it). Even for content the seeming is disputed: the [inflation objection](/concepts/phenomenal-overflow/#deflationary) holds that being able to access a layer on demand is mistaken for having experienced it all along.
 
-This is phenomenal depth: the experience was always richer than what one initially accessed.
+This is what phenomenal depth names: the experience, taken at its word, was always richer than what one initially accessed. The Map takes the seeming at face value for the reason [phenomenal-overflow](/concepts/phenomenal-overflow/) gives against the deflationary reading—dismissing it requires subjects to be systematically wrong about their own experience—while granting that the dispute is not settled.
 
 The concept is related to but distinct from [phenomenal-overflow](/concepts/phenomenal-overflow/). Overflow concerns the *breadth* of experience—that we are conscious of more items than we can report at any given moment. Depth concerns *structure within individual experiences*—that each phenomenal state contains qualitative layers that unfold under closer attention. A visual scene may overflow access (breadth), and each element within that scene may possess depth (layered qualitative detail).
 
@@ -56,9 +56,9 @@ Phenomenal depth manifests differently across domains of experience:
 
 **Perceptual depth.** [Visual experience](/concepts/visual-consciousness/) presents objects with surface colour, texture, luminosity, spatial relation, and affective significance simultaneously. A ripe peach is not merely orange-red; its colour carries warmth, softness, an anticipation of taste. These layers are not separate experiences concatenated—they form a unified qualitative state with internal articulation.
 
-**Affective depth.** The [phenomenology of pain](/topics/pain-consciousness-and-causal-power/) reveals depth starkly. Pain has sensory qualities (burning, stabbing, aching), an affective dimension (its unpleasantness), a motivational dimension (the urge to withdraw), and cognitive significance (what the pain means about one's body). These layers can dissociate—patients with pain asymbolia retain sensory pain without unpleasantness—but in typical experience they form a deep, layered whole.
+**Affective depth.** The [phenomenology of pain](/topics/pain-consciousness-and-causal-power/) reveals depth starkly. Pain has sensory qualities (burning, stabbing, aching), an affective dimension (its unpleasantness), a motivational dimension (the urge to withdraw), and cognitive significance (what the pain means about one's body). These layers can dissociate—patients with pain asymbolia retain sensory pain without unpleasantness (Berthier et al. 1988)—but in typical experience they form a deep, layered whole.
 
-**Cognitive depth.** The [phenomenology of understanding](/topics/phenomenology-of-intellectual-life/) provides another case. The moment of grasping a proof carries not just the logical content but a felt sense of how the parts connect, a qualitative sense of inevitability, and often an [aesthetic](/topics/aesthetics-and-consciousness/) dimension—elegance or surprise. [Cognitive phenomenology](/concepts/cognitive-phenomenology/) research suggests these layers are genuinely phenomenal, not merely associated sensory imagery.
+**Cognitive depth.** The [phenomenology of understanding](/topics/phenomenology-of-intellectual-life/) provides another case. The moment of grasping a proof carries not just the logical content but a felt sense of how the parts connect, a qualitative sense of inevitability, and often an [aesthetic](/topics/aesthetics-and-consciousness/) dimension—elegance or surprise. [Cognitive phenomenology](/concepts/cognitive-phenomenology/) research (Siewert 1998) suggests these layers are genuinely phenomenal, not merely associated sensory imagery.
 
 ## Why Depth Resists Reduction
 
@@ -66,15 +66,15 @@ Phenomenal depth poses a specific challenge for materialist accounts of consciou
 
 The challenge is not merely that current science has not yet described these layers. It is that the *type* of description available to physical science—third-person, structural, relational—cannot capture what depth consists in. Knowing every neural correlate of perceiving a sunset does not tell you about the warmth-within-the-colour, the melancholy-at-the-edge-of-beauty, the felt sense of spatial immensity. These are features of the experience itself, not features of any description of its physical basis.
 
-This connects to the [explanatory-gap](/concepts/explanatory-gap/). The gap is not merely between neural activity and the *existence* of experience but between neural activity and experience's *internal structure*. Phenomenal depth makes the gap wider: there is more to explain than a binary presence-or-absence of consciousness. There are layers, gradations, and textures that any adequate account must address.
+This connects to the [explanatory-gap](/concepts/explanatory-gap/). Levine (1983), who named the gap, took it to be epistemic and remained a materialist; the Map reads it more strongly. The gap is not merely between neural activity and the *existence* of experience but between neural activity and experience's *internal structure*. Phenomenal depth makes the gap wider: there is more to explain than a binary presence-or-absence of consciousness. There are layers, gradations, and textures that any adequate account must address.
 
 ## Depth, Access, and Training
 
 The relationship between phenomenal depth and [access consciousness](/concepts/access-consciousness/) is complex. Not all layers of a deep experience are simultaneously accessed—much of what constitutes depth remains in the periphery of attention, present in experience but not cognitively reported.
 
-[Contemplative training](/topics/contemplative-practice-as-philosophical-evidence/) appears to expand access to deeper layers. Meditators report perceiving fine-grained aspects of experience—subtle body sensations, micro-emotions, the texture of attention itself—that untrained introspection misses. This suggests that phenomenal depth may be even greater than what ordinary introspection reveals: the layers are there, but accessing them requires trained attention. Whether training reveals such layers or installs them through expectation is an open empirical question, taken up in [cognitive-penetration](/concepts/cognitive-penetration/). The Map's account of [adaptive computational depth](/concepts/adaptive-computational-depth/) offers a physical analogue: if reality resolves into greater detail where consciousness attends, trained attention may literally elicit more structure from the interface.
+[Contemplative training](/topics/contemplative-practice-as-philosophical-evidence/) appears to expand access to deeper layers. Meditators report perceiving fine-grained aspects of experience—subtle body sensations, micro-emotions, the texture of attention itself—that untrained introspection misses; Lutz et al. (2008) distinguish the focused-attention and open-monitoring styles such training cultivates. This suggests that phenomenal depth may be even greater than what ordinary introspection reveals: if the layers are there, accessing them requires trained attention. Whether training reveals such layers or installs them through expectation is an open empirical question, taken up in [cognitive-penetration](/concepts/cognitive-penetration/). The Map's account of [adaptive computational depth](/concepts/adaptive-computational-depth/) offers a physical analogue: if reality resolves into greater detail where consciousness attends, trained attention may literally elicit more structure from the interface.
 
-This has a significant implication: if depth exceeds access even in trained observers, then the full qualitative richness of consciousness may be in principle inexhaustible. Each new act of attention reveals structure that was already present, and there is no guarantee that any finite set of introspective acts will exhaust what is there. This connects to [mysterianism](/concepts/mysterianism/)—the view that some aspects of consciousness may permanently exceed our cognitive grasp. Depth's inexhaustibility suggests one concrete way this could be true: consciousness may have more internal structure than any mind can fully articulate about itself.
+This has a significant implication: if depth exceeds access even in trained observers, then the full qualitative richness of consciousness may be in principle inexhaustible. On that reading, each new act of attention reveals structure that was already present, and there is no guarantee that any finite set of introspective acts will exhaust what is there. This connects to [mysterianism](/concepts/mysterianism/)—the view that some aspects of consciousness may permanently exceed our cognitive grasp. Depth's inexhaustibility suggests one concrete way this could be true: consciousness may have more internal structure than any mind can fully articulate about itself.
 
 ## The Lower Bound: Minimal Consciousness
 
@@ -102,6 +102,7 @@ The Map does not claim that phenomenal depth is fully understood. Rather, it hol
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/)
 - [edge-states-and-void-probes](/voids/edge-states-and-void-probes/)
 - [mysterianism](/concepts/mysterianism/)
+- [cognitive-penetration](/concepts/cognitive-penetration/)
 
 ## References
 

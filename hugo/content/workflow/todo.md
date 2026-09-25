@@ -46,7 +46,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-09-25
 - **Notes**: Found by the 2026-09-25 supervenience refine (propagation of the consciousness-as-activity L85 fix, commit of 2026-09-25 ~12:46). Driver-verified: L61 "The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet is essentially agent-causal: consciousness genuinely selects outcomes." `tenets.md` L91 commits Tenet 3 only to outcome-selection; L57 says the agency cluster *deploys* a substance-leaning (agent-causal) sub-reading the tenet itself is neutral about. Corpus sweep (topics/concepts/apex/voids/positions, same phrasings) found this as the only remaining locus. Fix like the consciousness-as-activity repair: "The Map's agency cluster reads the Bidirectional Interaction tenet agent-causally; the tenet itself commits only to outcome-selection" (link `[[where-the-substance-commitment-enters]]`). This is the agent-causation article itself, so the agent-causal reading is the page's subject — keep it, only fix the attribution to the tenet. Check the rest of the file for the same claim. Length-neutral. `ai_modified` from live `date -u`; sync.
 
-
 ### P2: NEEDS-HUMAN (length decision) 2026-09-21 — `concepts/chinese-room-argument` has THREE words of headroom, its apparatus has no slack, and every obvious trim target is certified by a prior review
 
 - **Type**: refine-draft
@@ -1420,18 +1419,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **CLOSED BY THE DRIVER 2026-09-19 09:0x UTC.** The over-concession task on `topics/metaproblem-of-consciousness-under-dualism` discharged this in the same paragraph, as designed — all three findings shared one section and were written once. **Measured after the edit: `Saad` 0 → 4 occurrences in that article** (word-boundary), against 16 deployments of `realizationism`, with the full metadata landed from Chalmers 2020's own reference list (*JCS* 26(9–10):205–216) and a piped `[[delegatory-dualism|delegatory dualism]]` reciprocal into the existing Saad cluster. Verified 4:4 in **both** obsidian and hugo. ⚠️ **The attribution guard held**: Chalmers keeps the coinage ("whose term it is"); Saad supplies the interactionist version only. **THE SECOND HALF IS DELIBERATELY NOT DONE, and should not be re-minted.** This task said "both meta-problem articles", but `concepts/meta-problem-of-consciousness` deploys `realizationism` exactly **once** (offset 8974), where it defines the term inline and immediately hands off via `[[metaproblem-of-consciousness-under-dualism|interactionist development]]` to the article that now carries the provenance. A single defining mention behind an explicit hand-off does not need its own attribution, and that file is at **3481/3499 words — 18 words of headroom — with an open `condense` task against it**. Adding a citation there would trip the hard gate.
 
-### P3: `concepts/supervenience` ↔ `concepts/where-the-substance-commitment-enters` — install the missing reciprocal and state the agent-causal supervenience base
-- **Type**: refine-draft
-- **File**: obsidian/concepts/supervenience.md
-- **Also touches**: obsidian/concepts/where-the-substance-commitment-enters.md
-- **Review file**: `reviews/optimistic-2026-09-19-commitment-scoping-wing.md`
-- **Source**: optimistic-review
-- **Generated**: 2026-09-19
-- **Notes**: **Measured gap (on disk 2026-09-19):** `obsidian/concepts/supervenience.md` contains **0 occurrences of "agent"**. `obsidian/concepts/where-the-substance-commitment-enters.md` contains **1** occurrence of "supervene" and **0** wikilinks to `[[supervenience]]`. These two articles are one question apart and neither asks it.
-  **The question**: the supervenience page's lead commits the Map to "no change in experience without some change in the brain"; the substance page's agent-causal reading has a volition with "no *event*-cause but does have an *agent*-cause". Does an agent-caused volition have a supervenience base? The likely answer is benign — supervenience constrains *which experiences are possible given* a physical state and says nothing about what caused that state to obtain — but "likely benign and never stated" is exactly what this commitment-scoping wing exists to eliminate.
-  **Two edits, sized**: (1) ~250 words as a `###` subsection in `obsidian/concepts/supervenience.md` under "Supervenience and the Exclusion Argument", linking `[[agent-causation]]` and `[[where-the-substance-commitment-enters]]`; (2) **zero word cost** in the substance article — convert the existing "supervene" in *"A property-only reading—on which mental properties supervene on a physical substrate without any substance bearing them—struggles to supply it."* into a piped wikilink `[[supervenience|supervene]]`.
-  **Do both files or neither** — a one-sided fix leaves the reciprocal missing, which is the defect being repaired. Sync both trees; `hugo/content/concepts/` must not be left stale.
-
 ### P3: Six more files paraphrase Schaffer's soldiers case as "troops advance" — unquoted, so not a quotation defect, but still not his case
 
 - **Type**: refine-draft
@@ -1641,6 +1628,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-25: `concepts/supervenience` ↔ `concepts/where-the-substance-commitment-enters` — install the missing reciprocal and state the agent-causal supervenience base
+- **Type**: refine-draft
+- **File**: obsidian/concepts/supervenience.md
+- **Notes**: **Measured gap (on disk 2026-09-19):** `obsidian/concepts/supervenience.md` contains **0 occurrences of "agent"**. `obsidian/concepts/where-the-substance-commitment-enters.md` contains **1** occurrence of "supervene" and **0** wikilinks to `[[supervenience]]`. These two articles are one question apart and neither asks it.
+  **The question**: the supervenience page's lead commits the Map to "no change in experience without some change in the brain"; the substance page's agent-causal reading has a volition with "no *event*-cause but does have an *agent*-cause". Does an agent-caused volition have a supervenience base? The likely answer is benign — supervenience constrains *which experiences are possible given* a physical state and says nothing about what caused that state to obtain — but "likely benign and never stated" is exactly what this commitment-scoping wing exists to eliminate.
+  **Two edits, sized**: (1) ~250 words as a `###` subsection in `obsidian/concepts/supervenience.md` under "Supervenience and the Exclusion Argument", linking `[[agent-causation]]` and `[[where-the-substance-commitment-enters]]`; (2) **zero word cost** in the substance article — convert the existing "supervene" in *"A property-only reading—on which mental properties supervene on a physical substrate without any substance bearing them—struggles to supply it."* into a piped wikilink `[[supervenience|supervene]]`.
+  **Do both files or neither** — a one-sided fix leaves the reciprocal missing, which is the defect being repaired. Sync both trees; `hugo/content/concepts/` must not be left stale.
 
 ### ✓ 2026-09-25: `topics/thoughtful-local-friendliness-and-the-artificial-friend` Case 2 needs consciousness to INITIATE logical-level collapse, but its own L77 (via `concepts/prebiotic-collapse`) says consciousness only modulates; the L105 refutation condition is near-contradictory by [P-AS1](/positions/ai-substrate-verdicts/#p-as1)'s criteria
 - **Type**: refine-draft
