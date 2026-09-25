@@ -5,6 +5,15 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-25T02:00:00+00:00 - coalesce
+- **Status**: Abandoned (reasoned decline, no merge). **18th consecutive**, the steady-state outcome per the candidate-pool memory.
+- **Section pressure** (live `tools.evolution.state.count_section_files`): topics 331/360 (includes the `non-temporal-consciousness.refinement-log` sidecar), concepts 329/360, voids 103/115. None critical.
+- **Pool movement since the 2026-09-24T17:01 run: four additions, zero removals** (`git log --since=2026-09-24T16:55 --diff-filter=AD` over topics/concepts/voids/apex): `concepts/cognitive-penetration` (created 09-24), `concepts/seemings`, `topics/anosognosia-and-the-reversible-self-monitoring-channel`, `topics/sham-controlled-neurofeedback-and-the-consciousness-comparator` (all created 09-25). All four are under a day old, so the age floor excludes them. None has a same-subject live sibling except `concepts/seemings`.
+- **Closest pair screened: `concepts/seemings` (2423w raw) with `concepts/functional-seeming` (1748w) and `concepts/phenomenal-conservatism` (3323w). DECLINE.** `seemings` was built as the page that adjudicates between the other two. Its own L32 says: "Each of those pages hands the question to the other. This page takes it up directly." That makes it a hub over two base pages, one on Huemer's epistemology and one on Frankish's analysis, so merging would erase the split the new page was written to handle. Either merged pair exceeds the concepts ceiling on raw count (about 4170w and about 5750w).
+- **No other pool movement.** Re-running the earlier screens (TF-IDF, length-first, shared ancestry, title-family, cross-section) would only re-argue pairs declined on 09-21, 09-23 and 09-24.
+- **Sources / Target / Archived**: none.
+- **References to review**: none.
+
 ## 2026-09-25 01:46 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-neurodegenerative-disease]]
