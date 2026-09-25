@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-25T20:16:55+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/)
+- **Original score**: n/a (targeted fix of reviews/pessimistic-2026-09-17 Issue 4; all loci confirmed live before editing)
+- **Word count**: 2856 → 3210 (soft_warning; hard 4000)
+- **Changes**: (a) New paragraph ending §The Probability Intuition Failure that separates subpersonal Bayesian competence from personal-level failures. It cites Ernst & Banks 2002 (a maximum-likelihood, variance-minimising visual-haptic integrator) and Körding & Wolpert 2004 (priors and sensory uncertainty combined in a way consistent with Bayesian optimality); both claims were checked against the PubMed abstracts (PMID 11807554, 14724638). It also places the heuristics in Kahneman's System 1 and the corrections in System 2. §Paradox as Clue now locates the paradox in how uncertainty reaches the subject, replacing "structurally entangled"; "not native to consciousness" became "to conscious reasoning". (b) "training barely helps" now agrees with the Gigerenzer and education concessions: training helps the calculation but leaves the intuition in place. (c) The "30% vs 70%/no qualia" claim is now qualified: felt confidence, surprise and risk count as translations, following the void article's §Probability. (d) The Dualism tenet paragraph is softened to "the Map reads…". It concedes that correctability can't carry the contrast, rests the reading on where the failure sits, and notes the functionalist alternative. Style fixes: "not X but Y" in the lead, L57, L67 and L73; L105's "not a difficulty"; the unsupported "across cultures" dropped. Two references added. Binz & Schulz 2023 was OMITTED because the paper wasn't read, per the task instruction.
+- **Published**: yes
+
 ## 2026-09-25T19:47:37+00:00 - deep-review
 - **Status**: Success
 - **File**: [thoughtful-local-friendliness-and-the-artificial-friend](/topics/thoughtful-local-friendliness-and-the-artificial-friend/)
