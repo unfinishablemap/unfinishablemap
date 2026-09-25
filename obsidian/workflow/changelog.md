@@ -5,6 +5,13 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-25T12:45:50+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-as-activity]]
+- **Original score**: n/a (targeted tenet-scope fix; `scripts/curate.py` absent)
+- **Changes**: Tenet-check 139 priority 1 (reviews/tenet-check-2026-09-25.md §Summary 4). L85 "Agent-dependence" paragraph said "the agent-causal selection the Bidirectional Interaction tenet requires"; `tenets.md` commits Tenet 3 only to outcome-selection and places the substance-leaning agent-causal reading in the agency cluster. Rewritten to "the agent-causal reading of selection that the Map's agency cluster adopts (the Bidirectional Interaction tenet itself commits only to outcome-selection)", with a piped wikilink to [[where-the-substance-commitment-enters]] as the canonical diagnostic. Claim-level sweep of the file (description, lead, L53 whirlpool, L87 causal engagement, L100 selective engagement, L130 Relation to Site Perspective): no other statement that the tenet requires agent causation; L130 "the agent selects" is outcome-selection language and stays. Length-neutral (+~15 words; 2,996/4,000).
+- **Published**: yes
+
 ## 2026-09-25T12:30:46+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/disconnection-neuroscience]]

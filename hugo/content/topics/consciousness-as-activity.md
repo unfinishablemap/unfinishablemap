@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-09-24 22:47:07+00:00
+ai_modified: 2026-09-25 12:45:50+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-21 00:00:00+00:00
-lastmod: 2026-09-24 22:47:07+00:00
+lastmod: 2026-09-25 12:45:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -85,7 +85,7 @@ Calling consciousness an activity carries specific ontological commitments beyon
 
 **Temporal constitution.** An activity exists only in its unfolding. Running doesn't exist at an instant—freeze the runner and you have a pose, not a run. Similarly, consciousness exists only as [temporal flow](/concepts/temporal-consciousness/). A single time-slice of a brain state, no matter how detailed, cannot contain consciousness any more than a single frame of film contains a chase scene. The [temporal integration](/topics/temporal-consciousness-structure-and-agency/) that constitutes experience requires ongoing activity. Selection at a quantum-indeterminate juncture is an event *within* this thick activity, as a footfall is a moment inside the dance.
 
-**Agent-dependence.** The Map reads conscious activity as performed by a subject: dancing requires a dancer, thinking a thinker. Two of the roots above decline this. James wrote that "the passing Thought then seems to be the Thinker"; he allowed that a non-phenomenal Thinker might stand behind it but held that the facts do not seem to need one. Whitehead's subject is the superject of its own occasion and perishes with it. Both let the activity constitute its subject. The Map posits a performing subject for two reasons: the [agent-causal selection](/concepts/agent-causation/) the Bidirectional Interaction tenet requires needs a selector that persists across its selections, and the [unity of consciousness](/concepts/unity-of-consciousness/) across moments reads more naturally as one subject acting than as a series of self-constituting occasions. So read, the activity framing resists eliminativist moves that treat the self as illusion.
+**Agent-dependence.** The Map reads conscious activity as performed by a subject: dancing requires a dancer, thinking a thinker. Two of the roots above decline this. James wrote that "the passing Thought then seems to be the Thinker"; he allowed that a non-phenomenal Thinker might stand behind it but held that the facts do not seem to need one. Whitehead's subject is the superject of its own occasion and perishes with it. Both let the activity constitute its subject. The Map posits a performing subject for two reasons: the [agent-causal](/concepts/agent-causation/) reading of selection that the Map's agency cluster [adopts](/concepts/where-the-substance-commitment-enters/) (the Bidirectional Interaction tenet itself commits only to outcome-selection) needs a selector that persists across its selections, and the [unity of consciousness](/concepts/unity-of-consciousness/) across moments reads more naturally as one subject acting than as a series of self-constituting occasions. So read, the activity framing resists eliminativist moves that treat the self as illusion.
 
 **Causal engagement.** Properties can be causally inert ([epiphenomenal](/concepts/epiphenomenalism/))—a surface can be red without redness doing anything. Activities are not naturally read as inert: performing something and doing nothing sit badly together. If consciousness is something the organism does, it is plausibly already causally engaged. The activity framing removes one obstacle to [mental causation](/concepts/mental-causation-and-downward-causation/): an activity is not epiphenomenal in the easy way a property can be, though an epiphenomenalist could still call experiencing a causally idle process. But this is defeater-removal, not a positive account—the exclusion problem (why mental causes do not merely duplicate sufficient physical ones) does not vanish so much as relocate to the interface, where it is answered by the selection mechanism described under [Bidirectional Interaction](#relation-to-site-perspective) below.
 
