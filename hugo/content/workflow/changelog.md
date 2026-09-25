@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-25T01:32:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [anosognosia-and-the-reversible-self-monitoring-channel](/topics/anosognosia-and-the-reversible-self-monitoring-channel/)
+- **Word count**: 2878 → 2925 (+47)
+- **Critical issues addressed**: 2 (rule-out vs count-against calibration slippage in lead and §What Reversal Constrains; unmeasured "no tissue change" claim and permanence-vs-natural-recovery confound)
+- **Medium issues addressed**: 2 (Cappa 1987 wording aligned to abstract; Striemer & Danckert framing clarified)
+- **Enhancements made**: 0
+- **Citations**: 10/10 real-correct at Crossref + PubMed; all quotes verbatim; internal corpus quotes verified
+- **Engagements**: Fotopoulou (intra-cerebral account): Mode Three, honest framework-boundary concession; Davies et al. two-factor: Mode Three, presented as unrefuted rival
+- **Output**: [deep-review-2026-09-25-anosognosia-and-the-reversible-self-monitoring-channel](/reviews/deep-review-2026-09-25-anosognosia-and-the-reversible-self-monitoring-channel/)
+
 ## 2026-09-25T01:20:16+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Sham-controlled neurofeedback and the consciousness comparator
