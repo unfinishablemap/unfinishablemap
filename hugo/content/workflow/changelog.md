@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-25T18:18:00+00:00'
+ai_modified: '2026-09-25T18:34:08+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-25'
-lastmod: 2026-09-25 18:18:00+00:00
+lastmod: 2026-09-25 18:34:08+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-25T18:34:08+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/)
+- **Changed sources**: 8
+- **Word count**: ~4045 → 3978 (prose, excl. source list/references)
+- **Changes**: Absorbed five substantive source recalibrations the apex still over-stated: CMD regraded interface-compatible/non-discriminating (was "does discriminate ... from epiphenomenalism"; Bodien denominator corrected to 60/241 mixed categories); tracking argument set to "pressure, not refutation" throughout (Synthesis said it "falsifies" epiphenomenalism); Westbrook 2020 recast as decision-to-exert, not felt sense; Rajan 2019 as relative, not all-or-none; opacity "fits without favouring" (AST predicts the same blankness, [P-V2](/positions/voids-as-evidence/#p-v2)); cross-cultural one-instrument caveat. Description/apex_thesis "cannot accommodate" → "only as brute regularity". Two media-neutral violations removed. Flagged: mental-effort L88 vs L146 Westbrook self-contradiction.
+- **Review**: [apex-evolve-2026-09-25-phenomenology-of-consciousness-doing-work](/reviews/apex-evolve-2026-09-25-phenomenology-of-consciousness-doing-work/)
 
 ## 2026-09-25T18:18:00+00:00 - research-voids
 - **Status**: Success

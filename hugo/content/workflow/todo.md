@@ -38,6 +38,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+### P3: `concepts/mental-effort` L88 says Westbrook 2020 shows "the felt sense shifting as a consequence" while its own L146 says the study "addresses the decision to exert effort rather than how effort feels"
+- **Type**: refine-draft
+- **File**: obsidian/concepts/mental-effort.md
+- **Review file**: reviews/apex-evolve-2026-09-25-phenomenology-of-consciousness-doing-work.md
+- **Source**: apex-evolve
+- **Generated**: 2026-09-25
+- **Notes**: Flagged by apex-evolve 2026-09-25 (phenomenology-of-consciousness-doing-work pass, which already downgraded the apex's own Westbrook claim to match L146). Driver-verified: L88 "Westbrook and colleagues (2020) confirm one prediction: methylphenidate-induced dopamine elevation shifts willingness to engage demanding tasks, with the felt sense shifting as a consequence — and the introspector noticing the result without noticing the manipulation." vs L146 "…though the study addresses the decision to exert effort rather than how effort feels." Westbrook et al. 2020 (*Science* 367:1362) measured choice (willingness to do cognitive work), not felt effort. Recast L88 to the willingness finding only; drop or explicitly mark as the Map's extrapolation the felt-sense and introspection clauses. Length-neutral or negative. Check the rest of the file for other statements that Westbrook measured phenomenology (fix the claim, not the sentence). `ai_modified` from live `date -u`; sync.
+
 
 ### P2: NEEDS-HUMAN (length decision) 2026-09-21 — `concepts/chinese-room-argument` has THREE words of headroom, its apparatus has no slack, and every obvious trim target is certified by a prior review
 
