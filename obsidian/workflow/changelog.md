@@ -5,6 +5,14 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-25T07:46:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-holism-and-phenomenal-unity]] (convergent outer reviews 2026-09-25, ChatGPT+Claude: No-MWI non sequitur, fired zero-lag falsifier)
+- **Original score**: n/a (targeted internal-consistency fix)
+- **Length**: 3,998 body words before (analyze_length), 3,998 after; ceiling 3,999 held.
+- **Changes**: (1) No Many Worlds paragraph rewritten to match `concepts/unity-of-consciousness` L146: synchronic unity is well defined within an Everettian branch, so rejecting MWI adds nothing to unity; the tenet secures only indexical identity (which unified experience is mine), and collapse matters for the selection locus, not unity. Haecceity link kept. (2) Falsifiers: #2 (zero-lag) removed as a live test and recorded after the list as already fired (Vicente et al. 2008); #1 recast from "complete classical determinism" to an effective-classical-sufficiency criterion (classical models with ordinary thermal noise predicting outcomes at the selection grain); #5 (unified AI consciousness) cut as non-operational. (3) Zero-lag paragraph: unsourced "10 centimetres / 5-10 ms" replaced with Roelfsema et al. 1997 (borrowed from the zero-lag concept article; added to References); added Claude's singleton no-signalling clause (entanglement cannot signal either, so Baum's quantum horn fails too). Paragraph already concluded synchrony is classically explicable, so it no longer counts as positive motivation. (4) Kerskens-López Pérez: "indicating spin entanglement" -> "which they read as spin entanglement"; the "one unreplicated study" downgrade was already landed by 6826636e. (5) Funding cuts: closing falsifier sentence tightened; two Further Reading glosses shortened (incl. dropping "and why it fails" on illusionism). L134 mixture sentence untouched.
+- **Published**: yes
+
 ## 2026-09-25T07:36:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-holism-and-phenomenal-unity]] + [[concepts/entanglement-binding-hypothesis]] (2-file citation-fidelity task, outer reviews 2026-09-25 ChatGPT+Claude)

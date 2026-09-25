@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-09-25 07:32:00+00:00
+ai_modified: 2026-09-25 07:46:54+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 19:47:42+00:00
-lastmod: 2026-09-25 07:32:00+00:00
+lastmod: 2026-09-25 07:46:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -69,7 +69,7 @@ This explains computational binding—how the brain correctly groups features. B
 
 #### Zero-Lag Gamma Synchrony
 
-[Zero-lag gamma synchrony](/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/)—precisely synchronised oscillations across distant cortical regions without measurable time lag—is observed during conscious perception. Cortical regions 10 centimetres apart show zero-lag synchrony, yet direct neural transmission at this distance takes at least 5-10 milliseconds. Baum's Quantum Binding Argument (a 2024 PhilArchive preprint) reads this as decisive: real zero-lag synchrony across distances forbidding classical signalling would either violate relativity or invoke quantum non-locality. The sub-millisecond precision the argument assumes is Baum's own figure, tighter than the experimental record supports. And the argument's central premise—that classical mechanisms cannot achieve zero-lag—is contested by the peer-reviewed classical literature: dynamical relaying through a shared relay hub (Vicente et al. 2008) reproduces zero-lag synchrony across long conduction delays with no quantum resource. The temporal synchrony, then, is classically explicable. What resists classical explanation is a separate and weaker claim—phenomenal unity: why bound features are lived as *one* experience rather than merely coordinated in time. Any appeal to non-classical physics belongs there.
+[Zero-lag gamma synchrony](/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/)—precisely synchronised oscillations across distant cortical regions without measurable time lag—is observed during conscious perception. Distant cortical areas synchronise without measurable time lag (Roelfsema et al. 1997) despite conduction delays of many milliseconds. Baum's Quantum Binding Argument (a 2024 PhilArchive preprint) reads this as decisive: zero-lag synchrony across such distances would either violate relativity or invoke quantum non-locality—though entanglement cannot signal either, so the quantum horn fails too. The sub-millisecond precision the argument assumes is Baum's own figure, tighter than the experimental record supports. And the argument's central premise—that classical mechanisms cannot achieve zero-lag—is contested by the peer-reviewed classical literature: dynamical relaying through a shared relay hub (Vicente et al. 2008) reproduces zero-lag synchrony across long conduction delays with no quantum resource. The temporal synchrony, then, is classically explicable. What resists classical explanation is a separate and weaker claim—phenomenal unity: why bound features are lived as *one* experience rather than merely coordinated in time. Any appeal to non-classical physics belongs there.
 
 ### Information Integration
 
@@ -147,7 +147,7 @@ The logic is precise: if anesthetics cause unconsciousness by disrupting quantum
 
 ### Brain Entanglement Signatures (2022-2023)
 
-Kerskens and López Pérez developed a novel quantum entanglement-detection MRI protocol and applied it to conscious human subjects. They observed an MRI signal pattern indicating spin entanglement that was present during waking awareness, faded in a small sleep subsample (two of seven participants reported falling asleep), and correlated with short-term memory performance.
+Kerskens and López Pérez developed a novel quantum entanglement-detection MRI protocol and applied it to conscious human subjects. They observed an MRI signal pattern, which they read as spin entanglement, present during waking awareness, faded in a small sleep subsample (two of seven participants reported falling asleep), and correlated with short-term memory performance.
 
 Warren (2023) offered a classical account: intermolecular multiple-quantum coherences, familiar from NMR, are "essentially classical in nature" and can generate such signals. He also noted that gradient strength and other sequence parameters went unreported, hampering reproduction. No independent replication with a validated entanglement witness exists, so this remains one unreplicated study, not an established finding.
 
@@ -175,13 +175,13 @@ This framework offers a suggestive alignment with quantum collapse—an illustra
 
 The quantum binding hypothesis makes testable commitments:
 
-1. **Neural determinism**: If future neuroscience finds complete classical determinism in neural processing—no quantum indeterminacy involved—the hypothesis fails.
-2. **Classical explanation of zero-lag synchrony**: If zero-lag gamma synchrony can arise classically without violating relativistic constraints, one motivation for quantum explanations weakens.
-3. **Failure to replicate Kerskens-López Pérez**: Sustained failure to confirm the MRI entanglement findings would weaken the empirical case.
-4. **Anesthetic mechanisms fully classical**: If anesthetic action on microtubules can be explained entirely through classical biochemistry, the epothilone study loses force.
-5. **Unified AI consciousness without quantum effects**: If classical computers demonstrate genuine phenomenal unity, the quantum-unity link is broken.
+1. **Effective classical sufficiency**: If classical models with ordinary thermal noise predict neural outcomes at the grain where selection would act, leaving no amplified quantum indeterminacy, the hypothesis loses its locus.
+2. **Failure to replicate Kerskens-López Pérez**: Sustained failure to confirm the MRI entanglement findings would weaken the empirical case.
+3. **Anesthetic mechanisms fully classical**: If anesthetic action on microtubules can be explained entirely through classical biochemistry, the epothilone study loses force.
 
-The Map holds that the quantum position remains a realistic candidate—motivated by structural fit and biological precedent rather than settled by current evidence—while acknowledging the debate remains open.
+One former falsifier has already fired: zero-lag synchrony is classically generable (Vicente et al. 2008, above), so it is a lost motivation, not a live test.
+
+The Map holds the quantum position a realistic candidate, motivated by structural fit and biological precedent rather than settled by current evidence.
 
 ## Relation to Site Perspective
 
@@ -191,7 +191,7 @@ The Map holds that the quantum position remains a realistic candidate—motivate
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Phenomenal unity is a precondition for agency—the subject who selects among possibilities must be one subject having one unified experience of the options. Quantum binding provides a mechanism: by selecting which binding configurations become actual (collapsing entangled superpositions toward particular outcomes), consciousness has downward causal efficacy without injecting energy or violating conservation laws.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Quantum binding only explains phenomenal unity if collapse is real. In many-worlds, all possible bindings occur in branching universes. The phenomenal fact that *this* experience is unified—that I am having *this* binding rather than another—requires real collapse and genuine selection. [Indexical identity](/concepts/haecceity/) matters: many-worlds makes consciousness into all possible experiences happening "somewhere," losing the thisness that phenomenal unity implies.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Synchronic unity within a decoherent branch is well defined under Everett, so rejecting MWI adds nothing to unity itself. What the tenet secures is [indexical identity](/concepts/haecceity/): *which* unified experience is mine, rather than every possible binding occurring "somewhere." Collapse matters for the selection locus, not for unity.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Classical binding approaches appear simpler—no quantum effects in warm biological systems needed. But apparent simplicity fails if classical mechanisms cannot in principle produce what needs explaining. Invoking quantum mechanics is not unparsimonious complexity; it is matching the explanation to the explanandum.
 
@@ -199,13 +199,13 @@ The Map holds that the quantum position remains a realistic candidate—motivate
 
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Phenomenal unity, its varieties, and why it resists physical explanation
 - [binding-problem](/concepts/binding-problem/) — The neural challenge of feature binding (BP1 and BP2)
-- [the-binding-problem](/topics/the-binding-problem/) — Comprehensive taxonomy of five binding varieties, including cross-modal binding (temporal recalibration, inverse effectiveness) as the hardest case
+- [the-binding-problem](/topics/the-binding-problem/) — Taxonomy of five binding varieties, cross-modal binding the hardest
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gulf between physical and phenomenal
 - [emergence](/concepts/emergence/) — Weak vs strong emergence and consciousness
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why experience exists at all
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework within which unity finds its place
-- [illusionism](/concepts/illusionism/) — The deflationary challenge (and why it fails)
+- [illusionism](/concepts/illusionism/) — The deflationary challenge
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — How conscious selection operates at the phenomenal level
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How quantum binding might amplify cognitive capacities
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Orch OR and other quantum consciousness theories
@@ -230,6 +230,7 @@ The Map holds that the quantum position remains a realistic candidate—motivate
 1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 1. Neven, H. et al. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460.
 1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
+1. Roelfsema, P. R., Engel, A. K., König, P., & Singer, W. (1997). Visuomotor integration is associated with zero time-lag synchronization among cortical areas. *Nature*, 385(6612), 157-161.
 1. Revonsuo, A. (1999). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 8(2), 173-185.
 1. Schlosshauer, M. (2019). Quantum decoherence. *Physics Reports*, 831, 1-57.
 1. Singer, W. (1999). Neuronal Synchrony: A Versatile Code for the Definition of Relations? *Neuron*, 24(1), 49-65.
