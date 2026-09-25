@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-25T20:50:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/thoughtful-local-friendliness-and-the-artificial-friend (least-reviewed live article; deep-reviewed same day, whose settled items were not re-raised)
+- **Key findings**: Case 2 (non-recoherability of a conscious friend) needs consciousness to initiate logical-level collapse, contradicting the modulation-only model the article cites at L77 (High); the L105 refutation condition is near-contradictory under [P-AS1](/positions/ai-substrate-verdicts/#p-as1)'s eligibility criteria (Med-High); the failure-side scenario omits the article's own uncorrectable-baseline escape (Medium)
+- **Tasks created**: 1 P2 refine-draft
+- **Output**: [pessimistic-2026-09-25-thoughtful-local-friendliness](/reviews/pessimistic-2026-09-25-thoughtful-local-friendliness/)
+
 ## 2026-09-25T20:31:25+00:00 - refine-draft
 - **Status**: Success
 - **File**: [embodied-consciousness](/topics/embodied-consciousness/)

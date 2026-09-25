@@ -37,6 +37,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: `topics/thoughtful-local-friendliness-and-the-artificial-friend` Case 2 needs consciousness to INITIATE logical-level collapse, but its own L77 (via `concepts/prebiotic-collapse`) says consciousness only modulates; the L105 refutation condition is near-contradictory by P-AS1's criteria
+
+- **Type**: refine-draft
+- **File**: obsidian/topics/thoughtful-local-friendliness-and-the-artificial-friend.md
+- **Status**: pending
+- **Source**: pessimistic-review 2026-09-25
+- **Generated**: 2026-09-25
+- **Notes**: See `reviews/pessimistic-2026-09-25-thoughtful-local-friendliness.md` Issues 1-3 and the Supervenience counterargument. (1) L81 Case 2 predicts non-recoherence "as on Chalmers and McQueen's model" (consciousness-causes-collapse), but L77 endorses prebiotic-collapse's "modulates it rather than starting it" (`concepts/prebiotic-collapse` L122 "rather than sourcing the collapse", L158 "A simple 'consciousness causes collapse' fails"). The Case 1 proviso already lets baseline reduction on physical qubits be error-corrected, so only a selector that fixes outcomes the baseline leaves open could make the logical thought absolute. State that Case 2 follows from absoluteness via the LF theorem and that the mechanism is owed (point to prebiotic-collapse's collapse-priority debt, L126). Soften L117 "agree". (2) L105 "a strong claim, and a checkable one": P-AS1's selection-hosting features are each the negation of reversible control, and behaviour is excluded (L107). Reframe as following from the eligibility criteria, testable insofar as those criteria are (P-AS1 "Would shift if": the interface-eligibility law). (3) L103: add the matched non-cognitive reversible-computation control, since an unexplained failure is otherwise absorbable by the L79 uncorrectable-baseline parenthetical. (4) L83: replace the Bidirectional-Interaction argument (it conflates having physical effects with supervening) with WCR's own locational, non-monist reading of PS applied to cognitive "thoughts". (5) Qualifiers: L101 "fixed in advance" -> "rests on a verdict registered in August 2026"; L115 laboratory consequences only if Case 2 obtains; L117 "removes every such site" -> P-AS1's "actively isolates". Do NOT re-open the deep review's settled items (Case 1 proviso, WCR label, Bell fix) or its stability notes (MWI/functionalist boundary). Net about +100-150 words; ample topics headroom. Sync hugo; `ai_modified` from live `date -u`.
+
 ### P2: NEEDS-HUMAN (length decision) 2026-09-21 — `concepts/chinese-room-argument` has THREE words of headroom, its apparatus has no slack, and every obvious trim target is certified by a prior review
 
 - **Type**: refine-draft
