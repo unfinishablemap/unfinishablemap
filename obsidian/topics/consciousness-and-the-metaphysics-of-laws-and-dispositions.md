@@ -4,7 +4,7 @@ description: "What laws of nature are and what fundamental properties are determ
 created: 2026-02-16
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-09-16T12:39:28+00:00
+ai_modified: 2026-09-25T15:46:47+00:00
 draft: false
 last_deep_review: 2026-09-16T12:39:28+00:00
 topics:
@@ -35,7 +35,7 @@ related_articles:
   - "[[the-epiphenomenalist-threat]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5-5
 ai_generated_date: 2026-04-28
 last_curated:
 coalesced_from:
@@ -147,7 +147,7 @@ The combination supplies both halves. The governing view contributes *nomic nece
 
 If consciousness has genuine causal powers, those powers have a dispositional structure: consciousness is *disposed* to bias certain quantum outcomes when triggered by indeterminacies in appropriate neural systems—what the Map calls the [[brain-interface-boundary|interface]]—and the manifestation is a shift in which quantum outcome actualises. Reducing consciousness to this disposition alone would collapse into pandispositionalism; the qualitative aspect remains identical with it rather than absorbed into it.
 
-This dispositional analysis is hostage to a physical premise: that quantum indeterminacies survive in the warm wet brain long enough to be biased. Tegmark (2000) and the decoherence literature (Schlosshauer 2007) argue thermal noise collapses superpositions in neural tissue on timescales roughly ten to twenty orders of magnitude shorter than neural information processing (decoherence at 10⁻¹³–10⁻²⁰ s against dynamical timescales of 10⁻³–10⁻¹ s)—so whatever indeterminacy exists is averaged out before it could host a triggering condition for any phenomenal disposition. The Map engages this objection in [[quantum-biology-and-neural-mechanisms]] and [[penrose-gravity-induced-collapse-empirical-prospects]], arguing that Tegmark's calculation is correct for toy systems but does not foreclose biological architectures evolved to maintain coherence. The dispositional framing here presupposes that defence; if it fails, the Map needs a different account of how psychophysical laws operate.
+On its pre-decoherence reading this analysis is hostage to a physical premise: that quantum indeterminacies survive in the warm wet brain long enough to be biased. Tegmark (2000) and Schlosshauer (2007) argue thermal noise destroys neural superpositions far faster than neural processing (figures at [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]])—averaging indeterminacy out before it could trigger any phenomenal disposition. The Map engages this objection in [[quantum-biology-and-neural-mechanisms]] and [[penrose-gravity-induced-collapse-empirical-prospects]], arguing that Tegmark's calculation is correct for toy systems but does not foreclose biological architectures evolved to maintain coherence. The pre-decoherence framing presupposes that defence; post-decoherence selection does not, acting on the mixture decoherence leaves.
 
 ## The Dispositional Modality Problem
 
@@ -171,7 +171,7 @@ The Map's [[tenets]] have differential affinities with each combination of laws 
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** rests on the same cross-product. Its distinctive pressure is on the *causation* question: Humeanism can accommodate bidirectional regularities but reduces them to constant conjunction rather than genuine causation, and pure dispositional essentialism would ground mental causation in essential natures the disanalogy denies consciousness. Only the governing law's prescriptive force, anchored in a powerful quality identical with its disposition to manifest, grounds causation that runs in both directions.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** is grounded by exactly the cross-product the body argues for: the governing law supplies the prescriptive force determining *which* quantum outcome obtains, and powerful qualities supplies the local property-side anchor at the interface. Pure dispositional essentialism cannot do this alone (no internal anchor without fundamentality); Humeanism reduces minimality to "what happens to be the case." The tenet's defensibility is hostage to whether biological architectures can sustain quantum coherence against decoherence (Tegmark 2000)—the framing here presupposes the Map's response in [[quantum-biology-and-neural-mechanisms]] and [[penrose-gravity-induced-collapse-empirical-prospects]].
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** is grounded by exactly the cross-product the body argues for: the governing law supplies the prescriptive force determining *which* quantum outcome obtains, and powerful qualities supplies the local property-side anchor at the interface. Pure dispositional essentialism cannot do this alone (no internal anchor without fundamentality); Humeanism reduces minimality to "what happens to be the case." The coherence-dependent mechanisms are hostage to whether biological architectures can sustain quantum coherence against decoherence (Tegmark 2000)—the framing here presupposes the Map's response in [[quantum-biology-and-neural-mechanisms]] and [[penrose-gravity-induced-collapse-empirical-prospects]].
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** is implicitly assumed throughout. Under Many-Worlds, the legislation problem dissolves—all branches are realised, so no law needs to explain why a particular psychophysical correlation holds rather than another. The Map's rejection of Many-Worlds is what makes the metaphysics of laws and properties urgent: if only one outcome obtains, something must account for *which*.
 

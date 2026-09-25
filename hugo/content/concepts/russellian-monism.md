@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-09-16 10:55:44+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-09-25 15:46:47+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[panpsychism]]'
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 01:47:17+00:00
-lastmod: 2026-09-16 10:55:44+00:00
+lastmod: 2026-09-25 15:46:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -132,7 +132,7 @@ Despite these criticisms, Russellian monism captures important insights the Map 
 
 **Bidirectional Interaction**: the Map holds that consciousness causally influences the physical world. Russellian monism claims quiddities "play indispensable roles in physical causation," but this remains schematic. The Map's framework specifies *how*: selection among quantum superpositions.
 
-**No Many Worlds**: Russellian monism's neutrality on quantum interpretations reveals a deeper issue. Because the view treats consciousness as the intrinsic nature of physical processes rather than a cause acting at measurement, it carries no commitment that would bar any particular interpretation—many-worlds included. There is nothing consciousness must *do* at collapse, so collapse-free interpretations remain available. The Map's [No Many Worlds](/tenets/#no-many-worlds) commitment turns that very neutrality into a divergence: the Map *requires* consciousness at collapse—selection among quantum outcomes—which on its own commitments *requires* rejecting many-worlds. On the Map's premise, then, the frameworks part company on physics, not only consciousness. The Map's rejection of [Many Worlds](/tenets/#no-many-worlds) follows from its ontology: if consciousness actualises possibilities, multiple coexisting branches are ruled out.
+**No Many Worlds**: Russellian monism's neutrality on quantum interpretations reveals a deeper issue. Because the view treats consciousness as the intrinsic nature of physical processes rather than a cause acting at measurement, it carries no commitment that would bar any particular interpretation—many-worlds included. The Map's [No Many Worlds](/tenets/#no-many-worlds) commitment turns that very neutrality into a divergence: the Map *requires* consciousness at collapse—selection among quantum outcomes—which on its own commitments *requires* rejecting many-worlds. On the Map's premise, then, the frameworks part company on physics, not only consciousness. The Map's rejection of [Many Worlds](/tenets/#no-many-worlds) rests on the indexical objection; that consciousness actualises one possibility is a further posit the rejection makes room for, not its ground.
 
 **Occam's Razor Has Limits**: Both agree apparent simplicity is unreliable. The Map applies this more consistently: if physicalism's simplicity is illusory, so may be monism's. The combination problem demonstrates that parsimony in ontology (one kind of stuff) can generate complexity in explanation (how quiddities constitute unified consciousness). The [tenet](/tenets/#occams-limits) warns against this trade-off.
 

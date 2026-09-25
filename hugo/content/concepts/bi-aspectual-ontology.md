@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-09-17 23:26:00+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-09-25 15:46:47+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-17 23:26:00+00:00
-lastmod: 2026-09-17 23:26:00+00:00
+lastmod: 2026-09-25 15:46:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -142,7 +142,7 @@ Bi-aspectual ontology is the Map's foundational metaphysical picture, connecting
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is what distinguishes the Map from every dual-aspect monism. The aspects do not merely run in parallel; at neural interfaces actuality causally selects which structural possibilities become real, and structure constrains what actuality can select.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** follows from taking actuality seriously. If selection is real, one outcome becomes actual and the alternatives do not persist. Many-worlds denies selection by keeping all outcomes — eliminating the role of actuality entirely.
+**[No Many Worlds](/tenets/#no-many-worlds)** is presupposed here rather than derived: the tenet rests on the indexical objection, and single actuality is the [background posit](/tenets/background-commitments/) this ontology inherits from it. Many-worlds, keeping all outcomes, leaves actuality no role.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** justifies the ontological commitment. A bi-aspectual ontology is more complex than pure physicalism. But physicalism achieves its simplicity by treating the hard problem as a problem to be dissolved rather than a boundary to be respected. The additional complexity reflects the Map's commitment to treating consciousness as ontologically fundamental — a commitment motivated by the hard problem's resistance to structural resolution, not by a preference for complexity.
 

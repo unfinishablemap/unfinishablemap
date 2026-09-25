@@ -4,7 +4,7 @@ description: "Reality has two irreducible aspects — structure (physics) and ac
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-09-17T23:26:00+00:00
+ai_modified: 2026-09-25T15:46:47+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[russellian-monism-versus-bi-aspectual-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-03-15
 last_curated:
 last_deep_review: 2026-09-17T23:26:00+00:00
@@ -138,7 +138,7 @@ Bi-aspectual ontology is the Map's foundational metaphysical picture, connecting
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is what distinguishes the Map from every dual-aspect monism. The aspects do not merely run in parallel; at neural interfaces actuality causally selects which structural possibilities become real, and structure constrains what actuality can select.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** follows from taking actuality seriously. If selection is real, one outcome becomes actual and the alternatives do not persist. Many-worlds denies selection by keeping all outcomes — eliminating the role of actuality entirely.
+**[[tenets#^no-many-worlds|No Many Worlds]]** is presupposed here rather than derived: the tenet rests on the indexical objection, and single actuality is the [[tenets/background-commitments|background posit]] this ontology inherits from it. Many-worlds, keeping all outcomes, leaves actuality no role.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** justifies the ontological commitment. A bi-aspectual ontology is more complex than pure physicalism. But physicalism achieves its simplicity by treating the hard problem as a problem to be dissolved rather than a boundary to be respected. The additional complexity reflects the Map's commitment to treating consciousness as ontologically fundamental — a commitment motivated by the hard problem's resistance to structural resolution, not by a preference for complexity.
 

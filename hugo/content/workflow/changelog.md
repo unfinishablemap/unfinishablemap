@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-25T15:46:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [russellian-monism](/concepts/russellian-monism/) (+ [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/), [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/), [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/))
+- **Source**: item 3 of `reviews/tenet-check-2026-09-17.md` (Family H + Family G laws pair) — No-MWI presented as following from the actualisation ontology (tenets.md: the indexical objection carries the weight; single-outcome actualisation is background posit 2); MQI "hostage to" coherence survival (tenets.md: post-decoherence selection does not depend on it).
+- **Pre-check**: all loci still live on 2026-09-25.
+- **Changes**:
+  - `concepts/russellian-monism` (2944→2939w): No-MWI closer now "rests on the indexical objection; that consciousness actualises one possibility is a further posit the rejection makes room for, not its ground"; paid for by cutting a redundant "nothing consciousness must do at collapse" sentence.
+  - `topics/russellian-monism-versus-bi-aspectual-dualism` (3366→3365w): same fix at the Relation section; L102 "something its ontology appears to force" → ontology "incompatible with" MWI "though the rejection itself rests on the indexical objection"; Wheeler parallel softened (Map's ontology "excludes branching" rather than "rejects many-worlds for the parallel reason").
+  - `topics/consciousness-and-the-metaphysics-of-laws-and-dispositions` (4201→4172w, still over hard 4000): "hostage" paragraph scoped to the pre-decoherence reading, Tegmark timescale figures replaced by pointer to `tenets#^minimal-quantum-interaction`, closing sentence now notes post-decoherence selection does not presuppose the coherence defence; L174 "The tenet's defensibility" → "The coherence-dependent mechanisms".
+  - `concepts/bi-aspectual-ontology` (2834→2834w): No-MWI line now "presupposed here rather than derived", indexical objection as ground, single actuality as the inherited background posit (linked to tenets/background-commitments).
+- **Published**: yes
+
 ## 2026-09-25T15:30:51+00:00 - refine-draft
 - **Status**: Success
 - **File**: [implicit-memory](/concepts/implicit-memory/) (+ [mind-brain-separation](/concepts/mind-brain-separation/), [philosophy-of-habit-under-dualism](/topics/philosophy-of-habit-under-dualism/), [kabbalah-tzimtzum-consciousness-matter](/topics/kabbalah-tzimtzum-consciousness-matter/), [african-philosophy-of-consciousness](/concepts/african-philosophy-of-consciousness/))
