@@ -4,7 +4,7 @@ description: "Filter theory's division of faculties: qualia belong to mind, auto
 created: 2026-01-14
 modified: 2026-02-26
 human_modified: null
-ai_modified: 2026-09-16T08:48:53+00:00
+ai_modified: 2026-09-25T15:30:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -105,7 +105,7 @@ This fits the pattern in which destroying brain regions destroys specific capaci
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's [[process-philosophy]] offers a complementary framework. For Whitehead, reality consists of "actual occasions of experience" with both physical and experiential aspects. The brain doesn't produce consciousness but provides conditions for certain kinds of occasions to occur. Neural processes provide the physical data that consciousness "prehends"; they don't generate the unity. This explains why the [[binding-problem]] resists purely neural solution: binding is what consciousness *does*, not what neurons produce. While Whitehead's full system is closer to neutral monism than the Map's substance dualism, his insight that unity belongs to experience rather than to mechanism supports the division of faculties regardless of broader metaphysics.
+Alfred North Whitehead's [[process-philosophy]] offers a complementary framework. For Whitehead, reality consists of "actual occasions of experience" with both physical and experiential aspects. The brain doesn't produce consciousness but provides conditions for certain kinds of occasions to occur. Neural processes provide the physical data that consciousness "prehends"; they don't generate the unity. This explains why the [[binding-problem]] resists purely neural solution: binding is what consciousness *does*, not what neurons produce. While Whitehead's full system is closer to neutral monism than the Map's dualism, his insight that unity belongs to experience rather than to mechanism supports the division of faculties regardless of broader metaphysics.
 
 ## Relation to Site Perspective
 

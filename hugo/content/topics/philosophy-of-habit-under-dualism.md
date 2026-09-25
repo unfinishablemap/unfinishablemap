@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-07
-ai_modified: 2026-08-08 16:01:33+00:00
+ai_modified: 2026-09-25 15:30:51+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-08 16:01:33+00:00
-lastmod: 2026-08-08 16:01:33+00:00
+lastmod: 2026-09-25 15:30:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,7 +47,7 @@ Maurice Merleau-Ponty's *Phenomenology of Perception* (1945) locates habit in th
 
 Henri Bergson's *Matter and Memory* (1896) sharpens the point by distinguishing two irreducible kinds of memory. **Habit-memory** is motor, built by repetition, oriented to present action, and lodged in the body's sensorimotor mechanisms; it *acts* the past rather than representing it. **Pure recollection** preserves the past *as* past and is representational and free. Bergson holds that confusing the two produces philosophical error—and, notably, keeps a non-bodily memory alongside the embodied one rather than reducing mind to mechanism.
 
-The Map borrows Bergson's *distinction* (bodily automatic versus free and attentive) while remaining cautious about his fuller metaphysics of duration. The exposition here reports what these authors claim; it does not enlist them in the Map's dualism. That caution bears hardest on Merleau-Ponty, whose account of motor intentionality is constructed *as* a critique of the Cartesian division between mind and body: he is cited here for his description of the habitual body, not as an ally of the Map's substance dualism.
+The Map borrows Bergson's *distinction* (bodily automatic versus free and attentive) while remaining cautious about his fuller metaphysics of duration. The exposition here reports what these authors claim; it does not enlist them in the Map's dualism. That caution bears hardest on Merleau-Ponty, whose account of motor intentionality is constructed *as* a critique of the Cartesian division between mind and body: he is cited here for his description of the habitual body, not as an ally of the Map's dualism.
 
 ## Habit as Transaction: Dewey and Material Engagement
 

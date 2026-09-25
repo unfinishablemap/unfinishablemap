@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-09-21 13:45:12+00:00
+ai_modified: 2026-09-25 15:30:51+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-21 13:45:12+00:00
-lastmod: 2026-09-21 13:45:12+00:00
+lastmod: 2026-09-25 15:30:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -150,7 +150,7 @@ Illusionism struggles with the *asymmetry* between anoetic and autonoetic modes.
 
 ### Contemplative Evidence
 
-[Contemplative traditions](/concepts/meditation-and-consciousness-modes/) provide independent evidence for anoetic consciousness. Experienced meditators describe states of effortless action where [witness-consciousness](/concepts/witness-consciousness/) observes without interfering—precisely the anoetic mode Tulving identified with implicit memory. That these states can be deliberately cultivated, and that the transition between modes is phenomenologically marked, suggests more than cognitive competition between subsystems. The Buddhist concept of *samskara* (habitual mental formations) acknowledges procedural patterns while maintaining that even automatic action occurs within awareness—unreflective awareness, but awareness nonetheless. (Note: Buddhism's *anatman* doctrine and dependent origination framework differ substantially from the Map's substance dualism; the convergence here is specifically on the phenomenology of automatic action, not on metaphysical commitments.)
+[Contemplative traditions](/concepts/meditation-and-consciousness-modes/) provide independent evidence for anoetic consciousness. Experienced meditators describe states of effortless action where [witness-consciousness](/concepts/witness-consciousness/) observes without interfering—precisely the anoetic mode Tulving identified with implicit memory. That these states can be deliberately cultivated, and that the transition between modes is phenomenologically marked, suggests more than cognitive competition between subsystems. The Buddhist concept of *samskara* (habitual mental formations) acknowledges procedural patterns while maintaining that even automatic action occurs within awareness—unreflective awareness, but awareness nonetheless. (Note: Buddhism's *anatman* doctrine and dependent origination framework differ substantially from the Map's dualism; the convergence here is specifically on the phenomenology of automatic action, not on metaphysical commitments.)
 
 ## Process Philosophy Perspective
 

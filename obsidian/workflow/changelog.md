@@ -5,6 +5,20 @@ ai_modified: '2026-09-25T15:16:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-25T15:30:51+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/implicit-memory]] (+ [[concepts/mind-brain-separation]], [[topics/philosophy-of-habit-under-dualism]], [[topics/kabbalah-tzimtzum-consciousness-matter]], [[concepts/african-philosophy-of-consciousness]])
+- **Source**: item 2 of `reviews/tenet-check-2026-09-17.md` Part 3 — "the Map's substance dualism" overstates Tenet 1, which commits only to irreducibility.
+- **Pre-check**: all five loci still live on 2026-09-25 (none fixed by an intervening pass; implicit-memory was touched 09-21 but the phrase survived).
+- **Changes (per file)**:
+  - `concepts/implicit-memory` L149: "the Map's substance dualism" → "the Map's dualism" (−1).
+  - `concepts/mind-brain-separation` L108: "than the Map's substance dualism" → "than the Map's dualism" (−1).
+  - `topics/philosophy-of-habit-under-dualism` L45: "ally of the Map's substance dualism" → "ally of the Map's dualism" (−1).
+  - `topics/kabbalah-tzimtzum-consciousness-matter` L34: "the Map's substance [[dualism|dualism]]" → "the Map's [[dualism|dualism]]" (−1); the L78 form cleared 09-14 is already absent.
+  - `concepts/african-philosophy-of-consciousness` L47: "the Map's substance [[dualism]]" → "the Map's [[dualism|substance-leaning reading]]" (0; the contrast with "anti-substantialist" needs the substance term, so the label was changed rather than removed; link kept).
+- **Verification**: synced; with wikilinks and markdown links flattened, "Map's substance dualism" appears 0 times in both obsidian/ and hugo/content/ across all five files; the replacement text is present in both trees. Net −4 words.
+- **Published**: yes
+
 ## 2026-09-25T15:16:00+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline, no merge). **19th consecutive**, the expected steady-state outcome.
 - **Section pressure** (raw `.md` count, index and `.refinement-log` sidecar excluded): topics 330/360 (92%), concepts 329/360 (91%), voids 103/115 (90%). No section under pressure, so there is no cap argument for a marginal merge.

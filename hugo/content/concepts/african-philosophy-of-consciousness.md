@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-08-16 19:11:00+00:00
+ai_modified: 2026-09-25 15:30:51+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 20:58:00+00:00
-lastmod: 2026-08-16 19:11:00+00:00
+lastmod: 2026-09-25 15:30:51+00:00
 modified: *id001
 related_articles:
 - '[[eastern-philosophy-consciousness]]'
@@ -47,7 +47,7 @@ Ubuntu challenges the assumption, deeply embedded in Western philosophy of mind,
 
 Not all scholars read Ubuntu as metaphysics — Thaddeus Metz and others interpret it primarily as an ethical framework about how persons ought to relate. The tradition is also contested from within: Chisale (2018) deconstructs the gendered Ubuntu enacted in care work, and Matolino and Kwindingwi's "The end of ubuntu" (2013) opened a twelve-year exchange over whether Ubuntu is at an end. Those disputes concern how the ideal functions in social practice rather than the metaphysical claim at issue here, but they bear on how much weight it can carry as a unified worldview. The stronger reading, which the Map finds philosophically productive, treats the relational claim as genuinely ontological: individual consciousness itself has a relational structure. The claim is not that groups have consciousness in Searle's [collective intentionality](/topics/consciousness-and-collective-phenomena/) sense, but that a person's inner life is shaped and sustained by their place within a community of minds, living and ancestral.
 
-Ubuntu's emphasis on constitutive relations — personhood depends on others rather than standing alone — has anti-substantialist implications that sit uncomfortably with the Map's substance [dualism](/concepts/dualism/). The Map treats the relational dimension as a feature of how consciousness operates rather than what it is: okra (the soul) may be ontologically distinct from the body while still requiring communal engagement to develop its full character. Relation shapes consciousness without exhausting its nature.
+Ubuntu's emphasis on constitutive relations — personhood depends on others rather than standing alone — has anti-substantialist implications that sit uncomfortably with the Map's [substance-leaning reading](/concepts/dualism/). The Map treats the relational dimension as a feature of how consciousness operates rather than what it is: okra (the soul) may be ontologically distinct from the body while still requiring communal engagement to develop its full character. Relation shapes consciousness without exhausting its nature.
 
 ## Akan Personhood and Its Dualist Reading
 

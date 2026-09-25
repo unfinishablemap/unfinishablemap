@@ -4,7 +4,7 @@ description: "Knowledge expressed in action without conscious recollection. Chok
 created: 2026-01-17
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-09-21T13:45:12+00:00
+ai_modified: 2026-09-25T15:30:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -146,7 +146,7 @@ Illusionism struggles with the *asymmetry* between anoetic and autonoetic modes.
 
 ### Contemplative Evidence
 
-[[meditation-and-consciousness-modes|Contemplative traditions]] provide independent evidence for anoetic consciousness. Experienced meditators describe states of effortless action where [[witness-consciousness]] observes without interfering—precisely the anoetic mode Tulving identified with implicit memory. That these states can be deliberately cultivated, and that the transition between modes is phenomenologically marked, suggests more than cognitive competition between subsystems. The Buddhist concept of *samskara* (habitual mental formations) acknowledges procedural patterns while maintaining that even automatic action occurs within awareness—unreflective awareness, but awareness nonetheless. (Note: Buddhism's *anatman* doctrine and dependent origination framework differ substantially from the Map's substance dualism; the convergence here is specifically on the phenomenology of automatic action, not on metaphysical commitments.)
+[[meditation-and-consciousness-modes|Contemplative traditions]] provide independent evidence for anoetic consciousness. Experienced meditators describe states of effortless action where [[witness-consciousness]] observes without interfering—precisely the anoetic mode Tulving identified with implicit memory. That these states can be deliberately cultivated, and that the transition between modes is phenomenologically marked, suggests more than cognitive competition between subsystems. The Buddhist concept of *samskara* (habitual mental formations) acknowledges procedural patterns while maintaining that even automatic action occurs within awareness—unreflective awareness, but awareness nonetheless. (Note: Buddhism's *anatman* doctrine and dependent origination framework differ substantially from the Map's dualism; the convergence here is specifically on the phenomenology of automatic action, not on metaphysical commitments.)
 
 ## Process Philosophy Perspective
 

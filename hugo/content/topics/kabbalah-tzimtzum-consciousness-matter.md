@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-07
-ai_modified: 2026-09-11 15:55:00+00:00
+ai_modified: 2026-09-25 15:30:51+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-11 15:55:00+00:00
-lastmod: 2026-09-11 15:55:00+00:00
+lastmod: 2026-09-25 15:30:51+00:00
 modified: *id001
 related_articles:
 - '[[delegatory-dualism]]'
@@ -35,7 +35,7 @@ topics:
 
 Lurianic Kabbalah opens creation with a withdrawal rather than an outpouring. Its central doctrine, *tzimtzum* (Hebrew: "contraction"), holds that the infinite divine—*Ein Sof*, "the without-end"—first *contracted itself* to make ontological room for a world that could be genuinely other. Creation begins with the creator getting out of the way. For The Unfinishable Map this creation-by-self-limitation structure rhymes suggestively with the Map's [delegation-withdrawal interface](/topics/delegatory-dualism/) and with the minimal-influence discipline of [Tenet 2](/tenets/#minimal-quantum-interaction). But the rhyme is a resonance, not a confirmation, and three divergences—stated here at the outset so they are not mistaken for support—hold it apart from the Map's framework.
 
-**First, the direction of the quantity inverts.** Tzimtzum *subtracts* divine presence to grant the world autonomy—less presence yielding more world. Tenet 2 posits a minimal but *additive* nudge: a small persistent input rather than a withholding. That inversion is the durable divergence. The tempting further claim—that tzimtzum is a *one-time* vacating set against the Map's standing arrangement—does not survive Scholem's own text, and the [closing section](#relation-to-site-perspective) withdraws it. **Second, and the decisive divergence: monism versus dualism.** Classical Kabbalah is emanationist and panentheist. Matter is a degraded *grade* of the one divine light, the sefirot understood as descending layers of a single divine mind. This is exactly what the Map's substance [dualism](/concepts/dualism/) ([Tenet 1](/tenets/#dualism)) denies. **Third, the tradition does not agree with itself** about how literally to take the withdrawal—Gershom Scholem's dramatic "divine exile" reading and Moshe Idel's textually restrained one pull in different directions, and any Map analogy must inherit that instability rather than resolve it. The [closing section](#relation-to-site-perspective) develops all three; the exposition first presents tzimtzum on its own terms.
+**First, the direction of the quantity inverts.** Tzimtzum *subtracts* divine presence to grant the world autonomy—less presence yielding more world. Tenet 2 posits a minimal but *additive* nudge: a small persistent input rather than a withholding. That inversion is the durable divergence. The tempting further claim—that tzimtzum is a *one-time* vacating set against the Map's standing arrangement—does not survive Scholem's own text, and the [closing section](#relation-to-site-perspective) withdraws it. **Second, and the decisive divergence: monism versus dualism.** Classical Kabbalah is emanationist and panentheist. Matter is a degraded *grade* of the one divine light, the sefirot understood as descending layers of a single divine mind. This is exactly what the Map's [dualism](/concepts/dualism/) ([Tenet 1](/tenets/#dualism)) denies. **Third, the tradition does not agree with itself** about how literally to take the withdrawal—Gershom Scholem's dramatic "divine exile" reading and Moshe Idel's textually restrained one pull in different directions, and any Map analogy must inherit that instability rather than resolve it. The [closing section](#relation-to-site-perspective) develops all three; the exposition first presents tzimtzum on its own terms.
 
 ## Tzimtzum: The Self-Contraction of Ein Sof {#tzimtzum}
 
