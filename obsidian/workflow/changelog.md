@@ -5,6 +5,13 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-25T13:46:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/causal-closure]]
+- **Original score**: n/a (targeted tenet-check 139 priority-3 fix; `scripts/curate.py` absent)
+- **Changes**: (1) Born-rule challenge: removed the dilution route ("influence is lost in the statistical noise…"), recast as the rejected option — preservation holds "by construction, not by any sensitivity limit" (matches tenets L75 and the file's own epiphenomenalism paragraph). (2) Testability: neural-timescale coherence falsifier rescoped "(defeating pre-decoherence mechanisms only)" per tenets L77. (3) Hidden-variables objection: "case … rests on parsimony" → "a defeasible parsimony comparison that leaves that dispute open" (Tenet 5 family). Lower-priority WARNINGs also fixed: L172 "provides the *mechanism* Kane leaves underspecified" → "proposes a *locus* for…" (consistent with the mechanism-gap paragraph); L150 Stapp "most detailed account" → "most detailed proposal". Length (analyze_length) 3,498 → 3,494 / 3,500 hard. Hugo synced.
+- **Published**: yes
+
 ## 2026-09-25T13:40:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Discriminating-test wing: 8 topics articles that turn the interface model into empirical tests (memory-channel-interface-evidence, empirical-evidence-for-consciousness-selecting, interface-efficacy-and-the-cognitive-gap, targeted-lesion-discriminating-tests..., sham-controlled-neurofeedback-and-the-consciousness-comparator, anosognosia-and-the-reversible-self-monitoring-channel, dopamine-and-the-unified-interface, direction-dependent-discriminating-test-design). The target was chosen by coverage: all 8 were among the 63 live files that no 2026-07 to 2026-09 optimistic review names. Key finding: the 2026-09-19 repair of memory-channel L136 (the filter reading "forbids no ordering") has not reached direction-dependent L38, apex/self-concealing-interface L127/L180 or falsification-roadmap L201, all of which still describe a two-sided test. Also found: memory-channel L88 contradicts L118 on the dissociative rows; empirical-evidence L42/L143 go beyond its own grading table; dopamine L188/L196/L215 upgrades on tenet-load. Intra-wing links: 6 of 56. Added 4 P3 refine-draft tasks and 1 P3 expand-topic task (paradoxical kinesia, 0 corpus hits).
