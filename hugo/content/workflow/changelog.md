@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-25T20:31:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [embodied-consciousness](/topics/embodied-consciousness/)
+- **Original score**: n/a (targeted fix; review: reviews/optimistic-2026-09-18-embodiment-wing.md, High Priority 3 / Calibration Concern)
+- **Changes**: Lowered the choking-under-pressure evidential grade to the register settled in `topics/empirical-phenomena-mental-causation` (L59/L109). L136: removed "suggestive evidence for bidirectional causation: an epiphenomenal consciousness could not systematically interfere with motor execution" and the closing "the bidirectional reading is the more economical fit"; now states the access-level claim the data establish, keeps the sophisticated-epiphenomenalist / attentional-reallocation concession (plus "one neural process interfering with another", matching `concepts/embodied-cognition`), and says choking constrains epiphenomenalism without establishing bidirectional causation (links evidential-status-discipline), with the phenomenal-character question left open. L192 (Relation to Site Perspective, the unhedged locus): "suggestive evidence that consciousness causally influences" -> "constrains epiphenomenalism without establishing that...". See-also gloss "The bidirectional evidence from choking" -> "The choking evidence and its limits". Preserved "What Would Challenge This View" item 3 unchanged; `concepts/embodied-cognition` not touched. No other statement of the inference found in the file.
+- **Length**: analyze_length 3736 -> 3734 (topics hard 4000); length-neutral swap.
+- **Tenet note**: Tenet 3 evidential grade deliberately lowered; engagement with epiphenomenalism: Mode Three (framework-boundary marking) with the constraint noted, replacing a Mode One claim the data could not support.
+- **Published**: yes
+
 ## 2026-09-25T20:16:55+00:00 - refine-draft
 - **Status**: Success
 - **File**: [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/)

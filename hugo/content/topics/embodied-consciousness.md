@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-09-21 15:54:37+00:00
+ai_modified: 2026-09-25 20:31:25+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 18:54:52+00:00
-lastmod: 2026-09-21 15:54:37+00:00
+lastmod: 2026-09-25 20:31:25+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -137,7 +137,7 @@ This rhythm illuminates how the interface evolves through practice. The Dreyfus 
 
 The **novice** requires constant conscious monitoring. Every movement is explicitly directed. The interface operates in its most bandwidth-limited mode. The **expert** has trained the interface. Procedural systems handle execution; consciousness withdraws to oversight.
 
-[Choking under pressure](/topics/empirical-phenomena-mental-causation/) reveals something the framework treats as crucial about this arrangement. When experts consciously monitor automated skills, performance degrades. This is suggestive evidence for [bidirectional causation](/concepts/mental-causation-and-downward-causation/): an [epiphenomenal](/concepts/epiphenomenalism/) consciousness could not systematically interfere with motor execution. The disruption suggests the manager has real causal power; the improvement after withdrawal suggests the specialists can operate with appropriate autonomy. The inference is not airtight—a sophisticated epiphenomenalist may construe the monitoring-driven degradation as a purely neural side-effect of attentional reallocation, and the data do not by themselves decide between the two readings—but the bidirectional reading is the more economical fit.
+[Choking under pressure](/topics/empirical-phenomena-mental-causation/) tests this arrangement: when experts consciously monitor automated skills, performance degrades. The data establish an access-level claim—a self-monitoring attentional mode disrupts automatised execution. The Map reads this as the manager exercising real influence, and recovery after withdrawal as the specialists' appropriate autonomy. Nothing forces that reading: a sophisticated [epiphenomenalist](/concepts/epiphenomenalism/) may read the degradation as a neural side-effect of attentional reallocation, one neural process interfering with another. Choking constrains epiphenomenalism without establishing [bidirectional causation](/concepts/mental-causation-and-downward-causation/) (see [evidential-status-discipline](/project/evidential-status-discipline/)); whether the monitoring mode's phenomenal character does the causal work is a question the data leave open.
 
 At the opposite extreme, [flow states](/topics/consciousness-and-skill-acquisition/) represent the interface operating with minimal friction—consciousness selects at a coarse-grained level while procedural systems handle execution with maximal autonomy.
 
@@ -193,7 +193,7 @@ The interface reading would face serious difficulty if:
 
 **[Dualism](/tenets/#dualism)**: Embodied cognition undercuts Cartesian substance dualism while leaving property dualism largely untouched. The phenomenology of embodiment reveals structures—the *Leib*/*Körper* distinction, pre-reflective self-awareness, the felt qualities of ownership and agency—that appear to resist reduction to physical description. On the Map's reading, the lived body is irreducibly experiential; reductionists may construe the same phenomenology as a description-vocabulary residue rather than an ontological one. The Map agrees with embodied cognition that mind and body are tightly integrated; it disagrees that integration implies identity.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Choking under pressure is suggestive evidence that consciousness causally influences bodily performance. Skill acquisition suggests that bodily practice reshapes how consciousness manifests. The ownership/agency distinction maps onto bidirectional causation: ownership perhaps reflects the body's influence on consciousness; agency perhaps reflects consciousness's influence on the body. On the Map's reading, the phenomenology of embodiment is the first-person face of bidirectional interaction—a reading the data are compatible with rather than one they force.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Choking under pressure constrains epiphenomenalism without establishing that consciousness causally influences bodily performance. Skill acquisition suggests that bodily practice reshapes how consciousness manifests. The ownership/agency distinction maps onto bidirectional causation: ownership perhaps reflects the body's influence on consciousness; agency perhaps reflects consciousness's influence on the body. On the Map's reading, the phenomenology of embodiment is the first-person face of bidirectional interaction—a reading the data are compatible with rather than one they force.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The attention-motor convergence locates the interface precisely: where consciousness selects among competing neural options. The body provides the action repertoire; attention selects within it. If this selection operates through quantum mechanisms, the embodied interface is where those mechanisms function. Bodily absence during skilled action suggests the interface becomes transparent when consciousness and body are optimally coupled.
 
@@ -210,7 +210,7 @@ The interface reading would face serious difficulty if:
 - [somatic-interface](/concepts/somatic-interface/) — The body's internal sensing channels as structured interface substrate
 - [lived-objectified-body-distinction](/concepts/lived-objectified-body-distinction/) — The canonical statement of the Leib/Körper distinction this article applies
 - [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — Empirical evidence for dual-domain architecture in proprioception and spatial imagination
-- [choking phenomenon](/topics/empirical-phenomena-mental-causation/) — The bidirectional evidence from choking in detail
+- [choking phenomenon](/topics/empirical-phenomena-mental-causation/) — The choking evidence and its limits in detail
 - [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/) — Flow as frictionless interface operation
 - [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/) — The three strands of enactivism's challenge
 - [consciousness-as-activity](/topics/consciousness-as-activity/) — Activity-first ontology: consciousness as something the organism does
