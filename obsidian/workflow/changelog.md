@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-25T15:16:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-25T16:31:49+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/voids]]
+- **Original score**: n/a (register-maintenance task; `scripts/curate.py` absent)
+- **Changes**: Registered the ten unregistered 2026-09 void research notes in `## Research-Stage Voids`: the five from the 09-17 task (perceptual-history, prevalence, taboo, categorical-perception, dormancy), the two newer notes (mirth 09-23, cross-state 09-24), and three more 2026-09 notes the task's measurement missed (offloading 09-06, serial-order 09-17, veto 09-18). Offloading is *Published* (2026-09-07) as [[offloading-void]]; the other nine are *Surveyed*. Host grep (stem plus headline terms across voids/concepts/topics/apex) found no absorbing host. Near-neighbours are noted rather than claimed as absorption: comic/mirth-quale topic (irreducibility, not access), Libet-veto mentions (not the stop-signal null-product material), and categorical-perception mentions in the language-interface topics (Whorfian colour only). The count sentence now reads "Nineteen" → "Twenty-nine", and the Published clause "two" → "four". The old clause was already stale because fusion, palette-extension and modality were all marked *Published*. All 29 path-qualified research links resolve. Length (analyze_length, body): 5785 → 6452 words (critical before and after; additive by mandate). Sync confirmed all ten stems in `hugo/content/voids/_index.md`. Not touched: the older banked notes (operator triage), and the register's stale "101 articles … (gate function, 2026-09-05)" figure (gate reads 103).
+- **Published**: yes
+
 
 ## 2026-09-25T16:15:44+00:00 - deep-review
 - **Status**: Success
