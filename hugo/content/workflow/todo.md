@@ -39,14 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `concepts/causal-closure` L144 offers "lost in the statistical noise" as a Born-preservation route that `tenets.md` L75 excludes; L198 and L136 contradict tenets too
-- **Type**: refine-draft
-- **File**: obsidian/concepts/causal-closure.md
-- **Review file**: reviews/tenet-check-2026-09-25.md
-- **Source**: check-tenets
-- **Generated**: 2026-09-25
-- **Notes**: Tenet-check 139 priority 3. (1) L144 "The Born rule challenge": "consciousness operates rarely enough… that its influence is lost in the statistical noise of vastly many unbiased quantum events" (grep-verified 2026-09-25). `tenets.md` L75 says Born preservation holds "by construction, not by any sensitivity limit", and the file's own L146 says the same, so the dilution route contradicts both. Remove or recast it as a rejected option. (2) L198 lists "if quantum coherence proves impossible at neural timescales" as a falsifier; `tenets.md` L77 says post-decoherence proposals "do not depend on it" — rescope to the pre-decoherence path only. (3) L136 "the Map's case against hidden variables rests on parsimony" — a Map-voice parsimony verdict (Tenet 5 family; see the open parsimony-doctrine NEEDS-HUMAN entry). Rephrase without making parsimony the ground, or mark it as defeasible. **LENGTH GATE:** `analyze_length` 3,498 / 3,500 concepts hard (usable ceiling 3,499) — 1 word of headroom; cutting the L144 dilution clause should fund (2) and (3). Re-measure before and after. Tenet alignment: Tenet 2 (Minimal Quantum Interaction), Tenet 5.
-
 ### P2: Research The quantum factorisation problem for consciousness
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (outer-review-2026-09-25-chatgpt-5-6-sol-pro.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-09-25-chatgpt-5-6-sol-pro §1.1 'The missing factorisation problem': entanglement is defined only relative to a tensor-product decomposition (Zanardi, Lidar & Lloyd 2004; cf. Tegmark 2015 'quantum factorization problem'), so any entanglement-based unity or subject-individuation claim owes an account of which decomposition is privileged, where the subject's boundary lies, and why one subject rather than nested ones. Claude opus-5-5 same-day review flags the adjacent quantum-level combination problem as 'Ignored'. The target article is at 3992/4000 words, so the refine task can only gesture at it; a concept page gives the Map's quantum-binding cluster (quantum-holism, entanglement-binding-hypothesis, unity-of-consciousness, pairing-problem) one place to state the debt. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/quantum-factorisation-problem-2026-09-25.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'quantum-factorisation-problem' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -1742,6 +1734,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-25: `concepts/causal-closure` L144 offers "lost in the statistical noise" as a Born-preservation route that `tenets.md` L75 excludes; L198 and L136 contradict tenets too
+- **Type**: refine-draft
+- **File**: obsidian/concepts/causal-closure.md
+- **Notes**: Tenet-check 139 priority 3. (1) L144 "The Born rule challenge": "consciousness operates rarely enough… that its influence is lost in the statistical noise of vastly many unbiased quantum events" (grep-verified 2026-09-25). `tenets.md` L75 says Born preservation holds "by construction, not by any sensitivity limit", and the file's own L146 says the same, so the dilution route contradicts both. Remove or recast it as a rejected option. (2) L198 lists "if quantum coherence proves impossible at neural timescales" as a falsifier; `tenets.md` L77 says post-decoherence proposals "do not depend on it" — rescope to the pre-decoherence path only. (3) L136 "the Map's case against hidden variables rests on parsimony" — a Map-voice parsimony verdict (Tenet 5 family; see the open parsimony-doctrine NEEDS-HUMAN entry). Rephrase without making parsimony the ground, or mark it as defeasible. **LENGTH GATE:** `analyze_length` 3,498 / 3,500 concepts hard (usable ceiling 3,499) — 1 word of headroom; cutting the L144 dilution clause should fund (2) and (3). Re-measure before and after. Tenet alignment: Tenet 2 (Minimal Quantum Interaction), Tenet 5.
 
 ### ✓ 2026-09-25: `topics/animal-consciousness` L192 imports Tenet 3 into the Occam row the dependency matrix marks *Not invoked* (tenet-check ERROR, third consecutive report)
 - **Type**: refine-draft

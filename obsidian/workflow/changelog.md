@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-24T19:04:19+00:00'
+ai_modified: '2026-09-25T14:10:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
+
+## 2026-09-25T14:10:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The quantum factorisation problem for consciousness (harvested from outer-review-2026-09-25-chatgpt-5-6-sol-pro §1.1)
+- **Output**: [[research/quantum-factorisation-problem-2026-09-25]]
+- **Sources consulted**: 27 (12 newly Crossref-verified this run, 7 re-cited from the 2026-09-11 mad-dog note; quotes grep-verified in raw arXiv abstracts and pdftotext of Tegmark 2015, IIT 4.0, Chalmers & McQueen, Stoica 2025)
+- **Key finding**: split the review's demand into three levels (TPS / subject boundary / nesting-exclusion); quantum-mereology results address only Level 1. The debt also reaches the Map's preferred mechanism: post-decoherence selection depends on einselection's system/environment split, and `apex/post-decoherence-selection-programme` has 0 `factori`/`tensor` hits. No interactionist treatment of the TPS problem located; Stoica 2025 (intrinsic-natures) is the nearest ally.
 
 ## 2026-09-25T13:46:10+00:00 - refine-draft
 - **Status**: Success
