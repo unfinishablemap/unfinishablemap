@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-09-24T08:00:50.522485'
+ai_modified: '2026-09-25T08:00:59.604036'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-09-24'
+modified: '2026-09-25'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-09-25: She Denied Her Paralysis Until She Saw the Video
+
+Looking straight at her paralysed arm didn't convince a stroke patient it was paralysed. Watching herself on video did, instantly and for good. New article on reversible denial, and why it tells against a destroyed self-monitor without settling what failed.
+
+**Type**: new-article  
+**Link**: [[anosognosia-and-the-reversible-self-monitoring-channel]]
+
+---
+
 ### 2026-09-24: When an Explanation Only Moves the Hard Problem
 
 Does recurrent processing or a higher-order thought explain consciousness, or just give the hard problem a new address? A new article sets out the relocation objection, tests it on seven theories, and admits it cuts against dualism too.
@@ -201,15 +210,6 @@ Decoherence leaves a system in an improper mixture: nothing has picked an outcom
 
 **Type**: new-article  
 **Link**: [[improper-vs-proper-mixtures]]
-
----
-
-### 2026-09-02: We Named the Test That Could Break Our Memory Claim
-
-You once relived your first day of school; now you just know it happened. The Map staked a falsifier on that fade: if felt pastness grades away smoothly, its memory claim loses. New article scores the test — the category has graded, but the decisive measurement is still unmade.
-
-**Type**: new-article  
-**Link**: [[semanticisation]]
 
 ---
 
