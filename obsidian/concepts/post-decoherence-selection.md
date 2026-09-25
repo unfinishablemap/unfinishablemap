@@ -4,7 +4,7 @@ description: "Post-decoherence selection is the process that actualizes one outc
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-09-17T09:40:00+00:00
+ai_modified: 2026-09-25T19:35:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -95,7 +95,7 @@ The Map needs the selected outcome to be absolute. Both the [[tenets#^no-many-wo
 
 The Map has taken this horn already, though not under this name. [[prebiotic-collapse|Prebiotic collapse]] makes objective reduction the baseline at which possibilities resolve, with consciousness modulating rather than initiating. [[consciousness-in-smeared-quantum-states|Consciousness in smeared quantum states]] draws the consequence explicitly—no system containing a conscious observer stays superposed when viewed from outside. [[testing-consciousness-collapse|Testing consciousness-collapse]] records the cost, that quantum mechanics is thereby denied universal application to conscious systems. And [[multi-agent-born-preservation-problem|the multi-agent Born-preservation problem]] notes that preserving a single actual outcome forces every single-world reading to restrict something.
 
-How close any test comes stays open. The friends in current local friendliness tests are photons, not thinkers. And because the Map's selector is consciousness rather than cognition, even the prospective Wiseman–Cavalcanti–Rieffel experiment would bear on the Map only if its artificial friend were conscious—a premise the Map's dualism does not grant. Declining it keeps the framework consistent but buys insulation at the price of testability. Also open is which non-unitary baseline the framework inherits, and whether the departure is detectable at any scale an experiment could reach.
+How close any test comes stays open. The friends in current local friendliness tests are photons, not [[thoughtful-local-friendliness-and-the-artificial-friend|thinkers]]. And because the Map's selector is consciousness rather than cognition, even the prospective Wiseman–Cavalcanti–Rieffel experiment would bear on the Map only if its artificial friend were conscious—a premise the Map's dualism does not grant. Declining it keeps the framework consistent but buys insulation at the price of testability. Also open is which non-unitary baseline the framework inherits, and whether the departure is detectable at any scale an experiment could reach.
 
 ## Relation to Site Perspective
 

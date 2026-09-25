@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-09-17 09:40:00+00:00
+ai_modified: 2026-09-25 19:35:29+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-17 09:40:00+00:00
-lastmod: 2026-09-17 09:40:00+00:00
+lastmod: 2026-09-25 19:35:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -99,7 +99,7 @@ The Map needs the selected outcome to be absolute. Both the [No Many Worlds](/te
 
 The Map has taken this horn already, though not under this name. [Prebiotic collapse](/concepts/prebiotic-collapse/) makes objective reduction the baseline at which possibilities resolve, with consciousness modulating rather than initiating. [Consciousness in smeared quantum states](/topics/consciousness-in-smeared-quantum-states/) draws the consequence explicitly—no system containing a conscious observer stays superposed when viewed from outside. [Testing consciousness-collapse](/topics/testing-consciousness-collapse/) records the cost, that quantum mechanics is thereby denied universal application to conscious systems. And [the multi-agent Born-preservation problem](/topics/multi-agent-born-preservation-problem/) notes that preserving a single actual outcome forces every single-world reading to restrict something.
 
-How close any test comes stays open. The friends in current local friendliness tests are photons, not thinkers. And because the Map's selector is consciousness rather than cognition, even the prospective Wiseman–Cavalcanti–Rieffel experiment would bear on the Map only if its artificial friend were conscious—a premise the Map's dualism does not grant. Declining it keeps the framework consistent but buys insulation at the price of testability. Also open is which non-unitary baseline the framework inherits, and whether the departure is detectable at any scale an experiment could reach.
+How close any test comes stays open. The friends in current local friendliness tests are photons, not [thinkers](/topics/thoughtful-local-friendliness-and-the-artificial-friend/). And because the Map's selector is consciousness rather than cognition, even the prospective Wiseman–Cavalcanti–Rieffel experiment would bear on the Map only if its artificial friend were conscious—a premise the Map's dualism does not grant. Declining it keeps the framework consistent but buys insulation at the price of testability. Also open is which non-unitary baseline the framework inherits, and whether the departure is detectable at any scale an experiment could reach.
 
 ## Relation to Site Perspective
 

@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-25T19:36:08+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The "thoughtful" Local Friendliness experiment (Wiseman, Cavalcanti & Rieffel 2023) and the artificial friend
+- **Output**: [thoughtful-local-friendliness-and-the-artificial-friend](/topics/thoughtful-local-friendliness-and-the-artificial-friend/)
+- **Word count**: 2772 (`analyze_length`, ok; topics soft 3000)
+- **Based on research**: no dedicated note; built from the primary texts (WCR arXiv:2209.08491v4 and Bong et al. arXiv:1907.05607v4, full text grepped, all quotes verbatim) and the 2026-09-17 PDS deep review. Metadata for both re-verified at Crossref.
+- **Notes**: Conditional stated as in PDS §Absolute Outcomes: the thoughtful-LF test bears on the Map only if the AI friend hosts coupled (selecting) consciousness. Non-conscious Quall-E → Map rejects Friendliness (the same slot as WCR §5.4 spontaneous collapse); conscious Quall-E → UQC fails for that system (like WCR §5.6 Chalmers–McQueen). The Physical Supervenience exit is noted as open but sitting poorly with Tenet 3. Tied to [P-AC1](/positions/ai-consciousness-scope/#p-ac1), [P-AS1](/positions/ai-substrate-verdicts/#p-as1) (error correction isolates the logical state) and machine-question's four senses. Unfalsifiability section: the denial is fixed in advance; the Map predicts the experiment SUCCEEDS (a failure would embarrass it); hosting selection and being recoherable are claimed incompatible. Inbound links added length-neutrally (piped): `concepts/post-decoherence-selection` ("thinkers") and `topics/consciousness-in-smeared-quantum-states` ("detectable in principle"). Topics count before creation: 331. Hugo synced.
+
 ## 2026-09-25T19:01:07+00:00 - refine-draft
 - **Status**: Success
 - **File**: [mental-effort](/concepts/mental-effort/)

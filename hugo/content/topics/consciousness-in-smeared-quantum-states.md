@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-09-25 17:01:27+00:00
+ai_modified: 2026-09-25 19:35:29+00:00
 ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 00:49:58+00:00
-lastmod: 2026-09-25 17:01:27+00:00
+lastmod: 2026-09-25 19:35:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -109,7 +109,7 @@ The distinction between genuine quantum indeterminacy and classical probability 
 
 The definiteness problem intensifies when observers observe observers. In the [Wigner's friend](/topics/quantum-measurement-and-consciousness/) scenario, a friend performs a measurement inside a sealed laboratory. From the friend's perspective, collapse occurs and a definite result is obtained. From Wigner's perspective outside the lab, the friend-plus-apparatus remains in superposition. Two conscious observers disagree about whether collapse has happened.
 
-The local friendliness (LF) no-go theorem (Bong et al. 2020) shows that if quantum evolution can be controlled at the scale of an observer, three assumptions cannot all hold: *absoluteness of observed events* (an outcome is a fact simpliciter, not merely a fact relative to whoever observed it), locality, and no-superdeterminism. Something must give. The Map needs the selected outcome to be absolute, and it keeps locality and no-superdeterminism, so what it gives up is the controllability premise: if consciousness is what resolves superposition, the friend's measurement truly collapses the state, and Wigner's unitary description of the friend as superposed is wrong. This takes one horn of the dilemma rather than dissolving it, and the horn has a price that [post-decoherence selection](/concepts/post-decoherence-selection/#absolute-outcomes-and-the-local-friendliness-theorem) sets out: quantum mechanics is denied universal application to conscious systems, a departure from unitary evolution that is detectable in principle.
+The local friendliness (LF) no-go theorem (Bong et al. 2020) shows that if quantum evolution can be controlled at the scale of an observer, three assumptions cannot all hold: *absoluteness of observed events* (an outcome is a fact simpliciter, not merely a fact relative to whoever observed it), locality, and no-superdeterminism. Something must give. The Map needs the selected outcome to be absolute, and it keeps locality and no-superdeterminism, so what it gives up is the controllability premise: if consciousness is what resolves superposition, the friend's measurement truly collapses the state, and Wigner's unitary description of the friend as superposed is wrong. This takes one horn of the dilemma rather than dissolving it, and the horn has a price that [post-decoherence selection](/concepts/post-decoherence-selection/#absolute-outcomes-and-the-local-friendliness-theorem) sets out: quantum mechanics is denied universal application to conscious systems, a departure from unitary evolution that is [detectable in principle](/topics/thoughtful-local-friendliness-and-the-artificial-friend/).
 
 Stated as a conditional, the cost is this. If consciousness-driven collapse is real and consciousness always produces definite outcomes, then no system containing a conscious observer can be maintained in superposition from outside, so a sufficiently controlled extended Wigner's-friend experiment on a conscious friend could in principle tell against the Map. Definiteness would then belong to physical reality wherever a conscious observer is present, not only to the observer's own experience—whether consciousness itself resolves the superposition or, on the Map's [prebiotic-collapse](/concepts/prebiotic-collapse/) baseline, objective reduction has already done so and consciousness modulates which outcome. The [von Neumann–Wigner interpretation](/concepts/von-neumann-wigner-interpretation/) was the first to take this seriously, placing consciousness at the end of the measurement chain as the point where superposition resolves into definite outcome.
 
