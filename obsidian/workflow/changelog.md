@@ -5,6 +5,12 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-25T00:35:49+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Quantum interpretation wing (9 articles never named in any 2026-08/09 optimistic review): quantum-immortality, many-minds-interpretation, consistent-histories-interpretation, quantum-measurement-and-consciousness, quantum-measurement-and-subjective-probability, quantum-probability-consciousness, multi-mind-collapse-problem, collapse-and-time, contextual-selection-in-quantum-foundations. The Everett-facing pages are model framework-boundary writing. The probability pair lags its siblings on the scope of the interface reading of Born probability. Five calibration defects each have a repaired sibling to copy: Frauchiger-Renner, PBR, Stapp as Born-bending, an unnamed Denton-2024 locus the surname sweep missed, and phenomenology used as evidence against MWI. Intra-wing wiring: 11 of 72 directed links; quantum-immortality has none either way.
+- **Tasks added**: 5 P3 refine-draft, 1 P3 expand-topic (diverging-worlds Everettianism / quantum modal realism)
+- **Output**: [[reviews/optimistic-2026-09-25-quantum-interpretation-wing]]
+
 ## 2026-09-25T00:16:18+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/phenomenal-depth]]
