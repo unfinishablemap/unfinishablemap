@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-25T07:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [sham-controlled-neurofeedback-and-the-consciousness-comparator](/topics/sham-controlled-neurofeedback-and-the-consciousness-comparator/)
+- **Word count**: 2865 → 3035 (+170)
+- **Critical issues addressed**: 2 (superseded "no trial of this form" claim — Maaz et al. 2026 three-arm genuine/sham/passive study added and claim scoped to clinical trials; Schabus band-power result misdescribed as "not reinforced")
+- **Medium issues addressed**: 4 (null overread; Schönenberg sham-then-real design qualifier; Westwood et al. 2025 JAMA Psychiatry meta-analysis added; Garrison characterisation)
+- **Enhancements made**: 2 currency additions; 3 trims
+- **Citation ledger**: 9/9 real-correct against Crossref + PubMed/PMC; all 11 direct quotes grep-verified
+- **Engagements**: Thibault/Lifshitz/Raz expectancy reading: Mode Two (their own letter classes effort as a placebo factor); physicalist effort-is-neural: Mode Three (boundary declared)
+- **Output**: [deep-review-2026-09-25-sham-controlled-neurofeedback-and-the-consciousness-comparator](/reviews/deep-review-2026-09-25-sham-controlled-neurofeedback-and-the-consciousness-comparator/)
+
 ## 2026-09-25T06:49:30+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-09-25
