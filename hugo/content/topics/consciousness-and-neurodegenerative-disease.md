@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-09-10 16:01:17.644922+00:00
+ai_modified: 2026-09-25 01:46:26+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 13:57:49+00:00
-lastmod: 2026-09-10 16:01:17.644922+00:00
+lastmod: 2026-09-25 01:46:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -68,7 +68,7 @@ Frontotemporal dementia reverses the typical pattern. Personality and social cog
 
 ## Terminal Lucidity
 
-Terminal lucidity—unexpected cognitive clarity in patients with severe dementia, often shortly before death—is a philosophically provocative phenomenon, though one whose evidential status demands careful handling. Patients who have been nonverbal and apparently cognitively absent for years suddenly recognise family members, hold coherent conversations, and display the personality traits their loved ones remember. These episodes typically last minutes to hours, often occurring in the final days of life.
+[Terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/)—unexpected cognitive clarity in patients with severe dementia, often shortly before death—is a philosophically provocative phenomenon, though one whose evidential status demands careful handling. Patients who have been nonverbal and apparently cognitively absent for years suddenly recognise family members, hold coherent conversations, and display the personality traits their loved ones remember. These episodes typically last minutes to hours, often occurring in the final days of life.
 
 A 2012 review by Nahm and colleagues collected case reports across multiple conditions, including Alzheimer's, brain tumours, and meningitis [1]. For most of the phenomenon's history the evidence was anecdotal—historical accounts and family reports rather than prospective clinical data—but the 2019 NIA-sponsored workshop led by Mashour and colleagues that brought paradoxical lucidity into mainstream neuroscience [4] called for rigorous investigation, and that investigation has since arrived. Prospective and population-based studies now document lucid episodes systematically: a 2024 caregiver-interview study by Karlawish and colleagues characterised episodes in advanced dementia prospectively [6], and larger cohorts have since reported lucidity in a majority of enrolled severe-dementia patients, with subsets showing return of old memories and functional abilities. The episodes are common rather than rare. The documented cases skew toward *brief* events, though—single utterances, gestures, moments of orientation—so the recency of the evidence does not by itself settle the harder question: whether the rarer, sustained cases involve cognitive recovery exceeding what residual neural tissue could support. Systematic post-mortem correlation of lucid episodes with measured neural damage remains limited, so the degree-of-damage puzzle in the strongest cases is documented but unresolved.
 
@@ -128,17 +128,17 @@ The filter theory interpretation of neurodegeneration would face serious difficu
 
 ## Relation to Site Perspective
 
-The Unfinishable Map's [tenets](/tenets/) converge on neurodegenerative disease as a domain where the dualist-interactionist framework addresses difficulties that production models struggle with.
+Each of the Map's [tenets](/tenets/) bears on neurodegenerative disease, though the evidence here constrains more than it decides.
 
-**[Dualism](/tenets/#dualism)**: The persistence of phenomenal consciousness through massive neural destruction supports the view that consciousness is not identical to brain processes. The brain provides cognitive tools—memory systems, language networks, executive circuits—that consciousness uses. Disease destroys the tools without destroying the user. This is consistent with the filter theory interpretation: interface degradation produces capability loss, not consciousness loss.
+**[Dualism](/tenets/#dualism)**: The persistence of phenomenal consciousness through massive neural destruction is compatible with consciousness not being identical to brain processes. On the filter reading, disease destroys the brain's cognitive tools—memory systems, language networks, executive circuits—before it reaches their user: interface degradation produces capability loss, not consciousness loss. But production predicts the same order if phenomenal presence depends on structures the disease reaches last, so the pattern does not discriminate filter from production. It is suggestive for Tenet 1 alone ([filter evidence](/positions/consciousness-scope/#p-cs6) bears on no other tenet), and the dualist case rests on the [hard problem](/topics/hard-problem-of-consciousness/).
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Prospective research has now established that lucid episodes occur and are common, but the load-bearing question for this tenet is narrower: whether any case involves genuine cognitive recovery *beyond what residual neural capacity can explain*. If such a case were documented—lucidity paired with post-mortem evidence of insufficient surviving substrate—it would suggest consciousness can sometimes engage with even severely damaged neural tissue to produce coherent cognition. On that reading, consciousness would not be merely along for the ride—[epiphenomenal](/concepts/epiphenomenalism/)—but actively engaged with remaining neural resources. This interpretation remains conditional on that specific capacity-exceeding evidence, which the current cohorts have not yet supplied.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Neurodegeneration may constrain where consciousness-brain interaction occurs. If the quantum interface requires specific neural structures—perhaps in posterior cortical regions or subcortical nuclei—then diseases that spare those structures would preserve conscious experience while destroying higher cognitive functions. The pattern of late-surviving phenomenal awareness might map onto the preservation of quantum-level interaction sites. Whether such quantum-level interaction is real remains an open empirical question—the [experimental landscape for testing consciousness-collapse](/topics/testing-consciousness-collapse/) is narrowing the parameter space, with [ongoing experiments](/topics/testing-consciousness-collapse/) constraining which collapse models remain viable.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The personal identity question in neurodegeneration demands determinate answers. Either the severely demented patient *is* the person she was—the same indexical subject with fewer tools—or she is not. Many-worlds interpretations, where all possible outcomes are equally real, would treat the identity question as indeterminate: in some branches the patient retains identity, in others she doesn't. The Map insists this question has a fact of the matter. The phenomenological evidence—that *something it is like to be her* persists—favours continuity of the conscious subject even through radical cognitive change.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Whether the severely demented patient *is* the person she was—the same indexical subject with fewer tools—has, the Map holds, a fact of the matter, but it comes from the [determinate-subject posit](/tenets/background-commitments/): rejecting many-worlds secures only indexical identity—a single bearer of *this* experience—and branch-relative accounts deliver determinate continuity facts too. That *something it is like to be her* persists is suggestive of continuity of the conscious subject through radical cognitive change, though it does not settle the identity question alone.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The "simplest" explanation—neurons die, therefore consciousness fades proportionally—conflicts with the evidence. Emotional persistence, musical responsiveness, and terminal lucidity all complicate the proportional-reduction story. Parsimony should not override empirical observation, and in this domain the observations favour a more complex relationship between brain and consciousness than production models provide.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The "simplest" explanation—neurons die, therefore consciousness fades proportionally—fits the evidence poorly. Emotional persistence, musical responsiveness, and terminal lucidity all complicate the proportional-reduction story. Parsimony should not override observation, but these observations rule out only the naive proportional story, not production models that locate phenomenal presence in late-affected structures.
 
 ## Further Reading
 

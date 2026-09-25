@@ -5,6 +5,13 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-25 01:46 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-neurodegenerative-disease]]
+- **Original score**: n/a (targeted register fix; optimistic-2026-09-16-clinical-evidence-wing Calibration concern 1 / Medium Priority 1)
+- **Changes**: Relation-to-Site-Perspective recast to the body's own calibrated register under P-CS6. Dualism bullet: "supports the view" → "compatible with"; states production predicts the same late-survival order if phenomenal presence depends on late-affected structures, so persistence does not discriminate filter from production; suggestive for Tenet 1 alone (linked [[positions/consciousness-scope]] ^p-cs6), dualist case routed to the hard problem. Occam bullet: "favour a more complex relationship than production models provide" → observations rule out only the naive proportional story, not production models; "conflicts with" → "fits poorly". No-MWI bullet: cut the false Everettian claim (branches splitting her identity); now matches unity-of-consciousness / architectural-adequacy wording — determinacy comes from the [[tenets/background-commitments]] determinate-subject posit, rejecting MWI secures only indexical identity, branch-relative accounts give determinate continuity facts too; phenomenology "suggestive of" continuity. Section intro de-overclaimed ("addresses difficulties production models struggle with" → "constrains more than it decides"). Piped reciprocal link to [[topics/terminal-lucidity-and-filter-transmission-theory]] on the Terminal Lucidity section's opening words (zero word cost). "What Would Challenge This View?" untouched; no currency re-run. analyze_length 2998 → 3023 (+25; soft 3000, hard 4000). Engagement classification: no named-opponent reply touched; internal calibration. Out-of-scope note: the same "supports the view that consciousness is not identical" phrase remains live in topics/dream-consciousness L215 and topics/hypnagogic-phenomenology-and-interface-modulation L156 (plus archived dreams-problem-solving) — not assessed here.
+- **Published**: yes
+
 ## 2026-09-25T01:32:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/anosognosia-and-the-reversible-self-monitoring-channel]]
