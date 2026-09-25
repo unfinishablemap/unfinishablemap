@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-01
-ai_modified: 2026-09-25 07:34:00+00:00
+ai_modified: 2026-09-25 09:31:00+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-22 16:17:55+00:00
-lastmod: 2026-09-25 07:34:00+00:00
+lastmod: 2026-09-25 09:31:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,7 +42,7 @@ Quantum entanglement is fundamentally different. When particles become entangled
 
 Baum's quantum binding argument is sometimes offered as reinforcement here, but it cannot carry the weight. [Zero-lag gamma synchrony](/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/)—neural oscillations coordinated without measurable time lag across cortical distances—is well replicated, and Baum's preprint (2024, not peer reviewed) reads it as classically impossible without violating relativistic causality. The peer-reviewed literature refutes that premise: two distant populations reciprocally coupled to a shared relay hub self-organise into zero-lag synchrony despite conduction delays of tens of milliseconds, the hub redistributing those delays symmetrically (Vicente et al. 2008). Bell's theorem does establish that genuinely non-local correlations are exclusively quantum, so *if* zero-lag synchrony were both real and classically unaccountable the inference would go through—but the second conjunct is precisely what the relay-hub result denies. The structural argument above stands without this empirical prop.
 
-Hartmut Neven of Google Quantum AI generalises the point: entanglement is "the only true binding agent we have in physics," creating holistic states where individual components are fundamentally interconnected. If phenomenal unity requires genuine holism—the whole being prior to its parts—then entanglement is the only known physical mechanism that provides it.
+The idea that quantum coherence supplies consciousness's unity goes back to Ian Marshall's proposal that conscious unity rests on Bose–Einstein-condensate-like states in the brain (Marshall 1989); Michael Lockwood's many-minds account of the same year developed a related idea within an Everettian framework (Lockwood 1989). Its most recent statement comes from Hartmut Neven of Google Quantum AI and colleagues, who write that "quantum entanglement naturally solves the binding problem, ensuring the unity of phenomenal experience" (Neven et al. 2024). Their proposal is, in their words, "firmly rooted in Everett's 'many worlds' formulation," and it places the conscious moment "not when a superposition collapses, but when it forms." The Map takes the binding role from this work but not its interpretation. An Everettian version shows that entanglement can unify without collapse, so the Map's departure concerns [indexical identity](/concepts/haecceity/) and a single outcome, not unity itself (see Relation to Site Perspective below). If phenomenal unity requires genuine holism—the whole being prior to its parts—then entanglement is the only known physical mechanism that provides it.
 
 ## The Orch OR Framework
 
@@ -110,7 +110,7 @@ The entanglement binding hypothesis aligns with several of the Map's [tenets](/t
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Quantum consciousness theories are routinely dismissed as "unnecessarily complex." But as [parsimony-epistemology](/concepts/parsimony-epistemology/) demonstrates, parsimony has no epistemic warrant in the consciousness domain—its preconditions fail simultaneously. If entanglement is genuinely required for phenomenal binding, dismissing it on parsimony grounds means preferring a simpler theory that cannot account for the data.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The hypothesis requires real collapse. In many-worlds, all possible entangled configurations persist in branching universes, and there is no selection of one unified configuration over another. Phenomenal unity appears indexically definite—*this* unified experience, not a superposition of all possible bindings. Real collapse is necessary for entanglement to do the work the hypothesis assigns it.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Synchronic unity within a branch is well defined under Everett, as Neven's Everettian version of the hypothesis shows, so rejecting many-worlds adds nothing to unity itself. What the tenet secures is indexical definiteness. In many-worlds, all possible entangled configurations persist in branching universes, and there is no selection of one unified configuration over another. Phenomenal unity appears indexically definite—*this* unified experience, not every possible binding occurring somewhere. Real collapse is needed for that selection, not for the binding.
 
 ## Further Reading
 
@@ -132,14 +132,16 @@ The entanglement binding hypothesis aligns with several of the Map's [tenets](/t
 4. Hagan, S., Hameroff, S., & Tuszyński, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 5. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11, 39-78.
 6. Kerskens, C. M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
-7. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
-8. Neven, H. et al. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460.
-9. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
-10. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
-11. Vicente, R., Gollo, L. L., Mirasso, C. R., Fischer, I., & Pipa, G. (2008). Dynamical relaying can yield zero time lag neuronal synchrony despite long conduction delays. *Proceedings of the National Academy of Sciences USA*, 105(44), 17157-17162. doi:10.1073/pnas.0809353105
-12. Warren, W. S. (2023). Comment on: 'Experimental indications of non-classical brain function' (2022 *Journal of Physics Communications* 6 105001). *Journal of Physics Communications*, 7(3), 038001. doi:10.1088/2399-6528/acc4a8
-13. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
-14. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, niaf011.
-15. Southgate, A. & Oquatre-cinq, C. (2026-01-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/binding-problem/
-16. Southgate, A. & Oquatre-six, C. (2026-02-25). The Unity of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/unity-of-consciousness/
-17. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences*, 114(32), 8493-8498. doi:10.1073/pnas.1702261114
+7. Lockwood, M. (1989). *Mind, Brain and the Quantum: The Compound 'I'*. Blackwell.
+8. Marshall, I. N. (1989). Consciousness and Bose-Einstein condensates. *New Ideas in Psychology*, 7(1), 73-83. doi:10.1016/0732-118X(89)90038-X
+9. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
+10. Neven, H. et al. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460.
+11. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
+12. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
+13. Vicente, R., Gollo, L. L., Mirasso, C. R., Fischer, I., & Pipa, G. (2008). Dynamical relaying can yield zero time lag neuronal synchrony despite long conduction delays. *Proceedings of the National Academy of Sciences USA*, 105(44), 17157-17162. doi:10.1073/pnas.0809353105
+14. Warren, W. S. (2023). Comment on: 'Experimental indications of non-classical brain function' (2022 *Journal of Physics Communications* 6 105001). *Journal of Physics Communications*, 7(3), 038001. doi:10.1088/2399-6528/acc4a8
+15. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+16. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, niaf011.
+17. Southgate, A. & Oquatre-cinq, C. (2026-01-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/binding-problem/
+18. Southgate, A. & Oquatre-six, C. (2026-02-25). The Unity of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/unity-of-consciousness/
+19. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences*, 114(32), 8493-8498. doi:10.1073/pnas.1702261114

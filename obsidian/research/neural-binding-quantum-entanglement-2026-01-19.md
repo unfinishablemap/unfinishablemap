@@ -3,7 +3,7 @@ title: "Research: Neural Binding Mechanisms and Quantum Entanglement Hypothesis"
 created: 2026-01-19
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-08-08T21:57:00+00:00
+ai_modified: 2026-09-25T09:32:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -183,7 +183,7 @@ This research examines the neural binding problem—how distributed brain proces
 
 ### Entanglement as Binding Agent
 - **Proponents**: Hartmut Neven (Google Quantum AI)
-- **Core claim**: Entanglement is the only true binding agent in physics—it creates holistic states where components are fundamentally interconnected. Proposes testing by entangling a brain with a quantum computer.
+- **Core claim**: Entanglement solves the binding problem (paper: "quantum entanglement naturally solves the binding problem, ensuring the unity of phenomenal experience"; note added 2026-09-25: the "only true binding agent" wording formerly here is NOT in the paper, and the proposal is "firmly rooted in Everett's 'many worlds' formulation")—it creates holistic states where components are fundamentally interconnected. Proposes testing by entangling a brain with a quantum computer.
 - **Key arguments**:
   - Classical physics cannot create ontological unity from plurality
   - Entanglement provides mandatory irreducible holism

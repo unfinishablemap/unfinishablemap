@@ -5,6 +5,13 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-25T09:31:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/entanglement-binding-hypothesis]] (+ [[topics/quantum-holism-and-phenomenal-unity]], 2-file task)
+- **Original score**: n/a (targeted quote-fidelity fix from outer review 2026-09-25, ChatGPT+Claude convergent)
+- **Changes**: Removed the phantom Neven quote "only true binding agent (we have) in physics" at both loci. Verified against the raw Europe PMC full-text XML of PMC11203236 (string match): replacement quote "quantum entanglement naturally solves the binding problem, ensuring the unity of phenomenal experience" (abstract), plus stance quotes "firmly rooted in Everett's 'many worlds' formulation" and "not when a superposition collapses, but when it forms". Concepts page: added Marshall 1989 (*New Ideas in Psychology* 7(1):73-83, doi verified via Crossref) as originator of the quantum-coherence-for-unity argument and Lockwood 1989 as its Everettian many-minds development (both added to References, renumbered); stated the Map's departure as indexical identity/single outcome, not unity. Also rewrote the concepts page's No-MWI paragraph, which said "real collapse is necessary for entanglement to do the work" and contradicted both the Neven disclosure and sibling b8d991f2; it now says collapse is needed for selection, not binding. Quantum-holism: Neven sentence recast length-neutrally (-5 words; now 3,990/4,000), replacing the "likewise reflects this interpretive commitment" tail; the factorisation paragraph and the improper-mixture sentence were not touched. ai_system held; ai_modified bumped only. Hugo synced; 0 live hits for "only true binding agent" (remaining hits are in archive/ and research/ only).
+- **Published**: yes
+
 ## 2026-09-25T09:30:00+00:00 - check-tenets
 - **Status**: Warnings
 - **Files checked**: 85 (delta sweep: every content file edited since check 138), plus 42 carried loci probed for repair

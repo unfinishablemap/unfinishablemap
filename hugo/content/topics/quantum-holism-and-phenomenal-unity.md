@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-09-25 08:17:38+00:00
+ai_modified: 2026-09-25 09:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 19:47:42+00:00
-lastmod: 2026-09-25 08:17:38+00:00
+lastmod: 2026-09-25 09:31:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -97,7 +97,7 @@ Leibniz's point is not that unity is invisible. It is that the *type* of thing p
 
 Classical physics provides only external relations. Quantum mechanics provides something else: entanglement.
 
-When quantum systems become entangled, they form a whole with properties that neither part possesses individually. The entangled system cannot be decomposed into the states of its components—formally, the joint state is non-separable. On the Map's collapse-realist reading, this non-separability amounts to ontological unity rather than mere correlation; statistical, relational, and Everettian interpretations accept the same non-separability without granting metaphysical oneness, so the step from formalism to "one thing" is an interpretive commitment, not a datum of physics. Hartmut Neven of Google Quantum AI conjectures (Neven et al. 2024) that entanglement is the only true binding agent in physics—that classical physics can correlate separate things but cannot make them one—which likewise reflects this interpretive commitment, not the formalism alone.
+When quantum systems become entangled, they form a whole with properties that neither part possesses individually. The entangled system cannot be decomposed into the states of its components—formally, the joint state is non-separable. On the Map's collapse-realist reading, this non-separability amounts to ontological unity rather than mere correlation; statistical, relational, and Everettian interpretations accept the same non-separability without granting metaphysical oneness, so the step from formalism to "one thing" is an interpretive commitment, not a datum of physics. Neven et al. (2024) hold that "quantum entanglement naturally solves the binding problem," in a proposal "firmly rooted in Everett's 'many worlds' formulation"; the Map borrows the binding role and departs over indexical identity, not unity.
 
 Entanglement also supplies no boundary. It is defined only relative to a chosen tensor-product factorisation (Zanardi, Lidar & Lloyd 2004), and decoherence is itself entanglement with the environment, so nothing in the formalism says why a brain subcomplex rather than brain-plus-environment counts as the unified whole; unconstrained, entanglement-based unity drifts toward cosmopsychism and the [combination-problem](/concepts/combination-problem/). The Map concedes it has no subject-pairing law ([subject-census](/positions/subject-census/)).
 
