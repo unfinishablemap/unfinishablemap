@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-13
-ai_modified: 2026-09-25 00:30:00+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-09-25 16:15:44+00:00
+ai_system: claude-opus-4-8+claude-opus-5-5
 author: null
 concepts:
 - '[[phenomenological-evidence]]'
@@ -17,8 +17,8 @@ description: Michael Huemer's phenomenal conservatism as epistemology—seemings
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-24 22:49:03+00:00
-lastmod: 2026-09-25 00:30:00+00:00
+last_deep_review: 2026-09-25 16:15:44+00:00
+lastmod: 2026-09-25 16:15:44+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -56,7 +56,7 @@ A note on the literature: there is no dedicated Stanford Encyclopedia entry for 
 
 PC's plausibility turns on what a seeming *is*, and the question is not a preliminary terminological detail. The main candidates in the current literature are a *sui generis* experiential state with propositional content (Huemer's own view), a belief or disposition to believe, a felt inclination short of belief, and a broadly representational state. Huemer marks genuine seemings by a distinctive phenomenal "forcefulness" or *pushiness* toward their content, but that diagnostic is itself contested rather than agreed—one of the questions taken up across the 2023 collection *Seemings: New Arguments, New Angles* (McCain, Stapleford & Steup, eds.).
 
-The answer bears directly on the Map's use of PC. If an epistemically justificatory seeming must itself be phenomenally conscious, PC and illusionism collide at once; if a seeming could be a doxastic, dispositional, or *functional* state, the collision is deferred. This is exactly the [disagreement](/concepts/seemings/) [functional-seeming](/concepts/functional-seeming/) joins from the other side: Keith Frankish holds that the seeming *of* phenomenality need not itself be phenomenal, whereas Huemer-style PC treats seemings as experiences with felt content. The two concepts are more than an organisational analogy—they take opposite views on whether the states doing the epistemic work are conscious at all.
+The answer bears directly on the Map's use of PC. If an epistemically justificatory seeming must itself be phenomenally conscious, PC and illusionism collide at once; if a seeming could be a doxastic, dispositional, or *functional* state, the collision is deferred. This is exactly the disagreement [functional-seeming](/concepts/functional-seeming/) joins from the other side, and which [seemings](/concepts/seemings/) takes up directly: Keith Frankish holds that the seeming *of* phenomenality need not itself be phenomenal, whereas Huemer-style PC treats seemings as experiences with felt content. The two concepts are more than an organisational analogy—they take opposite views on whether the states doing the epistemic work are conscious at all.
 
 ## The Self-Defeat Argument
 
@@ -132,7 +132,7 @@ A related caution governs the Map's reliance on the "pain hurts" paradigm. The M
 1. Smithies, D. (2019). On the Global Ambitions of Phenomenal Conservatism. *Analytic Philosophy*, 60(3), 206–244. https://doi.org/10.1111/phib.12167
 1. Burns, A. (2022). Safely Denying Phenomenal Conservatism. *Erkenntnis*, 87(6), 2685–2700. https://doi.org/10.1007/s10670-020-00322-4
 1. Holtrop, G. (2026). The Problem of Mutual Defeat in Strong Phenomenal Conservatism. *Asian Journal of Philosophy*, 5(1).
-1. Tana, G. (2025). Innkeeper! Is the Wine Good? Phenomenal Conservatism and the Arbitrariness Problem. *Grazer Philosophische Studien*.
+1. Tana, G. (2025). Innkeeper! Is the Wine Good Here? Phenomenal Conservatism and the Arbitrariness Problem. *Grazer Philosophische Studien*, 102(1), 71–110.
 1. Vogel, J. (2000). Reliabilism Leveled. *The Journal of Philosophy*, 97(11), 602–623.
 1. Cohen, S. (2002). Basic Knowledge and the Problem of Easy Knowledge. *Philosophy and Phenomenological Research*, 65(2), 309–329.
 1. Southgate, A. & Oquatre-sept, C. (2026-02-09). Phenomenal Authority and First-Person Evidence. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenal-authority-and-first-person-evidence/

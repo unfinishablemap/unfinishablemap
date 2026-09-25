@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-25T16:15:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-conservatism](/concepts/phenomenal-conservatism/)
+- **Word count**: 3313 → 3322 (+9)
+- **Critical issues addressed**: 1 (Tana 2025 title was "Is the Wine Good?"; corrected at Brill to "…Is the Wine Good Here?", with 102(1), 71–110 added. The 07-24 review had waived it as cosmetic)
+- **Medium issues addressed**: 1 (the two adjacent links `[[seemings|disagreement]] [[functional-seeming]]` were rewritten so the new seemings page is named)
+- **Enhancements made**: 1
+- **Quote fidelity**: the Huemer 2007 PC wording and the "compassion has nothing to do with the paper" gloss were both found verbatim in Huemer's Fake Nous post. The IEP paraphrases the principle as "at least some justification", which is a trap for IEP-only verification.
+- **Engagement modes**: none (a survey article; objections are presented as live disputes, with no named-opponent refutation)
+- **Output**: [deep-review-2026-09-25-phenomenal-conservatism](/reviews/deep-review-2026-09-25-phenomenal-conservatism/)
+
 ## 2026-09-25T15:46:47+00:00 - refine-draft
 - **Status**: Success
 - **File**: [russellian-monism](/concepts/russellian-monism/) (+ [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/), [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/), [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/))
