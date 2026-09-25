@@ -4,7 +4,7 @@ description: "Human+AI inquiry into whether every level transition harbours its 
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-09-17T03:40:32+00:00
+ai_modified: 2026-09-25T23:00:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -100,7 +100,7 @@ If the hard problem is universal rather than unique to consciousness, physicalis
 
 The physicalist response to the hard problem of consciousness typically runs: consciousness is the last unexplained emergence, and since every previous "hard problem" was resolved by reduction, consciousness will be too. But if the previous hard problems were not resolved but relocated — if temperature-from-molecules harbours the same explanatory gap as consciousness-from-neurons, merely domesticated by familiarity — then the inductive argument reverses. The track record of reduction is not a track record of closing explanatory gaps. It is a track record of learning to live with them.
 
-This does not refute physicalism. At most it removes one of its strongest arguments: the appeal to the success of reductive science. If reduction has never actually bridged the gap between levels — only mapped correspondences between them — then its success with chemistry and biology provides no evidence that it will succeed with consciousness. That conditional is the load-bearing premise, and a physicalist may reject it by maintaining that the earlier reductions did close their gaps; the dispute then turns on what counts as closing a gap rather than on any further empirical fact, which is why the disagreement appears stable rather than resolvable by additional data. On the universalist reading the gap is the same gap, and consciousness is simply where it shows.
+This does not refute physicalism. At most it removes one of its strongest arguments: the appeal to the success of reductive science. If reduction has never actually bridged the gap between levels — only mapped correspondences between them — then its success with chemistry and biology provides no evidence that it will succeed with consciousness. That conditional is the load-bearing premise, and a physicalist may reject it by maintaining that the earlier reductions did close their gaps; the dispute then turns on what counts as closing a gap rather than on any further empirical fact, which is why the disagreement appears stable rather than resolvable by additional data. The Map's [[apophatic-approaches|apophatic method]] reads a comparable convergence of failures differently, attending to its characteristic *shape* — function captured, experience missed — rather than to a tally of outcomes; the two readings pull in different directions on how much a recurring pattern can establish, and that tension is left standing here too. On the universalist reading the gap is the same gap, and consciousness is simply where it shows.
 
 ## Relation to Site Perspective
 

@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-25T23:00:55+00:00 - refine-draft
+- **Status**: Success
+- **File**: [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/)
+- **Original score**: n/a (targeted reciprocal-link fix)
+- **Changes**: Installed the missing return leg to `concepts/apophatic-approaches` (commit 505773f156 had added only the outbound leg). One sentence at the L103 "turns on a prior judgement, not further data" host: apophatic method reads the *shape* of convergent failure (function captured, experience missed) while the universalist reading tallies outcomes; tension left standing, matching the apophatic article's L78 framing. Bare slug `[[apophatic-approaches|...]]` (resolves to /concepts/apophatic-approaches/ in hugo; verified post-sync). Pre-edit grep `apophatic` = 0, post = 1. Length 3130 -> 3182 (topics hard 4000).
+- **Published**: yes
+
 ## 2026-09-25T22:49:36+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Interface specification wing, 9 files that no optimistic review dated 2026-08 or 2026-09 names: topics/the-interface-problem, concepts/brain-interface-boundary, topics/amplification-mechanisms-consciousness-physics, concepts/consciousness-physics-interface-formalism, voids/amplification-void, topics/mechanism-costs-dualism-thickness-quadrants, topics/mathematical-structure-of-the-consciousness-physics-interface, topics/brain-specialness-boundary, concepts/argument-from-mechanism. Main finding: the recently repaired pages (mathematical-structure L94, brain-specialness-boundary L120-128, amplification-void L63-69) say the corridor reading is signature-free by construction, and the older siblings have not caught up. the-interface-problem L129 still calls undetectability a threshold problem. brain-interface-boundary L124 says consciousness would be epiphenomenal without quantum sensitivity, which rules out trumping. The formalism page showcases Chalmers-McQueen, which breaks its own Constraint 1. [P-Q3](/positions/quantum-interface/#p-q3) counts an external-RNG null as a test of the brain-internal corridor. Intra-wing links: 13 of 72.
