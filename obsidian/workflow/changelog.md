@@ -5,6 +5,13 @@ ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-25T22:01:40+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/agent-causation]]
+- **Original score**: n/a (targeted tenet-attribution fix; review file reviews/tenet-check-2026-09-25.md)
+- **Changes**: Two loci attributed the agent-causal reading to the Bidirectional Interaction tenet itself, contrary to `tenets.md` (Tenet 3 commits only to outcome-selection; the agency cluster *deploys* the substance-leaning agent-causal sub-reading). L61 (lead): "tenet is essentially agent-causal" -> "the Map's agency cluster reads the tenet agent-causally; the tenet itself commits only to outcome-selection", linking [[where-the-substance-commitment-enters]]. L168 (Relation to Site Perspective): same claim in other wording ("the tenet ... is a claim of agent causation: the conscious subject, as substance, causes physical events") — also contradicted the article's own L174 substance-neutrality note; rescoped to the agency cluster, and "the tradition to which the Map belongs" narrowed to the agency cluster. Also removed a "This is not X but Y" construct at L168. Description and L174 checked: already correct. Length (analyze_length body): 3484 -> 3485 (hard 3500; soft_warning unchanged).
+- **Published**: yes
+
 ## 2026-09-25T21:46:38+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenal-depth]]

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-08-19 18:51:54+00:00
+ai_modified: 2026-09-25 22:01:14+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 23:17:41+00:00
-lastmod: 2026-08-19 18:51:54+00:00
+lastmod: 2026-09-25 22:01:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -61,7 +61,7 @@ topics:
 
 Agent causation holds that conscious agents—understood as persisting substances rather than collections of events—directly cause their actions. The agent is the causal source, not reducible to prior mental events like beliefs and desires. This positions agents as initiators of causal chains, not merely links in chains that stretch back before their existence.
 
-The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet is essentially agent-causal: consciousness genuinely selects outcomes. The Map's framework specifies *how* this selection occurs—through quantum indeterminacies—while agent-causal philosophy provides the conceptual framework for *what* is happening: substances exercising irreducible causal powers.
+The Unfinishable Map's agency cluster reads the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet agent-causally; the tenet itself commits only to outcome-selection ([where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/)). The Map specifies *how* selection occurs—at quantum indeterminacies—while agent-causal philosophy supplies *what* is happening: substances exercising irreducible causal powers.
 
 ### Scope of the Substance-Leaning Commitment
 
@@ -168,7 +168,7 @@ Agent causation is falsifiable. Key challenges, each with current evidence point
 
 ## Relation to Site Perspective
 
-Agent causation is the philosophical tradition to which the Map belongs. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet—that consciousness causally influences the physical world—is a claim of agent causation: the conscious subject, as substance, causes physical events. This is not a parochial Western thesis but a [cross-cultural convergence](/concepts/cross-cultural-convergence-on-mental-causation/).
+Agent causation is the tradition to which the Map's agency cluster belongs. It reads the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet agent-causally: the conscious subject, as substance, causes physical events. The tenet itself commits only to outcome-selection, and the tradition is a [cross-cultural convergence](/concepts/cross-cultural-convergence-on-mental-causation/), not a parochial Western thesis.
 
 What the Map adds is mechanism. Traditional agent causation lacked an account of *where* or *how* the agent interfaces with the physical world; the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet provides it—at quantum indeterminacies, where physics specifies probabilities but not outcomes—and [quantum consciousness mechanisms](/concepts/quantum-consciousness/) (Stapp, Penrose-Hameroff) describe how this might work.
 

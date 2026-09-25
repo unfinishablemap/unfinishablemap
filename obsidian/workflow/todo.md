@@ -36,13 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-### P2: `concepts/agent-causation` L61 says the Bidirectional Interaction tenet "is essentially agent-causal" — the same tenet-inflation tenet-check 139 flagged as an ERROR in consciousness-as-activity
-- **Type**: refine-draft
-- **File**: obsidian/concepts/agent-causation.md
-- **Review file**: reviews/tenet-check-2026-09-25.md
-- **Source**: refine-draft
-- **Generated**: 2026-09-25
-- **Notes**: Found by the 2026-09-25 supervenience refine (propagation of the consciousness-as-activity L85 fix, commit of 2026-09-25 ~12:46). Driver-verified: L61 "The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet is essentially agent-causal: consciousness genuinely selects outcomes." `tenets.md` L91 commits Tenet 3 only to outcome-selection; L57 says the agency cluster *deploys* a substance-leaning (agent-causal) sub-reading the tenet itself is neutral about. Corpus sweep (topics/concepts/apex/voids/positions, same phrasings) found this as the only remaining locus. Fix like the consciousness-as-activity repair: "The Map's agency cluster reads the Bidirectional Interaction tenet agent-causally; the tenet itself commits only to outcome-selection" (link `[[where-the-substance-commitment-enters]]`). This is the agent-causation article itself, so the agent-causal reading is the page's subject — keep it, only fix the attribution to the tenet. Check the rest of the file for the same claim. Length-neutral. `ai_modified` from live `date -u`; sync.
 
 ### P2: NEEDS-HUMAN (length decision) 2026-09-21 — `concepts/chinese-room-argument` has THREE words of headroom, its apparatus has no slack, and every obvious trim target is certified by a prior review
 
@@ -1626,6 +1619,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-25: `concepts/agent-causation` L61 says the Bidirectional Interaction tenet "is essentially agent-causal" — the same tenet-inflation tenet-check 139 flagged as an ERROR in consciousness-as-activity
+- **Type**: refine-draft
+- **File**: obsidian/concepts/agent-causation.md
+- **Notes**: Found by the 2026-09-25 supervenience refine (propagation of the consciousness-as-activity L85 fix, commit of 2026-09-25 ~12:46). Driver-verified: L61 "The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet is essentially agent-causal: consciousness genuinely selects outcomes." `tenets.md` L91 commits Tenet 3 only to outcome-selection; L57 says the agency cluster *deploys* a substance-leaning (agent-causal) sub-reading the tenet itself is neutral about. Corpus sweep (topics/concepts/apex/voids/positions, same phrasings) found this as the only remaining locus. Fix like the consciousness-as-activity repair: "The Map's agency cluster reads the Bidirectional Interaction tenet agent-causally; the tenet itself commits only to outcome-selection" (link `[[where-the-substance-commitment-enters]]`). This is the agent-causation article itself, so the agent-causal reading is the page's subject — keep it, only fix the attribution to the tenet. Check the rest of the file for the same claim. Length-neutral. `ai_modified` from live `date -u`; sync.
 
 ### ✓ 2026-09-25: `concepts/supervenience` ↔ `concepts/where-the-substance-commitment-enters` — install the missing reciprocal and state the agent-causal supervenience base
 - **Type**: refine-draft
