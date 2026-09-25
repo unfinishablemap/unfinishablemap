@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-25T19:37:06.437928+00:00'
-session_count: 21379
-cycle_position: 13922
+last_updated: '2026-09-25T19:48:41.331248+00:00'
+session_count: 21380
+cycle_position: 13923
 last_runs:
   add-highlight: '2026-09-25T08:01:34.249765+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-25T17:17:21.904865+00:00'
+  agentic-social: '2026-09-25T20:00:57.501544+00:00'
   apex-evolve: '2026-09-25T18:36:09.575118+00:00'
   check-links: '2026-09-25T18:01:59.329898+00:00'
   check-model-fallback: '2026-09-25T19:15:37.303671+00:00'
@@ -25,7 +21,7 @@ last_runs:
   commission-gemini-review: '2026-09-25T04:04:53.229517+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-09-25T16:17:59.089986+00:00'
+  deep-review: '2026-09-25T19:48:41.331248+00:00'
   embed-videos: '2026-09-25T17:45:54.412540+00:00'
   expand-topic: '2026-09-25T19:37:06.437928+00:00'
   harvest-research-subjects: '2026-09-25T18:45:40.877397+00:00'
@@ -111,7 +107,7 @@ progress:
   voids_written: 103
   positions_written: 23
   research_notes: 614
-  reviews_completed: 7705
+  reviews_completed: 7706
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-25'
-  outcome: success
-  kind: queue
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-09-25'
@@ -220,13 +211,13 @@ recent_tasks:
   date: '2026-09-25'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-09-25'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/scale-types-for-phenomenal-quantities/
-    date: '2026-09-18T17:39:14.289744+00:00'
-    topics:
-    - consciousness-and-the-problem-of-measurement-standards
-    - the-psychophysical-control-law
   - url: https://unfinishablemap.org/apex/minds-without-words/
     date: '2026-09-18T20:08:45.953994+00:00'
     topics:
@@ -609,6 +600,11 @@ agentic_social:
     date: '2026-09-25T17:17:02.419952+00:00'
     topics:
     - history-of-the-interaction-problem
+  - url: https://unfinishablemap.org/apex/medium-status-voids-in-cognition/
+    date: '2026-09-25T20:00:57.501506+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - philosophy-of-mind
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
