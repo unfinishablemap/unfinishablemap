@@ -5,6 +5,16 @@ ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-25T23:49:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/sorkin-delta-brain-internal-analogues]]
+- **Word count**: 2443 → 2532 (+89)
+- **Critical issues addressed**: 2. (a) The Orch-OR paragraph claimed an OR brain could carry a non-zero Sorkin third-order residue. The formal Diósi-Penrose dynamics is a linear master equation, so I₃ = 0 there too, which is the same error shape today's refine-draft fixed for Zeno. Rewritten, with the pattern and RSP paragraphs realigned. (b) The "seventh falsifier" was credited to Stapp but belongs to the Map's stapp-quantum-mind entry.
+- **Medium issues addressed**: 0 (the uncited RNG δ ceiling is deferred as low)
+- **Enhancements made**: 1
+- **Follow-up**: P2 refine-draft minted for the same error at `topics/brain-internal-born-rule-testing` L102
+- **Output**: [[reviews/deep-review-2026-09-25-sorkin-delta-brain-internal-analogues]]
+
 ## 2026-09-25T23:16:54+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-intersubjectivity]]
