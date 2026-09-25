@@ -5,6 +5,13 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-25T03:15:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/dream-consciousness]] + [[topics/hypnagogic-phenomenology-and-interface-modulation]] (two-file propagation task; both done)
+- **Original score**: n/a (targeted register fix; `scripts/curate.py` absent)
+- **Changes**: Propagated the 2026-09-25 `consciousness-and-neurodegenerative-disease` P-CS6 recast to both siblings' Relation §Dualism. dream-consciousness: "This flexibility supports the view that consciousness is not identical to any particular brain state but uses brain states as varying interfaces" → "compatible with consciousness using brain states as varying interfaces, but identity theories already map different experiences to different states, so it does not discriminate filter from production" + link [[positions/consciousness-scope#^p-cs6|P-CS6]]. hypnagogic: "which supports the view that consciousness is not identical to any particular brain configuration" → "compatible with a loosening interface, though identity theories map different experiences to different configurations, so this alone does not discriminate filter from production" + same P-CS6 link; the following disinhibition-production sentence kept as-is. Near length-neutral: +9w / +12w; analyze_length 3882 / 3902 (topics soft 3000, hard 4000). Engagement classification: identity theory, Mode Three downgrade (the old inference implied an in-framework refutation that type/process identity does not face; now marked non-discriminating). Archived `archive/topics/dreams-problem-solving-and-consciousness.md` deliberately left untouched (archive policy pending human decision). Post-sync grep for "supports the view that consciousness is not identical": 0 in live obsidian and hugo content sections; new wording present in both hugo files.
+- **Published**: yes
+
 ## 2026-09-25T02:00:00+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline, no merge). **18th consecutive**, the steady-state outcome per the candidate-pool memory.
 - **Section pressure** (live `tools.evolution.state.count_section_files`): topics 331/360 (includes the `non-temporal-consciousness.refinement-log` sidecar), concepts 329/360, voids 103/115. None critical.

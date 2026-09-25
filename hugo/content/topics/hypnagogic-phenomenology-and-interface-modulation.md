@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-08-24 19:47:00+00:00
+ai_modified: 2026-09-25 03:15:53+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5
 anchoring_audit_exempt: true
 author: null
@@ -30,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 02:46:23+00:00
-lastmod: 2026-08-24 19:47:00+00:00
+lastmod: 2026-09-25 03:15:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -156,7 +156,7 @@ The graded-interface interpretation of hypnagogia would face difficulty if:
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: Hypnagogia shows consciousness operating under progressively different conditions as its interface with the brain loosens. Vivid phenomenal experience persists while neural organisation shifts from waking to sleep patterns, which supports the view that consciousness is not identical to any particular brain configuration. If consciousness were produced by waking-pattern activity, its enhancement during the transition would be surprising—though disinhibition supplies a production-side answer, so the difficulty presses naive production models rather than production models generally.
+**[Dualism](/tenets/#dualism)**: Hypnagogia shows consciousness operating under progressively different conditions as its interface with the brain loosens. Vivid phenomenal experience persists while neural organisation shifts from waking to sleep patterns, which is compatible with a loosening interface, though identity theories map different experiences to different configurations, so this alone does not discriminate filter from production ([P-CS6](/positions/consciousness-scope/#p-cs6)). If consciousness were produced by waking-pattern activity, its enhancement during the transition would be surprising—though disinhibition supplies a production-side answer, so the difficulty presses naive production models rather than production models generally.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The sequential disengagement maps onto the [coupling-modes](/concepts/coupling-modes/) framework: if consciousness influences neural activity through basis selection and timing control, their withdrawal at sleep onset is a systematic narrowing of the interaction channel. The Map speculates that quantum-level selection continues in attenuated form during light sleep, consistent with the micro-awakenings that briefly restore interface function.
 

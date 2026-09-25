@@ -10,6 +10,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-25T03:15:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [dream-consciousness](/topics/dream-consciousness/) + [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) (two-file propagation task; both done)
+- **Original score**: n/a (targeted register fix; `scripts/curate.py` absent)
+- **Changes**: Propagated the 2026-09-25 `consciousness-and-neurodegenerative-disease` [P-CS6](/positions/consciousness-scope/#p-cs6) recast to both siblings' Relation §Dualism. dream-consciousness: "This flexibility supports the view that consciousness is not identical to any particular brain state but uses brain states as varying interfaces" → "compatible with consciousness using brain states as varying interfaces, but identity theories already map different experiences to different states, so it does not discriminate filter from production" + link [P-CS6](/positions/consciousness-scope/#p-cs6). hypnagogic: "which supports the view that consciousness is not identical to any particular brain configuration" → "compatible with a loosening interface, though identity theories map different experiences to different configurations, so this alone does not discriminate filter from production" + same [P-CS6](/positions/consciousness-scope/#p-cs6) link; the following disinhibition-production sentence kept as-is. Near length-neutral: +9w / +12w; analyze_length 3882 / 3902 (topics soft 3000, hard 4000). Engagement classification: identity theory, Mode Three downgrade (the old inference implied an in-framework refutation that type/process identity does not face; now marked non-discriminating). Archived `archive/topics/dreams-problem-solving-and-consciousness.md` deliberately left untouched (archive policy pending human decision). Post-sync grep for "supports the view that consciousness is not identical": 0 in live obsidian and hugo content sections; new wording present in both hugo files.
+- **Published**: yes
+
+## 2026-09-25T02:00:00+00:00 - coalesce
+- **Status**: Abandoned (reasoned decline, no merge). **18th consecutive**, the steady-state outcome per the candidate-pool memory.
+- **Section pressure** (live `tools.evolution.state.count_section_files`): topics 331/360 (includes the `non-temporal-consciousness.refinement-log` sidecar), concepts 329/360, voids 103/115. None critical.
+- **Pool movement since the 2026-09-24T17:01 run: four additions, zero removals** (`git log --since=2026-09-24T16:55 --diff-filter=AD` over topics/concepts/voids/apex): `concepts/cognitive-penetration` (created 09-24), `concepts/seemings`, `topics/anosognosia-and-the-reversible-self-monitoring-channel`, `topics/sham-controlled-neurofeedback-and-the-consciousness-comparator` (all created 09-25). All four are under a day old, so the age floor excludes them. None has a same-subject live sibling except `concepts/seemings`.
+- **Closest pair screened: `concepts/seemings` (2423w raw) with `concepts/functional-seeming` (1748w) and `concepts/phenomenal-conservatism` (3323w). DECLINE.** `seemings` was built as the page that adjudicates between the other two. Its own L32 says: "Each of those pages hands the question to the other. This page takes it up directly." That makes it a hub over two base pages, one on Huemer's epistemology and one on Frankish's analysis, so merging would erase the split the new page was written to handle. Either merged pair exceeds the concepts ceiling on raw count (about 4170w and about 5750w).
+- **No other pool movement.** Re-running the earlier screens (TF-IDF, length-first, shared ancestry, title-family, cross-section) would only re-argue pairs declined on 09-21, 09-23 and 09-24.
+- **Sources / Target / Archived**: none.
+- **References to review**: none.
+
 ## 2026-09-25 01:46 UTC - refine-draft
 - **Status**: Success
 - **File**: [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/)

@@ -4,7 +4,7 @@ description: "Dreams provide the most accessible everyday evidence for the filte
 created: 2026-01-21
 modified: 2026-02-23
 human_modified: null
-ai_modified: 2026-09-16T07:53:52+00:00
+ai_modified: 2026-09-25T03:15:53+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -212,7 +212,7 @@ The Map's interpretation of dream consciousness would face difficulty if:
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]**: Dreams demonstrate consciousness generating experiential worlds while operating in a radically different neural configuration—prefrontal cortex largely offline, neurochemistry shifted, sensory input gated. This flexibility supports the view that consciousness is not identical to any particular brain state but uses brain states as varying interfaces.
+**[[tenets#^dualism|Dualism]]**: Dreams demonstrate consciousness generating experiential worlds while operating in a radically different neural configuration—prefrontal cortex largely offline, neurochemistry shifted, sensory input gated. This flexibility is compatible with consciousness using brain states as varying interfaces, but identity theories already map different experiences to different states, so it does not discriminate filter from production ([[positions/consciousness-scope#^p-cs6|P-CS6]]).
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Dream problem-solving provides suggestive evidence that consciousness contributes causally to cognitive outcomes. Lucid dreaming provides direct evidence: the dreamer's conscious intention causes changes in the experiential world, demonstrable through pre-agreed laboratory tasks.
 

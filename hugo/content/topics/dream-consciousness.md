@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-09-16 07:53:52+00:00
+ai_modified: 2026-09-25 03:15:53+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 coalesced_from:
@@ -52,7 +52,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 04:39:14+00:00
-lastmod: 2026-09-16 07:53:52+00:00
+lastmod: 2026-09-25 03:15:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -216,7 +216,7 @@ The Map's interpretation of dream consciousness would face difficulty if:
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: Dreams demonstrate consciousness generating experiential worlds while operating in a radically different neural configuration—prefrontal cortex largely offline, neurochemistry shifted, sensory input gated. This flexibility supports the view that consciousness is not identical to any particular brain state but uses brain states as varying interfaces.
+**[Dualism](/tenets/#dualism)**: Dreams demonstrate consciousness generating experiential worlds while operating in a radically different neural configuration—prefrontal cortex largely offline, neurochemistry shifted, sensory input gated. This flexibility is compatible with consciousness using brain states as varying interfaces, but identity theories already map different experiences to different states, so it does not discriminate filter from production ([P-CS6](/positions/consciousness-scope/#p-cs6)).
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Dream problem-solving provides suggestive evidence that consciousness contributes causally to cognitive outcomes. Lucid dreaming provides direct evidence: the dreamer's conscious intention causes changes in the experiential world, demonstrable through pre-agreed laboratory tasks.
 
