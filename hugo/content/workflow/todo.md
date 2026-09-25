@@ -39,14 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `topics/consciousness-as-activity` L85 says the Bidirectional Interaction tenet "requires" agent-causal selection — fabricated tenet content (tenet-check 139 ERROR)
-- **Type**: refine-draft
-- **File**: obsidian/topics/consciousness-as-activity.md
-- **Review file**: reviews/tenet-check-2026-09-25.md
-- **Source**: check-tenets
-- **Generated**: 2026-09-25
-- **Notes**: Tenet-check 139 priority 1 (§Summary 4). L85 "**Agent-dependence.**" paragraph: "the [agent-causal selection](/concepts/agent-causation/) the Bidirectional Interaction tenet requires needs a selector that persists across its selections" (grep-verified 2026-09-25). `tenets.md` L91 commits Tenet 3 only to outcome-selection; L57 says the agency cluster *deploys* a substance-leaning sub-reading that the tenet itself is neutral about. Installed by commit 1524a5a7 (a repair). Fix is one clause, e.g. "the agent-causal reading the Map's agency cluster adopts needs a selector that persists…". Also grep the file for any other statement that the tenet requires agent causation (the report's partial-repair pattern: fix the CLAIM, not just the sentence). Length: 2,996 / 4,000 (ok). Tenet alignment: Tenet 3 scope must not be overstated.
-
 ### P2: `topics/animal-consciousness` L192 imports Tenet 3 into the Occam row the dependency matrix marks *Not invoked* (tenet-check ERROR, third consecutive report)
 - **Type**: refine-draft
 - **File**: obsidian/topics/animal-consciousness.md
@@ -1718,6 +1710,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-25: `topics/consciousness-as-activity` L85 says the Bidirectional Interaction tenet "requires" agent-causal selection — fabricated tenet content (tenet-check 139 ERROR)
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-as-activity.md
+- **Notes**: Tenet-check 139 priority 1 (§Summary 4). L85 "**Agent-dependence.**" paragraph: "the [agent-causal selection](/concepts/agent-causation/) the Bidirectional Interaction tenet requires needs a selector that persists across its selections" (grep-verified 2026-09-25). `tenets.md` L91 commits Tenet 3 only to outcome-selection; L57 says the agency cluster *deploys* a substance-leaning sub-reading that the tenet itself is neutral about. Installed by commit 1524a5a7 (a repair). Fix is one clause, e.g. "the agent-causal reading the Map's agency cluster adopts needs a selector that persists…". Also grep the file for any other statement that the tenet requires agent causation (the report's partial-repair pattern: fix the CLAIM, not just the sentence). Length: 2,996 / 4,000 (ok). Tenet alignment: Tenet 3 scope must not be overstated.
 
 ### ✓ 2026-09-25: `apex/pharmacological-dissociation-as-evidence` — Class A reads report-absence as experience-absence, KCC2 "reopening" rests on a righting-reflex proxy that includes ketamine, and the "same four-component architecture" convergence is not shown
 - **Type**: refine-draft

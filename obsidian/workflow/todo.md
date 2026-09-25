@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `topics/animal-consciousness` L192 imports Tenet 3 into the Occam row the dependency matrix marks *Not invoked* (tenet-check ERROR, third consecutive report)
-- **Type**: refine-draft
-- **File**: obsidian/topics/animal-consciousness.md
-- **Review file**: reviews/tenet-check-2026-09-25.md
-- **Source**: check-tenets
-- **Generated**: 2026-09-25
-- **Notes**: Tenet-check 139 priority 2; carried ERROR from checks 137 and 138, never minted (`todo.md` L752 records it as "the only one unqueued"). L192 **Occam's Razor Has Limits** paragraph: "the plausibility tilt rests on the [[evolutionary-case-for-mental-causation|evolutionary argument for mental causation]]…" — makes the Occam alignment depend on Tenet 3 (mental causation), while the tenets dependency matrix marks Tenet 3 *Not invoked* for this cluster. Recast so the Occam paragraph stands on Occam's own grounds (simplicity unreliable under incomplete knowledge), and either drop the mental-causation dependency or mark it explicitly as a separate, contestable input rather than the ground of the tilt. **LENGTH GATE:** `analyze_length` 3,996 / 4,000 (usable ceiling 3,999) — 3 words of headroom; must be a like-for-like replacement or pay for itself. Re-measure before and after.
-
 ### P2: `concepts/causal-closure` L144 offers "lost in the statistical noise" as a Born-preservation route that `tenets.md` L75 excludes; L198 and L136 contradict tenets too
 - **Type**: refine-draft
 - **File**: obsidian/concepts/causal-closure.md
@@ -1708,6 +1700,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-25: `topics/animal-consciousness` L192 imports Tenet 3 into the Occam row the dependency matrix marks *Not invoked* (tenet-check ERROR, third consecutive report)
+- **Type**: refine-draft
+- **File**: obsidian/topics/animal-consciousness.md
+- **Notes**: Tenet-check 139 priority 2; carried ERROR from checks 137 and 138, never minted (`todo.md` L752 records it as "the only one unqueued"). L192 **Occam's Razor Has Limits** paragraph: "the plausibility tilt rests on the [[evolutionary-case-for-mental-causation|evolutionary argument for mental causation]]…" — makes the Occam alignment depend on Tenet 3 (mental causation), while the tenets dependency matrix marks Tenet 3 *Not invoked* for this cluster. Recast so the Occam paragraph stands on Occam's own grounds (simplicity unreliable under incomplete knowledge), and either drop the mental-causation dependency or mark it explicitly as a separate, contestable input rather than the ground of the tilt. **LENGTH GATE:** `analyze_length` 3,996 / 4,000 (usable ceiling 3,999) — 3 words of headroom; must be a like-for-like replacement or pay for itself. Re-measure before and after.
 
 ### ✓ 2026-09-25: `topics/consciousness-as-activity` L85 says the Bidirectional Interaction tenet "requires" agent-causal selection — fabricated tenet content (tenet-check 139 ERROR)
 - **Type**: refine-draft

@@ -5,6 +5,13 @@ ai_modified: '2026-09-24T19:04:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ---
 
+## 2026-09-25T13:01:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/animal-consciousness]]
+- **Original score**: n/a (targeted tenet-scope fix; `scripts/curate.py` absent)
+- **Changes**: Tenet-check 139 priority 2 (carried ERROR from checks 137/138; reviews/tenet-check-2026-09-25.md, 09-20 §animal-consciousness). Confirmed the `tenets.md` dependency-matrix row "Animal consciousness" marks interactionist dualism (mental causation) *Not invoked* (Occam: Optional), P-CS2 *Depends on* excludes Tenet 3, and `tenets.md` names this exact interactionism-leakage case. Fixed the claim at every locus, not just L192: (1) Occam paragraph — the plausibility tilt now rests on marker convergence plus dualism's lack of an anthropocentric barrier (P-CS2's actual grounds), and the paragraph gains Occam's own ground (no theory of which organisations experience attaches to); the evolutionary-mental-causation link is gone from it. (2) Bidirectional Interaction paragraph marked "Coherence commentary only—the case above does not rest on this tenet", ending that the argument "stays a separate, contestable input". (3) Minimal Quantum Interaction paragraph: "the animal case routes through the evolutionary argument for causal power across species" -> "rests on markers". (4) §How a Sophisticated Rival Reads the Same Evidence (L130): dropped "the evolutionary case for mental causation" from the Map's stated prior, leaving the no-anthropocentric-barrier commitment. Further Reading link to [[evolutionary-case-for-mental-causation]] kept. Length: analyze_length 3,996 before -> 3,998 after (ceiling 3,999).
+- **Published**: yes
+
 ## 2026-09-25T12:45:50+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-as-activity]]
