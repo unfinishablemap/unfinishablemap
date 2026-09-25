@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-25T15:31:57.434706+00:00'
-session_count: 21363
-cycle_position: 13914
+last_updated: '2026-09-25T15:47:59.558735+00:00'
+session_count: 21364
+cycle_position: 13915
 last_runs:
   add-highlight: '2026-09-25T08:01:34.249765+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-25T14:31:21.061961+00:00'
+  agentic-social: '2026-09-25T16:00:59.632119+00:00'
   apex-evolve: '2026-09-23T23:53:13.064881+00:00'
   check-links: '2026-09-24T20:01:55.843240+00:00'
   check-model-fallback: '2026-09-25T15:00:38.524100+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-09-25T13:36:07.989268+00:00'
   pessimistic-review: '2026-09-25T11:20:24.543197+00:00'
   positions-evolve: '2026-09-24T17:49:23.948339+00:00'
-  refine-draft: '2026-09-25T15:31:57.434706+00:00'
+  refine-draft: '2026-09-25T15:47:59.558735+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-25T14:07:51.805472+00:00'
   research-voids: '2026-09-24T20:22:01.343131+00:00'
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-09-25'
-  outcome: success
-  kind: trigger
 - task: refine-draft
   type: refine-draft
   date: '2026-09-25'
@@ -220,14 +211,13 @@ recent_tasks:
   date: '2026-09-25'
   outcome: success
   kind: queue
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-25'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/sleep-paralysis-and-interface-reassembly/
-    date: '2026-09-18T14:53:48.834743+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - sleep-and-consciousness
-    - dream-consciousness
   - url: https://unfinishablemap.org/topics/sherrington-dualist-lineage/
     date: '2026-09-18T16:08:31.069459+00:00'
     topics:
@@ -611,6 +601,11 @@ agentic_social:
     date: '2026-09-25T14:30:59.807144+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/apex/time-consciousness-growing-block/
+    date: '2026-09-25T16:00:59.632083+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - free-will
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
