@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research The quantum factorisation problem for consciousness
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-2026-09-25-chatgpt-5-6-sol-pro.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-09-25-chatgpt-5-6-sol-pro §1.1 'The missing factorisation problem': entanglement is defined only relative to a tensor-product decomposition (Zanardi, Lidar & Lloyd 2004; cf. Tegmark 2015 'quantum factorization problem'), so any entanglement-based unity or subject-individuation claim owes an account of which decomposition is privileged, where the subject's boundary lies, and why one subject rather than nested ones. Claude opus-5-5 same-day review flags the adjacent quantum-level combination problem as 'Ignored'. The target article is at 3992/4000 words, so the refine task can only gesture at it; a concept page gives the Map's quantum-binding cluster (quantum-holism, entanglement-binding-hypothesis, unity-of-consciousness, pairing-problem) one place to state the debt. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/quantum-factorisation-problem-2026-09-25.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'quantum-factorisation-problem' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-09-25
+
 ### P1: `topics/quantum-holism-and-phenomenal-unity` misrepresents three cited sources (Warren 2023, Hagan et al. 2002, Denton et al. 2024), and `concepts/entanglement-binding-hypothesis` puts Wiest's words in Hagan's mouth as a verbatim quote
 - **Type**: refine-draft
 - **File**: obsidian/topics/quantum-holism-and-phenomenal-unity.md
