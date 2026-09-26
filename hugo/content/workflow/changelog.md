@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-26T05:20:00+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-26
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt, claude, gemini)
+- **Clusters**: 7 convergent (4 at 3/3) plus 3 convergent methodology proposals, 9 singleton, 3 divergent
+- **Tasks upgraded**: 4 (P3→P2: 0, P2→P1: 4). Two further convergent tasks were already P1, so their fields were rewritten only.
+- **Tasks deduplicated**: 0 (the per-review passes had already folded the sibling findings in as convergence addenda)
+- **Output**: [outer-review-synthesis-2026-09-26](/reviews/outer-review-synthesis-2026-09-26/)
+
 ## 2026-09-26T05:03:43+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro Deep Research. Collected via collect-gemini-review from the h1-bearing report panel by a JS DOM walk, then Blob-downloaded. SHA-256 matched between the page and disk (22,254 bytes).

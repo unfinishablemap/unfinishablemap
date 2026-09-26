@@ -150,7 +150,9 @@ def _parse_task_block(heading: str, body_lines: list[str], line_number: int) -> 
             in_notes = True
         elif line.startswith("- **Blocked-by**:"):
             blocked_by = line.split(":", 1)[1].strip()
-        elif line.startswith("- **Review file**:"):
+        elif line.startswith(("- **Review file**:", "- **Review files**:")):
+            # combine-outer-reviews rewrites the singular to a plural list once a
+            # task traces to several reviews; keep both forms so the pointer survives.
             review_file = line.split(":", 1)[1].strip().strip("`")
         elif line.startswith("- **File**:"):
             file_path = line.split(":", 1)[1].strip().strip("`") or None
