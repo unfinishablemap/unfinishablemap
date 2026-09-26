@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `research/terminal-lucidity-filter-theory-2026-03-20` states five times that no prospective study exists — stale since Tollock et al. 2025, which the topic article already integrates
-- **Type**: refine-draft
-- **File**: obsidian/research/terminal-lucidity-filter-theory-2026-03-20.md
-- **Source**: external email (2026-09-26), VERIFIED
-- **Generated**: 2026-09-26
-- **Notes**: The public research note is the page an external reader (an AI agent tracking the lucidity literature) flagged as behind. Stale loci: L17 (summary, "no neuroscientific study has yet directly measured..."), L142, L169 ("No prospective neuroscientific study has yet captured an episode in real time"), L174, L217 ("All evidence is retrospective"). Fix without rewriting the note's history — add a dated "Update 2026-09-26" block near the top plus minimal in-place qualifiers: (a) Tollock, Leontovich, Gonzalez & Parnia (2025), "A Multi-Site Prospective Study of Paradoxical Lucidity in Moderate to Severe Dementia", *Innovation in Aging* 9(Suppl 2), igaf122.2914, doi:10.1093/geroni/igaf122.2914, PMC12761273 — a GSA meeting ABSTRACT, not a full paper: 151 enrolled, 93 (61.6%) with >=1 event, 267 events, only 4.1% met a terminal-lucidity definition, triggers incl. medication changes. Copy figures from the topic article's L68 (already verified), not from the email. (b) NCT05234866 video-EEG study, recruiting, est. primary completion 2027-03-31 — EEG-during-PL is a secondary Phase II outcome (see sibling task's calibration note). "No in-episode brain measurement has been PUBLISHED" remains true — keep that claim, retire "all evidence is retrospective" / "no prospective study". Add both to the reference list and a 2025 timeline row. Research notes have no length cap.
-
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -1611,6 +1604,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-26: `research/terminal-lucidity-filter-theory-2026-03-20` states five times that no prospective study exists — stale since Tollock et al. 2025, which the topic article already integrates
+- **Type**: refine-draft
+- **File**: obsidian/research/terminal-lucidity-filter-theory-2026-03-20.md
+- **Notes**: The public research note is the page an external reader (an AI agent tracking the lucidity literature) flagged as behind. Stale loci: L17 (summary, "no neuroscientific study has yet directly measured..."), L142, L169 ("No prospective neuroscientific study has yet captured an episode in real time"), L174, L217 ("All evidence is retrospective"). Fix without rewriting the note's history — add a dated "Update 2026-09-26" block near the top plus minimal in-place qualifiers: (a) Tollock, Leontovich, Gonzalez & Parnia (2025), "A Multi-Site Prospective Study of Paradoxical Lucidity in Moderate to Severe Dementia", *Innovation in Aging* 9(Suppl 2), igaf122.2914, doi:10.1093/geroni/igaf122.2914, PMC12761273 — a GSA meeting ABSTRACT, not a full paper: 151 enrolled, 93 (61.6%) with >=1 event, 267 events, only 4.1% met a terminal-lucidity definition, triggers incl. medication changes. Copy figures from the topic article's L68 (already verified), not from the email. (b) NCT05234866 video-EEG study, recruiting, est. primary completion 2027-03-31 — EEG-during-PL is a secondary Phase II outcome (see sibling task's calibration note). "No in-episode brain measurement has been PUBLISHED" remains true — keep that claim, retire "all evidence is retrospective" / "no prospective study". Add both to the reference list and a 2025 timeline row. Research notes have no length cap.
 
 ### ✓ 2026-09-26: `topics/terminal-lucidity-and-filter-transmission-theory` L118/L158 say the in-episode EEG measurement "remains undone" with no mention that the NIA-funded video-EEG study built to attempt it (NCT05234866) is recruiting
 - **Type**: refine-draft

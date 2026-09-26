@@ -39,13 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `topics/terminal-lucidity-and-filter-transmission-theory` L118/L158 say the in-episode EEG measurement "remains undone" with no mention that the NIA-funded video-EEG study built to attempt it (NCT05234866) is recruiting
-- **Type**: refine-draft
-- **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
-- **Source**: external email (2026-09-26), VERIFIED against primary records
-- **Generated**: 2026-09-26
-- **Notes**: Length binds: 3899/4000 body words — make it a substitution inside L118 (and at most a clause at L158), net <= +50. Install: the in-episode measurement is being attempted — Parnia's NYU Langone study "Paradoxical Lucidity in Severe End-Stage Dementia" (ClinicalTrials.gov NCT05234866; NIA collaborator; started 2022-06-02; RECRUITING as of the record verified 2026-07; estimated enrollment 520; estimated primary completion 2027-03-31) uses real-time video-EEG plus symptom diaries in hospice patients. CALIBRATION — do NOT overstate: the registered PRIMARY outcomes are Phase I feasibility/safety measures (vEEG set-up time, diary returns, consents); "changes in EEG rhythm during PL" is only a Phase II SECONDARY outcome, and Phase II is conditional on the PI's go decision. So write "a registered study is attempting it", not "a study will settle it"; the "remains undone" verdict stays true of published results. Tollock et al. 2025 (already cited) is from the same Parnia group — say so if it costs no words, do not claim it IS the trial's readout (unverified). Mirror in hugo/content via sync. Verified 2026-09-26 via `https://clinicaltrials.gov/api/v2/studies/NCT05234866`.
-
 ### P2: `research/terminal-lucidity-filter-theory-2026-03-20` states five times that no prospective study exists — stale since Tollock et al. 2025, which the topic article already integrates
 - **Type**: refine-draft
 - **File**: obsidian/research/terminal-lucidity-filter-theory-2026-03-20.md
@@ -1620,6 +1613,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-26: `topics/terminal-lucidity-and-filter-transmission-theory` L118/L158 say the in-episode EEG measurement "remains undone" with no mention that the NIA-funded video-EEG study built to attempt it (NCT05234866) is recruiting
+- **Type**: refine-draft
+- **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
+- **Notes**: Length binds: 3899/4000 body words — make it a substitution inside L118 (and at most a clause at L158), net <= +50. Install: the in-episode measurement is being attempted — Parnia's NYU Langone study "Paradoxical Lucidity in Severe End-Stage Dementia" (ClinicalTrials.gov NCT05234866; NIA collaborator; started 2022-06-02; RECRUITING as of the record verified 2026-07; estimated enrollment 520; estimated primary completion 2027-03-31) uses real-time video-EEG plus symptom diaries in hospice patients. CALIBRATION — do NOT overstate: the registered PRIMARY outcomes are Phase I feasibility/safety measures (vEEG set-up time, diary returns, consents); "changes in EEG rhythm during PL" is only a Phase II SECONDARY outcome, and Phase II is conditional on the PI's go decision. So write "a registered study is attempting it", not "a study will settle it"; the "remains undone" verdict stays true of published results. Tollock et al. 2025 (already cited) is from the same Parnia group — say so if it costs no words, do not claim it IS the trial's readout (unverified). Mirror in hugo/content via sync. Verified 2026-09-26 via `https://clinicaltrials.gov/api/v2/studies/NCT05234866`.
 
 ### ✓ 2026-09-26: `voids/source-attribution-void` L110 repeats "has not been run" although Lindsey's prefill paradigm is a near-instance, and its "contingently limited by design" (L108) plus `naturally-occluded`'s selection-maintained reading (L85) sit in tension with `cross-architecture-llm-introspection`'s "architecture-general" claim
 - **Type**: refine-draft

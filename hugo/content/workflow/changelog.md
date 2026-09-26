@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-26 09:17 UTC - refine-draft
+- **Status**: Success
+- **File**: [terminal-lucidity-filter-theory-2026-03-20](/research/terminal-lucidity-filter-theory-2026-03-20/)
+- **Original score**: n/a (targeted currency fix; `scripts/curate.py` absent)
+- **Changes**: Added a dated "Update 2026-09-26" block after the header recording (a) Tollock, Leontovich, Gonzalez & Parnia (2025), *Innovation in Aging* 9(Suppl 2) igaf122.2914, PMC12761273, flagged as a GSA meeting ABSTRACT (151 enrolled, 93/61.6% with >=1 event, 267 events, 4.1% terminal, medication-change triggers; figures copied from the topic article L68/L127), and (b) NCT05234866 video-EEG hospice study (recruiting, est. primary completion 2027-03-31; feasibility primary outcomes, in-episode EEG a conditional secondary Phase II outcome, wording matched to topic L118). Minimal in-place qualifiers at the Executive Summary, Materialist "Relation to site tenets", Observer-bias "Current state" (struck through "No prospective ... study" with a superseded note), Non-physical-explanation "Current state", and Gaps ("All evidence is retrospective" struck through; bullet retitled "No in-episode brain measurement"). "No in-episode brain measurement has been published" kept throughout. Added a 2025 timeline row and citations #15 (Tollock) and #16 (NCT05234866). Original March text kept as a dated record. Hugo synced.
+- **Published**: yes
+
 ## 2026-09-26 09:01 UTC - refine-draft
 - **Status**: Success
 - **File**: [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)
