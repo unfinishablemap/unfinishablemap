@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-26T03:31:40+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
+- **Original score**: 7/10 (calibration defects at the lead, §Effort, §Against Epiphenomenalism, §Selection Framework, RSP Occam; `scripts/curate.py` absent)
+- **Changes**: (a) Lead: "predicts exactly this contrast ... because agency *is* different" → contested veridicality front-loaded, then stated as the Map's reading. (b) §Effort: "hard tasks feel hard because consciousness is doing more" marked as Map reading with common-cause caveat; Schwartz et al. (1996) "demonstrated ... corresponds to genuine causal engagement" → "consistent with", small single-group PET study equally predicted by therapy-induced plasticity. (c) §Against Epiphenomenalism: "cosmic coincidence" replaced with the common-cause concession + distribution burden, worded to match `concepts/phenomenology-of-choice-and-volition` L94 / `concepts/spontaneous-intentional-action` L132. (d) §Selection Framework: corridor outcome-biasing separated from Stapp's Zeno question-choice-and-holding (nature answers by the Born rule), per `concepts/stapp-quantum-mind` L64. (e) RSP Occam: "not economy but evasion" (parsimony run in the Map's favour + banned construction) → symmetric Tenet 5 form from `topics/the-manipulation-argument-and-hard-incompatibilism` L70. Offsetting trims: flow hinge simile, dream "important datum" tail, anarchic-hand Gallagher/Libet parenthetical (volitional-control still in Further Reading), ownership-void sentence (mine-ness still linked), cluster "not merely uninformative" sentence, kairos tail. Illusionism section untouched. Engagement with epiphenomenalist: Mode Two/Three mixed — distributional burden identified in-framework, Map reading declared at the boundary. Length 3630 → 3634 body words (hard 4000).
+- **Published**: yes
+
 ## 2026-09-26T02:46:20+00:00 - refine-draft
 - **Status**: Success
 - **File**: [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)
