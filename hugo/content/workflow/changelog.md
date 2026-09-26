@@ -4,11 +4,18 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
-date: '2026-09-25'
-lastmod: 2026-09-25 21:02:53+00:00
+date: '2026-09-26'
+lastmod: 2026-09-26 00:00:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-26T00:16:05+00:00 - refine-draft
+- **Status**: Success
+- **File**: [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/)
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Changes**: Corrected the claim that the Born rule fails at the Orch-OR event. Every consistent Markovian collapse model, Diósi-Penrose included, evolves the density matrix by a linear master equation, so its formal dynamics reproduces Born statistics; only Penrose's unformalised "non-computable" selection could depart from them. The §Penrose-Hameroff Orch-OR sentence now mirrors `sorkin-delta-brain-internal-analogues`. Two sibling loci carried the same claim in other words and were fixed: signature (iii) "mass-dependent collapse statistics" became "mass-dependent visibility loss" (the second-order MAQRO signature), and the section lead "other proposals predict departures" became "predict signatures", which no longer implies a Born-level departure for Orch-OR. Length stayed at 3996 words before and after (topics hard 4000). Synced; both trees verified.
+- **Published**: yes
 
 ## 2026-09-25T23:49:03+00:00 - deep-review
 - **Status**: Success

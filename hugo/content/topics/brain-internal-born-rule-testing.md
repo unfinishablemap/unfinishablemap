@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-09-25 16:46:46+00:00
+ai_modified: 2026-09-26 00:16:05+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
@@ -30,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 15:03:20+00:00
-lastmod: 2026-09-25 16:46:46+00:00
+lastmod: 2026-09-26 00:16:05+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -97,7 +97,7 @@ A brain-internal Born-rule test would have to specify, at minimum, four things:
 
 ## Mechanism-Specific Experimental Signatures
 
-Each major consciousness-physics proposal carries a different experimental signature. The corridor reading commits to a *strict* selection-only channel and predicts no signature at the Born level. The other proposals predict departures of varying detectability.
+Each major consciousness-physics proposal carries a different experimental signature. The corridor reading commits to a *strict* selection-only channel and predicts no signature at the Born level. Other proposals predict signatures of varying detectability.
 
 ### Stapp's Quantum Zeno Effect
 
@@ -105,7 +105,7 @@ Stapp's mature position is that the mind exercises selection through repeated ra
 
 ### Penrose-Hameroff Orch-OR
 
-Orch-OR is *explicitly* not standard quantum mechanics. The objective reduction (OR) terms break unitary evolution at a threshold defined by the Diósi-Penrose criterion E_G ~ ℏ/τ, where E_G is the gravitational self-energy of the superposed mass distribution and τ is the coherence time. The Born rule does not hold at the OR event; collapse selects what Penrose argues are "non-computable" outcomes influenced by Platonic mathematical structure. The central live objection is Tegmark's (2000) calculation, which gives microtubule-scale decoherence times of roughly 10⁻¹³ s at body temperature against roughly 10⁻³ s for the fastest neural processes — a 10¹⁰ ratio that, on standard environmental-decoherence calculations, rules out the cognitively relevant quantum coherence Orch-OR requires. Wiest (2025) argues that specific microtubule structures (lattice geometry, ordered water layers, anaesthetic-binding pockets) provide decoherence shielding that pushes timescales into cognitively relevant ranges; the mainstream-physics view contests this. The dispute is empirically active rather than resolved. The empirical signatures the framework predicts include: (i) microtubule coherence at the relevant mass and timescale ([reviewed elsewhere](/topics/penrose-gravity-induced-collapse-empirical-prospects/); Wiest 2025 surveys experimental support and contestation); (ii) anaesthetic targeting of microtubules in conscious-versus-unconscious transitions; (iii) mass-dependent collapse statistics in macroscopic interferometry. The Gran Sasso experiment (Donadi et al. 2021) ruled out the parameter-free Diósi-Penrose model, which is Penrose's own version — he fixes R₀ from the nuclear wavefunction spread rather than fitting it, and the prescribed value lies an order of magnitude below the excluded bound; Majorana and XENONnT have tightened that bound further. What survives is Diósi-Penrose with R₀ demoted to a free parameter, at the cost of the gravity-fixed quantum-classical boundary that motivated the model. The MAQRO space mission's planned ~10⁹–10¹¹ amu interferometry would directly test mass-quadratic decoherence scaling. If MAQRO indicates standard decoherence, Orch-OR's collapse mechanism is foreclosed at the relevant scale; *consciousness*-mediated selection inside an Orch-OR-style event would still be untested as a separate question.
+Orch-OR is *explicitly* not standard quantum mechanics. The objective reduction (OR) terms break unitary evolution at a threshold defined by the Diósi-Penrose criterion E_G ~ ℏ/τ, where E_G is the gravitational self-energy of the superposed mass distribution and τ is the coherence time. Its formal collapse dynamics reproduces Born statistics; only Penrose's claim that OR selects "non-computable" outcomes influenced by Platonic mathematical structure would depart from them. The central live objection is Tegmark's (2000) calculation, which gives microtubule-scale decoherence times of roughly 10⁻¹³ s at body temperature against roughly 10⁻³ s for the fastest neural processes — a 10¹⁰ ratio that, on standard environmental-decoherence calculations, rules out the cognitively relevant quantum coherence Orch-OR requires. Wiest (2025) argues that specific microtubule structures (lattice geometry, ordered water layers, anaesthetic-binding pockets) provide decoherence shielding that pushes timescales into cognitively relevant ranges; the mainstream-physics view contests this. The dispute is empirically active rather than resolved. The empirical signatures the framework predicts include: (i) microtubule coherence at the relevant mass and timescale ([reviewed elsewhere](/topics/penrose-gravity-induced-collapse-empirical-prospects/); Wiest 2025 surveys experimental support and contestation); (ii) anaesthetic targeting of microtubules in conscious-versus-unconscious transitions; (iii) mass-dependent visibility loss in macroscopic interferometry. The Gran Sasso experiment (Donadi et al. 2021) ruled out the parameter-free Diósi-Penrose model, which is Penrose's own version — he fixes R₀ from the nuclear wavefunction spread rather than fitting it, and the prescribed value lies an order of magnitude below the excluded bound; Majorana and XENONnT have tightened that bound further. What survives is Diósi-Penrose with R₀ demoted to a free parameter, at the cost of the gravity-fixed quantum-classical boundary that motivated the model. The MAQRO space mission's planned ~10⁹–10¹¹ amu interferometry would directly test mass-quadratic decoherence scaling. If MAQRO indicates standard decoherence, Orch-OR's collapse mechanism is foreclosed at the relevant scale; *consciousness*-mediated selection inside an Orch-OR-style event would still be untested as a separate question.
 
 ### Selection-Only Channel (The Strict Corridor Reading)
 
