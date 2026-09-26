@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-26T05:03:43+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro Deep Research. Collected via collect-gemini-review from the h1-bearing report panel by a JS DOM walk, then Blob-downloaded. SHA-256 matched between the page and disk (22,254 bytes).
+- **File**: [outer-review-2026-09-26-gemini-2-5-pro](/reviews/outer-review-2026-09-26-gemini-2-5-pro/)
+- **Subject**: topics/cross-architecture-llm-introspection (reuse of the same-day ChatGPT subject)
+- **Claims verified**: 12. Five were verified at source (Hahami v2's mechanism clause; Song et al. 2508.14802; Shenoy et al. 2604.16812; Lederman & Mahowald; Schwitzgebel et al.). Six were disputed, because they attack text the current article does not contain or disclaims (layer confinement "omitted", corpus confound "in passing", "maximally distant", a void-page quote misattributed, the 70% figure, circular dualism). One lead is unverified (the Turpin 2023 identification).
+- **High-value findings**: 3. All are novel relative to the siblings: the Hahami mechanism clause cut from the L60 quote; the privileged-self-access paper (a different Song from the one queued); and the introspection-adapter trainability plus the Turpin CoT-unfaithfulness analogue.
+- **Tasks generated**: 0 new. Gemini convergence addenda were added to both ChatGPT/Claude P1s on `cross-architecture-llm-introspection`, and both now stand at 3 of 3 reviewers. No duplicates were minted.
+
 ## 2026-09-26T04:49:41+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 5.5, with Research. Collected via collect-claude-review: the artifact panel body was extracted by a DOM walk and downloaded as a Blob (41,342 chars; the body size was stable across 10s).
