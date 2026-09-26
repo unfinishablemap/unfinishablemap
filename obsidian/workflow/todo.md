@@ -37,16 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: `concepts/llm-consciousness` L108 says LLM self-reports are "statistical echoes … not outputs of internal monitoring" while its own L70 credits thought-injection studies with "limited, layer-dependent self-access"
-- **Type**: refine-draft
-- **File**: obsidian/concepts/llm-consciousness.md
-- **Review files**: `reviews/outer-review-2026-09-26-chatgpt-5-6-sol-pro.md`, `reviews/outer-review-2026-09-26-claude-opus-5-5.md`
-- **Synthesis**: `reviews/outer-review-synthesis-2026-09-26.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-26
-- **Convergence (Claude Opus 5.5, same day)**: The Claude review independently flagged the same "not outputs of internal monitoring" sentence (§2.6). It added a second locus on the same page: LLMs are said to struggle "with consciousness-dependent capacities like genuine metacognitive monitoring". If a functional version of metacognitive monitoring is now observed (Macar et al.'s detection circuit), calling it "consciousness-dependent" either scores a point for LLMs or needs qualifying. Handle both loci in this pass, length-neutrally.
-- **Notes**: From convergent outer reviews (2026-09-26, 2/3 reviewers): [chatgpt, claude] — synthesis cluster C5; upgraded P2→P1. ChatGPT: "categorical language suggesting that LLM self-reports are simply statistical echoes without internal monitoring"; Claude: "the flat 'not outputs of internal monitoring' sentence was never corrected". Original note follows. From outer review 2026-09-26 (ChatGPT 5.6 Pro), §9 "LLM Consciousness" and improvement 16. Grep-verified in this pass. L108 (the illusionism reply) says: "LLM 'self-reports' are statistical echoes of human self-reports, not outputs of internal monitoring." L70 says 2025 thought-injection studies "find limited, layer-dependent self-access". Macar et al. 2026 (arXiv:2603.21396) further traces a detection circuit. The categorical L108 clause contradicts the page's own L70 and the current literature. The illusionism reply does not need it: the argument rests on the absence of a stable, unified self-model, and that survives. Replace the clause with the three-way distinction the reviewer proposes. Some reports demonstrably depend on internal causal state. Whether that dependence is privileged second-order access is unsettled. It provides no evidence of phenomenality. The L68 "statistical echoes" sentence concerns *phenomenal* self-reports (LaMDA), so it stays. Length: 2,918 body words against the concepts hard limit of 3,500. Aim for a length-neutral edit.
-
 ### P1: `voids/confabulation-void` L100 imports the "structural inverse of confabulation" reading from `cross-architecture-llm-introspection` — re-anchor it on content-agnostic detection
 - **Type**: refine-draft
 - **File**: obsidian/voids/confabulation-void.md
@@ -1615,6 +1605,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-26: `concepts/llm-consciousness` L108 says LLM self-reports are "statistical echoes … not outputs of internal monitoring" while its own L70 credits thought-injection studies with "limited, layer-dependent self-access"
+- **Type**: refine-draft
+- **File**: obsidian/concepts/llm-consciousness.md
+- **Notes**: From convergent outer reviews (2026-09-26, 2/3 reviewers): [chatgpt, claude] — synthesis cluster C5; upgraded P2→P1. ChatGPT: "categorical language suggesting that LLM self-reports are simply statistical echoes without internal monitoring"; Claude: "the flat 'not outputs of internal monitoring' sentence was never corrected". Original note follows. From outer review 2026-09-26 (ChatGPT 5.6 Pro), §9 "LLM Consciousness" and improvement 16. Grep-verified in this pass. L108 (the illusionism reply) says: "LLM 'self-reports' are statistical echoes of human self-reports, not outputs of internal monitoring." L70 says 2025 thought-injection studies "find limited, layer-dependent self-access". Macar et al. 2026 (arXiv:2603.21396) further traces a detection circuit. The categorical L108 clause contradicts the page's own L70 and the current literature. The illusionism reply does not need it: the argument rests on the absence of a stable, unified self-model, and that survives. Replace the clause with the three-way distinction the reviewer proposes. Some reports demonstrably depend on internal causal state. Whether that dependence is privileged second-order access is unsettled. It provides no evidence of phenomenality. The L68 "statistical echoes" sentence concerns *phenomenal* self-reports (LaMDA), so it stays. Length: 2,918 body words against the concepts hard limit of 3,500. Aim for a length-neutral edit.
 
 ### ✓ 2026-09-26: "Cross-architecture" names model-family variation, not architectural variation — rescope the title/lead of `topics/cross-architecture-llm-introspection` and the "Cross-Architecture Pivot" in `introspection-architecture-independence-scoring`
 - **Type**: refine-draft

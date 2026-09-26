@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-26T06:46:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [llm-consciousness](/concepts/llm-consciousness/)
+- **Source**: outer-review synthesis 2026-09-26 cluster C5 (chatgpt + claude convergent, P1): categorical "no internal monitoring" claims
+- **Original score**: n/a (targeted fix)
+- **Changes**: (1) Illusionism reply: replaced "LLM 'self-reports' are statistical echoes of human self-reports, not outputs of internal monitoring" with the three-way distinction — some reports depend on internal causal state (injection detection covaries with intervention); whether that is privileged second-order access is unsettled; it is no evidence of phenomenality — and noted a narrow detector is no persisting self-model, so the self-model argument stands unchanged. Merged the two self-model sentences. (2) Methodological-asymmetry paragraph: the flat "LLM self-reports ... no evidence that internal processing states correspond to the content produced" scoped to reports *of experience*; "2025 ... layer-dependent self-access" became "2025–2026 ... intervention-sensitive reporting, privileged self-access still unsettled", matching the register of [cross-architecture-llm-introspection](/topics/cross-architecture-llm-introspection/). Tightened the J-space sentence (duplicate "workspace-like functional signatures") to offset length; qualifiers kept. (3) Baseline-cognition paragraph (Claude's second locus): removed "genuine metacognitive monitoring" from the consciousness-dependent list and added that functional self-monitoring in LLMs means the framework must either distinguish it from the metacognition it means or concede. The L68 LaMDA "statistical echoes" sentence was kept because it concerns phenomenal self-reports. Engagement with illusionism: Mode Three plus a Mode One residue; the self-model premise is argued within the illusionist framework, and phenomenality stays bracketed.
+- **Length**: analyze_length 2918 → 2963 (+45; concepts hard 3500)
+- **Published**: yes
+
 ## 2026-09-26T06:31:32+00:00 - refine-draft
 - **Status**: Success
 - **File**: [cross-architecture-llm-introspection](/topics/cross-architecture-llm-introspection/) (+ second locus [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/))
