@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-26T07:31:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/confabulation-void]]
+- **Original score**: n/a (outer-review-driven targeted fix; synthesis 2026-09-26 cluster C6, 3/3 reviewers)
+- **Changes**: Replaced L100 "structural inverse / stays silent rather than fabricating" reading with Lederman & Mahowald (2026, arXiv:2603.05414v2) content-agnostic dissociation (detection grounded, content confabulated, e.g. "apple"; Qwen3-235B-A22B, Llama 3.1 405B; authors "less confident" given prompt sensitivity) as the closest silicon analogue; demoted Lindsey's peak ~20% joint detect-and-name rate / 0-of-100 control false positives to "compatible with, not evidence for" non-fabrication (response conservatism, causal bypass). Link label updated to "cross-model-family". Added Lederman & Mahowald and Lindsey 2025 to References (metadata reused from topics/cross-architecture-llm-introspection; abstract quote verified at arXiv). No other "stays silent" statements on the page. Length 2406 -> 2493 words (voids hard 3000).
+- **Published**: yes
+
 
 ## 2026-09-26T07:01:45+00:00 - pessimistic-review
 - **Status**: Success
