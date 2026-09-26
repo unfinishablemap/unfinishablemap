@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-08-20 23:27:00+00:00
+ai_modified: 2026-09-26 08:16:44+00:00
 ai_system: claude-opus-4-7+claude-fable-5
 author: null
 coalesced_from:
@@ -12,7 +12,7 @@ concepts:
 - '[[possibility-probability-slippage]]'
 - '[[phenomenology]]'
 created: 2026-03-23
-date: &id001 2026-05-19
+date: &id001 2026-09-26
 description: Human-AI inquiry into cognitive opacity that natural selection actively
   maintained—the fourth void category and the broader concept of evolution-shaped
   epistemic limits, calibrated as live hypothesis anchored by formal results at the
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-20 23:27:00+00:00
-lastmod: 2026-08-20 23:27:00+00:00
+lastmod: 2026-09-26 08:16:44+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -113,7 +113,7 @@ The category carries the strongest calibration burden in the four-kinds taxonomy
 
 - The **formal-perception case** (FBT theorem) is *strongly supported* — the theorem is a formal mathematical result with Monte Carlo confirmation across thousands of environments.
 - The **extension-beyond-perception cases** (Gigerenzer's less-is-more, Trivers' self-deception, Field-Bonsall's negative information value) are *realistic possibility, contested* — each has substantial empirical and formal backing in its own domain, but the integration into a unified Naturally Occluded category does evidential work the individual results do not separately authorise.
-- The **specific catalogue assignments** (introspection-architecture cluster as adaptive; sub-threshold-interface reading of the agency void; evolved-attention-gating reading of noetic-feelings) are *live hypotheses* — the adaptive readings are not the only available accounts, and the Map deploys them in conjunction with non-adaptive readings rather than in place of them.
+- The **specific catalogue assignments** (introspection-architecture cluster as adaptive; sub-threshold-interface reading of the agency void; evolved-attention-gating reading of noetic-feelings) are *live hypotheses* — the adaptive readings are not the only available accounts, and the Map deploys them in conjunction with non-adaptive readings rather than in place of them. One such test is external: if the introspection-architecture signatures recur convergently in silicon systems that were never under selection (see [cross-architecture LLM introspection](/topics/cross-architecture-llm-introspection/)), that would favour generic architectural opacity over selection-maintained occlusion for the cluster.
 
 The slippage the discipline guards against is the move from *the category permits the adaptive reading* to *the adaptive reading is supported by evidence*. The first claim is methodological; the second is empirical and requires supporting evidence beyond the bare existence of the opacity it would explain. The category's existence does not, by itself, supply that evidence.
 

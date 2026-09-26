@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-26T08:16:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [source-attribution-void](/voids/source-attribution-void/) (+ [naturally-occluded](/concepts/naturally-occluded/))
+- **Source**: convergent outer reviews 2026-09-26 (claude, chatgpt), synthesis cluster C7, P1
+- **Changes**: (1) Replaced the "test ... has not been run" sentence with Lindsey 2025's prefill ("bread") result, worded to match `topics/cross-architecture-llm-introspection` §cluster-fit: output not thought, activation-matching manipulation, consistency-check deflationary reading kept; added Singh, Linzen & Ravfogel (2026) "gaslight" condition as neighbouring input-vs-activation test; references added (metadata reused from the topic page). (2) Three-page tension: added one sentence saying convergent (non-inherited) silicon recurrence would weaken the constitutive/contingent contrast and favour generic architectural opacity over the selection-maintained reading, live hypothesis; linked [naturally-occluded](/concepts/naturally-occluded/). In `naturally-occluded`, one sentence on the live-hypothesis catalogue-assignments bullet naming silicon recurrence as an external test favouring architectural opacity over selection-maintained occlusion. Length-paid trims in the void: redundant architectural-layer restatement, encoding-metaphysics hedge (Dualism section carries neutrality), independence-scoring tail clause, four Further Reading glosses.
+- **Length**: source-attribution-void 2903 → 2956 (voids hard 3000); naturally-occluded 2947 → 2982 (concepts hard 3500)
+- **Published**: yes
+
 ## 2026-09-26T07:31:10+00:00 - refine-draft
 - **Status**: Success
 - **File**: [confabulation-void](/voids/confabulation-void/)
