@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-26T02:46:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)
+- **Original score**: 7/10 (calibration defects; `scripts/curate.py` absent)
+- **Changes**: (a) §Effort metabolic-cost argument recast on the `spontaneous-intentional-action` template: epiphenomenalist common-cause fit conceded, burden moved to the *distribution* of felt effort (contested selections vs equally costly unfelt processing). (b) §Authorship: clinical dissociability now "rules out a blanket confabulation", with the comparator/higher-order concession linked to `phenomenology-of-agency-vs-passivity`; added piped link to `[[authorship-of-action-divergence]]` (choice-blindness fallibility). (c) §Effort as Evidence: "only selection generates the phenomenology of effort" marked as the Map's reading, with the trilemma's non-decisiveness stated. (d) §Contemplative: "proves" → "Contemplative reports thus indicate". (e) Piped `[[spontaneous-intentional-action]]` link in §Authorship. Same-move siblings fixed: §Illusionist "deliberation costs would be inexplicable" (now about costs *presenting* as felt); RSP Bidirectional "dissociability ... suggests tracks causal engagement" → consistent-with + common-cause caveat; RSP "conscious veto exerts top-down control" → intentional inhibition, Map-located veto; L76 "track something real" marked as Map reading. Four-components taxonomy and Schurger/Mele material untouched. Engagement with epiphenomenalist: Mode Two/Three mixed — distributional burden identified in-framework, Map reading declared at the boundary. Length 2596 → 2829 body words (soft_warning; hard 3500).
+- **Published**: yes
+
 ## 2026-09-26T02:31:18+00:00 - refine-draft
 - **Status**: Success
 - **File**: [voids-between-minds](/voids/voids-between-minds/)

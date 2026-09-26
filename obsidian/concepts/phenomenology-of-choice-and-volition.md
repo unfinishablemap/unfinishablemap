@@ -4,7 +4,7 @@ description: "The experiential arc from deliberation through decision to volitio
 created: 2026-01-22
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-09-21T16:05:00+00:00
+ai_modified: 2026-09-26T02:46:20+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -44,7 +44,7 @@ related_articles:
   - "[[phenomenology-of-intellectual-life]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-01-22
 last_curated:
 last_deep_review: 2026-09-21T16:05:00+00:00
@@ -71,9 +71,9 @@ This settling can be gradual (the preferred option gaining felt momentum) or sud
 
 ## Authorship: The Sense of Agency
 
-After deciding, there is typically a sense of *ownership* — the decision was *mine*, authored by *me*. Gallagher and Zahavi's distinction between *sense of agency* and *sense of ownership* is precise here. Ownership accompanies both voluntary and involuntary action; agency — the feeling of *initiating* — accompanies only voluntary action. The dissociability of these components in clinical populations (schizophrenia, [[anarchic-hand-and-action-ownership|anarchic hand syndrome]]) demonstrates that agency phenomenology tracks genuine causal structure rather than being a blanket confabulation.
+After deciding, there is typically a sense of *ownership* — the decision was *mine*, authored by *me*. Gallagher and Zahavi's distinction between *sense of agency* and *sense of ownership* is precise here. Ownership accompanies both voluntary and involuntary action; agency — the feeling of *initiating* — accompanies only voluntary action. The dissociability of these components in clinical populations (schizophrenia, [[anarchic-hand-and-action-ownership|anarchic hand syndrome]]) rules out a blanket confabulation: agency phenomenology is selective rather than stamped onto every movement. It does not by itself show that the phenomenology tracks conscious causation, since comparator and higher-order models locate the sense of agency in dedicated circuitry and predict the same dissociations (see [[phenomenology-of-agency-vs-passivity]]). The authorship signal is also fallible from the inside: in choice-blindness studies agents defend outcomes they never chose, the [[authorship-of-action-divergence|outcome-recognition failure]] that marks where authorship-tracking can err unnoticed.
 
-The sense of agency varies from strong authorship ("I really chose this") through weak authorship (skilled performance that happens through me without feeling deliberately chosen) to absent authorship (automatic habits or compulsions). These variations track something real about the degree of conscious involvement in action.
+The sense of agency varies from strong authorship ("I really chose this") through weak authorship (skilled performance that happens through me without feeling deliberately chosen) to absent authorship (automatic habits or compulsions). The Map reads these variations as tracking the degree of conscious involvement in action; the [[spontaneous-intentional-action|spontaneous yet intentional]] case shows that strong authorship need not wait on prior deliberation.
 
 ## The Four Components of Willing
 
@@ -91,7 +91,7 @@ Attention does not lock on smoothly — introspective reports and contemplative 
 
 ### Effort
 
-Volitional acts vary in felt difficulty. The effort gradient tracks real cognitive demands: hard tasks feel hard; easy tasks feel easy. If effort experience were causally inert, the metabolic cost of generating it — in precise proportion to task demands — would have no adaptive explanation. The Map interprets this correlation as evidence that effort phenomenology reflects genuine causal contribution: consciousness doing work at the [[attention-as-interface|interface]] between intention and neural execution.
+Volitional acts vary in felt difficulty. The effort gradient tracks real cognitive demands: hard tasks feel hard; easy tasks feel easy. An epiphenomenalist is not embarrassed by this fit: the metabolic cost belongs to the neural processing, which has an obvious adaptive role, and one process producing both the work and the feeling makes the match common causation rather than coincidence. What remains owed is why felt effort attaches to exactly the selections that are contested — overriding a prepotent response, holding a slipping focus — and not to equally costly processing that runs unfelt, a distribution the brain-only account must derive rather than assume. The Map reads that distribution as evidence that effort phenomenology reflects genuine causal contribution: consciousness doing work at the [[attention-as-interface|interface]] between intention and neural execution.
 
 Effort also has a directional quality — pushing *against* competing impulses, fatigue, or distraction. This oppositional character suggests volition operates in a space of competing possibilities, selecting one pattern while suppressing alternatives.
 
@@ -120,7 +120,7 @@ This maps onto the neural distinction between [[attention-as-interface|willed an
 
 ## Effort as Evidence
 
-The [[mental-effort|phenomenology of effort]] provides the strongest evidence for genuine conscious contribution. The [[trilemma-of-selection|trilemma of selection]] makes this systematic: at any decision point, the outcome is determined, random, or consciously selected — and only selection generates the phenomenology of effort. If choosing were merely receiving randomly determined outcomes, there should be no phenomenology of effort — random processes don't feel like work. See [[phenomenology-of-consciousness-doing-work|consciousness doing work]] for the broader case.
+The [[mental-effort|phenomenology of effort]] provides the strongest evidence for genuine conscious contribution. The [[trilemma-of-selection|trilemma of selection]] makes this systematic: at any decision point, the outcome is determined, random, or consciously selected — and the Map's reading is that effort phenomenology belongs with the third option. The trilemma does not settle this by itself: a determined neural process could produce the feeling of effort as a by-product. What the Map claims is that the feeling fits selection most directly, since effort presents itself as work done on open alternatives, whereas a merely received outcome, determined or random, gives the feeling nothing to be about. See [[phenomenology-of-consciousness-doing-work|consciousness doing work]] for the broader case.
 
 ### The Libet Timing Challenge and Its Weakening
 
@@ -134,7 +134,7 @@ The core argument does not depend on any specific mechanism. Effort phenomenolog
 
 Meditation practice refines phenomenological discrimination. Advanced meditators describe watching decisions arise before identifying with them — intention appears, followed by a distinct moment of "signing off." Buddhist, Tibetan, and Hindu traditions report convergent findings: the gap between stimulus and response is observable, and intention can be distinguished from the act of endorsing it.
 
-[[witness-consciousness|Choiceless awareness]] provides a contrast case: options arise and pass without selection. This proves consciousness can observe without choosing. The agent can (1) select among options, (2) refrain from selecting, (3) choose whether to enter selecting mode — a three-level structure suggesting agency exceeds simple selection. See [[cross-cultural-phenomenology-of-agency]] for the cross-cultural persistence of these structures.
+[[witness-consciousness|Choiceless awareness]] provides a contrast case: options arise and pass without selection. Contemplative reports thus indicate that consciousness can observe without choosing. The agent can (1) select among options, (2) refrain from selecting, (3) choose whether to enter selecting mode — a three-level structure suggesting agency exceeds simple selection. See [[cross-cultural-phenomenology-of-agency]] for the cross-cultural persistence of these structures.
 
 ## The Illusionist Challenge
 
@@ -148,7 +148,7 @@ Wegner's evidence comes from cases where agency attribution goes wrong — autom
 
 Mele's critique adds that the Libet paradigm tests spontaneous wrist flicking — bearing little resemblance to genuine voluntary action involving deliberation, reasons, and competing considerations. What subjects become aware of may be an urge to flex, not a decision already made.
 
-If choosing were passive reception of randomly determined outcomes, deliberation costs — attentional, emotional, temporal — would be inexplicable. The [[quantum-indeterminacy-free-will|luck objection]] compounds this: why does choosing feel like achievement while lucky outcomes don't? And if effort were illusory, extended contemplative practice should dissolve the illusion. Instead, meditators report *clearer* discrimination between effortful and effortless states.
+If choosing were passive reception of randomly determined outcomes, it would be unclear why deliberation *presents itself* as costly — attentional, emotional, temporal — rather than merely incurring neural costs unfelt. The [[quantum-indeterminacy-free-will|luck objection]] compounds this: why does choosing feel like achievement while lucky outcomes don't? And if effort were illusory, extended contemplative practice should dissolve the illusion. Instead, meditators report *clearer* discrimination between effortful and effortless states.
 
 ## What Would Challenge This View?
 
@@ -158,7 +158,7 @@ The framework would face serious difficulty if: (1) trained introspectors report
 
 **[[tenets#^dualism|Dualism]]**: The qualitative character of the full deliberation-through-execution arc — felt weight of options, the settling of decision, the effort of sustained control, the active inhibition of veto — isn't captured by third-person neural accounts. The multi-component structure (deliberation, initiation, effort, sustained control, veto) resists reduction to any single neural measure like the readiness potential.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Effort phenomenology suggests consciousness *does* something. The correlation between felt effort and cognitive load, the dissociability of agency from ownership, and distinct neural substrates for veto all suggest volitional phenomenology tracks genuine causal engagement. The primary objection — that the readiness potential proves unconscious initiation — has been weakened by Schurger's stochastic noise reinterpretation and Mele's ecological validity critique. Brass and Haggard's "whether" component provides a neural locus where conscious veto exerts measurable top-down control.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Effort phenomenology suggests consciousness *does* something. The correlation between felt effort and cognitive load, the selective distribution of the sense of agency, and distinct neural substrates for veto are all consistent with volitional phenomenology tracking genuine causal engagement, though each is also compatible with a common neural cause, so the case rests on why the phenomenology is distributed as it is rather than on correlation alone. The primary objection — that the readiness potential proves unconscious initiation — has been weakened by Schurger's stochastic noise reinterpretation and Mele's ecological validity critique. Brass and Haggard's "whether" component provides a neural locus where intentional inhibition exerts measurable top-down control, the site at which the Map locates conscious veto.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Choosing feels like biasing outcomes, not injecting energy. The iterative character of sustained voluntary attention — James's "successive efforts" — matches consciousness repeatedly selecting among competing neural patterns at points of quantum indeterminacy.
 
