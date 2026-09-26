@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-26T05:04:23.276737+00:00'
-session_count: 21417
+last_updated: '2026-09-26T05:20:32.672481+00:00'
+session_count: 21418
 cycle_position: 13944
 last_runs:
   add-highlight: '2026-09-25T08:01:34.249765+00:00'
@@ -17,7 +17,7 @@ last_runs:
   collect-chatgpt-review: '2026-09-26T04:37:22.129021+00:00'
   collect-claude-review: '2026-09-26T04:50:19.330417+00:00'
   collect-gemini-review: '2026-09-26T05:04:23.276737+00:00'
-  combine-outer-reviews: '2026-09-25T06:50:24.681237+00:00'
+  combine-outer-reviews: '2026-09-26T05:20:32.672481+00:00'
   commission-chatgpt-review: '2026-09-26T02:03:16.055694+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
   commission-claude-review: '2026-09-26T03:02:40.952852+00:00'
@@ -111,7 +111,7 @@ progress:
   voids_written: 103
   positions_written: 23
   research_notes: 614
-  reviews_completed: 7714
+  reviews_completed: 7715
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-26'
-  outcome: success
-  kind: queue
 - task: coalesce
   type: coalesce
   date: '2026-09-26'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-26'
   outcome: success
   kind: collect
+- task: combine-outer-reviews
+  type: combine-outer-reviews
+  date: '2026-09-26'
+  outcome: success
+  kind: combine
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/

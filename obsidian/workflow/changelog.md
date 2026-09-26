@@ -5,6 +5,16 @@ ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-26T05:33:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/cross-architecture-llm-introspection]]
+- **Original score**: n/a (`scripts/curate.py` absent); task-driven from outer-review synthesis 2026-09-26 cluster C1 (3/3 reviewers)
+- **Changes**: (1) L34 "Two 2025 studies" -> programmes begun in 2025, one revised March 2026. (2) L44 restored the dropped "however, trends across models are complex and sensitive to post-training strategies" clause; noted 20% is a joint criterion scored by an LLM judge and that helpful-only variants produce false positives (all verified at transformer-circuits.pub). (3) L46 rewritten: 20% = peak joint detect-and-name rate selected across layer/strength sweeps, 0/100 = FP estimate under that control set, not a precision-recall pair; "not guessing / reliable when it fires" replaced by intervention-sensitive reporting with privileged access a live hypothesis; experimenter controls occurrence/location/strength exactly, semantic content imperfectly. (4) L66 Hahami binary artefact downgraded to a response-bias warning (yes/no logit shift, not a generated report); "high precision at low recall" and "structural inverse" removed; "neither was built in by design" narrowed with Macar et al. 2026 ("emerges specifically from post-training"; DPO elicits, SFT does not). Lederman & Mahowald NOT installed (sibling P1 owns it). (5) L70 "That experiment has not been run" -> exact endogenous-vs-injected test unrun, neighbours run: Lindsey prefill ("bread"), Singh/Linzen/Ravfogel v2 gaslight condition (verified in v2 HTML), Turpin et al. 2023 as reason-not-origin Nisbett-Wilson analogue (metadata verified at arXiv API). (6) L84 "reliable when it fires" removed. (7) L86 causal-bypass passage corrected: bypassing threatens naming more than detection. Divergence resolved at source (Alignment Forum GraphQL, post LD8yupMtE6btAE3R9): BOTH reviewers were partly right. Footnote 4 says detection "is strong evidence against causal bypassing" (Claude). A bracketed EDIT added 16 Dec 2025 says even the detection question "might not avoid the causal bypassing problem" (ChatGPT's "may not be decisive" paraphrases this). The article now carries both. Also added Macar refusal-ablation +53% against the response-conservatism reading. (8) References added: Morris & Plunkett (Adam Morris, Dillon Plunkett; posted 2025-11-28, edited 2025-12-16), Macar et al. 2026, Singh et al. 2026 v2, Turpin et al. 2023.
+- **Engagement classification**: causal-bypassing skeptic (Morris & Plunkett): Mode One. The reply grants their own distinction (naming vs detection) and their own later edit. Response-conservatism alternative: Mode One, partial, via the Macar ablation.
+- **Length**: 2,979 -> 3,340 body words (topics hard 4,000). About 660 words remain for the sibling currency/functionalist P1.
+- **ai_system**: held (quote-fidelity fixes).
+- **Published**: yes
+
 ## 2026-09-26T05:20:00+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-09-26
