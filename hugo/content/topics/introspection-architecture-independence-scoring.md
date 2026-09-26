@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-15
-ai_modified: 2026-09-19 00:45:01+00:00
-ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5
+ai_modified: 2026-09-26 06:31:32+00:00
+ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
 - /topics/channel-audits-introspection-architecture-independence-scoring/
@@ -14,7 +14,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[evidential-status-discipline]]'
 created: 2026-05-15
-date: &id001 2026-05-25
+date: &id001 2026-09-26
 description: A worked exhibit applying the voids-circularity discount to the four-void
   introspection-architecture sub-cluster — population-typing the empirical anchors,
   splitting despite-commitments from because-prediction, and auditing the cross-species
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 23:13:12+00:00
-lastmod: 2026-09-19 00:45:01+00:00
+lastmod: 2026-09-26 06:31:32+00:00
 modified: *id001
 related_articles:
 - '[[cross-architecture-llm-introspection]]'
@@ -158,9 +158,9 @@ Mirror self-recognition (Kohda cleaner-wrasse 2019/2023/2025) is only *cluster-a
 
 The four substrate observations may be read as *despite-commitments at the substrate-extension level*: pre-2008 defaults arguably did not predict that confidence, source-tag, and feature-binding signatures would generalise across phylogenetically distant substrates. Two critiques contest the metacognition-grade reading. **Le Pelley 2012** showed associative-learning models reproduce hallmark putative-metacognition patterns through reinforcement history alone — refuting the substrate-to-metacognition inference, not the substrate findings. **Carruthers** (*Opacity of Mind* 2011; 2021) reads animal metacognition as an analog-magnitude executive-engagement signal — a within-physicalist reading that *predicts* the cross-species pattern on grounds that may undercut the bounded-witness reading. The channel adds methodological diversity rather than discharging the null.
 
-### The Cross-Architecture Pivot {#cross-architecture-pivot}
+### The Silicon Pivot {#cross-architecture-pivot}
 
-The most architecturally distant channel available is not biological. LLM introspection studies — Lindsey (Anthropic, 2025) on emergent introspective awareness, and Hahami et al. (arXiv:2512.12411v2, 2026) on partial introspection under activation steering — give what biology cannot: reports, independent interpretability ground truth via thought-injection, and a substrate far removed from the human one. The cluster-relevant fit is to the [confabulation void](/voids/confabulation-void/): Hahami's binary-detection result reduces to a global logit shift toward "yes" — confident report tracking no self-access — and Lindsey's zero false positives are its structural inverse. An earlier reading placed them at the [source-attribution void](/voids/source-attribution-void/), on a concept-naming paradigm the 2026 revision withdraws. The fit brackets phenomenal consciousness ([the AI-consciousness framing](/topics/ai-consciousness/)), holds only insofar as the silicon case tracks the biological one's operational structure, and requires [corpus-inherited imitation](/concepts/training-contamination-confound/) to be excluded — an open programme. A [standalone treatment](/topics/cross-architecture-llm-introspection/) develops the verified anchors and audits the inference at live-hypothesis tier.
+The most substrate-distant channel available is not biological. LLM introspection studies (so far cross-family, all Transformers) — Lindsey (Anthropic, 2025) on emergent introspective awareness, and Hahami et al. (arXiv:2512.12411v2, 2026) on partial introspection under activation steering — give what biology cannot: reports, independent interpretability ground truth via thought-injection, and a non-biological substrate. The cluster-relevant fit is to the [confabulation void](/voids/confabulation-void/): Hahami's binary-detection result reduces to a global logit shift toward "yes" — confident report tracking no self-access — and Lindsey's zero false positives are its structural inverse. An earlier reading placed them at the [source-attribution void](/voids/source-attribution-void/), on a concept-naming paradigm the 2026 revision withdraws. The fit brackets phenomenal consciousness ([the AI-consciousness framing](/topics/ai-consciousness/)), holds only insofar as the silicon case tracks the biological one's operational structure, and requires [corpus-inherited imitation](/concepts/training-contamination-confound/) to be excluded — an open programme. A [standalone treatment](/topics/cross-architecture-llm-introspection/) develops the verified anchors and audits the inference at live-hypothesis tier.
 
 ### Auditing the Cross-Species Channel
 

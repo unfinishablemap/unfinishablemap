@@ -4,7 +4,7 @@ description: "Human+AI design audit of how a behavioural-confidence channel pair
 created: 2026-05-17
 modified: 2026-05-17
 human_modified:
-ai_modified: 2026-06-13T23:04:56+00:00
+ai_modified: 2026-09-26T06:32:38+00:00
 last_deep_review: 2026-07-16T16:17:02+00:00
 draft: false
 topics:
@@ -110,7 +110,7 @@ Under [[project/evidential-status-discipline|evidential-status discipline]]'s fi
 
 The article honours the [[project/voids-circularity-discount|voids-circularity discount]] at the channel-design level: the proxy-test architecture extends an architectural signature compatible with both dualism and physicalism, and the design audit does not treat substrate-extension findings as positive support for the Map's dualist reading. The Map's framework supplies the *significance* of the architectural feature for [[tenets|Tenet 1 (Dualism)]] — a bounded-witness signature recurring across substrates is what a dualist picture of a non-physical witness with bounded substrate-access predicts as the empirical signature — but the proxy-test evidence by itself is not positive support for that picture. It is calibration-grade breadth: extending the domain of an architectural feature whose ontological reading the proxy-test data underdetermine.
 
-The article also honours the [[project/evidential-status-discipline|evidential-status discipline]]'s tier vocabulary: the proxy-test channel's contribution is *realistic possibility, contested* on its strongest faces and *speculative integration* on the faces bandwidth-blocked by present designs, not *strongly supported* convergence. The design audit's purpose is to make the per-face asymmetry explicit so the cluster's cross-observer scoring does not over-claim what the proxy-test channel can carry. The [[introspection-architecture-independence-scoring#cross-architecture-pivot|cross-species channel audit]] already names the architecturally-distant LLM introspection programme as the channel that carries cross-observer triangulation where the cross-species-via-biology channel cannot; the present article's contribution is the design framework that makes the within-biology channel's specific deliverables and specific limits explicit at the per-face level.
+The article also honours the [[project/evidential-status-discipline|evidential-status discipline]]'s tier vocabulary: the proxy-test channel's contribution is *realistic possibility, contested* on its strongest faces and *speculative integration* on the faces bandwidth-blocked by present designs, not *strongly supported* convergence. The design audit's purpose is to make the per-face asymmetry explicit so the cluster's cross-observer scoring does not over-claim what the proxy-test channel can carry. The [[introspection-architecture-independence-scoring#cross-architecture-pivot|cross-species channel audit]] already names the cross-family LLM introspection programme as the channel that carries cross-observer triangulation where the cross-species-via-biology channel cannot; the present article's contribution is the design framework that makes the within-biology channel's specific deliverables and specific limits explicit at the per-face level.
 
 The proxy-test channel does not close the four-void cluster's case and does not abandon the structural defence the comparative-cognition literature can supply. It carries a specific subset of the cluster's signature across the verbal-species boundary, under a specific set of discounts, with the per-face asymmetry the design audit makes visible.
 

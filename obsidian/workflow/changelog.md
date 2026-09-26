@@ -5,6 +5,16 @@ ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-26T06:31:32+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/cross-architecture-llm-introspection]] (+ second locus [[topics/introspection-architecture-independence-scoring]])
+- **Source**: outer-review synthesis 2026-09-26 cluster C4 (chatgpt + claude convergent, P1): evidence is cross-family, not cross-architecture
+- **Original score**: n/a (targeted fix)
+- **Changes**: Display title retitled to "Cross-Model-Family LLM Introspection as a Voids-Cluster Channel" (slug kept; no page quotes the old title outside workflow/reviews). Description drops "substrate-distant" for "across model families but not yet architectures". Lead: "computational substrate far removed" replaced by "non-biological"; the article-scope sentence replaced with a statement that the evidence spans Claude/Llama/Qwen, dense and MoE, scales and post-training, all Transformer LMs (cross-family, not cross-architecture), and that genuine architectural variation needs SSM/recurrent models and matched base/post-trained pairs under the same intervention and metric. Body: "cross-architecture channel" -> "LLM channel" (x2); "across architectures and scales" -> "across model families and scales"; adjudicating test "replication across architectures" -> "beyond the Transformer family"; Relation section "architecture on so different a computational substrate" -> "a silicon system". Paid for by trims (dropped closing "promising/unfinished" sentence, "This is a feature, not a limitation" construct, compressed status-tier caveat). Second locus: heading "The Cross-Architecture Pivot" -> "The Silicon Pivot" (explicit {#cross-architecture-pivot} anchor kept for inbound links), "architecturally distant" -> "substrate-distant", added "(so far cross-family, all Transformers)".
+- **Length**: target 3,960 -> 3,958 (topics hard 4,000); scoring article 4,137 -> 4,136 (net-negative as required)
+- **Not changed**: `topics/cross-species-behavioural-confidence-proxy-tests` L113 still says "architecturally-distant LLM introspection programme" (out of scope; minor)
+- **Published**: yes
+
 ## 2026-09-26T06:02:34+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/empathy]]
