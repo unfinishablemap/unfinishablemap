@@ -4,7 +4,7 @@ description: "How can we know others are conscious? Philosophical approaches to 
 created: 2026-01-14
 modified: 2026-06-13
 human_modified: null
-ai_modified: 2026-08-04T08:54:17+00:00
+ai_modified: 2026-09-26T02:20:53+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -89,7 +89,7 @@ This captures how interpersonal understanding actually feels: immediate, percept
 
 Edmund Husserl's phenomenological analysis offers a deeper insight: the other is accessible *precisely insofar as* they are constituted as inaccessible. When I encounter you, I encounter another *subject*—someone with their own inner life that I cannot enter. The very constitution of you as another subject requires recognizing what I cannot access.
 
-This reframes the problem. The asymmetry is not failure but success—if I could directly access your experience, you would not be another subject but an extension of me. The [[voids-between-minds|void between minds]] is constitutive of intersubjectivity itself. Recognition of the void *is* recognition of the other as other. Empathy operates through this structure: we "feel into" the other, imagining their perspective while knowing we imagine rather than share it.
+This reframes the problem. The asymmetry is not failure but success—if I could directly access your experience, you would not be another subject but an extension of me. The [[voids-between-minds|void between minds]] is constitutive of intersubjectivity itself. Recognition of the void *is* recognition of the other as other. [[empathy|Empathy]] operates through this structure: we "feel into" the other, imagining their perspective while knowing we imagine rather than share it.
 
 ### The Argument from Discourse
 

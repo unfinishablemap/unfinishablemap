@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-09-23 18:31:11+00:00
+ai_modified: 2026-09-26 02:20:53+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 20:05:28+00:00
-lastmod: 2026-09-23 18:31:11+00:00
+lastmod: 2026-09-26 02:20:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -116,7 +116,7 @@ The [phenomenology of understanding](/topics/phenomenology-of-intellectual-life/
 
 ## Empathy and Social Construction
 
-Empathy illustrates the consciousness requirement from the personal side. Three levels exist: emotional contagion (automatic, unconscious), cognitive empathy (understanding what another feels), and empathic concern (caring about their state because you grasp it). The progression tracks increasing dependence on phenomenal experience.
+[Empathy](/concepts/empathy/) illustrates the consciousness requirement from the personal side. Three levels exist: emotional contagion (automatic, unconscious), cognitive empathy (understanding what another feels), and empathic concern (caring about their state because you grasp it). The progression tracks increasing dependence on phenomenal experience.
 
 Emotional contagion is automatic: in de Waal's (2008) account, perceiving another's emotion automatically activates shared representations that produce a matching state, the phylogenetically ancient core of empathy. The Map reads that automaticity as requiring no grasp of the other *as* a subject; de Waal himself does not claim contagion occurs without consciousness. But empathic concern requires something more. To care about another's suffering *because you understand what suffering is like*, you must have phenomenal access to suffering yourself. The [phenomenology of trust](/topics/phenomenology-of-trust/) reveals a parallel structure: trusting another person requires experiencing them as a subject capable of honouring or violating your openness.
 

@@ -1410,14 +1410,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **CLOSED BY THE DRIVER 2026-09-19 09:0x UTC.** The over-concession task on `topics/metaproblem-of-consciousness-under-dualism` discharged this in the same paragraph, as designed — all three findings shared one section and were written once. **Measured after the edit: `Saad` 0 → 4 occurrences in that article** (word-boundary), against 16 deployments of `realizationism`, with the full metadata landed from Chalmers 2020's own reference list (*JCS* 26(9–10):205–216) and a piped `[[delegatory-dualism|delegatory dualism]]` reciprocal into the existing Saad cluster. Verified 4:4 in **both** obsidian and hugo. ⚠️ **The attribution guard held**: Chalmers keeps the coinage ("whose term it is"); Saad supplies the interactionist version only. **THE SECOND HALF IS DELIBERATELY NOT DONE, and should not be re-minted.** This task said "both meta-problem articles", but `concepts/meta-problem-of-consciousness` deploys `realizationism` exactly **once** (offset 8974), where it defines the term inline and immediately hands off via `[[metaproblem-of-consciousness-under-dualism|interactionist development]]` to the article that now carries the provenance. A single defining mention behind an explicit hand-off does not need its own attribution, and that file is at **3481/3499 words — 18 words of headroom — with an open `condense` task against it**. Adding a citation there would trip the hard gate.
 
-### P3: Write concept page on empathy (Stein, Scheler, Husserl, Zahavi; direct perception vs simulation vs theory-theory)
-- **Type**: expand-topic
-- **Status**: pending
-- **Section**: concepts
-- **Source**: optimistic-review 2026-09-23 (reviews/optimistic-2026-09-23-intersubjective-wing.md, High Priority)
-- **Generated**: 2026-09-23
-- **Notes**: Suggested by optimistic review. The Map has no empathy page (`ls obsidian/concepts | grep -i empath` finds nothing), and "Edith Stein" appears in 0 live articles (1 research note: `research/voids-intersubjective-void-2026-02-01.md`). Yet the social/intersubjective wing (intersubjectivity, social-understanding, trust, testimony, collective-phenomena) relies throughout on appresentation, Zahavi 2001's rejection of the inference model, and de Waal's three levels. Cover: Stein *Zum Problem der Einfühlung* (1917) on empathy as non-primordial givenness; Scheler against the inference and projection models; Zahavi's direct-perception account; the simulation-theory / theory-theory / direct-perception debate. Dualist frame: empathy as non-coincidence, the phenomenological form of the constitutive gap between minds. Keep the tenet connections calibrated: the phenomenology is *coherent with* individual dualism and does not prove it. Concepts count 326 against cap 360; re-measure before writing.
-
 ### P3: phenomenology-of-choice-and-volition: retire the "metabolic cost / no adaptive explanation" argument (L94) that its sibling spontaneous-intentional-action L132 already concedes away
 - **Type**: refine-draft
 - **Status**: pending
@@ -1610,6 +1602,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-26: Write concept page on empathy (Stein, Scheler, Husserl, Zahavi; direct perception vs simulation vs theory-theory)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map has no empathy page (`ls obsidian/concepts | grep -i empath` finds nothing), and "Edith Stein" appears in 0 live articles (1 research note: `research/voids-intersubjective-void-2026-02-01.md`). Yet the social/intersubjective wing (intersubjectivity, social-understanding, trust, testimony, collective-phenomena) relies throughout on appresentation, Zahavi 2001's rejection of the inference model, and de Waal's three levels. Cover: Stein *Zum Problem der Einfühlung* (1917) on empathy as non-primordial givenness; Scheler against the inference and projection models; Zahavi's direct-perception account; the simulation-theory / theory-theory / direct-perception debate. Dualist frame: empathy as non-coincidence, the phenomenological form of the constitutive gap between minds. Keep the tenet connections calibrated: the phenomenology is *coherent with* individual dualism and does not prove it. Concepts count 326 against cap 360; re-measure before writing.
 
 ### ✓ 2026-09-26: consciousness-and-collective-phenomena: "Ant colonies demonstrate that intelligence without consciousness is possible" asserts an absence the Map does not hold
 - **Type**: refine-draft

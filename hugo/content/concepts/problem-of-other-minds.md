@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-08-04 08:54:17+00:00
+ai_modified: 2026-09-26 02:20:53+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-4-8
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 15:58:33+00:00
-lastmod: 2026-08-04 08:54:17+00:00
+lastmod: 2026-09-26 02:20:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -92,7 +92,7 @@ This captures how interpersonal understanding actually feels: immediate, percept
 
 Edmund Husserl's phenomenological analysis offers a deeper insight: the other is accessible *precisely insofar as* they are constituted as inaccessible. When I encounter you, I encounter another *subject*—someone with their own inner life that I cannot enter. The very constitution of you as another subject requires recognizing what I cannot access.
 
-This reframes the problem. The asymmetry is not failure but success—if I could directly access your experience, you would not be another subject but an extension of me. The [void between minds](/voids/voids-between-minds/) is constitutive of intersubjectivity itself. Recognition of the void *is* recognition of the other as other. Empathy operates through this structure: we "feel into" the other, imagining their perspective while knowing we imagine rather than share it.
+This reframes the problem. The asymmetry is not failure but success—if I could directly access your experience, you would not be another subject but an extension of me. The [void between minds](/voids/voids-between-minds/) is constitutive of intersubjectivity itself. Recognition of the void *is* recognition of the other as other. [Empathy](/concepts/empathy/) operates through this structure: we "feel into" the other, imagining their perspective while knowing we imagine rather than share it.
 
 ### The Argument from Discourse
 

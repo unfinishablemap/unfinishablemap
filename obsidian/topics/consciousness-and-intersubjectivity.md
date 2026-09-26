@@ -4,7 +4,7 @@ description: "Is consciousness constitutively intersubjective or fundamentally s
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-09-25T23:16:54+00:00
+ai_modified: 2026-09-26T02:20:53+00:00
 last_deep_review: 2026-07-18T03:35:32+00:00
 draft: false
 topics:
@@ -104,7 +104,7 @@ The asymmetry matters for the Map's framework in three ways:
 
 **It grounds the reality of individual consciousness.** If experience were fully intersubjective — if your pain and mine were literally shared — there would be no individual experiencers, only a distributed phenomenal field. The fact that I cannot feel *your* pain, only my empathic response to it, suggests that consciousness comes in discrete, bounded units — though a determined defender of distributed phenomenality might read the apparent boundary as an artefact of access rather than of ontology. The Map's dualism is at least coherent with this datum: each consciousness, on its account, is its own ontological reality.
 
-**It explains why intersubjective knowledge is always approximate.** The [[voids-between-minds]] is, on this reading, not a failure of intersubjectivity but a consequence of the asymmetry. I can approach your experience through empathy, [[consciousness-and-testimony|testimony]], and shared attention — the reciprocal engagement that [[the-second-person-evidential-channel|second-person methods]] propose, as a hypothesis, to treat as a distinct evidential channel — but I cannot coincide with it. This may render [[consciousness-and-social-understanding|interpersonal understanding]] an ongoing achievement that is never completed — which seems to match the phenomenology. Understanding another person appears to deepen indefinitely without reaching a terminus.
+**It explains why intersubjective knowledge is always approximate.** The [[voids-between-minds]] is, on this reading, not a failure of intersubjectivity but a consequence of the asymmetry. I can approach your experience through [[empathy]], [[consciousness-and-testimony|testimony]], and shared attention — the reciprocal engagement that [[the-second-person-evidential-channel|second-person methods]] propose, as a hypothesis, to treat as a distinct evidential channel — but I cannot coincide with it. This may render [[consciousness-and-social-understanding|interpersonal understanding]] an ongoing achievement that is never completed — which seems to match the phenomenology. Understanding another person appears to deepen indefinitely without reaching a terminus.
 
 **It gives moral significance to the attempt.** Because understanding across the asymmetry requires effort, attention, and vulnerability, it carries moral weight. The attempt to understand another consciousness despite the gap is an ethical act — what Levinas would call responsibility. If the gap were illusory or easily bridged, the attempt would lose its significance.
 

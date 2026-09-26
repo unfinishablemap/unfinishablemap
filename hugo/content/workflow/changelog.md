@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-26T02:21:03+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Empathy (concept page): Stein, Scheler, Husserl, Zahavi; direct perception vs simulation vs theory-theory
+- **Output**: [empathy](/concepts/empathy/)
+- **Word count**: 2843 total per analyze_length (soft_warning vs 2500); prose ~2436, remainder Further Reading + 15-entry References
+- **Based on research**: partial — [voids-intersubjective-void-2026-02-01](/research/voids-intersubjective-void-2026-02-01/) (Stein section) plus SEP "Edith Stein"/"Empathy", Zahavi 2001 full text, Crossref-verified metadata
+- **Inbound links (zero-word piped)**: consciousness-and-intersubjectivity, consciousness-and-social-understanding, problem-of-other-minds
+- **Quote discipline**: only two verbatim phrases (Scheler via Zahavi 2001 p.152; Stein "surrogate" via SEP); Husserl and Zahavi 2011/Jacob 2011 paraphrased
+- **Lead for follow-up**: voids-between-minds L112 quotes Stein ("remains veiled") unverified against the translation, and L84 frames empathy/anger-perception as inference, in tension with the direct-perception account now on concepts/empathy
+
 ## 2026-09-26T01:45:44+00:00 - deep-review
 - **Status**: Success
 - **File**: [consciousness-as-activity](/topics/consciousness-as-activity/)

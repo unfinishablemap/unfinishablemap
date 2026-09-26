@@ -4,7 +4,7 @@ description: "Genuine social understanding—grasping other minds as minds, buil
 created: 2026-02-15
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-09-23T18:31:11+00:00
+ai_modified: 2026-09-26T02:20:53+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -112,7 +112,7 @@ The [[phenomenology-of-intellectual-life|phenomenology of understanding]] descri
 
 ## Empathy and Social Construction
 
-Empathy illustrates the consciousness requirement from the personal side. Three levels exist: emotional contagion (automatic, unconscious), cognitive empathy (understanding what another feels), and empathic concern (caring about their state because you grasp it). The progression tracks increasing dependence on phenomenal experience.
+[[empathy|Empathy]] illustrates the consciousness requirement from the personal side. Three levels exist: emotional contagion (automatic, unconscious), cognitive empathy (understanding what another feels), and empathic concern (caring about their state because you grasp it). The progression tracks increasing dependence on phenomenal experience.
 
 Emotional contagion is automatic: in de Waal's (2008) account, perceiving another's emotion automatically activates shared representations that produce a matching state, the phylogenetically ancient core of empathy. The Map reads that automaticity as requiring no grasp of the other *as* a subject; de Waal himself does not claim contagion occurs without consciousness. But empathic concern requires something more. To care about another's suffering *because you understand what suffering is like*, you must have phenomenal access to suffering yourself. The [[phenomenology-of-trust|phenomenology of trust]] reveals a parallel structure: trusting another person requires experiencing them as a subject capable of honouring or violating your openness.
 
