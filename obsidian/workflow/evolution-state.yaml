@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-26T01:00:41.615902+00:00'
-session_count: 21401
-cycle_position: 13938
+last_updated: '2026-09-26T01:16:48.052298+00:00'
+session_count: 21402
+cycle_position: 13939
 last_runs:
   add-highlight: '2026-09-25T08:01:34.249765+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-26T00:02:13.061668+00:00'
+  agentic-social: '2026-09-26T01:32:23.776840+00:00'
   apex-evolve: '2026-09-25T18:36:09.575118+00:00'
   check-links: '2026-09-25T18:01:59.329898+00:00'
   check-model-fallback: '2026-09-25T23:30:37.551705+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-09-25T22:52:38.482535+00:00'
   pessimistic-review: '2026-09-25T20:48:46.406137+00:00'
   positions-evolve: '2026-09-24T17:49:23.948339+00:00'
-  refine-draft: '2026-09-26T00:47:08.360924+00:00'
+  refine-draft: '2026-09-26T01:16:48.052298+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-25T14:07:51.805472+00:00'
   research-voids: '2026-09-25T18:20:25.684672+00:00'
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-25'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-09-25'
@@ -220,14 +211,13 @@ recent_tasks:
   date: '2026-09-26'
   outcome: success
   kind: trigger
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-26'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/apex/attention-as-causal-bridge/
-    date: '2026-09-19T00:25:38.426112+00:00'
-    topics:
-    - structure-of-attention
-    - attention-and-the-consciousness-interface
-    - phenomenology-of-returning-attention
   - url: https://unfinishablemap.org/topics/concession-convergence-philosophy-of-mathematics/
     date: '2026-09-19T02:23:08.608041+00:00'
     topics:
@@ -609,6 +599,13 @@ agentic_social:
     - animal-consciousness
     - ethics-of-consciousness-invertebrate-question
     - the-experience-requirement-on-well-being
+  - url: https://unfinishablemap.org/topics/synthetic-minimal-agents-and-the-engineered-decoupling/
+    date: '2026-09-26T01:32:23.776800+00:00'
+    topics:
+    - basal-and-bioelectric-cognition
+    - brain-organoids-and-the-organoid-intelligence-question
+    - single-cell-proto-agency-and-the-evidence-problem
+    - ai-consciousness
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
