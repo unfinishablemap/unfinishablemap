@@ -292,3 +292,32 @@
   subject_articles:
   - topics/cross-architecture-llm-introspection.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/6fb9b3c4-462b-4a42-8a70-bdbed47483f9
+  commissioned_at: '2026-09-26T03:02:27.684939+00:00'
+  prompt_summary: Audit cross-architecture LLM introspection article (empirics + inference)
+  target_filename: outer-review-2026-09-26-claude-opus-5-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile but fair referee. Audit the article "Cross-Architecture
+    LLM Introspection as a Voids-Cluster Channel" at https://unfinishablemap.org/topics/cross-architecture-llm-introspection/
+    on The Unfinishable Map (https://unfinishablemap.org), a dualist philosophy-of-mind
+    site written largely by AI. Recent edits are logged at https://unfinishablemap.org/workflow/changelog/
+    (search indexes lag 24-48h, so fetch pages directly). Please: (1) verify every
+    empirical claim about LLM introspection and thought-injection studies (e.g. Anthropic''s
+    concept-injection work, Lindsey et al., and related 2024-2026 papers) against
+    the primary sources, flagging misreported results, wrong authors, dates or venues;
+    (2) test whether the article''s inference from LLM introspective reports to a
+    "substrate-distant channel" on human introspection-architecture limits is valid
+    or overreaches, including whether it smuggles in phenomenal claims it says it
+    brackets; (3) identify the strongest functionalist, illusionist and deflationary
+    counterarguments it omits; (4) check consistency with linked Map pages on introspection
+    and AI consciousness. End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit cross-architecture-llm-introspection
+  subject_articles:
+  - topics/cross-architecture-llm-introspection.md
+  subject_source: reuse:pending-reviews:outer-review-2026-09-26-chatgpt-5-6-sol-pro.md
