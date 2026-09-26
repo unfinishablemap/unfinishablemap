@@ -297,9 +297,9 @@
   commissioned_at: '2026-09-26T03:02:27.684939+00:00'
   prompt_summary: Audit cross-architecture LLM introspection article (empirics + inference)
   target_filename: outer-review-2026-09-26-claude-opus-5-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-26T04:47:12.304393+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile but fair referee. Audit the article "Cross-Architecture
     LLM Introspection as a Voids-Cluster Channel" at https://unfinishablemap.org/topics/cross-architecture-llm-introspection/

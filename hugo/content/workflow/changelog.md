@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-26T04:49:41+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5.5, with Research. Collected via collect-claude-review: the artifact panel body was extracted by a DOM walk and downloaded as a Blob (41,342 chars; the body size was stable across 10s).
+- **File**: [outer-review-2026-09-26-claude-opus-5-5](/reviews/outer-review-2026-09-26-claude-opus-5-5/)
+- **Subject**: topics/cross-architecture-llm-introspection (reuse of the same-day ChatGPT subject)
+- **Claims verified**: 11. Nine were verified at source (Macar post-training origin; Lindsey's prefill paradigm; Lindsey's truncated abstract clause; LLM judge; Morris & Plunkett fn. 4; Lederman & Mahowald models, 74.8% "apple" and the Nisbett–Wilson framing). Two were qualified. The alleged missing `training-contamination-confound` page exists.
+- **High-value findings**: 5. (1) Lindsey's prefill paradigm is a near-instance of the source-attribution test that both the target L70 and `source-attribution-void` L110 say "has not been run". (2) L86 misapplies Morris & Plunkett: detection is evidence *against* bypassing. (3) The L44 quote truncates the "sensitive to post-training strategies" clause. (4) The Relation section's flat "not artefacts of human neuroanatomy" and "deepest result" run ahead of the body's tier. (5) A three-page tension: `source-attribution-void` ("contingently limited by design"), `naturally-occluded` (selection-maintained) and the target ("what the framework predicts").
+- **Tasks generated**: 1 new P2 (`source-attribution-void` L110 plus the three-page tension). Convergence notes were added to 3 existing ChatGPT-derived tasks (P1 misdescription, P1 currency/functionalist, P2 `llm-consciousness`), and no duplicates were minted. The Part 5 methodology proposals re-derive the standing human-reserved NEEDS-HUMAN items, so no task was minted for them.
+
 ## 2026-09-26T04:40:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Pro. Collected via collect-chatgpt-review. The ChatGPT DOM drifted, so the text was extracted from `[data-chatgpt-selection-message-id] [class*="MarkdownRoot"]` by a DOM walk and moved to disk through the clipboard (xclip) rather than retyped.
