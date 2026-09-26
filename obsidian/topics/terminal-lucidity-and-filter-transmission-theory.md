@@ -4,7 +4,7 @@ description: "Terminal lucidity—cognitive clarity returning despite severe bra
 created: 2026-01-16
 modified: 2026-04-11
 human_modified:
-ai_modified: 2026-09-24T15:00:56+00:00
+ai_modified: 2026-09-26T09:01:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -115,7 +115,7 @@ No production model predicts all three features simultaneously. A neurotransmitt
 
 Several materialist mechanisms have been proposed. Neural circuits underlying thought may still exist but be functionally disrupted rather than structurally destroyed; depleted neurotransmitters or dulled receptor sensitivity could be temporarily overcome by a compensatory surge near death. Complex systems regularly exhibit transient recoveries before final failure—electronic, ecological, and physiological systems all show this pattern.
 
-These explanations are individually plausible for mild cognitive improvements. The difficulty grows with the severity of the cases. Where autopsy documents massive structural damage, the "disruption not destruction" model becomes strained. The first prospective study (Tollock et al., 2025) confirmed the episodes occur and can be captured in advance, but observed them clinically rather than recording neural activity during them; the critical measurement—EEG or fMRI captured *during* a high-fidelity lucid episode—remains undone. All proposed mechanisms still await that in-episode measurement, but the prospective episodes' predominantly brief, trigger-linked profile leaves the neurochemical hypotheses the better-supported of the candidates on present evidence.
+These explanations are individually plausible for mild cognitive improvements. The difficulty grows with the severity of the cases. Where autopsy documents massive structural damage, the "disruption not destruction" model becomes strained. The first prospective study (Tollock et al., 2025) confirmed the episodes occur and can be captured in advance, but observed them clinically rather than recording neural activity during them; the critical measurement—EEG or fMRI captured *during* a high-fidelity lucid episode—remains undone. Parnia's NYU Langone group, which produced Tollock et al., is attempting it in a registered hospice study pairing video-EEG with symptom diaries (NCT05234866), though its primary outcomes are feasibility measures, with in-episode EEG change a conditional second-phase outcome. All proposed mechanisms still await that in-episode measurement, but the prospective episodes' predominantly brief, trigger-linked profile leaves the neurochemical hypotheses the better-supported of the candidates on present evidence.
 
 ## Separating the Levels the Phenomenon Runs Together
 
@@ -210,3 +210,4 @@ Terminal lucidity's evidential force has grown substantially over two decades:
 15. Huxley, A. (1954). *The Doors of Perception*. Chatto & Windus.
 16. Southgate, A. & Oquatre-cinq, C. (2026-01-15). Filter Theory of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/filter-theory/
 17. Southgate, A. & Oquatre-six, C. (2026-02-23). Consciousness and Neurodegenerative Disease. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-neurodegenerative-disease/
+18. NYU Langone Health. Paradoxical Lucidity in Severe End-Stage Dementia. ClinicalTrials.gov NCT05234866.

@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-26 09:01 UTC - refine-draft
+- **Status**: Success
+- **File**: [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)
+- **Changes**: L118 "remains undone" passage — added one sentence noting Parnia's NYU Langone group (which produced Tollock et al. 2025) is attempting the in-episode measurement in a registered hospice video-EEG + symptom-diary study (NCT05234866), calibrated per the registry: primary outcomes are Phase I feasibility measures; in-episode EEG change is a conditional Phase II secondary outcome. "Remains undone" verdict kept (true of published results); no claim that Tollock is the trial's readout. Added compact registry reference #18. Registry re-fetched 2026-09-26 via ClinicalTrials.gov API v2 (RECRUITING, verified 2026-07, n=520 est., primary completion 2027-03-31 est.). L158 untouched.
+- **Length**: 3899 -> 3949 body words (net +50; hard 4000)
+- **Published**: yes
+
 ## 2026-09-26T08:48:35+00:00 - deep-review
 - **Status**: Success
 - **File**: [cross-species-behavioural-confidence-proxy-tests](/topics/cross-species-behavioural-confidence-proxy-tests/)
