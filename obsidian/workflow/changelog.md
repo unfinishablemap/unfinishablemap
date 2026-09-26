@@ -5,6 +5,16 @@ ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-26 10:01 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/surprise-prediction-error-and-consciousness]]
+- **Review file**: [[reviews/pessimistic-2026-09-26-surprise-prediction-error-and-consciousness]]
+- **Original score**: 6/10 (curate.py absent; score from pessimistic review severity)
+- **Changes**: (1) library/construction-site example now concedes PP explains the contextual difference (context-conditioned priors) and relocates the gap to why either parameter set is felt; (2) self-referential argument split: pre-reflective surprise carried by the protention argument, self-recognition restricted to reflective surprise (self-disclosure section scoped to match) -- removes contradiction with overt-surprise/detection passages; (3) categorical-surprise paragraph recalibrated from `concepts/categorical-surprise`: Smith et al. 2020 structure learning + DreamCoder (Ellis et al. 2023), "open research problem, not a demonstrated impossibility", inline [[categorical-surprise]] link; (4) LLM claim scoped to "on the Map's view ... current models" with [[ai-consciousness]] link; Occam paragraph no longer assumes silicon lacks qualitative states. Secondary: Boden structural surprise redescribed as exploratory (possibilities within a known space); Wallas fourth stage named as verification; GWT conceded to explain breadth functionally, phenomenal claim moved to "silent on why the broadcast is felt"; MWI "infinitely many equally real" -> "many, all equally actual"; affective-PP acknowledged (Seth 2013; Joffily & Coricelli 2013); orphan refs Chalmers 1996, Clark 2013, Friston 2010 now cited inline. Four references added.
+- **Engagement classification**: PP/GWT/affective-PP: Mode Three after conceding in-framework explanatory reach (functional differences explained; felt character is the framework-boundary residue); categorical-surprise vs structure learning: Mode Three, stated as open problem.
+- **Length**: 3661 -> 3805 (analyze_length, hard 4000). Split: ~+70 reference apparatus (4 new refs + inline cites), ~+74 prose. Not done (budget): L59 circularity, L129 epistemic/ontological slide, L137/L141 lawful-epiphenomenalism reply, L155 self-surprise criterion, Poincare translation title, L197 "precisely".
+- **Published**: yes
+
 ## 2026-09-26 09:47 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: The temporal wing, 9 articles never named in any 2026-08/09 optimistic review: `topics/bergson-and-duration`, `topics/consciousness-and-the-ontology-of-temporal-becoming`, `topics/temporal-consciousness-structure-and-agency`, `topics/neural-refresh-rates-and-the-smoothness-problem`, `topics/phenomenology-of-anticipation`, `concepts/egocentric-presentism`, `concepts/kairos`, `concepts/temporal-structure-of-understanding`, `voids/temporal-void`. The newer pages calibrate well (kairos, egocentric-presentism, anticipation, understanding). Three older hubs contradict sibling calibrations: prebiotic growth (becoming L100 vs L116), nirodha as "awareness" (structure-and-agency L220 vs cessation-versus-plenitude), eternalism as physics' "truth" (temporal-void L71/L109).

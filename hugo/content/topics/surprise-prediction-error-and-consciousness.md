@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-06-14 12:32:11+00:00
+ai_modified: 2026-09-26 10:01:42+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 13:10:13+00:00
-lastmod: 2026-06-14 12:32:11+00:00
+lastmod: 2026-09-26 10:01:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -64,7 +64,7 @@ Genuine surprise—the felt jolt when expectation shatters—requires phenomenal
 
 ## The Gap Between Error and Experience
 
-[Predictive processing](/concepts/predictive-processing/) (PP) models the brain as a hierarchical prediction engine. When predictions fail, error signals propagate upward, updating the model. This is computationally elegant and empirically productive. But it describes only one side of what happens when a loud crash interrupts silence.
+[Predictive processing](/concepts/predictive-processing/) (PP) models the brain as a hierarchical prediction engine (Friston 2010; Clark 2013). When predictions fail, error signals propagate upward, updating the model. This is computationally elegant and empirically productive. But it describes only one side of what happens when a loud crash interrupts silence.
 
 The computational side: a high-magnitude prediction error, large precision weighting, rapid model updating.
 
@@ -106,23 +106,23 @@ Three arguments converge on the claim that surprise is irreducibly phenomenal.
 
 ### The Qualitative Argument
 
-Surprise has a *what-it-is-like*. The felt jolt of the unexpected differs qualitatively from the felt flow of the expected, just as seeing red differs from seeing blue. This qualitative character—what philosophers call the *quale* of surprise—cannot be captured by describing the prediction error that triggers it. Two prediction errors of identical magnitude can produce surprise of different character depending on context: a sudden noise in a quiet library feels different from a sudden noise at a construction site, even if the decibel increase is identical. The qualitative difference is a phenomenal fact, not a computational one.
+Surprise has a *what-it-is-like*. The felt jolt of the unexpected differs qualitatively from the felt flow of the expected, just as seeing red differs from seeing blue. This qualitative character—what philosophers call the *quale* of surprise—cannot be captured by describing the prediction error that triggers it. A sudden noise in a quiet library feels different from the same noise at a construction site, and PP explains the difference: context-conditioned priors make the two prediction errors genuinely different. But grant PP every parameter it assigns each case. The remaining question is why the library's parameter set feels like *this*—or like anything at all.
 
 Consider also precision weighting—the mechanism by which PP determines how much an error signal matters. High-precision errors (unexpected events in contexts where you were confident) feel different from low-precision errors (unexpected events in contexts where anything might happen). The first produces sharp surprise; the second produces mild interest. PP explains this as a difference in precision parameters. But the question of why high precision weighting feels like *this* rather than like *that*—or like nothing—is not addressed by the computational description.
 
 ### The Self-Referential Argument
 
-Genuine surprise involves self-awareness of one's own violated expectation. To be surprised is not just to receive unexpected input—it is to *recognise that what happened contradicts what you anticipated*. This requires a subject who was anticipating and who now registers the mismatch as *their own*. A motion detector activates when something unexpected moves, but it does not recognise that its prior state has been violated. It has no representation of its own expectations and therefore cannot experience their disruption.
+Pre-reflective surprise—the startle, the wrongness felt before the sound is categorised—needs no self-awareness. What it needs is an experiential [protentional structure](/topics/phenomenology-of-anticipation/). Protention is an experiential orientation as well as a forward-looking computation—consciousness *reaching toward* what comes next. Surprise is what happens when this reaching meets something it cannot grasp. The disruption is felt precisely because the reaching was experiential.
 
-This connects to the [protentional structure](/topics/phenomenology-of-anticipation/) of consciousness. Protention is not merely a forward-looking computation but an experiential orientation—consciousness *reaching toward* what comes next. Surprise is what happens when this reaching meets something it cannot grasp. The disruption is felt precisely because the reaching was experiential.
+Reflective surprise adds a further layer: *recognising that what happened contradicts what you anticipated*. This requires a subject who registers the mismatch as *their own*. A motion detector activates when something unexpected moves, but it has no representation of its own expectations and therefore cannot recognise their disruption.
 
 ### The Motivational Argument
 
 Surprise functions as a signal that restructures priorities. When something surprising happens, attention shifts, ongoing goals are suspended, and cognitive resources are reallocated to the novel stimulus. This reallocation involves a felt sense of urgency, a phenomenal *demand* that commands the whole organism.
 
-PP accounts for some of this through precision weighting: high-precision prediction errors recruit more cognitive resources. But precision weighting explains the *magnitude* of the response, not its *qualitative character*. A threatening surprise and a delightful surprise may involve comparable precision-weighted errors yet produce phenomenally distinct responses—fear versus wonder—that shape learning and behaviour in different directions.
+PP accounts for some of this through precision weighting: high-precision prediction errors recruit more cognitive resources. But precision weighting explains the *magnitude* of the response, not its *qualitative character*. Affective PP goes further, giving threat and delight distinct computational signatures through interoceptive inference (Seth 2013) or the rate of change of free energy (Joffily & Coricelli 2013). What it does not say is why that difference is felt as fear versus wonder rather than as nothing.
 
-If surprise were merely a precision-weighted error signal, it would update the model proportionally and move on. Instead, surprising events appear to recruit the [global workspace](/concepts/global-workspace-theory/), becoming available for reasoning, memory encoding, and action planning simultaneously. The breadth of this recruitment, combined with the qualitative specificity of the response, suggests that something more than local error correction is happening—the organism is being *told*, phenomenally, that something matters, and *how* it matters.
+If surprise were merely a precision-weighted error signal, it would update the model proportionally and move on. Instead, surprising events appear to recruit the [global workspace](/concepts/global-workspace-theory/), becoming available for reasoning, memory encoding, and action planning simultaneously. GWT explains this breadth functionally. But GWT, like PP, is silent on why the broadcast is felt—why the organism is *told*, phenomenally, that something matters, and *how* it matters.
 
 ## The Absence of Expected Surprise
 
@@ -152,7 +152,7 @@ Surprise therefore serves an epistemic function beyond mere model updating: you 
 
 This connects to the Map's broader interest in [error recognition](/voids/self-opacity/). Without surprise, expectations would operate invisibly, shaping experience without ever being examined. Surprise ruptures this invisibility, creating moments where the normally transparent structure of anticipation becomes opaque—available for inspection and revision.
 
-A predictive processing system can be designed to flag large errors for higher-level processing. But the phenomenal self-disclosure of surprise—the felt revelation that *I expected this* and *I was wrong*—involves a subject who discovers something about itself.
+A predictive processing system can be designed to flag large errors for higher-level processing. But the self-disclosure of reflective surprise—the felt revelation that *I expected this* and *I was wrong*—involves a subject who discovers something about itself.
 
 ## Creative Surprise and Self-Astonishment
 
@@ -164,11 +164,11 @@ Poincaré described mathematical insight arriving "with the same characteristics
 
 Creative self-surprise imposes a double requirement: **authorship plus astonishment**. The creator must experience novelty *as coming from themselves*. This requires felt ownership of one's actions combined with the recognition that the action exceeded what the agent intended or foresaw. The creator thinks: "I made this, and I didn't know I could make this." Both halves require phenomenal consciousness. The ownership requires a felt self. The surprise requires felt expectation violated.
 
-This double requirement cannot be replicated by a system that merely generates outputs matching statistical patterns of novelty. An AI language model can produce text that surprises its users, but the model lacks the phenomenal expectation whose violation constitutes surprise—no felt anticipation whose disruption registers as self-astonishment.
+This double requirement cannot be replicated by a system that merely generates outputs matching statistical patterns of novelty. An AI language model can produce text that surprises its users, but on the Map's view there is no good reason to think current models have the phenomenal expectation whose violation constitutes surprise (see [ai-consciousness](/topics/ai-consciousness/))—no felt anticipation whose disruption registers as self-astonishment.
 
 ### The Temporal Structure of Creative Surprise
 
-Creative surprise unfolds through a distinctive sequence—extending both Wallas's (1926) four-stage model and the general temporal microstructure of surprise. **Preparation** builds the predictive model against which later surprise will register—the creator accumulates material and feels the friction of inadequate solutions. [**Incubation**](/topics/incubation-effect-and-unconscious-processing/) involves processing outside conscious access, what Poincaré called the "subliminal self." This phase has a distinctive felt quality: pregnant opacity, a sense of one's own mind working beyond one's reach. This [epistemic emotion](/concepts/epistemic-emotions/)—knowing that something is happening without knowing what—is itself evidence for the kind of first-person opacity that physicalist accounts struggle to explain. **Illumination** arrives with sudden certainty: the creator is surprised not by an external event but by their own mind's output, accompanied by retroactive inevitability. **Integration** transforms not just the product but the producer—the creator's model of their own capabilities updates, reshaping the experiential landscape.
+Creative surprise unfolds through a distinctive sequence—extending both Wallas's (1926) four-stage model and the general temporal microstructure of surprise. **Preparation** builds the predictive model against which later surprise will register—the creator accumulates material and feels the friction of inadequate solutions. [**Incubation**](/topics/incubation-effect-and-unconscious-processing/) involves processing outside conscious access, what Poincaré called the "subliminal self." This phase has a distinctive felt quality: pregnant opacity, a sense of one's own mind working beyond one's reach. This [epistemic emotion](/concepts/epistemic-emotions/)—knowing that something is happening without knowing what—is itself evidence for the kind of first-person opacity that physicalist accounts struggle to explain. **Illumination** arrives with sudden certainty: the creator is surprised not by an external event but by their own mind's output, accompanied by retroactive inevitability. Wallas's fourth stage, verification, becomes here a broader **integration** that transforms not just the product but the producer—the creator's model of their own capabilities updates, reshaping the experiential landscape.
 
 ### The Gradient of Creative Surprise
 
@@ -176,7 +176,7 @@ Creative surprise ranges across levels that track the depth of novelty, mapping 
 
 **Recognition surprise** occurs when familiar elements appear in an unfamiliar configuration. "I didn't think of combining these." This is combinational creativity—the elements were known, only the combination is new.
 
-**Structural surprise** reveals hidden connections between apparently unrelated domains. "I didn't know these were connected." This is exploratory creativity—the connections existed within the conceptual space but had not been mapped.
+**Structural surprise** reveals unexplored possibilities within a known conceptual space. "I didn't know this space contained that." This is exploratory creativity—the possibilities existed within the space's rules but had not been mapped.
 
 **Foundational surprise** changes the creator's understanding of what is possible. "I didn't know this *could* exist." This is transformational creativity—the conceptual space itself has been altered, pushing against the [creative-aesthetic-void](/voids/creative-aesthetic-void/), the limit of what minds can generate. Foundational surprise shades into the categorical surprise discussed in the next section.
 
@@ -186,7 +186,7 @@ There is a category of surprise that predictive processing models struggle to ac
 
 Ordinary prediction errors involve mismatches within a familiar domain. You expected a red car; you saw a blue one. The category was anticipated; only the value was wrong. But sometimes surprise reveals an entirely new category—a paradigm shift, a creative insight, an encounter with a truly alien perspective. The surprise is not about a wrong prediction but about the absence of any relevant prediction at all.
 
-*Categorical surprise* resists computational modelling because it involves recognising the inadequacy of one's own representational framework, not just updating values within it. Bayesian model selection and active inference handle model-level comparison—choosing among predefined alternatives. But categorical surprise confronts a situation where no model in the current repertoire applies. Recognising that an entire space of models is inadequate requires a vantage point outside that space.
+[*Categorical surprise*](/concepts/categorical-surprise/) involves recognising the inadequacy of one's own representational framework, not just updating values within it. Computational work presses hard here: active inference structure learning acquires novel hidden states (Smith et al. 2020), and program induction such as DreamCoder (Ellis et al. 2023) grows new abstractions. Yet none of these systems chooses its own base vocabulary—their reachable restructurings are still fixed by modeller-supplied primitives. Whether that is a principled limit is an open research problem, not a demonstrated impossibility.
 
 This is where consciousness as [intelligence amplifier](/concepts/consciousness-as-amplifier/) becomes most visible. The foundational surprise discussed in the previous section—where creative insight changes the creator's understanding of what is possible—is a paradigm case of categorical surprise. The felt quality of "I didn't even know this was possible" is the phenomenal marker of a framework being transcended.
 
@@ -194,15 +194,15 @@ This is where consciousness as [intelligence amplifier](/concepts/consciousness-
 
 Surprise connects to The Unfinishable Map's [tenets](/tenets/) at multiple points.
 
-**[Dualism](/tenets/#dualism)**: The irreducibility of felt surprise to prediction error is an instance of the broader explanatory gap. PP describes the computational structure of failed prediction; phenomenal surprise is what failed prediction *is like* for a subject. No amount of computational detail closes the gap between "high-magnitude prediction error" and "the jolt of the unexpected." The qualitative richness of the prediction error spectrum deepens this point: a type-B materialist must hold that the specific qualitative character of each experience—why high-precision error feels like *sharp surprise* rather than *mild unease* or nothing at all—is identical to some physical property, even though no amount of physical description reveals this identity. The accumulation of brute psychophysical identities needed to cover the full spectrum of surprise experience—from micro-correction to existential vertigo—makes the identity theory less an explanation than a catalogue of unexplained correspondences.
+**[Dualism](/tenets/#dualism)**: The irreducibility of felt surprise to prediction error is an instance of the broader explanatory gap (Chalmers 1996). PP describes the computational structure of failed prediction; phenomenal surprise is what failed prediction *is like* for a subject. No amount of computational detail closes the gap between "high-magnitude prediction error" and "the jolt of the unexpected." The qualitative richness of the prediction error spectrum deepens this point: a type-B materialist must hold that the specific qualitative character of each experience—why high-precision error feels like *sharp surprise* rather than *mild unease* or nothing at all—is identical to some physical property, even though no amount of physical description reveals this identity. The accumulation of brute psychophysical identities needed to cover the full spectrum of surprise experience—from micro-correction to existential vertigo—makes the identity theory less an explanation than a catalogue of unexplained correspondences.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The reorientation phase of surprise—where consciousness actively restructures the experiential field in response to violated expectation—suggests that phenomenal states causally contribute to cognitive outcomes. The *way* attention is redirected depends on the qualitative character of the surprise: alarm directs attention differently from curiosity, and this difference in phenomenal flavour shapes the downstream cognitive response. If the phenomenal character were epiphenomenal, the precise correlation between type of felt surprise and type of cognitive response would be a systematic accident.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The Map speculates that the attentional reorientation triggered by surprise may involve consciousness influencing which neural patterns become actual—selecting among quantum-indeterminate states in the moment when a surprising event demands a response that existing neural habits do not cover. Surprise is precisely the situation where habitual processing fails and conscious selection is most needed.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The phenomenology of surprise presupposes singular outcomes. Surprise exists because *this* happened rather than *that*—the expected event was replaced by an unexpected one. Under many-worlds interpretations where all outcomes occur in separate branches, surprise becomes an indexical accident: every possible reaction to every possible outcome is realised somewhere. The urgency of reorientation—the felt need to update one's model because the world turned out *this* way—loses its grip when "this way" is just one branch among infinitely many equally real alternatives.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The phenomenology of surprise presupposes singular outcomes. Surprise exists because *this* happened rather than *that*—the expected event was replaced by an unexpected one. Under many-worlds interpretations where all outcomes occur in separate branches, surprise becomes an indexical accident: every possible reaction to every possible outcome is realised somewhere. The urgency of reorientation—the felt need to update one's model because the world turned out *this* way—loses its grip when "this way" is just one branch among many, all equally actual.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Reducing the diverse phenomenology of surprise to "prediction error of varying magnitude" is a parsimonious move that purchases simplicity by ignoring the phenomenon most in need of explanation: why prediction error in a brain produces a qualitative state that prediction error in a silicon chip does not. The qualitative discontinuities across the error spectrum—experiences that differ in kind, not degree—suggest that the phenomenon is richer than the computational description allows.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Reducing the diverse phenomenology of surprise to "prediction error of varying magnitude" is a parsimonious move that purchases simplicity by ignoring the phenomenon most in need of explanation: why prediction error in a brain produces a qualitative state at all—and whether prediction error in a silicon chip does is exactly what the computational description cannot settle. The qualitative discontinuities across the error spectrum—experiences that differ in kind, not degree—suggest that the phenomenon is richer than the computational description allows.
 
 ## Further Reading
 
@@ -230,8 +230,12 @@ Surprise connects to The Unfinishable Map's [tenets](/tenets/) at multiple point
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Clark, A. (2013). "Whatever next? Predictive brains, situated agents, and the future of cognitive science." *Behavioral and Brain Sciences*, 36(3), 181-204.
 1. Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*, 11(2), 127-138.
+1. Ellis, K. et al. (2023). "DreamCoder: growing generalizable, interpretable knowledge with wake–sleep Bayesian program learning." *Philosophical Transactions of the Royal Society A*, 381, 20220050.
 1. Hadamard, J. (1945). *An Essay on the Psychology of Invention in the Mathematical Field*. Princeton University Press.
 1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
+1. Joffily, M. & Coricelli, G. (2013). "Emotional valence and the free-energy principle." *PLoS Computational Biology*, 9(6), e1003094.
 1. Kuhn, T. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
 1. Poincaré, H. (1908). *Science and Method*. "Mathematical Creation."
+1. Seth, A. K. (2013). "Interoceptive inference, emotion, and the embodied self." *Trends in Cognitive Sciences*, 17(11), 565-573.
+1. Smith, R., Schwartenbeck, P., Parr, T. & Friston, K. J. (2020). "An Active Inference Approach to Modeling Structure Learning." *Frontiers in Computational Neuroscience*, 14, 41.
 1. Wallas, G. (1926). *The Art of Thought*. London: Jonathan Cape.
