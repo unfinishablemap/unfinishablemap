@@ -4,7 +4,7 @@ description: "Testimony requires consciousness to function yet cannot fully conv
 created: 2026-02-15
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-07-18T21:46:31+00:00
+ai_modified: 2026-09-26T00:46:07+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -72,7 +72,7 @@ The distinction between testimony and other evidence is itself phenomenologicall
 
 Epistemologists divide into two camps on testimony. Reductionists (following David Hume) hold that testimony is justified only when reducible to other sources — perception, memory, and inductive reasoning about speakers' past reliability. Anti-reductionists (following Thomas Reid) hold that it is a basic source of knowledge, epistemically fundamental rather than derived.
 
-The phenomenology appears to favour the anti-reductionist picture. When a stranger gives you directions, you do not typically run through an inductive argument about strangers' reliability. You experience what seems to be a default openness toward their report — a willingness to believe that must be overridden rather than established, a receptivity prior to and different from the effortful assessment that reason for suspicion triggers.
+The phenomenology appears to favour the anti-reductionist picture. When a stranger gives you directions, you do not typically run through an inductive argument about strangers' reliability. You experience what seems to be a [[phenomenology-of-trust|default openness]] toward their report — a willingness to believe that must be overridden rather than established, a receptivity prior to and different from the effortful assessment that reason for suspicion triggers.
 
 The reductionist can reply that this default openness is merely efficient heuristic processing — fast pattern-matching rather than conscious evaluation. Research on [[consciousness-and-social-understanding|social cognition]] supports the observation that much credibility assessment may operate below conscious awareness, rapid subpersonal evaluation beginning before deliberate assessment. The question is whether these subpersonal processes exhaust testimony reception or merely contribute to it; current evidence does not appear to adjudicate decisively.
 

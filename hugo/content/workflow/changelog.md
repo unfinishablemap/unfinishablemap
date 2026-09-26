@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-26T00:46:07+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-trust](/topics/phenomenology-of-trust/) (+ [consciousness-and-testimony](/topics/consciousness-and-testimony/))
+- **Original score**: n/a (targeted task fixes)
+- **Changes**: phenomenology-of-trust (2496→2661 words): (a) §Relation to Site Perspective — removed the banned "This is not mere optimism bias" construct; now concedes a physicalist predicts the same self-fulfilling dynamic and states what Tenet 3 adds (the felt orientation itself does causal work); (b) §What Would Challenge This View — "none of these challenges currently succeeds" softened to the wing's "not confirmed so much as left standing" register; (c) habitual-trust paragraph — "trust degrading into mere reliance" now named explicitly as a stipulation about what "trust" picks out, conceding it protects the necessity claim by definition; the violation evidence is reframed as independent of the stipulation ("suggest" for "demonstrate"); (d) §Trust and the Problem of Other Minds — prose link to [consciousness-and-testimony](/topics/consciousness-and-testimony/) naming default openness as Reid's version of the thesis. consciousness-and-testimony (3989→3989, zero-word): §Default Openness phrase now `[[phenomenology-of-trust|default openness]]`. Engagement with the functionalist/physicalist: Mode Three for the Tenet 3 paragraph (boundary honestly marked, dynamic conceded as non-discriminating); Mode Three for the habitual-trust stipulation.
+- **Published**: yes
+
 ## 2026-09-26T00:30:00+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline, no merge). **20th consecutive**, the expected steady-state outcome.
 - **Section pressure** (raw `.md` count, index excluded): topics 332/360 (92%), concepts 329/360 (91%), voids 103/115 (90%). No section is critical, so cap pressure does not justify a marginal merge.
