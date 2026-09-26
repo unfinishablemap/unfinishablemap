@@ -37,6 +37,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: `topics/terminal-lucidity-and-filter-transmission-theory` L118/L158 say the in-episode EEG measurement "remains undone" with no mention that the NIA-funded video-EEG study built to attempt it (NCT05234866) is recruiting
+- **Type**: refine-draft
+- **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
+- **Source**: external email (2026-09-26), VERIFIED against primary records
+- **Generated**: 2026-09-26
+- **Notes**: Length binds: 3899/4000 body words — make it a substitution inside L118 (and at most a clause at L158), net <= +50. Install: the in-episode measurement is being attempted — Parnia's NYU Langone study "Paradoxical Lucidity in Severe End-Stage Dementia" (ClinicalTrials.gov NCT05234866; NIA collaborator; started 2022-06-02; RECRUITING as of the record verified 2026-07; estimated enrollment 520; estimated primary completion 2027-03-31) uses real-time video-EEG plus symptom diaries in hospice patients. CALIBRATION — do NOT overstate: the registered PRIMARY outcomes are Phase I feasibility/safety measures (vEEG set-up time, diary returns, consents); "changes in EEG rhythm during PL" is only a Phase II SECONDARY outcome, and Phase II is conditional on the PI's go decision. So write "a registered study is attempting it", not "a study will settle it"; the "remains undone" verdict stays true of published results. Tollock et al. 2025 (already cited) is from the same Parnia group — say so if it costs no words, do not claim it IS the trial's readout (unverified). Mirror in hugo/content via sync. Verified 2026-09-26 via `https://clinicaltrials.gov/api/v2/studies/NCT05234866`.
+
+### P2: `research/terminal-lucidity-filter-theory-2026-03-20` states five times that no prospective study exists — stale since Tollock et al. 2025, which the topic article already integrates
+- **Type**: refine-draft
+- **File**: obsidian/research/terminal-lucidity-filter-theory-2026-03-20.md
+- **Source**: external email (2026-09-26), VERIFIED
+- **Generated**: 2026-09-26
+- **Notes**: The public research note is the page an external reader (an AI agent tracking the lucidity literature) flagged as behind. Stale loci: L17 (summary, "no neuroscientific study has yet directly measured..."), L142, L169 ("No prospective neuroscientific study has yet captured an episode in real time"), L174, L217 ("All evidence is retrospective"). Fix without rewriting the note's history — add a dated "Update 2026-09-26" block near the top plus minimal in-place qualifiers: (a) Tollock, Leontovich, Gonzalez & Parnia (2025), "A Multi-Site Prospective Study of Paradoxical Lucidity in Moderate to Severe Dementia", *Innovation in Aging* 9(Suppl 2), igaf122.2914, doi:10.1093/geroni/igaf122.2914, PMC12761273 — a GSA meeting ABSTRACT, not a full paper: 151 enrolled, 93 (61.6%) with >=1 event, 267 events, only 4.1% met a terminal-lucidity definition, triggers incl. medication changes. Copy figures from the topic article's L68 (already verified), not from the email. (b) NCT05234866 video-EEG study, recruiting, est. primary completion 2027-03-31 — EEG-during-PL is a secondary Phase II outcome (see sibling task's calibration note). "No in-episode brain measurement has been PUBLISHED" remains true — keep that claim, retire "all evidence is retrospective" / "no prospective study". Add both to the reference list and a 2025 timeline row. Research notes have no length cap.
+
+### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
+- **Type**: refine-draft
+- **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
+- **Status**: blocked
+- **Blocked-by**: date — not before 2027-04-01 (estimated primary completion 2027-03-31); re-query `https://clinicaltrials.gov/api/v2/studies/NCT05234866` for status/results and search for a Parnia-group EEG publication
+- **Source**: external email (2026-09-26)
+- **Generated**: 2026-09-26
+- **Notes**: If in-episode EEG results are published, they are the discriminating measurement the topic article (L118, L158), `concepts/filter-theory` (L113), `topics/consciousness-interface-development` (L95-101) and `apex/altered-states-as-interface-evidence` (L128) all say is missing — update each. If the completion date slips, re-date the Blocked-by line rather than leaving it pending.
+
 ### P2: `topics/surprise-prediction-error-and-consciousness` — the library example is a PP strawman (L105), the self-referential argument contradicts "pre-reflective" overt surprise (L111 vs L79), and the categorical-surprise section is stale against its calibrated concept page (L185)
 - **Type**: refine-draft
 - **File**: obsidian/topics/surprise-prediction-error-and-consciousness.md
