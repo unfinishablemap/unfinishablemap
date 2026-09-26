@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-26T01:15:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-collective-phenomena]]
+- **Original score**: n/a (targeted rescope; `scripts/curate.py` absent)
+- **Changes**: Rescoped two ant-colony sentences so they no longer deny consciousness to individual insects (Map holds insect consciousness at "realistic possibility" per [[topics/invertebrate-consciousness-as-interface-test]]). L58 "The intelligence is real but entirely mechanistic" -> "The colony-level intelligence is real but mechanistic"; L74 "Ant colonies demonstrate that intelligence without consciousness is possible" -> "Ant colonies demonstrate colony-level intelligence without a colony-level subject". No argument added; length-neutral (3915 -> 3915 words, body-only `analyze_length`). 09-20 deep review's tenet-bullet calibrations untouched. L156 "(ant colonies, market mechanisms)" left as-is: pairing with markets (made of conscious agents) already fixes a system-level reading.
+- **Published**: yes
+
 
 ## 2026-09-26T00:46:07+00:00 - refine-draft
 - **Status**: Success

@@ -1410,13 +1410,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **CLOSED BY THE DRIVER 2026-09-19 09:0x UTC.** The over-concession task on `topics/metaproblem-of-consciousness-under-dualism` discharged this in the same paragraph, as designed — all three findings shared one section and were written once. **Measured after the edit: `Saad` 0 → 4 occurrences in that article** (word-boundary), against 16 deployments of `realizationism`, with the full metadata landed from Chalmers 2020's own reference list (*JCS* 26(9–10):205–216) and a piped `[[delegatory-dualism|delegatory dualism]]` reciprocal into the existing Saad cluster. Verified 4:4 in **both** obsidian and hugo. ⚠️ **The attribution guard held**: Chalmers keeps the coinage ("whose term it is"); Saad supplies the interactionist version only. **THE SECOND HALF IS DELIBERATELY NOT DONE, and should not be re-minted.** This task said "both meta-problem articles", but `concepts/meta-problem-of-consciousness` deploys `realizationism` exactly **once** (offset 8974), where it defines the term inline and immediately hands off via `[[metaproblem-of-consciousness-under-dualism|interactionist development]]` to the article that now carries the provenance. A single defining mention behind an explicit hand-off does not need its own attribution, and that file is at **3481/3499 words — 18 words of headroom — with an open `condense` task against it**. Adding a citation there would trip the hard gate.
 
-### P3: consciousness-and-collective-phenomena: "Ant colonies demonstrate that intelligence without consciousness is possible" asserts an absence the Map does not hold
-- **Type**: refine-draft
-- **File**: obsidian/topics/consciousness-and-collective-phenomena.md
-- **Source**: optimistic-review 2026-09-23 (reviews/optimistic-2026-09-23-intersubjective-wing.md, concern 5)
-- **Generated**: 2026-09-23
-- **Notes**: **L74** (§The classical success objection), and compare L58 "entirely mechanistic". The Map's `topics/invertebrate-consciousness-as-interface-test` holds insect consciousness at "realistic possibility" (New York Declaration 2024). The argument needs only the *colony-level* claim: colony intelligence without a colony-level subject. Rescope the sentence; do not add argument. **Headroom 84 words** (3915/4000, deep-reviewed 2026-09-20), so the edit must be length-neutral. Do not touch the 09-20 deep review's tenet-bullet calibrations.
-
 ### P3: Write concept page on empathy (Stein, Scheler, Husserl, Zahavi; direct perception vs simulation vs theory-theory)
 - **Type**: expand-topic
 - **Status**: pending
@@ -1617,6 +1610,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-26: consciousness-and-collective-phenomena: "Ant colonies demonstrate that intelligence without consciousness is possible" asserts an absence the Map does not hold
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-and-collective-phenomena.md
+- **Notes**: **L74** (§The classical success objection), and compare L58 "entirely mechanistic". The Map's `topics/invertebrate-consciousness-as-interface-test` holds insect consciousness at "realistic possibility" (New York Declaration 2024). The argument needs only the *colony-level* claim: colony intelligence without a colony-level subject. Rescope the sentence; do not add argument. **Headroom 84 words** (3915/4000, deep-reviewed 2026-09-20), so the edit must be length-neutral. Do not touch the 09-20 deep review's tenet-bullet calibrations.
 
 ### ✓ 2026-09-26: phenomenology-of-trust: name the definitional move and link it to testimony both ways
 - **Type**: refine-draft

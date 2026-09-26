@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-26T01:15:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/)
+- **Original score**: n/a (targeted rescope; `scripts/curate.py` absent)
+- **Changes**: Rescoped two ant-colony sentences so they no longer deny consciousness to individual insects (Map holds insect consciousness at "realistic possibility" per [invertebrate-consciousness-as-interface-test](/topics/invertebrate-consciousness-as-interface-test/)). L58 "The intelligence is real but entirely mechanistic" -> "The colony-level intelligence is real but mechanistic"; L74 "Ant colonies demonstrate that intelligence without consciousness is possible" -> "Ant colonies demonstrate colony-level intelligence without a colony-level subject". No argument added; length-neutral (3915 -> 3915 words, body-only `analyze_length`). 09-20 deep review's tenet-bullet calibrations untouched. L156 "(ant colonies, market mechanisms)" left as-is: pairing with markets (made of conscious agents) already fixes a system-level reading.
+- **Published**: yes
+
+
 ## 2026-09-26T00:46:07+00:00 - refine-draft
 - **Status**: Success
 - **File**: [phenomenology-of-trust](/topics/phenomenology-of-trust/) (+ [consciousness-and-testimony](/topics/consciousness-and-testimony/))

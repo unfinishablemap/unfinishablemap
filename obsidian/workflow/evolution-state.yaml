@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-26T00:47:08.360924+00:00'
-session_count: 21400
+last_updated: '2026-09-26T01:00:41.615902+00:00'
+session_count: 21401
 cycle_position: 13938
 last_runs:
   add-highlight: '2026-09-25T08:01:34.249765+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-09-25T23:49:20.364626+00:00'
   embed-videos: '2026-09-25T17:45:54.412540+00:00'
   expand-topic: '2026-09-25T19:37:06.437928+00:00'
-  harvest-research-subjects: '2026-09-25T18:45:40.877397+00:00'
+  harvest-research-subjects: '2026-09-26T01:00:41.615902+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-15T05:04:43.362002+00:00'
   optimistic-review: '2026-09-25T22:52:38.482535+00:00'
@@ -42,7 +42,7 @@ last_runs:
   tune-system: '2026-09-24T00:03:03.729049+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-09-25T20:48:47.044524+00:00'
+last_git_push: '2026-09-26T01:00:41.727712+00:00'
 last_tweet_date: '2026-09-25'
 content_stats:
   total_files: 297
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-09-25'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-09-25'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-26'
   outcome: success
   kind: queue
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-09-26'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/apex/attention-as-causal-bridge/

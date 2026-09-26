@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-09-20 20:42:38+00:00
+ai_modified: 2026-09-26 01:15:56+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-20 20:42:38+00:00
-lastmod: 2026-09-20 20:42:38+00:00
+lastmod: 2026-09-26 01:15:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -60,7 +60,7 @@ This combination follows directly from the Map's dualist framework: consciousnes
 
 Collective intelligence takes forms that differ dramatically in how much consciousness they require.
 
-**Swarm intelligence** operates at one extreme. Ant colonies solve optimisation problems through pheromone trails and simple local interactions. No individual organism represents the global problem; solutions emerge from aggregated behaviour. The intelligence is real but entirely mechanistic — distributed computation, not distributed experience.
+**Swarm intelligence** operates at one extreme. Ant colonies solve optimisation problems through pheromone trails and simple local interactions. No individual organism represents the global problem; solutions emerge from aggregated behaviour. The colony-level intelligence is real but mechanistic — distributed computation, not distributed experience.
 
 **Crowd intelligence** sits in the middle. Francis Galton's observation at the 1906 Plymouth stock show — reported in *Nature* the following year — found that the median of 787 fairgoers' guesses at an ox's weight came remarkably close to the actual figure. Each person consciously estimates, but the crowd's superior accuracy arises from statistical error cancellation, not from the crowd experiencing anything. The intelligence is collective; the consciousness remains individual.
 
@@ -76,7 +76,7 @@ The Map finds proposals for group consciousness — from Durkheim's *conscience 
 
 **The phenomenological evidence.** No juror reports participating in a jury-mind. The "group flow" reported by jazz musicians and sports teams — a phenomenon explored further in the Map's treatment of [musical understanding](/topics/phenomenology-of-musical-understanding/) — is better described as synchronised individual consciousness, each player deeply aware of the others, rather than a merged group experience. This synchronisation can produce a genuine phenomenal shift from I-mode to we-mode experience, but the "we" is an intentional structure within each individual consciousness, not a bridge between them. The [voids-between-minds](/voids/voids-between-minds/) persists even through the most intense experiences of togetherness.
 
-**The classical success objection** asks: if collective intelligence works through classical communication, why believe individual cognition needs quantum processes? The Map's response is that the argument concerns where *consciousness* acts, not where *intelligence* arises. Ant colonies demonstrate that intelligence without consciousness is possible; what the Map argues is that distinctively human intelligence — requiring genuine understanding — depends on consciousness acting through quantum-sensitive neural substrates.
+**The classical success objection** asks: if collective intelligence works through classical communication, why believe individual cognition needs quantum processes? The Map's response is that the argument concerns where *consciousness* acts, not where *intelligence* arises. Ant colonies demonstrate colony-level intelligence without a colony-level subject; what the Map argues is that distinctively human intelligence — requiring genuine understanding — depends on consciousness acting through quantum-sensitive neural substrates.
 
 ## The Phenomenology of We-Consciousness
 
