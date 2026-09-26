@@ -36,6 +36,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+### P3: `voids/voids-between-minds` — unverified Stein quote ("remains veiled", ~L112) and an inference framing (~L84) that contradicts the new `concepts/empathy` direct-perception account
+- **Type**: refine-draft
+- **File**: obsidian/voids/voids-between-minds.md
+- **Source**: expand-topic
+- **Generated**: 2026-09-26
+- **Notes**: Flagged by the 2026-09-26 expand-topic that created `concepts/empathy`. (1) ~L112 puts Stein as saying the other's experience "remains veiled" in quotation marks; the phrase could not be verified (not in the current SEP "Edith Stein" entry). Either locate it in Stein, *On the Problem of Empathy* (Stein 1917 / trans. Stein 1989) — verify against a primary or reliable secondary source — or de-quote to paraphrase; Stein's own term for empathy's non-primordial givenness is the reliable anchor. (2) ~L84 says we perceive the expression, not the anger itself, and calls this an inference — this is the inference model the new `concepts/empathy` page (Scheler, Zahavi direct perception) describes as contested and names as a habit in Map articles. Recast so it presents inference as one position, not as fact, and link `[[empathy]]`. Void article: keep the void's point (first-person access is not shared) while not presupposing the inference model. Check length headroom first. `ai_modified` from live `date -u`; sync.
+
 
 ### P2: NEEDS-HUMAN (length decision) 2026-09-21 — `concepts/chinese-room-argument` has THREE words of headroom, its apparatus has no slack, and every obvious trim target is certified by a prior review
 
