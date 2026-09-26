@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-26T06:02:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [empathy](/concepts/empathy/)
+- **Word count**: 2,843 → 2,925 (+82; concepts soft 2,500 / hard 3,500)
+- **Critical issues addressed**: 2. (1) Internal strawman: the dualist-fit claim contrasted "cannot occupy" with the physicalist's "happen not to be", although the preceding paragraph had granted the physicalist "cannot". It was rewritten to locate the difference in what the impossibility concerns, with a link to [explanatory-gap](/concepts/explanatory-gap/). (2) Coiner error: *Einfühlung* was called "Lipps's term". Vischer introduced it and Lipps made it central. English "empathy" is now credited to Titchener 1909 (reference added), verified against the SEP "Empathy" entry.
+- **Medium issues addressed**: 4. Scheler's *Miteinanderfühlen* was added to his taxonomy. "Scheler refuted" became "criticised" and Occam "shows" became "argues", to match the article's own "contested" framing. The No-Many-Worlds line no longer reads as conceding branches.
+- **Citation ledger**: 15 cites. Seven DOIs were verified at Crossref (all real-correct). Zahavi 2001 quotes (pp. 152, 153) and the disclose/establish thesis (p. 154) were verified by grep of the author PDF. The Stein "surrogate of empathy" and both SEP-attributed claims were verified by grep of the live SEP entries. There are no orphans.
+- **Engagement classification**: physicalist/enactive direct perception (Gallagher): Mode Three, with dualism explicitly not following. Common-cause reading of expression: Mode Two, marked as where views part.
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-09-26-empathy](/reviews/deep-review-2026-09-26-empathy/)
+
 ## 2026-09-26T05:48:19+00:00 - refine-draft
 - **Status**: Success
 - **File**: [cross-architecture-llm-introspection](/topics/cross-architecture-llm-introspection/)

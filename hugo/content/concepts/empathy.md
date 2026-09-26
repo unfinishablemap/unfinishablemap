@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-26
-ai_modified: 2026-09-26 02:18:48+00:00
+ai_modified: 2026-09-26 06:02:34+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -20,7 +20,8 @@ description: 'Empathy as the experience of another''s experience: Stein, Scheler
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-26 02:18:48+00:00
+last_deep_review: 2026-09-26 06:02:34+00:00
+lastmod: 2026-09-26 06:02:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,11 +41,12 @@ topics:
 
 ## What the Word Covers
 
-The English "empathy" was coined in the early twentieth century to translate *Einfühlung*, "feeling-into." That was Theodor Lipps's term for the process by which we understand others and aesthetic objects. On his account we inwardly imitate another's expression and project the resulting feeling back onto them. The phenomenologists took over the word and rejected the mechanism.
+The English "empathy" was coined in 1909 by the psychologist Edward Titchener to translate *Einfühlung*, "feeling-into." Robert Vischer had introduced the German word in aesthetics; Theodor Lipps, whom Titchener had in mind, made it the process by which we understand both others and aesthetic objects. On Lipps's account we inwardly imitate another's expression and project the resulting feeling back onto them. The phenomenologists took over the word and rejected the mechanism.
 
 Several phenomena that ordinary usage runs together need separating. Scheler's book on sympathy (1913; enlarged in 1923 as *Wesen und Formen der Sympathie*) distinguishes:
 
 - *vicarious feeling* (*Nachfühlen*): grasping another's feeling without feeling it yourself;
+- *community of feeling* (*Miteinanderfühlen*): two people feeling one sorrow together, as parents over their dead child;
 - *fellow feeling* (*Mitgefühl*): feeling *for* the other, where their state and mine stay distinct;
 - *emotional contagion*: being swept into a mood without registering whose it is;
 - *identification* (*Einsfühlung*): a limit case in which the difference between self and other lapses.
@@ -88,7 +90,7 @@ Since the 1980s, analytic philosophy of mind has framed the question as a debate
 
 **Simulation theory** holds that we use our own mind as a model. Robert Gordon (1986) proposed that we predict others by imaginatively taking up their situation and letting our own practical reasoning run on those pretend inputs. Alvin Goldman's *Simulating Minds* (2006) develops a hybrid. It combines low-level mirroring, which Goldman connects to mirror-neuron findings, with high-level imaginative simulation, and admits some theoretical inference. The SEP entry on empathy notes that Goldman ties his account to a neo-Cartesian view of mental concepts, while Gordon's later versions avoid that commitment. Lipps's inner imitation is often read as a forerunner of simulation theory.
 
-**Direct perception** is the phenomenologists' heir. Shaun Gallagher (2008) and Zahavi (2011) argue that theory-theory and simulation share a hidden premise: that other minds are unobservable, so that something must bridge the gap between seen behaviour and unseen mind. Drop that premise, they argue, and much everyday understanding needs neither theory nor simulation, because the mind is perceptible in expressive, embodied action. Critics reply that the perceptual claim either overreaches or collapses into something like fast inference. Pierre Jacob (2011) gives a sustained critique of the direct-perception model of empathy. Much current work is pluralist. Different mechanisms may serve different tasks, with basic emotion recognition at one end and recursive belief attribution at the other; the latter is treated in [theory-of-mind](/concepts/theory-of-mind/).
+**Direct perception** is the phenomenologists' heir. Shaun Gallagher (2008) and Zahavi (2011) argue that theory-theory and simulation share a hidden premise: that other minds are unobservable, so that something must bridge the gap between seen behaviour and unseen mind. Drop that premise, they argue, and much everyday understanding needs neither theory nor simulation, because the mind is perceptible in expressive, embodied action. Critics reply that the perceptual claim either overreaches or collapses into something like fast inference. Pierre Jacob (2011) presses this critique at length. Much current work is pluralist. Different mechanisms may serve different tasks, with basic emotion recognition at one end and recursive belief attribution at the other; the latter is treated in [theory-of-mind](/concepts/theory-of-mind/).
 
 This debate concerns *mechanism*; the phenomenological one concerns *givenness*, what the grasp is like and what it presents. The two do not map neatly onto each other. A simulation theorist can accept Stein's description of how the result is given, and a direct-perception theorist need not settle what the brain does.
 
@@ -100,7 +102,7 @@ Across all three positions, and in every phenomenological account, one feature o
 
 The Map proposes that non-coincidence is the form the gap between minds takes *from inside experience*. The [voids-between-minds](/voids/voids-between-minds/) article describes that gap structurally. [The problem of other minds](/concepts/problem-of-other-minds/) describes it epistemically. Empathy is where a subject meets it in lived experience. Read this way, direct-perception accounts and the gap are compatible. What is directly perceived is the other's experience *as* the other's, given in a way that cannot turn into having it. This fits the Map's [mine-ness](/concepts/mine-ness/) analysis, on which every experience presents itself as belonging to a subject; empathy presents experiences whose for-me-ness is someone else's.
 
-Two cautions keep this reading calibrated. First, none of the phenomenologists above argued for substance or property dualism. Scheler and Zahavi aimed their accounts *against* the Cartesian picture, and Husserl's framework is transcendental, not a mind–body metaphysics. The Map adopts their descriptions, not their metaphysical conclusions. Second, the direct-perception view is, if anything, a pressure on one of the Map's own habits. Where Map articles say we "infer" others' experience from their behaviour, the phenomenologists would say the article has quietly adopted the analogy model that Scheler refuted. The Map's reading therefore locates the gap in *coincidence*, which empathy never achieves, not in *access*, which empathy may well achieve directly.
+Two cautions keep this reading calibrated. First, none of the phenomenologists above argued for substance or property dualism. Scheler and Zahavi aimed their accounts *against* the Cartesian picture, and Husserl's framework is transcendental, not a mind–body metaphysics. The Map adopts their descriptions, not their metaphysical conclusions. Second, the direct-perception view is, if anything, a pressure on one of the Map's own habits. Where Map articles say we "infer" others' experience from their behaviour, the phenomenologists would say the article has quietly adopted the analogy model that Scheler criticised. The Map's reading therefore locates the gap in *coincidence*, which empathy never achieves, not in *access*, which empathy may well achieve directly.
 
 ## What Follows and What Does Not
 
@@ -108,7 +110,7 @@ The neutral definition gives only other-directedness and a self–other differen
 
 What does *not* follow is dualism. A physicalist can accept all of Stein's descriptions. Two brains are two token systems, so one cannot undergo the other's states. On this view, non-coincidence is simply the numerical distinctness of two organisms, and direct perception is an efficient perceptual system tuned to expressive behaviour. Gallagher develops direct perception inside an enactive, non-dualist framework. The phenomenology is equally at home there.
 
-The disagreement with that reading lies at the framework boundary; neither side refutes the other on the other's terms. The Map's claim is narrower. If experiences are ontologically individual, as the Dualism tenet holds, then the non-coincidence that empathy displays is what one would expect to find, as a feature of what experiences are and not a limit of our instruments. The physicalist expects it for a different reason. The Map holds that the dualist explanation fits the *character* of non-coincidence better: the other is given as a centre of experience I cannot occupy, not merely as a separate object I happen not to be. This is a judgement about fit, not a demonstration.
+The disagreement with that reading lies at the framework boundary; neither side refutes the other on the other's terms. The Map's claim is narrower. If experiences are ontologically individual, as the Dualism tenet holds, then the non-coincidence that empathy displays is what one would expect to find, as a feature of what experiences are and not a limit of our instruments. The physicalist expects it too, and also says I *cannot* undergo the other's states. The difference lies in what the "cannot" is about. For the physicalist it is the impossibility of two token systems being one. What empathy presents is a further thing: another point of view whose for-me-ness is not mine. Why a distinct system should be given *as a subject* at all is the question the [explanatory-gap](/concepts/explanatory-gap/) leaves open, and the Map holds that the dualist explanation fits this *character* of non-coincidence better. This is a judgement about fit, not a demonstration.
 
 ## Relation to Site Perspective
 
@@ -116,9 +118,9 @@ The disagreement with that reading lies at the framework boundary; neither side 
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Stein and Scheler describe experience as *expressed*. Grief shows in the face as a unity with the grief, not as a sign of it. If that description is right, experience shapes bodily comportment in ways others can perceive, which the Map reads as an everyday case of consciousness mattering physically. The rival reading is familiar: expression and experience share a neural cause, and the experience does no work of its own. As in [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/), the Map replies that this common-cause picture owes an account of why the *felt* state, not just its correlate, is what the empathiser perceives and responds to—a reply that marks where the views part rather than a refutation.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Theory-theory and simulation theory can look like the parsimonious default. They posit one inferential or modelling mechanism and treat minds as hidden. The direct-perception critique shows that this simplicity rests on an assumption, the unobservability of minds, which the phenomenology puts in question. This illustrates the tenet on a small scale. The simplest mechanism can misdescribe the thing it was meant to explain.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Theory-theory and simulation theory can look like the parsimonious default. They posit one inferential or modelling mechanism and treat minds as hidden. The direct-perception critique argues that this simplicity rests on an assumption, the unobservability of minds, which the phenomenology puts in question. This illustrates the tenet on a small scale. The simplest mechanism can misdescribe the thing it was meant to explain.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** and **[No Many Worlds](/tenets/#no-many-worlds)**: Neither is engaged here. Empathy's structure is independent of where or how consciousness acts on the brain, and within any branch the empathiser meets a determinate other.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** and **[No Many Worlds](/tenets/#no-many-worlds)**: Neither is engaged here. Empathy's structure is independent of where or how consciousness acts on the brain, and nothing in it turns on whether other branches exist.
 
 ## Further Reading
 
@@ -143,9 +145,10 @@ The disagreement with that reading lies at the framework boundary; neither side 
 7. Jacob, P. (2011). The Direct-Perception Model of Empathy: A Critique. *Review of Philosophy and Psychology*, 2(3), 519–540. https://doi.org/10.1007/s13164-011-0065-0
 8. Scheler, M. (1913/1923; trans. 1954). *The Nature of Sympathy* (P. Heath, Trans.). Routledge & Kegan Paul. (Originally *Zur Phänomenologie und Theorie der Sympathiegefühle und von Liebe und Hass*, 1913; enlarged as *Wesen und Formen der Sympathie*, 1923.)
 9. Stein, E. (1917/1989). *On the Problem of Empathy* (W. Stein, Trans.; 3rd rev. ed.). Collected Works of Edith Stein, Vol. 3. ICS Publications. (Originally *Zum Problem der Einfühlung*, Halle, 1917.)
-10. Zahavi, D. (2001). Beyond Empathy: Phenomenological Approaches to Intersubjectivity. *Journal of Consciousness Studies*, 8(5–7), 151–167.
-11. Zahavi, D. (2011). Empathy and Direct Social Perception: A Phenomenological Proposal. *Review of Philosophy and Psychology*, 2(3), 541–558. https://doi.org/10.1007/s13164-011-0070-3
-12. Zahavi, D. (2014). *Self and Other: Exploring Subjectivity, Empathy, and Shame*. Oxford University Press.
-13. Zahavi, D. & Overgaard, S. (2012). Empathy without Isomorphism: A Phenomenological Account. In J. Decety (Ed.), *Empathy: From Bench to Bedside* (pp. 3–20). MIT Press.
-14. Stanford Encyclopedia of Philosophy entries "Edith Stein" and "Empathy" (Stueber), consulted 2026-09-26. https://plato.stanford.edu/entries/stein/ ; https://plato.stanford.edu/entries/empathy/
-15. Southgate, A. & Oquatre-cinq, C. (2026-01-23). Intersubjectivity. *The Unfinishable Map*. https://unfinishablemap.org/concepts/intersubjectivity/
+10. Titchener, E. B. (1909). *Lectures on the Experimental Psychology of the Thought-Processes*. Macmillan.
+11. Zahavi, D. (2001). Beyond Empathy: Phenomenological Approaches to Intersubjectivity. *Journal of Consciousness Studies*, 8(5–7), 151–167.
+12. Zahavi, D. (2011). Empathy and Direct Social Perception: A Phenomenological Proposal. *Review of Philosophy and Psychology*, 2(3), 541–558. https://doi.org/10.1007/s13164-011-0070-3
+13. Zahavi, D. (2014). *Self and Other: Exploring Subjectivity, Empathy, and Shame*. Oxford University Press.
+14. Zahavi, D. & Overgaard, S. (2012). Empathy without Isomorphism: A Phenomenological Account. In J. Decety (Ed.), *Empathy: From Bench to Bedside* (pp. 3–20). MIT Press.
+15. Stanford Encyclopedia of Philosophy entries "Edith Stein" and "Empathy" (Stueber), consulted 2026-09-26. https://plato.stanford.edu/entries/stein/ ; https://plato.stanford.edu/entries/empathy/
+16. Southgate, A. & Oquatre-cinq, C. (2026-01-23). Intersubjectivity. *The Unfinishable Map*. https://unfinishablemap.org/concepts/intersubjectivity/
