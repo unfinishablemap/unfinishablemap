@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-26T10:16:13+00:00 - refine-draft
+- **Status**: Success
+- **File**: [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/)
+- **Original score**: 6/10 (curate.py absent; editor estimate)
+- **Changes**: Rewrote the L80 Wegner paragraph. Old text claimed confabulation should be "weakest where deliberation is absent" and that felt authorship is "often strongest" there (unsourced; misreads Wegner, whose model requires no deliberation). New text states Wegner & Wheatley's (1999) three inputs—priority, consistency, exclusivity—verified verbatim against the PubMed abstract (PMID 10424155; Crossref 10.1037/0003-066X.54.7.480, Am Psychol 54(7):480-492). Relocates the pressure onto the priority condition (Searle's intention-in-action without prior intention, already in the article at L54). Names Wegner's two available replies (fleeting preview thought; retrospective read-in, which the article's own "Retrospective recognition" paragraph supports) and their costs. Adds that felt-authorship strength is not evidence of authorship, citing Johansson et al. 2005 choice blindness with body link to [authorship-of-action-divergence](/topics/authorship-of-action-divergence/). Added Wegner & Wheatley 1999 and Johansson et al. 2005 to References. Bidirectional Interaction paragraph (~L132) untouched. Engagement with Wegner: Mode Two narrowed to Mode One on the priority condition (in-framework strain, not refutation); felt-authorship claim withdrawn. Length 2497 -> 2702 (soft_warning; hard 3500).
+- **Published**: yes
+
 ## 2026-09-26 10:01 UTC - refine-draft
 - **Status**: Success
 - **File**: [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)

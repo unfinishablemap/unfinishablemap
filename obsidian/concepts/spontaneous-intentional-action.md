@@ -4,7 +4,7 @@ description: "Actions that are genuinely intentional yet arise without prior del
 created: 2026-02-13
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-09-08T16:27:27+00:00
+ai_modified: 2026-09-26T10:16:13+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -77,7 +77,7 @@ The [[phenomenology-of-agency-vs-passivity|agency-passivity spectrum]] helps loc
 
 Hard determinists typically argue that all apparently free actions are either (a) the product of unconscious neural processes that conscious experience merely observes, or (b) the output of deliberation that was itself determined by prior causes. Spontaneous intentional actions resist both moves. They are not the output of deliberation (move b fails), yet they are not mere neural automatisms either—they are too contextually sensitive, too novel, too intelligent. The determinist must either deny that these actions are genuinely intentional or explain how deterministic processes produce the appearance of authored novelty without any authoring.
 
-The [[libet-experiments|Libet experiments]] and Wegner's "illusion of conscious will" thesis (Wegner, 2002) are the standard neuroscientific challenges here. Libet found that brain activity precedes conscious awareness of intention by several hundred milliseconds, and Wegner argued that the sense of authorship is post-hoc confabulation. Spontaneous intentional actions are actually a strong counterexample to confabulation theories: the authorship sense is present despite the *absence* of effortful deliberation. If authorship were merely confabulated from the experience of deliberating, it should be weakest precisely where deliberation is absent—yet phenomenologically it is often strongest.
+The [[libet-experiments|Libet experiments]] and Wegner's "illusion of conscious will" thesis (Wegner, 2002) are the standard neuroscientific challenges here. Libet found that brain activity precedes conscious awareness of intention by several hundred milliseconds. Wegner argued that the experience of willing is an inference: we feel we caused an act when a thought about it appears just before the act (*priority*), matches it (*consistency*), and has no rival cause in view (*exclusivity*) (Wegner & Wheatley, 1999). Deliberation plays no part in that model, so spontaneous action does not undercut it merely by lacking deliberation. The pressure falls on priority instead. Spontaneous intentional action has intention-in-action without a prior intention, and often no action-relevant thought is noticed before the doing at all, yet the action is still felt as one's own. Wegner can reply that a fleeting, barely registered preview thought suffices, or that authorship is read in afterwards—and the retrospective recognition described above gives that second reply some purchase. Neither reply is free: the first makes priority hard to test, and the second moves the model away from the forward-looking thought-to-action inference it was built on. Strength of felt authorship settles nothing either way. The choice-blindness studies (Johansson et al., 2005) show people giving confident, detailed accounts of choices they never made (see [[authorship-of-action-divergence]]), so a vivid sense of "I did this" is not evidence that one did. What spontaneous action offers is a case Wegner's inputs fit poorly, not a demonstration that the felt authorship is accurate.
 
 ### Against Pure Deliberation Models
 
@@ -163,8 +163,10 @@ The account of spontaneous intentional action offered here would face difficulty
 1. Bergson, H. (1889/2001). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. Dover.
 1. Dreyfus, H. (2002). Intelligence without representation: Merleau-Ponty's critique of mental representation. *Phenomenology and the Cognitive Sciences*, 1(4), 367-383.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
+1. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science*, 310(5745), 116-119.
 1. Lutz, A., Slagter, H. A., Dunne, J. D., & Davidson, R. J. (2008). Attention regulation and monitoring in meditation. *Trends in Cognitive Sciences*, 12(4), 163-169.
 1. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Trans. D. A. Landes. Routledge.
 1. Searle, J. (1983). *Intentionality: An Essay in the Philosophy of Mind*. Cambridge University Press.
 1. Suzuki, D. T. (1959). *Zen and Japanese Culture*. Bollingen Series LXIV. Pantheon Books.
 1. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
+1. Wegner, D. M., & Wheatley, T. (1999). Apparent mental causation: Sources of the experience of will. *American Psychologist*, 54(7), 480-492.
