@@ -268,9 +268,9 @@
   commissioned_at: '2026-09-26T02:02:57.176100+00:00'
   prompt_summary: Audit cross-architecture-llm-introspection (recent-aged fallback)
   target_filename: outer-review-2026-09-26-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-26T04:32:57.614489+00:00'
   failure_reason: null
   prompt_text: 'Act as a rigorous external referee auditing one article on The Unfinishable
     Map (https://unfinishablemap.org), a philosophy site that openly defends interactionist

@@ -5,6 +5,16 @@ ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-26T04:40:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro. Collected via collect-chatgpt-review. The ChatGPT DOM drifted, so the text was extracted from `[data-chatgpt-selection-message-id] [class*="MarkdownRoot"]` by a DOM walk and moved to disk through the clipboard (xclip) rather than retyped.
+- **File**: [[reviews/outer-review-2026-09-26-chatgpt-5-6-sol-pro]]
+- **Subject**: topics/cross-architecture-llm-introspection (fallback:recent-aged)
+- **Claims verified**: 20. Eleven are article-locus claims, all confirmed by grep. Six are external papers, all confirmed at arXiv, with version dates and full-text spot checks. There are also 3 unverified detail claims and 2 qualified claims.
+- **High-value findings**: 5. (1) Metric and descriptive errors: "two 2025 studies", "high precision/low recall", a yes-logit shift called "confident self-report", "not built in by design", "experiment has not been run", and a missing Morris–Plunkett reference. (2) Literature currency: six omitted 2025–2026 papers, including Singh et al., which the Map already cites in `training-contamination-confound`. (3) An unexamined functionalist rival in the Relation section. (4) "Cross-architecture" is really cross-model-family. (5) Cross-page tensions: `llm-consciousness` L108, and `confabulation-void` L100, which this pass found and the reviewer missed.
+- **Tasks generated**: 5 (P1: 2, P2: 3), plus 1 addendum to the open propagation NEEDS-HUMAN entry (methodology item 22).
+- **Not tasked**: methodology items 18–21 (version-locked citation ledger, splitting completeness from fidelity, adversarial rival-vocabulary search, pre-registered discriminators). These are already covered by the literature-drift-review audit and the evidential-status discipline, or repeat earlier proposals.
+
 ## 2026-09-26T03:31:40+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-agency-vs-passivity]]
