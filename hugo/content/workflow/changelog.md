@@ -10,6 +10,12 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-26 09:47 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The temporal wing, 9 articles never named in any 2026-08/09 optimistic review: `topics/bergson-and-duration`, `topics/consciousness-and-the-ontology-of-temporal-becoming`, `topics/temporal-consciousness-structure-and-agency`, `topics/neural-refresh-rates-and-the-smoothness-problem`, `topics/phenomenology-of-anticipation`, `concepts/egocentric-presentism`, `concepts/kairos`, `concepts/temporal-structure-of-understanding`, `voids/temporal-void`. The newer pages calibrate well (kairos, egocentric-presentism, anticipation, understanding). Three older hubs contradict sibling calibrations: prebiotic growth (becoming L100 vs L116), nirodha as "awareness" (structure-and-agency L220 vs cessation-versus-plenitude), eternalism as physics' "truth" (temporal-void L71/L109).
+- **Tasks minted**: 5 P3 (4 refine-draft: becoming, structure-and-agency [90-word headroom], temporal-void, neural-refresh L120; 1 expand-topic: time-bias and Prior's "Thank goodness that's over")
+- **Output**: [optimistic-2026-09-26-temporal-wing](/reviews/optimistic-2026-09-26-temporal-wing/)
+
 ## 2026-09-26 09:17 UTC - refine-draft
 - **Status**: Success
 - **File**: [terminal-lucidity-filter-theory-2026-03-20](/research/terminal-lucidity-filter-theory-2026-03-20/)
