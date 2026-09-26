@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-09-25 12:45:50+00:00
+ai_modified: 2026-09-26 01:45:44+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,12 +19,13 @@ concepts:
 created: 2026-02-23
 date: &id001 2026-02-23
 description: Recasting consciousness from a property the brain has to an activity
-  the organism does—an activity-first ontology that strengthens interactionist dualism.
+  the organism does—an activity-first ontology that removes obstacles to interactionist
+  dualism.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-21 00:00:00+00:00
-lastmod: 2026-09-25 12:45:50+00:00
+last_deep_review: 2026-09-26 01:45:44+00:00
+lastmod: 2026-09-26 01:45:44+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -69,9 +70,9 @@ Whitehead's framework makes consciousness continuous with the rest of nature wit
 
 ### Bergson's Duration
 
-[Henri Bergson](/topics/bergson-and-duration/) argued that consciousness *is* duration—the qualitative, interpenetrating flow of lived time. Duration is not a property consciousness possesses; it is the activity of conscious living itself. You cannot extract duration from the flow and examine it as an attribute. It exists only in the flowing.
+[Henri Bergson](/topics/bergson-and-duration/) argued that consciousness *is* duration—the qualitative, interpenetrating flow of lived time. Duration is not a property consciousness possesses; it is the activity of conscious living itself. It exists only in the flowing.
 
-Bergson's critique of spatialisation targets exactly the property framing. When we treat consciousness as a property, we spatialise it—placing it alongside other properties like position and charge, as if it could be isolated and measured. But consciousness resists this treatment because it is inherently temporal, inherently active, inherently flowing. Trying to capture it as a static property is like trying to capture a melody by examining individual notes in isolation.
+Bergson's critique of spatialisation targets exactly the property framing. When we treat consciousness as a property, we spatialise it—placing it alongside other properties like position and charge, as if it could be isolated and measured. But consciousness resists this treatment because it is inherently temporal and flowing. Trying to capture it as a static property is like trying to capture a melody by examining individual notes in isolation.
 
 ### William James's Stream
 
@@ -116,7 +117,7 @@ The activity framing aligns with developments in cognitive science and neuroscie
 
 Enactivism is the closest existing tradition to consciousness-as-activity, and the divergence is instructive. Thompson's *Mind in Life* (2007) develops the *deep continuity thesis*: where there is life, there is mind, because the autopoietic self-maintenance of living systems already constitutes a rudimentary perspective on the environment. This connects activity to life itself—a cell's self-producing organisation is a form of doing, not merely a set of properties. The Map agrees that activity runs deep and that the property framing fails for life as it fails for consciousness.
 
-But enactivism draws a different ontological conclusion. For enactivists, consciousness just *is* the embodied engagement—there is no separate agent performing the activity. The only "interaction" in play is organism-environment engagement, not causal commerce between a non-physical mind and a physical body. The activity framing defended here parts company on precisely this point. The agent-dependence commitment (see the section on [what activity means](#what-activity-means-here)) holds that conscious activity is *performed by* a subject, not identical to organism-environment coupling, for the reasons given there. Enactivists grant that experience is irreducible and that it is experience *for someone*: the autopoietic organism. The disagreement is over what that someone is: for the enactivist, an organism wholly constituted by its coupling; for the Map, a subject whose activity is realised through that coupling without being identical to it. This is a framework-boundary difference that enactivism's phenomenological commitments do not settle in the Map's favour. The [full engagement with enactivism's challenge](/topics/enactivism-challenge-to-interactionist-dualism/) explores how enactivism's dissolution strategy ultimately cannot close the [explanatory gap](/concepts/explanatory-gap/) it claims to have dissolved.
+But enactivism draws a different ontological conclusion. For enactivists, consciousness just *is* the embodied engagement—there is no separate agent performing the activity. The only "interaction" in play is organism-environment engagement, not causal commerce between a non-physical mind and a physical body. The activity framing defended here parts company on precisely this point. The agent-dependence commitment (see the section on [what activity means](#what-activity-means-here)) holds that conscious activity is *performed by* a subject, not identical to organism-environment coupling, for the reasons given there. Enactivists such as Thompson reject a reductive treatment of experience and hold that it is experience *for someone*: the autopoietic organism. The disagreement is over what that someone is: for the enactivist, an organism wholly constituted by its coupling; for the Map, a subject whose activity is realised through that coupling without being identical to it. This is a framework-boundary difference that enactivism's phenomenological commitments do not settle in the Map's favour. The [full engagement with enactivism's challenge](/topics/enactivism-challenge-to-interactionist-dualism/) explores how enactivism's dissolution strategy ultimately cannot close the [explanatory gap](/concepts/explanatory-gap/) it claims to have dissolved.
 
 **Skilled performance.** [Research on expertise](/topics/consciousness-and-skill-acquisition/) reveals consciousness as an architect of skilled activity. Consciousness trains procedural systems, delegates to them, and painfully re-engages when skills break down. This dynamic of building, delegating, and reclaiming control is activity through and through.
 
@@ -134,7 +135,7 @@ The activity framing fits the Map's framework at each tenet. It supports the ten
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Activities are performed by particular agents in particular contexts. The activity framing reinforces indexical identity—*this* consciousness performing *this* activity in *this* moment. Many-worlds dissolves the agent into branching copies, but activities cannot be copied without becoming different activities. A person's composing of a sentence, with its particular history and intentions, cannot be duplicated across branches while remaining the same act.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The property framing seems simpler—just add consciousness as another property. But this simplicity is deceptive. It generates the hard problem and the [explanatory gap](/concepts/explanatory-gap/), neither of which has a solution within the framework. The activity framing is conceptually richer but generates fewer intractable puzzles, though it is not puzzle-free: in its Whiteheadian, all-the-way-down form it inherits the [combination-problem](/concepts/combination-problem/). As with quantum mechanics replacing classical simplicity, the right ontological category may be more complex than the wrong one.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The property framing seems simpler—just add consciousness as another property. But this simplicity is deceptive. It poses the hard problem and the [explanatory gap](/concepts/explanatory-gap/) in their least tractable form: why should inert matter acquire an extra property? The activity framing is conceptually richer and trades that question for a more tractable one (what makes an activity experiential?), though it is not puzzle-free: in its Whiteheadian, all-the-way-down form it inherits the [combination-problem](/concepts/combination-problem/). As with quantum mechanics replacing classical simplicity, the right ontological category may be more complex than the wrong one.
 
 ## Further Reading
 

@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-26T01:45:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-as-activity](/topics/consciousness-as-activity/)
+- **Word count**: 3008 → 3011 (+3)
+- **Critical issues addressed**: 1 (the Occam paragraph said the property framing "generates" the hard problem, contradicting the article's own concession that the hard problem survives the verb shift)
+- **Medium issues addressed**: 2 (description "strengthens" overclaim; enactivist "irreducible" over-attribution narrowed to Thompson)
+- **Enhancements made**: 2 (length-neutral trims in the Bergson section)
+- **Citations**: James x2 grep-verified in the raw Gutenberg text; Place 1956, Smart 1959, Clark 2013, Dehaene & Changeux 2011, Nagel 1974 Crossref-verified; all real-correct
+- **Engagements**: process-identity (Place/Smart): mixed, opening Mode Two then marking the boundary; enactivism (Thompson): Mode Three
+- **Output**: [deep-review-2026-09-26-consciousness-as-activity](/reviews/deep-review-2026-09-26-consciousness-as-activity/)
+
 ## 2026-09-26T01:15:56+00:00 - refine-draft
 - **Status**: Success
 - **File**: [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/)
