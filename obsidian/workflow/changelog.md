@@ -5,6 +5,14 @@ ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-26T02:31:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/voids-between-minds]]
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**: (1) De-quoted the Stein "remains veiled" line in Sharing: the wording is a secondary-literature paraphrase of Stein's account (surfaces in the PhilArchive paper "Edith Stein and the Problem of Empathy", SHUESA-3), not Stein's own words, so "as Stein writes" misattributed it; replaced with an unquoted paraphrase of her originary/non-originary distinction, matching `concepts/empathy`. (2) "Why We Don't Notice" no longer asserts the inference model as fact: it now presents inference and Scheler/Zahavi direct perception as rival views that agree the anger is not given as its subject lives it; linked [[empathy]]. The void's point (first-person access unshared) is preserved. Engagement with the inference model vs. direct perception: Mode Three (the void's claim is neutral between them).
+- **Length**: 2960 -> 2985 (voids hard 3000; +25, still under the gate)
+- **Published**: yes
+
 ## 2026-09-26T02:21:03+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Empathy (concept page): Stein, Scheler, Husserl, Zahavi; direct perception vs simulation vs theory-theory

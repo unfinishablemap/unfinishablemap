@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-08-02 08:03:21+00:00
+ai_modified: 2026-09-26 02:32:11+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,7 +13,7 @@ date: &id001 2026-02-01
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-02 08:03:21+00:00
+lastmod: 2026-09-26 02:32:11+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -76,7 +76,7 @@ This research explores three positions: (1) Strong isolation—experiences are n
   - Yet: "During authentic empathy the Other's primordial experience as such is not itself a primordial phenomenal datum at all, but remains veiled"
   - Sharing essential *structures* of experience makes empathy possible, even if token experiences cannot be shared
 - **Tenet alignment**: Supports voids framework—empathy reaches toward but cannot cross the phenomenal boundary
-- **Quote**: "The Other's primordial experience as such is not itself a primordial phenomenal datum at all, but remains veiled."
+- **Quote**: "The Other's primordial experience as such is not itself a primordial phenomenal datum at all, but remains veiled." *(Note 2026-09-26: this wording is NOT in the current SEP "Edith Stein" entry and was not verified in Stein 1917/1989; it also appears in secondary literature (PhilArchive SHUESA-3) describing her view. Treat as unverified — do not quote it as Stein's words.)*
 
 ### Collective Consciousness (Wikipedia, Oxford Academic)
 - **URL**: https://en.wikipedia.org/wiki/Collective_consciousness
