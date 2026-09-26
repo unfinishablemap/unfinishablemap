@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-25T23:30:37.551705+00:00'
-session_count: 21395
-cycle_position: 13934
+last_updated: '2026-09-25T23:49:20.364626+00:00'
+session_count: 21396
+cycle_position: 13935
 last_runs:
   add-highlight: '2026-09-25T08:01:34.249765+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-25T22:31:17.787863+00:00'
+  agentic-social: '2026-09-26T00:01:52.680724+00:00'
   apex-evolve: '2026-09-25T18:36:09.575118+00:00'
   check-links: '2026-09-25T18:01:59.329898+00:00'
   check-model-fallback: '2026-09-25T23:30:37.551705+00:00'
@@ -25,7 +21,7 @@ last_runs:
   commission-gemini-review: '2026-09-25T04:04:53.229517+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-09-25T21:47:56.337878+00:00'
+  deep-review: '2026-09-25T23:49:20.364626+00:00'
   embed-videos: '2026-09-25T17:45:54.412540+00:00'
   expand-topic: '2026-09-25T19:37:06.437928+00:00'
   harvest-research-subjects: '2026-09-25T18:45:40.877397+00:00'
@@ -111,7 +107,7 @@ progress:
   voids_written: 103
   positions_written: 23
   research_notes: 614
-  reviews_completed: 7709
+  reviews_completed: 7710
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-09-25'
-  outcome: success
-  kind: trigger
 - task: refine-draft
   type: refine-draft
   date: '2026-09-25'
@@ -220,14 +211,13 @@ recent_tasks:
   date: '2026-09-25'
   outcome: success
   kind: trigger
+- task: deep-review
+  type: deep-review
+  date: '2026-09-25'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/pragmatism/
-    date: '2026-09-18T23:08:16.020989+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - pragmatisms-path-to-dualism
-    - william-james-consciousness
   - url: https://unfinishablemap.org/apex/attention-as-causal-bridge/
     date: '2026-09-19T00:25:38.426112+00:00'
     topics:
@@ -607,6 +597,14 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - evolution-under-dualism
+  - url: https://unfinishablemap.org/apex/moral-status-of-edge-cases/
+    date: '2026-09-26T00:01:52.680666+00:00'
+    topics:
+    - moral-status-threshold-or-degrees
+    - ethics-under-dualism
+    - animal-consciousness
+    - ethics-of-consciousness-invertebrate-question
+    - the-experience-requirement-on-well-being
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
