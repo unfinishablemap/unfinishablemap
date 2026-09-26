@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-26T00:30:00+00:00 - coalesce
+- **Status**: Abandoned (reasoned decline, no merge). **20th consecutive**, the expected steady-state outcome.
+- **Section pressure** (raw `.md` count, index excluded): topics 332/360 (92%), concepts 329/360 (91%), voids 103/115 (90%). No section is critical, so cap pressure does not justify a marginal merge.
+- **Pool movement since the 2026-09-25T15:16 run: one addition, zero removals** (`git log --since=2026-09-25T15:10 --diff-filter=AD` over topics/concepts/voids/apex): `topics/thoughtful-local-friendliness-and-the-artificial-friend` (created 09-25). It is inside the 7-day age floor, so it is ineligible. **No age-floor crossers**: nothing in topics/concepts/voids/apex was created on 2026-09-18 or 2026-09-19.
+- **Not re-screened**: on an unchanged eligible pool, the TF-IDF, length-first, ancestry, shingle, affordability × mutual-link and title-family screens would only repeat the declines of 09-21 through 09-25.
+- **Sources / Target / Archived**: none.
+- **References to review**: none.
+
 ## 2026-09-26T00:16:05+00:00 - refine-draft
 - **Status**: Success
 - **File**: [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/)

@@ -39,12 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `topics/brain-internal-born-rule-testing` L102 says "The Born rule does not hold at the OR event" — the formal Diósi-Penrose dynamics is a linear master equation and reproduces Born statistics
-- **Type**: refine-draft
-- **File**: obsidian/topics/brain-internal-born-rule-testing.md
-- **Status**: pending
-- **Notes**: Found by deep-review 2026-09-25 of `topics/sorkin-delta-brain-internal-analogues`, which carried the same error (its Orch-OR paragraph said an OR brain "genuinely could carry a non-zero third-order residue" at the Diósi-Penrose threshold) and was fixed there. Every consistent Markovian collapse model, Diósi-Penrose included, evolves the density matrix by a linear master equation (required for no-signalling), so ensemble outcome probabilities stay quadratic in amplitudes and Sorkin's I₃ = 0; the collapse signature is second-order visibility loss (what MAQRO tests). Only Penrose's *unformalised* "non-computable" selection claim could depart from Born statistics. Locus (match on the string): L102 "The Born rule does not hold at the OR event; collapse selects what Penrose argues are \"non-computable\" outcomes". Fix, word-neutral or negative (host is ~3 words from topics hard 4000 — print `analyze_length` first): scope it to "Its formal collapse dynamics reproduces Born statistics; only Penrose's claim that OR selects \"non-computable\" outcomes ... would depart from them." Mirror the wording now on disk in `sorkin-delta-brain-internal-analogues` §"Penrose-Hameroff Orch-OR". Sweep of `Born rule does not hold` over topics/concepts/apex/positions/voids found only this locus. Sync and grep both trees.
-
 ### P2: NEEDS-HUMAN (length decision) 2026-09-21 — `concepts/chinese-room-argument` has THREE words of headroom, its apparatus has no slack, and every obvious trim target is certified by a prior review
 
 - **Type**: refine-draft
@@ -1632,6 +1626,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-26: `topics/brain-internal-born-rule-testing` L102 says "The Born rule does not hold at the OR event" — the formal Diósi-Penrose dynamics is a linear master equation and reproduces Born statistics
+- **Type**: refine-draft
+- **File**: obsidian/topics/brain-internal-born-rule-testing.md
+- **Notes**: Found by deep-review 2026-09-25 of `topics/sorkin-delta-brain-internal-analogues`, which carried the same error (its Orch-OR paragraph said an OR brain "genuinely could carry a non-zero third-order residue" at the Diósi-Penrose threshold) and was fixed there. Every consistent Markovian collapse model, Diósi-Penrose included, evolves the density matrix by a linear master equation (required for no-signalling), so ensemble outcome probabilities stay quadratic in amplitudes and Sorkin's I₃ = 0; the collapse signature is second-order visibility loss (what MAQRO tests). Only Penrose's *unformalised* "non-computable" selection claim could depart from Born statistics. Locus (match on the string): L102 "The Born rule does not hold at the OR event; collapse selects what Penrose argues are \"non-computable\" outcomes". Fix, word-neutral or negative (host is ~3 words from topics hard 4000 — print `analyze_length` first): scope it to "Its formal collapse dynamics reproduces Born statistics; only Penrose's claim that OR selects \"non-computable\" outcomes ... would depart from them." Mirror the wording now on disk in `sorkin-delta-brain-internal-analogues` §"Penrose-Hameroff Orch-OR". Sweep of `Born rule does not hold` over topics/concepts/apex/positions/voids found only this locus. Sync and grep both trees.
 
 ### ✓ 2026-09-25: consciousness-and-intersubjectivity: calibrate the Bidirectional and No Many Worlds bullets and link the second-person channel
 - **Type**: refine-draft
