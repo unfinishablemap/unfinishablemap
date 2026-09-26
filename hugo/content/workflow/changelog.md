@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-26T08:48:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [cross-species-behavioural-confidence-proxy-tests](/topics/cross-species-behavioural-confidence-proxy-tests/)
+- **Word count**: 3717 → 3736 (+19)
+- **Critical issues addressed**: 3. (1) Crystal & Alford 2014 was credited with an mPFC-lesion / false-alarm result it does not contain; the substrate leg is re-grounded in Farovik et al. 2008 as a cross-study parallel. (2) The Clayton revisit (actually Worsfold, Clayton & Cheke 2025) was said to frame binding as source-monitoring evidence; the paper never mentions source. (3) The article said the parent's silicon pivot "carries cross-observer triangulation"; the parent says it is not triangulation but an open programme.
+- **Medium issues addressed**: 2 metadata fixes (Carruthers 2021 → Carruthers & Williams 2022, *Cognition* 225: 105117; Le Pelley 38(4) → 38(3)). Three cites that three prior reviews had certified failed the result-direction leg.
+- **Enhancements made**: 2. Added a link to cross-architecture-llm-introspection; trimmed three redundant block-disclaimers so the pass stays length-neutral.
+- **Family propagation**: the same fixes were applied to [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/), which stays at hard_warning at about 4219 words. A correction note was added to the 2026-05-15 cross-species research note.
+- **Engagements**: Le Pelley Mode One; Carruthers Mode Two → Mode Three; Birch cooperative.
+- **Output**: [deep-review-2026-09-26-cross-species-behavioural-confidence-proxy-tests](/reviews/deep-review-2026-09-26-cross-species-behavioural-confidence-proxy-tests/)
+
 ## 2026-09-26T08:16:44+00:00 - refine-draft
 - **Status**: Success
 - **File**: [source-attribution-void](/voids/source-attribution-void/) (+ [naturally-occluded](/concepts/naturally-occluded/))

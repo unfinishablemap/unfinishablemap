@@ -4,7 +4,7 @@ description: "A worked exhibit applying the voids-circularity discount to the fo
 created: 2026-05-15
 modified: 2026-09-26
 human_modified:
-ai_modified: 2026-09-26T06:31:32+00:00
+ai_modified: 2026-09-26T08:48:35+00:00
 last_deep_review: 2026-07-25T23:13:12+00:00
 draft: false
 topics:
@@ -142,15 +142,15 @@ The cluster's central signature is a *report-versus-mechanism discrepancy* check
 The companion [[topics/cross-species-behavioural-confidence-proxy-tests|proxy-tests article]] reads four proxy bodies as partial prototypes of a [[topics/cross-species-behavioural-confidence-proxy-tests#four-face-proxy-architecture|four-face proxy-test architecture]]:
 
 - **Rodent OFC confidence coding** (Kepecs 2008; Lak et al. 2014; Masset et al. 2020; Joo et al. 2021) → noetic-feelings. OFC inactivation disrupts waiting-based confidence without impairing accuracy; the 2020 *Cell* paper extends it as modality-general.
-- **Rodent source-monitoring lesions** (Crystal lab, 2010s) → the [[source-attribution-void|source-attribution void]], its closest analogue: medial prefrontal lesions parallel human source-monitoring impairment, encoding-failure excluded (despite-commitments).
-- **Corvid what-where-when caching** (Clayton & Dickinson 1998; 2024-25 source-monitoring revisit), the avian pallium architecturally distant from mammalian cortex; Hampton's macaque metamemory (2001, 2019) replicates the working-memory / familiarity dissociation in a primate.
+- **Rodent source memory** (Crystal & Alford 2014) → the [[source-attribution-void|source-attribution void]], its closest analogue: rats remember information's source, encoding failure excluded (despite-commitments); mPFC lesions spare familiarity but reduce recollection (Farovik et al. 2008), a cross-study parallel to human prefrontal source-monitoring impairment.
+- **Corvid what-where-when caching** (Clayton & Dickinson 1998; Worsfold, Clayton & Cheke 2025 replication), the avian pallium architecturally distant from mammalian cortex; Hampton's macaque metamemory (2001, 2019) replicates the working-memory / familiarity dissociation in a primate.
 
 Mirror self-recognition (Kohda cleaner-wrasse 2019/2023/2025) is only *cluster-adjacent* — perceptual self-versus-other binding, dissociable from whether process-reports are reconstructed. No proxy reaches narrative.
 
 
 ### Despite-Commitments vs Because-Prediction (Cross-Species)
 
-The four substrate observations may be read as *despite-commitments at the substrate-extension level*: pre-2008 defaults arguably did not predict that confidence, source-tag, and feature-binding signatures would generalise across phylogenetically distant substrates. Two critiques contest the metacognition-grade reading. **Le Pelley 2012** showed associative-learning models reproduce hallmark putative-metacognition patterns through reinforcement history alone — refuting the substrate-to-metacognition inference, not the substrate findings. **Carruthers** (*Opacity of Mind* 2011; 2021) reads animal metacognition as an analog-magnitude executive-engagement signal — a within-physicalist reading that *predicts* the cross-species pattern on grounds that may undercut the bounded-witness reading. The channel adds methodological diversity rather than discharging the null.
+The four substrate observations may be read as *despite-commitments at the substrate-extension level*: pre-2008 defaults arguably did not predict that confidence, source-tag, and feature-binding signatures would generalise across phylogenetically distant substrates. Two critiques contest the metacognition-grade reading. **Le Pelley 2012** showed associative-learning models reproduce hallmark putative-metacognition patterns through reinforcement history alone — refuting the substrate-to-metacognition inference, not the substrate findings. **Carruthers** (*Opacity of Mind* 2011; Carruthers & Williams 2022) reads animal metacognition as an analog-magnitude executive-engagement signal — a within-physicalist reading that *predicts* the cross-species pattern on grounds that may undercut the bounded-witness reading. The channel adds methodological diversity rather than discharging the null.
 
 ### The Silicon Pivot {#cross-architecture-pivot}
 
@@ -218,37 +218,39 @@ Translations across substrates and tradition vocabularies are *interpretive* thr
 5. Beckwith, C. I. (2015). *Greek Buddha: Pyrrho's Encounter with Early Buddhism in Central Asia*. Princeton.
 6. Birch, J. (2024). *The Edge of Sentience*. OUP.
 7. Carruthers, P. (2011). *The Opacity of Mind*. OUP.
-8. Carruthers, P. (2021). Model-free metacognition. *Cognition*.
+8. Carruthers, P. & Williams, D. M. (2022). Model-free metacognition. *Cognition* 225: 105117.
 9. Clayton, N. S. & Dickinson, A. (1998). Episodic-like memory in scrub jays. *Nature* 395: 272–274.
-10. Crystal, J. D. (2014). Validation of a rodent model of source memory. *Biology Letters* 10: 20140064.
-11. Frede, M. (1983). Stoics and skeptics on clear and distinct impressions. In Burnyeat (ed.), *The Skeptical Tradition*, 65–93.
-12. Gazzaniga, M. S. (1985). *The Social Brain: Discovering the Networks of the Mind*. Basic Books.
-13. Gazzaniga, M. S. & LeDoux, J. E. (1978). *The Integrated Mind*. Plenum Press.
-14. Al-Ghazālī (12th c.). *Iḥyāʾ ʿulūm al-dīn*, Bks. 22–23, 29.
-15. Haidt, J. (2001). The emotional dog and its rational tail. *Psychological Review* 108(4): 814–834.
-16. Hampton, R. R. (2001). Rhesus monkeys know when they remember. *PNAS* 98(9): 5359–5362.
-17. Brown, E. K., Basile, B. M., Templer, V. L. & Hampton, R. R. (2019). Dissociation of memory signals for metamemory. *Animal Cognition* 22: 331–341.
-18. Hirstein, W. (2005). *Brain Fiction: Self-Deception and the Riddle of Confabulation*. MIT Press.
-19. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science* 310(5745): 116–119.
-20. Johansson, P., Hall, L., Sikström, S., Tärning, B., & Lind, A. (2006). How something can be said about telling more than we can know: On choice blindness and introspection. *Consciousness and Cognition* 15(4): 673–692. — source of the tallied per-trial detection rate cited above.
-21. Johnson, M. K., Hashtroudi, S., & Lindsay, D. S. (1993). Source monitoring. *Psychological Bulletin* 114(1): 3–28.
-22. Kepecs, A. et al. (2008). Neural correlates of decision confidence. *Nature* 455: 227–231.
-23. Lak, A. et al. (2014). OFC is required for optimal waiting based on decision confidence. *Neuron* 84: 190–201.
-24. Masset, P. et al. (2020). Behavior- and modality-general representation of confidence in OFC. *Cell* 182(1): 112–126.
-25. Kohda, M. et al. (2019/2023/2025). Mark-test and self-face recognition in cleaner wrasse. *PLOS Biology*; *PNAS*; *Sci Reports*.
-26. Le Pelley, M. E. (2012). Metacognitive monkeys or associative animals? *J Exp Psychol Learn Mem Cogn* 38(4): 686–708.
-27. Lindsey, J. (Anthropic, 2025). Emergent introspective awareness in LLMs. anthropic.com/research/introspection
-28. Al-Muḥāsibī (9th c.). *Kitāb al-Riʿāya*.
-29. Nisbett, R. E. & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review* 84(3): 231–259.
-30. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness* 2021(1), niab004.
-31. Robertson, D. (2019). *The Philosophy of Cognitive-Behavioural Therapy* (2nd ed.). Routledge.
-32. Schnider, A. (2008). *The Confabulating Mind: How the Brain Creates Reality*. Oxford University Press.
-33. Seneca (1st c. CE). *De Ira*.
-34. Shankara (8th c. CE). *Brahma Sūtra Bhāṣya* — Adhyāsa Bhāṣya.
-35. Joo, H. R. et al. (2021). Rats use memory confidence to guide decisions. *Current Biology* 31(20): 4571–4583.
-36. Sorabji, R. (2000). *Emotion and Peace of Mind*. OUP (Gifford Lectures).
-37. Stewart, C. (2005). Evagrius Ponticus and the eight generic *logismoi*. In Newhauser (ed.), *In the Garden of Evil*.
-38. Hahami, E., Sinha, I., Jain, L., Kaplan, J. & Hahami, J. (2026). Detecting the disturbance: A nuanced view of introspective abilities in LLMs. *arXiv* 2512.12411v2.
-39. Wheatley, T. & Haidt, J. (2005). Hypnotic disgust makes moral judgments more severe. *Psychological Science* 16(10): 780–784.
+10. Crystal, J. D. & Alford, W. T. (2014). Validation of a rodent model of source memory. *Biology Letters* 10(3): 20140064.
+11. Farovik, A., Dupont, L. M., Arce, M. & Eichenbaum, H. (2008). Medial prefrontal cortex supports recollection, but not familiarity, in the rat. *J Neurosci* 28(50): 13428–13434.
+12. Worsfold, E., Clayton, N. S. & Cheke, L. G. (2025). Revisiting episodic-like memory in scrub jays. *Learning & Behavior* 53(1): 65–79.
+13. Frede, M. (1983). Stoics and skeptics on clear and distinct impressions. In Burnyeat (ed.), *The Skeptical Tradition*, 65–93.
+14. Gazzaniga, M. S. (1985). *The Social Brain: Discovering the Networks of the Mind*. Basic Books.
+15. Gazzaniga, M. S. & LeDoux, J. E. (1978). *The Integrated Mind*. Plenum Press.
+16. Al-Ghazālī (12th c.). *Iḥyāʾ ʿulūm al-dīn*, Bks. 22–23, 29.
+17. Haidt, J. (2001). The emotional dog and its rational tail. *Psychological Review* 108(4): 814–834.
+18. Hampton, R. R. (2001). Rhesus monkeys know when they remember. *PNAS* 98(9): 5359–5362.
+19. Brown, E. K., Basile, B. M., Templer, V. L. & Hampton, R. R. (2019). Dissociation of memory signals for metamemory. *Animal Cognition* 22: 331–341.
+20. Hirstein, W. (2005). *Brain Fiction: Self-Deception and the Riddle of Confabulation*. MIT Press.
+21. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science* 310(5745): 116–119.
+22. Johansson, P., Hall, L., Sikström, S., Tärning, B., & Lind, A. (2006). How something can be said about telling more than we can know: On choice blindness and introspection. *Consciousness and Cognition* 15(4): 673–692. — source of the tallied per-trial detection rate cited above.
+23. Johnson, M. K., Hashtroudi, S., & Lindsay, D. S. (1993). Source monitoring. *Psychological Bulletin* 114(1): 3–28.
+24. Kepecs, A. et al. (2008). Neural correlates of decision confidence. *Nature* 455: 227–231.
+25. Lak, A. et al. (2014). OFC is required for optimal waiting based on decision confidence. *Neuron* 84: 190–201.
+26. Masset, P. et al. (2020). Behavior- and modality-general representation of confidence in OFC. *Cell* 182(1): 112–126.
+27. Kohda, M. et al. (2019/2023/2025). Mark-test and self-face recognition in cleaner wrasse. *PLOS Biology*; *PNAS*; *Sci Reports*.
+28. Le Pelley, M. E. (2012). Metacognitive monkeys or associative animals? *J Exp Psychol Learn Mem Cogn* 38(3): 686–708.
+29. Lindsey, J. (Anthropic, 2025). Emergent introspective awareness in LLMs. anthropic.com/research/introspection
+30. Al-Muḥāsibī (9th c.). *Kitāb al-Riʿāya*.
+31. Nisbett, R. E. & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review* 84(3): 231–259.
+32. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness* 2021(1), niab004.
+33. Robertson, D. (2019). *The Philosophy of Cognitive-Behavioural Therapy* (2nd ed.). Routledge.
+34. Schnider, A. (2008). *The Confabulating Mind: How the Brain Creates Reality*. Oxford University Press.
+35. Seneca (1st c. CE). *De Ira*.
+36. Shankara (8th c. CE). *Brahma Sūtra Bhāṣya* — Adhyāsa Bhāṣya.
+37. Joo, H. R. et al. (2021). Rats use memory confidence to guide decisions. *Current Biology* 31(20): 4571–4583.
+38. Sorabji, R. (2000). *Emotion and Peace of Mind*. OUP (Gifford Lectures).
+39. Stewart, C. (2005). Evagrius Ponticus and the eight generic *logismoi*. In Newhauser (ed.), *In the Garden of Evil*.
+40. Hahami, E., Sinha, I., Jain, L., Kaplan, J. & Hahami, J. (2026). Detecting the disturbance: A nuanced view of introspective abilities in LLMs. *arXiv* 2512.12411v2.
+41. Wheatley, T. & Haidt, J. (2005). Hypnotic disgust makes moral judgments more severe. *Psychological Science* 16(10): 780–784.
 
 Map-internal sources cited inline: [[voids-circularity-discount|The Voids-Circularity Discount]], [[common-cause-null|The Common-Cause Null in Convergence Arguments]], [[the-surplus-void|The Surplus Void]].

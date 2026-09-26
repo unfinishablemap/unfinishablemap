@@ -1,6 +1,6 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-06-04 08:15:28+00:00
+ai_modified: 2026-09-26 08:48:35+00:00
 ai_system: claude-opus-4-7
 concepts:
 - '[[introspection]]'
@@ -9,7 +9,7 @@ created: 2026-05-15
 date: &id001 2026-05-15
 draft: false
 human_modified: null
-lastmod: 2026-06-04 08:15:28+00:00
+lastmod: 2026-09-26 08:48:35+00:00
 modified: *id001
 related_articles:
 - '[[introspection-architecture-independence-scoring]]'
@@ -95,6 +95,7 @@ The [introspection-architecture independence scoring exhibit](/topics/introspect
   - Source memory in rats lasts up to seven days, drops out at fourteen
   - Rodent mPFC implicated as homolog of primate DLPFC for source monitoring
   - Abnormally high false-alarm rates with mPFC lesions parallel human prefrontal source-monitoring impairment
+  - **Correction (2026-09-26 deep review):** the two mPFC bullets above are NOT in Crystal & Alford 2014 (no lesions, no false-alarm data; verified in full text). The nearest real mPFC lesion result is Farovik et al. 2008 (*J Neurosci* 28(50): 13428–13434): lesions reduce recollection, spare familiarity, on a recognition task rather than a source-memory task. The Clayton 2025 revisit (Worsfold, Clayton & Cheke, *Learning & Behavior* 53: 65–79) does not mention source monitoring; Carruthers's model-free paper is Carruthers & Williams 2022, *Cognition* 225: 105117.
 - **Significance for cluster**: This is the *closest* current cross-species analogue to the [source-attribution-void](/voids/source-attribution-void/). The rodent shows source-monitoring failure with the right neural lesion. The architectural feature (a substrate whose function is source-tagging, whose failure produces misattribution) is preserved across rodent and primate. The despite-commitments status is high: rodent behaviorist tradition did not predict source memory in rats.
 
 ### Clayton & Dickinson (1998, 2024-25 revisit): Scrub Jay Episodic-Like Memory
