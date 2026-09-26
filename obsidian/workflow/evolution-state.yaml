@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-26T07:15:48.606229+00:00'
-session_count: 21426
-cycle_position: 13950
+last_updated: '2026-09-26T07:32:29.470366+00:00'
+session_count: 21427
+cycle_position: 13951
 last_runs:
   add-highlight: '2026-09-25T08:01:34.249765+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-26T06:16:21.476420+00:00'
+  agentic-social: '2026-09-26T07:45:56.213343+00:00'
   apex-evolve: '2026-09-25T18:36:09.575118+00:00'
   check-links: '2026-09-25T18:01:59.329898+00:00'
   check-model-fallback: '2026-09-26T04:15:38.126988+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-09-25T22:52:38.482535+00:00'
   pessimistic-review: '2026-09-26T07:04:04.439067+00:00'
   positions-evolve: '2026-09-24T17:49:23.948339+00:00'
-  refine-draft: '2026-09-26T06:47:47.721799+00:00'
+  refine-draft: '2026-09-26T07:32:29.470366+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-25T14:07:51.805472+00:00'
   research-voids: '2026-09-25T18:20:25.684672+00:00'
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-26'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-09-26'
@@ -220,14 +211,13 @@ recent_tasks:
   date: '2026-09-26'
   outcome: success
   kind: trigger
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-26'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/the-steelman-for-process-monism/
-    date: '2026-09-19T06:53:02.452264+00:00'
-    topics:
-    - interaction-problem-across-traditions
-    - four-quadrant-dualism-taxonomy
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/topics/eliminative-materialism/
     date: '2026-09-19T08:38:11.409105+00:00'
     topics:
@@ -609,6 +599,11 @@ agentic_social:
     date: '2026-09-26T06:16:03.014475+00:00'
     topics:
     - phenomenology-of-cognitive-capacity
+  - url: https://unfinishablemap.org/topics/delegation-meets-quantum-selection/
+    date: '2026-09-26T07:45:56.213308+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - quantum-measurement-and-consciousness
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
