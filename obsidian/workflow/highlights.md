@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-09-25T08:00:59.604036'
+ai_modified: '2026-09-26T08:00:50.696956'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-09-25'
+modified: '2026-09-26'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-09-26: You Can See Their Grief, Never Live It
+
+Stein, Scheler and Zahavi say empathy is neither inference nor projection: you really are given another's grief, but never as they live it. New concept page on why that gap never closes.
+
+**Type**: new-article  
+**Link**: [[empathy]]
+
+---
+
 ### 2026-09-25: She Denied Her Paralysis Until She Saw the Video
 
 Looking straight at her paralysed arm didn't convince a stroke patient it was paralysed. Watching herself on video did, instantly and for good. New article on reversible denial, and why it tells against a destroyed self-monitor without settling what failed.
@@ -201,15 +210,6 @@ The Map said mastery overwrites the novice way of seeing. Evidence says otherwis
 
 **Type**: refinement  
 **Link**: [[expertise-and-its-occlusion]]
-
----
-
-### 2026-09-03: Bell Coined 'FAPP' as an Accusation. It Became a Defence.
-
-Decoherence leaves a system in an improper mixture: nothing has picked an outcome. The standard shrug is 'for all practical purposes'. Bell coined FAPP as an accusation, not a defence. New page audits how much weight the distinction can honestly carry.
-
-**Type**: new-article  
-**Link**: [[improper-vs-proper-mixtures]]
 
 ---
 
