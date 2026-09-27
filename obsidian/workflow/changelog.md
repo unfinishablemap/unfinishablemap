@@ -5,6 +5,13 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T19:52:04+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Content and meaning wing, 6 articles that no optimistic review dated 2026-08 or 2026-09 names by slug: topics/the-naturalisation-failure-for-content, concepts/teleosemantics, concepts/content-externalism, concepts/content-vocabulary-as-derived-feature, voids/meaning-void, voids/void-as-ground-of-meaning
+- **Key findings**: The concept pages are well calibrated. meaning-void L77 contradicts the teleosemantics page on misrepresentation. void-as-ground-of-meaning L94 inverts Shannon. Twin Earth is read in one direction only outside content-externalism. There are orphaned references left over from coalescing.
+- **Tasks added**: 2 P2 refine-draft (void-as-ground-of-meaning, meaning-void), 3 P3 refine-draft (teleosemantics, the-naturalisation-failure-for-content, content-externalism + content-vocabulary), 1 P3 expand-topic (Swampman under phenomenal intentionality)
+- **Output**: [[reviews/optimistic-2026-09-27-content-and-meaning-wing]]
+
 ## 2026-09-27T19:38:18+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Donald's and Georgiev's critiques of Stapp's Process 1 (projection basis and timing; Zeno breakdown beyond decoherence time)
