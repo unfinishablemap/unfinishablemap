@@ -2,9 +2,9 @@
 title: "Stapp's Quantum Mind Model"
 description: "Mental effort operates through the quantum Zeno effect: rapid attention holds neural patterns against decay, providing a mechanism for mind-matter interaction."
 created: 2026-01-22
-modified: 2026-01-22
+modified: 2026-09-27
 human_modified: null
-ai_modified: 2026-09-24T11:02:47+00:00
+ai_modified: 2026-09-27T08:21:45+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -69,7 +69,7 @@ Among [[psychophysical-laws|proposed coupling mechanisms]], Stapp's model is the
 
 ## William James and the Phenomenology of Effort
 
-Stapp finds a kindred spirit in William James, who held that "volition is nothing but attention" (*Principles of Psychology*, ch. 11) and that the free-will question "relates solely to the amount of effort of attention or consent which we can at any time put forth" (ch. 26, p. 497). James recognised that controlling attention requires continuous, renewable effort—but couldn't explain what this effort *is*.
+Stapp finds a kindred spirit in William James, who held that "volition is nothing but attention" (*Principles of Psychology*, ch. 11) and that the free-will question "relates solely to the amount of effort of attention or consent which we can at any time put forth" (ch. 26, p. 571 in the 1890 edition). James recognised that controlling attention requires continuous, renewable effort—but couldn't explain what this effort *is*.
 
 Stapp's model answers: felt effort corresponds to observation rapidity. Sustained attention feels like work because it *is* work—continuous mental engagement to maintain the Zeno effect.
 

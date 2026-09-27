@@ -5,6 +5,15 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T08:21:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/free-will]]
+- **Original score**: n/a (targeted convergent outer-review fix; `scripts/curate.py` absent)
+- **Changes**: (a) neural-signature line narrowed to what Rajan et al. (2019) tested — greater frontal theta power and fronto-parietal coherence in willed vs *instructed* attention — and cited; the same "automatic capture" framing fixed in §Phenomenology of Choice. (b) Desmurget recast as "Desmurget et al. (2009) dissociated intention-awareness from execution" (was "confirm the selection-execution distinction"). (c) James locator now 1890 Holt, vol. 2, p. 571, plus his "insoluble on strictly psychologic grounds" caution; siblings `topics/structure-of-attention` and `concepts/stapp-quantum-mind` moved from p. 497 (Gutenberg 57634 pagination) to p. 571 in each file's own citation style. (d) Sartre dropped from the Libertarian-definition substance argument; at the §Agent Causation pour-soi sentence a clause states the Map borrows his non-coincidence, not his anti-egological account of the self. (e) References: added James (1890), Rajan et al. (2019), Libet (1985) (body veto claim now dated); full titles restored for Libet 1983, Schurger 2012, Desmurget 2009. Wegner clause softened from "acknowledges the robust feeling of effort" to "grants that the experience of willing is real". Paid for by trimming the substance-diagnostic cross-link sentence, decision-void gloss, a redundant "accommodates this naturally" clause, a redundant atemporality sentence, two duplicate "see X" pointers.
+- **Length**: analyze_length 3994 → 3998 (hard 4000). Split after: prose 3301, Further Reading 427, References 270 (References and Further Reading ARE counted).
+- **Deferred**: Chisholm/Kim/Frankfurt/Fischer–Ravizza/van Inwagen reference entries (no headroom).
+- **Published**: yes
+
 ## 2026-09-27T07:51:37+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/panprotopsychism]]
