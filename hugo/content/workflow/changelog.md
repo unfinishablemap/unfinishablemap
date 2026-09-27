@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-27T11:20:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
+- **Original score**: n/a (targeted calibration fix; `scripts/curate.py` absent)
+- **Changes**: (a) L68 Frauchiger-Renner restated as the trilemma it is (universality, cross-agent consistency and single outcomes cannot jointly hold, so a single-world view must restrict universality) instead of "contradictions for any single-world interpretation", which convicted the Map's own view; matches `multi-agent-born-preservation-problem` L91 and `self-reference-and-the-limits-of-physical-description` L132. (b) L136 leaves Chalmers-McQueen CSL-IIT in the Born-bending family and moves Stapp out: his Zeno model belongs there only when attentional holding is read as shifting outcome probabilities, and Stapp himself keeps orthodox statistics intact (question-choice), per `concepts/stapp-quantum-mind` L64 and `born-rule-and-the-consciousness-interface` question-choice family. Propagated with the same clause to the only other Born-bending dependents naming Stapp without that qualifier: `topics/consciousness-and-probability-interpretation` L97 and `archive/topics/born-rule-violation-brain-interface-empirical-status` L65 ("explicitly Born-rule-bending" removed). `concepts/causal-consistency-constraint` L75 already carried the "read as" qualifier; left alone. Body 3566 -> 3598 words (hard 4000). ai_system held (phrasing fixes).
+- **Published**: yes
+
+## 2026-09-27T11:15:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Evolution and origins wing, 9 articles never named in any 2026-08/09 optimistic review: topics/consciousness-evolution-and-biology, topics/evolution-under-dualism, topics/biological-teleology-and-the-interface-framework, topics/cetacean-and-corvid-consciousness, concepts/agent-teleology, concepts/fitness-beats-truth, concepts/emergent-dualism, voids/origin-of-consciousness, voids/emergence-void. Strengths: BT's four senses of "goal", the cetacean page's tier discipline, emergent-dualism's honest accounting of the debt it relocates, and CEB/BT's Many Worlds posit framing. Calibration concerns: generation versus coupling settled silently and in opposite directions (EUD, CEB, AT L79-81, origin-void L93) against emergent-dualism's "open commitment"; the quick "selects nothing" Many Worlds argument survives in EUD L160 and AT L114/L126; AT L93 and agent-causation L131 missed today's Rajan sweep (3e228ba788); FBT states the theorem two ways (L29 vs L37; publisher verification pending); the emergence-void's weak-emergence gap contains "felt warmth". 6 P3 refine-draft tasks minted. The BT moth exemplar, the cetacean Roth & Dicke neuron-count lead and CEB L126 are reported only.
+- **Output**: [optimistic-2026-09-27-evolution-and-origins-wing](/reviews/optimistic-2026-09-27-evolution-and-origins-wing/)
+
 ## 2026-09-27T10:50:36+00:00 - refine-draft
 - **Status**: Success
 - **File**: [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/)

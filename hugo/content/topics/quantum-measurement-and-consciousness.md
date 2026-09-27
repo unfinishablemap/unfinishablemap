@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-09-08 02:33:29+00:00
+ai_modified: 2026-09-27 11:20:41+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 15:00:19+00:00
-lastmod: 2026-09-08 02:33:29+00:00
+lastmod: 2026-09-27 11:20:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -69,7 +69,7 @@ Three aspects make this problematic. The mathematics is discontinuous: standard 
 
 J.S. Bell made this point sharply in "Against 'Measurement'" (1990): the concept smuggles the observer into the foundations of physics while pretending they are absent. Von Neumann (1932) showed mathematically that the formalism allows placing collapse anywhere along the measurement chain—from photon hitting detector to brain registering result. Nothing in the physics determines where. The movability of this "Heisenberg cut" reveals that "measurement" is not a physical category at all. The [von Neumann–Wigner interpretation](/concepts/von-neumann-wigner-interpretation/) drew the conclusion: if the cut can be moved all the way up the chain, consciousness is the only element that cannot itself be placed into quantum superposition—making it a candidate for terminating the chain.
 
-Wigner's friend thought experiment sharpens the point. If a physicist performs a measurement inside a sealed laboratory, does her consciousness collapse the wave function, or does the system remain in superposition until an outside observer looks? The fact that this question has no agreed answer—and that Frauchiger and Renner (2018) showed it generates contradictions for any single-world interpretation—confirms that "measurement" cannot be analysed without confronting the role of the conscious observer.
+Wigner's friend thought experiment sharpens the point. If a physicist performs a measurement inside a sealed laboratory, does her consciousness collapse the wave function, or does the system remain in superposition until an outside observer looks? The fact that this question has no agreed answer—and that Frauchiger and Renner (2018) showed that universal quantum theory, consistent cross-agent reasoning and single outcomes cannot all hold, so any single-world view must restrict universality—confirms that "measurement" cannot be analysed without confronting the role of the conscious observer.
 
 ## The Structural Identity with the Hard Problem
 
@@ -137,7 +137,7 @@ The Map [rejects Many-Worlds](/tenets/#no-many-worlds) while acknowledging that 
 
 ### Exploit the Gap: Consciousness Selection
 
-A third approach takes the gap seriously: consciousness determines outcomes at the measurement event itself. The Map distinguishes three live flavors — *corridor-preserving*, *Born-bending*, and *trumping-orthogonal* — catalogued with empirical stakes in [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/). The strictest corridor-preserving reading, on which consciousness only ever picks among outcomes the Born rule already permits without altering any probability, is formalised as the [selection-only channel](/concepts/selection-only-channel/). The [causal consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025, a recent arXiv preprint not yet independently confirmed) shapes how these flavors relate to physics: corridor-preserving readings inherit the constraint natively, Born-bending readings must show their deviation is signalling-safe, and trumping readings remain orthogonal because they do not modify the probability assignment. [Non-retrocausal selection](/topics/forward-in-time-conscious-selection/) frameworks like [Stapp's quantum Zeno model](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) and Chalmers-McQueen's CSL-IIT fall in the Born-bending family: mental attention biases which neural patterns become actual, with selection statistics depending on a consciousness-related variable. Whether selection runs only forward in time or operates atemporally across a time-symmetric transaction carries distinct theoretical costs, [accounted separately](/topics/forward-in-time-vs-time-symmetric-selection/). Stapp's model is the most developed successor to the [von Neumann–Wigner interpretation](/concepts/von-neumann-wigner-interpretation/), specifying *how* consciousness terminates the chain — through rapid observation (the quantum Zeno effect) rather than an unanalysed "collapse."
+A third approach takes the gap seriously: consciousness determines outcomes at the measurement event itself. The Map distinguishes three live flavors — *corridor-preserving*, *Born-bending*, and *trumping-orthogonal* — catalogued with empirical stakes in [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/). The strictest corridor-preserving reading, on which consciousness only ever picks among outcomes the Born rule already permits without altering any probability, is formalised as the [selection-only channel](/concepts/selection-only-channel/). The [causal consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025, a recent arXiv preprint not yet independently confirmed) shapes how these flavors relate to physics: corridor-preserving readings inherit the constraint natively, Born-bending readings must show their deviation is signalling-safe, and trumping readings remain orthogonal because they do not modify the probability assignment. [Non-retrocausal selection](/topics/forward-in-time-conscious-selection/) frameworks like Chalmers-McQueen's CSL-IIT fall in the Born-bending family, with selection statistics depending on a consciousness-related variable. [Stapp's quantum Zeno model](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) belongs there only when attentional holding is read as shifting outcome probabilities; Stapp himself keeps the orthodox statistics intact, with mind choosing which question is posed and when. Whether selection runs only forward in time or operates atemporally across a time-symmetric transaction carries distinct theoretical costs, [accounted separately](/topics/forward-in-time-vs-time-symmetric-selection/). Stapp's model is the most developed successor to the [von Neumann–Wigner interpretation](/concepts/von-neumann-wigner-interpretation/), specifying *how* consciousness terminates the chain — through rapid observation (the quantum Zeno effect) rather than an unanalysed "collapse."
 
 The strength: consciousness is causally efficacious—[Bidirectional Interaction](/tenets/#bidirectional-interaction) is preserved. The weakness: the mechanism by which mental attention generates observation events in a warm, decoherent brain remains unspecified.
 

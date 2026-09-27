@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-09-23 17:01:26+00:00
+ai_modified: 2026-09-27 11:20:41+00:00
 ai_system: claude-opus-4-7
 archive_reason: Coalesced into The Born Rule and the Consciousness-Physics Interface
 archived: true
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-23 14:40:00+00:00
-lastmod: 2026-09-23 17:01:26+00:00
+lastmod: 2026-09-27 11:20:41+00:00
 modified: *id001
 original_path: /topics/born-rule-violation-brain-interface-empirical-status/
 related_articles:
@@ -67,7 +67,7 @@ Not every proposal that posits a consciousness-physics interaction entails Born-
 
 **Minimum-outside-the-corridor dualism (Born-rule-bending)**. The corridor is insufficient to produce the observed correlation between conscious intention and physical outcome, so the Minimal Quantum Interaction tenet — properly read as "smallest interaction actually sufficient" rather than "smallest interaction that preserves ensemble statistics" — requires deviation. Several distinct proposals fall here:
 
-- *Stapp's quantum Zeno picture.* Rapid conscious attention holds a particular eigenstate, shifting selection probabilities away from what a non-conscious measurement would produce. The modification depends on observation frequency and is explicitly Born-rule-bending.
+- *Stapp's quantum Zeno picture.* Rapid conscious attention holds a particular eigenstate, shifting selection probabilities away from what a non-conscious measurement would produce. On this reading the modification depends on observation frequency and is Born-rule-bending; Stapp himself keeps the orthodox statistics intact, with mind choosing which question is posed.
 - *Chalmers-McQueen Φ-dependent collapse.* Integrated-information-theoretic Φ gates collapse dynamics; "Φ resists superposition, and superpositions of distinct Φ values trigger collapse" (Chalmers & McQueen 2022). At the ensemble level, with Φ-dependent stochasticity added, the Born rule is generally not preserved — collapse probabilities depend on a consciousness-related variable that standard QM does not include. Chalmers and McQueen themselves note that no single scalar Φ measure suffices, sharpening rather than softening the Born-modifying implication.
 - *Penrose-Hameroff Orch-OR.* Orchestrated objective reduction is explicitly a modification of QM, not selection within it. The theory lives or dies on deviations from standard unitary plus Born dynamics.
 - *Arana (2025) time-extended weighting.* A time-integrated functional perturbs Born probabilities by an exponentially suppressed factor λ, recovering standard Born as λ → 0. This is a worked example of a "Born-violating-but-arbitrarily-close" proposal — a falsifiable phenomenological model.
