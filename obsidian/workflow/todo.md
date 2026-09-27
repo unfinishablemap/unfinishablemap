@@ -1516,9 +1516,9 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-27
 - **Notes**: **Headroom 782 words (voids hard 3000; analyze_length 2217, soft_warning).** Last deep review 2026-06-24. File lines from 2026-09-27; re-grep. (a) **L93** "Not [[emergence]] (presupposes consciousness in the explanation—experience 'emerging' from non-experience)": emergence from non-experience does not *presuppose* experience; it is disputed on intelligibility grounds. And `concepts/emergent-dualism` L84 calls Hasker's generation view "a coherent and well-defended horn". Rephrase as a contested negative, with a piped link to `[[emergent-dualism]]`. (b) Add a one-sentence pointer to `[[consciousness-evolution-and-biology]]` for the evolutionary answer (selection explains the neural architecture, "how", not "why"). The void's body links none of the eight sibling pages reviewed.
 
-### P3: motor-selection L104: "patients perform rapid movements when externally triggered—the motor system works; something upstream in selection is compromised" is undercut by the controlled paradoxical-kinesia data
+### ✓ 2026-09-27: motor-selection L104: "patients perform rapid movements when externally triggered—the motor system works; something upstream in selection is compromised" is undercut by the controlled paradoxical-kinesia data
 - **Type**: refine-draft
-- **Status**: pending
+- **Status**: completed (discharged by deep-review of topics/paradoxical-kinesia, 2026-09-27)
 - **File**: concepts/motor-selection.md
 - **Source**: expand-topic 2026-09-27 (topics/paradoxical-kinesia), follow-up noted in changelog
 - **Generated**: 2026-09-27

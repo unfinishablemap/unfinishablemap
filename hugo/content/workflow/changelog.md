@@ -10,6 +10,23 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-27T18:37:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [paradoxical-kinesia](/topics/paradoxical-kinesia/)
+- **Word count**: 2163 → 2277 (+114)
+- **Critical issues addressed**: 4. Schlesinger 2007 count was "2 of 50 under missile attack"; the abstract says one was war-related and one historical. The authors' "Visual, but not auditory, triggers" conclusion had been left out. Redgrave 2010 was wrongly called silent on the cue benefit; the full text says "sensory input is equally important for goal-directed control". The dual-task prediction is Redgrave's own and is now credited.
+- **Medium issues addressed**: 1 ("rodent" softened to "animal" models, Melo-Thomas 2023)
+- **Enhancements made**: 3 (Redgrave credit, Schlesinger balance, attention-as-interface cross-link). Also: concepts/motor-selection L104 rescoped with no change in length (3499 words) from "something upstream in selection is compromised" to a disputed-direction wording linking [paradoxical-kinesia](/topics/paradoxical-kinesia/).
+- **Citations**: all 7 verified at Crossref/PubMed/OpenAlex/PMC; metadata real-correct for all; one body claim was real-wrong (Schlesinger count), now fixed.
+- **Engagement modes**: Redgrave/non-reductive physicalist rival: Mode Three (an honest boundary marking; "compatible, not supported").
+- **Output**: [deep-review-2026-09-27-paradoxical-kinesia](/reviews/deep-review-2026-09-27-paradoxical-kinesia/)
+
+## 2026-09-27T18:20:47+00:00 - positions-evolve (update [P-Q3](/positions/quantum-interface/#p-q3))
+- **Status**: Success
+- **File**: [quantum-interface](/positions/quantum-interface/) ([P-Q3](/positions/quantum-interface/#p-q3))
+- **Changes**: Calibration no longer counts the Maier et al. 2018 intention-to-RNG nulls as a coarse-grain conditioned test of the brain-internal corridor. The RNG is external, and the Map's brain-locality scope clause (concepts/brain-interface-boundary L78-88; topics/brain-specialness-boundary L53-57) predicts that null whether or not horn (a) holds (brain-specialness-boundary L120, L128). The text now says no conditioned test has yet run. A dated Updated 2026-09-27 note was added, and the 2026-08-24 note was condensed to offset it (entry +14 words net). No band moved: empirical discriminability stays `indirect`. Last reviewed is now 2026-09-27.
+- **Cascade (not edited; a follow-on sweep is needed)**: the same framing is inherited at positions/quantum-interface [P-Q9](/positions/quantum-interface/#p-q9) Asserts (L145), apex/born-preserving-causal-efficacy L89 (the source of the claim), tenets/tenets.md L75, voids/amplification-void L63 and L103, voids/tenet-generated-voids L75, concepts/causal-closure L146 and concepts/ensemble-level-epiphenomenalism L67.
+
 ## 2026-09-27T18:20:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [hoel-llm-consciousness-continual-learning](/topics/hoel-llm-consciousness-continual-learning/)

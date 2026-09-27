@@ -4,7 +4,7 @@ description: "Motor control and attention share neural substrates; dopamine mark
 created: 2026-01-18
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-09-27T09:55:13+00:00
+ai_modified: 2026-09-27T18:37:30+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -101,7 +101,7 @@ The basal ganglia implement a brake-release model: tonic inhibition of motor pro
 
 Dopamine doesn't cause movement—it marks what's worth moving toward. Palmiter's dopamine-deficient mice demonstrate a clean dissociation: without dopamine, motor neurons fire normally, reflexes work, and external stimulation can drive treadmill running. Motor *capacity* is preserved. What's missing is spontaneous movement, goal-directed behaviour, the initiative to engage the intact motor system.
 
-This pattern recurs in Parkinson's disease. Akinesia and bradykinesia are cardinal symptoms, yet patients perform rapid movements when externally triggered—the motor system works; something upstream in selection is compromised.
+This pattern recurs in Parkinson's disease. Akinesia and bradykinesia are cardinal symptoms, yet patients move rapidly when externally triggered—the motor system works; whether selection or habit fails is [[paradoxical-kinesia|disputed]].
 
 The capacity/initiation dissociation maps onto a three-layer model:
 1. **Neural computation** generates competing motor options (intact without dopamine)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-09-27 09:55:13+00:00
+ai_modified: 2026-09-27 18:37:30+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 20:49:10+00:00
-lastmod: 2026-09-27 09:55:13+00:00
+lastmod: 2026-09-27 18:37:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -104,7 +104,7 @@ The basal ganglia implement a brake-release model: tonic inhibition of motor pro
 
 Dopamine doesn't cause movement—it marks what's worth moving toward. Palmiter's dopamine-deficient mice demonstrate a clean dissociation: without dopamine, motor neurons fire normally, reflexes work, and external stimulation can drive treadmill running. Motor *capacity* is preserved. What's missing is spontaneous movement, goal-directed behaviour, the initiative to engage the intact motor system.
 
-This pattern recurs in Parkinson's disease. Akinesia and bradykinesia are cardinal symptoms, yet patients perform rapid movements when externally triggered—the motor system works; something upstream in selection is compromised.
+This pattern recurs in Parkinson's disease. Akinesia and bradykinesia are cardinal symptoms, yet patients move rapidly when externally triggered—the motor system works; whether selection or habit fails is [disputed](/topics/paradoxical-kinesia/).
 
 The capacity/initiation dissociation maps onto a three-layer model:
 1. **Neural computation** generates competing motor options (intact without dopamine)

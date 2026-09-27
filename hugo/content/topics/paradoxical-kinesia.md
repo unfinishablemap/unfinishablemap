@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-27
-ai_modified: 2026-09-27 15:52:14+00:00
+ai_modified: 2026-09-27 18:37:30+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -15,7 +15,8 @@ description: Parkinson's patients sometimes move fluently under cue or threat. D
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-27 15:52:14+00:00
+last_deep_review: 2026-09-27 18:37:30+00:00
+lastmod: 2026-09-27 18:37:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -37,11 +38,11 @@ The term goes back a century. Alexandre-Achille Souques named *kinésie paradoxa
 
 The clinical picture is vivid but anecdotal. Asmus et al. (2008) describe a 68-year-old soccer enthusiast whose freezing of gait did not respond even to high doses of dopaminergic medication, yet who "could reliably overcome freezing" by kicking a tennis ball attached to a rubber band.
 
-When the phenomenon has been looked for systematically, it turns out to be rare. Schlesinger, Erikh and Yarnitsky (2007) interviewed fifty Parkinson's patients whose residential area had suddenly become a war zone under missile attack. Only two reported paradoxical kinesia, both in response to visual cues. The air-raid siren, a frightening auditory warning of imminent danger, did not induce it, and patients reported significantly *more* OFF time during the war than before it. The authors conclude that "paradoxical kinesia is uncommon, even in the face of danger." Emergency alone does not reliably unlock movement.
+When the phenomenon has been looked for systematically, it turns out to be rare. Schlesinger, Erikh and Yarnitsky (2007) interviewed fifty Parkinson's patients whose residential area had suddenly become a war zone under missile attack. Only two reported paradoxical kinesia, and only one of those episodes occurred during the war (the other was historical); both followed visual cues. The air-raid siren, a frightening auditory warning of imminent danger, did not induce it, and patients reported significantly *more* OFF time during the war than before it. The authors conclude that "paradoxical kinesia is uncommon, even in the face of danger." Emergency alone does not reliably unlock movement. The authors draw a modality moral from their two cases: "Visual, but not auditory, triggers appear to be needed to prompt its occurrence." That conclusion favours an external-cue account, though it rests on two patients.
 
 ### Pathway Accounts
 
-Two proposals locate the effect in a route that avoids the damaged basal ganglia. Glickstein and Stein (1991) observed that the stimuli that often elicit paradoxical movement resemble those that relay visual information to the cerebellum. They suggested that "the pathways relaying those visual stimuli can bypass the damaged basal ganglia and allow an intact cerebellar circuit to be used for visuomotor control." Melo-Thomas and Schwarting (2023), working from two rodent models, point instead to the inferior colliculus as a candidate part of an alternative pathway bypassing the basal ganglia.
+Two proposals locate the effect in a route that avoids the damaged basal ganglia. Glickstein and Stein (1991) observed that the stimuli that often elicit paradoxical movement resemble those that relay visual information to the cerebellum. They suggested that "the pathways relaying those visual stimuli can bypass the damaged basal ganglia and allow an intact cerebellar circuit to be used for visuomotor control." Melo-Thomas and Schwarting (2023), working from two animal models, point instead to the inferior colliculus as a candidate part of an alternative pathway bypassing the basal ganglia.
 
 Both are anatomical hypotheses. Neither is stated in terms of willed versus habitual control, so neither settles the question this article is about.
 
@@ -63,7 +64,7 @@ Both readings accept the same datum: self-initiated action is most impaired and 
 
 **The habitual-control reading.** Redgrave et al. (2010) argue that the basal ganglia contain spatially segregated territories for goal-directed and habitual control, and that in Parkinson's the loss of dopamine "is predominantly in the posterior putamen, a region of the basal ganglia associated with the control of habitual behaviour." Patients "may therefore be forced into a progressive reliance on the goal-directed mode," and many of their difficulties "may reflect a loss of normal automatic control owing to distorting output signals from habitual control circuits." On this reading, freezing of gait is a failure of the most automatic behaviour there is, and effortful, attended movement is the compensating route.
 
-The two readings invert the meaning of the cue benefit. For the willed-deficit reading, the cue helps because it removes the need for choice. For the habitual reading, the cue helps because it gives goal-directed control something to act on, so that walking becomes a sequence of attended targets instead of an automatism. The application of Redgrave et al.'s framework to paradoxical kinesia specifically is this article's extrapolation; their abstract does not discuss it.
+The two readings invert the meaning of the cue benefit. For the willed-deficit reading, the cue helps because it removes the need for choice. For the habitual reading, the cue helps because it gives goal-directed control something to act on, so that walking becomes a sequence of attended targets instead of an automatism. Redgrave et al. make this move themselves for cued movement generally, answering the objection that cue benefits show sensorimotor circuits still working: "sensory input is equally important for goal-directed control." They do not discuss paradoxical kinesia by name; extending their account to urgency and threat is this article's extrapolation.
 
 ## What Each Reading Predicts
 
@@ -71,7 +72,7 @@ The two readings invert the meaning of the cue benefit. For the willed-deficit r
 |---|---|---|---|
 | External visual cue helps | Yes: cue triggers movement without choice | Yes: cue recruits goal-directed control | Yes, but by the same amount in controls (Ballanger 2006) |
 | Internal expectation alone helps | Not predicted; anticipation is self-generated | Predicted; goal-directed control can use an internal goal | Yes, with a larger velocity gain in patients (Distler 2016) |
-| Emergency reliably unlocks movement | Predicted if threat acts as a trigger | No strong prediction | Rare: 2 of 50 under missile attack; siren ineffective (Schlesinger 2007) |
+| Emergency reliably unlocks movement | Predicted if threat acts as a trigger | No strong prediction | Rare: 2 of 50 ever, 1 during the missile attacks; siren ineffective (Schlesinger 2007) |
 | Freezing of gait | Failure of internal selection | Breakdown of automatic control | Fits the habitual reading more naturally |
 | Anatomical locus of dopamine loss | No specific prediction | Posterior (habit) putamen | Posterior putamen (Redgrave 2010) |
 
@@ -81,7 +82,7 @@ Emergency-driven paradoxical kinesia, the case often taken as the purest bypass,
 
 ## What Would Discriminate
 
-The two readings make different predictions in places paradoxical kinesia does not reach. Outcome-devaluation tests, which ask whether a learned response persists after its outcome stops being valued, are the standard behavioural signature of habit (see [philosophy-of-habit-under-dualism](/topics/philosophy-of-habit-under-dualism/)). If Parkinson's damages habitual control, patients should show *more* outcome sensitivity than controls in well-practised tasks; if it damages willed selection, the reverse. Dual-task costs offer a second test: if cued walking runs on the goal-directed route, it should degrade under a concurrent attention-demanding task more in patients than in controls. This article does not survey that literature; it names these as the tests that bear on direction, where paradoxical kinesia does not.
+The two readings make different predictions in places paradoxical kinesia does not reach. Outcome-devaluation tests, which ask whether a learned response persists after its outcome stops being valued, are the standard behavioural signature of habit (see [philosophy-of-habit-under-dualism](/topics/philosophy-of-habit-under-dualism/)). If Parkinson's damages habitual control, patients should show *more* outcome sensitivity than controls in well-practised tasks; if it damages willed selection, the reverse. Dual-task costs offer a second test, one Redgrave et al. themselves propose when they predict that reliance on goal-directed control makes patients' actions "increasingly subject to interference from other goal-directed tasks": if cued walking runs on the goal-directed route, it should degrade under a concurrent attention-demanding task more in patients than in controls. This article does not survey that literature; it names these as the tests that bear on direction, where paradoxical kinesia does not.
 
 ## Relation to Site Perspective
 
@@ -101,6 +102,7 @@ The two readings make different predictions in places paradoxical kinesia does n
 - [philosophy-of-habit-under-dualism](/topics/philosophy-of-habit-under-dualism/) — Habit, outcome insensitivity, and the automatic/attentive distinction
 - [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) — What progressive neural loss reveals about the mind-brain relationship
 - [mental-effort](/concepts/mental-effort/) — Why selection feels effortful
+- [attention-as-interface](/concepts/attention-as-interface/) — Attention as the proposed site of conscious selection
 
 ## References
 

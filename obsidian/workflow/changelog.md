@@ -5,6 +5,17 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T18:37:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/paradoxical-kinesia]]
+- **Word count**: 2163 → 2277 (+114)
+- **Critical issues addressed**: 4. Schlesinger 2007 count was "2 of 50 under missile attack"; the abstract says one was war-related and one historical. The authors' "Visual, but not auditory, triggers" conclusion had been left out. Redgrave 2010 was wrongly called silent on the cue benefit; the full text says "sensory input is equally important for goal-directed control". The dual-task prediction is Redgrave's own and is now credited.
+- **Medium issues addressed**: 1 ("rodent" softened to "animal" models, Melo-Thomas 2023)
+- **Enhancements made**: 3 (Redgrave credit, Schlesinger balance, attention-as-interface cross-link). Also: concepts/motor-selection L104 rescoped with no change in length (3499 words) from "something upstream in selection is compromised" to a disputed-direction wording linking [[paradoxical-kinesia]].
+- **Citations**: all 7 verified at Crossref/PubMed/OpenAlex/PMC; metadata real-correct for all; one body claim was real-wrong (Schlesinger count), now fixed.
+- **Engagement modes**: Redgrave/non-reductive physicalist rival: Mode Three (an honest boundary marking; "compatible, not supported").
+- **Output**: [[reviews/deep-review-2026-09-27-paradoxical-kinesia]]
+
 ## 2026-09-27T18:20:47+00:00 - positions-evolve (update P-Q3)
 - **Status**: Success
 - **File**: [[positions/quantum-interface]] (P-Q3)
