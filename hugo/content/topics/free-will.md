@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-09-20 01:11:04+00:00
+ai_modified: 2026-09-27 05:21:31+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -45,7 +45,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 04:20:00+00:00
-lastmod: 2026-09-20 01:11:04+00:00
+lastmod: 2026-09-27 05:21:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -89,7 +89,7 @@ The strongest case that free will is incompatible with determinism—shared by h
 
 ## The Neuroscientific Challenge
 
-[Libet's experiments](/concepts/libet-experiments/) found that neural "readiness potentials" precede conscious awareness of deciding to move. But the data admits other interpretations. Schurger et al. (2012) proposed the readiness potential reflects neural noise rather than decision preparation. Sjöberg (2024) adds clinical data pointing the same way: patients with surgical resection of the supplementary motor area retain their sense of voluntary action—if the RP reflected genuine volition, removing its source should impair it (though Sjöberg, himself no dualist, reads the cases as removing a defeater rather than confirming conscious causation). Libet himself argued consciousness retains "veto power" to cancel prepared actions. See [libet-experiments](/concepts/libet-experiments/) for detailed analysis, [Phenomenology of Volitional Control](/topics/volitional-control/) for the first-person structure of willing, vetoing, and selecting among actions, [volitional opacity](/voids/self-opacity/) for why the mechanism of willing is structurally hidden from introspection, and the [decision-void](/voids/decision-void/) for why the deliberation→commitment moment itself is given as already-closed—the primary candidate site for non-physical influence and the site whose structural opacity the Map's tenets predict.
+[Libet's experiments](/concepts/libet-experiments/) found that neural "readiness potentials" precede conscious awareness of deciding to move. But the data admits other interpretations. Schurger et al. (2012) proposed the readiness potential reflects neural noise rather than decision preparation. Sjöberg (2024) adds clinical data pointing the same way: patients with surgical resection of the supplementary motor area retain their sense of voluntary action—if the RP reflected genuine volition, removing its source should impair it (though Sjöberg, himself no dualist, reads the cases as removing a defeater rather than confirming conscious causation). Libet himself argued consciousness retains "veto power" to cancel prepared actions. See [libet-experiments](/concepts/libet-experiments/) for detailed analysis, [Phenomenology of Volitional Control](/topics/volitional-control/) for the first-person structure of willing, vetoing, and selecting among actions, [volitional opacity](/voids/self-opacity/) for why the mechanism of willing is structurally hidden from introspection, and the [decision-void](/voids/decision-void/) for why the deliberation→commitment moment itself is given as already-closed—the primary candidate site for non-physical influence, whose structural opacity is consistent with the Map's tenets.
 
 ## The Agent-Causal Response to Luck
 
@@ -105,7 +105,7 @@ The physicalist can accommodate the neural data—different neural modes explain
 
 ### Introspective Reliability
 
-Schwitzgebel (2011) has documented pervasive introspective failures. Why trust phenomenology about agency? Because the argument depends on a *coarse-grained, first-order distinction*—choosing feels different from observing—not on subtle introspective classification. Even Wegner (2002), who argues conscious will is an illusion, acknowledges the robust feeling of effort; his claim is that it *misrepresents its cause*, not that it doesn't exist. Three features may make agency phenomenology comparatively robust: the distinction is coarse-grained (choosing vs observing), behaviourally consequential (reports correlate with distinct neural signatures), and cross-domain stable (the same effortful quality appears in attention, motor control, reasoning, and creative generation). Moreover, the sense of agency and the sense of ownership dissociate in clinical populations, which suggests that agency phenomenology tracks genuine causal structure rather than being blanket confabulation applied to all movement (Gallagher & Zahavi, 2012). In schizophrenic delusions of control and in [anarchic hand syndrome](/topics/anarchic-hand-and-action-ownership/) alike, the patient still feels the moving body as *his own* (ownership intact) yet experiences the movement as escaping his will (agency disrupted). That a felt sense of *initiating* can drop out while the felt sense of *ownership* persists is what resists the deflationary reading: a single demand-tracking confabulation should colour all movement uniformly, yet here it selectively detaches. Dismissing the wider volitional phenomenology as illusion would, on this reading, require not one trick but several separately fracturable ones — fabricating initiation, sustained control, effort gradients, and active veto, each calibrated to real cognitive demands with distinct neural substrates. The Map argues that this structured phenomenology, combined with its neural correlates, is better explained by genuine agent involvement than by systematic misleading—though whether the phenomenology is ultimately veridical is precisely what the eliminativist disputes, and the argument here aims to shift the burden rather than to close the question.
+Schwitzgebel (2011) has documented pervasive introspective failures. Why trust phenomenology about agency? Because the argument depends on a *coarse-grained, first-order distinction*—choosing feels different from observing—not on subtle introspective classification. Even Wegner (2002), who argues conscious will is an illusion, acknowledges the robust feeling of effort; his claim is that it *misrepresents its cause*, not that it doesn't exist. Three features may make agency phenomenology comparatively robust: the distinction is coarse-grained (choosing vs observing), behaviourally consequential (reports correlate with distinct neural signatures), and cross-domain stable (the same effortful quality appears in attention, motor control, reasoning, and creative generation). The sense of agency and the sense of ownership also dissociate clinically (Gallagher & Zahavi, 2012): in schizophrenic delusions of control and in [anarchic hand syndrome](/topics/anarchic-hand-and-action-ownership/) alike, the patient feels the moving body as *his own* (ownership intact) yet experiences the movement as escaping his will (agency disrupted). This shows agency phenomenology is structured, but does not favour the Map over its strongest deflationary rival: comparator models and Wegner's priority, consistency and exclusivity cues predict exactly this *selective* loss, since there the sense of agency is a separately computed inference. The Map declines them because they place the causal work in a subpersonal predictor the phenomenology merely reports—a foundational disagreement, noted rather than refuted here. The Map argues that this structured phenomenology, combined with its neural correlates, is better explained by genuine agent involvement than by systematic misleading—though whether the phenomenology is ultimately veridical is precisely what the eliminativist disputes, and the argument here aims to shift the burden rather than to close the question.
 
 ### The Phenomenology of Choice
 
@@ -113,7 +113,7 @@ The [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) s
 
 ### Counterfactual Reasoning
 
-Genuine choice may require [counterfactual reasoning](/concepts/counterfactual-reasoning/)—the capacity to imagine alternatives and evaluate what would follow from each. Species with reduced conscious capacity appear to lack the working memory for this (Suddendorf & Corballis, 2007; Read, 2008), though the comparative evidence is itself contested. The [counterfactual void](/voids/counterfactual-void/) suggests architectural limits—Byrne's research indicates we mutate nearby features of actuality rather than freely exploring possibility space. This perhaps constrains but need not undermine libertarian free will: agent causation may require only evaluating *nearby* alternatives sufficient for practical deliberation, which is what [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) would predict.
+Genuine choice may require [counterfactual reasoning](/concepts/counterfactual-reasoning/)—the capacity to imagine alternatives and evaluate what would follow from each. Species with reduced conscious capacity appear to lack the working memory for this (Suddendorf & Corballis, 2007; Read, 2008), though the comparative evidence is itself contested. The [counterfactual void](/voids/counterfactual-void/) suggests architectural limits—Byrne's research indicates we mutate nearby features of actuality rather than freely exploring possibility space. This perhaps constrains but need not undermine libertarian free will: agent causation may require only evaluating *nearby* alternatives sufficient for practical deliberation.
 
 ### The Physical Mechanism Question
 
@@ -150,8 +150,6 @@ Chisholm distinguished *transeunt* causation (event→event) from *immanent* cau
 
 The [phenomenology of effort](/concepts/mental-effort/) supports this picture—the felt cost of concentration reflects genuine causal engagement. [Creativity](/topics/consciousness-and-cognitive-distinctiveness/) strengthens the case: consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination, constituting the very space of alternatives. Yet the generation process itself is opaque—the [creativity void](/voids/creative-aesthetic-void/) reveals we cannot observe ourselves creating.
 
-[Dream problem-solving](/topics/dream-consciousness/) provides suggestive (and contested) evidence: dream incorporation more than doubled solving rates for unsolved puzzles, suggesting consciousness generates novel approaches in a phenomenally different mode—though the result rests on a small lucid-dreamer-selected sample and has not been independently replicated. If consciousness were epiphenomenal, the phenomenal character of dreaming should be irrelevant to problem-solving success.
-
 ## The Capacity to Suspend Selection
 
 Meditation reveals that consciousness can *refrain from selecting*. The agent can select among options, refrain from selecting (witness mode), or choose which mode to operate in (meta-level agency). A passive recipient of random events couldn't choose to be passive. See [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) for detailed analysis.
@@ -174,12 +172,12 @@ How this article should be read on moral questions specifically: the Map's liber
 
 The framework is not unfalsifiable:
 
-- **Decisive neural determinism**: If prior neural states were shown *sufficient* for choice outcomes, leaving no residual variance for conscious contribution, agent causation would lose its evidential basis
+- **Decisive neural determinism**: If prior neural states predicted *deliberate* choices up to the noise ceiling, agent causation would lose its evidential basis. The test is live: Maoz et al. (2019) found readiness potentials for arbitrary decisions "strikingly absent" for deliberate ones
 - **Materialist solution to the hard problem**: Explaining why physical arrangements *feel like something*
 - **Phenomenology-neuroscience dissociation**: Effort feeling easy when neural cost is high, or vice versa
 - **No physical gap for mental causation**: Proof that causal closure holds without exception at all scales
 
-The first and fourth falsifiers are third-person-empirical—reachable by neuroscience and physics from outside, so the [first-person verification failure](/voids/agency-void/) that limits introspective proof of efficacy does not insulate the framework from them. Failure of any particular proposed mechanism (like quantum approaches) would require finding an alternative gap, not abandoning libertarian free will. The philosophical case rests on phenomenology and agent causation, not on any specific physics.
+The first falsifier is third-person-empirical, so the [first-person verification failure](/voids/agency-void/) that limits introspective proof of efficacy does not insulate the framework from it. The others bind less cleanly: the second targets dualism rather than agent causation, physicalism also predicts the coupling whose failure the third describes, and the fourth is a universal no induction completes. The agency case is held to survive the failure of any particular mechanism ([agency register](/positions/agency-and-will/)), but that locates where the case rests; it exempts nothing from these tests.
 
 ## Distal Intentions and Prospective Memory
 
@@ -187,7 +185,7 @@ Most voluntary action involves distal intentions formed earlier, not just proxim
 
 ## The Picture That Emerges
 
-The brain prepares possible action patterns. Consciousness—the agent—selects which becomes actual. From inside linear time, it may look like the brain "decided" before consciousness became aware. But if agent causation operates atemporally, the linear ordering is itself part of what was selected.
+The brain prepares possible action patterns. Consciousness—the agent—selects which becomes actual. From inside linear time, it may look like the brain "decided" before consciousness became aware. Only if the tentative atemporal reading above held would that linear ordering be part of what was selected.
 
 This isn't a proof. It's a coherent picture that takes both consciousness and physics seriously. The evidence draws primarily on phenomenology combined with neural data showing that willed action engages qualitatively different brain mechanisms. These lines are contested, but the Map holds that their *systematic covariation across domains* is better explained by genuine agent involvement than by any account treating the phenomenology as illusory or idle. See [Living with the Map](/apex/living-with-the-map/) for what genuine authorship means for daily life.
 
@@ -205,7 +203,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The objection here is about authorship. A many-worlds reading can supply a branch-local agent who deliberates and reports choosing—it restates the deliberative data without difficulty. What it cannot supply is the *global exclusion* of unchosen alternatives: a fact of the matter that *this* subject actualised *this* outcome and not the alternatives. Under branching, every option the agent "rejects" is realised in a parallel branch by a counterpart with equal claim to being the chooser, so nothing in the formalism makes the unchosen genuinely unchosen—and the judgment that this dissolves authorship rests not on sourcehood alone but on a global-exclusion condition, a [posit the Map adopts](/tenets/background-commitments/), asserted rather than derived from the agency case. So No-MWI functions as a tenet about personhood and responsibility as much as about quantum interpretation, and the rejection on agency grounds rests on sourcehood plus this posit rather than on the weaker claim that selection "requires real collapse"—a framework-boundary disagreement the [MWI checklist](/project/evidential-status-discipline/) routes to its honest register. The Deutsch-Wallace decision theorem grounds rational *policy* under branching, but policy is not authorship: it tells a branching agent how to weight outcomes, not which subject causes what actually happens. See the [cumulative case against MWI](/arguments/many-worlds-argument/) for the full treatment.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Determinism seems simpler but fails to explain the data: phenomenology of effort, willed/instructed neural distinctions, conscious engagement correlating with neuroplasticity.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The simpler rival is physicalism, deterministic or not, which accommodates effort phenomenology, willed/instructed neural distinctions, and engagement-linked neuroplasticity without a non-physical selector. The tenet blocks that simplicity from being a refutation; it does not convert the Map's bet into a demonstration.
 
 ## Further Reading
 
@@ -256,3 +254,4 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 1. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
 1. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
 1. Gallagher, S., & Zahavi, D. (2012). *The Phenomenological Mind* (2nd ed.). Routledge.
+1. Maoz, U., Yaffe, G., Koch, C., & Mudrik, L. (2019). Neural precursors of decisions that matter—an ERP study of deliberate and arbitrary choice. *eLife*, 8, e39787.

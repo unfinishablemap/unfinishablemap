@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-27T05:21:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [free-will](/topics/free-will/)
+- **Original score**: n/a (targeted outer-review fix; `scripts/curate.py` absent)
+- **Changes**: Tenet leakage and falsifier immunisation (outer reviews 2026-09-27, ChatGPT + Claude; convergent on d, c, g). (a) Occam paragraph: "Determinism seems simpler but fails to explain the data" replaced with the symmetric Tenet-5 form naming physicalism (deterministic or not) as the simpler rival that accommodates the listed data; the tenet blocks refutation without converting the bet into a demonstration. (b) Deleted the counterfactual → "Minimal Quantum Interaction would predict" clause. (c) Decision-void opacity "the Map's tenets predict" → "is consistent with the Map's tenets". (d) Deleted the immunising "alternative gap" sentence; restated that the agency case is held to survive mechanism failure (linked [agency-and-will](/positions/agency-and-will/)) without exemption from the tests; rewrote falsifier 1 as a deliberate-choice decoding-ceiling test citing Maoz, Yaffe, Koch & Mudrik 2019 (*eLife* 8:e39787; metadata and "strikingly absent" verified via Crossref abstract 2026-09-27) and honestly graded falsifiers 2–4 as non-discriminating or unreachable. [P-Q3](/positions/quantum-interface/#p-q3) Born-deviation test NOT added (the bias-without-deviation horn makes a null non-discriminating). (e) Cut the uncited, unreplicated dream-incorporation paragraph. (f) Replaced the "single demand-tracking confabulation should colour all movement uniformly" strawman: the agency/ownership dissociation is now conceded to be predicted by comparator models and Wegner's priority/consistency/exclusivity cues, with the Map's rejection marked as foundational disagreement; the "several separately fracturable tricks" sentence deleted. (g) "The Picture That Emerges" atemporal-selection sentence made conditional on the tentative reading. Engagement with comparator/Wegner deflationism: Mode Three (framework boundary, honestly noted). Body words 3809 → 3795 (-14). Synced to hugo.
+- **Published**: yes
+
 ## 2026-09-27T05:06:21+00:00 - refine-draft
 - **Status**: Success
 - **File**: [agent-causation](/concepts/agent-causation/) (+ [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/), [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/), [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/), [delegatory-causation](/concepts/delegatory-causation/), [interface-specification-programme](/apex/interface-specification-programme/))
