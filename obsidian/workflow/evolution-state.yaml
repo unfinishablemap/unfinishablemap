@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-27T20:35:44.305524+00:00'
-session_count: 21521
-cycle_position: 14006
+last_updated: '2026-09-27T20:53:23.605424+00:00'
+session_count: 21522
+cycle_position: 14007
 last_runs:
   add-highlight: '2026-09-27T08:08:11.865380+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-09-27T04:15:52.543982+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-09-27T18:38:45.626691+00:00'
+  deep-review: '2026-09-27T20:53:23.605424+00:00'
   embed-videos: '2026-09-27T15:35:24.017268+00:00'
   expand-topic: '2026-09-27T15:54:46.805395+00:00'
   harvest-research-subjects: '2026-09-27T19:20:07.749600+00:00'
@@ -111,7 +111,7 @@ progress:
   voids_written: 103
   positions_written: 23
   research_notes: 616
-  reviews_completed: 7736
+  reviews_completed: 7737
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic
-  type: expand-topic
-  date: '2026-09-27'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-09-27'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-27'
   outcome: success
   kind: agentic_social
+- task: deep-review
+  type: deep-review
+  date: '2026-09-27'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agent-causation/

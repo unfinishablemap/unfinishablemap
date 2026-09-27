@@ -10,6 +10,23 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-27T21:05:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/)
+- **Original score**: 7/10 (curate review tool absent; judged from the task's flagged defects)
+- **Changes**: (a) L100: dropped "the block grows through the constitutive activity of conscious collapse-participation" and "on both Whitehead's view and the Map's, experiential through and through", which contradicted the page's own L116 (collapse predates life). It now says most growth is objective, mindless collapse (matching `temporal-consciousness-structure-and-agency` L206-208); consciousness biases outcomes at the neural leading edge and constitutes the *phenomenological* arrow. "Experiential through and through" is attributed to Whitehead only, and the passage forward-links to a new `{#physical-and-phenomenological-arrows}` anchor on the H2. (b) L102: narrowed the premise to the experienced arrow. Removed "causal closure fails as a structural feature" and noted that the Map's case against closure rests on the separate claim that consciousness biases collapse outcomes in neural systems. This matches today's `concepts/collapse-and-time` fix and does not state that collapse requires consciousness. (c) L130: added a piped link `[[egocentric-presentism|temporal bias]]` (+0 words, Hare 2007 self-bias/time-bias parity). Price inversion (L66) and the demoted third consideration (L120) are untouched. Length 3569 → 3629 (hard 4000).
+- **Published**: yes
+
+## 2026-09-27T20:52:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [diverging-worlds-everettianism](/concepts/diverging-worlds-everettianism/)
+- **Word count**: 1942 → 2053 (+111)
+- **Critical issues addressed**: 5 (unverifiable "Future Argument for Divergence" label removed; Morganti NDPR 2022.02.21 → 2022.02.05; Morganti inline orphan; Saunders quote reframed as granted-to-Lewis; Lewis year)
+- **Medium issues addressed**: 3 ("two" → "many" continuations paraphrase; "continuum of worlds" overclaim; Deutsch-style infinite-universe reply to the haecceitistic residue conceded)
+- **Enhancements made**: 1
+- **Citation ledger**: 6 cites checked at publisher; all quotes grep-verified in raw preprints. Engagements: Saunders/Wallace Mode Three; Wilson Mode Three.
+- **Output**: [deep-review-2026-09-27-diverging-worlds-everettianism](/reviews/deep-review-2026-09-27-diverging-worlds-everettianism/)
+
 ## 2026-09-27T20:20:38+00:00 - refine-draft
 - **Status**: Success
 - **File**: [meaning-void](/voids/meaning-void/)

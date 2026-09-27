@@ -4,7 +4,7 @@ description: "How temporal ontology constrains consciousness theory, and why con
 created: 2026-02-11
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-07-19T09:45:54+00:00
+ai_modified: 2026-09-27T21:05:31+00:00
 draft: false
 anchoring_audit_exempt: true
 topics:
@@ -97,9 +97,9 @@ The growing block preserves what the other ontologies sacrifice. The past exists
 
 This ontology pairs naturally with the Map's framework. Temporal experience is veridical—flow is real because reality is genuinely accumulating. Consciousness operates at the ontological frontier, participating in [[collapse-and-time|collapse]]—the process by which quantum superposition becomes definite outcome. Objective collapse theories (GRW, Penrose) hold that collapse occurs through physical mechanisms alone; the Map's position is that consciousness *modulates* collapse in neural systems specifically, biasing outcomes without replacing the physical mechanism—a form of [[mental-causation-and-downward-causation|downward causation]] compatible with [[conservation-laws-and-mental-causation|conservation laws]]. Superpositions resolve at the present moment, and this resolution is what "growth" consists in. The past is collapsed, definite structure. The future is uncollapsed possibility. The present is the activity of collapse itself. Past collapsed states constrain present possibilities; consciousness selects among remaining open possibilities; the selection becomes a new definite fact.
 
-Without collapse, what distinguishes the leading edge? Physical laws are time-symmetric—they don't mandate a direction of growth. Something must break this symmetry. Consciousness-involving collapse introduces genuine irreversibility, distinguishing the open present from the settled past. The block doesn't grow mechanically; it grows through the constitutive activity of conscious collapse-participation. This connects to [[process-philosophy|Whitehead's process philosophy]], where "actual occasions" of experience constitute temporal moments through concrescence—the transition from indeterminacy to definiteness. The growing block's leading edge, on both Whitehead's view and the Map's, is experiential through and through.
+Without collapse, what distinguishes the leading edge? Physical laws are time-symmetric—they don't mandate a direction of growth. Something must break this symmetry. Collapse introduces genuine irreversibility, distinguishing the open present from the settled past. On the Map's view most of this growth is objective and mindless: the cosmic arrow is laid down by physical collapse and predates any experiencer ([explained below](#physical-and-phenomenological-arrows)). Consciousness enters at the neural leading edge, where it biases which outcomes become actual, and there its participation constitutes the *phenomenological* arrow—the experienced passage from open to settled. This connects to [[process-philosophy|Whitehead's process philosophy]], where "actual occasions" of experience constitute temporal moments through concrescence—the transition from indeterminacy to definiteness. For Whitehead the leading edge is experiential through and through; the Map takes the narrower view that it is experiential only where minds are.
 
-The hard problem deepens productively: physical processes occur within temporal structure; temporal structure is partly constituted by consciousness; therefore consciousness cannot be fully explained by the physical processes it helps make possible. [[causal-closure|Causal closure]] fails here not as an empirical claim but as a structural feature of the relationship between consciousness and temporal ontology.
+The hard problem deepens accordingly: if the experienced arrow of time is partly constituted by consciousness, then that arrow cannot be fully explained by the physical asymmetry it rides on, since the physical asymmetry is present without it. The Map's case against [[causal-closure|causal closure]] does not follow from this structural point alone; it rests on the separate claim that consciousness biases collapse outcomes in neural systems.
 
 ### The Mutual Support Question {#mutual-support}
 
@@ -111,7 +111,7 @@ Conversely, the claim that consciousness participates in quantum collapse has mo
 
 What the mutual support provides is not a circular proof but a *reflective equilibrium*: two independently motivated positions that, when combined, illuminate and strengthen each other. The growing block provides a temporal structure where consciousness's role in collapse makes ontological sense (the leading edge is where collapse occurs). Consciousness-involving collapse provides the growing block with a mechanism for growth and a response to the epistemic objection ([discussed below](#epistemic-objection)). Each claim is stronger in the presence of the other, but neither depends on the other for its initial plausibility. The Map accepts reflective equilibrium as characteristic of metaphysical reasoning: the best metaphysical packages are those whose components reinforce each other.
 
-## Consciousness as Constitutive of the Phenomenological Arrow
+## Consciousness as Constitutive of the Phenomenological Arrow {#physical-and-phenomenological-arrows}
 
 Two claims must be distinguished. The **physical asymmetry claim** is that collapse introduces irreversibility whether or not conscious beings are present. The Map endorses this—collapse happened before life existed. Time had a physical arrow before anyone experienced it.
 
@@ -127,7 +127,7 @@ Bergson's [[temporal-consciousness|durée]] captures what temporal becoming is l
 
 Three features of durée make it not merely temporal but generative. **Interpenetration**: successive states mutually modify each other—meeting a colleague changes the significance of earlier correspondence. **Indivisibility**: durée cannot be decomposed into atomic instants without destruction. **Irreversibility**: you cannot live a moment twice because the second living incorporates the first.
 
-Consciousness also experiences a structured asymmetry. Remembered events feel *actual*—Tulving's [[anoetic-noetic-autonoetic-consciousness|autonoetic consciousness]] describes self-knowing awareness when remembering. Anticipated events feel *possible* rather than actual, even confident predictions lacking memory's settledness. Each present slides into pastness through Husserl's retention-protention structure. And we prefer good experiences in our future and bad ones in our past—a temporal bias that Greene and Sullivan (2015) argue is irrational on eternalist grounds, but that, if consciousness constitutes the phenomenological arrow, tracks a genuine metaphysical distinction.
+Consciousness also experiences a structured asymmetry. Remembered events feel *actual*—Tulving's [[anoetic-noetic-autonoetic-consciousness|autonoetic consciousness]] describes self-knowing awareness when remembering. Anticipated events feel *possible* rather than actual, even confident predictions lacking memory's settledness. Each present slides into pastness through Husserl's retention-protention structure. And we prefer good experiences in our future and bad ones in our past—a [[egocentric-presentism|temporal bias]] that Greene and Sullivan (2015) argue is irrational on eternalist grounds, but that, if consciousness constitutes the phenomenological arrow, tracks a genuine metaphysical distinction.
 
 ## From Temporal Becoming to Creativity
 
