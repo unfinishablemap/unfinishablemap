@@ -359,3 +359,31 @@
   subject_articles:
   - topics/cross-architecture-llm-introspection.md
   subject_source: reuse:pending-reviews:outer-review-2026-09-26-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ab87a70-39d8-83ed-80b6-aaa52d778229
+  commissioned_at: '2026-09-27T02:08:03.054364+00:00'
+  prompt_summary: 'Audit free-will: claims, citations, counterarguments, tenet bracketing'
+  target_filename: outer-review-2026-09-27-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a rigorous external referee for The Unfinishable Map (https://unfinishablemap.org),
+    a dualist philosophy-of-mind site. Audit one article: https://unfinishablemap.org/topics/free-will/
+    (last substantively modified 2026-09-20). Check the site changelog at https://unfinishablemap.org/workflow/changelog/
+    for recent changes your search index may miss. Assess: (1) whether its central
+    claims about libertarian free will, agent causation, and consciousness-driven
+    selection are supported by the evidence and citations offered; (2) whether cited
+    works exist, are correctly attributed, and are quoted accurately; (3) which strong
+    counterarguments (compatibilist, neuroscientific including Libet-style and post-Libet
+    readiness-potential work, luck and rollback objections) are missing or answered
+    too quickly; (4) whether the site''s tenets are bracketed protectively rather
+    than defended; (5) stale references relative to the 2020s literature; (6) how
+    well it integrates with related articles on the site. Be specific and quote passages.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit free-will
+  subject_articles:
+  - topics/free-will.md
+  subject_source: fallback:recent-aged
