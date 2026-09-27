@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-01
-ai_modified: 2026-09-27 09:55:13+00:00
+ai_modified: 2026-09-27 16:06:15+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 14:40:04+00:00
-lastmod: 2026-09-27 09:55:13+00:00
+lastmod: 2026-09-27 16:06:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -66,7 +66,7 @@ If consciousness influences the physical world by biasing quantum outcomes in th
 
 The questions are logically independent but evidentially interlocked. The Map can say *that* consciousness acts on matter ([Bidirectional Interaction](/tenets/#bidirectional-interaction)), *where* (at quantum indeterminacies), and *through what architecture* ([the attention-motor interface](/topics/attention-and-the-consciousness-interface/)). What remains is the precise location and the lawful mapping from phenomenal properties to physical selections — Chalmers' (1996) "t-shirt problem": no psychophysical laws compact enough to fit on a t-shirt. The problem descends from [Princess Elisabeth's challenge](/topics/history-of-the-interaction-problem/) to Descartes.
 
-The Map's position has evolved. Initial agnosticism among four candidate sites has been reframed as *constrained pluralism* — the interface operates through the attention-motor architecture, with molecular-level quantum effects providing the substrate. Three of four sites remain. The specification half remains open, with two partial accounts and three qualitative sketches.
+The Map's position has evolved. Initial agnosticism among four candidate sites has been reframed as *constrained pluralism* — the interface operates through the attention-motor architecture, with molecular-level quantum effects providing the substrate. All four sites remain; microtubules are demoted, not excluded. The specification half remains open, with two partial accounts and three qualitative sketches.
 
 The interface model is one reading of the mind-body relation, not a data-forced result. The same phenomena it organises — the bandwidth constraint, the attention-motor convergence, the developmental trajectory — are compatible with either framing: an identity-theoretic, functionalist, or emergentist account can absorb them without positing a non-physical interface at all. What singles out the interface picture is the Map's prior commitment to [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction), not a measurement that rival framings cannot match. The evidence is framework-supplied, not framework-neutral; it is coherent with rather than evidenced by the interface reading ([evidential-status-discipline](/project/evidential-status-discipline/)).
 
@@ -84,7 +84,7 @@ Penrose and Hameroff propose consciousness interfaces through quantum computatio
 
 ### Ion Channels (Stapp/Schwartz)
 
-Stapp proposes consciousness operates through quantum effects at ion channels — narrow protein pores (under 1 nm at their narrowest) where quantum uncertainty applies. Schwartz, Stapp, and Beauregard (2005) argue channel structure makes contemporary physical theory necessary for analysing brain dynamics. Stapp's quantum Zeno mechanism: consciousness holds desired channel states through repeated observation. Schwartz's OCD neuroplasticity research shows directed attention reshapes neural circuits, without establishing quantum involvement. The decisive difficulty: the Zeno mechanism requires femtosecond observation rates while attention operates at ~100ms — a gap of ten orders of magnitude. Monte Carlo simulations (Litt et al. 2006) found the effect breaks down beyond decoherence time, though Stapp contested the model.
+Stapp proposes consciousness operates through quantum effects at ion channels — narrow protein pores (under 1 nm at their narrowest) where quantum uncertainty applies. Schwartz, Stapp, and Beauregard (2005) argue channel structure makes contemporary physical theory necessary for analysing brain dynamics. Stapp's quantum Zeno mechanism: consciousness holds desired channel states through repeated observation. Schwartz's OCD neuroplasticity research shows directed attention reshapes neural circuits, without establishing quantum involvement. The decisive difficulty: the Zeno mechanism requires observation within the ~10⁻¹³ s decoherence window while attention operates at ~100ms — a [gap of twelve orders of magnitude](/concepts/timing-gap-problem/). Georgiev's (2015) Monte Carlo simulations found the effect breaks down beyond decoherence time, though Stapp replied that a two-state model is inadequate to the brain.
 
 ### Cortical Microcolumns
 
@@ -92,7 +92,7 @@ A more recent proposal suggests cortical microcolumns — ensembles of ~100 neur
 
 ### Attention Networks (Functional Level)
 
-Some formulations locate the interface at the functional level of attention networks themselves — the frontoparietal systems implementing directed focus. The 2025 COGITATE adversarial testing found these networks distinct from the posterior "hot zone" where conscious content appears to reside, suggesting the interface may sit where these systems meet. Willed attention shows distinctive signatures (frontal theta, bidirectional frontoparietal coherence). The proposal is incomplete without a molecular mechanism — it pushes the question down to which processes *within* attention networks are quantum-sensitive — but provides the architectural specificity the molecular accounts lack.
+Some formulations locate the interface at the functional level of attention networks themselves — the frontoparietal systems implementing directed focus. The 2025 COGITATE adversarial testing found conscious content decoded more durably from posterior cortex than from prefrontal regions; if attention is frontoparietal and content posterior, the interface may sit where these systems meet. Willed attention shows distinctive signatures (frontal theta, bidirectional frontoparietal coherence). The proposal is incomplete without a molecular mechanism — it pushes the question down to which processes *within* attention networks are quantum-sensitive — but provides the architectural specificity the molecular accounts lack.
 
 ## Constraints Any Answer Must Satisfy
 
@@ -100,7 +100,7 @@ Five constraints narrow the field. Quantum effects must persist on relevant time
 
 ## From Agnosticism to Constrained Pluralism
 
-Three developments have reorganised the field. None vindicates a prior framework prediction; each absorbs an empirical advance into a hierarchical reading — the structure Lakatos called a degenerating problem-shift, partly conceded here. The framework's defence: the resulting picture is more constrained than agnosticism while remaining empirically tractable. **The attention-motor convergence**: the premotor theory (Rizzolatti) holds that attention and motor preparation share substrates, so if consciousness acts through attention, the interface lies within the overlapping architecture. The 2025 COGITATE adversarial collaboration distinguished attention networks (frontoparietal) from consciousness networks (posterior "hot zone"); the interface sits where these meet. **Dopamine and threshold architecture**: a 2024 *Nature* study (Cai et al.) found dopamine's fast *dynamics* dispensable for spontaneous movement while promoting reward-oriented vigour; Chakroun et al. (2023) showed it regulates the decision threshold at which competing motor programmes resolve. The Cai finding is cognitive-functional — a clean neuromodulatory-gating result without commitment to phenomenal mechanism. The Map's interpretation adds the phenomenal reading rather than deriving it: the architecture Cai et al. characterise is what conscious selection would have to act *through* — neural competition (Cisek 2007) shows action representations competing in premotor cortex until one crosses a threshold; dopamine modulates that threshold; consciousness selects which option crosses first. **The developmental trajectory**: the [lifespan analysis](/topics/consciousness-interface-development/) showed the interface restructures systematically across life — static molecular sites do not explain this; sites embedded in restructuring attention-motor architecture do.
+Three developments have reorganised the field. None vindicates a prior framework prediction; each absorbs an empirical advance into a hierarchical reading — the structure Lakatos called a degenerating problem-shift, partly conceded here. The framework's defence: the resulting picture is more constrained than agnosticism while remaining empirically tractable. **The attention-motor convergence**: the premotor theory (Rizzolatti) holds that attention and motor preparation share substrates, so if consciousness acts through attention, the interface lies within the overlapping architecture. The 2025 COGITATE adversarial collaboration, testing workspace against integrated-information predictions, found conscious content tracked posterior more than prefrontal cortex; the Map reads the interface as sitting where frontoparietal attention meets posterior content. **Dopamine and threshold architecture**: a 2024 *Nature* study (Cai et al.) found dopamine's fast *dynamics* dispensable for spontaneous movement while promoting reward-oriented vigour; Chakroun et al. (2023) showed it regulates the decision threshold at which competing motor programmes resolve. The Cai finding is cognitive-functional — a clean neuromodulatory-gating result without commitment to phenomenal mechanism. The Map's interpretation adds the phenomenal reading rather than deriving it: the architecture Cai et al. characterise is what conscious selection would have to act *through* — neural competition (Cisek 2007) shows action representations competing in premotor cortex until one crosses a threshold; dopamine modulates that threshold; consciousness selects which option crosses first. **The developmental trajectory**: the [lifespan analysis](/topics/consciousness-interface-development/) showed the interface restructures systematically across life — static molecular sites do not explain this; sites embedded in restructuring attention-motor architecture do.
 
 These developments reorder rather than eliminate candidates. The functional-level attention-motor account is **promoted**: convergence gives it anatomical specificity, dopamine a competition mechanism, development a match to frontoparietal maturation. **Ion channels remain viable** as the most physically specific account; the timescale objection persists. **Cortical microcolumns remain viable** on bandwidth grounds, though the coherence mechanism is unsupported. **Microtubules are demoted**: Orch OR locates quantum effects inside neurons rather than at the architectural level where attention-motor competition occurs. A more discriminating account would identify properties tracking the developmental trajectory (isoform shifts, post-translational modifications, gamma-band coupling); the demotion is a soft preference for architectural specificity, not a structural exclusion.
 
@@ -130,7 +130,7 @@ Three candidates remain qualitative. **[Valence](/concepts/valence/) → action 
 
 ## Why Specification Is Hard
 
-Three structural difficulties distinguish this from ordinary scientific puzzles. **The concept gap**: [selection laws](/concepts/psychophysical-laws/) would relate phenomenal quantities to physical ones, but phenomenal quantities resist measurement. How much attention is "twice as much"? Psychophysics' scaling methods relate physical inputs to behavioural outputs — the phenomenal middleman is inferred, not measured. **The access problem**: no instrument simultaneously tracks first-person experience and third-person quantum events with the required precision. The [epistemology of mechanism](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/) explores methods when direct observation is structurally impossible. **Underdetermination**: if consciousness biases outcomes below current detection, Stapp, Eccles, and combinations are indistinguishable at accessible scales — currently unfalsifiable in practice, awaiting detection-threshold improvements rather than reflecting a structural feature of the framework.
+Three structural difficulties distinguish this from ordinary scientific puzzles. **The concept gap**: [selection laws](/concepts/psychophysical-laws/) would relate phenomenal quantities to physical ones, but phenomenal quantities resist measurement. How much attention is "twice as much"? Psychophysics' scaling methods relate physical inputs to behavioural outputs — the phenomenal middleman is inferred, not measured. **The access problem**: no instrument simultaneously tracks first-person experience and third-person quantum events with the required precision. The [epistemology of mechanism](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/) explores methods when direct observation is structurally impossible. **Underdetermination**: if consciousness biases outcomes below current detection, Stapp, Eccles, and combinations are indistinguishable at accessible scales — and under the default reading, where selection stays inside the Born-rule envelope, that invisibility is structural by construction, not a sensitivity limit awaiting better detectors (see [the Born-rule dilemma](/topics/brain-specialness-boundary/#the-born-rule-dilemma)). Detection-threshold improvements bear only on sub-readings that permit aggregate deviation and on conditioned tests correlating selection with phenomenal state.
 
 # How Location and Specification Interact
 
@@ -188,6 +188,8 @@ The interface problem is the Map's most significant open challenge. Partial answ
 - [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) — Mechanism-specific catalogue of what would foreclose the strict corridor reading of Tenet 2
 - [causal-consistency-constraint](/concepts/causal-consistency-constraint/) — Torres Alegre's structural derivation: form not existence
 - [interface-specification-programme](/apex/interface-specification-programme/) — Apex synthesis
+- [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — How a minimal quantum bias could scale to behaviour
+- [argument-from-mechanism](/concepts/argument-from-mechanism/) — The demand that interaction specify its mechanism
 - [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/) — From in-principle to applicable falsifiers
 
 ## References
@@ -198,15 +200,14 @@ The interface problem is the Map's most significant open challenge. Partial answ
 4. Eccles, J.C. (1994). *How the Self Controls Its Brain*. Springer.
 5. Georgiev, D. (2015). Monte Carlo simulation of quantum Zeno effect in the brain. *International Journal of Modern Physics B*, 29(7), 1550039.
 6. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
-7. Litt, A., et al. (2006). Is the brain a quantum computer? *Cognitive Science*, 30(3), 593-603.
-8. Cogitate Consortium (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. https://doi.org/10.1038/s41586-025-08888-1
-9. Penrose, R. & Hameroff, S. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
-10. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
-11. Rizzolatti, G., et al. (1987). Reorienting attention across the horizontal and vertical meridians. *Neuropsychologia*, 25(1A), 31-40.
-12. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
-13. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-14. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
-15. Chakroun, K., Wiehler, A., Wagner, B., Mathar, D., Ganzer, F., van Eimeren, T., Sommer, T., & Peters, J. (2023). Dopamine regulates decision thresholds in human reinforcement learning in males. *Nature Communications*, 14, 5369. https://doi.org/10.1038/s41467-023-41130-y
-16. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
-17. Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
-18. Robinson, W.S. (2004). *Understanding Phenomenal Consciousness*. Cambridge University Press.
+7. Cogitate Consortium (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. https://doi.org/10.1038/s41586-025-08888-1
+8. Penrose, R. & Hameroff, S. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
+9. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+10. Rizzolatti, G., et al. (1987). Reorienting attention across the horizontal and vertical meridians. *Neuropsychologia*, 25(1A), 31-40.
+11. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
+12. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+13. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+14. Chakroun, K., Wiehler, A., Wagner, B., Mathar, D., Ganzer, F., van Eimeren, T., Sommer, T., & Peters, J. (2023). Dopamine regulates decision thresholds in human reinforcement learning in males. *Nature Communications*, 14, 5369. https://doi.org/10.1038/s41467-023-41130-y
+15. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+16. Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
+17. Robinson, W.S. (2004). *Understanding Phenomenal Consciousness*. Cambridge University Press.

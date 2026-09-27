@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-09-20 22:56:34+00:00
+ai_modified: 2026-09-27 16:06:15+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 09:13:22+00:00
-lastmod: 2026-09-20 22:56:34+00:00
+lastmod: 2026-09-27 16:06:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -110,7 +110,7 @@ The most serious empirical challenge comes from [decoherence](/concepts/decohere
 
 **Second, decoherence doesn't solve the measurement problem.** Even granting rapid decoherence, it selects preferred bases without explaining *definite* outcomes. The post-decoherence density matrix is an *improper* mixture (d'Espagnat 1976)—derived by tracing out the environment—not a *proper* mixture representing classical ignorance. Five selection mechanism families have been proposed to fill this gap, but only consciousness-mediated selection is consistent with the Map's [five tenets](/tenets/) (see [the post-decoherence gap](/topics/comparing-quantum-consciousness-mechanisms/#the-post-decoherence-gap)). Consciousness at collapse survives decoherence because decoherence leaves this gap open.
 
-**Third, the Zeno mechanism reframes the requirement—but faces its own timescale problem.** Stapp's approach requires rapid observation events, not sustained coherence. But Zeno freezing requires ~10¹⁰ observations per second for femtosecond decoherence, while attention operates at ~10⁻¹ seconds—a [ten-order-of-magnitude gap](/concepts/timing-gap-problem/). The Zeno mechanism is better understood as identifying *where* consciousness might intervene rather than a complete account of *how*.
+**Third, the Zeno mechanism reframes the requirement—but faces its own timescale problem.** Stapp's approach requires rapid observation events, not sustained coherence. But Zeno freezing requires observation intervals inside the ~10⁻¹³ s decoherence window, while attention operates at ~10⁻¹ seconds—a [twelve-order-of-magnitude gap](/concepts/timing-gap-problem/). The Zeno mechanism is better understood as identifying *where* consciousness might intervene rather than a complete account of *how*.
 
 **Fourth, and most importantly, [post-decoherence-selection](/concepts/post-decoherence-selection/) reframes the entire debate.** If consciousness selects which element of an already-decohered improper mixture becomes actual, pre-decoherence coherence is unnecessary. [Stochastic amplification](/topics/amplification-mechanisms-consciousness-physics/) then scales a weak post-decoherence bias into macroscopic neural effects. This trades the coherence problem for a specificity problem—explaining why conscious bias produces adaptive behaviour rather than noise (the [amplification void](/voids/amplification-void/)). The trade is not a free win: immunity to the coherence objection is bought by giving up any surviving-coherence signature to look for in tissue, leaving the framework to discharge the amplification and specificity burden instead.
 
@@ -168,7 +168,7 @@ The three forward-in-time frameworks (see [forward-in-time-conscious-selection](
 
 ## What Would Challenge This View?
 
-The framework would face serious difficulty if: (1) experiments definitively show no quantum effects survive in neural tissue on any relevant timescale; (2) the ten-order-of-magnitude Zeno timescale gap proves unbridgeable; (3) trained contemplatives uniformly reported choices feel like they happen *to* them rather than *by* them (current [introspection](/concepts/introspection/) evidence supports selection phenomenology); or (4) the [many-worlds](/concepts/many-worlds/) interpretation were confirmed, making selection illusory.
+The framework would face serious difficulty if: (1) experiments definitively show no quantum effects survive in neural tissue on any relevant timescale; (2) the twelve-order-of-magnitude Zeno timescale gap proves unbridgeable; (3) trained contemplatives uniformly reported choices feel like they happen *to* them rather than *by* them (current [introspection](/concepts/introspection/) evidence supports selection phenomenology); or (4) the [many-worlds](/concepts/many-worlds/) interpretation were confirmed, making selection illusory.
 
 ### The Falsifiability Dilemma
 

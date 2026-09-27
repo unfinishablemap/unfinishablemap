@@ -5,6 +5,15 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T16:06:15+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-interface-problem]]
+- **Original score**: 7/10 (curate.py absent; manual review against task findings)
+- **Changes**: (a) Underdetermination (L129): replaced "unfalsifiable in practice, awaiting detection-threshold improvements rather than … structural" with the calibrated reading — under the default Born-envelope reading invisibility is structural by construction; threshold improvements scoped to aggregate-deviation sub-readings and conditioned tests; deep-link to `brain-specialness-boundary#The Born-Rule Dilemma` (heading verified at L122). (b) L83 timing gap: femtosecond/~100ms "ten orders" (arithmetically fourteen) → ~10⁻¹³ s window vs ~100ms, "twelve orders", linked to `timing-gap-problem`. (c) L83 Monte Carlo misattributed to Litt et al. 2006 → Georgiev (2015); "Stapp contested" verified (Stapp, "Reply to a Critic", argues the two-state model is inadequate for the brain) and made specific; orphaned Litt ref removed, refs renumbered (no numeric in-body cites). (d) L91/L99 COGITATE: removed "distinguished attention networks from consciousness networks"; now reports posterior-vs-prefrontal content decoding (GNWT vs IIT) and marks the attention/content meeting-point as the Map's reading. (e) L65 "Three of four sites remain" → "All four sites remain; microtubules are demoted, not excluded" (consistent with L101, L147). Further Reading: added `amplification-mechanisms-consciousness-physics`, `argument-from-mechanism`. Body 3311→3383 words.
+- **Sibling sweep ("ten orders" timing gap)**: fixed `concepts/brain-interface-boundary` L132 (attention vs Zeno observation rates → twelve); `concepts/consciousness-selecting-neural-patterns` L108 (~10¹⁰/s "for femtosecond decoherence" vs 10⁻¹ s, internally inconsistent → ~10⁻¹³ s window, twelve) and L166; archive `topics/the-interface-location-problem` L80 (same femtosecond/ten error + same Litt misattribution → Georgiev 2015, ref swapped); archive `concepts/non-retrocausal-conscious-selection` L63 (femtosecond/ten → twelve). Left as correct: `qm-interpretations-beyond-many-worlds` L113, `measurement-problem` L139, `objections-to-interactionism` L107, archive `quantum-biology` L176/184 — all use 10⁻¹³ vs 10⁻³ s, where ten is right.
+- **Published**: yes
+
+
 ## 2026-09-27T15:58:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Paradoxical kinesia and the direction of the Parkinsonian volitional/habitual dissociation

@@ -4,7 +4,7 @@ description: "Three frameworks for consciousness selecting quantum outcomes forw
 created: 2026-03-07
 modified: 2026-03-07
 human_modified:
-ai_modified: 2026-03-07T23:22:00+00:00
+ai_modified: 2026-09-27T16:06:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -60,7 +60,7 @@ Henry Stapp proposes that mental attention acts as repeated quantum observation,
 
 This is explicitly forward-in-time: attention holds a pattern *now* rather than selecting a past quantum event. Stapp identifies three components: Process 1 (the observer poses a question to nature), the Zeno effect (rapid repetition holds the answer stable), and the template for action (the neural pattern encoding the intended action).
 
-The Zeno approach sidesteps the [[decoherence]] objection entirely -- it does not require sustained quantum coherence between observations, only rapid observation events. However, it faces its own difficulty: a ten-order-of-magnitude timescale gap between the rate of conscious attention (~100ms between shifts) and the rapid observation rates required for Zeno freezing (~femtosecond intervals). For the Zeno effect to hold a neural state stable, observations must occur faster than the system's natural evolution — and neural systems evolve on timescales many orders of magnitude slower than femtoseconds but still faster than conscious attention can plausibly repeat. What bridges this gap remains unspecified. See [[consciousness-selecting-neural-patterns#The Decoherence Challenge]] for detailed treatment.
+The Zeno approach sidesteps the [[decoherence]] objection entirely -- it does not require sustained quantum coherence between observations, only rapid observation events. However, it faces its own difficulty: a twelve-order-of-magnitude timescale gap between the rate of conscious attention (~100ms between shifts) and the rapid observation rates required for Zeno freezing (intervals inside the ~10⁻¹³ s decoherence window). For the Zeno effect to hold a neural state stable, observations must occur faster than the system's natural evolution — and neural systems evolve on timescales many orders of magnitude slower than femtoseconds but still faster than conscious attention can plausibly repeat. What bridges this gap remains unspecified. See [[consciousness-selecting-neural-patterns#The Decoherence Challenge]] for detailed treatment.
 
 ### Consciousness-Collapse with CSL Dynamics (Chalmers-McQueen)
 

@@ -4,7 +4,7 @@ description: "Consciousness selects which quantum possibilities become actual ne
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-09-20T22:56:34+00:00
+ai_modified: 2026-09-27T16:06:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -105,7 +105,7 @@ The most serious empirical challenge comes from [[decoherence]]. Tegmark (2000) 
 
 **Second, decoherence doesn't solve the measurement problem.** Even granting rapid decoherence, it selects preferred bases without explaining *definite* outcomes. The post-decoherence density matrix is an *improper* mixture (d'Espagnat 1976)—derived by tracing out the environment—not a *proper* mixture representing classical ignorance. Five selection mechanism families have been proposed to fill this gap, but only consciousness-mediated selection is consistent with the Map's [[tenets|five tenets]] (see [[comparing-quantum-consciousness-mechanisms#the-post-decoherence-gap|the post-decoherence gap]]). Consciousness at collapse survives decoherence because decoherence leaves this gap open.
 
-**Third, the Zeno mechanism reframes the requirement—but faces its own timescale problem.** Stapp's approach requires rapid observation events, not sustained coherence. But Zeno freezing requires ~10¹⁰ observations per second for femtosecond decoherence, while attention operates at ~10⁻¹ seconds—a [[timing-gap-problem|ten-order-of-magnitude gap]]. The Zeno mechanism is better understood as identifying *where* consciousness might intervene rather than a complete account of *how*.
+**Third, the Zeno mechanism reframes the requirement—but faces its own timescale problem.** Stapp's approach requires rapid observation events, not sustained coherence. But Zeno freezing requires observation intervals inside the ~10⁻¹³ s decoherence window, while attention operates at ~10⁻¹ seconds—a [[timing-gap-problem|twelve-order-of-magnitude gap]]. The Zeno mechanism is better understood as identifying *where* consciousness might intervene rather than a complete account of *how*.
 
 **Fourth, and most importantly, [[post-decoherence-selection]] reframes the entire debate.** If consciousness selects which element of an already-decohered improper mixture becomes actual, pre-decoherence coherence is unnecessary. [[amplification-mechanisms-consciousness-physics|Stochastic amplification]] then scales a weak post-decoherence bias into macroscopic neural effects. This trades the coherence problem for a specificity problem—explaining why conscious bias produces adaptive behaviour rather than noise (the [[amplification-void|amplification void]]). The trade is not a free win: immunity to the coherence objection is bought by giving up any surviving-coherence signature to look for in tissue, leaving the framework to discharge the amplification and specificity burden instead.
 
@@ -163,7 +163,7 @@ The three forward-in-time frameworks (see [[forward-in-time-conscious-selection]
 
 ## What Would Challenge This View?
 
-The framework would face serious difficulty if: (1) experiments definitively show no quantum effects survive in neural tissue on any relevant timescale; (2) the ten-order-of-magnitude Zeno timescale gap proves unbridgeable; (3) trained contemplatives uniformly reported choices feel like they happen *to* them rather than *by* them (current [[introspection]] evidence supports selection phenomenology); or (4) the [[concepts/many-worlds]] interpretation were confirmed, making selection illusory.
+The framework would face serious difficulty if: (1) experiments definitively show no quantum effects survive in neural tissue on any relevant timescale; (2) the twelve-order-of-magnitude Zeno timescale gap proves unbridgeable; (3) trained contemplatives uniformly reported choices feel like they happen *to* them rather than *by* them (current [[introspection]] evidence supports selection phenomenology); or (4) the [[concepts/many-worlds]] interpretation were confirmed, making selection illusory.
 
 ### The Falsifiability Dilemma
 

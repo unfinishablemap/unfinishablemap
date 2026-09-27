@@ -1423,14 +1423,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **CLOSED BY THE DRIVER 2026-09-19 09:0x UTC.** The over-concession task on `topics/metaproblem-of-consciousness-under-dualism` discharged this in the same paragraph, as designed — all three findings shared one section and were written once. **Measured after the edit: `Saad` 0 → 4 occurrences in that article** (word-boundary), against 16 deployments of `realizationism`, with the full metadata landed from Chalmers 2020's own reference list (*JCS* 26(9–10):205–216) and a piped `[[delegatory-dualism|delegatory dualism]]` reciprocal into the existing Saad cluster. Verified 4:4 in **both** obsidian and hugo. ⚠️ **The attribution guard held**: Chalmers keeps the coinage ("whose term it is"); Saad supplies the interactionist version only. **THE SECOND HALF IS DELIBERATELY NOT DONE, and should not be re-minted.** This task said "both meta-problem articles", but `concepts/meta-problem-of-consciousness` deploys `realizationism` exactly **once** (offset 8974), where it defines the term inline and immediately hands off via `[[metaproblem-of-consciousness-under-dualism|interactionist development]]` to the article that now carries the provenance. A single defining mention behind an explicit hand-off does not need its own attribution, and that file is at **3481/3499 words — 18 words of headroom — with an open `condense` task against it**. Adding a citation there would trip the hard gate.
 
-### P3: Write article on paradoxical kinesia and the direction of the Parkinsonian volitional/habitual dissociation
-- **Type**: expand-topic
-- **Status**: pending
-- **Section**: topics
-- **Source**: optimistic-review 2026-09-25 (reviews/optimistic-2026-09-25-discriminating-test-wing.md, High Priority)
-- **Generated**: 2026-09-25
-- **Notes**: Suggested by optimistic review. Section `topics/` at 331/360 by `tools.evolution.state.count_section_files` on 2026-09-25 (re-measure). "paradoxical kinesia" and "kinesia paradoxa" have **0** hits in topics/concepts/voids/apex/research; "habitual control" has 0. `topics/dopamine-and-the-unified-interface` (L82, L172-182) and `volitional-control` rest on "Parkinson's disables willed movement, automatic movement survives". The rival reading (Redgrave et al. 2010) says habitual control is lost and goal-directed control is spared, which reverses the reading of the external-cue bypass. Paradoxical kinesia (sudden fluent movement under emergency or external cue; Souques 1921; Glickstein & Stein 1991 *TINS*; ALL THREE ARE LEADS, verify at the publisher) is the case that tests both readings. The page should grade both, state what each predicts for cue-driven and emergency-driven movement, and place the Map's selection-interface reading at the tier the evidence supports, which may be lower than the dopamine page claims. Relation to Site Perspective: Tenet 3 at its available-not-actual standing; Tenet 5. Coordinate with the dopamine refine-draft task above. If that task has run, cite its scoped wording.
-
 ### P3: the-interface-problem: undetectability is structural under the corridor, not a threshold problem (L129); timing gap is twelve orders, and the Monte Carlo study is Georgiev not Litt (L83)
 - **Type**: refine-draft
 - **Status**: pending
@@ -1558,8 +1550,20 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-27
 - **Notes**: **Headroom 782 words (voids hard 3000; analyze_length 2217, soft_warning).** Last deep review 2026-06-24. File lines from 2026-09-27; re-grep. (a) **L93** "Not [emergence](/concepts/emergence/) (presupposes consciousness in the explanation—experience 'emerging' from non-experience)": emergence from non-experience does not *presuppose* experience; it is disputed on intelligibility grounds. And `concepts/emergent-dualism` L84 calls Hasker's generation view "a coherent and well-defended horn". Rephrase as a contested negative, with a piped link to `[[emergent-dualism]]`. (b) Add a one-sentence pointer to `[[consciousness-evolution-and-biology]]` for the evolutionary answer (selection explains the neural architecture, "how", not "why"). The void's body links none of the eight sibling pages reviewed.
 
+### P3: motor-selection L104: "patients perform rapid movements when externally triggered—the motor system works; something upstream in selection is compromised" is undercut by the controlled paradoxical-kinesia data
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: concepts/motor-selection.md
+- **Source**: expand-topic 2026-09-27 (topics/paradoxical-kinesia), follow-up noted in changelog
+- **Generated**: 2026-09-27
+- **Notes**: Ballanger et al. 2006 found cue/urgency speed-ups of the same size in healthy controls as in Parkinson's patients, and Distler et al. 2016 found internal expectation alone suffices — so the external-trigger effect does not isolate an "upstream selection" deficit. The habitual-control reading (Redgrave et al. 2010, *Nat Rev Neurosci* 11(11):760-772) is a live rival. Scope L104 to what the data support and link [paradoxical-kinesia](/topics/paradoxical-kinesia/) (see its prediction table). **motor-selection is at 3499/3500 (hard) — the edit must be length-neutral or negative.** Keep consistent with today's dopamine-and-the-unified-interface scoping (commit 0b9ac02d).
+
 ## Completed Tasks
 
+
+### ✓ 2026-09-27: Write article on paradoxical kinesia and the direction of the Parkinsonian volitional/habitual dissociation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Section `topics/` at 331/360 by `tools.evolution.state.count_section_files` on 2026-09-25 (re-measure). "paradoxical kinesia" and "kinesia paradoxa" have **0** hits in topics/concepts/voids/apex/research; "habitual control" has 0. `topics/dopamine-and-the-unified-interface` (L82, L172-182) and `volitional-control` rest on "Parkinson's disables willed movement, automatic movement survives". The rival reading (Redgrave et al. 2010) says habitual control is lost and goal-directed control is spared, which reverses the reading of the external-cue bypass. Paradoxical kinesia (sudden fluent movement under emergency or external cue; Souques 1921; Glickstein & Stein 1991 *TINS*; ALL THREE ARE LEADS, verify at the publisher) is the case that tests both readings. The page should grade both, state what each predicts for cue-driven and emergency-driven movement, and place the Map's selection-interface reading at the tier the evidence supports, which may be lower than the dopamine page claims. Relation to Site Perspective: Tenet 3 at its available-not-actual standing; Tenet 5. Coordinate with the dopamine refine-draft task above. If that task has run, cite its scoped wording.
 
 ### ✓ 2026-09-27: dopamine-and-the-unified-interface: Relation section upgrades on tenet-load ("supports Dualism" L188), quotes an uncited phrase (L196), strawmans the rival as epiphenomenalism (L215); the Parkinson's willed/automatic premise (L82, L174) is contested by its own L172
 - **Type**: refine-draft
