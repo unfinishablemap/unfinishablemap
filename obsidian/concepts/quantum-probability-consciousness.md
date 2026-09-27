@@ -4,7 +4,7 @@ description: "Born probabilities describe the consciousness-quantum interface: n
 created: 2026-01-23
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-09-08T02:33:29+00:00
+ai_modified: 2026-09-27T10:50:36+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ coalesced_from:
   - "/concepts/subjective-probability-quantum-measurement/"
 ---
 
-The Born rule—quantum mechanics' prescription for calculating measurement probabilities—remains philosophically contested despite near-universal experimental success. Are these probabilities objective features of reality, subjective degrees of belief, or something else entirely? The answer matters profoundly for understanding consciousness's role in quantum mechanics. The Unfinishable Map proposes that Born probabilities describe the objective structure of the interface where consciousness meets quantum indeterminacy—neither purely subjective beliefs nor features of physics independent of consciousness, but the statistical structure of how mind actualises one possibility among many.
+The Born rule—quantum mechanics' prescription for calculating measurement probabilities—remains philosophically contested despite near-universal experimental success. Are these probabilities objective features of reality, subjective degrees of belief, or something else entirely? The answer matters profoundly for understanding consciousness's role in quantum mechanics. The Unfinishable Map proposes that Born probabilities describe the objective structure of the interface where consciousness meets quantum indeterminacy—neither purely subjective beliefs nor features of physics independent of consciousness, but the statistical structure of how mind actualises one possibility among many. That reading is scoped: it applies to alternatives within the agent's own neural dynamics. Outcomes in external apparatus are objectively reduced before any neural processing of them begins, and their Born statistics are objective-collapse chances like any other (see [[multi-mind-collapse-problem]]).
 
 ## The Born Rule Problem
 
@@ -99,19 +99,19 @@ The Unfinishable Map proposes that Born probabilities describe the objective str
 
 The claim that quantum mechanics is "partial but complete" requires precision. Krizek and Mairhofer (2023) disentangle several distinct senses of "completeness" conflated in quantum foundations, and equivocation between them has fuelled eighty years of talking past one another. The Map's position threads through these distinctions precisely.
 
-Quantum mechanics is ψ-complete: the PBR theorem (2012) establishes that the wave function is ontic—a genuine feature of reality, not epistemic shorthand. It is Schrödinger-complete: it exhaustively catalogues measurement expectations. Bell's theorem closes the local-hidden-variable route—there are no missing local physical variables to find.
+Quantum mechanics is ψ-complete: the PBR theorem (2012) establishes that the wave function is ontic—a genuine feature of reality, not epistemic shorthand. This holds given PBR's independence assumption for separately prepared systems, which remains debated (see [[quantum-completeness]]). It is Schrödinger-complete: it exhaustively catalogues measurement expectations. Bell's theorem closes the local-hidden-variable route—there are no missing local physical variables to find.
 
-But quantum mechanics is Born-incomplete: it gives only probabilities for individual outcomes, never specifying which result becomes actual. Einstein was right that probabilistic descriptions indicate the theory doesn't capture everything—he was wrong about *what* is missing. He wanted more physics (hidden variables). The Map says what is missing is consciousness-shaped: the role of the experiencing subject in actualising one possibility among many.
+But quantum mechanics is Born-incomplete: it gives only probabilities for individual outcomes, never specifying which result becomes actual. Einstein was right that probabilistic descriptions indicate the theory doesn't capture everything—he was wrong about *what* is missing. He wanted more physics (hidden variables). The Map says what is missing is consciousness-shaped: the role of the experiencing subject in actualising one possibility among many at the neural interface.
 
-The no-go theorems constrain possible completions. Bell eliminates local hidden variables. Kochen-Specker eliminates non-contextual value assignments—values emerge through measurement context, precisely where consciousness might participate. PBR establishes the wave function as real. Together these results show that quantum mechanics is a complete description of physical structure that reaches a boundary at actualisation—and that boundary is where the interface view locates consciousness.
+The no-go theorems constrain possible completions. Bell eliminates local hidden variables. Kochen-Specker eliminates non-contextual value assignments; [[contextual-selection-in-quantum-foundations|contextuality]] constrains the shape of any selection process but does not favour consciousness-collapse over other interpretations. PBR, under its independence assumption, establishes the wave function as real. Determinism is the exception the theorems leave standing: de Broglie–Bohm restores it nonlocally and contextually, and the Map declines that route on tenet grounds rather than no-go grounds. Setting that completion aside, quantum mechanics is a complete description of physical structure that reaches a boundary at actualisation—and that boundary is where the interface view locates consciousness.
 
 The interface view differs from existing views:
 
-**Unlike the standard view:** Probability isn't a feature of physics independent of consciousness. The Born rule describes conditions at the interface where consciousness meets indeterminacy—the statistical structure of how consciousness actualises possibilities.
+**Unlike the standard view:** For selections at the neural interface, probability isn't a feature of physics independent of consciousness. There the Born rule describes conditions at the interface where consciousness meets indeterminacy—the statistical structure of how consciousness actualises possibilities.
 
-**Unlike QBism:** Probabilities aren't subjective beliefs. They're objective features of the interface itself. Two conscious agents with identical interfaces face the same objective probability structure. The intersubjective convergence that puzzles QBism is explained: probabilities are real features of how consciousness couples to quantum systems.
+**Unlike QBism:** Probabilities aren't subjective beliefs. They're objective features of the interface itself. Two conscious agents with identical interfaces face the same objective probability structure. The intersubjective convergence that puzzles QBism is explained: probabilities are real features, whether of objective collapse in the apparatus or of how consciousness couples to its own neural alternatives.
 
-**Unlike participatory realism:** The mechanism is specified (at least schematically). Consciousness doesn't just "participate" vaguely but determines which of the quantum-permitted outcomes becomes actual for this subject. The selection is not random (consciousness selects *for* reasons, such as intentions and attention) yet not determined by prior physical states alone (otherwise consciousness would be epiphenomenal).
+**Unlike participatory realism:** The mechanism is specified (at least schematically). Consciousness doesn't just "participate" vaguely but determines which of the quantum-permitted neural outcomes becomes actual for this subject—with the alternatives *globally* nonactual rather than merely absent from this subject's branch. The selection is not random (consciousness selects *for* reasons, such as intentions and attention) yet not determined by prior physical states alone (otherwise consciousness would be epiphenomenal).
 
 **Unlike many-worlds:** There is one actual world and one actual outcome. Probability describes the structure of the selection process, not a measure over equally-real branches.
 
@@ -121,7 +121,7 @@ The squared-amplitude structure of the Born rule might encode constraints on thi
 
 The [[indexical-identity-quantum-measurement]] article develops the Map's approach further: consciousness grounds the indexical fact of which outcome *this subject* experiences.
 
-Consider a spin measurement with Born probability 0.5 for spin-up. What does this probability describe?
+Consider a spin measurement with Born probability 0.5 for spin-up. (A simplification: a lab outcome is objectively reduced before reaching any brain, so strictly the indexical reading applies to the neural alternatives downstream; the lab case just makes the readings easy to compare.) What does this probability describe?
 
 - **Objective reading**: The physical system has a 50% propensity to yield spin-up
 - **Subjective (QBism) reading**: A rational agent should assign 50% credence to spin-up
@@ -137,7 +137,7 @@ Von Neumann (1932) allowed that collapse could occur anywhere along the measurem
 
 Decoherence explains why quantum interference becomes unobservable at macroscopic scales. But as Zurek (2003) emphasises, it selects the *basis* (position vs. momentum) but not the *outcome*—the system remains in a mixed state, and something must still convert "and" (superposition) to "or" (definite result).
 
-The Map's position differs from universal consciousness-collapse: physical mechanisms handle the vast majority of "collapse" throughout the universe—including the 13.8 billion years before consciousness existed (see [[prebiotic-collapse]]). Consciousness determines *which outcome actualises for this subject* at the neural interface. The Born rule describes probabilities at this final selection—not for "the universe" but for *this experiencing subject*.
+The Map's position differs from universal consciousness-collapse: physical mechanisms handle the vast majority of "collapse" throughout the universe—including the 13.8 billion years before consciousness existed (see [[prebiotic-collapse]]). Consciousness determines *which outcome actualises for this subject* at the neural interface, and the unselected alternatives are nonactual full stop, not actual elsewhere. The Born rule describes probabilities at this final selection—not for "the universe" but for *this experiencing subject*.
 
 ## The Decoherence Challenge
 
@@ -175,7 +175,7 @@ The question of quantum probability's nature connects to all five tenets:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Born probabilities describe the selection probabilities at consciousness-quantum coupling. Consciousness doesn't override physics but operates *at* the probabilistic gap physics leaves unfilled—selecting among already-permitted possibilities without injecting energy.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness affects which outcome actualises, the probability distribution describes something about consciousness's relation to physics—not merely epistemic but genuinely causal. The reliable statistics of quantum experiments reflect reliable features of how consciousness couples to quantum systems.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness affects which outcome actualises, the probability distribution describes something about consciousness's relation to physics—not merely epistemic but genuinely causal. Within the neural interface, reliable Born statistics would reflect reliable features of how consciousness couples to quantum systems; the statistics of external experiments are objective-collapse chances fixed before any brain is involved.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Rejecting MWI means the indexical question—why do *I* experience *this* outcome?—is a genuine question, not dissolved by branch-counting. Born probabilities describe real single-case probabilities for this subject, not branch ratios.
 
@@ -195,6 +195,8 @@ The question of quantum probability's nature connects to all five tenets:
 - [[mysterianism]] - Cognitive closure and the limits of understanding
 - [[illusionism]] - The challenge that phenomenal consciousness is illusory
 - [[explanatory-gap]] - Why physical descriptions leave experience unexplained
+- [[multi-mind-collapse-problem]] - Why many minds selecting locally need no coordination: external outcomes collapse physically first
+- [[quantum-measurement-and-subjective-probability]] - The subjective-probability readings of measurement in more detail
 
 ## References
 

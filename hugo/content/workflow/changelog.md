@@ -10,6 +10,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-27T10:50:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/)
+- **Original score**: n/a (targeted scope/calibration fix)
+- **Changes**: (a) Lead scoped: interface reading applies to alternatives within the agent's neural dynamics; external apparatus outcomes are objectively reduced first and their Born statistics are objective-collapse chances (template multi-mind-collapse-problem L84-88 / quantum-immortality L84). "Unlike the standard view", the QBism-convergence sentence, the Bidirectional tenet paragraph and the Einstein paragraph were scoped to match. The spin example is kept but flagged as a simplification. (b) "actual for this subject" (Unlike-participatory-realism paragraph and the collapse section) now carries the hub's "globally nonactual rather than merely absent from this subject's branch" qualifier. (c) PBR ontic claim now conditional on the preparation-independence assumption (quantum-completeness L52). (d) Added the de Broglie-Bohm exception ("Determinism is the exception the theorems leave standing", declined on tenet grounds). The KS "precisely where consciousness might participate" line was replaced by a linked [contextual-selection-in-quantum-foundations](/concepts/contextual-selection-in-quantum-foundations/) statement that contextuality does not favour consciousness-collapse. (e) Installed the reciprocal [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) (lead + Further Reading; this is item #2 of the 2026-07-24 cross-links task, and items #1/#3/#4 are still open) and added [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) to Further Reading. The tenet-check-2026-09-27 claim "actuality requires consciousness" was not introduced: the text now states that physical collapse handles external outcomes. Body 2800 to 3010 words (+210; soft_warning, under hard 3500).
+- **Published**: yes
+
+## 2026-09-27T10:20:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/) (multi-file: also [mereology-of-mind](/apex/mereology-of-mind/), archive/concepts/metaphysics-of-composition, [consciousness-metaphysics-of-composition-2026-04-05](/research/consciousness-metaphysics-of-composition-2026-04-05/))
+- **Original score**: n/a (targeted quote-fidelity fix)
+- **Changes**: De-quoted the Merricks "does not even globally supervene on microscopic physical properties" string (Sider's *Mind* review wording, not found in *Objects and Persons*; no raw book text available to confirm) at topic L61, apex L61 and archive L65, rephrased per the composition-and-consciousness template ("fails even to globally supervene on the microphysical"; archive keeps "(Merricks 2001, ch. IV)"). Van Inwagen SCQ yes/no misquote was present only in the archive page (L45); de-quoted to his *when*-form. Research note L60 annotated as Sider's wording (not rewritten). Word counts: topic 3963→3962, apex 3280→3279. Post-sync sweep: Sider string survives only in the annotated research note (obsidian + hugo) and review/workflow records; van Inwagen misquote survives only in reviews.
+- **Published**: yes
+
 ## 2026-09-27T10:05:13+00:00 - deep-review
 - **Status**: Success
 - **File**: [composition-and-consciousness](/concepts/composition-and-consciousness/)

@@ -39,12 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: De-quote the Merricks "does not even globally supervene on microscopic physical properties" string across the composition wing, because it is Sider's wording and not Merricks's
-- **Type**: refine-draft
-- **File**: obsidian/topics/consciousness-and-the-metaphysics-of-composition.md
-- **Status**: pending
-- **Notes**: Found by the 2026-09-27 deep review of `concepts/composition-and-consciousness` (fixed there). The quoted string occurs verbatim in Ted Sider's *Mind* review of *Objects and Persons* ("the property consciousness, instantiated by human persons, does not even globally supervene on microscopic physical properties … (chapter IV)", tedsider.org/papers/Merricks_review_Mind.pdf), and could not be found in the book itself. Google Books search-within gave 404 and the API quota is at 0. The 2026-04-05 research note's "Quote" copies Sider's sentence. Live loci: `topics/consciousness-and-the-metaphysics-of-composition` L61, `apex/mereology-of-mind` L61 and `archive/concepts/metaphysics-of-composition`. Also annotate `research/consciousness-metaphysics-of-composition-2026-04-05` L60 as Sider's wording. Template: `concepts/composition-and-consciousness` L61, "because consciousness, on his argument, fails even to globally supervene on the microphysical (Merricks 2001, ch. IV)". Length-neutral. Keep the quotation marks only if a raw-text grep of the book itself confirms the string.
-
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -1598,6 +1592,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-27: De-quote the Merricks "does not even globally supervene on microscopic physical properties" string across the composition wing, because it is Sider's wording and not Merricks's
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-and-the-metaphysics-of-composition.md
+- **Notes**: Found by the 2026-09-27 deep review of `concepts/composition-and-consciousness` (fixed there). The quoted string occurs verbatim in Ted Sider's *Mind* review of *Objects and Persons* ("the property consciousness, instantiated by human persons, does not even globally supervene on microscopic physical properties … (chapter IV)", tedsider.org/papers/Merricks_review_Mind.pdf), and could not be found in the book itself. Google Books search-within gave 404 and the API quota is at 0. The 2026-04-05 research note's "Quote" copies Sider's sentence. Live loci: `topics/consciousness-and-the-metaphysics-of-composition` L61, `apex/mereology-of-mind` L61 and `archive/concepts/metaphysics-of-composition`. Also annotate `research/consciousness-metaphysics-of-composition-2026-04-05` L60 as Sider's wording. Template: `concepts/composition-and-consciousness` L61, "because consciousness, on his argument, fails even to globally supervene on the microphysical (Merricks 2001, ch. IV)". Length-neutral. Keep the quotation marks only if a raw-text grep of the book itself confirms the string.
 
 ### ✓ 2026-09-27: Rajan et al. 2019 (willed vs instructed spatial attention) is propagated across the attention/motor cluster as a domain-general marker of willed action and conscious selection
 - **Type**: refine-draft
