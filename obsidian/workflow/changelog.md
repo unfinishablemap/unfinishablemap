@@ -5,6 +5,14 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T21:20:10+00:00 - coalesce
+- **Status**: Abandoned (reasoned decline, no merge). **23rd consecutive**, the expected steady-state outcome.
+- **Pool movement since the 12:36 run: zero eligible additions, zero removals** (`git log --since=2026-09-27T12:00 --diff-filter=ADR` over topics/concepts/voids/apex/archive): the only additions were `concepts/diverging-worlds-everettianism` (13:57) and `topics/paradoxical-kinesia` (15:54), both created today and inside the 7-day age floor. Nothing was archived.
+- **No new age-floor crossers**: `topics/architectural-adequacy-at-the-built-edge` crosses on 2026-09-28. `concepts/panprotopsychism` (crosses 10-04) and the two pages above (cross 10-04) should be screened against their nearest siblings once they cross (`diverging-worlds-everettianism` against `many-worlds`-family pages; `paradoxical-kinesia` against the Parkinson's/volition cluster).
+- **Not re-screened**: the eligible pool is the same as at 01:20 and 12:36, so the similarity screens would only repeat those declines.
+- **Sources / Target / Archived**: none.
+- **References to review**: none.
+
 ## 2026-09-27T21:05:31+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-ontology-of-temporal-becoming]]
