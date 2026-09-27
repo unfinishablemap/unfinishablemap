@@ -5,6 +5,13 @@ ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T01:35:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/composition-and-consciousness]]
+- **Original score**: 6/10 (curate.py absent; manual review against task defects a-d)
+- **Changes**: (a) lead and Dualism paragraph no longer claim the three SCQ answers "converge on consciousness as the criterion"; recast to "land in the neighbourhood of consciousness, or the integrated structure associated with it", noting van Inwagen reaches organic life, McQueen-Tsuchiya decouple, the step to consciousness is Map-internal and the convergence "suggestive rather than probative"; "one of the strongest indicators" -> "suggestive evidence"; "not merely claimed—it is grounded" dropped; Coleman-paragraph and Further Reading echoes aligned. (b) Bidirectional "follows naturally" -> "is compatible with"; MQI paragraph now states the composition argument does not by itself support quantum interaction (downstream Map hypothesis) and conditionalises the Born-rule sentence; section intro "provides independent support" -> "supporting some and merely fitting others". (c) Panpsychism line: epistemic/metaphysical split plus split-brain/DID debt installed (from combination-problem); Roelofs (2019) named as taking Coleman's second horn with [[manyism]] link; Roelofs 2019 added to References (renumbered 7/8). (d) Unverified James quote "we cannot deduce from it what any sum of feelings amounts to" removed; replaced with Gutenberg-verified fragments "shut in its own skin" and "hundred-and-first". No new tenet claims. Length-neutral trims (asymmetry examples, turbulence, mysterianism, primer paragraph): body 2444 -> 2440 words. Same de-quote applied to archived predecessor archive/concepts/phenomenal-non-compositionality (live at its URL).
+- **Published**: yes
+
 ## 2026-09-27T01:20:26+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline, no merge). **21st consecutive**, the expected steady-state outcome.
 - **Section pressure** (raw `.md` count, index and `.refinement-log` sidecar excluded): topics 331/360 (92%), concepts 330/360 (92%), voids 103/115 (90%). No section is critical, so cap pressure does not justify a marginal merge.

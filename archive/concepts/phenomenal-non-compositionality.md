@@ -4,7 +4,7 @@ description: "Consciousness cannot be assembled from parts—whether physical or
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-04-30T11:03:00+00:00
+ai_modified: 2026-09-27T01:35:31+00:00
 last_deep_review: 2026-04-30T11:03:00+00:00
 draft: false
 topics:
@@ -65,7 +65,7 @@ The analogy breaks at a decisive point. Turbulence is *computationally* hard—t
 
 Phenomenal non-compositionality is *conceptually* hard. The difficulty is not that we lack computing power to derive how perspectives merge. The difficulty is that we cannot state what "perspectives merging" means. The gap is not between known equations and intractable solutions—it is between the very category of compositional explanation and the nature of what we are trying to explain.
 
-A [[functionalism|functionalist]] might push further: functional states *do* compose—combine two information-processing systems and you get a larger information-processing system. But this only composes the functional organization, not the [[qualia|qualitative character]] of experience. William James (1890) saw this clearly with his "mind-dust" critique: even granting that each particle has a feeling, "we cannot deduce from it what any sum of feelings amounts to" because there is no law by which feelings combine. The gap between functional composition and phenomenal composition is the whole point.
+A [[functionalism|functionalist]] might push further: functional states *do* compose—combine two information-processing systems and you get a larger information-processing system. But this only composes the functional organization, not the [[qualia|qualitative character]] of experience. William James (1890) saw this clearly with his "mind-dust" critique: each feeling stays "shut in its own skin," and any consciousness of the group would be a "hundred-and-first" feeling, a new fact rather than a sum of the others. The gap between functional composition and phenomenal composition is the whole point.
 
 This distinction between computational difficulty and conceptual unintelligibility is what makes consciousness unique among natural phenomena. Every other case of apparent non-compositionality in nature (turbulence, emergent chemistry, biological complexity) yields to compositional explanation in principle, even when intractable in practice. Consciousness alone resists the compositional framework itself.
 

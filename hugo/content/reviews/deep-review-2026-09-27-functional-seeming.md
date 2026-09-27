@@ -68,7 +68,7 @@ The front-loaded opening, the vantage-point and self-representation sections, th
 None.
 
 ## Remaining Items
-- Sibling check for the owed taxonomy misattribution: `concepts/illusionism` and `concepts/qualia` may carry the same "Frankish 2023 taxonomy" attribution. Not checked this pass (out of scope).
+- **Family resolution done:** `concepts/illusionism` L63 carried the same misattribution and misglosses. It is now corrected to Frankish 2012 with his definitions, and a References entry was added. Its claim that "anti-illusionists defend zero qualia" was also inverted (per Frankish, anti-illusionists defend *diet* qualia) and has been rewritten. `concepts/qualia` is clean. The seed research note [research/illusionism-functional-seeming-2026-03-28.md](/research/illusionism-functional-seeming-2026-03-28/) L53 still carries the misgloss; it was left as a historical record.
 
 ## Stability Notes
 - The Frankish 2023 quote is now raw-source verified. Do not "restore" the capitalised "Seeming need not ..., and there is thus" form, which was a non-verbatim splice.
