@@ -1533,6 +1533,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-27
 - **Notes**: Crossref and the paper: Georgiev, D.D. (2015), "Monte Carlo simulation of quantum Zeno effect in the brain", *International Journal of Modern Physics B* 29(7), 1550039, DOI 10.1142/S0217979215500393. Glazebrook appears only in the acknowledgements. Fix the reference entry and every in-text "Georgiev & Glazebrook" citation; then grep live + archive for "Georgiev & Glazebrook" / "Georgiev and Glazebrook" and "29(15)" and fix the same miscitation wherever it appears. Word-neutral.
 
+### P3: Write concept page on the Process 1 specification problem (Donald's basis objection, Georgiev's basis dilemma, de Barros's circularity) and what it costs the question-choice row
+- **Type**: expand-topic
+- **Status**: pending
+- **Section**: concepts
+- **Source**: research-topic 2026-09-27 (research/stapp-process-1-basis-timing-critiques-2026-09-27.md) — chain entry not written by the research fork, minted by hand
+- **Generated**: 2026-09-27
+- **Notes**: Slug suggested by the note: `process-1-specification-problem`. `stapp-quantum-mind` is at 4040w (over hard), hence a new page. Concepts 332/360 on 2026-09-27 (re-measure). Build from the research note (24 quotes verified verbatim; three sources abstract-only — flagged there; do not quote them beyond the abstract). Core: Georgiev (2015, *IJMPB* 29(7) 1550039, sole author) is a basis dilemma, not just a timing result — it lands on the Born-intact question-choice row; Stapp's 2012 reply concedes the decoherence basis and leaves "which tiny portion" unspecified; Donald's full objection (precision, no neural→projector map, why stop at the brain); de Barros (2014) circularity + the Laskey fix (brain supplies basis, mind chooses whether/when). Write as honest engagement: framework-boundary where it is, no refutation claimed. Linking edits listed in the note: `brain-specialness-boundary` L67, `born-rule-and-the-consciousness-interface` L165 (at 5446w — zero-cost piped link only), `coupling-modes` L100/L146, `the-interface-problem` L117. `topics:` bare slugs, non-empty.
+
 ## Completed Tasks
 
 
