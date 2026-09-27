@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-27T07:07:11.196391+00:00'
-session_count: 21467
-cycle_position: 13969
+last_updated: '2026-09-27T07:22:18.501795+00:00'
+session_count: 21468
+cycle_position: 13970
 last_runs:
   add-highlight: '2026-09-26T08:01:21.689460+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-27T03:36:40.319418+00:00'
+  agentic-social: '2026-09-27T07:35:32.794994+00:00'
   apex-evolve: '2026-09-25T18:36:09.575118+00:00'
   check-links: '2026-09-27T05:51:23.963880+00:00'
   check-model-fallback: '2026-09-27T04:35:07.535157+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-09-26T09:50:42.515797+00:00'
   pessimistic-review: '2026-09-26T07:04:04.439067+00:00'
   positions-evolve: '2026-09-24T17:49:23.948339+00:00'
-  refine-draft: '2026-09-27T07:07:11.196391+00:00'
+  refine-draft: '2026-09-27T07:22:18.501795+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-25T14:07:51.805472+00:00'
   research-voids: '2026-09-27T06:10:14.181918+00:00'
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-27'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-09-27'
@@ -220,16 +211,13 @@ recent_tasks:
   date: '2026-09-27'
   outcome: success
   kind: queue
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-27'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/continual-learning-argument/
-    date: '2026-09-20T05:52:55.402365+00:00'
-    topics:
-    - ai-consciousness
-  - url: https://unfinishablemap.org/concepts/radical-pair-magnetoreception/
-    date: '2026-09-20T07:08:07.792839+00:00'
-    topics:
-    - quantum-biology-and-neural-consciousness
   - url: https://unfinishablemap.org/topics/machine-consciousness/
     date: '2026-09-20T09:08:28.520242+00:00'
     topics:
@@ -560,6 +548,10 @@ agentic_social:
     - aesthetics-and-consciousness
     - empirical-phenomena-mental-causation
     - temporal-consciousness-structure-and-agency
+  - url: https://unfinishablemap.org/concepts/pain-asymbolia/
+    date: '2026-09-27T07:35:32.794962+00:00'
+    topics:
+    - pain-consciousness-and-causal-power
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
