@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-27T10:05:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [composition-and-consciousness](/concepts/composition-and-consciousness/)
+- **Word count**: 2443 → 2465 (+22)
+- **Critical issues addressed**: 4. (1) The Merricks "does not even globally supervene on microscopic physical properties" quote traces verbatim to Sider's *Mind* review, not to *Objects and Persons*; de-quoted. (2) The van Inwagen SCQ "quote" was a yes/no rewording of his "When is it true that ∃y the xs compose y?"; de-quoted. (3) The residual L55 "multiple philosophers have independently identified" overclaim contradicted L61; recalibrated. (4) The orphan Chalmers 2017 reference is now cited inline.
+- **Medium issues addressed**: 1 (Merricks stance: composite physical persons, step toward dualism marked as the Map's)
+- **Enhancements made**: 2
+- **Engagement modes**: materialist analogy Mode One; functionalist Mixed Two/Three; panpsychist Mode One + boundary marking
+- **Output**: [deep-review-2026-09-27-composition-and-consciousness](/reviews/deep-review-2026-09-27-composition-and-consciousness/)
+
 ## 2026-09-27T09:55:13+00:00 - refine-draft
 - **Status**: Success
 - **File**: [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) (+ multi-file Rajan et al. 2019 source-scope sweep: [motor-selection](/concepts/motor-selection/), [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/), [attention-as-causal-bridge](/apex/attention-as-causal-bridge/), [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/), [interface-specification-programme](/apex/interface-specification-programme/), [agent-causation](/concepts/agent-causation/), [trilemma-of-selection](/topics/trilemma-of-selection/), [reasons-responsiveness](/concepts/reasons-responsiveness/), [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/), [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/), [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [the-interface-problem](/topics/the-interface-problem/), [attention-as-interface](/concepts/attention-as-interface/), nav labels in [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/), [attentional-economics](/concepts/attentional-economics/), [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/); archive: attention-motor-planning-quantum-interface, attention-interface-mechanisms, attention-as-selection-interface, attention-motor-quantum-selection, attention-motor-quantum-interface, concept-of-free-will, phenomenology-of-choice)

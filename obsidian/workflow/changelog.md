@@ -5,6 +5,16 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T10:05:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/composition-and-consciousness]]
+- **Word count**: 2443 → 2465 (+22)
+- **Critical issues addressed**: 4. (1) The Merricks "does not even globally supervene on microscopic physical properties" quote traces verbatim to Sider's *Mind* review, not to *Objects and Persons*; de-quoted. (2) The van Inwagen SCQ "quote" was a yes/no rewording of his "When is it true that ∃y the xs compose y?"; de-quoted. (3) The residual L55 "multiple philosophers have independently identified" overclaim contradicted L61; recalibrated. (4) The orphan Chalmers 2017 reference is now cited inline.
+- **Medium issues addressed**: 1 (Merricks stance: composite physical persons, step toward dualism marked as the Map's)
+- **Enhancements made**: 2
+- **Engagement modes**: materialist analogy Mode One; functionalist Mixed Two/Three; panpsychist Mode One + boundary marking
+- **Output**: [[reviews/deep-review-2026-09-27-composition-and-consciousness]]
+
 ## 2026-09-27T09:55:13+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/attention-and-the-consciousness-interface]] (+ multi-file Rajan et al. 2019 source-scope sweep: [[concepts/motor-selection]], [[topics/motor-control-quantum-zeno]], [[apex/attention-as-causal-bridge]], [[topics/authentic-vs-inauthentic-choice]], [[apex/interface-specification-programme]], [[concepts/agent-causation]], [[topics/trilemma-of-selection]], [[concepts/reasons-responsiveness]], [[apex/phenomenology-mechanism-bridge]], [[topics/quantum-neural-timing-constraints]], [[topics/empirical-evidence-for-consciousness-selecting]], [[concepts/stapp-quantum-mind]], [[topics/the-interface-problem]], [[concepts/attention-as-interface]], nav labels in [[topics/phenomenology-of-agency-vs-passivity]], [[concepts/attentional-economics]], [[topics/phenomenology-of-returning-attention]]; archive: attention-motor-planning-quantum-interface, attention-interface-mechanisms, attention-as-selection-interface, attention-motor-quantum-selection, attention-motor-quantum-interface, concept-of-free-will, phenomenology-of-choice)

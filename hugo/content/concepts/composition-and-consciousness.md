@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-01
-ai_modified: 2026-09-27 01:35:31+00:00
+ai_modified: 2026-09-27 10:05:13+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -26,8 +26,8 @@ description: When do parts form wholes, and why can't consciousness be assembled
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-14 17:29:41+00:00
-lastmod: 2026-09-27 01:35:31+00:00
+last_deep_review: 2026-09-27 10:05:13+00:00
+lastmod: 2026-09-27 10:05:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -50,19 +50,19 @@ The metaphysics of composition asks when and how parts form wholes, and consciou
 
 Mereology—the formal study of parts and wholes—provides the technical framework. Parthood, overlap, and composition are its core relations. But formal mereology leaves the SCQ open: the axioms describe how parts relate to wholes but do not settle which collections of objects actually compose something.
 
-Van Inwagen's formulation makes the question precise: "For any xs, is there a y such that the xs compose y?" Three broad families of answers dominate the literature.
+Van Inwagen's formulation makes the question precise: for any xs, when is it true that there is a y the xs compose? Three broad families of answers dominate the literature.
 
 **Universalism** holds that any collection of objects composes a further object. Your left shoe and the Andromeda galaxy compose something. Universalism avoids arbitrariness—there is no need to draw lines between composing and non-composing collections—but it generates a bloated ontology in which every arbitrary collection counts as a genuine entity, and it grants no special status to conscious beings.
 
 **Nihilism** holds that composition never occurs. Only mereological simples—entities without proper parts—exist. Tables are "simples arranged tablewise," organisms are "simples arranged organism-wise." Nihilism is parsimonious but eliminates conscious organisms as genuine entities, raising the question of what bears conscious experience if not a unified subject.
 
-**Restricted composition** holds that some collections compose genuine wholes and others do not. The philosophical challenge is stating the restriction without arbitrariness. Proposals based on physical contact, fastening, or spatial cohesion all face a sorites problem: for any series from a clear case of composition to a clear non-case, where exactly does the boundary fall? This is where consciousness enters the picture—among the restricted composition answers, it provides a non-arbitrary boundary that multiple philosophers have independently identified through different argumentative routes.
+**Restricted composition** holds that some collections compose genuine wholes and others do not. The philosophical challenge is stating the restriction without arbitrariness. Proposals based on physical contact, fastening, or spatial cohesion all face a sorites problem: for any series from a clear case of composition to a clear non-case, where exactly does the boundary fall? This is where consciousness enters the picture—among the restricted composition answers, several approach a non-arbitrary boundary in its neighbourhood by different argumentative routes.
 
 ## Consciousness as Composition Criterion
 
 This concept page is a primer: it gives the gist of the three answers and the double-role thesis, then points to [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/), which carries the full dialectic. The three non-conscious rivals get a [dedicated joint treatment](/concepts/composition-question-rivals/). The [deflationist rival](/concepts/composition-question-rivals/#metaontological-deflationism)—easy ontology and quantifier variance—denies there is a deep compositional fact for any criterion to track. The leading *non-conscious* realist answer, [information-compression composition](/concepts/composition-question-rivals/#information-compression-composition) (Bird's thesis that parts compose when treating them as one compresses the world's description), is the Map's chief in-framework rival. A third rival, [Markosian's brutalism](/concepts/composition-question-rivals/#brutal-composition), grants the question is real but denies any informative criterion captures it—the composition facts are brute.
 
-Three restricted-composition strategies, selected from a wider field, each place a feature near the boundary where consciousness occurs at the centre of what makes a genuine whole. **Van Inwagen's organicism** restricts composition to cases where the activity of simples constitutes a life; consciousness enters only indirectly, since organisms are the domain where it occurs. **Merricks' eliminativism** keeps only composites with irreducible causal powers, and argues that conscious organisms alone escape elimination because consciousness "does not even globally supervene on microscopic physical properties" (Merricks 2001). **McQueen and Tsuchiya's integrated-information approach** makes composition occur where integrated information (Φ) is maximised—though they explicitly decouple that composition criterion from consciousness itself.
+Three restricted-composition strategies, selected from a wider field, each place a feature near the boundary where consciousness occurs at the centre of what makes a genuine whole. **Van Inwagen's organicism** restricts composition to cases where the activity of simples constitutes a life; consciousness enters only indirectly, since organisms are the domain where it occurs. **Merricks' eliminativism** keeps only composites with irreducible causal powers, and argues that conscious organisms alone escape elimination because consciousness, on his argument, fails even to globally supervene on the microphysical (Merricks 2001, ch. IV). **McQueen and Tsuchiya's integrated-information approach** makes composition occur where integrated information (Φ) is maximised—though they explicitly decouple that composition criterion from consciousness itself.
 
 The convergence is striking because these programmes share no common premises and emerge from different traditions, yet each lands in the neighbourhood of consciousness, or the integrated structure associated with it, as central to genuine composition. How much evidential weight that carries—and how the McQueen–Tsuchiya decoupling and the live rival accounts qualify it—is the extended argument of [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/).
 
@@ -80,7 +80,7 @@ The problem is conceptual. We can specify what it means for forces to compose or
 
 ### Compositional Failure Runs Both Ways
 
-The [combination problem](/concepts/combination-problem/) for [panpsychism](/concepts/panpsychism/) is where phenomenal non-compositionality becomes most visible. If electrons have micro-experiences, how do billions combine into unified human consciousness? Every proposed mechanism—phenomenal bonding, co-consciousness, combinatorial infusion—either names the problem without solving it or collapses back into the emergence it aimed to avoid.
+The [combination problem](/concepts/combination-problem/) for [panpsychism](/concepts/panpsychism/) is where phenomenal non-compositionality becomes most visible. If electrons have micro-experiences, how do billions combine into unified human consciousness? Every proposed mechanism—phenomenal bonding, co-consciousness, combinatorial infusion (surveyed in Chalmers 2017)—either names the problem without solving it or collapses back into the emergence it aimed to avoid.
 
 But non-compositionality is broader than the combination problem. It challenges *any* view that tries to build consciousness from parts:
 
@@ -124,7 +124,7 @@ The metaphysics of composition bears on the Map's foundational commitments, supp
 
 **[Dualism](/tenets/#dualism).** Two threads converge here. Van Inwagen, Merricks, and McQueen and Tsuchiya each land near consciousness, or the integrated structure associated with it, as the composition criterion—though van Inwagen reaches organic life and McQueen and Tsuchiya decouple their criterion from consciousness, so the step to consciousness is the Map's own and the convergence is suggestive rather than probative. And non-compositionality reveals *why* reduction fails: physical explanation works by decomposing wholes into parts and showing how parts generate wholes, but consciousness does not decompose. The irreducibility the Map asserts thus rests on a specific structural feature of phenomenal experience.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction).** Merricks' argument that conscious organisms have irreducible causal powers supports the claim that consciousness contributes causal powers the physical parts alone lack—challenging the [causal closure](/concepts/causal-closure/) assumption that every physical event has a sufficient physical cause. A non-compositional consciousness that acts on the brain must do so as a whole; it cannot delegate causal work to sub-experiential components, because it has none. Bidirectional causation at a unified locus is compatible with non-compositionality, and matches the non-epiphenomenal role the Map's [interactionist framework](/concepts/interactionist-dualism/) attributes to consciousness.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction).** Merricks' argument that conscious organisms have irreducible causal powers (though he takes those organisms to be composites of physical parts, so the step toward dualism is the Map's) supports the claim that consciousness contributes causal powers the physical parts alone lack—challenging the [causal closure](/concepts/causal-closure/) assumption that every physical event has a sufficient physical cause. A non-compositional consciousness that acts on the brain must do so as a whole; it cannot delegate causal work to sub-experiential components, because it has none. Bidirectional causation at a unified locus is compatible with non-compositionality, and matches the non-epiphenomenal role the Map's [interactionist framework](/concepts/interactionist-dualism/) attributes to consciousness.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction).** If consciousness is non-compositional, it does not arise from the summation of micro-level physical events. The proposal that consciousness biases quantum indeterminacies at a specific interface is compatible with this, though the composition argument does not by itself support quantum interaction; that remains a downstream Map hypothesis. On that hypothesis, the [Born rule](/topics/born-rule-and-the-consciousness-interface/) would mark where non-compositional consciousness meets compositional physics.
 
