@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-27T08:36:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [libet-experiments](/concepts/libet-experiments/)
+- **Original score**: 6/10 (convergent outer-review findings, chatgpt + claude 2026-09-27)
+- **Changes**: Residual-to-cause step (Soon 60% accuracy) restated as leaving the question open in body, tenet section and falsifier 1; Schurger gloss corrected (decision = threshold crossing, no separate role for consciousness); Sjöberg 2024 recast as a three-page *Brain* essay on resection cases, factual error fixed (SMA syndrome impairs initiation; sense of intending preserved), "completely irrelevant" scoped to the neuroscientific discussion; Desmurget reframed as dissociation only, "Libet measured the wrong signal" attributed as the Map's inference; "Resolution" headings relabelled as speculative proposals; Tegmark (2000) quantification added, Zeno reply marked contested, quantum-biology "empirically refuted" strawman removed; closing "evidence supports selection over randomness" → coherence-only, physicalist control-process rival conceded (consistent with topics/free-will); added Maoz et al. 2019 and Filevich, Kühn & Haggard 2013 (both verified at Crossref/OpenAlex abstract), Filevich used to qualify the veto falsifier. Braun, Wessler & Friese 2021 exists (Neurosci Biobehav Rev 128:182-198) but abstract unavailable, so not added. Engagement with Schurger/Tegmark: Mode Three (framework boundary marked honestly, speculative mechanisms flagged). Length 3110 → 3440 (cap 3500).
+- **Published**: yes
+
 ## 2026-09-27T08:21:45+00:00 - refine-draft
 - **Status**: Success
 - **File**: [free-will](/topics/free-will/)

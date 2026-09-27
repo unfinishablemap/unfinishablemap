@@ -4,7 +4,7 @@ description: "Do brains decide before we're aware? The readiness potential may b
 created: 2026-01-14
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-07-12T13:21:28+00:00
+ai_modified: 2026-09-27T08:36:20+00:00
 last_deep_review: 2026-07-12T13:21:28+00:00
 draft: false
 topics:
@@ -29,12 +29,12 @@ related_articles:
   - "[[quantum-measurement-and-subjective-probability]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 ai_generated_date: 2026-01-14
 last_curated: null
 ---
 
-Benjamin Libet's experiments (1983) appeared to show that unconscious brain activity initiates decisions before we become aware of choosing. Neural "readiness potentials" (RPs) precede conscious awareness of intending to move by about 350 milliseconds. This has been widely interpreted as evidence that consciousness is epiphenomenal—a spectator informed of choices already made by the brain. However, the evidence is weaker than commonly believed: Schurger et al. (2012) showed the RP may be neural noise rather than decision preparation, Libet himself argued consciousness retains "veto power," and [[retrocausality|retrocausal]] interpretations suggest consciousness might select outcomes through mechanisms that transcend linear time.
+Benjamin Libet's experiments (1983) appeared to show that unconscious brain activity initiates decisions before we become aware of choosing. Neural "readiness potentials" (RPs) precede conscious awareness of intending to move by about 350 milliseconds. This has been widely interpreted as evidence that consciousness is epiphenomenal—a spectator informed of choices already made by the brain. However, the evidence is weaker than commonly believed: Schurger et al. (2012) showed the RP may reflect accumulated neural noise rather than decision preparation, Maoz et al. (2019) found it absent for deliberate choices, and Libet himself argued consciousness retains "veto power." The Map adds a speculative [[retrocausality|retrocausal]] reading on which conscious selection need not precede its neural correlates in linear time.
 
 ## The Original Experiments
 
@@ -48,7 +48,7 @@ The implication seemed clear: the brain "decided" before consciousness knew. The
 
 Soon et al. (2008) extended Libet's findings dramatically using fMRI. They found that brain activity in prefrontal and parietal cortex could predict which button a participant would press—left or right—up to *10 seconds* before the participant reported being aware of choosing.
 
-Prediction accuracy was about 60%—well above chance (50%) but far from perfect. This imperfection matters: something other than the measured neural activity contributes to the final outcome.
+Prediction accuracy was about 60%—well above chance (50%) but far from perfect. The unexplained variance does not point to consciousness: it equally covers unmeasured neural variables, fMRI resolution limits, noise, and physical stochasticity. It leaves the question open.
 
 Bode et al. (2011) found predictive signals up to 4 seconds before awareness for abstract intentions, not just motor actions. The phenomenon generalizes beyond simple movements.
 
@@ -60,15 +60,17 @@ Schurger, Sitt, and Dehaene (2012) challenged the standard interpretation. They 
 
 **Evidence**: Schurger's model predicts that spontaneous actions should take longer when initiated from lower baseline neural activity, because the noise must accumulate further to reach threshold. This prediction was confirmed. The "Libetus interruptus" experiment—interrupting participants randomly and asking if they felt an urge—found that subjective urges correlated with neural fluctuation levels, not with any goal-directed buildup.
 
-The authors argue this undercuts the standard free-will worry: on their model, the unconscious decision the readiness potential was thought to reveal is unfounded, because the decision threshold isn't crossed until close to movement. If the RP is noise rather than decision, neural activity isn't predicting choices before consciousness—it's just showing that random fluctuations preceded the moment consciousness decided to act.
+The authors argue this undercuts the standard free-will worry: on their model, the inference to an early unconscious decision is unfounded, because the decision threshold isn't crossed until close to movement. In the model the "decision" *is* the threshold crossing; it removes the early-decision reading of the RP without assigning any separate role to consciousness.
+
+Post-Libet work has not converged on the noise account alone. Maoz et al. (2019) found RPs for arbitrary donation choices but "strikingly absent" ones for deliberate choices, suggesting different mechanisms for the two. Filevich, Kühn and Haggard (2013), by contrast, found that prestimulus activity at Cz differed between trials where participants freely chose to respond rapidly and trials where they chose to inhibit—evidence that last-moment decisions to withhold may themselves depend on unconscious preparatory activity.
 
 ## Surgical Evidence: The SMA Resection Study
 
-Sjöberg (2024) provides striking clinical evidence against the standard interpretation. Patients with surgical resection of the supplementary motor area (SMA)—the brain region generating the readiness potential—retain their sense of voluntary action.
+Sjöberg (2024), a three-page essay in *Brain*, draws on clinical experience of surgical resection of the supplementary motor area (SMA)—a principal generator of the readiness potential—rather than reporting a new controlled study.
 
-If the RP reflected genuine volition, removing its neural source should impair the capacity for voluntary movement. It doesn't. Patients with SMA resection can still decide to move and experience their movements as self-initiated. Sjöberg concludes that Libet's findings are "completely irrelevant" to the free will debate.
+The resection does impair voluntary movement: the resulting SMA syndrome involves temporary deficits in *initiating* movement, which Sjöberg takes to show the area is involved in regulating voluntary action. What the patients retain is the sense of intending and of effort. Execution is impaired while willing is preserved. Sjöberg concludes that the RP findings are "completely irrelevant" to the neuroscientific discussion about free will—a claim about that evidence, not an endorsement of conscious causation.
 
-This surgical evidence strengthens Schurger's critique. The SMA generates motor preparation signals, but preparation is not decision. Whatever contributes to genuine motor selection operates elsewhere—in regions like the parietal cortex where conscious intention emerges (see [[motor-selection|motor selection]]).
+This fits Schurger's critique: the SMA contributes motor preparation, but preparation is not the whole of willing. Where the experience of intending arises is taken up next (see [[motor-selection|motor selection]]).
 
 ## Where Intention Actually Originates
 
@@ -82,7 +84,7 @@ Desmurget's (2009) neurosurgical studies reveal a double dissociation between in
 
 The parietal cortex produces the experience of intending; the premotor cortex produces movement. These are separable. The phenomenology of "deciding to move" is distinct from the motor machinery executing movement.
 
-This dissociation matters for interpreting Libet. The RP originates in SMA and premotor regions—*execution* areas. Conscious intention emerges in parietal regions—*selection* areas. Libet measured the wrong signal. He tracked motor preparation, not conscious decision-making.
+This matters for interpreting Libet. The RP arises mainly from SMA and premotor regions involved in preparing movement, while Desmurget evoked the experience of intending from parietal cortex. Desmurget shows the two are separable, not that parietal cortex is where selection occurs. The Map infers that Libet's measure tracked motor preparation rather than conscious intending—an interpretation, not Desmurget's finding.
 
 ## Libet's Own Interpretation: Veto Power
 
@@ -94,17 +96,17 @@ This interpretation faces a challenge: couldn't the veto itself be preceded by n
 
 More fundamentally, The Unfinishable Map's framework suggests the initiation/selection distinction may be the key insight. Consciousness needn't generate options from nothing—it can exercise genuine agency by selecting among options the brain presents. The [[volitional-control|phenomenology of volitional control]]—including Brass and Haggard's "whether" component and the agency-ownership distinction—reveals the first-person structure that timing data alone cannot capture.
 
-### The Veto Regress and Its Resolution
+### The Veto Regress: A Speculative Response
 
 Critics press further: if vetoing is itself a brain process, and that process is preceded by neural activity, consciousness is pushed back again—now we need a "veto of the veto," and so on infinitely. This regress seems to eliminate any role for consciousness.
 
-The Map's framework resolves this differently. The regress assumes that causal influence requires temporal precedence—that consciousness must precede what it causes. But if consciousness operates at quantum indeterminacies atemporally (see the Retrocausal Resolution section), the regress dissolves. Selection doesn't occur "before" or "after" neural activity in the causally significant sense; it determines which temporal sequence becomes actual. There is no infinite chain because selection isn't in the chain—it's what determines there being this chain rather than another.
+The Map's framework offers a speculative alternative. The regress assumes that causal influence requires temporal precedence—that consciousness must precede what it causes. If consciousness operated at quantum indeterminacies atemporally (see the retrocausal proposal below), the regress would not arise. Selection doesn't occur "before" or "after" neural activity in the causally significant sense; it determines which temporal sequence becomes actual. There is no infinite chain because selection isn't in the chain—it's what determines there being this chain rather than another.
 
 Additionally, the [[quantum-indeterminacy-free-will|luck objection]] literature shows that the real question isn't *when* selection occurs but *whether* it's guided by reasons rather than arbitrary. If consciousness selects the veto (or the action) based on the agent's values, it isn't arbitrary—even if we can't locate the selection at a precise neural moment.
 
-## The Retrocausal Resolution
+## A Retrocausal Proposal
 
-The timing problem—consciousness seeming to arrive "too late"—assumes linear causation. But if consciousness operates at the quantum level, and quantum mechanics permits [[retrocausality|retrocausal]] influences, the problem dissolves.
+The timing problem—consciousness seeming to arrive "too late"—assumes linear causation. If consciousness operated at the quantum level, and quantum mechanics permits [[retrocausality|retrocausal]] influences, the problem would not arise. This is a speculative implementation of the Map's tenets, not an established resolution.
 
 **[[time-symmetric-physics|Time-symmetric physics]]**: Quantum mechanics is fundamentally time-symmetric. The equations work equally well run forward or backward. Physicists like Huw Price argue that if physics is time-symmetric and causal, some influences must run backward in time.
 
@@ -116,15 +118,15 @@ The RP doesn't precede conscious choice in any causally significant sense. It's 
 
 ### The Decoherence Challenge
 
-The retrocausal resolution requires quantum effects to be relevant at neural decision-making timescales. A common objection: [[decoherence]] destroys quantum coherence in femtoseconds in warm biological systems—far too fast for the millisecond timescales of neural decisions.
+The retrocausal proposal requires quantum effects to be relevant at neural decision-making timescales. The standard objection: Tegmark (2000) estimated that [[decoherence]] destroys coherence in neural degrees of freedom in roughly 10⁻¹³ to 10⁻²⁰ seconds—far too fast for the millisecond timescales of neural decisions.
 
 Three responses:
 
 **First**, decoherence doesn't solve the measurement problem. Even granting rapid decoherence, something must select which outcome becomes actual. Decoherence explains why we don't see superpositions; it doesn't explain why we see *definite* outcomes. The role for consciousness at the point of selection remains open.
 
-**Second**, the [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno mechanism]] may sidestep decoherence entirely. Rapid repeated observation can hold states stable against decoherence. If consciousness operates through Zeno freezing rather than maintained superposition, short coherence times don't matter—observations happen faster than decoherence can act.
+**Second**, the [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno mechanism]] may sidestep decoherence entirely. Stapp argues that rapid repeated observation can hold a state in place, so the mechanism does not need superposition to be maintained. Whether this escapes Tegmark's figures is contested—read as a race, Zeno freezing would need observations faster than 10⁻¹³ seconds, which nothing in neural dynamics supplies. The proposal stays open, not vindicated.
 
-**Third**, recent quantum biology research shows biological systems can maintain coherence far longer than expected. Photosynthesis, magnetoreception, and enzyme catalysis all exploit quantum effects in warm conditions. The categorical objection—that biology cannot use quantum mechanics—is empirically refuted.
+**Third**, quantum biology research suggests some biological systems exploit quantum effects in warm conditions—candidate cases include photosynthesis, magnetoreception, and enzyme catalysis. This shows biology is not categorically closed to quantum effects, but Tegmark's argument concerns cognition-relevant neural degrees of freedom specifically, and these cases do not answer it directly.
 
 ## The Illusionist Response
 
@@ -138,7 +140,7 @@ The illusionist response faces the same problem as epiphenomenalism: it threaten
 
 More specifically: why do we discuss Libet experiments at all? Why design studies, interpret data, form theories? If our sense of engaging with these questions is illusory—if there's nothing it's like to think about consciousness that corresponds to actual thinking—the discussions are accidental behaviour, not inquiry. The illusionist cannot coherently claim to have *reasoned* to their position.
 
-The Map's framework avoids this: consciousness is real, selection is genuine, and our theories about consciousness connect to actual conscious experience. The Libet findings challenge the *timing* of conscious influence, not its existence. The retrocausal and Zeno frameworks show that temporal ordering may not have the causal significance assumed.
+The Map's framework avoids this: consciousness is real, selection is genuine, and our theories about consciousness connect to actual conscious experience. The Libet findings challenge the *timing* of conscious influence, not its existence. The retrocausal and Zeno proposals suggest, speculatively, that temporal ordering may not have the causal significance assumed.
 
 ## Process Philosophy Perspective
 
@@ -148,15 +150,15 @@ On this view, the Libet findings show neural processes that *prepare* possibilit
 
 This dissolves the timing problem differently than retrocausality. There's no "moment of decision" separate from neural processes because the occasion *is* the decision—not an observation of prior neural events but the integration of those events into experiential unity. The RP is part of what the occasion inherits and transforms.
 
-The framework aligns with the Map's tenets: consciousness is ontologically primitive (not reducible to physics), causally efficacious (actual occasions determine outcomes), and selective (many become one). Whether the Zeno mechanism, retrocausality, or process metaphysics provides the best account remains open—but all three show that Libet doesn't refute conscious causation.
+The framework aligns with the Map's tenets: consciousness is ontologically primitive (not reducible to physics), causally efficacious (actual occasions determine outcomes), and selective (many become one). Whether the Zeno mechanism, retrocausality, or process metaphysics provides the best account remains open—but each shows how Libet's data can be read without refuting conscious causation.
 
 ## What the Experiments Don't Show
 
 Several common interpretations overreach:
 
-**"Free will is an illusion"**: The experiments show neural activity precedes awareness of deciding. They don't show consciousness has no causal role. Schurger's critique undermines the RP as evidence for unconscious decision-making. Retrocausal interpretations show the temporal ordering may not have the causal significance assumed.
+**"Free will is an illusion"**: The experiments show neural activity precedes awareness of deciding. They don't show consciousness has no causal role. Schurger's critique undermines the RP as evidence for unconscious decision-making. Retrocausal proposals suggest the temporal ordering may not have the causal significance assumed.
 
-**"Decisions are made unconsciously"**: The RP correlates with spontaneous actions but may not be a decision signal. The 60% prediction accuracy in Soon et al. shows something other than the measured neural activity contributes to outcomes. And "unconscious" is unclear—subpersonal processes prepare options, but selection may still be conscious.
+**"Decisions are made unconsciously"**: The RP correlates with spontaneous actions but may not be a decision signal. Maoz et al. (2019) found no RP for deliberate choices. And "unconscious" is unclear—subpersonal processes prepare options, but selection may still be conscious.
 
 **"We're just along for the ride"**: This inference requires denying that conscious selection is "really" causation. But if consciousness selects which quantum possibility actualizes—even if the options are prepared unconsciously—consciousness genuinely determines outcomes.
 
@@ -164,9 +166,9 @@ Several common interpretations overreach:
 
 The Libet experiments engage directly with the Map's core commitments. The Map registers its reading of the timing data in its [[positions/agency-and-will|positions register]] as P-A3: Libet-style findings do not refute conscious causation.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The tenet holds that consciousness causally influences physical outcomes. Libet seems to challenge this—but only if we assume consciousness must *precede* what it causes in linear time. The retrocausal interpretation shows this assumption is optional. Consciousness selecting among quantum possibilities can determine outcomes that include their apparent temporal precursors.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The tenet holds that consciousness causally influences physical outcomes. Libet seems to challenge this—but only if we assume consciousness must *precede* what it causes in linear time. The retrocausal proposal suggests this assumption is optional. Consciousness selecting among quantum possibilities can determine outcomes that include their apparent temporal precursors.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The tenet proposes consciousness influences outcomes at quantum indeterminacies. The imperfect prediction in Soon et al. (60%) suggests something undetermined by the measured neural activity contributes to outcomes. This gap is where consciousness might operate.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The tenet proposes consciousness influences outcomes at quantum indeterminacies. Soon et al.'s imperfect (60%) prediction is compatible with such influence but not evidence for it; residual variance would count only if a distinctive signature were predicted in advance.
 
 **[[tenets#^dualism|Dualism]]**: If consciousness were reducible to neural activity, the RP would straightforwardly show "the brain decides." But on dualism, consciousness is distinct from neural processes. Neural preparation creates options; consciousness—irreducible to the preparation—selects.
 
@@ -178,19 +180,19 @@ The Libet experiments engage directly with the Map's core commitments. The Map r
 
 The Map's interpretation of Libet is falsifiable. Evidence against it would include:
 
-**1. Selection fully determined by measurable neural activity.** If prediction accuracy approached 100%—leaving no gap for consciousness to influence—the "selection among options" model would fail. Current 60% accuracy leaves substantial room; if future research with better methods closed this gap entirely, that would be significant.
+**1. Selection fully determined by measurable neural activity.** If prediction accuracy approached 100%—leaving no gap for consciousness to influence—the "selection among options" model would fail. Current 60% accuracy leaves the question open; if better methods closed the gap entirely, that would be significant. Maoz et al. (2019) make the test sharper for *deliberate* choices, which the RP does not track.
 
-**2. Veto preceded by readiness potentials.** If vetoing an action were reliably preceded by RPs—just like initiating action—Libet's veto model would collapse. The regress objection would become empirical rather than merely philosophical. Current evidence suggests vetoes don't show RPs, but this needs more investigation.
+**2. Veto preceded by readiness potentials.** If vetoing an action were reliably preceded by RPs—just like initiating action—Libet's veto model would collapse. The regress objection would become empirical rather than merely philosophical. This challenge is partly live: Filevich, Kühn and Haggard (2013) found preparatory activity differing before free decisions to inhibit, though for rapid-versus-delayed responding rather than full cancellation.
 
 **3. Retrocausality ruled out empirically.** If future physics conclusively established time-asymmetric causation with no backward influences, the retrocausal resolution would fail. Price's arguments that time-symmetric physics implies some retrocausality would need refutation.
 
 **4. Decoherence too fast even for Zeno mechanism.** If decoherence at candidate selection sites operates faster than any attentional observation could occur, the Zeno pathway would fail. Current quantum biology suggests biological systems can maintain coherence longer than expected, but direct measurement in neural tissue would be decisive.
 
-**5. SMA resection patients lack sense of agency.** Sjöberg's finding that SMA resection patients retain voluntary movement is striking. If replication showed these patients actually lack genuine sense of agency—experiencing movement as automatic rather than willed—the dissociation evidence would be undermined.
+**5. SMA resection patients lack sense of agency.** Sjöberg reports that SMA resection patients, despite initiation deficits, retain the sense of intending. If replication showed these patients actually lack genuine sense of agency—experiencing movement as automatic rather than willed—the dissociation evidence would be undermined.
 
-**6. Selection indistinguishable from randomness.** If choices at quantum indeterminacies were genuinely random rather than guided by consciousness, the selection model becomes indistinguishable from the [[quantum-indeterminacy-free-will|luck objection]]. The phenomenology of effort and the reasons-responsiveness of choices provide current evidence against randomness, but these could in principle be shown to be post-hoc confabulation.
+**6. Selection indistinguishable from randomness.** If choices at quantum indeterminacies were genuinely random rather than guided by consciousness, the selection model becomes indistinguishable from the [[quantum-indeterminacy-free-will|luck objection]]. The phenomenology of effort and the reasons-responsiveness of choices are coherent with guided selection, though they do not by themselves discriminate it from randomness and could in principle be post-hoc confabulation.
 
-The Map's position is that current evidence supports selection over randomness, that Schurger and Sjöberg have substantially weakened the standard interpretation, and that retrocausal and Zeno frameworks provide coherent mechanisms. But this is empirical territory—future findings could shift the picture.
+The Map's position is that the selection model is coherent with current evidence (which does not discriminate it from randomness or from physicalist control processes predicting the same covariation), that Schurger, Maoz and Sjöberg have substantially weakened the standard interpretation, and that retrocausal and Zeno proposals are coherent but speculative mechanisms. But this is empirical territory—future findings could shift the picture.
 
 ## Further Reading
 
@@ -200,9 +202,9 @@ The Map's position is that current evidence supports selection over randomness, 
 - [[motor-selection]] — Extending the selection framework from attention to motor control
 - [[attention-as-interface|voluntary attention]] — The willed/instructed distinction and stochastic pre-state challenge
 - [[quantum-indeterminacy-free-will]] — Why indeterminism doesn't reduce selection to randomness
-- [[retrocausality]] — How backward causation resolves the timing problem
+- [[retrocausality]] — How backward causation might address the timing problem
 - [[atemporal-causation]] — Causation outside temporal sequence: why consciousness can't be "too late"
-- [[topics/time-symmetric-selection-mechanism]] — The atemporal transaction model that dissolves the Libet timing puzzle
+- [[topics/time-symmetric-selection-mechanism]] — The atemporal transaction model proposed for the Libet timing puzzle
 - [[presentiment-and-retrocausality]] — Why physics-based retrocausality differs from contested presentiment claims
 - [[quantum-consciousness]] — Mechanisms for consciousness at the quantum level
 - [[decoherence]] — The decoherence challenge and biological quantum effects
@@ -226,4 +228,7 @@ The Map's position is that current evidence supports selection over randomness, 
 1. Sjöberg, R. L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2269.
 1. Desmurget, M., Reilly, K. T., Richard, N., Szathmari, A., Mottolese, C., & Sirigu, A. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
 1. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
+1. Maoz, U., Yaffe, G., Koch, C., & Mudrik, L. (2019). Neural precursors of decisions that matter—an ERP study of deliberate and arbitrary choice. *eLife*, 8, e39787.
+1. Filevich, E., Kühn, S., & Haggard, P. (2013). There is no free won't: Antecedent brain activity predicts decisions to inhibit. *PLoS ONE*, 8(2), e53053.
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Price, H. (2012). Does time-symmetry imply retrocausality? *Studies in History and Philosophy of Science Part B*, 43(2), 75-83.
