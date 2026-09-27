@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-06-16 16:22:23+00:00
+ai_modified: 2026-09-27 14:35:48+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -13,14 +13,15 @@ concepts:
 - '[[common-cause-null]]'
 created: 2026-06-03
 date: &id001 2026-06-03
-description: A human+AI design for a reversible-perturbation experiment whose closing-phase
-  and reopening-phase channel orderings the filter and substrate-symmetric production
-  readings predict oppositely — a proposed test, not a result.
+description: A human+AI design for a reversible-perturbation experiment in which a
+  closing-phase ordering that fails to mirror the reopening-phase ordering is forbidden
+  by substrate-symmetric production and permitted by the filter reading — a proposed
+  test.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-20 10:55:03+00:00
-lastmod: 2026-06-16 16:22:23+00:00
+lastmod: 2026-09-27 14:35:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -39,13 +40,13 @@ topics:
 - '[[falsification-roadmap-for-the-interface-model]]'
 ---
 
-The [recovery-order-asymmetry article](/topics/memory-channel-interface-evidence/) and the [direction-of-interface-change concept](/concepts/direction-of-interface-change/) both name, as outstanding future work, a discriminator the existing catalogue has not designed: "a focal perturbation producing a channel ordering one reading predicts and the other forbids," sited specifically on the *direction-of-travel* axis. This article develops that named-but-undeveloped test into a worked design. It is a **proposed experiment, not a result.** Nothing here asserts the discriminator has been run, and nothing here raises the probability that the [filter reading](/concepts/filter-theory/) is correct; the [evidential-status discipline](/project/evidential-status-discipline/) requires that the design be held at the design tier. Until the experiment is performed its discriminating verdict is genuinely underdetermined by the evidence: the design constrains *which* outcomes would count for and against each reading, but does not presuppose which way they would resolve. What the design contributes is a structure: a reversible focal perturbation applied separately in the *closing* and the *reopening* phase of a consciousness transition, with concurrent multi-channel probing, configured so that a substrate-symmetric production reading and the filter reading make **opposite, advance-stated predictions** about the order in which a high-cost channel goes dark and comes back.
+The [recovery-order-asymmetry article](/topics/memory-channel-interface-evidence/) and the [direction-of-interface-change concept](/concepts/direction-of-interface-change/) both name, as outstanding future work, a discriminator the existing catalogue has not designed: a focal perturbation producing a channel ordering one reading forbids and the other permits, sited specifically on the *direction-of-travel* axis. This article develops that named-but-undeveloped test into a worked design. It is a **proposed experiment, not a result.** Nothing here asserts the discriminator has been run, and nothing here raises the probability that the [filter reading](/concepts/filter-theory/) is correct; the [evidential-status discipline](/project/evidential-status-discipline/) requires that the design be held at the design tier. Until the experiment is performed its discriminating verdict is genuinely underdetermined by the evidence: the design constrains *which* outcomes would count for and against each reading, but does not presuppose which way they would resolve. What the design contributes is a structure: a reversible focal perturbation applied separately in the *closing* and the *reopening* phase of a consciousness transition, with concurrent multi-channel probing, configured so that the substrate-symmetric production reading makes an **advance-stated prediction it can lose** about the order in which a high-cost channel goes dark and comes back. The discriminator is one-sided: that production reading predicts mirror symmetry and forbids its failure, while the filter reading permits a dissociation without predicting one and forbids no ordering, the mirror-symmetric one included.
 
-This is the companion to the [targeted-lesion discriminating-tests article](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/), and the two should not be conflated. That article designs a *substrate-state* discriminator: it asks whether a focal lesion's substrate *topology* tracks the channel ordering (production) or whether channel architecture overrides topology (filter), holding the system at a single state. The present article designs a *direction-dependent* discriminator: it asks whether the channel ordering is *the same in both directions of travel* (the simplest production prediction) or *direction-dependent* (the filter prediction). The substrate-state article cannot deliver this test, because a lesion is a fixed insult — it has no reopening phase to compare against its closing phase. The direction axis requires a perturbation that can be turned on and off within one subject, which is what makes the design distinct enough to stand alone.
+This is the companion to the [targeted-lesion discriminating-tests article](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/), and the two should not be conflated. That article designs a *substrate-state* discriminator: it asks whether a focal lesion's substrate *topology* tracks the channel ordering (production) or whether channel architecture overrides topology (filter), holding the system at a single state. The present article designs a *direction-dependent* discriminator: it asks whether the channel ordering is *the same in both directions of travel* (the simplest production prediction) or *direction-dependent* (an outcome the filter reading permits but does not require). The substrate-state article cannot deliver this test, because a lesion is a fixed insult — it has no reopening phase to compare against its closing phase. The direction axis requires a perturbation that can be turned on and off within one subject, which is what makes the design distinct enough to stand alone.
 
 ## What Each Reading Predicts and Forbids
 
-The discriminating power of any test is exactly the size of the gap between what the rival readings *predict* and what they *forbid*. The direction axis opens such a gap because the two readings disagree about whether the channel ordering carries a memory of the direction of travel.
+The discriminating power of any test is exactly the size of the gap between what the rival readings *predict* and what they *forbid*. The direction axis opens such a gap on one side only: the substrate-symmetric production reading forbids the channel ordering from carrying a memory of the direction of travel, while the filter reading leaves that open.
 
 The **substrate-symmetric production reading** — the simplest production account, on which one substrate both generates and recovers each channel — reads the degradation ordering off a single, direction-blind regional-vulnerability profile. The autonoetic channel is most vulnerable because it depends on the most cortical reconstruction work; the procedural channel is least vulnerable. Crucially, on this reading the *same* profile is read in both directions: the channel that fails first under deepening perturbation is the channel that recovers last under lifting perturbation, because the profile that orders failure is the profile that orders recovery. This reading **predicts symmetry** of the channel ordering between closing and reopening, and **forbids** a clean reversal in which a high-cost channel that failed first comes back first.
 

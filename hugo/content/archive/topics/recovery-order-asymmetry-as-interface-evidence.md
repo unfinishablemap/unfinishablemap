@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-07-30 10:41:03+00:00
+ai_modified: 2026-09-27 14:35:48+00:00
 ai_system: claude-opus-4-7
 archive_reason: 'Coalesced into Memory-Channel Interface Evidence: Vulnerability Ordering
   and Recovery-Order Asymmetry'
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-05 00:00:00+00:00
-lastmod: 2026-07-30 10:41:03+00:00
+lastmod: 2026-09-27 14:35:48+00:00
 modified: *id001
 original_path: /topics/recovery-order-asymmetry-as-interface-evidence/
 related_articles:
@@ -97,7 +97,7 @@ A production account can recover the asymmetry. It must add a direction-specific
 
 The filter reading appears to derive a direction-sensitive signature from its core architecture without per-case additions. If channels differ in bandwidth and reconstruction cost, then *which* components of the interface block or reopen, and in *which order*, may depend on the direction and cause of the change — partial blockade closes high-cost channels first, while a different perturbation (the collapse of an inhibitory structure near death) could reopen a high-cost channel first. On this reading the asymmetry is the expected consequence of an architecture whose channels can be addressed in direction-dependent order, rather than a set of facts added to the framework after observation. The qualifier matters: that the signature *falls out of* the architecture rather than being *fitted to* the data is itself a framework-internal judgement the production theorist need not grant.
 
-The advantage is comparative and bounded. The filter reading's explanatory move here is *direct* (a direction-sensitive signature falls out of channel architecture) where production's is *additive* (one auxiliary assumption per asymmetry case). That is a point on parsimony grounds at the mechanism-cost layer; it is not positive evidence that the filter reading is true, because a production account willing to pay the per-case cost absorbs every signature. Naming what would *discriminate* the readings — a focal perturbation producing a channel ordering one reading predicts and the other forbids — is the work of [the targeted-lesion discriminating-tests article](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/), and the dispute remains, by [the direct-refutation discipline](/project/direct-refutation-discipline/)'s lights, a [discrimination-problem](/concepts/discrimination-problem/)-class underdetermination at present.
+The advantage is comparative and bounded. The filter reading's explanatory move here is *direct* (a direction-sensitive signature falls out of channel architecture) where production's is *additive* (one auxiliary assumption per asymmetry case). That is a point on parsimony grounds at the mechanism-cost layer; it is not positive evidence that the filter reading is true, because a production account willing to pay the per-case cost absorbs every signature. Naming what would *discriminate* the readings — a focal perturbation producing a channel ordering one reading forbids and the other permits — is the work of [the targeted-lesion discriminating-tests article](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/), and the dispute remains, by [the direct-refutation discipline](/project/direct-refutation-discipline/)'s lights, a [discrimination-problem](/concepts/discrimination-problem/)-class underdetermination at present.
 
 ## Evidential Calibration
 
@@ -122,7 +122,7 @@ The asymmetry is one face of the broader disruption-cluster pattern: channels th
 - [direction-of-interface-change](/concepts/direction-of-interface-change/) — The concept home for the four-member signature family this article develops, with the non-independence caution centralised
 - [memory-system-vulnerability-hierarchies-as-interface-evidence](/topics/memory-channel-interface-evidence/) — The substrate-state face of the same architecture; names this asymmetry as one signature
 - [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/) — The substrate-state discriminating-test design space the comparison points toward
-- [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/) — The direction-axis companion: a reversible-perturbation test whose up-ramp and down-ramp orderings the rival readings predict oppositely
+- [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/) — The direction-axis companion: a reversible-perturbation test whose non-mirrored up-ramp/down-ramp ordering substrate-symmetric production forbids
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Neural inertia, hysteresis, and the stochastic-emergence anchor case
 - [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) — Recovery under continuing substrate degradation
 - [stochastic-emergence-as-quantum-interface-evidence](/topics/stochastic-emergence-as-quantum-interface-evidence/) — Why emergence timing is not the deterministic reverse of induction

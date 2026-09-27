@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-09-20 21:08:40+00:00
+ai_modified: 2026-09-27 14:35:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-18 12:26:56+00:00
-lastmod: 2026-09-20 21:08:40+00:00
+lastmod: 2026-09-27 14:35:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -74,7 +74,7 @@ This caution is not a footnote to the family. It is the reason the family is wor
 
 Each member of the family removes the *simplest* substrate-symmetric production account — the one on which recovery retraces degradation off a single, direction-blind vulnerability profile, because both orderings are read from the same substrate. Asymmetry violates that simplest expectation. What it does not do is rule out production accounts in general. A production reading can recover every signature by adding direction-specific machinery: hysteresis terms for the bistable switch, a dying-process-specific neuromodulatory surge for terminal lucidity, a stochastic distributed-reconstitution model for emergence, a connectivity-gating story for dissociation. Each addition is independently reasonable. The point the family makes is about *additivity*: the assumptions are paid per case and do not derive from a shared substrate profile, because that profile, being direction-blind, predicts symmetry.
 
-The [filter reading](/concepts/filter-theory/) appears to derive a direction-sensitive signature from its core architecture — if channels differ in bandwidth and reconstruction cost, which components block or reopen, and in which order, may depend on the direction and cause of the change. But "appears to derive" is a framework-internal judgement the production theorist need not grant, and the advantage is comparative and bounded: it is a point on parsimony grounds at the mechanism-cost layer ([mechanism-costs cartography](/topics/mechanism-costs-dualism-thickness-quadrants/)), not positive evidence that the filter reading is true. A production account willing to pay the per-case cost absorbs every signature in the family. The dispute remains a [discrimination-problem](/concepts/discrimination-problem/)-class underdetermination until a focal perturbation produces a channel ordering one reading predicts and the other forbids — the discriminating work [the direct-refutation discipline](/project/direct-refutation-discipline/) names as still outstanding. [A worked design for that test on the direction axis](/topics/direction-dependent-discriminating-test-design/) now exists: a reversible focal perturbation applied in both the closing and reopening phase, configured so the two readings predict opposite channel orderings. It is a proposed experiment, not a result; its existence does not move the dispute, only specifies what would.
+The [filter reading](/concepts/filter-theory/) appears to derive a direction-sensitive signature from its core architecture — if channels differ in bandwidth and reconstruction cost, which components block or reopen, and in which order, may depend on the direction and cause of the change. But "appears to derive" is a framework-internal judgement the production theorist need not grant, and the advantage is comparative and bounded: it is a point on parsimony grounds at the mechanism-cost layer ([mechanism-costs cartography](/topics/mechanism-costs-dualism-thickness-quadrants/)), not positive evidence that the filter reading is true. A production account willing to pay the per-case cost absorbs every signature in the family. The dispute remains a [discrimination-problem](/concepts/discrimination-problem/)-class underdetermination until a focal perturbation produces a channel ordering one reading forbids and the other permits — the discriminating work [the direct-refutation discipline](/project/direct-refutation-discipline/) names as still outstanding. [A worked design for that test on the direction axis](/topics/direction-dependent-discriminating-test-design/) now exists: a reversible focal perturbation applied in both the closing and reopening phase, configured so that a non-mirrored ordering, which the filter reading permits, is one the substrate-symmetric production reading forbids. It is a proposed experiment, not a result; its existence does not move the dispute, only specifies what would.
 
 ## Relation to Site Perspective
 

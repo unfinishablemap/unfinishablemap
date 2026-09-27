@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-25
-ai_modified: 2026-09-24 12:31:02+00:00
+ai_modified: 2026-09-27 14:35:48+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 apex_last_synthesis: 2026-07-18 20:08:16+00:00
 apex_sources:
@@ -38,7 +38,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 20:08:16+00:00
-lastmod: 2026-09-24 12:31:02+00:00
+lastmod: 2026-09-27 14:35:48+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
@@ -132,7 +132,7 @@ If the architecture is right about itself, the falsification programme has been 
 
 **First-person/third-person mismatch.** [Forward-in-time selection](/topics/forward-in-time-conscious-selection/) names the cleanest instance: the asymmetry between the third-person measurability of a commitment-relevant signal and the first-person opacity of the closing-itself is "what an interface doing causal work at a primitive seam predicts: the cause cannot be observed from inside the system whose cause it is." Where the inside report and the outside instrument disagree, the disagreement is the data.
 
-The reorientation is not a softening of falsifiability—it is a sharpening of it. Each seam admits genuine failure conditions. The memory hierarchy would be undercut by a population in which the degradation order reverses without an independent confounder; the recovery-order asymmetry by a focal perturbation producing a recovery sequence the filter reading forbids, or by a single substrate-state mechanism that derives both the rising-trajectory and falling-trajectory orderings without per-case additions; the dissociation cluster by clean single-mechanism derivation of all its faces; the patient-population divergences by demonstration that the contrasts run entirely through shared upstream architecture. What the programme forfeits is the fantasy of a single decisive ensemble anomaly. What it gains is a structured set of places where the architecture has committed itself to predictions it could lose—and, in the graded-failure case, a worked test design (a reversible perturbation read on both its up-ramp and its down-ramp) where the rival readings have already been pinned to opposite orderings, which is what moves a seam from constraining to potentially discriminating.
+The reorientation is not a softening of falsifiability—it is a sharpening of it. Each seam admits genuine failure conditions. The memory hierarchy would be undercut by a population in which the degradation order reverses without an independent confounder; the recovery-order asymmetry by a controlled mirror-symmetric recovery result, or by a single substrate-state mechanism that derives both the rising-trajectory and falling-trajectory orderings without per-case additions; the dissociation cluster by clean single-mechanism derivation of all its faces; the patient-population divergences by demonstration that the contrasts run entirely through shared upstream architecture. What the programme forfeits is the fantasy of a single decisive ensemble anomaly. What it gains is a structured set of places where the architecture has committed itself to predictions it could lose—and, in the graded-failure case, a worked test design (a reversible perturbation read on both its up-ramp and its down-ramp) where the simplest production rival already forbids one ordering, which is what moves a seam from constraining to potentially discriminating.
 
 A caution belongs here, on the Map's own discipline. Seam evidence is, almost without exception, *constraining* rather than *establishing* evidence: a dissociation removes the simplest identity reading without by itself installing the interactionist one, because production accounts can usually accommodate any single seam at the cost of an extra mechanism or a parameter set after the fact. The force is cumulative and it is bounded. Worse, the seams share an upstream architecture—the same interface—so the [common-cause null](/project/common-cause-null/) applies in full: counting disruption, dissociation, graded failure, population divergence, and first-person/third-person mismatch as five independent confirmations would inflate the weight, because if the Map is right they are five views of one thing. The honest accounting credits the convergence at the framework-internal-weight register and reserves tier-elevation for the seams that supply a discriminator the rivals do not equally predict. The reorientation tells the programme where to look; it does not tell it that what it finds there will be more than the discipline allows.
 
@@ -183,9 +183,9 @@ This synthesis draws on:
 - [The Five Tenets](/tenets/) — The strict-corridor reading of Minimal Quantum Interaction and the explicit registration of the aggregate-detection cost
 - [Brain-Internal Born-Rule Testing](/topics/brain-internal-born-rule-testing/) — Why the strict corridor predicts no Born-statistical signature by construction
 - [Forward-in-Time Conscious Selection](/topics/forward-in-time-conscious-selection/) — The selection-criterion trilemma and the first-person/third-person seam at the closing-itself
-- [Memory-Channel Interface Evidence: Vulnerability Ordering and Recovery-Order Asymmetry](/topics/memory-channel-interface-evidence/) — Graded channel failure as the worked seam exhibit, plus the direction-of-interface-change signature family (why recovery does not retrace degradation) and the discriminating-test design space where the rival readings predict opposite orderings
+- [Memory-Channel Interface Evidence: Vulnerability Ordering and Recovery-Order Asymmetry](/topics/memory-channel-interface-evidence/) — Graded channel failure as the worked seam exhibit, plus the direction-of-interface-change signature family (why recovery does not retrace degradation) and the discriminating-test design space where one reading forbids an ordering the other permits
 - [Targeted-Lesion Discriminating Tests](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/) — The substrate-state axis of the seam-level discriminating-test design
-- [Direction-Dependent Discriminating-Test Design](/topics/direction-dependent-discriminating-test-design/) — The direction axis: an up-ramp/down-ramp test the readings pin to opposite orderings
+- [Direction-Dependent Discriminating-Test Design](/topics/direction-dependent-discriminating-test-design/) — The direction axis: an up-ramp/down-ramp test whose non-mirrored outcome only substrate-symmetric production forbids
 - [Attention as the Causal Bridge](/apex/attention-as-causal-bridge/) — The bandwidth-limited selection channel as the throughput face of concealment
 - [The Introspection-Architecture Void Cluster](/apex/introspection-architecture-void-cluster/) — Why a markerless interface is observationally indistinguishable from none, from the subject's side
 - [A Taxonomy of Voids](/apex/taxonomy-of-voids/) — The catalogue of where a self-concealing interface leaves its only legible marks, and the anomalies-that-should-co-occur prediction

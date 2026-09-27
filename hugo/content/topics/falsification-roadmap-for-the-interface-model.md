@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-09-08 09:49:45+00:00
+ai_modified: 2026-09-27 14:35:48+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 11:58:00+00:00
-lastmod: 2026-09-08 09:49:45+00:00
+lastmod: 2026-09-27 14:35:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -202,7 +202,7 @@ Publishing a falsification roadmap is itself an expression of the [tenets](/tene
 - [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) — Mechanism-specific foreclosure programme for the corridor reading of Tenet 2: Stapp Zeno, Orch-OR, strict selection-only, and trumping-preemption each mapped to their predicted experimental signatures
 - [sorkin-delta-brain-internal-analogues](/topics/sorkin-delta-brain-internal-analogues/) — The operational design space for a brain-internal Sorkin-Δ test, mechanism by mechanism
 - [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/) — Worked design-space exhibit of the roadmap's discipline at the memory-hierarchy tier: which focal-lesion or focal-stimulation experiments could discriminate production from filter readings, and why the existing data cannot yet deliver them
-- [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/) — The direction-axis discriminating-test design: a reversible focal perturbation applied in closing and reopening phases, whose channel orderings the rival readings predict oppositely
+- [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/) — The direction-axis discriminating-test design: a reversible focal perturbation applied in closing and reopening phases, whose non-mirrored channel ordering substrate-symmetric production forbids
 - [conversion-disorder-as-consciousness-side-fault](/topics/conversion-disorder-as-consciousness-side-fault/) — The under-anaesthesia discriminating test as a falsification handle: it separates substrate-intact from substrate-damaged deficits robustly, but its reach into interface-vs-intra-cerebral is exactly where the roadmap's discipline applies
 - [the-unfolding-argument-against-causal-structure-theories-of-consciousness](/concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness/) — The formal false-or-unfalsifiable dilemma for IIT-style structural physicalism; a distinct sibling of the falsifiability challenges catalogued here, and a Tenet 5 case study
 

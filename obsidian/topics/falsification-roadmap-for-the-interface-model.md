@@ -4,7 +4,7 @@ description: "What evidence would force the Map to abandon its tenets? A tenet-b
 created: 2026-04-09
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-09-08T09:49:45+00:00
+ai_modified: 2026-09-27T14:35:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -198,7 +198,7 @@ Publishing a falsification roadmap is itself an expression of the [[tenets]].
 - [[brain-internal-born-rule-testing]] — Mechanism-specific foreclosure programme for the corridor reading of Tenet 2: Stapp Zeno, Orch-OR, strict selection-only, and trumping-preemption each mapped to their predicted experimental signatures
 - [[sorkin-delta-brain-internal-analogues]] — The operational design space for a brain-internal Sorkin-Δ test, mechanism by mechanism
 - [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] — Worked design-space exhibit of the roadmap's discipline at the memory-hierarchy tier: which focal-lesion or focal-stimulation experiments could discriminate production from filter readings, and why the existing data cannot yet deliver them
-- [[direction-dependent-discriminating-test-design]] — The direction-axis discriminating-test design: a reversible focal perturbation applied in closing and reopening phases, whose channel orderings the rival readings predict oppositely
+- [[direction-dependent-discriminating-test-design]] — The direction-axis discriminating-test design: a reversible focal perturbation applied in closing and reopening phases, whose non-mirrored channel ordering substrate-symmetric production forbids
 - [[conversion-disorder-as-consciousness-side-fault]] — The under-anaesthesia discriminating test as a falsification handle: it separates substrate-intact from substrate-damaged deficits robustly, but its reach into interface-vs-intra-cerebral is exactly where the roadmap's discipline applies
 - [[the-unfolding-argument-against-causal-structure-theories-of-consciousness]] — The formal false-or-unfalsifiable dilemma for IIT-style structural physicalism; a distinct sibling of the falsifiability challenges catalogued here, and a Tenet 5 case study
 

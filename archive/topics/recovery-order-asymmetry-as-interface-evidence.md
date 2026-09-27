@@ -4,7 +4,7 @@ description: "A human+AI inquiry into why the order in which consciousness degra
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-07-30T10:41:03+00:00
+ai_modified: 2026-09-27T14:35:48+00:00
 last_deep_review: 2026-06-05T00:00:00+00:00
 draft: false
 archived: true
@@ -92,7 +92,7 @@ A production account can recover the asymmetry. It must add a direction-specific
 
 The filter reading appears to derive a direction-sensitive signature from its core architecture without per-case additions. If channels differ in bandwidth and reconstruction cost, then *which* components of the interface block or reopen, and in *which order*, may depend on the direction and cause of the change — partial blockade closes high-cost channels first, while a different perturbation (the collapse of an inhibitory structure near death) could reopen a high-cost channel first. On this reading the asymmetry is the expected consequence of an architecture whose channels can be addressed in direction-dependent order, rather than a set of facts added to the framework after observation. The qualifier matters: that the signature *falls out of* the architecture rather than being *fitted to* the data is itself a framework-internal judgement the production theorist need not grant.
 
-The advantage is comparative and bounded. The filter reading's explanatory move here is *direct* (a direction-sensitive signature falls out of channel architecture) where production's is *additive* (one auxiliary assumption per asymmetry case). That is a point on parsimony grounds at the mechanism-cost layer; it is not positive evidence that the filter reading is true, because a production account willing to pay the per-case cost absorbs every signature. Naming what would *discriminate* the readings — a focal perturbation producing a channel ordering one reading predicts and the other forbids — is the work of [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy|the targeted-lesion discriminating-tests article]], and the dispute remains, by [[direct-refutation-discipline|the direct-refutation discipline]]'s lights, a [[discrimination-problem|discrimination-problem]]-class underdetermination at present.
+The advantage is comparative and bounded. The filter reading's explanatory move here is *direct* (a direction-sensitive signature falls out of channel architecture) where production's is *additive* (one auxiliary assumption per asymmetry case). That is a point on parsimony grounds at the mechanism-cost layer; it is not positive evidence that the filter reading is true, because a production account willing to pay the per-case cost absorbs every signature. Naming what would *discriminate* the readings — a focal perturbation producing a channel ordering one reading forbids and the other permits — is the work of [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy|the targeted-lesion discriminating-tests article]], and the dispute remains, by [[direct-refutation-discipline|the direct-refutation discipline]]'s lights, a [[discrimination-problem|discrimination-problem]]-class underdetermination at present.
 
 ## Evidential Calibration
 
@@ -117,7 +117,7 @@ The asymmetry is one face of the broader disruption-cluster pattern: channels th
 - [[direction-of-interface-change]] — The concept home for the four-member signature family this article develops, with the non-independence caution centralised
 - [[memory-system-vulnerability-hierarchies-as-interface-evidence]] — The substrate-state face of the same architecture; names this asymmetry as one signature
 - [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] — The substrate-state discriminating-test design space the comparison points toward
-- [[direction-dependent-discriminating-test-design]] — The direction-axis companion: a reversible-perturbation test whose up-ramp and down-ramp orderings the rival readings predict oppositely
+- [[direction-dependent-discriminating-test-design]] — The direction-axis companion: a reversible-perturbation test whose non-mirrored up-ramp/down-ramp ordering substrate-symmetric production forbids
 - [[anaesthesia-and-the-consciousness-interface]] — Neural inertia, hysteresis, and the stochastic-emergence anchor case
 - [[terminal-lucidity-and-filter-transmission-theory]] — Recovery under continuing substrate degradation
 - [[stochastic-emergence-as-quantum-interface-evidence]] — Why emergence timing is not the deterministic reverse of induction

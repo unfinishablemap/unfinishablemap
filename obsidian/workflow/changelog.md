@@ -5,6 +5,13 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T14:35:48+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/direction-dependent-discriminating-test-design]] (+ [[apex/self-concealing-interface]], [[topics/falsification-roadmap-for-the-interface-model]], [[concepts/direction-of-interface-change]], archive/topics/recovery-order-asymmetry-as-interface-evidence)
+- **Original score**: 7/10 (curate.py absent; manual review)
+- **Changes**: Propagated the fb9b3106 repair of `memory-channel-interface-evidence` (the direction-axis discriminator is one-sided: substrate-symmetric production predicts mirror symmetry and forbids its failure; the filter reading permits dissociation and forbids no ordering). direction-dependent: lead's "opposite, advance-stated predictions" restated as a one-sided discriminator; description's "predict oppositely" fixed; L40 "(the filter prediction)" -> permitted-not-required; L44 gap stated as one-sided; dropped quote marks on "one reading predicts and the other forbids" (the phrase no longer exists in memory-channel, one of its two attributed sources) and restated as "one reading forbids and the other permits". apex (hard_warning, net -5 words): L127 recovery-order failure condition now "a controlled mirror-symmetric recovery result" (was "a recovery sequence the filter reading forbids"); "pinned to opposite orderings" -> "the simplest production rival already forbids one ordering"; Further Reading labels L178/L180 fixed. roadmap L201 label only (net -1 word; file at 3991/4000). Survivor sweep found and fixed the same claim in concepts/direction-of-interface-change L73 (two phrases) and archive/topics/recovery-order-asymmetry-as-interface-evidence L95/L120. Remaining (not fixed, out of scope): direction-of-interface-change L73 still says the filter reading "appears to derive" a direction-sensitive signature, softer than memory-channel's "consistent with ... rather than deriving one" but already hedged as a framework-internal judgement.
+- **Published**: yes
+
 ## 2026-09-27T14:20:28+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/memory-channel-interface-evidence]]
