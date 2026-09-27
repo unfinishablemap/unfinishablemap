@@ -5,6 +5,15 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T13:54:16+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Diverging-worlds Everettianism (quantum modal realism) as the strongest rival to the Map's indexical objection
+- **Output**: [[concepts/diverging-worlds-everettianism]]
+- **Word count**: 1942 (concepts soft 2500 — ok)
+- **Based on research**: no dedicated note; primary sources checked at the publisher/preprint. Crossref-verified metadata: Saunders & Wallace 2008 *BJPS* 59(3):293–305 (doi 10.1093/bjps/axn029); Saunders 2010 in *Many Worlds?* 181–205; Tappenden 2008 *BJPS* 59(3):307–314; Wilson 2020 OUP. Quotes verified verbatim: S&W 2008 from the abstract (OpenAlex); Saunders 2010 from the arXiv preprint 1609.04720 (flagged in-text as preprint wording). ⚠️ Lead correction: S&W 2008 is a *semantics* making branching behave like divergence for uncertainty talk, not an adoption of divergence; Saunders 2010 argues EQM is not really a theory of overlapping worlds but calls overlap-vs-divergence possibly underdetermined by the mathematics. Wilson's "indexical actuality" and Everettian Principal Principle attributed via the NDPR review (Morganti 2022), cited.
+- **Verdict recorded**: Conceded — the fission "which successor" question, the "no fact to be uncertain about" charge, and most of the double-duty tension. Retained as framework boundaries — haecceity vs qualitative counterpart matching, global exclusion (per background-commitments Posit Three), and no work for outcome-selection (mental-causation complaint stated in its narrow form, consistent with background-commitments). Felt openness stated as consistent-with, not a defeater.
+- **Integration**: many-worlds (zero-word piped link on "Before measurement, there is one you" — file at 3499/3500 hard, no room for a Further Reading line); haecceity L167 (+12w, 3237); indexical-identity-quantum-measurement MWI section (+18w, 3319); quantum-immortality Further Reading only (3928/4000).
+
 ## 2026-09-27T12:50:30+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/multi-mind-collapse-problem]] (+ [[topics/many-minds-interpretation]], [[topics/quantum-immortality-and-the-quantum-suicide-survival-argument]])

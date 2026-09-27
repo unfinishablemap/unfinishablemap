@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-09-19 18:55:00+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5+claude-opus-5
+ai_modified: 2026-09-27 13:54:16+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/process-haecceitism/
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 06:04:17+00:00
-lastmod: 2026-09-19 18:55:00+00:00
+lastmod: 2026-09-27 13:54:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -167,7 +167,7 @@ Contemplative evidence supports this. Advanced meditators who deconstruct the su
 
 **"Without substance, there's nothing to bear the haecceity"**: The process itself is the bearer. Events bear temporal properties without needing a substance—processes are ontologically respectable entities that can bear properties, including being *this* process.
 
-**"Process haecceity cannot do the work the No-Many-Worlds argument needs"**: This one the Map grants, and its own treatment of fission is why. Everettian branching is fission. The two post-branch continuants share the whole of their causal history up to the split, so causal history—the process reading's individuating principle—runs symmetrically across them and picks out neither as mine; on the process reading the pre-branch subject ceases at the measurement and two new ones begin. That is close to the verdict the branch-relative Everettian already accepts, that identity is not transbranch and so no further fact went missing (see [many-worlds-argument](/arguments/many-worlds-argument/)). The indexical objection needs a subject that persists *across* the measurement, so that "which branch am *I* on?" has something to be about. Process haecceitism supplies particularity at a time and leaves that diachronic fact to be posited outright—which is how the Map holds it, as the persisting half of the subjecthood commitment recorded in [the background posits](/tenets/background-commitments/) and registered as [P-SC3](/positions/subject-census/#p-sc3).
+**"Process haecceity cannot do the work the No-Many-Worlds argument needs"**: This one the Map grants, and its own treatment of fission is why. Everettian branching is fission—on the overlapping reading; the [diverging reading](/concepts/diverging-worlds-everettianism/) denies fission and relocates the dispute. The two post-branch continuants share the whole of their causal history up to the split, so causal history—the process reading's individuating principle—runs symmetrically across them and picks out neither as mine; on the process reading the pre-branch subject ceases at the measurement and two new ones begin. That is close to the verdict the branch-relative Everettian already accepts, that identity is not transbranch and so no further fact went missing (see [many-worlds-argument](/arguments/many-worlds-argument/)). The indexical objection needs a subject that persists *across* the measurement, so that "which branch am *I* on?" has something to be about. Process haecceitism supplies particularity at a time and leaves that diachronic fact to be posited outright—which is how the Map holds it, as the persisting half of the subjecthood commitment recorded in [the background posits](/tenets/background-commitments/) and registered as [P-SC3](/positions/subject-census/#p-sc3).
 
 **"Primitive thisness is inherent existence in disguise"**: Nagarjuna's Madhyamaka holds that nothing has *svabhāva* (inherent existence, Stepien 2021). "Primitive" need not mean "inherently existent"—the particularity of *this* experiential process can be *dependently arisen* from its causal history and conditions—and that disposes of the charge that haecceity smuggles in a soul. It does not answer the objection. Causal history individuates numerically, and the indexical question asks for more than that; if a primitive further fact fixes which process is mine, that fact does the work and "process" only names its bearer. Relabelling the bearer leaves the Madhyamaka objection where it was, since Madhyamaka's complaint was never about permanence specifically but about inherent existence generally. The Map holds the primitive fact and marks the cost rather than claiming a reconciliation: whether the indexical question has an answer at all is a bedrock disagreement, not one the Map refutes from inside Madhyamaka's own resources (see [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)).
 

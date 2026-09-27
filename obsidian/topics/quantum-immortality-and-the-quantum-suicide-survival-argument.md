@@ -4,7 +4,7 @@ description: "A human-AI examination of quantum suicide: the immortality expecta
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-09-27T12:50:30+00:00
+ai_modified: 2026-09-27T13:54:16+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[indexical-identity-quantum-measurement]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-07-08
 last_curated:
 last_deep_review: 2026-09-08T10:26:12+00:00
@@ -89,6 +89,7 @@ The Map's [[death-and-consciousness]] article carries the general No-Many-Worlds
 
 ## Further Reading
 
+- [[diverging-worlds-everettianism]] — The diverging-worlds rival tested against the Map's anti-MWI case
 - [[death-and-consciousness]] — The general No-Many-Worlds objection to branch-survival and personal continuation
 - [[probability-problem-in-many-worlds]] — The measure problem in depth, and MWI's recovery strategies
 - [[personal-identity]] — Why the dissolution depends on a non-deflationary "I"

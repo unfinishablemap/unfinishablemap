@@ -4,7 +4,7 @@ description: "Why does *this* consciousness experience *this* outcome? The index
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-09-04T19:55:44+00:00
+ai_modified: 2026-09-27T13:54:16+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[quantum-immortality-and-the-quantum-suicide-survival-argument]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-01-23
 last_curated:
 last_deep_review: 2026-07-12T17:12:22+00:00
@@ -106,7 +106,7 @@ The debate here intersects the epistemic/metaphysical distinction. MWI defenders
 
 The [[many-minds-interpretation|Many-Minds Interpretation]] is the sharpest test of whether *adding minds* to Everett can close the indexical gap. It keeps physical reality single and unbranching but gives each observer a continuum of minds that distribute across outcomes. Yet nothing in the formalism picks out which of the post-measurement minds is the actual continuant "I"—the interpretation multiplies the indexical problem rather than solving it. That MMI fails here, despite writing minds directly into the theory, supports the present article's diagnosis: the indexical gap is untouched by the physics of how outcomes are populated.
 
-The Map does not accept this move, but the grounds need stating carefully, because the obvious objection does not work. Anticipating *one* future rather than many is preserved under Everett: each branch-version anticipates a single outcome and gets a single outcome, so the felt meaningfulness of "which branch will I be in?" is exactly what a branch-relative subject would report either way. Branch-local phenomenology does not discriminate between the readings. What branching cannot supply is counterfactual exclusion — that the outcomes this subject does not experience be *globally* nonactual rather than merely absent from this subject's branch. That the unchosen alternatives be excluded globally is a [[tenets/background-commitments|posit the Map adopts]] rather than a conclusion the phenomenology delivers, and the [[tenets#no-many-worlds|No Many Worlds]] tenet rests on it. The disagreement with the branch-relative reply therefore sits at the framework boundary. What the Map does argue for independently — that the indexical fact is metaphysical rather than merely epistemic — is developed in [[indexical-knowledge-and-identity]].
+The Map does not accept this move, but the grounds need stating carefully, because the obvious objection does not work—and on the [[diverging-worlds-everettianism|diverging-worlds reading]], which denies that one subject splits, the fission form of the question lapses entirely. Anticipating *one* future rather than many is preserved under Everett: each branch-version anticipates a single outcome and gets a single outcome, so the felt meaningfulness of "which branch will I be in?" is exactly what a branch-relative subject would report either way. Branch-local phenomenology does not discriminate between the readings. What branching cannot supply is counterfactual exclusion — that the outcomes this subject does not experience be *globally* nonactual rather than merely absent from this subject's branch. That the unchosen alternatives be excluded globally is a [[tenets/background-commitments|posit the Map adopts]] rather than a conclusion the phenomenology delivers, and the [[tenets#no-many-worlds|No Many Worlds]] tenet rests on it. The disagreement with the branch-relative reply therefore sits at the framework boundary. What the Map does argue for independently — that the indexical fact is metaphysical rather than merely epistemic — is developed in [[indexical-knowledge-and-identity]].
 
 ## The Participatory Realism Ambiguity
 

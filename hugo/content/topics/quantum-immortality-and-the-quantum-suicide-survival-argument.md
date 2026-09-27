@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-09-27 12:50:30+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-09-27 13:54:16+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[concepts/many-worlds]]'
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-08 10:26:12+00:00
-lastmod: 2026-09-27 12:50:30+00:00
+lastmod: 2026-09-27 13:54:16+00:00
 modified: *id001
 related_articles:
 - '[[death-and-consciousness]]'
@@ -93,6 +93,7 @@ The Map's [death-and-consciousness](/topics/death-and-consciousness/) article ca
 
 ## Further Reading
 
+- [diverging-worlds-everettianism](/concepts/diverging-worlds-everettianism/) — The diverging-worlds rival tested against the Map's anti-MWI case
 - [death-and-consciousness](/topics/death-and-consciousness/) — The general No-Many-Worlds objection to branch-survival and personal continuation
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — The measure problem in depth, and MWI's recovery strategies
 - [personal-identity](/topics/personal-identity/) — Why the dissolution depends on a non-deflationary "I"

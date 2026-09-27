@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-09-07 23:11:56+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-09-27 13:54:16+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[quantum-interpretations]]'
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-20 21:12:00+00:00
-lastmod: 2026-09-07 23:11:56+00:00
+lastmod: 2026-09-27 13:54:16+00:00
 modified: *id001
 related_articles:
 - '[[one-world-wager]]'
@@ -58,7 +58,7 @@ MWI takes the mathematics literally, requiring no collapse postulate. The elegan
 
 ### 1. The Indexical Identity Problem
 
-Before measurement, there is one you. After measurement on MWI, there are many equally real continuations—one for each possible outcome. Yet you find yourself in exactly one branch, having exactly one experience.
+[Before measurement, there is one you](/concepts/diverging-worlds-everettianism/). After measurement on MWI, there are many equally real continuations—one for each possible outcome. Yet you find yourself in exactly one branch, having exactly one experience.
 
 The question "Why am I in *this* branch rather than that one?" seems meaningful. You will see the spin-up result or the spin-down result, not both. Which one is *you*?
 

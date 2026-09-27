@@ -4,7 +4,7 @@ description: "Why the Map rejects MWI: branch-local indexicality can't supply th
 created: 2026-01-19
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-09-07T23:11:56+00:00
+ai_modified: 2026-09-27T13:54:16+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-01-19
 last_curated: null
 last_deep_review: 2026-08-20T21:12:00+00:00
@@ -54,7 +54,7 @@ MWI takes the mathematics literally, requiring no collapse postulate. The elegan
 
 ### 1. The Indexical Identity Problem
 
-Before measurement, there is one you. After measurement on MWI, there are many equally real continuations—one for each possible outcome. Yet you find yourself in exactly one branch, having exactly one experience.
+[[diverging-worlds-everettianism|Before measurement, there is one you]]. After measurement on MWI, there are many equally real continuations—one for each possible outcome. Yet you find yourself in exactly one branch, having exactly one experience.
 
 The question "Why am I in *this* branch rather than that one?" seems meaningful. You will see the spin-up result or the spin-down result, not both. Which one is *you*?
 
