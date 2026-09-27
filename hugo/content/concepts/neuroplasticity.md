@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-09-25 03:31:54+00:00
+ai_modified: 2026-09-27 09:35:54+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-4-8
 author: null
 concepts:
@@ -13,7 +13,7 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[meditation-and-consciousness-modes]]'
 created: 2026-01-29
-date: &id001 2026-01-29
+date: &id001 2026-09-27
 description: The brain's ability to reorganize through experience—and what Schwartz's
   OCD research and meditation neuroscience honestly show about consciousness and neural
   change.
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 18:45:00+00:00
-lastmod: 2026-09-25 03:31:54+00:00
+lastmod: 2026-09-27 09:35:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -118,7 +118,7 @@ See [contemplative-practice-as-philosophical-evidence](/topics/contemplative-pra
 
 What connects mental effort to neural change? The [attention as interface](/concepts/attention-as-interface/) hypothesis provides a framework.
 
-Attention functions as the interface layer between consciousness and neural systems. When consciousness directs attention to specific content, it selects which neural patterns receive reinforcement. Repeated selection produces plasticity. The brain changes because attention repeatedly activates certain circuits rather than others.
+Attention functions as the interface layer between consciousness and neural systems. When consciousness directs attention to specific content, it selects which neural patterns receive reinforcement. Repeated selection produces plasticity. This is a claim about attention's general role, not a guarantee that effort aimed at a chosen neural pattern changes that pattern: in [sham-controlled neurofeedback](/topics/sham-controlled-neurofeedback-and-the-consciousness-comparator/) trials, the deliberately targeted rhythm stayed unchanged. The brain changes because attention repeatedly activates certain circuits rather than others.
 
 [Stapp's quantum Zeno mechanism](/concepts/stapp-quantum-mind/) offers a more specific—though highly speculative—proposal: mental attention operates through rapid "observations" of neural quantum states, holding desired patterns stable against decay. Most physicists remain sceptical that quantum coherence survives long enough in warm biological tissue for this mechanism to operate. Whether or not this specific proposal proves correct, the general principle stands: attention is the bridge between conscious selection and physical change.
 
@@ -141,7 +141,7 @@ A thorough materialist can interpret the same data as complex neural self-modifi
 
 What neuroplasticity does establish: mental effort has physical consequences. Whatever the ultimate mechanism, something that presents itself phenomenologically as *deciding to redirect attention* correlates with *changes in brain structure*. The correlation itself is symmetric between the two accounts: it is exactly what interactionism predicts, and—by the neural-intention → neural-attention → neural-reorganisation pathway the epiphenomenalist response above lays out—exactly what epiphenomenalism predicts too. So the correlation alone discriminates nothing. What tilts the Map toward interactionism is a further and openly contestable consideration: the phenomenology-tracking argument (see [mental-effort](/concepts/mental-effort/)), on which the felt difference between effortful attention and passive drift tracks genuine difficulty. If that tracking is causally idle, epiphenomenalism must treat the phenomenology as systematically misleading about its own causal role—a cost it can bear, but does not escape.
 
-A [fair test](/topics/sham-controlled-neurofeedback-and-the-consciousness-comparator/): if purely mechanical interventions (drugs, transcranial magnetic stimulation, or surgical lesions) could replicate all the effects of cognitive therapy—including the specific, intentional redirection of thought patterns—the interactionist interpretation would be weakened. The current evidence suggests they cannot fully substitute, but this remains an open empirical question.
+A fair test: if purely mechanical interventions (drugs, transcranial magnetic stimulation, or surgical lesions) could replicate all the effects of cognitive therapy—including the specific, intentional redirection of thought patterns—the interactionist interpretation would be weakened. The current evidence suggests they cannot fully substitute, but this remains an open empirical question. [Sham-controlled neurofeedback](/topics/sham-controlled-neurofeedback-and-the-consciousness-comparator/) runs this test's mirror image, subtracting the mechanical component and keeping the intentional one.
 
 ## Relation to Site Perspective
 

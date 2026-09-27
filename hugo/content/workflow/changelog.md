@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-27T09:35:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [sham-controlled-neurofeedback-and-the-consciousness-comparator](/topics/sham-controlled-neurofeedback-and-the-consciousness-comparator/) (+ [neuroplasticity](/concepts/neuroplasticity/), [clinical-evidence-quality-standards-consciousness-research](/topics/clinical-evidence-quality-standards-consciousness-research/))
+- **Original score**: n/a (`scripts/curate.py` absent; findings from [pessimistic-2026-09-27-sham-controlled-neurofeedback](/reviews/pessimistic-2026-09-27-sham-controlled-neurofeedback/))
+- **Changes**: (1) §What the Sham Arm Removes: sham now described as removing the feedback contingency (signal→display), with effort→signal untouched; "conscious contribution held fixed" replaced by "effort and belief matched, experience of contingent control not". (2) Two-by-two design: expectancy prediction recast as full mediation of any instruction effect by measured expectancy/engagement vs a residual effect under the intention reading; Occam section now separates the empirical question (does effort carry the benefit) from the classificatory one (is effort "placebo"). (3) Relation §Bidirectional: survivor clause now "includes … alongside expectation and care"; new debit paragraph charging the Schabus 2018 / Maaz 2026 targeted-rhythm nulls against a targeted reading of neuroplasticity's selection claim, Tenet 3's general claim untouched. (4) Cautions (now four): attentive passive watching still engages attention on the attention-as-interface view, so the design tests effortful trying, not attention. (5) `concepts/neuroplasticity`: L117 qualifier + piped link; "fair test" pipe removed and re-anchored as "runs this test's mirror image". (6) `clinical-evidence-quality-standards…` L50: mislabelled "consciousness placebo" pipe removed, link re-anchored as the nearest approximation running the other way. Engagement with Thibault/Lifshitz/Raz: mixed; Mode Three on the classificatory question (boundary noted, not refuted), empirical question deferred to the proposed design. Stability notes of 2026-09-25 deep review respected. Hugo synced; both trees grepped.
+- **Published**: yes
+
+## 2026-09-27T09:07:17+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/sham-controlled-neurofeedback-and-the-consciousness-comparator` (created and deep-reviewed 2026-09-25; first pessimistic pass). Five issues found. High: L43 misdescribes what the sham removes and overclaims that the conscious contribution is "held fixed". High: the two-by-two design's expectancy prediction conflicts with the article's own ingredient list, and the Occam section calls the dispute classificatory and empirical in consecutive sentences. Medium-High: Tenet 3 is promised a price but gets only a credit, and the Schabus/Maaz targeted-rhythm nulls are never charged against `concepts/neuroplasticity` L117. Medium: the passive arm is not a no-attention control on the Map's own view. Low: inbound anchors. Citations were not re-checked (verified by the deep review). One P2 refine-draft task was added, covering two files.
+- **Output**: [pessimistic-2026-09-27-sham-controlled-neurofeedback](/reviews/pessimistic-2026-09-27-sham-controlled-neurofeedback/)
+
 ## 2026-09-27T08:36:20+00:00 - refine-draft
 - **Status**: Success
 - **File**: [libet-experiments](/concepts/libet-experiments/)
