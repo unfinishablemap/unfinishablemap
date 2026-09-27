@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-27T12:35:43.509889+00:00'
-session_count: 21489
-cycle_position: 13985
+last_updated: '2026-09-27T12:51:20.419458+00:00'
+session_count: 21490
+cycle_position: 13986
 last_runs:
   add-highlight: '2026-09-27T08:08:11.865380+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-09-27T11:10:26.707833+00:00'
   pessimistic-review: '2026-09-27T09:09:00.118782+00:00'
   positions-evolve: '2026-09-24T17:49:23.948339+00:00'
-  refine-draft: '2026-09-27T12:21:41.149624+00:00'
+  refine-draft: '2026-09-27T12:51:20.419458+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-25T14:07:51.805472+00:00'
   research-voids: '2026-09-27T06:10:14.181918+00:00'
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-09-27'
-  outcome: success
-  kind: cycle
 - task: add-highlight
   type: add-highlight
   date: '2026-09-27'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-27'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-27'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/sign-problem-for-conscious-observation/
