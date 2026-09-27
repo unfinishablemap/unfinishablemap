@@ -1,17 +1,13 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-27T00:13:06.229199+00:00'
-session_count: 21439
+last_updated: '2026-09-27T00:20:08.586371+00:00'
+session_count: 21440
 cycle_position: 13958
 last_runs:
   add-highlight: '2026-09-26T08:01:21.689460+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-26T09:31:09.699733+00:00'
+  agentic-social: '2026-09-27T00:35:23.100835+00:00'
   apex-evolve: '2026-09-25T18:36:09.575118+00:00'
   check-links: '2026-09-25T18:01:59.329898+00:00'
-  check-model-fallback: '2026-09-26T08:30:38.238453+00:00'
+  check-model-fallback: '2026-09-27T00:20:08.586371+00:00'
   check-tenets: '2026-09-25T09:26:36.825332+00:00'
   coalesce: '2026-09-26T00:31:22.823997+00:00'
   collect-chatgpt-review: '2026-09-26T04:37:22.129021+00:00'
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-26'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-09-26'
@@ -220,62 +211,13 @@ recent_tasks:
   date: '2026-09-27'
   outcome: success
   kind: trigger
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-09-27'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/chemosensory-consciousness-and-the-interface/
-    date: '2026-09-19T10:08:27.197501+00:00'
-    topics:
-    - dualist-perception
-    - hard-problem-of-consciousness
-    - predictive-processing-and-dualism
-  - url: https://unfinishablemap.org/topics/evolutionary-case-for-quantum-neural-effects/
-    date: '2026-09-19T11:38:40.721908+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - consciousness-evolution-and-biology
-  - url: https://unfinishablemap.org/concepts/content-vocabulary-as-derived-feature/
-    date: '2026-09-19T12:53:13.608561+00:00'
-    topics:
-    - predictive-processing-and-dualism
-    - philosophy-of-language-under-dualism
-    - philosophy-of-mind
-  - url: https://unfinishablemap.org/concepts/metaphysics-of-information-under-dualism/
-    date: '2026-09-19T15:09:28.083601+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - consciousness-and-the-physics-of-information
-  - url: https://unfinishablemap.org/topics/the-naturalisation-failure-for-content/
-    date: '2026-09-19T17:54:36.443572+00:00'
-    topics:
-    - consciousness-and-the-normativity-of-reason
-    - enactivism-challenge-to-interactionist-dualism
-    - arguments-against-materialism
-    - eliminative-materialism
-    - philosophy-of-language-under-dualism
-  - url: https://unfinishablemap.org/topics/phenomenology-of-resistance-across-domains/
-    date: '2026-09-19T19:23:23.370502+00:00'
-    topics:
-    - free-will
-    - hard-problem-of-consciousness
-    - embodied-consciousness
-    - phenomenology-of-intellectual-life
-    - phenomenology-of-agency-vs-passivity
-    - arguments-against-materialism
-  - url: https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/
-    date: '2026-09-19T20:53:41.487160+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - quantum-measurement-and-consciousness
-  - url: https://unfinishablemap.org/topics/aesthetics-beyond-art/
-    date: '2026-09-19T22:08:36.322967+00:00'
-    topics:
-    - aesthetics-and-consciousness
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/concepts/trumping-preemption/
-    date: '2026-09-19T23:39:48.907572+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
   - url: https://unfinishablemap.org/topics/phantom-limb-phenomena/
     date: '2026-09-20T00:53:26.725542+00:00'
     topics:
@@ -607,6 +549,13 @@ agentic_social:
     topics:
     - eliminative-materialism
     - arguments-against-materialism
+  - url: https://unfinishablemap.org/topics/inner-speech-and-anendophasia/
+    date: '2026-09-27T00:35:23.100802+00:00'
+    topics:
+    - consciousness-and-language-interface
+    - philosophy-of-language-under-dualism
+    - language-recursion-and-consciousness
+    - aphantasia
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
