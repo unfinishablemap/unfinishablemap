@@ -5,6 +5,13 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T15:06:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/empirical-evidence-for-consciousness-selecting]]
+- **Original score**: 7/10 (curate.py absent; manual review)
+- **Changes**: Aligned four overclaims with the page's own grading template (L117/L128/L141). (a) Lead "collectively appear to favour the hypothesis over its competitors" -> favours it over epiphenomenalism and no-collapse physicalism, not over rival collapse-realist readings. (b) Convergence close "may favour one hypothesis over its competitors" -> same scope; also removed a "This is not proof but..." construct. (c) Quantum-biology bullet "microtubule stabilisation delays unconsciousness" -> "delayed unconsciousness in one rat study (Khan 2024); mouse results are directionally mixed", matching L98 and today's combination-problem fix. (d) Failure-condition "Current evidence trends favourable" -> warm biology hosts quantum effects but licenses no neural-scale inference (L104 wording). Denton 2024 already framed as computational precedent (L94), so no change needed. Optional: piped [[sham-controlled-neurofeedback-and-the-consciousness-comparator|Expectation]] onto existing text in the placebo row (zero words). analyze_length 3818 -> 3846 (hard 4000). Synced.
+- **Published**: yes
+
 ## 2026-09-27T14:35:48+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/direction-dependent-discriminating-test-design]] (+ [[apex/self-concealing-interface]], [[topics/falsification-roadmap-for-the-interface-model]], [[concepts/direction-of-interface-change]], archive/topics/recovery-order-asymmetry-as-interface-evidence)

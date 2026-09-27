@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-09-27 09:55:13+00:00
+ai_modified: 2026-09-27 15:06:18+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 19:14:22+00:00
-lastmod: 2026-09-27 09:55:13+00:00
+lastmod: 2026-09-27 15:06:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,7 +42,7 @@ topics:
 - '[[free-will]]'
 ---
 
-No single experiment proves consciousness selects among quantum outcomes in the brain. The Unfinishable Map does not claim otherwise. What exists is a convergence of independent empirical lines—evolutionary, cognitive, neurological, and quantum-biological—that collectively appear to favour the hypothesis over its competitors. Each line constrains the alternatives. Together they may narrow the viable options until [consciousness-selecting](/concepts/consciousness-selecting-neural-patterns/) emerges as one coherent explanation that survives the constraints jointly—though, as discussed below, the evidence does not decisively adjudicate between it and certain rival readings.
+No single experiment proves consciousness selects among quantum outcomes in the brain. The Unfinishable Map does not claim otherwise. What exists is a convergence of independent empirical lines—evolutionary, cognitive, neurological, and quantum-biological—that collectively favour the hypothesis over epiphenomenalism and no-collapse physicalism, though not over rival collapse-realist readings. Each line constrains the alternatives. Together they may narrow the viable options until [consciousness-selecting](/concepts/consciousness-selecting-neural-patterns/) emerges as one coherent explanation that survives the constraints jointly—though, as discussed below, the evidence does not decisively adjudicate between it and certain rival readings.
 
 This article assembles the evidence in one place, distinguishes what each line plausibly supports from what it merely suggests, and identifies where the empirical gaps remain.
 
@@ -106,7 +106,7 @@ The quantum-biological line supports the following claims:
 
 - **Warm biology can host quantum effects.** That refutes the categorical objection but licenses no neural-scale inference.
 - **Evolution may have tuned quantum effects in specific systems.** If it has for navigation and catalysis, the neural case cannot be ruled out a priori.
-- **Microtubule quantum effects may correlate with consciousness.** Anaesthetics appear to disrupt both, and microtubule stabilisation delays unconsciousness.
+- **Microtubule quantum effects may correlate with consciousness.** Anaesthetics appear to disrupt both, and microtubule stabilisation delayed unconsciousness in one rat study (Khan 2024); mouse results are directionally mixed.
 - **Decoherence does not solve the measurement problem.** The conceptual opening for consciousness at collapse survives regardless of coherence timescales.
 
 **What the quantum-biological line does not establish:** That neural quantum effects are functionally operative in consciousness specifically. The microtubule-anaesthetic correlations are suggestive, not conclusive—anaesthetics affect many cellular targets. No experiment has demonstrated that disrupting neural quantum effects selectively impairs consciousness while leaving other functions intact. A 2026 *Frontiers in Psychology* critical review of quantum-consciousness theories sets the standard the line has not yet met: a theory needs demonstrated physical feasibility, a *bridge principle* linking the quantum process to phenomenal character, and discriminating tests. Quantum feasibility in biology, even granted in full, is not by itself a bridge to subjectivity—the missing bridge is exactly the [explanatory-gap](/concepts/explanatory-gap/) the further philosophical arguments must close, not something the quantum-biological evidence supplies.
@@ -124,7 +124,7 @@ A line of evidence should be credited only with the *weakest* claim it establish
 | Evolutionary (James; valence-significance correlation) | supports-mental-causation | Non-reductive physicalist: mental causation without non-physicality. Illusionist: selection pressure shaped functional reactivity; "phenomenal valence" is a useful but non-fundamental gloss. |
 | Comparative cognition (DeWall 2008; ape gap) | supports-mental-causation | Conscious access is a physical broadcast/global-workspace function; reasoning depends on it because it depends on that mechanism, not on anything non-physical. |
 | Neurological dissociations (Desmurget 2009; Sjöberg 2024; Schwartz 1996; Rajan 2019) | supports-mental-causation | Willed and automatic processing recruit distinct but wholly classical circuits; the OCD/PET reframing is Hebbian plasticity. No quantum step is implied. |
-| Placebo & choking ([the two-sided empirical case](/topics/empirical-phenomena-mental-causation/); Büchel 2014; Beilock & Carr 2001) | supports-mental-causation | Expectation as a precision-weighted prior (predictive coding) and explicit-monitoring reinvestment predict the effects without phenomenal causation; the data fix only access-level content- and mode-specificity. No discriminator isolates *felt* engagement from estimated precision, so the line cannot be graded above mental causation. |
+| Placebo & choking ([the two-sided empirical case](/topics/empirical-phenomena-mental-causation/); Büchel 2014; Beilock & Carr 2001) | supports-mental-causation | [Expectation](/topics/sham-controlled-neurofeedback-and-the-consciousness-comparator/) as a precision-weighted prior (predictive coding) and explicit-monitoring reinvestment predict the effects without phenomenal causation; the data fix only access-level content- and mode-specificity. No discriminator isolates *felt* engagement from estimated precision, so the line cannot be graded above mental causation. |
 | Quantum biology (cryptochrome, tunnelling, microtubule clues) | supports-substrate-relevance | Quantum effects occur in biology but are functionally local; microtubule–anaesthesia links are non-specific (anaesthetics hit many targets, and the 2025 *BMC Anesthesiology* results are directionally mixed). No bridge to experience. |
 | Measurement problem (Schlosshauer 2019) | establishes-possibility | An interpretive underdetermination of physics, not a demonstrated gap in the *theory of consciousness*; no-collapse and other collapse-realist readings fill it without consciousness. |
 
@@ -143,7 +143,7 @@ Together, however, the lines constrain the space of viable theories:
 
 Read this way, the table establishes less than its visual logic might suggest. Classical no-collapse physicalism accommodates the first three lines but has no account of why definite quantum outcomes occur—and if quantum effects are functionally relevant in neural tissue (as the fourth line suggests), that gap becomes a gap in the theory of consciousness itself, not merely in physics. Epiphenomenalism fails the first three lines outright. Consciousness-selecting is compatible with all four—but so is every other collapse-realist interpretation. The convergence removes a competitor and leaves consciousness-selecting *among the surviving candidates*; singling it out from its true rivals is separate work.
 
-This is not proof but convergent evidence that may favour one hypothesis over its competitors—the structure by which many scientific conclusions are reached. No single observation settles continental drift, yet the convergence of geological, palaeontological, magnetic, and geodetic evidence leaves plate tectonics the most coherent surviving explanation. The parallel is suggestive rather than decisive: the convergence narrows the field without uniquely picking one theory out, and a determined classical physicalist may still construct accounts compatible with the same observations.
+The result is convergent evidence that favours consciousness-selecting over epiphenomenalism and no-collapse physicalism, not over collapse-realist rivals—the structure by which many scientific conclusions are reached. No single observation settles continental drift, yet the convergence of geological, palaeontological, magnetic, and geodetic evidence leaves plate tectonics the most coherent surviving explanation. The parallel is suggestive rather than decisive: the convergence narrows the field without uniquely picking one theory out, and a determined classical physicalist may still construct accounts compatible with the same observations.
 
 ## What Would Weaken the Case
 
@@ -153,7 +153,7 @@ Two of the four defeaters below describe a *rival* becoming more attractive—cl
 
 **Classical consciousness theory succeeds.** If a purely computational account explains the binding problem, the unity of consciousness, phenomenal effort, and the willed/automatic distinction—without invoking quantum effects—parsimony favours it. No such account currently exists.
 
-**Neural quantum effects prove absent.** If refined experiments demonstrate no quantum effects at any functionally relevant timescale in living neurons, the substrate for consciousness-selecting disappears. Current evidence trends favourable, but the question is open.
+**Neural quantum effects prove absent.** If refined experiments demonstrate no quantum effects at any functionally relevant timescale in living neurons, the substrate for consciousness-selecting disappears. Current evidence shows warm biology can host quantum effects but licenses no neural-scale inference; the question is open.
 
 **Epiphenomenalism finds a mechanism for correlation.** If someone explains why phenomenal valence systematically tracks biological significance without invoking mental causation, the evolutionary argument weakens. No such explanation has been offered.
 
