@@ -4,7 +4,7 @@ description: "Dopamine serves both attention and motor systems because these sys
 created: 2026-02-04
 modified: 2026-02-04
 human_modified: null
-ai_modified: 2026-07-19T21:07:43+00:00
+ai_modified: 2026-09-27T15:22:23+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -34,7 +34,7 @@ The [[attention-as-interface]] is where consciousness may select among possibili
 
 ### From Perception to Action
 
-Dopamine mediates *salience*—the process by which stimuli or internal states gain prominence and capture cognitive and behavioral resources. Research on dopamine-deficient animals reveals a striking dissociation: genetically engineered mice lacking dopamine (Palmiter 2008) and rats with 6-OHDA lesions (Ungerstedt 1971) remain awake and capable of movement when externally triggered, yet cannot spontaneously attend to salient information, integrate it with prior experience, or initiate appropriate actions. The behavioral profile resembles a system that can execute but cannot select.
+Dopamine mediates *salience*—the process by which stimuli or internal states gain prominence and capture cognitive and behavioral resources. Research on dopamine-deficient animals reveals a striking dissociation: genetically engineered mice lacking dopamine (Palmiter 2008, 2011) and rats with 6-OHDA lesions (Ungerstedt 1971) remain awake and capable of movement when externally triggered, yet cannot spontaneously attend to salient information, integrate it with prior experience, or initiate appropriate actions. The behavioral profile resembles a system that can execute but cannot select.
 
 This is the salience bridge at work. Dopamine converts neutral stimuli into entities that pull for attention and action:
 
@@ -77,9 +77,9 @@ On this model, consciousness operates at the third layer—selecting among optio
 
 The obvious objection is that the "selection layer" is simply further neural computation. Specific models make this case in detail. The GPR model (Gurney, Prescott & Redgrave 2001) treats the basal ganglia as a feedforward off-centre on-surround network where lateral inhibition between competing action channels produces a winner. Frank's Go/NoGo model (2005, 2006) adds reinforcement learning: D1-expressing "Go" neurons and D2-expressing "NoGo" neurons accumulate evidence for and against each action, with dopamine biasing the balance. Both models resolve selection through competitive dynamics—no residual selector is needed.
 
-These models handle routine, well-learned action selection convincingly. But three empirical patterns resist this treatment:
+These models handle routine, well-learned action selection convincingly. Three empirical patterns are harder for them, though none is decisive:
 
-**The volitional-automatic dissociation.** Parkinson's patients lose volitional movement while retaining reflexes, automatic gait, and externally cued action. Competitive dynamics models treat all selection uniformly—they have no principled basis for why dopamine depletion would disable deliberate choice while leaving habitual and reflexive selection intact. Frank's model partially addresses this by distinguishing Go/NoGo learning rates, but the qualitative divide between volitional and automatic action is not an adjustable parameter in any current model.
+**The self-initiated/externally cued asymmetry.** Parkinson's patients struggle most to initiate self-generated movement, while reflexes and externally cued action are comparatively spared. On the Map's reading, dopamine depletion disables deliberate choice while leaving cue-triggered selection intact, which models that treat all selection uniformly do not predict. That reading is contested. Redgrave et al. (2010) argue that the dopamine loss falls predominantly on the posterior putamen, the territory associated with *habitual* control, so patients lose normal automatic control and are forced onto a comparatively preserved goal-directed mode. Freezing of gait, a breakdown of highly automatic behaviour, fits their account better than a willed-only deficit. Their segregated goal-directed and habitual territories also give dopamine loss a principled, anatomically specific profile inside a neural framework. Both readings accept the asymmetry between self-initiated and cued action; they dispute whether the impaired side is willed choice or habit. The pattern therefore poses a question the Map's reading must answer against a live rival rather than supplying a datum competitive dynamics cannot handle.
 
 **Deliberate override of learned associations.** Humans can choose against strongly rewarded options—selecting the less-practiced, lower-value action when context demands it. Frank's 2006 model introduced the subthalamic nucleus as a "hold your horses" signal that delays action when conflict is high. But delaying is not the same as selecting: the STN raises the threshold globally, buying time for striatal dynamics to settle, yet what determines which option ultimately wins when two are closely matched remains noise in these models. The Map proposes that what the models attribute to noise is the locus of conscious selection.
 
@@ -119,7 +119,7 @@ Sustaining attention feels effortful. Initiating willed movement feels effortful
 
 If attention and motor planning are separate systems, this parallel requires explanation. Why would two independent processes feel the same way?
 
-If attention and motor planning are one system, the parallel is expected. Effort is what conscious engagement with the selection mechanism feels like, whether that selection concerns what to perceive or what to do.
+If attention and motor planning are one system, the parallel is expected. Effort is what conscious engagement with the selection mechanism feels like, whether that selection concerns what to perceive or what to do. Whether that engagement does causal work, rather than merely accompanying it, is a separate question; [[sham-controlled-neurofeedback-and-the-consciousness-comparator|sham-controlled neurofeedback]] is one place it is being tested.
 
 Dopamine's role clarifies this further. The "wanting" phenomenology—the felt pull toward valued options—correlates with dopamine but is experienced across both domains:
 
@@ -151,11 +151,11 @@ Both L-DOPA (dopamine restoration) and electrical stimulation produce the beta-t
 
 ### Theta as Selection Window
 
-Frontal theta oscillations mark willed attention (Rajan et al. 2019) and motor preparation. This convergence matters:
+Frontal theta power and fronto-parietal coherence are greater when visuospatial attention is internally chosen rather than instructed (Rajan et al. 2019), and in Parkinson's the prokinetic theta shift accompanies faster volitional movement initiation (Köhler et al. 2024). The two findings come from different paradigms; neither compared chosen with instructed action in the other domain. The convergence is suggestive:
 
 1. Theta provides a timing substrate—each 100-250ms cycle could contain selection events
 2. Dopamine promotes the theta state
-3. Both attention and motor selection occur within theta windows
+3. Attention and motor initiation both have theta-band correlates, making theta a candidate shared timing window
 
 If consciousness selects through something like the [[stapp-quantum-mind|quantum Zeno mechanism]]—one proposed but speculative model—theta cycles may provide the timing window in which attention "observes" competing neural patterns. Dopamine doesn't perform the observation; it creates the neural conditions (the theta state) in which observation could operate. Other mechanisms for consciousness-brain interaction remain possible; what matters here is that dopamine's role is preparatory rather than selective.
 
@@ -171,29 +171,29 @@ Parkinson's disease, with its progressive dopamine depletion, provides a window 
 
 **Freezing of gait**: Mid-stride arrest, resolved by external cues. Internal selection mechanism fails; external triggers bypass it.
 
-**Preserved reflexes**: Automatic movements intact. Only willed action impaired.
+**Relatively preserved reflexes and cued movement**: Reflexes and externally triggered movements are comparatively spared; self-initiated action is most impaired.
 
-The selectivity is telling. Parkinson's doesn't disable movement—it disables willed movement. The motor circuitry works; the selection interface that engages that circuitry is compromised. This dissociation between volitional and automatic action is central to the broader case for [[volitional-control|volitional control as genuine causal influence]]. See [[consciousness-and-neurodegenerative-disease]] for what progressive dopamine loss reveals about the mind-brain relationship more broadly.
+The selectivity is telling, though its reading is contested. Parkinson's does not abolish movement; it most impairs self-initiated movement. On the Map's reading, the motor circuitry works and the selection interface that engages it is compromised. On the habitual-control reading (Redgrave et al. 2010, discussed [[#What Computational Models Leave Unexplained|above]]), automatic control is what fails and patients fall back on effortful goal-directed control. This asymmetry between volitional and automatic action is central to the broader case for [[volitional-control|volitional control as genuine causal influence]]. See [[consciousness-and-neurodegenerative-disease]] for what progressive dopamine loss reveals about the mind-brain relationship more broadly.
 
 ### External Cues as Bypass
 
 Parkinson's patients who freeze can step over a visual obstacle or follow a rhythmic cue. Why? External stimuli bypass the impaired selection mechanism.
 
-In the unified interface framework: external cues directly trigger motor representations without requiring conscious selection among competing options. The dopamine-dependent threshold mechanism is circumvented. This explains why automatic movements (which don't require selection) are preserved while volitional movements (which do) are impaired.
+In the unified interface framework, external cues directly trigger motor representations without requiring conscious selection among competing options, circumventing the dopamine-dependent threshold mechanism. Movements that are triggered rather than chosen would then escape the deficit while self-initiated ones do not. The habitual-control reading explains the same cue benefit differently: cues recruit the goal-directed route, which remains comparatively intact.
 
 ## Relation to Site Perspective
 
 ### Dualism
 
-The unified interface supports [[tenets#^dualism|Dualism]]. If dopamine marked options *and* selected among them, the system would be closed. But dopamine's role is preparatory—it creates selectable options without determining the selection. The selector, operating on dopamine-prepared options, may be consciousness.
+The unified interface is compatible with [[tenets#^dualism|Dualism]] and gives it a candidate locus. If dopamine marked options *and* selected among them, there would be no residual role for a selector. But dopamine's role is preparatory—it creates selectable options without determining the selection. That leaves the selection to something. The GPR and Frank models assign it to competitive neural dynamics; the Map proposes that consciousness may bias the residual those models treat as noise. The dopamine evidence alone does not decide between them.
 
-The phenomenology reinforces this. Why does wanting feel like something? Dopamine correlates with wanting, but correlation doesn't explain phenomenal character. The experience of being drawn toward valued options—the felt pull of salience—is not a neural computation but a conscious state.
+The phenomenology is where the Map's case rests. Why does wanting feel like something? Dopamine correlates with wanting, but no current account explains why that correlate is accompanied by a felt pull toward valued options. That explanatory gap, not any dopamine datum, is what the Dualism tenet draws on here.
 
 ### Bidirectional Interaction
 
 If consciousness selects among dopamine-marked options, the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet is satisfied. Dopamine provides the brain-to-consciousness direction: what's marked as salient becomes available for conscious consideration. Consciousness provides the consciousness-to-brain direction: selection among marked options determines which neural pattern actualizes.
 
-The dopamine-deficient state—"virtually unconscious behaviorally"—shows what happens when the brain-to-consciousness channel fails. Options aren't marked; there's nothing to select among.
+Palmiter (2011) describes dopamine-deficient mice as "clearly conscious from a general anesthetic point of view" yet appearing "virtually unconscious from a behavioral point of view". That is a description of behaviour: the mice are awake and respond to stimuli but do not attend, learn, or choose. On the Map's reading, this is what a failure of the brain-to-consciousness channel would look like—options aren't marked, so there is nothing to select among. The observation fits equally well a reading on which dopamine loss disables a wholly neural selection system.
 
 ### Minimal Quantum Interaction
 
@@ -212,7 +212,7 @@ The selection framework requires genuine collapse. If all quantum branches actua
 
 ### Occam's Razor Has Limits
 
-The parsimonious reading—dopamine modulates thresholds, neural dynamics do the rest, and consciousness is epiphenomenal—cannot explain why the willed/automatic dissociation exists neurally (preserved reflexes but impaired volitional action in Parkinson's), or why the phenomenology of effort tracks dopamine-dependent selection difficulty. The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies: the simpler account leaves the most informative data unexplained.
+The strongest parsimonious rival is non-reductive physicalism with mental causation: dopamine modulates thresholds, neural dynamics do the rest, and selection's conscious character is an aspect of a physically realised, causally active control process. That view predicts the same covariation between felt effort, selection difficulty, and dopamine-dependent function, and for the Parkinson's asymmetry it offers the habitual-control reading. What it has no current account of is why that control process is felt at all. The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies there: the data do not refute the simpler account, but its simplicity is bought by leaving phenomenal character unaddressed, which is where the disagreement reaches bedrock.
 
 ### An Honest Limitation
 
@@ -252,12 +252,16 @@ What dopamine research provides is a candidate locus and a constraint: whatever 
 
 8. Palmiter, R.D. (2008). Dopamine signaling in the dorsal striatum is essential for motivated behaviors: Lessons from dopamine-deficient mice. *Annals of the New York Academy of Sciences*, 1129, 35-46.
 
-9. Ungerstedt, U. (1971). Adipsia and aphagia after 6-hydroxydopamine induced degeneration of the nigro-striatal dopamine system. *Acta Physiologica Scandinavica*, 82(S367), 95-122.
+9. Palmiter, R.D. (2011). Dopamine signaling as a neural correlate of consciousness. *Neuroscience*, 198, 213-220. https://doi.org/10.1016/j.neuroscience.2011.06.089
 
-10. Robbins, T.W. & Everitt, B.J. (2007). A role for mesencephalic dopamine in activation: Commentary on Berridge (2006). *Psychopharmacology*, 191(3), 433-437.
+10. Ungerstedt, U. (1971). Adipsia and aphagia after 6-hydroxydopamine induced degeneration of the nigro-striatal dopamine system. *Acta Physiologica Scandinavica*, 82(S367), 95-122.
 
-11. Gurney, K., Prescott, T.J., & Redgrave, P. (2001). A computational model of action selection in the basal ganglia. I. A new functional anatomy. *Biological Cybernetics*, 84(6), 401-410.
+11. Robbins, T.W. & Everitt, B.J. (2007). A role for mesencephalic dopamine in activation: Commentary on Berridge (2006). *Psychopharmacology*, 191(3), 433-437.
 
-12. Frank, M.J. (2005). Dynamic dopamine modulation in the basal ganglia: A neurocomputational account of cognitive deficits in medicated and nonmedicated Parkinsonism. *Journal of Cognitive Neuroscience*, 17(1), 51-72.
+12. Gurney, K., Prescott, T.J., & Redgrave, P. (2001). A computational model of action selection in the basal ganglia. I. A new functional anatomy. *Biological Cybernetics*, 84(6), 401-410.
 
-13. Frank, M.J. (2006). Hold your horses: A dynamic computational role for the subthalamic nucleus in decision making. *Neural Networks*, 19(8), 1120-1136.
+13. Frank, M.J. (2005). Dynamic dopamine modulation in the basal ganglia: A neurocomputational account of cognitive deficits in medicated and nonmedicated Parkinsonism. *Journal of Cognitive Neuroscience*, 17(1), 51-72.
+
+14. Frank, M.J. (2006). Hold your horses: A dynamic computational role for the subthalamic nucleus in decision making. *Neural Networks*, 19(8), 1120-1136.
+
+15. Redgrave, P., Rodriguez, M., Smith, Y., Rodriguez-Oroz, M.C., Lehericy, S., Bergman, H., Agid, Y., DeLong, M.R., & Obeso, J.A. (2010). Goal-directed and habitual control in the basal ganglia: implications for Parkinson's disease. *Nature Reviews Neuroscience*, 11(11), 760-772. https://doi.org/10.1038/nrn2915

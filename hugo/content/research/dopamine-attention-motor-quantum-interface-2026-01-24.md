@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-08-08 19:53:54+00:00
+ai_modified: 2026-09-27 15:23:54+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-24
 date: &id001 2026-01-24
 draft: false
-lastmod: 2026-08-08 19:53:54+00:00
+lastmod: 2026-09-27 15:23:54+00:00
 modified: *id001
 related_articles: []
 title: Research Notes - Dopamine's Dual Role in Attention-Motor-Quantum Interface
@@ -71,7 +71,7 @@ The "wanting vs. liking" distinction (Berridge & Robinson) shows dopamine mediat
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC11223727/
 - **Type**: Review article
 - **Key points**:
-  - Dopamine-deficient mice are "virtually unconscious behaviorally" despite being awake
+  - Dopamine-deficient mice are "virtually unconscious behaviorally" despite being awake *(2026-09-27 note: paraphrase, not verbatim and not in PMC11223727; the source wording is Palmiter 2011, Neuroscience 198:213-220: "virtually unconscious from a behavioral point of view")*
   - They cannot attend to salient sensory information or choose appropriate actions
   - PET studies correlate striatal dopamine with visual consciousness
   - Increased striatal dopamine precedes hallucination-like percepts in mice

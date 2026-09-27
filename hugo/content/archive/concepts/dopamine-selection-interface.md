@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-08-19 18:54:54+00:00
+ai_modified: 2026-09-27 15:23:54+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5
 archive_reason: Coalesced into Motor Selection and the Attention-Motor Interface
 archived: true
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-26 12:27:42+00:00
-lastmod: 2026-08-19 18:54:54+00:00
+lastmod: 2026-09-27 15:23:54+00:00
 modified: *id001
 original_path: /concepts/dopamine-selection-interface/
 related_articles:
@@ -49,7 +49,7 @@ Palmiter's dopamine-deficient mice demonstrate a clean dissociation:
 - **Without dopamine**: Motor neurons fire normally. Reflexes work. The mice can be made to run on a treadmill with external stimulation. Motor *capacity* is preserved.
 - **What's missing**: Spontaneous movement. Goal-directed behavior. The initiative to engage the intact motor system.
 
-These mice are "virtually unconscious behaviorally" despite being awake. They cannot attend to salient sensory information or choose appropriate actions. The defect isn't motor—it's motivational.
+Palmiter (2011) describes these mice as "clearly conscious from a general anesthetic point of view" yet appearing "to be virtually unconscious from a behavioral point of view." They cannot attend to salient sensory information or choose appropriate actions. The defect isn't motor—it's motivational.
 
 This pattern recurs in Parkinson's disease. Akinesia (difficulty initiating movement) and bradykinesia (slow movement) are cardinal symptoms. Yet Parkinson's patients can perform rapid movements when externally triggered—caught off guard, they may catch a ball with normal reflexes. The motor system works; something upstream in selection is compromised.
 

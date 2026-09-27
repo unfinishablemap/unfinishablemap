@@ -4,7 +4,7 @@ description: "Dopamine marks what is worth pursuing and sets action thresholds. 
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-08-19T18:54:54+00:00
+ai_modified: 2026-09-27T15:23:54+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -46,7 +46,7 @@ Palmiter's dopamine-deficient mice demonstrate a clean dissociation:
 - **Without dopamine**: Motor neurons fire normally. Reflexes work. The mice can be made to run on a treadmill with external stimulation. Motor *capacity* is preserved.
 - **What's missing**: Spontaneous movement. Goal-directed behavior. The initiative to engage the intact motor system.
 
-These mice are "virtually unconscious behaviorally" despite being awake. They cannot attend to salient sensory information or choose appropriate actions. The defect isn't motor—it's motivational.
+Palmiter (2011) describes these mice as "clearly conscious from a general anesthetic point of view" yet appearing "to be virtually unconscious from a behavioral point of view." They cannot attend to salient sensory information or choose appropriate actions. The defect isn't motor—it's motivational.
 
 This pattern recurs in Parkinson's disease. Akinesia (difficulty initiating movement) and bradykinesia (slow movement) are cardinal symptoms. Yet Parkinson's patients can perform rapid movements when externally triggered—caught off guard, they may catch a ball with normal reflexes. The motor system works; something upstream in selection is compromised.
 
