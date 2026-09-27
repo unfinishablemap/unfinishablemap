@@ -5,6 +5,13 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T19:38:18+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Donald's and Georgiev's critiques of Stapp's Process 1 (projection basis and timing; Zeno breakdown beyond decoherence time)
+- **Output**: [[research/stapp-process-1-basis-timing-critiques-2026-09-27]]
+- **Sources consulted**: 7 (Donald 2003 full; Georgiev 2015 IJMPB full; Stapp 2012 reply full (draft); de Barros 2014 full; Georgiev 2015 NQ, Stapp 2015 NQ, Georgiev 2012 abstract/metadata)
+- **Key findings**: Georgiev's no-go is a basis dilemma conditional on Born-consistent collapse (targets the question-choice row directly); Stapp 2012 concedes the coordinate basis; de Barros/Laskey narrow Process 1 to consent/timing; Donald's uncredited boundary question ("prey in the ocean") bears on brain-specialness-boundary. Recommends a new concept page (stapp-quantum-mind 4040w hard_warning). Passing defect: coupling-modes L189 mis-cites Georgiev 2015 as "& Glazebrook", 29(15).
+
 ## 2026-09-27T19:05:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/born-preserving-causal-efficacy]] (multi-file propagation of the P-Q3 2026-09-27 correction)

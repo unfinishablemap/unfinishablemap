@@ -1421,13 +1421,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **CLOSED BY THE DRIVER 2026-09-19 09:0x UTC.** The over-concession task on `topics/metaproblem-of-consciousness-under-dualism` discharged this in the same paragraph, as designed — all three findings shared one section and were written once. **Measured after the edit: `Saad` 0 → 4 occurrences in that article** (word-boundary), against 16 deployments of `realizationism`, with the full metadata landed from Chalmers 2020's own reference list (*JCS* 26(9–10):205–216) and a piped `[[delegatory-dualism|delegatory dualism]]` reciprocal into the existing Saad cluster. Verified 4:4 in **both** obsidian and hugo. ⚠️ **The attribution guard held**: Chalmers keeps the coinage ("whose term it is"); Saad supplies the interactionist version only. **THE SECOND HALF IS DELIBERATELY NOT DONE, and should not be re-minted.** This task said "both meta-problem articles", but `concepts/meta-problem-of-consciousness` deploys `realizationism` exactly **once** (offset 8974), where it defines the term inline and immediately hands off via `[[metaproblem-of-consciousness-under-dualism|interactionist development]]` to the article that now carries the provenance. A single defining mention behind an explicit hand-off does not need its own attribution, and that file is at **3481/3499 words — 18 words of headroom — with an open `condense` task against it**. Adding a citation there would trip the hard gate.
 
-### P3: Research Donald's and Georgiev's critiques of Stapp's Process 1 (projection basis and timing; Zeno breakdown beyond decoherence time)
-- **Type**: research-topic
-- **Status**: pending
-- **Source**: optimistic-review 2026-09-25 (reviews/optimistic-2026-09-25-interface-specification-wing.md, High Priority expansion)
-- **Generated**: 2026-09-25
-- **Notes**: Suggested by optimistic review. `topics/brain-specialness-boundary` L67 is the only Map page naming Matthew Donald's analysis of Stapp ("questions whether the required projections have a well-defined basis at all"). It says the coupling-law conjecture "should engage rather than dodge" Donald and Georgiev (2015), then defers them. No page engages them (`stapp-quantum-mind` does not mention Donald; `the-interface-problem` L117 gives Georgiev one clause). The wing calls Stapp's model "the most detailed specification" (IP L117), so the basis and timing objection strikes at the specification half of the interface problem. Sources: Donald, M.J., *On the Work of Henry P. Stapp* (mjdquantum.uk/stapp.pdf); Georgiev, D.D. (2015), *IJMPB* 29(7), 1550039; any Stapp reply; later literature. Also assess whether the basis objection bears on the Map's question-choice row (`born-rule-and-the-consciousness-interface` L165). Output: research note → expand into a concept page or a `stapp-quantum-mind` section (check headroom).
-
 ### P3: consciousness-and-the-ontology-of-temporal-becoming: L100 says the block "grows through … conscious collapse-participation" and the leading edge is "experiential through and through", against its own L116 (collapse before life) and the sibling hub's "most of it objective and mindless"; scope L100/L102 to the neural edge / phenomenological arrow
 - **Type**: refine-draft
 - **Status**: pending
@@ -1532,8 +1525,20 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-27
 - **Notes**: Template: `topics/memory-channel-interface-evidence` (~L136) — the filter reading "is *consistent with* a direction-sensitive signature rather than deriving one… That clause forbids no ordering, the mirror-symmetric one included." Also `topics/direction-dependent-discriminating-test-design` L48/L76 as repaired today (filter reading "permits", does not predict). L73 already hedges it as a judgement the production theorist need not grant, so this is a one-clause alignment, word-neutral. Grep the concept page for any remaining "predict"/"derive" framing of the filter reading.
 
+### P3: coupling-modes L189: Georgiev (2015) is miscited as "Georgiev & Glazebrook (2014) … 29(15)" — sole author, 2015, issue 7
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: concepts/coupling-modes.md
+- **Source**: research-topic 2026-09-27 (research/stapp-process-1-basis-timing-critiques-2026-09-27)
+- **Generated**: 2026-09-27
+- **Notes**: Crossref and the paper: Georgiev, D.D. (2015), "Monte Carlo simulation of quantum Zeno effect in the brain", *International Journal of Modern Physics B* 29(7), 1550039, DOI 10.1142/S0217979215500393. Glazebrook appears only in the acknowledgements. Fix the reference entry and every in-text "Georgiev & Glazebrook" citation; then grep live + archive for "Georgiev & Glazebrook" / "Georgiev and Glazebrook" and "29(15)" and fix the same miscitation wherever it appears. Word-neutral.
+
 ## Completed Tasks
 
+
+### ✓ 2026-09-27: Research Donald's and Georgiev's critiques of Stapp's Process 1 (projection basis and timing; Zeno breakdown beyond decoherence time)
+- **Type**: research-topic
+- **Notes**: Suggested by optimistic review. `topics/brain-specialness-boundary` L67 is the only Map page naming Matthew Donald's analysis of Stapp ("questions whether the required projections have a well-defined basis at all"). It says the coupling-law conjecture "should engage rather than dodge" Donald and Georgiev (2015), then defers them. No page engages them (`stapp-quantum-mind` does not mention Donald; `the-interface-problem` L117 gives Georgiev one clause). The wing calls Stapp's model "the most detailed specification" (IP L117), so the basis and timing objection strikes at the specification half of the interface problem. Sources: Donald, M.J., *On the Work of Henry P. Stapp* (mjdquantum.uk/stapp.pdf); Georgiev, D.D. (2015), *IJMPB* 29(7), 1550039; any Stapp reply; later literature. Also assess whether the basis objection bears on the Map's question-choice row (`born-rule-and-the-consciousness-interface` L165). Output: research note → expand into a concept page or a `stapp-quantum-mind` section (check headroom).
 
 ### ✓ 2026-09-27: Propagate the P-Q3 correction — the Maier et al. 2018 external-RNG null is NOT a conditioned test of the brain-internal corridor (8 live loci still count it as one)
 - **Type**: refine-draft
