@@ -4,7 +4,7 @@ description: "Brains meet five criteria for consciousness interfaces while exter
 created: 2026-01-16
 modified: 2026-02-22
 human_modified: null
-ai_modified: 2026-09-27T16:06:15+00:00
+ai_modified: 2026-09-27T17:05:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -121,7 +121,7 @@ Evolution explains *why brains have these features*—selection pressure for beh
 
 A functionalist objects: four of the five criteria describe functional features implementable in non-biological substrates. Is quantum sensitivity doing the essential work?
 
-The Map's framework suggests quantum sensitivity is essential but not sufficient. Without it, there's no opening for non-physical selection—the system would be causally closed, and consciousness (if present) would be epiphenomenal. The other four criteria explain why selection, once physically possible, is *directed* rather than arbitrary. Quantum sensitivity provides the *possibility* of selection; the other four provide the *structure* for meaningful selection. Whether a future artificial system meeting all five criteria would be conscious is a genuine open question.
+On the selection reading, the Map's framework suggests quantum sensitivity is essential but not sufficient. Without it, there's no opening for non-physical selection—the system would be causally closed, and consciousness (if present) could not steer outcomes. The exception is [[trumping-preemption|trumping]], where consciousness is the authoritative cause of a physically sufficient trajectory and exploits no indeterminacy, at the price of leaving no distinctive signature. The other four criteria explain why selection, once physically possible, is *directed* rather than arbitrary. Quantum sensitivity provides the *possibility* of selection; the other four provide the *structure* for meaningful selection. Whether a future artificial system meeting all five criteria would be conscious is a genuine open question.
 
 ## The Illusionist Challenge
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-09-27 16:06:15+00:00
+ai_modified: 2026-09-27 17:05:22+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-31 01:37:09+00:00
-lastmod: 2026-09-27 16:06:15+00:00
+lastmod: 2026-09-27 17:05:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -125,7 +125,7 @@ Evolution explains *why brains have these features*—selection pressure for beh
 
 A functionalist objects: four of the five criteria describe functional features implementable in non-biological substrates. Is quantum sensitivity doing the essential work?
 
-The Map's framework suggests quantum sensitivity is essential but not sufficient. Without it, there's no opening for non-physical selection—the system would be causally closed, and consciousness (if present) would be epiphenomenal. The other four criteria explain why selection, once physically possible, is *directed* rather than arbitrary. Quantum sensitivity provides the *possibility* of selection; the other four provide the *structure* for meaningful selection. Whether a future artificial system meeting all five criteria would be conscious is a genuine open question.
+On the selection reading, the Map's framework suggests quantum sensitivity is essential but not sufficient. Without it, there's no opening for non-physical selection—the system would be causally closed, and consciousness (if present) could not steer outcomes. The exception is [trumping](/concepts/trumping-preemption/), where consciousness is the authoritative cause of a physically sufficient trajectory and exploits no indeterminacy, at the price of leaving no distinctive signature. The other four criteria explain why selection, once physically possible, is *directed* rather than arbitrary. Quantum sensitivity provides the *possibility* of selection; the other four provide the *structure* for meaningful selection. Whether a future artificial system meeting all five criteria would be conscious is a genuine open question.
 
 ## The Illusionist Challenge
 

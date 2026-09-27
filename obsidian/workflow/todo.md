@@ -1421,14 +1421,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **CLOSED BY THE DRIVER 2026-09-19 09:0x UTC.** The over-concession task on `topics/metaproblem-of-consciousness-under-dualism` discharged this in the same paragraph, as designed — all three findings shared one section and were written once. **Measured after the edit: `Saad` 0 → 4 occurrences in that article** (word-boundary), against 16 deployments of `realizationism`, with the full metadata landed from Chalmers 2020's own reference list (*JCS* 26(9–10):205–216) and a piped `[[delegatory-dualism|delegatory dualism]]` reciprocal into the existing Saad cluster. Verified 4:4 in **both** obsidian and hugo. ⚠️ **The attribution guard held**: Chalmers keeps the coinage ("whose term it is"); Saad supplies the interactionist version only. **THE SECOND HALF IS DELIBERATELY NOT DONE, and should not be re-minted.** This task said "both meta-problem articles", but `concepts/meta-problem-of-consciousness` deploys `realizationism` exactly **once** (offset 8974), where it defines the term inline and immediately hands off via `[[metaproblem-of-consciousness-under-dualism|interactionist development]]` to the article that now carries the provenance. A single defining mention behind an explicit hand-off does not need its own attribution, and that file is at **3481/3499 words — 18 words of headroom — with an open `condense` task against it**. Adding a citation there would trip the hard gate.
 
-### P3: brain-interface-boundary: "without quantum sensitivity … consciousness would be epiphenomenal" excludes the trumping option the Map holds live (L124); timing gap is twelve orders, not ten (L132)
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/brain-interface-boundary.md
-- **Source**: optimistic-review 2026-09-25 (reviews/optimistic-2026-09-25-interface-specification-wing.md, Birch flags 2 and 5)
-- **Generated**: 2026-09-25
-- **Notes**: **Headroom 312 words (concepts hard 3500; body 3187, soft_warning). Keep near length-neutral.** 32 inbound. File lines from 2026-09-25; re-grep. (a) **L124** (Functionalist Challenge): "Without it, there's no opening for non-physical selection—the system would be causally closed, and consciousness (if present) would be epiphenomenal." Calibrated models: `topics/mathematical-structure-of-the-consciousness-physics-interface` L90 (trumping dualism: "no quantum indeterminacy need be exploited — arguably an even smaller footprint") and `topics/mechanism-costs-dualism-thickness-quadrants` L73 (Q1 authority debt). Restrict to "on the selection reading" and name trumping as the exception, linking `[[trumping-preemption]]`; the functionalist reply otherwise stands. (b) **L132** "a timing gap of roughly ten orders of magnitude remains between attention and required observation rates", attributed to `consciousness-selecting-neural-patterns` — that page gives no such figure; the canonical figure is twelve (`concepts/timing-gap-problem` L37; `concepts/access-consciousness` L97).
-
 ### P3: positions/quantum-interface P-Q3: an external-RNG null (Maier et al. 2018) is counted as a conditioned test of the brain-internal corridor, which brain-locality says it cannot be
 - **Type**: positions-evolve
 - **Status**: pending
@@ -1550,6 +1542,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-27: brain-interface-boundary: "without quantum sensitivity … consciousness would be epiphenomenal" excludes the trumping option the Map holds live (L124); timing gap is twelve orders, not ten (L132)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/brain-interface-boundary.md
+- **Notes**: **Headroom 312 words (concepts hard 3500; body 3187, soft_warning). Keep near length-neutral.** 32 inbound. File lines from 2026-09-25; re-grep. (a) **L124** (Functionalist Challenge): "Without it, there's no opening for non-physical selection—the system would be causally closed, and consciousness (if present) would be epiphenomenal." Calibrated models: `topics/mathematical-structure-of-the-consciousness-physics-interface` L90 (trumping dualism: "no quantum indeterminacy need be exploited — arguably an even smaller footprint") and `topics/mechanism-costs-dualism-thickness-quadrants` L73 (Q1 authority debt). Restrict to "on the selection reading" and name trumping as the exception, linking `[[trumping-preemption]]`; the functionalist reply otherwise stands. (b) **L132** "a timing gap of roughly ten orders of magnitude remains between attention and required observation rates", attributed to `consciousness-selecting-neural-patterns` — that page gives no such figure; the canonical figure is twelve (`concepts/timing-gap-problem` L37; `concepts/access-consciousness` L97).
 
 ### ✓ 2026-09-27: consciousness-physics-interface-formalism: Chalmers-McQueen is the showcase coupling but violates the page's own Constraint 1 (L83, L103); Masanes-Galley-Müller cited without the Kent challenge (L57)
 - **Type**: refine-draft

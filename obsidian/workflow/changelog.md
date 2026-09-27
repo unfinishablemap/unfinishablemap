@@ -5,6 +5,13 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T17:05:22+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/brain-interface-boundary]]
+- **Original score**: n/a (targeted fix)
+- **Changes**: (a) Functionalist Challenge para (L124): restricted "quantum sensitivity essential / otherwise epiphenomenal" to the selection reading; "epiphenomenal" -> "could not steer outcomes"; named trumping as the exception (consciousness authoritative over a physically sufficient trajectory, no indeterminacy exploited, no distinctive signature), linking [[trumping-preemption]] (slug verified). Functionalist reply otherwise unchanged. (b) Timing gap (L132): verified already reads "twelve orders"; attribution to [[concepts/consciousness-selecting-neural-patterns]] confirmed accurate (L108 states the twelve-order gap and links timing-gap-problem) — no change. Body ~3187 -> ~3219 words (under 3500 hard). Engagement with functionalist: Mode Three (framework boundary) unchanged. Hugo synced.
+- **Published**: yes
+
 ## 2026-09-27T16:50:38+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/consciousness-physics-interface-formalism]]
