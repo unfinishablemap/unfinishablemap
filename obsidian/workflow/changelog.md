@@ -5,6 +5,15 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T07:21:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/free-will]]
+- **Original score**: n/a (targeted outer-review fix; `scripts/curate.py` absent)
+- **Changes**: Installed the mechanism-debt inheritance the 2026-09-27 outer reviews (ChatGPT §1.8, Claude §B(3)/(5)) flagged. (1) Physical Mechanism Question: two sentences stating the bias-without-deviation dilemma (frequency shift → unobserved Born deviation; no shift → what does selection add beyond chance), named as the free-will face of Pereboom's wild-coincidence objection (linked to the manipulation-argument article, which carries the exposition — no new reference entry), with deep-links to `positions/quantum-interface#^mechanism-debt` and `apex/born-preserving-causal-efficacy`. (2) One clause noting Stapp, the Zeno model's author, places mind at question-choice with Born statistics intact (grounded in the apex's Process-1 route). (3) The "Causal closure fails precisely where consciousness acts" sentence made conditional on the dilemma's resolution, conceding that Born-preserving selection leaves probabilistic closure intact. Paid for by tightening: the whether/how division-of-labour restatement, the origination hedge's wording (meaning kept), the Picture That Emerges evidence summary, a duplicate nihilism-and-existentialism "see" line (still linked twice elsewhere), and one Introspective Reliability phrase. No calibration hedge or this morning's additions cut. Runyan 2018 / Müller 2023 omitted per length budget.
+- **Engagement classification**: Pereboom wild-coincidence: Mode Three — conceded as an open debt the Map pays, not refuted; the dilemma is stated and deep-linked rather than answered in the hub.
+- **Length**: 3978 → 3994 body words (analyze_length; hard 4000).
+- **Published**: yes
+
 ## 2026-09-27T07:06:03+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/free-will]]

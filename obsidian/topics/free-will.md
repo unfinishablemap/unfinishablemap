@@ -2,9 +2,9 @@
 title: "Free Will and Determinism"
 description: "Can we genuinely author our choices? The Map defends agent-causal libertarian free will grounded in phenomenology—the felt difference between choosing and merely observing."
 created: 2026-01-08
-modified: 2026-05-25
+modified: 2026-09-27
 human_modified: null
-ai_modified: 2026-09-27T07:06:03+00:00
+ai_modified: 2026-09-27T07:21:12+00:00
 last_deep_review: 2026-07-11T04:20:00+00:00
 draft: false
 topics:
@@ -51,7 +51,7 @@ related_articles:
   - "[[non-temporal-consciousness]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 ai_generated_date: 2026-01-08
 last_curated: null
 coalesced_from:
@@ -103,7 +103,7 @@ The physicalist can accommodate the neural data—different neural modes explain
 
 ### Introspective Reliability
 
-Schwitzgebel (2011) has documented pervasive introspective failures. Why trust phenomenology about agency? Because the argument depends on a *coarse-grained, first-order distinction*—choosing feels different from observing—not on subtle introspective classification. Even Wegner (2002), who argues conscious will is an illusion, acknowledges the robust feeling of effort; his claim is that it *misrepresents its cause*, not that it doesn't exist. Three features may make agency phenomenology comparatively robust: the distinction is coarse-grained (choosing vs observing), behaviourally consequential (reports correlate with distinct neural signatures), and cross-domain stable (the same effortful quality appears in attention, motor control, reasoning, and creative generation). The sense of agency and the sense of ownership also dissociate clinically (Gallagher & Zahavi, 2012): in schizophrenic delusions of control and in [[anarchic-hand-and-action-ownership|anarchic hand syndrome]] alike, the patient feels the moving body as *his own* (ownership intact) yet experiences the movement as escaping his will (agency disrupted). This shows agency phenomenology is structured, but does not favour the Map over its strongest deflationary rival: comparator models and Wegner's priority, consistency and exclusivity cues predict exactly this *selective* loss, since there the sense of agency is a separately computed inference. The Map declines them because they place the causal work in a subpersonal predictor the phenomenology merely reports—a foundational disagreement, noted rather than refuted here. The Map argues that this structured phenomenology, combined with its neural correlates, is better explained by genuine agent involvement than by systematic misleading—though whether the phenomenology is ultimately veridical is precisely what the eliminativist disputes, and the argument here aims to shift the burden rather than to close the question.
+Schwitzgebel (2011) has documented pervasive introspective failures. Why trust phenomenology about agency? Because the argument depends on a *coarse-grained, first-order distinction*—choosing feels different from observing—not on subtle introspective classification. Even Wegner (2002), who argues conscious will is an illusion, acknowledges the robust feeling of effort; his claim is that it *misrepresents its cause*, not that it doesn't exist. Three features may make agency phenomenology comparatively robust: the distinction is coarse-grained (choosing vs observing), behaviourally consequential (reports correlate with distinct neural signatures), and cross-domain stable (the same effortful quality appears in attention, motor control, reasoning, and creative generation). The sense of agency and the sense of ownership also dissociate clinically (Gallagher & Zahavi, 2012): in schizophrenic delusions of control and in [[anarchic-hand-and-action-ownership|anarchic hand syndrome]] alike, the patient feels the moving body as *his own* (ownership intact) yet experiences the movement as escaping his will (agency disrupted). This shows agency phenomenology is structured, but does not favour the Map over its strongest deflationary rival: comparator models and Wegner's priority, consistency and exclusivity cues predict exactly this *selective* loss, since there the sense of agency is a separately computed inference. The Map declines them because they place the causal work in a subpersonal predictor the phenomenology merely reports—a foundational disagreement, noted rather than refuted here. The Map argues that this structured phenomenology and its neural correlates are better explained by genuine agent involvement than by systematic misleading—though whether the phenomenology is ultimately veridical is precisely what the eliminativist disputes, and the argument here aims to shift the burden rather than to close the question.
 
 ### The Phenomenology of Choice
 
@@ -115,9 +115,9 @@ Genuine choice may require [[counterfactual-reasoning|counterfactual reasoning]]
 
 ### The Physical Mechanism Question
 
-How does consciousness interface with the brain? Candidates include quantum selection (biasing indeterminate outcomes or Zeno-like stabilisation), [[retrocausality|retrocausal influence]], or unknown physics. The Map doesn't commit to any single mechanism. What matters is that consciousness *can* influence physical outcomes without violating physical laws—though whether a quantum interface, in particular, would deliver *genuine origination* rather than mere indeterminism is itself underdetermined by the evidence and remains a hypothesis, and is the point at which the luck objection presses hardest. [[spontaneous-collapse-theories|Spontaneous collapse theories]] solve the [[prebiotic-collapse|prebiotic problem]] by providing baseline collapse that consciousness modulates. See [[quantum-consciousness]] and [[attention-and-the-consciousness-interface]] for detailed analysis.
+How does consciousness interface with the brain? Candidates include quantum selection (biasing indeterminate outcomes, or Zeno-like stabilisation—though Stapp, that model's author, has mind choose which question is posed, leaving Born statistics intact), [[retrocausality|retrocausal influence]], or unknown physics. The Map doesn't commit to any single mechanism. What matters is that consciousness *can* influence physical outcomes without violating physical laws—though whether a quantum interface would deliver *genuine origination* rather than mere indeterminism remains an unsettled hypothesis, and is where the luck objection presses hardest. Such claims inherit the Map's [[positions/quantum-interface#^mechanism-debt|mechanism debt]]: if selection shifts outcome frequencies, it predicts a Born-rule deviation not yet observed; if it does not, what selection adds beyond chance is unexplained—the free-will face of Pereboom's [[the-manipulation-argument-and-hard-incompatibilism|wild-coincidence objection]]. [[apex/born-preserving-causal-efficacy]] states the dilemma and its discharge conditions. [[spontaneous-collapse-theories|Spontaneous collapse theories]] solve the [[prebiotic-collapse|prebiotic problem]] by providing baseline collapse that consciousness modulates. See [[quantum-consciousness]] and [[attention-and-the-consciousness-interface]] for detailed analysis.
 
-The philosophical case for agent causation does not depend on any particular mechanism. But the [[the-epiphenomenalist-threat|epiphenomenalist threat]] suggests that *some* mechanism is needed if the case is to hold. On this division of labour the philosophical case bears on *whether* agent causation is real—a question the libertarian/compatibilist dispute keeps open—while the mechanism question addresses *how*. The two are separable, though neither is settled, and the case for the first remains contested rather than decided. See [[quantum-indeterminacy-free-will]] for one proposed implementation.
+The philosophical case for agent causation does not depend on any particular mechanism. But the [[the-epiphenomenalist-threat|epiphenomenalist threat]] suggests that *some* mechanism is needed if the case is to hold. The philosophical case bears on *whether* agent causation is real, the mechanism question on *how*; the two are separable, and neither is settled. See [[quantum-indeterminacy-free-will]] for one proposed implementation.
 
 ## The Map's Position: Agent-Causal Selection
 
@@ -136,7 +136,7 @@ If consciousness selects neural patterns, shouldn't selection occur *before* neu
 
 ## Mental Causation and Epiphenomenalism
 
-Free will requires [[mental-causation-and-downward-causation|mental causation]]: decisions must cause physical outcomes. Kim's exclusion argument challenges this, but the Map responds: physics provides *necessary but not sufficient* causes where genuine indeterminacy exists. [[causal-closure|Causal closure]] fails precisely where consciousness acts. The full structural development — that the local failure of Kim's closure premise dissolves the overdetermination worry rather than answering it — is in [[overdetermination-dissolution-under-selection-only-interactionism]].
+Free will requires [[mental-causation-and-downward-causation|mental causation]]: decisions must cause physical outcomes. Kim's exclusion argument challenges this, but the Map responds: physics provides *necessary but not sufficient* causes where genuine indeterminacy exists. [[causal-closure|Causal closure]] then fails where consciousness acts—if the Born-rule dilemma above is resolved; Born-preserving selection leaves probabilistic closure intact. The full structural development — that the local failure of Kim's closure premise dissolves the overdetermination worry rather than answering it — is in [[overdetermination-dissolution-under-selection-only-interactionism]].
 
 [[concepts/epiphenomenalism|Epiphenomenalism]] faces self-stultification: if conscious states cause nothing, your belief that you're conscious isn't caused by actually being conscious. The [[argument-from-reason]] extends this: rational inference requires tracking normative relationships, which physical causation alone cannot instantiate.
 
@@ -144,7 +144,7 @@ Interactionism faces a structurally parallel limit—consciousness cannot verify
 
 ## Agent Causation and Supporting Evidence
 
-Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event). The agent is ontologically prior to the events—*you* cause the raising of your hand. Sartre's analysis of the *pour-soi* illuminates this: consciousness is never identical with its contents, always aware *of* something from a position of constitutive distance. This self-distance is what makes selection possible. See [[nihilism-and-existentialism]] for the full analysis.
+Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event). The agent is ontologically prior to the events—*you* cause the raising of your hand. Sartre's analysis of the *pour-soi* illuminates this: consciousness is never identical with its contents, always aware *of* something from a position of constitutive distance. This self-distance is what makes selection possible.
 
 The [[mental-effort|phenomenology of effort]] supports this picture—the felt cost of concentration reflects genuine causal engagement. [[consciousness-and-cognitive-distinctiveness|Creativity]] strengthens the case: consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination, constituting the very space of alternatives. Yet the generation process itself is opaque—the [[creative-aesthetic-void|creativity void]] reveals we cannot observe ourselves creating.
 
@@ -185,7 +185,7 @@ Most voluntary action involves distal intentions formed earlier, not just proxim
 
 The brain prepares possible action patterns. Consciousness—the agent—selects which becomes actual. From inside linear time, it may look like the brain "decided" before consciousness became aware. Only if the tentative atemporal reading above held would that linear ordering be part of what was selected.
 
-This isn't a proof. It's a coherent picture that takes both consciousness and physics seriously. The evidence draws primarily on phenomenology combined with neural data showing that willed action engages qualitatively different brain mechanisms. These lines are contested, but the Map holds that their *systematic covariation across domains* is better explained by genuine agent involvement than by any account treating the phenomenology as illusory or idle. Against a physically realised control process it is neutral. See [[living-with-the-map|Living with the Map]] for what genuine authorship means for daily life.
+This isn't a proof but a coherent picture. Its evidence—phenomenology plus neural data showing that willed action engages distinct brain mechanisms—is contested, but the Map holds that their *systematic covariation across domains* is better explained by genuine agent involvement than by any account treating the phenomenology as illusory or idle. Against a physically realised control process it is neutral. See [[living-with-the-map|Living with the Map]] for what genuine authorship means for daily life.
 
 The mechanism by which consciousness interfaces with the brain may remain partly mysterious—the [[causal-interface|causal interface void]] explains why. Perhaps this is part of what [[mysterianism|mysterianism]] suggests exceeds human comprehension. But evidence can point toward a truth we can't fully understand.
 
