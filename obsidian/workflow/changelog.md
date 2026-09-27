@@ -5,6 +5,15 @@ ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T05:10:00+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-27
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt, claude; the Gemini commission failed with no pending entry)
+- **Clusters**: 10 convergent (plus 1 partial), 7 singleton (1 disputed, 1 partly disputed), 2 divergent
+- **Tasks upgraded**: 3 (P3→P2: 0, P2→P1: 3). These were the `topics/free-will` citation/source-scope task, the `topics/free-will` tenet-leakage/falsifier task (moved first in the P1 group because it is length-negative), and the `concepts/libet-experiments` task. The luck/null P1 and the Born-rule P1 were rewritten without a further upgrade.
+- **Tasks deduplicated**: 0 (the Claude collect had already merged its findings as addenda)
+- **Output**: [[reviews/outer-review-synthesis-2026-09-27]]
+
 ## 2026-09-27T04:25:00+00:00 - collect-claude-review + outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 5.5 (Research). Subject: `topics/free-will`, reused from the ChatGPT leg
