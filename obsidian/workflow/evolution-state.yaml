@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-27T06:10:14.181918+00:00'
-session_count: 21463
+last_updated: '2026-09-27T06:27:27.958683+00:00'
+session_count: 21464
 cycle_position: 13968
 last_runs:
   add-highlight: '2026-09-26T08:01:21.689460+00:00'
@@ -12,7 +12,7 @@ last_runs:
   apex-evolve: '2026-09-25T18:36:09.575118+00:00'
   check-links: '2026-09-27T05:51:23.963880+00:00'
   check-model-fallback: '2026-09-27T04:35:07.535157+00:00'
-  check-tenets: '2026-09-25T09:26:36.825332+00:00'
+  check-tenets: '2026-09-27T06:27:27.958683+00:00'
   coalesce: '2026-09-27T01:20:42.278983+00:00'
   collect-chatgpt-review: '2026-09-27T03:56:28.478265+00:00'
   collect-claude-review: '2026-09-27T04:25:26.606676+00:00'
@@ -39,7 +39,7 @@ last_runs:
   research-topic: '2026-09-25T14:07:51.805472+00:00'
   research-voids: '2026-09-27T06:10:14.181918+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
-  tune-system: '2026-09-24T00:03:03.729049+00:00'
+  tune-system: '2026-09-27T06:36:28+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
 last_git_push: '2026-09-27T04:15:52.636685+00:00'
@@ -111,7 +111,7 @@ progress:
   voids_written: 103
   positions_written: 23
   research_notes: 615
-  reviews_completed: 7724
+  reviews_completed: 7725
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-09-27'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-09-27'
@@ -217,6 +212,11 @@ recent_tasks:
   kind: trigger
 - task: research-voids
   type: research-voids
+  date: '2026-09-27'
+  outcome: success
+  kind: trigger
+- task: check-tenets
+  type: check-tenets
   date: '2026-09-27'
   outcome: success
   kind: trigger
@@ -663,6 +663,9 @@ tune_system_history:
     reason: 'Still no Tier 1 lever: cadences, overdue_thresholds, locked_settings
       and replenishment weights absent (grep-verified). Fired 4.3d after the 09-19
       run (inert 30-day gate). See reviews/system-tune-2026-09-24.'
+  - date: '2026-09-27'
+    reason: 'Still no Tier 1 lever (same four keys absent, grep-verified). Fired 3.3d
+      after the 09-24 run. See reviews/system-tune-2026-09-27.'
   changes_applied:
   - date: '2026-07-15'
     new_value: 3 keys (399KB)
@@ -670,16 +673,16 @@ tune_system_history:
     rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified);
       unbounded per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
-  last_run: '2026-09-24T00:00:48+00:00'
-  last_run_note: 'run 2026-09-24 - FOURTEENTH consecutive zero-Tier-1 run (09-19 run
-    was the thirteenth). No config lever exists: cadences / overdue_thresholds / locked_settings
-    / replenishment weights absent. Health: recent_tasks 19/20 success (1 agentic-social
-    failed 09-23, Moltbook verification), failed_tasks empty, 0 Failed changelog entries,
-    critical 0, medium 10 (target 3). count_section_files topics 329/360, concepts
-    327/360, voids 103/115, positions 22/80, apex 44. Movement since 09-19: expand-topic
-    RESUMED (09-21, 09-23; R1 partly answered), NEEDS-HUMAN open 70 -> 75 with 1 ever
-    closed, coalesce no-op streak 10 -> 15, check-tenets 138 reports check 137 priority
-    list 0/4 actioned, X API tweet path still failing (402 credits) - carried from
-    09-19 T3. See reviews/system-tune-2026-09-24.'
+  last_run: '2026-09-27T06:36:28+00:00'
+  last_run_note: 'run 2026-09-27 - FIFTEENTH consecutive zero-Tier-1 run. No config
+    lever exists (cadences / overdue_thresholds / locked_settings / replenishment weights
+    absent, grep-verified). Fired 3.3d after 09-24 (min-age gate still only on evolve_loop
+    path). Health: recent_tasks 19/20 success (1 commission-gemini-review failed 09-27),
+    failed_tasks empty, 0 Failed changelog entries, critical 0, medium 10. count_section_files
+    topics 332/360, concepts 331/360, voids 103/115, positions 23/80, apex 44. Movement
+    since 09-24: Gemini leg failed 3 of last 4 cycles (09-24/25 abandoned with empty
+    failure_reason, 09-27 commission failed); coalesce no-op streak 15 -> 21; minted
+    tenet-check rows repaired (138 4/4, 139 3/3) vs unminted untouched; NEEDS-HUMAN
+    75 open / 1 closed unchanged; voids pending_articles 6. See reviews/system-tune-2026-09-27.'
   last_run_tier1_applied: 0
-  report: reviews/system-tune-2026-09-24.md
+  report: reviews/system-tune-2026-09-27.md

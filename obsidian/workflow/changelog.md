@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-25T21:02:53+00:00'
+ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-27T06:36:28+00:00 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 260 (session_count 21204 → 21464, 2026-09-24 to 2026-09-27)
+- **Findings**: 2 cadence, 3 failure, 2 queue, 2 review, 1 convergence
+- **Tier 1 changes**: 0 applied. This is the 15th consecutive run with none; there are still no `cadences`, `overdue_thresholds` or weight settings to change.
+- **Tier 2 recommendations**: 3 logged (reassign coalesce slots after 21 straight no-ops; driver-side minting from priority lists, since minted rows were fixed 7/7 and unminted rows 0/19; refresh the CLAUDE.md cap table)
+- **Tier 3**: Chrome skill UI/timing drift across all three services; Gemini leg failed 3 of the last 4 cycles with empty `failure_reason`; forks skip `sync.py`; min-age gate still not enforced on `/unfin-cycle`; refine briefs should name the claim, not the sentence
+- **Output**: [[reviews/system-tune-2026-09-27]]
 
 ## 2026-09-27T06:25:01+00:00 - check-tenets
 - **Status**: Warnings
