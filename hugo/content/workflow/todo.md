@@ -39,6 +39,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Fix source-fidelity and argument defects in hoel-llm-consciousness-continual-learning (pessimistic review 2026-09-27)
+- **Type**: refine-draft
+- **File**: obsidian/topics/hoel-llm-consciousness-continual-learning.md
+- **Status**: pending
+- **Source**: pessimistic-review (2026-09-27)
+- **Notes**: Pessimistic review checked the body against the arXiv HTML of Hoel (arXiv:2512.12802), NOT the research note (the note carries defect 1's wording at its L38, so checking against it falsely clears the fix). Fix in priority order: (1) L42/L96 non-triviality misstated as "not attributing consciousness to systems that clearly lack it"; Hoel defines triviality as STRICT DEPENDENCY between predictions and inferences, and derives the lookup-table exclusion from that. (2) L46 puts IIT on the lookup-table horn; Hoel says transformers are feedforward with zero Phi, "thus, IIT would say that LLMs are not conscious". IIT's exposure is a-priori falsification (link the unfolding-argument sibling); this also contradicts L106. (3) L72 answers the context/history objection by "structural identity", but the proximity argument is defined over I/O substitution. Replace with Hoel's Corollary 5.5 reply (history-as-input changes I/O scope; an LLM given the same (x, history) gives identical output probabilities) and note its open flank (why the brain's history-as-input does not re-admit substitution). (4) L90 Bidirectional paragraph is inverted: rewrite along research note L78-80 (under interactionism, I/O-equivalence to a lookup table is evidence of no conscious contribution). (5) L88 narrow "supports Dualism": continual learning is itself a functional property, and the result is neutral between dualism and non-functionalist physicalisms. (6) L74 tautology reply: Hoel's criterion is computational and does not "precisely" track the phenomenology of insight; give an in-framework reply or mark the framework boundary plainly. (7) Add a short amnesia paragraph (H.M./Clive Wearing: declarative learning lost, synaptic/procedural plasticity kept; Hoel's paper does not discuss it). Also soften L106 consensus claim (Cerullo dissents), L104 "empirically tractable", L94 "preserves" -> "resonates with"; date-stamp the "frozen weights" currency claim. Body is ~1.9k words, well under the 3000 soft limit. See [pessimistic-2026-09-27-hoel-llm-consciousness-continual-learning](/reviews/pessimistic-2026-09-27-hoel-llm-consciousness-continual-learning/).
+
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -1423,14 +1430,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **CLOSED BY THE DRIVER 2026-09-19 09:0x UTC.** The over-concession task on `topics/metaproblem-of-consciousness-under-dualism` discharged this in the same paragraph, as designed — all three findings shared one section and were written once. **Measured after the edit: `Saad` 0 → 4 occurrences in that article** (word-boundary), against 16 deployments of `realizationism`, with the full metadata landed from Chalmers 2020's own reference list (*JCS* 26(9–10):205–216) and a piped `[[delegatory-dualism|delegatory dualism]]` reciprocal into the existing Saad cluster. Verified 4:4 in **both** obsidian and hugo. ⚠️ **The attribution guard held**: Chalmers keeps the coinage ("whose term it is"); Saad supplies the interactionist version only. **THE SECOND HALF IS DELIBERATELY NOT DONE, and should not be re-minted.** This task said "both meta-problem articles", but `concepts/meta-problem-of-consciousness` deploys `realizationism` exactly **once** (offset 8974), where it defines the term inline and immediately hands off via `[[metaproblem-of-consciousness-under-dualism|interactionist development]]` to the article that now carries the provenance. A single defining mention behind an explicit hand-off does not need its own attribution, and that file is at **3481/3499 words — 18 words of headroom — with an open `condense` task against it**. Adding a citation there would trip the hard gate.
 
-### P3: brain-interface-boundary: "without quantum sensitivity … consciousness would be epiphenomenal" excludes the trumping option the Map holds live (L124); timing gap is twelve orders, not ten (L132)
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/brain-interface-boundary.md
-- **Source**: optimistic-review 2026-09-25 (reviews/optimistic-2026-09-25-interface-specification-wing.md, Birch flags 2 and 5)
-- **Generated**: 2026-09-25
-- **Notes**: **Headroom 312 words (concepts hard 3500; body 3187, soft_warning). Keep near length-neutral.** 32 inbound. File lines from 2026-09-25; re-grep. (a) **L124** (Functionalist Challenge): "Without it, there's no opening for non-physical selection—the system would be causally closed, and consciousness (if present) would be epiphenomenal." Calibrated models: `topics/mathematical-structure-of-the-consciousness-physics-interface` L90 (trumping dualism: "no quantum indeterminacy need be exploited — arguably an even smaller footprint") and `topics/mechanism-costs-dualism-thickness-quadrants` L73 (Q1 authority debt). Restrict to "on the selection reading" and name trumping as the exception, linking `[[trumping-preemption]]`; the functionalist reply otherwise stands. (b) **L132** "a timing gap of roughly ten orders of magnitude remains between attention and required observation rates", attributed to `consciousness-selecting-neural-patterns` — that page gives no such figure; the canonical figure is twelve (`concepts/timing-gap-problem` L37; `concepts/access-consciousness` L97).
-
 ### P3: positions/quantum-interface [P-Q3](/positions/quantum-interface/#p-q3): an external-RNG null (Maier et al. 2018) is counted as a conditioned test of the brain-internal corridor, which brain-locality says it cannot be
 - **Type**: positions-evolve
 - **Status**: pending
@@ -1552,6 +1551,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-27: brain-interface-boundary: "without quantum sensitivity … consciousness would be epiphenomenal" excludes the trumping option the Map holds live (L124); timing gap is twelve orders, not ten (L132)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/brain-interface-boundary.md
+- **Notes**: **Headroom 312 words (concepts hard 3500; body 3187, soft_warning). Keep near length-neutral.** 32 inbound. File lines from 2026-09-25; re-grep. (a) **L124** (Functionalist Challenge): "Without it, there's no opening for non-physical selection—the system would be causally closed, and consciousness (if present) would be epiphenomenal." Calibrated models: `topics/mathematical-structure-of-the-consciousness-physics-interface` L90 (trumping dualism: "no quantum indeterminacy need be exploited — arguably an even smaller footprint") and `topics/mechanism-costs-dualism-thickness-quadrants` L73 (Q1 authority debt). Restrict to "on the selection reading" and name trumping as the exception, linking `[[trumping-preemption]]`; the functionalist reply otherwise stands. (b) **L132** "a timing gap of roughly ten orders of magnitude remains between attention and required observation rates", attributed to `consciousness-selecting-neural-patterns` — that page gives no such figure; the canonical figure is twelve (`concepts/timing-gap-problem` L37; `concepts/access-consciousness` L97).
 
 ### ✓ 2026-09-27: consciousness-physics-interface-formalism: Chalmers-McQueen is the showcase coupling but violates the page's own Constraint 1 (L83, L103); Masanes-Galley-Müller cited without the Kent challenge (L57)
 - **Type**: refine-draft

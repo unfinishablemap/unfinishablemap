@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-15 00:30:00+00:00
+ai_modified: 2026-09-27 18:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,7 +13,7 @@ date: &id001 2026-01-15
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-01-15 00:30:00+00:00
+lastmod: 2026-09-27 18:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -38,6 +38,8 @@ Hoel argues that any scientific theory of consciousness must satisfy two constra
 
 1. **Falsifiability**: The theory must make predictions that could, in principle, be proven wrong
 2. **Non-triviality**: The theory must not trivially attribute consciousness to systems that clearly lack it (lookup tables, thermostats, etc.)
+
+> **Correction (2026-09-27):** Item 2 misstates Hoel's definition. In the paper (arXiv:2512.12802v3, Definition 4.1) a theory is *trivial* when there is "strict dependency between its predictions and inferences", meaning the two are identical or stem from the same data, so no mismatch is possible. That lookup tables are non-conscious is *derived* from this definition (Definition 4.2 and the argument after it): the only basis a theory could use to predict a lookup table's consciousness is its I/O function, which is also the sole basis of the inferences. It is not stipulated as a case that "clearly lacks" consciousness. Separately, the claim below that the argument applies to IIT "and GWT" alike needs qualifying: Hoel places IIT on the a-priori-falsification horn and notes that IIT already assigns transformers zero Φ. The original wording is kept above for the record. See [pessimistic-2026-09-27-hoel-llm-consciousness-continual-learning](/reviews/pessimistic-2026-09-27-hoel-llm-consciousness-continual-learning/).
 
 He introduces the "Kleiner-Hoel dilemma": theories are either (a) a priori falsified if predictions change drastically under functional substitutions while inferences stay constant, or (b) unfalsifiable if predictions are strictly dependent on inferences (behaviorism).
 
