@@ -5,6 +5,12 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T18:20:47+00:00 - positions-evolve (update P-Q3)
+- **Status**: Success
+- **File**: [[positions/quantum-interface]] (P-Q3)
+- **Changes**: Calibration no longer counts the Maier et al. 2018 intention-to-RNG nulls as a coarse-grain conditioned test of the brain-internal corridor. The RNG is external, and the Map's brain-locality scope clause (concepts/brain-interface-boundary L78-88; topics/brain-specialness-boundary L53-57) predicts that null whether or not horn (a) holds (brain-specialness-boundary L120, L128). The text now says no conditioned test has yet run. A dated Updated 2026-09-27 note was added, and the 2026-08-24 note was condensed to offset it (entry +14 words net). No band moved: empirical discriminability stays `indirect`. Last reviewed is now 2026-09-27.
+- **Cascade (not edited; a follow-on sweep is needed)**: the same framing is inherited at positions/quantum-interface P-Q9 Asserts (L145), apex/born-preserving-causal-efficacy L89 (the source of the claim), tenets/tenets.md L75, voids/amplification-void L63 and L103, voids/tenet-generated-voids L75, concepts/causal-closure L146 and concepts/ensemble-level-epiphenomenalism L67.
+
 ## 2026-09-27T18:20:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/hoel-llm-consciousness-continual-learning]]
