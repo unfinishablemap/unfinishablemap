@@ -5,6 +5,16 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27 14:20 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/many-minds-interpretation]]
+- **Word count**: 2295 → 2487 (+192; soft threshold 3000)
+- **Critical issues addressed**: 5 (probability critique aimed at the wrong target, with the IEP's paraphrase "puzzling and insufficient" quoted as if from Barrett/Loewer; "mindless hulks" credited to Barrett instead of Albert 1992; a paraphrase quoted as Lockwood's words ("senseless… yours"); a spliced, unverifiable Zeh quote and "selects", replaced with strings verbatim in Zeh 2000; orphan Zeh 1970 and Loewer 1996 cites)
+- **Medium issues addressed**: 0 (Chalmers–McQueen reference deferred)
+- **Enhancements made**: 4 new References entries; Zeh's own "dynamically passive parallelism (or epiphenomenalism)" now supports the acausality claim
+- **Reasoning modes**: Lockwood Mode Three; Albert–Loewer Mixed; Zeh Mode Two (a passive parallelism conceded in Zeh's own words)
+- **Output**: [[reviews/deep-review-2026-09-27-many-minds-interpretation]]
+
 ## 2026-09-27T13:54:16+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Diverging-worlds Everettianism (quantum modal realism) as the strongest rival to the Map's indexical objection
