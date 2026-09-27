@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-09-27 05:21:31+00:00
+ai_modified: 2026-09-27 07:06:03+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -45,7 +45,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 04:20:00+00:00
-lastmod: 2026-09-27 05:21:31+00:00
+lastmod: 2026-09-27 07:06:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -95,13 +95,15 @@ The strongest case that free will is incompatible with determinism—shared by h
 
 The **[luck objection](/concepts/quantum-indeterminacy-free-will/)** is the strongest challenge to libertarian free will: if choices aren't determined by prior causes, what explains them? The Map's response is [agent-causal](/concepts/agent-causation/): the agent *as persisting substance* directly causes choices, ontologically prior to any events. The agent's exercise of causal power *is* the explanation—irreducible to any prior event sequence.
 
-Three lines of evidence support genuine agent causation:
+That says *who* settles the outcome, not why it went one way. Van Inwagen's rollback presses the contrastive question: replay the same agent in the same state and, if the choice is open, some replays yield A and others B. The agent's reasons make A intelligible when A occurs, but the reasons for B were present in every replay too, so they cannot explain the difference between replays. The Map's answer is that the settling is the agent's and nothing more basic accounts for it—a primitive whose modal structure is owed rather than supplied. [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) develops the reply and [event-causal-libertarianism](/topics/event-causal-libertarianism/) gives Kane's.
+
+Three lines of evidence fit genuine agent causation:
 
 1. **Phenomenology of volition**: The [phenomenology of volition](/concepts/phenomenology-of-choice-and-volition/) reveals four distinguishable components of willing — initiation, sustained control, effort, and veto — each with distinct neural correlates and clinical dissociation patterns. If choices were random fluctuations, this articulated structure would have no explanation. The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-life/) extends the effort component to reasoning.
-2. **Reasons-guidance**: Selection responds to what matters to the agent. Reasons *influence* (though don't determine) which outcome actualizes.
+2. **Reasons-guidance**: Selection responds to what matters to the agent. Reasons *influence* (though don't determine) which outcome actualizes. Reasons-responsiveness is also the compatibilist's criterion, so this line shows selection is not random, not that it is agent-causal.
 3. **Distinctive neural signatures**: Willed actions show frontal theta oscillations and bidirectional coherence that automatic processes lack.
 
-The physicalist can accommodate the neural data—different neural modes explain different signatures. But the physicalist must then explain why the phenomenological distinction *exists*. The evidence shows a systematic correspondence between felt effort and neural distinctiveness across domains—attention, motor control, reasoning—where the phenomenal character tracks the *degree* of conscious engagement rather than the *type* of neural processing. This cross-domain coherence is what agent causation predicts and what physicalism struggles to explain without treating the phenomenology as illusory or idle.
+The physicalist can accommodate the neural data—different neural modes explain different signatures. The evidence shows a systematic correspondence between felt effort and neural distinctiveness across domains—attention, motor control, reasoning—where the phenomenal character tracks the *degree* of conscious engagement rather than the *type* of neural processing. This coherence tells against accounts treating the phenomenology as illusory or idle. It does not tell against the strongest physicalist rival: volition as a physically realised, causally active control-and-monitoring process whose conscious character is an aspect of the process itself. That view predicts the same covariation, so the covariation is neutral between it and agent causation. What separates them is whether that conscious character needs explaining beyond its physical realisation—the hard problem— where the disagreement reaches bedrock.
 
 ### Introspective Reliability
 
@@ -109,7 +111,7 @@ Schwitzgebel (2011) has documented pervasive introspective failures. Why trust p
 
 ### The Phenomenology of Choice
 
-The [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) suggests that consciousness selects rather than merely observes, though it cannot exhibit that selection from inside — the [verification circularity](/voids/agency-void/#the-verification-circularity) blocks first-person confirmation of causal power, so the support here is indirect. This phenomenological distinction maps onto neural reality: willed attention shows different signatures than automatic capture. If choosing were epiphenomenal decoration, this correlation would be coincidental.
+The [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) suggests that consciousness selects rather than merely observes, though it cannot exhibit that selection from inside — the [verification circularity](/voids/agency-void/#the-verification-circularity) blocks first-person confirmation of causal power, so the support here is indirect. This phenomenological distinction maps onto neural reality: willed attention shows different signatures than automatic capture. If choosing were epiphenomenal decoration, this correlation would be coincidental—though a physically realised control process predicts it equally.
 
 ### Counterfactual Reasoning
 
@@ -187,7 +189,7 @@ Most voluntary action involves distal intentions formed earlier, not just proxim
 
 The brain prepares possible action patterns. Consciousness—the agent—selects which becomes actual. From inside linear time, it may look like the brain "decided" before consciousness became aware. Only if the tentative atemporal reading above held would that linear ordering be part of what was selected.
 
-This isn't a proof. It's a coherent picture that takes both consciousness and physics seriously. The evidence draws primarily on phenomenology combined with neural data showing that willed action engages qualitatively different brain mechanisms. These lines are contested, but the Map holds that their *systematic covariation across domains* is better explained by genuine agent involvement than by any account treating the phenomenology as illusory or idle. See [Living with the Map](/apex/living-with-the-map/) for what genuine authorship means for daily life.
+This isn't a proof. It's a coherent picture that takes both consciousness and physics seriously. The evidence draws primarily on phenomenology combined with neural data showing that willed action engages qualitatively different brain mechanisms. These lines are contested, but the Map holds that their *systematic covariation across domains* is better explained by genuine agent involvement than by any account treating the phenomenology as illusory or idle. Against a physically realised control process it is neutral. See [Living with the Map](/apex/living-with-the-map/) for what genuine authorship means for daily life.
 
 The mechanism by which consciousness interfaces with the brain may remain partly mysterious—the [causal interface void](/voids/causal-interface/) explains why. Perhaps this is part of what [mysterianism](/concepts/mysterianism/) suggests exceeds human comprehension. But evidence can point toward a truth we can't fully understand.
 

@@ -5,6 +5,16 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T07:06:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/free-will]]
+- **Original score**: n/a (targeted outer-review convergence fix; `scripts/curate.py` absent)
+- **Review files**: reviews/outer-review-2026-09-27-chatgpt-5-6-sol-pro.md (§1.3, §1.6, §3.2, §3.5), reviews/outer-review-2026-09-27-claude-opus-5-5.md (§B(1))
+- **Changes**: (a) Rollback: new paragraph after the luck reply names van Inwagen's contrastive question (why A rather than B across identical replays), concedes reasons cannot explain the cross-replay difference, and marks the Map's answer as an agent-causal primitive whose modal structure is owed; links quantum-indeterminacy-free-will and event-causal-libertarianism (Kane) rather than rebuilding the argument. (b) Physicalist null: evidence paragraph now names the strongest rival (physically realised, causally active control-and-monitoring process whose conscious character is an aspect of the process), concedes the phenomenology/neural covariation is neutral between it and agent causation, and locates the residual disagreement at the hard problem; dropped the "physicalist must explain why the distinction exists" burden-shift; "Three lines of evidence support" -> "fit"; reasons-guidance item now concedes reasons-responsiveness is the compatibilist's criterion; "epiphenomenal decoration" sentence and the closing conclusion both scoped so the covariation claim is against illusory/idle accounts only. Consistent with this morning's comparator/Wegner foundational-grounds concession.
+- **Engagement classification**: physicalist control-process rival: Mode Three (covariation conceded neutral; disagreement placed at the hard problem, not refuted in-framework); epiphenomenalist/illusionist rivals: Mode One retained; rollback: Mode Three (primitive with owed modal structure honestly marked).
+- **Length**: body 3796 -> 3978 (hard 4000). Compatibilism guidance-control clause NOT applied: remaining ~21 words reserved for the P2 citation task on this file.
+- **Published**: yes
+
 ## 2026-09-27T06:36:28+00:00 - tune-system
 - **Status**: Success
 - **Sessions analyzed**: 260 (session_count 21204 → 21464, 2026-09-24 to 2026-09-27)

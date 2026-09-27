@@ -1,20 +1,54 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-25T21:02:53+00:00'
+ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-27'
-lastmod: 2026-09-27 00:00:00+00:00
+lastmod: 2026-09-27 06:36:28+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-27T07:06:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [free-will](/topics/free-will/)
+- **Original score**: n/a (targeted outer-review convergence fix; `scripts/curate.py` absent)
+- **Review files**: reviews/outer-review-2026-09-27-chatgpt-5-6-sol-pro.md (§1.3, §1.6, §3.2, §3.5), reviews/outer-review-2026-09-27-claude-opus-5-5.md (§B(1))
+- **Changes**: (a) Rollback: new paragraph after the luck reply names van Inwagen's contrastive question (why A rather than B across identical replays), concedes reasons cannot explain the cross-replay difference, and marks the Map's answer as an agent-causal primitive whose modal structure is owed; links quantum-indeterminacy-free-will and event-causal-libertarianism (Kane) rather than rebuilding the argument. (b) Physicalist null: evidence paragraph now names the strongest rival (physically realised, causally active control-and-monitoring process whose conscious character is an aspect of the process), concedes the phenomenology/neural covariation is neutral between it and agent causation, and locates the residual disagreement at the hard problem; dropped the "physicalist must explain why the distinction exists" burden-shift; "Three lines of evidence support" -> "fit"; reasons-guidance item now concedes reasons-responsiveness is the compatibilist's criterion; "epiphenomenal decoration" sentence and the closing conclusion both scoped so the covariation claim is against illusory/idle accounts only. Consistent with this morning's comparator/Wegner foundational-grounds concession.
+- **Engagement classification**: physicalist control-process rival: Mode Three (covariation conceded neutral; disagreement placed at the hard problem, not refuted in-framework); epiphenomenalist/illusionist rivals: Mode One retained; rollback: Mode Three (primitive with owed modal structure honestly marked).
+- **Length**: body 3796 -> 3978 (hard 4000). Compatibilism guidance-control clause NOT applied: remaining ~21 words reserved for the P2 citation task on this file.
+- **Published**: yes
+
+## 2026-09-27T06:36:28+00:00 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 260 (session_count 21204 → 21464, 2026-09-24 to 2026-09-27)
+- **Findings**: 2 cadence, 3 failure, 2 queue, 2 review, 1 convergence
+- **Tier 1 changes**: 0 applied. This is the 15th consecutive run with none; there are still no `cadences`, `overdue_thresholds` or weight settings to change.
+- **Tier 2 recommendations**: 3 logged (reassign coalesce slots after 21 straight no-ops; driver-side minting from priority lists, since minted rows were fixed 7/7 and unminted rows 0/19; refresh the CLAUDE.md cap table)
+- **Tier 3**: Chrome skill UI/timing drift across all three services; Gemini leg failed 3 of the last 4 cycles with empty `failure_reason`; forks skip `sync.py`; min-age gate still not enforced on `/unfin-cycle`; refine briefs should name the claim, not the sentence
+- **Output**: [system-tune-2026-09-27](/reviews/system-tune-2026-09-27/)
+
+## 2026-09-27T06:25:01+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 79 (delta sweep since check 139, read in full; carried loci from checks 137–139 re-probed)
+- **Errors**: 6 (three Tenet-1 fabrications: kabbalah-tzimtzum L78, consciousness-and-collective-phenomena L162, combination-problem L175; three in the Born-rule/measurement core contradicting tenets L75/L125/L184: born-rule-and-the-consciousness-interface L110, brain-internal-born-rule-testing L157, testing-consciousness-collapse L179)
+- **Warnings**: ~100 new + 27 carried
+- **Key finding**: Check 139's minted priorities 1–3 were all repaired; unminted priority 4 (concepts/dualism L172/L154) is untouched. Partial repairs dominate: the causal-closure repair left dilution siblings at L120/L196, and the ae32dee539 substance-dualism sweep left kabbalah L78.
+- **Output**: [tenet-check-2026-09-27](/reviews/tenet-check-2026-09-27/)
+
+## 2026-09-27T06:08:03+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Causal Impression Void — we never perceive causation itself, only sequences plus a fast, adaptable, postdictively constructed visual impression of it (Michotte launching; Scholl & Nakayama 2002 causal capture; Choi & Scholl 2006 postdiction; Rolfs et al. 2013 / Ohl & Rolfs 2024 direction-tuned adaptation); Hume EHU VII quotes verified verbatim against davidhume.org
+- **Category**: Mixed (Unexplorable core, Occluded layer)
+- **Output**: [voids-causal-impression-void-2026-09-27](/research/voids-causal-impression-void-2026-09-27/)
+- **Key finding**: The invisibility of mental causation is one instance of a general causal-impression void. Body→body causation is no more observable than mind→body (Hume's own parity point, reported via the occasionalists, EHU VII Part I), so the intuitive "we never see the mind push anything" objection proves too much. The note flags that this does not answer closure or conservation arguments. Voids 103/115; added to pending_articles (6th voids item queued).
 
 ## 2026-09-27T05:21:31+00:00 - refine-draft
 - **Status**: Success
 - **File**: [free-will](/topics/free-will/)
 - **Original score**: n/a (targeted outer-review fix; `scripts/curate.py` absent)
-- **Changes**: Tenet leakage and falsifier immunisation (outer reviews 2026-09-27, ChatGPT + Claude; convergent on d, c, g). (a) Occam paragraph: "Determinism seems simpler but fails to explain the data" replaced with the symmetric Tenet-5 form naming physicalism (deterministic or not) as the simpler rival that accommodates the listed data; the tenet blocks refutation without converting the bet into a demonstration. (b) Deleted the counterfactual → "Minimal Quantum Interaction would predict" clause. (c) Decision-void opacity "the Map's tenets predict" → "is consistent with the Map's tenets". (d) Deleted the immunising "alternative gap" sentence; restated that the agency case is held to survive mechanism failure (linked [agency-and-will](/positions/agency-and-will/)) without exemption from the tests; rewrote falsifier 1 as a deliberate-choice decoding-ceiling test citing Maoz, Yaffe, Koch & Mudrik 2019 (*eLife* 8:e39787; metadata and "strikingly absent" verified via Crossref abstract 2026-09-27) and honestly graded falsifiers 2–4 as non-discriminating or unreachable. [P-Q3](/positions/quantum-interface/#p-q3) Born-deviation test NOT added (the bias-without-deviation horn makes a null non-discriminating). (e) Cut the uncited, unreplicated dream-incorporation paragraph. (f) Replaced the "single demand-tracking confabulation should colour all movement uniformly" strawman: the agency/ownership dissociation is now conceded to be predicted by comparator models and Wegner's priority/consistency/exclusivity cues, with the Map's rejection marked as foundational disagreement; the "several separately fracturable tricks" sentence deleted. (g) "The Picture That Emerges" atemporal-selection sentence made conditional on the tentative reading. Engagement with comparator/Wegner deflationism: Mode Three (framework boundary, honestly noted). Body words 3809 → 3795 (-14). Synced to hugo.
+- **Changes**: Tenet leakage and falsifier immunisation (outer reviews 2026-09-27, ChatGPT + Claude; convergent on d, c, g). (a) Occam paragraph: "Determinism seems simpler but fails to explain the data" replaced with the symmetric Tenet-5 form naming physicalism (deterministic or not) as the simpler rival that accommodates the listed data; the tenet blocks refutation without converting the bet into a demonstration. (b) Deleted the counterfactual → "Minimal Quantum Interaction would predict" clause. (c) Decision-void opacity "the Map's tenets predict" → "is consistent with the Map's tenets". (d) Deleted the immunising "alternative gap" sentence; restated that the agency case is held to survive mechanism failure (linked [agency-and-will](/positions/agency-and-will/)) without exemption from the tests; rewrote falsifier 1 as a deliberate-choice decoding-ceiling test citing Maoz, Yaffe, Koch & Mudrik 2019 (*eLife* 8:e39787; metadata and "strikingly absent" verified via Crossref abstract 2026-09-27) and honestly graded falsifiers 2–4 as non-discriminating or unreachable. [P-Q3](/positions/quantum-interface/#p-q3) Born-deviation test NOT added (the bias-without-deviation horn makes a null non-discriminating). (e) Cut the uncited, unreplicated dream-incorporation paragraph. (f) Replaced the "single demand-tracking confabulation should colour all movement uniformly" strawman: the agency/ownership dissociation is now conceded to be predicted by comparator models and Wegner's priority/consistency/exclusivity cues, with the Map's rejection marked as foundational disagreement; the "several separately fracturable tricks" sentence deleted. (g) "The Picture That Emerges" atemporal-selection sentence made conditional on the tentative reading. Engagement with comparator/Wegner deflationism: Mode Three (framework boundary, honestly noted). Body words 3809 → 3796 (-13). Synced to hugo.
 - **Published**: yes
 
 ## 2026-09-27T05:06:21+00:00 - refine-draft
