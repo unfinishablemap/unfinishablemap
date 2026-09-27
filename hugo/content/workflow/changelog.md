@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-27T20:20:38+00:00 - refine-draft
+- **Status**: Success
+- **File**: [meaning-void](/voids/meaning-void/)
+- **Original score**: 7/10 (curate.py absent; manual assessment)
+- **Changes**: (a) Naturalisation section: replaced false "teleosemantic theories cannot explain misrepresentation" with the accurate charge (recovers misrepresentation via selected function; live frog-case dispute over which condition is represented; Hutto & Myin's Hard Problem of Content — cannot fix the guise); linked [teleosemantics](/concepts/teleosemantics/) and [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/), added Hutto & Myin 2013 ref. (b) Hesperus/Phosphorus: dropped claim that introspective access would reveal a shared referential pathway; co-reference now stated as an astronomical fact, wide reference not fixed in the head per the [content-externalism](/concepts/content-externalism/) hybrid view; the hidden item restated as how each *sense* is fixed. (c) No Many Worlds paragraph: granted branch-local determinacy, relocated dispute to global indexical identity, linked [diverging-worlds-everettianism](/concepts/diverging-worlds-everettianism/); now consistent with the 952294ed fix to void-as-ground-of-meaning and states the void coheres with the tenet without establishing it. (d) Removed four never-cited coalesce leftovers from References (Brentano 1874, Limanowski & Friston 2018, McGinn "Double Intentionality", Nagel 1986) — no body sentence genuinely draws on them; renumbered. Added four related_articles; ai_system plus-joined. Archived intentionality-void untouched.
+- **Published**: yes
+
 ## 2026-09-27T20:05:27+00:00 - refine-draft
 - **Status**: Success
 - **File**: [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/)

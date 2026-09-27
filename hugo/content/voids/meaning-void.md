@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-26
-ai_modified: 2026-06-03 02:37:42+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-09-27 20:20:38+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 coalesced_from:
 - /voids/intentionality-void/
@@ -16,7 +16,7 @@ concepts:
 - '[[qualia]]'
 - '[[dualism]]'
 created: 2026-02-05
-date: &id001 2026-05-19
+date: &id001 2026-09-27
 description: How thoughts achieve aboutness, and what understanding feels like once
   they have. Both faces of meaning—the mechanism of reference and the felt character
   of comprehension—resist physical reduction.
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 15:31:28+00:00
-lastmod: 2026-06-03 02:37:42+00:00
+lastmod: 2026-09-27 20:20:38+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -41,6 +41,10 @@ related_articles:
 - '[[non-human-minds-as-void-explorers]]'
 - '[[apophatic-cartography]]'
 - '[[void-as-ground-of-meaning]]'
+- '[[teleosemantics]]'
+- '[[the-naturalisation-failure-for-content]]'
+- '[[content-externalism]]'
+- '[[diverging-worlds-everettianism]]'
 title: The Meaning Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -60,7 +64,7 @@ The two faces are connected because the discovery of reference is often the felt
 
 ## Hesperus, Phosphorus, and Sense
 
-The classic Hesperus/Phosphorus case reveals the void's depth. The ancient Greeks named the evening star "Hesperus" and the morning star "Phosphorus," not knowing both were Venus. Someone could believe "Hesperus is beautiful" while disbelieving "Phosphorus is beautiful"—contradictory attitudes toward the same object. With introspective access to reference mechanisms, the two terms' shared referential pathway would be detectable. We discover what our thoughts are about only through external investigation.
+The classic Hesperus/Phosphorus case reveals the void's depth. The ancient Greeks named the evening star "Hesperus" and the morning star "Phosphorus," not knowing both were Venus. Someone could believe "Hesperus is beautiful" while disbelieving "Phosphorus is beautiful"—contradictory attitudes toward the same object. Co-reference here is an astronomical fact, settled by observation rather than by looking inward; on the Map's [hybrid view](/concepts/content-externalism/), wide reference is not fixed in the head at all, so no introspective access could have delivered it. What stays hidden from the inside is narrower and stranger: how each *sense* is fixed. We can introspect that the evening-star thought and the morning-star thought present their object differently, but not how either mode of presentation achieves its grip.
 
 Frege ("Über Sinn und Bedeutung", 1892) distinguished *Sinn* (sense) from *Bedeutung* (reference) on precisely such cases: two terms can share a referent yet differ in cognitive significance. David Pitt notes that we can introspect *what* we think (Paris, not London) without thereby accessing *how* reference is achieved. The content is available; the content-determination process is hidden. The felt distinction between thoughts about different objects remains a phenomenal residue no formal scheme has captured.
 
@@ -78,7 +82,7 @@ Horgan, Tienson, and Kriegel develop a stronger thesis: that *some* intentionali
 
 ## Naturalisation Remains Incomplete
 
-Despite decades of effort, no naturalistic theory of intentionality achieves consensus. Causal theories face counterexamples; teleosemantic theories cannot explain misrepresentation; informational theories struggle with content indeterminacy. The Stanford Encyclopedia's survey of content-determination theories reports widespread agreement that no available account is sufficient. Joseph Levine's explanatory gap ("Materialism and Qualia", 1983) generalises: no complete computational account of semantic processing explains why processing has the felt character of understanding.
+Despite decades of effort, no naturalistic theory of intentionality achieves consensus. Causal theories face counterexamples. [Teleosemantic](/concepts/teleosemantics/) theories recover misrepresentation through selected function, but face a live dispute about *which* condition a state represents—the frog's prey-detector could represent *fly*, *food*, or *small dark moving thing*—and, on Hutto and Myin's [Hard Problem of Content](/topics/the-naturalisation-failure-for-content/), cannot fix the guise under which a state represents its target. Informational theories struggle with content indeterminacy. The Stanford Encyclopedia's survey of content-determination theories reports widespread agreement that no available account is sufficient. Joseph Levine's explanatory gap ("Materialism and Qualia", 1983) generalises: no complete computational account of semantic processing explains why processing has the felt character of understanding.
 
 The lack of consensus does not by itself establish irreducibility. One reading: "aboutness" groups heterogeneous computational processes under a single folk-psychological label, with no unified phenomenon underneath. Another: there is a core feature of original intentionality, with cognitive phenomenology as its felt aspect, that resists decomposition into physical subprocesses. The Map takes the second reading seriously while acknowledging the evidence is suggestive rather than decisive.
 
@@ -120,7 +124,7 @@ The meaning void connects directly to the Map's [foundational commitments](/tene
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** gains texture from symbol grounding and phenomenal intentionality. If meaning requires sensorimotor grounding, consciousness must be causally engaged with its environment. If consciousness constitutively determines a portion of semantic content, it is doing causal work in generating meaning, not merely registering it.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** connects through the indexical character of meaning. Thinking *about* something requires a determinate thinker bearing a determinate referential relation. Many-worlds fragments this: copies across branches "intend" different things under different descriptions, with no fact about which intention is genuinely held.
+**[No Many Worlds](/tenets/#no-many-worlds)** connects through the indexical character of meaning, though less decisively than it might seem. An Everettian can grant branch-local determinacy: each branch's thinker bears a determinate referential relation to its own objects. The dispute sits at global indexical identity—whether *this* thinker's intending, rather than a qualitatively identical duplicate's, is a further non-qualitative fact. The Map posits that fact rather than deriving it from meaning ([diverging-worlds-everettianism](/concepts/diverging-worlds-everettianism/) locates the residue in haecceity and global exclusion), so the meaning void coheres with the tenet without establishing it.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** raises a speculative possibility to hold lightly. If consciousness interfaces with physics at the quantum level, the mechanism of meaning might be hidden from the observing consciousness precisely because observation would disturb it.
 
@@ -142,20 +146,17 @@ The meaning void also exemplifies the [constitutive thesis](/voids/void-as-groun
 
 ## References
 
-1. Brentano, F. (1874). *Psychology from an Empirical Standpoint*.
-2. Frege, G. (1892). "Über Sinn und Bedeutung" [On Sense and Reference]. *Zeitschrift für Philosophie und philosophische Kritik*, 100, 25–50.
-3. Gendlin, E.T. (1962/1997). *Experiencing and the Creation of Meaning*. Northwestern University Press.
-4. Harnad, S. (1990). "The Symbol Grounding Problem." *Physica D*, 42, 335–346.
-5. Horgan, T., & Tienson, J. (2002). "The Intentionality of Phenomenology and the Phenomenology of Intentionality." In D. Chalmers (Ed.), *Philosophy of Mind: Classical and Contemporary Readings*. Oxford University Press.
+1. Frege, G. (1892). "Über Sinn und Bedeutung" [On Sense and Reference]. *Zeitschrift für Philosophie und philosophische Kritik*, 100, 25–50.
+2. Gendlin, E.T. (1962/1997). *Experiencing and the Creation of Meaning*. Northwestern University Press.
+3. Harnad, S. (1990). "The Symbol Grounding Problem." *Physica D*, 42, 335–346.
+4. Horgan, T., & Tienson, J. (2002). "The Intentionality of Phenomenology and the Phenomenology of Intentionality." In D. Chalmers (Ed.), *Philosophy of Mind: Classical and Contemporary Readings*. Oxford University Press.
+5. Hutto, D.D. & Myin, E. (2013). *Radicalizing Enactivism: Basic Minds without Content*. MIT Press.
 6. Kriegel, U. (2013). "Phenomenal Intentionality Past and Present." *Phenomenology and the Cognitive Sciences*, 12(3), 437–444.
 7. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354–361.
-8. Limanowski, J. & Friston, K. (2018). "'Seeing the Dark': Grounding Phenomenal Transparency and Opacity in Precision Estimation for Active Inference." *Frontiers in Psychology*, 9, 643.
-9. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
-10. McGinn, C. "Double Intentionality." www.colinmcginn.net.
-11. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
-12. Pitt, D. (2004). "The Phenomenology of Cognition." *Philosophy and Phenomenological Research*, 69(1), 1-36.
-13. Searle, J.R. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3(3), 417–424.
-14. Siewert, C. (1998). *The Significance of Consciousness*. Princeton University Press.
-15. Strawson, G. (2011). "Cognitive Phenomenology: Real Life." In T. Bayne & M. Montague (Eds.), *Cognitive Phenomenology*. Oxford University Press.
-16. Stanford Encyclopedia of Philosophy. "Mental Representation." https://plato.stanford.edu/entries/mental-representation/
-17. Stanford Encyclopedia of Philosophy. "Phenomenal Intentionality." https://plato.stanford.edu/entries/phenomenal-intentionality/
+8. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
+9. Pitt, D. (2004). "The Phenomenology of Cognition." *Philosophy and Phenomenological Research*, 69(1), 1-36.
+10. Searle, J.R. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3(3), 417–424.
+11. Siewert, C. (1998). *The Significance of Consciousness*. Princeton University Press.
+12. Strawson, G. (2011). "Cognitive Phenomenology: Real Life." In T. Bayne & M. Montague (Eds.), *Cognitive Phenomenology*. Oxford University Press.
+13. Stanford Encyclopedia of Philosophy. "Mental Representation." https://plato.stanford.edu/entries/mental-representation/
+14. Stanford Encyclopedia of Philosophy. "Phenomenal Intentionality." https://plato.stanford.edu/entries/phenomenal-intentionality/

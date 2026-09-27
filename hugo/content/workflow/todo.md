@@ -1511,14 +1511,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-27
 - **Notes**: **Headroom 782 words (voids hard 3000; analyze_length 2217, soft_warning).** Last deep review 2026-06-24. File lines from 2026-09-27; re-grep. (a) **L93** "Not [emergence](/concepts/emergence/) (presupposes consciousness in the explanation—experience 'emerging' from non-experience)": emergence from non-experience does not *presuppose* experience; it is disputed on intelligibility grounds. And `concepts/emergent-dualism` L84 calls Hasker's generation view "a coherent and well-defended horn". Rephrase as a contested negative, with a piped link to `[[emergent-dualism]]`. (b) Add a one-sentence pointer to `[[consciousness-evolution-and-biology]]` for the evolutionary answer (selection explains the neural architecture, "how", not "why"). The void's body links none of the eight sibling pages reviewed.
 
-### P2: void-as-ground-of-meaning L94 inverts Shannon ("a signal that could be anything carries zero information"); `[[creative-aesthetic-void]]` bulleted twice (L104-105); "meaning" equivocates between significance and semantic content; tenet section claims support from resonance, including the quick Many Worlds argument (L134, L138, L140)
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/voids/void-as-ground-of-meaning.md
-- **Source**: optimistic-review 2026-09-27 (reviews/optimistic-2026-09-27-content-and-meaning-wing.md, Calibration concerns 2 and 4)
-- **Generated**: 2026-09-27
-- **Notes**: **Headroom 593 words (voids hard 3000; analyze_length 2406, soft_warning).** File lines from 2026-09-27; re-grep. (a) **L94** factual error: in Shannon's theory, more possible messages means MORE information per message. Replace with the correct point, which fits the omniscience paradox better: information is reduction of uncertainty, so a mind with no uncertainty gains zero information from any signal. Length-neutral. Fix BOTH trees or let sync do it (hugo copy L98). (b) **L104-105** merge the duplicate `[[creative-aesthetic-void]]` bullets (probably residue from coalescing). (c) Add a two-sentence note near L48-50: the thesis concerns *significance*; semantic "this-not-that" contrast (L50) and the meaning-void entry (L107) are analogues, not instances of a cognitive limit. (d) **L134** Dualism "gains support" runs the dependency backwards (the tenet supports the thesis, not the reverse); **L138** and **L140** are consistency presented as support. Reword to "coheres with". L140's "many-worlds dissolves a limit" should grant the Everettian branch-local particularity and put the dispute on global indexical identity (see reviews/optimistic-2026-09-27-evolution-and-origins-wing.md concern 2). Keep the convergence calibration at L54/L90 intact.
-
 ### P2: meaning-void L77 "teleosemantic theories cannot explain misrepresentation" contradicts concepts/teleosemantics L68; L59 Hesperus/Phosphorus claim conflicts with the content-externalism hybrid; quick Many Worlds argument (L119); four orphaned references; no links to the content cluster
 - **Type**: refine-draft
 - **Status**: pending
@@ -1592,6 +1584,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-27: void-as-ground-of-meaning L94 inverts Shannon ("a signal that could be anything carries zero information"); `[[creative-aesthetic-void]]` bulleted twice (L104-105); "meaning" equivocates between significance and semantic content; tenet section claims support from resonance, including the quick Many Worlds argument (L134, L138, L140)
+- **Type**: refine-draft
+- **File**: obsidian/voids/void-as-ground-of-meaning.md
+- **Notes**: **Headroom 593 words (voids hard 3000; analyze_length 2406, soft_warning).** File lines from 2026-09-27; re-grep. (a) **L94** factual error: in Shannon's theory, more possible messages means MORE information per message. Replace with the correct point, which fits the omniscience paradox better: information is reduction of uncertainty, so a mind with no uncertainty gains zero information from any signal. Length-neutral. Fix BOTH trees or let sync do it (hugo copy L98). (b) **L104-105** merge the duplicate `[[creative-aesthetic-void]]` bullets (probably residue from coalescing). (c) Add a two-sentence note near L48-50: the thesis concerns *significance*; semantic "this-not-that" contrast (L50) and the meaning-void entry (L107) are analogues, not instances of a cognitive limit. (d) **L134** Dualism "gains support" runs the dependency backwards (the tenet supports the thesis, not the reverse); **L138** and **L140** are consistency presented as support. Reword to "coheres with". L140's "many-worlds dissolves a limit" should grant the Everettian branch-local particularity and put the dispute on global indexical identity (see reviews/optimistic-2026-09-27-evolution-and-origins-wing.md concern 2). Keep the convergence calibration at L54/L90 intact.
 
 ### ✓ 2026-09-27: Research Donald's and Georgiev's critiques of Stapp's Process 1 (projection basis and timing; Zeno breakdown beyond decoherence time)
 - **Type**: research-topic
