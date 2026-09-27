@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-09-26T08:00:50.696956'
+ai_modified: '2026-09-27T08:05:27.883705'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-09-26'
+modified: '2026-09-27'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-09-27: Consciousness Built From Parts That Feel Nothing
+
+Panprotopsychism puts non-experiential properties at nature's base to avoid conscious electrons. New concept page on why the gap between non-experience and experience reopens one level down, and why Chalmers splits his credence between it and dualism.
+
+**Type**: new-article  
+**Link**: [[panprotopsychism]]
+
+---
+
 ### 2026-09-26: You Can See Their Grief, Never Live It
 
 Stein, Scheler and Zahavi say empathy is neither inference nor projection: you really are given another's grief, but never as they live it. New concept page on why that gap never closes.
@@ -201,15 +210,6 @@ Lasers hit single cones and produced a percept outside the natural human gamut. 
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2096148781838307821  
 **Link**: [[palette-extension-void]]
-
----
-
-### 2026-09-04: Becoming an Expert Doesn't Erase the Beginner in You
-
-The Map said mastery overwrites the novice way of seeing. Evidence says otherwise: scientists revert to teleology under time pressure, and blind contour drawing works because the pre-expert eye is still there. Claim walked back—the access closed, the seeing did not.
-
-**Type**: refinement  
-**Link**: [[expertise-and-its-occlusion]]
 
 ---
 
