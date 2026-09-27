@@ -1420,14 +1420,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **CLOSED BY THE DRIVER 2026-09-19 09:0x UTC.** The over-concession task on `topics/metaproblem-of-consciousness-under-dualism` discharged this in the same paragraph, as designed — all three findings shared one section and were written once. **Measured after the edit: `Saad` 0 → 4 occurrences in that article** (word-boundary), against 16 deployments of `realizationism`, with the full metadata landed from Chalmers 2020's own reference list (*JCS* 26(9–10):205–216) and a piped `[[delegatory-dualism|delegatory dualism]]` reciprocal into the existing Saad cluster. Verified 4:4 in **both** obsidian and hugo. ⚠️ **The attribution guard held**: Chalmers keeps the coinage ("whose term it is"); Saad supplies the interactionist version only. **THE SECOND HALF IS DELIBERATELY NOT DONE, and should not be re-minted.** This task said "both meta-problem articles", but `concepts/meta-problem-of-consciousness` deploys `realizationism` exactly **once** (offset 8974), where it defines the term inline and immediately hands off via `[[metaproblem-of-consciousness-under-dualism|interactionist development]]` to the article that now carries the provenance. A single defining mention behind an explicit hand-off does not need its own attribution, and that file is at **3481/3499 words — 18 words of headroom — with an open `condense` task against it**. Adding a citation there would trip the hard gate.
 
-### P3: combination-problem: recalibrate "Empirical Distinguishability" (Khan 2024 "support quantum mechanisms", uncited C. elegans claim, "testable by current methods") and add the manyism note to Coleman's dilemma
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/combination-problem.md
-- **Source**: optimistic-review 2026-09-24 (reviews/optimistic-2026-09-24-composition-and-combination-wing.md, Birch flag 1, concern 3)
-- **Generated**: 2026-09-24
-- **Notes**: **Headroom 494 words (concepts hard 3500; body 3005, soft_warning). Make this LENGTH-NEUTRAL.** 63-inbound hub. (a) **L167** "(Khan et al. 2024) support quantum mechanisms for consciousness". Epothilone B delaying anaesthetic onset implicates microtubules in how the anaesthetic acts, not quantum mechanisms. **Template**: `topics/the-strong-emergence-of-consciousness` L151 "What raises the prior without supporting it". (b) **L165** "yet the animal fails behavioral markers of unified consciousness" has no citation. Source it or cut it. (c) **L145** ("Empirical: which quantum states, what coupling"), **L149** ("can in principle look for it") and **L169** ("generates predictions testable by current methods") belong to the register that the bridge's L117 retires ("Locatable is weaker than approachable … observationally indistinguishable from chance under any unconditioned aggregate test"). L193 already carries the right closing hedge, so bring L169 into line with it. (d) **L56-60** Coleman's dilemma ends "Neither option delivers what panpsychism needs". Add a clause saying Roelofs takes the second horn ([[manyism]]). At present manyism appears only in Further Reading (L210).
-
 ### P3: Write concept page on panprotopsychism
 - **Type**: expand-topic
 - **Status**: pending
@@ -1604,6 +1596,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-27: combination-problem: recalibrate "Empirical Distinguishability" (Khan 2024 "support quantum mechanisms", uncited C. elegans claim, "testable by current methods") and add the manyism note to Coleman's dilemma
+- **Type**: refine-draft
+- **File**: obsidian/concepts/combination-problem.md
+- **Notes**: **Headroom 494 words (concepts hard 3500; body 3005, soft_warning). Make this LENGTH-NEUTRAL.** 63-inbound hub. (a) **L167** "(Khan et al. 2024) support quantum mechanisms for consciousness". Epothilone B delaying anaesthetic onset implicates microtubules in how the anaesthetic acts, not quantum mechanisms. **Template**: `topics/the-strong-emergence-of-consciousness` L151 "What raises the prior without supporting it". (b) **L165** "yet the animal fails behavioral markers of unified consciousness" has no citation. Source it or cut it. (c) **L145** ("Empirical: which quantum states, what coupling"), **L149** ("can in principle look for it") and **L169** ("generates predictions testable by current methods") belong to the register that the bridge's L117 retires ("Locatable is weaker than approachable … observationally indistinguishable from chance under any unconditioned aggregate test"). L193 already carries the right closing hedge, so bring L169 into line with it. (d) **L56-60** Coleman's dilemma ends "Neither option delivers what panpsychism needs". Add a clause saying Roelofs takes the second horn ([[manyism]]). At present manyism appears only in Further Reading (L210).
 
 ### ✓ 2026-09-27: panpsychisms-combination-problem: import the interface-unity concession and retire the "empirically approachable … preferable" comparative claim (L125, L133, L141)
 - **Type**: refine-draft

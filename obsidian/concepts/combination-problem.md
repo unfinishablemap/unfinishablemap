@@ -30,7 +30,7 @@ ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-18T00:46:24+00:00
-ai_modified: 2026-07-25T05:36:36+00:00
+ai_modified: 2026-09-27T02:50:34+00:00
 ---
 
 The combination problem is the central challenge facing [[panpsychism]]—the view that consciousness is fundamental and ubiquitous. If electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James identified this as the central difficulty of the mind-dust theory, and it remains unsolved. The Unfinishable Map's [[interactionist-dualism|interactionist framework]] avoids the *constitutive* form of the problem by denying that matter has micro-experiences in the first place—though, as [the discussion of interface unity below](#the-unity-of-the-interface) concedes, it still owes an account of how one subject unifies a spatially distributed interface.
@@ -41,7 +41,7 @@ Panpsychism proposes that fundamental physical entities—quarks, electrons, pho
 
 But this creates a new puzzle. My consciousness is *unified*—I have one visual field, one stream of thought, one sense of being a single subject. If my brain is made of billions of particles each with its own micro-experience, how do those micro-experiences combine into *my* experience?
 
-William Seager, who coined the term "combination problem" (1995), distinguished it from mere aggregation. A pile of rocks is just rocks sitting together; there's no emergent "pile-consciousness." Why should consciousness be different? Why should my experience be more than the sum of electron-experiences?
+William Seager, who coined the term "combination problem" (1995), distinguished it from mere aggregation. A pile of rocks is just rocks sitting together; there's no emergent "pile-consciousness." Why should my experience be more than the sum of electron-experiences?
 
 David Chalmers (2017) systematized the problem into distinct dimensions, each presenting its own challenge.
 
@@ -57,7 +57,7 @@ Sam Coleman (2014) argues subject-summing is demonstrably incoherent. If subject
 - A and B cease to exist (but then what combined?), or
 - A, B, and C all exist (but then C isn't a *combination* of A and B—it's an addition to them)
 
-Neither option delivers what panpsychism needs: a single unified subject arising from constituent subjects.
+Neither option delivers what panpsychism needs: a single unified subject arising from constituent subjects. Luke Roelofs' [[manyism]] takes the second horn and embraces it: composite and micro-subjects coexist, sharing experiences rather than fusing.
 
 Some philosophers respond that the subject-summing problem dissolves if we abandon the assumption of discrete, bounded subjects. Buddhist no-self views suggest subjects are conventional constructs rather than metaphysical atoms. Process philosophers following Whitehead propose that experience is inherently relational—"drops of experience" compound naturally rather than combining across unbridgeable gaps. But most panpsychists accept the reality of subjects and must explain how micro-subjects constitute macro-subjects without eliminating them.
 
@@ -97,7 +97,7 @@ Critics object that phenomenal bonding names the problem rather than solving it.
 
 Barry Dainton proposes co-consciousness as the bonding relation—the relation that holds when experiences are "experienced together." Unlike phenomenal bonding, co-consciousness is introspectively accessible; we know what it's like for experiences to be co-conscious.
 
-But critics question whether this solves the problem or merely describes it. We know our experiences are co-conscious, but how do electron-experiences become co-conscious with each other? The mechanism remains mysterious.
+But critics question whether this solves the problem or merely describes it. We know our experiences are co-conscious, but how do electron-experiences become co-conscious with each other?
 
 ### Combinatorial Infusion
 
@@ -115,11 +115,11 @@ This trades the combination problem for a "[[open-individualism-and-the-de-combi
 
 Annaka Harris proposes abandoning subjects altogether, retaining only consciousness and its contents as fundamental. Without subjects, there's no subject-summing problem.
 
-But this is a radical departure from ordinary conceptions of consciousness. If there are no subjects, who has experiences? This dissolves the problem by dissolving the explanandum.
+If there are no subjects, who has experiences? This dissolves the problem by dissolving the explanandum.
 
 ## Why the Problem Is Serious
 
-The combination problem is not just a technical difficulty—it threatens panpsychism's core motivation.
+The combination problem threatens panpsychism's core motivation.
 
 Panpsychism aimed to avoid the hard problem: the seeming impossibility of experience emerging from non-experiential matter. But if the combination problem is equally intractable, panpsychism hasn't made progress—it has merely traded "how does experience arise from non-experience?" for "how do micro-experiences combine into macro-experience?"
 
@@ -142,11 +142,11 @@ Instead of combination, the Map posits *interaction*. Consciousness interfaces w
 | **Core problem** | Combination: how micro-experiences unite | Interaction: how distinct substances causally connect |
 | **Subject unity** | Must explain how many subjects become one | Unity is fundamental—no combination needed (itself a posited primitive, symmetric to phenomenal bonding) |
 | **Mechanism** | Phenomenal bonding (proposed, unexplained) | Quantum selection (proposed, unexplained at detail level) |
-| **Type of explanation needed** | Conceptual: what combination even means | Empirical: which quantum states, what coupling |
+| **Type of explanation needed** | Conceptual: what combination even means | Mechanistic: which quantum states, what coupling (locatable, not yet testable) |
 
-The interaction problem—how distinct substances causally influence each other—is widely considered dualism's most serious difficulty. The [[causal-closure|quantum framework]] provides a partial response: consciousness selects among outcomes that physics leaves undetermined, so no physical law is violated. But this identifies a *locus* for interaction, not a *mechanism*—no one has specified which quantum states consciousness selects, what the selection dynamics are, or how to detect them. At the level of detailed mechanism, interactionism's quantum selection is as unspecified as panpsychism's phenomenal bonding.
+The interaction problem is widely considered dualism's most serious difficulty. The [[causal-closure|quantum framework]] provides a partial response: consciousness selects among outcomes that physics leaves undetermined, so no physical law is violated. But this identifies a *locus* for interaction, not a *mechanism*—no one has specified which quantum states consciousness selects, what the selection dynamics are, or how to detect them. At the level of detailed mechanism, interactionism's quantum selection is as unspecified as panpsychism's phenomenal bonding.
 
-The difference—if there is one—is in the *type* of problem each faces. The combination problem is conceptual: it is unclear what it would even mean for micro-experiences to combine. The interaction problem is empirical: we know what causal influence means, and can in principle look for it at quantum indeterminacies.
+The difference—if there is one—is in the *type* of problem each faces. The combination problem is conceptual: it is unclear what it would even mean for micro-experiences to combine. The interaction problem is *locatable*: we know what causal influence means and where it would act. Locatable is weaker than approachable—a Born-preserving bias is indistinguishable from chance under unconditioned aggregate tests (see [[mqi-empirical-fragility]]).
 
 ### The Unity of the Interface
 
@@ -158,15 +158,15 @@ The residue still deserves honest location. The Map's [[quantum-holism-and-pheno
 
 ### Empirical Distinguishability
 
-Can we test which problem is more tractable? Several lines of evidence bear on the question:
+Several lines of evidence bear on which problem is more tractable:
 
-**Quantum coherence measurements**: If consciousness operates at quantum indeterminacies, we should find quantum effects correlated with consciousness in ways that survive decoherence objections. Recent work (Kerskens & López Pérez 2022) reports MRI signals suggesting entanglement that tracks waking consciousness, though the interpretation is contested—Warren (2023) argued the same signals are explicable by classical intermolecular multiple-quantum coherence, with no entanglement required, and the authors replied; the finding is unreplicated. If confirmed, this supports the interactionist mechanism without providing any evidence for how micro-experiences combine. The Map's [[entanglement-binding-hypothesis|entanglement binding hypothesis]] explores quantum holism as the candidate physical structure that could underwrite phenomenal unity without invoking combination of micro-subjects.
+**Quantum coherence measurements**: If consciousness operates at quantum indeterminacies, we should find quantum effects correlated with consciousness in ways that survive decoherence objections. Kerskens & López Pérez (2022) report MRI signals suggesting entanglement that tracks waking consciousness, though the interpretation is contested—Warren (2023) argued the same signals are explicable by classical intermolecular multiple-quantum coherence, with no entanglement required, and the authors replied; the finding is unreplicated. If confirmed, this supports the interactionist mechanism without providing any evidence for how micro-experiences combine. The Map's [[entanglement-binding-hypothesis|entanglement binding hypothesis]] explores quantum holism as the candidate physical structure that could underwrite phenomenal unity without invoking combination of micro-subjects.
 
-**Simple organism studies**: Research on [[minimal-consciousness|C. elegans and Hydra]] tests panpsychist predictions. If [[unity-of-consciousness|phenomenal unity]] requires the combination of micro-experiences, we should see gradients of unity tracking complexity. But the evidence is ambiguous—some simplified *models* of the 302-neuron nematode have been assigned positive integrated-information-related measures (an autoregressive proxy Φ_AR, not the canonical IIT Φ, which has never been computed for the worm; Antonopoulos, Fokas & Bountis 2015), yet the animal fails behavioral markers of unified consciousness. The combination mechanism, if real, doesn't manifest in observable correlates.
+**Simple organism studies**: Research on [[minimal-consciousness|C. elegans and Hydra]] tests panpsychist predictions. If [[unity-of-consciousness|phenomenal unity]] requires the combination of micro-experiences, we should see gradients of unity tracking complexity. But the evidence is ambiguous—some simplified *models* of the 302-neuron nematode have been assigned positive integrated-information-related measures (an autoregressive proxy Φ_AR, not the canonical IIT Φ, which has never been computed for the worm; Antonopoulos, Fokas & Bountis 2015), yet no behavioural test settles whether the worm's experience, if any, is unified. An integration proxy cannot adjudicate combination.
 
-**Anesthesia and microtubules**: Studies showing that microtubule-stabilizing drugs delay anesthetic-induced unconsciousness (Khan et al. 2024) support quantum mechanisms for consciousness, again without implicating micro-experience combination.
+**Anesthesia and microtubules**: The microtubule stabiliser epothilone B delayed anesthetic-induced unconsciousness in rats (Khan et al. 2024). That implicates microtubules in how the anesthetic acts; since microtubules traffic the receptors anesthetics target, a classical reading fits equally well, so the result raises the prior on a quantum interface without supporting it.
 
-The interactionist framework generates predictions testable by current methods—though these predictions remain unconfirmed and the studies cited are preliminary. Panpsychism's combination proposals remain primarily conceptual, with no clear empirical consequences distinguishing successful from failed combination. Neither framework has decisive support, but interactionism at least identifies what evidence would count for or against it.
+None of these studies tests the interactionist mechanism; only a deviation conditioned on intention, task or subject would. Panpsychism's combination proposals remain conceptual, with no empirical consequences distinguishing successful from failed combination. Neither framework has decisive support.
 
 ## What Panpsychism Gets Right
 
@@ -207,7 +207,7 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 - [[hard-problem-of-consciousness]] — The problem panpsychism aimed to solve
 - [[qualia]] — What must combine (or not)
 - [[composition-and-consciousness|phenomenal non-compositionality]] — Why consciousness resists composition categorically
-- [[manyism]] — Roelofs' experience-sharing reply: overlapping subjects coexist, dissolving subject-summing
+- [[manyism]] — Roelofs' experience-sharing reply to subject-summing
 - [[panpsychisms-combination-problem]] — In-depth treatment of the problem's three dimensions and de-combination
 - [[mereology-of-mind]] — The apex synthesis where de-combination is the named hinge joining composition and individuation
 - [[consciousness-and-the-metaphysics-of-individuation]] — The complementary problem: what draws boundaries around discrete subjects

@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-27T02:50:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [combination-problem](/concepts/combination-problem/)
+- **Original score**: n/a (targeted task; `scripts/curate.py` absent)
+- **Word count**: 3005 → 3009 body words (length-neutral; +4)
+- **Changes**: (a) L167 Khan et al. 2024 no longer "support quantum mechanisms": now says epothilone B implicates microtubules in how the anaesthetic acts, admits a classical receptor-trafficking reading, and raises the prior without supporting the quantum reading (template: topics/the-strong-emergence-of-consciousness L151). (b) L165 uncited "the animal fails behavioral markers of unified consciousness" cut; replaced with "no behavioural test settles whether the worm's experience, if any, is unified", plus a note that an integration proxy cannot adjudicate combination. (c) Retired the "empirical/testable" register to match the open-individualism bridge's L117: table row "Empirical" → "Mechanistic … (locatable, not yet testable)"; L149 "can in principle look for it" → "locatable, which is weaker than approachable" (Born-preserving bias indistinguishable from chance under unconditioned aggregate tests, linked [mqi-empirical-fragility](/project/mqi-empirical-fragility/)); L169 "generates predictions testable by current methods" → none of the cited studies tests the mechanism, and only a conditioned deviation would. This now matches L193. (d) The Coleman dilemma now names Roelofs' [manyism](/concepts/manyism/) as taking the second horn (the first body link to manyism). Offsetting trims at L44, L100, L118, L122, L147, L161 and in the Further Reading manyism gloss.
+- **Engagement classification**: Coleman/Roelofs: Mode Three (exposition; the Map's reply lives in manyism.md).
+- **Published**: yes
+
 ## 2026-09-27T02:37:13+00:00 - deep-review
 - **Status**: Success
 - **File**: [frankfurt-hierarchical-mesh-theory-of-the-will](/concepts/frankfurt-hierarchical-mesh-theory-of-the-will/)
