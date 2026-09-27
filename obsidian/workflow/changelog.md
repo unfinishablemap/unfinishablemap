@@ -5,6 +5,15 @@ ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T03:55:48+00:00 - collect-chatgpt-review + outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (GPT-5.6 Sol, Pro effort). Subject: `topics/free-will` (fallback:recent-aged)
+- **File**: [[reviews/outer-review-2026-09-27-chatgpt-5-6-sol-pro]]
+- **Extraction**: page-built Blob download, SHA-256 matched on disk (47,249 bytes). The response is complete and ends on "Final judgment". ChatGPT's DOM has changed: `[data-message-author-role]` and `.markdown` now return nothing, and the response lives in `[class*="MarkdownRoot"]` (the last match is the reply; the first is the prompt).
+- **Claims verified**: 12 Map-attributed claims (all accurate) and 2 primary-source checks (James confirmed, including the omitted "insoluble on strictly psychologic grounds" caution). New finding: the James locator "p. 497" is edition-ambiguous, since it falls on p. 571 in the 1890 Holt edition. 1 disputed: the PhilPapers 59% → 62.81% "correction" compares the main-results figure with a longitudinal subpopulation, and the research note already settled it at 59%.
+- **High-value findings**: 5. The trilemma correction has not propagated (the reviewer found 1 survivor, the sweep found 4). The hub has no rollback/contrastive-luck answer. The physicalist rival is misdescribed as epiphenomenalism. Rajan's attention-only result is generalised to willed action across the cluster. `libet-experiments` makes a residual-to-cause inference.
+- **Tasks generated**: 5 (P1: 2, P2: 3), plus an addendum to the standing NEEDS-HUMAN cross-page propagation proposal
+
 ## 2026-09-27T03:22:13+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Panprotopsychism

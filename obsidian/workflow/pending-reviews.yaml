@@ -364,9 +364,9 @@
   commissioned_at: '2026-09-27T02:08:03.054364+00:00'
   prompt_summary: 'Audit free-will: claims, citations, counterarguments, tenet bracketing'
   target_filename: outer-review-2026-09-27-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-27T03:52:13.524628+00:00'
   failure_reason: null
   prompt_text: 'Act as a rigorous external referee for The Unfinishable Map (https://unfinishablemap.org),
     a dualist philosophy-of-mind site. Audit one article: https://unfinishablemap.org/topics/free-will/
