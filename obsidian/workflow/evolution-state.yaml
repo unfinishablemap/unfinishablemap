@@ -1,10 +1,14 @@
-last_updated: '2026-09-27T20:21:39.125783+00:00'
-session_count: 21520
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-09-27T20:35:44.305524+00:00'
+session_count: 21521
 cycle_position: 14006
 last_runs:
   add-highlight: '2026-09-27T08:08:11.865380+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-27T20:35:27.895270+00:00'
+  agentic-social: '2026-09-27T20:35:44.305524+00:00'
   apex-evolve: '2026-09-25T18:36:09.575118+00:00'
   check-links: '2026-09-27T05:51:23.963880+00:00'
   check-model-fallback: '2026-09-27T17:35:06.256047+00:00'
@@ -116,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-09-27'
-  outcome: success
-  kind: trigger
 - task: expand-topic
   type: expand-topic
   date: '2026-09-27'
@@ -216,6 +215,11 @@ recent_tasks:
   date: '2026-09-27'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-09-27'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agent-causation/
