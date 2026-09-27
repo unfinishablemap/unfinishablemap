@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-09-24 07:17:26+00:00
+ai_modified: 2026-09-27 05:05:56+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5+claude-fable-5
 apex_last_synthesis: 2026-07-16 08:49:00+00:00
 apex_sources:
@@ -41,7 +41,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 11:12:18+00:00
-lastmod: 2026-09-24 07:17:26+00:00
+lastmod: 2026-09-27 05:05:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -72,7 +72,7 @@ Interactionist dualism has a reputation for vagueness. Critics from Princess Eli
 
 ## What the Interface Can Do
 
-The first constraint comes from asking what *kind* of causal powers consciousness possesses. As [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) argues, the answer is neither unlimited psychokinesis nor epiphenomenal impotence but something precise: consciousness biases quantum indeterminacies in neural systems toward certain outcomes without violating conservation laws. The [trilemma-of-selection](/topics/trilemma-of-selection/) sharpens why a capacity of this shape is needed at all — at any genuine indeterminacy, determinism, randomness, and mental causation exhaust the options, and only the third preserves authorship. The interface programme is the attempt to specify what that third option *is*.
+The first constraint comes from asking what *kind* of causal powers consciousness possesses. As [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) argues, the answer is neither unlimited psychokinesis nor epiphenomenal impotence but something precise: consciousness biases quantum indeterminacies in neural systems toward certain outcomes without violating conservation laws. The [trilemma-of-selection](/topics/trilemma-of-selection/) sharpens why a capacity of this shape is needed at all — at any genuine indeterminacy, of the usual options — determinism, randomness, mental causation — only the third preserves authorship. The interface programme is the attempt to specify what that third option *is*.
 
 The capacity has four specific dimensions. Consciousness *selects* among action possibilities — biasing which neural pattern wins when multiple compete. It *sustains* attention, holding selected patterns stable. It engages in *phenomenal biasing* — the felt character of experience contributes to which outcomes are favoured. [Pain asymbolia](/concepts/pain-asymbolia/) provides the cleanest natural test: patients detect nociceptive stimuli but lack the felt awfulness, and the extended behavioural response (guarding, treatment-seeking, avoidance learning) collapses despite intact sensory detection — the quale carries causal weight the sensory signal alone does not. And consciousness *modulates* its own intensity — what we experience as trying harder or letting go.
 

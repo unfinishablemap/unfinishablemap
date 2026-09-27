@@ -4,7 +4,7 @@ description: "Bradford Saad's unified mechanism for mental causation: experience
 created: 2026-02-15
 modified: 2026-09-18
 human_modified: null
-ai_modified: 2026-09-19T23:52:45+00:00
+ai_modified: 2026-09-27T05:05:56+00:00
 last_deep_review: 2026-07-18T08:36:00+00:00
 draft: false
 topics:
@@ -147,7 +147,7 @@ This identification has consequences:
 
 **Observational closure follows necessarily.** If consciousness selects *within* Born-rule probabilities, the statistical distribution of outcomes is unchanged. Delegation produces no empirical anomalies — and so no [[born-rule-and-the-consciousness-interface|Born-test exposure]], the cost the born-rule article names — because the experience causes what the default profile would have produced statistically. The philosophical constraint Saad imposes by design—no observable violations—coincides with a structural constraint argued to be required of any relativistically consistent probability assignment (Torres Alegre 2025, a recent arXiv preprint not yet peer-reviewed). The [[consciousness-physics-interface-formalism]] establishes Born-rule preservation as the first of five non-negotiable constraints on any consciousness-physics coupling; delegation satisfies it structurally. This very coincidence is what generates the sharpest residual worry: if the experience leaves *no* trace at the ensemble level, [[ensemble-level-epiphenomenalism|is it doing causal work or only riding the distribution physics already fixes]]? Delegation's answer is the trumping route—efficacy is a structural property, not a statistical one—rated honestly there as framework-internal rather than empirically demonstrable.
 
-**Profile matching gains precision.** The Subset Law* requires that an experience's causal profile be a subset of the physical state's default profile. On the quantum reading, this means consciousness cannot cause effects the quantum state assigns zero probability. Selection chooses among live options; it does not create options physics forbids. The [[trilemma-of-selection]] establishes why this selection must be conscious: at any point of genuine indeterminacy, determinism, randomness, and mental causation exhaust the options, and only mental causation preserves authorship.
+**Profile matching gains precision.** The Subset Law* requires that an experience's causal profile be a subset of the physical state's default profile. On the quantum reading, this means consciousness cannot cause effects the quantum state assigns zero probability. Selection chooses among live options; it does not create options physics forbids. The [[trilemma-of-selection]] establishes why this selection must be conscious: at any point of genuine indeterminacy, of the usual options — determinism, randomness, mental causation — only mental causation preserves authorship.
 
 ## Bandwidth and Granularity
 

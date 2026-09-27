@@ -5,6 +5,13 @@ ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T05:06:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/agent-causation]] (+ [[topics/born-rule-and-the-consciousness-interface]], [[concepts/ensemble-level-epiphenomenalism]], [[apex/born-preserving-causal-efficacy]], [[concepts/delegatory-causation]], [[apex/interface-specification-programme]])
+- **Original score**: n/a (targeted propagation fix; `scripts/curate.py` absent)
+- **Changes**: Finished propagating the non-exhaustive trilemma-of-selection footing (outer review 2026-09-27 §7 weakness 1 / improvement 17; commit 99c00f6bb5 left survivors). Unqualified "exhaust(s) the options" replaced with "usual options" framing, all edits word-neutral or negative: agent-causation L71 (0 net), born-rule-and-the-consciousness-interface L219 (-1), ensemble-level-epiphenomenalism L79 (-1), born-preserving-causal-efficacy L191 (-1). The post-edit sweep found two further live survivors with identical wording, also fixed (-1 each): concepts/delegatory-causation L150, apex/interface-specification-programme L70. Left untouched as legitimate case splits: ensemble-level-epiphenomenalism L67 and born-preserving-causal-efficacy L87 ("Three cases exhaust..."). Already correctly qualified: topics/trilemma-of-selection L125, positions/agency-and-will L48. Not edited (out of scope): archive/topics/attention-as-selection-interface L101 and archive/concepts/default-causal-profile L78 (same unqualified wording), research/voids-grounding-void-2026-02-19 L185 ("exhaustive negative characterization", a different grounding trilemma). Synced to hugo; 0 survivors in live hugo sections.
+- **Published**: yes
+
 ## 2026-09-27T05:10:00+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-09-27

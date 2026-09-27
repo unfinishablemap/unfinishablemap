@@ -3,7 +3,7 @@ title: "The Interface Specification Programme"
 created: 2026-03-15
 modified: 2026-07-15
 human_modified: null
-ai_modified: 2026-09-24T07:17:26+00:00
+ai_modified: 2026-09-27T05:05:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -67,7 +67,7 @@ Interactionist dualism has a reputation for vagueness. Critics from Princess Eli
 
 ## What the Interface Can Do
 
-The first constraint comes from asking what *kind* of causal powers consciousness possesses. As [[consciousness-and-causal-powers]] argues, the answer is neither unlimited psychokinesis nor epiphenomenal impotence but something precise: consciousness biases quantum indeterminacies in neural systems toward certain outcomes without violating conservation laws. The [[trilemma-of-selection]] sharpens why a capacity of this shape is needed at all — at any genuine indeterminacy, determinism, randomness, and mental causation exhaust the options, and only the third preserves authorship. The interface programme is the attempt to specify what that third option *is*.
+The first constraint comes from asking what *kind* of causal powers consciousness possesses. As [[consciousness-and-causal-powers]] argues, the answer is neither unlimited psychokinesis nor epiphenomenal impotence but something precise: consciousness biases quantum indeterminacies in neural systems toward certain outcomes without violating conservation laws. The [[trilemma-of-selection]] sharpens why a capacity of this shape is needed at all — at any genuine indeterminacy, of the usual options — determinism, randomness, mental causation — only the third preserves authorship. The interface programme is the attempt to specify what that third option *is*.
 
 The capacity has four specific dimensions. Consciousness *selects* among action possibilities — biasing which neural pattern wins when multiple compete. It *sustains* attention, holding selected patterns stable. It engages in *phenomenal biasing* — the felt character of experience contributes to which outcomes are favoured. [[pain-asymbolia|Pain asymbolia]] provides the cleanest natural test: patients detect nociceptive stimuli but lack the felt awfulness, and the extended behavioural response (guarding, treatment-seeking, avoidance learning) collapses despite intact sensory detection — the quale carries causal weight the sensory signal alone does not. And consciousness *modulates* its own intensity — what we experience as trying harder or letting go.
 

@@ -4,7 +4,7 @@ description: "The Born rule resists derivation across every quantum interpretati
 created: 2026-03-15
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-09-24T06:16:22+00:00
+ai_modified: 2026-09-27T05:05:36+00:00
 draft: false
 anchoring_audit_exempt: true # 2026-09-02 false-high: 0.03/kw margin is apparatus dilution (2.03/kw over argumentative body); underdetermination structural — "cannot/do not yet adjudicate" 4x, regex-invisible
 topics:
@@ -216,7 +216,7 @@ All five connections inherit the *Compatibility vs. Support* discipline: the und
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Gleason sharpens what "minimal" means here: the corridor's geometric non-disturbance — selection among Born-weighted branches, leaving Tr(ρP) undeformed — is itself the minimal-intervention signature, and [[composition-and-consciousness|phenomenal non-compositionality]] adds that selection operates at a unified locus. Re-weighting the measure would breach minimality, which is why minimum-outside-corridor readings cost more. Trumping-based readings realise MQI without trajectory-level interaction — an even smaller footprint at the cost of empirical invisibility. The taxonomy is a live structural question, not a settled commitment.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: On the interface reading, obtaining an outcome is itself an act — consciousness selecting among possibilities — so observer-dependence reflects genuine bidirectional causation. The [[trilemma-of-selection]] supports this: at any point of genuine indeterminacy, determinism, randomness, and mental causation exhaust the options, and only the third preserves authorship. The [[trumping-preemption|trumping route]] realises it at the authority layer. A corridor position has to explain how single-event selection adds up to a genuine mental-to-physical channel without leaving an ensemble signature — arguably the Map's sharpest open question, rated route-by-route in [[ensemble-level-epiphenomenalism]].
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: On the interface reading, obtaining an outcome is itself an act — consciousness selecting among possibilities — so observer-dependence reflects genuine bidirectional causation. The [[trilemma-of-selection]] supports this: at any point of genuine indeterminacy, of the usual options — determinism, randomness, mental causation — only the third preserves authorship. The [[trumping-preemption|trumping route]] realises it at the authority layer. A corridor position has to explain how single-event selection adds up to a genuine mental-to-physical channel without leaving an ensemble signature — arguably the Map's sharpest open question, rated route-by-route in [[ensemble-level-epiphenomenalism]].
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: MWI accommodates the Born rule through decision-theoretic rationality axioms (Deutsch 1999, Wallace 2010, Carroll-Sebens 2014) — a framework-internal home parallel to those QBism, objective collapse, and the interface reading construct. These reconstructions are internally coherent on their own terms; the Map's preference for indexical identity over branching rests on the tenets. The [[probability-problem-in-many-worlds|probability problem]] catalogues the in-framework debate over what probability *means* when all outcomes occur, and the [[many-worlds-argument|cumulative case against MWI]] gathers the tenet-coherence considerations the Map regards as decisive even granting the accommodation.
 

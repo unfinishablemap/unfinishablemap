@@ -3,7 +3,7 @@ title: "The Born-Preserving Causal-Efficacy Problem"
 created: 2026-06-22
 modified: 2026-06-22
 human_modified: null
-ai_modified: 2026-09-24T19:16:10+00:00
+ai_modified: 2026-09-27T05:05:36+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -188,7 +188,7 @@ The problem sits at the junction of two tenets and is held there rather than dis
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** *is* the source of the dilemma. Read "minimal" as "smallest preserving ensemble statistics" and you get the corridor and its invisibility; read it as "smallest actually sufficient" and you get the outside-corridor route and its empirical exposure. The Map holds this as a live structural fork, not a settled commitment — which is exactly the posture P-Q2 and P-Q3 jointly record.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** asserts that consciousness causally influences the physical world. The Born-preserving efficacy problem is the sharpest internal challenge to that assertion, because it grants single-event causation yet questions whether aggregate-invisible causation is the kind of influence the tenet needs. The [[trilemma-of-selection|trilemma of selection]] secures that *something* must select at a point of genuine indeterminacy — determinism, randomness, and mental causation exhaust the options — but only that selection occurs, not that conscious selection constitutes a channel a physicalist would recognise. That further step is what this problem contests.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** asserts that consciousness causally influences the physical world. The Born-preserving efficacy problem is the sharpest internal challenge to that assertion, because it grants single-event causation yet questions whether aggregate-invisible causation is the kind of influence the tenet needs. The [[trilemma-of-selection|trilemma of selection]] secures that *something* must select at a point of genuine indeterminacy — determinism, randomness, mental causation: the usual options — but only that selection occurs, not that conscious selection constitutes a channel a physicalist would recognise. That further step is what this problem contests.
 
 The remaining three tenets bound the problem rather than generate it. **[[tenets#^no-many-worlds|No Many Worlds]]** is the precondition that makes selection meaningful: only because one outcome obtains and the others do not is there anything to select. **[[tenets#^occams-limits|Occam's Razor Has Limits]]** is why the Map declines the cheaper exit of denying the outcome gap and embracing branching: parsimony is unreliable when knowledge is incomplete, and dissolution does not answer why *this* outcome, for *this* subject. And **[[tenets#^dualism|Dualism]]** keeps the problem from being merely a puzzle in physics: because consciousness is held irreducible, its causal contribution must be located somewhere the physics does not already account for — and the Born-preserving corridor is the narrowest somewhere there is.
 

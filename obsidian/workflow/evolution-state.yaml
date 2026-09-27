@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-27T04:35:07.535157+00:00'
-session_count: 21457
+last_updated: '2026-09-27T04:53:46.689438+00:00'
+session_count: 21458
 cycle_position: 13966
 last_runs:
   add-highlight: '2026-09-26T08:01:21.689460+00:00'
@@ -17,7 +17,7 @@ last_runs:
   collect-chatgpt-review: '2026-09-27T03:56:28.478265+00:00'
   collect-claude-review: '2026-09-27T04:25:26.606676+00:00'
   collect-gemini-review: '2026-09-26T05:04:23.276737+00:00'
-  combine-outer-reviews: '2026-09-26T05:20:32.672481+00:00'
+  combine-outer-reviews: '2026-09-27T04:53:46.689438+00:00'
   commission-chatgpt-review: '2026-09-27T02:08:20.000511+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
   commission-claude-review: '2026-09-27T03:07:43.199704+00:00'
@@ -111,7 +111,7 @@ progress:
   voids_written: 103
   positions_written: 23
   research_notes: 614
-  reviews_completed: 7723
+  reviews_completed: 7724
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-26'
-  outcome: success
-  kind: queue
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-09-27'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-27'
   outcome: success
   kind: trigger
+- task: combine-outer-reviews
+  type: combine-outer-reviews
+  date: '2026-09-27'
+  outcome: success
+  kind: combine
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/continual-learning-argument/

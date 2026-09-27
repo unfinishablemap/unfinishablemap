@@ -4,7 +4,7 @@ description: "The corridor reading's sharpest open question, refined through hum
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-09-01T21:42:19+00:00
+ai_modified: 2026-09-27T05:05:36+00:00
 last_deep_review: 2026-08-27T10:09:12+00:00
 draft: false
 topics:
@@ -76,7 +76,7 @@ This concept sits at the junction of two tenets.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The worry *is* the cost of the strictest reading of this tenet. Reading "minimal" as "smallest preserving ensemble statistics" yields the corridor and its marginal-level invisibility; reading it as "smallest actually sufficient" yields the outside-corridor route and its empirical exposure. The Map holds this as a live structural fork, not a settled commitment.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The tenet asserts that consciousness causally influences the physical world. Ensemble-level epiphenomenalism is the sharpest internal challenge to that assertion under the corridor reading, because it grants single-event causation yet questions whether aggregate-invisible causation is the kind of influence the tenet needs. The [[trilemma-of-selection|trilemma of selection]] supports the underlying claim that *something* must select at a point of genuine indeterminacy — determinism, randomness, and mental causation exhaust the options — but the trilemma secures only that selection occurs, not that conscious selection constitutes a channel a physicalist would recognise. That further step is what this worry contests, and what the trumping and outside-corridor routes answer in their different currencies.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The tenet asserts that consciousness causally influences the physical world. Ensemble-level epiphenomenalism is the sharpest internal challenge to that assertion under the corridor reading, because it grants single-event causation yet questions whether aggregate-invisible causation is the kind of influence the tenet needs. The [[trilemma-of-selection|trilemma of selection]] supports the underlying claim that *something* must select at a point of genuine indeterminacy — determinism, randomness, mental causation: the usual options — but the trilemma secures only that selection occurs, not that conscious selection constitutes a channel a physicalist would recognise. That further step is what this worry contests, and what the trumping and outside-corridor routes answer in their different currencies.
 
 The Map does not resolve the worry here. It states it cleanly, names the two escapes, and rates each at the evidential tier it actually occupies — which is itself the practice the [[evidential-status-discipline|evidential-status discipline]] demands.
 

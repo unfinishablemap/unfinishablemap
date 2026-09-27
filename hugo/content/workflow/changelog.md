@@ -10,6 +10,31 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-27T05:06:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [agent-causation](/concepts/agent-causation/) (+ [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/), [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/), [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/), [delegatory-causation](/concepts/delegatory-causation/), [interface-specification-programme](/apex/interface-specification-programme/))
+- **Original score**: n/a (targeted propagation fix; `scripts/curate.py` absent)
+- **Changes**: Finished propagating the non-exhaustive trilemma-of-selection footing (outer review 2026-09-27 §7 weakness 1 / improvement 17; commit 99c00f6bb5 left survivors). Unqualified "exhaust(s) the options" replaced with "usual options" framing, all edits word-neutral or negative: agent-causation L71 (0 net), born-rule-and-the-consciousness-interface L219 (-1), ensemble-level-epiphenomenalism L79 (-1), born-preserving-causal-efficacy L191 (-1). The post-edit sweep found two further live survivors with identical wording, also fixed (-1 each): concepts/delegatory-causation L150, apex/interface-specification-programme L70. Left untouched as legitimate case splits: ensemble-level-epiphenomenalism L67 and born-preserving-causal-efficacy L87 ("Three cases exhaust..."). Already correctly qualified: topics/trilemma-of-selection L125, positions/agency-and-will L48. Not edited (out of scope): archive/topics/attention-as-selection-interface L101 and archive/concepts/default-causal-profile L78 (same unqualified wording), research/voids-grounding-void-2026-02-19 L185 ("exhaustive negative characterization", a different grounding trilemma). Synced to hugo; 0 survivors in live hugo sections.
+- **Published**: yes
+
+## 2026-09-27T05:10:00+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-27
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt, claude; the Gemini commission failed with no pending entry)
+- **Clusters**: 10 convergent (plus 1 partial), 7 singleton (1 disputed, 1 partly disputed), 2 divergent
+- **Tasks upgraded**: 3 (P3→P2: 0, P2→P1: 3). These were the `topics/free-will` citation/source-scope task, the `topics/free-will` tenet-leakage/falsifier task (moved first in the P1 group because it is length-negative), and the `concepts/libet-experiments` task. The luck/null P1 and the Born-rule P1 were rewritten without a further upgrade.
+- **Tasks deduplicated**: 0 (the Claude collect had already merged its findings as addenda)
+- **Output**: [outer-review-synthesis-2026-09-27](/reviews/outer-review-synthesis-2026-09-27/)
+
+## 2026-09-27T04:25:00+00:00 - collect-claude-review + outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5.5 (Research). Subject: `topics/free-will`, reused from the ChatGPT leg
+- **File**: [outer-review-2026-09-27-claude-opus-5-5](/reviews/outer-review-2026-09-27-claude-opus-5-5/)
+- **Extraction**: the artifact tile was ready on poll 1. The body was stable at 39,993 chars across the 10 s sentinel, and the page-built Blob download produced 47,079 chars. The extension connected on the second try, after about 15 s.
+- **Claims verified**: 14 Map-attributed spans, all accurate. 1 primary source was fetched and confirmed: Sjöberg 2024 at OUP, which shows `libet-experiments` L69 "It doesn't" is wrong. Desmurget was blocked by a PubMed CAPTCHA. 2 claims were overstated: predictive processing is engaged elsewhere in the corpus, and Pereboom is treated in the manipulation-argument article.
+- **High-value findings**: 5. Most important: the Born-rule / wild-coincidence dilemma and the mechanism debt are absent from the hub.
+- **Tasks generated**: 2 new (P1 Born-rule dilemma on `topics/free-will`; P2 tenet leakage and falsifier immunisation on `topics/free-will`, length-negative). 3 addenda were appended to the sibling ChatGPT tasks instead of minting duplicates: the rollback/null P1 is now convergent across 2 reviewers, the free-will citations P2 gains reference titles and Libet 1985, and the libet-experiments P2 gains Sjöberg, Schurger, decoherence and the strawman.
+
 ## 2026-09-27T03:55:48+00:00 - collect-chatgpt-review + outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Pro (GPT-5.6 Sol, Pro effort). Subject: `topics/free-will` (fallback:recent-aged)

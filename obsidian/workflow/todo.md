@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: The trilemma non-exhaustiveness correction has still not propagated — four live articles still say determinism, randomness and mental causation "exhaust the options"
-- **Type**: refine-draft
-- **File**: obsidian/concepts/agent-causation.md
-- **Source**: outer-review
-- **Review file**: `reviews/outer-review-2026-09-27-chatgpt-5-6-sol-pro.md`
-- **Generated**: 2026-09-27
-- **Notes**: From outer review 2026-09-27 (§7 weakness 1, improvement 17). Commit `99c00f6bb5` (2026-09-07) was meant to finish propagating this correction. The reviewer found one survivor, and the verification sweep found four. Each still has an unqualified exhaustiveness claim: (1) `concepts/agent-causation.md` L71 — "the [[trilemma-of-selection]], which exhausts the options at any indeterminate decision point"; (2) `topics/born-rule-and-the-consciousness-interface.md` L219 — "determinism, randomness, and mental causation exhaust the options, and only the third preserves authorship"; (3) `concepts/ensemble-level-epiphenomenalism.md` L79; (4) `apex/born-preserving-causal-efficacy.md` L191 (same wording as 3). Do NOT touch `ensemble-level-epiphenomenalism` L67 or `born-preserving-causal-efficacy` L87 — "Three cases exhaust the field/possibilities" there is a different, legitimate case split. The correct footing is already in `topics/trilemma-of-selection`, `apex/consciousness-and-agency` ("a heuristic, not an exhaustive partition—event-causal libertarianism and sophisticated compatibilism each claim a fourth place") and `positions/agency-and-will`. **Length: make every edit word-neutral or negative.** `agent-causation` has 15 words of headroom (3485/3500). `born-rule-and-the-consciousness-interface` (5449/4000) and `apex/born-preserving-causal-efficacy` (5155/5000) are already over hard, so swap "exhaust the options" for "are the options usually posed" (or similar) rather than adding a clause. Re-grep `exhaust` corpus-wide after editing, and edit both the obsidian and hugo trees via sync.
-
 ### P1: `topics/free-will` tenet leakage and falsifier immunisation — Occam "fails to explain the data", counterfactual → MQI, decision-void "tenets predict", the "alternative gap" escape clause, uncited dream evidence, and an introspection strawman
 - **Type**: refine-draft
 - **File**: obsidian/topics/free-will.md
@@ -1654,6 +1646,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-27: The trilemma non-exhaustiveness correction has still not propagated — four live articles still say determinism, randomness and mental causation "exhaust the options"
+- **Type**: refine-draft
+- **File**: obsidian/concepts/agent-causation.md
+- **Notes**: From outer review 2026-09-27 (§7 weakness 1, improvement 17). Commit `99c00f6bb5` (2026-09-07) was meant to finish propagating this correction. The reviewer found one survivor, and the verification sweep found four. Each still has an unqualified exhaustiveness claim: (1) `concepts/agent-causation.md` L71 — "the [[trilemma-of-selection]], which exhausts the options at any indeterminate decision point"; (2) `topics/born-rule-and-the-consciousness-interface.md` L219 — "determinism, randomness, and mental causation exhaust the options, and only the third preserves authorship"; (3) `concepts/ensemble-level-epiphenomenalism.md` L79; (4) `apex/born-preserving-causal-efficacy.md` L191 (same wording as 3). Do NOT touch `ensemble-level-epiphenomenalism` L67 or `born-preserving-causal-efficacy` L87 — "Three cases exhaust the field/possibilities" there is a different, legitimate case split. The correct footing is already in `topics/trilemma-of-selection`, `apex/consciousness-and-agency` ("a heuristic, not an exhaustive partition—event-causal libertarianism and sophisticated compatibilism each claim a fourth place") and `positions/agency-and-will`. **Length: make every edit word-neutral or negative.** `agent-causation` has 15 words of headroom (3485/3500). `born-rule-and-the-consciousness-interface` (5449/4000) and `apex/born-preserving-causal-efficacy` (5155/5000) are already over hard, so swap "exhaust the options" for "are the options usually posed" (or similar) rather than adding a clause. Re-grep `exhaust` corpus-wide after editing, and edit both the obsidian and hugo trees via sync.
 
 ### ✓ 2026-09-27: Write concept page on panprotopsychism
 - **Type**: expand-topic
