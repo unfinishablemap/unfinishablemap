@@ -5,6 +5,14 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T21:35:35+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/temporal-consciousness-structure-and-agency]]
+- **Original score**: n/a (targeted cross-page consistency fix; `scripts/curate.py` absent)
+- **Changes**: (a) Cessation states: *nirodha samāpatti* re-described as a cessation of experience, not "awareness without temporal flow", matching `concepts/cessation-versus-plenitude` (Laukkonen et al. 2023); link added; conditional kept, now about suspended participation. (b) Oscillation claims: "gate perceptual access in discrete oscillatory cycles" changed to "modulate perceptual access rhythmically"; "sample the world at discrete intervals" changed to "periodically"; Further Reading gloss changed to "rhythmic neural sampling", matching `neural-refresh-rates-and-the-smoothness-problem`, which says discrete perception is contested. (c) Choking: the claim that studies "demonstrate" a split kairos moment now says the studies show that reinvestment disrupts skill, and marks the kairos reading as the Map's, constrained but not established by the data (modelled on `concepts/kairos` L58-60). (d) Speculative framing: the duration-block/retrocausal sentence opens "On this speculative reading"; the durée-as-collapse-from-within sentence now opens "The Map speculates", scoped to consciousness's participation. The L206/L208 growing-block passage is untouched, consistent with f82f485e. Trims: Bergson free-will paragraph compressed and pointed to [[bergson-and-duration]]; melody sentence cut from the durée section.
+- **Length**: analyze_length 3909 → 3897 (topics hard 4000).
+- **Published**: yes
+
 ## 2026-09-27T21:20:10+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline, no merge). **23rd consecutive**, the expected steady-state outcome.
 - **Pool movement since the 12:36 run: zero eligible additions, zero removals** (`git log --since=2026-09-27T12:00 --diff-filter=ADR` over topics/concepts/voids/apex/archive): the only additions were `concepts/diverging-worlds-everettianism` (13:57) and `topics/paradoxical-kinesia` (15:54), both created today and inside the 7-day age floor. Nothing was archived.

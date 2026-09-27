@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-15
-ai_modified: 2026-07-29 13:41:36+00:00
+ai_modified: 2026-09-27 21:35:35+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -44,7 +44,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 05:18:12+00:00
-lastmod: 2026-07-29 13:41:36+00:00
+lastmod: 2026-09-27 21:35:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -93,11 +93,11 @@ This poses a puzzle: how can succession be experienced if multiple moments must 
 
 **Retentionalists** (Husserl, Brentano) hold that each moment contains intentional content directed at past and future. Husserl identified three inseparable components: **retention** (the just-past echoing in awareness), **primal impression** (the strictly present), and **protention** (openness toward the about-to-arrive).
 
-The Map suggests a synthesis: experience is genuinely extended, but the extension involves [quantum collapse](/concepts/collapse-and-time/). The duration-block is constituted by collapses with retrocausal constraints—the past echoes in the present because retrocausal boundary conditions link them.
+The Map suggests a synthesis: experience is genuinely extended, but the extension involves [quantum collapse](/concepts/collapse-and-time/). On this speculative reading, the duration-block is constituted by collapses with retrocausal constraints—the past echoes in the present because retrocausal boundary conditions link them.
 
 Crucially, the specious present is not fixed but expands and contracts with attention. **Deep engagement** strengthens retention and protention simultaneously—a chess player holds more of the recent sequence while projecting further into possible futures. **Distracted attention** weakens all three components—retention fades, protention collapses to mere reactivity, the present narrows. **Meditative attention** reveals the microstructure of all three: [contemplative traditions](/topics/contemplative-practice-as-philosophical-evidence/) report rapid arising and passing—what the Buddhist tradition calls *khaṇika* (momentariness)—normally blurred by ordinary awareness.
 
-Francisco Varela's [neurophenomenological](/concepts/neurophenomenology-and-contemplative-neuroscience/) programme proposed that trained meditators access temporal structure at scales below ordinary threshold—consistent with subsequent experimental work (Slagter et al., 2007). The brain's [neural refresh rates](/topics/neural-refresh-rates-and-the-smoothness-problem/) (alpha at ~10 Hz, theta at ~6 Hz) gate perceptual access in discrete oscillatory cycles, yet the attentionally constituted present feels seamless—a temporal mismatch that deepens the hard problem.
+Francisco Varela's [neurophenomenological](/concepts/neurophenomenology-and-contemplative-neuroscience/) programme proposed that trained meditators access temporal structure at scales below ordinary threshold—consistent with subsequent experimental work (Slagter et al., 2007). The brain's [neural refresh rates](/topics/neural-refresh-rates-and-the-smoothness-problem/) (alpha at ~10 Hz, theta at ~6 Hz) modulate perceptual access rhythmically, yet the attentionally constituted present feels seamless—a temporal mismatch that deepens the hard problem.
 
 ## Three Levels of Temporal Integration
 
@@ -117,9 +117,9 @@ The specious present itself must be integrated with its predecessors and success
 
 ## Bergson's Durée
 
-Henri Bergson introduced *durée* (duration): the qualitative experience of time as lived rather than measured. Clock time spatialises what is essentially dynamic, but [lived time](/concepts/temporal-consciousness/) interpenetrates: the past permeates the present, elements are distinguishable yet not separable. A melody is unified flow where each note gains meaning from what precedes and follows—cut it into separate notes and you have frequencies, not music.
+Henri Bergson introduced *durée* (duration): the qualitative experience of time as lived rather than measured. Clock time spatialises what is essentially dynamic, but [lived time](/concepts/temporal-consciousness/) interpenetrates: the past permeates the present, elements are distinguishable yet not separable.
 
-Bergson connected durée to free will: in spatialised time, causation is mechanical; in lived duration, creation is possible—the future isn't implicit in the present but genuinely novel. If consciousness participates in quantum collapse, Bergson's creative duration has a physical correlate: durée is what consciousness-involving collapse feels like from within.
+Bergson tied durée to free will: in lived duration the future is genuinely novel, not implicit in the present (see [bergson-and-duration](/topics/bergson-and-duration/)). The Map speculates that, if consciousness participates in collapse, durée is what that participation feels like from within.
 
 ## The Constitutional Thesis
 
@@ -163,7 +163,7 @@ The Greeks distinguished *chronos* (quantitative, sequential time) from *kairos*
 
 The transition from "not yet" to "now" has the character of a phase transition: qualitatively different on each side. Before the moment, possibilities are held open. At the moment, they collapse into action. This phenomenal collapse—from open anticipation to committed action—mirrors what the Map describes at the quantum level, where [consciousness participates in the transition from superposition to definite outcome](/topics/time-collapse-and-agency/).
 
-Crucially, the kairos moment resists decomposition into a decision followed by an execution. The skilled performer does not first judge "now is the right time" and then initiate action. The recognition and the action are phenomenally unified. This unity is why timing in skilled performance degrades under explicit attention: attempting to separate the judgment from the action disrupts something that was phenomenally whole. As studies of [choking under pressure](/topics/empirical-phenomena-mental-causation/) demonstrate, skilled timing collapses when the unified kairos moment is split into separate judgment and execution steps.
+Crucially, the kairos moment resists decomposition into a decision followed by an execution. The skilled performer does not first judge "now is the right time" and then initiate action. The recognition and the action are phenomenally unified. This unity is why timing in skilled performance degrades under explicit attention: attempting to separate the judgment from the action disrupts something that was phenomenally whole. Studies of [choking under pressure](/topics/empirical-phenomena-mental-causation/) show that reinvesting explicit control disrupts skill; reading this as the kairos moment being split is the Map's interpretation, which the data constrain but do not by themselves establish.
 
 ### "Too Late": Irreversible Closure
 
@@ -189,7 +189,7 @@ The gap noted above is concrete: [IIT](/concepts/integrated-information-theory/)
 
 **Predictive processing** offers a materialist response: experienced duration emerges from prediction errors propagating through hierarchical neural systems. This explains why duration varies with attention and why novel experiences feel longer. But it explains *when* binding occurs and *what content* gets integrated, not *what it's like* to experience integration as flow. The [explanatory gap](/concepts/explanatory-gap/) reappears.
 
-The [smoothness problem](/topics/neural-refresh-rates-and-the-smoothness-problem/) sharpens this: neural oscillations sample the world at discrete intervals (7–13 Hz for attention, ~40 Hz for feature binding), yet experience feels seamless, and binding at the 80–100ms scale of gamma-band correlates does not explain the 1–3 second specious present. The explanatory gap applies with particular force because what needs explaining isn't a state but a process—how moments *become* a stream.
+The [smoothness problem](/topics/neural-refresh-rates-and-the-smoothness-problem/) sharpens this: neural oscillations sample the world periodically (7–13 Hz for attention, ~40 Hz for feature binding), yet experience feels seamless, and binding at the 80–100ms scale of gamma-band correlates does not explain the 1–3 second specious present. The explanatory gap applies with particular force because what needs explaining isn't a state but a process—how moments *become* a stream.
 
 ## Evidence from Disrupted Temporal Integration
 
@@ -221,7 +221,7 @@ Meditation traditions provide phenomenological data unavailable through ordinary
 
 **Temporal microstructure.** Trained contemplatives report experience arising in discrete pulses. [Neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) proposes meditation reveals fine-grained temporal dynamics normally below threshold. The Buddhist *khaṇika* (momentariness) describes rapid arising and passing that untrained awareness blurs into continuity. The Buddhist analysis also challenges the assumption of a stable attender: *khaṇika* reveals momentariness in the act of attending itself. The Map acknowledges this tension while maintaining that the experiential subject, however impermanent moment-to-moment, is irreducible to physical process.
 
-**Cessation states.** In *nirodha samāpatti*, perception and feeling cease entirely—awareness without temporal flow. If consciousness constitutes lived time through collapse, suspended collapse would eliminate temporal experience.
+**Cessation states.** In *nirodha samāpatti*, perception and feeling cease entirely—on the best current reading, a cessation of experience rather than awareness without temporal flow (see [cessation-versus-plenitude](/concepts/cessation-versus-plenitude/)). If consciousness constitutes lived time through collapse, suspended participation would eliminate temporal experience.
 
 **Jhāna progression.** Higher absorption states report increasingly "timeless" qualities—not that time stops but that the sense of moving through time diminishes.
 
@@ -266,7 +266,7 @@ The temporal structure and agency of consciousness connects to all five [tenets]
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, presentism, eternalism, growing block
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — The Map's full framework on time, collapse, and agency
 - [collapse-and-time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow
-- [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/) — How discrete neural oscillations clash with continuous phenomenal experience
+- [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/) — How rhythmic neural sampling clashes with continuous phenomenal experience
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader challenge of explaining experience
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — What it's like to choose, including temporal aspects
 - [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Integrating first-person methods with neuroscience
