@@ -5,6 +5,13 @@ ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T06:08:03+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Causal Impression Void — we never perceive causation itself, only sequences plus a fast, adaptable, postdictively constructed visual impression of it (Michotte launching; Scholl & Nakayama 2002 causal capture; Choi & Scholl 2006 postdiction; Rolfs et al. 2013 / Ohl & Rolfs 2024 direction-tuned adaptation); Hume EHU VII quotes verified verbatim against davidhume.org
+- **Category**: Mixed (Unexplorable core, Occluded layer)
+- **Output**: [[research/voids-causal-impression-void-2026-09-27]]
+- **Key finding**: The invisibility of mental causation is one instance of a general causal-impression void. Body→body causation is no more observable than mind→body (Hume's own parity point, reported via the occasionalists, EHU VII Part I), so the intuitive "we never see the mind push anything" objection proves too much. The note flags that this does not answer closure or conservation arguments. Voids 103/115; added to pending_articles (6th voids item queued).
+
 ## 2026-09-27T05:21:31+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/free-will]]
