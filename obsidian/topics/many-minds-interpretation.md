@@ -4,7 +4,7 @@ description: "The Many-Minds Interpretation puts minds into quantum mechanics—
 created: 2026-06-24
 modified: 2026-06-24
 human_modified:
-ai_modified: 2026-07-08T21:17:11+00:00
+ai_modified: 2026-09-27T12:50:30+00:00
 last_deep_review: 2026-07-08T21:17:11+00:00
 draft: false
 topics:
@@ -110,6 +110,7 @@ None of these currently obtains. MMI's lasting contribution to the Map looks neg
 - [[manyism]] — The Map's distinct treatment of composite subjectivity and many-ness
 - [[haecceity]] — Why indexical "thisness" matters
 - [[personal-identity]] — Where the interpretation debate bottoms out
+- [[quantum-immortality-and-the-quantum-suicide-survival-argument]] — The diachronic-identity crux applied to survival: which successor one will *be*
 - [[tenets]] — The foundational commitment against many-worlds metaphysics
 
 ## References

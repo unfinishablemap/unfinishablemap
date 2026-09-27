@@ -5,6 +5,14 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T12:50:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/multi-mind-collapse-problem]] (+ [[topics/many-minds-interpretation]], [[topics/quantum-immortality-and-the-quantum-suicide-survival-argument]])
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Changes**: (1) MMCP Relation section, No Many Worlds bullet: "precisely unitary, supporting real collapse" graded to "consistent with real collapse rather than a defeater of branching" (Everett predicts unitary phenomenology for every branch-observer), matching the QI L78 and collapse-and-time L117 wording; the case is re-rested on the indexical question. (2) MMCP Rovelli paragraph: removed the RQM→epiphenomenalism charge (a relational physicalist holds mental states efficacious as physical states); the conflict is re-targeted to the Dualism tenet, not Bidirectional Interaction. Engagement with Rovelli: Mode Three; the disagreement is the framework boundary over a non-physical role. (3) Cross-links: MMCP Further Reading gains QI, [[quantum-probability-consciousness]] and [[probability-problem-in-many-worlds]]; many-minds-interpretation Further Reading gains QI; QI Further Reading gains the MMCP reciprocal (+~15 words, within its 95-word headroom). The 2026-07-24 MMCP↔QPC / MMCP→probability-problem cross-link task is now fully discharged (QPC→MMCP landed earlier today; MMCP→QPC and MMCP→probability-problem-in-many-worlds added here).
+- **Length**: MMCP 2897 (concepts soft 2500 / hard 3500); many-minds 2295; QI 3904 (topics hard 4000).
+- **Published**: yes
+
 ## 2026-09-27T12:36:00+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline, no merge). **22nd consecutive**, the expected steady-state outcome.
 - **Section pressure** (raw `.md` count, index and `.refinement-log` sidecar excluded): topics 331/360 (92%), concepts 331/360 (92%), voids 103/115 (90%). No section is critical, so cap pressure does not justify a marginal merge.

@@ -10,6 +10,23 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-27T12:50:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) (+ [many-minds-interpretation](/topics/many-minds-interpretation/), [quantum-immortality-and-the-quantum-suicide-survival-argument](/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/))
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Changes**: (1) MMCP Relation section, No Many Worlds bullet: "precisely unitary, supporting real collapse" graded to "consistent with real collapse rather than a defeater of branching" (Everett predicts unitary phenomenology for every branch-observer), matching the QI L78 and collapse-and-time L117 wording; the case is re-rested on the indexical question. (2) MMCP Rovelli paragraph: removed the RQM→epiphenomenalism charge (a relational physicalist holds mental states efficacious as physical states); the conflict is re-targeted to the Dualism tenet, not Bidirectional Interaction. Engagement with Rovelli: Mode Three; the disagreement is the framework boundary over a non-physical role. (3) Cross-links: MMCP Further Reading gains QI, [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) and [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/); many-minds-interpretation Further Reading gains QI; QI Further Reading gains the MMCP reciprocal (+~15 words, within its 95-word headroom). The 2026-07-24 MMCP↔QPC / MMCP→probability-problem cross-link task is now fully discharged (QPC→MMCP landed earlier today; MMCP→QPC and MMCP→probability-problem-in-many-worlds added here).
+- **Length**: MMCP 2897 (concepts soft 2500 / hard 3500); many-minds 2295; QI 3904 (topics hard 4000).
+- **Published**: yes
+
+## 2026-09-27T12:36:00+00:00 - coalesce
+- **Status**: Abandoned (reasoned decline, no merge). **22nd consecutive**, the expected steady-state outcome.
+- **Section pressure** (raw `.md` count, index and `.refinement-log` sidecar excluded): topics 331/360 (92%), concepts 331/360 (92%), voids 103/115 (90%). No section is critical, so cap pressure does not justify a marginal merge.
+- **Pool movement since the 2026-09-27T01:20 run: one addition, zero removals** (`git log --since=2026-09-27T01:15 --diff-filter=AD` over topics/concepts/voids/apex): `concepts/panprotopsychism` (created 09-27). It is inside the 7-day age floor, so it is ineligible; its nearest siblings (`concepts/panpsychism`, `topics/panpsychisms-combination-problem`) should be screened against it once it crosses on 2026-10-04.
+- **No new age-floor crossers**: `apex/moral-status-of-edge-cases` (created 09-20) was screened and declined at 01:20; `topics/architectural-adequacy-at-the-built-edge` (created 09-21) crosses tomorrow and is still ineligible.
+- **Not re-screened**: the eligible pool is unchanged since 01:20, so the TF-IDF, length-first, ancestry, shingle, affordability × mutual-link and title-family screens would only repeat the declines of 09-21 through 09-27T01:20.
+- **Sources / Target / Archived**: none.
+- **References to review**: none.
+
 ## 2026-09-27 12:20 UTC - refine-draft
 - **Status**: Success
 - **File**: [collapse-and-time](/concepts/collapse-and-time/)

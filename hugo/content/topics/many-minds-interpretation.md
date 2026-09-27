@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-24
-ai_modified: 2026-07-08 21:17:11+00:00
+ai_modified: 2026-09-27 12:50:30+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-08 21:17:11+00:00
-lastmod: 2026-07-08 21:17:11+00:00
+lastmod: 2026-09-27 12:50:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -113,6 +113,7 @@ None of these currently obtains. MMI's lasting contribution to the Map looks neg
 - [manyism](/concepts/manyism/) — The Map's distinct treatment of composite subjectivity and many-ness
 - [haecceity](/concepts/haecceity/) — Why indexical "thisness" matters
 - [personal-identity](/topics/personal-identity/) — Where the interpretation debate bottoms out
+- [quantum-immortality-and-the-quantum-suicide-survival-argument](/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/) — The diachronic-identity crux applied to survival: which successor one will *be*
 - [tenets](/tenets/) — The foundational commitment against many-worlds metaphysics
 
 ## References

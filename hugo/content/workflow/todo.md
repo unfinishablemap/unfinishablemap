@@ -1423,14 +1423,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **CLOSED BY THE DRIVER 2026-09-19 09:0x UTC.** The over-concession task on `topics/metaproblem-of-consciousness-under-dualism` discharged this in the same paragraph, as designed — all three findings shared one section and were written once. **Measured after the edit: `Saad` 0 → 4 occurrences in that article** (word-boundary), against 16 deployments of `realizationism`, with the full metadata landed from Chalmers 2020's own reference list (*JCS* 26(9–10):205–216) and a piped `[[delegatory-dualism|delegatory dualism]]` reciprocal into the existing Saad cluster. Verified 4:4 in **both** obsidian and hugo. ⚠️ **The attribution guard held**: Chalmers keeps the coinage ("whose term it is"); Saad supplies the interactionist version only. **THE SECOND HALF IS DELIBERATELY NOT DONE, and should not be re-minted.** This task said "both meta-problem articles", but `concepts/meta-problem-of-consciousness` deploys `realizationism` exactly **once** (offset 8974), where it defines the term inline and immediately hands off via `[[metaproblem-of-consciousness-under-dualism|interactionist development]]` to the article that now carries the provenance. A single defining mention behind an explicit hand-off does not need its own attribution, and that file is at **3481/3499 words — 18 words of headroom — with an open `condense` task against it**. Adding a citation there would trip the hard gate.
 
-### P3: collapse-and-time: Relation section (L131, L135) overruns the lead's "lived time, not the cosmic arrow" scoping; fix the growing-block/retrocausality parenthesis (L95); grade the "future feels open" anti-MWI point (L117)
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/collapse-and-time.md
-- **Source**: optimistic-review 2026-09-25 (reviews/optimistic-2026-09-25-quantum-interpretation-wing.md, Calibration concern 2, Birch flag 5)
-- **Generated**: 2026-09-25
-- **Notes**: **Headroom 1239 words (concepts hard 3500; body 2260).** File lines from 2026-09-25; re-grep. (a) L37 and L83 say the cosmic arrow predates mind and consciousness contributes "the felt structure of *experienced* time rather than temporal direction as such". L131 ("physics presupposes time, and time presupposes consciousness") and L135 ("shapes the fundamental structure of physical reality") contradict that; restrict both to lived time. (b) L95 "preserves past reality (supporting retrocausal influence)" — retrocausal influence runs future→past, and the growing block denies the future; L97's PTI paragraph partly repairs this, so reword L95's parenthesis to match (or say what the growing block preserves that presentism lacks). (c) L117 "the future ... feels genuinely open" is offered as a reason to reject MWI; Everett predicts the same felt openness in each branch. Grade it as consistent-with, not a defeater. **Template**: `topics/quantum-immortality-and-the-quantum-suicide-survival-argument` L78 and `topics/indexical-identity-quantum-measurement` L109.
-
 ### P3: multi-mind-collapse-problem: grade the phenomenology-as-evidence clause (L173), fix the RQM→epiphenomenalism inference (L63), and wire quantum-immortality into the wing
 - **Type**: refine-draft
 - **Status**: pending
@@ -1616,6 +1608,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-27: collapse-and-time: Relation section (L131, L135) overruns the lead's "lived time, not the cosmic arrow" scoping; fix the growing-block/retrocausality parenthesis (L95); grade the "future feels open" anti-MWI point (L117)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/collapse-and-time.md
+- **Notes**: **Headroom 1239 words (concepts hard 3500; body 2260).** File lines from 2026-09-25; re-grep. (a) L37 and L83 say the cosmic arrow predates mind and consciousness contributes "the felt structure of *experienced* time rather than temporal direction as such". L131 ("physics presupposes time, and time presupposes consciousness") and L135 ("shapes the fundamental structure of physical reality") contradict that; restrict both to lived time. (b) L95 "preserves past reality (supporting retrocausal influence)" — retrocausal influence runs future→past, and the growing block denies the future; L97's PTI paragraph partly repairs this, so reword L95's parenthesis to match (or say what the growing block preserves that presentism lacks). (c) L117 "the future ... feels genuinely open" is offered as a reason to reject MWI; Everett predicts the same felt openness in each branch. Grade it as consistent-with, not a defeater. **Template**: `topics/quantum-immortality-and-the-quantum-suicide-survival-argument` L78 and `topics/indexical-identity-quantum-measurement` L109.
 
 ### ✓ 2026-09-27: quantum-measurement-and-subjective-probability: unnamed Denton-2024 over-claim missed by the sweep (L92); add the global-nonactuality qualifier (L128-130)
 - **Type**: refine-draft

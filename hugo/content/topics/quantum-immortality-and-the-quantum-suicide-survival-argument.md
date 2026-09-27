@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-09-08 10:26:12+00:00
+ai_modified: 2026-09-27 12:50:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-08 10:26:12+00:00
-lastmod: 2026-09-08 10:26:12+00:00
+lastmod: 2026-09-27 12:50:30+00:00
 modified: *id001
 related_articles:
 - '[[death-and-consciousness]]'
@@ -100,6 +100,7 @@ The Map's [death-and-consciousness](/topics/death-and-consciousness/) article ca
 - [haecceity](/concepts/haecceity/) — The metaphysics of which-one-is-me determinacy
 - [many-worlds](/concepts/many-worlds/) — The Map's full five-argument case against MWI
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The dualism that Marchal's computationalist version does not grant
+- [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) — How localised collapse answers the many-observer question without branching
 
 ## References
 

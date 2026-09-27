@@ -4,7 +4,7 @@ description: "A human-AI examination of quantum suicide: the immortality expecta
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-09-08T10:26:12+00:00
+ai_modified: 2026-09-27T12:50:30+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"
@@ -96,6 +96,7 @@ The Map's [[death-and-consciousness]] article carries the general No-Many-Worlds
 - [[haecceity]] — The metaphysics of which-one-is-me determinacy
 - [[concepts/many-worlds]] — The Map's full five-argument case against MWI
 - [[interactionist-dualism]] — The dualism that Marchal's computationalist version does not grant
+- [[multi-mind-collapse-problem]] — How localised collapse answers the many-observer question without branching
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-09-01 21:42:19+00:00
+ai_modified: 2026-09-27 12:50:30+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-24 21:34:04+00:00
-lastmod: 2026-09-01 21:42:19+00:00
+lastmod: 2026-09-27 12:50:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -63,7 +63,7 @@ On this view, one consciousness's collapse creates facts for all observers insta
 
 Carlo Rovelli's [relational quantum mechanics](/research/relational-quantum-mechanics-2026-01-18/) dissolves the problem by denying absolute facts. Quantum states are relative to observers; Alice's and Bob's collapses need not agree until they interact.
 
-Elegant, but at a price the Map cannot pay. Rovelli removes any special role for consciousness: "observer" means any physical system—a rock counts as much as a mind. This trades the multi-mind problem for [epiphenomenalism](/concepts/epiphenomenalism/)—the very position the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet rejects.
+Elegant, but at a price the Map cannot pay. Rovelli removes any special role for consciousness: "observer" means any physical system—a rock counts as much as a mind. This does not make mind epiphenomenal—a relational physicalist can hold mental states causally efficacious *as physical states*—but it trades the multi-mind problem for a view on which consciousness has no non-physical role at all, which the [Dualism](/tenets/#dualism) tenet rejects.
 
 ### 3. Interface Locality
 
@@ -173,7 +173,7 @@ The resolution also illuminates the [pairing-problem](/concepts/pairing-problem/
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Preserved but bounded. Consciousness receives information from its brain (perception) and sends information (selection among neural patterns). Bidirectionality operates through a specific, local interface—not universally but *here*.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Essential to the resolution. If all outcomes occurred in branching worlds, there would be no selection to coordinate—and no role for consciousness. Real collapse is required for consciousness to matter. The phenomenology of being *this* observer—accessible through [witness-consciousness](/concepts/witness-consciousness/) and [introspection](/concepts/introspection/)—is precisely unitary, supporting real collapse over endless branching.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Essential to the resolution. If all outcomes occurred in branching worlds, there would be no selection to coordinate—and no role for consciousness. Real collapse is required for consciousness to matter. The phenomenology of being *this* observer—accessible through [witness-consciousness](/concepts/witness-consciousness/) and [introspection](/concepts/introspection/)—is unitary, but Everett predicts the same unitary phenomenology for every branch-observer, so it is consistent with real collapse rather than a defeater of branching; the case against branching rests on the indexical question (see [quantum-immortality-and-the-quantum-suicide-survival-argument](/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/)).
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The multi-mind problem shows why simple formulations ("consciousness causes collapse") fail. The refined notion—distinguishing objective collapse from consciousness modulation, specifying the interface boundary—adds complexity that reflects genuine metaphysical structure.
 
@@ -194,6 +194,8 @@ This resolution preserves the Map's commitment to consciousness as causally effi
 - [many-minds-interpretation](/topics/many-minds-interpretation/) — The minds-in-the-formalism rival that cannot localise the way interface collapse does
 - [witness-consciousness](/concepts/witness-consciousness/) — Phenomenology of being *this* observer
 - [selection-only-channel](/concepts/selection-only-channel/) — The information-theoretic invariants that make "modulation" a substantive structural claim rather than a synonym for causation
+- [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — How the Born rule and conscious selection fit together once collapse is local
+- [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — Why the branching alternative cannot recover probability for a single observer
 - [multi-agent-born-preservation-problem](/topics/multi-agent-born-preservation-problem/) — The boundary cases where this article's locality answer runs out: joint correlations and no-signalling across many selectors
 
 ## References
