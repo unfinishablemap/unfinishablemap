@@ -5,6 +5,13 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T20:05:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/void-as-ground-of-meaning]]
+- **Original score**: 7/10
+- **Changes**: (a) Omniscience Paradox Shannon sentence corrected: information is reduction of uncertainty, so a mind with no uncertainty gains zero information from any signal (was the inverted "a signal that could be anything carries zero information"); (b) merged duplicate `[[creative-aesthetic-void]]` bullets in What This Reframes; (c) added two-sentence scope note after The Constitutive Thesis: the thesis concerns significance; semantic this-not-that contrast and the meaning-void entry are analogues, not instances of a cognitive limit (meaning-void bullet tagged accordingly); (d) Relation to Site Perspective: Dualism "gains support" -> "coheres with" (dependency runs tenet->thesis); Minimal Quantum Interaction reframed as consistency; No Many Worlds rewritten to grant Everettian branch-local particularity and locate the dispute at global indexical identity (haecceity + global exclusion, posited not derived), linking [[diverging-worlds-everettianism]] (also added to related_articles). Convergence calibration (Convergence Across Traditions opener, Contextualist Worry close) untouched. Length 2406 -> 2519 (voids hard 3000). Synced to Hugo.
+- **Published**: yes
+
 ## 2026-09-27T19:52:04+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Content and meaning wing, 6 articles that no optimistic review dated 2026-08 or 2026-09 names by slug: topics/the-naturalisation-failure-for-content, concepts/teleosemantics, concepts/content-externalism, concepts/content-vocabulary-as-derived-feature, voids/meaning-void, voids/void-as-ground-of-meaning

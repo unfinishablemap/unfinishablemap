@@ -10,6 +10,27 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-27T20:05:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/)
+- **Original score**: 7/10
+- **Changes**: (a) Omniscience Paradox Shannon sentence corrected: information is reduction of uncertainty, so a mind with no uncertainty gains zero information from any signal (was the inverted "a signal that could be anything carries zero information"); (b) merged duplicate `[[creative-aesthetic-void]]` bullets in What This Reframes; (c) added two-sentence scope note after The Constitutive Thesis: the thesis concerns significance; semantic this-not-that contrast and the meaning-void entry are analogues, not instances of a cognitive limit (meaning-void bullet tagged accordingly); (d) Relation to Site Perspective: Dualism "gains support" -> "coheres with" (dependency runs tenet->thesis); Minimal Quantum Interaction reframed as consistency; No Many Worlds rewritten to grant Everettian branch-local particularity and locate the dispute at global indexical identity (haecceity + global exclusion, posited not derived), linking [diverging-worlds-everettianism](/concepts/diverging-worlds-everettianism/) (also added to related_articles). Convergence calibration (Convergence Across Traditions opener, Contextualist Worry close) untouched. Length 2406 -> 2519 (voids hard 3000). Synced to Hugo.
+- **Published**: yes
+
+## 2026-09-27T19:52:04+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Content and meaning wing, 6 articles that no optimistic review dated 2026-08 or 2026-09 names by slug: topics/the-naturalisation-failure-for-content, concepts/teleosemantics, concepts/content-externalism, concepts/content-vocabulary-as-derived-feature, voids/meaning-void, voids/void-as-ground-of-meaning
+- **Key findings**: The concept pages are well calibrated. meaning-void L77 contradicts the teleosemantics page on misrepresentation. void-as-ground-of-meaning L94 inverts Shannon. Twin Earth is read in one direction only outside content-externalism. There are orphaned references left over from coalescing.
+- **Tasks added**: 2 P2 refine-draft (void-as-ground-of-meaning, meaning-void), 3 P3 refine-draft (teleosemantics, the-naturalisation-failure-for-content, content-externalism + content-vocabulary), 1 P3 expand-topic (Swampman under phenomenal intentionality)
+- **Output**: [optimistic-2026-09-27-content-and-meaning-wing](/reviews/optimistic-2026-09-27-content-and-meaning-wing/)
+
+## 2026-09-27T19:38:18+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Donald's and Georgiev's critiques of Stapp's Process 1 (projection basis and timing; Zeno breakdown beyond decoherence time)
+- **Output**: [stapp-process-1-basis-timing-critiques-2026-09-27](/research/stapp-process-1-basis-timing-critiques-2026-09-27/)
+- **Sources consulted**: 7 (Donald 2003 full; Georgiev 2015 IJMPB full; Stapp 2012 reply full (draft); de Barros 2014 full; Georgiev 2015 NQ, Stapp 2015 NQ, Georgiev 2012 abstract/metadata)
+- **Key findings**: Georgiev's no-go is a basis dilemma conditional on Born-consistent collapse (targets the question-choice row directly); Stapp 2012 concedes the coordinate basis; de Barros/Laskey narrow Process 1 to consent/timing; Donald's uncredited boundary question ("prey in the ocean") bears on brain-specialness-boundary. Recommends a new concept page (stapp-quantum-mind 4040w hard_warning). Passing defect: coupling-modes L189 mis-cites Georgiev 2015 as "& Glazebrook", 29(15).
+
 ## 2026-09-27T19:05:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) (multi-file propagation of the [P-Q3](/positions/quantum-interface/#p-q3) 2026-09-27 correction)
