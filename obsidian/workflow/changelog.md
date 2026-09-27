@@ -5,6 +5,13 @@ ai_modified: '2026-09-27T23:06:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T23:35:22+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/neural-refresh-rates-and-the-smoothness-problem]]
+- **Original score**: n/a (targeted fix)
+- **Changes**: Aligned unhedged neural-discreteness claims with the lead's own hedge (L40: rhythmicity well evidenced, genuinely discrete perception contested), consistent with c65133ae. (1) L120 "the discreteness of neural processing is empirically established" → "the rhythmicity of neural sampling is empirically established" (gap stays precise; functionalist section L92-100 does not need strict discreteness). (2) L104 "the brain really does sample discretely" → "periodically". (3) L100 "empirical specificity of neural discreteness" → "of rhythmic neural sampling". (4) Lead L40 "(discreteness)" → "(periodic sampling)" — the lead contradicted its own hedge two sentences earlier. (5) description "Discrete neural oscillations … clash" → "Rhythmic neural sampling … clashes". Left: L114 (scoped to Herzog's conscious stage two, "where the best evidence places"), L58 Herzog stage-two exposition, L72/L88/L96 (conditional or describing the physicalist bridging mechanisms), and the VanRullen/Lee/James/Herzog source passages. Near word-neutral (+2).
+- **Published**: yes
+
 ## 2026-09-27T23:06:28+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-measurement-and-consciousness]], [[concepts/causal-consistency-constraint]], [[topics/born-rule-and-the-consciousness-interface]], [[topics/falsification-roadmap-for-the-interface-model]], [[apex/born-preserving-causal-efficacy]], [[concepts/ensemble-level-epiphenomenalism]], [[topics/consciousness-and-probability-interpretation]], archive/topics/born-rule-violation-brain-interface-empirical-status

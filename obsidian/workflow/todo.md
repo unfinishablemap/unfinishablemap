@@ -1421,14 +1421,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **CLOSED BY THE DRIVER 2026-09-19 09:0x UTC.** The over-concession task on `topics/metaproblem-of-consciousness-under-dualism` discharged this in the same paragraph, as designed — all three findings shared one section and were written once. **Measured after the edit: `Saad` 0 → 4 occurrences in that article** (word-boundary), against 16 deployments of `realizationism`, with the full metadata landed from Chalmers 2020's own reference list (*JCS* 26(9–10):205–216) and a piped `[[delegatory-dualism|delegatory dualism]]` reciprocal into the existing Saad cluster. Verified 4:4 in **both** obsidian and hugo. ⚠️ **The attribution guard held**: Chalmers keeps the coinage ("whose term it is"); Saad supplies the interactionist version only. **THE SECOND HALF IS DELIBERATELY NOT DONE, and should not be re-minted.** This task said "both meta-problem articles", but `concepts/meta-problem-of-consciousness` deploys `realizationism` exactly **once** (offset 8974), where it defines the term inline and immediately hands off via `[[metaproblem-of-consciousness-under-dualism|interactionist development]]` to the article that now carries the provenance. A single defining mention behind an explicit hand-off does not need its own attribution, and that file is at **3481/3499 words — 18 words of headroom — with an open `condense` task against it**. Adding a citation there would trip the hard gate.
 
-### P3: neural-refresh-rates-and-the-smoothness-problem: Relation section (L120) says "the discreteness of neural processing is empirically established", contradicting the page's own lead (L40, L44)
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/neural-refresh-rates-and-the-smoothness-problem.md
-- **Source**: optimistic-review 2026-09-26 (reviews/optimistic-2026-09-26-temporal-wing.md, Birch flag 4)
-- **Generated**: 2026-09-26
-- **Notes**: **Headroom 609 words (topics hard 4000; analyze_length 3390). One-sentence fix; keep length-neutral.** File lines from 2026-09-26; re-grep. **L120**: "The smoothness case is distinctive not because it is a separate argument but because the discreteness of neural processing is empirically established, making the gap particularly precise." The lead says "That the sampling is rhythmic is well evidenced … Whether that rhythmicity amounts to genuinely *discrete* perception remains contested" (L40), and L44 says the same. Replace with "the rhythmicity of neural sampling is empirically established". The gap is still precise, since the functionalist section (L92-100) does not depend on strict discreteness. Check L114 ("where the best evidence places a discrete stage in the substrate") for the same drift. It refers to Herzog's conscious stage-two, so it may be fine as it stands. Do not touch the VanRullen, Lee, James or Herzog source-fidelity passages; the review praises them.
-
 ### P3: Write article on time-bias and Prior's "Thank goodness that's over" argument
 - **Type**: expand-topic
 - **Status**: pending
@@ -1550,6 +1542,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-27: neural-refresh-rates-and-the-smoothness-problem: Relation section (L120) says "the discreteness of neural processing is empirically established", contradicting the page's own lead (L40, L44)
+- **Type**: refine-draft
+- **File**: obsidian/topics/neural-refresh-rates-and-the-smoothness-problem.md
+- **Notes**: **Headroom 609 words (topics hard 4000; analyze_length 3390). One-sentence fix; keep length-neutral.** File lines from 2026-09-26; re-grep. **L120**: "The smoothness case is distinctive not because it is a separate argument but because the discreteness of neural processing is empirically established, making the gap particularly precise." The lead says "That the sampling is rhythmic is well evidenced … Whether that rhythmicity amounts to genuinely *discrete* perception remains contested" (L40), and L44 says the same. Replace with "the rhythmicity of neural sampling is empirically established". The gap is still precise, since the functionalist section (L92-100) does not depend on strict discreteness. Check L114 ("where the best evidence places a discrete stage in the substrate") for the same drift. It refers to Herzog's conscious stage-two, so it may be fine as it stands. Do not touch the VanRullen, Lee, James or Herzog source-fidelity passages; the review praises them.
 
 ### ✓ 2026-09-27: Chalmers-McQueen CSL-IIT is Born-PRESERVING for outcome selection (Φ gates when/how fast collapse happens; outcomes follow the Born rule) — 3 live pages misfile it as Born-bending
 - **Type**: refine-draft
