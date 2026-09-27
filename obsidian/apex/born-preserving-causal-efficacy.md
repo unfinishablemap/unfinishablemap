@@ -3,7 +3,7 @@ title: "The Born-Preserving Causal-Efficacy Problem"
 created: 2026-06-22
 modified: 2026-06-22
 human_modified: null
-ai_modified: 2026-09-27T18:51:00+00:00
+ai_modified: 2026-09-27T23:06:28+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -120,7 +120,7 @@ Rated against the Map's [[evidential-status-discipline|evidential-status discipl
 
 ### Route 2: Minimum-outside-the-corridor (efficacy with a signature)
 
-The second route bites the first horn deliberately. It reads Minimal Quantum Interaction as "the smallest interaction *actually sufficient*" rather than "the smallest *preserving ensemble statistics*," and accepts that genuine efficacy may require a small but real departure from Born statistics. Catalogued candidates ([[born-rule-and-the-consciousness-interface]]) include Stapp's quantum-Zeno rate, Chalmers–McQueen Φ-dependent collapse, Penrose–Hameroff Orch-OR, and Arana's exponentially-suppressed λ-weighting that recovers standard Born statistics as λ → 0. The advantage: the channel becomes *real in the physicalist's own sense* — a deviation, however suppressed, is in principle detectable, distinguishing the mind's efficacy from both epiphenomenalism and physical randomness. This is the only route of the three that is even potentially **interface-discriminating**. It is also where the intervention analysis above leads, which makes it the route the Map is likeliest to be pushed toward rather than the exotic option.
+The second route bites the first horn deliberately. It reads Minimal Quantum Interaction as "the smallest interaction *actually sufficient*" rather than "the smallest *preserving ensemble statistics*," and accepts that genuine efficacy may require a small but real departure from Born statistics. Catalogued candidates ([[born-rule-and-the-consciousness-interface]]) include Stapp's quantum-Zeno rate, outcome-biased Chalmers–McQueen collapse, Penrose–Hameroff Orch-OR, and Arana's exponentially-suppressed λ-weighting that recovers standard Born statistics as λ → 0. The advantage: the channel becomes *real in the physicalist's own sense* — a deviation, however suppressed, is in principle detectable, distinguishing the mind's efficacy from both epiphenomenalism and physical randomness. This is the only route of the three that is even potentially **interface-discriminating**. It is also where the intervention analysis above leads, which makes it the route the Map is likeliest to be pushed toward rather than the exotic option.
 
 Its cost is symmetric and currently unrewarded. Micro-psychokinesis nulls (Maier et al. 2018) and the failed PEAR replication have driven the gross-effect end of this family onto thin ground; any surviving version must hide below current sensitivity. There is a deeper exposure: a departure that buys signalling power would violate no-signalling, and the causal-consistency constraint says the corridor's Born-preservation is exactly what keeps the default reading signalling-safe. A minimum-outside-corridor variant must demonstrate its deviation is signalling-safe — not merely small.
 

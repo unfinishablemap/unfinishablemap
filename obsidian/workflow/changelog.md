@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-27T06:36:28+00:00'
+ai_modified: '2026-09-27T23:06:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-27T23:06:28+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-measurement-and-consciousness]], [[concepts/causal-consistency-constraint]], [[topics/born-rule-and-the-consciousness-interface]], [[topics/falsification-roadmap-for-the-interface-model]], [[apex/born-preserving-causal-efficacy]], [[concepts/ensemble-level-epiphenomenalism]], [[topics/consciousness-and-probability-interpretation]], archive/topics/born-rule-violation-brain-interface-empirical-status
+- **Original score**: n/a (targeted fix)
+- **Changes**: Chalmers-McQueen (2022) CSL-IIT refiled out of the Born-deviating ("Born-bending" / minimum-outside-corridor-as-Born-deviation) family everywhere it was misfiled, matching the model already on disk in philosophical-stakes-of-spontaneous-collapse L109: default dynamics gate collapse *rate*; outcomes follow Born; only the outcome-biasing variant the authors decline is Born-bending. (1) quantum-measurement-and-consciousness L136: CSL-IIT now "sits apart" from the three flavours (reverses the wrong brief in a9c67c30); word-neutral 3598→3598. (2) causal-consistency-constraint L75: minimum-outside list now names only the unendorsed outcome-biasing variant, with the default's rate-gating stated (+18 words, 2494, under soft). (3) born-rule-and-the-consciousness-interface: L170 bullet rewritten (rate-gated, outcomes Born barring unendorsed outcome-biasing; scalar-Φ note kept); L94 CM dropped from the "brain-internal Born-rule deviation" mechanism list; L207 "with sub-detectable coupling" → "(Born-compliant in outcome)" (a Born sweep cannot touch the default at any coupling); 5446→5445. L185/L209 left (CM is outside the corridor by rate signatures, so those are accurate). (4) falsification-roadmap L83 "collapse statistics" → "collapse-rate signatures"; L95 "Chalmers-McQueen Φ-collapse" → "outcome-biased Chalmers-McQueen" in the Born-deviation parenthetical; 3991→3991. (5) Sweep found three more siblings copying the catalogue as "departure from Born statistics" candidates — born-preserving-causal-efficacy L123, ensemble-level-epiphenomenalism L59, consciousness-and-probability-interpretation L97 — each fixed word-neutrally to "outcome-biased Chalmers-McQueen". (6) Archive born-rule-violation-brain-interface-empirical-status L66 asserted "the Born rule is generally not preserved" for CM, and L151 "if Φ-coupling parameters are tuned below detectability"; both corrected.
+- **Published**: yes
 
 ## 2026-09-27T22:50:40+00:00 - refine-draft
 - **Status**: Success

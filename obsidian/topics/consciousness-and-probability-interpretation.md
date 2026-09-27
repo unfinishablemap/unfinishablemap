@@ -4,7 +4,7 @@ description: "Assigning probabilities needs a subject facing uncertainty, yet co
 created: 2026-02-13
 modified: 2026-09-25
 human_modified:
-ai_modified: 2026-09-27T11:20:41+00:00
+ai_modified: 2026-09-27T23:06:28+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -94,7 +94,7 @@ Similarly, at the neural interface the Born rule might fix how consciousness's q
 
 On this reading the paradox dissolves. Consciousness doesn't need to be good at probability because it doesn't *use* probability. Probability describes what consciousness does from a perspective consciousness itself doesn't occupy. Within the neural interface, the Born rule is a third-person description of a first-person process. The reading has a cost: a selection constrained to average back to Born weights invites the charge that it rides a distribution physics already fixed rather than doing causal work—the worry named [[ensemble-level-epiphenomenalism]], which the Map holds open rather than resolved.
 
-This third-person-shadow reading—corridor dualism, in the Map's taxonomy—is the Map's working hypothesis rather than a settled commitment. Alternative readings within the same dualist framework hold that the smallest interaction actually sufficient to produce observed correlations may require Born-rule-bending departures (Stapp's quantum Zeno read as shifting outcome probabilities—Stapp himself keeps Born statistics intact—Chalmers-McQueen Φ-collapse, Arana's time-extended weighting), or that consciousness is authoritative on an axis orthogonal to Born-rule prescription entirely ([[trumping-preemption|trumping dualism]]). The [[born-rule-and-the-consciousness-interface|empirical status of brain-internal Born-rule testing]] leaves all three options live: no experiment to date has probed the brain-internal selection regime at the precision that would adjudicate between them. The argument of this article works for corridor dualism without foreclosing the other readings—under Born-bending proposals, consciousness's qualitative mode of engagement still explains why probability is phenomenologically empty, with the Born rule itself then treated as a tested approximation rather than as a description of the interface.
+This third-person-shadow reading—corridor dualism, in the Map's taxonomy—is the Map's working hypothesis rather than a settled commitment. Alternative readings within the same dualist framework hold that the smallest interaction actually sufficient to produce observed correlations may require Born-rule-bending departures (Stapp's quantum Zeno read as shifting outcome probabilities—Stapp himself keeps Born statistics intact—outcome-biased Chalmers-McQueen, Arana's time-extended weighting), or that consciousness is authoritative on an axis orthogonal to Born-rule prescription entirely ([[trumping-preemption|trumping dualism]]). The [[born-rule-and-the-consciousness-interface|empirical status of brain-internal Born-rule testing]] leaves all three options live: no experiment to date has probed the brain-internal selection regime at the precision that would adjudicate between them. The argument of this article works for corridor dualism without foreclosing the other readings—under Born-bending proposals, consciousness's qualitative mode of engagement still explains why probability is phenomenologically empty, with the Born rule itself then treated as a tested approximation rather than as a description of the interface.
 
 ## Why Consciousness Cannot Grasp Its Own Interface
 

@@ -4,7 +4,7 @@ description: "The corridor reading's sharpest open question, refined through hum
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-09-27T18:55:00+00:00
+ai_modified: 2026-09-27T23:06:28+00:00
 last_deep_review: 2026-08-27T10:09:12+00:00
 draft: false
 topics:
@@ -56,7 +56,7 @@ A subtler internal seam accompanies this cost, developed in [[interventionist-an
 
 ## The Minimum-Outside-the-Corridor Route
 
-The second escape route bites the first horn of the dilemma deliberately. It reads Minimal Quantum Interaction as "the smallest interaction *actually sufficient*" rather than "the smallest *preserving ensemble statistics*," and accepts that genuine efficacy may require a small but real departure from Born statistics. The catalogued candidates ([[born-rule-and-the-consciousness-interface]]) include Stapp's quantum Zeno rate, Chalmers-McQueen Φ-dependent collapse, Penrose-Hameroff Orch-OR, and Arana's exponentially-suppressed λ-weighting, which recovers standard Born statistics as λ → 0.
+The second escape route bites the first horn of the dilemma deliberately. It reads Minimal Quantum Interaction as "the smallest interaction *actually sufficient*" rather than "the smallest *preserving ensemble statistics*," and accepts that genuine efficacy may require a small but real departure from Born statistics. The catalogued candidates ([[born-rule-and-the-consciousness-interface]]) include Stapp's quantum Zeno rate, outcome-biased Chalmers-McQueen collapse, Penrose-Hameroff Orch-OR, and Arana's exponentially-suppressed λ-weighting, which recovers standard Born statistics as λ → 0.
 
 This route's advantage is that it makes the channel *real in the physicalist's own sense*: a deviation, however suppressed, is in principle detectable, so the mind's efficacy would leave a signature that distinguishes it from both epiphenomenalism and physical randomness. Rated against the evidential-status discipline, this route is the only one of the two that is even potentially **interface-discriminating** — it generates predictions an experiment could confirm or foreclose. Its honest cost is symmetric: it abandons the corridor's conservatism and takes on empirical risk. Preregistered micro-psychokinesis nulls (Maier-Dechamps 2018) and the failed PEAR replication have driven the gross-effect end of this family onto thin ground, and any surviving version must hide below current sensitivity — which makes it empirically braver but also, so far, empirically unrewarded.
 
