@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Correct the Masanes-Galley-Müller (2019) premise list in two sibling articles ("measurement uniqueness" is not their stated extra assumption)
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/mathematical-structure-of-the-consciousness-physics-interface.md
+- **Notes**: Deep review of concepts/consciousness-physics-interface-formalism (2026-09-27) checked the MGM 2019 abstract at Nature Communications (doi:10.1038/s41467-019-09348-x): the Born rule is deduced from "unitary quantum mechanics" plus "the assumption that ensembles on finite-dimensional Hilbert spaces are characterized by finitely many parameters", using partition-independence (compositional neutrality). The corpus gloss "measurement uniqueness" omits the finite-parameter assumption, which is exactly the premise Kent (2025) and the MGM (2025) reply dispute. Fix at topics/mathematical-structure-of-the-consciousness-physics-interface.md L60 and voids/interface-formalization-void.md L65 (the latter also says "demonstrated ... not merely a good guess but the *unique*" without the Kent challenge). Canonical wording now in concepts/consciousness-physics-interface-formalism.md §1. Length-neutral edits.
+
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -1547,6 +1553,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: research-topic 2026-09-27 (research/stapp-process-1-basis-timing-critiques-2026-09-27.md) — chain entry not written by the research fork, minted by hand
 - **Generated**: 2026-09-27
 - **Notes**: Slug suggested by the note: `process-1-specification-problem`. `stapp-quantum-mind` is at 4040w (over hard), hence a new page. Concepts 332/360 on 2026-09-27 (re-measure). Build from the research note (24 quotes verified verbatim; three sources abstract-only — flagged there; do not quote them beyond the abstract). Core: Georgiev (2015, *IJMPB* 29(7) 1550039, sole author) is a basis dilemma, not just a timing result — it lands on the Born-intact question-choice row; Stapp's 2012 reply concedes the decoherence basis and leaves "which tiny portion" unspecified; Donald's full objection (precision, no neural→projector map, why stop at the brain); de Barros (2014) circularity + the Laskey fix (brain supplies basis, mind chooses whether/when). Write as honest engagement: framework-boundary where it is, no refutation claimed. Linking edits listed in the note: `brain-specialness-boundary` L67, `born-rule-and-the-consciousness-interface` L165 (at 5446w — zero-cost piped link only), `coupling-modes` L100/L146, `the-interface-problem` L117. `topics:` bare slugs, non-empty.
+
+### P2: Chalmers-McQueen CSL-IIT is Born-PRESERVING for outcome selection (Φ gates when/how fast collapse happens; outcomes follow the Born rule) — 3 live pages misfile it as Born-bending
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: topics/quantum-measurement-and-consciousness.md
+- **Source**: deep-review 2026-09-27 of concepts/consciousness-physics-interface-formalism (verified against arXiv:2105.02314: collapse "brought about according to the Born rule")
+- **Generated**: 2026-09-27
+- **Notes**: MULTI-FILE. Correct model already on disk: `topics/philosophical-stakes-of-spontaneous-collapse` L109 ("default dynamics are Born-preserving for outcome *selection*: consciousness affects when and how fast collapse occurs, after which collapse proceeds by the Born rule"; outcome-biasing is a variant the authors mention but do not endorse) and `concepts/consciousness-physics-interface-formalism` L83/L103 as fixed today (outside the corridor for OTHER reasons: it replaces unitary evolution with a collapse process with its own signatures, e.g. Zeno falsification of simple versions, and CSL non-conservation of energy — Constraint 5; only the unendorsed outcome-biasing variant would breach Constraint 1). Loci: (1) `topics/quantum-measurement-and-consciousness` L136 "Chalmers-McQueen's CSL-IIT fall in the Born-bending family, with selection statistics depending on a consciousness-related variable" — NB an earlier 2026-09-27 refine (commit a9c67c30) was explicitly briefed to KEEP this placement; that brief was wrong; (2) `concepts/causal-consistency-constraint` L75 lists "Chalmers-McQueen Φ-dependent collapse" among proposals positing "nonzero deviations from Born statistics"; (3) `topics/mathematical-structure-of-the-consciousness-physics-interface` L118 "(Born-modifying at the neural ensemble level, since the collapse probabilities depend on a consciousness-related variable…)" and L89 "Chalmers-McQueen's Φ-dependent collapse read at the ensemble level" in the minimum-outside-the-corridor list (can stay there only for the collapse-dynamics/energy reasons, not a Born deviation — or specify "on the outcome-biasing variant"). Check `born-rule-and-the-consciousness-interface` L170/L207 and `falsification-roadmap-for-the-interface-model` L83 for the same framing. The quantum-measurement hub (L136) and mathematical-structure are near hard limits: word-neutral. Grep "McQueen" + "Born" across live + archive after editing.
 
 ## Completed Tasks
 

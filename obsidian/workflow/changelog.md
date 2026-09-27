@@ -5,6 +5,16 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T22:35:12+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/consciousness-physics-interface-formalism]]
+- **Word count**: 2635 → 2767 (+132; ~50 is References apparatus)
+- **Critical issues addressed**: 2. (1) Today's refine-draft said Chalmers-McQueen "breaches Constraint 1 by design" and "modifies Born statistics at the ensemble level" (L83, L103). The primary text says collapse is "brought about according to the Born rule": Φ governs whether and when collapse happens, not which outcome. Corrected: the model is outside the corridor because of its non-unitary collapse dynamics and CSL energy non-conservation (Constraint 5); only the authors' non-endorsed agentive variant would breach Constraint 1. (2) Torres Alegre 2025 and Chalmers & McQueen 2022 were cited without References entries; added and web-verified.
+- **Medium issues addressed**: 1. MGM 2019 premise list ("measurement uniqueness") replaced with the paper's stated finite-parameter assumption, per the Nat. Commun. abstract. Sibling propagation queued as P2.
+- **Enhancements made**: 2 (timing-vs-selection distinction for Chalmers-McQueen; tightened bandwidth disclaimer)
+- **Engagement modes**: Chalmers-McQueen is a framework placement judged on its own dynamics; Everett is Mode Three (unchanged).
+- **Output**: [[reviews/deep-review-2026-09-27-consciousness-physics-interface-formalism]]
+
 ## 2026-09-27T22:20:30+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/temporal-void]]
