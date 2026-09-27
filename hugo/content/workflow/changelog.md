@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-27T22:20:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [temporal-void](/voids/temporal-void/)
+- **Original score**: 7/10 (curate review script absent; manual assessment)
+- **Changes**: (a) Block Universe section and "Mandatory succession" no longer endorse eternalism: new conditional paragraph (if eternalism, consciousness cannot inhabit the timeless whole; on the Map's growing block there is no complete whole to view from nowhen; void survives both readings), lead now says "eternalist physics"; (b) bare "seeming is still experiencing" regress reduced to the relocation point, deferring to replies two and three; (c) Hancock et al. (2019) flow evidence recast as "consistent with" a trade-off in time estimation, not proof of exclusion ("cannot coexist" removed from section and lead; absorption void "illustrates"); (d) linked [egocentric-presentism](/concepts/egocentric-presentism/) at the "why now?" question (+ related_articles). Kept "conceptually empty" and the Addis/Schacter hedge intact. Length 2249 -> ~2440 words (voids hard 3000). Engagement with illusionists: Mode Three at the relocation reply, Mode One in replies two/three (causal-structure argument holds on functional reading).
+- **Published**: yes
+
 ## 2026-09-27T21:35:35+00:00 - refine-draft
 - **Status**: Success
 - **File**: [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/)

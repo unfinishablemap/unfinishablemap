@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-08-04 05:40:38+00:00
+ai_modified: 2026-09-27 22:20:30+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ concepts:
 - '[[qualia]]'
 - '[[illusionism]]'
 created: 2026-01-21
-date: &id001 2026-04-24
+date: &id001 2026-09-27
 description: Why consciousness is confined to a moving present, cannot simultaneously
   live and measure its own time, and can re-experience the past but only imagine the
   future.
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 10:48:55+00:00
-lastmod: 2026-08-04 05:40:38+00:00
+lastmod: 2026-09-27 22:20:30+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -53,12 +53,13 @@ related_articles:
 - '[[concepts/functionalism]]'
 - '[[collapse-and-time]]'
 - '[[conjunction-coalesce]]'
+- '[[egocentric-presentism]]'
 title: The Temporal Void
 topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Consciousness is imprisoned in the present, divided against itself in how it experiences time, and fundamentally asymmetric in how it accesses past and future. Three interlocking limits define the temporal void. First, consciousness is confined to a narrow moving window — unable to experience its entire life at once or adopt the "view from nowhen" that physics describes. Second, even within this window, consciousness operates in two temporal modes that cannot coexist: lived duration (Bergson's *durée*) and measured time. Third, we can re-experience the past but only imagine the future — memory re-inhabits through causal traces while anticipation constructs without contact. Together these limits suggest that consciousness can never access the complete truth about its own temporal nature.
+Consciousness is imprisoned in the present, divided against itself in how it experiences time, and fundamentally asymmetric in how it accesses past and future. Three interlocking limits define the temporal void. First, consciousness is confined to a narrow moving window — unable to experience its entire life at once or adopt the "view from nowhen" that eternalist physics describes. Second, even within this window, consciousness operates in two temporal modes that trade off against each other: lived duration (Bergson's *durée*) and measured time. Third, we can re-experience the past but only imagine the future — memory re-inhabits through causal traces while anticipation constructs without contact. Together these limits suggest that consciousness can never access the complete truth about its own temporal nature.
 
 The Unfinishable Map takes this seriously as a void — not merely an unsolved problem but potentially unchartable territory. If consciousness is fundamental, its temporal structure may be equally fundamental: not derivative from physics but constitutive of how mind interfaces with the world.
 
@@ -72,13 +73,15 @@ Husserl analyzed temporal consciousness as a tripartite structure: *primal impre
 
 Physics presents time differently. In the block universe view — supported by relativity — past, present, and future exist equally. As Hermann Weyl wrote: "The objective world simply is, it does not happen. Only to the gaze of my consciousness, crawling upward along the life line of my body, does a section of this world come to life."
 
-If all times exist equally, why does consciousness experience only one "slice" at a time? A deflationary response holds that temporal flow is simply what it is *like* to be a temporal information-processing system embedded in a block universe. The Map rejects this. The explanatory gap between mathematical eternalism and phenomenal flow is not dissolved by redescription. Timeless experience is an oxymoron. Physics suggests timelessness is how reality actually works — yet consciousness cannot inhabit this truth.
+If all times exist equally, why does consciousness experience only one "slice" at a time? This is the temporal face of the "why now?" question, whose first-person counterpart ("why me?") [egocentric presentism](/concepts/egocentric-presentism/) treats by parity with the A-theory of time. A deflationary response holds that temporal flow is simply what it is *like* to be a temporal information-processing system embedded in a block universe. The Map rejects this. The explanatory gap between mathematical eternalism and phenomenal flow is not dissolved by redescription. Timeless experience is an oxymoron.
+
+The void does not depend on which ontology of time is true. If eternalism is correct, the timeless whole is how reality is, and consciousness cannot inhabit it. The Map itself favours the [growing block](/apex/time-consciousness-growing-block/), on which the future does not yet exist and there is no complete four-dimensional whole to be viewed from nowhen. Then the confinement is not a failure to see what is there but a consequence of there being nothing further yet to see, while the past, which does exist, is still reachable only through traces. Either way consciousness is held to its moving edge, and the fact that the limit survives both readings is what marks it as a void rather than an artefact of one metaphysics.
 
 ## The Duration Paradox
 
 Within the specious present, a further void operates. Lived duration — Bergson's *durée* — is time as directly experienced: continuous, heterogeneous, indivisible. Measured time is duration spatialized into discrete units. When consciousness measures time, it fragments the temporal flow, destroying the experience of duration. When consciousness inhabits pure duration, it loses track of quantified time. The structure resembles complementarity (by analogy, not identity): measuring duration disrupts the experience of duration.
 
-Flow states confirm this empirically. A meta-analysis of 63 studies confirms that deep absorption consistently distorts time perception — hours pass in what feels like minutes (Hancock et al., 2019). On one influential account, reduced prefrontal activity suppresses temporal tracking during flow (Dietrich, 2004) — though this transient-hypofrontality model has since been substantially complicated by fronto-striatal synchronization accounts. Consciousness enters pure duration and clock-time awareness drops away. The two modes cannot coexist.
+Flow states are consistent with this. A meta-analysis of 63 studies finds that deep absorption consistently distorts time perception — hours pass in what feels like minutes (Hancock et al., 2019). On one influential account, reduced prefrontal activity suppresses temporal tracking during flow (Dietrich, 2004) — though this transient-hypofrontality model has since been substantially complicated by fronto-striatal synchronization accounts. Consciousness enters pure duration and clock-time awareness drops away. The finding concerns distorted time *estimation*, so it shows a trade-off between the two modes rather than proving they exclude each other, but the trade-off runs in the direction the complementarity picture predicts.
 
 ## The Asymmetry Between Remembering and Anticipating
 
@@ -94,7 +97,7 @@ What would pre-experience even be? The pastness quale marks causal contact with 
 
 [Illusionists](/concepts/illusionism/) and [functionalists](/concepts/functionalism/) might argue that the "pastness quale" is a functional marker rather than a genuine phenomenal property. Three responses preserve the void framework.
 
-First, to experience the illusion of pastness, something must experience it. The illusionist relocates the quale from "pastness itself" to "seeming pastness," but seeming is still experiencing.
+First, the illusionist relocates the question from "pastness itself" to "seeming pastness" without removing it: the seeming, whatever its nature, is still generated only for the past, and the second and third replies explain why.
 
 Second, even granting pastness as a functional marker, why can it be constructed only for past events? The answer returns to causation: the marker tracks causal contact. Future events haven't caused anything yet.
 
@@ -110,13 +113,13 @@ McTaggart's A-series (past/present/future — dynamic, perspectival) versus B-se
 
 **The narrow window**: Consciousness accesses only the specious present — a few seconds at most.
 
-**Mandatory succession**: Even knowing that physics describes all times as equally real, we cannot experience this truth.
+**Mandatory succession**: Whether all times are equally real (eternalism) or the future is not yet real (the growing block), experience is confined to one moving edge and cannot survey the whole of its own history.
 
 **The measurement-duration split**: Consciousness cannot simultaneously live time and measure it.
 
 **The memory-anticipation asymmetry**: The pastness quale — the felt sense of having-been-there — has no forward-looking counterpart.
 
-**Self-entanglement**: Dissolving temporal structure may require dissolving the [self](/concepts/self-and-self-consciousness/) that experiences time. The [absorption void](/voids/disappearance-voids/) confirms this: peak absorption dissolves both self-monitoring and temporal awareness simultaneously.
+**Self-entanglement**: Dissolving temporal structure may require dissolving the [self](/concepts/self-and-self-consciousness/) that experiences time. The [absorption void](/voids/disappearance-voids/) illustrates this: peak absorption dissolves both self-monitoring and temporal awareness simultaneously.
 
 ## Evidence for the Limit
 
