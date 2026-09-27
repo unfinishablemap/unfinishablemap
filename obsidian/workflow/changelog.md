@@ -5,6 +5,13 @@ ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T02:20:49+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/panpsychisms-combination-problem]]
+- **Original score**: 7/10 (curate.py absent; manual review against task defects a-e)
+- **Changes**: (a) Dualism-by-elimination paragraph now adds the governing formulation from combination-problem: the Map escapes *constitutive* combination without dissolving every question of interface unity; "unity as primitive" paragraph notes the interface question is narrowed (quantum-holism) but not closed. (b) Mysterian paragraph "empirically approachable" -> "empirically locatable" plus the bridge's "locatable is weaker than approachable" caveat (Born-statistics aggregate undetectability, [[mqi-empirical-fragility]]); closing "the more promising trade" now conditioned "on the Map's reading" with the progress question left open. (c) Coleman "demonstrably incoherent" paragraph now notes Roelofs' [[manyism]] takes the second horn, making the dilemma a contested choice point. (d) Piped [[cosmopsychism]] link in the Cosmopsychism section. (e) Grain problem verified at source: Lockwood (1993, p.274 and n.9, consc.net PDF) calls it "a difficulty attributed to Wilfrid Sellars" citing Sellars 1965 Review of Metaphysics 18:430-51, and calls Maxwell's statement "the most lucid"; body now credits Sellars (1965) as origin, Maxwell (1978) and Lockwood (1993) as developers; Sellars 1965 added to References; Maxwell year corrected 1979 -> 1978 (Savage ed., Minnesota Studies vol. 9, 365-403; confirmed via PhilPapers MAXRDA). Engagement with Coleman: mode three (dilemma presented as contested, not refuting); no new tenet claims. Body ~2793 -> ~3000 words, under topics hard 4000. Sibling note: "Maxwell (1979)" still appears in reviews only (not live articles).
+- **Published**: yes
+
 ## 2026-09-27T01:35:31+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/composition-and-consciousness]]

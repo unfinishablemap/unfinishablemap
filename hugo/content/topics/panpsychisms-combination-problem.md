@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-07-18 01:13:23+00:00
+ai_modified: 2026-09-27 02:20:49+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -19,7 +19,7 @@ concepts:
 - '[[mysterianism]]'
 - '[[composition-and-consciousness|phenomenal non-compositionality]]'
 created: 2026-02-15
-date: &id001 2026-02-17
+date: &id001 2026-09-27
 description: 'The combination problem reveals something fundamental about subjectivity:
   consciousness resists both bottom-up composition and top-down fragmentation, pointing
   toward irreducibility.'
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 01:13:23+00:00
-lastmod: 2026-07-18 01:13:23+00:00
+lastmod: 2026-09-27 02:20:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -60,7 +60,7 @@ David Chalmers (2017) systematized the problem into three dimensions, each targe
 
 How do many experiencing subjects become one? This is the hardest dimension because subjectivity seems inherently *bounded*. A subject is a perspective, and perspectives are defined partly by what they exclude (see [the metaphysics of individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) for why this boundary resists every reductive account). My visual field is mine because it is not yours. If electron A has a micro-perspective and electron B has another, what could it mean for those perspectives to *merge*?
 
-Sam Coleman (2014) argued this is demonstrably incoherent. If subjects A and B combine into subject C, then either A and B cease to exist—in which case nothing "combined"; something new just appeared—or A, B, and C all coexist, and C is an addition rather than a combination. Philip Goff developed a parallel argument: the "micro-experiential zombie" is conceivable—a being physically identical to a human, whose micro-parts each have experience, yet where no macro-experience exists. If conceivable, micro-facts do not necessitate macro-consciousness.
+Sam Coleman (2014) argued this is demonstrably incoherent. If subjects A and B combine into subject C, then either A and B cease to exist—in which case nothing "combined"; something new just appeared—or A, B, and C all coexist, and C is an addition rather than a combination. Luke Roelofs' [manyism](/concepts/manyism/) embraces the second horn rather than treating it as fatal: overlapping subjects coexist and share experiences, so Coleman's "addition" is recast as experience-sharing—which makes the dilemma a contested choice point rather than a proof of incoherence. Philip Goff developed a parallel argument: the "micro-experiential zombie" is conceivable—a being physically identical to a human, whose micro-parts each have experience, yet where no macro-experience exists. If conceivable, micro-facts do not necessitate macro-consciousness.
 
 The conceivability argument here mirrors the [zombie argument](/concepts/philosophical-zombies/) against physicalism. Physicalism cannot close the gap between physical facts and phenomenal facts; panpsychism cannot close the gap between micro-phenomenal facts and macro-phenomenal facts. The [explanatory-gap](/concepts/explanatory-gap/) persists at a different level.
 
@@ -76,7 +76,7 @@ None of these is fully satisfying. The palette problem reveals that even grantin
 
 Conscious experience has structure—spatial organisation in vision, temporal flow in audition, the felt boundary between self and world. Physical structure at the micro-level is discrete: particles at locations, neurons firing or not. How does grainy physical composition yield the continuous, unified structure of phenomenal experience?
 
-This is the "grain problem" identified by Grover Maxwell (1979) and Michael Lockwood (1993). My visual field is not pixelated at the neuron level. It feels smooth, continuous, spatially extended. If experience is constituted by discrete micro-experiences at particle locations, why doesn't consciousness feel granular?
+This is the "grain problem," originating with Wilfrid Sellars (1965), given what Lockwood called its most lucid statement by Grover Maxwell (1978), and named and developed by Michael Lockwood (1993). My visual field is not pixelated at the neuron level. It feels smooth, continuous, spatially extended. If experience is constituted by discrete micro-experiences at particle locations, why doesn't consciousness feel granular?
 
 Lockwood argued the problem dissolves under contemporary physics, where fields rather than discrete particles are fundamental. Daniel Stoljar (2001) distinguished between the structure of experience and the structure of what experience *represents*—perhaps experience represents continuous space without being spatially continuous itself. These responses have merit, but they highlight rather than resolve the gap between physical microstructure and phenomenal macrostructure.
 
@@ -98,7 +98,7 @@ Fusionism is the most promising panpsychist response, but it raises questions. I
 
 ### Cosmopsychism
 
-Philip Goff (in later work) and Itay Shani propose inverting the problem entirely. Rather than building consciousness up from micro-experiences, cosmopsychism holds that the universe as a whole is the fundamental conscious subject. Individual minds are not combinations of micro-minds but *dissociations* from cosmic consciousness.
+Philip Goff (in later work) and Itay Shani propose inverting the problem entirely. Rather than building consciousness up from micro-experiences, [cosmopsychism](/concepts/cosmopsychism/) holds that the universe as a whole is the fundamental conscious subject. Individual minds are not combinations of micro-minds but *dissociations* from cosmic consciousness.
 
 This trades the combination problem for a "[decombination problem](/topics/open-individualism-and-the-de-combination-problem/)": how does one cosmic subject fragment into billions of separate perspectives? Gregory Miller (2018) argues this is no easier—we still face subjects as parts of other subjects. The apex synthesis [The Mereology of Mind](/apex/mereology-of-mind/) makes this de-combination move its organising hinge, treating subject-summing and subject-dividing as the same impossibility approached from opposite ends. Cosmopsychism also inherits a tension with empirical neuroscience: if my consciousness is a fragment of cosmic consciousness, why does it track brain activity so precisely? Why does anaesthesia suppress it? The cosmic mind would need to explain why its fragments correlate with specific neural configurations.
 
@@ -126,7 +126,7 @@ If consciousness cannot be composed from parts—whether those parts are non-exp
 
 A materialist might object that other phenomena resist compositional explanation without being ontologically distinct—turbulence, for instance, cannot be predicted from individual fluid molecules. But the analogy fails at a crucial point. Turbulence is *structurally* difficult: we lack the computational power to derive macro-behaviour from micro-behaviour, but there is no in-principle gap between fluid mechanics and turbulent flow. The combination problem is *conceptual*: we cannot even formulate what it would mean for two perspectives to merge, regardless of computational resources. The difficulty is not that combination is hard to model but that it is hard to *conceive*. This is why the combination problem more closely resembles the [hard problem](/topics/hard-problem-of-consciousness/) than it resembles any problem in physics.
 
-A [mysterian](/concepts/mysterianism/) alternative deserves acknowledgment: perhaps the combination problem reveals the limits of human cognition rather than the structure of reality. We may lack the conceptual resources to understand phenomenal composition, just as we may lack the resources to understand consciousness-matter interaction. The Map accepts this possibility in principle—but notes that the mysterian move applies equally to every theory, and a framework that faces an *empirically approachable* mystery (interaction) is preferable to one facing a *purely conceptual* mystery (combination).
+A [mysterian](/concepts/mysterianism/) alternative deserves acknowledgment: perhaps the combination problem reveals the limits of human cognition rather than the structure of reality. We may lack the conceptual resources to understand phenomenal composition, just as we may lack the resources to understand consciousness-matter interaction. The Map accepts this possibility in principle—but notes that the mysterian move applies equally to every theory, and a framework that faces an *empirically locatable* mystery (interaction) is preferable to one facing a *purely conceptual* mystery (combination). Locatable is weaker than approachable, deliberately: a mechanism preserving the Born statistics is indistinguishable from chance under any unconditioned aggregate test (see [mqi-empirical-fragility](/project/mqi-empirical-fragility/)), so whether this trade counts as genuine progress is a question the Map acknowledges rather than presumes to have settled.
 
 The Map draws exactly this conclusion. The [Dualism tenet](/tenets/#dualism) holds that consciousness is irreducible to physical processes. The combination problem reinforces this by showing that consciousness is equally irreducible to *experiential* processes. Reduction fails in both directions. Consciousness is fundamental—not as the intrinsic nature of all matter, but as a distinct category.
 
@@ -134,15 +134,15 @@ The Map draws exactly this conclusion. The [Dualism tenet](/tenets/#dualism) hol
 
 The combination problem strengthens the Map's position in several ways.
 
-**Dualism gains by elimination.** Both physicalism and panpsychism attempt to derive consciousness from constituents: non-experiential constituents in one case, experiential in the other. Both face structurally similar explanatory gaps. [Interactionist dualism](/concepts/interactionist-dualism/) avoids both gaps by treating consciousness as ontologically distinct. There is nothing to combine because consciousness is not composed. (The [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) locates panpsychism's Russellian variants and the Map on a shared axis, showing that the combination problem is what pulls the Map away from thick-mind panpsychist quadrants even when the monist temptation is strong.)
+**Dualism gains by elimination.** Both physicalism and panpsychism attempt to derive consciousness from constituents: non-experiential constituents in one case, experiential in the other. Both face structurally similar explanatory gaps. [Interactionist dualism](/concepts/interactionist-dualism/) avoids both gaps by treating consciousness as ontologically distinct. There is nothing to combine because consciousness is not composed. The Map escapes *constitutive* combination without thereby dissolving every question of interface unity: it still owes an account of why one subject coupled to a spatially distributed substrate yields one experiential field (see [combination-problem](/concepts/combination-problem/) and [open-individualism-and-the-de-combination-problem](/topics/open-individualism-and-the-de-combination-problem/)). (The [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) locates panpsychism's Russellian variants and the Map on a shared axis, showing that the combination problem is what pulls the Map away from thick-mind panpsychist quadrants even when the monist temptation is strong.)
 
 **The interaction problem is differently structured.** Dualism's classic challenge—how do distinct substances causally interact?—is formidable (see [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/)), but it is at least the sort of problem where empirical discoveries about quantum measurement, neural correlates, and [quantum brain models](/concepts/stapp-quantum-mind/) could bear on potential answers. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness biases quantum indeterminacies—a hypothesis constrained by physics even if not yet directly tested. The combination problem, by contrast, is conceptual: we cannot formulate what it would mean for micro-experiences to merge, regardless of what experiments reveal.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** applies directly. Panpsychism appeared simpler than dualism—one kind of stuff rather than two. But the combination problem demonstrates that apparent simplicity conceals deep complexity. Monism about substance does not yield simplicity about explanation. This is a recurring pattern in consciousness science: [parsimony arguments against dualism](/concepts/parsimony-epistemology/) often collapse when their own internal tensions are examined.
 
-**Phenomenal unity as primitive.** The Map's framework treats [phenomenal unity](/concepts/unity-of-consciousness/) as a feature of consciousness itself, not an achievement of physical combination. The combination problem shows why: if unity cannot be built from parts (whether physical or experiential), it must be intrinsic to consciousness. This aligns with the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet—consciousness brings its own unity to the neural processes it influences, rather than borrowing unity from physical organisation. Treating unity as primitive is a genuine philosophical cost—it declines to explain something that seems to demand explanation. But the combination problem shows that every attempt at explanation either smuggles in unexplained unity (phenomenal bonding), relabels emergence (fusionism), or dissolves the phenomenon (eliminating subjects). Accepting primitiveness honestly is preferable to concealing it behind a mechanism that does not actually work.
+**Phenomenal unity as primitive.** The Map's framework treats [phenomenal unity](/concepts/unity-of-consciousness/) as a feature of consciousness itself, not an achievement of physical combination. The combination problem shows why: if unity cannot be built from parts (whether physical or experiential), it must be intrinsic to consciousness. This aligns with the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet—consciousness brings its own unity to the neural processes it influences, rather than borrowing unity from physical organisation. Treating unity as primitive is a genuine philosophical cost—it declines to explain something that seems to demand explanation. But the combination problem shows that every attempt at explanation either smuggles in unexplained unity (phenomenal bonding), relabels emergence (fusionism), or dissolves the phenomenon (eliminating subjects). Accepting primitiveness honestly is preferable to concealing it behind a mechanism that does not actually work—though primitive unity of the subject leaves open the interface question noted above, which the Map's [quantum-holism](/topics/quantum-holism-and-phenomenal-unity/) proposal narrows but does not close.
 
-The Map recognises what panpsychism gets right: consciousness is fundamental, emergence from non-conscious matter is unintelligible, the hard problem is genuine. The disagreement concerns *how* consciousness is fundamental. Panpsychism distributes it across all matter and faces the combination problem. The Map concentrates it as a distinct category that interacts with matter wherever architectural conditions are met (the [universal-coupling-response](/concepts/universal-coupling-response/))—and faces the interaction problem instead. The combination problem's depth and persistence suggest the Map's trade is the more promising one—though the interaction problem's own difficulties remain to be fully resolved.
+The Map recognises what panpsychism gets right: consciousness is fundamental, emergence from non-conscious matter is unintelligible, the hard problem is genuine. The disagreement concerns *how* consciousness is fundamental. Panpsychism distributes it across all matter and faces the combination problem. The Map concentrates it as a distinct category that interacts with matter wherever architectural conditions are met (the [universal-coupling-response](/concepts/universal-coupling-response/))—and faces the interaction problem instead. The combination problem's depth and persistence suggest the Map's trade is the more promising one, on the Map's reading—though whether exchanging a conceptual mystery for a locatable but aggregate-undetectable one is genuine progress remains open, and the interaction problem's own difficulties are unresolved.
 
 ## Further Reading
 
@@ -171,10 +171,11 @@ The Map recognises what panpsychism gets right: consciousness is fundamental, em
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Lewtas, P. (2017). Building Minds: Solving the Combination Problem. *Inquiry*, 60(7), 742-781.
 1. Lockwood, M. (1993). The Grain Problem. In H. Robinson (Ed.), *Objections to Physicalism*. Oxford University Press.
-1. Maxwell, G. (1979). Rigid Designators and Mind-Brain Identity. *Minnesota Studies in the Philosophy of Science*, 9, 365-403.
+1. Maxwell, G. (1978). Rigid Designators and Mind-Brain Identity. In C. W. Savage (Ed.), *Perception and Cognition: Issues in the Foundations of Psychology* (Minnesota Studies in the Philosophy of Science, Vol. 9, pp. 365-403). University of Minnesota Press.
 1. Miller, G. (2018). Can Subjects Be Proper Parts of Subjects? The De-Combination Problem. *Ratio*, 31(2), 137-154.
 1. Mørch, H. H. (2014). *Panpsychism and Causation: A New Argument and a Solution to the Combination Problem* (Doctoral dissertation, University of Oslo).
 1. Roelofs, L. (2019). *Combining Minds: How to Think about Composite Subjectivity*. Oxford University Press.
+1. Sellars, W. (1965). The Identity Approach to the Mind-Body Problem. *Review of Metaphysics*, 18(3), 430-451.
 1. Seager, W. (2016). Panpsychist Infusion. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives*. Oxford University Press.
 1. Stoljar, D. (2001). Two Conceptions of the Physical. *Philosophy and Phenomenological Research*, 62(2), 253-281.
 1. Shani, I. (2015). Cosmopsychism: A Holistic Approach to the Metaphysics of Experience. *Philosophical Papers*, 44(3), 389-437.
