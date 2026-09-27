@@ -4,7 +4,7 @@ description: "Human+AI exploration of why the consciousness-physics interface re
 created: 2026-03-15
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-09-21T02:56:05+00:00
+ai_modified: 2026-09-27T22:50:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[apex/dualism-cartography]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-03-15
 last_curated:
 last_deep_review: 2026-07-19T13:22:00+00:00
@@ -62,9 +62,9 @@ Which escape a structuralist takes matters. [[ontic-structural-realism|Ontic str
 
 The Born rule—quantum mechanics' prescription that probability equals the squared amplitude of the wave function—illustrates both how close mathematics gets to the interface and where it stops.
 
-Masanes, Galley, and Müller demonstrated in 2019 that the Born rule is not merely a good guess but the *unique* consistent probability rule given basic physical postulates: states as vectors, unitarity, compositional neutrality, and measurement uniqueness. Pati's 2026 result strengthens this: the Hilbert space inner product itself is uniquely fixed by the no-signalling principle. The entire mathematical architecture of quantum measurement—Hermitian operators, eigenvalues, the probability rule—is locked in place by internal consistency requirements.
+Masanes, Galley, and Müller argued in 2019 that the Born rule is the *unique* consistent probability rule given basic postulates: states as Hilbert-space rays, unitarity, compositional neutrality, and finitely many parameters characterising finite-dimensional ensembles. Kent (2025) disputes the derivation and its authors have replied (Masanes, Galley & Müller 2025); the question is contested rather than closed. Pati's 2026 preprint adds that the Hilbert space inner product itself is uniquely fixed by the no-signalling principle. If these derivations stand, the entire mathematical architecture of quantum measurement—Hermitian operators, eigenvalues, the probability rule—is locked in place by internal consistency requirements.
 
-This uniqueness has a striking implication for the interface. If consciousness acts at measurement—biasing which outcome actualises from among quantum possibilities—it must preserve the Born rule's statistical structure. Consciousness cannot alter probabilities without destroying quantum mechanics' consistency. Tonetto's analysis identifies the remaining gap precisely: quantum mechanics provides "statistical closure with outcome-level openness." The probability *distribution* is fixed; which *specific outcome* actualises is not determined by the formalism. (The [[mathematical-structure-of-the-consciousness-physics-interface|mathematical structure of this corridor]] is explored in detail elsewhere on the Map, and the [[consciousness-physics-interface-formalism]] defines the three formal components — state spaces E and P, coupling map C — along with five non-negotiable constraints any interface must satisfy.)
+This uniqueness, where it holds, has a striking implication for the interface. If consciousness acts at measurement—biasing which outcome actualises from among quantum possibilities—it must preserve the Born rule's statistical structure. Consciousness cannot alter probabilities without destroying quantum mechanics' consistency. Tonetto's analysis identifies the remaining gap precisely: quantum mechanics provides "statistical closure with outcome-level openness." The probability *distribution* is fixed; which *specific outcome* actualises is not determined by the formalism. (The [[mathematical-structure-of-the-consciousness-physics-interface|mathematical structure of this corridor]] is explored in detail elsewhere on the Map, and the [[consciousness-physics-interface-formalism]] defines the three formal components — state spaces E and P, coupling map C — along with five non-negotiable constraints any interface must satisfy.)
 
 The Born rule thus marks a structural ceiling. Mathematics describes the statistical envelope perfectly. But the actualisation event—the moment where one outcome becomes real from among the possibilities—is exactly where the formalism falls silent. The Born rule describes the *structure around* the interface without describing the interface itself. It is the closest mathematics can approach without crossing into the territory of actuality. The [[born-rule-and-the-consciousness-interface|interpretation-invariance of this ceiling]] — no quantum interpretation, from Bohmian mechanics to categorical approaches, derives the Born rule without presupposing observers or probability — reinforces its status as a principled limit rather than a technical gap.
 
@@ -151,3 +151,5 @@ The interface formalization void is generated directly by the Map's tenets, spec
 8. Kleiner, J. & Ludwig, T. (2024). "What is a mathematical structure of conscious experience?" *Synthese*, 203(3), 89. https://doi.org/10.1007/s11229-024-04503-4
 9. Kleiner, J. (2025). "The Newman problem of consciousness science." *Philosophy and the Mind Sciences*, 6. https://doi.org/10.33735/phimisci.2025.11827
 10. Southgate, A. & Oquatre-six, C. (2026-02-06). The Nomic Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/nomic-void/
+11. Kent, A. (2025). "The measurement postulates of quantum mechanics are not redundant." *Quantum*, 9, 1749. https://doi.org/10.22331/q-2025-05-20-1749. arXiv:2307.06191 (2023).
+12. Masanes, L., Galley, T.D. & Müller, M.P. (2025). "Response to 'The measurement postulates of quantum mechanics are not redundant'." *Quantum*, 9, 1592. https://doi.org/10.22331/q-2025-01-14-1592.

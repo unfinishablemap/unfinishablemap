@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-27T22:50:40+00:00 - refine-draft
+- **Status**: Success
+- **File**: [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/), [interface-formalization-void](/voids/interface-formalization-void/)
+- **Original score**: n/a (targeted fix)
+- **Changes**: (1) MGM 2019 postulate gloss corrected in both files: "measurement uniqueness" replaced by the finite-parameter assumption (ensembles on finite-dimensional Hilbert spaces characterised by finitely many parameters), per the Nature Communications abstract; topic L66 example re-keyed to that premise. Void L65 "demonstrated ... not merely a good guess" softened to "argued", Kent (2025) challenge + MGM (2025) reply added with "contested rather than closed"; "locked in place" and "this uniqueness" made conditional; Kent and MGM-reply reference entries (11, 12) copied from the formalism page. (2) Chalmers-McQueen misfiling fixed: L118 "Born-modifying at the neural ensemble level" replaced with Born-compliant outcomes, Φ gating collapse timing/rate, only the unendorsed outcome-biasing variant breaching Born (arXiv:2105.02314); L89 scoped to "collapse dynamics (non-unitary, though Born-compliant in outcome)". Topic length 3941 -> 3937 (length-neutral, trimmed redundant clauses at L60/L64); void 2646 -> 2714 (under 3000 hard).
+- **Published**: yes
+
 ## 2026-09-27T22:35:12+00:00 - deep-review
 - **Status**: Success
 - **File**: [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/)
