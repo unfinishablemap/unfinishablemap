@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-08-19 15:24:39+00:00
-ai_system: claude-opus-4-6+claude-fable-5
+ai_modified: 2026-09-27 16:50:38+00:00
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 concepts:
 - '[[measurement-problem]]'
@@ -28,7 +28,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-03 12:03:40+00:00
-lastmod: 2026-08-19 15:24:39+00:00
+lastmod: 2026-09-27 16:50:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -157,7 +157,7 @@ The mathematical structure of the consciousness-physics interface connects direc
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is mathematically substantiated *within* the corridor constraints, under the Map's default corridor-dualism hypothesis. The Born rule, inner product, and second-order interference structure together ensure that any corridor-compliant consciousness-mediated effect is minimal in a precise sense: it cannot alter ensemble statistics, reshape the geometry of state space, or introduce new interference terms. The interaction is confined to selecting individual outcomes within distributions that physics fully determines. The tenet itself demands the smallest interaction *necessary to cause the effect*, and where that minimum lies is ultimately an empirical question. If brain-internal physics turns out to require a postulate-breaking interaction—one that departs from the Born rule, the no-signalling-derived inner product, or second-order interference at the neural scale—MQI sanctions it, and the corridor becomes a provisional scope rather than a binding ceiling.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** requires that the coupling between E and P be genuine—not merely correlational but causal. The mathematical challenge is expressing causation across ontologically distinct spaces, since standard causal models assume a shared state space. Chalmers-McQueen's Φ-dependent collapse rate is the most developed attempt: consciousness (measured by Φ) directly modifies a dynamical equation governing physical evolution.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** requires that the coupling between E and P be genuine—not merely correlational but causal. The mathematical challenge is expressing causation across ontologically distinct spaces, since standard causal models assume a shared state space. Chalmers-McQueen's Φ-dependent collapse rate is the most developed outside-corridor attempt: consciousness (via Φ) directly modifies a dynamical equation governing physical evolution.
 
 **[No Many Worlds](/tenets/#no-many-worlds)** is presupposed by the entire framework. The mathematical corridor constrains how consciousness *selects* outcomes—a concept that requires genuine collapse. Under many-worlds, all outcomes occur and there is nothing to select; the selection-based reading of the structure discussed here has no role to play *given the Map's rejection of MWI*. This is a framework-boundary disagreement, not a mathematical defeat of Everett: the Born-rule reconstructions the corridor leans on (Masanes-Galley-Müller; Torres Alegre 2025, a recent arXiv preprint not yet peer-reviewed) sit in the same derivational lineage as the decision-theoretic Born derivation pursued within the Everettian programme (Deutsch, Wallace), so many-worlds is a rival claimant to those theorems rather than an interpretation they render vacuous. The Map sets MWI aside on the strength of its fourth tenet, and says so plainly, rather than claiming the mathematics has ruled it out.
 

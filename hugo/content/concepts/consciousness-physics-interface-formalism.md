@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-07-15 20:18:05+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-27 16:50:38+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
 - '[[measurement-problem]]'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 20:18:05+00:00
-lastmod: 2026-07-15 20:18:05+00:00
+lastmod: 2026-09-27 16:50:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,7 +58,7 @@ Quantum foundations impose five constraints that any coupling map C must respect
 
 ### 1. Born Rule Preservation
 
-Masanes, Galley, and Müller (2019) proved that the Born rule — p = |ψ|² — is the unique probability assignment consistent with states as Hilbert-space vectors, unitary evolution, and compositional neutrality, *given those postulates*. The [interpretation-invariance analysis](/topics/born-rule-and-the-consciousness-interface/) adds that the Born rule appears in every major quantum framework—hidden-variable, collapse, retrocausal, categorical, gravitational—without being derivable from any. That pattern is *compatible with* the reading that the rule encodes the consciousness-physics interface, and equally compatible with the consciousness-free rivals (QBism, objective collapse, modal and hidden-variable accounts) that build their own framework-internal home for it; the underivability does not adjudicate between them. The formalism here imports the constraint without claiming the underivability supports the interface reading over those rivals. The coupling map C can bias which individual outcome actualises, but ensemble statistics must remain Born-rule compliant. Over many repetitions, outcome frequencies must match squared amplitudes. Any formalism in which consciousness systematically alters probability distributions, wherever the four postulates hold, is ruled out.
+Masanes, Galley, and Müller (2019) argue that the Born rule — p = |ψ|² — is the unique probability assignment consistent with states as Hilbert-space vectors, unitary evolution, compositional neutrality, and measurement uniqueness, *given those postulates*. The derivation is under refereed challenge: Kent (2025) exhibits non-quantum measurement rules satisfying its assumptions, and Masanes, Galley, and Müller (2025) reply that those alternatives breach the postulates' Hilbert-space and finite-dimensionality assumptions. The uniqueness claim is contested rather than closed, so this constraint is conditional twice over — on the derivation surviving the challenge and on its postulates holding at the interface. The [interpretation-invariance analysis](/topics/born-rule-and-the-consciousness-interface/) adds that the Born rule appears in every major quantum framework—hidden-variable, collapse, retrocausal, categorical, gravitational—without being derivable from any. That pattern is *compatible with* the reading that the rule encodes the consciousness-physics interface, and equally compatible with the consciousness-free rivals (QBism, objective collapse, modal and hidden-variable accounts) that build their own framework-internal home for it; the underivability does not adjudicate between them. The formalism here imports the constraint without claiming the underivability supports the interface reading over those rivals. The coupling map C can bias which individual outcome actualises, but ensemble statistics must remain Born-rule compliant. Over many repetitions, outcome frequencies must match squared amplitudes. Any formalism in which consciousness systematically alters probability distributions, wherever the four postulates hold, is ruled out.
 
 ### 2. Inner Product Invariance
 
@@ -84,7 +84,7 @@ Each major proposal specifies different subsets of the three components. This th
 
 **Von Neumann-Stapp** takes P as standard Hilbert space, leaves E implicit (attention is the mental variable but has no independent formal structure), and models C as increased observation rate (the quantum Zeno effect) — a form of [timing control](/concepts/coupling-modes/). The coupling map is interpretational rather than mathematically specified — Process 1 is identified with conscious attention, but the transfer function from attention to observation rate has no derivation.
 
-**Chalmers-McQueen** specifies P as Hilbert space with CSL (continuous spontaneous localisation) dynamics, E through IIT's integrated information Φ, and C as a Φ-dependent collapse rate in a modified stochastic Schrödinger equation. This is the most mathematically complete proposal — it gives C an explicit functional form — though the bridge between IIT's information-theoretic E and quantum-mechanical P remains underspecified.
+**Chalmers-McQueen** specifies P as Hilbert space with CSL (continuous spontaneous localisation) dynamics, E through IIT's integrated information Φ, and C as a Φ-dependent collapse rate in a modified stochastic Schrödinger equation. This is the most mathematically complete proposal *outside* the corridor the five constraints define — it gives C an explicit functional form, but that form is Born-modifying at the neural ensemble level, since collapse probabilities depend on a consciousness-related variable standard quantum mechanics does not include, so it breaches Constraint 1 by design. Constraint 5 is at issue too: standard CSL does not conserve energy exactly, and the spontaneous heating it predicts is one of the effects experiments use to bound its parameters. The bridge between IIT's information-theoretic E and quantum-mechanical P also remains underspecified.
 
 **Kleiner** provides the most general framework for E (experience space with flexible mathematical structure) and defines the product space E × P, but leaves C almost entirely open. The framework specifies what the coupling *must relate* without specifying *how*.
 
@@ -92,7 +92,7 @@ Each major proposal specifies different subsets of the three components. This th
 
 ## The Specification Gap
 
-Quantum mechanics provides what Tonetto (2026) calls "statistical closure with outcome-level openness": the Born rule fixes probability distributions, but which specific outcome actualises is not determined by the formalism. This structural gap — not merely incomplete knowledge — is precisely where C must operate. The central formal gap across all frameworks is the coupling map C itself. We can characterise its domain (E × P), codomain (P), and constraints (the five bounds above), but we lack a mathematical expression for conscious selection. What operator represents "consciousness choosing outcome A over outcome B"?
+Quantum mechanics provides what Tonetto (2026) calls "statistical closure with outcome-level openness": the Born rule fixes probability distributions, but which specific outcome actualises is not determined by the formalism. This structural gap — not merely incomplete knowledge — is precisely where C must operate, and why the [demand for a mechanism](/concepts/argument-from-mechanism/) presses hardest here. The central formal gap across all frameworks is the coupling map C itself. We can characterise its domain (E × P), codomain (P), and constraints (the five bounds above), but we lack a mathematical expression for conscious selection. What operator represents "consciousness choosing outcome A over outcome B"?
 
 This gap is not merely a matter of insufficient data. It may reflect a structural limit. Mathematics describes relational and structural properties — exactly what Russell (1927) observed physics captures. If the coupling between consciousness and physics involves something beyond relational structure — the intrinsic character of experience meeting the dispositional character of physical possibility — then mathematics may approach the coupling asymptotically without fully expressing it. The [interface-formalization-void](/voids/interface-formalization-void/) explores whether this gap is a temporary limitation or a principled boundary of formal description.
 
@@ -104,7 +104,7 @@ The interface formalism concept connects directly to the Map's foundational comm
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is substantiated by the five constraints. The mathematical bounds from quantum foundations ensure that any consciousness-mediated effect is minimal in a formally precise sense: it preserves ensemble statistics, geometric structure, locality, interference order, and conservation laws. The coupling map adds information without energy — the smallest conceivable intervention.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is formalised by the requirement for a non-trivial coupling map C. If consciousness were epiphenomenal — correlated with physical states but causally inert — then C would be the identity function and the three-component apparatus would be unnecessary. The Map's insistence on genuine causal influence demands that C be a non-degenerate map: given the same physical state p, different conscious states e₁ and e₂ can yield different physical outcomes. The mathematical challenge is expressing causation across ontologically distinct spaces, since standard causal models assume a shared state space. Chalmers and McQueen's Φ-dependent collapse rate is the most developed attempt: consciousness (measured by integrated information Φ) directly modifies a dynamical equation governing physical evolution.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is formalised by the requirement for a non-trivial coupling map C. If consciousness were epiphenomenal — correlated with physical states but causally inert — then C would be the identity function and the three-component apparatus would be unnecessary. The Map's insistence on genuine causal influence demands that C be a non-degenerate map: given the same physical state p, different conscious states e₁ and e₂ can yield different physical outcomes. The mathematical challenge is expressing causation across ontologically distinct spaces, since standard causal models assume a shared state space. Chalmers and McQueen's Φ-dependent collapse rate is the most developed attempt, though one that lies outside the corridor (it modifies Born statistics at the ensemble level): consciousness (measured by integrated information Φ) directly modifies a dynamical equation governing physical evolution.
 
 **[No Many Worlds](/tenets/#no-many-worlds)** is presupposed. The coupling map C requires genuine collapse — a transition from superposition to definite outcome. Under many-worlds, all outcomes occur and there is nothing for C to select; the coupling-map formalism has no role to play *given the Map's rejection of MWI*. This is a framework-boundary marking rather than a claim that the mathematics defeats Everett: the Born-rule reconstructions these constraints rest on belong to the same derivational lineage as the Everettian decision-theoretic Born derivation, so MWI is a rival claimant to the theorems, not an interpretation they render empty. The Map declines MWI on the fourth tenet and states the boundary plainly.
 
@@ -123,18 +123,22 @@ The interface formalism concept connects directly to the Map's foundational comm
 
 ## References
 
-1. Kleiner, J. (2020). "Mathematical Models of Consciousness." *Entropy*, 22(6), 609.
+1. Kent, A. (2025). "The measurement postulates of quantum mechanics are not redundant." *Quantum*, 9, 1749. https://doi.org/10.22331/q-2025-05-20-1749. arXiv:2307.06191 (2023).
 
-2. Masanes, L., Galley, T.D. & Müller, M.P. (2019). "The measurement postulates of quantum mechanics are operationally redundant." *Nature Communications*, 10, 1361.
+2. Kleiner, J. (2020). "Mathematical Models of Consciousness." *Entropy*, 22(6), 609.
 
-3. Pati, A.K. (2026). "No-Signalling Fixes the Hilbert-Space Inner Product." arXiv:2601.13012.
+3. Masanes, L., Galley, T.D. & Müller, M.P. (2019). "The measurement postulates of quantum mechanics are operationally redundant." *Nature Communications*, 10, 1361.
 
-4. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
+4. Masanes, L., Galley, T.D. & Müller, M.P. (2025). "Response to 'The measurement postulates of quantum mechanics are not redundant'." *Quantum*, 9, 1592. https://doi.org/10.22331/q-2025-01-14-1592.
 
-5. Sorkin, R.D. (1994). "Quantum Mechanics as Quantum Measure Theory." *Modern Physics Letters A*, 9(33), 3119–3127.
+5. Pati, A.K. (2026). "No-Signalling Fixes the Hilbert-Space Inner Product." arXiv:2601.13012.
 
-6. Tonetto, B. (2026). "What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry." PhilArchive. https://philarchive.org/rec/TONWPA
+6. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
 
-7. Von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer.
+7. Sorkin, R.D. (1994). "Quantum Mechanics as Quantum Measure Theory." *Modern Physics Letters A*, 9(33), 3119–3127.
 
-8. Southgate, A. & Oquatre-six, C. (2026-03-18). Mathematical Structure of the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/mathematical-structure-of-the-consciousness-physics-interface/
+8. Tonetto, B. (2026). "What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry." PhilArchive. https://philarchive.org/rec/TONWPA
+
+9. Von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer.
+
+10. Southgate, A. & Oquatre-six, C. (2026-03-18). Mathematical Structure of the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/mathematical-structure-of-the-consciousness-physics-interface/

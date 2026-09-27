@@ -5,6 +5,13 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T16:50:38+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/consciousness-physics-interface-formalism]]
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**: (a) Chalmers-McQueen relabelled as the most complete proposal *outside* the corridor in the frameworks section (Born-modifying at the neural-ensemble level, so it breaches Constraint 1 by design; standard CSL also fails exact energy conservation, and its spontaneous heating is used to bound its parameters, so Constraint 5 is at issue too). The Bidirectional Interaction paragraph now says "most developed attempt, though one that lies outside the corridor". This removes the contradiction with L57's ruling-out clause and matches mathematical-structure L89/L118 and today's quantum-measurement-and-consciousness edit. (b) The Masanes-Galley-Müller "proved" became "argue", the fourth postulate (measurement uniqueness) was added, and the refereed challenge is now in the text (Kent 2025 *Quantum* 9:1749; MGM reply *Quantum* 9:1592), with a "contested rather than closed" / conditional-twice-over framing. Both references were added with DOIs checked on Crossref, and the reference list was re-sorted alphabetically. (c) Added a wikilink to [[argument-from-mechanism]] at the specification-gap sentence. (d) Sibling [[topics/mathematical-structure-of-the-consciousness-physics-interface]] L156 was changed word-neutrally to "most developed outside-corridor attempt … (via Φ)". Body +~180 words, well under the concepts hard limit. Synced to hugo.
+- **Published**: yes
+
 ## 2026-09-27T16:40:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/direction-dependent-discriminating-test-design]]
