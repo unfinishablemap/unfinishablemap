@@ -5,6 +5,11 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T09:07:17+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/sham-controlled-neurofeedback-and-the-consciousness-comparator` (created and deep-reviewed 2026-09-25; first pessimistic pass). Five issues found. High: L43 misdescribes what the sham removes and overclaims that the conscious contribution is "held fixed". High: the two-by-two design's expectancy prediction conflicts with the article's own ingredient list, and the Occam section calls the dispute classificatory and empirical in consecutive sentences. Medium-High: Tenet 3 is promised a price but gets only a credit, and the Schabus/Maaz targeted-rhythm nulls are never charged against `concepts/neuroplasticity` L117. Medium: the passive arm is not a no-attention control on the Map's own view. Low: inbound anchors. Citations were not re-checked (verified by the deep review). One P2 refine-draft task was added, covering two files.
+- **Output**: [[reviews/pessimistic-2026-09-27-sham-controlled-neurofeedback]]
+
 ## 2026-09-27T08:36:20+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/libet-experiments]]
