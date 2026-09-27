@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-27T11:35:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/)
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Changes**: (a) L92 unnamed "2024 *Nature Communications* study showed it enables cryptochrome magnetoreception" / "confirmed biological precedent" reworded to Denton et al. (2024) "showed computationally ... can enable", with the mechanism-category-not-neural-deployment qualifier; no "first" claim. Reference 8 (Denton et al. 2024, *Nat. Commun.* 15, 10823, DOI 10.1038/s41467-024-55124-x) added, metadata verified via Crossref. (b) L130 "not requiring consciousness to cause physical changes detectable from outside" replaced by "no energy injected, no departure from Born statistics an outside observer could measure", plus the *globally* nonactual qualifier (posit, linked to background-commitments; wording matched to indexical-identity-quantum-measurement L165 and concepts/quantum-probability-consciousness L114), plus a sentence reconciling with the page's Bidirectional Interaction note (the selected outcome runs forward causally into report; no single selection distinguishable from chance). (c) [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) added to Further Reading. Body 2501 -> ~2660 words (under 4000 hard).
+- **Corpus sweep** ("Nature Communications"/"2024 study" near cryptochrome/Zeno, live + archive): live `topics/quantum-biology-and-neural-consciousness` L55 (the brief's own template) still said "study showed ... enables" with Denton framed as confirmed and Luo 2025 as "computational confirmation" -> reworded to "modelled ... can enable ... a computational result", "establishes" -> "indicates". Archive: `quantum-biology-and-the-consciousness-debate` L45 and `quantum-binding-and-phenomenal-unity` L80 ("demonstrated", "confirmed biological precedent/counterpart"), `quantum-biology-evidence-in-neural-systems` L47 ("demonstrated", "establishes ... operate in warm tissue"), `concepts/quantum-biology` L73 ("published evidence", "first biological precedent ... at neural-relevant timescales") all recalibrated. Two archive reference lists carried a phantom "Atkins, C., et al. (2024) ... 15, 12456" for the Denton paper; corrected to Denton et al., 15, 10823. Clean already: concepts/quantum-biology-and-neural-mechanisms, neural-implementation-specifics, quantum-holism-and-phenomenal-unity, stapp-quantum-mind, radical-pair-magnetoreception, archive/concepts/quantum-neural-mechanisms.
+- **Published**: yes
+
 ## 2026-09-27T11:20:41+00:00 - refine-draft
 - **Status**: Success
 - **File**: [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)

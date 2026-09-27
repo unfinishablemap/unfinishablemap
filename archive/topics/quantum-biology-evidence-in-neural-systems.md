@@ -4,7 +4,7 @@ description: "Assessing the cumulative evidence for quantum effects in neural ti
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-08-07T10:55:50+00:00
+ai_modified: 2026-09-27T11:35:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ Before evaluating neural-specific evidence, the broader context of [[quantum-bio
 
 Three established systems set the prior:
 
-**Avian magnetoreception** relies on quantum spin coherence in cryptochrome proteins. Radical pairs maintain entangled states for microseconds in warm tissue. A 2024 *Nature Communications* study demonstrated that the quantum Zeno effect—where frequent environmental interactions stabilise quantum states rather than destroying them—enables this magnetosensitivity (Atkins et al., 2024). Stapp's model of [[stapp-quantum-mind|consciousness-brain interaction]] invokes the same general principle, though applied differently: mental acts as repeated observations holding desired neural patterns. The biological precedent does not validate Stapp's specific proposal, but it establishes that Zeno-type dynamics operate in warm tissue. A 2026 Princeton study provided computational confirmation of the radical pair mechanism in European robin cryptochrome (Xu et al., 2026).
+**Avian magnetoreception** relies on quantum spin coherence in cryptochrome proteins. Radical pairs maintain entangled states for microseconds in warm tissue. A 2024 *Nature Communications* spin-dynamics study modelled how the quantum Zeno effect—where frequent environmental interactions stabilise quantum states rather than destroying them—can enable this magnetosensitivity (Denton et al., 2024; a computational result, not an experimental measurement). Stapp's model of [[stapp-quantum-mind|consciousness-brain interaction]] invokes the same general principle, though applied differently: mental acts as repeated observations holding desired neural patterns. The biological precedent does not validate Stapp's specific proposal, but it makes it plausible that Zeno-type dynamics can operate in warm tissue. A 2026 Princeton study provided computational confirmation of the radical pair mechanism in European robin cryptochrome (Xu et al., 2026).
 
 **Enzyme quantum tunnelling** contributes to reaction acceleration factors of 10¹² to 10¹⁷. Large kinetic isotope effects confirm the mechanism. Evolution did not avoid quantum effects in catalysis; how much of that acceleration tunnelling itself supplies, and whether selection tuned it, remain contested.
 
@@ -145,7 +145,7 @@ The convergence of evidence connects to the Map's [[tenets]] in a specific way: 
 
 ## References
 
-1. Atkins, C., et al. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 12456.
+1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 2. Babcock, N. S., et al. (2024). Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures. *The Journal of Physical Chemistry B*, 128(20), 4906-4920.
 3. Fisher, M. P. A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
 4. Fisher, M. P. A., et al. (2025). Giant and opposite lithium isotope effects on rat hippocampus synaptic activity revealed by multi-electrode array electrophysiology. *bioRxiv preprint*.

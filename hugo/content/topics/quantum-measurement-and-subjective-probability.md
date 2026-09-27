@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-06-20 14:25:21+00:00
+ai_modified: 2026-09-27 11:35:57+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 19:20:38+00:00
-lastmod: 2026-06-20 14:25:21+00:00
+lastmod: 2026-09-27 11:35:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -93,7 +93,7 @@ Von Neumann (1932) and Wigner (1961) proposed that consciousness does cause coll
 
 Where QBism makes consciousness structurally necessary but only epistemically active, consciousness-collapse makes it causally active as well. This avoids the structural-dependence problem: if consciousness causes collapse, the theory at least acknowledges consciousness as a real causal factor rather than silently relying on it.
 
-But consciousness-collapse faces its own difficulties. Wigner himself moved away from the position by the 1970s-80s, though his reasons were complex. He cited Zeh's work on decoherence, yet decoherence alone does not solve the measurement problem—a point the Map argues elsewhere. Wigner's retreat may have been premature, but mechanistic challenges remain. Tegmark's original estimate placed decoherence at ~10⁻¹³ seconds in neural tissue—far too fast for consciousness to intervene through ordinary neural processes. However, [developments in quantum biology](/topics/quantum-biology-and-neural-consciousness/) have weakened the categorical version of this objection. The quantum Zeno effect—the same mechanism Stapp proposes for mental causation—has a confirmed biological precedent: a 2024 *Nature Communications* study showed it enables cryptochrome magnetoreception. Theoretical proposals (e.g. microtubule interiors modelled as quantum-electrodynamic cavities sustaining coherence of order a microsecond) remain unconfirmed, but the blanket "warm, wet brains forbid all quantum function" objection no longer holds. A timing gap between any such coherence and millisecond neural decisions still persists (see [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)).
+But consciousness-collapse faces its own difficulties. Wigner himself moved away from the position by the 1970s-80s, though his reasons were complex. He cited Zeh's work on decoherence, yet decoherence alone does not solve the measurement problem—a point the Map argues elsewhere. Wigner's retreat may have been premature, but mechanistic challenges remain. Tegmark's original estimate placed decoherence at ~10⁻¹³ seconds in neural tissue—far too fast for consciousness to intervene through ordinary neural processes. However, [developments in quantum biology](/topics/quantum-biology-and-neural-consciousness/) have weakened the categorical version of this objection. The quantum Zeno effect—the same mechanism Stapp proposes for mental causation—has a modelled biological precedent: Denton et al. (2024) showed computationally, in a spin-dynamics model, that it can enable magnetosensitivity in tightly bound cryptochrome radical pairs. The precedent is for the *mechanism category* in a specialised photoactivated sensor, not for any neural deployment of it. Theoretical proposals (e.g. microtubule interiors modelled as quantum-electrodynamic cavities sustaining coherence of order a microsecond) remain unconfirmed, but the blanket "warm, wet brains forbid all quantum function" objection no longer holds. A timing gap between any such coherence and millisecond neural decisions still persists (see [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)).
 
 The deeper problem is the [indexical gap](/topics/indexical-identity-quantum-measurement/)—consciousness-collapse explains *how* collapse happens but not why *this* consciousness exists to trigger it. That argument is developed fully in the companion article.
 
@@ -131,7 +131,7 @@ The Map's [tenets](/tenets/) commit to positions that bear on this debate:
 
 These commitments suggest an account where consciousness neither causes collapse globally nor is merely epistemic. Instead, consciousness grounds the indexical fact—making it the case that *this* subject experiences *this* outcome—at points where physics leaves outcomes undetermined.
 
-This differs from QBism by treating consciousness as genuinely causal, not just epistemic. It differs from consciousness-collapse by not requiring consciousness to cause physical changes detectable from outside. The causal contribution is indexical: determining which of the physically possible outcomes is actual *for this subject*. This resonates with [process-philosophy](/concepts/process-philosophy/)'s account of actual occasions—moments where indeterminacy resolves into determinate fact through a process that is neither purely physical nor external to experience.
+This differs from QBism by treating consciousness as genuinely causal, not just epistemic. It differs from consciousness-collapse by not requiring consciousness to add a physical change of its own—no energy injected, no departure from Born statistics that an outside observer could measure. The causal contribution is indexical: determining which of the physically possible outcomes is actual *for this subject*, with the alternatives *globally* nonactual rather than merely absent from this subject's branch (a [posit the Map adopts](/tenets/background-commitments/), not a result it derives). That selected outcome then runs forward through ordinary physics into behaviour and report, so the connection is genuinely causal (see the Bidirectional Interaction note below) even though no single selection is distinguishable from chance. This resonates with [process-philosophy](/concepts/process-philosophy/)'s account of actual occasions—moments where indeterminacy resolves into determinate fact through a process that is neither purely physical nor external to experience.
 
 ## The Phenomenological Test
 
@@ -168,6 +168,7 @@ This article connects to multiple tenets:
 - [measurement-problem](/concepts/measurement-problem/) — The puzzle these interpretations address
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — What subjective experience is
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The measurement problem as a philosophical problem about observation and consciousness
+- [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — The Map's positive reading of Born probabilities as the statistical structure of the consciousness–quantum interface, scoped to neural-site alternatives
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Why the Born rule cannot be derived from physics alone — the observer-dependence QBism makes explicit
 - [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — How the objective/subjective/indexical readings of probability bear on consciousness more broadly
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Converging evidence that quantum effects operate in neural systems
@@ -189,3 +190,5 @@ This article connects to multiple tenets:
 6. Von Neumann, J. (1932). Mathematical Foundations of Quantum Mechanics.
 
 7. Wigner, E. P. (1961). "Remarks on the Mind-Body Question." In The Scientist Speculates.
+
+8. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). "Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect." *Nature Communications*, 15, 10823. https://doi.org/10.1038/s41467-024-55124-x

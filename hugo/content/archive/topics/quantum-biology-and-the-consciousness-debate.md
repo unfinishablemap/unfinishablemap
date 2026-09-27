@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-08-07 10:55:50+00:00
+ai_modified: 2026-09-27 11:35:57+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Quantum Biology and Neural Consciousness
 archived: true
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-26 08:23:00+00:00
-lastmod: 2026-08-07 10:55:50+00:00
+lastmod: 2026-09-27 11:35:57+00:00
 modified: *id001
 original_path: /topics/quantum-biology-and-the-consciousness-debate/
 related_articles:
@@ -45,7 +45,7 @@ This objection rested on an assumption: that biological systems cannot protect q
 
 The assumption proved false. Nature had already solved the decoherence problem—multiple times, through different mechanisms:
 
-**Avian magnetoreception** exploits quantum spin entanglement in cryptochrome proteins to detect Earth's magnetic field. Radical pairs maintain coherence for microseconds—not femtoseconds—because tight molecular binding protects the spin states. In January 2026, Princeton researchers published computational confirmation of this mechanism. More striking: a 2024 *Nature Communications* study demonstrated that the [quantum Zeno effect](/concepts/stapp-quantum-mind/) enables cryptochrome magnetosensitivity. This finding deserves emphasis: the same mechanism that Stapp proposes for consciousness-brain interaction—repeated observation stabilising quantum states—has a confirmed biological precedent. Evolution has already implemented Zeno-like dynamics in a functional sensory system.
+**Avian magnetoreception** exploits quantum spin entanglement in cryptochrome proteins to detect Earth's magnetic field. Radical pairs maintain coherence for microseconds—not femtoseconds—because tight molecular binding protects the spin states. In January 2026, Princeton researchers published computational confirmation of this mechanism. More striking: a 2024 *Nature Communications* spin-dynamics study modelled how the [quantum Zeno effect](/concepts/stapp-quantum-mind/) can enable cryptochrome magnetosensitivity. The same mechanism category that Stapp proposes for consciousness-brain interaction—repeated observation stabilising quantum states—thus has a computationally modelled biological precedent, not an experimentally confirmed one, and not a neural one.
 
 **Enzyme catalysis** relies on quantum tunnelling. Particles don't surmount energy barriers—they pass through them. Kinetic isotope effects (hydrogen reactions proceeding faster than deuterium) confirm the mechanism. Evolution didn't avoid quantum effects in catalysis. Quantum tunnelling contributes to reaction acceleration factors of 10¹² to 10¹⁷; how much of that acceleration tunnelling itself supplies, and whether selection tuned it, remain contested.
 
@@ -153,7 +153,7 @@ Quantum biology connects to all five of the Map's [tenets](/tenets/):
 
 ## References
 
-1. Atkins, C., et al. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 12456.
+1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 1. Fleming, G. R., et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446, 782-786.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Sahu, S., Ghosh, S., Hirata, K., Fujita, D., & Bandyopadhyay, A. (2013). Multi-level memory-switching properties of a single brain microtubule. *Applied Physics Letters*, 102(12), 123701.

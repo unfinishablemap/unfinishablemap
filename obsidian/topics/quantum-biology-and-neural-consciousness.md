@@ -4,7 +4,7 @@ description: "Evidence-grade-tiered survey of quantum biology and consciousness:
 created: 2026-01-27
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-08-17T14:20:17+00:00
+ai_modified: 2026-09-27T11:35:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,7 +52,7 @@ Max Tegmark's influential 2000 calculation estimated that [[decoherence]]—the 
 
 The assumption proved false. Nature had already solved the decoherence problem multiple times:
 
-**[[radical-pair-magnetoreception|Avian magnetoreception]]** exploits quantum spin entanglement in cryptochrome proteins to detect Earth's magnetic field, with radical pairs maintaining coherence for microseconds. A 2024 *Nature Communications* study showed the [[stapp-quantum-mind|quantum Zeno effect]]—repeated observation stabilising quantum states—enables this magnetosensitivity (Denton et al., 2024; computational confirmation, Luo et al., 2025). This establishes that warm Zeno-type quantum effects *can* occur in a specific, specialised molecular architecture—a photoactivated retinal radical-pair sensor—not that the microtubule or consciousness-interface proposals inherit that support. The precedent is for the *mechanism category*, not for any neural deployment of it.
+**[[radical-pair-magnetoreception|Avian magnetoreception]]** exploits quantum spin entanglement in cryptochrome proteins to detect Earth's magnetic field, with radical pairs maintaining coherence for microseconds. A 2024 *Nature Communications* spin-dynamics study modelled how the [[stapp-quantum-mind|quantum Zeno effect]]—repeated observation stabilising quantum states—can enable this magnetosensitivity (Denton et al., 2024, a computational result rather than an experimental measurement; see also Luo et al., 2025). This indicates that warm Zeno-type quantum effects *can* occur in a specific, specialised molecular architecture—a photoactivated retinal radical-pair sensor—not that the microtubule or consciousness-interface proposals inherit that support. The precedent is for the *mechanism category*, not for any neural deployment of it.
 
 **Enzyme catalysis** draws on quantum tunnelling, which contributes to reaction acceleration factors of 10¹² to 10¹⁷ (confirmed by large kinetic isotope effects); how much of that acceleration tunnelling itself supplies, and whether selection tuned it, remain contested. **Photosynthetic energy transfer** was for a decade the third case listed here, on the strength of Engel et al. (2007), and no longer serves: Duan et al. (2017) measured electronic coherence in light-harvesting complexes dephasing within roughly 60 femtoseconds and found no indication of a biofunctional role, and the long-lived oscillations Engel et al. read as electronic are now attributed to vibrational coherence. Short-timescale vibrational and vibronic coupling remains a live and separate question.
 

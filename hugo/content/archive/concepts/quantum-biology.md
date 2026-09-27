@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-08-07 10:55:50+00:00
+ai_modified: 2026-09-27 11:35:57+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Quantum Biology and Neural Mechanisms
 archived: true
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-26 09:47:00+00:00
-lastmod: 2026-08-07 10:55:50+00:00
+lastmod: 2026-09-27 11:35:57+00:00
 modified: *id001
 original_path: /concepts/quantum-biology/
 related_articles:
@@ -73,7 +73,7 @@ Migratory birds navigate using Earth's magnetic field through quantum effects in
 
 **November 2025 breakthrough**: Luo et al. at Princeton published computational simulations in JACS showing how protein and solvent reorganisation drives radical pair stability in avian cryptochrome-4a. They identified the electron transfer pathway (>18 angstroms from flavin to final radical pair) and showed how the protein environment stabilises the radical pair for magnetic sensing.
 
-**2024 Quantum Zeno discovery**: Nature Communications published evidence that the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs. Tight binding of radicals within the protein preserves coherence against decoherence—the same mechanism Stapp proposes for mental causation. This provides the first biological precedent for the Zeno mechanism operating at neural-relevant timescales.
+**2024 Quantum Zeno modelling**: A *Nature Communications* spin-dynamics study (Denton et al., 2024) modelled how the quantum Zeno effect can enable magnetosensitivity in cryptochrome radical pairs, with tight binding of radicals within the protein preserving coherence against decoherence—the same mechanism category Stapp proposes for mental causation. This is a computational precedent in a specialised photoactivated sensor, building on Kominis's earlier Zeno framing of radical-pair chemistry; it is neither an experimental demonstration nor evidence of Zeno dynamics at neural timescales.
 
 This is the strongest evidence that evolution can optimise biological systems for quantum-coherent function. Natural selection produced a quantum compass in bird eyes—and it works via the same quantum Zeno effect proposed for consciousness-brain interaction. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) extends this logic: if evolution discovered quantum solutions for navigation and chemistry, the far greater computational payoffs in neural systems make quantum neural effects probable rather than merely possible.
 

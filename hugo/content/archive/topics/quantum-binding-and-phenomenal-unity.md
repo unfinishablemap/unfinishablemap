@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-08-09 02:26:00+00:00
+ai_modified: 2026-09-27 11:35:57+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Quantum Holism and Phenomenal Unity
 archived: true
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-27 19:15:41+00:00
-lastmod: 2026-08-09 02:26:00+00:00
+lastmod: 2026-09-27 11:35:57+00:00
 modified: *id001
 original_path: /topics/quantum-binding-and-phenomenal-unity/
 related_articles:
@@ -81,7 +81,7 @@ These corrected figures remain theoretical, however. No direct measurement of co
 
 The biological precedent strengthens the case. Avian magnetoreception—how migratory birds navigate using Earth's magnetic field—relies on quantum spin coherence in cryptochrome proteins persisting for microseconds at biological temperatures. A January 2026 Princeton study provided computational confirmation of this mechanism. If evolution optimized quantum effects for navigation, quantum effects in neural systems are not inherently implausible.
 
-A gap remains. Even corrected coherence times (10⁻⁵ to 10⁻⁴ seconds) fall three orders of magnitude short of the ~300ms timescale of conscious decisions. Yet this gap may not matter if the relevant mechanisms involve discrete quantum events rather than sustained superposition. The quantum Zeno approach, for instance, requires only discrete attentional "observations"—each instantaneous—rather than long-lived coherence. [Quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) provides a precedent: a 2024 *Nature Communications* study demonstrated that the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs. The same mechanism proposed for consciousness-brain interaction has a confirmed biological counterpart.
+A gap remains. Even corrected coherence times (10⁻⁵ to 10⁻⁴ seconds) fall three orders of magnitude short of the ~300ms timescale of conscious decisions. Yet this gap may not matter if the relevant mechanisms involve discrete quantum events rather than sustained superposition. The quantum Zeno approach, for instance, requires only discrete attentional "observations"—each instantaneous—rather than long-lived coherence. [Quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) provides a precedent: a 2024 *Nature Communications* spin-dynamics study (Denton et al.) modelled how the quantum Zeno effect can enable magnetosensitivity in cryptochrome radical pairs. The mechanism category proposed for consciousness-brain interaction thus has a computationally modelled biological counterpart, though not a neural one.
 
 Most fundamentally, [decoherence](/concepts/decoherence/) does not solve the measurement problem. As Schlosshauer's authoritative 2019 review of decoherence foundations notes, after decoherence selects preferred bases and suppresses interference, the system remains in a mixture of possible outcomes. Decoherence explains why we don't observe macroscopic superpositions, but not why we observe *this* particular outcome rather than another. Even after decoherence, the transition from mixture to definite outcome requires explanation. Consciousness could participate at this collapse point regardless of prior decoherence.
 
