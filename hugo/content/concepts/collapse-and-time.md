@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-08-24 09:21:07+00:00
-ai_system: claude-opus-4-6+claude-fable-5
+ai_modified: 2026-09-27 12:20:43+00:00
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/consciousness-collapse-arrow-of-time/
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 22:21:08+00:00
-lastmod: 2026-08-24 09:21:07+00:00
+lastmod: 2026-09-27 12:20:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -90,13 +90,13 @@ The three interpretive positions yield three accounts:
 
 The [measurement-problem](/concepts/measurement-problem/) connects consciousness to collapse: something must select definite outcomes. Collapse connects to temporal asymmetry: measurement introduces irreversibility. The arrow of time connects back to consciousness: temporal phenomenology may reflect consciousness's constitutive role in collapse rather than passive observation.
 
-Removing any vertex weakens the others. Without consciousness, the measurement problem persists. Without collapse, consciousness merely observes a pre-existing arrow. Without temporal asymmetry, collapse has no directional consequence.
+Removing any vertex weakens the others, though not symmetrically. Without consciousness, physical collapse still secures definite outcomes and the cosmic arrow still runs—what is lost is the link between collapse and *lived* temporal direction. Without collapse, consciousness merely observes a pre-existing arrow. Without temporal asymmetry, collapse has no directional consequence.
 
 ## Collapse and the Philosophy of Time
 
 The debate maps onto traditional [philosophy of time](/concepts/philosophy-of-time/) positions. **Collapse realism supports A-theory**: if collapse is genuine, something categorically changes when superposition becomes outcome—temporal becoming in the metaphysically robust sense. **Decoherence supports B-theory**: nothing fundamentally changes at measurement; "collapse" is how the B-series looks from embedded perspective. **Time-symmetric interpretations complicate both**: transactions constrained by future and past boundaries jointly challenge simple presentism and simple eternalism.
 
-The Map proposes a **modified growing block**. Past and present exist; the future doesn't yet. The "growth" *is* collapse—resolution of superposition into definite history. Presentism struggles with retrocausal constraints (past states must exert real influence). Eternalism has no room for genuine collapse. The growing block preserves past reality (supporting retrocausal influence) while maintaining genuine openness of the future.
+The Map proposes a **modified growing block**. Past and present exist; the future doesn't yet. The "growth" *is* collapse—resolution of superposition into definite history. Presentism struggles with transactions that span times: if only the present exists, a transaction's already-actualized past endpoint has nothing to be. Eternalism has no room for genuine collapse. The growing block preserves the reality of the past—so completed transactions keep real, fixed endpoints—while maintaining genuine openness of the future. It does not by itself accommodate influence running from future to past, since on this view there is no future for such influence to come from; that work falls to the possibilist reading below.
 
 Kastner's PTI addresses the apparent tension: offer and confirmation waves exist in a timeless pre-spacetime realm, while actualized transactions establish empirical spacetime events. The "future" participating in transactions is the possibility space of potential absorbers, not ontologically existing future facts. This allows both real collapse and time-symmetric physics.
 
@@ -118,7 +118,7 @@ Jayaseelan et al. (2021) demonstrated experimentally that forward-to-backward tr
 
 Many-Worlds denies collapse entirely: the universal wavefunction evolves unitarily forever. MWI defenders argue temporal asymmetry emerges from branching structure, with self-locating uncertainty explaining temporal phenomenology.
 
-The Map rejects this. First, the "discovery" model treats temporal experience as epistemic rather than constitutive—but the future doesn't feel like undiscovered territory; it feels genuinely open. Second, the branching structure presupposes what it purports to explain: why branches increase traces to the Past Hypothesis, not to branching itself. Third, as detailed in [The Map's Case for One-World Actuality](/arguments/many-worlds-argument/), MWI faces the indexical identity problem. The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet holds that consciousness makes *this* outcome actual, not merely observed.
+The Map rejects this, though not on phenomenological grounds. The felt openness of the future cannot discriminate between the readings: Everett predicts the same phenomenology in every branch, where each branch-version faces a future it has not yet encountered and reports it as open. Felt openness is consistent with the Map's single-world reading, not a defeater of the branching one. The grounds lie elsewhere. First, the branching structure presupposes what it purports to explain: why branches increase traces to the Past Hypothesis, not to branching itself. Second, as detailed in [The Map's Case for One-World Actuality](/arguments/many-worlds-argument/), MWI faces the indexical identity problem—though what branching cannot supply, global nonactuality of the unexperienced outcomes, is a [posit the Map adopts](/tenets/background-commitments/) rather than a conclusion it forces on the Everettian, so the disagreement sits at the framework boundary. The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet holds that one outcome is actual and its alternatives globally nonactual; physical collapse secures that single outcome, and consciousness, where it participates, biases which outcome it is in neural systems.
 
 ## Falsifiability and Predictions
 
@@ -132,11 +132,11 @@ The [consolidation page](/topics/time-collapse-and-agency/) develops these predi
 
 The triad of consciousness, collapse, and time's arrow engages all five [tenets](/tenets/):
 
-**[Dualism](/tenets/#dualism)**: If consciousness is constitutive of temporal structure, reducing consciousness to physics becomes circular—physics presupposes time, and time presupposes consciousness. This deepens dualism from explanatory gap to structural interdependence.
+**[Dualism](/tenets/#dualism)**: If consciousness helps constitute *lived* temporal structure, a physical reduction of temporal experience cannot simply help itself to that structure: the neural account of temporal flow would presuppose the lived direction it is meant to explain. The cosmic arrow is not in question—it predates mind—so the interdependence is confined to lived time, but within that domain it deepens dualism from explanatory gap to structural interdependence.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Time-symmetric interpretations suggest consciousness operates atemporally—constraining which transactions complete across time rather than pushing systems at a moment. This is even more minimal than energy injection: constraint satisfaction.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Retrocausal frameworks make bidirectional interaction natural. If fundamental physics is time-symmetric, backward causation has the same status as forward causation. Consciousness influencing which outcomes become actual shapes the fundamental structure of physical reality.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Retrocausal frameworks make bidirectional interaction natural. If fundamental physics is time-symmetric, backward causation has the same status as forward causation. Where consciousness biases which neural outcome becomes actual—baseline actuality being supplied physically—it shapes the direction of lived time locally, not the fundamental structure of physical reality as a whole.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The entire triad requires collapse to be real. Many-Worlds denies collapse, preserving time-symmetry by allowing all outcomes in branching worlds.
 

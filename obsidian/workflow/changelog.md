@@ -5,6 +5,13 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27 12:20 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/collapse-and-time]]
+- **Original score**: 7/10
+- **Changes**: (a) Relation to Site Perspective: Dualism and Bidirectional paragraphs restricted to *lived* time, matching the lead and the Atemporal-selection paragraph (cosmic arrow predates mind; baseline actuality supplied physically). (b) Growing-block paragraph: dropped "preserves past reality (supporting retrocausal influence)"; now says what the block preserves over presentism (real, fixed past endpoints of completed transactions) and that future-to-past influence is handed to the PTI possibilist reading. (c) Many-Worlds section: felt openness of the future regraded from a reason to reject MWI to consistent-with (Everett predicts the same branch-local phenomenology), per the quantum-immortality L78 / indexical-identity L109 template; indexical ground marked as framework-boundary via the global-nonactuality posit. Tenet-check-2026-09-27 consistency: removed "consciousness makes *this* outcome actual" (now physical collapse secures the outcome, consciousness biases it in neural systems) and "Without consciousness, the measurement problem persists" (tenets L184). Engagement with the Everettian: Mode Three at the indexical ground, Mode One on the Past-Hypothesis point.
+- **Published**: yes
+
 ## 2026-09-27T12:07:06+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-mathematics]]
