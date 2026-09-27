@@ -4,7 +4,7 @@ created: 2026-04-05
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
-ai_modified: 2026-04-05T22:26:00+00:00
+ai_modified: 2026-09-27T10:20:21+00:00
 ---
 
 # Research: Consciousness and the Metaphysics of Composition
@@ -57,7 +57,7 @@ The metaphysics of composition—the question of when parts form wholes—inters
   - Conscious beings escape elimination because consciousness does not globally supervene on microscopic physical properties—conscious organisms have causal powers their parts lack
   - The non-supervenience of consciousness is the criterion distinguishing genuine composites from eliminable aggregates
 - **Tenet alignment**: Strongly aligns with Tenet 1 (Dualism)—consciousness is irreducible and grants unique ontological status; aligns with Tenet 3 (Bidirectional Interaction)—conscious beings have causal powers over and above their parts
-- **Quote**: "Consciousness, instantiated by human persons, does not even globally supervene on microscopic physical properties"
+- **Quote**: "Consciousness, instantiated by human persons, does not even globally supervene on microscopic physical properties" — *annotation 2026-09-27: this is Ted Sider's wording in his* Mind *review of* Objects and Persons *(summarising ch. IV), not a verified quotation from Merricks; do not quote it as Merricks's.*
 
 ### McQueen & Tsuchiya, "When Do Parts Form Wholes?" (2023)
 - **URL**: https://academic.oup.com/nc/article/2023/1/niad013/7189628

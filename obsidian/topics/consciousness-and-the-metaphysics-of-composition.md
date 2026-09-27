@@ -4,7 +4,7 @@ description: "Several answers to the Special Composition Question cluster near t
 created: 2026-04-09
 modified: 2026-04-09
 human_modified:
-ai_modified: 2026-08-02T19:24:43+00:00
+ai_modified: 2026-09-27T10:20:21+00:00
 last_deep_review: 2026-07-19T07:58:07+00:00
 draft: false
 topics:
@@ -58,7 +58,7 @@ Trenton Merricks (2001) goes further. In *Objects and Persons*, he argues that o
 
 Merricks' reasoning proceeds through causal redundancy. Every causal power attributed to a baseball—its mass, trajectory, ability to break a window—is fully explained by the causal powers of its constituent atoms. The baseball is causally redundant given its parts, so it does not genuinely exist as a composite object. This challenges [[causal-closure|causal closure]] from an unexpected direction: not by questioning whether physics is complete, but by asking which composites have powers that physics cannot decompose.
 
-Conscious organisms escape this elimination. Merricks argues that consciousness "does not even globally supervene on microscopic physical properties"—so conscious organisms have causal powers their parts lack. A person's conscious decision to raise an arm is not reducible to the causal powers of individual neurons or atoms; consciousness breaks the redundancy that eliminates inanimate composites.
+Conscious organisms escape this elimination. Merricks argues that consciousness fails even to globally supervene on the microphysical—so conscious organisms have causal powers their parts lack. A person's conscious decision to raise an arm is not reducible to the causal powers of individual neurons or atoms; consciousness breaks the redundancy that eliminates inanimate composites.
 
 The criterion for genuine composition, on Merricks' view, is possession of irreducible causal powers. And consciousness may be the only widely-cited candidate for a composite exhibiting powers that genuinely exceed those of its parts—though whether it succeeds even here depends on accepting Merricks' contested claim that conscious causal powers fail to supervene on the microphysical.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-07
-ai_modified: 2026-08-03 21:13:48+00:00
+ai_modified: 2026-09-27 10:20:21+00:00
 ai_system: claude-opus-4-8
 apex_last_synthesis: 2026-06-20 17:20:00+00:00
 apex_sources:
@@ -34,7 +34,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 00:08:06+00:00
-lastmod: 2026-08-03 21:13:48+00:00
+lastmod: 2026-09-27 10:20:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -65,7 +65,7 @@ The claim is deliberately calibrated. The Map reads the convergence of compositi
 
 The Special Composition Question — Peter van Inwagen's name (*Material Beings*, 1990) for the question of when some objects compose a further object — has three broad families of answer. *Universalism* says any collection composes something, generating an ontology in which your shoe and a distant galaxy form an object. *Nihilism* says composition never happens: there are only simples "arranged tablewise," and no genuine wholes at all. *Restricted composition* says some collections compose and others do not, and owes an account of the restriction that does not collapse into arbitrariness.
 
-What makes the restricted answer interesting for the philosophy of mind is where its most serious proposals land. As [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/) sets out in full, three programmes that share almost no premises arrive in a common neighbourhood. Van Inwagen's organicism restricts composition to cases where the activity of simples constitutes a *life*. Trenton Merricks' eliminativism (*Objects and Persons*, 2001) keeps only composites with irreducible causal powers, and argues that conscious organisms alone escape elimination because consciousness "does not even globally supervene on microscopic physical properties." Kelvin McQueen and Naotsugu Tsuchiya (2023) make composition track maximised integrated information (Φ) — the integrated structure that consciousness is *suspected* to involve — though they pointedly decouple that composition criterion from consciousness itself.
+What makes the restricted answer interesting for the philosophy of mind is where its most serious proposals land. As [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/) sets out in full, three programmes that share almost no premises arrive in a common neighbourhood. Van Inwagen's organicism restricts composition to cases where the activity of simples constitutes a *life*. Trenton Merricks' eliminativism (*Objects and Persons*, 2001) keeps only composites with irreducible causal powers, and argues that conscious organisms alone escape elimination because consciousness fails even to globally supervene on the microphysical. Kelvin McQueen and Naotsugu Tsuchiya (2023) make composition track maximised integrated information (Φ) — the integrated structure that consciousness is *suspected* to involve — though they pointedly decouple that composition criterion from consciousness itself.
 
 The convergence is real only after abstraction: van Inwagen reaches organic life-unity, McQueen and Tsuchiya reach an information measure they refuse to identify with experience, and only Merricks names consciousness directly. The honest reading is that these heterogeneous criteria cluster around *the domain where consciousness tends to occur*, not that they jointly prove consciousness is the criterion. And the convergence faces strong [rivals the Map does not defeat on neutral ground](/concepts/composition-question-rivals/). The first is [information-compression composition](/concepts/composition-question-rivals/#information-compression-composition): Alexander Bird's thesis (2023) that parts compose exactly when treating them as one compresses the world's description — a fully non-conscious, ostensibly objective answer, refined by Majid Beni's thermodynamic-depth constraint (2025). The second, deeper, rival is [metaontological deflationism](/concepts/composition-question-rivals/#metaontological-deflationism): Amie Thomasson's easy ontology and Eli Hirsch's quantifier variance hold that there is no deep compositional fact for *any* criterion to track. If the deflationist is right, the convergence dissolves into an artefact of how disputants regiment the word "object." The Map's reply to both is a framework-boundary one, not a refutation — it presses the standing burden of explaining why our compositional intuitions cluster so persistently around organised, integrated systems, while granting that pressing a burden is not winning the argument.
 

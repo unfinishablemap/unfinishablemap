@@ -5,6 +5,13 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T10:20:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-metaphysics-of-composition]] (multi-file: also [[apex/mereology-of-mind]], archive/concepts/metaphysics-of-composition, [[research/consciousness-metaphysics-of-composition-2026-04-05]])
+- **Original score**: n/a (targeted quote-fidelity fix)
+- **Changes**: De-quoted the Merricks "does not even globally supervene on microscopic physical properties" string (Sider's *Mind* review wording, not found in *Objects and Persons*; no raw book text available to confirm) at topic L61, apex L61 and archive L65, rephrased per the composition-and-consciousness template ("fails even to globally supervene on the microphysical"; archive keeps "(Merricks 2001, ch. IV)"). Van Inwagen SCQ yes/no misquote was present only in the archive page (L45); de-quoted to his *when*-form. Research note L60 annotated as Sider's wording (not rewritten). Word counts: topic 3963→3962, apex 3280→3279. Post-sync sweep: Sider string survives only in the annotated research note (obsidian + hugo) and review/workflow records; van Inwagen misquote survives only in reviews.
+- **Published**: yes
+
 ## 2026-09-27T10:05:13+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/composition-and-consciousness]]

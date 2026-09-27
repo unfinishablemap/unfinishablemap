@@ -4,7 +4,7 @@ description: "The metaphysics of composition asks when parts form wholes. The Sp
 created: 2026-04-15
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-05-28T18:52:58+00:00
+ai_modified: 2026-09-27T10:20:21+00:00
 last_deep_review: 2026-05-28T18:52:58+00:00
 draft: false
 topics:
@@ -42,7 +42,7 @@ The metaphysics of composition is the branch of metaphysics concerned with when 
 
 Mereology—the formal study of parts and wholes—provides the technical framework. Parthood, overlap, and composition are its core relations. But formal mereology leaves the SCQ open: the axioms describe how parts relate to wholes but do not settle which collections of objects actually compose something.
 
-Van Inwagen's formulation makes the question precise: "For any xs, is there a y such that the xs compose y?" Three broad families of answers dominate the literature.
+Van Inwagen's formulation makes the question precise: for any xs, when is it true that there is a y the xs compose? Three broad families of answers dominate the literature.
 
 ### Universalism
 
@@ -62,7 +62,7 @@ Three independent philosophical programmes arrive at consciousness as the answer
 
 **Van Inwagen's organicism** restricts composition to cases where the activity of simples constitutes a life. Only living organisms are genuine composites. Consciousness enters indirectly: all conscious beings are organisms, and organisms are the only genuine wholes. Van Inwagen does not draw dualist conclusions, but his restriction implicitly privileges the domain where consciousness occurs.
 
-**Merricks' eliminativism** argues that non-conscious composites are causally redundant—every causal power attributed to a baseball is fully explained by its constituent atoms. Conscious organisms escape elimination because consciousness "does not even globally supervene on microscopic physical properties" (Merricks 2001). A person's conscious decision has causal powers that no arrangement of atoms individually possesses. Consciousness is what makes some composites causally real.
+**Merricks' eliminativism** argues that non-conscious composites are causally redundant—every causal power attributed to a baseball is fully explained by its constituent atoms. Conscious organisms escape elimination because consciousness fails even to globally supervene on the microphysical (Merricks 2001, ch. IV). A person's conscious decision has causal powers that no arrangement of atoms individually possesses. Consciousness is what makes some composites causally real.
 
 **McQueen and Tsuchiya's integrated information approach** proposes that composition occurs when integrated information (Φ) is maximised—when the whole constrains its own past and future states more than its parts do. The measure that purportedly identifies consciousness also determines which physical systems count as genuine wholes. This links the metaphysics of composition directly to the science of consciousness.
 

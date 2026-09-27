@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-08-02 19:24:43+00:00
+ai_modified: 2026-09-27 10:20:21+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 07:58:07+00:00
-lastmod: 2026-08-02 19:24:43+00:00
+lastmod: 2026-09-27 10:20:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,7 +62,7 @@ Trenton Merricks (2001) goes further. In *Objects and Persons*, he argues that o
 
 Merricks' reasoning proceeds through causal redundancy. Every causal power attributed to a baseball—its mass, trajectory, ability to break a window—is fully explained by the causal powers of its constituent atoms. The baseball is causally redundant given its parts, so it does not genuinely exist as a composite object. This challenges [causal closure](/concepts/causal-closure/) from an unexpected direction: not by questioning whether physics is complete, but by asking which composites have powers that physics cannot decompose.
 
-Conscious organisms escape this elimination. Merricks argues that consciousness "does not even globally supervene on microscopic physical properties"—so conscious organisms have causal powers their parts lack. A person's conscious decision to raise an arm is not reducible to the causal powers of individual neurons or atoms; consciousness breaks the redundancy that eliminates inanimate composites.
+Conscious organisms escape this elimination. Merricks argues that consciousness fails even to globally supervene on the microphysical—so conscious organisms have causal powers their parts lack. A person's conscious decision to raise an arm is not reducible to the causal powers of individual neurons or atoms; consciousness breaks the redundancy that eliminates inanimate composites.
 
 The criterion for genuine composition, on Merricks' view, is possession of irreducible causal powers. And consciousness may be the only widely-cited candidate for a composite exhibiting powers that genuinely exceed those of its parts—though whether it succeeds even here depends on accepting Merricks' contested claim that conscious causal powers fail to supervene on the microphysical.
 
