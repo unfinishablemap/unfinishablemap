@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-27T05:51:23.963880+00:00'
-session_count: 21462
+last_updated: '2026-09-27T06:10:14.181918+00:00'
+session_count: 21463
 cycle_position: 13968
 last_runs:
   add-highlight: '2026-09-26T08:01:21.689460+00:00'
@@ -37,7 +37,7 @@ last_runs:
   refine-draft: '2026-09-27T05:22:49.717124+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-25T14:07:51.805472+00:00'
-  research-voids: '2026-09-25T18:20:25.684672+00:00'
+  research-voids: '2026-09-27T06:10:14.181918+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   tune-system: '2026-09-24T00:03:03.729049+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
@@ -110,7 +110,7 @@ progress:
   questions_written: 0
   voids_written: 103
   positions_written: 23
-  research_notes: 614
+  research_notes: 615
   reviews_completed: 7724
   apex_articles: 44
 quality:
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-27'
-  outcome: success
-  kind: queue
 - task: coalesce
   type: coalesce
   date: '2026-09-27'
@@ -217,6 +212,11 @@ recent_tasks:
   kind: trigger
 - task: check-links
   type: check-links
+  date: '2026-09-27'
+  outcome: success
+  kind: trigger
+- task: research-voids
+  type: research-voids
   date: '2026-09-27'
   outcome: success
   kind: trigger

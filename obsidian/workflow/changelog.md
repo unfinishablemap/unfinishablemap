@@ -5,6 +5,14 @@ ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T06:25:01+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 79 (delta sweep since check 139, read in full; carried loci from checks 137–139 re-probed)
+- **Errors**: 6 (three Tenet-1 fabrications: kabbalah-tzimtzum L78, consciousness-and-collective-phenomena L162, combination-problem L175; three in the Born-rule/measurement core contradicting tenets L75/L125/L184: born-rule-and-the-consciousness-interface L110, brain-internal-born-rule-testing L157, testing-consciousness-collapse L179)
+- **Warnings**: ~100 new + 27 carried
+- **Key finding**: Check 139's minted priorities 1–3 were all repaired; unminted priority 4 (concepts/dualism L172/L154) is untouched. Partial repairs dominate: the causal-closure repair left dilution siblings at L120/L196, and the ae32dee539 substance-dualism sweep left kabbalah L78.
+- **Output**: [[reviews/tenet-check-2026-09-27]]
+
 ## 2026-09-27T06:08:03+00:00 - research-voids
 - **Status**: Success
 - **Topic**: The Causal Impression Void — we never perceive causation itself, only sequences plus a fast, adaptable, postdictively constructed visual impression of it (Michotte launching; Scholl & Nakayama 2002 causal capture; Choi & Scholl 2006 postdiction; Rolfs et al. 2013 / Ohl & Rolfs 2024 direction-tuned adaptation); Hume EHU VII quotes verified verbatim against davidhume.org
