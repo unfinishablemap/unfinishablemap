@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-27T12:07:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-mathematics](/topics/consciousness-and-mathematics/)
+- **Word count**: 3228 → 3250 (+22; length-neutral, soft 3000 / hard 4000)
+- **Critical issues addressed**: 6 (formalism internal contradiction; Aaronson 2006 misdescribed; Dualism-tenet overclaim; Poincaré "systematically tracks" overclaim; External Validation uncited "reliably predict" plus "best explanation" vs the live deflationary rival; illusionism boundary substitution)
+- **Medium issues addressed**: 4 (Lawvere→quantum measurement labelled Map-specific; Hadamard stages attributed to Wallas 1926 with ref added; Kant "mathematically sublime"; AlphaProof wording)
+- **Engagements**: illusionism: Mode Two + Three (self-refutation charge dropped as a strawman; pressure point is why the representation presents as felt necessity; zombie residue marked as framework boundary). Penrose critics (Chalmers, Aaronson): unchanged, both presented as critics.
+- **Citations web-verified**: Chalmers 1995 real-correct (raw consc.net text); Aaronson 2006 ref real-correct, body characterisation corrected (raw lecture text); Penrose 1994 real-correct; Wallas 1926 added
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-09-27-consciousness-and-mathematics](/reviews/deep-review-2026-09-27-consciousness-and-mathematics/)
+
 ## 2026-09-27T11:35:57+00:00 - refine-draft
 - **Status**: Success
 - **File**: [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/)
