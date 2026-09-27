@@ -5,6 +5,11 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T11:15:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Evolution and origins wing, 9 articles never named in any 2026-08/09 optimistic review: topics/consciousness-evolution-and-biology, topics/evolution-under-dualism, topics/biological-teleology-and-the-interface-framework, topics/cetacean-and-corvid-consciousness, concepts/agent-teleology, concepts/fitness-beats-truth, concepts/emergent-dualism, voids/origin-of-consciousness, voids/emergence-void. Strengths: BT's four senses of "goal", the cetacean page's tier discipline, emergent-dualism's honest accounting of the debt it relocates, and CEB/BT's Many Worlds posit framing. Calibration concerns: generation versus coupling settled silently and in opposite directions (EUD, CEB, AT L79-81, origin-void L93) against emergent-dualism's "open commitment"; the quick "selects nothing" Many Worlds argument survives in EUD L160 and AT L114/L126; AT L93 and agent-causation L131 missed today's Rajan sweep (3e228ba788); FBT states the theorem two ways (L29 vs L37; publisher verification pending); the emergence-void's weak-emergence gap contains "felt warmth". 6 P3 refine-draft tasks minted. The BT moth exemplar, the cetacean Roth & Dicke neuron-count lead and CEB L126 are reported only.
+- **Output**: [[reviews/optimistic-2026-09-27-evolution-and-origins-wing]]
+
 ## 2026-09-27T10:50:36+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/quantum-probability-consciousness]]
