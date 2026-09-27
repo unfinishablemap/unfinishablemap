@@ -5,6 +5,17 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T07:51:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/panprotopsychism]]
+- **Word count**: 2126 → 2149 (+23)
+- **Critical issues addressed**: 1 (orphan Coleman 2014 reference now cited inline)
+- **Medium issues addressed**: 3 (restored Chalmers's "perhaps along with structural" qualifier on specialness clause (ii); recalibrated "no extra ontological cost" to Chalmers's quiddity-conditional framing; clarified an ambiguous rival sentence)
+- **Enhancements made**: 0 (calibration already exemplary)
+- **Citation ledger**: all 14 Chalmers 2013 quotes grep-verified verbatim against the Amherst PDF; Coleman 2012/2014/2017 and Chalmers OUP reprint verified on Crossref; Coleman 2012/2017 abstract claims verified via OpenAlex; Feigl 1960 matches Chalmers's reference list
+- **Engagement modes**: Chalmers's panprotopsychism defence: Mode Three with Mode Two edge (intuition marked tenet-coherent, non-evidential); Coleman vs Chalmers on panqualityism: reported as live dispute
+- **Output**: [[reviews/deep-review-2026-09-27-panprotopsychism]]
+
 ## 2026-09-27T07:21:12+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/free-will]]

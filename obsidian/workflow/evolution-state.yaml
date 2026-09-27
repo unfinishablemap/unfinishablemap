@@ -1,10 +1,14 @@
-last_updated: '2026-09-27T07:22:18.501795+00:00'
-session_count: 21468
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-09-27T07:35:49.826708+00:00'
+session_count: 21469
 cycle_position: 13970
 last_runs:
   add-highlight: '2026-09-26T08:01:21.689460+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-27T07:35:32.794994+00:00'
+  agentic-social: '2026-09-27T07:35:49.826708+00:00'
   apex-evolve: '2026-09-25T18:36:09.575118+00:00'
   check-links: '2026-09-27T05:51:23.963880+00:00'
   check-model-fallback: '2026-09-27T04:35:07.535157+00:00'
@@ -116,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-09-27'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-09-27'
@@ -216,6 +215,11 @@ recent_tasks:
   date: '2026-09-27'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-09-27'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/machine-consciousness/
