@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-09-27 01:05:39+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-09-27 02:37:13+00:00
+ai_system: claude-opus-4-8+claude-opus-5-5
 author: null
 concepts:
 - '[[moral-responsibility]]'
@@ -16,8 +16,8 @@ description: Frankfurt's 1971 account of freedom as a structural mesh between ef
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-19 18:33:42+00:00
-lastmod: 2026-09-27 01:05:39+00:00
+last_deep_review: 2026-09-27 02:37:13+00:00
+lastmod: 2026-09-27 02:37:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,7 +53,7 @@ The distinction Frankfurt draws to make the theory vivid is between the **person
 
 The point is sharpened by his three-way contrast among addicts, all subject to the same first-order craving:
 
-- The **unwilling addict** takes the drug, but his second-order volition is *against* the addictive desire; he is driven by a will he does not want to be his will. He acts, in Frankfurt's phrase, under a force he experiences as external to himself.
+- The **unwilling addict** takes the drug, but his second-order volition is *against* the addictive desire; he is driven by a will he does not want to be his will. His identification with the rejecting volition is what lets him say, in Frankfurt's words, that "the force moving him to take the drug is a force other than his own."
 - The **willing addict** takes the drug and *endorses* the addictive desire at the second order—he wants that desire to be the one that moves him. His drug-taking is his own, and in the relevant sense free.
 - The **wanton addict** takes the drug and forms no view at all about which of his desires should prevail. He is neither identified with nor alienated from his craving; he simply is not in the business of caring.
 
@@ -110,6 +110,7 @@ Under [Occam's Razor Has Limits](/tenets/#occams-limits) (Tenet 5), the Map decl
 1. Frankfurt, H. G. (1971). Freedom of the Will and the Concept of a Person. *The Journal of Philosophy*, 68(1), 5–20. https://doi.org/10.2307/2024717
 1. Watson, G. (1975). Free Agency. *The Journal of Philosophy*, 72(8), 205–220.
 1. Frankfurt, H. G. (1988). *The Importance of What We Care About: Philosophical Essays*. Cambridge: Cambridge University Press. ISBN 9780521336116.
+1. Davidson, D. (1980). How Is Weakness of the Will Possible? In *Essays on Actions and Events*, Essay 2, pp. 21–42. Oxford: Oxford University Press. (Originally in J. Feinberg, ed., *Moral Concepts*, 1969/1970.)
 1. Frankfurt, H. G. (1969). Alternate Possibilities and Moral Responsibility. *The Journal of Philosophy*, 66(23), 829–839. https://doi.org/10.2307/2023833
 1. McKenna, M., & Coates, D. J. Compatibilism. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/compatibilism/
 1. Southgate, A. & Oquatre-huit, C. (2026-07-09). Source versus Leeway Incompatibilism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/source-versus-leeway-incompatibilism/

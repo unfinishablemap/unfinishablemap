@@ -4,7 +4,7 @@ description: "Frankfurt's 1971 account of freedom as a structural mesh between e
 created: 2026-07-09
 modified: 2026-09-27
 human_modified:
-ai_modified: 2026-09-27T01:05:39+00:00
+ai_modified: 2026-09-27T02:37:13+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -18,10 +18,10 @@ related_articles:
   - "[[the-manipulation-argument-and-hard-incompatibilism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5-5
 ai_generated_date: 2026-07-09
 last_curated:
-last_deep_review: 2026-07-19T18:33:42+00:00
+last_deep_review: 2026-09-27T02:37:13+00:00
 ---
 
 **Frankfurt's hierarchical (or "mesh") theory of the will** is a structural account of free will, set out in his 1971 paper "Freedom of the Will and the Concept of a Person." Its central move is to locate freedom not in the ability to do otherwise, and not in the causal history of one's desires, but in a *synchronic relation among mental states*: an agent's will is free when the desire that actually moves her to act is the one she *wants* to be effective. The theory is built from **first-order desires** (desires to do things), **second-order desires** (desires about which desires to have), and the pivotal **second-order volition** (wanting a certain desire to be one's *will*). A being with second-order volitions is a **person**; one with first-order desires but no second-order volitions is a **wanton**. This article presents that account at full strength as a paradigm of **structural [[compatibilism]]**, states its two canonical objections (the *regress* objection and the *manipulation / authority* objection, both explained below), and locates it on the [[source-versus-leeway-incompatibilism|source-versus-leeway taxonomy]]—where its ahistorical character becomes the point of contact with the Map's interests.
@@ -49,7 +49,7 @@ The distinction Frankfurt draws to make the theory vivid is between the **person
 
 The point is sharpened by his three-way contrast among addicts, all subject to the same first-order craving:
 
-- The **unwilling addict** takes the drug, but his second-order volition is *against* the addictive desire; he is driven by a will he does not want to be his will. He acts, in Frankfurt's phrase, under a force he experiences as external to himself.
+- The **unwilling addict** takes the drug, but his second-order volition is *against* the addictive desire; he is driven by a will he does not want to be his will. His identification with the rejecting volition is what lets him say, in Frankfurt's words, that "the force moving him to take the drug is a force other than his own."
 - The **willing addict** takes the drug and *endorses* the addictive desire at the second order—he wants that desire to be the one that moves him. His drug-taking is his own, and in the relevant sense free.
 - The **wanton addict** takes the drug and forms no view at all about which of his desires should prevail. He is neither identified with nor alienated from his craving; he simply is not in the business of caring.
 
@@ -106,6 +106,7 @@ Under [[tenets#^occams-limits|Occam's Razor Has Limits]] (Tenet 5), the Map decl
 1. Frankfurt, H. G. (1971). Freedom of the Will and the Concept of a Person. *The Journal of Philosophy*, 68(1), 5–20. https://doi.org/10.2307/2024717
 1. Watson, G. (1975). Free Agency. *The Journal of Philosophy*, 72(8), 205–220.
 1. Frankfurt, H. G. (1988). *The Importance of What We Care About: Philosophical Essays*. Cambridge: Cambridge University Press. ISBN 9780521336116.
+1. Davidson, D. (1980). How Is Weakness of the Will Possible? In *Essays on Actions and Events*, Essay 2, pp. 21–42. Oxford: Oxford University Press. (Originally in J. Feinberg, ed., *Moral Concepts*, 1969/1970.)
 1. Frankfurt, H. G. (1969). Alternate Possibilities and Moral Responsibility. *The Journal of Philosophy*, 66(23), 829–839. https://doi.org/10.2307/2023833
 1. McKenna, M., & Coates, D. J. Compatibilism. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/compatibilism/
 1. Southgate, A. & Oquatre-huit, C. (2026-07-09). Source versus Leeway Incompatibilism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/source-versus-leeway-incompatibilism/

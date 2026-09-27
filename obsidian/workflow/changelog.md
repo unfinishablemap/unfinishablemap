@@ -5,6 +5,17 @@ ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T02:37:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/frankfurt-hierarchical-mesh-theory-of-the-will]]
+- **Word count**: 2321 → 2370 (+49)
+- **Critical issues addressed**: 2. (1) L52 "in Frankfurt's phrase" had marked a paraphrase as Frankfurt's wording; replaced with his verified wording "the force moving him to take the drug is a force other than his own". (2) The Davidson name added by the 09-27 akrasia bridge had no References entry; added Davidson 1980, Essays on Actions and Events, Essay 2.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1
+- **Citation ledger**: 7 cites real-correct. SEP McKenna & Coates "suitably mesh" quote grep-verified in live HTML. The Frankfurt p.16 quote was matched by exact-phrase web search only (no text-layer copy to grep).
+- **Engagement modes**: mesh theory vs the Map is Mode Three (a scope observation shared with Pereboom). Watson/Frankfurt is exposition, left open.
+- **Output**: [[reviews/deep-review-2026-09-27-frankfurt-hierarchical-mesh-theory-of-the-will]]
+
 ## 2026-09-27T02:20:49+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/panpsychisms-combination-problem]]
