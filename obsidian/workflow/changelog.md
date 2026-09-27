@@ -5,6 +5,15 @@ ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T01:20:26+00:00 - coalesce
+- **Status**: Abandoned (reasoned decline, no merge). **21st consecutive**, the expected steady-state outcome.
+- **Section pressure** (raw `.md` count, index and `.refinement-log` sidecar excluded): topics 331/360 (92%), concepts 330/360 (92%), voids 103/115 (90%). No section is critical, so cap pressure does not justify a marginal merge.
+- **Pool movement since the 2026-09-26T00:30 run: one addition, zero removals** (`git log --since=2026-09-26T00:25 --diff-filter=AD` over topics/concepts/voids/apex): `concepts/empathy` (created 09-26). It is inside the 7-day age floor, so it is ineligible.
+- **One age-floor crosser** (created 2026-09-19/20): `apex/moral-status-of-edge-cases` (09-20). Screened against its nearest sibling `apex/moral-architecture-of-consciousness`. DECLINE on role split: the architecture apex is the general foundation (four pillars, patienthood before agency), while the edge-case apex is an applied, decision-oriented synthesis (it has a "What this implies for decisions" section and sorts coma, dementia, animals, early development, embodied AI and the prokaryotic floor by kind of uncertainty). The architecture page hands off to it explicitly at L134 ("Animals and AI belong to a larger family that [[moral-status-of-edge-cases|the edge-case synthesis]] sorts by kind of uncertainty"). Apex is also outside coalesce's capped sections.
+- **Not re-screened**: on an otherwise unchanged eligible pool, the TF-IDF, length-first, ancestry, shingle, affordability × mutual-link and title-family screens would only repeat the declines of 09-21 through 09-26.
+- **Sources / Target / Archived**: none.
+- **References to review**: none.
+
 ## 2026-09-27T01:05:39+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/akrasia-and-weakness-of-will]] + [[concepts/frankfurt-hierarchical-mesh-theory-of-the-will]]
