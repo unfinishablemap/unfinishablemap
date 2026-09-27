@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-17
-ai_modified: 2026-07-18 21:54:55+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-09-27 23:58:00+00:00
+ai_system: claude-opus-4-8+claude-opus-5-5
 author: null
 concepts:
 - '[[haecceity]]'
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: 2026-06-17
 last_deep_review: 2026-07-18 21:54:55+00:00
-lastmod: 2026-07-18 21:54:55+00:00
+lastmod: 2026-09-27 23:58:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -41,7 +41,7 @@ Hare introduced the view in "Self-Bias, Time-Bias, and the Metaphysics of Self a
 
 The 2007 paper begins not with metaphysics but with ethics. We are all, Hare observes, "mild egocentric hedonists": all else equal, we prefer that pleasure befall ourselves and pain befall others. Can this self-bias be rationally grounded? Hare names the difficulty the **Grounding Problem**: to think my comfort makes an especially weighty contribution to the value of a state of affairs, my picture of who I am must make me metaphysically unique in some way that bears on the intrinsic value of my suffering — yet, as he puts it, "I am mundane in all measurable respects." His tentative conclusion is that "perhaps my only hope is to believe that I am extraordinary in some immeasurable respect, that I am *metaphysically unique* in some way that bears upon the intrinsic value of my suffering."
 
-The metaphysical payoff arrives as a parity claim. The same move that makes the present *time* metaphysically privileged (the A-theory) can make the present *self* metaphysically privileged. Self-bias and time-bias are treated as two faces of one metaphysics. *Presence* is the property that does the work: in temporal presentism only the present moment is real or present; in egocentric presentism only my experiences are present, indexed to the self rather than to time.
+The metaphysical payoff arrives as a parity claim. The same move that makes the present *time* metaphysically privileged (the A-theory) can make the present *self* metaphysically privileged. Self-bias and time-bias are treated as two faces of one metaphysics. *Presence* is the property that does the work: in temporal presentism only the present moment is real or present; in egocentric presentism only my experiences are present, indexed to the self rather than to time. The time-bias half of the parity has its own literature, from Prior's "thank goodness that's over" argument to the case for temporal neutrality ([time-bias-and-thank-goodness-thats-over](/topics/time-bias-and-thank-goodness-thats-over/)).
 
 Two features of the property matter. First, it is **monadic** — a one-place property, "present" full stop, not the two-place relation "present *to* x." Hare insists my experiences are present *simpliciter*, not present-relative-to-me, because a relational reading would make presence symmetric across subjects and dissolve the privilege. Second, it is **immeasurable** — no instrument, and no third-person description however complete, detects which subject is the present one. The privileged subject is *me*, and (Hare maintains) I am the only one whose point of view corresponds with the facts.
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-09-27 21:05:31+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8
+ai_modified: 2026-09-27 23:58:00+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 10:06:42+00:00
-lastmod: 2026-09-27 21:05:31+00:00
+lastmod: 2026-09-27 23:58:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -46,6 +46,7 @@ related_articles:
 - '[[temporal-void]]'
 - '[[phenomenology-of-anticipation]]'
 - '[[phenomenology-of-memory-and-the-self]]'
+- '[[time-bias-and-thank-goodness-thats-over]]'
 - '[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]'
 - '[[incubation-effect-and-unconscious-processing]]'
 - '[[topics/personal-identity]]'
@@ -130,7 +131,7 @@ Bergson's [durée](/concepts/temporal-consciousness/) captures what temporal bec
 
 Three features of durée make it not merely temporal but generative. **Interpenetration**: successive states mutually modify each other—meeting a colleague changes the significance of earlier correspondence. **Indivisibility**: durée cannot be decomposed into atomic instants without destruction. **Irreversibility**: you cannot live a moment twice because the second living incorporates the first.
 
-Consciousness also experiences a structured asymmetry. Remembered events feel *actual*—Tulving's [autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) describes self-knowing awareness when remembering. Anticipated events feel *possible* rather than actual, even confident predictions lacking memory's settledness. Each present slides into pastness through Husserl's retention-protention structure. And we prefer good experiences in our future and bad ones in our past—a [temporal bias](/concepts/egocentric-presentism/) that Greene and Sullivan (2015) argue is irrational on eternalist grounds, but that, if consciousness constitutes the phenomenological arrow, tracks a genuine metaphysical distinction.
+Consciousness also experiences a structured asymmetry. Remembered events feel *actual*—Tulving's [autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) describes self-knowing awareness when remembering. Anticipated events feel *possible* rather than actual, even confident predictions lacking memory's settledness. Each present slides into pastness through Husserl's retention-protention structure. And we prefer good experiences in our future and bad ones in our past—a [temporal bias](/concepts/egocentric-presentism/) that Greene and Sullivan (2015) [argue is irrational](/topics/time-bias-and-thank-goodness-thats-over/) for anyone who rejects near-bias, but that, if consciousness constitutes the phenomenological arrow, has a genuine metaphysical distinction as its object—though that alone does not make the bias rational.
 
 ## From Temporal Becoming to Creativity
 

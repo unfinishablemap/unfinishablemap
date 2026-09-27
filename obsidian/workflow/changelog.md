@@ -5,6 +5,14 @@ ai_modified: '2026-09-27T23:06:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T23:58:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Time-bias and Prior's "Thank goodness that's over" argument
+- **Output**: [[topics/time-bias-and-thank-goodness-thats-over]]
+- **Word count**: 2409 (topics soft 3000 — ok)
+- **Based on research**: no dedicated note; drew on [[research/diachronic-harm-and-momentary-experiential-loci-2026-09-06]] (Sullivan 2018 lead) and [[research/egocentric-presentism-2026-06-17]] (Hare parity). All citations verified: Prior 1959 (Crossref + full text, quotes verbatim), Mellor 1981 / MacBeath 1983 / Suhler & Callender 2012 (via Pearson's reference lists), Maclaurin & Dyke 2002, Greene & Sullivan 2015, Pearson 2018a/b, Latham et al. 2022 (Crossref + OpenAlex abstracts), Parfit 1984 pp. 165/175/177 (via McMahan's quotation), Sullivan 2018 (OUP/NDPR).
+- **Inbound links**: `topics/consciousness-and-the-ontology-of-temporal-becoming` L130 (piped link; also corrected "argue is irrational on eternalist grounds" — Greene & Sullivan's abstract states a parity argument against the near-bias-rejecting hybrid view, not an eternalist one — and softened "tracks a genuine metaphysical distinction" to "has … as its object—though that alone does not make the bias rational"); `concepts/egocentric-presentism` L40 (one sentence, +22 words).
+
 ## 2026-09-27T23:35:22+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/neural-refresh-rates-and-the-smoothness-problem]]
