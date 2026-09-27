@@ -5,6 +5,11 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T17:25:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/hoel-llm-consciousness-continual-learning (never pessimistically reviewed; 6 deep reviews, last 2026-07-18). Body checked against the arXiv HTML primary source. Found: non-triviality constraint misstated (High); IIT put on the wrong horn, contradicted by Hoel's own Phi=0 statement (Med-High); the article gives a structural-identity reply to the history-lookup-table objection instead of Hoel's Corollary 5.5 reply (High); Dualism paragraph overreads, Bidirectional paragraph inverted relative to the research note, tautology rebuttal misattributes phenomenology to Hoel, amnesia counterexample not engaged (Medium). One P2 refine-draft task added.
+- **Output**: [[reviews/pessimistic-2026-09-27-hoel-llm-consciousness-continual-learning]]
+
 ## 2026-09-27T17:05:22+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/brain-interface-boundary]]

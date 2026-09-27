@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Fix source-fidelity and argument defects in hoel-llm-consciousness-continual-learning (pessimistic review 2026-09-27)
+- **Type**: refine-draft
+- **File**: obsidian/topics/hoel-llm-consciousness-continual-learning.md
+- **Status**: pending
+- **Source**: pessimistic-review (2026-09-27)
+- **Notes**: Pessimistic review checked the body against the arXiv HTML of Hoel (arXiv:2512.12802), NOT the research note (the note carries defect 1's wording at its L38, so checking against it falsely clears the fix). Fix in priority order: (1) L42/L96 non-triviality misstated as "not attributing consciousness to systems that clearly lack it"; Hoel defines triviality as STRICT DEPENDENCY between predictions and inferences, and derives the lookup-table exclusion from that. (2) L46 puts IIT on the lookup-table horn; Hoel says transformers are feedforward with zero Phi, "thus, IIT would say that LLMs are not conscious". IIT's exposure is a-priori falsification (link the unfolding-argument sibling); this also contradicts L106. (3) L72 answers the context/history objection by "structural identity", but the proximity argument is defined over I/O substitution. Replace with Hoel's Corollary 5.5 reply (history-as-input changes I/O scope; an LLM given the same (x, history) gives identical output probabilities) and note its open flank (why the brain's history-as-input does not re-admit substitution). (4) L90 Bidirectional paragraph is inverted: rewrite along research note L78-80 (under interactionism, I/O-equivalence to a lookup table is evidence of no conscious contribution). (5) L88 narrow "supports Dualism": continual learning is itself a functional property, and the result is neutral between dualism and non-functionalist physicalisms. (6) L74 tautology reply: Hoel's criterion is computational and does not "precisely" track the phenomenology of insight; give an in-framework reply or mark the framework boundary plainly. (7) Add a short amnesia paragraph (H.M./Clive Wearing: declarative learning lost, synaptic/procedural plasticity kept; Hoel's paper does not discuss it). Also soften L106 consensus claim (Cerullo dissents), L104 "empirically tractable", L94 "preserves" -> "resonates with"; date-stamp the "frozen weights" currency claim. Body is ~1.9k words, well under the 3000 soft limit. See [[pessimistic-2026-09-27-hoel-llm-consciousness-continual-learning]].
+
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
