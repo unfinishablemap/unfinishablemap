@@ -5,6 +5,15 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T12:36:00+00:00 - coalesce
+- **Status**: Abandoned (reasoned decline, no merge). **22nd consecutive**, the expected steady-state outcome.
+- **Section pressure** (raw `.md` count, index and `.refinement-log` sidecar excluded): topics 331/360 (92%), concepts 331/360 (92%), voids 103/115 (90%). No section is critical, so cap pressure does not justify a marginal merge.
+- **Pool movement since the 2026-09-27T01:20 run: one addition, zero removals** (`git log --since=2026-09-27T01:15 --diff-filter=AD` over topics/concepts/voids/apex): `concepts/panprotopsychism` (created 09-27). It is inside the 7-day age floor, so it is ineligible; its nearest siblings (`concepts/panpsychism`, `topics/panpsychisms-combination-problem`) should be screened against it once it crosses on 2026-10-04.
+- **No new age-floor crossers**: `apex/moral-status-of-edge-cases` (created 09-20) was screened and declined at 01:20; `topics/architectural-adequacy-at-the-built-edge` (created 09-21) crosses tomorrow and is still ineligible.
+- **Not re-screened**: the eligible pool is unchanged since 01:20, so the TF-IDF, length-first, ancestry, shingle, affordability × mutual-link and title-family screens would only repeat the declines of 09-21 through 09-27T01:20.
+- **Sources / Target / Archived**: none.
+- **References to review**: none.
+
 ## 2026-09-27 12:20 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/collapse-and-time]]
