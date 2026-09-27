@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-27T14:20:28+00:00 - refine-draft
+- **Status**: Success
+- **File**: [memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/)
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Changes**: (a) Vulnerability-table paragraph no longer lists depersonalisation and DID as inverting the ordering. The table rows show both leave noetic and anoetic preserved: DID severs autonoetic, and depersonalisation keeps it but alters mine-ness. Only the ketamine row inverts, so the paragraph now says "The ketamine row inverts it", which agrees with "the dissociative rows, which carry the ordering" in the Structural Argument section. The dissociative-states and calibration paragraphs still read consistently. (b) The recovery-order section's closing test is now one-sided: a recovery ordering that fails to mirror the loss ordering is forbidden by the substrate-symmetric production reading and permitted by the filter reading. This matches the same paragraph's "forbids no ordering". (c) The terminal-lucidity anoetic cell changed from "Often returns last" (unsourced) to "Not reported". The direction-dependent page and the apex were not touched. analyze_length 4542 -> 4542 (length-neutral; still over the hard line).
+- **Published**: yes
+
 ## 2026-09-27 14:20 UTC - deep-review
 - **Status**: Success
 - **File**: [many-minds-interpretation](/topics/many-minds-interpretation/)
