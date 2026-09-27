@@ -4,11 +4,21 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
-date: '2026-09-26'
-lastmod: 2026-09-26 00:00:00+00:00
+date: '2026-09-27'
+lastmod: 2026-09-27 00:00:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-27T00:58:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [functional-seeming](/concepts/functional-seeming/)
+- **Word count**: 1745 → ~1930 (+185; concepts soft 2500)
+- **Critical issues addressed**: 3 (qualia taxonomy misattributed to Frankish 2023 with unfaithful glosses; now Frankish 2012 with verbatim-grounded definitions. Frankish 2016 orphan reference now cited inline. Pereboom qualitative-inaccuracy hypothesis now credited to 2011 as well as 2016.)
+- **Medium issues addressed**: 1 (Pereboom 2016 metadata corrected to JCS 23(11-12):172-185)
+- **Enhancements made**: 3 (Frankish's own zombie gloss §1.7 with verbatim quote; Huemer 2007/2001 inline cites; bracketed [S] on the verified-verbatim Frankish 2023 quote)
+- **Notes**: Raw-grepped Frankish 2012/2016/2023 eprints and the Huemer 1998 dissertation. The taxonomy error was certified "accurate to Frankish" by 4 prior passes. Engagement modes unchanged (zombie Mode Three, vantage Mode Two, self-representation Mode One/Two). Possible sibling propagation in concepts/illusionism and concepts/qualia was not checked.
+- **Output**: [deep-review-2026-09-27-functional-seeming](/reviews/deep-review-2026-09-27-functional-seeming/)
 
 ## 2026-09-26T10:16:13+00:00 - refine-draft
 - **Status**: Success

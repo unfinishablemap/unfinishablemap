@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-09-19 10:36:47+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-27 01:00:00+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/illusionism-as-epiphenomenalism-in-disguise/
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 03:30:13+00:00
-lastmod: 2026-09-19 10:36:47+00:00
+lastmod: 2026-09-27 01:00:00+00:00
 modified: *id001
 related_articles:
 - '[[parsimony-epistemology]]'
@@ -63,7 +63,7 @@ Illusionism is the eliminativist strand of physicalism targeting phenomenal cons
 
 Keith Frankish and Daniel Dennett, illusionism's leading defenders, hold that we *seem* to have experiences with special qualitative properties ([qualia](/concepts/qualia/)), but this seeming is itself a misrepresentation. Frankish is careful that illusionism denies phenomenal consciousness *as traditionally conceived*—experience bearing intrinsic, ineffable what-it-is-like properties—not consciousness in every functional or everyday sense; the illusionist still grants that we discriminate, react, and report. Dennett's [heterophenomenology](/concepts/heterophenomenology/)—treating consciousness reports as third-person data rather than privileged first-person access—provides the methodological foundation.
 
-Frankish (2023) distinguishes three conceptions of qualia: **classic qualia** (ineffable, intrinsic, private), **zero qualia** (minimal functional states carrying no theoretical commitments), and **diet qualia** (retaining some mystery while deflating stronger claims). Illusionists accept zero qualia but reject classic and diet qualia as introspective artefacts. The taxonomy reveals how the debate talks past itself: anti-illusionists defend zero qualia (which illusionists don't deny) while illusionists attack classic qualia (which few hold in strongest form).
+Frankish (2012) distinguishes three conceptions of qualia: **classic qualia** (introspectable qualitative properties that are intrinsic, ineffable, and subjective), **diet qualia** (the phenomenal characters of experience, "what-it-is-likenesses", with the classic commitments stripped away), and **zero qualia** (the properties of experiences that dispose us to judge that they have classic qualia). Diet qualia are the common ground many realists and physicalists assume; Frankish argues the diet notion has no distinctive content, so that once classic qualia are rejected only zero qualia remain to be explained. Illusionists accept zero qualia and reject classic and diet qualia alike. The anti-illusionist's reply is that diet qualia are exactly the explanandum, and that denying them any content beyond zero qualia assumes the functional analysis at issue.
 
 ## The Illusion Problem
 
@@ -189,6 +189,7 @@ Illusionism directly challenges the Map's [tenets](/tenets/):
 - Chalmers, D. J. (2018). "The Meta-Problem of Consciousness." *Journal of Consciousness Studies*, 25(9-10), 6-61.
 - Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
 - Dennett, D. C. (2017). *From Bacteria to Bach and Back: The Evolution of Minds*. W. W. Norton.
+- Frankish, K. (2012). "Quining Diet Qualia." *Consciousness and Cognition*, 21(2), 667-676.
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39. (Target article and Frankish's replies to commentators in the same symposium issue.)
 - Frankish, K. (2023). "What is Illusionism?" *Klesis*, 55.
 - Gorbachev, M. & Frankish, K. (2025). "Illusionism and the distortion thesis." *Synthese*, 205(6), 247.

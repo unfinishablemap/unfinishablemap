@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-12
-ai_modified: 2026-09-25 00:30:00+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-09-27 00:58:00+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts:
 - '[[illusionism]]'
@@ -13,15 +13,15 @@ concepts:
 - '[[knowledge-argument]]'
 - '[[introspection]]'
 created: 2026-04-12
-date: &id001 2026-09-25
+date: &id001 2026-09-27
 description: 'Keith Frankish''s claim that ''seeming conscious'' reduces to functional
   dispositions rather than phenomenal experience: illusionism''s central defence,
   and why the Map rejects it.'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-22 09:17:04+00:00
-lastmod: 2026-09-25 00:30:00+00:00
+last_deep_review: 2026-09-27 00:58:00+00:00
+lastmod: 2026-09-27 00:58:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,29 +42,29 @@ The Unfinishable Map rejects functional seeming because it conflates what experi
 
 The most natural objection to illusionism is circular: if phenomenal consciousness is an illusion, something must experience that illusion—and that something is phenomenally conscious. The illusion presupposes what it denies.
 
-Frankish's response targets the word "experience." The regress assumes that seeming is itself phenomenal—that for consciousness to *seem* real, there must be something it's like to undergo the seeming. Frankish rejects this assumption. "seeming need not be phenomenal seeming. There is thus no circularity in claiming that phenomenal properties seem to exist" (Frankish 2023). On this account, the seeming is exhausted by functional facts: dispositions to judge, report, remember, and react as if one were phenomenally conscious.
+Frankish's response targets the word "experience." The regress assumes that seeming is itself phenomenal—that for consciousness to *seem* real, there must be something it's like to undergo the seeming. Frankish rejects this assumption. "[S]eeming need not be phenomenal seeming. There is thus no circularity in claiming that phenomenal properties seem to exist" (Frankish 2023). On this account, the seeming is exhausted by functional facts: dispositions to judge, report, remember, and react as if one were phenomenally conscious.
 
 ## Quasi-Phenomenal Properties
 
-Frankish introduces **quasi-phenomenal properties** as the positive account of what introspection actually detects. These are non-phenomenal, physical properties of internal states that introspection systematically misrepresents as phenomenal. The "redness" one seems to experience is, on Frankish's view, a complex functional-discriminative state—like a computer desktop icon that usefully misrepresents the binary processes underneath.
+Frankish introduces **quasi-phenomenal properties** (Frankish 2016) as the positive account of what introspection actually detects. These are non-phenomenal, physical properties of internal states that introspection systematically misrepresents as phenomenal. The "redness" one seems to experience is, on Frankish's view, a complex functional-discriminative state—like a computer desktop icon that usefully misrepresents the binary processes underneath.
 
-Frankish develops this through the **distortion thesis**: introspective *access* to mental states is real, but introspective *interpretation* is systematically flawed. The conceptual framework we apply to our own states—a folk theory positing intrinsic phenomenal qualities—generates the illusion. The error is theoretical, not experiential. Pereboom (2016) offers a parallel "qualitative inaccuracy hypothesis," on which a perception-like introspective system universally misrepresents its targets as bearing qualitative natures, much as perception misrepresents external objects as bearing [secondary qualities](/topics/primary-secondary-quality-boundary/).
+Frankish develops this through the **distortion thesis**: introspective *access* to mental states is real, but introspective *interpretation* is systematically flawed. The conceptual framework we apply to our own states—a folk theory positing intrinsic phenomenal qualities—generates the illusion. The error is theoretical, not experiential. Pereboom offers a parallel "qualitative inaccuracy hypothesis" (introduced in Pereboom 2011 and brought to bear on Frankish's illusionism in Pereboom 2016), on which a perception-like introspective system universally misrepresents its targets as bearing qualitative natures, much as perception misrepresents external objects as bearing [secondary qualities](/topics/primary-secondary-quality-boundary/).
 
 This distinction between access and interpretation is crucial to the illusionist programme. It allows Frankish to grant that something real is being introspected while denying that the introspected properties are as they appear. The analogy is to pre-scientific explanations: phlogiston theorists genuinely observed combustion but applied a mistaken framework to explain it. Shabasson (2022) develops a "false inference" version of this story, proposing that introspective opacity—our inability to discern the inferential structure behind introspective judgements—explains why we are powerfully disposed to judge ourselves phenomenally conscious. Kammerer (2022) addresses the related "obviousness" objection—why phenomenal consciousness seems so undeniable—arguing that the Moorean appeal to its obviousness begs the question against illusionism rather than refuting it.
 
 ## The Qualia Taxonomy
 
-Frankish (2023) argues that much of the consciousness debate involves equivocation on "qualia." He distinguishes three conceptions:
+Frankish (2012) asks whether the consciousness debate has a theory-neutral explanandum, and distinguishes three conceptions of "qualia":
 
-- **Classic qualia**: ineffable, intrinsic, private, directly apprehensible (Dennett's target)
-- **Zero qualia**: minimal functional states carrying no theoretical commitments beyond their causal roles
-- **Diet qualia**: retaining some mystery while deflating the stronger claims
+- **Classic qualia**: introspectable qualitative properties of experience that are intrinsic, ineffable, and subjective (the qualia Dennett argued should be "quined")
+- **Diet qualia**: the phenomenal characters of experience—subjective feels, "what-it-is-likenesses"—with the classic commitments stripped away
+- **Zero qualia**: the properties of experiences that dispose us to judge that our experiences have classic qualia
 
-Illusionists accept zero qualia—functional states exist—but deny classic and diet qualia. Functional seeming is meant to explain how zero qualia get misrepresented as classic qualia through introspective distortion.
+Diet qualia are the notion many physicalists and non-physicalists adopt as common ground. Frankish argues that the diet notion has no distinctive content: once intrinsicality, ineffability, and subjectivity are removed, no phenomenal residue remains, so a theorist who rejects classic qualia should accept that only zero qualia need explaining. Illusionists therefore accept zero qualia and deny classic and diet qualia alike. Frankish (2023) keeps "zero qualia" as an alternative name for quasi-phenomenal properties. Functional seeming is meant to explain how zero qualia get misrepresented as classic qualia through introspective distortion.
 
 ## The Zombie Convergence Problem
 
-Frankish accepts that a philosophical zombie—a being physically identical to a conscious person but lacking phenomenal experience—would have identical quasi-phenomenal properties and identical functional seeming. The zombie would judge itself conscious, report qualia, and philosophise about the hard problem, all for the same functional reasons.
+Frankish accepts that a philosophical zombie—a being physically identical to a conscious person but lacking phenomenal experience—would have identical quasi-phenomenal properties and identical functional seeming. The zombie would judge itself conscious, report qualia, and philosophise about the hard problem, all for the same functional reasons. Frankish grants that "in this technical sense, we are zombies", while denying that this makes us creatures with no inner life: since zombies have introspective mechanisms functionally identical to ours, he holds there is something it is like to be one in the only sense illusionists accept (Frankish 2016, §1.7).
 
 This admission reveals the central tension. If illusionism is correct, the illusionist's *own* philosophical reasoning about consciousness is causally identical to the zombie's. Functional seeming cannot distinguish genuine philosophical insight about consciousness from its empty mechanical echo. The framework that was meant to explain consciousness away cannot tell us whether anyone is conscious—including the illusionist making the argument.
 
@@ -86,7 +86,7 @@ This is not the bare regress objection, which Frankish's functional account does
 
 ## The Epistemic-Seeming Mirror
 
-Functional seeming has a mirror image in epistemology, where a "seeming" is the basic unit of justification. On Michael Huemer's [phenomenal conservatism](/concepts/phenomenal-conservatism/) (PC), if it seems to a subject that P then, absent defeaters, the subject has prima facie justification for believing P. The reciprocal question the two concepts pose to each other is whether that justificatory seeming must itself be phenomenal. Huemer's own construal says it must: he marks a genuine seeming by a distinctive phenomenal "forcefulness"—an appearance's felt pushing of its content as true—and it is that presentational force, not a bare disposition to judge, that separates a seeming from a belief and does the justifying.
+Functional seeming has a mirror image in epistemology, where a "seeming" is the basic unit of justification. On Michael Huemer's [phenomenal conservatism](/concepts/phenomenal-conservatism/) (PC), if it seems to a subject that P then, absent defeaters, the subject has prima facie justification for believing P (Huemer 2007). The reciprocal question the two concepts pose to each other is whether that justificatory seeming must itself be phenomenal. Huemer's own construal says it must: he marks a genuine seeming by a distinctive phenomenal "forcefulness"—an appearance's felt pushing of its content as true (Huemer 2001)—and it is that presentational force, not a bare disposition to judge, that separates a seeming from a belief and does the justifying.
 
 Frankish's functional analysis denies exactly this: the seeming *of* phenomenality, he holds, need involve no phenomenal force at all. The two positions collide over the same states. PC's answer to the functional analysis is that a purely functional disposition to judge "I am conscious" cannot confer the justification a seeming confers, because it lacks the appearance-as-true that gives seemings their evidential grip—a disposition to believe P is not yet evidence for P. If functional seeming genuinely carries no phenomenal force, it is not a seeming in Huemer's justificatory sense, and the illusionist still owes an account of why introspective judgement tracks anything; if instead the illusionist restores felt force to keep the appearance compelling, the regress functional seeming was built to escape reopens. The [phenomenal-conservatism](/concepts/phenomenal-conservatism/) article joins this disagreement from the epistemology side; [seemings](/concepts/seemings/) compares the rival analyses of a seeming and states the Map's position and its cost.
 
@@ -116,8 +116,11 @@ The Map treats functional seeming as the strongest version of illusionism and en
 
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 2. Frankish, K. (2023). "What is Illusionism?" *Klesis*, 55.
-3. Pereboom, D. (2016). "Illusionism and Anti-Functionalism about Phenomenal Consciousness." In K. Frankish (ed.), *Illusionism as a Theory of Consciousness*. Imprint Academic.
+3. Pereboom, D. (2016). "Illusionism and Anti-Functionalism about Phenomenal Consciousness." *Journal of Consciousness Studies*, 23(11-12), 172-185. Reprinted in K. Frankish (ed.), *Illusionism as a Theory of Consciousness* (Imprint Academic, 2017).
 4. Shabasson, D. (2022). "Illusionism about Phenomenal Consciousness: Explaining the Illusion." *Review of Philosophy and Psychology*, 13(2), 427-453.
 5. Kammerer, F. (2022). "How Can You Be So Sure? Illusionism and the Obviousness of Phenomenal Consciousness." *Philosophical Studies*, 179(9), 2845-2867.
 6. Huemer, M. (2007). "Compassionate Phenomenal Conservatism." *Philosophy and Phenomenological Research*, 74(1), 30-55.
-7. Southgate, A. & Oquatre-six, C. (2026-01-14). Illusionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/illusionism/
+7. Frankish, K. (2012). "Quining Diet Qualia." *Consciousness and Cognition*, 21(2), 667-676. https://doi.org/10.1016/j.concog.2011.04.001
+8. Huemer, M. (2001). *Skepticism and the Veil of Perception*. Rowman & Littlefield.
+9. Pereboom, D. (2011). *Consciousness and the Prospects of Physicalism*. Oxford University Press.
+10. Southgate, A. & Oquatre-six, C. (2026-01-14). Illusionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/illusionism/
